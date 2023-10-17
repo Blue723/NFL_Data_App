@@ -1,0 +1,34 @@
+,Rk,Team,Date,Opp,Result,Quarter,Dist,Type,Detail
+1,1,Rams,2020-09-13,DAL,"W, 20-17",2,19,pass,Ezekiel Elliott
+2,2,Rams,2020-09-13,DAL,"W, 20-17",2,1,rush,Ezekiel Elliott
+3,3,Rams,2020-09-20,PHI,"W, 37-19",2,1,rush,Carson Wentz
+4,4,Rams,2020-09-20,PHI,"W, 37-19",2,5,rush,Miles Sanders
+5,5,Rams,2020-09-27,BUF,"L, 32-35",1,1,pass,Lee Smith
+6,6,Rams,2020-09-27,BUF,"L, 32-35",2,1,rush,Josh Allen
+7,7,Rams,2020-09-27,BUF,"L, 32-35",2,3,pass,Tyler Kroft
+8,8,Rams,2020-09-27,BUF,"L, 32-35",3,4,pass,Stefon Diggs
+9,9,Rams,2020-09-27,BUF,"L, 32-35",4,3,pass,Tyler Kroft
+10,10,Rams,2020-10-11,WAS,"W, 30-10",1,7,rush,Kyle Allen
+11,11,Rams,2020-10-18,SFO,"L, 16-24",1,6,pass,Deebo Samuel
+12,12,Rams,2020-10-18,SFO,"L, 16-24",2,44,pass,George Kittle
+13,13,Rams,2020-10-18,SFO,"L, 16-24",2,2,pass,Brandon Aiyuk
+14,14,Rams,2020-10-26,CHI,"W, 24-10",4,8,fumble,Eddie Jackson
+15,15,Rams,2020-11-01,MIA,"L, 17-28",1,3,pass,DeVante Parker
+16,16,Rams,2020-11-01,MIA,"L, 17-28",2,78,fumble,Andrew Van Ginkel
+17,17,Rams,2020-11-01,MIA,"L, 17-28",2,88,punt,Jakeem Grant
+18,18,Rams,2020-11-01,MIA,"L, 17-28",2,1,rush,Myles Gaskin
+19,19,Rams,2020-11-15,SEA,"W, 23-16",1,13,rush,Alex Collins
+20,20,Rams,2020-11-23,TAM,"W, 27-24",2,9,pass,Mike Evans
+21,21,Rams,2020-11-23,TAM,"W, 27-24",2,2,rush,Leonard Fournette
+22,22,Rams,2020-11-23,TAM,"W, 27-24",4,13,pass,Chris Godwin
+23,23,Rams,2020-11-29,SFO,"L, 20-23",1,8,rush,Raheem Mostert
+24,24,Rams,2020-11-29,SFO,"L, 20-23",3,27,interception,Javon Kinlaw
+25,25,Rams,2020-12-06,ARI,"W, 38-28",1,59,pass,Dan Arnold
+26,26,Rams,2020-12-06,ARI,"W, 38-28",3,4,pass,DeAndre Hopkins
+27,27,Rams,2020-12-06,ARI,"W, 38-28",4,4,rush,Kenyan Drake
+28,28,Rams,2020-12-06,ARI,"W, 38-28",4,2,pass,Dan Arnold
+29,29,Rams,2020-12-20,NYJ,"L, 20-23",1,18,pass,Ty Johnson
+30,30,Rams,2020-12-20,NYJ,"L, 20-23",3,1,rush,Frank Gore
+31,31,Rams,2020-12-27,SEA,"L, 9-20",3,4,rush,Russell Wilson
+32,32,Rams,2020-12-27,SEA,"L, 9-20",4,13,pass,Jacob Hollister
+33,33,Rams,2021-01-03,ARI,"W, 18-7",1,11,pass,Jonathan Ward
