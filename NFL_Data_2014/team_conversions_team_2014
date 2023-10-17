@@ -1,0 +1,129 @@
+,Player,Team,3DAtt,3DConv,3D%,4DAtt,4DConv,4D%,RZAtt,RZTD,RZPct
+0,Team Stats,49ers,213.0,86.0,40.4%,18.0,10.0,55.6%,44.0,19.0,43.2%
+1,Opp. Stats,49ers,203.0,88.0,43.3%,14.0,7.0,50.0%,44.0,27.0,61.4%
+2,Lg Rank Offense,49ers,,,15,,,7,,,28
+3,Lg Rank Defense,49ers,,,26,,,18,,,28
+4,Team Stats,Bears,207.0,78.0,37.7%,28.0,13.0,46.4%,47.0,30.0,63.8%
+5,Opp. Stats,Bears,201.0,85.0,42.3%,19.0,12.0,63.2%,71.0,37.0,52.1%
+6,Lg Rank Offense,Bears,,,24,,,17,,,3
+7,Lg Rank Defense,Bears,,,21,,,30,,,14
+8,Team Stats,Bengals,211.0,84.0,39.8%,13.0,7.0,53.8%,49.0,28.0,57.1%
+9,Opp. Stats,Bengals,215.0,79.0,36.7%,19.0,10.0,52.6%,55.0,27.0,49.1%
+10,Lg Rank Offense,Bengals,,,18,,,8,,,11
+11,Lg Rank Defense,Bengals,,,7,,,22,,,10
+12,Team Stats,Broncos,213.0,94.0,44.1%,13.0,6.0,46.2%,62.0,39.0,62.9%
+13,Opp. Stats,Broncos,222.0,81.0,36.5%,17.0,10.0,58.8%,52.0,30.0,57.7%
+14,Lg Rank Offense,Broncos,,,8,,,18,,,4
+15,Lg Rank Defense,Broncos,,,5,,,27,,,22
+16,Team Stats,Browns,207.0,61.0,29.5%,14.0,5.0,35.7%,49.0,24.0,49.0%
+17,Opp. Stats,Browns,239.0,90.0,37.7%,18.0,11.0,61.1%,54.0,25.0,46.3%
+18,Lg Rank Offense,Browns,,,32,,,27,,,24
+19,Lg Rank Defense,Browns,,,11,,,29,,,5
+20,Team Stats,Buccaneers,203.0,76.0,37.4%,12.0,4.0,33.3%,39.0,21.0,53.8%
+21,Opp. Stats,Buccaneers,213.0,93.0,43.7%,9.0,5.0,55.6%,52.0,32.0,61.5%
+22,Lg Rank Offense,Buccaneers,,,25,,,29,,,15
+23,Lg Rank Defense,Buccaneers,,,28,,,24,,,29
+24,Team Stats,Buffalos,229.0,84.0,36.7%,14.0,6.0,42.9%,51.0,22.0,43.1%
+25,Opp. Stats,Buffalos,220.0,73.0,33.2%,11.0,5.0,45.5%,44.0,22.0,50.0%
+26,Lg Rank Offense,Buffalos,,,26,,,20,,,29
+27,Lg Rank Defense,Buffalos,,,1,,,15,,,11
+28,Team Stats,Cardinals,224.0,90.0,40.2%,4.0,3.0,75.0%,38.0,16.0,42.1%
+29,Opp. Stats,Cardinals,215.0,81.0,37.7%,13.0,5.0,38.5%,41.0,18.0,43.9%
+30,Lg Rank Offense,Cardinals,,,16,,,1,,,30
+31,Lg Rank Defense,Cardinals,,,12,,,10,,,3
+32,Team Stats,Chargers,215.0,97.0,45.1%,11.0,5.0,45.5%,48.0,26.0,54.2%
+33,Opp. Stats,Chargers,207.0,89.0,43.0%,10.0,2.0,20.0%,52.0,27.0,51.9%
+34,Lg Rank Offense,Chargers,,,4,,,19,,,13
+35,Lg Rank Defense,Chargers,,,24,,,3,,,12
+36,Team Stats,Chiefs,201.0,80.0,39.8%,12.0,5.0,41.7%,48.0,28.0,58.3%
+37,Opp. Stats,Chiefs,216.0,79.0,36.6%,21.0,8.0,38.1%,54.0,21.0,38.9%
+38,Lg Rank Offense,Chiefs,,,19,,,21,,,8
+39,Lg Rank Defense,Chiefs,,,6,,,9,,,1
+40,Team Stats,Colts,217.0,89.0,41.0%,15.0,6.0,40.0%,60.0,33.0,55.0%
+41,Opp. Stats,Colts,201.0,67.0,33.3%,17.0,4.0,23.5%,50.0,33.0,66.0%
+42,Lg Rank Offense,Colts,,,13,,,22,,,12
+43,Lg Rank Defense,Colts,,,2,,,4,,,32
+44,Team Stats,Commanders,197.0,62.0,31.5%,16.0,4.0,25.0%,48.0,23.0,47.9%
+45,Opp. Stats,Commanders,207.0,89.0,43.0%,9.0,5.0,55.6%,48.0,25.0,52.1%
+46,Lg Rank Offense,Commanders,,,30,,,32,,,26
+47,Lg Rank Defense,Commanders,,,24,,,24,,,13
+48,Team Stats,Cowboys,201.0,95.0,47.3%,6.0,3.0,50.0%,51.0,33.0,64.7%
+49,Opp. Stats,Cowboys,204.0,89.0,43.6%,20.0,10.0,50.0%,49.0,30.0,61.2%
+50,Lg Rank Offense,Cowboys,,,2,,,11,,,2
+51,Lg Rank Defense,Cowboys,,,27,,,18,,,27
+52,Team Stats,Dolphins,200.0,80.0,40.0%,19.0,7.0,36.8%,68.0,35.0,51.5%
+53,Opp. Stats,Dolphins,223.0,98.0,43.9%,22.0,13.0,59.1%,55.0,29.0,52.7%
+54,Lg Rank Offense,Dolphins,,,17,,,25,,,21
+55,Lg Rank Defense,Dolphins,,,29,,,28,,,16
+56,Team Stats,Eagles,237.0,103.0,43.5%,11.0,7.0,63.6%,59.0,29.0,49.2%
+57,Opp. Stats,Eagles,232.0,88.0,37.9%,12.0,3.0,25.0%,43.0,25.0,58.1%
+58,Lg Rank Offense,Eagles,,,9,,,2,,,23
+59,Lg Rank Defense,Eagles,,,13,,,5,,,23
+60,Team Stats,Falcons,210.0,93.0,44.3%,16.0,8.0,50.0%,44.0,27.0,61.4%
+61,Opp. Stats,Falcons,203.0,95.0,46.8%,8.0,4.0,50.0%,58.0,33.0,56.9%
+62,Lg Rank Offense,Falcons,,,7,,,11,,,5
+63,Lg Rank Defense,Falcons,,,32,,,18,,,21
+64,Team Stats,Giants,235.0,101.0,43.0%,16.0,5.0,31.3%,61.0,36.0,59.0%
+65,Opp. Stats,Giants,200.0,72.0,36.0%,10.0,4.0,40.0%,51.0,25.0,49.0%
+66,Lg Rank Offense,Giants,,,10,,,30,,,7
+67,Lg Rank Defense,Giants,,,4,,,11,,,9
+68,Team Stats,Jaguars,216.0,69.0,31.9%,19.0,7.0,36.8%,32.0,13.0,40.6%
+69,Opp. Stats,Jaguars,236.0,101.0,42.8%,10.0,4.0,40.0%,56.0,27.0,48.2%
+70,Lg Rank Offense,Jaguars,,,29,,,25,,,31
+71,Lg Rank Defense,Jaguars,,,23,,,11,,,8
+72,Team Stats,Jets,234.0,91.0,38.9%,16.0,9.0,56.3%,47.0,17.0,36.2%
+73,Opp. Stats,Jets,219.0,99.0,45.2%,4.0,0.0,0.0%,49.0,29.0,59.2%
+74,Lg Rank Offense,Jets,,,20,,,6,,,32
+75,Lg Rank Defense,Jets,,,30,,,1,,,25
+76,Team Stats,Lions,223.0,86.0,38.6%,20.0,10.0,50.0%,47.0,25.0,53.2%
+77,Opp. Stats,Lions,207.0,77.0,37.2%,15.0,6.0,40.0%,49.0,26.0,53.1%
+78,Lg Rank Offense,Lions,,,23,,,11,,,17
+79,Lg Rank Defense,Lions,,,9,,,11,,,17
+80,Team Stats,Packers,197.0,93.0,47.2%,10.0,4.0,40.0%,64.0,37.0,57.8%
+81,Opp. Stats,Packers,206.0,83.0,40.3%,28.0,15.0,53.6%,48.0,27.0,56.3%
+82,Lg Rank Offense,Packers,,,3,,,22,,,10
+83,Lg Rank Defense,Packers,,,18,,,23,,,20
+84,Team Stats,Panthers,222.0,93.0,41.9%,10.0,6.0,60.0%,47.0,22.0,46.8%
+85,Opp. Stats,Panthers,210.0,89.0,42.4%,11.0,5.0,45.5%,46.0,29.0,63.0%
+86,Lg Rank Offense,Panthers,,,12,,,3,,,27
+87,Lg Rank Defense,Panthers,,,22,,,15,,,31
+88,Team Stats,Patriots,221.0,98.0,44.3%,13.0,7.0,53.8%,67.0,39.0,58.2%
+89,Opp. Stats,Patriots,209.0,84.0,40.2%,23.0,8.0,34.8%,46.0,22.0,47.8%
+90,Lg Rank Offense,Patriots,,,6,,,8,,,9
+91,Lg Rank Defense,Patriots,,,16,,,6,,,6
+92,Team Stats,Raiders,236.0,80.0,33.9%,15.0,9.0,60.0%,29.0,21.0,72.4%
+93,Opp. Stats,Raiders,221.0,85.0,38.5%,9.0,4.0,44.4%,57.0,30.0,52.6%
+94,Lg Rank Offense,Raiders,,,28,,,3,,,1
+95,Lg Rank Defense,Raiders,,,14,,,14,,,15
+96,Team Stats,Rams,192.0,68.0,35.4%,10.0,4.0,40.0%,44.0,22.0,50.0%
+97,Opp. Stats,Rams,213.0,82.0,38.5%,10.0,0.0,0.0%,39.0,18.0,46.2%
+98,Lg Rank Offense,Rams,,,27,,,22,,,22
+99,Lg Rank Defense,Rams,,,15,,,1,,,4
+100,Team Stats,Ravens,205.0,84.0,41.0%,18.0,9.0,50.0%,63.0,33.0,52.4%
+101,Opp. Stats,Ravens,221.0,89.0,40.3%,14.0,5.0,35.7%,54.0,23.0,42.6%
+102,Lg Rank Offense,Ravens,,,14,,,11,,,19
+103,Lg Rank Defense,Ravens,,,17,,,8,,,2
+104,Team Stats,Saints,203.0,98.0,48.3%,15.0,8.0,53.3%,65.0,39.0,60.0%
+105,Opp. Stats,Saints,215.0,99.0,46.0%,8.0,4.0,50.0%,51.0,32.0,62.7%
+106,Lg Rank Offense,Saints,,,1,,,10,,,6
+107,Lg Rank Defense,Saints,,,31,,,18,,,30
+108,Team Stats,Seahawks,212.0,90.0,42.5%,11.0,3.0,27.3%,60.0,31.0,51.7%
+109,Opp. Stats,Seahawks,202.0,75.0,37.1%,14.0,8.0,57.1%,37.0,22.0,59.5%
+110,Lg Rank Offense,Seahawks,,,11,,,31,,,20
+111,Lg Rank Defense,Seahawks,,,8,,,26,,,26
+112,Team Stats,Steelers,208.0,93.0,44.7%,10.0,5.0,50.0%,55.0,29.0,52.7%
+113,Opp. Stats,Steelers,189.0,71.0,37.6%,14.0,10.0,71.4%,50.0,27.0,54.0%
+114,Lg Rank Offense,Steelers,,,5,,,11,,,18
+115,Lg Rank Defense,Steelers,,,10,,,32,,,18
+116,Team Stats,Texans,235.0,91.0,38.7%,17.0,10.0,58.8%,48.0,26.0,54.2%
+117,Opp. Stats,Texans,218.0,74.0,33.9%,17.0,6.0,35.3%,46.0,22.0,47.8%
+118,Lg Rank Offense,Texans,,,22,,,5,,,13
+119,Lg Rank Defense,Texans,,,3,,,7,,,6
+120,Team Stats,Titans,196.0,59.0,30.1%,17.0,6.0,35.3%,39.0,19.0,48.7%
+121,Opp. Stats,Titans,227.0,94.0,41.4%,11.0,5.0,45.5%,63.0,37.0,58.7%
+122,Lg Rank Offense,Titans,,,31,,,28,,,25
+123,Lg Rank Defense,Titans,,,19,,,15,,,24
+124,Team Stats,Vikings,211.0,82.0,38.9%,12.0,6.0,50.0%,39.0,21.0,53.8%
+125,Opp. Stats,Vikings,217.0,90.0,41.5%,14.0,9.0,64.3%,48.0,26.0,54.2%
+126,Lg Rank Offense,Vikings,,,21,,,11,,,15
+127,Lg Rank Defense,Vikings,,,20,,,31,,,19
