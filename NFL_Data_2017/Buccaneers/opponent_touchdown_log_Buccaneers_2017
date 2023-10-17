@@ -1,0 +1,45 @@
+,Rk,Team,Date,Opp,Result,Quarter,Dist,Type,Detail
+1,1,Buccaneers,2017-09-17,CHI,"W, 29-7",4,14,pass,Deonte Thompson
+2,2,Buccaneers,2017-09-24,MIN,"L, 17-34",1,1,rush,Dalvin Cook
+3,3,Buccaneers,2017-09-24,MIN,"L, 17-34",2,2,pass,Jarius Wright
+4,4,Buccaneers,2017-09-24,MIN,"L, 17-34",2,17,pass,Stefon Diggs
+5,5,Buccaneers,2017-09-24,MIN,"L, 17-34",3,59,pass,Stefon Diggs
+6,6,Buccaneers,2017-10-01,NYG,"W, 25-23",2,14,rush,Eli Manning
+7,7,Buccaneers,2017-10-01,NYG,"W, 25-23",3,4,pass,Wayne Gallman
+8,8,Buccaneers,2017-10-01,NYG,"W, 25-23",4,2,pass,Rhett Ellison
+9,9,Buccaneers,2017-10-05,NWE,"L, 14-19",2,5,pass,Chris Hogan
+10,10,Buccaneers,2017-10-15,ARI,"L, 33-38",1,27,rush,Adrian Peterson
+11,11,Buccaneers,2017-10-15,ARI,"L, 33-38",1,14,pass,Troy Niklas
+12,12,Buccaneers,2017-10-15,ARI,"L, 33-38",2,11,pass,Larry Fitzgerald
+13,13,Buccaneers,2017-10-15,ARI,"L, 33-38",3,17,pass,John Brown
+14,14,Buccaneers,2017-10-15,ARI,"L, 33-38",4,1,rush,Adrian Peterson
+15,15,Buccaneers,2017-10-22,BUF,"L, 27-30",2,1,rush,LeSean McCoy
+16,16,Buccaneers,2017-10-22,BUF,"L, 27-30",3,22,pass,Logan Thomas
+17,17,Buccaneers,2017-10-22,BUF,"L, 27-30",4,7,rush,LeSean McCoy
+18,18,Buccaneers,2017-10-29,CAR,"L, 3-17",1,1,rush,Jonathan Stewart
+19,19,Buccaneers,2017-10-29,CAR,"L, 3-17",4,25,pass,Kelvin Benjamin
+20,20,Buccaneers,2017-11-05,NOR,"L, 10-30",1,7,blocked punt,Justin Hardee
+21,21,Buccaneers,2017-11-05,NOR,"L, 10-30",2,33,pass,Alvin Kamara
+22,22,Buccaneers,2017-11-05,NOR,"L, 10-30",3,6,rush,Alvin Kamara
+23,23,Buccaneers,2017-11-05,NOR,"L, 10-30",3,36,pass,Ted Ginn Jr.
+24,24,Buccaneers,2017-11-12,NYJ,"W, 15-10",4,38,pass,Robbie Chosen
+25,25,Buccaneers,2017-11-19,MIA,"W, 30-20",1,2,pass,Jarvis Landry
+26,26,Buccaneers,2017-11-19,MIA,"W, 30-20",4,61,pass,Kenny Stills
+27,27,Buccaneers,2017-11-26,ATL,"L, 20-34",2,51,pass,Julio Jones
+28,28,Buccaneers,2017-11-26,ATL,"L, 20-34",2,25,pass,Julio Jones
+29,29,Buccaneers,2017-11-26,ATL,"L, 20-34",3,3,rush,Tevin Coleman
+30,30,Buccaneers,2017-11-26,ATL,"L, 20-34",4,14,rush,Tevin Coleman
+31,31,Buccaneers,2017-12-03,GNB,"L, 20-26",2,1,rush,Jamaal Williams
+32,32,Buccaneers,2017-12-03,GNB,"L, 20-26",2,62,fumble,Dean Lowry
+33,33,Buccaneers,2017-12-03,GNB,"L, 20-26",5,20,rush,Aaron Jones
+34,34,Buccaneers,2017-12-10,DET,"L, 21-24",1,2,rush,Theo Riddick
+35,35,Buccaneers,2017-12-10,DET,"L, 21-24",2,5,pass,Golden Tate
+36,36,Buccaneers,2017-12-10,DET,"L, 21-24",3,18,rush,Theo Riddick
+37,37,Buccaneers,2017-12-18,ATL,"L, 21-24",1,6,pass,Justin Hardy
+38,38,Buccaneers,2017-12-18,ATL,"L, 21-24",2,n/a,fumble,Levine Toilolo
+39,39,Buccaneers,2017-12-18,ATL,"L, 21-24",4,32,rush,Devonta Freeman
+40,40,Buccaneers,2017-12-24,CAR,"L, 19-22",2,103,kickoff,Damiere Byrd
+41,41,Buccaneers,2017-12-24,CAR,"L, 19-22",4,2,rush,Cam Newton
+42,42,Buccaneers,2017-12-31,NOR,"W, 31-24",1,106,kickoff,Alvin Kamara
+43,43,Buccaneers,2017-12-31,NOR,"W, 31-24",1,7,rush,Alvin Kamara
+44,44,Buccaneers,2017-12-31,NOR,"W, 31-24",4,3,pass,Zach Line

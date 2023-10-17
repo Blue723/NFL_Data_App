@@ -1,0 +1,43 @@
+,Rk,Team,Date,Opp,Result,Quarter,Dist,Type,Detail
+1,1,Packers,2017-09-17,ATL,"L, 23-34",1,1,rush,Devonta Freeman
+2,2,Packers,2017-09-17,ATL,"L, 23-34",2,2,rush,Devonta Freeman
+3,3,Packers,2017-09-17,ATL,"L, 23-34",2,3,pass,Tevin Coleman
+4,4,Packers,2017-09-17,ATL,"L, 23-34",3,15,fumble,Desmond Trufant
+5,5,Packers,2017-09-24,CIN,"W, 27-24",1,10,pass,A.J. Green
+6,6,Packers,2017-09-24,CIN,"W, 27-24",2,6,pass,Giovani Bernard
+7,7,Packers,2017-09-24,CIN,"W, 27-24",2,75,interception,William Jackson III
+8,8,Packers,2017-09-28,CHI,"W, 35-14",2,5,pass,Kendall Wright
+9,9,Packers,2017-09-28,CHI,"W, 35-14",4,3,rush,Jordan Howard
+10,10,Packers,2017-10-08,DAL,"W, 35-31",1,2,pass,Cole Beasley
+11,11,Packers,2017-10-08,DAL,"W, 35-31",2,5,pass,Cole Beasley
+12,12,Packers,2017-10-08,DAL,"W, 35-31",2,10,pass,Dez Bryant
+13,13,Packers,2017-10-08,DAL,"W, 35-31",4,11,rush,Dak Prescott
+14,14,Packers,2017-10-15,MIN,"L, 10-23",2,27,pass,Jerick McKinnon
+15,15,Packers,2017-10-15,MIN,"L, 10-23",2,3,rush,Jerick McKinnon
+16,16,Packers,2017-10-22,NOR,"L, 17-26",2,12,rush,Mark Ingram
+17,17,Packers,2017-10-22,NOR,"L, 17-26",3,22,pass,Brandon Coleman
+18,18,Packers,2017-10-22,NOR,"L, 17-26",4,1,rush,Drew Brees
+19,19,Packers,2017-11-06,DET,"L, 17-30",1,25,pass,Marvin Jones
+20,20,Packers,2017-11-06,DET,"L, 17-30",2,4,rush,Ameer Abdullah
+21,21,Packers,2017-11-06,DET,"L, 17-30",4,11,pass,Marvin Jones
+22,22,Packers,2017-11-12,CHI,"W, 23-16",4,46,pass,Josh Bellamy
+23,23,Packers,2017-11-19,BAL,n/a,3,21,pass,Mike Wallace
+24,24,Packers,2017-11-19,BAL,n/a,4,3,rush,Alex Collins
+25,25,Packers,2017-11-26,PIT,"L, 28-31",1,1,pass,Xavier Grimble
+26,26,Packers,2017-11-26,PIT,"L, 28-31",2,17,pass,Martavis Bryant
+27,27,Packers,2017-11-26,PIT,"L, 28-31",3,1,pass,Antonio Brown
+28,28,Packers,2017-11-26,PIT,"L, 28-31",4,33,pass,Antonio Brown
+29,29,Packers,2017-12-03,TAM,"W, 26-20",1,28,pass,Cameron Brate
+30,30,Packers,2017-12-03,TAM,"W, 26-20",4,11,pass,Cameron Brate
+31,31,Packers,2017-12-10,CLE,"W, 27-21",1,18,pass,Josh Gordon
+32,32,Packers,2017-12-10,CLE,"W, 27-21",2,7,pass,Duke Johnson
+33,33,Packers,2017-12-10,CLE,"W, 27-21",3,2,pass,Corey Coleman
+34,34,Packers,2017-12-17,CAR,"L, 24-31",1,7,pass,Christian McCaffrey
+35,35,Packers,2017-12-17,CAR,"L, 24-31",3,30,pass,Greg Olsen
+36,36,Packers,2017-12-17,CAR,"L, 24-31",3,9,pass,Damiere Byrd
+37,37,Packers,2017-12-17,CAR,"L, 24-31",4,13,pass,Damiere Byrd
+38,38,Packers,2017-12-23,MIN,n/a,1,4,pass,Stefon Diggs
+39,39,Packers,2017-12-31,DET,"L, 11-35",2,54,pass,Kenny Golladay
+40,40,Packers,2017-12-31,DET,"L, 11-35",2,3,pass,Marvin Jones
+41,41,Packers,2017-12-31,DET,"L, 11-35",3,71,pass,Golden Tate
+42,42,Packers,2017-12-31,DET,"L, 11-35",4,7,rush,Ameer Abdullah
