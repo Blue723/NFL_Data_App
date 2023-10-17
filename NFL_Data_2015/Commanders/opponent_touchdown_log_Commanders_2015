@@ -1,0 +1,45 @@
+,Rk,Team,Date,Opp,Result,Quarter,Dist,Type,Detail
+1,1,Commanders,2015-09-13,MIA,"L, 10-17",2,3,pass,Rishard Matthews
+2,2,Commanders,2015-09-13,MIA,"L, 10-17",4,69,punt,Jarvis Landry
+3,3,Commanders,2015-09-20,STL,"W, 24-10",3,40,pass,Kenny Britt
+4,4,Commanders,2015-09-24,NYG,"L, 21-32",1,1,rush,Andre Williams
+5,5,Commanders,2015-09-24,NYG,"L, 21-32",4,30,pass,Odell Beckham Jr.
+6,6,Commanders,2015-09-24,NYG,"L, 21-32",4,41,pass,Rueben Randle
+7,7,Commanders,2015-10-04,PHI,"W, 23-20",3,62,pass,Riley Cooper
+8,8,Commanders,2015-10-04,PHI,"W, 23-20",3,10,pass,Brent Celek
+9,9,Commanders,2015-10-04,PHI,"W, 23-20",4,39,pass,Miles Austin
+10,10,Commanders,2015-10-11,ATL,"L, 19-25",4,n/a,fumble,Julio Jones
+11,11,Commanders,2015-10-11,ATL,"L, 19-25",4,6,rush,Devonta Freeman
+12,12,Commanders,2015-10-11,ATL,"L, 19-25",5,59,interception,Robert Alford
+13,13,Commanders,2015-10-18,NYJ,"L, 20-34",1,1,rush,Chris Ivory
+14,14,Commanders,2015-10-18,NYJ,"L, 20-34",3,18,rush,Ryan Fitzpatrick
+15,15,Commanders,2015-10-18,NYJ,"L, 20-34",3,35,pass,Brandon Marshall
+16,16,Commanders,2015-10-18,NYJ,"L, 20-34",4,2,pass,Eric Decker
+17,17,Commanders,2015-10-25,TAM,"W, 31-30",1,40,pass,Mike Evans
+18,18,Commanders,2015-10-25,TAM,"W, 31-30",2,7,pass,Donteea Dye
+19,19,Commanders,2015-10-25,TAM,"W, 31-30",2,43,fumble,Howard Jones
+20,20,Commanders,2015-11-08,NWE,"L, 10-27",1,8,pass,Julian Edelman
+21,21,Commanders,2015-11-08,NWE,"L, 10-27",1,5,rush,LeGarrette Blount
+22,22,Commanders,2015-11-08,NWE,"L, 10-27",4,18,pass,Brandon Bolden
+23,23,Commanders,2015-11-15,NOR,"W, 47-14",1,4,pass,Brandin Cooks
+24,24,Commanders,2015-11-15,NOR,"W, 47-14",2,60,pass,Brandin Cooks
+25,25,Commanders,2015-11-22,CAR,"L, 16-44",1,12,pass,Jonathan Stewart
+26,26,Commanders,2015-11-22,CAR,"L, 16-44",1,3,pass,Mike Tolbert
+27,27,Commanders,2015-11-22,CAR,"L, 16-44",2,2,pass,Ted Ginn Jr.
+28,28,Commanders,2015-11-22,CAR,"L, 16-44",2,5,pass,Greg Olsen
+29,29,Commanders,2015-11-22,CAR,"L, 16-44",3,5,pass,Devin Funchess
+30,30,Commanders,2015-11-29,NYG,"W, 20-14",4,40,pass,Rueben Randle
+31,31,Commanders,2015-11-29,NYG,"W, 20-14",4,21,pass,Odell Beckham Jr.
+32,32,Commanders,2015-12-07,DAL,"L, 16-19",4,6,rush,Darren McFadden
+33,33,Commanders,2015-12-13,CHI,"W, 24-21",2,20,pass,Alshon Jeffery
+34,34,Commanders,2015-12-13,CHI,"W, 24-21",3,9,pass,Zach Miller
+35,35,Commanders,2015-12-13,CHI,"W, 24-21",3,7,rush,Matt Forte
+36,36,Commanders,2015-12-20,BUF,"W, 35-25",3,60,rush,Mike Gillislee
+37,37,Commanders,2015-12-20,BUF,"W, 35-25",3,48,pass,Sammy Watkins
+38,38,Commanders,2015-12-20,BUF,"W, 35-25",4,20,pass,Sammy Watkins
+39,39,Commanders,2015-12-26,PHI,"W, 38-24",1,1,rush,Ryan Mathews
+40,40,Commanders,2015-12-26,PHI,"W, 38-24",3,4,rush,DeMarco Murray
+41,41,Commanders,2015-12-26,PHI,"W, 38-24",4,8,pass,Jordan Matthews
+42,42,Commanders,2016-01-03,DAL,"W, 34-23",2,4,pass,Jason Witten
+43,43,Commanders,2016-01-03,DAL,"W, 34-23",2,5,pass,Cole Beasley
+44,44,Commanders,2016-01-03,DAL,"W, 34-23",4,7,pass,Cole Beasley

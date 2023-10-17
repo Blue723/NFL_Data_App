@@ -1,0 +1,60 @@
+,Rk,Team,Date,Opp,Result,Quarter,Dist,Type,Detail
+1,1,Panthers,2015-09-13,JAX,"W, 20-9",2,7,pass,Jerricho Cotchery
+2,2,Panthers,2015-09-13,JAX,"W, 20-9",3,30,interception,Josh Norman
+3,3,Panthers,2015-09-20,HOU,"W, 24-17",2,25,pass,Ted Ginn Jr.
+4,4,Panthers,2015-09-20,HOU,"W, 24-17",3,2,rush,Cam Newton
+5,5,Panthers,2015-09-20,HOU,"W, 24-17",4,36,pass,Corey Brown
+6,6,Panthers,2015-09-27,NOR,"W, 27-22",2,11,pass,Greg Olsen
+7,7,Panthers,2015-09-27,NOR,"W, 27-22",3,11,pass,Greg Olsen
+8,8,Panthers,2015-09-27,NOR,"W, 27-22",4,13,rush,Cam Newton
+9,9,Panthers,2015-10-04,TAM,"W, 37-23",1,46,interception,Josh Norman
+10,10,Panthers,2015-10-04,TAM,"W, 37-23",2,6,pass,Ted Ginn Jr.
+11,11,Panthers,2015-10-04,TAM,"W, 37-23",3,57,fumble,Ed Dickson
+12,12,Panthers,2015-10-04,TAM,"W, 37-23",3,12,pass,Ted Ginn Jr.
+13,13,Panthers,2015-10-18,SEA,"W, 27-23",2,2,rush,Cam Newton
+14,14,Panthers,2015-10-18,SEA,"W, 27-23",3,1,rush,Jonathan Stewart
+15,15,Panthers,2015-10-18,SEA,"W, 27-23",4,1,rush,Jonathan Stewart
+16,16,Panthers,2015-10-18,SEA,"W, 27-23",4,26,pass,Greg Olsen
+17,17,Panthers,2015-10-25,PHI,"W, 27-16",1,2,rush,Mike Tolbert
+18,18,Panthers,2015-10-25,PHI,"W, 27-16",2,2,rush,Cam Newton
+19,19,Panthers,2015-10-25,PHI,"W, 27-16",3,2,pass,Mike Tolbert
+20,20,Panthers,2015-11-02,IND,"W, 29-26",1,3,rush,Jonathan Stewart
+21,21,Panthers,2015-11-02,IND,"W, 29-26",3,27,pass,Greg Olsen
+22,22,Panthers,2015-11-02,IND,"W, 29-26",4,8,pass,Corey Brown
+23,23,Panthers,2015-11-08,GNB,"W, 37-29",2,1,rush,Cam Newton
+24,24,Panthers,2015-11-08,GNB,"W, 37-29",2,7,pass,Greg Olsen
+25,25,Panthers,2015-11-08,GNB,"W, 37-29",2,39,pass,Corey Brown
+26,26,Panthers,2015-11-08,GNB,"W, 37-29",4,14,pass,Devin Funchess
+27,27,Panthers,2015-11-15,TEN,"W, 27-10",1,16,rush,Jonathan Stewart
+28,28,Panthers,2015-11-15,TEN,"W, 27-10",2,1,pass,Ed Dickson
+29,29,Panthers,2015-11-15,TEN,"W, 27-10",4,2,rush,Cam Newton
+30,30,Panthers,2015-11-22,WAS,"W, 44-16",1,12,pass,Jonathan Stewart
+31,31,Panthers,2015-11-22,WAS,"W, 44-16",1,3,pass,Mike Tolbert
+32,32,Panthers,2015-11-22,WAS,"W, 44-16",2,2,pass,Ted Ginn Jr.
+33,33,Panthers,2015-11-22,WAS,"W, 44-16",2,5,pass,Greg Olsen
+34,34,Panthers,2015-11-22,WAS,"W, 44-16",3,5,pass,Devin Funchess
+35,35,Panthers,2015-11-26,DAL,"W, 33-14",1,36,interception,Kurt Coleman
+36,36,Panthers,2015-11-26,DAL,"W, 33-14",2,32,interception,Luke Kuechly
+37,37,Panthers,2015-11-26,DAL,"W, 33-14",3,4,rush,Cam Newton
+38,38,Panthers,2015-12-06,NOR,"W, 41-38",2,12,pass,Mike Tolbert
+39,39,Panthers,2015-12-06,NOR,"W, 41-38",2,5,rush,Jonathan Stewart
+40,40,Panthers,2015-12-06,NOR,"W, 41-38",3,13,pass,Ted Ginn Jr.
+41,41,Panthers,2015-12-06,NOR,"W, 41-38",3,13,pass,Devin Funchess
+42,42,Panthers,2015-12-06,NOR,"W, 41-38",4,45,pass,Ted Ginn Jr.
+43,43,Panthers,2015-12-06,NOR,"W, 41-38",4,15,pass,Jerricho Cotchery
+44,44,Panthers,2015-12-13,ATL,n/a,1,1,rush,Jonathan Stewart
+45,45,Panthers,2015-12-13,ATL,n/a,1,74,pass,Ted Ginn Jr.
+46,46,Panthers,2015-12-13,ATL,n/a,1,46,pass,Ted Ginn Jr.
+47,47,Panthers,2015-12-13,ATL,n/a,2,4,pass,Ed Dickson
+48,48,Panthers,2015-12-13,ATL,n/a,3,16,rush,Fozzy Whittaker
+49,49,Panthers,2015-12-20,NYG,"W, 38-35",1,3,pass,Ted Ginn Jr.
+50,50,Panthers,2015-12-20,NYG,"W, 38-35",2,37,pass,Greg Olsen
+51,51,Panthers,2015-12-20,NYG,"W, 38-35",2,14,pass,Devin Funchess
+52,52,Panthers,2015-12-20,NYG,"W, 38-35",3,20,pass,Corey Brown
+53,53,Panthers,2015-12-20,NYG,"W, 38-35",3,14,pass,Ted Ginn Jr.
+54,54,Panthers,2015-12-27,ATL,"L, 13-20",1,8,rush,Cam Newton
+55,55,Panthers,2016-01-03,TAM,"W, 38-10",2,1,rush,Cam Newton
+56,56,Panthers,2016-01-03,TAM,"W, 38-10",2,11,rush,Cameron Artis-Payne
+57,57,Panthers,2016-01-03,TAM,"W, 38-10",2,31,pass,Jerricho Cotchery
+58,58,Panthers,2016-01-03,TAM,"W, 38-10",3,1,rush,Cam Newton
+59,59,Panthers,2016-01-03,TAM,"W, 38-10",4,16,pass,Devin Funchess

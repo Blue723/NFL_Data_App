@@ -1,0 +1,44 @@
+,Rk,Team,Date,Opp,Result,Quarter,Dist,Type,Detail
+1,1,49ers,2015-09-20,PIT,"L, 18-43",1,2,pass,Heath Miller
+2,2,49ers,2015-09-20,PIT,"L, 18-43",2,2,rush,DeAngelo Williams
+3,3,49ers,2015-09-20,PIT,"L, 18-43",2,35,pass,Darrius Heyward-Bey
+4,4,49ers,2015-09-20,PIT,"L, 18-43",2,2,rush,DeAngelo Williams
+5,5,49ers,2015-09-20,PIT,"L, 18-43",4,1,rush,DeAngelo Williams
+6,6,49ers,2015-09-20,PIT,"L, 18-43",4,7,pass,Antonio Brown
+7,7,49ers,2015-09-27,ARI,"L, 7-47",1,21,interception,Justin Bethel
+8,8,49ers,2015-09-27,ARI,"L, 7-47",1,33,interception,Tyrann Mathieu
+9,9,49ers,2015-09-27,ARI,"L, 7-47",2,6,rush,Chris Johnson
+10,10,49ers,2015-09-27,ARI,"L, 7-47",2,1,rush,Chris Johnson
+11,11,49ers,2015-09-27,ARI,"L, 7-47",3,4,pass,Larry Fitzgerald
+12,12,49ers,2015-09-27,ARI,"L, 7-47",4,8,pass,Larry Fitzgerald
+13,13,49ers,2015-10-04,GNB,"L, 3-17",1,9,pass,Richard Rodgers
+14,14,49ers,2015-10-04,GNB,"L, 3-17",3,1,rush,John Kuhn
+15,15,49ers,2015-10-11,NYG,"L, 27-30",2,2,pass,Shane Vereen
+16,16,49ers,2015-10-11,NYG,"L, 27-30",3,17,pass,Odell Beckham Jr.
+17,17,49ers,2015-10-11,NYG,"L, 27-30",4,12,pass,Larry Donnell
+18,18,49ers,2015-10-18,BAL,"W, 25-20",3,34,pass,Steve Smith Sr.
+19,19,49ers,2015-10-18,BAL,"W, 25-20",4,2,pass,Kamar Aiken
+20,20,49ers,2015-10-22,SEA,"L, 3-20",1,1,rush,Marshawn Lynch
+21,21,49ers,2015-10-22,SEA,"L, 3-20",2,43,pass,Tyler Lockett
+22,22,49ers,2015-11-01,STL,"L, 6-27",2,71,rush,Todd Gurley
+23,23,49ers,2015-11-01,STL,"L, 6-27",2,2,rush,Tavon Austin
+24,24,49ers,2015-11-01,STL,"L, 6-27",4,66,pass,Tavon Austin
+25,25,49ers,2015-11-08,ATL,"W, 17-16",2,17,pass,Devonta Freeman
+26,26,49ers,2015-11-22,SEA,"L, 13-29",1,24,pass,Tyler Lockett
+27,27,49ers,2015-11-22,SEA,"L, 13-29",1,2,rush,Thomas Rawls
+28,28,49ers,2015-11-22,SEA,"L, 13-29",2,11,pass,Tyler Lockett
+29,29,49ers,2015-11-22,SEA,"L, 13-29",4,31,pass,Thomas Rawls
+30,30,49ers,2015-11-29,ARI,"L, 13-19",3,1,rush,David Johnson
+31,31,49ers,2015-11-29,ARI,"L, 13-19",4,8,rush,Carson Palmer
+32,32,49ers,2015-12-06,CHI,"W, 26-20",2,5,rush,Matt Forte
+33,33,49ers,2015-12-06,CHI,"W, 26-20",4,4,rush,Ka'Deem Carey
+34,34,49ers,2015-12-13,CLE,"L, 10-24",1,1,rush,Isaiah Crowell
+35,35,49ers,2015-12-13,CLE,"L, 10-24",3,2,pass,Gary Barnidge
+36,36,49ers,2015-12-13,CLE,"L, 10-24",4,3,rush,Isaiah Crowell
+37,37,49ers,2015-12-20,CIN,"L, 14-24",2,1,rush,Jeremy Hill
+38,38,49ers,2015-12-20,CIN,"L, 14-24",2,1,rush,Jeremy Hill
+39,39,49ers,2015-12-20,CIN,"L, 14-24",2,20,pass,Tyler Kroft
+40,40,49ers,2015-12-27,DET,"L, 17-32",2,29,pass,T.J. Jones
+41,41,49ers,2015-12-27,DET,"L, 17-32",2,1,rush,Joique Bell
+42,42,49ers,2015-12-27,DET,"L, 17-32",4,1,pass,Calvin Johnson
+43,43,49ers,2016-01-03,STL,"W, 19-16",2,4,rush,Tre Mason
