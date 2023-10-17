@@ -1,0 +1,36 @@
+,Rk,Team,Date,Opp,Result,Quarter,Dist,Type,Detail
+1,1,Cowboys,2022-09-11,TAM,"L, 3-19",3,5,pass,Mike Evans
+2,2,Cowboys,2022-09-18,CIN,"W, 20-17",4,5,pass,Tee Higgins
+3,3,Cowboys,2022-09-26,NYG,"W, 23-16",3,36,rush,Saquon Barkley
+4,4,Cowboys,2022-10-02,WAS,"W, 25-10",2,10,pass,Jahan Dotson
+5,5,Cowboys,2022-10-09,LAR,"W, 22-10",2,75,pass,Cooper Kupp
+6,6,Cowboys,2022-10-16,PHI,"L, 17-26",2,5,rush,Miles Sanders
+7,7,Cowboys,2022-10-16,PHI,"L, 17-26",2,15,pass,A.J. Brown
+8,8,Cowboys,2022-10-16,PHI,"L, 17-26",4,7,pass,DeVonta Smith
+9,9,Cowboys,2022-10-30,CHI,"W, 49-29",2,3,rush,Justin Fields
+10,10,Cowboys,2022-10-30,CHI,"W, 49-29",2,17,pass,N'Keal Harry
+11,11,Cowboys,2022-10-30,CHI,"W, 49-29",3,12,rush,Khalil Herbert
+12,12,Cowboys,2022-10-30,CHI,"W, 49-29",4,10,pass,Cole Kmet
+13,13,Cowboys,2022-11-13,GNB,"L, 28-31",2,58,pass,Christian Watson
+14,14,Cowboys,2022-11-13,GNB,"L, 28-31",2,12,rush,Aaron Jones
+15,15,Cowboys,2022-11-13,GNB,"L, 28-31",4,39,pass,Christian Watson
+16,16,Cowboys,2022-11-13,GNB,"L, 28-31",4,7,pass,Christian Watson
+17,17,Cowboys,2022-11-24,NYG,"W, 28-20",2,1,rush,Saquon Barkley
+18,18,Cowboys,2022-11-24,NYG,"W, 28-20",4,1,pass,Richie James
+19,19,Cowboys,2022-12-04,IND,"W, 54-19",1,14,pass,Ashton Dulin
+20,20,Cowboys,2022-12-04,IND,"W, 54-19",3,15,pass,Alec Pierce
+21,21,Cowboys,2022-12-11,HOU,"W, 27-23",1,1,rush,Dameon Pierce
+22,22,Cowboys,2022-12-11,HOU,"W, 27-23",2,28,pass,Amari Rodgers
+23,23,Cowboys,2022-12-18,JAX,"L, 34-40",2,5,pass,Zay Jones
+24,24,Cowboys,2022-12-18,JAX,"L, 34-40",3,59,pass,Zay Jones
+25,25,Cowboys,2022-12-18,JAX,"L, 34-40",3,10,pass,Marvin Jones
+26,26,Cowboys,2022-12-18,JAX,"L, 34-40",4,3,pass,Zay Jones
+27,27,Cowboys,2022-12-18,JAX,"L, 34-40",5,52,interception,Rayshawn Jenkins
+28,28,Cowboys,2022-12-24,PHI,"W, 40-34",1,42,interception,Josh Sweat
+29,29,Cowboys,2022-12-24,PHI,"W, 40-34",2,1,rush,Gardner Minshew II
+30,30,Cowboys,2022-12-24,PHI,"W, 40-34",3,14,pass,DeVonta Smith
+31,31,Cowboys,2022-12-24,PHI,"W, 40-34",4,9,pass,DeVonta Smith
+32,32,Cowboys,2022-12-29,TEN,"W, 27-13",3,7,pass,Robert Woods
+33,33,Cowboys,2023-01-08,WAS,"L, 6-26",1,16,pass,Terry McLaurin
+34,34,Cowboys,2023-01-08,WAS,"L, 6-26",2,29,interception,Kendall Fuller
+35,35,Cowboys,2023-01-08,WAS,"L, 6-26",3,9,rush,Sam Howell

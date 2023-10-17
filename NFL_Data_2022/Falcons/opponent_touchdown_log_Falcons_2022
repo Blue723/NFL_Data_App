@@ -1,0 +1,42 @@
+,Rk,Team,Date,Opp,Result,Quarter,Dist,Type,Detail
+1,1,Falcons,2022-09-11,NOR,"L, 26-27",1,11,rush,Taysom Hill
+2,2,Falcons,2022-09-11,NOR,"L, 26-27",4,3,pass,Michael Thomas
+3,3,Falcons,2022-09-11,NOR,"L, 26-27",4,9,pass,Michael Thomas
+4,4,Falcons,2022-09-18,LAR,"L, 27-31",1,1,pass,Allen Robinson
+5,5,Falcons,2022-09-18,LAR,"L, 27-31",2,8,rush,Darrell Henderson
+6,6,Falcons,2022-09-18,LAR,"L, 27-31",2,3,pass,Cooper Kupp
+7,7,Falcons,2022-09-18,LAR,"L, 27-31",3,10,pass,Cooper Kupp
+8,8,Falcons,2022-09-25,SEA,"W, 27-23",1,18,pass,Will Dissly
+9,9,Falcons,2022-09-25,SEA,"W, 27-23",2,18,pass,D.K. Metcalf
+10,10,Falcons,2022-10-02,CLE,"W, 23-20",2,4,rush,Jacoby Brissett
+11,11,Falcons,2022-10-02,CLE,"W, 23-20",4,28,rush,Nick Chubb
+12,12,Falcons,2022-10-09,TAM,"L, 15-21",2,1,rush,Leonard Fournette
+13,13,Falcons,2022-10-09,TAM,"L, 15-21",3,1,pass,Leonard Fournette
+14,14,Falcons,2022-10-16,SFO,"W, 28-14",2,12,pass,Brandon Aiyuk
+15,15,Falcons,2022-10-16,SFO,"W, 28-14",2,14,pass,Brandon Aiyuk
+16,16,Falcons,2022-10-23,CIN,"L, 17-35",1,60,pass,Tyler Boyd
+17,17,Falcons,2022-10-23,CIN,"L, 17-35",1,1,rush,Joe Mixon
+18,18,Falcons,2022-10-23,CIN,"L, 17-35",2,32,pass,Ja'Marr Chase
+19,19,Falcons,2022-10-23,CIN,"L, 17-35",2,41,pass,Ja'Marr Chase
+20,20,Falcons,2022-10-23,CIN,"L, 17-35",3,1,rush,Joe Burrow
+21,21,Falcons,2022-10-30,CAR,"W, 37-34",2,2,rush,D'Onta Foreman
+22,22,Falcons,2022-10-30,CAR,"W, 37-34",4,1,rush,D'Onta Foreman
+23,23,Falcons,2022-10-30,CAR,"W, 37-34",4,12,rush,D'Onta Foreman
+24,24,Falcons,2022-10-30,CAR,"W, 37-34",4,62,pass,D.J. Moore
+25,25,Falcons,2022-11-06,LAC,"L, 17-20",2,2,rush,Austin Ekeler
+26,26,Falcons,2022-11-06,LAC,"L, 17-20",2,1,pass,Austin Ekeler
+27,27,Falcons,2022-11-10,CAR,"L, 15-25",2,41,rush,Laviska Shenault Jr.
+28,28,Falcons,2022-11-10,CAR,"L, 15-25",3,12,rush,D'Onta Foreman
+29,29,Falcons,2022-11-20,CHI,"W, 27-24",1,16,pass,Darnell Mooney
+30,30,Falcons,2022-11-20,CHI,"W, 27-24",2,4,rush,Justin Fields
+31,31,Falcons,2022-11-20,CHI,"W, 27-24",4,2,rush,David Montgomery
+32,32,Falcons,2022-11-27,WAS,"L, 13-19",1,14,pass,Brian Robinson Jr.
+33,33,Falcons,2022-11-27,WAS,"L, 13-19",3,16,pass,John Bates
+34,34,Falcons,2022-12-04,PIT,"L, 16-19",2,17,pass,Connor Heyward
+35,35,Falcons,2022-12-18,NOR,"L, 18-21",1,19,pass,Juwan Johnson
+36,36,Falcons,2022-12-18,NOR,"L, 18-21",1,68,pass,Rashid Shaheed
+37,37,Falcons,2022-12-18,NOR,"L, 18-21",3,22,pass,Juwan Johnson
+38,38,Falcons,2022-12-24,BAL,"L, 9-17",2,6,pass,Demarcus Robinson
+39,39,Falcons,2023-01-01,ARI,"W, 20-19",2,4,pass,Trey McBride
+40,40,Falcons,2023-01-08,TAM,"W, 30-17",1,8,pass,Kyle Rudolph
+41,41,Falcons,2023-01-08,TAM,"W, 30-17",2,3,pass,Russell Gage

@@ -1,0 +1,44 @@
+,Rk,Team,Date,Opp,Result,Quarter,Dist,Type,Detail
+1,1,Chargers,2022-09-11,LVR,"W, 24-19",3,18,pass,Brandon Bolden
+2,2,Chargers,2022-09-11,LVR,"W, 24-19",4,3,pass,Davante Adams
+3,3,Chargers,2022-09-15,KAN,"L, 24-27",2,9,pass,Jerick McKinnon
+4,4,Chargers,2022-09-15,KAN,"L, 24-27",3,41,pass,Justin Watson
+5,5,Chargers,2022-09-15,KAN,"L, 24-27",4,99,interception,Jaylen Watson
+6,6,Chargers,2022-09-25,JAX,"L, 10-38",2,14,pass,Zay Jones
+7,7,Chargers,2022-09-25,JAX,"L, 10-38",3,50,rush,James Robinson
+8,8,Chargers,2022-09-25,JAX,"L, 10-38",3,4,pass,Christian Kirk
+9,9,Chargers,2022-09-25,JAX,"L, 10-38",4,11,pass,Marvin Jones
+10,10,Chargers,2022-10-02,HOU,"W, 34-24",2,75,rush,Dameon Pierce
+11,11,Chargers,2022-10-02,HOU,"W, 34-24",3,8,pass,Rex Burkhead
+12,12,Chargers,2022-10-02,HOU,"W, 34-24",4,18,pass,Brandin Cooks
+13,13,Chargers,2022-10-09,CLE,"W, 30-28",1,41,rush,Nick Chubb
+14,14,Chargers,2022-10-09,CLE,"W, 30-28",1,11,pass,Amari Cooper
+15,15,Chargers,2022-10-09,CLE,"W, 30-28",2,2,rush,Nick Chubb
+16,16,Chargers,2022-10-09,CLE,"W, 30-28",3,2,rush,Kareem Hunt
+17,17,Chargers,2022-10-17,DEN,"W, 19-16",1,39,pass,Greg Dulcich
+18,18,Chargers,2022-10-23,SEA,"L, 23-37",1,20,pass,Marquise Goodwin
+19,19,Chargers,2022-10-23,SEA,"L, 23-37",1,12,rush,Kenneth Walker III
+20,20,Chargers,2022-10-23,SEA,"L, 23-37",2,23,pass,Marquise Goodwin
+21,21,Chargers,2022-10-23,SEA,"L, 23-37",4,74,rush,Kenneth Walker III
+22,22,Chargers,2022-11-06,ATL,"W, 20-17",1,1,rush,Cordarrelle Patterson
+23,23,Chargers,2022-11-06,ATL,"W, 20-17",3,3,rush,Cordarrelle Patterson
+24,24,Chargers,2022-11-13,SFO,"L, 16-22",2,1,rush,Jimmy Garoppolo
+25,25,Chargers,2022-11-13,SFO,"L, 16-22",4,2,rush,Christian McCaffrey
+26,26,Chargers,2022-11-20,KAN,"L, 27-30",2,4,pass,Travis Kelce
+27,27,Chargers,2022-11-20,KAN,"L, 27-30",4,32,pass,Travis Kelce
+28,28,Chargers,2022-11-20,KAN,"L, 27-30",4,17,pass,Travis Kelce
+29,29,Chargers,2022-11-27,ARI,"W, 25-24",1,33,pass,DeAndre Hopkins
+30,30,Chargers,2022-11-27,ARI,"W, 25-24",2,5,rush,Kyler Murray
+31,31,Chargers,2022-11-27,ARI,"W, 25-24",4,6,pass,James Conner
+32,32,Chargers,2022-12-04,LVR,"L, 20-27",2,20,rush,Josh Jacobs
+33,33,Chargers,2022-12-04,LVR,"L, 20-27",3,31,pass,Davante Adams
+34,34,Chargers,2022-12-04,LVR,"L, 20-27",3,45,pass,Davante Adams
+35,35,Chargers,2022-12-11,MIA,"W, 23-17",2,0,fumble,Tyreek Hill
+36,36,Chargers,2022-12-11,MIA,"W, 23-17",3,60,pass,Tyreek Hill
+37,37,Chargers,2022-12-18,TEN,"W, 17-14",2,4,rush,Derrick Henry
+38,38,Chargers,2022-12-18,TEN,"W, 17-14",4,1,rush,Ryan Tannehill
+39,39,Chargers,2023-01-01,LAR,"W, 31-10",2,23,rush,Malcolm Brown
+40,40,Chargers,2023-01-08,DEN,"L, 28-31",1,2,rush,Latavius Murray
+41,41,Chargers,2023-01-08,DEN,"L, 28-31",2,3,pass,Eric Tomlinson
+42,42,Chargers,2023-01-08,DEN,"L, 28-31",3,24,pass,Tyler Badie
+43,43,Chargers,2023-01-08,DEN,"L, 28-31",4,20,pass,Courtland Sutton
