@@ -1,0 +1,64 @@
+,Rk,Team,Date,Opp,Result,Quarter,Dist,Type,Detail
+1,1,Buccaneers,2021-09-09,DAL,"W, 31-29",1,5,pass,Chris Godwin
+2,2,Buccaneers,2021-09-09,DAL,"W, 31-29",2,2,pass,Rob Gronkowski
+3,3,Buccaneers,2021-09-09,DAL,"W, 31-29",2,47,pass,Antonio Brown
+4,4,Buccaneers,2021-09-09,DAL,"W, 31-29",3,11,pass,Rob Gronkowski
+5,5,Buccaneers,2021-09-19,ATL,"W, 48-25",1,20,pass,Rob Gronkowski
+6,6,Buccaneers,2021-09-19,ATL,"W, 48-25",2,1,pass,Rob Gronkowski
+7,7,Buccaneers,2021-09-19,ATL,"W, 48-25",2,3,pass,Mike Evans
+8,8,Buccaneers,2021-09-19,ATL,"W, 48-25",3,1,pass,Mike Evans
+9,9,Buccaneers,2021-09-19,ATL,"W, 48-25",4,12,pass,Chris Godwin
+10,10,Buccaneers,2021-09-19,ATL,"W, 48-25",4,31,interception,Mike Edwards
+11,11,Buccaneers,2021-09-19,ATL,"W, 48-25",4,15,interception,Mike Edwards
+12,12,Buccaneers,2021-09-26,LAR,"L, 24-34",2,2,rush,Chris Godwin
+13,13,Buccaneers,2021-09-26,LAR,"L, 24-34",3,1,rush,Tom Brady
+14,14,Buccaneers,2021-09-26,LAR,"L, 24-34",4,7,pass,Giovani Bernard
+15,15,Buccaneers,2021-10-03,NWE,"W, 19-17",3,8,rush,Ronald Jones II
+16,16,Buccaneers,2021-10-10,MIA,"W, 45-17",1,10,pass,Giovani Bernard
+17,17,Buccaneers,2021-10-10,MIA,"W, 45-17",2,62,pass,Antonio Brown
+18,18,Buccaneers,2021-10-10,MIA,"W, 45-17",2,4,pass,Antonio Brown
+19,19,Buccaneers,2021-10-10,MIA,"W, 45-17",4,5,rush,Leonard Fournette
+20,20,Buccaneers,2021-10-10,MIA,"W, 45-17",4,34,pass,Mike Evans
+21,21,Buccaneers,2021-10-10,MIA,"W, 45-17",4,22,pass,Mike Evans
+22,22,Buccaneers,2021-10-14,PHI,"W, 28-22",1,2,pass,O.J. Howard
+23,23,Buccaneers,2021-10-14,PHI,"W, 28-22",1,23,pass,Antonio Brown
+24,24,Buccaneers,2021-10-14,PHI,"W, 28-22",2,2,rush,Leonard Fournette
+25,25,Buccaneers,2021-10-14,PHI,"W, 28-22",3,1,rush,Leonard Fournette
+26,26,Buccaneers,2021-10-24,CHI,"W, 38-3",1,2,rush,Leonard Fournette
+27,27,Buccaneers,2021-10-24,CHI,"W, 38-3",1,4,pass,Chris Godwin
+28,28,Buccaneers,2021-10-24,CHI,"W, 38-3",1,9,pass,Mike Evans
+29,29,Buccaneers,2021-10-24,CHI,"W, 38-3",2,2,pass,Mike Evans
+30,30,Buccaneers,2021-10-24,CHI,"W, 38-3",2,8,pass,Mike Evans
+31,31,Buccaneers,2021-10-31,NOR,"L, 27-36",1,12,pass,Chris Godwin
+32,32,Buccaneers,2021-10-31,NOR,"L, 27-36",3,7,pass,Giovani Bernard
+33,33,Buccaneers,2021-10-31,NOR,"L, 27-36",3,41,pass,Mike Evans
+34,34,Buccaneers,2021-10-31,NOR,"L, 27-36",4,50,pass,Cyril Grayson
+35,35,Buccaneers,2021-11-14,WAS,"L, 19-29",3,6,pass,Cameron Brate
+36,36,Buccaneers,2021-11-14,WAS,"L, 19-29",4,40,pass,Mike Evans
+37,37,Buccaneers,2021-11-22,NYG,"W, 30-10",1,13,pass,Chris Godwin
+38,38,Buccaneers,2021-11-22,NYG,"W, 30-10",2,6,rush,Ronald Jones II
+39,39,Buccaneers,2021-11-22,NYG,"W, 30-10",3,5,pass,Mike Evans
+40,40,Buccaneers,2021-11-28,IND,"W, 38-31",2,1,rush,Leonard Fournette
+41,41,Buccaneers,2021-11-28,IND,"W, 38-31",2,4,pass,Leonard Fournette
+42,42,Buccaneers,2021-11-28,IND,"W, 38-31",3,4,rush,Leonard Fournette
+43,43,Buccaneers,2021-11-28,IND,"W, 38-31",3,1,rush,Ronald Jones II
+44,44,Buccaneers,2021-11-28,IND,"W, 38-31",4,28,rush,Leonard Fournette
+45,45,Buccaneers,2021-12-05,ATL,"W, 30-17",1,3,pass,Leonard Fournette
+46,46,Buccaneers,2021-12-05,ATL,"W, 30-17",1,3,pass,Cameron Brate
+47,47,Buccaneers,2021-12-05,ATL,"W, 30-17",2,27,pass,Rob Gronkowski
+48,48,Buccaneers,2021-12-05,ATL,"W, 30-17",3,11,pass,Rob Gronkowski
+49,49,Buccaneers,2021-12-12,BUF,"W, 33-27",1,47,rush,Leonard Fournette
+50,50,Buccaneers,2021-12-12,BUF,"W, 33-27",2,13,pass,Mike Evans
+51,51,Buccaneers,2021-12-12,BUF,"W, 33-27",2,1,rush,Tom Brady
+52,52,Buccaneers,2021-12-12,BUF,"W, 33-27",5,58,pass,Breshad Perriman
+53,53,Buccaneers,2021-12-26,CAR,"W, 32-6",1,55,rush,Ke'Shawn Vaughn
+54,54,Buccaneers,2021-12-26,CAR,"W, 32-6",2,4,pass,Cameron Brate
+55,55,Buccaneers,2021-12-26,CAR,"W, 32-6",3,7,rush,Ronald Jones II
+56,56,Buccaneers,2022-01-02,NYJ,"W, 28-24",1,4,pass,Mike Evans
+57,57,Buccaneers,2022-01-02,NYJ,"W, 28-24",3,4,pass,Cameron Brate
+58,58,Buccaneers,2022-01-02,NYJ,"W, 28-24",4,33,pass,Cyril Grayson
+59,59,Buccaneers,2022-01-09,CAR,"W, 41-17",2,1,pass,Le'Veon Bell
+60,60,Buccaneers,2022-01-09,CAR,"W, 41-17",3,2,rush,Ke'Shawn Vaughn
+61,61,Buccaneers,2022-01-09,CAR,"W, 41-17",4,3,pass,Mike Evans
+62,62,Buccaneers,2022-01-09,CAR,"W, 41-17",4,20,pass,Mike Evans
+63,63,Buccaneers,2022-01-09,CAR,"W, 41-17",4,33,rush,Scott Miller
