@@ -1,4 +1,4 @@
-,No.,Team,Player,Age,Pos,G,GS,Int,Def Interceptions Yds,Def Touchdown,Lng,PD,FF,Fmb,FR,Fumbles Yds,Fumbles Touchdown,Sk,Comb,Solo,Ast,TFL,QBHits,Sfty
+,No.,Team,Player,Age,Pos,Games Played,Games Started,Passes Intercepted on Defense,Yards Interceptions were Returned,Interceptions Returned for Touchdowns,Longest Interception Return,Passes Defended by Defensive Player,# Forced Fumble by Opp.,# Fumbled both Lost and Recovered by Own Team,Fumbles Recovered by Original Fumbler,Yards Recovered Fumbles were Returned,Fumbles Recovered for Touchdown,Sacks,Tackles Solo+Assisted,Solo Tackles,Assisted Tackles,Tackles for Loss,Quarterback Hits,Safeties Scored by Player/Team
 59,59,Panthers,Luke Kuechly,26,MLB,15,15,3,23,0,23,6,1,0,3,34,1,1.5,125,74,51,7,5,n/a
 24,24,Panthers,James Bradberry,24,LCB,16,16,2,3,0,3,10,1,0,0,0,0,1.0,85,66,19,2,1,n/a
 58,58,Panthers,Thomas Davis,34,RLB,15,15,n/a,n/a,0,n/a,n/a,0,0,1,0,0,2.5,76,52,24,5,7,n/a

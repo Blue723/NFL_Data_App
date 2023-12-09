@@ -1,4 +1,4 @@
-,No.,Team,Player,Age,Pos,G,GS,Ret,Punt Returns Yds,Punt Return TD,Longest Punt Return,Y/R,Rt,Kick Returns Yds,Kick Returns TD,Longest Kickoff Return,Y/Rt,APYd
+,No.,Team,Player,Age,Position,Games Played,Games Started,Punts Returned,Punts Return Yardage,Punts Returned for Touchdown,Longest Punt Return,Yards per Punt Return,Kickoff Returns,Yardage for Kickoffs Returned,Kickoffs Returned for a Touchdown,Longest Kickoff Return,Yards per Kickoff Return,All-purpose Yards
 39,39,Chiefs,Tremon Smith,22,DB,14,1,n/a,n/a,0,n/a,n/a,33,886,0,97,26.8,886
 10,10,Chiefs,Tyreek Hill,24,WR,16,16,20,213,1,91,10.7,n/a,n/a,0,n/a,n/a,1843
 13,13,Chiefs,De'Anthony Thomas,25,RB,5,0,1,48,0,48,48.0,3,58,0,26,19.3,141

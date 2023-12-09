@@ -1,4 +1,4 @@
-,No.,Team,Player,Age,Pos,G,GS,Ret,Punt Returns Yds,Punt Return TD,Longest Punt Return,Y/R,Rt,Kick Returns Yds,Kick Returns TD,Longest Kickoff Return,Y/Rt,APYd
+,No.,Team,Player,Age,Position,Games Played,Games Started,Punts Returned,Punts Return Yardage,Punts Returned for Touchdown,Longest Punt Return,Yards per Punt Return,Kickoff Returns,Yardage for Kickoffs Returned,Kickoffs Returned for a Touchdown,Longest Kickoff Return,Yards per Kickoff Return,All-purpose Yards
 18,18,Eagles,Jalen Reagor,22,WR,17,13,31,227,0,39,7.3,12,255,0,44,21.3,833
 14,14,Eagles,Kenneth Gainwell,22,RB,16,1,n/a,n/a,0,n/a,n/a,8,137,0,31,17.1,681
 16,16,Eagles,Quez Watkins,23,WR,17,12,n/a,n/a,0,n/a,n/a,8,138,0,24,17.3,788

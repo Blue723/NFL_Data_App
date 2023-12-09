@@ -1,4 +1,4 @@
-,No.,Team,Player,Age,Pos,G,GS,Int,Def Interceptions Yds,Def Touchdown,Lng,PD,FF,Fmb,FR,Fumbles Yds,Fumbles Touchdown,Sk,Comb,Solo,Ast,TFL,QBHits,Sfty
+,No.,Team,Player,Age,Pos,Games Played,Games Started,Passes Intercepted on Defense,Yards Interceptions were Returned,Interceptions Returned for Touchdowns,Longest Interception Return,Passes Defended by Defensive Player,# Forced Fumble by Opp.,# Fumbled both Lost and Recovered by Own Team,Fumbles Recovered by Original Fumbler,Yards Recovered Fumbles were Returned,Fumbles Recovered for Touchdown,Sacks,Tackles Solo+Assisted,Solo Tackles,Assisted Tackles,Tackles for Loss,Quarterback Hits,Safeties Scored by Player/Team
 50,50,Saints,Curtis Lofton,26,MLB,16,16,0,0,0,0,6,2,0,2,0,0,1.0,123,82,41,7,2,n/a
 41,41,Saints,Roman Harper,30,SS,16,16,2,41,0,41,11,n/a,n/a,n/a,n/a,0,0.0,115,88,27,4,1,n/a
 27,27,Saints,Malcolm Jenkins,25,FS,13,13,1,55,1,55,6,n/a,n/a,n/a,n/a,0,0.0,94,65,29,2,2,n/a

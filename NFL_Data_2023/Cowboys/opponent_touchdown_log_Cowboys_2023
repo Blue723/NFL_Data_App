@@ -1,5 +1,19 @@
-,Rk,Team,Date,Opp,Result,Quarter,Dist,Type,Detail
+,Rank,Team,Date,Opponent,Results,Quarter,Distance,Type,Detail
 1,1,Cowboys,2023-09-17,NYJ,"W, 30-10",2,68,pass,Garrett Wilson
 2,2,Cowboys,2023-09-24,ARI,"L, 16-28",1,5,rush,James Conner
 3,3,Cowboys,2023-09-24,ARI,"L, 16-28",2,45,rush,Rondale Moore
 4,4,Cowboys,2023-09-24,ARI,"L, 16-28",4,2,pass,Marquise Brown
+5,5,Cowboys,2023-10-08,SFO,"L, 10-42",1,19,pass,George Kittle
+6,6,Cowboys,2023-10-08,SFO,"L, 10-42",2,38,pass,George Kittle
+7,7,Cowboys,2023-10-08,SFO,"L, 10-42",2,1,rush,Christian McCaffrey
+8,8,Cowboys,2023-10-08,SFO,"L, 10-42",3,10,pass,George Kittle
+9,9,Cowboys,2023-10-08,SFO,"L, 10-42",4,1,pass,Kyle Juszczyk
+10,10,Cowboys,2023-10-08,SFO,"L, 10-42",4,26,rush,Jordan Mason
+11,11,Cowboys,2023-10-16,LAC,"W, 20-17",1,1,pass,Keenan Allen
+12,12,Cowboys,2023-10-16,LAC,"W, 20-17",4,1,pass,Gerald Everett
+13,13,Cowboys,2023-10-29,LAR,"W, 43-20",2,1,rush,Royce Freeman
+14,14,Cowboys,2023-10-29,LAR,"W, 43-20",3,20,pass,Ben Skowronek
+15,15,Cowboys,2023-11-05,PHI,"L, 23-28",1,12,rush,Kenneth Gainwell
+16,16,Cowboys,2023-11-05,PHI,"L, 23-28",2,1,rush,Jalen Hurts
+17,17,Cowboys,2023-11-05,PHI,"L, 23-28",3,29,pass,DeVonta Smith
+18,18,Cowboys,2023-11-05,PHI,"L, 23-28",3,4,pass,A.J. Brown

@@ -1,7 +1,16 @@
-,Rk,Team,Date,Opp,Result,Quarter,Dist,Type,Detail
+,Rank,Team,Date,Opponent,Results,Quarter,Distance,Type,Detail
 1,1,Panthers,2023-09-10,ATL,"L, 10-24",2,4,pass,Hayden Hurst
 2,2,Panthers,2023-09-18,NOR,"L, 17-20",4,3,pass,Adam Thielen
 3,3,Panthers,2023-09-24,SEA,"L, 27-37",2,47,pass,DJ Chark
 4,4,Panthers,2023-09-24,SEA,"L, 27-37",4,1,rush,Miles Sanders
 5,5,Panthers,2023-09-24,SEA,"L, 27-37",4,15,pass,Adam Thielen
 6,6,Panthers,2023-10-01,MIN,"L, 13-21",1,99,interception,Sam Franklin
+7,7,Panthers,2023-10-08,DET,"L, 24-42",2,1,pass,Tommy Tremble
+8,8,Panthers,2023-10-08,DET,"L, 24-42",4,18,pass,DJ Chark
+9,9,Panthers,2023-10-08,DET,"L, 24-42",4,1,pass,Adam Thielen
+10,10,Panthers,2023-10-15,MIA,"L, 21-42",1,6,rush,Chuba Hubbard
+11,11,Panthers,2023-10-15,MIA,"L, 21-42",1,8,pass,Adam Thielen
+12,12,Panthers,2023-10-15,MIA,"L, 21-42",4,61,interception,Troy Hill
+13,13,Panthers,2023-10-29,HOU,"W, 15-13",2,1,pass,Tommy Tremble
+14,14,Panthers,2023-11-05,IND,"L, 13-27",3,5,pass,DJ Chark
+15,15,Panthers,2023-11-09,CHI,"L, 13-16",1,79,punt,Ihmir Smith-Marsette

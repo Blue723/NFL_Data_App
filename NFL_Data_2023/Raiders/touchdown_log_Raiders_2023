@@ -1,4 +1,4 @@
-,Rk,Team,Date,Opp,Result,Quarter,Dist,Type,Detail
+,Rank,Team,Date,Opponent,Results,Quarter,Distance,Type,Detail
 1,1,Raiders,2023-09-10,DEN,"W, 17-16",1,3,pass,Jakobi Meyers
 2,2,Raiders,2023-09-10,DEN,"W, 17-16",4,6,pass,Jakobi Meyers
 3,3,Raiders,2023-09-17,BUF,"L, 10-38",1,16,pass,Davante Adams
@@ -6,3 +6,12 @@
 5,5,Raiders,2023-09-24,PIT,"L, 18-23",4,1,pass,Davante Adams
 6,6,Raiders,2023-10-01,LAC,"L, 17-24",1,1,rush,Aidan O'Connell
 7,7,Raiders,2023-10-01,LAC,"L, 17-24",4,1,rush,Josh Jacobs
+8,8,Raiders,2023-10-09,GNB,"W, 17-13",2,9,pass,Jakobi Meyers
+9,9,Raiders,2023-10-09,GNB,"W, 17-13",4,2,rush,Josh Jacobs
+10,10,Raiders,2023-10-15,NWE,"W, 21-17",2,12,pass,Jakobi Meyers
+11,11,Raiders,2023-10-22,CHI,"L, 12-30",4,9,pass,Jakobi Meyers
+12,12,Raiders,2023-10-30,DET,"L, 14-26",2,3,rush,Josh Jacobs
+13,13,Raiders,2023-10-30,DET,"L, 14-26",3,75,interception,Marcus Peters
+14,14,Raiders,2023-11-05,NYG,"W, 30-6",1,17,rush,Jakobi Meyers
+15,15,Raiders,2023-11-05,NYG,"W, 30-6",2,2,rush,Josh Jacobs
+16,16,Raiders,2023-11-05,NYG,"W, 30-6",2,1,rush,Josh Jacobs

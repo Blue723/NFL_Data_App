@@ -1,4 +1,4 @@
-,No.,Team,Player,Age,Pos,G,GS,RshTD,RecTD,PR TD,KR TD,FblTD,IntTD,OthTD,AllTD,2PM,2PA,D2P,XPM,XPA,FGM,FGA,Sfty,Pts,Pts/G
+,No.,Team,Player,Age,Pos,Games Played,Games Started,Rush TD,Reception TD,Punt Return TD,Kick Return TD,Fumble Return TD,Interception TD,Other TD,All Touchdown Scored,2-Point Conversions Made,Two-Point Conversions Attempted,Defensive Two-Point Conversions,Extra Points Made,Extra Points Allowed,Field Goals Made,Field Goals Attempted,Safeties Scored by Player/Team,Total Points Scored by all Means,Poins per Game
 0,9,49ers,Phil Dawson,40,K,16,0,,,,,,,,,,,,20.0,21.0,24.0,27.0,,92,5.8
 1,82,49ers,Torrey Smith,26,WR,16,12,,4.0,,,,,,4.0,1.0,,,,,,,,26,1.6
 2,81,49ers,Anquan Boldin,35,WR,14,13,,4.0,,,,,,4.0,,,,,,,,,24,1.7

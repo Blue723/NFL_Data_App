@@ -1,4 +1,4 @@
-,Rk,Team,Date,Opp,Result,Quarter,Dist,Type,Detail
+,Rank,Team,Date,Opponent,Results,Quarter,Distance,Type,Detail
 1,1,Falcons,2022-09-11,NOR,"L, 26-27",2,5,rush,Cordarrelle Patterson
 2,2,Falcons,2022-09-11,NOR,"L, 26-27",3,2,rush,Marcus Mariota
 3,3,Falcons,2022-09-18,LAR,"L, 27-31",3,4,pass,Drake London
@@ -12,7 +12,7 @@
 11,11,Falcons,2022-10-09,TAM,"L, 15-21",4,8,rush,Avery Williams
 12,12,Falcons,2022-10-09,TAM,"L, 15-21",4,19,pass,Olamide Zaccheaus
 13,13,Falcons,2022-10-16,SFO,"W, 28-14",1,2,pass,MyCole Pruitt
-14,14,Falcons,2022-10-16,SFO,"W, 28-14",1,0,fumble,Jaylinn Hawkins
+14,14,Falcons,2022-10-16,SFO,"W, 28-14",1,n/a,fumble,Jaylinn Hawkins
 15,15,Falcons,2022-10-16,SFO,"W, 28-14",2,3,rush,Marcus Mariota
 16,16,Falcons,2022-10-16,SFO,"W, 28-14",3,7,pass,Kyle Pitts
 17,17,Falcons,2022-10-23,CIN,"L, 17-35",2,1,rush,Tyler Allgeier

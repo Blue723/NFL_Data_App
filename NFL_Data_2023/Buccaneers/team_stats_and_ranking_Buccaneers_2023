@@ -1,5 +1,5 @@
-,Player,Team,PF,Total Yds and TO,Ply,Y/P,TO,FL,1stD,Cmp,Att,Passing Yds,TD,Int,NY/A,1stD,Att,Russhing Yds,TD,Y/A,1stD,Pen,Penalty Yds,1stPy,Dr,Sc%,TO%,Start,Time,Plays,Yds,Pts
-Team Stats,Team Stats,Buccaneers,84,1206,247,4.9,3,1,68,87,126,858,7,2,6.6,42,117,348,1,3.0,20,25,184,6,42,35.7,7.1,Own 29.5,2:50,6.07,28.7,1.83
-Opp. Stats,Opp. Stats,Buccaneers,68,1274,253,5.0,10,4,75,96,149,895,4,6,5.6,46,92,379,2,4.1,23,21,151,6,41,34.1,24.4,Own 24.7,2:55,6.3,31.2,1.61
-Lg Rank Offense,Lg Rank Offense,Buccaneers,19,22,n/a,n/a,7,6,26,n/a,25,16,8,9,10,n/a,8,27,24,32,n/a,n/a,n/a,n/a,n/a,15,24,13,13,13,17,18
-Lg Rank Defense,Lg Rank Defense,Buccaneers,7,15,n/a,n/a,2,3,13,n/a,25,19,8,3,12,n/a,6,8,7,14,n/a,n/a,n/a,n/a,n/a,19,2,4,21,20,19,9
+,Player,Team,Points Scored by Team,Total Yds and TO,Offensic Plays: Pass Attempts + Rush Attempts + Times Sacked,Yards per Offensive Play,Team Turnovers Lost,Fumbles Lost by Player or Team,1stD,Passes Completed,Passes Attempted,Yards Gained by Passing,Passing Touchdowns,Interceptions Thrown,Net Yards Gained per Pass Attempt,First Downs by Passing,Rushing Attempts,Rushing Yards,Rushin Touchdowns,Rushing Yards per Attempt,First Downs by Rushing,Penalties committed by Team and Accepted,Penalties in Yards Committed by Team,First Downs by Penalty,Number of Drives,% of Drives Ending in an Offensive Score,% of Drives Ending in an Offensive Turnover,Average Starting Field Position,Average Time per Drive,Average # of Plays per Drive,Net Yards per Drive,Average Points Scored per Drive
+Team Stats,Team Stats,Buccaneers,158,2420,491,4.9,7,3,140,179,277,1794,12,4,6.2,87,201,626,3,3.1,33,59,447,20,85,35.3,8.2,Own 27.1,2:44,5.98,28.5,1.76
+Opp. Stats,Opp. Stats,Buccaneers,167,2978,516,5.8,15,8,165,206,300,2235,13,7,7.0,109,195,743,4,3.8,45,53,447,11,85,38.8,17.6,Own 26.0,2:54,6.2,35.1,1.96
+Lg Rank Offense,Lg Rank Offense,Buccaneers,22,21,n/a,n/a,4,8,28,n/a,14,15,11,3,14,n/a,20,30,26,32,n/a,n/a,n/a,n/a,n/a,17,27,25,16,12,18,20
+Lg Rank Defense,Lg Rank Defense,Buccaneers,16,29,n/a,n/a,4,2,24,n/a,28,31,27,12,31,n/a,10,9,7,10,n/a,n/a,n/a,n/a,n/a,9,2,2,24,25,31,21

@@ -1,4 +1,4 @@
-,Rk,Team,Date,Opp,Result,Quarter,Dist,Type,Detail
+,Rank,Team,Date,Opponent,Results,Quarter,Distance,Type,Detail
 1,1,Rams,2023-09-10,SEA,"W, 30-13",1,1,rush,Kyren Williams
 2,2,Rams,2023-09-10,SEA,"W, 30-13",3,7,rush,Kyren Williams
 3,3,Rams,2023-09-10,SEA,"W, 30-13",4,1,rush,Cam Akers
@@ -8,3 +8,11 @@
 7,7,Rams,2023-10-01,IND,"W, 29-23",1,3,rush,Kyren Williams
 8,8,Rams,2023-10-01,IND,"W, 29-23",1,3,rush,Kyren Williams
 9,9,Rams,2023-10-01,IND,"W, 29-23",5,22,pass,Puka Nacua
+10,10,Rams,2023-10-08,PHI,"L, 14-23",1,3,pass,Tutu Atwell
+11,11,Rams,2023-10-08,PHI,"L, 14-23",2,22,pass,Puka Nacua
+12,12,Rams,2023-10-15,ARI,"W, 26-9",3,13,pass,Cooper Kupp
+13,13,Rams,2023-10-15,ARI,"W, 26-9",4,5,rush,Kyren Williams
+14,14,Rams,2023-10-22,PIT,"L, 17-24",2,31,pass,Tutu Atwell
+15,15,Rams,2023-10-22,PIT,"L, 17-24",3,1,rush,Darrell Henderson
+16,16,Rams,2023-10-29,DAL,"L, 20-43",2,1,rush,Royce Freeman
+17,17,Rams,2023-10-29,DAL,"L, 20-43",3,20,pass,Ben Skowronek

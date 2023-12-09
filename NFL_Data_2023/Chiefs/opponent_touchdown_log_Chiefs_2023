@@ -1,7 +1,17 @@
-,Rk,Team,Date,Opp,Result,Quarter,Dist,Type,Detail
+,Rank,Team,Date,Opponent,Results,Quarter,Distance,Type,Detail
 1,1,Chiefs,2023-09-07,DET,"L, 20-21",1,9,pass,Amon-Ra St. Brown
 2,2,Chiefs,2023-09-07,DET,"L, 20-21",3,50,interception,Brian Branch
 3,3,Chiefs,2023-09-07,DET,"L, 20-21",4,8,rush,David Montgomery
 4,4,Chiefs,2023-09-24,CHI,"W, 41-10",4,9,pass,D.J. Moore
 5,5,Chiefs,2023-10-01,NYJ,"W, 23-20",2,1,pass,C.J. Uzomah
 6,6,Chiefs,2023-10-01,NYJ,"W, 23-20",3,10,pass,Allen Lazard
+7,7,Chiefs,2023-10-08,MIN,"W, 27-20",2,5,pass,Jordan Addison
+8,8,Chiefs,2023-10-08,MIN,"W, 27-20",4,9,pass,Alexander Mattison
+9,9,Chiefs,2023-10-12,DEN,"W, 19-8",4,11,pass,Courtland Sutton
+10,10,Chiefs,2023-10-22,LAC,"W, 31-17",2,49,rush,Joshua Kelley
+11,11,Chiefs,2023-10-22,LAC,"W, 31-17",2,7,pass,Gerald Everett
+12,12,Chiefs,2023-10-29,DEN,"L, 9-24",1,4,pass,Javonte Williams
+13,13,Chiefs,2023-10-29,DEN,"L, 9-24",2,11,pass,Jerry Jeudy
+14,14,Chiefs,2023-10-29,DEN,"L, 9-24",4,6,pass,Courtland Sutton
+15,15,Chiefs,2023-11-05,MIA,"W, 21-14",3,31,pass,Cedrick Wilson Jr.
+16,16,Chiefs,2023-11-05,MIA,"W, 21-14",3,13,rush,Raheem Mostert

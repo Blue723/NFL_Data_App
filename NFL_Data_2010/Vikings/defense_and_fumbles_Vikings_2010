@@ -1,4 +1,4 @@
-,No.,Team,Player,Age,Pos,G,GS,Int,Def Interceptions Yds,Def Touchdown,Lng,PD,FF,Fmb,FR,Fumbles Yds,Fumbles Touchdown,Sk,Comb,Solo,Ast,TFL,QBHits,Sfty
+,No.,Team,Player,Age,Pos,Games Played,Games Started,Passes Intercepted on Defense,Yards Interceptions were Returned,Interceptions Returned for Touchdowns,Longest Interception Return,Passes Defended by Defensive Player,# Forced Fumble by Opp.,# Fumbled both Lost and Recovered by Own Team,Fumbles Recovered by Original Fumbler,Yards Recovered Fumbles were Returned,Fumbles Recovered for Touchdown,Sacks,Tackles Solo+Assisted,Solo Tackles,Assisted Tackles,Tackles for Loss,Quarterback Hits,Safeties Scored by Player/Team
 52,52,Vikings,Chad Greenway,27,LLB,16,16,0,0,0,0,3,1,0,1,0,0,1.0,144,109,35,14,5,n/a
 56,56,Vikings,E.J. Henderson,30,MLB,16,16,3,10,0,10,4,1,0,1,0,0,1.0,105,71,34,7,3,n/a
 26,26,Vikings,Antoine Winfield,33,LCB,16,16,2,41,0,41,5,1,0,1,45,1,2.0,91,73,18,3,1,n/a

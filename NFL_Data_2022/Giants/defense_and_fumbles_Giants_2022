@@ -1,4 +1,4 @@
-,No.,Team,Player,Age,Pos,G,GS,Int,Def Interceptions Yds,Def Touchdown,Lng,PD,FF,Fmb,FR,Fumbles Yds,Fumbles Touchdown,Sk,Comb,Solo,Ast,TFL,QBHits,Sfty
+,No.,Team,Player,Age,Pos,Games Played,Games Started,Passes Intercepted on Defense,Yards Interceptions were Returned,Interceptions Returned for Touchdowns,Longest Interception Return,Passes Defended by Defensive Player,# Forced Fumble by Opp.,# Fumbled both Lost and Recovered by Own Team,Fumbles Recovered by Original Fumbler,Yards Recovered Fumbles were Returned,Fumbles Recovered for Touchdown,Sacks,Tackles Solo+Assisted,Solo Tackles,Assisted Tackles,Tackles for Loss,Quarterback Hits,Safeties Scored by Player/Team
 20,20,Giants,Julian Love,24,S,16,16,2,44,0,27,5,1,0,1,8,0,1.0,124,79,45,6,1,n/a
 45,45,Giants,Jaylon Smith,27,LB,13,11,n/a,n/a,0,n/a,n/a,0,0,1,4,0,1.0,88,46,42,3,2,n/a
 37,37,Giants,Fabian Moreau,28,DB,14,11,0,0,0,0,10,n/a,n/a,n/a,n/a,0,0.0,66,50,16,0,0,n/a

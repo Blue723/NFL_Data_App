@@ -1,7 +1,14 @@
-,Rk,Team,Date,Opp,Result,Quarter,Dist,Type,Detail
+,Rank,Team,Date,Opponent,Results,Quarter,Distance,Type,Detail
 1,1,Titans,2023-09-10,NOR,"L, 15-16",3,19,pass,Rashid Shaheed
 2,2,Titans,2023-09-17,LAC,"W, 27-24",2,8,pass,Keenan Allen
 3,3,Titans,2023-09-17,LAC,"W, 27-24",4,12,pass,Keenan Allen
 4,4,Titans,2023-09-24,CLE,"L, 3-27",2,19,pass,Jerome Ford
 5,5,Titans,2023-09-24,CLE,"L, 3-27",3,3,rush,Jerome Ford
 6,6,Titans,2023-09-24,CLE,"L, 3-27",4,43,pass,Amari Cooper
+7,7,Titans,2023-10-08,IND,"L, 16-23",1,56,rush,Zack Moss
+8,8,Titans,2023-10-08,IND,"L, 16-23",3,3,rush,Zack Moss
+9,9,Titans,2023-10-15,BAL,"L, 16-24",2,10,pass,Zay Flowers
+10,10,Titans,2023-10-29,ATL,"W, 28-23",4,13,rush,Bijan Robinson
+11,11,Titans,2023-10-29,ATL,"W, 28-23",4,8,pass,Scott Miller
+12,12,Titans,2023-11-02,PIT,"L, 16-20",1,10,rush,Najee Harris
+13,13,Titans,2023-11-02,PIT,"L, 16-20",4,3,pass,Diontae Johnson

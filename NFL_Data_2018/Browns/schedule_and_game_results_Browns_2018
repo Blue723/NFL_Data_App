@@ -1,4 +1,4 @@
-,Week,Team,Day,Date,Time,Win/Loss,OT,Rec,Home/Away,Opp,Tm,Opp,1stD,TotYd,PassY,RushY,TO,1stD,TotYd,PassY,RushY,TO,Offense,Defense,Sp. Tms
+,Week,Team,Day,Date,Time,Win/Loss,Overtime,Team Record,Home/Away,Opponent,Points Scored,Points Allowed,Offense 1st Down,Total Yards Gained of Offense,Total yards Gained by Passing,Total Yards Gained by Rushing,Offense Turnovers,Defense 1st Down,Total Yards Allowed by Defense,Total Passing Yards Allowed by Defense,Total Rushing Yards Allowed by Defense,Defense Turnovers,Offense,Defense,Sp. Tms
 1,1,Browns,Sun,September 9,1:00PM ET,T,OT,0-0-1,home,Pittsburgh Steelers,21,21,22,327,150,177,1,25,472,313,159,6,-11.02,12.04,-1.51
 2,2,Browns,Sun,September 16,1:00PM ET,L,n/a,0-1-1,away,New Orleans Saints,18,21,16,327,234,93,1,18,275,213,62,2,2.85,2.16,-10.01
 3,3,Browns,Thu,September 20,8:20PM ET,W,n/a,1-1-1,home,New York Jets,21,17,20,323,190,133,n/a,14,268,161,107,3,0.16,10.59,-6.79

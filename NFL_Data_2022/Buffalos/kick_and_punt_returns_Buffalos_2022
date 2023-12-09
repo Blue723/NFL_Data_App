@@ -1,4 +1,4 @@
-,No.,Team,Player,Age,Pos,G,GS,Ret,Punt Returns Yds,Punt Return TD,Longest Punt Return,Y/R,Rt,Kick Returns Yds,Kick Returns TD,Longest Kickoff Return,Y/Rt,APYd
+,No.,Team,Player,Age,Position,Games Played,Games Started,Punts Returned,Punts Return Yardage,Punts Returned for Touchdown,Longest Punt Return,Yards per Punt Return,Kickoff Returns,Yardage for Kickoffs Returned,Kickoffs Returned for a Touchdown,Longest Kickoff Return,Yards per Kickoff Return,All-purpose Yards
 20,20,Buffalos,Nyheim Hines,26,RB,9,1,16,153,0,28,9.6,19,554,2,101,29.2,768
 80,80,Buffalos,Jamison Crowder,29,WR,4,0,9,100,0,20,11.1,1,17,0,17,17.0,189
 22,22,Buffalos,Duke Johnson,29,RB,1,0,n/a,n/a,0,n/a,n/a,7,157,0,43,22.4,161

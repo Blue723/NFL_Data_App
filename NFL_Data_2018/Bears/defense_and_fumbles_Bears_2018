@@ -1,4 +1,4 @@
-,No.,Team,Player,Age,Pos,G,GS,Int,Def Interceptions Yds,Def Touchdown,Lng,PD,FF,Fmb,FR,Fumbles Yds,Fumbles Touchdown,Sk,Comb,Solo,Ast,TFL,QBHits,Sfty
+,No.,Team,Player,Age,Pos,Games Played,Games Started,Passes Intercepted on Defense,Yards Interceptions were Returned,Interceptions Returned for Touchdowns,Longest Interception Return,Passes Defended by Defensive Player,# Forced Fumble by Opp.,# Fumbled both Lost and Recovered by Own Team,Fumbles Recovered by Original Fumbler,Yards Recovered Fumbles were Returned,Fumbles Recovered for Touchdown,Sacks,Tackles Solo+Assisted,Solo Tackles,Assisted Tackles,Tackles for Loss,Quarterback Hits,Safeties Scored by Player/Team
 58,58,Bears,Roquan Smith,21,RILB,16,14,1,22,0,22,5,n/a,n/a,n/a,n/a,0,5.0,121,89,32,8,5,n/a
 59,59,Bears,Danny Trevathan,28,LILB,16,16,2,12,0,12,6,1,0,1,0,0,2.0,102,76,26,8,4,n/a
 38,38,Bears,Adrian Amos,25,FS,16,16,2,27,0,26,9,0,0,1,15,0,1.0,73,59,14,2,1,n/a

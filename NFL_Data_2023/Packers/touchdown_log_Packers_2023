@@ -1,4 +1,4 @@
-,Rk,Team,Date,Opp,Result,Quarter,Dist,Type,Detail
+,Rank,Team,Date,Opponent,Results,Quarter,Distance,Type,Detail
 1,1,Packers,2023-09-10,CHI,"W, 38-20",1,8,pass,Romeo Doubs
 2,2,Packers,2023-09-10,CHI,"W, 38-20",3,1,rush,Aaron Jones
 3,3,Packers,2023-09-10,CHI,"W, 38-20",3,35,pass,Aaron Jones
@@ -11,3 +11,9 @@
 10,10,Packers,2023-09-24,NOR,"W, 18-17",4,8,pass,Romeo Doubs
 11,11,Packers,2023-09-28,DET,"L, 20-34",3,1,pass,Christian Watson
 12,12,Packers,2023-09-28,DET,"L, 20-34",4,9,rush,Jordan Love
+13,13,Packers,2023-10-09,LVR,"L, 13-17",3,5,rush,AJ Dillon
+14,14,Packers,2023-10-22,DEN,"L, 17-19",3,16,pass,Romeo Doubs
+15,15,Packers,2023-10-22,DEN,"L, 17-19",4,4,pass,Jayden Reed
+16,16,Packers,2023-10-29,MIN,"L, 10-24",3,1,pass,Romeo Doubs
+17,17,Packers,2023-11-05,LAR,"W, 20-3",2,3,rush,Aaron Jones
+18,18,Packers,2023-11-05,LAR,"W, 20-3",4,20,pass,Luke Musgrave

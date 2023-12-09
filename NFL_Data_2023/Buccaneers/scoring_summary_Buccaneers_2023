@@ -1,9 +1,9 @@
-,No.,Team,Player,Age,Pos,G,GS,RshTD,RecTD,PR TD,KR TD,FblTD,IntTD,OthTD,AllTD,2PM,2PA,D2P,XPM,XPA,FGM,FGA,Sfty,Pts,Pts/G
-4,4,Buccaneers,Chase McLaughlin,27,K,4,0,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,0,7,7,7,8,n/a,28,7.0
-13,13,Buccaneers,Mike Evans,30,WR,4,4,n/a,3,n/a,n/a,n/a,n/a,n/a,3,n/a,n/a,0,n/a,n/a,n/a,n/a,n/a,18,4.5
-10,10,Buccaneers,Trey Palmer,22,WR,4,0,n/a,2,n/a,n/a,n/a,n/a,n/a,2,n/a,n/a,0,n/a,n/a,n/a,n/a,n/a,12,3.0
-7,7,Buccaneers,Shaquil Barrett,31,OLB,4,4,n/a,n/a,n/a,n/a,n/a,1,n/a,1,n/a,n/a,0,n/a,n/a,n/a,n/a,n/a,6,1.5
-88,88,Buccaneers,Cade Otton,24,TE,4,4,n/a,1,n/a,n/a,n/a,n/a,n/a,1,n/a,n/a,0,n/a,n/a,n/a,n/a,n/a,6,1.5
-83,83,Buccaneers,Deven Thompkins,24,WR,4,1,n/a,1,n/a,n/a,n/a,n/a,n/a,1,n/a,n/a,0,n/a,n/a,n/a,n/a,n/a,6,1.5
-1,1,Buccaneers,Rachaad White,24,RB,4,4,1,n/a,n/a,n/a,n/a,n/a,n/a,1,n/a,n/a,0,n/a,n/a,n/a,n/a,n/a,6,1.5
-14,14,Buccaneers,Chris Godwin,27,WR,4,4,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,1,n/a,0,n/a,n/a,n/a,n/a,n/a,2,0.5
+,No.,Team,Player,Age,Pos,Games Played,Games Started,Rush TD,Reception TD,Punt Return TD,Kick Return TD,Fumble Return TD,Interception TD,Other TD,All Touchdown Scored,2-Point Conversions Made,Two-Point Conversions Attempted,Defensive Two-Point Conversions,Extra Points Made,Extra Points Allowed,Field Goals Made,Field Goals Attempted,Safeties Scored by Player/Team,Total Points Scored by all Means,Poins per Game
+4,4,Buccaneers,Chase McLaughlin,27,K,8,0,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,0,13,13,15,17,n/a,58,7.3
+13,13,Buccaneers,Mike Evans,30,WR,8,8,n/a,5,n/a,n/a,n/a,n/a,n/a,5,n/a,n/a,0,n/a,n/a,n/a,n/a,n/a,30,3.8
+88,88,Buccaneers,Cade Otton,24,TE,8,8,n/a,3,n/a,n/a,n/a,n/a,n/a,3,1,n/a,0,n/a,n/a,n/a,n/a,n/a,20,2.5
+1,1,Buccaneers,Rachaad White,24,RB,8,8,3,n/a,n/a,n/a,n/a,n/a,n/a,3,n/a,n/a,0,n/a,n/a,n/a,n/a,n/a,18,2.3
+10,10,Buccaneers,Trey Palmer,22,WR,8,2,n/a,2,n/a,n/a,n/a,n/a,n/a,2,n/a,n/a,0,n/a,n/a,n/a,n/a,n/a,12,1.5
+14,14,Buccaneers,Chris Godwin,27,WR,8,8,n/a,1,n/a,n/a,n/a,n/a,n/a,1,1,n/a,0,n/a,n/a,n/a,n/a,n/a,8,1.0
+7,7,Buccaneers,Shaquil Barrett,31,OLB,8,8,n/a,n/a,n/a,n/a,n/a,1,n/a,1,n/a,n/a,0,n/a,n/a,n/a,n/a,n/a,6,0.8
+83,83,Buccaneers,Deven Thompkins,24,WR,8,1,n/a,1,n/a,n/a,n/a,n/a,n/a,1,n/a,n/a,0,n/a,n/a,n/a,n/a,n/a,6,0.8

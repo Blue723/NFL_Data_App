@@ -1,13 +1,13 @@
-,Week,Team,Day,Date,Time,Win/Loss,OT,Rec,Home/Away,Opp,Tm,Opp,1stD,TotYd,PassY,RushY,TO,1stD,TotYd,PassY,RushY,TO,Offense,Defense,Sp. Tms
+,Week,Team,Day,Date,Time,Win/Loss,Overtime,Team Record,Home/Away,Opponent,Points Scored,Points Allowed,Offense 1st Down,Total Yards Gained of Offense,Total yards Gained by Passing,Total Yards Gained by Rushing,Offense Turnovers,Defense 1st Down,Total Yards Allowed by Defense,Total Passing Yards Allowed by Defense,Total Rushing Yards Allowed by Defense,Defense Turnovers,Offense,Defense,Sp. Tms
 1,1,Chiefs,Thu,September 7,8:20PM ET,L,n/a,0-1,home,Detroit Lions,20,21,17,316,226,90,1,19,368,250,118,1,-4.17,-2.60,2.11
 2,2,Chiefs,Sun,September 17,1:00PM ET,W,n/a,1-1,away,Jacksonville Jaguars,17,9,19,399,298,101,3,18,271,197,74,1,7.01,10.72,-6.76
 3,3,Chiefs,Sun,September 24,4:25PM ET,W,n/a,2-1,home,Chicago Bears,41,10,31,456,303,153,2,11,203,87,116,2,20.09,13.60,-1.47
 4,4,Chiefs,Sun,October 1,8:20PM ET,W,n/a,3-1,away,New York Jets,23,20,24,401,197,204,2,18,336,228,108,1,10.22,-3.25,1.48
-5,5,Chiefs,Sun,October 8,4:25PM ET,n/a,n/a,n/a,away,Minnesota Vikings,0,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
-6,6,Chiefs,Thu,October 12,8:15PM ET,n/a,n/a,n/a,home,Denver Broncos,0,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
-7,7,Chiefs,Sun,October 22,4:25PM ET,n/a,n/a,n/a,home,Los Angeles Chargers,0,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
-8,8,Chiefs,Sun,October 29,4:25PM ET,n/a,n/a,n/a,away,Denver Broncos,0,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
-9,9,Chiefs,Sun,November 5,9:30AM ET,n/a,n/a,n/a,home,Miami Dolphins,0,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+5,5,Chiefs,Sun,October 8,4:25PM ET,W,n/a,4-1,away,Minnesota Vikings,27,20,21,333,266,67,n/a,24,329,259,70,1,15.55,-10.22,0.17
+6,6,Chiefs,Thu,October 12,8:15PM ET,W,n/a,5-1,home,Denver Broncos,19,8,22,389,293,96,1,14,197,82,115,3,1.99,13.65,-1.97
+7,7,Chiefs,Sun,October 22,4:25PM ET,W,n/a,6-1,home,Los Angeles Chargers,31,17,25,483,415,68,2,16,358,219,139,2,19.19,-3.03,-2.58
+8,8,Chiefs,Sun,October 29,4:25PM ET,L,n/a,6-2,away,Denver Broncos,9,24,18,274,212,62,5,19,240,87,153,1,-11.85,1.52,-4.12
+9,9,Chiefs,Sun,November 5,9:30AM ET,W,n/a,7-2,home,Miami Dolphins,21,14,16,267,174,93,1,20,292,175,117,1,-1.10,9.86,-1.00
 10,10,Chiefs,n/a,n/a,n/a,n/a,n/a,n/a,home,<strong>Bye Week</strong>,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
 11,11,Chiefs,Mon,November 20,8:15PM ET,n/a,n/a,n/a,home,Philadelphia Eagles,0,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
 12,12,Chiefs,Sun,November 26,4:25PM ET,n/a,n/a,n/a,away,Las Vegas Raiders,0,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a

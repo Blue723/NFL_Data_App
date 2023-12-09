@@ -1,4 +1,4 @@
-,Rk,Team,Date,Opp,Result,Quarter,Dist,Type,Detail
+,Rank,Team,Date,Opponent,Results,Quarter,Distance,Type,Detail
 1,1,Seahawks,2022-09-12,DEN,"W, 17-16",2,67,pass,Jerry Jeudy
 2,2,Seahawks,2022-09-18,SFO,"L, 7-27",2,38,pass,Ross Dwelley
 3,3,Seahawks,2022-09-18,SFO,"L, 7-27",2,1,rush,Kyle Juszczyk
@@ -17,7 +17,7 @@
 16,16,Seahawks,2022-10-09,NOR,"L, 32-39",3,16,pass,Chris Olave
 17,17,Seahawks,2022-10-09,NOR,"L, 32-39",3,22,pass,Adam Trautman
 18,18,Seahawks,2022-10-09,NOR,"L, 32-39",4,60,rush,Taysom Hill
-19,19,Seahawks,2022-10-16,ARI,"W, 19-9",3,0,fumble,Chris Banjo
+19,19,Seahawks,2022-10-16,ARI,"W, 19-9",3,n/a,fumble,Chris Banjo
 20,20,Seahawks,2022-10-23,LAC,"W, 37-23",2,7,rush,Austin Ekeler
 21,21,Seahawks,2022-10-23,LAC,"W, 37-23",2,13,pass,Mike Williams
 22,22,Seahawks,2022-10-23,LAC,"W, 37-23",4,1,pass,Austin Ekeler

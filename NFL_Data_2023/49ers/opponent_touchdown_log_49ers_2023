@@ -1,7 +1,15 @@
-,Rk,Team,Date,Opp,Result,Quarter,Dist,Type,Detail
+,Rank,Team,Date,Opponent,Results,Quarter,Distance,Type,Detail
 1,1,49ers,2023-09-10,PIT,"W, 30-7",2,3,pass,Pat Freiermuth
 2,2,49ers,2023-09-17,LAR,"W, 30-23",2,6,pass,Kyren Williams
 3,3,49ers,2023-09-17,LAR,"W, 30-23",2,4,rush,Kyren Williams
 4,4,49ers,2023-09-21,NYG,"W, 30-12",3,8,rush,Matt Breida
 5,5,49ers,2023-10-01,ARI,"W, 35-16",2,16,pass,Michael Wilson
 6,6,49ers,2023-10-01,ARI,"W, 35-16",3,8,pass,Michael Wilson
+7,7,49ers,2023-10-08,DAL,"W, 42-10",2,26,pass,KaVontae Turpin
+8,8,49ers,2023-10-15,CLE,"L, 17-19",2,16,rush,Kareem Hunt
+9,9,49ers,2023-10-23,MIN,"L, 17-22",1,20,pass,Jordan Addison
+10,10,49ers,2023-10-23,MIN,"L, 17-22",2,60,pass,Jordan Addison
+11,11,49ers,2023-10-29,CIN,"L, 17-31",1,7,pass,Tyler Boyd
+12,12,49ers,2023-10-29,CIN,"L, 17-31",1,2,pass,Andrei Iosivas
+13,13,49ers,2023-10-29,CIN,"L, 17-31",4,17,pass,Ja'Marr Chase
+14,14,49ers,2023-10-29,CIN,"L, 17-31",4,5,rush,Joe Mixon

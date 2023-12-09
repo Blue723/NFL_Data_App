@@ -1,4 +1,4 @@
-,No.,Team,Player,Age,Pos,G,GS,RshTD,RecTD,PR TD,KR TD,FblTD,IntTD,OthTD,AllTD,2PM,2PA,D2P,XPM,XPA,FGM,FGA,Sfty,Pts,Pts/G
+,No.,Team,Player,Age,Pos,Games Played,Games Started,Rush TD,Reception TD,Punt Return TD,Kick Return TD,Fumble Return TD,Interception TD,Other TD,All Touchdown Scored,2-Point Conversions Made,Two-Point Conversions Attempted,Defensive Two-Point Conversions,Extra Points Made,Extra Points Allowed,Field Goals Made,Field Goals Attempted,Safeties Scored by Player/Team,Total Points Scored by all Means,Poins per Game
 0,9,49ers,Phil Dawson,38,K,16,0,,,,,,,,,,,,44.0,44.0,32.0,36.0,,140,8.8
 1,85,49ers,Vernon Davis,29,TE,15,15,,13.0,,,,,,13.0,,,,,,,,,78,5.2
 2,21,49ers,Frank Gore,30,RB,16,16,9.0,,,,,,,9.0,,,,,,,,,54,3.4

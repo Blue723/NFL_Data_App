@@ -1,4 +1,4 @@
-,No.,Team,Player,Age,Pos,G,GS,Int,Def Interceptions Yds,Def Touchdown,Lng,PD,FF,Fmb,FR,Fumbles Yds,Fumbles Touchdown,Sk,Comb,Solo,Ast,TFL,QBHits,Sfty
+,No.,Team,Player,Age,Pos,Games Played,Games Started,Passes Intercepted on Defense,Yards Interceptions were Returned,Interceptions Returned for Touchdowns,Longest Interception Return,Passes Defended by Defensive Player,# Forced Fumble by Opp.,# Fumbled both Lost and Recovered by Own Team,Fumbles Recovered by Original Fumbler,Yards Recovered Fumbles were Returned,Fumbles Recovered for Touchdown,Sacks,Tackles Solo+Assisted,Solo Tackles,Assisted Tackles,Tackles for Loss,Quarterback Hits,Safeties Scored by Player/Team
 24,24,Bengals,Vonn Bell,27,SS,16,16,1,15,0,15,8,3,0,1,0,0,0.5,97,64,33,5,1,n/a
 55,55,Bengals,Logan Wilson,25,LLB,13,13,4,31,0,18,4,1,0,0,0,0,1.0,100,57,43,5,1,n/a
 30,30,Bengals,Jessie Bates III,24,FS,15,15,1,65,0,65,4,0,0,1,46,0,0.0,88,67,21,3,1,n/a

@@ -1,13 +1,18 @@
-,No.,Team,Player,Age,Pos,G,GS,Att,Rushing Yds,Rushin TD,First Down Rushing,Rushing Success,Longest Rushing Attempt,Y/A,Rushing Yds / Game,A/G,Tgt,Rec,Receiving Yds,Y/R,Receiving TD,First Down Receiving,Receiving Success Rate,Longest Reception,R/G,Receives / Game,Ctch%,Y/Tgt,Touch,Y/Tch,YScm,RRTD,Fmb
-6,6,Cardinals,James Conner,28,RB,4,4,62,318,2,15,50.0,26,5.1,79.5,15.5,10,8,30,3.8,0,2,20.0,11,2.0,7.5,80.0%,3.0,70,5.0,348,2,n/a
-9,9,Cardinals,Joshua Dobbs,28,QB,4,4,24,141,1,11,54.2,44,5.9,35.3,6.0,n/a,n/a,n/a,n/a,0,n/a,n/a,n/a,n/a,n/a,n/a,n/a,24,5.9,141,1,4
-30,30,Cardinals,Keaontay Ingram,24,RB,3,0,12,15,0,n/a,16.7,8,1.3,5.0,4.0,1,1,8,8.0,0,n/a,0.0,8,0.3,2.7,100.0%,8.0,13,1.8,23,0,n/a
-4,4,Cardinals,Rondale Moore,23,WR,4,2,5,66,1,1,40.0,45,13.2,16.5,1.3,12,8,55,6.9,0,3,33.3,31,2.0,13.8,66.7%,4.6,13,9.3,121,1,n/a
-31,31,Cardinals,Emari Demercado,24,RB,4,0,4,3,0,0,0.0,3,0.8,0.8,1.0,6,5,28,5.6,0,1,16.7,13,1.3,7.0,83.3%,4.7,9,3.4,31,0,n/a
-2,2,Cardinals,Marquise Brown,26,WR,4,4,1,29,0,1,100.0,29,29.0,7.3,0.3,32,21,239,11.4,2,16,59.4,41,5.3,59.8,65.6%,7.5,22,12.2,268,2,n/a
-47,47,Cardinals,Zeke Turner,27,LB,4,1,1,2,0,1,100.0,2,2.0,0.5,0.3,n/a,n/a,n/a,n/a,0,n/a,n/a,n/a,n/a,n/a,n/a,n/a,1,2.0,2,0,n/a
-86,86,Cardinals,Zach Ertz,33,TE,4,4,n/a,n/a,0,n/a,n/a,n/a,n/a,n/a,n/a,30,20,136,6.8,0,5,46.7,17,5.0,34.0,66.7%,4.5,20,6.8,136,0,n/a
-14,14,Cardinals,Michael Wilson,23,WR,4,4,n/a,n/a,0,n/a,n/a,n/a,n/a,n/a,n/a,16,14,237,16.9,2,10,68.8,69,3.5,59.3,87.5%,14.8,14,16.9,237,2,n/a
-85,85,Cardinals,Trey McBride,24,TE,4,2,n/a,n/a,0,n/a,n/a,n/a,n/a,n/a,n/a,7,6,62,10.3,0,3,71.4,23,1.5,15.5,85.7%,8.9,6,10.3,62,0,n/a
-n/a,n/a,Cardinals,Zach Pascal,29,WR,4,0,n/a,n/a,0,n/a,n/a,n/a,n/a,n/a,n/a,6,4,19,4.8,0,1,50.0,9,1.0,4.8,66.7%,3.2,4,4.8,19,0,n/a
-87,87,Cardinals,Geoff Swaim,30,TE,4,0,n/a,n/a,0,n/a,n/a,n/a,n/a,n/a,n/a,1,0,0,n/a,0,n/a,0.0,0,0.0,0.0,0.0%,0.0,n/a,n/a,n/a,0,n/a
+,No.,Team,Player,Age,Position,Games Played,Games Started as an Offensive or Defensive Player,Rushing Attempts,Rushing Yards Gained,Rushing Touchdown,First Downs Rushing,Rushing Success Rate,Longest Rushing Attempt,Rushing Yards per Attempt,Rushing Yards per Game,Rushing Attempts per Game,Pass Targets,Receptions,Receiving Yards,Receiving Yards per Reception,Receiving Touchdowns,First Downs Receiving,Receiving Success Rate,Longest Reception,Receptions per Game,Receiving Yards per Game,Catch%,Receiving Yards per Target,Touches: Rushing Attempts and Receptions,Scrimmage Yards per Touch: Rushing + Receiving Yardage per Opportunity,Yards from Scrimmage: Receiving and Rushing Yards,Rushing and Receiving Touchdowns,Lost and Recovered Fumbles
+6,6,Cardinals,James Conner,28,RB,5,5,68,364,2,16,48.5,35,5.4,72.8,13.6,10,8,30,3.8,0,2,20.0,11,1.6,6.0,80.0%,3.0,76,5.2,394,2,n/a
+31,31,Cardinals,Emari Demercado,24,RB,8,2,49,195,1,8,42.9,18,4.0,24.4,6.1,16,12,64,5.3,0,2,31.3,13,1.5,8.0,75.0%,4.0,61,4.2,259,1,n/a
+9,9,Cardinals,Joshua Dobbs,28,QB,8,8,47,258,3,19,48.9,44,5.5,32.3,5.9,n/a,n/a,n/a,n/a,0,n/a,n/a,n/a,n/a,n/a,n/a,n/a,47,5.5,258,3,8
+30,30,Cardinals,Keaontay Ingram,24,RB,7,1,33,72,0,4,21.2,14,2.2,10.3,4.7,4,4,26,6.5,0,1,50.0,9,0.6,3.7,100.0%,6.5,37,2.6,98,0,n/a
+4,4,Cardinals,Rondale Moore,23,WR,9,4,21,150,1,4,42.9,45,7.1,16.7,2.3,33,20,128,6.4,0,9,39.4,31,2.2,14.2,60.6%,3.9,41,6.8,278,1,n/a
+29,29,Cardinals,Damien Williams,31,RB,3,0,11,43,0,1,54.5,9,3.9,14.3,3.7,2,2,12,6.0,0,0,50.0,8,0.7,4.0,100.0%,6.0,13,4.2,55,0,n/a
+15,15,Cardinals,Clayton Tune,24,QB,2,1,5,28,0,1,60.0,11,5.6,14.0,2.5,n/a,n/a,n/a,n/a,0,n/a,n/a,n/a,n/a,n/a,n/a,n/a,5,5.6,28,0,1
+37,37,Cardinals,Tony Jones,26,RB,1,0,3,2,0,1,66.7,4,0.7,2.0,3.0,3,2,5,2.5,0,0,0.0,4,2.0,5.0,66.7%,1.7,5,1.4,7,0,n/a
+2,2,Cardinals,Marquise Brown,26,WR,9,9,1,29,0,1,100.0,29,29.0,3.2,0.1,77,42,440,10.5,4,27,45.5,41,4.7,48.9,54.5%,5.7,43,10.9,469,4,n/a
+47,47,Cardinals,Zeke Turner,27,LB,9,1,1,2,0,1,100.0,2,2.0,0.2,0.1,n/a,n/a,n/a,n/a,0,n/a,n/a,n/a,n/a,n/a,n/a,n/a,1,2.0,2,0,n/a
+85,85,Cardinals,Trey McBride,24,TE,9,4,n/a,n/a,0,n/a,n/a,n/a,n/a,n/a,n/a,40,28,287,10.3,1,14,55.0,27,3.1,31.9,70.0%,7.2,28,10.3,287,1,n/a
+86,86,Cardinals,Zach Ertz,33,TE,7,7,n/a,n/a,0,n/a,n/a,n/a,n/a,n/a,n/a,43,27,187,6.9,1,8,41.9,17,3.9,26.7,62.8%,4.3,27,6.9,187,1,n/a
+14,14,Cardinals,Michael Wilson,23,WR,8,7,n/a,n/a,0,n/a,n/a,n/a,n/a,n/a,n/a,33,25,401,16.0,2,19,60.6,69,3.1,50.1,75.8%,12.2,25,16.0,401,2,n/a
+0,0,Cardinals,Zach Pascal,29,WR,8,1,n/a,n/a,0,n/a,n/a,n/a,n/a,n/a,n/a,10,4,19,4.8,0,1,30.0,9,0.5,2.4,40.0%,1.9,4,4.8,19,0,n/a
+87,87,Cardinals,Geoff Swaim,30,TE,9,3,n/a,n/a,0,n/a,n/a,n/a,n/a,n/a,n/a,4,3,30,10.0,0,2,75.0,11,0.3,3.3,75.0%,7.5,3,10.0,30,0,n/a
+83,83,Cardinals,Greg Dortch,25,WR,8,1,n/a,n/a,0,n/a,n/a,n/a,n/a,n/a,n/a,2,1,2,2.0,0,n/a,0.0,2,0.1,0.3,50.0%,1.0,1,2.0,2,0,n/a
+84,84,Cardinals,Elijah Higgins,23,TE,3,0,n/a,n/a,0,n/a,n/a,n/a,n/a,n/a,n/a,1,1,0,0.0,0,n/a,0.0,0,0.3,0.0,100.0%,0.0,1,0.0,n/a,0,n/a

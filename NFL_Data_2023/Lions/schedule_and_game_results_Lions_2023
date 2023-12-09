@@ -1,12 +1,12 @@
-,Week,Team,Day,Date,Time,Win/Loss,OT,Rec,Home/Away,Opp,Tm,Opp,1stD,TotYd,PassY,RushY,TO,1stD,TotYd,PassY,RushY,TO,Offense,Defense,Sp. Tms
+,Week,Team,Day,Date,Time,Win/Loss,Overtime,Team Record,Home/Away,Opponent,Points Scored,Points Allowed,Offense 1st Down,Total Yards Gained of Offense,Total yards Gained by Passing,Total Yards Gained by Rushing,Offense Turnovers,Defense 1st Down,Total Yards Allowed by Defense,Total Passing Yards Allowed by Defense,Total Rushing Yards Allowed by Defense,Defense Turnovers,Offense,Defense,Sp. Tms
 1,1,Lions,Thu,September 7,8:20PM ET,W,n/a,1-0,away,Kansas City Chiefs,21,20,19,368,250,118,1,17,316,226,90,1,2.60,4.17,-2.11
 2,2,Lions,Sun,September 17,1:00PM ET,L,OT,1-1,home,Seattle Seahawks,31,37,25,418,316,102,3,28,393,311,82,n/a,4.65,-18.00,7.35
 3,3,Lions,Sun,September 24,1:00PM ET,W,n/a,2-1,home,Atlanta Falcons,20,6,18,358,243,115,1,16,183,139,44,1,1.31,15.09,-0.59
 4,4,Lions,Thu,September 28,8:15PM ET,W,n/a,3-1,away,Green Bay Packers,34,20,25,401,190,211,1,15,230,203,27,2,8.47,8.60,2.13
-5,5,Lions,Sun,October 8,1:00PM ET,n/a,n/a,n/a,home,Carolina Panthers,0,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
-6,6,Lions,Sun,October 15,4:25PM ET,n/a,n/a,n/a,away,Tampa Bay Buccaneers,0,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
-7,7,Lions,Sun,October 22,1:00PM ET,n/a,n/a,n/a,away,Baltimore Ravens,0,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
-8,8,Lions,Mon,October 30,8:15PM ET,n/a,n/a,n/a,home,Las Vegas Raiders,0,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+5,5,Lions,Sun,October 8,1:00PM ET,W,n/a,4-1,home,Carolina Panthers,42,24,23,377,218,159,n/a,26,342,243,99,3,21.57,-4.10,0.86
+6,6,Lions,Sun,October 15,4:25PM ET,W,n/a,5-1,away,Tampa Bay Buccaneers,20,6,19,380,340,40,n/a,13,251,205,46,1,8.54,11.72,-6.91
+7,7,Lions,Sun,October 22,1:00PM ET,L,n/a,5-2,away,Baltimore Ravens,6,38,18,337,253,84,1,23,503,357,146,1,-6.40,-26.48,3.38
+8,8,Lions,Mon,October 30,8:15PM ET,W,n/a,6-2,home,Las Vegas Raiders,26,14,29,486,264,222,3,12,157,77,80,1,0.57,15.25,-2.81
 9,9,Lions,n/a,n/a,n/a,n/a,n/a,n/a,home,<strong>Bye Week</strong>,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
 10,10,Lions,Sun,November 12,4:05PM ET,n/a,n/a,n/a,away,Los Angeles Chargers,0,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
 11,11,Lions,Sun,November 19,1:00PM ET,n/a,n/a,n/a,home,Chicago Bears,0,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a

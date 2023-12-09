@@ -1,4 +1,4 @@
-,No.,Team,Player,Age,Pos,G,GS,Int,Def Interceptions Yds,Def Touchdown,Lng,PD,FF,Fmb,FR,Fumbles Yds,Fumbles Touchdown,Sk,Comb,Solo,Ast,TFL,QBHits,Sfty
+,No.,Team,Player,Age,Pos,Games Played,Games Started,Passes Intercepted on Defense,Yards Interceptions were Returned,Interceptions Returned for Touchdowns,Longest Interception Return,Passes Defended by Defensive Player,# Forced Fumble by Opp.,# Fumbled both Lost and Recovered by Own Team,Fumbles Recovered by Original Fumbler,Yards Recovered Fumbles were Returned,Fumbles Recovered for Touchdown,Sacks,Tackles Solo+Assisted,Solo Tackles,Assisted Tackles,Tackles for Loss,Quarterback Hits,Safeties Scored by Player/Team
 99,99,Chargers,Kevin Burnett,28,RILB,16,16,2,31,1,29,5,1,0,1,0,0,6.0,96,81,15,12,7,n/a
 32,32,Chargers,Eric Weddle,25,FS,16,16,2,64,1,41,10,n/a,n/a,n/a,n/a,0,0.5,96,80,16,4,1,n/a
 20,20,Chargers,Antoine Cason,24,RCB,16,15,4,51,0,28,17,1,0,0,0,0,0.0,67,57,10,3,0,n/a

@@ -1,4 +1,4 @@
-,No.,Team,Player,Age,Pos,G,GS,Int,Def Interceptions Yds,Def Touchdown,Lng,PD,FF,Fmb,FR,Fumbles Yds,Fumbles Touchdown,Sk,Comb,Solo,Ast,TFL,QBHits,Sfty
+,No.,Team,Player,Age,Pos,Games Played,Games Started,Passes Intercepted on Defense,Yards Interceptions were Returned,Interceptions Returned for Touchdowns,Longest Interception Return,Passes Defended by Defensive Player,# Forced Fumble by Opp.,# Fumbled both Lost and Recovered by Own Team,Fumbles Recovered by Original Fumbler,Yards Recovered Fumbles were Returned,Fumbles Recovered for Touchdown,Sacks,Tackles Solo+Assisted,Solo Tackles,Assisted Tackles,Tackles for Loss,Quarterback Hits,Safeties Scored by Player/Team
 56,56,Browns,Karlos Dansby,34,LILB,16,16,3,93,2,52,6,3,0,0,0,0,0.0,108,62,46,6,6,n/a
 31,31,Browns,Donte Whitner,30,SS,14,14,0,0,0,0,4,1,0,0,0,0,1.5,81,58,23,4,2,n/a
 22,22,Browns,Tramon Williams,32,RCB,15,15,1,2,0,2,10,n/a,n/a,n/a,n/a,0,0.0,69,55,14,1,1,n/a

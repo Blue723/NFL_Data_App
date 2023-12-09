@@ -1,4 +1,4 @@
-,Rk,Team,Date,Opp,Result,Quarter,Dist,Type,Detail
+,Rank,Team,Date,Opponent,Results,Quarter,Distance,Type,Detail
 1,1,Eagles,2023-09-10,NWE,"W, 25-20",1,70,interception,Darius Slay
 2,2,Eagles,2023-09-10,NWE,"W, 25-20",1,5,pass,DeVonta Smith
 3,3,Eagles,2023-09-14,MIN,"W, 34-28",2,1,rush,Jalen Hurts
@@ -10,3 +10,20 @@
 9,9,Eagles,2023-10-01,WAS,"W, 34-31",1,5,rush,D'Andre Swift
 10,10,Eagles,2023-10-01,WAS,"W, 34-31",3,59,pass,A.J. Brown
 11,11,Eagles,2023-10-01,WAS,"W, 34-31",4,28,pass,A.J. Brown
+12,12,Eagles,2023-10-08,LAR,"W, 23-14",1,6,pass,Dallas Goedert
+13,13,Eagles,2023-10-08,LAR,"W, 23-14",2,1,rush,Jalen Hurts
+14,14,Eagles,2023-10-15,NYJ,"L, 14-20",1,3,rush,Jalen Hurts
+15,15,Eagles,2023-10-15,NYJ,"L, 14-20",2,9,pass,D'Andre Swift
+16,16,Eagles,2023-10-22,MIA,"W, 31-17",2,19,pass,Dallas Goedert
+17,17,Eagles,2023-10-22,MIA,"W, 31-17",2,1,rush,Jalen Hurts
+18,18,Eagles,2023-10-22,MIA,"W, 31-17",3,14,pass,A.J. Brown
+19,19,Eagles,2023-10-22,MIA,"W, 31-17",4,3,rush,Kenneth Gainwell
+20,20,Eagles,2023-10-29,WAS,"W, 38-31",2,16,pass,A.J. Brown
+21,21,Eagles,2023-10-29,WAS,"W, 38-31",3,25,pass,A.J. Brown
+22,22,Eagles,2023-10-29,WAS,"W, 38-31",4,38,pass,DeVonta Smith
+23,23,Eagles,2023-10-29,WAS,"W, 38-31",4,8,pass,Julio Jones
+24,24,Eagles,2023-10-29,WAS,"W, 38-31",4,7,rush,D'Andre Swift
+25,25,Eagles,2023-11-05,DAL,"W, 28-23",1,12,rush,Kenneth Gainwell
+26,26,Eagles,2023-11-05,DAL,"W, 28-23",2,1,rush,Jalen Hurts
+27,27,Eagles,2023-11-05,DAL,"W, 28-23",3,29,pass,DeVonta Smith
+28,28,Eagles,2023-11-05,DAL,"W, 28-23",3,4,pass,A.J. Brown

@@ -1,4 +1,4 @@
-,Rk,Team,Date,Opp,Result,Quarter,Dist,Type,Detail
+,Rank,Team,Date,Opponent,Results,Quarter,Distance,Type,Detail
 1,1,Seahawks,2023-09-10,LAR,"L, 13-30",1,1,rush,Kyren Williams
 2,2,Seahawks,2023-09-10,LAR,"L, 13-30",3,7,rush,Kyren Williams
 3,3,Seahawks,2023-09-10,LAR,"L, 13-30",4,1,rush,Cam Akers
@@ -9,3 +9,12 @@
 8,8,Seahawks,2023-09-24,CAR,"W, 37-27",2,47,pass,DJ Chark
 9,9,Seahawks,2023-09-24,CAR,"W, 37-27",4,1,rush,Miles Sanders
 10,10,Seahawks,2023-09-24,CAR,"W, 37-27",4,15,pass,Adam Thielen
+11,11,Seahawks,2023-10-15,CIN,"L, 13-17",1,8,pass,Tyler Boyd
+12,12,Seahawks,2023-10-15,CIN,"L, 13-17",2,3,pass,Andrei Iosivas
+13,13,Seahawks,2023-10-22,ARI,"W, 20-10",2,25,rush,Joshua Dobbs
+14,14,Seahawks,2023-10-29,CLE,"W, 24-20",1,18,pass,David Njoku
+15,15,Seahawks,2023-10-29,CLE,"W, 24-20",2,1,rush,Kareem Hunt
+16,16,Seahawks,2023-11-05,BAL,"L, 3-37",2,4,rush,Gus Edwards
+17,17,Seahawks,2023-11-05,BAL,"L, 3-37",2,3,rush,Gus Edwards
+18,18,Seahawks,2023-11-05,BAL,"L, 3-37",3,40,rush,Keaton Mitchell
+19,19,Seahawks,2023-11-05,BAL,"L, 3-37",4,6,pass,Odell Beckham Jr.

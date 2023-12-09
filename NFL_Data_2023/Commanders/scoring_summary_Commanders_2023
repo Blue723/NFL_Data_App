@@ -1,8 +1,10 @@
-,No.,Team,Player,Age,Pos,G,GS,RshTD,RecTD,PR TD,KR TD,FblTD,IntTD,OthTD,AllTD,2PM,2PA,D2P,XPM,XPA,FGM,FGA,Sfty,Pts,Pts/G
-6,6,Commanders,Joey Slye,27,K,4,0,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,0,9,9,6,8,n/a,27,6.8
-8,8,Commanders,Brian Robinson Jr.,24,RB,4,4,3,1,n/a,n/a,n/a,n/a,n/a,4,1,n/a,0,n/a,n/a,n/a,n/a,n/a,26,6.5
-17,17,Commanders,Terry McLaurin,28,WR,4,4,n/a,1,n/a,n/a,1,n/a,n/a,2,n/a,n/a,0,n/a,n/a,n/a,n/a,n/a,12,3.0
-1,1,Commanders,Jahan Dotson,23,WR,4,4,n/a,1,n/a,n/a,n/a,n/a,n/a,1,n/a,n/a,0,n/a,n/a,n/a,n/a,n/a,6,1.5
-14,14,Commanders,Sam Howell,23,QB,4,4,1,n/a,n/a,n/a,n/a,n/a,n/a,1,n/a,n/a,0,n/a,n/a,n/a,n/a,n/a,6,1.5
-4,4,Commanders,Curtis Samuel,27,WR,4,2,1,n/a,n/a,n/a,n/a,n/a,n/a,1,n/a,n/a,0,n/a,n/a,n/a,n/a,n/a,6,1.5
-82,82,Commanders,Logan Thomas,32,TE,3,3,n/a,1,n/a,n/a,n/a,n/a,n/a,1,n/a,n/a,0,n/a,n/a,n/a,n/a,n/a,6,2.0
+,No.,Team,Player,Age,Pos,Games Played,Games Started,Rush TD,Reception TD,Punt Return TD,Kick Return TD,Fumble Return TD,Interception TD,Other TD,All Touchdown Scored,2-Point Conversions Made,Two-Point Conversions Attempted,Defensive Two-Point Conversions,Extra Points Made,Extra Points Allowed,Field Goals Made,Field Goals Attempted,Safeties Scored by Player/Team,Total Points Scored by all Means,Poins per Game
+6,6,Commanders,Joey Slye,27,K,9,0,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,0,19,19,12,16,n/a,55,6.1
+8,8,Commanders,Brian Robinson Jr.,24,RB,9,9,5,2,n/a,n/a,n/a,n/a,n/a,7,1,n/a,0,n/a,n/a,n/a,n/a,n/a,44,4.9
+1,1,Commanders,Jahan Dotson,23,WR,9,9,n/a,3,n/a,n/a,n/a,n/a,n/a,3,n/a,n/a,0,n/a,n/a,n/a,n/a,n/a,18,2.0
+17,17,Commanders,Terry McLaurin,28,WR,9,9,n/a,2,n/a,n/a,1,n/a,n/a,3,n/a,n/a,0,n/a,n/a,n/a,n/a,n/a,18,2.0
+4,4,Commanders,Curtis Samuel,27,WR,8,5,1,2,n/a,n/a,n/a,n/a,n/a,3,n/a,n/a,0,n/a,n/a,n/a,n/a,n/a,18,2.3
+82,82,Commanders,Logan Thomas,32,TE,8,8,n/a,3,n/a,n/a,n/a,n/a,n/a,3,n/a,n/a,0,n/a,n/a,n/a,n/a,n/a,18,2.3
+14,14,Commanders,Sam Howell,23,QB,9,9,1,n/a,n/a,n/a,n/a,n/a,n/a,1,1,n/a,0,n/a,n/a,n/a,n/a,n/a,8,0.9
+83,83,Commanders,Jamison Crowder,30,WR,9,0,n/a,1,n/a,n/a,n/a,n/a,n/a,1,n/a,n/a,0,n/a,n/a,n/a,n/a,n/a,6,0.7
+24,24,Commanders,Antonio Gibson,25,RB,9,0,n/a,1,n/a,n/a,n/a,n/a,n/a,1,n/a,n/a,0,n/a,n/a,n/a,n/a,n/a,6,0.7

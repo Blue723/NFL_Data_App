@@ -1,7 +1,18 @@
-,Rk,Team,Date,Opp,Result,Quarter,Dist,Type,Detail
+,Rank,Team,Date,Opponent,Results,Quarter,Distance,Type,Detail
 1,1,Buccaneers,2023-09-10,MIN,"W, 20-17",2,39,pass,Jordan Addison
 2,2,Buccaneers,2023-09-10,MIN,"W, 20-17",4,4,pass,Alexander Mattison
 3,3,Buccaneers,2023-09-17,CHI,"W, 27-17",1,1,rush,Justin Fields
 4,4,Buccaneers,2023-09-17,CHI,"W, 27-17",4,20,pass,Chase Claypool
 5,5,Buccaneers,2023-09-25,PHI,"L, 11-25",2,34,pass,Olamide Zaccheaus
 6,6,Buccaneers,2023-09-25,PHI,"L, 11-25",3,1,rush,Jalen Hurts
+7,7,Buccaneers,2023-10-15,DET,"L, 6-20",2,27,pass,Amon-Ra St. Brown
+8,8,Buccaneers,2023-10-15,DET,"L, 6-20",3,45,pass,Jameson Williams
+9,9,Buccaneers,2023-10-22,ATL,"L, 13-16",1,2,rush,Desmond Ridder
+10,10,Buccaneers,2023-10-26,BUF,"L, 18-24",2,13,rush,Josh Allen
+11,11,Buccaneers,2023-10-26,BUF,"L, 18-24",2,22,pass,Dalton Kincaid
+12,12,Buccaneers,2023-10-26,BUF,"L, 18-24",3,4,pass,Gabriel Davis
+13,13,Buccaneers,2023-11-05,HOU,"L, 37-39",1,14,pass,Nico Collins
+14,14,Buccaneers,2023-11-05,HOU,"L, 37-39",3,75,pass,Noah Brown
+15,15,Buccaneers,2023-11-05,HOU,"L, 37-39",3,29,pass,Tank Dell
+16,16,Buccaneers,2023-11-05,HOU,"L, 37-39",4,9,pass,Dalton Schultz
+17,17,Buccaneers,2023-11-05,HOU,"L, 37-39",4,15,pass,Tank Dell

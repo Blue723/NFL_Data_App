@@ -1,13 +1,13 @@
-,Week,Team,Day,Date,Time,Win/Loss,OT,Rec,Home/Away,Opp,Tm,Opp,1stD,TotYd,PassY,RushY,TO,1stD,TotYd,PassY,RushY,TO,Offense,Defense,Sp. Tms
+,Week,Team,Day,Date,Time,Win/Loss,Overtime,Team Record,Home/Away,Opponent,Points Scored,Points Allowed,Offense 1st Down,Total Yards Gained of Offense,Total yards Gained by Passing,Total Yards Gained by Rushing,Offense Turnovers,Defense 1st Down,Total Yards Allowed by Defense,Total Passing Yards Allowed by Defense,Total Rushing Yards Allowed by Defense,Defense Turnovers,Offense,Defense,Sp. Tms
 1,1,Packers,Sun,September 10,4:25PM ET,W,n/a,1-0,away,Chicago Bears,38,20,15,329,237,92,n/a,22,311,189,122,2,8.05,6.45,2.11
 2,2,Packers,Sun,September 17,1:00PM ET,L,n/a,1-1,away,Atlanta Falcons,24,25,17,224,140,84,n/a,27,446,235,211,1,7.85,-13.12,0.97
 3,3,Packers,Sun,September 24,1:00PM ET,W,n/a,2-1,home,New Orleans Saints,18,17,21,340,245,95,1,15,252,175,77,n/a,1.99,3.02,-6.26
 4,4,Packers,Thu,September 28,8:15PM ET,L,n/a,2-2,home,Detroit Lions,20,34,15,230,203,27,2,25,401,190,211,1,-8.60,-8.47,-2.13
-5,5,Packers,Mon,October 9,8:15PM ET,n/a,n/a,n/a,away,Las Vegas Raiders,0,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+5,5,Packers,Mon,October 9,8:15PM ET,L,n/a,2-3,away,Las Vegas Raiders,13,17,18,285,175,110,3,19,279,183,96,1,-6.99,1.23,5.61
 6,6,Packers,n/a,n/a,n/a,n/a,n/a,n/a,home,<strong>Bye Week</strong>,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
-7,7,Packers,Sun,October 22,4:25PM ET,n/a,n/a,n/a,away,Denver Broncos,0,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
-8,8,Packers,Sun,October 29,1:00PM ET,n/a,n/a,n/a,home,Minnesota Vikings,0,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
-9,9,Packers,Sun,November 5,1:00PM ET,n/a,n/a,n/a,home,Los Angeles Rams,0,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+7,7,Packers,Sun,October 22,4:25PM ET,L,n/a,2-4,away,Denver Broncos,17,19,20,331,194,137,1,18,339,194,145,n/a,11.33,-9.89,-2.65
+8,8,Packers,Sun,October 29,1:00PM ET,L,n/a,2-5,home,Minnesota Vikings,10,24,16,270,196,74,1,24,346,284,62,1,-10.54,-13.60,9.64
+9,9,Packers,Sun,November 5,1:00PM ET,W,n/a,3-5,home,Los Angeles Rams,20,3,21,391,207,184,2,10,187,119,68,2,2.46,20.49,-1.58
 10,10,Packers,Sun,November 12,1:00PM ET,n/a,n/a,n/a,away,Pittsburgh Steelers,0,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
 11,11,Packers,Sun,November 19,1:00PM ET,n/a,n/a,n/a,home,Los Angeles Chargers,0,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
 12,12,Packers,Thu,November 23,12:30PM ET,n/a,n/a,n/a,away,Detroit Lions,0,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a

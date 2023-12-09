@@ -1,4 +1,4 @@
-,No.,Team,Player,Age,Pos,G,GS,Int,Def Interceptions Yds,Def Touchdown,Lng,PD,FF,Fmb,FR,Fumbles Yds,Fumbles Touchdown,Sk,Comb,Solo,Ast,TFL,QBHits,Sfty
+,No.,Team,Player,Age,Pos,Games Played,Games Started,Passes Intercepted on Defense,Yards Interceptions were Returned,Interceptions Returned for Touchdowns,Longest Interception Return,Passes Defended by Defensive Player,# Forced Fumble by Opp.,# Fumbled both Lost and Recovered by Own Team,Fumbles Recovered by Original Fumbler,Yards Recovered Fumbles were Returned,Fumbles Recovered for Touchdown,Sacks,Tackles Solo+Assisted,Solo Tackles,Assisted Tackles,Tackles for Loss,Quarterback Hits,Safeties Scored by Player/Team
 50,50,Packers,Blake Martinez,25,LILB,16,16,1,22,0,22,2,1,0,0,0,0,3.0,155,97,58,5,3,n/a
 31,31,Packers,Adrian Amos,26,SS,16,16,2,12,0,9,8,n/a,n/a,n/a,n/a,0,1.0,84,68,16,4,2,n/a
 20,20,Packers,Kevin King,24,RCB,15,14,5,54,0,39,15,1,0,0,0,0,1.0,66,56,10,3,1,n/a

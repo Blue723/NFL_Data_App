@@ -1,4 +1,4 @@
-,No.,Team,Player,Age,Pos,G,GS,Int,Def Interceptions Yds,Def Touchdown,Lng,PD,FF,Fmb,FR,Fumbles Yds,Fumbles Touchdown,Sk,Comb,Solo,Ast,TFL,QBHits,Sfty
+,No.,Team,Player,Age,Pos,Games Played,Games Started,Passes Intercepted on Defense,Yards Interceptions were Returned,Interceptions Returned for Touchdowns,Longest Interception Return,Passes Defended by Defensive Player,# Forced Fumble by Opp.,# Fumbled both Lost and Recovered by Own Team,Fumbles Recovered by Original Fumbler,Yards Recovered Fumbles were Returned,Fumbles Recovered for Touchdown,Sacks,Tackles Solo+Assisted,Solo Tackles,Assisted Tackles,Tackles for Loss,Quarterback Hits,Safeties Scored by Player/Team
 40,40,Lions,Jarrad Davis,24,MLB,16,16,0,0,0,0,5,1,0,1,20,0,6.0,100,73,27,10,10,n/a
 28,28,Lions,Quandre Diggs,25,SS,16,16,3,41,1,37,8,n/a,n/a,n/a,n/a,0,0.0,78,64,14,3,1,n/a
 27,27,Lions,Glover Quin,32,FS,16,16,0,0,0,0,3,n/a,n/a,n/a,n/a,0,1.0,74,58,16,1,2,n/a

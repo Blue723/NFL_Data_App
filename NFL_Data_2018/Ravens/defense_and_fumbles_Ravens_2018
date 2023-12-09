@@ -1,4 +1,4 @@
-,No.,Team,Player,Age,Pos,G,GS,Int,Def Interceptions Yds,Def Touchdown,Lng,PD,FF,Fmb,FR,Fumbles Yds,Fumbles Touchdown,Sk,Comb,Solo,Ast,TFL,QBHits,Sfty
+,No.,Team,Player,Age,Pos,Games Played,Games Started,Passes Intercepted on Defense,Yards Interceptions were Returned,Interceptions Returned for Touchdowns,Longest Interception Return,Passes Defended by Defensive Player,# Forced Fumble by Opp.,# Fumbled both Lost and Recovered by Own Team,Fumbles Recovered by Original Fumbler,Yards Recovered Fumbles were Returned,Fumbles Recovered for Touchdown,Sacks,Tackles Solo+Assisted,Solo Tackles,Assisted Tackles,Tackles for Loss,Quarterback Hits,Safeties Scored by Player/Team
 57,57,Ravens,C.J. Mosley,26,LILB,15,15,1,0,0,0,5,n/a,n/a,n/a,n/a,0,0.5,105,70,35,6,2,n/a
 23,23,Ravens,Tony Jefferson,26,SS,14,14,1,15,0,15,6,1,0,1,0,0,1.0,74,53,21,6,2,n/a
 32,32,Ravens,Eric Weddle,33,FS,16,16,0,0,0,0,3,n/a,n/a,n/a,n/a,0,1.0,68,54,14,2,4,n/a

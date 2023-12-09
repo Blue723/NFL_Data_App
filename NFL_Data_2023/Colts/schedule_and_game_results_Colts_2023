@@ -1,13 +1,13 @@
-,Week,Team,Day,Date,Time,Win/Loss,OT,Rec,Home/Away,Opp,Tm,Opp,1stD,TotYd,PassY,RushY,TO,1stD,TotYd,PassY,RushY,TO,Offense,Defense,Sp. Tms
+,Week,Team,Day,Date,Time,Win/Loss,Overtime,Team Record,Home/Away,Opponent,Points Scored,Points Allowed,Offense 1st Down,Total Yards Gained of Offense,Total yards Gained by Passing,Total Yards Gained by Rushing,Offense Turnovers,Defense 1st Down,Total Yards Allowed by Defense,Total Passing Yards Allowed by Defense,Total Rushing Yards Allowed by Defense,Defense Turnovers,Offense,Defense,Sp. Tms
 1,1,Colts,Sun,September 10,1:00PM ET,L,n/a,0-1,home,Jacksonville Jaguars,21,31,18,280,215,65,3,20,342,237,105,2,-17.62,9.80,-2.44
 2,2,Colts,Sun,September 17,1:00PM ET,W,n/a,1-1,away,Houston Texans,31,20,19,353,227,126,n/a,24,389,337,52,1,14.21,-7.88,4.04
 3,3,Colts,Sun,September 24,1:00PM ET,W,OT,2-1,away,Baltimore Ravens,22,19,19,327,188,139,n/a,20,364,178,186,2,-13.57,5.27,10.63
 4,4,Colts,Sun,October 1,1:00PM ET,L,OT,2-2,home,Los Angeles Rams,23,29,19,329,196,133,1,27,467,303,164,1,5.51,-15.52,0.74
-5,5,Colts,Sun,October 8,1:00PM ET,n/a,n/a,n/a,home,Tennessee Titans,0,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
-6,6,Colts,Sun,October 15,1:00PM ET,n/a,n/a,n/a,away,Jacksonville Jaguars,0,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
-7,7,Colts,Sun,October 22,1:00PM ET,n/a,n/a,n/a,home,Cleveland Browns,0,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
-8,8,Colts,Sun,October 29,1:00PM ET,n/a,n/a,n/a,home,New Orleans Saints,0,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
-9,9,Colts,Sun,November 5,4:05PM ET,n/a,n/a,n/a,away,Carolina Panthers,0,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+5,5,Colts,Sun,October 8,1:00PM ET,W,n/a,3-2,home,Tennessee Titans,23,16,21,429,236,193,n/a,19,348,259,89,1,16.77,-6.32,-0.89
+6,6,Colts,Sun,October 15,1:00PM ET,L,n/a,3-3,away,Jacksonville Jaguars,20,37,18,354,310,44,4,17,233,148,85,1,-12.21,0.16,-4.88
+7,7,Colts,Sun,October 22,1:00PM ET,L,n/a,3-4,home,Cleveland Browns,38,39,20,456,288,168,4,18,316,166,150,2,1.77,5.30,-10.23
+8,8,Colts,Sun,October 29,1:00PM ET,L,n/a,3-5,home,New Orleans Saints,27,38,19,371,207,164,1,24,511,350,161,1,8.38,-23.78,3.03
+9,9,Colts,Sun,November 5,4:05PM ET,W,n/a,4-5,away,Carolina Panthers,27,13,17,198,120,78,1,17,275,137,138,3,-3.93,23.07,-2.92
 10,10,Colts,Sun,November 12,9:30AM ET,n/a,n/a,n/a,away,New England Patriots,0,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
 11,11,Colts,n/a,n/a,n/a,n/a,n/a,n/a,home,<strong>Bye Week</strong>,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
 12,12,Colts,Sun,November 26,1:00PM ET,n/a,n/a,n/a,home,Tampa Bay Buccaneers,0,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a

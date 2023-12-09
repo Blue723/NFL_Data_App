@@ -1,4 +1,4 @@
-,No.,Team,Player,Age,Pos,G,GS,Int,Def Interceptions Yds,Def Touchdown,Lng,PD,FF,Fmb,FR,Fumbles Yds,Fumbles Touchdown,Sk,Comb,Solo,Ast,TFL,QBHits,Sfty
+,No.,Team,Player,Age,Pos,Games Played,Games Started,Passes Intercepted on Defense,Yards Interceptions were Returned,Interceptions Returned for Touchdowns,Longest Interception Return,Passes Defended by Defensive Player,# Forced Fumble by Opp.,# Fumbled both Lost and Recovered by Own Team,Fumbles Recovered by Original Fumbler,Yards Recovered Fumbles were Returned,Fumbles Recovered for Touchdown,Sacks,Tackles Solo+Assisted,Solo Tackles,Assisted Tackles,Tackles for Loss,Quarterback Hits,Safeties Scored by Player/Team
 55,55,Texans,Benardrick McKinney,25,LILB,16,16,0,0,0,0,1,1,0,0,0,0,3.0,95,62,33,10,8,n/a
 41,41,Texans,Zach Cunningham,23,RILB,16,13,0,0,0,0,6,1,0,0,0,0,1.5,90,48,42,5,2,n/a
 25,25,Texans,Kareem Jackson,29,RCB,16,14,1,2,0,2,10,1,0,0,0,0,1.0,73,54,19,4,2,n/a

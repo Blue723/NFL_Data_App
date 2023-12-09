@@ -1,4 +1,4 @@
-,No.,Team,Player,Age,Pos,G,GS,Int,Def Interceptions Yds,Def Touchdown,Lng,PD,FF,Fmb,FR,Fumbles Yds,Fumbles Touchdown,Sk,Comb,Solo,Ast,TFL,QBHits,Sfty
+,No.,Team,Player,Age,Pos,Games Played,Games Started,Passes Intercepted on Defense,Yards Interceptions were Returned,Interceptions Returned for Touchdowns,Longest Interception Return,Passes Defended by Defensive Player,# Forced Fumble by Opp.,# Fumbled both Lost and Recovered by Own Team,Fumbles Recovered by Original Fumbler,Yards Recovered Fumbles were Returned,Fumbles Recovered for Touchdown,Sacks,Tackles Solo+Assisted,Solo Tackles,Assisted Tackles,Tackles for Loss,Quarterback Hits,Safeties Scored by Player/Team
 53,53,Raiders,Malcolm Smith,27,RLB,15,14,1,0,0,0,3,2,0,1,1,0,0.0,103,86,17,3,2,n/a
 52,52,Raiders,Khalil Mack,25,RDE,16,16,1,6,1,6,3,5,0,3,1,0,11.0,73,54,19,14,26,n/a
 29,29,Raiders,David Amerson,25,LCB,15,15,2,0,0,0,16,n/a,n/a,n/a,n/a,0,0.0,64,56,8,1,0,n/a

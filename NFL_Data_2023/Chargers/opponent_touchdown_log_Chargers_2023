@@ -1,4 +1,4 @@
-,Rk,Team,Date,Opp,Result,Quarter,Dist,Type,Detail
+,Rank,Team,Date,Opponent,Results,Quarter,Distance,Type,Detail
 1,1,Chargers,2023-09-10,MIA,"L, 34-36",1,2,rush,Raheem Mostert
 2,2,Chargers,2023-09-10,MIA,"L, 34-36",2,1,pass,River Cracraft
 3,3,Chargers,2023-09-10,MIA,"L, 34-36",3,35,pass,Tyreek Hill
@@ -11,3 +11,11 @@
 10,10,Chargers,2023-09-24,MIN,"W, 28-24",4,52,pass,Justin Jefferson
 11,11,Chargers,2023-10-01,LVR,"W, 24-17",1,1,rush,Aidan O'Connell
 12,12,Chargers,2023-10-01,LVR,"W, 24-17",4,1,rush,Josh Jacobs
+13,13,Chargers,2023-10-16,DAL,"L, 17-20",1,18,rush,Dak Prescott
+14,14,Chargers,2023-10-16,DAL,"L, 17-20",4,2,pass,Brandin Cooks
+15,15,Chargers,2023-10-22,KAN,"L, 17-31",2,46,pass,Marquez Valdes-Scantling
+16,16,Chargers,2023-10-22,KAN,"L, 17-31",2,6,pass,Rashee Rice
+17,17,Chargers,2023-10-22,KAN,"L, 17-31",2,1,pass,Travis Kelce
+18,18,Chargers,2023-10-22,KAN,"L, 17-31",4,8,pass,Isiah Pacheco
+19,19,Chargers,2023-10-29,CHI,"W, 30-13",2,11,rush,Darrynton Evans
+20,20,Chargers,2023-10-29,CHI,"W, 30-13",4,1,rush,Tyson Bagent

@@ -1,4 +1,4 @@
-,No.,Team,Player,Age,Pos,G,GS,Int,Def Interceptions Yds,Def Touchdown,Lng,PD,FF,Fmb,FR,Fumbles Yds,Fumbles Touchdown,Sk,Comb,Solo,Ast,TFL,QBHits,Sfty
+,No.,Team,Player,Age,Pos,Games Played,Games Started,Passes Intercepted on Defense,Yards Interceptions were Returned,Interceptions Returned for Touchdowns,Longest Interception Return,Passes Defended by Defensive Player,# Forced Fumble by Opp.,# Fumbled both Lost and Recovered by Own Team,Fumbles Recovered by Original Fumbler,Yards Recovered Fumbles were Returned,Fumbles Recovered for Touchdown,Sacks,Tackles Solo+Assisted,Solo Tackles,Assisted Tackles,Tackles for Loss,Quarterback Hits,Safeties Scored by Player/Team
 36,36,49ers,Dontae Johnson,26,RCB,16,16,1,50,1,50,7,n/a,n/a,n/a,n/a,0,0.0,77,69,8,2,0,n/a
 35,35,49ers,Eric Reid,26,SS,13,12,2,0,0,0,4,0,0,1,0,0,0.0,67,53,14,3,3,n/a
 99,99,49ers,DeForest Buckner,23,RDT,16,16,0,0,0,0,5,1,0,0,0,0,3.0,61,45,16,5,22,n/a

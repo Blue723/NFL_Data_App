@@ -1,13 +1,13 @@
-,Week,Team,Day,Date,Time,Win/Loss,OT,Rec,Home/Away,Opp,Tm,Opp,1stD,TotYd,PassY,RushY,TO,1stD,TotYd,PassY,RushY,TO,Offense,Defense,Sp. Tms
+,Week,Team,Day,Date,Time,Win/Loss,Overtime,Team Record,Home/Away,Opponent,Points Scored,Points Allowed,Offense 1st Down,Total Yards Gained of Offense,Total yards Gained by Passing,Total Yards Gained by Rushing,Offense Turnovers,Defense 1st Down,Total Yards Allowed by Defense,Total Passing Yards Allowed by Defense,Total Rushing Yards Allowed by Defense,Defense Turnovers,Offense,Defense,Sp. Tms
 1,1,Buccaneers,Sun,September 10,1:00PM ET,W,n/a,1-0,away,Minnesota Vikings,20,17,16,242,169,73,n/a,18,369,328,41,3,-3.09,-0.10,7.66
 2,2,Buccaneers,Sun,September 17,1:00PM ET,W,n/a,2-0,home,Chicago Bears,27,17,19,437,317,120,n/a,14,236,169,67,2,14.15,7.04,-8.78
 3,3,Buccaneers,Mon,September 25,7:15PM ET,L,n/a,2-1,home,Philadelphia Eagles,11,25,12,174,133,41,2,27,472,271,201,2,-7.28,-14.08,1.78
 4,4,Buccaneers,Sun,October 1,1:00PM ET,W,n/a,3-1,away,New Orleans Saints,26,9,21,353,239,114,1,16,197,127,70,3,3.79,14.93,-2.25
 5,5,Buccaneers,n/a,n/a,n/a,n/a,n/a,n/a,home,<strong>Bye Week</strong>,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
-6,6,Buccaneers,Sun,October 15,4:25PM ET,n/a,n/a,n/a,home,Detroit Lions,0,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
-7,7,Buccaneers,Sun,October 22,1:00PM ET,n/a,n/a,n/a,home,Atlanta Falcons,0,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
-8,8,Buccaneers,Thu,October 26,8:15PM ET,n/a,n/a,n/a,away,Buffalo Bills,0,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
-9,9,Buccaneers,Sun,November 5,1:00PM ET,n/a,n/a,n/a,away,Houston Texans,0,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+6,6,Buccaneers,Sun,October 15,4:25PM ET,L,n/a,3-2,home,Detroit Lions,6,20,13,251,205,46,1,19,380,340,40,n/a,-11.72,-8.54,6.91
+7,7,Buccaneers,Sun,October 22,1:00PM ET,L,n/a,3-3,home,Atlanta Falcons,13,16,21,329,256,73,2,20,401,245,156,3,-2.11,0.80,-1.89
+8,8,Buccaneers,Thu,October 26,8:15PM ET,L,n/a,3-4,away,Buffalo Bills,18,24,17,302,224,78,n/a,25,427,312,115,1,3.38,-9.78,1.24
+9,9,Buccaneers,Sun,November 5,1:00PM ET,L,n/a,3-5,away,Houston Texans,37,39,21,332,251,81,1,26,496,443,53,1,13.23,-16.65,5.81
 10,10,Buccaneers,Sun,November 12,1:00PM ET,n/a,n/a,n/a,home,Tennessee Titans,0,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
 11,11,Buccaneers,Sun,November 19,4:05PM ET,n/a,n/a,n/a,away,San Francisco 49ers,0,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
 12,12,Buccaneers,Sun,November 26,1:00PM ET,n/a,n/a,n/a,away,Indianapolis Colts,0,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a

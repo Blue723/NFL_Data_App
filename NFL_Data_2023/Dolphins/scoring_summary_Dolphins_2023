@@ -1,8 +1,12 @@
-,No.,Team,Player,Age,Pos,G,GS,RshTD,RecTD,PR TD,KR TD,FblTD,IntTD,OthTD,AllTD,2PM,2PA,D2P,XPM,XPA,FGM,FGA,Sfty,Pts,Pts/G
-31,31,Dolphins,Raheem Mostert,31,RB,4,4,6,1,n/a,n/a,n/a,n/a,n/a,7,n/a,n/a,0,n/a,n/a,n/a,n/a,n/a,42,10.5
-28,28,Dolphins,De'Von Achane,22,RB,3,0,4,2,n/a,n/a,n/a,n/a,n/a,6,n/a,n/a,0,n/a,n/a,n/a,n/a,n/a,36,12.0
-7,7,Dolphins,Jason Sanders,28,K,4,0,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,0,18,19,4,6,n/a,30,7.5
-10,10,Dolphins,Tyreek Hill,29,WR,4,4,n/a,4,n/a,n/a,n/a,n/a,n/a,4,n/a,n/a,0,n/a,n/a,n/a,n/a,n/a,24,6.0
-n/a,n/a,Dolphins,Braxton Berrios,28,WR,4,0,n/a,1,n/a,n/a,n/a,n/a,n/a,1,n/a,n/a,0,n/a,n/a,n/a,n/a,n/a,6,1.5
-3,3,Dolphins,Robbie Chosen,30,WR,2,0,n/a,1,n/a,n/a,n/a,n/a,n/a,1,n/a,n/a,0,n/a,n/a,n/a,n/a,n/a,6,3.0
+,No.,Team,Player,Age,Pos,Games Played,Games Started,Rush TD,Reception TD,Punt Return TD,Kick Return TD,Fumble Return TD,Interception TD,Other TD,All Touchdown Scored,2-Point Conversions Made,Two-Point Conversions Attempted,Defensive Two-Point Conversions,Extra Points Made,Extra Points Allowed,Field Goals Made,Field Goals Attempted,Safeties Scored by Player/Team,Total Points Scored by all Means,Poins per Game
+31,31,Dolphins,Raheem Mostert,31,RB,9,9,11,2,n/a,n/a,n/a,n/a,n/a,13,n/a,n/a,0,n/a,n/a,n/a,n/a,n/a,78,8.7
+7,7,Dolphins,Jason Sanders,28,K,9,0,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,0,36,37,7,9,n/a,57,6.3
+10,10,Dolphins,Tyreek Hill,29,WR,9,9,n/a,8,n/a,n/a,n/a,n/a,n/a,8,n/a,n/a,0,n/a,n/a,n/a,n/a,n/a,48,5.3
+28,28,Dolphins,De'Von Achane,22,RB,4,1,5,2,n/a,n/a,n/a,n/a,n/a,7,n/a,n/a,0,n/a,n/a,n/a,n/a,n/a,42,10.5
+17,17,Dolphins,Jaylen Waddle,25,WR,8,8,n/a,3,n/a,n/a,n/a,n/a,n/a,3,n/a,n/a,0,n/a,n/a,n/a,n/a,n/a,18,2.3
+11,11,Dolphins,Cedrick Wilson Jr.,28,WR,7,0,n/a,2,n/a,n/a,n/a,n/a,n/a,2,n/a,n/a,0,n/a,n/a,n/a,n/a,n/a,12,1.7
+26,26,Dolphins,Salvon Ahmed,25,RB,7,0,1,n/a,n/a,n/a,n/a,n/a,n/a,1,n/a,n/a,0,n/a,n/a,n/a,n/a,n/a,6,0.9
+55,55,Dolphins,Jerome Baker,27,LB,9,9,n/a,n/a,n/a,n/a,n/a,1,n/a,1,n/a,n/a,0,n/a,n/a,n/a,n/a,n/a,6,0.7
+0,0,Dolphins,Braxton Berrios,28,WR,9,1,n/a,1,n/a,n/a,n/a,n/a,n/a,1,n/a,n/a,0,n/a,n/a,n/a,n/a,n/a,6,0.7
+3,3,Dolphins,Robbie Chosen,30,WR,4,0,n/a,1,n/a,n/a,n/a,n/a,n/a,1,n/a,n/a,0,n/a,n/a,n/a,n/a,n/a,6,1.5
 85,85,Dolphins,River Cracraft,29,WR,3,1,n/a,1,n/a,n/a,n/a,n/a,n/a,1,n/a,n/a,0,n/a,n/a,n/a,n/a,n/a,6,2.0

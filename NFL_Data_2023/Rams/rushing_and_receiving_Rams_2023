@@ -1,11 +1,18 @@
-,No.,Team,Player,Age,Pos,G,GS,Att,Rushing Yds,Rushin TD,First Down Rushing,Rushing Success,Longest Rushing Attempt,Y/A,Rushing Yds / Game,A/G,Tgt,Rec,Receiving Yds,Y/R,Receiving TD,First Down Receiving,Receiving Success Rate,Longest Reception,R/G,Receives / Game,Ctch%,Y/Tgt,Touch,Y/Tch,YScm,RRTD,Fmb
-23,23,Rams,Kyren Williams,23,RB,4,3,64,245,5,15,59.4,20,3.8,61.3,16.0,22,11,101,9.2,1,5,40.9,20,2.8,25.3,50.0%,4.6,75,4.6,346,6,1
+,No.,Team,Player,Age,Position,Games Played,Games Started as an Offensive or Defensive Player,Rushing Attempts,Rushing Yards Gained,Rushing Touchdown,First Downs Rushing,Rushing Success Rate,Longest Rushing Attempt,Rushing Yards per Attempt,Rushing Yards per Game,Rushing Attempts per Game,Pass Targets,Receptions,Receiving Yards,Receiving Yards per Reception,Receiving Touchdowns,First Downs Receiving,Receiving Success Rate,Longest Reception,Receptions per Game,Receiving Yards per Game,Catch%,Receiving Yards per Target,Touches: Rushing Attempts and Receptions,Scrimmage Yards per Touch: Rushing + Receiving Yardage per Opportunity,Yards from Scrimmage: Receiving and Rushing Yards,Rushing and Receiving Touchdowns,Lost and Recovered Fumbles
+23,23,Rams,Kyren Williams,23,RB,6,5,97,456,6,26,60.8,31,4.7,76.0,16.2,24,13,105,8.1,1,5,41.7,20,2.2,17.5,54.2%,4.4,110,5.1,561,7,1
+27,27,Rams,Darrell Henderson,26,RB,3,3,40,111,1,4,37.5,16,2.8,37.0,13.3,7,6,75,12.5,0,2,42.9,32,2.0,25.0,85.7%,10.7,46,4.0,186,1,n/a
+24,24,Rams,Royce Freeman,27,RB,6,0,33,142,1,9,57.6,15,4.3,23.7,5.5,1,0,0,n/a,0,0,0.0,0,0.0,0.0,0.0%,0.0,33,4.3,142,1,n/a
 3,3,Rams,Cam Akers,24,RB,1,1,22,29,1,4,27.3,12,1.3,29.0,22.0,n/a,n/a,n/a,n/a,0,n/a,n/a,n/a,n/a,n/a,n/a,n/a,22,1.3,29,1,n/a
-9,9,Rams,Matthew Stafford,35,QB,4,4,10,49,0,3,50.0,9,4.9,12.3,2.5,n/a,n/a,n/a,n/a,0,n/a,n/a,n/a,n/a,n/a,n/a,n/a,10,4.9,49,0,n/a
-20,20,Rams,Ronnie Rivers,24,RB,4,0,9,47,0,2,66.7,9,5.2,11.8,2.3,3,3,14,4.7,0,0,0.0,10,0.8,3.5,100.0%,4.7,12,5.1,61,0,n/a
-17,17,Rams,Puka Nacua,22,WR,4,4,2,4,0,1,50.0,4,2.0,1.0,0.5,52,39,501,12.8,1,25,65.4,37,9.8,125.3,75.0%,9.6,41,12.3,505,1,n/a
-5,5,Rams,Tutu Atwell,24,WR,4,4,2,27,0,1,100.0,22,13.5,6.8,0.5,35,22,270,12.3,1,16,54.3,44,5.5,67.5,62.9%,7.7,24,12.4,297,1,n/a
-12,12,Rams,Van Jefferson,27,WR,4,4,1,4,0,0,100.0,4,4.0,1.0,0.3,15,8,108,13.5,0,4,33.3,46,2.0,27.0,53.3%,7.2,9,12.4,112,0,n/a
-18,18,Rams,Ben Skowronek,26,WR,4,0,1,11,0,1,100.0,11,11.0,2.8,0.3,4,2,13,6.5,0,1,25.0,10,0.5,3.3,50.0%,3.3,3,8.0,24,0,n/a
-89,89,Rams,Tyler Higbee,30,TE,4,4,n/a,n/a,0,n/a,n/a,n/a,n/a,n/a,n/a,26,16,196,12.3,0,10,50.0,33,4.0,49.0,61.5%,7.5,16,12.3,196,0,n/a
-88,88,Rams,Brycen Hopkins,26,TE,4,0,n/a,n/a,0,n/a,n/a,n/a,n/a,n/a,n/a,3,2,26,13.0,0,1,66.7,21,0.5,6.5,66.7%,8.7,2,13.0,26,0,n/a
+20,20,Rams,Ronnie Rivers,24,RB,6,0,13,57,0,2,53.8,9,4.4,9.5,2.2,4,4,18,4.5,0,0,25.0,10,0.7,3.0,100.0%,4.5,17,4.4,75,0,n/a
+9,9,Rams,Matthew Stafford,35,QB,8,8,13,68,0,4,53.8,9,5.2,8.5,1.6,n/a,n/a,n/a,n/a,0,n/a,n/a,n/a,n/a,n/a,n/a,n/a,13,5.2,68,0,n/a
+5,5,Rams,Tutu Atwell,24,WR,9,9,4,35,0,2,75.0,22,8.8,3.9,0.4,54,32,374,11.7,3,20,46.3,44,3.6,41.6,59.3%,6.9,36,11.4,409,3,n/a
+21,21,Rams,Zach Evans,22,RB,4,0,4,10,0,n/a,0.0,3,2.5,2.5,1.0,n/a,n/a,n/a,n/a,0,n/a,n/a,n/a,n/a,n/a,n/a,n/a,4,2.5,10,0,n/a
+11,11,Rams,Brett Rypien,27,QB,2,1,3,19,0,1,66.7,8,6.3,9.5,1.5,n/a,n/a,n/a,n/a,0,n/a,n/a,n/a,n/a,n/a,n/a,n/a,3,6.3,19,0,2
+17,17,Rams,Puka Nacua,22,WR,9,9,2,4,0,1,50.0,4,2.0,0.4,0.2,96,64,827,12.9,2,41,57.3,37,7.1,91.9,66.7%,8.6,66,12.6,831,2,1
+18,18,Rams,Ben Skowronek,26,WR,9,0,2,9,0,1,50.0,11,4.5,1.0,0.2,6,3,33,11.0,1,2,33.3,20,0.3,3.7,50.0%,5.5,5,8.4,42,1,n/a
+12,12,Rams,Van Jefferson,27,WR,5,4,1,4,0,0,100.0,4,4.0,0.8,0.2,15,8,108,13.5,0,4,33.3,46,1.6,21.6,53.3%,7.2,9,12.4,112,0,n/a
+89,89,Rams,Tyler Higbee,30,TE,9,9,n/a,n/a,0,n/a,n/a,n/a,n/a,n/a,n/a,43,26,286,11.0,0,14,48.8,33,2.9,31.8,60.5%,6.7,26,11.0,286,0,n/a
+10,10,Rams,Cooper Kupp,30,WR,5,5,n/a,n/a,0,n/a,n/a,n/a,n/a,n/a,n/a,45,23,364,15.8,1,14,42.2,49,4.6,72.8,51.1%,8.1,23,15.8,364,1,n/a
+88,88,Rams,Brycen Hopkins,26,TE,9,0,n/a,n/a,0,n/a,n/a,n/a,n/a,n/a,n/a,4,3,31,10.3,0,1,50.0,21,0.3,3.4,75.0%,7.8,3,10.3,31,0,n/a
+15,15,Rams,Demarcus Robinson,29,WR,8,0,n/a,n/a,0,n/a,n/a,n/a,n/a,n/a,n/a,1,1,15,15.0,0,1,100.0,15,0.1,1.9,100.0%,15.0,1,15.0,15,0,n/a
+81,81,Rams,Austin Trammell,25,WR,8,0,n/a,n/a,0,n/a,n/a,n/a,n/a,n/a,n/a,1,1,6,6.0,0,n/a,0.0,6,0.1,0.8,100.0%,6.0,1,6.0,6,0,1

@@ -1,4 +1,4 @@
-,Rk,Team,Date,Opp,Result,Quarter,Dist,Type,Detail
+,Rank,Team,Date,Opponent,Results,Quarter,Distance,Type,Detail
 1,1,Dolphins,2023-09-10,LAC,"W, 36-34",1,2,rush,Raheem Mostert
 2,2,Dolphins,2023-09-10,LAC,"W, 36-34",2,1,pass,River Cracraft
 3,3,Dolphins,2023-09-10,LAC,"W, 36-34",3,35,pass,Tyreek Hill
@@ -19,3 +19,21 @@
 18,18,Dolphins,2023-10-01,BUF,"L, 20-48",1,3,rush,De'Von Achane
 19,19,Dolphins,2023-10-01,BUF,"L, 20-48",2,10,rush,De'Von Achane
 20,20,Dolphins,2023-10-01,BUF,"L, 20-48",3,11,pass,Braxton Berrios
+21,21,Dolphins,2023-10-08,NYG,"W, 31-16",1,2,pass,Jaylen Waddle
+22,22,Dolphins,2023-10-08,NYG,"W, 31-16",2,76,rush,De'Von Achane
+23,23,Dolphins,2023-10-08,NYG,"W, 31-16",3,69,pass,Tyreek Hill
+24,24,Dolphins,2023-10-08,NYG,"W, 31-16",3,2,rush,Raheem Mostert
+25,25,Dolphins,2023-10-15,CAR,"W, 42-21",2,3,pass,Raheem Mostert
+26,26,Dolphins,2023-10-15,CAR,"W, 42-21",2,4,pass,Jaylen Waddle
+27,27,Dolphins,2023-10-15,CAR,"W, 42-21",2,41,pass,Tyreek Hill
+28,28,Dolphins,2023-10-15,CAR,"W, 42-21",3,4,rush,Raheem Mostert
+29,29,Dolphins,2023-10-15,CAR,"W, 42-21",4,1,rush,Raheem Mostert
+30,30,Dolphins,2023-10-15,CAR,"W, 42-21",4,9,rush,Salvon Ahmed
+31,31,Dolphins,2023-10-22,PHI,"L, 17-31",2,27,pass,Tyreek Hill
+32,32,Dolphins,2023-10-22,PHI,"L, 17-31",3,23,interception,Jerome Baker
+33,33,Dolphins,2023-10-29,NWE,"W, 31-17",1,42,pass,Tyreek Hill
+34,34,Dolphins,2023-10-29,NWE,"W, 31-17",2,1,pass,Cedrick Wilson Jr.
+35,35,Dolphins,2023-10-29,NWE,"W, 31-17",3,1,rush,Raheem Mostert
+36,36,Dolphins,2023-10-29,NWE,"W, 31-17",4,31,pass,Jaylen Waddle
+37,37,Dolphins,2023-11-05,KAN,"L, 14-21",3,31,pass,Cedrick Wilson Jr.
+38,38,Dolphins,2023-11-05,KAN,"L, 14-21",3,13,rush,Raheem Mostert

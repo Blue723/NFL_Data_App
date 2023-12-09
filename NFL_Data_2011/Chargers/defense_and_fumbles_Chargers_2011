@@ -1,4 +1,4 @@
-,No.,Team,Player,Age,Pos,G,GS,Int,Def Interceptions Yds,Def Touchdown,Lng,PD,FF,Fmb,FR,Fumbles Yds,Fumbles Touchdown,Sk,Comb,Solo,Ast,TFL,QBHits,Sfty
+,No.,Team,Player,Age,Pos,Games Played,Games Started,Passes Intercepted on Defense,Yards Interceptions were Returned,Interceptions Returned for Touchdowns,Longest Interception Return,Passes Defended by Defensive Player,# Forced Fumble by Opp.,# Fumbled both Lost and Recovered by Own Team,Fumbles Recovered by Original Fumbler,Yards Recovered Fumbles were Returned,Fumbles Recovered for Touchdown,Sacks,Tackles Solo+Assisted,Solo Tackles,Assisted Tackles,Tackles for Loss,Quarterback Hits,Safeties Scored by Player/Team
 56,56,Chargers,Donald Butler,23,RILB,16,16,1,2,0,2,2,2,0,1,37,1,2.0,96,78,18,10,4,n/a
 51,51,Chargers,Takeo Spikes,35,LILB,16,16,1,45,0,45,3,n/a,n/a,n/a,n/a,0,1.0,106,64,42,5,1,n/a
 32,32,Chargers,Eric Weddle,26,FS,16,16,7,89,0,26,11,n/a,n/a,n/a,n/a,0,0.0,88,70,18,3,2,n/a

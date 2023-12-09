@@ -1,7 +1,10 @@
-,No.,Team,Player,Age,Pos,G,GS,RshTD,RecTD,PR TD,KR TD,FblTD,IntTD,OthTD,AllTD,2PM,2PA,D2P,XPM,XPA,FGM,FGA,Sfty,Pts,Pts/G
-7,7,Browns,Dustin Hopkins,33,K,4,0,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,0,4,4,8,9,n/a,28,7.0
-34,34,Browns,Jerome Ford,24,RB,4,2,1,2,n/a,n/a,n/a,n/a,n/a,3,1,n/a,0,n/a,n/a,n/a,n/a,n/a,20,5.0
-4,4,Browns,Deshaun Watson,28,QB,3,3,1,n/a,n/a,n/a,n/a,n/a,n/a,1,2,n/a,0,n/a,n/a,n/a,n/a,n/a,10,3.3
-88,88,Browns,Harrison Bryant,25,TE,4,2,n/a,1,n/a,n/a,n/a,n/a,n/a,1,n/a,n/a,0,n/a,n/a,n/a,n/a,n/a,6,1.5
-2,2,Browns,Amari Cooper,29,WR,4,4,n/a,1,n/a,n/a,n/a,n/a,n/a,1,n/a,n/a,0,n/a,n/a,n/a,n/a,n/a,6,1.5
-20,20,Browns,Pierre Strong,25,RB,4,0,1,n/a,n/a,n/a,n/a,n/a,n/a,1,n/a,n/a,0,n/a,n/a,n/a,n/a,n/a,6,1.5
+,No.,Team,Player,Age,Pos,Games Played,Games Started,Rush TD,Reception TD,Punt Return TD,Kick Return TD,Fumble Return TD,Interception TD,Other TD,All Touchdown Scored,2-Point Conversions Made,Two-Point Conversions Attempted,Defensive Two-Point Conversions,Extra Points Made,Extra Points Allowed,Field Goals Made,Field Goals Attempted,Safeties Scored by Player/Team,Total Points Scored by all Means,Poins per Game
+7,7,Browns,Dustin Hopkins,33,K,8,0,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,0,13,13,20,23,n/a,73,9.1
+27,27,Browns,Kareem Hunt,28,RB,6,2,5,n/a,n/a,n/a,n/a,n/a,n/a,5,n/a,n/a,0,n/a,n/a,n/a,n/a,n/a,30,5.0
+34,34,Browns,Jerome Ford,24,RB,8,4,2,2,n/a,n/a,n/a,n/a,n/a,4,1,n/a,0,n/a,n/a,n/a,n/a,n/a,26,3.3
+2,2,Browns,Amari Cooper,29,WR,8,8,n/a,2,n/a,n/a,n/a,n/a,n/a,2,n/a,n/a,0,n/a,n/a,n/a,n/a,n/a,12,1.5
+85,85,Browns,David Njoku,27,TE,8,8,n/a,2,n/a,n/a,n/a,n/a,n/a,2,n/a,n/a,0,n/a,n/a,n/a,n/a,n/a,12,1.5
+4,4,Browns,Deshaun Watson,28,QB,5,5,1,n/a,n/a,n/a,n/a,n/a,n/a,1,2,n/a,0,n/a,n/a,n/a,n/a,n/a,10,2.0
+88,88,Browns,Harrison Bryant,25,TE,8,4,n/a,1,n/a,n/a,n/a,n/a,n/a,1,n/a,n/a,0,n/a,n/a,n/a,n/a,n/a,6,0.8
+42,42,Browns,Tony Fields,24,LB,8,0,n/a,n/a,n/a,n/a,1,n/a,n/a,1,n/a,n/a,0,n/a,n/a,n/a,n/a,n/a,6,0.8
+20,20,Browns,Pierre Strong,25,RB,8,0,1,n/a,n/a,n/a,n/a,n/a,n/a,1,n/a,n/a,0,n/a,n/a,n/a,n/a,n/a,6,0.8

@@ -1,4 +1,4 @@
-,No.,Team,Player,Age,Pos,G,GS,Ret,Punt Returns Yds,Punt Return TD,Longest Punt Return,Y/R,Rt,Kick Returns Yds,Kick Returns TD,Longest Kickoff Return,Y/Rt,APYd
+,No.,Team,Player,Age,Position,Games Played,Games Started,Punts Returned,Punts Return Yardage,Punts Returned for Touchdown,Longest Punt Return,Yards per Punt Return,Kickoff Returns,Yardage for Kickoffs Returned,Kickoffs Returned for a Touchdown,Longest Kickoff Return,Yards per Kickoff Return,All-purpose Yards
 19,19,Panthers,Ted Ginn Jr.,30,WR,15,13,27,277,0,37,10.3,1,8,0,8,8.0,1084
 43,43,Panthers,Fozzy Whittaker,26,RB,15,1,n/a,n/a,0,n/a,n/a,9,209,0,33,23.2,381
 14,14,Panthers,Joe Webb,29,QB,16,0,n/a,n/a,0,n/a,n/a,8,178,0,27,22.3,191

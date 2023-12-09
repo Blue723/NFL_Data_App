@@ -1,4 +1,4 @@
-,Rk,Team,Date,Opp,Result,Quarter,Dist,Type,Detail
+,Rank,Team,Date,Opponent,Results,Quarter,Distance,Type,Detail
 1,1,Bears,2023-09-10,GNB,"L, 20-38",3,20,pass,Darnell Mooney
 2,2,Bears,2023-09-10,GNB,"L, 20-38",4,2,rush,Roschon Johnson
 3,3,Bears,2023-09-17,TAM,"L, 17-27",1,1,rush,Justin Fields
@@ -8,3 +8,17 @@
 7,7,Bears,2023-10-01,DEN,"L, 28-31",2,22,pass,Cole Kmet
 8,8,Bears,2023-10-01,DEN,"L, 28-31",2,3,pass,Cole Kmet
 9,9,Bears,2023-10-01,DEN,"L, 28-31",3,2,pass,Khalil Herbert
+10,10,Bears,2023-10-05,WAS,"W, 40-20",1,20,pass,D.J. Moore
+11,11,Bears,2023-10-05,WAS,"W, 40-20",2,11,pass,D.J. Moore
+12,12,Bears,2023-10-05,WAS,"W, 40-20",2,4,pass,Cole Kmet
+13,13,Bears,2023-10-05,WAS,"W, 40-20",4,56,pass,D.J. Moore
+14,14,Bears,2023-10-15,MIN,"L, 13-19",4,1,rush,Tyson Bagent
+15,15,Bears,2023-10-22,LVR,"W, 30-12",1,2,rush,D'Onta Foreman
+16,16,Bears,2023-10-22,LVR,"W, 30-12",2,3,rush,D'Onta Foreman
+17,17,Bears,2023-10-22,LVR,"W, 30-12",3,5,pass,D'Onta Foreman
+18,18,Bears,2023-10-22,LVR,"W, 30-12",4,39,interception,Jaylon Johnson
+19,19,Bears,2023-10-29,LAC,"L, 13-30",2,11,rush,Darrynton Evans
+20,20,Bears,2023-10-29,LAC,"L, 13-30",4,1,rush,Tyson Bagent
+21,21,Bears,2023-11-05,NOR,"L, 17-24",1,18,pass,Cole Kmet
+22,22,Bears,2023-11-05,NOR,"L, 17-24",2,9,pass,Cole Kmet
+23,23,Bears,2023-11-09,CAR,"W, 16-13",3,4,rush,D'Onta Foreman

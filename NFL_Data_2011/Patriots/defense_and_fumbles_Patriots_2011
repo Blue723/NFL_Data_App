@@ -1,4 +1,4 @@
-,No.,Team,Player,Age,Pos,G,GS,Int,Def Interceptions Yds,Def Touchdown,Lng,PD,FF,Fmb,FR,Fumbles Yds,Fumbles Touchdown,Sk,Comb,Solo,Ast,TFL,QBHits,Sfty
+,No.,Team,Player,Age,Pos,Games Played,Games Started,Passes Intercepted on Defense,Yards Interceptions were Returned,Interceptions Returned for Touchdowns,Longest Interception Return,Passes Defended by Defensive Player,# Forced Fumble by Opp.,# Fumbled both Lost and Recovered by Own Team,Fumbles Recovered by Original Fumbler,Yards Recovered Fumbles were Returned,Fumbles Recovered for Touchdown,Sacks,Tackles Solo+Assisted,Solo Tackles,Assisted Tackles,Tackles for Loss,Quarterback Hits,Safeties Scored by Player/Team
 24,24,Patriots,Kyle Arrington,25,RCB,16,14,7,92,0,28,15,0,0,1,0,0,0.0,88,66,22,1,0,n/a
 51,51,Patriots,Jerod Mayo,25,MLB,14,13,2,4,0,2,4,1,0,0,0,0,1.0,95,58,37,4,6,n/a
 32,32,Patriots,Devin McCourty,24,LCB,14,14,2,38,0,38,13,n/a,n/a,n/a,n/a,0,0.0,87,65,22,5,0,n/a

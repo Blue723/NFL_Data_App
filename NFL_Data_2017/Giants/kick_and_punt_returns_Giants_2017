@@ -1,4 +1,4 @@
-,No.,Team,Player,Age,Pos,G,GS,Ret,Punt Returns Yds,Punt Return TD,Longest Punt Return,Y/R,Rt,Kick Returns Yds,Kick Returns TD,Longest Kickoff Return,Y/Rt,APYd
+,No.,Team,Player,Age,Position,Games Played,Games Started,Punts Returned,Punts Return Yardage,Punts Returned for Touchdown,Longest Punt Return,Yards per Punt Return,Kickoff Returns,Yardage for Kickoffs Returned,Kickoffs Returned for a Touchdown,Longest Kickoff Return,Yards per Kickoff Return,All-purpose Yards
 83,83,Giants,Kalif Raymond,23,WR,6,0,13,61,0,17,4.7,11,186,0,24,16.9,258
 17,17,Giants,Dwayne Harris,30,WR,5,0,7,48,0,17,6.9,9,188,0,30,20.9,236
 34,34,Giants,Shane Vereen,28,RB,16,0,n/a,n/a,0,n/a,n/a,9,196,0,30,21.8,613

@@ -1,4 +1,4 @@
-,Rk,Team,Date,Opp,Result,Quarter,Dist,Type,Detail
+,Rank,Team,Date,Opponent,Results,Quarter,Distance,Type,Detail
 1,1,49ers,2022-09-11,CHI,"L, 10-19",3,51,pass,Dante Pettis
 2,2,49ers,2022-09-11,CHI,"L, 10-19",4,18,pass,Equanimeous St. Brown
 3,3,49ers,2022-09-11,CHI,"L, 10-19",4,3,rush,Khalil Herbert
@@ -6,7 +6,7 @@
 5,5,49ers,2022-09-25,DEN,"L, 10-11",4,1,rush,Melvin Gordon
 6,6,49ers,2022-10-09,CAR,"W, 37-15",3,19,rush,Christian McCaffrey
 7,7,49ers,2022-10-16,ATL,"L, 14-28",1,2,pass,MyCole Pruitt
-8,8,49ers,2022-10-16,ATL,"L, 14-28",1,0,fumble,Jaylinn Hawkins
+8,8,49ers,2022-10-16,ATL,"L, 14-28",1,n/a,fumble,Jaylinn Hawkins
 9,9,49ers,2022-10-16,ATL,"L, 14-28",2,3,rush,Marcus Mariota
 10,10,49ers,2022-10-16,ATL,"L, 14-28",3,7,pass,Kyle Pitts
 11,11,49ers,2022-10-23,KAN,"L, 23-44",1,8,pass,Mecole Hardman

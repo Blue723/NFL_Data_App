@@ -1,4 +1,4 @@
-,Rk,Team,Date,Opp,Result,Quarter,Dist,Type,Detail
+,Rank,Team,Date,Opponent,Results,Quarter,Distance,Type,Detail
 1,1,Lions,2023-09-07,KAN,"W, 21-20",2,1,pass,Rashee Rice
 2,2,Lions,2023-09-07,KAN,"W, 21-20",2,4,pass,Blake Bell
 3,3,Lions,2023-09-17,SEA,"L, 31-37",1,1,rush,Kenneth Walker III
@@ -8,3 +8,13 @@
 7,7,Lions,2023-09-17,SEA,"L, 31-37",5,6,pass,Tyler Lockett
 8,8,Lions,2023-09-28,GNB,"W, 34-20",3,1,pass,Christian Watson
 9,9,Lions,2023-09-28,GNB,"W, 34-20",4,9,rush,Jordan Love
+10,10,Lions,2023-10-08,CAR,"W, 42-24",2,1,pass,Tommy Tremble
+11,11,Lions,2023-10-08,CAR,"W, 42-24",4,18,pass,DJ Chark
+12,12,Lions,2023-10-08,CAR,"W, 42-24",4,1,pass,Adam Thielen
+13,13,Lions,2023-10-22,BAL,"L, 6-38",1,7,rush,Lamar Jackson
+14,14,Lions,2023-10-22,BAL,"L, 6-38",1,12,pass,Nelson Agholor
+15,15,Lions,2023-10-22,BAL,"L, 6-38",2,11,pass,Mark Andrews
+16,16,Lions,2023-10-22,BAL,"L, 6-38",2,2,rush,Gus Edwards
+17,17,Lions,2023-10-22,BAL,"L, 6-38",3,8,pass,Mark Andrews
+18,18,Lions,2023-10-30,LVR,"W, 26-14",2,3,rush,Josh Jacobs
+19,19,Lions,2023-10-30,LVR,"W, 26-14",3,75,interception,Marcus Peters

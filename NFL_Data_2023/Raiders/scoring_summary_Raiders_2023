@@ -1,7 +1,8 @@
-,No.,Team,Player,Age,Pos,G,GS,RshTD,RecTD,PR TD,KR TD,FblTD,IntTD,OthTD,AllTD,2PM,2PA,D2P,XPM,XPA,FGM,FGA,Sfty,Pts,Pts/G
-17,17,Raiders,Davante Adams,31,WR,4,4,n/a,3,n/a,n/a,n/a,n/a,n/a,3,n/a,n/a,0,n/a,n/a,n/a,n/a,n/a,18,4.5
-2,2,Raiders,Daniel Carlson,28,K,4,0,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,0,6,6,4,4,n/a,18,4.5
-16,16,Raiders,Jakobi Meyers,27,WR,3,3,n/a,2,n/a,n/a,n/a,n/a,n/a,2,n/a,n/a,0,n/a,n/a,n/a,n/a,n/a,12,4.0
-8,8,Raiders,Josh Jacobs,25,RB,4,4,1,n/a,n/a,n/a,n/a,n/a,n/a,1,n/a,n/a,0,n/a,n/a,n/a,n/a,n/a,6,1.5
-4,4,Raiders,Aidan O'Connell,25,QB,1,1,1,n/a,n/a,n/a,n/a,n/a,n/a,1,n/a,n/a,0,n/a,n/a,n/a,n/a,n/a,6,6.0
-87,87,Raiders,Michael Mayer,22,TE,4,2,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,1,n/a,0,n/a,n/a,n/a,n/a,n/a,2,0.5
+,No.,Team,Player,Age,Pos,Games Played,Games Started,Rush TD,Reception TD,Punt Return TD,Kick Return TD,Fumble Return TD,Interception TD,Other TD,All Touchdown Scored,2-Point Conversions Made,Two-Point Conversions Attempted,Defensive Two-Point Conversions,Extra Points Made,Extra Points Allowed,Field Goals Made,Field Goals Attempted,Safeties Scored by Player/Team,Total Points Scored by all Means,Poins per Game
+2,2,Raiders,Daniel Carlson,28,K,9,0,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,0,14,14,14,17,n/a,56,6.2
+16,16,Raiders,Jakobi Meyers,27,WR,8,8,1,5,n/a,n/a,n/a,n/a,n/a,6,n/a,n/a,0,n/a,n/a,n/a,n/a,n/a,36,4.5
+8,8,Raiders,Josh Jacobs,25,RB,9,9,5,n/a,n/a,n/a,n/a,n/a,n/a,5,n/a,n/a,0,n/a,n/a,n/a,n/a,n/a,30,3.3
+17,17,Raiders,Davante Adams,31,WR,9,9,n/a,3,n/a,n/a,n/a,n/a,n/a,3,n/a,n/a,0,n/a,n/a,n/a,n/a,n/a,18,2.0
+4,4,Raiders,Aidan O'Connell,25,QB,3,2,1,n/a,n/a,n/a,n/a,n/a,n/a,1,n/a,n/a,0,n/a,n/a,n/a,n/a,n/a,6,2.0
+24,24,Raiders,Marcus Peters,30,CB,9,9,n/a,n/a,n/a,n/a,n/a,1,n/a,1,n/a,n/a,0,n/a,n/a,n/a,n/a,n/a,6,0.7
+87,87,Raiders,Michael Mayer,22,TE,9,7,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,1,n/a,0,n/a,n/a,n/a,n/a,n/a,2,0.2

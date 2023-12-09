@@ -1,4 +1,4 @@
-,Rk,Team,Date,Opp,Result,Quarter,Dist,Type,Detail
+,Rank,Team,Date,Opponent,Results,Quarter,Distance,Type,Detail
 1,1,Lions,2023-09-07,KAN,"W, 21-20",1,9,pass,Amon-Ra St. Brown
 2,2,Lions,2023-09-07,KAN,"W, 21-20",3,50,interception,Brian Branch
 3,3,Lions,2023-09-07,KAN,"W, 21-20",4,8,rush,David Montgomery
@@ -12,3 +12,14 @@
 11,11,Lions,2023-09-28,GNB,"W, 34-20",1,3,rush,David Montgomery
 12,12,Lions,2023-09-28,GNB,"W, 34-20",2,2,rush,David Montgomery
 13,13,Lions,2023-09-28,GNB,"W, 34-20",4,1,rush,David Montgomery
+14,14,Lions,2023-10-08,CAR,"W, 42-24",1,42,rush,David Montgomery
+15,15,Lions,2023-10-08,CAR,"W, 42-24",1,4,pass,Sam LaPorta
+16,16,Lions,2023-10-08,CAR,"W, 42-24",2,1,pass,Josh Reynolds
+17,17,Lions,2023-10-08,CAR,"W, 42-24",2,31,pass,Sam LaPorta
+18,18,Lions,2023-10-08,CAR,"W, 42-24",4,1,rush,Jared Goff
+19,19,Lions,2023-10-08,CAR,"W, 42-24",4,5,rush,Craig Reynolds
+20,20,Lions,2023-10-15,TAM,"W, 20-6",2,27,pass,Amon-Ra St. Brown
+21,21,Lions,2023-10-15,TAM,"W, 20-6",3,45,pass,Jameson Williams
+22,22,Lions,2023-10-22,BAL,"L, 6-38",4,21,rush,Jahmyr Gibbs
+23,23,Lions,2023-10-30,LVR,"W, 26-14",2,18,pass,Sam LaPorta
+24,24,Lions,2023-10-30,LVR,"W, 26-14",3,27,rush,Jahmyr Gibbs

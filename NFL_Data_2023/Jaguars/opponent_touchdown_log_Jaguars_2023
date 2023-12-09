@@ -1,4 +1,4 @@
-,Rk,Team,Date,Opp,Result,Quarter,Dist,Type,Detail
+,Rank,Team,Date,Opponent,Results,Quarter,Distance,Type,Detail
 1,1,Jaguars,2023-09-10,IND,"W, 31-21",2,2,rush,Anthony Richardson
 2,2,Jaguars,2023-09-10,IND,"W, 31-21",3,39,pass,Michael Pittman Jr.
 3,3,Jaguars,2023-09-10,IND,"W, 31-21",3,26,fumble,DeForest Buckner
@@ -6,6 +6,14 @@
 5,5,Jaguars,2023-09-17,KAN,"L, 9-17",3,9,pass,Travis Kelce
 6,6,Jaguars,2023-09-24,HOU,"L, 17-37",1,1,rush,Dameon Pierce
 7,7,Jaguars,2023-09-24,HOU,"L, 17-37",2,4,pass,Brevin Jordan
-8,8,Jaguars,2023-09-24,HOU,"L, 17-37",3,85,kickoff,Ka'imi Fairbairn
+8,8,Jaguars,2023-09-24,HOU,"L, 17-37",3,85,kickoff,Andrew Beck
 9,9,Jaguars,2023-09-24,HOU,"L, 17-37",4,68,pass,Tank Dell
 10,10,Jaguars,2023-10-01,ATL,"W, 23-7",3,15,pass,Drake London
+11,11,Jaguars,2023-10-08,BUF,"W, 25-20",2,15,pass,Stefon Diggs
+12,12,Jaguars,2023-10-08,BUF,"W, 25-20",4,19,pass,Gabriel Davis
+13,13,Jaguars,2023-10-08,BUF,"W, 25-20",4,3,rush,Josh Allen
+14,14,Jaguars,2023-10-15,IND,"W, 37-20",4,2,pass,Josh Downs
+15,15,Jaguars,2023-10-15,IND,"W, 37-20",4,3,rush,Zack Moss
+16,16,Jaguars,2023-10-19,NOR,"W, 31-24",4,1,rush,Taysom Hill
+17,17,Jaguars,2023-10-19,NOR,"W, 31-24",4,17,pass,Michael Thomas
+18,18,Jaguars,2023-10-29,PIT,"W, 20-10",3,22,pass,George Pickens

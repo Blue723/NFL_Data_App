@@ -1,4 +1,4 @@
-,No.,Team,Player,Age,Pos,G,GS,Int,Def Interceptions Yds,Def Touchdown,Lng,PD,FF,Fmb,FR,Fumbles Yds,Fumbles Touchdown,Sk,Comb,Solo,Ast,TFL,QBHits,Sfty
+,No.,Team,Player,Age,Pos,Games Played,Games Started,Passes Intercepted on Defense,Yards Interceptions were Returned,Interceptions Returned for Touchdowns,Longest Interception Return,Passes Defended by Defensive Player,# Forced Fumble by Opp.,# Fumbled both Lost and Recovered by Own Team,Fumbles Recovered by Original Fumbler,Yards Recovered Fumbles were Returned,Fumbles Recovered for Touchdown,Sacks,Tackles Solo+Assisted,Solo Tackles,Assisted Tackles,Tackles for Loss,Quarterback Hits,Safeties Scored by Player/Team
 91,91,Patriots,Jamie Collins,26,LLB,12,12,1,51,0,51,6,5,0,1,14,1,5.5,89,51,38,8,7,n/a
 23,23,Patriots,Patrick Chung,28,SS,15,14,0,0,0,0,9,1,0,0,0,0,0.0,85,52,33,2,0,n/a
 26,26,Patriots,Logan Ryan,24,RCB,16,14,4,39,0,25,14,n/a,n/a,n/a,n/a,0,0.0,74,58,16,2,0,n/a

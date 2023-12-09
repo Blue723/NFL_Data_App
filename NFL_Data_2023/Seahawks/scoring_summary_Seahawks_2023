@@ -1,8 +1,9 @@
-,No.,Team,Player,Age,Pos,G,GS,RshTD,RecTD,PR TD,KR TD,FblTD,IntTD,OthTD,AllTD,2PM,2PA,D2P,XPM,XPA,FGM,FGA,Sfty,Pts,Pts/G
-5,5,Seahawks,Jason Myers,32,K,4,0,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,0,10,10,9,13,n/a,37,9.3
-9,9,Seahawks,Kenneth Walker III,23,RB,4,4,5,n/a,n/a,n/a,n/a,n/a,n/a,5,n/a,n/a,0,n/a,n/a,n/a,n/a,n/a,30,7.5
-16,16,Seahawks,Tyler Lockett,31,WR,4,4,n/a,2,n/a,n/a,n/a,n/a,n/a,2,1,n/a,0,n/a,n/a,n/a,n/a,n/a,14,3.5
-14,14,Seahawks,D.K. Metcalf,26,WR,4,4,n/a,2,n/a,n/a,n/a,n/a,n/a,2,n/a,n/a,0,n/a,n/a,n/a,n/a,n/a,12,3.0
-19,19,Seahawks,Jake Bobo,25,WR,4,0,n/a,1,n/a,n/a,n/a,n/a,n/a,1,n/a,n/a,0,n/a,n/a,n/a,n/a,n/a,6,1.5
-22,22,Seahawks,Tre Brown,26,CB,3,2,n/a,n/a,n/a,n/a,n/a,1,n/a,1,n/a,n/a,0,n/a,n/a,n/a,n/a,n/a,6,2.0
-21,21,Seahawks,Devon Witherspoon,23,CB,3,3,n/a,n/a,n/a,n/a,n/a,1,n/a,1,n/a,n/a,0,n/a,n/a,n/a,n/a,n/a,6,2.0
+,No.,Team,Player,Age,Pos,Games Played,Games Started,Rush TD,Reception TD,Punt Return TD,Kick Return TD,Fumble Return TD,Interception TD,Other TD,All Touchdown Scored,2-Point Conversions Made,Two-Point Conversions Attempted,Defensive Two-Point Conversions,Extra Points Made,Extra Points Allowed,Field Goals Made,Field Goals Attempted,Safeties Scored by Player/Team,Total Points Scored by all Means,Poins per Game
+5,5,Seahawks,Jason Myers,32,K,8,0,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,0,16,16,15,19,n/a,61,7.6
+9,9,Seahawks,Kenneth Walker III,23,RB,8,8,6,n/a,n/a,n/a,n/a,n/a,n/a,6,n/a,n/a,0,n/a,n/a,n/a,n/a,n/a,36,4.5
+16,16,Seahawks,Tyler Lockett,31,WR,8,8,n/a,3,n/a,n/a,n/a,n/a,n/a,3,1,n/a,0,n/a,n/a,n/a,n/a,n/a,20,2.5
+19,19,Seahawks,Jake Bobo,25,WR,8,0,1,2,n/a,n/a,n/a,n/a,n/a,3,n/a,n/a,0,n/a,n/a,n/a,n/a,n/a,18,2.3
+14,14,Seahawks,D.K. Metcalf,26,WR,7,7,n/a,2,n/a,n/a,n/a,n/a,n/a,2,n/a,n/a,0,n/a,n/a,n/a,n/a,n/a,12,1.7
+11,11,Seahawks,Jaxon Smith-Njigba,21,WR,8,1,n/a,2,n/a,n/a,n/a,n/a,n/a,2,n/a,n/a,0,n/a,n/a,n/a,n/a,n/a,12,1.5
+22,22,Seahawks,Tre Brown,26,CB,7,3,n/a,n/a,n/a,n/a,n/a,1,n/a,1,n/a,n/a,0,n/a,n/a,n/a,n/a,n/a,6,0.9
+21,21,Seahawks,Devon Witherspoon,23,CB,7,7,n/a,n/a,n/a,n/a,n/a,1,n/a,1,n/a,n/a,0,n/a,n/a,n/a,n/a,n/a,6,0.9

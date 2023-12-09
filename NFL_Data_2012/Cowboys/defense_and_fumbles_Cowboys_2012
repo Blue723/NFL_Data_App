@@ -1,4 +1,4 @@
-,No.,Team,Player,Age,Pos,G,GS,Int,Def Interceptions Yds,Def Touchdown,Lng,PD,FF,Fmb,FR,Fumbles Yds,Fumbles Touchdown,Sk,Comb,Solo,Ast,TFL,QBHits,Sfty
+,No.,Team,Player,Age,Pos,Games Played,Games Started,Passes Intercepted on Defense,Yards Interceptions were Returned,Interceptions Returned for Touchdowns,Longest Interception Return,Passes Defended by Defensive Player,# Forced Fumble by Opp.,# Fumbled both Lost and Recovered by Own Team,Fumbles Recovered by Original Fumbler,Yards Recovered Fumbles were Returned,Fumbles Recovered for Touchdown,Sacks,Tackles Solo+Assisted,Solo Tackles,Assisted Tackles,Tackles for Loss,Quarterback Hits,Safeties Scored by Player/Team
 93,93,Cowboys,Anthony Spencer,28,LOLB,14,14,0,0,0,0,4,2,0,1,0,0,11.0,95,55,40,14,14,n/a
 40,40,Cowboys,Danny McCray,24,SS,15,10,1,0,0,0,2,n/a,n/a,n/a,n/a,0,0.0,71,50,21,1,0,n/a
 39,39,Cowboys,Brandon Carr,26,LCB,16,16,3,120,1,47,10,n/a,n/a,n/a,n/a,0,0.0,53,48,5,0,0,n/a

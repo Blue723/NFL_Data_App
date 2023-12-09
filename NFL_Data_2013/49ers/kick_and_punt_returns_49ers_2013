@@ -1,4 +1,4 @@
-,No.,Team,Player,Age,Pos,G,GS,Ret,Punt Returns Yds,Punt Return TD,Longest Punt Return,Y/R,Rt,Kick Returns Yds,Kick Returns TD,Longest Kickoff Return,Y/Rt,APYd
+,No.,Team,Player,Age,Position,Games Played,Games Started,Punts Returned,Punts Return Yardage,Punts Returned for Touchdown,Longest Punt Return,Yards per Punt Return,Kickoff Returns,Yardage for Kickoffs Returned,Kickoffs Returned for a Touchdown,Longest Kickoff Return,Yards per Kickoff Return,All-purpose Yards
 23,23,49ers,LaMichael James,24,RB,10,0,23,251,0,40,10.9,12,321,0,41,26.8,647
 10,10,49ers,Kyle Williams,25,WR,9,5,12,61,0,22,5.1,7,134,0,35,19.1,331
 24,24,49ers,Anthony Dixon,26,RB,16,1,n/a,n/a,0,n/a,n/a,5,101,0,47,20.2,187

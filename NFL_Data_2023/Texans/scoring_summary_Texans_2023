@@ -1,8 +1,12 @@
-,No.,Team,Player,Age,Pos,G,GS,RshTD,RecTD,PR TD,KR TD,FblTD,IntTD,OthTD,AllTD,2PM,2PA,D2P,XPM,XPA,FGM,FGA,Sfty,Pts,Pts/G
-15,15,Texans,Ka'imi Fairbairn,29,K,4,0,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,0,9,9,11,12,n/a,42,10.5
-12,12,Texans,Nico Collins,24,WR,4,1,n/a,3,n/a,n/a,n/a,n/a,n/a,3,n/a,n/a,0,n/a,n/a,n/a,n/a,n/a,18,4.5
-3,3,Texans,Tank Dell,24,WR,4,3,n/a,2,n/a,n/a,n/a,n/a,n/a,2,n/a,n/a,0,n/a,n/a,n/a,n/a,n/a,12,3.0
-47,47,Texans,Andrew Beck,27,FB,4,4,n/a,n/a,n/a,1,n/a,n/a,n/a,1,n/a,n/a,0,n/a,n/a,n/a,n/a,n/a,6,1.5
-9,9,Texans,Brevin Jordan,23,TE,4,0,n/a,1,n/a,n/a,n/a,n/a,n/a,1,n/a,n/a,0,n/a,n/a,n/a,n/a,n/a,6,1.5
-31,31,Texans,Dameon Pierce,23,RB,4,4,1,n/a,n/a,n/a,n/a,n/a,n/a,1,n/a,n/a,0,n/a,n/a,n/a,n/a,n/a,6,1.5
-86,86,Texans,Dalton Schultz,27,TE,4,0,n/a,1,n/a,n/a,n/a,n/a,n/a,1,n/a,n/a,0,n/a,n/a,n/a,n/a,n/a,6,1.5
+,No.,Team,Player,Age,Pos,Games Played,Games Started,Rush TD,Reception TD,Punt Return TD,Kick Return TD,Fumble Return TD,Interception TD,Other TD,All Touchdown Scored,2-Point Conversions Made,Two-Point Conversions Attempted,Defensive Two-Point Conversions,Extra Points Made,Extra Points Allowed,Field Goals Made,Field Goals Attempted,Safeties Scored by Player/Team,Total Points Scored by all Means,Poins per Game
+15,15,Texans,Ka'imi Fairbairn,29,K,8,0,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,0,14,14,18,19,n/a,68,8.5
+12,12,Texans,Nico Collins,24,WR,8,5,n/a,4,n/a,n/a,n/a,n/a,n/a,4,n/a,n/a,0,n/a,n/a,n/a,n/a,n/a,24,3.0
+3,3,Texans,Tank Dell,24,WR,7,5,n/a,4,n/a,n/a,n/a,n/a,n/a,4,n/a,n/a,0,n/a,n/a,n/a,n/a,n/a,24,3.4
+86,86,Texans,Dalton Schultz,27,TE,8,3,n/a,4,n/a,n/a,n/a,n/a,n/a,4,n/a,n/a,0,n/a,n/a,n/a,n/a,n/a,24,3.0
+47,47,Texans,Andrew Beck,27,FB,8,7,1,n/a,n/a,1,n/a,n/a,n/a,2,n/a,n/a,0,n/a,n/a,n/a,n/a,n/a,12,1.5
+7,7,Texans,C.J. Stroud,22,QB,8,8,1,n/a,n/a,n/a,n/a,n/a,n/a,1,1,n/a,0,n/a,n/a,n/a,n/a,n/a,8,1.0
+85,85,Texans,Noah Brown,27,WR,4,1,n/a,1,n/a,n/a,n/a,n/a,n/a,1,n/a,n/a,0,n/a,n/a,n/a,n/a,n/a,6,1.5
+9,9,Texans,Brevin Jordan,23,TE,6,0,n/a,1,n/a,n/a,n/a,n/a,n/a,1,n/a,n/a,0,n/a,n/a,n/a,n/a,n/a,6,1.0
+31,31,Texans,Dameon Pierce,23,RB,7,7,1,n/a,n/a,n/a,n/a,n/a,n/a,1,n/a,n/a,0,n/a,n/a,n/a,n/a,n/a,6,0.9
+2,2,Texans,Robert Woods,31,WR,6,6,n/a,1,n/a,n/a,n/a,n/a,n/a,1,n/a,n/a,0,n/a,n/a,n/a,n/a,n/a,6,1.0
+33,33,Texans,Dare Ogunbowale,29,RB,3,0,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,0,n/a,n/a,1,1,n/a,3,1.0

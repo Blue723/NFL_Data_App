@@ -1,5 +1,11 @@
-,Rk,Team,Date,Opp,Result,Quarter,Dist,Type,Detail
+,Rank,Team,Date,Opponent,Results,Quarter,Distance,Type,Detail
 1,1,Ravens,2023-09-17,CIN,"W, 27-24",2,81,punt,Charlie Jones
 2,2,Ravens,2023-09-17,CIN,"W, 27-24",3,3,pass,Tee Higgins
 3,3,Ravens,2023-09-17,CIN,"W, 27-24",4,4,pass,Tee Higgins
 4,4,Ravens,2023-09-24,IND,"L, 19-22",2,17,pass,Zack Moss
+5,5,Ravens,2023-10-08,PIT,"L, 10-17",4,41,pass,George Pickens
+6,6,Ravens,2023-10-15,TEN,"W, 24-16",3,15,rush,Derrick Henry
+7,7,Ravens,2023-10-22,DET,"W, 38-6",4,21,rush,Jahmyr Gibbs
+8,8,Ravens,2023-10-29,ARI,"W, 31-24",1,1,rush,Joshua Dobbs
+9,9,Ravens,2023-10-29,ARI,"W, 31-24",4,17,pass,Trey McBride
+10,10,Ravens,2023-10-29,ARI,"W, 31-24",4,1,pass,Marquise Brown

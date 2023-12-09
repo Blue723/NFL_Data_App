@@ -1,4 +1,4 @@
-,Rk,Team,Date,Opp,Result,Quarter,Dist,Type,Detail
+,Rank,Team,Date,Opponent,Results,Quarter,Distance,Type,Detail
 1,1,Commanders,2023-09-10,ARI,"W, 20-16",2,2,fumble,Cameron Thomas
 2,2,Commanders,2023-09-17,DEN,"W, 35-33",1,5,rush,Jaleel McLaughlin
 3,3,Commanders,2023-09-17,DEN,"W, 35-33",1,60,pass,Marvin Mims
@@ -11,3 +11,18 @@
 10,10,Commanders,2023-10-01,PHI,"L, 31-34",1,5,rush,D'Andre Swift
 11,11,Commanders,2023-10-01,PHI,"L, 31-34",3,59,pass,A.J. Brown
 12,12,Commanders,2023-10-01,PHI,"L, 31-34",4,28,pass,A.J. Brown
+13,13,Commanders,2023-10-05,CHI,"L, 20-40",1,20,pass,D.J. Moore
+14,14,Commanders,2023-10-05,CHI,"L, 20-40",2,11,pass,D.J. Moore
+15,15,Commanders,2023-10-05,CHI,"L, 20-40",2,4,pass,Cole Kmet
+16,16,Commanders,2023-10-05,CHI,"L, 20-40",4,56,pass,D.J. Moore
+17,17,Commanders,2023-10-15,ATL,"W, 24-16",1,9,pass,Kyle Pitts
+18,18,Commanders,2023-10-15,ATL,"W, 24-16",4,2,pass,Jonnu Smith
+19,19,Commanders,2023-10-22,NYG,"L, 7-14",2,15,pass,Darren Waller
+20,20,Commanders,2023-10-22,NYG,"L, 7-14",2,32,pass,Saquon Barkley
+21,21,Commanders,2023-10-29,PHI,"L, 31-38",2,16,pass,A.J. Brown
+22,22,Commanders,2023-10-29,PHI,"L, 31-38",3,25,pass,A.J. Brown
+23,23,Commanders,2023-10-29,PHI,"L, 31-38",4,38,pass,DeVonta Smith
+24,24,Commanders,2023-10-29,PHI,"L, 31-38",4,8,pass,Julio Jones
+25,25,Commanders,2023-10-29,PHI,"L, 31-38",4,7,rush,D'Andre Swift
+26,26,Commanders,2023-11-05,NWE,"W, 20-17",2,14,pass,Hunter Henry
+27,27,Commanders,2023-11-05,NWE,"W, 20-17",2,64,rush,Rhamondre Stevenson

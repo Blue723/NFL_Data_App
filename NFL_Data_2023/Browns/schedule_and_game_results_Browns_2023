@@ -1,13 +1,13 @@
-,Week,Team,Day,Date,Time,Win/Loss,OT,Rec,Home/Away,Opp,Tm,Opp,1stD,TotYd,PassY,RushY,TO,1stD,TotYd,PassY,RushY,TO,Offense,Defense,Sp. Tms
+,Week,Team,Day,Date,Time,Win/Loss,Overtime,Team Record,Home/Away,Opponent,Points Scored,Points Allowed,Offense 1st Down,Total Yards Gained of Offense,Total yards Gained by Passing,Total Yards Gained by Rushing,Offense Turnovers,Defense 1st Down,Total Yards Allowed by Defense,Total Passing Yards Allowed by Defense,Total Rushing Yards Allowed by Defense,Defense Turnovers,Offense,Defense,Sp. Tms
 1,1,Browns,Sun,September 10,1:00PM ET,W,n/a,1-0,home,Cincinnati Bengals,24,3,21,350,144,206,2,6,142,67,75,n/a,-6.77,23.57,3.92
 2,2,Browns,Mon,September 18,8:15PM ET,L,n/a,1-1,away,Pittsburgh Steelers,22,26,20,408,210,198,4,9,255,200,55,2,-19.51,16.63,-2.81
 3,3,Browns,Sun,September 24,1:00PM ET,W,n/a,2-1,home,Tennessee Titans,27,3,23,341,263,78,1,6,94,68,26,n/a,13.99,13.12,-4.04
 4,4,Browns,Sun,October 1,1:00PM ET,L,n/a,2-2,home,Baltimore Ravens,3,28,13,166,73,93,3,16,296,165,131,1,-25.42,-2.36,2.71
 5,5,Browns,n/a,n/a,n/a,n/a,n/a,n/a,home,<strong>Bye Week</strong>,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
-6,6,Browns,Sun,October 15,1:00PM ET,n/a,n/a,n/a,home,San Francisco 49ers,0,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
-7,7,Browns,Sun,October 22,1:00PM ET,n/a,n/a,n/a,away,Indianapolis Colts,0,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
-8,8,Browns,Sun,October 29,4:05PM ET,n/a,n/a,n/a,away,Seattle Seahawks,0,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
-9,9,Browns,Sun,November 5,1:00PM ET,n/a,n/a,n/a,home,Arizona Cardinals,0,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+6,6,Browns,Sun,October 15,1:00PM ET,W,n/a,3-2,home,San Francisco 49ers,19,17,18,334,174,160,2,15,215,107,108,1,-11.32,6.05,7.34
+7,7,Browns,Sun,October 22,1:00PM ET,W,n/a,4-2,away,Indianapolis Colts,39,38,18,316,166,150,2,20,456,288,168,4,-5.30,-1.77,10.23
+8,8,Browns,Sun,October 29,4:05PM ET,L,n/a,4-3,away,Seattle Seahawks,20,24,23,385,230,155,3,17,362,248,114,2,0.00,-6.04,-2.50
+9,9,Browns,Sun,November 5,1:00PM ET,W,n/a,5-3,home,Arizona Cardinals,27,0,17,326,213,113,n/a,7,58,17,41,3,0.59,35.86,-7.62
 10,10,Browns,Sun,November 12,1:00PM ET,n/a,n/a,n/a,away,Baltimore Ravens,0,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
 11,11,Browns,Sun,November 19,1:00PM ET,n/a,n/a,n/a,home,Pittsburgh Steelers,0,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
 12,12,Browns,Sun,November 26,4:05PM ET,n/a,n/a,n/a,away,Denver Broncos,0,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a

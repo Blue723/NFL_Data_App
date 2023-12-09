@@ -1,5 +1,5 @@
-,Player,Team,PF,Total Yds and TO,Ply,Y/P,TO,FL,1stD,Cmp,Att,Passing Yds,TD,Int,NY/A,1stD,Att,Russhing Yds,TD,Y/A,1stD,Pen,Penalty Yds,1stPy,Dr,Sc%,TO%,Start,Time,Plays,Yds,Pts
-Team Stats,Team Stats,Broncos,100,1333,227,5.9,5,3,76,89,132,951,9,2,6.7,41,84,382,1,4.5,23,33,226,12,39,41.0,12.8,Own 26.5,2:51,6.00,34.2,2.26
-Opp. Stats,Opp. Stats,Broncos,150,1846,262,7.0,3,1,104,100,128,1142,13,2,8.4,55,126,704,7,5.6,35,34,314,14,42,54.8,7.1,Own 31.2,3:04,6.4,44.0,3.55
-Lg Rank Offense,Lg Rank Offense,Broncos,10,14,n/a,n/a,13,20,18,n/a,19,10,3,9,9,n/a,29,20,24,11,n/a,n/a,n/a,n/a,n/a,12,11,27,12,14,11,10
-Lg Rank Defense,Lg Rank Defense,Broncos,32,32,n/a,n/a,25,18,32,n/a,12,31,32,19,32,n/a,27,32,29,31,n/a,n/a,n/a,n/a,n/a,1,25,30,26,22,32,32
+,Player,Team,Points Scored by Team,Total Yds and TO,Offensic Plays: Pass Attempts + Rush Attempts + Times Sacked,Yards per Offensive Play,Team Turnovers Lost,Fumbles Lost by Player or Team,1stD,Passes Completed,Passes Attempted,Yards Gained by Passing,Passing Touchdowns,Interceptions Thrown,Net Yards Gained per Pass Attempt,First Downs by Passing,Rushing Attempts,Rushing Yards,Rushin Touchdowns,Rushing Yards per Attempt,First Downs by Rushing,Penalties committed by Team and Accepted,Penalties in Yards Committed by Team,First Downs by Penalty,Number of Drives,% of Drives Ending in an Offensive Score,% of Drives Ending in an Offensive Turnover,Average Starting Field Position,Average Time per Drive,Average # of Plays per Drive,Net Yards per Drive,Average Points Scored per Drive
+Team Stats,Team Stats,Broncos,172,2417,453,5.3,12,8,145,154,233,1483,16,4,5.7,71,194,934,1,4.8,52,54,386,22,81,37.0,13.6,Own 27.5,2:45,5.78,29.7,1.95
+Opp. Stats,Opp. Stats,Broncos,226,3247,512,6.3,12,5,182,195,265,2014,16,7,7.1,104,230,1233,8,5.4,57,62,563,21,83,48.2,12.0,Own 31.6,3:03,6.3,38.7,2.60
+Lg Rank Offense,Lg Rank Offense,Broncos,16,22,n/a,n/a,20,27,23,n/a,29,27,3,3,20,n/a,23,11,32,2,n/a,n/a,n/a,n/a,n/a,14,10,19,14,18,15,12
+Lg Rank Defense,Lg Rank Defense,Broncos,32,32,n/a,n/a,13,13,31,n/a,14,27,29,12,32,n/a,22,32,22,32,n/a,n/a,n/a,n/a,n/a,1,16,29,31,28,32,32

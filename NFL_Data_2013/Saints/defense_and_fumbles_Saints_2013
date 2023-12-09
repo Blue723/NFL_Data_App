@@ -1,4 +1,4 @@
-,No.,Team,Player,Age,Pos,G,GS,Int,Def Interceptions Yds,Def Touchdown,Lng,PD,FF,Fmb,FR,Fumbles Yds,Fumbles Touchdown,Sk,Comb,Solo,Ast,TFL,QBHits,Sfty
+,No.,Team,Player,Age,Pos,Games Played,Games Started,Passes Intercepted on Defense,Yards Interceptions were Returned,Interceptions Returned for Touchdowns,Longest Interception Return,Passes Defended by Defensive Player,# Forced Fumble by Opp.,# Fumbled both Lost and Recovered by Own Team,Fumbles Recovered by Original Fumbler,Yards Recovered Fumbles were Returned,Fumbles Recovered for Touchdown,Sacks,Tackles Solo+Assisted,Solo Tackles,Assisted Tackles,Tackles for Loss,Quarterback Hits,Safeties Scored by Player/Team
 50,50,Saints,Curtis Lofton,27,RILB,16,16,0,0,0,0,4,1,0,0,0,0,2.0,125,82,43,6,2,n/a
 57,57,Saints,David Hawthorne,28,LILB,16,15,n/a,n/a,0,n/a,n/a,1,0,0,0,0,3.0,91,60,31,8,4,n/a
 32,32,Saints,Kenny Vaccaro,22,SS,14,14,1,29,0,29,8,1,0,0,0,0,1.0,79,62,17,4,3,n/a

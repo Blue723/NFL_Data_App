@@ -1,4 +1,4 @@
-,No.,Team,Player,Age,Pos,G,GS,Ret,Punt Returns Yds,Punt Return TD,Longest Punt Return,Y/R,Rt,Kick Returns Yds,Kick Returns TD,Longest Kickoff Return,Y/Rt,APYd
+,No.,Team,Player,Age,Position,Games Played,Games Started,Punts Returned,Punts Return Yardage,Punts Returned for Touchdown,Longest Punt Return,Yards per Punt Return,Kickoff Returns,Yardage for Kickoffs Returned,Kickoffs Returned for a Touchdown,Longest Kickoff Return,Yards per Kickoff Return,All-purpose Yards
 80,80,Commanders,Jamison Crowder,23,WR,16,9,27,328,1,85,12.1,n/a,n/a,0,n/a,n/a,1173
 25,25,Commanders,Chris Thompson,26,RB,16,0,n/a,n/a,0,n/a,n/a,17,360,0,28,21.2,1065
 41,41,Commanders,Will Blackmon,32,FS,15,6,1,16,0,16,16.0,4,109,0,45,27.3,204

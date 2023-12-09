@@ -1,4 +1,4 @@
-,Rk,Team,Date,Opp,Result,Quarter,Dist,Type,Detail
+,Rank,Team,Date,Opponent,Results,Quarter,Distance,Type,Detail
 1,1,Buffalos,2022-09-08,LAR,"W, 31-10",2,4,pass,Cooper Kupp
 2,2,Buffalos,2022-09-19,TEN,"W, 41-7",1,2,rush,Derrick Henry
 3,3,Buffalos,2022-09-25,MIA,"L, 19-21",1,1,rush,Chase Edmonds
@@ -15,7 +15,7 @@
 14,14,Buffalos,2022-11-13,MIN,"L, 30-33",1,22,pass,Justin Jefferson
 15,15,Buffalos,2022-11-13,MIN,"L, 30-33",3,81,rush,Dalvin Cook
 16,16,Buffalos,2022-11-13,MIN,"L, 30-33",4,3,rush,C.J. Ham
-17,17,Buffalos,2022-11-13,MIN,"L, 30-33",4,0,fumble,Eric Kendricks
+17,17,Buffalos,2022-11-13,MIN,"L, 30-33",4,n/a,fumble,Eric Kendricks
 18,18,Buffalos,2022-11-20,CLE,"W, 31-23",1,25,pass,Amari Cooper
 19,19,Buffalos,2022-11-20,CLE,"W, 31-23",4,7,pass,Amari Cooper
 20,20,Buffalos,2022-11-20,CLE,"W, 31-23",4,2,pass,Donovan Peoples-Jones

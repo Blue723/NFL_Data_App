@@ -1,4 +1,4 @@
-,No.,Team,Player,Age,Pos,G,GS,Int,Def Interceptions Yds,Def Touchdown,Lng,PD,FF,Fmb,FR,Fumbles Yds,Fumbles Touchdown,Sk,Comb,Solo,Ast,TFL,QBHits,Sfty
+,No.,Team,Player,Age,Pos,Games Played,Games Started,Passes Intercepted on Defense,Yards Interceptions were Returned,Interceptions Returned for Touchdowns,Longest Interception Return,Passes Defended by Defensive Player,# Forced Fumble by Opp.,# Fumbled both Lost and Recovered by Own Team,Fumbles Recovered by Original Fumbler,Yards Recovered Fumbles were Returned,Fumbles Recovered for Touchdown,Sacks,Tackles Solo+Assisted,Solo Tackles,Assisted Tackles,Tackles for Loss,Quarterback Hits,Safeties Scored by Player/Team
 58,58,Browns,Christian Kirksey,24,RILB,16,16,0,0,0,0,3,n/a,n/a,n/a,n/a,0,2.5,148,96,52,11,7,n/a
 56,56,Browns,Demario Davis,27,LILB,16,15,0,0,0,0,2,1,0,0,0,0,2.0,99,59,40,7,5,n/a
 51,51,Browns,Jamie Collins,27,ROLB,8,8,n/a,n/a,0,n/a,n/a,1,0,0,0,0,2.0,69,48,21,7,5,n/a

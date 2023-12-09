@@ -1,4 +1,4 @@
-,Rk,Team,Date,Opp,Result,Quarter,Dist,Type,Detail
+,Rank,Team,Date,Opponent,Results,Quarter,Distance,Type,Detail
 1,1,Packers,2023-09-10,CHI,"W, 38-20",3,20,pass,Darnell Mooney
 2,2,Packers,2023-09-10,CHI,"W, 38-20",4,2,rush,Roschon Johnson
 3,3,Packers,2023-09-17,ATL,"L, 24-25",2,3,pass,Drake London
@@ -9,3 +9,9 @@
 8,8,Packers,2023-09-28,DET,"L, 20-34",1,3,rush,David Montgomery
 9,9,Packers,2023-09-28,DET,"L, 20-34",2,2,rush,David Montgomery
 10,10,Packers,2023-09-28,DET,"L, 20-34",4,1,rush,David Montgomery
+11,11,Packers,2023-10-09,LVR,"L, 13-17",2,9,pass,Jakobi Meyers
+12,12,Packers,2023-10-09,LVR,"L, 13-17",4,2,rush,Josh Jacobs
+13,13,Packers,2023-10-22,DEN,"L, 17-19",3,18,pass,Courtland Sutton
+14,14,Packers,2023-10-29,MIN,"L, 10-24",1,6,rush,Cam Akers
+15,15,Packers,2023-10-29,MIN,"L, 10-24",3,2,pass,T.J. Hockenson
+16,16,Packers,2023-10-29,MIN,"L, 10-24",3,20,pass,Jordan Addison

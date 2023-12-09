@@ -1,10 +1,20 @@
-,Rk,Team,Date,Opp,Result,Quarter,Dist,Type,Detail
+,Rank,Team,Date,Opponent,Results,Quarter,Distance,Type,Detail
 1,1,Texans,2023-09-17,IND,"L, 20-31",1,8,pass,Nico Collins
 2,2,Texans,2023-09-17,IND,"L, 20-31",4,23,pass,Tank Dell
 3,3,Texans,2023-09-24,JAX,"W, 37-17",1,1,rush,Dameon Pierce
 4,4,Texans,2023-09-24,JAX,"W, 37-17",2,4,pass,Brevin Jordan
-5,5,Texans,2023-09-24,JAX,"W, 37-17",3,85,kickoff,Ka'imi Fairbairn
+5,5,Texans,2023-09-24,JAX,"W, 37-17",3,85,kickoff,Andrew Beck
 6,6,Texans,2023-09-24,JAX,"W, 37-17",4,68,pass,Tank Dell
 7,7,Texans,2023-10-01,PIT,"W, 30-6",1,2,pass,Nico Collins
 8,8,Texans,2023-10-01,PIT,"W, 30-6",4,6,pass,Dalton Schultz
 9,9,Texans,2023-10-01,PIT,"W, 30-6",4,52,pass,Nico Collins
+10,10,Texans,2023-10-08,ATL,"L, 19-21",4,18,pass,Dalton Schultz
+11,11,Texans,2023-10-15,NOR,"W, 20-13",1,1,pass,Dalton Schultz
+12,12,Texans,2023-10-15,NOR,"W, 20-13",2,6,pass,Robert Woods
+13,13,Texans,2023-10-29,CAR,"L, 13-15",2,1,rush,Andrew Beck
+14,14,Texans,2023-10-29,CAR,"L, 13-15",3,1,rush,C.J. Stroud
+15,15,Texans,2023-11-05,TAM,"W, 39-37",1,14,pass,Nico Collins
+16,16,Texans,2023-11-05,TAM,"W, 39-37",3,75,pass,Noah Brown
+17,17,Texans,2023-11-05,TAM,"W, 39-37",3,29,pass,Tank Dell
+18,18,Texans,2023-11-05,TAM,"W, 39-37",4,9,pass,Dalton Schultz
+19,19,Texans,2023-11-05,TAM,"W, 39-37",4,15,pass,Tank Dell

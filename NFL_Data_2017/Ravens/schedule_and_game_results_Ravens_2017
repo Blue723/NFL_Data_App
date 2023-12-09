@@ -1,4 +1,4 @@
-,Week,Team,Day,Date,Time,Win/Loss,OT,Rec,Home/Away,Opp,Tm,Opp,1stD,TotYd,PassY,RushY,TO,1stD,TotYd,PassY,RushY,TO,Offense,Defense,Sp. Tms
+,Week,Team,Day,Date,Time,Win/Loss,Overtime,Team Record,Home/Away,Opponent,Points Scored,Points Allowed,Offense 1st Down,Total Yards Gained of Offense,Total yards Gained by Passing,Total Yards Gained by Rushing,Offense Turnovers,Defense 1st Down,Total Yards Allowed by Defense,Total Passing Yards Allowed by Defense,Total Rushing Yards Allowed by Defense,Defense Turnovers,Offense,Defense,Sp. Tms
 1,1,Ravens,Sun,September 10,1:00PM ET,W,n/a,1-0,away,Cincinnati Bengals,20,0,17,268,111,157,1,14,221,144,77,5,-3.67,29.26,-0.80
 2,2,Ravens,Sun,September 17,1:00PM ET,W,n/a,2-0,home,Cleveland Browns,24,10,24,337,201,136,2,20,386,293,93,5,3.42,13.26,-2.88
 3,3,Ravens,Sun,September 24,9:30AM ET,L,n/a,2-1,away,Jacksonville Jaguars,7,44,12,186,52,134,3,24,410,244,166,n/a,-23.82,-17.68,5.55

@@ -1,4 +1,4 @@
-,No.,Team,Player,Age,Pos,G,GS,Int,Def Interceptions Yds,Def Touchdown,Lng,PD,FF,Fmb,FR,Fumbles Yds,Fumbles Touchdown,Sk,Comb,Solo,Ast,TFL,QBHits,Sfty
+,No.,Team,Player,Age,Pos,Games Played,Games Started,Passes Intercepted on Defense,Yards Interceptions were Returned,Interceptions Returned for Touchdowns,Longest Interception Return,Passes Defended by Defensive Player,# Forced Fumble by Opp.,# Fumbled both Lost and Recovered by Own Team,Fumbles Recovered by Original Fumbler,Yards Recovered Fumbles were Returned,Fumbles Recovered for Touchdown,Sacks,Tackles Solo+Assisted,Solo Tackles,Assisted Tackles,Tackles for Loss,Quarterback Hits,Safeties Scored by Player/Team
 57,57,Bengals,Vincent Rey,28,RLB,16,8,1,0,0,0,5,n/a,n/a,n/a,n/a,0,1.0,98,64,34,3,2,n/a
 20,20,Bengals,Reggie Nelson,32,FS,16,16,8,115,0,37,14,0,0,2,25,0,0.0,77,52,25,2,0,n/a
 55,55,Bengals,Vontaze Burfict,25,RLB,10,10,2,16,0,16,5,n/a,n/a,n/a,n/a,0,1.0,74,57,17,6,4,n/a

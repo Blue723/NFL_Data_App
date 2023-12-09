@@ -1,5 +1,18 @@
-,Rk,Team,Date,Opp,Result,Quarter,Dist,Type,Detail
+,Rank,Team,Date,Opponent,Results,Quarter,Distance,Type,Detail
 1,1,Bengals,2023-09-17,BAL,"L, 24-27",2,81,punt,Charlie Jones
 2,2,Bengals,2023-09-17,BAL,"L, 24-27",3,3,pass,Tee Higgins
 3,3,Bengals,2023-09-17,BAL,"L, 24-27",4,4,pass,Tee Higgins
 4,4,Bengals,2023-09-25,LAR,"W, 19-16",3,14,rush,Joe Mixon
+5,5,Bengals,2023-10-08,ARI,"W, 34-20",1,2,pass,Ja'Marr Chase
+6,6,Bengals,2023-10-08,ARI,"W, 34-20",2,11,interception,Cam Taylor-Britt
+7,7,Bengals,2023-10-08,ARI,"W, 34-20",3,63,pass,Ja'Marr Chase
+8,8,Bengals,2023-10-08,ARI,"W, 34-20",4,3,pass,Ja'Marr Chase
+9,9,Bengals,2023-10-15,SEA,"W, 17-13",1,8,pass,Tyler Boyd
+10,10,Bengals,2023-10-15,SEA,"W, 17-13",2,3,pass,Andrei Iosivas
+11,11,Bengals,2023-10-29,SFO,"W, 31-17",1,7,pass,Tyler Boyd
+12,12,Bengals,2023-10-29,SFO,"W, 31-17",1,2,pass,Andrei Iosivas
+13,13,Bengals,2023-10-29,SFO,"W, 31-17",4,17,pass,Ja'Marr Chase
+14,14,Bengals,2023-10-29,SFO,"W, 31-17",4,5,rush,Joe Mixon
+15,15,Bengals,2023-11-05,BUF,"W, 24-18",1,7,pass,Irv Smith Jr.
+16,16,Bengals,2023-11-05,BUF,"W, 24-18",1,2,rush,Joe Mixon
+17,17,Bengals,2023-11-05,BUF,"W, 24-18",2,22,pass,Drew Sample

@@ -1,7 +1,18 @@
-,Rk,Team,Date,Opp,Result,Quarter,Dist,Type,Detail
+,Rank,Team,Date,Opponent,Results,Quarter,Distance,Type,Detail
 1,1,Saints,2023-09-18,CAR,"W, 20-17",4,3,pass,Adam Thielen
 2,2,Saints,2023-09-24,GNB,"L, 17-18",4,1,rush,Jordan Love
 3,3,Saints,2023-09-24,GNB,"L, 17-18",4,8,pass,Romeo Doubs
 4,4,Saints,2023-10-01,TAM,"L, 9-26",2,4,pass,Cade Otton
 5,5,Saints,2023-10-01,TAM,"L, 9-26",2,1,pass,Trey Palmer
 6,6,Saints,2023-10-01,TAM,"L, 9-26",4,5,pass,Deven Thompkins
+7,7,Saints,2023-10-15,HOU,"L, 13-20",1,1,pass,Dalton Schultz
+8,8,Saints,2023-10-15,HOU,"L, 13-20",2,6,pass,Robert Woods
+9,9,Saints,2023-10-19,JAX,"L, 24-31",1,2,rush,Travis Etienne
+10,10,Saints,2023-10-19,JAX,"L, 24-31",2,17,rush,Travis Etienne
+11,11,Saints,2023-10-19,JAX,"L, 24-31",3,24,interception,Foyesade Oluokun
+12,12,Saints,2023-10-19,JAX,"L, 24-31",4,44,pass,Christian Kirk
+13,13,Saints,2023-10-29,IND,"W, 38-27",1,10,pass,Michael Pittman Jr.
+14,14,Saints,2023-10-29,IND,"W, 38-27",2,1,rush,Zack Moss
+15,15,Saints,2023-10-29,IND,"W, 38-27",4,33,pass,Andrew Ogletree
+16,16,Saints,2023-11-05,CHI,"W, 24-17",1,18,pass,Cole Kmet
+17,17,Saints,2023-11-05,CHI,"W, 24-17",2,9,pass,Cole Kmet

@@ -1,13 +1,13 @@
-,Week,Team,Day,Date,Time,Win/Loss,OT,Rec,Home/Away,Opp,Tm,Opp,1stD,TotYd,PassY,RushY,TO,1stD,TotYd,PassY,RushY,TO,Offense,Defense,Sp. Tms
+,Week,Team,Day,Date,Time,Win/Loss,Overtime,Team Record,Home/Away,Opponent,Points Scored,Points Allowed,Offense 1st Down,Total Yards Gained of Offense,Total yards Gained by Passing,Total Yards Gained by Rushing,Offense Turnovers,Defense 1st Down,Total Yards Allowed by Defense,Total Passing Yards Allowed by Defense,Total Rushing Yards Allowed by Defense,Defense Turnovers,Offense,Defense,Sp. Tms
 1,1,Dolphins,Sun,September 10,4:25PM ET,W,n/a,1-0,away,Los Angeles Chargers,36,34,30,536,466,70,2,30,433,200,233,n/a,26.53,-18.83,-3.22
 2,2,Dolphins,Sun,September 17,8:20PM ET,W,n/a,2-0,away,New England Patriots,24,17,22,389,244,145,1,23,288,200,88,2,13.09,0.98,-7.69
 3,3,Dolphins,Sun,September 24,1:00PM ET,W,n/a,3-0,home,Denver Broncos,70,20,30,726,376,350,n/a,16,363,294,69,3,48.65,13.39,-12.38
 4,4,Dolphins,Sun,October 1,1:00PM ET,L,n/a,3-1,away,Buffalo Bills,20,48,20,393,251,142,2,24,414,310,104,n/a,-2.09,-27.56,1.37
-5,5,Dolphins,Sun,October 8,1:00PM ET,n/a,n/a,n/a,home,New York Giants,0,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
-6,6,Dolphins,Sun,October 15,1:00PM ET,n/a,n/a,n/a,home,Carolina Panthers,0,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
-7,7,Dolphins,Sun,October 22,8:20PM ET,n/a,n/a,n/a,away,Philadelphia Eagles,0,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
-8,8,Dolphins,Sun,October 29,1:00PM ET,n/a,n/a,n/a,home,New England Patriots,0,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
-9,9,Dolphins,Sun,November 5,9:30AM ET,n/a,n/a,n/a,away,Kansas City Chiefs,0,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+5,5,Dolphins,Sun,October 8,1:00PM ET,W,n/a,4-1,home,New York Giants,31,16,22,524,302,222,3,15,268,183,85,n/a,10.45,6.46,-1.72
+6,6,Dolphins,Sun,October 15,1:00PM ET,W,n/a,5-1,home,Carolina Panthers,42,21,23,424,262,162,1,21,296,188,108,n/a,14.79,6.44,-0.33
+7,7,Dolphins,Sun,October 22,8:20PM ET,L,n/a,5-2,away,Philadelphia Eagles,17,31,12,244,199,45,1,26,355,256,99,2,-7.17,-11.06,2.90
+8,8,Dolphins,Sun,October 29,1:00PM ET,W,n/a,6-2,home,New England Patriots,31,17,24,390,312,78,2,13,218,141,77,1,10.64,9.73,-3.59
+9,9,Dolphins,Sun,November 5,9:30AM ET,L,n/a,6-3,away,Kansas City Chiefs,14,21,20,292,175,117,1,16,267,174,93,1,-9.86,1.10,1.00
 10,10,Dolphins,n/a,n/a,n/a,n/a,n/a,n/a,home,<strong>Bye Week</strong>,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
 11,11,Dolphins,Sun,November 19,1:00PM ET,n/a,n/a,n/a,home,Las Vegas Raiders,0,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
 12,12,Dolphins,Fri,November 24,3:00PM ET,n/a,n/a,n/a,away,New York Jets,0,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a

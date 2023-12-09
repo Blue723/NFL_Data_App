@@ -1,4 +1,6 @@
-,No.,Team,Player,Age,Pos,G,GS,Ret,Punt Returns Yds,Punt Return TD,Longest Punt Return,Y/R,Rt,Kick Returns Yds,Kick Returns TD,Longest Kickoff Return,Y/Rt,APYd
-21,21,Falcons,Mike Hughes,26,CB,3,0,5,31,0,16,6.2,3,46,0,19,15.3,77
-20,20,Falcons,DeAundre Alford,26,CB,4,3,1,0,0,0,0.0,n/a,n/a,0,n/a,n/a,0
-16,16,Falcons,Scott Miller,26,WR,4,0,1,4,0,4,4.0,n/a,n/a,0,n/a,n/a,4
+,No.,Team,Player,Age,Position,Games Played,Games Started,Punts Returned,Punts Return Yardage,Punts Returned for Touchdown,Longest Punt Return,Yards per Punt Return,Kickoff Returns,Yardage for Kickoffs Returned,Kickoffs Returned for a Touchdown,Longest Kickoff Return,Yards per Kickoff Return,All-purpose Yards
+21,21,Falcons,Mike Hughes,26,CB,8,0,11,67,0,16,6.1,3,46,0,19,15.3,113
+84,84,Falcons,Cordarrelle Patterson,32,RB,6,0,n/a,n/a,0,n/a,n/a,4,89,0,29,22.3,168
+20,20,Falcons,DeAundre Alford,26,CB,9,4,2,0,0,0,0.0,1,5,0,5,5.0,5
+16,16,Falcons,Scott Miller,26,WR,9,0,1,4,0,4,4.0,n/a,n/a,0,n/a,n/a,78
+40,40,Falcons,Keith Smith,31,FB,8,4,n/a,n/a,0,n/a,n/a,1,10,0,10,10.0,37

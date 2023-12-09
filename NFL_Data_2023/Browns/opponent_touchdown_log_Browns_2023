@@ -1,4 +1,4 @@
-,Rk,Team,Date,Opp,Result,Quarter,Dist,Type,Detail
+,Rank,Team,Date,Opponent,Results,Quarter,Distance,Type,Detail
 1,1,Browns,2023-09-18,PIT,"L, 22-26",1,30,interception,Alex Highsmith
 2,2,Browns,2023-09-18,PIT,"L, 22-26",2,71,pass,George Pickens
 3,3,Browns,2023-09-18,PIT,"L, 22-26",4,16,fumble,T.J. Watt
@@ -6,3 +6,13 @@
 5,5,Browns,2023-10-01,BAL,"L, 3-28",2,2,rush,Lamar Jackson
 6,6,Browns,2023-10-01,BAL,"L, 3-28",2,7,pass,Mark Andrews
 7,7,Browns,2023-10-01,BAL,"L, 3-28",4,18,pass,Mark Andrews
+8,8,Browns,2023-10-15,SFO,"W, 19-17",1,13,pass,Christian McCaffrey
+9,9,Browns,2023-10-15,SFO,"W, 19-17",4,8,rush,Jordan Mason
+10,10,Browns,2023-10-22,IND,"W, 39-38",1,59,pass,Josh Downs
+11,11,Browns,2023-10-22,IND,"W, 39-38",1,17,rush,Gardner Minshew II
+12,12,Browns,2023-10-22,IND,"W, 39-38",2,4,rush,Gardner Minshew II
+13,13,Browns,2023-10-22,IND,"W, 39-38",3,5,rush,Jonathan Taylor
+14,14,Browns,2023-10-22,IND,"W, 39-38",4,75,pass,Michael Pittman Jr.
+15,15,Browns,2023-10-29,SEA,"L, 20-24",1,3,rush,Jake Bobo
+16,16,Browns,2023-10-29,SEA,"L, 20-24",1,12,pass,Tyler Lockett
+17,17,Browns,2023-10-29,SEA,"L, 20-24",4,9,pass,Jaxon Smith-Njigba

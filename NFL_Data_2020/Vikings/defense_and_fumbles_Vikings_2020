@@ -1,4 +1,4 @@
-,No.,Team,Player,Age,Pos,G,GS,Int,Def Interceptions Yds,Def Touchdown,Lng,PD,FF,Fmb,FR,Fumbles Yds,Fumbles Touchdown,Sk,Comb,Solo,Ast,TFL,QBHits,Sfty
+,No.,Team,Player,Age,Pos,Games Played,Games Started,Passes Intercepted on Defense,Yards Interceptions were Returned,Interceptions Returned for Touchdowns,Longest Interception Return,Passes Defended by Defensive Player,# Forced Fumble by Opp.,# Fumbled both Lost and Recovered by Own Team,Fumbles Recovered by Original Fumbler,Yards Recovered Fumbles were Returned,Fumbles Recovered for Touchdown,Sacks,Tackles Solo+Assisted,Solo Tackles,Assisted Tackles,Tackles for Loss,Quarterback Hits,Safeties Scored by Player/Team
 50,50,Vikings,Eric Wilson,26,RLB,16,15,3,23,0,16,8,1,0,2,7,0,3.0,122,62,60,8,9,n/a
 54,54,Vikings,Eric Kendricks,28,MLB,11,11,3,0,0,0,6,n/a,n/a,n/a,n/a,0,0.0,107,69,38,4,1,n/a
 22,22,Vikings,Harrison Smith,31,SS,16,16,5,33,0,16,10,n/a,n/a,n/a,n/a,0,0.5,89,54,35,2,5,n/a

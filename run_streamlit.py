@@ -3,13 +3,14 @@ import re
 
 import pandas as pd
 
+import plotly.express as px
 import streamlit as st
 
 #years
 years = range(2010,2024)
 
 team_names=[
-    '49ers',
+     '49ers',
      'Bears',
      'Bengals',
      'Broncos',
@@ -75,6 +76,11 @@ table_name_li = [
     'opponent_touchdown_log*'
 ]
 
+
+#sidebar
+
+st.set_page_config(layout='wide', initial_sidebar_state='expanded')
+
 #titles
 st.sidebar.write('Select the table you would lke to view')
 
@@ -98,15 +104,16 @@ def selected_file_path(select_year: int, select_table: str):
 
     return file_path
 
-file_path = selected_file_path(select_year= select_year, select_table=select_table)
+#the file path to select the table from local files
+file_path = selected_file_path(select_year=select_year, select_table=select_table)
 
 
 #cache data
 @st.cache_data(persist=True)
 
 #select table
-def select_table(file_path: str, select_team: str):
-
+def select_table_df(file_path: str, select_team: str):
+    #uses assigned index col if df does not have 'Player' column
     try:
         select_file = pd.read_csv(file_path, index_col='Player')
     except:
@@ -125,7 +132,7 @@ def select_table(file_path: str, select_team: str):
 st.title('NFL Data {} {}'.format(select_team, select_year))
 
 #selected dataframe
-select_df = select_table(file_path, select_team)
+select_df = select_table_df(file_path, select_team)
 
 #show dataframe
 st.write(select_df)
@@ -136,18 +143,35 @@ select_column = st.sidebar.selectbox('Columns', select_df.columns[1:])
 #Graph title
 st.header(select_column)
 
+#graphs
+
+c1, c2 = st.columns((5,5))
+c3 = st.columns((5,5))
+
 #barchart
-st.bar_chart(select_df[select_column])
+with c1:
+    fig1 = px.bar(select_df, x=select_df[select_column], y=select_df[select_column].index)
+
+    st.plotly_chart(fig1)
+
+#pie chart
+with c2: 
+    fig2 = px.pie(data_frame=select_df, values=select_df[select_column], names=select_df[select_column].index)
+
+    st.plotly_chart(fig2)
 
 
+if select_table == 'schedule_and_game_results' or select_table == 'touchdown_log' or select_table == 'opponent_touchdown_log':
+    #line plot
+    with c3:
+        fig1 = px.line(select_df, x=select_df['Date'], y=select_df[select_column].values)
 
+        st.plotly_chart(fig1)
+    
+    
 
-
-
-
-
-
-
+#if table selected, show dataframe dashboard. 
+#if select_table == select_table_name_li[0]:
 
 
 

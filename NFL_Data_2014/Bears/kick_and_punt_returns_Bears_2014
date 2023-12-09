@@ -1,4 +1,4 @@
-,No.,Team,Player,Age,Pos,G,GS,Ret,Punt Returns Yds,Punt Return TD,Longest Punt Return,Y/R,Rt,Kick Returns Yds,Kick Returns TD,Longest Kickoff Return,Y/Rt,APYd
+,No.,Team,Player,Age,Position,Games Played,Games Started,Punts Returned,Punts Return Yardage,Punts Returned for Touchdown,Longest Punt Return,Yards per Punt Return,Kickoff Returns,Yardage for Kickoffs Returned,Kickoffs Returned for a Touchdown,Longest Kickoff Return,Yards per Kickoff Return,All-purpose Yards
 82,82,Bears,Chris Williams,27,WR,7,0,4,30,0,13,7.5,24,579,1,101,24.1,601
 80,80,Bears,Marc Mariani,27,WR,6,0,7,29,0,16,4.1,20,510,0,67,25.5,539
 14,14,Bears,Santonio Holmes,30,WR,9,2,9,50,0,22,5.6,n/a,n/a,0,n/a,n/a,117

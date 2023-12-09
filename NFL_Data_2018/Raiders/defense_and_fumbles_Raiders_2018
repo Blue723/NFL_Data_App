@@ -1,4 +1,4 @@
-,No.,Team,Player,Age,Pos,G,GS,Int,Def Interceptions Yds,Def Touchdown,Lng,PD,FF,Fmb,FR,Fumbles Yds,Fumbles Touchdown,Sk,Comb,Solo,Ast,TFL,QBHits,Sfty
+,No.,Team,Player,Age,Pos,Games Played,Games Started,Passes Intercepted on Defense,Yards Interceptions were Returned,Interceptions Returned for Touchdowns,Longest Interception Return,Passes Defended by Defensive Player,# Forced Fumble by Opp.,# Fumbled both Lost and Recovered by Own Team,Fumbles Recovered by Original Fumbler,Yards Recovered Fumbles were Returned,Fumbles Recovered for Touchdown,Sacks,Tackles Solo+Assisted,Solo Tackles,Assisted Tackles,Tackles for Loss,Quarterback Hits,Safeties Scored by Player/Team
 59,59,Raiders,Tahir Whitehead,28,RLB,16,16,1,0,0,0,5,1,0,0,0,0,0.0,126,89,37,9,1,n/a
 22,22,Raiders,Rashaan Melvin,29,LCB,14,7,1,15,0,15,9,n/a,n/a,n/a,n/a,0,0.0,56,52,4,1,0,n/a
 31,31,Raiders,Marcus Gilchrist,30,SS,16,16,3,2,0,2,6,n/a,n/a,n/a,n/a,0,0.0,58,40,18,0,0,n/a

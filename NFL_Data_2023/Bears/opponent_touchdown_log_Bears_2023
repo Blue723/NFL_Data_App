@@ -1,4 +1,4 @@
-,Rk,Team,Date,Opp,Result,Quarter,Dist,Type,Detail
+,Rank,Team,Date,Opponent,Results,Quarter,Distance,Type,Detail
 1,1,Bears,2023-09-10,GNB,"L, 20-38",1,8,pass,Romeo Doubs
 2,2,Bears,2023-09-10,GNB,"L, 20-38",3,1,rush,Aaron Jones
 3,3,Bears,2023-09-10,GNB,"L, 20-38",3,35,pass,Aaron Jones
@@ -16,3 +16,15 @@
 15,15,Bears,2023-10-01,DEN,"L, 28-31",3,4,pass,Brandon Johnson
 16,16,Bears,2023-10-01,DEN,"L, 28-31",4,13,pass,Courtland Sutton
 17,17,Bears,2023-10-01,DEN,"L, 28-31",4,35,fumble,Jonathon Cooper
+18,18,Bears,2023-10-05,WAS,"W, 40-20",3,2,pass,Logan Thomas
+19,19,Bears,2023-10-05,WAS,"W, 40-20",4,3,pass,Curtis Samuel
+20,20,Bears,2023-10-15,MIN,"L, 13-19",2,10,pass,Jordan Addison
+21,21,Bears,2023-10-15,MIN,"L, 13-19",3,42,fumble,Jordan Hicks
+22,22,Bears,2023-10-22,LVR,"W, 30-12",4,9,pass,Jakobi Meyers
+23,23,Bears,2023-10-29,LAC,"L, 13-30",1,39,pass,Austin Ekeler
+24,24,Bears,2023-10-29,LAC,"L, 13-30",1,9,pass,Simi Fehoko
+25,25,Bears,2023-10-29,LAC,"L, 13-30",2,11,pass,Donald Parham
+26,26,Bears,2023-11-05,NOR,"L, 17-24",1,8,pass,Chris Olave
+27,27,Bears,2023-11-05,NOR,"L, 17-24",2,2,pass,Taysom Hill
+28,28,Bears,2023-11-05,NOR,"L, 17-24",4,3,pass,Juwan Johnson
+29,29,Bears,2023-11-09,CAR,"W, 16-13",1,79,punt,Ihmir Smith-Marsette

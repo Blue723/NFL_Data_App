@@ -1,4 +1,4 @@
-,No.,Team,Player,Age,Pos,G,GS,Int,Def Interceptions Yds,Def Touchdown,Lng,PD,FF,Fmb,FR,Fumbles Yds,Fumbles Touchdown,Sk,Comb,Solo,Ast,TFL,QBHits,Sfty
+,No.,Team,Player,Age,Pos,Games Played,Games Started,Passes Intercepted on Defense,Yards Interceptions were Returned,Interceptions Returned for Touchdowns,Longest Interception Return,Passes Defended by Defensive Player,# Forced Fumble by Opp.,# Fumbled both Lost and Recovered by Own Team,Fumbles Recovered by Original Fumbler,Yards Recovered Fumbles were Returned,Fumbles Recovered for Touchdown,Sacks,Tackles Solo+Assisted,Solo Tackles,Assisted Tackles,Tackles for Loss,Quarterback Hits,Safeties Scored by Player/Team
 56,56,Chiefs,Derrick Johnson,30,RILB,16,16,0,0,0,0,4,4,0,0,0,0,2.0,124,109,15,12,5,n/a
 29,29,Chiefs,Eric Berry,24,SS,16,16,1,0,0,0,10,n/a,n/a,n/a,n/a,0,0.0,86,73,13,10,0,n/a
 50,50,Chiefs,Justin Houston,23,LOLB,16,16,1,32,0,32,6,1,0,1,4,0,10.0,66,53,13,13,18,1

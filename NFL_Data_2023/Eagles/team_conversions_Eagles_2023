@@ -1,5 +1,5 @@
-,Player,Team,3DAtt,3DConv,3D%,4DAtt,4DConv,4D%,RZAtt,RZTD,RZPct
-Team Stats,Team Stats,Eagles,55,24,43.6,7,5,71.4,13,6,46.2
-Opp. Stats,Opp. Stats,Eagles,52,24,46.2,7,4,57.1,15,11,73.3
-Lg Rank Offense,Lg Rank Offense,Eagles,n/a,n/a,9,n/a,n/a,7,n/a,n/a,24
-Lg Rank Defense,Lg Rank Defense,Eagles,n/a,n/a,25,n/a,n/a,17,n/a,n/a,28
+,Player,Team,3rd Down Attempts in Game,3rd Down Conversions,3rd Down Conversion %,4th Down Attempts in Game,4th Down Conversions in Game,4th Down Conversion %,Red Zone Attempts,Touchdowns Scored After the Team Entered the Red Zone,% of the Time a Team Reaches the Red Zone and Scores a Touchdown
+Team Stats,Team Stats,Eagles,126,63,50.0,17,13,76.5,36,20,55.6
+Opp. Stats,Opp. Stats,Eagles,115,49,42.6,21,9,42.9,28,18,64.3
+Lg Rank Offense,Lg Rank Offense,Eagles,n/a,n/a,1,n/a,n/a,1,n/a,n/a,13
+Lg Rank Defense,Lg Rank Defense,Eagles,n/a,n/a,25,n/a,n/a,9,n/a,n/a,26

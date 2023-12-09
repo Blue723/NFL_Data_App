@@ -1,4 +1,4 @@
-,No.,Team,Player,Age,Pos,G,GS,Pnt,Yds,Y/P,RetYds,Net,NY/P,Lng,TB,TB%,In20,In20%,Blck
+,No.,Team,Player,Age,Pos,Games Played,Games Started,Times Puned,Total Punt Yardage,Yards per Punt,Punt Return Yardage by Opposition,Punt Net yards,Punt Net Yards per Punt,Longest Punt,Punts Resulting in a Touchback,% of Punts Resulting in a Touchback,Punts Inside Opp. 20 Yard Line,% of Punts Downed Inside Opp. 20 Yard Line,Times Punts Blocked
 0,4,49ers,Andy Lee,29,P,16,0,78,3970,50.9,315.0,3475.0,44.0,68,9.0,11.5%,28.0,35.9%,1
 1,8,Bears,Adam Podlesh,28,P,16,0,89,3903,43.9,223.0,3600.0,40.4,70,4.0,4.5%,21.0,23.6%,0
 2,10,Bengals,Kevin Huber,26,P,16,0,91,4023,44.2,273.0,3570.0,39.2,71,9.0,9.9%,24.0,26.4%,0

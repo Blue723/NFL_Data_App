@@ -1,4 +1,4 @@
-,No.,Team,Player,Age,Pos,G,GS,Int,Def Interceptions Yds,Def Touchdown,Lng,PD,FF,Fmb,FR,Fumbles Yds,Fumbles Touchdown,Sk,Comb,Solo,Ast,TFL,QBHits,Sfty
+,No.,Team,Player,Age,Pos,Games Played,Games Started,Passes Intercepted on Defense,Yards Interceptions were Returned,Interceptions Returned for Touchdowns,Longest Interception Return,Passes Defended by Defensive Player,# Forced Fumble by Opp.,# Fumbled both Lost and Recovered by Own Team,Fumbles Recovered by Original Fumbler,Yards Recovered Fumbles were Returned,Fumbles Recovered for Touchdown,Sacks,Tackles Solo+Assisted,Solo Tackles,Assisted Tackles,Tackles for Loss,Quarterback Hits,Safeties Scored by Player/Team
 56,56,Cardinals,Karlos Dansby,32,RILB,16,16,4,48,2,23,19,1,0,1,0,0,6.5,122,114,8,12,12,n/a
 37,37,Cardinals,Yeremiah Bell,35,SS,16,16,2,6,0,6,9,n/a,n/a,n/a,n/a,0,1.0,77,61,16,5,2,n/a
 58,58,Cardinals,Daryl Washington,27,LILB,12,12,2,49,0,41,11,0,0,1,0,0,3.0,75,59,16,8,12,n/a

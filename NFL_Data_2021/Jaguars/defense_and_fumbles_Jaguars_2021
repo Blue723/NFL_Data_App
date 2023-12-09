@@ -1,4 +1,4 @@
-,No.,Team,Player,Age,Pos,G,GS,Int,Def Interceptions Yds,Def Touchdown,Lng,PD,FF,Fmb,FR,Fumbles Yds,Fumbles Touchdown,Sk,Comb,Solo,Ast,TFL,QBHits,Sfty
+,No.,Team,Player,Age,Pos,Games Played,Games Started,Passes Intercepted on Defense,Yards Interceptions were Returned,Interceptions Returned for Touchdowns,Longest Interception Return,Passes Defended by Defensive Player,# Forced Fumble by Opp.,# Fumbled both Lost and Recovered by Own Team,Fumbles Recovered by Original Fumbler,Yards Recovered Fumbles were Returned,Fumbles Recovered for Touchdown,Sacks,Tackles Solo+Assisted,Solo Tackles,Assisted Tackles,Tackles for Loss,Quarterback Hits,Safeties Scored by Player/Team
 44,44,Jaguars,Myles Jack,26,RILB,15,15,n/a,n/a,0,n/a,n/a,n/a,n/a,n/a,n/a,0,0.0,108,62,46,3,2,n/a
 54,54,Jaguars,Damien Wilson,28,LILB,17,17,1,1,0,1,5,1,0,0,0,0,3.0,106,59,47,5,5,n/a
 42,42,Jaguars,Andrew Wingard,25,SS,15,15,1,23,0,23,1,n/a,n/a,n/a,n/a,0,1.0,88,57,31,2,1,n/a

@@ -1,4 +1,4 @@
-,Rk,Team,Date,Opp,Result,Quarter,Dist,Type,Detail
+,Rank,Team,Date,Opponent,Results,Quarter,Distance,Type,Detail
 1,1,Jaguars,2023-09-10,IND,"W, 31-21",1,9,pass,Calvin Ridley
 2,2,Jaguars,2023-09-10,IND,"W, 31-21",2,18,pass,Zay Jones
 3,3,Jaguars,2023-09-10,IND,"W, 31-21",4,1,rush,Tank Bigsby
@@ -7,3 +7,15 @@
 6,6,Jaguars,2023-09-24,HOU,"L, 17-37",4,26,pass,Christian Kirk
 7,7,Jaguars,2023-10-01,ATL,"W, 23-7",1,30,pass,Calvin Ridley
 8,8,Jaguars,2023-10-01,ATL,"W, 23-7",2,61,interception,Darious Williams
+9,9,Jaguars,2023-10-08,BUF,"W, 25-20",1,6,pass,Zay Jones
+10,10,Jaguars,2023-10-08,BUF,"W, 25-20",4,6,rush,Travis Etienne
+11,11,Jaguars,2023-10-08,BUF,"W, 25-20",4,35,rush,Travis Etienne
+12,12,Jaguars,2023-10-15,IND,"W, 37-20",2,2,rush,Travis Etienne
+13,13,Jaguars,2023-10-15,IND,"W, 37-20",2,22,rush,Travis Etienne
+14,14,Jaguars,2023-10-15,IND,"W, 37-20",2,29,pass,Christian Kirk
+15,15,Jaguars,2023-10-15,IND,"W, 37-20",3,10,pass,Brenton Strange
+16,16,Jaguars,2023-10-19,NOR,"W, 31-24",1,2,rush,Travis Etienne
+17,17,Jaguars,2023-10-19,NOR,"W, 31-24",2,17,rush,Travis Etienne
+18,18,Jaguars,2023-10-19,NOR,"W, 31-24",3,24,interception,Foyesade Oluokun
+19,19,Jaguars,2023-10-19,NOR,"W, 31-24",4,44,pass,Christian Kirk
+20,20,Jaguars,2023-10-29,PIT,"W, 20-10",3,56,pass,Travis Etienne

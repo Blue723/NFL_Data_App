@@ -1,4 +1,4 @@
-,No.,Team,Player,Age,Pos,G,GS,Int,Def Interceptions Yds,Def Touchdown,Lng,PD,FF,Fmb,FR,Fumbles Yds,Fumbles Touchdown,Sk,Comb,Solo,Ast,TFL,QBHits,Sfty
+,No.,Team,Player,Age,Pos,Games Played,Games Started,Passes Intercepted on Defense,Yards Interceptions were Returned,Interceptions Returned for Touchdowns,Longest Interception Return,Passes Defended by Defensive Player,# Forced Fumble by Opp.,# Fumbled both Lost and Recovered by Own Team,Fumbles Recovered by Original Fumbler,Yards Recovered Fumbles were Returned,Fumbles Recovered for Touchdown,Sacks,Tackles Solo+Assisted,Solo Tackles,Assisted Tackles,Tackles for Loss,Quarterback Hits,Safeties Scored by Player/Team
 28,28,Steelers,Sean Davis,24,SS,16,16,3,76,0,41,8,1,0,0,0,0,1.0,92,71,21,7,2,n/a
 98,98,Steelers,Vince Williams,28,RILB,16,16,1,13,0,13,1,n/a,n/a,n/a,n/a,0,8.0,89,69,20,11,14,n/a
 50,50,Steelers,Ryan Shazier,25,LILB,12,12,3,2,0,2,11,2,0,1,5,0,0.0,89,68,21,3,2,n/a

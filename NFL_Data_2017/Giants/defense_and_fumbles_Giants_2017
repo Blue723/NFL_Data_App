@@ -1,4 +1,4 @@
-,No.,Team,Player,Age,Pos,G,GS,Int,Def Interceptions Yds,Def Touchdown,Lng,PD,FF,Fmb,FR,Fumbles Yds,Fumbles Touchdown,Sk,Comb,Solo,Ast,TFL,QBHits,Sfty
+,No.,Team,Player,Age,Pos,Games Played,Games Started,Passes Intercepted on Defense,Yards Interceptions were Returned,Interceptions Returned for Touchdowns,Longest Interception Return,Passes Defended by Defensive Player,# Forced Fumble by Opp.,# Fumbled both Lost and Recovered by Own Team,Fumbles Recovered by Original Fumbler,Yards Recovered Fumbles were Returned,Fumbles Recovered for Touchdown,Sacks,Tackles Solo+Assisted,Solo Tackles,Assisted Tackles,Tackles for Loss,Quarterback Hits,Safeties Scored by Player/Team
 21,21,Giants,Landon Collins,23,SS,15,15,2,21,0,21,6,1,0,2,33,0,0.0,104,78,26,3,2,n/a
 27,27,Giants,Darian Thompson,24,FS,16,16,1,0,0,0,6,n/a,n/a,n/a,n/a,0,0.0,75,61,14,2,2,n/a
 98,98,Giants,Damon Harrison,29,LDT,16,16,1,9,0,9,3,n/a,n/a,n/a,n/a,0,1.5,76,51,25,7,3,n/a

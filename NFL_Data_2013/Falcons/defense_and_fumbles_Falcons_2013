@@ -1,4 +1,4 @@
-,No.,Team,Player,Age,Pos,G,GS,Int,Def Interceptions Yds,Def Touchdown,Lng,PD,FF,Fmb,FR,Fumbles Yds,Fumbles Touchdown,Sk,Comb,Solo,Ast,TFL,QBHits,Sfty
+,No.,Team,Player,Age,Pos,Games Played,Games Started,Passes Intercepted on Defense,Yards Interceptions were Returned,Interceptions Returned for Touchdowns,Longest Interception Return,Passes Defended by Defensive Player,# Forced Fumble by Opp.,# Fumbled both Lost and Recovered by Own Team,Fumbles Recovered by Original Fumbler,Yards Recovered Fumbles were Returned,Fumbles Recovered for Touchdown,Sacks,Tackles Solo+Assisted,Solo Tackles,Assisted Tackles,Tackles for Loss,Quarterback Hits,Safeties Scored by Player/Team
 55,55,Falcons,Paul Worrilow,23,RLB/MLB,16,12,0,0,0,0,1,n/a,n/a,n/a,n/a,0,2.0,127,79,48,4,3,n/a
 25,25,Falcons,William Moore,28,SS,16,16,3,36,0,19,7,3,0,2,0,0,2.0,86,67,19,3,3,n/a
 59,59,Falcons,Joplo Bartu,23,LLB,16,13,0,0,0,0,1,n/a,n/a,n/a,n/a,0,3.5,85,47,38,8,8,n/a

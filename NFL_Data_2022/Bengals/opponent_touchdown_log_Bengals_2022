@@ -1,4 +1,4 @@
-,Rk,Team,Date,Opp,Result,Quarter,Dist,Type,Detail
+,Rank,Team,Date,Opponent,Results,Quarter,Distance,Type,Detail
 1,1,Bengals,2022-09-11,PIT,"L, 20-23",1,31,interception,Minkah Fitzpatrick
 2,2,Bengals,2022-09-11,PIT,"L, 20-23",2,1,pass,Najee Harris
 3,3,Bengals,2022-09-18,DAL,"L, 17-20",1,9,pass,Noah Brown
@@ -19,7 +19,7 @@
 18,18,Bengals,2022-11-20,PIT,"W, 37-30",2,19,rush,Najee Harris
 19,19,Bengals,2022-11-20,PIT,"W, 37-30",2,24,pass,George Pickens
 20,20,Bengals,2022-11-20,PIT,"W, 37-30",4,1,rush,Najee Harris
-21,21,Bengals,2022-11-27,TEN,"W, 20-16",2,0,fumble,Treylon Burks
+21,21,Bengals,2022-11-27,TEN,"W, 20-16",2,n/a,fumble,Treylon Burks
 22,22,Bengals,2022-12-04,KAN,"W, 27-24",2,2,pass,Jerick McKinnon
 23,23,Bengals,2022-12-04,KAN,"W, 27-24",3,8,rush,Isiah Pacheco
 24,24,Bengals,2022-12-04,KAN,"W, 27-24",3,3,rush,Patrick Mahomes

@@ -1,4 +1,4 @@
-,No.,Team,Player,Age,Pos,G,GS,Ret,Punt Returns Yds,Punt Return TD,Longest Punt Return,Y/R,Rt,Kick Returns Yds,Kick Returns TD,Longest Kickoff Return,Y/Rt,APYd
+,No.,Team,Player,Age,Position,Games Played,Games Started,Punts Returned,Punts Return Yardage,Punts Returned for Touchdown,Longest Punt Return,Yards per Punt Return,Kickoff Returns,Yardage for Kickoffs Returned,Kickoffs Returned for a Touchdown,Longest Kickoff Return,Yards per Kickoff Return,All-purpose Yards
 0,13.0,49ers,Richie James,24,WR,16,1,33.0,264.0,0,32.0,8.0,20.0,428.0,0,81.0,21.4,849
 1,31.0,49ers,Raheem Mostert,27,RB,16,0,,,0,,,0.0,-19.0,0,-19.0,,933
 2,29.0,Bears,Tarik Cohen,24,RB,16,11,33.0,302.0,0,71.0,9.2,2.0,23.0,0,16.0,11.5,994

@@ -1,7 +1,14 @@
-,Rk,Team,Date,Opp,Result,Quarter,Dist,Type,Detail
+,Rank,Team,Date,Opponent,Results,Quarter,Distance,Type,Detail
 1,1,Steelers,2023-09-10,SFO,"L, 7-30",2,3,pass,Pat Freiermuth
 2,2,Steelers,2023-09-18,CLE,"W, 26-22",1,30,interception,Alex Highsmith
 3,3,Steelers,2023-09-18,CLE,"W, 26-22",2,71,pass,George Pickens
 4,4,Steelers,2023-09-18,CLE,"W, 26-22",4,16,fumble,T.J. Watt
 5,5,Steelers,2023-09-24,LVR,"W, 23-18",1,72,pass,Calvin Austin
 6,6,Steelers,2023-09-24,LVR,"W, 23-18",3,13,pass,Pat Freiermuth
+7,7,Steelers,2023-10-08,BAL,"W, 17-10",4,41,pass,George Pickens
+8,8,Steelers,2023-10-22,LAR,"W, 24-17",3,1,rush,Kenny Pickett
+9,9,Steelers,2023-10-22,LAR,"W, 24-17",4,13,rush,Jaylen Warren
+10,10,Steelers,2023-10-22,LAR,"W, 24-17",4,3,rush,Najee Harris
+11,11,Steelers,2023-10-29,JAX,"L, 10-20",3,22,pass,George Pickens
+12,12,Steelers,2023-11-02,TEN,"W, 20-16",1,10,rush,Najee Harris
+13,13,Steelers,2023-11-02,TEN,"W, 20-16",4,3,pass,Diontae Johnson

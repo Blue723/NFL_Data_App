@@ -1,4 +1,4 @@
-,Rk,Team,Date,Opp,Result,Quarter,Dist,Type,Detail
+,Rank,Team,Date,Opponent,Results,Quarter,Distance,Type,Detail
 1,1,Chargers,2023-09-10,MIA,"L, 34-36",1,1,rush,Austin Ekeler
 2,2,Chargers,2023-09-10,MIA,"L, 34-36",2,1,pass,Donald Parham
 3,3,Chargers,2023-09-10,MIA,"L, 34-36",3,1,rush,Justin Herbert
@@ -12,3 +12,13 @@
 11,11,Chargers,2023-10-01,LVR,"W, 24-17",1,12,rush,Justin Herbert
 12,12,Chargers,2023-10-01,LVR,"W, 24-17",2,7,pass,Keenan Allen
 13,13,Chargers,2023-10-01,LVR,"W, 24-17",2,1,rush,Justin Herbert
+14,14,Chargers,2023-10-16,DAL,"L, 17-20",1,1,pass,Keenan Allen
+15,15,Chargers,2023-10-16,DAL,"L, 17-20",4,1,pass,Gerald Everett
+16,16,Chargers,2023-10-22,KAN,"L, 17-31",2,49,rush,Joshua Kelley
+17,17,Chargers,2023-10-22,KAN,"L, 17-31",2,7,pass,Gerald Everett
+18,18,Chargers,2023-10-29,CHI,"W, 30-13",1,39,pass,Austin Ekeler
+19,19,Chargers,2023-10-29,CHI,"W, 30-13",1,9,pass,Simi Fehoko
+20,20,Chargers,2023-10-29,CHI,"W, 30-13",2,11,pass,Donald Parham
+21,21,Chargers,2023-11-06,NYJ,"W, 27-6",1,87,punt,Derius Davis
+22,22,Chargers,2023-11-06,NYJ,"W, 27-6",1,1,rush,Austin Ekeler
+23,23,Chargers,2023-11-06,NYJ,"W, 27-6",4,2,rush,Austin Ekeler

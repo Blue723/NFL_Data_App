@@ -1,14 +1,14 @@
-,Week,Team,Day,Date,Time,Win/Loss,OT,Rec,Home/Away,Opp,Tm,Opp,1stD,TotYd,PassY,RushY,TO,1stD,TotYd,PassY,RushY,TO,Offense,Defense,Sp. Tms
+,Week,Team,Day,Date,Time,Win/Loss,Overtime,Team Record,Home/Away,Opponent,Points Scored,Points Allowed,Offense 1st Down,Total Yards Gained of Offense,Total yards Gained by Passing,Total Yards Gained by Rushing,Offense Turnovers,Defense 1st Down,Total Yards Allowed by Defense,Total Passing Yards Allowed by Defense,Total Rushing Yards Allowed by Defense,Defense Turnovers,Offense,Defense,Sp. Tms
 1,1,Panthers,Sun,September 10,1:00PM ET,L,n/a,0-1,away,Atlanta Falcons,10,24,20,281,127,154,3,13,221,91,130,n/a,-16.61,2.92,0.20
 2,2,Panthers,Mon,September 18,7:15PM ET,L,n/a,0-2,home,New Orleans Saints,17,20,14,239,139,100,1,23,341,207,134,1,-6.94,-3.81,6.10
 3,3,Panthers,Sun,September 24,4:05PM ET,L,n/a,0-3,away,Seattle Seahawks,27,37,23,378,334,44,n/a,27,425,279,146,1,6.08,-10.21,-4.29
 4,4,Panthers,Sun,October 1,1:00PM ET,L,n/a,0-4,home,Minnesota Vikings,13,21,20,232,149,83,1,14,265,130,135,2,-14.29,5.73,-0.38
-5,5,Panthers,Sun,October 8,1:00PM ET,n/a,n/a,n/a,away,Detroit Lions,0,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
-6,6,Panthers,Sun,October 15,1:00PM ET,n/a,n/a,n/a,away,Miami Dolphins,0,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+5,5,Panthers,Sun,October 8,1:00PM ET,L,n/a,0-5,away,Detroit Lions,24,42,26,342,243,99,3,23,377,218,159,n/a,4.10,-21.57,-0.86
+6,6,Panthers,Sun,October 15,1:00PM ET,L,n/a,0-6,away,Miami Dolphins,21,42,21,296,188,108,n/a,23,424,262,162,1,-6.44,-14.79,0.33
 7,7,Panthers,n/a,n/a,n/a,n/a,n/a,n/a,home,<strong>Bye Week</strong>,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
-8,8,Panthers,Sun,October 29,1:00PM ET,n/a,n/a,n/a,home,Houston Texans,0,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
-9,9,Panthers,Sun,November 5,4:05PM ET,n/a,n/a,n/a,home,Indianapolis Colts,0,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
-10,10,Panthers,Thu,November 9,8:15PM ET,n/a,n/a,n/a,away,Chicago Bears,0,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+8,8,Panthers,Sun,October 29,1:00PM ET,W,n/a,1-6,home,Houston Texans,15,13,20,224,180,44,n/a,16,229,119,110,1,0.91,3.60,-2.13
+9,9,Panthers,Sun,November 5,4:05PM ET,L,n/a,1-7,home,Indianapolis Colts,13,27,17,275,137,138,3,17,198,120,78,1,-23.07,3.93,2.92
+10,10,Panthers,Thu,November 9,8:15PM ET,L,n/a,1-8,away,Chicago Bears,13,16,12,213,170,43,n/a,21,295,162,133,n/a,-6.28,0.42,1.84
 11,11,Panthers,Sun,November 19,1:00PM ET,n/a,n/a,n/a,home,Dallas Cowboys,0,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
 12,12,Panthers,Sun,November 26,1:00PM ET,n/a,n/a,n/a,away,Tennessee Titans,0,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
 13,13,Panthers,Sun,December 3,1:00PM ET,n/a,n/a,n/a,away,Tampa Bay Buccaneers,0,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a

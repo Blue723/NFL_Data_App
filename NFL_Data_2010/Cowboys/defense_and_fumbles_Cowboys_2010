@@ -1,4 +1,4 @@
-,No.,Team,Player,Age,Pos,G,GS,Int,Def Interceptions Yds,Def Touchdown,Lng,PD,FF,Fmb,FR,Fumbles Yds,Fumbles Touchdown,Sk,Comb,Solo,Ast,TFL,QBHits,Sfty
+,No.,Team,Player,Age,Pos,Games Played,Games Started,Passes Intercepted on Defense,Yards Interceptions were Returned,Interceptions Returned for Touchdowns,Longest Interception Return,Passes Defended by Defensive Player,# Forced Fumble by Opp.,# Fumbled both Lost and Recovered by Own Team,Fumbles Recovered by Original Fumbler,Yards Recovered Fumbles were Returned,Fumbles Recovered for Touchdown,Sacks,Tackles Solo+Assisted,Solo Tackles,Assisted Tackles,Tackles for Loss,Quarterback Hits,Safeties Scored by Player/Team
 56,56,Cowboys,Bradie James,29,LILB,16,16,1,11,0,11,3,2,0,2,0,0,0.0,118,81,37,4,2,n/a
 51,51,Cowboys,Keith Brooking,35,RILB,16,16,1,41,0,41,7,n/a,n/a,n/a,n/a,0,1.0,97,73,24,4,4,n/a
 41,41,Cowboys,Terence Newman,32,LCB,16,16,5,16,0,30,9,0,0,1,1,0,0.0,79,77,2,2,0,n/a

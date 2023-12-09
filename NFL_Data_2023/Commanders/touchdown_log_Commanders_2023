@@ -1,4 +1,4 @@
-,Rk,Team,Date,Opp,Result,Quarter,Dist,Type,Detail
+,Rank,Team,Date,Opponent,Results,Quarter,Distance,Type,Detail
 1,1,Commanders,2023-09-10,ARI,"W, 20-16",1,7,pass,Brian Robinson Jr.
 2,2,Commanders,2023-09-10,ARI,"W, 20-16",4,6,rush,Sam Howell
 3,3,Commanders,2023-09-17,DEN,"W, 35-33",2,4,pass,Logan Thomas
@@ -9,3 +9,15 @@
 8,8,Commanders,2023-10-01,PHI,"L, 31-34",2,0,fumble,Terry McLaurin
 9,9,Commanders,2023-10-01,PHI,"L, 31-34",4,15,rush,Brian Robinson Jr.
 10,10,Commanders,2023-10-01,PHI,"L, 31-34",4,10,pass,Jahan Dotson
+11,11,Commanders,2023-10-05,CHI,"L, 20-40",3,2,pass,Logan Thomas
+12,12,Commanders,2023-10-05,CHI,"L, 20-40",4,3,pass,Curtis Samuel
+13,13,Commanders,2023-10-15,ATL,"W, 24-16",2,1,pass,Antonio Gibson
+14,14,Commanders,2023-10-15,ATL,"W, 24-16",2,7,pass,Curtis Samuel
+15,15,Commanders,2023-10-15,ATL,"W, 24-16",3,24,pass,Brian Robinson Jr.
+16,16,Commanders,2023-10-22,NYG,"L, 7-14",3,4,rush,Brian Robinson Jr.
+17,17,Commanders,2023-10-29,PHI,"L, 31-38",1,26,pass,Terry McLaurin
+18,18,Commanders,2023-10-29,PHI,"L, 31-38",2,21,pass,Jahan Dotson
+19,19,Commanders,2023-10-29,PHI,"L, 31-38",4,7,pass,Logan Thomas
+20,20,Commanders,2023-10-29,PHI,"L, 31-38",4,26,pass,Jamison Crowder
+21,21,Commanders,2023-11-05,NWE,"W, 20-17",2,9,rush,Brian Robinson Jr.
+22,22,Commanders,2023-11-05,NWE,"W, 20-17",3,33,pass,Jahan Dotson

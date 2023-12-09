@@ -1,4 +1,4 @@
-,No.,Team,Player,Age,Pos,G,GS,Ret,Punt Returns Yds,Punt Return TD,Longest Punt Return,Y/R,Rt,Kick Returns Yds,Kick Returns TD,Longest Kickoff Return,Y/Rt,APYd
+,No.,Team,Player,Age,Position,Games Played,Games Started,Punts Returned,Punts Return Yardage,Punts Returned for Touchdown,Longest Punt Return,Yards per Punt Return,Kickoff Returns,Yardage for Kickoffs Returned,Kickoffs Returned for a Touchdown,Longest Kickoff Return,Yards per Kickoff Return,All-purpose Yards
 15,15,Rams,Tutu Atwell,22,WR,8,0,10,54,0,17,5.4,5,87,0,25,17.4,141
 19,19,Rams,Brandon Powell,26,WR,6,0,6,133,1,61,22.2,8,208,0,65,26.0,341
 17,17,Rams,J.J. Koski,25,WR,5,0,2,20,0,13,10.0,5,89,0,26,17.8,109

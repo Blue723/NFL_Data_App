@@ -1,13 +1,13 @@
-,Week,Team,Day,Date,Time,Win/Loss,OT,Rec,Home/Away,Opp,Tm,Opp,1stD,TotYd,PassY,RushY,TO,1stD,TotYd,PassY,RushY,TO,Offense,Defense,Sp. Tms
+,Week,Team,Day,Date,Time,Win/Loss,Overtime,Team Record,Home/Away,Opponent,Points Scored,Points Allowed,Offense 1st Down,Total Yards Gained of Offense,Total yards Gained by Passing,Total Yards Gained by Rushing,Offense Turnovers,Defense 1st Down,Total Yards Allowed by Defense,Total Passing Yards Allowed by Defense,Total Rushing Yards Allowed by Defense,Defense Turnovers,Offense,Defense,Sp. Tms
 1,1,Rams,Sun,September 10,4:25PM ET,W,n/a,1-0,away,Seattle Seahawks,30,13,27,426,334,92,n/a,13,180,95,85,n/a,20.95,1.77,-5.73
 2,2,Rams,Sun,September 17,4:05PM ET,L,n/a,1-1,home,San Francisco 49ers,23,30,28,386,297,89,2,21,365,206,159,n/a,3.31,-12.36,2.05
 3,3,Rams,Mon,September 25,8:15PM ET,L,n/a,1-2,away,Cincinnati Bengals,16,19,15,292,221,71,2,19,309,242,67,1,-7.34,8.00,-3.79
 4,4,Rams,Sun,October 1,1:00PM ET,W,OT,2-2,away,Indianapolis Colts,29,23,27,467,303,164,1,19,329,196,133,1,15.52,-5.51,-0.74
-5,5,Rams,Sun,October 8,4:05PM ET,n/a,n/a,n/a,home,Philadelphia Eagles,0,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
-6,6,Rams,Sun,October 15,4:25PM ET,n/a,n/a,n/a,home,Arizona Cardinals,0,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
-7,7,Rams,Sun,October 22,4:05PM ET,n/a,n/a,n/a,home,Pittsburgh Steelers,0,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
-8,8,Rams,Sun,October 29,1:00PM ET,n/a,n/a,n/a,away,Dallas Cowboys,0,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
-9,9,Rams,Sun,November 5,1:00PM ET,n/a,n/a,n/a,away,Green Bay Packers,0,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+5,5,Rams,Sun,October 8,4:05PM ET,L,n/a,2-3,home,Philadelphia Eagles,14,23,17,249,195,54,n/a,28,454,295,159,1,6.25,-16.56,2.84
+6,6,Rams,Sun,October 15,4:25PM ET,W,n/a,3-3,home,Arizona Cardinals,26,9,17,382,203,179,1,20,345,215,130,2,10.25,12.85,-7.36
+7,7,Rams,Sun,October 22,4:05PM ET,L,n/a,3-4,home,Pittsburgh Steelers,17,24,19,354,219,135,1,17,300,214,86,n/a,3.06,-4.14,-6.47
+8,8,Rams,Sun,October 29,1:00PM ET,L,n/a,3-5,away,Dallas Cowboys,20,43,15,280,188,92,1,24,387,285,102,1,-8.68,-15.46,-1.87
+9,9,Rams,Sun,November 5,1:00PM ET,L,n/a,3-6,away,Green Bay Packers,3,20,10,187,119,68,2,21,391,207,184,2,-20.49,-2.46,1.58
 10,10,Rams,n/a,n/a,n/a,n/a,n/a,n/a,home,<strong>Bye Week</strong>,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
 11,11,Rams,Sun,November 19,4:25PM ET,n/a,n/a,n/a,home,Seattle Seahawks,0,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
 12,12,Rams,Sun,November 26,4:05PM ET,n/a,n/a,n/a,away,Arizona Cardinals,0,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a

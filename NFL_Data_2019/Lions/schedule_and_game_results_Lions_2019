@@ -1,4 +1,4 @@
-,Week,Team,Day,Date,Time,Win/Loss,OT,Rec,Home/Away,Opp,Tm,Opp,1stD,TotYd,PassY,RushY,TO,1stD,TotYd,PassY,RushY,TO,Offense,Defense,Sp. Tms
+,Week,Team,Day,Date,Time,Win/Loss,Overtime,Team Record,Home/Away,Opponent,Points Scored,Points Allowed,Offense 1st Down,Total Yards Gained of Offense,Total yards Gained by Passing,Total Yards Gained by Rushing,Offense Turnovers,Defense 1st Down,Total Yards Allowed by Defense,Total Passing Yards Allowed by Defense,Total Rushing Yards Allowed by Defense,Defense Turnovers,Offense,Defense,Sp. Tms
 1,1,Lions,Sun,September 8,4:25PM ET,T,OT,0-0-1,away,Arizona Cardinals,27,27,23,477,361,116,2,21,387,275,112,1,7.02,3.50,-9.80
 2,2,Lions,Sun,September 15,1:00PM ET,W,n/a,1-0-1,home,Los Angeles Chargers,13,10,19,339,245,94,2,21,424,287,137,2,8.62,-5.86,0.56
 3,3,Lions,Sun,September 22,1:00PM ET,W,n/a,2-0-1,away,Philadelphia Eagles,27,24,16,287,201,86,n/a,22,373,246,127,2,1.07,0.31,3.80

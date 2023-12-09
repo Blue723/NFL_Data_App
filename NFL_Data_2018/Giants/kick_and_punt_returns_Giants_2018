@@ -1,4 +1,4 @@
-,No.,Team,Player,Age,Pos,G,GS,Ret,Punt Returns Yds,Punt Return TD,Longest Punt Return,Y/R,Rt,Kick Returns Yds,Kick Returns TD,Longest Kickoff Return,Y/Rt,APYd
+,No.,Team,Player,Age,Position,Games Played,Games Started,Punts Returned,Punts Return Yardage,Punts Returned for Touchdown,Longest Punt Return,Yards per Punt Return,Kickoff Returns,Yardage for Kickoffs Returned,Kickoffs Returned for a Touchdown,Longest Kickoff Return,Yards per Kickoff Return,All-purpose Yards
 19,19,Giants,Corey Coleman,24,WR,8,1,1,19,0,19,19.0,23,598,0,51,26.0,693
 80,80,Giants,Jawill Davis,23,WR,7,0,12,89,0,23,7.4,7,171,0,32,24.4,300
 15,15,Giants,Quadree Henderson,22,WR,5,0,9,68,0,21,7.6,5,112,0,30,22.4,180

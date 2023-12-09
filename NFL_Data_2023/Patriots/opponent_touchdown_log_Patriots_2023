@@ -1,4 +1,4 @@
-,Rk,Team,Date,Opp,Result,Quarter,Dist,Type,Detail
+,Rank,Team,Date,Opponent,Results,Quarter,Distance,Type,Detail
 1,1,Patriots,2023-09-10,PHI,"L, 20-25",1,70,interception,Darius Slay
 2,2,Patriots,2023-09-10,PHI,"L, 20-25",1,5,pass,DeVonta Smith
 3,3,Patriots,2023-09-17,MIA,"L, 17-24",2,8,rush,Raheem Mostert
@@ -9,3 +9,17 @@
 8,8,Patriots,2023-10-01,DAL,"L, 3-38",2,11,fumble,Leighton Vander Esch
 9,9,Patriots,2023-10-01,DAL,"L, 3-38",2,54,interception,DaRon Bland
 10,10,Patriots,2023-10-01,DAL,"L, 3-38",4,3,rush,Hunter Luepke
+11,11,Patriots,2023-10-08,NOR,"L, 0-34",1,27,interception,Tyrann Mathieu
+12,12,Patriots,2023-10-08,NOR,"L, 0-34",2,2,rush,Alvin Kamara
+13,13,Patriots,2023-10-08,NOR,"L, 0-34",2,5,pass,Chris Olave
+14,14,Patriots,2023-10-08,NOR,"L, 0-34",4,6,pass,Foster Moreau
+15,15,Patriots,2023-10-15,LVR,"L, 17-21",2,12,pass,Jakobi Meyers
+16,16,Patriots,2023-10-22,BUF,"W, 29-25",3,8,pass,James Cook
+17,17,Patriots,2023-10-22,BUF,"W, 29-25",4,25,pass,Stefon Diggs
+18,18,Patriots,2023-10-22,BUF,"W, 29-25",4,1,rush,Josh Allen
+19,19,Patriots,2023-10-29,MIA,"L, 17-31",1,42,pass,Tyreek Hill
+20,20,Patriots,2023-10-29,MIA,"L, 17-31",2,1,pass,Cedrick Wilson Jr.
+21,21,Patriots,2023-10-29,MIA,"L, 17-31",3,1,rush,Raheem Mostert
+22,22,Patriots,2023-10-29,MIA,"L, 17-31",4,31,pass,Jaylen Waddle
+23,23,Patriots,2023-11-05,WAS,"L, 17-20",2,9,rush,Brian Robinson Jr.
+24,24,Patriots,2023-11-05,WAS,"L, 17-20",3,33,pass,Jahan Dotson

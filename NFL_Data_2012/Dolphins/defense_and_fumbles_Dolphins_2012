@@ -1,4 +1,4 @@
-,No.,Team,Player,Age,Pos,G,GS,Int,Def Interceptions Yds,Def Touchdown,Lng,PD,FF,Fmb,FR,Fumbles Yds,Fumbles Touchdown,Sk,Comb,Solo,Ast,TFL,QBHits,Sfty
+,No.,Team,Player,Age,Pos,Games Played,Games Started,Passes Intercepted on Defense,Yards Interceptions were Returned,Interceptions Returned for Touchdowns,Longest Interception Return,Passes Defended by Defensive Player,# Forced Fumble by Opp.,# Fumbled both Lost and Recovered by Own Team,Fumbles Recovered by Original Fumbler,Yards Recovered Fumbles were Returned,Fumbles Recovered for Touchdown,Sacks,Tackles Solo+Assisted,Solo Tackles,Assisted Tackles,Tackles for Loss,Quarterback Hits,Safeties Scored by Player/Team
 58,58,Dolphins,Karlos Dansby,31,MLB,16,16,0,0,0,0,9,1,0,0,0,0,1.0,134,101,33,9,2,n/a
 56,56,Dolphins,Kevin Burnett,30,LLB,16,16,0,0,0,0,5,n/a,n/a,n/a,n/a,0,2.5,110,80,30,5,5,n/a
 20,20,Dolphins,Reshad Jones,24,FS,16,16,4,28,0,15,9,2,1,2,24,0,1.0,94,73,21,4,4,n/a

@@ -1,4 +1,4 @@
-,No.,Team,Player,Age,Pos,G,GS,Int,Def Interceptions Yds,Def Touchdown,Lng,PD,FF,Fmb,FR,Fumbles Yds,Fumbles Touchdown,Sk,Comb,Solo,Ast,TFL,QBHits,Sfty
+,No.,Team,Player,Age,Pos,Games Played,Games Started,Passes Intercepted on Defense,Yards Interceptions were Returned,Interceptions Returned for Touchdowns,Longest Interception Return,Passes Defended by Defensive Player,# Forced Fumble by Opp.,# Fumbled both Lost and Recovered by Own Team,Fumbles Recovered by Original Fumbler,Yards Recovered Fumbles were Returned,Fumbles Recovered for Touchdown,Sacks,Tackles Solo+Assisted,Solo Tackles,Assisted Tackles,Tackles for Loss,Quarterback Hits,Safeties Scored by Player/Team
 26,26,Giants,Antrel Rolle,31,SS,16,16,6,23,0,25,12,1,0,1,10,0,2.0,98,80,18,4,2,n/a
 20,20,Giants,Prince Amukamara,24,RCB,16,16,1,-4,0,-4,13,2,0,0,0,0,0.0,85,76,9,4,0,n/a
 54,54,Giants,Jon Beason,28,MLB,12,11,1,9,0,9,1,n/a,n/a,n/a,n/a,0,0.0,93,65,28,1,1,n/a

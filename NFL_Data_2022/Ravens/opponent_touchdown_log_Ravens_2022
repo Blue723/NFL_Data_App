@@ -1,4 +1,4 @@
-,Rk,Team,Date,Opp,Result,Quarter,Dist,Type,Detail
+,Rank,Team,Date,Opponent,Results,Quarter,Distance,Type,Detail
 1,1,Ravens,2022-09-11,NYJ,"W, 24-9",4,3,pass,Tyler Conklin
 2,2,Ravens,2022-09-18,MIA,"L, 38-42",2,6,pass,Jaylen Waddle
 3,3,Ravens,2022-09-18,MIA,"L, 38-42",3,14,pass,Mike Gesicki
@@ -30,4 +30,4 @@
 29,29,Ravens,2023-01-01,PIT,"L, 13-16",4,10,pass,Najee Harris
 30,30,Ravens,2023-01-08,CIN,"L, 16-27",1,1,rush,Joe Mixon
 31,31,Ravens,2023-01-08,CIN,"L, 16-27",2,26,pass,Ja'Marr Chase
-32,32,Ravens,2023-01-08,CIN,"L, 16-27",2,0,fumble,Joseph Ossai
+32,32,Ravens,2023-01-08,CIN,"L, 16-27",2,n/a,fumble,Joseph Ossai

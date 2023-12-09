@@ -1,4 +1,4 @@
-,Rk,Team,Date,Opp,Result,Quarter,Dist,Type,Detail
+,Rank,Team,Date,Opponent,Results,Quarter,Distance,Type,Detail
 1,1,Cardinals,2023-09-10,WAS,"L, 16-20",2,2,fumble,Cameron Thomas
 2,2,Cardinals,2023-09-17,NYG,"L, 28-31",1,4,rush,James Conner
 3,3,Cardinals,2023-09-17,NYG,"L, 28-31",2,23,rush,Joshua Dobbs
@@ -8,3 +8,10 @@
 7,7,Cardinals,2023-09-24,DAL,"W, 28-16",4,2,pass,Marquise Brown
 8,8,Cardinals,2023-10-01,SFO,"L, 16-35",2,16,pass,Michael Wilson
 9,9,Cardinals,2023-10-01,SFO,"L, 16-35",3,8,pass,Michael Wilson
+10,10,Cardinals,2023-10-08,CIN,"L, 20-34",2,25,pass,Marquise Brown
+11,11,Cardinals,2023-10-08,CIN,"L, 20-34",2,4,pass,Zach Ertz
+12,12,Cardinals,2023-10-08,CIN,"L, 20-34",3,11,rush,Emari Demercado
+13,13,Cardinals,2023-10-22,SEA,"L, 10-20",2,25,rush,Joshua Dobbs
+14,14,Cardinals,2023-10-29,BAL,"L, 24-31",1,1,rush,Joshua Dobbs
+15,15,Cardinals,2023-10-29,BAL,"L, 24-31",4,17,pass,Trey McBride
+16,16,Cardinals,2023-10-29,BAL,"L, 24-31",4,1,pass,Marquise Brown

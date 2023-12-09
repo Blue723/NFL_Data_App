@@ -1,6 +1,21 @@
-,Rk,Team,Date,Opp,Result,Quarter,Dist,Type,Detail
+,Rank,Team,Date,Opponent,Results,Quarter,Distance,Type,Detail
 1,1,Saints,2023-09-10,TEN,"W, 16-15",3,19,pass,Rashid Shaheed
 2,2,Saints,2023-09-18,CAR,"W, 20-17",3,2,rush,Tony Jones
 3,3,Saints,2023-09-18,CAR,"W, 20-17",4,2,rush,Tony Jones
 4,4,Saints,2023-09-24,GNB,"L, 17-18",1,8,pass,Jimmy Graham
 5,5,Saints,2023-09-24,GNB,"L, 17-18",2,76,punt,Rashid Shaheed
+6,6,Saints,2023-10-08,NWE,"W, 34-0",1,27,interception,Tyrann Mathieu
+7,7,Saints,2023-10-08,NWE,"W, 34-0",2,2,rush,Alvin Kamara
+8,8,Saints,2023-10-08,NWE,"W, 34-0",2,5,pass,Chris Olave
+9,9,Saints,2023-10-08,NWE,"W, 34-0",4,6,pass,Foster Moreau
+10,10,Saints,2023-10-15,HOU,"L, 13-20",1,34,pass,Rashid Shaheed
+11,11,Saints,2023-10-19,JAX,"L, 24-31",4,1,rush,Taysom Hill
+12,12,Saints,2023-10-19,JAX,"L, 24-31",4,17,pass,Michael Thomas
+13,13,Saints,2023-10-29,IND,"W, 38-27",1,18,pass,Alvin Kamara
+14,14,Saints,2023-10-29,IND,"W, 38-27",2,20,rush,Taysom Hill
+15,15,Saints,2023-10-29,IND,"W, 38-27",2,58,pass,Rashid Shaheed
+16,16,Saints,2023-10-29,IND,"W, 38-27",3,16,rush,Alvin Kamara
+17,17,Saints,2023-10-29,IND,"W, 38-27",4,1,rush,Taysom Hill
+18,18,Saints,2023-11-05,CHI,"W, 24-17",1,8,pass,Chris Olave
+19,19,Saints,2023-11-05,CHI,"W, 24-17",2,2,pass,Taysom Hill
+20,20,Saints,2023-11-05,CHI,"W, 24-17",4,3,pass,Juwan Johnson

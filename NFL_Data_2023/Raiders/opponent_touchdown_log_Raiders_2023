@@ -1,4 +1,4 @@
-,Rk,Team,Date,Opp,Result,Quarter,Dist,Type,Detail
+,Rank,Team,Date,Opponent,Results,Quarter,Distance,Type,Detail
 1,1,Raiders,2023-09-10,DEN,"W, 17-16",1,5,pass,Lil'Jordan Humphrey
 2,2,Raiders,2023-09-10,DEN,"W, 17-16",2,5,pass,Courtland Sutton
 3,3,Raiders,2023-09-17,BUF,"L, 10-38",1,4,rush,Latavius Murray
@@ -11,3 +11,13 @@
 10,10,Raiders,2023-10-01,LAC,"L, 17-24",1,12,rush,Justin Herbert
 11,11,Raiders,2023-10-01,LAC,"L, 17-24",2,7,pass,Keenan Allen
 12,12,Raiders,2023-10-01,LAC,"L, 17-24",2,1,rush,Justin Herbert
+13,13,Raiders,2023-10-09,GNB,"W, 17-13",3,5,rush,AJ Dillon
+14,14,Raiders,2023-10-15,NWE,"W, 21-17",3,2,rush,Ezekiel Elliott
+15,15,Raiders,2023-10-15,NWE,"W, 21-17",4,1,rush,Rhamondre Stevenson
+16,16,Raiders,2023-10-22,CHI,"L, 12-30",1,2,rush,D'Onta Foreman
+17,17,Raiders,2023-10-22,CHI,"L, 12-30",2,3,rush,D'Onta Foreman
+18,18,Raiders,2023-10-22,CHI,"L, 12-30",3,5,pass,D'Onta Foreman
+19,19,Raiders,2023-10-22,CHI,"L, 12-30",4,39,interception,Jaylon Johnson
+20,20,Raiders,2023-10-30,DET,"L, 14-26",2,18,pass,Sam LaPorta
+21,21,Raiders,2023-10-30,DET,"L, 14-26",3,27,rush,Jahmyr Gibbs
+22,22,Raiders,2023-11-05,NYG,"W, 30-6",4,9,pass,Wan'Dale Robinson

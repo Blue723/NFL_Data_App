@@ -1,4 +1,4 @@
-,Rk,Team,Date,Opp,Result,Quarter,Dist,Type,Detail
+,Rank,Team,Date,Opponent,Results,Quarter,Distance,Type,Detail
 1,1,Colts,2023-09-10,JAX,"L, 21-31",1,9,pass,Calvin Ridley
 2,2,Colts,2023-09-10,JAX,"L, 21-31",2,18,pass,Zay Jones
 3,3,Colts,2023-09-10,JAX,"L, 21-31",4,1,rush,Tank Bigsby
@@ -10,3 +10,18 @@
 9,9,Colts,2023-10-01,LAR,"L, 23-29",1,3,rush,Kyren Williams
 10,10,Colts,2023-10-01,LAR,"L, 23-29",1,3,rush,Kyren Williams
 11,11,Colts,2023-10-01,LAR,"L, 23-29",5,22,pass,Puka Nacua
+12,12,Colts,2023-10-08,TEN,"W, 23-16",3,19,rush,Tyjae Spears
+13,13,Colts,2023-10-15,JAX,"L, 20-37",2,2,rush,Travis Etienne
+14,14,Colts,2023-10-15,JAX,"L, 20-37",2,22,rush,Travis Etienne
+15,15,Colts,2023-10-15,JAX,"L, 20-37",2,29,pass,Christian Kirk
+16,16,Colts,2023-10-15,JAX,"L, 20-37",3,10,pass,Brenton Strange
+17,17,Colts,2023-10-22,CLE,"L, 38-39",1,69,rush,Jerome Ford
+18,18,Colts,2023-10-22,CLE,"L, 38-39",2,2,rush,Kareem Hunt
+19,19,Colts,2023-10-22,CLE,"L, 38-39",2,0,fumble,Tony Fields
+20,20,Colts,2023-10-22,CLE,"L, 38-39",4,1,rush,Kareem Hunt
+21,21,Colts,2023-10-29,NOR,"L, 27-38",1,18,pass,Alvin Kamara
+22,22,Colts,2023-10-29,NOR,"L, 27-38",2,20,rush,Taysom Hill
+23,23,Colts,2023-10-29,NOR,"L, 27-38",2,58,pass,Rashid Shaheed
+24,24,Colts,2023-10-29,NOR,"L, 27-38",3,16,rush,Alvin Kamara
+25,25,Colts,2023-10-29,NOR,"L, 27-38",4,1,rush,Taysom Hill
+26,26,Colts,2023-11-05,CAR,"W, 27-13",3,5,pass,DJ Chark

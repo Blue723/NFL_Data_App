@@ -1,4 +1,4 @@
-,Rk,Team,Date,Opp,Result,Quarter,Dist,Type,Detail
+,Rank,Team,Date,Opponent,Results,Quarter,Distance,Type,Detail
 1,1,Panthers,2023-09-10,ATL,"L, 10-24",2,11,pass,Bijan Robinson
 2,2,Panthers,2023-09-10,ATL,"L, 10-24",4,3,rush,Tyler Allgeier
 3,3,Panthers,2023-09-10,ATL,"L, 10-24",4,3,rush,Tyler Allgeier
@@ -10,3 +10,21 @@
 9,9,Panthers,2023-10-01,MIN,"L, 13-21",2,4,pass,Justin Jefferson
 10,10,Panthers,2023-10-01,MIN,"L, 13-21",3,51,fumble,D.J. Wonnum
 11,11,Panthers,2023-10-01,MIN,"L, 13-21",3,30,pass,Justin Jefferson
+12,12,Panthers,2023-10-08,DET,"L, 24-42",1,42,rush,David Montgomery
+13,13,Panthers,2023-10-08,DET,"L, 24-42",1,4,pass,Sam LaPorta
+14,14,Panthers,2023-10-08,DET,"L, 24-42",2,1,pass,Josh Reynolds
+15,15,Panthers,2023-10-08,DET,"L, 24-42",2,31,pass,Sam LaPorta
+16,16,Panthers,2023-10-08,DET,"L, 24-42",4,1,rush,Jared Goff
+17,17,Panthers,2023-10-08,DET,"L, 24-42",4,5,rush,Craig Reynolds
+18,18,Panthers,2023-10-15,MIA,"L, 21-42",2,3,pass,Raheem Mostert
+19,19,Panthers,2023-10-15,MIA,"L, 21-42",2,4,pass,Jaylen Waddle
+20,20,Panthers,2023-10-15,MIA,"L, 21-42",2,41,pass,Tyreek Hill
+21,21,Panthers,2023-10-15,MIA,"L, 21-42",3,4,rush,Raheem Mostert
+22,22,Panthers,2023-10-15,MIA,"L, 21-42",4,1,rush,Raheem Mostert
+23,23,Panthers,2023-10-15,MIA,"L, 21-42",4,9,rush,Salvon Ahmed
+24,24,Panthers,2023-10-29,HOU,"W, 15-13",2,1,rush,Andrew Beck
+25,25,Panthers,2023-10-29,HOU,"W, 15-13",3,1,rush,C.J. Stroud
+26,26,Panthers,2023-11-05,IND,"L, 13-27",2,10,pass,Jonathan Taylor
+27,27,Panthers,2023-11-05,IND,"L, 13-27",2,49,interception,Kenny Moore
+28,28,Panthers,2023-11-05,IND,"L, 13-27",4,66,interception,Kenny Moore
+29,29,Panthers,2023-11-09,CHI,"L, 13-16",3,4,rush,D'Onta Foreman

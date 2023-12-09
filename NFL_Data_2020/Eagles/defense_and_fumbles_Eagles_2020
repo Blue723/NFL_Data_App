@@ -1,4 +1,4 @@
-,No.,Team,Player,Age,Pos,G,GS,Int,Def Interceptions Yds,Def Touchdown,Lng,PD,FF,Fmb,FR,Fumbles Yds,Fumbles Touchdown,Sk,Comb,Solo,Ast,TFL,QBHits,Sfty
+,No.,Team,Player,Age,Pos,Games Played,Games Started,Passes Intercepted on Defense,Yards Interceptions were Returned,Interceptions Returned for Touchdowns,Longest Interception Return,Passes Defended by Defensive Player,# Forced Fumble by Opp.,# Fumbled both Lost and Recovered by Own Team,Fumbles Recovered by Original Fumbler,Yards Recovered Fumbles were Returned,Fumbles Recovered for Touchdown,Sacks,Tackles Solo+Assisted,Solo Tackles,Assisted Tackles,Tackles for Loss,Quarterback Hits,Safeties Scored by Player/Team
 49,49,Eagles,Alex Singleton,27,LLB,16,11,1,30,1,30,1,0,0,2,1,0,2.0,120,75,45,5,7,n/a
 21,21,Eagles,Jalen Mills,26,FS,15,15,1,5,0,5,3,1,0,0,0,0,1.5,74,59,15,4,5,n/a
 24,24,Eagles,Darius Slay,29,RCB,15,14,1,25,0,25,6,n/a,n/a,n/a,n/a,0,0.0,59,53,6,2,0,n/a

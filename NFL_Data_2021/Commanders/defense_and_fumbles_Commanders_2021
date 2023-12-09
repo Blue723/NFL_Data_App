@@ -1,4 +1,4 @@
-,No.,Team,Player,Age,Pos,G,GS,Int,Def Interceptions Yds,Def Touchdown,Lng,PD,FF,Fmb,FR,Fumbles Yds,Fumbles Touchdown,Sk,Comb,Solo,Ast,TFL,QBHits,Sfty
+,No.,Team,Player,Age,Pos,Games Played,Games Started,Passes Intercepted on Defense,Yards Interceptions were Returned,Interceptions Returned for Touchdowns,Longest Interception Return,Passes Defended by Defensive Player,# Forced Fumble by Opp.,# Fumbled both Lost and Recovered by Own Team,Fumbles Recovered by Original Fumbler,Yards Recovered Fumbles were Returned,Fumbles Recovered for Touchdown,Sacks,Tackles Solo+Assisted,Solo Tackles,Assisted Tackles,Tackles for Loss,Quarterback Hits,Safeties Scored by Player/Team
 55,55,Commanders,Cole Holcomb,25,LLB,16,16,2,54,1,31,7,2,0,1,0,0,1.0,142,83,59,2,2,n/a
 31,31,Commanders,Kamren Curl,22,FS,16,14,0,0,0,0,5,0,0,1,0,0,1.0,99,62,37,2,3,n/a
 29,29,Commanders,Kendall Fuller,26,LCB,16,16,1,0,0,0,16,n/a,n/a,n/a,n/a,0,1.0,77,64,13,2,1,n/a

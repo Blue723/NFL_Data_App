@@ -1,4 +1,4 @@
-,No.,Team,Player,Age,Pos,G,GS,Int,Def Interceptions Yds,Def Touchdown,Lng,PD,FF,Fmb,FR,Fumbles Yds,Fumbles Touchdown,Sk,Comb,Solo,Ast,TFL,QBHits,Sfty
+,No.,Team,Player,Age,Pos,Games Played,Games Started,Passes Intercepted on Defense,Yards Interceptions were Returned,Interceptions Returned for Touchdowns,Longest Interception Return,Passes Defended by Defensive Player,# Forced Fumble by Opp.,# Fumbled both Lost and Recovered by Own Team,Fumbles Recovered by Original Fumbler,Yards Recovered Fumbles were Returned,Fumbles Recovered for Touchdown,Sacks,Tackles Solo+Assisted,Solo Tackles,Assisted Tackles,Tackles for Loss,Quarterback Hits,Safeties Scored by Player/Team
 94,94,Steelers,Lawrence Timmons,29,RILB,16,16,1,0,0,0,6,1,0,0,0,0,5.0,119,77,42,6,10,n/a
 50,50,Steelers,Ryan Shazier,23,LILB,12,12,1,0,0,0,4,2,0,1,0,0,3.5,87,55,32,10,8,n/a
 20,20,Steelers,Will Allen,33,SS,13,13,1,20,0,20,8,2,0,0,0,0,4.0,80,62,18,5,4,n/a

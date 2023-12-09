@@ -1,4 +1,4 @@
-,No.,Team,Player,Age,Pos,G,GS,Int,Def Interceptions Yds,Def Touchdown,Lng,PD,FF,Fmb,FR,Fumbles Yds,Fumbles Touchdown,Sk,Comb,Solo,Ast,TFL,QBHits,Sfty
+,No.,Team,Player,Age,Pos,Games Played,Games Started,Passes Intercepted on Defense,Yards Interceptions were Returned,Interceptions Returned for Touchdowns,Longest Interception Return,Passes Defended by Defensive Player,# Forced Fumble by Opp.,# Fumbled both Lost and Recovered by Own Team,Fumbles Recovered by Original Fumbler,Yards Recovered Fumbles were Returned,Fumbles Recovered for Touchdown,Sacks,Tackles Solo+Assisted,Solo Tackles,Assisted Tackles,Tackles for Loss,Quarterback Hits,Safeties Scored by Player/Team
 54,54,Seahawks,Bobby Wagner,29,MLB,16,16,1,6,0,6,6,1,0,1,5,0,3.0,159,86,73,7,4,n/a
 50,50,Seahawks,K.J. Wright,30,RLB,16,16,3,10,0,11,11,n/a,n/a,n/a,n/a,0,0.0,132,67,65,5,1,n/a
 21,21,Seahawks,Tre Flowers,24,RCB,15,15,3,0,0,0,8,1,0,1,0,0,2.0,82,65,17,2,2,n/a

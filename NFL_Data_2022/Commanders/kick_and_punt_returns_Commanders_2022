@@ -1,4 +1,4 @@
-,No.,Team,Player,Age,Pos,G,GS,Ret,Punt Returns Yds,Punt Return TD,Longest Punt Return,Y/R,Rt,Kick Returns Yds,Kick Returns TD,Longest Kickoff Return,Y/Rt,APYd
+,No.,Team,Player,Age,Position,Games Played,Games Started,Punts Returned,Punts Return Yardage,Punts Returned for Touchdown,Longest Punt Return,Yards per Punt Return,Kickoff Returns,Yardage for Kickoffs Returned,Kickoffs Returned for a Touchdown,Longest Kickoff Return,Yards per Kickoff Return,All-purpose Yards
 15,15,Commanders,Dax Milne,23,WR,15,1,40,311,0,19,7.8,15,300,0,33,20.0,648
 24,24,Commanders,Antonio Gibson,24,RB,15,6,n/a,n/a,0,n/a,n/a,21,486,0,45,23.1,1385
 86,86,Commanders,Alex Erickson,30,WR,2,0,4,25,0,13,6.3,n/a,n/a,0,n/a,n/a,25

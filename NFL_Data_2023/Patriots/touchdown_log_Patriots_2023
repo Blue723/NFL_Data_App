@@ -1,7 +1,16 @@
-,Rk,Team,Date,Opp,Result,Quarter,Dist,Type,Detail
+,Rank,Team,Date,Opponent,Results,Quarter,Distance,Type,Detail
 1,1,Patriots,2023-09-10,PHI,"L, 20-25",2,9,pass,Hunter Henry
 2,2,Patriots,2023-09-10,PHI,"L, 20-25",2,19,pass,Kendrick Bourne
 3,3,Patriots,2023-09-10,PHI,"L, 20-25",4,11,pass,Kendrick Bourne
 4,4,Patriots,2023-09-17,MIA,"L, 17-24",4,6,pass,Hunter Henry
 5,5,Patriots,2023-09-17,MIA,"L, 17-24",4,2,rush,Rhamondre Stevenson
 6,6,Patriots,2023-09-24,NYJ,"W, 15-10",2,58,pass,Pharaoh Brown
+7,7,Patriots,2023-10-15,LVR,"L, 17-21",3,2,rush,Ezekiel Elliott
+8,8,Patriots,2023-10-15,LVR,"L, 17-21",4,1,rush,Rhamondre Stevenson
+9,9,Patriots,2023-10-22,BUF,"W, 29-25",1,2,rush,Ezekiel Elliott
+10,10,Patriots,2023-10-22,BUF,"W, 29-25",4,4,pass,Kendrick Bourne
+11,11,Patriots,2023-10-22,BUF,"W, 29-25",4,1,pass,Mike Gesicki
+12,12,Patriots,2023-10-29,MIA,"L, 17-31",1,24,pass,Kendrick Bourne
+13,13,Patriots,2023-10-29,MIA,"L, 17-31",4,3,pass,JuJu Smith-Schuster
+14,14,Patriots,2023-11-05,WAS,"L, 17-20",2,14,pass,Hunter Henry
+15,15,Patriots,2023-11-05,WAS,"L, 17-20",2,64,rush,Rhamondre Stevenson

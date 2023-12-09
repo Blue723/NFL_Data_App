@@ -1,4 +1,4 @@
-,Rk,Team,Date,Opp,Result,Quarter,Dist,Type,Detail
+,Rank,Team,Date,Opponent,Results,Quarter,Distance,Type,Detail
 1,1,Panthers,2022-09-11,CLE,"L, 24-26",2,1,rush,Christian McCaffrey
 2,2,Panthers,2022-09-11,CLE,"L, 24-26",4,7,rush,Baker Mayfield
 3,3,Panthers,2022-09-11,CLE,"L, 24-26",4,75,pass,Robbie Chosen
@@ -34,4 +34,4 @@
 33,33,Panthers,2023-01-01,TAM,"L, 24-30",1,17,pass,Tommy Tremble
 34,34,Panthers,2023-01-01,TAM,"L, 24-30",2,24,pass,D.J. Moore
 35,35,Panthers,2023-01-01,TAM,"L, 24-30",4,19,pass,Shi Smith
-36,36,Panthers,2023-01-08,NOR,"W, 10-7",3,0,fumble,Michael Jordan
+36,36,Panthers,2023-01-08,NOR,"W, 10-7",3,n/a,fumble,Michael Jordan

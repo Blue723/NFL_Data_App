@@ -1,4 +1,4 @@
-,No.,Team,Player,Age,Pos,G,GS,Int,Def Interceptions Yds,Def Touchdown,Lng,PD,FF,Fmb,FR,Fumbles Yds,Fumbles Touchdown,Sk,Comb,Solo,Ast,TFL,QBHits,Sfty
+,No.,Team,Player,Age,Pos,Games Played,Games Started,Passes Intercepted on Defense,Yards Interceptions were Returned,Interceptions Returned for Touchdowns,Longest Interception Return,Passes Defended by Defensive Player,# Forced Fumble by Opp.,# Fumbled both Lost and Recovered by Own Team,Fumbles Recovered by Original Fumbler,Yards Recovered Fumbles were Returned,Fumbles Recovered for Touchdown,Sacks,Tackles Solo+Assisted,Solo Tackles,Assisted Tackles,Tackles for Loss,Quarterback Hits,Safeties Scored by Player/Team
 54,54,Commanders,Mason Foster,27,RILB,16,13,0,0,0,0,3,1,0,0,0,0,1.0,124,89,35,9,5,n/a
 51,51,Commanders,William Compton,27,LILB,15,15,1,5,0,5,5,1,0,2,0,0,0.0,106,61,45,5,2,n/a
 26,26,Commanders,Bashaud Breeland,24,LCB,14,14,3,32,0,26,11,2,0,0,0,0,1.0,73,62,11,1,1,n/a

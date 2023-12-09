@@ -1,4 +1,4 @@
-,No.,Team,Player,Age,Pos,G,GS,Pnt,Yds,Y/P,RetYds,Net,NY/P,Lng,TB,TB%,In20,In20%,Blck
+,No.,Team,Player,Age,Pos,Games Played,Games Started,Times Puned,Total Punt Yardage,Yards per Punt,Punt Return Yardage by Opposition,Punt Net yards,Punt Net Yards per Punt,Longest Punt,Punts Resulting in a Touchback,% of Punts Resulting in a Touchback,Punts Inside Opp. 20 Yard Line,% of Punts Downed Inside Opp. 20 Yard Line,Times Punts Blocked
 5,5,Falcons,Matthew Bosher,29,K,15,0,44,2060,46.8,209,1831,41.6,68,1,2.3%,21,47.7%,0
 3,3,Falcons,Matt Bryant,41,K,16,0,2,67,33.5,0,67,33.5,36,0,0.0%,0,0.0%,0
 6,6,Falcons,Matt Wile,24,P,1,0,2,116,58.0,n/a,n/a,n/a,59,n/a,n/a,n/a,n/a,0

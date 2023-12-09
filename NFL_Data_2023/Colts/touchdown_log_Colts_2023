@@ -1,4 +1,4 @@
-,Rk,Team,Date,Opp,Result,Quarter,Dist,Type,Detail
+,Rank,Team,Date,Opponent,Results,Quarter,Distance,Type,Detail
 1,1,Colts,2023-09-10,JAX,"L, 21-31",2,2,rush,Anthony Richardson
 2,2,Colts,2023-09-10,JAX,"L, 21-31",3,39,pass,Michael Pittman Jr.
 3,3,Colts,2023-09-10,JAX,"L, 21-31",3,26,fumble,DeForest Buckner
@@ -10,3 +10,18 @@
 9,9,Colts,2023-10-01,LAR,"L, 23-29",3,35,pass,Mo Alie-Cox
 10,10,Colts,2023-10-01,LAR,"L, 23-29",4,1,rush,Anthony Richardson
 11,11,Colts,2023-10-01,LAR,"L, 23-29",4,5,pass,Andrew Ogletree
+12,12,Colts,2023-10-08,TEN,"W, 23-16",1,56,rush,Zack Moss
+13,13,Colts,2023-10-08,TEN,"W, 23-16",3,3,rush,Zack Moss
+14,14,Colts,2023-10-15,JAX,"L, 20-37",4,2,pass,Josh Downs
+15,15,Colts,2023-10-15,JAX,"L, 20-37",4,3,rush,Zack Moss
+16,16,Colts,2023-10-22,CLE,"L, 38-39",1,59,pass,Josh Downs
+17,17,Colts,2023-10-22,CLE,"L, 38-39",1,17,rush,Gardner Minshew II
+18,18,Colts,2023-10-22,CLE,"L, 38-39",2,4,rush,Gardner Minshew II
+19,19,Colts,2023-10-22,CLE,"L, 38-39",3,5,rush,Jonathan Taylor
+20,20,Colts,2023-10-22,CLE,"L, 38-39",4,75,pass,Michael Pittman Jr.
+21,21,Colts,2023-10-29,NOR,"L, 27-38",1,10,pass,Michael Pittman Jr.
+22,22,Colts,2023-10-29,NOR,"L, 27-38",2,1,rush,Zack Moss
+23,23,Colts,2023-10-29,NOR,"L, 27-38",4,33,pass,Andrew Ogletree
+24,24,Colts,2023-11-05,CAR,"W, 27-13",2,10,pass,Jonathan Taylor
+25,25,Colts,2023-11-05,CAR,"W, 27-13",2,49,interception,Kenny Moore
+26,26,Colts,2023-11-05,CAR,"W, 27-13",4,66,interception,Kenny Moore

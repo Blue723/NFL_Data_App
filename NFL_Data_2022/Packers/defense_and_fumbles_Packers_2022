@@ -1,4 +1,4 @@
-,No.,Team,Player,Age,Pos,G,GS,Int,Def Interceptions Yds,Def Touchdown,Lng,PD,FF,Fmb,FR,Fumbles Yds,Fumbles Touchdown,Sk,Comb,Solo,Ast,TFL,QBHits,Sfty
+,No.,Team,Player,Age,Pos,Games Played,Games Started,Passes Intercepted on Defense,Yards Interceptions were Returned,Interceptions Returned for Touchdowns,Longest Interception Return,Passes Defended by Defensive Player,# Forced Fumble by Opp.,# Fumbled both Lost and Recovered by Own Team,Fumbles Recovered by Original Fumbler,Yards Recovered Fumbles were Returned,Fumbles Recovered for Touchdown,Sacks,Tackles Solo+Assisted,Solo Tackles,Assisted Tackles,Tackles for Loss,Quarterback Hits,Safeties Scored by Player/Team
 7,7,Packers,Quay Walker,22,LB,17,16,0,0,0,0,7,3,0,1,63,0,1.5,121,75,46,5,4,n/a
 31,31,Packers,Adrian Amos,29,S,17,17,1,26,0,26,5,0,0,1,-1,0,1.0,102,73,29,7,2,n/a
 29,29,Packers,Rasul Douglas,28,CB,17,12,4,26,0,22,13,1,1,0,0,0,1.0,85,69,16,4,1,n/a

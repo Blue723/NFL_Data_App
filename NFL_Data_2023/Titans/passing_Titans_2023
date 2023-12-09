@@ -1,3 +1,5 @@
-,No.,Team,Player,Age,Pos,G,GS,QBrec,Cmp,Att,Cmp%,Yds Gained,TD,TD%,Int,Int%,1D,Succ%,Lng,Y/A,AY/A,Yds Lost,Y/G,Rate,QBR,Sk,Yds,Sk%,NY/A,ANY/A,4QC,GWD
-17,17,Titans,Ryan Tannehill,35,QB,4,4,2-2-0,67,108,62.0,788,2,1.9,4,3.7,32,37.9,70,7.3,6.0,11.8,197.0,74.9,28.2,16,114,12.9,5.44,4.31,1,1
-22,22,Titans,Derrick Henry,29,RB,4,4,n/a,1,1,100.0,2,1,100.0,0,0.0,1,100.0,2,2.0,22.0,2.0,0.5,118.7,100.0,0,0,0.0,2.00,22.00,n/a,n/a
+,No.,Team,Player,Age,Position,Games Played,Games Started as an Offensive or Defensive Player,Team Record in Games Stareted by This QB,Passes Completed,Passes Attemped,% of Passes Completed,Yards Gained by Passing,Passing Touchdowns,% of Touchdowns Thrown when Attempting to Pass,Interceptions Thrown,% of Times Interceped when Attempting to Pass,First Downs Passing,Passing Success Rate,Longest Completed Pass Thrown,Yards Gained per Pass Attempt,Adjusted Yards gained per Pass Attempt,Yards Gained per Pass Completion,Yards Gained per Game Played,QB Rating,ESPN QB Rating,Times Sacked,Yards Lost due to Sacks,% of Time Sacked when Attempting to Pass,Net Yards Gained per Pass Attempt,Adejsuted Net Yards per Pass Attempt,Comebacks led by QB,Game-winning Drives led by QB
+17,17,Titans,Ryan Tannehill,35,QB,6,6,2-4-0,98,158,62.0,1128,2,1.3,6,3.8,49,40.1,70,7.1,5.7,11.5,188.0,71.9,34.2,19,135,10.7,5.61,4.31,1,1
+8,8,Titans,Will Levis,24,QB,2,2,1-1-0,41,68,60.3,500,4,5.9,1,1.5,19,32.4,61,7.4,7.9,12.2,250.0,96.4,44.4,6,39,8.1,6.23,6.70,n/a,n/a
+7,7,Titans,Malik Willis,24,QB,3,0,n/a,4,5,80.0,74,0,0.0,0,0.0,1,44.4,48,14.8,14.8,18.5,24.7,118.7,3.5,4,30,44.4,4.89,4.89,n/a,n/a
+22,22,Titans,Derrick Henry,29,RB,8,8,n/a,1,2,50.0,2,1,50.0,0,0.0,1,50.0,2,1.0,11.0,2.0,0.3,95.8,100.0,0,0,0.0,1.00,11.00,n/a,n/a

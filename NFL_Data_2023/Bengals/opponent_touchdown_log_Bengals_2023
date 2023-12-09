@@ -1,4 +1,4 @@
-,Rk,Team,Date,Opp,Result,Quarter,Dist,Type,Detail
+,Rank,Team,Date,Opponent,Results,Quarter,Distance,Type,Detail
 1,1,Bengals,2023-09-10,CLE,"L, 3-24",2,13,rush,Deshaun Watson
 2,2,Bengals,2023-09-10,CLE,"L, 3-24",4,3,pass,Harrison Bryant
 3,3,Bengals,2023-09-17,BAL,"L, 24-27",1,1,rush,Gus Edwards
@@ -8,3 +8,11 @@
 7,7,Bengals,2023-10-01,TEN,"L, 3-27",2,13,pass,Nick Westbrook-Ikhine
 8,8,Bengals,2023-10-01,TEN,"L, 3-27",2,29,rush,Derrick Henry
 9,9,Bengals,2023-10-01,TEN,"L, 3-27",2,2,pass,Josh Whyle
+10,10,Bengals,2023-10-08,ARI,"W, 34-20",2,25,pass,Marquise Brown
+11,11,Bengals,2023-10-08,ARI,"W, 34-20",2,4,pass,Zach Ertz
+12,12,Bengals,2023-10-08,ARI,"W, 34-20",3,11,rush,Emari Demercado
+13,13,Bengals,2023-10-15,SEA,"W, 17-13",1,1,rush,Kenneth Walker III
+14,14,Bengals,2023-10-29,SFO,"W, 31-17",1,2,rush,Christian McCaffrey
+15,15,Bengals,2023-10-29,SFO,"W, 31-17",4,4,pass,Christian McCaffrey
+16,16,Bengals,2023-11-05,BUF,"W, 24-18",1,2,rush,Josh Allen
+17,17,Bengals,2023-11-05,BUF,"W, 24-18",4,17,pass,Stefon Diggs

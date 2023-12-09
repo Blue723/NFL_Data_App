@@ -1,4 +1,4 @@
-,No.,Team,Player,Age,Pos,G,GS,Pnt,Yds,Y/P,RetYds,Net,NY/P,Lng,TB,TB%,In20,In20%,Blck
+,No.,Team,Player,Age,Pos,Games Played,Games Started,Times Puned,Total Punt Yardage,Yards per Punt,Punt Return Yardage by Opposition,Punt Net yards,Punt Net Yards per Punt,Longest Punt,Punts Resulting in a Touchback,% of Punts Resulting in a Touchback,Punts Inside Opp. 20 Yard Line,% of Punts Downed Inside Opp. 20 Yard Line,Times Punts Blocked
 0,5,49ers,Bradley Pinion,24,P,16,0,68,2973,43.7,195,2698,39.1,64,4,5.9%,22,32.4%,1
 1,16,Bears,Pat O'Donnell,27,P,16,0,62,2791,45.0,150,2501,39.7,65,7,11.3%,28,45.2%,1
 2,10,Bengals,Kevin Huber,33,P,16,0,71,3119,43.9,220,2839,39.4,69,3,4.2%,29,40.8%,1

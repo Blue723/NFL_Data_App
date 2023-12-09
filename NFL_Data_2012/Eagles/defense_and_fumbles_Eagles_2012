@@ -1,4 +1,4 @@
-,No.,Team,Player,Age,Pos,G,GS,Int,Def Interceptions Yds,Def Touchdown,Lng,PD,FF,Fmb,FR,Fumbles Yds,Fumbles Touchdown,Sk,Comb,Solo,Ast,TFL,QBHits,Sfty
+,No.,Team,Player,Age,Pos,Games Played,Games Started,Passes Intercepted on Defense,Yards Interceptions were Returned,Interceptions Returned for Touchdowns,Longest Interception Return,Passes Defended by Defensive Player,# Forced Fumble by Opp.,# Fumbled both Lost and Recovered by Own Team,Fumbles Recovered by Original Fumbler,Yards Recovered Fumbles were Returned,Fumbles Recovered for Touchdown,Sacks,Tackles Solo+Assisted,Solo Tackles,Assisted Tackles,Tackles for Loss,Quarterback Hits,Safeties Scored by Player/Team
 59,59,Eagles,DeMeco Ryans,28,MLB,16,16,1,0,0,0,4,n/a,n/a,n/a,n/a,0,1.0,113,86,27,15,2,n/a
 42,42,Eagles,Kurt Coleman,24,FS,14,14,2,13,0,7,4,1,0,0,0,0,0.0,93,70,23,3,0,n/a
 95,95,Eagles,Mychal Kendricks,22,RLB,15,14,0,0,0,0,8,n/a,n/a,n/a,n/a,0,1.0,75,58,17,6,1,n/a

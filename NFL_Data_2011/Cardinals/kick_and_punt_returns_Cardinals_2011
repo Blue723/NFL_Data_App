@@ -1,4 +1,4 @@
-,No.,Team,Player,Age,Pos,G,GS,Ret,Punt Returns Yds,Punt Return TD,Longest Punt Return,Y/R,Rt,Kick Returns Yds,Kick Returns TD,Longest Kickoff Return,Y/Rt,APYd
+,No.,Team,Player,Age,Position,Games Played,Games Started,Punts Returned,Punts Return Yardage,Punts Returned for Touchdown,Longest Punt Return,Yards per Punt Return,Kickoff Returns,Yardage for Kickoffs Returned,Kickoffs Returned for a Touchdown,Longest Kickoff Return,Yards per Kickoff Return,All-purpose Yards
 21,21,Cardinals,Patrick Peterson,21,RCB,16,16,44,699,4,99,15.9,n/a,n/a,0,n/a,n/a,698
 36,36,Cardinals,LaRod Stephens-Howling,24,RB,14,1,n/a,n/a,0,n/a,n/a,36,857,0,37,23.8,1258
 20,20,Cardinals,A.J. Jefferson,23,LCB,16,7,n/a,n/a,0,n/a,n/a,14,356,0,51,25.4,373

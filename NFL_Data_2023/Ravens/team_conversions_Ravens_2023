@@ -1,5 +1,5 @@
-,Player,Team,3DAtt,3DConv,3D%,4DAtt,4DConv,4D%,RZAtt,RZTD,RZPct
-Team Stats,Team Stats,Ravens,57,27,47.4,2,1,50.0,15,12,80.0
-Opp. Stats,Opp. Stats,Ravens,71,29,40.8,7,3,42.9,10,3,30.0
-Lg Rank Offense,Lg Rank Offense,Ravens,n/a,n/a,5,n/a,n/a,16,n/a,n/a,1
-Lg Rank Defense,Lg Rank Defense,Ravens,n/a,n/a,19,n/a,n/a,10,n/a,n/a,3
+,Player,Team,3rd Down Attempts in Game,3rd Down Conversions,3rd Down Conversion %,4th Down Attempts in Game,4th Down Conversions in Game,4th Down Conversion %,Red Zone Attempts,Touchdowns Scored After the Team Entered the Red Zone,% of the Time a Team Reaches the Red Zone and Scores a Touchdown
+Team Stats,Team Stats,Ravens,119,54,45.4,7,3,42.9,40,26,65.0
+Opp. Stats,Opp. Stats,Ravens,135,47,34.8,16,5,31.3,21,7,33.3
+Lg Rank Offense,Lg Rank Offense,Ravens,n/a,n/a,6,n/a,n/a,22,n/a,n/a,6
+Lg Rank Defense,Lg Rank Defense,Ravens,n/a,n/a,7,n/a,n/a,3,n/a,n/a,1

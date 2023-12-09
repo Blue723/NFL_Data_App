@@ -1,4 +1,4 @@
-,No.,Team,Player,Age,Pos,G,GS,Int,Def Interceptions Yds,Def Touchdown,Lng,PD,FF,Fmb,FR,Fumbles Yds,Fumbles Touchdown,Sk,Comb,Solo,Ast,TFL,QBHits,Sfty
+,No.,Team,Player,Age,Pos,Games Played,Games Started,Passes Intercepted on Defense,Yards Interceptions were Returned,Interceptions Returned for Touchdowns,Longest Interception Return,Passes Defended by Defensive Player,# Forced Fumble by Opp.,# Fumbled both Lost and Recovered by Own Team,Fumbles Recovered by Original Fumbler,Yards Recovered Fumbles were Returned,Fumbles Recovered for Touchdown,Sacks,Tackles Solo+Assisted,Solo Tackles,Assisted Tackles,Tackles for Loss,Quarterback Hits,Safeties Scored by Player/Team
 21,21,Buffalos,Jordan Poyer,28,SS,16,16,2,0,0,0,3,3,0,4,31,0,1.0,107,71,36,4,1,n/a
 49,49,Buffalos,Tremaine Edmunds,21,MLB,16,16,1,0,0,0,9,n/a,n/a,n/a,n/a,0,1.5,115,66,49,10,4,1
 58,58,Buffalos,Matt Milano,25,LLB,15,15,0,0,0,0,9,1,0,1,0,0,1.5,101,65,36,7,7,n/a

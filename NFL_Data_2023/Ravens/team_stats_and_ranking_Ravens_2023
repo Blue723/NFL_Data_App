@@ -1,5 +1,5 @@
-,Player,Team,PF,Total Yds and TO,Ply,Y/P,TO,FL,1stD,Cmp,Att,Passing Yds,TD,Int,NY/A,1stD,Att,Russhing Yds,TD,Y/A,1stD,Pen,Penalty Yds,1stPy,Dr,Sc%,TO%,Start,Time,Plays,Yds,Pts
-Team Stats,Team Stats,Ravens,99,1340,255,5.3,5,4,80,78,105,735,4,1,6.3,35,139,605,8,4.4,37,28,259,8,47,34.0,10.6,Own 31.1,2:41,5.55,28.2,2.04
-Opp. Stats,Opp. Stats,Ravens,58,1043,278,3.8,5,1,69,101,165,673,3,4,3.7,41,98,370,0,3.8,20,27,191,8,48,27.1,10.4,Own 27.4,2:33,6.0,21.8,1.06
-Lg Rank Offense,Lg Rank Offense,Ravens,12,13,n/a,n/a,13,30,13,n/a,32,26,18,4,13,n/a,2,4,3,15,n/a,n/a,n/a,n/a,n/a,18,17,5,20,27,18,15
-Lg Rank Defense,Lg Rank Defense,Ravens,3,3,n/a,n/a,12,18,5,n/a,30,3,3,7,1,n/a,11,7,1,7,n/a,n/a,n/a,n/a,n/a,28,18,7,8,17,2,3
+,Player,Team,Points Scored by Team,Total Yds and TO,Offensic Plays: Pass Attempts + Rush Attempts + Times Sacked,Yards per Offensive Play,Team Turnovers Lost,Fumbles Lost by Player or Team,1stD,Passes Completed,Passes Attempted,Yards Gained by Passing,Passing Touchdowns,Interceptions Thrown,Net Yards Gained per Pass Attempt,First Downs by Passing,Rushing Attempts,Rushing Yards,Rushin Touchdowns,Rushing Yards per Attempt,First Downs by Rushing,Penalties committed by Team and Accepted,Penalties in Yards Committed by Team,First Downs by Penalty,Number of Drives,% of Drives Ending in an Offensive Score,% of Drives Ending in an Offensive Turnover,Average Starting Field Position,Average Time per Drive,Average # of Plays per Drive,Net Yards per Drive,Average Points Scored per Drive
+Team Stats,Team Stats,Ravens,239,3321,582,5.7,12,9,192,186,261,1878,10,3,6.7,89,300,1443,17,4.8,85,52,468,18,105,41.0,11.4,Own 32.1,2:47,5.72,31.5,2.26
+Opp. Stats,Opp. Stats,Ravens,124,2363,579,4.1,13,4,149,202,336,1536,6,9,4.1,86,208,827,3,4.0,43,52,422,20,105,25.7,10.5,Own 27.5,2:27,5.7,22.5,1.11
+Lg Rank Offense,Lg Rank Offense,Ravens,6,6,n/a,n/a,15,27,8,n/a,31,20,21,2,8,n/a,2,1,1,3,n/a,n/a,n/a,n/a,n/a,8,19,2,13,21,11,5
+Lg Rank Defense,Lg Rank Defense,Ravens,1,2,n/a,n/a,15,23,2,n/a,26,2,1,6,1,n/a,5,8,2,14,n/a,n/a,n/a,n/a,n/a,30,22,11,4,10,2,1

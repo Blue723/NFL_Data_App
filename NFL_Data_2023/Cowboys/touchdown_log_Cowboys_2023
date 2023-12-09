@@ -1,4 +1,4 @@
-,Rk,Team,Date,Opp,Result,Quarter,Dist,Type,Detail
+,Rank,Team,Date,Opponent,Results,Quarter,Distance,Type,Detail
 1,1,Cowboys,2023-09-10,NYG,"W, 40-0",1,58,blocked field goal,Noah Igbinoghene
 2,2,Cowboys,2023-09-10,NYG,"W, 40-0",1,22,interception,DaRon Bland
 3,3,Cowboys,2023-09-10,NYG,"W, 40-0",2,2,rush,Tony Pollard
@@ -11,3 +11,14 @@
 10,10,Cowboys,2023-10-01,NWE,"W, 38-3",2,11,fumble,Leighton Vander Esch
 11,11,Cowboys,2023-10-01,NWE,"W, 38-3",2,54,interception,DaRon Bland
 12,12,Cowboys,2023-10-01,NWE,"W, 38-3",4,3,rush,Hunter Luepke
+13,13,Cowboys,2023-10-08,SFO,"L, 10-42",2,26,pass,KaVontae Turpin
+14,14,Cowboys,2023-10-16,LAC,"W, 20-17",1,18,rush,Dak Prescott
+15,15,Cowboys,2023-10-16,LAC,"W, 20-17",4,2,pass,Brandin Cooks
+16,16,Cowboys,2023-10-29,LAR,"W, 43-20",1,18,pass,Jake Ferguson
+17,17,Cowboys,2023-10-29,LAR,"W, 43-20",1,30,interception,DaRon Bland
+18,18,Cowboys,2023-10-29,LAR,"W, 43-20",2,10,pass,CeeDee Lamb
+19,19,Cowboys,2023-10-29,LAR,"W, 43-20",2,22,pass,CeeDee Lamb
+20,20,Cowboys,2023-10-29,LAR,"W, 43-20",4,25,pass,Brandin Cooks
+21,21,Cowboys,2023-11-05,PHI,"L, 23-28",1,4,pass,Jake Ferguson
+22,22,Cowboys,2023-11-05,PHI,"L, 23-28",2,5,pass,KaVontae Turpin
+23,23,Cowboys,2023-11-05,PHI,"L, 23-28",4,7,pass,Jalen Tolbert

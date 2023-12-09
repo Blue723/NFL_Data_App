@@ -1,5 +1,5 @@
-,Player,Team,PF,Total Yds and TO,Ply,Y/P,TO,FL,1stD,Cmp,Att,Passing Yds,TD,Int,NY/A,1stD,Att,Russhing Yds,TD,Y/A,1stD,Pen,Penalty Yds,1stPy,Dr,Sc%,TO%,Start,Time,Plays,Yds,Pts
-Team Stats,Team Stats,Jets,62,1011,217,4.7,6,2,55,72,124,629,4,4,4.7,31,82,382,1,4.7,19,17,96,5,46,23.9,13.0,Own 27.2,2:12,4.87,21.9,1.15
-Opp. Stats,Opp. Stats,Jets,84,1455,286,5.1,6,1,86,93,138,863,5,5,6.0,45,141,592,1,4.2,35,22,167,6,47,40.4,12.8,Own 27.9,2:58,6.4,31.0,1.72
-Lg Rank Offense,Lg Rank Offense,Jets,25,30,n/a,n/a,22,13,31,n/a,26,31,18,20,27,n/a,30,20,24,6,n/a,n/a,n/a,n/a,n/a,29,9,20,30,32,31,29
-Lg Rank Defense,Lg Rank Defense,Jets,14,23,n/a,n/a,8,18,25,n/a,19,16,14,4,16,n/a,32,28,2,17,n/a,n/a,n/a,n/a,n/a,12,11,14,22,24,17,13
+,Player,Team,Points Scored by Team,Total Yds and TO,Offensic Plays: Pass Attempts + Rush Attempts + Times Sacked,Yards per Offensive Play,Team Turnovers Lost,Fumbles Lost by Player or Team,1stD,Passes Completed,Passes Attempted,Yards Gained by Passing,Passing Touchdowns,Interceptions Thrown,Net Yards Gained per Pass Attempt,First Downs by Passing,Rushing Attempts,Rushing Yards,Rushin Touchdowns,Rushing Yards per Attempt,First Downs by Rushing,Penalties committed by Team and Accepted,Penalties in Yards Committed by Team,First Downs by Penalty,Number of Drives,% of Drives Ending in an Offensive Score,% of Drives Ending in an Offensive Turnover,Average Starting Field Position,Average Time per Drive,Average # of Plays per Drive,Net Yards per Drive,Average Points Scored per Drive
+Team Stats,Team Stats,Jets,132,2183,477,4.6,13,8,119,160,268,1356,5,5,4.5,70,177,827,3,4.7,36,52,360,13,98,27.6,12.2,Own 29.9,2:18,5.07,22.2,1.15
+Opp. Stats,Opp. Stats,Jets,156,2496,538,4.6,13,5,154,163,258,1398,8,8,5.0,78,258,1098,5,4.3,58,41,356,18,99,31.3,12.1,Own 28.0,2:37,5.7,25.1,1.46
+Lg Rank Offense,Lg Rank Offense,Jets,30,31,n/a,n/a,25,27,32,n/a,20,30,31,10,30,n/a,29,20,26,5,n/a,n/a,n/a,n/a,n/a,29,14,10,32,32,32,31
+Lg Rank Defense,Lg Rank Defense,Jets,8,9,n/a,n/a,7,13,13,n/a,11,3,3,6,4,n/a,32,30,9,22,n/a,n/a,n/a,n/a,n/a,26,15,12,10,9,3,4

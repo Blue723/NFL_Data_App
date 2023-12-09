@@ -1,4 +1,4 @@
-,Rk,Team,Date,Opp,Result,Quarter,Dist,Type,Detail
+,Rank,Team,Date,Opponent,Results,Quarter,Distance,Type,Detail
 1,1,Broncos,2023-09-10,LVR,"L, 16-17",1,5,pass,Lil'Jordan Humphrey
 2,2,Broncos,2023-09-10,LVR,"L, 16-17",2,5,pass,Courtland Sutton
 3,3,Broncos,2023-09-17,WAS,"L, 33-35",1,5,rush,Jaleel McLaughlin
@@ -11,3 +11,10 @@
 10,10,Broncos,2023-10-01,CHI,"W, 31-28",3,4,pass,Brandon Johnson
 11,11,Broncos,2023-10-01,CHI,"W, 31-28",4,13,pass,Courtland Sutton
 12,12,Broncos,2023-10-01,CHI,"W, 31-28",4,35,fumble,Jonathon Cooper
+13,13,Broncos,2023-10-08,NYJ,"L, 21-31",1,22,pass,Jaleel McLaughlin
+14,14,Broncos,2023-10-08,NYJ,"L, 21-31",4,3,pass,Adam Trautman
+15,15,Broncos,2023-10-12,KAN,"L, 8-19",4,11,pass,Courtland Sutton
+16,16,Broncos,2023-10-22,GNB,"W, 19-17",3,18,pass,Courtland Sutton
+17,17,Broncos,2023-10-29,KAN,"W, 24-9",1,4,pass,Javonte Williams
+18,18,Broncos,2023-10-29,KAN,"W, 24-9",2,11,pass,Jerry Jeudy
+19,19,Broncos,2023-10-29,KAN,"W, 24-9",4,6,pass,Courtland Sutton

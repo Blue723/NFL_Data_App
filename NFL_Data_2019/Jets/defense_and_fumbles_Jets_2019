@@ -1,4 +1,4 @@
-,No.,Team,Player,Age,Pos,G,GS,Int,Def Interceptions Yds,Def Touchdown,Lng,PD,FF,Fmb,FR,Fumbles Yds,Fumbles Touchdown,Sk,Comb,Solo,Ast,TFL,QBHits,Sfty
+,No.,Team,Player,Age,Pos,Games Played,Games Started,Passes Intercepted on Defense,Yards Interceptions were Returned,Interceptions Returned for Touchdowns,Longest Interception Return,Passes Defended by Defensive Player,# Forced Fumble by Opp.,# Fumbled both Lost and Recovered by Own Team,Fumbles Recovered by Original Fumbler,Yards Recovered Fumbles were Returned,Fumbles Recovered for Touchdown,Sacks,Tackles Solo+Assisted,Solo Tackles,Assisted Tackles,Tackles for Loss,Quarterback Hits,Safeties Scored by Player/Team
 33,33,Jets,Jamal Adams,24,SS,14,14,1,61,1,61,7,2,0,1,25,1,6.5,75,61,14,10,13,n/a
 58,58,Jets,James Burgess,25,MLB,10,10,1,2,0,2,5,1,1,1,-4,0,0.5,80,51,29,8,1,1
 46,46,Jets,Neville Hewitt,26,RLB,12,12,2,13,0,9,5,n/a,n/a,n/a,n/a,0,3.0,75,44,31,6,8,n/a

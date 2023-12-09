@@ -1,4 +1,4 @@
-,Rk,Team,Date,Opp,Result,Quarter,Dist,Type,Detail
+,Rank,Team,Date,Opponent,Results,Quarter,Distance,Type,Detail
 1,1,Dolphins,2023-09-10,LAC,"W, 36-34",1,1,rush,Austin Ekeler
 2,2,Dolphins,2023-09-10,LAC,"W, 36-34",2,1,pass,Donald Parham
 3,3,Dolphins,2023-09-10,LAC,"W, 36-34",3,1,rush,Justin Herbert
@@ -13,3 +13,16 @@
 12,12,Dolphins,2023-10-01,BUF,"L, 20-48",2,55,pass,Stefon Diggs
 13,13,Dolphins,2023-10-01,BUF,"L, 20-48",3,13,pass,Stefon Diggs
 14,14,Dolphins,2023-10-01,BUF,"L, 20-48",4,11,rush,Josh Allen
+15,15,Dolphins,2023-10-08,NYG,"W, 31-16",2,102,interception,Jason Pinnock
+16,16,Dolphins,2023-10-15,CAR,"W, 42-21",1,6,rush,Chuba Hubbard
+17,17,Dolphins,2023-10-15,CAR,"W, 42-21",1,8,pass,Adam Thielen
+18,18,Dolphins,2023-10-15,CAR,"W, 42-21",4,61,interception,Troy Hill
+19,19,Dolphins,2023-10-22,PHI,"L, 17-31",2,19,pass,Dallas Goedert
+20,20,Dolphins,2023-10-22,PHI,"L, 17-31",2,1,rush,Jalen Hurts
+21,21,Dolphins,2023-10-22,PHI,"L, 17-31",3,14,pass,A.J. Brown
+22,22,Dolphins,2023-10-22,PHI,"L, 17-31",4,3,rush,Kenneth Gainwell
+23,23,Dolphins,2023-10-29,NWE,"W, 31-17",1,24,pass,Kendrick Bourne
+24,24,Dolphins,2023-10-29,NWE,"W, 31-17",4,3,pass,JuJu Smith-Schuster
+25,25,Dolphins,2023-11-05,KAN,"L, 14-21",1,11,pass,Rashee Rice
+26,26,Dolphins,2023-11-05,KAN,"L, 14-21",2,17,pass,Jerick McKinnon
+27,27,Dolphins,2023-11-05,KAN,"L, 14-21",2,4,fumble,Bryan Cook

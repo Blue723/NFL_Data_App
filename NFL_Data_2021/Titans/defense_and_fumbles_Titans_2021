@@ -1,4 +1,4 @@
-,No.,Team,Player,Age,Pos,G,GS,Int,Def Interceptions Yds,Def Touchdown,Lng,PD,FF,Fmb,FR,Fumbles Yds,Fumbles Touchdown,Sk,Comb,Solo,Ast,TFL,QBHits,Sfty
+,No.,Team,Player,Age,Pos,Games Played,Games Started,Passes Intercepted on Defense,Yards Interceptions were Returned,Interceptions Returned for Touchdowns,Longest Interception Return,Passes Defended by Defensive Player,# Forced Fumble by Opp.,# Fumbled both Lost and Recovered by Own Team,Fumbles Recovered by Original Fumbler,Yards Recovered Fumbles were Returned,Fumbles Recovered for Touchdown,Sacks,Tackles Solo+Assisted,Solo Tackles,Assisted Tackles,Tackles for Loss,Quarterback Hits,Safeties Scored by Player/Team
 31,31,Titans,Kevin Byard,28,SS,17,17,5,66,1,24,13,2,0,1,30,1,1.0,88,57,31,1,4,n/a
 58,58,Titans,Harold Landry,25,ROLB,17,17,n/a,n/a,0,n/a,n/a,1,0,0,0,0,12.0,75,51,24,14,22,n/a
 51,51,Titans,David Long,25,LILB,10,9,2,6,0,6,6,n/a,n/a,n/a,n/a,0,0.0,75,46,29,4,2,n/a

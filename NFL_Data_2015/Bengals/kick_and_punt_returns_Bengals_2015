@@ -1,4 +1,4 @@
-,No.,Team,Player,Age,Pos,G,GS,Ret,Punt Returns Yds,Punt Return TD,Longest Punt Return,Y/R,Rt,Kick Returns Yds,Kick Returns TD,Longest Kickoff Return,Y/Rt,APYd
+,No.,Team,Player,Age,Position,Games Played,Games Started,Punts Returned,Punts Return Yardage,Punts Returned for Touchdown,Longest Punt Return,Yards per Punt Return,Kickoff Returns,Yardage for Kickoffs Returned,Kickoffs Returned for a Touchdown,Longest Kickoff Return,Yards per Kickoff Return,All-purpose Yards
 19,19,Bengals,Brandon Tate,28,WR,16,0,27,171,0,18,6.3,18,413,0,58,22.9,643
 24,24,Bengals,Adam Jones,32,RCB,14,14,16,179,0,35,11.2,10,235,0,49,23.5,428
 30,30,Bengals,Cedric Peerman,29,RB,16,0,n/a,n/a,0,n/a,n/a,4,44,0,20,11.0,44

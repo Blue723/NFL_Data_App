@@ -1,4 +1,4 @@
-,No.,Team,Player,Age,Pos,G,GS,Int,Def Interceptions Yds,Def Touchdown,Lng,PD,FF,Fmb,FR,Fumbles Yds,Fumbles Touchdown,Sk,Comb,Solo,Ast,TFL,QBHits,Sfty
+,No.,Team,Player,Age,Pos,Games Played,Games Started,Passes Intercepted on Defense,Yards Interceptions were Returned,Interceptions Returned for Touchdowns,Longest Interception Return,Passes Defended by Defensive Player,# Forced Fumble by Opp.,# Fumbled both Lost and Recovered by Own Team,Fumbles Recovered by Original Fumbler,Yards Recovered Fumbles were Returned,Fumbles Recovered for Touchdown,Sacks,Tackles Solo+Assisted,Solo Tackles,Assisted Tackles,Tackles for Loss,Quarterback Hits,Safeties Scored by Player/Team
 54,54,49ers,Fred Warner,23,MLB,16,16,1,46,1,46,9,3,0,0,0,0,3.0,118,89,29,7,5,n/a
 57,57,49ers,Dre Greenlaw,22,RLB,16,11,1,47,0,47,2,n/a,n/a,n/a,n/a,0,1.0,92,64,28,3,2,n/a
 20,20,49ers,Jimmie Ward,28,FS,13,13,0,0,0,0,8,n/a,n/a,n/a,n/a,0,1.0,65,51,14,2,0,n/a

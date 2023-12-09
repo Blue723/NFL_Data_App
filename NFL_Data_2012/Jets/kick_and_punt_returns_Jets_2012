@@ -1,4 +1,4 @@
-,No.,Team,Player,Age,Pos,G,GS,Ret,Punt Returns Yds,Punt Return TD,Longest Punt Return,Y/R,Rt,Kick Returns Yds,Kick Returns TD,Longest Kickoff Return,Y/Rt,APYd
+,No.,Team,Player,Age,Position,Games Played,Games Started,Punts Returned,Punts Return Yardage,Punts Returned for Touchdown,Longest Punt Return,Yards per Punt Return,Kickoff Returns,Yardage for Kickoffs Returned,Kickoffs Returned for a Touchdown,Longest Kickoff Return,Yards per Kickoff Return,All-purpose Yards
 25,25,Jets,Joe McKnight,24,RB,15,0,n/a,n/a,0,n/a,n/a,39,1072,1,100,27.5,1269
 11,11,Jets,Jeremy Kerley,24,WR,16,7,19,208,1,68,10.9,n/a,n/a,0,n/a,n/a,1044
 19,19,Jets,Clyde Gates,26,WR,11,2,n/a,n/a,0,n/a,n/a,5,144,0,47,28.8,380

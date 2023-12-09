@@ -1,4 +1,4 @@
-,No.,Team,Player,Age,Pos,G,GS,Int,Def Interceptions Yds,Def Touchdown,Lng,PD,FF,Fmb,FR,Fumbles Yds,Fumbles Touchdown,Sk,Comb,Solo,Ast,TFL,QBHits,Sfty
+,No.,Team,Player,Age,Pos,Games Played,Games Started,Passes Intercepted on Defense,Yards Interceptions were Returned,Interceptions Returned for Touchdowns,Longest Interception Return,Passes Defended by Defensive Player,# Forced Fumble by Opp.,# Fumbled both Lost and Recovered by Own Team,Fumbles Recovered by Original Fumbler,Yards Recovered Fumbles were Returned,Fumbles Recovered for Touchdown,Sacks,Tackles Solo+Assisted,Solo Tackles,Assisted Tackles,Tackles for Loss,Quarterback Hits,Safeties Scored by Player/Team
 58,58,Lions,Jamie Collins,31,RLB/MLB,14,14,1,1,0,1,6,3,0,1,0,0,1.0,101,55,46,6,3,n/a
 21,21,Lions,Tracy Walker,25,SS,15,7,0,0,0,0,4,n/a,n/a,n/a,n/a,0,1.0,87,64,23,5,2,n/a
 26,26,Lions,Duron Harmon,29,FS,16,16,2,22,0,21,5,n/a,n/a,n/a,n/a,0,0.0,73,54,19,0,1,n/a

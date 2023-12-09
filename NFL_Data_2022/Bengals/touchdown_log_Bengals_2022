@@ -1,4 +1,4 @@
-,Rk,Team,Date,Opp,Result,Quarter,Dist,Type,Detail
+,Rank,Team,Date,Opponent,Results,Quarter,Distance,Type,Detail
 1,1,Bengals,2022-09-11,PIT,"L, 20-23",3,2,pass,Tyler Boyd
 2,2,Bengals,2022-09-11,PIT,"L, 20-23",4,6,pass,Ja'Marr Chase
 3,3,Bengals,2022-09-18,DAL,"L, 17-20",4,5,pass,Tee Higgins
@@ -48,4 +48,4 @@
 47,47,Bengals,2022-12-24,NWE,"W, 22-18",2,4,pass,Trenton Irwin
 48,48,Bengals,2023-01-08,BAL,"W, 27-16",1,1,rush,Joe Mixon
 49,49,Bengals,2023-01-08,BAL,"W, 27-16",2,26,pass,Ja'Marr Chase
-50,50,Bengals,2023-01-08,BAL,"W, 27-16",2,0,fumble,Joseph Ossai
+50,50,Bengals,2023-01-08,BAL,"W, 27-16",2,n/a,fumble,Joseph Ossai

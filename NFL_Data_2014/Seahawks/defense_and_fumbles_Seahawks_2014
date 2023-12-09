@@ -1,4 +1,4 @@
-,No.,Team,Player,Age,Pos,G,GS,Int,Def Interceptions Yds,Def Touchdown,Lng,PD,FF,Fmb,FR,Fumbles Yds,Fumbles Touchdown,Sk,Comb,Solo,Ast,TFL,QBHits,Sfty
+,No.,Team,Player,Age,Pos,Games Played,Games Started,Passes Intercepted on Defense,Yards Interceptions were Returned,Interceptions Returned for Touchdowns,Longest Interception Return,Passes Defended by Defensive Player,# Forced Fumble by Opp.,# Fumbled both Lost and Recovered by Own Team,Fumbles Recovered by Original Fumbler,Yards Recovered Fumbles were Returned,Fumbles Recovered for Touchdown,Sacks,Tackles Solo+Assisted,Solo Tackles,Assisted Tackles,Tackles for Loss,Quarterback Hits,Safeties Scored by Player/Team
 50,50,Seahawks,K.J. Wright,25,RLB,16,16,0,0,0,0,4,3,0,1,0,0,2.0,107,73,34,5,2,n/a
 54,54,Seahawks,Bobby Wagner,24,MLB,11,11,0,0,0,0,3,n/a,n/a,n/a,n/a,0,2.0,104,67,37,10,6,n/a
 29,29,Seahawks,Earl Thomas,25,FS,16,16,1,47,0,47,5,4,1,1,0,0,0.0,97,71,26,1,0,n/a

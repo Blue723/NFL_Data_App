@@ -1,4 +1,4 @@
-,Rk,Team,Date,Opp,Result,Quarter,Dist,Type,Detail
+,Rank,Team,Date,Opponent,Results,Quarter,Distance,Type,Detail
 1,1,Cardinals,2022-09-11,KAN,"L, 21-44",2,2,rush,James Conner
 2,2,Cardinals,2022-09-11,KAN,"L, 21-44",4,6,pass,Marquise Brown
 3,3,Cardinals,2022-09-11,KAN,"L, 21-44",4,6,pass,Zach Ertz
@@ -11,7 +11,7 @@
 10,10,Cardinals,2022-10-02,CAR,"W, 26-16",4,23,pass,Marquise Brown
 11,11,Cardinals,2022-10-09,PHI,"L, 17-20",2,25,pass,Marquise Brown
 12,12,Cardinals,2022-10-09,PHI,"L, 17-20",4,11,rush,Eno Benjamin
-13,13,Cardinals,2022-10-16,SEA,"L, 9-19",3,0,fumble,Chris Banjo
+13,13,Cardinals,2022-10-16,SEA,"L, 9-19",3,n/a,fumble,Chris Banjo
 14,14,Cardinals,2022-10-20,NOR,"W, 42-34",2,2,rush,Keaontay Ingram
 15,15,Cardinals,2022-10-20,NOR,"W, 42-34",2,38,interception,Marco Wilson
 16,16,Cardinals,2022-10-20,NOR,"W, 42-34",2,56,interception,Isaiah Simmons

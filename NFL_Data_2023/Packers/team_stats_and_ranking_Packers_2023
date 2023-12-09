@@ -1,5 +1,5 @@
-,Player,Team,PF,Total Yds and TO,Ply,Y/P,TO,FL,1stD,Cmp,Att,Passing Yds,TD,Int,NY/A,1stD,Att,Russhing Yds,TD,Y/A,1stD,Pen,Penalty Yds,1stPy,Dr,Sc%,TO%,Start,Time,Plays,Yds,Pts
-Team Stats,Team Stats,Packers,100,1123,231,4.9,3,0,68,74,132,825,8,3,5.9,42,91,298,3,3.3,16,31,251,10,45,35.6,6.7,Own 30.0,2:24,5.24,24.9,2.04
-Opp. Stats,Opp. Stats,Packers,96,1410,281,5.0,4,1,89,85,131,789,4,3,5.6,42,139,621,5,4.5,41,28,343,6,44,40.9,9.1,Own 28.2,3:00,6.6,32.0,2.05
-Lg Rank Offense,Lg Rank Offense,Packers,10,27,n/a,n/a,7,1,26,n/a,19,19,5,14,19,n/a,26,30,14,29,n/a,n/a,n/a,n/a,n/a,16,26,9,29,30,27,14
-Lg Rank Defense,Lg Rank Defense,Packers,20,21,n/a,n/a,20,18,26,n/a,14,11,8,12,11,n/a,31,30,22,25,n/a,n/a,n/a,n/a,n/a,11,20,17,24,28,21,21
+,Player,Team,Points Scored by Team,Total Yds and TO,Offensic Plays: Pass Attempts + Rush Attempts + Times Sacked,Yards per Offensive Play,Team Turnovers Lost,Fumbles Lost by Player or Team,1stD,Passes Completed,Passes Attempted,Yards Gained by Passing,Passing Touchdowns,Interceptions Thrown,Net Yards Gained per Pass Attempt,First Downs by Passing,Rushing Attempts,Rushing Yards,Rushin Touchdowns,Rushing Yards per Attempt,First Downs by Rushing,Penalties committed by Team and Accepted,Penalties in Yards Committed by Team,First Downs by Penalty,Number of Drives,% of Drives Ending in an Offensive Score,% of Drives Ending in an Offensive Turnover,Average Starting Field Position,Average Time per Drive,Average # of Plays per Drive,Net Yards per Drive,Average Points Scored per Drive
+Team Stats,Team Stats,Packers,160,2400,479,5.0,10,2,143,156,261,1597,12,8,5.7,86,200,803,5,4.0,41,60,481,16,87,32.2,11.5,Own 30.5,2:36,5.66,27.6,1.75
+Opp. Stats,Opp. Stats,Packers,159,2561,524,4.9,8,3,160,166,254,1569,8,5,5.7,84,250,992,7,4.0,62,52,502,14,85,36.5,9.4,Own 28.3,3:00,6.4,30.1,1.80
+Lg Rank Offense,Lg Rank Offense,Packers,20,24,n/a,n/a,12,2,25,n/a,23,22,11,25,22,n/a,22,22,20,19,n/a,n/a,n/a,n/a,n/a,23,17,7,25,25,23,21
+Lg Rank Defense,Lg Rank Defense,Packers,10,11,n/a,n/a,24,27,18,n/a,7,9,3,20,10,n/a,30,23,17,13,n/a,n/a,n/a,n/a,n/a,14,23,15,30,32,15,13

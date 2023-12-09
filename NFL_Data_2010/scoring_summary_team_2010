@@ -1,4 +1,4 @@
-,No.,Team,Player,Age,Pos,G,GS,RshTD,RecTD,PR TD,KR TD,FblTD,IntTD,OthTD,AllTD,2PM,2PA,D2P,XPM,XPA,FGM,FGA,Sfty,Pts,Pts/G
+,No.,Team,Player,Age,Pos,Games Played,Games Started,Rush TD,Reception TD,Punt Return TD,Kick Return TD,Fumble Return TD,Interception TD,Other TD,All Touchdown Scored,2-Point Conversions Made,Two-Point Conversions Attempted,Defensive Two-Point Conversions,Extra Points Made,Extra Points Allowed,Field Goals Made,Field Goals Attempted,Safeties Scored by Player/Team,Total Points Scored by all Means,Poins per Game
 0,6,49ers,Joe Nedney,37,K,9,0,,,,,,,,,,,,17.0,17.0,11.0,13.0,,50,5.6
 1,85,49ers,Vernon Davis,26,TE,16,16,,7.0,,,,,,7.0,1.0,,,,,,,,44,2.8
 2,3,49ers,Jeff Reed,31,K,5,0,,,,,,,,,,,,13.0,13.0,9.0,10.0,,40,8.0

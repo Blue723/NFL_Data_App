@@ -1,4 +1,4 @@
-,Rk,Team,Date,Opp,Result,Quarter,Dist,Type,Detail
+,Rank,Team,Date,Opponent,Results,Quarter,Distance,Type,Detail
 1,1,Titans,2022-09-11,NYG,"L, 20-21",3,4,rush,Saquon Barkley
 2,2,Titans,2022-09-11,NYG,"L, 20-21",3,65,pass,Sterling Shepard
 3,3,Titans,2022-09-11,NYG,"L, 20-21",4,1,pass,Chris Myarick
@@ -33,7 +33,7 @@
 32,32,Titans,2022-12-11,JAX,"L, 22-36",3,21,pass,Evan Engram
 33,33,Titans,2022-12-18,LAC,"L, 14-17",1,1,rush,Joshua Kelley
 34,34,Titans,2022-12-18,LAC,"L, 14-17",4,3,rush,Austin Ekeler
-35,35,Titans,2022-12-24,HOU,"L, 14-19",1,0,fumble,Rex Burkhead
+35,35,Titans,2022-12-24,HOU,"L, 14-19",1,n/a,fumble,Rex Burkhead
 36,36,Titans,2022-12-24,HOU,"L, 14-19",4,6,pass,Brandin Cooks
 37,37,Titans,2022-12-29,DAL,"L, 13-27",1,1,rush,Ezekiel Elliott
 38,38,Titans,2022-12-29,DAL,"L, 13-27",3,6,pass,Dalton Schultz

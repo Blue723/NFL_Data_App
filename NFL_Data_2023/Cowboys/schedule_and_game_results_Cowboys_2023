@@ -1,13 +1,13 @@
-,Week,Team,Day,Date,Time,Win/Loss,OT,Rec,Home/Away,Opp,Tm,Opp,1stD,TotYd,PassY,RushY,TO,1stD,TotYd,PassY,RushY,TO,Offense,Defense,Sp. Tms
+,Week,Team,Day,Date,Time,Win/Loss,Overtime,Team Record,Home/Away,Opponent,Points Scored,Points Allowed,Offense 1st Down,Total Yards Gained of Offense,Total yards Gained by Passing,Total Yards Gained by Rushing,Offense Turnovers,Defense 1st Down,Total Yards Allowed by Defense,Total Passing Yards Allowed by Defense,Total Rushing Yards Allowed by Defense,Defense Turnovers,Offense,Defense,Sp. Tms
 1,1,Cowboys,Sun,September 10,8:20PM ET,W,n/a,1-0,away,New York Giants,40,0,18,265,143,122,n/a,14,171,63,108,3,9.37,27.25,5.36
 2,2,Cowboys,Sun,September 17,4:25PM ET,W,n/a,2-0,home,New York Jets,30,10,26,382,248,134,n/a,12,215,151,64,4,7.01,14.82,-2.25
 3,3,Cowboys,Sun,September 24,4:25PM ET,L,n/a,2-1,away,Arizona Cardinals,16,28,26,416,231,185,1,20,400,178,222,n/a,6.78,-18.46,-1.14
 4,4,Cowboys,Sun,October 1,4:25PM ET,W,n/a,3-1,home,New England Patriots,38,3,22,377,253,124,n/a,10,253,200,53,3,8.01,26.22,0.20
-5,5,Cowboys,Sun,October 8,8:20PM ET,n/a,n/a,n/a,away,San Francisco 49ers,0,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
-6,6,Cowboys,Mon,October 16,8:15PM ET,n/a,n/a,n/a,away,Los Angeles Chargers,0,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+5,5,Cowboys,Sun,October 8,8:20PM ET,L,n/a,3-2,away,San Francisco 49ers,10,42,8,197,140,57,4,25,421,251,170,1,-23.12,-12.84,5.21
+6,6,Cowboys,Mon,October 16,8:15PM ET,W,n/a,4-2,away,Los Angeles Chargers,20,17,20,342,246,96,1,18,272,219,53,1,8.96,1.30,-5.38
 7,7,Cowboys,n/a,n/a,n/a,n/a,n/a,n/a,home,<strong>Bye Week</strong>,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
-8,8,Cowboys,Sun,October 29,1:00PM ET,n/a,n/a,n/a,home,Los Angeles Rams,0,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
-9,9,Cowboys,Sun,November 5,4:25PM ET,n/a,n/a,n/a,away,Philadelphia Eagles,0,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+8,8,Cowboys,Sun,October 29,1:00PM ET,W,n/a,5-2,home,Los Angeles Rams,43,20,24,387,285,102,1,15,280,188,92,1,15.46,8.68,1.87
+9,9,Cowboys,Sun,November 5,4:25PM ET,L,n/a,5-3,away,Philadelphia Eagles,23,28,27,406,333,73,1,20,292,183,109,n/a,10.90,-15.00,-2.75
 10,10,Cowboys,Sun,November 12,4:25PM ET,n/a,n/a,n/a,home,New York Giants,0,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
 11,11,Cowboys,Sun,November 19,1:00PM ET,n/a,n/a,n/a,away,Carolina Panthers,0,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
 12,12,Cowboys,Thu,November 23,4:30PM ET,n/a,n/a,n/a,home,Washington Commanders,0,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a

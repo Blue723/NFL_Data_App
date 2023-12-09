@@ -1,4 +1,4 @@
-,No.,Team,Player,Age,Pos,G,GS,Int,Def Interceptions Yds,Def Touchdown,Lng,PD,FF,Fmb,FR,Fumbles Yds,Fumbles Touchdown,Sk,Comb,Solo,Ast,TFL,QBHits,Sfty
+,No.,Team,Player,Age,Pos,Games Played,Games Started,Passes Intercepted on Defense,Yards Interceptions were Returned,Interceptions Returned for Touchdowns,Longest Interception Return,Passes Defended by Defensive Player,# Forced Fumble by Opp.,# Fumbled both Lost and Recovered by Own Team,Fumbles Recovered by Original Fumbler,Yards Recovered Fumbles were Returned,Fumbles Recovered for Touchdown,Sacks,Tackles Solo+Assisted,Solo Tackles,Assisted Tackles,Tackles for Loss,Quarterback Hits,Safeties Scored by Player/Team
 0,52,49ers,Patrick Willis,25,RILB,15,15,0.0,0.0,0,0.0,5.0,2.0,0.0,0.0,0.0,0.0,6.0,128.0,101.0,27.0,9.0,7.0,
 1,51,49ers,Takeo Spikes,34,LILB,16,16,3.0,9.0,0,6.0,9.0,0.0,0.0,1.0,8.0,0.0,0.0,109.0,82.0,27.0,3.0,2.0,
 2,22,49ers,Nate Clements,31,RCB,16,16,3.0,46.0,0,39.0,10.0,3.0,1.0,0.0,0.0,0.0,1.0,82.0,72.0,10.0,8.0,1.0,

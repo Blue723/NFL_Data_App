@@ -1,6 +1,11 @@
-,Rk,Team,Date,Opp,Result,Quarter,Dist,Type,Detail
+,Rank,Team,Date,Opponent,Results,Quarter,Distance,Type,Detail
 1,1,Giants,2023-09-17,ARI,"W, 31-28",3,14,rush,Daniel Jones
 2,2,Giants,2023-09-17,ARI,"W, 31-28",3,1,rush,Saquon Barkley
 3,3,Giants,2023-09-17,ARI,"W, 31-28",4,9,pass,Saquon Barkley
 4,4,Giants,2023-09-17,ARI,"W, 31-28",4,11,pass,Isaiah Hodgins
 5,5,Giants,2023-09-21,SFO,"L, 12-30",3,8,rush,Matt Breida
+6,6,Giants,2023-10-08,MIA,"L, 16-31",2,102,interception,Jason Pinnock
+7,7,Giants,2023-10-22,WAS,"W, 14-7",2,15,pass,Darren Waller
+8,8,Giants,2023-10-22,WAS,"W, 14-7",2,32,pass,Saquon Barkley
+9,9,Giants,2023-10-29,NYJ,"L, 10-13",3,6,rush,Tommy DeVito
+10,10,Giants,2023-11-05,LVR,"L, 6-30",4,9,pass,Wan'Dale Robinson

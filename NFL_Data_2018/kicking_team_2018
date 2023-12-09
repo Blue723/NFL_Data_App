@@ -1,4 +1,4 @@
-,No.,Team,Player,Age,Pos,G,GS,FGA 0-19,FGM 0-19,FGA 20-29,FGM 20-29,FGA 30-39,FGM 30-39,FGA 40-49,FGM 40-49,FGA 50+,FGM 50+,FGA,FGM,Lng,FG%,XPA,XPM,XP%,KO,KOYds,TB,TB%,KOAvg
+,No.,Team,Player,Age,Position,Games Played,Games Started,FGA 0-19,FGM 0-19,FGA 20-29,FGM 20-29,FGA 30-39,FGM 30-39,FGA 40-49,FGM 40-49,FGA 50+,FGM 50+,Field Goals Attempted,Field Goals Made,Longest Field Goal Made,% of Field Goals Made,Extra Points Attempted,Extra Points Made,Extra Point Percentage,Kickoffs,Kickoff Yards,Kickoff Touchbacks,% Kickoff was a Touchback,Kickoff Average Yardage
 0,9,49ers,Robbie Gould,36,K,16,0,,,9.0,9.0,13.0,13.0,10.0,9.0,2.0,2.0,34.0,33.0,53.0,97.1%,29.0,27.0,93.1%,4.0,102.0,,,25.5
 1,5,49ers,Bradley Pinion,24,P,16,0,,,,,,,,,,,,,,,,,,77.0,4963.0,52.0,67.5%,64.5
 2,1,Bears,Cody Parkey,26,K,16,0,,,6.0,6.0,10.0,7.0,12.0,9.0,2.0,1.0,30.0,23.0,50.0,76.7%,45.0,42.0,93.3%,89.0,5627.0,65.0,73.0%,63.2

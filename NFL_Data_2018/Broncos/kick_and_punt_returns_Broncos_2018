@@ -1,4 +1,4 @@
-,No.,Team,Player,Age,Pos,G,GS,Ret,Punt Returns Yds,Punt Return TD,Longest Punt Return,Y/R,Rt,Kick Returns Yds,Kick Returns TD,Longest Kickoff Return,Y/Rt,APYd
+,No.,Team,Player,Age,Position,Games Played,Games Started,Punts Returned,Punts Return Yardage,Punts Returned for Touchdown,Longest Punt Return,Yards per Punt Return,Kickoff Returns,Yardage for Kickoffs Returned,Kickoffs Returned for a Touchdown,Longest Kickoff Return,Yards per Kickoff Return,All-purpose Yards
 11,11,Broncos,River Cracraft,24,WR,8,0,12,40,0,20,3.3,3,43,0,23,14.3,127
 24,24,Broncos,Adam Jones,35,DB,7,2,10,25,0,10,2.5,4,85,0,25,21.3,110
 23,23,Broncos,Devontae Booker,26,RB,16,0,n/a,n/a,0,n/a,n/a,10,234,0,35,23.4,692

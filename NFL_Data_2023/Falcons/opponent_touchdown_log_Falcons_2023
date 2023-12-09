@@ -1,4 +1,4 @@
-,Rk,Team,Date,Opp,Result,Quarter,Dist,Type,Detail
+,Rank,Team,Date,Opponent,Results,Quarter,Distance,Type,Detail
 1,1,Falcons,2023-09-10,CAR,"W, 24-10",2,4,pass,Hayden Hurst
 2,2,Falcons,2023-09-17,GNB,"W, 25-24",2,9,pass,Jayden Reed
 3,3,Falcons,2023-09-17,GNB,"W, 25-24",3,32,pass,Dontayvion Wicks
@@ -7,3 +7,15 @@
 6,6,Falcons,2023-09-24,DET,"L, 6-20",4,3,rush,Jared Goff
 7,7,Falcons,2023-10-01,JAX,"L, 7-23",1,30,pass,Calvin Ridley
 8,8,Falcons,2023-10-01,JAX,"L, 7-23",2,61,interception,Darious Williams
+9,9,Falcons,2023-10-08,HOU,"W, 21-19",4,18,pass,Dalton Schultz
+10,10,Falcons,2023-10-15,WAS,"L, 16-24",2,1,pass,Antonio Gibson
+11,11,Falcons,2023-10-15,WAS,"L, 16-24",2,7,pass,Curtis Samuel
+12,12,Falcons,2023-10-15,WAS,"L, 16-24",3,24,pass,Brian Robinson Jr.
+13,13,Falcons,2023-10-22,TAM,"W, 16-13",1,40,pass,Mike Evans
+14,14,Falcons,2023-10-29,TEN,"L, 23-28",1,47,pass,DeAndre Hopkins
+15,15,Falcons,2023-10-29,TEN,"L, 23-28",2,16,pass,DeAndre Hopkins
+16,16,Falcons,2023-10-29,TEN,"L, 23-28",3,61,pass,DeAndre Hopkins
+17,17,Falcons,2023-10-29,TEN,"L, 23-28",4,33,pass,Nick Westbrook-Ikhine
+18,18,Falcons,2023-11-05,MIN,"L, 28-31",2,2,pass,Alexander Mattison
+19,19,Falcons,2023-11-05,MIN,"L, 28-31",3,18,rush,Joshua Dobbs
+20,20,Falcons,2023-11-05,MIN,"L, 28-31",4,6,pass,Brandon Powell

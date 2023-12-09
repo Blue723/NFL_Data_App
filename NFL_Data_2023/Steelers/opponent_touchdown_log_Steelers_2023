@@ -1,4 +1,4 @@
-,Rk,Team,Date,Opp,Result,Quarter,Dist,Type,Detail
+,Rank,Team,Date,Opponent,Results,Quarter,Distance,Type,Detail
 1,1,Steelers,2023-09-10,SFO,"L, 7-30",1,8,pass,Brandon Aiyuk
 2,2,Steelers,2023-09-10,SFO,"L, 7-30",2,19,pass,Brandon Aiyuk
 3,3,Steelers,2023-09-10,SFO,"L, 7-30",3,65,rush,Christian McCaffrey
@@ -9,3 +9,8 @@
 8,8,Steelers,2023-10-01,HOU,"L, 6-30",1,2,pass,Nico Collins
 9,9,Steelers,2023-10-01,HOU,"L, 6-30",4,6,pass,Dalton Schultz
 10,10,Steelers,2023-10-01,HOU,"L, 6-30",4,52,pass,Nico Collins
+11,11,Steelers,2023-10-08,BAL,"W, 17-10",1,14,rush,Justice Hill
+12,12,Steelers,2023-10-22,LAR,"W, 24-17",2,31,pass,Tutu Atwell
+13,13,Steelers,2023-10-22,LAR,"W, 24-17",3,1,rush,Darrell Henderson
+14,14,Steelers,2023-10-29,JAX,"L, 10-20",3,56,pass,Travis Etienne
+15,15,Steelers,2023-11-02,TEN,"W, 20-16",2,2,rush,Derrick Henry

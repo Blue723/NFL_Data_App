@@ -1,4 +1,4 @@
-,Rk,Team,Date,Opp,Result,Quarter,Dist,Type,Detail
+,Rank,Team,Date,Opponent,Results,Quarter,Distance,Type,Detail
 1,1,Dolphins,2022-09-11,NWE,"W, 20-7",2,2,fumble,Melvin Ingram
 2,2,Dolphins,2022-09-11,NWE,"W, 20-7",2,42,pass,Jaylen Waddle
 3,3,Dolphins,2022-09-18,BAL,"W, 42-38",2,6,pass,Jaylen Waddle
@@ -35,7 +35,7 @@
 34,34,Dolphins,2022-11-27,HOU,"W, 30-15",2,16,fumble,Xavien Howard
 35,35,Dolphins,2022-12-04,SFO,"L, 17-33",1,75,pass,Trent Sherfield
 36,36,Dolphins,2022-12-04,SFO,"L, 17-33",4,45,pass,Tyreek Hill
-37,37,Dolphins,2022-12-11,LAC,"L, 17-23",2,0,fumble,Tyreek Hill
+37,37,Dolphins,2022-12-11,LAC,"L, 17-23",2,n/a,fumble,Tyreek Hill
 38,38,Dolphins,2022-12-11,LAC,"L, 17-23",3,60,pass,Tyreek Hill
 39,39,Dolphins,2022-12-17,BUF,"L, 29-32",2,11,rush,Salvon Ahmed
 40,40,Dolphins,2022-12-17,BUF,"L, 29-32",3,67,pass,Jaylen Waddle

@@ -1,4 +1,4 @@
-,Rk,Team,Date,Opp,Result,Quarter,Dist,Type,Detail
+,Rank,Team,Date,Opponent,Results,Quarter,Distance,Type,Detail
 1,1,Browns,2023-09-10,CIN,"W, 24-3",2,13,rush,Deshaun Watson
 2,2,Browns,2023-09-10,CIN,"W, 24-3",4,3,pass,Harrison Bryant
 3,3,Browns,2023-09-18,PIT,"L, 22-26",2,3,pass,Jerome Ford
@@ -6,3 +6,13 @@
 5,5,Browns,2023-09-24,TEN,"W, 27-3",2,19,pass,Jerome Ford
 6,6,Browns,2023-09-24,TEN,"W, 27-3",3,3,rush,Jerome Ford
 7,7,Browns,2023-09-24,TEN,"W, 27-3",4,43,pass,Amari Cooper
+8,8,Browns,2023-10-15,SFO,"W, 19-17",2,16,rush,Kareem Hunt
+9,9,Browns,2023-10-22,IND,"W, 39-38",1,69,rush,Jerome Ford
+10,10,Browns,2023-10-22,IND,"W, 39-38",2,2,rush,Kareem Hunt
+11,11,Browns,2023-10-22,IND,"W, 39-38",2,0,fumble,Tony Fields
+12,12,Browns,2023-10-22,IND,"W, 39-38",4,1,rush,Kareem Hunt
+13,13,Browns,2023-10-29,SEA,"L, 20-24",1,18,pass,David Njoku
+14,14,Browns,2023-10-29,SEA,"L, 20-24",2,1,rush,Kareem Hunt
+15,15,Browns,2023-11-05,ARI,"W, 27-0",2,11,pass,Amari Cooper
+16,16,Browns,2023-11-05,ARI,"W, 27-0",3,5,pass,David Njoku
+17,17,Browns,2023-11-05,ARI,"W, 27-0",4,3,rush,Kareem Hunt

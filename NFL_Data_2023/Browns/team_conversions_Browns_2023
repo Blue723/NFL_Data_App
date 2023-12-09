@@ -1,5 +1,5 @@
-,Player,Team,3DAtt,3DConv,3D%,4DAtt,4DConv,4D%,RZAtt,RZTD,RZPct
-Team Stats,Team Stats,Browns,59,19,32.2,4,2,50.0,10,6,60.0
-Opp. Stats,Opp. Stats,Browns,53,12,22.6,3,2,66.7,6,4,66.7
-Lg Rank Offense,Lg Rank Offense,Browns,n/a,n/a,28,n/a,n/a,16,n/a,n/a,11
-Lg Rank Defense,Lg Rank Defense,Browns,n/a,n/a,1,n/a,n/a,20,n/a,n/a,23
+,Player,Team,3rd Down Attempts in Game,3rd Down Conversions,3rd Down Conversion %,4th Down Attempts in Game,4th Down Conversions in Game,4th Down Conversion %,Red Zone Attempts,Touchdowns Scored After the Team Entered the Red Zone,% of the Time a Team Reaches the Red Zone and Scores a Touchdown
+Team Stats,Team Stats,Browns,120,38,31.7,10,5,50.0,22,14,63.6
+Opp. Stats,Opp. Stats,Browns,104,27,26.0,5,3,60.0,18,12,66.7
+Lg Rank Offense,Lg Rank Offense,Browns,n/a,n/a,31,n/a,n/a,13,n/a,n/a,7
+Lg Rank Defense,Lg Rank Defense,Browns,n/a,n/a,1,n/a,n/a,23,n/a,n/a,29

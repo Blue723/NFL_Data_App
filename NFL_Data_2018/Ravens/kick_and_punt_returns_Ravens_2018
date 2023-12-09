@@ -1,4 +1,4 @@
-,No.,Team,Player,Age,Pos,G,GS,Ret,Punt Returns Yds,Punt Return TD,Longest Punt Return,Y/R,Rt,Kick Returns Yds,Kick Returns TD,Longest Kickoff Return,Y/Rt,APYd
+,No.,Team,Player,Age,Position,Games Played,Games Started,Punts Returned,Punts Return Yardage,Punts Returned for Touchdown,Longest Punt Return,Yards per Punt Return,Kickoff Returns,Yardage for Kickoffs Returned,Kickoffs Returned for a Touchdown,Longest Kickoff Return,Yards per Kickoff Return,All-purpose Yards
 10,10,Ravens,Chris Moore,25,WR,16,0,n/a,n/a,0,n/a,n/a,22,491,0,39,22.3,704
 27,27,Ravens,Cyrus Jones,25,DB,11,0,18,259,1,70,14.4,1,12,0,12,12.0,271
 14,14,Ravens,Tim White,24,WR,3,0,9,75,0,14,8.3,6,135,0,37,22.5,224

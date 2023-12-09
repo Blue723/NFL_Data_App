@@ -1,4 +1,4 @@
-,No.,Team,Player,Age,Pos,G,GS,FGA 0-19,FGM 0-19,FGA 20-29,FGM 20-29,FGA 30-39,FGM 30-39,FGA 40-49,FGM 40-49,FGA 50+,FGM 50+,FGA,FGM,Lng,FG%,XPA,XPM,XP%,KO,KOYds,TB,TB%,KOAvg
+,No.,Team,Player,Age,Position,Games Played,Games Started,FGA 0-19,FGM 0-19,FGA 20-29,FGM 20-29,FGA 30-39,FGM 30-39,FGA 40-49,FGM 40-49,FGA 50+,FGM 50+,Field Goals Attempted,Field Goals Made,Longest Field Goal Made,% of Field Goals Made,Extra Points Attempted,Extra Points Made,Extra Point Percentage,Kickoffs,Kickoff Yards,Kickoff Touchbacks,% Kickoff was a Touchback,Kickoff Average Yardage
 0,9,49ers,Phil Dawson,38,K,16,0,,,13.0,12.0,6.0,6.0,11.0,10.0,6.0,4.0,36.0,32.0,56.0,88.9%,44.0,44.0,100.0%,91.0,5896.0,38.0,41.8%,64.8
 1,4,49ers,Andy Lee,31,P,16,0,,,,,,,,,,,,,,,,,,1.0,53.0,,,53.0
 2,9,Bears,Robbie Gould,31,K,16,0,,,11.0,11.0,7.0,6.0,7.0,6.0,4.0,3.0,29.0,26.0,58.0,89.7%,46.0,45.0,97.8%,89.0,5228.0,38.0,42.7%,58.7

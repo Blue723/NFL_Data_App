@@ -1,4 +1,4 @@
-,No.,Team,Player,Age,Pos,G,GS,Int,Def Interceptions Yds,Def Touchdown,Lng,PD,FF,Fmb,FR,Fumbles Yds,Fumbles Touchdown,Sk,Comb,Solo,Ast,TFL,QBHits,Sfty
+,No.,Team,Player,Age,Pos,Games Played,Games Started,Passes Intercepted on Defense,Yards Interceptions were Returned,Interceptions Returned for Touchdowns,Longest Interception Return,Passes Defended by Defensive Player,# Forced Fumble by Opp.,# Fumbled both Lost and Recovered by Own Team,Fumbles Recovered by Original Fumbler,Yards Recovered Fumbles were Returned,Fumbles Recovered for Touchdown,Sacks,Tackles Solo+Assisted,Solo Tackles,Assisted Tackles,Tackles for Loss,Quarterback Hits,Safeties Scored by Player/Team
 56,56,Saints,Demario Davis,30,LLB,16,16,1,1,0,1,12,n/a,n/a,n/a,n/a,0,4.0,111,87,24,11,9,n/a
 24,24,Saints,Vonn Bell,25,SS,13,13,1,19,0,19,5,2,0,5,38,1,1.5,89,66,23,4,4,n/a
 53,53,Saints,A.J. Klein,28,RLB,15,15,1,14,1,14,2,1,0,0,0,0,2.5,69,47,22,5,5,n/a

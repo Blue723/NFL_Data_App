@@ -1,4 +1,4 @@
-,Week,Team,Day,Date,Time,Win/Loss,OT,Rec,Home/Away,Opp,Tm,Opp.1,1stD,TotYd,PassY,RushY,TO,1stD.1,TotYd.1,PassY.1,RushY.1,TO.1,Offense,Defense,Sp. Tms
+,Week,Team,Day,Date,Time,Win/Loss,Overtime,Team Record,Home/Away,Opponent,Points Scored,Points Allowed,Offense 1st Down,Total Yards Gained of Offense,Total yards Gained by Passing,Total Yards Gained by Rushing,Offense Turnovers,Defense 1st Down,Total Yards Allowed by Defense,Total Passing Yards Allowed by Defense,Total Rushing Yards Allowed by Defense,Defense Turnovers,Offense,Defense,Sp. Tms
 0,1,49ers,Sun,September 11,1:00PM ET,L,,0-1,away,Chicago Bears,10.0,19.0,17.0,331.0,155.0,176.0,2.0,15.0,204.0,105.0,99.0,1.0,-11.26,-0.67,0.42
 1,2,49ers,Sun,September 18,4:05PM ET,W,,1-1,home,Seattle Seahawks,27.0,7.0,25.0,373.0,184.0,189.0,,14.0,216.0,180.0,36.0,3.0,16.39,9.18,-7.67
 2,3,49ers,Sun,September 25,8:20PM ET,L,,1-2,away,Denver Broncos,10.0,11.0,13.0,267.0,179.0,88.0,3.0,14.0,261.0,160.0,101.0,,-16.39,13.59,-1.26
@@ -443,7 +443,7 @@
 441,12,Patriots,Thu,November 24,8:20PM ET,L,,6-5,away,Minnesota Vikings,26.0,33.0,17.0,409.0,364.0,45.0,,23.0,358.0,301.0,57.0,1.0,11.53,-9.14,-7.59
 442,13,Patriots,Thu,December 1,8:15PM ET,L,,6-6,home,Buffalo Bills,10.0,24.0,14.0,242.0,182.0,60.0,,22.0,355.0,223.0,132.0,1.0,-1.41,-9.5,-3.26
 443,14,Patriots,Mon,December 12,8:15PM ET,W,,7-6,away,Arizona Cardinals,27.0,13.0,18.0,328.0,225.0,103.0,1.0,19.0,323.0,210.0,113.0,2.0,-0.47,17.43,-0.9
-444,15,Patriots,Sun,December 18,8:20PM ET,L,,7-7,away,Las Vegas Raiders,24.0,30.0,19.0,318.0,112.0,206.0,1.0,18.0,308.0,211.0,97.0,1.0,-7.82,2.33,-2.58
+444,15,Patriots,Sun,December 18,4:05PM ET,L,,7-7,away,Las Vegas Raiders,24.0,30.0,19.0,318.0,112.0,206.0,1.0,18.0,308.0,211.0,97.0,1.0,-7.82,2.33,-2.58
 445,16,Patriots,Sat,December 24,1:00PM ET,L,,7-8,home,Cincinnati Bengals,18.0,22.0,15.0,285.0,224.0,61.0,1.0,28.0,442.0,369.0,73.0,3.0,-5.0,-0.86,-1.12
 446,17,Patriots,Sun,January 1,1:00PM ET,W,,8-8,home,Miami Dolphins,23.0,21.0,14.0,249.0,173.0,76.0,,21.0,333.0,247.0,86.0,2.0,-1.2,1.36,1.03
 447,18,Patriots,Sun,January 8,1:00PM ET,L,,8-9,away,Buffalo Bills,23.0,35.0,20.0,341.0,234.0,107.0,3.0,18.0,327.0,237.0,90.0,3.0,-2.57,-5.28,-7.7
@@ -461,7 +461,7 @@
 459,12,Raiders,Sun,November 27,4:05PM ET,W,OT,4-7,away,Seattle Seahawks,40.0,34.0,27.0,576.0,293.0,283.0,2.0,22.0,372.0,307.0,65.0,2.0,16.24,-6.66,-6.76
 460,13,Raiders,Sun,December 4,4:25PM ET,W,,5-7,home,Los Angeles Chargers,27.0,20.0,21.0,404.0,250.0,154.0,2.0,22.0,386.0,314.0,72.0,1.0,5.34,-0.15,-1.56
 461,14,Raiders,Thu,December 8,8:15PM ET,L,,5-8,away,Los Angeles Rams,16.0,17.0,17.0,302.0,137.0,165.0,2.0,20.0,282.0,211.0,71.0,1.0,0.55,-5.59,4.09
-462,15,Raiders,Sun,December 18,8:20PM ET,W,,6-8,home,New England Patriots,30.0,24.0,18.0,308.0,211.0,97.0,1.0,19.0,318.0,112.0,206.0,1.0,-2.33,7.82,2.58
+462,15,Raiders,Sun,December 18,4:05PM ET,W,,6-8,home,New England Patriots,30.0,24.0,18.0,308.0,211.0,97.0,1.0,19.0,318.0,112.0,206.0,1.0,-2.33,7.82,2.58
 463,16,Raiders,Sat,December 24,8:15PM ET,L,,6-9,away,Pittsburgh Steelers,10.0,13.0,13.0,201.0,143.0,58.0,3.0,19.0,350.0,244.0,106.0,1.0,-9.12,-2.33,5.58
 464,17,Raiders,Sun,January 1,4:05PM ET,L,OT,6-10,home,San Francisco 49ers,34.0,37.0,29.0,500.0,365.0,135.0,2.0,27.0,454.0,284.0,170.0,1.0,13.83,-23.25,6.49
 465,18,Raiders,Sat,January 7,4:30PM ET,L,,6-11,home,Kansas City Chiefs,13.0,31.0,21.0,279.0,180.0,99.0,2.0,21.0,349.0,181.0,168.0,,-5.67,-16.83,1.37
