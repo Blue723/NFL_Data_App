@@ -2,9 +2,9 @@ import os
 import re
 
 import pandas as pd
-
-#import plotly.express as px
 import streamlit as st
+
+import plotly.express as px
 
 #years
 years = range(2010,2024)
