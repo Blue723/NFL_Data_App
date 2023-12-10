@@ -144,10 +144,10 @@ select_column = st.sidebar.selectbox('Columns', select_df.columns[1:])
 st.header(select_column)
 
 #graphs
-c1, c2 = st.columns((5,5))
+plot_spot = st.empty()
 
 #barchart
-with c1:
+with plot_spot:
     fig1 = px.bar(select_df, x=select_df[select_column], y=select_df[select_column].index)
 
     st.plotly_chart(fig1)
