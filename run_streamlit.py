@@ -144,9 +144,7 @@ select_column = st.sidebar.selectbox('Columns', select_df.columns[1:])
 st.header(select_column)
 
 #graphs
-
 c1, c2 = st.columns((5,5))
-c3 = st.columns((5,5))
 
 #barchart
 with c1:
@@ -159,32 +157,12 @@ with c2:
     fig2 = px.pie(data_frame=select_df, values=select_df[select_column], names=select_df[select_column].index)
 
     st.plotly_chart(fig2)
-
+    
+c3, c4 = st.columns((5,5))
 
 if select_table == 'schedule_and_game_results' or select_table == 'touchdown_log' or select_table == 'opponent_touchdown_log':
     #line plot
     with c3:
-        fig1 = px.line(select_df, x=select_df['Date'], y=select_df[select_column].values)
+        fig3 = px.line(select_df, x=select_df['Date'], y=select_df[select_column].values)
 
-        st.plotly_chart(fig1)
-    
-    
-
-#if table selected, show dataframe dashboard. 
-#if select_table == select_table_name_li[0]:
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+        st.plotly_chart(fig3)
