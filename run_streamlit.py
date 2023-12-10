@@ -2,9 +2,10 @@ import os
 import re
 
 import pandas as pd
-import streamlit as st
 
 import plotly.express as px
+
+import streamlit as st
 
 #years
 years = range(2010,2024)
@@ -144,10 +145,12 @@ select_column = st.sidebar.selectbox('Columns', select_df.columns[1:])
 st.header(select_column)
 
 #graphs
-plot_spot = st.empty()
+
+c1, c2 = st.columns((5,5))
+c3 = st.columns((5,5))
 
 #barchart
-with plot_spot:
+with c1:
     fig1 = px.bar(select_df, x=select_df[select_column], y=select_df[select_column].index)
 
     st.plotly_chart(fig1)
@@ -157,7 +160,7 @@ with c2:
     fig2 = px.pie(data_frame=select_df, values=select_df[select_column], names=select_df[select_column].index)
 
     st.plotly_chart(fig2)
-    
+
 c3, c4 = st.columns((5,5))
 
 if select_table == 'schedule_and_game_results' or select_table == 'touchdown_log' or select_table == 'opponent_touchdown_log':
