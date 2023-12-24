@@ -1,3 +1,4 @@
+#pipreq in linux to create requirements.txt file
 import os
 import re
 
@@ -147,7 +148,6 @@ st.header(select_column)
 #graphs
 
 c1, c2 = st.columns((5,5))
-c3 = st.columns((5,5))
 
 #barchart
 with c1:
@@ -161,6 +161,9 @@ with c2:
 
     st.plotly_chart(fig2)
 
+    
+    
+    
 c3, c4 = st.columns((5,5))
 
 if select_table == 'schedule_and_game_results' or select_table == 'touchdown_log' or select_table == 'opponent_touchdown_log':
@@ -169,3 +172,10 @@ if select_table == 'schedule_and_game_results' or select_table == 'touchdown_log
         fig3 = px.line(select_df, x=select_df['Date'], y=select_df[select_column].values)
 
         st.plotly_chart(fig3)
+        
+        
+        
+        
+        
+        
+        
