@@ -1,4 +1,3 @@
-#change
 #pipreq in linux to create requirements.txt file
 import os
 import re
@@ -8,6 +7,22 @@ import pandas as pd
 import plotly.express as px
 
 import streamlit as st
+
+import pyodbc
+
+import sqlalchemy as sal
+from sqlalchemy import create_engine
+from sqlalchemy.sql import text
+
+#sql connection
+# connection link varaibles
+servername = '*****'
+dbname = 'NFL_Data'
+trusted_conneciton = '?trusted_conneciton=yes'
+driver = '&driver=ODBC+Driver+17+for+SQL+Server'
+
+#create engine url to connect to sql server
+engine = create_engine(f'mssql+pyodbc://@{servername}/{dbname}{trusted_conneciton}{driver}')
 
 #years
 years = range(2010,2024)
@@ -97,45 +112,22 @@ select_table = st.sidebar.selectbox('Tables', select_table_name_li)
 #select team
 select_team = st.sidebar.selectbox('Teams', team_names)
 
+def query_team_year(select_table: str, year: int, team: str, con: str):
 
-#selected file path by year and table
-def selected_file_path(select_year: int, select_table: str):
-    
-    select_file_str = select_table+'_team'+'_'+'{}'.format(select_year)
-    
-    file_path = "NFL_Data_{}/".format(select_year)+select_file_str
+    query = f'select * from {select_table} where Year = {year} and Team = \'{select_team}\';'
 
-    return file_path
-
-#the file path to select the table from local files
-file_path = selected_file_path(select_year=select_year, select_table=select_table)
-
-
-#cache data
-@st.cache_data(persist=True)
-
-#select table
-def select_table_df(file_path: str, select_team: str):
-    #uses assigned index col if df does not have 'Player' column
-    try:
-        select_file = pd.read_csv(file_path, index_col='Player')
-    except:
-        select_file = pd.read_csv(file_path, index_col=1)
-
-    select_file = select_file.drop(columns=['Unnamed: 0'], axis=1)
-    
-    df = select_file[select_file['Team']==select_team]
+    df = pd.read_sql(query, con, index_col='index')
 
     return df
-
-
+    
 #Main area
 
 #title
 st.title('NFL Data {} {}'.format(select_team, select_year))
 
-#selected dataframe
-select_df = select_table_df(file_path, select_team)
+#select dataframe
+select_df = query_team_year(select_table, select_year, select_team, engine)
+
 
 #show dataframe
 st.write(select_df)
