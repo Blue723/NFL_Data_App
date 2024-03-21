@@ -1,5 +1,5 @@
-,No.,Team,Player,Age,Position,Games Played,Games Started,FGA 0-19,FGM 0-19,FGA 20-29,FGM 20-29,FGA 30-39,FGM 30-39,FGA 40-49,FGM 40-49,FGA 50+,FGM 50+,Field Goals Attempted,Field Goals Made,Longest Field Goal Made,% of Field Goals Made,Extra Points Attempted,Extra Points Made,Extra Point Percentage,Kickoffs,Kickoff Yards,Kickoff Touchbacks,% Kickoff was a Touchback,Kickoff Average Yardage
-2,2,Bengals,Mike Nugent,28,K,9,0,n/a,n/a,5,5,7,7,3,1,4,2,19,15,54,78.9%,17,17,100.0%,44,2765,7,15.9%,62.8
-3,3,Bengals,Clint Stitser,25,K,5,0,n/a,n/a,5,4,2,2,1,1,n/a,n/a,8,7,47,87.5%,10,8,80.0%,23,1312,n/a,n/a,57.0
-4,4,Bengals,Aaron Pettrey,24,K,2,0,1,1,2,1,n/a,n/a,1,n/a,n/a,n/a,4,2,28,50.0%,5,5,100.0%,8,491,1,12.5%,61.4
-10,10,Bengals,Kevin Huber,25,P,16,0,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,1,62,n/a,n/a,62.0
+,No.,Team,Player,Age,Position,Games Played,Games Started,FGA 0-19,FGM 0-19,FGA 20-29,FGM 20-29,FGA 30-39,FGM 30-39,FGA 40-49,FGM 40-49,FGA 50+,FGM 50+,Field Goals Attempted,Field Goals Made,Longest Field Goal Made,Per. of Field Goals Made,Extra Points Attempted,Extra Points Made,Extra Point Per.,Kickoffs,Kickoff Yards,Kickoff Touchbacks,Per. Kickoff was a Touchback,Kickoff Average Yardage,Year
+0,2,Bengals,Mike Nugent,28,K,9,0,0,0,5,5,7,7,3,1,4,2,19,15,54,78.9,17,17,100.0,44,2765,7,15.9,62.8,2010
+1,3,Bengals,Clint Stitser,25,K,5,0,0,0,5,4,2,2,1,1,0,0,8,7,47,87.5,10,8,80.0,23,1312,0,0.0,57.0,2010
+2,4,Bengals,Aaron Pettrey,24,K,2,0,1,1,2,1,0,0,1,0,0,0,4,2,28,50.0,5,5,100.0,8,491,1,12.5,61.4,2010
+3,10,Bengals,Kevin Huber,25,P,16,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0.0,1,62,0,0.0,62.0,2010

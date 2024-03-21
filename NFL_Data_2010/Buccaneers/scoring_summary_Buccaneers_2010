@@ -1,17 +1,17 @@
-,No.,Team,Player,Age,Pos,Games Played,Games Started,Rush TD,Reception TD,Punt Return TD,Kick Return TD,Fumble Return TD,Interception TD,Other TD,All Touchdown Scored,2-Point Conversions Made,Two-Point Conversions Attempted,Defensive Two-Point Conversions,Extra Points Made,Extra Points Allowed,Field Goals Made,Field Goals Attempted,Safeties Scored by Player/Team,Total Points Scored by all Means,Poins per Game
-10,10,Buccaneers,Connor Barth,24,K,16,0,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,36,36,23,28,n/a,105,6.6
-19,19,Buccaneers,Mike Williams,23,WR,16,16,n/a,11,n/a,n/a,n/a,n/a,n/a,11,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,66,4.1
-27,27,Buccaneers,LeGarrette Blount,24,RB,13,7,6,n/a,n/a,n/a,n/a,n/a,n/a,6,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,36,2.8
-82,82,Buccaneers,Kellen Winslow,27,TE,16,11,n/a,5,n/a,n/a,n/a,n/a,n/a,5,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,30,1.9
-81,81,Buccaneers,Micheal Spurlock,27,WR,16,1,n/a,2,n/a,1,n/a,n/a,n/a,3,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,18,1.1
-24,24,Buccaneers,Cadillac Williams,28,RB,16,9,2,1,n/a,n/a,n/a,n/a,n/a,3,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,18,1.1
-17,17,Buccaneers,Arrelious Benn,22,WR,15,9,n/a,2,n/a,n/a,n/a,n/a,n/a,2,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,12,0.8
-34,34,Buccaneers,Earnest Graham,30,RB,12,7,1,1,n/a,n/a,n/a,n/a,n/a,2,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,12,1.0
-89,89,Buccaneers,Dezmon Briscoe,21,WR,2,0,n/a,1,n/a,n/a,n/a,n/a,n/a,1,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,6,3.0
-88,88,Buccaneers,John Gilmore,31,TE,16,11,n/a,1,n/a,n/a,n/a,n/a,n/a,1,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,6,0.4
-35,35,Buccaneers,Cody Grimm,23,FS,11,9,n/a,n/a,n/a,n/a,n/a,1,n/a,1,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,6,0.5
-54,54,Buccaneers,Geno Hayes,23,RLB,16,16,n/a,n/a,n/a,n/a,n/a,1,n/a,1,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,6,0.4
-70,70,Buccaneers,Donald Penn,27,LT,16,16,n/a,1,n/a,n/a,n/a,n/a,n/a,1,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,6,0.4
-85,85,Buccaneers,Maurice Stovall,25,WR,12,1,n/a,1,n/a,n/a,n/a,n/a,n/a,1,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,6,0.5
-25,25,Buccaneers,Aqib Talib,24,LCB,11,11,n/a,n/a,n/a,n/a,n/a,1,n/a,1,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,6,0.5
-5,5,Buccaneers,Josh Freeman,22,QB,16,16,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,1,n/a,n/a,n/a,n/a,n/a,n/a,n/a,2,0.1
+,No.,Team,Player,Age,Pos,Games Played,Games Started,Rush TD,Reception TD,Punt Return TD,Kick Return TD,Fumble Return TD,Interception TD,Other TD,All Touchdown Scored,2-Point Conversions Made,Two-Point Conversions Attempted,Defensive Two-Point Conversions,Extra Points Made,Extra Points Allowed,Field Goals Made,Field Goals Attempted,Safeties Scored by Player/Team,Total Points Scored by all Means,Poins per Game,Year
+0,10,Buccaneers,Connor Barth,24,K,16,0,0,0,0,0,0,0,0,0,0,0,0,36,36,23,28,,105,6.6,2010
+1,19,Buccaneers,Mike Williams,23,WR,16,16,0,11,0,0,0,0,0,11,0,0,0,0,0,0,0,,66,4.1,2010
+2,27,Buccaneers,LeGarrette Blount,24,RB,13,7,6,0,0,0,0,0,0,6,0,0,0,0,0,0,0,,36,2.8,2010
+3,82,Buccaneers,Kellen Winslow,27,TE,16,11,0,5,0,0,0,0,0,5,0,0,0,0,0,0,0,,30,1.9,2010
+4,81,Buccaneers,Micheal Spurlock,27,WR,16,1,0,2,0,1,0,0,0,3,0,0,0,0,0,0,0,,18,1.1,2010
+5,24,Buccaneers,Cadillac Williams,28,RB,16,9,2,1,0,0,0,0,0,3,0,0,0,0,0,0,0,,18,1.1,2010
+6,17,Buccaneers,Arrelious Benn,22,WR,15,9,0,2,0,0,0,0,0,2,0,0,0,0,0,0,0,,12,0.8,2010
+7,34,Buccaneers,Earnest Graham,30,RB,12,7,1,1,0,0,0,0,0,2,0,0,0,0,0,0,0,,12,1.0,2010
+8,89,Buccaneers,Dezmon Briscoe,21,WR,2,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,,6,3.0,2010
+9,88,Buccaneers,John Gilmore,31,TE,16,11,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,,6,0.4,2010
+10,35,Buccaneers,Cody Grimm,23,FS,11,9,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,,6,0.5,2010
+11,54,Buccaneers,Geno Hayes,23,RLB,16,16,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,,6,0.4,2010
+12,70,Buccaneers,Donald Penn,27,LT,16,16,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,,6,0.4,2010
+13,85,Buccaneers,Maurice Stovall,25,WR,12,1,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,,6,0.5,2010
+14,25,Buccaneers,Aqib Talib,24,LCB,11,11,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,,6,0.5,2010
+15,5,Buccaneers,Josh Freeman,22,QB,16,16,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,,2,0.1,2010

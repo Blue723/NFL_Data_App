@@ -1,13 +1,13 @@
-,No.,Team,Player,Age,Pos,Games Played,Games Started,Rush TD,Reception TD,Punt Return TD,Kick Return TD,Fumble Return TD,Interception TD,Other TD,All Touchdown Scored,2-Point Conversions Made,Two-Point Conversions Attempted,Defensive Two-Point Conversions,Extra Points Made,Extra Points Allowed,Field Goals Made,Field Goals Attempted,Safeties Scored by Player/Team,Total Points Scored by all Means,Poins per Game
-8,8,Vikings,Ryan Longwell,36,K,16,0,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,30,31,17,18,n/a,81,5.1
-28,28,Vikings,Adrian Peterson,25,RB,15,15,12,1,n/a,n/a,n/a,n/a,n/a,13,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,78,5.2
-12,12,Vikings,Percy Harvin,22,WR,14,13,1,5,n/a,1,n/a,n/a,n/a,7,1,n/a,n/a,n/a,n/a,n/a,n/a,n/a,44,3.1
-84,84,Vikings,Randy Moss,33,WR,4,4,n/a,2,n/a,n/a,n/a,n/a,n/a,2,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,12,3.0
-18,18,Vikings,Sidney Rice,24,WR,6,5,n/a,2,n/a,n/a,n/a,n/a,n/a,2,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,12,2.0
-81,81,Vikings,Visanthe Shiancoe,30,TE,16,9,n/a,2,n/a,n/a,n/a,n/a,n/a,2,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,12,0.8
-14,14,Vikings,Joe Webb,24,QB,5,2,2,n/a,n/a,n/a,n/a,n/a,n/a,2,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,12,2.4
-69,69,Vikings,Jared Allen,28,RDE,16,16,n/a,n/a,n/a,n/a,n/a,1,n/a,1,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,6,0.4
-85,85,Vikings,Greg Camarillo,28,WR,16,1,n/a,1,n/a,n/a,n/a,n/a,n/a,1,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,6,0.4
-32,32,Vikings,Toby Gerhart,23,RB,15,1,1,n/a,n/a,n/a,n/a,n/a,n/a,1,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,6,0.4
-38,38,Vikings,Naufahu Tahi,29,FB,15,7,n/a,1,n/a,n/a,n/a,n/a,n/a,1,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,6,0.4
-26,26,Vikings,Antoine Winfield,33,LCB,16,16,n/a,n/a,n/a,n/a,1,n/a,n/a,1,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,6,0.4
+,No.,Team,Player,Age,Pos,Games Played,Games Started,Rush TD,Reception TD,Punt Return TD,Kick Return TD,Fumble Return TD,Interception TD,Other TD,All Touchdown Scored,2-Point Conversions Made,Two-Point Conversions Attempted,Defensive Two-Point Conversions,Extra Points Made,Extra Points Allowed,Field Goals Made,Field Goals Attempted,Safeties Scored by Player/Team,Total Points Scored by all Means,Poins per Game,Year
+0,8,Vikings,Ryan Longwell,36,K,16,0,0,0,0,0,0,0,0,0,0,0,0,30,31,17,18,,81,5.1,2010
+1,28,Vikings,Adrian Peterson,25,RB,15,15,12,1,0,0,0,0,0,13,0,0,0,0,0,0,0,,78,5.2,2010
+2,12,Vikings,Percy Harvin,22,WR,14,13,1,5,0,1,0,0,0,7,1,0,0,0,0,0,0,,44,3.1,2010
+3,84,Vikings,Randy Moss,33,WR,4,4,0,2,0,0,0,0,0,2,0,0,0,0,0,0,0,,12,3.0,2010
+4,18,Vikings,Sidney Rice,24,WR,6,5,0,2,0,0,0,0,0,2,0,0,0,0,0,0,0,,12,2.0,2010
+5,81,Vikings,Visanthe Shiancoe,30,TE,16,9,0,2,0,0,0,0,0,2,0,0,0,0,0,0,0,,12,0.8,2010
+6,14,Vikings,Joe Webb,24,QB,5,2,2,0,0,0,0,0,0,2,0,0,0,0,0,0,0,,12,2.4,2010
+7,69,Vikings,Jared Allen,28,RDE,16,16,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,,6,0.4,2010
+8,85,Vikings,Greg Camarillo,28,WR,16,1,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,,6,0.4,2010
+9,32,Vikings,Toby Gerhart,23,RB,15,1,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,,6,0.4,2010
+10,38,Vikings,Naufahu Tahi,29,FB,15,7,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,,6,0.4,2010
+11,26,Vikings,Antoine Winfield,33,LCB,16,16,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,,6,0.4,2010

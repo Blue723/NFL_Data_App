@@ -1,16 +1,16 @@
-,No.,Team,Player,Age,Pos,Games Played,Games Started,Rush TD,Reception TD,Punt Return TD,Kick Return TD,Fumble Return TD,Interception TD,Other TD,All Touchdown Scored,2-Point Conversions Made,Two-Point Conversions Attempted,Defensive Two-Point Conversions,Extra Points Made,Extra Points Allowed,Field Goals Made,Field Goals Attempted,Safeties Scored by Player/Team,Total Points Scored by all Means,Poins per Game
-6,6,Chiefs,Ryan Succop,24,K,16,0,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,42,42,20,26,n/a,102,6.4
-82,82,Chiefs,Dwayne Bowe,26,WR,16,16,n/a,15,n/a,n/a,n/a,n/a,n/a,15,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,90,5.6
-25,25,Chiefs,Jamaal Charles,24,RB,16,6,5,3,n/a,n/a,n/a,n/a,n/a,8,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,48,3.0
-20,20,Chiefs,Thomas Jones,32,RB,16,10,6,n/a,n/a,n/a,n/a,n/a,n/a,6,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,36,2.3
-81,81,Chiefs,Tony Moeaki,23,TE,15,15,n/a,3,n/a,n/a,n/a,n/a,n/a,3,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,18,1.2
-22,22,Chiefs,Dexter McCluster,21,WR,11,7,n/a,1,1,n/a,n/a,n/a,n/a,2,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,12,1.1
-45,45,Chiefs,Leonard Pope,27,TE,16,6,n/a,2,n/a,n/a,n/a,n/a,n/a,2,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,12,0.8
-26,26,Chiefs,Jackie Battle,27,RB,16,0,1,n/a,n/a,n/a,n/a,n/a,n/a,1,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,6,0.4
-29,29,Chiefs,Eric Berry,22,SS,16,16,n/a,n/a,n/a,n/a,n/a,1,n/a,1,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,6,0.4
-84,84,Chiefs,Chris Chambers,32,WR,13,7,n/a,1,n/a,n/a,n/a,n/a,n/a,1,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,6,0.5
-24,24,Chiefs,Brandon Flowers,24,LCB,15,15,n/a,n/a,n/a,n/a,n/a,1,n/a,1,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,6,0.4
-56,56,Chiefs,Derrick Johnson,28,RILB,16,16,n/a,n/a,n/a,n/a,n/a,1,n/a,1,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,6,0.4
-90,90,Chiefs,Shaun Smith,29,LDE,16,10,1,n/a,n/a,n/a,n/a,n/a,n/a,1,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,6,0.4
-15,15,Chiefs,Verran Tucker,22,WR,11,2,n/a,1,n/a,n/a,n/a,n/a,n/a,1,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,6,0.5
-50,50,Chiefs,Mike Vrabel,35,LOLB,16,16,n/a,1,n/a,n/a,n/a,n/a,n/a,1,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,6,0.4
+,No.,Team,Player,Age,Pos,Games Played,Games Started,Rush TD,Reception TD,Punt Return TD,Kick Return TD,Fumble Return TD,Interception TD,Other TD,All Touchdown Scored,2-Point Conversions Made,Two-Point Conversions Attempted,Defensive Two-Point Conversions,Extra Points Made,Extra Points Allowed,Field Goals Made,Field Goals Attempted,Safeties Scored by Player/Team,Total Points Scored by all Means,Poins per Game,Year
+0,6,Chiefs,Ryan Succop,24,K,16,0,0,0,0,0,0,0,0,0,0,0,0,42,42,20,26,,102,6.4,2010
+1,82,Chiefs,Dwayne Bowe,26,WR,16,16,0,15,0,0,0,0,0,15,0,0,0,0,0,0,0,,90,5.6,2010
+2,25,Chiefs,Jamaal Charles,24,RB,16,6,5,3,0,0,0,0,0,8,0,0,0,0,0,0,0,,48,3.0,2010
+3,20,Chiefs,Thomas Jones,32,RB,16,10,6,0,0,0,0,0,0,6,0,0,0,0,0,0,0,,36,2.3,2010
+4,81,Chiefs,Tony Moeaki,23,TE,15,15,0,3,0,0,0,0,0,3,0,0,0,0,0,0,0,,18,1.2,2010
+5,22,Chiefs,Dexter McCluster,21,WR,11,7,0,1,1,0,0,0,0,2,0,0,0,0,0,0,0,,12,1.1,2010
+6,45,Chiefs,Leonard Pope,27,TE,16,6,0,2,0,0,0,0,0,2,0,0,0,0,0,0,0,,12,0.8,2010
+7,26,Chiefs,Jackie Battle,27,RB,16,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,,6,0.4,2010
+8,29,Chiefs,Eric Berry,22,SS,16,16,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,,6,0.4,2010
+9,84,Chiefs,Chris Chambers,32,WR,13,7,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,,6,0.5,2010
+10,24,Chiefs,Brandon Flowers,24,LCB,15,15,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,,6,0.4,2010
+11,56,Chiefs,Derrick Johnson,28,RILB,16,16,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,,6,0.4,2010
+12,90,Chiefs,Shaun Smith,29,LDE,16,10,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,,6,0.4,2010
+13,15,Chiefs,Verran Tucker,22,WR,11,2,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,,6,0.5,2010
+14,50,Chiefs,Mike Vrabel,35,LOLB,16,16,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,,6,0.4,2010

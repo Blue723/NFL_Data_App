@@ -1,9 +1,9 @@
-,No.,Team,Player,Age,Position,Games Played,Games Started,Punts Returned,Punts Return Yardage,Punts Returned for Touchdown,Longest Punt Return,Yards per Punt Return,Kickoff Returns,Yardage for Kickoffs Returned,Kickoffs Returned for a Touchdown,Longest Kickoff Return,Yards per Kickoff Return,All-purpose Yards
-16,16,Commanders,Brandon Banks,23,WR,13,0,38,431,0,53,11.3,46,1155,1,96,25.1,1602
-11,11,Commanders,Devin Thomas,24,WR,4,0,n/a,n/a,0,n/a,n/a,12,336,0,42,28.0,336
-45,45,Commanders,Mike Sellers,35,FB,16,8,n/a,n/a,0,n/a,n/a,7,82,0,18,11.7,308
-95,95,Commanders,Chris Wilson,28,DE,16,0,n/a,n/a,0,n/a,n/a,3,27,0,15,9.0,27
-31,31,Commanders,Phillip Buchanon,30,RCB,16,5,2,1,0,1,0.5,n/a,n/a,0,n/a,n/a,52
-29,29,Commanders,Chad Simpson,25,RB,3,0,n/a,n/a,0,n/a,n/a,2,59,0,32,29.5,59
-34,34,Commanders,Byron Westbrook,25,DB,16,0,n/a,n/a,0,n/a,n/a,2,6,0,6,3.0,6
-18,18,Commanders,Terrence Austin,22,WR,5,0,n/a,n/a,0,n/a,n/a,1,15,0,15,15.0,62
+,No.,Team,Player,Age,Position,Games Played,Games Started,Punts Returned,Punts Return Yardage,Punts Returned for Touchdown,Longest Punt Return,Yards per Punt Return,Kickoff Returns,Yardage for Kickoffs Returned,Kickoffs Returned for a Touchdown,Longest Kickoff Return,Yards per Kickoff Return,All-purpose Yards,Year
+0,16,Commanders,Brandon Banks,23,WR,13,0,38,431,0,53,11.3,46,1155,1,96,25.1,1602,2010
+1,11,Commanders,Devin Thomas,24,WR,4,0,0,0,0,0,,12,336,0,42,28.0,336,2010
+2,45,Commanders,Mike Sellers,35,FB,16,8,0,0,0,0,,7,82,0,18,11.7,308,2010
+3,95,Commanders,Chris Wilson,28,DE,16,0,0,0,0,0,,3,27,0,15,9.0,27,2010
+4,31,Commanders,Phillip Buchanon,30,RCB,16,5,2,1,0,1,0.5,0,0,0,0,,52,2010
+5,29,Commanders,Chad Simpson,25,RB,3,0,0,0,0,0,,2,59,0,32,29.5,59,2010
+6,34,Commanders,Byron Westbrook,25,DB,16,0,0,0,0,0,,2,6,0,6,3.0,6,2010
+7,18,Commanders,Terrence Austin,22,WR,5,0,0,0,0,0,,1,15,0,15,15.0,62,2010

@@ -1,35 +1,35 @@
-,Rank,Team,Date,Opponent,Results,Quarter,Distance,Type,Detail
-1,1,49ers,2010-09-20,NOR,"L, 22-25",2,12,pass,Frank Gore
-2,2,49ers,2010-09-20,NOR,"L, 22-25",3,2,rush,Anthony Dixon
-3,3,49ers,2010-09-20,NOR,"L, 22-25",4,7,rush,Frank Gore
-4,4,49ers,2010-09-26,KAN,"L, 10-31",4,12,pass,Josh Morgan
-5,5,49ers,2010-10-03,ATL,"L, 14-16",1,12,pass,Vernon Davis
-6,6,49ers,2010-10-03,ATL,"L, 14-16",1,n/a,blocked punt,Taylor Mays
-7,7,49ers,2010-10-10,PHI,"L, 24-27",1,7,pass,Michael Crabtree
-8,8,49ers,2010-10-10,PHI,"L, 24-27",4,7,pass,Vernon Davis
-9,9,49ers,2010-10-10,PHI,"L, 24-27",4,1,pass,Frank Gore
-10,10,49ers,2010-10-17,OAK,"W, 17-9",3,32,pass,Michael Crabtree
-11,11,49ers,2010-10-17,OAK,"W, 17-9",4,17,pass,Vernon Davis
-12,12,49ers,2010-10-24,CAR,"L, 20-23",1,1,pass,Vernon Davis
-13,13,49ers,2010-10-24,CAR,"L, 20-23",4,31,interception,Ray McDonald
-14,14,49ers,2010-10-31,DEN,"W, 24-16",4,1,rush,Troy Smith
-15,15,49ers,2010-10-31,DEN,"W, 24-16",4,28,pass,Michael Crabtree
-16,16,49ers,2010-10-31,DEN,"W, 24-16",4,3,rush,Frank Gore
-17,17,49ers,2010-11-14,STL,"W, 23-20",1,1,rush,Frank Gore
-18,18,49ers,2010-11-14,STL,"W, 23-20",4,16,pass,Michael Crabtree
-19,19,49ers,2010-11-29,ARI,"W, 27-6",1,38,pass,Michael Crabtree
-20,20,49ers,2010-11-29,ARI,"W, 27-6",1,1,rush,Anthony Dixon
-21,21,49ers,2010-11-29,ARI,"W, 27-6",2,8,rush,Brian Westbrook
-22,22,49ers,2010-12-05,GNB,"L, 16-34",2,66,pass,Vernon Davis
-23,23,49ers,2010-12-12,SEA,"W, 40-21",1,42,pass,Vernon Davis
-24,24,49ers,2010-12-12,SEA,"W, 40-21",2,15,pass,Josh Morgan
-25,25,49ers,2010-12-12,SEA,"W, 40-21",2,62,pass,Brian Westbrook
-26,26,49ers,2010-12-12,SEA,"W, 40-21",3,39,interception,Dashon Goldson
-27,27,49ers,2010-12-16,SDG,"L, 7-34",4,3,rush,Brian Westbrook
-28,28,49ers,2010-12-26,STL,"L, 17-25",2,78,punt,Ted Ginn Jr.
-29,29,49ers,2010-12-26,STL,"L, 17-25",2,60,pass,Michael Crabtree
-30,30,49ers,2011-01-02,ARI,"W, 38-7",1,37,pass,Ted Ginn Jr.
-31,31,49ers,2011-01-02,ARI,"W, 38-7",3,59,pass,Vernon Davis
-32,32,49ers,2011-01-02,ARI,"W, 38-7",3,6,rush,Brian Westbrook
-33,33,49ers,2011-01-02,ARI,"W, 38-7",3,6,rush,Brian Westbrook
-34,34,49ers,2011-01-02,ARI,"W, 38-7",4,62,interception,Tarell Brown
+,Rank,Team,Date,Opponent,Win/Loss,Score,Quarter,Distance,Type,Detail,Year
+0,1,49ers,09/20/2010,NOR,Loss, 22-25,2,12,pass,Frank Gore,2010
+1,2,49ers,09/20/2010,NOR,Loss, 22-25,3,2,rush,Anthony Dixon,2010
+2,3,49ers,09/20/2010,NOR,Loss, 22-25,4,7,rush,Frank Gore,2010
+3,4,49ers,09/26/2010,KAN,Loss, 10-31,4,12,pass,Josh Morgan,2010
+4,5,49ers,10/03/2010,ATL,Loss, 14-16,1,12,pass,Vernon Davis,2010
+5,6,49ers,10/03/2010,ATL,Loss, 14-16,1,0,blocked punt,Taylor Mays,2010
+6,7,49ers,10/10/2010,PHI,Loss, 24-27,1,7,pass,Michael Crabtree,2010
+7,8,49ers,10/10/2010,PHI,Loss, 24-27,4,7,pass,Vernon Davis,2010
+8,9,49ers,10/10/2010,PHI,Loss, 24-27,4,1,pass,Frank Gore,2010
+9,10,49ers,10/17/2010,OAK,Win, 17-9,3,32,pass,Michael Crabtree,2010
+10,11,49ers,10/17/2010,OAK,Win, 17-9,4,17,pass,Vernon Davis,2010
+11,12,49ers,10/24/2010,CAR,Loss, 20-23,1,1,pass,Vernon Davis,2010
+12,13,49ers,10/24/2010,CAR,Loss, 20-23,4,31,interception,Ray McDonald,2010
+13,14,49ers,10/31/2010,DEN,Win, 24-16,4,1,rush,Troy Smith,2010
+14,15,49ers,10/31/2010,DEN,Win, 24-16,4,28,pass,Michael Crabtree,2010
+15,16,49ers,10/31/2010,DEN,Win, 24-16,4,3,rush,Frank Gore,2010
+16,17,49ers,11/14/2010,STL,Win, 23-20,1,1,rush,Frank Gore,2010
+17,18,49ers,11/14/2010,STL,Win, 23-20,4,16,pass,Michael Crabtree,2010
+18,19,49ers,11/29/2010,ARI,Win, 27-6,1,38,pass,Michael Crabtree,2010
+19,20,49ers,11/29/2010,ARI,Win, 27-6,1,1,rush,Anthony Dixon,2010
+20,21,49ers,11/29/2010,ARI,Win, 27-6,2,8,rush,Brian Westbrook,2010
+21,22,49ers,12/05/2010,GNB,Loss, 16-34,2,66,pass,Vernon Davis,2010
+22,23,49ers,12/12/2010,SEA,Win, 40-21,1,42,pass,Vernon Davis,2010
+23,24,49ers,12/12/2010,SEA,Win, 40-21,2,15,pass,Josh Morgan,2010
+24,25,49ers,12/12/2010,SEA,Win, 40-21,2,62,pass,Brian Westbrook,2010
+25,26,49ers,12/12/2010,SEA,Win, 40-21,3,39,interception,Dashon Goldson,2010
+26,27,49ers,12/16/2010,SDG,Loss, 7-34,4,3,rush,Brian Westbrook,2010
+27,28,49ers,12/26/2010,STL,Loss, 17-25,2,78,punt,Ted Ginn Jr.,2010
+28,29,49ers,12/26/2010,STL,Loss, 17-25,2,60,pass,Michael Crabtree,2010
+29,30,49ers,01/02/2011,ARI,Win, 38-7,1,37,pass,Ted Ginn Jr.,2010
+30,31,49ers,01/02/2011,ARI,Win, 38-7,3,59,pass,Vernon Davis,2010
+31,32,49ers,01/02/2011,ARI,Win, 38-7,3,6,rush,Brian Westbrook,2010
+32,33,49ers,01/02/2011,ARI,Win, 38-7,3,6,rush,Brian Westbrook,2010
+33,34,49ers,01/02/2011,ARI,Win, 38-7,4,62,interception,Tarell Brown,2010

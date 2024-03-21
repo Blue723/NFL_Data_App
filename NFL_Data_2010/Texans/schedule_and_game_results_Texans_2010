@@ -1,18 +1,18 @@
-,Week,Team,Day,Date,Time,Win/Loss,Overtime,Team Record,Home/Away,Opponent,Points Scored,Points Allowed,Offense 1st Down,Total Yards Gained of Offense,Total yards Gained by Passing,Total Yards Gained by Rushing,Offense Turnovers,Defense 1st Down,Total Yards Allowed by Defense,Total Passing Yards Allowed by Defense,Total Rushing Yards Allowed by Defense,Defense Turnovers,Offense,Defense,Sp. Tms
-1,1,Texans,Sun,September 12,1:02PM ET,W,n/a,1-0,home,Indianapolis Colts,34,24,23,355,98,257,1,25,463,419,44,1,17.43,-16.62,10.28
-2,2,Texans,Sun,September 19,4:15PM ET,W,OT,2-0,away,Washington Redskins,30,27,29,526,468,58,1,21,421,403,18,n/a,21.02,-14.04,-0.62
-3,3,Texans,Sun,September 26,1:02PM ET,L,n/a,2-1,home,Dallas Cowboys,13,27,24,340,216,124,3,21,385,284,101,n/a,2.66,-14.61,-2.64
-4,4,Texans,Sun,October 3,4:05PM ET,W,n/a,3-1,away,Oakland Raiders,31,24,21,441,192,249,n/a,24,363,245,118,3,17.32,-2.09,-4.55
-5,5,Texans,Sun,October 10,1:03PM ET,L,n/a,3-2,home,New York Giants,10,34,11,195,171,24,2,26,414,297,117,2,-17.85,-6.57,-1.65
-6,6,Texans,Sun,October 17,1:03PM ET,W,n/a,4-2,home,Kansas City Chiefs,35,31,23,421,289,132,n/a,25,417,189,228,n/a,24.02,-21.90,1.12
-7,7,Texans,n/a,n/a,n/a,n/a,n/a,n/a,home,<strong>Bye Week</strong>,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
-8,8,Texans,Mon,November 1,8:41PM ET,L,n/a,4-3,away,Indianapolis Colts,17,30,19,291,183,108,2,24,366,259,107,n/a,-6.68,-7.36,3.11
-9,9,Texans,Sun,November 7,1:02PM ET,L,n/a,4-4,home,San Diego Chargers,23,29,25,392,252,140,1,18,367,290,77,2,6.40,-12.05,2.48
-10,10,Texans,Sun,November 14,1:04PM ET,L,n/a,4-5,away,Jacksonville Jaguars,24,31,20,395,314,81,1,29,491,326,165,n/a,13.34,-24.68,4.02
-11,11,Texans,Sun,November 21,1:03PM ET,L,n/a,4-6,away,New York Jets,27,30,17,343,246,97,1,22,401,298,103,2,2.06,-3.16,-1.75
-12,12,Texans,Sun,November 28,1:02PM ET,W,n/a,5-6,home,Tennessee Titans,20,0,24,346,158,188,n/a,9,162,138,24,3,2.70,19.54,-3.35
-13,13,Texans,Thu,December 2,8:30PM ET,L,n/a,5-7,away,Philadelphia Eagles,24,34,27,431,323,108,2,22,416,301,115,1,9.77,-19.01,0.72
-14,14,Texans,Mon,December 13,8:40PM ET,L,OT,5-8,home,Baltimore Ravens,28,34,28,489,378,111,2,19,253,190,63,n/a,10.05,-5.21,-13.44
-15,15,Texans,Sun,December 19,1:02PM ET,L,n/a,5-9,away,Tennessee Titans,17,31,26,323,293,30,1,19,359,212,147,1,-0.51,-14.68,-0.50
-16,16,Texans,Sun,December 26,4:06PM ET,L,n/a,5-10,away,Denver Broncos,23,24,21,401,310,91,1,25,431,305,126,1,9.19,-14.14,4.78
-17,17,Texans,Sun,January 2,4:15PM ET,W,n/a,6-10,home,Jacksonville Jaguars,34,17,22,497,253,244,n/a,23,322,124,198,2,22.44,-6.01,-0.28
+,Week,Team,Day,Date,Time,Win/Loss,Overtime,Team Record,Home/Away,Opponent,Points Scored,Points Allowed,Offense 1st Down,Total Yards Gained of Offense,Total yards Gained by Passing,Total Yards Gained by Rushing,Offense Turnovers,Defense 1st Down,Total Yards Allowed by Defense,Total Passing Yards Allowed by Defense,Total Rushing Yards Allowed by Defense,Defense Turnovers,Offense,Defense,Sp. Tms,Year
+0,0,Texans,Sun,September 12,,W,0,1-0,home,Indianapolis Colts,34,24,23,355,98,257,1,25,463,419,44,1,17.43,-16.62,10.28,2010
+1,1,1,1,1,1.0,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1.0,1.0,1.0,1
+2,2,Texans,Sun,September 26,,L,0,2-1,home,Dallas Cowboys,13,27,24,340,216,124,3,21,385,284,101,0,2.66,-14.61,-2.64,2010
+3,3,Texans,Sun,October 3,,W,0,3-1,away,Oakland Raiders,31,24,21,441,192,249,0,24,363,245,118,3,17.32,-2.09,-4.55,2010
+4,4,Texans,Sun,October 10,,L,0,3-2,home,New York Giants,10,34,11,195,171,24,2,26,414,297,117,2,-17.85,-6.57,-1.65,2010
+5,5,Texans,Sun,October 17,,W,0,4-2,home,Kansas City Chiefs,35,31,23,421,289,132,0,25,417,189,228,0,24.02,-21.9,1.12,2010
+6,6,Texans,,,,,0,,home,<strong>Bye Week</strong>,0,0,0,0,0,0,0,0,0,0,0,0,,,,2010
+7,7,Texans,Mon,November 1,,L,0,4-3,away,Indianapolis Colts,17,30,19,291,183,108,2,24,366,259,107,0,-6.68,-7.36,3.11,2010
+8,8,Texans,Sun,November 7,,L,0,4-4,home,San Diego Chargers,23,29,25,392,252,140,1,18,367,290,77,2,6.4,-12.05,2.48,2010
+9,9,Texans,Sun,November 14,,L,0,4-5,away,Jacksonville Jaguars,24,31,20,395,314,81,1,29,491,326,165,0,13.34,-24.68,4.02,2010
+10,10,Texans,Sun,November 21,,L,0,4-6,away,New York Jets,27,30,17,343,246,97,1,22,401,298,103,2,2.06,-3.16,-1.75,2010
+11,11,Texans,Sun,November 28,,W,0,5-6,home,Tennessee Titans,20,0,24,346,158,188,0,9,162,138,24,3,2.7,19.54,-3.35,2010
+12,12,Texans,Thu,December 2,,L,0,5-7,away,Philadelphia Eagles,24,34,27,431,323,108,2,22,416,301,115,1,9.77,-19.01,0.72,2010
+13,13,1,1,1,1.0,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1.0,1.0,1.0,1
+14,14,Texans,Sun,December 19,,L,0,5-9,away,Tennessee Titans,17,31,26,323,293,30,1,19,359,212,147,1,-0.51,-14.68,-0.5,2010
+15,15,Texans,Sun,December 26,,L,0,5-10,away,Denver Broncos,23,24,21,401,310,91,1,25,431,305,126,1,9.19,-14.14,4.78,2010
+16,16,Texans,Sun,January 2,,W,0,6-10,home,Jacksonville Jaguars,34,17,22,497,253,244,0,23,322,124,198,2,22.44,-6.01,-0.28,2010

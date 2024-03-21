@@ -1,4 +1,4 @@
-,No.,Team,Player,Age,Position,Games Played,Games Started,FGA 0-19,FGM 0-19,FGA 20-29,FGM 20-29,FGA 30-39,FGM 30-39,FGA 40-49,FGM 40-49,FGA 50+,FGM 50+,Field Goals Attempted,Field Goals Made,Longest Field Goal Made,% of Field Goals Made,Extra Points Attempted,Extra Points Made,Extra Point Percentage,Kickoffs,Kickoff Yards,Kickoff Touchbacks,% Kickoff was a Touchback,Kickoff Average Yardage
-9,9,Giants,Lawrence Tynes,32,K,15,0,n/a,n/a,12,12,4,2,4,3,3,2,23,19,53,82.6%,43,43,100.0%,78,4826,6,7.7%,61.9
-8,8,Giants,Shayne Graham,33,K,1,0,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,4,4,100.0%,5,296,1,20.0%,59.2
-6,6,Giants,Matt Dodge,23,P,16,0,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,2,117,n/a,n/a,58.5
+,No.,Team,Player,Age,Position,Games Played,Games Started,FGA 0-19,FGM 0-19,FGA 20-29,FGM 20-29,FGA 30-39,FGM 30-39,FGA 40-49,FGM 40-49,FGA 50+,FGM 50+,Field Goals Attempted,Field Goals Made,Longest Field Goal Made,Per. of Field Goals Made,Extra Points Attempted,Extra Points Made,Extra Point Per.,Kickoffs,Kickoff Yards,Kickoff Touchbacks,Per. Kickoff was a Touchback,Kickoff Average Yardage,Year
+0,9,Giants,Lawrence Tynes,32,K,15,0,0,0,12,12,4,2,4,3,3,2,23,19,53,82.6,43,43,100.0,78,4826,6,7.7,61.9,2010
+1,8,Giants,Shayne Graham,33,K,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,4,4,100.0,5,296,1,20.0,59.2,2010
+2,6,Giants,Matt Dodge,23,P,16,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0.0,2,117,0,0.0,58.5,2010

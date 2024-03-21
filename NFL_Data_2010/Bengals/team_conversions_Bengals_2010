@@ -1,5 +1,5 @@
-,Player,Team,3rd Down Attempts in Game,3rd Down Conversions,3rd Down Conversion %,4th Down Attempts in Game,4th Down Conversions in Game,4th Down Conversion %,Red Zone Attempts,Touchdowns Scored After the Team Entered the Red Zone,% of the Time a Team Reaches the Red Zone and Scores a Touchdown
-Team Stats,Team Stats,Bengals,224,87,38.8%,19,13,68.4%,55,27,49.1%
-Opp. Stats,Opp. Stats,Bengals,198,75,37.9%,7,2,28.6%,45,21,46.7%
-Lg Rank Offense,Lg Rank Offense,Bengals,n/a,n/a,17,n/a,n/a,5,n/a,n/a,21
-Lg Rank Defense,Lg Rank Defense,Bengals,n/a,n/a,14,n/a,n/a,3,n/a,n/a,8
+,Player,Team,3rd Down Attempts in Game,3rd Down Conversions,3rd Down Conversion Per.,4th Down Attempts in Game,4th Down Conversions in Game,4th Down Conversion Per.,Red Zone Attempts,Touchdowns Scored After the Team Entered the Red Zone,Per. of the Time a Team Reaches the Red Zone and Scores a Touchdown,Year
+0,Team Stats,Bengals,224.0,87.0,38.8,19.0,13.0,68.4,55.0,27.0,49.1,2010.0
+1,Opp. Stats,Bengals,198.0,75.0,37.9,7.0,2.0,28.6,45.0,21.0,46.7,2010.0
+2,Lg Rank Offense,Bengals,,,17.0,,,5.0,,,21.0,2010.0
+3,Lg Rank Defense,Bengals,,,14.0,,,3.0,,,8.0,2010.0

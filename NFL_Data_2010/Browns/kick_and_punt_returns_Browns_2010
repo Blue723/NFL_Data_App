@@ -1,13 +1,13 @@
-,No.,Team,Player,Age,Position,Games Played,Games Started,Punts Returned,Punts Return Yardage,Punts Returned for Touchdown,Longest Punt Return,Yards per Punt Return,Kickoff Returns,Yardage for Kickoffs Returned,Kickoffs Returned for a Touchdown,Longest Kickoff Return,Yards per Kickoff Return,All-purpose Yards
-16,16,Browns,Josh Cribbs,27,WR,15,5,20,168,0,17,8.4,40,814,0,37,20.4,1340
-22,22,Browns,Mike Bell,27,RB,11,1,n/a,n/a,0,n/a,n/a,5,55,0,31,11.0,188
-28,28,Browns,Clifton Smith,25,RB,2,0,n/a,n/a,0,n/a,n/a,5,92,0,26,18.4,92
-58,58,Browns,Marcus Benard,25,LB,15,2,n/a,n/a,0,n/a,n/a,4,26,0,11,6.5,26
-23,23,Browns,Joe Haden,21,LCB,16,7,n/a,n/a,0,n/a,n/a,4,96,0,32,24.0,197
-35,35,Browns,Jerome Harrison,27,RB,4,1,n/a,n/a,0,n/a,n/a,4,32,0,10,8.0,165
-41,41,Browns,Raymond Ventrone,28,DB,16,0,n/a,n/a,0,n/a,n/a,4,47,0,17,11.8,47
-83,83,Browns,Chansi Stuckey,27,WR,16,5,2,5,0,5,2.5,n/a,n/a,0,n/a,n/a,360
-47,47,Browns,Lawrence Vickers,27,FB,16,4,n/a,n/a,0,n/a,n/a,2,13,0,10,6.5,39
-28,28,Browns,James Davis,24,RB,4,0,n/a,n/a,0,n/a,n/a,1,11,0,11,11.0,20
-51,51,Browns,Chris Gocong,27,RILB,16,16,n/a,n/a,0,n/a,n/a,1,5,0,5,5.0,5
-21,21,Browns,Eric Wright,25,LCB,13,10,0,62,0,62,n/a,n/a,n/a,0,n/a,n/a,73
+,No.,Team,Player,Age,Position,Games Played,Games Started,Punts Returned,Punts Return Yardage,Punts Returned for Touchdown,Longest Punt Return,Yards per Punt Return,Kickoff Returns,Yardage for Kickoffs Returned,Kickoffs Returned for a Touchdown,Longest Kickoff Return,Yards per Kickoff Return,All-purpose Yards,Year
+0,16,Browns,Josh Cribbs,27,WR,15,5,20,168,0,17,8.4,40,814,0,37,20.4,1340,2010
+1,22,Browns,Mike Bell,27,RB,11,1,0,0,0,0,,5,55,0,31,11.0,188,2010
+2,28,Browns,Clifton Smith,25,RB,2,0,0,0,0,0,,5,92,0,26,18.4,92,2010
+3,58,Browns,Marcus Benard,25,LB,15,2,0,0,0,0,,4,26,0,11,6.5,26,2010
+4,23,Browns,Joe Haden,21,LCB,16,7,0,0,0,0,,4,96,0,32,24.0,197,2010
+5,35,Browns,Jerome Harrison,27,RB,4,1,0,0,0,0,,4,32,0,10,8.0,165,2010
+6,41,Browns,Raymond Ventrone,28,DB,16,0,0,0,0,0,,4,47,0,17,11.8,47,2010
+7,83,Browns,Chansi Stuckey,27,WR,16,5,2,5,0,5,2.5,0,0,0,0,,360,2010
+8,47,Browns,Lawrence Vickers,27,FB,16,4,0,0,0,0,,2,13,0,10,6.5,39,2010
+9,28,Browns,James Davis,24,RB,4,0,0,0,0,0,,1,11,0,11,11.0,20,2010
+10,51,Browns,Chris Gocong,27,RILB,16,16,0,0,0,0,,1,5,0,5,5.0,5,2010
+11,21,Browns,Eric Wright,25,LCB,13,10,0,62,0,62,,0,0,0,0,,73,2010

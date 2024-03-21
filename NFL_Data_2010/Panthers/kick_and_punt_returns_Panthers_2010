@@ -1,12 +1,12 @@
-,No.,Team,Player,Age,Position,Games Played,Games Started,Punts Returned,Punts Return Yardage,Punts Returned for Touchdown,Longest Punt Return,Yards per Punt Return,Kickoff Returns,Yardage for Kickoffs Returned,Kickoffs Returned for a Touchdown,Longest Kickoff Return,Yards per Kickoff Return,All-purpose Yards
-33,33,Panthers,Mike Goodson,23,RB,16,3,n/a,n/a,0,n/a,n/a,47,1034,0,46,22.0,1783
-41,41,Panthers,Captain Munnerlyn,22,LCB,16,5,30,327,0,37,10.9,2,87,0,64,43.5,451
-12,12,Panthers,David Gettis,23,WR,15,13,n/a,n/a,0,n/a,n/a,9,159,0,28,17.7,669
-29,29,Panthers,Jordan Pugh,22,DB,15,2,n/a,n/a,0,n/a,n/a,9,218,0,32,24.2,216
-89,89,Panthers,Steve Smith Sr.,31,WR,14,14,6,46,0,32,7.7,n/a,n/a,0,n/a,n/a,609
-80,80,Panthers,Devin Thomas,24,WR,1,0,n/a,n/a,0,n/a,n/a,3,63,0,26,21.0,63
-10,10,Panthers,Armanti Edwards,22,QB,3,0,2,0,0,0,0.0,n/a,n/a,0,n/a,n/a,7
-22,22,Panthers,Tyrell Sutton,24,RB,9,0,n/a,n/a,0,n/a,n/a,2,30,0,18,15.0,171
-47,47,Panthers,Jeff King,27,TE,16,16,n/a,n/a,0,n/a,n/a,1,11,0,11,11.0,132
-92,92,Panthers,Eric Norwood,22,LB,15,0,n/a,n/a,0,n/a,n/a,1,17,0,17,17.0,17
-53,53,Panthers,Jamar Williams,26,LB,3,0,1,0,0,0,0.0,n/a,n/a,0,n/a,n/a,0
+,No.,Team,Player,Age,Position,Games Played,Games Started,Punts Returned,Punts Return Yardage,Punts Returned for Touchdown,Longest Punt Return,Yards per Punt Return,Kickoff Returns,Yardage for Kickoffs Returned,Kickoffs Returned for a Touchdown,Longest Kickoff Return,Yards per Kickoff Return,All-purpose Yards,Year
+0,33,Panthers,Mike Goodson,23,RB,16,3,0,0,0,0,,47,1034,0,46,22.0,1783,2010
+1,41,Panthers,Captain Munnerlyn,22,LCB,16,5,30,327,0,37,10.9,2,87,0,64,43.5,451,2010
+2,12,Panthers,David Gettis,23,WR,15,13,0,0,0,0,,9,159,0,28,17.7,669,2010
+3,29,Panthers,Jordan Pugh,22,DB,15,2,0,0,0,0,,9,218,0,32,24.2,216,2010
+4,89,Panthers,Steve Smith Sr.,31,WR,14,14,6,46,0,32,7.7,0,0,0,0,,609,2010
+5,80,Panthers,Devin Thomas,24,WR,1,0,0,0,0,0,,3,63,0,26,21.0,63,2010
+6,10,Panthers,Armanti Edwards,22,QB,3,0,2,0,0,0,0.0,0,0,0,0,,7,2010
+7,22,Panthers,Tyrell Sutton,24,RB,9,0,0,0,0,0,,2,30,0,18,15.0,171,2010
+8,47,Panthers,Jeff King,27,TE,16,16,0,0,0,0,,1,11,0,11,11.0,132,2010
+9,92,Panthers,Eric Norwood,22,LB,15,0,0,0,0,0,,1,17,0,17,17.0,17,2010
+10,53,Panthers,Jamar Williams,26,LB,3,0,1,0,0,0,0.0,0,0,0,0,,0,2010

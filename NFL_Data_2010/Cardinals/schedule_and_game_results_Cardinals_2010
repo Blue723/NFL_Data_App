@@ -1,18 +1,18 @@
-,Week,Team,Day,Date,Time,Win/Loss,Overtime,Team Record,Home/Away,Opponent,Points Scored,Points Allowed,Offense 1st Down,Total Yards Gained of Offense,Total yards Gained by Passing,Total Yards Gained by Rushing,Offense Turnovers,Defense 1st Down,Total Yards Allowed by Defense,Total Passing Yards Allowed by Defense,Total Rushing Yards Allowed by Defense,Defense Turnovers,Offense,Defense,Sp. Tms
-1,1,Cardinals,Sun,September 12,4:15PM ET,W,n/a,1-0,away,St. Louis Rams,17,13,21,378,266,112,4,20,325,240,85,4,-6.62,11.58,-0.96
-2,2,Cardinals,Sun,September 19,1:03PM ET,L,n/a,1-1,away,Atlanta Falcons,7,41,11,267,149,118,3,33,444,223,221,1,-12.23,-20.26,-0.76
-3,3,Cardinals,Sun,September 26,4:15PM ET,W,n/a,2-1,home,Oakland Raiders,24,23,18,227,108,119,3,20,364,231,133,1,1.57,-0.54,1.56
-4,4,Cardinals,Sun,October 3,4:15PM ET,L,n/a,2-2,away,San Diego Chargers,10,41,10,134,87,47,3,23,419,239,180,1,-25.88,-12.24,7.30
-5,5,Cardinals,Sun,October 10,4:05PM ET,W,n/a,3-2,home,New Orleans Saints,30,20,12,194,153,41,1,19,358,273,85,4,-10.49,12.07,6.52
-6,6,Cardinals,n/a,n/a,n/a,n/a,n/a,n/a,home,<strong>Bye Week</strong>,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
-7,7,Cardinals,Sun,October 24,4:06PM ET,L,n/a,3-3,away,Seattle Seahawks,10,22,13,227,114,113,5,16,302,158,144,1,-15.69,14.84,-12.62
-8,8,Cardinals,Sun,October 31,4:15PM ET,L,n/a,3-4,home,Tampa Bay Buccaneers,35,38,22,396,296,100,4,19,407,253,154,2,-6.25,-7.04,12.55
-9,9,Cardinals,Sun,November 7,1:05PM ET,L,OT,3-5,away,Minnesota Vikings,24,27,13,225,172,53,1,28,507,427,80,3,-5.51,-10.13,12.18
-10,10,Cardinals,Sun,November 14,4:15PM ET,L,n/a,3-6,home,Seattle Seahawks,18,36,19,327,286,41,2,24,490,380,110,1,-9.82,-8.78,2.15
-11,11,Cardinals,Sun,November 21,1:03PM ET,L,n/a,3-7,away,Kansas City Chiefs,13,31,19,382,281,101,n/a,17,352,193,159,n/a,-1.92,-15.07,-0.63
-12,12,Cardinals,Mon,November 29,8:40PM ET,L,n/a,3-8,home,San Francisco 49ers,6,27,8,203,190,13,2,26,386,125,261,1,-19.13,-12.73,8.10
-13,13,Cardinals,Sun,December 5,4:15PM ET,L,n/a,3-9,home,St. Louis Rams,6,19,14,224,119,105,2,18,288,169,119,1,-12.22,4.79,-8.08
-14,14,Cardinals,Sun,December 12,4:15PM ET,W,n/a,4-9,home,Denver Broncos,43,13,21,357,146,211,1,20,288,156,132,6,-1.17,31.20,-2.44
-15,15,Cardinals,Sun,December 19,1:04PM ET,L,n/a,4-10,away,Carolina Panthers,12,19,11,218,175,43,2,16,303,126,177,1,-13.38,8.61,-5.52
-16,16,Cardinals,Sat,December 25,7:30PM ET,W,n/a,5-10,home,Dallas Cowboys,27,26,10,271,178,93,n/a,24,382,199,183,3,0.18,4.37,-1.95
-17,17,Cardinals,Sun,January 2,4:15PM ET,L,n/a,5-11,away,San Francisco 49ers,7,38,19,279,201,78,2,16,362,262,100,n/a,-29.45,-8.72,7.30
+,Week,Team,Day,Date,Time,Win/Loss,Overtime,Team Record,Home/Away,Opponent,Points Scored,Points Allowed,Offense 1st Down,Total Yards Gained of Offense,Total yards Gained by Passing,Total Yards Gained by Rushing,Offense Turnovers,Defense 1st Down,Total Yards Allowed by Defense,Total Passing Yards Allowed by Defense,Total Rushing Yards Allowed by Defense,Defense Turnovers,Offense,Defense,Sp. Tms,Year
+0,0,Cardinals,Sun,September 12,,W,0,1-0,away,St. Louis Rams,17,13,21,378,266,112,4,20,325,240,85,4,-6.62,11.58,-0.96,2010
+1,1,Cardinals,Sun,September 19,,L,0,1-1,away,Atlanta Falcons,7,41,11,267,149,118,3,33,444,223,221,1,-12.23,-20.26,-0.76,2010
+2,2,Cardinals,Sun,September 26,,W,0,2-1,home,Oakland Raiders,24,23,18,227,108,119,3,20,364,231,133,1,1.57,-0.54,1.56,2010
+3,3,Cardinals,Sun,October 3,,L,0,2-2,away,San Diego Chargers,10,41,10,134,87,47,3,23,419,239,180,1,-25.88,-12.24,7.3,2010
+4,4,Cardinals,Sun,October 10,,W,0,3-2,home,New Orleans Saints,30,20,12,194,153,41,1,19,358,273,85,4,-10.49,12.07,6.52,2010
+5,5,Cardinals,,,,,0,,home,<strong>Bye Week</strong>,0,0,0,0,0,0,0,0,0,0,0,0,,,,2010
+6,6,Cardinals,Sun,October 24,,L,0,3-3,away,Seattle Seahawks,10,22,13,227,114,113,5,16,302,158,144,1,-15.69,14.84,-12.62,2010
+7,7,Cardinals,Sun,October 31,,L,0,3-4,home,Tampa Bay Buccaneers,35,38,22,396,296,100,4,19,407,253,154,2,-6.25,-7.04,12.55,2010
+8,8,1,1,1,1.0,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1.0,1.0,1.0,1
+9,9,Cardinals,Sun,November 14,,L,0,3-6,home,Seattle Seahawks,18,36,19,327,286,41,2,24,490,380,110,1,-9.82,-8.78,2.15,2010
+10,10,Cardinals,Sun,November 21,,L,0,3-7,away,Kansas City Chiefs,13,31,19,382,281,101,0,17,352,193,159,0,-1.92,-15.07,-0.63,2010
+11,11,Cardinals,Mon,November 29,,L,0,3-8,home,San Francisco 49ers,6,27,8,203,190,13,2,26,386,125,261,1,-19.13,-12.73,8.1,2010
+12,12,Cardinals,Sun,December 5,,L,0,3-9,home,St. Louis Rams,6,19,14,224,119,105,2,18,288,169,119,1,-12.22,4.79,-8.08,2010
+13,13,Cardinals,Sun,December 12,,W,0,4-9,home,Denver Broncos,43,13,21,357,146,211,1,20,288,156,132,6,-1.17,31.2,-2.44,2010
+14,14,Cardinals,Sun,December 19,,L,0,4-10,away,Carolina Panthers,12,19,11,218,175,43,2,16,303,126,177,1,-13.38,8.61,-5.52,2010
+15,15,Cardinals,Sat,December 25,,W,0,5-10,home,Dallas Cowboys,27,26,10,271,178,93,0,24,382,199,183,3,0.18,4.37,-1.95,2010
+16,16,Cardinals,Sun,January 2,,L,0,5-11,away,San Francisco 49ers,7,38,19,279,201,78,2,16,362,262,100,0,-29.45,-8.72,7.3,2010

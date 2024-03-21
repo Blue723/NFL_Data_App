@@ -1,18 +1,18 @@
-,Week,Team,Day,Date,Time,Win/Loss,Overtime,Team Record,Home/Away,Opponent,Points Scored,Points Allowed,Offense 1st Down,Total Yards Gained of Offense,Total yards Gained by Passing,Total Yards Gained by Rushing,Offense Turnovers,Defense 1st Down,Total Yards Allowed by Defense,Total Passing Yards Allowed by Defense,Total Rushing Yards Allowed by Defense,Defense Turnovers,Offense,Defense,Sp. Tms
-1,1,Rams,Sun,September 12,4:15PM ET,L,n/a,0-1,home,Arizona Cardinals,13,17,20,325,240,85,4,21,378,266,112,4,-11.58,6.62,0.96
-2,2,Rams,Sun,September 19,4:05PM ET,L,n/a,0-2,away,Oakland Raiders,14,16,16,210,135,75,1,25,404,231,173,2,-2.77,-0.92,1.42
-3,3,Rams,Sun,September 26,4:05PM ET,W,n/a,1-2,home,Washington Redskins,30,16,24,365,232,133,2,15,349,233,116,2,7.38,7.99,-2.85
-4,4,Rams,Sun,October 3,1:00PM ET,W,n/a,2-2,home,Seattle Seahawks,20,3,19,349,261,88,1,15,257,193,64,2,-5.23,22.30,-2.33
-5,5,Rams,Sun,October 10,12:56PM ET,L,n/a,2-3,away,Detroit Lions,6,44,23,341,213,128,3,20,322,233,89,n/a,-22.64,-9.55,-4.23
-6,6,Rams,Sun,October 17,1:00PM ET,W,n/a,3-3,home,San Diego Chargers,20,17,20,300,183,117,n/a,22,287,208,79,1,1.33,-0.32,1.93
-7,7,Rams,Sun,October 24,1:02PM ET,L,n/a,3-4,away,Tampa Bay Buccaneers,17,18,19,285,124,161,1,17,313,189,124,n/a,0.62,2.63,-3.38
-8,8,Rams,Sun,October 31,1:00PM ET,W,n/a,4-4,home,Carolina Panthers,20,10,15,246,184,62,n/a,14,201,176,25,4,-4.14,16.28,0.40
-9,9,Rams,n/a,n/a,n/a,n/a,n/a,n/a,home,<strong>Bye Week</strong>,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
-10,10,Rams,Sun,November 14,4:15PM ET,L,OT,4-5,away,San Francisco 49ers,20,23,22,332,228,104,n/a,19,421,323,98,n/a,-2.36,-9.50,6.66
-11,11,Rams,Sun,November 21,4:05PM ET,L,n/a,4-6,home,Atlanta Falcons,17,34,15,304,233,71,1,24,391,253,138,n/a,-1.25,-12.25,0.03
-12,12,Rams,Sun,November 28,4:16PM ET,W,n/a,5-6,away,Denver Broncos,36,33,24,431,308,123,n/a,24,449,330,119,2,15.18,-9.59,0.18
-13,13,Rams,Sun,December 5,4:15PM ET,W,n/a,6-6,away,Arizona Cardinals,19,6,18,288,169,119,1,14,224,119,105,2,-4.79,12.22,8.08
-14,14,Rams,Sun,December 12,4:05PM ET,L,n/a,6-7,away,New Orleans Saints,13,31,14,327,191,136,3,22,345,213,132,3,-15.15,-8.73,6.73
-15,15,Rams,Sun,December 19,1:00PM ET,L,n/a,6-8,home,Kansas City Chiefs,13,27,14,224,155,69,2,21,383,173,210,1,-14.88,-0.86,2.58
-16,16,Rams,Sun,December 26,1:00PM ET,W,n/a,7-8,home,San Francisco 49ers,25,17,19,335,275,60,1,12,331,246,85,2,-0.58,7.40,-2.54
-17,17,Rams,Sun,January 2,8:31PM ET,L,n/a,7-9,away,Seattle Seahawks,6,16,10,184,137,47,1,19,333,192,141,1,-21.53,5.64,4.70
+,Week,Team,Day,Date,Time,Win/Loss,Overtime,Team Record,Home/Away,Opponent,Points Scored,Points Allowed,Offense 1st Down,Total Yards Gained of Offense,Total yards Gained by Passing,Total Yards Gained by Rushing,Offense Turnovers,Defense 1st Down,Total Yards Allowed by Defense,Total Passing Yards Allowed by Defense,Total Rushing Yards Allowed by Defense,Defense Turnovers,Offense,Defense,Sp. Tms,Year
+0,0,Rams,Sun,September 12,,L,0,0-1,home,Arizona Cardinals,13,17,20,325,240,85,4,21,378,266,112,4,-11.58,6.62,0.96,2010
+1,1,Rams,Sun,September 19,,L,0,0-2,away,Oakland Raiders,14,16,16,210,135,75,1,25,404,231,173,2,-2.77,-0.92,1.42,2010
+2,2,Rams,Sun,September 26,,W,0,1-2,home,Washington Redskins,30,16,24,365,232,133,2,15,349,233,116,2,7.38,7.99,-2.85,2010
+3,3,Rams,Sun,October 3,,W,0,2-2,home,Seattle Seahawks,20,3,19,349,261,88,1,15,257,193,64,2,-5.23,22.3,-2.33,2010
+4,4,Rams,Sun,October 10,,L,0,2-3,away,Detroit Lions,6,44,23,341,213,128,3,20,322,233,89,0,-22.64,-9.55,-4.23,2010
+5,5,Rams,Sun,October 17,,W,0,3-3,home,San Diego Chargers,20,17,20,300,183,117,0,22,287,208,79,1,1.33,-0.32,1.93,2010
+6,6,Rams,Sun,October 24,,L,0,3-4,away,Tampa Bay Buccaneers,17,18,19,285,124,161,1,17,313,189,124,0,0.62,2.63,-3.38,2010
+7,7,Rams,Sun,October 31,,W,0,4-4,home,Carolina Panthers,20,10,15,246,184,62,0,14,201,176,25,4,-4.14,16.28,0.4,2010
+8,8,Rams,,,,,0,,home,<strong>Bye Week</strong>,0,0,0,0,0,0,0,0,0,0,0,0,,,,2010
+9,9,1,1,1,1.0,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1.0,1.0,1.0,1
+10,10,Rams,Sun,November 21,,L,0,4-6,home,Atlanta Falcons,17,34,15,304,233,71,1,24,391,253,138,0,-1.25,-12.25,0.03,2010
+11,11,Rams,Sun,November 28,,W,0,5-6,away,Denver Broncos,36,33,24,431,308,123,0,24,449,330,119,2,15.18,-9.59,0.18,2010
+12,12,Rams,Sun,December 5,,W,0,6-6,away,Arizona Cardinals,19,6,18,288,169,119,1,14,224,119,105,2,-4.79,12.22,8.08,2010
+13,13,Rams,Sun,December 12,,L,0,6-7,away,New Orleans Saints,13,31,14,327,191,136,3,22,345,213,132,3,-15.15,-8.73,6.73,2010
+14,14,Rams,Sun,December 19,,L,0,6-8,home,Kansas City Chiefs,13,27,14,224,155,69,2,21,383,173,210,1,-14.88,-0.86,2.58,2010
+15,15,Rams,Sun,December 26,,W,0,7-8,home,San Francisco 49ers,25,17,19,335,275,60,1,12,331,246,85,2,-0.58,7.4,-2.54,2010
+16,16,Rams,Sun,January 2,,L,0,7-9,away,Seattle Seahawks,6,16,10,184,137,47,1,19,333,192,141,1,-21.53,5.64,4.7,2010
