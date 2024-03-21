@@ -1,15 +1,15 @@
-,No.,Team,Player,Age,Pos,Games Played,Games Started,Rush TD,Reception TD,Punt Return TD,Kick Return TD,Fumble Return TD,Interception TD,Other TD,All Touchdown Scored,2-Point Conversions Made,Two-Point Conversions Attempted,Defensive Two-Point Conversions,Extra Points Made,Extra Points Allowed,Field Goals Made,Field Goals Attempted,Safeties Scored by Player/Team,Total Points Scored by all Means,Poins per Game
-3,3,Vikings,Blair Walsh,25,K,16,0,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,33,37,34,39,n/a,135,8.4
-28,28,Vikings,Adrian Peterson,30,RB,16,16,11,n/a,n/a,n/a,n/a,n/a,n/a,11,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,66,4.1
-82,82,Vikings,Kyle Rudolph,26,TE,16,16,n/a,5,n/a,n/a,n/a,n/a,n/a,5,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,30,1.9
-14,14,Vikings,Stefon Diggs,22,WR,13,9,n/a,4,n/a,n/a,n/a,n/a,n/a,4,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,24,1.8
-5,5,Vikings,Teddy Bridgewater,23,QB,16,16,3,n/a,n/a,n/a,n/a,n/a,n/a,3,1,n/a,n/a,n/a,n/a,n/a,n/a,n/a,20,1.3
-48,48,Vikings,Zach Line,25,RB,16,5,2,1,n/a,n/a,n/a,n/a,n/a,3,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,18,1.1
-31,31,Vikings,Jerick McKinnon,23,RB,16,0,2,1,n/a,n/a,n/a,n/a,n/a,3,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,18,1.1
-84,84,Vikings,Cordarrelle Patterson,24,WR,16,1,n/a,n/a,n/a,2,n/a,n/a,n/a,2,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,12,0.8
-11,11,Vikings,Mike Wallace,29,WR,16,12,n/a,2,n/a,n/a,n/a,n/a,n/a,2,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,12,0.8
-85,85,Vikings,Rhett Ellison,27,TE,15,9,n/a,1,n/a,n/a,n/a,n/a,n/a,1,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,6,0.4
-52,52,Vikings,Chad Greenway,32,LLB,16,12,n/a,n/a,n/a,n/a,n/a,1,n/a,1,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,6,0.4
-24,24,Vikings,Captain Munnerlyn,27,DB,16,5,n/a,n/a,n/a,n/a,1,n/a,n/a,1,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,6,0.4
-35,35,Vikings,Marcus Sherels,28,DB,16,0,n/a,n/a,1,n/a,n/a,n/a,n/a,1,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,6,0.4
-22,22,Vikings,Harrison Smith,26,FS,13,13,n/a,n/a,n/a,n/a,n/a,1,n/a,1,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,6,0.5
+,No.,Team,Player,Age,Pos,Games Played,Games Started,Rush TD,Reception TD,Punt Return TD,Kick Return TD,Fumble Return TD,Interception TD,Other TD,All Touchdown Scored,2-Point Conversions Made,Two-Point Conversions Attempted,Defensive Two-Point Conversions,Extra Points Made,Extra Points Allowed,Field Goals Made,Field Goals Attempted,Safeties Scored by Player/Team,Total Points Scored by all Means,Poins per Game,Year
+0,3,Vikings,Blair Walsh,25,K,16,0,0,0,0,0,0,0,0,0,0,0,0,33,37,34,39,,135,8.4,2015
+1,28,Vikings,Adrian Peterson,30,RB,16,16,11,0,0,0,0,0,0,11,0,0,0,0,0,0,0,,66,4.1,2015
+2,82,Vikings,Kyle Rudolph,26,TE,16,16,0,5,0,0,0,0,0,5,0,0,0,0,0,0,0,,30,1.9,2015
+3,14,Vikings,Stefon Diggs,22,WR,13,9,0,4,0,0,0,0,0,4,0,0,0,0,0,0,0,,24,1.8,2015
+4,5,Vikings,Teddy Bridgewater,23,QB,16,16,3,0,0,0,0,0,0,3,1,0,0,0,0,0,0,,20,1.3,2015
+5,48,Vikings,Zach Line,25,RB,16,5,2,1,0,0,0,0,0,3,0,0,0,0,0,0,0,,18,1.1,2015
+6,31,Vikings,Jerick McKinnon,23,RB,16,0,2,1,0,0,0,0,0,3,0,0,0,0,0,0,0,,18,1.1,2015
+7,84,Vikings,Cordarrelle Patterson,24,WR,16,1,0,0,0,2,0,0,0,2,0,0,0,0,0,0,0,,12,0.8,2015
+8,11,Vikings,Mike Wallace,29,WR,16,12,0,2,0,0,0,0,0,2,0,0,0,0,0,0,0,,12,0.8,2015
+9,85,Vikings,Rhett Ellison,27,TE,15,9,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,,6,0.4,2015
+10,52,Vikings,Chad Greenway,32,LLB,16,12,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,,6,0.4,2015
+11,24,Vikings,Captain Munnerlyn,27,DB,16,5,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,,6,0.4,2015
+12,35,Vikings,Marcus Sherels,28,DB,16,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,,6,0.4,2015
+13,22,Vikings,Harrison Smith,26,FS,13,13,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,,6,0.5,2015

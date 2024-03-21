@@ -1,18 +1,18 @@
-,Week,Team,Day,Date,Time,Win/Loss,Overtime,Team Record,Home/Away,Opponent,Points Scored,Points Allowed,Offense 1st Down,Total Yards Gained of Offense,Total yards Gained by Passing,Total Yards Gained by Rushing,Offense Turnovers,Defense 1st Down,Total Yards Allowed by Defense,Total Passing Yards Allowed by Defense,Total Rushing Yards Allowed by Defense,Defense Turnovers,Offense,Defense,Sp. Tms
-1,1,Chargers,Sun,September 13,4:05PM ET,W,n/a,1-0,home,Detroit Lions,33,28,28,483,387,96,3,16,302,233,69,2,6.12,-2.96,-1.45
-2,2,Chargers,Sun,September 20,1:03PM ET,L,n/a,1-1,away,Cincinnati Bengals,19,24,19,354,223,131,3,20,389,214,175,2,2.55,-3.46,-4.52
-3,3,Chargers,Sun,September 27,1:02PM ET,L,n/a,1-2,away,Minnesota Vikings,14,31,21,369,279,90,2,18,284,121,163,1,-7.49,-6.45,-2.90
-4,4,Chargers,Sun,October 4,4:05PM ET,W,n/a,2-2,home,Cleveland Browns,30,27,23,438,347,91,n/a,20,432,332,100,1,18.04,-11.74,-5.56
-5,5,Chargers,Mon,October 12,8:30PM ET,L,n/a,2-3,home,Pittsburgh Steelers,20,24,24,406,354,52,2,14,349,194,155,1,-4.41,-2.16,2.85
-6,6,Chargers,Sun,October 18,4:25PM ET,L,n/a,2-4,away,Green Bay Packers,20,27,32,548,488,60,1,17,370,237,133,n/a,14.75,-16.98,-3.92
-7,7,Chargers,Sun,October 25,4:05PM ET,L,n/a,2-5,home,Oakland Raiders,29,37,28,417,327,90,2,19,412,282,130,n/a,8.25,-10.90,-7.19
-8,8,Chargers,Sun,November 1,1:02PM ET,L,n/a,2-6,away,Baltimore Ravens,26,29,22,371,290,81,n/a,23,365,293,72,n/a,16.54,-13.68,-5.40
-9,9,Chargers,Mon,November 9,8:30PM ET,L,n/a,2-7,home,Chicago Bears,19,22,19,339,262,77,1,25,446,337,109,2,1.92,-6.81,3.75
-10,10,Chargers,n/a,n/a,n/a,n/a,n/a,n/a,home,<strong>Bye Week</strong>,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
-11,11,Chargers,Sun,November 22,4:05PM ET,L,n/a,2-8,home,Kansas City Chiefs,3,33,14,201,149,52,2,22,385,232,153,n/a,-18.81,-17.35,5.50
-12,12,Chargers,Sun,November 29,1:03PM ET,W,n/a,3-8,away,Jacksonville Jaguars,31,25,24,369,290,79,n/a,20,420,318,102,1,10.91,-3.32,0.50
-13,13,Chargers,Sun,December 6,4:05PM ET,L,n/a,3-9,home,Denver Broncos,3,17,15,272,179,93,3,19,293,159,134,1,-24.08,0.16,5.00
-14,14,Chargers,Sun,December 13,1:03PM ET,L,n/a,3-10,away,Kansas City Chiefs,3,10,15,280,236,44,1,18,329,179,150,2,-4.55,-7.56,6.96
-15,15,Chargers,Sun,December 20,4:25PM ET,W,n/a,4-10,home,Miami Dolphins,30,14,26,442,302,140,2,13,231,187,44,1,20.73,3.57,-5.42
-16,16,Chargers,Thu,December 24,8:26PM ET,L,OT,4-11,away,Oakland Raiders,20,23,19,343,271,72,1,14,281,175,106,1,-7.37,7.84,-7.31
-17,17,Chargers,Sun,January 3,4:25PM ET,L,n/a,4-12,away,Denver Broncos,20,27,15,317,207,110,1,21,503,293,210,5,-10.87,0.27,2.21
+,Week,Team,Day,Date,Time,Win/Loss,Overtime,Team Record,Home/Away,Opponent,Points Scored,Points Allowed,Offense 1st Down,Total Yards Gained of Offense,Total yards Gained by Passing,Total Yards Gained by Rushing,Offense Turnovers,Defense 1st Down,Total Yards Allowed by Defense,Total Passing Yards Allowed by Defense,Total Rushing Yards Allowed by Defense,Defense Turnovers,Offense,Defense,Sp. Tms,Year
+0,0,Chargers,Sun,September 13,,W,0,1-0,home,Detroit Lions,33,28,28,483,387,96,3,16,302,233,69,2,6.12,-2.96,-1.45,2015
+1,1,Chargers,Sun,September 20,,L,0,1-1,away,Cincinnati Bengals,19,24,19,354,223,131,3,20,389,214,175,2,2.55,-3.46,-4.52,2015
+2,2,Chargers,Sun,September 27,,L,0,1-2,away,Minnesota Vikings,14,31,21,369,279,90,2,18,284,121,163,1,-7.49,-6.45,-2.9,2015
+3,3,Chargers,Sun,October 4,,W,0,2-2,home,Cleveland Browns,30,27,23,438,347,91,0,20,432,332,100,1,18.04,-11.74,-5.56,2015
+4,4,Chargers,Mon,October 12,,L,0,2-3,home,Pittsburgh Steelers,20,24,24,406,354,52,2,14,349,194,155,1,-4.41,-2.16,2.85,2015
+5,5,Chargers,Sun,October 18,,L,0,2-4,away,Green Bay Packers,20,27,32,548,488,60,1,17,370,237,133,0,14.75,-16.98,-3.92,2015
+6,6,Chargers,Sun,October 25,,L,0,2-5,home,Oakland Raiders,29,37,28,417,327,90,2,19,412,282,130,0,8.25,-10.9,-7.19,2015
+7,7,Chargers,Sun,November 1,,L,0,2-6,away,Baltimore Ravens,26,29,22,371,290,81,0,23,365,293,72,0,16.54,-13.68,-5.4,2015
+8,8,Chargers,Mon,November 9,,L,0,2-7,home,Chicago Bears,19,22,19,339,262,77,1,25,446,337,109,2,1.92,-6.81,3.75,2015
+9,9,Chargers,,,,,0,,home,<strong>Bye Week</strong>,0,0,0,0,0,0,0,0,0,0,0,0,,,,2015
+10,10,Chargers,Sun,November 22,,L,0,2-8,home,Kansas City Chiefs,3,33,14,201,149,52,2,22,385,232,153,0,-18.81,-17.35,5.5,2015
+11,11,Chargers,Sun,November 29,,W,0,3-8,away,Jacksonville Jaguars,31,25,24,369,290,79,0,20,420,318,102,1,10.91,-3.32,0.5,2015
+12,12,Chargers,Sun,December 6,,L,0,3-9,home,Denver Broncos,3,17,15,272,179,93,3,19,293,159,134,1,-24.08,0.16,5.0,2015
+13,13,Chargers,Sun,December 13,,L,0,3-10,away,Kansas City Chiefs,3,10,15,280,236,44,1,18,329,179,150,2,-4.55,-7.56,6.96,2015
+14,14,Chargers,Sun,December 20,,W,0,4-10,home,Miami Dolphins,30,14,26,442,302,140,2,13,231,187,44,1,20.73,3.57,-5.42,2015
+15,15,1,1,1,1.0,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1.0,1.0,1.0,1
+16,16,Chargers,Sun,January 3,,L,0,4-12,away,Denver Broncos,20,27,15,317,207,110,1,21,503,293,210,5,-10.87,0.27,2.21,2015

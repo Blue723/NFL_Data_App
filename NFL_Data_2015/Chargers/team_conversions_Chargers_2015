@@ -1,5 +1,5 @@
-,Player,Team,3rd Down Attempts in Game,3rd Down Conversions,3rd Down Conversion %,4th Down Attempts in Game,4th Down Conversions in Game,4th Down Conversion %,Red Zone Attempts,Touchdowns Scored After the Team Entered the Red Zone,% of the Time a Team Reaches the Red Zone and Scores a Touchdown
-Team Stats,Team Stats,Chargers,231,97,42.0%,15,5,33.3%,44,28,63.6%
-Opp. Stats,Opp. Stats,Chargers,195,74,37.9%,8,7,87.5%,46,23,50.0%
-Lg Rank Offense,Lg Rank Offense,Chargers,n/a,n/a,8,n/a,n/a,29,n/a,n/a,7
-Lg Rank Defense,Lg Rank Defense,Chargers,n/a,n/a,14,n/a,n/a,32,n/a,n/a,7
+,Player,Team,3rd Down Attempts in Game,3rd Down Conversions,3rd Down Conversion Per.,4th Down Attempts in Game,4th Down Conversions in Game,4th Down Conversion Per.,Red Zone Attempts,Touchdowns Scored After the Team Entered the Red Zone,Per. of the Time a Team Reaches the Red Zone and Scores a Touchdown,Year
+0,Team Stats,Chargers,231.0,97.0,42.0,15.0,5.0,33.3,44.0,28.0,63.6,2015.0
+1,Opp. Stats,Chargers,195.0,74.0,37.9,8.0,7.0,87.5,46.0,23.0,50.0,2015.0
+2,Lg Rank Offense,Chargers,,,8.0,,,29.0,,,7.0,2015.0
+3,Lg Rank Defense,Chargers,,,14.0,,,32.0,,,7.0,2015.0

@@ -1,21 +1,21 @@
-,Week,Team,Day,Date,Time,Win/Loss,Overtime,Team Record,Home/Away,Opponent,Points Scored,Points Allowed,Offense 1st Down,Total Yards Gained of Offense,Total yards Gained by Passing,Total Yards Gained by Rushing,Offense Turnovers,Defense 1st Down,Total Yards Allowed by Defense,Total Passing Yards Allowed by Defense,Total Rushing Yards Allowed by Defense,Defense Turnovers,Offense,Defense,Sp. Tms
-1,1,Packers,Sun,September 13,1:00PM ET,W,n/a,1-0,away,Chicago Bears,31,23,21,322,189,133,n/a,25,402,213,189,1,19.78,-11.43,1.29
-2,2,Packers,Sun,September 20,8:25PM ET,W,n/a,2-0,home,Seattle Seahawks,27,17,21,361,234,127,1,21,324,205,119,2,9.99,-1.19,3.78
-3,3,Packers,Mon,September 28,8:30PM ET,W,n/a,3-0,home,Kansas City Chiefs,38,28,26,448,325,123,n/a,23,326,251,75,1,16.14,-8.10,-0.93
-4,4,Packers,Sun,October 4,4:25PM ET,W,n/a,4-0,away,San Francisco 49ers,17,3,18,362,200,162,n/a,8,196,119,77,1,5.93,11.25,-4.95
-5,5,Packers,Sun,October 11,1:02PM ET,W,n/a,5-0,home,St. Louis Rams,24,10,14,322,236,86,3,17,334,143,191,4,-9.43,17.36,4.75
-6,6,Packers,Sun,October 18,4:25PM ET,W,n/a,6-0,home,San Diego Chargers,27,20,17,370,237,133,n/a,32,548,488,60,1,16.98,-14.75,3.92
-7,7,Packers,n/a,n/a,n/a,n/a,n/a,n/a,home,<strong>Bye Week</strong>,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
-8,8,Packers,Sun,November 1,8:30PM ET,L,n/a,6-1,away,Denver Broncos,10,29,14,140,50,90,n/a,24,500,340,160,1,-2.89,-20.90,5.26
-9,9,Packers,Sun,November 8,1:04PM ET,L,n/a,6-2,away,Carolina Panthers,29,37,21,402,331,71,2,20,427,297,130,1,1.26,-9.44,0.29
-10,10,Packers,Sun,November 15,1:04PM ET,L,n/a,6-3,home,Detroit Lions,16,18,22,372,325,47,n/a,16,287,242,45,1,1.03,4.40,-9.55
-11,11,Packers,Sun,November 22,4:25PM ET,W,n/a,7-3,away,Minnesota Vikings,30,13,19,320,196,124,n/a,16,342,248,94,1,7.13,4.55,4.26
-12,12,Packers,Thu,November 26,8:30PM ET,L,n/a,7-4,home,Chicago Bears,13,17,23,365,188,177,2,17,290,189,101,n/a,-5.40,1.05,1.20
-13,13,Packers,Thu,December 3,8:26PM ET,W,n/a,8-4,away,Detroit Lions,27,23,19,313,246,67,1,17,306,205,101,1,6.76,1.96,-5.50
-14,14,Packers,Sun,December 13,4:25PM ET,W,n/a,9-4,home,Dallas Cowboys,28,7,29,435,205,230,n/a,11,270,99,171,1,6.90,13.60,-3.05
-15,15,Packers,Sun,December 20,4:05PM ET,W,n/a,10-4,away,Oakland Raiders,30,20,18,293,190,103,2,20,372,252,120,2,-3.56,14.05,2.58
-16,16,Packers,Sun,December 27,4:25PM ET,L,n/a,10-5,away,Arizona Cardinals,8,38,16,178,77,101,4,19,381,260,121,2,-26.12,-4.66,1.14
-17,17,Packers,Sun,January 3,8:30PM ET,L,n/a,10-6,home,Minnesota Vikings,13,20,19,350,274,76,2,14,242,91,151,2,-12.88,1.59,2.09
-n/a,n/a,Packers,n/a,<strong>Playoffs</strong>,n/a,n/a,n/a,n/a,home,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
-Wild Card,Wild Card,Packers,Sun,January 10,4:42PM ET,W,n/a,11-6,away,Washington Redskins,35,18,24,346,205,141,1,20,354,270,84,1,12.30,5.95,-1.64
-Division,Division,Packers,Sat,January 16,8:15PM ET,L,OT,11-7,away,Arizona Cardinals,20,26,18,386,251,135,1,20,368,328,40,2,6.14,-6.94,-3.17
+,Week,Team,Day,Date,Time,Win/Loss,Overtime,Team Record,Home/Away,Opponent,Points Scored,Points Allowed,Offense 1st Down,Total Yards Gained of Offense,Total yards Gained by Passing,Total Yards Gained by Rushing,Offense Turnovers,Defense 1st Down,Total Yards Allowed by Defense,Total Passing Yards Allowed by Defense,Total Rushing Yards Allowed by Defense,Defense Turnovers,Offense,Defense,Sp. Tms,Year
+0,0,Packers,Sun,September 13,,W,0,1-0,away,Chicago Bears,31,23,21,322,189,133,0,25,402,213,189,1,19.78,-11.43,1.29,2015
+1,1,Packers,Sun,September 20,,W,0,2-0,home,Seattle Seahawks,27,17,21,361,234,127,1,21,324,205,119,2,9.99,-1.19,3.78,2015
+2,2,Packers,Mon,September 28,,W,0,3-0,home,Kansas City Chiefs,38,28,26,448,325,123,0,23,326,251,75,1,16.14,-8.1,-0.93,2015
+3,3,Packers,Sun,October 4,,W,0,4-0,away,San Francisco 49ers,17,3,18,362,200,162,0,8,196,119,77,1,5.93,11.25,-4.95,2015
+4,4,Packers,Sun,October 11,,W,0,5-0,home,St. Louis Rams,24,10,14,322,236,86,3,17,334,143,191,4,-9.43,17.36,4.75,2015
+5,5,Packers,Sun,October 18,,W,0,6-0,home,San Diego Chargers,27,20,17,370,237,133,0,32,548,488,60,1,16.98,-14.75,3.92,2015
+6,6,Packers,,,,,0,,home,<strong>Bye Week</strong>,0,0,0,0,0,0,0,0,0,0,0,0,,,,2015
+7,7,Packers,Sun,November 1,,L,0,6-1,away,Denver Broncos,10,29,14,140,50,90,0,24,500,340,160,1,-2.89,-20.9,5.26,2015
+8,8,Packers,Sun,November 8,,L,0,6-2,away,Carolina Panthers,29,37,21,402,331,71,2,20,427,297,130,1,1.26,-9.44,0.29,2015
+9,9,Packers,Sun,November 15,,L,0,6-3,home,Detroit Lions,16,18,22,372,325,47,0,16,287,242,45,1,1.03,4.4,-9.55,2015
+10,10,Packers,Sun,November 22,,W,0,7-3,away,Minnesota Vikings,30,13,19,320,196,124,0,16,342,248,94,1,7.13,4.55,4.26,2015
+11,11,Packers,Thu,November 26,,L,0,7-4,home,Chicago Bears,13,17,23,365,188,177,2,17,290,189,101,0,-5.4,1.05,1.2,2015
+12,12,Packers,Thu,December 3,,W,0,8-4,away,Detroit Lions,27,23,19,313,246,67,1,17,306,205,101,1,6.76,1.96,-5.5,2015
+13,13,Packers,Sun,December 13,,W,0,9-4,home,Dallas Cowboys,28,7,29,435,205,230,0,11,270,99,171,1,6.9,13.6,-3.05,2015
+14,14,Packers,Sun,December 20,,W,0,10-4,away,Oakland Raiders,30,20,18,293,190,103,2,20,372,252,120,2,-3.56,14.05,2.58,2015
+15,15,Packers,Sun,December 27,,L,0,10-5,away,Arizona Cardinals,8,38,16,178,77,101,4,19,381,260,121,2,-26.12,-4.66,1.14,2015
+16,16,Packers,Sun,January 3,,L,0,10-6,home,Minnesota Vikings,13,20,19,350,274,76,2,14,242,91,151,2,-12.88,1.59,2.09,2015
+17,17,Packers,,<strong>Playoffs</strong>,,,0,,home,,0,0,0,0,0,0,0,0,0,0,0,0,,,,2015
+18,18,Packers,Sun,January 10,,W,0,11-6,away,Washington Redskins,35,18,24,346,205,141,1,20,354,270,84,1,12.3,5.95,-1.64,2015
+19,19,1,1,1,1.0,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1.0,1.0,1.0,1

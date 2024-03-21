@@ -1,20 +1,20 @@
-,No.,Team,Player,Age,Position,Games Played,Games Started as an Offensive or Defensive Player,Rushing Attempts,Rushing Yards Gained,Rushing Touchdown,First Downs Rushing,Rushing Success Rate,Longest Rushing Attempt,Rushing Yards per Attempt,Rushing Yards per Game,Rushing Attempts per Game,Pass Targets,Receptions,Receiving Yards,Receiving Yards per Reception,Receiving Touchdowns,First Downs Receiving,Receiving Success Rate,Longest Reception,Receptions per Game,Receiving Yards per Game,Catch%,Receiving Yards per Target,Touches: Rushing Attempts and Receptions,Scrimmage Yards per Touch: Rushing + Receiving Yardage per Opportunity,Yards from Scrimmage: Receiving and Rushing Yards,Rushing and Receiving Touchdowns,Lost and Recovered Fumbles
-23,23,Giants,Rashad Jennings,30,RB,16,16,195,863,3,42,55.9,38,4.4,53.9,12.2,40,29,296,10.2,1,8,50.0,51,1.8,18.5,72.5%,7.4,224,5.2,1159,4,3
-44,44,Giants,Andre Williams,23,RB,16,0,88,257,1,12,31.8,35,2.9,16.1,5.5,3,1,7,7.0,0,0,33.3,7,0.1,0.4,33.3%,2.3,89,3.0,264,1,n/a
-34,34,Giants,Shane Vereen,26,RB,16,0,61,260,0,16,39.3,39,4.3,16.3,3.8,81,59,494,8.4,4,22,44.4,37,3.7,30.9,72.8%,6.1,120,6.3,754,4,1
-26,26,Giants,Orleans Darkwa,23,RB,16,0,36,153,1,7,47.2,17,4.3,9.6,2.3,5,3,31,10.3,0,2,60.0,15,0.2,1.9,60.0%,6.2,39,4.7,184,1,n/a
-10,10,Giants,Eli Manning,34,QB,16,16,20,61,0,5,20.0,18,3.1,3.8,1.3,n/a,n/a,n/a,n/a,0,n/a,n/a,n/a,n/a,n/a,n/a,n/a,20,3.1,61,0,11
-17,17,Giants,Dwayne Harris,28,WR,15,6,2,12,0,1,50.0,11,6.0,0.8,0.1,57,36,396,11.0,4,20,49.1,38,2.4,26.4,63.2%,6.9,38,10.7,408,4,3
-13,13,Giants,Odell Beckham Jr.,23,WR,15,15,1,3,0,1,0.0,3,3.0,0.2,0.1,158,96,1450,15.1,13,68,53.2,87,6.4,96.7,60.8%,9.2,97,15.0,1453,13,2
-82,82,Giants,Rueben Randle,24,WR,16,16,n/a,n/a,0,n/a,n/a,n/a,n/a,n/a,n/a,90,57,797,14.0,8,36,53.3,72,3.6,49.8,63.3%,8.9,57,14.0,797,8,n/a
-45,45,Giants,Will Tye,24,TE,13,7,n/a,n/a,0,n/a,n/a,n/a,n/a,n/a,n/a,62,42,464,11.0,3,23,54.8,45,3.2,35.7,67.7%,7.5,42,11.0,464,3,1
-84,84,Giants,Larry Donnell,27,TE,8,8,n/a,n/a,0,n/a,n/a,n/a,n/a,n/a,n/a,41,29,223,7.7,2,13,53.7,22,3.6,27.9,70.7%,5.4,29,7.7,223,2,n/a
-86,86,Giants,Jerome Cunningham,24,TE,9,3,n/a,n/a,0,n/a,n/a,n/a,n/a,n/a,n/a,16,8,59,7.4,0,4,37.5,16,0.9,6.6,50.0%,3.7,8,7.4,59,0,n/a
-88,88,Giants,Hakeem Nicks,27,WR,6,2,n/a,n/a,0,n/a,n/a,n/a,n/a,n/a,n/a,14,7,54,7.7,0,2,42.9,19,1.2,9.0,50.0%,3.9,7,7.7,54,0,n/a
-19,19,Giants,Myles White,25,WR,12,0,n/a,n/a,0,n/a,n/a,n/a,n/a,n/a,n/a,20,7,88,12.6,1,4,25.0,28,0.6,7.3,35.0%,4.4,7,12.6,88,1,n/a
-85,85,Giants,Daniel Fells,32,TE,2,1,n/a,n/a,0,n/a,n/a,n/a,n/a,n/a,n/a,7,6,60,10.0,0,4,71.4,23,3.0,30.0,85.7%,8.6,6,10.0,60,0,n/a
-15,15,Giants,Preston Parker,28,WR,2,1,n/a,n/a,0,n/a,n/a,n/a,n/a,n/a,n/a,12,5,40,8.0,0,1,33.3,15,2.5,20.0,41.7%,3.3,5,8.0,40,0,n/a
-81,81,Giants,Matt LaCosse,23,TE,2,0,n/a,n/a,0,n/a,n/a,n/a,n/a,n/a,n/a,3,3,22,7.3,0,2,66.7,10,1.5,11.0,100.0%,7.3,3,7.3,22,0,n/a
-18,18,Giants,Geremy Davis,23,WR,10,0,n/a,n/a,0,n/a,n/a,n/a,n/a,n/a,n/a,3,2,21,10.5,0,1,33.3,16,0.2,2.1,66.7%,7.0,2,10.5,21,0,n/a
-83,83,Giants,Ben Edwards,23,WR,2,0,n/a,n/a,0,n/a,n/a,n/a,n/a,n/a,n/a,2,1,9,9.0,0,n/a,n/a,9,0.5,4.5,50.0%,4.5,1,9.0,9,0,n/a
-76,76,Giants,Ereck Flowers,21,LT,15,15,n/a,n/a,0,n/a,n/a,n/a,n/a,n/a,n/a,1,1,-11,-11.0,0,n/a,n/a,-11,0.1,-0.7,100.0%,-11.0,1,-11.0,-11,0,n/a
+,No.,Team,Player,Age,Position,Games Played,Games Started as an Offensive or Defensive Player,Rushing Attempts,Rushing Yards Gained,Rushing Touchdown,First Downs Rushing,Rushing Success Rate,Longest Rushing Attempt,Rushing Yards per Attempt,Rushing Yards per Game,Rushing Attempts per Game,Pass Targets,Receptions,Receiving Yards,Receiving Yards per Reception,Receiving Touchdowns,First Downs Receiving,Receiving Success Rate,Longest Reception,Receptions per Game,Receiving Yards per Game,Catch Per.,Receiving Yards per Target,Touches: Rushing Attempts and Receptions,Scrimmage Yards per Touch: Rushing + Receiving Yardage per Opportunity,Yards from Scrimmage: Receiving and Rushing Yards,Rushing and Receiving Touchdowns,Lost and Recovered Fumbles,Year
+0,23,Giants,Rashad Jennings,30,RB,16,16,195,863,3,42,55.9,38,4.4,53.9,12.2,40,29,296,10.2,1,8,50.0,51,1.8,18.5,72.5,7.4,224,5.2,1159,4,3,2015
+1,44,Giants,Andre Williams,23,RB,16,0,88,257,1,12,31.8,35,2.9,16.1,5.5,3,1,7,7.0,0,0,33.3,7,0.1,0.4,33.3,2.3,89,3.0,264,1,0,2015
+2,34,Giants,Shane Vereen,26,RB,16,0,61,260,0,16,39.3,39,4.3,16.3,3.8,81,59,494,8.4,4,22,44.4,37,3.7,30.9,72.8,6.1,120,6.3,754,4,1,2015
+3,26,Giants,Orleans Darkwa,23,RB,16,0,36,153,1,7,47.2,17,4.3,9.6,2.3,5,3,31,10.3,0,2,60.0,15,0.2,1.9,60.0,6.2,39,4.7,184,1,0,2015
+4,10,Giants,Eli Manning,34,QB,16,16,20,61,0,5,20.0,18,3.1,3.8,1.3,0,0,0,,0,0,,0,,,0.0,,20,3.1,61,0,11,2015
+5,17,Giants,Dwayne Harris,28,WR,15,6,2,12,0,1,50.0,11,6.0,0.8,0.1,57,36,396,11.0,4,20,49.1,38,2.4,26.4,63.2,6.9,38,10.7,408,4,3,2015
+6,13,Giants,Odell Beckham Jr.,23,WR,15,15,1,3,0,1,0.0,3,3.0,0.2,0.1,158,96,1450,15.1,13,68,53.2,87,6.4,96.7,60.8,9.2,97,15.0,1453,13,2,2015
+7,82,Giants,Rueben Randle,24,WR,16,16,0,0,0,0,,0,,,,90,57,797,14.0,8,36,53.3,72,3.6,49.8,63.3,8.9,57,14.0,797,8,0,2015
+8,45,Giants,Will Tye,24,TE,13,7,0,0,0,0,,0,,,,62,42,464,11.0,3,23,54.8,45,3.2,35.7,67.7,7.5,42,11.0,464,3,1,2015
+9,84,Giants,Larry Donnell,27,TE,8,8,0,0,0,0,,0,,,,41,29,223,7.7,2,13,53.7,22,3.6,27.9,70.7,5.4,29,7.7,223,2,0,2015
+10,86,Giants,Jerome Cunningham,24,TE,9,3,0,0,0,0,,0,,,,16,8,59,7.4,0,4,37.5,16,0.9,6.6,50.0,3.7,8,7.4,59,0,0,2015
+11,88,Giants,Hakeem Nicks,27,WR,6,2,0,0,0,0,,0,,,,14,7,54,7.7,0,2,42.9,19,1.2,9.0,50.0,3.9,7,7.7,54,0,0,2015
+12,19,Giants,Myles White,25,WR,12,0,0,0,0,0,,0,,,,20,7,88,12.6,1,4,25.0,28,0.6,7.3,35.0,4.4,7,12.6,88,1,0,2015
+13,85,Giants,Daniel Fells,32,TE,2,1,0,0,0,0,,0,,,,7,6,60,10.0,0,4,71.4,23,3.0,30.0,85.7,8.6,6,10.0,60,0,0,2015
+14,15,Giants,Preston Parker,28,WR,2,1,0,0,0,0,,0,,,,12,5,40,8.0,0,1,33.3,15,2.5,20.0,41.7,3.3,5,8.0,40,0,0,2015
+15,81,Giants,Matt LaCosse,23,TE,2,0,0,0,0,0,,0,,,,3,3,22,7.3,0,2,66.7,10,1.5,11.0,100.0,7.3,3,7.3,22,0,0,2015
+16,18,Giants,Geremy Davis,23,WR,10,0,0,0,0,0,,0,,,,3,2,21,10.5,0,1,33.3,16,0.2,2.1,66.7,7.0,2,10.5,21,0,0,2015
+17,83,Giants,Ben Edwards,23,WR,2,0,0,0,0,0,,0,,,,2,1,9,9.0,0,0,,9,0.5,4.5,50.0,4.5,1,9.0,9,0,0,2015
+18,76,Giants,Ereck Flowers,21,LT,15,15,0,0,0,0,,0,,,,1,1,-11,-11.0,0,0,,-11,0.1,-0.7,100.0,-11.0,1,-11.0,-11,0,0,2015

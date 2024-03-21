@@ -1,18 +1,18 @@
-,Week,Team,Day,Date,Time,Win/Loss,Overtime,Team Record,Home/Away,Opponent,Points Scored,Points Allowed,Offense 1st Down,Total Yards Gained of Offense,Total yards Gained by Passing,Total Yards Gained by Rushing,Offense Turnovers,Defense 1st Down,Total Yards Allowed by Defense,Total Passing Yards Allowed by Defense,Total Rushing Yards Allowed by Defense,Defense Turnovers,Offense,Defense,Sp. Tms
-1,1,Jets,Sun,September 13,1:04PM ET,W,n/a,1-0,home,Cleveland Browns,31,10,18,333,179,154,1,15,321,217,104,5,12.74,12.74,-2.57
-2,2,Jets,Mon,September 21,8:30PM ET,W,n/a,2-0,away,Indianapolis Colts,20,7,20,344,243,101,1,17,343,250,93,5,3.53,6.84,-0.64
-3,3,Jets,Sun,September 27,1:03PM ET,L,n/a,2-1,home,Philadelphia Eagles,17,24,19,323,276,47,4,18,231,108,123,1,-13.00,9.49,-4.25
-4,4,Jets,Sun,October 4,9:37AM ET,W,n/a,3-1,away,Miami Dolphins,27,14,23,425,218,207,1,17,226,167,59,2,4.80,12.53,-7.50
-5,5,Jets,n/a,n/a,n/a,n/a,n/a,n/a,home,<strong>Bye Week</strong>,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
-6,6,Jets,Sun,October 18,1:02PM ET,W,n/a,4-1,home,Washington Redskins,34,20,22,474,253,221,3,14,225,191,34,2,8.72,11.90,-6.67
-7,7,Jets,Sun,October 25,1:02PM ET,L,n/a,4-2,away,New England Patriots,23,30,25,372,283,89,1,20,353,337,16,n/a,10.33,-11.28,-3.42
-8,8,Jets,Sun,November 1,4:05PM ET,L,n/a,4-3,away,Oakland Raiders,20,34,22,366,292,74,1,21,451,333,118,n/a,4.34,-20.61,2.99
-9,9,Jets,Sun,November 8,1:02PM ET,W,n/a,5-3,home,Jacksonville Jaguars,28,23,14,290,261,29,n/a,19,436,338,98,4,0.91,-0.67,7.08
-10,10,Jets,Thu,November 12,8:26PM ET,L,n/a,5-4,home,Buffalo Bills,17,22,15,318,190,128,4,13,280,132,148,n/a,-11.12,11.29,-8.48
-11,11,Jets,Sun,November 22,1:03PM ET,L,n/a,5-5,away,Houston Texans,17,24,16,267,197,70,2,19,364,241,123,1,-8.30,-1.85,0.51
-12,12,Jets,Sun,November 29,1:02PM ET,W,n/a,6-5,home,Miami Dolphins,38,20,24,411,274,137,n/a,20,333,321,12,2,13.42,3.68,2.09
-13,13,Jets,Sun,December 6,1:03PM ET,W,OT,7-5,away,New York Giants,23,20,28,463,373,90,1,14,355,281,74,1,9.52,2.87,-6.92
-14,14,Jets,Sun,December 13,1:02PM ET,W,n/a,8-5,home,Tennessee Titans,30,8,24,439,256,183,n/a,15,292,268,24,1,14.10,8.70,-2.71
-15,15,Jets,Sat,December 19,8:26PM ET,W,n/a,9-5,away,Dallas Cowboys,19,16,20,372,299,73,1,15,309,176,133,4,-0.36,10.81,-9.21
-16,16,Jets,Sun,December 27,1:02PM ET,W,OT,10-5,home,New England Patriots,26,20,24,428,285,143,1,16,284,221,63,1,7.60,-2.18,0.48
-17,17,Jets,Sun,January 3,1:02PM ET,L,n/a,10-6,away,Buffalo Bills,17,22,15,300,178,122,3,18,295,182,113,1,-1.41,0.17,-5.25
+,Week,Team,Day,Date,Time,Win/Loss,Overtime,Team Record,Home/Away,Opponent,Points Scored,Points Allowed,Offense 1st Down,Total Yards Gained of Offense,Total yards Gained by Passing,Total Yards Gained by Rushing,Offense Turnovers,Defense 1st Down,Total Yards Allowed by Defense,Total Passing Yards Allowed by Defense,Total Rushing Yards Allowed by Defense,Defense Turnovers,Offense,Defense,Sp. Tms,Year
+0,0,Jets,Sun,September 13,,W,0,1-0,home,Cleveland Browns,31,10,18,333,179,154,1,15,321,217,104,5,12.74,12.74,-2.57,2015
+1,1,Jets,Mon,September 21,,W,0,2-0,away,Indianapolis Colts,20,7,20,344,243,101,1,17,343,250,93,5,3.53,6.84,-0.64,2015
+2,2,Jets,Sun,September 27,,L,0,2-1,home,Philadelphia Eagles,17,24,19,323,276,47,4,18,231,108,123,1,-13.0,9.49,-4.25,2015
+3,3,Jets,Sun,October 4,,W,0,3-1,away,Miami Dolphins,27,14,23,425,218,207,1,17,226,167,59,2,4.8,12.53,-7.5,2015
+4,4,Jets,,,,,0,,home,<strong>Bye Week</strong>,0,0,0,0,0,0,0,0,0,0,0,0,,,,2015
+5,5,Jets,Sun,October 18,,W,0,4-1,home,Washington Redskins,34,20,22,474,253,221,3,14,225,191,34,2,8.72,11.9,-6.67,2015
+6,6,Jets,Sun,October 25,,L,0,4-2,away,New England Patriots,23,30,25,372,283,89,1,20,353,337,16,0,10.33,-11.28,-3.42,2015
+7,7,Jets,Sun,November 1,,L,0,4-3,away,Oakland Raiders,20,34,22,366,292,74,1,21,451,333,118,0,4.34,-20.61,2.99,2015
+8,8,Jets,Sun,November 8,,W,0,5-3,home,Jacksonville Jaguars,28,23,14,290,261,29,0,19,436,338,98,4,0.91,-0.67,7.08,2015
+9,9,Jets,Thu,November 12,,L,0,5-4,home,Buffalo Bills,17,22,15,318,190,128,4,13,280,132,148,0,-11.12,11.29,-8.48,2015
+10,10,Jets,Sun,November 22,,L,0,5-5,away,Houston Texans,17,24,16,267,197,70,2,19,364,241,123,1,-8.3,-1.85,0.51,2015
+11,11,Jets,Sun,November 29,,W,0,6-5,home,Miami Dolphins,38,20,24,411,274,137,0,20,333,321,12,2,13.42,3.68,2.09,2015
+12,12,1,1,1,1.0,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1.0,1.0,1.0,1
+13,13,Jets,Sun,December 13,,W,0,8-5,home,Tennessee Titans,30,8,24,439,256,183,0,15,292,268,24,1,14.1,8.7,-2.71,2015
+14,14,Jets,Sat,December 19,,W,0,9-5,away,Dallas Cowboys,19,16,20,372,299,73,1,15,309,176,133,4,-0.36,10.81,-9.21,2015
+15,15,1,1,1,1.0,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1.0,1.0,1.0,1
+16,16,Jets,Sun,January 3,,L,0,10-6,away,Buffalo Bills,17,22,15,300,178,122,3,18,295,182,113,1,-1.41,0.17,-5.25,2015

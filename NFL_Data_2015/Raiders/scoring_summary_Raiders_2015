@@ -1,17 +1,17 @@
-,No.,Team,Player,Age,Pos,Games Played,Games Started,Rush TD,Reception TD,Punt Return TD,Kick Return TD,Fumble Return TD,Interception TD,Other TD,All Touchdown Scored,2-Point Conversions Made,Two-Point Conversions Attempted,Defensive Two-Point Conversions,Extra Points Made,Extra Points Allowed,Field Goals Made,Field Goals Attempted,Safeties Scored by Player/Team,Total Points Scored by all Means,Poins per Game
-11,11,Raiders,Sebastian Janikowski,37,K,16,0,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,38,39,21,26,n/a,101,6.3
-15,15,Raiders,Michael Crabtree,28,WR,16,15,n/a,9,n/a,n/a,n/a,n/a,n/a,9,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,54,3.4
-89,89,Raiders,Amari Cooper,21,WR,16,15,n/a,6,n/a,n/a,n/a,n/a,n/a,6,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,36,2.3
-28,28,Raiders,Latavius Murray,25,RB,16,16,6,n/a,n/a,n/a,n/a,n/a,n/a,6,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,36,2.3
-10,10,Raiders,Seth Roberts,24,WR,16,5,n/a,5,n/a,n/a,n/a,n/a,n/a,5,1,n/a,n/a,n/a,n/a,n/a,n/a,n/a,32,2.0
-18,18,Raiders,Andre Holmes,27,WR,16,1,n/a,4,n/a,n/a,n/a,n/a,n/a,4,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,24,1.5
-45,45,Raiders,Marcel Reece,30,RB,15,7,n/a,3,n/a,n/a,n/a,n/a,n/a,3,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,18,1.2
-88,88,Raiders,Clive Walford,24,TE,16,2,n/a,3,n/a,n/a,n/a,n/a,n/a,3,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,18,1.1
-29,29,Raiders,David Amerson,24,RCB/LCB,14,12,n/a,n/a,n/a,n/a,n/a,1,n/a,1,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,6,0.4
-26,26,Raiders,Roy Helu,27,RB,9,0,n/a,1,n/a,n/a,n/a,n/a,n/a,1,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,6,0.7
-22,22,Raiders,Taiwan Jones,27,RB,12,0,n/a,1,n/a,n/a,n/a,n/a,n/a,1,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,6,0.5
-49,49,Raiders,Jamize Olawale,26,FB,14,3,1,n/a,n/a,n/a,n/a,n/a,n/a,1,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,6,0.4
-81,81,Raiders,Mychal Rivera,25,TE,16,0,n/a,1,n/a,n/a,n/a,n/a,n/a,1,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,6,0.4
-86,86,Raiders,Lee Smith,28,TE,15,15,n/a,1,n/a,n/a,n/a,n/a,n/a,1,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,6,0.4
-96,96,Raiders,Denico Autry,25,LDE,14,8,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,1,2,0.1
-95,95,Raiders,Benson Mayowa,24,DE,12,2,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,1,2,0.2
+,No.,Team,Player,Age,Pos,Games Played,Games Started,Rush TD,Reception TD,Punt Return TD,Kick Return TD,Fumble Return TD,Interception TD,Other TD,All Touchdown Scored,2-Point Conversions Made,Two-Point Conversions Attempted,Defensive Two-Point Conversions,Extra Points Made,Extra Points Allowed,Field Goals Made,Field Goals Attempted,Safeties Scored by Player/Team,Total Points Scored by all Means,Poins per Game,Year
+0,11,Raiders,Sebastian Janikowski,37,K,16,0,0,0,0,0,0,0,0,0,0,0,0,38,39,21,26,,101,6.3,2015
+1,15,Raiders,Michael Crabtree,28,WR,16,15,0,9,0,0,0,0,0,9,0,0,0,0,0,0,0,,54,3.4,2015
+2,89,Raiders,Amari Cooper,21,WR,16,15,0,6,0,0,0,0,0,6,0,0,0,0,0,0,0,,36,2.3,2015
+3,28,Raiders,Latavius Murray,25,RB,16,16,6,0,0,0,0,0,0,6,0,0,0,0,0,0,0,,36,2.3,2015
+4,10,Raiders,Seth Roberts,24,WR,16,5,0,5,0,0,0,0,0,5,1,0,0,0,0,0,0,,32,2.0,2015
+5,18,Raiders,Andre Holmes,27,WR,16,1,0,4,0,0,0,0,0,4,0,0,0,0,0,0,0,,24,1.5,2015
+6,45,Raiders,Marcel Reece,30,RB,15,7,0,3,0,0,0,0,0,3,0,0,0,0,0,0,0,,18,1.2,2015
+7,88,Raiders,Clive Walford,24,TE,16,2,0,3,0,0,0,0,0,3,0,0,0,0,0,0,0,,18,1.1,2015
+8,29,Raiders,David Amerson,24,RCB/LCB,14,12,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,,6,0.4,2015
+9,26,Raiders,Roy Helu,27,RB,9,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,,6,0.7,2015
+10,22,Raiders,Taiwan Jones,27,RB,12,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,,6,0.5,2015
+11,49,Raiders,Jamize Olawale,26,FB,14,3,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,,6,0.4,2015
+12,81,Raiders,Mychal Rivera,25,TE,16,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,,6,0.4,2015
+13,86,Raiders,Lee Smith,28,TE,15,15,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,,6,0.4,2015
+14,96,Raiders,Denico Autry,25,LDE,14,8,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1.0,2,0.1,2015
+15,95,Raiders,Benson Mayowa,24,DE,12,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1.0,2,0.2,2015

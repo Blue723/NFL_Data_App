@@ -1,22 +1,22 @@
-,Week,Team,Day,Date,Time,Win/Loss,Overtime,Team Record,Home/Away,Opponent,Points Scored,Points Allowed,Offense 1st Down,Total Yards Gained of Offense,Total yards Gained by Passing,Total Yards Gained by Rushing,Offense Turnovers,Defense 1st Down,Total Yards Allowed by Defense,Total Passing Yards Allowed by Defense,Total Rushing Yards Allowed by Defense,Defense Turnovers,Offense,Defense,Sp. Tms
-1,1,Broncos,Sun,September 13,4:25PM ET,W,n/a,1-0,home,Baltimore Ravens,19,13,16,219,150,69,1,11,173,100,73,2,-14.53,20.78,-1.43
-2,2,Broncos,Thu,September 17,8:29PM ET,W,n/a,2-0,away,Kansas City Chiefs,31,24,21,299,238,61,1,20,314,167,147,5,-6.63,9.40,5.00
-3,3,Broncos,Sun,September 27,8:30PM ET,W,n/a,3-0,away,Detroit Lions,24,12,19,354,313,41,2,22,290,262,28,3,4.66,7.25,-0.27
-4,4,Broncos,Sun,October 4,4:25PM ET,W,n/a,4-0,home,Minnesota Vikings,23,20,18,344,200,144,2,19,325,212,113,1,3.65,-1.67,2.67
-5,5,Broncos,Sun,October 11,4:25PM ET,W,n/a,5-0,away,Oakland Raiders,16,10,15,297,254,43,2,20,288,223,65,3,-7.77,8.27,4.42
-6,6,Broncos,Sun,October 18,1:02PM ET,W,OT,6-0,away,Cleveland Browns,26,23,21,442,290,152,3,20,298,189,109,3,-12.98,20.85,-4.83
-7,7,Broncos,n/a,n/a,n/a,n/a,n/a,n/a,home,<strong>Bye Week</strong>,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
-8,8,Broncos,Sun,November 1,8:30PM ET,W,n/a,7-0,home,Green Bay Packers,29,10,24,500,340,160,1,14,140,50,90,n/a,20.90,2.89,-5.26
-9,9,Broncos,Sun,November 8,4:25PM ET,L,n/a,7-1,away,Indianapolis Colts,24,27,16,309,274,35,2,27,365,245,120,n/a,3.28,-12.14,0.14
-10,10,Broncos,Sun,November 15,4:30PM ET,L,n/a,7-2,home,Kansas City Chiefs,13,29,18,221,152,69,5,13,303,197,106,n/a,-14.78,4.23,-7.40
-11,11,Broncos,Sun,November 22,1:02PM ET,W,n/a,8-2,away,Chicago Bears,17,15,21,389,219,170,n/a,19,347,261,86,2,4.79,0.16,-1.04
-12,12,Broncos,Sun,November 29,8:30PM ET,W,OT,9-2,home,New England Patriots,30,24,23,433,254,179,1,16,301,262,39,1,6.80,2.09,-1.42
-13,13,Broncos,Sun,December 6,4:05PM ET,W,n/a,10-2,away,San Diego Chargers,17,3,19,293,159,134,1,15,272,179,93,3,-0.16,24.08,-5.00
-14,14,Broncos,Sun,December 13,4:05PM ET,L,n/a,10-3,home,Oakland Raiders,12,15,20,310,276,34,2,8,126,99,27,n/a,-12.95,19.55,-11.01
-15,15,Broncos,Sun,December 20,4:25PM ET,L,n/a,10-4,away,Pittsburgh Steelers,27,34,20,385,281,104,2,28,377,354,23,2,-1.86,-5.14,-0.34
-16,16,Broncos,Mon,December 28,8:30PM ET,W,OT,11-4,home,Cincinnati Bengals,20,17,22,390,277,113,1,22,294,186,108,1,8.23,-1.33,-0.93
-17,17,Broncos,Sun,January 3,4:25PM ET,W,n/a,12-4,home,San Diego Chargers,27,20,21,503,293,210,5,15,317,207,110,1,-0.27,10.87,-2.21
-n/a,n/a,Broncos,n/a,<strong>Playoffs</strong>,n/a,n/a,n/a,n/a,home,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
-Division,Division,Broncos,Sun,January 17,4:40PM ET,W,n/a,13-4,home,Pittsburgh Steelers,23,16,19,324,215,109,n/a,16,396,311,85,1,-5.76,3.71,9.90
-Conf. Champ.,Conf. Champ.,Broncos,Sun,January 24,3:05PM ET,W,n/a,14-4,home,New England Patriots,20,18,12,244,145,99,1,20,336,292,44,2,-11.11,11.95,3.99
-SuperBowl,SuperBowl,Broncos,Sun,February 7,6:39PM ET,W,n/a,15-4,home,Carolina Panthers,24,10,11,194,104,90,2,21,315,197,118,4,-20.81,20.91,11.64
+,Week,Team,Day,Date,Time,Win/Loss,Overtime,Team Record,Home/Away,Opponent,Points Scored,Points Allowed,Offense 1st Down,Total Yards Gained of Offense,Total yards Gained by Passing,Total Yards Gained by Rushing,Offense Turnovers,Defense 1st Down,Total Yards Allowed by Defense,Total Passing Yards Allowed by Defense,Total Rushing Yards Allowed by Defense,Defense Turnovers,Offense,Defense,Sp. Tms,Year
+0,0,Broncos,Sun,September 13,,W,0,1-0,home,Baltimore Ravens,19,13,16,219,150,69,1,11,173,100,73,2,-14.53,20.78,-1.43,2015
+1,1,Broncos,Thu,September 17,,W,0,2-0,away,Kansas City Chiefs,31,24,21,299,238,61,1,20,314,167,147,5,-6.63,9.4,5.0,2015
+2,2,Broncos,Sun,September 27,,W,0,3-0,away,Detroit Lions,24,12,19,354,313,41,2,22,290,262,28,3,4.66,7.25,-0.27,2015
+3,3,Broncos,Sun,October 4,,W,0,4-0,home,Minnesota Vikings,23,20,18,344,200,144,2,19,325,212,113,1,3.65,-1.67,2.67,2015
+4,4,Broncos,Sun,October 11,,W,0,5-0,away,Oakland Raiders,16,10,15,297,254,43,2,20,288,223,65,3,-7.77,8.27,4.42,2015
+5,5,1,1,1,1.0,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1.0,1.0,1.0,1
+6,6,Broncos,,,,,0,,home,<strong>Bye Week</strong>,0,0,0,0,0,0,0,0,0,0,0,0,,,,2015
+7,7,Broncos,Sun,November 1,,W,0,7-0,home,Green Bay Packers,29,10,24,500,340,160,1,14,140,50,90,0,20.9,2.89,-5.26,2015
+8,8,Broncos,Sun,November 8,,L,0,7-1,away,Indianapolis Colts,24,27,16,309,274,35,2,27,365,245,120,0,3.28,-12.14,0.14,2015
+9,9,Broncos,Sun,November 15,,L,0,7-2,home,Kansas City Chiefs,13,29,18,221,152,69,5,13,303,197,106,0,-14.78,4.23,-7.4,2015
+10,10,Broncos,Sun,November 22,,W,0,8-2,away,Chicago Bears,17,15,21,389,219,170,0,19,347,261,86,2,4.79,0.16,-1.04,2015
+11,11,1,1,1,1.0,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1.0,1.0,1.0,1
+12,12,Broncos,Sun,December 6,,W,0,10-2,away,San Diego Chargers,17,3,19,293,159,134,1,15,272,179,93,3,-0.16,24.08,-5.0,2015
+13,13,Broncos,Sun,December 13,,L,0,10-3,home,Oakland Raiders,12,15,20,310,276,34,2,8,126,99,27,0,-12.95,19.55,-11.01,2015
+14,14,Broncos,Sun,December 20,,L,0,10-4,away,Pittsburgh Steelers,27,34,20,385,281,104,2,28,377,354,23,2,-1.86,-5.14,-0.34,2015
+15,15,1,1,1,1.0,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1.0,1.0,1.0,1
+16,16,Broncos,Sun,January 3,,W,0,12-4,home,San Diego Chargers,27,20,21,503,293,210,5,15,317,207,110,1,-0.27,10.87,-2.21,2015
+17,17,Broncos,,<strong>Playoffs</strong>,,,0,,home,,0,0,0,0,0,0,0,0,0,0,0,0,,,,2015
+18,18,Broncos,Sun,January 17,,W,0,13-4,home,Pittsburgh Steelers,23,16,19,324,215,109,0,16,396,311,85,1,-5.76,3.71,9.9,2015
+19,19,Broncos,Sun,January 24,,W,0,14-4,home,New England Patriots,20,18,12,244,145,99,1,20,336,292,44,2,-11.11,11.95,3.99,2015
+20,20,Broncos,Sun,February 7,,W,0,15-4,home,Carolina Panthers,24,10,11,194,104,90,2,21,315,197,118,4,-20.81,20.91,11.64,2015

@@ -1,6 +1,6 @@
-,No.,Team,Player,Age,Position,Games Played,Games Started,Punts Returned,Punts Return Yardage,Punts Returned for Touchdown,Longest Punt Return,Yards per Punt Return,Kickoff Returns,Yardage for Kickoffs Returned,Kickoffs Returned for a Touchdown,Longest Kickoff Return,Yards per Kickoff Return,All-purpose Yards
-21,21,Cardinals,Patrick Peterson,25,LCB,16,16,32,260,0,38,8.1,2,46,0,24,23.0,347
-31,31,Cardinals,David Johnson,24,RB,16,5,n/a,n/a,0,n/a,n/a,22,598,1,108,27.2,1636
-33,33,Cardinals,Kerwynn Williams,24,RB,6,0,n/a,n/a,0,n/a,n/a,8,126,0,24,15.8,284
-14,14,Cardinals,JJ Nelson,23,WR,11,2,4,13,0,11,3.3,n/a,n/a,0,n/a,n/a,312
-10,10,Cardinals,Brittan Golden,27,WR,14,0,3,16,0,10,5.3,n/a,n/a,0,n/a,n/a,21
+,No.,Team,Player,Age,Position,Games Played,Games Started,Punts Returned,Punts Return Yardage,Punts Returned for Touchdown,Longest Punt Return,Yards per Punt Return,Kickoff Returns,Yardage for Kickoffs Returned,Kickoffs Returned for a Touchdown,Longest Kickoff Return,Yards per Kickoff Return,All-purpose Yards,Year
+0,21,Cardinals,Patrick Peterson,25,LCB,16,16,32,260,0,38,8.1,2,46,0,24,23.0,347,2015
+1,31,Cardinals,David Johnson,24,RB,16,5,0,0,0,0,,22,598,1,108,27.2,1636,2015
+2,33,Cardinals,Kerwynn Williams,24,RB,6,0,0,0,0,0,,8,126,0,24,15.8,284,2015
+3,14,Cardinals,JJ Nelson,23,WR,11,2,4,13,0,11,3.3,0,0,0,0,,312,2015
+4,10,Cardinals,Brittan Golden,27,WR,14,0,3,16,0,10,5.3,0,0,0,0,,21,2015

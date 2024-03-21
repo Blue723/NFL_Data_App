@@ -1,4 +1,4 @@
-,No.,Team,Player,Age,Position,Games Played,Games Started,FGA 0-19,FGM 0-19,FGA 20-29,FGM 20-29,FGA 30-39,FGM 30-39,FGA 40-49,FGM 40-49,FGA 50+,FGM 50+,Field Goals Attempted,Field Goals Made,Longest Field Goal Made,% of Field Goals Made,Extra Points Attempted,Extra Points Made,Extra Point Percentage,Kickoffs,Kickoff Yards,Kickoff Touchbacks,% Kickoff was a Touchback,Kickoff Average Yardage
-3,3,Commanders,Dustin Hopkins,25,K,15,0,n/a,n/a,7,7,9,9,8,7,4,2,28,25,54,89.3%,40,39,97.5%,80,4967,52,65.0%,62.1
-2,2,Commanders,Kai Forbath,28,K,1,0,n/a,n/a,n/a,n/a,n/a,n/a,2,1,n/a,n/a,2,1,45,50.0%,1,1,100.0%,3,201,1,33.3%,67.0
-5,5,Commanders,Tress Way,25,P,16,0,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,2,120,n/a,n/a,60.0
+,No.,Team,Player,Age,Position,Games Played,Games Started,FGA 0-19,FGM 0-19,FGA 20-29,FGM 20-29,FGA 30-39,FGM 30-39,FGA 40-49,FGM 40-49,FGA 50+,FGM 50+,Field Goals Attempted,Field Goals Made,Longest Field Goal Made,Per. of Field Goals Made,Extra Points Attempted,Extra Points Made,Extra Point Per.,Kickoffs,Kickoff Yards,Kickoff Touchbacks,Per. Kickoff was a Touchback,Kickoff Average Yardage,Year
+0,3,Commanders,Dustin Hopkins,25,K,15,0,0,0,7,7,9,9,8,7,4,2,28,25,54,89.3,40,39,97.5,80,4967,52,65.0,62.1,2015
+1,2,Commanders,Kai Forbath,28,K,1,0,0,0,0,0,0,0,2,1,0,0,2,1,45,50.0,1,1,100.0,3,201,1,33.3,67.0,2015
+2,5,Commanders,Tress Way,25,P,16,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0.0,2,120,0,0.0,60.0,2015

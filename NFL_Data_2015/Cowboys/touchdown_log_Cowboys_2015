@@ -1,27 +1,27 @@
-,Rank,Team,Date,Opponent,Results,Quarter,Distance,Type,Detail
-1,1,Cowboys,2015-09-13,NYG,"W, 27-26",3,2,pass,Gavin Escobar
-2,2,Cowboys,2015-09-13,NYG,"W, 27-26",4,1,pass,Jason Witten
-3,3,Cowboys,2015-09-13,NYG,"W, 27-26",4,11,pass,Jason Witten
-4,4,Cowboys,2015-09-20,PHI,"W, 20-10",3,26,blocked punt,Kyle Wilber
-5,5,Cowboys,2015-09-20,PHI,"W, 20-10",4,42,pass,Terrance Williams
-6,6,Cowboys,2015-09-27,ATL,"L, 28-39",1,37,rush,Joseph Randle
-7,7,Cowboys,2015-09-27,ATL,"L, 28-39",1,1,rush,Joseph Randle
-8,8,Cowboys,2015-09-27,ATL,"L, 28-39",2,2,rush,Darren McFadden
-9,9,Cowboys,2015-09-27,ATL,"L, 28-39",2,1,rush,Joseph Randle
-10,10,Cowboys,2015-10-04,NOR,"L, 20-26",2,1,rush,Joseph Randle
-11,11,Cowboys,2015-10-04,NOR,"L, 20-26",4,17,pass,Terrance Williams
-12,12,Cowboys,2015-10-25,NYG,"L, 20-27",2,1,rush,Darren McFadden
-13,13,Cowboys,2015-10-25,NYG,"L, 20-27",4,25,pass,Devin Street
-14,14,Cowboys,2015-11-08,PHI,"L, 27-33",1,5,pass,Cole Beasley
-15,15,Cowboys,2015-11-08,PHI,"L, 27-33",3,17,pass,Cole Beasley
-16,16,Cowboys,2015-11-08,PHI,"L, 27-33",4,18,pass,Dez Bryant
-17,17,Cowboys,2015-11-22,MIA,"W, 24-14",2,12,interception,Rolando McClain
-18,18,Cowboys,2015-11-22,MIA,"W, 24-14",2,31,pass,Terrance Williams
-19,19,Cowboys,2015-11-22,MIA,"W, 24-14",4,16,pass,Dez Bryant
-20,20,Cowboys,2015-11-26,CAR,"L, 14-33",4,2,pass,Cole Beasley
-21,21,Cowboys,2015-12-07,WAS,"W, 19-16",4,6,rush,Darren McFadden
-22,22,Cowboys,2015-12-13,GNB,"L, 7-28",3,7,rush,Robert Turbin
-23,23,Cowboys,2015-12-19,NYJ,"L, 16-19",2,10,pass,Dez Bryant
-24,24,Cowboys,2016-01-03,WAS,"L, 23-34",2,4,pass,Jason Witten
-25,25,Cowboys,2016-01-03,WAS,"L, 23-34",2,5,pass,Cole Beasley
-26,26,Cowboys,2016-01-03,WAS,"L, 23-34",4,7,pass,Cole Beasley
+,Rank,Team,Date,Opponent,Win/Loss,Score,Quarter,Distance,Type,Detail,Year
+0,1,Cowboys,09/13/2015,NYG,Win, 27-26,3,2,pass,Gavin Escobar,2015
+1,2,Cowboys,09/13/2015,NYG,Win, 27-26,4,1,pass,Jason Witten,2015
+2,3,Cowboys,09/13/2015,NYG,Win, 27-26,4,11,pass,Jason Witten,2015
+3,4,Cowboys,09/20/2015,PHI,Win, 20-10,3,26,blocked punt,Kyle Wilber,2015
+4,5,Cowboys,09/20/2015,PHI,Win, 20-10,4,42,pass,Terrance Williams,2015
+5,6,Cowboys,09/27/2015,ATL,Loss, 28-39,1,37,rush,Joseph Randle,2015
+6,7,Cowboys,09/27/2015,ATL,Loss, 28-39,1,1,rush,Joseph Randle,2015
+7,8,Cowboys,09/27/2015,ATL,Loss, 28-39,2,2,rush,Darren McFadden,2015
+8,9,Cowboys,09/27/2015,ATL,Loss, 28-39,2,1,rush,Joseph Randle,2015
+9,10,Cowboys,10/04/2015,NOR,Loss, 20-26,2,1,rush,Joseph Randle,2015
+10,11,Cowboys,10/04/2015,NOR,Loss, 20-26,4,17,pass,Terrance Williams,2015
+11,12,Cowboys,10/25/2015,NYG,Loss, 20-27,2,1,rush,Darren McFadden,2015
+12,13,Cowboys,10/25/2015,NYG,Loss, 20-27,4,25,pass,Devin Street,2015
+13,14,Cowboys,11/08/2015,PHI,Loss, 27-33,1,5,pass,Cole Beasley,2015
+14,15,Cowboys,11/08/2015,PHI,Loss, 27-33,3,17,pass,Cole Beasley,2015
+15,16,Cowboys,11/08/2015,PHI,Loss, 27-33,4,18,pass,Dez Bryant,2015
+16,17,Cowboys,11/22/2015,MIA,Win, 24-14,2,12,interception,Rolando McClain,2015
+17,18,Cowboys,11/22/2015,MIA,Win, 24-14,2,31,pass,Terrance Williams,2015
+18,19,Cowboys,11/22/2015,MIA,Win, 24-14,4,16,pass,Dez Bryant,2015
+19,20,Cowboys,11/26/2015,CAR,Loss, 14-33,4,2,pass,Cole Beasley,2015
+20,21,Cowboys,12/07/2015,WAS,Win, 19-16,4,6,rush,Darren McFadden,2015
+21,22,Cowboys,12/13/2015,GNB,Loss, 7-28,3,7,rush,Robert Turbin,2015
+22,23,Cowboys,12/19/2015,NYJ,Loss, 16-19,2,10,pass,Dez Bryant,2015
+23,24,Cowboys,01/03/2016,WAS,Loss, 23-34,2,4,pass,Jason Witten,2015
+24,25,Cowboys,01/03/2016,WAS,Loss, 23-34,2,5,pass,Cole Beasley,2015
+25,26,Cowboys,01/03/2016,WAS,Loss, 23-34,4,7,pass,Cole Beasley,2015

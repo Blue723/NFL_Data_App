@@ -1,5 +1,5 @@
-,Player,Team,3rd Down Attempts in Game,3rd Down Conversions,3rd Down Conversion %,4th Down Attempts in Game,4th Down Conversions in Game,4th Down Conversion %,Red Zone Attempts,Touchdowns Scored After the Team Entered the Red Zone,% of the Time a Team Reaches the Red Zone and Scores a Touchdown
-Team Stats,Team Stats,Panthers,203,86,42.4%,10,6,60.0%,63,43,68.3%
-Opp. Stats,Opp. Stats,Panthers,227,86,37.9%,26,15,57.7%,40,21,52.5%
-Lg Rank Offense,Lg Rank Offense,Panthers,n/a,n/a,7,n/a,n/a,4,n/a,n/a,2
-Lg Rank Defense,Lg Rank Defense,Panthers,n/a,n/a,13,n/a,n/a,24,n/a,n/a,10
+,Player,Team,3rd Down Attempts in Game,3rd Down Conversions,3rd Down Conversion Per.,4th Down Attempts in Game,4th Down Conversions in Game,4th Down Conversion Per.,Red Zone Attempts,Touchdowns Scored After the Team Entered the Red Zone,Per. of the Time a Team Reaches the Red Zone and Scores a Touchdown,Year
+0,Team Stats,Panthers,203.0,86.0,42.4,10.0,6.0,60.0,63.0,43.0,68.3,2015.0
+1,Opp. Stats,Panthers,227.0,86.0,37.9,26.0,15.0,57.7,40.0,21.0,52.5,2015.0
+2,Lg Rank Offense,Panthers,,,7.0,,,4.0,,,2.0,2015.0
+3,Lg Rank Defense,Panthers,,,13.0,,,24.0,,,10.0,2015.0
