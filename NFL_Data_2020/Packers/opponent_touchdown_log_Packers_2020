@@ -1,43 +1,43 @@
-,Rank,Team,Date,Opponent,Results,Quarter,Distance,Type,Detail
-1,1,Packers,2020-09-13,MIN,"W, 43-34",1,1,rush,Dalvin Cook
-2,2,Packers,2020-09-13,MIN,"W, 43-34",4,37,pass,Adam Thielen
-3,3,Packers,2020-09-13,MIN,"W, 43-34",4,3,rush,Dalvin Cook
-4,4,Packers,2020-09-13,MIN,"W, 43-34",4,19,pass,Adam Thielen
-5,5,Packers,2020-09-20,DET,"W, 42-21",1,1,rush,Kerryon Johnson
-6,6,Packers,2020-09-20,DET,"W, 42-21",1,4,pass,Marvin Jones
-7,7,Packers,2020-09-20,DET,"W, 42-21",4,24,pass,Marvin Hall
-8,8,Packers,2020-09-27,NOR,"W, 37-30",1,11,pass,Alvin Kamara
-9,9,Packers,2020-09-27,NOR,"W, 37-30",2,10,pass,Emmanuel Sanders
-10,10,Packers,2020-09-27,NOR,"W, 37-30",3,52,pass,Alvin Kamara
-11,11,Packers,2020-10-05,ATL,"W, 30-16",3,5,rush,Todd Gurley
-12,12,Packers,2020-10-05,ATL,"W, 30-16",4,3,rush,Todd Gurley
-13,13,Packers,2020-10-18,TAM,"L, 10-38",2,32,interception,Jamel Dean
-14,14,Packers,2020-10-18,TAM,"L, 10-38",2,2,rush,Ronald Jones II
-15,15,Packers,2020-10-18,TAM,"L, 10-38",2,7,pass,Tyler Johnson
-16,16,Packers,2020-10-18,TAM,"L, 10-38",2,12,pass,Rob Gronkowski
-17,17,Packers,2020-10-18,TAM,"L, 10-38",3,1,rush,Ronald Jones II
-18,18,Packers,2020-10-25,HOU,"W, 35-20",3,3,pass,David Johnson
-19,19,Packers,2020-10-25,HOU,"W, 35-20",4,6,pass,Will Fuller
-20,20,Packers,2020-11-01,MIN,"L, 22-28",1,21,rush,Dalvin Cook
-21,21,Packers,2020-11-01,MIN,"L, 22-28",2,1,rush,Dalvin Cook
-22,22,Packers,2020-11-01,MIN,"L, 22-28",3,1,rush,Dalvin Cook
-23,23,Packers,2020-11-01,MIN,"L, 22-28",3,50,pass,Dalvin Cook
-24,24,Packers,2020-11-05,SFO,"W, 34-17",4,41,pass,Richie James
-25,25,Packers,2020-11-05,SFO,"W, 34-17",4,1,rush,Jerick McKinnon
-26,26,Packers,2020-11-15,JAX,"W, 24-20",2,91,punt,Keelan Cole
-27,27,Packers,2020-11-15,JAX,"W, 24-20",3,12,pass,Keelan Cole
-28,28,Packers,2020-11-22,IND,"L, 31-34",1,45,pass,Michael Pittman Jr.
-29,29,Packers,2020-11-22,IND,"L, 31-34",2,17,pass,Trey Burton
-30,30,Packers,2020-11-22,IND,"L, 31-34",3,6,pass,Jack Doyle
-31,31,Packers,2020-11-29,CHI,"W, 41-25",2,1,pass,Allen Robinson
-32,32,Packers,2020-11-29,CHI,"W, 41-25",4,6,pass,Allen Robinson
-33,33,Packers,2020-11-29,CHI,"W, 41-25",4,3,pass,David Montgomery
-34,34,Packers,2020-12-06,PHI,"W, 30-16",4,32,pass,Greg Ward
-35,35,Packers,2020-12-06,PHI,"W, 30-16",4,73,punt,Jalen Reagor
-36,36,Packers,2020-12-13,DET,"W, 31-24",1,1,pass,T.J. Hockenson
-37,37,Packers,2020-12-13,DET,"W, 31-24",2,3,rush,D'Andre Swift
-38,38,Packers,2020-12-13,DET,"W, 31-24",4,2,rush,Kerryon Johnson
-39,39,Packers,2020-12-19,CAR,"W, 24-16",3,13,rush,Teddy Bridgewater
-40,40,Packers,2020-12-27,TEN,"W, 40-14",2,12,pass,Jonnu Smith
-41,41,Packers,2020-12-27,TEN,"W, 40-14",3,45,rush,Ryan Tannehill
-42,42,Packers,2021-01-03,CHI,"W, 35-16",1,2,rush,David Montgomery
+,Rank,Team,Date,Opponent,Win/Loss,Score,Quarter,Distance,Type,Detail,Year
+0,1,Packers,09/13/2020,MIN,Win, 43-34,1,1,rush,Dalvin Cook,2020
+1,2,Packers,09/13/2020,MIN,Win, 43-34,4,37,pass,Adam Thielen,2020
+2,3,Packers,09/13/2020,MIN,Win, 43-34,4,3,rush,Dalvin Cook,2020
+3,4,Packers,09/13/2020,MIN,Win, 43-34,4,19,pass,Adam Thielen,2020
+4,5,Packers,09/20/2020,DET,Win, 42-21,1,1,rush,Kerryon Johnson,2020
+5,6,Packers,09/20/2020,DET,Win, 42-21,1,4,pass,Marvin Jones,2020
+6,7,Packers,09/20/2020,DET,Win, 42-21,4,24,pass,Marvin Hall,2020
+7,8,Packers,09/27/2020,NOR,Win, 37-30,1,11,pass,Alvin Kamara,2020
+8,9,Packers,09/27/2020,NOR,Win, 37-30,2,10,pass,Emmanuel Sanders,2020
+9,10,Packers,09/27/2020,NOR,Win, 37-30,3,52,pass,Alvin Kamara,2020
+10,11,Packers,10/05/2020,ATL,Win, 30-16,3,5,rush,Todd Gurley,2020
+11,12,Packers,10/05/2020,ATL,Win, 30-16,4,3,rush,Todd Gurley,2020
+12,13,Packers,10/18/2020,TAM,Loss, 10-38,2,32,interception,Jamel Dean,2020
+13,14,Packers,10/18/2020,TAM,Loss, 10-38,2,2,rush,Ronald Jones II,2020
+14,15,Packers,10/18/2020,TAM,Loss, 10-38,2,7,pass,Tyler Johnson,2020
+15,16,Packers,10/18/2020,TAM,Loss, 10-38,2,12,pass,Rob Gronkowski,2020
+16,17,Packers,10/18/2020,TAM,Loss, 10-38,3,1,rush,Ronald Jones II,2020
+17,18,Packers,10/25/2020,HOU,Win, 35-20,3,3,pass,David Johnson,2020
+18,19,Packers,10/25/2020,HOU,Win, 35-20,4,6,pass,Will Fuller,2020
+19,20,Packers,11/01/2020,MIN,Loss, 22-28,1,21,rush,Dalvin Cook,2020
+20,21,Packers,11/01/2020,MIN,Loss, 22-28,2,1,rush,Dalvin Cook,2020
+21,22,Packers,11/01/2020,MIN,Loss, 22-28,3,1,rush,Dalvin Cook,2020
+22,23,Packers,11/01/2020,MIN,Loss, 22-28,3,50,pass,Dalvin Cook,2020
+23,24,Packers,11/05/2020,SFO,Win, 34-17,4,41,pass,Richie James,2020
+24,25,Packers,11/05/2020,SFO,Win, 34-17,4,1,rush,Jerick McKinnon,2020
+25,26,Packers,11/15/2020,JAX,Win, 24-20,2,91,punt,Keelan Cole,2020
+26,27,Packers,11/15/2020,JAX,Win, 24-20,3,12,pass,Keelan Cole,2020
+27,28,Packers,11/22/2020,IND,Loss, 31-34,1,45,pass,Michael Pittman Jr.,2020
+28,29,Packers,11/22/2020,IND,Loss, 31-34,2,17,pass,Trey Burton,2020
+29,30,Packers,11/22/2020,IND,Loss, 31-34,3,6,pass,Jack Doyle,2020
+30,31,Packers,11/29/2020,CHI,Win, 41-25,2,1,pass,Allen Robinson,2020
+31,32,Packers,11/29/2020,CHI,Win, 41-25,4,6,pass,Allen Robinson,2020
+32,33,Packers,11/29/2020,CHI,Win, 41-25,4,3,pass,David Montgomery,2020
+33,34,Packers,12/06/2020,PHI,Win, 30-16,4,32,pass,Greg Ward,2020
+34,35,Packers,12/06/2020,PHI,Win, 30-16,4,73,punt,Jalen Reagor,2020
+35,36,Packers,12/13/2020,DET,Win, 31-24,1,1,pass,T.J. Hockenson,2020
+36,37,Packers,12/13/2020,DET,Win, 31-24,2,3,rush,D'Andre Swift,2020
+37,38,Packers,12/13/2020,DET,Win, 31-24,4,2,rush,Kerryon Johnson,2020
+38,39,Packers,12/19/2020,CAR,Win, 24-16,3,13,rush,Teddy Bridgewater,2020
+39,40,Packers,12/27/2020,TEN,Win, 40-14,2,12,pass,Jonnu Smith,2020
+40,41,Packers,12/27/2020,TEN,Win, 40-14,3,45,rush,Ryan Tannehill,2020
+41,42,Packers,01/03/2021,CHI,Win, 35-16,1,2,rush,David Montgomery,2020

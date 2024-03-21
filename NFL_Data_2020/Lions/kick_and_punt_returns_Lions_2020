@@ -1,7 +1,7 @@
-,No.,Team,Player,Age,Position,Games Played,Games Started,Punts Returned,Punts Return Yardage,Punts Returned for Touchdown,Longest Punt Return,Yards per Punt Return,Kickoff Returns,Yardage for Kickoffs Returned,Kickoffs Returned for a Touchdown,Longest Kickoff Return,Yards per Kickoff Return,All-purpose Yards
-39,39,Lions,Jamal Agnew,25,WR,14,2,14,178,1,74,12.7,28,783,0,71,28.0,1083
-80,80,Lions,Danny Amendola,35,WR,14,5,3,39,0,21,13.0,n/a,n/a,0,n/a,n/a,643
-53,53,Lions,Jason Cabinda,24,LB,16,2,n/a,n/a,0,n/a,n/a,2,24,0,13,12.0,32
-17,17,Lions,Marvin Hall,27,WR,11,5,n/a,n/a,0,n/a,n/a,2,13,0,11,6.5,304
-12,12,Lions,Mohamed Sanu,31,WR,7,4,n/a,n/a,0,n/a,n/a,1,15,0,15,15.0,196
-41,41,Lions,Jonathan Williams,26,RB,5,0,n/a,n/a,0,n/a,n/a,1,10,0,10,10.0,36
+,No.,Team,Player,Age,Position,Games Played,Games Started,Punts Returned,Punts Return Yardage,Punts Returned for Touchdown,Longest Punt Return,Yards per Punt Return,Kickoff Returns,Yardage for Kickoffs Returned,Kickoffs Returned for a Touchdown,Longest Kickoff Return,Yards per Kickoff Return,All-purpose Yards,Year
+0,39,Lions,Jamal Agnew,25,WR,14,2,14,178,1,74,12.7,28,783,0,71,28.0,1083,2020
+1,80,Lions,Danny Amendola,35,WR,14,5,3,39,0,21,13.0,0,0,0,0,,643,2020
+2,53,Lions,Jason Cabinda,24,LB,16,2,0,0,0,0,,2,24,0,13,12.0,32,2020
+3,17,Lions,Marvin Hall,27,WR,11,5,0,0,0,0,,2,13,0,11,6.5,304,2020
+4,12,Lions,Mohamed Sanu,31,WR,7,4,0,0,0,0,,1,15,0,15,15.0,196,2020
+5,41,Lions,Jonathan Williams,26,RB,5,0,0,0,0,0,,1,10,0,10,10.0,36,2020

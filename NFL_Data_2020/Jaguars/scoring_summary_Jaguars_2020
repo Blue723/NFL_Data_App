@@ -1,18 +1,18 @@
-,No.,Team,Player,Age,Pos,Games Played,Games Started,Rush TD,Reception TD,Punt Return TD,Kick Return TD,Fumble Return TD,Interception TD,Other TD,All Touchdown Scored,2-Point Conversions Made,Two-Point Conversions Attempted,Defensive Two-Point Conversions,Extra Points Made,Extra Points Allowed,Field Goals Made,Field Goals Attempted,Safeties Scored by Player/Team,Total Points Scored by all Means,Poins per Game
-30,30,Jaguars,James Robinson,22,RB,14,14,7,3,n/a,n/a,n/a,n/a,n/a,10,1,n/a,n/a,n/a,n/a,n/a,n/a,n/a,62,4.4
-84,84,Jaguars,Keelan Cole,27,WR,16,5,n/a,5,1,n/a,n/a,n/a,n/a,6,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,36,2.3
-7,7,Jaguars,Aldrick Rosas,26,K,6,0,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,9,9,8,11,n/a,33,5.5
-17,17,Jaguars,DJ Chark,24,WR,13,12,n/a,5,n/a,n/a,n/a,n/a,n/a,5,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,30,2.3
-10,10,Jaguars,Laviska Shenault Jr.,22,WR,14,12,n/a,5,n/a,n/a,n/a,n/a,n/a,5,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,30,2.1
-4,4,Jaguars,Josh Lambo,30,K,4,0,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,8,10,5,5,n/a,23,5.8
-3,3,Jaguars,Chase McLaughlin,24,K,3,0,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,3,4,4,5,n/a,15,5.0
-18,18,Jaguars,Chris Conley,28,WR,15,4,n/a,2,n/a,n/a,n/a,n/a,n/a,2,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,12,0.8
-88,88,Jaguars,Tyler Eifert,30,TE,15,4,n/a,2,n/a,n/a,n/a,n/a,n/a,2,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,12,0.8
-6,6,Jaguars,Jake Luton,24,QB,3,3,1,n/a,n/a,n/a,n/a,n/a,n/a,1,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,6,2.0
-15,15,Jaguars,Gardner Minshew II,24,QB,9,8,1,n/a,n/a,n/a,n/a,n/a,n/a,1,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,6,0.7
-47,47,Jaguars,Joe Schobert,27,MLB,16,16,n/a,n/a,n/a,n/a,n/a,1,n/a,1,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,6,0.4
-20,20,Jaguars,Daniel Thomas,22,S,10,2,n/a,n/a,n/a,n/a,n/a,n/a,1,1,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,6,0.6
-1,1,Jaguars,Jonathan Brown,28,K,1,0,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,1,1,1,2,n/a,4,4.0
-86,86,Jaguars,Ben Ellefson,24,TE,7,4,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,1,n/a,n/a,n/a,n/a,n/a,n/a,n/a,2,0.3
-3,3,Jaguars,Stephen Hauschka,35,K,1,0,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,2,2,n/a,2,n/a,2,2.0
-1,1,Jaguars,Brandon Wright,23,K,1,0,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,1,2,n/a,n/a,n/a,1,1.0
+,No.,Team,Player,Age,Pos,Games Played,Games Started,Rush TD,Reception TD,Punt Return TD,Kick Return TD,Fumble Return TD,Interception TD,Other TD,All Touchdown Scored,2-Point Conversions Made,Two-Point Conversions Attempted,Defensive Two-Point Conversions,Extra Points Made,Extra Points Allowed,Field Goals Made,Field Goals Attempted,Safeties Scored by Player/Team,Total Points Scored by all Means,Poins per Game,Year
+0,30,Jaguars,James Robinson,22,RB,14,14,7,3,0,0,0,0,0,10,1,0,0,0,0,0,0,,62,4.4,2020
+1,84,Jaguars,Keelan Cole,27,WR,16,5,0,5,1,0,0,0,0,6,0,0,0,0,0,0,0,,36,2.3,2020
+2,7,Jaguars,Aldrick Rosas,26,K,6,0,0,0,0,0,0,0,0,0,0,0,0,9,9,8,11,,33,5.5,2020
+3,17,Jaguars,DJ Chark,24,WR,13,12,0,5,0,0,0,0,0,5,0,0,0,0,0,0,0,,30,2.3,2020
+4,10,Jaguars,Laviska Shenault Jr.,22,WR,14,12,0,5,0,0,0,0,0,5,0,0,0,0,0,0,0,,30,2.1,2020
+5,4,Jaguars,Josh Lambo,30,K,4,0,0,0,0,0,0,0,0,0,0,0,0,8,10,5,5,,23,5.8,2020
+6,3,Jaguars,Chase McLaughlin,24,K,3,0,0,0,0,0,0,0,0,0,0,0,0,3,4,4,5,,15,5.0,2020
+7,18,Jaguars,Chris Conley,28,WR,15,4,0,2,0,0,0,0,0,2,0,0,0,0,0,0,0,,12,0.8,2020
+8,88,Jaguars,Tyler Eifert,30,TE,15,4,0,2,0,0,0,0,0,2,0,0,0,0,0,0,0,,12,0.8,2020
+9,6,Jaguars,Jake Luton,24,QB,3,3,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,,6,2.0,2020
+10,15,Jaguars,Gardner Minshew II,24,QB,9,8,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,,6,0.7,2020
+11,47,Jaguars,Joe Schobert,27,MLB,16,16,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,,6,0.4,2020
+12,20,Jaguars,Daniel Thomas,22,S,10,2,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,,6,0.6,2020
+13,1,Jaguars,Jonathan Brown,28,K,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,2,,4,4.0,2020
+14,86,Jaguars,Ben Ellefson,24,TE,7,4,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,,2,0.3,2020
+15,3,Jaguars,Stephen Hauschka,35,K,1,0,0,0,0,0,0,0,0,0,0,0,0,2,2,0,2,,2,2.0,2020
+16,1,Jaguars,Brandon Wright,23,K,1,0,0,0,0,0,0,0,0,0,0,0,0,1,2,0,0,,1,1.0,2020

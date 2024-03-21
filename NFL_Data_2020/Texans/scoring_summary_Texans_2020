@@ -1,15 +1,15 @@
-,No.,Team,Player,Age,Pos,Games Played,Games Started,Rush TD,Reception TD,Punt Return TD,Kick Return TD,Fumble Return TD,Interception TD,Other TD,All Touchdown Scored,2-Point Conversions Made,Two-Point Conversions Attempted,Defensive Two-Point Conversions,Extra Points Made,Extra Points Allowed,Field Goals Made,Field Goals Attempted,Safeties Scored by Player/Team,Total Points Scored by all Means,Poins per Game
-7,7,Texans,Ka'imi Fairbairn,26,K,16,0,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,37,40,27,31,n/a,118,7.4
-15,15,Texans,Will Fuller,26,WR,11,11,n/a,8,n/a,n/a,n/a,n/a,n/a,8,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,48,4.4
-31,31,Texans,David Johnson,29,RB,12,12,6,2,n/a,n/a,n/a,n/a,n/a,8,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,48,4.0
-13,13,Texans,Brandin Cooks,27,WR,15,15,n/a,6,n/a,n/a,n/a,n/a,n/a,6,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,36,2.4
-87,87,Texans,Darren Fells,34,TE,16,14,n/a,4,n/a,n/a,n/a,n/a,n/a,4,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,24,1.5
-16,16,Texans,Keke Coutee,23,WR,8,4,n/a,3,n/a,n/a,n/a,n/a,n/a,3,1,n/a,n/a,n/a,n/a,n/a,n/a,n/a,20,2.5
-18,18,Texans,Randall Cobb,30,WR,10,2,n/a,3,n/a,n/a,n/a,n/a,n/a,3,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,18,1.8
-4,4,Texans,Deshaun Watson,25,QB,16,16,3,n/a,n/a,n/a,n/a,n/a,n/a,3,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,18,1.1
-85,85,Texans,Pharaoh Brown,26,TE,13,9,n/a,2,n/a,n/a,n/a,n/a,n/a,2,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,12,0.9
-25,25,Texans,Duke Johnson,27,RB,11,5,1,1,n/a,n/a,n/a,n/a,n/a,2,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,12,1.1
-88,88,Texans,Jordan Akins,28,TE,13,5,n/a,1,n/a,n/a,n/a,n/a,n/a,1,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,6,0.5
-17,17,Texans,Chad Hansen,25,WR,5,2,n/a,1,n/a,n/a,n/a,n/a,n/a,1,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,6,1.2
-24,24,Texans,C.J. Prosise,26,RB,10,0,n/a,1,n/a,n/a,n/a,n/a,n/a,1,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,6,0.6
-99,99,Texans,J.J. Watt,31,LDE,16,16,n/a,n/a,n/a,n/a,n/a,1,n/a,1,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,6,0.4
+,No.,Team,Player,Age,Pos,Games Played,Games Started,Rush TD,Reception TD,Punt Return TD,Kick Return TD,Fumble Return TD,Interception TD,Other TD,All Touchdown Scored,2-Point Conversions Made,Two-Point Conversions Attempted,Defensive Two-Point Conversions,Extra Points Made,Extra Points Allowed,Field Goals Made,Field Goals Attempted,Safeties Scored by Player/Team,Total Points Scored by all Means,Poins per Game,Year
+0,7,Texans,Ka'imi Fairbairn,26,K,16,0,0,0,0,0,0,0,0,0,0,0,0,37,40,27,31,,118,7.4,2020
+1,15,Texans,Will Fuller,26,WR,11,11,0,8,0,0,0,0,0,8,0,0,0,0,0,0,0,,48,4.4,2020
+2,31,Texans,David Johnson,29,RB,12,12,6,2,0,0,0,0,0,8,0,0,0,0,0,0,0,,48,4.0,2020
+3,13,Texans,Brandin Cooks,27,WR,15,15,0,6,0,0,0,0,0,6,0,0,0,0,0,0,0,,36,2.4,2020
+4,87,Texans,Darren Fells,34,TE,16,14,0,4,0,0,0,0,0,4,0,0,0,0,0,0,0,,24,1.5,2020
+5,16,Texans,Keke Coutee,23,WR,8,4,0,3,0,0,0,0,0,3,1,0,0,0,0,0,0,,20,2.5,2020
+6,18,Texans,Randall Cobb,30,WR,10,2,0,3,0,0,0,0,0,3,0,0,0,0,0,0,0,,18,1.8,2020
+7,4,Texans,Deshaun Watson,25,QB,16,16,3,0,0,0,0,0,0,3,0,0,0,0,0,0,0,,18,1.1,2020
+8,85,Texans,Pharaoh Brown,26,TE,13,9,0,2,0,0,0,0,0,2,0,0,0,0,0,0,0,,12,0.9,2020
+9,25,Texans,Duke Johnson,27,RB,11,5,1,1,0,0,0,0,0,2,0,0,0,0,0,0,0,,12,1.1,2020
+10,88,Texans,Jordan Akins,28,TE,13,5,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,,6,0.5,2020
+11,17,Texans,Chad Hansen,25,WR,5,2,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,,6,1.2,2020
+12,24,Texans,C.J. Prosise,26,RB,10,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,,6,0.6,2020
+13,99,Texans,J.J. Watt,31,LDE,16,16,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,,6,0.4,2020

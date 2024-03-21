@@ -1,6 +1,6 @@
-,No.,Team,Player,Age,Position,Games Played,Games Started,Punts Returned,Punts Return Yardage,Punts Returned for Touchdown,Longest Punt Return,Yards per Punt Return,Kickoff Returns,Yardage for Kickoffs Returned,Kickoffs Returned for a Touchdown,Longest Kickoff Return,Yards per Kickoff Return,All-purpose Yards
-11,11,Browns,Donovan Peoples-Jones,21,WR,12,2,18,77,0,13,4.3,18,379,0,33,21.1,760
-30,30,Browns,D'Ernest Johnson,24,RB,16,0,3,13,0,10,4.3,14,351,0,43,25.1,544
-19,19,Browns,Jojo Natson,26,WR,3,0,3,25,0,13,8.3,1,31,0,31,31.0,59
-25,25,Browns,Dontrell Hilliard,25,RB,5,0,n/a,n/a,0,n/a,n/a,2,21,0,13,10.5,71
-31,31,Browns,Andy Janovich,27,RB,14,3,n/a,n/a,0,n/a,n/a,1,13,0,13,13.0,30
+,No.,Team,Player,Age,Position,Games Played,Games Started,Punts Returned,Punts Return Yardage,Punts Returned for Touchdown,Longest Punt Return,Yards per Punt Return,Kickoff Returns,Yardage for Kickoffs Returned,Kickoffs Returned for a Touchdown,Longest Kickoff Return,Yards per Kickoff Return,All-purpose Yards,Year
+0,11,Browns,Donovan Peoples-Jones,21,WR,12,2,18,77,0,13,4.3,18,379,0,33,21.1,760,2020
+1,30,Browns,D'Ernest Johnson,24,RB,16,0,3,13,0,10,4.3,14,351,0,43,25.1,544,2020
+2,19,Browns,Jojo Natson,26,WR,3,0,3,25,0,13,8.3,1,31,0,31,31.0,59,2020
+3,25,Browns,Dontrell Hilliard,25,RB,5,0,0,0,0,0,,2,21,0,13,10.5,71,2020
+4,31,Browns,Andy Janovich,27,RB,14,3,0,0,0,0,,1,13,0,13,13.0,30,2020

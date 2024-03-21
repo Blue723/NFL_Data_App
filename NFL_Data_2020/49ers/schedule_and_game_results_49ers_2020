@@ -1,18 +1,18 @@
-,Week,Team,Day,Date,Time,Win/Loss,Overtime,Team Record,Home/Away,Opponent,Points Scored,Points Allowed,Offense 1st Down,Total Yards Gained of Offense,Total yards Gained by Passing,Total Yards Gained by Rushing,Offense Turnovers,Defense 1st Down,Total Yards Allowed by Defense,Total Passing Yards Allowed by Defense,Total Rushing Yards Allowed by Defense,Defense Turnovers,Offense,Defense,Sp. Tms
-1,1,49ers,Sun,September 13,4:25PM ET,L,n/a,0-1,home,Arizona Cardinals,20,24,18,366,243,123,n/a,29,404,224,180,1,3.88,-6.46,0.46
-2,2,49ers,Sun,September 20,1:00PM ET,W,n/a,1-1,away,New York Jets,31,13,17,359,177,182,1,17,277,173,104,n/a,11.40,4.92,0.86
-3,3,49ers,Sun,September 27,1:00PM ET,W,n/a,2-1,away,New York Giants,36,9,29,420,327,93,n/a,13,231,165,66,3,18.53,10.86,-8.05
-4,4,49ers,Sun,October 4,8:20PM ET,L,n/a,2-2,home,Philadelphia Eagles,20,25,25,417,301,116,3,18,267,174,93,1,0.02,-0.66,-3.75
-5,5,49ers,Sun,October 11,4:05PM ET,L,n/a,2-3,home,Miami Dolphins,17,43,19,259,128,131,3,22,436,342,94,n/a,-9.48,-19.36,-0.03
-6,6,49ers,Sun,October 18,8:20PM ET,W,n/a,3-3,home,Los Angeles Rams,24,16,24,390,268,122,n/a,17,311,198,113,1,12.69,-2.05,-2.53
-7,7,49ers,Sun,October 25,4:25PM ET,W,n/a,4-3,away,New England Patriots,33,6,26,467,270,197,2,17,241,147,94,4,22.44,9.49,-6.55
-8,8,49ers,Sun,November 1,4:25PM ET,L,n/a,4-4,away,Seattle Seahawks,27,37,24,351,299,52,2,27,350,249,101,n/a,14.29,-17.90,-8.73
-9,9,49ers,Thu,November 5,8:20PM ET,L,n/a,4-5,home,Green Bay Packers,17,34,17,337,282,55,2,21,405,294,111,n/a,0.24,-19.59,3.72
-10,10,49ers,Sun,November 15,4:25PM ET,L,n/a,4-6,away,New Orleans Saints,13,27,21,281,232,49,4,17,237,123,114,2,-8.03,2.66,-6.47
-11,11,49ers,n/a,n/a,n/a,n/a,n/a,n/a,home,<strong>Bye Week</strong>,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
-12,12,49ers,Sun,November 29,4:05PM ET,W,n/a,5-6,away,Los Angeles Rams,23,20,18,345,233,112,3,14,308,182,126,4,-14.81,19.57,-2.68
-13,13,49ers,Mon,December 7,8:15PM ET,L,n/a,5-7,home,Buffalo Bills,24,34,24,402,316,86,2,31,449,368,81,1,6.59,-18.14,-0.36
-14,14,49ers,Sun,December 13,4:25PM ET,L,n/a,5-8,home,Washington Football Team,15,23,21,344,236,108,3,12,193,95,98,1,-25.61,19.42,-0.12
-15,15,49ers,Sun,December 20,1:00PM ET,L,n/a,5-9,away,Dallas Cowboys,33,41,28,458,308,150,4,15,291,204,87,n/a,11.28,-4.47,-12.91
-16,16,49ers,Sat,December 26,4:30PM ET,W,n/a,6-9,away,Arizona Cardinals,20,12,22,398,171,227,1,20,350,230,120,2,9.69,10.15,-10.68
-17,17,49ers,Sun,January 3,4:25PM ET,L,n/a,6-10,home,Seattle Seahawks,23,26,17,328,242,86,1,21,280,159,121,n/a,2.58,-5.26,-0.32
+,Week,Team,Day,Date,Time,Win/Loss,Overtime,Team Record,Home/Away,Opponent,Points Scored,Points Allowed,Offense 1st Down,Total Yards Gained of Offense,Total yards Gained by Passing,Total Yards Gained by Rushing,Offense Turnovers,Defense 1st Down,Total Yards Allowed by Defense,Total Passing Yards Allowed by Defense,Total Rushing Yards Allowed by Defense,Defense Turnovers,Offense,Defense,Sp. Tms,Year
+0,0,49ers,Sun,September 13,,L,0,0-1,home,Arizona Cardinals,20,24,18,366,243,123,0,29,404,224,180,1,3.88,-6.46,0.46,2020
+1,1,49ers,Sun,September 20,,W,0,1-1,away,New York Jets,31,13,17,359,177,182,1,17,277,173,104,0,11.4,4.92,0.86,2020
+2,2,49ers,Sun,September 27,,W,0,2-1,away,New York Giants,36,9,29,420,327,93,0,13,231,165,66,3,18.53,10.86,-8.05,2020
+3,3,49ers,Sun,October 4,,L,0,2-2,home,Philadelphia Eagles,20,25,25,417,301,116,3,18,267,174,93,1,0.02,-0.66,-3.75,2020
+4,4,49ers,Sun,October 11,,L,0,2-3,home,Miami Dolphins,17,43,19,259,128,131,3,22,436,342,94,0,-9.48,-19.36,-0.03,2020
+5,5,49ers,Sun,October 18,,W,0,3-3,home,Los Angeles Rams,24,16,24,390,268,122,0,17,311,198,113,1,12.69,-2.05,-2.53,2020
+6,6,49ers,Sun,October 25,,W,0,4-3,away,New England Patriots,33,6,26,467,270,197,2,17,241,147,94,4,22.44,9.49,-6.55,2020
+7,7,49ers,Sun,November 1,,L,0,4-4,away,Seattle Seahawks,27,37,24,351,299,52,2,27,350,249,101,0,14.29,-17.9,-8.73,2020
+8,8,49ers,Thu,November 5,,L,0,4-5,home,Green Bay Packers,17,34,17,337,282,55,2,21,405,294,111,0,0.24,-19.59,3.72,2020
+9,9,49ers,Sun,November 15,,L,0,4-6,away,New Orleans Saints,13,27,21,281,232,49,4,17,237,123,114,2,-8.03,2.66,-6.47,2020
+10,10,49ers,,,,,0,,home,<strong>Bye Week</strong>,0,0,0,0,0,0,0,0,0,0,0,0,,,,2020
+11,11,49ers,Sun,November 29,,W,0,5-6,away,Los Angeles Rams,23,20,18,345,233,112,3,14,308,182,126,4,-14.81,19.57,-2.68,2020
+12,12,49ers,Mon,December 7,,L,0,5-7,home,Buffalo Bills,24,34,24,402,316,86,2,31,449,368,81,1,6.59,-18.14,-0.36,2020
+13,13,49ers,Sun,December 13,,L,0,5-8,home,Washington Football Team,15,23,21,344,236,108,3,12,193,95,98,1,-25.61,19.42,-0.12,2020
+14,14,49ers,Sun,December 20,,L,0,5-9,away,Dallas Cowboys,33,41,28,458,308,150,4,15,291,204,87,0,11.28,-4.47,-12.91,2020
+15,15,49ers,Sat,December 26,,W,0,6-9,away,Arizona Cardinals,20,12,22,398,171,227,1,20,350,230,120,2,9.69,10.15,-10.68,2020
+16,16,49ers,Sun,January 3,,L,0,6-10,home,Seattle Seahawks,23,26,17,328,242,86,1,21,280,159,121,0,2.58,-5.26,-0.32,2020

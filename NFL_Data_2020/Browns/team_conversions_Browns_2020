@@ -1,5 +1,5 @@
-,Player,Team,3rd Down Attempts in Game,3rd Down Conversions,3rd Down Conversion %,4th Down Attempts in Game,4th Down Conversions in Game,4th Down Conversion %,Red Zone Attempts,Touchdowns Scored After the Team Entered the Red Zone,% of the Time a Team Reaches the Red Zone and Scores a Touchdown
-Team Stats,Team Stats,Browns,196,88,44.9%,24,8,33.3%,53,39,73.6%
-Opp. Stats,Opp. Stats,Browns,205,90,43.9%,27,22,81.5%,61,37,60.7%
-Lg Rank Offense,Lg Rank Offense,Browns,n/a,n/a,7,n/a,n/a,30,n/a,n/a,3
-Lg Rank Defense,Lg Rank Defense,Browns,n/a,n/a,23,n/a,n/a,31,n/a,n/a,14
+,Player,Team,3rd Down Attempts in Game,3rd Down Conversions,3rd Down Conversion Per.,4th Down Attempts in Game,4th Down Conversions in Game,4th Down Conversion Per.,Red Zone Attempts,Touchdowns Scored After the Team Entered the Red Zone,Per. of the Time a Team Reaches the Red Zone and Scores a Touchdown,Year
+0,Team Stats,Browns,196.0,88.0,44.9,24.0,8.0,33.3,53.0,39.0,73.6,2020.0
+1,Opp. Stats,Browns,205.0,90.0,43.9,27.0,22.0,81.5,61.0,37.0,60.7,2020.0
+2,Lg Rank Offense,Browns,,,7.0,,,30.0,,,3.0,2020.0
+3,Lg Rank Defense,Browns,,,23.0,,,31.0,,,14.0,2020.0

@@ -1,18 +1,18 @@
-,Week,Team,Day,Date,Time,Win/Loss,Overtime,Team Record,Home/Away,Opponent,Points Scored,Points Allowed,Offense 1st Down,Total Yards Gained of Offense,Total yards Gained by Passing,Total Yards Gained by Rushing,Offense Turnovers,Defense 1st Down,Total Yards Allowed by Defense,Total Passing Yards Allowed by Defense,Total Rushing Yards Allowed by Defense,Defense Turnovers,Offense,Defense,Sp. Tms
-1,1,Vikings,Sun,September 13,1:00PM ET,L,n/a,0-1,home,Green Bay Packers,34,43,25,382,248,134,1,31,522,364,158,n/a,19.11,-28.03,-3.78
-2,2,Vikings,Sun,September 20,1:00PM ET,L,n/a,0-2,away,Indianapolis Colts,11,28,12,175,95,80,3,24,354,203,151,1,-9.97,-5.63,-4.52
-3,3,Vikings,Sun,September 27,1:00PM ET,L,n/a,0-3,home,Tennessee Titans,30,31,22,464,238,226,3,23,444,310,134,1,10.21,-3.79,-7.95
-4,4,Vikings,Sun,October 4,1:00PM ET,W,n/a,1-3,away,Houston Texans,31,23,24,410,248,162,n/a,20,386,290,96,1,17.07,-8.81,-1.44
-5,5,Vikings,Sun,October 11,8:20PM ET,L,n/a,1-4,away,Seattle Seahawks,26,27,31,449,248,201,2,18,314,190,124,1,6.68,-8.96,-0.07
-6,6,Vikings,Sun,October 18,1:00PM ET,L,n/a,1-5,home,Atlanta Falcons,23,40,19,365,333,32,3,24,462,363,99,1,0.99,-20.17,-0.84
-7,7,Vikings,n/a,n/a,n/a,n/a,n/a,n/a,home,<strong>Bye Week</strong>,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
-8,8,Vikings,Sun,November 1,1:00PM ET,W,n/a,2-5,away,Green Bay Packers,28,22,20,324,151,173,n/a,24,400,291,109,1,20.77,-13.95,-1.23
-9,9,Vikings,Sun,November 8,1:00PM ET,W,n/a,3-5,home,Detroit Lions,34,20,22,487,212,275,n/a,30,421,292,129,3,22.76,-4.68,-9.45
-10,10,Vikings,Mon,November 16,8:15PM ET,W,n/a,4-5,away,Chicago Bears,19,13,19,385,286,99,2,10,149,108,41,2,-3.86,18.69,-8.08
-11,11,Vikings,Sun,November 22,4:25PM ET,L,n/a,4-6,home,Dallas Cowboys,28,31,24,430,305,125,2,24,376,196,180,1,9.00,-15.61,2.73
-12,12,Vikings,Sun,November 29,1:00PM ET,W,n/a,5-6,home,Carolina Panthers,28,27,26,387,291,96,3,21,374,267,107,1,0.99,-7.73,7.86
-13,13,Vikings,Sun,December 6,1:00PM ET,W,OT,6-6,home,Jacksonville Jaguars,27,24,30,420,275,145,2,20,390,266,124,4,-2.36,4.24,3.19
-14,14,Vikings,Sun,December 13,1:00PM ET,L,n/a,6-7,away,Tampa Bay Buccaneers,14,26,27,335,173,162,1,17,303,196,107,n/a,10.70,-18.44,-7.06
-15,15,Vikings,Sun,December 20,1:00PM ET,L,n/a,6-8,home,Chicago Bears,27,33,26,407,249,158,1,23,397,198,199,1,11.76,-14.23,-4.00
-16,16,Vikings,Fri,December 25,4:30PM ET,L,n/a,6-9,away,New Orleans Saints,33,52,25,364,274,90,n/a,36,583,319,264,2,16.70,-35.03,-0.55
-17,17,Vikings,Sun,January 3,1:00PM ET,W,n/a,7-9,away,Detroit Lions,37,35,31,508,383,125,n/a,21,417,288,129,2,27.15,-18.16,-3.69
+,Week,Team,Day,Date,Time,Win/Loss,Overtime,Team Record,Home/Away,Opponent,Points Scored,Points Allowed,Offense 1st Down,Total Yards Gained of Offense,Total yards Gained by Passing,Total Yards Gained by Rushing,Offense Turnovers,Defense 1st Down,Total Yards Allowed by Defense,Total Passing Yards Allowed by Defense,Total Rushing Yards Allowed by Defense,Defense Turnovers,Offense,Defense,Sp. Tms,Year
+0,0,Vikings,Sun,September 13,,L,0,0-1,home,Green Bay Packers,34,43,25,382,248,134,1,31,522,364,158,0,19.11,-28.03,-3.78,2020
+1,1,Vikings,Sun,September 20,,L,0,0-2,away,Indianapolis Colts,11,28,12,175,95,80,3,24,354,203,151,1,-9.97,-5.63,-4.52,2020
+2,2,Vikings,Sun,September 27,,L,0,0-3,home,Tennessee Titans,30,31,22,464,238,226,3,23,444,310,134,1,10.21,-3.79,-7.95,2020
+3,3,Vikings,Sun,October 4,,W,0,1-3,away,Houston Texans,31,23,24,410,248,162,0,20,386,290,96,1,17.07,-8.81,-1.44,2020
+4,4,Vikings,Sun,October 11,,L,0,1-4,away,Seattle Seahawks,26,27,31,449,248,201,2,18,314,190,124,1,6.68,-8.96,-0.07,2020
+5,5,Vikings,Sun,October 18,,L,0,1-5,home,Atlanta Falcons,23,40,19,365,333,32,3,24,462,363,99,1,0.99,-20.17,-0.84,2020
+6,6,Vikings,,,,,0,,home,<strong>Bye Week</strong>,0,0,0,0,0,0,0,0,0,0,0,0,,,,2020
+7,7,Vikings,Sun,November 1,,W,0,2-5,away,Green Bay Packers,28,22,20,324,151,173,0,24,400,291,109,1,20.77,-13.95,-1.23,2020
+8,8,Vikings,Sun,November 8,,W,0,3-5,home,Detroit Lions,34,20,22,487,212,275,0,30,421,292,129,3,22.76,-4.68,-9.45,2020
+9,9,Vikings,Mon,November 16,,W,0,4-5,away,Chicago Bears,19,13,19,385,286,99,2,10,149,108,41,2,-3.86,18.69,-8.08,2020
+10,10,Vikings,Sun,November 22,,L,0,4-6,home,Dallas Cowboys,28,31,24,430,305,125,2,24,376,196,180,1,9.0,-15.61,2.73,2020
+11,11,Vikings,Sun,November 29,,W,0,5-6,home,Carolina Panthers,28,27,26,387,291,96,3,21,374,267,107,1,0.99,-7.73,7.86,2020
+12,12,1,1,1,1.0,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1.0,1.0,1.0,1
+13,13,Vikings,Sun,December 13,,L,0,6-7,away,Tampa Bay Buccaneers,14,26,27,335,173,162,1,17,303,196,107,0,10.7,-18.44,-7.06,2020
+14,14,Vikings,Sun,December 20,,L,0,6-8,home,Chicago Bears,27,33,26,407,249,158,1,23,397,198,199,1,11.76,-14.23,-4.0,2020
+15,15,Vikings,Fri,December 25,,L,0,6-9,away,New Orleans Saints,33,52,25,364,274,90,0,36,583,319,264,2,16.7,-35.03,-0.55,2020
+16,16,Vikings,Sun,January 3,,W,0,7-9,away,Detroit Lions,37,35,31,508,383,125,0,21,417,288,129,2,27.15,-18.16,-3.69,2020

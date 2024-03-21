@@ -1,38 +1,38 @@
-,Rank,Team,Date,Opponent,Results,Quarter,Distance,Type,Detail
-1,1,Jaguars,2020-09-13,IND,"W, 27-20",2,6,pass,DJ Chark
-2,2,Jaguars,2020-09-13,IND,"W, 27-20",2,15,pass,Laviska Shenault Jr.
-3,3,Jaguars,2020-09-13,IND,"W, 27-20",4,22,pass,Keelan Cole
-4,4,Jaguars,2020-09-20,TEN,"L, 30-33",1,19,pass,Tyler Eifert
-5,5,Jaguars,2020-09-20,TEN,"L, 30-33",3,17,rush,James Robinson
-6,6,Jaguars,2020-09-20,TEN,"L, 30-33",4,2,pass,Keelan Cole
-7,7,Jaguars,2020-09-20,TEN,"L, 30-33",4,14,pass,Chris Thompson
-8,8,Jaguars,2020-09-24,MIA,"L, 13-31",2,11,rush,James Robinson
-9,9,Jaguars,2020-09-24,MIA,"L, 13-31",4,1,rush,James Robinson
-10,10,Jaguars,2020-10-04,CIN,"L, 25-33",1,11,pass,DJ Chark
-11,11,Jaguars,2020-10-04,CIN,"L, 25-33",4,2,pass,DJ Chark
-12,12,Jaguars,2020-10-11,HOU,"L, 14-30",2,13,pass,Keelan Cole
-13,13,Jaguars,2020-10-11,HOU,"L, 14-30",4,4,pass,Collin Johnson
-14,14,Jaguars,2020-10-18,DET,"L, 16-34",3,6,rush,Gardner Minshew II
-15,15,Jaguars,2020-10-18,DET,"L, 16-34",4,14,pass,James Robinson
-16,16,Jaguars,2020-10-25,LAC,"L, 29-39",2,4,rush,James Robinson
-17,17,Jaguars,2020-10-25,LAC,"L, 29-39",2,9,pass,James Robinson
-18,18,Jaguars,2020-10-25,LAC,"L, 29-39",3,16,blocked punt,Daniel Thomas
-19,19,Jaguars,2020-10-25,LAC,"L, 29-39",3,28,pass,Chris Conley
-20,20,Jaguars,2020-11-08,HOU,"L, 25-27",1,73,pass,DJ Chark
-21,21,Jaguars,2020-11-08,HOU,"L, 25-27",2,1,rush,James Robinson
-22,22,Jaguars,2020-11-08,HOU,"L, 25-27",4,13,rush,Jake Luton
-23,23,Jaguars,2020-11-15,GNB,"L, 20-24",2,91,punt,Keelan Cole
-24,24,Jaguars,2020-11-15,GNB,"L, 20-24",3,12,pass,Keelan Cole
-25,25,Jaguars,2020-11-29,CLE,"L, 25-27",2,46,pass,Collin Johnson
-26,26,Jaguars,2020-11-29,CLE,"L, 25-27",3,2,pass,Tyler Eifert
-27,27,Jaguars,2020-11-29,CLE,"L, 25-27",4,4,rush,James Robinson
-28,28,Jaguars,2020-12-06,MIN,"L, 24-27",1,28,pass,Laviska Shenault Jr.
-29,29,Jaguars,2020-12-06,MIN,"L, 24-27",3,43,interception,Joe Schobert
-30,30,Jaguars,2020-12-06,MIN,"L, 24-27",4,1,rush,James Robinson
-31,31,Jaguars,2020-12-13,TEN,"L, 10-31",3,5,pass,Keelan Cole
-32,32,Jaguars,2020-12-20,BAL,"L, 14-40",3,17,pass,James Robinson
-33,33,Jaguars,2020-12-20,BAL,"L, 14-40",4,13,pass,Chris Conley
-34,34,Jaguars,2020-12-27,CHI,"L, 17-41",2,20,pass,DJ Chark
-35,35,Jaguars,2020-12-27,CHI,"L, 17-41",4,34,pass,Laviska Shenault Jr.
-36,36,Jaguars,2021-01-03,IND,"L, 14-28",2,9,pass,Laviska Shenault Jr.
-37,37,Jaguars,2021-01-03,IND,"L, 14-28",3,8,pass,Laviska Shenault Jr.
+,Rank,Team,Date,Opponent,Win/Loss,Score,Quarter,Distance,Type,Detail,Year
+0,1,Jaguars,09/13/2020,IND,Win, 27-20,2,6,pass,DJ Chark,2020
+1,2,Jaguars,09/13/2020,IND,Win, 27-20,2,15,pass,Laviska Shenault Jr.,2020
+2,3,Jaguars,09/13/2020,IND,Win, 27-20,4,22,pass,Keelan Cole,2020
+3,4,Jaguars,09/20/2020,TEN,Loss, 30-33,1,19,pass,Tyler Eifert,2020
+4,5,Jaguars,09/20/2020,TEN,Loss, 30-33,3,17,rush,James Robinson,2020
+5,6,Jaguars,09/20/2020,TEN,Loss, 30-33,4,2,pass,Keelan Cole,2020
+6,7,Jaguars,09/20/2020,TEN,Loss, 30-33,4,14,pass,Chris Thompson,2020
+7,8,Jaguars,09/24/2020,MIA,Loss, 13-31,2,11,rush,James Robinson,2020
+8,9,Jaguars,09/24/2020,MIA,Loss, 13-31,4,1,rush,James Robinson,2020
+9,10,Jaguars,10/04/2020,CIN,Loss, 25-33,1,11,pass,DJ Chark,2020
+10,11,Jaguars,10/04/2020,CIN,Loss, 25-33,4,2,pass,DJ Chark,2020
+11,12,Jaguars,10/11/2020,HOU,Loss, 14-30,2,13,pass,Keelan Cole,2020
+12,13,Jaguars,10/11/2020,HOU,Loss, 14-30,4,4,pass,Collin Johnson,2020
+13,14,Jaguars,10/18/2020,DET,Loss, 16-34,3,6,rush,Gardner Minshew II,2020
+14,15,Jaguars,10/18/2020,DET,Loss, 16-34,4,14,pass,James Robinson,2020
+15,16,Jaguars,10/25/2020,LAC,Loss, 29-39,2,4,rush,James Robinson,2020
+16,17,Jaguars,10/25/2020,LAC,Loss, 29-39,2,9,pass,James Robinson,2020
+17,18,Jaguars,10/25/2020,LAC,Loss, 29-39,3,16,blocked punt,Daniel Thomas,2020
+18,19,Jaguars,10/25/2020,LAC,Loss, 29-39,3,28,pass,Chris Conley,2020
+19,20,Jaguars,11/08/2020,HOU,Loss, 25-27,1,73,pass,DJ Chark,2020
+20,21,Jaguars,11/08/2020,HOU,Loss, 25-27,2,1,rush,James Robinson,2020
+21,22,Jaguars,11/08/2020,HOU,Loss, 25-27,4,13,rush,Jake Luton,2020
+22,23,Jaguars,11/15/2020,GNB,Loss, 20-24,2,91,punt,Keelan Cole,2020
+23,24,Jaguars,11/15/2020,GNB,Loss, 20-24,3,12,pass,Keelan Cole,2020
+24,25,Jaguars,11/29/2020,CLE,Loss, 25-27,2,46,pass,Collin Johnson,2020
+25,26,Jaguars,11/29/2020,CLE,Loss, 25-27,3,2,pass,Tyler Eifert,2020
+26,27,Jaguars,11/29/2020,CLE,Loss, 25-27,4,4,rush,James Robinson,2020
+27,28,Jaguars,12/06/2020,MIN,Loss, 24-27,1,28,pass,Laviska Shenault Jr.,2020
+28,29,Jaguars,12/06/2020,MIN,Loss, 24-27,3,43,interception,Joe Schobert,2020
+29,30,Jaguars,12/06/2020,MIN,Loss, 24-27,4,1,rush,James Robinson,2020
+30,31,Jaguars,12/13/2020,TEN,Loss, 10-31,3,5,pass,Keelan Cole,2020
+31,32,Jaguars,12/20/2020,BAL,Loss, 14-40,3,17,pass,James Robinson,2020
+32,33,Jaguars,12/20/2020,BAL,Loss, 14-40,4,13,pass,Chris Conley,2020
+33,34,Jaguars,12/27/2020,CHI,Loss, 17-41,2,20,pass,DJ Chark,2020
+34,35,Jaguars,12/27/2020,CHI,Loss, 17-41,4,34,pass,Laviska Shenault Jr.,2020
+35,36,Jaguars,01/03/2021,IND,Loss, 14-28,2,9,pass,Laviska Shenault Jr.,2020
+36,37,Jaguars,01/03/2021,IND,Loss, 14-28,3,8,pass,Laviska Shenault Jr.,2020

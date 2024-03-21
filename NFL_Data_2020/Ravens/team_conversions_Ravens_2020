@@ -1,5 +1,5 @@
-,Player,Team,3rd Down Attempts in Game,3rd Down Conversions,3rd Down Conversion %,4th Down Attempts in Game,4th Down Conversions in Game,4th Down Conversion %,Red Zone Attempts,Touchdowns Scored After the Team Entered the Red Zone,% of the Time a Team Reaches the Red Zone and Scores a Touchdown
-Team Stats,Team Stats,Ravens,207,101,48.8%,19,12,63.2%,60,38,63.3%
-Opp. Stats,Opp. Stats,Ravens,191,65,34.0%,35,16,45.7%,45,28,62.2%
-Lg Rank Offense,Lg Rank Offense,Ravens,n/a,n/a,4,n/a,n/a,8,n/a,n/a,12
-Lg Rank Defense,Lg Rank Defense,Ravens,n/a,n/a,2,n/a,n/a,9,n/a,n/a,18
+,Player,Team,3rd Down Attempts in Game,3rd Down Conversions,3rd Down Conversion Per.,4th Down Attempts in Game,4th Down Conversions in Game,4th Down Conversion Per.,Red Zone Attempts,Touchdowns Scored After the Team Entered the Red Zone,Per. of the Time a Team Reaches the Red Zone and Scores a Touchdown,Year
+0,Team Stats,Ravens,207.0,101.0,48.8,19.0,12.0,63.2,60.0,38.0,63.3,2020.0
+1,Opp. Stats,Ravens,191.0,65.0,34.0,35.0,16.0,45.7,45.0,28.0,62.2,2020.0
+2,Lg Rank Offense,Ravens,,,4.0,,,8.0,,,12.0,2020.0
+3,Lg Rank Defense,Ravens,,,2.0,,,9.0,,,18.0,2020.0

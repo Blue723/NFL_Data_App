@@ -1,22 +1,22 @@
-,No.,Team,Player,Age,Position,Games Played,Games Started as an Offensive or Defensive Player,Rushing Attempts,Rushing Yards Gained,Rushing Touchdown,First Downs Rushing,Rushing Success Rate,Longest Rushing Attempt,Rushing Yards per Attempt,Rushing Yards per Game,Rushing Attempts per Game,Pass Targets,Receptions,Receiving Yards,Receiving Yards per Reception,Receiving Touchdowns,First Downs Receiving,Receiving Success Rate,Longest Reception,Receptions per Game,Receiving Yards per Game,Catch%,Receiving Yards per Target,Touches: Rushing Attempts and Receptions,Scrimmage Yards per Touch: Rushing + Receiving Yardage per Opportunity,Yards from Scrimmage: Receiving and Rushing Yards,Rushing and Receiving Touchdowns,Lost and Recovered Fumbles
-37,37,Dolphins,Myles Gaskin,23,RB,10,7,142,584,3,27,50.7,26,4.1,58.4,14.2,47,41,388,9.5,2,12,59.6,59,4.1,38.8,87.2%,8.3,183,5.3,972,5,2
-26,26,Dolphins,Salvon Ahmed,22,RB,6,4,75,319,3,18,58.7,31,4.3,53.2,12.5,14,11,61,5.5,0,2,28.6,13,1.8,10.2,78.6%,4.4,86,4.4,380,3,n/a
-22,22,Dolphins,Matt Breida,25,RB,12,1,59,254,0,11,55.9,24,4.3,21.2,4.9,10,9,96,10.7,0,5,60.0,31,0.8,8.0,90.0%,9.6,68,5.1,350,0,2
-1,1,Dolphins,Tua Tagovailoa,22,QB,10,9,36,109,3,13,52.8,17,3.0,10.9,3.6,n/a,n/a,n/a,n/a,0,n/a,n/a,n/a,n/a,n/a,n/a,n/a,36,3.0,109,3,1
-14,14,Dolphins,Ryan Fitzpatrick,38,QB,9,7,30,151,2,12,53.3,17,5.0,16.8,3.3,1,1,0,0.0,0,0,0.0,0,0.1,0.0,100.0%,0.0,31,4.9,151,2,2
-31,31,Dolphins,DeAndre Washington,27,RB,3,1,28,86,0,2,35.7,16,3.1,28.7,9.3,9,4,28,7.0,0,2,44.4,10,1.3,9.3,44.4%,3.1,32,3.6,114,0,n/a
-34,34,Dolphins,Jordan Howard,26,RB,5,3,28,33,4,6,32.1,8,1.2,6.6,5.6,1,1,-3,-3.0,0,0,0.0,-3,0.2,-0.6,100.0%,-3.0,29,1.0,30,4,1
-32,32,Dolphins,Patrick Laird,25,RB,16,0,13,72,0,4,46.2,17,5.5,4.5,0.8,12,10,68,6.8,0,3,50.0,17,0.6,4.3,83.3%,5.7,23,6.1,140,0,1
-15,15,Dolphins,Lynn Bowden Jr.,23,WR,10,4,9,32,0,3,55.6,11,3.6,3.2,0.9,37,28,211,7.5,0,13,51.4,22,2.8,21.1,75.7%,5.7,37,6.6,243,0,n/a
-19,19,Dolphins,Jakeem Grant,28,WR,14,4,3,20,0,1,33.3,29,6.7,1.4,0.2,54,36,373,10.4,1,22,53.7,30,2.6,26.6,66.7%,6.9,39,10.1,393,1,2
-10,10,Dolphins,Malcolm Perry,23,WR,9,2,3,5,0,1,66.7,6,1.7,0.6,0.3,13,9,92,10.2,1,4,61.5,25,1.0,10.2,69.2%,7.1,12,8.1,97,1,1
-42,42,Dolphins,Clayton Fejedelem,27,DB,13,0,2,23,0,2,0.0,22,11.5,1.8,0.2,n/a,n/a,n/a,n/a,0,n/a,n/a,n/a,n/a,n/a,n/a,n/a,2,11.5,23,0,n/a
-11,11,Dolphins,DeVante Parker,27,WR,14,11,n/a,n/a,0,n/a,n/a,n/a,n/a,n/a,n/a,103,63,793,12.6,4,45,54.4,31,4.5,56.6,61.2%,7.7,63,12.6,793,4,1
-88,88,Dolphins,Mike Gesicki,25,TE,15,9,n/a,n/a,0,n/a,n/a,n/a,n/a,n/a,n/a,85,53,703,13.3,6,36,57.6,70,3.5,46.9,62.4%,8.3,53,13.3,703,6,n/a
-84,84,Dolphins,Isaiah Ford,24,WR,10,1,n/a,n/a,0,n/a,n/a,n/a,n/a,n/a,n/a,44,28,276,9.9,0,18,59.1,18,2.8,27.6,63.6%,6.3,28,9.9,276,0,n/a
-81,81,Dolphins,Durham Smythe,25,TE,15,13,n/a,n/a,0,n/a,n/a,n/a,n/a,n/a,n/a,29,26,208,8.0,2,13,75.9,19,1.7,13.9,89.7%,7.2,26,8.0,208,2,n/a
-18,18,Dolphins,Preston Williams,23,WR,8,7,n/a,n/a,0,n/a,n/a,n/a,n/a,n/a,n/a,35,18,288,16.0,4,14,45.7,47,2.3,36.0,51.4%,8.2,18,16.0,288,4,n/a
-86,86,Dolphins,Mack Hollins,27,WR,16,2,n/a,n/a,0,n/a,n/a,n/a,n/a,n/a,n/a,25,16,176,11.0,1,7,56.0,34,1.0,11.0,64.0%,7.0,16,11.0,176,1,1
-80,80,Dolphins,Adam Shaheen,26,TE,16,5,n/a,n/a,0,n/a,n/a,n/a,n/a,n/a,n/a,22,12,150,12.5,3,9,50.0,43,0.8,9.4,54.5%,6.8,12,12.5,150,3,n/a
-16,16,Dolphins,Antonio Callaway,23,WR,5,1,n/a,n/a,0,n/a,n/a,n/a,n/a,n/a,n/a,4,2,20,10.0,0,1,50.0,13,0.4,4.0,50.0%,5.0,2,10.0,20,0,n/a
-27,27,Dolphins,Chandler Cox,24,RB,8,3,n/a,n/a,0,n/a,n/a,n/a,n/a,n/a,n/a,2,2,9,4.5,0,1,100.0,6,0.3,1.1,100.0%,4.5,2,4.5,9,0,n/a
+,No.,Team,Player,Age,Position,Games Played,Games Started as an Offensive or Defensive Player,Rushing Attempts,Rushing Yards Gained,Rushing Touchdown,First Downs Rushing,Rushing Success Rate,Longest Rushing Attempt,Rushing Yards per Attempt,Rushing Yards per Game,Rushing Attempts per Game,Pass Targets,Receptions,Receiving Yards,Receiving Yards per Reception,Receiving Touchdowns,First Downs Receiving,Receiving Success Rate,Longest Reception,Receptions per Game,Receiving Yards per Game,Catch Per.,Receiving Yards per Target,Touches: Rushing Attempts and Receptions,Scrimmage Yards per Touch: Rushing + Receiving Yardage per Opportunity,Yards from Scrimmage: Receiving and Rushing Yards,Rushing and Receiving Touchdowns,Lost and Recovered Fumbles,Year
+0,37,Dolphins,Myles Gaskin,23,RB,10,7,142,584,3,27,50.7,26,4.1,58.4,14.2,47,41,388,9.5,2,12,59.6,59,4.1,38.8,87.2,8.3,183,5.3,972,5,2,2020
+1,26,Dolphins,Salvon Ahmed,22,RB,6,4,75,319,3,18,58.7,31,4.3,53.2,12.5,14,11,61,5.5,0,2,28.6,13,1.8,10.2,78.6,4.4,86,4.4,380,3,0,2020
+2,22,Dolphins,Matt Breida,25,RB,12,1,59,254,0,11,55.9,24,4.3,21.2,4.9,10,9,96,10.7,0,5,60.0,31,0.8,8.0,90.0,9.6,68,5.1,350,0,2,2020
+3,1,Dolphins,Tua Tagovailoa,22,QB,10,9,36,109,3,13,52.8,17,3.0,10.9,3.6,0,0,0,,0,0,,0,,,0.0,,36,3.0,109,3,1,2020
+4,14,Dolphins,Ryan Fitzpatrick,38,QB,9,7,30,151,2,12,53.3,17,5.0,16.8,3.3,1,1,0,0.0,0,0,0.0,0,0.1,0.0,100.0,0.0,31,4.9,151,2,2,2020
+5,31,Dolphins,DeAndre Washington,27,RB,3,1,28,86,0,2,35.7,16,3.1,28.7,9.3,9,4,28,7.0,0,2,44.4,10,1.3,9.3,44.4,3.1,32,3.6,114,0,0,2020
+6,34,Dolphins,Jordan Howard,26,RB,5,3,28,33,4,6,32.1,8,1.2,6.6,5.6,1,1,-3,-3.0,0,0,0.0,-3,0.2,-0.6,100.0,-3.0,29,1.0,30,4,1,2020
+7,32,Dolphins,Patrick Laird,25,RB,16,0,13,72,0,4,46.2,17,5.5,4.5,0.8,12,10,68,6.8,0,3,50.0,17,0.6,4.3,83.3,5.7,23,6.1,140,0,1,2020
+8,15,Dolphins,Lynn Bowden Jr.,23,WR,10,4,9,32,0,3,55.6,11,3.6,3.2,0.9,37,28,211,7.5,0,13,51.4,22,2.8,21.1,75.7,5.7,37,6.6,243,0,0,2020
+9,19,Dolphins,Jakeem Grant,28,WR,14,4,3,20,0,1,33.3,29,6.7,1.4,0.2,54,36,373,10.4,1,22,53.7,30,2.6,26.6,66.7,6.9,39,10.1,393,1,2,2020
+10,10,Dolphins,Malcolm Perry,23,WR,9,2,3,5,0,1,66.7,6,1.7,0.6,0.3,13,9,92,10.2,1,4,61.5,25,1.0,10.2,69.2,7.1,12,8.1,97,1,1,2020
+11,42,Dolphins,Clayton Fejedelem,27,DB,13,0,2,23,0,2,0.0,22,11.5,1.8,0.2,0,0,0,,0,0,,0,,,0.0,,2,11.5,23,0,0,2020
+12,11,Dolphins,DeVante Parker,27,WR,14,11,0,0,0,0,,0,,,,103,63,793,12.6,4,45,54.4,31,4.5,56.6,61.2,7.7,63,12.6,793,4,1,2020
+13,88,Dolphins,Mike Gesicki,25,TE,15,9,0,0,0,0,,0,,,,85,53,703,13.3,6,36,57.6,70,3.5,46.9,62.4,8.3,53,13.3,703,6,0,2020
+14,84,Dolphins,Isaiah Ford,24,WR,10,1,0,0,0,0,,0,,,,44,28,276,9.9,0,18,59.1,18,2.8,27.6,63.6,6.3,28,9.9,276,0,0,2020
+15,81,Dolphins,Durham Smythe,25,TE,15,13,0,0,0,0,,0,,,,29,26,208,8.0,2,13,75.9,19,1.7,13.9,89.7,7.2,26,8.0,208,2,0,2020
+16,18,Dolphins,Preston Williams,23,WR,8,7,0,0,0,0,,0,,,,35,18,288,16.0,4,14,45.7,47,2.3,36.0,51.4,8.2,18,16.0,288,4,0,2020
+17,86,Dolphins,Mack Hollins,27,WR,16,2,0,0,0,0,,0,,,,25,16,176,11.0,1,7,56.0,34,1.0,11.0,64.0,7.0,16,11.0,176,1,1,2020
+18,80,Dolphins,Adam Shaheen,26,TE,16,5,0,0,0,0,,0,,,,22,12,150,12.5,3,9,50.0,43,0.8,9.4,54.5,6.8,12,12.5,150,3,0,2020
+19,16,Dolphins,Antonio Callaway,23,WR,5,1,0,0,0,0,,0,,,,4,2,20,10.0,0,1,50.0,13,0.4,4.0,50.0,5.0,2,10.0,20,0,0,2020
+20,27,Dolphins,Chandler Cox,24,RB,8,3,0,0,0,0,,0,,,,2,2,9,4.5,0,1,100.0,6,0.3,1.1,100.0,4.5,2,4.5,9,0,0,2020

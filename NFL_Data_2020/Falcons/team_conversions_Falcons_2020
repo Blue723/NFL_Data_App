@@ -1,5 +1,5 @@
-,Player,Team,3rd Down Attempts in Game,3rd Down Conversions,3rd Down Conversion %,4th Down Attempts in Game,4th Down Conversions in Game,4th Down Conversion %,Red Zone Attempts,Touchdowns Scored After the Team Entered the Red Zone,% of the Time a Team Reaches the Red Zone and Scores a Touchdown
-Team Stats,Team Stats,Falcons,221,97,43.9%,26,15,57.7%,58,31,53.4%
-Opp. Stats,Opp. Stats,Falcons,195,80,41.0%,23,10,43.5%,56,36,64.3%
-Lg Rank Offense,Lg Rank Offense,Falcons,n/a,n/a,10,n/a,n/a,14,n/a,n/a,26
-Lg Rank Defense,Lg Rank Defense,Falcons,n/a,n/a,18,n/a,n/a,7,n/a,n/a,25
+,Player,Team,3rd Down Attempts in Game,3rd Down Conversions,3rd Down Conversion Per.,4th Down Attempts in Game,4th Down Conversions in Game,4th Down Conversion Per.,Red Zone Attempts,Touchdowns Scored After the Team Entered the Red Zone,Per. of the Time a Team Reaches the Red Zone and Scores a Touchdown,Year
+0,Team Stats,Falcons,221.0,97.0,43.9,26.0,15.0,57.7,58.0,31.0,53.4,2020.0
+1,Opp. Stats,Falcons,195.0,80.0,41.0,23.0,10.0,43.5,56.0,36.0,64.3,2020.0
+2,Lg Rank Offense,Falcons,,,10.0,,,14.0,,,26.0,2020.0
+3,Lg Rank Defense,Falcons,,,18.0,,,7.0,,,25.0,2020.0

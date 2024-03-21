@@ -1,51 +1,51 @@
-,Rank,Team,Date,Opponent,Results,Quarter,Distance,Type,Detail
-1,1,Steelers,2020-09-14,NYG,"W, 26-16",2,10,pass,JuJu Smith-Schuster
-2,2,Steelers,2020-09-14,NYG,"W, 26-16",2,13,pass,James Washington
-3,3,Steelers,2020-09-14,NYG,"W, 26-16",4,8,pass,JuJu Smith-Schuster
-4,4,Steelers,2020-09-20,DEN,"W, 26-21",1,2,rush,James Conner
-5,5,Steelers,2020-09-20,DEN,"W, 26-21",2,84,pass,Chase Claypool
-6,6,Steelers,2020-09-20,DEN,"W, 26-21",4,28,pass,Diontae Johnson
-7,7,Steelers,2020-09-27,HOU,"W, 28-21",2,10,pass,Eric Ebron
-8,8,Steelers,2020-09-27,HOU,"W, 28-21",2,26,pass,JuJu Smith-Schuster
-9,9,Steelers,2020-09-27,HOU,"W, 28-21",4,12,rush,James Conner
-10,10,Steelers,2020-10-11,PHI,"W, 38-29",1,2,rush,Chase Claypool
-11,11,Steelers,2020-10-11,PHI,"W, 38-29",2,32,pass,Chase Claypool
-12,12,Steelers,2020-10-11,PHI,"W, 38-29",3,5,pass,Chase Claypool
-13,13,Steelers,2020-10-11,PHI,"W, 38-29",3,1,rush,James Conner
-14,14,Steelers,2020-10-11,PHI,"W, 38-29",4,35,pass,Chase Claypool
-15,15,Steelers,2020-10-18,CLE,"W, 38-7",1,33,interception,Minkah Fitzpatrick
-16,16,Steelers,2020-10-18,CLE,"W, 38-7",2,3,rush,James Conner
-17,17,Steelers,2020-10-18,CLE,"W, 38-7",2,28,pass,James Washington
-18,18,Steelers,2020-10-18,CLE,"W, 38-7",3,3,rush,Chase Claypool
-19,19,Steelers,2020-10-18,CLE,"W, 38-7",4,1,rush,Benny Snell Jr.
-20,20,Steelers,2020-10-25,TEN,"W, 27-24",1,11,pass,Diontae Johnson
-21,21,Steelers,2020-10-25,TEN,"W, 27-24",2,1,rush,Benny Snell Jr.
-22,22,Steelers,2020-10-25,TEN,"W, 27-24",2,9,pass,Diontae Johnson
-23,23,Steelers,2020-11-01,BAL,"W, 28-24",1,33,interception,Robert Spillane
-24,24,Steelers,2020-11-01,BAL,"W, 28-24",3,18,pass,Eric Ebron
-25,25,Steelers,2020-11-01,BAL,"W, 28-24",3,1,rush,James Conner
-26,26,Steelers,2020-11-01,BAL,"W, 28-24",4,8,pass,Chase Claypool
-27,27,Steelers,2020-11-08,DAL,"W, 24-19",2,17,pass,James Washington
-28,28,Steelers,2020-11-08,DAL,"W, 24-19",4,31,pass,JuJu Smith-Schuster
-29,29,Steelers,2020-11-08,DAL,"W, 24-19",4,8,pass,Eric Ebron
-30,30,Steelers,2020-11-15,CIN,"W, 36-10",1,12,pass,Diontae Johnson
-31,31,Steelers,2020-11-15,CIN,"W, 36-10",2,8,pass,JuJu Smith-Schuster
-32,32,Steelers,2020-11-15,CIN,"W, 36-10",3,11,pass,Chase Claypool
-33,33,Steelers,2020-11-15,CIN,"W, 36-10",4,5,pass,Chase Claypool
-34,34,Steelers,2020-11-22,JAX,"W, 27-3",2,31,pass,Chase Claypool
-35,35,Steelers,2020-11-22,JAX,"W, 27-3",2,1,rush,Benny Snell Jr.
-36,36,Steelers,2020-11-22,JAX,"W, 27-3",4,20,pass,Eric Ebron
-37,37,Steelers,2020-12-02,BAL,"W, 19-14",1,14,interception,Joe Haden
-38,38,Steelers,2020-12-02,BAL,"W, 19-14",4,1,pass,JuJu Smith-Schuster
-39,39,Steelers,2020-12-07,WAS,"L, 17-23",2,3,pass,Diontae Johnson
-40,40,Steelers,2020-12-07,WAS,"L, 17-23",2,50,pass,James Washington
-41,41,Steelers,2020-12-13,BUF,"L, 15-26",2,19,pass,James Washington
-42,42,Steelers,2020-12-13,BUF,"L, 15-26",4,3,pass,JuJu Smith-Schuster
-43,43,Steelers,2020-12-21,CIN,"L, 17-27",3,23,pass,Diontae Johnson
-44,44,Steelers,2020-12-21,CIN,"L, 17-27",4,1,rush,Benny Snell Jr.
-45,45,Steelers,2020-12-27,IND,"W, 28-24",2,1,rush,James Conner
-46,46,Steelers,2020-12-27,IND,"W, 28-24",3,39,pass,Diontae Johnson
-47,47,Steelers,2020-12-27,IND,"W, 28-24",4,5,pass,Eric Ebron
-48,48,Steelers,2020-12-27,IND,"W, 28-24",4,25,pass,JuJu Smith-Schuster
-49,49,Steelers,2021-01-03,CLE,"L, 22-24",4,28,pass,Chase Claypool
-50,50,Steelers,2021-01-03,CLE,"L, 22-24",4,2,pass,JuJu Smith-Schuster
+,Rank,Team,Date,Opponent,Win/Loss,Score,Quarter,Distance,Type,Detail,Year
+0,1,Steelers,09/14/2020,NYG,Win, 26-16,2,10,pass,JuJu Smith-Schuster,2020
+1,2,Steelers,09/14/2020,NYG,Win, 26-16,2,13,pass,James Washington,2020
+2,3,Steelers,09/14/2020,NYG,Win, 26-16,4,8,pass,JuJu Smith-Schuster,2020
+3,4,Steelers,09/20/2020,DEN,Win, 26-21,1,2,rush,James Conner,2020
+4,5,Steelers,09/20/2020,DEN,Win, 26-21,2,84,pass,Chase Claypool,2020
+5,6,Steelers,09/20/2020,DEN,Win, 26-21,4,28,pass,Diontae Johnson,2020
+6,7,Steelers,09/27/2020,HOU,Win, 28-21,2,10,pass,Eric Ebron,2020
+7,8,Steelers,09/27/2020,HOU,Win, 28-21,2,26,pass,JuJu Smith-Schuster,2020
+8,9,Steelers,09/27/2020,HOU,Win, 28-21,4,12,rush,James Conner,2020
+9,10,Steelers,10/11/2020,PHI,Win, 38-29,1,2,rush,Chase Claypool,2020
+10,11,Steelers,10/11/2020,PHI,Win, 38-29,2,32,pass,Chase Claypool,2020
+11,12,Steelers,10/11/2020,PHI,Win, 38-29,3,5,pass,Chase Claypool,2020
+12,13,Steelers,10/11/2020,PHI,Win, 38-29,3,1,rush,James Conner,2020
+13,14,Steelers,10/11/2020,PHI,Win, 38-29,4,35,pass,Chase Claypool,2020
+14,15,Steelers,10/18/2020,CLE,Win, 38-7,1,33,interception,Minkah Fitzpatrick,2020
+15,16,Steelers,10/18/2020,CLE,Win, 38-7,2,3,rush,James Conner,2020
+16,17,Steelers,10/18/2020,CLE,Win, 38-7,2,28,pass,James Washington,2020
+17,18,Steelers,10/18/2020,CLE,Win, 38-7,3,3,rush,Chase Claypool,2020
+18,19,Steelers,10/18/2020,CLE,Win, 38-7,4,1,rush,Benny Snell Jr.,2020
+19,20,Steelers,10/25/2020,TEN,Win, 27-24,1,11,pass,Diontae Johnson,2020
+20,21,Steelers,10/25/2020,TEN,Win, 27-24,2,1,rush,Benny Snell Jr.,2020
+21,22,Steelers,10/25/2020,TEN,Win, 27-24,2,9,pass,Diontae Johnson,2020
+22,23,Steelers,11/01/2020,BAL,Win, 28-24,1,33,interception,Robert Spillane,2020
+23,24,Steelers,11/01/2020,BAL,Win, 28-24,3,18,pass,Eric Ebron,2020
+24,25,Steelers,11/01/2020,BAL,Win, 28-24,3,1,rush,James Conner,2020
+25,26,Steelers,11/01/2020,BAL,Win, 28-24,4,8,pass,Chase Claypool,2020
+26,27,Steelers,11/08/2020,DAL,Win, 24-19,2,17,pass,James Washington,2020
+27,28,Steelers,11/08/2020,DAL,Win, 24-19,4,31,pass,JuJu Smith-Schuster,2020
+28,29,Steelers,11/08/2020,DAL,Win, 24-19,4,8,pass,Eric Ebron,2020
+29,30,Steelers,11/15/2020,CIN,Win, 36-10,1,12,pass,Diontae Johnson,2020
+30,31,Steelers,11/15/2020,CIN,Win, 36-10,2,8,pass,JuJu Smith-Schuster,2020
+31,32,Steelers,11/15/2020,CIN,Win, 36-10,3,11,pass,Chase Claypool,2020
+32,33,Steelers,11/15/2020,CIN,Win, 36-10,4,5,pass,Chase Claypool,2020
+33,34,Steelers,11/22/2020,JAX,Win, 27-3,2,31,pass,Chase Claypool,2020
+34,35,Steelers,11/22/2020,JAX,Win, 27-3,2,1,rush,Benny Snell Jr.,2020
+35,36,Steelers,11/22/2020,JAX,Win, 27-3,4,20,pass,Eric Ebron,2020
+36,37,Steelers,12/02/2020,BAL,Win, 19-14,1,14,interception,Joe Haden,2020
+37,38,Steelers,12/02/2020,BAL,Win, 19-14,4,1,pass,JuJu Smith-Schuster,2020
+38,39,Steelers,12/07/2020,WAS,Loss, 17-23,2,3,pass,Diontae Johnson,2020
+39,40,Steelers,12/07/2020,WAS,Loss, 17-23,2,50,pass,James Washington,2020
+40,41,Steelers,12/13/2020,BUF,Loss, 15-26,2,19,pass,James Washington,2020
+41,42,Steelers,12/13/2020,BUF,Loss, 15-26,4,3,pass,JuJu Smith-Schuster,2020
+42,43,Steelers,12/21/2020,CIN,Loss, 17-27,3,23,pass,Diontae Johnson,2020
+43,44,Steelers,12/21/2020,CIN,Loss, 17-27,4,1,rush,Benny Snell Jr.,2020
+44,45,Steelers,12/27/2020,IND,Win, 28-24,2,1,rush,James Conner,2020
+45,46,Steelers,12/27/2020,IND,Win, 28-24,3,39,pass,Diontae Johnson,2020
+46,47,Steelers,12/27/2020,IND,Win, 28-24,4,5,pass,Eric Ebron,2020
+47,48,Steelers,12/27/2020,IND,Win, 28-24,4,25,pass,JuJu Smith-Schuster,2020
+48,49,Steelers,01/03/2021,CLE,Loss, 22-24,4,28,pass,Chase Claypool,2020
+49,50,Steelers,01/03/2021,CLE,Loss, 22-24,4,2,pass,JuJu Smith-Schuster,2020

@@ -1,21 +1,21 @@
-,Week,Team,Day,Date,Time,Win/Loss,Overtime,Team Record,Home/Away,Opponent,Points Scored,Points Allowed,Offense 1st Down,Total Yards Gained of Offense,Total yards Gained by Passing,Total Yards Gained by Rushing,Offense Turnovers,Defense 1st Down,Total Yards Allowed by Defense,Total Passing Yards Allowed by Defense,Total Rushing Yards Allowed by Defense,Defense Turnovers,Offense,Defense,Sp. Tms
-1,1,Browns,Sun,September 13,1:00PM ET,L,n/a,0-1,away,Baltimore Ravens,6,38,20,306,168,138,3,23,381,270,111,1,-8.32,-16.62,-8.64
-2,2,Browns,Thu,September 17,8:20PM ET,W,n/a,1-1,home,Cincinnati Bengals,35,30,23,434,219,215,1,30,353,285,68,1,19.62,-11.19,-1.79
-3,3,Browns,Sun,September 27,1:00PM ET,W,n/a,2-1,home,Washington Football Team,34,20,19,300,142,158,n/a,19,309,206,103,5,8.28,4.68,1.14
-4,4,Browns,Sun,October 4,1:00PM ET,W,n/a,3-1,away,Dallas Cowboys,49,38,33,508,201,307,n/a,35,566,481,85,3,29.43,-19.85,1.81
-5,5,Browns,Sun,October 11,4:25PM ET,W,n/a,4-1,home,Indianapolis Colts,32,23,22,385,261,124,2,15,308,240,68,2,9.88,2.46,-4.93
-6,6,Browns,Sun,October 18,1:00PM ET,L,n/a,4-2,away,Pittsburgh Steelers,7,38,12,220,145,75,2,18,277,148,129,n/a,-22.96,-6.99,-0.58
-7,7,Browns,Sun,October 25,1:00PM ET,W,n/a,5-2,away,Cincinnati Bengals,37,34,23,398,316,82,1,31,468,387,81,2,25.11,-22.02,-1.35
-8,8,Browns,Sun,November 1,1:00PM ET,L,n/a,5-3,home,Las Vegas Raiders,6,16,14,223,122,101,1,24,309,100,209,n/a,-0.65,-13.68,2.42
-9,9,Browns,n/a,n/a,n/a,n/a,n/a,n/a,home,<strong>Bye Week</strong>,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
-10,10,Browns,Sun,November 15,1:00PM ET,W,n/a,6-3,home,Houston Texans,10,7,20,356,125,231,n/a,16,243,153,90,n/a,5.49,0.68,2.92
-11,11,Browns,Sun,November 22,1:00PM ET,W,n/a,7-3,home,Philadelphia Eagles,22,17,17,324,187,137,1,19,315,209,106,3,-4.43,10.55,1.99
-12,12,Browns,Sun,November 29,1:00PM ET,W,n/a,8-3,away,Jacksonville Jaguars,27,25,25,459,252,207,1,22,375,235,140,n/a,15.17,-11.93,-2.43
-13,13,Browns,Sun,December 6,1:00PM ET,W,n/a,9-3,away,Tennessee Titans,41,35,26,458,340,118,1,25,431,369,62,3,16.85,-9.59,1.78
-14,14,Browns,Mon,December 14,8:15PM ET,L,n/a,9-4,home,Baltimore Ravens,42,47,33,493,355,138,1,25,385,154,231,n/a,23.63,-24.92,-5.17
-15,15,Browns,Sun,December 20,8:20PM ET,W,n/a,10-4,away,New York Giants,20,6,24,392,286,106,n/a,14,288,214,74,n/a,16.29,-0.85,-1.67
-16,16,Browns,Sun,December 27,1:00PM ET,L,n/a,10-5,away,New York Jets,16,23,23,299,254,45,2,18,333,202,131,n/a,-5.93,-0.77,4.45
-17,17,Browns,Sun,January 3,1:00PM ET,W,n/a,11-5,home,Pittsburgh Steelers,24,22,21,358,166,192,n/a,18,394,309,85,1,12.89,-7.05,0.33
-n/a,n/a,Browns,n/a,<strong>Playoffs</strong>,n/a,n/a,n/a,n/a,home,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
-Wild Card,Wild Card,Browns,Sun,January 10,8:15PM ET,W,n/a,12-5,away,Pittsburgh Steelers,48,37,20,390,263,127,n/a,34,553,501,52,5,14.03,-4.24,4.08
-Division,Division,Browns,Sun,January 17,3:05PM ET,L,n/a,12-6,away,Kansas City Chiefs,17,22,21,308,196,112,2,24,438,315,123,1,5.10,-19.09,8.48
+,Week,Team,Day,Date,Time,Win/Loss,Overtime,Team Record,Home/Away,Opponent,Points Scored,Points Allowed,Offense 1st Down,Total Yards Gained of Offense,Total yards Gained by Passing,Total Yards Gained by Rushing,Offense Turnovers,Defense 1st Down,Total Yards Allowed by Defense,Total Passing Yards Allowed by Defense,Total Rushing Yards Allowed by Defense,Defense Turnovers,Offense,Defense,Sp. Tms,Year
+0,0,Browns,Sun,September 13,,L,0,0-1,away,Baltimore Ravens,6,38,20,306,168,138,3,23,381,270,111,1,-8.32,-16.62,-8.64,2020
+1,1,Browns,Thu,September 17,,W,0,1-1,home,Cincinnati Bengals,35,30,23,434,219,215,1,30,353,285,68,1,19.62,-11.19,-1.79,2020
+2,2,Browns,Sun,September 27,,W,0,2-1,home,Washington Football Team,34,20,19,300,142,158,0,19,309,206,103,5,8.28,4.68,1.14,2020
+3,3,Browns,Sun,October 4,,W,0,3-1,away,Dallas Cowboys,49,38,33,508,201,307,0,35,566,481,85,3,29.43,-19.85,1.81,2020
+4,4,Browns,Sun,October 11,,W,0,4-1,home,Indianapolis Colts,32,23,22,385,261,124,2,15,308,240,68,2,9.88,2.46,-4.93,2020
+5,5,Browns,Sun,October 18,,L,0,4-2,away,Pittsburgh Steelers,7,38,12,220,145,75,2,18,277,148,129,0,-22.96,-6.99,-0.58,2020
+6,6,Browns,Sun,October 25,,W,0,5-2,away,Cincinnati Bengals,37,34,23,398,316,82,1,31,468,387,81,2,25.11,-22.02,-1.35,2020
+7,7,Browns,Sun,November 1,,L,0,5-3,home,Las Vegas Raiders,6,16,14,223,122,101,1,24,309,100,209,0,-0.65,-13.68,2.42,2020
+8,8,Browns,,,,,0,,home,<strong>Bye Week</strong>,0,0,0,0,0,0,0,0,0,0,0,0,,,,2020
+9,9,Browns,Sun,November 15,,W,0,6-3,home,Houston Texans,10,7,20,356,125,231,0,16,243,153,90,0,5.49,0.68,2.92,2020
+10,10,Browns,Sun,November 22,,W,0,7-3,home,Philadelphia Eagles,22,17,17,324,187,137,1,19,315,209,106,3,-4.43,10.55,1.99,2020
+11,11,Browns,Sun,November 29,,W,0,8-3,away,Jacksonville Jaguars,27,25,25,459,252,207,1,22,375,235,140,0,15.17,-11.93,-2.43,2020
+12,12,Browns,Sun,December 6,,W,0,9-3,away,Tennessee Titans,41,35,26,458,340,118,1,25,431,369,62,3,16.85,-9.59,1.78,2020
+13,13,Browns,Mon,December 14,,L,0,9-4,home,Baltimore Ravens,42,47,33,493,355,138,1,25,385,154,231,0,23.63,-24.92,-5.17,2020
+14,14,Browns,Sun,December 20,,W,0,10-4,away,New York Giants,20,6,24,392,286,106,0,14,288,214,74,0,16.29,-0.85,-1.67,2020
+15,15,Browns,Sun,December 27,,L,0,10-5,away,New York Jets,16,23,23,299,254,45,2,18,333,202,131,0,-5.93,-0.77,4.45,2020
+16,16,Browns,Sun,January 3,,W,0,11-5,home,Pittsburgh Steelers,24,22,21,358,166,192,0,18,394,309,85,1,12.89,-7.05,0.33,2020
+17,17,Browns,,<strong>Playoffs</strong>,,,0,,home,,0,0,0,0,0,0,0,0,0,0,0,0,,,,2020
+18,18,Browns,Sun,January 10,,W,0,12-5,away,Pittsburgh Steelers,48,37,20,390,263,127,0,34,553,501,52,5,14.03,-4.24,4.08,2020
+19,19,Browns,Sun,January 17,,L,0,12-6,away,Kansas City Chiefs,17,22,21,308,196,112,2,24,438,315,123,1,5.1,-19.09,8.48,2020

@@ -1,16 +1,16 @@
-,No.,Team,Player,Age,Pos,Games Played,Games Started,Rush TD,Reception TD,Punt Return TD,Kick Return TD,Fumble Return TD,Interception TD,Other TD,All Touchdown Scored,2-Point Conversions Made,Two-Point Conversions Attempted,Defensive Two-Point Conversions,Extra Points Made,Extra Points Allowed,Field Goals Made,Field Goals Attempted,Safeties Scored by Player/Team,Total Points Scored by all Means,Poins per Game
-17,17,Packers,Davante Adams,28,WR,14,14,n/a,18,n/a,n/a,n/a,n/a,n/a,18,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,108,7.7
-2,2,Packers,Mason Crosby,36,K,16,0,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,59,63,16,16,n/a,107,6.7
-33,33,Packers,Aaron Jones,26,RB,14,14,9,2,n/a,n/a,n/a,n/a,n/a,11,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,66,4.7
-85,85,Packers,Robert Tonyan,26,TE,16,8,n/a,11,n/a,n/a,n/a,n/a,n/a,11,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,66,4.1
-83,83,Packers,Marquez Valdes-Scantling,26,WR,16,12,n/a,6,n/a,n/a,n/a,n/a,n/a,6,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,36,2.3
-30,30,Packers,Jamaal Williams,25,RB,14,3,2,1,n/a,n/a,n/a,n/a,n/a,3,2,n/a,n/a,n/a,n/a,n/a,n/a,n/a,22,1.6
-13,13,Packers,Allen Lazard,25,WR,10,9,n/a,3,n/a,n/a,n/a,n/a,n/a,3,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,18,1.8
-89,89,Packers,Marcedes Lewis,36,TE,15,15,n/a,3,n/a,n/a,n/a,n/a,n/a,3,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,18,1.2
-12,12,Packers,Aaron Rodgers,37,QB,16,16,3,n/a,n/a,n/a,n/a,n/a,n/a,3,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,18,1.1
-49,49,Packers,Dominique Dafney,23,TE,5,2,n/a,1,n/a,n/a,n/a,n/a,n/a,1,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,6,1.2
-91,91,Packers,Preston Smith,28,LOLB,16,13,n/a,n/a,n/a,n/a,1,n/a,n/a,1,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,6,0.4
-19,19,Packers,Equanimeous St. Brown,24,WR,12,1,n/a,1,n/a,n/a,n/a,n/a,n/a,1,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,6,0.5
-39,39,Packers,Chandon Sullivan,24,DB,16,10,n/a,n/a,n/a,n/a,n/a,1,n/a,1,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,6,0.4
-86,86,Packers,Malik Taylor,25,WR,15,1,n/a,1,n/a,n/a,n/a,n/a,n/a,1,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,6,0.4
-23,23,Packers,Jaire Alexander,23,LCB,15,15,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,1,2,0.1
+,No.,Team,Player,Age,Pos,Games Played,Games Started,Rush TD,Reception TD,Punt Return TD,Kick Return TD,Fumble Return TD,Interception TD,Other TD,All Touchdown Scored,2-Point Conversions Made,Two-Point Conversions Attempted,Defensive Two-Point Conversions,Extra Points Made,Extra Points Allowed,Field Goals Made,Field Goals Attempted,Safeties Scored by Player/Team,Total Points Scored by all Means,Poins per Game,Year
+0,17,Packers,Davante Adams,28,WR,14,14,0,18,0,0,0,0,0,18,0,0,0,0,0,0,0,,108,7.7,2020
+1,2,Packers,Mason Crosby,36,K,16,0,0,0,0,0,0,0,0,0,0,0,0,59,63,16,16,,107,6.7,2020
+2,33,Packers,Aaron Jones,26,RB,14,14,9,2,0,0,0,0,0,11,0,0,0,0,0,0,0,,66,4.7,2020
+3,85,Packers,Robert Tonyan,26,TE,16,8,0,11,0,0,0,0,0,11,0,0,0,0,0,0,0,,66,4.1,2020
+4,83,Packers,Marquez Valdes-Scantling,26,WR,16,12,0,6,0,0,0,0,0,6,0,0,0,0,0,0,0,,36,2.3,2020
+5,30,Packers,Jamaal Williams,25,RB,14,3,2,1,0,0,0,0,0,3,2,0,0,0,0,0,0,,22,1.6,2020
+6,13,Packers,Allen Lazard,25,WR,10,9,0,3,0,0,0,0,0,3,0,0,0,0,0,0,0,,18,1.8,2020
+7,89,Packers,Marcedes Lewis,36,TE,15,15,0,3,0,0,0,0,0,3,0,0,0,0,0,0,0,,18,1.2,2020
+8,12,Packers,Aaron Rodgers,37,QB,16,16,3,0,0,0,0,0,0,3,0,0,0,0,0,0,0,,18,1.1,2020
+9,49,Packers,Dominique Dafney,23,TE,5,2,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,,6,1.2,2020
+10,91,Packers,Preston Smith,28,LOLB,16,13,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,,6,0.4,2020
+11,19,Packers,Equanimeous St. Brown,24,WR,12,1,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,,6,0.5,2020
+12,39,Packers,Chandon Sullivan,24,DB,16,10,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,,6,0.4,2020
+13,86,Packers,Malik Taylor,25,WR,15,1,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,,6,0.4,2020
+14,23,Packers,Jaire Alexander,23,LCB,15,15,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1.0,2,0.1,2020

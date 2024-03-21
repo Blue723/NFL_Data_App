@@ -1,51 +1,51 @@
-,Rank,Team,Date,Opponent,Results,Quarter,Distance,Type,Detail
-1,1,Browns,2020-09-13,BAL,"L, 6-38",1,1,pass,David Njoku
-2,2,Browns,2020-09-17,CIN,"W, 35-30",1,11,rush,Nick Chubb
-3,3,Browns,2020-09-17,CIN,"W, 35-30",2,43,pass,Odell Beckham Jr.
-4,4,Browns,2020-09-17,CIN,"W, 35-30",2,6,pass,Kareem Hunt
-5,5,Browns,2020-09-17,CIN,"W, 35-30",3,1,rush,Nick Chubb
-6,6,Browns,2020-09-17,CIN,"W, 35-30",4,1,rush,Kareem Hunt
-7,7,Browns,2020-09-27,WAS,"W, 34-20",2,16,rush,Nick Chubb
-8,8,Browns,2020-09-27,WAS,"W, 34-20",2,9,pass,Kareem Hunt
-9,9,Browns,2020-09-27,WAS,"W, 34-20",4,3,pass,Harrison Bryant
-10,10,Browns,2020-09-27,WAS,"W, 34-20",4,20,rush,Nick Chubb
-11,11,Browns,2020-10-04,DAL,"W, 49-38",1,37,pass,Odell Beckham Jr.
-12,12,Browns,2020-10-04,DAL,"W, 49-38",2,4,pass,Odell Beckham Jr.
-13,13,Browns,2020-10-04,DAL,"W, 49-38",2,1,pass,Austin Hooper
-14,14,Browns,2020-10-04,DAL,"W, 49-38",2,2,rush,Kareem Hunt
-15,15,Browns,2020-10-04,DAL,"W, 49-38",3,14,rush,Kareem Hunt
-16,16,Browns,2020-10-04,DAL,"W, 49-38",4,50,rush,Odell Beckham Jr.
-17,17,Browns,2020-10-11,IND,"W, 32-23",2,2,pass,Kareem Hunt
-18,18,Browns,2020-10-11,IND,"W, 32-23",2,15,pass,Rashard Higgins
-19,19,Browns,2020-10-11,IND,"W, 32-23",3,47,interception,Ronnie Harrison
-20,20,Browns,2020-10-18,PIT,"L, 7-38",2,13,pass,Rashard Higgins
-21,21,Browns,2020-10-25,CIN,"W, 37-34",2,3,pass,Harrison Bryant
-22,22,Browns,2020-10-25,CIN,"W, 37-34",3,6,pass,Harrison Bryant
-23,23,Browns,2020-10-25,CIN,"W, 37-34",4,16,pass,David Njoku
-24,24,Browns,2020-10-25,CIN,"W, 37-34",4,8,pass,Kareem Hunt
-25,25,Browns,2020-10-25,CIN,"W, 37-34",4,24,pass,Donovan Peoples-Jones
-26,26,Browns,2020-11-15,HOU,"W, 10-7",4,9,rush,Nick Chubb
-27,27,Browns,2020-11-22,PHI,"W, 22-17",2,50,interception,Sione Takitaki
-28,28,Browns,2020-11-22,PHI,"W, 22-17",4,5,rush,Kareem Hunt
-29,29,Browns,2020-11-29,JAX,"W, 27-25",1,5,pass,Jarvis Landry
-30,30,Browns,2020-11-29,JAX,"W, 27-25",2,9,pass,Austin Hooper
-31,31,Browns,2020-11-29,JAX,"W, 27-25",4,1,rush,Nick Chubb
-32,32,Browns,2020-12-06,TEN,"W, 41-35",1,2,pass,Jarvis Landry
-33,33,Browns,2020-12-06,TEN,"W, 41-35",2,1,pass,Kendall Lamm
-34,34,Browns,2020-12-06,TEN,"W, 41-35",2,75,pass,Donovan Peoples-Jones
-35,35,Browns,2020-12-06,TEN,"W, 41-35",2,17,pass,Rashard Higgins
-36,36,Browns,2020-12-06,TEN,"W, 41-35",2,1,rush,Nick Chubb
-37,37,Browns,2020-12-14,BAL,"L, 42-47",1,7,rush,Nick Chubb
-38,38,Browns,2020-12-14,BAL,"L, 42-47",2,14,rush,Nick Chubb
-39,39,Browns,2020-12-14,BAL,"L, 42-47",3,5,rush,Kareem Hunt
-40,40,Browns,2020-12-14,BAL,"L, 42-47",4,21,pass,Rashard Higgins
-41,41,Browns,2020-12-14,BAL,"L, 42-47",4,5,rush,Baker Mayfield
-42,42,Browns,2020-12-14,BAL,"L, 42-47",4,22,pass,Kareem Hunt
-43,43,Browns,2020-12-20,NYG,"W, 20-6",2,2,pass,Austin Hooper
-44,44,Browns,2020-12-20,NYG,"W, 20-6",2,2,pass,Jarvis Landry
-45,45,Browns,2020-12-20,NYG,"W, 20-6",4,1,rush,Nick Chubb
-46,46,Browns,2020-12-27,NYJ,"L, 16-23",3,1,rush,Nick Chubb
-47,47,Browns,2020-12-27,NYJ,"L, 16-23",4,4,rush,Kareem Hunt
-48,48,Browns,2021-01-03,PIT,"W, 24-22",1,47,rush,Nick Chubb
-49,49,Browns,2021-01-03,PIT,"W, 24-22",3,2,pass,Austin Hooper
-50,50,Browns,2021-01-03,PIT,"W, 24-22",4,3,rush,Jarvis Landry
+,Rank,Team,Date,Opponent,Win/Loss,Score,Quarter,Distance,Type,Detail,Year
+0,1,Browns,09/13/2020,BAL,Loss, 6-38,1,1,pass,David Njoku,2020
+1,2,Browns,09/17/2020,CIN,Win, 35-30,1,11,rush,Nick Chubb,2020
+2,3,Browns,09/17/2020,CIN,Win, 35-30,2,43,pass,Odell Beckham Jr.,2020
+3,4,Browns,09/17/2020,CIN,Win, 35-30,2,6,pass,Kareem Hunt,2020
+4,5,Browns,09/17/2020,CIN,Win, 35-30,3,1,rush,Nick Chubb,2020
+5,6,Browns,09/17/2020,CIN,Win, 35-30,4,1,rush,Kareem Hunt,2020
+6,7,Browns,09/27/2020,WAS,Win, 34-20,2,16,rush,Nick Chubb,2020
+7,8,Browns,09/27/2020,WAS,Win, 34-20,2,9,pass,Kareem Hunt,2020
+8,9,Browns,09/27/2020,WAS,Win, 34-20,4,3,pass,Harrison Bryant,2020
+9,10,Browns,09/27/2020,WAS,Win, 34-20,4,20,rush,Nick Chubb,2020
+10,11,Browns,10/04/2020,DAL,Win, 49-38,1,37,pass,Odell Beckham Jr.,2020
+11,12,Browns,10/04/2020,DAL,Win, 49-38,2,4,pass,Odell Beckham Jr.,2020
+12,13,Browns,10/04/2020,DAL,Win, 49-38,2,1,pass,Austin Hooper,2020
+13,14,Browns,10/04/2020,DAL,Win, 49-38,2,2,rush,Kareem Hunt,2020
+14,15,Browns,10/04/2020,DAL,Win, 49-38,3,14,rush,Kareem Hunt,2020
+15,16,Browns,10/04/2020,DAL,Win, 49-38,4,50,rush,Odell Beckham Jr.,2020
+16,17,Browns,10/11/2020,IND,Win, 32-23,2,2,pass,Kareem Hunt,2020
+17,18,Browns,10/11/2020,IND,Win, 32-23,2,15,pass,Rashard Higgins,2020
+18,19,Browns,10/11/2020,IND,Win, 32-23,3,47,interception,Ronnie Harrison,2020
+19,20,Browns,10/18/2020,PIT,Loss, 7-38,2,13,pass,Rashard Higgins,2020
+20,21,Browns,10/25/2020,CIN,Win, 37-34,2,3,pass,Harrison Bryant,2020
+21,22,Browns,10/25/2020,CIN,Win, 37-34,3,6,pass,Harrison Bryant,2020
+22,23,Browns,10/25/2020,CIN,Win, 37-34,4,16,pass,David Njoku,2020
+23,24,Browns,10/25/2020,CIN,Win, 37-34,4,8,pass,Kareem Hunt,2020
+24,25,Browns,10/25/2020,CIN,Win, 37-34,4,24,pass,Donovan Peoples-Jones,2020
+25,26,Browns,11/15/2020,HOU,Win, 10-7,4,9,rush,Nick Chubb,2020
+26,27,Browns,11/22/2020,PHI,Win, 22-17,2,50,interception,Sione Takitaki,2020
+27,28,Browns,11/22/2020,PHI,Win, 22-17,4,5,rush,Kareem Hunt,2020
+28,29,Browns,11/29/2020,JAX,Win, 27-25,1,5,pass,Jarvis Landry,2020
+29,30,Browns,11/29/2020,JAX,Win, 27-25,2,9,pass,Austin Hooper,2020
+30,31,Browns,11/29/2020,JAX,Win, 27-25,4,1,rush,Nick Chubb,2020
+31,32,Browns,12/06/2020,TEN,Win, 41-35,1,2,pass,Jarvis Landry,2020
+32,33,Browns,12/06/2020,TEN,Win, 41-35,2,1,pass,Kendall Lamm,2020
+33,34,Browns,12/06/2020,TEN,Win, 41-35,2,75,pass,Donovan Peoples-Jones,2020
+34,35,Browns,12/06/2020,TEN,Win, 41-35,2,17,pass,Rashard Higgins,2020
+35,36,Browns,12/06/2020,TEN,Win, 41-35,2,1,rush,Nick Chubb,2020
+36,37,Browns,12/14/2020,BAL,Loss, 42-47,1,7,rush,Nick Chubb,2020
+37,38,Browns,12/14/2020,BAL,Loss, 42-47,2,14,rush,Nick Chubb,2020
+38,39,Browns,12/14/2020,BAL,Loss, 42-47,3,5,rush,Kareem Hunt,2020
+39,40,Browns,12/14/2020,BAL,Loss, 42-47,4,21,pass,Rashard Higgins,2020
+40,41,Browns,12/14/2020,BAL,Loss, 42-47,4,5,rush,Baker Mayfield,2020
+41,42,Browns,12/14/2020,BAL,Loss, 42-47,4,22,pass,Kareem Hunt,2020
+42,43,Browns,12/20/2020,NYG,Win, 20-6,2,2,pass,Austin Hooper,2020
+43,44,Browns,12/20/2020,NYG,Win, 20-6,2,2,pass,Jarvis Landry,2020
+44,45,Browns,12/20/2020,NYG,Win, 20-6,4,1,rush,Nick Chubb,2020
+45,46,Browns,12/27/2020,NYJ,Loss, 16-23,3,1,rush,Nick Chubb,2020
+46,47,Browns,12/27/2020,NYJ,Loss, 16-23,4,4,rush,Kareem Hunt,2020
+47,48,Browns,01/03/2021,PIT,Win, 24-22,1,47,rush,Nick Chubb,2020
+48,49,Browns,01/03/2021,PIT,Win, 24-22,3,2,pass,Austin Hooper,2020
+49,50,Browns,01/03/2021,PIT,Win, 24-22,4,3,rush,Jarvis Landry,2020

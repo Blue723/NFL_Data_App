@@ -1,7 +1,7 @@
-,No.,Team,Player,Age,Position,Games Played,Games Started,Punts Returned,Punts Return Yardage,Punts Returned for Touchdown,Longest Punt Return,Yards per Punt Return,Kickoff Returns,Yardage for Kickoffs Returned,Kickoffs Returned for a Touchdown,Longest Kickoff Return,Yards per Kickoff Return,All-purpose Yards
-19,19,Dolphins,Jakeem Grant,28,WR,14,4,29,330,1,88,11.4,6,129,0,45,21.5,852
-23,23,Dolphins,Noah Igbinoghene,21,CB,16,2,n/a,n/a,0,n/a,n/a,4,68,0,22,17.0,73
-16,16,Dolphins,Antonio Callaway,23,WR,5,1,2,12,0,11,6.0,n/a,n/a,0,n/a,n/a,32
-10,10,Dolphins,Malcolm Perry,23,WR,9,2,1,12,0,12,12.0,n/a,n/a,0,n/a,n/a,109
-44,44,Dolphins,Elandon Roberts,26,LILB,13,11,n/a,n/a,0,n/a,n/a,1,13,0,13,13.0,13
-81,81,Dolphins,Durham Smythe,25,TE,15,13,n/a,n/a,0,n/a,n/a,1,5,0,5,5.0,213
+,No.,Team,Player,Age,Position,Games Played,Games Started,Punts Returned,Punts Return Yardage,Punts Returned for Touchdown,Longest Punt Return,Yards per Punt Return,Kickoff Returns,Yardage for Kickoffs Returned,Kickoffs Returned for a Touchdown,Longest Kickoff Return,Yards per Kickoff Return,All-purpose Yards,Year
+0,19,Dolphins,Jakeem Grant,28,WR,14,4,29,330,1,88,11.4,6,129,0,45,21.5,852,2020
+1,23,Dolphins,Noah Igbinoghene,21,CB,16,2,0,0,0,0,,4,68,0,22,17.0,73,2020
+2,16,Dolphins,Antonio Callaway,23,WR,5,1,2,12,0,11,6.0,0,0,0,0,,32,2020
+3,10,Dolphins,Malcolm Perry,23,WR,9,2,1,12,0,12,12.0,0,0,0,0,,109,2020
+4,44,Dolphins,Elandon Roberts,26,LILB,13,11,0,0,0,0,,1,13,0,13,13.0,13,2020
+5,81,Dolphins,Durham Smythe,25,TE,15,13,0,0,0,0,,1,5,0,5,5.0,213,2020

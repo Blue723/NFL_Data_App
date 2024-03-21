@@ -1,14 +1,14 @@
-,No.,Team,Player,Age,Pos,Games Played,Games Started,Rush TD,Reception TD,Punt Return TD,Kick Return TD,Fumble Return TD,Interception TD,Other TD,All Touchdown Scored,2-Point Conversions Made,Two-Point Conversions Attempted,Defensive Two-Point Conversions,Extra Points Made,Extra Points Allowed,Field Goals Made,Field Goals Attempted,Safeties Scored by Player/Team,Total Points Scored by all Means,Poins per Game
-9,9,Steelers,Chris Boswell,29,K,13,0,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,34,38,19,20,n/a,91,7.0
-11,11,Steelers,Chase Claypool,22,WR,16,6,2,9,n/a,n/a,n/a,n/a,n/a,11,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,66,4.1
-19,19,Steelers,JuJu Smith-Schuster,24,WR,16,14,n/a,9,n/a,n/a,n/a,n/a,n/a,9,1,n/a,n/a,n/a,n/a,n/a,n/a,n/a,56,3.5
-18,18,Steelers,Diontae Johnson,24,WR,15,13,n/a,7,n/a,n/a,n/a,n/a,n/a,7,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,42,2.8
-30,30,Steelers,James Conner,25,RB,13,11,6,n/a,n/a,n/a,n/a,n/a,n/a,6,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,36,2.8
-85,85,Steelers,Eric Ebron,27,TE,15,9,n/a,5,n/a,n/a,n/a,n/a,n/a,5,1,n/a,n/a,n/a,n/a,n/a,n/a,n/a,32,2.1
-13,13,Steelers,James Washington,24,WR,16,7,n/a,5,n/a,n/a,n/a,n/a,n/a,5,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,30,1.9
-24,24,Steelers,Benny Snell Jr.,22,RB,16,3,4,n/a,n/a,n/a,n/a,n/a,n/a,4,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,24,1.5
-16,16,Steelers,Matthew Wright,24,K,3,0,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,7,7,4,4,n/a,19,6.3
-39,39,Steelers,Minkah Fitzpatrick,24,FS,16,16,n/a,n/a,n/a,n/a,n/a,1,n/a,1,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,6,0.4
-23,23,Steelers,Joe Haden,31,LCB,14,14,n/a,n/a,n/a,n/a,n/a,1,n/a,1,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,6,0.4
-41,41,Steelers,Robert Spillane,25,LILB,12,7,n/a,n/a,n/a,n/a,n/a,1,n/a,1,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,6,0.5
-44,44,Steelers,Derek Watt,28,RB,12,0,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,1,2,0.2
+,No.,Team,Player,Age,Pos,Games Played,Games Started,Rush TD,Reception TD,Punt Return TD,Kick Return TD,Fumble Return TD,Interception TD,Other TD,All Touchdown Scored,2-Point Conversions Made,Two-Point Conversions Attempted,Defensive Two-Point Conversions,Extra Points Made,Extra Points Allowed,Field Goals Made,Field Goals Attempted,Safeties Scored by Player/Team,Total Points Scored by all Means,Poins per Game,Year
+0,9,Steelers,Chris Boswell,29,K,13,0,0,0,0,0,0,0,0,0,0,0,0,34,38,19,20,,91,7.0,2020
+1,11,Steelers,Chase Claypool,22,WR,16,6,2,9,0,0,0,0,0,11,0,0,0,0,0,0,0,,66,4.1,2020
+2,19,Steelers,JuJu Smith-Schuster,24,WR,16,14,0,9,0,0,0,0,0,9,1,0,0,0,0,0,0,,56,3.5,2020
+3,18,Steelers,Diontae Johnson,24,WR,15,13,0,7,0,0,0,0,0,7,0,0,0,0,0,0,0,,42,2.8,2020
+4,30,Steelers,James Conner,25,RB,13,11,6,0,0,0,0,0,0,6,0,0,0,0,0,0,0,,36,2.8,2020
+5,85,Steelers,Eric Ebron,27,TE,15,9,0,5,0,0,0,0,0,5,1,0,0,0,0,0,0,,32,2.1,2020
+6,13,Steelers,James Washington,24,WR,16,7,0,5,0,0,0,0,0,5,0,0,0,0,0,0,0,,30,1.9,2020
+7,24,Steelers,Benny Snell Jr.,22,RB,16,3,4,0,0,0,0,0,0,4,0,0,0,0,0,0,0,,24,1.5,2020
+8,16,Steelers,Matthew Wright,24,K,3,0,0,0,0,0,0,0,0,0,0,0,0,7,7,4,4,,19,6.3,2020
+9,39,Steelers,Minkah Fitzpatrick,24,FS,16,16,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,,6,0.4,2020
+10,23,Steelers,Joe Haden,31,LCB,14,14,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,,6,0.4,2020
+11,41,Steelers,Robert Spillane,25,LILB,12,7,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,,6,0.5,2020
+12,44,Steelers,Derek Watt,28,RB,12,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1.0,2,0.2,2020

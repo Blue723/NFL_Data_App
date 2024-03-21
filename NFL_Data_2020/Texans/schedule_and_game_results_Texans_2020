@@ -1,18 +1,18 @@
-,Week,Team,Day,Date,Time,Win/Loss,Overtime,Team Record,Home/Away,Opponent,Points Scored,Points Allowed,Offense 1st Down,Total Yards Gained of Offense,Total yards Gained by Passing,Total Yards Gained by Rushing,Offense Turnovers,Defense 1st Down,Total Yards Allowed by Defense,Total Passing Yards Allowed by Defense,Total Rushing Yards Allowed by Defense,Defense Turnovers,Offense,Defense,Sp. Tms
-1,1,Texans,Thu,September 10,8:20PM ET,L,n/a,0-1,away,Kansas City Chiefs,20,34,21,360,242,118,1,28,369,203,166,n/a,8.16,-22.94,-1.59
-2,2,Texans,Sun,September 20,4:25PM ET,L,n/a,0-2,home,Baltimore Ravens,16,33,18,304,253,51,2,23,407,177,230,n/a,-5.68,-15.93,3.20
-3,3,Texans,Sun,September 27,1:00PM ET,L,n/a,0-3,away,Pittsburgh Steelers,21,28,13,260,231,29,1,25,387,218,169,n/a,4.41,-15.39,2.08
-4,4,Texans,Sun,October 4,1:00PM ET,L,n/a,0-4,home,Minnesota Vikings,23,31,20,386,290,96,1,24,410,248,162,n/a,8.81,-17.07,1.44
-5,5,Texans,Sun,October 11,1:00PM ET,W,n/a,1-4,home,Jacksonville Jaguars,30,14,24,486,357,129,2,22,364,289,75,2,18.24,-2.21,1.26
-6,6,Texans,Sun,October 18,1:00PM ET,L,OT,1-5,away,Tennessee Titans,36,42,25,412,320,92,n/a,31,607,344,263,2,22.14,-33.45,5.31
-7,7,Texans,Sun,October 25,1:00PM ET,L,n/a,1-6,home,Green Bay Packers,20,35,20,365,286,79,1,22,379,283,96,n/a,1.70,-20.19,4.25
-8,8,Texans,n/a,n/a,n/a,n/a,n/a,n/a,home,<strong>Bye Week</strong>,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
-9,9,Texans,Sun,November 8,1:00PM ET,W,n/a,2-6,away,Jacksonville Jaguars,27,25,19,374,267,107,1,22,403,288,115,1,9.52,-7.61,1.03
-10,10,Texans,Sun,November 15,1:00PM ET,L,n/a,2-7,away,Cleveland Browns,7,10,16,243,153,90,n/a,20,356,125,231,n/a,-0.68,-5.49,-2.92
-11,11,Texans,Sun,November 22,1:00PM ET,W,n/a,3-7,home,New England Patriots,27,20,21,399,344,55,n/a,22,435,349,86,n/a,15.69,-13.67,0.27
-12,12,Texans,Thu,November 26,12:30PM ET,W,n/a,4-7,away,Detroit Lions,41,25,21,384,307,77,1,28,388,279,109,3,11.31,3.34,-0.56
-13,13,Texans,Sun,December 6,1:00PM ET,L,n/a,4-8,home,Indianapolis Colts,20,26,20,398,308,90,2,25,371,262,109,n/a,5.59,-8.59,-1.28
-14,14,Texans,Sun,December 13,1:00PM ET,L,n/a,4-9,away,Chicago Bears,7,36,17,263,155,108,2,23,410,241,169,n/a,-8.67,-16.71,-2.22
-15,15,Texans,Sun,December 20,1:00PM ET,L,n/a,4-10,away,Indianapolis Colts,20,27,22,425,342,83,2,20,350,223,127,n/a,12.04,-16.23,-1.35
-16,16,Texans,Sun,December 27,1:00PM ET,L,n/a,4-11,home,Cincinnati Bengals,31,37,23,488,322,166,1,27,540,371,169,n/a,20.31,-25.27,2.34
-17,17,Texans,Sun,January 3,4:25PM ET,L,n/a,4-12,home,Tennessee Titans,38,41,26,457,361,96,1,28,492,204,288,1,17.33,-25.43,4.17
+,Week,Team,Day,Date,Time,Win/Loss,Overtime,Team Record,Home/Away,Opponent,Points Scored,Points Allowed,Offense 1st Down,Total Yards Gained of Offense,Total yards Gained by Passing,Total Yards Gained by Rushing,Offense Turnovers,Defense 1st Down,Total Yards Allowed by Defense,Total Passing Yards Allowed by Defense,Total Rushing Yards Allowed by Defense,Defense Turnovers,Offense,Defense,Sp. Tms,Year
+0,0,Texans,Thu,September 10,,L,0,0-1,away,Kansas City Chiefs,20,34,21,360,242,118,1,28,369,203,166,0,8.16,-22.94,-1.59,2020
+1,1,Texans,Sun,September 20,,L,0,0-2,home,Baltimore Ravens,16,33,18,304,253,51,2,23,407,177,230,0,-5.68,-15.93,3.2,2020
+2,2,Texans,Sun,September 27,,L,0,0-3,away,Pittsburgh Steelers,21,28,13,260,231,29,1,25,387,218,169,0,4.41,-15.39,2.08,2020
+3,3,Texans,Sun,October 4,,L,0,0-4,home,Minnesota Vikings,23,31,20,386,290,96,1,24,410,248,162,0,8.81,-17.07,1.44,2020
+4,4,Texans,Sun,October 11,,W,0,1-4,home,Jacksonville Jaguars,30,14,24,486,357,129,2,22,364,289,75,2,18.24,-2.21,1.26,2020
+5,5,1,1,1,1.0,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1.0,1.0,1.0,1
+6,6,Texans,Sun,October 25,,L,0,1-6,home,Green Bay Packers,20,35,20,365,286,79,1,22,379,283,96,0,1.7,-20.19,4.25,2020
+7,7,Texans,,,,,0,,home,<strong>Bye Week</strong>,0,0,0,0,0,0,0,0,0,0,0,0,,,,2020
+8,8,Texans,Sun,November 8,,W,0,2-6,away,Jacksonville Jaguars,27,25,19,374,267,107,1,22,403,288,115,1,9.52,-7.61,1.03,2020
+9,9,Texans,Sun,November 15,,L,0,2-7,away,Cleveland Browns,7,10,16,243,153,90,0,20,356,125,231,0,-0.68,-5.49,-2.92,2020
+10,10,Texans,Sun,November 22,,W,0,3-7,home,New England Patriots,27,20,21,399,344,55,0,22,435,349,86,0,15.69,-13.67,0.27,2020
+11,11,Texans,Thu,November 26,,W,0,4-7,away,Detroit Lions,41,25,21,384,307,77,1,28,388,279,109,3,11.31,3.34,-0.56,2020
+12,12,Texans,Sun,December 6,,L,0,4-8,home,Indianapolis Colts,20,26,20,398,308,90,2,25,371,262,109,0,5.59,-8.59,-1.28,2020
+13,13,Texans,Sun,December 13,,L,0,4-9,away,Chicago Bears,7,36,17,263,155,108,2,23,410,241,169,0,-8.67,-16.71,-2.22,2020
+14,14,Texans,Sun,December 20,,L,0,4-10,away,Indianapolis Colts,20,27,22,425,342,83,2,20,350,223,127,0,12.04,-16.23,-1.35,2020
+15,15,Texans,Sun,December 27,,L,0,4-11,home,Cincinnati Bengals,31,37,23,488,322,166,1,27,540,371,169,0,20.31,-25.27,2.34,2020
+16,16,Texans,Sun,January 3,,L,0,4-12,home,Tennessee Titans,38,41,26,457,361,96,1,28,492,204,288,1,17.33,-25.43,4.17,2020

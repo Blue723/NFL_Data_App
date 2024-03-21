@@ -1,20 +1,20 @@
-,Week,Team,Day,Date,Time,Win/Loss,Overtime,Team Record,Home/Away,Opponent,Points Scored,Points Allowed,Offense 1st Down,Total Yards Gained of Offense,Total yards Gained by Passing,Total Yards Gained by Rushing,Offense Turnovers,Defense 1st Down,Total Yards Allowed by Defense,Total Passing Yards Allowed by Defense,Total Rushing Yards Allowed by Defense,Defense Turnovers,Offense,Defense,Sp. Tms
-1,1,Colts,Sun,September 13,1:00PM ET,L,n/a,0-1,away,Jacksonville Jaguars,20,27,27,445,357,88,2,17,241,150,91,n/a,9.78,-9.78,-7.99
-2,2,Colts,Sun,September 20,1:00PM ET,W,n/a,1-1,home,Minnesota Vikings,28,11,24,354,203,151,1,12,175,95,80,3,5.63,9.97,4.52
-3,3,Colts,Sun,September 27,4:05PM ET,W,n/a,2-1,home,New York Jets,36,7,21,353,234,119,n/a,15,260,151,109,3,11.02,22.25,-0.99
-4,4,Colts,Sun,October 4,1:00PM ET,W,n/a,3-1,away,Chicago Bears,19,11,18,289,186,103,n/a,16,269,241,28,1,2.28,1.13,7.13
-5,5,Colts,Sun,October 11,4:25PM ET,L,n/a,3-2,away,Cleveland Browns,23,32,15,308,240,68,2,22,385,261,124,2,-2.46,-9.88,4.93
-6,6,Colts,Sun,October 18,1:00PM ET,W,n/a,4-2,home,Cincinnati Bengals,31,27,23,430,371,59,2,22,398,300,98,1,16.00,-12.35,0.22
-7,7,Colts,n/a,n/a,n/a,n/a,n/a,n/a,home,<strong>Bye Week</strong>,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
-8,8,Colts,Sun,November 1,1:00PM ET,W,n/a,5-2,away,Detroit Lions,41,21,26,366,247,119,n/a,20,326,297,29,2,21.92,3.03,-6.52
-9,9,Colts,Sun,November 8,1:00PM ET,L,n/a,5-3,home,Baltimore Ravens,10,24,20,339,227,112,2,19,266,156,110,1,-13.10,0.58,1.45
-10,10,Colts,Thu,November 12,8:20PM ET,W,n/a,6-3,away,Tennessee Titans,34,17,26,430,297,133,n/a,25,294,137,157,n/a,17.58,-9.37,6.81
-11,11,Colts,Sun,November 22,4:25PM ET,W,OT,7-3,home,Green Bay Packers,34,31,23,420,280,140,2,21,367,301,66,4,4.31,-6.48,4.30
-12,12,Colts,Sun,November 29,1:00PM ET,L,n/a,7-4,home,Tennessee Titans,26,45,27,336,280,56,1,28,449,220,229,n/a,6.68,-23.98,-6.58
-13,13,Colts,Sun,December 6,1:00PM ET,W,n/a,8-4,away,Houston Texans,26,20,25,371,262,109,n/a,20,398,308,90,2,8.59,-5.59,1.28
-14,14,Colts,Sun,December 13,4:05PM ET,W,n/a,9-4,away,Las Vegas Raiders,44,27,25,456,244,212,n/a,26,424,345,79,3,30.23,-9.54,-4.58
-15,15,Colts,Sun,December 20,1:00PM ET,W,n/a,10-4,home,Houston Texans,27,20,20,350,223,127,n/a,22,425,342,83,2,16.23,-12.04,1.35
-16,16,Colts,Sun,December 27,1:00PM ET,L,n/a,10-5,away,Pittsburgh Steelers,24,28,21,365,238,127,2,26,354,332,22,n/a,0.99,-8.37,2.01
-17,17,Colts,Sun,January 3,4:25PM ET,W,n/a,11-5,home,Jacksonville Jaguars,28,14,23,437,164,273,1,18,283,230,53,1,14.26,10.79,-8.77
-n/a,n/a,Colts,n/a,<strong>Playoffs</strong>,n/a,n/a,n/a,n/a,home,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
-Wild Card,Wild Card,Colts,Sat,January 9,1:05PM ET,L,n/a,11-6,away,Buffalo Bills,24,27,27,472,309,163,n/a,22,397,301,96,n/a,18.47,-15.99,-4.83
+,Week,Team,Day,Date,Time,Win/Loss,Overtime,Team Record,Home/Away,Opponent,Points Scored,Points Allowed,Offense 1st Down,Total Yards Gained of Offense,Total yards Gained by Passing,Total Yards Gained by Rushing,Offense Turnovers,Defense 1st Down,Total Yards Allowed by Defense,Total Passing Yards Allowed by Defense,Total Rushing Yards Allowed by Defense,Defense Turnovers,Offense,Defense,Sp. Tms,Year
+0,0,Colts,Sun,September 13,,L,0,0-1,away,Jacksonville Jaguars,20,27,27,445,357,88,2,17,241,150,91,0,9.78,-9.78,-7.99,2020
+1,1,Colts,Sun,September 20,,W,0,1-1,home,Minnesota Vikings,28,11,24,354,203,151,1,12,175,95,80,3,5.63,9.97,4.52,2020
+2,2,Colts,Sun,September 27,,W,0,2-1,home,New York Jets,36,7,21,353,234,119,0,15,260,151,109,3,11.02,22.25,-0.99,2020
+3,3,Colts,Sun,October 4,,W,0,3-1,away,Chicago Bears,19,11,18,289,186,103,0,16,269,241,28,1,2.28,1.13,7.13,2020
+4,4,Colts,Sun,October 11,,L,0,3-2,away,Cleveland Browns,23,32,15,308,240,68,2,22,385,261,124,2,-2.46,-9.88,4.93,2020
+5,5,Colts,Sun,October 18,,W,0,4-2,home,Cincinnati Bengals,31,27,23,430,371,59,2,22,398,300,98,1,16.0,-12.35,0.22,2020
+6,6,Colts,,,,,0,,home,<strong>Bye Week</strong>,0,0,0,0,0,0,0,0,0,0,0,0,,,,2020
+7,7,Colts,Sun,November 1,,W,0,5-2,away,Detroit Lions,41,21,26,366,247,119,0,20,326,297,29,2,21.92,3.03,-6.52,2020
+8,8,Colts,Sun,November 8,,L,0,5-3,home,Baltimore Ravens,10,24,20,339,227,112,2,19,266,156,110,1,-13.1,0.58,1.45,2020
+9,9,Colts,Thu,November 12,,W,0,6-3,away,Tennessee Titans,34,17,26,430,297,133,0,25,294,137,157,0,17.58,-9.37,6.81,2020
+10,10,1,1,1,1.0,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1.0,1.0,1.0,1
+11,11,Colts,Sun,November 29,,L,0,7-4,home,Tennessee Titans,26,45,27,336,280,56,1,28,449,220,229,0,6.68,-23.98,-6.58,2020
+12,12,Colts,Sun,December 6,,W,0,8-4,away,Houston Texans,26,20,25,371,262,109,0,20,398,308,90,2,8.59,-5.59,1.28,2020
+13,13,Colts,Sun,December 13,,W,0,9-4,away,Las Vegas Raiders,44,27,25,456,244,212,0,26,424,345,79,3,30.23,-9.54,-4.58,2020
+14,14,Colts,Sun,December 20,,W,0,10-4,home,Houston Texans,27,20,20,350,223,127,0,22,425,342,83,2,16.23,-12.04,1.35,2020
+15,15,Colts,Sun,December 27,,L,0,10-5,away,Pittsburgh Steelers,24,28,21,365,238,127,2,26,354,332,22,0,0.99,-8.37,2.01,2020
+16,16,Colts,Sun,January 3,,W,0,11-5,home,Jacksonville Jaguars,28,14,23,437,164,273,1,18,283,230,53,1,14.26,10.79,-8.77,2020
+17,17,Colts,,<strong>Playoffs</strong>,,,0,,home,,0,0,0,0,0,0,0,0,0,0,0,0,,,,2020
+18,18,Colts,Sat,January 9,,L,0,11-6,away,Buffalo Bills,24,27,27,472,309,163,0,22,397,301,96,0,18.47,-15.99,-4.83,2020

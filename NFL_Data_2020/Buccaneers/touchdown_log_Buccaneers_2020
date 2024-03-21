@@ -1,60 +1,60 @@
-,Rank,Team,Date,Opponent,Results,Quarter,Distance,Type,Detail
-1,1,Buccaneers,2020-09-13,NOR,"L, 23-34",1,2,rush,Tom Brady
-2,2,Buccaneers,2020-09-13,NOR,"L, 23-34",3,9,pass,O.J. Howard
-3,3,Buccaneers,2020-09-13,NOR,"L, 23-34",4,2,pass,Mike Evans
-4,4,Buccaneers,2020-09-20,CAR,"W, 31-17",1,7,rush,Ronald Jones II
-5,5,Buccaneers,2020-09-20,CAR,"W, 31-17",1,23,pass,Mike Evans
-6,6,Buccaneers,2020-09-20,CAR,"W, 31-17",2,1,rush,Leonard Fournette
-7,7,Buccaneers,2020-09-20,CAR,"W, 31-17",4,46,rush,Leonard Fournette
-8,8,Buccaneers,2020-09-27,DEN,"W, 28-10",1,10,pass,Chris Godwin
-9,9,Buccaneers,2020-09-27,DEN,"W, 28-10",2,1,pass,Mike Evans
-10,10,Buccaneers,2020-09-27,DEN,"W, 28-10",2,1,pass,Mike Evans
-11,11,Buccaneers,2020-10-04,LAC,"W, 38-31",1,3,pass,Cameron Brate
-12,12,Buccaneers,2020-10-04,LAC,"W, 38-31",2,6,pass,Mike Evans
-13,13,Buccaneers,2020-10-04,LAC,"W, 38-31",3,28,pass,O.J. Howard
-14,14,Buccaneers,2020-10-04,LAC,"W, 38-31",3,19,pass,Scott Miller
-15,15,Buccaneers,2020-10-04,LAC,"W, 38-31",4,9,pass,Ke'Shawn Vaughn
-16,16,Buccaneers,2020-10-08,CHI,"L, 19-20",1,2,pass,Mike Evans
-17,17,Buccaneers,2020-10-18,GNB,"W, 38-10",2,32,interception,Jamel Dean
-18,18,Buccaneers,2020-10-18,GNB,"W, 38-10",2,2,rush,Ronald Jones II
-19,19,Buccaneers,2020-10-18,GNB,"W, 38-10",2,7,pass,Tyler Johnson
-20,20,Buccaneers,2020-10-18,GNB,"W, 38-10",2,12,pass,Rob Gronkowski
-21,21,Buccaneers,2020-10-18,GNB,"W, 38-10",3,1,rush,Ronald Jones II
-22,22,Buccaneers,2020-10-25,LVR,"W, 45-20",1,1,rush,Tom Brady
-23,23,Buccaneers,2020-10-25,LVR,"W, 45-20",2,5,pass,Rob Gronkowski
-24,24,Buccaneers,2020-10-25,LVR,"W, 45-20",2,33,pass,Scott Miller
-25,25,Buccaneers,2020-10-25,LVR,"W, 45-20",4,4,pass,Chris Godwin
-26,26,Buccaneers,2020-10-25,LVR,"W, 45-20",4,1,rush,Ronald Jones II
-27,27,Buccaneers,2020-10-25,LVR,"W, 45-20",4,1,pass,Tyler Johnson
-28,28,Buccaneers,2020-11-02,NYG,"W, 25-23",3,3,pass,Rob Gronkowski
-29,29,Buccaneers,2020-11-02,NYG,"W, 25-23",4,8,pass,Mike Evans
-30,30,Buccaneers,2020-11-15,CAR,"W, 46-23",1,5,pass,Cameron Brate
-31,31,Buccaneers,2020-11-15,CAR,"W, 46-23",2,3,pass,Mike Evans
-32,32,Buccaneers,2020-11-15,CAR,"W, 46-23",3,98,rush,Ronald Jones II
-33,33,Buccaneers,2020-11-15,CAR,"W, 46-23",4,1,rush,Tom Brady
-34,34,Buccaneers,2020-11-15,CAR,"W, 46-23",4,7,pass,Rob Gronkowski
-35,35,Buccaneers,2020-11-23,LAR,"L, 24-27",2,9,pass,Mike Evans
-36,36,Buccaneers,2020-11-23,LAR,"L, 24-27",2,2,rush,Leonard Fournette
-37,37,Buccaneers,2020-11-23,LAR,"L, 24-27",4,13,pass,Chris Godwin
-38,38,Buccaneers,2020-11-29,KAN,"L, 24-27",2,37,pass,Ronald Jones II
-39,39,Buccaneers,2020-11-29,KAN,"L, 24-27",4,31,pass,Mike Evans
-40,40,Buccaneers,2020-11-29,KAN,"L, 24-27",4,7,pass,Mike Evans
-41,41,Buccaneers,2020-12-13,MIN,"W, 26-14",2,48,pass,Scott Miller
-42,42,Buccaneers,2020-12-13,MIN,"W, 26-14",2,1,rush,Ronald Jones II
-43,43,Buccaneers,2020-12-13,MIN,"W, 26-14",3,2,pass,Rob Gronkowski
-44,44,Buccaneers,2020-12-20,ATL,"W, 31-27",3,1,rush,Leonard Fournette
-45,45,Buccaneers,2020-12-20,ATL,"W, 31-27",3,4,pass,Chris Godwin
-46,46,Buccaneers,2020-12-20,ATL,"W, 31-27",3,1,rush,Leonard Fournette
-47,47,Buccaneers,2020-12-20,ATL,"W, 31-27",4,46,pass,Antonio Brown
-48,48,Buccaneers,2020-12-26,DET,"W, 47-7",1,33,pass,Rob Gronkowski
-49,49,Buccaneers,2020-12-26,DET,"W, 47-7",1,27,pass,Mike Evans
-50,50,Buccaneers,2020-12-26,DET,"W, 47-7",2,4,rush,Leonard Fournette
-51,51,Buccaneers,2020-12-26,DET,"W, 47-7",2,7,pass,Chris Godwin
-52,52,Buccaneers,2020-12-26,DET,"W, 47-7",2,12,pass,Antonio Brown
-53,53,Buccaneers,2020-12-26,DET,"W, 47-7",3,25,pass,Rob Gronkowski
-54,54,Buccaneers,2020-12-26,DET,"W, 47-7",3,22,pass,Mike Evans
-55,55,Buccaneers,2021-01-03,ATL,"W, 44-27",1,29,pass,Chris Godwin
-56,56,Buccaneers,2021-01-03,ATL,"W, 44-27",2,25,pass,Antonio Brown
-57,57,Buccaneers,2021-01-03,ATL,"W, 44-27",4,3,rush,Ronald Jones II
-58,58,Buccaneers,2021-01-03,ATL,"W, 44-27",4,4,pass,Chris Godwin
-59,59,Buccaneers,2021-01-03,ATL,"W, 44-27",4,30,pass,Antonio Brown
+,Rank,Team,Date,Opponent,Win/Loss,Score,Quarter,Distance,Type,Detail,Year
+0,1,Buccaneers,09/13/2020,NOR,Loss, 23-34,1,2,rush,Tom Brady,2020
+1,2,Buccaneers,09/13/2020,NOR,Loss, 23-34,3,9,pass,O.J. Howard,2020
+2,3,Buccaneers,09/13/2020,NOR,Loss, 23-34,4,2,pass,Mike Evans,2020
+3,4,Buccaneers,09/20/2020,CAR,Win, 31-17,1,7,rush,Ronald Jones II,2020
+4,5,Buccaneers,09/20/2020,CAR,Win, 31-17,1,23,pass,Mike Evans,2020
+5,6,Buccaneers,09/20/2020,CAR,Win, 31-17,2,1,rush,Leonard Fournette,2020
+6,7,Buccaneers,09/20/2020,CAR,Win, 31-17,4,46,rush,Leonard Fournette,2020
+7,8,Buccaneers,09/27/2020,DEN,Win, 28-10,1,10,pass,Chris Godwin,2020
+8,9,Buccaneers,09/27/2020,DEN,Win, 28-10,2,1,pass,Mike Evans,2020
+9,10,Buccaneers,09/27/2020,DEN,Win, 28-10,2,1,pass,Mike Evans,2020
+10,11,Buccaneers,10/04/2020,LAC,Win, 38-31,1,3,pass,Cameron Brate,2020
+11,12,Buccaneers,10/04/2020,LAC,Win, 38-31,2,6,pass,Mike Evans,2020
+12,13,Buccaneers,10/04/2020,LAC,Win, 38-31,3,28,pass,O.J. Howard,2020
+13,14,Buccaneers,10/04/2020,LAC,Win, 38-31,3,19,pass,Scott Miller,2020
+14,15,Buccaneers,10/04/2020,LAC,Win, 38-31,4,9,pass,Ke'Shawn Vaughn,2020
+15,16,Buccaneers,10/08/2020,CHI,Loss, 19-20,1,2,pass,Mike Evans,2020
+16,17,Buccaneers,10/18/2020,GNB,Win, 38-10,2,32,interception,Jamel Dean,2020
+17,18,Buccaneers,10/18/2020,GNB,Win, 38-10,2,2,rush,Ronald Jones II,2020
+18,19,Buccaneers,10/18/2020,GNB,Win, 38-10,2,7,pass,Tyler Johnson,2020
+19,20,Buccaneers,10/18/2020,GNB,Win, 38-10,2,12,pass,Rob Gronkowski,2020
+20,21,Buccaneers,10/18/2020,GNB,Win, 38-10,3,1,rush,Ronald Jones II,2020
+21,22,Buccaneers,10/25/2020,LVR,Win, 45-20,1,1,rush,Tom Brady,2020
+22,23,Buccaneers,10/25/2020,LVR,Win, 45-20,2,5,pass,Rob Gronkowski,2020
+23,24,Buccaneers,10/25/2020,LVR,Win, 45-20,2,33,pass,Scott Miller,2020
+24,25,Buccaneers,10/25/2020,LVR,Win, 45-20,4,4,pass,Chris Godwin,2020
+25,26,Buccaneers,10/25/2020,LVR,Win, 45-20,4,1,rush,Ronald Jones II,2020
+26,27,Buccaneers,10/25/2020,LVR,Win, 45-20,4,1,pass,Tyler Johnson,2020
+27,28,Buccaneers,11/02/2020,NYG,Win, 25-23,3,3,pass,Rob Gronkowski,2020
+28,29,Buccaneers,11/02/2020,NYG,Win, 25-23,4,8,pass,Mike Evans,2020
+29,30,Buccaneers,11/15/2020,CAR,Win, 46-23,1,5,pass,Cameron Brate,2020
+30,31,Buccaneers,11/15/2020,CAR,Win, 46-23,2,3,pass,Mike Evans,2020
+31,32,Buccaneers,11/15/2020,CAR,Win, 46-23,3,98,rush,Ronald Jones II,2020
+32,33,Buccaneers,11/15/2020,CAR,Win, 46-23,4,1,rush,Tom Brady,2020
+33,34,Buccaneers,11/15/2020,CAR,Win, 46-23,4,7,pass,Rob Gronkowski,2020
+34,35,Buccaneers,11/23/2020,LAR,Loss, 24-27,2,9,pass,Mike Evans,2020
+35,36,Buccaneers,11/23/2020,LAR,Loss, 24-27,2,2,rush,Leonard Fournette,2020
+36,37,Buccaneers,11/23/2020,LAR,Loss, 24-27,4,13,pass,Chris Godwin,2020
+37,38,Buccaneers,11/29/2020,KAN,Loss, 24-27,2,37,pass,Ronald Jones II,2020
+38,39,Buccaneers,11/29/2020,KAN,Loss, 24-27,4,31,pass,Mike Evans,2020
+39,40,Buccaneers,11/29/2020,KAN,Loss, 24-27,4,7,pass,Mike Evans,2020
+40,41,Buccaneers,12/13/2020,MIN,Win, 26-14,2,48,pass,Scott Miller,2020
+41,42,Buccaneers,12/13/2020,MIN,Win, 26-14,2,1,rush,Ronald Jones II,2020
+42,43,Buccaneers,12/13/2020,MIN,Win, 26-14,3,2,pass,Rob Gronkowski,2020
+43,44,Buccaneers,12/20/2020,ATL,Win, 31-27,3,1,rush,Leonard Fournette,2020
+44,45,Buccaneers,12/20/2020,ATL,Win, 31-27,3,4,pass,Chris Godwin,2020
+45,46,Buccaneers,12/20/2020,ATL,Win, 31-27,3,1,rush,Leonard Fournette,2020
+46,47,Buccaneers,12/20/2020,ATL,Win, 31-27,4,46,pass,Antonio Brown,2020
+47,48,Buccaneers,12/26/2020,DET,Win, 47-7,1,33,pass,Rob Gronkowski,2020
+48,49,Buccaneers,12/26/2020,DET,Win, 47-7,1,27,pass,Mike Evans,2020
+49,50,Buccaneers,12/26/2020,DET,Win, 47-7,2,4,rush,Leonard Fournette,2020
+50,51,Buccaneers,12/26/2020,DET,Win, 47-7,2,7,pass,Chris Godwin,2020
+51,52,Buccaneers,12/26/2020,DET,Win, 47-7,2,12,pass,Antonio Brown,2020
+52,53,Buccaneers,12/26/2020,DET,Win, 47-7,3,25,pass,Rob Gronkowski,2020
+53,54,Buccaneers,12/26/2020,DET,Win, 47-7,3,22,pass,Mike Evans,2020
+54,55,Buccaneers,01/03/2021,ATL,Win, 44-27,1,29,pass,Chris Godwin,2020
+55,56,Buccaneers,01/03/2021,ATL,Win, 44-27,2,25,pass,Antonio Brown,2020
+56,57,Buccaneers,01/03/2021,ATL,Win, 44-27,4,3,rush,Ronald Jones II,2020
+57,58,Buccaneers,01/03/2021,ATL,Win, 44-27,4,4,pass,Chris Godwin,2020
+58,59,Buccaneers,01/03/2021,ATL,Win, 44-27,4,30,pass,Antonio Brown,2020

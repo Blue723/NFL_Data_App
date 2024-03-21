@@ -1,22 +1,22 @@
-,No.,Team,Player,Age,Position,Games Played,Games Started as an Offensive or Defensive Player,Rushing Attempts,Rushing Yards Gained,Rushing Touchdown,First Downs Rushing,Rushing Success Rate,Longest Rushing Attempt,Rushing Yards per Attempt,Rushing Yards per Game,Rushing Attempts per Game,Pass Targets,Receptions,Receiving Yards,Receiving Yards per Reception,Receiving Touchdowns,First Downs Receiving,Receiving Success Rate,Longest Reception,Receptions per Game,Receiving Yards per Game,Catch%,Receiving Yards per Target,Touches: Rushing Attempts and Receptions,Scrimmage Yards per Touch: Rushing + Receiving Yardage per Opportunity,Yards from Scrimmage: Receiving and Rushing Yards,Rushing and Receiving Touchdowns,Lost and Recovered Fumbles
-30,30,Jaguars,James Robinson,22,RB,14,14,240,1070,7,54,49.6,47,4.5,76.4,17.1,60,49,344,7.0,3,15,48.3,28,3.5,24.6,81.7%,5.7,289,4.9,1414,10,3
-33,33,Jaguars,Dare Ogunbowale,26,RB,14,2,32,145,0,6,37.5,25,4.5,10.4,2.3,20,10,54,5.4,0,4,20.0,12,0.7,3.9,50.0%,2.7,42,4.7,199,0,n/a
-15,15,Jaguars,Gardner Minshew II,24,QB,9,8,29,153,1,10,55.2,16,5.3,17.0,3.2,1,1,0,0.0,0,0,0.0,0,0.1,0.0,100.0%,0.0,30,5.1,153,1,5
-10,10,Jaguars,Laviska Shenault Jr.,22,WR,14,12,18,91,0,6,55.6,17,5.1,6.5,1.3,79,58,600,10.3,5,33,53.2,36,4.1,42.9,73.4%,7.6,76,9.1,691,5,n/a
-34,34,Jaguars,Chris Thompson,30,RB,8,0,7,20,0,1,42.9,5,2.9,2.5,0.9,23,20,146,7.3,1,5,47.8,15,2.5,18.3,87.0%,6.3,27,6.1,166,1,n/a
-2,2,Jaguars,Mike Glennon,31,QB,5,5,6,17,0,2,50.0,4,2.8,3.4,1.2,n/a,n/a,n/a,n/a,0,n/a,n/a,n/a,n/a,n/a,n/a,n/a,6,2.8,17,0,2
-84,84,Jaguars,Keelan Cole,27,WR,16,5,1,2,0,0,0.0,2,2.0,0.1,0.1,88,55,642,11.7,5,34,58.0,51,3.4,40.1,62.5%,7.3,56,11.5,644,5,n/a
-33,33,Jaguars,Devine Ozigbo,24,RB,8,0,1,1,0,0,0.0,1,1.0,0.1,0.1,9,9,42,4.7,0,3,44.4,12,1.1,5.3,100.0%,4.7,10,4.3,43,0,n/a
-14,14,Jaguars,Terry Godwin,24,WR,3,0,1,3,0,0,0.0,3,3.0,1.0,0.3,6,3,32,10.7,0,2,50.0,21,1.0,10.7,50.0%,5.3,4,8.8,35,0,n/a
-48,48,Jaguars,Craig Reynolds,24,RB,2,0,1,4,0,n/a,100.0,4,4.0,2.0,0.5,1,1,3,3.0,0,n/a,0.0,3,0.5,1.5,100.0%,3.0,2,3.5,7,0,n/a
-6,6,Jaguars,Jake Luton,24,QB,3,3,1,13,1,1,100.0,13,13.0,4.3,0.3,n/a,n/a,n/a,n/a,0,n/a,n/a,n/a,n/a,n/a,n/a,n/a,1,13.0,13,1,2
-17,17,Jaguars,DJ Chark,24,WR,13,12,n/a,n/a,0,n/a,n/a,n/a,n/a,n/a,n/a,93,53,706,13.3,5,37,48.4,73,4.1,54.3,57.0%,7.6,53,13.3,706,5,n/a
-18,18,Jaguars,Chris Conley,28,WR,15,4,n/a,n/a,0,n/a,n/a,n/a,n/a,n/a,n/a,63,40,471,11.8,2,24,58.7,51,2.7,31.4,63.5%,7.5,40,11.8,471,2,1
-88,88,Jaguars,Tyler Eifert,30,TE,15,4,n/a,n/a,0,n/a,n/a,n/a,n/a,n/a,n/a,60,36,349,9.7,2,22,48.3,28,2.4,23.3,60.0%,5.8,36,9.7,349,2,n/a
-80,80,Jaguars,James O'Shaughnessy,28,TE,15,13,n/a,n/a,0,n/a,n/a,n/a,n/a,n/a,n/a,38,28,262,9.4,0,12,63.2,26,1.9,17.5,73.7%,6.9,28,9.4,262,0,n/a
-19,19,Jaguars,Collin Johnson,23,WR,14,0,n/a,n/a,0,n/a,n/a,n/a,n/a,n/a,n/a,31,18,272,15.1,2,12,51.6,46,1.3,19.4,58.1%,8.8,18,15.1,272,2,n/a
-85,85,Jaguars,Eric Saubert,26,TE,8,4,n/a,n/a,0,n/a,n/a,n/a,n/a,n/a,n/a,4,3,16,5.3,0,n/a,25.0,9,0.4,2.0,75.0%,4.0,3,5.3,16,0,n/a
-86,86,Jaguars,Ben Ellefson,24,TE,7,4,n/a,n/a,0,n/a,n/a,n/a,n/a,n/a,n/a,4,1,10,10.0,0,1,25.0,10,0.1,1.4,25.0%,2.5,1,10.0,10,0,n/a
-49,49,Jaguars,Bruce Miller,33,FB,8,5,n/a,n/a,0,n/a,n/a,n/a,n/a,n/a,n/a,2,1,2,2.0,0,1,50.0,2,0.1,0.3,50.0%,1.0,1,2.0,2,0,n/a
-12,12,Jaguars,Dede Westbrook,27,WR,2,0,n/a,n/a,0,n/a,n/a,n/a,n/a,n/a,n/a,1,1,4,4.0,0,n/a,100.0,4,0.5,2.0,100.0%,4.0,1,4.0,4,0,1
-87,87,Jaguars,Tyler Davis,23,TE,8,0,n/a,n/a,0,n/a,n/a,n/a,n/a,n/a,n/a,2,0,0,n/a,0,n/a,0.0,0,0.0,0.0,0.0%,0.0,n/a,n/a,n/a,0,n/a
+,No.,Team,Player,Age,Position,Games Played,Games Started as an Offensive or Defensive Player,Rushing Attempts,Rushing Yards Gained,Rushing Touchdown,First Downs Rushing,Rushing Success Rate,Longest Rushing Attempt,Rushing Yards per Attempt,Rushing Yards per Game,Rushing Attempts per Game,Pass Targets,Receptions,Receiving Yards,Receiving Yards per Reception,Receiving Touchdowns,First Downs Receiving,Receiving Success Rate,Longest Reception,Receptions per Game,Receiving Yards per Game,Catch Per.,Receiving Yards per Target,Touches: Rushing Attempts and Receptions,Scrimmage Yards per Touch: Rushing + Receiving Yardage per Opportunity,Yards from Scrimmage: Receiving and Rushing Yards,Rushing and Receiving Touchdowns,Lost and Recovered Fumbles,Year
+0,30,Jaguars,James Robinson,22,RB,14,14,240,1070,7,54,49.6,47,4.5,76.4,17.1,60,49,344,7.0,3,15,48.3,28,3.5,24.6,81.7,5.7,289,4.9,1414,10,3,2020
+1,33,Jaguars,Dare Ogunbowale,26,RB,14,2,32,145,0,6,37.5,25,4.5,10.4,2.3,20,10,54,5.4,0,4,20.0,12,0.7,3.9,50.0,2.7,42,4.7,199,0,0,2020
+2,15,Jaguars,Gardner Minshew II,24,QB,9,8,29,153,1,10,55.2,16,5.3,17.0,3.2,1,1,0,0.0,0,0,0.0,0,0.1,0.0,100.0,0.0,30,5.1,153,1,5,2020
+3,10,Jaguars,Laviska Shenault Jr.,22,WR,14,12,18,91,0,6,55.6,17,5.1,6.5,1.3,79,58,600,10.3,5,33,53.2,36,4.1,42.9,73.4,7.6,76,9.1,691,5,0,2020
+4,34,Jaguars,Chris Thompson,30,RB,8,0,7,20,0,1,42.9,5,2.9,2.5,0.9,23,20,146,7.3,1,5,47.8,15,2.5,18.3,87.0,6.3,27,6.1,166,1,0,2020
+5,2,Jaguars,Mike Glennon,31,QB,5,5,6,17,0,2,50.0,4,2.8,3.4,1.2,0,0,0,,0,0,,0,,,0.0,,6,2.8,17,0,2,2020
+6,84,Jaguars,Keelan Cole,27,WR,16,5,1,2,0,0,0.0,2,2.0,0.1,0.1,88,55,642,11.7,5,34,58.0,51,3.4,40.1,62.5,7.3,56,11.5,644,5,0,2020
+7,33,Jaguars,Devine Ozigbo,24,RB,8,0,1,1,0,0,0.0,1,1.0,0.1,0.1,9,9,42,4.7,0,3,44.4,12,1.1,5.3,100.0,4.7,10,4.3,43,0,0,2020
+8,14,Jaguars,Terry Godwin,24,WR,3,0,1,3,0,0,0.0,3,3.0,1.0,0.3,6,3,32,10.7,0,2,50.0,21,1.0,10.7,50.0,5.3,4,8.8,35,0,0,2020
+9,48,Jaguars,Craig Reynolds,24,RB,2,0,1,4,0,0,100.0,4,4.0,2.0,0.5,1,1,3,3.0,0,0,0.0,3,0.5,1.5,100.0,3.0,2,3.5,7,0,0,2020
+10,6,Jaguars,Jake Luton,24,QB,3,3,1,13,1,1,100.0,13,13.0,4.3,0.3,0,0,0,,0,0,,0,,,0.0,,1,13.0,13,1,2,2020
+11,17,Jaguars,DJ Chark,24,WR,13,12,0,0,0,0,,0,,,,93,53,706,13.3,5,37,48.4,73,4.1,54.3,57.0,7.6,53,13.3,706,5,0,2020
+12,18,Jaguars,Chris Conley,28,WR,15,4,0,0,0,0,,0,,,,63,40,471,11.8,2,24,58.7,51,2.7,31.4,63.5,7.5,40,11.8,471,2,1,2020
+13,88,Jaguars,Tyler Eifert,30,TE,15,4,0,0,0,0,,0,,,,60,36,349,9.7,2,22,48.3,28,2.4,23.3,60.0,5.8,36,9.7,349,2,0,2020
+14,80,Jaguars,James O'Shaughnessy,28,TE,15,13,0,0,0,0,,0,,,,38,28,262,9.4,0,12,63.2,26,1.9,17.5,73.7,6.9,28,9.4,262,0,0,2020
+15,19,Jaguars,Collin Johnson,23,WR,14,0,0,0,0,0,,0,,,,31,18,272,15.1,2,12,51.6,46,1.3,19.4,58.1,8.8,18,15.1,272,2,0,2020
+16,85,Jaguars,Eric Saubert,26,TE,8,4,0,0,0,0,,0,,,,4,3,16,5.3,0,0,25.0,9,0.4,2.0,75.0,4.0,3,5.3,16,0,0,2020
+17,86,Jaguars,Ben Ellefson,24,TE,7,4,0,0,0,0,,0,,,,4,1,10,10.0,0,1,25.0,10,0.1,1.4,25.0,2.5,1,10.0,10,0,0,2020
+18,49,Jaguars,Bruce Miller,33,FB,8,5,0,0,0,0,,0,,,,2,1,2,2.0,0,1,50.0,2,0.1,0.3,50.0,1.0,1,2.0,2,0,0,2020
+19,12,Jaguars,Dede Westbrook,27,WR,2,0,0,0,0,0,,0,,,,1,1,4,4.0,0,0,100.0,4,0.5,2.0,100.0,4.0,1,4.0,4,0,1,2020
+20,87,Jaguars,Tyler Davis,23,TE,8,0,0,0,0,0,,0,,,,2,0,0,,0,0,0.0,0,0.0,0.0,0.0,0.0,0,,0,0,0,2020
