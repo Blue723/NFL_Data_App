@@ -1,6 +1,6 @@
-,No.,Team,Player,Age,Position,Games Played,Games Started,FGA 0-19,FGM 0-19,FGA 20-29,FGM 20-29,FGA 30-39,FGM 30-39,FGA 40-49,FGM 40-49,FGA 50+,FGM 50+,Field Goals Attempted,Field Goals Made,Longest Field Goal Made,% of Field Goals Made,Extra Points Attempted,Extra Points Made,Extra Point Percentage,Kickoffs,Kickoff Yards,Kickoff Touchbacks,% Kickoff was a Touchback,Kickoff Average Yardage
-2,2,Patriots,Nick Folk,35,K,7,0,1,1,5,5,3,3,7,4,1,1,17,14,46,82.4%,12,12,100.0%,1,41,n/a,n/a,41.0
-2,2,Patriots,Mike Nugent,37,K,4,0,n/a,n/a,4,3,3,2,1,n/a,n/a,n/a,8,5,29,62.5%,16,15,93.8%,n/a,n/a,n/a,n/a,n/a
-3,3,Patriots,Stephen Gostkowski,35,K,4,0,n/a,n/a,3,3,3,3,2,1,n/a,n/a,8,7,41,87.5%,15,11,73.3%,26,1687,21,80.8%,64.9
-2,2,Patriots,Kai Forbath,32,K,1,0,n/a,n/a,1,1,n/a,n/a,n/a,n/a,n/a,n/a,1,1,23,100.0%,2,1,50.0%,n/a,n/a,n/a,n/a,n/a
-7,7,Patriots,Jake Bailey,22,P,16,0,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,65,3973,38,58.5%,61.1
+,No.,Team,Player,Age,Position,Games Played,Games Started,FGA 0-19,FGM 0-19,FGA 20-29,FGM 20-29,FGA 30-39,FGM 30-39,FGA 40-49,FGM 40-49,FGA 50+,FGM 50+,Field Goals Attempted,Field Goals Made,Longest Field Goal Made,Per. of Field Goals Made,Extra Points Attempted,Extra Points Made,Extra Point Per.,Kickoffs,Kickoff Yards,Kickoff Touchbacks,Per. Kickoff was a Touchback,Kickoff Average Yardage,Year
+0,2,Patriots,Nick Folk,35,K,7,0,1,1,5,5,3,3,7,4,1,1,17,14,46,82.4,12,12,100.0,1,41,0,0.0,41.0,2019
+1,2,Patriots,Mike Nugent,37,K,4,0,0,0,4,3,3,2,1,0,0,0,8,5,29,62.5,16,15,93.8,0,0,0,0.0,0.0,2019
+2,3,Patriots,Stephen Gostkowski,35,K,4,0,0,0,3,3,3,3,2,1,0,0,8,7,41,87.5,15,11,73.3,26,1687,21,80.8,64.9,2019
+3,2,Patriots,Kai Forbath,32,K,1,0,0,0,1,1,0,0,0,0,0,0,1,1,23,100.0,2,1,50.0,0,0,0,0.0,0.0,2019
+4,7,Patriots,Jake Bailey,22,P,16,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0.0,65,3973,38,58.5,61.1,2019

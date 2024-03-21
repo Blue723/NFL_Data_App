@@ -1,6 +1,6 @@
-,No.,Team,Player,Age,Position,Games Played,Games Started,Punts Returned,Punts Return Yardage,Punts Returned for Touchdown,Longest Punt Return,Yards per Punt Return,Kickoff Returns,Yardage for Kickoffs Returned,Kickoffs Returned for a Touchdown,Longest Kickoff Return,Yards per Kickoff Return,All-purpose Yards
-16,16,Ravens,De'Anthony Thomas,26,RB,8,0,13,93,0,20,7.2,10,166,0,31,16.6,260
-43,43,Ravens,Justice Hill,22,RB,16,0,n/a,n/a,0,n/a,n/a,12,227,0,46,18.9,522
-27,27,Ravens,Cyrus Jones,26,DB,8,1,12,113,0,25,9.4,n/a,n/a,0,n/a,n/a,113
-10,10,Ravens,Chris Moore,26,WR,14,1,n/a,n/a,0,n/a,n/a,4,81,0,26,20.3,102
-83,83,Ravens,Willie Snead,27,WR,16,11,n/a,n/a,0,n/a,n/a,1,19,0,19,19.0,360
+,No.,Team,Player,Age,Position,Games Played,Games Started,Punts Returned,Punts Return Yardage,Punts Returned for Touchdown,Longest Punt Return,Yards per Punt Return,Kickoff Returns,Yardage for Kickoffs Returned,Kickoffs Returned for a Touchdown,Longest Kickoff Return,Yards per Kickoff Return,All-purpose Yards,Year
+0,16,Ravens,De'Anthony Thomas,26,RB,8,0,13,93,0,20,7.2,10,166,0,31,16.6,260,2019
+1,43,Ravens,Justice Hill,22,RB,16,0,0,0,0,0,,12,227,0,46,18.9,522,2019
+2,27,Ravens,Cyrus Jones,26,DB,8,1,12,113,0,25,9.4,0,0,0,0,,113,2019
+3,10,Ravens,Chris Moore,26,WR,14,1,0,0,0,0,,4,81,0,26,20.3,102,2019
+4,83,Ravens,Willie Snead,27,WR,16,11,0,0,0,0,,1,19,0,19,19.0,360,2019

@@ -1,55 +1,55 @@
-,Rank,Team,Date,Opponent,Results,Quarter,Distance,Type,Detail
-1,1,Buccaneers,2019-09-08,SFO,"L, 17-31",2,15,interception,Vernon Hargreaves III
-2,2,Buccaneers,2019-09-08,SFO,"L, 17-31",3,10,pass,Chris Godwin
-3,3,Buccaneers,2019-09-12,CAR,"W, 20-14",2,20,pass,Chris Godwin
-4,4,Buccaneers,2019-09-12,CAR,"W, 20-14",3,16,rush,Peyton Barber
-5,5,Buccaneers,2019-09-22,NYG,"L, 31-32",1,21,pass,Mike Evans
-6,6,Buccaneers,2019-09-22,NYG,"L, 31-32",1,3,pass,Mike Evans
-7,7,Buccaneers,2019-09-22,NYG,"L, 31-32",2,20,pass,Mike Evans
-8,8,Buccaneers,2019-09-29,LAR,"W, 55-40",1,3,rush,Peyton Barber
-9,9,Buccaneers,2019-09-29,LAR,"W, 55-40",2,3,pass,Chris Godwin
-10,10,Buccaneers,2019-09-29,LAR,"W, 55-40",2,9,pass,Chris Godwin
-11,11,Buccaneers,2019-09-29,LAR,"W, 55-40",2,5,rush,Ronald Jones II
-12,12,Buccaneers,2019-09-29,LAR,"W, 55-40",4,13,pass,Cameron Brate
-13,13,Buccaneers,2019-09-29,LAR,"W, 55-40",4,67,pass,Mike Evans
-14,14,Buccaneers,2019-09-29,LAR,"W, 55-40",4,37,fumble,Ndamukong Suh
-15,15,Buccaneers,2019-10-06,NOR,"L, 24-31",1,26,pass,Chris Godwin
-16,16,Buccaneers,2019-10-06,NOR,"L, 24-31",3,2,rush,Peyton Barber
-17,17,Buccaneers,2019-10-06,NOR,"L, 24-31",4,26,pass,Chris Godwin
-18,18,Buccaneers,2019-10-13,CAR,"L, 26-37",2,5,rush,Ronald Jones II
-19,19,Buccaneers,2019-10-13,CAR,"L, 26-37",4,10,pass,Cameron Brate
-20,20,Buccaneers,2019-10-13,CAR,"L, 26-37",4,3,rush,Dare Ogunbowale
-21,21,Buccaneers,2019-10-27,TEN,"L, 23-27",2,9,pass,Mike Evans
-22,22,Buccaneers,2019-10-27,TEN,"L, 23-27",3,2,pass,Mike Evans
-23,23,Buccaneers,2019-11-03,SEA,"L, 34-40",1,8,rush,Ronald Jones II
-24,24,Buccaneers,2019-11-03,SEA,"L, 34-40",1,15,pass,Breshad Perriman
-25,25,Buccaneers,2019-11-03,SEA,"L, 34-40",2,5,pass,Mike Evans
-26,26,Buccaneers,2019-11-03,SEA,"L, 34-40",4,1,rush,Dare Ogunbowale
-27,27,Buccaneers,2019-11-10,ARI,"W, 30-27",1,7,rush,Ronald Jones II
-28,28,Buccaneers,2019-11-10,ARI,"W, 30-27",2,10,pass,O.J. Howard
-29,29,Buccaneers,2019-11-10,ARI,"W, 30-27",4,1,rush,Peyton Barber
-30,30,Buccaneers,2019-11-17,NOR,"L, 17-34",2,6,pass,Peyton Barber
-31,31,Buccaneers,2019-11-17,NOR,"L, 17-34",3,30,pass,Chris Godwin
-32,32,Buccaneers,2019-11-24,ATL,"W, 35-22",1,71,pass,Chris Godwin
-33,33,Buccaneers,2019-11-24,ATL,"W, 35-22",2,1,pass,Chris Godwin
-34,34,Buccaneers,2019-11-24,ATL,"W, 35-22",2,1,pass,Vita Vea
-35,35,Buccaneers,2019-11-24,ATL,"W, 35-22",3,4,rush,Ronald Jones II
-36,36,Buccaneers,2019-11-24,ATL,"W, 35-22",4,6,fumble,Ndamukong Suh
-37,37,Buccaneers,2019-12-01,JAX,"W, 28-11",1,15,rush,Peyton Barber
-38,38,Buccaneers,2019-12-01,JAX,"W, 28-11",1,14,fumble,Devin White
-39,39,Buccaneers,2019-12-01,JAX,"W, 28-11",2,1,rush,Peyton Barber
-40,40,Buccaneers,2019-12-08,IND,"W, 38-35",1,1,rush,Jameis Winston
-41,41,Buccaneers,2019-12-08,IND,"W, 38-35",1,61,pass,Mike Evans
-42,42,Buccaneers,2019-12-08,IND,"W, 38-35",2,3,pass,Cameron Brate
-43,43,Buccaneers,2019-12-08,IND,"W, 38-35",3,17,pass,Justin Watson
-44,44,Buccaneers,2019-12-08,IND,"W, 38-35",4,12,pass,Breshad Perriman
-45,45,Buccaneers,2019-12-15,DET,"W, 38-17",1,34,pass,Breshad Perriman
-46,46,Buccaneers,2019-12-15,DET,"W, 38-17",1,33,pass,Scott Miller
-47,47,Buccaneers,2019-12-15,DET,"W, 38-17",2,25,pass,Breshad Perriman
-48,48,Buccaneers,2019-12-15,DET,"W, 38-17",4,70,interception,Sean Murphy-Bunting
-49,49,Buccaneers,2019-12-15,DET,"W, 38-17",4,25,pass,Breshad Perriman
-50,50,Buccaneers,2019-12-21,HOU,"L, 20-23",2,4,rush,Ronald Jones II
-51,51,Buccaneers,2019-12-21,HOU,"L, 20-23",2,8,pass,Justin Watson
-52,52,Buccaneers,2019-12-29,ATL,"L, 22-28",2,2,pass,Cameron Brate
-53,53,Buccaneers,2019-12-29,ATL,"L, 22-28",2,91,fumble,Devin White
-54,54,Buccaneers,2019-12-29,ATL,"L, 22-28",2,24,pass,Breshad Perriman
+,Rank,Team,Date,Opponent,Win/Loss,Score,Quarter,Distance,Type,Detail,Year
+0,1,Buccaneers,09/08/2019,SFO,Loss, 17-31,2,15,interception,Vernon Hargreaves III,2019
+1,2,Buccaneers,09/08/2019,SFO,Loss, 17-31,3,10,pass,Chris Godwin,2019
+2,3,Buccaneers,09/12/2019,CAR,Win, 20-14,2,20,pass,Chris Godwin,2019
+3,4,Buccaneers,09/12/2019,CAR,Win, 20-14,3,16,rush,Peyton Barber,2019
+4,5,Buccaneers,09/22/2019,NYG,Loss, 31-32,1,21,pass,Mike Evans,2019
+5,6,Buccaneers,09/22/2019,NYG,Loss, 31-32,1,3,pass,Mike Evans,2019
+6,7,Buccaneers,09/22/2019,NYG,Loss, 31-32,2,20,pass,Mike Evans,2019
+7,8,Buccaneers,09/29/2019,LAR,Win, 55-40,1,3,rush,Peyton Barber,2019
+8,9,Buccaneers,09/29/2019,LAR,Win, 55-40,2,3,pass,Chris Godwin,2019
+9,10,Buccaneers,09/29/2019,LAR,Win, 55-40,2,9,pass,Chris Godwin,2019
+10,11,Buccaneers,09/29/2019,LAR,Win, 55-40,2,5,rush,Ronald Jones II,2019
+11,12,Buccaneers,09/29/2019,LAR,Win, 55-40,4,13,pass,Cameron Brate,2019
+12,13,Buccaneers,09/29/2019,LAR,Win, 55-40,4,67,pass,Mike Evans,2019
+13,14,Buccaneers,09/29/2019,LAR,Win, 55-40,4,37,fumble,Ndamukong Suh,2019
+14,15,Buccaneers,10/06/2019,NOR,Loss, 24-31,1,26,pass,Chris Godwin,2019
+15,16,Buccaneers,10/06/2019,NOR,Loss, 24-31,3,2,rush,Peyton Barber,2019
+16,17,Buccaneers,10/06/2019,NOR,Loss, 24-31,4,26,pass,Chris Godwin,2019
+17,18,Buccaneers,10/13/2019,CAR,Loss, 26-37,2,5,rush,Ronald Jones II,2019
+18,19,Buccaneers,10/13/2019,CAR,Loss, 26-37,4,10,pass,Cameron Brate,2019
+19,20,Buccaneers,10/13/2019,CAR,Loss, 26-37,4,3,rush,Dare Ogunbowale,2019
+20,21,Buccaneers,10/27/2019,TEN,Loss, 23-27,2,9,pass,Mike Evans,2019
+21,22,Buccaneers,10/27/2019,TEN,Loss, 23-27,3,2,pass,Mike Evans,2019
+22,23,Buccaneers,11/03/2019,SEA,Loss, 34-40,1,8,rush,Ronald Jones II,2019
+23,24,Buccaneers,11/03/2019,SEA,Loss, 34-40,1,15,pass,Breshad Perriman,2019
+24,25,Buccaneers,11/03/2019,SEA,Loss, 34-40,2,5,pass,Mike Evans,2019
+25,26,Buccaneers,11/03/2019,SEA,Loss, 34-40,4,1,rush,Dare Ogunbowale,2019
+26,27,Buccaneers,11/10/2019,ARI,Win, 30-27,1,7,rush,Ronald Jones II,2019
+27,28,Buccaneers,11/10/2019,ARI,Win, 30-27,2,10,pass,O.J. Howard,2019
+28,29,Buccaneers,11/10/2019,ARI,Win, 30-27,4,1,rush,Peyton Barber,2019
+29,30,Buccaneers,11/17/2019,NOR,Loss, 17-34,2,6,pass,Peyton Barber,2019
+30,31,Buccaneers,11/17/2019,NOR,Loss, 17-34,3,30,pass,Chris Godwin,2019
+31,32,Buccaneers,11/24/2019,ATL,Win, 35-22,1,71,pass,Chris Godwin,2019
+32,33,Buccaneers,11/24/2019,ATL,Win, 35-22,2,1,pass,Chris Godwin,2019
+33,34,Buccaneers,11/24/2019,ATL,Win, 35-22,2,1,pass,Vita Vea,2019
+34,35,Buccaneers,11/24/2019,ATL,Win, 35-22,3,4,rush,Ronald Jones II,2019
+35,36,Buccaneers,11/24/2019,ATL,Win, 35-22,4,6,fumble,Ndamukong Suh,2019
+36,37,Buccaneers,12/01/2019,JAX,Win, 28-11,1,15,rush,Peyton Barber,2019
+37,38,Buccaneers,12/01/2019,JAX,Win, 28-11,1,14,fumble,Devin White,2019
+38,39,Buccaneers,12/01/2019,JAX,Win, 28-11,2,1,rush,Peyton Barber,2019
+39,40,Buccaneers,12/08/2019,IND,Win, 38-35,1,1,rush,Jameis Winston,2019
+40,41,Buccaneers,12/08/2019,IND,Win, 38-35,1,61,pass,Mike Evans,2019
+41,42,Buccaneers,12/08/2019,IND,Win, 38-35,2,3,pass,Cameron Brate,2019
+42,43,Buccaneers,12/08/2019,IND,Win, 38-35,3,17,pass,Justin Watson,2019
+43,44,Buccaneers,12/08/2019,IND,Win, 38-35,4,12,pass,Breshad Perriman,2019
+44,45,Buccaneers,12/15/2019,DET,Win, 38-17,1,34,pass,Breshad Perriman,2019
+45,46,Buccaneers,12/15/2019,DET,Win, 38-17,1,33,pass,Scott Miller,2019
+46,47,Buccaneers,12/15/2019,DET,Win, 38-17,2,25,pass,Breshad Perriman,2019
+47,48,Buccaneers,12/15/2019,DET,Win, 38-17,4,70,interception,Sean Murphy-Bunting,2019
+48,49,Buccaneers,12/15/2019,DET,Win, 38-17,4,25,pass,Breshad Perriman,2019
+49,50,Buccaneers,12/21/2019,HOU,Loss, 20-23,2,4,rush,Ronald Jones II,2019
+50,51,Buccaneers,12/21/2019,HOU,Loss, 20-23,2,8,pass,Justin Watson,2019
+51,52,Buccaneers,12/29/2019,ATL,Loss, 22-28,2,2,pass,Cameron Brate,2019
+52,53,Buccaneers,12/29/2019,ATL,Loss, 22-28,2,91,fumble,Devin White,2019
+53,54,Buccaneers,12/29/2019,ATL,Loss, 22-28,2,24,pass,Breshad Perriman,2019

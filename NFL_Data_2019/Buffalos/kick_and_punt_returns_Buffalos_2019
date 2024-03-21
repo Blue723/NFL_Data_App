@@ -1,6 +1,6 @@
-,No.,Team,Player,Age,Position,Games Played,Games Started,Punts Returned,Punts Return Yardage,Punts Returned for Touchdown,Longest Punt Return,Yards per Punt Return,Kickoff Returns,Yardage for Kickoffs Returned,Kickoffs Returned for a Touchdown,Longest Kickoff Return,Yards per Kickoff Return,All-purpose Yards
-18,18,Buffalos,Andre Roberts,31,WR,13,0,28,223,0,22,8.0,25,664,0,66,26.6,914
-23,23,Buffalos,Micah Hyde,29,FS,16,16,3,16,0,10,5.3,2,47,1,45,23.5,63
-19,19,Buffalos,Isaiah McKenzie,24,WR,15,8,1,4,0,4,4.0,3,65,0,24,21.7,372
-42,42,Buffalos,Patrick DiMarco,30,FB,16,4,n/a,n/a,0,n/a,n/a,1,24,0,24,24.0,72
-32,32,Buffalos,Senorise Perry,28,RB,11,0,n/a,n/a,0,n/a,n/a,1,2,0,2,2.0,6
+,No.,Team,Player,Age,Position,Games Played,Games Started,Punts Returned,Punts Return Yardage,Punts Returned for Touchdown,Longest Punt Return,Yards per Punt Return,Kickoff Returns,Yardage for Kickoffs Returned,Kickoffs Returned for a Touchdown,Longest Kickoff Return,Yards per Kickoff Return,All-purpose Yards,Year
+0,18,Buffalos,Andre Roberts,31,WR,13,0,28,223,0,22,8.0,25,664,0,66,26.6,914,2019
+1,23,Buffalos,Micah Hyde,29,FS,16,16,3,16,0,10,5.3,2,47,1,45,23.5,63,2019
+2,19,Buffalos,Isaiah McKenzie,24,WR,15,8,1,4,0,4,4.0,3,65,0,24,21.7,372,2019
+3,42,Buffalos,Patrick DiMarco,30,FB,16,4,0,0,0,0,,1,24,0,24,24.0,72,2019
+4,32,Buffalos,Senorise Perry,28,RB,11,0,0,0,0,0,,1,2,0,2,2.0,6,2019

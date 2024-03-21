@@ -1,17 +1,17 @@
-,No.,Team,Player,Age,Pos,Games Played,Games Started,Rush TD,Reception TD,Punt Return TD,Kick Return TD,Fumble Return TD,Interception TD,Other TD,All Touchdown Scored,2-Point Conversions Made,Two-Point Conversions Attempted,Defensive Two-Point Conversions,Extra Points Made,Extra Points Allowed,Field Goals Made,Field Goals Attempted,Safeties Scored by Player/Team,Total Points Scored by all Means,Poins per Game
-9,9,Ravens,Justin Tucker,30,K,16,0,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,57,59,28,29,n/a,141,8.8
-21,21,Ravens,Mark Ingram,30,RB,15,15,10,5,n/a,n/a,n/a,n/a,n/a,15,2,n/a,n/a,n/a,n/a,n/a,n/a,n/a,94,6.3
-89,89,Ravens,Mark Andrews,24,TE,15,4,n/a,10,n/a,n/a,n/a,n/a,n/a,10,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,60,4.0
-15,15,Ravens,Marquise Brown,22,WR,14,11,n/a,7,n/a,n/a,n/a,n/a,n/a,7,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,42,3.0
-8,8,Ravens,Lamar Jackson,22,QB,15,15,7,n/a,n/a,n/a,n/a,n/a,n/a,7,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,42,2.8
-83,83,Ravens,Willie Snead,27,WR,16,11,n/a,5,n/a,n/a,n/a,n/a,n/a,5,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,30,1.9
-80,80,Ravens,Miles Boykin,23,WR,16,11,n/a,3,n/a,n/a,n/a,n/a,n/a,3,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,18,1.1
-86,86,Ravens,Nick Boyle,26,TE,16,15,n/a,2,n/a,n/a,n/a,n/a,n/a,2,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,12,0.8
-35,35,Ravens,Gus Edwards,24,RB,16,1,2,n/a,n/a,n/a,n/a,n/a,n/a,2,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,12,0.8
-43,43,Ravens,Justice Hill,22,RB,16,0,2,n/a,n/a,n/a,n/a,n/a,n/a,2,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,12,0.8
-44,44,Ravens,Marlon Humphrey,23,LCB,16,15,n/a,n/a,n/a,n/a,2,n/a,n/a,2,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,12,0.8
-81,81,Ravens,Hayden Hurst,26,TE,16,4,n/a,2,n/a,n/a,n/a,n/a,n/a,2,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,12,0.8
-24,24,Ravens,Marcus Peters,26,DB,10,9,n/a,n/a,n/a,n/a,n/a,2,n/a,2,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,12,1.2
-54,54,Ravens,Tyus Bowser,24,LB,16,0,n/a,n/a,n/a,n/a,1,n/a,n/a,1,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,6,0.4
-42,42,Ravens,Patrick Ricard,25,FB,16,7,n/a,1,n/a,n/a,n/a,n/a,n/a,1,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,6,0.4
-28,28,Ravens,Jordan Richards,26,DB,9,0,n/a,n/a,n/a,n/a,1,n/a,n/a,1,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,6,0.7
+,No.,Team,Player,Age,Pos,Games Played,Games Started,Rush TD,Reception TD,Punt Return TD,Kick Return TD,Fumble Return TD,Interception TD,Other TD,All Touchdown Scored,2-Point Conversions Made,Two-Point Conversions Attempted,Defensive Two-Point Conversions,Extra Points Made,Extra Points Allowed,Field Goals Made,Field Goals Attempted,Safeties Scored by Player/Team,Total Points Scored by all Means,Poins per Game,Year
+0,9,Ravens,Justin Tucker,30,K,16,0,0,0,0,0,0,0,0,0,0,0,0,57,59,28,29,,141,8.8,2019
+1,21,Ravens,Mark Ingram,30,RB,15,15,10,5,0,0,0,0,0,15,2,0,0,0,0,0,0,,94,6.3,2019
+2,89,Ravens,Mark Andrews,24,TE,15,4,0,10,0,0,0,0,0,10,0,0,0,0,0,0,0,,60,4.0,2019
+3,15,Ravens,Marquise Brown,22,WR,14,11,0,7,0,0,0,0,0,7,0,0,0,0,0,0,0,,42,3.0,2019
+4,8,Ravens,Lamar Jackson,22,QB,15,15,7,0,0,0,0,0,0,7,0,0,0,0,0,0,0,,42,2.8,2019
+5,83,Ravens,Willie Snead,27,WR,16,11,0,5,0,0,0,0,0,5,0,0,0,0,0,0,0,,30,1.9,2019
+6,80,Ravens,Miles Boykin,23,WR,16,11,0,3,0,0,0,0,0,3,0,0,0,0,0,0,0,,18,1.1,2019
+7,86,Ravens,Nick Boyle,26,TE,16,15,0,2,0,0,0,0,0,2,0,0,0,0,0,0,0,,12,0.8,2019
+8,35,Ravens,Gus Edwards,24,RB,16,1,2,0,0,0,0,0,0,2,0,0,0,0,0,0,0,,12,0.8,2019
+9,43,Ravens,Justice Hill,22,RB,16,0,2,0,0,0,0,0,0,2,0,0,0,0,0,0,0,,12,0.8,2019
+10,44,Ravens,Marlon Humphrey,23,LCB,16,15,0,0,0,0,2,0,0,2,0,0,0,0,0,0,0,,12,0.8,2019
+11,81,Ravens,Hayden Hurst,26,TE,16,4,0,2,0,0,0,0,0,2,0,0,0,0,0,0,0,,12,0.8,2019
+12,24,Ravens,Marcus Peters,26,DB,10,9,0,0,0,0,0,2,0,2,0,0,0,0,0,0,0,,12,1.2,2019
+13,54,Ravens,Tyus Bowser,24,LB,16,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,,6,0.4,2019
+14,42,Ravens,Patrick Ricard,25,FB,16,7,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,,6,0.4,2019
+15,28,Ravens,Jordan Richards,26,DB,9,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,,6,0.7,2019

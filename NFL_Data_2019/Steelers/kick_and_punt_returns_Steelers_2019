@@ -1,8 +1,8 @@
-,No.,Team,Player,Age,Position,Games Played,Games Started,Punts Returned,Punts Return Yardage,Punts Returned for Touchdown,Longest Punt Return,Yards per Punt Return,Kickoff Returns,Yardage for Kickoffs Returned,Kickoffs Returned for a Touchdown,Longest Kickoff Return,Yards per Kickoff Return,All-purpose Yards
-18,18,Steelers,Diontae Johnson,23,WR,16,12,20,248,1,85,12.4,n/a,n/a,0,n/a,n/a,969
-10,10,Steelers,Ryan Switzer,25,WR,9,0,8,29,0,13,3.6,9,166,0,26,18.4,222
-40,40,Steelers,Kerrith Whyte Jr,23,RB,6,0,n/a,n/a,0,n/a,n/a,14,264,0,34,18.9,395
-80,80,Steelers,Johnny Holton,29,WR,16,3,n/a,n/a,0,n/a,n/a,3,55,0,21,18.3,85
-40,40,Steelers,Tony Brooks-James,25,RB,3,0,n/a,n/a,0,n/a,n/a,2,32,0,16,16.0,39
-24,24,Steelers,Benny Snell Jr.,21,RB,13,2,n/a,n/a,0,n/a,n/a,1,8,0,8,8.0,457
-20,20,Steelers,Cameron Sutton,24,DB,16,0,1,8,0,8,8.0,n/a,n/a,0,n/a,n/a,34
+,No.,Team,Player,Age,Position,Games Played,Games Started,Punts Returned,Punts Return Yardage,Punts Returned for Touchdown,Longest Punt Return,Yards per Punt Return,Kickoff Returns,Yardage for Kickoffs Returned,Kickoffs Returned for a Touchdown,Longest Kickoff Return,Yards per Kickoff Return,All-purpose Yards,Year
+0,18,Steelers,Diontae Johnson,23,WR,16,12,20,248,1,85,12.4,0,0,0,0,,969,2019
+1,10,Steelers,Ryan Switzer,25,WR,9,0,8,29,0,13,3.6,9,166,0,26,18.4,222,2019
+2,40,Steelers,Kerrith Whyte Jr,23,RB,6,0,0,0,0,0,,14,264,0,34,18.9,395,2019
+3,80,Steelers,Johnny Holton,29,WR,16,3,0,0,0,0,,3,55,0,21,18.3,85,2019
+4,40,Steelers,Tony Brooks-James,25,RB,3,0,0,0,0,0,,2,32,0,16,16.0,39,2019
+5,24,Steelers,Benny Snell Jr.,21,RB,13,2,0,0,0,0,,1,8,0,8,8.0,457,2019
+6,20,Steelers,Cameron Sutton,24,DB,16,0,1,8,0,8,8.0,0,0,0,0,,34,2019

@@ -1,6 +1,6 @@
-,No.,Team,Player,Age,Position,Games Played,Games Started,Punts Returned,Punts Return Yardage,Punts Returned for Touchdown,Longest Punt Return,Yards per Punt Return,Kickoff Returns,Yardage for Kickoffs Returned,Kickoffs Returned for a Touchdown,Longest Kickoff Return,Yards per Kickoff Return,All-purpose Yards
-38,38,Falcons,Kenjon Barner,30,RB,14,0,35,267,1,78,7.6,17,406,0,47,23.9,723
-20,20,Falcons,Kendall Sheffield,23,DB,16,11,n/a,n/a,0,n/a,n/a,6,106,0,29,17.7,106
-25,25,Falcons,Ito Smith,24,RB,7,0,n/a,n/a,0,n/a,n/a,2,59,0,33,29.5,252
-83,83,Falcons,Russell Gage,23,WR,16,4,1,-6,0,-6,-6.0,n/a,n/a,0,n/a,n/a,452
-12,12,Falcons,Mohamed Sanu,30,WR,7,6,1,2,0,2,2.0,n/a,n/a,0,n/a,n/a,318
+,No.,Team,Player,Age,Position,Games Played,Games Started,Punts Returned,Punts Return Yardage,Punts Returned for Touchdown,Longest Punt Return,Yards per Punt Return,Kickoff Returns,Yardage for Kickoffs Returned,Kickoffs Returned for a Touchdown,Longest Kickoff Return,Yards per Kickoff Return,All-purpose Yards,Year
+0,38,Falcons,Kenjon Barner,30,RB,14,0,35,267,1,78,7.6,17,406,0,47,23.9,723,2019
+1,20,Falcons,Kendall Sheffield,23,DB,16,11,0,0,0,0,,6,106,0,29,17.7,106,2019
+2,25,Falcons,Ito Smith,24,RB,7,0,0,0,0,0,,2,59,0,33,29.5,252,2019
+3,83,Falcons,Russell Gage,23,WR,16,4,1,-6,0,-6,-6.0,0,0,0,0,,452,2019
+4,12,Falcons,Mohamed Sanu,30,WR,7,6,1,2,0,2,2.0,0,0,0,0,,318,2019

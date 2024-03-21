@@ -1,5 +1,5 @@
-,Player,Team,3rd Down Attempts in Game,3rd Down Conversions,3rd Down Conversion %,4th Down Attempts in Game,4th Down Conversions in Game,4th Down Conversion %,Red Zone Attempts,Touchdowns Scored After the Team Entered the Red Zone,% of the Time a Team Reaches the Red Zone and Scores a Touchdown
-Team Stats,Team Stats,Steelers,195,67,34.4%,15,2,13.3%,40,14,35.0%
-Opp. Stats,Opp. Stats,Steelers,209,76,36.4%,21,10,47.6%,46,23,50.0%
-Lg Rank Offense,Lg Rank Offense,Steelers,n/a,n/a,27,n/a,n/a,32,n/a,n/a,32
-Lg Rank Defense,Lg Rank Defense,Steelers,n/a,n/a,9,n/a,n/a,17,n/a,n/a,6
+,Player,Team,3rd Down Attempts in Game,3rd Down Conversions,3rd Down Conversion Per.,4th Down Attempts in Game,4th Down Conversions in Game,4th Down Conversion Per.,Red Zone Attempts,Touchdowns Scored After the Team Entered the Red Zone,Per. of the Time a Team Reaches the Red Zone and Scores a Touchdown,Year
+0,Team Stats,Steelers,195.0,67.0,34.4,15.0,2.0,13.3,40.0,14.0,35.0,2019.0
+1,Opp. Stats,Steelers,209.0,76.0,36.4,21.0,10.0,47.6,46.0,23.0,50.0,2019.0
+2,Lg Rank Offense,Steelers,,,27.0,,,32.0,,,32.0,2019.0
+3,Lg Rank Defense,Steelers,,,9.0,,,17.0,,,6.0,2019.0

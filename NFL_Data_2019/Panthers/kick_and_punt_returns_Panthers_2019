@@ -1,9 +1,9 @@
-,No.,Team,Player,Age,Position,Games Played,Games Started,Punts Returned,Punts Return Yardage,Punts Returned for Touchdown,Longest Punt Return,Yards per Punt Return,Kickoff Returns,Yardage for Kickoffs Returned,Kickoffs Returned for a Touchdown,Longest Kickoff Return,Yards per Kickoff Return,All-purpose Yards
-14,14,Panthers,Ray-Ray McCloud,23,WR,6,0,10,82,0,39,8.2,8,174,0,31,21.8,256
-18,18,Panthers,DeAndrew White,28,WR,10,0,n/a,n/a,0,n/a,n/a,10,226,0,36,22.6,277
-14,14,Panthers,Greg Dortch,21,WR,2,0,4,28,0,11,7.0,5,119,0,32,23.8,147
-39,39,Panthers,Reggie Bonnafon,23,RB,16,0,n/a,n/a,0,n/a,n/a,6,111,0,35,18.5,284
-15,15,Panthers,Chris Hogan,32,WR,7,1,4,20,0,8,5.0,1,21,0,21,21.0,108
-12,12,Panthers,D.J. Moore,22,WR,15,15,5,41,0,16,8.2,n/a,n/a,0,n/a,n/a,1256
-11,11,Panthers,Brandon Zylstra,26,WR,8,0,1,0,0,0,0.0,1,26,0,26,26.0,132
-28,28,Panthers,Rashaan Gaulden,24,DB,9,0,1,0,0,0,0.0,n/a,n/a,0,n/a,n/a,0
+,No.,Team,Player,Age,Position,Games Played,Games Started,Punts Returned,Punts Return Yardage,Punts Returned for Touchdown,Longest Punt Return,Yards per Punt Return,Kickoff Returns,Yardage for Kickoffs Returned,Kickoffs Returned for a Touchdown,Longest Kickoff Return,Yards per Kickoff Return,All-purpose Yards,Year
+0,14,Panthers,Ray-Ray McCloud,23,WR,6,0,10,82,0,39,8.2,8,174,0,31,21.8,256,2019
+1,18,Panthers,DeAndrew White,28,WR,10,0,0,0,0,0,,10,226,0,36,22.6,277,2019
+2,14,Panthers,Greg Dortch,21,WR,2,0,4,28,0,11,7.0,5,119,0,32,23.8,147,2019
+3,39,Panthers,Reggie Bonnafon,23,RB,16,0,0,0,0,0,,6,111,0,35,18.5,284,2019
+4,15,Panthers,Chris Hogan,32,WR,7,1,4,20,0,8,5.0,1,21,0,21,21.0,108,2019
+5,12,Panthers,D.J. Moore,22,WR,15,15,5,41,0,16,8.2,0,0,0,0,,1256,2019
+6,11,Panthers,Brandon Zylstra,26,WR,8,0,1,0,0,0,0.0,1,26,0,26,26.0,132,2019
+7,28,Panthers,Rashaan Gaulden,24,DB,9,0,1,0,0,0,0.0,0,0,0,0,,0,2019

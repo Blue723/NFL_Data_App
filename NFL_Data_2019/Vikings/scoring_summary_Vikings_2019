@@ -1,17 +1,17 @@
-,No.,Team,Player,Age,Pos,Games Played,Games Started,Rush TD,Reception TD,Punt Return TD,Kick Return TD,Fumble Return TD,Interception TD,Other TD,All Touchdown Scored,2-Point Conversions Made,Two-Point Conversions Attempted,Defensive Two-Point Conversions,Extra Points Made,Extra Points Allowed,Field Goals Made,Field Goals Attempted,Safeties Scored by Player/Team,Total Points Scored by all Means,Poins per Game
-5,5,Vikings,Dan Bailey,31,K,16,0,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,40,44,27,29,n/a,121,7.6
-33,33,Vikings,Dalvin Cook,24,RB,14,14,13,n/a,n/a,n/a,n/a,n/a,n/a,13,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,78,5.6
-19,19,Vikings,Adam Thielen,29,WR,10,10,1,6,n/a,n/a,n/a,n/a,n/a,7,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,42,4.2
-82,82,Vikings,Kyle Rudolph,30,TE,16,16,n/a,6,n/a,n/a,n/a,n/a,n/a,6,1,n/a,n/a,n/a,n/a,n/a,n/a,n/a,38,2.4
-14,14,Vikings,Stefon Diggs,26,WR,15,15,n/a,6,n/a,n/a,n/a,n/a,n/a,6,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,36,2.4
-23,23,Vikings,Mike Boone,24,RB,16,2,3,n/a,n/a,n/a,n/a,n/a,n/a,3,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,18,1.1
-81,81,Vikings,Olabisi Johnson,22,WR,16,6,n/a,3,n/a,n/a,n/a,n/a,n/a,3,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,18,1.1
-84,84,Vikings,Irv Smith Jr.,21,TE,16,7,n/a,2,n/a,n/a,n/a,n/a,n/a,2,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,12,0.8
-31,31,Vikings,Ameer Abdullah,26,RB,16,0,n/a,1,n/a,n/a,n/a,n/a,n/a,1,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,6,0.4
-8,8,Vikings,Kirk Cousins,31,QB,15,15,1,n/a,n/a,n/a,n/a,n/a,n/a,1,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,6,0.4
-30,30,Vikings,C.J. Ham,26,FB,16,7,n/a,1,n/a,n/a,n/a,n/a,n/a,1,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,6,0.4
-41,41,Vikings,Anthony Harris,28,FS,14,14,n/a,n/a,n/a,n/a,n/a,1,n/a,1,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,6,0.4
-25,25,Vikings,Alexander Mattison,21,RB,13,0,1,n/a,n/a,n/a,n/a,n/a,n/a,1,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,6,0.5
-95,95,Vikings,Ifeadi Odenigbo,25,DE,16,0,n/a,n/a,n/a,n/a,1,n/a,n/a,1,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,6,0.4
-11,11,Vikings,Laquon Treadwell,24,WR,13,1,n/a,1,n/a,n/a,n/a,n/a,n/a,1,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,6,0.5
-55,55,Vikings,Anthony Barr,27,RLB,14,14,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,1,2,0.1
+,No.,Team,Player,Age,Pos,Games Played,Games Started,Rush TD,Reception TD,Punt Return TD,Kick Return TD,Fumble Return TD,Interception TD,Other TD,All Touchdown Scored,2-Point Conversions Made,Two-Point Conversions Attempted,Defensive Two-Point Conversions,Extra Points Made,Extra Points Allowed,Field Goals Made,Field Goals Attempted,Safeties Scored by Player/Team,Total Points Scored by all Means,Poins per Game,Year
+0,5,Vikings,Dan Bailey,31,K,16,0,0,0,0,0,0,0,0,0,0,0,0,40,44,27,29,,121,7.6,2019
+1,33,Vikings,Dalvin Cook,24,RB,14,14,13,0,0,0,0,0,0,13,0,0,0,0,0,0,0,,78,5.6,2019
+2,19,Vikings,Adam Thielen,29,WR,10,10,1,6,0,0,0,0,0,7,0,0,0,0,0,0,0,,42,4.2,2019
+3,82,Vikings,Kyle Rudolph,30,TE,16,16,0,6,0,0,0,0,0,6,1,0,0,0,0,0,0,,38,2.4,2019
+4,14,Vikings,Stefon Diggs,26,WR,15,15,0,6,0,0,0,0,0,6,0,0,0,0,0,0,0,,36,2.4,2019
+5,23,Vikings,Mike Boone,24,RB,16,2,3,0,0,0,0,0,0,3,0,0,0,0,0,0,0,,18,1.1,2019
+6,81,Vikings,Olabisi Johnson,22,WR,16,6,0,3,0,0,0,0,0,3,0,0,0,0,0,0,0,,18,1.1,2019
+7,84,Vikings,Irv Smith Jr.,21,TE,16,7,0,2,0,0,0,0,0,2,0,0,0,0,0,0,0,,12,0.8,2019
+8,31,Vikings,Ameer Abdullah,26,RB,16,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,,6,0.4,2019
+9,8,Vikings,Kirk Cousins,31,QB,15,15,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,,6,0.4,2019
+10,30,Vikings,C.J. Ham,26,FB,16,7,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,,6,0.4,2019
+11,41,Vikings,Anthony Harris,28,FS,14,14,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,,6,0.4,2019
+12,25,Vikings,Alexander Mattison,21,RB,13,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,,6,0.5,2019
+13,95,Vikings,Ifeadi Odenigbo,25,DE,16,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,,6,0.4,2019
+14,11,Vikings,Laquon Treadwell,24,WR,13,1,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,,6,0.5,2019
+15,55,Vikings,Anthony Barr,27,RLB,14,14,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1.0,2,0.1,2019

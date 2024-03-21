@@ -1,5 +1,5 @@
-,No.,Team,Player,Age,Position,Games Played,Games Started,Punts Returned,Punts Return Yardage,Punts Returned for Touchdown,Longest Punt Return,Yards per Punt Return,Kickoff Returns,Yardage for Kickoffs Returned,Kickoffs Returned for a Touchdown,Longest Kickoff Return,Yards per Kickoff Return,All-purpose Yards
-10,10,Jets,Braxton Berrios,24,WR,16,0,21,240,0,26,11.4,4,48,0,25,12.0,403
-88,88,Jets,Ty Montgomery,26,WR,16,2,n/a,n/a,0,n/a,n/a,18,364,0,34,20.2,557
-17,17,Jets,Vyncint Smith,23,WR,13,4,n/a,n/a,0,n/a,n/a,10,299,0,78,29.9,574
-25,25,Jets,Trenton Cannon,25,RB,4,0,n/a,n/a,0,n/a,n/a,5,96,0,28,19.2,97
+,No.,Team,Player,Age,Position,Games Played,Games Started,Punts Returned,Punts Return Yardage,Punts Returned for Touchdown,Longest Punt Return,Yards per Punt Return,Kickoff Returns,Yardage for Kickoffs Returned,Kickoffs Returned for a Touchdown,Longest Kickoff Return,Yards per Kickoff Return,All-purpose Yards,Year
+0,10,Jets,Braxton Berrios,24,WR,16,0,21,240,0,26,11.4,4,48,0,25,12.0,403,2019
+1,88,Jets,Ty Montgomery,26,WR,16,2,0,0,0,0,,18,364,0,34,20.2,557,2019
+2,17,Jets,Vyncint Smith,23,WR,13,4,0,0,0,0,,10,299,0,78,29.9,574,2019
+3,25,Jets,Trenton Cannon,25,RB,4,0,0,0,0,0,,5,96,0,28,19.2,97,2019

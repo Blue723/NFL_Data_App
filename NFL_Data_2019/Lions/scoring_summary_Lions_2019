@@ -1,16 +1,16 @@
-,No.,Team,Player,Age,Pos,Games Played,Games Started,Rush TD,Reception TD,Punt Return TD,Kick Return TD,Fumble Return TD,Interception TD,Other TD,All Touchdown Scored,2-Point Conversions Made,Two-Point Conversions Attempted,Defensive Two-Point Conversions,Extra Points Made,Extra Points Allowed,Field Goals Made,Field Goals Attempted,Safeties Scored by Player/Team,Total Points Scored by all Means,Poins per Game
-5,5,Lions,Matt Prater,35,K,16,0,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,35,36,26,31,n/a,113,7.1
-19,19,Lions,Kenny Golladay,26,WR,16,16,n/a,11,n/a,n/a,n/a,n/a,n/a,11,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,66,4.1
-11,11,Lions,Marvin Jones,29,WR,13,11,n/a,9,n/a,n/a,n/a,n/a,n/a,9,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,54,4.2
-33,33,Lions,Kerryon Johnson,22,RB,8,7,3,1,n/a,n/a,n/a,n/a,n/a,4,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,24,3.0
-39,39,Lions,Jamal Agnew,24,DB,13,0,n/a,n/a,1,1,n/a,n/a,n/a,2,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,12,0.9
-36,36,Lions,Wes Hills,24,RB,1,1,2,n/a,n/a,n/a,n/a,n/a,n/a,2,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,12,12.0
-88,88,Lions,T.J. Hockenson,22,TE,12,7,n/a,2,n/a,n/a,n/a,n/a,n/a,2,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,12,1.0
-80,80,Lions,Danny Amendola,34,WR,15,10,n/a,1,n/a,n/a,n/a,n/a,n/a,1,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,6,0.4
-10,10,Lions,David Blough,24,QB,5,5,n/a,1,n/a,n/a,n/a,n/a,n/a,1,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,6,1.2
-2,2,Lions,Jeff Driskel,26,QB,3,3,1,n/a,n/a,n/a,n/a,n/a,n/a,1,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,6,2.0
-17,17,Lions,Marvin Hall,26,WR,9,0,n/a,1,n/a,n/a,n/a,n/a,n/a,1,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,6,0.7
-42,42,Lions,Devon Kennard,28,LLB,16,15,n/a,n/a,n/a,n/a,1,n/a,n/a,1,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,6,0.4
-41,41,Lions,J.D. McKissic,26,WR,16,3,n/a,1,n/a,n/a,n/a,n/a,n/a,1,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,6,0.4
-43,43,Lions,Bo Scarbrough,25,RB,6,5,1,n/a,n/a,n/a,n/a,n/a,n/a,1,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,6,1.0
-82,82,Lions,Logan Thomas,28,TE,16,3,n/a,1,n/a,n/a,n/a,n/a,n/a,1,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,6,0.4
+,No.,Team,Player,Age,Pos,Games Played,Games Started,Rush TD,Reception TD,Punt Return TD,Kick Return TD,Fumble Return TD,Interception TD,Other TD,All Touchdown Scored,2-Point Conversions Made,Two-Point Conversions Attempted,Defensive Two-Point Conversions,Extra Points Made,Extra Points Allowed,Field Goals Made,Field Goals Attempted,Safeties Scored by Player/Team,Total Points Scored by all Means,Poins per Game,Year
+0,5,Lions,Matt Prater,35,K,16,0,0,0,0,0,0,0,0,0,0,0,0,35,36,26,31,,113,7.1,2019
+1,19,Lions,Kenny Golladay,26,WR,16,16,0,11,0,0,0,0,0,11,0,0,0,0,0,0,0,,66,4.1,2019
+2,11,Lions,Marvin Jones,29,WR,13,11,0,9,0,0,0,0,0,9,0,0,0,0,0,0,0,,54,4.2,2019
+3,33,Lions,Kerryon Johnson,22,RB,8,7,3,1,0,0,0,0,0,4,0,0,0,0,0,0,0,,24,3.0,2019
+4,39,Lions,Jamal Agnew,24,DB,13,0,0,0,1,1,0,0,0,2,0,0,0,0,0,0,0,,12,0.9,2019
+5,36,Lions,Wes Hills,24,RB,1,1,2,0,0,0,0,0,0,2,0,0,0,0,0,0,0,,12,12.0,2019
+6,88,Lions,T.J. Hockenson,22,TE,12,7,0,2,0,0,0,0,0,2,0,0,0,0,0,0,0,,12,1.0,2019
+7,80,Lions,Danny Amendola,34,WR,15,10,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,,6,0.4,2019
+8,10,Lions,David Blough,24,QB,5,5,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,,6,1.2,2019
+9,2,Lions,Jeff Driskel,26,QB,3,3,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,,6,2.0,2019
+10,17,Lions,Marvin Hall,26,WR,9,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,,6,0.7,2019
+11,42,Lions,Devon Kennard,28,LLB,16,15,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,,6,0.4,2019
+12,41,Lions,J.D. McKissic,26,WR,16,3,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,,6,0.4,2019
+13,43,Lions,Bo Scarbrough,25,RB,6,5,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,,6,1.0,2019
+14,82,Lions,Logan Thomas,28,TE,16,3,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,,6,0.4,2019

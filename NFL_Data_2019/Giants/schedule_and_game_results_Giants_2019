@@ -1,18 +1,18 @@
-,Week,Team,Day,Date,Time,Win/Loss,Overtime,Team Record,Home/Away,Opponent,Points Scored,Points Allowed,Offense 1st Down,Total Yards Gained of Offense,Total yards Gained by Passing,Total Yards Gained by Rushing,Offense Turnovers,Defense 1st Down,Total Yards Allowed by Defense,Total Passing Yards Allowed by Defense,Total Rushing Yards Allowed by Defense,Defense Turnovers,Offense,Defense,Sp. Tms
-1,1,Giants,Sun,September 8,4:25PM ET,L,n/a,0-1,away,Dallas Cowboys,17,35,25,470,319,151,2,23,494,405,89,n/a,10.91,-26.91,-0.11
-2,2,Giants,Sun,September 15,1:00PM ET,L,n/a,0-2,home,Buffalo Bills,14,28,21,370,241,129,2,24,388,237,151,n/a,-2.11,-6.57,-3.56
-3,3,Giants,Sun,September 22,4:05PM ET,W,n/a,1-2,away,Tampa Bay Buccaneers,32,31,17,384,312,72,2,24,499,355,144,1,8.02,-14.58,6.08
-4,4,Giants,Sun,September 29,1:00PM ET,W,n/a,2-2,home,Washington Redskins,24,3,24,389,225,164,4,8,176,121,55,4,0.43,25.74,-4.64
-5,5,Giants,Sun,October 6,1:00PM ET,L,n/a,2-3,home,Minnesota Vikings,10,28,18,211,147,64,1,22,490,279,211,1,-8.73,-16.93,0.40
-6,6,Giants,Thu,October 10,8:20PM ET,L,n/a,2-4,away,New England Patriots,14,35,10,213,161,52,4,27,427,313,114,2,-24.29,0.69,-1.10
-7,7,Giants,Sun,October 20,1:00PM ET,L,n/a,2-5,home,Arizona Cardinals,21,27,21,263,156,107,3,18,245,89,156,n/a,-8.02,-3.73,2.98
-8,8,Giants,Sun,October 27,1:00PM ET,L,n/a,2-6,away,Detroit Lions,26,31,24,370,290,80,1,17,375,316,59,2,6.34,-7.67,-5.39
-9,9,Giants,Mon,November 4,8:15PM ET,L,n/a,2-7,home,Dallas Cowboys,18,37,20,271,171,100,3,24,429,257,172,2,-12.66,-10.68,5.61
-10,10,Giants,Sun,November 10,1:00PM ET,L,n/a,2-8,away,New York Jets,27,34,15,281,258,23,2,18,294,218,76,n/a,-2.96,-6.97,0.39
-11,11,Giants,n/a,n/a,n/a,n/a,n/a,n/a,home,<strong>Bye Week</strong>,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
-12,12,Giants,Sun,November 24,1:00PM ET,L,n/a,2-9,away,Chicago Bears,14,19,14,243,134,109,1,20,335,270,65,2,-12.48,7.02,2.01
-13,13,Giants,Sun,December 1,1:00PM ET,L,n/a,2-10,home,Green Bay Packers,13,31,20,335,240,95,3,19,322,243,79,n/a,0.75,-15.72,-0.67
-14,14,Giants,Mon,December 9,8:15PM ET,L,OT,2-11,away,Philadelphia Eagles,17,23,11,255,182,73,n/a,27,418,300,118,1,-4.47,-3.00,0.47
-15,15,Giants,Sun,December 15,1:00PM ET,W,n/a,3-11,home,Miami Dolphins,36,20,24,412,274,138,3,22,384,262,122,1,13.11,-0.43,4.97
-16,16,Giants,Sun,December 22,1:00PM ET,W,OT,4-11,away,Washington Redskins,41,35,28,552,346,206,n/a,25,361,281,80,n/a,32.47,-18.07,-7.97
-17,17,Giants,Sun,December 29,4:25PM ET,L,n/a,4-12,home,Philadelphia Eagles,17,34,19,397,275,122,2,25,400,279,121,n/a,-6.61,-6.30,0.16
+,Week,Team,Day,Date,Time,Win/Loss,Overtime,Team Record,Home/Away,Opponent,Points Scored,Points Allowed,Offense 1st Down,Total Yards Gained of Offense,Total yards Gained by Passing,Total Yards Gained by Rushing,Offense Turnovers,Defense 1st Down,Total Yards Allowed by Defense,Total Passing Yards Allowed by Defense,Total Rushing Yards Allowed by Defense,Defense Turnovers,Offense,Defense,Sp. Tms,Year
+0,0,Giants,Sun,September 8,,L,0,0-1,away,Dallas Cowboys,17,35,25,470,319,151,2,23,494,405,89,0,10.91,-26.91,-0.11,2019
+1,1,Giants,Sun,September 15,,L,0,0-2,home,Buffalo Bills,14,28,21,370,241,129,2,24,388,237,151,0,-2.11,-6.57,-3.56,2019
+2,2,Giants,Sun,September 22,,W,0,1-2,away,Tampa Bay Buccaneers,32,31,17,384,312,72,2,24,499,355,144,1,8.02,-14.58,6.08,2019
+3,3,Giants,Sun,September 29,,W,0,2-2,home,Washington Redskins,24,3,24,389,225,164,4,8,176,121,55,4,0.43,25.74,-4.64,2019
+4,4,Giants,Sun,October 6,,L,0,2-3,home,Minnesota Vikings,10,28,18,211,147,64,1,22,490,279,211,1,-8.73,-16.93,0.4,2019
+5,5,Giants,Thu,October 10,,L,0,2-4,away,New England Patriots,14,35,10,213,161,52,4,27,427,313,114,2,-24.29,0.69,-1.1,2019
+6,6,Giants,Sun,October 20,,L,0,2-5,home,Arizona Cardinals,21,27,21,263,156,107,3,18,245,89,156,0,-8.02,-3.73,2.98,2019
+7,7,Giants,Sun,October 27,,L,0,2-6,away,Detroit Lions,26,31,24,370,290,80,1,17,375,316,59,2,6.34,-7.67,-5.39,2019
+8,8,Giants,Mon,November 4,,L,0,2-7,home,Dallas Cowboys,18,37,20,271,171,100,3,24,429,257,172,2,-12.66,-10.68,5.61,2019
+9,9,Giants,Sun,November 10,,L,0,2-8,away,New York Jets,27,34,15,281,258,23,2,18,294,218,76,0,-2.96,-6.97,0.39,2019
+10,10,Giants,,,,,0,,home,<strong>Bye Week</strong>,0,0,0,0,0,0,0,0,0,0,0,0,,,,2019
+11,11,Giants,Sun,November 24,,L,0,2-9,away,Chicago Bears,14,19,14,243,134,109,1,20,335,270,65,2,-12.48,7.02,2.01,2019
+12,12,Giants,Sun,December 1,,L,0,2-10,home,Green Bay Packers,13,31,20,335,240,95,3,19,322,243,79,0,0.75,-15.72,-0.67,2019
+13,13,1,1,1,1.0,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1.0,1.0,1.0,1
+14,14,Giants,Sun,December 15,,W,0,3-11,home,Miami Dolphins,36,20,24,412,274,138,3,22,384,262,122,1,13.11,-0.43,4.97,2019
+15,15,1,1,1,1.0,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1.0,1.0,1.0,1
+16,16,Giants,Sun,December 29,,L,0,4-12,home,Philadelphia Eagles,17,34,19,397,275,122,2,25,400,279,121,0,-6.61,-6.3,0.16,2019
