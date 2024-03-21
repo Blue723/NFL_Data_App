@@ -1,20 +1,20 @@
-,Week,Team,Day,Date,Time,Win/Loss,Overtime,Team Record,Home/Away,Opponent,Points Scored,Points Allowed,Offense 1st Down,Total Yards Gained of Offense,Total yards Gained by Passing,Total Yards Gained by Rushing,Offense Turnovers,Defense 1st Down,Total Yards Allowed by Defense,Total Passing Yards Allowed by Defense,Total Rushing Yards Allowed by Defense,Defense Turnovers,Offense,Defense,Sp. Tms
-1,1,Steelers,Sun,September 11,1:05PM ET,L,n/a,0-1,away,Baltimore Ravens,7,35,20,312,246,66,7,17,385,215,170,n/a,-21.78,-9.72,3.57
-2,2,Steelers,Sun,September 18,1:02PM ET,W,n/a,1-1,home,Seattle Seahawks,24,0,23,421,297,124,n/a,8,164,133,31,n/a,14.59,13.64,-6.35
-3,3,Steelers,Sun,September 25,8:30PM ET,W,n/a,2-1,away,Indianapolis Colts,23,20,19,408,341,67,3,14,241,144,97,1,-6.04,11.18,-2.33
-4,4,Steelers,Sun,October 2,1:03PM ET,L,n/a,2-2,away,Houston Texans,10,17,20,296,178,118,1,17,318,138,180,n/a,0.03,-7.74,1.56
-5,5,Steelers,Sun,October 9,1:02PM ET,W,n/a,3-2,home,Tennessee Titans,38,17,26,431,257,174,1,20,306,240,66,1,25.86,-2.52,-6.42
-6,6,Steelers,Sun,October 16,1:02PM ET,W,n/a,4-2,home,Jacksonville Jaguars,17,13,15,370,185,185,n/a,16,209,76,133,n/a,6.72,8.87,-12.18
-7,7,Steelers,Sun,October 23,4:05PM ET,W,n/a,5-2,away,Arizona Cardinals,32,20,26,445,354,91,n/a,23,330,257,73,1,19.16,-9.76,6.42
-8,8,Steelers,Sun,October 30,4:15PM ET,W,n/a,6-2,home,New England Patriots,25,17,29,427,329,98,1,19,213,170,43,n/a,10.61,-1.83,2.86
-9,9,Steelers,Sun,November 6,8:30PM ET,L,n/a,6-3,home,Baltimore Ravens,20,23,20,392,322,70,2,23,356,289,67,1,9.52,-12.60,0.08
-10,10,Steelers,Sun,November 13,1:02PM ET,W,n/a,7-3,away,Cincinnati Bengals,24,17,24,328,223,105,1,14,279,170,109,2,6.07,4.55,-3.90
-11,11,Steelers,n/a,n/a,n/a,n/a,n/a,n/a,home,<strong>Bye Week</strong>,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
-12,12,Steelers,Sun,November 27,8:31PM ET,W,n/a,8-3,away,Kansas City Chiefs,13,9,18,290,182,108,2,15,252,162,90,4,-8.35,14.57,-3.24
-13,13,Steelers,Sun,December 4,1:02PM ET,W,n/a,9-3,home,Cincinnati Bengals,35,7,22,295,159,136,n/a,13,232,128,104,2,9.71,8.79,9.40
-14,14,Steelers,Thu,December 8,8:28PM ET,W,n/a,10-3,home,Cleveland Browns,14,3,20,416,269,147,3,19,304,206,98,2,-0.18,9.23,0.45
-15,15,Steelers,Mon,December 19,9:00PM ET,L,n/a,10-4,away,San Francisco 49ers,3,20,20,389,305,84,4,17,287,187,100,n/a,-9.33,3.57,-10.53
-16,16,Steelers,Sat,December 24,1:02PM ET,W,n/a,11-4,home,St. Louis Rams,27,0,17,377,208,169,1,15,232,68,164,n/a,11.08,9.81,0.82
-17,17,Steelers,Sun,January 1,4:16PM ET,W,n/a,12-4,away,Cleveland Browns,13,9,22,360,199,161,2,14,240,168,72,1,-2.16,9.98,-6.56
-n/a,n/a,Steelers,n/a,<strong>Playoffs</strong>,n/a,n/a,n/a,n/a,home,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
-Wild Card,Wild Card,Steelers,Sun,January 8,4:40PM ET,L,OT,12-5,away,Denver Broncos,23,29,21,400,244,156,1,18,447,316,131,1,6.77,-14.16,2.17
+,Week,Team,Day,Date,Time,Win/Loss,Overtime,Team Record,Home/Away,Opponent,Points Scored,Points Allowed,Offense 1st Down,Total Yards Gained of Offense,Total yards Gained by Passing,Total Yards Gained by Rushing,Offense Turnovers,Defense 1st Down,Total Yards Allowed by Defense,Total Passing Yards Allowed by Defense,Total Rushing Yards Allowed by Defense,Defense Turnovers,Offense,Defense,Sp. Tms,Year
+0,0,Steelers,Sun,September 11,,L,0,0-1,away,Baltimore Ravens,7,35,20,312,246,66,7,17,385,215,170,0,-21.78,-9.72,3.57,2011
+1,1,Steelers,Sun,September 18,,W,0,1-1,home,Seattle Seahawks,24,0,23,421,297,124,0,8,164,133,31,0,14.59,13.64,-6.35,2011
+2,2,Steelers,Sun,September 25,,W,0,2-1,away,Indianapolis Colts,23,20,19,408,341,67,3,14,241,144,97,1,-6.04,11.18,-2.33,2011
+3,3,Steelers,Sun,October 2,,L,0,2-2,away,Houston Texans,10,17,20,296,178,118,1,17,318,138,180,0,0.03,-7.74,1.56,2011
+4,4,Steelers,Sun,October 9,,W,0,3-2,home,Tennessee Titans,38,17,26,431,257,174,1,20,306,240,66,1,25.86,-2.52,-6.42,2011
+5,5,Steelers,Sun,October 16,,W,0,4-2,home,Jacksonville Jaguars,17,13,15,370,185,185,0,16,209,76,133,0,6.72,8.87,-12.18,2011
+6,6,Steelers,Sun,October 23,,W,0,5-2,away,Arizona Cardinals,32,20,26,445,354,91,0,23,330,257,73,1,19.16,-9.76,6.42,2011
+7,7,Steelers,Sun,October 30,,W,0,6-2,home,New England Patriots,25,17,29,427,329,98,1,19,213,170,43,0,10.61,-1.83,2.86,2011
+8,8,Steelers,Sun,November 6,,L,0,6-3,home,Baltimore Ravens,20,23,20,392,322,70,2,23,356,289,67,1,9.52,-12.6,0.08,2011
+9,9,Steelers,Sun,November 13,,W,0,7-3,away,Cincinnati Bengals,24,17,24,328,223,105,1,14,279,170,109,2,6.07,4.55,-3.9,2011
+10,10,Steelers,,,,,0,,home,<strong>Bye Week</strong>,0,0,0,0,0,0,0,0,0,0,0,0,,,,2011
+11,11,Steelers,Sun,November 27,,W,0,8-3,away,Kansas City Chiefs,13,9,18,290,182,108,2,15,252,162,90,4,-8.35,14.57,-3.24,2011
+12,12,Steelers,Sun,December 4,,W,0,9-3,home,Cincinnati Bengals,35,7,22,295,159,136,0,13,232,128,104,2,9.71,8.79,9.4,2011
+13,13,Steelers,Thu,December 8,,W,0,10-3,home,Cleveland Browns,14,3,20,416,269,147,3,19,304,206,98,2,-0.18,9.23,0.45,2011
+14,14,Steelers,Mon,December 19,,L,0,10-4,away,San Francisco 49ers,3,20,20,389,305,84,4,17,287,187,100,0,-9.33,3.57,-10.53,2011
+15,15,Steelers,Sat,December 24,,W,0,11-4,home,St. Louis Rams,27,0,17,377,208,169,1,15,232,68,164,0,11.08,9.81,0.82,2011
+16,16,Steelers,Sun,January 1,,W,0,12-4,away,Cleveland Browns,13,9,22,360,199,161,2,14,240,168,72,1,-2.16,9.98,-6.56,2011
+17,17,Steelers,,<strong>Playoffs</strong>,,,0,,home,,0,0,0,0,0,0,0,0,0,0,0,0,,,,2011
+18,18,1,1,1,1.0,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1.0,1.0,1.0,1

@@ -1,18 +1,18 @@
-,Week,Team,Day,Date,Time,Win/Loss,Overtime,Team Record,Home/Away,Opponent,Points Scored,Points Allowed,Offense 1st Down,Total Yards Gained of Offense,Total yards Gained by Passing,Total Yards Gained by Rushing,Offense Turnovers,Defense 1st Down,Total Yards Allowed by Defense,Total Passing Yards Allowed by Defense,Total Rushing Yards Allowed by Defense,Defense Turnovers,Offense,Defense,Sp. Tms
-1,1,Bears,Sun,September 11,1:06PM ET,W,n/a,1-0,home,Atlanta Falcons,30,12,17,377,289,88,1,25,386,276,110,3,-3.29,12.68,3.96
-2,2,Bears,Sun,September 18,1:02PM ET,L,n/a,1-1,away,New Orleans Saints,13,30,18,246,186,60,1,16,382,264,118,1,-12.91,-6.00,-0.55
-3,3,Bears,Sun,September 25,4:15PM ET,L,n/a,1-2,home,Green Bay Packers,17,27,12,291,278,13,2,24,392,292,100,2,-9.17,-1.23,1.42
-4,4,Bears,Sun,October 2,1:04PM ET,W,n/a,2-2,home,Carolina Panthers,34,29,15,317,93,224,1,24,543,374,169,1,5.94,-10.03,12.63
-5,5,Bears,Mon,October 10,8:40PM ET,L,n/a,2-3,away,Detroit Lions,13,24,23,359,237,122,n/a,16,395,214,181,1,4.08,-15.11,4.05
-6,6,Bears,Sun,October 16,8:30PM ET,W,n/a,3-3,home,Minnesota Vikings,39,10,22,377,258,119,1,15,286,233,53,n/a,9.90,7.93,11.68
-7,7,Bears,Sun,October 23,1:05PM ET,W,n/a,4-3,away,Tampa Bay Buccaneers,24,18,19,395,218,177,2,16,280,250,30,4,-1.32,18.93,-10.02
-8,8,Bears,n/a,n/a,n/a,n/a,n/a,n/a,home,<strong>Bye Week</strong>,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
-9,9,Bears,Mon,November 7,8:41PM ET,W,n/a,5-3,away,Philadelphia Eagles,30,24,22,372,208,164,2,20,330,211,119,2,3.72,-2.71,2.93
-10,10,Bears,Sun,November 13,4:16PM ET,W,n/a,6-3,home,Detroit Lions,37,13,12,216,107,109,1,22,393,313,80,6,-8.13,28.13,6.33
-11,11,Bears,Sun,November 20,4:16PM ET,W,n/a,7-3,home,San Diego Chargers,31,20,23,378,286,92,1,15,332,280,52,3,6.92,-0.53,3.08
-12,12,Bears,Sun,November 27,4:05PM ET,L,n/a,7-4,away,Oakland Raiders,20,25,18,401,229,172,3,17,341,268,73,1,-6.89,4.68,-0.07
-13,13,Bears,Sun,December 4,1:03PM ET,L,n/a,7-5,home,Kansas City Chiefs,3,10,11,181,88,93,3,13,252,139,113,1,-25.79,11.36,7.43
-14,14,Bears,Sun,December 11,4:05PM ET,L,OT,7-6,away,Denver Broncos,10,13,12,245,86,159,1,22,345,221,124,2,-17.24,8.73,3.99
-15,15,Bears,Sun,December 18,1:03PM ET,L,n/a,7-7,home,Seattle Seahawks,14,38,13,221,89,132,5,18,286,226,60,1,-30.47,10.31,-3.04
-16,16,Bears,Sun,December 25,8:30PM ET,L,n/a,7-8,away,Green Bay Packers,21,35,24,441,242,199,2,19,363,282,81,n/a,10.54,-21.06,-6.03
-17,17,Bears,Sun,January 1,1:05PM ET,W,n/a,8-8,away,Minnesota Vikings,17,13,10,209,117,92,3,16,301,222,79,3,-18.48,19.55,2.75
+,Week,Team,Day,Date,Time,Win/Loss,Overtime,Team Record,Home/Away,Opponent,Points Scored,Points Allowed,Offense 1st Down,Total Yards Gained of Offense,Total yards Gained by Passing,Total Yards Gained by Rushing,Offense Turnovers,Defense 1st Down,Total Yards Allowed by Defense,Total Passing Yards Allowed by Defense,Total Rushing Yards Allowed by Defense,Defense Turnovers,Offense,Defense,Sp. Tms,Year
+0,0,Bears,Sun,September 11,,W,0,1-0,home,Atlanta Falcons,30,12,17,377,289,88,1,25,386,276,110,3,-3.29,12.68,3.96,2011
+1,1,Bears,Sun,September 18,,L,0,1-1,away,New Orleans Saints,13,30,18,246,186,60,1,16,382,264,118,1,-12.91,-6.0,-0.55,2011
+2,2,Bears,Sun,September 25,,L,0,1-2,home,Green Bay Packers,17,27,12,291,278,13,2,24,392,292,100,2,-9.17,-1.23,1.42,2011
+3,3,Bears,Sun,October 2,,W,0,2-2,home,Carolina Panthers,34,29,15,317,93,224,1,24,543,374,169,1,5.94,-10.03,12.63,2011
+4,4,Bears,Mon,October 10,,L,0,2-3,away,Detroit Lions,13,24,23,359,237,122,0,16,395,214,181,1,4.08,-15.11,4.05,2011
+5,5,Bears,Sun,October 16,,W,0,3-3,home,Minnesota Vikings,39,10,22,377,258,119,1,15,286,233,53,0,9.9,7.93,11.68,2011
+6,6,Bears,Sun,October 23,,W,0,4-3,away,Tampa Bay Buccaneers,24,18,19,395,218,177,2,16,280,250,30,4,-1.32,18.93,-10.02,2011
+7,7,Bears,,,,,0,,home,<strong>Bye Week</strong>,0,0,0,0,0,0,0,0,0,0,0,0,,,,2011
+8,8,Bears,Mon,November 7,,W,0,5-3,away,Philadelphia Eagles,30,24,22,372,208,164,2,20,330,211,119,2,3.72,-2.71,2.93,2011
+9,9,Bears,Sun,November 13,,W,0,6-3,home,Detroit Lions,37,13,12,216,107,109,1,22,393,313,80,6,-8.13,28.13,6.33,2011
+10,10,Bears,Sun,November 20,,W,0,7-3,home,San Diego Chargers,31,20,23,378,286,92,1,15,332,280,52,3,6.92,-0.53,3.08,2011
+11,11,Bears,Sun,November 27,,L,0,7-4,away,Oakland Raiders,20,25,18,401,229,172,3,17,341,268,73,1,-6.89,4.68,-0.07,2011
+12,12,Bears,Sun,December 4,,L,0,7-5,home,Kansas City Chiefs,3,10,11,181,88,93,3,13,252,139,113,1,-25.79,11.36,7.43,2011
+13,13,1,1,1,1.0,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1.0,1.0,1.0,1
+14,14,Bears,Sun,December 18,,L,0,7-7,home,Seattle Seahawks,14,38,13,221,89,132,5,18,286,226,60,1,-30.47,10.31,-3.04,2011
+15,15,Bears,Sun,December 25,,L,0,7-8,away,Green Bay Packers,21,35,24,441,242,199,2,19,363,282,81,0,10.54,-21.06,-6.03,2011
+16,16,Bears,Sun,January 1,,W,0,8-8,away,Minnesota Vikings,17,13,10,209,117,92,3,16,301,222,79,3,-18.48,19.55,2.75,2011

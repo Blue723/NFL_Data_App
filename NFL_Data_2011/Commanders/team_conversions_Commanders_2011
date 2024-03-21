@@ -1,5 +1,5 @@
-,Player,Team,3rd Down Attempts in Game,3rd Down Conversions,3rd Down Conversion %,4th Down Attempts in Game,4th Down Conversions in Game,4th Down Conversion %,Red Zone Attempts,Touchdowns Scored After the Team Entered the Red Zone,% of the Time a Team Reaches the Red Zone and Scores a Touchdown
-Team Stats,Team Stats,Commanders,219,81,37.0%,13,4,30.8%,51,21,41.2%
-Opp. Stats,Opp. Stats,Commanders,206,77,37.4%,10,4,40.0%,57,25,43.9%
-Lg Rank Offense,Lg Rank Offense,Commanders,n/a,n/a,15,n/a,n/a,26,n/a,n/a,29
-Lg Rank Defense,Lg Rank Defense,Commanders,n/a,n/a,16,n/a,n/a,10,n/a,n/a,5
+,Player,Team,3rd Down Attempts in Game,3rd Down Conversions,3rd Down Conversion Per.,4th Down Attempts in Game,4th Down Conversions in Game,4th Down Conversion Per.,Red Zone Attempts,Touchdowns Scored After the Team Entered the Red Zone,Per. of the Time a Team Reaches the Red Zone and Scores a Touchdown,Year
+0,Team Stats,Commanders,219.0,81.0,37.0,13.0,4.0,30.8,51.0,21.0,41.2,2011.0
+1,Opp. Stats,Commanders,206.0,77.0,37.4,10.0,4.0,40.0,57.0,25.0,43.9,2011.0
+2,Lg Rank Offense,Commanders,,,15.0,,,26.0,,,29.0,2011.0
+3,Lg Rank Defense,Commanders,,,16.0,,,10.0,,,5.0,2011.0

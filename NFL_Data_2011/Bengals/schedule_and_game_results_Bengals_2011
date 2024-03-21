@@ -1,20 +1,20 @@
-,Week,Team,Day,Date,Time,Win/Loss,Overtime,Team Record,Home/Away,Opponent,Points Scored,Points Allowed,Offense 1st Down,Total Yards Gained of Offense,Total yards Gained by Passing,Total Yards Gained by Rushing,Offense Turnovers,Defense 1st Down,Total Yards Allowed by Defense,Total Passing Yards Allowed by Defense,Total Rushing Yards Allowed by Defense,Defense Turnovers,Offense,Defense,Sp. Tms
-1,1,Bengals,Sun,September 11,1:06PM ET,W,n/a,1-0,away,Cleveland Browns,27,17,17,294,155,139,n/a,17,285,202,83,1,0.57,10.45,2.08
-2,2,Bengals,Sun,September 18,4:15PM ET,L,n/a,1-1,away,Denver Broncos,22,24,18,382,310,72,n/a,19,318,187,131,2,-1.57,0.55,-4.52
-3,3,Bengals,Sun,September 25,1:02PM ET,L,n/a,1-2,home,San Francisco 49ers,8,13,14,228,149,79,3,16,226,176,50,1,-13.79,11.32,-1.92
-4,4,Bengals,Sun,October 2,1:03PM ET,W,n/a,2-2,home,Buffalo Bills,23,20,25,458,287,171,2,12,273,190,83,n/a,4.54,3.68,-3.16
-5,5,Bengals,Sun,October 9,1:02PM ET,W,n/a,3-2,away,Jacksonville Jaguars,30,20,13,239,162,77,1,12,296,200,96,2,-10.47,14.15,6.78
-6,6,Bengals,Sun,October 16,1:02PM ET,W,n/a,4-2,home,Indianapolis Colts,27,17,17,358,264,94,n/a,18,273,179,94,3,4.50,7.83,1.48
-7,7,Bengals,n/a,n/a,n/a,n/a,n/a,n/a,home,<strong>Bye Week</strong>,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
-8,8,Bengals,Sun,October 30,4:16PM ET,W,n/a,5-2,away,Seattle Seahawks,34,12,18,252,160,92,2,20,411,350,61,2,-0.55,9.79,5.57
-9,9,Bengals,Sun,November 6,4:05PM ET,W,n/a,6-2,away,Tennessee Titans,24,17,20,319,210,109,n/a,19,328,250,78,1,6.90,-1.08,-3.12
-10,10,Bengals,Sun,November 13,1:02PM ET,L,n/a,6-3,home,Pittsburgh Steelers,17,24,14,279,170,109,2,24,328,223,105,1,-4.55,-6.07,3.90
-11,11,Bengals,Sun,November 20,1:02PM ET,L,n/a,6-4,away,Baltimore Ravens,24,31,23,483,364,119,3,13,373,268,105,1,-1.26,-0.72,-4.29
-12,12,Bengals,Sun,November 27,1:02PM ET,W,n/a,7-4,home,Cleveland Browns,23,20,18,389,257,132,1,17,274,140,134,1,1.39,4.60,1.25
-13,13,Bengals,Sun,December 4,1:02PM ET,L,n/a,7-5,away,Pittsburgh Steelers,7,35,13,232,128,104,2,22,295,159,136,n/a,-8.79,-9.71,-9.40
-14,14,Bengals,Sun,December 11,1:02PM ET,L,n/a,7-6,home,Houston Texans,19,20,16,285,184,101,2,25,412,268,144,4,-0.30,-3.95,4.33
-15,15,Bengals,Sun,December 18,1:00PM ET,W,n/a,8-6,away,St. Louis Rams,20,13,19,283,173,110,1,18,305,210,95,n/a,-5.58,3.91,7.81
-16,16,Bengals,Sat,December 24,1:02PM ET,W,n/a,9-6,home,Arizona Cardinals,23,16,21,301,136,165,2,17,316,257,59,3,-3.11,12.69,-3.64
-17,17,Bengals,Sun,January 1,4:16PM ET,L,n/a,9-7,home,Baltimore Ravens,16,24,19,336,231,105,1,15,347,126,221,n/a,0.34,-9.30,1.65
-n/a,n/a,Bengals,n/a,<strong>Playoffs</strong>,n/a,n/a,n/a,n/a,home,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
-Wild Card,Wild Card,Bengals,Sat,January 7,4:35PM ET,L,n/a,9-8,away,Houston Texans,10,31,21,300,224,76,3,19,340,152,188,n/a,-5.39,-13.28,-2.15
+,Week,Team,Day,Date,Time,Win/Loss,Overtime,Team Record,Home/Away,Opponent,Points Scored,Points Allowed,Offense 1st Down,Total Yards Gained of Offense,Total yards Gained by Passing,Total Yards Gained by Rushing,Offense Turnovers,Defense 1st Down,Total Yards Allowed by Defense,Total Passing Yards Allowed by Defense,Total Rushing Yards Allowed by Defense,Defense Turnovers,Offense,Defense,Sp. Tms,Year
+0,0,Bengals,Sun,September 11,,W,0,1-0,away,Cleveland Browns,27,17,17,294,155,139,0,17,285,202,83,1,0.57,10.45,2.08,2011
+1,1,Bengals,Sun,September 18,,L,0,1-1,away,Denver Broncos,22,24,18,382,310,72,0,19,318,187,131,2,-1.57,0.55,-4.52,2011
+2,2,Bengals,Sun,September 25,,L,0,1-2,home,San Francisco 49ers,8,13,14,228,149,79,3,16,226,176,50,1,-13.79,11.32,-1.92,2011
+3,3,Bengals,Sun,October 2,,W,0,2-2,home,Buffalo Bills,23,20,25,458,287,171,2,12,273,190,83,0,4.54,3.68,-3.16,2011
+4,4,Bengals,Sun,October 9,,W,0,3-2,away,Jacksonville Jaguars,30,20,13,239,162,77,1,12,296,200,96,2,-10.47,14.15,6.78,2011
+5,5,Bengals,Sun,October 16,,W,0,4-2,home,Indianapolis Colts,27,17,17,358,264,94,0,18,273,179,94,3,4.5,7.83,1.48,2011
+6,6,Bengals,,,,,0,,home,<strong>Bye Week</strong>,0,0,0,0,0,0,0,0,0,0,0,0,,,,2011
+7,7,Bengals,Sun,October 30,,W,0,5-2,away,Seattle Seahawks,34,12,18,252,160,92,2,20,411,350,61,2,-0.55,9.79,5.57,2011
+8,8,Bengals,Sun,November 6,,W,0,6-2,away,Tennessee Titans,24,17,20,319,210,109,0,19,328,250,78,1,6.9,-1.08,-3.12,2011
+9,9,Bengals,Sun,November 13,,L,0,6-3,home,Pittsburgh Steelers,17,24,14,279,170,109,2,24,328,223,105,1,-4.55,-6.07,3.9,2011
+10,10,Bengals,Sun,November 20,,L,0,6-4,away,Baltimore Ravens,24,31,23,483,364,119,3,13,373,268,105,1,-1.26,-0.72,-4.29,2011
+11,11,Bengals,Sun,November 27,,W,0,7-4,home,Cleveland Browns,23,20,18,389,257,132,1,17,274,140,134,1,1.39,4.6,1.25,2011
+12,12,Bengals,Sun,December 4,,L,0,7-5,away,Pittsburgh Steelers,7,35,13,232,128,104,2,22,295,159,136,0,-8.79,-9.71,-9.4,2011
+13,13,Bengals,Sun,December 11,,L,0,7-6,home,Houston Texans,19,20,16,285,184,101,2,25,412,268,144,4,-0.3,-3.95,4.33,2011
+14,14,Bengals,Sun,December 18,,W,0,8-6,away,St. Louis Rams,20,13,19,283,173,110,1,18,305,210,95,0,-5.58,3.91,7.81,2011
+15,15,Bengals,Sat,December 24,,W,0,9-6,home,Arizona Cardinals,23,16,21,301,136,165,2,17,316,257,59,3,-3.11,12.69,-3.64,2011
+16,16,Bengals,Sun,January 1,,L,0,9-7,home,Baltimore Ravens,16,24,19,336,231,105,1,15,347,126,221,0,0.34,-9.3,1.65,2011
+17,17,Bengals,,<strong>Playoffs</strong>,,,0,,home,,0,0,0,0,0,0,0,0,0,0,0,0,,,,2011
+18,18,Bengals,Sat,January 7,,L,0,9-8,away,Houston Texans,10,31,21,300,224,76,3,19,340,152,188,0,-5.39,-13.28,-2.15,2011

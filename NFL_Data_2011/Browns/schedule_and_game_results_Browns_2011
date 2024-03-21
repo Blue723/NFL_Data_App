@@ -1,18 +1,18 @@
-,Week,Team,Day,Date,Time,Win/Loss,Overtime,Team Record,Home/Away,Opponent,Points Scored,Points Allowed,Offense 1st Down,Total Yards Gained of Offense,Total yards Gained by Passing,Total Yards Gained by Rushing,Offense Turnovers,Defense 1st Down,Total Yards Allowed by Defense,Total Passing Yards Allowed by Defense,Total Rushing Yards Allowed by Defense,Defense Turnovers,Offense,Defense,Sp. Tms
-1,1,Browns,Sun,September 11,1:06PM ET,L,n/a,0-1,home,Cincinnati Bengals,17,27,17,285,202,83,1,17,294,155,139,n/a,-10.45,-0.57,-2.08
-2,2,Browns,Sun,September 18,1:02PM ET,W,n/a,1-1,away,Indianapolis Colts,27,19,18,303,197,106,1,19,285,176,109,2,3.08,5.72,2.24
-3,3,Browns,Sun,September 25,1:02PM ET,W,n/a,2-1,home,Miami Dolphins,17,16,19,280,210,70,1,22,369,231,138,2,3.54,-0.92,-1.48
-4,4,Browns,Sun,October 2,1:03PM ET,L,n/a,2-2,home,Tennessee Titans,13,31,25,416,332,84,1,13,332,220,112,1,-11.74,-6.97,3.03
-5,5,Browns,n/a,n/a,n/a,n/a,n/a,n/a,home,<strong>Bye Week</strong>,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
-6,6,Browns,Sun,October 16,4:05PM ET,L,n/a,2-3,away,Oakland Raiders,17,24,18,268,203,65,1,18,329,178,151,1,-6.20,-3.00,1.56
-7,7,Browns,Sun,October 23,1:05PM ET,W,n/a,3-3,home,Seattle Seahawks,6,3,20,298,159,139,1,9,137,69,68,2,-3.88,20.90,-8.30
-8,8,Browns,Sun,October 30,4:15PM ET,L,n/a,3-4,away,San Francisco 49ers,10,20,18,290,224,66,2,19,348,174,174,n/a,-1.63,-5.67,0.61
-9,9,Browns,Sun,November 6,1:03PM ET,L,n/a,3-5,away,Houston Texans,12,30,10,172,128,44,2,21,380,119,261,1,-14.53,-13.76,6.68
-10,10,Browns,Sun,November 13,1:03PM ET,L,n/a,3-6,home,St. Louis Rams,12,13,16,335,209,126,1,17,281,148,133,2,-0.52,8.88,-7.86
-11,11,Browns,Sun,November 20,1:02PM ET,W,n/a,4-6,home,Jacksonville Jaguars,14,10,20,334,186,148,1,23,303,195,108,n/a,8.19,-6.47,-1.73
-12,12,Browns,Sun,November 27,1:02PM ET,L,n/a,4-7,away,Cincinnati Bengals,20,23,17,274,140,134,1,18,389,257,132,1,-4.60,-1.39,-1.25
-13,13,Browns,Sun,December 4,4:05PM ET,L,n/a,4-8,home,Baltimore Ravens,10,24,13,233,174,59,1,24,448,158,290,1,-11.66,-7.94,3.55
-14,14,Browns,Thu,December 8,8:28PM ET,L,n/a,4-9,away,Pittsburgh Steelers,3,14,19,304,206,98,2,20,416,269,147,3,-9.23,0.18,-0.45
-15,15,Browns,Sun,December 18,4:15PM ET,L,OT,4-10,away,Arizona Cardinals,17,20,16,333,213,120,1,24,363,289,74,1,-0.66,-5.22,2.42
-16,16,Browns,Sat,December 24,1:03PM ET,L,n/a,4-11,away,Baltimore Ravens,14,20,18,256,139,117,1,15,284,122,162,1,-4.49,-2.98,5.22
-17,17,Browns,Sun,January 1,4:16PM ET,L,n/a,4-12,home,Pittsburgh Steelers,9,13,14,240,168,72,1,22,360,199,161,2,-9.98,2.16,6.56
+,Week,Team,Day,Date,Time,Win/Loss,Overtime,Team Record,Home/Away,Opponent,Points Scored,Points Allowed,Offense 1st Down,Total Yards Gained of Offense,Total yards Gained by Passing,Total Yards Gained by Rushing,Offense Turnovers,Defense 1st Down,Total Yards Allowed by Defense,Total Passing Yards Allowed by Defense,Total Rushing Yards Allowed by Defense,Defense Turnovers,Offense,Defense,Sp. Tms,Year
+0,0,Browns,Sun,September 11,,L,0,0-1,home,Cincinnati Bengals,17,27,17,285,202,83,1,17,294,155,139,0,-10.45,-0.57,-2.08,2011
+1,1,Browns,Sun,September 18,,W,0,1-1,away,Indianapolis Colts,27,19,18,303,197,106,1,19,285,176,109,2,3.08,5.72,2.24,2011
+2,2,Browns,Sun,September 25,,W,0,2-1,home,Miami Dolphins,17,16,19,280,210,70,1,22,369,231,138,2,3.54,-0.92,-1.48,2011
+3,3,Browns,Sun,October 2,,L,0,2-2,home,Tennessee Titans,13,31,25,416,332,84,1,13,332,220,112,1,-11.74,-6.97,3.03,2011
+4,4,Browns,,,,,0,,home,<strong>Bye Week</strong>,0,0,0,0,0,0,0,0,0,0,0,0,,,,2011
+5,5,Browns,Sun,October 16,,L,0,2-3,away,Oakland Raiders,17,24,18,268,203,65,1,18,329,178,151,1,-6.2,-3.0,1.56,2011
+6,6,Browns,Sun,October 23,,W,0,3-3,home,Seattle Seahawks,6,3,20,298,159,139,1,9,137,69,68,2,-3.88,20.9,-8.3,2011
+7,7,Browns,Sun,October 30,,L,0,3-4,away,San Francisco 49ers,10,20,18,290,224,66,2,19,348,174,174,0,-1.63,-5.67,0.61,2011
+8,8,Browns,Sun,November 6,,L,0,3-5,away,Houston Texans,12,30,10,172,128,44,2,21,380,119,261,1,-14.53,-13.76,6.68,2011
+9,9,Browns,Sun,November 13,,L,0,3-6,home,St. Louis Rams,12,13,16,335,209,126,1,17,281,148,133,2,-0.52,8.88,-7.86,2011
+10,10,Browns,Sun,November 20,,W,0,4-6,home,Jacksonville Jaguars,14,10,20,334,186,148,1,23,303,195,108,0,8.19,-6.47,-1.73,2011
+11,11,Browns,Sun,November 27,,L,0,4-7,away,Cincinnati Bengals,20,23,17,274,140,134,1,18,389,257,132,1,-4.6,-1.39,-1.25,2011
+12,12,Browns,Sun,December 4,,L,0,4-8,home,Baltimore Ravens,10,24,13,233,174,59,1,24,448,158,290,1,-11.66,-7.94,3.55,2011
+13,13,Browns,Thu,December 8,,L,0,4-9,away,Pittsburgh Steelers,3,14,19,304,206,98,2,20,416,269,147,3,-9.23,0.18,-0.45,2011
+14,14,1,1,1,1.0,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1.0,1.0,1.0,1
+15,15,Browns,Sat,December 24,,L,0,4-11,away,Baltimore Ravens,14,20,18,256,139,117,1,15,284,122,162,1,-4.49,-2.98,5.22,2011
+16,16,Browns,Sun,January 1,,L,0,4-12,home,Pittsburgh Steelers,9,13,14,240,168,72,1,22,360,199,161,2,-9.98,2.16,6.56,2011

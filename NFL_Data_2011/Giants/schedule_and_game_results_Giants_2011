@@ -1,23 +1,23 @@
-,Week,Team,Day,Date,Time,Win/Loss,Overtime,Team Record,Home/Away,Opponent,Points Scored,Points Allowed,Offense 1st Down,Total Yards Gained of Offense,Total yards Gained by Passing,Total Yards Gained by Rushing,Offense Turnovers,Defense 1st Down,Total Yards Allowed by Defense,Total Passing Yards Allowed by Defense,Total Rushing Yards Allowed by Defense,Defense Turnovers,Offense,Defense,Sp. Tms
-1,1,Giants,Sun,September 11,4:23PM ET,L,n/a,0-1,away,Washington Redskins,14,28,15,315,240,75,1,21,332,258,74,1,-6.25,-5.12,-3.00
-2,2,Giants,Mon,September 19,8:40PM ET,W,n/a,1-1,home,St. Louis Rams,28,16,22,323,204,119,1,14,367,308,59,2,1.79,9.49,-0.22
-3,3,Giants,Sun,September 25,1:03PM ET,W,n/a,2-1,away,Philadelphia Eagles,29,16,14,334,232,102,n/a,25,376,199,177,3,12.14,-1.68,-0.49
-4,4,Giants,Sun,October 2,4:05PM ET,W,n/a,3-1,away,Arizona Cardinals,31,27,24,360,306,54,2,22,368,212,156,2,5.19,-3.33,1.03
-5,5,Giants,Sun,October 9,1:04PM ET,L,n/a,3-2,home,Seattle Seahawks,25,36,21,464,395,69,5,26,424,279,145,3,-13.66,4.82,-3.53
-6,6,Giants,Sun,October 16,1:02PM ET,W,n/a,4-2,home,Buffalo Bills,27,24,24,414,292,122,n/a,17,374,219,155,2,18.88,-10.21,-1.47
-7,7,Giants,n/a,n/a,n/a,n/a,n/a,n/a,home,<strong>Bye Week</strong>,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
-8,8,Giants,Sun,October 30,1:02PM ET,W,n/a,5-2,home,Miami Dolphins,20,17,21,402,344,58,n/a,18,246,101,145,1,8.35,-0.45,-3.75
-9,9,Giants,Sun,November 6,4:15PM ET,W,n/a,6-2,away,New England Patriots,24,20,23,361,250,111,2,23,438,332,106,4,3.18,-0.10,0.90
-10,10,Giants,Sun,November 13,4:15PM ET,L,n/a,6-3,away,San Francisco 49ers,20,27,21,395,302,93,2,16,305,228,77,1,7.56,-0.70,-10.27
-11,11,Giants,Sun,November 20,8:32PM ET,L,n/a,6-4,home,Philadelphia Eagles,10,17,12,278,249,29,2,17,391,255,136,3,-12.04,0.38,1.96
-12,12,Giants,Mon,November 28,8:40PM ET,L,n/a,6-5,away,New Orleans Saints,24,49,29,465,392,73,2,31,577,372,205,n/a,13.42,-33.74,-1.66
-13,13,Giants,Sun,December 4,4:15PM ET,L,n/a,6-6,home,Green Bay Packers,35,38,24,447,347,100,2,29,449,360,89,1,8.83,-20.20,6.30
-14,14,Giants,Sun,December 11,8:30PM ET,W,n/a,7-6,away,Dallas Cowboys,37,34,28,510,400,110,1,23,444,305,139,1,19.02,-17.77,0.89
-15,15,Giants,Sun,December 18,1:02PM ET,L,n/a,7-7,home,Washington Redskins,10,23,22,324,233,91,3,19,300,177,123,2,-5.52,-7.40,-3.39
-16,16,Giants,Sat,December 24,1:03PM ET,W,n/a,8-7,away,New York Jets,29,14,11,332,217,115,1,22,331,226,105,3,-3.27,14.01,3.11
-17,17,Giants,Sun,January 1,8:31PM ET,W,n/a,9-7,home,Dallas Cowboys,31,14,20,437,331,106,n/a,19,300,251,49,2,15.03,4.82,-4.24
-n/a,n/a,Giants,n/a,<strong>Playoffs</strong>,n/a,n/a,n/a,n/a,home,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
-Wild Card,Wild Card,Giants,Sun,January 8,1:06PM ET,W,n/a,10-7,home,Atlanta Falcons,24,2,19,442,270,172,n/a,14,247,183,64,n/a,16.19,13.58,-9.51
-Division,Division,Giants,Sun,January 15,4:40PM ET,W,n/a,11-7,away,Green Bay Packers,37,20,19,420,325,95,1,25,388,241,147,4,12.89,5.25,-1.79
-Conf. Champ.,Conf. Champ.,Giants,Sun,January 22,6:41PM ET,W,OT,12-7,away,San Francisco 49ers,20,17,20,352,267,85,n/a,15,328,178,150,2,-11.25,1.10,7.51
-SuperBowl,SuperBowl,Giants,Sun,February 5,6:30PM ET,W,n/a,13-7,home,New England Patriots,21,17,26,396,282,114,n/a,21,349,266,83,1,13.35,-10.62,1.39
+,Week,Team,Day,Date,Time,Win/Loss,Overtime,Team Record,Home/Away,Opponent,Points Scored,Points Allowed,Offense 1st Down,Total Yards Gained of Offense,Total yards Gained by Passing,Total Yards Gained by Rushing,Offense Turnovers,Defense 1st Down,Total Yards Allowed by Defense,Total Passing Yards Allowed by Defense,Total Rushing Yards Allowed by Defense,Defense Turnovers,Offense,Defense,Sp. Tms,Year
+0,0,Giants,Sun,September 11,,L,0,0-1,away,Washington Redskins,14,28,15,315,240,75,1,21,332,258,74,1,-6.25,-5.12,-3.0,2011
+1,1,Giants,Mon,September 19,,W,0,1-1,home,St. Louis Rams,28,16,22,323,204,119,1,14,367,308,59,2,1.79,9.49,-0.22,2011
+2,2,Giants,Sun,September 25,,W,0,2-1,away,Philadelphia Eagles,29,16,14,334,232,102,0,25,376,199,177,3,12.14,-1.68,-0.49,2011
+3,3,Giants,Sun,October 2,,W,0,3-1,away,Arizona Cardinals,31,27,24,360,306,54,2,22,368,212,156,2,5.19,-3.33,1.03,2011
+4,4,Giants,Sun,October 9,,L,0,3-2,home,Seattle Seahawks,25,36,21,464,395,69,5,26,424,279,145,3,-13.66,4.82,-3.53,2011
+5,5,Giants,Sun,October 16,,W,0,4-2,home,Buffalo Bills,27,24,24,414,292,122,0,17,374,219,155,2,18.88,-10.21,-1.47,2011
+6,6,Giants,,,,,0,,home,<strong>Bye Week</strong>,0,0,0,0,0,0,0,0,0,0,0,0,,,,2011
+7,7,Giants,Sun,October 30,,W,0,5-2,home,Miami Dolphins,20,17,21,402,344,58,0,18,246,101,145,1,8.35,-0.45,-3.75,2011
+8,8,Giants,Sun,November 6,,W,0,6-2,away,New England Patriots,24,20,23,361,250,111,2,23,438,332,106,4,3.18,-0.1,0.9,2011
+9,9,Giants,Sun,November 13,,L,0,6-3,away,San Francisco 49ers,20,27,21,395,302,93,2,16,305,228,77,1,7.56,-0.7,-10.27,2011
+10,10,Giants,Sun,November 20,,L,0,6-4,home,Philadelphia Eagles,10,17,12,278,249,29,2,17,391,255,136,3,-12.04,0.38,1.96,2011
+11,11,Giants,Mon,November 28,,L,0,6-5,away,New Orleans Saints,24,49,29,465,392,73,2,31,577,372,205,0,13.42,-33.74,-1.66,2011
+12,12,Giants,Sun,December 4,,L,0,6-6,home,Green Bay Packers,35,38,24,447,347,100,2,29,449,360,89,1,8.83,-20.2,6.3,2011
+13,13,Giants,Sun,December 11,,W,0,7-6,away,Dallas Cowboys,37,34,28,510,400,110,1,23,444,305,139,1,19.02,-17.77,0.89,2011
+14,14,Giants,Sun,December 18,,L,0,7-7,home,Washington Redskins,10,23,22,324,233,91,3,19,300,177,123,2,-5.52,-7.4,-3.39,2011
+15,15,Giants,Sat,December 24,,W,0,8-7,away,New York Jets,29,14,11,332,217,115,1,22,331,226,105,3,-3.27,14.01,3.11,2011
+16,16,Giants,Sun,January 1,,W,0,9-7,home,Dallas Cowboys,31,14,20,437,331,106,0,19,300,251,49,2,15.03,4.82,-4.24,2011
+17,17,Giants,,<strong>Playoffs</strong>,,,0,,home,,0,0,0,0,0,0,0,0,0,0,0,0,,,,2011
+18,18,Giants,Sun,January 8,,W,0,10-7,home,Atlanta Falcons,24,2,19,442,270,172,0,14,247,183,64,0,16.19,13.58,-9.51,2011
+19,19,Giants,Sun,January 15,,W,0,11-7,away,Green Bay Packers,37,20,19,420,325,95,1,25,388,241,147,4,12.89,5.25,-1.79,2011
+20,20,1,1,1,1.0,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1.0,1.0,1.0,1
+21,21,Giants,Sun,February 5,,W,0,13-7,home,New England Patriots,21,17,26,396,282,114,0,21,349,266,83,1,13.35,-10.62,1.39,2011

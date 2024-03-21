@@ -1,5 +1,5 @@
-,No.,Team,Player,Age,Position,Games Played,Games Started,Punts Returned,Punts Return Yardage,Punts Returned for Touchdown,Longest Punt Return,Yards per Punt Return,Kickoff Returns,Yardage for Kickoffs Returned,Kickoffs Returned for a Touchdown,Longest Kickoff Return,Yards per Kickoff Return,All-purpose Yards
-14,14,Panthers,Armanti Edwards,23,QB,16,0,32,176,0,17,5.5,3,35,0,17,11.7,216
-81,81,Panthers,Kealoha Pilares,23,WR,12,0,n/a,n/a,0,n/a,n/a,23,590,1,101,25.7,590
-33,33,Panthers,Mike Goodson,24,RB,4,0,n/a,n/a,0,n/a,n/a,11,250,0,31,22.7,254
-29,29,Panthers,Jordan Pugh,23,DB,12,1,n/a,n/a,0,n/a,n/a,2,51,0,28,25.5,51
+,No.,Team,Player,Age,Position,Games Played,Games Started,Punts Returned,Punts Return Yardage,Punts Returned for Touchdown,Longest Punt Return,Yards per Punt Return,Kickoff Returns,Yardage for Kickoffs Returned,Kickoffs Returned for a Touchdown,Longest Kickoff Return,Yards per Kickoff Return,All-purpose Yards,Year
+0,14,Panthers,Armanti Edwards,23,QB,16,0,32,176,0,17,5.5,3,35,0,17,11.7,216,2011
+1,81,Panthers,Kealoha Pilares,23,WR,12,0,0,0,0,0,,23,590,1,101,25.7,590,2011
+2,33,Panthers,Mike Goodson,24,RB,4,0,0,0,0,0,,11,250,0,31,22.7,254,2011
+3,29,Panthers,Jordan Pugh,23,DB,12,1,0,0,0,0,,2,51,0,28,25.5,51,2011

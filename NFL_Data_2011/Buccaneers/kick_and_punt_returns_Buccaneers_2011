@@ -1,8 +1,8 @@
-,No.,Team,Player,Age,Position,Games Played,Games Started,Punts Returned,Punts Return Yardage,Punts Returned for Touchdown,Longest Punt Return,Yards per Punt Return,Kickoff Returns,Yardage for Kickoffs Returned,Kickoffs Returned for a Touchdown,Longest Kickoff Return,Yards per Kickoff Return,All-purpose Yards
-87,87,Buccaneers,Preston Parker,24,WR,16,0,23,210,0,34,9.1,20,439,0,45,22.0,1192
-18,18,Buccaneers,Sammie Stroughter,25,WR,6,0,n/a,n/a,0,n/a,n/a,20,540,0,78,27.0,592
-81,81,Buccaneers,Micheal Spurlock,28,WR,12,0,6,21,0,15,3.5,2,33,0,21,16.5,67
-89,89,Buccaneers,Dezmon Briscoe,22,WR,16,2,n/a,n/a,0,n/a,n/a,1,12,0,12,12.0,399
-96,96,Buccaneers,Tim Crowder,26,DE,10,0,n/a,n/a,0,n/a,n/a,1,0,0,0,0.0,0
-32,32,Buccaneers,Mossis Madu,24,RB,9,0,n/a,n/a,0,n/a,n/a,1,0,0,0,0.0,127
-80,80,Buccaneers,Zack Pianalto,22,TE,13,0,n/a,n/a,0,n/a,n/a,1,0,0,0,0.0,40
+,No.,Team,Player,Age,Position,Games Played,Games Started,Punts Returned,Punts Return Yardage,Punts Returned for Touchdown,Longest Punt Return,Yards per Punt Return,Kickoff Returns,Yardage for Kickoffs Returned,Kickoffs Returned for a Touchdown,Longest Kickoff Return,Yards per Kickoff Return,All-purpose Yards,Year
+0,87,Buccaneers,Preston Parker,24,WR,16,0,23,210,0,34,9.1,20,439,0,45,22.0,1192,2011
+1,18,Buccaneers,Sammie Stroughter,25,WR,6,0,0,0,0,0,,20,540,0,78,27.0,592,2011
+2,81,Buccaneers,Micheal Spurlock,28,WR,12,0,6,21,0,15,3.5,2,33,0,21,16.5,67,2011
+3,89,Buccaneers,Dezmon Briscoe,22,WR,16,2,0,0,0,0,,1,12,0,12,12.0,399,2011
+4,96,Buccaneers,Tim Crowder,26,DE,10,0,0,0,0,0,,1,0,0,0,0.0,0,2011
+5,32,Buccaneers,Mossis Madu,24,RB,9,0,0,0,0,0,,1,0,0,0,0.0,127,2011
+6,80,Buccaneers,Zack Pianalto,22,TE,13,0,0,0,0,0,,1,0,0,0,0.0,40,2011

@@ -1,11 +1,11 @@
-,No.,Team,Player,Age,Position,Games Played,Games Started,Punts Returned,Punts Return Yardage,Punts Returned for Touchdown,Longest Punt Return,Yards per Punt Return,Kickoff Returns,Yardage for Kickoffs Returned,Kickoffs Returned for a Touchdown,Longest Kickoff Return,Yards per Kickoff Return,All-purpose Yards
-15,15,Giants,Devin Thomas,25,WR,16,0,n/a,n/a,0,n/a,n/a,25,607,0,40,24.3,644
-31,31,Giants,Aaron Ross,29,RCB,16,15,14,99,0,18,7.1,n/a,n/a,0,n/a,n/a,118
-33,33,Giants,Da'Rel Scott,23,RB,11,0,n/a,n/a,0,n/a,n/a,14,341,0,38,24.4,370
-36,36,Giants,Will Blackmon,27,DB,6,0,6,25,0,16,4.2,2,43,0,32,21.5,68
-12,12,Giants,Jerrel Jernigan,22,WR,8,0,n/a,n/a,0,n/a,n/a,8,186,0,31,23.3,186
-80,80,Giants,Victor Cruz,25,WR,16,7,3,12,0,11,4.0,n/a,n/a,0,n/a,n/a,1551
-87,87,Giants,Domenik Hixon,27,WR,2,0,3,31,0,18,10.3,n/a,n/a,0,n/a,n/a,81
-26,26,Giants,Antrel Rolle,29,FS,16,16,2,4,0,3,2.0,n/a,n/a,0,n/a,n/a,3
-28,28,Giants,Danny Ware,26,RB,16,1,n/a,n/a,0,n/a,n/a,2,17,0,17,8.5,350
-45,45,Giants,Henry Hynoski,23,RB,11,4,n/a,n/a,0,n/a,n/a,1,15,0,15,15.0,98
+,No.,Team,Player,Age,Position,Games Played,Games Started,Punts Returned,Punts Return Yardage,Punts Returned for Touchdown,Longest Punt Return,Yards per Punt Return,Kickoff Returns,Yardage for Kickoffs Returned,Kickoffs Returned for a Touchdown,Longest Kickoff Return,Yards per Kickoff Return,All-purpose Yards,Year
+0,15,Giants,Devin Thomas,25,WR,16,0,0,0,0,0,,25,607,0,40,24.3,644,2011
+1,31,Giants,Aaron Ross,29,RCB,16,15,14,99,0,18,7.1,0,0,0,0,,118,2011
+2,33,Giants,Da'Rel Scott,23,RB,11,0,0,0,0,0,,14,341,0,38,24.4,370,2011
+3,36,Giants,Will Blackmon,27,DB,6,0,6,25,0,16,4.2,2,43,0,32,21.5,68,2011
+4,12,Giants,Jerrel Jernigan,22,WR,8,0,0,0,0,0,,8,186,0,31,23.3,186,2011
+5,80,Giants,Victor Cruz,25,WR,16,7,3,12,0,11,4.0,0,0,0,0,,1551,2011
+6,87,Giants,Domenik Hixon,27,WR,2,0,3,31,0,18,10.3,0,0,0,0,,81,2011
+7,26,Giants,Antrel Rolle,29,FS,16,16,2,4,0,3,2.0,0,0,0,0,,3,2011
+8,28,Giants,Danny Ware,26,RB,16,1,0,0,0,0,,2,17,0,17,8.5,350,2011
+9,45,Giants,Henry Hynoski,23,RB,11,4,0,0,0,0,,1,15,0,15,15.0,98,2011

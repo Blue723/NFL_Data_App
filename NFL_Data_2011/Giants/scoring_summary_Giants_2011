@@ -1,15 +1,15 @@
-,No.,Team,Player,Age,Pos,Games Played,Games Started,Rush TD,Reception TD,Punt Return TD,Kick Return TD,Fumble Return TD,Interception TD,Other TD,All Touchdown Scored,2-Point Conversions Made,Two-Point Conversions Attempted,Defensive Two-Point Conversions,Extra Points Made,Extra Points Allowed,Field Goals Made,Field Goals Attempted,Safeties Scored by Player/Team,Total Points Scored by all Means,Poins per Game
-9,9,Giants,Lawrence Tynes,33,K,16,0,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,43,43,19,24,n/a,100,6.3
-44,44,Giants,Ahmad Bradshaw,25,RB,12,9,9,2,n/a,n/a,n/a,n/a,n/a,11,1,n/a,n/a,n/a,n/a,n/a,n/a,n/a,68,5.7
-80,80,Giants,Victor Cruz,25,WR,16,7,n/a,9,n/a,n/a,n/a,n/a,n/a,9,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,54,3.4
-27,27,Giants,Brandon Jacobs,29,RB,14,6,7,1,n/a,n/a,n/a,n/a,n/a,8,1,n/a,n/a,n/a,n/a,n/a,n/a,n/a,50,3.6
-88,88,Giants,Hakeem Nicks,23,WR,15,15,n/a,7,n/a,n/a,n/a,n/a,n/a,7,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,42,2.8
-85,85,Giants,Jake Ballard,24,TE,14,13,n/a,4,n/a,n/a,n/a,n/a,n/a,4,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,24,1.7
-82,82,Giants,Mario Manningham,25,WR,12,10,n/a,4,n/a,n/a,n/a,n/a,n/a,4,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,24,2.0
-47,47,Giants,Travis Beckum,24,TE,13,0,n/a,1,n/a,n/a,n/a,n/a,n/a,1,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,6,0.5
-59,59,Giants,Michael Boley,29,MLB,14,13,n/a,n/a,n/a,n/a,1,n/a,n/a,1,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,6,0.4
-87,87,Giants,Domenik Hixon,27,WR,2,0,n/a,1,n/a,n/a,n/a,n/a,n/a,1,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,6,3.0
-10,10,Giants,Eli Manning,30,QB,16,16,1,n/a,n/a,n/a,n/a,n/a,n/a,1,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,6,0.4
-28,28,Giants,Danny Ware,26,RB,16,1,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,2,n/a,n/a,n/a,n/a,n/a,n/a,n/a,4,0.3
-99,99,Giants,Chris Canty,29,RDT,16,16,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,1,2,0.1
-90,90,Giants,Jason Pierre-Paul,22,RDE,16,12,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,1,2,0.1
+,No.,Team,Player,Age,Pos,Games Played,Games Started,Rush TD,Reception TD,Punt Return TD,Kick Return TD,Fumble Return TD,Interception TD,Other TD,All Touchdown Scored,2-Point Conversions Made,Two-Point Conversions Attempted,Defensive Two-Point Conversions,Extra Points Made,Extra Points Allowed,Field Goals Made,Field Goals Attempted,Safeties Scored by Player/Team,Total Points Scored by all Means,Poins per Game,Year
+0,9,Giants,Lawrence Tynes,33,K,16,0,0,0,0,0,0,0,0,0,0,0,0,43,43,19,24,,100,6.3,2011
+1,44,Giants,Ahmad Bradshaw,25,RB,12,9,9,2,0,0,0,0,0,11,1,0,0,0,0,0,0,,68,5.7,2011
+2,80,Giants,Victor Cruz,25,WR,16,7,0,9,0,0,0,0,0,9,0,0,0,0,0,0,0,,54,3.4,2011
+3,27,Giants,Brandon Jacobs,29,RB,14,6,7,1,0,0,0,0,0,8,1,0,0,0,0,0,0,,50,3.6,2011
+4,88,Giants,Hakeem Nicks,23,WR,15,15,0,7,0,0,0,0,0,7,0,0,0,0,0,0,0,,42,2.8,2011
+5,85,Giants,Jake Ballard,24,TE,14,13,0,4,0,0,0,0,0,4,0,0,0,0,0,0,0,,24,1.7,2011
+6,82,Giants,Mario Manningham,25,WR,12,10,0,4,0,0,0,0,0,4,0,0,0,0,0,0,0,,24,2.0,2011
+7,47,Giants,Travis Beckum,24,TE,13,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,,6,0.5,2011
+8,59,Giants,Michael Boley,29,MLB,14,13,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,,6,0.4,2011
+9,87,Giants,Domenik Hixon,27,WR,2,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,,6,3.0,2011
+10,10,Giants,Eli Manning,30,QB,16,16,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,,6,0.4,2011
+11,28,Giants,Danny Ware,26,RB,16,1,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,,4,0.3,2011
+12,99,Giants,Chris Canty,29,RDT,16,16,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1.0,2,0.1,2011
+13,90,Giants,Jason Pierre-Paul,22,RDE,16,12,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1.0,2,0.1,2011

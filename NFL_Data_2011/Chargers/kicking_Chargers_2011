@@ -1,4 +1,4 @@
-,No.,Team,Player,Age,Position,Games Played,Games Started,FGA 0-19,FGM 0-19,FGA 20-29,FGM 20-29,FGA 30-39,FGM 30-39,FGA 40-49,FGM 40-49,FGA 50+,FGM 50+,Field Goals Attempted,Field Goals Made,Longest Field Goal Made,% of Field Goals Made,Extra Points Attempted,Extra Points Made,Extra Point Percentage,Kickoffs,Kickoff Yards,Kickoff Touchbacks,% Kickoff was a Touchback,Kickoff Average Yardage
-9,9,Chargers,Nick Novak,30,K,15,0,n/a,n/a,11,11,5,4,11,8,7,4,34,27,53,79.4%,42,41,97.6%,86,5551,30,34.9%,64.5
-5,5,Chargers,Mike Scifres,31,P,16,0,n/a,n/a,n/a,n/a,n/a,n/a,1,1,n/a,n/a,1,1,40,100.0%,3,3,100.0%,4,239,2,50.0%,59.8
-10,10,Chargers,Nate Kaeding,29,K,1,0,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,1,68,n/a,n/a,68.0
+,No.,Team,Player,Age,Position,Games Played,Games Started,FGA 0-19,FGM 0-19,FGA 20-29,FGM 20-29,FGA 30-39,FGM 30-39,FGA 40-49,FGM 40-49,FGA 50+,FGM 50+,Field Goals Attempted,Field Goals Made,Longest Field Goal Made,Per. of Field Goals Made,Extra Points Attempted,Extra Points Made,Extra Point Per.,Kickoffs,Kickoff Yards,Kickoff Touchbacks,Per. Kickoff was a Touchback,Kickoff Average Yardage,Year
+0,9,Chargers,Nick Novak,30,K,15,0,0,0,11,11,5,4,11,8,7,4,34,27,53,79.4,42,41,97.6,86,5551,30,34.9,64.5,2011
+1,5,Chargers,Mike Scifres,31,P,16,0,0,0,0,0,0,0,1,1,0,0,1,1,40,100.0,3,3,100.0,4,239,2,50.0,59.8,2011
+2,10,Chargers,Nate Kaeding,29,K,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0.0,1,68,0,0.0,68.0,2011

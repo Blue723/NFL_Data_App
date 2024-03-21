@@ -1,6 +1,6 @@
-,No.,Team,Player,Age,Position,Games Played,Games Started,Punts Returned,Punts Return Yardage,Punts Returned for Touchdown,Longest Punt Return,Yards per Punt Return,Kickoff Returns,Yardage for Kickoffs Returned,Kickoffs Returned for a Touchdown,Longest Kickoff Return,Yards per Kickoff Return,All-purpose Yards
-16,16,Commanders,Brandon Banks,24,WR,16,0,36,328,0,55,9.1,51,1174,0,47,23.0,1513
-84,84,Commanders,Niles Paul,22,WR,13,2,1,0,0,0,0.0,1,15,0,15,15.0,47
-82,82,Commanders,Logan Paulsen,24,TE,16,6,n/a,n/a,0,n/a,n/a,2,7,0,7,3.5,145
-13,13,Commanders,Anthony Armstrong,28,WR,14,2,n/a,n/a,0,n/a,n/a,1,28,0,28,28.0,150
-45,45,Commanders,Mike Sellers,36,FB,12,0,n/a,n/a,0,n/a,n/a,1,15,0,15,15.0,30
+,No.,Team,Player,Age,Position,Games Played,Games Started,Punts Returned,Punts Return Yardage,Punts Returned for Touchdown,Longest Punt Return,Yards per Punt Return,Kickoff Returns,Yardage for Kickoffs Returned,Kickoffs Returned for a Touchdown,Longest Kickoff Return,Yards per Kickoff Return,All-purpose Yards,Year
+0,16,Commanders,Brandon Banks,24,WR,16,0,36,328,0,55,9.1,51,1174,0,47,23.0,1513,2011
+1,84,Commanders,Niles Paul,22,WR,13,2,1,0,0,0,0.0,1,15,0,15,15.0,47,2011
+2,82,Commanders,Logan Paulsen,24,TE,16,6,0,0,0,0,,2,7,0,7,3.5,145,2011
+3,13,Commanders,Anthony Armstrong,28,WR,14,2,0,0,0,0,,1,28,0,28,28.0,150,2011
+4,45,Commanders,Mike Sellers,36,FB,12,0,0,0,0,0,,1,15,0,15,15.0,30,2011

@@ -1,7 +1,7 @@
-,No.,Team,Player,Age,Position,Games Played,Games Started,Punts Returned,Punts Return Yardage,Punts Returned for Touchdown,Longest Punt Return,Yards per Punt Return,Kickoff Returns,Yardage for Kickoffs Returned,Kickoffs Returned for a Touchdown,Longest Kickoff Return,Yards per Kickoff Return,All-purpose Yards
-28,28,Buffalos,C.J. Spiller,24,RB,16,11,13,127,0,45,9.8,6,143,0,35,23.8,1100
-16,16,Buffalos,Brad Smith,28,WR,15,5,n/a,n/a,0,n/a,n/a,15,282,0,28,18.8,609
-26,26,Buffalos,Justin Rogers,23,DB,13,1,n/a,n/a,0,n/a,n/a,13,373,0,54,28.7,388
-21,21,Buffalos,Leodis McKelvin,26,RCB,16,6,8,156,1,80,19.5,2,43,0,22,21.5,220
-11,11,Buffalos,Roscoe Parrish,29,WR,2,2,5,46,0,28,9.2,n/a,n/a,0,n/a,n/a,62
-83,83,Buffalos,Mike Caussin,24,TE,6,2,n/a,n/a,0,n/a,n/a,1,12,0,12,12.0,53
+,No.,Team,Player,Age,Position,Games Played,Games Started,Punts Returned,Punts Return Yardage,Punts Returned for Touchdown,Longest Punt Return,Yards per Punt Return,Kickoff Returns,Yardage for Kickoffs Returned,Kickoffs Returned for a Touchdown,Longest Kickoff Return,Yards per Kickoff Return,All-purpose Yards,Year
+0,28,Buffalos,C.J. Spiller,24,RB,16,11,13,127,0,45,9.8,6,143,0,35,23.8,1100,2011
+1,16,Buffalos,Brad Smith,28,WR,15,5,0,0,0,0,,15,282,0,28,18.8,609,2011
+2,26,Buffalos,Justin Rogers,23,DB,13,1,0,0,0,0,,13,373,0,54,28.7,388,2011
+3,21,Buffalos,Leodis McKelvin,26,RCB,16,6,8,156,1,80,19.5,2,43,0,22,21.5,220,2011
+4,11,Buffalos,Roscoe Parrish,29,WR,2,2,5,46,0,28,9.2,0,0,0,0,,62,2011
+5,83,Buffalos,Mike Caussin,24,TE,6,2,0,0,0,0,,1,12,0,12,12.0,53,2011

@@ -1,18 +1,18 @@
-,Week,Team,Day,Date,Time,Win/Loss,Overtime,Team Record,Home/Away,Opponent,Points Scored,Points Allowed,Offense 1st Down,Total Yards Gained of Offense,Total yards Gained by Passing,Total Yards Gained by Rushing,Offense Turnovers,Defense 1st Down,Total Yards Allowed by Defense,Total Passing Yards Allowed by Defense,Total Rushing Yards Allowed by Defense,Defense Turnovers,Offense,Defense,Sp. Tms
-1,1,Dolphins,Mon,September 12,7:13PM ET,L,n/a,0-1,home,New England Patriots,24,38,25,488,390,98,1,27,622,516,106,1,8.63,-24.68,2.84
-2,2,Dolphins,Sun,September 18,4:15PM ET,L,n/a,0-2,home,Houston Texans,13,23,18,306,153,153,2,19,345,207,138,n/a,-5.49,-3.32,-6.91
-3,3,Dolphins,Sun,September 25,1:02PM ET,L,n/a,0-3,away,Cleveland Browns,16,17,22,369,231,138,2,19,280,210,70,1,0.92,-3.54,1.48
-4,4,Dolphins,Sun,October 2,4:15PM ET,L,n/a,0-4,away,San Diego Chargers,16,26,16,248,176,72,2,21,411,295,116,n/a,-2.35,-14.22,3.93
-5,5,Dolphins,n/a,n/a,n/a,n/a,n/a,n/a,home,<strong>Bye Week</strong>,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
-6,6,Dolphins,Mon,October 17,8:40PM ET,L,n/a,0-5,away,New York Jets,6,24,17,308,190,118,3,13,296,192,104,1,-17.17,-1.08,2.59
-7,7,Dolphins,Sun,October 23,1:02PM ET,L,OT,0-6,home,Denver Broncos,15,18,15,267,173,94,1,18,308,131,177,1,-11.80,9.03,1.10
-8,8,Dolphins,Sun,October 30,1:02PM ET,L,n/a,0-7,away,New York Giants,17,20,18,246,101,145,1,21,402,344,58,n/a,0.45,-8.35,3.75
-9,9,Dolphins,Sun,November 6,1:03PM ET,W,n/a,1-7,away,Kansas City Chiefs,31,3,17,351,244,107,n/a,20,343,227,116,n/a,14.45,12.57,-1.06
-10,10,Dolphins,Sun,November 13,1:03PM ET,W,n/a,2-7,home,Washington Redskins,20,9,20,303,200,103,2,16,246,185,61,2,-0.98,8.83,0.93
-11,11,Dolphins,Sun,November 20,1:02PM ET,W,n/a,3-7,home,Buffalo Bills,35,8,16,242,147,95,n/a,14,245,204,41,2,2.62,21.57,3.29
-12,12,Dolphins,Thu,November 24,4:16PM ET,L,n/a,3-8,away,Dallas Cowboys,19,20,18,352,263,89,1,19,303,218,85,2,-0.60,1.95,-2.35
-13,13,Dolphins,Sun,December 4,1:03PM ET,W,n/a,4-8,home,Oakland Raiders,34,14,23,362,153,209,n/a,18,304,258,46,1,13.16,4.43,4.64
-14,14,Dolphins,Sun,December 11,1:03PM ET,L,n/a,4-9,home,Philadelphia Eagles,10,26,11,204,95,109,3,18,239,188,51,2,-34.72,9.04,9.19
-15,15,Dolphins,Sun,December 18,1:02PM ET,W,n/a,5-9,away,Buffalo Bills,30,23,17,448,194,254,3,21,404,291,113,3,0.12,6.23,3.00
-16,16,Dolphins,Sat,December 24,1:02PM ET,L,n/a,5-10,away,New England Patriots,24,27,20,374,253,121,2,26,400,281,119,n/a,6.57,-10.60,1.32
-17,17,Dolphins,Sun,January 1,1:02PM ET,W,n/a,6-10,home,New York Jets,19,17,14,210,128,82,2,20,374,245,129,3,-8.54,5.63,5.47
+,Week,Team,Day,Date,Time,Win/Loss,Overtime,Team Record,Home/Away,Opponent,Points Scored,Points Allowed,Offense 1st Down,Total Yards Gained of Offense,Total yards Gained by Passing,Total Yards Gained by Rushing,Offense Turnovers,Defense 1st Down,Total Yards Allowed by Defense,Total Passing Yards Allowed by Defense,Total Rushing Yards Allowed by Defense,Defense Turnovers,Offense,Defense,Sp. Tms,Year
+0,0,Dolphins,Mon,September 12,,L,0,0-1,home,New England Patriots,24,38,25,488,390,98,1,27,622,516,106,1,8.63,-24.68,2.84,2011
+1,1,Dolphins,Sun,September 18,,L,0,0-2,home,Houston Texans,13,23,18,306,153,153,2,19,345,207,138,0,-5.49,-3.32,-6.91,2011
+2,2,Dolphins,Sun,September 25,,L,0,0-3,away,Cleveland Browns,16,17,22,369,231,138,2,19,280,210,70,1,0.92,-3.54,1.48,2011
+3,3,Dolphins,Sun,October 2,,L,0,0-4,away,San Diego Chargers,16,26,16,248,176,72,2,21,411,295,116,0,-2.35,-14.22,3.93,2011
+4,4,Dolphins,,,,,0,,home,<strong>Bye Week</strong>,0,0,0,0,0,0,0,0,0,0,0,0,,,,2011
+5,5,Dolphins,Mon,October 17,,L,0,0-5,away,New York Jets,6,24,17,308,190,118,3,13,296,192,104,1,-17.17,-1.08,2.59,2011
+6,6,1,1,1,1.0,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1.0,1.0,1.0,1
+7,7,Dolphins,Sun,October 30,,L,0,0-7,away,New York Giants,17,20,18,246,101,145,1,21,402,344,58,0,0.45,-8.35,3.75,2011
+8,8,Dolphins,Sun,November 6,,W,0,1-7,away,Kansas City Chiefs,31,3,17,351,244,107,0,20,343,227,116,0,14.45,12.57,-1.06,2011
+9,9,Dolphins,Sun,November 13,,W,0,2-7,home,Washington Redskins,20,9,20,303,200,103,2,16,246,185,61,2,-0.98,8.83,0.93,2011
+10,10,Dolphins,Sun,November 20,,W,0,3-7,home,Buffalo Bills,35,8,16,242,147,95,0,14,245,204,41,2,2.62,21.57,3.29,2011
+11,11,Dolphins,Thu,November 24,,L,0,3-8,away,Dallas Cowboys,19,20,18,352,263,89,1,19,303,218,85,2,-0.6,1.95,-2.35,2011
+12,12,Dolphins,Sun,December 4,,W,0,4-8,home,Oakland Raiders,34,14,23,362,153,209,0,18,304,258,46,1,13.16,4.43,4.64,2011
+13,13,Dolphins,Sun,December 11,,L,0,4-9,home,Philadelphia Eagles,10,26,11,204,95,109,3,18,239,188,51,2,-34.72,9.04,9.19,2011
+14,14,Dolphins,Sun,December 18,,W,0,5-9,away,Buffalo Bills,30,23,17,448,194,254,3,21,404,291,113,3,0.12,6.23,3.0,2011
+15,15,Dolphins,Sat,December 24,,L,0,5-10,away,New England Patriots,24,27,20,374,253,121,2,26,400,281,119,0,6.57,-10.6,1.32,2011
+16,16,Dolphins,Sun,January 1,,W,0,6-10,home,New York Jets,19,17,14,210,128,82,2,20,374,245,129,3,-8.54,5.63,5.47,2011

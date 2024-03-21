@@ -1,4 +1,4 @@
-,No.,Team,Player,Age,Position,Games Played,Games Started,FGA 0-19,FGM 0-19,FGA 20-29,FGM 20-29,FGA 30-39,FGM 30-39,FGA 40-49,FGM 40-49,FGA 50+,FGM 50+,Field Goals Attempted,Field Goals Made,Longest Field Goal Made,% of Field Goals Made,Extra Points Attempted,Extra Points Made,Extra Point Percentage,Kickoffs,Kickoff Yards,Kickoff Touchbacks,% Kickoff was a Touchback,Kickoff Average Yardage
-5,5,Cowboys,Dan Bailey,23,K,16,0,1,1,9,8,11,11,12,10,4,2,37,32,51,86.5%,39,39,100.0%,67,4243,24,35.8%,63.3
-18,18,Cowboys,David Buehler,24,K,4,0,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,18,1179,9,50.0%,65.5
-1,1,Cowboys,Mat McBriar,32,P,14,0,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,1,62,n/a,n/a,62.0
+,No.,Team,Player,Age,Position,Games Played,Games Started,FGA 0-19,FGM 0-19,FGA 20-29,FGM 20-29,FGA 30-39,FGM 30-39,FGA 40-49,FGM 40-49,FGA 50+,FGM 50+,Field Goals Attempted,Field Goals Made,Longest Field Goal Made,Per. of Field Goals Made,Extra Points Attempted,Extra Points Made,Extra Point Per.,Kickoffs,Kickoff Yards,Kickoff Touchbacks,Per. Kickoff was a Touchback,Kickoff Average Yardage,Year
+0,5,Cowboys,Dan Bailey,23,K,16,0,1,1,9,8,11,11,12,10,4,2,37,32,51,86.5,39,39,100.0,67,4243,24,35.8,63.3,2011
+1,18,Cowboys,David Buehler,24,K,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0.0,18,1179,9,50.0,65.5,2011
+2,1,Cowboys,Mat McBriar,32,P,14,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0.0,1,62,0,0.0,62.0,2011
