@@ -1,12 +1,12 @@
-,No.,Team,Player,Age,Pos,Games Played,Games Started,Rush TD,Reception TD,Punt Return TD,Kick Return TD,Fumble Return TD,Interception TD,Other TD,All Touchdown Scored,2-Point Conversions Made,Two-Point Conversions Attempted,Defensive Two-Point Conversions,Extra Points Made,Extra Points Allowed,Field Goals Made,Field Goals Attempted,Safeties Scored by Player/Team,Total Points Scored by all Means,Poins per Game
-8,8,Texans,Nick Novak,35,K,16,0,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,22,25,35,41,n/a,127,7.9
-26,26,Texans,Lamar Miller,25,RB,14,14,5,1,n/a,n/a,n/a,n/a,n/a,6,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,36,2.6
-87,87,Texans,C.J. Fiedorowicz,25,TE,15,15,n/a,4,n/a,n/a,n/a,n/a,n/a,4,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,24,1.6
-10,10,Texans,DeAndre Hopkins,24,WR,16,16,n/a,4,n/a,n/a,n/a,n/a,n/a,4,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,24,1.5
-15,15,Texans,Will Fuller,22,WR,14,13,n/a,2,1,n/a,n/a,n/a,n/a,3,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,18,1.3
-84,84,Texans,Ryan Griffin,26,TE,16,5,n/a,2,n/a,n/a,n/a,n/a,n/a,2,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,12,0.8
-17,17,Texans,Brock Osweiler,26,QB,15,14,2,n/a,n/a,n/a,n/a,n/a,n/a,2,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,12,0.8
-89,89,Texans,Stephen Anderson,23,TE,13,0,n/a,1,n/a,n/a,n/a,n/a,n/a,1,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,6,0.5
-28,28,Texans,Alfred Blue,25,RB,14,2,1,n/a,n/a,n/a,n/a,n/a,n/a,1,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,6,0.4
-25,25,Texans,Kareem Jackson,28,DB,14,13,n/a,n/a,n/a,n/a,n/a,1,n/a,1,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,6,0.4
-13,13,Texans,Braxton Miller,24,WR,10,6,n/a,1,n/a,n/a,n/a,n/a,n/a,1,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,6,0.6
+,No.,Team,Player,Age,Pos,Games Played,Games Started,Rush TD,Reception TD,Punt Return TD,Kick Return TD,Fumble Return TD,Interception TD,Other TD,All Touchdown Scored,2-Point Conversions Made,Two-Point Conversions Attempted,Defensive Two-Point Conversions,Extra Points Made,Extra Points Allowed,Field Goals Made,Field Goals Attempted,Safeties Scored by Player/Team,Total Points Scored by all Means,Poins per Game,Year
+0,8,Texans,Nick Novak,35,K,16,0,0,0,0,0,0,0,0,0,0,0,0,22,25,35,41,,127,7.9,2016
+1,26,Texans,Lamar Miller,25,RB,14,14,5,1,0,0,0,0,0,6,0,0,0,0,0,0,0,,36,2.6,2016
+2,87,Texans,C.J. Fiedorowicz,25,TE,15,15,0,4,0,0,0,0,0,4,0,0,0,0,0,0,0,,24,1.6,2016
+3,10,Texans,DeAndre Hopkins,24,WR,16,16,0,4,0,0,0,0,0,4,0,0,0,0,0,0,0,,24,1.5,2016
+4,15,Texans,Will Fuller,22,WR,14,13,0,2,1,0,0,0,0,3,0,0,0,0,0,0,0,,18,1.3,2016
+5,84,Texans,Ryan Griffin,26,TE,16,5,0,2,0,0,0,0,0,2,0,0,0,0,0,0,0,,12,0.8,2016
+6,17,Texans,Brock Osweiler,26,QB,15,14,2,0,0,0,0,0,0,2,0,0,0,0,0,0,0,,12,0.8,2016
+7,89,Texans,Stephen Anderson,23,TE,13,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,,6,0.5,2016
+8,28,Texans,Alfred Blue,25,RB,14,2,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,,6,0.4,2016
+9,25,Texans,Kareem Jackson,28,DB,14,13,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,,6,0.4,2016
+10,13,Texans,Braxton Miller,24,WR,10,6,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,,6,0.6,2016

@@ -1,18 +1,18 @@
-,Week,Team,Day,Date,Time,Win/Loss,Overtime,Team Record,Home/Away,Opponent,Points Scored,Points Allowed,Offense 1st Down,Total Yards Gained of Offense,Total yards Gained by Passing,Total Yards Gained by Rushing,Offense Turnovers,Defense 1st Down,Total Yards Allowed by Defense,Total Passing Yards Allowed by Defense,Total Rushing Yards Allowed by Defense,Defense Turnovers,Offense,Defense,Sp. Tms
-1,1,Commanders,Mon,September 12,7:11PM ET,L,n/a,0-1,home,Pittsburgh Steelers,16,38,18,384,329,55,2,23,437,290,147,1,-4.94,-22.31,0.19
-2,2,Commanders,Sun,September 18,1:03PM ET,L,n/a,0-2,home,Dallas Cowboys,23,27,24,432,350,82,1,24,380,278,102,1,9.76,-14.43,2.03
-3,3,Commanders,Sun,September 25,1:02PM ET,W,n/a,1-2,away,New York Giants,29,27,20,403,313,90,1,28,457,337,120,3,12.07,-7.82,1.86
-4,4,Commanders,Sun,October 2,1:05PM ET,W,n/a,2-2,home,Cleveland Browns,31,20,24,301,156,145,1,26,380,217,163,3,13.40,-4.68,-0.33
-5,5,Commanders,Sun,October 9,1:03PM ET,W,n/a,3-2,away,Baltimore Ravens,16,10,18,310,250,60,2,18,306,188,118,1,-2.61,8.56,-0.93
-6,6,Commanders,Sun,October 16,1:03PM ET,W,n/a,4-2,home,Philadelphia Eagles,27,20,26,493,263,230,1,12,239,145,94,n/a,12.56,4.90,-7.31
-7,7,Commanders,Sun,October 23,1:02PM ET,L,n/a,4-3,away,Detroit Lions,17,20,26,413,283,130,2,19,344,250,94,n/a,8.70,-11.55,-1.85
-8,8,Commanders,Sun,October 30,8:36AM ET,T,OT,4-3-1,away,Cincinnati Bengals,27,27,30,546,446,100,1,35,415,263,152,2,16.21,-13.63,-7.10
-9,9,Commanders,n/a,n/a,n/a,n/a,n/a,n/a,home,<strong>Bye Week</strong>,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
-10,10,Commanders,Sun,November 13,1:00PM ET,W,n/a,5-3-1,home,Minnesota Vikings,26,20,23,388,260,128,1,22,331,284,47,1,9.48,-3.73,1.30
-11,11,Commanders,Sun,November 20,8:30PM ET,W,n/a,6-3-1,home,Green Bay Packers,42,24,21,515,364,151,n/a,19,424,340,84,2,30.26,-10.04,1.17
-12,12,Commanders,Thu,November 24,4:30PM ET,L,n/a,6-4-1,away,Dallas Cowboys,26,31,25,505,449,56,n/a,24,353,190,163,n/a,24.94,-19.18,-11.43
-13,13,Commanders,Sun,December 4,4:25PM ET,L,n/a,6-5-1,away,Arizona Cardinals,23,31,19,333,246,87,2,24,369,281,88,n/a,3.39,-17.30,5.81
-14,14,Commanders,Sun,December 11,1:00PM ET,W,n/a,7-5-1,away,Philadelphia Eagles,27,22,16,334,227,107,1,24,383,288,95,2,10.94,-0.81,-5.46
-15,15,Commanders,Mon,December 19,8:30PM ET,L,n/a,7-6-1,home,Carolina Panthers,15,26,18,335,306,29,3,22,438,290,148,n/a,-14.58,-3.83,5.01
-16,16,Commanders,Sat,December 24,1:00PM ET,W,n/a,8-6-1,away,Chicago Bears,41,21,21,478,270,208,n/a,31,458,318,140,5,25.47,-7.65,0.12
-17,17,Commanders,Sun,January 1,4:25PM ET,L,n/a,8-7-1,home,New York Giants,10,19,16,284,246,38,3,17,332,171,161,n/a,-14.09,6.63,-3.53
+,Week,Team,Day,Date,Time,Win/Loss,Overtime,Team Record,Home/Away,Opponent,Points Scored,Points Allowed,Offense 1st Down,Total Yards Gained of Offense,Total yards Gained by Passing,Total Yards Gained by Rushing,Offense Turnovers,Defense 1st Down,Total Yards Allowed by Defense,Total Passing Yards Allowed by Defense,Total Rushing Yards Allowed by Defense,Defense Turnovers,Offense,Defense,Sp. Tms,Year
+0,0,Commanders,Mon,September 12,,L,0,0-1,home,Pittsburgh Steelers,16,38,18,384,329,55,2,23,437,290,147,1,-4.94,-22.31,0.19,2016
+1,1,Commanders,Sun,September 18,,L,0,0-2,home,Dallas Cowboys,23,27,24,432,350,82,1,24,380,278,102,1,9.76,-14.43,2.03,2016
+2,2,Commanders,Sun,September 25,,W,0,1-2,away,New York Giants,29,27,20,403,313,90,1,28,457,337,120,3,12.07,-7.82,1.86,2016
+3,3,Commanders,Sun,October 2,,W,0,2-2,home,Cleveland Browns,31,20,24,301,156,145,1,26,380,217,163,3,13.4,-4.68,-0.33,2016
+4,4,Commanders,Sun,October 9,,W,0,3-2,away,Baltimore Ravens,16,10,18,310,250,60,2,18,306,188,118,1,-2.61,8.56,-0.93,2016
+5,5,Commanders,Sun,October 16,,W,0,4-2,home,Philadelphia Eagles,27,20,26,493,263,230,1,12,239,145,94,0,12.56,4.9,-7.31,2016
+6,6,Commanders,Sun,October 23,,L,0,4-3,away,Detroit Lions,17,20,26,413,283,130,2,19,344,250,94,0,8.7,-11.55,-1.85,2016
+7,7,1,1,1,1.0,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1.0,1.0,1.0,1
+8,8,Commanders,,,,,0,,home,<strong>Bye Week</strong>,0,0,0,0,0,0,0,0,0,0,0,0,,,,2016
+9,9,Commanders,Sun,November 13,,W,0,5-3-1,home,Minnesota Vikings,26,20,23,388,260,128,1,22,331,284,47,1,9.48,-3.73,1.3,2016
+10,10,Commanders,Sun,November 20,,W,0,6-3-1,home,Green Bay Packers,42,24,21,515,364,151,0,19,424,340,84,2,30.26,-10.04,1.17,2016
+11,11,Commanders,Thu,November 24,,L,0,6-4-1,away,Dallas Cowboys,26,31,25,505,449,56,0,24,353,190,163,0,24.94,-19.18,-11.43,2016
+12,12,Commanders,Sun,December 4,,L,0,6-5-1,away,Arizona Cardinals,23,31,19,333,246,87,2,24,369,281,88,0,3.39,-17.3,5.81,2016
+13,13,Commanders,Sun,December 11,,W,0,7-5-1,away,Philadelphia Eagles,27,22,16,334,227,107,1,24,383,288,95,2,10.94,-0.81,-5.46,2016
+14,14,Commanders,Mon,December 19,,L,0,7-6-1,home,Carolina Panthers,15,26,18,335,306,29,3,22,438,290,148,0,-14.58,-3.83,5.01,2016
+15,15,Commanders,Sat,December 24,,W,0,8-6-1,away,Chicago Bears,41,21,21,478,270,208,0,31,458,318,140,5,25.47,-7.65,0.12,2016
+16,16,Commanders,Sun,January 1,,L,0,8-7-1,home,New York Giants,10,19,16,284,246,38,3,17,332,171,161,0,-14.09,6.63,-3.53,2016

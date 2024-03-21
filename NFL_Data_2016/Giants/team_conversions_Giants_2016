@@ -1,5 +1,5 @@
-,Player,Team,3rd Down Attempts in Game,3rd Down Conversions,3rd Down Conversion %,4th Down Attempts in Game,4th Down Conversions in Game,4th Down Conversion %,Red Zone Attempts,Touchdowns Scored After the Team Entered the Red Zone,% of the Time a Team Reaches the Red Zone and Scores a Touchdown
-Team Stats,Team Stats,Giants,219,78,35.6%,19,9,47.4%,43,23,53.5%
-Opp. Stats,Opp. Stats,Giants,238,84,35.3%,14,7,50.0%,43,17,39.5%
-Lg Rank Offense,Lg Rank Offense,Giants,n/a,n/a,28,n/a,n/a,18,n/a,n/a,19
-Lg Rank Defense,Lg Rank Defense,Giants,n/a,n/a,3,n/a,n/a,16,n/a,n/a,1
+,Player,Team,3rd Down Attempts in Game,3rd Down Conversions,3rd Down Conversion Per.,4th Down Attempts in Game,4th Down Conversions in Game,4th Down Conversion Per.,Red Zone Attempts,Touchdowns Scored After the Team Entered the Red Zone,Per. of the Time a Team Reaches the Red Zone and Scores a Touchdown,Year
+0,Team Stats,Giants,219.0,78.0,35.6,19.0,9.0,47.4,43.0,23.0,53.5,2016.0
+1,Opp. Stats,Giants,238.0,84.0,35.3,14.0,7.0,50.0,43.0,17.0,39.5,2016.0
+2,Lg Rank Offense,Giants,,,28.0,,,18.0,,,19.0,2016.0
+3,Lg Rank Defense,Giants,,,3.0,,,16.0,,,1.0,2016.0

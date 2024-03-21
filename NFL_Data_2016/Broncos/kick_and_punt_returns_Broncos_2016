@@ -1,6 +1,6 @@
-,No.,Team,Player,Age,Position,Games Played,Games Started,Punts Returned,Punts Return Yardage,Punts Returned for Touchdown,Longest Punt Return,Yards per Punt Return,Kickoff Returns,Yardage for Kickoffs Returned,Kickoffs Returned for a Touchdown,Longest Kickoff Return,Yards per Kickoff Return,All-purpose Yards
-11,11,Broncos,Jordan Norwood,30,WR,14,6,25,204,0,17,8.2,3,65,0,27,21.7,501
-19,19,Broncos,Kalif Raymond,22,WR,4,0,11,111,0,25,10.1,6,137,0,40,22.8,248
-14,14,Broncos,Cody Latimer,24,WR,12,1,n/a,n/a,0,n/a,n/a,8,200,0,46,25.0,276
-35,35,Broncos,Kapri Bibbs,23,RB,12,0,n/a,n/a,0,n/a,n/a,4,79,0,26,19.8,283
-21,21,Broncos,Aqib Talib,30,LCB,13,13,1,1,0,1,1.0,n/a,n/a,0,n/a,n/a,87
+,No.,Team,Player,Age,Position,Games Played,Games Started,Punts Returned,Punts Return Yardage,Punts Returned for Touchdown,Longest Punt Return,Yards per Punt Return,Kickoff Returns,Yardage for Kickoffs Returned,Kickoffs Returned for a Touchdown,Longest Kickoff Return,Yards per Kickoff Return,All-purpose Yards,Year
+0,11,Broncos,Jordan Norwood,30,WR,14,6,25,204,0,17,8.2,3,65,0,27,21.7,501,2016
+1,19,Broncos,Kalif Raymond,22,WR,4,0,11,111,0,25,10.1,6,137,0,40,22.8,248,2016
+2,14,Broncos,Cody Latimer,24,WR,12,1,0,0,0,0,,8,200,0,46,25.0,276,2016
+3,35,Broncos,Kapri Bibbs,23,RB,12,0,0,0,0,0,,4,79,0,26,19.8,283,2016
+4,21,Broncos,Aqib Talib,30,LCB,13,13,1,1,0,1,1.0,0,0,0,0,,87,2016

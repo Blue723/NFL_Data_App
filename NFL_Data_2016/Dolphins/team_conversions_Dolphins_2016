@@ -1,5 +1,5 @@
-,Player,Team,3rd Down Attempts in Game,3rd Down Conversions,3rd Down Conversion %,4th Down Attempts in Game,4th Down Conversions in Game,4th Down Conversion %,Red Zone Attempts,Touchdowns Scored After the Team Entered the Red Zone,% of the Time a Team Reaches the Red Zone and Scores a Touchdown
-Team Stats,Team Stats,Dolphins,188,69,36.7%,4,0,0.0%,47,26,55.3%
-Opp. Stats,Opp. Stats,Dolphins,213,77,36.2%,16,9,56.3%,51,29,56.9%
-Lg Rank Offense,Lg Rank Offense,Dolphins,n/a,n/a,25,n/a,n/a,32,n/a,n/a,15
-Lg Rank Defense,Lg Rank Defense,Dolphins,n/a,n/a,4,n/a,n/a,20,n/a,n/a,21
+,Player,Team,3rd Down Attempts in Game,3rd Down Conversions,3rd Down Conversion Per.,4th Down Attempts in Game,4th Down Conversions in Game,4th Down Conversion Per.,Red Zone Attempts,Touchdowns Scored After the Team Entered the Red Zone,Per. of the Time a Team Reaches the Red Zone and Scores a Touchdown,Year
+0,Team Stats,Dolphins,188.0,69.0,36.7,4.0,0.0,0.0,47.0,26.0,55.3,2016.0
+1,Opp. Stats,Dolphins,213.0,77.0,36.2,16.0,9.0,56.3,51.0,29.0,56.9,2016.0
+2,Lg Rank Offense,Dolphins,,,25.0,,,32.0,,,15.0,2016.0
+3,Lg Rank Defense,Dolphins,,,4.0,,,20.0,,,21.0,2016.0

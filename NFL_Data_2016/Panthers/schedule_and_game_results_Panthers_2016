@@ -1,18 +1,18 @@
-,Week,Team,Day,Date,Time,Win/Loss,Overtime,Team Record,Home/Away,Opponent,Points Scored,Points Allowed,Offense 1st Down,Total Yards Gained of Offense,Total yards Gained by Passing,Total Yards Gained by Rushing,Offense Turnovers,Defense 1st Down,Total Yards Allowed by Defense,Total Passing Yards Allowed by Defense,Total Rushing Yards Allowed by Defense,Defense Turnovers,Offense,Defense,Sp. Tms
-1,1,Panthers,Thu,September 8,8:40PM ET,L,n/a,0-1,away,Denver Broncos,20,21,21,333,176,157,1,21,307,159,148,3,6.53,-4.46,-3.92
-2,2,Panthers,Sun,September 18,1:03PM ET,W,n/a,1-1,home,San Francisco 49ers,46,27,26,529,353,176,4,16,302,237,65,3,10.97,13.97,-5.67
-3,3,Panthers,Sun,September 25,1:02PM ET,L,n/a,1-2,home,Minnesota Vikings,10,22,18,306,201,105,3,13,211,153,58,n/a,-12.29,5.70,-7.33
-4,4,Panthers,Sun,October 2,1:04PM ET,L,n/a,1-3,away,Atlanta Falcons,33,48,20,378,329,49,2,25,571,481,90,1,3.16,-22.38,3.49
-5,5,Panthers,Mon,October 10,8:04PM ET,L,n/a,1-4,home,Tampa Bay Buccaneers,14,17,20,414,278,136,4,20,315,202,113,n/a,2.26,-2.67,-3.05
-6,6,Panthers,Sun,October 16,1:03PM ET,L,n/a,1-5,away,New Orleans Saints,38,41,32,406,303,103,2,23,523,460,63,1,19.19,-22.49,0.27
-7,7,Panthers,n/a,n/a,n/a,n/a,n/a,n/a,home,<strong>Bye Week</strong>,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
-8,8,Panthers,Sun,October 30,12:47PM ET,W,n/a,2-5,home,Arizona Cardinals,30,20,19,349,208,141,1,22,340,316,24,2,1.07,6.19,3.45
-9,9,Panthers,Sun,November 6,4:05PM ET,W,n/a,3-5,away,Los Angeles Rams,13,10,16,244,185,59,n/a,18,339,280,59,1,-1.39,1.87,4.24
-10,10,Panthers,Sun,November 13,1:00PM ET,L,n/a,3-6,home,Kansas City Chiefs,17,20,22,341,242,99,2,18,256,165,91,1,-1.62,3.83,-5.28
-11,11,Panthers,Thu,November 17,8:25PM ET,W,n/a,4-6,home,New Orleans Saints,23,20,17,223,173,50,n/a,28,371,264,107,2,-4.79,-6.16,11.38
-12,12,Panthers,Sun,November 27,4:25PM ET,L,n/a,4-7,away,Oakland Raiders,32,35,19,358,229,129,2,22,366,310,56,2,3.35,-3.04,-3.44
-13,13,Panthers,Sun,December 4,8:30PM ET,L,n/a,4-8,away,Seattle Seahawks,7,40,14,271,182,89,2,29,534,294,240,1,-10.20,-22.22,0.15
-14,14,Panthers,Sun,December 11,1:00PM ET,W,n/a,5-8,home,San Diego Chargers,28,16,17,272,146,126,1,17,278,220,58,5,-5.57,9.16,6.31
-15,15,Panthers,Mon,December 19,8:30PM ET,W,n/a,6-8,away,Washington Redskins,26,15,22,438,290,148,n/a,18,335,306,29,3,3.83,14.58,-5.01
-16,16,Panthers,Sat,December 24,1:00PM ET,L,n/a,6-9,home,Atlanta Falcons,16,33,17,302,183,119,2,21,408,256,152,n/a,-10.89,-12.62,4.61
-17,17,Panthers,Sun,January 1,1:00PM ET,L,n/a,6-10,away,Tampa Bay Buccaneers,16,17,18,335,207,128,3,18,300,188,112,2,-8.61,6.76,-3.45
+,Week,Team,Day,Date,Time,Win/Loss,Overtime,Team Record,Home/Away,Opponent,Points Scored,Points Allowed,Offense 1st Down,Total Yards Gained of Offense,Total yards Gained by Passing,Total Yards Gained by Rushing,Offense Turnovers,Defense 1st Down,Total Yards Allowed by Defense,Total Passing Yards Allowed by Defense,Total Rushing Yards Allowed by Defense,Defense Turnovers,Offense,Defense,Sp. Tms,Year
+0,0,Panthers,Thu,September 8,,L,0,0-1,away,Denver Broncos,20,21,21,333,176,157,1,21,307,159,148,3,6.53,-4.46,-3.92,2016
+1,1,Panthers,Sun,September 18,,W,0,1-1,home,San Francisco 49ers,46,27,26,529,353,176,4,16,302,237,65,3,10.97,13.97,-5.67,2016
+2,2,Panthers,Sun,September 25,,L,0,1-2,home,Minnesota Vikings,10,22,18,306,201,105,3,13,211,153,58,0,-12.29,5.7,-7.33,2016
+3,3,Panthers,Sun,October 2,,L,0,1-3,away,Atlanta Falcons,33,48,20,378,329,49,2,25,571,481,90,1,3.16,-22.38,3.49,2016
+4,4,Panthers,Mon,October 10,,L,0,1-4,home,Tampa Bay Buccaneers,14,17,20,414,278,136,4,20,315,202,113,0,2.26,-2.67,-3.05,2016
+5,5,Panthers,Sun,October 16,,L,0,1-5,away,New Orleans Saints,38,41,32,406,303,103,2,23,523,460,63,1,19.19,-22.49,0.27,2016
+6,6,Panthers,,,,,0,,home,<strong>Bye Week</strong>,0,0,0,0,0,0,0,0,0,0,0,0,,,,2016
+7,7,Panthers,Sun,October 30,,W,0,2-5,home,Arizona Cardinals,30,20,19,349,208,141,1,22,340,316,24,2,1.07,6.19,3.45,2016
+8,8,Panthers,Sun,November 6,,W,0,3-5,away,Los Angeles Rams,13,10,16,244,185,59,0,18,339,280,59,1,-1.39,1.87,4.24,2016
+9,9,Panthers,Sun,November 13,,L,0,3-6,home,Kansas City Chiefs,17,20,22,341,242,99,2,18,256,165,91,1,-1.62,3.83,-5.28,2016
+10,10,Panthers,Thu,November 17,,W,0,4-6,home,New Orleans Saints,23,20,17,223,173,50,0,28,371,264,107,2,-4.79,-6.16,11.38,2016
+11,11,Panthers,Sun,November 27,,L,0,4-7,away,Oakland Raiders,32,35,19,358,229,129,2,22,366,310,56,2,3.35,-3.04,-3.44,2016
+12,12,Panthers,Sun,December 4,,L,0,4-8,away,Seattle Seahawks,7,40,14,271,182,89,2,29,534,294,240,1,-10.2,-22.22,0.15,2016
+13,13,Panthers,Sun,December 11,,W,0,5-8,home,San Diego Chargers,28,16,17,272,146,126,1,17,278,220,58,5,-5.57,9.16,6.31,2016
+14,14,Panthers,Mon,December 19,,W,0,6-8,away,Washington Redskins,26,15,22,438,290,148,0,18,335,306,29,3,3.83,14.58,-5.01,2016
+15,15,Panthers,Sat,December 24,,L,0,6-9,home,Atlanta Falcons,16,33,17,302,183,119,2,21,408,256,152,0,-10.89,-12.62,4.61,2016
+16,16,Panthers,Sun,January 1,,L,0,6-10,away,Tampa Bay Buccaneers,16,17,18,335,207,128,3,18,300,188,112,2,-8.61,6.76,-3.45,2016

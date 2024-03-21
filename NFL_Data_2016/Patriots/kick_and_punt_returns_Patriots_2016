@@ -1,11 +1,11 @@
-,No.,Team,Player,Age,Position,Games Played,Games Started,Punts Returned,Punts Return Yardage,Punts Returned for Touchdown,Longest Punt Return,Yards per Punt Return,Kickoff Returns,Yardage for Kickoffs Returned,Kickoffs Returned for a Touchdown,Longest Kickoff Return,Yards per Kickoff Return,All-purpose Yards
-80,80,Patriots,Danny Amendola,31,WR,12,4,18,121,0,30,6.7,5,129,0,73,25.8,493
-24,24,Patriots,Cyrus Jones,23,DB,10,1,11,46,0,13,4.2,8,180,0,43,22.5,226
-11,11,Patriots,Julian Edelman,30,WR,16,13,15,135,0,23,9.0,3,44,0,19,14.7,1342
-46,46,Patriots,James Develin,28,RB,16,4,n/a,n/a,0,n/a,n/a,3,35,0,15,11.7,53
-18,18,Patriots,Matthew Slater,31,WR,13,0,n/a,n/a,0,n/a,n/a,3,52,0,19,17.3,57
-33,33,Patriots,Dion Lewis,26,RB,7,5,n/a,n/a,0,n/a,n/a,2,35,0,23,17.5,412
-32,32,Patriots,Devin McCourty,29,FS,16,16,n/a,n/a,0,n/a,n/a,2,9,0,9,4.5,12
-28,28,Patriots,James White,24,RB,16,4,n/a,n/a,0,n/a,n/a,2,28,0,18,14.0,745
-23,23,Patriots,Patrick Chung,29,SS,16,16,1,7,0,7,7.0,n/a,n/a,0,n/a,n/a,11
-27,27,Patriots,D.J. Foster,23,WR,3,0,n/a,n/a,0,n/a,n/a,1,30,0,30,30.0,56
+,No.,Team,Player,Age,Position,Games Played,Games Started,Punts Returned,Punts Return Yardage,Punts Returned for Touchdown,Longest Punt Return,Yards per Punt Return,Kickoff Returns,Yardage for Kickoffs Returned,Kickoffs Returned for a Touchdown,Longest Kickoff Return,Yards per Kickoff Return,All-purpose Yards,Year
+0,80,Patriots,Danny Amendola,31,WR,12,4,18,121,0,30,6.7,5,129,0,73,25.8,493,2016
+1,24,Patriots,Cyrus Jones,23,DB,10,1,11,46,0,13,4.2,8,180,0,43,22.5,226,2016
+2,11,Patriots,Julian Edelman,30,WR,16,13,15,135,0,23,9.0,3,44,0,19,14.7,1342,2016
+3,46,Patriots,James Develin,28,RB,16,4,0,0,0,0,,3,35,0,15,11.7,53,2016
+4,18,Patriots,Matthew Slater,31,WR,13,0,0,0,0,0,,3,52,0,19,17.3,57,2016
+5,33,Patriots,Dion Lewis,26,RB,7,5,0,0,0,0,,2,35,0,23,17.5,412,2016
+6,32,Patriots,Devin McCourty,29,FS,16,16,0,0,0,0,,2,9,0,9,4.5,12,2016
+7,28,Patriots,James White,24,RB,16,4,0,0,0,0,,2,28,0,18,14.0,745,2016
+8,23,Patriots,Patrick Chung,29,SS,16,16,1,7,0,7,7.0,0,0,0,0,,11,2016
+9,27,Patriots,D.J. Foster,23,WR,3,0,0,0,0,0,,1,30,0,30,30.0,56,2016

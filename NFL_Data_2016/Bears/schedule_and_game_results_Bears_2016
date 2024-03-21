@@ -1,18 +1,18 @@
-,Week,Team,Day,Date,Time,Win/Loss,Overtime,Team Record,Home/Away,Opponent,Points Scored,Points Allowed,Offense 1st Down,Total Yards Gained of Offense,Total yards Gained by Passing,Total Yards Gained by Rushing,Offense Turnovers,Defense 1st Down,Total Yards Allowed by Defense,Total Passing Yards Allowed by Defense,Total Rushing Yards Allowed by Defense,Defense Turnovers,Offense,Defense,Sp. Tms
-1,1,Bears,Sun,September 11,1:05PM ET,L,n/a,0-1,away,Houston Texans,14,23,14,258,185,73,1,17,344,215,129,1,-8.94,-0.61,-1.42
-2,2,Bears,Mon,September 19,8:30PM ET,L,n/a,0-2,home,Philadelphia Eagles,14,29,16,284,220,64,3,21,280,180,100,n/a,-12.47,-1.68,-4.91
-3,3,Bears,Sun,September 25,8:31PM ET,L,n/a,0-3,away,Dallas Cowboys,17,31,21,390,312,78,2,25,447,248,199,1,3.42,-17.99,3.78
-4,4,Bears,Sun,October 2,1:00PM ET,W,n/a,1-3,home,Detroit Lions,17,14,23,408,294,114,n/a,16,263,197,66,2,7.93,7.47,-10.30
-5,5,Bears,Sun,October 9,1:02PM ET,L,n/a,1-4,away,Indianapolis Colts,23,29,25,522,397,125,1,20,396,298,98,n/a,11.01,-7.58,-9.67
-6,6,Bears,Sun,October 16,1:02PM ET,L,n/a,1-5,home,Jacksonville Jaguars,16,17,22,389,297,92,n/a,20,317,263,54,2,1.48,0.89,-2.46
-7,7,Bears,Thu,October 20,8:26PM ET,L,n/a,1-6,away,Green Bay Packers,10,26,13,189,120,69,2,32,406,303,103,1,-10.57,-10.91,9.44
-8,8,Bears,Mon,October 31,8:31PM ET,W,n/a,2-6,home,Minnesota Vikings,20,10,19,403,245,158,n/a,15,258,201,57,n/a,12.55,-0.28,-0.51
-9,9,Bears,n/a,n/a,n/a,n/a,n/a,n/a,home,<strong>Bye Week</strong>,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
-10,10,Bears,Sun,November 13,1:00PM ET,L,n/a,2-7,away,Tampa Bay Buccaneers,10,36,15,283,161,122,4,22,360,280,80,1,-20.97,-6.68,2.32
-11,11,Bears,Sun,November 20,1:00PM ET,L,n/a,2-8,away,New York Giants,16,22,17,315,222,93,1,19,329,227,102,n/a,2.68,-7.75,0.88
-12,12,Bears,Sun,November 27,1:00PM ET,L,n/a,2-9,home,Tennessee Titans,21,27,25,411,316,95,2,18,375,226,149,n/a,4.46,-12.63,3.88
-13,13,Bears,Sun,December 4,1:00PM ET,W,n/a,3-9,home,San Francisco 49ers,26,6,19,326,184,142,1,10,147,6,141,n/a,6.76,15.47,-3.40
-14,14,Bears,Sun,December 11,1:00PM ET,L,n/a,3-10,away,Detroit Lions,17,20,16,296,204,92,n/a,25,323,209,114,2,3.02,-7.22,1.03
-15,15,Bears,Sun,December 18,1:00PM ET,L,n/a,3-11,home,Green Bay Packers,27,30,29,449,354,95,4,20,451,225,226,n/a,9.17,-14.21,1.76
-16,16,Bears,Sat,December 24,1:00PM ET,L,n/a,3-12,home,Washington Redskins,21,41,31,458,318,140,5,21,478,270,208,n/a,7.65,-25.47,-0.12
-17,17,Bears,Sun,January 1,1:00PM ET,L,n/a,3-13,away,Minnesota Vikings,10,38,19,323,140,183,5,21,374,250,124,1,-10.13,-12.43,-2.95
+,Week,Team,Day,Date,Time,Win/Loss,Overtime,Team Record,Home/Away,Opponent,Points Scored,Points Allowed,Offense 1st Down,Total Yards Gained of Offense,Total yards Gained by Passing,Total Yards Gained by Rushing,Offense Turnovers,Defense 1st Down,Total Yards Allowed by Defense,Total Passing Yards Allowed by Defense,Total Rushing Yards Allowed by Defense,Defense Turnovers,Offense,Defense,Sp. Tms,Year
+0,0,Bears,Sun,September 11,,L,0,0-1,away,Houston Texans,14,23,14,258,185,73,1,17,344,215,129,1,-8.94,-0.61,-1.42,2016
+1,1,Bears,Mon,September 19,,L,0,0-2,home,Philadelphia Eagles,14,29,16,284,220,64,3,21,280,180,100,0,-12.47,-1.68,-4.91,2016
+2,2,Bears,Sun,September 25,,L,0,0-3,away,Dallas Cowboys,17,31,21,390,312,78,2,25,447,248,199,1,3.42,-17.99,3.78,2016
+3,3,Bears,Sun,October 2,,W,0,1-3,home,Detroit Lions,17,14,23,408,294,114,0,16,263,197,66,2,7.93,7.47,-10.3,2016
+4,4,Bears,Sun,October 9,,L,0,1-4,away,Indianapolis Colts,23,29,25,522,397,125,1,20,396,298,98,0,11.01,-7.58,-9.67,2016
+5,5,Bears,Sun,October 16,,L,0,1-5,home,Jacksonville Jaguars,16,17,22,389,297,92,0,20,317,263,54,2,1.48,0.89,-2.46,2016
+6,6,Bears,Thu,October 20,,L,0,1-6,away,Green Bay Packers,10,26,13,189,120,69,2,32,406,303,103,1,-10.57,-10.91,9.44,2016
+7,7,Bears,Mon,October 31,,W,0,2-6,home,Minnesota Vikings,20,10,19,403,245,158,0,15,258,201,57,0,12.55,-0.28,-0.51,2016
+8,8,Bears,,,,,0,,home,<strong>Bye Week</strong>,0,0,0,0,0,0,0,0,0,0,0,0,,,,2016
+9,9,Bears,Sun,November 13,,L,0,2-7,away,Tampa Bay Buccaneers,10,36,15,283,161,122,4,22,360,280,80,1,-20.97,-6.68,2.32,2016
+10,10,Bears,Sun,November 20,,L,0,2-8,away,New York Giants,16,22,17,315,222,93,1,19,329,227,102,0,2.68,-7.75,0.88,2016
+11,11,Bears,Sun,November 27,,L,0,2-9,home,Tennessee Titans,21,27,25,411,316,95,2,18,375,226,149,0,4.46,-12.63,3.88,2016
+12,12,Bears,Sun,December 4,,W,0,3-9,home,San Francisco 49ers,26,6,19,326,184,142,1,10,147,6,141,0,6.76,15.47,-3.4,2016
+13,13,Bears,Sun,December 11,,L,0,3-10,away,Detroit Lions,17,20,16,296,204,92,0,25,323,209,114,2,3.02,-7.22,1.03,2016
+14,14,Bears,Sun,December 18,,L,0,3-11,home,Green Bay Packers,27,30,29,449,354,95,4,20,451,225,226,0,9.17,-14.21,1.76,2016
+15,15,Bears,Sat,December 24,,L,0,3-12,home,Washington Redskins,21,41,31,458,318,140,5,21,478,270,208,0,7.65,-25.47,-0.12,2016
+16,16,Bears,Sun,January 1,,L,0,3-13,away,Minnesota Vikings,10,38,19,323,140,183,5,21,374,250,124,1,-10.13,-12.43,-2.95,2016

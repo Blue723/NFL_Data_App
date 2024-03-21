@@ -1,37 +1,37 @@
-,Rank,Team,Date,Opponent,Results,Quarter,Distance,Type,Detail
-1,1,49ers,2016-09-12,LAR,n/a,1,11,rush,Carlos Hyde
-2,2,49ers,2016-09-12,LAR,n/a,2,3,rush,Shaun Draughn
-3,3,49ers,2016-09-12,LAR,n/a,4,8,pass,Vance McDonald
-4,4,49ers,2016-09-12,LAR,n/a,4,1,rush,Carlos Hyde
-5,5,49ers,2016-09-18,CAR,"L, 27-46",2,28,pass,Torrey Smith
-6,6,49ers,2016-09-18,CAR,"L, 27-46",4,1,rush,Blaine Gabbert
-7,7,49ers,2016-09-18,CAR,"L, 27-46",4,75,pass,Vance McDonald
-8,8,49ers,2016-09-25,SEA,"L, 18-37",4,8,rush,Carlos Hyde
-9,9,49ers,2016-09-25,SEA,"L, 18-37",4,8,rush,Carlos Hyde
-10,10,49ers,2016-10-02,DAL,"L, 17-24",1,33,pass,Jeremy Kerley
-11,11,49ers,2016-10-02,DAL,"L, 17-24",2,3,rush,Carlos Hyde
-12,12,49ers,2016-10-06,ARI,"L, 21-33",2,9,pass,Jeremy Kerley
-13,13,49ers,2016-10-06,ARI,"L, 21-33",3,1,rush,Carlos Hyde
-14,14,49ers,2016-10-06,ARI,"L, 21-33",4,1,rush,Blaine Gabbert
-15,15,49ers,2016-10-16,BUF,"L, 16-45",2,53,pass,Torrey Smith
-16,16,49ers,2016-10-23,TAM,"L, 17-34",1,4,rush,Mike Davis
-17,17,49ers,2016-10-23,TAM,"L, 17-34",1,17,pass,Shaun Draughn
-18,18,49ers,2016-11-06,NOR,"L, 23-41",2,47,pass,DuJuan Harris
-19,19,49ers,2016-11-06,NOR,"L, 23-41",2,65,pass,Vance McDonald
-20,20,49ers,2016-11-13,ARI,"L, 20-23",2,17,pass,Jeremy Kerley
-21,21,49ers,2016-11-13,ARI,"L, 20-23",4,4,rush,Colin Kaepernick
-22,22,49ers,2016-11-20,NWE,"L, 17-30",2,18,pass,Vance McDonald
-23,23,49ers,2016-11-20,NWE,"L, 17-30",4,13,pass,Shaun Draughn
-24,24,49ers,2016-11-27,MIA,"L, 24-31",1,11,pass,Carlos Hyde
-25,25,49ers,2016-11-27,MIA,"L, 24-31",3,4,pass,Garrett Celek
-26,26,49ers,2016-11-27,MIA,"L, 24-31",4,1,pass,Torrey Smith
-27,27,49ers,2016-12-11,NYJ,"L, 17-23",1,7,pass,Carlos Hyde
-28,28,49ers,2016-12-11,NYJ,"L, 17-23",1,4,rush,Shaun Draughn
-29,29,49ers,2016-12-18,ATL,"L, 13-41",2,16,pass,Garrett Celek
-30,30,49ers,2016-12-18,ATL,"L, 13-41",2,5,pass,Rod Streater
-31,31,49ers,2016-12-24,LAR,"W, 22-21",1,19,pass,Carlos Hyde
-32,32,49ers,2016-12-24,LAR,"W, 22-21",4,13,rush,Colin Kaepernick
-33,33,49ers,2016-12-24,LAR,"W, 22-21",4,10,pass,Rod Streater
-34,34,49ers,2017-01-01,SEA,"L, 23-25",1,1,rush,Shaun Draughn
-35,35,49ers,2017-01-01,SEA,"L, 23-25",2,1,rush,Shaun Draughn
-36,36,49ers,2017-01-01,SEA,"L, 23-25",4,9,pass,Garrett Celek
+,Rank,Team,Date,Opponent,Win/Loss,Score,Quarter,Distance,Type,Detail,Year
+0,1,49ers,09/12/2016,LAR,,,1,11,rush,Carlos Hyde,2016
+1,2,49ers,09/12/2016,LAR,,,2,3,rush,Shaun Draughn,2016
+2,3,49ers,09/12/2016,LAR,,,4,8,pass,Vance McDonald,2016
+3,4,49ers,09/12/2016,LAR,,,4,1,rush,Carlos Hyde,2016
+4,5,49ers,09/18/2016,CAR,Loss, 27-46,2,28,pass,Torrey Smith,2016
+5,6,49ers,09/18/2016,CAR,Loss, 27-46,4,1,rush,Blaine Gabbert,2016
+6,7,49ers,09/18/2016,CAR,Loss, 27-46,4,75,pass,Vance McDonald,2016
+7,8,49ers,09/25/2016,SEA,Loss, 18-37,4,8,rush,Carlos Hyde,2016
+8,9,49ers,09/25/2016,SEA,Loss, 18-37,4,8,rush,Carlos Hyde,2016
+9,10,49ers,10/02/2016,DAL,Loss, 17-24,1,33,pass,Jeremy Kerley,2016
+10,11,49ers,10/02/2016,DAL,Loss, 17-24,2,3,rush,Carlos Hyde,2016
+11,12,49ers,10/06/2016,ARI,Loss, 21-33,2,9,pass,Jeremy Kerley,2016
+12,13,49ers,10/06/2016,ARI,Loss, 21-33,3,1,rush,Carlos Hyde,2016
+13,14,49ers,10/06/2016,ARI,Loss, 21-33,4,1,rush,Blaine Gabbert,2016
+14,15,49ers,10/16/2016,BUF,Loss, 16-45,2,53,pass,Torrey Smith,2016
+15,16,49ers,10/23/2016,TAM,Loss, 17-34,1,4,rush,Mike Davis,2016
+16,17,49ers,10/23/2016,TAM,Loss, 17-34,1,17,pass,Shaun Draughn,2016
+17,18,49ers,11/06/2016,NOR,Loss, 23-41,2,47,pass,DuJuan Harris,2016
+18,19,49ers,11/06/2016,NOR,Loss, 23-41,2,65,pass,Vance McDonald,2016
+19,20,49ers,11/13/2016,ARI,Loss, 20-23,2,17,pass,Jeremy Kerley,2016
+20,21,49ers,11/13/2016,ARI,Loss, 20-23,4,4,rush,Colin Kaepernick,2016
+21,22,49ers,11/20/2016,NWE,Loss, 17-30,2,18,pass,Vance McDonald,2016
+22,23,49ers,11/20/2016,NWE,Loss, 17-30,4,13,pass,Shaun Draughn,2016
+23,24,49ers,11/27/2016,MIA,Loss, 24-31,1,11,pass,Carlos Hyde,2016
+24,25,49ers,11/27/2016,MIA,Loss, 24-31,3,4,pass,Garrett Celek,2016
+25,26,49ers,11/27/2016,MIA,Loss, 24-31,4,1,pass,Torrey Smith,2016
+26,27,49ers,12/11/2016,NYJ,Loss, 17-23,1,7,pass,Carlos Hyde,2016
+27,28,49ers,12/11/2016,NYJ,Loss, 17-23,1,4,rush,Shaun Draughn,2016
+28,29,49ers,12/18/2016,ATL,Loss, 13-41,2,16,pass,Garrett Celek,2016
+29,30,49ers,12/18/2016,ATL,Loss, 13-41,2,5,pass,Rod Streater,2016
+30,31,49ers,12/24/2016,LAR,Win, 22-21,1,19,pass,Carlos Hyde,2016
+31,32,49ers,12/24/2016,LAR,Win, 22-21,4,13,rush,Colin Kaepernick,2016
+32,33,49ers,12/24/2016,LAR,Win, 22-21,4,10,pass,Rod Streater,2016
+33,34,49ers,01/01/2017,SEA,Loss, 23-25,1,1,rush,Shaun Draughn,2016
+34,35,49ers,01/01/2017,SEA,Loss, 23-25,2,1,rush,Shaun Draughn,2016
+35,36,49ers,01/01/2017,SEA,Loss, 23-25,4,9,pass,Garrett Celek,2016

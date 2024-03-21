@@ -1,5 +1,5 @@
-,No.,Team,Player,Age,Position,Games Played,Games Started,Punts Returned,Punts Return Yardage,Punts Returned for Touchdown,Longest Punt Return,Yards per Punt Return,Kickoff Returns,Yardage for Kickoffs Returned,Kickoffs Returned for a Touchdown,Longest Kickoff Return,Yards per Kickoff Return,All-purpose Yards
-30,30,Raiders,Jalen Richard,23,RB,16,0,34,306,0,47,9.0,17,402,0,50,23.6,1391
-22,22,Raiders,Taiwan Jones,28,RB,13,0,n/a,n/a,0,n/a,n/a,8,112,0,21,14.0,147
-38,38,Raiders,T.J. Carrie,26,DB,16,3,7,74,0,18,10.6,n/a,n/a,0,n/a,n/a,88
-33,33,Raiders,DeAndre Washington,23,RB,14,2,n/a,n/a,0,n/a,n/a,1,20,0,20,20.0,602
+,No.,Team,Player,Age,Position,Games Played,Games Started,Punts Returned,Punts Return Yardage,Punts Returned for Touchdown,Longest Punt Return,Yards per Punt Return,Kickoff Returns,Yardage for Kickoffs Returned,Kickoffs Returned for a Touchdown,Longest Kickoff Return,Yards per Kickoff Return,All-purpose Yards,Year
+0,30,Raiders,Jalen Richard,23,RB,16,0,34,306,0,47,9.0,17,402,0,50,23.6,1391,2016
+1,22,Raiders,Taiwan Jones,28,RB,13,0,0,0,0,0,,8,112,0,21,14.0,147,2016
+2,38,Raiders,T.J. Carrie,26,DB,16,3,7,74,0,18,10.6,0,0,0,0,,88,2016
+3,33,Raiders,DeAndre Washington,23,RB,14,2,0,0,0,0,,1,20,0,20,20.0,602,2016

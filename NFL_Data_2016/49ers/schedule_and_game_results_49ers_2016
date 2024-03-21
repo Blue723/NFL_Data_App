@@ -1,18 +1,18 @@
-,Week,Team,Day,Date,Time,Win/Loss,Overtime,Team Record,Home/Away,Opponent,Points Scored,Points Allowed,Offense 1st Down,Total Yards Gained of Offense,Total yards Gained by Passing,Total Yards Gained by Rushing,Offense Turnovers,Defense 1st Down,Total Yards Allowed by Defense,Total Passing Yards Allowed by Defense,Total Rushing Yards Allowed by Defense,Defense Turnovers,Offense,Defense,Sp. Tms
-1,1,49ers,Mon,September 12,10:20PM ET,W,n/a,1-0,home,Los Angeles Rams,28,0,28,320,170,150,1,10,185,120,65,2,5.10,25.61,-3.90
-2,2,49ers,Sun,September 18,1:03PM ET,L,n/a,1-1,away,Carolina Panthers,27,46,16,302,237,65,3,26,529,353,176,4,-13.97,-10.97,5.67
-3,3,49ers,Sun,September 25,4:05PM ET,L,n/a,1-2,away,Seattle Seahawks,18,37,12,254,119,135,1,18,418,291,127,2,-5.40,-9.29,-4.06
-4,4,49ers,Sun,October 2,4:25PM ET,L,n/a,1-3,home,Dallas Cowboys,17,24,14,295,189,106,1,26,428,234,194,n/a,2.03,-15.96,5.80
-5,5,49ers,Thu,October 6,8:27PM ET,L,n/a,1-4,home,Arizona Cardinals,21,33,25,286,135,151,3,17,288,116,172,n/a,-2.05,3.49,-11.20
-6,6,49ers,Sun,October 16,1:02PM ET,L,n/a,1-5,away,Buffalo Bills,16,45,16,300,167,133,1,29,492,179,313,2,-6.77,-19.86,-2.66
-7,7,49ers,Sun,October 23,4:05PM ET,L,n/a,1-6,home,Tampa Bay Buccaneers,17,34,20,273,113,160,3,27,513,264,249,1,-2.93,-14.93,1.95
-8,8,49ers,n/a,n/a,n/a,n/a,n/a,n/a,home,<strong>Bye Week</strong>,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
-9,9,49ers,Sun,November 6,4:05PM ET,L,n/a,1-7,home,New Orleans Saints,23,41,19,486,393,93,4,29,571,323,248,n/a,-3.20,-29.46,11.54
-10,10,49ers,Sun,November 13,4:25PM ET,L,n/a,1-8,away,Arizona Cardinals,20,23,15,281,198,83,1,26,443,363,80,4,-0.69,-6.62,4.31
-11,11,49ers,Sun,November 20,4:25PM ET,L,n/a,1-9,home,New England Patriots,17,30,20,299,177,122,n/a,28,444,273,171,n/a,1.68,-17.09,-1.82
-12,12,49ers,Sun,November 27,1:00PM ET,L,n/a,1-10,away,Miami Dolphins,24,31,25,475,282,193,2,19,358,263,95,n/a,12.23,-13.75,0.56
-13,13,49ers,Sun,December 4,1:00PM ET,L,n/a,1-11,away,Chicago Bears,6,26,10,147,6,141,n/a,19,326,184,142,1,-15.47,-6.76,3.40
-14,14,49ers,Sun,December 11,4:05PM ET,L,OT,1-12,home,New York Jets,17,23,17,364,116,248,n/a,24,404,216,188,1,1.32,-1.98,-5.34
-15,15,49ers,Sun,December 18,4:05PM ET,L,n/a,1-13,away,Atlanta Falcons,13,41,15,272,165,107,1,29,550,302,248,1,0.33,-28.85,1.86
-16,16,49ers,Sat,December 24,4:25PM ET,W,n/a,2-13,away,Los Angeles Rams,22,21,21,323,253,70,2,13,177,78,99,2,-4.52,10.68,-8.08
-17,17,49ers,Sun,January 1,4:25PM ET,L,n/a,2-14,home,Seattle Seahawks,23,25,14,253,191,62,2,18,376,289,87,n/a,-5.26,-5.68,6.18
+,Week,Team,Day,Date,Time,Win/Loss,Overtime,Team Record,Home/Away,Opponent,Points Scored,Points Allowed,Offense 1st Down,Total Yards Gained of Offense,Total yards Gained by Passing,Total Yards Gained by Rushing,Offense Turnovers,Defense 1st Down,Total Yards Allowed by Defense,Total Passing Yards Allowed by Defense,Total Rushing Yards Allowed by Defense,Defense Turnovers,Offense,Defense,Sp. Tms,Year
+0,0,49ers,Mon,September 12,,W,0,1-0,home,Los Angeles Rams,28,0,28,320,170,150,1,10,185,120,65,2,5.1,25.61,-3.9,2016
+1,1,49ers,Sun,September 18,,L,0,1-1,away,Carolina Panthers,27,46,16,302,237,65,3,26,529,353,176,4,-13.97,-10.97,5.67,2016
+2,2,49ers,Sun,September 25,,L,0,1-2,away,Seattle Seahawks,18,37,12,254,119,135,1,18,418,291,127,2,-5.4,-9.29,-4.06,2016
+3,3,49ers,Sun,October 2,,L,0,1-3,home,Dallas Cowboys,17,24,14,295,189,106,1,26,428,234,194,0,2.03,-15.96,5.8,2016
+4,4,49ers,Thu,October 6,,L,0,1-4,home,Arizona Cardinals,21,33,25,286,135,151,3,17,288,116,172,0,-2.05,3.49,-11.2,2016
+5,5,49ers,Sun,October 16,,L,0,1-5,away,Buffalo Bills,16,45,16,300,167,133,1,29,492,179,313,2,-6.77,-19.86,-2.66,2016
+6,6,49ers,Sun,October 23,,L,0,1-6,home,Tampa Bay Buccaneers,17,34,20,273,113,160,3,27,513,264,249,1,-2.93,-14.93,1.95,2016
+7,7,49ers,,,,,0,,home,<strong>Bye Week</strong>,0,0,0,0,0,0,0,0,0,0,0,0,,,,2016
+8,8,49ers,Sun,November 6,,L,0,1-7,home,New Orleans Saints,23,41,19,486,393,93,4,29,571,323,248,0,-3.2,-29.46,11.54,2016
+9,9,49ers,Sun,November 13,,L,0,1-8,away,Arizona Cardinals,20,23,15,281,198,83,1,26,443,363,80,4,-0.69,-6.62,4.31,2016
+10,10,49ers,Sun,November 20,,L,0,1-9,home,New England Patriots,17,30,20,299,177,122,0,28,444,273,171,0,1.68,-17.09,-1.82,2016
+11,11,49ers,Sun,November 27,,L,0,1-10,away,Miami Dolphins,24,31,25,475,282,193,2,19,358,263,95,0,12.23,-13.75,0.56,2016
+12,12,49ers,Sun,December 4,,L,0,1-11,away,Chicago Bears,6,26,10,147,6,141,0,19,326,184,142,1,-15.47,-6.76,3.4,2016
+13,13,1,1,1,1.0,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1.0,1.0,1.0,1
+14,14,49ers,Sun,December 18,,L,0,1-13,away,Atlanta Falcons,13,41,15,272,165,107,1,29,550,302,248,1,0.33,-28.85,1.86,2016
+15,15,49ers,Sat,December 24,,W,0,2-13,away,Los Angeles Rams,22,21,21,323,253,70,2,13,177,78,99,2,-4.52,10.68,-8.08,2016
+16,16,49ers,Sun,January 1,,L,0,2-14,home,Seattle Seahawks,23,25,14,253,191,62,2,18,376,289,87,0,-5.26,-5.68,6.18,2016

@@ -1,18 +1,18 @@
-,No.,Team,Player,Age,Position,Games Played,Games Started as an Offensive or Defensive Player,Rushing Attempts,Rushing Yards Gained,Rushing Touchdown,First Downs Rushing,Rushing Success Rate,Longest Rushing Attempt,Rushing Yards per Attempt,Rushing Yards per Game,Rushing Attempts per Game,Pass Targets,Receptions,Receiving Yards,Receiving Yards per Reception,Receiving Touchdowns,First Downs Receiving,Receiving Success Rate,Longest Reception,Receptions per Game,Receiving Yards per Game,Catch%,Receiving Yards per Target,Touches: Rushing Attempts and Receptions,Scrimmage Yards per Touch: Rushing + Receiving Yardage per Opportunity,Yards from Scrimmage: Receiving and Rushing Yards,Rushing and Receiving Touchdowns,Lost and Recovered Fumbles
-28,28,Raiders,Latavius Murray,26,RB,14,12,195,788,12,52,47.7,42,4.0,56.3,13.9,43,33,264,8.0,0,11,48.8,39,2.4,18.9,76.7%,6.1,228,4.6,1052,12,2
-33,33,Raiders,DeAndre Washington,23,RB,14,2,87,467,2,19,47.1,30,5.4,33.4,6.2,23,17,115,6.8,0,4,43.5,18,1.2,8.2,73.9%,5.0,104,5.6,582,2,1
-30,30,Raiders,Jalen Richard,23,RB,16,0,83,491,1,15,48.2,75,5.9,30.7,5.2,39,29,194,6.7,2,8,30.8,29,1.8,12.1,74.4%,5.0,112,6.1,685,3,n/a
-4,4,Raiders,Derek Carr,25,QB,15,15,39,70,0,5,30.8,13,1.8,4.7,2.6,n/a,n/a,n/a,n/a,0,n/a,n/a,n/a,n/a,n/a,n/a,n/a,39,1.8,70,0,5
-49,49,Raiders,Jamize Olawale,27,RB,16,7,17,47,2,5,35.3,17,2.8,2.9,1.1,14,12,227,18.9,1,5,64.3,75,0.8,14.2,85.7%,16.2,29,9.4,274,3,n/a
-16,16,Raiders,Johnny Holton,26,WR,15,0,6,43,0,2,33.3,29,7.2,2.9,0.4,3,2,34,17.0,0,2,66.7,30,0.1,2.3,66.7%,11.3,8,9.6,77,0,1
-14,14,Raiders,Matt McGloin,27,QB,3,1,3,-3,0,0,0.0,-1,-1.0,-1.0,1.0,n/a,n/a,n/a,n/a,0,n/a,n/a,n/a,n/a,n/a,n/a,n/a,3,-1.0,-3,0,n/a
-7,7,Raiders,Marquette King,28,P,16,0,2,27,0,n/a,0.0,27,13.5,1.7,0.1,n/a,n/a,n/a,n/a,0,n/a,n/a,n/a,n/a,n/a,n/a,n/a,2,13.5,27,0,1
-89,89,Raiders,Amari Cooper,22,WR,16,14,1,0,0,0,0.0,0,0.0,0.0,0.1,132,83,1153,13.9,5,49,46.2,64,5.2,72.1,62.9%,8.7,84,13.7,1153,5,2
-22,22,Raiders,Taiwan Jones,28,RB,13,0,1,-8,0,0,0.0,-8,-8.0,-0.6,0.1,4,4,43,10.8,0,3,75.0,16,0.3,3.3,100.0%,10.8,5,7.0,35,0,n/a
-15,15,Raiders,Michael Crabtree,29,WR,16,16,n/a,n/a,0,n/a,n/a,n/a,n/a,n/a,n/a,145,89,1003,11.3,8,56,52.4,56,5.6,62.7,61.4%,6.9,89,11.3,1003,8,2
-10,10,Raiders,Seth Roberts,25,WR,16,6,n/a,n/a,0,n/a,n/a,n/a,n/a,n/a,n/a,77,38,397,10.4,5,22,37.7,41,2.4,24.8,49.4%,5.2,38,10.4,397,5,n/a
-88,88,Raiders,Clive Walford,25,TE,15,8,n/a,n/a,0,n/a,n/a,n/a,n/a,n/a,n/a,52,33,359,10.9,3,19,42.3,31,2.2,23.9,63.5%,6.9,33,10.9,359,3,n/a
-81,81,Raiders,Mychal Rivera,26,TE,13,2,n/a,n/a,0,n/a,n/a,n/a,n/a,n/a,n/a,25,18,192,10.7,1,11,56.0,27,1.4,14.8,72.0%,7.7,18,10.7,192,1,n/a
-18,18,Raiders,Andre Holmes,28,WR,16,2,n/a,n/a,0,n/a,n/a,n/a,n/a,n/a,n/a,25,14,126,9.0,3,9,48.0,23,0.9,7.9,56.0%,5.0,14,9.0,126,3,n/a
-86,86,Raiders,Lee Smith,29,TE,4,4,n/a,n/a,0,n/a,n/a,n/a,n/a,n/a,n/a,6,6,29,4.8,0,n/a,50.0,12,1.5,7.3,100.0%,4.8,6,4.8,29,0,n/a
-72,72,Raiders,Donald Penn,33,LT,16,16,n/a,n/a,0,n/a,n/a,n/a,n/a,n/a,n/a,1,1,1,1.0,1,1,100.0,1,0.1,0.1,100.0%,1.0,1,1.0,1,1,n/a
+,No.,Team,Player,Age,Position,Games Played,Games Started as an Offensive or Defensive Player,Rushing Attempts,Rushing Yards Gained,Rushing Touchdown,First Downs Rushing,Rushing Success Rate,Longest Rushing Attempt,Rushing Yards per Attempt,Rushing Yards per Game,Rushing Attempts per Game,Pass Targets,Receptions,Receiving Yards,Receiving Yards per Reception,Receiving Touchdowns,First Downs Receiving,Receiving Success Rate,Longest Reception,Receptions per Game,Receiving Yards per Game,Catch Per.,Receiving Yards per Target,Touches: Rushing Attempts and Receptions,Scrimmage Yards per Touch: Rushing + Receiving Yardage per Opportunity,Yards from Scrimmage: Receiving and Rushing Yards,Rushing and Receiving Touchdowns,Lost and Recovered Fumbles,Year
+0,28,Raiders,Latavius Murray,26,RB,14,12,195,788,12,52,47.7,42,4.0,56.3,13.9,43,33,264,8.0,0,11,48.8,39,2.4,18.9,76.7,6.1,228,4.6,1052,12,2,2016
+1,33,Raiders,DeAndre Washington,23,RB,14,2,87,467,2,19,47.1,30,5.4,33.4,6.2,23,17,115,6.8,0,4,43.5,18,1.2,8.2,73.9,5.0,104,5.6,582,2,1,2016
+2,30,Raiders,Jalen Richard,23,RB,16,0,83,491,1,15,48.2,75,5.9,30.7,5.2,39,29,194,6.7,2,8,30.8,29,1.8,12.1,74.4,5.0,112,6.1,685,3,0,2016
+3,4,Raiders,Derek Carr,25,QB,15,15,39,70,0,5,30.8,13,1.8,4.7,2.6,0,0,0,,0,0,,0,,,0.0,,39,1.8,70,0,5,2016
+4,49,Raiders,Jamize Olawale,27,RB,16,7,17,47,2,5,35.3,17,2.8,2.9,1.1,14,12,227,18.9,1,5,64.3,75,0.8,14.2,85.7,16.2,29,9.4,274,3,0,2016
+5,16,Raiders,Johnny Holton,26,WR,15,0,6,43,0,2,33.3,29,7.2,2.9,0.4,3,2,34,17.0,0,2,66.7,30,0.1,2.3,66.7,11.3,8,9.6,77,0,1,2016
+6,14,Raiders,Matt McGloin,27,QB,3,1,3,-3,0,0,0.0,-1,-1.0,-1.0,1.0,0,0,0,,0,0,,0,,,0.0,,3,-1.0,-3,0,0,2016
+7,7,Raiders,Marquette King,28,P,16,0,2,27,0,0,0.0,27,13.5,1.7,0.1,0,0,0,,0,0,,0,,,0.0,,2,13.5,27,0,1,2016
+8,89,Raiders,Amari Cooper,22,WR,16,14,1,0,0,0,0.0,0,0.0,0.0,0.1,132,83,1153,13.9,5,49,46.2,64,5.2,72.1,62.9,8.7,84,13.7,1153,5,2,2016
+9,22,Raiders,Taiwan Jones,28,RB,13,0,1,-8,0,0,0.0,-8,-8.0,-0.6,0.1,4,4,43,10.8,0,3,75.0,16,0.3,3.3,100.0,10.8,5,7.0,35,0,0,2016
+10,15,Raiders,Michael Crabtree,29,WR,16,16,0,0,0,0,,0,,,,145,89,1003,11.3,8,56,52.4,56,5.6,62.7,61.4,6.9,89,11.3,1003,8,2,2016
+11,10,Raiders,Seth Roberts,25,WR,16,6,0,0,0,0,,0,,,,77,38,397,10.4,5,22,37.7,41,2.4,24.8,49.4,5.2,38,10.4,397,5,0,2016
+12,88,Raiders,Clive Walford,25,TE,15,8,0,0,0,0,,0,,,,52,33,359,10.9,3,19,42.3,31,2.2,23.9,63.5,6.9,33,10.9,359,3,0,2016
+13,81,Raiders,Mychal Rivera,26,TE,13,2,0,0,0,0,,0,,,,25,18,192,10.7,1,11,56.0,27,1.4,14.8,72.0,7.7,18,10.7,192,1,0,2016
+14,18,Raiders,Andre Holmes,28,WR,16,2,0,0,0,0,,0,,,,25,14,126,9.0,3,9,48.0,23,0.9,7.9,56.0,5.0,14,9.0,126,3,0,2016
+15,86,Raiders,Lee Smith,29,TE,4,4,0,0,0,0,,0,,,,6,6,29,4.8,0,0,50.0,12,1.5,7.3,100.0,4.8,6,4.8,29,0,0,2016
+16,72,Raiders,Donald Penn,33,LT,16,16,0,0,0,0,,0,,,,1,1,1,1.0,1,1,100.0,1,0.1,0.1,100.0,1.0,1,1.0,1,1,0,2016

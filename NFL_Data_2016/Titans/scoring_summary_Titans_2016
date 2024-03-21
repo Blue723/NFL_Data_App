@@ -1,13 +1,13 @@
-,No.,Team,Player,Age,Pos,Games Played,Games Started,Rush TD,Reception TD,Punt Return TD,Kick Return TD,Fumble Return TD,Interception TD,Other TD,All Touchdown Scored,2-Point Conversions Made,Two-Point Conversions Attempted,Defensive Two-Point Conversions,Extra Points Made,Extra Points Allowed,Field Goals Made,Field Goals Attempted,Safeties Scored by Player/Team,Total Points Scored by all Means,Poins per Game
-4,4,Titans,Ryan Succop,30,K,16,0,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,39,41,22,24,n/a,105,6.6
-29,29,Titans,DeMarco Murray,28,RB,16,16,9,3,n/a,n/a,n/a,n/a,n/a,12,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,72,4.5
-18,18,Titans,Rishard Matthews,27,WR,16,9,n/a,9,n/a,n/a,n/a,n/a,n/a,9,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,54,3.4
-82,82,Titans,Delanie Walker,32,TE,15,9,n/a,7,n/a,n/a,n/a,n/a,n/a,7,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,42,2.8
-22,22,Titans,Derrick Henry,22,RB,15,2,5,n/a,n/a,n/a,n/a,n/a,n/a,5,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,30,2.0
-13,13,Titans,Kendall Wright,27,WR,11,4,n/a,3,n/a,n/a,n/a,n/a,n/a,3,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,18,1.6
-80,80,Titans,Anthony Fasano,32,TE,16,10,n/a,2,n/a,n/a,n/a,n/a,n/a,2,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,12,0.8
-81,81,Titans,Andre Johnson,35,WR,8,4,n/a,2,n/a,n/a,n/a,n/a,n/a,2,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,12,1.5
-8,8,Titans,Marcus Mariota,23,QB,15,15,2,n/a,n/a,n/a,n/a,n/a,n/a,2,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,12,0.8
-19,19,Titans,Tajae Sharpe,22,WR,16,10,n/a,2,n/a,n/a,n/a,n/a,n/a,2,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,12,0.8
-90,90,Titans,DaQuan Jones,25,LDE,16,16,n/a,n/a,n/a,n/a,1,n/a,n/a,1,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,6,0.4
-77,77,Titans,Taylor Lewan,25,LT,16,16,n/a,1,n/a,n/a,n/a,n/a,n/a,1,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,6,0.4
+,No.,Team,Player,Age,Pos,Games Played,Games Started,Rush TD,Reception TD,Punt Return TD,Kick Return TD,Fumble Return TD,Interception TD,Other TD,All Touchdown Scored,2-Point Conversions Made,Two-Point Conversions Attempted,Defensive Two-Point Conversions,Extra Points Made,Extra Points Allowed,Field Goals Made,Field Goals Attempted,Safeties Scored by Player/Team,Total Points Scored by all Means,Poins per Game,Year
+0,4,Titans,Ryan Succop,30,K,16,0,0,0,0,0,0,0,0,0,0,0,0,39,41,22,24,,105,6.6,2016
+1,29,Titans,DeMarco Murray,28,RB,16,16,9,3,0,0,0,0,0,12,0,0,0,0,0,0,0,,72,4.5,2016
+2,18,Titans,Rishard Matthews,27,WR,16,9,0,9,0,0,0,0,0,9,0,0,0,0,0,0,0,,54,3.4,2016
+3,82,Titans,Delanie Walker,32,TE,15,9,0,7,0,0,0,0,0,7,0,0,0,0,0,0,0,,42,2.8,2016
+4,22,Titans,Derrick Henry,22,RB,15,2,5,0,0,0,0,0,0,5,0,0,0,0,0,0,0,,30,2.0,2016
+5,13,Titans,Kendall Wright,27,WR,11,4,0,3,0,0,0,0,0,3,0,0,0,0,0,0,0,,18,1.6,2016
+6,80,Titans,Anthony Fasano,32,TE,16,10,0,2,0,0,0,0,0,2,0,0,0,0,0,0,0,,12,0.8,2016
+7,81,Titans,Andre Johnson,35,WR,8,4,0,2,0,0,0,0,0,2,0,0,0,0,0,0,0,,12,1.5,2016
+8,8,Titans,Marcus Mariota,23,QB,15,15,2,0,0,0,0,0,0,2,0,0,0,0,0,0,0,,12,0.8,2016
+9,19,Titans,Tajae Sharpe,22,WR,16,10,0,2,0,0,0,0,0,2,0,0,0,0,0,0,0,,12,0.8,2016
+10,90,Titans,DaQuan Jones,25,LDE,16,16,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,,6,0.4,2016
+11,77,Titans,Taylor Lewan,25,LT,16,16,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,,6,0.4,2016

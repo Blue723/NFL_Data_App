@@ -1,18 +1,18 @@
-,No.,Team,Player,Age,Position,Games Played,Games Started as an Offensive or Defensive Player,Rushing Attempts,Rushing Yards Gained,Rushing Touchdown,First Downs Rushing,Rushing Success Rate,Longest Rushing Attempt,Rushing Yards per Attempt,Rushing Yards per Game,Rushing Attempts per Game,Pass Targets,Receptions,Receiving Yards,Receiving Yards per Reception,Receiving Touchdowns,First Downs Receiving,Receiving Success Rate,Longest Reception,Receptions per Game,Receiving Yards per Game,Catch%,Receiving Yards per Target,Touches: Rushing Attempts and Receptions,Scrimmage Yards per Touch: Rushing + Receiving Yardage per Opportunity,Yards from Scrimmage: Receiving and Rushing Yards,Rushing and Receiving Touchdowns,Lost and Recovered Fumbles
-24,24,Eagles,Ryan Mathews,29,RB,13,8,155,661,8,40,51.0,30,4.3,50.8,11.9,14,13,115,8.8,1,7,57.1,27,1.0,8.8,92.9%,8.2,168,4.6,776,9,3
-43,43,Eagles,Darren Sproles,33,RB,15,5,94,438,2,22,52.1,25,4.7,29.2,6.3,71,52,427,8.2,2,19,45.1,73,3.5,28.5,73.2%,6.0,146,5.9,865,4,1
-28,28,Eagles,Wendell Smallwood,22,RB,13,3,77,312,1,20,46.8,19,4.1,24.0,5.9,13,6,55,9.2,0,1,38.5,18,0.5,4.2,46.2%,4.2,83,4.4,367,1,1
-11,11,Eagles,Carson Wentz,24,QB,16,16,46,150,2,17,47.8,17,3.3,9.4,2.9,1,1,7,7.0,0,0,100.0,7,0.1,0.4,100.0%,7.0,47,3.3,157,2,14
-34,34,Eagles,Kenjon Barner,27,RB,13,0,27,129,2,9,51.9,19,4.8,9.9,2.1,11,5,42,8.4,0,3,27.3,15,0.4,3.2,45.5%,3.8,32,5.3,171,2,n/a
-39,39,Eagles,Byron Marshall,22,RB,3,0,19,64,0,6,42.1,12,3.4,21.3,6.3,5,3,10,3.3,0,1,20.0,7,1.0,3.3,60.0%,2.0,22,3.4,74,0,n/a
-35,35,Eagles,Terrell Watson,23,RB,1,0,9,28,1,2,55.6,8,3.1,28.0,9.0,1,1,5,5.0,0,0,0.0,5,1.0,5.0,100.0%,5.0,10,3.3,33,1,n/a
-17,17,Eagles,Nelson Agholor,23,WR,15,14,5,14,0,0,40.0,5,2.8,0.9,0.3,69,36,365,10.1,2,15,39.1,40,2.4,24.3,52.2%,5.3,41,9.2,379,2,1
-13,13,Eagles,Josh Huff,25,WR,7,2,3,10,0,1,33.3,10,3.3,1.4,0.4,17,13,72,5.5,1,4,41.2,14,1.9,10.3,76.5%,4.2,16,5.1,82,1,n/a
-16,16,Eagles,Bryce Treggs,22,WR,9,1,2,7,0,2,100.0,4,3.5,0.8,0.2,12,3,80,26.7,0,3,25.0,58,0.3,8.9,25.0%,6.7,5,17.4,87,0,n/a
-8,8,Eagles,Donnie Jones,36,P,16,0,1,0,0,n/a,0.0,0,0.0,0.0,0.1,n/a,n/a,n/a,n/a,0,n/a,n/a,n/a,n/a,n/a,n/a,n/a,1,0.0,n/a,0,1
-86,86,Eagles,Zach Ertz,26,TE,14,12,n/a,n/a,0,n/a,n/a,n/a,n/a,n/a,n/a,106,78,816,10.5,4,42,57.5,30,5.6,58.3,73.6%,7.7,78,10.5,816,4,n/a
-81,81,Eagles,Jordan Matthews,24,WR,14,13,n/a,n/a,0,n/a,n/a,n/a,n/a,n/a,n/a,117,73,804,11.0,3,38,48.7,54,5.2,57.4,62.4%,6.9,73,11.0,804,3,1
-47,47,Eagles,Trey Burton,25,TE,15,4,n/a,n/a,0,n/a,n/a,n/a,n/a,n/a,n/a,60,37,327,8.8,1,21,43.3,32,2.5,21.8,61.7%,5.5,37,8.8,327,1,n/a
-18,18,Eagles,Dorial Green-Beckham,23,WR,15,7,n/a,n/a,0,n/a,n/a,n/a,n/a,n/a,n/a,74,36,392,10.9,2,25,44.6,26,2.4,26.1,48.6%,5.3,36,10.9,392,2,n/a
-87,87,Eagles,Brent Celek,31,TE,16,8,n/a,n/a,0,n/a,n/a,n/a,n/a,n/a,n/a,19,14,155,11.1,0,8,68.4,24,0.9,9.7,73.7%,8.2,14,11.1,155,0,1
-19,19,Eagles,Paul Turner,23,WR,4,2,n/a,n/a,0,n/a,n/a,n/a,n/a,n/a,n/a,14,9,126,14.0,0,6,50.0,41,2.3,31.5,64.3%,9.0,9,14.0,126,0,n/a
+,No.,Team,Player,Age,Position,Games Played,Games Started as an Offensive or Defensive Player,Rushing Attempts,Rushing Yards Gained,Rushing Touchdown,First Downs Rushing,Rushing Success Rate,Longest Rushing Attempt,Rushing Yards per Attempt,Rushing Yards per Game,Rushing Attempts per Game,Pass Targets,Receptions,Receiving Yards,Receiving Yards per Reception,Receiving Touchdowns,First Downs Receiving,Receiving Success Rate,Longest Reception,Receptions per Game,Receiving Yards per Game,Catch Per.,Receiving Yards per Target,Touches: Rushing Attempts and Receptions,Scrimmage Yards per Touch: Rushing + Receiving Yardage per Opportunity,Yards from Scrimmage: Receiving and Rushing Yards,Rushing and Receiving Touchdowns,Lost and Recovered Fumbles,Year
+0,24,Eagles,Ryan Mathews,29,RB,13,8,155,661,8,40,51.0,30,4.3,50.8,11.9,14,13,115,8.8,1,7,57.1,27,1.0,8.8,92.9,8.2,168,4.6,776,9,3,2016
+1,43,Eagles,Darren Sproles,33,RB,15,5,94,438,2,22,52.1,25,4.7,29.2,6.3,71,52,427,8.2,2,19,45.1,73,3.5,28.5,73.2,6.0,146,5.9,865,4,1,2016
+2,28,Eagles,Wendell Smallwood,22,RB,13,3,77,312,1,20,46.8,19,4.1,24.0,5.9,13,6,55,9.2,0,1,38.5,18,0.5,4.2,46.2,4.2,83,4.4,367,1,1,2016
+3,11,Eagles,Carson Wentz,24,QB,16,16,46,150,2,17,47.8,17,3.3,9.4,2.9,1,1,7,7.0,0,0,100.0,7,0.1,0.4,100.0,7.0,47,3.3,157,2,14,2016
+4,34,Eagles,Kenjon Barner,27,RB,13,0,27,129,2,9,51.9,19,4.8,9.9,2.1,11,5,42,8.4,0,3,27.3,15,0.4,3.2,45.5,3.8,32,5.3,171,2,0,2016
+5,39,Eagles,Byron Marshall,22,RB,3,0,19,64,0,6,42.1,12,3.4,21.3,6.3,5,3,10,3.3,0,1,20.0,7,1.0,3.3,60.0,2.0,22,3.4,74,0,0,2016
+6,35,Eagles,Terrell Watson,23,RB,1,0,9,28,1,2,55.6,8,3.1,28.0,9.0,1,1,5,5.0,0,0,0.0,5,1.0,5.0,100.0,5.0,10,3.3,33,1,0,2016
+7,17,Eagles,Nelson Agholor,23,WR,15,14,5,14,0,0,40.0,5,2.8,0.9,0.3,69,36,365,10.1,2,15,39.1,40,2.4,24.3,52.2,5.3,41,9.2,379,2,1,2016
+8,13,Eagles,Josh Huff,25,WR,7,2,3,10,0,1,33.3,10,3.3,1.4,0.4,17,13,72,5.5,1,4,41.2,14,1.9,10.3,76.5,4.2,16,5.1,82,1,0,2016
+9,16,Eagles,Bryce Treggs,22,WR,9,1,2,7,0,2,100.0,4,3.5,0.8,0.2,12,3,80,26.7,0,3,25.0,58,0.3,8.9,25.0,6.7,5,17.4,87,0,0,2016
+10,8,Eagles,Donnie Jones,36,P,16,0,1,0,0,0,0.0,0,0.0,0.0,0.1,0,0,0,,0,0,,0,,,0.0,,1,0.0,0,0,1,2016
+11,86,Eagles,Zach Ertz,26,TE,14,12,0,0,0,0,,0,,,,106,78,816,10.5,4,42,57.5,30,5.6,58.3,73.6,7.7,78,10.5,816,4,0,2016
+12,81,Eagles,Jordan Matthews,24,WR,14,13,0,0,0,0,,0,,,,117,73,804,11.0,3,38,48.7,54,5.2,57.4,62.4,6.9,73,11.0,804,3,1,2016
+13,47,Eagles,Trey Burton,25,TE,15,4,0,0,0,0,,0,,,,60,37,327,8.8,1,21,43.3,32,2.5,21.8,61.7,5.5,37,8.8,327,1,0,2016
+14,18,Eagles,Dorial Green-Beckham,23,WR,15,7,0,0,0,0,,0,,,,74,36,392,10.9,2,25,44.6,26,2.4,26.1,48.6,5.3,36,10.9,392,2,0,2016
+15,87,Eagles,Brent Celek,31,TE,16,8,0,0,0,0,,0,,,,19,14,155,11.1,0,8,68.4,24,0.9,9.7,73.7,8.2,14,11.1,155,0,1,2016
+16,19,Eagles,Paul Turner,23,WR,4,2,0,0,0,0,,0,,,,14,9,126,14.0,0,6,50.0,41,2.3,31.5,64.3,9.0,9,14.0,126,0,0,2016

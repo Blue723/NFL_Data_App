@@ -1,16 +1,16 @@
-,No.,Team,Player,Age,Pos,Games Played,Games Started,Rush TD,Reception TD,Punt Return TD,Kick Return TD,Fumble Return TD,Interception TD,Other TD,All Touchdown Scored,2-Point Conversions Made,Two-Point Conversions Attempted,Defensive Two-Point Conversions,Extra Points Made,Extra Points Allowed,Field Goals Made,Field Goals Attempted,Safeties Scored by Player/Team,Total Points Scored by all Means,Poins per Game
-2,2,Buffalos,Dan Carpenter,31,K,16,0,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,40,45,19,25,n/a,97,6.1
-25,25,Buffalos,LeSean McCoy,28,RB,15,15,13,1,n/a,n/a,n/a,n/a,n/a,14,1,n/a,n/a,n/a,n/a,n/a,n/a,n/a,86,5.7
-35,35,Buffalos,Mike Gillislee,26,RB,15,1,8,1,n/a,n/a,n/a,n/a,n/a,9,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,54,3.6
-5,5,Buffalos,Tyrod Taylor,27,QB,15,15,6,n/a,n/a,n/a,n/a,n/a,n/a,6,1,n/a,n/a,n/a,n/a,n/a,n/a,n/a,38,2.5
-85,85,Buffalos,Charles Clay,27,TE,15,15,n/a,4,n/a,n/a,n/a,n/a,n/a,4,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,24,1.6
-17,17,Buffalos,Justin Hunter,25,WR,12,5,n/a,4,n/a,n/a,n/a,n/a,n/a,4,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,24,2.0
-88,88,Buffalos,Marquise Goodwin,26,WR,15,9,n/a,3,n/a,n/a,n/a,n/a,n/a,3,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,18,1.2
-21,21,Buffalos,Nickell Robey-Coleman,24,DB,16,3,n/a,n/a,n/a,n/a,1,1,n/a,2,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,12,0.8
-14,14,Buffalos,Sammy Watkins,23,WR,8,8,n/a,2,n/a,n/a,n/a,n/a,n/a,2,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,12,1.5
-22,22,Buffalos,Reggie Bush,31,RB,13,0,1,n/a,n/a,n/a,n/a,n/a,n/a,1,1,n/a,n/a,n/a,n/a,n/a,n/a,n/a,8,0.6
-11,11,Buffalos,Greg Salas,28,WR,2,1,n/a,1,n/a,n/a,n/a,n/a,n/a,1,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,6,3.0
-23,23,Buffalos,Aaron Williams,26,SS,7,5,n/a,n/a,n/a,n/a,1,n/a,n/a,1,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,6,0.9
-31,31,Buffalos,Jonathan Williams,22,RB,11,0,1,n/a,n/a,n/a,n/a,n/a,n/a,1,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,6,0.5
-10,10,Buffalos,Robert Woods,24,WR,13,10,n/a,1,n/a,n/a,n/a,n/a,n/a,1,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,6,0.5
-84,84,Buffalos,Nick O'Leary,24,RB,16,7,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,1,n/a,n/a,n/a,n/a,n/a,n/a,n/a,2,0.1
+,No.,Team,Player,Age,Pos,Games Played,Games Started,Rush TD,Reception TD,Punt Return TD,Kick Return TD,Fumble Return TD,Interception TD,Other TD,All Touchdown Scored,2-Point Conversions Made,Two-Point Conversions Attempted,Defensive Two-Point Conversions,Extra Points Made,Extra Points Allowed,Field Goals Made,Field Goals Attempted,Safeties Scored by Player/Team,Total Points Scored by all Means,Poins per Game,Year
+0,2,Buffalos,Dan Carpenter,31,K,16,0,0,0,0,0,0,0,0,0,0,0,0,40,45,19,25,,97,6.1,2016
+1,25,Buffalos,LeSean McCoy,28,RB,15,15,13,1,0,0,0,0,0,14,1,0,0,0,0,0,0,,86,5.7,2016
+2,35,Buffalos,Mike Gillislee,26,RB,15,1,8,1,0,0,0,0,0,9,0,0,0,0,0,0,0,,54,3.6,2016
+3,5,Buffalos,Tyrod Taylor,27,QB,15,15,6,0,0,0,0,0,0,6,1,0,0,0,0,0,0,,38,2.5,2016
+4,85,Buffalos,Charles Clay,27,TE,15,15,0,4,0,0,0,0,0,4,0,0,0,0,0,0,0,,24,1.6,2016
+5,17,Buffalos,Justin Hunter,25,WR,12,5,0,4,0,0,0,0,0,4,0,0,0,0,0,0,0,,24,2.0,2016
+6,88,Buffalos,Marquise Goodwin,26,WR,15,9,0,3,0,0,0,0,0,3,0,0,0,0,0,0,0,,18,1.2,2016
+7,21,Buffalos,Nickell Robey-Coleman,24,DB,16,3,0,0,0,0,1,1,0,2,0,0,0,0,0,0,0,,12,0.8,2016
+8,14,Buffalos,Sammy Watkins,23,WR,8,8,0,2,0,0,0,0,0,2,0,0,0,0,0,0,0,,12,1.5,2016
+9,22,Buffalos,Reggie Bush,31,RB,13,0,1,0,0,0,0,0,0,1,1,0,0,0,0,0,0,,8,0.6,2016
+10,11,Buffalos,Greg Salas,28,WR,2,1,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,,6,3.0,2016
+11,23,Buffalos,Aaron Williams,26,SS,7,5,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,,6,0.9,2016
+12,31,Buffalos,Jonathan Williams,22,RB,11,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,,6,0.5,2016
+13,10,Buffalos,Robert Woods,24,WR,13,10,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,,6,0.5,2016
+14,84,Buffalos,Nick O'Leary,24,RB,16,7,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,,2,0.1,2016
