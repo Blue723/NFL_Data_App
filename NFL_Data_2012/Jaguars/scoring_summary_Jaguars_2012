@@ -1,12 +1,12 @@
-,No.,Team,Player,Age,Pos,Games Played,Games Started,Rush TD,Reception TD,Punt Return TD,Kick Return TD,Fumble Return TD,Interception TD,Other TD,All Touchdown Scored,2-Point Conversions Made,Two-Point Conversions Attempted,Defensive Two-Point Conversions,Extra Points Made,Extra Points Allowed,Field Goals Made,Field Goals Attempted,Safeties Scored by Player/Team,Total Points Scored by all Means,Poins per Game
-10,10,Jaguars,Josh Scobee,30,K,16,0,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,18,19,25,28,n/a,93,5.8
-84,84,Jaguars,Cecil Shorts,25,WR,14,9,n/a,7,n/a,n/a,n/a,n/a,n/a,7,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,42,3.0
-14,14,Jaguars,Justin Blackmon,22,WR,16,14,n/a,5,n/a,n/a,n/a,n/a,n/a,5,1,n/a,n/a,n/a,n/a,n/a,n/a,n/a,32,2.0
-89,89,Jaguars,Marcedes Lewis,28,TE,16,15,n/a,4,n/a,n/a,n/a,n/a,n/a,4,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,24,1.5
-23,23,Jaguars,Rashad Jennings,27,RB,10,6,2,n/a,n/a,n/a,n/a,n/a,n/a,2,1,n/a,n/a,n/a,n/a,n/a,n/a,n/a,14,1.4
-32,32,Jaguars,Maurice Jones-Drew,27,RB,6,5,1,1,n/a,n/a,n/a,n/a,n/a,2,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,12,2.0
-24,24,Jaguars,Montell Owens,28,RB,13,4,1,n/a,n/a,n/a,n/a,n/a,n/a,1,1,n/a,n/a,n/a,n/a,n/a,n/a,n/a,8,0.6
-7,7,Jaguars,Chad Henne,27,QB,10,6,1,n/a,n/a,n/a,n/a,n/a,n/a,1,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,6,0.6
-16,16,Jaguars,Jordan Shipley,27,WR,6,2,n/a,1,n/a,n/a,n/a,n/a,n/a,1,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,6,1.0
-86,86,Jaguars,Micheal Spurlock,29,WR,6,0,n/a,1,n/a,n/a,n/a,n/a,n/a,1,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,6,1.0
-68,68,Jaguars,Guy Whimper,29,RT,16,6,n/a,1,n/a,n/a,n/a,n/a,n/a,1,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,6,0.4
+,No.,Team,Player,Age,Pos,Games Played,Games Started,Rush TD,Reception TD,Punt Return TD,Kick Return TD,Fumble Return TD,Interception TD,Other TD,All Touchdown Scored,2-Point Conversions Made,Two-Point Conversions Attempted,Defensive Two-Point Conversions,Extra Points Made,Extra Points Allowed,Field Goals Made,Field Goals Attempted,Safeties Scored by Player/Team,Total Points Scored by all Means,Poins per Game,Year
+0,10,Jaguars,Josh Scobee,30,K,16,0,0,0,0,0,0,0,0,0,0,0,0,18,19,25,28,,93,5.8,2012
+1,84,Jaguars,Cecil Shorts,25,WR,14,9,0,7,0,0,0,0,0,7,0,0,0,0,0,0,0,,42,3.0,2012
+2,14,Jaguars,Justin Blackmon,22,WR,16,14,0,5,0,0,0,0,0,5,1,0,0,0,0,0,0,,32,2.0,2012
+3,89,Jaguars,Marcedes Lewis,28,TE,16,15,0,4,0,0,0,0,0,4,0,0,0,0,0,0,0,,24,1.5,2012
+4,23,Jaguars,Rashad Jennings,27,RB,10,6,2,0,0,0,0,0,0,2,1,0,0,0,0,0,0,,14,1.4,2012
+5,32,Jaguars,Maurice Jones-Drew,27,RB,6,5,1,1,0,0,0,0,0,2,0,0,0,0,0,0,0,,12,2.0,2012
+6,24,Jaguars,Montell Owens,28,RB,13,4,1,0,0,0,0,0,0,1,1,0,0,0,0,0,0,,8,0.6,2012
+7,7,Jaguars,Chad Henne,27,QB,10,6,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,,6,0.6,2012
+8,16,Jaguars,Jordan Shipley,27,WR,6,2,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,,6,1.0,2012
+9,86,Jaguars,Micheal Spurlock,29,WR,6,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,,6,1.0,2012
+10,68,Jaguars,Guy Whimper,29,RT,16,6,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,,6,0.4,2012

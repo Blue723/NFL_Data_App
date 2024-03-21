@@ -1,10 +1,10 @@
-,No.,Team,Player,Age,Position,Games Played,Games Started,Punts Returned,Punts Return Yardage,Punts Returned for Touchdown,Longest Punt Return,Yards per Punt Return,Kickoff Returns,Yardage for Kickoffs Returned,Kickoffs Returned for a Touchdown,Longest Kickoff Return,Yards per Kickoff Return,All-purpose Yards
-23,23,Bears,Devin Hester,30,WR,15,5,40,331,0,44,8.3,24,621,0,40,25.9,1200
-14,14,Bears,Eric Weems,27,WR,16,1,1,0,0,0,0.0,13,231,0,27,17.8,259
-86,86,Bears,Kyle Adams,24,TE,15,2,n/a,n/a,0,n/a,n/a,3,38,0,15,12.7,78
-80,80,Bears,Earl Bennett,25,WR,12,4,1,2,0,2,2.0,2,24,0,18,12.0,401
-25,25,Bears,Armando Allen,23,RB,15,0,n/a,n/a,0,n/a,n/a,2,10,0,7,5.0,150
-98,98,Bears,Corey Wootton,25,LDE,16,7,n/a,n/a,0,n/a,n/a,2,0,0,0,0.0,0
-38,38,Bears,Zackary Bowman,28,DB,11,0,1,0,0,0,0.0,n/a,n/a,0,n/a,n/a,1
-30,30,Bears,D.J. Moore,25,DB,13,2,1,0,0,0,0.0,n/a,n/a,0,n/a,n/a,2
-20,20,Bears,Craig Steltz,26,DB,13,0,n/a,n/a,0,n/a,n/a,1,5,0,5,5.0,5
+,No.,Team,Player,Age,Position,Games Played,Games Started,Punts Returned,Punts Return Yardage,Punts Returned for Touchdown,Longest Punt Return,Yards per Punt Return,Kickoff Returns,Yardage for Kickoffs Returned,Kickoffs Returned for a Touchdown,Longest Kickoff Return,Yards per Kickoff Return,All-purpose Yards,Year
+0,23,Bears,Devin Hester,30,WR,15,5,40,331,0,44,8.3,24,621,0,40,25.9,1200,2012
+1,14,Bears,Eric Weems,27,WR,16,1,1,0,0,0,0.0,13,231,0,27,17.8,259,2012
+2,86,Bears,Kyle Adams,24,TE,15,2,0,0,0,0,,3,38,0,15,12.7,78,2012
+3,80,Bears,Earl Bennett,25,WR,12,4,1,2,0,2,2.0,2,24,0,18,12.0,401,2012
+4,25,Bears,Armando Allen,23,RB,15,0,0,0,0,0,,2,10,0,7,5.0,150,2012
+5,98,Bears,Corey Wootton,25,LDE,16,7,0,0,0,0,,2,0,0,0,0.0,0,2012
+6,38,Bears,Zackary Bowman,28,DB,11,0,1,0,0,0,0.0,0,0,0,0,,1,2012
+7,30,Bears,D.J. Moore,25,DB,13,2,1,0,0,0,0.0,0,0,0,0,,2,2012
+8,20,Bears,Craig Steltz,26,DB,13,0,0,0,0,0,,1,5,0,5,5.0,5,2012

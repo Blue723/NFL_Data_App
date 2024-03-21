@@ -1,16 +1,16 @@
-,No.,Team,Player,Age,Pos,Games Played,Games Started,Rush TD,Reception TD,Punt Return TD,Kick Return TD,Fumble Return TD,Interception TD,Other TD,All Touchdown Scored,2-Point Conversions Made,Two-Point Conversions Attempted,Defensive Two-Point Conversions,Extra Points Made,Extra Points Allowed,Field Goals Made,Field Goals Attempted,Safeties Scored by Player/Team,Total Points Scored by all Means,Poins per Game
-4,4,Seahawks,Stephen Hauschka,27,K,16,0,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,46,48,24,27,n/a,118,7.4
-24,24,Seahawks,Marshawn Lynch,26,RB,16,15,11,1,n/a,n/a,n/a,n/a,n/a,12,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,72,4.5
-18,18,Seahawks,Sidney Rice,26,WR,16,16,n/a,7,n/a,n/a,n/a,n/a,n/a,7,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,42,2.6
-81,81,Seahawks,Golden Tate,24,WR,15,15,n/a,7,n/a,n/a,n/a,n/a,n/a,7,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,42,2.8
-3,3,Seahawks,Russell Wilson,24,QB,16,16,4,n/a,n/a,n/a,n/a,n/a,n/a,4,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,24,1.5
-89,89,Seahawks,Doug Baldwin,24,WR,14,4,n/a,3,n/a,n/a,n/a,n/a,n/a,3,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,18,1.3
-85,85,Seahawks,Anthony McCoy,25,TE,16,5,n/a,3,n/a,n/a,n/a,n/a,n/a,3,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,18,1.1
-86,86,Seahawks,Zach Miller,27,TE,16,15,n/a,3,n/a,n/a,n/a,n/a,n/a,3,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,18,1.1
-26,26,Seahawks,Michael Robinson,29,FB,16,6,n/a,2,n/a,n/a,n/a,n/a,n/a,2,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,12,0.8
-25,25,Seahawks,Richard Sherman,24,LCB,16,16,n/a,n/a,n/a,n/a,n/a,1,1,2,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,12,0.8
-33,33,Seahawks,Leon Washington,30,RB,16,0,1,n/a,n/a,1,n/a,n/a,n/a,2,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,12,0.8
-17,17,Seahawks,Braylon Edwards,29,WR,10,1,n/a,1,n/a,n/a,n/a,n/a,n/a,1,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,6,0.6
-32,32,Seahawks,Jeron Johnson,24,DB,16,0,n/a,n/a,n/a,n/a,n/a,n/a,1,1,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,6,0.4
-53,53,Seahawks,Malcolm Smith,23,LB,16,3,n/a,n/a,n/a,n/a,1,n/a,n/a,1,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,6,0.4
-29,29,Seahawks,Earl Thomas,23,FS,16,16,n/a,n/a,n/a,n/a,n/a,1,n/a,1,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,6,0.4
+,No.,Team,Player,Age,Pos,Games Played,Games Started,Rush TD,Reception TD,Punt Return TD,Kick Return TD,Fumble Return TD,Interception TD,Other TD,All Touchdown Scored,2-Point Conversions Made,Two-Point Conversions Attempted,Defensive Two-Point Conversions,Extra Points Made,Extra Points Allowed,Field Goals Made,Field Goals Attempted,Safeties Scored by Player/Team,Total Points Scored by all Means,Poins per Game,Year
+0,4,Seahawks,Stephen Hauschka,27,K,16,0,0,0,0,0,0,0,0,0,0,0,0,46,48,24,27,,118,7.4,2012
+1,24,Seahawks,Marshawn Lynch,26,RB,16,15,11,1,0,0,0,0,0,12,0,0,0,0,0,0,0,,72,4.5,2012
+2,18,Seahawks,Sidney Rice,26,WR,16,16,0,7,0,0,0,0,0,7,0,0,0,0,0,0,0,,42,2.6,2012
+3,81,Seahawks,Golden Tate,24,WR,15,15,0,7,0,0,0,0,0,7,0,0,0,0,0,0,0,,42,2.8,2012
+4,3,Seahawks,Russell Wilson,24,QB,16,16,4,0,0,0,0,0,0,4,0,0,0,0,0,0,0,,24,1.5,2012
+5,89,Seahawks,Doug Baldwin,24,WR,14,4,0,3,0,0,0,0,0,3,0,0,0,0,0,0,0,,18,1.3,2012
+6,85,Seahawks,Anthony McCoy,25,TE,16,5,0,3,0,0,0,0,0,3,0,0,0,0,0,0,0,,18,1.1,2012
+7,86,Seahawks,Zach Miller,27,TE,16,15,0,3,0,0,0,0,0,3,0,0,0,0,0,0,0,,18,1.1,2012
+8,26,Seahawks,Michael Robinson,29,FB,16,6,0,2,0,0,0,0,0,2,0,0,0,0,0,0,0,,12,0.8,2012
+9,25,Seahawks,Richard Sherman,24,LCB,16,16,0,0,0,0,0,1,1,2,0,0,0,0,0,0,0,,12,0.8,2012
+10,33,Seahawks,Leon Washington,30,RB,16,0,1,0,0,1,0,0,0,2,0,0,0,0,0,0,0,,12,0.8,2012
+11,17,Seahawks,Braylon Edwards,29,WR,10,1,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,,6,0.6,2012
+12,32,Seahawks,Jeron Johnson,24,DB,16,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,,6,0.4,2012
+13,53,Seahawks,Malcolm Smith,23,LB,16,3,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,,6,0.4,2012
+14,29,Seahawks,Earl Thomas,23,FS,16,16,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,,6,0.4,2012

@@ -1,9 +1,9 @@
-,No.,Team,Player,Age,Position,Games Played,Games Started,Punts Returned,Punts Return Yardage,Punts Returned for Touchdown,Longest Punt Return,Yards per Punt Return,Kickoff Returns,Yardage for Kickoffs Returned,Kickoffs Returned for a Touchdown,Longest Kickoff Return,Yards per Kickoff Return,All-purpose Yards
-28,28,Raiders,Phillip Adams,24,DB,15,2,25,139,0,47,5.6,n/a,n/a,0,n/a,n/a,139
-31,31,Raiders,Coye Francies,26,DB,15,0,n/a,n/a,0,n/a,n/a,20,475,0,32,23.8,475
-25,25,Raiders,Mike Goodson,25,RB,12,0,n/a,n/a,0,n/a,n/a,16,359,0,51,22.4,775
-17,17,Raiders,Denarius Moore,24,WR,15,15,9,32,0,19,3.6,n/a,n/a,0,n/a,n/a,768
-32,32,Raiders,Jeremy Stewart,23,RB,4,0,n/a,n/a,0,n/a,n/a,3,43,0,16,14.3,206
-22,22,Raiders,Taiwan Jones,24,RB,14,0,n/a,n/a,0,n/a,n/a,2,22,0,16,11.0,52
-45,45,Raiders,Marcel Reece,27,RB,16,14,n/a,n/a,0,n/a,n/a,1,36,0,36,36.0,780
-34,34,Raiders,Mike Mitchell,25,DB,16,2,0,2,0,2,n/a,n/a,n/a,0,n/a,n/a,2
+,No.,Team,Player,Age,Position,Games Played,Games Started,Punts Returned,Punts Return Yardage,Punts Returned for Touchdown,Longest Punt Return,Yards per Punt Return,Kickoff Returns,Yardage for Kickoffs Returned,Kickoffs Returned for a Touchdown,Longest Kickoff Return,Yards per Kickoff Return,All-purpose Yards,Year
+0,28,Raiders,Phillip Adams,24,DB,15,2,25,139,0,47,5.6,0,0,0,0,,139,2012
+1,31,Raiders,Coye Francies,26,DB,15,0,0,0,0,0,,20,475,0,32,23.8,475,2012
+2,25,Raiders,Mike Goodson,25,RB,12,0,0,0,0,0,,16,359,0,51,22.4,775,2012
+3,17,Raiders,Denarius Moore,24,WR,15,15,9,32,0,19,3.6,0,0,0,0,,768,2012
+4,32,Raiders,Jeremy Stewart,23,RB,4,0,0,0,0,0,,3,43,0,16,14.3,206,2012
+5,22,Raiders,Taiwan Jones,24,RB,14,0,0,0,0,0,,2,22,0,16,11.0,52,2012
+6,45,Raiders,Marcel Reece,27,RB,16,14,0,0,0,0,,1,36,0,36,36.0,780,2012
+7,34,Raiders,Mike Mitchell,25,DB,16,2,0,2,0,2,,0,0,0,0,,2,2012

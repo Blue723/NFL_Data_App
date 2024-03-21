@@ -1,21 +1,21 @@
-,Week,Team,Day,Date,Time,Win/Loss,Overtime,Team Record,Home/Away,Opponent,Points Scored,Points Allowed,Offense 1st Down,Total Yards Gained of Offense,Total yards Gained by Passing,Total Yards Gained by Rushing,Offense Turnovers,Defense 1st Down,Total Yards Allowed by Defense,Total Passing Yards Allowed by Defense,Total Rushing Yards Allowed by Defense,Defense Turnovers,Offense,Defense,Sp. Tms
-1,1,Texans,Sun,September 9,1:03PM ET,W,n/a,1-0,home,Miami Dolphins,30,10,19,337,254,83,n/a,15,275,199,76,4,5.26,28.02,-13.73
-2,2,Texans,Sun,September 16,1:03PM ET,W,n/a,2-0,away,Jacksonville Jaguars,27,7,28,411,195,216,n/a,9,117,52,65,1,13.96,17.45,-8.29
-3,3,Texans,Sun,September 23,4:25PM ET,W,n/a,3-0,away,Denver Broncos,31,25,23,436,284,152,2,24,375,316,59,1,11.08,-6.82,1.21
-4,4,Texans,Sun,September 30,1:03PM ET,W,n/a,4-0,home,Tennessee Titans,38,14,16,297,202,95,n/a,17,325,167,158,3,6.09,16.37,1.06
-5,5,Texans,Mon,October 8,8:40PM ET,W,n/a,5-0,away,New York Jets,23,17,18,378,209,169,1,15,286,217,69,2,2.86,10.26,-6.34
-6,6,Texans,Sun,October 14,8:30PM ET,L,n/a,5-1,home,Green Bay Packers,24,42,23,321,231,90,3,25,427,328,99,n/a,0.13,-19.84,2.97
-7,7,Texans,Sun,October 21,1:02PM ET,W,n/a,6-1,home,Baltimore Ravens,43,13,27,420,239,181,n/a,12,176,121,55,2,17.98,19.80,-6.88
-8,8,Texans,n/a,n/a,n/a,n/a,n/a,n/a,home,<strong>Bye Week</strong>,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
-9,9,Texans,Sun,November 4,1:02PM ET,W,n/a,7-1,home,Buffalo Bills,21,9,21,374,256,118,n/a,17,304,230,74,1,8.35,4.28,-1.34
-10,10,Texans,Sun,November 11,8:31PM ET,W,n/a,8-1,away,Chicago Bears,13,6,13,215,88,127,2,8,249,134,115,4,-15.99,26.28,-1.41
-11,11,Texans,Sun,November 18,1:03PM ET,W,OT,9-1,home,Jacksonville Jaguars,43,37,39,653,504,149,3,17,458,372,86,1,22.81,-10.25,-9.42
-12,12,Texans,Thu,November 22,12:39PM ET,W,OT,10-1,away,Detroit Lions,34,31,26,501,296,205,1,29,525,419,106,1,14.30,-12.59,-1.01
-13,13,Texans,Sun,December 2,1:02PM ET,W,n/a,11-1,away,Tennessee Titans,24,10,16,331,207,124,n/a,17,354,265,89,6,-5.40,22.99,0.72
-14,14,Texans,Mon,December 10,8:40PM ET,L,n/a,11-2,away,New England Patriots,14,42,19,323,223,100,1,27,419,289,130,1,-6.13,-20.98,0.88
-15,15,Texans,Sun,December 16,1:02PM ET,W,n/a,12-2,home,Indianapolis Colts,29,17,23,417,239,178,n/a,19,272,148,124,1,12.73,-0.25,-2.84
-16,16,Texans,Sun,December 23,1:03PM ET,L,n/a,12-3,home,Minnesota Vikings,6,23,11,187,153,34,2,22,345,171,174,1,-17.73,-0.98,1.45
-17,17,Texans,Sun,December 30,1:02PM ET,L,n/a,12-4,away,Indianapolis Colts,16,28,19,352,250,102,2,19,265,184,81,n/a,3.14,-10.35,-7.95
-n/a,n/a,Texans,n/a,<strong>Playoffs</strong>,n/a,n/a,n/a,n/a,home,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
-Wild Card,Wild Card,Texans,Sat,January 5,4:35PM ET,W,n/a,13-4,home,Cincinnati Bengals,19,13,24,420,262,158,1,12,198,118,80,1,0.95,10.95,-4.81
-Division,Division,Texans,Sun,January 13,4:40PM ET,L,n/a,13-5,away,New England Patriots,28,41,25,425,334,91,1,24,457,335,122,n/a,9.61,-20.49,0.69
+,Week,Team,Day,Date,Time,Win/Loss,Overtime,Team Record,Home/Away,Opponent,Points Scored,Points Allowed,Offense 1st Down,Total Yards Gained of Offense,Total yards Gained by Passing,Total Yards Gained by Rushing,Offense Turnovers,Defense 1st Down,Total Yards Allowed by Defense,Total Passing Yards Allowed by Defense,Total Rushing Yards Allowed by Defense,Defense Turnovers,Offense,Defense,Sp. Tms,Year
+0,0,Texans,Sun,September 9,,W,0,1-0,home,Miami Dolphins,30,10,19,337,254,83,0,15,275,199,76,4,5.26,28.02,-13.73,2012
+1,1,Texans,Sun,September 16,,W,0,2-0,away,Jacksonville Jaguars,27,7,28,411,195,216,0,9,117,52,65,1,13.96,17.45,-8.29,2012
+2,2,Texans,Sun,September 23,,W,0,3-0,away,Denver Broncos,31,25,23,436,284,152,2,24,375,316,59,1,11.08,-6.82,1.21,2012
+3,3,Texans,Sun,September 30,,W,0,4-0,home,Tennessee Titans,38,14,16,297,202,95,0,17,325,167,158,3,6.09,16.37,1.06,2012
+4,4,Texans,Mon,October 8,,W,0,5-0,away,New York Jets,23,17,18,378,209,169,1,15,286,217,69,2,2.86,10.26,-6.34,2012
+5,5,Texans,Sun,October 14,,L,0,5-1,home,Green Bay Packers,24,42,23,321,231,90,3,25,427,328,99,0,0.13,-19.84,2.97,2012
+6,6,Texans,Sun,October 21,,W,0,6-1,home,Baltimore Ravens,43,13,27,420,239,181,0,12,176,121,55,2,17.98,19.8,-6.88,2012
+7,7,Texans,,,,,0,,home,<strong>Bye Week</strong>,0,0,0,0,0,0,0,0,0,0,0,0,,,,2012
+8,8,Texans,Sun,November 4,,W,0,7-1,home,Buffalo Bills,21,9,21,374,256,118,0,17,304,230,74,1,8.35,4.28,-1.34,2012
+9,9,Texans,Sun,November 11,,W,0,8-1,away,Chicago Bears,13,6,13,215,88,127,2,8,249,134,115,4,-15.99,26.28,-1.41,2012
+10,10,1,1,1,1.0,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1.0,1.0,1.0,1
+11,11,1,1,1,1.0,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1.0,1.0,1.0,1
+12,12,Texans,Sun,December 2,,W,0,11-1,away,Tennessee Titans,24,10,16,331,207,124,0,17,354,265,89,6,-5.4,22.99,0.72,2012
+13,13,Texans,Mon,December 10,,L,0,11-2,away,New England Patriots,14,42,19,323,223,100,1,27,419,289,130,1,-6.13,-20.98,0.88,2012
+14,14,Texans,Sun,December 16,,W,0,12-2,home,Indianapolis Colts,29,17,23,417,239,178,0,19,272,148,124,1,12.73,-0.25,-2.84,2012
+15,15,Texans,Sun,December 23,,L,0,12-3,home,Minnesota Vikings,6,23,11,187,153,34,2,22,345,171,174,1,-17.73,-0.98,1.45,2012
+16,16,Texans,Sun,December 30,,L,0,12-4,away,Indianapolis Colts,16,28,19,352,250,102,2,19,265,184,81,0,3.14,-10.35,-7.95,2012
+17,17,Texans,,<strong>Playoffs</strong>,,,0,,home,,0,0,0,0,0,0,0,0,0,0,0,0,,,,2012
+18,18,Texans,Sat,January 5,,W,0,13-4,home,Cincinnati Bengals,19,13,24,420,262,158,1,12,198,118,80,1,0.95,10.95,-4.81,2012
+19,19,Texans,Sun,January 13,,L,0,13-5,away,New England Patriots,28,41,25,425,334,91,1,24,457,335,122,0,9.61,-20.49,0.69,2012

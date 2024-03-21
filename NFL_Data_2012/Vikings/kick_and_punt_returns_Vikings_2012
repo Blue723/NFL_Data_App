@@ -1,10 +1,10 @@
-,No.,Team,Player,Age,Position,Games Played,Games Started,Punts Returned,Punts Return Yardage,Punts Returned for Touchdown,Longest Punt Return,Yards per Punt Return,Kickoff Returns,Yardage for Kickoffs Returned,Kickoffs Returned for a Touchdown,Longest Kickoff Return,Yards per Kickoff Return,All-purpose Yards
-35,35,Vikings,Marcus Sherels,25,DB,16,0,32,287,1,77,9.0,16,422,0,41,26.4,709
-12,12,Vikings,Percy Harvin,24,WR,9,8,n/a,n/a,0,n/a,n/a,16,574,1,105,35.9,1347
-48,48,Vikings,Matt Asiata,25,RB,16,0,n/a,n/a,0,n/a,n/a,3,55,0,22,18.3,66
-21,21,Vikings,Josh Robinson,21,DB,16,6,n/a,n/a,0,n/a,n/a,3,61,0,24,20.3,129
-99,99,Vikings,Christian Ballard,23,DT,16,0,n/a,n/a,0,n/a,n/a,2,12,0,8,6.0,12
-42,42,Vikings,Jerome Felton,26,FB,16,7,n/a,n/a,0,n/a,n/a,1,16,0,16,16.0,51
-24,24,Vikings,A.J. Jefferson,24,RCB,15,7,n/a,n/a,0,n/a,n/a,1,20,0,20,20.0,18
-91,91,Vikings,D'Aundre Reed,24,DE,6,0,n/a,n/a,0,n/a,n/a,1,10,0,10,10.0,10
-82,82,Vikings,Kyle Rudolph,23,TE,16,16,n/a,n/a,0,n/a,n/a,1,1,0,1,1.0,494
+,No.,Team,Player,Age,Position,Games Played,Games Started,Punts Returned,Punts Return Yardage,Punts Returned for Touchdown,Longest Punt Return,Yards per Punt Return,Kickoff Returns,Yardage for Kickoffs Returned,Kickoffs Returned for a Touchdown,Longest Kickoff Return,Yards per Kickoff Return,All-purpose Yards,Year
+0,35,Vikings,Marcus Sherels,25,DB,16,0,32,287,1,77,9.0,16,422,0,41,26.4,709,2012
+1,12,Vikings,Percy Harvin,24,WR,9,8,0,0,0,0,,16,574,1,105,35.9,1347,2012
+2,48,Vikings,Matt Asiata,25,RB,16,0,0,0,0,0,,3,55,0,22,18.3,66,2012
+3,21,Vikings,Josh Robinson,21,DB,16,6,0,0,0,0,,3,61,0,24,20.3,129,2012
+4,99,Vikings,Christian Ballard,23,DT,16,0,0,0,0,0,,2,12,0,8,6.0,12,2012
+5,42,Vikings,Jerome Felton,26,FB,16,7,0,0,0,0,,1,16,0,16,16.0,51,2012
+6,24,Vikings,A.J. Jefferson,24,RCB,15,7,0,0,0,0,,1,20,0,20,20.0,18,2012
+7,91,Vikings,D'Aundre Reed,24,DE,6,0,0,0,0,0,,1,10,0,10,10.0,10,2012
+8,82,Vikings,Kyle Rudolph,23,TE,16,16,0,0,0,0,,1,1,0,1,1.0,494,2012

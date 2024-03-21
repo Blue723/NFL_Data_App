@@ -1,43 +1,43 @@
-,Rank,Team,Date,Opponent,Results,Quarter,Distance,Type,Detail
-1,1,Chargers,2012-09-10,OAK,"W, 22-14",4,2,pass,Rod Streater
-2,2,Chargers,2012-09-16,TEN,"W, 38-10",3,15,pass,Kendall Wright
-3,3,Chargers,2012-09-23,ATL,"L, 3-27",1,8,pass,Jacquizz Rodgers
-4,4,Chargers,2012-09-23,ATL,"L, 3-27",2,7,pass,Tony Gonzalez
-5,5,Chargers,2012-09-23,ATL,"L, 3-27",2,9,pass,Julio Jones
-6,6,Chargers,2012-09-23,ATL,"L, 3-27",4,7,rush,Michael Turner
-7,7,Chargers,2012-09-30,KAN,"W, 37-20",2,37,rush,Jamaal Charles
-8,8,Chargers,2012-09-30,KAN,"W, 37-20",3,13,pass,Jamaal Charles
-9,9,Chargers,2012-09-30,KAN,"W, 37-20",4,29,pass,Dwayne Bowe
-10,10,Chargers,2012-10-07,NOR,"L, 24-31",1,40,pass,Devery Henderson
-11,11,Chargers,2012-10-07,NOR,"L, 24-31",2,19,pass,Marques Colston
-12,12,Chargers,2012-10-07,NOR,"L, 24-31",3,16,pass,Marques Colston
-13,13,Chargers,2012-10-07,NOR,"L, 24-31",4,5,pass,Marques Colston
-14,14,Chargers,2012-10-15,DEN,"L, 24-35",3,29,pass,Demaryius Thomas
-15,15,Chargers,2012-10-15,DEN,"L, 24-35",3,65,fumble,Tony Carter
-16,16,Chargers,2012-10-15,DEN,"L, 24-35",4,7,pass,Eric Decker
-17,17,Chargers,2012-10-15,DEN,"L, 24-35",4,21,pass,Brandon Stokley
-18,18,Chargers,2012-10-15,DEN,"L, 24-35",4,46,interception,Chris Harris Jr.
-19,19,Chargers,2012-10-28,CLE,"L, 6-7",1,26,rush,Trent Richardson
-20,20,Chargers,2012-11-01,KAN,"W, 31-13",4,6,rush,Shaun Draughn
-21,21,Chargers,2012-11-11,TAM,"L, 24-34",1,3,pass,Dallas Clark
-22,22,Chargers,2012-11-11,TAM,"L, 24-34",2,29,blocked punt,Adam Hayward
-23,23,Chargers,2012-11-11,TAM,"L, 24-34",3,15,pass,Tiquan Underwood
-24,24,Chargers,2012-11-11,TAM,"L, 24-34",4,83,interception,Leonard Johnson
-25,25,Chargers,2012-11-18,DEN,"L, 23-30",2,13,pass,Demaryius Thomas
-26,26,Chargers,2012-11-18,DEN,"L, 23-30",2,31,pass,Brandon Stokley
-27,27,Chargers,2012-11-18,DEN,"L, 23-30",3,20,pass,Eric Decker
-28,28,Chargers,2012-11-25,BAL,"L, 13-16",4,4,pass,Dennis Pitta
-29,29,Chargers,2012-12-02,CIN,"L, 13-20",1,19,pass,Jermaine Gresham
-30,30,Chargers,2012-12-02,CIN,"L, 13-20",4,6,rush,Andy Dalton
-31,31,Chargers,2012-12-09,PIT,"W, 34-24",3,40,pass,Mike Wallace
-32,32,Chargers,2012-12-09,PIT,"W, 34-24",4,11,pass,Mike Wallace
-33,33,Chargers,2012-12-09,PIT,"W, 34-24",4,1,pass,Antonio Brown
-34,34,Chargers,2012-12-16,CAR,"L, 7-31",1,1,rush,Mike Tolbert
-35,35,Chargers,2012-12-16,CAR,"L, 7-31",1,1,rush,Mike Tolbert
-36,36,Chargers,2012-12-16,CAR,"L, 7-31",1,45,pass,DeAngelo Williams
-37,37,Chargers,2012-12-16,CAR,"L, 7-31",3,4,pass,Steve Smith Sr.
-38,38,Chargers,2012-12-23,NYJ,"W, 27-17",1,1,rush,Shonn Greene
-39,39,Chargers,2012-12-23,NYJ,"W, 27-17",1,1,rush,Shonn Greene
-40,40,Chargers,2012-12-30,OAK,"W, 24-21",2,9,pass,Darrius Heyward-Bey
-41,41,Chargers,2012-12-30,OAK,"W, 24-21",4,3,rush,Terrelle Pryor
-42,42,Chargers,2012-12-30,OAK,"W, 24-21",4,5,pass,Denarius Moore
+,Rank,Team,Date,Opponent,Win/Loss,Score,Quarter,Distance,Type,Detail,Year
+0,1,Chargers,09/10/2012,OAK,Win, 22-14,4,2,pass,Rod Streater,2012
+1,2,Chargers,09/16/2012,TEN,Win, 38-10,3,15,pass,Kendall Wright,2012
+2,3,Chargers,09/23/2012,ATL,Loss, 3-27,1,8,pass,Jacquizz Rodgers,2012
+3,4,Chargers,09/23/2012,ATL,Loss, 3-27,2,7,pass,Tony Gonzalez,2012
+4,5,Chargers,09/23/2012,ATL,Loss, 3-27,2,9,pass,Julio Jones,2012
+5,6,Chargers,09/23/2012,ATL,Loss, 3-27,4,7,rush,Michael Turner,2012
+6,7,Chargers,09/30/2012,KAN,Win, 37-20,2,37,rush,Jamaal Charles,2012
+7,8,Chargers,09/30/2012,KAN,Win, 37-20,3,13,pass,Jamaal Charles,2012
+8,9,Chargers,09/30/2012,KAN,Win, 37-20,4,29,pass,Dwayne Bowe,2012
+9,10,Chargers,10/07/2012,NOR,Loss, 24-31,1,40,pass,Devery Henderson,2012
+10,11,Chargers,10/07/2012,NOR,Loss, 24-31,2,19,pass,Marques Colston,2012
+11,12,Chargers,10/07/2012,NOR,Loss, 24-31,3,16,pass,Marques Colston,2012
+12,13,Chargers,10/07/2012,NOR,Loss, 24-31,4,5,pass,Marques Colston,2012
+13,14,Chargers,10/15/2012,DEN,Loss, 24-35,3,29,pass,Demaryius Thomas,2012
+14,15,Chargers,10/15/2012,DEN,Loss, 24-35,3,65,fumble,Tony Carter,2012
+15,16,Chargers,10/15/2012,DEN,Loss, 24-35,4,7,pass,Eric Decker,2012
+16,17,Chargers,10/15/2012,DEN,Loss, 24-35,4,21,pass,Brandon Stokley,2012
+17,18,Chargers,10/15/2012,DEN,Loss, 24-35,4,46,interception,Chris Harris Jr.,2012
+18,19,Chargers,10/28/2012,CLE,Loss, 6-7,1,26,rush,Trent Richardson,2012
+19,20,Chargers,11/01/2012,KAN,Win, 31-13,4,6,rush,Shaun Draughn,2012
+20,21,Chargers,11/11/2012,TAM,Loss, 24-34,1,3,pass,Dallas Clark,2012
+21,22,Chargers,11/11/2012,TAM,Loss, 24-34,2,29,blocked punt,Adam Hayward,2012
+22,23,Chargers,11/11/2012,TAM,Loss, 24-34,3,15,pass,Tiquan Underwood,2012
+23,24,Chargers,11/11/2012,TAM,Loss, 24-34,4,83,interception,Leonard Johnson,2012
+24,25,Chargers,11/18/2012,DEN,Loss, 23-30,2,13,pass,Demaryius Thomas,2012
+25,26,Chargers,11/18/2012,DEN,Loss, 23-30,2,31,pass,Brandon Stokley,2012
+26,27,Chargers,11/18/2012,DEN,Loss, 23-30,3,20,pass,Eric Decker,2012
+27,28,Chargers,11/25/2012,BAL,Loss, 13-16,4,4,pass,Dennis Pitta,2012
+28,29,Chargers,12/02/2012,CIN,Loss, 13-20,1,19,pass,Jermaine Gresham,2012
+29,30,Chargers,12/02/2012,CIN,Loss, 13-20,4,6,rush,Andy Dalton,2012
+30,31,Chargers,12/09/2012,PIT,Win, 34-24,3,40,pass,Mike Wallace,2012
+31,32,Chargers,12/09/2012,PIT,Win, 34-24,4,11,pass,Mike Wallace,2012
+32,33,Chargers,12/09/2012,PIT,Win, 34-24,4,1,pass,Antonio Brown,2012
+33,34,Chargers,12/16/2012,CAR,Loss, 7-31,1,1,rush,Mike Tolbert,2012
+34,35,Chargers,12/16/2012,CAR,Loss, 7-31,1,1,rush,Mike Tolbert,2012
+35,36,Chargers,12/16/2012,CAR,Loss, 7-31,1,45,pass,DeAngelo Williams,2012
+36,37,Chargers,12/16/2012,CAR,Loss, 7-31,3,4,pass,Steve Smith Sr.,2012
+37,38,Chargers,12/23/2012,NYJ,Win, 27-17,1,1,rush,Shonn Greene,2012
+38,39,Chargers,12/23/2012,NYJ,Win, 27-17,1,1,rush,Shonn Greene,2012
+39,40,Chargers,12/30/2012,OAK,Win, 24-21,2,9,pass,Darrius Heyward-Bey,2012
+40,41,Chargers,12/30/2012,OAK,Win, 24-21,4,3,rush,Terrelle Pryor,2012
+41,42,Chargers,12/30/2012,OAK,Win, 24-21,4,5,pass,Denarius Moore,2012

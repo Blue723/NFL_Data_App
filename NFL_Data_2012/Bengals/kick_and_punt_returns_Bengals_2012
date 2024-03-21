@@ -1,6 +1,6 @@
-,No.,Team,Player,Age,Position,Games Played,Games Started,Punts Returned,Punts Return Yardage,Punts Returned for Touchdown,Longest Punt Return,Yards per Punt Return,Kickoff Returns,Yardage for Kickoffs Returned,Kickoffs Returned for a Touchdown,Longest Kickoff Return,Yards per Kickoff Return,All-purpose Yards
-19,19,Bengals,Brandon Tate,25,WR,16,3,21,187,0,32,8.9,32,795,0,45,24.8,1193
-24,24,Bengals,Adam Jones,29,DB,16,5,26,301,1,81,11.6,3,64,0,31,21.3,365
-80,80,Bengals,Orson Charles,21,TE,16,6,n/a,n/a,0,n/a,n/a,2,17,0,10,8.5,118
-30,30,Bengals,Cedric Peerman,26,RB,14,1,n/a,n/a,0,n/a,n/a,2,37,0,19,18.5,380
-36,36,Bengals,Chris Pressley,26,FB,14,7,n/a,n/a,0,n/a,n/a,2,15,0,8,7.5,16
+,No.,Team,Player,Age,Position,Games Played,Games Started,Punts Returned,Punts Return Yardage,Punts Returned for Touchdown,Longest Punt Return,Yards per Punt Return,Kickoff Returns,Yardage for Kickoffs Returned,Kickoffs Returned for a Touchdown,Longest Kickoff Return,Yards per Kickoff Return,All-purpose Yards,Year
+0,19,Bengals,Brandon Tate,25,WR,16,3,21,187,0,32,8.9,32,795,0,45,24.8,1193,2012
+1,24,Bengals,Adam Jones,29,DB,16,5,26,301,1,81,11.6,3,64,0,31,21.3,365,2012
+2,80,Bengals,Orson Charles,21,TE,16,6,0,0,0,0,,2,17,0,10,8.5,118,2012
+3,30,Bengals,Cedric Peerman,26,RB,14,1,0,0,0,0,,2,37,0,19,18.5,380,2012
+4,36,Bengals,Chris Pressley,26,FB,14,7,0,0,0,0,,2,15,0,8,7.5,16,2012

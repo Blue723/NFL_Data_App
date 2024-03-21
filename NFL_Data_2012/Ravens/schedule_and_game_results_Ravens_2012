@@ -1,23 +1,23 @@
-,Week,Team,Day,Date,Time,Win/Loss,Overtime,Team Record,Home/Away,Opponent,Points Scored,Points Allowed,Offense 1st Down,Total Yards Gained of Offense,Total yards Gained by Passing,Total Yards Gained by Rushing,Offense Turnovers,Defense 1st Down,Total Yards Allowed by Defense,Total Passing Yards Allowed by Defense,Total Rushing Yards Allowed by Defense,Defense Turnovers,Offense,Defense,Sp. Tms
-1,1,Ravens,Mon,September 10,7:10PM ET,W,n/a,1-0,home,Cincinnati Bengals,44,13,26,430,308,122,n/a,20,322,193,129,2,24.39,6.49,-1.49
-2,2,Ravens,Sun,September 16,1:03PM ET,L,n/a,1-1,away,Philadelphia Eagles,23,24,17,325,214,111,2,26,486,357,129,4,-10.79,-0.64,7.08
-3,3,Ravens,Sun,September 23,8:31PM ET,W,n/a,2-1,home,New England Patriots,31,30,28,503,382,121,1,33,396,319,77,n/a,21.23,-17.99,0.02
-4,4,Ravens,Thu,September 27,8:30PM ET,W,n/a,3-1,home,Cleveland Browns,23,16,23,438,337,101,1,20,357,314,43,2,1.96,8.56,-8.65
-5,5,Ravens,Sun,October 7,1:02PM ET,W,n/a,4-1,away,Kansas City Chiefs,9,6,15,298,165,133,2,19,338,124,214,4,-5.96,13.54,-2.61
-6,6,Ravens,Sun,October 14,1:02PM ET,W,n/a,5-1,home,Dallas Cowboys,31,29,19,316,230,86,n/a,30,481,254,227,1,15.00,-20.22,7.68
-7,7,Ravens,Sun,October 21,1:02PM ET,L,n/a,5-2,away,Houston Texans,13,43,12,176,121,55,2,27,420,239,181,n/a,-19.80,-17.98,6.88
-8,8,Ravens,n/a,n/a,n/a,n/a,n/a,n/a,home,<strong>Bye Week</strong>,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
-9,9,Ravens,Sun,November 4,1:03PM ET,W,n/a,6-2,away,Cleveland Browns,25,15,18,282,145,137,n/a,17,290,174,116,2,3.72,9.08,-0.87
-10,10,Ravens,Sun,November 11,1:02PM ET,W,n/a,7-2,home,Oakland Raiders,55,20,22,419,341,78,1,19,422,350,72,3,21.09,4.23,11.78
-11,11,Ravens,Sun,November 18,8:30PM ET,W,n/a,8-2,away,Pittsburgh Steelers,13,10,12,200,153,47,n/a,17,309,175,134,3,-11.41,7.48,6.92
-12,12,Ravens,Sun,November 25,4:05PM ET,W,OT,9-2,away,San Diego Chargers,16,13,25,443,316,127,n/a,16,280,189,91,n/a,2.26,4.12,-4.78
-13,13,Ravens,Sun,December 2,4:25PM ET,L,n/a,9-3,home,Pittsburgh Steelers,20,23,19,288,177,111,2,19,366,270,96,3,-2.31,-1.28,0.45
-14,14,Ravens,Sun,December 9,1:03PM ET,L,OT,9-4,away,Washington Redskins,28,31,18,359,173,186,2,22,423,244,179,1,8.93,-10.08,-1.57
-15,15,Ravens,Sun,December 16,1:02PM ET,L,n/a,9-5,home,Denver Broncos,17,34,12,278,222,56,2,21,350,187,163,n/a,-27.94,-1.94,9.09
-16,16,Ravens,Sun,December 23,4:25PM ET,W,n/a,10-5,home,New York Giants,33,14,25,533,309,224,n/a,11,186,119,67,n/a,22.03,3.40,-3.68
-17,17,Ravens,Sun,December 30,1:03PM ET,L,n/a,10-6,away,Cincinnati Bengals,17,23,23,352,146,206,1,9,189,142,47,n/a,-4.11,8.30,-10.06
-n/a,n/a,Ravens,n/a,<strong>Playoffs</strong>,n/a,n/a,n/a,n/a,home,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
-Wild Card,Wild Card,Ravens,Sun,January 6,1:07PM ET,W,n/a,11-6,home,Indianapolis Colts,24,9,18,439,269,170,2,25,419,267,152,2,10.86,4.62,-0.48
-Division,Division,Ravens,Sat,January 12,4:36PM ET,W,OT,12-6,away,Denver Broncos,38,35,21,479,324,155,1,30,398,273,125,3,9.89,-0.17,-6.13
-Conf. Champ.,Conf. Champ.,Ravens,Sun,January 20,6:40PM ET,W,n/a,13-6,away,New England Patriots,28,13,25,356,235,121,n/a,28,428,320,108,3,12.89,-0.89,1.67
-SuperBowl,SuperBowl,Ravens,Sun,February 3,6:31PM ET,W,n/a,14-6,home,San Francisco 49ers,34,31,21,367,274,93,1,23,468,286,182,2,9.33,-8.82,1.80
+,Week,Team,Day,Date,Time,Win/Loss,Overtime,Team Record,Home/Away,Opponent,Points Scored,Points Allowed,Offense 1st Down,Total Yards Gained of Offense,Total yards Gained by Passing,Total Yards Gained by Rushing,Offense Turnovers,Defense 1st Down,Total Yards Allowed by Defense,Total Passing Yards Allowed by Defense,Total Rushing Yards Allowed by Defense,Defense Turnovers,Offense,Defense,Sp. Tms,Year
+0,0,Ravens,Mon,September 10,,W,0,1-0,home,Cincinnati Bengals,44,13,26,430,308,122,0,20,322,193,129,2,24.39,6.49,-1.49,2012
+1,1,Ravens,Sun,September 16,,L,0,1-1,away,Philadelphia Eagles,23,24,17,325,214,111,2,26,486,357,129,4,-10.79,-0.64,7.08,2012
+2,2,Ravens,Sun,September 23,,W,0,2-1,home,New England Patriots,31,30,28,503,382,121,1,33,396,319,77,0,21.23,-17.99,0.02,2012
+3,3,Ravens,Thu,September 27,,W,0,3-1,home,Cleveland Browns,23,16,23,438,337,101,1,20,357,314,43,2,1.96,8.56,-8.65,2012
+4,4,Ravens,Sun,October 7,,W,0,4-1,away,Kansas City Chiefs,9,6,15,298,165,133,2,19,338,124,214,4,-5.96,13.54,-2.61,2012
+5,5,Ravens,Sun,October 14,,W,0,5-1,home,Dallas Cowboys,31,29,19,316,230,86,0,30,481,254,227,1,15.0,-20.22,7.68,2012
+6,6,Ravens,Sun,October 21,,L,0,5-2,away,Houston Texans,13,43,12,176,121,55,2,27,420,239,181,0,-19.8,-17.98,6.88,2012
+7,7,Ravens,,,,,0,,home,<strong>Bye Week</strong>,0,0,0,0,0,0,0,0,0,0,0,0,,,,2012
+8,8,Ravens,Sun,November 4,,W,0,6-2,away,Cleveland Browns,25,15,18,282,145,137,0,17,290,174,116,2,3.72,9.08,-0.87,2012
+9,9,Ravens,Sun,November 11,,W,0,7-2,home,Oakland Raiders,55,20,22,419,341,78,1,19,422,350,72,3,21.09,4.23,11.78,2012
+10,10,Ravens,Sun,November 18,,W,0,8-2,away,Pittsburgh Steelers,13,10,12,200,153,47,0,17,309,175,134,3,-11.41,7.48,6.92,2012
+11,11,1,1,1,1.0,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1.0,1.0,1.0,1
+12,12,Ravens,Sun,December 2,,L,0,9-3,home,Pittsburgh Steelers,20,23,19,288,177,111,2,19,366,270,96,3,-2.31,-1.28,0.45,2012
+13,13,1,1,1,1.0,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1.0,1.0,1.0,1
+14,14,Ravens,Sun,December 16,,L,0,9-5,home,Denver Broncos,17,34,12,278,222,56,2,21,350,187,163,0,-27.94,-1.94,9.09,2012
+15,15,Ravens,Sun,December 23,,W,0,10-5,home,New York Giants,33,14,25,533,309,224,0,11,186,119,67,0,22.03,3.4,-3.68,2012
+16,16,Ravens,Sun,December 30,,L,0,10-6,away,Cincinnati Bengals,17,23,23,352,146,206,1,9,189,142,47,0,-4.11,8.3,-10.06,2012
+17,17,Ravens,,<strong>Playoffs</strong>,,,0,,home,,0,0,0,0,0,0,0,0,0,0,0,0,,,,2012
+18,18,Ravens,Sun,January 6,,W,0,11-6,home,Indianapolis Colts,24,9,18,439,269,170,2,25,419,267,152,2,10.86,4.62,-0.48,2012
+19,19,1,1,1,1.0,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1.0,1.0,1.0,1
+20,20,Ravens,Sun,January 20,,W,0,13-6,away,New England Patriots,28,13,25,356,235,121,0,28,428,320,108,3,12.89,-0.89,1.67,2012
+21,21,Ravens,Sun,February 3,,W,0,14-6,home,San Francisco 49ers,34,31,21,367,274,93,1,23,468,286,182,2,9.33,-8.82,1.8,2012

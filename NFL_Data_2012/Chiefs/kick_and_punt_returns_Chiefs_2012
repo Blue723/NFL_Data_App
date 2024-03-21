@@ -1,10 +1,10 @@
-,No.,Team,Player,Age,Position,Games Played,Games Started,Punts Returned,Punts Return Yardage,Punts Returned for Touchdown,Longest Punt Return,Yards per Punt Return,Kickoff Returns,Yardage for Kickoffs Returned,Kickoffs Returned for a Touchdown,Longest Kickoff Return,Yards per Kickoff Return,All-purpose Yards
-21,21,Chiefs,Javier Arenas,25,RCB,16,9,34,297,0,27,8.7,10,204,0,27,20.4,501
-20,20,Chiefs,Shaun Draughn,25,RB,16,0,n/a,n/a,0,n/a,n/a,23,537,0,41,23.3,928
-19,19,Chiefs,Devon Wylie,24,WR,6,1,5,26,0,13,5.2,9,191,0,26,21.2,270
-11,11,Chiefs,Josh Bellamy,23,WR,3,0,n/a,n/a,0,n/a,n/a,4,74,0,26,18.5,74
-10,10,Chiefs,Terrance Copper,30,WR,15,0,1,25,0,25,25.0,1,16,0,16,16.0,121
-22,22,Chiefs,Dexter McCluster,23,RB,16,6,2,6,0,6,3.0,n/a,n/a,0,n/a,n/a,528
-15,15,Chiefs,Steve Breaston,29,WR,10,4,1,21,0,21,21.0,n/a,n/a,0,n/a,n/a,95
-32,32,Chiefs,Cyrus Gray,23,RB,10,0,n/a,n/a,0,n/a,n/a,1,33,0,33,33.0,95
-98,98,Chiefs,Anthony Toribio,27,DT,11,0,n/a,n/a,0,n/a,n/a,1,4,0,4,4.0,4
+,No.,Team,Player,Age,Position,Games Played,Games Started,Punts Returned,Punts Return Yardage,Punts Returned for Touchdown,Longest Punt Return,Yards per Punt Return,Kickoff Returns,Yardage for Kickoffs Returned,Kickoffs Returned for a Touchdown,Longest Kickoff Return,Yards per Kickoff Return,All-purpose Yards,Year
+0,21,Chiefs,Javier Arenas,25,RCB,16,9,34,297,0,27,8.7,10,204,0,27,20.4,501,2012
+1,20,Chiefs,Shaun Draughn,25,RB,16,0,0,0,0,0,,23,537,0,41,23.3,928,2012
+2,19,Chiefs,Devon Wylie,24,WR,6,1,5,26,0,13,5.2,9,191,0,26,21.2,270,2012
+3,11,Chiefs,Josh Bellamy,23,WR,3,0,0,0,0,0,,4,74,0,26,18.5,74,2012
+4,10,Chiefs,Terrance Copper,30,WR,15,0,1,25,0,25,25.0,1,16,0,16,16.0,121,2012
+5,22,Chiefs,Dexter McCluster,23,RB,16,6,2,6,0,6,3.0,0,0,0,0,,528,2012
+6,15,Chiefs,Steve Breaston,29,WR,10,4,1,21,0,21,21.0,0,0,0,0,,95,2012
+7,32,Chiefs,Cyrus Gray,23,RB,10,0,0,0,0,0,,1,33,0,33,33.0,95,2012
+8,98,Chiefs,Anthony Toribio,27,DT,11,0,0,0,0,0,,1,4,0,4,4.0,4,2012

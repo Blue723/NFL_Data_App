@@ -1,45 +1,45 @@
-,Rank,Team,Date,Opponent,Results,Quarter,Distance,Type,Detail
-1,1,Panthers,2012-09-09,TAM,"L, 10-16",3,22,pass,Brandon LaFell
-2,2,Panthers,2012-09-16,NOR,"W, 35-27",1,9,interception,Charles Godfrey
-3,3,Panthers,2012-09-16,NOR,"W, 35-27",2,17,pass,Jonathan Stewart
-4,4,Panthers,2012-09-16,NOR,"W, 35-27",2,2,rush,Mike Tolbert
-5,5,Panthers,2012-09-16,NOR,"W, 35-27",3,3,rush,DeAngelo Williams
-6,6,Panthers,2012-09-16,NOR,"W, 35-27",4,5,rush,Cam Newton
-7,7,Panthers,2012-09-20,NYG,"L, 7-36",3,1,rush,Cam Newton
-8,8,Panthers,2012-09-30,ATL,"L, 28-30",1,17,pass,Greg Olsen
-9,9,Panthers,2012-09-30,ATL,"L, 28-30",2,13,rush,DeAngelo Williams
-10,10,Panthers,2012-09-30,ATL,"L, 28-30",3,4,rush,Cam Newton
-11,11,Panthers,2012-09-30,ATL,"L, 28-30",4,36,pass,Kealoha Pilares
-12,12,Panthers,2012-10-07,SEA,"L, 12-16",3,33,interception,Captain Munnerlyn
-13,13,Panthers,2012-10-21,DAL,"L, 14-19",2,5,pass,Brandon LaFell
-14,14,Panthers,2012-10-21,DAL,"L, 14-19",4,2,rush,Mike Tolbert
-15,15,Panthers,2012-10-28,CHI,"L, 22-23",2,n/a,fumble,Louis Murphy
-16,16,Panthers,2012-11-04,WAS,"W, 21-13",1,30,rush,DeAngelo Williams
-17,17,Panthers,2012-11-04,WAS,"W, 21-13",2,19,pass,Steve Smith Sr.
-18,18,Panthers,2012-11-04,WAS,"W, 21-13",4,1,rush,Cam Newton
-19,19,Panthers,2012-11-11,DEN,"L, 14-36",1,4,pass,Greg Olsen
-20,20,Panthers,2012-11-11,DEN,"L, 14-36",4,5,pass,Greg Olsen
-21,21,Panthers,2012-11-18,TAM,"L, 21-27",1,74,interception,Captain Munnerlyn
-22,22,Panthers,2012-11-18,TAM,"L, 21-27",2,1,rush,Jonathan Stewart
-23,23,Panthers,2012-11-18,TAM,"L, 21-27",4,29,pass,Brandon LaFell
-24,24,Panthers,2012-11-26,PHI,"W, 30-22",1,24,pass,Gary Barnidge
-25,25,Panthers,2012-11-26,PHI,"W, 30-22",1,43,pass,Brandon LaFell
-26,26,Panthers,2012-11-26,PHI,"W, 30-22",3,1,rush,Cam Newton
-27,27,Panthers,2012-11-26,PHI,"W, 30-22",4,2,rush,Cam Newton
-28,28,Panthers,2012-12-02,KAN,"L, 21-27",1,47,pass,Greg Olsen
-29,29,Panthers,2012-12-02,KAN,"L, 21-27",2,23,pass,Steve Smith Sr.
-30,30,Panthers,2012-12-02,KAN,"L, 21-27",4,8,pass,Louis Murphy
-31,31,Panthers,2012-12-09,ATL,"W, 30-20",1,25,pass,Greg Olsen
-32,32,Panthers,2012-12-09,ATL,"W, 30-20",3,72,rush,Cam Newton
-33,33,Panthers,2012-12-09,ATL,"W, 30-20",4,53,pass,DeAngelo Williams
-34,34,Panthers,2012-12-16,SDG,"W, 31-7",1,1,rush,Mike Tolbert
-35,35,Panthers,2012-12-16,SDG,"W, 31-7",1,1,rush,Mike Tolbert
-36,36,Panthers,2012-12-16,SDG,"W, 31-7",1,45,pass,DeAngelo Williams
-37,37,Panthers,2012-12-16,SDG,"W, 31-7",3,4,pass,Steve Smith Sr.
-38,38,Panthers,2012-12-23,OAK,"W, 17-6",1,23,pass,Steve Smith Sr.
-39,39,Panthers,2012-12-23,OAK,"W, 17-6",2,3,rush,Cam Newton
-40,40,Panthers,2012-12-30,NOR,"W, 44-38",2,1,rush,Mike Tolbert
-41,41,Panthers,2012-12-30,NOR,"W, 44-38",3,54,rush,DeAngelo Williams
-42,42,Panthers,2012-12-30,NOR,"W, 44-38",3,1,rush,Mike Tolbert
-43,43,Panthers,2012-12-30,NOR,"W, 44-38",4,1,rush,Mike Tolbert
-44,44,Panthers,2012-12-30,NOR,"W, 44-38",4,12,rush,DeAngelo Williams
+,Rank,Team,Date,Opponent,Win/Loss,Score,Quarter,Distance,Type,Detail,Year
+0,1,Panthers,09/09/2012,TAM,Loss, 10-16,3,22,pass,Brandon LaFell,2012
+1,2,Panthers,09/16/2012,NOR,Win, 35-27,1,9,interception,Charles Godfrey,2012
+2,3,Panthers,09/16/2012,NOR,Win, 35-27,2,17,pass,Jonathan Stewart,2012
+3,4,Panthers,09/16/2012,NOR,Win, 35-27,2,2,rush,Mike Tolbert,2012
+4,5,Panthers,09/16/2012,NOR,Win, 35-27,3,3,rush,DeAngelo Williams,2012
+5,6,Panthers,09/16/2012,NOR,Win, 35-27,4,5,rush,Cam Newton,2012
+6,7,Panthers,09/20/2012,NYG,Loss, 7-36,3,1,rush,Cam Newton,2012
+7,8,Panthers,09/30/2012,ATL,Loss, 28-30,1,17,pass,Greg Olsen,2012
+8,9,Panthers,09/30/2012,ATL,Loss, 28-30,2,13,rush,DeAngelo Williams,2012
+9,10,Panthers,09/30/2012,ATL,Loss, 28-30,3,4,rush,Cam Newton,2012
+10,11,Panthers,09/30/2012,ATL,Loss, 28-30,4,36,pass,Kealoha Pilares,2012
+11,12,Panthers,10/07/2012,SEA,Loss, 12-16,3,33,interception,Captain Munnerlyn,2012
+12,13,Panthers,10/21/2012,DAL,Loss, 14-19,2,5,pass,Brandon LaFell,2012
+13,14,Panthers,10/21/2012,DAL,Loss, 14-19,4,2,rush,Mike Tolbert,2012
+14,15,Panthers,10/28/2012,CHI,Loss, 22-23,2,0,fumble,Louis Murphy,2012
+15,16,Panthers,11/04/2012,WAS,Win, 21-13,1,30,rush,DeAngelo Williams,2012
+16,17,Panthers,11/04/2012,WAS,Win, 21-13,2,19,pass,Steve Smith Sr.,2012
+17,18,Panthers,11/04/2012,WAS,Win, 21-13,4,1,rush,Cam Newton,2012
+18,19,Panthers,11/11/2012,DEN,Loss, 14-36,1,4,pass,Greg Olsen,2012
+19,20,Panthers,11/11/2012,DEN,Loss, 14-36,4,5,pass,Greg Olsen,2012
+20,21,Panthers,11/18/2012,TAM,Loss, 21-27,1,74,interception,Captain Munnerlyn,2012
+21,22,Panthers,11/18/2012,TAM,Loss, 21-27,2,1,rush,Jonathan Stewart,2012
+22,23,Panthers,11/18/2012,TAM,Loss, 21-27,4,29,pass,Brandon LaFell,2012
+23,24,Panthers,11/26/2012,PHI,Win, 30-22,1,24,pass,Gary Barnidge,2012
+24,25,Panthers,11/26/2012,PHI,Win, 30-22,1,43,pass,Brandon LaFell,2012
+25,26,Panthers,11/26/2012,PHI,Win, 30-22,3,1,rush,Cam Newton,2012
+26,27,Panthers,11/26/2012,PHI,Win, 30-22,4,2,rush,Cam Newton,2012
+27,28,Panthers,12/02/2012,KAN,Loss, 21-27,1,47,pass,Greg Olsen,2012
+28,29,Panthers,12/02/2012,KAN,Loss, 21-27,2,23,pass,Steve Smith Sr.,2012
+29,30,Panthers,12/02/2012,KAN,Loss, 21-27,4,8,pass,Louis Murphy,2012
+30,31,Panthers,12/09/2012,ATL,Win, 30-20,1,25,pass,Greg Olsen,2012
+31,32,Panthers,12/09/2012,ATL,Win, 30-20,3,72,rush,Cam Newton,2012
+32,33,Panthers,12/09/2012,ATL,Win, 30-20,4,53,pass,DeAngelo Williams,2012
+33,34,Panthers,12/16/2012,SDG,Win, 31-7,1,1,rush,Mike Tolbert,2012
+34,35,Panthers,12/16/2012,SDG,Win, 31-7,1,1,rush,Mike Tolbert,2012
+35,36,Panthers,12/16/2012,SDG,Win, 31-7,1,45,pass,DeAngelo Williams,2012
+36,37,Panthers,12/16/2012,SDG,Win, 31-7,3,4,pass,Steve Smith Sr.,2012
+37,38,Panthers,12/23/2012,OAK,Win, 17-6,1,23,pass,Steve Smith Sr.,2012
+38,39,Panthers,12/23/2012,OAK,Win, 17-6,2,3,rush,Cam Newton,2012
+39,40,Panthers,12/30/2012,NOR,Win, 44-38,2,1,rush,Mike Tolbert,2012
+40,41,Panthers,12/30/2012,NOR,Win, 44-38,3,54,rush,DeAngelo Williams,2012
+41,42,Panthers,12/30/2012,NOR,Win, 44-38,3,1,rush,Mike Tolbert,2012
+42,43,Panthers,12/30/2012,NOR,Win, 44-38,4,1,rush,Mike Tolbert,2012
+43,44,Panthers,12/30/2012,NOR,Win, 44-38,4,12,rush,DeAngelo Williams,2012

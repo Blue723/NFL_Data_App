@@ -1,6 +1,6 @@
-,No.,Team,Player,Age,Position,Games Played,Games Started,Punts Returned,Punts Return Yardage,Punts Returned for Touchdown,Longest Punt Return,Yards per Punt Return,Kickoff Returns,Yardage for Kickoffs Returned,Kickoffs Returned for a Touchdown,Longest Kickoff Return,Yards per Kickoff Return,All-purpose Yards
-19,19,49ers,Ted Ginn Jr.,27,WR,13,0,32,326,0,38,10.2,11,253,0,31,23.0,587
-10,10,49ers,Kyle Williams,24,WR,11,3,4,52,0,20,13.0,13,353,0,94,27.2,638
-23,23,49ers,LaMichael James,23,RB,4,0,n/a,n/a,0,n/a,n/a,14,417,0,62,29.8,571
-32,32,49ers,Kendall Hunter,24,RB,11,0,n/a,n/a,0,n/a,n/a,7,165,0,31,23.6,596
-46,46,49ers,Delanie Walker,28,WR,16,4,n/a,n/a,0,n/a,n/a,4,28,0,18,7.0,372
+,No.,Team,Player,Age,Position,Games Played,Games Started,Punts Returned,Punts Return Yardage,Punts Returned for Touchdown,Longest Punt Return,Yards per Punt Return,Kickoff Returns,Yardage for Kickoffs Returned,Kickoffs Returned for a Touchdown,Longest Kickoff Return,Yards per Kickoff Return,All-purpose Yards,Year
+0,19,49ers,Ted Ginn Jr.,27,WR,13,0,32,326,0,38,10.2,11,253,0,31,23.0,587,2012
+1,10,49ers,Kyle Williams,24,WR,11,3,4,52,0,20,13.0,13,353,0,94,27.2,638,2012
+2,23,49ers,LaMichael James,23,RB,4,0,0,0,0,0,,14,417,0,62,29.8,571,2012
+3,32,49ers,Kendall Hunter,24,RB,11,0,0,0,0,0,,7,165,0,31,23.6,596,2012
+4,46,49ers,Delanie Walker,28,WR,16,4,0,0,0,0,,4,28,0,18,7.0,372,2012

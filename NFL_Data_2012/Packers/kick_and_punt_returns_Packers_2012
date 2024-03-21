@@ -1,5 +1,5 @@
-,No.,Team,Player,Age,Position,Games Played,Games Started,Punts Returned,Punts Return Yardage,Punts Returned for Touchdown,Longest Punt Return,Yards per Punt Return,Kickoff Returns,Yardage for Kickoffs Returned,Kickoffs Returned for a Touchdown,Longest Kickoff Return,Yards per Kickoff Return,All-purpose Yards
-18,18,Packers,Randall Cobb,22,WR,15,8,31,292,1,75,9.4,38,964,0,46,25.4,2342
-10,10,Packers,Jeremy Ross,24,WR,5,0,4,103,0,58,25.8,3,86,0,44,28.7,189
-84,84,Packers,D.J. Williams,24,TE,13,2,n/a,n/a,0,n/a,n/a,2,24,0,12,12.0,81
-37,37,Packers,Sam Shields,25,RCB,10,8,1,0,0,0,0.0,n/a,n/a,0,n/a,n/a,32
+,No.,Team,Player,Age,Position,Games Played,Games Started,Punts Returned,Punts Return Yardage,Punts Returned for Touchdown,Longest Punt Return,Yards per Punt Return,Kickoff Returns,Yardage for Kickoffs Returned,Kickoffs Returned for a Touchdown,Longest Kickoff Return,Yards per Kickoff Return,All-purpose Yards,Year
+0,18,Packers,Randall Cobb,22,WR,15,8,31,292,1,75,9.4,38,964,0,46,25.4,2342,2012
+1,10,Packers,Jeremy Ross,24,WR,5,0,4,103,0,58,25.8,3,86,0,44,28.7,189,2012
+2,84,Packers,D.J. Williams,24,TE,13,2,0,0,0,0,,2,24,0,12,12.0,81,2012
+3,37,Packers,Sam Shields,25,RCB,10,8,1,0,0,0,0.0,0,0,0,0,,32,2012
