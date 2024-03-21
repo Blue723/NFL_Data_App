@@ -1,6 +1,6 @@
-,No.,Team,Player,Age,Position,Games Played,Games Started,Punts Returned,Punts Return Yardage,Punts Returned for Touchdown,Longest Punt Return,Yards per Punt Return,Kickoff Returns,Yardage for Kickoffs Returned,Kickoffs Returned for a Touchdown,Longest Kickoff Return,Yards per Kickoff Return,All-purpose Yards
-33,33,Cardinals,Kerwynn Williams,26,RB,16,6,21,137,0,20,6.5,16,326,0,28,20.4,982
-21,21,Cardinals,Patrick Peterson,27,LCB,16,16,13,88,0,19,6.8,n/a,n/a,0,n/a,n/a,157
-10,10,Cardinals,Brittan Golden,29,WR,13,0,7,63,0,15,9.0,4,81,0,26,20.3,214
-37,37,Cardinals,D.J. Foster,24,WR,7,0,n/a,n/a,0,n/a,n/a,8,184,0,55,23.0,336
-87,87,Cardinals,Troy Niklas,25,TE,15,11,n/a,n/a,0,n/a,n/a,1,1,0,1,1.0,133
+,No.,Team,Player,Age,Position,Games Played,Games Started,Punts Returned,Punts Return Yardage,Punts Returned for Touchdown,Longest Punt Return,Yards per Punt Return,Kickoff Returns,Yardage for Kickoffs Returned,Kickoffs Returned for a Touchdown,Longest Kickoff Return,Yards per Kickoff Return,All-purpose Yards,Year
+0,33,Cardinals,Kerwynn Williams,26,RB,16,6,21,137,0,20,6.5,16,326,0,28,20.4,982,2017
+1,21,Cardinals,Patrick Peterson,27,LCB,16,16,13,88,0,19,6.8,0,0,0,0,,157,2017
+2,10,Cardinals,Brittan Golden,29,WR,13,0,7,63,0,15,9.0,4,81,0,26,20.3,214,2017
+3,37,Cardinals,D.J. Foster,24,WR,7,0,0,0,0,0,,8,184,0,55,23.0,336,2017
+4,87,Cardinals,Troy Niklas,25,TE,15,11,0,0,0,0,,1,1,0,1,1.0,133,2017

@@ -1,7 +1,7 @@
-,No.,Team,Player,Age,Position,Games Played,Games Started,Punts Returned,Punts Return Yardage,Punts Returned for Touchdown,Longest Punt Return,Yards per Punt Return,Kickoff Returns,Yardage for Kickoffs Returned,Kickoffs Returned for a Touchdown,Longest Kickoff Return,Yards per Kickoff Return,All-purpose Yards
-22,22,Browns,Jabrill Peppers,22,SS,13,13,30,180,0,25,6.0,14,318,0,35,22.7,498
-27,27,Browns,Matthew Dayes,23,RB,16,0,n/a,n/a,0,n/a,n/a,18,437,0,71,24.3,479
-11,11,Browns,Bryce Treggs,23,WR,6,1,5,24,0,11,4.8,n/a,n/a,0,n/a,n/a,109
-29,29,Browns,Duke Johnson,24,RB,16,0,3,17,0,12,5.7,n/a,n/a,0,n/a,n/a,1058
-44,44,Browns,Nate Orchard,24,DE,16,1,n/a,n/a,0,n/a,n/a,2,17,0,9,8.5,17
-40,40,Browns,Danny Vitale,24,FB,15,6,n/a,n/a,0,n/a,n/a,1,18,0,18,18.0,37
+,No.,Team,Player,Age,Position,Games Played,Games Started,Punts Returned,Punts Return Yardage,Punts Returned for Touchdown,Longest Punt Return,Yards per Punt Return,Kickoff Returns,Yardage for Kickoffs Returned,Kickoffs Returned for a Touchdown,Longest Kickoff Return,Yards per Kickoff Return,All-purpose Yards,Year
+0,22,Browns,Jabrill Peppers,22,SS,13,13,30,180,0,25,6.0,14,318,0,35,22.7,498,2017
+1,27,Browns,Matthew Dayes,23,RB,16,0,0,0,0,0,,18,437,0,71,24.3,479,2017
+2,11,Browns,Bryce Treggs,23,WR,6,1,5,24,0,11,4.8,0,0,0,0,,109,2017
+3,29,Browns,Duke Johnson,24,RB,16,0,3,17,0,12,5.7,0,0,0,0,,1058,2017
+4,44,Browns,Nate Orchard,24,DE,16,1,0,0,0,0,,2,17,0,9,8.5,17,2017
+5,40,Browns,Danny Vitale,24,FB,15,6,0,0,0,0,,1,18,0,18,18.0,37,2017

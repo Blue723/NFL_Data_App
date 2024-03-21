@@ -1,20 +1,20 @@
-,Week,Team,Day,Date,Time,Win/Loss,Overtime,Team Record,Home/Away,Opponent,Points Scored,Points Allowed,Offense 1st Down,Total Yards Gained of Offense,Total yards Gained by Passing,Total Yards Gained by Rushing,Offense Turnovers,Defense 1st Down,Total Yards Allowed by Defense,Total Passing Yards Allowed by Defense,Total Rushing Yards Allowed by Defense,Defense Turnovers,Offense,Defense,Sp. Tms
-1,1,Rams,Sun,September 10,4:05PM ET,W,n/a,1-0,home,Indianapolis Colts,46,9,19,373,310,63,1,10,225,150,75,3,7.24,27.68,0.19
-2,2,Rams,Sun,September 17,4:25PM ET,L,n/a,1-1,home,Washington Redskins,20,27,14,332,235,97,2,21,385,156,229,n/a,-0.97,-12.39,2.95
-3,3,Rams,Thu,September 21,8:25PM ET,W,n/a,2-1,away,San Francisco 49ers,41,39,26,418,292,126,2,25,421,308,113,2,25.20,-5.71,-12.79
-4,4,Rams,Sun,October 1,1:00PM ET,W,n/a,3-1,away,Dallas Cowboys,35,30,24,412,244,168,n/a,22,440,251,189,2,13.53,-14.94,9.26
-5,5,Rams,Sun,October 8,4:05PM ET,L,n/a,3-2,home,Seattle Seahawks,10,16,21,375,275,100,5,15,241,179,62,2,-10.81,14.79,-9.52
-6,6,Rams,Sun,October 15,4:05PM ET,W,n/a,4-2,away,Jacksonville Jaguars,27,17,12,249,107,142,1,19,389,220,169,1,-10.07,-1.87,24.11
-7,7,Rams,Sun,October 22,1:00PM ET,W,n/a,5-2,home,Arizona Cardinals,33,0,28,425,228,197,1,10,196,171,25,2,13.79,16.63,4.82
-8,8,Rams,n/a,n/a,n/a,n/a,n/a,n/a,home,<strong>Bye Week</strong>,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
-9,9,Rams,Sun,November 5,1:00PM ET,W,n/a,6-2,away,New York Giants,51,17,20,473,311,162,n/a,17,319,208,111,3,24.14,4.66,4.36
-10,10,Rams,Sun,November 12,4:05PM ET,W,n/a,7-2,home,Houston Texans,33,7,19,443,339,104,n/a,17,283,194,89,4,7.20,16.14,2.86
-11,11,Rams,Sun,November 19,1:00PM ET,L,n/a,7-3,away,Minnesota Vikings,7,24,15,254,209,45,1,27,451,280,171,n/a,-4.81,-18.47,5.97
-12,12,Rams,Sun,November 26,4:25PM ET,W,n/a,8-3,home,New Orleans Saints,26,20,24,415,327,88,1,14,346,223,123,n/a,11.80,-4.47,-3.72
-13,13,Rams,Sun,December 3,4:25PM ET,W,n/a,9-3,away,Arizona Cardinals,32,16,18,303,213,90,1,19,305,187,118,2,2.40,8.56,3.31
-14,14,Rams,Sun,December 10,4:25PM ET,L,n/a,9-4,home,Philadelphia Eagles,35,43,17,307,198,109,2,29,455,316,139,1,2.69,-15.32,5.62
-15,15,Rams,Sun,December 17,4:05PM ET,W,n/a,10-4,away,Seattle Seahawks,42,7,19,352,108,244,1,11,149,71,78,2,4.78,20.02,6.47
-16,16,Rams,Sun,December 24,1:00PM ET,W,n/a,11-4,away,Tennessee Titans,27,23,20,402,286,116,1,19,366,269,97,1,8.64,-0.11,-4.53
-17,17,Rams,Sun,December 31,4:25PM ET,L,n/a,11-5,home,San Francisco 49ers,13,34,15,251,149,102,2,25,461,292,169,3,-8.87,-9.97,-1.57
-n/a,n/a,Rams,n/a,<strong>Playoffs</strong>,n/a,n/a,n/a,n/a,home,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
-Wild Card,Wild Card,Rams,Sat,January 6,8:15PM ET,L,n/a,11-6,home,Atlanta Falcons,13,26,19,361,246,115,2,20,322,198,124,n/a,-4.61,-2.21,-12.07
+,Week,Team,Day,Date,Time,Win/Loss,Overtime,Team Record,Home/Away,Opponent,Points Scored,Points Allowed,Offense 1st Down,Total Yards Gained of Offense,Total yards Gained by Passing,Total Yards Gained by Rushing,Offense Turnovers,Defense 1st Down,Total Yards Allowed by Defense,Total Passing Yards Allowed by Defense,Total Rushing Yards Allowed by Defense,Defense Turnovers,Offense,Defense,Sp. Tms,Year
+0,0,Rams,Sun,September 10,,W,0,1-0,home,Indianapolis Colts,46,9,19,373,310,63,1,10,225,150,75,3,7.24,27.68,0.19,2017
+1,1,Rams,Sun,September 17,,L,0,1-1,home,Washington Redskins,20,27,14,332,235,97,2,21,385,156,229,0,-0.97,-12.39,2.95,2017
+2,2,Rams,Thu,September 21,,W,0,2-1,away,San Francisco 49ers,41,39,26,418,292,126,2,25,421,308,113,2,25.2,-5.71,-12.79,2017
+3,3,Rams,Sun,October 1,,W,0,3-1,away,Dallas Cowboys,35,30,24,412,244,168,0,22,440,251,189,2,13.53,-14.94,9.26,2017
+4,4,Rams,Sun,October 8,,L,0,3-2,home,Seattle Seahawks,10,16,21,375,275,100,5,15,241,179,62,2,-10.81,14.79,-9.52,2017
+5,5,Rams,Sun,October 15,,W,0,4-2,away,Jacksonville Jaguars,27,17,12,249,107,142,1,19,389,220,169,1,-10.07,-1.87,24.11,2017
+6,6,Rams,Sun,October 22,,W,0,5-2,home,Arizona Cardinals,33,0,28,425,228,197,1,10,196,171,25,2,13.79,16.63,4.82,2017
+7,7,Rams,,,,,0,,home,<strong>Bye Week</strong>,0,0,0,0,0,0,0,0,0,0,0,0,,,,2017
+8,8,Rams,Sun,November 5,,W,0,6-2,away,New York Giants,51,17,20,473,311,162,0,17,319,208,111,3,24.14,4.66,4.36,2017
+9,9,Rams,Sun,November 12,,W,0,7-2,home,Houston Texans,33,7,19,443,339,104,0,17,283,194,89,4,7.2,16.14,2.86,2017
+10,10,Rams,Sun,November 19,,L,0,7-3,away,Minnesota Vikings,7,24,15,254,209,45,1,27,451,280,171,0,-4.81,-18.47,5.97,2017
+11,11,Rams,Sun,November 26,,W,0,8-3,home,New Orleans Saints,26,20,24,415,327,88,1,14,346,223,123,0,11.8,-4.47,-3.72,2017
+12,12,Rams,Sun,December 3,,W,0,9-3,away,Arizona Cardinals,32,16,18,303,213,90,1,19,305,187,118,2,2.4,8.56,3.31,2017
+13,13,Rams,Sun,December 10,,L,0,9-4,home,Philadelphia Eagles,35,43,17,307,198,109,2,29,455,316,139,1,2.69,-15.32,5.62,2017
+14,14,Rams,Sun,December 17,,W,0,10-4,away,Seattle Seahawks,42,7,19,352,108,244,1,11,149,71,78,2,4.78,20.02,6.47,2017
+15,15,Rams,Sun,December 24,,W,0,11-4,away,Tennessee Titans,27,23,20,402,286,116,1,19,366,269,97,1,8.64,-0.11,-4.53,2017
+16,16,Rams,Sun,December 31,,L,0,11-5,home,San Francisco 49ers,13,34,15,251,149,102,2,25,461,292,169,3,-8.87,-9.97,-1.57,2017
+17,17,Rams,,<strong>Playoffs</strong>,,,0,,home,,0,0,0,0,0,0,0,0,0,0,0,0,,,,2017
+18,18,Rams,Sat,January 6,,L,0,11-6,home,Atlanta Falcons,13,26,19,361,246,115,2,20,322,198,124,0,-4.61,-2.21,-12.07,2017

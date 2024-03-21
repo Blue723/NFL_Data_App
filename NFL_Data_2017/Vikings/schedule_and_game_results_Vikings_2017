@@ -1,21 +1,21 @@
-,Week,Team,Day,Date,Time,Win/Loss,Overtime,Team Record,Home/Away,Opponent,Points Scored,Points Allowed,Offense 1st Down,Total Yards Gained of Offense,Total yards Gained by Passing,Total Yards Gained by Rushing,Offense Turnovers,Defense 1st Down,Total Yards Allowed by Defense,Total Passing Yards Allowed by Defense,Total Rushing Yards Allowed by Defense,Defense Turnovers,Offense,Defense,Sp. Tms
-1,1,Vikings,Mon,September 11,7:10PM ET,W,n/a,1-0,home,New Orleans Saints,29,19,23,470,341,129,n/a,19,344,284,60,n/a,24.38,-10.01,0.89
-2,2,Vikings,Sun,September 17,1:00PM ET,L,n/a,1-1,away,Pittsburgh Steelers,9,26,14,237,146,91,1,22,335,233,102,n/a,-14.51,-0.48,3.84
-3,3,Vikings,Sun,September 24,1:00PM ET,W,n/a,2-1,home,Tampa Bay Buccaneers,34,17,25,494,369,125,n/a,20,342,316,26,3,22.43,-2.64,-1.80
-4,4,Vikings,Sun,October 1,1:00PM ET,L,n/a,2-2,home,Detroit Lions,7,14,15,284,197,87,3,19,251,154,97,n/a,-10.05,5.23,0.21
-5,5,Vikings,Mon,October 9,8:30PM ET,W,n/a,3-2,away,Chicago Bears,20,17,17,300,141,159,n/a,16,274,159,115,2,2.14,3.39,-2.08
-6,6,Vikings,Sun,October 15,1:00PM ET,W,n/a,4-2,home,Green Bay Packers,23,10,24,351,239,112,2,14,227,155,72,3,-4.65,17.19,-2.65
-7,7,Vikings,Sun,October 22,1:00PM ET,W,n/a,5-2,home,Baltimore Ravens,24,16,17,357,188,169,1,16,208,144,64,n/a,2.80,3.93,-0.59
-8,8,Vikings,Sun,October 29,9:30AM ET,W,n/a,6-2,away,Cleveland Browns,33,16,26,375,287,88,1,16,276,161,115,2,8.79,4.53,0.63
-9,9,Vikings,n/a,n/a,n/a,n/a,n/a,n/a,home,<strong>Bye Week</strong>,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
-10,10,Vikings,Sun,November 12,1:00PM ET,W,n/a,7-2,away,Washington Redskins,38,30,21,406,304,102,2,24,394,313,81,1,8.57,-5.61,1.00
-11,11,Vikings,Sun,November 19,1:00PM ET,W,n/a,8-2,home,Los Angeles Rams,24,7,27,451,280,171,n/a,15,254,209,45,1,18.47,4.81,-5.97
-12,12,Vikings,Thu,November 23,12:30PM ET,W,n/a,9-2,away,Detroit Lions,30,23,28,408,272,136,n/a,17,289,236,53,2,14.39,1.95,-5.37
-13,13,Vikings,Sun,December 3,1:00PM ET,W,n/a,10-2,away,Atlanta Falcons,14,9,22,312,207,105,n/a,15,275,173,102,n/a,5.93,0.67,1.97
-14,14,Vikings,Sun,December 10,1:00PM ET,L,n/a,10-3,away,Carolina Panthers,24,31,21,356,256,100,3,15,345,129,216,1,-2.26,-5.54,1.07
-15,15,Vikings,Sun,December 17,1:00PM ET,W,n/a,11-3,home,Cincinnati Bengals,34,7,18,346,222,124,1,8,161,115,46,2,3.03,26.85,-3.20
-16,16,Vikings,Sat,December 23,8:30PM ET,W,n/a,12-3,away,Green Bay Packers,16,0,15,236,124,112,n/a,12,239,126,113,2,-4.52,23.46,-3.17
-17,17,Vikings,Sun,December 31,1:00PM ET,W,n/a,13-3,home,Chicago Bears,23,10,21,327,180,147,n/a,12,201,171,30,n/a,6.33,18.03,-13.52
-n/a,n/a,Vikings,n/a,<strong>Playoffs</strong>,n/a,n/a,n/a,n/a,home,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
-Division,Division,Vikings,Sun,January 14,4:40PM ET,W,n/a,14-3,home,New Orleans Saints,29,24,24,403,308,95,1,23,358,278,80,2,12.63,-5.49,-2.99
-Conf. Champ.,Conf. Champ.,Vikings,Sun,January 21,6:40PM ET,L,n/a,14-4,away,Philadelphia Eagles,7,38,22,333,263,70,3,27,456,346,110,n/a,-9.11,-25.85,4.48
+,Week,Team,Day,Date,Time,Win/Loss,Overtime,Team Record,Home/Away,Opponent,Points Scored,Points Allowed,Offense 1st Down,Total Yards Gained of Offense,Total yards Gained by Passing,Total Yards Gained by Rushing,Offense Turnovers,Defense 1st Down,Total Yards Allowed by Defense,Total Passing Yards Allowed by Defense,Total Rushing Yards Allowed by Defense,Defense Turnovers,Offense,Defense,Sp. Tms,Year
+0,0,Vikings,Mon,September 11,,W,0,1-0,home,New Orleans Saints,29,19,23,470,341,129,0,19,344,284,60,0,24.38,-10.01,0.89,2017
+1,1,Vikings,Sun,September 17,,L,0,1-1,away,Pittsburgh Steelers,9,26,14,237,146,91,1,22,335,233,102,0,-14.51,-0.48,3.84,2017
+2,2,Vikings,Sun,September 24,,W,0,2-1,home,Tampa Bay Buccaneers,34,17,25,494,369,125,0,20,342,316,26,3,22.43,-2.64,-1.8,2017
+3,3,Vikings,Sun,October 1,,L,0,2-2,home,Detroit Lions,7,14,15,284,197,87,3,19,251,154,97,0,-10.05,5.23,0.21,2017
+4,4,Vikings,Mon,October 9,,W,0,3-2,away,Chicago Bears,20,17,17,300,141,159,0,16,274,159,115,2,2.14,3.39,-2.08,2017
+5,5,Vikings,Sun,October 15,,W,0,4-2,home,Green Bay Packers,23,10,24,351,239,112,2,14,227,155,72,3,-4.65,17.19,-2.65,2017
+6,6,Vikings,Sun,October 22,,W,0,5-2,home,Baltimore Ravens,24,16,17,357,188,169,1,16,208,144,64,0,2.8,3.93,-0.59,2017
+7,7,Vikings,Sun,October 29,,W,0,6-2,away,Cleveland Browns,33,16,26,375,287,88,1,16,276,161,115,2,8.79,4.53,0.63,2017
+8,8,Vikings,,,,,0,,home,<strong>Bye Week</strong>,0,0,0,0,0,0,0,0,0,0,0,0,,,,2017
+9,9,Vikings,Sun,November 12,,W,0,7-2,away,Washington Redskins,38,30,21,406,304,102,2,24,394,313,81,1,8.57,-5.61,1.0,2017
+10,10,Vikings,Sun,November 19,,W,0,8-2,home,Los Angeles Rams,24,7,27,451,280,171,0,15,254,209,45,1,18.47,4.81,-5.97,2017
+11,11,Vikings,Thu,November 23,,W,0,9-2,away,Detroit Lions,30,23,28,408,272,136,0,17,289,236,53,2,14.39,1.95,-5.37,2017
+12,12,Vikings,Sun,December 3,,W,0,10-2,away,Atlanta Falcons,14,9,22,312,207,105,0,15,275,173,102,0,5.93,0.67,1.97,2017
+13,13,Vikings,Sun,December 10,,L,0,10-3,away,Carolina Panthers,24,31,21,356,256,100,3,15,345,129,216,1,-2.26,-5.54,1.07,2017
+14,14,Vikings,Sun,December 17,,W,0,11-3,home,Cincinnati Bengals,34,7,18,346,222,124,1,8,161,115,46,2,3.03,26.85,-3.2,2017
+15,15,Vikings,Sat,December 23,,W,0,12-3,away,Green Bay Packers,16,0,15,236,124,112,0,12,239,126,113,2,-4.52,23.46,-3.17,2017
+16,16,Vikings,Sun,December 31,,W,0,13-3,home,Chicago Bears,23,10,21,327,180,147,0,12,201,171,30,0,6.33,18.03,-13.52,2017
+17,17,Vikings,,<strong>Playoffs</strong>,,,0,,home,,0,0,0,0,0,0,0,0,0,0,0,0,,,,2017
+18,18,Vikings,Sun,January 14,,W,0,14-3,home,New Orleans Saints,29,24,24,403,308,95,1,23,358,278,80,2,12.63,-5.49,-2.99,2017
+19,19,Vikings,Sun,January 21,,L,0,14-4,away,Philadelphia Eagles,7,38,22,333,263,70,3,27,456,346,110,0,-9.11,-25.85,4.48,2017

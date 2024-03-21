@@ -1,35 +1,35 @@
-,Rank,Team,Date,Opponent,Results,Quarter,Distance,Type,Detail
-1,1,Eagles,2017-09-10,WAS,"W, 30-17",2,24,interception,Ryan Kerrigan
-2,2,Eagles,2017-09-10,WAS,"W, 30-17",2,29,pass,Chris Thompson
-3,3,Eagles,2017-09-17,KAN,"L, 20-27",3,53,rush,Kareem Hunt
-4,4,Eagles,2017-09-17,KAN,"L, 20-27",4,15,pass,Travis Kelce
-5,5,Eagles,2017-09-17,KAN,"L, 20-27",4,2,rush,Kareem Hunt
-6,6,Eagles,2017-09-24,NYG,"W, 27-24",4,10,pass,Odell Beckham Jr.
-7,7,Eagles,2017-09-24,NYG,"W, 27-24",4,4,pass,Odell Beckham Jr.
-8,8,Eagles,2017-09-24,NYG,"W, 27-24",4,77,pass,Sterling Shepard
-9,9,Eagles,2017-10-01,LAC,"W, 26-24",2,75,pass,Tyrell Williams
-10,10,Eagles,2017-10-01,LAC,"W, 26-24",4,35,rush,Austin Ekeler
-11,11,Eagles,2017-10-01,LAC,"W, 26-24",4,4,pass,Hunter Henry
-12,12,Eagles,2017-10-08,ARI,"W, 34-7",2,13,pass,John Brown
-13,13,Eagles,2017-10-12,CAR,"W, 28-23",2,16,rush,Cam Newton
-14,14,Eagles,2017-10-12,CAR,"W, 28-23",4,1,pass,Christian McCaffrey
-15,15,Eagles,2017-10-23,WAS,"W, 34-24",2,7,pass,Chris Thompson
-16,16,Eagles,2017-10-23,WAS,"W, 34-24",3,5,pass,Jordan Reed
-17,17,Eagles,2017-10-23,WAS,"W, 34-24",4,12,pass,Jordan Reed
-18,18,Eagles,2017-10-29,SFO,"W, 33-10",3,21,pass,Matt Breida
-19,19,Eagles,2017-11-05,DEN,"W, 51-23",4,1,pass,Demaryius Thomas
-20,20,Eagles,2017-11-05,DEN,"W, 51-23",4,19,fumble,Brandon Marshall
-21,21,Eagles,2017-12-03,SEA,"L, 10-24",1,11,pass,Jimmy Graham
-22,22,Eagles,2017-12-03,SEA,"L, 10-24",3,1,pass,Tyler Lockett
-23,23,Eagles,2017-12-03,SEA,"L, 10-24",4,15,pass,J.D. McKissic
-24,24,Eagles,2017-12-10,LAR,"W, 43-35",1,2,rush,Todd Gurley
-25,25,Eagles,2017-12-10,LAR,"W, 43-35",2,6,pass,Cooper Kupp
-26,26,Eagles,2017-12-10,LAR,"W, 43-35",3,1,pass,Sammy Watkins
-27,27,Eagles,2017-12-10,LAR,"W, 43-35",3,16,blocked punt,Blake Countess
-28,28,Eagles,2017-12-10,LAR,"W, 43-35",4,1,rush,Todd Gurley
-29,29,Eagles,2017-12-17,NYG,"W, 34-29",1,1,rush,Orleans Darkwa
-30,30,Eagles,2017-12-17,NYG,"W, 34-29",1,13,pass,Tavarres King
-31,31,Eagles,2017-12-17,NYG,"W, 34-29",2,67,pass,Sterling Shepard
-32,32,Eagles,2017-12-17,NYG,"W, 34-29",3,57,pass,Tavarres King
-33,33,Eagles,2017-12-25,OAK,"W, 19-10",2,63,pass,Amari Cooper
-34,34,Eagles,2017-12-31,DAL,n/a,4,20,pass,Brice Butler
+,Rank,Team,Date,Opponent,Win/Loss,Score,Quarter,Distance,Type,Detail,Year
+0,1,Eagles,09/10/2017,WAS,Win, 30-17,2,24,interception,Ryan Kerrigan,2017
+1,2,Eagles,09/10/2017,WAS,Win, 30-17,2,29,pass,Chris Thompson,2017
+2,3,Eagles,09/17/2017,KAN,Loss, 20-27,3,53,rush,Kareem Hunt,2017
+3,4,Eagles,09/17/2017,KAN,Loss, 20-27,4,15,pass,Travis Kelce,2017
+4,5,Eagles,09/17/2017,KAN,Loss, 20-27,4,2,rush,Kareem Hunt,2017
+5,6,Eagles,09/24/2017,NYG,Win, 27-24,4,10,pass,Odell Beckham Jr.,2017
+6,7,Eagles,09/24/2017,NYG,Win, 27-24,4,4,pass,Odell Beckham Jr.,2017
+7,8,Eagles,09/24/2017,NYG,Win, 27-24,4,77,pass,Sterling Shepard,2017
+8,9,Eagles,10/01/2017,LAC,Win, 26-24,2,75,pass,Tyrell Williams,2017
+9,10,Eagles,10/01/2017,LAC,Win, 26-24,4,35,rush,Austin Ekeler,2017
+10,11,Eagles,10/01/2017,LAC,Win, 26-24,4,4,pass,Hunter Henry,2017
+11,12,Eagles,10/08/2017,ARI,Win, 34-7,2,13,pass,John Brown,2017
+12,13,Eagles,10/12/2017,CAR,Win, 28-23,2,16,rush,Cam Newton,2017
+13,14,Eagles,10/12/2017,CAR,Win, 28-23,4,1,pass,Christian McCaffrey,2017
+14,15,Eagles,10/23/2017,WAS,Win, 34-24,2,7,pass,Chris Thompson,2017
+15,16,Eagles,10/23/2017,WAS,Win, 34-24,3,5,pass,Jordan Reed,2017
+16,17,Eagles,10/23/2017,WAS,Win, 34-24,4,12,pass,Jordan Reed,2017
+17,18,Eagles,10/29/2017,SFO,Win, 33-10,3,21,pass,Matt Breida,2017
+18,19,Eagles,11/05/2017,DEN,Win, 51-23,4,1,pass,Demaryius Thomas,2017
+19,20,Eagles,11/05/2017,DEN,Win, 51-23,4,19,fumble,Brandon Marshall,2017
+20,21,Eagles,12/03/2017,SEA,Loss, 10-24,1,11,pass,Jimmy Graham,2017
+21,22,Eagles,12/03/2017,SEA,Loss, 10-24,3,1,pass,Tyler Lockett,2017
+22,23,Eagles,12/03/2017,SEA,Loss, 10-24,4,15,pass,J.D. McKissic,2017
+23,24,Eagles,12/10/2017,LAR,Win, 43-35,1,2,rush,Todd Gurley,2017
+24,25,Eagles,12/10/2017,LAR,Win, 43-35,2,6,pass,Cooper Kupp,2017
+25,26,Eagles,12/10/2017,LAR,Win, 43-35,3,1,pass,Sammy Watkins,2017
+26,27,Eagles,12/10/2017,LAR,Win, 43-35,3,16,blocked punt,Blake Countess,2017
+27,28,Eagles,12/10/2017,LAR,Win, 43-35,4,1,rush,Todd Gurley,2017
+28,29,Eagles,12/17/2017,NYG,Win, 34-29,1,1,rush,Orleans Darkwa,2017
+29,30,Eagles,12/17/2017,NYG,Win, 34-29,1,13,pass,Tavarres King,2017
+30,31,Eagles,12/17/2017,NYG,Win, 34-29,2,67,pass,Sterling Shepard,2017
+31,32,Eagles,12/17/2017,NYG,Win, 34-29,3,57,pass,Tavarres King,2017
+32,33,Eagles,12/25/2017,OAK,Win, 19-10,2,63,pass,Amari Cooper,2017
+33,34,Eagles,12/31/2017,DAL,, 19-10,4,20,pass,Brice Butler,2017

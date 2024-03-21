@@ -1,15 +1,15 @@
-,No.,Team,Player,Age,Pos,Games Played,Games Started,Rush TD,Reception TD,Punt Return TD,Kick Return TD,Fumble Return TD,Interception TD,Other TD,All Touchdown Scored,2-Point Conversions Made,Two-Point Conversions Attempted,Defensive Two-Point Conversions,Extra Points Made,Extra Points Allowed,Field Goals Made,Field Goals Attempted,Safeties Scored by Player/Team,Total Points Scored by all Means,Poins per Game
-9,9,Panthers,Graham Gano,30,K,16,0,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,34,37,29,30,n/a,121,7.6
-17,17,Panthers,Devin Funchess,23,WR,16,16,n/a,8,n/a,n/a,n/a,n/a,n/a,8,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,48,3.0
-22,22,Panthers,Christian McCaffrey,21,RB,16,10,2,5,n/a,n/a,n/a,n/a,n/a,7,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,42,2.6
-28,28,Panthers,Jonathan Stewart,30,RB,15,10,6,1,n/a,n/a,n/a,n/a,n/a,7,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,42,2.8
-1,1,Panthers,Cam Newton,28,QB,16,16,6,n/a,n/a,n/a,n/a,n/a,n/a,6,1,n/a,n/a,n/a,n/a,n/a,n/a,n/a,38,2.4
-18,18,Panthers,Damiere Byrd,24,WR,8,3,n/a,2,n/a,1,n/a,n/a,n/a,3,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,18,2.3
-13,13,Panthers,Kelvin Benjamin,26,WR,8,8,n/a,2,n/a,n/a,n/a,n/a,n/a,2,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,12,1.5
-34,34,Panthers,Cameron Artis-Payne,27,RB,13,0,1,n/a,n/a,n/a,n/a,n/a,n/a,1,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,6,0.5
-12,12,Panthers,Kaelin Clay,25,WR,9,2,n/a,n/a,1,n/a,n/a,n/a,n/a,1,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,6,0.7
-84,84,Panthers,Ed Dickson,30,TE,16,12,n/a,1,n/a,n/a,n/a,n/a,n/a,1,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,6,0.4
-59,59,Panthers,Luke Kuechly,26,MLB,15,15,n/a,n/a,n/a,n/a,1,n/a,n/a,1,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,6,0.4
-88,88,Panthers,Greg Olsen,32,TE,7,7,n/a,1,n/a,n/a,n/a,n/a,n/a,1,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,6,0.9
-19,19,Panthers,Russell Shepard,27,WR,15,3,n/a,1,n/a,n/a,n/a,n/a,n/a,1,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,6,0.4
-43,43,Panthers,Fozzy Whittaker,28,RB,12,0,n/a,1,n/a,n/a,n/a,n/a,n/a,1,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,6,0.5
+,No.,Team,Player,Age,Pos,Games Played,Games Started,Rush TD,Reception TD,Punt Return TD,Kick Return TD,Fumble Return TD,Interception TD,Other TD,All Touchdown Scored,2-Point Conversions Made,Two-Point Conversions Attempted,Defensive Two-Point Conversions,Extra Points Made,Extra Points Allowed,Field Goals Made,Field Goals Attempted,Safeties Scored by Player/Team,Total Points Scored by all Means,Poins per Game,Year
+0,9,Panthers,Graham Gano,30,K,16,0,0,0,0,0,0,0,0,0,0,0,0,34,37,29,30,,121,7.6,2017
+1,17,Panthers,Devin Funchess,23,WR,16,16,0,8,0,0,0,0,0,8,0,0,0,0,0,0,0,,48,3.0,2017
+2,22,Panthers,Christian McCaffrey,21,RB,16,10,2,5,0,0,0,0,0,7,0,0,0,0,0,0,0,,42,2.6,2017
+3,28,Panthers,Jonathan Stewart,30,RB,15,10,6,1,0,0,0,0,0,7,0,0,0,0,0,0,0,,42,2.8,2017
+4,1,Panthers,Cam Newton,28,QB,16,16,6,0,0,0,0,0,0,6,1,0,0,0,0,0,0,,38,2.4,2017
+5,18,Panthers,Damiere Byrd,24,WR,8,3,0,2,0,1,0,0,0,3,0,0,0,0,0,0,0,,18,2.3,2017
+6,13,Panthers,Kelvin Benjamin,26,WR,8,8,0,2,0,0,0,0,0,2,0,0,0,0,0,0,0,,12,1.5,2017
+7,34,Panthers,Cameron Artis-Payne,27,RB,13,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,,6,0.5,2017
+8,12,Panthers,Kaelin Clay,25,WR,9,2,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,,6,0.7,2017
+9,84,Panthers,Ed Dickson,30,TE,16,12,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,,6,0.4,2017
+10,59,Panthers,Luke Kuechly,26,MLB,15,15,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,,6,0.4,2017
+11,88,Panthers,Greg Olsen,32,TE,7,7,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,,6,0.9,2017
+12,19,Panthers,Russell Shepard,27,WR,15,3,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,,6,0.4,2017
+13,43,Panthers,Fozzy Whittaker,28,RB,12,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,,6,0.5,2017

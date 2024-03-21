@@ -1,15 +1,15 @@
-,No.,Team,Player,Age,Pos,Games Played,Games Started,Rush TD,Reception TD,Punt Return TD,Kick Return TD,Fumble Return TD,Interception TD,Other TD,All Touchdown Scored,2-Point Conversions Made,Two-Point Conversions Attempted,Defensive Two-Point Conversions,Extra Points Made,Extra Points Allowed,Field Goals Made,Field Goals Attempted,Safeties Scored by Player/Team,Total Points Scored by all Means,Poins per Game
-7,7,Seahawks,Blair Walsh,27,K,16,0,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,37,38,21,29,n/a,100,6.3
-88,88,Seahawks,Jimmy Graham,31,TE,16,13,n/a,10,n/a,n/a,n/a,n/a,n/a,10,1,n/a,n/a,n/a,n/a,n/a,n/a,n/a,62,3.9
-89,89,Seahawks,Doug Baldwin,29,WR,16,16,n/a,8,n/a,n/a,n/a,n/a,n/a,8,1,n/a,n/a,n/a,n/a,n/a,n/a,n/a,50,3.1
-10,10,Seahawks,Paul Richardson,25,WR,16,13,n/a,6,n/a,n/a,n/a,n/a,n/a,6,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,36,2.3
-82,82,Seahawks,Luke Willson,27,TE,16,7,n/a,4,n/a,n/a,n/a,n/a,n/a,4,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,24,1.5
-16,16,Seahawks,Tyler Lockett,25,WR,16,8,n/a,2,n/a,1,n/a,n/a,n/a,3,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,18,1.1
-21,21,Seahawks,J.D. McKissic,24,WR,13,1,1,2,n/a,n/a,n/a,n/a,n/a,3,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,18,1.4
-3,3,Seahawks,Russell Wilson,29,QB,16,16,3,n/a,n/a,n/a,n/a,n/a,n/a,3,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,18,1.1
-28,28,Seahawks,Justin Coleman,24,DB,16,5,n/a,n/a,n/a,n/a,n/a,2,n/a,2,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,12,0.8
-54,54,Seahawks,Bobby Wagner,27,MLB,16,16,n/a,n/a,n/a,n/a,1,n/a,n/a,1,n/a,n/a,n/a,n/a,n/a,n/a,n/a,1,8,0.5
-32,32,Seahawks,Chris Carson,23,RB,4,3,n/a,1,n/a,n/a,n/a,n/a,n/a,1,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,6,1.5
-29,29,Seahawks,Earl Thomas,28,FS,14,14,n/a,n/a,n/a,n/a,n/a,1,n/a,1,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,6,0.4
-81,81,Seahawks,Nick Vannett,24,TE,15,4,n/a,1,n/a,n/a,n/a,n/a,n/a,1,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,6,0.4
-31,31,Seahawks,Kam Chancellor,29,SS,9,9,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,1,2,0.2
+,No.,Team,Player,Age,Pos,Games Played,Games Started,Rush TD,Reception TD,Punt Return TD,Kick Return TD,Fumble Return TD,Interception TD,Other TD,All Touchdown Scored,2-Point Conversions Made,Two-Point Conversions Attempted,Defensive Two-Point Conversions,Extra Points Made,Extra Points Allowed,Field Goals Made,Field Goals Attempted,Safeties Scored by Player/Team,Total Points Scored by all Means,Poins per Game,Year
+0,7,Seahawks,Blair Walsh,27,K,16,0,0,0,0,0,0,0,0,0,0,0,0,37,38,21,29,,100,6.3,2017
+1,88,Seahawks,Jimmy Graham,31,TE,16,13,0,10,0,0,0,0,0,10,1,0,0,0,0,0,0,,62,3.9,2017
+2,89,Seahawks,Doug Baldwin,29,WR,16,16,0,8,0,0,0,0,0,8,1,0,0,0,0,0,0,,50,3.1,2017
+3,10,Seahawks,Paul Richardson,25,WR,16,13,0,6,0,0,0,0,0,6,0,0,0,0,0,0,0,,36,2.3,2017
+4,82,Seahawks,Luke Willson,27,TE,16,7,0,4,0,0,0,0,0,4,0,0,0,0,0,0,0,,24,1.5,2017
+5,16,Seahawks,Tyler Lockett,25,WR,16,8,0,2,0,1,0,0,0,3,0,0,0,0,0,0,0,,18,1.1,2017
+6,21,Seahawks,J.D. McKissic,24,RB,13,1,1,2,0,0,0,0,0,3,0,0,0,0,0,0,0,,18,1.4,2017
+7,3,Seahawks,Russell Wilson,29,QB,16,16,3,0,0,0,0,0,0,3,0,0,0,0,0,0,0,,18,1.1,2017
+8,28,Seahawks,Justin Coleman,24,DB,16,5,0,0,0,0,0,2,0,2,0,0,0,0,0,0,0,,12,0.8,2017
+9,54,Seahawks,Bobby Wagner,27,MLB,16,16,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,1.0,8,0.5,2017
+10,32,Seahawks,Chris Carson,23,RB,4,3,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,,6,1.5,2017
+11,29,Seahawks,Earl Thomas,28,FS,14,14,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,,6,0.4,2017
+12,81,Seahawks,Nick Vannett,24,TE,15,4,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,,6,0.4,2017
+13,31,Seahawks,Kam Chancellor,29,SS,9,9,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1.0,2,0.2,2017

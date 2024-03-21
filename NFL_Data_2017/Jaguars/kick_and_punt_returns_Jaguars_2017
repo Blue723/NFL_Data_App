@@ -1,9 +1,9 @@
-,No.,Team,Player,Age,Position,Games Played,Games Started,Punts Returned,Punts Return Yardage,Punts Returned for Touchdown,Longest Punt Return,Yards per Punt Return,Kickoff Returns,Yardage for Kickoffs Returned,Kickoffs Returned for a Touchdown,Longest Kickoff Return,Yards per Kickoff Return,All-purpose Yards
-85,85,Jaguars,Jaydon Mickens,23,WR,10,0,27,287,1,72,10.6,2,20,0,20,10.0,384
-30,30,Jaguars,Corey Grant,26,RB,16,0,0,6,0,6,n/a,19,473,0,68,24.9,768
-11,11,Jaguars,Marqise Lee,26,WR,14,14,5,13,0,7,2.6,n/a,n/a,0,n/a,n/a,732
-84,84,Jaguars,Keelan Cole,24,WR,16,6,n/a,n/a,0,n/a,n/a,2,26,0,14,13.0,774
-40,40,Jaguars,Tommy Bohanon,27,FB,16,10,n/a,n/a,0,n/a,n/a,1,14,0,14,14.0,62
-19,19,Jaguars,Max McCaffrey,23,WR,5,0,1,0,0,0,0.0,n/a,n/a,0,n/a,n/a,4
-31,31,Jaguars,Jalen Myrick,22,DB,5,0,n/a,n/a,0,n/a,n/a,1,18,0,18,18.0,18
-12,12,Jaguars,Dede Westbrook,24,WR,7,5,1,19,0,19,19.0,n/a,n/a,0,n/a,n/a,358
+,No.,Team,Player,Age,Position,Games Played,Games Started,Punts Returned,Punts Return Yardage,Punts Returned for Touchdown,Longest Punt Return,Yards per Punt Return,Kickoff Returns,Yardage for Kickoffs Returned,Kickoffs Returned for a Touchdown,Longest Kickoff Return,Yards per Kickoff Return,All-purpose Yards,Year
+0,85,Jaguars,Jaydon Mickens,23,WR,10,0,27,287,1,72,10.6,2,20,0,20,10.0,384,2017
+1,30,Jaguars,Corey Grant,26,RB,16,0,0,6,0,6,,19,473,0,68,24.9,768,2017
+2,11,Jaguars,Marqise Lee,26,WR,14,14,5,13,0,7,2.6,0,0,0,0,,732,2017
+3,84,Jaguars,Keelan Cole,24,WR,16,6,0,0,0,0,,2,26,0,14,13.0,774,2017
+4,40,Jaguars,Tommy Bohanon,27,FB,16,10,0,0,0,0,,1,14,0,14,14.0,62,2017
+5,19,Jaguars,Max McCaffrey,23,WR,5,0,1,0,0,0,0.0,0,0,0,0,,4,2017
+6,31,Jaguars,Jalen Myrick,22,DB,5,0,0,0,0,0,,1,18,0,18,18.0,18,2017
+7,12,Jaguars,Dede Westbrook,24,WR,7,5,1,19,0,19,19.0,0,0,0,0,,358,2017

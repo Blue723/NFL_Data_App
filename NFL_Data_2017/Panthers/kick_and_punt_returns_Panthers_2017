@@ -1,9 +1,9 @@
-,No.,Team,Player,Age,Position,Games Played,Games Started,Punts Returned,Punts Return Yardage,Punts Returned for Touchdown,Longest Punt Return,Yards per Punt Return,Kickoff Returns,Yardage for Kickoffs Returned,Kickoffs Returned for a Touchdown,Longest Kickoff Return,Yards per Kickoff Return,All-purpose Yards
-22,22,Panthers,Christian McCaffrey,21,RB,16,10,22,162,0,25,7.4,3,58,0,21,19.3,1306
-12,12,Panthers,Kaelin Clay,25,WR,9,2,17,147,1,60,8.6,3,52,0,19,17.3,283
-10,10,Panthers,Curtis Samuel,21,WR,9,4,n/a,n/a,0,n/a,n/a,10,221,0,33,22.1,400
-18,18,Panthers,Damiere Byrd,24,WR,8,3,1,9,0,9,9.0,7,229,1,103,32.7,355
-43,43,Panthers,Fozzy Whittaker,28,RB,12,0,n/a,n/a,0,n/a,n/a,6,110,0,31,18.3,175
-19,19,Panthers,Russell Shepard,27,WR,15,3,n/a,n/a,0,n/a,n/a,3,65,0,33,21.7,286
-91,91,Panthers,Bryan Cox Jr.,23,DE,7,0,n/a,n/a,0,n/a,n/a,1,13,0,13,13.0,28
-55,55,Panthers,David Mayo,24,LB,16,1,n/a,n/a,0,n/a,n/a,1,12,0,12,12.0,12
+,No.,Team,Player,Age,Position,Games Played,Games Started,Punts Returned,Punts Return Yardage,Punts Returned for Touchdown,Longest Punt Return,Yards per Punt Return,Kickoff Returns,Yardage for Kickoffs Returned,Kickoffs Returned for a Touchdown,Longest Kickoff Return,Yards per Kickoff Return,All-purpose Yards,Year
+0,22,Panthers,Christian McCaffrey,21,RB,16,10,22,162,0,25,7.4,3,58,0,21,19.3,1306,2017
+1,12,Panthers,Kaelin Clay,25,WR,9,2,17,147,1,60,8.6,3,52,0,19,17.3,283,2017
+2,10,Panthers,Curtis Samuel,21,WR,9,4,0,0,0,0,,10,221,0,33,22.1,400,2017
+3,18,Panthers,Damiere Byrd,24,WR,8,3,1,9,0,9,9.0,7,229,1,103,32.7,355,2017
+4,43,Panthers,Fozzy Whittaker,28,RB,12,0,0,0,0,0,,6,110,0,31,18.3,175,2017
+5,19,Panthers,Russell Shepard,27,WR,15,3,0,0,0,0,,3,65,0,33,21.7,286,2017
+6,91,Panthers,Bryan Cox Jr.,23,DE,7,0,0,0,0,0,,1,13,0,13,13.0,28,2017
+7,55,Panthers,David Mayo,24,LB,16,1,0,0,0,0,,1,12,0,12,12.0,12,2017

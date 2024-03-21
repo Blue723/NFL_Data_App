@@ -1,18 +1,18 @@
-,Week,Team,Day,Date,Time,Win/Loss,Overtime,Team Record,Home/Away,Opponent,Points Scored,Points Allowed,Offense 1st Down,Total Yards Gained of Offense,Total yards Gained by Passing,Total Yards Gained by Rushing,Offense Turnovers,Defense 1st Down,Total Yards Allowed by Defense,Total Passing Yards Allowed by Defense,Total Rushing Yards Allowed by Defense,Defense Turnovers,Offense,Defense,Sp. Tms
-1,1,Browns,Sun,September 10,1:00PM ET,L,n/a,0-1,home,Pittsburgh Steelers,18,21,20,237,180,57,1,16,290,255,35,1,1.53,-0.73,-4.80
-2,2,Browns,Sun,September 17,1:00PM ET,L,n/a,0-2,away,Baltimore Ravens,10,24,20,386,293,93,5,24,337,201,136,2,-13.26,-3.42,2.88
-3,3,Browns,Sun,September 24,1:00PM ET,L,n/a,0-3,away,Indianapolis Colts,28,31,25,346,235,111,3,16,335,243,92,1,2.85,-6.84,-0.67
-4,4,Browns,Sun,October 1,1:00PM ET,L,n/a,0-4,home,Cincinnati Bengals,7,31,16,215,170,45,1,25,350,264,86,1,-9.03,-13.73,-1.92
-5,5,Browns,Sun,October 8,1:00PM ET,L,n/a,0-5,home,New York Jets,14,17,22,419,279,140,3,14,212,178,34,1,0.76,4.16,-7.92
-6,6,Browns,Sun,October 15,1:00PM ET,L,n/a,0-6,away,Houston Texans,17,33,16,247,113,134,3,18,340,217,123,1,-19.02,-1.49,-0.42
-7,7,Browns,Sun,October 22,1:00PM ET,L,OT,0-7,home,Tennessee Titans,9,12,19,284,218,66,3,16,269,189,80,1,-16.43,13.07,0.40
-8,8,Browns,Sun,October 29,9:30AM ET,L,n/a,0-8,home,Minnesota Vikings,16,33,16,276,161,115,2,26,375,287,88,1,-4.53,-8.79,-0.63
-9,9,Browns,n/a,n/a,n/a,n/a,n/a,n/a,home,<strong>Bye Week</strong>,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
-10,10,Browns,Sun,November 12,1:00PM ET,L,n/a,0-9,away,Detroit Lions,24,38,26,413,212,201,2,16,345,241,104,1,4.03,-10.64,-1.11
-11,11,Browns,Sun,November 19,1:00PM ET,L,n/a,0-10,home,Jacksonville Jaguars,7,19,11,184,134,50,5,15,284,145,139,1,-29.60,18.04,3.13
-12,12,Browns,Sun,November 26,1:00PM ET,L,n/a,0-11,away,Cincinnati Bengals,16,30,21,405,236,169,n/a,23,361,209,152,n/a,8.19,-15.48,-5.93
-13,13,Browns,Sun,December 3,4:05PM ET,L,n/a,0-12,away,Los Angeles Chargers,10,19,17,291,202,89,2,23,429,335,94,n/a,0.51,-14.62,6.33
-14,14,Browns,Sun,December 10,1:00PM ET,L,OT,0-13,home,Green Bay Packers,21,27,17,345,209,136,2,24,341,256,85,n/a,10.15,-13.46,-2.42
-15,15,Browns,Sun,December 17,1:00PM ET,L,n/a,0-14,home,Baltimore Ravens,10,27,15,266,136,130,4,23,376,279,97,n/a,-16.05,-4.51,1.63
-16,16,Browns,Sun,December 24,1:00PM ET,L,n/a,0-15,away,Chicago Bears,3,20,12,254,178,76,3,16,258,161,97,n/a,-16.99,-0.75,2.44
-17,17,Browns,Sun,December 31,1:00PM ET,L,n/a,0-16,away,Pittsburgh Steelers,24,28,17,374,272,102,2,20,348,224,124,2,3.23,-0.88,-4.30
+,Week,Team,Day,Date,Time,Win/Loss,Overtime,Team Record,Home/Away,Opponent,Points Scored,Points Allowed,Offense 1st Down,Total Yards Gained of Offense,Total yards Gained by Passing,Total Yards Gained by Rushing,Offense Turnovers,Defense 1st Down,Total Yards Allowed by Defense,Total Passing Yards Allowed by Defense,Total Rushing Yards Allowed by Defense,Defense Turnovers,Offense,Defense,Sp. Tms,Year
+0,0,Browns,Sun,September 10,,L,0,0-1,home,Pittsburgh Steelers,18,21,20,237,180,57,1,16,290,255,35,1,1.53,-0.73,-4.8,2017
+1,1,Browns,Sun,September 17,,L,0,0-2,away,Baltimore Ravens,10,24,20,386,293,93,5,24,337,201,136,2,-13.26,-3.42,2.88,2017
+2,2,Browns,Sun,September 24,,L,0,0-3,away,Indianapolis Colts,28,31,25,346,235,111,3,16,335,243,92,1,2.85,-6.84,-0.67,2017
+3,3,Browns,Sun,October 1,,L,0,0-4,home,Cincinnati Bengals,7,31,16,215,170,45,1,25,350,264,86,1,-9.03,-13.73,-1.92,2017
+4,4,Browns,Sun,October 8,,L,0,0-5,home,New York Jets,14,17,22,419,279,140,3,14,212,178,34,1,0.76,4.16,-7.92,2017
+5,5,Browns,Sun,October 15,,L,0,0-6,away,Houston Texans,17,33,16,247,113,134,3,18,340,217,123,1,-19.02,-1.49,-0.42,2017
+6,6,1,1,1,1.0,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1.0,1.0,1.0,1
+7,7,Browns,Sun,October 29,,L,0,0-8,home,Minnesota Vikings,16,33,16,276,161,115,2,26,375,287,88,1,-4.53,-8.79,-0.63,2017
+8,8,Browns,,,,,0,,home,<strong>Bye Week</strong>,0,0,0,0,0,0,0,0,0,0,0,0,,,,2017
+9,9,Browns,Sun,November 12,,L,0,0-9,away,Detroit Lions,24,38,26,413,212,201,2,16,345,241,104,1,4.03,-10.64,-1.11,2017
+10,10,Browns,Sun,November 19,,L,0,0-10,home,Jacksonville Jaguars,7,19,11,184,134,50,5,15,284,145,139,1,-29.6,18.04,3.13,2017
+11,11,Browns,Sun,November 26,,L,0,0-11,away,Cincinnati Bengals,16,30,21,405,236,169,0,23,361,209,152,0,8.19,-15.48,-5.93,2017
+12,12,Browns,Sun,December 3,,L,0,0-12,away,Los Angeles Chargers,10,19,17,291,202,89,2,23,429,335,94,0,0.51,-14.62,6.33,2017
+13,13,1,1,1,1.0,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1.0,1.0,1.0,1
+14,14,Browns,Sun,December 17,,L,0,0-14,home,Baltimore Ravens,10,27,15,266,136,130,4,23,376,279,97,0,-16.05,-4.51,1.63,2017
+15,15,Browns,Sun,December 24,,L,0,0-15,away,Chicago Bears,3,20,12,254,178,76,3,16,258,161,97,0,-16.99,-0.75,2.44,2017
+16,16,Browns,Sun,December 31,,L,0,0-16,away,Pittsburgh Steelers,24,28,17,374,272,102,2,20,348,224,124,2,3.23,-0.88,-4.3,2017

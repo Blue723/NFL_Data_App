@@ -1,15 +1,15 @@
-,No.,Team,Player,Age,Pos,Games Played,Games Started,Rush TD,Reception TD,Punt Return TD,Kick Return TD,Fumble Return TD,Interception TD,Other TD,All Touchdown Scored,2-Point Conversions Made,Two-Point Conversions Attempted,Defensive Two-Point Conversions,Extra Points Made,Extra Points Allowed,Field Goals Made,Field Goals Attempted,Safeties Scored by Player/Team,Total Points Scored by all Means,Poins per Game
-4,4,Bengals,Randy Bullock,28,K,15,0,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,31,33,18,20,n/a,85,5.7
-18,18,Bengals,A.J. Green,29,WR,16,16,n/a,8,n/a,n/a,n/a,n/a,n/a,8,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,48,3.0
-81,81,Bengals,Tyler Kroft,25,TE,16,16,n/a,7,n/a,n/a,n/a,n/a,n/a,7,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,42,2.6
-25,25,Bengals,Giovani Bernard,26,RB,16,2,2,2,n/a,n/a,n/a,n/a,n/a,4,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,24,1.5
-28,28,Bengals,Joe Mixon,21,RB,14,7,4,n/a,n/a,n/a,n/a,n/a,n/a,4,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,24,1.7
-11,11,Bengals,Brandon LaFell,31,WR,16,15,n/a,3,n/a,n/a,n/a,n/a,n/a,3,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,18,1.1
-83,83,Bengals,Tyler Boyd,23,WR,10,1,n/a,2,n/a,n/a,n/a,n/a,n/a,2,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,12,1.2
-21,21,Bengals,Darqueze Dennard,26,DB,16,6,n/a,n/a,n/a,n/a,n/a,1,n/a,1,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,6,0.4
-96,96,Bengals,Carlos Dunlap,28,LDE,16,16,n/a,n/a,n/a,n/a,n/a,1,n/a,1,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,6,0.4
-12,12,Bengals,Alex Erickson,25,WR,16,0,n/a,1,n/a,n/a,n/a,n/a,n/a,1,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,6,0.4
-22,22,Bengals,William Jackson III,25,DB,15,5,n/a,n/a,n/a,n/a,n/a,1,n/a,1,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,6,0.4
-80,80,Bengals,Josh Malone,21,WR,11,7,n/a,1,n/a,n/a,n/a,n/a,n/a,1,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,6,0.5
-87,87,Bengals,C.J. Uzomah,24,TE,14,4,n/a,1,n/a,n/a,n/a,n/a,n/a,1,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,6,0.4
-3,3,Bengals,Marshall Koehn,25,K,1,0,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,1,1,n/a,n/a,n/a,1,1.0
+,No.,Team,Player,Age,Pos,Games Played,Games Started,Rush TD,Reception TD,Punt Return TD,Kick Return TD,Fumble Return TD,Interception TD,Other TD,All Touchdown Scored,2-Point Conversions Made,Two-Point Conversions Attempted,Defensive Two-Point Conversions,Extra Points Made,Extra Points Allowed,Field Goals Made,Field Goals Attempted,Safeties Scored by Player/Team,Total Points Scored by all Means,Poins per Game,Year
+0,4,Bengals,Randy Bullock,28,K,15,0,0,0,0,0,0,0,0,0,0,0,0,31,33,18,20,,85,5.7,2017
+1,18,Bengals,A.J. Green,29,WR,16,16,0,8,0,0,0,0,0,8,0,0,0,0,0,0,0,,48,3.0,2017
+2,81,Bengals,Tyler Kroft,25,TE,16,16,0,7,0,0,0,0,0,7,0,0,0,0,0,0,0,,42,2.6,2017
+3,25,Bengals,Giovani Bernard,26,RB,16,2,2,2,0,0,0,0,0,4,0,0,0,0,0,0,0,,24,1.5,2017
+4,28,Bengals,Joe Mixon,21,RB,14,7,4,0,0,0,0,0,0,4,0,0,0,0,0,0,0,,24,1.7,2017
+5,11,Bengals,Brandon LaFell,31,WR,16,15,0,3,0,0,0,0,0,3,0,0,0,0,0,0,0,,18,1.1,2017
+6,83,Bengals,Tyler Boyd,23,WR,10,1,0,2,0,0,0,0,0,2,0,0,0,0,0,0,0,,12,1.2,2017
+7,21,Bengals,Darqueze Dennard,26,DB,16,6,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,,6,0.4,2017
+8,96,Bengals,Carlos Dunlap,28,LDE,16,16,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,,6,0.4,2017
+9,12,Bengals,Alex Erickson,25,WR,16,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,,6,0.4,2017
+10,22,Bengals,William Jackson III,25,DB,15,5,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,,6,0.4,2017
+11,80,Bengals,Josh Malone,21,WR,11,7,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,,6,0.5,2017
+12,87,Bengals,C.J. Uzomah,24,TE,14,4,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,,6,0.4,2017
+13,3,Bengals,Marshall Koehn,25,K,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,,1,1.0,2017

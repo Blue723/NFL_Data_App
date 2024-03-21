@@ -1,32 +1,32 @@
-,Rank,Team,Date,Opponent,Results,Quarter,Distance,Type,Detail
-1,1,Broncos,2017-09-11,LAC,"W, 24-21",1,5,pass,Bennie Fowler
-2,2,Broncos,2017-09-11,LAC,"W, 24-21",2,1,rush,Trevor Siemian
-3,3,Broncos,2017-09-11,LAC,"W, 24-21",3,6,pass,Bennie Fowler
-4,4,Broncos,2017-09-17,DAL,"W, 42-17",1,10,pass,Emmanuel Sanders
-5,5,Broncos,2017-09-17,DAL,"W, 42-17",2,16,pass,C.J. Anderson
-6,6,Broncos,2017-09-17,DAL,"W, 42-17",2,6,pass,Emmanuel Sanders
-7,7,Broncos,2017-09-17,DAL,"W, 42-17",3,2,pass,Virgil Green
-8,8,Broncos,2017-09-17,DAL,"W, 42-17",3,23,rush,C.J. Anderson
-9,9,Broncos,2017-09-17,DAL,"W, 42-17",4,103,interception,Aqib Talib
-10,10,Broncos,2017-09-24,BUF,"L, 16-26",2,12,rush,Jamaal Charles
-11,11,Broncos,2017-10-01,OAK,"W, 16-10",1,22,pass,A.J. Derby
-12,12,Broncos,2017-10-15,NYG,"L, 10-23",4,13,pass,Jeff Heuerman
-13,13,Broncos,2017-10-30,KAN,"L, 19-29",3,6,rush,Devontae Booker
-14,14,Broncos,2017-10-30,KAN,"L, 19-29",4,11,pass,A.J. Derby
-15,15,Broncos,2017-11-05,PHI,"L, 23-51",4,1,pass,Demaryius Thomas
-16,16,Broncos,2017-11-05,PHI,"L, 23-51",4,19,fumble,Brandon Marshall
-17,17,Broncos,2017-11-12,NWE,"L, 16-41",3,7,pass,Demaryius Thomas
-18,18,Broncos,2017-11-19,CIN,"L, 17-20",1,3,rush,C.J. Anderson
-19,19,Broncos,2017-11-19,CIN,"L, 17-20",4,17,pass,Demaryius Thomas
-20,20,Broncos,2017-11-26,OAK,"L, 14-21",4,25,pass,Cody Latimer
-21,21,Broncos,2017-11-26,OAK,"L, 14-21",4,22,pass,Bennie Fowler
-22,22,Broncos,2017-12-03,MIA,"L, 9-35",3,65,interception,Justin Simmons
-23,23,Broncos,2017-12-10,NYJ,n/a,1,20,pass,Demaryius Thomas
-24,24,Broncos,2017-12-10,NYJ,n/a,3,1,rush,Andy Janovich
-25,25,Broncos,2017-12-14,IND,"W, 25-13",2,18,rush,Brock Osweiler
-26,26,Broncos,2017-12-14,IND,"W, 25-13",3,22,pass,Cody Latimer
-27,27,Broncos,2017-12-14,IND,"W, 25-13",3,54,pass,Jeff Heuerman
-28,28,Broncos,2017-12-24,WAS,"L, 11-27",4,5,rush,C.J. Anderson
-29,29,Broncos,2017-12-31,KAN,"L, 24-27",2,29,pass,De'Angelo Henderson
-30,30,Broncos,2017-12-31,KAN,"L, 24-27",4,38,fumble,Zaire Anderson
-31,31,Broncos,2017-12-31,KAN,"L, 24-27",4,6,pass,Demaryius Thomas
+,Rank,Team,Date,Opponent,Win/Loss,Score,Quarter,Distance,Type,Detail,Year
+0,1,Broncos,09/11/2017,LAC,Win, 24-21,1,5,pass,Bennie Fowler,2017
+1,2,Broncos,09/11/2017,LAC,Win, 24-21,2,1,rush,Trevor Siemian,2017
+2,3,Broncos,09/11/2017,LAC,Win, 24-21,3,6,pass,Bennie Fowler,2017
+3,4,Broncos,09/17/2017,DAL,Win, 42-17,1,10,pass,Emmanuel Sanders,2017
+4,5,Broncos,09/17/2017,DAL,Win, 42-17,2,16,pass,C.J. Anderson,2017
+5,6,Broncos,09/17/2017,DAL,Win, 42-17,2,6,pass,Emmanuel Sanders,2017
+6,7,Broncos,09/17/2017,DAL,Win, 42-17,3,2,pass,Virgil Green,2017
+7,8,Broncos,09/17/2017,DAL,Win, 42-17,3,23,rush,C.J. Anderson,2017
+8,9,Broncos,09/17/2017,DAL,Win, 42-17,4,103,interception,Aqib Talib,2017
+9,10,Broncos,09/24/2017,BUF,Loss, 16-26,2,12,rush,Jamaal Charles,2017
+10,11,Broncos,10/01/2017,OAK,Win, 16-10,1,22,pass,A.J. Derby,2017
+11,12,Broncos,10/15/2017,NYG,Loss, 10-23,4,13,pass,Jeff Heuerman,2017
+12,13,Broncos,10/30/2017,KAN,Loss, 19-29,3,6,rush,Devontae Booker,2017
+13,14,Broncos,10/30/2017,KAN,Loss, 19-29,4,11,pass,A.J. Derby,2017
+14,15,Broncos,11/05/2017,PHI,Loss, 23-51,4,1,pass,Demaryius Thomas,2017
+15,16,Broncos,11/05/2017,PHI,Loss, 23-51,4,19,fumble,Brandon Marshall,2017
+16,17,Broncos,11/12/2017,NWE,Loss, 16-41,3,7,pass,Demaryius Thomas,2017
+17,18,Broncos,11/19/2017,CIN,Loss, 17-20,1,3,rush,C.J. Anderson,2017
+18,19,Broncos,11/19/2017,CIN,Loss, 17-20,4,17,pass,Demaryius Thomas,2017
+19,20,Broncos,11/26/2017,OAK,Loss, 14-21,4,25,pass,Cody Latimer,2017
+20,21,Broncos,11/26/2017,OAK,Loss, 14-21,4,22,pass,Bennie Fowler,2017
+21,22,Broncos,12/03/2017,MIA,Loss, 9-35,3,65,interception,Justin Simmons,2017
+22,23,Broncos,12/10/2017,NYJ,,,1,20,pass,Demaryius Thomas,2017
+23,24,Broncos,12/10/2017,NYJ,,,3,1,rush,Andy Janovich,2017
+24,25,Broncos,12/14/2017,IND,Win, 25-13,2,18,rush,Brock Osweiler,2017
+25,26,Broncos,12/14/2017,IND,Win, 25-13,3,22,pass,Cody Latimer,2017
+26,27,Broncos,12/14/2017,IND,Win, 25-13,3,54,pass,Jeff Heuerman,2017
+27,28,Broncos,12/24/2017,WAS,Loss, 11-27,4,5,rush,C.J. Anderson,2017
+28,29,Broncos,12/31/2017,KAN,Loss, 24-27,2,29,pass,De'Angelo Henderson,2017
+29,30,Broncos,12/31/2017,KAN,Loss, 24-27,4,38,fumble,Zaire Anderson,2017
+30,31,Broncos,12/31/2017,KAN,Loss, 24-27,4,6,pass,Demaryius Thomas,2017

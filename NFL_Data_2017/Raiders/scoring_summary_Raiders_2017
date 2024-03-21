@@ -1,12 +1,12 @@
-,No.,Team,Player,Age,Pos,Games Played,Games Started,Rush TD,Reception TD,Punt Return TD,Kick Return TD,Fumble Return TD,Interception TD,Other TD,All Touchdown Scored,2-Point Conversions Made,Two-Point Conversions Attempted,Defensive Two-Point Conversions,Extra Points Made,Extra Points Allowed,Field Goals Made,Field Goals Attempted,Safeties Scored by Player/Team,Total Points Scored by all Means,Poins per Game
-2,2,Raiders,Giorgio Tavecchio,27,K,16,0,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,33,34,16,21,n/a,81,5.1
-15,15,Raiders,Michael Crabtree,30,WR,14,14,n/a,8,n/a,n/a,n/a,n/a,n/a,8,2,n/a,n/a,n/a,n/a,n/a,n/a,n/a,52,3.7
-89,89,Raiders,Amari Cooper,23,WR,14,12,n/a,7,n/a,n/a,n/a,n/a,n/a,7,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,42,3.0
-24,24,Raiders,Marshawn Lynch,31,RB,15,15,7,n/a,n/a,n/a,n/a,n/a,n/a,7,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,42,2.8
-16,16,Raiders,Johnny Holton,27,WR,16,1,n/a,3,n/a,n/a,n/a,n/a,n/a,3,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,18,1.1
-33,33,Raiders,DeAndre Washington,24,RB,15,0,2,1,n/a,n/a,n/a,n/a,n/a,3,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,18,1.2
-87,87,Raiders,Jared Cook,30,TE,16,16,n/a,2,n/a,n/a,n/a,n/a,n/a,2,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,12,0.8
-84,84,Raiders,Cordarrelle Patterson,26,WR,16,2,2,n/a,n/a,n/a,n/a,n/a,n/a,2,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,12,0.8
-30,30,Raiders,Jalen Richard,24,RB,16,1,1,1,n/a,n/a,n/a,n/a,n/a,2,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,12,0.8
-49,49,Raiders,Jamize Olawale,28,FB,12,0,1,n/a,n/a,n/a,n/a,n/a,n/a,1,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,6,0.5
-10,10,Raiders,Seth Roberts,26,WR,15,7,n/a,1,n/a,n/a,n/a,n/a,n/a,1,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,6,0.4
+,No.,Team,Player,Age,Pos,Games Played,Games Started,Rush TD,Reception TD,Punt Return TD,Kick Return TD,Fumble Return TD,Interception TD,Other TD,All Touchdown Scored,2-Point Conversions Made,Two-Point Conversions Attempted,Defensive Two-Point Conversions,Extra Points Made,Extra Points Allowed,Field Goals Made,Field Goals Attempted,Safeties Scored by Player/Team,Total Points Scored by all Means,Poins per Game,Year
+0,2,Raiders,Giorgio Tavecchio,27,K,16,0,0,0,0,0,0,0,0,0,0,0,0,33,34,16,21,,81,5.1,2017
+1,15,Raiders,Michael Crabtree,30,WR,14,14,0,8,0,0,0,0,0,8,2,0,0,0,0,0,0,,52,3.7,2017
+2,89,Raiders,Amari Cooper,23,WR,14,12,0,7,0,0,0,0,0,7,0,0,0,0,0,0,0,,42,3.0,2017
+3,24,Raiders,Marshawn Lynch,31,RB,15,15,7,0,0,0,0,0,0,7,0,0,0,0,0,0,0,,42,2.8,2017
+4,16,Raiders,Johnny Holton,27,WR,16,1,0,3,0,0,0,0,0,3,0,0,0,0,0,0,0,,18,1.1,2017
+5,33,Raiders,DeAndre Washington,24,RB,15,0,2,1,0,0,0,0,0,3,0,0,0,0,0,0,0,,18,1.2,2017
+6,87,Raiders,Jared Cook,30,TE,16,16,0,2,0,0,0,0,0,2,0,0,0,0,0,0,0,,12,0.8,2017
+7,84,Raiders,Cordarrelle Patterson,26,WR,16,2,2,0,0,0,0,0,0,2,0,0,0,0,0,0,0,,12,0.8,2017
+8,30,Raiders,Jalen Richard,24,RB,16,1,1,1,0,0,0,0,0,2,0,0,0,0,0,0,0,,12,0.8,2017
+9,49,Raiders,Jamize Olawale,28,FB,12,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,,6,0.5,2017
+10,10,Raiders,Seth Roberts,26,WR,15,7,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,,6,0.4,2017

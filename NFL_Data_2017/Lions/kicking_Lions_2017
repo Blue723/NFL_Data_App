@@ -1,5 +1,5 @@
-,No.,Team,Player,Age,Position,Games Played,Games Started,FGA 0-19,FGM 0-19,FGA 20-29,FGM 20-29,FGA 30-39,FGM 30-39,FGA 40-49,FGM 40-49,FGA 50+,FGM 50+,Field Goals Attempted,Field Goals Made,Longest Field Goal Made,% of Field Goals Made,Extra Points Attempted,Extra Points Made,Extra Point Percentage,Kickoffs,Kickoff Yards,Kickoff Touchbacks,% Kickoff was a Touchback,Kickoff Average Yardage
-5,5,Lions,Matt Prater,33,K,16,0,2,2,4,4,10,10,8,7,11,7,35,30,58,85.7%,41,40,97.6%,17,977,6,35.3%,57.5
-18,18,Lions,Jeff Locke,28,P,5,0,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,23,1485,16,69.6%,64.6
-6,6,Lions,Sam Martin,27,P,10,0,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,50,3242,25,50.0%,64.8
-2,2,Lions,Kasey Redfern,26,P,1,0,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,1,65,n/a,n/a,65.0
+,No.,Team,Player,Age,Position,Games Played,Games Started,FGA 0-19,FGM 0-19,FGA 20-29,FGM 20-29,FGA 30-39,FGM 30-39,FGA 40-49,FGM 40-49,FGA 50+,FGM 50+,Field Goals Attempted,Field Goals Made,Longest Field Goal Made,Per. of Field Goals Made,Extra Points Attempted,Extra Points Made,Extra Point Per.,Kickoffs,Kickoff Yards,Kickoff Touchbacks,Per. Kickoff was a Touchback,Kickoff Average Yardage,Year
+0,5,Lions,Matt Prater,33,K,16,0,2,2,4,4,10,10,8,7,11,7,35,30,58,85.7,41,40,97.6,17,977,6,35.3,57.5,2017
+1,18,Lions,Jeff Locke,28,P,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0.0,23,1485,16,69.6,64.6,2017
+2,6,Lions,Sam Martin,27,P,10,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0.0,50,3242,25,50.0,64.8,2017
+3,2,Lions,Kasey Redfern,26,P,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0.0,1,65,0,0.0,65.0,2017

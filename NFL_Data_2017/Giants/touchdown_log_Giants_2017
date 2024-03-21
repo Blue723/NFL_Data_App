@@ -1,29 +1,29 @@
-,Rank,Team,Date,Opponent,Results,Quarter,Distance,Type,Detail
-1,1,Giants,2017-09-18,DET,"L, 10-24",2,18,pass,Evan Engram
-2,2,Giants,2017-09-24,PHI,"L, 24-27",4,10,pass,Odell Beckham Jr.
-3,3,Giants,2017-09-24,PHI,"L, 24-27",4,4,pass,Odell Beckham Jr.
-4,4,Giants,2017-09-24,PHI,"L, 24-27",4,77,pass,Sterling Shepard
-5,5,Giants,2017-10-01,TAM,"L, 23-25",2,14,rush,Eli Manning
-6,6,Giants,2017-10-01,TAM,"L, 23-25",3,4,pass,Wayne Gallman
-7,7,Giants,2017-10-01,TAM,"L, 23-25",4,2,pass,Rhett Ellison
-8,8,Giants,2017-10-08,LAC,"L, 22-27",1,23,rush,Orleans Darkwa
-9,9,Giants,2017-10-08,LAC,"L, 22-27",3,29,pass,Roger Lewis
-10,10,Giants,2017-10-08,LAC,"L, 22-27",4,48,pass,Odell Beckham Jr.
-11,11,Giants,2017-10-15,DEN,"W, 23-10",2,5,pass,Evan Engram
-12,12,Giants,2017-10-15,DEN,"W, 23-10",2,43,interception,Jackrabbit Jenkins
-13,13,Giants,2017-10-22,SEA,"L, 7-24",2,5,pass,Evan Engram
-14,14,Giants,2017-11-05,LAR,"L, 17-51",1,5,pass,Tavarres King
-15,15,Giants,2017-11-05,LAR,"L, 17-51",4,10,pass,Evan Engram
-16,16,Giants,2017-11-12,SFO,"L, 21-31",2,9,pass,Evan Engram
-17,17,Giants,2017-11-12,SFO,"L, 21-31",4,14,pass,Roger Lewis
-18,18,Giants,2017-11-19,KAN,"W, 12-9",2,1,rush,Orleans Darkwa
-19,19,Giants,2017-11-23,WAS,"L, 10-20",3,53,interception,Jackrabbit Jenkins
-20,20,Giants,2017-12-03,OAK,"L, 17-24",1,1,rush,Orleans Darkwa
-21,21,Giants,2017-12-03,OAK,"L, 17-24",4,10,pass,Evan Engram
-22,22,Giants,2017-12-10,DAL,"L, 10-30",2,1,pass,Rhett Ellison
-23,23,Giants,2017-12-17,PHI,"L, 29-34",1,1,rush,Orleans Darkwa
-24,24,Giants,2017-12-17,PHI,"L, 29-34",1,13,pass,Tavarres King
-25,25,Giants,2017-12-17,PHI,"L, 29-34",2,67,pass,Sterling Shepard
-26,26,Giants,2017-12-17,PHI,"L, 29-34",3,57,pass,Tavarres King
-27,27,Giants,2017-12-31,WAS,"W, 18-10",1,75,rush,Orleans Darkwa
-28,28,Giants,2017-12-31,WAS,"W, 18-10",1,16,pass,Hunter Sharp
+,Rank,Team,Date,Opponent,Win/Loss,Score,Quarter,Distance,Type,Detail,Year
+0,1,Giants,09/18/2017,DET,Loss, 10-24,2,18,pass,Evan Engram,2017
+1,2,Giants,09/24/2017,PHI,Loss, 24-27,4,10,pass,Odell Beckham Jr.,2017
+2,3,Giants,09/24/2017,PHI,Loss, 24-27,4,4,pass,Odell Beckham Jr.,2017
+3,4,Giants,09/24/2017,PHI,Loss, 24-27,4,77,pass,Sterling Shepard,2017
+4,5,Giants,10/01/2017,TAM,Loss, 23-25,2,14,rush,Eli Manning,2017
+5,6,Giants,10/01/2017,TAM,Loss, 23-25,3,4,pass,Wayne Gallman,2017
+6,7,Giants,10/01/2017,TAM,Loss, 23-25,4,2,pass,Rhett Ellison,2017
+7,8,Giants,10/08/2017,LAC,Loss, 22-27,1,23,rush,Orleans Darkwa,2017
+8,9,Giants,10/08/2017,LAC,Loss, 22-27,3,29,pass,Roger Lewis,2017
+9,10,Giants,10/08/2017,LAC,Loss, 22-27,4,48,pass,Odell Beckham Jr.,2017
+10,11,Giants,10/15/2017,DEN,Win, 23-10,2,5,pass,Evan Engram,2017
+11,12,Giants,10/15/2017,DEN,Win, 23-10,2,43,interception,Jackrabbit Jenkins,2017
+12,13,Giants,10/22/2017,SEA,Loss, 7-24,2,5,pass,Evan Engram,2017
+13,14,Giants,11/05/2017,LAR,Loss, 17-51,1,5,pass,Tavarres King,2017
+14,15,Giants,11/05/2017,LAR,Loss, 17-51,4,10,pass,Evan Engram,2017
+15,16,Giants,11/12/2017,SFO,Loss, 21-31,2,9,pass,Evan Engram,2017
+16,17,Giants,11/12/2017,SFO,Loss, 21-31,4,14,pass,Roger Lewis,2017
+17,18,Giants,11/19/2017,KAN,Win, 12-9,2,1,rush,Orleans Darkwa,2017
+18,19,Giants,11/23/2017,WAS,Loss, 10-20,3,53,interception,Jackrabbit Jenkins,2017
+19,20,Giants,12/03/2017,OAK,Loss, 17-24,1,1,rush,Orleans Darkwa,2017
+20,21,Giants,12/03/2017,OAK,Loss, 17-24,4,10,pass,Evan Engram,2017
+21,22,Giants,12/10/2017,DAL,Loss, 10-30,2,1,pass,Rhett Ellison,2017
+22,23,Giants,12/17/2017,PHI,Loss, 29-34,1,1,rush,Orleans Darkwa,2017
+23,24,Giants,12/17/2017,PHI,Loss, 29-34,1,13,pass,Tavarres King,2017
+24,25,Giants,12/17/2017,PHI,Loss, 29-34,2,67,pass,Sterling Shepard,2017
+25,26,Giants,12/17/2017,PHI,Loss, 29-34,3,57,pass,Tavarres King,2017
+26,27,Giants,12/31/2017,WAS,Win, 18-10,1,75,rush,Orleans Darkwa,2017
+27,28,Giants,12/31/2017,WAS,Win, 18-10,1,16,pass,Hunter Sharp,2017

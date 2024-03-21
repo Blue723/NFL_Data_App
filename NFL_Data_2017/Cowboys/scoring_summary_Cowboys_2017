@@ -1,15 +1,15 @@
-,No.,Team,Player,Age,Pos,Games Played,Games Started,Rush TD,Reception TD,Punt Return TD,Kick Return TD,Fumble Return TD,Interception TD,Other TD,All Touchdown Scored,2-Point Conversions Made,Two-Point Conversions Attempted,Defensive Two-Point Conversions,Extra Points Made,Extra Points Allowed,Field Goals Made,Field Goals Attempted,Safeties Scored by Player/Team,Total Points Scored by all Means,Poins per Game
-5,5,Cowboys,Dan Bailey,29,K,12,0,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,26,28,15,20,n/a,71,5.9
-21,21,Cowboys,Ezekiel Elliott,22,RB,10,10,7,2,n/a,n/a,n/a,n/a,n/a,9,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,54,5.4
-88,88,Cowboys,Dez Bryant,29,WR,16,16,n/a,6,n/a,n/a,n/a,n/a,n/a,6,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,36,2.3
-4,4,Cowboys,Dak Prescott,24,QB,16,16,6,n/a,n/a,n/a,n/a,n/a,n/a,6,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,36,2.3
-45,45,Cowboys,Rod Smith,25,RB,15,1,4,1,n/a,n/a,n/a,n/a,n/a,5,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,30,2.0
-82,82,Cowboys,Jason Witten,35,TE,16,16,n/a,5,n/a,n/a,n/a,n/a,n/a,5,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,30,1.9
-2,2,Cowboys,Mike Nugent,35,K,4,0,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,8,8,7,9,n/a,29,7.3
-11,11,Cowboys,Cole Beasley,28,WR,15,4,n/a,4,n/a,n/a,n/a,n/a,n/a,4,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,24,1.6
-19,19,Cowboys,Brice Butler,27,WR,13,0,n/a,3,n/a,n/a,n/a,n/a,n/a,3,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,18,1.4
-84,84,Cowboys,James Hanna,28,TE,16,8,n/a,1,n/a,n/a,n/a,n/a,n/a,1,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,6,0.4
-31,31,Cowboys,Byron Jones,25,FS,16,16,n/a,n/a,n/a,n/a,n/a,1,n/a,1,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,6,0.4
-46,46,Cowboys,Alfred Morris,29,RB,14,5,1,n/a,n/a,n/a,n/a,n/a,n/a,1,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,6,0.4
-10,10,Cowboys,Ryan Switzer,23,WR,16,0,n/a,n/a,1,n/a,n/a,n/a,n/a,1,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,6,0.4
-38,38,Cowboys,Jeff Heath,26,SS,15,15,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,2,3,n/a,n/a,n/a,2,0.1
+,No.,Team,Player,Age,Pos,Games Played,Games Started,Rush TD,Reception TD,Punt Return TD,Kick Return TD,Fumble Return TD,Interception TD,Other TD,All Touchdown Scored,2-Point Conversions Made,Two-Point Conversions Attempted,Defensive Two-Point Conversions,Extra Points Made,Extra Points Allowed,Field Goals Made,Field Goals Attempted,Safeties Scored by Player/Team,Total Points Scored by all Means,Poins per Game,Year
+0,5,Cowboys,Dan Bailey,29,K,12,0,0,0,0,0,0,0,0,0,0,0,0,26,28,15,20,,71,5.9,2017
+1,21,Cowboys,Ezekiel Elliott,22,RB,10,10,7,2,0,0,0,0,0,9,0,0,0,0,0,0,0,,54,5.4,2017
+2,88,Cowboys,Dez Bryant,29,WR,16,16,0,6,0,0,0,0,0,6,0,0,0,0,0,0,0,,36,2.3,2017
+3,4,Cowboys,Dak Prescott,24,QB,16,16,6,0,0,0,0,0,0,6,0,0,0,0,0,0,0,,36,2.3,2017
+4,45,Cowboys,Rod Smith,25,RB,15,1,4,1,0,0,0,0,0,5,0,0,0,0,0,0,0,,30,2.0,2017
+5,82,Cowboys,Jason Witten,35,TE,16,16,0,5,0,0,0,0,0,5,0,0,0,0,0,0,0,,30,1.9,2017
+6,2,Cowboys,Mike Nugent,35,K,4,0,0,0,0,0,0,0,0,0,0,0,0,8,8,7,9,,29,7.3,2017
+7,11,Cowboys,Cole Beasley,28,WR,15,4,0,4,0,0,0,0,0,4,0,0,0,0,0,0,0,,24,1.6,2017
+8,19,Cowboys,Brice Butler,27,WR,13,0,0,3,0,0,0,0,0,3,0,0,0,0,0,0,0,,18,1.4,2017
+9,84,Cowboys,James Hanna,28,TE,16,8,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,,6,0.4,2017
+10,31,Cowboys,Byron Jones,25,FS,16,16,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,,6,0.4,2017
+11,46,Cowboys,Alfred Morris,29,RB,14,5,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,,6,0.4,2017
+12,10,Cowboys,Ryan Switzer,23,WR,16,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,,6,0.4,2017
+13,38,Cowboys,Jeff Heath,26,SS,15,15,0,0,0,0,0,0,0,0,0,0,0,2,3,0,0,,2,0.1,2017

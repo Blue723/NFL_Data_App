@@ -1,15 +1,15 @@
-,No.,Team,Player,Age,Pos,Games Played,Games Started,Rush TD,Reception TD,Punt Return TD,Kick Return TD,Fumble Return TD,Interception TD,Other TD,All Touchdown Scored,2-Point Conversions Made,Two-Point Conversions Attempted,Defensive Two-Point Conversions,Extra Points Made,Extra Points Allowed,Field Goals Made,Field Goals Attempted,Safeties Scored by Player/Team,Total Points Scored by all Means,Poins per Game
-7,7,Chiefs,Harrison Butker,22,K,13,0,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,28,28,38,42,n/a,142,10.9
-27,27,Chiefs,Kareem Hunt,22,RB,16,16,8,3,n/a,n/a,n/a,n/a,n/a,11,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,66,4.1
-10,10,Chiefs,Tyreek Hill,23,WR,15,13,n/a,7,1,n/a,n/a,n/a,n/a,8,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,48,3.2
-87,87,Chiefs,Travis Kelce,28,TE,15,15,n/a,8,n/a,n/a,n/a,n/a,n/a,8,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,48,3.2
-35,35,Chiefs,Charcandrick West,26,RB,13,0,2,2,n/a,n/a,n/a,n/a,n/a,4,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,24,1.8
-5,5,Chiefs,Cairo Santos,26,K,3,0,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,12,12,3,3,n/a,21,7.0
-12,12,Chiefs,Albert Wilson,25,WR,13,7,n/a,3,n/a,n/a,n/a,n/a,n/a,3,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,18,1.4
-13,13,Chiefs,De'Anthony Thomas,24,RB,16,2,n/a,2,n/a,n/a,n/a,n/a,n/a,2,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,12,0.8
-84,84,Chiefs,Demetrius Harris,26,TE,16,7,n/a,1,n/a,n/a,n/a,n/a,n/a,1,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,6,0.4
-50,50,Chiefs,Justin Houston,28,LOLB,15,15,n/a,n/a,n/a,n/a,1,n/a,n/a,1,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,6,0.4
-22,22,Chiefs,Marcus Peters,24,LCB,14,14,n/a,n/a,n/a,n/a,1,n/a,n/a,1,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,6,0.4
-42,42,Chiefs,Anthony Sherman,29,RB,16,3,1,n/a,n/a,n/a,n/a,n/a,n/a,1,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,6,0.4
-11,11,Chiefs,Alex Smith,33,QB,15,15,1,n/a,n/a,n/a,n/a,n/a,n/a,1,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,6,0.4
-53,53,Chiefs,Ramik Wilson,25,LB,8,4,n/a,n/a,n/a,n/a,1,n/a,n/a,1,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,6,0.8
+,No.,Team,Player,Age,Pos,Games Played,Games Started,Rush TD,Reception TD,Punt Return TD,Kick Return TD,Fumble Return TD,Interception TD,Other TD,All Touchdown Scored,2-Point Conversions Made,Two-Point Conversions Attempted,Defensive Two-Point Conversions,Extra Points Made,Extra Points Allowed,Field Goals Made,Field Goals Attempted,Safeties Scored by Player/Team,Total Points Scored by all Means,Poins per Game,Year
+0,7,Chiefs,Harrison Butker,22,K,13,0,0,0,0,0,0,0,0,0,0,0,0,28,28,38,42,,142,10.9,2017
+1,27,Chiefs,Kareem Hunt,22,RB,16,16,8,3,0,0,0,0,0,11,0,0,0,0,0,0,0,,66,4.1,2017
+2,10,Chiefs,Tyreek Hill,23,WR,15,13,0,7,1,0,0,0,0,8,0,0,0,0,0,0,0,,48,3.2,2017
+3,87,Chiefs,Travis Kelce,28,TE,15,15,0,8,0,0,0,0,0,8,0,0,0,0,0,0,0,,48,3.2,2017
+4,35,Chiefs,Charcandrick West,26,RB,13,0,2,2,0,0,0,0,0,4,0,0,0,0,0,0,0,,24,1.8,2017
+5,5,Chiefs,Cairo Santos,26,K,3,0,0,0,0,0,0,0,0,0,0,0,0,12,12,3,3,,21,7.0,2017
+6,12,Chiefs,Albert Wilson,25,WR,13,7,0,3,0,0,0,0,0,3,0,0,0,0,0,0,0,,18,1.4,2017
+7,13,Chiefs,De'Anthony Thomas,24,RB,16,2,0,2,0,0,0,0,0,2,0,0,0,0,0,0,0,,12,0.8,2017
+8,84,Chiefs,Demetrius Harris,26,TE,16,7,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,,6,0.4,2017
+9,50,Chiefs,Justin Houston,28,LOLB,15,15,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,,6,0.4,2017
+10,22,Chiefs,Marcus Peters,24,LCB,14,14,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,,6,0.4,2017
+11,42,Chiefs,Anthony Sherman,29,RB,16,3,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,,6,0.4,2017
+12,11,Chiefs,Alex Smith,33,QB,15,15,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,,6,0.4,2017
+13,53,Chiefs,Ramik Wilson,25,LB,8,4,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,,6,0.8,2017

@@ -1,21 +1,21 @@
-,Week,Team,Day,Date,Time,Win/Loss,Overtime,Team Record,Home/Away,Opponent,Points Scored,Points Allowed,Offense 1st Down,Total Yards Gained of Offense,Total yards Gained by Passing,Total Yards Gained by Rushing,Offense Turnovers,Defense 1st Down,Total Yards Allowed by Defense,Total Passing Yards Allowed by Defense,Total Rushing Yards Allowed by Defense,Defense Turnovers,Offense,Defense,Sp. Tms
-1,1,Saints,Mon,September 11,7:10PM ET,L,n/a,0-1,away,Minnesota Vikings,19,29,19,344,284,60,n/a,23,470,341,129,n/a,10.01,-24.38,-0.89
-2,2,Saints,Sun,September 17,1:00PM ET,L,n/a,0-2,home,New England Patriots,20,36,20,429,348,81,n/a,29,555,436,119,n/a,12.16,-27.58,2.32
-3,3,Saints,Sun,September 24,1:00PM ET,W,n/a,1-2,away,Carolina Panthers,34,13,21,362,213,149,n/a,18,288,156,132,3,15.41,5.22,-1.34
-4,4,Saints,Sun,October 1,9:30AM ET,W,n/a,2-2,away,Miami Dolphins,20,0,22,347,261,86,n/a,11,186,128,58,1,6.94,16.04,-4.01
-5,5,Saints,n/a,n/a,n/a,n/a,n/a,n/a,home,<strong>Bye Week</strong>,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
-6,6,Saints,Sun,October 15,1:00PM ET,W,n/a,3-2,home,Detroit Lions,52,38,19,379,186,193,3,18,347,281,66,5,-3.80,23.24,-5.33
-7,7,Saints,Sun,October 22,1:00PM ET,W,n/a,4-2,away,Green Bay Packers,26,17,25,485,324,161,2,16,260,79,181,1,18.40,-6.05,-0.03
-8,8,Saints,Sun,October 29,1:00PM ET,W,n/a,5-2,home,Chicago Bears,20,12,19,387,286,101,2,17,307,150,157,1,-0.21,7.73,2.47
-9,9,Saints,Sun,November 5,1:00PM ET,W,n/a,6-2,home,Tampa Bay Buccaneers,30,10,21,407,256,151,2,14,200,113,87,1,15.06,12.23,-6.16
-10,10,Saints,Sun,November 12,1:00PM ET,W,n/a,7-2,away,Buffalo Bills,47,10,32,482,184,298,1,10,198,129,69,1,27.89,13.18,-3.74
-11,11,Saints,Sun,November 19,1:00PM ET,W,OT,8-2,home,Washington Redskins,34,31,27,535,375,160,1,24,456,300,156,n/a,24.46,-18.03,-3.00
-12,12,Saints,Sun,November 26,4:25PM ET,L,n/a,8-3,away,Los Angeles Rams,20,26,14,346,223,123,n/a,24,415,327,88,1,4.47,-11.80,3.72
-13,13,Saints,Sun,December 3,4:25PM ET,W,n/a,9-3,home,Carolina Panthers,31,21,19,400,252,148,1,16,279,167,112,1,10.49,2.94,-1.64
-14,14,Saints,Thu,December 7,8:25PM ET,L,n/a,9-4,away,Atlanta Falcons,17,20,18,306,256,50,1,26,343,211,132,3,3.22,-3.36,0.20
-15,15,Saints,Sun,December 17,1:00PM ET,W,n/a,10-4,home,New York Jets,31,19,23,412,281,131,3,19,294,170,124,2,6.75,2.56,3.82
-16,16,Saints,Sun,December 24,1:00PM ET,W,n/a,11-4,home,Atlanta Falcons,23,13,15,315,229,86,1,15,331,264,67,2,-6.78,13.63,3.54
-17,17,Saints,Sun,December 31,4:25PM ET,L,n/a,11-5,away,Tampa Bay Buccaneers,24,31,18,323,231,92,1,28,455,345,110,3,7.18,-15.45,3.03
-n/a,n/a,Saints,n/a,<strong>Playoffs</strong>,n/a,n/a,n/a,n/a,home,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
-Wild Card,Wild Card,Saints,Sun,January 7,4:40PM ET,W,n/a,12-5,home,Carolina Panthers,31,26,21,410,369,41,1,24,413,306,107,n/a,15.88,-13.02,3.79
-Division,Division,Saints,Sun,January 14,4:40PM ET,L,n/a,12-6,away,Minnesota Vikings,24,29,23,358,278,80,2,24,403,308,95,1,5.49,-12.63,2.99
+,Week,Team,Day,Date,Time,Win/Loss,Overtime,Team Record,Home/Away,Opponent,Points Scored,Points Allowed,Offense 1st Down,Total Yards Gained of Offense,Total yards Gained by Passing,Total Yards Gained by Rushing,Offense Turnovers,Defense 1st Down,Total Yards Allowed by Defense,Total Passing Yards Allowed by Defense,Total Rushing Yards Allowed by Defense,Defense Turnovers,Offense,Defense,Sp. Tms,Year
+0,0,Saints,Mon,September 11,,L,0,0-1,away,Minnesota Vikings,19,29,19,344,284,60,0,23,470,341,129,0,10.01,-24.38,-0.89,2017
+1,1,Saints,Sun,September 17,,L,0,0-2,home,New England Patriots,20,36,20,429,348,81,0,29,555,436,119,0,12.16,-27.58,2.32,2017
+2,2,Saints,Sun,September 24,,W,0,1-2,away,Carolina Panthers,34,13,21,362,213,149,0,18,288,156,132,3,15.41,5.22,-1.34,2017
+3,3,Saints,Sun,October 1,,W,0,2-2,away,Miami Dolphins,20,0,22,347,261,86,0,11,186,128,58,1,6.94,16.04,-4.01,2017
+4,4,Saints,,,,,0,,home,<strong>Bye Week</strong>,0,0,0,0,0,0,0,0,0,0,0,0,,,,2017
+5,5,Saints,Sun,October 15,,W,0,3-2,home,Detroit Lions,52,38,19,379,186,193,3,18,347,281,66,5,-3.8,23.24,-5.33,2017
+6,6,Saints,Sun,October 22,,W,0,4-2,away,Green Bay Packers,26,17,25,485,324,161,2,16,260,79,181,1,18.4,-6.05,-0.03,2017
+7,7,Saints,Sun,October 29,,W,0,5-2,home,Chicago Bears,20,12,19,387,286,101,2,17,307,150,157,1,-0.21,7.73,2.47,2017
+8,8,Saints,Sun,November 5,,W,0,6-2,home,Tampa Bay Buccaneers,30,10,21,407,256,151,2,14,200,113,87,1,15.06,12.23,-6.16,2017
+9,9,Saints,Sun,November 12,,W,0,7-2,away,Buffalo Bills,47,10,32,482,184,298,1,10,198,129,69,1,27.89,13.18,-3.74,2017
+10,10,1,1,1,1.0,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1.0,1.0,1.0,1
+11,11,Saints,Sun,November 26,,L,0,8-3,away,Los Angeles Rams,20,26,14,346,223,123,0,24,415,327,88,1,4.47,-11.8,3.72,2017
+12,12,Saints,Sun,December 3,,W,0,9-3,home,Carolina Panthers,31,21,19,400,252,148,1,16,279,167,112,1,10.49,2.94,-1.64,2017
+13,13,Saints,Thu,December 7,,L,0,9-4,away,Atlanta Falcons,17,20,18,306,256,50,1,26,343,211,132,3,3.22,-3.36,0.2,2017
+14,14,Saints,Sun,December 17,,W,0,10-4,home,New York Jets,31,19,23,412,281,131,3,19,294,170,124,2,6.75,2.56,3.82,2017
+15,15,Saints,Sun,December 24,,W,0,11-4,home,Atlanta Falcons,23,13,15,315,229,86,1,15,331,264,67,2,-6.78,13.63,3.54,2017
+16,16,Saints,Sun,December 31,,L,0,11-5,away,Tampa Bay Buccaneers,24,31,18,323,231,92,1,28,455,345,110,3,7.18,-15.45,3.03,2017
+17,17,Saints,,<strong>Playoffs</strong>,,,0,,home,,0,0,0,0,0,0,0,0,0,0,0,0,,,,2017
+18,18,Saints,Sun,January 7,,W,0,12-5,home,Carolina Panthers,31,26,21,410,369,41,1,24,413,306,107,0,15.88,-13.02,3.79,2017
+19,19,Saints,Sun,January 14,,L,0,12-6,away,Minnesota Vikings,24,29,23,358,278,80,2,24,403,308,95,1,5.49,-12.63,2.99,2017

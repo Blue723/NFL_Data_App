@@ -1,5 +1,5 @@
-,No.,Team,Player,Age,Position,Games Played,Games Started,Punts Returned,Punts Return Yardage,Punts Returned for Touchdown,Longest Punt Return,Yards per Punt Return,Kickoff Returns,Yardage for Kickoffs Returned,Kickoffs Returned for a Touchdown,Longest Kickoff Return,Yards per Kickoff Return,All-purpose Yards
-18,18,Buccaneers,Bernard Reedy,26,WR,9,0,14,143,0,44,10.2,7,145,0,50,20.7,326
-32,32,Buccaneers,Jacquizz Rodgers,27,RB,16,4,n/a,n/a,0,n/a,n/a,11,255,0,45,23.2,573
-10,10,Buccaneers,Adam Humphries,24,WR,16,3,6,49,0,19,8.2,n/a,n/a,0,n/a,n/a,686
-34,34,Buccaneers,Charles Sims,27,RB,16,0,n/a,n/a,0,n/a,n/a,2,32,0,19,16.0,376
+,No.,Team,Player,Age,Position,Games Played,Games Started,Punts Returned,Punts Return Yardage,Punts Returned for Touchdown,Longest Punt Return,Yards per Punt Return,Kickoff Returns,Yardage for Kickoffs Returned,Kickoffs Returned for a Touchdown,Longest Kickoff Return,Yards per Kickoff Return,All-purpose Yards,Year
+0,18,Buccaneers,Bernard Reedy,26,WR,9,0,14,143,0,44,10.2,7,145,0,50,20.7,326,2017
+1,32,Buccaneers,Jacquizz Rodgers,27,RB,16,4,0,0,0,0,,11,255,0,45,23.2,573,2017
+2,10,Buccaneers,Adam Humphries,24,WR,16,3,6,49,0,19,8.2,0,0,0,0,,686,2017
+3,34,Buccaneers,Charles Sims,27,RB,16,0,0,0,0,0,,2,32,0,19,16.0,376,2017

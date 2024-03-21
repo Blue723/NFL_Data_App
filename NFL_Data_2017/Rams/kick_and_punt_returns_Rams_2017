@@ -1,7 +1,7 @@
-,No.,Team,Player,Age,Position,Games Played,Games Started,Punts Returned,Punts Return Yardage,Punts Returned for Touchdown,Longest Punt Return,Yards per Punt Return,Kickoff Returns,Yardage for Kickoffs Returned,Kickoffs Returned for a Touchdown,Longest Kickoff Return,Yards per Kickoff Return,All-purpose Yards
-10,10,Rams,Pharoh Cooper,22,WR,16,1,32,399,0,53,12.5,34,932,1,103,27.4,1421
-11,11,Rams,Tavon Austin,27,WR,16,9,12,53,0,12,4.4,1,13,0,13,13.0,383
-86,86,Rams,Derek Carrier,27,TE,14,3,n/a,n/a,0,n/a,n/a,3,41,0,14,13.7,112
-22,22,Rams,Trumaine Johnson,27,LCB,16,15,1,6,0,6,6.0,n/a,n/a,0,n/a,n/a,45
-96,96,Rams,Matt Longacre,26,DE,14,1,n/a,n/a,0,n/a,n/a,1,0,0,0,0.0,8
-88,88,Rams,Mike Thomas,23,WR,8,1,n/a,n/a,0,n/a,n/a,1,15,0,15,15.0,108
+,No.,Team,Player,Age,Position,Games Played,Games Started,Punts Returned,Punts Return Yardage,Punts Returned for Touchdown,Longest Punt Return,Yards per Punt Return,Kickoff Returns,Yardage for Kickoffs Returned,Kickoffs Returned for a Touchdown,Longest Kickoff Return,Yards per Kickoff Return,All-purpose Yards,Year
+0,10,Rams,Pharoh Cooper,22,WR,16,1,32,399,0,53,12.5,34,932,1,103,27.4,1421,2017
+1,11,Rams,Tavon Austin,27,WR,16,9,12,53,0,12,4.4,1,13,0,13,13.0,383,2017
+2,86,Rams,Derek Carrier,27,TE,14,3,0,0,0,0,,3,41,0,14,13.7,112,2017
+3,22,Rams,Trumaine Johnson,27,LCB,16,15,1,6,0,6,6.0,0,0,0,0,,45,2017
+4,96,Rams,Matt Longacre,26,DE,14,1,0,0,0,0,,1,0,0,0,0.0,8,2017
+5,88,Rams,Mike Thomas,23,WR,8,1,0,0,0,0,,1,15,0,15,15.0,108,2017
