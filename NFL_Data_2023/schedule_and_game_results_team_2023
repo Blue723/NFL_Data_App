@@ -1,577 +1,617 @@
-,Week,Team,Day,Date,Time,Win/Loss,Overtime,Team Record,Home/Away,Opponent,Points Scored,Points Allowed,Offense 1st Down,Total Yards Gained of Offense,Total yards Gained by Passing,Total Yards Gained by Rushing,Offense Turnovers,Defense 1st Down,Total Yards Allowed by Defense,Total Passing Yards Allowed by Defense,Total Rushing Yards Allowed by Defense,Defense Turnovers,Offense,Defense,Sp. Tms
-0,1,49ers,Sun,September 10,1:00PM ET,W,,1-0,away,Pittsburgh Steelers,30.0,7.0,22.0,391.0,203.0,188.0,1.0,15.0,239.0,198.0,41.0,2.0,9.73,13.55,-0.78
-1,2,49ers,Sun,September 17,4:05PM ET,W,,2-0,away,Los Angeles Rams,30.0,23.0,21.0,365.0,206.0,159.0,,28.0,386.0,297.0,89.0,2.0,12.36,-3.31,-2.05
-2,3,49ers,Thu,September 21,8:15PM ET,W,,3-0,home,New York Giants,30.0,12.0,26.0,441.0,300.0,141.0,,10.0,150.0,121.0,29.0,1.0,19.0,11.82,-9.72
-3,4,49ers,Sun,October 1,4:25PM ET,W,,4-0,home,Arizona Cardinals,35.0,16.0,30.0,395.0,271.0,124.0,,23.0,362.0,257.0,105.0,,30.46,-9.72,-1.63
-4,5,49ers,Sun,October 8,8:20PM ET,W,,5-0,home,Dallas Cowboys,42.0,10.0,25.0,421.0,251.0,170.0,1.0,8.0,197.0,140.0,57.0,4.0,12.84,23.12,-5.21
-5,6,49ers,Sun,October 15,1:00PM ET,L,,5-1,away,Cleveland Browns,17.0,19.0,15.0,215.0,107.0,108.0,1.0,18.0,334.0,174.0,160.0,2.0,-6.05,11.32,-7.34
-6,7,49ers,Mon,October 23,8:15PM ET,L,,5-2,away,Minnesota Vikings,17.0,22.0,19.0,325.0,260.0,65.0,3.0,24.0,452.0,378.0,74.0,1.0,5.43,-16.3,6.07
-7,8,49ers,Sun,October 29,4:25PM ET,L,,5-3,home,Cincinnati Bengals,17.0,31.0,24.0,460.0,347.0,113.0,3.0,29.0,400.0,266.0,134.0,1.0,9.25,-18.3,2.48
-8,9,49ers,,,,,,,home,<strong>Bye Week</strong>,,,,,,,,,,,,,,,
-9,10,49ers,Sun,November 12,1:00PM ET,,,,away,Jacksonville Jaguars,0.0,,,,,,,,,,,,,,
-10,11,49ers,Sun,November 19,4:05PM ET,,,,home,Tampa Bay Buccaneers,0.0,,,,,,,,,,,,,,
-11,12,49ers,Thu,November 23,8:20PM ET,,,,away,Seattle Seahawks,0.0,,,,,,,,,,,,,,
-12,13,49ers,Sun,December 3,4:25PM ET,,,,away,Philadelphia Eagles,0.0,,,,,,,,,,,,,,
-13,14,49ers,Sun,December 10,4:05PM ET,,,,home,Seattle Seahawks,0.0,,,,,,,,,,,,,,
-14,15,49ers,Sun,December 17,4:05PM ET,,,,away,Arizona Cardinals,0.0,,,,,,,,,,,,,,
-15,16,49ers,Mon,December 25,8:15PM ET,,,,home,Baltimore Ravens,0.0,,,,,,,,,,,,,,
-16,17,49ers,Sun,December 31,1:00PM ET,,,,away,Washington Commanders,0.0,,,,,,,,,,,,,,
-17,18,49ers,Sun,January 7,1:00PM ET,,,,home,Los Angeles Rams,0.0,,,,,,,,,,,,,,
-18,1,Bears,Sun,September 10,4:25PM ET,L,,0-1,home,Green Bay Packers,20.0,38.0,22.0,311.0,189.0,122.0,2.0,15.0,329.0,237.0,92.0,,-6.45,-8.05,-2.11
-19,2,Bears,Sun,September 17,1:00PM ET,L,,0-2,away,Tampa Bay Buccaneers,17.0,27.0,14.0,236.0,169.0,67.0,2.0,19.0,437.0,317.0,120.0,,-7.04,-14.15,8.78
-20,3,Bears,Sun,September 24,4:25PM ET,L,,0-3,away,Kansas City Chiefs,10.0,41.0,11.0,203.0,87.0,116.0,2.0,31.0,456.0,303.0,153.0,2.0,-13.6,-20.09,1.47
-21,4,Bears,Sun,October 1,1:00PM ET,L,,0-4,home,Denver Broncos,28.0,31.0,26.0,471.0,300.0,171.0,2.0,17.0,311.0,214.0,97.0,,13.11,-13.54,-1.5
-22,5,Bears,Thu,October 5,8:15PM ET,W,,1-4,away,Washington Commanders,40.0,20.0,18.0,451.0,273.0,178.0,,23.0,388.0,359.0,29.0,2.0,19.81,-4.63,0.51
-23,6,Bears,Sun,October 15,1:00PM ET,L,,1-5,home,Minnesota Vikings,13.0,19.0,18.0,275.0,113.0,162.0,3.0,12.0,220.0,174.0,46.0,1.0,-15.39,8.38,-0.79
-24,7,Bears,Sun,October 22,1:00PM ET,W,,2-5,home,Las Vegas Raiders,30.0,12.0,23.0,323.0,150.0,173.0,,20.0,235.0,196.0,39.0,3.0,12.58,6.37,2.41
-25,8,Bears,Sun,October 29,8:20PM ET,L,,2-6,away,Los Angeles Chargers,13.0,30.0,17.0,295.0,222.0,73.0,2.0,20.0,352.0,298.0,54.0,1.0,-6.71,-7.29,-5.12
-26,9,Bears,Sun,November 5,1:00PM ET,L,,2-7,away,New Orleans Saints,17.0,24.0,20.0,368.0,212.0,156.0,5.0,18.0,301.0,214.0,87.0,,-5.71,-5.1,-3.16
-27,10,Bears,Thu,November 9,8:15PM ET,W,,3-7,home,Carolina Panthers,16.0,13.0,21.0,295.0,162.0,133.0,,12.0,213.0,170.0,43.0,,-0.42,6.28,-1.84
-28,11,Bears,Sun,November 19,1:00PM ET,,,,away,Detroit Lions,0.0,,,,,,,,,,,,,,
-29,12,Bears,Mon,November 27,8:15PM ET,,,,away,Minnesota Vikings,0.0,,,,,,,,,,,,,,
-30,13,Bears,,,,,,,home,<strong>Bye Week</strong>,,,,,,,,,,,,,,,
-31,14,Bears,Sun,December 10,1:00PM ET,,,,home,Detroit Lions,0.0,,,,,,,,,,,,,,
-32,15,Bears,Sun,December 17,1:00PM ET,,,,away,Cleveland Browns,0.0,,,,,,,,,,,,,,
-33,16,Bears,Sun,December 24,4:25PM ET,,,,home,Arizona Cardinals,0.0,,,,,,,,,,,,,,
-34,17,Bears,Sun,December 31,1:00PM ET,,,,home,Atlanta Falcons,0.0,,,,,,,,,,,,,,
-35,18,Bears,Sun,January 7,1:00PM ET,,,,away,Green Bay Packers,0.0,,,,,,,,,,,,,,
-36,1,Bengals,Sun,September 10,1:00PM ET,L,,0-1,away,Cleveland Browns,3.0,24.0,6.0,142.0,67.0,75.0,,21.0,350.0,144.0,206.0,2.0,-23.57,6.77,-3.92
-37,2,Bengals,Sun,September 17,1:00PM ET,L,,0-2,home,Baltimore Ravens,24.0,27.0,19.0,282.0,216.0,66.0,1.0,26.0,415.0,237.0,178.0,,6.95,-18.73,6.67
-38,3,Bengals,Mon,September 25,8:15PM ET,W,,1-2,home,Los Angeles Rams,19.0,16.0,19.0,309.0,242.0,67.0,1.0,15.0,292.0,221.0,71.0,2.0,-8.0,7.34,3.79
-39,4,Bengals,Sun,October 1,1:00PM ET,L,,1-3,away,Tennessee Titans,3.0,27.0,14.0,211.0,139.0,72.0,1.0,23.0,400.0,227.0,173.0,1.0,-9.18,-18.97,1.14
-40,5,Bengals,Sun,October 8,4:05PM ET,W,,2-3,away,Arizona Cardinals,34.0,20.0,27.0,380.0,287.0,93.0,1.0,15.0,294.0,152.0,142.0,3.0,4.11,9.49,0.68
-41,6,Bengals,Sun,October 15,1:00PM ET,W,,3-3,home,Seattle Seahawks,17.0,13.0,15.0,214.0,168.0,46.0,1.0,24.0,384.0,297.0,87.0,2.0,-1.37,3.89,1.98
-42,7,Bengals,,,,,,,home,<strong>Bye Week</strong>,,,,,,,,,,,,,,,
-43,8,Bengals,Sun,October 29,4:25PM ET,W,,4-3,away,San Francisco 49ers,31.0,17.0,29.0,400.0,266.0,134.0,1.0,24.0,460.0,347.0,113.0,3.0,18.3,-9.25,-2.48
-44,9,Bengals,Sun,November 5,8:20PM ET,W,,5-3,home,Buffalo Bills,24.0,18.0,23.0,397.0,343.0,54.0,,21.0,317.0,249.0,68.0,2.0,14.35,-6.05,-0.96
-45,10,Bengals,Sun,November 12,1:00PM ET,,,,home,Houston Texans,0.0,,,,,,,,,,,,,,
-46,11,Bengals,Thu,November 16,8:15PM ET,,,,away,Baltimore Ravens,0.0,,,,,,,,,,,,,,
-47,12,Bengals,Sun,November 26,1:00PM ET,,,,home,Pittsburgh Steelers,0.0,,,,,,,,,,,,,,
-48,13,Bengals,Mon,December 4,8:15PM ET,,,,away,Jacksonville Jaguars,0.0,,,,,,,,,,,,,,
-49,14,Bengals,Sun,December 10,1:00PM ET,,,,home,Indianapolis Colts,0.0,,,,,,,,,,,,,,
-50,15,Bengals,Sun,December 17,1:00PM ET,,,,home,Minnesota Vikings,0.0,,,,,,,,,,,,,,
-51,16,Bengals,Sat,December 23,4:30PM ET,,,,away,Pittsburgh Steelers,0.0,,,,,,,,,,,,,,
-52,17,Bengals,Sun,December 31,4:25PM ET,,,,away,Kansas City Chiefs,0.0,,,,,,,,,,,,,,
-53,18,Bengals,Sun,January 7,1:00PM ET,,,,home,Cleveland Browns,0.0,,,,,,,,,,,,,,
-54,1,Broncos,Sun,September 10,4:25PM ET,L,,0-1,home,Las Vegas Raiders,16.0,17.0,22.0,260.0,166.0,94.0,,22.0,261.0,200.0,61.0,1.0,10.75,-9.59,-3.68
-55,2,Broncos,Sun,September 17,4:25PM ET,L,,0-2,home,Washington Commanders,33.0,35.0,21.0,399.0,277.0,122.0,2.0,26.0,388.0,266.0,122.0,,11.6,-16.73,3.13
-56,3,Broncos,Sun,September 24,1:00PM ET,L,,0-3,away,Miami Dolphins,20.0,70.0,16.0,363.0,294.0,69.0,3.0,30.0,726.0,376.0,350.0,,-13.39,-48.65,12.38
-57,4,Broncos,Sun,October 1,1:00PM ET,W,,1-3,away,Chicago Bears,31.0,28.0,17.0,311.0,214.0,97.0,,26.0,471.0,300.0,171.0,2.0,13.54,-13.11,1.5
-58,5,Broncos,Sun,October 8,4:25PM ET,L,,1-4,home,New York Jets,21.0,31.0,18.0,308.0,169.0,139.0,3.0,18.0,407.0,173.0,234.0,2.0,-6.26,-5.79,-2.75
-59,6,Broncos,Thu,October 12,8:15PM ET,L,,1-5,away,Kansas City Chiefs,8.0,19.0,14.0,197.0,82.0,115.0,3.0,22.0,389.0,293.0,96.0,1.0,-13.65,-1.99,1.97
-60,7,Broncos,Sun,October 22,4:25PM ET,W,,2-5,home,Green Bay Packers,19.0,17.0,18.0,339.0,194.0,145.0,,20.0,331.0,194.0,137.0,1.0,9.89,-11.33,2.65
-61,8,Broncos,Sun,October 29,4:25PM ET,W,,3-5,home,Kansas City Chiefs,24.0,9.0,19.0,240.0,87.0,153.0,1.0,18.0,274.0,212.0,62.0,5.0,-1.52,11.85,4.12
-62,9,Broncos,,,,,,,home,<strong>Bye Week</strong>,,,,,,,,,,,,,,,
-63,10,Broncos,Mon,November 13,8:15PM ET,,,,away,Buffalo Bills,0.0,,,,,,,,,,,,,,
-64,11,Broncos,Sun,November 19,8:20PM ET,,,,home,Minnesota Vikings,0.0,,,,,,,,,,,,,,
-65,12,Broncos,Sun,November 26,4:05PM ET,,,,home,Cleveland Browns,0.0,,,,,,,,,,,,,,
-66,13,Broncos,Sun,December 3,4:05PM ET,,,,away,Houston Texans,0.0,,,,,,,,,,,,,,
-67,14,Broncos,Sun,December 10,4:25PM ET,,,,away,Los Angeles Chargers,0.0,,,,,,,,,,,,,,
-68,15,Broncos,Sun,December 17,1:00PM ET,,,,away,Detroit Lions,0.0,,,,,,,,,,,,,,
-69,16,Broncos,Sun,December 24,8:15PM ET,,,,home,New England Patriots,0.0,,,,,,,,,,,,,,
-70,17,Broncos,Sun,December 31,4:25PM ET,,,,home,Los Angeles Chargers,0.0,,,,,,,,,,,,,,
-71,18,Broncos,Sun,January 7,1:00PM ET,,,,away,Las Vegas Raiders,0.0,,,,,,,,,,,,,,
-72,1,Browns,Sun,September 10,1:00PM ET,W,,1-0,home,Cincinnati Bengals,24.0,3.0,21.0,350.0,144.0,206.0,2.0,6.0,142.0,67.0,75.0,,-6.77,23.57,3.92
-73,2,Browns,Mon,September 18,8:15PM ET,L,,1-1,away,Pittsburgh Steelers,22.0,26.0,20.0,408.0,210.0,198.0,4.0,9.0,255.0,200.0,55.0,2.0,-19.51,16.63,-2.81
-74,3,Browns,Sun,September 24,1:00PM ET,W,,2-1,home,Tennessee Titans,27.0,3.0,23.0,341.0,263.0,78.0,1.0,6.0,94.0,68.0,26.0,,13.99,13.12,-4.04
-75,4,Browns,Sun,October 1,1:00PM ET,L,,2-2,home,Baltimore Ravens,3.0,28.0,13.0,166.0,73.0,93.0,3.0,16.0,296.0,165.0,131.0,1.0,-25.42,-2.36,2.71
-76,5,Browns,,,,,,,home,<strong>Bye Week</strong>,,,,,,,,,,,,,,,
-77,6,Browns,Sun,October 15,1:00PM ET,W,,3-2,home,San Francisco 49ers,19.0,17.0,18.0,334.0,174.0,160.0,2.0,15.0,215.0,107.0,108.0,1.0,-11.32,6.05,7.34
-78,7,Browns,Sun,October 22,1:00PM ET,W,,4-2,away,Indianapolis Colts,39.0,38.0,18.0,316.0,166.0,150.0,2.0,20.0,456.0,288.0,168.0,4.0,-5.3,-1.77,10.23
-79,8,Browns,Sun,October 29,4:05PM ET,L,,4-3,away,Seattle Seahawks,20.0,24.0,23.0,385.0,230.0,155.0,3.0,17.0,362.0,248.0,114.0,2.0,0.0,-6.04,-2.5
-80,9,Browns,Sun,November 5,1:00PM ET,W,,5-3,home,Arizona Cardinals,27.0,0.0,17.0,326.0,213.0,113.0,,7.0,58.0,17.0,41.0,3.0,0.59,35.86,-7.62
-81,10,Browns,Sun,November 12,1:00PM ET,,,,away,Baltimore Ravens,0.0,,,,,,,,,,,,,,
-82,11,Browns,Sun,November 19,1:00PM ET,,,,home,Pittsburgh Steelers,0.0,,,,,,,,,,,,,,
-83,12,Browns,Sun,November 26,4:05PM ET,,,,away,Denver Broncos,0.0,,,,,,,,,,,,,,
-84,13,Browns,Sun,December 3,4:25PM ET,,,,away,Los Angeles Rams,0.0,,,,,,,,,,,,,,
-85,14,Browns,Sun,December 10,1:00PM ET,,,,home,Jacksonville Jaguars,0.0,,,,,,,,,,,,,,
-86,15,Browns,Sun,December 17,1:00PM ET,,,,home,Chicago Bears,0.0,,,,,,,,,,,,,,
-87,16,Browns,Sun,December 24,1:00PM ET,,,,away,Houston Texans,0.0,,,,,,,,,,,,,,
-88,17,Browns,Thu,December 28,8:15PM ET,,,,home,New York Jets,0.0,,,,,,,,,,,,,,
-89,18,Browns,Sun,January 7,1:00PM ET,,,,away,Cincinnati Bengals,0.0,,,,,,,,,,,,,,
-90,1,Buccaneers,Sun,September 10,1:00PM ET,W,,1-0,away,Minnesota Vikings,20.0,17.0,16.0,242.0,169.0,73.0,,18.0,369.0,328.0,41.0,3.0,-3.09,-0.1,7.66
-91,2,Buccaneers,Sun,September 17,1:00PM ET,W,,2-0,home,Chicago Bears,27.0,17.0,19.0,437.0,317.0,120.0,,14.0,236.0,169.0,67.0,2.0,14.15,7.04,-8.78
-92,3,Buccaneers,Mon,September 25,7:15PM ET,L,,2-1,home,Philadelphia Eagles,11.0,25.0,12.0,174.0,133.0,41.0,2.0,27.0,472.0,271.0,201.0,2.0,-7.28,-14.08,1.78
-93,4,Buccaneers,Sun,October 1,1:00PM ET,W,,3-1,away,New Orleans Saints,26.0,9.0,21.0,353.0,239.0,114.0,1.0,16.0,197.0,127.0,70.0,3.0,3.79,14.93,-2.25
-94,5,Buccaneers,,,,,,,home,<strong>Bye Week</strong>,,,,,,,,,,,,,,,
-95,6,Buccaneers,Sun,October 15,4:25PM ET,L,,3-2,home,Detroit Lions,6.0,20.0,13.0,251.0,205.0,46.0,1.0,19.0,380.0,340.0,40.0,,-11.72,-8.54,6.91
-96,7,Buccaneers,Sun,October 22,1:00PM ET,L,,3-3,home,Atlanta Falcons,13.0,16.0,21.0,329.0,256.0,73.0,2.0,20.0,401.0,245.0,156.0,3.0,-2.11,0.8,-1.89
-97,8,Buccaneers,Thu,October 26,8:15PM ET,L,,3-4,away,Buffalo Bills,18.0,24.0,17.0,302.0,224.0,78.0,,25.0,427.0,312.0,115.0,1.0,3.38,-9.78,1.24
-98,9,Buccaneers,Sun,November 5,1:00PM ET,L,,3-5,away,Houston Texans,37.0,39.0,21.0,332.0,251.0,81.0,1.0,26.0,496.0,443.0,53.0,1.0,13.23,-16.65,5.81
-99,10,Buccaneers,Sun,November 12,1:00PM ET,,,,home,Tennessee Titans,0.0,,,,,,,,,,,,,,
-100,11,Buccaneers,Sun,November 19,4:05PM ET,,,,away,San Francisco 49ers,0.0,,,,,,,,,,,,,,
-101,12,Buccaneers,Sun,November 26,1:00PM ET,,,,away,Indianapolis Colts,0.0,,,,,,,,,,,,,,
-102,13,Buccaneers,Sun,December 3,1:00PM ET,,,,home,Carolina Panthers,0.0,,,,,,,,,,,,,,
-103,14,Buccaneers,Sun,December 10,1:00PM ET,,,,away,Atlanta Falcons,0.0,,,,,,,,,,,,,,
-104,15,Buccaneers,Sun,December 17,1:00PM ET,,,,away,Green Bay Packers,0.0,,,,,,,,,,,,,,
-105,16,Buccaneers,Sun,December 24,4:05PM ET,,,,home,Jacksonville Jaguars,0.0,,,,,,,,,,,,,,
-106,17,Buccaneers,Sun,December 31,1:00PM ET,,,,home,New Orleans Saints,0.0,,,,,,,,,,,,,,
-107,18,Buccaneers,Sun,January 7,1:00PM ET,,,,away,Carolina Panthers,0.0,,,,,,,,,,,,,,
-108,1,Buffalos,Mon,September 11,8:15PM ET,L,OT,0-1,away,New York Jets,16.0,22.0,19.0,314.0,217.0,97.0,4.0,13.0,289.0,117.0,172.0,1.0,-4.85,1.19,-2.27
-109,2,Buffalos,Sun,September 17,1:00PM ET,W,,1-1,home,Las Vegas Raiders,38.0,10.0,29.0,450.0,267.0,183.0,,13.0,240.0,185.0,55.0,3.0,27.19,4.89,-3.85
-110,3,Buffalos,Sun,September 24,1:00PM ET,W,,2-1,away,Washington Commanders,37.0,3.0,20.0,386.0,218.0,168.0,1.0,15.0,230.0,125.0,105.0,5.0,10.16,23.07,-1.39
-111,4,Buffalos,Sun,October 1,1:00PM ET,W,,3-1,home,Miami Dolphins,48.0,20.0,24.0,414.0,310.0,104.0,,20.0,393.0,251.0,142.0,2.0,27.56,2.09,-1.37
-112,5,Buffalos,Sun,October 8,9:30AM ET,L,,3-2,home,Jacksonville Jaguars,20.0,25.0,18.0,388.0,359.0,29.0,2.0,29.0,474.0,278.0,196.0,2.0,6.27,-13.93,-2.21
-113,6,Buffalos,Sun,October 15,8:20PM ET,W,,4-2,home,New York Giants,14.0,9.0,22.0,297.0,169.0,128.0,2.0,20.0,317.0,185.0,132.0,,2.9,-3.02,-6.7
-114,7,Buffalos,Sun,October 22,1:00PM ET,L,,4-3,away,New England Patriots,25.0,29.0,24.0,339.0,258.0,81.0,2.0,21.0,364.0,268.0,96.0,1.0,11.63,-10.65,-5.61
-115,8,Buffalos,Thu,October 26,8:15PM ET,W,,5-3,home,Tampa Bay Buccaneers,24.0,18.0,25.0,427.0,312.0,115.0,1.0,17.0,302.0,224.0,78.0,,9.78,-3.38,-1.24
-116,9,Buffalos,Sun,November 5,8:20PM ET,L,,5-4,away,Cincinnati Bengals,18.0,24.0,21.0,317.0,249.0,68.0,2.0,23.0,397.0,343.0,54.0,,6.05,-14.35,0.96
-117,10,Buffalos,Mon,November 13,8:15PM ET,,,,home,Denver Broncos,0.0,,,,,,,,,,,,,,
-118,11,Buffalos,Sun,November 19,4:25PM ET,,,,home,New York Jets,0.0,,,,,,,,,,,,,,
-119,12,Buffalos,Sun,November 26,4:25PM ET,,,,away,Philadelphia Eagles,0.0,,,,,,,,,,,,,,
-120,13,Buffalos,,,,,,,home,<strong>Bye Week</strong>,,,,,,,,,,,,,,,
-121,14,Buffalos,Sun,December 10,4:25PM ET,,,,away,Kansas City Chiefs,0.0,,,,,,,,,,,,,,
-122,15,Buffalos,Sun,December 17,4:25PM ET,,,,home,Dallas Cowboys,0.0,,,,,,,,,,,,,,
-123,16,Buffalos,Sat,December 23,8:00PM ET,,,,away,Los Angeles Chargers,0.0,,,,,,,,,,,,,,
-124,17,Buffalos,Sun,December 31,1:00PM ET,,,,home,New England Patriots,0.0,,,,,,,,,,,,,,
-125,18,Buffalos,Sun,January 7,1:00PM ET,,,,away,Miami Dolphins,0.0,,,,,,,,,,,,,,
-126,1,Cardinals,Sun,September 10,1:00PM ET,L,,0-1,away,Washington Commanders,16.0,20.0,13.0,210.0,114.0,96.0,2.0,21.0,248.0,156.0,92.0,3.0,-19.87,9.25,4.96
-127,2,Cardinals,Sun,September 17,4:05PM ET,L,,0-2,home,New York Giants,28.0,31.0,24.0,379.0,228.0,151.0,,26.0,439.0,312.0,127.0,1.0,15.48,-16.76,-2.39
-128,3,Cardinals,Sun,September 24,4:25PM ET,W,,1-2,home,Dallas Cowboys,28.0,16.0,20.0,400.0,178.0,222.0,,26.0,416.0,231.0,185.0,1.0,18.46,-6.78,1.14
-129,4,Cardinals,Sun,October 1,4:25PM ET,L,,1-3,away,San Francisco 49ers,16.0,35.0,23.0,362.0,257.0,105.0,,30.0,395.0,271.0,124.0,,9.72,-30.46,1.63
-130,5,Cardinals,Sun,October 8,4:05PM ET,L,,1-4,home,Cincinnati Bengals,20.0,34.0,15.0,294.0,152.0,142.0,3.0,27.0,380.0,287.0,93.0,1.0,-9.49,-4.11,-0.68
-131,6,Cardinals,Sun,October 15,4:25PM ET,L,,1-5,away,Los Angeles Rams,9.0,26.0,20.0,345.0,215.0,130.0,2.0,17.0,382.0,203.0,179.0,1.0,-12.85,-10.25,7.36
-132,7,Cardinals,Sun,October 22,4:05PM ET,L,,1-6,away,Seattle Seahawks,10.0,20.0,15.0,249.0,122.0,127.0,,18.0,318.0,203.0,115.0,3.0,-10.34,-2.2,3.57
-133,8,Cardinals,Sun,October 29,4:25PM ET,L,,1-7,home,Baltimore Ravens,24.0,31.0,22.0,310.0,181.0,129.0,2.0,21.0,268.0,138.0,130.0,,-3.72,-9.2,1.65
-134,9,Cardinals,Sun,November 5,1:00PM ET,L,,1-8,away,Cleveland Browns,0.0,27.0,7.0,58.0,17.0,41.0,3.0,17.0,326.0,213.0,113.0,,-35.86,-0.59,7.62
-135,10,Cardinals,Sun,November 12,4:05PM ET,,,,home,Atlanta Falcons,0.0,,,,,,,,,,,,,,
-136,11,Cardinals,Sun,November 19,1:00PM ET,,,,away,Houston Texans,0.0,,,,,,,,,,,,,,
-137,12,Cardinals,Sun,November 26,4:05PM ET,,,,home,Los Angeles Rams,0.0,,,,,,,,,,,,,,
-138,13,Cardinals,Sun,December 3,1:00PM ET,,,,away,Pittsburgh Steelers,0.0,,,,,,,,,,,,,,
-139,14,Cardinals,,,,,,,home,<strong>Bye Week</strong>,,,,,,,,,,,,,,,
-140,15,Cardinals,Sun,December 17,4:05PM ET,,,,home,San Francisco 49ers,0.0,,,,,,,,,,,,,,
-141,16,Cardinals,Sun,December 24,4:25PM ET,,,,away,Chicago Bears,0.0,,,,,,,,,,,,,,
-142,17,Cardinals,Sun,December 31,1:00PM ET,,,,away,Philadelphia Eagles,0.0,,,,,,,,,,,,,,
-143,18,Cardinals,Sun,January 7,1:00PM ET,,,,home,Seattle Seahawks,0.0,,,,,,,,,,,,,,
-144,1,Chargers,Sun,September 10,4:25PM ET,L,,0-1,home,Miami Dolphins,34.0,36.0,30.0,433.0,200.0,233.0,,30.0,536.0,466.0,70.0,2.0,18.83,-26.53,3.22
-145,2,Chargers,Sun,September 17,1:00PM ET,L,OT,0-2,away,Tennessee Titans,24.0,27.0,19.0,342.0,281.0,61.0,,22.0,341.0,200.0,141.0,,6.8,-9.86,0.06
-146,3,Chargers,Sun,September 24,1:00PM ET,W,,1-2,away,Minnesota Vikings,28.0,24.0,24.0,475.0,445.0,30.0,1.0,29.0,475.0,345.0,130.0,2.0,15.21,-8.26,-4.83
-147,4,Chargers,Sun,October 1,4:05PM ET,W,,2-2,home,Las Vegas Raiders,24.0,17.0,16.0,305.0,150.0,155.0,1.0,22.0,264.0,188.0,76.0,3.0,4.86,8.27,-6.07
-148,5,Chargers,,,,,,,home,<strong>Bye Week</strong>,,,,,,,,,,,,,,,
-149,6,Chargers,Mon,October 16,8:15PM ET,L,,2-3,home,Dallas Cowboys,17.0,20.0,18.0,272.0,219.0,53.0,1.0,20.0,342.0,246.0,96.0,1.0,-1.3,-8.96,5.38
-150,7,Chargers,Sun,October 22,4:25PM ET,L,,2-4,away,Kansas City Chiefs,17.0,31.0,16.0,358.0,219.0,139.0,2.0,25.0,483.0,415.0,68.0,2.0,3.03,-19.19,2.58
-151,8,Chargers,Sun,October 29,8:20PM ET,W,,3-4,home,Chicago Bears,30.0,13.0,20.0,352.0,298.0,54.0,1.0,17.0,295.0,222.0,73.0,2.0,7.29,6.71,5.12
-152,9,Chargers,Mon,November 6,8:15PM ET,W,,4-4,away,New York Jets,27.0,6.0,14.0,191.0,107.0,84.0,,17.0,270.0,206.0,64.0,3.0,-6.47,25.2,1.49
-153,10,Chargers,Sun,November 12,4:05PM ET,,,,home,Detroit Lions,0.0,,,,,,,,,,,,,,
-154,11,Chargers,Sun,November 19,1:00PM ET,,,,away,Green Bay Packers,0.0,,,,,,,,,,,,,,
-155,12,Chargers,Sun,November 26,8:20PM ET,,,,home,Baltimore Ravens,0.0,,,,,,,,,,,,,,
-156,13,Chargers,Sun,December 3,1:00PM ET,,,,away,New England Patriots,0.0,,,,,,,,,,,,,,
-157,14,Chargers,Sun,December 10,4:25PM ET,,,,home,Denver Broncos,0.0,,,,,,,,,,,,,,
-158,15,Chargers,Thu,December 14,8:15PM ET,,,,away,Las Vegas Raiders,0.0,,,,,,,,,,,,,,
-159,16,Chargers,Sat,December 23,8:00PM ET,,,,home,Buffalo Bills,0.0,,,,,,,,,,,,,,
-160,17,Chargers,Sun,December 31,4:25PM ET,,,,away,Denver Broncos,0.0,,,,,,,,,,,,,,
-161,18,Chargers,Sun,January 7,1:00PM ET,,,,home,Kansas City Chiefs,0.0,,,,,,,,,,,,,,
-162,1,Chiefs,Thu,September 7,8:20PM ET,L,,0-1,home,Detroit Lions,20.0,21.0,17.0,316.0,226.0,90.0,1.0,19.0,368.0,250.0,118.0,1.0,-4.17,-2.6,2.11
-163,2,Chiefs,Sun,September 17,1:00PM ET,W,,1-1,away,Jacksonville Jaguars,17.0,9.0,19.0,399.0,298.0,101.0,3.0,18.0,271.0,197.0,74.0,1.0,7.01,10.72,-6.76
-164,3,Chiefs,Sun,September 24,4:25PM ET,W,,2-1,home,Chicago Bears,41.0,10.0,31.0,456.0,303.0,153.0,2.0,11.0,203.0,87.0,116.0,2.0,20.09,13.6,-1.47
-165,4,Chiefs,Sun,October 1,8:20PM ET,W,,3-1,away,New York Jets,23.0,20.0,24.0,401.0,197.0,204.0,2.0,18.0,336.0,228.0,108.0,1.0,10.22,-3.25,1.48
-166,5,Chiefs,Sun,October 8,4:25PM ET,W,,4-1,away,Minnesota Vikings,27.0,20.0,21.0,333.0,266.0,67.0,,24.0,329.0,259.0,70.0,1.0,15.55,-10.22,0.17
-167,6,Chiefs,Thu,October 12,8:15PM ET,W,,5-1,home,Denver Broncos,19.0,8.0,22.0,389.0,293.0,96.0,1.0,14.0,197.0,82.0,115.0,3.0,1.99,13.65,-1.97
-168,7,Chiefs,Sun,October 22,4:25PM ET,W,,6-1,home,Los Angeles Chargers,31.0,17.0,25.0,483.0,415.0,68.0,2.0,16.0,358.0,219.0,139.0,2.0,19.19,-3.03,-2.58
-169,8,Chiefs,Sun,October 29,4:25PM ET,L,,6-2,away,Denver Broncos,9.0,24.0,18.0,274.0,212.0,62.0,5.0,19.0,240.0,87.0,153.0,1.0,-11.85,1.52,-4.12
-170,9,Chiefs,Sun,November 5,9:30AM ET,W,,7-2,home,Miami Dolphins,21.0,14.0,16.0,267.0,174.0,93.0,1.0,20.0,292.0,175.0,117.0,1.0,-1.1,9.86,-1.0
-171,10,Chiefs,,,,,,,home,<strong>Bye Week</strong>,,,,,,,,,,,,,,,
-172,11,Chiefs,Mon,November 20,8:15PM ET,,,,home,Philadelphia Eagles,0.0,,,,,,,,,,,,,,
-173,12,Chiefs,Sun,November 26,4:25PM ET,,,,away,Las Vegas Raiders,0.0,,,,,,,,,,,,,,
-174,13,Chiefs,Sun,December 3,8:20PM ET,,,,away,Green Bay Packers,0.0,,,,,,,,,,,,,,
-175,14,Chiefs,Sun,December 10,4:25PM ET,,,,home,Buffalo Bills,0.0,,,,,,,,,,,,,,
-176,15,Chiefs,Mon,December 18,8:15PM ET,,,,away,New England Patriots,0.0,,,,,,,,,,,,,,
-177,16,Chiefs,Mon,December 25,1:00PM ET,,,,home,Las Vegas Raiders,0.0,,,,,,,,,,,,,,
-178,17,Chiefs,Sun,December 31,4:25PM ET,,,,home,Cincinnati Bengals,0.0,,,,,,,,,,,,,,
-179,18,Chiefs,Sun,January 7,1:00PM ET,,,,away,Los Angeles Chargers,0.0,,,,,,,,,,,,,,
-180,1,Colts,Sun,September 10,1:00PM ET,L,,0-1,home,Jacksonville Jaguars,21.0,31.0,18.0,280.0,215.0,65.0,3.0,20.0,342.0,237.0,105.0,2.0,-17.62,9.8,-2.44
-181,2,Colts,Sun,September 17,1:00PM ET,W,,1-1,away,Houston Texans,31.0,20.0,19.0,353.0,227.0,126.0,,24.0,389.0,337.0,52.0,1.0,14.21,-7.88,4.04
-182,3,Colts,Sun,September 24,1:00PM ET,W,OT,2-1,away,Baltimore Ravens,22.0,19.0,19.0,327.0,188.0,139.0,,20.0,364.0,178.0,186.0,2.0,-13.57,5.27,10.63
-183,4,Colts,Sun,October 1,1:00PM ET,L,OT,2-2,home,Los Angeles Rams,23.0,29.0,19.0,329.0,196.0,133.0,1.0,27.0,467.0,303.0,164.0,1.0,5.51,-15.52,0.74
-184,5,Colts,Sun,October 8,1:00PM ET,W,,3-2,home,Tennessee Titans,23.0,16.0,21.0,429.0,236.0,193.0,,19.0,348.0,259.0,89.0,1.0,16.77,-6.32,-0.89
-185,6,Colts,Sun,October 15,1:00PM ET,L,,3-3,away,Jacksonville Jaguars,20.0,37.0,18.0,354.0,310.0,44.0,4.0,17.0,233.0,148.0,85.0,1.0,-12.21,0.16,-4.88
-186,7,Colts,Sun,October 22,1:00PM ET,L,,3-4,home,Cleveland Browns,38.0,39.0,20.0,456.0,288.0,168.0,4.0,18.0,316.0,166.0,150.0,2.0,1.77,5.3,-10.23
-187,8,Colts,Sun,October 29,1:00PM ET,L,,3-5,home,New Orleans Saints,27.0,38.0,19.0,371.0,207.0,164.0,1.0,24.0,511.0,350.0,161.0,1.0,8.38,-23.78,3.03
-188,9,Colts,Sun,November 5,4:05PM ET,W,,4-5,away,Carolina Panthers,27.0,13.0,17.0,198.0,120.0,78.0,1.0,17.0,275.0,137.0,138.0,3.0,-3.93,23.07,-2.92
-189,10,Colts,Sun,November 12,9:30AM ET,,,,away,New England Patriots,0.0,,,,,,,,,,,,,,
-190,11,Colts,,,,,,,home,<strong>Bye Week</strong>,,,,,,,,,,,,,,,
-191,12,Colts,Sun,November 26,1:00PM ET,,,,home,Tampa Bay Buccaneers,0.0,,,,,,,,,,,,,,
-192,13,Colts,Sun,December 3,1:00PM ET,,,,away,Tennessee Titans,0.0,,,,,,,,,,,,,,
-193,14,Colts,Sun,December 10,1:00PM ET,,,,away,Cincinnati Bengals,0.0,,,,,,,,,,,,,,
-194,15,Colts,Sun,December 17,1:00PM ET,,,,home,Pittsburgh Steelers,0.0,,,,,,,,,,,,,,
-195,16,Colts,Sun,December 24,1:00PM ET,,,,away,Atlanta Falcons,0.0,,,,,,,,,,,,,,
-196,17,Colts,Sun,December 31,1:00PM ET,,,,home,Las Vegas Raiders,0.0,,,,,,,,,,,,,,
-197,18,Colts,Sun,January 7,1:00PM ET,,,,home,Houston Texans,0.0,,,,,,,,,,,,,,
-198,1,Commanders,Sun,September 10,1:00PM ET,W,,1-0,home,Arizona Cardinals,20.0,16.0,21.0,248.0,156.0,92.0,3.0,13.0,210.0,114.0,96.0,2.0,-9.25,19.87,-4.96
-199,2,Commanders,Sun,September 17,4:25PM ET,W,,2-0,away,Denver Broncos,35.0,33.0,26.0,388.0,266.0,122.0,,21.0,399.0,277.0,122.0,2.0,16.73,-11.6,-3.13
-200,3,Commanders,Sun,September 24,1:00PM ET,L,,2-1,home,Buffalo Bills,3.0,37.0,15.0,230.0,125.0,105.0,5.0,20.0,386.0,218.0,168.0,1.0,-23.07,-10.16,1.39
-201,4,Commanders,Sun,October 1,1:00PM ET,L,OT,2-2,away,Philadelphia Eagles,31.0,34.0,26.0,365.0,258.0,107.0,,23.0,415.0,311.0,104.0,,17.68,-18.21,-2.47
-202,5,Commanders,Thu,October 5,8:15PM ET,L,,2-3,home,Chicago Bears,20.0,40.0,23.0,388.0,359.0,29.0,2.0,18.0,451.0,273.0,178.0,,4.63,-19.81,-0.51
-203,6,Commanders,Sun,October 15,1:00PM ET,W,,3-3,away,Atlanta Falcons,24.0,16.0,13.0,193.0,121.0,72.0,,25.0,402.0,296.0,106.0,3.0,-0.45,5.68,3.28
-204,7,Commanders,Sun,October 22,1:00PM ET,L,,3-4,away,New York Giants,7.0,14.0,14.0,273.0,197.0,76.0,1.0,16.0,356.0,250.0,106.0,2.0,-16.05,3.64,8.94
-205,8,Commanders,Sun,October 29,1:00PM ET,L,,3-5,home,Philadelphia Eagles,31.0,38.0,26.0,472.0,388.0,84.0,1.0,21.0,374.0,315.0,59.0,2.0,10.32,-15.23,-4.32
-206,9,Commanders,Sun,November 5,1:00PM ET,W,,4-5,away,New England Patriots,20.0,17.0,23.0,432.0,308.0,124.0,2.0,18.0,327.0,220.0,107.0,1.0,3.37,-0.28,1.3
-207,10,Commanders,Sun,November 12,4:25PM ET,,,,away,Seattle Seahawks,0.0,,,,,,,,,,,,,,
-208,11,Commanders,Sun,November 19,1:00PM ET,,,,home,New York Giants,0.0,,,,,,,,,,,,,,
-209,12,Commanders,Thu,November 23,4:30PM ET,,,,away,Dallas Cowboys,0.0,,,,,,,,,,,,,,
-210,13,Commanders,Sun,December 3,1:00PM ET,,,,home,Miami Dolphins,0.0,,,,,,,,,,,,,,
-211,14,Commanders,,,,,,,home,<strong>Bye Week</strong>,,,,,,,,,,,,,,,
-212,15,Commanders,Sun,December 17,4:05PM ET,,,,away,Los Angeles Rams,0.0,,,,,,,,,,,,,,
-213,16,Commanders,Sun,December 24,1:00PM ET,,,,away,New York Jets,0.0,,,,,,,,,,,,,,
-214,17,Commanders,Sun,December 31,1:00PM ET,,,,home,San Francisco 49ers,0.0,,,,,,,,,,,,,,
-215,18,Commanders,Sun,January 7,1:00PM ET,,,,home,Dallas Cowboys,0.0,,,,,,,,,,,,,,
-216,1,Cowboys,Sun,September 10,8:20PM ET,W,,1-0,away,New York Giants,40.0,0.0,18.0,265.0,143.0,122.0,,14.0,171.0,63.0,108.0,3.0,9.37,27.25,5.36
-217,2,Cowboys,Sun,September 17,4:25PM ET,W,,2-0,home,New York Jets,30.0,10.0,26.0,382.0,248.0,134.0,,12.0,215.0,151.0,64.0,4.0,7.01,14.82,-2.25
-218,3,Cowboys,Sun,September 24,4:25PM ET,L,,2-1,away,Arizona Cardinals,16.0,28.0,26.0,416.0,231.0,185.0,1.0,20.0,400.0,178.0,222.0,,6.78,-18.46,-1.14
-219,4,Cowboys,Sun,October 1,4:25PM ET,W,,3-1,home,New England Patriots,38.0,3.0,22.0,377.0,253.0,124.0,,10.0,253.0,200.0,53.0,3.0,8.01,26.22,0.2
-220,5,Cowboys,Sun,October 8,8:20PM ET,L,,3-2,away,San Francisco 49ers,10.0,42.0,8.0,197.0,140.0,57.0,4.0,25.0,421.0,251.0,170.0,1.0,-23.12,-12.84,5.21
-221,6,Cowboys,Mon,October 16,8:15PM ET,W,,4-2,away,Los Angeles Chargers,20.0,17.0,20.0,342.0,246.0,96.0,1.0,18.0,272.0,219.0,53.0,1.0,8.96,1.3,-5.38
-222,7,Cowboys,,,,,,,home,<strong>Bye Week</strong>,,,,,,,,,,,,,,,
-223,8,Cowboys,Sun,October 29,1:00PM ET,W,,5-2,home,Los Angeles Rams,43.0,20.0,24.0,387.0,285.0,102.0,1.0,15.0,280.0,188.0,92.0,1.0,15.46,8.68,1.87
-224,9,Cowboys,Sun,November 5,4:25PM ET,L,,5-3,away,Philadelphia Eagles,23.0,28.0,27.0,406.0,333.0,73.0,1.0,20.0,292.0,183.0,109.0,,10.9,-15.0,-2.75
-225,10,Cowboys,Sun,November 12,4:25PM ET,,,,home,New York Giants,0.0,,,,,,,,,,,,,,
-226,11,Cowboys,Sun,November 19,1:00PM ET,,,,away,Carolina Panthers,0.0,,,,,,,,,,,,,,
-227,12,Cowboys,Thu,November 23,4:30PM ET,,,,home,Washington Commanders,0.0,,,,,,,,,,,,,,
-228,13,Cowboys,Thu,November 30,8:15PM ET,,,,home,Seattle Seahawks,0.0,,,,,,,,,,,,,,
-229,14,Cowboys,Sun,December 10,8:20PM ET,,,,home,Philadelphia Eagles,0.0,,,,,,,,,,,,,,
-230,15,Cowboys,Sun,December 17,4:25PM ET,,,,away,Buffalo Bills,0.0,,,,,,,,,,,,,,
-231,16,Cowboys,Sun,December 24,4:25PM ET,,,,away,Miami Dolphins,0.0,,,,,,,,,,,,,,
-232,17,Cowboys,Sat,December 30,8:15PM ET,,,,home,Detroit Lions,0.0,,,,,,,,,,,,,,
-233,18,Cowboys,Sun,January 7,1:00PM ET,,,,away,Washington Commanders,0.0,,,,,,,,,,,,,,
-234,1,Dolphins,Sun,September 10,4:25PM ET,W,,1-0,away,Los Angeles Chargers,36.0,34.0,30.0,536.0,466.0,70.0,2.0,30.0,433.0,200.0,233.0,,26.53,-18.83,-3.22
-235,2,Dolphins,Sun,September 17,8:20PM ET,W,,2-0,away,New England Patriots,24.0,17.0,22.0,389.0,244.0,145.0,1.0,23.0,288.0,200.0,88.0,2.0,13.09,0.98,-7.69
-236,3,Dolphins,Sun,September 24,1:00PM ET,W,,3-0,home,Denver Broncos,70.0,20.0,30.0,726.0,376.0,350.0,,16.0,363.0,294.0,69.0,3.0,48.65,13.39,-12.38
-237,4,Dolphins,Sun,October 1,1:00PM ET,L,,3-1,away,Buffalo Bills,20.0,48.0,20.0,393.0,251.0,142.0,2.0,24.0,414.0,310.0,104.0,,-2.09,-27.56,1.37
-238,5,Dolphins,Sun,October 8,1:00PM ET,W,,4-1,home,New York Giants,31.0,16.0,22.0,524.0,302.0,222.0,3.0,15.0,268.0,183.0,85.0,,10.45,6.46,-1.72
-239,6,Dolphins,Sun,October 15,1:00PM ET,W,,5-1,home,Carolina Panthers,42.0,21.0,23.0,424.0,262.0,162.0,1.0,21.0,296.0,188.0,108.0,,14.79,6.44,-0.33
-240,7,Dolphins,Sun,October 22,8:20PM ET,L,,5-2,away,Philadelphia Eagles,17.0,31.0,12.0,244.0,199.0,45.0,1.0,26.0,355.0,256.0,99.0,2.0,-7.17,-11.06,2.9
-241,8,Dolphins,Sun,October 29,1:00PM ET,W,,6-2,home,New England Patriots,31.0,17.0,24.0,390.0,312.0,78.0,2.0,13.0,218.0,141.0,77.0,1.0,10.64,9.73,-3.59
-242,9,Dolphins,Sun,November 5,9:30AM ET,L,,6-3,away,Kansas City Chiefs,14.0,21.0,20.0,292.0,175.0,117.0,1.0,16.0,267.0,174.0,93.0,1.0,-9.86,1.1,1.0
-243,10,Dolphins,,,,,,,home,<strong>Bye Week</strong>,,,,,,,,,,,,,,,
-244,11,Dolphins,Sun,November 19,1:00PM ET,,,,home,Las Vegas Raiders,0.0,,,,,,,,,,,,,,
-245,12,Dolphins,Fri,November 24,3:00PM ET,,,,away,New York Jets,0.0,,,,,,,,,,,,,,
-246,13,Dolphins,Sun,December 3,1:00PM ET,,,,away,Washington Commanders,0.0,,,,,,,,,,,,,,
-247,14,Dolphins,Mon,December 11,8:15PM ET,,,,home,Tennessee Titans,0.0,,,,,,,,,,,,,,
-248,15,Dolphins,Sun,December 17,1:00PM ET,,,,home,New York Jets,0.0,,,,,,,,,,,,,,
-249,16,Dolphins,Sun,December 24,4:25PM ET,,,,home,Dallas Cowboys,0.0,,,,,,,,,,,,,,
-250,17,Dolphins,Sun,December 31,1:00PM ET,,,,away,Baltimore Ravens,0.0,,,,,,,,,,,,,,
-251,18,Dolphins,Sun,January 7,1:00PM ET,,,,home,Buffalo Bills,0.0,,,,,,,,,,,,,,
-252,1,Eagles,Sun,September 10,4:25PM ET,W,,1-0,away,New England Patriots,25.0,20.0,17.0,251.0,154.0,97.0,1.0,24.0,382.0,306.0,76.0,2.0,-10.42,12.04,4.39
-253,2,Eagles,Thu,September 14,8:15PM ET,W,,2-0,home,Minnesota Vikings,34.0,28.0,24.0,430.0,171.0,259.0,1.0,19.0,374.0,346.0,28.0,4.0,14.53,-7.44,-0.51
-254,3,Eagles,Mon,September 25,7:15PM ET,W,,3-0,away,Tampa Bay Buccaneers,25.0,11.0,27.0,472.0,271.0,201.0,2.0,12.0,174.0,133.0,41.0,2.0,14.08,7.28,-1.78
-255,4,Eagles,Sun,October 1,1:00PM ET,W,OT,4-0,home,Washington Commanders,34.0,31.0,23.0,415.0,311.0,104.0,,26.0,365.0,258.0,107.0,,18.21,-17.68,2.47
-256,5,Eagles,Sun,October 8,4:05PM ET,W,,5-0,away,Los Angeles Rams,23.0,14.0,28.0,454.0,295.0,159.0,1.0,17.0,249.0,195.0,54.0,,16.56,-6.25,-2.84
-257,6,Eagles,Sun,October 15,4:25PM ET,L,,5-1,away,New York Jets,14.0,20.0,24.0,348.0,268.0,80.0,4.0,17.0,244.0,155.0,89.0,,-5.91,7.52,-8.89
-258,7,Eagles,Sun,October 22,8:20PM ET,W,,6-1,home,Miami Dolphins,31.0,17.0,26.0,355.0,256.0,99.0,2.0,12.0,244.0,199.0,45.0,1.0,11.06,7.17,-2.9
-259,8,Eagles,Sun,October 29,1:00PM ET,W,,7-1,away,Washington Commanders,38.0,31.0,21.0,374.0,315.0,59.0,2.0,26.0,472.0,388.0,84.0,1.0,15.23,-10.32,4.32
-260,9,Eagles,Sun,November 5,4:25PM ET,W,,8-1,home,Dallas Cowboys,28.0,23.0,20.0,292.0,183.0,109.0,,27.0,406.0,333.0,73.0,1.0,15.0,-10.9,2.75
-261,10,Eagles,,,,,,,home,<strong>Bye Week</strong>,,,,,,,,,,,,,,,
-262,11,Eagles,Mon,November 20,8:15PM ET,,,,away,Kansas City Chiefs,0.0,,,,,,,,,,,,,,
-263,12,Eagles,Sun,November 26,4:25PM ET,,,,home,Buffalo Bills,0.0,,,,,,,,,,,,,,
-264,13,Eagles,Sun,December 3,4:25PM ET,,,,home,San Francisco 49ers,0.0,,,,,,,,,,,,,,
-265,14,Eagles,Sun,December 10,8:20PM ET,,,,away,Dallas Cowboys,0.0,,,,,,,,,,,,,,
-266,15,Eagles,Sun,December 17,4:25PM ET,,,,away,Seattle Seahawks,0.0,,,,,,,,,,,,,,
-267,16,Eagles,Mon,December 25,4:30PM ET,,,,home,New York Giants,0.0,,,,,,,,,,,,,,
-268,17,Eagles,Sun,December 31,1:00PM ET,,,,home,Arizona Cardinals,0.0,,,,,,,,,,,,,,
-269,18,Eagles,Sun,January 7,1:00PM ET,,,,away,New York Giants,0.0,,,,,,,,,,,,,,
-270,1,Falcons,Sun,September 10,1:00PM ET,W,,1-0,home,Carolina Panthers,24.0,10.0,13.0,221.0,91.0,130.0,,20.0,281.0,127.0,154.0,3.0,-2.92,16.61,-0.2
-271,2,Falcons,Sun,September 17,1:00PM ET,W,,2-0,home,Green Bay Packers,25.0,24.0,27.0,446.0,235.0,211.0,1.0,17.0,224.0,140.0,84.0,,13.12,-7.85,-0.97
-272,3,Falcons,Sun,September 24,1:00PM ET,L,,2-1,away,Detroit Lions,6.0,20.0,16.0,183.0,139.0,44.0,1.0,18.0,358.0,243.0,115.0,1.0,-15.09,-1.31,0.59
-273,4,Falcons,Sun,October 1,9:30AM ET,L,,2-2,away,Jacksonville Jaguars,7.0,23.0,17.0,287.0,160.0,127.0,3.0,16.0,300.0,195.0,105.0,,-15.78,-0.72,0.86
-274,5,Falcons,Sun,October 8,1:00PM ET,W,,3-2,home,Houston Texans,21.0,19.0,26.0,447.0,351.0,96.0,2.0,17.0,313.0,249.0,64.0,,6.01,-2.73,-1.01
-275,6,Falcons,Sun,October 15,1:00PM ET,L,,3-3,home,Washington Commanders,16.0,24.0,25.0,402.0,296.0,106.0,3.0,13.0,193.0,121.0,72.0,,-5.68,0.45,-3.28
-276,7,Falcons,Sun,October 22,1:00PM ET,W,,4-3,away,Tampa Bay Buccaneers,16.0,13.0,20.0,401.0,245.0,156.0,3.0,21.0,329.0,256.0,73.0,2.0,-0.8,2.11,1.89
-277,8,Falcons,Sun,October 29,1:00PM ET,L,,4-4,away,Tennessee Titans,23.0,28.0,17.0,342.0,202.0,140.0,1.0,17.0,375.0,226.0,149.0,1.0,-3.34,-4.14,-0.17
-278,9,Falcons,Sun,November 5,1:00PM ET,L,,4-5,home,Minnesota Vikings,28.0,31.0,18.0,370.0,260.0,110.0,2.0,23.0,363.0,217.0,146.0,2.0,-3.4,-1.9,3.43
-279,10,Falcons,Sun,November 12,4:05PM ET,,,,away,Arizona Cardinals,0.0,,,,,,,,,,,,,,
-280,11,Falcons,,,,,,,home,<strong>Bye Week</strong>,,,,,,,,,,,,,,,
-281,12,Falcons,Sun,November 26,1:00PM ET,,,,home,New Orleans Saints,0.0,,,,,,,,,,,,,,
-282,13,Falcons,Sun,December 3,1:00PM ET,,,,away,New York Jets,0.0,,,,,,,,,,,,,,
-283,14,Falcons,Sun,December 10,1:00PM ET,,,,home,Tampa Bay Buccaneers,0.0,,,,,,,,,,,,,,
-284,15,Falcons,Sun,December 17,1:00PM ET,,,,away,Carolina Panthers,0.0,,,,,,,,,,,,,,
-285,16,Falcons,Sun,December 24,1:00PM ET,,,,home,Indianapolis Colts,0.0,,,,,,,,,,,,,,
-286,17,Falcons,Sun,December 31,1:00PM ET,,,,away,Chicago Bears,0.0,,,,,,,,,,,,,,
-287,18,Falcons,Sun,January 7,1:00PM ET,,,,away,New Orleans Saints,0.0,,,,,,,,,,,,,,
-288,1,Giants,Sun,September 10,8:20PM ET,L,,0-1,home,Dallas Cowboys,0.0,40.0,14.0,171.0,63.0,108.0,3.0,18.0,265.0,143.0,122.0,,-27.25,-9.37,-5.36
-289,2,Giants,Sun,September 17,4:05PM ET,W,,1-1,away,Arizona Cardinals,31.0,28.0,26.0,439.0,312.0,127.0,1.0,24.0,379.0,228.0,151.0,,16.76,-15.48,2.39
-290,3,Giants,Thu,September 21,8:15PM ET,L,,1-2,away,San Francisco 49ers,12.0,30.0,10.0,150.0,121.0,29.0,1.0,26.0,441.0,300.0,141.0,,-11.82,-19.0,9.72
-291,4,Giants,Mon,October 2,8:15PM ET,L,,1-3,home,Seattle Seahawks,3.0,24.0,17.0,248.0,136.0,112.0,3.0,13.0,281.0,160.0,121.0,,-29.37,7.86,-0.33
-292,5,Giants,Sun,October 8,1:00PM ET,L,,1-4,away,Miami Dolphins,16.0,31.0,15.0,268.0,183.0,85.0,,22.0,524.0,302.0,222.0,3.0,-6.46,-10.45,1.72
-293,6,Giants,Sun,October 15,8:20PM ET,L,,1-5,away,Buffalo Bills,9.0,14.0,20.0,317.0,185.0,132.0,,22.0,297.0,169.0,128.0,2.0,3.02,-2.9,6.7
-294,7,Giants,Sun,October 22,1:00PM ET,W,,2-5,home,Washington Commanders,14.0,7.0,16.0,356.0,250.0,106.0,2.0,14.0,273.0,197.0,76.0,1.0,-3.64,16.05,-8.94
-295,8,Giants,Sun,October 29,1:00PM ET,L,OT,2-6,home,New York Jets,10.0,13.0,12.0,194.0,-9.0,203.0,,12.0,251.0,193.0,58.0,2.0,-20.38,20.78,-1.41
-296,9,Giants,Sun,November 5,4:25PM ET,L,,2-7,away,Las Vegas Raiders,6.0,30.0,15.0,277.0,154.0,123.0,2.0,15.0,334.0,209.0,125.0,,-18.96,-1.99,-1.85
-297,10,Giants,Sun,November 12,4:25PM ET,,,,away,Dallas Cowboys,0.0,,,,,,,,,,,,,,
-298,11,Giants,Sun,November 19,1:00PM ET,,,,away,Washington Commanders,0.0,,,,,,,,,,,,,,
-299,12,Giants,Sun,November 26,1:00PM ET,,,,home,New England Patriots,0.0,,,,,,,,,,,,,,
-300,13,Giants,,,,,,,home,<strong>Bye Week</strong>,,,,,,,,,,,,,,,
-301,14,Giants,Mon,December 11,8:15PM ET,,,,home,Green Bay Packers,0.0,,,,,,,,,,,,,,
-302,15,Giants,Sun,December 17,1:00PM ET,,,,away,New Orleans Saints,0.0,,,,,,,,,,,,,,
-303,16,Giants,Mon,December 25,4:30PM ET,,,,away,Philadelphia Eagles,0.0,,,,,,,,,,,,,,
-304,17,Giants,Sun,December 31,1:00PM ET,,,,home,Los Angeles Rams,0.0,,,,,,,,,,,,,,
-305,18,Giants,Sun,January 7,1:00PM ET,,,,home,Philadelphia Eagles,0.0,,,,,,,,,,,,,,
-306,1,Jaguars,Sun,September 10,1:00PM ET,W,,1-0,away,Indianapolis Colts,31.0,21.0,20.0,342.0,237.0,105.0,2.0,18.0,280.0,215.0,65.0,3.0,-9.8,17.62,2.44
-307,2,Jaguars,Sun,September 17,1:00PM ET,L,,1-1,home,Kansas City Chiefs,9.0,17.0,18.0,271.0,197.0,74.0,1.0,19.0,399.0,298.0,101.0,3.0,-10.72,-7.01,6.76
-308,3,Jaguars,Sun,September 24,1:00PM ET,L,,1-2,home,Houston Texans,17.0,37.0,22.0,404.0,288.0,116.0,2.0,15.0,366.0,280.0,86.0,,3.88,-13.65,-10.46
-309,4,Jaguars,Sun,October 1,9:30AM ET,W,,2-2,home,Atlanta Falcons,23.0,7.0,16.0,300.0,195.0,105.0,,17.0,287.0,160.0,127.0,3.0,0.72,15.78,-0.86
-310,5,Jaguars,Sun,October 8,9:30AM ET,W,,3-2,away,Buffalo Bills,25.0,20.0,29.0,474.0,278.0,196.0,2.0,18.0,388.0,359.0,29.0,2.0,13.93,-6.27,2.21
-311,6,Jaguars,Sun,October 15,1:00PM ET,W,,4-2,home,Indianapolis Colts,37.0,20.0,17.0,233.0,148.0,85.0,1.0,18.0,354.0,310.0,44.0,4.0,-0.16,12.21,4.88
-312,7,Jaguars,Thu,October 19,8:15PM ET,W,,5-2,away,New Orleans Saints,31.0,24.0,18.0,330.0,217.0,113.0,2.0,25.0,407.0,295.0,112.0,1.0,2.64,4.83,-1.15
-313,8,Jaguars,Sun,October 29,1:00PM ET,W,,6-2,away,Pittsburgh Steelers,20.0,10.0,20.0,377.0,271.0,106.0,3.0,17.0,261.0,191.0,70.0,2.0,-2.59,3.68,2.01
-314,9,Jaguars,,,,,,,home,<strong>Bye Week</strong>,,,,,,,,,,,,,,,
-315,10,Jaguars,Sun,November 12,1:00PM ET,,,,home,San Francisco 49ers,0.0,,,,,,,,,,,,,,
-316,11,Jaguars,Sun,November 19,1:00PM ET,,,,home,Tennessee Titans,0.0,,,,,,,,,,,,,,
-317,12,Jaguars,Sun,November 26,1:00PM ET,,,,away,Houston Texans,0.0,,,,,,,,,,,,,,
-318,13,Jaguars,Mon,December 4,8:15PM ET,,,,home,Cincinnati Bengals,0.0,,,,,,,,,,,,,,
-319,14,Jaguars,Sun,December 10,1:00PM ET,,,,away,Cleveland Browns,0.0,,,,,,,,,,,,,,
-320,15,Jaguars,Sun,December 17,8:20PM ET,,,,home,Baltimore Ravens,0.0,,,,,,,,,,,,,,
-321,16,Jaguars,Sun,December 24,4:05PM ET,,,,away,Tampa Bay Buccaneers,0.0,,,,,,,,,,,,,,
-322,17,Jaguars,Sun,December 31,1:00PM ET,,,,home,Carolina Panthers,0.0,,,,,,,,,,,,,,
-323,18,Jaguars,Sun,January 7,1:00PM ET,,,,away,Tennessee Titans,0.0,,,,,,,,,,,,,,
-324,1,Jets,Mon,September 11,8:15PM ET,W,OT,1-0,home,Buffalo Bills,22.0,16.0,13.0,289.0,117.0,172.0,1.0,19.0,314.0,217.0,97.0,4.0,-1.19,4.85,2.27
-325,2,Jets,Sun,September 17,4:25PM ET,L,,1-1,away,Dallas Cowboys,10.0,30.0,12.0,215.0,151.0,64.0,4.0,26.0,382.0,248.0,134.0,,-14.82,-7.01,2.25
-326,3,Jets,Sun,September 24,1:00PM ET,L,,1-2,home,New England Patriots,10.0,15.0,12.0,171.0,133.0,38.0,,17.0,358.0,201.0,157.0,,-15.2,2.13,6.78
-327,4,Jets,Sun,October 1,8:20PM ET,L,,1-3,home,Kansas City Chiefs,20.0,23.0,18.0,336.0,228.0,108.0,1.0,24.0,401.0,197.0,204.0,2.0,3.25,-10.22,-1.48
-328,5,Jets,Sun,October 8,4:25PM ET,W,,2-3,away,Denver Broncos,31.0,21.0,18.0,407.0,173.0,234.0,2.0,18.0,308.0,169.0,139.0,3.0,5.79,6.26,2.75
-329,6,Jets,Sun,October 15,4:25PM ET,W,,3-3,home,Philadelphia Eagles,20.0,14.0,17.0,244.0,155.0,89.0,,24.0,348.0,268.0,80.0,4.0,-7.52,5.91,8.89
-330,7,Jets,,,,,,,home,<strong>Bye Week</strong>,,,,,,,,,,,,,,,
-331,8,Jets,Sun,October 29,1:00PM ET,W,OT,4-3,away,New York Giants,13.0,10.0,12.0,251.0,193.0,58.0,2.0,12.0,194.0,-9.0,203.0,,-20.78,20.38,1.41
-332,9,Jets,Mon,November 6,8:15PM ET,L,,4-4,home,Los Angeles Chargers,6.0,27.0,17.0,270.0,206.0,64.0,3.0,14.0,191.0,107.0,84.0,,-25.2,6.47,-1.49
-333,10,Jets,Sun,November 12,8:20PM ET,,,,away,Las Vegas Raiders,0.0,,,,,,,,,,,,,,
-334,11,Jets,Sun,November 19,4:25PM ET,,,,away,Buffalo Bills,0.0,,,,,,,,,,,,,,
-335,12,Jets,Fri,November 24,3:00PM ET,,,,home,Miami Dolphins,0.0,,,,,,,,,,,,,,
-336,13,Jets,Sun,December 3,1:00PM ET,,,,home,Atlanta Falcons,0.0,,,,,,,,,,,,,,
-337,14,Jets,Sun,December 10,1:00PM ET,,,,home,Houston Texans,0.0,,,,,,,,,,,,,,
-338,15,Jets,Sun,December 17,1:00PM ET,,,,away,Miami Dolphins,0.0,,,,,,,,,,,,,,
-339,16,Jets,Sun,December 24,1:00PM ET,,,,home,Washington Commanders,0.0,,,,,,,,,,,,,,
-340,17,Jets,Thu,December 28,8:15PM ET,,,,away,Cleveland Browns,0.0,,,,,,,,,,,,,,
-341,18,Jets,Sun,January 7,1:00PM ET,,,,away,New England Patriots,0.0,,,,,,,,,,,,,,
-342,1,Lions,Thu,September 7,8:20PM ET,W,,1-0,away,Kansas City Chiefs,21.0,20.0,19.0,368.0,250.0,118.0,1.0,17.0,316.0,226.0,90.0,1.0,2.6,4.17,-2.11
-343,2,Lions,Sun,September 17,1:00PM ET,L,OT,1-1,home,Seattle Seahawks,31.0,37.0,25.0,418.0,316.0,102.0,3.0,28.0,393.0,311.0,82.0,,4.65,-18.0,7.35
-344,3,Lions,Sun,September 24,1:00PM ET,W,,2-1,home,Atlanta Falcons,20.0,6.0,18.0,358.0,243.0,115.0,1.0,16.0,183.0,139.0,44.0,1.0,1.31,15.09,-0.59
-345,4,Lions,Thu,September 28,8:15PM ET,W,,3-1,away,Green Bay Packers,34.0,20.0,25.0,401.0,190.0,211.0,1.0,15.0,230.0,203.0,27.0,2.0,8.47,8.6,2.13
-346,5,Lions,Sun,October 8,1:00PM ET,W,,4-1,home,Carolina Panthers,42.0,24.0,23.0,377.0,218.0,159.0,,26.0,342.0,243.0,99.0,3.0,21.57,-4.1,0.86
-347,6,Lions,Sun,October 15,4:25PM ET,W,,5-1,away,Tampa Bay Buccaneers,20.0,6.0,19.0,380.0,340.0,40.0,,13.0,251.0,205.0,46.0,1.0,8.54,11.72,-6.91
-348,7,Lions,Sun,October 22,1:00PM ET,L,,5-2,away,Baltimore Ravens,6.0,38.0,18.0,337.0,253.0,84.0,1.0,23.0,503.0,357.0,146.0,1.0,-6.4,-26.48,3.38
-349,8,Lions,Mon,October 30,8:15PM ET,W,,6-2,home,Las Vegas Raiders,26.0,14.0,29.0,486.0,264.0,222.0,3.0,12.0,157.0,77.0,80.0,1.0,0.57,15.25,-2.81
-350,9,Lions,,,,,,,home,<strong>Bye Week</strong>,,,,,,,,,,,,,,,
-351,10,Lions,Sun,November 12,4:05PM ET,,,,away,Los Angeles Chargers,0.0,,,,,,,,,,,,,,
-352,11,Lions,Sun,November 19,1:00PM ET,,,,home,Chicago Bears,0.0,,,,,,,,,,,,,,
-353,12,Lions,Thu,November 23,12:30PM ET,,,,home,Green Bay Packers,0.0,,,,,,,,,,,,,,
-354,13,Lions,Sun,December 3,1:00PM ET,,,,away,New Orleans Saints,0.0,,,,,,,,,,,,,,
-355,14,Lions,Sun,December 10,1:00PM ET,,,,away,Chicago Bears,0.0,,,,,,,,,,,,,,
-356,15,Lions,Sun,December 17,1:00PM ET,,,,home,Denver Broncos,0.0,,,,,,,,,,,,,,
-357,16,Lions,Sun,December 24,1:00PM ET,,,,away,Minnesota Vikings,0.0,,,,,,,,,,,,,,
-358,17,Lions,Sat,December 30,8:15PM ET,,,,away,Dallas Cowboys,0.0,,,,,,,,,,,,,,
-359,18,Lions,Sun,January 7,1:00PM ET,,,,home,Minnesota Vikings,0.0,,,,,,,,,,,,,,
-360,1,Packers,Sun,September 10,4:25PM ET,W,,1-0,away,Chicago Bears,38.0,20.0,15.0,329.0,237.0,92.0,,22.0,311.0,189.0,122.0,2.0,8.05,6.45,2.11
-361,2,Packers,Sun,September 17,1:00PM ET,L,,1-1,away,Atlanta Falcons,24.0,25.0,17.0,224.0,140.0,84.0,,27.0,446.0,235.0,211.0,1.0,7.85,-13.12,0.97
-362,3,Packers,Sun,September 24,1:00PM ET,W,,2-1,home,New Orleans Saints,18.0,17.0,21.0,340.0,245.0,95.0,1.0,15.0,252.0,175.0,77.0,,1.99,3.02,-6.26
-363,4,Packers,Thu,September 28,8:15PM ET,L,,2-2,home,Detroit Lions,20.0,34.0,15.0,230.0,203.0,27.0,2.0,25.0,401.0,190.0,211.0,1.0,-8.6,-8.47,-2.13
-364,5,Packers,Mon,October 9,8:15PM ET,L,,2-3,away,Las Vegas Raiders,13.0,17.0,18.0,285.0,175.0,110.0,3.0,19.0,279.0,183.0,96.0,1.0,-6.99,1.23,5.61
-365,6,Packers,,,,,,,home,<strong>Bye Week</strong>,,,,,,,,,,,,,,,
-366,7,Packers,Sun,October 22,4:25PM ET,L,,2-4,away,Denver Broncos,17.0,19.0,20.0,331.0,194.0,137.0,1.0,18.0,339.0,194.0,145.0,,11.33,-9.89,-2.65
-367,8,Packers,Sun,October 29,1:00PM ET,L,,2-5,home,Minnesota Vikings,10.0,24.0,16.0,270.0,196.0,74.0,1.0,24.0,346.0,284.0,62.0,1.0,-10.54,-13.6,9.64
-368,9,Packers,Sun,November 5,1:00PM ET,W,,3-5,home,Los Angeles Rams,20.0,3.0,21.0,391.0,207.0,184.0,2.0,10.0,187.0,119.0,68.0,2.0,2.46,20.49,-1.58
-369,10,Packers,Sun,November 12,1:00PM ET,,,,away,Pittsburgh Steelers,0.0,,,,,,,,,,,,,,
-370,11,Packers,Sun,November 19,1:00PM ET,,,,home,Los Angeles Chargers,0.0,,,,,,,,,,,,,,
-371,12,Packers,Thu,November 23,12:30PM ET,,,,away,Detroit Lions,0.0,,,,,,,,,,,,,,
-372,13,Packers,Sun,December 3,8:20PM ET,,,,home,Kansas City Chiefs,0.0,,,,,,,,,,,,,,
-373,14,Packers,Mon,December 11,8:15PM ET,,,,away,New York Giants,0.0,,,,,,,,,,,,,,
-374,15,Packers,Sun,December 17,1:00PM ET,,,,home,Tampa Bay Buccaneers,0.0,,,,,,,,,,,,,,
-375,16,Packers,Sun,December 24,1:00PM ET,,,,away,Carolina Panthers,0.0,,,,,,,,,,,,,,
-376,17,Packers,Sun,December 31,8:20PM ET,,,,away,Minnesota Vikings,0.0,,,,,,,,,,,,,,
-377,18,Packers,Sun,January 7,1:00PM ET,,,,home,Chicago Bears,0.0,,,,,,,,,,,,,,
-378,1,Panthers,Sun,September 10,1:00PM ET,L,,0-1,away,Atlanta Falcons,10.0,24.0,20.0,281.0,127.0,154.0,3.0,13.0,221.0,91.0,130.0,,-16.61,2.92,0.2
-379,2,Panthers,Mon,September 18,7:15PM ET,L,,0-2,home,New Orleans Saints,17.0,20.0,14.0,239.0,139.0,100.0,1.0,23.0,341.0,207.0,134.0,1.0,-6.94,-3.81,6.1
-380,3,Panthers,Sun,September 24,4:05PM ET,L,,0-3,away,Seattle Seahawks,27.0,37.0,23.0,378.0,334.0,44.0,,27.0,425.0,279.0,146.0,1.0,6.08,-10.21,-4.29
-381,4,Panthers,Sun,October 1,1:00PM ET,L,,0-4,home,Minnesota Vikings,13.0,21.0,20.0,232.0,149.0,83.0,1.0,14.0,265.0,130.0,135.0,2.0,-14.29,5.73,-0.38
-382,5,Panthers,Sun,October 8,1:00PM ET,L,,0-5,away,Detroit Lions,24.0,42.0,26.0,342.0,243.0,99.0,3.0,23.0,377.0,218.0,159.0,,4.1,-21.57,-0.86
-383,6,Panthers,Sun,October 15,1:00PM ET,L,,0-6,away,Miami Dolphins,21.0,42.0,21.0,296.0,188.0,108.0,,23.0,424.0,262.0,162.0,1.0,-6.44,-14.79,0.33
-384,7,Panthers,,,,,,,home,<strong>Bye Week</strong>,,,,,,,,,,,,,,,
-385,8,Panthers,Sun,October 29,1:00PM ET,W,,1-6,home,Houston Texans,15.0,13.0,20.0,224.0,180.0,44.0,,16.0,229.0,119.0,110.0,1.0,0.91,3.6,-2.13
-386,9,Panthers,Sun,November 5,4:05PM ET,L,,1-7,home,Indianapolis Colts,13.0,27.0,17.0,275.0,137.0,138.0,3.0,17.0,198.0,120.0,78.0,1.0,-23.07,3.93,2.92
-387,10,Panthers,Thu,November 9,8:15PM ET,L,,1-8,away,Chicago Bears,13.0,16.0,12.0,213.0,170.0,43.0,,21.0,295.0,162.0,133.0,,-6.28,0.42,1.84
-388,11,Panthers,Sun,November 19,1:00PM ET,,,,home,Dallas Cowboys,0.0,,,,,,,,,,,,,,
-389,12,Panthers,Sun,November 26,1:00PM ET,,,,away,Tennessee Titans,0.0,,,,,,,,,,,,,,
-390,13,Panthers,Sun,December 3,1:00PM ET,,,,away,Tampa Bay Buccaneers,0.0,,,,,,,,,,,,,,
-391,14,Panthers,Sun,December 10,1:00PM ET,,,,away,New Orleans Saints,0.0,,,,,,,,,,,,,,
-392,15,Panthers,Sun,December 17,1:00PM ET,,,,home,Atlanta Falcons,0.0,,,,,,,,,,,,,,
-393,16,Panthers,Sun,December 24,1:00PM ET,,,,home,Green Bay Packers,0.0,,,,,,,,,,,,,,
-394,17,Panthers,Sun,December 31,1:00PM ET,,,,away,Jacksonville Jaguars,0.0,,,,,,,,,,,,,,
-395,18,Panthers,Sun,January 7,1:00PM ET,,,,home,Tampa Bay Buccaneers,0.0,,,,,,,,,,,,,,
-396,1,Patriots,Sun,September 10,4:25PM ET,L,,0-1,home,Philadelphia Eagles,20.0,25.0,24.0,382.0,306.0,76.0,2.0,17.0,251.0,154.0,97.0,1.0,-12.04,10.42,-4.39
-397,2,Patriots,Sun,September 17,8:20PM ET,L,,0-2,home,Miami Dolphins,17.0,24.0,23.0,288.0,200.0,88.0,2.0,22.0,389.0,244.0,145.0,1.0,-0.98,-13.09,7.69
-398,3,Patriots,Sun,September 24,1:00PM ET,W,,1-2,away,New York Jets,15.0,10.0,17.0,358.0,201.0,157.0,,12.0,171.0,133.0,38.0,,-2.13,15.2,-6.78
-399,4,Patriots,Sun,October 1,4:25PM ET,L,,1-3,away,Dallas Cowboys,3.0,38.0,10.0,253.0,200.0,53.0,3.0,22.0,377.0,253.0,124.0,,-26.22,-8.01,-0.2
-400,5,Patriots,Sun,October 8,1:00PM ET,L,,1-4,home,New Orleans Saints,0.0,34.0,8.0,156.0,111.0,45.0,3.0,17.0,304.0,168.0,136.0,,-33.72,1.91,-3.4
-401,6,Patriots,Sun,October 15,4:05PM ET,L,,1-5,away,Las Vegas Raiders,17.0,21.0,17.0,259.0,176.0,83.0,1.0,19.0,348.0,264.0,84.0,1.0,3.68,-2.79,-5.62
-402,7,Patriots,Sun,October 22,1:00PM ET,W,,2-5,home,Buffalo Bills,29.0,25.0,21.0,364.0,268.0,96.0,1.0,24.0,339.0,258.0,81.0,2.0,10.65,-11.63,5.61
-403,8,Patriots,Sun,October 29,1:00PM ET,L,,2-6,away,Miami Dolphins,17.0,31.0,13.0,218.0,141.0,77.0,1.0,24.0,390.0,312.0,78.0,2.0,-9.73,-10.64,3.59
-404,9,Patriots,Sun,November 5,1:00PM ET,L,,2-7,home,Washington Commanders,17.0,20.0,18.0,327.0,220.0,107.0,1.0,23.0,432.0,308.0,124.0,2.0,0.28,-3.37,-1.3
-405,10,Patriots,Sun,November 12,9:30AM ET,,,,home,Indianapolis Colts,0.0,,,,,,,,,,,,,,
-406,11,Patriots,,,,,,,home,<strong>Bye Week</strong>,,,,,,,,,,,,,,,
-407,12,Patriots,Sun,November 26,1:00PM ET,,,,away,New York Giants,0.0,,,,,,,,,,,,,,
-408,13,Patriots,Sun,December 3,1:00PM ET,,,,home,Los Angeles Chargers,0.0,,,,,,,,,,,,,,
-409,14,Patriots,Thu,December 7,8:15PM ET,,,,away,Pittsburgh Steelers,0.0,,,,,,,,,,,,,,
-410,15,Patriots,Mon,December 18,8:15PM ET,,,,home,Kansas City Chiefs,0.0,,,,,,,,,,,,,,
-411,16,Patriots,Sun,December 24,8:15PM ET,,,,away,Denver Broncos,0.0,,,,,,,,,,,,,,
-412,17,Patriots,Sun,December 31,1:00PM ET,,,,away,Buffalo Bills,0.0,,,,,,,,,,,,,,
-413,18,Patriots,Sun,January 7,1:00PM ET,,,,home,New York Jets,0.0,,,,,,,,,,,,,,
-414,1,Raiders,Sun,September 10,4:25PM ET,W,,1-0,away,Denver Broncos,17.0,16.0,22.0,261.0,200.0,61.0,1.0,22.0,260.0,166.0,94.0,,9.59,-10.75,3.68
-415,2,Raiders,Sun,September 17,1:00PM ET,L,,1-1,away,Buffalo Bills,10.0,38.0,13.0,240.0,185.0,55.0,3.0,29.0,450.0,267.0,183.0,,-4.89,-27.19,3.85
-416,3,Raiders,Sun,September 24,8:20PM ET,L,,1-2,home,Pittsburgh Steelers,18.0,23.0,19.0,362.0,293.0,69.0,3.0,17.0,333.0,228.0,105.0,,-3.82,-5.43,-0.12
-417,4,Raiders,Sun,October 1,4:05PM ET,L,,1-3,away,Los Angeles Chargers,17.0,24.0,22.0,264.0,188.0,76.0,3.0,16.0,305.0,150.0,155.0,1.0,-8.27,-4.86,6.07
-418,5,Raiders,Mon,October 9,8:15PM ET,W,,2-3,home,Green Bay Packers,17.0,13.0,19.0,279.0,183.0,96.0,1.0,18.0,285.0,175.0,110.0,3.0,-1.23,6.99,-5.61
-419,6,Raiders,Sun,October 15,4:05PM ET,W,,3-3,home,New England Patriots,21.0,17.0,19.0,348.0,264.0,84.0,1.0,17.0,259.0,176.0,83.0,1.0,2.79,-3.68,5.62
-420,7,Raiders,Sun,October 22,1:00PM ET,L,,3-4,away,Chicago Bears,12.0,30.0,20.0,235.0,196.0,39.0,3.0,23.0,323.0,150.0,173.0,,-6.37,-12.58,-2.41
-421,8,Raiders,Mon,October 30,8:15PM ET,L,,3-5,away,Detroit Lions,14.0,26.0,12.0,157.0,77.0,80.0,1.0,29.0,486.0,264.0,222.0,3.0,-15.25,-0.57,2.81
-422,9,Raiders,Sun,November 5,4:25PM ET,W,,4-5,home,New York Giants,30.0,6.0,15.0,334.0,209.0,125.0,,15.0,277.0,154.0,123.0,2.0,1.99,18.96,1.85
-423,10,Raiders,Sun,November 12,8:20PM ET,,,,home,New York Jets,0.0,,,,,,,,,,,,,,
-424,11,Raiders,Sun,November 19,1:00PM ET,,,,away,Miami Dolphins,0.0,,,,,,,,,,,,,,
-425,12,Raiders,Sun,November 26,4:25PM ET,,,,home,Kansas City Chiefs,0.0,,,,,,,,,,,,,,
-426,13,Raiders,,,,,,,home,<strong>Bye Week</strong>,,,,,,,,,,,,,,,
-427,14,Raiders,Sun,December 10,4:05PM ET,,,,home,Minnesota Vikings,0.0,,,,,,,,,,,,,,
-428,15,Raiders,Thu,December 14,8:15PM ET,,,,home,Los Angeles Chargers,0.0,,,,,,,,,,,,,,
-429,16,Raiders,Mon,December 25,1:00PM ET,,,,away,Kansas City Chiefs,0.0,,,,,,,,,,,,,,
-430,17,Raiders,Sun,December 31,1:00PM ET,,,,away,Indianapolis Colts,0.0,,,,,,,,,,,,,,
-431,18,Raiders,Sun,January 7,1:00PM ET,,,,home,Denver Broncos,0.0,,,,,,,,,,,,,,
-432,1,Rams,Sun,September 10,4:25PM ET,W,,1-0,away,Seattle Seahawks,30.0,13.0,27.0,426.0,334.0,92.0,,13.0,180.0,95.0,85.0,,20.95,1.77,-5.73
-433,2,Rams,Sun,September 17,4:05PM ET,L,,1-1,home,San Francisco 49ers,23.0,30.0,28.0,386.0,297.0,89.0,2.0,21.0,365.0,206.0,159.0,,3.31,-12.36,2.05
-434,3,Rams,Mon,September 25,8:15PM ET,L,,1-2,away,Cincinnati Bengals,16.0,19.0,15.0,292.0,221.0,71.0,2.0,19.0,309.0,242.0,67.0,1.0,-7.34,8.0,-3.79
-435,4,Rams,Sun,October 1,1:00PM ET,W,OT,2-2,away,Indianapolis Colts,29.0,23.0,27.0,467.0,303.0,164.0,1.0,19.0,329.0,196.0,133.0,1.0,15.52,-5.51,-0.74
-436,5,Rams,Sun,October 8,4:05PM ET,L,,2-3,home,Philadelphia Eagles,14.0,23.0,17.0,249.0,195.0,54.0,,28.0,454.0,295.0,159.0,1.0,6.25,-16.56,2.84
-437,6,Rams,Sun,October 15,4:25PM ET,W,,3-3,home,Arizona Cardinals,26.0,9.0,17.0,382.0,203.0,179.0,1.0,20.0,345.0,215.0,130.0,2.0,10.25,12.85,-7.36
-438,7,Rams,Sun,October 22,4:05PM ET,L,,3-4,home,Pittsburgh Steelers,17.0,24.0,19.0,354.0,219.0,135.0,1.0,17.0,300.0,214.0,86.0,,3.06,-4.14,-6.47
-439,8,Rams,Sun,October 29,1:00PM ET,L,,3-5,away,Dallas Cowboys,20.0,43.0,15.0,280.0,188.0,92.0,1.0,24.0,387.0,285.0,102.0,1.0,-8.68,-15.46,-1.87
-440,9,Rams,Sun,November 5,1:00PM ET,L,,3-6,away,Green Bay Packers,3.0,20.0,10.0,187.0,119.0,68.0,2.0,21.0,391.0,207.0,184.0,2.0,-20.49,-2.46,1.58
-441,10,Rams,,,,,,,home,<strong>Bye Week</strong>,,,,,,,,,,,,,,,
-442,11,Rams,Sun,November 19,4:25PM ET,,,,home,Seattle Seahawks,0.0,,,,,,,,,,,,,,
-443,12,Rams,Sun,November 26,4:05PM ET,,,,away,Arizona Cardinals,0.0,,,,,,,,,,,,,,
-444,13,Rams,Sun,December 3,4:25PM ET,,,,home,Cleveland Browns,0.0,,,,,,,,,,,,,,
-445,14,Rams,Sun,December 10,1:00PM ET,,,,away,Baltimore Ravens,0.0,,,,,,,,,,,,,,
-446,15,Rams,Sun,December 17,4:05PM ET,,,,home,Washington Commanders,0.0,,,,,,,,,,,,,,
-447,16,Rams,Thu,December 21,8:15PM ET,,,,home,New Orleans Saints,0.0,,,,,,,,,,,,,,
-448,17,Rams,Sun,December 31,1:00PM ET,,,,away,New York Giants,0.0,,,,,,,,,,,,,,
-449,18,Rams,Sun,January 7,1:00PM ET,,,,away,San Francisco 49ers,0.0,,,,,,,,,,,,,,
-450,1,Ravens,Sun,September 10,1:00PM ET,W,,1-0,home,Houston Texans,25.0,9.0,18.0,265.0,155.0,110.0,2.0,18.0,268.0,196.0,72.0,1.0,-0.55,15.24,-0.49
-451,2,Ravens,Sun,September 17,1:00PM ET,W,,2-0,away,Cincinnati Bengals,27.0,24.0,26.0,415.0,237.0,178.0,,19.0,282.0,216.0,66.0,1.0,18.73,-6.95,-6.67
-452,3,Ravens,Sun,September 24,1:00PM ET,L,OT,2-1,home,Indianapolis Colts,19.0,22.0,20.0,364.0,178.0,186.0,2.0,19.0,327.0,188.0,139.0,,-5.27,13.57,-10.63
-453,4,Ravens,Sun,October 1,1:00PM ET,W,,3-1,away,Cleveland Browns,28.0,3.0,16.0,296.0,165.0,131.0,1.0,13.0,166.0,73.0,93.0,3.0,2.36,25.42,-2.71
-454,5,Ravens,Sun,October 8,1:00PM ET,L,,3-2,away,Pittsburgh Steelers,10.0,17.0,19.0,335.0,210.0,125.0,3.0,17.0,289.0,202.0,87.0,1.0,-16.12,5.08,3.84
-455,6,Ravens,Sun,October 15,9:30AM ET,W,,4-2,away,Tennessee Titans,24.0,16.0,20.0,360.0,221.0,139.0,1.0,17.0,233.0,104.0,129.0,2.0,3.16,1.3,4.65
-456,7,Ravens,Sun,October 22,1:00PM ET,W,,5-2,home,Detroit Lions,38.0,6.0,23.0,503.0,357.0,146.0,1.0,18.0,337.0,253.0,84.0,1.0,26.48,6.4,-3.38
-457,8,Ravens,Sun,October 29,4:25PM ET,W,,6-2,away,Arizona Cardinals,31.0,24.0,21.0,268.0,138.0,130.0,,22.0,310.0,181.0,129.0,2.0,9.2,3.72,-1.65
-458,9,Ravens,Sun,November 5,1:00PM ET,W,,7-2,home,Seattle Seahawks,37.0,3.0,29.0,515.0,217.0,298.0,2.0,6.0,151.0,123.0,28.0,2.0,17.08,21.73,-5.23
-459,10,Ravens,Sun,November 12,1:00PM ET,,,,home,Cleveland Browns,0.0,,,,,,,,,,,,,,
-460,11,Ravens,Thu,November 16,8:15PM ET,,,,home,Cincinnati Bengals,0.0,,,,,,,,,,,,,,
-461,12,Ravens,Sun,November 26,8:20PM ET,,,,away,Los Angeles Chargers,0.0,,,,,,,,,,,,,,
-462,13,Ravens,,,,,,,home,<strong>Bye Week</strong>,,,,,,,,,,,,,,,
-463,14,Ravens,Sun,December 10,1:00PM ET,,,,home,Los Angeles Rams,0.0,,,,,,,,,,,,,,
-464,15,Ravens,Sun,December 17,8:20PM ET,,,,away,Jacksonville Jaguars,0.0,,,,,,,,,,,,,,
-465,16,Ravens,Mon,December 25,8:15PM ET,,,,away,San Francisco 49ers,0.0,,,,,,,,,,,,,,
-466,17,Ravens,Sun,December 31,1:00PM ET,,,,home,Miami Dolphins,0.0,,,,,,,,,,,,,,
-467,18,Ravens,Sun,January 7,1:00PM ET,,,,home,Pittsburgh Steelers,0.0,,,,,,,,,,,,,,
-468,1,Saints,Sun,September 10,1:00PM ET,W,,1-0,home,Tennessee Titans,16.0,15.0,15.0,351.0,282.0,69.0,2.0,16.0,285.0,181.0,104.0,3.0,0.83,8.64,-4.03
-469,2,Saints,Mon,September 18,7:15PM ET,W,,2-0,away,Carolina Panthers,20.0,17.0,23.0,341.0,207.0,134.0,1.0,14.0,239.0,139.0,100.0,1.0,3.81,6.94,-6.1
-470,3,Saints,Sun,September 24,1:00PM ET,L,,2-1,away,Green Bay Packers,17.0,18.0,15.0,252.0,175.0,77.0,,21.0,340.0,245.0,95.0,1.0,-3.02,-1.99,6.26
-471,4,Saints,Sun,October 1,1:00PM ET,L,,2-2,home,Tampa Bay Buccaneers,9.0,26.0,16.0,197.0,127.0,70.0,3.0,21.0,353.0,239.0,114.0,1.0,-14.93,-3.79,2.25
-472,5,Saints,Sun,October 8,1:00PM ET,W,,3-2,away,New England Patriots,34.0,0.0,17.0,304.0,168.0,136.0,,8.0,156.0,111.0,45.0,3.0,-1.91,33.72,3.4
-473,6,Saints,Sun,October 15,1:00PM ET,L,,3-3,away,Houston Texans,13.0,20.0,24.0,430.0,341.0,89.0,2.0,19.0,297.0,177.0,120.0,1.0,5.96,-8.1,-3.91
-474,7,Saints,Thu,October 19,8:15PM ET,L,,3-4,home,Jacksonville Jaguars,24.0,31.0,25.0,407.0,295.0,112.0,1.0,18.0,330.0,217.0,113.0,2.0,-4.83,-2.64,1.15
-475,8,Saints,Sun,October 29,1:00PM ET,W,,4-4,away,Indianapolis Colts,38.0,27.0,24.0,511.0,350.0,161.0,1.0,19.0,371.0,207.0,164.0,1.0,23.78,-8.38,-3.03
-476,9,Saints,Sun,November 5,1:00PM ET,W,,5-4,home,Chicago Bears,24.0,17.0,18.0,301.0,214.0,87.0,,20.0,368.0,212.0,156.0,5.0,5.1,5.71,3.16
-477,10,Saints,Sun,November 12,1:00PM ET,,,,away,Minnesota Vikings,0.0,,,,,,,,,,,,,,
-478,11,Saints,,,,,,,home,<strong>Bye Week</strong>,,,,,,,,,,,,,,,
-479,12,Saints,Sun,November 26,1:00PM ET,,,,away,Atlanta Falcons,0.0,,,,,,,,,,,,,,
-480,13,Saints,Sun,December 3,1:00PM ET,,,,home,Detroit Lions,0.0,,,,,,,,,,,,,,
-481,14,Saints,Sun,December 10,1:00PM ET,,,,home,Carolina Panthers,0.0,,,,,,,,,,,,,,
-482,15,Saints,Sun,December 17,1:00PM ET,,,,home,New York Giants,0.0,,,,,,,,,,,,,,
-483,16,Saints,Thu,December 21,8:15PM ET,,,,away,Los Angeles Rams,0.0,,,,,,,,,,,,,,
-484,17,Saints,Sun,December 31,1:00PM ET,,,,away,Tampa Bay Buccaneers,0.0,,,,,,,,,,,,,,
-485,18,Saints,Sun,January 7,1:00PM ET,,,,home,Atlanta Falcons,0.0,,,,,,,,,,,,,,
-486,1,Seahawks,Sun,September 10,4:25PM ET,L,,0-1,home,Los Angeles Rams,13.0,30.0,13.0,180.0,95.0,85.0,,27.0,426.0,334.0,92.0,,-1.77,-20.95,5.73
-487,2,Seahawks,Sun,September 17,1:00PM ET,W,OT,1-1,away,Detroit Lions,37.0,31.0,28.0,393.0,311.0,82.0,,25.0,418.0,316.0,102.0,3.0,18.0,-4.65,-7.35
-488,3,Seahawks,Sun,September 24,4:05PM ET,W,,2-1,home,Carolina Panthers,37.0,27.0,27.0,425.0,279.0,146.0,1.0,23.0,378.0,334.0,44.0,,10.21,-6.08,4.29
-489,4,Seahawks,Mon,October 2,8:15PM ET,W,,3-1,away,New York Giants,24.0,3.0,13.0,281.0,160.0,121.0,,17.0,248.0,136.0,112.0,3.0,-7.86,29.37,0.33
-490,5,Seahawks,,,,,,,home,<strong>Bye Week</strong>,,,,,,,,,,,,,,,
-491,6,Seahawks,Sun,October 15,1:00PM ET,L,,3-2,away,Cincinnati Bengals,13.0,17.0,24.0,384.0,297.0,87.0,2.0,15.0,214.0,168.0,46.0,1.0,-3.89,1.37,-1.98
-492,7,Seahawks,Sun,October 22,4:05PM ET,W,,4-2,home,Arizona Cardinals,20.0,10.0,18.0,318.0,203.0,115.0,3.0,15.0,249.0,122.0,127.0,,2.2,10.34,-3.57
-493,8,Seahawks,Sun,October 29,4:05PM ET,W,,5-2,home,Cleveland Browns,24.0,20.0,17.0,362.0,248.0,114.0,2.0,23.0,385.0,230.0,155.0,3.0,6.04,0.0,2.5
-494,9,Seahawks,Sun,November 5,1:00PM ET,L,,5-3,away,Baltimore Ravens,3.0,37.0,6.0,151.0,123.0,28.0,2.0,29.0,515.0,217.0,298.0,2.0,-21.73,-17.08,5.23
-495,10,Seahawks,Sun,November 12,4:25PM ET,,,,home,Washington Commanders,0.0,,,,,,,,,,,,,,
-496,11,Seahawks,Sun,November 19,4:25PM ET,,,,away,Los Angeles Rams,0.0,,,,,,,,,,,,,,
-497,12,Seahawks,Thu,November 23,8:20PM ET,,,,home,San Francisco 49ers,0.0,,,,,,,,,,,,,,
-498,13,Seahawks,Thu,November 30,8:15PM ET,,,,away,Dallas Cowboys,0.0,,,,,,,,,,,,,,
-499,14,Seahawks,Sun,December 10,4:05PM ET,,,,away,San Francisco 49ers,0.0,,,,,,,,,,,,,,
-500,15,Seahawks,Sun,December 17,4:25PM ET,,,,home,Philadelphia Eagles,0.0,,,,,,,,,,,,,,
-501,16,Seahawks,Sun,December 24,1:00PM ET,,,,away,Tennessee Titans,0.0,,,,,,,,,,,,,,
-502,17,Seahawks,Sun,December 31,4:05PM ET,,,,home,Pittsburgh Steelers,0.0,,,,,,,,,,,,,,
-503,18,Seahawks,Sun,January 7,1:00PM ET,,,,away,Arizona Cardinals,0.0,,,,,,,,,,,,,,
-504,1,Steelers,Sun,September 10,1:00PM ET,L,,0-1,home,San Francisco 49ers,7.0,30.0,15.0,239.0,198.0,41.0,2.0,22.0,391.0,203.0,188.0,1.0,-13.55,-9.73,0.78
-505,2,Steelers,Mon,September 18,8:15PM ET,W,,1-1,home,Cleveland Browns,26.0,22.0,9.0,255.0,200.0,55.0,2.0,20.0,408.0,210.0,198.0,4.0,-16.63,19.51,2.81
-506,3,Steelers,Sun,September 24,8:20PM ET,W,,2-1,away,Las Vegas Raiders,23.0,18.0,17.0,333.0,228.0,105.0,,19.0,362.0,293.0,69.0,3.0,5.43,3.82,0.12
-507,4,Steelers,Sun,October 1,1:00PM ET,L,,2-2,away,Houston Texans,6.0,30.0,12.0,225.0,111.0,114.0,1.0,24.0,451.0,312.0,139.0,,-8.54,-15.66,2.59
-508,5,Steelers,Sun,October 8,1:00PM ET,W,,3-2,home,Baltimore Ravens,17.0,10.0,17.0,289.0,202.0,87.0,1.0,19.0,335.0,210.0,125.0,3.0,-5.08,16.12,-3.84
-509,6,Steelers,,,,,,,home,<strong>Bye Week</strong>,,,,,,,,,,,,,,,
-510,7,Steelers,Sun,October 22,4:05PM ET,W,,4-2,away,Los Angeles Rams,24.0,17.0,17.0,300.0,214.0,86.0,,19.0,354.0,219.0,135.0,1.0,4.14,-3.06,6.47
-511,8,Steelers,Sun,October 29,1:00PM ET,L,,4-3,home,Jacksonville Jaguars,10.0,20.0,17.0,261.0,191.0,70.0,2.0,20.0,377.0,271.0,106.0,3.0,-3.68,2.59,-2.01
-512,9,Steelers,Thu,November 2,8:15PM ET,W,,5-3,home,Tennessee Titans,20.0,16.0,22.0,326.0,160.0,166.0,,23.0,340.0,235.0,105.0,1.0,10.92,-3.61,-3.77
-513,10,Steelers,Sun,November 12,1:00PM ET,,,,home,Green Bay Packers,0.0,,,,,,,,,,,,,,
-514,11,Steelers,Sun,November 19,1:00PM ET,,,,away,Cleveland Browns,0.0,,,,,,,,,,,,,,
-515,12,Steelers,Sun,November 26,1:00PM ET,,,,away,Cincinnati Bengals,0.0,,,,,,,,,,,,,,
-516,13,Steelers,Sun,December 3,1:00PM ET,,,,home,Arizona Cardinals,0.0,,,,,,,,,,,,,,
-517,14,Steelers,Thu,December 7,8:15PM ET,,,,home,New England Patriots,0.0,,,,,,,,,,,,,,
-518,15,Steelers,Sun,December 17,1:00PM ET,,,,away,Indianapolis Colts,0.0,,,,,,,,,,,,,,
-519,16,Steelers,Sat,December 23,4:30PM ET,,,,home,Cincinnati Bengals,0.0,,,,,,,,,,,,,,
-520,17,Steelers,Sun,December 31,4:05PM ET,,,,away,Seattle Seahawks,0.0,,,,,,,,,,,,,,
-521,18,Steelers,Sun,January 7,1:00PM ET,,,,away,Baltimore Ravens,0.0,,,,,,,,,,,,,,
-522,1,Texans,Sun,September 10,1:00PM ET,L,,0-1,away,Baltimore Ravens,9.0,25.0,18.0,268.0,196.0,72.0,1.0,18.0,265.0,155.0,110.0,2.0,-15.24,0.55,0.49
-523,2,Texans,Sun,September 17,1:00PM ET,L,,0-2,home,Indianapolis Colts,20.0,31.0,24.0,389.0,337.0,52.0,1.0,19.0,353.0,227.0,126.0,,7.88,-14.21,-4.04
-524,3,Texans,Sun,September 24,1:00PM ET,W,,1-2,away,Jacksonville Jaguars,37.0,17.0,15.0,366.0,280.0,86.0,,22.0,404.0,288.0,116.0,2.0,13.65,-3.88,10.46
-525,4,Texans,Sun,October 1,1:00PM ET,W,,2-2,home,Pittsburgh Steelers,30.0,6.0,24.0,451.0,312.0,139.0,,12.0,225.0,111.0,114.0,1.0,15.66,8.54,-2.59
-526,5,Texans,Sun,October 8,1:00PM ET,L,,2-3,away,Atlanta Falcons,19.0,21.0,17.0,313.0,249.0,64.0,,26.0,447.0,351.0,96.0,2.0,2.73,-6.01,1.01
-527,6,Texans,Sun,October 15,1:00PM ET,W,,3-3,home,New Orleans Saints,20.0,13.0,19.0,297.0,177.0,120.0,1.0,24.0,430.0,341.0,89.0,2.0,8.1,-5.96,3.91
-528,7,Texans,,,,,,,home,<strong>Bye Week</strong>,,,,,,,,,,,,,,,
-529,8,Texans,Sun,October 29,1:00PM ET,L,,3-4,away,Carolina Panthers,13.0,15.0,16.0,229.0,119.0,110.0,1.0,20.0,224.0,180.0,44.0,,-3.6,-0.91,2.13
-530,9,Texans,Sun,November 5,1:00PM ET,W,,4-4,home,Tampa Bay Buccaneers,39.0,37.0,26.0,496.0,443.0,53.0,1.0,21.0,332.0,251.0,81.0,1.0,16.65,-13.23,-5.81
-531,10,Texans,Sun,November 12,1:00PM ET,,,,away,Cincinnati Bengals,0.0,,,,,,,,,,,,,,
-532,11,Texans,Sun,November 19,1:00PM ET,,,,home,Arizona Cardinals,0.0,,,,,,,,,,,,,,
-533,12,Texans,Sun,November 26,1:00PM ET,,,,home,Jacksonville Jaguars,0.0,,,,,,,,,,,,,,
-534,13,Texans,Sun,December 3,4:05PM ET,,,,home,Denver Broncos,0.0,,,,,,,,,,,,,,
-535,14,Texans,Sun,December 10,1:00PM ET,,,,away,New York Jets,0.0,,,,,,,,,,,,,,
-536,15,Texans,Sun,December 17,1:00PM ET,,,,away,Tennessee Titans,0.0,,,,,,,,,,,,,,
-537,16,Texans,Sun,December 24,1:00PM ET,,,,home,Cleveland Browns,0.0,,,,,,,,,,,,,,
-538,17,Texans,Sun,December 31,1:00PM ET,,,,home,Tennessee Titans,0.0,,,,,,,,,,,,,,
-539,18,Texans,Sun,January 7,1:00PM ET,,,,away,Indianapolis Colts,0.0,,,,,,,,,,,,,,
-540,1,Titans,Sun,September 10,1:00PM ET,L,,0-1,away,New Orleans Saints,15.0,16.0,16.0,285.0,181.0,104.0,3.0,15.0,351.0,282.0,69.0,2.0,-8.64,-0.83,4.03
-541,2,Titans,Sun,September 17,1:00PM ET,W,OT,1-1,home,Los Angeles Chargers,27.0,24.0,22.0,341.0,200.0,141.0,,19.0,342.0,281.0,61.0,,9.86,-6.8,-0.06
-542,3,Titans,Sun,September 24,1:00PM ET,L,,1-2,away,Cleveland Browns,3.0,27.0,6.0,94.0,68.0,26.0,,23.0,341.0,263.0,78.0,1.0,-13.12,-13.99,4.04
-543,4,Titans,Sun,October 1,1:00PM ET,W,,2-2,home,Cincinnati Bengals,27.0,3.0,23.0,400.0,227.0,173.0,1.0,14.0,211.0,139.0,72.0,1.0,18.97,9.18,-1.14
-544,5,Titans,Sun,October 8,1:00PM ET,L,,2-3,away,Indianapolis Colts,16.0,23.0,19.0,348.0,259.0,89.0,1.0,21.0,429.0,236.0,193.0,,6.32,-16.77,0.89
-545,6,Titans,Sun,October 15,9:30AM ET,L,,2-4,home,Baltimore Ravens,16.0,24.0,17.0,233.0,104.0,129.0,2.0,20.0,360.0,221.0,139.0,1.0,-1.3,-3.16,-4.65
-546,7,Titans,,,,,,,home,<strong>Bye Week</strong>,,,,,,,,,,,,,,,
-547,8,Titans,Sun,October 29,1:00PM ET,W,,3-4,home,Atlanta Falcons,28.0,23.0,17.0,375.0,226.0,149.0,1.0,17.0,342.0,202.0,140.0,1.0,4.14,3.34,0.17
-548,9,Titans,Thu,November 2,8:15PM ET,L,,3-5,away,Pittsburgh Steelers,16.0,20.0,23.0,340.0,235.0,105.0,1.0,22.0,326.0,160.0,166.0,,3.61,-10.92,3.77
-549,10,Titans,Sun,November 12,1:00PM ET,,,,away,Tampa Bay Buccaneers,0.0,,,,,,,,,,,,,,
-550,11,Titans,Sun,November 19,1:00PM ET,,,,away,Jacksonville Jaguars,0.0,,,,,,,,,,,,,,
-551,12,Titans,Sun,November 26,1:00PM ET,,,,home,Carolina Panthers,0.0,,,,,,,,,,,,,,
-552,13,Titans,Sun,December 3,1:00PM ET,,,,home,Indianapolis Colts,0.0,,,,,,,,,,,,,,
-553,14,Titans,Mon,December 11,8:15PM ET,,,,away,Miami Dolphins,0.0,,,,,,,,,,,,,,
-554,15,Titans,Sun,December 17,1:00PM ET,,,,home,Houston Texans,0.0,,,,,,,,,,,,,,
-555,16,Titans,Sun,December 24,1:00PM ET,,,,home,Seattle Seahawks,0.0,,,,,,,,,,,,,,
-556,17,Titans,Sun,December 31,1:00PM ET,,,,away,Houston Texans,0.0,,,,,,,,,,,,,,
-557,18,Titans,Sun,January 7,1:00PM ET,,,,home,Jacksonville Jaguars,0.0,,,,,,,,,,,,,,
-558,1,Vikings,Sun,September 10,1:00PM ET,L,,0-1,home,Tampa Bay Buccaneers,17.0,20.0,18.0,369.0,328.0,41.0,3.0,16.0,242.0,169.0,73.0,,0.1,3.09,-7.66
-559,2,Vikings,Thu,September 14,8:15PM ET,L,,0-2,away,Philadelphia Eagles,28.0,34.0,19.0,374.0,346.0,28.0,4.0,24.0,430.0,171.0,259.0,1.0,7.44,-14.53,0.51
-560,3,Vikings,Sun,September 24,1:00PM ET,L,,0-3,home,Los Angeles Chargers,24.0,28.0,29.0,475.0,345.0,130.0,2.0,24.0,475.0,445.0,30.0,1.0,8.26,-15.21,4.83
-561,4,Vikings,Sun,October 1,1:00PM ET,W,,1-3,away,Carolina Panthers,21.0,13.0,14.0,265.0,130.0,135.0,2.0,20.0,232.0,149.0,83.0,1.0,-5.73,14.29,0.38
-562,5,Vikings,Sun,October 8,4:25PM ET,L,,1-4,home,Kansas City Chiefs,20.0,27.0,24.0,329.0,259.0,70.0,1.0,21.0,333.0,266.0,67.0,,10.22,-15.55,-0.17
-563,6,Vikings,Sun,October 15,1:00PM ET,W,,2-4,away,Chicago Bears,19.0,13.0,12.0,220.0,174.0,46.0,1.0,18.0,275.0,113.0,162.0,3.0,-8.38,15.39,0.79
-564,7,Vikings,Mon,October 23,8:15PM ET,W,,3-4,home,San Francisco 49ers,22.0,17.0,24.0,452.0,378.0,74.0,1.0,19.0,325.0,260.0,65.0,3.0,16.3,-5.43,-6.07
-565,8,Vikings,Sun,October 29,1:00PM ET,W,,4-4,away,Green Bay Packers,24.0,10.0,24.0,346.0,284.0,62.0,1.0,16.0,270.0,196.0,74.0,1.0,13.6,10.54,-9.64
-566,9,Vikings,Sun,November 5,1:00PM ET,W,,5-4,away,Atlanta Falcons,31.0,28.0,23.0,363.0,217.0,146.0,2.0,18.0,370.0,260.0,110.0,2.0,1.9,3.4,-3.43
-567,10,Vikings,Sun,November 12,1:00PM ET,,,,home,New Orleans Saints,0.0,,,,,,,,,,,,,,
-568,11,Vikings,Sun,November 19,8:20PM ET,,,,away,Denver Broncos,0.0,,,,,,,,,,,,,,
-569,12,Vikings,Mon,November 27,8:15PM ET,,,,home,Chicago Bears,0.0,,,,,,,,,,,,,,
-570,13,Vikings,,,,,,,home,<strong>Bye Week</strong>,,,,,,,,,,,,,,,
-571,14,Vikings,Sun,December 10,4:05PM ET,,,,away,Las Vegas Raiders,0.0,,,,,,,,,,,,,,
-572,15,Vikings,Sun,December 17,1:00PM ET,,,,away,Cincinnati Bengals,0.0,,,,,,,,,,,,,,
-573,16,Vikings,Sun,December 24,1:00PM ET,,,,home,Detroit Lions,0.0,,,,,,,,,,,,,,
-574,17,Vikings,Sun,December 31,8:20PM ET,,,,home,Green Bay Packers,0.0,,,,,,,,,,,,,,
-575,18,Vikings,Sun,January 7,1:00PM ET,,,,away,Detroit Lions,0.0,,,,,,,,,,,,,,
+,Week,Team,Day,Date,Time,Win/Loss,Overtime,Team Record,Home/Away,Opponent,Points Scored,Points Allowed,Offense 1st Down,Total Yards Gained of Offense,Total yards Gained by Passing,Total Yards Gained by Rushing,Offense Turnovers,Defense 1st Down,Total Yards Allowed by Defense,Total Passing Yards Allowed by Defense,Total Rushing Yards Allowed by Defense,Defense Turnovers,Offense,Defense,Sp. Tms,Year
+0,1,49ers,Sun,September 10,1:00PM ET,W,0,1-0,away,Pittsburgh Steelers,30,7,22,391,203,188,1,15,239,198,41,2,9.73,13.55,-0.78,2023
+1,2,49ers,Sun,September 17,4:05PM ET,W,0,2-0,away,Los Angeles Rams,30,23,21,365,206,159,0,28,386,297,89,2,12.36,-3.31,-2.05,2023
+2,3,49ers,Thu,September 21,8:15PM ET,W,0,3-0,home,New York Giants,30,12,26,441,300,141,0,10,150,121,29,1,19.0,11.82,-9.72,2023
+3,4,49ers,Sun,October 1,4:25PM ET,W,0,4-0,home,Arizona Cardinals,35,16,30,395,271,124,0,23,362,257,105,0,30.46,-9.72,-1.63,2023
+4,5,49ers,Sun,October 8,8:20PM ET,W,0,5-0,home,Dallas Cowboys,42,10,25,421,251,170,1,8,197,140,57,4,12.84,23.12,-5.21,2023
+5,6,49ers,Sun,October 15,1:00PM ET,L,0,5-1,away,Cleveland Browns,17,19,15,215,107,108,1,18,334,174,160,2,-6.05,11.32,-7.34,2023
+6,7,49ers,Mon,October 23,8:15PM ET,L,0,5-2,away,Minnesota Vikings,17,22,19,325,260,65,3,24,452,378,74,1,5.43,-16.3,6.07,2023
+7,8,49ers,Sun,October 29,4:25PM ET,L,0,5-3,home,Cincinnati Bengals,17,31,24,460,347,113,3,29,400,266,134,1,9.25,-18.3,2.48,2023
+8,9,49ers,0,0,0,0,0,0,home,<strong>Bye Week</strong>,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,2023
+9,10,49ers,Sun,November 12,1:00PM ET,W,0,6-3,away,Jacksonville Jaguars,34,3,20,437,293,144,0,12,221,162,59,4,15.13,18.16,-3.53,2023
+10,11,49ers,Sun,November 19,4:05PM ET,W,0,7-3,home,Tampa Bay Buccaneers,27,14,22,420,305,115,0,22,287,221,66,2,14.22,2.05,-2.57,2023
+11,12,49ers,Thu,November 23,8:20PM ET,W,0,8-3,away,Seattle Seahawks,31,13,23,377,208,169,1,14,220,132,88,2,8.06,10.62,-0.59,2023
+12,13,49ers,Sun,December 3,4:25PM ET,W,0,9-3,away,Philadelphia Eagles,42,19,24,456,310,146,0,23,333,287,46,0,33.55,-6.22,-2.11,2023
+13,14,49ers,Sun,December 10,4:05PM ET,W,0,10-3,home,Seattle Seahawks,28,16,19,527,354,173,2,17,324,254,70,2,19.7,1.61,-3.47,2023
+14,15,49ers,Sun,December 17,4:05PM ET,W,0,11-3,away,Arizona Cardinals,45,29,24,406,262,144,0,22,436,202,234,2,26.28,-5.83,-1.07,2023
+15,16,49ers,Mon,December 25,8:15PM ET,L,0,11-4,home,Baltimore Ravens,19,33,21,429,308,121,5,23,343,241,102,0,-4.26,-11.84,1.31,2023
+16,17,49ers,Sun,December 31,1:00PM ET,W,0,12-4,away,Washington Commanders,27,10,28,408,224,184,0,12,225,163,62,2,16.3,6.62,-3.5,2023
+17,18,49ers,Sun,January 7,4:25PM ET,L,0,12-5,home,Los Angeles Rams,20,21,20,300,175,125,1,19,258,149,109,1,9.48,-11.3,-2.42,2023
+18,0,49ers,0,<strong>Playoffs</strong>,0,0,0,0,home,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,2023
+19,Division,49ers,Sat,January 20,8:15PM ET,W,0,13-5,home,Green Bay Packers,24,21,19,356,245,111,0,20,330,194,136,2,12.57,-5.63,-1.49,2023
+20,Conf. Champ.,49ers,Sun,January 28,6:30PM ET,W,0,14-5,home,Detroit Lions,34,31,23,413,258,155,1,28,442,260,182,1,19.87,-14.76,-1.23,2023
+21,SuperBowl,49ers,Sun,February 11,6:30PM ET,L,OT,14-6,home,Kansas City Chiefs,22,25,23,382,272,110,2,24,455,325,130,2,4.68,-3.42,-3.39,2023
+22,1,Bears,Sun,September 10,4:25PM ET,L,0,0-1,home,Green Bay Packers,20,38,22,311,189,122,2,15,329,237,92,0,-6.45,-8.05,-2.11,2023
+23,2,Bears,Sun,September 17,1:00PM ET,L,0,0-2,away,Tampa Bay Buccaneers,17,27,14,236,169,67,2,19,437,317,120,0,-7.04,-14.15,8.78,2023
+24,3,Bears,Sun,September 24,4:25PM ET,L,0,0-3,away,Kansas City Chiefs,10,41,11,203,87,116,2,31,456,303,153,2,-13.6,-20.09,1.47,2023
+25,4,Bears,Sun,October 1,1:00PM ET,L,0,0-4,home,Denver Broncos,28,31,26,471,300,171,2,17,311,214,97,0,13.11,-13.54,-1.5,2023
+26,5,Bears,Thu,October 5,8:15PM ET,W,0,1-4,away,Washington Commanders,40,20,18,451,273,178,0,23,388,359,29,2,19.81,-4.63,0.51,2023
+27,6,Bears,Sun,October 15,1:00PM ET,L,0,1-5,home,Minnesota Vikings,13,19,18,275,113,162,3,12,220,174,46,1,-15.39,8.38,-0.79,2023
+28,7,Bears,Sun,October 22,1:00PM ET,W,0,2-5,home,Las Vegas Raiders,30,12,23,323,150,173,0,20,235,196,39,3,12.58,6.37,2.41,2023
+29,8,Bears,Sun,October 29,8:20PM ET,L,0,2-6,away,Los Angeles Chargers,13,30,17,295,222,73,2,20,352,298,54,1,-6.71,-7.29,-5.12,2023
+30,9,Bears,Sun,November 5,1:00PM ET,L,0,2-7,away,New Orleans Saints,17,24,20,368,212,156,5,18,301,214,87,0,-5.71,-5.1,-3.16,2023
+31,10,Bears,Thu,November 9,8:15PM ET,W,0,3-7,home,Carolina Panthers,16,13,21,295,162,133,0,12,213,170,43,0,-0.42,6.28,-1.84,2023
+32,11,Bears,Sun,November 19,1:00PM ET,L,0,3-8,away,Detroit Lions,26,31,25,334,151,183,1,23,338,223,115,4,4.18,-11.72,1.3,2023
+33,12,Bears,Mon,November 27,8:15PM ET,W,0,4-8,away,Minnesota Vikings,12,10,18,317,199,118,2,15,242,169,73,4,-7.29,10.19,-3.55,2023
+34,13,Bears,0,0,0,0,0,0,home,<strong>Bye Week</strong>,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,2023
+35,14,Bears,Sun,December 10,1:00PM ET,W,0,5-8,home,Detroit Lions,28,13,20,336,194,142,0,13,267,127,140,3,3.69,10.07,-0.72,2023
+36,15,Bears,Sun,December 17,1:00PM ET,L,0,5-9,away,Cleveland Browns,17,20,12,236,148,88,3,14,377,348,29,3,-20.51,20.66,-3.15,2023
+37,16,Bears,Sun,December 24,4:25PM ET,W,0,6-9,home,Arizona Cardinals,27,16,22,420,170,250,1,16,306,213,93,0,9.8,4.06,-4.35,2023
+38,17,Bears,Sun,December 31,1:00PM ET,W,0,7-9,home,Atlanta Falcons,37,17,22,432,240,192,0,15,307,173,134,4,10.27,4.29,7.6,2023
+39,18,Bears,Sun,January 7,4:25PM ET,L,0,7-10,away,Green Bay Packers,9,17,13,192,117,75,0,24,432,308,124,1,-1.05,-20.31,8.08,2023
+40,1,Bengals,Sun,September 10,1:00PM ET,L,0,0-1,away,Cleveland Browns,3,24,6,142,67,75,0,21,350,144,206,2,-23.57,6.77,-3.92,2023
+41,2,Bengals,Sun,September 17,1:00PM ET,L,0,0-2,home,Baltimore Ravens,24,27,19,282,216,66,1,26,415,237,178,0,6.95,-18.73,6.67,2023
+42,3,Bengals,Mon,September 25,8:15PM ET,W,0,1-2,home,Los Angeles Rams,19,16,19,309,242,67,1,15,292,221,71,2,-8.0,7.34,3.79,2023
+43,4,Bengals,Sun,October 1,1:00PM ET,L,0,1-3,away,Tennessee Titans,3,27,14,211,139,72,1,23,400,227,173,1,-9.18,-18.97,1.14,2023
+44,5,Bengals,Sun,October 8,4:05PM ET,W,0,2-3,away,Arizona Cardinals,34,20,27,380,287,93,1,15,294,152,142,3,4.11,9.49,0.68,2023
+45,6,Bengals,Sun,October 15,1:00PM ET,W,0,3-3,home,Seattle Seahawks,17,13,15,214,168,46,1,24,384,297,87,2,-1.37,3.89,1.98,2023
+46,7,Bengals,0,0,0,0,0,0,home,<strong>Bye Week</strong>,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,2023
+47,8,Bengals,Sun,October 29,4:25PM ET,W,0,4-3,away,San Francisco 49ers,31,17,29,400,266,134,1,24,460,347,113,3,18.3,-9.25,-2.48,2023
+48,9,Bengals,Sun,November 5,8:20PM ET,W,0,5-3,home,Buffalo Bills,24,18,23,397,343,54,0,21,317,249,68,2,14.35,-6.05,-0.96,2023
+49,10,Bengals,Sun,November 12,1:00PM ET,L,0,5-4,home,Houston Texans,27,30,20,380,314,66,2,28,544,356,188,3,4.94,-13.25,4.46,2023
+50,11,Bengals,Thu,November 16,8:15PM ET,L,0,5-5,away,Baltimore Ravens,20,34,20,272,136,136,0,22,405,248,157,0,4.61,-19.09,-1.27,2023
+51,12,Bengals,Sun,November 26,1:00PM ET,L,0,5-6,home,Pittsburgh Steelers,10,16,10,222,197,25,1,22,421,268,153,1,-6.04,-4.32,3.05,2023
+52,13,Bengals,Mon,December 4,8:15PM ET,W,OT,6-6,away,Jacksonville Jaguars,34,31,27,491,335,156,1,23,376,305,71,0,17.41,-13.98,0.31,2023
+53,14,Bengals,Sun,December 10,1:00PM ET,W,0,7-6,home,Indianapolis Colts,34,14,19,385,274,111,1,19,272,226,46,2,6.86,4.37,8.34,2023
+54,15,Bengals,Sat,December 16,1:00PM ET,W,OT,8-6,home,Minnesota Vikings,27,24,22,378,298,80,1,24,424,281,143,2,9.29,-8.62,1.35,2023
+55,16,Bengals,Sat,December 23,4:30PM ET,L,0,8-7,away,Pittsburgh Steelers,11,34,17,368,309,59,3,16,397,284,113,0,-7.25,-15.02,1.38,2023
+56,17,Bengals,Sun,December 31,4:25PM ET,L,0,8-8,away,Kansas City Chiefs,17,25,20,263,159,104,0,15,373,241,132,1,1.31,-5.05,-3.55,2023
+57,18,Bengals,Sun,January 7,1:00PM ET,W,0,9-8,home,Cleveland Browns,31,14,22,328,145,183,1,13,244,140,104,2,8.81,8.3,-1.32,2023
+58,1,Broncos,Sun,September 10,4:25PM ET,L,0,0-1,home,Las Vegas Raiders,16,17,22,260,166,94,0,22,261,200,61,1,10.75,-9.59,-3.68,2023
+59,2,Broncos,Sun,September 17,4:25PM ET,L,0,0-2,home,Washington Commanders,33,35,21,399,277,122,2,26,388,266,122,0,11.6,-16.73,3.13,2023
+60,3,Broncos,Sun,September 24,1:00PM ET,L,0,0-3,away,Miami Dolphins,20,70,16,363,294,69,3,30,726,376,350,0,-13.39,-48.65,12.38,2023
+61,4,Broncos,Sun,October 1,1:00PM ET,W,0,1-3,away,Chicago Bears,31,28,17,311,214,97,0,26,471,300,171,2,13.54,-13.11,1.5,2023
+62,5,Broncos,Sun,October 8,4:25PM ET,L,0,1-4,home,New York Jets,21,31,18,308,169,139,3,18,407,173,234,2,-6.26,-5.79,-2.75,2023
+63,6,Broncos,Thu,October 12,8:15PM ET,L,0,1-5,away,Kansas City Chiefs,8,19,14,197,82,115,3,22,389,293,96,1,-13.65,-1.99,1.97,2023
+64,7,Broncos,Sun,October 22,4:25PM ET,W,0,2-5,home,Green Bay Packers,19,17,18,339,194,145,0,20,331,194,137,1,9.89,-11.33,2.65,2023
+65,8,Broncos,Sun,October 29,4:25PM ET,W,0,3-5,home,Kansas City Chiefs,24,9,19,240,87,153,1,18,274,212,62,5,-1.52,11.85,4.12,2023
+66,9,Broncos,0,0,0,0,0,0,home,<strong>Bye Week</strong>,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,2023
+67,10,Broncos,Mon,November 13,8:15PM ET,W,0,4-5,away,Buffalo Bills,24,22,19,300,178,122,1,18,369,177,192,4,-4.09,0.44,4.65,2023
+68,11,Broncos,Sun,November 19,8:20PM ET,W,0,5-5,home,Minnesota Vikings,21,20,13,295,249,46,0,19,385,210,175,3,-3.68,1.96,5.21,2023
+69,12,Broncos,Sun,November 26,4:05PM ET,W,0,6-5,home,Cleveland Browns,29,12,17,294,125,169,1,19,269,162,107,3,3.83,14.0,-0.36,2023
+70,13,Broncos,Sun,December 3,1:00PM ET,L,0,6-6,away,Houston Texans,17,22,16,282,164,118,3,14,353,264,89,0,-4.63,1.15,-0.91,2023
+71,14,Broncos,Sun,December 10,4:25PM ET,W,0,7-6,away,Los Angeles Chargers,24,7,19,322,216,106,1,17,283,207,76,2,-1.17,21.6,-2.39,2023
+72,15,Broncos,Sat,December 16,8:15PM ET,L,0,7-7,away,Detroit Lions,17,42,20,287,204,83,1,29,448,263,185,0,3.2,-29.35,3.14,2023
+73,16,Broncos,Sun,December 24,8:15PM ET,L,0,7-8,home,New England Patriots,23,26,19,276,193,83,2,12,289,230,59,1,-0.12,1.42,-4.11,2023
+74,17,Broncos,Sun,December 31,4:25PM ET,W,0,8-8,home,Los Angeles Chargers,16,9,16,313,212,101,0,17,301,215,86,1,2.08,5.75,1.2,2023
+75,18,Broncos,Sun,January 7,4:25PM ET,L,0,8-9,away,Las Vegas Raiders,14,27,17,286,238,48,1,22,359,230,129,0,1.3,-12.72,-0.08,2023
+76,1,Browns,Sun,September 10,1:00PM ET,W,0,1-0,home,Cincinnati Bengals,24,3,21,350,144,206,2,6,142,67,75,0,-6.77,23.57,3.92,2023
+77,2,Browns,Mon,September 18,8:15PM ET,L,0,1-1,away,Pittsburgh Steelers,22,26,20,408,210,198,4,9,255,200,55,2,-19.51,16.63,-2.81,2023
+78,3,Browns,Sun,September 24,1:00PM ET,W,0,2-1,home,Tennessee Titans,27,3,23,341,263,78,1,6,94,68,26,0,13.99,13.12,-4.04,2023
+79,4,Browns,Sun,October 1,1:00PM ET,L,0,2-2,home,Baltimore Ravens,3,28,13,166,73,93,3,16,296,165,131,1,-25.42,-2.36,2.71,2023
+80,5,Browns,0,0,0,0,0,0,home,<strong>Bye Week</strong>,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,2023
+81,6,Browns,Sun,October 15,1:00PM ET,W,0,3-2,home,San Francisco 49ers,19,17,18,334,174,160,2,15,215,107,108,1,-11.32,6.05,7.34,2023
+82,7,Browns,Sun,October 22,1:00PM ET,W,0,4-2,away,Indianapolis Colts,39,38,18,316,166,150,2,20,456,288,168,4,-5.3,-1.77,10.23,2023
+83,8,Browns,Sun,October 29,4:05PM ET,L,0,4-3,away,Seattle Seahawks,20,24,23,385,230,155,3,17,362,248,114,2,0.0,-6.04,-2.5,2023
+84,9,Browns,Sun,November 5,1:00PM ET,W,0,5-3,home,Arizona Cardinals,27,0,17,326,213,113,0,7,58,17,41,3,0.59,35.86,-7.62,2023
+85,10,Browns,Sun,November 12,1:00PM ET,W,0,6-3,away,Baltimore Ravens,33,31,24,373,195,178,2,18,306,200,106,2,6.32,-2.49,-1.1,2023
+86,11,Browns,Sun,November 19,1:00PM ET,W,0,7-3,home,Pittsburgh Steelers,13,10,20,259,163,96,1,12,249,77,172,0,-6.18,6.04,1.74,2023
+87,12,Browns,Sun,November 26,4:05PM ET,L,0,7-4,away,Denver Broncos,12,29,19,269,162,107,3,17,294,125,169,1,-14.0,-3.83,0.36,2023
+88,13,Browns,Sun,December 3,4:25PM ET,L,0,7-5,away,Los Angeles Rams,19,36,20,327,240,87,1,20,399,279,120,0,-1.73,-16.49,1.43,2023
+89,14,Browns,Sun,December 10,1:00PM ET,W,0,8-5,home,Jacksonville Jaguars,31,27,16,389,307,82,3,20,293,235,58,4,-8.29,8.51,5.12,2023
+90,15,Browns,Sun,December 17,1:00PM ET,W,0,9-5,home,Chicago Bears,20,17,14,377,348,29,3,12,236,148,88,3,-20.66,20.51,3.15,2023
+91,16,Browns,Sun,December 24,1:00PM ET,W,0,10-5,away,Houston Texans,36,22,26,418,364,54,2,20,250,178,72,2,12.38,9.69,-8.56,2023
+92,17,Browns,Thu,December 28,8:15PM ET,W,0,11-5,home,New York Jets,37,20,20,428,301,127,3,17,360,253,107,2,3.15,7.73,3.99,2023
+93,18,Browns,Sun,January 7,1:00PM ET,L,0,11-6,away,Cincinnati Bengals,14,31,13,244,140,104,2,22,328,145,183,1,-8.3,-8.81,1.32,2023
+94,0,Browns,0,<strong>Playoffs</strong>,0,0,0,0,home,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,2023
+95,Wild Card,Browns,Sat,January 13,4:30PM ET,L,0,11-7,away,Houston Texans,14,45,18,324,268,56,2,14,356,280,76,0,-19.5,-15.45,3.91,2023
+96,1,Buccaneers,Sun,September 10,1:00PM ET,W,0,1-0,away,Minnesota Vikings,20,17,16,242,169,73,0,18,369,328,41,3,-3.09,-0.1,7.66,2023
+97,2,Buccaneers,Sun,September 17,1:00PM ET,W,0,2-0,home,Chicago Bears,27,17,19,437,317,120,0,14,236,169,67,2,14.15,7.04,-8.78,2023
+98,3,Buccaneers,Mon,September 25,7:15PM ET,L,0,2-1,home,Philadelphia Eagles,11,25,12,174,133,41,2,27,472,271,201,2,-7.28,-14.08,1.78,2023
+99,4,Buccaneers,Sun,October 1,1:00PM ET,W,0,3-1,away,New Orleans Saints,26,9,21,353,239,114,1,16,197,127,70,3,3.79,14.93,-2.25,2023
+100,5,Buccaneers,0,0,0,0,0,0,home,<strong>Bye Week</strong>,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,2023
+101,6,Buccaneers,Sun,October 15,4:25PM ET,L,0,3-2,home,Detroit Lions,6,20,13,251,205,46,1,19,380,340,40,0,-11.72,-8.54,6.91,2023
+102,7,Buccaneers,Sun,October 22,1:00PM ET,L,0,3-3,home,Atlanta Falcons,13,16,21,329,256,73,2,20,401,245,156,3,-2.11,0.8,-1.89,2023
+103,8,Buccaneers,Thu,October 26,8:15PM ET,L,0,3-4,away,Buffalo Bills,18,24,17,302,224,78,0,25,427,312,115,1,3.38,-9.78,1.24,2023
+104,9,Buccaneers,Sun,November 5,1:00PM ET,L,0,3-5,away,Houston Texans,37,39,21,332,251,81,1,26,496,443,53,1,13.23,-16.65,5.81,2023
+105,10,Buccaneers,Sun,November 12,1:00PM ET,W,0,4-5,home,Tennessee Titans,20,6,19,340,263,77,1,14,209,167,42,1,7.05,14.75,-4.53,2023
+106,11,Buccaneers,Sun,November 19,4:05PM ET,L,0,4-6,away,San Francisco 49ers,14,27,22,287,221,66,2,22,420,305,115,0,-2.05,-14.22,2.57,2023
+107,12,Buccaneers,Sun,November 26,1:00PM ET,L,0,4-7,away,Indianapolis Colts,20,27,17,298,173,125,2,26,394,239,155,1,-0.3,-10.81,-1.18,2023
+108,13,Buccaneers,Sun,December 3,4:05PM ET,W,0,5-7,home,Carolina Panthers,21,18,15,322,194,128,1,15,282,149,133,1,1.83,4.36,-1.51,2023
+109,14,Buccaneers,Sun,December 10,1:00PM ET,W,0,6-7,away,Atlanta Falcons,29,25,16,290,142,148,0,23,434,338,96,1,0.22,-7.82,9.28,2023
+110,15,Buccaneers,Sun,December 17,1:00PM ET,W,0,7-7,away,Green Bay Packers,34,20,22,452,353,99,1,18,321,261,60,1,21.36,-5.02,0.81,2023
+111,16,Buccaneers,Sun,December 24,4:05PM ET,W,0,8-7,home,Jacksonville Jaguars,30,12,22,335,265,70,0,23,305,268,37,4,8.09,9.43,4.78,2023
+112,17,Buccaneers,Sun,December 31,1:00PM ET,L,0,8-8,home,New Orleans Saints,13,23,13,349,292,57,4,20,310,202,108,0,-3.93,-0.67,-5.28,2023
+113,18,Buccaneers,Sun,January 7,1:00PM ET,W,0,9-8,away,Carolina Panthers,9,0,14,228,115,113,0,11,199,68,131,2,-7.74,13.18,6.13,2023
+114,0,Buccaneers,0,<strong>Playoffs</strong>,0,0,0,0,home,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,2023
+115,Wild Card,Buccaneers,Mon,January 15,8:15PM ET,W,0,10-8,home,Philadelphia Eagles,32,9,23,426,307,119,0,13,276,234,42,0,14.65,9.0,-0.96,2023
+116,Division,Buccaneers,Sun,January 21,3:00PM ET,L,0,10-9,away,Detroit Lions,23,31,23,408,319,89,2,26,391,277,114,0,7.77,-15.79,-2.23,2023
+117,1,Buffalos,Mon,September 11,8:15PM ET,L,OT,0-1,away,New York Jets,16,22,19,314,217,97,4,13,289,117,172,1,-4.85,1.19,-2.27,2023
+118,2,Buffalos,Sun,September 17,1:00PM ET,W,0,1-1,home,Las Vegas Raiders,38,10,29,450,267,183,0,13,240,185,55,3,27.19,4.89,-3.85,2023
+119,3,Buffalos,Sun,September 24,1:00PM ET,W,0,2-1,away,Washington Commanders,37,3,20,386,218,168,1,15,230,125,105,5,10.16,23.07,-1.39,2023
+120,4,Buffalos,Sun,October 1,1:00PM ET,W,0,3-1,home,Miami Dolphins,48,20,24,414,310,104,0,20,393,251,142,2,27.56,2.09,-1.37,2023
+121,5,Buffalos,Sun,October 8,9:30AM ET,L,0,3-2,home,Jacksonville Jaguars,20,25,18,388,359,29,2,29,474,278,196,2,6.27,-13.93,-2.21,2023
+122,6,Buffalos,Sun,October 15,8:20PM ET,W,0,4-2,home,New York Giants,14,9,22,297,169,128,2,20,317,185,132,0,2.9,-3.02,-6.7,2023
+123,7,Buffalos,Sun,October 22,1:00PM ET,L,0,4-3,away,New England Patriots,25,29,24,339,258,81,2,21,364,268,96,1,11.63,-10.65,-5.61,2023
+124,8,Buffalos,Thu,October 26,8:15PM ET,W,0,5-3,home,Tampa Bay Buccaneers,24,18,25,427,312,115,1,17,302,224,78,0,9.78,-3.38,-1.24,2023
+125,9,Buffalos,Sun,November 5,8:20PM ET,L,0,5-4,away,Cincinnati Bengals,18,24,21,317,249,68,2,23,397,343,54,0,6.05,-14.35,0.96,2023
+126,10,Buffalos,Mon,November 13,8:15PM ET,L,0,5-5,home,Denver Broncos,22,24,18,369,177,192,4,19,300,178,122,1,-0.44,4.09,-4.65,2023
+127,11,Buffalos,Sun,November 19,4:25PM ET,W,0,6-5,home,New York Jets,32,6,22,393,263,130,1,14,155,92,63,4,14.64,15.34,1.82,2023
+128,12,Buffalos,Sun,November 26,4:25PM ET,L,OT,6-6,away,Philadelphia Eagles,34,37,29,505,332,173,1,24,378,193,185,2,13.85,-7.6,-9.18,2023
+129,13,Buffalos,0,0,0,0,0,0,home,<strong>Bye Week</strong>,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,2023
+130,14,Buffalos,Sun,December 10,4:25PM ET,W,0,7-6,away,Kansas City Chiefs,20,17,21,327,209,118,1,21,346,264,82,2,1.78,2.22,0.36,2023
+131,15,Buffalos,Sun,December 17,4:25PM ET,W,0,8-6,home,Dallas Cowboys,31,10,28,351,85,266,0,14,195,106,89,1,19.98,3.23,-3.82,2023
+132,16,Buffalos,Sat,December 23,8:00PM ET,W,0,9-6,away,Los Angeles Chargers,24,22,16,335,230,105,3,18,273,175,98,0,7.67,4.02,-9.12,2023
+133,17,Buffalos,Sun,December 31,1:00PM ET,W,0,10-6,home,New England Patriots,27,21,19,281,154,127,1,16,294,191,103,4,0.15,11.94,-1.73,2023
+134,18,Buffalos,Sun,January 7,8:20PM ET,W,0,11-6,away,Miami Dolphins,21,14,26,473,345,128,3,16,275,167,108,2,12.65,-3.92,3.03,2023
+135,0,Buffalos,0,<strong>Playoffs</strong>,0,0,0,0,home,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,2023
+136,Wild Card,Buffalos,Mon,January 15,4:30PM ET,W,0,12-6,home,Pittsburgh Steelers,31,17,24,368,189,179,0,22,324,218,106,2,16.05,2.33,-7.99,2023
+137,Division,Buffalos,Sun,January 21,6:30PM ET,L,0,12-7,home,Kansas City Chiefs,24,27,27,368,186,182,0,21,361,215,146,1,14.55,-11.85,-4.08,2023
+138,1,Cardinals,Sun,September 10,1:00PM ET,L,0,0-1,away,Washington Commanders,16,20,13,210,114,96,2,21,248,156,92,3,-19.87,9.25,4.96,2023
+139,2,Cardinals,Sun,September 17,4:05PM ET,L,0,0-2,home,New York Giants,28,31,24,379,228,151,0,26,439,312,127,1,15.48,-16.76,-2.39,2023
+140,3,Cardinals,Sun,September 24,4:25PM ET,W,0,1-2,home,Dallas Cowboys,28,16,20,400,178,222,0,26,416,231,185,1,18.46,-6.78,1.14,2023
+141,4,Cardinals,Sun,October 1,4:25PM ET,L,0,1-3,away,San Francisco 49ers,16,35,23,362,257,105,0,30,395,271,124,0,9.72,-30.46,1.63,2023
+142,5,Cardinals,Sun,October 8,4:05PM ET,L,0,1-4,home,Cincinnati Bengals,20,34,15,294,152,142,3,27,380,287,93,1,-9.49,-4.11,-0.68,2023
+143,6,Cardinals,Sun,October 15,4:25PM ET,L,0,1-5,away,Los Angeles Rams,9,26,20,345,215,130,2,17,382,203,179,1,-12.85,-10.25,7.36,2023
+144,7,Cardinals,Sun,October 22,4:05PM ET,L,0,1-6,away,Seattle Seahawks,10,20,15,249,122,127,0,18,318,203,115,3,-10.34,-2.2,3.57,2023
+145,8,Cardinals,Sun,October 29,4:25PM ET,L,0,1-7,home,Baltimore Ravens,24,31,22,310,181,129,2,21,268,138,130,0,-3.72,-9.2,1.65,2023
+146,9,Cardinals,Sun,November 5,1:00PM ET,L,0,1-8,away,Cleveland Browns,0,27,7,58,17,41,3,17,326,213,113,0,-35.86,-0.59,7.62,2023
+147,10,Cardinals,Sun,November 12,4:05PM ET,W,0,2-8,home,Atlanta Falcons,25,23,20,352,230,122,1,20,254,70,184,0,0.59,-4.7,6.18,2023
+148,11,Cardinals,Sun,November 19,1:00PM ET,L,0,2-9,away,Houston Texans,16,21,20,319,196,123,2,22,419,308,111,3,-1.11,-4.22,0.49,2023
+149,12,Cardinals,Sun,November 26,4:05PM ET,L,0,2-10,home,Los Angeles Rams,14,37,19,292,219,73,0,25,457,229,228,1,-1.35,-22.85,4.78,2023
+150,13,Cardinals,Sun,December 3,1:00PM ET,W,0,3-10,away,Pittsburgh Steelers,24,10,18,282,132,150,0,18,317,187,130,1,6.39,2.22,7.39,2023
+151,14,Cardinals,0,0,0,0,0,0,home,<strong>Bye Week</strong>,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,2023
+152,15,Cardinals,Sun,December 17,4:05PM ET,L,0,3-11,home,San Francisco 49ers,29,45,22,436,202,234,2,24,406,262,144,0,5.83,-26.28,1.07,2023
+153,16,Cardinals,Sun,December 24,4:25PM ET,L,0,3-12,away,Chicago Bears,16,27,16,306,213,93,0,22,420,170,250,1,-4.06,-9.8,4.35,2023
+154,17,Cardinals,Sun,December 31,1:00PM ET,W,0,4-12,away,Philadelphia Eagles,35,31,32,449,228,221,1,17,275,184,91,1,21.16,-13.61,-3.99,2023
+155,18,Cardinals,Sun,January 7,4:25PM ET,L,0,4-13,home,Seattle Seahawks,20,21,24,466,260,206,0,18,327,189,138,0,18.03,-10.16,-6.27,2023
+156,1,Chargers,Sun,September 10,4:25PM ET,L,0,0-1,home,Miami Dolphins,34,36,30,433,200,233,0,30,536,466,70,2,18.83,-26.53,3.22,2023
+157,2,Chargers,Sun,September 17,1:00PM ET,L,OT,0-2,away,Tennessee Titans,24,27,19,342,281,61,0,22,341,200,141,0,6.8,-9.86,0.06,2023
+158,3,Chargers,Sun,September 24,1:00PM ET,W,0,1-2,away,Minnesota Vikings,28,24,24,475,445,30,1,29,475,345,130,2,15.21,-8.26,-4.83,2023
+159,4,Chargers,Sun,October 1,4:05PM ET,W,0,2-2,home,Las Vegas Raiders,24,17,16,305,150,155,1,22,264,188,76,3,4.86,8.27,-6.07,2023
+160,5,Chargers,0,0,0,0,0,0,home,<strong>Bye Week</strong>,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,2023
+161,6,Chargers,Mon,October 16,8:15PM ET,L,0,2-3,home,Dallas Cowboys,17,20,18,272,219,53,1,20,342,246,96,1,-1.3,-8.96,5.38,2023
+162,7,Chargers,Sun,October 22,4:25PM ET,L,0,2-4,away,Kansas City Chiefs,17,31,16,358,219,139,2,25,483,415,68,2,3.03,-19.19,2.58,2023
+163,8,Chargers,Sun,October 29,8:20PM ET,W,0,3-4,home,Chicago Bears,30,13,20,352,298,54,1,17,295,222,73,2,7.29,6.71,5.12,2023
+164,9,Chargers,Mon,November 6,8:15PM ET,W,0,4-4,away,New York Jets,27,6,14,191,107,84,0,17,270,206,64,3,-6.47,25.2,1.49,2023
+165,10,Chargers,Sun,November 12,4:05PM ET,L,0,4-5,home,Detroit Lions,38,41,24,421,323,98,1,23,533,333,200,0,25.22,-31.55,2.59,2023
+166,11,Chargers,Sun,November 19,1:00PM ET,L,0,4-6,away,Green Bay Packers,20,23,17,394,244,150,1,23,397,295,102,0,2.45,-12.8,4.58,2023
+167,12,Chargers,Sun,November 26,8:20PM ET,L,0,4-7,home,Baltimore Ravens,10,20,16,279,193,86,4,20,361,164,197,0,-16.16,-1.22,5.76,2023
+168,13,Chargers,Sun,December 3,1:00PM ET,W,0,5-7,away,New England Patriots,6,0,13,241,212,29,0,13,257,109,148,1,-9.06,13.06,4.71,2023
+169,14,Chargers,Sun,December 10,4:25PM ET,L,0,5-8,home,Denver Broncos,7,24,17,283,207,76,2,19,322,216,106,1,-21.6,1.17,2.39,2023
+170,15,Chargers,Thu,December 14,8:15PM ET,L,0,5-9,away,Las Vegas Raiders,21,63,18,326,234,92,5,20,378,254,124,0,-15.82,-22.25,-3.05,2023
+171,16,Chargers,Sat,December 23,8:00PM ET,L,0,5-10,home,Buffalo Bills,22,24,18,273,175,98,0,16,335,230,105,3,-4.02,-7.67,9.12,2023
+172,17,Chargers,Sun,December 31,4:25PM ET,L,0,5-11,away,Denver Broncos,9,16,17,301,215,86,1,16,313,212,101,0,-5.75,-2.08,-1.2,2023
+173,18,Chargers,Sun,January 7,4:25PM ET,L,0,5-12,home,Kansas City Chiefs,12,13,22,353,235,118,1,12,268,145,123,1,-8.89,3.31,1.81,2023
+174,1,Chiefs,Thu,September 7,8:20PM ET,L,0,0-1,home,Detroit Lions,20,21,17,316,226,90,1,19,368,250,118,1,-4.17,-2.6,2.11,2023
+175,2,Chiefs,Sun,September 17,1:00PM ET,W,0,1-1,away,Jacksonville Jaguars,17,9,19,399,298,101,3,18,271,197,74,1,7.01,10.72,-6.76,2023
+176,3,Chiefs,Sun,September 24,4:25PM ET,W,0,2-1,home,Chicago Bears,41,10,31,456,303,153,2,11,203,87,116,2,20.09,13.6,-1.47,2023
+177,4,Chiefs,Sun,October 1,8:20PM ET,W,0,3-1,away,New York Jets,23,20,24,401,197,204,2,18,336,228,108,1,10.22,-3.25,1.48,2023
+178,5,Chiefs,Sun,October 8,4:25PM ET,W,0,4-1,away,Minnesota Vikings,27,20,21,333,266,67,0,24,329,259,70,1,15.55,-10.22,0.17,2023
+179,6,Chiefs,Thu,October 12,8:15PM ET,W,0,5-1,home,Denver Broncos,19,8,22,389,293,96,1,14,197,82,115,3,1.99,13.65,-1.97,2023
+180,7,Chiefs,Sun,October 22,4:25PM ET,W,0,6-1,home,Los Angeles Chargers,31,17,25,483,415,68,2,16,358,219,139,2,19.19,-3.03,-2.58,2023
+181,8,Chiefs,Sun,October 29,4:25PM ET,L,0,6-2,away,Denver Broncos,9,24,18,274,212,62,5,19,240,87,153,1,-11.85,1.52,-4.12,2023
+182,9,Chiefs,Sun,November 5,9:30AM ET,W,0,7-2,home,Miami Dolphins,21,14,16,267,174,93,1,20,292,175,117,1,-1.1,9.86,-1.0,2023
+183,10,Chiefs,0,0,0,0,0,0,home,<strong>Bye Week</strong>,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,2023
+184,11,Chiefs,Mon,November 20,8:15PM ET,L,0,7-3,home,Philadelphia Eagles,17,21,23,336,168,168,2,16,238,124,114,1,-3.4,2.22,-3.61,2023
+185,12,Chiefs,Sun,November 26,4:25PM ET,W,0,8-3,away,Las Vegas Raiders,31,17,23,360,291,69,0,16,358,235,123,0,14.0,-6.49,5.9,2023
+186,13,Chiefs,Sun,December 3,8:20PM ET,L,0,8-4,away,Green Bay Packers,19,27,25,337,189,148,1,24,382,253,129,0,9.54,-19.21,0.96,2023
+187,14,Chiefs,Sun,December 10,4:25PM ET,L,0,8-5,home,Buffalo Bills,17,20,21,346,264,82,2,21,327,209,118,1,-2.22,-1.78,-0.36,2023
+188,15,Chiefs,Sun,December 17,1:00PM ET,W,0,9-5,away,New England Patriots,27,17,19,326,283,43,2,10,206,154,52,1,-5.95,16.05,-0.09,2023
+189,16,Chiefs,Mon,December 25,1:00PM ET,L,0,9-6,home,Las Vegas Raiders,14,20,19,308,223,85,2,12,205,48,157,0,-11.63,8.4,-3.27,2023
+190,17,Chiefs,Sun,December 31,4:25PM ET,W,0,10-6,home,Cincinnati Bengals,25,17,15,373,241,132,1,20,263,159,104,0,5.05,-1.31,3.55,2023
+191,18,Chiefs,Sun,January 7,4:25PM ET,W,0,11-6,away,Los Angeles Chargers,13,12,12,268,145,123,1,22,353,235,118,1,-3.31,8.89,-1.81,2023
+192,0,Chiefs,0,<strong>Playoffs</strong>,0,0,0,0,home,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,2023
+193,Wild Card,Chiefs,Sat,January 13,8:10PM ET,W,0,12-6,home,Miami Dolphins,26,7,25,409,262,147,1,13,264,188,76,1,9.58,10.55,-4.67,2023
+194,Division,Chiefs,Sun,January 21,6:30PM ET,W,0,13-6,away,Buffalo Bills,27,24,21,361,215,146,1,27,368,186,182,0,11.85,-14.55,4.08,2023
+195,Conf. Champ.,Chiefs,Sun,January 28,3:00PM ET,W,0,14-6,away,Baltimore Ravens,17,10,22,319,230,89,0,16,336,255,81,3,4.1,7.2,-2.43,2023
+196,SuperBowl,Chiefs,Sun,February 11,6:30PM ET,W,OT,15-6,home,San Francisco 49ers,25,22,24,455,325,130,2,23,382,272,110,2,3.42,-4.68,3.39,2023
+197,1,Colts,Sun,September 10,1:00PM ET,L,0,0-1,home,Jacksonville Jaguars,21,31,18,280,215,65,3,20,342,237,105,2,-17.62,9.8,-2.44,2023
+198,2,Colts,Sun,September 17,1:00PM ET,W,0,1-1,away,Houston Texans,31,20,19,353,227,126,0,24,389,337,52,1,14.21,-7.88,4.04,2023
+199,3,Colts,Sun,September 24,1:00PM ET,W,OT,2-1,away,Baltimore Ravens,22,19,19,327,188,139,0,20,364,178,186,2,-13.57,5.27,10.63,2023
+200,4,Colts,Sun,October 1,1:00PM ET,L,OT,2-2,home,Los Angeles Rams,23,29,19,329,196,133,1,27,467,303,164,1,5.51,-15.52,0.74,2023
+201,5,Colts,Sun,October 8,1:00PM ET,W,0,3-2,home,Tennessee Titans,23,16,21,429,236,193,0,19,348,259,89,1,16.77,-6.32,-0.89,2023
+202,6,Colts,Sun,October 15,1:00PM ET,L,0,3-3,away,Jacksonville Jaguars,20,37,18,354,310,44,4,17,233,148,85,1,-12.21,0.16,-4.88,2023
+203,7,Colts,Sun,October 22,1:00PM ET,L,0,3-4,home,Cleveland Browns,38,39,20,456,288,168,4,18,316,166,150,2,1.77,5.3,-10.23,2023
+204,8,Colts,Sun,October 29,1:00PM ET,L,0,3-5,home,New Orleans Saints,27,38,19,371,207,164,1,24,511,350,161,1,8.38,-23.78,3.03,2023
+205,9,Colts,Sun,November 5,4:05PM ET,W,0,4-5,away,Carolina Panthers,27,13,17,198,120,78,1,17,275,137,138,3,-3.93,23.07,-2.92,2023
+206,10,Colts,Sun,November 12,9:30AM ET,W,0,5-5,away,New England Patriots,10,6,14,264,194,70,1,21,340,173,167,2,0.31,0.42,0.28,2023
+207,11,Colts,0,0,0,0,0,0,home,<strong>Bye Week</strong>,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,2023
+208,12,Colts,Sun,November 26,1:00PM ET,W,0,6-5,home,Tampa Bay Buccaneers,27,20,26,394,239,155,1,17,298,173,125,2,10.81,0.3,1.18,2023
+209,13,Colts,Sun,December 3,1:00PM ET,W,OT,7-5,away,Tennessee Titans,31,28,19,355,300,55,2,25,381,204,177,2,2.48,-3.29,6.88,2023
+210,14,Colts,Sun,December 10,1:00PM ET,L,0,7-6,away,Cincinnati Bengals,14,34,19,272,226,46,2,19,385,274,111,1,-4.37,-6.86,-8.34,2023
+211,15,Colts,Sat,December 16,4:30PM ET,W,0,8-6,home,Pittsburgh Steelers,30,13,19,372,202,170,0,13,216,142,74,3,11.18,9.21,-3.34,2023
+212,16,Colts,Sun,December 24,1:00PM ET,L,0,8-7,away,Atlanta Falcons,10,29,20,262,170,92,1,23,406,229,177,0,-4.99,-13.44,1.88,2023
+213,17,Colts,Sun,December 31,1:00PM ET,W,0,9-7,home,Las Vegas Raiders,23,20,16,349,215,134,0,26,370,286,84,0,11.41,-8.69,1.73,2023
+214,18,Colts,Sat,January 6,8:15PM ET,L,0,9-8,home,Houston Texans,19,23,21,360,133,227,1,16,306,246,60,0,3.98,-5.93,1.85,2023
+215,1,Commanders,Sun,September 10,1:00PM ET,W,0,1-0,home,Arizona Cardinals,20,16,21,248,156,92,3,13,210,114,96,2,-9.25,19.87,-4.96,2023
+216,2,Commanders,Sun,September 17,4:25PM ET,W,0,2-0,away,Denver Broncos,35,33,26,388,266,122,0,21,399,277,122,2,16.73,-11.6,-3.13,2023
+217,3,Commanders,Sun,September 24,1:00PM ET,L,0,2-1,home,Buffalo Bills,3,37,15,230,125,105,5,20,386,218,168,1,-23.07,-10.16,1.39,2023
+218,4,Commanders,Sun,October 1,1:00PM ET,L,OT,2-2,away,Philadelphia Eagles,31,34,26,365,258,107,0,23,415,311,104,0,17.68,-18.21,-2.47,2023
+219,5,Commanders,Thu,October 5,8:15PM ET,L,0,2-3,home,Chicago Bears,20,40,23,388,359,29,2,18,451,273,178,0,4.63,-19.81,-0.51,2023
+220,6,Commanders,Sun,October 15,1:00PM ET,W,0,3-3,away,Atlanta Falcons,24,16,13,193,121,72,0,25,402,296,106,3,-0.45,5.68,3.28,2023
+221,7,Commanders,Sun,October 22,1:00PM ET,L,0,3-4,away,New York Giants,7,14,14,273,197,76,1,16,356,250,106,2,-16.05,3.64,8.94,2023
+222,8,Commanders,Sun,October 29,1:00PM ET,L,0,3-5,home,Philadelphia Eagles,31,38,26,472,388,84,1,21,374,315,59,2,10.32,-15.23,-4.32,2023
+223,9,Commanders,Sun,November 5,1:00PM ET,W,0,4-5,away,New England Patriots,20,17,23,432,308,124,2,18,327,220,107,1,3.37,-0.28,1.3,2023
+224,10,Commanders,Sun,November 12,4:25PM ET,L,0,4-6,away,Seattle Seahawks,26,29,16,356,288,68,1,27,489,369,120,0,7.66,-15.28,2.61,2023
+225,11,Commanders,Sun,November 19,1:00PM ET,L,0,4-7,home,New York Giants,19,31,28,404,230,174,6,13,292,201,91,0,-2.78,-0.33,-6.95,2023
+226,12,Commanders,Thu,November 23,4:30PM ET,L,0,4-8,away,Dallas Cowboys,10,45,23,376,268,108,1,21,431,331,100,0,-9.65,-25.86,2.36,2023
+227,13,Commanders,Sun,December 3,1:00PM ET,L,0,4-9,home,Miami Dolphins,15,45,11,245,107,138,1,20,406,283,123,0,-6.88,-25.98,0.52,2023
+228,14,Commanders,0,0,0,0,0,0,home,<strong>Bye Week</strong>,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,2023
+229,15,Commanders,Sun,December 17,4:05PM ET,L,0,4-10,away,Los Angeles Rams,20,28,14,297,218,79,1,23,445,249,196,2,-2.14,-8.81,3.33,2023
+230,16,Commanders,Sun,December 24,1:00PM ET,L,0,4-11,away,New York Jets,28,30,18,245,143,102,3,26,381,217,164,2,-3.65,15.58,-8.61,2023
+231,17,Commanders,Sun,December 31,1:00PM ET,L,0,4-12,home,San Francisco 49ers,10,27,12,225,163,62,2,28,408,224,184,0,-6.62,-16.3,3.5,2023
+232,18,Commanders,Sun,January 7,4:25PM ET,L,0,4-13,home,Dallas Cowboys,10,38,12,180,130,50,3,31,440,309,131,1,-9.84,-25.23,7.97,2023
+233,1,Cowboys,Sun,September 10,8:20PM ET,W,0,1-0,away,New York Giants,40,0,18,265,143,122,0,14,171,63,108,3,9.37,27.25,5.36,2023
+234,2,Cowboys,Sun,September 17,4:25PM ET,W,0,2-0,home,New York Jets,30,10,26,382,248,134,0,12,215,151,64,4,7.01,14.82,-2.25,2023
+235,3,Cowboys,Sun,September 24,4:25PM ET,L,0,2-1,away,Arizona Cardinals,16,28,26,416,231,185,1,20,400,178,222,0,6.78,-18.46,-1.14,2023
+236,4,Cowboys,Sun,October 1,4:25PM ET,W,0,3-1,home,New England Patriots,38,3,22,377,253,124,0,10,253,200,53,3,8.01,26.22,0.2,2023
+237,5,Cowboys,Sun,October 8,8:20PM ET,L,0,3-2,away,San Francisco 49ers,10,42,8,197,140,57,4,25,421,251,170,1,-23.12,-12.84,5.21,2023
+238,6,Cowboys,Mon,October 16,8:15PM ET,W,0,4-2,away,Los Angeles Chargers,20,17,20,342,246,96,1,18,272,219,53,1,8.96,1.3,-5.38,2023
+239,7,Cowboys,0,0,0,0,0,0,home,<strong>Bye Week</strong>,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,2023
+240,8,Cowboys,Sun,October 29,1:00PM ET,W,0,5-2,home,Los Angeles Rams,43,20,24,387,285,102,1,15,280,188,92,1,15.46,8.68,1.87,2023
+241,9,Cowboys,Sun,November 5,4:25PM ET,L,0,5-3,away,Philadelphia Eagles,23,28,27,406,333,73,1,20,292,183,109,0,10.9,-15.0,-2.75,2023
+242,10,Cowboys,Sun,November 12,4:25PM ET,W,0,6-3,home,New York Giants,49,17,32,640,472,168,2,16,172,61,111,1,31.0,8.61,-8.0,2023
+243,11,Cowboys,Sun,November 19,1:00PM ET,W,0,7-3,away,Carolina Panthers,33,10,23,311,204,107,0,13,187,77,110,2,14.98,13.81,-6.04,2023
+244,12,Cowboys,Thu,November 23,4:30PM ET,W,0,8-3,home,Washington Commanders,45,10,21,431,331,100,0,23,376,268,108,1,25.86,9.65,-2.36,2023
+245,13,Cowboys,Thu,November 30,8:15PM ET,W,0,9-3,home,Seattle Seahawks,41,35,33,411,275,136,0,25,406,334,72,1,24.14,-20.82,3.78,2023
+246,14,Cowboys,Sun,December 10,8:20PM ET,W,0,10-3,home,Philadelphia Eagles,33,13,24,394,256,138,1,17,324,218,106,3,10.85,4.61,2.77,2023
+247,15,Cowboys,Sun,December 17,4:25PM ET,L,0,10-4,away,Buffalo Bills,10,31,14,195,106,89,1,28,351,85,266,0,-3.23,-19.98,3.82,2023
+248,16,Cowboys,Sun,December 24,4:25PM ET,L,0,10-5,away,Miami Dolphins,20,22,19,339,242,97,1,22,375,284,91,0,8.66,-6.06,-4.74,2023
+249,17,Cowboys,Sat,December 30,8:15PM ET,W,0,11-5,home,Detroit Lions,20,19,17,384,323,61,2,21,420,295,125,2,0.39,0.45,1.92,2023
+250,18,Cowboys,Sun,January 7,4:25PM ET,W,0,12-5,away,Washington Commanders,38,10,31,440,309,131,1,12,180,130,50,3,25.23,9.84,-7.97,2023
+251,0,Cowboys,0,<strong>Playoffs</strong>,0,0,0,0,home,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,2023
+252,Wild Card,Cowboys,Sun,January 14,4:30PM ET,L,0,12-6,home,Green Bay Packers,32,48,37,510,387,123,2,22,415,272,143,0,11.47,-27.79,-2.74,2023
+253,1,Dolphins,Sun,September 10,4:25PM ET,W,0,1-0,away,Los Angeles Chargers,36,34,30,536,466,70,2,30,433,200,233,0,26.53,-18.83,-3.22,2023
+254,2,Dolphins,Sun,September 17,8:20PM ET,W,0,2-0,away,New England Patriots,24,17,22,389,244,145,1,23,288,200,88,2,13.09,0.98,-7.69,2023
+255,3,Dolphins,Sun,September 24,1:00PM ET,W,0,3-0,home,Denver Broncos,70,20,30,726,376,350,0,16,363,294,69,3,48.65,13.39,-12.38,2023
+256,4,Dolphins,Sun,October 1,1:00PM ET,L,0,3-1,away,Buffalo Bills,20,48,20,393,251,142,2,24,414,310,104,0,-2.09,-27.56,1.37,2023
+257,5,Dolphins,Sun,October 8,1:00PM ET,W,0,4-1,home,New York Giants,31,16,22,524,302,222,3,15,268,183,85,0,10.45,6.46,-1.72,2023
+258,6,Dolphins,Sun,October 15,1:00PM ET,W,0,5-1,home,Carolina Panthers,42,21,23,424,262,162,1,21,296,188,108,0,14.79,6.44,-0.33,2023
+259,7,Dolphins,Sun,October 22,8:20PM ET,L,0,5-2,away,Philadelphia Eagles,17,31,12,244,199,45,1,26,355,256,99,2,-7.17,-11.06,2.9,2023
+260,8,Dolphins,Sun,October 29,1:00PM ET,W,0,6-2,home,New England Patriots,31,17,24,390,312,78,2,13,218,141,77,1,10.64,9.73,-3.59,2023
+261,9,Dolphins,Sun,November 5,9:30AM ET,L,0,6-3,away,Kansas City Chiefs,14,21,20,292,175,117,1,16,267,174,93,1,-9.86,1.1,1.0,2023
+262,10,Dolphins,0,0,0,0,0,0,home,<strong>Bye Week</strong>,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,2023
+263,11,Dolphins,Sun,November 19,1:00PM ET,W,0,7-3,home,Las Vegas Raiders,20,13,21,422,323,99,3,12,296,260,36,3,1.48,15.77,-8.12,2023
+264,12,Dolphins,Fri,November 24,3:00PM ET,W,0,8-3,away,New York Jets,34,13,22,395,228,167,3,12,159,130,29,2,3.64,20.96,-2.09,2023
+265,13,Dolphins,Sun,December 3,1:00PM ET,W,0,9-3,away,Washington Commanders,45,15,20,406,283,123,0,11,245,107,138,1,25.98,6.88,-0.52,2023
+266,14,Dolphins,Mon,December 11,8:15PM ET,L,0,9-4,home,Tennessee Titans,27,28,20,366,208,158,1,22,403,320,83,3,-0.67,-1.86,0.42,2023
+267,15,Dolphins,Sun,December 17,1:00PM ET,W,0,10-4,home,New York Jets,30,0,16,290,213,77,0,11,103,80,23,4,4.37,28.99,-5.48,2023
+268,16,Dolphins,Sun,December 24,4:25PM ET,W,0,11-4,home,Dallas Cowboys,22,20,22,375,284,91,0,19,339,242,97,1,6.06,-8.66,4.74,2023
+269,17,Dolphins,Sun,December 31,1:00PM ET,L,0,11-5,away,Baltimore Ravens,19,56,20,375,221,154,3,24,491,331,160,1,-10.36,-31.09,1.21,2023
+270,18,Dolphins,Sun,January 7,8:20PM ET,L,0,11-6,home,Buffalo Bills,14,21,16,275,167,108,2,26,473,345,128,3,3.92,-12.65,-3.03,2023
+271,0,Dolphins,0,<strong>Playoffs</strong>,0,0,0,0,home,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,2023
+272,Wild Card,Dolphins,Sat,January 13,8:10PM ET,L,0,11-7,away,Kansas City Chiefs,7,26,13,264,188,76,1,25,409,262,147,1,-10.55,-9.58,4.67,2023
+273,1,Eagles,Sun,September 10,4:25PM ET,W,0,1-0,away,New England Patriots,25,20,17,251,154,97,1,24,382,306,76,2,-10.42,12.04,4.39,2023
+274,2,Eagles,Thu,September 14,8:15PM ET,W,0,2-0,home,Minnesota Vikings,34,28,24,430,171,259,1,19,374,346,28,4,14.53,-7.44,-0.51,2023
+275,3,Eagles,Mon,September 25,7:15PM ET,W,0,3-0,away,Tampa Bay Buccaneers,25,11,27,472,271,201,2,12,174,133,41,2,14.08,7.28,-1.78,2023
+276,4,Eagles,Sun,October 1,1:00PM ET,W,OT,4-0,home,Washington Commanders,34,31,23,415,311,104,0,26,365,258,107,0,18.21,-17.68,2.47,2023
+277,5,Eagles,Sun,October 8,4:05PM ET,W,0,5-0,away,Los Angeles Rams,23,14,28,454,295,159,1,17,249,195,54,0,16.56,-6.25,-2.84,2023
+278,6,Eagles,Sun,October 15,4:25PM ET,L,0,5-1,away,New York Jets,14,20,24,348,268,80,4,17,244,155,89,0,-5.91,7.52,-8.89,2023
+279,7,Eagles,Sun,October 22,8:20PM ET,W,0,6-1,home,Miami Dolphins,31,17,26,355,256,99,2,12,244,199,45,1,11.06,7.17,-2.9,2023
+280,8,Eagles,Sun,October 29,1:00PM ET,W,0,7-1,away,Washington Commanders,38,31,21,374,315,59,2,26,472,388,84,1,15.23,-10.32,4.32,2023
+281,9,Eagles,Sun,November 5,4:25PM ET,W,0,8-1,home,Dallas Cowboys,28,23,20,292,183,109,0,27,406,333,73,1,15.0,-10.9,2.75,2023
+282,10,Eagles,0,0,0,0,0,0,home,<strong>Bye Week</strong>,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,2023
+283,11,Eagles,Mon,November 20,8:15PM ET,W,0,9-1,away,Kansas City Chiefs,21,17,16,238,124,114,1,23,336,168,168,2,-2.22,3.4,3.61,2023
+284,12,Eagles,Sun,November 26,4:25PM ET,W,OT,10-1,home,Buffalo Bills,37,34,24,378,193,185,2,29,505,332,173,1,7.6,-13.85,9.18,2023
+285,13,Eagles,Sun,December 3,4:25PM ET,L,0,10-2,home,San Francisco 49ers,19,42,23,333,287,46,0,24,456,310,146,0,6.22,-33.55,2.11,2023
+286,14,Eagles,Sun,December 10,8:20PM ET,L,0,10-3,away,Dallas Cowboys,13,33,17,324,218,106,3,24,394,256,138,1,-4.61,-10.85,-2.77,2023
+287,15,Eagles,Mon,December 18,8:15PM ET,L,0,10-4,away,Seattle Seahawks,17,20,23,321,143,178,2,16,297,197,100,0,5.2,-6.27,0.39,2023
+288,16,Eagles,Mon,December 25,4:30PM ET,W,0,11-4,home,New York Giants,33,25,28,465,295,170,2,14,292,186,106,1,10.41,0.93,-3.34,2023
+289,17,Eagles,Sun,December 31,1:00PM ET,L,0,11-5,home,Arizona Cardinals,31,35,17,275,184,91,1,32,449,228,221,1,13.61,-21.16,3.99,2023
+290,18,Eagles,Sun,January 7,4:25PM ET,L,0,11-6,away,New York Giants,10,27,19,299,166,133,4,22,415,306,109,1,-14.58,-7.04,4.08,2023
+291,0,Eagles,0,<strong>Playoffs</strong>,0,0,0,0,home,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,2023
+292,Wild Card,Eagles,Mon,January 15,8:15PM ET,L,0,11-7,away,Tampa Bay Buccaneers,9,32,13,276,234,42,0,23,426,307,119,0,-9.0,-14.65,0.96,2023
+293,1,Falcons,Sun,September 10,1:00PM ET,W,0,1-0,home,Carolina Panthers,24,10,13,221,91,130,0,20,281,127,154,3,-2.92,16.61,-0.2,2023
+294,2,Falcons,Sun,September 17,1:00PM ET,W,0,2-0,home,Green Bay Packers,25,24,27,446,235,211,1,17,224,140,84,0,13.12,-7.85,-0.97,2023
+295,3,Falcons,Sun,September 24,1:00PM ET,L,0,2-1,away,Detroit Lions,6,20,16,183,139,44,1,18,358,243,115,1,-15.09,-1.31,0.59,2023
+296,4,Falcons,Sun,October 1,9:30AM ET,L,0,2-2,away,Jacksonville Jaguars,7,23,17,287,160,127,3,16,300,195,105,0,-15.78,-0.72,0.86,2023
+297,5,Falcons,Sun,October 8,1:00PM ET,W,0,3-2,home,Houston Texans,21,19,26,447,351,96,2,17,313,249,64,0,6.01,-2.73,-1.01,2023
+298,6,Falcons,Sun,October 15,1:00PM ET,L,0,3-3,home,Washington Commanders,16,24,25,402,296,106,3,13,193,121,72,0,-5.68,0.45,-3.28,2023
+299,7,Falcons,Sun,October 22,1:00PM ET,W,0,4-3,away,Tampa Bay Buccaneers,16,13,20,401,245,156,3,21,329,256,73,2,-0.8,2.11,1.89,2023
+300,8,Falcons,Sun,October 29,1:00PM ET,L,0,4-4,away,Tennessee Titans,23,28,17,342,202,140,1,17,375,226,149,1,-3.34,-4.14,-0.17,2023
+301,9,Falcons,Sun,November 5,1:00PM ET,L,0,4-5,home,Minnesota Vikings,28,31,18,370,260,110,2,23,363,217,146,2,-3.4,-1.9,3.43,2023
+302,10,Falcons,Sun,November 12,4:05PM ET,L,0,4-6,away,Arizona Cardinals,23,25,20,254,70,184,0,20,352,230,122,1,4.7,-0.59,-6.18,2023
+303,11,Falcons,0,0,0,0,0,0,home,<strong>Bye Week</strong>,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,2023
+304,12,Falcons,Sun,November 26,1:00PM ET,W,0,5-6,home,New Orleans Saints,24,15,25,396,168,228,2,22,444,296,148,2,7.53,3.48,-0.04,2023
+305,13,Falcons,Sun,December 3,1:00PM ET,W,0,6-6,away,New York Jets,13,8,15,194,104,90,0,14,259,197,62,3,-11.41,20.36,-1.05,2023
+306,14,Falcons,Sun,December 10,1:00PM ET,L,0,6-7,home,Tampa Bay Buccaneers,25,29,23,434,338,96,1,16,290,142,148,0,7.82,-0.22,-9.28,2023
+307,15,Falcons,Sun,December 17,1:00PM ET,L,0,6-8,away,Carolina Panthers,7,9,12,204,152,52,2,17,283,154,129,0,-10.46,9.24,-0.79,2023
+308,16,Falcons,Sun,December 24,1:00PM ET,W,0,7-8,home,Indianapolis Colts,29,10,23,406,229,177,0,20,262,170,92,1,13.44,4.99,-1.88,2023
+309,17,Falcons,Sun,December 31,1:00PM ET,L,0,7-9,away,Chicago Bears,17,37,15,307,173,134,4,22,432,240,192,0,-4.29,-10.27,-7.6,2023
+310,18,Falcons,Sun,January 7,1:00PM ET,L,0,7-10,away,New Orleans Saints,17,48,14,389,311,78,3,27,400,246,154,0,-11.97,-20.65,3.08,2023
+311,1,Giants,Sun,September 10,8:20PM ET,L,0,0-1,home,Dallas Cowboys,0,40,14,171,63,108,3,18,265,143,122,0,-27.25,-9.37,-5.36,2023
+312,2,Giants,Sun,September 17,4:05PM ET,W,0,1-1,away,Arizona Cardinals,31,28,26,439,312,127,1,24,379,228,151,0,16.76,-15.48,2.39,2023
+313,3,Giants,Thu,September 21,8:15PM ET,L,0,1-2,away,San Francisco 49ers,12,30,10,150,121,29,1,26,441,300,141,0,-11.82,-19.0,9.72,2023
+314,4,Giants,Mon,October 2,8:15PM ET,L,0,1-3,home,Seattle Seahawks,3,24,17,248,136,112,3,13,281,160,121,0,-29.37,7.86,-0.33,2023
+315,5,Giants,Sun,October 8,1:00PM ET,L,0,1-4,away,Miami Dolphins,16,31,15,268,183,85,0,22,524,302,222,3,-6.46,-10.45,1.72,2023
+316,6,Giants,Sun,October 15,8:20PM ET,L,0,1-5,away,Buffalo Bills,9,14,20,317,185,132,0,22,297,169,128,2,3.02,-2.9,6.7,2023
+317,7,Giants,Sun,October 22,1:00PM ET,W,0,2-5,home,Washington Commanders,14,7,16,356,250,106,2,14,273,197,76,1,-3.64,16.05,-8.94,2023
+318,8,Giants,Sun,October 29,1:00PM ET,L,OT,2-6,home,New York Jets,10,13,12,194,-9,203,0,12,251,193,58,2,-20.38,20.78,-1.41,2023
+319,9,Giants,Sun,November 5,4:25PM ET,L,0,2-7,away,Las Vegas Raiders,6,30,15,277,154,123,2,15,334,209,125,0,-18.96,-1.99,-1.85,2023
+320,10,Giants,Sun,November 12,4:25PM ET,L,0,2-8,away,Dallas Cowboys,17,49,16,172,61,111,1,32,640,472,168,2,-8.61,-31.0,8.0,2023
+321,11,Giants,Sun,November 19,1:00PM ET,W,0,3-8,away,Washington Commanders,31,19,13,292,201,91,0,28,404,230,174,6,0.33,2.78,6.95,2023
+322,12,Giants,Sun,November 26,1:00PM ET,W,0,4-8,home,New England Patriots,10,7,10,220,162,58,1,18,283,136,147,3,-12.44,12.51,2.86,2023
+323,13,Giants,0,0,0,0,0,0,home,<strong>Bye Week</strong>,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,2023
+324,14,Giants,Mon,December 11,8:15PM ET,W,0,5-8,home,Green Bay Packers,24,22,18,367,158,209,2,19,326,203,123,3,2.39,-0.04,-0.2,2023
+325,15,Giants,Sun,December 17,1:00PM ET,L,0,5-9,away,New Orleans Saints,6,24,12,193,133,60,0,20,296,209,87,0,-15.39,-8.51,7.4,2023
+326,16,Giants,Mon,December 25,4:30PM ET,L,0,5-10,away,Philadelphia Eagles,25,33,14,292,186,106,1,28,465,295,170,2,-0.93,-10.41,3.34,2023
+327,17,Giants,Sun,December 31,1:00PM ET,L,0,5-11,home,Los Angeles Rams,25,26,17,389,284,105,1,22,391,286,105,3,-4.35,-2.7,4.87,2023
+328,18,Giants,Sun,January 7,4:25PM ET,W,0,6-11,home,Philadelphia Eagles,27,10,22,415,306,109,1,19,299,166,133,4,7.04,14.58,-4.08,2023
+329,1,Jaguars,Sun,September 10,1:00PM ET,W,0,1-0,away,Indianapolis Colts,31,21,20,342,237,105,2,18,280,215,65,3,-9.8,17.62,2.44,2023
+330,2,Jaguars,Sun,September 17,1:00PM ET,L,0,1-1,home,Kansas City Chiefs,9,17,18,271,197,74,1,19,399,298,101,3,-10.72,-7.01,6.76,2023
+331,3,Jaguars,Sun,September 24,1:00PM ET,L,0,1-2,home,Houston Texans,17,37,22,404,288,116,2,15,366,280,86,0,3.88,-13.65,-10.46,2023
+332,4,Jaguars,Sun,October 1,9:30AM ET,W,0,2-2,home,Atlanta Falcons,23,7,16,300,195,105,0,17,287,160,127,3,0.72,15.78,-0.86,2023
+333,5,Jaguars,Sun,October 8,9:30AM ET,W,0,3-2,away,Buffalo Bills,25,20,29,474,278,196,2,18,388,359,29,2,13.93,-6.27,2.21,2023
+334,6,Jaguars,Sun,October 15,1:00PM ET,W,0,4-2,home,Indianapolis Colts,37,20,17,233,148,85,1,18,354,310,44,4,-0.16,12.21,4.88,2023
+335,7,Jaguars,Thu,October 19,8:15PM ET,W,0,5-2,away,New Orleans Saints,31,24,18,330,217,113,2,25,407,295,112,1,2.64,4.83,-1.15,2023
+336,8,Jaguars,Sun,October 29,1:00PM ET,W,0,6-2,away,Pittsburgh Steelers,20,10,20,377,271,106,3,17,261,191,70,2,-2.59,3.68,2.01,2023
+337,9,Jaguars,0,0,0,0,0,0,home,<strong>Bye Week</strong>,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,2023
+338,10,Jaguars,Sun,November 12,1:00PM ET,L,0,6-3,home,San Francisco 49ers,3,34,12,221,162,59,4,20,437,293,144,0,-18.16,-15.13,3.53,2023
+339,11,Jaguars,Sun,November 19,1:00PM ET,W,0,7-3,home,Tennessee Titans,34,14,24,389,261,128,0,12,235,143,92,2,21.06,-3.96,2.84,2023
+340,12,Jaguars,Sun,November 26,1:00PM ET,W,0,8-3,away,Houston Texans,24,21,22,445,364,81,1,19,352,261,91,0,13.92,-8.2,3.64,2023
+341,13,Jaguars,Mon,December 4,8:15PM ET,L,OT,8-4,home,Cincinnati Bengals,31,34,23,376,305,71,0,27,491,335,156,1,13.98,-17.41,-0.31,2023
+342,14,Jaguars,Sun,December 10,1:00PM ET,L,0,8-5,away,Cleveland Browns,27,31,20,293,235,58,4,16,389,307,82,3,-8.51,8.29,-5.12,2023
+343,15,Jaguars,Sun,December 17,8:20PM ET,L,0,8-6,home,Baltimore Ravens,7,23,16,333,258,75,2,25,396,145,251,1,-3.03,-8.41,-2.47,2023
+344,16,Jaguars,Sun,December 24,4:05PM ET,L,0,8-7,away,Tampa Bay Buccaneers,12,30,23,305,268,37,4,22,335,265,70,0,-9.43,-8.09,-4.78,2023
+345,17,Jaguars,Sun,December 31,1:00PM ET,W,0,9-7,home,Carolina Panthers,26,0,16,317,162,155,0,7,124,67,57,1,6.77,24.8,-4.36,2023
+346,18,Jaguars,Sun,January 7,1:00PM ET,L,0,9-8,away,Tennessee Titans,20,28,20,362,280,82,2,19,327,152,175,1,-0.86,-7.12,-0.99,2023
+347,1,Jets,Mon,September 11,8:15PM ET,W,OT,1-0,home,Buffalo Bills,22,16,13,289,117,172,1,19,314,217,97,4,-1.19,4.85,2.27,2023
+348,2,Jets,Sun,September 17,4:25PM ET,L,0,1-1,away,Dallas Cowboys,10,30,12,215,151,64,4,26,382,248,134,0,-14.82,-7.01,2.25,2023
+349,3,Jets,Sun,September 24,1:00PM ET,L,0,1-2,home,New England Patriots,10,15,12,171,133,38,0,17,358,201,157,0,-15.2,2.13,6.78,2023
+350,4,Jets,Sun,October 1,8:20PM ET,L,0,1-3,home,Kansas City Chiefs,20,23,18,336,228,108,1,24,401,197,204,2,3.25,-10.22,-1.48,2023
+351,5,Jets,Sun,October 8,4:25PM ET,W,0,2-3,away,Denver Broncos,31,21,18,407,173,234,2,18,308,169,139,3,5.79,6.26,2.75,2023
+352,6,Jets,Sun,October 15,4:25PM ET,W,0,3-3,home,Philadelphia Eagles,20,14,17,244,155,89,0,24,348,268,80,4,-7.52,5.91,8.89,2023
+353,7,Jets,0,0,0,0,0,0,home,<strong>Bye Week</strong>,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,2023
+354,8,Jets,Sun,October 29,1:00PM ET,W,OT,4-3,away,New York Giants,13,10,12,251,193,58,2,12,194,-9,203,0,-20.78,20.38,1.41,2023
+355,9,Jets,Mon,November 6,8:15PM ET,L,0,4-4,home,Los Angeles Chargers,6,27,17,270,206,64,3,14,191,107,84,0,-25.2,6.47,-1.49,2023
+356,10,Jets,Sun,November 12,8:20PM ET,L,0,4-5,away,Las Vegas Raiders,12,16,14,365,257,108,1,15,274,126,148,2,-7.21,8.01,-3.38,2023
+357,11,Jets,Sun,November 19,4:25PM ET,L,0,4-6,away,Buffalo Bills,6,32,14,155,92,63,4,22,393,263,130,1,-15.34,-14.64,-1.82,2023
+358,12,Jets,Fri,November 24,3:00PM ET,L,0,4-7,home,Miami Dolphins,13,34,12,159,130,29,2,22,395,228,167,3,-20.96,-3.64,2.09,2023
+359,13,Jets,Sun,December 3,1:00PM ET,L,0,4-8,home,Atlanta Falcons,8,13,14,259,197,62,3,15,194,104,90,0,-20.36,11.41,1.05,2023
+360,14,Jets,Sun,December 10,1:00PM ET,W,0,5-8,home,Houston Texans,30,6,20,347,268,79,1,10,135,54,81,0,2.85,22.37,-3.08,2023
+361,15,Jets,Sun,December 17,1:00PM ET,L,0,5-9,away,Miami Dolphins,0,30,11,103,80,23,4,16,290,213,77,0,-28.99,-4.37,5.48,2023
+362,16,Jets,Sun,December 24,1:00PM ET,W,0,6-9,home,Washington Commanders,30,28,26,381,217,164,2,18,245,143,102,3,-15.58,3.65,8.61,2023
+363,17,Jets,Thu,December 28,8:15PM ET,L,0,6-10,away,Cleveland Browns,20,37,17,360,253,107,2,20,428,301,127,3,-7.73,-3.15,-3.99,2023
+364,18,Jets,Sun,January 7,1:00PM ET,W,0,7-10,away,New England Patriots,17,3,13,254,69,185,1,6,119,31,88,2,-10.78,27.43,-3.32,2023
+365,1,Lions,Thu,September 7,8:20PM ET,W,0,1-0,away,Kansas City Chiefs,21,20,19,368,250,118,1,17,316,226,90,1,2.6,4.17,-2.11,2023
+366,2,Lions,Sun,September 17,1:00PM ET,L,OT,1-1,home,Seattle Seahawks,31,37,25,418,316,102,3,28,393,311,82,0,4.65,-18.0,7.35,2023
+367,3,Lions,Sun,September 24,1:00PM ET,W,0,2-1,home,Atlanta Falcons,20,6,18,358,243,115,1,16,183,139,44,1,1.31,15.09,-0.59,2023
+368,4,Lions,Thu,September 28,8:15PM ET,W,0,3-1,away,Green Bay Packers,34,20,25,401,190,211,1,15,230,203,27,2,8.47,8.6,2.13,2023
+369,5,Lions,Sun,October 8,1:00PM ET,W,0,4-1,home,Carolina Panthers,42,24,23,377,218,159,0,26,342,243,99,3,21.57,-4.1,0.86,2023
+370,6,Lions,Sun,October 15,4:25PM ET,W,0,5-1,away,Tampa Bay Buccaneers,20,6,19,380,340,40,0,13,251,205,46,1,8.54,11.72,-6.91,2023
+371,7,Lions,Sun,October 22,1:00PM ET,L,0,5-2,away,Baltimore Ravens,6,38,18,337,253,84,1,23,503,357,146,1,-6.4,-26.48,3.38,2023
+372,8,Lions,Mon,October 30,8:15PM ET,W,0,6-2,home,Las Vegas Raiders,26,14,29,486,264,222,3,12,157,77,80,1,0.57,15.25,-2.81,2023
+373,9,Lions,0,0,0,0,0,0,home,<strong>Bye Week</strong>,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,2023
+374,10,Lions,Sun,November 12,4:05PM ET,W,0,7-2,away,Los Angeles Chargers,41,38,23,533,333,200,0,24,421,323,98,1,31.55,-25.22,-2.59,2023
+375,11,Lions,Sun,November 19,1:00PM ET,W,0,8-2,home,Chicago Bears,31,26,23,338,223,115,4,25,334,151,183,1,11.72,-4.18,-1.3,2023
+376,12,Lions,Thu,November 23,12:30PM ET,L,0,8-3,home,Green Bay Packers,22,29,25,464,324,140,3,17,377,268,109,0,-1.02,-9.91,-1.64,2023
+377,13,Lions,Sun,December 3,1:00PM ET,W,0,9-3,away,New Orleans Saints,33,28,18,347,205,142,0,23,362,249,113,2,9.55,-6.28,2.62,2023
+378,14,Lions,Sun,December 10,1:00PM ET,L,0,9-4,away,Chicago Bears,13,28,13,267,127,140,3,20,336,194,142,0,-10.07,-3.69,0.72,2023
+379,15,Lions,Sat,December 16,8:15PM ET,W,0,10-4,home,Denver Broncos,42,17,29,448,263,185,0,20,287,204,83,1,29.35,-3.2,-3.14,2023
+380,16,Lions,Sun,December 24,1:00PM ET,W,0,11-4,away,Minnesota Vikings,30,24,28,389,246,143,1,19,390,373,17,4,15.44,-11.43,0.61,2023
+381,17,Lions,Sat,December 30,8:15PM ET,L,0,11-5,away,Dallas Cowboys,19,20,21,420,295,125,2,17,384,323,61,2,-0.45,-0.39,-1.92,2023
+382,18,Lions,Sun,January 7,1:00PM ET,W,0,12-5,home,Minnesota Vikings,30,20,19,381,311,70,0,24,448,359,89,2,17.81,-4.55,1.13,2023
+383,0,Lions,0,<strong>Playoffs</strong>,0,0,0,0,home,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,2023
+384,Wild Card,Lions,Sun,January 14,8:15PM ET,W,0,13-5,home,Los Angeles Rams,24,23,23,334,255,79,0,22,425,357,68,0,15.39,-19.93,4.78,2023
+385,Division,Lions,Sun,January 21,3:00PM ET,W,0,14-5,home,Tampa Bay Buccaneers,31,23,26,391,277,114,0,23,408,319,89,2,15.79,-7.77,2.23,2023
+386,Conf. Champ.,Lions,Sun,January 28,6:30PM ET,L,0,14-6,away,San Francisco 49ers,31,34,28,442,260,182,1,23,413,258,155,1,14.76,-19.87,1.23,2023
+387,1,Packers,Sun,September 10,4:25PM ET,W,0,1-0,away,Chicago Bears,38,20,15,329,237,92,0,22,311,189,122,2,8.05,6.45,2.11,2023
+388,2,Packers,Sun,September 17,1:00PM ET,L,0,1-1,away,Atlanta Falcons,24,25,17,224,140,84,0,27,446,235,211,1,7.85,-13.12,0.97,2023
+389,3,Packers,Sun,September 24,1:00PM ET,W,0,2-1,home,New Orleans Saints,18,17,21,340,245,95,1,15,252,175,77,0,1.99,3.02,-6.26,2023
+390,4,Packers,Thu,September 28,8:15PM ET,L,0,2-2,home,Detroit Lions,20,34,15,230,203,27,2,25,401,190,211,1,-8.6,-8.47,-2.13,2023
+391,5,Packers,Mon,October 9,8:15PM ET,L,0,2-3,away,Las Vegas Raiders,13,17,18,285,175,110,3,19,279,183,96,1,-6.99,1.23,5.61,2023
+392,6,Packers,0,0,0,0,0,0,home,<strong>Bye Week</strong>,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,2023
+393,7,Packers,Sun,October 22,4:25PM ET,L,0,2-4,away,Denver Broncos,17,19,20,331,194,137,1,18,339,194,145,0,11.33,-9.89,-2.65,2023
+394,8,Packers,Sun,October 29,1:00PM ET,L,0,2-5,home,Minnesota Vikings,10,24,16,270,196,74,1,24,346,284,62,1,-10.54,-13.6,9.64,2023
+395,9,Packers,Sun,November 5,1:00PM ET,W,0,3-5,home,Los Angeles Rams,20,3,21,391,207,184,2,10,187,119,68,2,2.46,20.49,-1.58,2023
+396,10,Packers,Sun,November 12,1:00PM ET,L,0,3-6,away,Pittsburgh Steelers,19,23,17,399,283,116,2,21,324,119,205,0,8.81,-7.06,-3.18,2023
+397,11,Packers,Sun,November 19,1:00PM ET,W,0,4-6,home,Los Angeles Chargers,23,20,23,397,295,102,0,17,394,244,150,1,12.8,-2.45,-4.58,2023
+398,12,Packers,Thu,November 23,12:30PM ET,W,0,5-6,away,Detroit Lions,29,22,17,377,268,109,0,25,464,324,140,3,9.91,1.02,1.64,2023
+399,13,Packers,Sun,December 3,8:20PM ET,W,0,6-6,home,Kansas City Chiefs,27,19,24,382,253,129,0,25,337,189,148,1,19.21,-9.54,-0.96,2023
+400,14,Packers,Mon,December 11,8:15PM ET,L,0,6-7,away,New York Giants,22,24,19,326,203,123,3,18,367,158,209,2,0.04,-2.39,0.2,2023
+401,15,Packers,Sun,December 17,1:00PM ET,L,0,6-8,home,Tampa Bay Buccaneers,20,34,18,321,261,60,1,22,452,353,99,1,5.02,-21.36,-0.81,2023
+402,16,Packers,Sun,December 24,1:00PM ET,W,0,7-8,away,Carolina Panthers,33,30,25,369,207,162,0,26,394,298,96,0,19.16,-20.51,1.99,2023
+403,17,Packers,Sun,December 31,8:20PM ET,W,0,8-8,away,Minnesota Vikings,33,10,28,470,293,177,1,13,211,144,67,2,22.54,14.27,-12.19,2023
+404,18,Packers,Sun,January 7,4:25PM ET,W,0,9-8,home,Chicago Bears,17,9,24,432,308,124,1,13,192,117,75,0,20.31,1.05,-8.08,2023
+405,0,Packers,0,<strong>Playoffs</strong>,0,0,0,0,home,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,2023
+406,Wild Card,Packers,Sun,January 14,4:30PM ET,W,0,10-8,away,Dallas Cowboys,48,32,22,415,272,143,0,37,510,387,123,2,27.79,-11.47,2.74,2023
+407,Division,Packers,Sat,January 20,8:15PM ET,L,0,10-9,away,San Francisco 49ers,21,24,20,330,194,136,2,19,356,245,111,0,5.63,-12.57,1.49,2023
+408,1,Panthers,Sun,September 10,1:00PM ET,L,0,0-1,away,Atlanta Falcons,10,24,20,281,127,154,3,13,221,91,130,0,-16.61,2.92,0.2,2023
+409,2,Panthers,Mon,September 18,7:15PM ET,L,0,0-2,home,New Orleans Saints,17,20,14,239,139,100,1,23,341,207,134,1,-6.94,-3.81,6.1,2023
+410,3,Panthers,Sun,September 24,4:05PM ET,L,0,0-3,away,Seattle Seahawks,27,37,23,378,334,44,0,27,425,279,146,1,6.08,-10.21,-4.29,2023
+411,4,Panthers,Sun,October 1,1:00PM ET,L,0,0-4,home,Minnesota Vikings,13,21,20,232,149,83,1,14,265,130,135,2,-14.29,5.73,-0.38,2023
+412,5,Panthers,Sun,October 8,1:00PM ET,L,0,0-5,away,Detroit Lions,24,42,26,342,243,99,3,23,377,218,159,0,4.1,-21.57,-0.86,2023
+413,6,Panthers,Sun,October 15,1:00PM ET,L,0,0-6,away,Miami Dolphins,21,42,21,296,188,108,0,23,424,262,162,1,-6.44,-14.79,0.33,2023
+414,7,Panthers,0,0,0,0,0,0,home,<strong>Bye Week</strong>,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,2023
+415,8,Panthers,Sun,October 29,1:00PM ET,W,0,1-6,home,Houston Texans,15,13,20,224,180,44,0,16,229,119,110,1,0.91,3.6,-2.13,2023
+416,9,Panthers,Sun,November 5,4:05PM ET,L,0,1-7,home,Indianapolis Colts,13,27,17,275,137,138,3,17,198,120,78,1,-23.07,3.93,2.92,2023
+417,10,Panthers,Thu,November 9,8:15PM ET,L,0,1-8,away,Chicago Bears,13,16,12,213,170,43,0,21,295,162,133,0,-6.28,0.42,1.84,2023
+418,11,Panthers,Sun,November 19,1:00PM ET,L,0,1-9,home,Dallas Cowboys,10,33,13,187,77,110,2,23,311,204,107,0,-13.81,-14.98,6.04,2023
+419,12,Panthers,Sun,November 26,1:00PM ET,L,0,1-10,away,Tennessee Titans,10,17,19,258,162,96,1,15,264,184,80,0,-7.57,-0.52,-0.58,2023
+420,13,Panthers,Sun,December 3,4:05PM ET,L,0,1-11,away,Tampa Bay Buccaneers,18,21,15,282,149,133,1,15,322,194,128,1,-4.36,-1.83,1.51,2023
+421,14,Panthers,Sun,December 10,1:00PM ET,L,0,1-12,away,New Orleans Saints,6,28,16,303,99,204,2,14,207,110,97,1,-20.04,2.19,-1.99,2023
+422,15,Panthers,Sun,December 17,1:00PM ET,W,0,2-12,home,Atlanta Falcons,9,7,17,283,154,129,0,12,204,152,52,2,-9.24,10.46,0.79,2023
+423,16,Panthers,Sun,December 24,1:00PM ET,L,0,2-13,home,Green Bay Packers,30,33,26,394,298,96,0,25,369,207,162,0,20.51,-19.16,-1.99,2023
+424,17,Panthers,Sun,December 31,1:00PM ET,L,0,2-14,away,Jacksonville Jaguars,0,26,7,124,67,57,1,16,317,162,155,0,-24.8,-6.77,4.36,2023
+425,18,Panthers,Sun,January 7,1:00PM ET,L,0,2-15,home,Tampa Bay Buccaneers,0,9,11,199,68,131,2,14,228,115,113,0,-13.18,7.74,-6.13,2023
+426,1,Patriots,Sun,September 10,4:25PM ET,L,0,0-1,home,Philadelphia Eagles,20,25,24,382,306,76,2,17,251,154,97,1,-12.04,10.42,-4.39,2023
+427,2,Patriots,Sun,September 17,8:20PM ET,L,0,0-2,home,Miami Dolphins,17,24,23,288,200,88,2,22,389,244,145,1,-0.98,-13.09,7.69,2023
+428,3,Patriots,Sun,September 24,1:00PM ET,W,0,1-2,away,New York Jets,15,10,17,358,201,157,0,12,171,133,38,0,-2.13,15.2,-6.78,2023
+429,4,Patriots,Sun,October 1,4:25PM ET,L,0,1-3,away,Dallas Cowboys,3,38,10,253,200,53,3,22,377,253,124,0,-26.22,-8.01,-0.2,2023
+430,5,Patriots,Sun,October 8,1:00PM ET,L,0,1-4,home,New Orleans Saints,0,34,8,156,111,45,3,17,304,168,136,0,-33.72,1.91,-3.4,2023
+431,6,Patriots,Sun,October 15,4:05PM ET,L,0,1-5,away,Las Vegas Raiders,17,21,17,259,176,83,1,19,348,264,84,1,3.68,-2.79,-5.62,2023
+432,7,Patriots,Sun,October 22,1:00PM ET,W,0,2-5,home,Buffalo Bills,29,25,21,364,268,96,1,24,339,258,81,2,10.65,-11.63,5.61,2023
+433,8,Patriots,Sun,October 29,1:00PM ET,L,0,2-6,away,Miami Dolphins,17,31,13,218,141,77,1,24,390,312,78,2,-9.73,-10.64,3.59,2023
+434,9,Patriots,Sun,November 5,1:00PM ET,L,0,2-7,home,Washington Commanders,17,20,18,327,220,107,1,23,432,308,124,2,0.28,-3.37,-1.3,2023
+435,10,Patriots,Sun,November 12,9:30AM ET,L,0,2-8,home,Indianapolis Colts,6,10,21,340,173,167,2,14,264,194,70,1,-0.42,-0.31,-0.28,2023
+436,11,Patriots,0,0,0,0,0,0,home,<strong>Bye Week</strong>,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,2023
+437,12,Patriots,Sun,November 26,1:00PM ET,L,0,2-9,away,New York Giants,7,10,18,283,136,147,3,10,220,162,58,1,-12.51,12.44,-2.86,2023
+438,13,Patriots,Sun,December 3,1:00PM ET,L,0,2-10,home,Los Angeles Chargers,0,6,13,257,109,148,1,13,241,212,29,0,-13.06,9.06,-4.71,2023
+439,14,Patriots,Thu,December 7,8:15PM ET,W,0,3-10,away,Pittsburgh Steelers,21,18,14,303,222,81,1,18,264,182,82,1,-4.53,9.55,-2.96,2023
+440,15,Patriots,Sun,December 17,1:00PM ET,L,0,3-11,home,Kansas City Chiefs,17,27,10,206,154,52,1,19,326,283,43,2,-16.05,5.95,0.09,2023
+441,16,Patriots,Sun,December 24,8:15PM ET,W,0,4-11,away,Denver Broncos,26,23,12,289,230,59,1,19,276,193,83,2,-1.42,0.12,4.11,2023
+442,17,Patriots,Sun,December 31,1:00PM ET,L,0,4-12,away,Buffalo Bills,21,27,16,294,191,103,4,19,281,154,127,1,-11.94,-0.15,1.73,2023
+443,18,Patriots,Sun,January 7,1:00PM ET,L,0,4-13,home,New York Jets,3,17,6,119,31,88,2,13,254,69,185,1,-27.43,10.78,3.32,2023
+444,1,Raiders,Sun,September 10,4:25PM ET,W,0,1-0,away,Denver Broncos,17,16,22,261,200,61,1,22,260,166,94,0,9.59,-10.75,3.68,2023
+445,2,Raiders,Sun,September 17,1:00PM ET,L,0,1-1,away,Buffalo Bills,10,38,13,240,185,55,3,29,450,267,183,0,-4.89,-27.19,3.85,2023
+446,3,Raiders,Sun,September 24,8:20PM ET,L,0,1-2,home,Pittsburgh Steelers,18,23,19,362,293,69,3,17,333,228,105,0,-3.82,-5.43,-0.12,2023
+447,4,Raiders,Sun,October 1,4:05PM ET,L,0,1-3,away,Los Angeles Chargers,17,24,22,264,188,76,3,16,305,150,155,1,-8.27,-4.86,6.07,2023
+448,5,Raiders,Mon,October 9,8:15PM ET,W,0,2-3,home,Green Bay Packers,17,13,19,279,183,96,1,18,285,175,110,3,-1.23,6.99,-5.61,2023
+449,6,Raiders,Sun,October 15,4:05PM ET,W,0,3-3,home,New England Patriots,21,17,19,348,264,84,1,17,259,176,83,1,2.79,-3.68,5.62,2023
+450,7,Raiders,Sun,October 22,1:00PM ET,L,0,3-4,away,Chicago Bears,12,30,20,235,196,39,3,23,323,150,173,0,-6.37,-12.58,-2.41,2023
+451,8,Raiders,Mon,October 30,8:15PM ET,L,0,3-5,away,Detroit Lions,14,26,12,157,77,80,1,29,486,264,222,3,-15.25,-0.57,2.81,2023
+452,9,Raiders,Sun,November 5,4:25PM ET,W,0,4-5,home,New York Giants,30,6,15,334,209,125,0,15,277,154,123,2,1.99,18.96,1.85,2023
+453,10,Raiders,Sun,November 12,8:20PM ET,W,0,5-5,home,New York Jets,16,12,15,274,126,148,2,14,365,257,108,1,-8.01,7.21,3.38,2023
+454,11,Raiders,Sun,November 19,1:00PM ET,L,0,5-6,away,Miami Dolphins,13,20,12,296,260,36,3,21,422,323,99,3,-15.77,-1.48,8.12,2023
+455,12,Raiders,Sun,November 26,4:25PM ET,L,0,5-7,home,Kansas City Chiefs,17,31,16,358,235,123,0,23,360,291,69,0,6.49,-14.0,-5.9,2023
+456,13,Raiders,0,0,0,0,0,0,home,<strong>Bye Week</strong>,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,2023
+457,14,Raiders,Sun,December 10,4:05PM ET,L,0,5-8,home,Minnesota Vikings,0,3,8,202,146,56,3,16,231,99,132,0,-20.46,10.05,6.43,2023
+458,15,Raiders,Thu,December 14,8:15PM ET,W,0,6-8,home,Los Angeles Chargers,63,21,20,378,254,124,0,18,326,234,92,5,22.25,15.82,3.05,2023
+459,16,Raiders,Mon,December 25,1:00PM ET,W,0,7-8,away,Kansas City Chiefs,20,14,12,205,48,157,0,19,308,223,85,2,-8.4,11.63,3.27,2023
+460,17,Raiders,Sun,December 31,1:00PM ET,L,0,7-9,away,Indianapolis Colts,20,23,26,370,286,84,0,16,349,215,134,0,8.69,-11.41,-1.73,2023
+461,18,Raiders,Sun,January 7,4:25PM ET,W,0,8-9,home,Denver Broncos,27,14,22,359,230,129,0,17,286,238,48,1,12.72,-1.3,0.08,2023
+462,1,Rams,Sun,September 10,4:25PM ET,W,0,1-0,away,Seattle Seahawks,30,13,27,426,334,92,0,13,180,95,85,0,20.95,1.77,-5.73,2023
+463,2,Rams,Sun,September 17,4:05PM ET,L,0,1-1,home,San Francisco 49ers,23,30,28,386,297,89,2,21,365,206,159,0,3.31,-12.36,2.05,2023
+464,3,Rams,Mon,September 25,8:15PM ET,L,0,1-2,away,Cincinnati Bengals,16,19,15,292,221,71,2,19,309,242,67,1,-7.34,8.0,-3.79,2023
+465,4,Rams,Sun,October 1,1:00PM ET,W,OT,2-2,away,Indianapolis Colts,29,23,27,467,303,164,1,19,329,196,133,1,15.52,-5.51,-0.74,2023
+466,5,Rams,Sun,October 8,4:05PM ET,L,0,2-3,home,Philadelphia Eagles,14,23,17,249,195,54,0,28,454,295,159,1,6.25,-16.56,2.84,2023
+467,6,Rams,Sun,October 15,4:25PM ET,W,0,3-3,home,Arizona Cardinals,26,9,17,382,203,179,1,20,345,215,130,2,10.25,12.85,-7.36,2023
+468,7,Rams,Sun,October 22,4:05PM ET,L,0,3-4,home,Pittsburgh Steelers,17,24,19,354,219,135,1,17,300,214,86,0,3.06,-4.14,-6.47,2023
+469,8,Rams,Sun,October 29,1:00PM ET,L,0,3-5,away,Dallas Cowboys,20,43,15,280,188,92,1,24,387,285,102,1,-8.68,-15.46,-1.87,2023
+470,9,Rams,Sun,November 5,1:00PM ET,L,0,3-6,away,Green Bay Packers,3,20,10,187,119,68,2,21,391,207,184,2,-20.49,-2.46,1.58,2023
+471,10,Rams,0,0,0,0,0,0,home,<strong>Bye Week</strong>,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,2023
+472,11,Rams,Sun,November 19,4:25PM ET,W,0,4-6,home,Seattle Seahawks,17,16,20,267,185,82,1,16,291,223,68,1,2.26,-0.28,0.2,2023
+473,12,Rams,Sun,November 26,4:05PM ET,W,0,5-6,away,Arizona Cardinals,37,14,25,457,229,228,1,19,292,219,73,0,22.85,1.35,-4.78,2023
+474,13,Rams,Sun,December 3,4:25PM ET,W,0,6-6,home,Cleveland Browns,36,19,20,399,279,120,0,20,327,240,87,1,16.49,1.73,-1.43,2023
+475,14,Rams,Sun,December 10,1:00PM ET,L,OT,6-7,away,Baltimore Ravens,31,37,24,410,282,128,0,23,449,310,139,1,7.96,-13.48,-0.55,2023
+476,15,Rams,Sun,December 17,4:05PM ET,W,0,7-7,home,Washington Commanders,28,20,23,445,249,196,2,14,297,218,79,1,8.81,2.14,-3.33,2023
+477,16,Rams,Thu,December 21,8:15PM ET,W,0,8-7,home,New Orleans Saints,30,22,23,458,325,133,0,18,339,304,35,1,18.19,-1.69,-4.89,2023
+478,17,Rams,Sun,December 31,1:00PM ET,W,0,9-7,away,New York Giants,26,25,22,391,286,105,3,17,389,284,105,1,2.7,4.35,-4.87,2023
+479,18,Rams,Sun,January 7,4:25PM ET,W,0,10-7,away,San Francisco 49ers,21,20,19,258,149,109,1,20,300,175,125,1,11.3,-9.48,2.42,2023
+480,0,Rams,0,<strong>Playoffs</strong>,0,0,0,0,home,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,2023
+481,Wild Card,Rams,Sun,January 14,8:15PM ET,L,0,10-8,away,Detroit Lions,23,24,22,425,357,68,0,23,334,255,79,0,19.93,-15.39,-4.78,2023
+482,1,Ravens,Sun,September 10,1:00PM ET,W,0,1-0,home,Houston Texans,25,9,18,265,155,110,2,18,268,196,72,1,-0.55,15.24,-0.49,2023
+483,2,Ravens,Sun,September 17,1:00PM ET,W,0,2-0,away,Cincinnati Bengals,27,24,26,415,237,178,0,19,282,216,66,1,18.73,-6.95,-6.67,2023
+484,3,Ravens,Sun,September 24,1:00PM ET,L,OT,2-1,home,Indianapolis Colts,19,22,20,364,178,186,2,19,327,188,139,0,-5.27,13.57,-10.63,2023
+485,4,Ravens,Sun,October 1,1:00PM ET,W,0,3-1,away,Cleveland Browns,28,3,16,296,165,131,1,13,166,73,93,3,2.36,25.42,-2.71,2023
+486,5,Ravens,Sun,October 8,1:00PM ET,L,0,3-2,away,Pittsburgh Steelers,10,17,19,335,210,125,3,17,289,202,87,1,-16.12,5.08,3.84,2023
+487,6,Ravens,Sun,October 15,9:30AM ET,W,0,4-2,away,Tennessee Titans,24,16,20,360,221,139,1,17,233,104,129,2,3.16,1.3,4.65,2023
+488,7,Ravens,Sun,October 22,1:00PM ET,W,0,5-2,home,Detroit Lions,38,6,23,503,357,146,1,18,337,253,84,1,26.48,6.4,-3.38,2023
+489,8,Ravens,Sun,October 29,4:25PM ET,W,0,6-2,away,Arizona Cardinals,31,24,21,268,138,130,0,22,310,181,129,2,9.2,3.72,-1.65,2023
+490,9,Ravens,Sun,November 5,1:00PM ET,W,0,7-2,home,Seattle Seahawks,37,3,29,515,217,298,2,6,151,123,28,2,17.08,21.73,-5.23,2023
+491,10,Ravens,Sun,November 12,1:00PM ET,L,0,7-3,home,Cleveland Browns,31,33,18,306,200,106,2,24,373,195,178,2,2.49,-6.32,1.1,2023
+492,11,Ravens,Thu,November 16,8:15PM ET,W,0,8-3,home,Cincinnati Bengals,34,20,22,405,248,157,0,20,272,136,136,0,19.09,-4.61,1.27,2023
+493,12,Ravens,Sun,November 26,8:20PM ET,W,0,9-3,away,Los Angeles Chargers,20,10,20,361,164,197,0,16,279,193,86,4,1.22,16.16,-5.76,2023
+494,13,Ravens,0,0,0,0,0,0,home,<strong>Bye Week</strong>,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,2023
+495,14,Ravens,Sun,December 10,1:00PM ET,W,OT,10-3,home,Los Angeles Rams,37,31,23,449,310,139,1,24,410,282,128,0,13.48,-7.96,0.55,2023
+496,15,Ravens,Sun,December 17,8:20PM ET,W,0,11-3,away,Jacksonville Jaguars,23,7,25,396,145,251,1,16,333,258,75,2,8.41,3.03,2.47,2023
+497,16,Ravens,Mon,December 25,8:15PM ET,W,0,12-3,away,San Francisco 49ers,33,19,23,343,241,102,0,21,429,308,121,5,11.84,4.26,-1.31,2023
+498,17,Ravens,Sun,December 31,1:00PM ET,W,0,13-3,home,Miami Dolphins,56,19,24,491,331,160,1,20,375,221,154,3,31.09,10.36,-1.21,2023
+499,18,Ravens,Sat,January 6,4:30PM ET,L,0,13-4,home,Pittsburgh Steelers,10,17,13,224,118,106,2,16,289,134,155,2,-12.05,7.1,-3.24,2023
+500,0,Ravens,0,<strong>Playoffs</strong>,0,0,0,0,home,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,2023
+501,Division,Ravens,Sat,January 20,4:30PM ET,W,0,14-4,home,Houston Texans,34,10,22,352,123,229,0,10,213,175,38,0,15.37,10.33,-2.77,2023
+502,Conf. Champ.,Ravens,Sun,January 28,3:00PM ET,L,0,14-5,home,Kansas City Chiefs,10,17,16,336,255,81,3,22,319,230,89,0,-7.2,-4.1,2.43,2023
+503,1,Saints,Sun,September 10,1:00PM ET,W,0,1-0,home,Tennessee Titans,16,15,15,351,282,69,2,16,285,181,104,3,0.83,8.64,-4.03,2023
+504,2,Saints,Mon,September 18,7:15PM ET,W,0,2-0,away,Carolina Panthers,20,17,23,341,207,134,1,14,239,139,100,1,3.81,6.94,-6.1,2023
+505,3,Saints,Sun,September 24,1:00PM ET,L,0,2-1,away,Green Bay Packers,17,18,15,252,175,77,0,21,340,245,95,1,-3.02,-1.99,6.26,2023
+506,4,Saints,Sun,October 1,1:00PM ET,L,0,2-2,home,Tampa Bay Buccaneers,9,26,16,197,127,70,3,21,353,239,114,1,-14.93,-3.79,2.25,2023
+507,5,Saints,Sun,October 8,1:00PM ET,W,0,3-2,away,New England Patriots,34,0,17,304,168,136,0,8,156,111,45,3,-1.91,33.72,3.4,2023
+508,6,Saints,Sun,October 15,1:00PM ET,L,0,3-3,away,Houston Texans,13,20,24,430,341,89,2,19,297,177,120,1,5.96,-8.1,-3.91,2023
+509,7,Saints,Thu,October 19,8:15PM ET,L,0,3-4,home,Jacksonville Jaguars,24,31,25,407,295,112,1,18,330,217,113,2,-4.83,-2.64,1.15,2023
+510,8,Saints,Sun,October 29,1:00PM ET,W,0,4-4,away,Indianapolis Colts,38,27,24,511,350,161,1,19,371,207,164,1,23.78,-8.38,-3.03,2023
+511,9,Saints,Sun,November 5,1:00PM ET,W,0,5-4,home,Chicago Bears,24,17,18,301,214,87,0,20,368,212,156,5,5.1,5.71,3.16,2023
+512,10,Saints,Sun,November 12,1:00PM ET,L,0,5-5,away,Minnesota Vikings,19,27,16,280,215,65,2,23,388,263,125,0,-0.04,-10.78,4.27,2023
+513,11,Saints,0,0,0,0,0,0,home,<strong>Bye Week</strong>,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,2023
+514,12,Saints,Sun,November 26,1:00PM ET,L,0,5-6,away,Atlanta Falcons,15,24,22,444,296,148,2,25,396,168,228,2,-3.48,-7.53,0.04,2023
+515,13,Saints,Sun,December 3,1:00PM ET,L,0,5-7,home,Detroit Lions,28,33,23,362,249,113,2,18,347,205,142,0,6.28,-9.55,-2.62,2023
+516,14,Saints,Sun,December 10,1:00PM ET,W,0,6-7,home,Carolina Panthers,28,6,14,207,110,97,1,16,303,99,204,2,-2.19,20.04,1.99,2023
+517,15,Saints,Sun,December 17,1:00PM ET,W,0,7-7,home,New York Giants,24,6,20,296,209,87,0,12,193,133,60,0,8.51,15.39,-7.4,2023
+518,16,Saints,Thu,December 21,8:15PM ET,L,0,7-8,away,Los Angeles Rams,22,30,18,339,304,35,1,23,458,325,133,0,1.69,-18.19,4.89,2023
+519,17,Saints,Sun,December 31,1:00PM ET,W,0,8-8,away,Tampa Bay Buccaneers,23,13,20,310,202,108,0,13,349,292,57,4,0.67,3.93,5.28,2023
+520,18,Saints,Sun,January 7,1:00PM ET,W,0,9-8,home,Atlanta Falcons,48,17,27,400,246,154,0,14,389,311,78,3,20.65,11.97,-3.08,2023
+521,1,Seahawks,Sun,September 10,4:25PM ET,L,0,0-1,home,Los Angeles Rams,13,30,13,180,95,85,0,27,426,334,92,0,-1.77,-20.95,5.73,2023
+522,2,Seahawks,Sun,September 17,1:00PM ET,W,OT,1-1,away,Detroit Lions,37,31,28,393,311,82,0,25,418,316,102,3,18.0,-4.65,-7.35,2023
+523,3,Seahawks,Sun,September 24,4:05PM ET,W,0,2-1,home,Carolina Panthers,37,27,27,425,279,146,1,23,378,334,44,0,10.21,-6.08,4.29,2023
+524,4,Seahawks,Mon,October 2,8:15PM ET,W,0,3-1,away,New York Giants,24,3,13,281,160,121,0,17,248,136,112,3,-7.86,29.37,0.33,2023
+525,5,Seahawks,0,0,0,0,0,0,home,<strong>Bye Week</strong>,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,2023
+526,6,Seahawks,Sun,October 15,1:00PM ET,L,0,3-2,away,Cincinnati Bengals,13,17,24,384,297,87,2,15,214,168,46,1,-3.89,1.37,-1.98,2023
+527,7,Seahawks,Sun,October 22,4:05PM ET,W,0,4-2,home,Arizona Cardinals,20,10,18,318,203,115,3,15,249,122,127,0,2.2,10.34,-3.57,2023
+528,8,Seahawks,Sun,October 29,4:05PM ET,W,0,5-2,home,Cleveland Browns,24,20,17,362,248,114,2,23,385,230,155,3,6.04,0.0,2.5,2023
+529,9,Seahawks,Sun,November 5,1:00PM ET,L,0,5-3,away,Baltimore Ravens,3,37,6,151,123,28,2,29,515,217,298,2,-21.73,-17.08,5.23,2023
+530,10,Seahawks,Sun,November 12,4:25PM ET,W,0,6-3,home,Washington Commanders,29,26,27,489,369,120,0,16,356,288,68,1,15.28,-7.66,-2.61,2023
+531,11,Seahawks,Sun,November 19,4:25PM ET,L,0,6-4,away,Los Angeles Rams,16,17,16,291,223,68,1,20,267,185,82,1,0.28,-2.26,-0.2,2023
+532,12,Seahawks,Thu,November 23,8:20PM ET,L,0,6-5,home,San Francisco 49ers,13,31,14,220,132,88,2,23,377,208,169,1,-10.62,-8.06,0.59,2023
+533,13,Seahawks,Thu,November 30,8:15PM ET,L,0,6-6,away,Dallas Cowboys,35,41,25,406,334,72,1,33,411,275,136,0,20.82,-24.14,-3.78,2023
+534,14,Seahawks,Sun,December 10,4:05PM ET,L,0,6-7,away,San Francisco 49ers,16,28,17,324,254,70,2,19,527,354,173,2,-1.61,-19.7,3.47,2023
+535,15,Seahawks,Mon,December 18,8:15PM ET,W,0,7-7,home,Philadelphia Eagles,20,17,16,297,197,100,0,23,321,143,178,2,6.27,-5.2,-0.39,2023
+536,16,Seahawks,Sun,December 24,1:00PM ET,W,0,8-7,away,Tennessee Titans,20,17,21,273,215,58,0,23,287,125,162,0,13.04,-9.37,0.67,2023
+537,17,Seahawks,Sun,December 31,4:05PM ET,L,0,8-8,home,Pittsburgh Steelers,23,30,17,369,281,88,1,25,468,266,202,0,7.51,-20.36,0.67,2023
+538,18,Seahawks,Sun,January 7,4:25PM ET,W,0,9-8,away,Arizona Cardinals,21,20,18,327,189,138,0,24,466,260,206,0,10.16,-18.03,6.27,2023
+539,1,Steelers,Sun,September 10,1:00PM ET,L,0,0-1,home,San Francisco 49ers,7,30,15,239,198,41,2,22,391,203,188,1,-13.55,-9.73,0.78,2023
+540,2,Steelers,Mon,September 18,8:15PM ET,W,0,1-1,home,Cleveland Browns,26,22,9,255,200,55,2,20,408,210,198,4,-16.63,19.51,2.81,2023
+541,3,Steelers,Sun,September 24,8:20PM ET,W,0,2-1,away,Las Vegas Raiders,23,18,17,333,228,105,0,19,362,293,69,3,5.43,3.82,0.12,2023
+542,4,Steelers,Sun,October 1,1:00PM ET,L,0,2-2,away,Houston Texans,6,30,12,225,111,114,1,24,451,312,139,0,-8.54,-15.66,2.59,2023
+543,5,Steelers,Sun,October 8,1:00PM ET,W,0,3-2,home,Baltimore Ravens,17,10,17,289,202,87,1,19,335,210,125,3,-5.08,16.12,-3.84,2023
+544,6,Steelers,0,0,0,0,0,0,home,<strong>Bye Week</strong>,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,2023
+545,7,Steelers,Sun,October 22,4:05PM ET,W,0,4-2,away,Los Angeles Rams,24,17,17,300,214,86,0,19,354,219,135,1,4.14,-3.06,6.47,2023
+546,8,Steelers,Sun,October 29,1:00PM ET,L,0,4-3,home,Jacksonville Jaguars,10,20,17,261,191,70,2,20,377,271,106,3,-3.68,2.59,-2.01,2023
+547,9,Steelers,Thu,November 2,8:15PM ET,W,0,5-3,home,Tennessee Titans,20,16,22,326,160,166,0,23,340,235,105,1,10.92,-3.61,-3.77,2023
+548,10,Steelers,Sun,November 12,1:00PM ET,W,0,6-3,home,Green Bay Packers,23,19,21,324,119,205,0,17,399,283,116,2,7.06,-8.81,3.18,2023
+549,11,Steelers,Sun,November 19,1:00PM ET,L,0,6-4,away,Cleveland Browns,10,13,12,249,77,172,0,20,259,163,96,1,-6.04,6.18,-1.74,2023
+550,12,Steelers,Sun,November 26,1:00PM ET,W,0,7-4,away,Cincinnati Bengals,16,10,22,421,268,153,1,10,222,197,25,1,4.32,6.04,-3.05,2023
+551,13,Steelers,Sun,December 3,1:00PM ET,L,0,7-5,home,Arizona Cardinals,10,24,18,317,187,130,1,18,282,132,150,0,-2.22,-6.39,-7.39,2023
+552,14,Steelers,Thu,December 7,8:15PM ET,L,0,7-6,home,New England Patriots,18,21,18,264,182,82,1,14,303,222,81,1,-9.55,4.53,2.96,2023
+553,15,Steelers,Sat,December 16,4:30PM ET,L,0,7-7,away,Indianapolis Colts,13,30,13,216,142,74,3,19,372,202,170,0,-9.21,-11.18,3.34,2023
+554,16,Steelers,Sat,December 23,4:30PM ET,W,0,8-7,home,Cincinnati Bengals,34,11,16,397,284,113,0,17,368,309,59,3,15.02,7.25,-1.38,2023
+555,17,Steelers,Sun,December 31,4:05PM ET,W,0,9-7,away,Seattle Seahawks,30,23,25,468,266,202,0,17,369,281,88,1,20.36,-7.51,-0.67,2023
+556,18,Steelers,Sat,January 6,4:30PM ET,W,0,10-7,away,Baltimore Ravens,17,10,16,289,134,155,2,13,224,118,106,2,-7.1,12.05,3.24,2023
+557,0,Steelers,0,<strong>Playoffs</strong>,0,0,0,0,home,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,2023
+558,Wild Card,Steelers,Mon,January 15,4:30PM ET,L,0,10-8,away,Buffalo Bills,17,31,22,324,218,106,2,24,368,189,179,0,-2.33,-16.05,7.99,2023
+559,1,Texans,Sun,September 10,1:00PM ET,L,0,0-1,away,Baltimore Ravens,9,25,18,268,196,72,1,18,265,155,110,2,-15.24,0.55,0.49,2023
+560,2,Texans,Sun,September 17,1:00PM ET,L,0,0-2,home,Indianapolis Colts,20,31,24,389,337,52,1,19,353,227,126,0,7.88,-14.21,-4.04,2023
+561,3,Texans,Sun,September 24,1:00PM ET,W,0,1-2,away,Jacksonville Jaguars,37,17,15,366,280,86,0,22,404,288,116,2,13.65,-3.88,10.46,2023
+562,4,Texans,Sun,October 1,1:00PM ET,W,0,2-2,home,Pittsburgh Steelers,30,6,24,451,312,139,0,12,225,111,114,1,15.66,8.54,-2.59,2023
+563,5,Texans,Sun,October 8,1:00PM ET,L,0,2-3,away,Atlanta Falcons,19,21,17,313,249,64,0,26,447,351,96,2,2.73,-6.01,1.01,2023
+564,6,Texans,Sun,October 15,1:00PM ET,W,0,3-3,home,New Orleans Saints,20,13,19,297,177,120,1,24,430,341,89,2,8.1,-5.96,3.91,2023
+565,7,Texans,0,0,0,0,0,0,home,<strong>Bye Week</strong>,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,2023
+566,8,Texans,Sun,October 29,1:00PM ET,L,0,3-4,away,Carolina Panthers,13,15,16,229,119,110,1,20,224,180,44,0,-3.6,-0.91,2.13,2023
+567,9,Texans,Sun,November 5,1:00PM ET,W,0,4-4,home,Tampa Bay Buccaneers,39,37,26,496,443,53,1,21,332,251,81,1,16.65,-13.23,-5.81,2023
+568,10,Texans,Sun,November 12,1:00PM ET,W,0,5-4,away,Cincinnati Bengals,30,27,28,544,356,188,3,20,380,314,66,2,13.25,-4.94,-4.46,2023
+569,11,Texans,Sun,November 19,1:00PM ET,W,0,6-4,home,Arizona Cardinals,21,16,22,419,308,111,3,20,319,196,123,2,4.22,1.11,-0.49,2023
+570,12,Texans,Sun,November 26,1:00PM ET,L,0,6-5,home,Jacksonville Jaguars,21,24,19,352,261,91,0,22,445,364,81,1,8.2,-13.92,-3.64,2023
+571,13,Texans,Sun,December 3,1:00PM ET,W,0,7-5,home,Denver Broncos,22,17,14,353,264,89,0,16,282,164,118,3,-1.15,4.63,0.91,2023
+572,14,Texans,Sun,December 10,1:00PM ET,L,0,7-6,away,New York Jets,6,30,10,135,54,81,0,20,347,268,79,1,-22.37,-2.85,3.08,2023
+573,15,Texans,Sun,December 17,1:00PM ET,W,OT,8-6,away,Tennessee Titans,19,16,21,340,192,148,1,14,204,138,66,1,-9.0,8.62,3.38,2023
+574,16,Texans,Sun,December 24,1:00PM ET,L,0,8-7,home,Cleveland Browns,22,36,20,250,178,72,2,26,418,364,54,2,-9.69,-12.38,8.56,2023
+575,17,Texans,Sun,December 31,1:00PM ET,W,0,9-7,home,Tennessee Titans,26,3,20,312,201,111,0,11,187,134,53,1,3.77,18.77,-1.45,2023
+576,18,Texans,Sat,January 6,8:15PM ET,W,0,10-7,away,Indianapolis Colts,23,19,16,306,246,60,0,21,360,133,227,1,5.93,-3.98,-1.85,2023
+577,0,Texans,0,<strong>Playoffs</strong>,0,0,0,0,home,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,2023
+578,Wild Card,Texans,Sat,January 13,4:30PM ET,W,0,11-7,home,Cleveland Browns,45,14,14,356,280,76,0,18,324,268,56,2,15.45,19.5,-3.91,2023
+579,Division,Texans,Sat,January 20,4:30PM ET,L,0,11-8,away,Baltimore Ravens,10,34,10,213,175,38,0,22,352,123,229,0,-10.33,-15.37,2.77,2023
+580,1,Titans,Sun,September 10,1:00PM ET,L,0,0-1,away,New Orleans Saints,15,16,16,285,181,104,3,15,351,282,69,2,-8.64,-0.83,4.03,2023
+581,2,Titans,Sun,September 17,1:00PM ET,W,OT,1-1,home,Los Angeles Chargers,27,24,22,341,200,141,0,19,342,281,61,0,9.86,-6.8,-0.06,2023
+582,3,Titans,Sun,September 24,1:00PM ET,L,0,1-2,away,Cleveland Browns,3,27,6,94,68,26,0,23,341,263,78,1,-13.12,-13.99,4.04,2023
+583,4,Titans,Sun,October 1,1:00PM ET,W,0,2-2,home,Cincinnati Bengals,27,3,23,400,227,173,1,14,211,139,72,1,18.97,9.18,-1.14,2023
+584,5,Titans,Sun,October 8,1:00PM ET,L,0,2-3,away,Indianapolis Colts,16,23,19,348,259,89,1,21,429,236,193,0,6.32,-16.77,0.89,2023
+585,6,Titans,Sun,October 15,9:30AM ET,L,0,2-4,home,Baltimore Ravens,16,24,17,233,104,129,2,20,360,221,139,1,-1.3,-3.16,-4.65,2023
+586,7,Titans,0,0,0,0,0,0,home,<strong>Bye Week</strong>,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,2023
+587,8,Titans,Sun,October 29,1:00PM ET,W,0,3-4,home,Atlanta Falcons,28,23,17,375,226,149,1,17,342,202,140,1,4.14,3.34,0.17,2023
+588,9,Titans,Thu,November 2,8:15PM ET,L,0,3-5,away,Pittsburgh Steelers,16,20,23,340,235,105,1,22,326,160,166,0,3.61,-10.92,3.77,2023
+589,10,Titans,Sun,November 12,1:00PM ET,L,0,3-6,away,Tampa Bay Buccaneers,6,20,14,209,167,42,1,19,340,263,77,1,-14.75,-7.05,4.53,2023
+590,11,Titans,Sun,November 19,1:00PM ET,L,0,3-7,away,Jacksonville Jaguars,14,34,12,235,143,92,2,24,389,261,128,0,3.96,-21.06,-2.84,2023
+591,12,Titans,Sun,November 26,1:00PM ET,W,0,4-7,home,Carolina Panthers,17,10,15,264,184,80,0,19,258,162,96,1,0.52,7.57,0.58,2023
+592,13,Titans,Sun,December 3,1:00PM ET,L,OT,4-8,home,Indianapolis Colts,28,31,25,381,204,177,2,19,355,300,55,2,3.29,-2.48,-6.88,2023
+593,14,Titans,Mon,December 11,8:15PM ET,W,0,5-8,away,Miami Dolphins,28,27,22,403,320,83,3,20,366,208,158,1,1.86,0.67,-0.42,2023
+594,15,Titans,Sun,December 17,1:00PM ET,L,OT,5-9,home,Houston Texans,16,19,14,204,138,66,1,21,340,192,148,1,-8.62,9.0,-3.38,2023
+595,16,Titans,Sun,December 24,1:00PM ET,L,0,5-10,home,Seattle Seahawks,17,20,23,287,125,162,0,21,273,215,58,0,9.37,-13.04,-0.67,2023
+596,17,Titans,Sun,December 31,1:00PM ET,L,0,5-11,away,Houston Texans,3,26,11,187,134,53,1,20,312,201,111,0,-18.77,-3.77,1.45,2023
+597,18,Titans,Sun,January 7,1:00PM ET,W,0,6-11,home,Jacksonville Jaguars,28,20,19,327,152,175,1,20,362,280,82,2,7.12,0.86,0.99,2023
+598,1,Vikings,Sun,September 10,1:00PM ET,L,0,0-1,home,Tampa Bay Buccaneers,17,20,18,369,328,41,3,16,242,169,73,0,0.1,3.09,-7.66,2023
+599,2,Vikings,Thu,September 14,8:15PM ET,L,0,0-2,away,Philadelphia Eagles,28,34,19,374,346,28,4,24,430,171,259,1,7.44,-14.53,0.51,2023
+600,3,Vikings,Sun,September 24,1:00PM ET,L,0,0-3,home,Los Angeles Chargers,24,28,29,475,345,130,2,24,475,445,30,1,8.26,-15.21,4.83,2023
+601,4,Vikings,Sun,October 1,1:00PM ET,W,0,1-3,away,Carolina Panthers,21,13,14,265,130,135,2,20,232,149,83,1,-5.73,14.29,0.38,2023
+602,5,Vikings,Sun,October 8,4:25PM ET,L,0,1-4,home,Kansas City Chiefs,20,27,24,329,259,70,1,21,333,266,67,0,10.22,-15.55,-0.17,2023
+603,6,Vikings,Sun,October 15,1:00PM ET,W,0,2-4,away,Chicago Bears,19,13,12,220,174,46,1,18,275,113,162,3,-8.38,15.39,0.79,2023
+604,7,Vikings,Mon,October 23,8:15PM ET,W,0,3-4,home,San Francisco 49ers,22,17,24,452,378,74,1,19,325,260,65,3,16.3,-5.43,-6.07,2023
+605,8,Vikings,Sun,October 29,1:00PM ET,W,0,4-4,away,Green Bay Packers,24,10,24,346,284,62,1,16,270,196,74,1,13.6,10.54,-9.64,2023
+606,9,Vikings,Sun,November 5,1:00PM ET,W,0,5-4,away,Atlanta Falcons,31,28,23,363,217,146,2,18,370,260,110,2,1.9,3.4,-3.43,2023
+607,10,Vikings,Sun,November 12,1:00PM ET,W,0,6-4,home,New Orleans Saints,27,19,23,388,263,125,0,16,280,215,65,2,10.78,0.04,-4.27,2023
+608,11,Vikings,Sun,November 19,8:20PM ET,L,0,6-5,away,Denver Broncos,20,21,19,385,210,175,3,13,295,249,46,0,-1.96,3.68,-5.21,2023
+609,12,Vikings,Mon,November 27,8:15PM ET,L,0,6-6,home,Chicago Bears,10,12,15,242,169,73,4,18,317,199,118,2,-10.19,7.29,3.55,2023
+610,13,Vikings,0,0,0,0,0,0,home,<strong>Bye Week</strong>,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,2023
+611,14,Vikings,Sun,December 10,4:05PM ET,W,0,7-6,away,Las Vegas Raiders,3,0,16,231,99,132,0,8,202,146,56,3,-10.05,20.46,-6.43,2023
+612,15,Vikings,Sat,December 16,1:00PM ET,L,OT,7-7,away,Cincinnati Bengals,24,27,24,424,281,143,2,22,378,298,80,1,8.62,-9.29,-1.35,2023
+613,16,Vikings,Sun,December 24,1:00PM ET,L,0,7-8,home,Detroit Lions,24,30,19,390,373,17,4,28,389,246,143,1,11.43,-15.44,-0.61,2023
+614,17,Vikings,Sun,December 31,8:20PM ET,L,0,7-9,home,Green Bay Packers,10,33,13,211,144,67,2,28,470,293,177,1,-14.27,-22.54,12.19,2023
+615,18,Vikings,Sun,January 7,1:00PM ET,L,0,7-10,away,Detroit Lions,20,30,24,448,359,89,2,19,381,311,70,0,4.55,-17.81,-1.13,2023

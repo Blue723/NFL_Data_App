@@ -1,13 +1,15 @@
-,No.,Team,Player,Age,Pos,Games Played,Games Started,Rush TD,Reception TD,Punt Return TD,Kick Return TD,Fumble Return TD,Interception TD,Other TD,All Touchdown Scored,2-Point Conversions Made,Two-Point Conversions Attempted,Defensive Two-Point Conversions,Extra Points Made,Extra Points Allowed,Field Goals Made,Field Goals Attempted,Safeties Scored by Player/Team,Total Points Scored by all Means,Poins per Game
-8,8,Bears,Cairo Santos,32,K,10,0,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,0,19,20,15,16,n/a,64,6.4
-85,85,Bears,Cole Kmet,24,TE,10,10,n/a,5,n/a,n/a,n/a,n/a,n/a,5,n/a,n/a,0,n/a,n/a,n/a,n/a,n/a,30,3.0
-2,2,Bears,D.J. Moore,26,WR,10,10,n/a,5,n/a,n/a,n/a,n/a,n/a,5,n/a,n/a,0,n/a,n/a,n/a,n/a,n/a,30,3.0
-21,21,Bears,D'Onta Foreman,27,RB,6,5,3,1,n/a,n/a,n/a,n/a,n/a,4,n/a,n/a,0,n/a,n/a,n/a,n/a,n/a,24,4.0
-17,17,Bears,Tyson Bagent,23,QB,5,4,2,n/a,n/a,n/a,n/a,n/a,n/a,2,n/a,n/a,0,n/a,n/a,n/a,n/a,n/a,12,2.4
-24,24,Bears,Khalil Herbert,25,RB,5,5,n/a,1,n/a,n/a,n/a,n/a,n/a,1,1,n/a,0,n/a,n/a,n/a,n/a,n/a,8,1.6
-10,10,Bears,Chase Claypool,25,WR,3,2,n/a,1,n/a,n/a,n/a,n/a,n/a,1,n/a,n/a,0,n/a,n/a,n/a,n/a,n/a,6,2.0
-25,25,Bears,Darrynton Evans,25,RB,5,0,1,n/a,n/a,n/a,n/a,n/a,n/a,1,n/a,n/a,0,n/a,n/a,n/a,n/a,n/a,6,1.2
-1,1,Bears,Justin Fields,24,QB,6,6,1,n/a,n/a,n/a,n/a,n/a,n/a,1,n/a,n/a,0,n/a,n/a,n/a,n/a,n/a,6,1.0
-33,33,Bears,Jaylon Johnson,24,DB,8,8,n/a,n/a,n/a,n/a,n/a,1,n/a,1,n/a,n/a,0,n/a,n/a,n/a,n/a,n/a,6,0.8
-23,23,Bears,Roschon Johnson,22,RB,8,0,1,n/a,n/a,n/a,n/a,n/a,n/a,1,n/a,n/a,0,n/a,n/a,n/a,n/a,n/a,6,0.8
-11,11,Bears,Darnell Mooney,26,WR,10,10,n/a,1,n/a,n/a,n/a,n/a,n/a,1,n/a,n/a,0,n/a,n/a,n/a,n/a,n/a,6,0.6
+,No.,Team,Player,Age,Pos,Games Played,Games Started,Rush TD,Reception TD,Punt Return TD,Kick Return TD,Fumble Return TD,Interception TD,Other TD,All Touchdown Scored,2-Point Conversions Made,Two-Point Conversions Attempted,Defensive Two-Point Conversions,Extra Points Made,Extra Points Allowed,Field Goals Made,Field Goals Attempted,Safeties Scored by Player/Team,Total Points Scored by all Means,Poins per Game,Year
+0,8,Bears,Cairo Santos,32,K,17,0,0,0,0,0,0,0,0,0,0,0,0,31,33,35,38,,136,8.0,2023
+1,2,Bears,D.J. Moore,26,WR,17,17,1,8,0,0,0,0,0,9,0,0,0,0,0,0,0,,54,3.2,2023
+2,85,Bears,Cole Kmet,24,TE,17,17,0,6,0,0,0,0,0,6,0,0,0,0,0,0,0,,36,2.1,2023
+3,21,Bears,D'Onta Foreman,27,RB,9,8,4,1,0,0,0,0,0,5,0,0,0,0,0,0,0,,30,3.3,2023
+4,1,Bears,Justin Fields,24,QB,13,13,4,0,0,0,0,0,0,4,0,0,0,0,0,0,0,,24,1.8,2023
+5,24,Bears,Khalil Herbert,25,RB,12,9,2,1,0,0,0,0,0,3,1,0,0,0,0,0,0,,20,1.7,2023
+6,17,Bears,Tyson Bagent,23,QB,5,4,2,0,0,0,0,0,0,2,0,0,0,0,0,0,0,,12,2.4,2023
+7,23,Bears,Roschon Johnson,22,RB,15,0,2,0,0,0,0,0,0,2,0,0,0,0,0,0,0,,12,0.8,2023
+8,10,Bears,Chase Claypool,25,WR,3,2,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,,6,2.0,2023
+9,49,Bears,Tremaine Edmunds,25,LB,15,15,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,,6,0.4,2023
+10,25,Bears,Darrynton Evans,25,RB,5,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,,6,1.2,2023
+11,33,Bears,Jaylon Johnson,24,DB,14,14,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,,6,0.4,2023
+12,84,Bears,Marcedes Lewis,39,TE,17,4,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,,6,0.4,2023
+13,11,Bears,Darnell Mooney,26,WR,15,14,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,,6,0.4,2023

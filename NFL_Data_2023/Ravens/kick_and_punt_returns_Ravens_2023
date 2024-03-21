@@ -1,2 +1,4 @@
-,No.,Team,Player,Age,Position,Games Played,Games Started,Punts Returned,Punts Return Yardage,Punts Returned for Touchdown,Longest Punt Return,Yards per Punt Return,Kickoff Returns,Yardage for Kickoffs Returned,Kickoffs Returned for a Touchdown,Longest Kickoff Return,Yards per Kickoff Return,All-purpose Yards
-13,13,Ravens,Devin Duvernay,26,WR,9,1,18,256,0,70,14.2,6,123,0,28,20.5,412
+,No.,Team,Player,Age,Position,Games Played,Games Started,Punts Returned,Punts Return Yardage,Punts Returned for Touchdown,Longest Punt Return,Yards per Punt Return,Kickoff Returns,Yardage for Kickoffs Returned,Kickoffs Returned for a Touchdown,Longest Kickoff Return,Yards per Kickoff Return,All-purpose Yards,Year
+0,13,Ravens,Devin Duvernay,26,WR,13,1,23,290,0,70,12.6,9,174,0,28,19.3,497,2023
+1,16,Ravens,Tylan Wallace,24,WR,11,0,6,127,1,76,21.2,1,26,0,26,26.0,164,2023
+2,43,Ravens,Justice Hill,26,RB,16,5,0,0,0,0,,3,119,0,78,39.7,712,2023

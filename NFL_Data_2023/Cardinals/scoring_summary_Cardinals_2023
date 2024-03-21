@@ -1,11 +1,16 @@
-,No.,Team,Player,Age,Pos,Games Played,Games Started,Rush TD,Reception TD,Punt Return TD,Kick Return TD,Fumble Return TD,Interception TD,Other TD,All Touchdown Scored,2-Point Conversions Made,Two-Point Conversions Attempted,Defensive Two-Point Conversions,Extra Points Made,Extra Points Allowed,Field Goals Made,Field Goals Attempted,Safeties Scored by Player/Team,Total Points Scored by all Means,Poins per Game
-5,5,Cardinals,Matt Prater,39,K,9,0,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,0,9,10,14,16,n/a,51,5.7
-2,2,Cardinals,Marquise Brown,26,WR,9,9,n/a,4,n/a,n/a,n/a,n/a,n/a,4,n/a,n/a,0,n/a,n/a,n/a,n/a,n/a,24,2.7
-9,9,Cardinals,Joshua Dobbs,28,QB,8,8,3,n/a,n/a,n/a,n/a,n/a,n/a,3,2,n/a,0,n/a,n/a,n/a,n/a,n/a,22,2.8
-6,6,Cardinals,James Conner,28,RB,5,5,2,n/a,n/a,n/a,n/a,n/a,n/a,2,n/a,n/a,0,n/a,n/a,n/a,n/a,n/a,12,2.4
-14,14,Cardinals,Michael Wilson,23,WR,8,7,n/a,2,n/a,n/a,n/a,n/a,n/a,2,n/a,n/a,0,n/a,n/a,n/a,n/a,n/a,12,1.5
-31,31,Cardinals,Emari Demercado,24,RB,8,2,1,n/a,n/a,n/a,n/a,n/a,n/a,1,n/a,n/a,0,n/a,n/a,n/a,n/a,n/a,6,0.8
-86,86,Cardinals,Zach Ertz,33,TE,7,7,n/a,1,n/a,n/a,n/a,n/a,n/a,1,n/a,n/a,0,n/a,n/a,n/a,n/a,n/a,6,0.9
-85,85,Cardinals,Trey McBride,24,TE,9,4,n/a,1,n/a,n/a,n/a,n/a,n/a,1,n/a,n/a,0,n/a,n/a,n/a,n/a,n/a,6,0.7
-4,4,Cardinals,Rondale Moore,23,WR,9,4,1,n/a,n/a,n/a,n/a,n/a,n/a,1,n/a,n/a,0,n/a,n/a,n/a,n/a,n/a,6,0.7
-97,97,Cardinals,Cameron Thomas,23,OLB,9,2,n/a,n/a,n/a,n/a,1,n/a,n/a,1,n/a,n/a,0,n/a,n/a,n/a,n/a,n/a,6,0.7
+,No.,Team,Player,Age,Pos,Games Played,Games Started,Rush TD,Reception TD,Punt Return TD,Kick Return TD,Fumble Return TD,Interception TD,Other TD,All Touchdown Scored,2-Point Conversions Made,Two-Point Conversions Attempted,Defensive Two-Point Conversions,Extra Points Made,Extra Points Allowed,Field Goals Made,Field Goals Attempted,Safeties Scored by Player/Team,Total Points Scored by all Means,Poins per Game,Year
+0,5,Cardinals,Matt Prater,39,K,17,0,0,0,0,0,0,0,0,0,0,0,0,22,23,28,33,,106,6.2,2023
+1,6,Cardinals,James Conner,28,RB,13,13,7,2,0,0,0,0,0,9,0,0,0,0,0,0,0,,54,4.2,2023
+2,2,Cardinals,Marquise Brown,26,WR,14,14,0,4,0,0,0,0,0,4,0,0,0,0,0,0,0,,24,1.7,2023
+3,9,Cardinals,Joshua Dobbs,28,QB,8,8,3,0,0,0,0,0,0,3,2,0,0,0,0,0,0,,22,2.8,2023
+4,14,Cardinals,Michael Wilson,23,WR,13,12,0,3,0,0,0,0,0,3,1,0,0,0,0,0,0,,20,1.5,2023
+5,85,Cardinals,Trey McBride,24,TE,17,12,0,3,0,0,0,0,0,3,0,0,0,0,0,0,0,,18,1.1,2023
+6,1,Cardinals,Kyler Murray,26,QB,8,8,3,0,0,0,0,0,0,3,0,0,0,0,0,0,0,,18,2.3,2023
+7,31,Cardinals,Emari Demercado,24,RB,14,2,2,0,0,0,0,0,0,2,0,0,0,0,0,0,0,,12,0.9,2023
+8,83,Cardinals,Greg Dortch,25,WR,16,4,0,2,0,0,0,0,0,2,0,0,0,0,0,0,0,,12,0.8,2023
+9,4,Cardinals,Rondale Moore,23,WR,17,8,1,1,0,0,0,0,0,2,0,0,0,0,0,0,0,,12,0.7,2023
+10,15,Cardinals,Clayton Tune,24,QB,7,1,1,0,0,0,0,0,0,1,1,0,0,0,0,0,0,,8,1.1,2023
+11,22,Cardinals,Michael Carter,24,RB,6,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,,6,1.0,2023
+12,86,Cardinals,Zach Ertz,33,TE,7,7,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,,6,0.9,2023
+13,84,Cardinals,Elijah Higgins,23,TE,11,2,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,,6,0.5,2023
+14,97,Cardinals,Cameron Thomas,23,OLB,15,3,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,,6,0.4,2023

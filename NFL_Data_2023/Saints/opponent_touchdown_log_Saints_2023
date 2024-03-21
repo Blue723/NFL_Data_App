@@ -1,18 +1,35 @@
-,Rank,Team,Date,Opponent,Results,Quarter,Distance,Type,Detail
-1,1,Saints,2023-09-18,CAR,"W, 20-17",4,3,pass,Adam Thielen
-2,2,Saints,2023-09-24,GNB,"L, 17-18",4,1,rush,Jordan Love
-3,3,Saints,2023-09-24,GNB,"L, 17-18",4,8,pass,Romeo Doubs
-4,4,Saints,2023-10-01,TAM,"L, 9-26",2,4,pass,Cade Otton
-5,5,Saints,2023-10-01,TAM,"L, 9-26",2,1,pass,Trey Palmer
-6,6,Saints,2023-10-01,TAM,"L, 9-26",4,5,pass,Deven Thompkins
-7,7,Saints,2023-10-15,HOU,"L, 13-20",1,1,pass,Dalton Schultz
-8,8,Saints,2023-10-15,HOU,"L, 13-20",2,6,pass,Robert Woods
-9,9,Saints,2023-10-19,JAX,"L, 24-31",1,2,rush,Travis Etienne
-10,10,Saints,2023-10-19,JAX,"L, 24-31",2,17,rush,Travis Etienne
-11,11,Saints,2023-10-19,JAX,"L, 24-31",3,24,interception,Foyesade Oluokun
-12,12,Saints,2023-10-19,JAX,"L, 24-31",4,44,pass,Christian Kirk
-13,13,Saints,2023-10-29,IND,"W, 38-27",1,10,pass,Michael Pittman Jr.
-14,14,Saints,2023-10-29,IND,"W, 38-27",2,1,rush,Zack Moss
-15,15,Saints,2023-10-29,IND,"W, 38-27",4,33,pass,Andrew Ogletree
-16,16,Saints,2023-11-05,CHI,"W, 24-17",1,18,pass,Cole Kmet
-17,17,Saints,2023-11-05,CHI,"W, 24-17",2,9,pass,Cole Kmet
+,Rank,Team,Date,Opponent,Win/Loss,Score,Quarter,Distance,Type,Detail,Year
+0,1,Saints,09/18/2023,CAR,Win, 20-17,4,3,pass,Adam Thielen,2023
+1,2,Saints,09/24/2023,GNB,Loss, 17-18,4,1,rush,Jordan Love,2023
+2,3,Saints,09/24/2023,GNB,Loss, 17-18,4,8,pass,Romeo Doubs,2023
+3,4,Saints,10/01/2023,TAM,Loss, 9-26,2,4,pass,Cade Otton,2023
+4,5,Saints,10/01/2023,TAM,Loss, 9-26,2,1,pass,Trey Palmer,2023
+5,6,Saints,10/01/2023,TAM,Loss, 9-26,4,5,pass,Deven Thompkins,2023
+6,7,Saints,10/15/2023,HOU,Loss, 13-20,1,1,pass,Dalton Schultz,2023
+7,8,Saints,10/15/2023,HOU,Loss, 13-20,2,6,pass,Robert Woods,2023
+8,9,Saints,10/19/2023,JAX,Loss, 24-31,1,2,rush,Travis Etienne,2023
+9,10,Saints,10/19/2023,JAX,Loss, 24-31,2,17,rush,Travis Etienne,2023
+10,11,Saints,10/19/2023,JAX,Loss, 24-31,3,24,interception,Foyesade Oluokun,2023
+11,12,Saints,10/19/2023,JAX,Loss, 24-31,4,44,pass,Christian Kirk,2023
+12,13,Saints,10/29/2023,IND,Win, 38-27,1,10,pass,Michael Pittman Jr.,2023
+13,14,Saints,10/29/2023,IND,Win, 38-27,2,1,rush,Zack Moss,2023
+14,15,Saints,10/29/2023,IND,Win, 38-27,4,33,pass,Andrew Ogletree,2023
+15,16,Saints,11/05/2023,CHI,Win, 24-17,1,18,pass,Cole Kmet,2023
+16,17,Saints,11/05/2023,CHI,Win, 24-17,2,9,pass,Cole Kmet,2023
+17,18,Saints,11/12/2023,MIN,Loss, 19-27,2,2,rush,Ty Chandler,2023
+18,19,Saints,11/12/2023,MIN,Loss, 19-27,2,7,rush,Joshua Dobbs,2023
+19,20,Saints,11/12/2023,MIN,Loss, 19-27,2,28,pass,T.J. Hockenson,2023
+20,21,Saints,11/26/2023,ATL,Loss, 15-24,1,92,interception,Jessie Bates III,2023
+21,22,Saints,11/26/2023,ATL,Loss, 15-24,2,10,rush,Bijan Robinson,2023
+22,23,Saints,11/26/2023,ATL,Loss, 15-24,4,26,pass,Bijan Robinson,2023
+23,24,Saints,12/03/2023,DET,Loss, 28-33,1,2,rush,David Montgomery,2023
+24,25,Saints,12/03/2023,DET,Loss, 28-33,1,13,pass,Sam LaPorta,2023
+25,26,Saints,12/03/2023,DET,Loss, 28-33,1,25,pass,Amon-Ra St. Brown,2023
+26,27,Saints,12/03/2023,DET,Loss, 28-33,4,19,rush,Jameson Williams,2023
+27,28,Saints,12/21/2023,LAR,Loss, 22-30,1,2,pass,Puka Nacua,2023
+28,29,Saints,12/21/2023,LAR,Loss, 22-30,2,4,pass,Demarcus Robinson,2023
+29,30,Saints,12/21/2023,LAR,Loss, 22-30,3,10,rush,Kyren Williams,2023
+30,31,Saints,12/31/2023,TAM,Win, 23-13,4,22,pass,Trey Palmer,2023
+31,32,Saints,12/31/2023,TAM,Win, 23-13,4,47,pass,Chris Godwin,2023
+32,33,Saints,01/07/2024,ATL,Win, 48-17,1,15,pass,Jonnu Smith,2023
+33,34,Saints,01/07/2024,ATL,Win, 48-17,1,71,pass,Bijan Robinson,2023

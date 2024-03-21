@@ -1,19 +1,19 @@
-,Week,Team,Day,Date,Time,Win/Loss,Overtime,Team Record,Home/Away,Opponent,Points Scored,Points Allowed,Offense 1st Down,Total Yards Gained of Offense,Total yards Gained by Passing,Total Yards Gained by Rushing,Offense Turnovers,Defense 1st Down,Total Yards Allowed by Defense,Total Passing Yards Allowed by Defense,Total Rushing Yards Allowed by Defense,Defense Turnovers,Offense,Defense,Sp. Tms
-1,1,Panthers,Sun,September 10,1:00PM ET,L,n/a,0-1,away,Atlanta Falcons,10,24,20,281,127,154,3,13,221,91,130,n/a,-16.61,2.92,0.20
-2,2,Panthers,Mon,September 18,7:15PM ET,L,n/a,0-2,home,New Orleans Saints,17,20,14,239,139,100,1,23,341,207,134,1,-6.94,-3.81,6.10
-3,3,Panthers,Sun,September 24,4:05PM ET,L,n/a,0-3,away,Seattle Seahawks,27,37,23,378,334,44,n/a,27,425,279,146,1,6.08,-10.21,-4.29
-4,4,Panthers,Sun,October 1,1:00PM ET,L,n/a,0-4,home,Minnesota Vikings,13,21,20,232,149,83,1,14,265,130,135,2,-14.29,5.73,-0.38
-5,5,Panthers,Sun,October 8,1:00PM ET,L,n/a,0-5,away,Detroit Lions,24,42,26,342,243,99,3,23,377,218,159,n/a,4.10,-21.57,-0.86
-6,6,Panthers,Sun,October 15,1:00PM ET,L,n/a,0-6,away,Miami Dolphins,21,42,21,296,188,108,n/a,23,424,262,162,1,-6.44,-14.79,0.33
-7,7,Panthers,n/a,n/a,n/a,n/a,n/a,n/a,home,<strong>Bye Week</strong>,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
-8,8,Panthers,Sun,October 29,1:00PM ET,W,n/a,1-6,home,Houston Texans,15,13,20,224,180,44,n/a,16,229,119,110,1,0.91,3.60,-2.13
-9,9,Panthers,Sun,November 5,4:05PM ET,L,n/a,1-7,home,Indianapolis Colts,13,27,17,275,137,138,3,17,198,120,78,1,-23.07,3.93,2.92
-10,10,Panthers,Thu,November 9,8:15PM ET,L,n/a,1-8,away,Chicago Bears,13,16,12,213,170,43,n/a,21,295,162,133,n/a,-6.28,0.42,1.84
-11,11,Panthers,Sun,November 19,1:00PM ET,n/a,n/a,n/a,home,Dallas Cowboys,0,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
-12,12,Panthers,Sun,November 26,1:00PM ET,n/a,n/a,n/a,away,Tennessee Titans,0,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
-13,13,Panthers,Sun,December 3,1:00PM ET,n/a,n/a,n/a,away,Tampa Bay Buccaneers,0,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
-14,14,Panthers,Sun,December 10,1:00PM ET,n/a,n/a,n/a,away,New Orleans Saints,0,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
-15,15,Panthers,Sun,December 17,1:00PM ET,n/a,n/a,n/a,home,Atlanta Falcons,0,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
-16,16,Panthers,Sun,December 24,1:00PM ET,n/a,n/a,n/a,home,Green Bay Packers,0,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
-17,17,Panthers,Sun,December 31,1:00PM ET,n/a,n/a,n/a,away,Jacksonville Jaguars,0,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
-18,18,Panthers,Sun,January 7,1:00PM ET,n/a,n/a,n/a,home,Tampa Bay Buccaneers,0,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+,Week,Team,Day,Date,Time,Win/Loss,Overtime,Team Record,Home/Away,Opponent,Points Scored,Points Allowed,Offense 1st Down,Total Yards Gained of Offense,Total yards Gained by Passing,Total Yards Gained by Rushing,Offense Turnovers,Defense 1st Down,Total Yards Allowed by Defense,Total Passing Yards Allowed by Defense,Total Rushing Yards Allowed by Defense,Defense Turnovers,Offense,Defense,Sp. Tms,Year
+0,0,Panthers,Sun,September 10,,L,0,0-1,away,Atlanta Falcons,10,24,20,281,127,154,3,13,221,91,130,0,-16.61,2.92,0.2,2023
+1,1,Panthers,Mon,September 18,,L,0,0-2,home,New Orleans Saints,17,20,14,239,139,100,1,23,341,207,134,1,-6.94,-3.81,6.1,2023
+2,2,Panthers,Sun,September 24,,L,0,0-3,away,Seattle Seahawks,27,37,23,378,334,44,0,27,425,279,146,1,6.08,-10.21,-4.29,2023
+3,3,Panthers,Sun,October 1,,L,0,0-4,home,Minnesota Vikings,13,21,20,232,149,83,1,14,265,130,135,2,-14.29,5.73,-0.38,2023
+4,4,Panthers,Sun,October 8,,L,0,0-5,away,Detroit Lions,24,42,26,342,243,99,3,23,377,218,159,0,4.1,-21.57,-0.86,2023
+5,5,Panthers,Sun,October 15,,L,0,0-6,away,Miami Dolphins,21,42,21,296,188,108,0,23,424,262,162,1,-6.44,-14.79,0.33,2023
+6,6,Panthers,,,,,0,,home,<strong>Bye Week</strong>,0,0,0,0,0,0,0,0,0,0,0,0,,,,2023
+7,7,Panthers,Sun,October 29,,W,0,1-6,home,Houston Texans,15,13,20,224,180,44,0,16,229,119,110,1,0.91,3.6,-2.13,2023
+8,8,Panthers,Sun,November 5,,L,0,1-7,home,Indianapolis Colts,13,27,17,275,137,138,3,17,198,120,78,1,-23.07,3.93,2.92,2023
+9,9,Panthers,Thu,November 9,,L,0,1-8,away,Chicago Bears,13,16,12,213,170,43,0,21,295,162,133,0,-6.28,0.42,1.84,2023
+10,10,Panthers,Sun,November 19,,L,0,1-9,home,Dallas Cowboys,10,33,13,187,77,110,2,23,311,204,107,0,-13.81,-14.98,6.04,2023
+11,11,Panthers,Sun,November 26,,L,0,1-10,away,Tennessee Titans,10,17,19,258,162,96,1,15,264,184,80,0,-7.57,-0.52,-0.58,2023
+12,12,Panthers,Sun,December 3,,L,0,1-11,away,Tampa Bay Buccaneers,18,21,15,282,149,133,1,15,322,194,128,1,-4.36,-1.83,1.51,2023
+13,13,Panthers,Sun,December 10,,L,0,1-12,away,New Orleans Saints,6,28,16,303,99,204,2,14,207,110,97,1,-20.04,2.19,-1.99,2023
+14,14,Panthers,Sun,December 17,,W,0,2-12,home,Atlanta Falcons,9,7,17,283,154,129,0,12,204,152,52,2,-9.24,10.46,0.79,2023
+15,15,Panthers,Sun,December 24,,L,0,2-13,home,Green Bay Packers,30,33,26,394,298,96,0,25,369,207,162,0,20.51,-19.16,-1.99,2023
+16,16,Panthers,Sun,December 31,,L,0,2-14,away,Jacksonville Jaguars,0,26,7,124,67,57,1,16,317,162,155,0,-24.8,-6.77,4.36,2023
+17,17,Panthers,Sun,January 7,,L,0,2-15,home,Tampa Bay Buccaneers,0,9,11,199,68,131,2,14,228,115,113,0,-13.18,7.74,-6.13,2023

@@ -1,6 +1,7 @@
-,No.,Team,Player,Age,Position,Games Played,Games Started,Punts Returned,Punts Return Yardage,Punts Returned for Touchdown,Longest Punt Return,Yards per Punt Return,Kickoff Returns,Yardage for Kickoffs Returned,Kickoffs Returned for a Touchdown,Longest Kickoff Return,Yards per Kickoff Return,All-purpose Yards
-18,18,Eagles,Britain Covey,26,WR,9,0,16,224,0,52,14.0,1,30,0,30,30.0,254
-82,82,Eagles,Devon Allen,29,WR,2,0,n/a,n/a,0,n/a,n/a,1,17,0,17,17.0,17
-35,35,Eagles,Boston Scott,28,RB,7,0,n/a,n/a,0,n/a,n/a,1,38,0,38,38.0,108
-16,16,Eagles,Quez Watkins,25,WR,3,2,n/a,n/a,0,n/a,n/a,1,11,0,11,11.0,32
-13,13,Eagles,Olamide Zaccheaus,26,WR,9,1,n/a,n/a,0,n/a,n/a,1,7,0,7,7.0,94
+,No.,Team,Player,Age,Position,Games Played,Games Started,Punts Returned,Punts Return Yardage,Punts Returned for Touchdown,Longest Punt Return,Yards per Punt Return,Kickoff Returns,Yardage for Kickoffs Returned,Kickoffs Returned for a Touchdown,Longest Kickoff Return,Yards per Kickoff Return,All-purpose Yards,Year
+0,18,Eagles,Britain Covey,26,WR,16,0,29,417,0,54,14.4,1,30,0,30,30.0,489,2023
+1,35,Eagles,Boston Scott,28,RB,15,0,0,0,0,0,,8,170,0,38,21.3,308,2023
+2,82,Eagles,Devon Allen,29,WR,2,0,0,0,0,0,,1,17,0,17,17.0,17,2023
+3,14,Eagles,Kenneth Gainwell,24,RB,16,2,0,0,0,0,,1,19,0,19,19.0,566,2023
+4,16,Eagles,Quez Watkins,25,WR,9,5,0,0,0,0,,1,11,0,11,11.0,153,2023
+5,13,Eagles,Olamide Zaccheaus,26,WR,17,1,0,0,0,0,,1,7,0,7,7.0,171,2023

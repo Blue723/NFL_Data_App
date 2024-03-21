@@ -1,6 +1,6 @@
-,No.,Team,Player,Age,Position,Games Played,Games Started,Punts Returned,Punts Return Yardage,Punts Returned for Touchdown,Longest Punt Return,Yards per Punt Return,Kickoff Returns,Yardage for Kickoffs Returned,Kickoffs Returned for a Touchdown,Longest Kickoff Return,Yards per Kickoff Return,All-purpose Yards
-9,9,Cowboys,KaVontae Turpin,27,WR,8,0,10,68,0,15,6.8,6,190,0,63,31.7,393
-23,23,Cowboys,Rico Dowdle,25,RB,8,0,n/a,n/a,0,n/a,n/a,4,74,0,31,18.5,264
-40,40,Cowboys,Hunter Luepke,23,RB,8,0,n/a,n/a,0,n/a,n/a,1,0,0,5,0.0,23
-18,18,Cowboys,Jalen Tolbert,24,WR,8,3,1,0,0,0,0.0,n/a,n/a,0,n/a,n/a,120
-42,42,Cowboys,Deuce Vaughn,22,RB,5,0,1,10,0,10,10.0,n/a,n/a,0,n/a,n/a,69
+,No.,Team,Player,Age,Position,Games Played,Games Started,Punts Returned,Punts Return Yardage,Punts Returned for Touchdown,Longest Punt Return,Yards per Punt Return,Kickoff Returns,Yardage for Kickoffs Returned,Kickoffs Returned for a Touchdown,Longest Kickoff Return,Yards per Kickoff Return,All-purpose Yards,Year
+0,9,Cowboys,KaVontae Turpin,27,WR,16,0,13,79,0,15,6.1,10,292,0,63,29.2,608,2023
+1,23,Cowboys,Rico Dowdle,25,RB,16,0,0,0,0,0,,6,86,0,31,14.3,591,2023
+2,42,Cowboys,Deuce Vaughn,22,RB,7,0,4,19,0,11,4.8,0,0,0,0,,99,2023
+3,40,Cowboys,Hunter Luepke,23,RB,17,0,0,0,0,0,,2,15,0,15,7.5,52,2023
+4,18,Cowboys,Jalen Tolbert,24,WR,17,6,1,0,0,0,0.0,0,0,0,0,,268,2023

@@ -1,4 +1,5 @@
-,No.,Team,Player,Age,Position,Games Played,Games Started,Punts Returned,Punts Return Yardage,Punts Returned for Touchdown,Longest Punt Return,Yards per Punt Return,Kickoff Returns,Yardage for Kickoffs Returned,Kickoffs Returned for a Touchdown,Longest Kickoff Return,Yards per Kickoff Return,All-purpose Yards
-11,11,Panthers,Ihmir Smith-Marsette,24,WR,9,0,22,208,1,79,9.5,n/a,n/a,0,n/a,n/a,208
-3,3,Panthers,Raheem Blackshear,24,RB,5,0,n/a,n/a,0,n/a,n/a,6,211,0,52,35.2,282
-5,5,Panthers,Laviska Shenault Jr.,25,WR,6,0,n/a,n/a,0,n/a,n/a,5,136,0,37,27.2,234
+,No.,Team,Player,Age,Position,Games Played,Games Started,Punts Returned,Punts Return Yardage,Punts Returned for Touchdown,Longest Punt Return,Yards per Punt Return,Kickoff Returns,Yardage for Kickoffs Returned,Kickoffs Returned for a Touchdown,Longest Kickoff Return,Yards per Kickoff Return,All-purpose Yards,Year
+0,11,Panthers,Ihmir Smith-Marsette,24,WR,17,0,37,322,1,79,8.7,0,0,0,0,,447,2023
+1,3,Panthers,Raheem Blackshear,24,RB,12,0,0,0,0,0,,16,430,0,52,26.9,521,2023
+2,5,Panthers,Laviska Shenault Jr.,25,WR,8,0,0,0,0,0,,6,167,0,37,27.8,282,2023
+3,29,Panthers,D'Shawn Jamison,24,CB,15,1,0,0,0,0,,2,40,0,22,20.0,40,2023

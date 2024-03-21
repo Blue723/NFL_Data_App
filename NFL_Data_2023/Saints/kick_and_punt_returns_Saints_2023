@@ -1,2 +1,4 @@
-,No.,Team,Player,Age,Position,Games Played,Games Started,Punts Returned,Punts Return Yardage,Punts Returned for Touchdown,Longest Punt Return,Yards per Punt Return,Kickoff Returns,Yardage for Kickoffs Returned,Kickoffs Returned for a Touchdown,Longest Kickoff Return,Yards per Kickoff Return,All-purpose Yards
-22,22,Saints,Rashid Shaheed,25,WR,9,4,15,231,1,76,15.4,14,289,0,27,20.6,1054
+,No.,Team,Player,Age,Position,Games Played,Games Started,Punts Returned,Punts Return Yardage,Punts Returned for Touchdown,Longest Punt Return,Yards per Punt Return,Kickoff Returns,Yardage for Kickoffs Returned,Kickoffs Returned for a Touchdown,Longest Kickoff Return,Yards per Kickoff Return,All-purpose Yards,Year
+0,22,Saints,Rashid Shaheed,25,WR,15,8,25,339,1,76,13.6,18,384,0,28,21.3,1479,2023
+1,5,Saints,Lynn Bowden Jr.,26,WR,15,3,7,53,0,16,7.6,3,64,0,28,21.3,232,2023
+2,7,Saints,Taysom Hill,33,QB,16,7,0,0,0,0,,1,18,0,18,18.0,710,2023

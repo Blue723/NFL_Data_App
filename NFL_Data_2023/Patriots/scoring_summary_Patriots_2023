@@ -1,10 +1,14 @@
-,No.,Team,Player,Age,Pos,Games Played,Games Started,Rush TD,Reception TD,Punt Return TD,Kick Return TD,Fumble Return TD,Interception TD,Other TD,All Touchdown Scored,2-Point Conversions Made,Two-Point Conversions Attempted,Defensive Two-Point Conversions,Extra Points Made,Extra Points Allowed,Field Goals Made,Field Goals Attempted,Safeties Scored by Player/Team,Total Points Scored by all Means,Poins per Game
-37,37,Patriots,Chad Ryland,24,K,9,0,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,0,13,13,10,14,n/a,43,4.8
-84,84,Patriots,Kendrick Bourne,28,WR,8,5,n/a,4,n/a,n/a,n/a,n/a,n/a,4,n/a,n/a,0,n/a,n/a,n/a,n/a,n/a,24,3.0
-85,85,Patriots,Hunter Henry,29,TE,9,7,n/a,3,n/a,n/a,n/a,n/a,n/a,3,n/a,n/a,0,n/a,n/a,n/a,n/a,n/a,18,2.0
-38,38,Patriots,Rhamondre Stevenson,25,RB,9,9,3,n/a,n/a,n/a,n/a,n/a,n/a,3,n/a,n/a,0,n/a,n/a,n/a,n/a,n/a,18,2.0
-15,15,Patriots,Ezekiel Elliott,28,RB,9,0,2,n/a,n/a,n/a,n/a,n/a,n/a,2,n/a,n/a,0,n/a,n/a,n/a,n/a,n/a,12,1.3
-86,86,Patriots,Pharaoh Brown,29,TE,9,4,n/a,1,n/a,n/a,n/a,n/a,n/a,1,n/a,n/a,0,n/a,n/a,n/a,n/a,n/a,6,0.7
-88,88,Patriots,Mike Gesicki,28,TE,9,5,n/a,1,n/a,n/a,n/a,n/a,n/a,1,n/a,n/a,0,n/a,n/a,n/a,n/a,n/a,6,0.7
-7,7,Patriots,JuJu Smith-Schuster,27,WR,7,3,n/a,1,n/a,n/a,n/a,n/a,n/a,1,n/a,n/a,0,n/a,n/a,n/a,n/a,n/a,6,0.9
-9,9,Patriots,Matt Judon,31,LB,4,2,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,0,n/a,n/a,n/a,n/a,1,2,0.5
+,No.,Team,Player,Age,Pos,Games Played,Games Started,Rush TD,Reception TD,Punt Return TD,Kick Return TD,Fumble Return TD,Interception TD,Other TD,All Touchdown Scored,2-Point Conversions Made,Two-Point Conversions Attempted,Defensive Two-Point Conversions,Extra Points Made,Extra Points Allowed,Field Goals Made,Field Goals Attempted,Safeties Scored by Player/Team,Total Points Scored by all Means,Poins per Game,Year
+0,37,Patriots,Chad Ryland,24,K,17,0,0,0,0,0,0,0,0,0,0,0,0,24,25,16,25,,72,4.2,2023
+1,85,Patriots,Hunter Henry,29,TE,14,10,0,6,0,0,0,0,0,6,0,0,0,0,0,0,0,,36,2.6,2023
+2,15,Patriots,Ezekiel Elliott,28,RB,17,5,3,2,0,0,0,0,0,5,0,0,0,0,0,0,0,,30,1.8,2023
+3,84,Patriots,Kendrick Bourne,28,WR,8,5,0,4,0,0,0,0,0,4,0,0,0,0,0,0,0,,24,3.0,2023
+4,38,Patriots,Rhamondre Stevenson,25,RB,12,12,4,0,0,0,0,0,0,4,0,0,0,0,0,0,0,,24,2.0,2023
+5,88,Patriots,Mike Gesicki,28,TE,17,10,0,2,0,0,0,0,0,2,0,0,0,0,0,0,0,,12,0.7,2023
+6,86,Patriots,Pharaoh Brown,29,TE,17,11,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,,6,0.4,2023
+7,22,Patriots,Cody Davis,34,DB,11,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,,6,0.5,2023
+8,36,Patriots,Kevin Harris,23,RB,4,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,,6,1.5,2023
+9,83,Patriots,Jalen Reagor,24,WR,11,1,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,,6,0.5,2023
+10,7,Patriots,JuJu Smith-Schuster,27,WR,11,7,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,,6,0.5,2023
+11,4,Patriots,Bailey Zappe,24,QB,10,6,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,,6,0.6,2023
+12,9,Patriots,Matt Judon,31,LB,4,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1.0,2,0.5,2023

@@ -1,16 +1,17 @@
-,No.,Team,Player,Age,Position,Games Played,Games Started as an Offensive or Defensive Player,Rushing Attempts,Rushing Yards Gained,Rushing Touchdown,First Downs Rushing,Rushing Success Rate,Longest Rushing Attempt,Rushing Yards per Attempt,Rushing Yards per Game,Rushing Attempts per Game,Pass Targets,Receptions,Receiving Yards,Receiving Yards per Reception,Receiving Touchdowns,First Downs Receiving,Receiving Success Rate,Longest Reception,Receptions per Game,Receiving Yards per Game,Catch%,Receiving Yards per Target,Touches: Rushing Attempts and Receptions,Scrimmage Yards per Touch: Rushing + Receiving Yardage per Opportunity,Yards from Scrimmage: Receiving and Rushing Yards,Rushing and Receiving Touchdowns,Lost and Recovered Fumbles
-22,22,Steelers,Najee Harris,25,RB,8,8,100,382,2,20,44.0,25,3.8,47.8,12.5,21,15,101,6.7,0,4,42.9,32,1.9,12.6,71.4%,4.8,115,4.2,483,2,1
-30,30,Steelers,Jaylen Warren,25,RB,8,0,56,263,1,14,48.2,22,4.7,32.9,7.0,35,29,209,7.2,0,8,48.6,30,3.6,26.1,82.9%,6.0,85,5.6,472,1,1
-8,8,Steelers,Kenny Pickett,25,QB,8,8,26,21,1,8,34.6,10,0.8,2.6,3.3,n/a,n/a,n/a,n/a,0,n/a,n/a,n/a,n/a,n/a,n/a,n/a,26,0.8,21,1,1
-19,19,Steelers,Calvin Austin,24,WR,8,1,7,24,0,2,42.9,10,3.4,3.0,0.9,25,14,162,11.6,1,5,40.0,72,1.8,20.3,56.0%,6.5,21,8.9,186,1,n/a
-10,10,Steelers,Mitchell Trubisky,29,QB,2,0,3,18,0,1,100.0,8,6.0,9.0,1.5,n/a,n/a,n/a,n/a,0,n/a,n/a,n/a,n/a,n/a,n/a,n/a,3,6.0,18,0,n/a
-14,14,Steelers,George Pickens,22,WR,8,8,1,16,0,1,100.0,16,16.0,2.0,0.1,58,30,521,17.4,3,20,43.1,71,3.8,65.1,51.7%,9.0,31,17.3,537,3,1
-83,83,Steelers,Connor Heyward,24,TE,8,3,1,0,0,0,0.0,0,0.0,0.0,0.1,22,14,105,7.5,0,5,54.5,12,1.8,13.1,63.6%,4.8,15,7.0,105,0,n/a
-18,18,Steelers,Diontae Johnson,27,WR,5,4,n/a,n/a,0,n/a,n/a,n/a,n/a,n/a,n/a,35,23,302,13.1,1,16,62.9,39,4.6,60.4,65.7%,8.6,23,13.1,302,1,n/a
-11,11,Steelers,Allen Robinson,30,WR,8,8,n/a,n/a,0,n/a,n/a,n/a,n/a,n/a,n/a,30,19,154,8.1,0,5,43.3,31,2.4,19.3,63.3%,5.1,19,8.1,154,0,n/a
-88,88,Steelers,Pat Freiermuth,25,TE,4,4,n/a,n/a,0,n/a,n/a,n/a,n/a,n/a,n/a,13,8,53,6.6,2,4,38.5,14,2.0,13.3,61.5%,4.1,8,6.6,53,2,n/a
-13,13,Steelers,Miles Boykin,27,WR,8,0,n/a,n/a,0,n/a,n/a,n/a,n/a,n/a,n/a,3,2,11,5.5,0,n/a,33.3,6,0.3,1.4,66.7%,3.7,2,5.5,11,0,n/a
-26,26,Steelers,Anthony McFarland Jr.,24,RB,2,0,n/a,n/a,0,n/a,n/a,n/a,n/a,n/a,n/a,2,2,11,5.5,0,1,100.0,6,1.0,5.5,100.0%,5.5,2,5.5,11,0,n/a
-80,80,Steelers,Darnell Washington,22,TE,8,4,n/a,n/a,0,n/a,n/a,n/a,n/a,n/a,n/a,4,2,17,8.5,0,2,50.0,10,0.3,2.1,50.0%,4.3,2,8.5,17,0,n/a
-89,89,Steelers,Gunner Olszewski,27,WR,2,0,n/a,n/a,0,n/a,n/a,n/a,n/a,n/a,n/a,1,1,0,0.0,0,n/a,0.0,0,0.5,0.0,100.0%,0.0,1,0.0,n/a,0,2
-87,87,Steelers,Rodney Williams,25,TE,4,0,n/a,n/a,0,n/a,n/a,n/a,n/a,n/a,n/a,2,0,0,n/a,0,n/a,0.0,0,0.0,0.0,0.0%,0.0,n/a,n/a,n/a,0,n/a
+,No.,Team,Player,Age,Position,Games Played,Games Started as an Offensive or Defensive Player,Rushing Attempts,Rushing Yards Gained,Rushing Touchdown,First Downs Rushing,Rushing Success Rate,Longest Rushing Attempt,Rushing Yards per Attempt,Rushing Yards per Game,Rushing Attempts per Game,Pass Targets,Receptions,Receiving Yards,Receiving Yards per Reception,Receiving Touchdowns,First Downs Receiving,Receiving Success Rate,Longest Reception,Receptions per Game,Receiving Yards per Game,Catch Per.,Receiving Yards per Target,Touches: Rushing Attempts and Receptions,Scrimmage Yards per Touch: Rushing + Receiving Yardage per Opportunity,Yards from Scrimmage: Receiving and Rushing Yards,Rushing and Receiving Touchdowns,Lost and Recovered Fumbles,Year
+0,22,Steelers,Najee Harris,25,RB,17,17,255,1035,8,51,48.2,25,4.1,60.9,15.0,38,29,170,5.9,0,9,50.0,32,1.7,10.0,76.3,4.5,284,4.2,1205,8,2,2023
+1,30,Steelers,Jaylen Warren,25,RB,17,0,149,784,4,36,49.7,74,5.3,46.1,8.8,74,61,370,6.1,0,19,44.6,30,3.6,21.8,82.4,5.0,210,5.5,1154,4,4,2023
+2,8,Steelers,Kenny Pickett,25,QB,12,12,42,54,1,12,38.1,11,1.3,4.5,3.5,0,0,0,,0,0,,0,,,0.0,,42,1.3,54,1,2,2023
+3,10,Steelers,Mitchell Trubisky,29,QB,5,2,16,54,2,6,50.0,15,3.4,10.8,3.2,0,0,0,,0,0,,0,,,0.0,,16,3.4,54,2,1,2023
+4,19,Steelers,Calvin Austin,24,WR,17,1,11,57,1,4,63.6,12,5.2,3.4,0.6,30,17,180,10.6,1,7,40.0,72,1.0,10.6,56.7,6.0,28,8.5,237,2,2,2023
+5,2,Steelers,Mason Rudolph,28,QB,4,3,10,8,0,4,40.0,7,0.8,2.0,2.5,0,0,0,,0,0,,0,,,0.0,,10,0.8,8,0,3,2023
+6,14,Steelers,George Pickens,22,WR,17,16,3,18,0,2,66.7,16,6.0,1.1,0.2,106,63,1140,18.1,5,42,50.9,86,3.7,67.1,59.4,10.8,66,17.5,1158,5,3,2023
+7,83,Steelers,Connor Heyward,24,TE,17,7,1,0,0,0,0.0,0,0.0,0.0,0.1,34,23,167,7.3,0,8,47.1,13,1.4,9.8,67.6,4.9,24,7.0,167,0,0,2023
+8,18,Steelers,Diontae Johnson,27,WR,13,11,0,0,0,0,,0,,,,87,51,717,14.1,5,37,52.9,71,3.9,55.2,58.6,8.2,51,14.1,717,5,1,2023
+9,11,Steelers,Allen Robinson,30,WR,17,17,0,0,0,0,,0,,,,49,34,280,8.2,0,9,44.9,31,2.0,16.5,69.4,5.7,34,8.2,280,0,0,2023
+10,88,Steelers,Pat Freiermuth,25,TE,12,9,0,0,0,0,,0,,,,47,32,308,9.6,2,17,48.9,29,2.7,25.7,68.1,6.6,32,9.6,308,2,0,2023
+11,80,Steelers,Darnell Washington,22,TE,17,7,0,0,0,0,,0,,,,10,7,61,8.7,0,4,60.0,12,0.4,3.6,70.0,6.1,7,8.7,61,0,0,2023
+12,13,Steelers,Miles Boykin,27,WR,17,0,0,0,0,0,,0,,,,4,3,17,5.7,0,0,50.0,6,0.2,1.0,75.0,4.3,3,5.7,17,0,0,2023
+13,26,Steelers,Anthony McFarland Jr.,24,RB,3,0,0,0,0,0,,0,,,,2,2,11,5.5,0,1,100.0,6,0.7,3.7,100.0,5.5,2,5.5,11,0,0,2023
+14,89,Steelers,Gunner Olszewski,27,WR,2,0,0,0,0,0,,0,,,,1,1,0,0.0,0,0,0.0,0,0.5,0.0,100.0,0.0,1,0.0,0,0,2,2023
+15,87,Steelers,Rodney Williams,25,TE,13,0,0,0,0,0,,0,,,,2,0,0,,0,0,0.0,0,0.0,0.0,0.0,0.0,0,,0,0,0,2023

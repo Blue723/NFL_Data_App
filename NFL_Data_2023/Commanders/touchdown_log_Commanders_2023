@@ -1,23 +1,40 @@
-,Rank,Team,Date,Opponent,Results,Quarter,Distance,Type,Detail
-1,1,Commanders,2023-09-10,ARI,"W, 20-16",1,7,pass,Brian Robinson Jr.
-2,2,Commanders,2023-09-10,ARI,"W, 20-16",4,6,rush,Sam Howell
-3,3,Commanders,2023-09-17,DEN,"W, 35-33",2,4,pass,Logan Thomas
-4,4,Commanders,2023-09-17,DEN,"W, 35-33",3,30,pass,Terry McLaurin
-5,5,Commanders,2023-09-17,DEN,"W, 35-33",4,2,rush,Brian Robinson Jr.
-6,6,Commanders,2023-09-17,DEN,"W, 35-33",4,15,rush,Brian Robinson Jr.
-7,7,Commanders,2023-10-01,PHI,"L, 31-34",1,1,rush,Curtis Samuel
-8,8,Commanders,2023-10-01,PHI,"L, 31-34",2,0,fumble,Terry McLaurin
-9,9,Commanders,2023-10-01,PHI,"L, 31-34",4,15,rush,Brian Robinson Jr.
-10,10,Commanders,2023-10-01,PHI,"L, 31-34",4,10,pass,Jahan Dotson
-11,11,Commanders,2023-10-05,CHI,"L, 20-40",3,2,pass,Logan Thomas
-12,12,Commanders,2023-10-05,CHI,"L, 20-40",4,3,pass,Curtis Samuel
-13,13,Commanders,2023-10-15,ATL,"W, 24-16",2,1,pass,Antonio Gibson
-14,14,Commanders,2023-10-15,ATL,"W, 24-16",2,7,pass,Curtis Samuel
-15,15,Commanders,2023-10-15,ATL,"W, 24-16",3,24,pass,Brian Robinson Jr.
-16,16,Commanders,2023-10-22,NYG,"L, 7-14",3,4,rush,Brian Robinson Jr.
-17,17,Commanders,2023-10-29,PHI,"L, 31-38",1,26,pass,Terry McLaurin
-18,18,Commanders,2023-10-29,PHI,"L, 31-38",2,21,pass,Jahan Dotson
-19,19,Commanders,2023-10-29,PHI,"L, 31-38",4,7,pass,Logan Thomas
-20,20,Commanders,2023-10-29,PHI,"L, 31-38",4,26,pass,Jamison Crowder
-21,21,Commanders,2023-11-05,NWE,"W, 20-17",2,9,rush,Brian Robinson Jr.
-22,22,Commanders,2023-11-05,NWE,"W, 20-17",3,33,pass,Jahan Dotson
+,Rank,Team,Date,Opponent,Win/Loss,Score,Quarter,Distance,Type,Detail,Year
+0,1,Commanders,09/10/2023,ARI,Win, 20-16,1,7,pass,Brian Robinson Jr.,2023
+1,2,Commanders,09/10/2023,ARI,Win, 20-16,4,6,rush,Sam Howell,2023
+2,3,Commanders,09/17/2023,DEN,Win, 35-33,2,4,pass,Logan Thomas,2023
+3,4,Commanders,09/17/2023,DEN,Win, 35-33,3,30,pass,Terry McLaurin,2023
+4,5,Commanders,09/17/2023,DEN,Win, 35-33,4,2,rush,Brian Robinson Jr.,2023
+5,6,Commanders,09/17/2023,DEN,Win, 35-33,4,15,rush,Brian Robinson Jr.,2023
+6,7,Commanders,10/01/2023,PHI,Loss, 31-34,1,1,rush,Curtis Samuel,2023
+7,8,Commanders,10/01/2023,PHI,Loss, 31-34,2,0,fumble,Terry McLaurin,2023
+8,9,Commanders,10/01/2023,PHI,Loss, 31-34,4,15,rush,Brian Robinson Jr.,2023
+9,10,Commanders,10/01/2023,PHI,Loss, 31-34,4,10,pass,Jahan Dotson,2023
+10,11,Commanders,10/05/2023,CHI,Loss, 20-40,3,2,pass,Logan Thomas,2023
+11,12,Commanders,10/05/2023,CHI,Loss, 20-40,4,3,pass,Curtis Samuel,2023
+12,13,Commanders,10/15/2023,ATL,Win, 24-16,2,1,pass,Antonio Gibson,2023
+13,14,Commanders,10/15/2023,ATL,Win, 24-16,2,7,pass,Curtis Samuel,2023
+14,15,Commanders,10/15/2023,ATL,Win, 24-16,3,24,pass,Brian Robinson Jr.,2023
+15,16,Commanders,10/22/2023,NYG,Loss, 7-14,3,4,rush,Brian Robinson Jr.,2023
+16,17,Commanders,10/29/2023,PHI,Loss, 31-38,1,26,pass,Terry McLaurin,2023
+17,18,Commanders,10/29/2023,PHI,Loss, 31-38,2,21,pass,Jahan Dotson,2023
+18,19,Commanders,10/29/2023,PHI,Loss, 31-38,4,7,pass,Logan Thomas,2023
+19,20,Commanders,10/29/2023,PHI,Loss, 31-38,4,26,pass,Jamison Crowder,2023
+20,21,Commanders,11/05/2023,NWE,Win, 20-17,2,9,rush,Brian Robinson Jr.,2023
+21,22,Commanders,11/05/2023,NWE,Win, 20-17,3,33,pass,Jahan Dotson,2023
+22,23,Commanders,11/12/2023,SEA,Loss, 26-29,1,51,pass,Brian Robinson Jr.,2023
+23,24,Commanders,11/12/2023,SEA,Loss, 26-29,4,19,pass,Antonio Gibson,2023
+24,25,Commanders,11/12/2023,SEA,Loss, 26-29,4,35,pass,Dyami Brown,2023
+25,26,Commanders,11/19/2023,NYG,Loss, 19-31,2,7,rush,Sam Howell,2023
+26,27,Commanders,11/19/2023,NYG,Loss, 19-31,4,8,pass,Jahan Dotson,2023
+27,28,Commanders,11/23/2023,DAL,Loss, 10-45,2,1,rush,Sam Howell,2023
+28,29,Commanders,12/03/2023,MIA,Loss, 15-45,2,1,rush,Sam Howell,2023
+29,30,Commanders,12/03/2023,MIA,Loss, 15-45,3,13,rush,Sam Howell,2023
+30,31,Commanders,12/17/2023,LAR,Loss, 20-28,3,19,pass,Curtis Samuel,2023
+31,32,Commanders,12/17/2023,LAR,Loss, 20-28,4,29,pass,Terry McLaurin,2023
+32,33,Commanders,12/17/2023,LAR,Loss, 20-28,4,3,pass,Curtis Samuel,2023
+33,34,Commanders,12/24/2023,NYJ,Loss, 28-30,2,12,rush,Chris Rodriguez,2023
+34,35,Commanders,12/24/2023,NYJ,Loss, 28-30,3,15,pass,Logan Thomas,2023
+35,36,Commanders,12/24/2023,NYJ,Loss, 28-30,4,1,rush,Chris Rodriguez,2023
+36,37,Commanders,12/24/2023,NYJ,Loss, 28-30,4,2,rush,Antonio Gibson,2023
+37,38,Commanders,12/31/2023,SFO,Loss, 10-27,2,3,pass,Terry McLaurin,2023
+38,39,Commanders,01/07/2024,DAL,Loss, 10-38,2,1,pass,Brian Robinson Jr.,2023

@@ -1,6 +1,7 @@
-,No.,Team,Player,Age,Position,Games Played,Games Started,Punts Returned,Punts Return Yardage,Punts Returned for Touchdown,Longest Punt Return,Yards per Punt Return,Kickoff Returns,Yardage for Kickoffs Returned,Kickoffs Returned for a Touchdown,Longest Kickoff Return,Yards per Kickoff Return,All-purpose Yards
-21,21,Falcons,Mike Hughes,26,CB,8,0,11,67,0,16,6.1,3,46,0,19,15.3,113
-84,84,Falcons,Cordarrelle Patterson,32,RB,6,0,n/a,n/a,0,n/a,n/a,4,89,0,29,22.3,168
-20,20,Falcons,DeAundre Alford,26,CB,9,4,2,0,0,0,0.0,1,5,0,5,5.0,5
-16,16,Falcons,Scott Miller,26,WR,9,0,1,4,0,4,4.0,n/a,n/a,0,n/a,n/a,78
-40,40,Falcons,Keith Smith,31,FB,8,4,n/a,n/a,0,n/a,n/a,1,10,0,10,10.0,37
+,No.,Team,Player,Age,Position,Games Played,Games Started,Punts Returned,Punts Return Yardage,Punts Returned for Touchdown,Longest Punt Return,Yards per Punt Return,Kickoff Returns,Yardage for Kickoffs Returned,Kickoffs Returned for a Touchdown,Longest Kickoff Return,Yards per Kickoff Return,All-purpose Yards,Year
+0,20,Falcons,DeAundre Alford,26,CB,16,5,20,160,0,23,8.0,2,13,0,8,6.5,173,2023
+1,21,Falcons,Mike Hughes,26,CB,15,4,11,67,0,16,6.1,3,46,0,19,15.3,113,2023
+2,84,Falcons,Cordarrelle Patterson,32,RB,14,0,0,0,0,0,,7,153,0,29,21.9,372,2023
+3,16,Falcons,Scott Miller,26,WR,17,0,1,4,0,4,4.0,1,14,0,14,14.0,179,2023
+4,7,Falcons,Bijan Robinson,21,RB,17,16,1,8,0,8,8.0,0,0,0,0,,1464,2023
+5,40,Falcons,Keith Smith,31,FB,13,6,0,0,0,0,,1,10,0,10,10.0,44,2023

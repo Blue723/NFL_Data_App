@@ -1,12 +1,17 @@
-,No.,Team,Player,Age,Pos,Games Played,Games Started,Rush TD,Reception TD,Punt Return TD,Kick Return TD,Fumble Return TD,Interception TD,Other TD,All Touchdown Scored,2-Point Conversions Made,Two-Point Conversions Attempted,Defensive Two-Point Conversions,Extra Points Made,Extra Points Allowed,Field Goals Made,Field Goals Attempted,Safeties Scored by Player/Team,Total Points Scored by all Means,Poins per Game
-17,17,Packers,Anders Carlson,25,K,8,0,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,0,15,15,11,13,n/a,48,6.0
-87,87,Packers,Romeo Doubs,23,WR,8,7,n/a,5,n/a,n/a,n/a,n/a,n/a,5,n/a,n/a,0,n/a,n/a,n/a,n/a,n/a,30,3.8
-11,11,Packers,Jayden Reed,23,WR,8,7,n/a,3,n/a,n/a,n/a,n/a,n/a,3,1,n/a,0,n/a,n/a,n/a,n/a,n/a,20,2.5
-33,33,Packers,Aaron Jones,29,RB,5,5,2,1,n/a,n/a,n/a,n/a,n/a,3,n/a,n/a,0,n/a,n/a,n/a,n/a,n/a,18,3.6
-10,10,Packers,Jordan Love,25,QB,8,8,2,n/a,n/a,n/a,n/a,n/a,n/a,2,n/a,n/a,0,n/a,n/a,n/a,n/a,n/a,12,1.5
-28,28,Packers,AJ Dillon,25,RB,8,3,1,n/a,n/a,n/a,n/a,n/a,n/a,1,n/a,n/a,0,n/a,n/a,n/a,n/a,n/a,6,0.8
-88,88,Packers,Luke Musgrave,23,TE,8,7,n/a,1,n/a,n/a,n/a,n/a,n/a,1,n/a,n/a,0,n/a,n/a,n/a,n/a,n/a,6,0.8
-7,7,Packers,Quay Walker,23,LB,7,7,n/a,n/a,n/a,n/a,n/a,1,n/a,1,n/a,n/a,0,n/a,n/a,n/a,n/a,n/a,6,0.9
-9,9,Packers,Christian Watson,24,WR,5,5,n/a,1,n/a,n/a,n/a,n/a,n/a,1,n/a,n/a,0,n/a,n/a,n/a,n/a,n/a,6,1.2
-13,13,Packers,Dontayvion Wicks,22,WR,8,2,n/a,1,n/a,n/a,n/a,n/a,n/a,1,n/a,n/a,0,n/a,n/a,n/a,n/a,n/a,6,0.8
-83,83,Packers,Samori Toure,25,WR,7,0,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,1,n/a,0,n/a,n/a,n/a,n/a,n/a,2,0.3
+,No.,Team,Player,Age,Pos,Games Played,Games Started,Rush TD,Reception TD,Punt Return TD,Kick Return TD,Fumble Return TD,Interception TD,Other TD,All Touchdown Scored,2-Point Conversions Made,Two-Point Conversions Attempted,Defensive Two-Point Conversions,Extra Points Made,Extra Points Allowed,Field Goals Made,Field Goals Attempted,Safeties Scored by Player/Team,Total Points Scored by all Means,Poins per Game,Year
+0,17,Packers,Anders Carlson,25,K,17,0,0,0,0,0,0,0,0,0,0,0,0,34,39,27,33,,115,6.8,2023
+1,11,Packers,Jayden Reed,23,WR,16,13,2,8,0,0,0,0,0,10,1,0,0,0,0,0,0,,62,3.9,2023
+2,87,Packers,Romeo Doubs,23,WR,17,16,0,8,0,0,0,0,0,8,0,0,0,0,0,0,0,,48,2.8,2023
+3,9,Packers,Christian Watson,24,WR,9,9,0,5,0,0,0,0,0,5,0,0,0,0,0,0,0,,30,3.3,2023
+4,10,Packers,Jordan Love,25,QB,17,17,4,0,0,0,0,0,0,4,0,0,0,0,0,0,0,,24,1.4,2023
+5,13,Packers,Dontayvion Wicks,22,WR,15,6,0,4,0,0,0,0,0,4,0,0,0,0,0,0,0,,24,1.6,2023
+6,33,Packers,Aaron Jones,29,RB,11,11,2,1,0,0,0,0,0,3,0,0,0,0,0,0,0,,18,1.6,2023
+7,28,Packers,AJ Dillon,25,RB,15,6,2,0,0,0,0,0,0,2,0,0,0,0,0,0,0,,12,0.8,2023
+8,85,Packers,Tucker Kraft,23,TE,17,8,0,2,0,0,0,0,0,2,0,0,0,0,0,0,0,,12,0.7,2023
+9,18,Packers,Malik Heath,23,WR,13,1,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,,6,0.5,2023
+10,80,Packers,Bo Melton,24,WR,5,1,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,,6,1.2,2023
+11,88,Packers,Luke Musgrave,23,TE,11,9,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,,6,0.5,2023
+12,34,Packers,Jonathan Owens,28,S,17,11,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,,6,0.4,2023
+13,89,Packers,Ben Sims,23,TE,17,1,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,,6,0.4,2023
+14,7,Packers,Quay Walker,23,LB,14,14,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,,6,0.4,2023
+15,83,Packers,Samori Toure,25,WR,11,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,,2,0.2,2023

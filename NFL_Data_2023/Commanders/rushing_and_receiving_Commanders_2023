@@ -1,15 +1,19 @@
-,No.,Team,Player,Age,Position,Games Played,Games Started as an Offensive or Defensive Player,Rushing Attempts,Rushing Yards Gained,Rushing Touchdown,First Downs Rushing,Rushing Success Rate,Longest Rushing Attempt,Rushing Yards per Attempt,Rushing Yards per Game,Rushing Attempts per Game,Pass Targets,Receptions,Receiving Yards,Receiving Yards per Reception,Receiving Touchdowns,First Downs Receiving,Receiving Success Rate,Longest Reception,Receptions per Game,Receiving Yards per Game,Catch%,Receiving Yards per Target,Touches: Rushing Attempts and Receptions,Scrimmage Yards per Touch: Rushing + Receiving Yardage per Opportunity,Yards from Scrimmage: Receiving and Rushing Yards,Rushing and Receiving Touchdowns,Lost and Recovered Fumbles
-8,8,Commanders,Brian Robinson Jr.,24,RB,9,9,113,447,5,30,46.9,29,4.0,49.7,12.6,18,14,137,9.8,2,6,55.6,24,1.6,15.2,77.8%,7.6,127,4.6,584,7,2
-14,14,Commanders,Sam Howell,23,QB,9,9,29,157,1,10,44.8,24,5.4,17.4,3.2,n/a,n/a,n/a,n/a,0,n/a,n/a,n/a,n/a,n/a,n/a,n/a,29,5.4,157,1,3
-24,24,Commanders,Antonio Gibson,25,RB,9,0,26,124,0,6,50.0,13,4.8,13.8,2.9,29,25,227,9.1,1,12,51.7,41,2.8,25.2,86.2%,7.8,51,6.9,351,1,3
-23,23,Commanders,Chris Rodriguez,23,RB,7,0,14,61,0,3,50.0,13,4.4,8.7,2.0,n/a,n/a,n/a,n/a,0,n/a,n/a,n/a,n/a,n/a,n/a,n/a,14,4.4,61,0,n/a
-4,4,Commanders,Curtis Samuel,27,WR,8,5,4,20,1,2,75.0,13,5.0,2.5,0.5,43,35,332,9.5,2,15,53.5,37,4.4,41.5,81.4%,7.7,39,9.0,352,3,n/a
-82,82,Commanders,Logan Thomas,32,TE,8,8,1,2,0,1,100.0,2,2.0,0.3,0.1,45,33,311,9.4,3,16,57.8,27,4.1,38.9,73.3%,6.9,34,9.2,313,3,1
-2,2,Commanders,Dyami Brown,24,WR,9,1,1,0,0,0,0.0,0,0.0,0.0,0.1,15,8,120,15.0,0,5,53.3,35,0.9,13.3,53.3%,8.0,9,13.3,120,0,n/a
-17,17,Commanders,Terry McLaurin,28,WR,9,9,n/a,n/a,0,n/a,n/a,n/a,n/a,n/a,n/a,71,47,568,12.1,2,26,50.7,36,5.2,63.1,66.2%,8.0,47,12.1,568,2,n/a
-1,1,Commanders,Jahan Dotson,23,WR,9,9,n/a,n/a,0,n/a,n/a,n/a,n/a,n/a,n/a,57,34,360,10.6,3,16,45.6,33,3.8,40.0,59.6%,6.3,34,10.6,360,3,n/a
-83,83,Commanders,Jamison Crowder,30,WR,9,0,n/a,n/a,0,n/a,n/a,n/a,n/a,n/a,n/a,15,13,139,10.7,1,7,73.3,26,1.4,15.4,86.7%,9.3,13,10.7,139,1,1
-87,87,Commanders,John Bates,26,TE,9,3,n/a,n/a,0,n/a,n/a,n/a,n/a,n/a,n/a,14,10,95,9.5,0,3,64.3,35,1.1,10.6,71.4%,6.8,10,9.5,95,0,n/a
-85,85,Commanders,Cole Turner,23,TE,8,1,n/a,n/a,0,n/a,n/a,n/a,n/a,n/a,n/a,12,8,82,10.3,0,3,58.3,21,1.0,10.3,66.7%,6.8,8,10.3,82,0,n/a
-3,3,Commanders,Byron Pringle,30,WR,9,0,n/a,n/a,0,n/a,n/a,n/a,n/a,n/a,n/a,11,7,100,14.3,0,5,54.5,26,0.8,11.1,63.6%,9.1,7,14.3,100,0,n/a
-40,40,Commanders,Alex Armah,29,RB,3,0,n/a,n/a,0,n/a,n/a,n/a,n/a,n/a,n/a,1,1,0,0.0,0,n/a,0.0,0,0.3,0.0,100.0%,0.0,1,0.0,n/a,0,n/a
+,No.,Team,Player,Age,Position,Games Played,Games Started as an Offensive or Defensive Player,Rushing Attempts,Rushing Yards Gained,Rushing Touchdown,First Downs Rushing,Rushing Success Rate,Longest Rushing Attempt,Rushing Yards per Attempt,Rushing Yards per Game,Rushing Attempts per Game,Pass Targets,Receptions,Receiving Yards,Receiving Yards per Reception,Receiving Touchdowns,First Downs Receiving,Receiving Success Rate,Longest Reception,Receptions per Game,Receiving Yards per Game,Catch Per.,Receiving Yards per Target,Touches: Rushing Attempts and Receptions,Scrimmage Yards per Touch: Rushing + Receiving Yardage per Opportunity,Yards from Scrimmage: Receiving and Rushing Yards,Rushing and Receiving Touchdowns,Lost and Recovered Fumbles,Year
+0,8,Commanders,Brian Robinson Jr.,24,RB,15,15,178,733,5,47,47.8,29,4.1,48.9,11.9,43,36,368,10.2,4,15,53.5,51,2.4,24.5,83.7,8.6,214,5.1,1101,9,4,2023
+1,24,Commanders,Antonio Gibson,25,RB,16,2,65,265,1,13,43.1,16,4.1,16.6,4.1,59,48,389,8.1,2,19,44.1,41,3.0,24.3,81.4,6.6,113,5.8,654,3,4,2023
+2,23,Commanders,Chris Rodriguez,23,RB,13,0,51,247,2,14,47.1,16,4.8,19.0,3.9,2,2,12,6.0,0,1,100.0,7,0.2,0.9,100.0,6.0,53,4.9,259,2,1,2023
+3,14,Commanders,Sam Howell,23,QB,17,17,48,263,5,19,50.0,24,5.5,15.5,2.8,1,1,4,4.0,0,0,0.0,4,0.1,0.2,100.0,4.0,49,5.4,267,5,4,2023
+4,4,Commanders,Curtis Samuel,27,WR,16,13,7,39,1,4,71.4,15,5.6,2.4,0.4,91,62,613,9.9,4,26,50.5,37,3.9,38.3,68.1,6.7,69,9.4,652,5,0,2023
+5,12,Commanders,Jacoby Brissett,31,QB,3,0,3,19,0,0,66.7,10,6.3,6.3,1.0,0,0,0,,0,0,,0,,,0.0,,3,6.3,19,0,0,2023
+6,38,Commanders,Derrick Gore,29,RB,6,0,3,26,0,1,33.3,23,8.7,4.3,0.5,0,0,0,,0,0,,0,,,0.0,,3,8.7,26,0,0,2023
+7,82,Commanders,Logan Thomas,32,TE,16,15,1,2,0,1,100.0,2,2.0,0.1,0.1,78,55,496,9.0,4,21,56.4,29,3.4,31.0,70.5,6.4,56,8.9,498,4,2,2023
+8,2,Commanders,Dyami Brown,24,WR,17,1,1,0,0,0,0.0,0,0.0,0.0,0.1,23,12,168,14.0,1,8,47.8,35,0.7,9.9,52.2,7.3,13,12.9,168,1,0,2023
+9,5,Commanders,Tress Way,33,P,17,0,1,0,0,0,0.0,0,0.0,0.0,0.1,0,0,0,,0,0,,0,,,0.0,,1,0.0,0,0,0,2023
+10,18,Commanders,Jonathan Williams,29,RB,1,0,1,-2,0,0,0.0,-2,-2.0,-2.0,1.0,1,0,0,,0,0,0.0,0,0.0,0.0,0.0,0.0,1,-2.0,-2,0,0,2023
+11,17,Commanders,Terry McLaurin,28,WR,17,17,0,0,0,0,,0,,,,132,79,1002,12.7,4,47,49.2,48,4.6,58.9,59.8,7.6,79,12.7,1002,4,0,2023
+12,1,Commanders,Jahan Dotson,23,WR,17,16,0,0,0,0,,0,,,,83,49,518,10.6,4,27,48.2,33,2.9,30.5,59.0,6.2,49,10.6,518,4,0,2023
+13,87,Commanders,John Bates,26,TE,17,4,0,0,0,0,,0,,,,28,19,151,7.9,0,6,50.0,35,1.1,8.9,67.9,5.4,19,7.9,151,0,0,2023
+14,83,Commanders,Jamison Crowder,30,WR,17,0,0,0,0,0,,0,,,,20,16,159,9.9,1,8,60.0,26,0.9,9.4,80.0,8.0,16,9.9,159,1,2,2023
+15,3,Commanders,Byron Pringle,30,WR,17,1,0,0,0,0,,0,,,,22,14,161,11.5,0,7,40.9,26,0.8,9.5,63.6,7.3,14,11.5,161,0,1,2023
+16,85,Commanders,Cole Turner,23,TE,12,1,0,0,0,0,,0,,,,15,11,120,10.9,0,4,60.0,29,0.9,10.0,73.3,8.0,11,10.9,120,0,0,2023
+17,40,Commanders,Alex Armah,29,RB,8,0,0,0,0,0,,0,,,,3,3,13,4.3,0,1,33.3,10,0.4,1.6,100.0,4.3,3,4.3,13,0,0,2023

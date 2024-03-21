@@ -1,19 +1,19 @@
-,Week,Team,Day,Date,Time,Win/Loss,Overtime,Team Record,Home/Away,Opponent,Points Scored,Points Allowed,Offense 1st Down,Total Yards Gained of Offense,Total yards Gained by Passing,Total Yards Gained by Rushing,Offense Turnovers,Defense 1st Down,Total Yards Allowed by Defense,Total Passing Yards Allowed by Defense,Total Rushing Yards Allowed by Defense,Defense Turnovers,Offense,Defense,Sp. Tms
-1,1,Jets,Mon,September 11,8:15PM ET,W,OT,1-0,home,Buffalo Bills,22,16,13,289,117,172,1,19,314,217,97,4,-1.19,4.85,2.27
-2,2,Jets,Sun,September 17,4:25PM ET,L,n/a,1-1,away,Dallas Cowboys,10,30,12,215,151,64,4,26,382,248,134,n/a,-14.82,-7.01,2.25
-3,3,Jets,Sun,September 24,1:00PM ET,L,n/a,1-2,home,New England Patriots,10,15,12,171,133,38,n/a,17,358,201,157,n/a,-15.20,2.13,6.78
-4,4,Jets,Sun,October 1,8:20PM ET,L,n/a,1-3,home,Kansas City Chiefs,20,23,18,336,228,108,1,24,401,197,204,2,3.25,-10.22,-1.48
-5,5,Jets,Sun,October 8,4:25PM ET,W,n/a,2-3,away,Denver Broncos,31,21,18,407,173,234,2,18,308,169,139,3,5.79,6.26,2.75
-6,6,Jets,Sun,October 15,4:25PM ET,W,n/a,3-3,home,Philadelphia Eagles,20,14,17,244,155,89,n/a,24,348,268,80,4,-7.52,5.91,8.89
-7,7,Jets,n/a,n/a,n/a,n/a,n/a,n/a,home,<strong>Bye Week</strong>,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
-8,8,Jets,Sun,October 29,1:00PM ET,W,OT,4-3,away,New York Giants,13,10,12,251,193,58,2,12,194,-9,203,n/a,-20.78,20.38,1.41
-9,9,Jets,Mon,November 6,8:15PM ET,L,n/a,4-4,home,Los Angeles Chargers,6,27,17,270,206,64,3,14,191,107,84,n/a,-25.20,6.47,-1.49
-10,10,Jets,Sun,November 12,8:20PM ET,n/a,n/a,n/a,away,Las Vegas Raiders,0,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
-11,11,Jets,Sun,November 19,4:25PM ET,n/a,n/a,n/a,away,Buffalo Bills,0,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
-12,12,Jets,Fri,November 24,3:00PM ET,n/a,n/a,n/a,home,Miami Dolphins,0,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
-13,13,Jets,Sun,December 3,1:00PM ET,n/a,n/a,n/a,home,Atlanta Falcons,0,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
-14,14,Jets,Sun,December 10,1:00PM ET,n/a,n/a,n/a,home,Houston Texans,0,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
-15,15,Jets,Sun,December 17,1:00PM ET,n/a,n/a,n/a,away,Miami Dolphins,0,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
-16,16,Jets,Sun,December 24,1:00PM ET,n/a,n/a,n/a,home,Washington Commanders,0,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
-17,17,Jets,Thu,December 28,8:15PM ET,n/a,n/a,n/a,away,Cleveland Browns,0,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
-18,18,Jets,Sun,January 7,1:00PM ET,n/a,n/a,n/a,away,New England Patriots,0,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+,Week,Team,Day,Date,Time,Win/Loss,Overtime,Team Record,Home/Away,Opponent,Points Scored,Points Allowed,Offense 1st Down,Total Yards Gained of Offense,Total yards Gained by Passing,Total Yards Gained by Rushing,Offense Turnovers,Defense 1st Down,Total Yards Allowed by Defense,Total Passing Yards Allowed by Defense,Total Rushing Yards Allowed by Defense,Defense Turnovers,Offense,Defense,Sp. Tms,Year
+0,0,1,1,1,1.0,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1.0,1.0,1.0,1
+1,1,Jets,Sun,September 17,,L,0,1-1,away,Dallas Cowboys,10,30,12,215,151,64,4,26,382,248,134,0,-14.82,-7.01,2.25,2023
+2,2,Jets,Sun,September 24,,L,0,1-2,home,New England Patriots,10,15,12,171,133,38,0,17,358,201,157,0,-15.2,2.13,6.78,2023
+3,3,Jets,Sun,October 1,,L,0,1-3,home,Kansas City Chiefs,20,23,18,336,228,108,1,24,401,197,204,2,3.25,-10.22,-1.48,2023
+4,4,Jets,Sun,October 8,,W,0,2-3,away,Denver Broncos,31,21,18,407,173,234,2,18,308,169,139,3,5.79,6.26,2.75,2023
+5,5,Jets,Sun,October 15,,W,0,3-3,home,Philadelphia Eagles,20,14,17,244,155,89,0,24,348,268,80,4,-7.52,5.91,8.89,2023
+6,6,Jets,,,,,0,,home,<strong>Bye Week</strong>,0,0,0,0,0,0,0,0,0,0,0,0,,,,2023
+7,7,1,1,1,1.0,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1.0,1.0,1.0,1
+8,8,Jets,Mon,November 6,,L,0,4-4,home,Los Angeles Chargers,6,27,17,270,206,64,3,14,191,107,84,0,-25.2,6.47,-1.49,2023
+9,9,Jets,Sun,November 12,,L,0,4-5,away,Las Vegas Raiders,12,16,14,365,257,108,1,15,274,126,148,2,-7.21,8.01,-3.38,2023
+10,10,Jets,Sun,November 19,,L,0,4-6,away,Buffalo Bills,6,32,14,155,92,63,4,22,393,263,130,1,-15.34,-14.64,-1.82,2023
+11,11,Jets,Fri,November 24,,L,0,4-7,home,Miami Dolphins,13,34,12,159,130,29,2,22,395,228,167,3,-20.96,-3.64,2.09,2023
+12,12,Jets,Sun,December 3,,L,0,4-8,home,Atlanta Falcons,8,13,14,259,197,62,3,15,194,104,90,0,-20.36,11.41,1.05,2023
+13,13,Jets,Sun,December 10,,W,0,5-8,home,Houston Texans,30,6,20,347,268,79,1,10,135,54,81,0,2.85,22.37,-3.08,2023
+14,14,Jets,Sun,December 17,,L,0,5-9,away,Miami Dolphins,0,30,11,103,80,23,4,16,290,213,77,0,-28.99,-4.37,5.48,2023
+15,15,Jets,Sun,December 24,,W,0,6-9,home,Washington Commanders,30,28,26,381,217,164,2,18,245,143,102,3,-15.58,3.65,8.61,2023
+16,16,Jets,Thu,December 28,,L,0,6-10,away,Cleveland Browns,20,37,17,360,253,107,2,20,428,301,127,3,-7.73,-3.15,-3.99,2023
+17,17,Jets,Sun,January 7,,W,0,7-10,away,New England Patriots,17,3,13,254,69,185,1,6,119,31,88,2,-10.78,27.43,-3.32,2023

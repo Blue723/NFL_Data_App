@@ -1,4 +1,5 @@
-,No.,Team,Player,Age,Position,Games Played,Games Started,Punts Returned,Punts Return Yardage,Punts Returned for Touchdown,Longest Punt Return,Yards per Punt Return,Kickoff Returns,Yardage for Kickoffs Returned,Kickoffs Returned for a Touchdown,Longest Kickoff Return,Yards per Kickoff Return,All-purpose Yards
-83,83,Commanders,Jamison Crowder,30,WR,9,0,20,189,0,61,9.5,n/a,n/a,0,n/a,n/a,328
-24,24,Commanders,Antonio Gibson,25,RB,9,0,n/a,n/a,0,n/a,n/a,9,207,0,37,23.0,558
-3,3,Commanders,Byron Pringle,30,WR,9,0,n/a,n/a,0,n/a,n/a,1,38,0,38,38.0,138
+,No.,Team,Player,Age,Position,Games Played,Games Started,Punts Returned,Punts Return Yardage,Punts Returned for Touchdown,Longest Punt Return,Yards per Punt Return,Kickoff Returns,Yardage for Kickoffs Returned,Kickoffs Returned for a Touchdown,Longest Kickoff Return,Yards per Kickoff Return,All-purpose Yards,Year
+0,83,Commanders,Jamison Crowder,30,WR,17,0,35,278,0,61,7.9,0,0,0,0,,439,2023
+1,24,Commanders,Antonio Gibson,25,RB,16,2,0,0,0,0,,14,340,0,37,24.3,994,2023
+2,3,Commanders,Byron Pringle,30,WR,17,1,0,0,0,0,,9,251,0,40,27.9,412,2023
+3,87,Commanders,John Bates,26,TE,17,4,0,0,0,0,,1,10,0,10,10.0,161,2023

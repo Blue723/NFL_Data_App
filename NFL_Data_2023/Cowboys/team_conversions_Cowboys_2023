@@ -1,5 +1,5 @@
-,Player,Team,3rd Down Attempts in Game,3rd Down Conversions,3rd Down Conversion %,4th Down Attempts in Game,4th Down Conversions in Game,4th Down Conversion %,Red Zone Attempts,Touchdowns Scored After the Team Entered the Red Zone,% of the Time a Team Reaches the Red Zone and Scores a Touchdown
-Team Stats,Team Stats,Cowboys,113,53,46.9,13,6,46.2,32,14,43.8
-Opp. Stats,Opp. Stats,Cowboys,101,37,36.6,15,8,53.3,20,12,60.0
-Lg Rank Offense,Lg Rank Offense,Cowboys,n/a,n/a,3,n/a,n/a,19,n/a,n/a,29
-Lg Rank Defense,Lg Rank Defense,Cowboys,n/a,n/a,11,n/a,n/a,20,n/a,n/a,22
+,Player,Team,3rd Down Attempts in Game,3rd Down Conversions,3rd Down Conversion Per.,4th Down Attempts in Game,4th Down Conversions in Game,4th Down Conversion Per.,Red Zone Attempts,Touchdowns Scored After the Team Entered the Red Zone,Per. of the Time a Team Reaches the Red Zone and Scores a Touchdown,Year
+0,Team Stats,Cowboys,230.0,111.0,48.3,23.0,13.0,56.5,71.0,40.0,56.3,2023.0
+1,Opp. Stats,Cowboys,211.0,79.0,37.4,37.0,19.0,51.4,48.0,27.0,56.3,2023.0
+2,Lg Rank Offense,Cowboys,,,2.0,,,9.0,,,14.0,2023.0
+3,Lg Rank Defense,Cowboys,,,14.0,,,18.0,,,19.0,2023.0

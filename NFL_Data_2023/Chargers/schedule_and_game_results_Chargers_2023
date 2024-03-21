@@ -1,19 +1,19 @@
-,Week,Team,Day,Date,Time,Win/Loss,Overtime,Team Record,Home/Away,Opponent,Points Scored,Points Allowed,Offense 1st Down,Total Yards Gained of Offense,Total yards Gained by Passing,Total Yards Gained by Rushing,Offense Turnovers,Defense 1st Down,Total Yards Allowed by Defense,Total Passing Yards Allowed by Defense,Total Rushing Yards Allowed by Defense,Defense Turnovers,Offense,Defense,Sp. Tms
-1,1,Chargers,Sun,September 10,4:25PM ET,L,n/a,0-1,home,Miami Dolphins,34,36,30,433,200,233,n/a,30,536,466,70,2,18.83,-26.53,3.22
-2,2,Chargers,Sun,September 17,1:00PM ET,L,OT,0-2,away,Tennessee Titans,24,27,19,342,281,61,n/a,22,341,200,141,n/a,6.80,-9.86,0.06
-3,3,Chargers,Sun,September 24,1:00PM ET,W,n/a,1-2,away,Minnesota Vikings,28,24,24,475,445,30,1,29,475,345,130,2,15.21,-8.26,-4.83
-4,4,Chargers,Sun,October 1,4:05PM ET,W,n/a,2-2,home,Las Vegas Raiders,24,17,16,305,150,155,1,22,264,188,76,3,4.86,8.27,-6.07
-5,5,Chargers,n/a,n/a,n/a,n/a,n/a,n/a,home,<strong>Bye Week</strong>,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
-6,6,Chargers,Mon,October 16,8:15PM ET,L,n/a,2-3,home,Dallas Cowboys,17,20,18,272,219,53,1,20,342,246,96,1,-1.30,-8.96,5.38
-7,7,Chargers,Sun,October 22,4:25PM ET,L,n/a,2-4,away,Kansas City Chiefs,17,31,16,358,219,139,2,25,483,415,68,2,3.03,-19.19,2.58
-8,8,Chargers,Sun,October 29,8:20PM ET,W,n/a,3-4,home,Chicago Bears,30,13,20,352,298,54,1,17,295,222,73,2,7.29,6.71,5.12
-9,9,Chargers,Mon,November 6,8:15PM ET,W,n/a,4-4,away,New York Jets,27,6,14,191,107,84,n/a,17,270,206,64,3,-6.47,25.20,1.49
-10,10,Chargers,Sun,November 12,4:05PM ET,n/a,n/a,n/a,home,Detroit Lions,0,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
-11,11,Chargers,Sun,November 19,1:00PM ET,n/a,n/a,n/a,away,Green Bay Packers,0,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
-12,12,Chargers,Sun,November 26,8:20PM ET,n/a,n/a,n/a,home,Baltimore Ravens,0,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
-13,13,Chargers,Sun,December 3,1:00PM ET,n/a,n/a,n/a,away,New England Patriots,0,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
-14,14,Chargers,Sun,December 10,4:25PM ET,n/a,n/a,n/a,home,Denver Broncos,0,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
-15,15,Chargers,Thu,December 14,8:15PM ET,n/a,n/a,n/a,away,Las Vegas Raiders,0,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
-16,16,Chargers,Sat,December 23,8:00PM ET,n/a,n/a,n/a,home,Buffalo Bills,0,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
-17,17,Chargers,Sun,December 31,4:25PM ET,n/a,n/a,n/a,away,Denver Broncos,0,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
-18,18,Chargers,Sun,January 7,1:00PM ET,n/a,n/a,n/a,home,Kansas City Chiefs,0,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+,Week,Team,Day,Date,Time,Win/Loss,Overtime,Team Record,Home/Away,Opponent,Points Scored,Points Allowed,Offense 1st Down,Total Yards Gained of Offense,Total yards Gained by Passing,Total Yards Gained by Rushing,Offense Turnovers,Defense 1st Down,Total Yards Allowed by Defense,Total Passing Yards Allowed by Defense,Total Rushing Yards Allowed by Defense,Defense Turnovers,Offense,Defense,Sp. Tms,Year
+0,0,Chargers,Sun,September 10,,L,0,0-1,home,Miami Dolphins,34,36,30,433,200,233,0,30,536,466,70,2,18.83,-26.53,3.22,2023
+1,1,1,1,1,1.0,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1.0,1.0,1.0,1
+2,2,Chargers,Sun,September 24,,W,0,1-2,away,Minnesota Vikings,28,24,24,475,445,30,1,29,475,345,130,2,15.21,-8.26,-4.83,2023
+3,3,Chargers,Sun,October 1,,W,0,2-2,home,Las Vegas Raiders,24,17,16,305,150,155,1,22,264,188,76,3,4.86,8.27,-6.07,2023
+4,4,Chargers,,,,,0,,home,<strong>Bye Week</strong>,0,0,0,0,0,0,0,0,0,0,0,0,,,,2023
+5,5,Chargers,Mon,October 16,,L,0,2-3,home,Dallas Cowboys,17,20,18,272,219,53,1,20,342,246,96,1,-1.3,-8.96,5.38,2023
+6,6,Chargers,Sun,October 22,,L,0,2-4,away,Kansas City Chiefs,17,31,16,358,219,139,2,25,483,415,68,2,3.03,-19.19,2.58,2023
+7,7,Chargers,Sun,October 29,,W,0,3-4,home,Chicago Bears,30,13,20,352,298,54,1,17,295,222,73,2,7.29,6.71,5.12,2023
+8,8,Chargers,Mon,November 6,,W,0,4-4,away,New York Jets,27,6,14,191,107,84,0,17,270,206,64,3,-6.47,25.2,1.49,2023
+9,9,Chargers,Sun,November 12,,L,0,4-5,home,Detroit Lions,38,41,24,421,323,98,1,23,533,333,200,0,25.22,-31.55,2.59,2023
+10,10,Chargers,Sun,November 19,,L,0,4-6,away,Green Bay Packers,20,23,17,394,244,150,1,23,397,295,102,0,2.45,-12.8,4.58,2023
+11,11,Chargers,Sun,November 26,,L,0,4-7,home,Baltimore Ravens,10,20,16,279,193,86,4,20,361,164,197,0,-16.16,-1.22,5.76,2023
+12,12,Chargers,Sun,December 3,,W,0,5-7,away,New England Patriots,6,0,13,241,212,29,0,13,257,109,148,1,-9.06,13.06,4.71,2023
+13,13,Chargers,Sun,December 10,,L,0,5-8,home,Denver Broncos,7,24,17,283,207,76,2,19,322,216,106,1,-21.6,1.17,2.39,2023
+14,14,Chargers,Thu,December 14,,L,0,5-9,away,Las Vegas Raiders,21,63,18,326,234,92,5,20,378,254,124,0,-15.82,-22.25,-3.05,2023
+15,15,Chargers,Sat,December 23,,L,0,5-10,home,Buffalo Bills,22,24,18,273,175,98,0,16,335,230,105,3,-4.02,-7.67,9.12,2023
+16,16,Chargers,Sun,December 31,,L,0,5-11,away,Denver Broncos,9,16,17,301,215,86,1,16,313,212,101,0,-5.75,-2.08,-1.2,2023
+17,17,Chargers,Sun,January 7,,L,0,5-12,home,Kansas City Chiefs,12,13,22,353,235,118,1,12,268,145,123,1,-8.89,3.31,1.81,2023

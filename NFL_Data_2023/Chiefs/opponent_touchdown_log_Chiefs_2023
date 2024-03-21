@@ -1,17 +1,33 @@
-,Rank,Team,Date,Opponent,Results,Quarter,Distance,Type,Detail
-1,1,Chiefs,2023-09-07,DET,"L, 20-21",1,9,pass,Amon-Ra St. Brown
-2,2,Chiefs,2023-09-07,DET,"L, 20-21",3,50,interception,Brian Branch
-3,3,Chiefs,2023-09-07,DET,"L, 20-21",4,8,rush,David Montgomery
-4,4,Chiefs,2023-09-24,CHI,"W, 41-10",4,9,pass,D.J. Moore
-5,5,Chiefs,2023-10-01,NYJ,"W, 23-20",2,1,pass,C.J. Uzomah
-6,6,Chiefs,2023-10-01,NYJ,"W, 23-20",3,10,pass,Allen Lazard
-7,7,Chiefs,2023-10-08,MIN,"W, 27-20",2,5,pass,Jordan Addison
-8,8,Chiefs,2023-10-08,MIN,"W, 27-20",4,9,pass,Alexander Mattison
-9,9,Chiefs,2023-10-12,DEN,"W, 19-8",4,11,pass,Courtland Sutton
-10,10,Chiefs,2023-10-22,LAC,"W, 31-17",2,49,rush,Joshua Kelley
-11,11,Chiefs,2023-10-22,LAC,"W, 31-17",2,7,pass,Gerald Everett
-12,12,Chiefs,2023-10-29,DEN,"L, 9-24",1,4,pass,Javonte Williams
-13,13,Chiefs,2023-10-29,DEN,"L, 9-24",2,11,pass,Jerry Jeudy
-14,14,Chiefs,2023-10-29,DEN,"L, 9-24",4,6,pass,Courtland Sutton
-15,15,Chiefs,2023-11-05,MIA,"W, 21-14",3,31,pass,Cedrick Wilson Jr.
-16,16,Chiefs,2023-11-05,MIA,"W, 21-14",3,13,rush,Raheem Mostert
+,Rank,Team,Date,Opponent,Win/Loss,Score,Quarter,Distance,Type,Detail,Year
+0,1,Chiefs,09/07/2023,DET,Loss, 20-21,1,9,pass,Amon-Ra St. Brown,2023
+1,2,Chiefs,09/07/2023,DET,Loss, 20-21,3,50,interception,Brian Branch,2023
+2,3,Chiefs,09/07/2023,DET,Loss, 20-21,4,8,rush,David Montgomery,2023
+3,4,Chiefs,09/24/2023,CHI,Win, 41-10,4,9,pass,D.J. Moore,2023
+4,5,Chiefs,10/01/2023,NYJ,Win, 23-20,2,1,pass,C.J. Uzomah,2023
+5,6,Chiefs,10/01/2023,NYJ,Win, 23-20,3,10,pass,Allen Lazard,2023
+6,7,Chiefs,10/08/2023,MIN,Win, 27-20,2,5,pass,Jordan Addison,2023
+7,8,Chiefs,10/08/2023,MIN,Win, 27-20,4,9,pass,Alexander Mattison,2023
+8,9,Chiefs,10/12/2023,DEN,Win, 19-8,4,11,pass,Courtland Sutton,2023
+9,10,Chiefs,10/22/2023,LAC,Win, 31-17,2,49,rush,Joshua Kelley,2023
+10,11,Chiefs,10/22/2023,LAC,Win, 31-17,2,7,pass,Gerald Everett,2023
+11,12,Chiefs,10/29/2023,DEN,Loss, 9-24,1,4,pass,Javonte Williams,2023
+12,13,Chiefs,10/29/2023,DEN,Loss, 9-24,2,11,pass,Jerry Jeudy,2023
+13,14,Chiefs,10/29/2023,DEN,Loss, 9-24,4,6,pass,Courtland Sutton,2023
+14,15,Chiefs,11/05/2023,MIA,Win, 21-14,3,31,pass,Cedrick Wilson Jr.,2023
+15,16,Chiefs,11/05/2023,MIA,Win, 21-14,3,13,rush,Raheem Mostert,2023
+16,17,Chiefs,11/20/2023,PHI,Loss, 17-21,1,4,rush,D'Andre Swift,2023
+17,18,Chiefs,11/20/2023,PHI,Loss, 17-21,3,10,rush,Jalen Hurts,2023
+18,19,Chiefs,11/20/2023,PHI,Loss, 17-21,4,1,rush,Jalen Hurts,2023
+19,20,Chiefs,11/26/2023,LVR,Win, 31-17,1,18,pass,Jakobi Meyers,2023
+20,21,Chiefs,11/26/2023,LVR,Win, 31-17,2,63,rush,Josh Jacobs,2023
+21,22,Chiefs,12/03/2023,GNB,Loss, 19-27,1,1,pass,Ben Sims,2023
+22,23,Chiefs,12/03/2023,GNB,Loss, 19-27,2,9,pass,Christian Watson,2023
+23,24,Chiefs,12/03/2023,GNB,Loss, 19-27,3,12,pass,Christian Watson,2023
+24,25,Chiefs,12/10/2023,BUF,Loss, 17-20,1,25,pass,James Cook,2023
+25,26,Chiefs,12/10/2023,BUF,Loss, 17-20,2,6,rush,Josh Allen,2023
+26,27,Chiefs,12/17/2023,NWE,Win, 27-17,2,16,pass,Hunter Henry,2023
+27,28,Chiefs,12/17/2023,NWE,Win, 27-17,4,18,rush,Kevin Harris,2023
+28,29,Chiefs,12/25/2023,LVR,Loss, 14-20,2,8,fumble,Bilal Nichols,2023
+29,30,Chiefs,12/25/2023,LVR,Loss, 14-20,2,33,interception,Jack Jones,2023
+30,31,Chiefs,12/31/2023,CIN,Win, 25-17,2,7,pass,Joe Mixon,2023
+31,32,Chiefs,12/31/2023,CIN,Win, 25-17,2,1,rush,Jake Browning,2023

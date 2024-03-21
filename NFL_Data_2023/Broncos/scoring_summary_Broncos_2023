@@ -1,12 +1,15 @@
-,No.,Team,Player,Age,Pos,Games Played,Games Started,Rush TD,Reception TD,Punt Return TD,Kick Return TD,Fumble Return TD,Interception TD,Other TD,All Touchdown Scored,2-Point Conversions Made,Two-Point Conversions Attempted,Defensive Two-Point Conversions,Extra Points Made,Extra Points Allowed,Field Goals Made,Field Goals Attempted,Safeties Scored by Player/Team,Total Points Scored by all Means,Poins per Game
-16,16,Broncos,Wil Lutz,29,K,8,0,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,0,15,16,13,15,n/a,54,6.8
-14,14,Broncos,Courtland Sutton,28,WR,8,8,n/a,6,n/a,n/a,n/a,n/a,n/a,6,n/a,n/a,0,n/a,n/a,n/a,n/a,n/a,36,4.5
-89,89,Broncos,Brandon Johnson,25,WR,7,2,n/a,3,n/a,n/a,n/a,n/a,n/a,3,n/a,n/a,0,n/a,n/a,n/a,n/a,n/a,18,2.6
-38,38,Broncos,Jaleel McLaughlin,23,RB,8,1,1,2,n/a,n/a,n/a,n/a,n/a,3,n/a,n/a,0,n/a,n/a,n/a,n/a,n/a,18,2.3
-19,19,Broncos,Marvin Mims,21,WR,8,2,n/a,1,n/a,1,n/a,n/a,n/a,2,n/a,n/a,0,n/a,n/a,n/a,n/a,n/a,12,1.5
-33,33,Broncos,Javonte Williams,23,RB,7,6,n/a,1,n/a,n/a,n/a,n/a,n/a,1,1,n/a,0,n/a,n/a,n/a,n/a,n/a,8,1.1
-0,0,Broncos,Jonathon Cooper,25,OLB,8,8,n/a,n/a,n/a,n/a,1,n/a,n/a,1,n/a,n/a,0,n/a,n/a,n/a,n/a,n/a,6,0.8
-17,17,Broncos,Lil'Jordan Humphrey,25,WR,8,4,n/a,1,n/a,n/a,n/a,n/a,n/a,1,n/a,n/a,0,n/a,n/a,n/a,n/a,n/a,6,0.8
-10,10,Broncos,Jerry Jeudy,24,WR,7,5,n/a,1,n/a,n/a,n/a,n/a,n/a,1,n/a,n/a,0,n/a,n/a,n/a,n/a,n/a,6,0.9
-82,82,Broncos,Adam Trautman,26,TE,8,6,n/a,1,n/a,n/a,n/a,n/a,n/a,1,n/a,n/a,0,n/a,n/a,n/a,n/a,n/a,6,0.8
-20,20,Broncos,Michael Burton,31,FB,8,1,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,1,n/a,0,n/a,n/a,n/a,n/a,n/a,2,0.3
+,No.,Team,Player,Age,Pos,Games Played,Games Started,Rush TD,Reception TD,Punt Return TD,Kick Return TD,Fumble Return TD,Interception TD,Other TD,All Touchdown Scored,2-Point Conversions Made,Two-Point Conversions Attempted,Defensive Two-Point Conversions,Extra Points Made,Extra Points Allowed,Field Goals Made,Field Goals Attempted,Safeties Scored by Player/Team,Total Points Scored by all Means,Poins per Game,Year
+0,16,Broncos,Wil Lutz,29,K,17,0,0,0,0,0,0,0,0,0,0,0,0,29,31,30,34,,119,7.0,2023
+1,14,Broncos,Courtland Sutton,28,WR,16,14,0,10,0,0,0,0,0,10,0,0,0,0,0,0,0,,60,3.8,2023
+2,33,Broncos,Javonte Williams,23,RB,16,13,3,2,0,0,0,0,0,5,2,0,0,0,0,0,0,,34,2.1,2023
+3,89,Broncos,Brandon Johnson,25,WR,13,2,0,4,0,0,0,0,0,4,1,0,0,0,0,0,0,,26,2.0,2023
+4,17,Broncos,Lil'Jordan Humphrey,25,WR,17,8,0,3,0,0,0,0,0,3,0,0,0,0,0,0,0,,18,1.1,2023
+5,38,Broncos,Jaleel McLaughlin,23,RB,17,3,1,2,0,0,0,0,0,3,0,0,0,0,0,0,0,,18,1.1,2023
+6,82,Broncos,Adam Trautman,26,TE,17,12,0,3,0,0,0,0,0,3,0,0,0,0,0,0,0,,18,1.1,2023
+7,3,Broncos,Russell Wilson,35,QB,15,15,3,0,0,0,0,0,0,3,0,0,0,0,0,0,0,,18,1.2,2023
+8,10,Broncos,Jerry Jeudy,24,WR,16,11,0,2,0,0,0,0,0,2,0,0,0,0,0,0,0,,12,0.8,2023
+9,19,Broncos,Marvin Mims,21,WR,16,7,0,1,0,1,0,0,0,2,0,0,0,0,0,0,0,,12,0.8,2023
+10,0,Broncos,Jonathon Cooper,25,OLB,17,17,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,,6,0.4,2023
+11,85,Broncos,Lucas Krull,25,TE,7,2,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,,6,0.9,2023
+12,25,Broncos,Samaje Perine,28,RB,17,1,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,,6,0.4,2023
+13,20,Broncos,Michael Burton,31,FB,17,3,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,,2,0.1,2023

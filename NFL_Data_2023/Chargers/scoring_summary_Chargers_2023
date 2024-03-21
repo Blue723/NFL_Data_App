@@ -1,13 +1,18 @@
-,No.,Team,Player,Age,Pos,Games Played,Games Started,Rush TD,Reception TD,Punt Return TD,Kick Return TD,Fumble Return TD,Interception TD,Other TD,All Touchdown Scored,2-Point Conversions Made,Two-Point Conversions Attempted,Defensive Two-Point Conversions,Extra Points Made,Extra Points Allowed,Field Goals Made,Field Goals Attempted,Safeties Scored by Player/Team,Total Points Scored by all Means,Poins per Game
-11,11,Chargers,Cameron Dicker,23,K,8,0,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,0,22,22,13,14,n/a,61,7.6
-13,13,Chargers,Keenan Allen,31,WR,8,8,n/a,4,n/a,n/a,n/a,n/a,n/a,4,n/a,n/a,0,n/a,n/a,n/a,n/a,n/a,24,3.0
-30,30,Chargers,Austin Ekeler,28,RB,5,5,3,1,n/a,n/a,n/a,n/a,n/a,4,n/a,n/a,0,n/a,n/a,n/a,n/a,n/a,24,4.8
-89,89,Chargers,Donald Parham,26,TE,8,6,n/a,4,n/a,n/a,n/a,n/a,n/a,4,n/a,n/a,0,n/a,n/a,n/a,n/a,n/a,24,3.0
-10,10,Chargers,Justin Herbert,25,QB,8,8,3,n/a,n/a,n/a,n/a,n/a,n/a,3,n/a,n/a,0,n/a,n/a,n/a,n/a,n/a,18,2.3
-7,7,Chargers,Gerald Everett,29,TE,7,5,n/a,2,n/a,n/a,n/a,n/a,n/a,2,n/a,n/a,0,n/a,n/a,n/a,n/a,n/a,12,1.7
-25,25,Chargers,Joshua Kelley,26,RB,8,3,2,n/a,n/a,n/a,n/a,n/a,n/a,2,n/a,n/a,0,n/a,n/a,n/a,n/a,n/a,12,1.5
-12,12,Chargers,Derius Davis,23,WR,8,0,n/a,n/a,1,n/a,n/a,n/a,n/a,1,n/a,n/a,0,n/a,n/a,n/a,n/a,n/a,6,0.8
-87,87,Chargers,Simi Fehoko,26,WR,4,0,n/a,1,n/a,n/a,n/a,n/a,n/a,1,n/a,n/a,0,n/a,n/a,n/a,n/a,n/a,6,1.5
-5,5,Chargers,Josh Palmer,24,WR,7,4,n/a,1,n/a,n/a,n/a,n/a,n/a,1,n/a,n/a,0,n/a,n/a,n/a,n/a,n/a,6,0.9
-81,81,Chargers,Mike Williams,29,WR,3,3,n/a,1,n/a,n/a,n/a,n/a,n/a,1,n/a,n/a,0,n/a,n/a,n/a,n/a,n/a,6,2.0
-79,79,Chargers,Trey Pipkins,27,T,8,8,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,1,n/a,0,n/a,n/a,n/a,n/a,n/a,2,0.3
+,No.,Team,Player,Age,Pos,Games Played,Games Started,Rush TD,Reception TD,Punt Return TD,Kick Return TD,Fumble Return TD,Interception TD,Other TD,All Touchdown Scored,2-Point Conversions Made,Two-Point Conversions Attempted,Defensive Two-Point Conversions,Extra Points Made,Extra Points Allowed,Field Goals Made,Field Goals Attempted,Safeties Scored by Player/Team,Total Points Scored by all Means,Poins per Game,Year
+0,11,Chargers,Cameron Dicker,23,K,17,0,0,0,0,0,0,0,0,0,0,0,0,35,35,31,33,,128,7.5,2023
+1,13,Chargers,Keenan Allen,31,WR,13,13,0,7,0,0,0,0,0,7,0,0,0,0,0,0,0,,42,3.2,2023
+2,30,Chargers,Austin Ekeler,28,RB,14,14,5,1,0,0,0,0,0,6,0,0,0,0,0,0,0,,36,2.6,2023
+3,89,Chargers,Donald Parham,26,TE,14,8,0,4,0,0,0,0,0,4,0,0,0,0,0,0,0,,24,1.7,2023
+4,7,Chargers,Gerald Everett,29,TE,15,12,0,3,0,0,0,0,0,3,0,0,0,0,0,0,0,,18,1.2,2023
+5,10,Chargers,Justin Herbert,25,QB,13,13,3,0,0,0,0,0,0,3,0,0,0,0,0,0,0,,18,1.4,2023
+6,1,Chargers,Quentin Johnston,22,WR,17,10,0,2,0,0,0,0,0,2,0,0,0,0,0,0,0,,12,0.7,2023
+7,25,Chargers,Joshua Kelley,26,RB,17,3,2,0,0,0,0,0,0,2,0,0,0,0,0,0,0,,12,0.7,2023
+8,5,Chargers,Josh Palmer,24,WR,10,6,0,2,0,0,0,0,0,2,0,0,0,0,0,0,0,,12,1.2,2023
+9,12,Chargers,Derius Davis,23,WR,17,2,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,,6,0.4,2023
+10,82,Chargers,Alex Erickson,31,WR,8,3,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,,6,0.8,2023
+11,87,Chargers,Simi Fehoko,26,WR,6,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,,6,1.0,2023
+12,15,Chargers,Jalen Guyton,26,WR,8,3,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,,6,0.8,2023
+13,84,Chargers,Stone Smartt,25,TE,16,3,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,,6,0.4,2023
+14,2,Chargers,Easton Stick,28,QB,5,4,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,,6,1.2,2023
+15,81,Chargers,Mike Williams,29,WR,3,3,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,,6,2.0,2023
+16,79,Chargers,Trey Pipkins,27,T,17,17,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,,2,0.1,2023

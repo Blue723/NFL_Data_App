@@ -1,46 +1,50 @@
-,No.,Team,Player,Age,Pos,Games Played,Games Started,Passes Intercepted on Defense,Yards Interceptions were Returned,Interceptions Returned for Touchdowns,Longest Interception Return,Passes Defended by Defensive Player,# Forced Fumble by Opp.,# Fumbled both Lost and Recovered by Own Team,Fumbles Recovered by Original Fumbler,Yards Recovered Fumbles were Returned,Fumbles Recovered for Touchdown,Sacks,Tackles Solo+Assisted,Solo Tackles,Assisted Tackles,Tackles for Loss,Quarterback Hits,Safeties Scored by Player/Team
-0,0,Ravens,Roquan Smith,26,LB,9,9,0,0,0,0,5,n/a,n/a,n/a,n/a,0,1.5,87,47,40,3,3,n/a
-6,6,Ravens,Patrick Queen,24,LB,9,9,0,0,0,0,3,n/a,n/a,n/a,n/a,0,3.5,75,47,28,7,5,n/a
-14,14,Ravens,Kyle Hamilton,22,S,9,9,1,0,0,0,4,1,0,0,0,0,3.0,45,37,8,6,3,n/a
-21,21,Ravens,Brandon Stephens,26,DB,9,9,2,56,0,52,8,n/a,n/a,n/a,n/a,0,0.0,47,35,12,0,0,n/a
-26,26,Ravens,Geno Stone,24,S,9,6,6,97,0,36,7,n/a,n/a,n/a,n/a,0,0.0,34,24,10,0,0,n/a
-92,92,Ravens,Justin Madubuike,26,DT,9,9,n/a,n/a,0,n/a,n/a,1,0,0,0,0,7.5,30,23,7,8,14,n/a
-24,24,Ravens,Jadeveon Clowney,30,OLB,9,7,0,0,0,0,3,n/a,n/a,n/a,n/a,0,3.5,19,14,5,4,11,n/a
-10,10,Ravens,Arthur Maulet,30,CB,7,2,0,0,0,0,3,n/a,n/a,n/a,n/a,0,2.0,18,15,3,4,2,n/a
-98,98,Ravens,Travis Jones,24,DT,9,0,0,0,0,0,1,n/a,n/a,n/a,n/a,0,0.0,20,14,6,3,1,n/a
-58,58,Ravens,Michael Pierce,31,NT,9,9,0,0,0,0,2,1,0,1,0,0,1.0,20,11,9,1,1,n/a
-28,28,Ravens,Ronald Darby,29,CB,9,4,0,0,0,0,4,n/a,n/a,n/a,n/a,0,0.0,16,14,2,1,0,n/a
-40,40,Ravens,Malik Harrison,25,LB,9,4,n/a,n/a,0,n/a,n/a,n/a,n/a,n/a,n/a,0,0.0,16,10,6,0,1,n/a
-50,50,Ravens,Kyle Van Noy,32,OLB,6,1,0,0,0,0,2,1,0,0,0,0,5.0,10,7,3,4,6,n/a
-44,44,Ravens,Marlon Humphrey,27,CB,5,5,0,0,0,0,1,n/a,n/a,n/a,n/a,0,0.0,11,9,2,0,0,n/a
-95,95,Ravens,Tavius Robinson,24,OLB,9,1,n/a,n/a,0,n/a,n/a,n/a,n/a,n/a,n/a,0,0.0,13,7,6,1,0,n/a
-96,96,Ravens,Broderick Washington Jr.,27,DT,9,4,n/a,n/a,0,n/a,n/a,0,0,1,0,0,1.0,11,6,5,2,3,n/a
-97,97,Ravens,Brent Urban,32,DE,9,0,0,0,0,0,2,n/a,n/a,n/a,n/a,0,1.0,10,7,3,2,3,n/a
-29,29,Ravens,Ar'Darius Washington,24,S,2,1,0,0,0,0,2,n/a,n/a,n/a,n/a,0,1.0,11,6,5,1,2,n/a
-99,99,Ravens,Odafe Oweh,25,OLB,5,3,n/a,n/a,0,n/a,n/a,1,0,0,0,0,2.0,9,6,3,1,7,n/a
-32,32,Ravens,Marcus Williams,27,S,3,3,0,0,0,0,2,n/a,n/a,n/a,n/a,0,0.0,10,7,3,0,0,n/a
-8,8,Ravens,Lamar Jackson,26,QB,9,9,n/a,n/a,0,n/a,n/a,0,10,4,-7,0,0.0,n/a,n/a,n/a,n/a,n/a,n/a
-90,90,Ravens,David Ojabo,23,OLB,3,1,n/a,n/a,0,n/a,n/a,1,0,0,0,0,1.0,6,5,1,0,1,n/a
-41,41,Ravens,Daryl Worley,28,CB,5,2,0,0,0,0,1,n/a,n/a,n/a,n/a,0,0.0,7,4,3,0,0,n/a
-48,48,Ravens,Jeremiah Moon,25,OLB,4,1,n/a,n/a,0,n/a,n/a,1,0,0,0,0,0.0,6,3,3,0,0,n/a
-25,25,Ravens,Kevon Seymour,30,CB,8,0,n/a,n/a,0,n/a,n/a,0,1,1,20,0,0.0,3,3,0,0,0,n/a
-23,23,Ravens,Rock Ya-Sin,27,CB,8,0,0,0,0,0,2,n/a,n/a,n/a,n/a,0,0.0,4,4,0,0,0,n/a
-53,53,Ravens,Del'Shawn Phillips,27,LB,9,0,n/a,n/a,0,n/a,n/a,0,0,1,0,0,0.0,5,1,4,0,0,n/a
-30,30,Ravens,Trenton Simpson,22,LB,9,0,n/a,n/a,0,n/a,n/a,n/a,n/a,n/a,n/a,0,0.0,3,3,0,0,0,n/a
-13,13,Ravens,Devin Duvernay,26,WR,9,1,n/a,n/a,0,n/a,n/a,n/a,n/a,n/a,n/a,0,0.0,2,2,0,0,0,n/a
-5,5,Ravens,Jalyn Armour-Davis,24,CB,4,0,n/a,n/a,0,n/a,n/a,n/a,n/a,n/a,n/a,0,0.0,2,1,1,0,0,n/a
-88,88,Ravens,Charlie Kolar,24,TE,7,0,n/a,n/a,0,n/a,n/a,n/a,n/a,n/a,n/a,0,0.0,2,1,1,0,0,n/a
-34,34,Ravens,Keaton Mitchell,21,RB,3,0,n/a,n/a,0,n/a,n/a,n/a,n/a,n/a,n/a,0,0.0,2,1,1,0,0,n/a
-18,18,Ravens,Laquon Treadwell,28,WR,2,0,n/a,n/a,0,n/a,n/a,n/a,n/a,n/a,n/a,0,0.0,2,1,1,0,0,n/a
-35,35,Ravens,Gus Edwards,28,RB,9,4,n/a,n/a,0,n/a,n/a,0,1,1,0,0,0.0,n/a,n/a,n/a,n/a,n/a,n/a
-45,45,Ravens,DeAndre Houston-Carson,30,DB,2,0,n/a,n/a,0,n/a,n/a,n/a,n/a,n/a,n/a,0,0.0,1,1,0,0,0,n/a
-80,80,Ravens,Isaiah Likely,23,TE,9,5,n/a,n/a,0,n/a,n/a,n/a,n/a,n/a,n/a,0,0.0,1,1,0,0,0,n/a
-49,49,Ravens,Tyler Ott,31,LS,9,0,n/a,n/a,0,n/a,n/a,n/a,n/a,n/a,n/a,0,0.0,1,1,0,0,0,n/a
-11,11,Ravens,Jordan Stout,25,P,9,0,n/a,n/a,0,n/a,n/a,n/a,n/a,n/a,n/a,0,0.0,1,1,0,0,0,n/a
-16,16,Ravens,Tylan Wallace,24,WR,4,0,n/a,n/a,0,n/a,n/a,n/a,n/a,n/a,n/a,0,0.0,1,1,0,0,0,n/a
-15,15,Ravens,Nelson Agholor,30,WR,9,2,n/a,n/a,0,n/a,n/a,0,1,0,0,0,0.0,n/a,n/a,n/a,n/a,n/a,n/a
-3,3,Ravens,Odell Beckham Jr.,31,WR,7,4,n/a,n/a,0,n/a,n/a,0,1,0,0,0,0.0,n/a,n/a,n/a,n/a,n/a,n/a
-37,37,Ravens,Kenyan Drake,29,RB,2,0,n/a,n/a,0,n/a,n/a,0,1,0,0,0,0.0,n/a,n/a,n/a,n/a,n/a,n/a
-43,43,Ravens,Justice Hill,26,RB,8,4,n/a,n/a,0,n/a,n/a,0,1,0,0,0,0.0,n/a,n/a,n/a,n/a,n/a,n/a
-61,61,Ravens,Sam Mustipher,27,C,6,2,n/a,n/a,0,n/a,n/a,0,1,0,0,0,0.0,n/a,n/a,n/a,n/a,n/a,n/a
-70,70,Ravens,Kevin Zeitler,33,G,9,9,n/a,n/a,0,n/a,n/a,0,0,1,0,0,0.0,n/a,n/a,n/a,n/a,n/a,n/a
+,No.,Team,Player,Age,Pos,Games Played,Games Started,Passes Intercepted on Defense,Yards Interceptions were Returned,Interceptions Returned for Touchdowns,Longest Interception Return,Passes Defended by Defensive Player,# Forced Fumble by Opp.,# Fumbled both Lost and Recovered by Own Team,Fumbles Recovered by Original Fumbler,Yards Recovered Fumbles were Returned,Fumbles Recovered for Touchdown,Sacks,Tackles Solo+Assisted,Solo Tackles,Assisted Tackles,Tackles for Loss,Quarterback Hits,Safeties Scored by Player/Team,Year
+0,0,Ravens,Roquan Smith,26,LB,16,16,1,30,0,30,8,1,0,0,0,0,1.5,158,84,74,5,5,0,2023
+1,6,Ravens,Patrick Queen,24,LB,17,17,1,21,0,21,6,1,0,1,0,0,3.5,133,84,49,9,6,0,2023
+2,14,Ravens,Kyle Hamilton,22,S,15,15,4,25,1,18,13,1,0,0,0,0,3.0,81,63,18,10,4,0,2023
+3,21,Ravens,Brandon Stephens,26,DB,16,16,2,56,0,52,11,0,0,0,0,0,0.0,74,57,17,2,0,0,2023
+4,26,Ravens,Geno Stone,24,SS/FS,17,11,7,101,0,36,9,0,0,0,0,0,0.0,68,44,24,0,0,0,2023
+5,92,Ravens,Justin Madubuike,26,DT,17,17,0,0,0,0,0,1,0,0,0,0,13.0,56,38,18,12,33,0,2023
+6,32,Ravens,Marcus Williams,27,S,11,11,1,22,0,22,8,0,0,0,0,0,0.0,55,35,20,1,0,0,2023
+7,24,Ravens,Jadeveon Clowney,30,OLB,17,15,0,0,0,0,5,2,0,1,0,0,9.5,43,24,19,9,19,0,2023
+8,10,Ravens,Arthur Maulet,30,CB,14,3,1,0,0,0,5,0,0,2,21,0,2.0,37,32,5,5,3,0,2023
+9,58,Ravens,Michael Pierce,31,NT,17,17,0,0,0,0,2,1,0,2,0,0,1.0,42,24,18,2,3,0,2023
+10,50,Ravens,Kyle Van Noy,32,OLB,14,3,0,0,0,0,4,2,0,0,0,0,9.0,30,20,10,9,9,0,2023
+11,98,Ravens,Travis Jones,24,DT,17,0,0,0,0,0,2,0,0,0,0,0,1.5,36,20,16,4,5,0,2023
+12,28,Ravens,Ronald Darby,29,LCB,16,7,0,0,0,0,7,0,0,0,0,0,0.0,28,24,4,1,0,0,2023
+13,44,Ravens,Marlon Humphrey,27,CB,10,10,1,3,0,3,5,0,0,0,0,0,0.0,26,22,4,1,1,0,2023
+14,99,Ravens,Odafe Oweh,25,OLB,13,5,0,0,0,0,0,2,0,0,0,0,5.0,23,20,3,4,12,0,2023
+15,97,Ravens,Brent Urban,32,DE,17,3,0,0,0,0,2,0,0,1,0,0,3.0,22,16,6,5,6,0,2023
+16,95,Ravens,Tavius Robinson,24,OLB,17,1,0,0,0,0,0,0,0,0,0,0,1.0,26,13,13,2,1,0,2023
+17,53,Ravens,Del'Shawn Phillips,27,LB,17,1,0,0,0,0,0,1,0,1,0,0,0.0,24,11,13,1,0,0,2023
+18,40,Ravens,Malik Harrison,25,LB,14,8,0,0,0,0,0,0,0,0,0,0,0.0,20,13,7,0,1,0,2023
+19,96,Ravens,Broderick Washington Jr.,27,DT,16,5,0,0,0,0,0,0,0,2,0,0,2.0,18,10,8,3,5,0,2023
+20,30,Ravens,Trenton Simpson,22,LB,15,0,0,0,0,0,0,0,0,1,10,0,1.0,13,10,3,2,1,0,2023
+21,23,Ravens,Rock Ya-Sin,27,CB,14,1,0,0,0,0,2,0,0,0,0,0,0.0,13,9,4,0,0,0,2023
+22,41,Ravens,Daryl Worley,28,CB,12,2,0,0,0,0,1,0,0,0,0,0,0.0,12,8,4,0,0,0,2023
+23,48,Ravens,Jeremiah Moon,25,LB,8,1,0,0,0,0,0,2,0,0,0,0,0.0,12,6,6,1,0,0,2023
+24,29,Ravens,Ar'Darius Washington,24,S,2,1,0,0,0,0,2,0,0,0,0,0,1.0,11,6,5,1,2,0,2023
+25,8,Ravens,Lamar Jackson,26,QB,16,16,0,0,0,0,0,0,11,4,-7,0,0.0,0,0,0,0,0,0,2023
+26,90,Ravens,David Ojabo,23,OLB,3,1,0,0,0,0,0,1,0,0,0,0,1.0,6,5,1,0,1,0,2023
+27,5,Ravens,Jalyn Armour-Davis,24,CB,8,0,0,0,0,0,0,0,0,0,0,0,0.0,6,2,4,0,0,0,2023
+28,25,Ravens,Kevon Seymour,30,CB,8,0,0,0,0,0,0,0,1,1,20,0,0.0,3,3,0,0,0,0,2023
+29,88,Ravens,Charlie Kolar,24,TE,15,3,0,0,0,0,0,0,0,0,0,0,0.0,4,3,1,0,0,0,2023
+30,49,Ravens,Tyler Ott,31,LS,17,0,0,0,0,0,0,0,0,0,0,0,0.0,4,3,1,0,0,0,2023
+31,13,Ravens,Devin Duvernay,26,WR,13,1,0,0,0,0,0,0,0,1,0,0,0.0,2,2,0,0,0,0,2023
+32,35,Ravens,Gus Edwards,28,RB,17,9,0,0,0,0,0,0,3,1,0,0,0.0,0,0,0,0,0,0,2023
+33,80,Ravens,Isaiah Likely,23,TE,17,8,0,0,0,0,0,0,0,0,0,0,0.0,2,2,0,0,0,0,2023
+34,11,Ravens,Jordan Stout,25,P,17,0,0,0,0,0,0,0,0,0,0,0,0.0,2,2,0,0,0,0,2023
+35,16,Ravens,Tylan Wallace,24,WR,11,0,0,0,0,0,0,0,0,0,0,0,0.0,2,2,0,0,0,0,2023
+36,34,Ravens,Keaton Mitchell,21,RB,8,2,0,0,0,0,0,0,0,0,0,0,0.0,2,1,1,0,0,0,2023
+37,18,Ravens,Laquon Treadwell,28,WR,5,1,0,0,0,0,0,0,0,0,0,0,0.0,2,1,1,0,0,0,2023
+38,89,Ravens,Mark Andrews,28,TE,10,9,0,0,0,0,0,0,1,1,0,0,0.0,0,0,0,0,0,0,2023
+39,45,Ravens,DeAndre Houston-Carson,30,S,2,0,0,0,0,0,0,0,0,0,0,0,0.0,1,1,0,0,0,0,2023
+40,15,Ravens,Nelson Agholor,30,WR,17,3,0,0,0,0,0,0,1,0,0,0,0.0,0,0,0,0,0,0,2023
+41,3,Ravens,Odell Beckham Jr.,31,WR,14,6,0,0,0,0,0,0,1,0,0,0,0.0,0,0,0,0,0,0,2023
+42,37,Ravens,Kenyan Drake,29,RB,2,0,0,0,0,0,0,0,1,0,0,0,0.0,0,0,0,0,0,0,2023
+43,33,Ravens,Melvin Gordon,30,RB,4,0,0,0,0,0,0,0,1,0,0,0,0.0,0,0,0,0,0,0,2023
+44,43,Ravens,Justice Hill,26,RB,16,5,0,0,0,0,0,0,1,0,0,0,0.0,0,0,0,0,0,0,2023
+45,64,Ravens,Tyler Linderbaum,23,C,15,15,0,0,0,0,0,0,1,0,-15,0,0.0,0,0,0,0,0,0,2023
+46,61,Ravens,Sam Mustipher,27,C,9,2,0,0,0,0,0,0,1,0,0,0,0.0,0,0,0,0,0,0,2023
+47,76,Ravens,John Simpson,26,G,17,17,0,0,0,0,0,0,0,1,8,0,0.0,0,0,0,0,0,0,2023
+48,70,Ravens,Kevin Zeitler,33,G,15,15,0,0,0,0,0,0,0,1,0,0,0.0,0,0,0,0,0,0,2023

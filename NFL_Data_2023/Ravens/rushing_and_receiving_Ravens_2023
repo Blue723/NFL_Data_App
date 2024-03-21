@@ -1,18 +1,20 @@
-,No.,Team,Player,Age,Position,Games Played,Games Started as an Offensive or Defensive Player,Rushing Attempts,Rushing Yards Gained,Rushing Touchdown,First Downs Rushing,Rushing Success Rate,Longest Rushing Attempt,Rushing Yards per Attempt,Rushing Yards per Game,Rushing Attempts per Game,Pass Targets,Receptions,Receiving Yards,Receiving Yards per Reception,Receiving Touchdowns,First Downs Receiving,Receiving Success Rate,Longest Reception,Receptions per Game,Receiving Yards per Game,Catch%,Receiving Yards per Target,Touches: Rushing Attempts and Receptions,Scrimmage Yards per Touch: Rushing + Receiving Yardage per Opportunity,Yards from Scrimmage: Receiving and Rushing Yards,Rushing and Receiving Touchdowns,Lost and Recovered Fumbles
-35,35,Ravens,Gus Edwards,28,RB,9,4,110,478,7,29,54.5,42,4.3,53.1,12.2,7,6,107,17.8,0,2,71.4,80,0.7,11.9,85.7%,15.3,116,5.0,585,7,1
-8,8,Ravens,Lamar Jackson,26,QB,9,9,84,440,5,32,54.8,26,5.2,48.9,9.3,n/a,n/a,n/a,n/a,0,n/a,n/a,n/a,n/a,n/a,n/a,n/a,84,5.2,440,5,10
-43,43,Ravens,Justice Hill,26,RB,8,4,58,251,3,14,44.8,27,4.3,31.4,7.3,16,15,67,4.5,0,2,31.3,24,1.9,8.4,93.8%,4.2,73,4.4,318,3,1
-33,33,Ravens,Melvin Gordon,30,RB,2,0,13,53,0,2,23.1,22,4.1,26.5,6.5,3,3,46,15.3,0,3,100.0,23,1.5,23.0,100.0%,15.3,16,6.2,99,0,n/a
-34,34,Ravens,Keaton Mitchell,21,RB,3,0,9,138,1,5,77.8,60,15.3,46.0,3.0,2,2,5,2.5,0,0,50.0,9,0.7,1.7,100.0%,2.5,11,13.0,143,1,n/a
-27,27,Ravens,J.K. Dobbins,25,RB,1,1,8,22,1,1,50.0,4,2.8,22.0,8.0,3,2,15,7.5,0,0,66.7,10,2.0,15.0,66.7%,5.0,10,3.7,37,1,n/a
-4,4,Ravens,Zay Flowers,23,WR,9,9,6,12,0,0,33.3,6,2.0,1.3,0.7,62,45,472,10.5,1,20,54.8,52,5.0,52.4,72.6%,7.6,51,9.5,484,1,n/a
-2,2,Ravens,Tyler Huntley,25,QB,3,0,6,16,0,1,16.7,8,2.7,5.3,2.0,n/a,n/a,n/a,n/a,0,n/a,n/a,n/a,n/a,n/a,n/a,n/a,6,2.7,16,0,n/a
-13,13,Ravens,Devin Duvernay,26,WR,9,1,3,15,0,n/a,66.7,8,5.0,1.7,0.3,9,4,18,4.5,0,n/a,11.1,10,0.4,2.0,44.4%,2.0,7,4.7,33,0,n/a
-89,89,Ravens,Mark Andrews,28,TE,8,7,1,0,0,0,0.0,0,0.0,0.0,0.1,55,41,477,11.6,6,25,61.8,38,5.1,59.6,74.5%,8.7,42,11.4,477,6,n/a
-7,7,Ravens,Rashod Bateman,24,WR,8,4,1,18,0,1,100.0,18,18.0,2.3,0.1,25,17,180,10.6,0,7,52.0,29,2.1,22.5,68.0%,7.2,18,11.0,198,0,n/a
-37,37,Ravens,Kenyan Drake,29,RB,2,0,1,0,0,n/a,0.0,0,0.0,0.0,0.5,3,2,31,15.5,0,n/a,66.7,24,1.0,15.5,66.7%,10.3,3,10.3,31,0,1
-3,3,Ravens,Odell Beckham Jr.,31,WR,7,4,n/a,n/a,0,n/a,n/a,n/a,n/a,n/a,n/a,33,19,218,11.5,1,12,48.5,32,2.7,31.1,57.6%,6.6,19,11.5,218,1,1
-15,15,Ravens,Nelson Agholor,30,WR,9,2,n/a,n/a,0,n/a,n/a,n/a,n/a,n/a,n/a,23,18,224,12.4,2,11,56.5,30,2.0,24.9,78.3%,9.7,18,12.4,224,2,1
-80,80,Ravens,Isaiah Likely,23,TE,9,5,n/a,n/a,0,n/a,n/a,n/a,n/a,n/a,n/a,9,8,84,10.5,0,5,77.8,20,0.9,9.3,88.9%,9.3,8,10.5,84,0,n/a
-42,42,Ravens,Patrick Ricard,29,FB,9,4,n/a,n/a,0,n/a,n/a,n/a,n/a,n/a,n/a,4,4,48,12.0,0,2,50.0,28,0.4,5.3,100.0%,12.0,4,12.0,48,0,n/a
-88,88,Ravens,Charlie Kolar,24,TE,7,0,n/a,n/a,0,n/a,n/a,n/a,n/a,n/a,n/a,1,0,0,n/a,0,n/a,0.0,0,0.0,0.0,0.0%,0.0,n/a,n/a,n/a,0,n/a
+,No.,Team,Player,Age,Position,Games Played,Games Started as an Offensive or Defensive Player,Rushing Attempts,Rushing Yards Gained,Rushing Touchdown,First Downs Rushing,Rushing Success Rate,Longest Rushing Attempt,Rushing Yards per Attempt,Rushing Yards per Game,Rushing Attempts per Game,Pass Targets,Receptions,Receiving Yards,Receiving Yards per Reception,Receiving Touchdowns,First Downs Receiving,Receiving Success Rate,Longest Reception,Receptions per Game,Receiving Yards per Game,Catch Per.,Receiving Yards per Target,Touches: Rushing Attempts and Receptions,Scrimmage Yards per Touch: Rushing + Receiving Yardage per Opportunity,Yards from Scrimmage: Receiving and Rushing Yards,Rushing and Receiving Touchdowns,Lost and Recovered Fumbles,Year
+0,35,Ravens,Gus Edwards,28,RB,17,9,198,810,13,49,54.0,42,4.1,47.6,11.6,13,12,180,15.0,0,5,69.2,80,0.7,10.6,92.3,13.8,210,4.7,990,13,3,2023
+1,8,Ravens,Lamar Jackson,26,QB,16,16,148,821,5,48,54.1,30,5.5,51.3,9.3,0,0,0,,0,0,,0,,,0.0,,148,5.5,821,5,11,2023
+2,43,Ravens,Justice Hill,26,RB,16,5,84,387,3,19,48.8,41,4.6,24.2,5.3,39,28,206,7.4,1,8,30.8,24,1.8,12.9,71.8,5.3,112,5.3,593,4,1,2023
+3,34,Ravens,Keaton Mitchell,21,RB,8,2,47,396,2,19,68.1,60,8.4,49.5,5.9,11,9,93,10.3,0,5,63.6,32,1.1,11.6,81.8,8.5,56,8.7,489,2,0,2023
+4,33,Ravens,Melvin Gordon,30,RB,4,0,26,81,1,4,30.8,22,3.1,20.3,6.5,3,3,46,15.3,0,3,100.0,23,0.8,11.5,100.0,15.3,29,4.4,127,1,1,2023
+5,2,Ravens,Tyler Huntley,25,QB,5,1,15,55,0,3,40.0,11,3.7,11.0,3.0,0,0,0,,0,0,,0,,,0.0,,15,3.7,55,0,0,2023
+6,4,Ravens,Zay Flowers,23,WR,16,16,8,56,1,1,50.0,37,7.0,3.5,0.5,108,77,858,11.1,5,41,55.6,75,4.8,53.6,71.3,7.9,85,10.8,914,6,0,2023
+7,27,Ravens,J.K. Dobbins,25,RB,1,1,8,22,1,1,50.0,4,2.8,22.0,8.0,3,2,15,7.5,0,0,66.7,10,2.0,15.0,66.7,5.0,10,3.7,37,1,0,2023
+8,13,Ravens,Devin Duvernay,26,WR,13,1,4,15,0,0,50.0,8,3.8,1.2,0.3,9,4,18,4.5,0,0,11.1,10,0.3,1.4,44.4,2.0,8,4.1,33,0,0,2023
+9,89,Ravens,Mark Andrews,28,TE,10,9,1,0,0,0,0.0,0,0.0,0.0,0.1,61,45,544,12.1,6,27,62.3,38,4.5,54.4,73.8,8.9,46,11.8,544,6,1,2023
+10,7,Ravens,Rashod Bateman,24,WR,16,12,1,18,0,1,100.0,18,18.0,1.1,0.1,56,32,367,11.5,1,20,50.0,29,2.0,22.9,57.1,6.6,33,11.7,385,1,0,2023
+11,37,Ravens,Kenyan Drake,29,RB,2,0,1,0,0,0,0.0,0,0.0,0.0,0.5,3,2,31,15.5,0,0,66.7,24,1.0,15.5,66.7,10.3,3,10.3,31,0,1,2023
+12,15,Ravens,Nelson Agholor,30,WR,17,3,0,0,0,0,,0,,,,45,35,381,10.9,4,19,55.6,37,2.1,22.4,77.8,8.5,35,10.9,381,4,1,2023
+13,3,Ravens,Odell Beckham Jr.,31,WR,14,6,0,0,0,0,,0,,,,64,35,565,16.1,3,27,50.0,51,2.5,40.4,54.7,8.8,35,16.1,565,3,1,2023
+14,80,Ravens,Isaiah Likely,23,TE,17,8,0,0,0,0,,0,,,,40,30,411,13.7,5,15,60.0,54,1.8,24.2,75.0,10.3,30,13.7,411,5,0,2023
+15,88,Ravens,Charlie Kolar,24,TE,15,3,0,0,0,0,,0,,,,9,7,87,12.4,1,5,77.8,19,0.5,5.8,77.8,9.7,7,12.4,87,1,0,2023
+16,42,Ravens,Patrick Ricard,29,FB,17,9,0,0,0,0,,0,,,,7,5,52,10.4,1,3,42.9,28,0.3,3.1,71.4,7.4,5,10.4,52,1,0,2023
+17,18,Ravens,Laquon Treadwell,28,WR,5,1,0,0,0,0,,0,,,,3,1,16,16.0,0,1,33.3,16,0.2,3.2,33.3,5.3,1,16.0,16,0,0,2023
+18,16,Ravens,Tylan Wallace,24,WR,11,0,0,0,0,0,,0,,,,2,1,11,11.0,0,1,50.0,11,0.1,1.0,50.0,5.5,1,11.0,11,0,0,2023

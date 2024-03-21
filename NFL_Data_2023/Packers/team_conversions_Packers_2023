@@ -1,5 +1,5 @@
-,Player,Team,3rd Down Attempts in Game,3rd Down Conversions,3rd Down Conversion %,4th Down Attempts in Game,4th Down Conversions in Game,4th Down Conversion %,Red Zone Attempts,Touchdowns Scored After the Team Entered the Red Zone,% of the Time a Team Reaches the Red Zone and Scores a Touchdown
-Team Stats,Team Stats,Packers,108,45,41.7,15,8,53.3,27,14,51.9
-Opp. Stats,Opp. Stats,Packers,116,45,38.8,14,9,64.3,26,12,46.2
-Lg Rank Offense,Lg Rank Offense,Packers,n/a,n/a,10,n/a,n/a,12,n/a,n/a,17
-Lg Rank Defense,Lg Rank Defense,Packers,n/a,n/a,15,n/a,n/a,31,n/a,n/a,9
+,Player,Team,3rd Down Attempts in Game,3rd Down Conversions,3rd Down Conversion Per.,4th Down Attempts in Game,4th Down Conversions in Game,4th Down Conversion Per.,Red Zone Attempts,Touchdowns Scored After the Team Entered the Red Zone,Per. of the Time a Team Reaches the Red Zone and Scores a Touchdown,Year
+0,Team Stats,Packers,223.0,105.0,47.1,24.0,12.0,50.0,64.0,33.0,51.6,2023.0
+1,Opp. Stats,Packers,224.0,92.0,41.1,30.0,14.0,46.7,57.0,29.0,50.9,2023.0
+2,Lg Rank Offense,Packers,,,5.0,,,16.0,,,20.0,2023.0
+3,Lg Rank Defense,Packers,,,25.0,,,8.0,,,10.0,2023.0
