@@ -1,23 +1,23 @@
-,Week,Team,Day,Date,Time,Win/Loss,Overtime,Team Record,Home/Away,Opponent,Points Scored,Points Allowed,Offense 1st Down,Total Yards Gained of Offense,Total yards Gained by Passing,Total Yards Gained by Rushing,Offense Turnovers,Defense 1st Down,Total Yards Allowed by Defense,Total Passing Yards Allowed by Defense,Total Rushing Yards Allowed by Defense,Defense Turnovers,Offense,Defense,Sp. Tms
-1,1,Chiefs,Sun,September 12,4:25PM ET,W,n/a,1-0,home,Cleveland Browns,33,29,21,397,324,73,n/a,24,457,304,153,2,19.34,-20.54,-0.35
-2,2,Chiefs,Sun,September 19,8:20PM ET,L,n/a,1-1,away,Baltimore Ravens,35,36,22,405,343,62,2,31,481,230,251,2,15.89,-16.88,1.01
-3,3,Chiefs,Sun,September 26,1:00PM ET,L,n/a,1-2,home,Los Angeles Chargers,24,30,33,437,251,186,4,21,352,275,77,n/a,9.49,-16.65,3.01
-4,4,Chiefs,Sun,October 3,1:00PM ET,W,n/a,2-2,away,Philadelphia Eagles,42,30,31,471,271,200,1,30,461,358,103,n/a,34.67,-21.32,-0.70
-5,5,Chiefs,Sun,October 10,8:20PM ET,L,n/a,2-3,home,Buffalo Bills,20,38,29,392,272,120,4,20,436,315,121,n/a,-1.20,-19.84,1.50
-6,6,Chiefs,Sun,October 17,1:00PM ET,W,n/a,3-3,away,Washington Football Team,31,13,29,499,390,109,3,15,276,182,94,2,9.15,5.66,1.44
-7,7,Chiefs,Sun,October 24,1:00PM ET,L,n/a,3-4,away,Tennessee Titans,3,27,22,334,257,77,3,24,369,266,103,1,-7.62,-15.54,-0.06
-8,8,Chiefs,Mon,November 1,8:15PM ET,W,n/a,4-4,home,New York Giants,20,17,29,368,261,107,2,18,300,228,72,1,2.01,2.30,2.73
-9,9,Chiefs,Sun,November 7,4:25PM ET,W,n/a,5-4,home,Green Bay Packers,13,7,14,237,160,77,n/a,19,301,179,122,2,-6.84,0.97,12.35
-10,10,Chiefs,Sun,November 14,8:20PM ET,W,n/a,6-4,away,Las Vegas Raiders,41,14,29,516,422,94,1,15,299,249,50,2,34.37,1.08,-7.21
-11,11,Chiefs,Sun,November 21,4:25PM ET,W,n/a,7-4,home,Dallas Cowboys,19,9,22,370,244,126,2,16,276,194,82,3,-2.37,15.89,-5.44
-12,12,Chiefs,n/a,n/a,n/a,n/a,n/a,n/a,home,<strong>Bye Week</strong>,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
-13,13,Chiefs,Sun,December 5,8:20PM ET,W,n/a,8-4,home,Denver Broncos,22,9,15,267,178,89,1,22,404,250,154,3,-4.04,8.21,5.89
-14,14,Chiefs,Sun,December 12,1:00PM ET,W,n/a,9-4,home,Las Vegas Raiders,48,9,21,372,240,132,n/a,19,290,246,44,5,25.70,9.74,1.07
-15,15,Chiefs,Thu,December 16,8:20PM ET,W,OT,10-4,away,Los Angeles Chargers,34,28,26,496,410,86,2,28,428,236,192,2,13.18,-6.23,-1.57
-16,16,Chiefs,Sun,December 26,4:25PM ET,W,n/a,11-4,home,Pittsburgh Steelers,36,10,25,381,254,127,n/a,20,303,173,130,3,16.97,6.16,-2.77
-17,17,Chiefs,Sun,January 2,1:00PM ET,L,n/a,11-5,away,Cincinnati Bengals,31,34,23,414,259,155,n/a,23,475,415,60,n/a,25.13,-28.52,1.86
-18,18,Chiefs,Sat,January 8,4:30PM ET,W,n/a,12-5,away,Denver Broncos,28,24,28,390,255,135,n/a,18,364,173,191,1,17.95,-4.60,-5.59
-n/a,n/a,Chiefs,n/a,<strong>Playoffs</strong>,n/a,n/a,n/a,n/a,home,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
-Wild Card,Wild Card,Chiefs,Sun,January 16,8:15PM ET,W,n/a,13-5,home,Pittsburgh Steelers,42,21,26,478,372,106,2,19,257,201,56,1,16.09,2.06,-0.99
-Division,Division,Chiefs,Sun,January 23,6:30PM ET,W,OT,14-5,home,Buffalo Bills,42,36,30,552,370,182,n/a,23,422,313,109,n/a,32.62,-25.24,1.15
-Conf. Champ.,Conf. Champ.,Chiefs,Sun,January 30,3:00PM ET,L,OT,14-6,home,Cincinnati Bengals,24,27,24,375,236,139,2,21,359,243,116,1,11.28,-8.39,0.28
+,Week,Team,Day,Date,Time,Win/Loss,Overtime,Team Record,Home/Away,Opponent,Points Scored,Points Allowed,Offense 1st Down,Total Yards Gained of Offense,Total yards Gained by Passing,Total Yards Gained by Rushing,Offense Turnovers,Defense 1st Down,Total Yards Allowed by Defense,Total Passing Yards Allowed by Defense,Total Rushing Yards Allowed by Defense,Defense Turnovers,Offense,Defense,Sp. Tms,Year
+0,0,Chiefs,Sun,September 12,,W,0,1-0,home,Cleveland Browns,33,29,21,397,324,73,0,24,457,304,153,2,19.34,-20.54,-0.35,2021
+1,1,Chiefs,Sun,September 19,,L,0,1-1,away,Baltimore Ravens,35,36,22,405,343,62,2,31,481,230,251,2,15.89,-16.88,1.01,2021
+2,2,Chiefs,Sun,September 26,,L,0,1-2,home,Los Angeles Chargers,24,30,33,437,251,186,4,21,352,275,77,0,9.49,-16.65,3.01,2021
+3,3,Chiefs,Sun,October 3,,W,0,2-2,away,Philadelphia Eagles,42,30,31,471,271,200,1,30,461,358,103,0,34.67,-21.32,-0.7,2021
+4,4,Chiefs,Sun,October 10,,L,0,2-3,home,Buffalo Bills,20,38,29,392,272,120,4,20,436,315,121,0,-1.2,-19.84,1.5,2021
+5,5,Chiefs,Sun,October 17,,W,0,3-3,away,Washington Football Team,31,13,29,499,390,109,3,15,276,182,94,2,9.15,5.66,1.44,2021
+6,6,Chiefs,Sun,October 24,,L,0,3-4,away,Tennessee Titans,3,27,22,334,257,77,3,24,369,266,103,1,-7.62,-15.54,-0.06,2021
+7,7,Chiefs,Mon,November 1,,W,0,4-4,home,New York Giants,20,17,29,368,261,107,2,18,300,228,72,1,2.01,2.3,2.73,2021
+8,8,Chiefs,Sun,November 7,,W,0,5-4,home,Green Bay Packers,13,7,14,237,160,77,0,19,301,179,122,2,-6.84,0.97,12.35,2021
+9,9,Chiefs,Sun,November 14,,W,0,6-4,away,Las Vegas Raiders,41,14,29,516,422,94,1,15,299,249,50,2,34.37,1.08,-7.21,2021
+10,10,Chiefs,Sun,November 21,,W,0,7-4,home,Dallas Cowboys,19,9,22,370,244,126,2,16,276,194,82,3,-2.37,15.89,-5.44,2021
+11,11,Chiefs,,,,,0,,home,<strong>Bye Week</strong>,0,0,0,0,0,0,0,0,0,0,0,0,,,,2021
+12,12,Chiefs,Sun,December 5,,W,0,8-4,home,Denver Broncos,22,9,15,267,178,89,1,22,404,250,154,3,-4.04,8.21,5.89,2021
+13,13,Chiefs,Sun,December 12,,W,0,9-4,home,Las Vegas Raiders,48,9,21,372,240,132,0,19,290,246,44,5,25.7,9.74,1.07,2021
+14,14,1,1,1,1.0,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1.0,1.0,1.0,1
+15,15,Chiefs,Sun,December 26,,W,0,11-4,home,Pittsburgh Steelers,36,10,25,381,254,127,0,20,303,173,130,3,16.97,6.16,-2.77,2021
+16,16,Chiefs,Sun,January 2,,L,0,11-5,away,Cincinnati Bengals,31,34,23,414,259,155,0,23,475,415,60,0,25.13,-28.52,1.86,2021
+17,17,Chiefs,Sat,January 8,,W,0,12-5,away,Denver Broncos,28,24,28,390,255,135,0,18,364,173,191,1,17.95,-4.6,-5.59,2021
+18,18,Chiefs,,<strong>Playoffs</strong>,,,0,,home,,0,0,0,0,0,0,0,0,0,0,0,0,,,,2021
+19,19,Chiefs,Sun,January 16,,W,0,13-5,home,Pittsburgh Steelers,42,21,26,478,372,106,2,19,257,201,56,1,16.09,2.06,-0.99,2021
+20,20,1,1,1,1.0,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1.0,1.0,1.0,1
+21,21,1,1,1,1.0,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1.0,1.0,1.0,1

@@ -1,5 +1,5 @@
-,Player,Team,3rd Down Attempts in Game,3rd Down Conversions,3rd Down Conversion %,4th Down Attempts in Game,4th Down Conversions in Game,4th Down Conversion %,Red Zone Attempts,Touchdowns Scored After the Team Entered the Red Zone,% of the Time a Team Reaches the Red Zone and Scores a Touchdown
-Team Stats,Team Stats,Buccaneers,223,105,47.1%,16,9,56.3%,68,45,66.2%
-Opp. Stats,Opp. Stats,Buccaneers,226,87,38.5%,28,13,46.4%,59,31,52.5%
-Lg Rank Offense,Lg Rank Offense,Buccaneers,n/a,n/a,2,n/a,n/a,14,n/a,n/a,2
-Lg Rank Defense,Lg Rank Defense,Buccaneers,n/a,n/a,12,n/a,n/a,9,n/a,n/a,10
+,Player,Team,3rd Down Attempts in Game,3rd Down Conversions,3rd Down Conversion Per.,4th Down Attempts in Game,4th Down Conversions in Game,4th Down Conversion Per.,Red Zone Attempts,Touchdowns Scored After the Team Entered the Red Zone,Per. of the Time a Team Reaches the Red Zone and Scores a Touchdown,Year
+0,Team Stats,Buccaneers,223.0,105.0,47.1,16.0,9.0,56.3,68.0,45.0,66.2,2021.0
+1,Opp. Stats,Buccaneers,226.0,87.0,38.5,28.0,13.0,46.4,59.0,31.0,52.5,2021.0
+2,Lg Rank Offense,Buccaneers,,,2.0,,,14.0,,,2.0,2021.0
+3,Lg Rank Defense,Buccaneers,,,12.0,,,9.0,,,10.0,2021.0

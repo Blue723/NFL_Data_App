@@ -1,8 +1,8 @@
-,No.,Team,Player,Age,Position,Games Played,Games Started,Punts Returned,Punts Return Yardage,Punts Returned for Touchdown,Longest Punt Return,Yards per Punt Return,Kickoff Returns,Yardage for Kickoffs Returned,Kickoffs Returned for a Touchdown,Longest Kickoff Return,Yards per Kickoff Return,All-purpose Yards
-19,19,Texans,Andre Roberts,33,WR,6,0,8,33,0,11,4.1,18,386,0,38,21.4,454
-24,24,Texans,Tremon Smith,25,DB,17,2,1,1,0,1,1.0,21,537,1,98,25.6,545
-25,25,Texans,Desmond King,27,LCB,16,12,17,154,0,20,9.1,1,27,0,27,27.0,206
-89,89,Texans,Danny Amendola,36,WR,8,0,n/a,n/a,0,n/a,n/a,1,15,0,15,15.0,263
-83,83,Texans,Antony Auclair,28,TE,16,13,n/a,n/a,0,n/a,n/a,1,11,0,11,11.0,58
-38,38,Texans,Jaylen Samuels,25,RB,3,0,n/a,n/a,0,n/a,n/a,1,0,0,0,0.0,23
-37,37,Texans,Tavierre Thomas,25,DB,17,8,n/a,n/a,0,n/a,n/a,0,30,0,0,n/a,78
+,No.,Team,Player,Age,Position,Games Played,Games Started,Punts Returned,Punts Return Yardage,Punts Returned for Touchdown,Longest Punt Return,Yards per Punt Return,Kickoff Returns,Yardage for Kickoffs Returned,Kickoffs Returned for a Touchdown,Longest Kickoff Return,Yards per Kickoff Return,All-purpose Yards,Year
+0,19,Texans,Andre Roberts,33,WR,6,0,8,33,0,11,4.1,18,386,0,38,21.4,454,2021
+1,24,Texans,Tremon Smith,25,DB,17,2,1,1,0,1,1.0,21,537,1,98,25.6,545,2021
+2,25,Texans,Desmond King,27,LCB,16,12,17,154,0,20,9.1,1,27,0,27,27.0,206,2021
+3,89,Texans,Danny Amendola,36,WR,8,0,0,0,0,0,,1,15,0,15,15.0,263,2021
+4,83,Texans,Antony Auclair,28,TE,16,13,0,0,0,0,,1,11,0,11,11.0,58,2021
+5,38,Texans,Jaylen Samuels,25,RB,3,0,0,0,0,0,,1,0,0,0,0.0,23,2021
+6,37,Texans,Tavierre Thomas,25,DB,17,8,0,0,0,0,,0,30,0,0,,78,2021

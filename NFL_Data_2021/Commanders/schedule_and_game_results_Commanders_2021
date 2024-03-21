@@ -1,19 +1,19 @@
-,Week,Team,Day,Date,Time,Win/Loss,Overtime,Team Record,Home/Away,Opponent,Points Scored,Points Allowed,Offense 1st Down,Total Yards Gained of Offense,Total yards Gained by Passing,Total Yards Gained by Rushing,Offense Turnovers,Defense 1st Down,Total Yards Allowed by Defense,Total Passing Yards Allowed by Defense,Total Rushing Yards Allowed by Defense,Defense Turnovers,Offense,Defense,Sp. Tms
-1,1,Commanders,Sun,September 12,1:00PM ET,L,n/a,0-1,home,Los Angeles Chargers,16,20,15,259,133,126,1,27,424,334,90,2,1.45,-9.45,1.24
-2,2,Commanders,Thu,September 16,8:20PM ET,W,n/a,1-1,home,New York Giants,30,29,25,407,320,87,1,21,391,228,163,n/a,12.19,-10.45,-0.60
-3,3,Commanders,Sun,September 26,1:00PM ET,L,n/a,1-2,away,Buffalo Bills,21,43,13,290,212,78,3,29,481,359,122,n/a,-8.27,-20.55,7.29
-4,4,Commanders,Sun,October 3,1:00PM ET,W,n/a,2-2,away,Atlanta Falcons,34,30,26,412,290,122,n/a,24,374,275,99,n/a,18.15,-19.36,3.26
-5,5,Commanders,Sun,October 10,1:00PM ET,L,n/a,2-3,home,New Orleans Saints,22,33,26,373,242,131,2,18,369,271,98,2,-7.31,-8.56,3.41
-6,6,Commanders,Sun,October 17,1:00PM ET,L,n/a,2-4,home,Kansas City Chiefs,13,31,15,276,182,94,2,29,499,390,109,3,-5.66,-9.15,-1.44
-7,7,Commanders,Sun,October 24,1:00PM ET,L,n/a,2-5,away,Green Bay Packers,10,24,25,430,235,195,2,19,304,247,57,1,-0.39,-8.64,-3.31
-8,8,Commanders,Sun,October 31,4:25PM ET,L,n/a,2-6,away,Denver Broncos,10,17,21,342,230,112,2,17,273,190,83,1,1.75,-5.10,-2.71
-9,9,Commanders,n/a,n/a,n/a,n/a,n/a,n/a,home,<strong>Bye Week</strong>,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
-10,10,Commanders,Sun,November 14,1:00PM ET,W,n/a,3-6,home,Tampa Bay Buccaneers,29,19,23,320,226,94,1,14,273,220,53,2,10.01,-3.21,0.67
-11,11,Commanders,Sun,November 21,1:00PM ET,W,n/a,4-6,away,Carolina Panthers,27,21,24,369,179,190,1,18,297,186,111,n/a,13.28,-6.37,0.05
-12,12,Commanders,Mon,November 29,8:15PM ET,W,n/a,5-6,home,Seattle Seahawks,17,15,27,371,219,152,1,10,267,233,34,1,6.29,2.58,-2.42
-13,13,Commanders,Sun,December 5,4:05PM ET,W,n/a,6-6,away,Las Vegas Raiders,17,15,23,298,186,112,1,22,310,234,76,n/a,8.22,-6.39,0.07
-14,14,Commanders,Sun,December 12,1:00PM ET,L,n/a,6-7,home,Dallas Cowboys,20,27,14,224,124,100,4,19,323,201,122,2,-25.49,12.16,2.14
-15,15,Commanders,Tue,December 21,7:00PM ET,L,n/a,6-8,away,Philadelphia Eagles,17,27,14,237,174,63,n/a,23,519,281,238,2,-0.64,-13.15,5.36
-16,16,Commanders,Sun,December 26,8:20PM ET,L,n/a,6-9,away,Dallas Cowboys,14,56,14,257,172,85,2,28,497,389,108,n/a,-10.62,-31.30,-0.47
-17,17,Commanders,Sun,January 2,1:00PM ET,L,n/a,6-10,home,Philadelphia Eagles,16,20,24,312,218,94,1,18,330,212,118,n/a,2.61,-9.44,2.02
-18,18,Commanders,Sun,January 9,1:00PM ET,W,n/a,7-10,away,New York Giants,22,7,16,325,99,226,n/a,10,177,83,94,3,0.23,20.98,-7.21
+,Week,Team,Day,Date,Time,Win/Loss,Overtime,Team Record,Home/Away,Opponent,Points Scored,Points Allowed,Offense 1st Down,Total Yards Gained of Offense,Total yards Gained by Passing,Total Yards Gained by Rushing,Offense Turnovers,Defense 1st Down,Total Yards Allowed by Defense,Total Passing Yards Allowed by Defense,Total Rushing Yards Allowed by Defense,Defense Turnovers,Offense,Defense,Sp. Tms,Year
+0,0,Commanders,Sun,September 12,,L,0,0-1,home,Los Angeles Chargers,16,20,15,259,133,126,1,27,424,334,90,2,1.45,-9.45,1.24,2021
+1,1,Commanders,Thu,September 16,,W,0,1-1,home,New York Giants,30,29,25,407,320,87,1,21,391,228,163,0,12.19,-10.45,-0.6,2021
+2,2,Commanders,Sun,September 26,,L,0,1-2,away,Buffalo Bills,21,43,13,290,212,78,3,29,481,359,122,0,-8.27,-20.55,7.29,2021
+3,3,Commanders,Sun,October 3,,W,0,2-2,away,Atlanta Falcons,34,30,26,412,290,122,0,24,374,275,99,0,18.15,-19.36,3.26,2021
+4,4,Commanders,Sun,October 10,,L,0,2-3,home,New Orleans Saints,22,33,26,373,242,131,2,18,369,271,98,2,-7.31,-8.56,3.41,2021
+5,5,Commanders,Sun,October 17,,L,0,2-4,home,Kansas City Chiefs,13,31,15,276,182,94,2,29,499,390,109,3,-5.66,-9.15,-1.44,2021
+6,6,Commanders,Sun,October 24,,L,0,2-5,away,Green Bay Packers,10,24,25,430,235,195,2,19,304,247,57,1,-0.39,-8.64,-3.31,2021
+7,7,Commanders,Sun,October 31,,L,0,2-6,away,Denver Broncos,10,17,21,342,230,112,2,17,273,190,83,1,1.75,-5.1,-2.71,2021
+8,8,Commanders,,,,,0,,home,<strong>Bye Week</strong>,0,0,0,0,0,0,0,0,0,0,0,0,,,,2021
+9,9,Commanders,Sun,November 14,,W,0,3-6,home,Tampa Bay Buccaneers,29,19,23,320,226,94,1,14,273,220,53,2,10.01,-3.21,0.67,2021
+10,10,Commanders,Sun,November 21,,W,0,4-6,away,Carolina Panthers,27,21,24,369,179,190,1,18,297,186,111,0,13.28,-6.37,0.05,2021
+11,11,Commanders,Mon,November 29,,W,0,5-6,home,Seattle Seahawks,17,15,27,371,219,152,1,10,267,233,34,1,6.29,2.58,-2.42,2021
+12,12,Commanders,Sun,December 5,,W,0,6-6,away,Las Vegas Raiders,17,15,23,298,186,112,1,22,310,234,76,0,8.22,-6.39,0.07,2021
+13,13,Commanders,Sun,December 12,,L,0,6-7,home,Dallas Cowboys,20,27,14,224,124,100,4,19,323,201,122,2,-25.49,12.16,2.14,2021
+14,14,Commanders,Tue,December 21,,L,0,6-8,away,Philadelphia Eagles,17,27,14,237,174,63,0,23,519,281,238,2,-0.64,-13.15,5.36,2021
+15,15,Commanders,Sun,December 26,,L,0,6-9,away,Dallas Cowboys,14,56,14,257,172,85,2,28,497,389,108,0,-10.62,-31.3,-0.47,2021
+16,16,Commanders,Sun,January 2,,L,0,6-10,home,Philadelphia Eagles,16,20,24,312,218,94,1,18,330,212,118,0,2.61,-9.44,2.02,2021
+17,17,Commanders,Sun,January 9,,W,0,7-10,away,New York Giants,22,7,16,325,99,226,0,10,177,83,94,3,0.23,20.98,-7.21,2021

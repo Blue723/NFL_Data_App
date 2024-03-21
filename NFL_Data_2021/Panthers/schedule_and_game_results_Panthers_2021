@@ -1,19 +1,19 @@
-,Week,Team,Day,Date,Time,Win/Loss,Overtime,Team Record,Home/Away,Opponent,Points Scored,Points Allowed,Offense 1st Down,Total Yards Gained of Offense,Total yards Gained by Passing,Total Yards Gained by Rushing,Offense Turnovers,Defense 1st Down,Total Yards Allowed by Defense,Total Passing Yards Allowed by Defense,Total Rushing Yards Allowed by Defense,Defense Turnovers,Offense,Defense,Sp. Tms
-1,1,Panthers,Sun,September 12,1:00PM ET,W,n/a,1-0,home,New York Jets,19,14,18,381,270,111,1,16,252,207,45,1,1.31,10.00,-3.49
-2,2,Panthers,Sun,September 19,1:00PM ET,W,n/a,2-0,home,New Orleans Saints,26,7,28,383,294,89,1,6,128,80,48,2,12.61,21.20,-12.63
-3,3,Panthers,Thu,September 23,8:20PM ET,W,n/a,3-0,away,Houston Texans,24,9,28,407,290,117,n/a,14,193,151,42,n/a,14.35,5.60,-5.17
-4,4,Panthers,Sun,October 3,1:00PM ET,L,n/a,3-1,away,Dallas Cowboys,28,36,24,379,266,113,2,24,433,188,245,n/a,10.49,-19.39,-1.46
-5,5,Panthers,Sun,October 10,1:00PM ET,L,n/a,3-2,home,Philadelphia Eagles,18,21,17,267,158,109,3,15,273,182,91,2,-16.27,15.13,-3.99
-6,6,Panthers,Sun,October 17,1:00PM ET,L,OT,3-3,home,Minnesota Vikings,28,34,20,306,188,118,3,26,571,373,198,1,-9.64,-8.77,12.64
-7,7,Panthers,Sun,October 24,1:00PM ET,L,n/a,3-4,away,New York Giants,3,25,11,173,117,56,1,21,302,199,103,n/a,-22.46,3.21,-2.91
-8,8,Panthers,Sun,October 31,1:00PM ET,W,n/a,4-4,away,Atlanta Falcons,19,13,21,332,129,203,1,17,213,131,82,2,0.86,2.84,4.14
-9,9,Panthers,Sun,November 7,1:00PM ET,L,n/a,4-5,home,New England Patriots,6,24,13,240,162,78,3,17,273,122,151,2,-26.35,3.56,5.26
-10,10,Panthers,Sun,November 14,4:05PM ET,W,n/a,5-5,away,Arizona Cardinals,34,10,24,341,175,166,2,11,169,104,65,2,2.27,19.35,1.02
-11,11,Panthers,Sun,November 21,1:00PM ET,L,n/a,5-6,home,Washington Football Team,21,27,18,297,186,111,n/a,24,369,179,190,1,6.37,-13.28,-0.05
-12,12,Panthers,Sun,November 28,1:00PM ET,L,n/a,5-7,away,Miami Dolphins,10,33,10,198,134,64,3,22,315,204,111,1,-17.24,-1.89,-2.85
-13,13,Panthers,n/a,n/a,n/a,n/a,n/a,n/a,home,<strong>Bye Week</strong>,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
-14,14,Panthers,Sun,December 12,1:00PM ET,L,n/a,5-8,home,Atlanta Falcons,21,29,21,334,243,91,3,20,318,190,128,1,-5.38,-4.15,-1.74
-15,15,Panthers,Sun,December 19,1:00PM ET,L,n/a,5-9,away,Buffalo Bills,14,31,19,275,124,151,1,21,312,193,119,1,-11.11,-9.55,1.29
-16,16,Panthers,Sun,December 26,1:00PM ET,L,n/a,5-10,home,Tampa Bay Buccaneers,6,32,16,273,206,67,1,21,391,232,159,n/a,-11.17,-13.01,2.95
-17,17,Panthers,Sun,January 2,1:00PM ET,L,n/a,5-11,away,New Orleans Saints,10,18,16,178,90,88,2,15,280,207,73,n/a,-10.01,0.34,-0.41
-18,18,Panthers,Sun,January 9,1:00PM ET,L,n/a,5-12,away,Tampa Bay Buccaneers,17,41,18,317,207,110,2,21,409,324,85,n/a,-10.73,-20.33,4.03
+,Week,Team,Day,Date,Time,Win/Loss,Overtime,Team Record,Home/Away,Opponent,Points Scored,Points Allowed,Offense 1st Down,Total Yards Gained of Offense,Total yards Gained by Passing,Total Yards Gained by Rushing,Offense Turnovers,Defense 1st Down,Total Yards Allowed by Defense,Total Passing Yards Allowed by Defense,Total Rushing Yards Allowed by Defense,Defense Turnovers,Offense,Defense,Sp. Tms,Year
+0,0,Panthers,Sun,September 12,,W,0,1-0,home,New York Jets,19,14,18,381,270,111,1,16,252,207,45,1,1.31,10.0,-3.49,2021
+1,1,Panthers,Sun,September 19,,W,0,2-0,home,New Orleans Saints,26,7,28,383,294,89,1,6,128,80,48,2,12.61,21.2,-12.63,2021
+2,2,Panthers,Thu,September 23,,W,0,3-0,away,Houston Texans,24,9,28,407,290,117,0,14,193,151,42,0,14.35,5.6,-5.17,2021
+3,3,Panthers,Sun,October 3,,L,0,3-1,away,Dallas Cowboys,28,36,24,379,266,113,2,24,433,188,245,0,10.49,-19.39,-1.46,2021
+4,4,Panthers,Sun,October 10,,L,0,3-2,home,Philadelphia Eagles,18,21,17,267,158,109,3,15,273,182,91,2,-16.27,15.13,-3.99,2021
+5,5,1,1,1,1.0,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1.0,1.0,1.0,1
+6,6,Panthers,Sun,October 24,,L,0,3-4,away,New York Giants,3,25,11,173,117,56,1,21,302,199,103,0,-22.46,3.21,-2.91,2021
+7,7,Panthers,Sun,October 31,,W,0,4-4,away,Atlanta Falcons,19,13,21,332,129,203,1,17,213,131,82,2,0.86,2.84,4.14,2021
+8,8,Panthers,Sun,November 7,,L,0,4-5,home,New England Patriots,6,24,13,240,162,78,3,17,273,122,151,2,-26.35,3.56,5.26,2021
+9,9,Panthers,Sun,November 14,,W,0,5-5,away,Arizona Cardinals,34,10,24,341,175,166,2,11,169,104,65,2,2.27,19.35,1.02,2021
+10,10,Panthers,Sun,November 21,,L,0,5-6,home,Washington Football Team,21,27,18,297,186,111,0,24,369,179,190,1,6.37,-13.28,-0.05,2021
+11,11,Panthers,Sun,November 28,,L,0,5-7,away,Miami Dolphins,10,33,10,198,134,64,3,22,315,204,111,1,-17.24,-1.89,-2.85,2021
+12,12,Panthers,,,,,0,,home,<strong>Bye Week</strong>,0,0,0,0,0,0,0,0,0,0,0,0,,,,2021
+13,13,Panthers,Sun,December 12,,L,0,5-8,home,Atlanta Falcons,21,29,21,334,243,91,3,20,318,190,128,1,-5.38,-4.15,-1.74,2021
+14,14,Panthers,Sun,December 19,,L,0,5-9,away,Buffalo Bills,14,31,19,275,124,151,1,21,312,193,119,1,-11.11,-9.55,1.29,2021
+15,15,Panthers,Sun,December 26,,L,0,5-10,home,Tampa Bay Buccaneers,6,32,16,273,206,67,1,21,391,232,159,0,-11.17,-13.01,2.95,2021
+16,16,Panthers,Sun,January 2,,L,0,5-11,away,New Orleans Saints,10,18,16,178,90,88,2,15,280,207,73,0,-10.01,0.34,-0.41,2021
+17,17,Panthers,Sun,January 9,,L,0,5-12,away,Tampa Bay Buccaneers,17,41,18,317,207,110,2,21,409,324,85,0,-10.73,-20.33,4.03,2021

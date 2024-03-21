@@ -1,6 +1,6 @@
-,No.,Team,Player,Age,Position,Games Played,Games Started,Punts Returned,Punts Return Yardage,Punts Returned for Touchdown,Longest Punt Return,Yards per Punt Return,Kickoff Returns,Yardage for Kickoffs Returned,Kickoffs Returned for a Touchdown,Longest Kickoff Return,Yards per Kickoff Return,All-purpose Yards
-35,35,Falcons,Avery Williams,23,DB,15,1,20,153,0,23,7.7,23,490,0,38,21.3,643
-84,84,Falcons,Cordarrelle Patterson,30,RB,16,13,n/a,n/a,0,n/a,n/a,18,434,0,32,24.1,1609
-17,17,Falcons,Olamide Zaccheaus,24,WR,17,8,3,36,0,17,12.0,2,41,0,24,20.5,485
-40,40,Falcons,Keith Smith,29,FB,17,8,n/a,n/a,0,n/a,n/a,2,26,0,16,13.0,113
-53,53,Falcons,Daren Bates,31,LB,7,0,n/a,n/a,0,n/a,n/a,1,8,0,8,8.0,8
+,No.,Team,Player,Age,Position,Games Played,Games Started,Punts Returned,Punts Return Yardage,Punts Returned for Touchdown,Longest Punt Return,Yards per Punt Return,Kickoff Returns,Yardage for Kickoffs Returned,Kickoffs Returned for a Touchdown,Longest Kickoff Return,Yards per Kickoff Return,All-purpose Yards,Year
+0,35,Falcons,Avery Williams,23,DB,15,1,20,153,0,23,7.7,23,490,0,38,21.3,643,2021
+1,84,Falcons,Cordarrelle Patterson,30,RB,16,13,0,0,0,0,,18,434,0,32,24.1,1609,2021
+2,17,Falcons,Olamide Zaccheaus,24,WR,17,8,3,36,0,17,12.0,2,41,0,24,20.5,485,2021
+3,40,Falcons,Keith Smith,29,FB,17,8,0,0,0,0,,2,26,0,16,13.0,113,2021
+4,53,Falcons,Daren Bates,31,LB,7,0,0,0,0,0,,1,8,0,8,8.0,8,2021

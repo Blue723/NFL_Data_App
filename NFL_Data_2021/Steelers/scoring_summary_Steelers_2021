@@ -1,11 +1,11 @@
-,No.,Team,Player,Age,Pos,Games Played,Games Started,Rush TD,Reception TD,Punt Return TD,Kick Return TD,Fumble Return TD,Interception TD,Other TD,All Touchdown Scored,2-Point Conversions Made,Two-Point Conversions Attempted,Defensive Two-Point Conversions,Extra Points Made,Extra Points Allowed,Field Goals Made,Field Goals Attempted,Safeties Scored by Player/Team,Total Points Scored by all Means,Poins per Game
-9,9,Steelers,Chris Boswell,30,K,17,0,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,0,27,29,36,40,n/a,135,7.9
-22,22,Steelers,Najee Harris,23,RB,17,17,7,3,n/a,n/a,n/a,n/a,n/a,10,n/a,n/a,0,n/a,n/a,n/a,n/a,n/a,60,3.5
-18,18,Steelers,Diontae Johnson,25,WR,16,14,n/a,8,n/a,n/a,n/a,n/a,n/a,8,1,n/a,0,n/a,n/a,n/a,n/a,n/a,50,3.1
-88,88,Steelers,Pat Freiermuth,23,TE,16,9,n/a,7,n/a,n/a,n/a,n/a,n/a,7,1,n/a,0,n/a,n/a,n/a,n/a,n/a,44,2.8
-11,11,Steelers,Chase Claypool,23,WR,15,13,n/a,2,n/a,n/a,n/a,n/a,n/a,2,n/a,n/a,0,n/a,n/a,n/a,n/a,n/a,12,0.8
-85,85,Steelers,Eric Ebron,28,TE,8,3,1,1,n/a,n/a,n/a,n/a,n/a,2,n/a,n/a,0,n/a,n/a,n/a,n/a,n/a,12,1.5
-13,13,Steelers,James Washington,25,WR,15,2,n/a,2,n/a,n/a,n/a,n/a,n/a,2,n/a,n/a,0,n/a,n/a,n/a,n/a,n/a,12,0.8
-54,54,Steelers,Ulysees Gilbert,24,LB,17,0,n/a,n/a,n/a,n/a,n/a,n/a,1,1,n/a,n/a,0,n/a,n/a,n/a,n/a,n/a,6,0.4
-7,7,Steelers,Ben Roethlisberger,39,QB,16,16,1,n/a,n/a,n/a,n/a,n/a,n/a,1,n/a,n/a,0,n/a,n/a,n/a,n/a,n/a,6,0.4
-19,19,Steelers,JuJu Smith-Schuster,25,WR,5,5,1,n/a,n/a,n/a,n/a,n/a,n/a,1,n/a,n/a,0,n/a,n/a,n/a,n/a,n/a,6,1.2
+,No.,Team,Player,Age,Pos,Games Played,Games Started,Rush TD,Reception TD,Punt Return TD,Kick Return TD,Fumble Return TD,Interception TD,Other TD,All Touchdown Scored,2-Point Conversions Made,Two-Point Conversions Attempted,Defensive Two-Point Conversions,Extra Points Made,Extra Points Allowed,Field Goals Made,Field Goals Attempted,Safeties Scored by Player/Team,Total Points Scored by all Means,Poins per Game,Year
+0,9,Steelers,Chris Boswell,30,K,17,0,0,0,0,0,0,0,0,0,0,0,0,27,29,36,40,,135,7.9,2021
+1,22,Steelers,Najee Harris,23,RB,17,17,7,3,0,0,0,0,0,10,0,0,0,0,0,0,0,,60,3.5,2021
+2,18,Steelers,Diontae Johnson,25,WR,16,14,0,8,0,0,0,0,0,8,1,0,0,0,0,0,0,,50,3.1,2021
+3,88,Steelers,Pat Freiermuth,23,TE,16,9,0,7,0,0,0,0,0,7,1,0,0,0,0,0,0,,44,2.8,2021
+4,11,Steelers,Chase Claypool,23,WR,15,13,0,2,0,0,0,0,0,2,0,0,0,0,0,0,0,,12,0.8,2021
+5,85,Steelers,Eric Ebron,28,TE,8,3,1,1,0,0,0,0,0,2,0,0,0,0,0,0,0,,12,1.5,2021
+6,13,Steelers,James Washington,25,WR,15,2,0,2,0,0,0,0,0,2,0,0,0,0,0,0,0,,12,0.8,2021
+7,54,Steelers,Ulysees Gilbert,24,LB,17,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,,6,0.4,2021
+8,7,Steelers,Ben Roethlisberger,39,QB,16,16,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,,6,0.4,2021
+9,19,Steelers,JuJu Smith-Schuster,25,WR,5,5,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,,6,1.2,2021

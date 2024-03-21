@@ -1,14 +1,14 @@
-,No.,Team,Player,Age,Pos,Games Played,Games Started,Rush TD,Reception TD,Punt Return TD,Kick Return TD,Fumble Return TD,Interception TD,Other TD,All Touchdown Scored,2-Point Conversions Made,Two-Point Conversions Attempted,Defensive Two-Point Conversions,Extra Points Made,Extra Points Allowed,Field Goals Made,Field Goals Attempted,Safeties Scored by Player/Team,Total Points Scored by all Means,Poins per Game
-1,1,Vikings,Greg Joseph,27,K,17,0,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,0,36,40,33,38,n/a,135,7.9
-18,18,Vikings,Justin Jefferson,22,WR,17,17,n/a,10,n/a,n/a,n/a,n/a,n/a,10,n/a,n/a,0,n/a,n/a,n/a,n/a,n/a,60,3.5
-19,19,Vikings,Adam Thielen,31,WR,13,13,n/a,10,n/a,n/a,n/a,n/a,n/a,10,n/a,n/a,0,n/a,n/a,n/a,n/a,n/a,60,4.6
-17,17,Vikings,K.J. Osborn,24,WR,17,9,n/a,7,n/a,n/a,n/a,n/a,n/a,7,n/a,n/a,0,n/a,n/a,n/a,n/a,n/a,42,2.5
-33,33,Vikings,Dalvin Cook,26,RB,13,13,6,n/a,n/a,n/a,n/a,n/a,n/a,6,1,n/a,0,n/a,n/a,n/a,n/a,n/a,38,2.9
-25,25,Vikings,Alexander Mattison,23,RB,16,4,3,1,n/a,n/a,n/a,n/a,n/a,4,n/a,n/a,0,n/a,n/a,n/a,n/a,n/a,24,1.5
-83,83,Vikings,Tyler Conklin,26,TE,17,15,n/a,3,n/a,n/a,n/a,n/a,n/a,3,n/a,n/a,0,n/a,n/a,n/a,n/a,n/a,18,1.1
-26,26,Vikings,Kene Nwangwu,23,RB,11,0,n/a,n/a,n/a,2,n/a,n/a,n/a,2,n/a,n/a,0,n/a,n/a,n/a,n/a,n/a,12,1.1
-15,15,Vikings,Ihmir Smith-Marsette,22,WR,8,1,n/a,2,n/a,n/a,n/a,n/a,n/a,2,n/a,n/a,0,n/a,n/a,n/a,n/a,n/a,12,1.5
-8,8,Vikings,Kirk Cousins,33,QB,16,16,1,n/a,n/a,n/a,n/a,n/a,n/a,1,n/a,n/a,0,n/a,n/a,n/a,n/a,n/a,6,0.4
-89,89,Vikings,Chris Herndon,25,FB,16,5,n/a,1,n/a,n/a,n/a,n/a,n/a,1,n/a,n/a,0,n/a,n/a,n/a,n/a,n/a,6,0.4
-7,7,Vikings,Patrick Peterson,31,LCB,13,13,n/a,n/a,n/a,n/a,n/a,1,n/a,1,n/a,n/a,0,n/a,n/a,n/a,n/a,n/a,6,0.5
-59,59,Vikings,Nick Vigil,28,RLB,16,12,n/a,n/a,n/a,n/a,n/a,1,n/a,1,n/a,n/a,0,n/a,n/a,n/a,n/a,n/a,6,0.4
+,No.,Team,Player,Age,Pos,Games Played,Games Started,Rush TD,Reception TD,Punt Return TD,Kick Return TD,Fumble Return TD,Interception TD,Other TD,All Touchdown Scored,2-Point Conversions Made,Two-Point Conversions Attempted,Defensive Two-Point Conversions,Extra Points Made,Extra Points Allowed,Field Goals Made,Field Goals Attempted,Safeties Scored by Player/Team,Total Points Scored by all Means,Poins per Game,Year
+0,1,Vikings,Greg Joseph,27,K,17,0,0,0,0,0,0,0,0,0,0,0,0,36,40,33,38,,135,7.9,2021
+1,18,Vikings,Justin Jefferson,22,WR,17,17,0,10,0,0,0,0,0,10,0,0,0,0,0,0,0,,60,3.5,2021
+2,19,Vikings,Adam Thielen,31,WR,13,13,0,10,0,0,0,0,0,10,0,0,0,0,0,0,0,,60,4.6,2021
+3,17,Vikings,K.J. Osborn,24,WR,17,9,0,7,0,0,0,0,0,7,0,0,0,0,0,0,0,,42,2.5,2021
+4,33,Vikings,Dalvin Cook,26,RB,13,13,6,0,0,0,0,0,0,6,1,0,0,0,0,0,0,,38,2.9,2021
+5,25,Vikings,Alexander Mattison,23,RB,16,4,3,1,0,0,0,0,0,4,0,0,0,0,0,0,0,,24,1.5,2021
+6,83,Vikings,Tyler Conklin,26,TE,17,15,0,3,0,0,0,0,0,3,0,0,0,0,0,0,0,,18,1.1,2021
+7,26,Vikings,Kene Nwangwu,23,RB,11,0,0,0,0,2,0,0,0,2,0,0,0,0,0,0,0,,12,1.1,2021
+8,15,Vikings,Ihmir Smith-Marsette,22,WR,8,1,0,2,0,0,0,0,0,2,0,0,0,0,0,0,0,,12,1.5,2021
+9,8,Vikings,Kirk Cousins,33,QB,16,16,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,,6,0.4,2021
+10,89,Vikings,Chris Herndon,25,FB,16,5,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,,6,0.4,2021
+11,7,Vikings,Patrick Peterson,31,LCB,13,13,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,,6,0.5,2021
+12,59,Vikings,Nick Vigil,28,RLB,16,12,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,,6,0.4,2021

@@ -1,5 +1,5 @@
-,Player,Team,3rd Down Attempts in Game,3rd Down Conversions,3rd Down Conversion %,4th Down Attempts in Game,4th Down Conversions in Game,4th Down Conversion %,Red Zone Attempts,Touchdowns Scored After the Team Entered the Red Zone,% of the Time a Team Reaches the Red Zone and Scores a Touchdown
-Team Stats,Team Stats,Patriots,209,91,43.5%,17,11,64.7%,63,39,61.9%
-Opp. Stats,Opp. Stats,Patriots,211,77,36.5%,32,17,53.1%,48,23,47.9%
-Lg Rank Offense,Lg Rank Offense,Patriots,n/a,n/a,10,n/a,n/a,4,n/a,n/a,11
-Lg Rank Defense,Lg Rank Defense,Patriots,n/a,n/a,5,n/a,n/a,15,n/a,n/a,2
+,Player,Team,3rd Down Attempts in Game,3rd Down Conversions,3rd Down Conversion Per.,4th Down Attempts in Game,4th Down Conversions in Game,4th Down Conversion Per.,Red Zone Attempts,Touchdowns Scored After the Team Entered the Red Zone,Per. of the Time a Team Reaches the Red Zone and Scores a Touchdown,Year
+0,Team Stats,Patriots,209.0,91.0,43.5,17.0,11.0,64.7,63.0,39.0,61.9,2021.0
+1,Opp. Stats,Patriots,211.0,77.0,36.5,32.0,17.0,53.1,48.0,23.0,47.9,2021.0
+2,Lg Rank Offense,Patriots,,,10.0,,,4.0,,,11.0,2021.0
+3,Lg Rank Defense,Patriots,,,5.0,,,15.0,,,2.0,2021.0

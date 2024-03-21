@@ -1,6 +1,6 @@
-,No.,Team,Player,Age,Position,Games Played,Games Started,Punts Returned,Punts Return Yardage,Punts Returned for Touchdown,Longest Punt Return,Yards per Punt Return,Kickoff Returns,Yardage for Kickoffs Returned,Kickoffs Returned for a Touchdown,Longest Kickoff Return,Yards per Kickoff Return,All-purpose Yards
-21,21,Colts,Nyheim Hines,25,RB,17,4,23,170,0,16,7.4,4,70,0,20,17.5,826
-34,34,Colts,Isaiah Rodgers,23,CB,17,1,n/a,n/a,0,n/a,n/a,19,501,0,72,26.4,525
-16,16,Colts,Ashton Dulin,24,WR,17,1,n/a,n/a,0,n/a,n/a,8,206,0,31,25.8,411
-14,14,Colts,Zach Pascal,27,WR,16,13,n/a,n/a,0,n/a,n/a,1,14,0,14,14.0,419
-20,20,Colts,Jordan Wilkins,27,RB,4,0,n/a,n/a,0,n/a,n/a,1,17,0,17,17.0,17
+,No.,Team,Player,Age,Position,Games Played,Games Started,Punts Returned,Punts Return Yardage,Punts Returned for Touchdown,Longest Punt Return,Yards per Punt Return,Kickoff Returns,Yardage for Kickoffs Returned,Kickoffs Returned for a Touchdown,Longest Kickoff Return,Yards per Kickoff Return,All-purpose Yards,Year
+0,21,Colts,Nyheim Hines,25,RB,17,4,23,170,0,16,7.4,4,70,0,20,17.5,826,2021
+1,34,Colts,Isaiah Rodgers,23,CB,17,1,0,0,0,0,,19,501,0,72,26.4,525,2021
+2,16,Colts,Ashton Dulin,24,WR,17,1,0,0,0,0,,8,206,0,31,25.8,411,2021
+3,14,Colts,Zach Pascal,27,WR,16,13,0,0,0,0,,1,14,0,14,14.0,419,2021
+4,20,Colts,Jordan Wilkins,27,RB,4,0,0,0,0,0,,1,17,0,17,17.0,17,2021

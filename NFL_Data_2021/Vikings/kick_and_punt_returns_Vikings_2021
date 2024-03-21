@@ -1,9 +1,9 @@
-,No.,Team,Player,Age,Position,Games Played,Games Started,Punts Returned,Punts Return Yardage,Punts Returned for Touchdown,Longest Punt Return,Yards per Punt Return,Kickoff Returns,Yardage for Kickoffs Returned,Kickoffs Returned for a Touchdown,Longest Kickoff Return,Yards per Kickoff Return,All-purpose Yards
-12,12,Vikings,Dede Westbrook,28,WR,15,0,22,183,0,45,8.3,n/a,n/a,0,n/a,n/a,251
-26,26,Vikings,Kene Nwangwu,23,RB,11,0,n/a,n/a,0,n/a,n/a,18,579,2,99,32.2,649
-31,31,Vikings,Ameer Abdullah,28,RB,6,0,n/a,n/a,0,n/a,n/a,7,162,0,45,23.1,209
-17,17,Vikings,K.J. Osborn,24,WR,17,9,4,23,0,11,5.8,n/a,n/a,0,n/a,n/a,688
-15,15,Vikings,Ihmir Smith-Marsette,22,WR,8,1,n/a,n/a,0,n/a,n/a,4,83,0,24,20.8,199
-31,31,Vikings,Wayne Gallman,27,RB,2,0,n/a,n/a,0,n/a,n/a,1,7,0,7,7.0,7
-25,25,Vikings,Alexander Mattison,23,RB,16,4,n/a,n/a,0,n/a,n/a,1,18,0,18,18.0,738
-44,44,Vikings,Josh Metellus,23,S,16,0,n/a,n/a,0,n/a,n/a,1,0,0,0,0.0,0
+,No.,Team,Player,Age,Position,Games Played,Games Started,Punts Returned,Punts Return Yardage,Punts Returned for Touchdown,Longest Punt Return,Yards per Punt Return,Kickoff Returns,Yardage for Kickoffs Returned,Kickoffs Returned for a Touchdown,Longest Kickoff Return,Yards per Kickoff Return,All-purpose Yards,Year
+0,12,Vikings,Dede Westbrook,28,WR,15,0,22,183,0,45,8.3,0,0,0,0,,251,2021
+1,26,Vikings,Kene Nwangwu,23,RB,11,0,0,0,0,0,,18,579,2,99,32.2,649,2021
+2,31,Vikings,Ameer Abdullah,28,RB,6,0,0,0,0,0,,7,162,0,45,23.1,209,2021
+3,17,Vikings,K.J. Osborn,24,WR,17,9,4,23,0,11,5.8,0,0,0,0,,688,2021
+4,15,Vikings,Ihmir Smith-Marsette,22,WR,8,1,0,0,0,0,,4,83,0,24,20.8,199,2021
+5,31,Vikings,Wayne Gallman,27,RB,2,0,0,0,0,0,,1,7,0,7,7.0,7,2021
+6,25,Vikings,Alexander Mattison,23,RB,16,4,0,0,0,0,,1,18,0,18,18.0,738,2021
+7,44,Vikings,Josh Metellus,23,S,16,0,0,0,0,0,,1,0,0,0,0.0,0,2021

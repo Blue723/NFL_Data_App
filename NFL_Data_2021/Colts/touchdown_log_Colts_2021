@@ -1,53 +1,53 @@
-,Rank,Team,Date,Opponent,Results,Quarter,Distance,Type,Detail
-1,1,Colts,2021-09-12,SEA,"L, 16-28",2,10,pass,Zach Pascal
-2,2,Colts,2021-09-12,SEA,"L, 16-28",4,11,pass,Zach Pascal
-3,3,Colts,2021-09-19,LAR,"L, 24-27",3,8,pass,Zach Pascal
-4,4,Colts,2021-09-19,LAR,"L, 24-27",4,n/a,fumble,Ashton Dulin
-5,5,Colts,2021-09-26,TEN,"L, 16-25",2,9,rush,Nyheim Hines
-6,6,Colts,2021-10-03,MIA,"W, 27-17",2,23,rush,Jonathan Taylor
-7,7,Colts,2021-10-03,MIA,"W, 27-17",3,3,pass,Mo Alie-Cox
-8,8,Colts,2021-10-03,MIA,"W, 27-17",4,11,pass,Mo Alie-Cox
-9,9,Colts,2021-10-11,BAL,"L, 25-31",1,76,pass,Jonathan Taylor
-10,10,Colts,2021-10-11,BAL,"L, 25-31",3,42,pass,Michael Pittman Jr.
-11,11,Colts,2021-10-11,BAL,"L, 25-31",3,4,rush,Jonathan Taylor
-12,12,Colts,2021-10-17,HOU,"W, 31-3",1,51,pass,Parris Campbell
-13,13,Colts,2021-10-17,HOU,"W, 31-3",3,28,pass,Mo Alie-Cox
-14,14,Colts,2021-10-17,HOU,"W, 31-3",3,4,rush,Jonathan Taylor
-15,15,Colts,2021-10-17,HOU,"W, 31-3",4,11,rush,Jonathan Taylor
-16,16,Colts,2021-10-24,SFO,"W, 30-18",1,11,pass,Mo Alie-Cox
-17,17,Colts,2021-10-24,SFO,"W, 30-18",2,1,rush,Carson Wentz
-18,18,Colts,2021-10-24,SFO,"W, 30-18",3,5,rush,Jonathan Taylor
-19,19,Colts,2021-10-24,SFO,"W, 30-18",4,28,pass,Michael Pittman Jr.
-20,20,Colts,2021-10-31,TEN,"L, 31-34",1,2,pass,Michael Pittman Jr.
-21,21,Colts,2021-10-31,TEN,"L, 31-34",1,7,pass,Michael Pittman Jr.
-22,22,Colts,2021-10-31,TEN,"L, 31-34",3,5,pass,Jack Doyle
-23,23,Colts,2021-10-31,TEN,"L, 31-34",4,1,rush,Jonathan Taylor
-24,24,Colts,2021-11-04,NYJ,"W, 45-30",1,34,rush,Nyheim Hines
-25,25,Colts,2021-11-04,NYJ,"W, 45-30",2,21,rush,Jonathan Taylor
-26,26,Colts,2021-11-04,NYJ,"W, 45-30",2,1,pass,Jack Doyle
-27,27,Colts,2021-11-04,NYJ,"W, 45-30",2,11,pass,Michael Pittman Jr.
-28,28,Colts,2021-11-04,NYJ,"W, 45-30",3,2,pass,Danny Pinter
-29,29,Colts,2021-11-04,NYJ,"W, 45-30",3,78,rush,Jonathan Taylor
-30,30,Colts,2021-11-14,JAX,"W, 23-17",1,12,blocked punt,E.J. Speed
-31,31,Colts,2021-11-14,JAX,"W, 23-17",1,4,rush,Jonathan Taylor
-32,32,Colts,2021-11-21,BUF,"W, 41-15",1,3,rush,Jonathan Taylor
-33,33,Colts,2021-11-21,BUF,"W, 41-15",1,23,pass,Jonathan Taylor
-34,34,Colts,2021-11-21,BUF,"W, 41-15",2,2,rush,Jonathan Taylor
-35,35,Colts,2021-11-21,BUF,"W, 41-15",3,10,rush,Jonathan Taylor
-36,36,Colts,2021-11-21,BUF,"W, 41-15",3,1,rush,Jonathan Taylor
-37,37,Colts,2021-11-28,TAM,"L, 31-38",2,62,pass,Ashton Dulin
-38,38,Colts,2021-11-28,TAM,"L, 31-38",2,15,pass,Jack Doyle
-39,39,Colts,2021-11-28,TAM,"L, 31-38",2,4,pass,T.Y. Hilton
-40,40,Colts,2021-11-28,TAM,"L, 31-38",4,4,rush,Jonathan Taylor
-41,41,Colts,2021-12-05,HOU,"W, 31-0",1,1,rush,Jonathan Taylor
-42,42,Colts,2021-12-05,HOU,"W, 31-0",2,2,pass,Ashton Dulin
-43,43,Colts,2021-12-05,HOU,"W, 31-0",3,3,rush,Jonathan Taylor
-44,44,Colts,2021-12-05,HOU,"W, 31-0",4,3,rush,Deon Jackson
-45,45,Colts,2021-12-18,NWE,"W, 27-17",1,8,pass,Nyheim Hines
-46,46,Colts,2021-12-18,NWE,"W, 27-17",1,n/a,blocked punt,E.J. Speed
-47,47,Colts,2021-12-18,NWE,"W, 27-17",4,67,rush,Jonathan Taylor
-48,48,Colts,2021-12-25,ARI,"W, 22-16",1,1,pass,T.Y. Hilton
-49,49,Colts,2021-12-25,ARI,"W, 22-16",4,14,pass,Dezmon Patmon
-50,50,Colts,2022-01-02,LVR,"L, 20-23",2,1,rush,Jonathan Taylor
-51,51,Colts,2022-01-02,LVR,"L, 20-23",3,45,pass,T.Y. Hilton
-52,52,Colts,2022-01-09,JAX,"L, 11-26",4,12,pass,Michael Pittman Jr.
+,Rank,Team,Date,Opponent,Win/Loss,Score,Quarter,Distance,Type,Detail,Year
+0,1,Colts,09/12/2021,SEA,Loss, 16-28,2,10,pass,Zach Pascal,2021
+1,2,Colts,09/12/2021,SEA,Loss, 16-28,4,11,pass,Zach Pascal,2021
+2,3,Colts,09/19/2021,LAR,Loss, 24-27,3,8,pass,Zach Pascal,2021
+3,4,Colts,09/19/2021,LAR,Loss, 24-27,4,0,fumble,Ashton Dulin,2021
+4,5,Colts,09/26/2021,TEN,Loss, 16-25,2,9,rush,Nyheim Hines,2021
+5,6,Colts,10/03/2021,MIA,Win, 27-17,2,23,rush,Jonathan Taylor,2021
+6,7,Colts,10/03/2021,MIA,Win, 27-17,3,3,pass,Mo Alie-Cox,2021
+7,8,Colts,10/03/2021,MIA,Win, 27-17,4,11,pass,Mo Alie-Cox,2021
+8,9,Colts,10/11/2021,BAL,Loss, 25-31,1,76,pass,Jonathan Taylor,2021
+9,10,Colts,10/11/2021,BAL,Loss, 25-31,3,42,pass,Michael Pittman Jr.,2021
+10,11,Colts,10/11/2021,BAL,Loss, 25-31,3,4,rush,Jonathan Taylor,2021
+11,12,Colts,10/17/2021,HOU,Win, 31-3,1,51,pass,Parris Campbell,2021
+12,13,Colts,10/17/2021,HOU,Win, 31-3,3,28,pass,Mo Alie-Cox,2021
+13,14,Colts,10/17/2021,HOU,Win, 31-3,3,4,rush,Jonathan Taylor,2021
+14,15,Colts,10/17/2021,HOU,Win, 31-3,4,11,rush,Jonathan Taylor,2021
+15,16,Colts,10/24/2021,SFO,Win, 30-18,1,11,pass,Mo Alie-Cox,2021
+16,17,Colts,10/24/2021,SFO,Win, 30-18,2,1,rush,Carson Wentz,2021
+17,18,Colts,10/24/2021,SFO,Win, 30-18,3,5,rush,Jonathan Taylor,2021
+18,19,Colts,10/24/2021,SFO,Win, 30-18,4,28,pass,Michael Pittman Jr.,2021
+19,20,Colts,10/31/2021,TEN,Loss, 31-34,1,2,pass,Michael Pittman Jr.,2021
+20,21,Colts,10/31/2021,TEN,Loss, 31-34,1,7,pass,Michael Pittman Jr.,2021
+21,22,Colts,10/31/2021,TEN,Loss, 31-34,3,5,pass,Jack Doyle,2021
+22,23,Colts,10/31/2021,TEN,Loss, 31-34,4,1,rush,Jonathan Taylor,2021
+23,24,Colts,11/04/2021,NYJ,Win, 45-30,1,34,rush,Nyheim Hines,2021
+24,25,Colts,11/04/2021,NYJ,Win, 45-30,2,21,rush,Jonathan Taylor,2021
+25,26,Colts,11/04/2021,NYJ,Win, 45-30,2,1,pass,Jack Doyle,2021
+26,27,Colts,11/04/2021,NYJ,Win, 45-30,2,11,pass,Michael Pittman Jr.,2021
+27,28,Colts,11/04/2021,NYJ,Win, 45-30,3,2,pass,Danny Pinter,2021
+28,29,Colts,11/04/2021,NYJ,Win, 45-30,3,78,rush,Jonathan Taylor,2021
+29,30,Colts,11/14/2021,JAX,Win, 23-17,1,12,blocked punt,E.J. Speed,2021
+30,31,Colts,11/14/2021,JAX,Win, 23-17,1,4,rush,Jonathan Taylor,2021
+31,32,Colts,11/21/2021,BUF,Win, 41-15,1,3,rush,Jonathan Taylor,2021
+32,33,Colts,11/21/2021,BUF,Win, 41-15,1,23,pass,Jonathan Taylor,2021
+33,34,Colts,11/21/2021,BUF,Win, 41-15,2,2,rush,Jonathan Taylor,2021
+34,35,Colts,11/21/2021,BUF,Win, 41-15,3,10,rush,Jonathan Taylor,2021
+35,36,Colts,11/21/2021,BUF,Win, 41-15,3,1,rush,Jonathan Taylor,2021
+36,37,Colts,11/28/2021,TAM,Loss, 31-38,2,62,pass,Ashton Dulin,2021
+37,38,Colts,11/28/2021,TAM,Loss, 31-38,2,15,pass,Jack Doyle,2021
+38,39,Colts,11/28/2021,TAM,Loss, 31-38,2,4,pass,T.Y. Hilton,2021
+39,40,Colts,11/28/2021,TAM,Loss, 31-38,4,4,rush,Jonathan Taylor,2021
+40,41,Colts,12/05/2021,HOU,Win, 31-0,1,1,rush,Jonathan Taylor,2021
+41,42,Colts,12/05/2021,HOU,Win, 31-0,2,2,pass,Ashton Dulin,2021
+42,43,Colts,12/05/2021,HOU,Win, 31-0,3,3,rush,Jonathan Taylor,2021
+43,44,Colts,12/05/2021,HOU,Win, 31-0,4,3,rush,Deon Jackson,2021
+44,45,Colts,12/18/2021,NWE,Win, 27-17,1,8,pass,Nyheim Hines,2021
+45,46,Colts,12/18/2021,NWE,Win, 27-17,1,0,blocked punt,E.J. Speed,2021
+46,47,Colts,12/18/2021,NWE,Win, 27-17,4,67,rush,Jonathan Taylor,2021
+47,48,Colts,12/25/2021,ARI,Win, 22-16,1,1,pass,T.Y. Hilton,2021
+48,49,Colts,12/25/2021,ARI,Win, 22-16,4,14,pass,Dezmon Patmon,2021
+49,50,Colts,01/02/2022,LVR,Loss, 20-23,2,1,rush,Jonathan Taylor,2021
+50,51,Colts,01/02/2022,LVR,Loss, 20-23,3,45,pass,T.Y. Hilton,2021
+51,52,Colts,01/09/2022,JAX,Loss, 11-26,4,12,pass,Michael Pittman Jr.,2021

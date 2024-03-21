@@ -1,9 +1,9 @@
-,No.,Team,Player,Age,Position,Games Played,Games Started,Punts Returned,Punts Return Yardage,Punts Returned for Touchdown,Longest Punt Return,Yards per Punt Return,Kickoff Returns,Yardage for Kickoffs Returned,Kickoffs Returned for a Touchdown,Longest Kickoff Return,Yards per Kickoff Return,All-purpose Yards
-83,83,Giants,Pharoh Cooper,26,WR,8,0,11,90,0,17,8.2,12,207,0,26,17.3,333
-18,18,Giants,C.J. Board,28,WR,6,1,2,33,0,26,16.5,11,273,0,38,24.8,369
-21,21,Giants,Jabrill Peppers,26,DB,6,5,9,58,0,19,6.4,n/a,n/a,0,n/a,n/a,58
-15,15,Giants,Alex Bachman,25,WR,3,0,1,16,0,16,16.0,4,94,0,27,23.5,107
-30,30,Giants,Darnay Holmes,23,CB,11,4,n/a,n/a,0,n/a,n/a,5,97,0,23,19.4,134
-13,13,Giants,Dante Pettis,26,WR,3,0,2,0,0,0,0.0,n/a,n/a,0,n/a,n/a,87
-12,12,Giants,John Ross,26,WR,10,1,n/a,n/a,0,n/a,n/a,1,12,0,12,12.0,252
-89,89,Giants,Kadarius Toney,22,WR,10,4,1,0,0,0,0.0,n/a,n/a,0,n/a,n/a,418
+,No.,Team,Player,Age,Position,Games Played,Games Started,Punts Returned,Punts Return Yardage,Punts Returned for Touchdown,Longest Punt Return,Yards per Punt Return,Kickoff Returns,Yardage for Kickoffs Returned,Kickoffs Returned for a Touchdown,Longest Kickoff Return,Yards per Kickoff Return,All-purpose Yards,Year
+0,83,Giants,Pharoh Cooper,26,WR,8,0,11,90,0,17,8.2,12,207,0,26,17.3,333,2021
+1,18,Giants,C.J. Board,28,WR,6,1,2,33,0,26,16.5,11,273,0,38,24.8,369,2021
+2,21,Giants,Jabrill Peppers,26,DB,6,5,9,58,0,19,6.4,0,0,0,0,,58,2021
+3,15,Giants,Alex Bachman,25,WR,3,0,1,16,0,16,16.0,4,94,0,27,23.5,107,2021
+4,30,Giants,Darnay Holmes,23,CB,11,4,0,0,0,0,,5,97,0,23,19.4,134,2021
+5,13,Giants,Dante Pettis,26,WR,3,0,2,0,0,0,0.0,0,0,0,0,,87,2021
+6,12,Giants,John Ross,26,WR,10,1,0,0,0,0,,1,12,0,12,12.0,252,2021
+7,89,Giants,Kadarius Toney,22,WR,10,4,1,0,0,0,0.0,0,0,0,0,,418,2021

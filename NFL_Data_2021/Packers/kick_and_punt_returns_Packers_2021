@@ -1,9 +1,9 @@
-,No.,Team,Player,Age,Position,Games Played,Games Started,Punts Returned,Punts Return Yardage,Punts Returned for Touchdown,Longest Punt Return,Yards per Punt Return,Kickoff Returns,Yardage for Kickoffs Returned,Kickoffs Returned for a Touchdown,Longest Kickoff Return,Yards per Kickoff Return,All-purpose Yards
-8,8,Packers,Amari Rodgers,22,WR,16,1,20,166,0,23,8.3,11,199,0,27,18.1,421
-32,32,Packers,Kylin Hill,23,RB,8,0,n/a,n/a,0,n/a,n/a,10,199,0,41,19.9,228
-86,86,Packers,Malik Taylor,26,WR,10,0,1,0,0,0,0.0,5,97,0,32,19.4,111
-82,82,Packers,David Moore,26,WR,1,0,3,33,0,21,11.0,n/a,n/a,0,n/a,n/a,33
-33,33,Packers,Aaron Jones,27,RB,15,15,n/a,n/a,0,n/a,n/a,2,19,0,10,9.5,1209
-18,18,Packers,Randall Cobb,31,WR,12,3,1,0,0,0,0.0,n/a,n/a,0,n/a,n/a,376
-53,53,Packers,Jonathan Garvin,22,DE,16,1,n/a,n/a,0,n/a,n/a,1,0,0,0,0.0,0
-19,19,Packers,Equanimeous St. Brown,25,WR,13,2,n/a,n/a,0,n/a,n/a,1,17,0,17,17.0,129
+,No.,Team,Player,Age,Position,Games Played,Games Started,Punts Returned,Punts Return Yardage,Punts Returned for Touchdown,Longest Punt Return,Yards per Punt Return,Kickoff Returns,Yardage for Kickoffs Returned,Kickoffs Returned for a Touchdown,Longest Kickoff Return,Yards per Kickoff Return,All-purpose Yards,Year
+0,8,Packers,Amari Rodgers,22,WR,16,1,20,166,0,23,8.3,11,199,0,27,18.1,421,2021
+1,32,Packers,Kylin Hill,23,RB,8,0,0,0,0,0,,10,199,0,41,19.9,228,2021
+2,86,Packers,Malik Taylor,26,WR,10,0,1,0,0,0,0.0,5,97,0,32,19.4,111,2021
+3,82,Packers,David Moore,26,WR,1,0,3,33,0,21,11.0,0,0,0,0,,33,2021
+4,33,Packers,Aaron Jones,27,RB,15,15,0,0,0,0,,2,19,0,10,9.5,1209,2021
+5,18,Packers,Randall Cobb,31,WR,12,3,1,0,0,0,0.0,0,0,0,0,,376,2021
+6,53,Packers,Jonathan Garvin,22,DE,16,1,0,0,0,0,,1,0,0,0,0.0,0,2021
+7,19,Packers,Equanimeous St. Brown,25,WR,13,2,0,0,0,0,,1,17,0,17,17.0,129,2021

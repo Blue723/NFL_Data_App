@@ -1,43 +1,43 @@
-,Rank,Team,Date,Opponent,Results,Quarter,Distance,Type,Detail
-1,1,Cardinals,2021-09-12,TEN,"W, 38-13",2,1,rush,Ryan Tannehill
-2,2,Cardinals,2021-09-12,TEN,"W, 38-13",3,13,pass,A.J. Brown
-3,3,Cardinals,2021-09-19,MIN,"W, 34-33",1,64,pass,K.J. Osborn
-4,4,Cardinals,2021-09-19,MIN,"W, 34-33",1,7,pass,Adam Thielen
-5,5,Cardinals,2021-09-19,MIN,"W, 34-33",2,14,pass,Justin Jefferson
-6,6,Cardinals,2021-09-19,MIN,"W, 34-33",3,38,interception,Nick Vigil
-7,7,Cardinals,2021-09-26,JAX,"W, 31-19",2,12,pass,DJ Chark
-8,8,Cardinals,2021-09-26,JAX,"W, 31-19",2,109,field goal,Jamal Agnew
-9,9,Cardinals,2021-09-26,JAX,"W, 31-19",3,4,rush,James Robinson
-10,10,Cardinals,2021-10-03,LAR,"W, 37-20",1,14,pass,Van Jefferson
-11,11,Cardinals,2021-10-03,LAR,"W, 37-20",4,14,pass,Robert Woods
-12,12,Cardinals,2021-10-10,SFO,"W, 17-10",3,13,rush,Deebo Samuel
-13,13,Cardinals,2021-10-17,CLE,"W, 37-14",2,11,pass,Donovan Peoples-Jones
-14,14,Cardinals,2021-10-17,CLE,"W, 37-14",2,57,pass,Donovan Peoples-Jones
-15,15,Cardinals,2021-10-28,GNB,"L, 21-24",2,2,rush,Aaron Jones
-16,16,Cardinals,2021-10-28,GNB,"L, 21-24",3,2,pass,Randall Cobb
-17,17,Cardinals,2021-10-28,GNB,"L, 21-24",4,6,pass,Randall Cobb
-18,18,Cardinals,2021-11-07,SFO,"W, 31-17",2,6,pass,George Kittle
-19,19,Cardinals,2021-11-07,SFO,"W, 31-17",3,11,pass,Brandon Aiyuk
-20,20,Cardinals,2021-11-14,CAR,"L, 10-34",1,2,rush,Cam Newton
-21,21,Cardinals,2021-11-14,CAR,"L, 10-34",1,2,pass,Robbie Chosen
-22,22,Cardinals,2021-11-14,CAR,"L, 10-34",3,5,rush,Chuba Hubbard
-23,23,Cardinals,2021-11-21,SEA,"W, 23-13",4,2,rush,DeeJay Dallas
-24,24,Cardinals,2021-12-05,CHI,"W, 33-22",2,1,rush,David Montgomery
-25,25,Cardinals,2021-12-05,CHI,"W, 33-22",3,1,pass,Jimmy Graham
-26,26,Cardinals,2021-12-05,CHI,"W, 33-22",4,8,pass,Jakeem Grant
-27,27,Cardinals,2021-12-13,LAR,"L, 23-30",2,2,pass,Odell Beckham Jr.
-28,28,Cardinals,2021-12-13,LAR,"L, 23-30",3,52,pass,Van Jefferson
-29,29,Cardinals,2021-12-13,LAR,"L, 23-30",3,4,pass,Cooper Kupp
-30,30,Cardinals,2021-12-19,DET,"L, 12-30",2,37,pass,Amon-Ra St. Brown
-31,31,Cardinals,2021-12-19,DET,"L, 12-30",2,22,pass,Josh Reynolds
-32,32,Cardinals,2021-12-19,DET,"L, 12-30",3,6,pass,Jason Cabinda
-33,33,Cardinals,2021-12-25,IND,"L, 16-22",1,1,pass,T.Y. Hilton
-34,34,Cardinals,2021-12-25,IND,"L, 16-22",4,14,pass,Dezmon Patmon
-35,35,Cardinals,2022-01-02,DAL,"W, 25-22",2,21,pass,Michael Gallup
-36,36,Cardinals,2022-01-02,DAL,"W, 25-22",4,2,pass,Cedrick Wilson Jr.
-37,37,Cardinals,2022-01-02,DAL,"W, 25-22",4,4,pass,Amari Cooper
-38,38,Cardinals,2022-01-09,SEA,"L, 30-38",1,43,pass,Tyler Lockett
-39,39,Cardinals,2022-01-09,SEA,"L, 30-38",2,5,pass,Tyler Lockett
-40,40,Cardinals,2022-01-09,SEA,"L, 30-38",3,25,pass,Freddie Swain
-41,41,Cardinals,2022-01-09,SEA,"L, 30-38",4,4,rush,Russell Wilson
-42,42,Cardinals,2022-01-09,SEA,"L, 30-38",4,62,rush,Rashaad Penny
+,Rank,Team,Date,Opponent,Win/Loss,Score,Quarter,Distance,Type,Detail,Year
+0,1,Cardinals,09/12/2021,TEN,Win, 38-13,2,1,rush,Ryan Tannehill,2021
+1,2,Cardinals,09/12/2021,TEN,Win, 38-13,3,13,pass,A.J. Brown,2021
+2,3,Cardinals,09/19/2021,MIN,Win, 34-33,1,64,pass,K.J. Osborn,2021
+3,4,Cardinals,09/19/2021,MIN,Win, 34-33,1,7,pass,Adam Thielen,2021
+4,5,Cardinals,09/19/2021,MIN,Win, 34-33,2,14,pass,Justin Jefferson,2021
+5,6,Cardinals,09/19/2021,MIN,Win, 34-33,3,38,interception,Nick Vigil,2021
+6,7,Cardinals,09/26/2021,JAX,Win, 31-19,2,12,pass,DJ Chark,2021
+7,8,Cardinals,09/26/2021,JAX,Win, 31-19,2,109,field goal,Jamal Agnew,2021
+8,9,Cardinals,09/26/2021,JAX,Win, 31-19,3,4,rush,James Robinson,2021
+9,10,Cardinals,10/03/2021,LAR,Win, 37-20,1,14,pass,Van Jefferson,2021
+10,11,Cardinals,10/03/2021,LAR,Win, 37-20,4,14,pass,Robert Woods,2021
+11,12,Cardinals,10/10/2021,SFO,Win, 17-10,3,13,rush,Deebo Samuel,2021
+12,13,Cardinals,10/17/2021,CLE,Win, 37-14,2,11,pass,Donovan Peoples-Jones,2021
+13,14,Cardinals,10/17/2021,CLE,Win, 37-14,2,57,pass,Donovan Peoples-Jones,2021
+14,15,Cardinals,10/28/2021,GNB,Loss, 21-24,2,2,rush,Aaron Jones,2021
+15,16,Cardinals,10/28/2021,GNB,Loss, 21-24,3,2,pass,Randall Cobb,2021
+16,17,Cardinals,10/28/2021,GNB,Loss, 21-24,4,6,pass,Randall Cobb,2021
+17,18,Cardinals,11/07/2021,SFO,Win, 31-17,2,6,pass,George Kittle,2021
+18,19,Cardinals,11/07/2021,SFO,Win, 31-17,3,11,pass,Brandon Aiyuk,2021
+19,20,Cardinals,11/14/2021,CAR,Loss, 10-34,1,2,rush,Cam Newton,2021
+20,21,Cardinals,11/14/2021,CAR,Loss, 10-34,1,2,pass,Robbie Chosen,2021
+21,22,Cardinals,11/14/2021,CAR,Loss, 10-34,3,5,rush,Chuba Hubbard,2021
+22,23,Cardinals,11/21/2021,SEA,Win, 23-13,4,2,rush,DeeJay Dallas,2021
+23,24,Cardinals,12/05/2021,CHI,Win, 33-22,2,1,rush,David Montgomery,2021
+24,25,Cardinals,12/05/2021,CHI,Win, 33-22,3,1,pass,Jimmy Graham,2021
+25,26,Cardinals,12/05/2021,CHI,Win, 33-22,4,8,pass,Jakeem Grant,2021
+26,27,Cardinals,12/13/2021,LAR,Loss, 23-30,2,2,pass,Odell Beckham Jr.,2021
+27,28,Cardinals,12/13/2021,LAR,Loss, 23-30,3,52,pass,Van Jefferson,2021
+28,29,Cardinals,12/13/2021,LAR,Loss, 23-30,3,4,pass,Cooper Kupp,2021
+29,30,Cardinals,12/19/2021,DET,Loss, 12-30,2,37,pass,Amon-Ra St. Brown,2021
+30,31,Cardinals,12/19/2021,DET,Loss, 12-30,2,22,pass,Josh Reynolds,2021
+31,32,Cardinals,12/19/2021,DET,Loss, 12-30,3,6,pass,Jason Cabinda,2021
+32,33,Cardinals,12/25/2021,IND,Loss, 16-22,1,1,pass,T.Y. Hilton,2021
+33,34,Cardinals,12/25/2021,IND,Loss, 16-22,4,14,pass,Dezmon Patmon,2021
+34,35,Cardinals,01/02/2022,DAL,Win, 25-22,2,21,pass,Michael Gallup,2021
+35,36,Cardinals,01/02/2022,DAL,Win, 25-22,4,2,pass,Cedrick Wilson Jr.,2021
+36,37,Cardinals,01/02/2022,DAL,Win, 25-22,4,4,pass,Amari Cooper,2021
+37,38,Cardinals,01/09/2022,SEA,Loss, 30-38,1,43,pass,Tyler Lockett,2021
+38,39,Cardinals,01/09/2022,SEA,Loss, 30-38,2,5,pass,Tyler Lockett,2021
+39,40,Cardinals,01/09/2022,SEA,Loss, 30-38,3,25,pass,Freddie Swain,2021
+40,41,Cardinals,01/09/2022,SEA,Loss, 30-38,4,4,rush,Russell Wilson,2021
+41,42,Cardinals,01/09/2022,SEA,Loss, 30-38,4,62,rush,Rashaad Penny,2021
