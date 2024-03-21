@@ -1,5 +1,5 @@
-,Player,Team,3rd Down Attempts in Game,3rd Down Conversions,3rd Down Conversion %,4th Down Attempts in Game,4th Down Conversions in Game,4th Down Conversion %,Red Zone Attempts,Touchdowns Scored After the Team Entered the Red Zone,% of the Time a Team Reaches the Red Zone and Scores a Touchdown
-Team Stats,Team Stats,Jaguars,225,70,31.1%,30,13,43.3%,41,18,43.9%
-Opp. Stats,Opp. Stats,Jaguars,226,96,42.5%,12,9,75.0%,65,39,60.0%
-Lg Rank Offense,Lg Rank Offense,Jaguars,n/a,n/a,32,n/a,n/a,20,n/a,n/a,32
-Lg Rank Defense,Lg Rank Defense,Jaguars,n/a,n/a,27,n/a,n/a,30,n/a,n/a,23
+,Player,Team,3rd Down Attempts in Game,3rd Down Conversions,3rd Down Conversion Per.,4th Down Attempts in Game,4th Down Conversions in Game,4th Down Conversion Per.,Red Zone Attempts,Touchdowns Scored After the Team Entered the Red Zone,Per. of the Time a Team Reaches the Red Zone and Scores a Touchdown,Year
+0,Team Stats,Jaguars,225.0,70.0,31.1,30.0,13.0,43.3,41.0,18.0,43.9,2013.0
+1,Opp. Stats,Jaguars,226.0,96.0,42.5,12.0,9.0,75.0,65.0,39.0,60.0,2013.0
+2,Lg Rank Offense,Jaguars,,,32.0,,,20.0,,,32.0,2013.0
+3,Lg Rank Defense,Jaguars,,,27.0,,,30.0,,,23.0,2013.0

@@ -1,5 +1,5 @@
-,Player,Team,3rd Down Attempts in Game,3rd Down Conversions,3rd Down Conversion %,4th Down Attempts in Game,4th Down Conversions in Game,4th Down Conversion %,Red Zone Attempts,Touchdowns Scored After the Team Entered the Red Zone,% of the Time a Team Reaches the Red Zone and Scores a Touchdown
-Team Stats,Team Stats,Bears,197,83,42.1%,13,8,61.5%,60,35,58.3%
-Opp. Stats,Opp. Stats,Bears,200,83,41.5%,16,12,75.0%,59,34,57.6%
-Lg Rank Offense,Lg Rank Offense,Bears,n/a,n/a,7,n/a,n/a,8,n/a,n/a,6
-Lg Rank Defense,Lg Rank Defense,Bears,n/a,n/a,25,n/a,n/a,30,n/a,n/a,19
+,Player,Team,3rd Down Attempts in Game,3rd Down Conversions,3rd Down Conversion Per.,4th Down Attempts in Game,4th Down Conversions in Game,4th Down Conversion Per.,Red Zone Attempts,Touchdowns Scored After the Team Entered the Red Zone,Per. of the Time a Team Reaches the Red Zone and Scores a Touchdown,Year
+0,Team Stats,Bears,197.0,83.0,42.1,13.0,8.0,61.5,60.0,35.0,58.3,2013.0
+1,Opp. Stats,Bears,200.0,83.0,41.5,16.0,12.0,75.0,59.0,34.0,57.6,2013.0
+2,Lg Rank Offense,Bears,,,7.0,,,8.0,,,6.0,2013.0
+3,Lg Rank Defense,Bears,,,25.0,,,30.0,,,19.0,2013.0

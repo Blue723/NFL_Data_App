@@ -1,18 +1,18 @@
-,No.,Team,Player,Age,Pos,Games Played,Games Started,Rush TD,Reception TD,Punt Return TD,Kick Return TD,Fumble Return TD,Interception TD,Other TD,All Touchdown Scored,2-Point Conversions Made,Two-Point Conversions Attempted,Defensive Two-Point Conversions,Extra Points Made,Extra Points Allowed,Field Goals Made,Field Goals Attempted,Safeties Scored by Player/Team,Total Points Scored by all Means,Poins per Game
-6,6,Chiefs,Ryan Succop,27,K,16,0,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,52,52,22,28,n/a,118,7.4
-25,25,Chiefs,Jamaal Charles,27,RB,15,15,12,7,n/a,n/a,n/a,n/a,n/a,19,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,114,7.6
-82,82,Chiefs,Dwayne Bowe,29,WR,15,15,n/a,5,n/a,n/a,n/a,n/a,n/a,5,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,30,2.0
-34,34,Chiefs,Knile Davis,22,RB,16,1,4,n/a,n/a,1,n/a,n/a,n/a,5,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,30,1.9
-22,22,Chiefs,Dexter McCluster,24,WR,15,6,n/a,2,2,n/a,n/a,n/a,n/a,4,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,24,1.6
-80,80,Chiefs,Anthony Fasano,29,TE,9,9,n/a,3,n/a,n/a,n/a,n/a,n/a,3,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,18,2.0
-17,17,Chiefs,Donnie Avery,29,WR,16,14,n/a,2,n/a,n/a,n/a,n/a,n/a,2,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,12,0.8
-29,29,Chiefs,Eric Berry,25,SS,15,15,n/a,n/a,n/a,n/a,n/a,2,n/a,2,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,12,0.8
-31,31,Chiefs,Marcus Cooper,23,DB,16,6,n/a,n/a,n/a,n/a,1,n/a,1,2,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,6,0.4
-91,91,Chiefs,Tamba Hali,30,ROLB,15,15,n/a,n/a,n/a,n/a,1,1,n/a,2,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,12,0.8
-88,88,Chiefs,Junior Hemingway,25,WR,16,2,n/a,2,n/a,n/a,n/a,n/a,n/a,2,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,12,0.8
-84,84,Chiefs,Sean McGrath,26,TE,16,9,n/a,2,n/a,n/a,n/a,n/a,n/a,2,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,12,0.8
-39,39,Chiefs,Husain Abdullah,28,DB,16,2,n/a,n/a,n/a,n/a,n/a,1,n/a,1,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,6,0.4
-35,35,Chiefs,Quintin Demps,28,DB,16,6,n/a,n/a,n/a,1,n/a,n/a,n/a,1,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,6,0.4
-42,42,Chiefs,Anthony Sherman,25,RB,16,8,n/a,1,n/a,n/a,n/a,n/a,n/a,1,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,6,0.4
-11,11,Chiefs,Alex Smith,29,QB,15,15,1,n/a,n/a,n/a,n/a,n/a,n/a,1,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,6,0.4
-27,27,Chiefs,Sean Smith,26,RCB,16,15,n/a,n/a,n/a,n/a,n/a,1,n/a,1,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,6,0.4
+,No.,Team,Player,Age,Pos,Games Played,Games Started,Rush TD,Reception TD,Punt Return TD,Kick Return TD,Fumble Return TD,Interception TD,Other TD,All Touchdown Scored,2-Point Conversions Made,Two-Point Conversions Attempted,Defensive Two-Point Conversions,Extra Points Made,Extra Points Allowed,Field Goals Made,Field Goals Attempted,Safeties Scored by Player/Team,Total Points Scored by all Means,Poins per Game,Year
+0,6,Chiefs,Ryan Succop,27,K,16,0,0,0,0,0,0,0,0,0,0,0,0,52,52,22,28,,118,7.4,2013
+1,25,Chiefs,Jamaal Charles,27,RB,15,15,12,7,0,0,0,0,0,19,0,0,0,0,0,0,0,,114,7.6,2013
+2,82,Chiefs,Dwayne Bowe,29,WR,15,15,0,5,0,0,0,0,0,5,0,0,0,0,0,0,0,,30,2.0,2013
+3,34,Chiefs,Knile Davis,22,RB,16,1,4,0,0,1,0,0,0,5,0,0,0,0,0,0,0,,30,1.9,2013
+4,22,Chiefs,Dexter McCluster,24,WR,15,6,0,2,2,0,0,0,0,4,0,0,0,0,0,0,0,,24,1.6,2013
+5,80,Chiefs,Anthony Fasano,29,TE,9,9,0,3,0,0,0,0,0,3,0,0,0,0,0,0,0,,18,2.0,2013
+6,17,Chiefs,Donnie Avery,29,WR,16,14,0,2,0,0,0,0,0,2,0,0,0,0,0,0,0,,12,0.8,2013
+7,29,Chiefs,Eric Berry,25,SS,15,15,0,0,0,0,0,2,0,2,0,0,0,0,0,0,0,,12,0.8,2013
+8,31,Chiefs,Marcus Cooper,23,DB,16,6,0,0,0,0,1,0,1,2,0,0,0,0,0,0,0,,6,0.4,2013
+9,91,Chiefs,Tamba Hali,30,ROLB,15,15,0,0,0,0,1,1,0,2,0,0,0,0,0,0,0,,12,0.8,2013
+10,88,Chiefs,Junior Hemingway,25,WR,16,2,0,2,0,0,0,0,0,2,0,0,0,0,0,0,0,,12,0.8,2013
+11,84,Chiefs,Sean McGrath,26,TE,16,9,0,2,0,0,0,0,0,2,0,0,0,0,0,0,0,,12,0.8,2013
+12,39,Chiefs,Husain Abdullah,28,DB,16,2,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,,6,0.4,2013
+13,35,Chiefs,Quintin Demps,28,DB,16,6,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,,6,0.4,2013
+14,42,Chiefs,Anthony Sherman,25,RB,16,8,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,,6,0.4,2013
+15,11,Chiefs,Alex Smith,29,QB,15,15,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,,6,0.4,2013
+16,27,Chiefs,Sean Smith,26,RCB,16,15,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,,6,0.4,2013

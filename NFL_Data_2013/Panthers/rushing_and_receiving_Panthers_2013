@@ -1,16 +1,16 @@
-,No.,Team,Player,Age,Position,Games Played,Games Started as an Offensive or Defensive Player,Rushing Attempts,Rushing Yards Gained,Rushing Touchdown,First Downs Rushing,Rushing Success Rate,Longest Rushing Attempt,Rushing Yards per Attempt,Rushing Yards per Game,Rushing Attempts per Game,Pass Targets,Receptions,Receiving Yards,Receiving Yards per Reception,Receiving Touchdowns,First Downs Receiving,Receiving Success Rate,Longest Reception,Receptions per Game,Receiving Yards per Game,Catch%,Receiving Yards per Target,Touches: Rushing Attempts and Receptions,Scrimmage Yards per Touch: Rushing + Receiving Yardage per Opportunity,Yards from Scrimmage: Receiving and Rushing Yards,Rushing and Receiving Touchdowns,Lost and Recovered Fumbles
-34,34,Panthers,DeAngelo Williams,30,RB,15,15,201,843,3,36,41.3,43,4.2,56.2,13.4,36,26,333,12.8,1,10,47.2,72,1.7,22.2,72.2%,9.3,227,5.2,1176,4,3
-1,1,Panthers,Cam Newton,24,QB,16,16,111,585,6,45,55.0,56,5.3,36.6,6.9,n/a,n/a,n/a,n/a,0,n/a,n/a,n/a,n/a,n/a,n/a,n/a,111,5.3,585,6,3
-35,35,Panthers,Mike Tolbert,28,RB,16,13,101,361,5,32,50.5,22,3.6,22.6,6.3,33,27,184,6.8,2,12,45.5,18,1.7,11.5,81.8%,5.6,128,4.3,545,7,n/a
-28,28,Panthers,Jonathan Stewart,26,RB,6,1,48,180,0,7,41.7,16,3.8,30.0,8.0,7,7,44,6.3,0,3,57.1,16,1.2,7.3,100.0%,6.3,55,4.1,224,0,1
-25,25,Panthers,Kenjon Barner,24,RB,8,0,6,7,0,n/a,n/a,2,1.2,0.9,0.8,3,2,7,3.5,0,n/a,n/a,5,0.3,0.9,66.7%,2.3,8,1.8,14,0,1
-3,3,Panthers,Derek Anderson,30,QB,4,0,5,0,0,1,20.0,2,0.0,0.0,1.3,n/a,n/a,n/a,n/a,0,n/a,n/a,n/a,n/a,n/a,n/a,n/a,5,0.0,n/a,0,n/a
-19,19,Panthers,Ted Ginn Jr.,28,WR,16,2,4,29,0,2,75.0,14,7.3,1.8,0.3,68,36,556,15.4,5,24,41.2,47,2.3,34.8,52.9%,8.2,40,14.6,585,5,n/a
-36,36,Panthers,Armond Smith,27,RB,5,0,4,5,0,n/a,n/a,5,1.3,1.0,0.8,n/a,n/a,n/a,n/a,0,n/a,n/a,n/a,n/a,n/a,n/a,n/a,4,1.3,5,0,n/a
-11,11,Panthers,Brandon LaFell,27,WR,16,16,2,15,0,1,100.0,9,7.5,0.9,0.1,85,49,627,12.8,5,31,50.6,79,3.1,39.2,57.6%,7.4,51,12.6,642,5,1
-47,47,Panthers,Richie Brockel,27,TE,16,0,1,1,0,0,0.0,1,1.0,0.1,0.1,1,1,12,12.0,0,1,100.0,12,0.1,0.8,100.0%,12.0,2,6.5,13,0,1
-88,88,Panthers,Greg Olsen,28,TE,16,16,n/a,n/a,0,n/a,n/a,n/a,n/a,n/a,n/a,111,73,816,11.2,6,45,54.1,31,4.6,51.0,65.8%,7.4,73,11.2,816,6,n/a
-89,89,Panthers,Steve Smith Sr.,34,WR,15,15,n/a,n/a,0,n/a,n/a,n/a,n/a,n/a,n/a,110,64,745,11.6,4,44,46.4,44,4.3,49.7,58.2%,6.8,64,11.6,745,4,n/a
-87,87,Panthers,Domenik Hixon,29,WR,15,0,n/a,n/a,0,n/a,n/a,n/a,n/a,n/a,n/a,9,7,55,7.9,1,2,33.3,14,0.5,3.7,77.8%,6.1,7,7.9,55,1,n/a
-14,14,Panthers,Armanti Edwards,25,QB,4,0,n/a,n/a,0,n/a,n/a,n/a,n/a,n/a,n/a,4,0,0,n/a,0,n/a,n/a,0,0.0,0.0,0.0%,0.0,n/a,n/a,n/a,0,n/a
-15,15,Panthers,Marvin McNutt,24,WR,1,0,n/a,n/a,0,n/a,n/a,n/a,n/a,n/a,n/a,1,0,0,n/a,0,n/a,n/a,0,0.0,0.0,0.0%,0.0,n/a,n/a,n/a,0,n/a
+,No.,Team,Player,Age,Position,Games Played,Games Started as an Offensive or Defensive Player,Rushing Attempts,Rushing Yards Gained,Rushing Touchdown,First Downs Rushing,Rushing Success Rate,Longest Rushing Attempt,Rushing Yards per Attempt,Rushing Yards per Game,Rushing Attempts per Game,Pass Targets,Receptions,Receiving Yards,Receiving Yards per Reception,Receiving Touchdowns,First Downs Receiving,Receiving Success Rate,Longest Reception,Receptions per Game,Receiving Yards per Game,Catch Per.,Receiving Yards per Target,Touches: Rushing Attempts and Receptions,Scrimmage Yards per Touch: Rushing + Receiving Yardage per Opportunity,Yards from Scrimmage: Receiving and Rushing Yards,Rushing and Receiving Touchdowns,Lost and Recovered Fumbles,Year
+0,34,Panthers,DeAngelo Williams,30,RB,15,15,201,843,3,36,41.3,43,4.2,56.2,13.4,36,26,333,12.8,1,10,47.2,72,1.7,22.2,72.2,9.3,227,5.2,1176,4,3,2013
+1,1,Panthers,Cam Newton,24,QB,16,16,111,585,6,45,55.0,56,5.3,36.6,6.9,0,0,0,,0,0,,0,,,0.0,,111,5.3,585,6,3,2013
+2,35,Panthers,Mike Tolbert,28,RB,16,13,101,361,5,32,50.5,22,3.6,22.6,6.3,33,27,184,6.8,2,12,45.5,18,1.7,11.5,81.8,5.6,128,4.3,545,7,0,2013
+3,28,Panthers,Jonathan Stewart,26,RB,6,1,48,180,0,7,41.7,16,3.8,30.0,8.0,7,7,44,6.3,0,3,57.1,16,1.2,7.3,100.0,6.3,55,4.1,224,0,1,2013
+4,25,Panthers,Kenjon Barner,24,RB,8,0,6,7,0,0,,2,1.2,0.9,0.8,3,2,7,3.5,0,0,,5,0.3,0.9,66.7,2.3,8,1.8,14,0,1,2013
+5,3,Panthers,Derek Anderson,30,QB,4,0,5,0,0,1,20.0,2,0.0,0.0,1.3,0,0,0,,0,0,,0,,,0.0,,5,0.0,0,0,0,2013
+6,19,Panthers,Ted Ginn Jr.,28,WR,16,2,4,29,0,2,75.0,14,7.3,1.8,0.3,68,36,556,15.4,5,24,41.2,47,2.3,34.8,52.9,8.2,40,14.6,585,5,0,2013
+7,36,Panthers,Armond Smith,27,RB,5,0,4,5,0,0,,5,1.3,1.0,0.8,0,0,0,,0,0,,0,,,0.0,,4,1.3,5,0,0,2013
+8,11,Panthers,Brandon LaFell,27,WR,16,16,2,15,0,1,100.0,9,7.5,0.9,0.1,85,49,627,12.8,5,31,50.6,79,3.1,39.2,57.6,7.4,51,12.6,642,5,1,2013
+9,47,Panthers,Richie Brockel,27,TE,16,0,1,1,0,0,0.0,1,1.0,0.1,0.1,1,1,12,12.0,0,1,100.0,12,0.1,0.8,100.0,12.0,2,6.5,13,0,1,2013
+10,88,Panthers,Greg Olsen,28,TE,16,16,0,0,0,0,,0,,,,111,73,816,11.2,6,45,54.1,31,4.6,51.0,65.8,7.4,73,11.2,816,6,0,2013
+11,89,Panthers,Steve Smith Sr.,34,WR,15,15,0,0,0,0,,0,,,,110,64,745,11.6,4,44,46.4,44,4.3,49.7,58.2,6.8,64,11.6,745,4,0,2013
+12,87,Panthers,Domenik Hixon,29,WR,15,0,0,0,0,0,,0,,,,9,7,55,7.9,1,2,33.3,14,0.5,3.7,77.8,6.1,7,7.9,55,1,0,2013
+13,14,Panthers,Armanti Edwards,25,QB,4,0,0,0,0,0,,0,,,,4,0,0,,0,0,,0,0.0,0.0,0.0,0.0,0,,0,0,0,2013
+14,15,Panthers,Marvin McNutt,24,WR,1,0,0,0,0,0,,0,,,,1,0,0,,0,0,,0,0.0,0.0,0.0,0.0,0,,0,0,0,2013

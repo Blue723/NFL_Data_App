@@ -1,18 +1,18 @@
-,Week,Team,Day,Date,Time,Win/Loss,Overtime,Team Record,Home/Away,Opponent,Points Scored,Points Allowed,Offense 1st Down,Total Yards Gained of Offense,Total yards Gained by Passing,Total Yards Gained by Rushing,Offense Turnovers,Defense 1st Down,Total Yards Allowed by Defense,Total Passing Yards Allowed by Defense,Total Rushing Yards Allowed by Defense,Defense Turnovers,Offense,Defense,Sp. Tms
-1,1,Ravens,Thu,September 5,9:13PM ET,L,n/a,0-1,away,Denver Broncos,27,49,24,393,335,58,2,24,510,445,65,2,-2.35,-25.06,5.68
-2,2,Ravens,Sun,September 15,1:02PM ET,W,n/a,1-1,home,Cleveland Browns,14,6,19,296,197,99,1,13,259,194,65,n/a,-1.70,14.51,-2.40
-3,3,Ravens,Sun,September 22,1:03PM ET,W,n/a,2-1,home,Houston Texans,30,9,16,236,161,75,n/a,18,264,170,94,1,3.46,12.71,5.26
-4,4,Ravens,Sun,September 29,1:02PM ET,L,n/a,2-2,away,Buffalo Bills,20,23,15,345,321,24,5,19,350,147,203,3,-14.76,13.13,2.44
-5,5,Ravens,Sun,October 6,1:02PM ET,W,n/a,3-2,away,Miami Dolphins,26,23,20,384,251,133,2,10,294,272,22,n/a,-2.04,7.27,-2.27
-6,6,Ravens,Sun,October 13,1:02PM ET,L,n/a,3-3,home,Green Bay Packers,17,19,15,360,313,47,1,15,438,298,140,2,-8.65,0.12,3.41
-7,7,Ravens,Sun,October 20,4:25PM ET,L,n/a,3-4,away,Pittsburgh Steelers,16,19,19,287,205,82,n/a,17,286,145,141,1,1.30,-5.59,-4.47
-8,8,Ravens,n/a,n/a,n/a,n/a,n/a,n/a,home,<strong>Bye Week</strong>,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
-9,9,Ravens,Sun,November 3,4:25PM ET,L,n/a,3-5,away,Cleveland Browns,18,24,18,278,223,55,2,19,315,242,73,1,1.29,-0.76,-5.36
-10,10,Ravens,Sun,November 10,1:02PM ET,W,OT,4-5,home,Cincinnati Bengals,20,17,18,189,104,85,3,21,364,244,120,3,-14.53,12.76,5.62
-11,11,Ravens,Sun,November 17,1:02PM ET,L,OT,4-6,away,Chicago Bears,20,23,23,317,143,174,2,18,319,215,104,n/a,-2.08,-3.66,3.30
-12,12,Ravens,Sun,November 24,1:02PM ET,W,n/a,5-6,home,New York Jets,19,3,15,312,245,67,1,12,220,118,102,3,-6.17,19.91,0.06
-13,13,Ravens,Thu,November 28,8:31PM ET,W,n/a,6-6,home,Pittsburgh Steelers,22,20,16,311,237,74,n/a,22,329,257,72,n/a,5.27,-11.12,8.80
-14,14,Ravens,Sun,December 8,1:03PM ET,W,n/a,7-6,home,Minnesota Vikings,29,26,23,325,228,97,3,15,379,265,114,1,-9.53,1.21,9.74
-15,15,Ravens,Mon,December 16,8:40PM ET,W,n/a,8-6,away,Detroit Lions,18,16,18,305,215,90,n/a,19,349,230,119,3,-1.78,-0.47,5.72
-16,16,Ravens,Sun,December 22,4:25PM ET,L,n/a,8-7,home,New England Patriots,7,41,19,358,237,121,4,21,300,158,142,n/a,-24.64,-5.89,-2.98
-17,17,Ravens,Sun,December 29,1:02PM ET,L,n/a,8-8,away,Cincinnati Bengals,17,34,17,222,175,47,3,21,392,281,111,4,-19.68,-0.84,3.95
+,Week,Team,Day,Date,Time,Win/Loss,Overtime,Team Record,Home/Away,Opponent,Points Scored,Points Allowed,Offense 1st Down,Total Yards Gained of Offense,Total yards Gained by Passing,Total Yards Gained by Rushing,Offense Turnovers,Defense 1st Down,Total Yards Allowed by Defense,Total Passing Yards Allowed by Defense,Total Rushing Yards Allowed by Defense,Defense Turnovers,Offense,Defense,Sp. Tms,Year
+0,0,Ravens,Thu,September 5,,L,0,0-1,away,Denver Broncos,27,49,24,393,335,58,2,24,510,445,65,2,-2.35,-25.06,5.68,2013
+1,1,Ravens,Sun,September 15,,W,0,1-1,home,Cleveland Browns,14,6,19,296,197,99,1,13,259,194,65,0,-1.7,14.51,-2.4,2013
+2,2,Ravens,Sun,September 22,,W,0,2-1,home,Houston Texans,30,9,16,236,161,75,0,18,264,170,94,1,3.46,12.71,5.26,2013
+3,3,Ravens,Sun,September 29,,L,0,2-2,away,Buffalo Bills,20,23,15,345,321,24,5,19,350,147,203,3,-14.76,13.13,2.44,2013
+4,4,Ravens,Sun,October 6,,W,0,3-2,away,Miami Dolphins,26,23,20,384,251,133,2,10,294,272,22,0,-2.04,7.27,-2.27,2013
+5,5,Ravens,Sun,October 13,,L,0,3-3,home,Green Bay Packers,17,19,15,360,313,47,1,15,438,298,140,2,-8.65,0.12,3.41,2013
+6,6,Ravens,Sun,October 20,,L,0,3-4,away,Pittsburgh Steelers,16,19,19,287,205,82,0,17,286,145,141,1,1.3,-5.59,-4.47,2013
+7,7,Ravens,,,,,0,,home,<strong>Bye Week</strong>,0,0,0,0,0,0,0,0,0,0,0,0,,,,2013
+8,8,Ravens,Sun,November 3,,L,0,3-5,away,Cleveland Browns,18,24,18,278,223,55,2,19,315,242,73,1,1.29,-0.76,-5.36,2013
+9,9,1,1,1,1.0,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1.0,1.0,1.0,1
+10,10,1,1,1,1.0,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1.0,1.0,1.0,1
+11,11,Ravens,Sun,November 24,,W,0,5-6,home,New York Jets,19,3,15,312,245,67,1,12,220,118,102,3,-6.17,19.91,0.06,2013
+12,12,Ravens,Thu,November 28,,W,0,6-6,home,Pittsburgh Steelers,22,20,16,311,237,74,0,22,329,257,72,0,5.27,-11.12,8.8,2013
+13,13,Ravens,Sun,December 8,,W,0,7-6,home,Minnesota Vikings,29,26,23,325,228,97,3,15,379,265,114,1,-9.53,1.21,9.74,2013
+14,14,Ravens,Mon,December 16,,W,0,8-6,away,Detroit Lions,18,16,18,305,215,90,0,19,349,230,119,3,-1.78,-0.47,5.72,2013
+15,15,Ravens,Sun,December 22,,L,0,8-7,home,New England Patriots,7,41,19,358,237,121,4,21,300,158,142,0,-24.64,-5.89,-2.98,2013
+16,16,Ravens,Sun,December 29,,L,0,8-8,away,Cincinnati Bengals,17,34,17,222,175,47,3,21,392,281,111,4,-19.68,-0.84,3.95,2013

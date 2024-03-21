@@ -1,23 +1,23 @@
-,Rank,Team,Date,Opponent,Results,Quarter,Distance,Type,Detail
-1,1,Seahawks,2013-09-08,CAR,"W, 12-7",2,3,pass,Steve Smith Sr.
-2,2,Seahawks,2013-09-22,JAX,"W, 45-17",3,2,rush,Maurice Jones-Drew
-3,3,Seahawks,2013-09-22,JAX,"W, 45-17",4,3,rush,Jordan Todman
-4,4,Seahawks,2013-09-29,HOU,"W, 23-20",2,31,pass,Garrett Graham
-5,5,Seahawks,2013-09-29,HOU,"W, 23-20",2,5,pass,Arian Foster
-6,6,Seahawks,2013-10-06,IND,"L, 28-34",1,73,pass,T.Y. Hilton
-7,7,Seahawks,2013-10-06,IND,"L, 28-34",2,61,blocked field goal,Delano Howell
-8,8,Seahawks,2013-10-06,IND,"L, 28-34",3,29,pass,T.Y. Hilton
-9,9,Seahawks,2013-10-06,IND,"L, 28-34",4,3,rush,Donald Brown
-10,10,Seahawks,2013-10-13,TEN,"W, 20-13",2,77,fumble,Jason McCourty
-11,11,Seahawks,2013-10-17,ARI,"W, 34-22",2,3,rush,Rashard Mendenhall
-12,12,Seahawks,2013-10-17,ARI,"W, 34-22",4,8,pass,Jaron Brown
-13,13,Seahawks,2013-11-03,TAM,"W, 27-24",2,12,pass,Tim Wright
-14,14,Seahawks,2013-11-03,TAM,"W, 27-24",2,20,pass,Tiquan Underwood
-15,15,Seahawks,2013-11-03,TAM,"W, 27-24",2,2,pass,Tom Crabtree
-16,16,Seahawks,2013-11-10,ATL,"W, 33-10",3,12,pass,Darius Johnson
-17,17,Seahawks,2013-11-17,MIN,"W, 41-20",2,38,pass,Jarius Wright
-18,18,Seahawks,2013-11-17,MIN,"W, 41-20",4,21,pass,Jarius Wright
-19,19,Seahawks,2013-12-02,NOR,"W, 34-7",2,2,pass,Jimmy Graham
-20,20,Seahawks,2013-12-08,SFO,"L, 17-19",2,8,pass,Vernon Davis
-21,21,Seahawks,2013-12-22,ARI,"L, 10-17",4,31,pass,Michael Floyd
-22,22,Seahawks,2013-12-29,STL,"W, 27-9",4,2,pass,Jared Cook
+,Rank,Team,Date,Opponent,Win/Loss,Score,Quarter,Distance,Type,Detail,Year
+0,1,Seahawks,09/08/2013,CAR,Win, 12-7,2,3,pass,Steve Smith Sr.,2013
+1,2,Seahawks,09/22/2013,JAX,Win, 45-17,3,2,rush,Maurice Jones-Drew,2013
+2,3,Seahawks,09/22/2013,JAX,Win, 45-17,4,3,rush,Jordan Todman,2013
+3,4,Seahawks,09/29/2013,HOU,Win, 23-20,2,31,pass,Garrett Graham,2013
+4,5,Seahawks,09/29/2013,HOU,Win, 23-20,2,5,pass,Arian Foster,2013
+5,6,Seahawks,10/06/2013,IND,Loss, 28-34,1,73,pass,T.Y. Hilton,2013
+6,7,Seahawks,10/06/2013,IND,Loss, 28-34,2,61,blocked field goal,Delano Howell,2013
+7,8,Seahawks,10/06/2013,IND,Loss, 28-34,3,29,pass,T.Y. Hilton,2013
+8,9,Seahawks,10/06/2013,IND,Loss, 28-34,4,3,rush,Donald Brown,2013
+9,10,Seahawks,10/13/2013,TEN,Win, 20-13,2,77,fumble,Jason McCourty,2013
+10,11,Seahawks,10/17/2013,ARI,Win, 34-22,2,3,rush,Rashard Mendenhall,2013
+11,12,Seahawks,10/17/2013,ARI,Win, 34-22,4,8,pass,Jaron Brown,2013
+12,13,Seahawks,11/03/2013,TAM,Win, 27-24,2,12,pass,Tim Wright,2013
+13,14,Seahawks,11/03/2013,TAM,Win, 27-24,2,20,pass,Tiquan Underwood,2013
+14,15,Seahawks,11/03/2013,TAM,Win, 27-24,2,2,pass,Tom Crabtree,2013
+15,16,Seahawks,11/10/2013,ATL,Win, 33-10,3,12,pass,Darius Johnson,2013
+16,17,Seahawks,11/17/2013,MIN,Win, 41-20,2,38,pass,Jarius Wright,2013
+17,18,Seahawks,11/17/2013,MIN,Win, 41-20,4,21,pass,Jarius Wright,2013
+18,19,Seahawks,12/02/2013,NOR,Win, 34-7,2,2,pass,Jimmy Graham,2013
+19,20,Seahawks,12/08/2013,SFO,Loss, 17-19,2,8,pass,Vernon Davis,2013
+20,21,Seahawks,12/22/2013,ARI,Loss, 10-17,4,31,pass,Michael Floyd,2013
+21,22,Seahawks,12/29/2013,STL,Win, 27-9,4,2,pass,Jared Cook,2013

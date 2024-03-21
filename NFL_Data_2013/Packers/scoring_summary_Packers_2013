@@ -1,17 +1,17 @@
-,No.,Team,Player,Age,Pos,Games Played,Games Started,Rush TD,Reception TD,Punt Return TD,Kick Return TD,Fumble Return TD,Interception TD,Other TD,All Touchdown Scored,2-Point Conversions Made,Two-Point Conversions Attempted,Defensive Two-Point Conversions,Extra Points Made,Extra Points Allowed,Field Goals Made,Field Goals Attempted,Safeties Scored by Player/Team,Total Points Scored by all Means,Poins per Game
-2,2,Packers,Mason Crosby,29,K,16,0,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,42,42,33,37,n/a,141,8.8
-27,27,Packers,Eddie Lacy,23,RB,15,15,11,n/a,n/a,n/a,n/a,n/a,n/a,11,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,66,4.4
-87,87,Packers,Jordy Nelson,28,WR,16,16,n/a,8,n/a,n/a,n/a,n/a,n/a,8,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,48,3.0
-11,11,Packers,Jarrett Boykin,24,WR,16,8,n/a,3,n/a,n/a,1,n/a,n/a,4,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,24,1.5
-18,18,Packers,Randall Cobb,23,WR,6,4,n/a,4,n/a,n/a,n/a,n/a,n/a,4,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,24,4.0
-44,44,Packers,James Starks,27,RB,13,1,3,1,n/a,n/a,n/a,n/a,n/a,4,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,24,1.8
-88,88,Packers,Jermichael Finley,26,TE,6,5,n/a,3,n/a,n/a,n/a,n/a,n/a,3,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,18,3.0
-89,89,Packers,James Jones,29,WR,14,14,n/a,3,n/a,n/a,n/a,n/a,n/a,3,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,18,1.3
-81,81,Packers,Andrew Quarless,25,TE,16,10,n/a,2,n/a,n/a,n/a,n/a,n/a,2,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,12,0.8
-86,86,Packers,Brandon Bostick,24,TE,11,0,n/a,1,n/a,n/a,n/a,n/a,n/a,1,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,6,0.5
-42,42,Packers,Morgan Burnett,24,SS,13,13,n/a,n/a,n/a,n/a,1,n/a,n/a,1,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,6,0.5
-23,23,Packers,Johnathan Franklin,24,RB,11,0,1,n/a,n/a,n/a,n/a,n/a,n/a,1,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,6,0.5
-33,33,Packers,Micah Hyde,23,DB,16,3,n/a,n/a,1,n/a,n/a,n/a,n/a,1,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,6,0.4
-43,43,Packers,M.D. Jennings,25,FS,16,16,n/a,n/a,n/a,n/a,1,n/a,n/a,1,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,6,0.4
-30,30,Packers,John Kuhn,31,RB,15,6,1,n/a,n/a,n/a,n/a,n/a,n/a,1,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,6,0.4
-16,16,Packers,Scott Tolzien,26,QB,3,2,1,n/a,n/a,n/a,n/a,n/a,n/a,1,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,6,2.0
+,No.,Team,Player,Age,Pos,Games Played,Games Started,Rush TD,Reception TD,Punt Return TD,Kick Return TD,Fumble Return TD,Interception TD,Other TD,All Touchdown Scored,2-Point Conversions Made,Two-Point Conversions Attempted,Defensive Two-Point Conversions,Extra Points Made,Extra Points Allowed,Field Goals Made,Field Goals Attempted,Safeties Scored by Player/Team,Total Points Scored by all Means,Poins per Game,Year
+0,2,Packers,Mason Crosby,29,K,16,0,0,0,0,0,0,0,0,0,0,0,0,42,42,33,37,,141,8.8,2013
+1,27,Packers,Eddie Lacy,23,RB,15,15,11,0,0,0,0,0,0,11,0,0,0,0,0,0,0,,66,4.4,2013
+2,87,Packers,Jordy Nelson,28,WR,16,16,0,8,0,0,0,0,0,8,0,0,0,0,0,0,0,,48,3.0,2013
+3,11,Packers,Jarrett Boykin,24,WR,16,8,0,3,0,0,1,0,0,4,0,0,0,0,0,0,0,,24,1.5,2013
+4,18,Packers,Randall Cobb,23,WR,6,4,0,4,0,0,0,0,0,4,0,0,0,0,0,0,0,,24,4.0,2013
+5,44,Packers,James Starks,27,RB,13,1,3,1,0,0,0,0,0,4,0,0,0,0,0,0,0,,24,1.8,2013
+6,88,Packers,Jermichael Finley,26,TE,6,5,0,3,0,0,0,0,0,3,0,0,0,0,0,0,0,,18,3.0,2013
+7,89,Packers,James Jones,29,WR,14,14,0,3,0,0,0,0,0,3,0,0,0,0,0,0,0,,18,1.3,2013
+8,81,Packers,Andrew Quarless,25,TE,16,10,0,2,0,0,0,0,0,2,0,0,0,0,0,0,0,,12,0.8,2013
+9,86,Packers,Brandon Bostick,24,TE,11,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,,6,0.5,2013
+10,42,Packers,Morgan Burnett,24,SS,13,13,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,,6,0.5,2013
+11,23,Packers,Johnathan Franklin,24,RB,11,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,,6,0.5,2013
+12,33,Packers,Micah Hyde,23,DB,16,3,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,,6,0.4,2013
+13,43,Packers,M.D. Jennings,25,FS,16,16,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,,6,0.4,2013
+14,30,Packers,John Kuhn,31,RB,15,6,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,,6,0.4,2013
+15,16,Packers,Scott Tolzien,26,QB,3,2,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,,6,2.0,2013

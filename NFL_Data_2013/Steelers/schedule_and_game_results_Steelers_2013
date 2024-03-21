@@ -1,18 +1,18 @@
-,Week,Team,Day,Date,Time,Win/Loss,Overtime,Team Record,Home/Away,Opponent,Points Scored,Points Allowed,Offense 1st Down,Total Yards Gained of Offense,Total yards Gained by Passing,Total Yards Gained by Rushing,Offense Turnovers,Defense 1st Down,Total Yards Allowed by Defense,Total Passing Yards Allowed by Defense,Total Rushing Yards Allowed by Defense,Defense Turnovers,Offense,Defense,Sp. Tms
-1,1,Steelers,Sun,September 8,1:02PM ET,L,n/a,0-1,home,Tennessee Titans,9,16,14,194,163,31,2,17,229,117,112,n/a,-10.52,3.64,-2.02
-2,2,Steelers,Mon,September 16,8:41PM ET,L,n/a,0-2,away,Cincinnati Bengals,10,20,14,278,234,44,2,22,407,280,127,n/a,-7.39,-4.84,6.16
-3,3,Steelers,Sun,September 22,8:30PM ET,L,n/a,0-3,home,Chicago Bears,23,40,21,459,379,80,5,15,258,151,107,n/a,-15.78,-1.41,-0.13
-4,4,Steelers,Sun,September 29,1:07PM ET,L,n/a,0-4,away,Minnesota Vikings,27,34,29,434,357,77,2,16,393,248,145,n/a,15.57,-18.11,-2.66
-5,5,Steelers,n/a,n/a,n/a,n/a,n/a,n/a,home,<strong>Bye Week</strong>,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
-6,6,Steelers,Sun,October 13,1:03PM ET,W,n/a,1-4,away,New York Jets,19,6,16,328,255,73,n/a,18,267,184,83,2,1.32,11.21,-3.20
-7,7,Steelers,Sun,October 20,4:25PM ET,W,n/a,2-4,home,Baltimore Ravens,19,16,17,286,145,141,1,19,287,205,82,n/a,5.59,-1.30,4.47
-8,8,Steelers,Sun,October 27,4:05PM ET,L,n/a,2-5,away,Oakland Raiders,18,21,20,276,241,35,2,13,279,82,197,3,-5.57,10.73,-6.69
-9,9,Steelers,Sun,November 3,4:25PM ET,L,n/a,2-6,away,New England Patriots,31,55,24,479,371,108,3,33,610,413,197,1,3.89,-33.33,4.45
-10,10,Steelers,Sun,November 10,1:02PM ET,W,n/a,3-6,home,Buffalo Bills,23,10,19,300,164,136,1,16,227,132,95,1,-1.87,11.49,2.44
-11,11,Steelers,Sun,November 17,1:02PM ET,W,n/a,4-6,home,Detroit Lions,37,27,24,398,358,40,n/a,21,451,344,107,3,10.88,0.66,-0.20
-12,12,Steelers,Sun,November 24,1:03PM ET,W,n/a,5-6,away,Cleveland Browns,27,11,19,302,217,85,n/a,19,367,312,55,4,-4.91,21.05,2.01
-13,13,Steelers,Thu,November 28,8:31PM ET,L,n/a,5-7,away,Baltimore Ravens,20,22,22,329,257,72,n/a,16,311,237,74,n/a,11.12,-5.27,-8.80
-14,14,Steelers,Sun,December 8,1:02PM ET,L,n/a,5-8,home,Miami Dolphins,28,34,16,412,328,84,1,18,367,186,181,1,2.11,-3.65,-1.66
-15,15,Steelers,Sun,December 15,8:30PM ET,W,n/a,6-8,home,Cincinnati Bengals,30,20,19,290,184,106,1,19,279,222,57,1,4.92,5.31,1.61
-16,16,Steelers,Sun,December 22,4:25PM ET,W,n/a,7-8,away,Green Bay Packers,38,31,21,343,192,151,2,26,370,219,151,2,5.08,4.23,-4.09
-17,17,Steelers,Sun,December 29,1:02PM ET,W,n/a,8-8,home,Cleveland Browns,20,7,17,292,172,120,2,15,293,214,79,2,-1.50,12.26,3.21
+,Week,Team,Day,Date,Time,Win/Loss,Overtime,Team Record,Home/Away,Opponent,Points Scored,Points Allowed,Offense 1st Down,Total Yards Gained of Offense,Total yards Gained by Passing,Total Yards Gained by Rushing,Offense Turnovers,Defense 1st Down,Total Yards Allowed by Defense,Total Passing Yards Allowed by Defense,Total Rushing Yards Allowed by Defense,Defense Turnovers,Offense,Defense,Sp. Tms,Year
+0,0,Steelers,Sun,September 8,,L,0,0-1,home,Tennessee Titans,9,16,14,194,163,31,2,17,229,117,112,0,-10.52,3.64,-2.02,2013
+1,1,Steelers,Mon,September 16,,L,0,0-2,away,Cincinnati Bengals,10,20,14,278,234,44,2,22,407,280,127,0,-7.39,-4.84,6.16,2013
+2,2,Steelers,Sun,September 22,,L,0,0-3,home,Chicago Bears,23,40,21,459,379,80,5,15,258,151,107,0,-15.78,-1.41,-0.13,2013
+3,3,Steelers,Sun,September 29,,L,0,0-4,away,Minnesota Vikings,27,34,29,434,357,77,2,16,393,248,145,0,15.57,-18.11,-2.66,2013
+4,4,Steelers,,,,,0,,home,<strong>Bye Week</strong>,0,0,0,0,0,0,0,0,0,0,0,0,,,,2013
+5,5,Steelers,Sun,October 13,,W,0,1-4,away,New York Jets,19,6,16,328,255,73,0,18,267,184,83,2,1.32,11.21,-3.2,2013
+6,6,Steelers,Sun,October 20,,W,0,2-4,home,Baltimore Ravens,19,16,17,286,145,141,1,19,287,205,82,0,5.59,-1.3,4.47,2013
+7,7,Steelers,Sun,October 27,,L,0,2-5,away,Oakland Raiders,18,21,20,276,241,35,2,13,279,82,197,3,-5.57,10.73,-6.69,2013
+8,8,Steelers,Sun,November 3,,L,0,2-6,away,New England Patriots,31,55,24,479,371,108,3,33,610,413,197,1,3.89,-33.33,4.45,2013
+9,9,Steelers,Sun,November 10,,W,0,3-6,home,Buffalo Bills,23,10,19,300,164,136,1,16,227,132,95,1,-1.87,11.49,2.44,2013
+10,10,Steelers,Sun,November 17,,W,0,4-6,home,Detroit Lions,37,27,24,398,358,40,0,21,451,344,107,3,10.88,0.66,-0.2,2013
+11,11,Steelers,Sun,November 24,,W,0,5-6,away,Cleveland Browns,27,11,19,302,217,85,0,19,367,312,55,4,-4.91,21.05,2.01,2013
+12,12,Steelers,Thu,November 28,,L,0,5-7,away,Baltimore Ravens,20,22,22,329,257,72,0,16,311,237,74,0,11.12,-5.27,-8.8,2013
+13,13,Steelers,Sun,December 8,,L,0,5-8,home,Miami Dolphins,28,34,16,412,328,84,1,18,367,186,181,1,2.11,-3.65,-1.66,2013
+14,14,Steelers,Sun,December 15,,W,0,6-8,home,Cincinnati Bengals,30,20,19,290,184,106,1,19,279,222,57,1,4.92,5.31,1.61,2013
+15,15,Steelers,Sun,December 22,,W,0,7-8,away,Green Bay Packers,38,31,21,343,192,151,2,26,370,219,151,2,5.08,4.23,-4.09,2013
+16,16,Steelers,Sun,December 29,,W,0,8-8,home,Cleveland Browns,20,7,17,292,172,120,2,15,293,214,79,2,-1.5,12.26,3.21,2013

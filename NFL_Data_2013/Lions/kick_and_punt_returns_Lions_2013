@@ -1,8 +1,8 @@
-,No.,Team,Player,Age,Position,Games Played,Games Started,Punts Returned,Punts Return Yardage,Punts Returned for Touchdown,Longest Punt Return,Yards per Punt Return,Kickoff Returns,Yardage for Kickoffs Returned,Kickoffs Returned for a Touchdown,Longest Kickoff Return,Yards per Kickoff Return,All-purpose Yards
-15,15,Lions,Micheal Spurlock,30,WR,10,0,22,145,0,57,6.6,15,338,0,36,22.5,483
-12,12,Lions,Jeremy Ross,25,WR,10,2,15,243,1,58,16.2,15,439,1,98,29.3,781
-35,35,Lions,Joique Bell,27,RB,16,4,n/a,n/a,0,n/a,n/a,1,4,0,4,4.0,1201
-84,84,Lions,Ryan Broyles,25,WR,6,3,1,4,0,4,4.0,n/a,n/a,0,n/a,n/a,89
-82,82,Lions,Dorin Dickerson,25,TE,5,0,n/a,n/a,0,n/a,n/a,1,18,0,18,18.0,52
-65,65,Lions,Dylan Gandy,31,G,15,0,n/a,n/a,0,n/a,n/a,1,5,0,5,5.0,5
-41,41,Lions,Theo Riddick,22,RB,14,0,n/a,n/a,0,n/a,n/a,1,12,0,12,12.0,63
+,No.,Team,Player,Age,Position,Games Played,Games Started,Punts Returned,Punts Return Yardage,Punts Returned for Touchdown,Longest Punt Return,Yards per Punt Return,Kickoff Returns,Yardage for Kickoffs Returned,Kickoffs Returned for a Touchdown,Longest Kickoff Return,Yards per Kickoff Return,All-purpose Yards,Year
+0,15,Lions,Micheal Spurlock,30,WR,10,0,22,145,0,57,6.6,15,338,0,36,22.5,483,2013
+1,12,Lions,Jeremy Ross,25,WR,10,2,15,243,1,58,16.2,15,439,1,98,29.3,781,2013
+2,35,Lions,Joique Bell,27,RB,16,4,0,0,0,0,,1,4,0,4,4.0,1201,2013
+3,84,Lions,Ryan Broyles,25,WR,6,3,1,4,0,4,4.0,0,0,0,0,,89,2013
+4,82,Lions,Dorin Dickerson,25,TE,5,0,0,0,0,0,,1,18,0,18,18.0,52,2013
+5,65,Lions,Dylan Gandy,31,G,15,0,0,0,0,0,,1,5,0,5,5.0,5,2013
+6,41,Lions,Theo Riddick,22,RB,14,0,0,0,0,0,,1,12,0,12,12.0,63,2013

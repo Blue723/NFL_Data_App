@@ -1,5 +1,5 @@
-,No.,Team,Player,Age,Position,Games Played,Games Started,Punts Returned,Punts Return Yardage,Punts Returned for Touchdown,Longest Punt Return,Yards per Punt Return,Kickoff Returns,Yardage for Kickoffs Returned,Kickoffs Returned for a Touchdown,Longest Kickoff Return,Yards per Kickoff Return,All-purpose Yards
-21,21,Cardinals,Patrick Peterson,23,LCB,16,16,33,198,0,22,6.0,1,18,0,18,18.0,350
-35,35,Cardinals,Javier Arenas,26,DB,16,0,1,0,0,0,0.0,23,493,0,46,21.4,493
-32,32,Cardinals,Tyrann Mathieu,21,FS,13,11,n/a,n/a,0,n/a,n/a,2,8,0,13,4.0,15
-38,38,Cardinals,Andre Ellington,24,RB,15,1,n/a,n/a,0,n/a,n/a,1,21,0,21,21.0,1044
+,No.,Team,Player,Age,Position,Games Played,Games Started,Punts Returned,Punts Return Yardage,Punts Returned for Touchdown,Longest Punt Return,Yards per Punt Return,Kickoff Returns,Yardage for Kickoffs Returned,Kickoffs Returned for a Touchdown,Longest Kickoff Return,Yards per Kickoff Return,All-purpose Yards,Year
+0,21,Cardinals,Patrick Peterson,23,LCB,16,16,33,198,0,22,6.0,1,18,0,18,18.0,350,2013
+1,35,Cardinals,Javier Arenas,26,DB,16,0,1,0,0,0,0.0,23,493,0,46,21.4,493,2013
+2,32,Cardinals,Tyrann Mathieu,21,FS,13,11,0,0,0,0,,2,8,0,13,4.0,15,2013
+3,38,Cardinals,Andre Ellington,24,RB,15,1,0,0,0,0,,1,21,0,21,21.0,1044,2013

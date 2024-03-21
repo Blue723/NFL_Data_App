@@ -1,7 +1,7 @@
-,No.,Team,Player,Age,Position,Games Played,Games Started,Punts Returned,Punts Return Yardage,Punts Returned for Touchdown,Longest Punt Return,Yards per Punt Return,Kickoff Returns,Yardage for Kickoffs Returned,Kickoffs Returned for a Touchdown,Longest Kickoff Return,Yards per Kickoff Return,All-purpose Yards
-23,23,49ers,LaMichael James,24,RB,10,0,23,251,0,40,10.9,12,321,0,41,26.8,647
-10,10,49ers,Kyle Williams,25,WR,9,5,12,61,0,22,5.1,7,134,0,35,19.1,331
-24,24,49ers,Anthony Dixon,26,RB,16,1,n/a,n/a,0,n/a,n/a,5,101,0,47,20.2,187
-32,32,49ers,Kendall Hunter,25,RB,16,0,n/a,n/a,0,n/a,n/a,4,81,0,30,20.3,454
-20,20,49ers,Perrish Cox,26,DB,9,0,n/a,n/a,0,n/a,n/a,3,82,0,30,27.3,82
-11,11,49ers,Quinton Patton,23,WR,6,0,n/a,n/a,0,n/a,n/a,1,7,0,7,7.0,67
+,No.,Team,Player,Age,Position,Games Played,Games Started,Punts Returned,Punts Return Yardage,Punts Returned for Touchdown,Longest Punt Return,Yards per Punt Return,Kickoff Returns,Yardage for Kickoffs Returned,Kickoffs Returned for a Touchdown,Longest Kickoff Return,Yards per Kickoff Return,All-purpose Yards,Year
+0,23,49ers,LaMichael James,24,RB,10,0,23,251,0,40,10.9,12,321,0,41,26.8,647,2013
+1,10,49ers,Kyle Williams,25,WR,9,5,12,61,0,22,5.1,7,134,0,35,19.1,331,2013
+2,24,49ers,Anthony Dixon,26,RB,16,1,0,0,0,0,,5,101,0,47,20.2,187,2013
+3,32,49ers,Kendall Hunter,25,RB,16,0,0,0,0,0,,4,81,0,30,20.3,454,2013
+4,20,49ers,Perrish Cox,26,DB,9,0,0,0,0,0,,3,82,0,30,27.3,82,2013
+5,11,49ers,Quinton Patton,23,WR,6,0,0,0,0,0,,1,7,0,7,7.0,67,2013

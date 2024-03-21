@@ -1,8 +1,8 @@
-,No.,Team,Player,Age,Position,Games Played,Games Started,Punts Returned,Punts Return Yardage,Punts Returned for Touchdown,Longest Punt Return,Yards per Punt Return,Kickoff Returns,Yardage for Kickoffs Returned,Kickoffs Returned for a Touchdown,Longest Kickoff Return,Yards per Kickoff Return,All-purpose Yards
-19,19,Panthers,Ted Ginn Jr.,28,WR,16,2,26,316,0,41,12.2,25,595,0,38,23.8,1496
-25,25,Panthers,Kenjon Barner,24,RB,8,0,n/a,n/a,0,n/a,n/a,2,17,0,17,8.5,31
-93,93,Panthers,Chase Blackburn,30,RLB,13,7,n/a,n/a,0,n/a,n/a,1,0,0,0,0.0,0
-47,47,Panthers,Richie Brockel,27,TE,16,0,1,0,0,0,0.0,n/a,n/a,0,n/a,n/a,13
-29,29,Panthers,Drayton Florence,33,DB,14,5,1,0,0,0,0.0,n/a,n/a,0,n/a,n/a,40
-11,11,Panthers,Brandon LaFell,27,WR,16,16,1,0,0,0,0.0,n/a,n/a,0,n/a,n/a,642
-22,22,Panthers,Josh Thomas,24,LCB,13,6,1,0,0,0,0.0,n/a,n/a,0,n/a,n/a,0
+,No.,Team,Player,Age,Position,Games Played,Games Started,Punts Returned,Punts Return Yardage,Punts Returned for Touchdown,Longest Punt Return,Yards per Punt Return,Kickoff Returns,Yardage for Kickoffs Returned,Kickoffs Returned for a Touchdown,Longest Kickoff Return,Yards per Kickoff Return,All-purpose Yards,Year
+0,19,Panthers,Ted Ginn Jr.,28,WR,16,2,26,316,0,41,12.2,25,595,0,38,23.8,1496,2013
+1,25,Panthers,Kenjon Barner,24,RB,8,0,0,0,0,0,,2,17,0,17,8.5,31,2013
+2,93,Panthers,Chase Blackburn,30,RLB,13,7,0,0,0,0,,1,0,0,0,0.0,0,2013
+3,47,Panthers,Richie Brockel,27,TE,16,0,1,0,0,0,0.0,0,0,0,0,,13,2013
+4,29,Panthers,Drayton Florence,33,DB,14,5,1,0,0,0,0.0,0,0,0,0,,40,2013
+5,11,Panthers,Brandon LaFell,27,WR,16,16,1,0,0,0,0.0,0,0,0,0,,642,2013
+6,22,Panthers,Josh Thomas,24,LCB,13,6,1,0,0,0,0.0,0,0,0,0,,0,2013

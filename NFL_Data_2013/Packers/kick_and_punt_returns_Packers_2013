@@ -1,10 +1,10 @@
-,No.,Team,Player,Age,Position,Games Played,Games Started,Punts Returned,Punts Return Yardage,Punts Returned for Touchdown,Longest Punt Return,Yards per Punt Return,Kickoff Returns,Yardage for Kickoffs Returned,Kickoffs Returned for a Touchdown,Longest Kickoff Return,Yards per Kickoff Return,All-purpose Yards
-33,33,Packers,Micah Hyde,23,DB,16,3,24,296,1,93,12.3,22,531,0,70,24.1,827
-10,10,Packers,Jeremy Ross,25,WR,3,0,2,20,0,11,10.0,6,75,0,21,12.5,103
-18,18,Packers,Randall Cobb,23,WR,6,4,3,23,0,16,7.7,1,10,0,10,10.0,544
-23,23,Packers,Johnathan Franklin,24,RB,11,0,n/a,n/a,0,n/a,n/a,4,82,0,26,20.5,219
-30,30,Packers,John Kuhn,31,RB,15,6,1,0,0,0,0.0,2,40,0,21,20.0,159
-32,32,Packers,Chris Banjo,23,DB,16,1,n/a,n/a,0,n/a,n/a,1,12,0,12,12.0,12
-22,22,Packers,Kahlil Bell,27,RB,3,0,n/a,n/a,0,n/a,n/a,1,22,0,22,22.0,22
-34,34,Packers,Michael Hill,24,RB,2,0,n/a,n/a,0,n/a,n/a,1,19,0,19,19.0,19
-85,85,Packers,Jake Stoneburner,24,TE,9,0,n/a,n/a,0,n/a,n/a,1,0,0,0,0.0,0
+,No.,Team,Player,Age,Position,Games Played,Games Started,Punts Returned,Punts Return Yardage,Punts Returned for Touchdown,Longest Punt Return,Yards per Punt Return,Kickoff Returns,Yardage for Kickoffs Returned,Kickoffs Returned for a Touchdown,Longest Kickoff Return,Yards per Kickoff Return,All-purpose Yards,Year
+0,33,Packers,Micah Hyde,23,DB,16,3,24,296,1,93,12.3,22,531,0,70,24.1,827,2013
+1,10,Packers,Jeremy Ross,25,WR,3,0,2,20,0,11,10.0,6,75,0,21,12.5,103,2013
+2,18,Packers,Randall Cobb,23,WR,6,4,3,23,0,16,7.7,1,10,0,10,10.0,544,2013
+3,23,Packers,Johnathan Franklin,24,RB,11,0,0,0,0,0,,4,82,0,26,20.5,219,2013
+4,30,Packers,John Kuhn,31,RB,15,6,1,0,0,0,0.0,2,40,0,21,20.0,159,2013
+5,32,Packers,Chris Banjo,23,DB,16,1,0,0,0,0,,1,12,0,12,12.0,12,2013
+6,22,Packers,Kahlil Bell,27,RB,3,0,0,0,0,0,,1,22,0,22,22.0,22,2013
+7,34,Packers,Michael Hill,24,RB,2,0,0,0,0,0,,1,19,0,19,19.0,19,2013
+8,85,Packers,Jake Stoneburner,24,TE,9,0,0,0,0,0,,1,0,0,0,0.0,0,2013

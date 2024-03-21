@@ -1,28 +1,28 @@
-,Rank,Team,Date,Opponent,Results,Quarter,Distance,Type,Detail
-1,1,Jets,2013-09-08,TAM,"W, 18-17",2,7,pass,Kellen Winslow
-2,2,Jets,2013-09-12,NWE,"L, 10-13",3,3,rush,Bilal Powell
-3,3,Jets,2013-09-22,BUF,"W, 27-20",1,8,rush,Geno Smith
-4,4,Jets,2013-09-22,BUF,"W, 27-20",2,51,pass,Stephen Hill
-5,5,Jets,2013-09-22,BUF,"W, 27-20",4,69,pass,Santonio Holmes
-6,6,Jets,2013-09-29,TEN,"L, 13-38",4,34,pass,Jeff Cumberland
-7,7,Jets,2013-10-07,ATL,"W, 30-28",2,20,pass,Jeff Cumberland
-8,8,Jets,2013-10-07,ATL,"W, 30-28",2,16,pass,Jeremy Kerley
-9,9,Jets,2013-10-07,ATL,"W, 30-28",4,1,pass,Kellen Winslow
-10,10,Jets,2013-10-20,NWE,"W, 30-27",1,12,pass,Jeremy Kerley
-11,11,Jets,2013-10-20,NWE,"W, 30-27",3,23,interception,Antonio Allen
-12,12,Jets,2013-10-20,NWE,"W, 30-27",3,8,rush,Geno Smith
-13,13,Jets,2013-11-03,NOR,"W, 26-20",2,3,rush,Chris Ivory
-14,14,Jets,2013-11-03,NOR,"W, 26-20",2,3,rush,Geno Smith
-15,15,Jets,2013-11-17,BUF,"L, 14-37",3,1,rush,Chris Ivory
-16,16,Jets,2013-11-17,BUF,"L, 14-37",4,13,pass,Jeff Cumberland
-17,17,Jets,2013-12-08,OAK,"W, 37-27",1,25,pass,Jeremy Kerley
-18,18,Jets,2013-12-08,OAK,"W, 37-27",2,n/a,blocked punt,Antonio Allen
-19,19,Jets,2013-12-08,OAK,"W, 37-27",3,8,rush,Geno Smith
-20,20,Jets,2013-12-08,OAK,"W, 37-27",4,15,rush,Chris Ivory
-21,21,Jets,2013-12-15,CAR,"L, 20-30",3,1,rush,Sheldon Richardson
-22,22,Jets,2013-12-15,CAR,"L, 20-30",4,8,pass,Jeff Cumberland
-23,23,Jets,2013-12-22,CLE,"W, 24-13",2,6,pass,David Nelson
-24,24,Jets,2013-12-22,CLE,"W, 24-13",4,5,pass,David Nelson
-25,25,Jets,2013-12-22,CLE,"W, 24-13",4,17,rush,Geno Smith
-26,26,Jets,2013-12-29,MIA,"W, 20-7",2,1,rush,Sheldon Richardson
-27,27,Jets,2013-12-29,MIA,"W, 20-7",2,7,rush,Geno Smith
+,Rank,Team,Date,Opponent,Win/Loss,Score,Quarter,Distance,Type,Detail,Year
+0,1,Jets,09/08/2013,TAM,Win, 18-17,2,7,pass,Kellen Winslow,2013
+1,2,Jets,09/12/2013,NWE,Loss, 10-13,3,3,rush,Bilal Powell,2013
+2,3,Jets,09/22/2013,BUF,Win, 27-20,1,8,rush,Geno Smith,2013
+3,4,Jets,09/22/2013,BUF,Win, 27-20,2,51,pass,Stephen Hill,2013
+4,5,Jets,09/22/2013,BUF,Win, 27-20,4,69,pass,Santonio Holmes,2013
+5,6,Jets,09/29/2013,TEN,Loss, 13-38,4,34,pass,Jeff Cumberland,2013
+6,7,Jets,10/07/2013,ATL,Win, 30-28,2,20,pass,Jeff Cumberland,2013
+7,8,Jets,10/07/2013,ATL,Win, 30-28,2,16,pass,Jeremy Kerley,2013
+8,9,Jets,10/07/2013,ATL,Win, 30-28,4,1,pass,Kellen Winslow,2013
+9,10,Jets,10/20/2013,NWE,Win, 30-27,1,12,pass,Jeremy Kerley,2013
+10,11,Jets,10/20/2013,NWE,Win, 30-27,3,23,interception,Antonio Allen,2013
+11,12,Jets,10/20/2013,NWE,Win, 30-27,3,8,rush,Geno Smith,2013
+12,13,Jets,11/03/2013,NOR,Win, 26-20,2,3,rush,Chris Ivory,2013
+13,14,Jets,11/03/2013,NOR,Win, 26-20,2,3,rush,Geno Smith,2013
+14,15,Jets,11/17/2013,BUF,Loss, 14-37,3,1,rush,Chris Ivory,2013
+15,16,Jets,11/17/2013,BUF,Loss, 14-37,4,13,pass,Jeff Cumberland,2013
+16,17,Jets,12/08/2013,OAK,Win, 37-27,1,25,pass,Jeremy Kerley,2013
+17,18,Jets,12/08/2013,OAK,Win, 37-27,2,0,blocked punt,Antonio Allen,2013
+18,19,Jets,12/08/2013,OAK,Win, 37-27,3,8,rush,Geno Smith,2013
+19,20,Jets,12/08/2013,OAK,Win, 37-27,4,15,rush,Chris Ivory,2013
+20,21,Jets,12/15/2013,CAR,Loss, 20-30,3,1,rush,Sheldon Richardson,2013
+21,22,Jets,12/15/2013,CAR,Loss, 20-30,4,8,pass,Jeff Cumberland,2013
+22,23,Jets,12/22/2013,CLE,Win, 24-13,2,6,pass,David Nelson,2013
+23,24,Jets,12/22/2013,CLE,Win, 24-13,4,5,pass,David Nelson,2013
+24,25,Jets,12/22/2013,CLE,Win, 24-13,4,17,rush,Geno Smith,2013
+25,26,Jets,12/29/2013,MIA,Win, 20-7,2,1,rush,Sheldon Richardson,2013
+26,27,Jets,12/29/2013,MIA,Win, 20-7,2,7,rush,Geno Smith,2013

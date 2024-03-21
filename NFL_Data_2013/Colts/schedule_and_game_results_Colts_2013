@@ -1,21 +1,21 @@
-,Week,Team,Day,Date,Time,Win/Loss,Overtime,Team Record,Home/Away,Opponent,Points Scored,Points Allowed,Offense 1st Down,Total Yards Gained of Offense,Total yards Gained by Passing,Total Yards Gained by Rushing,Offense Turnovers,Defense 1st Down,Total Yards Allowed by Defense,Total Passing Yards Allowed by Defense,Total Rushing Yards Allowed by Defense,Defense Turnovers,Offense,Defense,Sp. Tms
-1,1,Colts,Sun,September 8,1:02PM ET,W,n/a,1-0,home,Oakland Raiders,21,17,18,274,147,127,n/a,20,372,201,171,2,10.93,-11.48,4.41
-2,2,Colts,Sun,September 15,1:02PM ET,L,n/a,1-1,home,Miami Dolphins,20,24,23,448,315,133,1,21,398,297,101,1,8.46,-7.81,-5.44
-3,3,Colts,Sun,September 22,4:25PM ET,W,n/a,2-1,away,San Francisco 49ers,27,7,23,336,152,184,n/a,14,254,139,115,2,12.26,7.16,0.58
-4,4,Colts,Sun,September 29,1:06PM ET,W,n/a,3-1,away,Jacksonville Jaguars,37,3,26,437,280,157,1,14,205,165,40,3,14.26,23.58,-6.43
-5,5,Colts,Sun,October 6,1:03PM ET,W,n/a,4-1,home,Seattle Seahawks,34,28,20,317,208,109,2,21,423,205,218,2,11.14,-5.27,3.68
-6,6,Colts,Mon,October 14,8:40PM ET,L,n/a,4-2,away,San Diego Chargers,9,19,12,267,193,74,1,24,374,227,147,n/a,-4.60,-9.88,3.03
-7,7,Colts,Sun,October 20,8:31PM ET,W,n/a,5-2,home,Denver Broncos,39,33,19,334,213,121,1,23,429,365,64,3,-2.90,-1.47,12.48
-8,8,Colts,n/a,n/a,n/a,n/a,n/a,n/a,home,<strong>Bye Week</strong>,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
-9,9,Colts,Sun,November 3,8:30PM ET,W,n/a,6-2,away,Houston Texans,27,24,17,314,245,69,n/a,22,483,340,143,n/a,11.62,-15.10,9.34
-10,10,Colts,Sun,November 10,1:03PM ET,L,n/a,6-3,home,St. Louis Rams,8,38,21,406,388,18,5,12,372,232,140,1,-16.80,-4.38,-8.80
-11,11,Colts,Thu,November 14,8:29PM ET,W,n/a,7-3,away,Tennessee Titans,30,27,24,366,229,137,n/a,20,340,218,122,1,8.42,-17.58,7.10
-12,12,Colts,Sun,November 24,4:05PM ET,L,n/a,7-4,away,Arizona Cardinals,11,40,15,239,159,80,1,27,410,290,120,n/a,-10.21,-19.09,2.69
-13,13,Colts,Sun,December 1,1:02PM ET,W,n/a,8-4,home,Tennessee Titans,22,14,18,264,160,104,1,24,347,185,162,4,-2.90,6.11,4.76
-14,14,Colts,Sun,December 8,1:02PM ET,L,n/a,8-5,away,Cincinnati Bengals,28,42,21,389,326,63,n/a,28,430,275,155,n/a,15.27,-24.15,-5.19
-15,15,Colts,Sun,December 15,1:02PM ET,W,n/a,9-5,home,Houston Texans,25,3,19,331,179,152,1,12,239,132,107,2,-3.38,22.32,1.79
-16,16,Colts,Sun,December 22,1:02PM ET,W,n/a,10-5,away,Kansas City Chiefs,23,7,19,367,232,135,n/a,18,287,132,155,3,9.81,9.95,-1.42
-17,17,Colts,Sun,December 29,1:02PM ET,W,n/a,11-5,home,Jacksonville Jaguars,30,10,23,379,299,80,n/a,19,350,308,42,2,14.25,9.89,-4.60
-n/a,n/a,Colts,n/a,<strong>Playoffs</strong>,n/a,n/a,n/a,n/a,home,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
-Wild Card,Wild Card,Colts,Sat,January 4,4:35PM ET,W,n/a,12-5,home,Kansas City Chiefs,45,44,28,536,436,100,4,30,513,363,150,1,18.66,-19.61,0.77
-Division,Division,Colts,Sat,January 11,8:15PM ET,L,n/a,12-6,away,New England Patriots,22,43,16,386,317,69,4,23,419,185,234,n/a,-7.19,-18.81,4.92
+,Week,Team,Day,Date,Time,Win/Loss,Overtime,Team Record,Home/Away,Opponent,Points Scored,Points Allowed,Offense 1st Down,Total Yards Gained of Offense,Total yards Gained by Passing,Total Yards Gained by Rushing,Offense Turnovers,Defense 1st Down,Total Yards Allowed by Defense,Total Passing Yards Allowed by Defense,Total Rushing Yards Allowed by Defense,Defense Turnovers,Offense,Defense,Sp. Tms,Year
+0,0,Colts,Sun,September 8,,W,0,1-0,home,Oakland Raiders,21,17,18,274,147,127,0,20,372,201,171,2,10.93,-11.48,4.41,2013
+1,1,Colts,Sun,September 15,,L,0,1-1,home,Miami Dolphins,20,24,23,448,315,133,1,21,398,297,101,1,8.46,-7.81,-5.44,2013
+2,2,Colts,Sun,September 22,,W,0,2-1,away,San Francisco 49ers,27,7,23,336,152,184,0,14,254,139,115,2,12.26,7.16,0.58,2013
+3,3,Colts,Sun,September 29,,W,0,3-1,away,Jacksonville Jaguars,37,3,26,437,280,157,1,14,205,165,40,3,14.26,23.58,-6.43,2013
+4,4,Colts,Sun,October 6,,W,0,4-1,home,Seattle Seahawks,34,28,20,317,208,109,2,21,423,205,218,2,11.14,-5.27,3.68,2013
+5,5,Colts,Mon,October 14,,L,0,4-2,away,San Diego Chargers,9,19,12,267,193,74,1,24,374,227,147,0,-4.6,-9.88,3.03,2013
+6,6,Colts,Sun,October 20,,W,0,5-2,home,Denver Broncos,39,33,19,334,213,121,1,23,429,365,64,3,-2.9,-1.47,12.48,2013
+7,7,Colts,,,,,0,,home,<strong>Bye Week</strong>,0,0,0,0,0,0,0,0,0,0,0,0,,,,2013
+8,8,Colts,Sun,November 3,,W,0,6-2,away,Houston Texans,27,24,17,314,245,69,0,22,483,340,143,0,11.62,-15.1,9.34,2013
+9,9,Colts,Sun,November 10,,L,0,6-3,home,St. Louis Rams,8,38,21,406,388,18,5,12,372,232,140,1,-16.8,-4.38,-8.8,2013
+10,10,Colts,Thu,November 14,,W,0,7-3,away,Tennessee Titans,30,27,24,366,229,137,0,20,340,218,122,1,8.42,-17.58,7.1,2013
+11,11,Colts,Sun,November 24,,L,0,7-4,away,Arizona Cardinals,11,40,15,239,159,80,1,27,410,290,120,0,-10.21,-19.09,2.69,2013
+12,12,Colts,Sun,December 1,,W,0,8-4,home,Tennessee Titans,22,14,18,264,160,104,1,24,347,185,162,4,-2.9,6.11,4.76,2013
+13,13,Colts,Sun,December 8,,L,0,8-5,away,Cincinnati Bengals,28,42,21,389,326,63,0,28,430,275,155,0,15.27,-24.15,-5.19,2013
+14,14,Colts,Sun,December 15,,W,0,9-5,home,Houston Texans,25,3,19,331,179,152,1,12,239,132,107,2,-3.38,22.32,1.79,2013
+15,15,Colts,Sun,December 22,,W,0,10-5,away,Kansas City Chiefs,23,7,19,367,232,135,0,18,287,132,155,3,9.81,9.95,-1.42,2013
+16,16,Colts,Sun,December 29,,W,0,11-5,home,Jacksonville Jaguars,30,10,23,379,299,80,0,19,350,308,42,2,14.25,9.89,-4.6,2013
+17,17,Colts,,<strong>Playoffs</strong>,,,0,,home,,0,0,0,0,0,0,0,0,0,0,0,0,,,,2013
+18,18,Colts,Sat,January 4,,W,0,12-5,home,Kansas City Chiefs,45,44,28,536,436,100,4,30,513,363,150,1,18.66,-19.61,0.77,2013
+19,19,Colts,Sat,January 11,,L,0,12-6,away,New England Patriots,22,43,16,386,317,69,4,23,419,185,234,0,-7.19,-18.81,4.92,2013

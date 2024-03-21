@@ -1,18 +1,18 @@
-,No.,Team,Player,Age,Pos,Games Played,Games Started,Rush TD,Reception TD,Punt Return TD,Kick Return TD,Fumble Return TD,Interception TD,Other TD,All Touchdown Scored,2-Point Conversions Made,Two-Point Conversions Attempted,Defensive Two-Point Conversions,Extra Points Made,Extra Points Allowed,Field Goals Made,Field Goals Attempted,Safeties Scored by Player/Team,Total Points Scored by all Means,Poins per Game
-4,4,Cardinals,Jay Feely,37,K,16,0,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,37,37,30,36,n/a,127,7.9
-11,11,Cardinals,Larry Fitzgerald,30,WR,16,16,n/a,10,n/a,n/a,n/a,n/a,n/a,10,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,60,3.8
-28,28,Cardinals,Rashard Mendenhall,26,RB,15,15,8,n/a,n/a,n/a,n/a,n/a,n/a,8,1,n/a,n/a,n/a,n/a,n/a,n/a,n/a,50,3.3
-15,15,Cardinals,Michael Floyd,24,WR,16,16,n/a,5,n/a,n/a,n/a,n/a,n/a,5,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,30,1.9
-38,38,Cardinals,Andre Ellington,24,RB,15,1,3,1,n/a,n/a,n/a,n/a,n/a,4,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,24,1.6
-86,86,Cardinals,Jake Ballard,26,TE,8,3,n/a,2,n/a,n/a,n/a,n/a,n/a,2,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,12,1.5
-56,56,Cardinals,Karlos Dansby,32,RILB,16,16,n/a,n/a,n/a,n/a,n/a,2,n/a,2,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,12,0.8
-81,81,Cardinals,Jim Dray,27,TE,16,15,n/a,2,n/a,n/a,n/a,n/a,n/a,2,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,12,0.8
-12,12,Cardinals,Andre Roberts,25,WR,16,2,n/a,2,n/a,n/a,n/a,n/a,n/a,2,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,12,0.8
-13,13,Cardinals,Jaron Brown,23,WR,16,0,n/a,1,n/a,n/a,n/a,n/a,n/a,1,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,6,0.4
-20,20,Cardinals,Antoine Cason,27,DB,16,0,n/a,n/a,n/a,n/a,n/a,1,n/a,1,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,6,0.4
-84,84,Cardinals,Rob Housler,25,TE,13,10,n/a,1,n/a,n/a,n/a,n/a,n/a,1,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,6,0.5
-91,91,Cardinals,Matt Shaughnessy,27,LOLB,16,12,n/a,n/a,n/a,n/a,1,n/a,n/a,1,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,6,0.4
-29,29,Cardinals,Alfonso Smith,26,RB,16,0,1,n/a,n/a,n/a,n/a,n/a,n/a,1,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,6,0.4
-92,92,Cardinals,Dan Williams,26,NT,14,10,n/a,n/a,n/a,n/a,n/a,1,n/a,1,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,6,0.4
-55,55,Cardinals,John Abraham,35,ROLB,16,13,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,1,2,0.1
-93,93,Cardinals,Calais Campbell,27,LDE,16,16,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,1,2,0.1
+,No.,Team,Player,Age,Pos,Games Played,Games Started,Rush TD,Reception TD,Punt Return TD,Kick Return TD,Fumble Return TD,Interception TD,Other TD,All Touchdown Scored,2-Point Conversions Made,Two-Point Conversions Attempted,Defensive Two-Point Conversions,Extra Points Made,Extra Points Allowed,Field Goals Made,Field Goals Attempted,Safeties Scored by Player/Team,Total Points Scored by all Means,Poins per Game,Year
+0,4,Cardinals,Jay Feely,37,K,16,0,0,0,0,0,0,0,0,0,0,0,0,37,37,30,36,,127,7.9,2013
+1,11,Cardinals,Larry Fitzgerald,30,WR,16,16,0,10,0,0,0,0,0,10,0,0,0,0,0,0,0,,60,3.8,2013
+2,28,Cardinals,Rashard Mendenhall,26,RB,15,15,8,0,0,0,0,0,0,8,1,0,0,0,0,0,0,,50,3.3,2013
+3,15,Cardinals,Michael Floyd,24,WR,16,16,0,5,0,0,0,0,0,5,0,0,0,0,0,0,0,,30,1.9,2013
+4,38,Cardinals,Andre Ellington,24,RB,15,1,3,1,0,0,0,0,0,4,0,0,0,0,0,0,0,,24,1.6,2013
+5,86,Cardinals,Jake Ballard,26,TE,8,3,0,2,0,0,0,0,0,2,0,0,0,0,0,0,0,,12,1.5,2013
+6,56,Cardinals,Karlos Dansby,32,RILB,16,16,0,0,0,0,0,2,0,2,0,0,0,0,0,0,0,,12,0.8,2013
+7,81,Cardinals,Jim Dray,27,TE,16,15,0,2,0,0,0,0,0,2,0,0,0,0,0,0,0,,12,0.8,2013
+8,12,Cardinals,Andre Roberts,25,WR,16,2,0,2,0,0,0,0,0,2,0,0,0,0,0,0,0,,12,0.8,2013
+9,13,Cardinals,Jaron Brown,23,WR,16,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,,6,0.4,2013
+10,20,Cardinals,Antoine Cason,27,DB,16,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,,6,0.4,2013
+11,84,Cardinals,Rob Housler,25,TE,13,10,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,,6,0.5,2013
+12,91,Cardinals,Matt Shaughnessy,27,LOLB,16,12,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,,6,0.4,2013
+13,29,Cardinals,Alfonso Smith,26,RB,16,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,,6,0.4,2013
+14,92,Cardinals,Dan Williams,26,NT,14,10,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,,6,0.4,2013
+15,55,Cardinals,John Abraham,35,ROLB,16,13,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1.0,2,0.1,2013
+16,93,Cardinals,Calais Campbell,27,LDE,16,16,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1.0,2,0.1,2013

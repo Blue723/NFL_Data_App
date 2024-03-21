@@ -1,15 +1,15 @@
-,No.,Team,Player,Age,Pos,Games Played,Games Started,Rush TD,Reception TD,Punt Return TD,Kick Return TD,Fumble Return TD,Interception TD,Other TD,All Touchdown Scored,2-Point Conversions Made,Two-Point Conversions Attempted,Defensive Two-Point Conversions,Extra Points Made,Extra Points Allowed,Field Goals Made,Field Goals Attempted,Safeties Scored by Player/Team,Total Points Scored by all Means,Poins per Game
-9,9,Bears,Robbie Gould,31,K,16,0,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,45,46,26,29,n/a,123,7.7
-15,15,Bears,Brandon Marshall,29,WR,16,16,n/a,12,n/a,n/a,n/a,n/a,n/a,12,2,n/a,n/a,n/a,n/a,n/a,n/a,n/a,76,4.8
-22,22,Bears,Matt Forte,28,RB,16,16,9,3,n/a,n/a,n/a,n/a,n/a,12,1,n/a,n/a,n/a,n/a,n/a,n/a,n/a,74,4.6
-17,17,Bears,Alshon Jeffery,23,WR,16,14,n/a,7,n/a,n/a,n/a,n/a,n/a,7,1,n/a,n/a,n/a,n/a,n/a,n/a,n/a,44,2.8
-83,83,Bears,Martellus Bennett,26,TE,16,15,n/a,5,n/a,n/a,n/a,n/a,n/a,5,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,30,1.9
-80,80,Bears,Earl Bennett,26,WR,15,3,n/a,4,n/a,n/a,n/a,n/a,n/a,4,1,n/a,n/a,n/a,n/a,n/a,n/a,n/a,26,1.7
-29,29,Bears,Michael Bush,29,RB,15,0,3,1,n/a,n/a,n/a,n/a,n/a,4,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,24,1.6
-26,26,Bears,Tim Jennings,30,LCB,16,16,n/a,n/a,n/a,n/a,n/a,2,n/a,2,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,12,0.8
-91,91,Bears,David Bass,23,DE,12,1,n/a,n/a,n/a,n/a,n/a,1,n/a,1,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,6,0.5
-38,38,Bears,Zackary Bowman,29,RCB,16,7,n/a,n/a,n/a,n/a,n/a,1,n/a,1,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,6,0.4
-23,23,Bears,Devin Hester,31,DB,16,0,n/a,n/a,1,n/a,n/a,n/a,n/a,1,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,6,0.4
-12,12,Bears,Josh McCown,34,QB,8,5,1,n/a,n/a,n/a,n/a,n/a,n/a,1,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,6,0.8
-90,90,Bears,Julius Peppers,33,RDE,16,16,n/a,n/a,n/a,n/a,1,n/a,n/a,1,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,6,0.4
-21,21,Bears,Major Wright,25,SS,15,15,n/a,n/a,n/a,n/a,n/a,1,n/a,1,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,6,0.4
+,No.,Team,Player,Age,Pos,Games Played,Games Started,Rush TD,Reception TD,Punt Return TD,Kick Return TD,Fumble Return TD,Interception TD,Other TD,All Touchdown Scored,2-Point Conversions Made,Two-Point Conversions Attempted,Defensive Two-Point Conversions,Extra Points Made,Extra Points Allowed,Field Goals Made,Field Goals Attempted,Safeties Scored by Player/Team,Total Points Scored by all Means,Poins per Game,Year
+0,9,Bears,Robbie Gould,31,K,16,0,0,0,0,0,0,0,0,0,0,0,0,45,46,26,29,,123,7.7,2013
+1,15,Bears,Brandon Marshall,29,WR,16,16,0,12,0,0,0,0,0,12,2,0,0,0,0,0,0,,76,4.8,2013
+2,22,Bears,Matt Forte,28,RB,16,16,9,3,0,0,0,0,0,12,1,0,0,0,0,0,0,,74,4.6,2013
+3,17,Bears,Alshon Jeffery,23,WR,16,14,0,7,0,0,0,0,0,7,1,0,0,0,0,0,0,,44,2.8,2013
+4,83,Bears,Martellus Bennett,26,TE,16,15,0,5,0,0,0,0,0,5,0,0,0,0,0,0,0,,30,1.9,2013
+5,80,Bears,Earl Bennett,26,WR,15,3,0,4,0,0,0,0,0,4,1,0,0,0,0,0,0,,26,1.7,2013
+6,29,Bears,Michael Bush,29,RB,15,0,3,1,0,0,0,0,0,4,0,0,0,0,0,0,0,,24,1.6,2013
+7,26,Bears,Tim Jennings,30,LCB,16,16,0,0,0,0,0,2,0,2,0,0,0,0,0,0,0,,12,0.8,2013
+8,91,Bears,David Bass,23,DE,12,1,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,,6,0.5,2013
+9,38,Bears,Zackary Bowman,29,RCB,16,7,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,,6,0.4,2013
+10,23,Bears,Devin Hester,31,DB,16,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,,6,0.4,2013
+11,12,Bears,Josh McCown,34,QB,8,5,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,,6,0.8,2013
+12,90,Bears,Julius Peppers,33,RDE,16,16,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,,6,0.4,2013
+13,21,Bears,Major Wright,25,SS,15,15,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,,6,0.4,2013

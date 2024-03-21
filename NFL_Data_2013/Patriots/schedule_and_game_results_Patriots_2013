@@ -1,21 +1,21 @@
-,Week,Team,Day,Date,Time,Win/Loss,Overtime,Team Record,Home/Away,Opponent,Points Scored,Points Allowed,Offense 1st Down,Total Yards Gained of Offense,Total yards Gained by Passing,Total Yards Gained by Rushing,Offense Turnovers,Defense 1st Down,Total Yards Allowed by Defense,Total Passing Yards Allowed by Defense,Total Rushing Yards Allowed by Defense,Defense Turnovers,Offense,Defense,Sp. Tms
-1,1,Patriots,Sun,September 8,1:02PM ET,W,n/a,1-0,away,Buffalo Bills,23,21,26,431,273,158,3,15,286,150,136,2,-8.67,8.30,0.96
-2,2,Patriots,Thu,September 12,8:29PM ET,W,n/a,2-0,home,New York Jets,13,10,9,232,178,54,n/a,15,318,189,129,4,-16.53,20.40,2.25
-3,3,Patriots,Sun,September 22,1:02PM ET,W,n/a,3-0,home,Tampa Bay Buccaneers,23,3,21,358,202,156,1,18,323,226,97,1,4.05,11.23,2.25
-4,4,Patriots,Sun,September 29,8:30PM ET,W,n/a,4-0,away,Atlanta Falcons,30,23,21,448,316,132,n/a,26,457,399,58,1,15.86,-10.26,-0.71
-5,5,Patriots,Sun,October 6,1:02PM ET,L,n/a,4-1,away,Cincinnati Bengals,6,13,15,248,166,82,2,21,341,179,162,2,-11.63,5.28,0.40
-6,6,Patriots,Sun,October 13,4:25PM ET,W,n/a,5-1,home,New Orleans Saints,30,27,26,376,235,141,1,20,361,230,131,2,-1.19,-4.55,3.36
-7,7,Patriots,Sun,October 20,1:03PM ET,L,OT,5-2,away,New York Jets,27,30,21,295,205,90,1,27,383,206,177,1,-7.10,4.71,-0.42
-8,8,Patriots,Sun,October 27,1:02PM ET,W,n/a,6-2,home,Miami Dolphins,27,17,19,252,100,152,1,23,301,145,156,3,0.94,1.22,7.15
-9,9,Patriots,Sun,November 3,4:25PM ET,W,n/a,7-2,home,Pittsburgh Steelers,55,31,33,610,413,197,1,24,479,371,108,3,33.33,-3.89,-4.45
-10,10,Patriots,n/a,n/a,n/a,n/a,n/a,n/a,home,<strong>Bye Week</strong>,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
-11,11,Patriots,Mon,November 18,8:42PM ET,L,n/a,7-3,away,Carolina Panthers,20,24,28,390,283,107,2,20,300,197,103,n/a,13.91,-17.75,0.63
-12,12,Patriots,Sun,November 24,8:30PM ET,W,OT,8-3,home,Denver Broncos,34,31,27,440,324,116,3,28,412,132,280,4,-7.40,-0.53,12.80
-13,13,Patriots,Sun,December 1,1:02PM ET,W,n/a,9-3,away,Houston Texans,34,31,28,453,365,88,1,19,385,264,121,1,17.29,-11.24,-1.17
-14,14,Patriots,Sun,December 8,1:02PM ET,W,n/a,10-3,home,Cleveland Browns,27,26,30,484,397,87,2,24,494,386,108,n/a,12.46,-16.98,5.85
-15,15,Patriots,Sun,December 15,1:02PM ET,L,n/a,10-4,away,Miami Dolphins,20,24,29,453,357,96,1,20,378,289,89,1,15.26,-11.98,-5.68
-16,16,Patriots,Sun,December 22,4:25PM ET,W,n/a,11-4,away,Baltimore Ravens,41,7,21,300,158,142,n/a,19,358,237,121,4,5.89,24.64,2.98
-17,17,Patriots,Sun,December 29,4:25PM ET,W,n/a,12-4,home,Buffalo Bills,34,20,24,382,115,267,1,19,393,224,169,n/a,8.99,-1.47,7.80
-n/a,n/a,Patriots,n/a,<strong>Playoffs</strong>,n/a,n/a,n/a,n/a,home,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
-Division,Division,Patriots,Sat,January 11,8:15PM ET,W,n/a,13-4,home,Indianapolis Colts,43,22,23,419,185,234,n/a,16,386,317,69,4,18.81,7.19,-4.92
-Conf. Champ.,Conf. Champ.,Patriots,Sun,January 19,3:06PM ET,L,n/a,13-5,away,Denver Broncos,16,26,19,320,256,64,n/a,27,507,400,107,n/a,9.06,-23.40,1.34
+,Week,Team,Day,Date,Time,Win/Loss,Overtime,Team Record,Home/Away,Opponent,Points Scored,Points Allowed,Offense 1st Down,Total Yards Gained of Offense,Total yards Gained by Passing,Total Yards Gained by Rushing,Offense Turnovers,Defense 1st Down,Total Yards Allowed by Defense,Total Passing Yards Allowed by Defense,Total Rushing Yards Allowed by Defense,Defense Turnovers,Offense,Defense,Sp. Tms,Year
+0,0,Patriots,Sun,September 8,,W,0,1-0,away,Buffalo Bills,23,21,26,431,273,158,3,15,286,150,136,2,-8.67,8.3,0.96,2013
+1,1,Patriots,Thu,September 12,,W,0,2-0,home,New York Jets,13,10,9,232,178,54,0,15,318,189,129,4,-16.53,20.4,2.25,2013
+2,2,Patriots,Sun,September 22,,W,0,3-0,home,Tampa Bay Buccaneers,23,3,21,358,202,156,1,18,323,226,97,1,4.05,11.23,2.25,2013
+3,3,Patriots,Sun,September 29,,W,0,4-0,away,Atlanta Falcons,30,23,21,448,316,132,0,26,457,399,58,1,15.86,-10.26,-0.71,2013
+4,4,Patriots,Sun,October 6,,L,0,4-1,away,Cincinnati Bengals,6,13,15,248,166,82,2,21,341,179,162,2,-11.63,5.28,0.4,2013
+5,5,Patriots,Sun,October 13,,W,0,5-1,home,New Orleans Saints,30,27,26,376,235,141,1,20,361,230,131,2,-1.19,-4.55,3.36,2013
+6,6,1,1,1,1.0,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1.0,1.0,1.0,1
+7,7,Patriots,Sun,October 27,,W,0,6-2,home,Miami Dolphins,27,17,19,252,100,152,1,23,301,145,156,3,0.94,1.22,7.15,2013
+8,8,Patriots,Sun,November 3,,W,0,7-2,home,Pittsburgh Steelers,55,31,33,610,413,197,1,24,479,371,108,3,33.33,-3.89,-4.45,2013
+9,9,Patriots,,,,,0,,home,<strong>Bye Week</strong>,0,0,0,0,0,0,0,0,0,0,0,0,,,,2013
+10,10,Patriots,Mon,November 18,,L,0,7-3,away,Carolina Panthers,20,24,28,390,283,107,2,20,300,197,103,0,13.91,-17.75,0.63,2013
+11,11,1,1,1,1.0,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1.0,1.0,1.0,1
+12,12,Patriots,Sun,December 1,,W,0,9-3,away,Houston Texans,34,31,28,453,365,88,1,19,385,264,121,1,17.29,-11.24,-1.17,2013
+13,13,Patriots,Sun,December 8,,W,0,10-3,home,Cleveland Browns,27,26,30,484,397,87,2,24,494,386,108,0,12.46,-16.98,5.85,2013
+14,14,Patriots,Sun,December 15,,L,0,10-4,away,Miami Dolphins,20,24,29,453,357,96,1,20,378,289,89,1,15.26,-11.98,-5.68,2013
+15,15,Patriots,Sun,December 22,,W,0,11-4,away,Baltimore Ravens,41,7,21,300,158,142,0,19,358,237,121,4,5.89,24.64,2.98,2013
+16,16,Patriots,Sun,December 29,,W,0,12-4,home,Buffalo Bills,34,20,24,382,115,267,1,19,393,224,169,0,8.99,-1.47,7.8,2013
+17,17,Patriots,,<strong>Playoffs</strong>,,,0,,home,,0,0,0,0,0,0,0,0,0,0,0,0,,,,2013
+18,18,Patriots,Sat,January 11,,W,0,13-4,home,Indianapolis Colts,43,22,23,419,185,234,0,16,386,317,69,4,18.81,7.19,-4.92,2013
+19,19,Patriots,Sun,January 19,,L,0,13-5,away,Denver Broncos,16,26,19,320,256,64,0,27,507,400,107,0,9.06,-23.4,1.34,2013

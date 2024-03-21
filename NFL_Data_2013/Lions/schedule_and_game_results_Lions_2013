@@ -1,18 +1,18 @@
-,Week,Team,Day,Date,Time,Win/Loss,Overtime,Team Record,Home/Away,Opponent,Points Scored,Points Allowed,Offense 1st Down,Total Yards Gained of Offense,Total yards Gained by Passing,Total Yards Gained by Rushing,Offense Turnovers,Defense 1st Down,Total Yards Allowed by Defense,Total Passing Yards Allowed by Defense,Total Rushing Yards Allowed by Defense,Defense Turnovers,Offense,Defense,Sp. Tms
-1,1,Lions,Sun,September 8,1:02PM ET,W,n/a,1-0,home,Minnesota Vikings,34,24,28,469,357,112,2,16,330,225,105,4,8.66,3.05,-0.22
-2,2,Lions,Sun,September 15,4:05PM ET,L,n/a,1-1,away,Arizona Cardinals,21,25,16,322,273,49,1,24,348,261,87,1,-2.76,3.23,-6.52
-3,3,Lions,Sun,September 22,1:03PM ET,W,n/a,2-1,away,Washington Redskins,27,20,24,441,378,63,1,27,420,300,120,2,9.83,-5.04,-0.82
-4,4,Lions,Sun,September 29,1:03PM ET,W,n/a,3-1,home,Chicago Bears,40,32,23,387,228,159,3,18,417,286,131,4,-1.64,2.72,6.73
-5,5,Lions,Sun,October 6,1:02PM ET,L,n/a,3-2,away,Green Bay Packers,9,22,19,286,222,64,n/a,16,449,269,180,n/a,-1.94,-11.47,-0.31
-6,6,Lions,Sun,October 13,1:02PM ET,W,n/a,4-2,away,Cleveland Browns,31,17,24,366,248,118,1,23,395,269,126,2,12.77,-5.32,1.52
-7,7,Lions,Sun,October 20,1:02PM ET,L,n/a,4-3,home,Cincinnati Bengals,24,27,22,434,357,77,n/a,18,421,364,57,n/a,17.23,-16.06,-3.94
-8,8,Lions,Sun,October 27,1:03PM ET,W,n/a,5-3,home,Dallas Cowboys,31,30,29,623,480,143,4,13,268,206,62,n/a,5.83,1.28,-8.24
-9,9,Lions,n/a,n/a,n/a,n/a,n/a,n/a,home,<strong>Bye Week</strong>,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
-10,10,Lions,Sun,November 10,1:03PM ET,W,n/a,6-3,away,Chicago Bears,21,19,21,364,219,145,1,19,338,300,38,1,6.45,1.20,-2.80
-11,11,Lions,Sun,November 17,1:02PM ET,L,n/a,6-4,away,Pittsburgh Steelers,27,37,21,451,344,107,3,24,398,358,40,n/a,-0.66,-10.88,0.20
-12,12,Lions,Sun,November 24,1:03PM ET,L,n/a,6-5,home,Tampa Bay Buccaneers,21,24,25,390,286,104,5,10,229,207,22,n/a,-4.69,2.91,0.55
-13,13,Lions,Thu,November 28,12:36PM ET,W,n/a,7-5,home,Green Bay Packers,40,10,30,561,320,241,4,7,126,102,24,3,18.72,21.55,-12.20
-14,14,Lions,Sun,December 8,1:02PM ET,L,n/a,7-6,away,Philadelphia Eagles,20,34,11,231,151,80,3,23,478,179,299,1,-20.73,-12.74,13.93
-15,15,Lions,Mon,December 16,8:40PM ET,L,n/a,7-7,home,Baltimore Ravens,16,18,19,349,230,119,3,18,305,215,90,n/a,0.47,1.78,-5.72
-16,16,Lions,Sun,December 22,4:05PM ET,L,OT,7-8,home,New York Giants,20,23,24,355,207,148,3,15,279,238,41,2,-11.36,9.76,-1.31
-17,17,Lions,Sun,December 29,1:05PM ET,L,n/a,7-9,away,Minnesota Vikings,13,14,14,245,182,63,n/a,19,345,171,174,2,-7.60,1.76,1.17
+,Week,Team,Day,Date,Time,Win/Loss,Overtime,Team Record,Home/Away,Opponent,Points Scored,Points Allowed,Offense 1st Down,Total Yards Gained of Offense,Total yards Gained by Passing,Total Yards Gained by Rushing,Offense Turnovers,Defense 1st Down,Total Yards Allowed by Defense,Total Passing Yards Allowed by Defense,Total Rushing Yards Allowed by Defense,Defense Turnovers,Offense,Defense,Sp. Tms,Year
+0,0,Lions,Sun,September 8,,W,0,1-0,home,Minnesota Vikings,34,24,28,469,357,112,2,16,330,225,105,4,8.66,3.05,-0.22,2013
+1,1,Lions,Sun,September 15,,L,0,1-1,away,Arizona Cardinals,21,25,16,322,273,49,1,24,348,261,87,1,-2.76,3.23,-6.52,2013
+2,2,Lions,Sun,September 22,,W,0,2-1,away,Washington Redskins,27,20,24,441,378,63,1,27,420,300,120,2,9.83,-5.04,-0.82,2013
+3,3,Lions,Sun,September 29,,W,0,3-1,home,Chicago Bears,40,32,23,387,228,159,3,18,417,286,131,4,-1.64,2.72,6.73,2013
+4,4,Lions,Sun,October 6,,L,0,3-2,away,Green Bay Packers,9,22,19,286,222,64,0,16,449,269,180,0,-1.94,-11.47,-0.31,2013
+5,5,Lions,Sun,October 13,,W,0,4-2,away,Cleveland Browns,31,17,24,366,248,118,1,23,395,269,126,2,12.77,-5.32,1.52,2013
+6,6,Lions,Sun,October 20,,L,0,4-3,home,Cincinnati Bengals,24,27,22,434,357,77,0,18,421,364,57,0,17.23,-16.06,-3.94,2013
+7,7,Lions,Sun,October 27,,W,0,5-3,home,Dallas Cowboys,31,30,29,623,480,143,4,13,268,206,62,0,5.83,1.28,-8.24,2013
+8,8,Lions,,,,,0,,home,<strong>Bye Week</strong>,0,0,0,0,0,0,0,0,0,0,0,0,,,,2013
+9,9,Lions,Sun,November 10,,W,0,6-3,away,Chicago Bears,21,19,21,364,219,145,1,19,338,300,38,1,6.45,1.2,-2.8,2013
+10,10,Lions,Sun,November 17,,L,0,6-4,away,Pittsburgh Steelers,27,37,21,451,344,107,3,24,398,358,40,0,-0.66,-10.88,0.2,2013
+11,11,Lions,Sun,November 24,,L,0,6-5,home,Tampa Bay Buccaneers,21,24,25,390,286,104,5,10,229,207,22,0,-4.69,2.91,0.55,2013
+12,12,Lions,Thu,November 28,,W,0,7-5,home,Green Bay Packers,40,10,30,561,320,241,4,7,126,102,24,3,18.72,21.55,-12.2,2013
+13,13,Lions,Sun,December 8,,L,0,7-6,away,Philadelphia Eagles,20,34,11,231,151,80,3,23,478,179,299,1,-20.73,-12.74,13.93,2013
+14,14,Lions,Mon,December 16,,L,0,7-7,home,Baltimore Ravens,16,18,19,349,230,119,3,18,305,215,90,0,0.47,1.78,-5.72,2013
+15,15,1,1,1,1.0,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1.0,1.0,1.0,1
+16,16,Lions,Sun,December 29,,L,0,7-9,away,Minnesota Vikings,13,14,14,245,182,63,0,19,345,171,174,2,-7.6,1.76,1.17,2013
