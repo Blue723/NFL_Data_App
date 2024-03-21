@@ -1,7 +1,7 @@
-,No.,Team,Player,Age,Position,Games Played,Games Started,Punts Returned,Punts Return Yardage,Punts Returned for Touchdown,Longest Punt Return,Yards per Punt Return,Kickoff Returns,Yardage for Kickoffs Returned,Kickoffs Returned for a Touchdown,Longest Kickoff Return,Yards per Kickoff Return,All-purpose Yards
-41,41,Saints,Alvin Kamara,23,RB,15,13,12,82,0,16,6.8,4,126,0,50,31.5,1800
-7,7,Saints,Taysom Hill,28,QB,16,4,1,0,0,0,0.0,14,348,0,47,24.9,546
-11,11,Saints,Tommylee Lewis,26,WR,7,3,8,60,0,17,7.5,3,69,0,26,23.0,199
-87,87,Saints,Brandon Tate,31,WR,1,0,3,15,0,8,5.0,n/a,n/a,0,n/a,n/a,15
-19,19,Saints,Ted Ginn Jr.,33,WR,5,3,n/a,n/a,0,n/a,n/a,1,1,0,1,1.0,236
-42,42,Saints,Zach Line,28,RB,16,6,n/a,n/a,0,n/a,n/a,1,16,0,16,16.0,71
+,No.,Team,Player,Age,Position,Games Played,Games Started,Punts Returned,Punts Return Yardage,Punts Returned for Touchdown,Longest Punt Return,Yards per Punt Return,Kickoff Returns,Yardage for Kickoffs Returned,Kickoffs Returned for a Touchdown,Longest Kickoff Return,Yards per Kickoff Return,All-purpose Yards,Year
+0,41,Saints,Alvin Kamara,23,RB,15,13,12,82,0,16,6.8,4,126,0,50,31.5,1800,2018
+1,7,Saints,Taysom Hill,28,QB,16,4,1,0,0,0,0.0,14,348,0,47,24.9,546,2018
+2,11,Saints,Tommylee Lewis,26,WR,7,3,8,60,0,17,7.5,3,69,0,26,23.0,199,2018
+3,87,Saints,Brandon Tate,31,WR,1,0,3,15,0,8,5.0,0,0,0,0,,15,2018
+4,19,Saints,Ted Ginn Jr.,33,WR,5,3,0,0,0,0,,1,1,0,1,1.0,236,2018
+5,42,Saints,Zach Line,28,RB,16,6,0,0,0,0,,1,16,0,16,16.0,71,2018

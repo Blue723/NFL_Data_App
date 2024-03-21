@@ -1,61 +1,61 @@
-,Rank,Team,Date,Opponent,Results,Quarter,Distance,Type,Detail
-1,1,Rams,2018-09-10,OAK,"W, 33-13",1,19,pass,Todd Gurley
-2,2,Rams,2018-09-10,OAK,"W, 33-13",3,8,pass,Cooper Kupp
-3,3,Rams,2018-09-10,OAK,"W, 33-13",4,50,interception,Marcus Peters
-4,4,Rams,2018-09-16,ARI,n/a,2,11,rush,Todd Gurley
-5,5,Rams,2018-09-16,ARI,n/a,2,1,rush,Todd Gurley
-6,6,Rams,2018-09-16,ARI,n/a,3,2,rush,Todd Gurley
-7,7,Rams,2018-09-16,ARI,n/a,4,3,pass,Tyler Higbee
-8,8,Rams,2018-09-23,LAC,"W, 35-23",1,1,rush,Todd Gurley
-9,9,Rams,2018-09-23,LAC,"W, 35-23",1,3,pass,Robert Woods
-10,10,Rams,2018-09-23,LAC,"W, 35-23",2,n/a,blocked punt,Blake Countess
-11,11,Rams,2018-09-23,LAC,"W, 35-23",3,53,pass,Cooper Kupp
-12,12,Rams,2018-09-23,LAC,"W, 35-23",3,6,pass,Robert Woods
-13,13,Rams,2018-09-27,MIN,"W, 38-31",1,8,pass,Todd Gurley
-14,14,Rams,2018-09-27,MIN,"W, 38-31",2,70,pass,Cooper Kupp
-15,15,Rams,2018-09-27,MIN,"W, 38-31",2,19,pass,Cooper Kupp
-16,16,Rams,2018-09-27,MIN,"W, 38-31",2,47,pass,Brandin Cooks
-17,17,Rams,2018-09-27,MIN,"W, 38-31",3,31,pass,Robert Woods
-18,18,Rams,2018-10-07,SEA,"W, 33-31",1,2,rush,Todd Gurley
-19,19,Rams,2018-10-07,SEA,"W, 33-31",2,6,pass,Cooper Kupp
-20,20,Rams,2018-10-07,SEA,"W, 33-31",3,2,rush,Todd Gurley
-21,21,Rams,2018-10-07,SEA,"W, 33-31",4,5,rush,Todd Gurley
-22,22,Rams,2018-10-14,DEN,"W, 23-20",2,10,rush,Todd Gurley
-23,23,Rams,2018-10-14,DEN,"W, 23-20",3,1,rush,Todd Gurley
-24,24,Rams,2018-10-21,SFO,"W, 39-10",2,7,rush,Todd Gurley
-25,25,Rams,2018-10-21,SFO,"W, 39-10",2,19,pass,Brandin Cooks
-26,26,Rams,2018-10-21,SFO,"W, 39-10",3,1,rush,Todd Gurley
-27,27,Rams,2018-10-21,SFO,"W, 39-10",4,12,pass,Todd Gurley
-28,28,Rams,2018-10-28,GNB,"W, 29-27",2,1,pass,Josh Reynolds
-29,29,Rams,2018-10-28,GNB,"W, 29-27",3,30,pass,Todd Gurley
-30,30,Rams,2018-10-28,GNB,"W, 29-27",3,19,pass,Josh Reynolds
-31,31,Rams,2018-11-04,NOR,"L, 35-45",1,8,rush,Todd Gurley
-32,32,Rams,2018-11-04,NOR,"L, 35-45",2,4,pass,Brandin Cooks
-33,33,Rams,2018-11-04,NOR,"L, 35-45",3,18,pass,Malcolm Brown
-34,34,Rams,2018-11-04,NOR,"L, 35-45",4,41,pass,Cooper Kupp
-35,35,Rams,2018-11-11,SEA,"W, 36-31",1,10,pass,Gerald Everett
-36,36,Rams,2018-11-11,SEA,"W, 36-31",2,17,rush,Todd Gurley
-37,37,Rams,2018-11-11,SEA,"W, 36-31",4,10,pass,Tyler Higbee
-38,38,Rams,2018-11-11,SEA,"W, 36-31",4,9,rush,Brandin Cooks
-39,39,Rams,2018-11-19,KAN,"W, 54-51",1,7,pass,Robert Woods
-40,40,Rams,2018-11-19,KAN,"W, 54-51",1,4,pass,Josh Reynolds
-41,41,Rams,2018-11-19,KAN,"W, 54-51",2,11,fumble,Samson Ebukam
-42,42,Rams,2018-11-19,KAN,"W, 54-51",3,7,rush,Jared Goff
-43,43,Rams,2018-11-19,KAN,"W, 54-51",3,25,interception,Samson Ebukam
-44,44,Rams,2018-11-19,KAN,"W, 54-51",4,7,pass,Gerald Everett
-45,45,Rams,2018-11-19,KAN,"W, 54-51",4,40,pass,Gerald Everett
-46,46,Rams,2018-12-02,DET,"W, 30-16",2,8,pass,Robert Woods
-47,47,Rams,2018-12-02,DET,"W, 30-16",4,13,rush,Todd Gurley
-48,48,Rams,2018-12-02,DET,"W, 30-16",4,2,rush,Todd Gurley
-49,49,Rams,2018-12-16,PHI,"L, 23-30",1,5,rush,Todd Gurley
-50,50,Rams,2018-12-16,PHI,"L, 23-30",4,1,rush,Todd Gurley
-51,51,Rams,2018-12-23,ARI,"W, 31-9",1,4,rush,Robert Woods
-52,52,Rams,2018-12-23,ARI,"W, 31-9",2,1,rush,Jared Goff
-53,53,Rams,2018-12-23,ARI,"W, 31-9",2,4,rush,C.J. Anderson
-54,54,Rams,2018-12-23,ARI,"W, 31-9",4,39,pass,Robert Woods
-55,55,Rams,2018-12-30,SFO,"W, 48-32",1,3,pass,Brandin Cooks
-56,56,Rams,2018-12-30,SFO,"W, 48-32",1,1,rush,C.J. Anderson
-57,57,Rams,2018-12-30,SFO,"W, 48-32",2,19,interception,Cory Littleton
-58,58,Rams,2018-12-30,SFO,"W, 48-32",2,18,pass,Brandin Cooks
-59,59,Rams,2018-12-30,SFO,"W, 48-32",3,29,pass,Josh Reynolds
-60,60,Rams,2018-12-30,SFO,"W, 48-32",3,2,pass,Josh Reynolds
+,Rank,Team,Date,Opponent,Win/Loss,Score,Quarter,Distance,Type,Detail,Year
+0,1,Rams,09/10/2018,OAK,Win, 33-13,1,19,pass,Todd Gurley,2018
+1,2,Rams,09/10/2018,OAK,Win, 33-13,3,8,pass,Cooper Kupp,2018
+2,3,Rams,09/10/2018,OAK,Win, 33-13,4,50,interception,Marcus Peters,2018
+3,4,Rams,09/16/2018,ARI,,,2,11,rush,Todd Gurley,2018
+4,5,Rams,09/16/2018,ARI,,,2,1,rush,Todd Gurley,2018
+5,6,Rams,09/16/2018,ARI,,,3,2,rush,Todd Gurley,2018
+6,7,Rams,09/16/2018,ARI,,,4,3,pass,Tyler Higbee,2018
+7,8,Rams,09/23/2018,LAC,Win, 35-23,1,1,rush,Todd Gurley,2018
+8,9,Rams,09/23/2018,LAC,Win, 35-23,1,3,pass,Robert Woods,2018
+9,10,Rams,09/23/2018,LAC,Win, 35-23,2,0,blocked punt,Blake Countess,2018
+10,11,Rams,09/23/2018,LAC,Win, 35-23,3,53,pass,Cooper Kupp,2018
+11,12,Rams,09/23/2018,LAC,Win, 35-23,3,6,pass,Robert Woods,2018
+12,13,Rams,09/27/2018,MIN,Win, 38-31,1,8,pass,Todd Gurley,2018
+13,14,Rams,09/27/2018,MIN,Win, 38-31,2,70,pass,Cooper Kupp,2018
+14,15,Rams,09/27/2018,MIN,Win, 38-31,2,19,pass,Cooper Kupp,2018
+15,16,Rams,09/27/2018,MIN,Win, 38-31,2,47,pass,Brandin Cooks,2018
+16,17,Rams,09/27/2018,MIN,Win, 38-31,3,31,pass,Robert Woods,2018
+17,18,Rams,10/07/2018,SEA,Win, 33-31,1,2,rush,Todd Gurley,2018
+18,19,Rams,10/07/2018,SEA,Win, 33-31,2,6,pass,Cooper Kupp,2018
+19,20,Rams,10/07/2018,SEA,Win, 33-31,3,2,rush,Todd Gurley,2018
+20,21,Rams,10/07/2018,SEA,Win, 33-31,4,5,rush,Todd Gurley,2018
+21,22,Rams,10/14/2018,DEN,Win, 23-20,2,10,rush,Todd Gurley,2018
+22,23,Rams,10/14/2018,DEN,Win, 23-20,3,1,rush,Todd Gurley,2018
+23,24,Rams,10/21/2018,SFO,Win, 39-10,2,7,rush,Todd Gurley,2018
+24,25,Rams,10/21/2018,SFO,Win, 39-10,2,19,pass,Brandin Cooks,2018
+25,26,Rams,10/21/2018,SFO,Win, 39-10,3,1,rush,Todd Gurley,2018
+26,27,Rams,10/21/2018,SFO,Win, 39-10,4,12,pass,Todd Gurley,2018
+27,28,Rams,10/28/2018,GNB,Win, 29-27,2,1,pass,Josh Reynolds,2018
+28,29,Rams,10/28/2018,GNB,Win, 29-27,3,30,pass,Todd Gurley,2018
+29,30,Rams,10/28/2018,GNB,Win, 29-27,3,19,pass,Josh Reynolds,2018
+30,31,Rams,11/04/2018,NOR,Loss, 35-45,1,8,rush,Todd Gurley,2018
+31,32,Rams,11/04/2018,NOR,Loss, 35-45,2,4,pass,Brandin Cooks,2018
+32,33,Rams,11/04/2018,NOR,Loss, 35-45,3,18,pass,Malcolm Brown,2018
+33,34,Rams,11/04/2018,NOR,Loss, 35-45,4,41,pass,Cooper Kupp,2018
+34,35,Rams,11/11/2018,SEA,Win, 36-31,1,10,pass,Gerald Everett,2018
+35,36,Rams,11/11/2018,SEA,Win, 36-31,2,17,rush,Todd Gurley,2018
+36,37,Rams,11/11/2018,SEA,Win, 36-31,4,10,pass,Tyler Higbee,2018
+37,38,Rams,11/11/2018,SEA,Win, 36-31,4,9,rush,Brandin Cooks,2018
+38,39,Rams,11/19/2018,KAN,Win, 54-51,1,7,pass,Robert Woods,2018
+39,40,Rams,11/19/2018,KAN,Win, 54-51,1,4,pass,Josh Reynolds,2018
+40,41,Rams,11/19/2018,KAN,Win, 54-51,2,11,fumble,Samson Ebukam,2018
+41,42,Rams,11/19/2018,KAN,Win, 54-51,3,7,rush,Jared Goff,2018
+42,43,Rams,11/19/2018,KAN,Win, 54-51,3,25,interception,Samson Ebukam,2018
+43,44,Rams,11/19/2018,KAN,Win, 54-51,4,7,pass,Gerald Everett,2018
+44,45,Rams,11/19/2018,KAN,Win, 54-51,4,40,pass,Gerald Everett,2018
+45,46,Rams,12/02/2018,DET,Win, 30-16,2,8,pass,Robert Woods,2018
+46,47,Rams,12/02/2018,DET,Win, 30-16,4,13,rush,Todd Gurley,2018
+47,48,Rams,12/02/2018,DET,Win, 30-16,4,2,rush,Todd Gurley,2018
+48,49,Rams,12/16/2018,PHI,Loss, 23-30,1,5,rush,Todd Gurley,2018
+49,50,Rams,12/16/2018,PHI,Loss, 23-30,4,1,rush,Todd Gurley,2018
+50,51,Rams,12/23/2018,ARI,Win, 31-9,1,4,rush,Robert Woods,2018
+51,52,Rams,12/23/2018,ARI,Win, 31-9,2,1,rush,Jared Goff,2018
+52,53,Rams,12/23/2018,ARI,Win, 31-9,2,4,rush,C.J. Anderson,2018
+53,54,Rams,12/23/2018,ARI,Win, 31-9,4,39,pass,Robert Woods,2018
+54,55,Rams,12/30/2018,SFO,Win, 48-32,1,3,pass,Brandin Cooks,2018
+55,56,Rams,12/30/2018,SFO,Win, 48-32,1,1,rush,C.J. Anderson,2018
+56,57,Rams,12/30/2018,SFO,Win, 48-32,2,19,interception,Cory Littleton,2018
+57,58,Rams,12/30/2018,SFO,Win, 48-32,2,18,pass,Brandin Cooks,2018
+58,59,Rams,12/30/2018,SFO,Win, 48-32,3,29,pass,Josh Reynolds,2018
+59,60,Rams,12/30/2018,SFO,Win, 48-32,3,2,pass,Josh Reynolds,2018

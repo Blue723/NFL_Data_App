@@ -1,18 +1,18 @@
-,No.,Team,Player,Age,Position,Games Played,Games Started as an Offensive or Defensive Player,Rushing Attempts,Rushing Yards Gained,Rushing Touchdown,First Downs Rushing,Rushing Success Rate,Longest Rushing Attempt,Rushing Yards per Attempt,Rushing Yards per Game,Rushing Attempts per Game,Pass Targets,Receptions,Receiving Yards,Receiving Yards per Reception,Receiving Touchdowns,First Downs Receiving,Receiving Success Rate,Longest Reception,Receptions per Game,Receiving Yards per Game,Catch%,Receiving Yards per Target,Touches: Rushing Attempts and Receptions,Scrimmage Yards per Touch: Rushing + Receiving Yardage per Opportunity,Yards from Scrimmage: Receiving and Rushing Yards,Rushing and Receiving Touchdowns,Lost and Recovered Fumbles
-28,28,Chargers,Melvin Gordon,25,RB,12,12,175,885,10,47,51.4,34,5.1,73.8,14.6,66,50,490,9.8,4,21,48.5,66,4.2,40.8,75.8%,7.4,225,6.1,1375,14,1
-n/a,n/a,Chargers,Austin Ekeler,23,RB,14,3,106,554,3,25,50.0,41,5.2,39.6,7.6,53,39,404,10.4,3,18,52.8,44,2.8,28.9,73.6%,7.6,145,6.6,958,6,1
-32,32,Chargers,Justin Jackson,22,RB,13,1,50,206,2,13,50.0,20,4.1,15.8,3.8,19,15,135,9.0,0,5,47.4,19,1.2,10.4,78.9%,7.1,65,5.2,341,2,n/a
-17,17,Chargers,Philip Rivers,37,QB,16,16,18,7,0,1,16.7,7,0.4,0.4,1.1,n/a,n/a,n/a,n/a,0,n/a,n/a,n/a,n/a,n/a,n/a,n/a,18,0.4,7,0,2
-38,38,Chargers,Detrez Newsome,24,RB,9,0,11,49,0,3,45.5,16,4.5,5.4,1.2,2,2,19,9.5,0,2,100.0,11,0.2,2.1,100.0%,9.5,13,5.2,68,0,n/a
-13,13,Chargers,Keenan Allen,26,WR,16,14,9,75,0,4,44.4,28,8.3,4.7,0.6,136,97,1196,12.3,6,62,63.2,54,6.1,74.8,71.3%,8.8,106,12.0,1271,6,3
-3,3,Chargers,Geno Smith,28,QB,5,0,8,2,0,n/a,12.5,9,0.3,0.4,1.6,n/a,n/a,n/a,n/a,0,n/a,n/a,n/a,n/a,n/a,n/a,n/a,8,0.3,2,0,1
-n/a,n/a,Chargers,Mike Williams,24,WR,16,5,7,28,1,2,42.9,19,4.0,1.8,0.4,66,43,664,15.4,10,36,59.1,55,2.7,41.5,65.2%,10.1,50,13.8,692,11,n/a
-12,12,Chargers,Travis Benjamin,29,WR,12,3,7,41,0,2,42.9,19,5.9,3.4,0.6,24,12,186,15.5,1,9,37.5,46,1.0,15.5,50.0%,7.8,19,11.9,227,1,n/a
-34,34,Chargers,Derek Watt,26,FB,16,5,4,11,0,1,50.0,8,2.8,0.7,0.3,1,1,2,2.0,0,0,0.0,2,0.1,0.1,100.0%,2.0,5,2.6,13,0,n/a
-16,16,Chargers,Tyrell Williams,26,WR,16,10,2,15,0,1,50.0,14,7.5,0.9,0.1,65,41,653,15.9,5,30,53.8,75,2.6,40.8,63.1%,10.0,43,15.5,668,5,2
-54,54,Chargers,Melvin Ingram,29,RDE,16,16,1,0,0,n/a,0.0,0,0.0,0.0,0.1,n/a,n/a,n/a,n/a,0,n/a,n/a,n/a,n/a,n/a,n/a,n/a,1,0.0,n/a,0,1
-89,89,Chargers,JJ Jones,26,WR,3,0,1,0,0,n/a,0.0,0,0.0,0.0,0.3,n/a,n/a,n/a,n/a,0,n/a,n/a,n/a,n/a,n/a,n/a,n/a,1,0.0,n/a,0,2
-85,85,Chargers,Antonio Gates,38,TE,16,1,n/a,n/a,0,n/a,n/a,n/a,n/a,n/a,n/a,45,28,333,11.9,2,19,53.3,27,1.8,20.8,62.2%,7.4,28,11.9,333,2,1
-88,88,Chargers,Virgil Green,30,TE,16,16,n/a,n/a,0,n/a,n/a,n/a,n/a,n/a,n/a,27,19,210,11.1,1,10,59.3,26,1.2,13.1,70.4%,7.8,19,11.1,210,1,n/a
-n/a,n/a,Chargers,Sean Culkin,25,TE,13,10,n/a,n/a,0,n/a,n/a,n/a,n/a,n/a,n/a,1,1,24,24.0,0,1,100.0,24,0.1,1.8,100.0%,24.0,1,24.0,24,0,n/a
-11,11,Chargers,Geremy Davis,26,WR,14,0,n/a,n/a,0,n/a,n/a,n/a,n/a,n/a,n/a,1,0,0,n/a,0,n/a,0.0,0,0.0,0.0,0.0%,0.0,n/a,n/a,n/a,0,n/a
+,No.,Team,Player,Age,Position,Games Played,Games Started as an Offensive or Defensive Player,Rushing Attempts,Rushing Yards Gained,Rushing Touchdown,First Downs Rushing,Rushing Success Rate,Longest Rushing Attempt,Rushing Yards per Attempt,Rushing Yards per Game,Rushing Attempts per Game,Pass Targets,Receptions,Receiving Yards,Receiving Yards per Reception,Receiving Touchdowns,First Downs Receiving,Receiving Success Rate,Longest Reception,Receptions per Game,Receiving Yards per Game,Catch Per.,Receiving Yards per Target,Touches: Rushing Attempts and Receptions,Scrimmage Yards per Touch: Rushing + Receiving Yardage per Opportunity,Yards from Scrimmage: Receiving and Rushing Yards,Rushing and Receiving Touchdowns,Lost and Recovered Fumbles,Year
+0,28.0,Chargers,Melvin Gordon,25,RB,12,12,175,885,10,47,51.4,34,5.1,73.8,14.6,66,50,490,9.8,4,21,48.5,66,4.2,40.8,75.8,7.4,225,6.1,1375,14,1,2018
+1,,Chargers,Austin Ekeler,23,RB,14,3,106,554,3,25,50.0,41,5.2,39.6,7.6,53,39,404,10.4,3,18,52.8,44,2.8,28.9,73.6,7.6,145,6.6,958,6,1,2018
+2,32.0,Chargers,Justin Jackson,22,RB,13,1,50,206,2,13,50.0,20,4.1,15.8,3.8,19,15,135,9.0,0,5,47.4,19,1.2,10.4,78.9,7.1,65,5.2,341,2,0,2018
+3,17.0,Chargers,Philip Rivers,37,QB,16,16,18,7,0,1,16.7,7,0.4,0.4,1.1,0,0,0,,0,0,,0,,,0.0,,18,0.4,7,0,2,2018
+4,38.0,Chargers,Detrez Newsome,24,RB,9,0,11,49,0,3,45.5,16,4.5,5.4,1.2,2,2,19,9.5,0,2,100.0,11,0.2,2.1,100.0,9.5,13,5.2,68,0,0,2018
+5,13.0,Chargers,Keenan Allen,26,WR,16,14,9,75,0,4,44.4,28,8.3,4.7,0.6,136,97,1196,12.3,6,62,63.2,54,6.1,74.8,71.3,8.8,106,12.0,1271,6,3,2018
+6,3.0,Chargers,Geno Smith,28,QB,5,0,8,2,0,0,12.5,9,0.3,0.4,1.6,0,0,0,,0,0,,0,,,0.0,,8,0.3,2,0,1,2018
+7,,Chargers,Mike Williams,24,WR,16,5,7,28,1,2,42.9,19,4.0,1.8,0.4,66,43,664,15.4,10,36,59.1,55,2.7,41.5,65.2,10.1,50,13.8,692,11,0,2018
+8,12.0,Chargers,Travis Benjamin,29,WR,12,3,7,41,0,2,42.9,19,5.9,3.4,0.6,24,12,186,15.5,1,9,37.5,46,1.0,15.5,50.0,7.8,19,11.9,227,1,0,2018
+9,34.0,Chargers,Derek Watt,26,FB,16,5,4,11,0,1,50.0,8,2.8,0.7,0.3,1,1,2,2.0,0,0,0.0,2,0.1,0.1,100.0,2.0,5,2.6,13,0,0,2018
+10,16.0,Chargers,Tyrell Williams,26,WR,16,10,2,15,0,1,50.0,14,7.5,0.9,0.1,65,41,653,15.9,5,30,53.8,75,2.6,40.8,63.1,10.0,43,15.5,668,5,2,2018
+11,54.0,Chargers,Melvin Ingram,29,RDE,16,16,1,0,0,0,0.0,0,0.0,0.0,0.1,0,0,0,,0,0,,0,,,0.0,,1,0.0,0,0,1,2018
+12,89.0,Chargers,JJ Jones,26,WR,3,0,1,0,0,0,0.0,0,0.0,0.0,0.3,0,0,0,,0,0,,0,,,0.0,,1,0.0,0,0,2,2018
+13,85.0,Chargers,Antonio Gates,38,TE,16,1,0,0,0,0,,0,,,,45,28,333,11.9,2,19,53.3,27,1.8,20.8,62.2,7.4,28,11.9,333,2,1,2018
+14,88.0,Chargers,Virgil Green,30,TE,16,16,0,0,0,0,,0,,,,27,19,210,11.1,1,10,59.3,26,1.2,13.1,70.4,7.8,19,11.1,210,1,0,2018
+15,,Chargers,Sean Culkin,25,TE,13,10,0,0,0,0,,0,,,,1,1,24,24.0,0,1,100.0,24,0.1,1.8,100.0,24.0,1,24.0,24,0,0,2018
+16,11.0,Chargers,Geremy Davis,26,WR,14,0,0,0,0,0,,0,,,,1,0,0,,0,0,0.0,0,0.0,0.0,0.0,0.0,0,,0,0,0,2018

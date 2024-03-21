@@ -1,10 +1,10 @@
-,No.,Team,Player,Age,Position,Games Played,Games Started,Punts Returned,Punts Return Yardage,Punts Returned for Touchdown,Longest Punt Return,Yards per Punt Return,Kickoff Returns,Yardage for Kickoffs Returned,Kickoffs Returned for a Touchdown,Longest Kickoff Return,Yards per Kickoff Return,All-purpose Yards
-19,19,Buffalos,Isaiah McKenzie,23,WR,7,1,14,87,0,21,6.2,12,237,0,33,19.8,569
-45,45,Buffalos,Marcus Murphy,27,RB,11,1,2,15,0,9,7.5,13,324,0,49,24.9,615
-23,23,Buffalos,Micah Hyde,28,SS,15,15,9,75,0,31,8.3,n/a,n/a,0,n/a,n/a,100
-13,13,Buffalos,Victor Bolden,23,WR,2,0,n/a,n/a,0,n/a,n/a,5,116,0,28,23.2,116
-26,26,Buffalos,Taiwan Jones,30,RB,6,0,n/a,n/a,0,n/a,n/a,5,89,0,27,17.8,89
-14,14,Buffalos,Ray-Ray McCloud,22,WR,10,1,4,20,0,13,5.0,1,18,0,18,18.0,78
-10,10,Buffalos,Jeremy Kerley,30,WR,1,1,2,10,0,6,5.0,n/a,n/a,0,n/a,n/a,17
-82,82,Buffalos,Logan Thomas,27,TE,12,3,n/a,n/a,0,n/a,n/a,1,23,0,23,23.0,100
-52,52,Buffalos,Corey Thompson,25,LB,6,1,n/a,n/a,0,n/a,n/a,1,0,0,0,0.0,0
+,No.,Team,Player,Age,Position,Games Played,Games Started,Punts Returned,Punts Return Yardage,Punts Returned for Touchdown,Longest Punt Return,Yards per Punt Return,Kickoff Returns,Yardage for Kickoffs Returned,Kickoffs Returned for a Touchdown,Longest Kickoff Return,Yards per Kickoff Return,All-purpose Yards,Year
+0,19,Buffalos,Isaiah McKenzie,23,WR,7,1,14,87,0,21,6.2,12,237,0,33,19.8,569,2018
+1,45,Buffalos,Marcus Murphy,27,RB,11,1,2,15,0,9,7.5,13,324,0,49,24.9,615,2018
+2,23,Buffalos,Micah Hyde,28,SS,15,15,9,75,0,31,8.3,0,0,0,0,,100,2018
+3,13,Buffalos,Victor Bolden,23,WR,2,0,0,0,0,0,,5,116,0,28,23.2,116,2018
+4,26,Buffalos,Taiwan Jones,30,RB,6,0,0,0,0,0,,5,89,0,27,17.8,89,2018
+5,14,Buffalos,Ray-Ray McCloud,22,WR,10,1,4,20,0,13,5.0,1,18,0,18,18.0,78,2018
+6,10,Buffalos,Jeremy Kerley,30,WR,1,1,2,10,0,6,5.0,0,0,0,0,,17,2018
+7,82,Buffalos,Logan Thomas,27,TE,12,3,0,0,0,0,,1,23,0,23,23.0,100,2018
+8,52,Buffalos,Corey Thompson,25,LB,6,1,0,0,0,0,,1,0,0,0,0.0,0,2018

@@ -1,8 +1,8 @@
-,No.,Team,Player,Age,Position,Games Played,Games Started,Punts Returned,Punts Return Yardage,Punts Returned for Touchdown,Longest Punt Return,Yards per Punt Return,Kickoff Returns,Yardage for Kickoffs Returned,Kickoffs Returned for a Touchdown,Longest Kickoff Return,Yards per Kickoff Return,All-purpose Yards
-35,35,Vikings,Marcus Sherels,31,DB,12,0,23,276,0,70,12.0,2,34,0,17,17.0,310
-31,31,Vikings,Ameer Abdullah,25,RB,7,0,n/a,n/a,0,n/a,n/a,10,258,0,33,25.8,268
-21,21,Vikings,Mike Hughes,21,DB,6,2,2,13,0,13,6.5,4,107,0,46,26.8,148
-15,15,Vikings,Brandon Zylstra,25,WR,16,0,4,26,0,9,6.5,1,15,0,15,15.0,64
-24,24,Vikings,Holton Hill,21,DB,16,3,n/a,n/a,0,n/a,n/a,3,85,0,30,28.3,87
-17,17,Vikings,Aldrick Robinson,30,WR,14,0,n/a,n/a,0,n/a,n/a,1,21,0,21,21.0,252
-32,32,Vikings,Roc Thomas,23,RB,5,0,n/a,n/a,0,n/a,n/a,1,20,0,20,20.0,71
+,No.,Team,Player,Age,Position,Games Played,Games Started,Punts Returned,Punts Return Yardage,Punts Returned for Touchdown,Longest Punt Return,Yards per Punt Return,Kickoff Returns,Yardage for Kickoffs Returned,Kickoffs Returned for a Touchdown,Longest Kickoff Return,Yards per Kickoff Return,All-purpose Yards,Year
+0,35,Vikings,Marcus Sherels,31,DB,12,0,23,276,0,70,12.0,2,34,0,17,17.0,310,2018
+1,31,Vikings,Ameer Abdullah,25,RB,7,0,0,0,0,0,,10,258,0,33,25.8,268,2018
+2,21,Vikings,Mike Hughes,21,DB,6,2,2,13,0,13,6.5,4,107,0,46,26.8,148,2018
+3,15,Vikings,Brandon Zylstra,25,WR,16,0,4,26,0,9,6.5,1,15,0,15,15.0,64,2018
+4,24,Vikings,Holton Hill,21,DB,16,3,0,0,0,0,,3,85,0,30,28.3,87,2018
+5,17,Vikings,Aldrick Robinson,30,WR,14,0,0,0,0,0,,1,21,0,21,21.0,252,2018
+6,32,Vikings,Roc Thomas,23,RB,5,0,0,0,0,0,,1,20,0,20,20.0,71,2018

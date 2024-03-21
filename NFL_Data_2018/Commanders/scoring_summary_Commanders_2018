@@ -1,16 +1,16 @@
-,No.,Team,Player,Age,Pos,Games Played,Games Started,Rush TD,Reception TD,Punt Return TD,Kick Return TD,Fumble Return TD,Interception TD,Other TD,All Touchdown Scored,2-Point Conversions Made,Two-Point Conversions Attempted,Defensive Two-Point Conversions,Extra Points Made,Extra Points Allowed,Field Goals Made,Field Goals Attempted,Safeties Scored by Player/Team,Total Points Scored by all Means,Poins per Game
-3,3,Commanders,Dustin Hopkins,28,K,16,0,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,25,26,26,29,n/a,103,6.4
-26,26,Commanders,Adrian Peterson,33,RB,16,16,7,1,n/a,n/a,n/a,n/a,n/a,8,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,48,3.0
-46,46,Commanders,Kapri Bibbs,25,RB,10,0,3,1,n/a,n/a,n/a,n/a,n/a,4,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,24,2.4
-85,85,Commanders,Vernon Davis,34,TE,14,8,n/a,2,n/a,n/a,n/a,n/a,n/a,2,1,n/a,n/a,n/a,n/a,n/a,n/a,n/a,14,1.0
-80,80,Commanders,Jamison Crowder,25,WR,9,7,n/a,2,n/a,n/a,n/a,n/a,n/a,2,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,12,1.3
-18,18,Commanders,Josh Doctson,26,WR,15,12,n/a,2,n/a,n/a,n/a,n/a,n/a,2,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,12,0.8
-86,86,Commanders,Jordan Reed,28,TE,13,8,n/a,2,n/a,n/a,n/a,n/a,n/a,2,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,12,0.9
-10,10,Commanders,Paul Richardson,26,WR,7,4,n/a,2,n/a,n/a,n/a,n/a,n/a,2,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,12,1.7
-17,17,Commanders,Michael Floyd,29,WR,13,3,n/a,1,n/a,n/a,n/a,n/a,n/a,1,1,n/a,n/a,n/a,n/a,n/a,n/a,n/a,8,0.6
-8,8,Commanders,Josh Johnson,32,QB,4,3,1,n/a,n/a,n/a,n/a,n/a,n/a,1,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,6,1.5
-14,14,Commanders,Trey Quinn,23,WR,3,2,n/a,1,n/a,n/a,n/a,n/a,n/a,1,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,6,2.0
-11,11,Commanders,Alex Smith,34,QB,10,10,1,n/a,n/a,n/a,n/a,n/a,n/a,1,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,6,0.6
-94,94,Commanders,Preston Smith,26,LOLB,16,16,n/a,n/a,n/a,n/a,1,n/a,n/a,1,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,6,0.4
-87,87,Commanders,Jeremy Sprinkle,24,TE,16,9,n/a,1,n/a,n/a,n/a,n/a,n/a,1,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,6,0.4
-25,25,Commanders,Chris Thompson,28,RB,10,0,n/a,1,n/a,n/a,n/a,n/a,n/a,1,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,6,0.6
+,No.,Team,Player,Age,Pos,Games Played,Games Started,Rush TD,Reception TD,Punt Return TD,Kick Return TD,Fumble Return TD,Interception TD,Other TD,All Touchdown Scored,2-Point Conversions Made,Two-Point Conversions Attempted,Defensive Two-Point Conversions,Extra Points Made,Extra Points Allowed,Field Goals Made,Field Goals Attempted,Safeties Scored by Player/Team,Total Points Scored by all Means,Poins per Game,Year
+0,3,Commanders,Dustin Hopkins,28,K,16,0,0,0,0,0,0,0,0,0,0,0,0,25,26,26,29,,103,6.4,2018
+1,26,Commanders,Adrian Peterson,33,RB,16,16,7,1,0,0,0,0,0,8,0,0,0,0,0,0,0,,48,3.0,2018
+2,46,Commanders,Kapri Bibbs,25,RB,10,0,3,1,0,0,0,0,0,4,0,0,0,0,0,0,0,,24,2.4,2018
+3,85,Commanders,Vernon Davis,34,TE,14,8,0,2,0,0,0,0,0,2,1,0,0,0,0,0,0,,14,1.0,2018
+4,80,Commanders,Jamison Crowder,25,WR,9,7,0,2,0,0,0,0,0,2,0,0,0,0,0,0,0,,12,1.3,2018
+5,18,Commanders,Josh Doctson,26,WR,15,12,0,2,0,0,0,0,0,2,0,0,0,0,0,0,0,,12,0.8,2018
+6,86,Commanders,Jordan Reed,28,TE,13,8,0,2,0,0,0,0,0,2,0,0,0,0,0,0,0,,12,0.9,2018
+7,10,Commanders,Paul Richardson,26,WR,7,4,0,2,0,0,0,0,0,2,0,0,0,0,0,0,0,,12,1.7,2018
+8,17,Commanders,Michael Floyd,29,WR,13,3,0,1,0,0,0,0,0,1,1,0,0,0,0,0,0,,8,0.6,2018
+9,8,Commanders,Josh Johnson,32,QB,4,3,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,,6,1.5,2018
+10,14,Commanders,Trey Quinn,23,WR,3,2,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,,6,2.0,2018
+11,11,Commanders,Alex Smith,34,QB,10,10,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,,6,0.6,2018
+12,94,Commanders,Preston Smith,26,LOLB,16,16,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,,6,0.4,2018
+13,87,Commanders,Jeremy Sprinkle,24,TE,16,9,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,,6,0.4,2018
+14,25,Commanders,Chris Thompson,28,RB,10,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,,6,0.6,2018

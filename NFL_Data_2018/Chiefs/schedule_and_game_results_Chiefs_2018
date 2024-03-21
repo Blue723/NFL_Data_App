@@ -1,21 +1,21 @@
-,Week,Team,Day,Date,Time,Win/Loss,Overtime,Team Record,Home/Away,Opponent,Points Scored,Points Allowed,Offense 1st Down,Total Yards Gained of Offense,Total yards Gained by Passing,Total Yards Gained by Rushing,Offense Turnovers,Defense 1st Down,Total Yards Allowed by Defense,Total Passing Yards Allowed by Defense,Total Rushing Yards Allowed by Defense,Defense Turnovers,Offense,Defense,Sp. Tms
-1,1,Chiefs,Sun,September 9,4:05PM ET,W,n/a,1-0,away,Los Angeles Chargers,38,28,19,362,256,106,n/a,33,541,418,123,2,13.10,-24.31,19.32
-2,2,Chiefs,Sun,September 16,1:00PM ET,W,n/a,2-0,away,Pittsburgh Steelers,42,37,24,449,322,127,1,33,475,442,33,n/a,27.25,-26.79,10.45
-3,3,Chiefs,Sun,September 23,1:00PM ET,W,n/a,3-0,home,San Francisco 49ers,38,27,31,384,307,77,n/a,26,406,228,178,n/a,29.69,-19.16,1.56
-4,4,Chiefs,Mon,October 1,8:15PM ET,W,n/a,4-0,away,Denver Broncos,27,23,22,446,304,142,n/a,21,385,226,159,1,15.71,-8.63,-2.95
-5,5,Chiefs,Sun,October 7,1:00PM ET,W,n/a,5-0,home,Jacksonville Jaguars,30,14,26,424,298,126,2,29,502,401,101,5,5.01,7.23,2.84
-6,6,Chiefs,Sun,October 14,8:20PM ET,L,n/a,5-1,away,New England Patriots,40,43,18,446,352,94,2,31,500,327,173,1,10.83,-21.54,8.17
-7,7,Chiefs,Sun,October 21,8:20PM ET,W,n/a,6-1,home,Cincinnati Bengals,45,10,33,551,353,198,1,15,239,174,65,1,32.05,7.73,-8.00
-8,8,Chiefs,Sun,October 28,1:00PM ET,W,n/a,7-1,home,Denver Broncos,30,23,20,340,291,49,1,22,411,222,189,2,12.25,-6.33,2.93
-9,9,Chiefs,Sun,November 4,1:00PM ET,W,n/a,8-1,away,Cleveland Browns,37,21,27,499,360,139,1,26,388,286,102,1,31.68,-11.80,0.72
-10,10,Chiefs,Sun,November 11,1:00PM ET,W,n/a,9-1,home,Arizona Cardinals,26,14,20,330,212,118,n/a,21,260,166,94,2,7.53,8.96,-0.25
-11,11,Chiefs,Mon,November 19,8:15PM ET,L,n/a,9-2,away,Los Angeles Rams,51,54,27,546,448,98,5,29,455,379,76,2,10.02,-15.93,2.52
-12,12,Chiefs,n/a,n/a,n/a,n/a,n/a,n/a,home,<strong>Bye Week</strong>,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
-13,13,Chiefs,Sun,December 2,4:05PM ET,W,n/a,10-2,away,Oakland Raiders,40,33,25,469,295,174,1,28,442,271,171,3,20.87,-14.50,-0.05
-14,14,Chiefs,Sun,December 9,1:00PM ET,W,OT,11-2,home,Baltimore Ravens,27,24,30,442,348,94,1,24,321,127,194,1,17.44,-4.92,-9.52
-15,15,Chiefs,Thu,December 13,8:20PM ET,L,n/a,11-3,home,Los Angeles Chargers,28,29,22,294,234,60,n/a,30,407,288,119,2,17.10,-21.67,4.16
-16,16,Chiefs,Sun,December 23,8:20PM ET,L,n/a,11-4,away,Seattle Seahawks,31,38,22,419,265,154,2,31,464,254,210,n/a,11.26,-23.20,5.47
-17,17,Chiefs,Sun,December 30,4:25PM ET,W,n/a,12-4,home,Oakland Raiders,35,3,18,409,310,99,1,20,292,165,127,4,17.34,22.66,-9.26
-n/a,n/a,Chiefs,n/a,<strong>Playoffs</strong>,n/a,n/a,n/a,n/a,home,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
-Division,Division,Chiefs,Sat,January 12,4:35PM ET,W,n/a,13-4,home,Indianapolis Colts,31,13,29,433,253,180,1,15,266,179,87,1,12.69,4.21,-1.58
-Conf. Champ.,Conf. Champ.,Chiefs,Sun,January 20,6:40PM ET,L,OT,13-5,home,New England Patriots,31,37,18,290,249,41,n/a,36,524,348,176,2,14.41,-19.31,-1.94
+,Week,Team,Day,Date,Time,Win/Loss,Overtime,Team Record,Home/Away,Opponent,Points Scored,Points Allowed,Offense 1st Down,Total Yards Gained of Offense,Total yards Gained by Passing,Total Yards Gained by Rushing,Offense Turnovers,Defense 1st Down,Total Yards Allowed by Defense,Total Passing Yards Allowed by Defense,Total Rushing Yards Allowed by Defense,Defense Turnovers,Offense,Defense,Sp. Tms,Year
+0,0,Chiefs,Sun,September 9,,W,0,1-0,away,Los Angeles Chargers,38,28,19,362,256,106,0,33,541,418,123,2,13.1,-24.31,19.32,2018
+1,1,Chiefs,Sun,September 16,,W,0,2-0,away,Pittsburgh Steelers,42,37,24,449,322,127,1,33,475,442,33,0,27.25,-26.79,10.45,2018
+2,2,Chiefs,Sun,September 23,,W,0,3-0,home,San Francisco 49ers,38,27,31,384,307,77,0,26,406,228,178,0,29.69,-19.16,1.56,2018
+3,3,Chiefs,Mon,October 1,,W,0,4-0,away,Denver Broncos,27,23,22,446,304,142,0,21,385,226,159,1,15.71,-8.63,-2.95,2018
+4,4,Chiefs,Sun,October 7,,W,0,5-0,home,Jacksonville Jaguars,30,14,26,424,298,126,2,29,502,401,101,5,5.01,7.23,2.84,2018
+5,5,Chiefs,Sun,October 14,,L,0,5-1,away,New England Patriots,40,43,18,446,352,94,2,31,500,327,173,1,10.83,-21.54,8.17,2018
+6,6,Chiefs,Sun,October 21,,W,0,6-1,home,Cincinnati Bengals,45,10,33,551,353,198,1,15,239,174,65,1,32.05,7.73,-8.0,2018
+7,7,Chiefs,Sun,October 28,,W,0,7-1,home,Denver Broncos,30,23,20,340,291,49,1,22,411,222,189,2,12.25,-6.33,2.93,2018
+8,8,Chiefs,Sun,November 4,,W,0,8-1,away,Cleveland Browns,37,21,27,499,360,139,1,26,388,286,102,1,31.68,-11.8,0.72,2018
+9,9,Chiefs,Sun,November 11,,W,0,9-1,home,Arizona Cardinals,26,14,20,330,212,118,0,21,260,166,94,2,7.53,8.96,-0.25,2018
+10,10,Chiefs,Mon,November 19,,L,0,9-2,away,Los Angeles Rams,51,54,27,546,448,98,5,29,455,379,76,2,10.02,-15.93,2.52,2018
+11,11,Chiefs,,,,,0,,home,<strong>Bye Week</strong>,0,0,0,0,0,0,0,0,0,0,0,0,,,,2018
+12,12,Chiefs,Sun,December 2,,W,0,10-2,away,Oakland Raiders,40,33,25,469,295,174,1,28,442,271,171,3,20.87,-14.5,-0.05,2018
+13,13,1,1,1,1.0,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1.0,1.0,1.0,1
+14,14,Chiefs,Thu,December 13,,L,0,11-3,home,Los Angeles Chargers,28,29,22,294,234,60,0,30,407,288,119,2,17.1,-21.67,4.16,2018
+15,15,Chiefs,Sun,December 23,,L,0,11-4,away,Seattle Seahawks,31,38,22,419,265,154,2,31,464,254,210,0,11.26,-23.2,5.47,2018
+16,16,Chiefs,Sun,December 30,,W,0,12-4,home,Oakland Raiders,35,3,18,409,310,99,1,20,292,165,127,4,17.34,22.66,-9.26,2018
+17,17,Chiefs,,<strong>Playoffs</strong>,,,0,,home,,0,0,0,0,0,0,0,0,0,0,0,0,,,,2018
+18,18,Chiefs,Sat,January 12,,W,0,13-4,home,Indianapolis Colts,31,13,29,433,253,180,1,15,266,179,87,1,12.69,4.21,-1.58,2018
+19,19,1,1,1,1.0,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1.0,1.0,1.0,1

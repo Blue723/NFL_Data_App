@@ -1,7 +1,7 @@
-,No.,Team,Player,Age,Position,Games Played,Games Started,Punts Returned,Punts Return Yardage,Punts Returned for Touchdown,Longest Punt Return,Yards per Punt Return,Kickoff Returns,Yardage for Kickoffs Returned,Kickoffs Returned for a Touchdown,Longest Kickoff Return,Yards per Kickoff Return,All-purpose Yards
-84,84,Patriots,Cordarrelle Patterson,27,WR,15,5,n/a,n/a,0,n/a,n/a,23,663,1,95,28.8,1138
-11,11,Patriots,Julian Edelman,32,WR,12,12,20,154,0,25,7.7,n/a,n/a,0,n/a,n/a,1111
-41,41,Patriots,Cyrus Jones,25,DB,2,0,5,45,0,24,9.0,n/a,n/a,0,n/a,n/a,45
-26,26,Patriots,Sony Michel,23,RB,13,8,n/a,n/a,0,n/a,n/a,4,77,0,26,19.3,1058
-46,46,Patriots,James Develin,30,FB,16,8,n/a,n/a,0,n/a,n/a,1,15,0,15,15.0,84
-17,17,Patriots,Riley McCarron,25,WR,1,0,1,0,0,0,0.0,n/a,n/a,0,n/a,n/a,0
+,No.,Team,Player,Age,Position,Games Played,Games Started,Punts Returned,Punts Return Yardage,Punts Returned for Touchdown,Longest Punt Return,Yards per Punt Return,Kickoff Returns,Yardage for Kickoffs Returned,Kickoffs Returned for a Touchdown,Longest Kickoff Return,Yards per Kickoff Return,All-purpose Yards,Year
+0,84,Patriots,Cordarrelle Patterson,27,WR,15,5,0,0,0,0,,23,663,1,95,28.8,1138,2018
+1,11,Patriots,Julian Edelman,32,WR,12,12,20,154,0,25,7.7,0,0,0,0,,1111,2018
+2,41,Patriots,Cyrus Jones,25,DB,2,0,5,45,0,24,9.0,0,0,0,0,,45,2018
+3,26,Patriots,Sony Michel,23,RB,13,8,0,0,0,0,,4,77,0,26,19.3,1058,2018
+4,46,Patriots,James Develin,30,FB,16,8,0,0,0,0,,1,15,0,15,15.0,84,2018
+5,17,Patriots,Riley McCarron,25,WR,1,0,1,0,0,0,0.0,0,0,0,0,,0,2018

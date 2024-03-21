@@ -1,4 +1,4 @@
-,No.,Team,Player,Age,Position,Games Played,Games Started,FGA 0-19,FGM 0-19,FGA 20-29,FGM 20-29,FGA 30-39,FGM 30-39,FGA 40-49,FGM 40-49,FGA 50+,FGM 50+,Field Goals Attempted,Field Goals Made,Longest Field Goal Made,% of Field Goals Made,Extra Points Attempted,Extra Points Made,Extra Point Percentage,Kickoffs,Kickoff Yards,Kickoff Touchbacks,% Kickoff was a Touchback,Kickoff Average Yardage
-17,17,Browns,Greg Joseph,24,K,14,0,n/a,n/a,4,4,7,7,7,5,2,1,20,17,51,85.0%,29,25,86.2%,69,4340,47,68.1%,62.9
-2,2,Browns,Zane Gonzalez,23,K,2,0,n/a,n/a,n/a,n/a,2,2,2,n/a,1,n/a,5,2,39,40.0%,5,3,60.0%,9,576,5,55.6%,64.0
-4,4,Browns,Britton Colquitt,33,P,16,0,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,1,56,n/a,n/a,56.0
+,No.,Team,Player,Age,Position,Games Played,Games Started,FGA 0-19,FGM 0-19,FGA 20-29,FGM 20-29,FGA 30-39,FGM 30-39,FGA 40-49,FGM 40-49,FGA 50+,FGM 50+,Field Goals Attempted,Field Goals Made,Longest Field Goal Made,Per. of Field Goals Made,Extra Points Attempted,Extra Points Made,Extra Point Per.,Kickoffs,Kickoff Yards,Kickoff Touchbacks,Per. Kickoff was a Touchback,Kickoff Average Yardage,Year
+0,17,Browns,Greg Joseph,24,K,14,0,0,0,4,4,7,7,7,5,2,1,20,17,51,85.0,29,25,86.2,69,4340,47,68.1,62.9,2018
+1,2,Browns,Zane Gonzalez,23,K,2,0,0,0,0,0,2,2,2,0,1,0,5,2,39,40.0,5,3,60.0,9,576,5,55.6,64.0,2018
+2,4,Browns,Britton Colquitt,33,P,16,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0.0,1,56,0,0.0,56.0,2018

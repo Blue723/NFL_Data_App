@@ -1,22 +1,22 @@
-,No.,Team,Player,Age,Position,Games Played,Games Started as an Offensive or Defensive Player,Rushing Attempts,Rushing Yards Gained,Rushing Touchdown,First Downs Rushing,Rushing Success Rate,Longest Rushing Attempt,Rushing Yards per Attempt,Rushing Yards per Game,Rushing Attempts per Game,Pass Targets,Receptions,Receiving Yards,Receiving Yards per Reception,Receiving Touchdowns,First Downs Receiving,Receiving Success Rate,Longest Reception,Receptions per Game,Receiving Yards per Game,Catch%,Receiving Yards per Target,Touches: Rushing Attempts and Receptions,Scrimmage Yards per Touch: Rushing + Receiving Yardage per Opportunity,Yards from Scrimmage: Receiving and Rushing Yards,Rushing and Receiving Touchdowns,Lost and Recovered Fumbles
-33,33,Packers,Aaron Jones,24,RB,12,8,133,728,8,41,54.9,67,5.5,60.7,11.1,35,26,206,7.9,1,12,51.4,24,2.2,17.2,74.3%,5.9,159,5.9,934,9,1
-30,30,Packers,Jamaal Williams,23,RB,16,8,121,464,3,25,47.9,20,3.8,29.0,7.6,41,27,210,7.8,0,11,48.8,26,1.7,13.1,65.9%,5.1,148,4.6,674,3,n/a
-12,12,Packers,Aaron Rodgers,35,QB,16,16,43,269,2,20,69.8,23,6.3,16.8,2.7,n/a,n/a,n/a,n/a,0,n/a,n/a,n/a,n/a,n/a,n/a,n/a,43,6.3,269,2,6
-88,88,Packers,Ty Montgomery,25,WR,7,0,26,105,1,6,46.2,16,4.0,15.0,3.7,23,15,170,11.3,0,5,43.5,43,2.1,24.3,65.2%,7.4,41,6.7,275,1,2
-9,9,Packers,DeShone Kizer,22,QB,3,0,5,39,0,3,80.0,12,7.8,13.0,1.7,n/a,n/a,n/a,n/a,0,n/a,n/a,n/a,n/a,n/a,n/a,n/a,5,7.8,39,0,1
-83,83,Packers,Marquez Valdes-Scantling,24,WR,16,10,2,29,0,2,100.0,21,14.5,1.8,0.1,73,38,581,15.3,2,23,43.8,60,2.4,36.3,52.1%,8.0,40,15.3,610,2,n/a
-19,19,Packers,Equanimeous St. Brown,22,WR,12,7,1,5,0,0,100.0,5,5.0,0.4,0.1,36,21,328,15.6,0,13,47.2,54,1.8,27.3,58.3%,9.1,22,15.1,333,0,n/a
-22,22,Packers,Kapri Bibbs,25,RB,2,0,1,2,0,n/a,0.0,2,2.0,1.0,0.5,5,3,13,4.3,0,n/a,60.0,5,1.5,6.5,60.0%,2.6,4,3.8,15,0,n/a
-36,36,Packers,Raven Greene,23,DB,8,0,1,26,0,n/a,0.0,26,26.0,3.3,0.1,n/a,n/a,n/a,n/a,0,n/a,n/a,n/a,n/a,n/a,n/a,n/a,1,26.0,26,0,n/a
-17,17,Packers,Davante Adams,26,WR,15,15,n/a,n/a,0,n/a,n/a,n/a,n/a,n/a,n/a,169,111,1386,12.5,13,64,53.3,57,7.4,92.4,65.7%,8.2,111,12.5,1386,13,n/a
-80,80,Packers,Jimmy Graham,32,TE,16,12,n/a,n/a,0,n/a,n/a,n/a,n/a,n/a,n/a,89,55,636,11.6,2,32,47.2,54,3.4,39.8,61.8%,7.1,55,11.6,636,2,n/a
-18,18,Packers,Randall Cobb,28,WR,9,6,n/a,n/a,0,n/a,n/a,n/a,n/a,n/a,n/a,61,38,383,10.1,2,18,45.9,75,4.2,42.6,62.3%,6.3,38,10.1,383,2,2
-81,81,Packers,Geronimo Allison,24,WR,5,4,n/a,n/a,0,n/a,n/a,n/a,n/a,n/a,n/a,30,20,303,15.2,2,11,56.7,64,4.0,60.6,66.7%,10.1,20,15.2,303,2,1
-84,84,Packers,Lance Kendricks,30,TE,16,3,n/a,n/a,0,n/a,n/a,n/a,n/a,n/a,n/a,25,19,170,8.9,1,9,64.0,22,1.2,10.6,76.0%,6.8,19,8.9,170,1,n/a
-16,16,Packers,Jake Kumerow,26,WR,5,2,n/a,n/a,0,n/a,n/a,n/a,n/a,n/a,n/a,11,8,103,12.9,1,4,72.7,49,1.6,20.6,72.7%,9.4,8,12.9,103,1,n/a
-85,85,Packers,Robert Tonyan,24,TE,16,1,n/a,n/a,0,n/a,n/a,n/a,n/a,n/a,n/a,6,4,77,19.3,1,3,50.0,54,0.3,4.8,66.7%,12.8,4,19.3,77,1,n/a
-89,89,Packers,Marcedes Lewis,34,TE,16,4,n/a,n/a,0,n/a,n/a,n/a,n/a,n/a,n/a,4,3,39,13.0,0,1,75.0,30,0.2,2.4,75.0%,9.8,3,13.0,39,0,n/a
-82,82,Packers,J'Mon Moore,23,WR,12,0,n/a,n/a,0,n/a,n/a,n/a,n/a,n/a,n/a,3,2,15,7.5,0,1,33.3,10,0.2,1.3,66.7%,5.0,2,7.5,15,0,1
-13,13,Packers,Allen Lazard,23,WR,1,0,n/a,n/a,0,n/a,n/a,n/a,n/a,n/a,n/a,1,1,7,7.0,0,n/a,100.0,7,1.0,7.0,100.0%,7.0,1,7.0,7,0,n/a
-45,45,Packers,Danny Vitale,25,RB,5,0,n/a,n/a,0,n/a,n/a,n/a,n/a,n/a,n/a,2,1,2,2.0,0,1,50.0,2,0.2,0.4,50.0%,1.0,1,2.0,2,0,n/a
-2,2,Packers,Mason Crosby,34,K,16,0,n/a,n/a,0,n/a,n/a,n/a,n/a,n/a,n/a,1,0,0,n/a,0,n/a,0.0,0,0.0,0.0,0.0%,0.0,n/a,n/a,n/a,0,n/a
+,No.,Team,Player,Age,Position,Games Played,Games Started as an Offensive or Defensive Player,Rushing Attempts,Rushing Yards Gained,Rushing Touchdown,First Downs Rushing,Rushing Success Rate,Longest Rushing Attempt,Rushing Yards per Attempt,Rushing Yards per Game,Rushing Attempts per Game,Pass Targets,Receptions,Receiving Yards,Receiving Yards per Reception,Receiving Touchdowns,First Downs Receiving,Receiving Success Rate,Longest Reception,Receptions per Game,Receiving Yards per Game,Catch Per.,Receiving Yards per Target,Touches: Rushing Attempts and Receptions,Scrimmage Yards per Touch: Rushing + Receiving Yardage per Opportunity,Yards from Scrimmage: Receiving and Rushing Yards,Rushing and Receiving Touchdowns,Lost and Recovered Fumbles,Year
+0,33,Packers,Aaron Jones,24,RB,12,8,133,728,8,41,54.9,67,5.5,60.7,11.1,35,26,206,7.9,1,12,51.4,24,2.2,17.2,74.3,5.9,159,5.9,934,9,1,2018
+1,30,Packers,Jamaal Williams,23,RB,16,8,121,464,3,25,47.9,20,3.8,29.0,7.6,41,27,210,7.8,0,11,48.8,26,1.7,13.1,65.9,5.1,148,4.6,674,3,0,2018
+2,12,Packers,Aaron Rodgers,35,QB,16,16,43,269,2,20,69.8,23,6.3,16.8,2.7,0,0,0,,0,0,,0,,,0.0,,43,6.3,269,2,6,2018
+3,88,Packers,Ty Montgomery,25,WR,7,0,26,105,1,6,46.2,16,4.0,15.0,3.7,23,15,170,11.3,0,5,43.5,43,2.1,24.3,65.2,7.4,41,6.7,275,1,2,2018
+4,9,Packers,DeShone Kizer,22,QB,3,0,5,39,0,3,80.0,12,7.8,13.0,1.7,0,0,0,,0,0,,0,,,0.0,,5,7.8,39,0,1,2018
+5,83,Packers,Marquez Valdes-Scantling,24,WR,16,10,2,29,0,2,100.0,21,14.5,1.8,0.1,73,38,581,15.3,2,23,43.8,60,2.4,36.3,52.1,8.0,40,15.3,610,2,0,2018
+6,19,Packers,Equanimeous St. Brown,22,WR,12,7,1,5,0,0,100.0,5,5.0,0.4,0.1,36,21,328,15.6,0,13,47.2,54,1.8,27.3,58.3,9.1,22,15.1,333,0,0,2018
+7,22,Packers,Kapri Bibbs,25,RB,2,0,1,2,0,0,0.0,2,2.0,1.0,0.5,5,3,13,4.3,0,0,60.0,5,1.5,6.5,60.0,2.6,4,3.8,15,0,0,2018
+8,36,Packers,Raven Greene,23,DB,8,0,1,26,0,0,0.0,26,26.0,3.3,0.1,0,0,0,,0,0,,0,,,0.0,,1,26.0,26,0,0,2018
+9,17,Packers,Davante Adams,26,WR,15,15,0,0,0,0,,0,,,,169,111,1386,12.5,13,64,53.3,57,7.4,92.4,65.7,8.2,111,12.5,1386,13,0,2018
+10,80,Packers,Jimmy Graham,32,TE,16,12,0,0,0,0,,0,,,,89,55,636,11.6,2,32,47.2,54,3.4,39.8,61.8,7.1,55,11.6,636,2,0,2018
+11,18,Packers,Randall Cobb,28,WR,9,6,0,0,0,0,,0,,,,61,38,383,10.1,2,18,45.9,75,4.2,42.6,62.3,6.3,38,10.1,383,2,2,2018
+12,81,Packers,Geronimo Allison,24,WR,5,4,0,0,0,0,,0,,,,30,20,303,15.2,2,11,56.7,64,4.0,60.6,66.7,10.1,20,15.2,303,2,1,2018
+13,84,Packers,Lance Kendricks,30,TE,16,3,0,0,0,0,,0,,,,25,19,170,8.9,1,9,64.0,22,1.2,10.6,76.0,6.8,19,8.9,170,1,0,2018
+14,16,Packers,Jake Kumerow,26,WR,5,2,0,0,0,0,,0,,,,11,8,103,12.9,1,4,72.7,49,1.6,20.6,72.7,9.4,8,12.9,103,1,0,2018
+15,85,Packers,Robert Tonyan,24,TE,16,1,0,0,0,0,,0,,,,6,4,77,19.3,1,3,50.0,54,0.3,4.8,66.7,12.8,4,19.3,77,1,0,2018
+16,89,Packers,Marcedes Lewis,34,TE,16,4,0,0,0,0,,0,,,,4,3,39,13.0,0,1,75.0,30,0.2,2.4,75.0,9.8,3,13.0,39,0,0,2018
+17,82,Packers,J'Mon Moore,23,WR,12,0,0,0,0,0,,0,,,,3,2,15,7.5,0,1,33.3,10,0.2,1.3,66.7,5.0,2,7.5,15,0,1,2018
+18,13,Packers,Allen Lazard,23,WR,1,0,0,0,0,0,,0,,,,1,1,7,7.0,0,0,100.0,7,1.0,7.0,100.0,7.0,1,7.0,7,0,0,2018
+19,45,Packers,Danny Vitale,25,RB,5,0,0,0,0,0,,0,,,,2,1,2,2.0,0,1,50.0,2,0.2,0.4,50.0,1.0,1,2.0,2,0,0,2018
+20,2,Packers,Mason Crosby,34,K,16,0,0,0,0,0,,0,,,,1,0,0,,0,0,0.0,0,0.0,0.0,0.0,0.0,0,,0,0,0,2018

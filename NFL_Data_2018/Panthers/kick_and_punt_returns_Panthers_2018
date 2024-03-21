@@ -1,5 +1,5 @@
-,No.,Team,Player,Age,Position,Games Played,Games Started,Punts Returned,Punts Return Yardage,Punts Returned for Touchdown,Longest Punt Return,Yards per Punt Return,Kickoff Returns,Yardage for Kickoffs Returned,Kickoffs Returned for a Touchdown,Longest Kickoff Return,Yards per Kickoff Return,All-purpose Yards
-23,23,Panthers,Kenjon Barner,29,RB,4,0,7,29,0,13,4.1,9,220,0,37,24.4,252
-18,18,Panthers,Damiere Byrd,25,WR,8,0,11,104,0,30,9.5,2,34,0,22,17.0,146
-12,12,Panthers,D.J. Moore,21,WR,16,10,6,32,0,15,5.3,5,119,0,32,23.8,1111
-10,10,Panthers,Curtis Samuel,22,WR,13,8,n/a,n/a,0,n/a,n/a,10,209,0,32,20.9,787
+,No.,Team,Player,Age,Position,Games Played,Games Started,Punts Returned,Punts Return Yardage,Punts Returned for Touchdown,Longest Punt Return,Yards per Punt Return,Kickoff Returns,Yardage for Kickoffs Returned,Kickoffs Returned for a Touchdown,Longest Kickoff Return,Yards per Kickoff Return,All-purpose Yards,Year
+0,23,Panthers,Kenjon Barner,29,RB,4,0,7,29,0,13,4.1,9,220,0,37,24.4,252,2018
+1,18,Panthers,Damiere Byrd,25,WR,8,0,11,104,0,30,9.5,2,34,0,22,17.0,146,2018
+2,12,Panthers,D.J. Moore,21,WR,16,10,6,32,0,15,5.3,5,119,0,32,23.8,1111,2018
+3,10,Panthers,Curtis Samuel,22,WR,13,8,0,0,0,0,,10,209,0,32,20.9,787,2018

@@ -1,9 +1,9 @@
-,No.,Team,Player,Age,Position,Games Played,Games Started,Punts Returned,Punts Return Yardage,Punts Returned for Touchdown,Longest Punt Return,Yards per Punt Return,Kickoff Returns,Yardage for Kickoffs Returned,Kickoffs Returned for a Touchdown,Longest Kickoff Return,Yards per Kickoff Return,All-purpose Yards
-19,19,Dolphins,Jakeem Grant,26,WR,10,2,14,228,1,71,16.3,18,535,1,102,29.7,1036
-80,80,Dolphins,Danny Amendola,33,WR,15,15,11,59,0,12,5.4,n/a,n/a,0,n/a,n/a,632
-32,32,Dolphins,Kenyan Drake,24,RB,16,7,n/a,n/a,0,n/a,n/a,10,213,0,26,21.3,1225
-34,34,Dolphins,Senorise Perry,27,RB,16,0,n/a,n/a,0,n/a,n/a,8,164,0,32,20.5,164
-33,33,Dolphins,Kalen Ballage,23,RB,12,0,n/a,n/a,0,n/a,n/a,2,26,0,16,13.0,267
-10,10,Dolphins,Kenny Stills,26,WR,15,15,2,6,0,6,3.0,n/a,n/a,0,n/a,n/a,559
-55,55,Dolphins,Jerome Baker,22,RLB,16,11,1,0,0,0,0.0,n/a,n/a,0,n/a,n/a,25
-81,81,Dolphins,Durham Smythe,23,TE,15,2,n/a,n/a,0,n/a,n/a,1,0,0,0,0.0,50
+,No.,Team,Player,Age,Position,Games Played,Games Started,Punts Returned,Punts Return Yardage,Punts Returned for Touchdown,Longest Punt Return,Yards per Punt Return,Kickoff Returns,Yardage for Kickoffs Returned,Kickoffs Returned for a Touchdown,Longest Kickoff Return,Yards per Kickoff Return,All-purpose Yards,Year
+0,19,Dolphins,Jakeem Grant,26,WR,10,2,14,228,1,71,16.3,18,535,1,102,29.7,1036,2018
+1,80,Dolphins,Danny Amendola,33,WR,15,15,11,59,0,12,5.4,0,0,0,0,,632,2018
+2,32,Dolphins,Kenyan Drake,24,RB,16,7,0,0,0,0,,10,213,0,26,21.3,1225,2018
+3,34,Dolphins,Senorise Perry,27,RB,16,0,0,0,0,0,,8,164,0,32,20.5,164,2018
+4,33,Dolphins,Kalen Ballage,23,RB,12,0,0,0,0,0,,2,26,0,16,13.0,267,2018
+5,10,Dolphins,Kenny Stills,26,WR,15,15,2,6,0,6,3.0,0,0,0,0,,559,2018
+6,55,Dolphins,Jerome Baker,22,RLB,16,11,1,0,0,0,0.0,0,0,0,0,,25,2018
+7,81,Dolphins,Durham Smythe,23,TE,15,2,0,0,0,0,,1,0,0,0,0.0,50,2018

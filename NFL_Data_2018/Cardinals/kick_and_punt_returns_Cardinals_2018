@@ -1,7 +1,7 @@
-,No.,Team,Player,Age,Position,Games Played,Games Started,Punts Returned,Punts Return Yardage,Punts Returned for Touchdown,Longest Punt Return,Yards per Punt Return,Kickoff Returns,Yardage for Kickoffs Returned,Kickoffs Returned for a Touchdown,Longest Kickoff Return,Yards per Kickoff Return,All-purpose Yards
-13,13,Cardinals,Christian Kirk,22,WR,12,7,21,164,0,44,7.8,n/a,n/a,0,n/a,n/a,789
-22,22,Cardinals,T.J. Logan,24,FB,10,0,n/a,n/a,0,n/a,n/a,12,296,0,36,24.7,335
-26,26,Cardinals,Brandon Williams,26,DB,16,0,n/a,n/a,0,n/a,n/a,10,192,0,29,19.2,192
-21,21,Cardinals,Patrick Peterson,28,LCB,16,16,9,64,0,16,7.1,n/a,n/a,0,n/a,n/a,113
-12,12,Cardinals,Pharoh Cooper,23,WR,2,0,6,67,0,45,11.2,n/a,n/a,0,n/a,n/a,67
-29,29,Cardinals,Chase Edmonds,22,RB,16,0,n/a,n/a,0,n/a,n/a,3,48,0,18,16.0,359
+,No.,Team,Player,Age,Position,Games Played,Games Started,Punts Returned,Punts Return Yardage,Punts Returned for Touchdown,Longest Punt Return,Yards per Punt Return,Kickoff Returns,Yardage for Kickoffs Returned,Kickoffs Returned for a Touchdown,Longest Kickoff Return,Yards per Kickoff Return,All-purpose Yards,Year
+0,13,Cardinals,Christian Kirk,22,WR,12,7,21,164,0,44,7.8,0,0,0,0,,789,2018
+1,22,Cardinals,T.J. Logan,24,FB,10,0,0,0,0,0,,12,296,0,36,24.7,335,2018
+2,26,Cardinals,Brandon Williams,26,DB,16,0,0,0,0,0,,10,192,0,29,19.2,192,2018
+3,21,Cardinals,Patrick Peterson,28,LCB,16,16,9,64,0,16,7.1,0,0,0,0,,113,2018
+4,12,Cardinals,Pharoh Cooper,23,WR,2,0,6,67,0,45,11.2,0,0,0,0,,67,2018
+5,29,Cardinals,Chase Edmonds,22,RB,16,0,0,0,0,0,,3,48,0,18,16.0,359,2018

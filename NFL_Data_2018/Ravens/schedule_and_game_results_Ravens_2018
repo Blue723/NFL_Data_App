@@ -1,20 +1,20 @@
-,Week,Team,Day,Date,Time,Win/Loss,Overtime,Team Record,Home/Away,Opponent,Points Scored,Points Allowed,Offense 1st Down,Total Yards Gained of Offense,Total yards Gained by Passing,Total Yards Gained by Rushing,Offense Turnovers,Defense 1st Down,Total Yards Allowed by Defense,Total Passing Yards Allowed by Defense,Total Rushing Yards Allowed by Defense,Defense Turnovers,Offense,Defense,Sp. Tms
-1,1,Ravens,Sun,September 9,1:00PM ET,W,n/a,1-0,home,Buffalo Bills,47,3,26,369,252,117,1,10,153,70,83,2,7.23,28.71,2.33
-2,2,Ravens,Thu,September 13,8:20PM ET,L,n/a,1-1,away,Cincinnati Bengals,23,34,28,425,359,66,3,24,373,265,108,n/a,2.72,-12.80,1.12
-3,3,Ravens,Sun,September 23,1:00PM ET,W,n/a,2-1,home,Denver Broncos,27,14,20,342,265,77,n/a,18,293,173,120,1,8.96,7.96,-5.82
-4,4,Ravens,Sun,September 30,8:20PM ET,W,n/a,3-1,away,Pittsburgh Steelers,26,14,24,451,355,96,1,14,284,265,19,2,7.71,10.05,-2.06
-5,5,Ravens,Sun,October 7,1:00PM ET,L,OT,3-2,away,Cleveland Browns,9,12,25,410,294,116,2,20,416,304,112,1,-11.13,7.48,2.05
-6,6,Ravens,Sun,October 14,4:25PM ET,W,n/a,4-2,away,Tennessee Titans,21,0,23,361,238,123,1,7,106,51,55,n/a,12.84,15.17,-2.21
-7,7,Ravens,Sun,October 21,4:05PM ET,L,n/a,4-3,home,New Orleans Saints,23,24,25,351,274,77,n/a,26,339,205,134,1,16.64,-12.99,-7.63
-8,8,Ravens,Sun,October 28,1:00PM ET,L,n/a,4-4,away,Carolina Panthers,21,36,20,325,224,101,3,22,386,232,154,n/a,1.24,-18.22,7.88
-9,9,Ravens,Sun,November 4,1:00PM ET,L,n/a,4-5,home,Pittsburgh Steelers,16,23,18,265,204,61,n/a,27,395,282,113,n/a,7.37,-17.75,4.01
-10,10,Ravens,n/a,n/a,n/a,n/a,n/a,n/a,home,<strong>Bye Week</strong>,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
-11,11,Ravens,Sun,November 18,1:00PM ET,W,n/a,5-5,home,Cincinnati Bengals,24,21,23,403,136,267,1,15,255,207,48,n/a,2.66,0.01,-5.08
-12,12,Ravens,Sun,November 25,1:00PM ET,W,n/a,6-5,home,Oakland Raiders,34,17,23,416,174,242,2,13,249,182,67,1,11.19,8.83,2.03
-13,13,Ravens,Sun,December 2,1:00PM ET,W,n/a,7-5,away,Atlanta Falcons,26,16,25,366,159,207,1,16,131,97,34,1,-1.63,13.31,-1.11
-14,14,Ravens,Sun,December 9,1:00PM ET,L,OT,7-6,away,Kansas City Chiefs,24,27,24,321,127,194,1,30,442,348,94,1,4.92,-17.44,9.52
-15,15,Ravens,Sun,December 16,1:00PM ET,W,n/a,8-6,home,Tampa Bay Buccaneers,20,12,24,370,128,242,2,12,241,156,85,1,6.86,6.00,-2.23
-16,16,Ravens,Sat,December 22,8:20PM ET,W,n/a,9-6,away,Los Angeles Chargers,22,10,15,361,202,159,1,14,198,147,51,3,-3.87,21.26,-1.70
-17,17,Ravens,Sun,December 30,4:25PM ET,W,n/a,10-6,home,Cleveland Browns,26,24,24,463,167,296,1,18,426,376,50,3,7.31,-9.49,2.95
-n/a,n/a,Ravens,n/a,<strong>Playoffs</strong>,n/a,n/a,n/a,n/a,home,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
-Wild Card,Wild Card,Ravens,Sun,January 6,1:05PM ET,L,n/a,10-7,home,Los Angeles Chargers,17,23,11,229,139,90,3,14,243,154,89,1,-14.46,9.17,2.32
+,Week,Team,Day,Date,Time,Win/Loss,Overtime,Team Record,Home/Away,Opponent,Points Scored,Points Allowed,Offense 1st Down,Total Yards Gained of Offense,Total yards Gained by Passing,Total Yards Gained by Rushing,Offense Turnovers,Defense 1st Down,Total Yards Allowed by Defense,Total Passing Yards Allowed by Defense,Total Rushing Yards Allowed by Defense,Defense Turnovers,Offense,Defense,Sp. Tms,Year
+0,0,Ravens,Sun,September 9,,W,0,1-0,home,Buffalo Bills,47,3,26,369,252,117,1,10,153,70,83,2,7.23,28.71,2.33,2018
+1,1,Ravens,Thu,September 13,,L,0,1-1,away,Cincinnati Bengals,23,34,28,425,359,66,3,24,373,265,108,0,2.72,-12.8,1.12,2018
+2,2,Ravens,Sun,September 23,,W,0,2-1,home,Denver Broncos,27,14,20,342,265,77,0,18,293,173,120,1,8.96,7.96,-5.82,2018
+3,3,Ravens,Sun,September 30,,W,0,3-1,away,Pittsburgh Steelers,26,14,24,451,355,96,1,14,284,265,19,2,7.71,10.05,-2.06,2018
+4,4,1,1,1,1.0,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1.0,1.0,1.0,1
+5,5,Ravens,Sun,October 14,,W,0,4-2,away,Tennessee Titans,21,0,23,361,238,123,1,7,106,51,55,0,12.84,15.17,-2.21,2018
+6,6,Ravens,Sun,October 21,,L,0,4-3,home,New Orleans Saints,23,24,25,351,274,77,0,26,339,205,134,1,16.64,-12.99,-7.63,2018
+7,7,Ravens,Sun,October 28,,L,0,4-4,away,Carolina Panthers,21,36,20,325,224,101,3,22,386,232,154,0,1.24,-18.22,7.88,2018
+8,8,Ravens,Sun,November 4,,L,0,4-5,home,Pittsburgh Steelers,16,23,18,265,204,61,0,27,395,282,113,0,7.37,-17.75,4.01,2018
+9,9,Ravens,,,,,0,,home,<strong>Bye Week</strong>,0,0,0,0,0,0,0,0,0,0,0,0,,,,2018
+10,10,Ravens,Sun,November 18,,W,0,5-5,home,Cincinnati Bengals,24,21,23,403,136,267,1,15,255,207,48,0,2.66,0.01,-5.08,2018
+11,11,Ravens,Sun,November 25,,W,0,6-5,home,Oakland Raiders,34,17,23,416,174,242,2,13,249,182,67,1,11.19,8.83,2.03,2018
+12,12,Ravens,Sun,December 2,,W,0,7-5,away,Atlanta Falcons,26,16,25,366,159,207,1,16,131,97,34,1,-1.63,13.31,-1.11,2018
+13,13,1,1,1,1.0,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1.0,1.0,1.0,1
+14,14,Ravens,Sun,December 16,,W,0,8-6,home,Tampa Bay Buccaneers,20,12,24,370,128,242,2,12,241,156,85,1,6.86,6.0,-2.23,2018
+15,15,Ravens,Sat,December 22,,W,0,9-6,away,Los Angeles Chargers,22,10,15,361,202,159,1,14,198,147,51,3,-3.87,21.26,-1.7,2018
+16,16,Ravens,Sun,December 30,,W,0,10-6,home,Cleveland Browns,26,24,24,463,167,296,1,18,426,376,50,3,7.31,-9.49,2.95,2018
+17,17,Ravens,,<strong>Playoffs</strong>,,,0,,home,,0,0,0,0,0,0,0,0,0,0,0,0,,,,2018
+18,18,Ravens,Sun,January 6,,L,0,10-7,home,Los Angeles Chargers,17,23,11,229,139,90,3,14,243,154,89,1,-14.46,9.17,2.32,2018

@@ -1,22 +1,22 @@
-,Week,Team,Day,Date,Time,Win/Loss,Overtime,Team Record,Home/Away,Opponent,Points Scored,Points Allowed,Offense 1st Down,Total Yards Gained of Offense,Total yards Gained by Passing,Total Yards Gained by Rushing,Offense Turnovers,Defense 1st Down,Total Yards Allowed by Defense,Total Passing Yards Allowed by Defense,Total Rushing Yards Allowed by Defense,Defense Turnovers,Offense,Defense,Sp. Tms
-1,1,Patriots,Sun,September 9,1:00PM ET,W,n/a,1-0,home,Houston Texans,27,20,23,389,267,122,3,21,325,158,167,2,4.29,8.05,-6.85
-2,2,Patriots,Sun,September 16,4:25PM ET,L,n/a,1-1,away,Jacksonville Jaguars,20,31,18,302,220,82,1,27,480,376,104,2,2.13,-18.76,4.44
-3,3,Patriots,Sun,September 23,8:20PM ET,L,n/a,1-2,away,Detroit Lions,10,26,12,209,120,89,1,25,414,255,159,1,-5.39,-13.69,2.81
-4,4,Patriots,Sun,September 30,1:00PM ET,W,n/a,2-2,home,Miami Dolphins,38,7,26,449,274,175,2,11,172,116,56,2,21.55,12.47,-6.26
-5,5,Patriots,Thu,October 4,8:20PM ET,W,n/a,3-2,home,Indianapolis Colts,38,24,26,438,341,97,2,26,439,355,84,3,13.90,-2.15,2.13
-6,6,Patriots,Sun,October 14,8:20PM ET,W,n/a,4-2,home,Kansas City Chiefs,43,40,31,500,327,173,1,18,446,352,94,2,21.54,-10.83,-8.17
-7,7,Patriots,Sun,October 21,1:00PM ET,W,n/a,5-2,away,Chicago Bears,38,31,21,381,273,108,3,29,453,319,134,2,9.37,-16.60,5.66
-8,8,Patriots,Mon,October 29,8:15PM ET,W,n/a,6-2,away,Buffalo Bills,25,6,22,387,311,76,n/a,16,333,287,46,2,3.65,20.65,-6.52
-9,9,Patriots,Sun,November 4,8:20PM ET,W,n/a,7-2,home,Green Bay Packers,31,17,28,433,310,123,n/a,22,367,250,117,1,17.14,-4.92,3.52
-10,10,Patriots,Sun,November 11,1:00PM ET,L,n/a,7-3,away,Tennessee Titans,10,34,16,284,244,40,n/a,23,385,235,150,n/a,-5.76,-14.31,-2.47
-11,11,Patriots,n/a,n/a,n/a,n/a,n/a,n/a,home,<strong>Bye Week</strong>,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
-12,12,Patriots,Sun,November 25,1:00PM ET,W,n/a,8-3,away,New York Jets,27,13,25,498,283,215,n/a,18,338,264,74,1,20.44,-1.72,-2.45
-13,13,Patriots,Sun,December 2,4:25PM ET,W,n/a,9-3,home,Minnesota Vikings,24,10,27,471,311,160,1,16,278,183,95,2,16.10,9.14,-4.16
-14,14,Patriots,Sun,December 9,1:00PM ET,L,n/a,9-4,away,Miami Dolphins,33,34,28,421,344,77,n/a,20,412,223,189,n/a,21.02,-19.73,-0.46
-15,15,Patriots,Sun,December 16,4:25PM ET,L,n/a,9-5,away,Pittsburgh Steelers,10,17,18,368,272,96,1,24,376,218,158,2,1.66,-10.75,3.18
-16,16,Patriots,Sun,December 23,1:00PM ET,W,n/a,10-5,home,Buffalo Bills,24,12,20,390,117,273,3,14,289,217,72,3,-6.39,16.90,2.11
-17,17,Patriots,Sun,December 30,1:00PM ET,W,n/a,11-5,home,New York Jets,38,3,24,375,244,131,n/a,12,239,135,104,3,12.41,29.00,-5.46
-n/a,n/a,Patriots,n/a,<strong>Playoffs</strong>,n/a,n/a,n/a,n/a,home,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
-Division,Division,Patriots,Sun,January 13,1:05PM ET,W,n/a,12-5,home,Los Angeles Chargers,41,28,30,498,343,155,n/a,22,335,316,19,2,24.01,-11.48,4.22
-Conf. Champ.,Conf. Champ.,Patriots,Sun,January 20,6:40PM ET,W,OT,13-5,away,Kansas City Chiefs,37,31,36,524,348,176,2,18,290,249,41,n/a,19.31,-14.41,1.94
-SuperBowl,SuperBowl,Patriots,Sun,February 3,6:30PM ET,W,n/a,14-5,home,Los Angeles Rams,13,3,22,407,253,154,1,14,260,198,62,1,2.46,11.82,-4.34
+,Week,Team,Day,Date,Time,Win/Loss,Overtime,Team Record,Home/Away,Opponent,Points Scored,Points Allowed,Offense 1st Down,Total Yards Gained of Offense,Total yards Gained by Passing,Total Yards Gained by Rushing,Offense Turnovers,Defense 1st Down,Total Yards Allowed by Defense,Total Passing Yards Allowed by Defense,Total Rushing Yards Allowed by Defense,Defense Turnovers,Offense,Defense,Sp. Tms,Year
+0,0,Patriots,Sun,September 9,,W,0,1-0,home,Houston Texans,27,20,23,389,267,122,3,21,325,158,167,2,4.29,8.05,-6.85,2018
+1,1,Patriots,Sun,September 16,,L,0,1-1,away,Jacksonville Jaguars,20,31,18,302,220,82,1,27,480,376,104,2,2.13,-18.76,4.44,2018
+2,2,Patriots,Sun,September 23,,L,0,1-2,away,Detroit Lions,10,26,12,209,120,89,1,25,414,255,159,1,-5.39,-13.69,2.81,2018
+3,3,Patriots,Sun,September 30,,W,0,2-2,home,Miami Dolphins,38,7,26,449,274,175,2,11,172,116,56,2,21.55,12.47,-6.26,2018
+4,4,Patriots,Thu,October 4,,W,0,3-2,home,Indianapolis Colts,38,24,26,438,341,97,2,26,439,355,84,3,13.9,-2.15,2.13,2018
+5,5,Patriots,Sun,October 14,,W,0,4-2,home,Kansas City Chiefs,43,40,31,500,327,173,1,18,446,352,94,2,21.54,-10.83,-8.17,2018
+6,6,Patriots,Sun,October 21,,W,0,5-2,away,Chicago Bears,38,31,21,381,273,108,3,29,453,319,134,2,9.37,-16.6,5.66,2018
+7,7,Patriots,Mon,October 29,,W,0,6-2,away,Buffalo Bills,25,6,22,387,311,76,0,16,333,287,46,2,3.65,20.65,-6.52,2018
+8,8,Patriots,Sun,November 4,,W,0,7-2,home,Green Bay Packers,31,17,28,433,310,123,0,22,367,250,117,1,17.14,-4.92,3.52,2018
+9,9,Patriots,Sun,November 11,,L,0,7-3,away,Tennessee Titans,10,34,16,284,244,40,0,23,385,235,150,0,-5.76,-14.31,-2.47,2018
+10,10,Patriots,,,,,0,,home,<strong>Bye Week</strong>,0,0,0,0,0,0,0,0,0,0,0,0,,,,2018
+11,11,Patriots,Sun,November 25,,W,0,8-3,away,New York Jets,27,13,25,498,283,215,0,18,338,264,74,1,20.44,-1.72,-2.45,2018
+12,12,Patriots,Sun,December 2,,W,0,9-3,home,Minnesota Vikings,24,10,27,471,311,160,1,16,278,183,95,2,16.1,9.14,-4.16,2018
+13,13,Patriots,Sun,December 9,,L,0,9-4,away,Miami Dolphins,33,34,28,421,344,77,0,20,412,223,189,0,21.02,-19.73,-0.46,2018
+14,14,Patriots,Sun,December 16,,L,0,9-5,away,Pittsburgh Steelers,10,17,18,368,272,96,1,24,376,218,158,2,1.66,-10.75,3.18,2018
+15,15,Patriots,Sun,December 23,,W,0,10-5,home,Buffalo Bills,24,12,20,390,117,273,3,14,289,217,72,3,-6.39,16.9,2.11,2018
+16,16,Patriots,Sun,December 30,,W,0,11-5,home,New York Jets,38,3,24,375,244,131,0,12,239,135,104,3,12.41,29.0,-5.46,2018
+17,17,Patriots,,<strong>Playoffs</strong>,,,0,,home,,0,0,0,0,0,0,0,0,0,0,0,0,,,,2018
+18,18,Patriots,Sun,January 13,,W,0,12-5,home,Los Angeles Chargers,41,28,30,498,343,155,0,22,335,316,19,2,24.01,-11.48,4.22,2018
+19,19,1,1,1,1.0,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1.0,1.0,1.0,1
+20,20,Patriots,Sun,February 3,,W,0,14-5,home,Los Angeles Rams,13,3,22,407,253,154,1,14,260,198,62,1,2.46,11.82,-4.34,2018

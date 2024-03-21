@@ -1,5 +1,5 @@
-,No.,Team,Player,Age,Position,Games Played,Games Started,Punts Returned,Punts Return Yardage,Punts Returned for Touchdown,Longest Punt Return,Yards per Punt Return,Kickoff Returns,Yardage for Kickoffs Returned,Kickoffs Returned for a Touchdown,Longest Kickoff Return,Yards per Kickoff Return,All-purpose Yards
-17,17,Falcons,Marvin Hall,25,WR,16,0,1,0,0,0,0.0,26,616,0,53,23.7,765
-14,14,Falcons,Justin Hardy,27,WR,16,0,20,147,0,18,7.4,2,7,0,7,3.5,287
-18,18,Falcons,Calvin Ridley,24,WR,16,5,n/a,n/a,0,n/a,n/a,2,50,0,32,25.0,898
-32,32,Falcons,Brian Hill,23,RB,10,0,n/a,n/a,0,n/a,n/a,1,16,0,16,16.0,182
+,No.,Team,Player,Age,Position,Games Played,Games Started,Punts Returned,Punts Return Yardage,Punts Returned for Touchdown,Longest Punt Return,Yards per Punt Return,Kickoff Returns,Yardage for Kickoffs Returned,Kickoffs Returned for a Touchdown,Longest Kickoff Return,Yards per Kickoff Return,All-purpose Yards,Year
+0,17,Falcons,Marvin Hall,25,WR,16,0,1,0,0,0,0.0,26,616,0,53,23.7,765,2018
+1,14,Falcons,Justin Hardy,27,WR,16,0,20,147,0,18,7.4,2,7,0,7,3.5,287,2018
+2,18,Falcons,Calvin Ridley,24,WR,16,5,0,0,0,0,,2,50,0,32,25.0,898,2018
+3,32,Falcons,Brian Hill,23,RB,10,0,0,0,0,0,,1,16,0,16,16.0,182,2018

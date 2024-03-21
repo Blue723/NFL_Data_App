@@ -1,15 +1,15 @@
-,No.,Team,Player,Age,Pos,Games Played,Games Started,Rush TD,Reception TD,Punt Return TD,Kick Return TD,Fumble Return TD,Interception TD,Other TD,All Touchdown Scored,2-Point Conversions Made,Two-Point Conversions Attempted,Defensive Two-Point Conversions,Extra Points Made,Extra Points Allowed,Field Goals Made,Field Goals Attempted,Safeties Scored by Player/Team,Total Points Scored by all Means,Poins per Game
-28,28,Chargers,Melvin Gordon,25,RB,12,12,10,4,n/a,n/a,n/a,n/a,n/a,14,2,n/a,n/a,n/a,n/a,n/a,n/a,n/a,88,7.3
-4,4,Chargers,Michael Badgley,23,K,10,0,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,27,28,15,16,n/a,72,7.2
-n/a,n/a,Chargers,Mike Williams,24,WR,16,5,1,10,n/a,n/a,n/a,n/a,n/a,11,1,n/a,n/a,n/a,n/a,n/a,n/a,n/a,68,4.3
-13,13,Chargers,Keenan Allen,26,WR,16,14,n/a,6,n/a,n/a,n/a,n/a,n/a,6,1,n/a,n/a,n/a,n/a,n/a,n/a,n/a,38,2.4
-n/a,n/a,Chargers,Austin Ekeler,23,RB,14,3,3,3,n/a,n/a,n/a,n/a,n/a,6,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,36,2.6
-6,6,Chargers,Caleb Sturgis,29,K,6,0,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,9,15,9,13,n/a,36,6.0
-16,16,Chargers,Tyrell Williams,26,WR,16,10,n/a,5,n/a,n/a,n/a,n/a,n/a,5,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,30,1.9
-85,85,Chargers,Antonio Gates,38,TE,16,1,n/a,2,n/a,n/a,n/a,n/a,n/a,2,2,n/a,n/a,n/a,n/a,n/a,n/a,n/a,16,1.0
-32,32,Chargers,Justin Jackson,22,RB,13,1,2,n/a,n/a,n/a,n/a,n/a,n/a,2,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,12,0.9
-n/a,n/a,Chargers,Desmond King,24,DB,16,8,n/a,n/a,1,n/a,n/a,1,n/a,2,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,12,0.8
-12,12,Chargers,Travis Benjamin,29,WR,12,3,n/a,1,n/a,n/a,n/a,n/a,n/a,1,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,6,0.5
-51,51,Chargers,Kyle Emanuel,27,RLB,16,7,n/a,n/a,n/a,n/a,1,n/a,n/a,1,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,6,0.4
-88,88,Chargers,Virgil Green,30,TE,16,16,n/a,1,n/a,n/a,n/a,n/a,n/a,1,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,6,0.4
-26,26,Chargers,Casey Hayward,29,RCB,16,16,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,1,n/a,n/a,n/a,n/a,n/a,2,0.1
+,No.,Team,Player,Age,Pos,Games Played,Games Started,Rush TD,Reception TD,Punt Return TD,Kick Return TD,Fumble Return TD,Interception TD,Other TD,All Touchdown Scored,2-Point Conversions Made,Two-Point Conversions Attempted,Defensive Two-Point Conversions,Extra Points Made,Extra Points Allowed,Field Goals Made,Field Goals Attempted,Safeties Scored by Player/Team,Total Points Scored by all Means,Poins per Game,Year
+0,28.0,Chargers,Melvin Gordon,25,RB,12,12,10,4,0,0,0,0,0,14,2,0,0,0,0,0,0,,88,7.3,2018
+1,4.0,Chargers,Michael Badgley,23,K,10,0,0,0,0,0,0,0,0,0,0,0,0,27,28,15,16,,72,7.2,2018
+2,,Chargers,Mike Williams,24,WR,16,5,1,10,0,0,0,0,0,11,1,0,0,0,0,0,0,,68,4.3,2018
+3,13.0,Chargers,Keenan Allen,26,WR,16,14,0,6,0,0,0,0,0,6,1,0,0,0,0,0,0,,38,2.4,2018
+4,,Chargers,Austin Ekeler,23,RB,14,3,3,3,0,0,0,0,0,6,0,0,0,0,0,0,0,,36,2.6,2018
+5,6.0,Chargers,Caleb Sturgis,29,K,6,0,0,0,0,0,0,0,0,0,0,0,0,9,15,9,13,,36,6.0,2018
+6,16.0,Chargers,Tyrell Williams,26,WR,16,10,0,5,0,0,0,0,0,5,0,0,0,0,0,0,0,,30,1.9,2018
+7,85.0,Chargers,Antonio Gates,38,TE,16,1,0,2,0,0,0,0,0,2,2,0,0,0,0,0,0,,16,1.0,2018
+8,32.0,Chargers,Justin Jackson,22,RB,13,1,2,0,0,0,0,0,0,2,0,0,0,0,0,0,0,,12,0.9,2018
+9,,Chargers,Desmond King,24,DB,16,8,0,0,1,0,0,1,0,2,0,0,0,0,0,0,0,,12,0.8,2018
+10,12.0,Chargers,Travis Benjamin,29,WR,12,3,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,,6,0.5,2018
+11,51.0,Chargers,Kyle Emanuel,27,RLB,16,7,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,,6,0.4,2018
+12,88.0,Chargers,Virgil Green,30,TE,16,16,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,,6,0.4,2018
+13,26.0,Chargers,Casey Hayward,29,RCB,16,16,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,,2,0.1,2018

@@ -1,4 +1,4 @@
-,No.,Team,Player,Age,Position,Games Played,Games Started,FGA 0-19,FGM 0-19,FGA 20-29,FGM 20-29,FGA 30-39,FGM 30-39,FGA 40-49,FGM 40-49,FGA 50+,FGM 50+,Field Goals Attempted,Field Goals Made,Longest Field Goal Made,% of Field Goals Made,Extra Points Attempted,Extra Points Made,Extra Point Percentage,Kickoffs,Kickoff Yards,Kickoff Touchbacks,% Kickoff was a Touchback,Kickoff Average Yardage
-3,3,Falcons,Matt Bryant,43,K,13,0,n/a,n/a,4,4,5,5,7,7,5,4,21,20,57,95.2%,35,33,94.3%,n/a,n/a,n/a,n/a,n/a
-4,4,Falcons,Giorgio Tavecchio,28,K,3,0,n/a,n/a,1,1,n/a,n/a,2,2,2,2,5,5,56,100.0%,8,8,100.0%,n/a,n/a,n/a,n/a,n/a
-5,5,Falcons,Matthew Bosher,31,K,16,0,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,89,5578,51,57.3%,62.7
+,No.,Team,Player,Age,Position,Games Played,Games Started,FGA 0-19,FGM 0-19,FGA 20-29,FGM 20-29,FGA 30-39,FGM 30-39,FGA 40-49,FGM 40-49,FGA 50+,FGM 50+,Field Goals Attempted,Field Goals Made,Longest Field Goal Made,Per. of Field Goals Made,Extra Points Attempted,Extra Points Made,Extra Point Per.,Kickoffs,Kickoff Yards,Kickoff Touchbacks,Per. Kickoff was a Touchback,Kickoff Average Yardage,Year
+0,3,Falcons,Matt Bryant,43,K,13,0,0,0,4,4,5,5,7,7,5,4,21,20,57,95.2,35,33,94.3,0,0,0,0.0,0.0,2018
+1,4,Falcons,Giorgio Tavecchio,28,K,3,0,0,0,1,1,0,0,2,2,2,2,5,5,56,100.0,8,8,100.0,0,0,0,0.0,0.0,2018
+2,5,Falcons,Matthew Bosher,31,K,16,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0.0,89,5578,51,57.3,62.7,2018

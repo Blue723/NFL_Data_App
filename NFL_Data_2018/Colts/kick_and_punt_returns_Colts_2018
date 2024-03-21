@@ -1,6 +1,6 @@
-,No.,Team,Player,Age,Position,Games Played,Games Started,Punts Returned,Punts Return Yardage,Punts Returned for Touchdown,Longest Punt Return,Yards per Punt Return,Kickoff Returns,Yardage for Kickoffs Returned,Kickoffs Returned for a Touchdown,Longest Kickoff Return,Yards per Kickoff Return,All-purpose Yards
-80,80,Colts,Chester Rogers,24,WR,16,10,23,215,0,51,9.3,1,10,0,10,10.0,706
-14,14,Colts,Zach Pascal,24,WR,16,4,n/a,n/a,0,n/a,n/a,14,297,0,29,21.2,575
-13,13,Colts,T.Y. Hilton,29,WR,14,14,1,2,0,2,2.0,n/a,n/a,0,n/a,n/a,1272
-16,16,Colts,Marcus Johnson,24,WR,5,0,n/a,n/a,0,n/a,n/a,1,23,0,23,23.0,123
-20,20,Colts,Jordan Wilkins,24,RB,16,3,n/a,n/a,0,n/a,n/a,1,7,0,7,7.0,428
+,No.,Team,Player,Age,Position,Games Played,Games Started,Punts Returned,Punts Return Yardage,Punts Returned for Touchdown,Longest Punt Return,Yards per Punt Return,Kickoff Returns,Yardage for Kickoffs Returned,Kickoffs Returned for a Touchdown,Longest Kickoff Return,Yards per Kickoff Return,All-purpose Yards,Year
+0,80,Colts,Chester Rogers,24,WR,16,10,23,215,0,51,9.3,1,10,0,10,10.0,706,2018
+1,14,Colts,Zach Pascal,24,WR,16,4,0,0,0,0,,14,297,0,29,21.2,575,2018
+2,13,Colts,T.Y. Hilton,29,WR,14,14,1,2,0,2,2.0,0,0,0,0,,1272,2018
+3,16,Colts,Marcus Johnson,24,WR,5,0,0,0,0,0,,1,23,0,23,23.0,123,2018
+4,20,Colts,Jordan Wilkins,24,RB,16,3,0,0,0,0,,1,7,0,7,7.0,428,2018

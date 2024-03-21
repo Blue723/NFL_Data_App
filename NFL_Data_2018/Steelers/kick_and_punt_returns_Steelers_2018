@@ -1,4 +1,4 @@
-,No.,Team,Player,Age,Position,Games Played,Games Started,Punts Returned,Punts Return Yardage,Punts Returned for Touchdown,Longest Punt Return,Yards per Punt Return,Kickoff Returns,Yardage for Kickoffs Returned,Kickoffs Returned for a Touchdown,Longest Kickoff Return,Yards per Kickoff Return,All-purpose Yards
-10,10,Steelers,Ryan Switzer,24,WR,16,1,30,252,0,23,8.4,30,607,0,35,20.2,1133
-38,38,Steelers,Jaylen Samuels,22,RB,14,3,1,0,0,0,0.0,1,0,0,0,0.0,455
-45,45,Steelers,Roosevelt Nix,26,RB,16,0,n/a,n/a,0,n/a,n/a,1,12,0,12,12.0,54
+,No.,Team,Player,Age,Position,Games Played,Games Started,Punts Returned,Punts Return Yardage,Punts Returned for Touchdown,Longest Punt Return,Yards per Punt Return,Kickoff Returns,Yardage for Kickoffs Returned,Kickoffs Returned for a Touchdown,Longest Kickoff Return,Yards per Kickoff Return,All-purpose Yards,Year
+0,10,Steelers,Ryan Switzer,24,WR,16,1,30,252,0,23,8.4,30,607,0,35,20.2,1133,2018
+1,38,Steelers,Jaylen Samuels,22,RB,14,3,1,0,0,0,0.0,1,0,0,0,0.0,455,2018
+2,45,Steelers,Roosevelt Nix,26,RB,16,0,0,0,0,0,,1,12,0,12,12.0,54,2018

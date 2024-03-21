@@ -1,8 +1,8 @@
-,No.,Team,Player,Age,Position,Games Played,Games Started,Punts Returned,Punts Return Yardage,Punts Returned for Touchdown,Longest Punt Return,Yards per Punt Return,Kickoff Returns,Yardage for Kickoffs Returned,Kickoffs Returned for a Touchdown,Longest Kickoff Return,Yards per Kickoff Return,All-purpose Yards
-22,22,Browns,Jabrill Peppers,23,FS,16,16,25,219,0,33,8.8,19,408,0,29,21.5,643
-11,11,Browns,Antonio Callaway,21,WR,16,11,5,61,0,37,12.2,8,143,0,35,17.9,797
-25,25,Browns,Dontrell Hilliard,23,RB,11,0,n/a,n/a,0,n/a,n/a,11,264,0,31,24.0,369
-80,80,Browns,Jarvis Landry,26,WR,16,14,2,10,0,8,5.0,2,22,0,14,11.0,1068
-38,38,Browns,T.J. Carrie,28,RCB,16,8,n/a,n/a,0,n/a,n/a,2,33,0,19,16.5,33
-82,82,Browns,Orson Charles,27,TE,13,2,n/a,n/a,0,n/a,n/a,1,12,0,12,12.0,35
-54,54,Browns,Tanner Vallejo,24,LB,13,1,n/a,n/a,0,n/a,n/a,1,2,0,2,2.0,2
+,No.,Team,Player,Age,Position,Games Played,Games Started,Punts Returned,Punts Return Yardage,Punts Returned for Touchdown,Longest Punt Return,Yards per Punt Return,Kickoff Returns,Yardage for Kickoffs Returned,Kickoffs Returned for a Touchdown,Longest Kickoff Return,Yards per Kickoff Return,All-purpose Yards,Year
+0,22,Browns,Jabrill Peppers,23,FS,16,16,25,219,0,33,8.8,19,408,0,29,21.5,643,2018
+1,11,Browns,Antonio Callaway,21,WR,16,11,5,61,0,37,12.2,8,143,0,35,17.9,797,2018
+2,25,Browns,Dontrell Hilliard,23,RB,11,0,0,0,0,0,,11,264,0,31,24.0,369,2018
+3,80,Browns,Jarvis Landry,26,WR,16,14,2,10,0,8,5.0,2,22,0,14,11.0,1068,2018
+4,38,Browns,T.J. Carrie,28,RCB,16,8,0,0,0,0,,2,33,0,19,16.5,33,2018
+5,82,Browns,Orson Charles,27,TE,13,2,0,0,0,0,,1,12,0,12,12.0,35,2018
+6,54,Browns,Tanner Vallejo,24,LB,13,1,0,0,0,0,,1,2,0,2,2.0,2,2018

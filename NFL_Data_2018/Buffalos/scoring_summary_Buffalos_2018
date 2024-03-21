@@ -1,12 +1,12 @@
-,No.,Team,Player,Age,Pos,Games Played,Games Started,Rush TD,Reception TD,Punt Return TD,Kick Return TD,Fumble Return TD,Interception TD,Other TD,All Touchdown Scored,2-Point Conversions Made,Two-Point Conversions Attempted,Defensive Two-Point Conversions,Extra Points Made,Extra Points Allowed,Field Goals Made,Field Goals Attempted,Safeties Scored by Player/Team,Total Points Scored by all Means,Poins per Game
-4,4,Buffalos,Stephen Hauschka,33,K,16,0,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,25,26,22,28,n/a,91,5.7
-17,17,Buffalos,Josh Allen,22,QB,12,11,8,n/a,n/a,n/a,n/a,n/a,n/a,8,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,48,4.0
-11,11,Buffalos,Zay Jones,23,WR,16,15,n/a,7,n/a,n/a,n/a,n/a,n/a,7,1,n/a,n/a,n/a,n/a,n/a,n/a,n/a,44,2.8
-16,16,Buffalos,Robert Foster,24,WR,13,3,n/a,3,n/a,n/a,n/a,n/a,n/a,3,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,18,1.4
-25,25,Buffalos,LeSean McCoy,30,RB,14,13,3,n/a,n/a,n/a,n/a,n/a,n/a,3,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,18,1.3
-80,80,Buffalos,Jason Croom,24,TE,15,3,n/a,1,n/a,n/a,1,n/a,n/a,2,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,12,0.8
-19,19,Buffalos,Isaiah McKenzie,23,WR,7,1,2,n/a,n/a,n/a,n/a,n/a,n/a,2,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,12,1.7
-13,13,Buffalos,Kelvin Benjamin,27,WR,12,10,n/a,1,n/a,n/a,n/a,n/a,n/a,1,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,6,0.5
-73,73,Buffalos,Dion Dawkins,24,LT,16,16,n/a,1,n/a,n/a,n/a,n/a,n/a,1,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,6,0.4
-33,33,Buffalos,Chris Ivory,30,RB,13,1,1,n/a,n/a,n/a,n/a,n/a,n/a,1,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,6,0.5
-2,2,Buffalos,Nathan Peterman,24,QB,4,2,1,n/a,n/a,n/a,n/a,n/a,n/a,1,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,6,1.5
+,No.,Team,Player,Age,Pos,Games Played,Games Started,Rush TD,Reception TD,Punt Return TD,Kick Return TD,Fumble Return TD,Interception TD,Other TD,All Touchdown Scored,2-Point Conversions Made,Two-Point Conversions Attempted,Defensive Two-Point Conversions,Extra Points Made,Extra Points Allowed,Field Goals Made,Field Goals Attempted,Safeties Scored by Player/Team,Total Points Scored by all Means,Poins per Game,Year
+0,4,Buffalos,Stephen Hauschka,33,K,16,0,0,0,0,0,0,0,0,0,0,0,0,25,26,22,28,,91,5.7,2018
+1,17,Buffalos,Josh Allen,22,QB,12,11,8,0,0,0,0,0,0,8,0,0,0,0,0,0,0,,48,4.0,2018
+2,11,Buffalos,Zay Jones,23,WR,16,15,0,7,0,0,0,0,0,7,1,0,0,0,0,0,0,,44,2.8,2018
+3,16,Buffalos,Robert Foster,24,WR,13,3,0,3,0,0,0,0,0,3,0,0,0,0,0,0,0,,18,1.4,2018
+4,25,Buffalos,LeSean McCoy,30,RB,14,13,3,0,0,0,0,0,0,3,0,0,0,0,0,0,0,,18,1.3,2018
+5,80,Buffalos,Jason Croom,24,TE,15,3,0,1,0,0,1,0,0,2,0,0,0,0,0,0,0,,12,0.8,2018
+6,19,Buffalos,Isaiah McKenzie,23,WR,7,1,2,0,0,0,0,0,0,2,0,0,0,0,0,0,0,,12,1.7,2018
+7,13,Buffalos,Kelvin Benjamin,27,WR,12,10,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,,6,0.5,2018
+8,73,Buffalos,Dion Dawkins,24,LT,16,16,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,,6,0.4,2018
+9,33,Buffalos,Chris Ivory,30,RB,13,1,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,,6,0.5,2018
+10,2,Buffalos,Nathan Peterman,24,QB,4,2,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,,6,1.5,2018

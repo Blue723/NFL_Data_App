@@ -1,6 +1,6 @@
-,No.,Team,Player,Age,Position,Games Played,Games Started,Punts Returned,Punts Return Yardage,Punts Returned for Touchdown,Longest Punt Return,Yards per Punt Return,Kickoff Returns,Yardage for Kickoffs Returned,Kickoffs Returned for a Touchdown,Longest Kickoff Return,Yards per Kickoff Return,All-purpose Yards
-n/a,n/a,Chargers,Desmond King,24,DB,16,8,23,318,1,73,13.8,22,522,0,40,23.7,915
-89,89,Chargers,JJ Jones,26,WR,3,0,5,24,0,11,4.8,3,69,0,33,23.0,93
-12,12,Chargers,Travis Benjamin,29,WR,12,3,5,16,0,8,3.2,1,17,0,17,17.0,260
-13,13,Chargers,Keenan Allen,26,WR,16,14,1,0,0,0,0.0,1,25,0,25,25.0,1277
-33,33,Chargers,Derwin James,22,FS,16,16,n/a,n/a,0,n/a,n/a,1,20,0,20,20.0,50
+,No.,Team,Player,Age,Position,Games Played,Games Started,Punts Returned,Punts Return Yardage,Punts Returned for Touchdown,Longest Punt Return,Yards per Punt Return,Kickoff Returns,Yardage for Kickoffs Returned,Kickoffs Returned for a Touchdown,Longest Kickoff Return,Yards per Kickoff Return,All-purpose Yards,Year
+0,,Chargers,Desmond King,24,DB,16,8,23,318,1,73,13.8,22,522,0,40,23.7,915,2018
+1,89.0,Chargers,JJ Jones,26,WR,3,0,5,24,0,11,4.8,3,69,0,33,23.0,93,2018
+2,12.0,Chargers,Travis Benjamin,29,WR,12,3,5,16,0,8,3.2,1,17,0,17,17.0,260,2018
+3,13.0,Chargers,Keenan Allen,26,WR,16,14,1,0,0,0,0.0,1,25,0,25,25.0,1277,2018
+4,33.0,Chargers,Derwin James,22,FS,16,16,0,0,0,0,,1,20,0,20,20.0,50,2018
