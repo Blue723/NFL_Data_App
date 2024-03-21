@@ -1,5 +1,5 @@
-,No.,Team,Player,Age,Position,Games Played,Games Started,Punts Returned,Punts Return Yardage,Punts Returned for Touchdown,Longest Punt Return,Yards per Punt Return,Kickoff Returns,Yardage for Kickoffs Returned,Kickoffs Returned for a Touchdown,Longest Kickoff Return,Yards per Kickoff Return,All-purpose Yards
-11,11,Bengals,Trent Taylor,28,WR,16,1,33,340,0,27,10.3,2,15,0,9,7.5,432
-32,32,Bengals,Trayveon Williams,25,RB,8,0,n/a,n/a,0,n/a,n/a,16,356,0,42,22.3,432
-25,25,Bengals,Chris Evans,25,RB,12,0,n/a,n/a,0,n/a,n/a,10,211,0,29,21.1,249
-86,86,Bengals,Devin Asiasi,25,TE,12,0,n/a,n/a,0,n/a,n/a,1,14,0,14,14.0,19
+,No.,Team,Player,Age,Position,Games Played,Games Started,Punts Returned,Punts Return Yardage,Punts Returned for Touchdown,Longest Punt Return,Yards per Punt Return,Kickoff Returns,Yardage for Kickoffs Returned,Kickoffs Returned for a Touchdown,Longest Kickoff Return,Yards per Kickoff Return,All-purpose Yards,Year
+0,11,Bengals,Trent Taylor,28,WR,16,1,33,340,0,27,10.3,2,15,0,9,7.5,432,2022
+1,32,Bengals,Trayveon Williams,25,RB,8,0,0,0,0,0,,16,356,0,42,22.3,432,2022
+2,25,Bengals,Chris Evans,25,RB,12,0,0,0,0,0,,10,211,0,29,21.1,249,2022
+3,86,Bengals,Devin Asiasi,25,TE,12,0,0,0,0,0,,1,14,0,14,14.0,19,2022

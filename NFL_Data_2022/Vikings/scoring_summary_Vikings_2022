@@ -1,16 +1,16 @@
-,No.,Team,Player,Age,Pos,Games Played,Games Started,Rush TD,Reception TD,Punt Return TD,Kick Return TD,Fumble Return TD,Interception TD,Other TD,All Touchdown Scored,2-Point Conversions Made,Two-Point Conversions Attempted,Defensive Two-Point Conversions,Extra Points Made,Extra Points Allowed,Field Goals Made,Field Goals Attempted,Safeties Scored by Player/Team,Total Points Scored by all Means,Poins per Game
-1,1,Vikings,Greg Joseph,28,K,17,0,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,0,40,46,26,33,n/a,118,6.9
-4,4,Vikings,Dalvin Cook,27,RB,17,17,8,2,n/a,n/a,n/a,n/a,n/a,10,n/a,n/a,0,n/a,n/a,n/a,n/a,n/a,60,3.5
-18,18,Vikings,Justin Jefferson,23,WR,17,17,1,8,n/a,n/a,n/a,n/a,n/a,9,1,n/a,0,n/a,n/a,n/a,n/a,n/a,56,3.3
-19,19,Vikings,Adam Thielen,32,WR,17,17,n/a,6,n/a,n/a,n/a,n/a,n/a,6,1,n/a,0,n/a,n/a,n/a,n/a,n/a,38,2.2
-2,2,Vikings,Alexander Mattison,24,RB,17,0,5,1,n/a,n/a,n/a,n/a,n/a,6,n/a,n/a,0,n/a,n/a,n/a,n/a,n/a,36,2.1
-17,17,Vikings,K.J. Osborn,25,WR,17,9,n/a,5,n/a,n/a,n/a,n/a,n/a,5,n/a,n/a,0,n/a,n/a,n/a,n/a,n/a,30,1.8
-87,87,Vikings,T.J. Hockenson,25,TE,10,7,n/a,3,n/a,n/a,n/a,n/a,n/a,3,1,n/a,0,n/a,n/a,n/a,n/a,n/a,20,2.0
-8,8,Vikings,Kirk Cousins,34,QB,17,17,2,n/a,n/a,n/a,n/a,n/a,n/a,2,n/a,n/a,0,n/a,n/a,n/a,n/a,n/a,12,0.7
-30,30,Vikings,C.J. Ham,29,FB,17,4,2,n/a,n/a,n/a,n/a,n/a,n/a,2,n/a,n/a,0,n/a,n/a,n/a,n/a,n/a,12,0.7
-84,84,Vikings,Irv Smith Jr.,24,TE,8,1,n/a,2,n/a,n/a,n/a,n/a,n/a,2,n/a,n/a,0,n/a,n/a,n/a,n/a,n/a,12,1.5
-54,54,Vikings,Eric Kendricks,30,LB,17,17,n/a,n/a,n/a,n/a,1,n/a,n/a,1,n/a,n/a,0,n/a,n/a,n/a,n/a,n/a,6,0.4
-86,86,Vikings,Johnny Mundt,28,TE,17,12,n/a,1,n/a,n/a,n/a,n/a,n/a,1,n/a,n/a,0,n/a,n/a,n/a,n/a,n/a,6,0.4
-83,83,Vikings,Jalen Nailor,23,WR,15,0,n/a,1,n/a,n/a,n/a,n/a,n/a,1,n/a,n/a,0,n/a,n/a,n/a,n/a,n/a,6,0.4
-26,26,Vikings,Kene Nwangwu,24,RB,17,0,n/a,n/a,n/a,1,n/a,n/a,n/a,1,n/a,n/a,0,n/a,n/a,n/a,n/a,n/a,6,0.4
-5,5,Vikings,Jalen Reagor,23,WR,17,0,n/a,1,n/a,n/a,n/a,n/a,n/a,1,n/a,n/a,0,n/a,n/a,n/a,n/a,n/a,6,0.4
+,No.,Team,Player,Age,Pos,Games Played,Games Started,Rush TD,Reception TD,Punt Return TD,Kick Return TD,Fumble Return TD,Interception TD,Other TD,All Touchdown Scored,2-Point Conversions Made,Two-Point Conversions Attempted,Defensive Two-Point Conversions,Extra Points Made,Extra Points Allowed,Field Goals Made,Field Goals Attempted,Safeties Scored by Player/Team,Total Points Scored by all Means,Poins per Game,Year
+0,1,Vikings,Greg Joseph,28,K,17,0,0,0,0,0,0,0,0,0,0,0,0,40,46,26,33,,118,6.9,2022
+1,4,Vikings,Dalvin Cook,27,RB,17,17,8,2,0,0,0,0,0,10,0,0,0,0,0,0,0,,60,3.5,2022
+2,18,Vikings,Justin Jefferson,23,WR,17,17,1,8,0,0,0,0,0,9,1,0,0,0,0,0,0,,56,3.3,2022
+3,19,Vikings,Adam Thielen,32,WR,17,17,0,6,0,0,0,0,0,6,1,0,0,0,0,0,0,,38,2.2,2022
+4,2,Vikings,Alexander Mattison,24,RB,17,0,5,1,0,0,0,0,0,6,0,0,0,0,0,0,0,,36,2.1,2022
+5,17,Vikings,K.J. Osborn,25,WR,17,9,0,5,0,0,0,0,0,5,0,0,0,0,0,0,0,,30,1.8,2022
+6,87,Vikings,T.J. Hockenson,25,TE,10,7,0,3,0,0,0,0,0,3,1,0,0,0,0,0,0,,20,2.0,2022
+7,8,Vikings,Kirk Cousins,34,QB,17,17,2,0,0,0,0,0,0,2,0,0,0,0,0,0,0,,12,0.7,2022
+8,30,Vikings,C.J. Ham,29,FB,17,4,2,0,0,0,0,0,0,2,0,0,0,0,0,0,0,,12,0.7,2022
+9,84,Vikings,Irv Smith Jr.,24,TE,8,1,0,2,0,0,0,0,0,2,0,0,0,0,0,0,0,,12,1.5,2022
+10,54,Vikings,Eric Kendricks,30,LB,17,17,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,,6,0.4,2022
+11,86,Vikings,Johnny Mundt,28,TE,17,12,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,,6,0.4,2022
+12,83,Vikings,Jalen Nailor,23,WR,15,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,,6,0.4,2022
+13,26,Vikings,Kene Nwangwu,24,RB,17,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,,6,0.4,2022
+14,5,Vikings,Jalen Reagor,23,WR,17,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,,6,0.4,2022

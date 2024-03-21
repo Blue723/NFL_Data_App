@@ -1,19 +1,19 @@
-,Week,Team,Day,Date,Time,Win/Loss,Overtime,Team Record,Home/Away,Opponent,Points Scored,Points Allowed,Offense 1st Down,Total Yards Gained of Offense,Total yards Gained by Passing,Total Yards Gained by Rushing,Offense Turnovers,Defense 1st Down,Total Yards Allowed by Defense,Total Passing Yards Allowed by Defense,Total Rushing Yards Allowed by Defense,Defense Turnovers,Offense,Defense,Sp. Tms
-1,1,Saints,Sun,September 11,1:00PM ET,W,n/a,1-0,away,Atlanta Falcons,27,26,18,385,234,151,1,26,416,215,201,2,4.62,-7.50,-0.51
-2,2,Saints,Sun,September 18,1:00PM ET,L,n/a,1-1,home,Tampa Bay Buccaneers,10,20,18,308,208,100,5,13,260,188,72,1,-18.41,9.20,-2.71
-3,3,Saints,Sun,September 25,1:00PM ET,L,n/a,1-2,away,Carolina Panthers,14,22,19,426,342,84,3,12,293,148,145,n/a,-4.57,9.01,-11.38
-4,4,Saints,Sun,October 2,9:30AM ET,L,n/a,1-3,home,Minnesota Vikings,25,28,19,338,227,111,2,23,344,263,81,1,7.36,-6.41,-2.69
-5,5,Saints,Sun,October 9,1:00PM ET,W,n/a,2-3,home,Seattle Seahawks,39,32,26,438,203,235,2,15,396,245,151,1,15.05,-4.57,-0.32
-6,6,Saints,Sun,October 16,1:00PM ET,L,n/a,2-4,home,Cincinnati Bengals,26,30,22,399,171,228,n/a,21,348,273,75,1,9.06,-17.18,2.40
-7,7,Saints,Thu,October 20,8:15PM ET,L,n/a,2-5,away,Arizona Cardinals,34,42,25,494,409,85,3,21,326,189,137,n/a,5.93,-13.74,-1.75
-8,8,Saints,Sun,October 30,1:00PM ET,W,n/a,3-5,home,Las Vegas Raiders,24,0,22,367,231,136,n/a,13,183,145,38,1,16.76,8.49,-6.72
-9,9,Saints,Mon,November 7,8:15PM ET,L,n/a,3-6,home,Baltimore Ravens,13,27,13,243,195,48,1,23,319,131,188,n/a,-3.99,-11.91,1.60
-10,10,Saints,Sun,November 13,1:00PM ET,L,n/a,3-7,away,Pittsburgh Steelers,10,20,10,186,157,29,2,28,379,162,217,n/a,-10.60,-13.42,11.01
-11,11,Saints,Sun,November 20,1:00PM ET,W,n/a,4-7,home,Los Angeles Rams,27,20,19,323,235,88,n/a,17,336,188,148,n/a,8.99,-3.06,2.98
-12,12,Saints,Sun,November 27,4:25PM ET,L,n/a,4-8,away,San Francisco 49ers,0,13,14,260,197,63,2,21,317,221,96,n/a,-8.15,-2.05,-2.22
-13,13,Saints,Mon,December 5,8:15PM ET,L,n/a,4-9,away,Tampa Bay Buccaneers,16,17,14,298,232,66,n/a,25,350,274,76,2,-0.04,-2.62,2.46
-14,14,Saints,n/a,n/a,n/a,n/a,n/a,n/a,home,<strong>Bye Week</strong>,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
-15,15,Saints,Sun,December 18,1:00PM ET,W,n/a,5-9,home,Atlanta Falcons,21,18,17,348,214,134,1,21,320,89,231,1,6.38,-8.41,1.86
-16,16,Saints,Sat,December 24,1:00PM ET,W,n/a,6-9,away,Cleveland Browns,17,10,14,244,92,152,1,15,249,125,124,1,-4.01,12.78,-2.04
-17,17,Saints,Sun,January 1,1:00PM ET,W,n/a,7-9,away,Philadelphia Eagles,20,10,19,313,184,129,1,11,313,246,67,1,-2.95,12.38,0.32
-18,18,Saints,Sun,January 8,1:00PM ET,L,n/a,7-10,home,Carolina Panthers,7,10,16,304,161,143,1,14,203,32,171,2,-4.13,8.41,-7.85
+,Week,Team,Day,Date,Time,Win/Loss,Overtime,Team Record,Home/Away,Opponent,Points Scored,Points Allowed,Offense 1st Down,Total Yards Gained of Offense,Total yards Gained by Passing,Total Yards Gained by Rushing,Offense Turnovers,Defense 1st Down,Total Yards Allowed by Defense,Total Passing Yards Allowed by Defense,Total Rushing Yards Allowed by Defense,Defense Turnovers,Offense,Defense,Sp. Tms,Year
+0,0,Saints,Sun,September 11,,W,0,1-0,away,Atlanta Falcons,27,26,18,385,234,151,1,26,416,215,201,2,4.62,-7.5,-0.51,2022
+1,1,Saints,Sun,September 18,,L,0,1-1,home,Tampa Bay Buccaneers,10,20,18,308,208,100,5,13,260,188,72,1,-18.41,9.2,-2.71,2022
+2,2,Saints,Sun,September 25,,L,0,1-2,away,Carolina Panthers,14,22,19,426,342,84,3,12,293,148,145,0,-4.57,9.01,-11.38,2022
+3,3,Saints,Sun,October 2,,L,0,1-3,home,Minnesota Vikings,25,28,19,338,227,111,2,23,344,263,81,1,7.36,-6.41,-2.69,2022
+4,4,Saints,Sun,October 9,,W,0,2-3,home,Seattle Seahawks,39,32,26,438,203,235,2,15,396,245,151,1,15.05,-4.57,-0.32,2022
+5,5,Saints,Sun,October 16,,L,0,2-4,home,Cincinnati Bengals,26,30,22,399,171,228,0,21,348,273,75,1,9.06,-17.18,2.4,2022
+6,6,Saints,Thu,October 20,,L,0,2-5,away,Arizona Cardinals,34,42,25,494,409,85,3,21,326,189,137,0,5.93,-13.74,-1.75,2022
+7,7,Saints,Sun,October 30,,W,0,3-5,home,Las Vegas Raiders,24,0,22,367,231,136,0,13,183,145,38,1,16.76,8.49,-6.72,2022
+8,8,Saints,Mon,November 7,,L,0,3-6,home,Baltimore Ravens,13,27,13,243,195,48,1,23,319,131,188,0,-3.99,-11.91,1.6,2022
+9,9,Saints,Sun,November 13,,L,0,3-7,away,Pittsburgh Steelers,10,20,10,186,157,29,2,28,379,162,217,0,-10.6,-13.42,11.01,2022
+10,10,Saints,Sun,November 20,,W,0,4-7,home,Los Angeles Rams,27,20,19,323,235,88,0,17,336,188,148,0,8.99,-3.06,2.98,2022
+11,11,Saints,Sun,November 27,,L,0,4-8,away,San Francisco 49ers,0,13,14,260,197,63,2,21,317,221,96,0,-8.15,-2.05,-2.22,2022
+12,12,Saints,Mon,December 5,,L,0,4-9,away,Tampa Bay Buccaneers,16,17,14,298,232,66,0,25,350,274,76,2,-0.04,-2.62,2.46,2022
+13,13,Saints,,,,,0,,home,<strong>Bye Week</strong>,0,0,0,0,0,0,0,0,0,0,0,0,,,,2022
+14,14,Saints,Sun,December 18,,W,0,5-9,home,Atlanta Falcons,21,18,17,348,214,134,1,21,320,89,231,1,6.38,-8.41,1.86,2022
+15,15,Saints,Sat,December 24,,W,0,6-9,away,Cleveland Browns,17,10,14,244,92,152,1,15,249,125,124,1,-4.01,12.78,-2.04,2022
+16,16,Saints,Sun,January 1,,W,0,7-9,away,Philadelphia Eagles,20,10,19,313,184,129,1,11,313,246,67,1,-2.95,12.38,0.32,2022
+17,17,Saints,Sun,January 8,,L,0,7-10,home,Carolina Panthers,7,10,16,304,161,143,1,14,203,32,171,2,-4.13,8.41,-7.85,2022

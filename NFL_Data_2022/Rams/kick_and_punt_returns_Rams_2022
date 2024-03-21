@@ -1,7 +1,7 @@
-,No.,Team,Player,Age,Position,Games Played,Games Started,Punts Returned,Punts Return Yardage,Punts Returned for Touchdown,Longest Punt Return,Yards per Punt Return,Kickoff Returns,Yardage for Kickoffs Returned,Kickoffs Returned for a Touchdown,Longest Kickoff Return,Yards per Kickoff Return,All-purpose Yards
-19,19,Rams,Brandon Powell,27,WR,17,6,24,177,0,22,7.4,30,605,0,34,20.2,1018
-39,39,Rams,Jake Gervase,27,LB,14,0,1,1,0,1,1.0,n/a,n/a,0,n/a,n/a,13
-89,89,Rams,Tyler Higbee,29,TE,17,17,n/a,n/a,0,n/a,n/a,1,7,0,7,7.0,627
-97,97,Rams,Michael Hoecht,25,DT,17,6,n/a,n/a,0,n/a,n/a,1,22,0,22,22.0,22
-21,21,Rams,Russ Yeast,23,S,15,1,n/a,n/a,0,n/a,n/a,1,29,0,29,29.0,29
-5,5,Rams,Jalen Ramsey,28,DB,17,17,0,5,0,0,n/a,n/a,n/a,0,n/a,n/a,70
+,No.,Team,Player,Age,Position,Games Played,Games Started,Punts Returned,Punts Return Yardage,Punts Returned for Touchdown,Longest Punt Return,Yards per Punt Return,Kickoff Returns,Yardage for Kickoffs Returned,Kickoffs Returned for a Touchdown,Longest Kickoff Return,Yards per Kickoff Return,All-purpose Yards,Year
+0,19,Rams,Brandon Powell,27,WR,17,6,24,177,0,22,7.4,30,605,0,34,20.2,1018,2022
+1,39,Rams,Jake Gervase,27,LB,14,0,1,1,0,1,1.0,0,0,0,0,,13,2022
+2,89,Rams,Tyler Higbee,29,TE,17,17,0,0,0,0,,1,7,0,7,7.0,627,2022
+3,97,Rams,Michael Hoecht,25,DT,17,6,0,0,0,0,,1,22,0,22,22.0,22,2022
+4,21,Rams,Russ Yeast,23,S,15,1,0,0,0,0,,1,29,0,29,29.0,29,2022
+5,5,Rams,Jalen Ramsey,28,DB,17,17,0,5,0,0,,0,0,0,0,,70,2022

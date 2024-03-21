@@ -1,4 +1,4 @@
-,No.,Team,Player,Age,Position,Games Played,Games Started,Punts Returned,Punts Return Yardage,Punts Returned for Touchdown,Longest Punt Return,Yards per Punt Return,Kickoff Returns,Yardage for Kickoffs Returned,Kickoffs Returned for a Touchdown,Longest Kickoff Return,Yards per Kickoff Return,All-purpose Yards
-26,26,Vikings,Kene Nwangwu,24,RB,17,0,n/a,n/a,0,n/a,n/a,35,920,1,97,26.3,955
-5,5,Vikings,Jalen Reagor,23,WR,17,0,26,167,0,25,6.4,n/a,n/a,0,n/a,n/a,307
-86,86,Vikings,Johnny Mundt,28,TE,17,12,n/a,n/a,0,n/a,n/a,1,0,0,0,0.0,140
+,No.,Team,Player,Age,Position,Games Played,Games Started,Punts Returned,Punts Return Yardage,Punts Returned for Touchdown,Longest Punt Return,Yards per Punt Return,Kickoff Returns,Yardage for Kickoffs Returned,Kickoffs Returned for a Touchdown,Longest Kickoff Return,Yards per Kickoff Return,All-purpose Yards,Year
+0,26,Vikings,Kene Nwangwu,24,RB,17,0,0,0,0,0,,35,920,1,97,26.3,955,2022
+1,5,Vikings,Jalen Reagor,23,WR,17,0,26,167,0,25,6.4,0,0,0,0,,307,2022
+2,86,Vikings,Johnny Mundt,28,TE,17,12,0,0,0,0,,1,0,0,0,0.0,140,2022

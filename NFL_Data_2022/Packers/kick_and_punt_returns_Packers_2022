@@ -1,9 +1,9 @@
-,No.,Team,Player,Age,Position,Games Played,Games Started,Punts Returned,Punts Return Yardage,Punts Returned for Touchdown,Longest Punt Return,Yards per Punt Return,Kickoff Returns,Yardage for Kickoffs Returned,Kickoffs Returned for a Touchdown,Longest Kickoff Return,Yards per Kickoff Return,All-purpose Yards
-25,25,Packers,Keisean Nixon,25,CB,17,4,11,140,0,24,12.7,35,1009,1,105,28.8,1150
-8,8,Packers,Amari Rodgers,23,WR,10,0,20,139,0,20,7.0,6,122,0,34,20.3,311
-18,18,Packers,Randall Cobb,32,WR,13,3,4,37,0,15,9.3,n/a,n/a,0,n/a,n/a,454
-87,87,Packers,Romeo Doubs,22,WR,13,7,n/a,n/a,0,n/a,n/a,2,39,0,21,19.5,475
-9,9,Packers,Christian Watson,23,WR,14,11,n/a,n/a,0,n/a,n/a,2,35,0,18,17.5,726
-35,35,Packers,Corey Ballentine,26,CB,8,0,n/a,n/a,0,n/a,n/a,1,0,0,0,0.0,0
-81,81,Packers,Josiah Deguara,25,TE,17,3,n/a,n/a,0,n/a,n/a,1,0,0,0,0.0,114
-13,13,Packers,Allen Lazard,27,WR,15,15,n/a,n/a,0,n/a,n/a,1,0,0,2,0.0,788
+,No.,Team,Player,Age,Position,Games Played,Games Started,Punts Returned,Punts Return Yardage,Punts Returned for Touchdown,Longest Punt Return,Yards per Punt Return,Kickoff Returns,Yardage for Kickoffs Returned,Kickoffs Returned for a Touchdown,Longest Kickoff Return,Yards per Kickoff Return,All-purpose Yards,Year
+0,25,Packers,Keisean Nixon,25,CB,17,4,11,140,0,24,12.7,35,1009,1,105,28.8,1150,2022
+1,8,Packers,Amari Rodgers,23,WR,10,0,20,139,0,20,7.0,6,122,0,34,20.3,311,2022
+2,18,Packers,Randall Cobb,32,WR,13,3,4,37,0,15,9.3,0,0,0,0,,454,2022
+3,87,Packers,Romeo Doubs,22,WR,13,7,0,0,0,0,,2,39,0,21,19.5,475,2022
+4,9,Packers,Christian Watson,23,WR,14,11,0,0,0,0,,2,35,0,18,17.5,726,2022
+5,35,Packers,Corey Ballentine,26,CB,8,0,0,0,0,0,,1,0,0,0,0.0,0,2022
+6,81,Packers,Josiah Deguara,25,TE,17,3,0,0,0,0,,1,0,0,0,0.0,114,2022
+7,13,Packers,Allen Lazard,27,WR,15,15,0,0,0,0,,1,0,0,2,0.0,788,2022

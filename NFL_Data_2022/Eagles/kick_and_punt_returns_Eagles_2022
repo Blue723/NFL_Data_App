@@ -1,5 +1,5 @@
-,No.,Team,Player,Age,Position,Games Played,Games Started,Punts Returned,Punts Return Yardage,Punts Returned for Touchdown,Longest Punt Return,Yards per Punt Return,Kickoff Returns,Yardage for Kickoffs Returned,Kickoffs Returned for a Touchdown,Longest Kickoff Return,Yards per Kickoff Return,All-purpose Yards
-18,18,Eagles,Britain Covey,25,WR,17,0,33,308,0,27,9.3,10,206,0,26,20.6,514
-35,35,Eagles,Boston Scott,27,RB,15,2,n/a,n/a,0,n/a,n/a,15,406,0,66,27.1,638
-16,16,Eagles,Quez Watkins,24,WR,17,8,n/a,n/a,0,n/a,n/a,5,51,0,17,10.2,406
-6,6,Eagles,DeVonta Smith,24,WR,17,17,2,15,0,12,7.5,n/a,n/a,0,n/a,n/a,1211
+,No.,Team,Player,Age,Position,Games Played,Games Started,Punts Returned,Punts Return Yardage,Punts Returned for Touchdown,Longest Punt Return,Yards per Punt Return,Kickoff Returns,Yardage for Kickoffs Returned,Kickoffs Returned for a Touchdown,Longest Kickoff Return,Yards per Kickoff Return,All-purpose Yards,Year
+0,18,Eagles,Britain Covey,25,WR,17,0,33,308,0,27,9.3,10,206,0,26,20.6,514,2022
+1,35,Eagles,Boston Scott,27,RB,15,2,0,0,0,0,,15,406,0,66,27.1,638,2022
+2,16,Eagles,Quez Watkins,24,WR,17,8,0,0,0,0,,5,51,0,17,10.2,406,2022
+3,6,Eagles,DeVonta Smith,24,WR,17,17,2,15,0,12,7.5,0,0,0,0,,1211,2022

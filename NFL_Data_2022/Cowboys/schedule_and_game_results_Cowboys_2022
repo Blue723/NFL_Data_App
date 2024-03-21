@@ -1,22 +1,22 @@
-,Week,Team,Day,Date,Time,Win/Loss,Overtime,Team Record,Home/Away,Opponent,Points Scored,Points Allowed,Offense 1st Down,Total Yards Gained of Offense,Total yards Gained by Passing,Total Yards Gained by Rushing,Offense Turnovers,Defense 1st Down,Total Yards Allowed by Defense,Total Passing Yards Allowed by Defense,Total Rushing Yards Allowed by Defense,Defense Turnovers,Offense,Defense,Sp. Tms
-1,1,Cowboys,Sun,September 11,8:20PM ET,L,n/a,0-1,home,Tampa Bay Buccaneers,3,19,12,244,173,71,1,18,347,195,152,1,-19.40,-0.55,2.24
-2,2,Cowboys,Sun,September 18,4:25PM ET,W,n/a,1-1,home,Cincinnati Bengals,20,17,19,337,230,107,1,19,254,165,89,n/a,6.08,-0.76,-1.25
-3,3,Cowboys,Mon,September 26,8:15PM ET,W,n/a,2-1,away,New York Giants,23,16,23,391,215,176,n/a,22,336,169,167,1,10.78,0.51,-0.01
-4,4,Cowboys,Sun,October 2,1:00PM ET,W,n/a,3-1,home,Washington Commanders,25,10,15,279,217,62,n/a,17,297,155,142,2,4.19,13.42,-3.30
-5,5,Cowboys,Sun,October 9,4:25PM ET,W,n/a,4-1,away,Los Angeles Rams,22,10,10,239,76,163,n/a,14,323,285,38,3,-8.44,11.11,6.98
-6,6,Cowboys,Sun,October 16,8:20PM ET,L,n/a,4-2,away,Philadelphia Eagles,17,26,21,315,181,134,3,22,268,132,136,n/a,-0.04,-7.95,-3.76
-7,7,Cowboys,Sun,October 23,1:00PM ET,W,n/a,5-2,home,Detroit Lions,24,6,21,330,191,139,1,18,312,195,117,5,4.39,12.68,1.61
-8,8,Cowboys,Sun,October 30,1:00PM ET,W,n/a,6-2,home,Chicago Bears,49,29,24,442,242,200,1,22,371,131,240,1,26.47,-1.52,-3.05
-9,9,Cowboys,n/a,n/a,n/a,n/a,n/a,n/a,home,<strong>Bye Week</strong>,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
-10,10,Cowboys,Sun,November 13,4:25PM ET,L,OT,6-3,away,Green Bay Packers,28,31,24,421,262,159,2,20,415,208,207,2,2.81,-17.21,10.13
-11,11,Cowboys,Sun,November 20,4:25PM ET,W,n/a,7-3,away,Minnesota Vikings,40,3,23,458,307,151,n/a,16,183,110,73,1,24.31,14.35,-0.94
-12,12,Cowboys,Thu,November 24,4:30PM ET,W,n/a,8-3,home,New York Giants,28,20,26,430,261,169,2,21,300,210,90,n/a,16.03,-0.13,-6.25
-13,13,Cowboys,Sun,December 4,8:20PM ET,W,n/a,9-3,home,Indianapolis Colts,54,19,23,385,165,220,1,18,309,203,106,5,22.27,16.86,-4.50
-14,14,Cowboys,Sun,December 11,1:00PM ET,W,n/a,10-3,home,Houston Texans,27,23,21,404,277,127,3,16,327,213,114,2,1.61,8.28,-6.35
-15,15,Cowboys,Sun,December 18,1:00PM ET,L,OT,10-4,away,Jacksonville Jaguars,34,40,24,397,243,154,2,26,503,311,192,3,8.92,-16.24,-0.94
-16,16,Cowboys,Sat,December 24,4:25PM ET,W,n/a,11-4,home,Philadelphia Eagles,40,34,25,419,304,115,1,25,442,355,87,4,12.39,-7.76,0.74
-17,17,Cowboys,Thu,December 29,8:15PM ET,W,n/a,12-4,away,Tennessee Titans,27,13,26,361,274,87,3,17,317,220,97,2,8.93,5.83,-1.28
-18,18,Cowboys,Sun,January 8,4:25PM ET,L,n/a,12-5,away,Washington Commanders,6,26,10,182,118,64,2,16,309,158,151,1,-28.06,5.20,4.66
-n/a,n/a,Cowboys,n/a,<strong>Playoffs</strong>,n/a,n/a,n/a,n/a,home,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
-Wild Card,Wild Card,Cowboys,Mon,January 16,8:15PM ET,W,n/a,13-5,away,Tampa Bay Buccaneers,31,14,26,425,297,128,n/a,24,386,334,52,1,25.18,2.00,-9.31
-Division,Division,Cowboys,Sun,January 22,6:30PM ET,L,n/a,13-6,away,San Francisco 49ers,12,19,15,282,206,76,2,21,312,199,113,1,-6.08,-6.35,4.19
+,Week,Team,Day,Date,Time,Win/Loss,Overtime,Team Record,Home/Away,Opponent,Points Scored,Points Allowed,Offense 1st Down,Total Yards Gained of Offense,Total yards Gained by Passing,Total Yards Gained by Rushing,Offense Turnovers,Defense 1st Down,Total Yards Allowed by Defense,Total Passing Yards Allowed by Defense,Total Rushing Yards Allowed by Defense,Defense Turnovers,Offense,Defense,Sp. Tms,Year
+0,0,Cowboys,Sun,September 11,,L,0,0-1,home,Tampa Bay Buccaneers,3,19,12,244,173,71,1,18,347,195,152,1,-19.4,-0.55,2.24,2022
+1,1,Cowboys,Sun,September 18,,W,0,1-1,home,Cincinnati Bengals,20,17,19,337,230,107,1,19,254,165,89,0,6.08,-0.76,-1.25,2022
+2,2,Cowboys,Mon,September 26,,W,0,2-1,away,New York Giants,23,16,23,391,215,176,0,22,336,169,167,1,10.78,0.51,-0.01,2022
+3,3,Cowboys,Sun,October 2,,W,0,3-1,home,Washington Commanders,25,10,15,279,217,62,0,17,297,155,142,2,4.19,13.42,-3.3,2022
+4,4,Cowboys,Sun,October 9,,W,0,4-1,away,Los Angeles Rams,22,10,10,239,76,163,0,14,323,285,38,3,-8.44,11.11,6.98,2022
+5,5,Cowboys,Sun,October 16,,L,0,4-2,away,Philadelphia Eagles,17,26,21,315,181,134,3,22,268,132,136,0,-0.04,-7.95,-3.76,2022
+6,6,Cowboys,Sun,October 23,,W,0,5-2,home,Detroit Lions,24,6,21,330,191,139,1,18,312,195,117,5,4.39,12.68,1.61,2022
+7,7,Cowboys,Sun,October 30,,W,0,6-2,home,Chicago Bears,49,29,24,442,242,200,1,22,371,131,240,1,26.47,-1.52,-3.05,2022
+8,8,Cowboys,,,,,0,,home,<strong>Bye Week</strong>,0,0,0,0,0,0,0,0,0,0,0,0,,,,2022
+9,9,1,1,1,1.0,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1.0,1.0,1.0,1
+10,10,Cowboys,Sun,November 20,,W,0,7-3,away,Minnesota Vikings,40,3,23,458,307,151,0,16,183,110,73,1,24.31,14.35,-0.94,2022
+11,11,Cowboys,Thu,November 24,,W,0,8-3,home,New York Giants,28,20,26,430,261,169,2,21,300,210,90,0,16.03,-0.13,-6.25,2022
+12,12,Cowboys,Sun,December 4,,W,0,9-3,home,Indianapolis Colts,54,19,23,385,165,220,1,18,309,203,106,5,22.27,16.86,-4.5,2022
+13,13,Cowboys,Sun,December 11,,W,0,10-3,home,Houston Texans,27,23,21,404,277,127,3,16,327,213,114,2,1.61,8.28,-6.35,2022
+14,14,1,1,1,1.0,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1.0,1.0,1.0,1
+15,15,Cowboys,Sat,December 24,,W,0,11-4,home,Philadelphia Eagles,40,34,25,419,304,115,1,25,442,355,87,4,12.39,-7.76,0.74,2022
+16,16,Cowboys,Thu,December 29,,W,0,12-4,away,Tennessee Titans,27,13,26,361,274,87,3,17,317,220,97,2,8.93,5.83,-1.28,2022
+17,17,Cowboys,Sun,January 8,,L,0,12-5,away,Washington Commanders,6,26,10,182,118,64,2,16,309,158,151,1,-28.06,5.2,4.66,2022
+18,18,Cowboys,,<strong>Playoffs</strong>,,,0,,home,,0,0,0,0,0,0,0,0,0,0,0,0,,,,2022
+19,19,Cowboys,Mon,January 16,,W,0,13-5,away,Tampa Bay Buccaneers,31,14,26,425,297,128,0,24,386,334,52,1,25.18,2.0,-9.31,2022
+20,20,Cowboys,Sun,January 22,,L,0,13-6,away,San Francisco 49ers,12,19,15,282,206,76,2,21,312,199,113,1,-6.08,-6.35,4.19,2022

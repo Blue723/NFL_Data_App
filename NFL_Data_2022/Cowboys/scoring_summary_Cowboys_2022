@@ -1,15 +1,15 @@
-,No.,Team,Player,Age,Pos,Games Played,Games Started,Rush TD,Reception TD,Punt Return TD,Kick Return TD,Fumble Return TD,Interception TD,Other TD,All Touchdown Scored,2-Point Conversions Made,Two-Point Conversions Attempted,Defensive Two-Point Conversions,Extra Points Made,Extra Points Allowed,Field Goals Made,Field Goals Attempted,Safeties Scored by Player/Team,Total Points Scored by all Means,Poins per Game
-19,19,Cowboys,Brett Maher,33,K,17,0,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,0,50,53,29,32,n/a,137,8.1
-21,21,Cowboys,Ezekiel Elliott,27,RB,15,14,12,n/a,n/a,n/a,n/a,n/a,n/a,12,n/a,n/a,0,n/a,n/a,n/a,n/a,n/a,72,4.8
-20,20,Cowboys,Tony Pollard,25,RB,16,4,9,3,n/a,n/a,n/a,n/a,n/a,12,n/a,n/a,0,n/a,n/a,n/a,n/a,n/a,72,4.5
-88,88,Cowboys,CeeDee Lamb,23,WR,17,17,n/a,9,n/a,n/a,n/a,n/a,n/a,9,n/a,n/a,0,n/a,n/a,n/a,n/a,n/a,54,3.2
-86,86,Cowboys,Dalton Schultz,26,TE,15,15,n/a,5,n/a,n/a,n/a,n/a,n/a,5,n/a,n/a,0,n/a,n/a,n/a,n/a,n/a,30,2.0
-13,13,Cowboys,Michael Gallup,26,WR,14,11,n/a,4,n/a,n/a,n/a,n/a,n/a,4,n/a,n/a,0,n/a,n/a,n/a,n/a,n/a,24,1.7
-85,85,Cowboys,Noah Brown,26,WR,16,13,n/a,3,n/a,n/a,n/a,n/a,n/a,3,n/a,n/a,0,n/a,n/a,n/a,n/a,n/a,18,1.1
-49,49,Cowboys,Peyton Hendershot,23,TE,17,2,1,2,n/a,n/a,n/a,n/a,n/a,3,n/a,n/a,0,n/a,n/a,n/a,n/a,n/a,18,1.1
-48,48,Cowboys,Jake Ferguson,23,TE,16,8,n/a,2,n/a,n/a,n/a,n/a,n/a,2,n/a,n/a,0,n/a,n/a,n/a,n/a,n/a,12,0.8
-34,34,Cowboys,Malik Davis,24,RB,12,0,1,n/a,n/a,n/a,n/a,n/a,n/a,1,n/a,n/a,0,n/a,n/a,n/a,n/a,n/a,6,0.5
-28,28,Cowboys,Malik Hooker,26,S,16,6,n/a,n/a,n/a,n/a,1,n/a,n/a,1,n/a,n/a,0,n/a,n/a,n/a,n/a,n/a,6,0.4
-90,90,Cowboys,DeMarcus Lawrence,30,DE,17,17,n/a,n/a,n/a,n/a,1,n/a,n/a,1,n/a,n/a,0,n/a,n/a,n/a,n/a,n/a,6,0.4
-11,11,Cowboys,Micah Parsons,23,LB,17,17,n/a,n/a,n/a,n/a,1,n/a,n/a,1,n/a,n/a,0,n/a,n/a,n/a,n/a,n/a,6,0.4
-4,4,Cowboys,Dak Prescott,29,QB,12,12,1,n/a,n/a,n/a,n/a,n/a,n/a,1,n/a,n/a,0,n/a,n/a,n/a,n/a,n/a,6,0.5
+,No.,Team,Player,Age,Pos,Games Played,Games Started,Rush TD,Reception TD,Punt Return TD,Kick Return TD,Fumble Return TD,Interception TD,Other TD,All Touchdown Scored,2-Point Conversions Made,Two-Point Conversions Attempted,Defensive Two-Point Conversions,Extra Points Made,Extra Points Allowed,Field Goals Made,Field Goals Attempted,Safeties Scored by Player/Team,Total Points Scored by all Means,Poins per Game,Year
+0,19,Cowboys,Brett Maher,33,K,17,0,0,0,0,0,0,0,0,0,0,0,0,50,53,29,32,,137,8.1,2022
+1,21,Cowboys,Ezekiel Elliott,27,RB,15,14,12,0,0,0,0,0,0,12,0,0,0,0,0,0,0,,72,4.8,2022
+2,20,Cowboys,Tony Pollard,25,RB,16,4,9,3,0,0,0,0,0,12,0,0,0,0,0,0,0,,72,4.5,2022
+3,88,Cowboys,CeeDee Lamb,23,WR,17,17,0,9,0,0,0,0,0,9,0,0,0,0,0,0,0,,54,3.2,2022
+4,86,Cowboys,Dalton Schultz,26,TE,15,15,0,5,0,0,0,0,0,5,0,0,0,0,0,0,0,,30,2.0,2022
+5,13,Cowboys,Michael Gallup,26,WR,14,11,0,4,0,0,0,0,0,4,0,0,0,0,0,0,0,,24,1.7,2022
+6,85,Cowboys,Noah Brown,26,WR,16,13,0,3,0,0,0,0,0,3,0,0,0,0,0,0,0,,18,1.1,2022
+7,49,Cowboys,Peyton Hendershot,23,TE,17,2,1,2,0,0,0,0,0,3,0,0,0,0,0,0,0,,18,1.1,2022
+8,48,Cowboys,Jake Ferguson,23,TE,16,8,0,2,0,0,0,0,0,2,0,0,0,0,0,0,0,,12,0.8,2022
+9,34,Cowboys,Malik Davis,24,RB,12,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,,6,0.5,2022
+10,28,Cowboys,Malik Hooker,26,S,16,6,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,,6,0.4,2022
+11,90,Cowboys,DeMarcus Lawrence,30,DE,17,17,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,,6,0.4,2022
+12,11,Cowboys,Micah Parsons,23,LB,17,17,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,,6,0.4,2022
+13,4,Cowboys,Dak Prescott,29,QB,12,12,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,,6,0.5,2022

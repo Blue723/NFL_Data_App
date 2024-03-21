@@ -1,21 +1,21 @@
-,Week,Team,Day,Date,Time,Win/Loss,Overtime,Team Record,Home/Away,Opponent,Points Scored,Points Allowed,Offense 1st Down,Total Yards Gained of Offense,Total yards Gained by Passing,Total Yards Gained by Rushing,Offense Turnovers,Defense 1st Down,Total Yards Allowed by Defense,Total Passing Yards Allowed by Defense,Total Rushing Yards Allowed by Defense,Defense Turnovers,Offense,Defense,Sp. Tms
-1,1,Buccaneers,Sun,September 11,8:20PM ET,W,n/a,1-0,away,Dallas Cowboys,19,3,18,347,195,152,1,12,244,173,71,1,0.55,19.40,-2.24
-2,2,Buccaneers,Sun,September 18,1:00PM ET,W,n/a,2-0,away,New Orleans Saints,20,10,13,260,188,72,1,18,308,208,100,5,-9.20,18.41,2.71
-3,3,Buccaneers,Sun,September 25,4:25PM ET,L,n/a,2-1,home,Green Bay Packers,12,14,19,285,251,34,2,14,315,248,67,2,-9.14,4.08,0.30
-4,4,Buccaneers,Sun,October 2,8:20PM ET,L,n/a,2-2,home,Kansas City Chiefs,31,41,27,376,373,3,2,27,417,228,189,1,14.15,-17.12,-5.33
-5,5,Buccaneers,Sun,October 9,1:00PM ET,W,n/a,3-2,home,Atlanta Falcons,21,15,26,420,351,69,n/a,19,261,110,151,n/a,13.30,-3.90,-1.34
-6,6,Buccaneers,Sun,October 16,1:00PM ET,L,n/a,3-3,away,Pittsburgh Steelers,18,20,20,304,229,75,n/a,15,270,193,77,n/a,0.17,-2.61,-2.77
-7,7,Buccaneers,Sun,October 23,1:00PM ET,L,n/a,3-4,away,Carolina Panthers,3,21,17,322,276,46,n/a,14,343,170,173,n/a,-5.31,-7.39,-3.31
-8,8,Buccaneers,Thu,October 27,8:15PM ET,L,n/a,3-5,home,Baltimore Ravens,22,27,20,349,305,44,1,27,453,222,231,n/a,8.68,-11.24,-6.73
-9,9,Buccaneers,Sun,November 6,4:25PM ET,W,n/a,4-5,home,Los Angeles Rams,16,13,18,323,272,51,n/a,9,206,138,68,n/a,-8.87,10.99,1.37
-10,10,Buccaneers,Sun,November 13,9:30AM ET,W,n/a,5-5,home,Seattle Seahawks,21,16,26,419,258,161,2,19,283,244,39,1,13.20,0.15,-7.78
-11,11,Buccaneers,n/a,n/a,n/a,n/a,n/a,n/a,home,<strong>Bye Week</strong>,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
-12,12,Buccaneers,Sun,November 27,1:00PM ET,L,OT,5-6,away,Cleveland Browns,17,23,16,325,229,96,n/a,22,367,178,189,1,-1.81,-2.41,-1.78
-13,13,Buccaneers,Mon,December 5,8:15PM ET,W,n/a,6-6,home,New Orleans Saints,17,16,25,350,274,76,2,14,298,232,66,n/a,2.62,0.04,-2.46
-14,14,Buccaneers,Sun,December 11,4:25PM ET,L,n/a,6-7,away,San Francisco 49ers,7,35,18,322,253,69,3,24,404,195,209,1,-13.41,-18.39,0.43
-15,15,Buccaneers,Sun,December 18,4:25PM ET,L,n/a,6-8,home,Cincinnati Bengals,23,34,25,396,304,92,4,20,237,184,53,1,-1.98,-1.78,-7.20
-16,16,Buccaneers,Sun,December 25,8:20PM ET,W,OT,7-8,away,Arizona Cardinals,19,16,21,396,281,115,2,16,325,204,121,3,-4.60,13.64,-6.77
-17,17,Buccaneers,Sun,January 1,1:00PM ET,W,n/a,8-8,home,Carolina Panthers,30,24,25,478,411,67,1,22,400,326,74,3,10.73,-4.36,-6.36
-18,18,Buccaneers,Sun,January 8,1:00PM ET,L,n/a,8-9,away,Atlanta Falcons,17,30,12,222,136,86,1,22,382,208,174,1,-6.05,-8.84,1.56
-n/a,n/a,Buccaneers,n/a,<strong>Playoffs</strong>,n/a,n/a,n/a,n/a,home,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
-Wild Card,Wild Card,Buccaneers,Mon,January 16,8:15PM ET,L,n/a,8-10,home,Dallas Cowboys,14,31,24,386,334,52,1,26,425,297,128,n/a,-2.00,-25.18,9.31
+,Week,Team,Day,Date,Time,Win/Loss,Overtime,Team Record,Home/Away,Opponent,Points Scored,Points Allowed,Offense 1st Down,Total Yards Gained of Offense,Total yards Gained by Passing,Total Yards Gained by Rushing,Offense Turnovers,Defense 1st Down,Total Yards Allowed by Defense,Total Passing Yards Allowed by Defense,Total Rushing Yards Allowed by Defense,Defense Turnovers,Offense,Defense,Sp. Tms,Year
+0,0,Buccaneers,Sun,September 11,,W,0,1-0,away,Dallas Cowboys,19,3,18,347,195,152,1,12,244,173,71,1,0.55,19.4,-2.24,2022
+1,1,Buccaneers,Sun,September 18,,W,0,2-0,away,New Orleans Saints,20,10,13,260,188,72,1,18,308,208,100,5,-9.2,18.41,2.71,2022
+2,2,Buccaneers,Sun,September 25,,L,0,2-1,home,Green Bay Packers,12,14,19,285,251,34,2,14,315,248,67,2,-9.14,4.08,0.3,2022
+3,3,Buccaneers,Sun,October 2,,L,0,2-2,home,Kansas City Chiefs,31,41,27,376,373,3,2,27,417,228,189,1,14.15,-17.12,-5.33,2022
+4,4,Buccaneers,Sun,October 9,,W,0,3-2,home,Atlanta Falcons,21,15,26,420,351,69,0,19,261,110,151,0,13.3,-3.9,-1.34,2022
+5,5,Buccaneers,Sun,October 16,,L,0,3-3,away,Pittsburgh Steelers,18,20,20,304,229,75,0,15,270,193,77,0,0.17,-2.61,-2.77,2022
+6,6,Buccaneers,Sun,October 23,,L,0,3-4,away,Carolina Panthers,3,21,17,322,276,46,0,14,343,170,173,0,-5.31,-7.39,-3.31,2022
+7,7,Buccaneers,Thu,October 27,,L,0,3-5,home,Baltimore Ravens,22,27,20,349,305,44,1,27,453,222,231,0,8.68,-11.24,-6.73,2022
+8,8,Buccaneers,Sun,November 6,,W,0,4-5,home,Los Angeles Rams,16,13,18,323,272,51,0,9,206,138,68,0,-8.87,10.99,1.37,2022
+9,9,Buccaneers,Sun,November 13,,W,0,5-5,home,Seattle Seahawks,21,16,26,419,258,161,2,19,283,244,39,1,13.2,0.15,-7.78,2022
+10,10,Buccaneers,,,,,0,,home,<strong>Bye Week</strong>,0,0,0,0,0,0,0,0,0,0,0,0,,,,2022
+11,11,1,1,1,1.0,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1.0,1.0,1.0,1
+12,12,Buccaneers,Mon,December 5,,W,0,6-6,home,New Orleans Saints,17,16,25,350,274,76,2,14,298,232,66,0,2.62,0.04,-2.46,2022
+13,13,Buccaneers,Sun,December 11,,L,0,6-7,away,San Francisco 49ers,7,35,18,322,253,69,3,24,404,195,209,1,-13.41,-18.39,0.43,2022
+14,14,Buccaneers,Sun,December 18,,L,0,6-8,home,Cincinnati Bengals,23,34,25,396,304,92,4,20,237,184,53,1,-1.98,-1.78,-7.2,2022
+15,15,1,1,1,1.0,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1.0,1.0,1.0,1
+16,16,Buccaneers,Sun,January 1,,W,0,8-8,home,Carolina Panthers,30,24,25,478,411,67,1,22,400,326,74,3,10.73,-4.36,-6.36,2022
+17,17,Buccaneers,Sun,January 8,,L,0,8-9,away,Atlanta Falcons,17,30,12,222,136,86,1,22,382,208,174,1,-6.05,-8.84,1.56,2022
+18,18,Buccaneers,,<strong>Playoffs</strong>,,,0,,home,,0,0,0,0,0,0,0,0,0,0,0,0,,,,2022
+19,19,Buccaneers,Mon,January 16,,L,0,8-10,home,Dallas Cowboys,14,31,24,386,334,52,1,26,425,297,128,0,-2.0,-25.18,9.31,2022

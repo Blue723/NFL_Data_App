@@ -1,19 +1,19 @@
-,Week,Team,Day,Date,Time,Win/Loss,Overtime,Team Record,Home/Away,Opponent,Points Scored,Points Allowed,Offense 1st Down,Total Yards Gained of Offense,Total yards Gained by Passing,Total Yards Gained by Rushing,Offense Turnovers,Defense 1st Down,Total Yards Allowed by Defense,Total Passing Yards Allowed by Defense,Total Rushing Yards Allowed by Defense,Defense Turnovers,Offense,Defense,Sp. Tms
-1,1,Browns,Sun,September 11,1:00PM ET,W,n/a,1-0,away,Carolina Panthers,26,24,23,355,138,217,n/a,15,261,207,54,1,6.82,-5.38,1.66
-2,2,Browns,Sun,September 18,1:00PM ET,L,n/a,1-1,home,New York Jets,30,31,29,405,221,184,1,20,402,309,93,1,17.92,-15.19,-5.38
-3,3,Browns,Thu,September 22,8:15PM ET,W,n/a,2-1,home,Pittsburgh Steelers,29,17,22,376,205,171,n/a,20,308,204,104,1,10.79,1.19,0.62
-4,4,Browns,Sun,October 2,1:00PM ET,L,n/a,2-2,away,Atlanta Falcons,20,23,22,403,226,177,2,19,333,131,202,1,5.25,-5.92,-1.44
-5,5,Browns,Sun,October 9,1:00PM ET,L,n/a,2-3,home,Los Angeles Chargers,28,30,27,443,230,213,1,26,465,227,238,n/a,16.53,-16.01,-4.92
-6,6,Browns,Sun,October 16,1:00PM ET,L,n/a,2-4,home,New England Patriots,15,38,16,328,258,70,4,20,399,301,98,1,-12.35,-11.30,0.09
-7,7,Browns,Sun,October 23,1:00PM ET,L,n/a,2-5,away,Baltimore Ravens,20,23,18,336,223,113,2,17,254,94,160,1,6.61,-1.58,-7.18
-8,8,Browns,Mon,October 31,8:15PM ET,W,n/a,3-5,home,Cincinnati Bengals,32,13,24,440,268,172,2,15,229,193,36,2,15.92,3.49,2.71
-9,9,Browns,n/a,n/a,n/a,n/a,n/a,n/a,home,<strong>Bye Week</strong>,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
-10,10,Browns,Sun,November 13,1:00PM ET,L,n/a,3-6,away,Miami Dolphins,17,39,20,297,185,112,1,29,491,296,195,n/a,-1.04,-28.50,4.93
-11,11,Browns,Sun,November 20,1:00PM ET,L,n/a,3-7,away,Buffalo Bills,23,31,27,396,316,80,1,22,357,186,171,n/a,10.86,-6.00,-13.72
-12,12,Browns,Sun,November 27,1:00PM ET,W,OT,4-7,home,Tampa Bay Buccaneers,23,17,22,367,178,189,1,16,325,229,96,n/a,2.41,1.81,1.78
-13,13,Browns,Sun,December 4,1:00PM ET,W,n/a,5-7,away,Houston Texans,27,14,14,304,130,174,2,16,283,201,82,4,-13.96,23.84,5.52
-14,14,Browns,Sun,December 11,1:00PM ET,L,n/a,5-8,away,Cincinnati Bengals,10,23,18,344,273,71,1,23,363,227,136,1,-8.32,-7.01,3.29
-15,15,Browns,Sat,December 17,4:30PM ET,W,n/a,6-8,home,Baltimore Ravens,13,3,19,283,140,143,n/a,17,324,126,198,2,2.64,7.94,0.26
-16,16,Browns,Sat,December 24,1:00PM ET,L,n/a,6-9,home,New Orleans Saints,10,17,15,249,125,124,1,14,244,92,152,1,-12.78,4.01,2.04
-17,17,Browns,Sun,January 1,1:00PM ET,W,n/a,7-9,away,Washington Commanders,24,10,16,301,155,146,n/a,17,260,124,136,3,7.26,7.50,-0.54
-18,18,Browns,Sun,January 8,1:00PM ET,L,n/a,7-10,away,Pittsburgh Steelers,14,28,18,307,173,134,2,23,333,189,144,1,3.47,-10.81,-2.18
+,Week,Team,Day,Date,Time,Win/Loss,Overtime,Team Record,Home/Away,Opponent,Points Scored,Points Allowed,Offense 1st Down,Total Yards Gained of Offense,Total yards Gained by Passing,Total Yards Gained by Rushing,Offense Turnovers,Defense 1st Down,Total Yards Allowed by Defense,Total Passing Yards Allowed by Defense,Total Rushing Yards Allowed by Defense,Defense Turnovers,Offense,Defense,Sp. Tms,Year
+0,0,Browns,Sun,September 11,,W,0,1-0,away,Carolina Panthers,26,24,23,355,138,217,0,15,261,207,54,1,6.82,-5.38,1.66,2022
+1,1,Browns,Sun,September 18,,L,0,1-1,home,New York Jets,30,31,29,405,221,184,1,20,402,309,93,1,17.92,-15.19,-5.38,2022
+2,2,Browns,Thu,September 22,,W,0,2-1,home,Pittsburgh Steelers,29,17,22,376,205,171,0,20,308,204,104,1,10.79,1.19,0.62,2022
+3,3,Browns,Sun,October 2,,L,0,2-2,away,Atlanta Falcons,20,23,22,403,226,177,2,19,333,131,202,1,5.25,-5.92,-1.44,2022
+4,4,Browns,Sun,October 9,,L,0,2-3,home,Los Angeles Chargers,28,30,27,443,230,213,1,26,465,227,238,0,16.53,-16.01,-4.92,2022
+5,5,Browns,Sun,October 16,,L,0,2-4,home,New England Patriots,15,38,16,328,258,70,4,20,399,301,98,1,-12.35,-11.3,0.09,2022
+6,6,Browns,Sun,October 23,,L,0,2-5,away,Baltimore Ravens,20,23,18,336,223,113,2,17,254,94,160,1,6.61,-1.58,-7.18,2022
+7,7,Browns,Mon,October 31,,W,0,3-5,home,Cincinnati Bengals,32,13,24,440,268,172,2,15,229,193,36,2,15.92,3.49,2.71,2022
+8,8,Browns,,,,,0,,home,<strong>Bye Week</strong>,0,0,0,0,0,0,0,0,0,0,0,0,,,,2022
+9,9,Browns,Sun,November 13,,L,0,3-6,away,Miami Dolphins,17,39,20,297,185,112,1,29,491,296,195,0,-1.04,-28.5,4.93,2022
+10,10,Browns,Sun,November 20,,L,0,3-7,away,Buffalo Bills,23,31,27,396,316,80,1,22,357,186,171,0,10.86,-6.0,-13.72,2022
+11,11,1,1,1,1.0,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1.0,1.0,1.0,1
+12,12,Browns,Sun,December 4,,W,0,5-7,away,Houston Texans,27,14,14,304,130,174,2,16,283,201,82,4,-13.96,23.84,5.52,2022
+13,13,Browns,Sun,December 11,,L,0,5-8,away,Cincinnati Bengals,10,23,18,344,273,71,1,23,363,227,136,1,-8.32,-7.01,3.29,2022
+14,14,Browns,Sat,December 17,,W,0,6-8,home,Baltimore Ravens,13,3,19,283,140,143,0,17,324,126,198,2,2.64,7.94,0.26,2022
+15,15,Browns,Sat,December 24,,L,0,6-9,home,New Orleans Saints,10,17,15,249,125,124,1,14,244,92,152,1,-12.78,4.01,2.04,2022
+16,16,Browns,Sun,January 1,,W,0,7-9,away,Washington Commanders,24,10,16,301,155,146,0,17,260,124,136,3,7.26,7.5,-0.54,2022
+17,17,Browns,Sun,January 8,,L,0,7-10,away,Pittsburgh Steelers,14,28,18,307,173,134,2,23,333,189,144,1,3.47,-10.81,-2.18,2022

@@ -1,15 +1,15 @@
-,No.,Team,Player,Age,Pos,Games Played,Games Started,Rush TD,Reception TD,Punt Return TD,Kick Return TD,Fumble Return TD,Interception TD,Other TD,All Touchdown Scored,2-Point Conversions Made,Two-Point Conversions Attempted,Defensive Two-Point Conversions,Extra Points Made,Extra Points Allowed,Field Goals Made,Field Goals Attempted,Safeties Scored by Player/Team,Total Points Scored by all Means,Poins per Game
-4,4,Eagles,Jake Elliott,27,K,16,0,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,0,51,53,20,23,n/a,111,6.9
-1,1,Eagles,Jalen Hurts,24,QB,15,15,13,n/a,n/a,n/a,n/a,n/a,n/a,13,2,n/a,0,n/a,n/a,n/a,n/a,n/a,82,5.5
-11,11,Eagles,A.J. Brown,25,WR,17,16,n/a,11,n/a,n/a,n/a,n/a,n/a,11,n/a,n/a,0,n/a,n/a,n/a,n/a,n/a,66,3.9
-26,26,Eagles,Miles Sanders,25,RB,17,15,11,n/a,n/a,n/a,n/a,n/a,n/a,11,n/a,n/a,0,n/a,n/a,n/a,n/a,n/a,66,3.9
-6,6,Eagles,DeVonta Smith,24,WR,17,17,n/a,7,n/a,n/a,n/a,n/a,n/a,7,n/a,n/a,0,n/a,n/a,n/a,n/a,n/a,42,2.5
-14,14,Eagles,Kenneth Gainwell,23,RB,17,0,4,n/a,n/a,n/a,n/a,n/a,n/a,4,n/a,n/a,0,n/a,n/a,n/a,n/a,n/a,24,1.4
-88,88,Eagles,Dallas Goedert,27,TE,12,12,n/a,3,n/a,n/a,n/a,n/a,n/a,3,n/a,n/a,0,n/a,n/a,n/a,n/a,n/a,18,1.5
-35,35,Eagles,Boston Scott,27,RB,15,2,3,n/a,n/a,n/a,n/a,n/a,n/a,3,n/a,n/a,0,n/a,n/a,n/a,n/a,n/a,18,1.2
-16,16,Eagles,Quez Watkins,24,WR,17,8,n/a,3,n/a,n/a,n/a,n/a,n/a,3,n/a,n/a,0,n/a,n/a,n/a,n/a,n/a,18,1.1
-13,13,Eagles,Cameron Dicker,22,K,1,0,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,0,2,2,2,2,n/a,8,8.0
-24,24,Eagles,James Bradberry,29,CB,17,17,n/a,n/a,n/a,n/a,n/a,1,n/a,1,n/a,n/a,0,n/a,n/a,n/a,n/a,n/a,6,0.4
-10,10,Eagles,Gardner Minshew II,26,QB,5,2,1,n/a,n/a,n/a,n/a,n/a,n/a,1,n/a,n/a,0,n/a,n/a,n/a,n/a,n/a,6,1.2
-3,3,Eagles,Zach Pascal,28,WR,17,2,n/a,1,n/a,n/a,n/a,n/a,n/a,1,n/a,n/a,0,n/a,n/a,n/a,n/a,n/a,6,0.4
-94,94,Eagles,Josh Sweat,25,DE,16,16,n/a,n/a,n/a,n/a,n/a,1,n/a,1,n/a,n/a,0,n/a,n/a,n/a,n/a,n/a,6,0.4
+,No.,Team,Player,Age,Pos,Games Played,Games Started,Rush TD,Reception TD,Punt Return TD,Kick Return TD,Fumble Return TD,Interception TD,Other TD,All Touchdown Scored,2-Point Conversions Made,Two-Point Conversions Attempted,Defensive Two-Point Conversions,Extra Points Made,Extra Points Allowed,Field Goals Made,Field Goals Attempted,Safeties Scored by Player/Team,Total Points Scored by all Means,Poins per Game,Year
+0,4,Eagles,Jake Elliott,27,K,16,0,0,0,0,0,0,0,0,0,0,0,0,51,53,20,23,,111,6.9,2022
+1,1,Eagles,Jalen Hurts,24,QB,15,15,13,0,0,0,0,0,0,13,2,0,0,0,0,0,0,,82,5.5,2022
+2,11,Eagles,A.J. Brown,25,WR,17,16,0,11,0,0,0,0,0,11,0,0,0,0,0,0,0,,66,3.9,2022
+3,26,Eagles,Miles Sanders,25,RB,17,15,11,0,0,0,0,0,0,11,0,0,0,0,0,0,0,,66,3.9,2022
+4,6,Eagles,DeVonta Smith,24,WR,17,17,0,7,0,0,0,0,0,7,0,0,0,0,0,0,0,,42,2.5,2022
+5,14,Eagles,Kenneth Gainwell,23,RB,17,0,4,0,0,0,0,0,0,4,0,0,0,0,0,0,0,,24,1.4,2022
+6,88,Eagles,Dallas Goedert,27,TE,12,12,0,3,0,0,0,0,0,3,0,0,0,0,0,0,0,,18,1.5,2022
+7,35,Eagles,Boston Scott,27,RB,15,2,3,0,0,0,0,0,0,3,0,0,0,0,0,0,0,,18,1.2,2022
+8,16,Eagles,Quez Watkins,24,WR,17,8,0,3,0,0,0,0,0,3,0,0,0,0,0,0,0,,18,1.1,2022
+9,13,Eagles,Cameron Dicker,22,K,1,0,0,0,0,0,0,0,0,0,0,0,0,2,2,2,2,,8,8.0,2022
+10,24,Eagles,James Bradberry,29,CB,17,17,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,,6,0.4,2022
+11,10,Eagles,Gardner Minshew II,26,QB,5,2,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,,6,1.2,2022
+12,3,Eagles,Zach Pascal,28,WR,17,2,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,,6,0.4,2022
+13,94,Eagles,Josh Sweat,25,DE,16,16,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,,6,0.4,2022

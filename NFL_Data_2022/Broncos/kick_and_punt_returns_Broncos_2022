@@ -1,9 +1,9 @@
-,No.,Team,Player,Age,Position,Games Played,Games Started,Punts Returned,Punts Return Yardage,Punts Returned for Touchdown,Longest Punt Return,Yards per Punt Return,Kickoff Returns,Yardage for Kickoffs Returned,Kickoffs Returned for a Touchdown,Longest Kickoff Return,Yards per Kickoff Return,All-purpose Yards
-12,12,Broncos,Montrell Washington,23,WR,15,1,32,271,0,30,8.5,18,340,0,29,18.9,643
-9,9,Broncos,Kendall Hinton,25,WR,12,5,3,37,0,17,12.3,n/a,n/a,0,n/a,n/a,361
-16,16,Broncos,Tyrie Cleveland,25,WR,6,0,n/a,n/a,0,n/a,n/a,2,18,0,10,9.0,46
-82,82,Broncos,Eric Saubert,28,TE,17,6,n/a,n/a,0,n/a,n/a,2,21,0,15,10.5,169
-89,89,Broncos,Brandon Johnson,24,WR,7,1,1,0,0,0,0.0,n/a,n/a,0,n/a,n/a,42
-37,37,Broncos,Marlon Mack,26,RB,6,0,n/a,n/a,0,n/a,n/a,1,20,0,20,20.0,203
-86,86,Broncos,Freddie Swain,24,WR,3,1,1,0,0,0,0.0,n/a,n/a,0,n/a,n/a,74
-15,15,Broncos,Jalen Virgil,24,WR,9,1,n/a,n/a,0,n/a,n/a,1,21,0,21,21.0,96
+,No.,Team,Player,Age,Position,Games Played,Games Started,Punts Returned,Punts Return Yardage,Punts Returned for Touchdown,Longest Punt Return,Yards per Punt Return,Kickoff Returns,Yardage for Kickoffs Returned,Kickoffs Returned for a Touchdown,Longest Kickoff Return,Yards per Kickoff Return,All-purpose Yards,Year
+0,12,Broncos,Montrell Washington,23,WR,15,1,32,271,0,30,8.5,18,340,0,29,18.9,643,2022
+1,9,Broncos,Kendall Hinton,25,WR,12,5,3,37,0,17,12.3,0,0,0,0,,361,2022
+2,16,Broncos,Tyrie Cleveland,25,WR,6,0,0,0,0,0,,2,18,0,10,9.0,46,2022
+3,82,Broncos,Eric Saubert,28,TE,17,6,0,0,0,0,,2,21,0,15,10.5,169,2022
+4,89,Broncos,Brandon Johnson,24,WR,7,1,1,0,0,0,0.0,0,0,0,0,,42,2022
+5,37,Broncos,Marlon Mack,26,RB,6,0,0,0,0,0,,1,20,0,20,20.0,203,2022
+6,86,Broncos,Freddie Swain,24,WR,3,1,1,0,0,0,0.0,0,0,0,0,,74,2022
+7,15,Broncos,Jalen Virgil,24,WR,9,1,0,0,0,0,,1,21,0,21,21.0,96,2022

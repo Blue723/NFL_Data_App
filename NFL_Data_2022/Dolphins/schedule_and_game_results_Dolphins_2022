@@ -1,21 +1,21 @@
-,Week,Team,Day,Date,Time,Win/Loss,Overtime,Team Record,Home/Away,Opponent,Points Scored,Points Allowed,Offense 1st Down,Total Yards Gained of Offense,Total yards Gained by Passing,Total Yards Gained by Rushing,Offense Turnovers,Defense 1st Down,Total Yards Allowed by Defense,Total Passing Yards Allowed by Defense,Total Rushing Yards Allowed by Defense,Defense Turnovers,Offense,Defense,Sp. Tms
-1,1,Dolphins,Sun,September 11,1:00PM ET,W,n/a,1-0,home,New England Patriots,20,7,18,307,242,65,n/a,17,271,193,78,3,6.08,8.28,1.98
-2,2,Dolphins,Sun,September 18,1:00PM ET,W,n/a,2-0,away,Baltimore Ravens,42,38,27,547,461,86,2,23,473,318,155,n/a,32.00,-20.31,-7.09
-3,3,Dolphins,Sun,September 25,1:00PM ET,W,n/a,3-0,home,Buffalo Bills,21,19,15,212,171,41,n/a,31,497,382,115,1,7.45,-15.88,4.86
-4,4,Dolphins,Thu,September 29,8:15PM ET,L,n/a,3-1,away,Cincinnati Bengals,15,27,20,378,293,85,2,16,371,304,67,n/a,0.48,-9.11,-3.73
-5,5,Dolphins,Sun,October 9,1:00PM ET,L,n/a,3-2,away,New York Jets,17,40,19,295,158,137,2,21,322,187,135,n/a,-6.15,-11.86,-3.66
-6,6,Dolphins,Sun,October 16,1:00PM ET,L,n/a,3-3,home,Minnesota Vikings,16,24,23,458,385,73,3,11,234,156,78,n/a,-8.38,4.43,-4.75
-7,7,Dolphins,Sun,October 23,8:20PM ET,W,n/a,4-3,home,Pittsburgh Steelers,16,10,17,372,261,111,n/a,19,341,246,95,3,0.04,6.72,-2.49
-8,8,Dolphins,Sun,October 30,1:00PM ET,W,n/a,5-3,away,Detroit Lions,31,27,27,476,369,107,1,22,393,311,82,n/a,25.47,-19.14,-0.59
-9,9,Dolphins,Sun,November 6,1:00PM ET,W,n/a,6-3,away,Chicago Bears,35,32,21,379,302,77,n/a,23,368,116,252,n/a,19.83,-17.18,2.01
-10,10,Dolphins,Sun,November 13,1:00PM ET,W,n/a,7-3,home,Cleveland Browns,39,17,29,491,296,195,n/a,20,297,185,112,1,28.50,1.04,-4.93
-11,11,Dolphins,n/a,n/a,n/a,n/a,n/a,n/a,home,<strong>Bye Week</strong>,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
-12,12,Dolphins,Sun,November 27,1:00PM ET,W,n/a,8-3,home,Houston Texans,30,15,25,339,273,66,1,14,210,174,36,3,-1.90,22.74,-3.97
-13,13,Dolphins,Sun,December 4,4:05PM ET,L,n/a,8-4,away,San Francisco 49ers,17,33,14,308,275,33,4,24,351,230,121,1,-13.36,-1.78,-1.00
-14,14,Dolphins,Sun,December 11,8:20PM ET,L,n/a,8-5,away,Los Angeles Chargers,17,23,14,219,127,92,n/a,24,432,350,82,n/a,1.14,-9.39,1.98
-15,15,Dolphins,Sat,December 17,8:15PM ET,L,n/a,8-6,away,Buffalo Bills,29,32,20,405,217,188,n/a,29,446,296,150,1,10.87,-19.07,4.20
-16,16,Dolphins,Sun,December 25,1:00PM ET,L,n/a,8-7,home,Green Bay Packers,20,26,15,376,294,82,4,17,301,222,79,1,-2.13,3.46,-6.52
-17,17,Dolphins,Sun,January 1,1:00PM ET,L,n/a,8-8,away,New England Patriots,21,23,21,333,247,86,2,14,249,173,76,n/a,-1.36,1.20,-1.03
-18,18,Dolphins,Sun,January 8,1:00PM ET,W,n/a,9-8,home,New York Jets,11,6,17,302,140,162,n/a,11,187,149,38,n/a,-3.96,7.03,1.31
-n/a,n/a,Dolphins,n/a,<strong>Playoffs</strong>,n/a,n/a,n/a,n/a,home,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
-Wild Card,Wild Card,Dolphins,Sun,January 15,1:00PM ET,L,n/a,9-9,away,Buffalo Bills,31,34,16,231,189,42,2,25,423,316,107,3,-15.56,2.41,6.64
+,Week,Team,Day,Date,Time,Win/Loss,Overtime,Team Record,Home/Away,Opponent,Points Scored,Points Allowed,Offense 1st Down,Total Yards Gained of Offense,Total yards Gained by Passing,Total Yards Gained by Rushing,Offense Turnovers,Defense 1st Down,Total Yards Allowed by Defense,Total Passing Yards Allowed by Defense,Total Rushing Yards Allowed by Defense,Defense Turnovers,Offense,Defense,Sp. Tms,Year
+0,0,Dolphins,Sun,September 11,,W,0,1-0,home,New England Patriots,20,7,18,307,242,65,0,17,271,193,78,3,6.08,8.28,1.98,2022
+1,1,Dolphins,Sun,September 18,,W,0,2-0,away,Baltimore Ravens,42,38,27,547,461,86,2,23,473,318,155,0,32.0,-20.31,-7.09,2022
+2,2,Dolphins,Sun,September 25,,W,0,3-0,home,Buffalo Bills,21,19,15,212,171,41,0,31,497,382,115,1,7.45,-15.88,4.86,2022
+3,3,Dolphins,Thu,September 29,,L,0,3-1,away,Cincinnati Bengals,15,27,20,378,293,85,2,16,371,304,67,0,0.48,-9.11,-3.73,2022
+4,4,Dolphins,Sun,October 9,,L,0,3-2,away,New York Jets,17,40,19,295,158,137,2,21,322,187,135,0,-6.15,-11.86,-3.66,2022
+5,5,Dolphins,Sun,October 16,,L,0,3-3,home,Minnesota Vikings,16,24,23,458,385,73,3,11,234,156,78,0,-8.38,4.43,-4.75,2022
+6,6,Dolphins,Sun,October 23,,W,0,4-3,home,Pittsburgh Steelers,16,10,17,372,261,111,0,19,341,246,95,3,0.04,6.72,-2.49,2022
+7,7,Dolphins,Sun,October 30,,W,0,5-3,away,Detroit Lions,31,27,27,476,369,107,1,22,393,311,82,0,25.47,-19.14,-0.59,2022
+8,8,Dolphins,Sun,November 6,,W,0,6-3,away,Chicago Bears,35,32,21,379,302,77,0,23,368,116,252,0,19.83,-17.18,2.01,2022
+9,9,Dolphins,Sun,November 13,,W,0,7-3,home,Cleveland Browns,39,17,29,491,296,195,0,20,297,185,112,1,28.5,1.04,-4.93,2022
+10,10,Dolphins,,,,,0,,home,<strong>Bye Week</strong>,0,0,0,0,0,0,0,0,0,0,0,0,,,,2022
+11,11,Dolphins,Sun,November 27,,W,0,8-3,home,Houston Texans,30,15,25,339,273,66,1,14,210,174,36,3,-1.9,22.74,-3.97,2022
+12,12,Dolphins,Sun,December 4,,L,0,8-4,away,San Francisco 49ers,17,33,14,308,275,33,4,24,351,230,121,1,-13.36,-1.78,-1.0,2022
+13,13,Dolphins,Sun,December 11,,L,0,8-5,away,Los Angeles Chargers,17,23,14,219,127,92,0,24,432,350,82,0,1.14,-9.39,1.98,2022
+14,14,Dolphins,Sat,December 17,,L,0,8-6,away,Buffalo Bills,29,32,20,405,217,188,0,29,446,296,150,1,10.87,-19.07,4.2,2022
+15,15,Dolphins,Sun,December 25,,L,0,8-7,home,Green Bay Packers,20,26,15,376,294,82,4,17,301,222,79,1,-2.13,3.46,-6.52,2022
+16,16,Dolphins,Sun,January 1,,L,0,8-8,away,New England Patriots,21,23,21,333,247,86,2,14,249,173,76,0,-1.36,1.2,-1.03,2022
+17,17,Dolphins,Sun,January 8,,W,0,9-8,home,New York Jets,11,6,17,302,140,162,0,11,187,149,38,0,-3.96,7.03,1.31,2022
+18,18,Dolphins,,<strong>Playoffs</strong>,,,0,,home,,0,0,0,0,0,0,0,0,0,0,0,0,,,,2022
+19,19,Dolphins,Sun,January 15,,L,0,9-9,away,Buffalo Bills,31,34,16,231,189,42,2,25,423,316,107,3,-15.56,2.41,6.64,2022

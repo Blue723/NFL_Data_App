@@ -1,21 +1,21 @@
-,Week,Team,Day,Date,Time,Win/Loss,Overtime,Team Record,Home/Away,Opponent,Points Scored,Points Allowed,Offense 1st Down,Total Yards Gained of Offense,Total yards Gained by Passing,Total Yards Gained by Rushing,Offense Turnovers,Defense 1st Down,Total Yards Allowed by Defense,Total Passing Yards Allowed by Defense,Total Rushing Yards Allowed by Defense,Defense Turnovers,Offense,Defense,Sp. Tms
-1,1,Ravens,Sun,September 11,1:00PM ET,W,n/a,1-0,away,New York Jets,24,9,13,274,211,63,1,24,380,297,83,2,3.65,8.07,5.04
-2,2,Ravens,Sun,September 18,1:00PM ET,L,n/a,1-1,home,Miami Dolphins,38,42,23,473,318,155,n/a,27,547,461,86,2,20.31,-32.00,7.09
-3,3,Ravens,Sun,September 25,1:00PM ET,W,n/a,2-1,away,New England Patriots,37,26,19,394,206,188,2,22,447,302,145,4,11.67,-3.50,3.18
-4,4,Ravens,Sun,October 2,1:00PM ET,L,n/a,2-2,home,Buffalo Bills,20,23,22,296,134,162,2,22,326,201,125,2,-2.66,-2.10,1.69
-5,5,Ravens,Sun,October 9,8:20PM ET,W,n/a,3-2,home,Cincinnati Bengals,19,17,22,325,170,155,1,20,291,190,101,1,3.89,-3.22,1.19
-6,6,Ravens,Sun,October 16,1:00PM ET,L,n/a,3-3,away,New York Giants,20,24,23,406,195,211,2,18,238,155,83,1,6.00,-4.93,-8.06
-7,7,Ravens,Sun,October 23,1:00PM ET,W,n/a,4-3,home,Cleveland Browns,23,20,17,254,94,160,1,18,336,223,113,2,1.58,-6.61,7.18
-8,8,Ravens,Thu,October 27,8:15PM ET,W,n/a,5-3,away,Tampa Bay Buccaneers,27,22,27,453,222,231,n/a,20,349,305,44,1,11.24,-8.68,6.73
-9,9,Ravens,Mon,November 7,8:15PM ET,W,n/a,6-3,away,New Orleans Saints,27,13,23,319,131,188,n/a,13,243,195,48,1,11.91,3.99,-1.60
-10,10,Ravens,n/a,n/a,n/a,n/a,n/a,n/a,home,<strong>Bye Week</strong>,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
-11,11,Ravens,Sun,November 20,1:00PM ET,W,n/a,7-3,home,Carolina Panthers,13,3,19,308,193,115,1,13,205,169,36,3,-5.63,20.39,-3.58
-12,12,Ravens,Sun,November 27,1:00PM ET,L,n/a,7-4,away,Jacksonville Jaguars,27,28,24,415,253,162,2,18,332,294,38,1,8.53,-5.31,-1.38
-13,13,Ravens,Sun,December 4,1:00PM ET,W,n/a,8-4,home,Denver Broncos,10,9,20,285,182,103,2,12,272,184,88,n/a,-2.33,4.43,-1.45
-14,14,Ravens,Sun,December 11,1:00PM ET,W,n/a,9-4,away,Pittsburgh Steelers,16,14,18,309,94,215,n/a,23,329,264,65,3,1.06,-7.51,6.16
-15,15,Ravens,Sat,December 17,4:30PM ET,L,n/a,9-5,away,Cleveland Browns,3,13,17,324,126,198,2,19,283,140,143,n/a,-7.94,-2.64,-0.26
-16,16,Ravens,Sat,December 24,1:00PM ET,W,n/a,10-5,home,Atlanta Falcons,17,9,15,299,115,184,n/a,17,327,212,115,1,2.18,7.26,-3.42
-17,17,Ravens,Sun,January 1,8:20PM ET,L,n/a,10-6,home,Pittsburgh Steelers,13,16,15,240,120,120,1,22,351,153,198,n/a,-0.15,-9.30,6.66
-18,18,Ravens,Sun,January 8,1:00PM ET,L,n/a,10-7,away,Cincinnati Bengals,16,27,20,386,276,110,4,15,257,202,55,1,-13.37,9.98,-2.37
-n/a,n/a,Ravens,n/a,<strong>Playoffs</strong>,n/a,n/a,n/a,n/a,home,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
-Wild Card,Wild Card,Ravens,Sun,January 15,8:15PM ET,L,n/a,10-8,away,Cincinnati Bengals,17,24,23,364,209,155,2,18,234,183,51,1,-1.77,-0.70,-2.72
+,Week,Team,Day,Date,Time,Win/Loss,Overtime,Team Record,Home/Away,Opponent,Points Scored,Points Allowed,Offense 1st Down,Total Yards Gained of Offense,Total yards Gained by Passing,Total Yards Gained by Rushing,Offense Turnovers,Defense 1st Down,Total Yards Allowed by Defense,Total Passing Yards Allowed by Defense,Total Rushing Yards Allowed by Defense,Defense Turnovers,Offense,Defense,Sp. Tms,Year
+0,0,Ravens,Sun,September 11,,W,0,1-0,away,New York Jets,24,9,13,274,211,63,1,24,380,297,83,2,3.65,8.07,5.04,2022
+1,1,Ravens,Sun,September 18,,L,0,1-1,home,Miami Dolphins,38,42,23,473,318,155,0,27,547,461,86,2,20.31,-32.0,7.09,2022
+2,2,Ravens,Sun,September 25,,W,0,2-1,away,New England Patriots,37,26,19,394,206,188,2,22,447,302,145,4,11.67,-3.5,3.18,2022
+3,3,Ravens,Sun,October 2,,L,0,2-2,home,Buffalo Bills,20,23,22,296,134,162,2,22,326,201,125,2,-2.66,-2.1,1.69,2022
+4,4,Ravens,Sun,October 9,,W,0,3-2,home,Cincinnati Bengals,19,17,22,325,170,155,1,20,291,190,101,1,3.89,-3.22,1.19,2022
+5,5,Ravens,Sun,October 16,,L,0,3-3,away,New York Giants,20,24,23,406,195,211,2,18,238,155,83,1,6.0,-4.93,-8.06,2022
+6,6,Ravens,Sun,October 23,,W,0,4-3,home,Cleveland Browns,23,20,17,254,94,160,1,18,336,223,113,2,1.58,-6.61,7.18,2022
+7,7,Ravens,Thu,October 27,,W,0,5-3,away,Tampa Bay Buccaneers,27,22,27,453,222,231,0,20,349,305,44,1,11.24,-8.68,6.73,2022
+8,8,Ravens,Mon,November 7,,W,0,6-3,away,New Orleans Saints,27,13,23,319,131,188,0,13,243,195,48,1,11.91,3.99,-1.6,2022
+9,9,Ravens,,,,,0,,home,<strong>Bye Week</strong>,0,0,0,0,0,0,0,0,0,0,0,0,,,,2022
+10,10,Ravens,Sun,November 20,,W,0,7-3,home,Carolina Panthers,13,3,19,308,193,115,1,13,205,169,36,3,-5.63,20.39,-3.58,2022
+11,11,Ravens,Sun,November 27,,L,0,7-4,away,Jacksonville Jaguars,27,28,24,415,253,162,2,18,332,294,38,1,8.53,-5.31,-1.38,2022
+12,12,Ravens,Sun,December 4,,W,0,8-4,home,Denver Broncos,10,9,20,285,182,103,2,12,272,184,88,0,-2.33,4.43,-1.45,2022
+13,13,Ravens,Sun,December 11,,W,0,9-4,away,Pittsburgh Steelers,16,14,18,309,94,215,0,23,329,264,65,3,1.06,-7.51,6.16,2022
+14,14,Ravens,Sat,December 17,,L,0,9-5,away,Cleveland Browns,3,13,17,324,126,198,2,19,283,140,143,0,-7.94,-2.64,-0.26,2022
+15,15,Ravens,Sat,December 24,,W,0,10-5,home,Atlanta Falcons,17,9,15,299,115,184,0,17,327,212,115,1,2.18,7.26,-3.42,2022
+16,16,Ravens,Sun,January 1,,L,0,10-6,home,Pittsburgh Steelers,13,16,15,240,120,120,1,22,351,153,198,0,-0.15,-9.3,6.66,2022
+17,17,Ravens,Sun,January 8,,L,0,10-7,away,Cincinnati Bengals,16,27,20,386,276,110,4,15,257,202,55,1,-13.37,9.98,-2.37,2022
+18,18,Ravens,,<strong>Playoffs</strong>,,,0,,home,,0,0,0,0,0,0,0,0,0,0,0,0,,,,2022
+19,19,Ravens,Sun,January 15,,L,0,10-8,away,Cincinnati Bengals,17,24,23,364,209,155,2,18,234,183,51,1,-1.77,-0.7,-2.72,2022

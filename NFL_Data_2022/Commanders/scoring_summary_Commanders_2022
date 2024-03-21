@@ -1,18 +1,18 @@
-,No.,Team,Player,Age,Pos,Games Played,Games Started,Rush TD,Reception TD,Punt Return TD,Kick Return TD,Fumble Return TD,Interception TD,Other TD,All Touchdown Scored,2-Point Conversions Made,Two-Point Conversions Attempted,Defensive Two-Point Conversions,Extra Points Made,Extra Points Allowed,Field Goals Made,Field Goals Attempted,Safeties Scored by Player/Team,Total Points Scored by all Means,Poins per Game
-3,3,Commanders,Joey Slye,26,K,17,0,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,0,24,28,25,30,n/a,99,5.8
-1,1,Commanders,Jahan Dotson,22,WR,12,10,n/a,7,n/a,n/a,n/a,n/a,n/a,7,1,n/a,0,n/a,n/a,n/a,n/a,n/a,44,3.7
-24,24,Commanders,Antonio Gibson,24,RB,15,6,3,2,n/a,n/a,n/a,n/a,n/a,5,n/a,n/a,0,n/a,n/a,n/a,n/a,n/a,30,2.0
-17,17,Commanders,Terry McLaurin,27,WR,17,17,n/a,5,n/a,n/a,n/a,n/a,n/a,5,n/a,n/a,0,n/a,n/a,n/a,n/a,n/a,30,1.8
-10,10,Commanders,Curtis Samuel,26,WR,17,12,1,4,n/a,n/a,n/a,n/a,n/a,5,n/a,n/a,0,n/a,n/a,n/a,n/a,n/a,30,1.8
-8,8,Commanders,Brian Robinson Jr.,23,RB,12,9,2,1,n/a,n/a,n/a,n/a,n/a,3,n/a,n/a,0,n/a,n/a,n/a,n/a,n/a,18,1.5
-2,2,Commanders,Dyami Brown,23,WR,15,0,n/a,2,n/a,n/a,n/a,n/a,n/a,2,n/a,n/a,0,n/a,n/a,n/a,n/a,n/a,12,0.8
-29,29,Commanders,Kendall Fuller,27,CB,17,17,n/a,n/a,n/a,n/a,n/a,2,n/a,2,n/a,n/a,0,n/a,n/a,n/a,n/a,n/a,12,0.7
-87,87,Commanders,John Bates,25,TE,16,7,n/a,1,n/a,n/a,n/a,n/a,n/a,1,n/a,n/a,0,n/a,n/a,n/a,n/a,n/a,6,0.4
-4,4,Commanders,Taylor Heinicke,29,QB,9,9,1,n/a,n/a,n/a,n/a,n/a,n/a,1,n/a,n/a,0,n/a,n/a,n/a,n/a,n/a,6,0.7
-14,14,Commanders,Sam Howell,22,QB,1,1,1,n/a,n/a,n/a,n/a,n/a,n/a,1,n/a,n/a,0,n/a,n/a,n/a,n/a,n/a,6,6.0
-15,15,Commanders,Dax Milne,23,WR,15,1,n/a,1,n/a,n/a,n/a,n/a,n/a,1,n/a,n/a,0,n/a,n/a,n/a,n/a,n/a,6,0.4
-82,82,Commanders,Logan Thomas,31,TE,14,13,n/a,1,n/a,n/a,n/a,n/a,n/a,1,n/a,n/a,0,n/a,n/a,n/a,n/a,n/a,6,0.4
-95,95,Commanders,Casey Toohill,26,DE,16,0,n/a,n/a,n/a,n/a,1,n/a,n/a,1,n/a,n/a,0,n/a,n/a,n/a,n/a,n/a,6,0.4
-11,11,Commanders,Carson Wentz,30,QB,8,7,1,n/a,n/a,n/a,n/a,n/a,n/a,1,n/a,n/a,0,n/a,n/a,n/a,n/a,n/a,6,0.8
-23,23,Commanders,J.D. McKissic,29,RB,8,0,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,1,n/a,0,n/a,n/a,n/a,n/a,n/a,2,0.3
-94,94,Commanders,Daron Payne,25,DT,17,17,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,0,n/a,n/a,n/a,n/a,1,2,0.1
+,No.,Team,Player,Age,Pos,Games Played,Games Started,Rush TD,Reception TD,Punt Return TD,Kick Return TD,Fumble Return TD,Interception TD,Other TD,All Touchdown Scored,2-Point Conversions Made,Two-Point Conversions Attempted,Defensive Two-Point Conversions,Extra Points Made,Extra Points Allowed,Field Goals Made,Field Goals Attempted,Safeties Scored by Player/Team,Total Points Scored by all Means,Poins per Game,Year
+0,3,Commanders,Joey Slye,26,K,17,0,0,0,0,0,0,0,0,0,0,0,0,24,28,25,30,,99,5.8,2022
+1,1,Commanders,Jahan Dotson,22,WR,12,10,0,7,0,0,0,0,0,7,1,0,0,0,0,0,0,,44,3.7,2022
+2,24,Commanders,Antonio Gibson,24,RB,15,6,3,2,0,0,0,0,0,5,0,0,0,0,0,0,0,,30,2.0,2022
+3,17,Commanders,Terry McLaurin,27,WR,17,17,0,5,0,0,0,0,0,5,0,0,0,0,0,0,0,,30,1.8,2022
+4,10,Commanders,Curtis Samuel,26,WR,17,12,1,4,0,0,0,0,0,5,0,0,0,0,0,0,0,,30,1.8,2022
+5,8,Commanders,Brian Robinson Jr.,23,RB,12,9,2,1,0,0,0,0,0,3,0,0,0,0,0,0,0,,18,1.5,2022
+6,2,Commanders,Dyami Brown,23,WR,15,0,0,2,0,0,0,0,0,2,0,0,0,0,0,0,0,,12,0.8,2022
+7,29,Commanders,Kendall Fuller,27,CB,17,17,0,0,0,0,0,2,0,2,0,0,0,0,0,0,0,,12,0.7,2022
+8,87,Commanders,John Bates,25,TE,16,7,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,,6,0.4,2022
+9,4,Commanders,Taylor Heinicke,29,QB,9,9,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,,6,0.7,2022
+10,14,Commanders,Sam Howell,22,QB,1,1,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,,6,6.0,2022
+11,15,Commanders,Dax Milne,23,WR,15,1,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,,6,0.4,2022
+12,82,Commanders,Logan Thomas,31,TE,14,13,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,,6,0.4,2022
+13,95,Commanders,Casey Toohill,26,DE,16,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,,6,0.4,2022
+14,11,Commanders,Carson Wentz,30,QB,8,7,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,,6,0.8,2022
+15,23,Commanders,J.D. McKissic,29,RB,8,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,,2,0.3,2022
+16,94,Commanders,Daron Payne,25,DT,17,17,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1.0,2,0.1,2022

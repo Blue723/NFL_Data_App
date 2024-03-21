@@ -1,4 +1,4 @@
-,No.,Team,Player,Age,Position,Games Played,Games Started,Punts Returned,Punts Return Yardage,Punts Returned for Touchdown,Longest Punt Return,Yards per Punt Return,Kickoff Returns,Yardage for Kickoffs Returned,Kickoffs Returned for a Touchdown,Longest Kickoff Return,Yards per Kickoff Return,All-purpose Yards
-83,83,Cardinals,Greg Dortch,24,WR,16,4,26,172,0,18,6.6,11,218,0,31,19.8,901
-15,15,Cardinals,Pharoh Cooper,27,WR,5,1,9,117,0,28,13.0,12,288,0,33,24.0,426
-26,26,Cardinals,Eno Benjamin,23,RB,10,3,n/a,n/a,0,n/a,n/a,8,180,0,44,22.5,663
+,No.,Team,Player,Age,Position,Games Played,Games Started,Punts Returned,Punts Return Yardage,Punts Returned for Touchdown,Longest Punt Return,Yards per Punt Return,Kickoff Returns,Yardage for Kickoffs Returned,Kickoffs Returned for a Touchdown,Longest Kickoff Return,Yards per Kickoff Return,All-purpose Yards,Year
+0,83,Cardinals,Greg Dortch,24,WR,16,4,26,172,0,18,6.6,11,218,0,31,19.8,901,2022
+1,15,Cardinals,Pharoh Cooper,27,WR,5,1,9,117,0,28,13.0,12,288,0,33,24.0,426,2022
+2,26,Cardinals,Eno Benjamin,23,RB,10,3,0,0,0,0,,8,180,0,44,22.5,663,2022

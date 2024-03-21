@@ -1,18 +1,18 @@
-,No.,Team,Player,Age,Pos,Games Played,Games Started,Rush TD,Reception TD,Punt Return TD,Kick Return TD,Fumble Return TD,Interception TD,Other TD,All Touchdown Scored,2-Point Conversions Made,Two-Point Conversions Attempted,Defensive Two-Point Conversions,Extra Points Made,Extra Points Allowed,Field Goals Made,Field Goals Attempted,Safeties Scored by Player/Team,Total Points Scored by all Means,Poins per Game
-9,9,Giants,Graham Gano,35,K,17,0,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,0,32,34,29,32,n/a,119,7.0
-26,26,Giants,Saquon Barkley,25,RB,16,16,10,n/a,n/a,n/a,n/a,n/a,n/a,10,1,n/a,0,n/a,n/a,n/a,n/a,n/a,62,3.9
-8,8,Giants,Daniel Jones,25,QB,16,16,7,n/a,n/a,n/a,n/a,n/a,n/a,7,n/a,n/a,0,n/a,n/a,n/a,n/a,n/a,42,2.6
-18,18,Giants,Isaiah Hodgins,24,WR,8,5,n/a,4,n/a,n/a,n/a,n/a,n/a,4,1,n/a,0,n/a,n/a,n/a,n/a,n/a,26,3.3
-80,80,Giants,Richie James,27,WR,17,4,n/a,4,n/a,n/a,n/a,n/a,n/a,4,n/a,n/a,0,n/a,n/a,n/a,n/a,n/a,24,1.4
-45,45,Giants,Daniel Bellinger,22,TE,12,11,1,2,n/a,n/a,n/a,n/a,n/a,3,1,n/a,0,n/a,n/a,n/a,n/a,n/a,20,1.7
-86,86,Giants,Darius Slayton,25,WR,16,11,n/a,2,n/a,n/a,n/a,n/a,n/a,2,n/a,n/a,0,n/a,n/a,n/a,n/a,n/a,12,0.8
-31,31,Giants,Matt Breida,27,RB,17,1,1,n/a,n/a,n/a,n/a,n/a,n/a,1,n/a,n/a,0,n/a,n/a,n/a,n/a,n/a,6,0.4
-23,23,Giants,Gary Brightwell,23,RB,17,0,1,n/a,n/a,n/a,n/a,n/a,n/a,1,n/a,n/a,0,n/a,n/a,n/a,n/a,n/a,6,0.4
-83,83,Giants,Lawrence Cager,25,TE,6,3,n/a,1,n/a,n/a,n/a,n/a,n/a,1,n/a,n/a,0,n/a,n/a,n/a,n/a,n/a,6,1.0
-21,21,Giants,Landon Collins,28,S,6,1,n/a,n/a,n/a,n/a,n/a,1,n/a,1,n/a,n/a,0,n/a,n/a,n/a,n/a,n/a,6,1.0
-19,19,Giants,Kenny Golladay,29,WR,12,4,n/a,1,n/a,n/a,n/a,n/a,n/a,1,n/a,n/a,0,n/a,n/a,n/a,n/a,n/a,6,0.5
-85,85,Giants,Chris Myarick,27,FB,16,8,n/a,1,n/a,n/a,n/a,n/a,n/a,1,n/a,n/a,0,n/a,n/a,n/a,n/a,n/a,6,0.4
-17,17,Giants,Wan'Dale Robinson,21,WR,6,3,n/a,1,n/a,n/a,n/a,n/a,n/a,1,n/a,n/a,0,n/a,n/a,n/a,n/a,n/a,6,1.0
-3,3,Giants,Sterling Shepard,29,WR,3,2,n/a,1,n/a,n/a,n/a,n/a,n/a,1,n/a,n/a,0,n/a,n/a,n/a,n/a,n/a,6,2.0
-5,5,Giants,Kayvon Thibodeaux,22,OLB,14,14,n/a,n/a,n/a,n/a,1,n/a,n/a,1,n/a,n/a,0,n/a,n/a,n/a,n/a,n/a,6,0.4
-12,12,Giants,Davis Webb,27,QB,1,1,1,n/a,n/a,n/a,n/a,n/a,n/a,1,n/a,n/a,0,n/a,n/a,n/a,n/a,n/a,6,6.0
+,No.,Team,Player,Age,Pos,Games Played,Games Started,Rush TD,Reception TD,Punt Return TD,Kick Return TD,Fumble Return TD,Interception TD,Other TD,All Touchdown Scored,2-Point Conversions Made,Two-Point Conversions Attempted,Defensive Two-Point Conversions,Extra Points Made,Extra Points Allowed,Field Goals Made,Field Goals Attempted,Safeties Scored by Player/Team,Total Points Scored by all Means,Poins per Game,Year
+0,9,Giants,Graham Gano,35,K,17,0,0,0,0,0,0,0,0,0,0,0,0,32,34,29,32,,119,7.0,2022
+1,26,Giants,Saquon Barkley,25,RB,16,16,10,0,0,0,0,0,0,10,1,0,0,0,0,0,0,,62,3.9,2022
+2,8,Giants,Daniel Jones,25,QB,16,16,7,0,0,0,0,0,0,7,0,0,0,0,0,0,0,,42,2.6,2022
+3,18,Giants,Isaiah Hodgins,24,WR,8,5,0,4,0,0,0,0,0,4,1,0,0,0,0,0,0,,26,3.3,2022
+4,80,Giants,Richie James,27,WR,17,4,0,4,0,0,0,0,0,4,0,0,0,0,0,0,0,,24,1.4,2022
+5,45,Giants,Daniel Bellinger,22,TE,12,11,1,2,0,0,0,0,0,3,1,0,0,0,0,0,0,,20,1.7,2022
+6,86,Giants,Darius Slayton,25,WR,16,11,0,2,0,0,0,0,0,2,0,0,0,0,0,0,0,,12,0.8,2022
+7,31,Giants,Matt Breida,27,RB,17,1,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,,6,0.4,2022
+8,23,Giants,Gary Brightwell,23,RB,17,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,,6,0.4,2022
+9,83,Giants,Lawrence Cager,25,TE,6,3,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,,6,1.0,2022
+10,21,Giants,Landon Collins,28,S,6,1,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,,6,1.0,2022
+11,19,Giants,Kenny Golladay,29,WR,12,4,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,,6,0.5,2022
+12,85,Giants,Chris Myarick,27,FB,16,8,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,,6,0.4,2022
+13,17,Giants,Wan'Dale Robinson,21,WR,6,3,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,,6,1.0,2022
+14,3,Giants,Sterling Shepard,29,WR,3,2,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,,6,2.0,2022
+15,5,Giants,Kayvon Thibodeaux,22,OLB,14,14,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,,6,0.4,2022
+16,12,Giants,Davis Webb,27,QB,1,1,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,,6,6.0,2022

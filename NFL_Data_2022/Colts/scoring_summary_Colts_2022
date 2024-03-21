@@ -1,18 +1,18 @@
-,No.,Team,Player,Age,Pos,Games Played,Games Started,Rush TD,Reception TD,Punt Return TD,Kick Return TD,Fumble Return TD,Interception TD,Other TD,All Touchdown Scored,2-Point Conversions Made,Two-Point Conversions Attempted,Defensive Two-Point Conversions,Extra Points Made,Extra Points Allowed,Field Goals Made,Field Goals Attempted,Safeties Scored by Player/Team,Total Points Scored by all Means,Poins per Game
-7,7,Colts,Chase McLaughlin,26,K,16,0,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,0,21,21,30,36,n/a,111,6.9
-11,11,Colts,Michael Pittman Jr.,25,WR,16,16,n/a,4,n/a,n/a,n/a,n/a,n/a,4,n/a,n/a,0,n/a,n/a,n/a,n/a,n/a,24,1.5
-28,28,Colts,Jonathan Taylor,23,RB,11,11,4,n/a,n/a,n/a,n/a,n/a,n/a,4,n/a,n/a,0,n/a,n/a,n/a,n/a,n/a,24,2.2
-81,81,Colts,Mo Alie-Cox,29,TE,17,11,n/a,3,n/a,n/a,n/a,n/a,n/a,3,n/a,n/a,0,n/a,n/a,n/a,n/a,n/a,18,1.1
-1,1,Colts,Parris Campbell,25,WR,17,16,n/a,3,n/a,n/a,n/a,n/a,n/a,3,n/a,n/a,0,n/a,n/a,n/a,n/a,n/a,18,1.1
-80,80,Colts,Jelani Woods,24,TE,15,2,n/a,3,n/a,n/a,n/a,n/a,n/a,3,n/a,n/a,0,n/a,n/a,n/a,n/a,n/a,18,1.2
-35,35,Colts,Deon Jackson,23,RB,16,2,1,1,n/a,n/a,n/a,n/a,n/a,2,n/a,n/a,0,n/a,n/a,n/a,n/a,n/a,12,0.8
-14,14,Colts,Alec Pierce,22,WR,16,12,n/a,2,n/a,n/a,n/a,n/a,n/a,2,n/a,n/a,0,n/a,n/a,n/a,n/a,n/a,12,0.8
-3,3,Colts,Rodrigo Blankenship,25,K,1,0,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,0,2,2,2,3,n/a,8,8.0
-32,32,Colts,Julian Blackmon,24,S,14,11,n/a,n/a,n/a,n/a,n/a,1,n/a,1,n/a,n/a,0,n/a,n/a,n/a,n/a,n/a,6,0.4
-57,57,Colts,JoJo Domann,25,LB,16,0,n/a,n/a,n/a,n/a,n/a,n/a,1,1,n/a,n/a,0,n/a,n/a,n/a,n/a,n/a,6,0.4
-16,16,Colts,Ashton Dulin,25,WR,12,2,n/a,1,n/a,n/a,n/a,n/a,n/a,1,n/a,n/a,0,n/a,n/a,n/a,n/a,n/a,6,0.5
-21,21,Colts,Nyheim Hines,26,RB,7,4,1,n/a,n/a,n/a,n/a,n/a,n/a,1,n/a,n/a,0,n/a,n/a,n/a,n/a,n/a,6,0.9
-26,26,Colts,Rodney McLeod,32,S,17,15,n/a,n/a,n/a,n/a,n/a,1,n/a,1,n/a,n/a,0,n/a,n/a,n/a,n/a,n/a,6,0.4
-21,21,Colts,Zack Moss,25,RB,8,3,1,n/a,n/a,n/a,n/a,n/a,n/a,1,n/a,n/a,0,n/a,n/a,n/a,n/a,n/a,6,0.8
-2,2,Colts,Matt Ryan,37,QB,12,12,1,n/a,n/a,n/a,n/a,n/a,n/a,1,n/a,n/a,0,n/a,n/a,n/a,n/a,n/a,6,0.5
-30,30,Colts,Phillip Lindsay,28,RB,3,0,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,1,n/a,0,n/a,n/a,n/a,n/a,n/a,2,0.7
+,No.,Team,Player,Age,Pos,Games Played,Games Started,Rush TD,Reception TD,Punt Return TD,Kick Return TD,Fumble Return TD,Interception TD,Other TD,All Touchdown Scored,2-Point Conversions Made,Two-Point Conversions Attempted,Defensive Two-Point Conversions,Extra Points Made,Extra Points Allowed,Field Goals Made,Field Goals Attempted,Safeties Scored by Player/Team,Total Points Scored by all Means,Poins per Game,Year
+0,7,Colts,Chase McLaughlin,26,K,16,0,0,0,0,0,0,0,0,0,0,0,0,21,21,30,36,,111,6.9,2022
+1,11,Colts,Michael Pittman Jr.,25,WR,16,16,0,4,0,0,0,0,0,4,0,0,0,0,0,0,0,,24,1.5,2022
+2,28,Colts,Jonathan Taylor,23,RB,11,11,4,0,0,0,0,0,0,4,0,0,0,0,0,0,0,,24,2.2,2022
+3,81,Colts,Mo Alie-Cox,29,TE,17,11,0,3,0,0,0,0,0,3,0,0,0,0,0,0,0,,18,1.1,2022
+4,1,Colts,Parris Campbell,25,WR,17,16,0,3,0,0,0,0,0,3,0,0,0,0,0,0,0,,18,1.1,2022
+5,80,Colts,Jelani Woods,24,TE,15,2,0,3,0,0,0,0,0,3,0,0,0,0,0,0,0,,18,1.2,2022
+6,35,Colts,Deon Jackson,23,RB,16,2,1,1,0,0,0,0,0,2,0,0,0,0,0,0,0,,12,0.8,2022
+7,14,Colts,Alec Pierce,22,WR,16,12,0,2,0,0,0,0,0,2,0,0,0,0,0,0,0,,12,0.8,2022
+8,3,Colts,Rodrigo Blankenship,25,K,1,0,0,0,0,0,0,0,0,0,0,0,0,2,2,2,3,,8,8.0,2022
+9,32,Colts,Julian Blackmon,24,S,14,11,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,,6,0.4,2022
+10,57,Colts,JoJo Domann,25,LB,16,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,,6,0.4,2022
+11,16,Colts,Ashton Dulin,25,WR,12,2,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,,6,0.5,2022
+12,21,Colts,Nyheim Hines,26,RB,7,4,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,,6,0.9,2022
+13,26,Colts,Rodney McLeod,32,S,17,15,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,,6,0.4,2022
+14,21,Colts,Zack Moss,25,RB,8,3,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,,6,0.8,2022
+15,2,Colts,Matt Ryan,37,QB,12,12,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,,6,0.5,2022
+16,30,Colts,Phillip Lindsay,28,RB,3,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,,2,0.7,2022

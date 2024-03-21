@@ -1,14 +1,14 @@
-,No.,Team,Player,Age,Pos,Games Played,Games Started,Rush TD,Reception TD,Punt Return TD,Kick Return TD,Fumble Return TD,Interception TD,Other TD,All Touchdown Scored,2-Point Conversions Made,Two-Point Conversions Attempted,Defensive Two-Point Conversions,Extra Points Made,Extra Points Allowed,Field Goals Made,Field Goals Attempted,Safeties Scored by Player/Team,Total Points Scored by all Means,Poins per Game
-3,3,Buccaneers,Ryan Succop,36,K,17,0,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,0,24,25,31,38,n/a,117,6.9
-13,13,Buccaneers,Mike Evans,29,WR,15,15,n/a,6,n/a,n/a,n/a,n/a,n/a,6,n/a,n/a,0,n/a,n/a,n/a,n/a,n/a,36,2.4
-7,7,Buccaneers,Leonard Fournette,27,RB,16,9,3,3,n/a,n/a,n/a,n/a,n/a,6,n/a,n/a,0,n/a,n/a,n/a,n/a,n/a,36,2.3
-17,17,Buccaneers,Russell Gage,26,WR,13,4,n/a,5,n/a,n/a,n/a,n/a,n/a,5,1,n/a,0,n/a,n/a,n/a,n/a,n/a,32,2.5
-14,14,Buccaneers,Chris Godwin,26,WR,15,13,n/a,3,n/a,n/a,n/a,n/a,n/a,3,1,n/a,0,n/a,n/a,n/a,n/a,n/a,20,1.3
-1,1,Buccaneers,Rachaad White,23,RB,17,8,1,2,n/a,n/a,n/a,n/a,n/a,3,n/a,n/a,0,n/a,n/a,n/a,n/a,n/a,18,1.1
-6,6,Buccaneers,Julio Jones,33,WR,10,5,n/a,2,n/a,n/a,n/a,n/a,n/a,2,n/a,n/a,0,n/a,n/a,n/a,n/a,n/a,12,1.2
-88,88,Buccaneers,Cade Otton,23,TE,16,11,n/a,2,n/a,n/a,n/a,n/a,n/a,2,n/a,n/a,0,n/a,n/a,n/a,n/a,n/a,12,0.8
-12,12,Buccaneers,Tom Brady,45,QB,17,17,1,n/a,n/a,n/a,n/a,n/a,n/a,1,n/a,n/a,0,n/a,n/a,n/a,n/a,n/a,6,0.4
-32,32,Buccaneers,Mike Edwards,26,S,13,12,n/a,n/a,n/a,n/a,n/a,1,n/a,1,n/a,n/a,0,n/a,n/a,n/a,n/a,n/a,6,0.5
-41,41,Buccaneers,Ko Kieft,24,TE,17,12,n/a,1,n/a,n/a,n/a,n/a,n/a,1,n/a,n/a,0,n/a,n/a,n/a,n/a,n/a,6,0.4
-16,16,Buccaneers,Breshad Perriman,29,WR,11,3,n/a,1,n/a,n/a,n/a,n/a,n/a,1,n/a,n/a,0,n/a,n/a,n/a,n/a,n/a,6,0.5
-8,8,Buccaneers,Kyle Rudolph,33,TE,9,0,n/a,1,n/a,n/a,n/a,n/a,n/a,1,n/a,n/a,0,n/a,n/a,n/a,n/a,n/a,6,0.7
+,No.,Team,Player,Age,Pos,Games Played,Games Started,Rush TD,Reception TD,Punt Return TD,Kick Return TD,Fumble Return TD,Interception TD,Other TD,All Touchdown Scored,2-Point Conversions Made,Two-Point Conversions Attempted,Defensive Two-Point Conversions,Extra Points Made,Extra Points Allowed,Field Goals Made,Field Goals Attempted,Safeties Scored by Player/Team,Total Points Scored by all Means,Poins per Game,Year
+0,3,Buccaneers,Ryan Succop,36,K,17,0,0,0,0,0,0,0,0,0,0,0,0,24,25,31,38,,117,6.9,2022
+1,13,Buccaneers,Mike Evans,29,WR,15,15,0,6,0,0,0,0,0,6,0,0,0,0,0,0,0,,36,2.4,2022
+2,7,Buccaneers,Leonard Fournette,27,RB,16,9,3,3,0,0,0,0,0,6,0,0,0,0,0,0,0,,36,2.3,2022
+3,17,Buccaneers,Russell Gage,26,WR,13,4,0,5,0,0,0,0,0,5,1,0,0,0,0,0,0,,32,2.5,2022
+4,14,Buccaneers,Chris Godwin,26,WR,15,13,0,3,0,0,0,0,0,3,1,0,0,0,0,0,0,,20,1.3,2022
+5,1,Buccaneers,Rachaad White,23,RB,17,8,1,2,0,0,0,0,0,3,0,0,0,0,0,0,0,,18,1.1,2022
+6,6,Buccaneers,Julio Jones,33,WR,10,5,0,2,0,0,0,0,0,2,0,0,0,0,0,0,0,,12,1.2,2022
+7,88,Buccaneers,Cade Otton,23,TE,16,11,0,2,0,0,0,0,0,2,0,0,0,0,0,0,0,,12,0.8,2022
+8,12,Buccaneers,Tom Brady,45,QB,17,17,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,,6,0.4,2022
+9,32,Buccaneers,Mike Edwards,26,S,13,12,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,,6,0.5,2022
+10,41,Buccaneers,Ko Kieft,24,TE,17,12,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,,6,0.4,2022
+11,16,Buccaneers,Breshad Perriman,29,WR,11,3,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,,6,0.5,2022
+12,8,Buccaneers,Kyle Rudolph,33,TE,9,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,,6,0.7,2022

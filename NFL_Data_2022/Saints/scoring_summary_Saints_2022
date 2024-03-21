@@ -1,15 +1,15 @@
-,No.,Team,Player,Age,Pos,Games Played,Games Started,Rush TD,Reception TD,Punt Return TD,Kick Return TD,Fumble Return TD,Interception TD,Other TD,All Touchdown Scored,2-Point Conversions Made,Two-Point Conversions Attempted,Defensive Two-Point Conversions,Extra Points Made,Extra Points Allowed,Field Goals Made,Field Goals Attempted,Safeties Scored by Player/Team,Total Points Scored by all Means,Poins per Game
-3,3,Saints,Wil Lutz,28,K,17,0,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,0,33,33,23,31,n/a,102,6.0
-7,7,Saints,Taysom Hill,32,TE,16,8,7,2,n/a,n/a,n/a,n/a,n/a,9,n/a,n/a,0,n/a,n/a,n/a,n/a,n/a,54,3.4
-83,83,Saints,Juwan Johnson,26,TE,16,12,n/a,7,n/a,n/a,n/a,n/a,n/a,7,n/a,n/a,0,n/a,n/a,n/a,n/a,n/a,42,2.6
-12,12,Saints,Chris Olave,22,WR,15,9,n/a,4,n/a,n/a,n/a,n/a,n/a,4,1,n/a,0,n/a,n/a,n/a,n/a,n/a,26,1.7
-41,41,Saints,Alvin Kamara,27,RB,15,13,2,2,n/a,n/a,n/a,n/a,n/a,4,n/a,n/a,0,n/a,n/a,n/a,n/a,n/a,24,1.6
-89,89,Saints,Rashid Shaheed,24,WR,12,6,1,2,n/a,n/a,n/a,n/a,n/a,3,n/a,n/a,0,n/a,n/a,n/a,n/a,n/a,18,1.5
-13,13,Saints,Michael Thomas,29,WR,3,3,n/a,3,n/a,n/a,n/a,n/a,n/a,3,n/a,n/a,0,n/a,n/a,n/a,n/a,n/a,18,6.0
-22,22,Saints,Mark Ingram,33,RB,10,3,1,n/a,n/a,n/a,n/a,n/a,n/a,1,1,n/a,0,n/a,n/a,n/a,n/a,n/a,8,0.8
-5,5,Saints,Jarvis Landry,30,WR,9,3,n/a,1,n/a,n/a,n/a,n/a,n/a,1,1,n/a,0,n/a,n/a,n/a,n/a,n/a,8,0.9
-1,1,Saints,Marquez Callaway,24,WR,14,3,n/a,1,n/a,n/a,n/a,n/a,n/a,1,n/a,n/a,0,n/a,n/a,n/a,n/a,n/a,6,0.4
-23,23,Saints,Marshon Lattimore,26,CB,7,7,n/a,n/a,n/a,n/a,n/a,1,n/a,1,n/a,n/a,0,n/a,n/a,n/a,n/a,n/a,6,0.9
-28,28,Saints,Latavius Murray,32,RB,1,0,1,n/a,n/a,n/a,n/a,n/a,n/a,1,n/a,n/a,0,n/a,n/a,n/a,n/a,n/a,6,6.0
-10,10,Saints,Tre'Quan Smith,26,WR,15,6,n/a,1,n/a,n/a,n/a,n/a,n/a,1,n/a,n/a,0,n/a,n/a,n/a,n/a,n/a,6,0.4
-82,82,Saints,Adam Trautman,25,TE,15,12,n/a,1,n/a,n/a,n/a,n/a,n/a,1,n/a,n/a,0,n/a,n/a,n/a,n/a,n/a,6,0.4
+,No.,Team,Player,Age,Pos,Games Played,Games Started,Rush TD,Reception TD,Punt Return TD,Kick Return TD,Fumble Return TD,Interception TD,Other TD,All Touchdown Scored,2-Point Conversions Made,Two-Point Conversions Attempted,Defensive Two-Point Conversions,Extra Points Made,Extra Points Allowed,Field Goals Made,Field Goals Attempted,Safeties Scored by Player/Team,Total Points Scored by all Means,Poins per Game,Year
+0,3,Saints,Wil Lutz,28,K,17,0,0,0,0,0,0,0,0,0,0,0,0,33,33,23,31,,102,6.0,2022
+1,7,Saints,Taysom Hill,32,TE,16,8,7,2,0,0,0,0,0,9,0,0,0,0,0,0,0,,54,3.4,2022
+2,83,Saints,Juwan Johnson,26,TE,16,12,0,7,0,0,0,0,0,7,0,0,0,0,0,0,0,,42,2.6,2022
+3,12,Saints,Chris Olave,22,WR,15,9,0,4,0,0,0,0,0,4,1,0,0,0,0,0,0,,26,1.7,2022
+4,41,Saints,Alvin Kamara,27,RB,15,13,2,2,0,0,0,0,0,4,0,0,0,0,0,0,0,,24,1.6,2022
+5,89,Saints,Rashid Shaheed,24,WR,12,6,1,2,0,0,0,0,0,3,0,0,0,0,0,0,0,,18,1.5,2022
+6,13,Saints,Michael Thomas,29,WR,3,3,0,3,0,0,0,0,0,3,0,0,0,0,0,0,0,,18,6.0,2022
+7,22,Saints,Mark Ingram,33,RB,10,3,1,0,0,0,0,0,0,1,1,0,0,0,0,0,0,,8,0.8,2022
+8,5,Saints,Jarvis Landry,30,WR,9,3,0,1,0,0,0,0,0,1,1,0,0,0,0,0,0,,8,0.9,2022
+9,1,Saints,Marquez Callaway,24,WR,14,3,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,,6,0.4,2022
+10,23,Saints,Marshon Lattimore,26,CB,7,7,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,,6,0.9,2022
+11,28,Saints,Latavius Murray,32,RB,1,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,,6,6.0,2022
+12,10,Saints,Tre'Quan Smith,26,WR,15,6,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,,6,0.4,2022
+13,82,Saints,Adam Trautman,25,TE,15,12,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,,6,0.4,2022

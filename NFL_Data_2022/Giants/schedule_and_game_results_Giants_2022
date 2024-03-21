@@ -1,22 +1,22 @@
-,Week,Team,Day,Date,Time,Win/Loss,Overtime,Team Record,Home/Away,Opponent,Points Scored,Points Allowed,Offense 1st Down,Total Yards Gained of Offense,Total yards Gained by Passing,Total Yards Gained by Rushing,Offense Turnovers,Defense 1st Down,Total Yards Allowed by Defense,Total Passing Yards Allowed by Defense,Total Rushing Yards Allowed by Defense,Defense Turnovers,Offense,Defense,Sp. Tms
-1,1,Giants,Sun,September 11,4:25PM ET,W,n/a,1-0,away,Tennessee Titans,21,20,19,394,156,238,2,19,359,266,93,1,3.72,-5.97,2.44
-2,2,Giants,Sun,September 18,1:00PM ET,W,n/a,2-0,home,Carolina Panthers,19,16,18,265,162,103,n/a,18,275,129,146,2,-6.20,2.09,6.13
-3,3,Giants,Mon,September 26,8:15PM ET,L,n/a,2-1,home,Dallas Cowboys,16,23,22,336,169,167,1,23,391,215,176,n/a,-0.51,-10.78,0.01
-4,4,Giants,Sun,October 2,1:00PM ET,W,n/a,3-1,home,Chicago Bears,20,12,21,333,71,262,2,16,304,155,149,3,9.33,6.69,-7.79
-5,5,Giants,Sun,October 9,9:30AM ET,W,n/a,4-1,away,Green Bay Packers,27,22,24,338,213,125,n/a,22,301,207,94,n/a,16.07,-5.67,-4.63
-6,6,Giants,Sun,October 16,1:00PM ET,W,n/a,5-1,home,Baltimore Ravens,24,20,18,238,155,83,1,23,406,195,211,2,4.93,-6.00,8.06
-7,7,Giants,Sun,October 23,1:00PM ET,W,n/a,6-1,away,Jacksonville Jaguars,23,17,27,436,200,236,n/a,27,452,310,142,1,17.00,-14.14,-2.50
-8,8,Giants,Sun,October 30,4:25PM ET,L,n/a,6-2,away,Seattle Seahawks,13,27,14,225,147,78,2,19,277,190,87,1,-10.80,2.79,-8.31
-9,9,Giants,n/a,n/a,n/a,n/a,n/a,n/a,home,<strong>Bye Week</strong>,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
-10,10,Giants,Sun,November 13,1:00PM ET,W,n/a,7-2,home,Houston Texans,24,16,19,367,176,191,n/a,22,387,286,101,2,10.29,-0.40,-0.41
-11,11,Giants,Sun,November 20,1:00PM ET,L,n/a,7-3,home,Detroit Lions,18,31,25,413,324,89,3,23,325,165,160,n/a,0.64,-9.36,-7.69
-12,12,Giants,Thu,November 24,4:30PM ET,L,n/a,7-4,away,Dallas Cowboys,20,28,21,300,210,90,n/a,26,430,261,169,2,0.13,-16.03,6.25
-13,13,Giants,Sun,December 4,1:00PM ET,T,OT,7-4-1,home,Washington Commanders,20,20,20,316,182,134,1,25,411,246,165,1,-2.71,-2.87,5.65
-14,14,Giants,Sun,December 11,1:00PM ET,L,n/a,7-5-1,home,Philadelphia Eagles,22,48,18,304,181,123,1,27,437,184,253,n/a,-1.45,-28.90,1.98
-15,15,Giants,Sun,December 18,8:15PM ET,W,n/a,8-5-1,away,Washington Commanders,20,12,19,288,160,128,n/a,20,387,228,159,2,0.95,3.08,2.25
-16,16,Giants,Sat,December 24,1:00PM ET,L,n/a,8-6-1,away,Minnesota Vikings,24,27,23,445,319,126,2,23,353,270,83,n/a,6.20,-7.38,-3.12
-17,17,Giants,Sun,January 1,1:00PM ET,W,n/a,9-6-1,home,Indianapolis Colts,38,10,26,394,177,217,1,14,252,124,128,1,17.59,5.92,2.69
-18,18,Giants,Sun,January 8,4:25PM ET,L,n/a,9-7-1,away,Philadelphia Eagles,16,22,18,284,155,129,n/a,23,342,207,135,1,-1.86,-0.69,-4.64
-n/a,n/a,Giants,n/a,<strong>Playoffs</strong>,n/a,n/a,n/a,n/a,home,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
-Wild Card,Wild Card,Giants,Sun,January 15,4:30PM ET,W,n/a,10-7-1,away,Minnesota Vikings,31,24,28,431,289,142,n/a,21,332,271,61,n/a,24.00,-13.86,-3.74
-Division,Division,Giants,Sat,January 21,8:15PM ET,L,n/a,10-8-1,away,Philadelphia Eagles,7,38,13,227,109,118,1,26,416,148,268,n/a,-9.27,-23.74,4.67
+,Week,Team,Day,Date,Time,Win/Loss,Overtime,Team Record,Home/Away,Opponent,Points Scored,Points Allowed,Offense 1st Down,Total Yards Gained of Offense,Total yards Gained by Passing,Total Yards Gained by Rushing,Offense Turnovers,Defense 1st Down,Total Yards Allowed by Defense,Total Passing Yards Allowed by Defense,Total Rushing Yards Allowed by Defense,Defense Turnovers,Offense,Defense,Sp. Tms,Year
+0,0,Giants,Sun,September 11,,W,0,1-0,away,Tennessee Titans,21,20,19,394,156,238,2,19,359,266,93,1,3.72,-5.97,2.44,2022
+1,1,Giants,Sun,September 18,,W,0,2-0,home,Carolina Panthers,19,16,18,265,162,103,0,18,275,129,146,2,-6.2,2.09,6.13,2022
+2,2,Giants,Mon,September 26,,L,0,2-1,home,Dallas Cowboys,16,23,22,336,169,167,1,23,391,215,176,0,-0.51,-10.78,0.01,2022
+3,3,Giants,Sun,October 2,,W,0,3-1,home,Chicago Bears,20,12,21,333,71,262,2,16,304,155,149,3,9.33,6.69,-7.79,2022
+4,4,Giants,Sun,October 9,,W,0,4-1,away,Green Bay Packers,27,22,24,338,213,125,0,22,301,207,94,0,16.07,-5.67,-4.63,2022
+5,5,Giants,Sun,October 16,,W,0,5-1,home,Baltimore Ravens,24,20,18,238,155,83,1,23,406,195,211,2,4.93,-6.0,8.06,2022
+6,6,Giants,Sun,October 23,,W,0,6-1,away,Jacksonville Jaguars,23,17,27,436,200,236,0,27,452,310,142,1,17.0,-14.14,-2.5,2022
+7,7,Giants,Sun,October 30,,L,0,6-2,away,Seattle Seahawks,13,27,14,225,147,78,2,19,277,190,87,1,-10.8,2.79,-8.31,2022
+8,8,Giants,,,,,0,,home,<strong>Bye Week</strong>,0,0,0,0,0,0,0,0,0,0,0,0,,,,2022
+9,9,Giants,Sun,November 13,,W,0,7-2,home,Houston Texans,24,16,19,367,176,191,0,22,387,286,101,2,10.29,-0.4,-0.41,2022
+10,10,Giants,Sun,November 20,,L,0,7-3,home,Detroit Lions,18,31,25,413,324,89,3,23,325,165,160,0,0.64,-9.36,-7.69,2022
+11,11,Giants,Thu,November 24,,L,0,7-4,away,Dallas Cowboys,20,28,21,300,210,90,0,26,430,261,169,2,0.13,-16.03,6.25,2022
+12,12,1,1,1,1.0,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1.0,1.0,1.0,1
+13,13,Giants,Sun,December 11,,L,0,7-5-1,home,Philadelphia Eagles,22,48,18,304,181,123,1,27,437,184,253,0,-1.45,-28.9,1.98,2022
+14,14,Giants,Sun,December 18,,W,0,8-5-1,away,Washington Commanders,20,12,19,288,160,128,0,20,387,228,159,2,0.95,3.08,2.25,2022
+15,15,Giants,Sat,December 24,,L,0,8-6-1,away,Minnesota Vikings,24,27,23,445,319,126,2,23,353,270,83,0,6.2,-7.38,-3.12,2022
+16,16,Giants,Sun,January 1,,W,0,9-6-1,home,Indianapolis Colts,38,10,26,394,177,217,1,14,252,124,128,1,17.59,5.92,2.69,2022
+17,17,Giants,Sun,January 8,,L,0,9-7-1,away,Philadelphia Eagles,16,22,18,284,155,129,0,23,342,207,135,1,-1.86,-0.69,-4.64,2022
+18,18,Giants,,<strong>Playoffs</strong>,,,0,,home,,0,0,0,0,0,0,0,0,0,0,0,0,,,,2022
+19,19,Giants,Sun,January 15,,W,0,10-7-1,away,Minnesota Vikings,31,24,28,431,289,142,0,21,332,271,61,0,24.0,-13.86,-3.74,2022
+20,20,Giants,Sat,January 21,,L,0,10-8-1,away,Philadelphia Eagles,7,38,13,227,109,118,1,26,416,148,268,0,-9.27,-23.74,4.67,2022

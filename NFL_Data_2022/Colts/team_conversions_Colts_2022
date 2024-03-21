@@ -1,5 +1,5 @@
-,Player,Team,3rd Down Attempts in Game,3rd Down Conversions,3rd Down Conversion %,4th Down Attempts in Game,4th Down Conversions in Game,4th Down Conversion %,Red Zone Attempts,Touchdowns Scored After the Team Entered the Red Zone,% of the Time a Team Reaches the Red Zone and Scores a Touchdown
-Team Stats,Team Stats,Colts,228,75,32.9%,26,12,46.2%,48,22,45.8%
-Opp. Stats,Opp. Stats,Colts,224,85,37.9%,25,13,52.0%,53,36,67.9%
-Lg Rank Offense,Lg Rank Offense,Colts,n/a,n/a,29,n/a,n/a,23,n/a,n/a,29
-Lg Rank Defense,Lg Rank Defense,Colts,n/a,n/a,10,n/a,n/a,17,n/a,n/a,32
+,Player,Team,3rd Down Attempts in Game,3rd Down Conversions,3rd Down Conversion Per.,4th Down Attempts in Game,4th Down Conversions in Game,4th Down Conversion Per.,Red Zone Attempts,Touchdowns Scored After the Team Entered the Red Zone,Per. of the Time a Team Reaches the Red Zone and Scores a Touchdown,Year
+0,Team Stats,Colts,228.0,75.0,32.9,26.0,12.0,46.2,48.0,22.0,45.8,2022.0
+1,Opp. Stats,Colts,224.0,85.0,37.9,25.0,13.0,52.0,53.0,36.0,67.9,2022.0
+2,Lg Rank Offense,Colts,,,29.0,,,23.0,,,29.0,2022.0
+3,Lg Rank Defense,Colts,,,10.0,,,17.0,,,32.0,2022.0
