@@ -1,18 +1,18 @@
-,Week,Team,Day,Date,Time,Win/Loss,Overtime,Team Record,Home/Away,Opponent,Points Scored,Points Allowed,Offense 1st Down,Total Yards Gained of Offense,Total yards Gained by Passing,Total Yards Gained by Rushing,Offense Turnovers,Defense 1st Down,Total Yards Allowed by Defense,Total Passing Yards Allowed by Defense,Total Rushing Yards Allowed by Defense,Defense Turnovers,Offense,Defense,Sp. Tms
-1,1,Raiders,Sun,September 7,1:02PM ET,L,n/a,0-1,away,New York Jets,14,19,11,158,133,25,n/a,20,402,190,212,2,-5.70,0.99,-2.03
-2,2,Raiders,Sun,September 14,4:25PM ET,L,n/a,0-2,home,Houston Texans,14,30,22,364,263,101,4,20,327,139,188,n/a,-2.97,-9.71,-1.85
-3,3,Raiders,Sun,September 21,1:02PM ET,L,n/a,0-3,away,New England Patriots,9,16,14,241,174,67,1,21,297,221,76,n/a,-5.40,-4.61,2.63
-4,4,Raiders,Sun,September 28,1:06PM ET,L,n/a,0-4,home,Miami Dolphins,14,38,17,317,264,53,4,24,435,278,157,3,-26.58,-5.78,6.90
-5,5,Raiders,n/a,n/a,n/a,n/a,n/a,n/a,home,<strong>Bye Week</strong>,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
-6,6,Raiders,Sun,October 12,4:05PM ET,L,n/a,0-5,home,San Diego Chargers,28,31,17,396,282,114,1,24,423,307,116,n/a,16.73,-11.41,-1.65
-7,7,Raiders,Sun,October 19,4:25PM ET,L,n/a,0-6,home,Arizona Cardinals,13,24,13,220,164,56,n/a,25,365,242,123,1,-1.24,-9.25,-0.10
-8,8,Raiders,Sun,October 26,4:25PM ET,L,n/a,0-7,away,Cleveland Browns,13,23,19,387,311,76,3,15,306,267,39,n/a,-11.82,0.56,-0.12
-9,9,Raiders,Sun,November 2,4:26PM ET,L,n/a,0-8,away,Seattle Seahawks,24,30,17,226,189,37,3,21,326,177,149,n/a,-9.40,-0.20,2.33
-10,10,Raiders,Sun,November 9,4:05PM ET,L,n/a,0-9,home,Denver Broncos,17,41,10,222,192,30,3,25,471,353,118,2,-18.74,-9.81,2.98
-11,11,Raiders,Sun,November 16,4:05PM ET,L,n/a,0-10,away,San Diego Chargers,6,13,9,233,162,71,1,18,300,180,120,n/a,-15.68,5.72,4.79
-12,12,Raiders,Thu,November 20,8:26PM ET,W,n/a,1-10,home,Kansas City Chiefs,24,20,18,351,172,179,1,16,313,217,96,n/a,9.34,10.18,-10.98
-13,13,Raiders,Sun,November 30,1:00PM ET,L,n/a,1-11,away,St. Louis Rams,0,52,17,244,183,61,5,17,348,176,172,n/a,-35.42,-15.97,-2.59
-14,14,Raiders,Sun,December 7,4:25PM ET,W,n/a,2-11,home,San Francisco 49ers,24,13,19,330,245,85,n/a,18,248,151,97,2,5.00,3.40,3.13
-15,15,Raiders,Sun,December 14,1:03PM ET,L,n/a,2-12,away,Kansas City Chiefs,13,31,17,280,202,78,1,16,388,295,93,1,-17.37,1.29,-3.43
-16,16,Raiders,Sun,December 21,4:25PM ET,W,n/a,3-12,home,Buffalo Bills,26,24,18,347,207,140,n/a,15,321,308,13,2,-0.69,2.32,0.41
-17,17,Raiders,Sun,December 28,4:25PM ET,L,n/a,3-13,away,Denver Broncos,14,47,10,199,132,67,2,25,451,309,142,1,-19.18,-14.58,-0.86
+,Week,Team,Day,Date,Time,Win/Loss,Overtime,Team Record,Home/Away,Opponent,Points Scored,Points Allowed,Offense 1st Down,Total Yards Gained of Offense,Total yards Gained by Passing,Total Yards Gained by Rushing,Offense Turnovers,Defense 1st Down,Total Yards Allowed by Defense,Total Passing Yards Allowed by Defense,Total Rushing Yards Allowed by Defense,Defense Turnovers,Offense,Defense,Sp. Tms,Year
+0,0,Raiders,Sun,September 7,,L,0,0-1,away,New York Jets,14,19,11,158,133,25,0,20,402,190,212,2,-5.7,0.99,-2.03,2014
+1,1,Raiders,Sun,September 14,,L,0,0-2,home,Houston Texans,14,30,22,364,263,101,4,20,327,139,188,0,-2.97,-9.71,-1.85,2014
+2,2,Raiders,Sun,September 21,,L,0,0-3,away,New England Patriots,9,16,14,241,174,67,1,21,297,221,76,0,-5.4,-4.61,2.63,2014
+3,3,Raiders,Sun,September 28,,L,0,0-4,home,Miami Dolphins,14,38,17,317,264,53,4,24,435,278,157,3,-26.58,-5.78,6.9,2014
+4,4,Raiders,,,,,0,,home,<strong>Bye Week</strong>,0,0,0,0,0,0,0,0,0,0,0,0,,,,2014
+5,5,Raiders,Sun,October 12,,L,0,0-5,home,San Diego Chargers,28,31,17,396,282,114,1,24,423,307,116,0,16.73,-11.41,-1.65,2014
+6,6,Raiders,Sun,October 19,,L,0,0-6,home,Arizona Cardinals,13,24,13,220,164,56,0,25,365,242,123,1,-1.24,-9.25,-0.1,2014
+7,7,Raiders,Sun,October 26,,L,0,0-7,away,Cleveland Browns,13,23,19,387,311,76,3,15,306,267,39,0,-11.82,0.56,-0.12,2014
+8,8,Raiders,Sun,November 2,,L,0,0-8,away,Seattle Seahawks,24,30,17,226,189,37,3,21,326,177,149,0,-9.4,-0.2,2.33,2014
+9,9,Raiders,Sun,November 9,,L,0,0-9,home,Denver Broncos,17,41,10,222,192,30,3,25,471,353,118,2,-18.74,-9.81,2.98,2014
+10,10,Raiders,Sun,November 16,,L,0,0-10,away,San Diego Chargers,6,13,9,233,162,71,1,18,300,180,120,0,-15.68,5.72,4.79,2014
+11,11,Raiders,Thu,November 20,,W,0,1-10,home,Kansas City Chiefs,24,20,18,351,172,179,1,16,313,217,96,0,9.34,10.18,-10.98,2014
+12,12,Raiders,Sun,November 30,,L,0,1-11,away,St. Louis Rams,0,52,17,244,183,61,5,17,348,176,172,0,-35.42,-15.97,-2.59,2014
+13,13,Raiders,Sun,December 7,,W,0,2-11,home,San Francisco 49ers,24,13,19,330,245,85,0,18,248,151,97,2,5.0,3.4,3.13,2014
+14,14,Raiders,Sun,December 14,,L,0,2-12,away,Kansas City Chiefs,13,31,17,280,202,78,1,16,388,295,93,1,-17.37,1.29,-3.43,2014
+15,15,Raiders,Sun,December 21,,W,0,3-12,home,Buffalo Bills,26,24,18,347,207,140,0,15,321,308,13,2,-0.69,2.32,0.41,2014
+16,16,Raiders,Sun,December 28,,L,0,3-13,away,Denver Broncos,14,47,10,199,132,67,2,25,451,309,142,1,-19.18,-14.58,-0.86,2014

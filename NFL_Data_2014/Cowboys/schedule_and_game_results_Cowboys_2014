@@ -1,21 +1,21 @@
-,Week,Team,Day,Date,Time,Win/Loss,Overtime,Team Record,Home/Away,Opponent,Points Scored,Points Allowed,Offense 1st Down,Total Yards Gained of Offense,Total yards Gained by Passing,Total Yards Gained by Rushing,Offense Turnovers,Defense 1st Down,Total Yards Allowed by Defense,Total Passing Yards Allowed by Defense,Total Rushing Yards Allowed by Defense,Defense Turnovers,Offense,Defense,Sp. Tms
-1,1,Cowboys,Sun,September 7,4:25PM ET,L,n/a,0-1,home,San Francisco 49ers,17,28,26,382,255,127,4,19,319,192,127,n/a,-2.69,-9.57,0.64
-2,2,Cowboys,Sun,September 14,1:03PM ET,W,n/a,1-1,away,Tennessee Titans,26,10,26,368,148,220,1,13,314,232,82,2,6.30,4.97,6.76
-3,3,Cowboys,Sun,September 21,1:00PM ET,W,n/a,2-1,away,St. Louis Rams,34,31,19,340,217,123,2,26,448,327,121,3,12.07,-9.63,0.92
-4,4,Cowboys,Sun,September 28,8:31PM ET,W,n/a,3-1,home,New Orleans Saints,38,17,24,445,255,190,n/a,20,438,334,104,3,20.78,-4.35,3.17
-5,5,Cowboys,Sun,October 5,1:03PM ET,W,OT,4-1,home,Houston Texans,20,17,24,456,316,140,3,15,330,154,176,1,10.27,-0.04,-8.50
-6,6,Cowboys,Sun,October 12,4:26PM ET,W,n/a,5-1,away,Seattle Seahawks,30,23,23,401,239,162,2,9,206,126,80,1,13.25,8.60,-12.84
-7,7,Cowboys,Sun,October 19,4:25PM ET,W,n/a,6-1,home,New York Giants,31,21,20,423,267,156,1,20,352,248,104,2,15.12,-5.50,0.62
-8,8,Cowboys,Mon,October 27,8:30PM ET,L,OT,6-2,home,Washington Redskins,17,20,20,395,224,171,2,19,409,286,123,1,3.35,-7.31,-1.34
-9,9,Cowboys,Sun,November 2,1:04PM ET,L,n/a,6-3,home,Arizona Cardinals,17,28,18,266,174,92,2,22,339,237,102,1,-6.97,-5.07,0.07
-10,10,Cowboys,Sun,November 9,1:06PM ET,W,n/a,7-3,away,Jacksonville Jaguars,31,17,16,399,248,151,1,20,333,262,71,3,5.46,3.63,4.25
-11,11,Cowboys,n/a,n/a,n/a,n/a,n/a,n/a,home,<strong>Bye Week</strong>,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
-12,12,Cowboys,Sun,November 23,8:30PM ET,W,n/a,8-3,away,New York Giants,31,28,18,385,266,119,1,27,417,328,89,1,13.48,-13.63,2.40
-13,13,Cowboys,Thu,November 27,4:36PM ET,L,n/a,8-4,home,Philadelphia Eagles,10,33,16,267,174,93,3,26,464,208,256,1,-11.84,-15.42,4.28
-14,14,Cowboys,Thu,December 4,8:26PM ET,W,n/a,9-4,away,Chicago Bears,41,28,21,397,203,194,n/a,23,376,341,35,2,22.34,-13.64,3.37
-15,15,Cowboys,Sun,December 14,8:35PM ET,W,n/a,10-4,away,Philadelphia Eagles,38,27,26,364,249,115,1,19,294,219,75,3,10.61,-1.40,0.33
-16,16,Cowboys,Sun,December 21,4:26PM ET,W,n/a,11-4,home,Indianapolis Colts,42,7,25,377,250,127,1,17,229,228,1,3,23.60,10.93,-3.35
-17,17,Cowboys,Sun,December 28,1:05PM ET,W,n/a,12-4,away,Washington Redskins,44,17,20,473,299,174,1,20,413,309,104,4,15.43,8.56,1.86
-n/a,n/a,Cowboys,n/a,<strong>Playoffs</strong>,n/a,n/a,n/a,n/a,home,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
-Wild Card,Wild Card,Cowboys,Sun,January 4,4:41PM ET,W,n/a,13-4,home,Detroit Lions,24,20,18,315,242,73,1,19,397,307,90,3,10.31,-4.18,-1.17
-Division,Division,Cowboys,Sun,January 11,1:05PM ET,L,n/a,13-5,away,Green Bay Packers,21,26,21,315,170,145,1,23,416,297,119,1,11.27,-15.81,-1.70
+,Week,Team,Day,Date,Time,Win/Loss,Overtime,Team Record,Home/Away,Opponent,Points Scored,Points Allowed,Offense 1st Down,Total Yards Gained of Offense,Total yards Gained by Passing,Total Yards Gained by Rushing,Offense Turnovers,Defense 1st Down,Total Yards Allowed by Defense,Total Passing Yards Allowed by Defense,Total Rushing Yards Allowed by Defense,Defense Turnovers,Offense,Defense,Sp. Tms,Year
+0,0,Cowboys,Sun,September 7,,L,0,0-1,home,San Francisco 49ers,17,28,26,382,255,127,4,19,319,192,127,0,-2.69,-9.57,0.64,2014
+1,1,Cowboys,Sun,September 14,,W,0,1-1,away,Tennessee Titans,26,10,26,368,148,220,1,13,314,232,82,2,6.3,4.97,6.76,2014
+2,2,Cowboys,Sun,September 21,,W,0,2-1,away,St. Louis Rams,34,31,19,340,217,123,2,26,448,327,121,3,12.07,-9.63,0.92,2014
+3,3,Cowboys,Sun,September 28,,W,0,3-1,home,New Orleans Saints,38,17,24,445,255,190,0,20,438,334,104,3,20.78,-4.35,3.17,2014
+4,4,1,1,1,1.0,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1.0,1.0,1.0,1
+5,5,Cowboys,Sun,October 12,,W,0,5-1,away,Seattle Seahawks,30,23,23,401,239,162,2,9,206,126,80,1,13.25,8.6,-12.84,2014
+6,6,Cowboys,Sun,October 19,,W,0,6-1,home,New York Giants,31,21,20,423,267,156,1,20,352,248,104,2,15.12,-5.5,0.62,2014
+7,7,1,1,1,1.0,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1.0,1.0,1.0,1
+8,8,Cowboys,Sun,November 2,,L,0,6-3,home,Arizona Cardinals,17,28,18,266,174,92,2,22,339,237,102,1,-6.97,-5.07,0.07,2014
+9,9,Cowboys,Sun,November 9,,W,0,7-3,away,Jacksonville Jaguars,31,17,16,399,248,151,1,20,333,262,71,3,5.46,3.63,4.25,2014
+10,10,Cowboys,,,,,0,,home,<strong>Bye Week</strong>,0,0,0,0,0,0,0,0,0,0,0,0,,,,2014
+11,11,Cowboys,Sun,November 23,,W,0,8-3,away,New York Giants,31,28,18,385,266,119,1,27,417,328,89,1,13.48,-13.63,2.4,2014
+12,12,Cowboys,Thu,November 27,,L,0,8-4,home,Philadelphia Eagles,10,33,16,267,174,93,3,26,464,208,256,1,-11.84,-15.42,4.28,2014
+13,13,Cowboys,Thu,December 4,,W,0,9-4,away,Chicago Bears,41,28,21,397,203,194,0,23,376,341,35,2,22.34,-13.64,3.37,2014
+14,14,Cowboys,Sun,December 14,,W,0,10-4,away,Philadelphia Eagles,38,27,26,364,249,115,1,19,294,219,75,3,10.61,-1.4,0.33,2014
+15,15,Cowboys,Sun,December 21,,W,0,11-4,home,Indianapolis Colts,42,7,25,377,250,127,1,17,229,228,1,3,23.6,10.93,-3.35,2014
+16,16,Cowboys,Sun,December 28,,W,0,12-4,away,Washington Redskins,44,17,20,473,299,174,1,20,413,309,104,4,15.43,8.56,1.86,2014
+17,17,Cowboys,,<strong>Playoffs</strong>,,,0,,home,,0,0,0,0,0,0,0,0,0,0,0,0,,,,2014
+18,18,Cowboys,Sun,January 4,,W,0,13-4,home,Detroit Lions,24,20,18,315,242,73,1,19,397,307,90,3,10.31,-4.18,-1.17,2014
+19,19,Cowboys,Sun,January 11,,L,0,13-5,away,Green Bay Packers,21,26,21,315,170,145,1,23,416,297,119,1,11.27,-15.81,-1.7,2014

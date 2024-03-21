@@ -1,22 +1,22 @@
-,Week,Team,Day,Date,Time,Win/Loss,Overtime,Team Record,Home/Away,Opponent,Points Scored,Points Allowed,Offense 1st Down,Total Yards Gained of Offense,Total yards Gained by Passing,Total Yards Gained by Rushing,Offense Turnovers,Defense 1st Down,Total Yards Allowed by Defense,Total Passing Yards Allowed by Defense,Total Rushing Yards Allowed by Defense,Defense Turnovers,Offense,Defense,Sp. Tms
-1,1,Seahawks,Thu,September 4,8:42PM ET,W,n/a,1-0,home,Green Bay Packers,36,16,25,398,191,207,1,19,255,175,80,1,18.24,1.00,-0.29
-2,2,Seahawks,Sun,September 14,4:05PM ET,L,n/a,1-1,away,San Diego Chargers,21,30,14,288,180,108,1,26,377,276,101,n/a,8.54,-12.21,-3.52
-3,3,Seahawks,Sun,September 21,4:25PM ET,W,OT,2-1,home,Denver Broncos,26,20,26,384,255,129,1,20,332,296,36,2,2.88,8.27,-5.15
-4,4,Seahawks,n/a,n/a,n/a,n/a,n/a,n/a,home,<strong>Bye Week</strong>,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
-5,5,Seahawks,Mon,October 6,8:30PM ET,W,n/a,3-1,away,Washington Redskins,27,17,20,403,178,225,n/a,14,307,275,32,n/a,9.73,-3.55,2.71
-6,6,Seahawks,Sun,October 12,4:26PM ET,L,n/a,3-2,home,Dallas Cowboys,23,30,9,206,126,80,1,23,401,239,162,2,-8.60,-13.25,12.84
-7,7,Seahawks,Sun,October 19,1:00PM ET,L,n/a,3-3,away,St. Louis Rams,26,28,25,463,292,171,n/a,18,275,173,102,n/a,17.40,-13.21,-8.09
-8,8,Seahawks,Sun,October 26,1:04PM ET,W,n/a,4-3,away,Carolina Panthers,13,9,19,310,191,119,2,17,266,152,114,2,-0.83,9.35,-0.13
-9,9,Seahawks,Sun,November 2,4:26PM ET,W,n/a,5-3,home,Oakland Raiders,30,24,21,326,177,149,n/a,17,226,189,37,3,0.20,9.40,-2.33
-10,10,Seahawks,Sun,November 9,4:26PM ET,W,n/a,6-3,home,New York Giants,38,17,27,510,160,350,3,20,324,270,54,2,23.20,1.57,-1.24
-11,11,Seahawks,Sun,November 16,1:04PM ET,L,n/a,6-4,away,Kansas City Chiefs,20,24,25,372,168,204,n/a,20,298,108,190,2,3.78,-8.11,-2.54
-12,12,Seahawks,Sun,November 23,4:06PM ET,W,n/a,7-4,home,Arizona Cardinals,19,3,16,293,169,124,n/a,12,204,140,64,1,1.42,9.22,10.24
-13,13,Seahawks,Thu,November 27,8:31PM ET,W,n/a,8-4,away,San Francisco 49ers,19,3,16,379,222,157,n/a,16,164,100,64,3,1.22,7.67,2.93
-14,14,Seahawks,Sun,December 7,4:25PM ET,W,n/a,9-4,away,Philadelphia Eagles,24,14,28,440,252,188,2,9,139,82,57,2,6.79,13.24,-5.36
-15,15,Seahawks,Sun,December 14,4:26PM ET,W,n/a,10-4,home,San Francisco 49ers,17,7,18,290,138,152,1,14,245,105,140,n/a,5.13,4.13,1.75
-16,16,Seahawks,Sun,December 21,8:30PM ET,W,n/a,11-4,away,Arizona Cardinals,35,6,23,596,329,267,n/a,17,216,187,29,1,28.01,15.05,-13.23
-17,17,Seahawks,Sun,December 28,4:27PM ET,W,n/a,12-4,home,St. Louis Rams,20,6,17,354,222,132,2,15,245,203,42,3,-7.33,26.12,-4.14
-n/a,n/a,Seahawks,n/a,<strong>Playoffs</strong>,n/a,n/a,n/a,n/a,home,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
-Division,Division,Seahawks,Sat,January 10,8:21PM ET,W,n/a,13-4,home,Carolina Panthers,31,17,16,348,248,100,n/a,21,362,230,132,3,13.20,1.93,1.18
-Conf. Champ.,Conf. Champ.,Seahawks,Sun,January 18,3:06PM ET,W,OT,14-4,home,Green Bay Packers,28,22,20,397,203,194,5,19,306,171,135,2,2.03,7.48,-5.58
-SuperBowl,SuperBowl,Seahawks,Sun,February 1,6:30PM ET,L,n/a,14-5,home,New England Patriots,24,28,20,396,234,162,1,25,377,320,57,2,10.40,-13.67,-1.37
+,Week,Team,Day,Date,Time,Win/Loss,Overtime,Team Record,Home/Away,Opponent,Points Scored,Points Allowed,Offense 1st Down,Total Yards Gained of Offense,Total yards Gained by Passing,Total Yards Gained by Rushing,Offense Turnovers,Defense 1st Down,Total Yards Allowed by Defense,Total Passing Yards Allowed by Defense,Total Rushing Yards Allowed by Defense,Defense Turnovers,Offense,Defense,Sp. Tms,Year
+0,0,Seahawks,Thu,September 4,,W,0,1-0,home,Green Bay Packers,36,16,25,398,191,207,1,19,255,175,80,1,18.24,1.0,-0.29,2014
+1,1,Seahawks,Sun,September 14,,L,0,1-1,away,San Diego Chargers,21,30,14,288,180,108,1,26,377,276,101,0,8.54,-12.21,-3.52,2014
+2,2,1,1,1,1.0,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1.0,1.0,1.0,1
+3,3,Seahawks,,,,,0,,home,<strong>Bye Week</strong>,0,0,0,0,0,0,0,0,0,0,0,0,,,,2014
+4,4,Seahawks,Mon,October 6,,W,0,3-1,away,Washington Redskins,27,17,20,403,178,225,0,14,307,275,32,0,9.73,-3.55,2.71,2014
+5,5,Seahawks,Sun,October 12,,L,0,3-2,home,Dallas Cowboys,23,30,9,206,126,80,1,23,401,239,162,2,-8.6,-13.25,12.84,2014
+6,6,Seahawks,Sun,October 19,,L,0,3-3,away,St. Louis Rams,26,28,25,463,292,171,0,18,275,173,102,0,17.4,-13.21,-8.09,2014
+7,7,Seahawks,Sun,October 26,,W,0,4-3,away,Carolina Panthers,13,9,19,310,191,119,2,17,266,152,114,2,-0.83,9.35,-0.13,2014
+8,8,Seahawks,Sun,November 2,,W,0,5-3,home,Oakland Raiders,30,24,21,326,177,149,0,17,226,189,37,3,0.2,9.4,-2.33,2014
+9,9,Seahawks,Sun,November 9,,W,0,6-3,home,New York Giants,38,17,27,510,160,350,3,20,324,270,54,2,23.2,1.57,-1.24,2014
+10,10,Seahawks,Sun,November 16,,L,0,6-4,away,Kansas City Chiefs,20,24,25,372,168,204,0,20,298,108,190,2,3.78,-8.11,-2.54,2014
+11,11,Seahawks,Sun,November 23,,W,0,7-4,home,Arizona Cardinals,19,3,16,293,169,124,0,12,204,140,64,1,1.42,9.22,10.24,2014
+12,12,Seahawks,Thu,November 27,,W,0,8-4,away,San Francisco 49ers,19,3,16,379,222,157,0,16,164,100,64,3,1.22,7.67,2.93,2014
+13,13,Seahawks,Sun,December 7,,W,0,9-4,away,Philadelphia Eagles,24,14,28,440,252,188,2,9,139,82,57,2,6.79,13.24,-5.36,2014
+14,14,Seahawks,Sun,December 14,,W,0,10-4,home,San Francisco 49ers,17,7,18,290,138,152,1,14,245,105,140,0,5.13,4.13,1.75,2014
+15,15,Seahawks,Sun,December 21,,W,0,11-4,away,Arizona Cardinals,35,6,23,596,329,267,0,17,216,187,29,1,28.01,15.05,-13.23,2014
+16,16,Seahawks,Sun,December 28,,W,0,12-4,home,St. Louis Rams,20,6,17,354,222,132,2,15,245,203,42,3,-7.33,26.12,-4.14,2014
+17,17,Seahawks,,<strong>Playoffs</strong>,,,0,,home,,0,0,0,0,0,0,0,0,0,0,0,0,,,,2014
+18,18,Seahawks,Sat,January 10,,W,0,13-4,home,Carolina Panthers,31,17,16,348,248,100,0,21,362,230,132,3,13.2,1.93,1.18,2014
+19,19,1,1,1,1.0,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1.0,1.0,1.0,1
+20,20,Seahawks,Sun,February 1,,L,0,14-5,home,New England Patriots,24,28,20,396,234,162,1,25,377,320,57,2,10.4,-13.67,-1.37,2014

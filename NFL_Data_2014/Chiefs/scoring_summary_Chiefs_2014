@@ -1,12 +1,12 @@
-,No.,Team,Player,Age,Pos,Games Played,Games Started,Rush TD,Reception TD,Punt Return TD,Kick Return TD,Fumble Return TD,Interception TD,Other TD,All Touchdown Scored,2-Point Conversions Made,Two-Point Conversions Attempted,Defensive Two-Point Conversions,Extra Points Made,Extra Points Allowed,Field Goals Made,Field Goals Attempted,Safeties Scored by Player/Team,Total Points Scored by all Means,Poins per Game
-5,5,Chiefs,Cairo Santos,23,K,16,0,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,38,38,25,30,n/a,113,7.1
-25,25,Chiefs,Jamaal Charles,28,RB,15,15,9,5,n/a,n/a,n/a,n/a,n/a,14,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,84,5.6
-34,34,Chiefs,Knile Davis,23,RB,16,1,6,1,n/a,1,n/a,n/a,n/a,8,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,48,3.0
-87,87,Chiefs,Travis Kelce,25,TE,16,11,n/a,5,n/a,n/a,1,n/a,n/a,6,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,36,2.3
-80,80,Chiefs,Anthony Fasano,30,TE,15,13,n/a,4,n/a,n/a,n/a,n/a,n/a,4,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,24,1.6
-22,22,Chiefs,Joe McKnight,26,RB,2,0,n/a,2,n/a,n/a,n/a,n/a,n/a,2,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,12,6.0
-13,13,Chiefs,De'Anthony Thomas,21,RB,12,3,1,n/a,1,n/a,n/a,n/a,n/a,2,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,12,1.0
-39,39,Chiefs,Husain Abdullah,29,FS,16,16,n/a,n/a,n/a,n/a,n/a,1,n/a,1,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,6,0.4
-32,32,Chiefs,Cyrus Gray,25,RB,9,0,1,n/a,n/a,n/a,n/a,n/a,n/a,1,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,6,0.7
-42,42,Chiefs,Anthony Sherman,26,RB,16,6,n/a,1,n/a,n/a,n/a,n/a,n/a,1,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,6,0.4
-11,11,Chiefs,Alex Smith,30,QB,15,15,1,n/a,n/a,n/a,n/a,n/a,n/a,1,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,6,0.4
+,No.,Team,Player,Age,Pos,Games Played,Games Started,Rush TD,Reception TD,Punt Return TD,Kick Return TD,Fumble Return TD,Interception TD,Other TD,All Touchdown Scored,2-Point Conversions Made,Two-Point Conversions Attempted,Defensive Two-Point Conversions,Extra Points Made,Extra Points Allowed,Field Goals Made,Field Goals Attempted,Safeties Scored by Player/Team,Total Points Scored by all Means,Poins per Game,Year
+0,5,Chiefs,Cairo Santos,23,K,16,0,0,0,0,0,0,0,0,0,0,0,0,38,38,25,30,,113,7.1,2014
+1,25,Chiefs,Jamaal Charles,28,RB,15,15,9,5,0,0,0,0,0,14,0,0,0,0,0,0,0,,84,5.6,2014
+2,34,Chiefs,Knile Davis,23,RB,16,1,6,1,0,1,0,0,0,8,0,0,0,0,0,0,0,,48,3.0,2014
+3,87,Chiefs,Travis Kelce,25,TE,16,11,0,5,0,0,1,0,0,6,0,0,0,0,0,0,0,,36,2.3,2014
+4,80,Chiefs,Anthony Fasano,30,TE,15,13,0,4,0,0,0,0,0,4,0,0,0,0,0,0,0,,24,1.6,2014
+5,22,Chiefs,Joe McKnight,26,RB,2,0,0,2,0,0,0,0,0,2,0,0,0,0,0,0,0,,12,6.0,2014
+6,13,Chiefs,De'Anthony Thomas,21,RB,12,3,1,0,1,0,0,0,0,2,0,0,0,0,0,0,0,,12,1.0,2014
+7,39,Chiefs,Husain Abdullah,29,FS,16,16,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,,6,0.4,2014
+8,32,Chiefs,Cyrus Gray,25,RB,9,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,,6,0.7,2014
+9,42,Chiefs,Anthony Sherman,26,RB,16,6,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,,6,0.4,2014
+10,11,Chiefs,Alex Smith,30,QB,15,15,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,,6,0.4,2014

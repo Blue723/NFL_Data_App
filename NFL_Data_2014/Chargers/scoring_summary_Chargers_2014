@@ -1,12 +1,12 @@
-,No.,Team,Player,Age,Pos,Games Played,Games Started,Rush TD,Reception TD,Punt Return TD,Kick Return TD,Fumble Return TD,Interception TD,Other TD,All Touchdown Scored,2-Point Conversions Made,Two-Point Conversions Attempted,Defensive Two-Point Conversions,Extra Points Made,Extra Points Allowed,Field Goals Made,Field Goals Attempted,Safeties Scored by Player/Team,Total Points Scored by all Means,Poins per Game
-9,9,Chargers,Nick Novak,33,K,16,0,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,40,40,22,26,n/a,106,6.6
-85,85,Chargers,Antonio Gates,34,TE,16,14,n/a,12,n/a,n/a,n/a,n/a,n/a,12,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,72,4.5
-11,11,Chargers,Eddie Royal,28,WR,16,11,n/a,7,n/a,n/a,n/a,n/a,n/a,7,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,42,2.6
-80,80,Chargers,Malcom Floyd,33,WR,16,16,n/a,6,n/a,n/a,n/a,n/a,n/a,6,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,36,2.3
-13,13,Chargers,Keenan Allen,22,WR,14,14,n/a,4,n/a,n/a,n/a,n/a,n/a,4,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,24,1.7
-43,43,Chargers,Branden Oliver,23,RB,14,7,3,1,n/a,n/a,n/a,n/a,n/a,4,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,24,1.7
-24,24,Chargers,Ryan Mathews,27,RB,6,6,3,n/a,n/a,n/a,n/a,n/a,n/a,3,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,18,3.0
-59,59,Chargers,Andrew Gachkar,26,LILB,15,5,n/a,n/a,n/a,n/a,1,n/a,n/a,1,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,6,0.4
-94,94,Chargers,Corey Liuget,24,RDE,16,16,n/a,n/a,n/a,n/a,1,n/a,n/a,1,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,6,0.4
-83,83,Chargers,John Phillips,27,TE,16,1,n/a,1,n/a,n/a,n/a,n/a,n/a,1,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,6,0.4
-25,25,Chargers,Darrell Stuckey,27,DB,16,0,n/a,n/a,n/a,n/a,1,n/a,n/a,1,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,6,0.4
+,No.,Team,Player,Age,Pos,Games Played,Games Started,Rush TD,Reception TD,Punt Return TD,Kick Return TD,Fumble Return TD,Interception TD,Other TD,All Touchdown Scored,2-Point Conversions Made,Two-Point Conversions Attempted,Defensive Two-Point Conversions,Extra Points Made,Extra Points Allowed,Field Goals Made,Field Goals Attempted,Safeties Scored by Player/Team,Total Points Scored by all Means,Poins per Game,Year
+0,9,Chargers,Nick Novak,33,K,16,0,0,0,0,0,0,0,0,0,0,0,0,40,40,22,26,,106,6.6,2014
+1,85,Chargers,Antonio Gates,34,TE,16,14,0,12,0,0,0,0,0,12,0,0,0,0,0,0,0,,72,4.5,2014
+2,11,Chargers,Eddie Royal,28,WR,16,11,0,7,0,0,0,0,0,7,0,0,0,0,0,0,0,,42,2.6,2014
+3,80,Chargers,Malcom Floyd,33,WR,16,16,0,6,0,0,0,0,0,6,0,0,0,0,0,0,0,,36,2.3,2014
+4,13,Chargers,Keenan Allen,22,WR,14,14,0,4,0,0,0,0,0,4,0,0,0,0,0,0,0,,24,1.7,2014
+5,43,Chargers,Branden Oliver,23,RB,14,7,3,1,0,0,0,0,0,4,0,0,0,0,0,0,0,,24,1.7,2014
+6,24,Chargers,Ryan Mathews,27,RB,6,6,3,0,0,0,0,0,0,3,0,0,0,0,0,0,0,,18,3.0,2014
+7,59,Chargers,Andrew Gachkar,26,LILB,15,5,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,,6,0.4,2014
+8,94,Chargers,Corey Liuget,24,RDE,16,16,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,,6,0.4,2014
+9,83,Chargers,John Phillips,27,TE,16,1,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,,6,0.4,2014
+10,25,Chargers,Darrell Stuckey,27,DB,16,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,,6,0.4,2014

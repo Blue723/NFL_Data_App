@@ -1,16 +1,16 @@
-,No.,Team,Player,Age,Pos,Games Played,Games Started,Rush TD,Reception TD,Punt Return TD,Kick Return TD,Fumble Return TD,Interception TD,Other TD,All Touchdown Scored,2-Point Conversions Made,Two-Point Conversions Attempted,Defensive Two-Point Conversions,Extra Points Made,Extra Points Allowed,Field Goals Made,Field Goals Attempted,Safeties Scored by Player/Team,Total Points Scored by all Means,Poins per Game
-3,3,Falcons,Matt Bryant,39,K,16,0,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,40,40,29,32,n/a,127,7.9
-84,84,Falcons,Roddy White,33,WR,14,14,n/a,7,n/a,n/a,n/a,n/a,n/a,7,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,42,3.0
-39,39,Falcons,Steven Jackson,31,RB,15,15,6,n/a,n/a,n/a,n/a,n/a,n/a,6,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,36,2.4
-11,11,Falcons,Julio Jones,25,WR,15,15,n/a,6,n/a,n/a,n/a,n/a,n/a,6,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,36,2.4
-35,35,Falcons,Antone Smith,29,RB,10,0,2,3,n/a,n/a,n/a,n/a,n/a,5,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,30,3.0
-17,17,Falcons,Devin Hester,32,DB,16,1,1,2,1,n/a,n/a,n/a,n/a,4,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,24,1.5
-83,83,Falcons,Harry Douglas,30,WR,12,6,n/a,2,n/a,n/a,n/a,n/a,n/a,2,1,n/a,n/a,n/a,n/a,n/a,n/a,n/a,14,1.2
-24,24,Falcons,Devonta Freeman,22,RB,16,0,1,1,n/a,n/a,n/a,n/a,n/a,2,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,12,0.8
-32,32,Falcons,Jacquizz Rodgers,24,RB,16,1,1,1,n/a,n/a,n/a,n/a,n/a,2,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,12,0.8
-80,80,Falcons,Levine Toilolo,23,TE,16,16,n/a,2,n/a,n/a,n/a,n/a,n/a,2,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,12,0.8
-14,14,Falcons,Eric Weems,29,WR,16,0,n/a,2,n/a,n/a,n/a,n/a,n/a,2,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,12,0.8
-42,42,Falcons,Patrick DiMarco,25,RB,16,7,n/a,1,n/a,n/a,n/a,n/a,n/a,1,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,6,0.4
-36,36,Falcons,Kemal Ishmael,23,SS,16,10,n/a,n/a,n/a,n/a,n/a,1,n/a,1,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,6,0.4
-86,86,Falcons,Bear Pascoe,28,TE,16,2,n/a,1,n/a,n/a,n/a,n/a,n/a,1,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,6,0.4
-50,50,Falcons,Osi Umenyiora,33,DE,16,0,n/a,n/a,n/a,n/a,1,n/a,n/a,1,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,6,0.4
+,No.,Team,Player,Age,Pos,Games Played,Games Started,Rush TD,Reception TD,Punt Return TD,Kick Return TD,Fumble Return TD,Interception TD,Other TD,All Touchdown Scored,2-Point Conversions Made,Two-Point Conversions Attempted,Defensive Two-Point Conversions,Extra Points Made,Extra Points Allowed,Field Goals Made,Field Goals Attempted,Safeties Scored by Player/Team,Total Points Scored by all Means,Poins per Game,Year
+0,3,Falcons,Matt Bryant,39,K,16,0,0,0,0,0,0,0,0,0,0,0,0,40,40,29,32,,127,7.9,2014
+1,84,Falcons,Roddy White,33,WR,14,14,0,7,0,0,0,0,0,7,0,0,0,0,0,0,0,,42,3.0,2014
+2,39,Falcons,Steven Jackson,31,RB,15,15,6,0,0,0,0,0,0,6,0,0,0,0,0,0,0,,36,2.4,2014
+3,11,Falcons,Julio Jones,25,WR,15,15,0,6,0,0,0,0,0,6,0,0,0,0,0,0,0,,36,2.4,2014
+4,35,Falcons,Antone Smith,29,RB,10,0,2,3,0,0,0,0,0,5,0,0,0,0,0,0,0,,30,3.0,2014
+5,17,Falcons,Devin Hester,32,DB,16,1,1,2,1,0,0,0,0,4,0,0,0,0,0,0,0,,24,1.5,2014
+6,83,Falcons,Harry Douglas,30,WR,12,6,0,2,0,0,0,0,0,2,1,0,0,0,0,0,0,,14,1.2,2014
+7,24,Falcons,Devonta Freeman,22,RB,16,0,1,1,0,0,0,0,0,2,0,0,0,0,0,0,0,,12,0.8,2014
+8,32,Falcons,Jacquizz Rodgers,24,RB,16,1,1,1,0,0,0,0,0,2,0,0,0,0,0,0,0,,12,0.8,2014
+9,80,Falcons,Levine Toilolo,23,TE,16,16,0,2,0,0,0,0,0,2,0,0,0,0,0,0,0,,12,0.8,2014
+10,14,Falcons,Eric Weems,29,WR,16,0,0,2,0,0,0,0,0,2,0,0,0,0,0,0,0,,12,0.8,2014
+11,42,Falcons,Patrick DiMarco,25,RB,16,7,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,,6,0.4,2014
+12,36,Falcons,Kemal Ishmael,23,SS,16,10,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,,6,0.4,2014
+13,86,Falcons,Bear Pascoe,28,TE,16,2,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,,6,0.4,2014
+14,50,Falcons,Osi Umenyiora,33,DE,16,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,,6,0.4,2014

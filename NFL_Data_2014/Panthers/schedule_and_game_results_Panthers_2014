@@ -1,21 +1,21 @@
-,Week,Team,Day,Date,Time,Win/Loss,Overtime,Team Record,Home/Away,Opponent,Points Scored,Points Allowed,Offense 1st Down,Total Yards Gained of Offense,Total yards Gained by Passing,Total Yards Gained by Rushing,Offense Turnovers,Defense 1st Down,Total Yards Allowed by Defense,Total Passing Yards Allowed by Defense,Total Rushing Yards Allowed by Defense,Defense Turnovers,Offense,Defense,Sp. Tms
-1,1,Panthers,Sun,September 7,4:25PM ET,W,n/a,1-0,away,Tampa Bay Buccaneers,20,14,19,334,221,113,n/a,17,264,162,102,3,4.10,6.20,-2.93
-2,2,Panthers,Sun,September 14,1:04PM ET,W,n/a,2-0,home,Detroit Lions,24,7,20,313,251,62,n/a,21,323,253,70,3,1.84,5.21,10.18
-3,3,Panthers,Sun,September 21,8:31PM ET,L,n/a,2-1,home,Pittsburgh Steelers,19,37,20,349,307,42,2,24,454,190,264,n/a,6.24,-19.58,-6.54
-4,4,Panthers,Sun,September 28,1:02PM ET,L,n/a,2-2,away,Baltimore Ravens,10,38,20,315,248,67,1,25,454,327,127,n/a,6.08,-34.18,7.43
-5,5,Panthers,Sun,October 5,1:03PM ET,W,n/a,3-2,home,Chicago Bears,31,24,22,322,231,91,3,17,347,262,85,4,-2.91,5.59,7.35
-6,6,Panthers,Sun,October 12,1:03PM ET,T,OT,3-2-1,away,Cincinnati Bengals,37,37,29,431,284,147,1,29,513,320,193,2,15.66,-15.90,-3.87
-7,7,Panthers,Sun,October 19,1:02PM ET,L,n/a,3-3-1,away,Green Bay Packers,17,38,23,331,223,108,1,22,363,241,122,n/a,-2.03,-18.14,1.49
-8,8,Panthers,Sun,October 26,1:04PM ET,L,n/a,3-4-1,home,Seattle Seahawks,9,13,17,266,152,114,2,19,310,191,119,2,-9.35,0.83,0.13
-9,9,Panthers,Thu,October 30,8:30PM ET,L,n/a,3-5-1,home,New Orleans Saints,10,28,15,231,122,109,2,27,375,270,105,2,-8.78,-12.03,-0.01
-10,10,Panthers,Mon,November 10,8:32PM ET,L,n/a,3-6-1,away,Philadelphia Eagles,21,45,21,317,215,102,5,17,365,328,37,n/a,-17.03,-1.81,-2.54
-11,11,Panthers,Sun,November 16,1:03PM ET,L,n/a,3-7-1,home,Atlanta Falcons,17,19,22,391,285,106,2,22,346,260,86,1,3.54,2.99,-12.19
-12,12,Panthers,n/a,n/a,n/a,n/a,n/a,n/a,home,<strong>Bye Week</strong>,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
-13,13,Panthers,Sun,November 30,1:02PM ET,L,n/a,3-8-1,away,Minnesota Vikings,13,31,23,348,170,178,1,12,210,118,92,n/a,0.51,-1.24,-15.81
-14,14,Panthers,Sun,December 7,1:03PM ET,W,n/a,4-8-1,away,New Orleans Saints,41,10,24,497,226,271,n/a,18,310,218,92,2,23.77,5.69,-1.79
-15,15,Panthers,Sun,December 14,1:03PM ET,W,n/a,5-8-1,home,Tampa Bay Buccaneers,19,17,28,392,269,123,1,15,287,136,151,3,2.42,1.88,-2.12
-16,16,Panthers,Sun,December 21,1:04PM ET,W,n/a,6-8-1,home,Cleveland Browns,17,13,27,404,195,209,2,8,228,144,84,1,8.84,0.77,-2.06
-17,17,Panthers,Sun,December 28,4:25PM ET,W,n/a,7-8-1,away,Atlanta Falcons,34,3,17,306,112,194,n/a,16,288,225,63,3,5.19,27.86,-4.34
-n/a,n/a,Panthers,n/a,<strong>Playoffs</strong>,n/a,n/a,n/a,n/a,home,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
-Wild Card,Wild Card,Panthers,Sat,January 3,4:20PM ET,W,n/a,8-8-1,home,Arizona Cardinals,27,16,25,386,198,188,3,8,78,51,27,3,-6.33,19.39,-4.19
-Division,Division,Panthers,Sat,January 10,8:21PM ET,L,n/a,8-9-1,away,Seattle Seahawks,17,31,21,362,230,132,3,16,348,248,100,n/a,-1.93,-13.20,-1.18
+,Week,Team,Day,Date,Time,Win/Loss,Overtime,Team Record,Home/Away,Opponent,Points Scored,Points Allowed,Offense 1st Down,Total Yards Gained of Offense,Total yards Gained by Passing,Total Yards Gained by Rushing,Offense Turnovers,Defense 1st Down,Total Yards Allowed by Defense,Total Passing Yards Allowed by Defense,Total Rushing Yards Allowed by Defense,Defense Turnovers,Offense,Defense,Sp. Tms,Year
+0,0,Panthers,Sun,September 7,,W,0,1-0,away,Tampa Bay Buccaneers,20,14,19,334,221,113,0,17,264,162,102,3,4.1,6.2,-2.93,2014
+1,1,Panthers,Sun,September 14,,W,0,2-0,home,Detroit Lions,24,7,20,313,251,62,0,21,323,253,70,3,1.84,5.21,10.18,2014
+2,2,Panthers,Sun,September 21,,L,0,2-1,home,Pittsburgh Steelers,19,37,20,349,307,42,2,24,454,190,264,0,6.24,-19.58,-6.54,2014
+3,3,Panthers,Sun,September 28,,L,0,2-2,away,Baltimore Ravens,10,38,20,315,248,67,1,25,454,327,127,0,6.08,-34.18,7.43,2014
+4,4,Panthers,Sun,October 5,,W,0,3-2,home,Chicago Bears,31,24,22,322,231,91,3,17,347,262,85,4,-2.91,5.59,7.35,2014
+5,5,1,1,1,1.0,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1.0,1.0,1.0,1
+6,6,Panthers,Sun,October 19,,L,0,3-3-1,away,Green Bay Packers,17,38,23,331,223,108,1,22,363,241,122,0,-2.03,-18.14,1.49,2014
+7,7,Panthers,Sun,October 26,,L,0,3-4-1,home,Seattle Seahawks,9,13,17,266,152,114,2,19,310,191,119,2,-9.35,0.83,0.13,2014
+8,8,Panthers,Thu,October 30,,L,0,3-5-1,home,New Orleans Saints,10,28,15,231,122,109,2,27,375,270,105,2,-8.78,-12.03,-0.01,2014
+9,9,Panthers,Mon,November 10,,L,0,3-6-1,away,Philadelphia Eagles,21,45,21,317,215,102,5,17,365,328,37,0,-17.03,-1.81,-2.54,2014
+10,10,Panthers,Sun,November 16,,L,0,3-7-1,home,Atlanta Falcons,17,19,22,391,285,106,2,22,346,260,86,1,3.54,2.99,-12.19,2014
+11,11,Panthers,,,,,0,,home,<strong>Bye Week</strong>,0,0,0,0,0,0,0,0,0,0,0,0,,,,2014
+12,12,Panthers,Sun,November 30,,L,0,3-8-1,away,Minnesota Vikings,13,31,23,348,170,178,1,12,210,118,92,0,0.51,-1.24,-15.81,2014
+13,13,Panthers,Sun,December 7,,W,0,4-8-1,away,New Orleans Saints,41,10,24,497,226,271,0,18,310,218,92,2,23.77,5.69,-1.79,2014
+14,14,Panthers,Sun,December 14,,W,0,5-8-1,home,Tampa Bay Buccaneers,19,17,28,392,269,123,1,15,287,136,151,3,2.42,1.88,-2.12,2014
+15,15,Panthers,Sun,December 21,,W,0,6-8-1,home,Cleveland Browns,17,13,27,404,195,209,2,8,228,144,84,1,8.84,0.77,-2.06,2014
+16,16,Panthers,Sun,December 28,,W,0,7-8-1,away,Atlanta Falcons,34,3,17,306,112,194,0,16,288,225,63,3,5.19,27.86,-4.34,2014
+17,17,Panthers,,<strong>Playoffs</strong>,,,0,,home,,0,0,0,0,0,0,0,0,0,0,0,0,,,,2014
+18,18,Panthers,Sat,January 3,,W,0,8-8-1,home,Arizona Cardinals,27,16,25,386,198,188,3,8,78,51,27,3,-6.33,19.39,-4.19,2014
+19,19,Panthers,Sat,January 10,,L,0,8-9-1,away,Seattle Seahawks,17,31,21,362,230,132,3,16,348,248,100,0,-1.93,-13.2,-1.18,2014

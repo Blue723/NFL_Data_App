@@ -1,4 +1,4 @@
-,No.,Team,Player,Age,Position,Games Played,Games Started,FGA 0-19,FGM 0-19,FGA 20-29,FGM 20-29,FGA 30-39,FGM 30-39,FGA 40-49,FGM 40-49,FGA 50+,FGM 50+,Field Goals Attempted,Field Goals Made,Longest Field Goal Made,% of Field Goals Made,Extra Points Attempted,Extra Points Made,Extra Point Percentage,Kickoffs,Kickoff Yards,Kickoff Touchbacks,% Kickoff was a Touchback,Kickoff Average Yardage
-2,2,Buffalos,Dan Carpenter,29,K,16,0,n/a,n/a,10,10,12,11,8,7,8,6,38,34,58,89.5%,32,31,96.9%,n/a,n/a,n/a,n/a,n/a
-4,4,Buffalos,Jordan Gay,24,P,16,0,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,83,5222,49,59.0%,62.9
-6,6,Buffalos,Colton Schmidt,24,P,16,0,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,2,101,n/a,n/a,50.5
+,No.,Team,Player,Age,Position,Games Played,Games Started,FGA 0-19,FGM 0-19,FGA 20-29,FGM 20-29,FGA 30-39,FGM 30-39,FGA 40-49,FGM 40-49,FGA 50+,FGM 50+,Field Goals Attempted,Field Goals Made,Longest Field Goal Made,Per. of Field Goals Made,Extra Points Attempted,Extra Points Made,Extra Point Per.,Kickoffs,Kickoff Yards,Kickoff Touchbacks,Per. Kickoff was a Touchback,Kickoff Average Yardage,Year
+0,2,Buffalos,Dan Carpenter,29,K,16,0,0,0,10,10,12,11,8,7,8,6,38,34,58,89.5,32,31,96.9,0,0,0,0.0,0.0,2014
+1,4,Buffalos,Jordan Gay,24,P,16,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0.0,83,5222,49,59.0,62.9,2014
+2,6,Buffalos,Colton Schmidt,24,P,16,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0.0,2,101,0,0.0,50.5,2014

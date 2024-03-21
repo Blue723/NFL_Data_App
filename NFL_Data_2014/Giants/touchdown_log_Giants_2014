@@ -1,45 +1,45 @@
-,Rank,Team,Date,Opponent,Results,Quarter,Distance,Type,Detail
-1,1,Giants,2014-09-08,DET,"L, 14-35",2,1,pass,Larry Donnell
-2,2,Giants,2014-09-08,DET,"L, 14-35",4,1,rush,Rashad Jennings
-3,3,Giants,2014-09-14,ARI,"L, 14-25",2,7,pass,Rueben Randle
-4,4,Giants,2014-09-14,ARI,"L, 14-25",3,1,pass,Daniel Fells
-5,5,Giants,2014-09-21,HOU,"W, 30-17",2,26,pass,Victor Cruz
-6,6,Giants,2014-09-21,HOU,"W, 30-17",2,1,rush,Rashad Jennings
-7,7,Giants,2014-09-21,HOU,"W, 30-17",4,9,pass,Daniel Fells
-8,8,Giants,2014-09-25,WAS,"W, 45-14",1,5,pass,Larry Donnell
-9,9,Giants,2014-09-25,WAS,"W, 45-14",2,6,pass,Larry Donnell
-10,10,Giants,2014-09-25,WAS,"W, 45-14",2,6,pass,Larry Donnell
-11,11,Giants,2014-09-25,WAS,"W, 45-14",3,2,pass,Daniel Fells
-12,12,Giants,2014-09-25,WAS,"W, 45-14",4,1,rush,Eli Manning
-13,13,Giants,2014-09-25,WAS,"W, 45-14",4,1,rush,Andre Williams
-14,14,Giants,2014-10-05,ATL,"W, 30-20",1,3,pass,Rueben Randle
-15,15,Giants,2014-10-05,ATL,"W, 30-20",3,3,rush,Andre Williams
-16,16,Giants,2014-10-05,ATL,"W, 30-20",4,15,pass,Odell Beckham Jr.
-17,17,Giants,2014-10-19,DAL,"L, 21-31",2,9,pass,Odell Beckham Jr.
-18,18,Giants,2014-10-19,DAL,"L, 21-31",2,27,pass,Daniel Fells
-19,19,Giants,2014-10-19,DAL,"L, 21-31",4,5,pass,Odell Beckham Jr.
-20,20,Giants,2014-11-03,IND,"L, 24-40",3,1,rush,Andre Williams
-21,21,Giants,2014-11-03,IND,"L, 24-40",4,5,pass,Larry Donnell
-22,22,Giants,2014-11-03,IND,"L, 24-40",4,1,pass,Corey Washington
-23,23,Giants,2014-11-09,SEA,"L, 17-38",1,6,pass,Preston Parker
-24,24,Giants,2014-11-09,SEA,"L, 17-38",2,3,rush,Andre Williams
-25,25,Giants,2014-11-16,SFO,"L, 10-16",1,19,pass,Larry Donnell
-26,26,Giants,2014-11-23,DAL,"L, 28-31",1,3,pass,Odell Beckham Jr.
-27,27,Giants,2014-11-23,DAL,"L, 28-31",2,43,pass,Odell Beckham Jr.
-28,28,Giants,2014-11-23,DAL,"L, 28-31",2,3,rush,Andre Williams
-29,29,Giants,2014-11-23,DAL,"L, 28-31",4,1,pass,Adrien Robinson
-30,30,Giants,2014-11-30,JAX,"L, 24-25",2,2,rush,Rashad Jennings
-31,31,Giants,2014-11-30,JAX,"L, 24-25",2,3,pass,Preston Parker
-32,32,Giants,2014-11-30,JAX,"L, 24-25",2,17,rush,Rashad Jennings
-33,33,Giants,2014-12-07,TEN,"W, 36-7",1,15,pass,Odell Beckham Jr.
-34,34,Giants,2014-12-07,TEN,"W, 36-7",1,26,fumble,Markus Kuhn
-35,35,Giants,2014-12-07,TEN,"W, 36-7",3,50,rush,Andre Williams
-36,36,Giants,2014-12-14,WAS,"W, 24-13",1,10,pass,Odell Beckham Jr.
-37,37,Giants,2014-12-14,WAS,"W, 24-13",3,35,pass,Odell Beckham Jr.
-38,38,Giants,2014-12-14,WAS,"W, 24-13",4,6,pass,Odell Beckham Jr.
-39,39,Giants,2014-12-21,STL,"W, 37-27",1,9,pass,Odell Beckham Jr.
-40,40,Giants,2014-12-21,STL,"W, 37-27",2,12,rush,Orleans Darkwa
-41,41,Giants,2014-12-21,STL,"W, 37-27",3,7,pass,Rueben Randle
-42,42,Giants,2014-12-21,STL,"W, 37-27",3,80,pass,Odell Beckham Jr.
-43,43,Giants,2014-12-28,PHI,"L, 26-34",1,1,rush,Andre Williams
-44,44,Giants,2014-12-28,PHI,"L, 26-34",4,63,pass,Odell Beckham Jr.
+,Rank,Team,Date,Opponent,Win/Loss,Score,Quarter,Distance,Type,Detail,Year
+0,1,Giants,09/08/2014,DET,Loss, 14-35,2,1,pass,Larry Donnell,2014
+1,2,Giants,09/08/2014,DET,Loss, 14-35,4,1,rush,Rashad Jennings,2014
+2,3,Giants,09/14/2014,ARI,Loss, 14-25,2,7,pass,Rueben Randle,2014
+3,4,Giants,09/14/2014,ARI,Loss, 14-25,3,1,pass,Daniel Fells,2014
+4,5,Giants,09/21/2014,HOU,Win, 30-17,2,26,pass,Victor Cruz,2014
+5,6,Giants,09/21/2014,HOU,Win, 30-17,2,1,rush,Rashad Jennings,2014
+6,7,Giants,09/21/2014,HOU,Win, 30-17,4,9,pass,Daniel Fells,2014
+7,8,Giants,09/25/2014,WAS,Win, 45-14,1,5,pass,Larry Donnell,2014
+8,9,Giants,09/25/2014,WAS,Win, 45-14,2,6,pass,Larry Donnell,2014
+9,10,Giants,09/25/2014,WAS,Win, 45-14,2,6,pass,Larry Donnell,2014
+10,11,Giants,09/25/2014,WAS,Win, 45-14,3,2,pass,Daniel Fells,2014
+11,12,Giants,09/25/2014,WAS,Win, 45-14,4,1,rush,Eli Manning,2014
+12,13,Giants,09/25/2014,WAS,Win, 45-14,4,1,rush,Andre Williams,2014
+13,14,Giants,10/05/2014,ATL,Win, 30-20,1,3,pass,Rueben Randle,2014
+14,15,Giants,10/05/2014,ATL,Win, 30-20,3,3,rush,Andre Williams,2014
+15,16,Giants,10/05/2014,ATL,Win, 30-20,4,15,pass,Odell Beckham Jr.,2014
+16,17,Giants,10/19/2014,DAL,Loss, 21-31,2,9,pass,Odell Beckham Jr.,2014
+17,18,Giants,10/19/2014,DAL,Loss, 21-31,2,27,pass,Daniel Fells,2014
+18,19,Giants,10/19/2014,DAL,Loss, 21-31,4,5,pass,Odell Beckham Jr.,2014
+19,20,Giants,11/03/2014,IND,Loss, 24-40,3,1,rush,Andre Williams,2014
+20,21,Giants,11/03/2014,IND,Loss, 24-40,4,5,pass,Larry Donnell,2014
+21,22,Giants,11/03/2014,IND,Loss, 24-40,4,1,pass,Corey Washington,2014
+22,23,Giants,11/09/2014,SEA,Loss, 17-38,1,6,pass,Preston Parker,2014
+23,24,Giants,11/09/2014,SEA,Loss, 17-38,2,3,rush,Andre Williams,2014
+24,25,Giants,11/16/2014,SFO,Loss, 10-16,1,19,pass,Larry Donnell,2014
+25,26,Giants,11/23/2014,DAL,Loss, 28-31,1,3,pass,Odell Beckham Jr.,2014
+26,27,Giants,11/23/2014,DAL,Loss, 28-31,2,43,pass,Odell Beckham Jr.,2014
+27,28,Giants,11/23/2014,DAL,Loss, 28-31,2,3,rush,Andre Williams,2014
+28,29,Giants,11/23/2014,DAL,Loss, 28-31,4,1,pass,Adrien Robinson,2014
+29,30,Giants,11/30/2014,JAX,Loss, 24-25,2,2,rush,Rashad Jennings,2014
+30,31,Giants,11/30/2014,JAX,Loss, 24-25,2,3,pass,Preston Parker,2014
+31,32,Giants,11/30/2014,JAX,Loss, 24-25,2,17,rush,Rashad Jennings,2014
+32,33,Giants,12/07/2014,TEN,Win, 36-7,1,15,pass,Odell Beckham Jr.,2014
+33,34,Giants,12/07/2014,TEN,Win, 36-7,1,26,fumble,Markus Kuhn,2014
+34,35,Giants,12/07/2014,TEN,Win, 36-7,3,50,rush,Andre Williams,2014
+35,36,Giants,12/14/2014,WAS,Win, 24-13,1,10,pass,Odell Beckham Jr.,2014
+36,37,Giants,12/14/2014,WAS,Win, 24-13,3,35,pass,Odell Beckham Jr.,2014
+37,38,Giants,12/14/2014,WAS,Win, 24-13,4,6,pass,Odell Beckham Jr.,2014
+38,39,Giants,12/21/2014,STL,Win, 37-27,1,9,pass,Odell Beckham Jr.,2014
+39,40,Giants,12/21/2014,STL,Win, 37-27,2,12,rush,Orleans Darkwa,2014
+40,41,Giants,12/21/2014,STL,Win, 37-27,3,7,pass,Rueben Randle,2014
+41,42,Giants,12/21/2014,STL,Win, 37-27,3,80,pass,Odell Beckham Jr.,2014
+42,43,Giants,12/28/2014,PHI,Loss, 26-34,1,1,rush,Andre Williams,2014
+43,44,Giants,12/28/2014,PHI,Loss, 26-34,4,63,pass,Odell Beckham Jr.,2014

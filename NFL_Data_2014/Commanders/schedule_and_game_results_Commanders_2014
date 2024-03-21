@@ -1,18 +1,18 @@
-,Week,Team,Day,Date,Time,Win/Loss,Overtime,Team Record,Home/Away,Opponent,Points Scored,Points Allowed,Offense 1st Down,Total Yards Gained of Offense,Total yards Gained by Passing,Total Yards Gained by Rushing,Offense Turnovers,Defense 1st Down,Total Yards Allowed by Defense,Total Passing Yards Allowed by Defense,Total Rushing Yards Allowed by Defense,Defense Turnovers,Offense,Defense,Sp. Tms
-1,1,Commanders,Sun,September 7,1:03PM ET,L,n/a,0-1,away,Houston Texans,6,17,20,372,241,131,2,16,321,206,115,1,-5.22,-1.01,-5.06
-2,2,Commanders,Sun,September 14,1:05PM ET,W,n/a,1-1,home,Jacksonville Jaguars,41,10,32,449,258,191,n/a,8,148,123,25,1,18.53,17.20,-2.90
-3,3,Commanders,Sun,September 21,1:02PM ET,L,n/a,1-2,away,Philadelphia Eagles,34,37,27,511,427,84,1,22,379,325,54,1,18.48,-10.89,-10.95
-4,4,Commanders,Thu,September 25,8:26PM ET,L,n/a,1-3,home,New York Giants,14,45,17,329,243,86,6,31,449,295,154,1,-12.62,-15.71,3.96
-5,5,Commanders,Mon,October 6,8:30PM ET,L,n/a,1-4,home,Seattle Seahawks,17,27,14,307,275,32,n/a,20,403,178,225,n/a,3.55,-9.73,-2.71
-6,6,Commanders,Sun,October 12,4:25PM ET,L,n/a,1-5,away,Arizona Cardinals,20,30,21,407,335,72,4,19,317,243,74,n/a,-3.67,-2.04,-0.70
-7,7,Commanders,Sun,October 19,1:02PM ET,W,n/a,2-5,home,Tennessee Titans,19,17,16,351,251,100,2,14,236,160,76,2,0.46,3.14,-2.06
-8,8,Commanders,Mon,October 27,8:30PM ET,W,OT,3-5,away,Dallas Cowboys,20,17,19,409,286,123,1,20,395,224,171,2,7.31,-3.35,1.34
-9,9,Commanders,Sun,November 2,1:03PM ET,L,n/a,3-6,away,Minnesota Vikings,26,29,21,347,225,122,1,24,352,252,100,n/a,7.48,-12.05,0.84
-10,10,Commanders,n/a,n/a,n/a,n/a,n/a,n/a,home,<strong>Bye Week</strong>,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
-11,11,Commanders,Sun,November 16,1:03PM ET,L,n/a,3-7,home,Tampa Bay Buccaneers,7,27,20,322,167,155,3,12,329,281,48,1,-6.68,-8.40,-3.08
-12,12,Commanders,Sun,November 23,4:25PM ET,L,n/a,3-8,away,San Francisco 49ers,13,17,12,213,77,136,1,16,312,246,66,3,-12.86,3.79,1.71
-13,13,Commanders,Sun,November 30,1:02PM ET,L,n/a,3-9,away,Indianapolis Colts,27,49,24,425,341,84,1,19,487,361,126,3,1.73,-20.16,0.26
-14,14,Commanders,Sun,December 7,1:03PM ET,L,n/a,3-10,home,St. Louis Rams,0,24,13,206,179,27,2,19,329,198,131,n/a,-17.12,-9.72,3.12
-15,15,Commanders,Sun,December 14,1:02PM ET,L,n/a,3-11,away,New York Giants,13,24,21,372,228,144,1,17,287,238,49,1,0.43,-5.75,0.78
-16,16,Commanders,Sat,December 20,4:30PM ET,W,n/a,4-11,home,Philadelphia Eagles,27,24,21,305,205,100,2,30,495,361,134,2,13.47,-14.76,1.73
-17,17,Commanders,Sun,December 28,1:05PM ET,L,n/a,4-12,home,Dallas Cowboys,17,44,20,413,309,104,4,20,473,299,174,1,-8.56,-15.43,-1.86
+,Week,Team,Day,Date,Time,Win/Loss,Overtime,Team Record,Home/Away,Opponent,Points Scored,Points Allowed,Offense 1st Down,Total Yards Gained of Offense,Total yards Gained by Passing,Total Yards Gained by Rushing,Offense Turnovers,Defense 1st Down,Total Yards Allowed by Defense,Total Passing Yards Allowed by Defense,Total Rushing Yards Allowed by Defense,Defense Turnovers,Offense,Defense,Sp. Tms,Year
+0,0,Commanders,Sun,September 7,,L,0,0-1,away,Houston Texans,6,17,20,372,241,131,2,16,321,206,115,1,-5.22,-1.01,-5.06,2014
+1,1,Commanders,Sun,September 14,,W,0,1-1,home,Jacksonville Jaguars,41,10,32,449,258,191,0,8,148,123,25,1,18.53,17.2,-2.9,2014
+2,2,Commanders,Sun,September 21,,L,0,1-2,away,Philadelphia Eagles,34,37,27,511,427,84,1,22,379,325,54,1,18.48,-10.89,-10.95,2014
+3,3,Commanders,Thu,September 25,,L,0,1-3,home,New York Giants,14,45,17,329,243,86,6,31,449,295,154,1,-12.62,-15.71,3.96,2014
+4,4,Commanders,Mon,October 6,,L,0,1-4,home,Seattle Seahawks,17,27,14,307,275,32,0,20,403,178,225,0,3.55,-9.73,-2.71,2014
+5,5,Commanders,Sun,October 12,,L,0,1-5,away,Arizona Cardinals,20,30,21,407,335,72,4,19,317,243,74,0,-3.67,-2.04,-0.7,2014
+6,6,Commanders,Sun,October 19,,W,0,2-5,home,Tennessee Titans,19,17,16,351,251,100,2,14,236,160,76,2,0.46,3.14,-2.06,2014
+7,7,1,1,1,1.0,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1.0,1.0,1.0,1
+8,8,Commanders,Sun,November 2,,L,0,3-6,away,Minnesota Vikings,26,29,21,347,225,122,1,24,352,252,100,0,7.48,-12.05,0.84,2014
+9,9,Commanders,,,,,0,,home,<strong>Bye Week</strong>,0,0,0,0,0,0,0,0,0,0,0,0,,,,2014
+10,10,Commanders,Sun,November 16,,L,0,3-7,home,Tampa Bay Buccaneers,7,27,20,322,167,155,3,12,329,281,48,1,-6.68,-8.4,-3.08,2014
+11,11,Commanders,Sun,November 23,,L,0,3-8,away,San Francisco 49ers,13,17,12,213,77,136,1,16,312,246,66,3,-12.86,3.79,1.71,2014
+12,12,Commanders,Sun,November 30,,L,0,3-9,away,Indianapolis Colts,27,49,24,425,341,84,1,19,487,361,126,3,1.73,-20.16,0.26,2014
+13,13,Commanders,Sun,December 7,,L,0,3-10,home,St. Louis Rams,0,24,13,206,179,27,2,19,329,198,131,0,-17.12,-9.72,3.12,2014
+14,14,Commanders,Sun,December 14,,L,0,3-11,away,New York Giants,13,24,21,372,228,144,1,17,287,238,49,1,0.43,-5.75,0.78,2014
+15,15,Commanders,Sat,December 20,,W,0,4-11,home,Philadelphia Eagles,27,24,21,305,205,100,2,30,495,361,134,2,13.47,-14.76,1.73,2014
+16,16,Commanders,Sun,December 28,,L,0,4-12,home,Dallas Cowboys,17,44,20,413,309,104,4,20,473,299,174,1,-8.56,-15.43,-1.86,2014

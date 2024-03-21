@@ -1,6 +1,6 @@
-,No.,Team,Player,Age,Position,Games Played,Games Started,Punts Returned,Punts Return Yardage,Punts Returned for Touchdown,Longest Punt Return,Yards per Punt Return,Kickoff Returns,Yardage for Kickoffs Returned,Kickoffs Returned for a Touchdown,Longest Kickoff Return,Yards per Kickoff Return,All-purpose Yards
-30,30,Jaguars,Jordan Todman,24,RB,16,1,n/a,n/a,0,n/a,n/a,38,972,0,40,25.6,1356
-18,18,Jaguars,Ace Sanders,23,WR,12,0,32,227,0,23,7.1,1,16,0,16,16.0,298
-12,12,Jaguars,Mike Brown,25,WR,5,1,5,37,0,13,7.4,1,11,0,11,11.0,136
-59,59,Jaguars,Ryan Davis,25,LB,16,0,n/a,n/a,0,n/a,n/a,2,22,0,15,11.0,22
-93,93,Jaguars,Tyson Alualu,27,DT,16,0,n/a,n/a,0,n/a,n/a,1,12,0,12,12.0,12
+,No.,Team,Player,Age,Position,Games Played,Games Started,Punts Returned,Punts Return Yardage,Punts Returned for Touchdown,Longest Punt Return,Yards per Punt Return,Kickoff Returns,Yardage for Kickoffs Returned,Kickoffs Returned for a Touchdown,Longest Kickoff Return,Yards per Kickoff Return,All-purpose Yards,Year
+0,30,Jaguars,Jordan Todman,24,RB,16,1,0,0,0,0,,38,972,0,40,25.6,1356,2014
+1,18,Jaguars,Ace Sanders,23,WR,12,0,32,227,0,23,7.1,1,16,0,16,16.0,298,2014
+2,12,Jaguars,Mike Brown,25,WR,5,1,5,37,0,13,7.4,1,11,0,11,11.0,136,2014
+3,59,Jaguars,Ryan Davis,25,LB,16,0,0,0,0,0,,2,22,0,15,11.0,22,2014
+4,93,Jaguars,Tyson Alualu,27,DT,16,0,0,0,0,0,,1,12,0,12,12.0,12,2014

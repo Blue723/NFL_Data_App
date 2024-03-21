@@ -1,15 +1,15 @@
-,No.,Team,Player,Age,Pos,Games Played,Games Started,Rush TD,Reception TD,Punt Return TD,Kick Return TD,Fumble Return TD,Interception TD,Other TD,All Touchdown Scored,2-Point Conversions Made,Two-Point Conversions Attempted,Defensive Two-Point Conversions,Extra Points Made,Extra Points Allowed,Field Goals Made,Field Goals Attempted,Safeties Scored by Player/Team,Total Points Scored by all Means,Poins per Game
-3,3,Giants,Josh Brown,35,K,16,0,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,44,44,24,26,n/a,116,7.3
-13,13,Giants,Odell Beckham Jr.,22,WR,12,11,n/a,12,n/a,n/a,n/a,n/a,n/a,12,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,72,6.0
-44,44,Giants,Andre Williams,22,RB,16,7,7,n/a,n/a,n/a,n/a,n/a,n/a,7,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,42,2.6
-84,84,Giants,Larry Donnell,26,TE,16,12,n/a,6,n/a,n/a,n/a,n/a,n/a,6,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,36,2.3
-85,85,Giants,Daniel Fells,31,TE,16,9,n/a,4,n/a,n/a,n/a,n/a,n/a,4,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,24,1.5
-23,23,Giants,Rashad Jennings,29,RB,11,9,4,n/a,n/a,n/a,n/a,n/a,n/a,4,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,24,2.2
-82,82,Giants,Rueben Randle,23,WR,16,13,n/a,3,n/a,n/a,n/a,n/a,n/a,3,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,18,1.1
-83,83,Giants,Preston Parker,27,WR,16,7,n/a,2,n/a,n/a,n/a,n/a,n/a,2,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,12,0.8
-80,80,Giants,Victor Cruz,28,WR,6,6,n/a,1,n/a,n/a,n/a,n/a,n/a,1,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,6,1.0
-43,43,Giants,Orleans Darkwa,22,RB,7,0,1,n/a,n/a,n/a,n/a,n/a,n/a,1,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,6,0.9
-78,78,Giants,Markus Kuhn,28,DT,14,1,n/a,n/a,n/a,n/a,1,n/a,n/a,1,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,6,0.4
-10,10,Giants,Eli Manning,33,QB,16,16,1,n/a,n/a,n/a,n/a,n/a,n/a,1,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,6,0.4
-81,81,Giants,Adrien Robinson,26,LB,16,1,n/a,1,n/a,n/a,n/a,n/a,n/a,1,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,6,0.4
-88,88,Giants,Corey Washington,23,WR,14,0,n/a,1,n/a,n/a,n/a,n/a,n/a,1,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,6,0.4
+,No.,Team,Player,Age,Pos,Games Played,Games Started,Rush TD,Reception TD,Punt Return TD,Kick Return TD,Fumble Return TD,Interception TD,Other TD,All Touchdown Scored,2-Point Conversions Made,Two-Point Conversions Attempted,Defensive Two-Point Conversions,Extra Points Made,Extra Points Allowed,Field Goals Made,Field Goals Attempted,Safeties Scored by Player/Team,Total Points Scored by all Means,Poins per Game,Year
+0,3,Giants,Josh Brown,35,K,16,0,0,0,0,0,0,0,0,0,0,0,0,44,44,24,26,,116,7.3,2014
+1,13,Giants,Odell Beckham Jr.,22,WR,12,11,0,12,0,0,0,0,0,12,0,0,0,0,0,0,0,,72,6.0,2014
+2,44,Giants,Andre Williams,22,RB,16,7,7,0,0,0,0,0,0,7,0,0,0,0,0,0,0,,42,2.6,2014
+3,84,Giants,Larry Donnell,26,TE,16,12,0,6,0,0,0,0,0,6,0,0,0,0,0,0,0,,36,2.3,2014
+4,85,Giants,Daniel Fells,31,TE,16,9,0,4,0,0,0,0,0,4,0,0,0,0,0,0,0,,24,1.5,2014
+5,23,Giants,Rashad Jennings,29,RB,11,9,4,0,0,0,0,0,0,4,0,0,0,0,0,0,0,,24,2.2,2014
+6,82,Giants,Rueben Randle,23,WR,16,13,0,3,0,0,0,0,0,3,0,0,0,0,0,0,0,,18,1.1,2014
+7,83,Giants,Preston Parker,27,WR,16,7,0,2,0,0,0,0,0,2,0,0,0,0,0,0,0,,12,0.8,2014
+8,80,Giants,Victor Cruz,28,WR,6,6,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,,6,1.0,2014
+9,43,Giants,Orleans Darkwa,22,RB,7,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,,6,0.9,2014
+10,78,Giants,Markus Kuhn,28,DT,14,1,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,,6,0.4,2014
+11,10,Giants,Eli Manning,33,QB,16,16,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,,6,0.4,2014
+12,81,Giants,Adrien Robinson,26,LB,16,1,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,,6,0.4,2014
+13,88,Giants,Corey Washington,23,WR,14,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,,6,0.4,2014

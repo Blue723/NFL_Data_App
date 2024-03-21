@@ -1,15 +1,15 @@
-,No.,Team,Player,Age,Pos,Games Played,Games Started,Rush TD,Reception TD,Punt Return TD,Kick Return TD,Fumble Return TD,Interception TD,Other TD,All Touchdown Scored,2-Point Conversions Made,Two-Point Conversions Attempted,Defensive Two-Point Conversions,Extra Points Made,Extra Points Allowed,Field Goals Made,Field Goals Attempted,Safeties Scored by Player/Team,Total Points Scored by all Means,Poins per Game
-4,4,Texans,Randy Bullock,25,K,16,0,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,40,40,30,35,n/a,130,8.1
-23,23,Texans,Arian Foster,28,RB,13,13,8,5,n/a,n/a,n/a,n/a,n/a,13,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,78,6.0
-10,10,Texans,DeAndre Hopkins,22,WR,16,16,n/a,6,n/a,n/a,n/a,n/a,n/a,6,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,36,2.3
-99,99,Texans,J.J. Watt,25,LDE,16,16,n/a,3,n/a,n/a,1,1,n/a,5,n/a,n/a,n/a,n/a,n/a,n/a,n/a,1,32,2.0
-28,28,Texans,Alfred Blue,23,RB,16,3,2,1,n/a,n/a,n/a,n/a,1,4,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,24,1.5
-80,80,Texans,Andre Johnson,33,WR,15,15,n/a,3,n/a,n/a,n/a,n/a,n/a,3,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,18,1.2
-14,14,Texans,Ryan Fitzpatrick,32,QB,12,12,2,n/a,n/a,n/a,n/a,n/a,n/a,2,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,12,1.0
-34,34,Texans,A.J. Bouye,23,LCB,14,6,n/a,n/a,n/a,n/a,n/a,1,n/a,1,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,6,0.4
-87,87,Texans,C.J. Fiedorowicz,23,TE,15,8,n/a,1,n/a,n/a,n/a,n/a,n/a,1,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,6,0.4
-88,88,Texans,Garrett Graham,28,TE,11,9,n/a,1,n/a,n/a,n/a,n/a,n/a,1,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,6,0.5
-84,84,Texans,Ryan Griffin,24,TE,16,2,n/a,1,n/a,n/a,n/a,n/a,n/a,1,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,6,0.4
-13,13,Texans,Damaris Johnson,25,WR,16,8,n/a,1,n/a,n/a,n/a,n/a,n/a,1,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,6,0.4
-24,24,Texans,Johnathan Joseph,30,RCB,16,16,n/a,n/a,n/a,n/a,n/a,1,n/a,1,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,6,0.4
-21,21,Texans,Kendrick Lewis,26,FS,16,16,n/a,n/a,n/a,n/a,n/a,1,n/a,1,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,6,0.4
+,No.,Team,Player,Age,Pos,Games Played,Games Started,Rush TD,Reception TD,Punt Return TD,Kick Return TD,Fumble Return TD,Interception TD,Other TD,All Touchdown Scored,2-Point Conversions Made,Two-Point Conversions Attempted,Defensive Two-Point Conversions,Extra Points Made,Extra Points Allowed,Field Goals Made,Field Goals Attempted,Safeties Scored by Player/Team,Total Points Scored by all Means,Poins per Game,Year
+0,4,Texans,Randy Bullock,25,K,16,0,0,0,0,0,0,0,0,0,0,0,0,40,40,30,35,,130,8.1,2014
+1,23,Texans,Arian Foster,28,RB,13,13,8,5,0,0,0,0,0,13,0,0,0,0,0,0,0,,78,6.0,2014
+2,10,Texans,DeAndre Hopkins,22,WR,16,16,0,6,0,0,0,0,0,6,0,0,0,0,0,0,0,,36,2.3,2014
+3,99,Texans,J.J. Watt,25,LDE,16,16,0,3,0,0,1,1,0,5,0,0,0,0,0,0,0,1.0,32,2.0,2014
+4,28,Texans,Alfred Blue,23,RB,16,3,2,1,0,0,0,0,1,4,0,0,0,0,0,0,0,,24,1.5,2014
+5,80,Texans,Andre Johnson,33,WR,15,15,0,3,0,0,0,0,0,3,0,0,0,0,0,0,0,,18,1.2,2014
+6,14,Texans,Ryan Fitzpatrick,32,QB,12,12,2,0,0,0,0,0,0,2,0,0,0,0,0,0,0,,12,1.0,2014
+7,34,Texans,A.J. Bouye,23,LCB,14,6,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,,6,0.4,2014
+8,87,Texans,C.J. Fiedorowicz,23,TE,15,8,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,,6,0.4,2014
+9,88,Texans,Garrett Graham,28,TE,11,9,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,,6,0.5,2014
+10,84,Texans,Ryan Griffin,24,TE,16,2,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,,6,0.4,2014
+11,13,Texans,Damaris Johnson,25,WR,16,8,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,,6,0.4,2014
+12,24,Texans,Johnathan Joseph,30,RCB,16,16,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,,6,0.4,2014
+13,21,Texans,Kendrick Lewis,26,FS,16,16,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,,6,0.4,2014

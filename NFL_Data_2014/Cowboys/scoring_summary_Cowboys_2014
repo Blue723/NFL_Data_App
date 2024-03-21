@@ -1,12 +1,12 @@
-,No.,Team,Player,Age,Pos,Games Played,Games Started,Rush TD,Reception TD,Punt Return TD,Kick Return TD,Fumble Return TD,Interception TD,Other TD,All Touchdown Scored,2-Point Conversions Made,Two-Point Conversions Attempted,Defensive Two-Point Conversions,Extra Points Made,Extra Points Allowed,Field Goals Made,Field Goals Attempted,Safeties Scored by Player/Team,Total Points Scored by all Means,Poins per Game
-5,5,Cowboys,Dan Bailey,26,K,16,0,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,56,56,25,29,n/a,131,8.2
-88,88,Cowboys,Dez Bryant,26,WR,16,16,n/a,16,n/a,n/a,n/a,n/a,n/a,16,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,96,6.0
-29,29,Cowboys,DeMarco Murray,26,RB,16,16,13,n/a,n/a,n/a,n/a,n/a,n/a,13,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,78,4.9
-83,83,Cowboys,Terrance Williams,25,WR,16,16,n/a,8,n/a,n/a,n/a,n/a,n/a,8,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,48,3.0
-82,82,Cowboys,Jason Witten,32,TE,16,16,n/a,5,n/a,n/a,n/a,n/a,n/a,5,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,30,1.9
-11,11,Cowboys,Cole Beasley,25,WR,16,2,n/a,4,n/a,n/a,n/a,n/a,n/a,4,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,24,1.5
-89,89,Cowboys,Gavin Escobar,23,TE,16,1,n/a,4,n/a,n/a,n/a,n/a,n/a,4,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,24,1.5
-21,21,Cowboys,Joseph Randle,23,RB,16,0,3,n/a,n/a,n/a,n/a,n/a,n/a,3,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,18,1.1
-54,54,Cowboys,Bruce Carter,26,LLB,13,8,n/a,n/a,n/a,n/a,n/a,1,n/a,1,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,6,0.5
-20,20,Cowboys,Tyler Patmon,23,DB,11,0,n/a,n/a,n/a,n/a,n/a,1,n/a,1,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,6,0.5
-93,93,Cowboys,Anthony Spencer,30,DE,13,0,n/a,n/a,n/a,n/a,1,n/a,n/a,1,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,6,0.5
+,No.,Team,Player,Age,Pos,Games Played,Games Started,Rush TD,Reception TD,Punt Return TD,Kick Return TD,Fumble Return TD,Interception TD,Other TD,All Touchdown Scored,2-Point Conversions Made,Two-Point Conversions Attempted,Defensive Two-Point Conversions,Extra Points Made,Extra Points Allowed,Field Goals Made,Field Goals Attempted,Safeties Scored by Player/Team,Total Points Scored by all Means,Poins per Game,Year
+0,5,Cowboys,Dan Bailey,26,K,16,0,0,0,0,0,0,0,0,0,0,0,0,56,56,25,29,,131,8.2,2014
+1,88,Cowboys,Dez Bryant,26,WR,16,16,0,16,0,0,0,0,0,16,0,0,0,0,0,0,0,,96,6.0,2014
+2,29,Cowboys,DeMarco Murray,26,RB,16,16,13,0,0,0,0,0,0,13,0,0,0,0,0,0,0,,78,4.9,2014
+3,83,Cowboys,Terrance Williams,25,WR,16,16,0,8,0,0,0,0,0,8,0,0,0,0,0,0,0,,48,3.0,2014
+4,82,Cowboys,Jason Witten,32,TE,16,16,0,5,0,0,0,0,0,5,0,0,0,0,0,0,0,,30,1.9,2014
+5,11,Cowboys,Cole Beasley,25,WR,16,2,0,4,0,0,0,0,0,4,0,0,0,0,0,0,0,,24,1.5,2014
+6,89,Cowboys,Gavin Escobar,23,TE,16,1,0,4,0,0,0,0,0,4,0,0,0,0,0,0,0,,24,1.5,2014
+7,21,Cowboys,Joseph Randle,23,RB,16,0,3,0,0,0,0,0,0,3,0,0,0,0,0,0,0,,18,1.1,2014
+8,54,Cowboys,Bruce Carter,26,LLB,13,8,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,,6,0.5,2014
+9,20,Cowboys,Tyler Patmon,23,DB,11,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,,6,0.5,2014
+10,93,Cowboys,Anthony Spencer,30,DE,13,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,,6,0.5,2014

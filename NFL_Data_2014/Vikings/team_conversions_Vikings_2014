@@ -1,5 +1,5 @@
-,Player,Team,3rd Down Attempts in Game,3rd Down Conversions,3rd Down Conversion %,4th Down Attempts in Game,4th Down Conversions in Game,4th Down Conversion %,Red Zone Attempts,Touchdowns Scored After the Team Entered the Red Zone,% of the Time a Team Reaches the Red Zone and Scores a Touchdown
-Team Stats,Team Stats,Vikings,211,82,38.9%,12,6,50.0%,39,21,53.8%
-Opp. Stats,Opp. Stats,Vikings,217,90,41.5%,14,9,64.3%,48,26,54.2%
-Lg Rank Offense,Lg Rank Offense,Vikings,n/a,n/a,21,n/a,n/a,11,n/a,n/a,15
-Lg Rank Defense,Lg Rank Defense,Vikings,n/a,n/a,20,n/a,n/a,31,n/a,n/a,19
+,Player,Team,3rd Down Attempts in Game,3rd Down Conversions,3rd Down Conversion Per.,4th Down Attempts in Game,4th Down Conversions in Game,4th Down Conversion Per.,Red Zone Attempts,Touchdowns Scored After the Team Entered the Red Zone,Per. of the Time a Team Reaches the Red Zone and Scores a Touchdown,Year
+0,Team Stats,Vikings,211.0,82.0,38.9,12.0,6.0,50.0,39.0,21.0,53.8,2014.0
+1,Opp. Stats,Vikings,217.0,90.0,41.5,14.0,9.0,64.3,48.0,26.0,54.2,2014.0
+2,Lg Rank Offense,Vikings,,,21.0,,,11.0,,,15.0,2014.0
+3,Lg Rank Defense,Vikings,,,20.0,,,31.0,,,19.0,2014.0

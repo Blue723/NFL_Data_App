@@ -1,17 +1,17 @@
-,No.,Team,Player,Age,Pos,Games Played,Games Started,Rush TD,Reception TD,Punt Return TD,Kick Return TD,Fumble Return TD,Interception TD,Other TD,All Touchdown Scored,2-Point Conversions Made,Two-Point Conversions Attempted,Defensive Two-Point Conversions,Extra Points Made,Extra Points Allowed,Field Goals Made,Field Goals Attempted,Safeties Scored by Player/Team,Total Points Scored by all Means,Poins per Game
-4,4,Seahawks,Stephen Hauschka,29,K,16,0,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,41,41,31,37,n/a,134,8.4
-24,24,Seahawks,Marshawn Lynch,28,RB,16,14,13,4,n/a,n/a,n/a,n/a,n/a,17,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,102,6.4
-3,3,Seahawks,Russell Wilson,26,QB,16,16,6,n/a,n/a,n/a,n/a,n/a,n/a,6,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,36,2.3
-89,89,Seahawks,Doug Baldwin,26,WR,16,16,n/a,3,n/a,n/a,n/a,n/a,n/a,3,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,18,1.1
-82,82,Seahawks,Luke Willson,24,TE,15,10,n/a,3,n/a,n/a,n/a,n/a,n/a,3,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,18,1.2
-84,84,Seahawks,Cooper Helfet,25,TE,10,2,n/a,2,n/a,n/a,n/a,n/a,n/a,2,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,12,1.2
-51,51,Seahawks,Bruce Irvin,27,LLB,15,13,n/a,n/a,n/a,n/a,n/a,2,n/a,2,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,12,0.8
-83,83,Seahawks,Ricardo Lockette,28,WR,16,0,n/a,2,n/a,n/a,n/a,n/a,n/a,2,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,12,0.8
-22,22,Seahawks,Robert Turbin,25,RB,16,3,n/a,2,n/a,n/a,n/a,n/a,n/a,2,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,12,0.8
-40,40,Seahawks,Derrick Coleman,24,RB,5,1,n/a,1,n/a,n/a,n/a,n/a,n/a,1,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,6,1.2
-11,11,Seahawks,Percy Harvin,26,WR,5,4,1,n/a,n/a,n/a,n/a,n/a,n/a,1,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,6,1.2
-15,15,Seahawks,Jermaine Kearse,24,WR,15,14,n/a,1,n/a,n/a,n/a,n/a,n/a,1,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,6,0.4
-88,88,Seahawks,Tony Moeaki,27,TE,6,2,n/a,1,n/a,n/a,n/a,n/a,n/a,1,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,6,1.0
-57,57,Seahawks,Mike Morgan,26,LB,16,0,n/a,n/a,n/a,n/a,n/a,n/a,1,1,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,6,0.4
-10,10,Seahawks,Paul Richardson,22,WR,15,6,n/a,1,n/a,n/a,n/a,n/a,n/a,1,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,6,0.4
-99,99,Seahawks,Tony McDaniel,29,LDT,16,14,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,1,2,0.1
+,No.,Team,Player,Age,Pos,Games Played,Games Started,Rush TD,Reception TD,Punt Return TD,Kick Return TD,Fumble Return TD,Interception TD,Other TD,All Touchdown Scored,2-Point Conversions Made,Two-Point Conversions Attempted,Defensive Two-Point Conversions,Extra Points Made,Extra Points Allowed,Field Goals Made,Field Goals Attempted,Safeties Scored by Player/Team,Total Points Scored by all Means,Poins per Game,Year
+0,4,Seahawks,Stephen Hauschka,29,K,16,0,0,0,0,0,0,0,0,0,0,0,0,41,41,31,37,,134,8.4,2014
+1,24,Seahawks,Marshawn Lynch,28,RB,16,14,13,4,0,0,0,0,0,17,0,0,0,0,0,0,0,,102,6.4,2014
+2,3,Seahawks,Russell Wilson,26,QB,16,16,6,0,0,0,0,0,0,6,0,0,0,0,0,0,0,,36,2.3,2014
+3,89,Seahawks,Doug Baldwin,26,WR,16,16,0,3,0,0,0,0,0,3,0,0,0,0,0,0,0,,18,1.1,2014
+4,82,Seahawks,Luke Willson,24,TE,15,10,0,3,0,0,0,0,0,3,0,0,0,0,0,0,0,,18,1.2,2014
+5,84,Seahawks,Cooper Helfet,25,TE,10,2,0,2,0,0,0,0,0,2,0,0,0,0,0,0,0,,12,1.2,2014
+6,51,Seahawks,Bruce Irvin,27,LLB,15,13,0,0,0,0,0,2,0,2,0,0,0,0,0,0,0,,12,0.8,2014
+7,83,Seahawks,Ricardo Lockette,28,WR,16,0,0,2,0,0,0,0,0,2,0,0,0,0,0,0,0,,12,0.8,2014
+8,22,Seahawks,Robert Turbin,25,RB,16,3,0,2,0,0,0,0,0,2,0,0,0,0,0,0,0,,12,0.8,2014
+9,40,Seahawks,Derrick Coleman,24,RB,5,1,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,,6,1.2,2014
+10,11,Seahawks,Percy Harvin,26,WR,5,4,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,,6,1.2,2014
+11,15,Seahawks,Jermaine Kearse,24,WR,15,14,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,,6,0.4,2014
+12,88,Seahawks,Tony Moeaki,27,TE,6,2,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,,6,1.0,2014
+13,57,Seahawks,Mike Morgan,26,LB,16,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,,6,0.4,2014
+14,10,Seahawks,Paul Richardson,22,WR,15,6,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,,6,0.4,2014
+15,99,Seahawks,Tony McDaniel,29,LDT,16,14,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1.0,2,0.1,2014
