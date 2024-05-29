@@ -1,18 +1,17 @@
-,Week,Team,Day,Date,Time,Win/Loss,Overtime,Team Record,Home/Away,Opponent,Points Scored,Points Allowed,Offense 1st Down,Total Yards Gained of Offense,Total yards Gained by Passing,Total Yards Gained by Rushing,Offense Turnovers,Defense 1st Down,Total Yards Allowed by Defense,Total Passing Yards Allowed by Defense,Total Rushing Yards Allowed by Defense,Defense Turnovers,Offense,Defense,Sp. Tms,Year
-0,0,Jets,Sun,September 8,,W,0,1-0,home,Tampa Bay Buccaneers,18,17,22,304,214,90,2,12,250,185,65,2,-6.75,8.41,-0.34,2013
-1,1,Jets,Thu,September 12,,L,0,1-1,away,New England Patriots,10,13,15,318,189,129,4,9,232,178,54,0,-20.4,16.53,-2.25,2013
-2,2,Jets,Sun,September 22,,W,0,2-1,home,Buffalo Bills,27,20,20,513,331,182,2,18,328,208,120,0,2.41,8.37,-1.29,2013
-3,3,Jets,Sun,September 29,,L,0,2-2,away,Tennessee Titans,13,38,16,330,239,91,4,17,322,244,78,0,-19.09,-8.11,1.56,2013
-4,4,Jets,Mon,October 7,,W,0,3-2,away,Atlanta Falcons,30,28,15,288,170,118,0,26,363,299,64,1,11.35,-17.21,1.95,2013
-5,5,Jets,Sun,October 13,,L,0,3-3,home,Pittsburgh Steelers,6,19,18,267,184,83,2,16,328,255,73,0,-11.21,-1.32,3.2,2013
-6,6,1,1,1,1.0,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1.0,1.0,1.0,1
-7,7,Jets,Sun,October 27,,L,0,4-4,away,Cincinnati Bengals,9,49,15,240,147,93,2,20,402,323,79,1,-24.25,-19.01,5.01,2013
-8,8,Jets,Sun,November 3,,W,0,5-4,home,New Orleans Saints,26,20,14,338,140,198,0,23,407,366,41,2,1.74,-0.73,8.15,2013
-9,9,Jets,,,,,0,,home,<strong>Bye Week</strong>,0,0,0,0,0,0,0,0,0,0,0,0,,,,2013
-10,10,Jets,Sun,November 17,,L,0,5-5,away,Buffalo Bills,14,37,12,267,133,134,4,14,313,245,68,0,-21.46,-1.63,2.85,2013
-11,11,Jets,Sun,November 24,,L,0,5-6,away,Baltimore Ravens,3,19,12,220,118,102,3,15,312,245,67,1,-19.91,6.17,-0.06,2013
-12,12,Jets,Sun,December 1,,L,0,5-7,home,Miami Dolphins,3,23,10,177,78,99,3,25,453,328,125,1,-24.28,-4.58,3.11,2013
-13,13,Jets,Sun,December 8,,W,0,6-7,home,Oakland Raiders,37,27,18,352,209,143,1,19,383,233,150,1,11.93,-9.03,9.82,2013
-14,14,Jets,Sun,December 15,,L,0,6-8,away,Carolina Panthers,20,30,19,297,140,157,1,21,392,261,131,0,0.43,-10.6,-2.56,2013
-15,15,Jets,Sun,December 22,,W,0,7-8,home,Cleveland Browns,24,13,25,422,214,208,0,19,283,168,115,2,16.88,6.13,-12.01,2013
-16,16,Jets,Sun,December 29,,W,0,8-8,away,Miami Dolphins,20,7,22,374,220,154,0,18,296,204,92,3,6.85,8.43,-3.59,2013
+,Week,Day,Date,Time,Win/Loss,Overtime,Team Record,Home/Away,Opponent,Points Scored,Points Allowed,Offense 1st Down,Total Yards Gained of Offense,Total yards Gained by Passing,Total Yards Gained by Rushing,Offense Turnovers,Defense 1st Down,Total Yards Allowed by Defense,Total Passing Yards Allowed by Defense,Total Rushing Yards Allowed by Defense,Defense Turnovers,Offense,Defense,Sp. Tms,Team,Year
+0,1,Sun,2013-09-08,nan,Win,0,1-0,home,Tampa Bay Buccaneers,18,17,22,304,214,90,2,12,250,185,65,2,-6.75,8.41,-0.34,Jets,2013
+1,2,Thu,2013-09-12,nan,Loss,0,1-1,away,New England Patriots,10,13,15,318,189,129,4,9,232,178,54,0,-20.4,16.53,-2.25,Jets,2013
+2,3,Sun,2013-09-22,nan,Win,0,2-1,home,Buffalo Bills,27,20,20,513,331,182,2,18,328,208,120,0,2.41,8.37,-1.29,Jets,2013
+3,4,Sun,2013-09-29,nan,Loss,0,2-2,away,Tennessee Titans,13,38,16,330,239,91,4,17,322,244,78,0,-19.09,-8.11,1.56,Jets,2013
+4,5,Mon,2013-10-07,nan,Win,0,3-2,away,Atlanta Falcons,30,28,15,288,170,118,0,26,363,299,64,1,11.35,-17.21,1.95,Jets,2013
+5,6,Sun,2013-10-13,nan,Loss,0,3-3,home,Pittsburgh Steelers,6,19,18,267,184,83,2,16,328,255,73,0,-11.21,-1.32,3.2,Jets,2013
+6,7,Sun,2013-10-20,nan,Win,1,4-3,home,New England Patriots,30,27,27,383,206,177,1,21,295,205,90,1,-4.71,7.1,0.42,Jets,2013
+7,8,Sun,2013-10-27,nan,Loss,0,4-4,away,Cincinnati Bengals,9,49,15,240,147,93,2,20,402,323,79,1,-24.25,-19.01,5.01,Jets,2013
+8,9,Sun,2013-11-03,nan,Win,0,5-4,home,New Orleans Saints,26,20,14,338,140,198,0,23,407,366,41,2,1.74,-0.73,8.15,Jets,2013
+9,11,Sun,2013-11-17,nan,Loss,0,5-5,away,Buffalo Bills,14,37,12,267,133,134,4,14,313,245,68,0,-21.46,-1.63,2.85,Jets,2013
+10,12,Sun,2013-11-24,nan,Loss,0,5-6,away,Baltimore Ravens,3,19,12,220,118,102,3,15,312,245,67,1,-19.91,6.17,-0.06,Jets,2013
+11,13,Sun,2013-12-01,nan,Loss,0,5-7,home,Miami Dolphins,3,23,10,177,78,99,3,25,453,328,125,1,-24.28,-4.58,3.11,Jets,2013
+12,14,Sun,2013-12-08,nan,Win,0,6-7,home,Oakland Raiders,37,27,18,352,209,143,1,19,383,233,150,1,11.93,-9.03,9.82,Jets,2013
+13,15,Sun,2013-12-15,nan,Loss,0,6-8,away,Carolina Panthers,20,30,19,297,140,157,1,21,392,261,131,0,0.43,-10.6,-2.56,Jets,2013
+14,16,Sun,2013-12-22,nan,Win,0,7-8,home,Cleveland Browns,24,13,25,422,214,208,0,19,283,168,115,2,16.88,6.13,-12.01,Jets,2013
+15,17,Sun,2013-12-29,nan,Win,0,8-8,away,Miami Dolphins,20,7,22,374,220,154,0,18,296,204,92,3,6.85,8.43,-3.59,Jets,2013

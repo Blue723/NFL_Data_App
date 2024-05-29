@@ -1,46 +1,46 @@
-,Rank,Team,Date,Opponent,Win/Loss,Score,Quarter,Distance,Type,Detail,Year
-0,1,Seahawks,09/08/2013,CAR,Win, 12-7,4,43,pass,Jermaine Kearse,2013
-1,2,Seahawks,09/15/2013,SFO,Win, 29-3,3,14,rush,Marshawn Lynch,2013
-2,3,Seahawks,09/15/2013,SFO,Win, 29-3,4,7,pass,Marshawn Lynch,2013
-3,4,Seahawks,09/15/2013,SFO,Win, 29-3,4,2,rush,Marshawn Lynch,2013
-4,5,Seahawks,09/22/2013,JAX,Win, 45-17,1,1,pass,Zach Miller,2013
-5,6,Seahawks,09/22/2013,JAX,Win, 45-17,2,4,pass,Zach Miller,2013
-6,7,Seahawks,09/22/2013,JAX,Win, 45-17,2,11,pass,Sidney Rice,2013
-7,8,Seahawks,09/22/2013,JAX,Win, 45-17,3,23,pass,Sidney Rice,2013
-8,9,Seahawks,09/22/2013,JAX,Win, 45-17,3,35,pass,Doug Baldwin,2013
-9,10,Seahawks,09/22/2013,JAX,Win, 45-17,4,5,rush,Tarvaris Jackson,2013
-10,11,Seahawks,09/29/2013,HOU,Win, 23-20,4,3,rush,Marshawn Lynch,2013
-11,12,Seahawks,09/29/2013,HOU,Win, 23-20,4,58,interception,Richard Sherman,2013
-12,13,Seahawks,10/06/2013,IND,Loss, 28-34,1,10,pass,Golden Tate,2013
-13,14,Seahawks,10/06/2013,IND,Loss, 28-34,2,28,pass,Jermaine Kearse,2013
-14,15,Seahawks,10/13/2013,TEN,Win, 20-13,2,1,rush,Marshawn Lynch,2013
-15,16,Seahawks,10/13/2013,TEN,Win, 20-13,4,3,rush,Marshawn Lynch,2013
-16,17,Seahawks,10/17/2013,ARI,Win, 34-22,1,31,pass,Sidney Rice,2013
-17,18,Seahawks,10/17/2013,ARI,Win, 34-22,2,15,pass,Zach Miller,2013
-18,19,Seahawks,10/17/2013,ARI,Win, 34-22,3,1,pass,Kellen Davis,2013
-19,20,Seahawks,10/17/2013,ARI,Win, 34-22,3,2,rush,Marshawn Lynch,2013
-20,21,Seahawks,10/28/2013,STL,Win, 14-9,2,2,pass,Golden Tate,2013
-21,22,Seahawks,10/28/2013,STL,Win, 14-9,3,80,pass,Golden Tate,2013
-22,23,Seahawks,11/03/2013,TAM,Win, 27-24,2,16,pass,Jermaine Kearse,2013
-23,24,Seahawks,11/03/2013,TAM,Win, 27-24,3,10,rush,Russell Wilson,2013
-24,25,Seahawks,11/03/2013,TAM,Win, 27-24,4,10,pass,Doug Baldwin,2013
-25,26,Seahawks,11/10/2013,ATL,Win, 33-10,2,43,pass,Jermaine Kearse,2013
-26,27,Seahawks,11/10/2013,ATL,Win, 33-10,2,6,pass,Golden Tate,2013
-27,28,Seahawks,11/10/2013,ATL,Win, 33-10,4,1,rush,Marshawn Lynch,2013
-28,29,Seahawks,11/17/2013,MIN,Win, 41-20,1,4,rush,Marshawn Lynch,2013
-29,30,Seahawks,11/17/2013,MIN,Win, 41-20,2,1,rush,Marshawn Lynch,2013
-30,31,Seahawks,11/17/2013,MIN,Win, 41-20,2,19,pass,Doug Baldwin,2013
-31,32,Seahawks,11/17/2013,MIN,Win, 41-20,4,6,pass,Marshawn Lynch,2013
-32,33,Seahawks,11/17/2013,MIN,Win, 41-20,4,29,interception,Walter Thurmond,2013
-33,34,Seahawks,12/02/2013,NOR,Win, 34-7,1,22,fumble,Michael Bennett,2013
-34,35,Seahawks,12/02/2013,NOR,Win, 34-7,1,2,pass,Zach Miller,2013
-35,36,Seahawks,12/02/2013,NOR,Win, 34-7,2,4,pass,Doug Baldwin,2013
-36,37,Seahawks,12/02/2013,NOR,Win, 34-7,3,8,pass,Derrick Coleman,2013
-37,38,Seahawks,12/08/2013,SFO,Loss, 17-19,2,11,rush,Marshawn Lynch,2013
-38,39,Seahawks,12/08/2013,SFO,Loss, 17-19,2,39,pass,Luke Willson,2013
-39,40,Seahawks,12/15/2013,NYG,Win, 23-0,2,2,rush,Marshawn Lynch,2013
-40,41,Seahawks,12/15/2013,NYG,Win, 23-0,4,12,pass,Doug Baldwin,2013
-41,42,Seahawks,12/22/2013,ARI,Loss, 10-17,4,11,pass,Zach Miller,2013
-42,43,Seahawks,12/29/2013,STL,Win, 27-9,1,37,interception,Malcolm Smith,2013
-43,44,Seahawks,12/29/2013,STL,Win, 27-9,3,2,rush,Marshawn Lynch,2013
-44,45,Seahawks,12/29/2013,STL,Win, 27-9,4,47,pass,Golden Tate,2013
+,Rank,Team,Date,Opponent,Win/Loss,Home_Score,Opponenet_Score,Quarter,Distance,Type,Detail
+1,1,Seahawks,2013-09-08,CAR,Win,12,7,4,43,pass,Jermaine Kearse
+2,2,Seahawks,2013-09-15,SFO,Win,29,3,3,14,rush,Marshawn Lynch
+3,3,Seahawks,2013-09-15,SFO,Win,29,3,4,7,pass,Marshawn Lynch
+4,4,Seahawks,2013-09-15,SFO,Win,29,3,4,2,rush,Marshawn Lynch
+5,5,Seahawks,2013-09-22,JAX,Win,45,17,1,1,pass,Zach Miller
+6,6,Seahawks,2013-09-22,JAX,Win,45,17,2,4,pass,Zach Miller
+7,7,Seahawks,2013-09-22,JAX,Win,45,17,2,11,pass,Sidney Rice
+8,8,Seahawks,2013-09-22,JAX,Win,45,17,3,23,pass,Sidney Rice
+9,9,Seahawks,2013-09-22,JAX,Win,45,17,3,35,pass,Doug Baldwin
+10,10,Seahawks,2013-09-22,JAX,Win,45,17,4,5,rush,Tarvaris Jackson
+11,11,Seahawks,2013-09-29,HOU,Win,23,20,4,3,rush,Marshawn Lynch
+12,12,Seahawks,2013-09-29,HOU,Win,23,20,4,58,interception,Richard Sherman
+13,13,Seahawks,2013-10-06,IND,Loss,28,34,1,10,pass,Golden Tate
+14,14,Seahawks,2013-10-06,IND,Loss,28,34,2,28,pass,Jermaine Kearse
+15,15,Seahawks,2013-10-13,TEN,Win,20,13,2,1,rush,Marshawn Lynch
+16,16,Seahawks,2013-10-13,TEN,Win,20,13,4,3,rush,Marshawn Lynch
+17,17,Seahawks,2013-10-17,ARI,Win,34,22,1,31,pass,Sidney Rice
+18,18,Seahawks,2013-10-17,ARI,Win,34,22,2,15,pass,Zach Miller
+19,19,Seahawks,2013-10-17,ARI,Win,34,22,3,1,pass,Kellen Davis
+20,20,Seahawks,2013-10-17,ARI,Win,34,22,3,2,rush,Marshawn Lynch
+21,21,Seahawks,2013-10-28,STL,Win,14,9,2,2,pass,Golden Tate
+22,22,Seahawks,2013-10-28,STL,Win,14,9,3,80,pass,Golden Tate
+23,23,Seahawks,2013-11-03,TAM,Win,27,24,2,16,pass,Jermaine Kearse
+24,24,Seahawks,2013-11-03,TAM,Win,27,24,3,10,rush,Russell Wilson
+25,25,Seahawks,2013-11-03,TAM,Win,27,24,4,10,pass,Doug Baldwin
+26,26,Seahawks,2013-11-10,ATL,Win,33,10,2,43,pass,Jermaine Kearse
+27,27,Seahawks,2013-11-10,ATL,Win,33,10,2,6,pass,Golden Tate
+28,28,Seahawks,2013-11-10,ATL,Win,33,10,4,1,rush,Marshawn Lynch
+29,29,Seahawks,2013-11-17,MIN,Win,41,20,1,4,rush,Marshawn Lynch
+30,30,Seahawks,2013-11-17,MIN,Win,41,20,2,1,rush,Marshawn Lynch
+31,31,Seahawks,2013-11-17,MIN,Win,41,20,2,19,pass,Doug Baldwin
+32,32,Seahawks,2013-11-17,MIN,Win,41,20,4,6,pass,Marshawn Lynch
+33,33,Seahawks,2013-11-17,MIN,Win,41,20,4,29,interception,Walter Thurmond
+34,34,Seahawks,2013-12-02,NOR,Win,34,7,1,22,fumble,Michael Bennett
+35,35,Seahawks,2013-12-02,NOR,Win,34,7,1,2,pass,Zach Miller
+36,36,Seahawks,2013-12-02,NOR,Win,34,7,2,4,pass,Doug Baldwin
+37,37,Seahawks,2013-12-02,NOR,Win,34,7,3,8,pass,Derrick Coleman
+38,38,Seahawks,2013-12-08,SFO,Loss,17,19,2,11,rush,Marshawn Lynch
+39,39,Seahawks,2013-12-08,SFO,Loss,17,19,2,39,pass,Luke Willson
+40,40,Seahawks,2013-12-15,NYG,Win,23,0,2,2,rush,Marshawn Lynch
+41,41,Seahawks,2013-12-15,NYG,Win,23,0,4,12,pass,Doug Baldwin
+42,42,Seahawks,2013-12-22,ARI,Loss,10,17,4,11,pass,Zach Miller
+43,43,Seahawks,2013-12-29,STL,Win,27,9,1,37,interception,Malcolm Smith
+44,44,Seahawks,2013-12-29,STL,Win,27,9,3,2,rush,Marshawn Lynch
+45,45,Seahawks,2013-12-29,STL,Win,27,9,4,47,pass,Golden Tate

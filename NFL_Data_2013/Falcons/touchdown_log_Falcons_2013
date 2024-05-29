@@ -1,41 +1,41 @@
-,Rank,Team,Date,Opponent,Win/Loss,Score,Quarter,Distance,Type,Detail,Year
-0,1,Falcons,09/08/2013,NOR,Loss, 17-23,1,7,pass,Tony Gonzalez,2013
-1,2,Falcons,09/08/2013,NOR,Loss, 17-23,3,4,pass,Julio Jones,2013
-2,3,Falcons,09/15/2013,STL,Win, 31-24,1,8,pass,Steven Jackson,2013
-3,4,Falcons,09/15/2013,STL,Win, 31-24,1,81,pass,Julio Jones,2013
-4,5,Falcons,09/15/2013,STL,Win, 31-24,2,68,interception,Osi Umenyiora,2013
-5,6,Falcons,09/15/2013,STL,Win, 31-24,4,11,rush,Jason Snelling,2013
-6,7,Falcons,09/22/2013,MIA,Loss, 23-27,1,7,pass,Jason Snelling,2013
-7,8,Falcons,09/22/2013,MIA,Loss, 23-27,3,2,pass,Levine Toilolo,2013
-8,9,Falcons,09/29/2013,NWE,Loss, 23-30,2,21,pass,Tony Gonzalez,2013
-9,10,Falcons,09/29/2013,NWE,Loss, 23-30,4,11,pass,Tony Gonzalez,2013
-10,11,Falcons,10/07/2013,NYJ,Loss, 28-30,2,4,pass,Jason Snelling,2013
-11,12,Falcons,10/07/2013,NYJ,Loss, 28-30,3,4,rush,Jacquizz Rodgers,2013
-12,13,Falcons,10/07/2013,NYJ,Loss, 28-30,4,19,rush,Jacquizz Rodgers,2013
-13,14,Falcons,10/07/2013,NYJ,Loss, 28-30,4,3,pass,Levine Toilolo,2013
-14,15,Falcons,10/20/2013,TAM,Win, 31-23,1,30,fumble,Thomas DeCoud,2013
-15,16,Falcons,10/20/2013,TAM,Win, 31-23,2,19,pass,Jacquizz Rodgers,2013
-16,17,Falcons,10/20/2013,TAM,Win, 31-23,2,37,pass,Harry Douglas,2013
-17,18,Falcons,10/20/2013,TAM,Win, 31-23,4,8,pass,Jacquizz Rodgers,2013
-18,19,Falcons,10/27/2013,ARI,Loss, 13-27,4,4,pass,Drew Davis,2013
-19,20,Falcons,11/03/2013,CAR,Loss, 10-34,2,17,pass,Tony Gonzalez,2013
-20,21,Falcons,11/10/2013,SEA,Loss, 10-33,3,12,pass,Darius Johnson,2013
-21,22,Falcons,11/17/2013,TAM,Loss, 28-41,3,80,pass,Harry Douglas,2013
-22,23,Falcons,11/17/2013,TAM,Loss, 28-41,4,50,rush,Antone Smith,2013
-23,24,Falcons,11/17/2013,TAM,Loss, 28-41,4,6,pass,Roddy White,2013
-24,25,Falcons,11/21/2013,NOR,Loss, 13-17,1,1,rush,Steven Jackson,2013
-25,26,Falcons,12/01/2013,BUF,Win, 34-31,1,27,rush,Steven Jackson,2013
-26,27,Falcons,12/01/2013,BUF,Win, 34-31,2,38,rush,Antone Smith,2013
-27,28,Falcons,12/01/2013,BUF,Win, 34-31,3,11,pass,Tony Gonzalez,2013
-28,29,Falcons,12/01/2013,BUF,Win, 34-31,4,1,rush,Steven Jackson,2013
-29,30,Falcons,12/08/2013,GNB,Loss, 21-22,2,36,pass,Drew Davis,2013
-30,31,Falcons,12/08/2013,GNB,Loss, 21-22,2,2,pass,Tony Gonzalez,2013
-31,32,Falcons,12/08/2013,GNB,Loss, 21-22,2,71,interception,Sean Weatherspoon,2013
-32,33,Falcons,12/15/2013,WAS,Win, 27-26,1,3,rush,Steven Jackson,2013
-33,34,Falcons,12/15/2013,WAS,Win, 27-26,1,13,pass,Tony Gonzalez,2013
-34,35,Falcons,12/15/2013,WAS,Win, 27-26,3,2,rush,Steven Jackson,2013
-35,36,Falcons,12/23/2013,SFO,Loss, 24-34,2,2,rush,Steven Jackson,2013
-36,37,Falcons,12/23/2013,SFO,Loss, 24-34,4,39,pass,Roddy White,2013
-37,38,Falcons,12/23/2013,SFO,Loss, 24-34,4,2,pass,Tony Gonzalez,2013
-38,39,Falcons,12/29/2013,CAR,Loss, 20-21,1,9,pass,Jason Snelling,2013
-39,40,Falcons,12/29/2013,CAR,Loss, 20-21,3,39,pass,Roddy White,2013
+,Rank,Team,Date,Opponent,Win/Loss,Home_Score,Opponenet_Score,Quarter,Distance,Type,Detail
+1,1,Falcons,2013-09-08,NOR,Loss,17,23,1,7,pass,Tony Gonzalez
+2,2,Falcons,2013-09-08,NOR,Loss,17,23,3,4,pass,Julio Jones
+3,3,Falcons,2013-09-15,STL,Win,31,24,1,8,pass,Steven Jackson
+4,4,Falcons,2013-09-15,STL,Win,31,24,1,81,pass,Julio Jones
+5,5,Falcons,2013-09-15,STL,Win,31,24,2,68,interception,Osi Umenyiora
+6,6,Falcons,2013-09-15,STL,Win,31,24,4,11,rush,Jason Snelling
+7,7,Falcons,2013-09-22,MIA,Loss,23,27,1,7,pass,Jason Snelling
+8,8,Falcons,2013-09-22,MIA,Loss,23,27,3,2,pass,Levine Toilolo
+9,9,Falcons,2013-09-29,NWE,Loss,23,30,2,21,pass,Tony Gonzalez
+10,10,Falcons,2013-09-29,NWE,Loss,23,30,4,11,pass,Tony Gonzalez
+11,11,Falcons,2013-10-07,NYJ,Loss,28,30,2,4,pass,Jason Snelling
+12,12,Falcons,2013-10-07,NYJ,Loss,28,30,3,4,rush,Jacquizz Rodgers
+13,13,Falcons,2013-10-07,NYJ,Loss,28,30,4,19,rush,Jacquizz Rodgers
+14,14,Falcons,2013-10-07,NYJ,Loss,28,30,4,3,pass,Levine Toilolo
+15,15,Falcons,2013-10-20,TAM,Win,31,23,1,30,fumble,Thomas DeCoud
+16,16,Falcons,2013-10-20,TAM,Win,31,23,2,19,pass,Jacquizz Rodgers
+17,17,Falcons,2013-10-20,TAM,Win,31,23,2,37,pass,Harry Douglas
+18,18,Falcons,2013-10-20,TAM,Win,31,23,4,8,pass,Jacquizz Rodgers
+19,19,Falcons,2013-10-27,ARI,Loss,13,27,4,4,pass,Drew Davis
+20,20,Falcons,2013-11-03,CAR,Loss,10,34,2,17,pass,Tony Gonzalez
+21,21,Falcons,2013-11-10,SEA,Loss,10,33,3,12,pass,Darius Johnson
+22,22,Falcons,2013-11-17,TAM,Loss,28,41,3,80,pass,Harry Douglas
+23,23,Falcons,2013-11-17,TAM,Loss,28,41,4,50,rush,Antone Smith
+24,24,Falcons,2013-11-17,TAM,Loss,28,41,4,6,pass,Roddy White
+25,25,Falcons,2013-11-21,NOR,Loss,13,17,1,1,rush,Steven Jackson
+26,26,Falcons,2013-12-01,BUF,Win,34,31,1,27,rush,Steven Jackson
+27,27,Falcons,2013-12-01,BUF,Win,34,31,2,38,rush,Antone Smith
+28,28,Falcons,2013-12-01,BUF,Win,34,31,3,11,pass,Tony Gonzalez
+29,29,Falcons,2013-12-01,BUF,Win,34,31,4,1,rush,Steven Jackson
+30,30,Falcons,2013-12-08,GNB,Loss,21,22,2,36,pass,Drew Davis
+31,31,Falcons,2013-12-08,GNB,Loss,21,22,2,2,pass,Tony Gonzalez
+32,32,Falcons,2013-12-08,GNB,Loss,21,22,2,71,interception,Sean Weatherspoon
+33,33,Falcons,2013-12-15,WAS,Win,27,26,1,3,rush,Steven Jackson
+34,34,Falcons,2013-12-15,WAS,Win,27,26,1,13,pass,Tony Gonzalez
+35,35,Falcons,2013-12-15,WAS,Win,27,26,3,2,rush,Steven Jackson
+36,36,Falcons,2013-12-23,SFO,Loss,24,34,2,2,rush,Steven Jackson
+37,37,Falcons,2013-12-23,SFO,Loss,24,34,4,39,pass,Roddy White
+38,38,Falcons,2013-12-23,SFO,Loss,24,34,4,2,pass,Tony Gonzalez
+39,39,Falcons,2013-12-29,CAR,Loss,20,21,1,9,pass,Jason Snelling
+40,40,Falcons,2013-12-29,CAR,Loss,20,21,3,39,pass,Roddy White

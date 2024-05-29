@@ -1,12 +1,12 @@
-,No.,Team,Player,Age,Position,Games Played,Games Started,Punts Returned,Punts Return Yardage,Punts Returned for Touchdown,Longest Punt Return,Yards per Punt Return,Kickoff Returns,Yardage for Kickoffs Returned,Kickoffs Returned for a Touchdown,Longest Kickoff Return,Yards per Kickoff Return,All-purpose Yards,Year
-0,85,Colts,David Reed,26,WR,7,0,0,0,0,0,,24,590,0,39,24.6,592,2013
-1,13,Colts,T.Y. Hilton,24,WR,16,10,17,159,0,34,9.4,0,0,0,0,,1248,2013
-2,25,Colts,Chris Rainey,25,RB,2,0,4,29,0,18,7.3,6,131,0,27,21.8,160,2013
-3,17,Colts,Griff Whalen,23,WR,9,3,8,104,0,51,13.0,1,22,0,22,22.0,385,2013
-4,15,Colts,LaVon Brazill,24,WR,10,0,3,25,0,17,8.3,3,57,0,21,19.0,243,2013
-5,32,Colts,Cassius Vaughn,26,DB,16,4,0,0,0,0,,5,142,0,33,28.4,151,2013
-6,56,Colts,Daniel Adongo,24,LB,2,0,0,0,0,0,,1,0,0,0,0.0,0,2013
-7,20,Colts,Darius Butler,27,LCB,16,7,1,9,0,9,9.0,0,0,0,0,,88,2013
-8,43,Colts,Tashard Choice,29,RB,3,0,0,0,0,0,,1,28,0,28,28.0,77,2013
-9,36,Colts,Dan Herron,24,RB,6,0,0,0,0,0,,1,13,0,13,13.0,103,2013
-10,37,Colts,Kerwynn Williams,22,RB,1,0,0,0,0,0,,1,28,0,28,28.0,28,2013
+,No.,Player,Age,Position,Games Played,Games Started,Punts Returned,Punts Return Yardage,Punts Returned for Touchdown,Longest Punt Return,Yards per Punt Return,Kickoff Returns,Yardage for Kickoffs Returned,Kickoffs Returned for a Touchdown,Longest Kickoff Return,Yards per Kickoff Return,All-purpose Yards,Team,Year
+85,85,David Reed,26,WR,7,0,0,0,0,0,0.0,24,590,0,39,24.6,592,Colts,2013
+13,13,T.Y. Hilton,24,WR,16,10,17,159,0,34,9.4,0,0,0,0,0.0,1248,Colts,2013
+25,25,Chris Rainey,25,RB,2,0,4,29,0,18,7.3,6,131,0,27,21.8,160,Colts,2013
+17,17,Griff Whalen,23,WR,9,3,8,104,0,51,13.0,1,22,0,22,22.0,385,Colts,2013
+15,15,LaVon Brazill,24,WR,10,0,3,25,0,17,8.3,3,57,0,21,19.0,243,Colts,2013
+32,32,Cassius Vaughn,26,DB,16,4,0,0,0,0,0.0,5,142,0,33,28.4,151,Colts,2013
+56,56,Daniel Adongo,24,LB,2,0,0,0,0,0,0.0,1,0,0,0,0.0,0,Colts,2013
+20,20,Darius Butler,27,LCB,16,7,1,9,0,9,9.0,0,0,0,0,0.0,88,Colts,2013
+43,43,Tashard Choice,29,RB,3,0,0,0,0,0,0.0,1,28,0,28,28.0,77,Colts,2013
+36,36,Dan Herron,24,RB,6,0,0,0,0,0,0.0,1,13,0,13,13.0,103,Colts,2013
+37,37,Kerwynn Williams,22,RB,1,0,0,0,0,0,0.0,1,28,0,28,28.0,28,Colts,2013

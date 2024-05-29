@@ -1,15 +1,15 @@
-,No.,Team,Player,Age,Position,Games Played,Games Started,Punts Returned,Punts Return Yardage,Punts Returned for Touchdown,Longest Punt Return,Yards per Punt Return,Kickoff Returns,Yardage for Kickoffs Returned,Kickoffs Returned for a Touchdown,Longest Kickoff Return,Yards per Kickoff Return,All-purpose Yards,Year
-0,84,Vikings,Cordarrelle Patterson,22,WR,16,6,0,0,0,0,,43,1393,2,109,32.4,2020,2013
-1,35,Vikings,Marcus Sherels,26,DB,16,3,22,335,1,86,15.2,0,0,0,0,,335,2013
-2,32,Vikings,Toby Gerhart,26,RB,14,0,0,0,0,0,,7,106,0,20,15.1,477,2013
-3,44,Vikings,Matt Asiata,26,RB,11,1,0,0,0,0,,2,28,0,20,14.0,207,2013
-4,89,Vikings,John Carlson,29,TE,13,8,0,0,0,0,,2,13,0,12,6.5,357,2013
-5,42,Vikings,Jerome Felton,27,RB,13,9,0,0,0,0,,2,22,0,13,11.0,59,2013
-6,95,Vikings,Sharrif Floyd,21,DT,16,1,0,0,0,0,,2,9,0,9,4.5,9,2013
-7,86,Vikings,Chase Ford,23,TE,9,0,0,0,0,0,,2,17,0,15,8.5,150,2013
-8,23,Vikings,Joe Banyard,25,RB,3,0,0,0,0,0,,1,6,0,6,6.0,17,2013
-9,40,Vikings,Rhett Ellison,25,RB,11,6,0,0,0,0,,1,7,0,7,7.0,68,2013
-10,24,Vikings,A.J. Jefferson,25,DB,10,0,0,0,0,0,,1,21,0,21,21.0,22,2013
-11,55,Vikings,Marvin Mitchell,29,RLB,16,10,0,0,0,0,,1,6,0,6,6.0,6,2013
-12,14,Vikings,Joe Webb,27,QB,16,1,0,0,0,0,,1,9,0,9,9.0,42,2013
-13,17,Vikings,Jarius Wright,24,WR,16,3,0,0,0,0,,1,9,0,9,9.0,443,2013
+,No.,Player,Age,Position,Games Played,Games Started,Punts Returned,Punts Return Yardage,Punts Returned for Touchdown,Longest Punt Return,Yards per Punt Return,Kickoff Returns,Yardage for Kickoffs Returned,Kickoffs Returned for a Touchdown,Longest Kickoff Return,Yards per Kickoff Return,All-purpose Yards,Team,Year
+84,84,Cordarrelle Patterson,22,WR,16,6,0,0,0,0,0.0,43,1393,2,109,32.4,2020,Vikings,2013
+35,35,Marcus Sherels,26,DB,16,3,22,335,1,86,15.2,0,0,0,0,0.0,335,Vikings,2013
+32,32,Toby Gerhart,26,RB,14,0,0,0,0,0,0.0,7,106,0,20,15.1,477,Vikings,2013
+44,44,Matt Asiata,26,RB,11,1,0,0,0,0,0.0,2,28,0,20,14.0,207,Vikings,2013
+89,89,John Carlson,29,TE,13,8,0,0,0,0,0.0,2,13,0,12,6.5,357,Vikings,2013
+42,42,Jerome Felton,27,RB,13,9,0,0,0,0,0.0,2,22,0,13,11.0,59,Vikings,2013
+95,95,Sharrif Floyd,21,DT,16,1,0,0,0,0,0.0,2,9,0,9,4.5,9,Vikings,2013
+86,86,Chase Ford,23,TE,9,0,0,0,0,0,0.0,2,17,0,15,8.5,150,Vikings,2013
+23,23,Joe Banyard,25,RB,3,0,0,0,0,0,0.0,1,6,0,6,6.0,17,Vikings,2013
+40,40,Rhett Ellison,25,RB,11,6,0,0,0,0,0.0,1,7,0,7,7.0,68,Vikings,2013
+24,24,A.J. Jefferson,25,DB,10,0,0,0,0,0,0.0,1,21,0,21,21.0,22,Vikings,2013
+55,55,Marvin Mitchell,29,RLB,16,10,0,0,0,0,0.0,1,6,0,6,6.0,6,Vikings,2013
+14,14,Joe Webb,27,QB,16,1,0,0,0,0,0.0,1,9,0,9,9.0,42,Vikings,2013
+17,17,Jarius Wright,24,WR,16,3,0,0,0,0,0.0,1,9,0,9,9.0,443,Vikings,2013

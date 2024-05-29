@@ -1,17 +1,17 @@
-,No.,Team,Player,Age,Pos,Games Played,Games Started,Rush TD,Reception TD,Punt Return TD,Kick Return TD,Fumble Return TD,Interception TD,Other TD,All Touchdown Scored,2-Point Conversions Made,Two-Point Conversions Attempted,Defensive Two-Point Conversions,Extra Points Made,Extra Points Allowed,Field Goals Made,Field Goals Attempted,Safeties Scored by Player/Team,Total Points Scored by all Means,Poins per Game,Year
-0,5,Broncos,Matt Prater,29,K,16,0,0,0,0,0,0,0,0,0,0,0,0,75,75,25,26,,150,9.4,2013
-1,88,Broncos,Demaryius Thomas,26,WR,16,16,0,14,0,0,0,0,0,14,0,0,0,0,0,0,0,,84,5.3,2013
-2,27,Broncos,Knowshon Moreno,26,RB,16,15,10,3,0,0,0,0,0,13,0,0,0,0,0,0,0,,78,4.9,2013
-3,80,Broncos,Julius Thomas,25,TE,14,14,0,12,0,0,0,0,0,12,0,0,0,0,0,0,0,,72,5.1,2013
-4,87,Broncos,Eric Decker,26,WR,16,16,0,11,0,0,0,0,0,11,0,0,0,0,0,0,0,,66,4.1,2013
-5,83,Broncos,Wes Welker,32,WR,13,13,0,10,0,0,0,0,0,10,0,0,0,0,0,0,0,,60,4.6,2013
-6,28,Broncos,Montee Ball,23,RB,16,0,4,0,0,0,0,0,0,4,0,0,0,0,0,0,0,,24,1.5,2013
-7,12,Broncos,Andre Caldwell,28,WR,16,2,0,3,0,0,0,0,0,3,0,0,0,0,0,0,0,,18,1.1,2013
-8,11,Broncos,Trindon Holliday,27,WR,15,0,0,0,1,1,0,0,0,2,0,0,0,0,0,0,0,,12,0.8,2013
-9,81,Broncos,Joel Dreessen,31,TE,13,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,,6,0.5,2013
-10,21,Broncos,Ronnie Hillman,22,RB,10,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,,6,0.6,2013
-11,53,Broncos,Steven Johnson,25,LB,16,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,,6,0.4,2013
-12,18,Broncos,Peyton Manning,37,QB,16,16,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,,6,0.4,2013
-13,58,Broncos,Von Miller,24,LLB,9,9,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,,6,0.7,2013
-14,45,Broncos,Dominique Rodgers-Cromartie,27,RCB,15,13,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,,6,0.4,2013
-15,84,Broncos,Jacob Tamme,28,TE,16,1,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,,6,0.4,2013
+,No.,Player,Age,Pos,Games Played,Games Started,Rush TD,Reception TD,Punt Return TD,Kick Return TD,Fumble Return TD,Interception TD,Other TD,All Touchdown Scored,2-Point Conversions Made,Two-Point Conversions Attempted,Defensive Two-Point Conversions,Extra Points Made,Extra Points Allowed,Field Goals Made,Field Goals Attempted,Safeties Scored by Player/Team,Total Points Scored by all Means,Poins per Game,Team,Year
+5,5,Matt Prater,29,K,16,0,0,0,0,0,0,0,0,0,0,0,0,75,75,25,26,0,150,9.4,Broncos,2013
+88,88,Demaryius Thomas,26,WR,16,16,0,14,0,0,0,0,0,14,0,0,0,0,0,0,0,0,84,5.3,Broncos,2013
+27,27,Knowshon Moreno,26,RB,16,15,10,3,0,0,0,0,0,13,0,0,0,0,0,0,0,0,78,4.9,Broncos,2013
+80,80,Julius Thomas,25,TE,14,14,0,12,0,0,0,0,0,12,0,0,0,0,0,0,0,0,72,5.1,Broncos,2013
+87,87,Eric Decker,26,WR,16,16,0,11,0,0,0,0,0,11,0,0,0,0,0,0,0,0,66,4.1,Broncos,2013
+83,83,Wes Welker,32,WR,13,13,0,10,0,0,0,0,0,10,0,0,0,0,0,0,0,0,60,4.6,Broncos,2013
+28,28,Montee Ball,23,RB,16,0,4,0,0,0,0,0,0,4,0,0,0,0,0,0,0,0,24,1.5,Broncos,2013
+12,12,Andre Caldwell,28,WR,16,2,0,3,0,0,0,0,0,3,0,0,0,0,0,0,0,0,18,1.1,Broncos,2013
+11,11,Trindon Holliday,27,WR,15,0,0,0,1,1,0,0,0,2,0,0,0,0,0,0,0,0,12,0.8,Broncos,2013
+81,81,Joel Dreessen,31,TE,13,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,6,0.5,Broncos,2013
+21,21,Ronnie Hillman,22,RB,10,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,6,0.6,Broncos,2013
+53,53,Steven Johnson,25,LB,16,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,6,0.4,Broncos,2013
+18,18,Peyton Manning,37,QB,16,16,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,6,0.4,Broncos,2013
+58,58,Von Miller,24,LLB,9,9,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,6,0.7,Broncos,2013
+45,45,Dominique Rodgers-Cromartie,27,RCB,15,13,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,6,0.4,Broncos,2013
+84,84,Jacob Tamme,28,TE,16,1,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,6,0.4,Broncos,2013

@@ -1,18 +1,17 @@
-,Week,Team,Day,Date,Time,Win/Loss,Overtime,Team Record,Home/Away,Opponent,Points Scored,Points Allowed,Offense 1st Down,Total Yards Gained of Offense,Total yards Gained by Passing,Total Yards Gained by Rushing,Offense Turnovers,Defense 1st Down,Total Yards Allowed by Defense,Total Passing Yards Allowed by Defense,Total Rushing Yards Allowed by Defense,Defense Turnovers,Offense,Defense,Sp. Tms,Year
-0,0,Rams,Sun,September 8,,W,0,1-0,home,Arizona Cardinals,27,24,20,366,299,67,2,25,390,304,86,2,2.3,-6.72,7.86,2013
-1,1,Rams,Sun,September 15,,L,0,1-1,away,Atlanta Falcons,24,31,24,421,352,69,1,19,393,357,36,0,4.7,-13.68,-1.07,2013
-2,2,Rams,Sun,September 22,,L,0,1-2,away,Dallas Cowboys,7,31,17,232,197,35,1,21,396,203,193,1,-14.3,-18.31,10.56,2013
-3,3,Rams,Thu,September 26,,L,0,1-3,home,San Francisco 49ers,11,35,14,188,170,18,2,19,370,151,219,2,-24.26,-3.33,4.15,2013
-4,4,Rams,Sun,October 6,,W,0,2-3,home,Jacksonville Jaguars,34,20,22,351,208,143,0,16,363,267,96,3,8.35,15.27,-7.86,2013
-5,5,Rams,Sun,October 13,,W,0,3-3,away,Houston Texans,38,13,15,216,117,99,0,27,420,267,153,4,12.54,2.23,8.67,2013
-6,6,Rams,Sun,October 20,,L,0,3-4,away,Carolina Panthers,15,30,15,317,254,63,3,21,282,180,102,0,-13.0,-3.35,0.5,2013
-7,7,Rams,Mon,October 28,,L,0,3-5,home,Seattle Seahawks,9,14,23,339,139,200,2,7,135,91,44,0,-8.8,8.93,-3.02,2013
-8,8,Rams,Sun,November 3,,L,0,3-6,home,Tennessee Titans,21,28,21,363,203,160,2,22,363,165,198,2,2.18,-10.77,0.51,2013
-9,9,Rams,Sun,November 10,,W,0,4-6,away,Indianapolis Colts,38,8,12,372,232,140,1,21,406,388,18,5,4.38,16.8,8.8,2013
-10,10,Rams,,,,,0,,home,<strong>Bye Week</strong>,0,0,0,0,0,0,0,0,0,0,0,0,,,,2013
-11,11,Rams,Sun,November 24,,W,0,5-6,home,Chicago Bears,42,21,20,406,148,258,0,30,424,344,80,3,18.5,-1.15,3.59,2013
-12,12,Rams,Sun,December 1,,L,0,5-7,away,San Francisco 49ers,13,23,19,312,198,114,1,20,338,255,83,1,-7.54,-4.47,2.6,2013
-13,13,Rams,Sun,December 8,,L,0,5-8,away,Arizona Cardinals,10,30,14,257,157,100,2,25,369,262,107,1,-11.17,-12.25,7.07,2013
-14,14,Rams,Sun,December 15,,W,0,6-8,home,New Orleans Saints,27,16,17,302,158,144,0,30,432,371,61,3,10.36,-7.72,8.61,2013
-15,15,Rams,Sun,December 22,,W,0,7-8,home,Tampa Bay Buccaneers,23,13,18,277,148,129,2,14,170,111,59,2,-2.07,6.06,3.27,2013
-16,16,Rams,Sun,December 29,,L,0,7-9,away,Seattle Seahawks,9,27,11,158,145,13,2,20,269,158,111,0,-18.54,-1.54,1.28,2013
+,Week,Day,Date,Time,Win/Loss,Overtime,Team Record,Home/Away,Opponent,Points Scored,Points Allowed,Offense 1st Down,Total Yards Gained of Offense,Total yards Gained by Passing,Total Yards Gained by Rushing,Offense Turnovers,Defense 1st Down,Total Yards Allowed by Defense,Total Passing Yards Allowed by Defense,Total Rushing Yards Allowed by Defense,Defense Turnovers,Offense,Defense,Sp. Tms,Team,Year
+0,1,Sun,2013-09-08,nan,Win,0,1-0,home,Arizona Cardinals,27,24,20,366,299,67,2,25,390,304,86,2,2.3,-6.72,7.86,Rams,2013
+1,2,Sun,2013-09-15,nan,Loss,0,1-1,away,Atlanta Falcons,24,31,24,421,352,69,1,19,393,357,36,0,4.7,-13.68,-1.07,Rams,2013
+2,3,Sun,2013-09-22,nan,Loss,0,1-2,away,Dallas Cowboys,7,31,17,232,197,35,1,21,396,203,193,1,-14.3,-18.31,10.56,Rams,2013
+3,4,Thu,2013-09-26,nan,Loss,0,1-3,home,San Francisco 49ers,11,35,14,188,170,18,2,19,370,151,219,2,-24.26,-3.33,4.15,Rams,2013
+4,5,Sun,2013-10-06,nan,Win,0,2-3,home,Jacksonville Jaguars,34,20,22,351,208,143,0,16,363,267,96,3,8.35,15.27,-7.86,Rams,2013
+5,6,Sun,2013-10-13,nan,Win,0,3-3,away,Houston Texans,38,13,15,216,117,99,0,27,420,267,153,4,12.54,2.23,8.67,Rams,2013
+6,7,Sun,2013-10-20,nan,Loss,0,3-4,away,Carolina Panthers,15,30,15,317,254,63,3,21,282,180,102,0,-13.0,-3.35,0.5,Rams,2013
+7,8,Mon,2013-10-28,nan,Loss,0,3-5,home,Seattle Seahawks,9,14,23,339,139,200,2,7,135,91,44,0,-8.8,8.93,-3.02,Rams,2013
+8,9,Sun,2013-11-03,nan,Loss,0,3-6,home,Tennessee Titans,21,28,21,363,203,160,2,22,363,165,198,2,2.18,-10.77,0.51,Rams,2013
+9,10,Sun,2013-11-10,nan,Win,0,4-6,away,Indianapolis Colts,38,8,12,372,232,140,1,21,406,388,18,5,4.38,16.8,8.8,Rams,2013
+10,12,Sun,2013-11-24,nan,Win,0,5-6,home,Chicago Bears,42,21,20,406,148,258,0,30,424,344,80,3,18.5,-1.15,3.59,Rams,2013
+11,13,Sun,2013-12-01,nan,Loss,0,5-7,away,San Francisco 49ers,13,23,19,312,198,114,1,20,338,255,83,1,-7.54,-4.47,2.6,Rams,2013
+12,14,Sun,2013-12-08,nan,Loss,0,5-8,away,Arizona Cardinals,10,30,14,257,157,100,2,25,369,262,107,1,-11.17,-12.25,7.07,Rams,2013
+13,15,Sun,2013-12-15,nan,Win,0,6-8,home,New Orleans Saints,27,16,17,302,158,144,0,30,432,371,61,3,10.36,-7.72,8.61,Rams,2013
+14,16,Sun,2013-12-22,nan,Win,0,7-8,home,Tampa Bay Buccaneers,23,13,18,277,148,129,2,14,170,111,59,2,-2.07,6.06,3.27,Rams,2013
+15,17,Sun,2013-12-29,nan,Loss,0,7-9,away,Seattle Seahawks,9,27,11,158,145,13,2,20,269,158,111,0,-18.54,-1.54,1.28,Rams,2013

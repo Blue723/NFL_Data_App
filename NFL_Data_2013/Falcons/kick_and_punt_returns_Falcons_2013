@@ -1,8 +1,8 @@
-,No.,Team,Player,Age,Position,Games Played,Games Started,Punts Returned,Punts Return Yardage,Punts Returned for Touchdown,Longest Punt Return,Yards per Punt Return,Kickoff Returns,Yardage for Kickoffs Returned,Kickoffs Returned for a Touchdown,Longest Kickoff Return,Yards per Kickoff Return,All-purpose Yards,Year
-0,32,Falcons,Jacquizz Rodgers,23,RB,15,4,0,0,0,0,,25,575,0,34,23.0,1248,2013
-1,27,Falcons,Robert McClain,25,RCB,16,6,19,193,0,25,10.2,0,0,0,0,,193,2013
-2,83,Falcons,Harry Douglas,29,WR,16,11,10,57,0,15,5.7,0,0,0,0,,1124,2013
-3,23,Falcons,Robert Alford,25,DB,16,4,1,0,0,0,0.0,0,0,0,0,,-5,2013
-4,42,Falcons,Patrick DiMarco,24,RB,14,7,0,0,0,0,,1,21,0,21,21.0,70,2013
-5,44,Falcons,Jason Snelling,30,RB,14,1,0,0,0,0,,1,23,0,23,23.0,403,2013
-6,35,Falcons,Antone Smith,28,RB,15,0,0,0,0,0,,0,40,0,40,,195,2013
+,No.,Player,Age,Position,Games Played,Games Started,Punts Returned,Punts Return Yardage,Punts Returned for Touchdown,Longest Punt Return,Yards per Punt Return,Kickoff Returns,Yardage for Kickoffs Returned,Kickoffs Returned for a Touchdown,Longest Kickoff Return,Yards per Kickoff Return,All-purpose Yards,Team,Year
+32,32,Jacquizz Rodgers,23,RB,15,4,0,0,0,0,0.0,25,575,0,34,23.0,1248,Falcons,2013
+27,27,Robert McClain,25,RCB,16,6,19,193,0,25,10.2,0,0,0,0,0.0,193,Falcons,2013
+83,83,Harry Douglas,29,WR,16,11,10,57,0,15,5.7,0,0,0,0,0.0,1124,Falcons,2013
+23,23,Robert Alford,25,DB,16,4,1,0,0,0,0.0,0,0,0,0,0.0,-5,Falcons,2013
+42,42,Patrick DiMarco,24,RB,14,7,0,0,0,0,0.0,1,21,0,21,21.0,70,Falcons,2013
+44,44,Jason Snelling,30,RB,14,1,0,0,0,0,0.0,1,23,0,23,23.0,403,Falcons,2013
+35,35,Antone Smith,28,RB,15,0,0,0,0,0,0.0,0,40,0,40,0.0,195,Falcons,2013

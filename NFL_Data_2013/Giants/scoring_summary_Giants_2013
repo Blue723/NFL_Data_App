@@ -1,15 +1,15 @@
-,No.,Team,Player,Age,Pos,Games Played,Games Started,Rush TD,Reception TD,Punt Return TD,Kick Return TD,Fumble Return TD,Interception TD,Other TD,All Touchdown Scored,2-Point Conversions Made,Two-Point Conversions Attempted,Defensive Two-Point Conversions,Extra Points Made,Extra Points Allowed,Field Goals Made,Field Goals Attempted,Safeties Scored by Player/Team,Total Points Scored by all Means,Poins per Game,Year
-0,3,Giants,Josh Brown,34,K,16,0,0,0,0,0,0,0,0,0,0,0,0,31,31,23,26,,100,6.3,2013
-1,82,Giants,Rueben Randle,22,WR,16,3,0,6,0,0,0,0,0,6,0,0,0,0,0,0,0,,36,2.3,2013
-2,80,Giants,Victor Cruz,27,WR,14,12,0,4,0,0,0,0,0,4,0,0,0,0,0,0,0,,24,1.7,2013
-3,34,Giants,Brandon Jacobs,31,RB,7,1,4,0,0,0,0,0,0,4,0,0,0,0,0,0,0,,24,3.4,2013
-4,83,Giants,Brandon Myers,28,TE,16,14,0,4,0,0,0,0,0,4,0,0,0,0,0,0,0,,24,1.5,2013
-5,12,Giants,Jerrel Jernigan,24,WR,15,3,1,2,0,0,0,0,0,3,0,0,0,0,0,0,0,,18,1.2,2013
-6,35,Giants,Andre Brown,27,RB,8,8,3,0,0,0,0,0,-1,2,1,0,0,0,0,0,0,,20,2.5,2013
-7,44,Giants,Peyton Hillis,27,RB,7,1,2,0,0,0,0,0,0,2,0,0,0,0,0,0,0,,12,1.7,2013
-8,25,Giants,Will Hill,23,FS,12,10,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,,6,0.5,2013
-9,18,Giants,Louis Murphy,26,WR,14,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,,6,0.4,2013
-10,90,Giants,Jason Pierre-Paul,24,RDE,11,6,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,,6,0.5,2013
-11,33,Giants,Da'Rel Scott,25,RB,5,1,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,,6,1.2,2013
-12,30,Giants,Cooper Taylor,23,DB,10,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,,6,0.6,2013
-13,22,Giants,David Wilson,22,RB,5,4,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,,6,1.2,2013
+,No.,Player,Age,Pos,Games Played,Games Started,Rush TD,Reception TD,Punt Return TD,Kick Return TD,Fumble Return TD,Interception TD,Other TD,All Touchdown Scored,2-Point Conversions Made,Two-Point Conversions Attempted,Defensive Two-Point Conversions,Extra Points Made,Extra Points Allowed,Field Goals Made,Field Goals Attempted,Safeties Scored by Player/Team,Total Points Scored by all Means,Poins per Game,Team,Year
+3,3,Josh Brown,34,K,16,0,0,0,0,0,0,0,0,0,0,0,0,31,31,23,26,0,100,6.3,Giants,2013
+82,82,Rueben Randle,22,WR,16,3,0,6,0,0,0,0,0,6,0,0,0,0,0,0,0,0,36,2.3,Giants,2013
+80,80,Victor Cruz,27,WR,14,12,0,4,0,0,0,0,0,4,0,0,0,0,0,0,0,0,24,1.7,Giants,2013
+34,34,Brandon Jacobs,31,RB,7,1,4,0,0,0,0,0,0,4,0,0,0,0,0,0,0,0,24,3.4,Giants,2013
+83,83,Brandon Myers,28,TE,16,14,0,4,0,0,0,0,0,4,0,0,0,0,0,0,0,0,24,1.5,Giants,2013
+12,12,Jerrel Jernigan,24,WR,15,3,1,2,0,0,0,0,0,3,0,0,0,0,0,0,0,0,18,1.2,Giants,2013
+35,35,Andre Brown,27,RB,8,8,3,0,0,0,0,0,-1,2,1,0,0,0,0,0,0,0,20,2.5,Giants,2013
+44,44,Peyton Hillis,27,RB,7,1,2,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,12,1.7,Giants,2013
+25,25,Will Hill,23,FS,12,10,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,6,0.5,Giants,2013
+18,18,Louis Murphy,26,WR,14,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,6,0.4,Giants,2013
+90,90,Jason Pierre-Paul,24,RDE,11,6,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,6,0.5,Giants,2013
+33,33,Da'Rel Scott,25,RB,5,1,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,6,1.2,Giants,2013
+30,30,Cooper Taylor,23,DB,10,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,6,0.6,Giants,2013
+22,22,David Wilson,22,RB,5,4,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,6,1.2,Giants,2013

@@ -1,18 +1,17 @@
-,Week,Team,Day,Date,Time,Win/Loss,Overtime,Team Record,Home/Away,Opponent,Points Scored,Points Allowed,Offense 1st Down,Total Yards Gained of Offense,Total yards Gained by Passing,Total Yards Gained by Rushing,Offense Turnovers,Defense 1st Down,Total Yards Allowed by Defense,Total Passing Yards Allowed by Defense,Total Rushing Yards Allowed by Defense,Defense Turnovers,Offense,Defense,Sp. Tms,Year
-0,0,Cardinals,Sun,September 8,,L,0,0-1,away,St. Louis Rams,24,27,25,390,304,86,2,20,366,299,67,2,6.72,-2.3,-7.86,2013
-1,1,Cardinals,Sun,September 15,,W,0,1-1,home,Detroit Lions,25,21,24,348,261,87,1,16,322,273,49,1,-3.23,2.76,6.52,2013
-2,2,Cardinals,Sun,September 22,,L,0,1-2,away,New Orleans Saints,7,31,16,247,161,86,2,27,423,319,104,1,-9.13,-17.29,0.19,2013
-3,3,Cardinals,Sun,September 29,,W,0,2-2,away,Tampa Bay Buccaneers,13,10,17,296,240,56,3,20,253,173,80,3,-15.74,14.65,5.52,2013
-4,4,Cardinals,Sun,October 6,,W,0,3-2,home,Carolina Panthers,22,6,19,250,160,90,3,21,353,258,95,4,-8.23,18.28,6.15,2013
-5,5,Cardinals,Sun,October 13,,L,0,3-3,away,San Francisco 49ers,20,32,16,403,294,109,4,20,387,238,149,2,-9.22,1.25,-1.87,2013
-6,6,Cardinals,Thu,October 17,,L,0,3-4,home,Seattle Seahawks,22,34,22,234,204,30,2,21,344,209,135,2,-13.62,5.21,-0.67,2013
-7,7,Cardinals,Sun,October 27,,W,0,4-4,home,Atlanta Falcons,27,13,17,348,147,201,1,20,292,265,27,4,7.36,12.35,-5.26,2013
-8,8,Cardinals,,,,,0,,home,<strong>Bye Week</strong>,0,0,0,0,0,0,0,0,0,0,0,0,,,,2013
-9,9,Cardinals,Sun,November 10,,W,0,5-4,home,Houston Texans,27,24,19,332,235,97,3,17,235,159,76,1,-5.28,14.42,-3.52,2013
-10,10,Cardinals,Sun,November 17,,W,0,6-4,away,Jacksonville Jaguars,27,14,19,416,402,14,0,14,274,242,32,2,4.73,12.18,-1.59,2013
-11,11,Cardinals,Sun,November 24,,W,0,7-4,home,Indianapolis Colts,40,11,27,410,290,120,0,15,239,159,80,1,19.09,10.21,-2.69,2013
-12,12,Cardinals,Sun,December 1,,L,0,7-5,away,Philadelphia Eagles,21,24,24,350,260,90,3,23,307,202,105,0,-0.19,-3.2,-2.87,2013
-13,13,Cardinals,Sun,December 8,,W,0,8-5,home,St. Louis Rams,30,10,25,369,262,107,1,14,257,157,100,2,12.25,11.17,-7.07,2013
-14,14,1,1,1,1.0,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1.0,1.0,1.0,1
-15,15,Cardinals,Sun,December 22,,W,0,10-5,away,Seattle Seahawks,17,10,16,307,168,139,4,10,192,89,103,2,-13.0,14.76,5.44,2013
-16,16,Cardinals,Sun,December 29,,L,0,10-6,home,San Francisco 49ers,20,23,19,482,399,83,2,19,375,292,83,0,5.55,-3.12,-5.89,2013
+,Week,Day,Date,Time,Win/Loss,Overtime,Team Record,Home/Away,Opponent,Points Scored,Points Allowed,Offense 1st Down,Total Yards Gained of Offense,Total yards Gained by Passing,Total Yards Gained by Rushing,Offense Turnovers,Defense 1st Down,Total Yards Allowed by Defense,Total Passing Yards Allowed by Defense,Total Rushing Yards Allowed by Defense,Defense Turnovers,Offense,Defense,Sp. Tms,Team,Year
+0,1,Sun,2013-09-08,nan,Loss,0,0-1,away,St. Louis Rams,24,27,25,390,304,86,2,20,366,299,67,2,6.72,-2.3,-7.86,Cardinals,2013
+1,2,Sun,2013-09-15,nan,Win,0,1-1,home,Detroit Lions,25,21,24,348,261,87,1,16,322,273,49,1,-3.23,2.76,6.52,Cardinals,2013
+2,3,Sun,2013-09-22,nan,Loss,0,1-2,away,New Orleans Saints,7,31,16,247,161,86,2,27,423,319,104,1,-9.13,-17.29,0.19,Cardinals,2013
+3,4,Sun,2013-09-29,nan,Win,0,2-2,away,Tampa Bay Buccaneers,13,10,17,296,240,56,3,20,253,173,80,3,-15.74,14.65,5.52,Cardinals,2013
+4,5,Sun,2013-10-06,nan,Win,0,3-2,home,Carolina Panthers,22,6,19,250,160,90,3,21,353,258,95,4,-8.23,18.28,6.15,Cardinals,2013
+5,6,Sun,2013-10-13,nan,Loss,0,3-3,away,San Francisco 49ers,20,32,16,403,294,109,4,20,387,238,149,2,-9.22,1.25,-1.87,Cardinals,2013
+6,7,Thu,2013-10-17,nan,Loss,0,3-4,home,Seattle Seahawks,22,34,22,234,204,30,2,21,344,209,135,2,-13.62,5.21,-0.67,Cardinals,2013
+7,8,Sun,2013-10-27,nan,Win,0,4-4,home,Atlanta Falcons,27,13,17,348,147,201,1,20,292,265,27,4,7.36,12.35,-5.26,Cardinals,2013
+8,10,Sun,2013-11-10,nan,Win,0,5-4,home,Houston Texans,27,24,19,332,235,97,3,17,235,159,76,1,-5.28,14.42,-3.52,Cardinals,2013
+9,11,Sun,2013-11-17,nan,Win,0,6-4,away,Jacksonville Jaguars,27,14,19,416,402,14,0,14,274,242,32,2,4.73,12.18,-1.59,Cardinals,2013
+10,12,Sun,2013-11-24,nan,Win,0,7-4,home,Indianapolis Colts,40,11,27,410,290,120,0,15,239,159,80,1,19.09,10.21,-2.69,Cardinals,2013
+11,13,Sun,2013-12-01,nan,Loss,0,7-5,away,Philadelphia Eagles,21,24,24,350,260,90,3,23,307,202,105,0,-0.19,-3.2,-2.87,Cardinals,2013
+12,14,Sun,2013-12-08,nan,Win,0,8-5,home,St. Louis Rams,30,10,25,369,262,107,1,14,257,157,100,2,12.25,11.17,-7.07,Cardinals,2013
+13,15,Sun,2013-12-15,nan,Win,1,9-5,away,Tennessee Titans,37,34,24,360,215,145,0,32,460,394,66,3,10.34,-13.67,6.04,Cardinals,2013
+14,16,Sun,2013-12-22,nan,Win,0,10-5,away,Seattle Seahawks,17,10,16,307,168,139,4,10,192,89,103,2,-13.0,14.76,5.44,Cardinals,2013
+15,17,Sun,2013-12-29,nan,Loss,0,10-6,home,San Francisco 49ers,20,23,19,482,399,83,2,19,375,292,83,0,5.55,-3.12,-5.89,Cardinals,2013

@@ -1,8 +1,8 @@
-,No.,Team,Player,Age,Position,Games Played,Games Started,Punts Returned,Punts Return Yardage,Punts Returned for Touchdown,Longest Punt Return,Yards per Punt Return,Kickoff Returns,Yardage for Kickoffs Returned,Kickoffs Returned for a Touchdown,Longest Kickoff Return,Yards per Kickoff Return,All-purpose Yards,Year
-0,25,Titans,Darius Reynaud,29,WR,7,0,18,135,0,35,7.5,15,355,0,40,23.7,494,2013
-1,26,Titans,Leon Washington,31,RB,5,0,6,78,0,33,13.0,16,481,0,95,30.1,559,2013
-2,17,Titans,Damian Williams,25,WR,10,1,4,12,0,8,3.0,5,123,0,37,24.6,313,2013
-3,19,Titans,Devon Wylie,25,WR,2,0,2,4,0,4,2.0,5,94,0,23,18.8,98,2013
-4,20,Titans,Alterraun Verner,25,RCB,16,16,1,11,0,11,11.0,1,17,0,17,17.0,105,2013
-5,57,Titans,Patrick Bailey,28,LB,13,0,0,0,0,0,,1,0,0,0,0.0,0,2013
-6,22,Titans,Jackie Battle,30,RB,16,0,0,0,0,0,,1,26,0,26,26.0,204,2013
+,No.,Player,Age,Position,Games Played,Games Started,Punts Returned,Punts Return Yardage,Punts Returned for Touchdown,Longest Punt Return,Yards per Punt Return,Kickoff Returns,Yardage for Kickoffs Returned,Kickoffs Returned for a Touchdown,Longest Kickoff Return,Yards per Kickoff Return,All-purpose Yards,Team,Year
+25,25,Darius Reynaud,29,WR,7,0,18,135,0,35,7.5,15,355,0,40,23.7,494,Titans,2013
+26,26,Leon Washington,31,RB,5,0,6,78,0,33,13.0,16,481,0,95,30.1,559,Titans,2013
+17,17,Damian Williams,25,WR,10,1,4,12,0,8,3.0,5,123,0,37,24.6,313,Titans,2013
+19,19,Devon Wylie,25,WR,2,0,2,4,0,4,2.0,5,94,0,23,18.8,98,Titans,2013
+20,20,Alterraun Verner,25,RCB,16,16,1,11,0,11,11.0,1,17,0,17,17.0,105,Titans,2013
+57,57,Patrick Bailey,28,LB,13,0,0,0,0,0,0.0,1,0,0,0,0.0,0,Titans,2013
+22,22,Jackie Battle,30,RB,16,0,0,0,0,0,0.0,1,26,0,26,26.0,204,Titans,2013

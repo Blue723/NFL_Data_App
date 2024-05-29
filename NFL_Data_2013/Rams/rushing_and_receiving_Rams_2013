@@ -1,17 +1,17 @@
-,No.,Team,Player,Age,Position,Games Played,Games Started as an Offensive or Defensive Player,Rushing Attempts,Rushing Yards Gained,Rushing Touchdown,First Downs Rushing,Rushing Success Rate,Longest Rushing Attempt,Rushing Yards per Attempt,Rushing Yards per Game,Rushing Attempts per Game,Pass Targets,Receptions,Receiving Yards,Receiving Yards per Reception,Receiving Touchdowns,First Downs Receiving,Receiving Success Rate,Longest Reception,Receptions per Game,Receiving Yards per Game,Catch Per.,Receiving Yards per Target,Touches: Rushing Attempts and Receptions,Scrimmage Yards per Touch: Rushing + Receiving Yardage per Opportunity,Yards from Scrimmage: Receiving and Rushing Yards,Rushing and Receiving Touchdowns,Lost and Recovered Fumbles,Year
-0,30,Rams,Zac Stacy,22,RB,14,12,250,973,7,48,41.6,40,3.9,69.5,17.9,35,26,141,5.4,1,8,37.1,25,1.9,10.1,74.3,4.0,276,4.0,1114,8,1,2013
-1,26,Rams,Daryl Richardson,23,RB,8,3,69,215,0,12,42.0,14,3.1,26.9,8.6,18,14,121,8.6,0,3,38.9,19,1.8,15.1,77.8,6.7,83,4.0,336,0,0,2013
-2,36,Rams,Benny Cunningham,23,RB,14,0,47,261,1,11,44.7,56,5.6,18.6,3.4,10,6,59,9.8,0,2,40.0,18,0.4,4.2,60.0,5.9,53,6.0,320,1,2,2013
-3,10,Rams,Kellen Clemens,30,QB,10,9,23,64,0,5,30.4,16,2.8,6.4,2.3,0,0,0,,0,0,,0,,,0.0,,23,2.8,64,0,7,2013
-4,8,Rams,Sam Bradford,26,QB,7,7,15,31,0,2,20.0,23,2.1,4.4,2.1,0,0,0,,0,0,,0,,,0.0,,15,2.1,31,0,3,2013
-5,11,Rams,Tavon Austin,23,WR,13,3,9,151,1,3,55.6,65,16.8,11.6,0.7,69,40,418,10.5,4,17,42.0,81,3.1,32.2,58.0,6.1,49,11.6,569,5,4,2013
-6,24,Rams,Isaiah Pead,24,RB,10,0,7,21,0,2,42.9,11,3.0,2.1,0.7,15,11,78,7.1,0,3,46.7,14,1.1,7.8,73.3,5.2,18,5.5,99,0,0,2013
-7,13,Rams,Chris Givens,24,WR,16,13,3,8,0,1,33.3,16,2.7,0.5,0.2,83,34,569,16.7,0,27,36.1,47,2.1,35.6,41.0,6.9,37,15.6,577,0,1,2013
-8,12,Rams,Stedman Bailey,23,WR,16,2,2,33,1,1,100.0,27,16.5,2.1,0.1,25,17,226,13.3,0,10,52.0,28,1.1,14.1,68.0,9.0,19,13.6,259,1,0,2013
-9,27,Rams,Matt Giordano,31,DB,16,2,1,-5,0,0,,-5,-5.0,-0.3,0.1,0,0,0,,0,0,,0,,,0.0,,1,-5.0,-5,0,0,2013
-10,89,Rams,Jared Cook,26,TE,16,13,0,0,0,0,,0,,,,85,51,671,13.2,5,34,52.9,47,3.2,41.9,60.0,7.9,51,13.2,671,5,1,2013
-11,18,Rams,Austin Pettis,25,WR,16,6,0,0,0,0,,0,,,,63,38,399,10.5,4,25,54.0,31,2.4,24.9,60.3,6.3,38,10.5,399,4,1,2013
-12,88,Rams,Lance Kendricks,25,WR,15,13,0,0,0,0,,0,,,,46,32,258,8.1,4,16,52.2,21,2.1,17.2,69.6,5.6,32,8.1,258,4,0,2013
-13,83,Rams,Brian Quick,24,WR,16,5,0,0,0,0,,0,,,,35,18,302,16.8,2,15,42.9,73,1.1,18.9,51.4,8.6,18,16.8,302,2,0,2013
-14,46,Rams,Cory Harkey,23,RB,15,10,0,0,0,0,,0,,,,18,13,113,8.7,2,7,61.1,31,0.9,7.5,72.2,6.3,13,8.7,113,2,0,2013
-15,82,Rams,Mike McNeill,25,TE,14,0,0,0,0,0,,0,,,,1,1,5,5.0,0,0,,5,0.1,0.4,100.0,5.0,1,5.0,5,0,0,2013
+,No.,Player,Age,Position,Games Played,Games Started as an Offensive or Defensive Player,Rushing Attempts,Rushing Yards Gained,Rushing Touchdown,First Downs Rushing,Rushing Success Rate,Longest Rushing Attempt,Rushing Yards per Attempt,Rushing Yards per Game,Rushing Attempts per Game,Pass Targets,Receptions,Receiving Yards,Receiving Yards per Reception,Receiving Touchdowns,First Downs Receiving,Receiving Success Rate,Longest Reception,Receptions per Game,Receiving Yards per Game,Catch Per.,Receiving Yards per Target,Touches: Rushing Attempts and Receptions,Scrimmage Yards per Touch: Rushing + Receiving Yardage per Opportunity,Yards from Scrimmage: Receiving and Rushing Yards,Rushing and Receiving Touchdowns,Lost and Recovered Fumbles,Team,Year
+30,30,Zac Stacy,22,RB,14,12,250,973,7,48,41.6,40,3.9,69.5,17.9,35,26,141,5.4,1,8,37.1,25,1.9,10.1,74.3,4.0,276,4.0,1114,8,1,Rams,2013
+26,26,Daryl Richardson,23,RB,8,3,69,215,0,12,42.0,14,3.1,26.9,8.6,18,14,121,8.6,0,3,38.9,19,1.8,15.1,77.8,6.7,83,4.0,336,0,0,Rams,2013
+36,36,Benny Cunningham,23,RB,14,0,47,261,1,11,44.7,56,5.6,18.6,3.4,10,6,59,9.8,0,2,40.0,18,0.4,4.2,60.0,5.9,53,6.0,320,1,2,Rams,2013
+10,10,Kellen Clemens,30,QB,10,9,23,64,0,5,30.4,16,2.8,6.4,2.3,0,0,0,0.0,0,0,0.0,0,0.0,0.0,0.0,0.0,23,2.8,64,0,7,Rams,2013
+8,8,Sam Bradford,26,QB,7,7,15,31,0,2,20.0,23,2.1,4.4,2.1,0,0,0,0.0,0,0,0.0,0,0.0,0.0,0.0,0.0,15,2.1,31,0,3,Rams,2013
+11,11,Tavon Austin,23,WR,13,3,9,151,1,3,55.6,65,16.8,11.6,0.7,69,40,418,10.5,4,17,42.0,81,3.1,32.2,58.0,6.1,49,11.6,569,5,4,Rams,2013
+24,24,Isaiah Pead,24,RB,10,0,7,21,0,2,42.9,11,3.0,2.1,0.7,15,11,78,7.1,0,3,46.7,14,1.1,7.8,73.3,5.2,18,5.5,99,0,0,Rams,2013
+13,13,Chris Givens,24,WR,16,13,3,8,0,1,33.3,16,2.7,0.5,0.2,83,34,569,16.7,0,27,36.1,47,2.1,35.6,41.0,6.9,37,15.6,577,0,1,Rams,2013
+12,12,Stedman Bailey,23,WR,16,2,2,33,1,1,100.0,27,16.5,2.1,0.1,25,17,226,13.3,0,10,52.0,28,1.1,14.1,68.0,9.0,19,13.6,259,1,0,Rams,2013
+27,27,Matt Giordano,31,DB,16,2,1,-5,0,0,0.0,-5,-5.0,-0.3,0.1,0,0,0,0.0,0,0,0.0,0,0.0,0.0,0.0,0.0,1,-5.0,-5,0,0,Rams,2013
+89,89,Jared Cook,26,TE,16,13,0,0,0,0,0.0,0,0.0,0.0,0.0,85,51,671,13.2,5,34,52.9,47,3.2,41.9,60.0,7.9,51,13.2,671,5,1,Rams,2013
+18,18,Austin Pettis,25,WR,16,6,0,0,0,0,0.0,0,0.0,0.0,0.0,63,38,399,10.5,4,25,54.0,31,2.4,24.9,60.3,6.3,38,10.5,399,4,1,Rams,2013
+88,88,Lance Kendricks,25,WR,15,13,0,0,0,0,0.0,0,0.0,0.0,0.0,46,32,258,8.1,4,16,52.2,21,2.1,17.2,69.6,5.6,32,8.1,258,4,0,Rams,2013
+83,83,Brian Quick,24,WR,16,5,0,0,0,0,0.0,0,0.0,0.0,0.0,35,18,302,16.8,2,15,42.9,73,1.1,18.9,51.4,8.6,18,16.8,302,2,0,Rams,2013
+46,46,Cory Harkey,23,RB,15,10,0,0,0,0,0.0,0,0.0,0.0,0.0,18,13,113,8.7,2,7,61.1,31,0.9,7.5,72.2,6.3,13,8.7,113,2,0,Rams,2013
+82,82,Mike McNeill,25,TE,14,0,0,0,0,0,0.0,0,0.0,0.0,0.0,1,1,5,5.0,0,0,0.0,5,0.1,0.4,100.0,5.0,1,5.0,5,0,0,Rams,2013

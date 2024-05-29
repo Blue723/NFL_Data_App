@@ -1,18 +1,17 @@
-,Week,Team,Day,Date,Time,Win/Loss,Overtime,Team Record,Home/Away,Opponent,Points Scored,Points Allowed,Offense 1st Down,Total Yards Gained of Offense,Total yards Gained by Passing,Total Yards Gained by Rushing,Offense Turnovers,Defense 1st Down,Total Yards Allowed by Defense,Total Passing Yards Allowed by Defense,Total Rushing Yards Allowed by Defense,Defense Turnovers,Offense,Defense,Sp. Tms,Year
-0,0,Cowboys,Sun,September 8,,W,0,1-0,home,New York Giants,36,31,22,331,244,87,1,21,478,428,50,6,-9.93,4.53,13.06,2013
-1,1,Cowboys,Sun,September 15,,L,0,1-1,away,Kansas City Chiefs,16,17,20,318,281,37,2,19,313,199,114,0,-6.67,-1.42,7.11,2013
-2,2,Cowboys,Sun,September 22,,W,0,2-1,home,St. Louis Rams,31,7,21,396,203,193,1,17,232,197,35,1,18.31,14.3,-10.56,2013
-3,3,Cowboys,Sun,September 29,,L,0,2-2,away,San Diego Chargers,21,30,21,319,227,92,1,27,506,394,112,1,5.6,-12.93,-0.68,2013
-4,4,Cowboys,Sun,October 6,,L,0,2-3,home,Denver Broncos,48,51,24,522,470,52,2,34,517,414,103,2,31.36,-24.76,-9.6,2013
-5,5,Cowboys,Sun,October 13,,W,0,3-3,home,Washington Redskins,31,16,18,213,165,48,1,25,433,217,216,2,-0.73,-0.95,16.07,2013
-6,6,Cowboys,Sun,October 20,,W,0,4-3,away,Philadelphia Eagles,17,3,22,368,294,74,2,19,278,194,84,3,-7.44,20.12,-0.29,2013
-7,7,Cowboys,Sun,October 27,,L,0,4-4,away,Detroit Lions,30,31,13,268,206,62,0,29,623,480,143,4,-1.28,-5.83,8.24,2013
-8,8,Cowboys,Sun,November 3,,W,0,5-4,home,Minnesota Vikings,27,23,20,350,314,36,1,22,393,224,169,2,5.61,-5.82,2.09,2013
-9,9,Cowboys,Sun,November 10,,L,0,5-5,away,New Orleans Saints,17,49,9,193,104,89,0,40,625,383,242,1,-4.88,-46.75,15.75,2013
-10,10,Cowboys,,,,,0,,home,<strong>Bye Week</strong>,0,0,0,0,0,0,0,0,0,0,0,0,,,,2013
-11,11,Cowboys,Sun,November 24,,W,0,6-5,away,New York Giants,24,21,24,311,204,107,1,22,356,154,202,1,3.05,1.69,-3.65,2013
-12,12,Cowboys,Thu,November 28,,W,0,7-5,home,Oakland Raiders,31,24,23,352,208,144,1,16,305,255,50,2,14.89,1.61,-7.78,2013
-13,13,Cowboys,Mon,December 9,,L,0,7-6,away,Chicago Bears,28,45,24,328,130,198,0,33,490,341,149,0,15.42,-35.83,2.48,2013
-14,14,Cowboys,Sun,December 15,,L,0,7-7,home,Green Bay Packers,36,37,27,466,332,134,2,26,433,283,150,1,12.68,-17.75,-1.01,2013
-15,15,Cowboys,Sun,December 22,,W,0,8-7,away,Washington Redskins,24,23,16,309,214,95,2,17,297,197,100,1,5.05,-1.45,0.92,2013
-16,16,Cowboys,Sun,December 29,,L,0,8-8,home,Philadelphia Eagles,22,24,21,414,358,56,3,21,366,229,137,1,-1.63,-2.05,-0.14,2013
+,Week,Day,Date,Time,Win/Loss,Overtime,Team Record,Home/Away,Opponent,Points Scored,Points Allowed,Offense 1st Down,Total Yards Gained of Offense,Total yards Gained by Passing,Total Yards Gained by Rushing,Offense Turnovers,Defense 1st Down,Total Yards Allowed by Defense,Total Passing Yards Allowed by Defense,Total Rushing Yards Allowed by Defense,Defense Turnovers,Offense,Defense,Sp. Tms,Team,Year
+0,1,Sun,2013-09-08,nan,Win,0,1-0,home,New York Giants,36,31,22,331,244,87,1,21,478,428,50,6,-9.93,4.53,13.06,Cowboys,2013
+1,2,Sun,2013-09-15,nan,Loss,0,1-1,away,Kansas City Chiefs,16,17,20,318,281,37,2,19,313,199,114,0,-6.67,-1.42,7.11,Cowboys,2013
+2,3,Sun,2013-09-22,nan,Win,0,2-1,home,St. Louis Rams,31,7,21,396,203,193,1,17,232,197,35,1,18.31,14.3,-10.56,Cowboys,2013
+3,4,Sun,2013-09-29,nan,Loss,0,2-2,away,San Diego Chargers,21,30,21,319,227,92,1,27,506,394,112,1,5.6,-12.93,-0.68,Cowboys,2013
+4,5,Sun,2013-10-06,nan,Loss,0,2-3,home,Denver Broncos,48,51,24,522,470,52,2,34,517,414,103,2,31.36,-24.76,-9.6,Cowboys,2013
+5,6,Sun,2013-10-13,nan,Win,0,3-3,home,Washington Redskins,31,16,18,213,165,48,1,25,433,217,216,2,-0.73,-0.95,16.07,Cowboys,2013
+6,7,Sun,2013-10-20,nan,Win,0,4-3,away,Philadelphia Eagles,17,3,22,368,294,74,2,19,278,194,84,3,-7.44,20.12,-0.29,Cowboys,2013
+7,8,Sun,2013-10-27,nan,Loss,0,4-4,away,Detroit Lions,30,31,13,268,206,62,0,29,623,480,143,4,-1.28,-5.83,8.24,Cowboys,2013
+8,9,Sun,2013-11-03,nan,Win,0,5-4,home,Minnesota Vikings,27,23,20,350,314,36,1,22,393,224,169,2,5.61,-5.82,2.09,Cowboys,2013
+9,10,Sun,2013-11-10,nan,Loss,0,5-5,away,New Orleans Saints,17,49,9,193,104,89,0,40,625,383,242,1,-4.88,-46.75,15.75,Cowboys,2013
+10,12,Sun,2013-11-24,nan,Win,0,6-5,away,New York Giants,24,21,24,311,204,107,1,22,356,154,202,1,3.05,1.69,-3.65,Cowboys,2013
+11,13,Thu,2013-11-28,nan,Win,0,7-5,home,Oakland Raiders,31,24,23,352,208,144,1,16,305,255,50,2,14.89,1.61,-7.78,Cowboys,2013
+12,14,Mon,2013-12-09,nan,Loss,0,7-6,away,Chicago Bears,28,45,24,328,130,198,0,33,490,341,149,0,15.42,-35.83,2.48,Cowboys,2013
+13,15,Sun,2013-12-15,nan,Loss,0,7-7,home,Green Bay Packers,36,37,27,466,332,134,2,26,433,283,150,1,12.68,-17.75,-1.01,Cowboys,2013
+14,16,Sun,2013-12-22,nan,Win,0,8-7,away,Washington Redskins,24,23,16,309,214,95,2,17,297,197,100,1,5.05,-1.45,0.92,Cowboys,2013
+15,17,Sun,2013-12-29,nan,Loss,0,8-8,home,Philadelphia Eagles,22,24,21,414,358,56,3,21,366,229,137,1,-1.63,-2.05,-0.14,Cowboys,2013

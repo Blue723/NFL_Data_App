@@ -1,22 +1,22 @@
-,Rank,Team,Date,Opponent,Win/Loss,Score,Quarter,Distance,Type,Detail,Year
-0,1,Panthers,09/08/2013,SEA,Loss, 7-12,4,43,pass,Jermaine Kearse,2013
-1,2,Panthers,09/15/2013,BUF,Loss, 23-24,3,4,rush,Fred Jackson,2013
-2,3,Panthers,09/15/2013,BUF,Loss, 23-24,4,2,pass,Stevie Johnson,2013
-3,4,Panthers,10/06/2013,ARI,Loss, 6-22,3,1,rush,Rashard Mendenhall,2013
-4,5,Panthers,10/06/2013,ARI,Loss, 6-22,4,7,pass,Jim Dray,2013
-5,6,Panthers,10/13/2013,MIN,Win, 35-10,4,23,pass,Kyle Rudolph,2013
-6,7,Panthers,10/20/2013,STL,Win, 30-15,3,4,pass,Zac Stacy,2013
-7,8,Panthers,10/24/2013,TAM,Win, 31-13,4,10,pass,Tim Wright,2013
-8,9,Panthers,11/03/2013,ATL,Win, 34-10,2,17,pass,Tony Gonzalez,2013
-9,10,Panthers,11/18/2013,NWE,Win, 24-20,3,9,pass,Rob Gronkowski,2013
-10,11,Panthers,11/18/2013,NWE,Win, 24-20,4,1,rush,Stevan Ridley,2013
-11,12,Panthers,11/24/2013,MIA,Win, 20-16,1,53,pass,Mike Wallace,2013
-12,13,Panthers,12/08/2013,NOR,Loss, 13-31,2,6,pass,Marques Colston,2013
-13,14,Panthers,12/08/2013,NOR,Loss, 13-31,2,15,pass,Marques Colston,2013
-14,15,Panthers,12/08/2013,NOR,Loss, 13-31,2,5,pass,Jimmy Graham,2013
-15,16,Panthers,12/08/2013,NOR,Loss, 13-31,4,8,pass,Jimmy Graham,2013
-16,17,Panthers,12/15/2013,NYJ,Win, 30-20,3,1,rush,Sheldon Richardson,2013
-17,18,Panthers,12/15/2013,NYJ,Win, 30-20,4,8,pass,Jeff Cumberland,2013
-18,19,Panthers,12/22/2013,NOR,Win, 17-13,4,5,pass,Jimmy Graham,2013
-19,20,Panthers,12/29/2013,ATL,Win, 21-20,1,9,pass,Jason Snelling,2013
-20,21,Panthers,12/29/2013,ATL,Win, 21-20,3,39,pass,Roddy White,2013
+,Rank,Team,Date,Opponent,Win/Loss,Home_Score,Opponenet_Score,Quarter,Distance,Type,Detail
+1,1,Panthers,2013-09-08,SEA,Loss,7,12,4,43,pass,Jermaine Kearse
+2,2,Panthers,2013-09-15,BUF,Loss,23,24,3,4,rush,Fred Jackson
+3,3,Panthers,2013-09-15,BUF,Loss,23,24,4,2,pass,Stevie Johnson
+4,4,Panthers,2013-10-06,ARI,Loss,6,22,3,1,rush,Rashard Mendenhall
+5,5,Panthers,2013-10-06,ARI,Loss,6,22,4,7,pass,Jim Dray
+6,6,Panthers,2013-10-13,MIN,Win,35,10,4,23,pass,Kyle Rudolph
+7,7,Panthers,2013-10-20,STL,Win,30,15,3,4,pass,Zac Stacy
+8,8,Panthers,2013-10-24,TAM,Win,31,13,4,10,pass,Tim Wright
+9,9,Panthers,2013-11-03,ATL,Win,34,10,2,17,pass,Tony Gonzalez
+10,10,Panthers,2013-11-18,NWE,Win,24,20,3,9,pass,Rob Gronkowski
+11,11,Panthers,2013-11-18,NWE,Win,24,20,4,1,rush,Stevan Ridley
+12,12,Panthers,2013-11-24,MIA,Win,20,16,1,53,pass,Mike Wallace
+13,13,Panthers,2013-12-08,NOR,Loss,13,31,2,6,pass,Marques Colston
+14,14,Panthers,2013-12-08,NOR,Loss,13,31,2,15,pass,Marques Colston
+15,15,Panthers,2013-12-08,NOR,Loss,13,31,2,5,pass,Jimmy Graham
+16,16,Panthers,2013-12-08,NOR,Loss,13,31,4,8,pass,Jimmy Graham
+17,17,Panthers,2013-12-15,NYJ,Win,30,20,3,1,rush,Sheldon Richardson
+18,18,Panthers,2013-12-15,NYJ,Win,30,20,4,8,pass,Jeff Cumberland
+19,19,Panthers,2013-12-22,NOR,Win,17,13,4,5,pass,Jimmy Graham
+20,20,Panthers,2013-12-29,ATL,Win,21,20,1,9,pass,Jason Snelling
+21,21,Panthers,2013-12-29,ATL,Win,21,20,3,39,pass,Roddy White

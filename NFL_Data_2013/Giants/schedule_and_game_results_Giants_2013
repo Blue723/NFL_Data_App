@@ -1,18 +1,17 @@
-,Week,Team,Day,Date,Time,Win/Loss,Overtime,Team Record,Home/Away,Opponent,Points Scored,Points Allowed,Offense 1st Down,Total Yards Gained of Offense,Total yards Gained by Passing,Total Yards Gained by Rushing,Offense Turnovers,Defense 1st Down,Total Yards Allowed by Defense,Total Passing Yards Allowed by Defense,Total Rushing Yards Allowed by Defense,Defense Turnovers,Offense,Defense,Sp. Tms,Year
-0,0,Giants,Sun,September 8,,L,0,0-1,away,Dallas Cowboys,31,36,21,478,428,50,6,22,331,244,87,1,-4.53,9.93,-13.06,2013
-1,1,Giants,Sun,September 15,,L,0,0-2,home,Denver Broncos,23,41,28,376,353,23,4,23,414,307,107,1,2.15,-9.74,-8.62,2013
-2,2,Giants,Sun,September 22,,L,0,0-3,away,Carolina Panthers,0,38,10,150,90,60,3,27,402,208,194,2,-23.56,-13.72,-1.2,2013
-3,3,Giants,Sun,September 29,,L,0,0-4,away,Kansas City Chiefs,7,31,11,298,200,98,3,21,390,288,102,3,-16.36,2.7,-11.56,2013
-4,4,Giants,Sun,October 6,,L,0,0-5,home,Philadelphia Eagles,21,36,21,383,330,53,4,28,439,299,140,0,-5.7,-14.05,2.67,2013
-5,5,Giants,Thu,October 10,,L,0,0-6,away,Chicago Bears,21,27,21,355,232,123,3,26,372,262,110,0,2.76,-10.8,1.49,2013
-6,6,Giants,Mon,October 21,,W,0,1-6,home,Minnesota Vikings,23,7,17,257,193,64,1,13,206,176,30,3,-7.36,21.6,1.65,2013
-7,7,Giants,Sun,October 27,,W,0,2-6,away,Philadelphia Eagles,15,7,16,325,237,88,1,15,200,152,48,3,-10.87,18.64,2.16,2013
-8,8,Giants,,,,,0,,home,<strong>Bye Week</strong>,0,0,0,0,0,0,0,0,0,0,0,0,,,,2013
-9,9,Giants,Sun,November 10,,W,0,3-6,home,Oakland Raiders,24,20,19,251,118,133,3,12,213,106,107,2,-8.05,21.11,-6.39,2013
-10,10,Giants,Sun,November 17,,W,0,4-6,home,Green Bay Packers,27,13,19,334,256,78,1,16,394,339,55,3,3.95,5.98,2.41,2013
-11,11,Giants,Sun,November 24,,L,0,4-7,home,Dallas Cowboys,21,24,22,356,154,202,1,24,311,204,107,1,-1.69,-3.05,3.65,2013
-12,12,Giants,Sun,December 1,,W,0,5-7,away,Washington Redskins,24,17,16,286,206,80,1,18,323,184,139,1,1.44,4.68,0.44,2013
-13,13,Giants,Sun,December 8,,L,0,5-8,away,San Diego Chargers,14,37,18,333,241,92,3,25,388,244,144,1,-7.82,-17.83,1.03,2013
-14,14,Giants,Sun,December 15,,L,0,5-9,home,Seattle Seahawks,0,23,12,181,156,25,5,21,327,193,134,1,-24.75,2.0,-0.46,2013
-15,15,1,1,1,1.0,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1.0,1.0,1.0,1
-16,16,Giants,Sun,December 29,,W,0,7-9,home,Washington Redskins,20,6,14,278,156,122,3,12,251,160,91,4,-17.58,34.53,-4.69,2013
+,Week,Day,Date,Time,Win/Loss,Overtime,Team Record,Home/Away,Opponent,Points Scored,Points Allowed,Offense 1st Down,Total Yards Gained of Offense,Total yards Gained by Passing,Total Yards Gained by Rushing,Offense Turnovers,Defense 1st Down,Total Yards Allowed by Defense,Total Passing Yards Allowed by Defense,Total Rushing Yards Allowed by Defense,Defense Turnovers,Offense,Defense,Sp. Tms,Team,Year
+0,1,Sun,2013-09-08,nan,Loss,0,0-1,away,Dallas Cowboys,31,36,21,478,428,50,6,22,331,244,87,1,-4.53,9.93,-13.06,Giants,2013
+1,2,Sun,2013-09-15,nan,Loss,0,0-2,home,Denver Broncos,23,41,28,376,353,23,4,23,414,307,107,1,2.15,-9.74,-8.62,Giants,2013
+2,3,Sun,2013-09-22,nan,Loss,0,0-3,away,Carolina Panthers,0,38,10,150,90,60,3,27,402,208,194,2,-23.56,-13.72,-1.2,Giants,2013
+3,4,Sun,2013-09-29,nan,Loss,0,0-4,away,Kansas City Chiefs,7,31,11,298,200,98,3,21,390,288,102,3,-16.36,2.7,-11.56,Giants,2013
+4,5,Sun,2013-10-06,nan,Loss,0,0-5,home,Philadelphia Eagles,21,36,21,383,330,53,4,28,439,299,140,0,-5.7,-14.05,2.67,Giants,2013
+5,6,Thu,2013-10-10,nan,Loss,0,0-6,away,Chicago Bears,21,27,21,355,232,123,3,26,372,262,110,0,2.76,-10.8,1.49,Giants,2013
+6,7,Mon,2013-10-21,nan,Win,0,1-6,home,Minnesota Vikings,23,7,17,257,193,64,1,13,206,176,30,3,-7.36,21.6,1.65,Giants,2013
+7,8,Sun,2013-10-27,nan,Win,0,2-6,away,Philadelphia Eagles,15,7,16,325,237,88,1,15,200,152,48,3,-10.87,18.64,2.16,Giants,2013
+8,10,Sun,2013-11-10,nan,Win,0,3-6,home,Oakland Raiders,24,20,19,251,118,133,3,12,213,106,107,2,-8.05,21.11,-6.39,Giants,2013
+9,11,Sun,2013-11-17,nan,Win,0,4-6,home,Green Bay Packers,27,13,19,334,256,78,1,16,394,339,55,3,3.95,5.98,2.41,Giants,2013
+10,12,Sun,2013-11-24,nan,Loss,0,4-7,home,Dallas Cowboys,21,24,22,356,154,202,1,24,311,204,107,1,-1.69,-3.05,3.65,Giants,2013
+11,13,Sun,2013-12-01,nan,Win,0,5-7,away,Washington Redskins,24,17,16,286,206,80,1,18,323,184,139,1,1.44,4.68,0.44,Giants,2013
+12,14,Sun,2013-12-08,nan,Loss,0,5-8,away,San Diego Chargers,14,37,18,333,241,92,3,25,388,244,144,1,-7.82,-17.83,1.03,Giants,2013
+13,15,Sun,2013-12-15,nan,Loss,0,5-9,home,Seattle Seahawks,0,23,12,181,156,25,5,21,327,193,134,1,-24.75,2.0,-0.46,Giants,2013
+14,16,Sun,2013-12-22,nan,Win,1,6-9,away,Detroit Lions,23,20,15,279,238,41,2,24,355,207,148,3,-9.76,11.36,1.31,Giants,2013
+15,17,Sun,2013-12-29,nan,Win,0,7-9,home,Washington Redskins,20,6,14,278,156,122,3,12,251,160,91,4,-17.58,34.53,-4.69,Giants,2013

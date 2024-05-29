@@ -1,17 +1,17 @@
-,No.,Team,Player,Age,Position,Games Played,Games Started as an Offensive or Defensive Player,Rushing Attempts,Rushing Yards Gained,Rushing Touchdown,First Downs Rushing,Rushing Success Rate,Longest Rushing Attempt,Rushing Yards per Attempt,Rushing Yards per Game,Rushing Attempts per Game,Pass Targets,Receptions,Receiving Yards,Receiving Yards per Reception,Receiving Touchdowns,First Downs Receiving,Receiving Success Rate,Longest Reception,Receptions per Game,Receiving Yards per Game,Catch Per.,Receiving Yards per Target,Touches: Rushing Attempts and Receptions,Scrimmage Yards per Touch: Rushing + Receiving Yardage per Opportunity,Yards from Scrimmage: Receiving and Rushing Yards,Rushing and Receiving Touchdowns,Lost and Recovered Fumbles,Year
-0,27,Broncos,Knowshon Moreno,26,RB,16,15,241,1038,10,56,47.7,31,4.3,64.9,15.1,74,60,548,9.1,3,30,59.5,35,3.8,34.3,81.1,7.4,301,5.3,1586,13,1,2013
-1,28,Broncos,Montee Ball,23,RB,16,0,120,559,4,35,51.7,45,4.7,34.9,7.5,27,20,145,7.3,0,10,51.9,31,1.3,9.1,74.1,5.4,140,5.0,704,4,3,2013
-2,21,Broncos,Ronnie Hillman,22,RB,10,0,55,218,1,14,52.7,19,4.0,21.8,5.5,14,12,119,9.9,0,7,71.4,19,1.2,11.9,85.7,8.5,67,5.0,337,1,2,2013
-3,18,Broncos,Peyton Manning,37,QB,16,16,32,-31,1,1,3.1,1,-1.0,-1.9,2.0,0,0,0,,0,0,,0,,,0.0,,32,-1.0,-31,1,10,2013
-4,22,Broncos,C.J. Anderson,22,RB,5,0,7,38,0,3,85.7,11,5.4,7.6,1.4,1,0,0,,0,0,0.0,0,0.0,0.0,0.0,0.0,7,5.4,38,0,0,2013
-5,17,Broncos,Brock Osweiler,23,QB,4,0,3,2,0,2,66.7,4,0.7,0.5,0.8,0,0,0,,0,0,,0,,,0.0,,3,0.7,2,0,0,2013
-6,12,Broncos,Andre Caldwell,28,WR,16,2,1,7,0,0,100.0,7,7.0,0.4,0.1,29,16,200,12.5,3,12,44.8,36,1.0,12.5,55.2,6.9,17,12.2,207,3,0,2013
-7,30,Broncos,David Bruton,26,DB,16,0,1,35,0,1,100.0,35,35.0,2.2,0.1,0,0,0,,0,0,,0,,,0.0,,1,35.0,35,0,0,2013
-8,11,Broncos,Trindon Holliday,27,WR,15,0,1,7,0,0,,7,7.0,0.5,0.1,0,0,0,,0,0,,0,,,0.0,,1,7.0,7,0,5,2013
-9,88,Broncos,Demaryius Thomas,26,WR,16,16,0,0,0,0,,0,,,,142,92,1430,15.5,14,66,58.5,78,5.8,89.4,64.8,10.1,92,15.5,1430,14,1,2013
-10,87,Broncos,Eric Decker,26,WR,16,16,0,0,0,0,,0,,,,136,87,1288,14.8,11,63,58.1,61,5.4,80.5,64.0,9.5,87,14.8,1288,11,2,2013
-11,83,Broncos,Wes Welker,32,WR,13,13,0,0,0,0,,0,,,,111,73,778,10.7,10,49,54.1,33,5.6,59.8,65.8,7.0,73,10.7,778,10,1,2013
-12,80,Broncos,Julius Thomas,25,TE,14,14,0,0,0,0,,0,,,,90,65,788,12.1,12,41,56.7,74,4.6,56.3,72.2,8.8,65,12.1,788,12,0,2013
-13,84,Broncos,Jacob Tamme,28,TE,16,1,0,0,0,0,,0,,,,25,20,184,9.2,1,14,76.0,15,1.3,11.5,80.0,7.4,20,9.2,184,1,0,2013
-14,85,Broncos,Virgil Green,25,TE,16,3,0,0,0,0,,0,,,,12,9,45,5.0,0,0,,10,0.6,2.8,75.0,3.8,9,5.0,45,0,0,2013
-15,81,Broncos,Joel Dreessen,31,TE,13,0,0,0,0,0,,0,,,,9,7,47,6.7,1,3,44.4,14,0.5,3.6,77.8,5.2,7,6.7,47,1,0,2013
+,No.,Player,Age,Position,Games Played,Games Started as an Offensive or Defensive Player,Rushing Attempts,Rushing Yards Gained,Rushing Touchdown,First Downs Rushing,Rushing Success Rate,Longest Rushing Attempt,Rushing Yards per Attempt,Rushing Yards per Game,Rushing Attempts per Game,Pass Targets,Receptions,Receiving Yards,Receiving Yards per Reception,Receiving Touchdowns,First Downs Receiving,Receiving Success Rate,Longest Reception,Receptions per Game,Receiving Yards per Game,Catch Per.,Receiving Yards per Target,Touches: Rushing Attempts and Receptions,Scrimmage Yards per Touch: Rushing + Receiving Yardage per Opportunity,Yards from Scrimmage: Receiving and Rushing Yards,Rushing and Receiving Touchdowns,Lost and Recovered Fumbles,Team,Year
+27,27,Knowshon Moreno,26,RB,16,15,241,1038,10,56,47.7,31,4.3,64.9,15.1,74,60,548,9.1,3,30,59.5,35,3.8,34.3,81.1,7.4,301,5.3,1586,13,1,Broncos,2013
+28,28,Montee Ball,23,RB,16,0,120,559,4,35,51.7,45,4.7,34.9,7.5,27,20,145,7.3,0,10,51.9,31,1.3,9.1,74.1,5.4,140,5.0,704,4,3,Broncos,2013
+21,21,Ronnie Hillman,22,RB,10,0,55,218,1,14,52.7,19,4.0,21.8,5.5,14,12,119,9.9,0,7,71.4,19,1.2,11.9,85.7,8.5,67,5.0,337,1,2,Broncos,2013
+18,18,Peyton Manning,37,QB,16,16,32,-31,1,1,3.1,1,-1.0,-1.9,2.0,0,0,0,0.0,0,0,0.0,0,0.0,0.0,0.0,0.0,32,-1.0,-31,1,10,Broncos,2013
+22,22,C.J. Anderson,22,RB,5,0,7,38,0,3,85.7,11,5.4,7.6,1.4,1,0,0,0.0,0,0,0.0,0,0.0,0.0,0.0,0.0,7,5.4,38,0,0,Broncos,2013
+17,17,Brock Osweiler,23,QB,4,0,3,2,0,2,66.7,4,0.7,0.5,0.8,0,0,0,0.0,0,0,0.0,0,0.0,0.0,0.0,0.0,3,0.7,2,0,0,Broncos,2013
+12,12,Andre Caldwell,28,WR,16,2,1,7,0,0,100.0,7,7.0,0.4,0.1,29,16,200,12.5,3,12,44.8,36,1.0,12.5,55.2,6.9,17,12.2,207,3,0,Broncos,2013
+30,30,David Bruton,26,DB,16,0,1,35,0,1,100.0,35,35.0,2.2,0.1,0,0,0,0.0,0,0,0.0,0,0.0,0.0,0.0,0.0,1,35.0,35,0,0,Broncos,2013
+11,11,Trindon Holliday,27,WR,15,0,1,7,0,0,0.0,7,7.0,0.5,0.1,0,0,0,0.0,0,0,0.0,0,0.0,0.0,0.0,0.0,1,7.0,7,0,5,Broncos,2013
+88,88,Demaryius Thomas,26,WR,16,16,0,0,0,0,0.0,0,0.0,0.0,0.0,142,92,1430,15.5,14,66,58.5,78,5.8,89.4,64.8,10.1,92,15.5,1430,14,1,Broncos,2013
+87,87,Eric Decker,26,WR,16,16,0,0,0,0,0.0,0,0.0,0.0,0.0,136,87,1288,14.8,11,63,58.1,61,5.4,80.5,64.0,9.5,87,14.8,1288,11,2,Broncos,2013
+83,83,Wes Welker,32,WR,13,13,0,0,0,0,0.0,0,0.0,0.0,0.0,111,73,778,10.7,10,49,54.1,33,5.6,59.8,65.8,7.0,73,10.7,778,10,1,Broncos,2013
+80,80,Julius Thomas,25,TE,14,14,0,0,0,0,0.0,0,0.0,0.0,0.0,90,65,788,12.1,12,41,56.7,74,4.6,56.3,72.2,8.8,65,12.1,788,12,0,Broncos,2013
+84,84,Jacob Tamme,28,TE,16,1,0,0,0,0,0.0,0,0.0,0.0,0.0,25,20,184,9.2,1,14,76.0,15,1.3,11.5,80.0,7.4,20,9.2,184,1,0,Broncos,2013
+85,85,Virgil Green,25,TE,16,3,0,0,0,0,0.0,0,0.0,0.0,0.0,12,9,45,5.0,0,0,0.0,10,0.6,2.8,75.0,3.8,9,5.0,45,0,0,Broncos,2013
+81,81,Joel Dreessen,31,TE,13,0,0,0,0,0,0.0,0,0.0,0.0,0.0,9,7,47,6.7,1,3,44.4,14,0.5,3.6,77.8,5.2,7,6.7,47,1,0,Broncos,2013

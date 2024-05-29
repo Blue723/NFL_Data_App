@@ -1,5 +1,5 @@
-,No.,Team,Player,Age,Position,Games Played,Games Started,Punts Returned,Punts Return Yardage,Punts Returned for Touchdown,Longest Punt Return,Yards per Punt Return,Kickoff Returns,Yardage for Kickoffs Returned,Kickoffs Returned for a Touchdown,Longest Kickoff Return,Yards per Kickoff Return,All-purpose Yards,Year
-0,22,Chiefs,Dexter McCluster,24,WR,15,6,58,686,2,89,11.8,1,3,0,3,3.0,1205,2013
-1,35,Chiefs,Quintin Demps,28,DB,16,6,0,0,0,0,,33,992,1,95,30.1,1053,2013
-2,34,Chiefs,Knile Davis,22,RB,16,1,0,0,0,0,,10,321,1,108,32.1,638,2013
-3,14,Chiefs,Chad Hall,27,WR,9,0,1,9,0,9,9.0,0,0,0,0,,29,2013
+,No.,Player,Age,Position,Games Played,Games Started,Punts Returned,Punts Return Yardage,Punts Returned for Touchdown,Longest Punt Return,Yards per Punt Return,Kickoff Returns,Yardage for Kickoffs Returned,Kickoffs Returned for a Touchdown,Longest Kickoff Return,Yards per Kickoff Return,All-purpose Yards,Team,Year
+22,22,Dexter McCluster,24,WR,15,6,58,686,2,89,11.8,1,3,0,3,3.0,1205,Chiefs,2013
+35,35,Quintin Demps,28,DB,16,6,0,0,0,0,0.0,33,992,1,95,30.1,1053,Chiefs,2013
+34,34,Knile Davis,22,RB,16,1,0,0,0,0,0.0,10,321,1,108,32.1,638,Chiefs,2013
+14,14,Chad Hall,27,WR,9,0,1,9,0,9,9.0,0,0,0,0,0.0,29,Chiefs,2013

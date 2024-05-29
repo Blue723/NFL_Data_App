@@ -1,9 +1,9 @@
-,No.,Team,Player,Age,Position,Games Played,Games Started,Punts Returned,Punts Return Yardage,Punts Returned for Touchdown,Longest Punt Return,Yards per Punt Return,Kickoff Returns,Yardage for Kickoffs Returned,Kickoffs Returned for a Touchdown,Longest Kickoff Return,Yards per Kickoff Return,All-purpose Yards,Year
-0,17,Buccaneers,Eric Page,22,WR,16,1,23,251,0,52,10.9,22,548,0,44,24.9,881,2013
-1,18,Buccaneers,Skye Dawson,23,WR,7,0,1,17,0,17,17.0,3,67,0,25,22.3,111,2013
-2,32,Buccaneers,Jeff Demps,23,RB,2,0,0,0,0,0,,4,93,0,29,23.3,128,2013
-3,46,Buccaneers,Spencer Larsen,29,FB,13,1,0,0,0,0,,1,17,0,17,17.0,17,2013
-4,41,Buccaneers,Erik Lorig,27,RB,15,9,0,0,0,0,,1,6,0,6,6.0,53,2013
-5,22,Buccaneers,Doug Martin,24,RB,6,6,0,0,0,0,,1,40,0,40,40.0,562,2013
-6,85,Buccaneers,Kevin Ogletree,26,WR,4,1,0,0,0,0,,1,25,0,25,25.0,95,2013
-7,43,Buccaneers,Bobby Rainey,26,RB,9,6,0,0,0,0,,1,15,0,15,15.0,574,2013
+,No.,Player,Age,Position,Games Played,Games Started,Punts Returned,Punts Return Yardage,Punts Returned for Touchdown,Longest Punt Return,Yards per Punt Return,Kickoff Returns,Yardage for Kickoffs Returned,Kickoffs Returned for a Touchdown,Longest Kickoff Return,Yards per Kickoff Return,All-purpose Yards,Team,Year
+17,17,Eric Page,22,WR,16,1,23,251,0,52,10.9,22,548,0,44,24.9,881,Buccaneers,2013
+18,18,Skye Dawson,23,WR,7,0,1,17,0,17,17.0,3,67,0,25,22.3,111,Buccaneers,2013
+32,32,Jeff Demps,23,RB,2,0,0,0,0,0,0.0,4,93,0,29,23.3,128,Buccaneers,2013
+46,46,Spencer Larsen,29,FB,13,1,0,0,0,0,0.0,1,17,0,17,17.0,17,Buccaneers,2013
+41,41,Erik Lorig,27,RB,15,9,0,0,0,0,0.0,1,6,0,6,6.0,53,Buccaneers,2013
+22,22,Doug Martin,24,RB,6,6,0,0,0,0,0.0,1,40,0,40,40.0,562,Buccaneers,2013
+85,85,Kevin Ogletree,26,WR,4,1,0,0,0,0,0.0,1,25,0,25,25.0,95,Buccaneers,2013
+43,43,Bobby Rainey,26,RB,9,6,0,0,0,0,0.0,1,15,0,15,15.0,574,Buccaneers,2013

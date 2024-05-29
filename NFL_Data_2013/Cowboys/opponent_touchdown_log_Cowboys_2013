@@ -1,52 +1,52 @@
-,Rank,Team,Date,Opponent,Win/Loss,Score,Quarter,Distance,Type,Detail,Year
-0,1,Cowboys,09/08/2013,NYG,Win, 36-31,2,70,pass,Victor Cruz,2013
-1,2,Cowboys,09/08/2013,NYG,Win, 36-31,3,18,pass,Victor Cruz,2013
-2,3,Cowboys,09/08/2013,NYG,Win, 36-31,4,10,pass,Victor Cruz,2013
-3,4,Cowboys,09/08/2013,NYG,Win, 36-31,4,4,pass,Brandon Myers,2013
-4,5,Cowboys,09/15/2013,KAN,Loss, 16-17,1,2,pass,Jamaal Charles,2013
-5,6,Cowboys,09/15/2013,KAN,Loss, 16-17,3,12,pass,Dwayne Bowe,2013
-6,7,Cowboys,09/22/2013,STL,Win, 31-7,3,4,pass,Austin Pettis,2013
-7,8,Cowboys,09/29/2013,SDG,Loss, 21-30,1,26,pass,Danny Woodhead,2013
-8,9,Cowboys,09/29/2013,SDG,Loss, 21-30,3,13,pass,Danny Woodhead,2013
-9,10,Cowboys,09/29/2013,SDG,Loss, 21-30,4,56,pass,Antonio Gates,2013
-10,11,Cowboys,10/06/2013,DEN,Loss, 48-51,1,4,pass,Julius Thomas,2013
-11,12,Cowboys,10/06/2013,DEN,Loss, 48-51,2,2,pass,Eric Decker,2013
-12,13,Cowboys,10/06/2013,DEN,Loss, 48-51,2,9,pass,Julius Thomas,2013
-13,14,Cowboys,10/06/2013,DEN,Loss, 48-51,2,1,rush,Peyton Manning,2013
-14,15,Cowboys,10/06/2013,DEN,Loss, 48-51,3,2,pass,Wes Welker,2013
-15,16,Cowboys,10/06/2013,DEN,Loss, 48-51,4,1,rush,Knowshon Moreno,2013
-16,17,Cowboys,10/13/2013,WAS,Win, 31-16,3,45,rush,Alfred Morris,2013
-17,18,Cowboys,10/27/2013,DET,Loss, 30-31,1,2,pass,Calvin Johnson,2013
-18,19,Cowboys,10/27/2013,DET,Loss, 30-31,4,1,rush,Joique Bell,2013
-19,20,Cowboys,10/27/2013,DET,Loss, 30-31,4,1,rush,Reggie Bush,2013
-20,21,Cowboys,10/27/2013,DET,Loss, 30-31,4,1,rush,Matthew Stafford,2013
-21,22,Cowboys,11/03/2013,MIN,Win, 27-23,2,6,rush,Christian Ponder,2013
-22,23,Cowboys,11/03/2013,MIN,Win, 27-23,3,31,pass,Kyle Rudolph,2013
-23,24,Cowboys,11/03/2013,MIN,Win, 27-23,4,11,rush,Adrian Peterson,2013
-24,25,Cowboys,11/10/2013,NOR,Loss, 17-49,1,22,pass,Marques Colston,2013
-25,26,Cowboys,11/10/2013,NOR,Loss, 17-49,2,1,pass,Pierre Thomas,2013
-26,27,Cowboys,11/10/2013,NOR,Loss, 17-49,2,3,rush,Darren Sproles,2013
-27,28,Cowboys,11/10/2013,NOR,Loss, 17-49,2,28,pass,Darren Sproles,2013
-28,29,Cowboys,11/10/2013,NOR,Loss, 17-49,3,4,rush,Mark Ingram,2013
-29,30,Cowboys,11/10/2013,NOR,Loss, 17-49,4,52,pass,Kenny Stills,2013
-30,31,Cowboys,11/10/2013,NOR,Loss, 17-49,4,1,rush,Pierre Thomas,2013
-31,32,Cowboys,11/24/2013,NYG,Win, 24-21,3,27,pass,Brandon Myers,2013
-32,33,Cowboys,11/24/2013,NYG,Win, 24-21,4,4,pass,Louis Murphy,2013
-33,34,Cowboys,11/28/2013,OAK,Win, 31-24,1,23,fumble,Greg Jenkins,2013
-34,35,Cowboys,11/28/2013,OAK,Win, 31-24,2,1,rush,Rashad Jennings,2013
-35,36,Cowboys,11/28/2013,OAK,Win, 31-24,2,1,rush,Rashad Jennings,2013
-36,37,Cowboys,12/09/2013,CHI,Loss, 28-45,1,4,pass,Earl Bennett,2013
-37,38,Cowboys,12/09/2013,CHI,Loss, 28-45,2,7,rush,Josh McCown,2013
-38,39,Cowboys,12/09/2013,CHI,Loss, 28-45,2,25,pass,Alshon Jeffery,2013
-39,40,Cowboys,12/09/2013,CHI,Loss, 28-45,3,4,pass,Matt Forte,2013
-40,41,Cowboys,12/09/2013,CHI,Loss, 28-45,4,17,pass,Michael Bush,2013
-41,42,Cowboys,12/15/2013,GNB,Loss, 36-37,3,13,pass,Jordy Nelson,2013
-42,43,Cowboys,12/15/2013,GNB,Loss, 36-37,3,3,pass,Andrew Quarless,2013
-43,44,Cowboys,12/15/2013,GNB,Loss, 36-37,4,11,pass,James Starks,2013
-44,45,Cowboys,12/15/2013,GNB,Loss, 36-37,4,3,pass,James Jones,2013
-45,46,Cowboys,12/15/2013,GNB,Loss, 36-37,4,1,rush,Eddie Lacy,2013
-46,47,Cowboys,12/22/2013,WAS,Win, 24-23,3,8,pass,Pierre Garcon,2013
-47,48,Cowboys,12/22/2013,WAS,Win, 24-23,3,4,rush,Alfred Morris,2013
-48,49,Cowboys,12/29/2013,PHI,Loss, 22-24,2,3,pass,LeSean McCoy,2013
-49,50,Cowboys,12/29/2013,PHI,Loss, 22-24,2,14,pass,Brent Celek,2013
-50,51,Cowboys,12/29/2013,PHI,Loss, 22-24,4,6,rush,Bryce Brown,2013
+,Rank,Team,Date,Opponent,Win/Loss,Home_Score,Opponenet_Score,Quarter,Distance,Type,Detail
+1,1,Cowboys,2013-09-08,NYG,Win,36,31,2,70,pass,Victor Cruz
+2,2,Cowboys,2013-09-08,NYG,Win,36,31,3,18,pass,Victor Cruz
+3,3,Cowboys,2013-09-08,NYG,Win,36,31,4,10,pass,Victor Cruz
+4,4,Cowboys,2013-09-08,NYG,Win,36,31,4,4,pass,Brandon Myers
+5,5,Cowboys,2013-09-15,KAN,Loss,16,17,1,2,pass,Jamaal Charles
+6,6,Cowboys,2013-09-15,KAN,Loss,16,17,3,12,pass,Dwayne Bowe
+7,7,Cowboys,2013-09-22,STL,Win,31,7,3,4,pass,Austin Pettis
+8,8,Cowboys,2013-09-29,SDG,Loss,21,30,1,26,pass,Danny Woodhead
+9,9,Cowboys,2013-09-29,SDG,Loss,21,30,3,13,pass,Danny Woodhead
+10,10,Cowboys,2013-09-29,SDG,Loss,21,30,4,56,pass,Antonio Gates
+11,11,Cowboys,2013-10-06,DEN,Loss,48,51,1,4,pass,Julius Thomas
+12,12,Cowboys,2013-10-06,DEN,Loss,48,51,2,2,pass,Eric Decker
+13,13,Cowboys,2013-10-06,DEN,Loss,48,51,2,9,pass,Julius Thomas
+14,14,Cowboys,2013-10-06,DEN,Loss,48,51,2,1,rush,Peyton Manning
+15,15,Cowboys,2013-10-06,DEN,Loss,48,51,3,2,pass,Wes Welker
+16,16,Cowboys,2013-10-06,DEN,Loss,48,51,4,1,rush,Knowshon Moreno
+17,17,Cowboys,2013-10-13,WAS,Win,31,16,3,45,rush,Alfred Morris
+18,18,Cowboys,2013-10-27,DET,Loss,30,31,1,2,pass,Calvin Johnson
+19,19,Cowboys,2013-10-27,DET,Loss,30,31,4,1,rush,Joique Bell
+20,20,Cowboys,2013-10-27,DET,Loss,30,31,4,1,rush,Reggie Bush
+21,21,Cowboys,2013-10-27,DET,Loss,30,31,4,1,rush,Matthew Stafford
+22,22,Cowboys,2013-11-03,MIN,Win,27,23,2,6,rush,Christian Ponder
+23,23,Cowboys,2013-11-03,MIN,Win,27,23,3,31,pass,Kyle Rudolph
+24,24,Cowboys,2013-11-03,MIN,Win,27,23,4,11,rush,Adrian Peterson
+25,25,Cowboys,2013-11-10,NOR,Loss,17,49,1,22,pass,Marques Colston
+26,26,Cowboys,2013-11-10,NOR,Loss,17,49,2,1,pass,Pierre Thomas
+27,27,Cowboys,2013-11-10,NOR,Loss,17,49,2,3,rush,Darren Sproles
+28,28,Cowboys,2013-11-10,NOR,Loss,17,49,2,28,pass,Darren Sproles
+29,29,Cowboys,2013-11-10,NOR,Loss,17,49,3,4,rush,Mark Ingram
+30,30,Cowboys,2013-11-10,NOR,Loss,17,49,4,52,pass,Kenny Stills
+31,31,Cowboys,2013-11-10,NOR,Loss,17,49,4,1,rush,Pierre Thomas
+32,32,Cowboys,2013-11-24,NYG,Win,24,21,3,27,pass,Brandon Myers
+33,33,Cowboys,2013-11-24,NYG,Win,24,21,4,4,pass,Louis Murphy
+34,34,Cowboys,2013-11-28,OAK,Win,31,24,1,23,fumble,Greg Jenkins
+35,35,Cowboys,2013-11-28,OAK,Win,31,24,2,1,rush,Rashad Jennings
+36,36,Cowboys,2013-11-28,OAK,Win,31,24,2,1,rush,Rashad Jennings
+37,37,Cowboys,2013-12-09,CHI,Loss,28,45,1,4,pass,Earl Bennett
+38,38,Cowboys,2013-12-09,CHI,Loss,28,45,2,7,rush,Josh McCown
+39,39,Cowboys,2013-12-09,CHI,Loss,28,45,2,25,pass,Alshon Jeffery
+40,40,Cowboys,2013-12-09,CHI,Loss,28,45,3,4,pass,Matt Forte
+41,41,Cowboys,2013-12-09,CHI,Loss,28,45,4,17,pass,Michael Bush
+42,42,Cowboys,2013-12-15,GNB,Loss,36,37,3,13,pass,Jordy Nelson
+43,43,Cowboys,2013-12-15,GNB,Loss,36,37,3,3,pass,Andrew Quarless
+44,44,Cowboys,2013-12-15,GNB,Loss,36,37,4,11,pass,James Starks
+45,45,Cowboys,2013-12-15,GNB,Loss,36,37,4,3,pass,James Jones
+46,46,Cowboys,2013-12-15,GNB,Loss,36,37,4,1,rush,Eddie Lacy
+47,47,Cowboys,2013-12-22,WAS,Win,24,23,3,8,pass,Pierre Garcon
+48,48,Cowboys,2013-12-22,WAS,Win,24,23,3,4,rush,Alfred Morris
+49,49,Cowboys,2013-12-29,PHI,Loss,22,24,2,3,pass,LeSean McCoy
+50,50,Cowboys,2013-12-29,PHI,Loss,22,24,2,14,pass,Brent Celek
+51,51,Cowboys,2013-12-29,PHI,Loss,22,24,4,6,rush,Bryce Brown

@@ -1,55 +1,55 @@
-,Rank,Team,Date,Opponent,Win/Loss,Score,Quarter,Distance,Type,Detail,Year
-0,1,Raiders,09/08/2013,IND,Loss, 17-21,1,12.0,pass,Reggie Wayne,2013
-1,2,Raiders,09/08/2013,IND,Loss, 17-21,2,20.0,pass,Dwayne Allen,2013
-2,3,Raiders,09/08/2013,IND,Loss, 17-21,4,19.0,rush,Andrew Luck,2013
-3,4,Raiders,09/15/2013,JAX,Win, 19-9,4,13.0,pass,Clay Harbor,2013
-4,5,Raiders,09/23/2013,DEN,Loss, 21-37,1,2.0,pass,Eric Decker,2013
-5,6,Raiders,09/23/2013,DEN,Loss, 21-37,2,12.0,pass,Wes Welker,2013
-6,7,Raiders,09/23/2013,DEN,Loss, 21-37,2,13.0,pass,Julius Thomas,2013
-7,8,Raiders,09/23/2013,DEN,Loss, 21-37,4,1.0,rush,Ronnie Hillman,2013
-8,9,Raiders,09/29/2013,WAS,Loss, 14-24,2,45.0,interception,David Amerson,2013
-9,10,Raiders,09/29/2013,WAS,Loss, 14-24,3,5.0,pass,Pierre Garcon,2013
-10,11,Raiders,09/29/2013,WAS,Loss, 14-24,4,14.0,rush,Roy Helu,2013
-11,12,Raiders,10/06/2013,SDG,Win, 27-17,4,5.0,pass,Danny Woodhead,2013
-12,13,Raiders,10/06/2013,SDG,Win, 27-17,4,7.0,pass,Keenan Allen,2013
-13,14,Raiders,10/13/2013,KAN,Loss, 7-24,2,7.0,rush,Jamaal Charles,2013
-14,15,Raiders,10/13/2013,KAN,Loss, 7-24,3,2.0,rush,Jamaal Charles,2013
-15,16,Raiders,10/13/2013,KAN,Loss, 7-24,4,44.0,interception,Husain Abdullah,2013
-16,17,Raiders,10/27/2013,PIT,Win, 21-18,4,9.0,pass,Emmanuel Sanders,2013
-17,18,Raiders,10/27/2013,PIT,Win, 21-18,4,2.0,rush,Le'Veon Bell,2013
-18,19,Raiders,11/03/2013,PHI,Loss, 20-49,1,2.0,pass,Brent Celek,2013
-19,20,Raiders,11/03/2013,PHI,Loss, 20-49,2,17.0,pass,Riley Cooper,2013
-20,21,Raiders,11/03/2013,PHI,Loss, 20-49,2,63.0,pass,Riley Cooper,2013
-21,22,Raiders,11/03/2013,PHI,Loss, 20-49,2,15.0,pass,Zach Ertz,2013
-22,23,Raiders,11/03/2013,PHI,Loss, 20-49,3,25.0,pass,LeSean McCoy,2013
-23,24,Raiders,11/03/2013,PHI,Loss, 20-49,3,46.0,pass,DeSean Jackson,2013
-24,25,Raiders,11/03/2013,PHI,Loss, 20-49,3,5.0,pass,Riley Cooper,2013
-25,26,Raiders,11/10/2013,NYG,Loss, 20-24,1,21.0,blocked punt,Cooper Taylor,2013
-26,27,Raiders,11/10/2013,NYG,Loss, 20-24,2,5.0,pass,Rueben Randle,2013
-27,28,Raiders,11/10/2013,NYG,Loss, 20-24,3,1.0,rush,Andre Brown,2013
-28,29,Raiders,11/17/2013,HOU,Win, 28-23,2,42.0,pass,Garrett Graham,2013
-29,30,Raiders,11/17/2013,HOU,Win, 28-23,2,87.0,punt,Keshawn Martin,2013
-30,31,Raiders,11/24/2013,TEN,Loss, 19-23,3,54.0,pass,Justin Hunter,2013
-31,32,Raiders,11/24/2013,TEN,Loss, 19-23,4,10.0,pass,Kendall Wright,2013
-32,33,Raiders,11/28/2013,DAL,Loss, 24-31,1,2.0,rush,DeMarco Murray,2013
-33,34,Raiders,11/28/2013,DAL,Loss, 24-31,2,4.0,rush,DeMarco Murray,2013
-34,35,Raiders,11/28/2013,DAL,Loss, 24-31,3,4.0,pass,Dez Bryant,2013
-35,36,Raiders,11/28/2013,DAL,Loss, 24-31,4,7.0,rush,DeMarco Murray,2013
-36,37,Raiders,12/08/2013,NYJ,Loss, 27-37,1,25.0,pass,Jeremy Kerley,2013
-37,38,Raiders,12/08/2013,NYJ,Loss, 27-37,2,,blocked punt,Antonio Allen,2013
-38,39,Raiders,12/08/2013,NYJ,Loss, 27-37,3,8.0,rush,Geno Smith,2013
-39,40,Raiders,12/08/2013,NYJ,Loss, 27-37,4,15.0,rush,Chris Ivory,2013
-40,41,Raiders,12/15/2013,KAN,Loss, 31-56,1,49.0,pass,Jamaal Charles,2013
-41,42,Raiders,12/15/2013,KAN,Loss, 31-56,1,39.0,pass,Jamaal Charles,2013
-42,43,Raiders,12/15/2013,KAN,Loss, 31-56,1,47.0,interception,Eric Berry,2013
-43,44,Raiders,12/15/2013,KAN,Loss, 31-56,2,1.0,rush,Jamaal Charles,2013
-44,45,Raiders,12/15/2013,KAN,Loss, 31-56,2,16.0,pass,Jamaal Charles,2013
-45,46,Raiders,12/15/2013,KAN,Loss, 31-56,3,71.0,pass,Jamaal Charles,2013
-46,47,Raiders,12/15/2013,KAN,Loss, 31-56,3,6.0,pass,Sean McGrath,2013
-47,48,Raiders,12/15/2013,KAN,Loss, 31-56,4,17.0,rush,Knile Davis,2013
-48,49,Raiders,12/22/2013,SDG,Loss, 13-26,2,7.0,rush,Ryan Mathews,2013
-49,50,Raiders,12/22/2013,SDG,Loss, 13-26,3,4.0,pass,Keenan Allen,2013
-50,51,Raiders,12/29/2013,DEN,Loss, 14-34,1,3.0,pass,Eric Decker,2013
-51,52,Raiders,12/29/2013,DEN,Loss, 14-34,1,7.0,pass,Knowshon Moreno,2013
-52,53,Raiders,12/29/2013,DEN,Loss, 14-34,2,63.0,pass,Demaryius Thomas,2013
-53,54,Raiders,12/29/2013,DEN,Loss, 14-34,2,5.0,pass,Demaryius Thomas,2013
+,Rank,Team,Date,Opponent,Win/Loss,Home_Score,Opponenet_Score,Quarter,Distance,Type,Detail
+1,1,Raiders,2013-09-08,IND,Loss,17,21,1,12,pass,Reggie Wayne
+2,2,Raiders,2013-09-08,IND,Loss,17,21,2,20,pass,Dwayne Allen
+3,3,Raiders,2013-09-08,IND,Loss,17,21,4,19,rush,Andrew Luck
+4,4,Raiders,2013-09-15,JAX,Win,19,9,4,13,pass,Clay Harbor
+5,5,Raiders,2013-09-23,DEN,Loss,21,37,1,2,pass,Eric Decker
+6,6,Raiders,2013-09-23,DEN,Loss,21,37,2,12,pass,Wes Welker
+7,7,Raiders,2013-09-23,DEN,Loss,21,37,2,13,pass,Julius Thomas
+8,8,Raiders,2013-09-23,DEN,Loss,21,37,4,1,rush,Ronnie Hillman
+9,9,Raiders,2013-09-29,WAS,Loss,14,24,2,45,interception,David Amerson
+10,10,Raiders,2013-09-29,WAS,Loss,14,24,3,5,pass,Pierre Garcon
+11,11,Raiders,2013-09-29,WAS,Loss,14,24,4,14,rush,Roy Helu
+12,12,Raiders,2013-10-06,SDG,Win,27,17,4,5,pass,Danny Woodhead
+13,13,Raiders,2013-10-06,SDG,Win,27,17,4,7,pass,Keenan Allen
+14,14,Raiders,2013-10-13,KAN,Loss,7,24,2,7,rush,Jamaal Charles
+15,15,Raiders,2013-10-13,KAN,Loss,7,24,3,2,rush,Jamaal Charles
+16,16,Raiders,2013-10-13,KAN,Loss,7,24,4,44,interception,Husain Abdullah
+17,17,Raiders,2013-10-27,PIT,Win,21,18,4,9,pass,Emmanuel Sanders
+18,18,Raiders,2013-10-27,PIT,Win,21,18,4,2,rush,Le'Veon Bell
+19,19,Raiders,2013-11-03,PHI,Loss,20,49,1,2,pass,Brent Celek
+20,20,Raiders,2013-11-03,PHI,Loss,20,49,2,17,pass,Riley Cooper
+21,21,Raiders,2013-11-03,PHI,Loss,20,49,2,63,pass,Riley Cooper
+22,22,Raiders,2013-11-03,PHI,Loss,20,49,2,15,pass,Zach Ertz
+23,23,Raiders,2013-11-03,PHI,Loss,20,49,3,25,pass,LeSean McCoy
+24,24,Raiders,2013-11-03,PHI,Loss,20,49,3,46,pass,DeSean Jackson
+25,25,Raiders,2013-11-03,PHI,Loss,20,49,3,5,pass,Riley Cooper
+26,26,Raiders,2013-11-10,NYG,Loss,20,24,1,21,blocked punt,Cooper Taylor
+27,27,Raiders,2013-11-10,NYG,Loss,20,24,2,5,pass,Rueben Randle
+28,28,Raiders,2013-11-10,NYG,Loss,20,24,3,1,rush,Andre Brown
+29,29,Raiders,2013-11-17,HOU,Win,28,23,2,42,pass,Garrett Graham
+30,30,Raiders,2013-11-17,HOU,Win,28,23,2,87,punt,Keshawn Martin
+31,31,Raiders,2013-11-24,TEN,Loss,19,23,3,54,pass,Justin Hunter
+32,32,Raiders,2013-11-24,TEN,Loss,19,23,4,10,pass,Kendall Wright
+33,33,Raiders,2013-11-28,DAL,Loss,24,31,1,2,rush,DeMarco Murray
+34,34,Raiders,2013-11-28,DAL,Loss,24,31,2,4,rush,DeMarco Murray
+35,35,Raiders,2013-11-28,DAL,Loss,24,31,3,4,pass,Dez Bryant
+36,36,Raiders,2013-11-28,DAL,Loss,24,31,4,7,rush,DeMarco Murray
+37,37,Raiders,2013-12-08,NYJ,Loss,27,37,1,25,pass,Jeremy Kerley
+38,38,Raiders,2013-12-08,NYJ,Loss,27,37,2,0,blocked punt,Antonio Allen
+39,39,Raiders,2013-12-08,NYJ,Loss,27,37,3,8,rush,Geno Smith
+40,40,Raiders,2013-12-08,NYJ,Loss,27,37,4,15,rush,Chris Ivory
+41,41,Raiders,2013-12-15,KAN,Loss,31,56,1,49,pass,Jamaal Charles
+42,42,Raiders,2013-12-15,KAN,Loss,31,56,1,39,pass,Jamaal Charles
+43,43,Raiders,2013-12-15,KAN,Loss,31,56,1,47,interception,Eric Berry
+44,44,Raiders,2013-12-15,KAN,Loss,31,56,2,1,rush,Jamaal Charles
+45,45,Raiders,2013-12-15,KAN,Loss,31,56,2,16,pass,Jamaal Charles
+46,46,Raiders,2013-12-15,KAN,Loss,31,56,3,71,pass,Jamaal Charles
+47,47,Raiders,2013-12-15,KAN,Loss,31,56,3,6,pass,Sean McGrath
+48,48,Raiders,2013-12-15,KAN,Loss,31,56,4,17,rush,Knile Davis
+49,49,Raiders,2013-12-22,SDG,Loss,13,26,2,7,rush,Ryan Mathews
+50,50,Raiders,2013-12-22,SDG,Loss,13,26,3,4,pass,Keenan Allen
+51,51,Raiders,2013-12-29,DEN,Loss,14,34,1,3,pass,Eric Decker
+52,52,Raiders,2013-12-29,DEN,Loss,14,34,1,7,pass,Knowshon Moreno
+53,53,Raiders,2013-12-29,DEN,Loss,14,34,2,63,pass,Demaryius Thomas
+54,54,Raiders,2013-12-29,DEN,Loss,14,34,2,5,pass,Demaryius Thomas

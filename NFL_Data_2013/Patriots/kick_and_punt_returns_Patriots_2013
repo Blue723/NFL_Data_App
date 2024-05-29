@@ -1,9 +1,9 @@
-,No.,Team,Player,Age,Position,Games Played,Games Started,Punts Returned,Punts Return Yardage,Punts Returned for Touchdown,Longest Punt Return,Yards per Punt Return,Kickoff Returns,Yardage for Kickoffs Returned,Kickoffs Returned for a Touchdown,Longest Kickoff Return,Yards per Kickoff Return,All-purpose Yards,Year
-0,11,Patriots,Julian Edelman,27,WR,16,11,35,374,0,43,10.7,0,0,0,0,,1441,2013
-1,29,Patriots,LeGarrette Blount,27,RB,16,7,0,0,0,0,,17,494,0,83,29.1,1304,2013
-2,82,Patriots,Josh Boyce,22,WR,9,3,0,0,0,0,,9,214,0,41,23.8,335,2013
-3,32,Patriots,Devin McCourty,26,FS,15,15,0,0,0,0,,7,132,0,27,18.9,176,2013
-4,34,Patriots,Shane Vereen,24,RB,8,1,0,0,0,0,,3,66,0,24,22.0,701,2013
-5,18,Patriots,Matthew Slater,28,WR,12,0,0,0,0,0,,2,10,0,10,5.0,10,2013
-6,80,Patriots,Danny Amendola,28,WR,12,6,1,13,0,13,13.0,0,0,0,0,,647,2013
-7,33,Patriots,Leon Washington,31,RB,2,0,0,0,0,0,,1,19,0,19,19.0,20,2013
+,No.,Player,Age,Position,Games Played,Games Started,Punts Returned,Punts Return Yardage,Punts Returned for Touchdown,Longest Punt Return,Yards per Punt Return,Kickoff Returns,Yardage for Kickoffs Returned,Kickoffs Returned for a Touchdown,Longest Kickoff Return,Yards per Kickoff Return,All-purpose Yards,Team,Year
+11,11,Julian Edelman,27,WR,16,11,35,374,0,43,10.7,0,0,0,0,0.0,1441,Patriots,2013
+29,29,LeGarrette Blount,27,RB,16,7,0,0,0,0,0.0,17,494,0,83,29.1,1304,Patriots,2013
+82,82,Josh Boyce,22,WR,9,3,0,0,0,0,0.0,9,214,0,41,23.8,335,Patriots,2013
+32,32,Devin McCourty,26,FS,15,15,0,0,0,0,0.0,7,132,0,27,18.9,176,Patriots,2013
+34,34,Shane Vereen,24,RB,8,1,0,0,0,0,0.0,3,66,0,24,22.0,701,Patriots,2013
+18,18,Matthew Slater,28,WR,12,0,0,0,0,0,0.0,2,10,0,10,5.0,10,Patriots,2013
+80,80,Danny Amendola,28,WR,12,6,1,13,0,13,13.0,0,0,0,0,0.0,647,Patriots,2013
+33,33,Leon Washington,31,RB,2,0,0,0,0,0,0.0,1,19,0,19,19.0,20,Patriots,2013
