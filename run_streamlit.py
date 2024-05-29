@@ -198,9 +198,9 @@ with st.expander(f'Compare All Teams in {select_year}'):
         if select_table == 'Touchdown Log' or select_table == 'Opponent Touchdown Log':
             df_grpby = year_df.groupby(by='Team', as_index=False)[['Team', select_column]].value_counts()
 
-            fig3 = px.bar(
+            fig3 = px.line(
                 df_grpby,
-                x='Team',
+                x='Date',
                 y='count',
                 barmode='relative',
                 color=select_column
