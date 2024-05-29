@@ -1,46 +1,46 @@
-,Rank,Team,Date,Opponent,Win/Loss,Score,Quarter,Distance,Type,Detail,Year
-0,1,Ravens,09/13/2015,DEN,Loss, 13-19,3,51,interception,Aqib Talib,2015
-1,2,Ravens,09/20/2015,OAK,Loss, 33-37,1,68,pass,Amari Cooper,2015
-2,3,Ravens,09/20/2015,OAK,Loss, 33-37,2,1,rush,Latavius Murray,2015
-3,4,Ravens,09/20/2015,OAK,Loss, 33-37,3,29,pass,Michael Crabtree,2015
-4,5,Ravens,09/20/2015,OAK,Loss, 33-37,4,12,pass,Seth Roberts,2015
-5,6,Ravens,09/27/2015,CIN,Loss, 24-28,1,7,rush,Andy Dalton,2015
-6,7,Ravens,09/27/2015,CIN,Loss, 24-28,2,16,pass,Marvin Jones,2015
-7,8,Ravens,09/27/2015,CIN,Loss, 24-28,4,80,pass,A.J. Green,2015
-8,9,Ravens,09/27/2015,CIN,Loss, 24-28,4,7,pass,A.J. Green,2015
-9,10,Ravens,10/01/2015,PIT,Win, 23-20,2,11,rush,Le'Veon Bell,2015
-10,11,Ravens,10/01/2015,PIT,Win, 23-20,3,9,pass,Darrius Heyward-Bey,2015
-11,12,Ravens,10/11/2015,CLE,Loss, 30-33,3,10,rush,Josh McCown,2015
-12,13,Ravens,10/11/2015,CLE,Loss, 30-33,4,18,pass,Gary Barnidge,2015
-13,14,Ravens,10/11/2015,CLE,Loss, 30-33,4,22,pass,Isaiah Crowell,2015
-14,15,Ravens,10/18/2015,SFO,Loss, 20-25,2,76,pass,Torrey Smith,2015
-15,16,Ravens,10/18/2015,SFO,Loss, 20-25,4,21,pass,Quinton Patton,2015
-16,17,Ravens,10/26/2015,ARI,Loss, 18-26,1,26,rush,Chris Johnson,2015
-17,18,Ravens,10/26/2015,ARI,Loss, 18-26,2,3,pass,Michael Floyd,2015
-18,19,Ravens,10/26/2015,ARI,Loss, 18-26,4,4,pass,John Brown,2015
-19,20,Ravens,11/01/2015,SDG,Win, 29-26,2,9,pass,Malcom Floyd,2015
-20,21,Ravens,11/01/2015,SDG,Win, 29-26,2,13,pass,Keenan Allen,2015
-21,22,Ravens,11/01/2015,SDG,Win, 29-26,3,70,pass,Malcom Floyd,2015
-22,23,Ravens,11/15/2015,JAX,Loss, 20-22,1,5,pass,Allen Hurns,2015
-23,24,Ravens,11/15/2015,JAX,Loss, 20-22,4,15,pass,Allen Robinson,2015
-24,25,Ravens,11/22/2015,STL,Win, 16-13,1,1,rush,Todd Gurley,2015
-25,26,Ravens,11/22/2015,STL,Win, 16-13,3,30,pass,Lance Kendricks,2015
-26,27,Ravens,11/30/2015,CLE,Win, 33-27,2,10,pass,Marlon Moore,2015
-27,28,Ravens,11/30/2015,CLE,Win, 33-27,3,52,interception,Karlos Dansby,2015
-28,29,Ravens,11/30/2015,CLE,Win, 33-27,4,42,pass,Travis Benjamin,2015
-29,30,Ravens,12/06/2015,MIA,Loss, 13-15,2,38,pass,DeVante Parker,2015
-30,31,Ravens,12/06/2015,MIA,Loss, 13-15,2,22,interception,Derrick Shelby,2015
-31,32,Ravens,12/13/2015,SEA,Loss, 6-35,1,8,pass,Tyler Lockett,2015
-32,33,Ravens,12/13/2015,SEA,Loss, 6-35,2,14,pass,Doug Baldwin,2015
-33,34,Ravens,12/13/2015,SEA,Loss, 6-35,3,22,pass,Doug Baldwin,2015
-34,35,Ravens,12/13/2015,SEA,Loss, 6-35,4,49,pass,Tyler Lockett,2015
-35,36,Ravens,12/13/2015,SEA,Loss, 6-35,4,16,pass,Doug Baldwin,2015
-36,37,Ravens,12/20/2015,KAN,Loss, 14-34,1,38,rush,Charcandrick West,2015
-37,38,Ravens,12/20/2015,KAN,Loss, 14-34,1,73,fumble,Tyvon Branch,2015
-38,39,Ravens,12/20/2015,KAN,Loss, 14-34,2,13,pass,Jeremy Maclin,2015
-39,40,Ravens,12/20/2015,KAN,Loss, 14-34,4,90,interception,Marcus Peters,2015
-40,41,Ravens,12/27/2015,PIT,Win, 20-17,3,1,rush,DeAngelo Williams,2015
-41,42,Ravens,12/27/2015,PIT,Win, 20-17,4,2,rush,DeAngelo Williams,2015
-42,43,Ravens,01/03/2016,CIN,Loss, 16-24,2,22,pass,Tyler Eifert,2015
-43,44,Ravens,01/03/2016,CIN,Loss, 16-24,3,5,pass,A.J. Green,2015
-44,45,Ravens,01/03/2016,CIN,Loss, 16-24,3,38,rush,Jeremy Hill,2015
+,Rank,Team,Date,Opponent,Win/Loss,Home_Score,Opponenet_Score,Quarter,Distance,Type,Detail
+1,1,Ravens,2015-09-13,DEN,Loss,13,19,3,51,interception,Aqib Talib
+2,2,Ravens,2015-09-20,OAK,Loss,33,37,1,68,pass,Amari Cooper
+3,3,Ravens,2015-09-20,OAK,Loss,33,37,2,1,rush,Latavius Murray
+4,4,Ravens,2015-09-20,OAK,Loss,33,37,3,29,pass,Michael Crabtree
+5,5,Ravens,2015-09-20,OAK,Loss,33,37,4,12,pass,Seth Roberts
+6,6,Ravens,2015-09-27,CIN,Loss,24,28,1,7,rush,Andy Dalton
+7,7,Ravens,2015-09-27,CIN,Loss,24,28,2,16,pass,Marvin Jones
+8,8,Ravens,2015-09-27,CIN,Loss,24,28,4,80,pass,A.J. Green
+9,9,Ravens,2015-09-27,CIN,Loss,24,28,4,7,pass,A.J. Green
+10,10,Ravens,2015-10-01,PIT,Win,23,20,2,11,rush,Le'Veon Bell
+11,11,Ravens,2015-10-01,PIT,Win,23,20,3,9,pass,Darrius Heyward-Bey
+12,12,Ravens,2015-10-11,CLE,Loss,30,33,3,10,rush,Josh McCown
+13,13,Ravens,2015-10-11,CLE,Loss,30,33,4,18,pass,Gary Barnidge
+14,14,Ravens,2015-10-11,CLE,Loss,30,33,4,22,pass,Isaiah Crowell
+15,15,Ravens,2015-10-18,SFO,Loss,20,25,2,76,pass,Torrey Smith
+16,16,Ravens,2015-10-18,SFO,Loss,20,25,4,21,pass,Quinton Patton
+17,17,Ravens,2015-10-26,ARI,Loss,18,26,1,26,rush,Chris Johnson
+18,18,Ravens,2015-10-26,ARI,Loss,18,26,2,3,pass,Michael Floyd
+19,19,Ravens,2015-10-26,ARI,Loss,18,26,4,4,pass,John Brown
+20,20,Ravens,2015-11-01,SDG,Win,29,26,2,9,pass,Malcom Floyd
+21,21,Ravens,2015-11-01,SDG,Win,29,26,2,13,pass,Keenan Allen
+22,22,Ravens,2015-11-01,SDG,Win,29,26,3,70,pass,Malcom Floyd
+23,23,Ravens,2015-11-15,JAX,Loss,20,22,1,5,pass,Allen Hurns
+24,24,Ravens,2015-11-15,JAX,Loss,20,22,4,15,pass,Allen Robinson
+25,25,Ravens,2015-11-22,STL,Win,16,13,1,1,rush,Todd Gurley
+26,26,Ravens,2015-11-22,STL,Win,16,13,3,30,pass,Lance Kendricks
+27,27,Ravens,2015-11-30,CLE,Win,33,27,2,10,pass,Marlon Moore
+28,28,Ravens,2015-11-30,CLE,Win,33,27,3,52,interception,Karlos Dansby
+29,29,Ravens,2015-11-30,CLE,Win,33,27,4,42,pass,Travis Benjamin
+30,30,Ravens,2015-12-06,MIA,Loss,13,15,2,38,pass,DeVante Parker
+31,31,Ravens,2015-12-06,MIA,Loss,13,15,2,22,interception,Derrick Shelby
+32,32,Ravens,2015-12-13,SEA,Loss,6,35,1,8,pass,Tyler Lockett
+33,33,Ravens,2015-12-13,SEA,Loss,6,35,2,14,pass,Doug Baldwin
+34,34,Ravens,2015-12-13,SEA,Loss,6,35,3,22,pass,Doug Baldwin
+35,35,Ravens,2015-12-13,SEA,Loss,6,35,4,49,pass,Tyler Lockett
+36,36,Ravens,2015-12-13,SEA,Loss,6,35,4,16,pass,Doug Baldwin
+37,37,Ravens,2015-12-20,KAN,Loss,14,34,1,38,rush,Charcandrick West
+38,38,Ravens,2015-12-20,KAN,Loss,14,34,1,73,fumble,Tyvon Branch
+39,39,Ravens,2015-12-20,KAN,Loss,14,34,2,13,pass,Jeremy Maclin
+40,40,Ravens,2015-12-20,KAN,Loss,14,34,4,90,interception,Marcus Peters
+41,41,Ravens,2015-12-27,PIT,Win,20,17,3,1,rush,DeAngelo Williams
+42,42,Ravens,2015-12-27,PIT,Win,20,17,4,2,rush,DeAngelo Williams
+43,43,Ravens,2016-01-03,CIN,Loss,16,24,2,22,pass,Tyler Eifert
+44,44,Ravens,2016-01-03,CIN,Loss,16,24,3,5,pass,A.J. Green
+45,45,Ravens,2016-01-03,CIN,Loss,16,24,3,38,rush,Jeremy Hill

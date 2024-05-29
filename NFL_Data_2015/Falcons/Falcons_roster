@@ -1,63 +1,63 @@
-Player,No.,Team,Age,Pos,G,GS,Wt,Ht,College/Univ,BirthDate,Yrs,AV,Drafted (tm/rnd/yr)
-Phillip Adams,20.0,Falcons,27.0,DB,13,3.0,193.0,6-0,South Carolina St.,7/20/1988,5,2.0,San Francisco 49ers / 7th / 224th pick / 2010
-Robert Alford,23.0,Falcons,27.0,LCB,15,15.0,186.0,5-10,Southeastern Louisiana,10/31/1988,2,6.0,Atlanta Falcons / 2nd / 60th pick / 2013
-Ricardo Allen,37.0,Falcons,24.0,SS,15,14.0,186.0,5-9,Purdue,12/18/1991,Rook,6.0,Atlanta Falcons / 5th / 147th pick / 2014
-Jonathan Babineaux,95.0,Falcons,34.0,DT,16,4.0,300.0,6-2,Iowa,10/12/1981,10,3.0,Atlanta Falcons / 2nd / 59th pick / 2005
-Joplo Bartu,59.0,Falcons,25.0,LB,7,1.0,230.0,6-2,Texas St.,10/3/1990,2,1.0,
-Vic Beasley,44.0,Falcons,23.0,LDE,16,16.0,246.0,6-3,Clemson,7/8/1992,Rook,7.0,Atlanta Falcons / 1st / 8th pick / 2015
-Kroy Biermann,71.0,Falcons,30.0,LB,16,0.0,242.0,6-3,Montana,9/12/1985,7,2.0,Atlanta Falcons / 5th / 154th pick / 2008
-Matthew Bosher,5.0,Falcons,28.0,K,16,0.0,208.0,6-0,Miami (FL),10/18/1987,4,2.0,Atlanta Falcons / 6th / 192nd pick / 2011
-Allen Bradford,53.0,Falcons,27.0,RB,6,0.0,235.0,5-11,USC,8/31/1988,4,0.0,Tampa Bay Buccaneers / 6th / 187th pick / 2011
-Matt Bryant,3.0,Falcons,40.0,K,10,0.0,203.0,5-9,Baylor,5/29/1975,13,1.0,
-Chris Chester,65.0,Falcons,32.0,RG,16,16.0,303.0,6-3,Oklahoma,1/12/1983,9,7.0,Baltimore Ravens / 2nd / 56th pick / 2006
-Adrian Clayborn,99.0,Falcons,27.0,DE,16,4.0,280.0,6-3,Iowa,7/6/1988,4,3.0,Tampa Bay Buccaneers / 1st / 20th pick / 2011
-Tevin Coleman,26.0,Falcons,22.0,RB,12,3.0,210.0,6-1,Indiana,4/16/1993,Rook,3.0,Atlanta Falcons / 3rd / 73rd pick / 2015
-Jalen Collins,32.0,Falcons,22.0,DB,16,2.0,203.0,6-1,LSU,3/20/1993,Rook,2.0,Atlanta Falcons / 2nd / 42nd pick / 2015
-Patrick DiMarco,42.0,Falcons,26.0,RB,16,8.0,234.0,6-1,South Carolina,4/30/1989,3,1.0,
-Justin Durant,52.0,Falcons,30.0,RILB,13,12.0,230.0,6-4,Hampton,9/21/1985,8,5.0,Jacksonville Jaguars / 2nd / 48th pick / 2007
-Devonta Freeman,24.0,Falcons,23.0,RB,15,13.0,206.0,5-8,Florida St.,3/15/1992,1,12.0,Atlanta Falcons / 4th / 103rd pick / 2014
-Charles Godfrey,30.0,Falcons,30.0,DB,8,0.0,207.0,6-0,Iowa,11/15/1985,7,0.0,Carolina Panthers / 3rd / 67th pick / 2008
-Malliciah Goodman,93.0,Falcons,25.0,DE,4,0.0,276.0,6-4,Clemson,1/4/1990,2,0.0,Atlanta Falcons / 4th / 127th pick / 2013
-Gino Gradkowski,66.0,Falcons,27.0,G,3,1.0,300.0,6-3,Delaware,11/5/1988,3,1.0,Baltimore Ravens / 4th / 98th pick / 2012
-Shayne Graham,6.0,Falcons,38.0,K,5,0.0,210.0,6-0,Virginia Tech,12/9/1977,14,1.0,
-Ra'Shede Hageman,77.0,Falcons,25.0,NT,16,12.0,318.0,6-6,Minnesota,8/8/1990,1,5.0,Atlanta Falcons / 2nd / 37th pick / 2014
-Leonard Hankerson,85.0,Falcons,26.0,WR,8,0.0,205.0,6-1,Miami (FL),1/30/1989,4,3.0,Washington Redskins / 3rd / 79th pick / 2011
-Justin Hardy,16.0,Falcons,24.0,WR,9,1.0,192.0,5-10,East Carolina,12/18/1991,Rook,2.0,Atlanta Falcons / 4th / 107th pick / 2015
-Bryce Harris,72.0,Falcons,26.0,T,1,0.0,300.0,6-6,Fresno St.,1/16/1989,3,0.0,
-Josh Harris,47.0,Falcons,26.0,LS,16,0.0,224.0,6-1,Auburn,4/27/1989,3,1.0,
-Devin Hester,17.0,Falcons,33.0,DB,5,0.0,190.0,5-11,Miami (FL),11/4/1982,9,0.0,Chicago Bears / 2nd / 57th pick / 2006
-Kemal Ishmael,36.0,Falcons,24.0,FS,16,5.0,206.0,6-0,Central Florida,5/6/1991,2,3.0,Atlanta Falcons / 7th / 243rd pick / 2013
-Tyson Jackson,94.0,Falcons,29.0,LOLB,16,12.0,295.0,6-4,LSU,6/6/1986,6,5.0,Kansas City Chiefs / 1st / 3rd pick / 2009
-Grady Jarrett,97.0,Falcons,22.0,DT,15,2.0,305.0,6-0,Clemson,4/28/1993,Rook,2.0,Atlanta Falcons / 5th / 137th pick / 2015
-Julio Jones,11.0,Falcons,26.0,WR,16,16.0,220.0,6-3,Alabama,2/8/1989,4,16.0,Atlanta Falcons / 1st / 6th pick / 2011
-Akeem King,28.0,Falcons,23.0,DB,5,0.0,215.0,6-1,San Jose St.,8/29/1992,Rook,0.0,Atlanta Falcons / 7th / 249th pick / 2015
-Andy Levitre,67.0,Falcons,29.0,LG,16,16.0,303.0,6-2,Oregon St.,5/15/1986,6,7.0,Buffalo Bills / 2nd / 51st pick / 2009
-Jake Long,75.0,Falcons,30.0,T,4,0.0,315.0,6-7,Michigan,5/9/1985,7,0.0,Miami Dolphins / 1st / 1st pick / 2008
-Jake Matthews,70.0,Falcons,23.0,LT,16,16.0,309.0,6-5,Texas A&M,2/11/1992,1,7.0,Atlanta Falcons / 1st / 6th pick / 2014
-Joey Mbu,74.0,Falcons,22.0,DT,2,0.0,330.0,6-3,Houston,3/28/1993,Rook,0.0,
-Tony Moeaki,81.0,Falcons,28.0,TE,11,0.0,250.0,6-4,Iowa,6/8/1987,5,0.0,Kansas City Chiefs / 3rd / 93rd pick / 2010
-William Moore,25.0,Falcons,30.0,FS,11,11.0,223.0,6-0,Missouri,5/18/1985,6,4.0,Atlanta Falcons / 2nd / 55th pick / 2009
-Michael Person,68.0,Falcons,27.0,C,14,14.0,300.0,6-4,Montana St.,5/17/1988,2,6.0,San Francisco 49ers / 7th / 239th pick / 2011
-Tyler Polumbus,79.0,Falcons,30.0,G,3,0.0,302.0,6-7,Colorado,4/10/1985,7,0.0,
-Brooks Reed,56.0,Falcons,28.0,RILB,13,5.0,254.0,6-3,Arizona,2/28/1987,4,2.0,Houston Texans / 2nd / 42nd pick / 2011
-Sean Renfree,12.0,Falcons,25.0,QB,2,0.0,219.0,6-3,Duke,4/28/1990,Rook,0.0,Atlanta Falcons / 7th / 249th pick / 2013
-Matt Ryan,2.0,Falcons,30.0,QB,16,16.0,217.0,6-4,Boston Col.,5/17/1985,7,14.0,Atlanta Falcons / 1st / 3rd pick / 2008
-O'Brien Schofield,50.0,Falcons,28.0,ROLB,16,10.0,238.0,6-2,Wisconsin,4/3/1987,5,4.0,Arizona Cardinals / 4th / 130th pick / 2010
-Ryan Schraeder,73.0,Falcons,27.0,RT,16,16.0,300.0,6-7,Valdosta St.,5/4/1988,2,7.0,
-Mickey Shuler,82.0,Falcons,29.0,TE,1,0.0,242.0,6-4,Penn St.,10/9/1986,5,0.0,Minnesota Vikings / 7th / 214th pick / 2010
-Paul Soliai,96.0,Falcons,32.0,RDE,14,10.0,344.0,6-4,Utah,12/30/1983,8,5.0,Miami Dolphins / 4th / 108th pick / 2007
-Dezmen Southward,22.0,Falcons,25.0,DB,3,0.0,208.0,6-2,Wisconsin,10/1/1990,1,0.0,Atlanta Falcons / 3rd / 68th pick / 2014
-Tyler Starr,41.0,Falcons,24.0,LB,1,0.0,250.0,6-4,South Dakota,1/25/1991,Rook,0.0,Atlanta Falcons / 7th / 255th pick / 2014
-James Stone,62.0,Falcons,23.0,G,7,1.0,290.0,6-3,Tennessee,4/26/1992,1,1.0,
-Nathan Stupar,54.0,Falcons,27.0,LB,16,3.0,240.0,6-2,Penn St.,3/14/1988,2,3.0,Oakland Raiders / 7th / 230th pick / 2012
-Jacob Tamme,83.0,Falcons,30.0,TE,15,8.0,234.0,6-4,Kentucky,3/15/1985,7,6.0,Indianapolis Colts / 4th / 127th pick / 2008
-Robenson Therezie,27.0,Falcons,24.0,DB,13,2.0,208.0,5-9,Auburn,8/5/1991,Rook,2.0,
-Levine Toilolo,80.0,Falcons,24.0,TE,16,15.0,268.0,6-8,Stanford,7/30/1991,2,0.0,Atlanta Falcons / 4th / 133rd pick / 2013
-Desmond Trufant,21.0,Falcons,25.0,RCB,16,16.0,190.0,6-0,Washington,9/10/1990,2,10.0,Atlanta Falcons / 1st / 22nd pick / 2013
-Terron Ward,33.0,Falcons,23.0,RB,13,0.0,201.0,5-7,Oregon St.,2/15/1992,Rook,1.0,
-Eric Weems,14.0,Falcons,30.0,WR,16,0.0,195.0,5-9,Bethune-Cookman,7/4/1985,8,0.0,
-Philip Wheeler,51.0,Falcons,31.0,LB,9,2.0,245.0,6-2,Georgia Tech,12/12/1984,7,2.0,Indianapolis Colts / 3rd / 93rd pick / 2008
-Roddy White,84.0,Falcons,34.0,WR,16,16.0,211.0,6-0,Ala-Birmingham,11/2/1981,10,4.0,Atlanta Falcons / 1st / 27th pick / 2005
-Nick Williams,15.0,Falcons,25.0,WR,14,0.0,184.0,5-10,Connecticut,11/23/1990,2,1.0,
-Paul Worrilow,55.0,Falcons,25.0,LILB,15,15.0,230.0,6-0,Delaware,5/1/1990,2,7.0,
-Team Total,,Falcons,27.2,,16,,243.6,6-1.8,,,3.9,,
+,No.,Player,BirthDate,Age,Height,Weight,College/University,Position,Games_Played_in_Season,Games_Started_in_Season,NFL_Years,Player_Value,Team,Year
+0,20.0,Phillip Adams,7/20/1988,27.0,6-0,193.0,South Carolina St.,DB,13,3.0,5.0,2.0,Falcons,2015
+1,23.0,Robert Alford,11/1/1988,27.0,5-10,186.0,Southeastern Louisiana,LCB,15,15.0,2.0,6.0,Falcons,2015
+2,37.0,Ricardo Allen,12/18/1991,24.0,5-9,186.0,Purdue,SS,15,14.0,0.0,6.0,Falcons,2015
+3,95.0,Jonathan Babineaux,10/12/1981,34.0,6-2,300.0,Iowa,DT,16,4.0,10.0,3.0,Falcons,2015
+4,59.0,Joplo Bartu,10/3/1990,25.0,6-2,230.0,Texas St.,LB,7,1.0,2.0,1.0,Falcons,2015
+5,44.0,Vic Beasley,7/8/1992,23.0,6-3,246.0,Clemson,LDE,16,16.0,0.0,7.0,Falcons,2015
+6,71.0,Kroy Biermann,9/12/1985,30.0,6-3,242.0,Montana,LB,16,0.0,7.0,2.0,Falcons,2015
+7,5.0,Matthew Bosher,10/18/1987,28.0,6-0,208.0,Miami (FL),P,16,0.0,4.0,2.0,Falcons,2015
+8,53.0,Allen Bradford,8/31/1988,27.0,5-11,235.0,USC,RB,6,0.0,4.0,0.0,Falcons,2015
+9,3.0,Matt Bryant,5/29/1975,40.0,5-9,203.0,Baylor,K,10,0.0,13.0,1.0,Falcons,2015
+10,65.0,Chris Chester,1/12/1983,32.0,6-3,303.0,Oklahoma,RG,16,16.0,9.0,7.0,Falcons,2015
+11,99.0,Adrian Clayborn,7/6/1988,27.0,6-3,280.0,Iowa,DE,16,4.0,4.0,3.0,Falcons,2015
+12,26.0,Tevin Coleman,4/16/1993,22.0,6-1,210.0,Indiana,RB,12,3.0,0.0,3.0,Falcons,2015
+13,32.0,Jalen Collins,3/20/1993,22.0,6-1,203.0,LSU,DB,16,2.0,0.0,2.0,Falcons,2015
+14,42.0,Patrick DiMarco,4/30/1989,26.0,6-1,234.0,South Carolina,RB,16,8.0,3.0,1.0,Falcons,2015
+15,52.0,Justin Durant,9/21/1985,30.0,6-4,230.0,Hampton,RILB,13,12.0,8.0,5.0,Falcons,2015
+16,24.0,Devonta Freeman,3/15/1992,23.0,5-8,206.0,Florida St.,RB,15,13.0,1.0,12.0,Falcons,2015
+17,30.0,Charles Godfrey,11/15/1985,30.0,6-0,207.0,Iowa,DB,8,0.0,7.0,0.0,Falcons,2015
+18,93.0,Malliciah Goodman,1/4/1990,25.0,6-4,276.0,Clemson,DE,4,0.0,2.0,0.0,Falcons,2015
+19,66.0,Gino Gradkowski,11/5/1988,27.0,6-3,300.0,Delaware,G,3,1.0,3.0,1.0,Falcons,2015
+20,6.0,Shayne Graham,12/9/1977,38.0,6-0,210.0,Virginia Tech,K,5,0.0,14.0,1.0,Falcons,2015
+21,77.0,Ra'Shede Hageman,8/8/1990,25.0,6-6,318.0,Minnesota,NT,16,12.0,1.0,5.0,Falcons,2015
+22,85.0,Leonard Hankerson,1/30/1989,26.0,6-1,205.0,Miami (FL),WR,8,0.0,4.0,3.0,Falcons,2015
+23,16.0,Justin Hardy,12/18/1991,24.0,5-10,192.0,East Carolina,WR,9,1.0,0.0,2.0,Falcons,2015
+24,72.0,Bryce Harris,1/16/1989,26.0,6-6,300.0,Fresno St.,T,1,0.0,3.0,0.0,Falcons,2015
+25,47.0,Josh Harris,4/27/1989,26.0,6-1,224.0,Auburn,DB,16,0.0,3.0,1.0,Falcons,2015
+26,17.0,Devin Hester,11/4/1982,33.0,5-11,190.0,Miami (FL),WR,5,0.0,9.0,0.0,Falcons,2015
+27,36.0,Kemal Ishmael,5/6/1991,24.0,6-0,206.0,Central Florida,FS,16,5.0,2.0,3.0,Falcons,2015
+28,94.0,Tyson Jackson,6/6/1986,29.0,6-4,295.0,LSU,LOLB,16,12.0,6.0,5.0,Falcons,2015
+29,97.0,Grady Jarrett,4/28/1993,22.0,6-0,305.0,Clemson,DT,15,2.0,0.0,2.0,Falcons,2015
+30,11.0,Julio Jones,2/3/1989,26.0,6-3,220.0,Alabama,WR,16,16.0,4.0,16.0,Falcons,2015
+31,28.0,Akeem King,8/29/1992,23.0,6-1,215.0,San Jose St.,DB,5,0.0,0.0,0.0,Falcons,2015
+32,67.0,Andy Levitre,5/15/1986,29.0,6-2,303.0,Oregon St.,LG,16,16.0,6.0,7.0,Falcons,2015
+33,75.0,Jake Long,5/9/1985,30.0,6-7,315.0,Michigan,T,4,0.0,7.0,0.0,Falcons,2015
+34,70.0,Jake Matthews,2/11/1992,23.0,6-5,309.0,Texas A&M,LT,16,16.0,1.0,7.0,Falcons,2015
+35,74.0,Joey Mbu,3/28/1993,22.0,6-3,330.0,Houston,DT,2,0.0,0.0,0.0,Falcons,2015
+36,81.0,Tony Moeaki,6/8/1987,28.0,6-4,250.0,Iowa,TE,11,0.0,5.0,0.0,Falcons,2015
+37,25.0,William Moore,5/18/1985,30.0,6-0,223.0,Missouri,FS,11,11.0,6.0,4.0,Falcons,2015
+38,68.0,Michael Person,5/17/1988,27.0,6-4,300.0,Montana St.,C,14,14.0,2.0,6.0,Falcons,2015
+39,79.0,Tyler Polumbus,4/10/1985,30.0,6-7,302.0,Colorado,T,3,0.0,7.0,0.0,Falcons,2015
+40,56.0,Brooks Reed,2/28/1987,28.0,6-3,254.0,Arizona,RILB,13,5.0,4.0,2.0,Falcons,2015
+41,12.0,Sean Renfree,4/28/1990,25.0,6-3,219.0,Duke,QB,2,0.0,0.0,0.0,Falcons,2015
+42,2.0,Matt Ryan,5/17/1985,30.0,6-4,217.0,Boston Col.,QB,16,16.0,7.0,14.0,Falcons,2015
+43,50.0,O'Brien Schofield,4/3/1987,28.0,6-2,238.0,Wisconsin,ROLB,16,10.0,5.0,4.0,Falcons,2015
+44,73.0,Ryan Schraeder,5/4/1988,27.0,6-7,300.0,Valdosta St.,RT,16,16.0,2.0,7.0,Falcons,2015
+45,82.0,Mickey Shuler,10/9/1986,29.0,6-4,242.0,Penn St.,TE,1,0.0,5.0,0.0,Falcons,2015
+46,96.0,Paul Soliai,12/30/1983,32.0,6-4,344.0,Utah,RDE,14,10.0,8.0,5.0,Falcons,2015
+47,22.0,Dezmen Southward,10/1/1990,25.0,6-2,208.0,Wisconsin,DB,3,0.0,1.0,0.0,Falcons,2015
+48,41.0,Tyler Starr,1/25/1991,24.0,6-4,250.0,South Dakota,LB,1,0.0,0.0,0.0,Falcons,2015
+49,62.0,James Stone,4/26/1992,23.0,6-3,290.0,Tennessee,G,7,1.0,1.0,1.0,Falcons,2015
+50,54.0,Nathan Stupar,3/14/1988,27.0,6-2,240.0,Penn St.,LB,16,3.0,2.0,3.0,Falcons,2015
+51,83.0,Jacob Tamme,3/15/1985,30.0,6-4,234.0,Kentucky,TE,15,8.0,7.0,6.0,Falcons,2015
+52,27.0,Robenson Therezie,8/5/1991,24.0,5-9,208.0,Auburn,DB,13,2.0,0.0,2.0,Falcons,2015
+53,80.0,Levine Toilolo,7/30/1991,24.0,6-8,268.0,Stanford,TE,16,15.0,2.0,0.0,Falcons,2015
+54,21.0,Desmond Trufant,9/10/1990,25.0,6-0,190.0,Washington,RCB,16,16.0,2.0,10.0,Falcons,2015
+55,33.0,Terron Ward,2/15/1992,23.0,5-7,201.0,Oregon St.,RB,13,0.0,0.0,1.0,Falcons,2015
+56,14.0,Eric Weems,7/4/1985,30.0,5-9,195.0,Bethune-Cookman,WR,16,0.0,8.0,0.0,Falcons,2015
+57,51.0,Philip Wheeler,12/12/1984,31.0,6-2,245.0,Georgia Tech,LB,9,2.0,7.0,2.0,Falcons,2015
+58,84.0,Roddy White,11/2/1981,34.0,6-0,211.0,Ala-Birmingham,WR,16,16.0,10.0,4.0,Falcons,2015
+59,15.0,Nick Williams,11/23/1990,25.0,5-10,184.0,Connecticut,WR,14,0.0,2.0,1.0,Falcons,2015
+60,55.0,Paul Worrilow,5/1/1990,25.0,6-0,230.0,Delaware,LILB,15,15.0,2.0,7.0,Falcons,2015
+61,,Team Total,,27.2,6-1.8,243.6,,,16,,3.9,,Falcons,2015

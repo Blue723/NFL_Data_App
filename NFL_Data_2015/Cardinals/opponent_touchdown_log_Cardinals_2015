@@ -1,35 +1,35 @@
-,Rank,Team,Date,Opponent,Win/Loss,Score,Quarter,Distance,Type,Detail,Year
-0,1,Cardinals,09/13/2015,NOR,Win, 31-19,2,12,pass,Brandon Coleman,2015
-1,2,Cardinals,09/20/2015,CHI,Win, 48-23,1,48,pass,Josh Bellamy,2015
-2,3,Cardinals,09/20/2015,CHI,Win, 48-23,2,1,rush,Jeremy Langford,2015
-3,4,Cardinals,09/27/2015,SFO,Win, 47-7,2,12,rush,Colin Kaepernick,2015
-4,5,Cardinals,10/04/2015,STL,Loss, 22-24,1,12,pass,Tavon Austin,2015
-5,6,Cardinals,10/04/2015,STL,Loss, 22-24,3,18,pass,Stedman Bailey,2015
-6,7,Cardinals,10/04/2015,STL,Loss, 22-24,4,12,pass,Tavon Austin,2015
-7,8,Cardinals,10/11/2015,DET,Win, 42-17,1,6,pass,Theo Riddick,2015
-8,9,Cardinals,10/11/2015,DET,Win, 42-17,4,13,pass,Lance Moore,2015
-9,10,Cardinals,10/18/2015,PIT,Loss, 13-25,3,8,pass,Martavis Bryant,2015
-10,11,Cardinals,10/18/2015,PIT,Loss, 13-25,4,88,pass,Martavis Bryant,2015
-11,12,Cardinals,10/26/2015,BAL,Win, 26-18,2,14,rush,Justin Forsett,2015
-12,13,Cardinals,10/26/2015,BAL,Win, 26-18,4,1,pass,Kyle Juszczyk,2015
-13,14,Cardinals,11/01/2015,CLE,Win, 34-20,1,10,pass,Brian Hartline,2015
-14,15,Cardinals,11/01/2015,CLE,Win, 34-20,2,3,pass,Gary Barnidge,2015
-15,16,Cardinals,11/01/2015,CLE,Win, 34-20,2,2,pass,Brian Hartline,2015
-16,17,Cardinals,11/15/2015,SEA,Win, 39-32,2,1,rush,Will Tukuafu,2015
-17,18,Cardinals,11/15/2015,SEA,Win, 39-32,3,32,pass,Doug Baldwin,2015
-18,19,Cardinals,11/15/2015,SEA,Win, 39-32,4,3,rush,Marshawn Lynch,2015
-19,20,Cardinals,11/15/2015,SEA,Win, 39-32,4,22,fumble,Bobby Wagner,2015
-20,21,Cardinals,11/22/2015,CIN,Win, 34-31,1,3,pass,Tyler Eifert,2015
-21,22,Cardinals,11/22/2015,CIN,Win, 34-31,2,2,rush,Jeremy Hill,2015
-22,23,Cardinals,11/22/2015,CIN,Win, 34-31,4,1,rush,Jeremy Hill,2015
-23,24,Cardinals,11/22/2015,CIN,Win, 34-31,4,10,pass,Tyler Eifert,2015
-24,25,Cardinals,11/29/2015,SFO,Win, 19-13,3,8,pass,Vance McDonald,2015
-25,26,Cardinals,12/10/2015,MIN,Win, 23-20,1,9,rush,Adrian Peterson,2015
-26,27,Cardinals,12/10/2015,MIN,Win, 23-20,4,7,pass,Mike Wallace,2015
-27,28,Cardinals,12/20/2015,PHI,Win, 40-17,2,22,pass,Zach Ertz,2015
-28,29,Cardinals,12/20/2015,PHI,Win, 40-17,4,78,pass,Jordan Matthews,2015
-29,30,Cardinals,12/27/2015,GNB,Win, 38-8,3,28,pass,Eddie Lacy,2015
-30,31,Cardinals,01/03/2016,SEA,Loss, 6-36,1,1,rush,Bryce Brown,2015
-31,32,Cardinals,01/03/2016,SEA,Loss, 6-36,2,7,pass,Will Tukuafu,2015
-32,33,Cardinals,01/03/2016,SEA,Loss, 6-36,2,8,pass,Chase Coffman,2015
-33,34,Cardinals,01/03/2016,SEA,Loss, 6-36,2,24,pass,Jermaine Kearse,2015
+,Rank,Team,Date,Opponent,Win/Loss,Home_Score,Opponenet_Score,Quarter,Distance,Type,Detail
+1,1,Cardinals,2015-09-13,NOR,Win,31,19,2,12,pass,Brandon Coleman
+2,2,Cardinals,2015-09-20,CHI,Win,48,23,1,48,pass,Josh Bellamy
+3,3,Cardinals,2015-09-20,CHI,Win,48,23,2,1,rush,Jeremy Langford
+4,4,Cardinals,2015-09-27,SFO,Win,47,7,2,12,rush,Colin Kaepernick
+5,5,Cardinals,2015-10-04,STL,Loss,22,24,1,12,pass,Tavon Austin
+6,6,Cardinals,2015-10-04,STL,Loss,22,24,3,18,pass,Stedman Bailey
+7,7,Cardinals,2015-10-04,STL,Loss,22,24,4,12,pass,Tavon Austin
+8,8,Cardinals,2015-10-11,DET,Win,42,17,1,6,pass,Theo Riddick
+9,9,Cardinals,2015-10-11,DET,Win,42,17,4,13,pass,Lance Moore
+10,10,Cardinals,2015-10-18,PIT,Loss,13,25,3,8,pass,Martavis Bryant
+11,11,Cardinals,2015-10-18,PIT,Loss,13,25,4,88,pass,Martavis Bryant
+12,12,Cardinals,2015-10-26,BAL,Win,26,18,2,14,rush,Justin Forsett
+13,13,Cardinals,2015-10-26,BAL,Win,26,18,4,1,pass,Kyle Juszczyk
+14,14,Cardinals,2015-11-01,CLE,Win,34,20,1,10,pass,Brian Hartline
+15,15,Cardinals,2015-11-01,CLE,Win,34,20,2,3,pass,Gary Barnidge
+16,16,Cardinals,2015-11-01,CLE,Win,34,20,2,2,pass,Brian Hartline
+17,17,Cardinals,2015-11-15,SEA,Win,39,32,2,1,rush,Will Tukuafu
+18,18,Cardinals,2015-11-15,SEA,Win,39,32,3,32,pass,Doug Baldwin
+19,19,Cardinals,2015-11-15,SEA,Win,39,32,4,3,rush,Marshawn Lynch
+20,20,Cardinals,2015-11-15,SEA,Win,39,32,4,22,fumble,Bobby Wagner
+21,21,Cardinals,2015-11-22,CIN,Win,34,31,1,3,pass,Tyler Eifert
+22,22,Cardinals,2015-11-22,CIN,Win,34,31,2,2,rush,Jeremy Hill
+23,23,Cardinals,2015-11-22,CIN,Win,34,31,4,1,rush,Jeremy Hill
+24,24,Cardinals,2015-11-22,CIN,Win,34,31,4,10,pass,Tyler Eifert
+25,25,Cardinals,2015-11-29,SFO,Win,19,13,3,8,pass,Vance McDonald
+26,26,Cardinals,2015-12-10,MIN,Win,23,20,1,9,rush,Adrian Peterson
+27,27,Cardinals,2015-12-10,MIN,Win,23,20,4,7,pass,Mike Wallace
+28,28,Cardinals,2015-12-20,PHI,Win,40,17,2,22,pass,Zach Ertz
+29,29,Cardinals,2015-12-20,PHI,Win,40,17,4,78,pass,Jordan Matthews
+30,30,Cardinals,2015-12-27,GNB,Win,38,8,3,28,pass,Eddie Lacy
+31,31,Cardinals,2016-01-03,SEA,Loss,6,36,1,1,rush,Bryce Brown
+32,32,Cardinals,2016-01-03,SEA,Loss,6,36,2,7,pass,Will Tukuafu
+33,33,Cardinals,2016-01-03,SEA,Loss,6,36,2,8,pass,Chase Coffman
+34,34,Cardinals,2016-01-03,SEA,Loss,6,36,2,24,pass,Jermaine Kearse

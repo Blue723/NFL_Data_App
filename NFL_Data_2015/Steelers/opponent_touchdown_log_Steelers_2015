@@ -1,36 +1,36 @@
-,Rank,Team,Date,Opponent,Win/Loss,Score,Quarter,Distance,Type,Detail,Year
-0,1,Steelers,09/10/2015,NWE,Loss, 21-28,2,16,pass,Rob Gronkowski,2015
-1,2,Steelers,09/10/2015,NWE,Loss, 21-28,2,6,pass,Rob Gronkowski,2015
-2,3,Steelers,09/10/2015,NWE,Loss, 21-28,3,1,pass,Scott Chandler,2015
-3,4,Steelers,09/10/2015,NWE,Loss, 21-28,4,1,pass,Rob Gronkowski,2015
-4,5,Steelers,09/20/2015,SFO,Win, 43-18,4,14,pass,Anquan Boldin,2015
-5,6,Steelers,09/20/2015,SFO,Win, 43-18,4,75,pass,Torrey Smith,2015
-6,7,Steelers,10/01/2015,BAL,Loss, 20-23,1,9,rush,Michael Campanaro,2015
-7,8,Steelers,10/01/2015,BAL,Loss, 20-23,3,15,pass,Kamar Aiken,2015
-8,9,Steelers,10/12/2015,SDG,Win, 24-20,1,12,pass,Antonio Gates,2015
-9,10,Steelers,10/12/2015,SDG,Win, 24-20,4,11,pass,Antonio Gates,2015
-10,11,Steelers,10/18/2015,ARI,Win, 25-13,1,3,pass,Michael Floyd,2015
-11,12,Steelers,10/25/2015,KAN,Loss, 13-23,3,1,rush,Charcandrick West,2015
-12,13,Steelers,10/25/2015,KAN,Loss, 13-23,4,6,pass,Chris Conley,2015
-13,14,Steelers,11/01/2015,CIN,Loss, 10-16,4,9,pass,A.J. Green,2015
-14,15,Steelers,11/08/2015,OAK,Win, 38-35,1,22,pass,Michael Crabtree,2015
-15,16,Steelers,11/08/2015,OAK,Win, 38-35,2,15,pass,Amari Cooper,2015
-16,17,Steelers,11/08/2015,OAK,Win, 38-35,3,1,pass,Clive Walford,2015
-17,18,Steelers,11/08/2015,OAK,Win, 38-35,4,19,rush,Jamize Olawale,2015
-18,19,Steelers,11/08/2015,OAK,Win, 38-35,4,38,pass,Michael Crabtree,2015
-19,20,Steelers,11/15/2015,CLE,Win, 30-9,4,7,pass,Gary Barnidge,2015
-20,21,Steelers,11/29/2015,SEA,Loss, 30-39,2,16,pass,Doug Baldwin,2015
-21,22,Steelers,11/29/2015,SEA,Loss, 30-39,2,12,pass,Jermaine Kearse,2015
-22,23,Steelers,11/29/2015,SEA,Loss, 30-39,3,1,rush,Thomas Rawls,2015
-23,24,Steelers,11/29/2015,SEA,Loss, 30-39,4,9,pass,Jermaine Kearse,2015
-24,25,Steelers,11/29/2015,SEA,Loss, 30-39,4,30,pass,Doug Baldwin,2015
-25,26,Steelers,11/29/2015,SEA,Loss, 30-39,4,80,pass,Doug Baldwin,2015
-26,27,Steelers,12/06/2015,IND,Win, 45-10,2,9,pass,Frank Gore,2015
-27,28,Steelers,12/13/2015,CIN,Win, 33-20,2,66,pass,A.J. Green,2015
-28,29,Steelers,12/13/2015,CIN,Win, 33-20,4,5,pass,Rex Burkhead,2015
-29,30,Steelers,12/20/2015,DEN,Win, 34-27,1,18,pass,Demaryius Thomas,2015
-30,31,Steelers,12/20/2015,DEN,Win, 34-27,1,61,pass,Emmanuel Sanders,2015
-31,32,Steelers,12/20/2015,DEN,Win, 34-27,2,7,rush,Brock Osweiler,2015
-32,33,Steelers,12/20/2015,DEN,Win, 34-27,2,6,pass,Demaryius Thomas,2015
-33,34,Steelers,12/27/2015,BAL,Loss, 17-20,1,8,pass,Chris Matthews,2015
-34,35,Steelers,12/27/2015,BAL,Loss, 17-20,4,3,rush,Javorius Allen,2015
+,Rank,Team,Date,Opponent,Win/Loss,Home_Score,Opponenet_Score,Quarter,Distance,Type,Detail
+1,1,Steelers,2015-09-10,NWE,Loss,21,28,2,16,pass,Rob Gronkowski
+2,2,Steelers,2015-09-10,NWE,Loss,21,28,2,6,pass,Rob Gronkowski
+3,3,Steelers,2015-09-10,NWE,Loss,21,28,3,1,pass,Scott Chandler
+4,4,Steelers,2015-09-10,NWE,Loss,21,28,4,1,pass,Rob Gronkowski
+5,5,Steelers,2015-09-20,SFO,Win,43,18,4,14,pass,Anquan Boldin
+6,6,Steelers,2015-09-20,SFO,Win,43,18,4,75,pass,Torrey Smith
+7,7,Steelers,2015-10-01,BAL,Loss,20,23,1,9,rush,Michael Campanaro
+8,8,Steelers,2015-10-01,BAL,Loss,20,23,3,15,pass,Kamar Aiken
+9,9,Steelers,2015-10-12,SDG,Win,24,20,1,12,pass,Antonio Gates
+10,10,Steelers,2015-10-12,SDG,Win,24,20,4,11,pass,Antonio Gates
+11,11,Steelers,2015-10-18,ARI,Win,25,13,1,3,pass,Michael Floyd
+12,12,Steelers,2015-10-25,KAN,Loss,13,23,3,1,rush,Charcandrick West
+13,13,Steelers,2015-10-25,KAN,Loss,13,23,4,6,pass,Chris Conley
+14,14,Steelers,2015-11-01,CIN,Loss,10,16,4,9,pass,A.J. Green
+15,15,Steelers,2015-11-08,OAK,Win,38,35,1,22,pass,Michael Crabtree
+16,16,Steelers,2015-11-08,OAK,Win,38,35,2,15,pass,Amari Cooper
+17,17,Steelers,2015-11-08,OAK,Win,38,35,3,1,pass,Clive Walford
+18,18,Steelers,2015-11-08,OAK,Win,38,35,4,19,rush,Jamize Olawale
+19,19,Steelers,2015-11-08,OAK,Win,38,35,4,38,pass,Michael Crabtree
+20,20,Steelers,2015-11-15,CLE,Win,30,9,4,7,pass,Gary Barnidge
+21,21,Steelers,2015-11-29,SEA,Loss,30,39,2,16,pass,Doug Baldwin
+22,22,Steelers,2015-11-29,SEA,Loss,30,39,2,12,pass,Jermaine Kearse
+23,23,Steelers,2015-11-29,SEA,Loss,30,39,3,1,rush,Thomas Rawls
+24,24,Steelers,2015-11-29,SEA,Loss,30,39,4,9,pass,Jermaine Kearse
+25,25,Steelers,2015-11-29,SEA,Loss,30,39,4,30,pass,Doug Baldwin
+26,26,Steelers,2015-11-29,SEA,Loss,30,39,4,80,pass,Doug Baldwin
+27,27,Steelers,2015-12-06,IND,Win,45,10,2,9,pass,Frank Gore
+28,28,Steelers,2015-12-13,CIN,Win,33,20,2,66,pass,A.J. Green
+29,29,Steelers,2015-12-13,CIN,Win,33,20,4,5,pass,Rex Burkhead
+30,30,Steelers,2015-12-20,DEN,Win,34,27,1,18,pass,Demaryius Thomas
+31,31,Steelers,2015-12-20,DEN,Win,34,27,1,61,pass,Emmanuel Sanders
+32,32,Steelers,2015-12-20,DEN,Win,34,27,2,7,rush,Brock Osweiler
+33,33,Steelers,2015-12-20,DEN,Win,34,27,2,6,pass,Demaryius Thomas
+34,34,Steelers,2015-12-27,BAL,Loss,17,20,1,8,pass,Chris Matthews
+35,35,Steelers,2015-12-27,BAL,Loss,17,20,4,3,rush,Javorius Allen

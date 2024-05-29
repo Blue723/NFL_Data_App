@@ -1,6 +1,6 @@
-,No.,Team,Player,Age,Position,Games Played,Games Started,Punts Returned,Punts Return Yardage,Punts Returned for Touchdown,Longest Punt Return,Yards per Punt Return,Kickoff Returns,Yardage for Kickoffs Returned,Kickoffs Returned for a Touchdown,Longest Kickoff Return,Yards per Kickoff Return,All-purpose Yards,Year
-0,19,Bengals,Brandon Tate,28,WR,16,0,27,171,0,18,6.3,18,413,0,58,22.9,643,2015
-1,24,Bengals,Adam Jones,32,RCB,14,14,16,179,0,35,11.2,10,235,0,49,23.5,428,2015
-2,30,Bengals,Cedric Peerman,29,RB,16,0,0,0,0,0,,4,44,0,20,11.0,44,2015
-3,25,Bengals,Giovani Bernard,24,RB,16,1,0,0,0,0,,1,6,0,6,6.0,1214,2015
-4,12,Bengals,Mohamed Sanu,26,WR,16,4,0,0,0,0,,1,2,0,2,2.0,467,2015
+,No.,Player,Age,Position,Games Played,Games Started,Punts Returned,Punts Return Yardage,Punts Returned for Touchdown,Longest Punt Return,Yards per Punt Return,Kickoff Returns,Yardage for Kickoffs Returned,Kickoffs Returned for a Touchdown,Longest Kickoff Return,Yards per Kickoff Return,All-purpose Yards,Team,Year
+19,19,Brandon Tate,28,WR,16,0,27,171,0,18,6.3,18,413,0,58,22.9,643,Bengals,2015
+24,24,Adam Jones,32,RCB,14,14,16,179,0,35,11.2,10,235,0,49,23.5,428,Bengals,2015
+30,30,Cedric Peerman,29,RB,16,0,0,0,0,0,0.0,4,44,0,20,11.0,44,Bengals,2015
+25,25,Giovani Bernard,24,RB,16,1,0,0,0,0,0.0,1,6,0,6,6.0,1214,Bengals,2015
+12,12,Mohamed Sanu,26,WR,16,4,0,0,0,0,0.0,1,2,0,2,2.0,467,Bengals,2015

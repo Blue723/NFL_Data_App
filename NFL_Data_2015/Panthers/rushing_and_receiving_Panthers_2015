@@ -1,18 +1,18 @@
-,No.,Team,Player,Age,Position,Games Played,Games Started as an Offensive or Defensive Player,Rushing Attempts,Rushing Yards Gained,Rushing Touchdown,First Downs Rushing,Rushing Success Rate,Longest Rushing Attempt,Rushing Yards per Attempt,Rushing Yards per Game,Rushing Attempts per Game,Pass Targets,Receptions,Receiving Yards,Receiving Yards per Reception,Receiving Touchdowns,First Downs Receiving,Receiving Success Rate,Longest Reception,Receptions per Game,Receiving Yards per Game,Catch Per.,Receiving Yards per Target,Touches: Rushing Attempts and Receptions,Scrimmage Yards per Touch: Rushing + Receiving Yardage per Opportunity,Yards from Scrimmage: Receiving and Rushing Yards,Rushing and Receiving Touchdowns,Lost and Recovered Fumbles,Year
-0,28,Panthers,Jonathan Stewart,28,RB,13,13,242,989,6,43,42.6,44,4.1,76.1,18.6,21,16,99,6.2,1,5,57.1,15,1.2,7.6,76.2,4.7,258,4.2,1088,7,3,2015
-1,1,Panthers,Cam Newton,26,QB,16,16,132,636,10,59,56.1,47,4.8,39.8,8.3,0,0,0,,0,0,,0,,,0.0,,132,4.8,636,10,5,2015
-2,35,Panthers,Mike Tolbert,30,RB,16,3,62,256,1,18,56.5,29,4.1,16.0,3.9,23,18,154,8.6,3,8,60.9,40,1.1,9.6,78.3,6.7,80,5.1,410,4,0,2015
-3,34,Panthers,Cameron Artis-Payne,25,RB,7,0,45,183,1,6,35.6,31,4.1,26.1,6.4,5,5,58,11.6,0,4,100.0,20,0.7,8.3,100.0,11.6,50,4.8,241,1,0,2015
-4,43,Panthers,Fozzy Whittaker,26,RB,15,1,25,108,1,7,36.0,16,4.3,7.2,1.7,15,12,64,5.3,0,2,46.7,15,0.8,4.3,80.0,4.3,37,4.6,172,1,0,2015
-5,3,Panthers,Derek Anderson,32,QB,3,0,7,-2,0,0,14.3,2,-0.3,-0.7,2.3,0,0,0,,0,0,,0,,,0.0,,7,-0.3,-2,0,1,2015
-6,10,Panthers,Corey Brown,24,WR,14,11,6,38,0,4,83.3,14,6.3,2.7,0.4,54,31,447,14.4,4,24,51.9,39,2.2,31.9,57.4,8.3,37,13.1,485,4,0,2015
-7,19,Panthers,Ted Ginn Jr.,30,WR,15,13,4,60,0,2,75.0,43,15.0,4.0,0.3,97,44,739,16.8,10,36,42.3,74,2.9,49.3,45.4,7.6,48,16.6,799,10,0,2015
-8,82,Panthers,Jerricho Cotchery,33,WR,14,3,1,16,0,1,100.0,16,16.0,1.1,0.1,54,39,485,12.4,3,26,59.3,59,2.8,34.6,72.2,9.0,40,12.5,501,3,0,2015
-9,8,Panthers,Brad Nortman,26,P,16,0,1,-1,0,0,,-1,-1.0,-0.1,0.1,0,0,0,,0,0,,0,,,0.0,,1,-1.0,-1,0,0,2015
-10,14,Panthers,Joe Webb,29,QB,16,0,1,-1,0,0,,-1,-1.0,-0.1,0.1,0,0,0,,0,0,,0,,,0.0,,1,-1.0,-1,0,0,2015
-11,88,Panthers,Greg Olsen,30,TE,16,16,0,0,0,0,,0,,,,124,77,1104,14.3,7,52,53.2,52,4.8,69.0,62.1,8.9,77,14.3,1104,7,1,2015
-12,17,Panthers,Devin Funchess,21,WR,16,5,0,0,0,0,,0,,,,63,31,473,15.3,5,24,47.6,52,1.9,29.6,49.2,7.5,31,15.3,473,5,1,2015
-13,84,Panthers,Ed Dickson,28,TE,16,11,0,0,0,0,,0,,,,26,17,121,7.1,2,10,46.2,17,1.1,7.6,65.4,4.7,17,7.1,121,2,0,2015
-14,11,Panthers,Brenton Bersin,25,WR,9,2,0,0,0,0,,0,,,,11,9,119,13.2,0,5,72.7,30,1.0,13.2,81.8,10.8,9,13.2,119,0,1,2015
-15,80,Panthers,Scott Simonson,23,TE,9,0,0,0,0,0,,0,,,,1,1,10,10.0,0,1,100.0,10,0.1,1.1,100.0,10.0,1,10.0,10,0,0,2015
-16,81,Panthers,Kevin Norwood,26,WR,1,0,0,0,0,0,,0,,,,1,0,0,,0,0,,0,0.0,0.0,0.0,0.0,0,,0,0,0,2015
+,No.,Player,Age,Position,Games Played,Games Started as an Offensive or Defensive Player,Rushing Attempts,Rushing Yards Gained,Rushing Touchdown,First Downs Rushing,Rushing Success Rate,Longest Rushing Attempt,Rushing Yards per Attempt,Rushing Yards per Game,Rushing Attempts per Game,Pass Targets,Receptions,Receiving Yards,Receiving Yards per Reception,Receiving Touchdowns,First Downs Receiving,Receiving Success Rate,Longest Reception,Receptions per Game,Receiving Yards per Game,Catch Per.,Receiving Yards per Target,Touches: Rushing Attempts and Receptions,Scrimmage Yards per Touch: Rushing + Receiving Yardage per Opportunity,Yards from Scrimmage: Receiving and Rushing Yards,Rushing and Receiving Touchdowns,Lost and Recovered Fumbles,Team,Year
+28,28,Jonathan Stewart,28,RB,13,13,242,989,6,43,42.6,44,4.1,76.1,18.6,21,16,99,6.2,1,5,57.1,15,1.2,7.6,76.2,4.7,258,4.2,1088,7,3,Panthers,2015
+1,1,Cam Newton,26,QB,16,16,132,636,10,59,56.1,47,4.8,39.8,8.3,0,0,0,0.0,0,0,0.0,0,0.0,0.0,0.0,0.0,132,4.8,636,10,5,Panthers,2015
+35,35,Mike Tolbert,30,RB,16,3,62,256,1,18,56.5,29,4.1,16.0,3.9,23,18,154,8.6,3,8,60.9,40,1.1,9.6,78.3,6.7,80,5.1,410,4,0,Panthers,2015
+34,34,Cameron Artis-Payne,25,RB,7,0,45,183,1,6,35.6,31,4.1,26.1,6.4,5,5,58,11.6,0,4,100.0,20,0.7,8.3,100.0,11.6,50,4.8,241,1,0,Panthers,2015
+43,43,Fozzy Whittaker,26,RB,15,1,25,108,1,7,36.0,16,4.3,7.2,1.7,15,12,64,5.3,0,2,46.7,15,0.8,4.3,80.0,4.3,37,4.6,172,1,0,Panthers,2015
+3,3,Derek Anderson,32,QB,3,0,7,-2,0,0,14.3,2,-0.3,-0.7,2.3,0,0,0,0.0,0,0,0.0,0,0.0,0.0,0.0,0.0,7,-0.3,-2,0,1,Panthers,2015
+10,10,Corey Brown,24,WR,14,11,6,38,0,4,83.3,14,6.3,2.7,0.4,54,31,447,14.4,4,24,51.9,39,2.2,31.9,57.4,8.3,37,13.1,485,4,0,Panthers,2015
+19,19,Ted Ginn Jr.,30,WR,15,13,4,60,0,2,75.0,43,15.0,4.0,0.3,97,44,739,16.8,10,36,42.3,74,2.9,49.3,45.4,7.6,48,16.6,799,10,0,Panthers,2015
+82,82,Jerricho Cotchery,33,WR,14,3,1,16,0,1,100.0,16,16.0,1.1,0.1,54,39,485,12.4,3,26,59.3,59,2.8,34.6,72.2,9.0,40,12.5,501,3,0,Panthers,2015
+8,8,Brad Nortman,26,P,16,0,1,-1,0,0,0.0,-1,-1.0,-0.1,0.1,0,0,0,0.0,0,0,0.0,0,0.0,0.0,0.0,0.0,1,-1.0,-1,0,0,Panthers,2015
+14,14,Joe Webb,29,QB,16,0,1,-1,0,0,0.0,-1,-1.0,-0.1,0.1,0,0,0,0.0,0,0,0.0,0,0.0,0.0,0.0,0.0,1,-1.0,-1,0,0,Panthers,2015
+88,88,Greg Olsen,30,TE,16,16,0,0,0,0,0.0,0,0.0,0.0,0.0,124,77,1104,14.3,7,52,53.2,52,4.8,69.0,62.1,8.9,77,14.3,1104,7,1,Panthers,2015
+17,17,Devin Funchess,21,WR,16,5,0,0,0,0,0.0,0,0.0,0.0,0.0,63,31,473,15.3,5,24,47.6,52,1.9,29.6,49.2,7.5,31,15.3,473,5,1,Panthers,2015
+84,84,Ed Dickson,28,TE,16,11,0,0,0,0,0.0,0,0.0,0.0,0.0,26,17,121,7.1,2,10,46.2,17,1.1,7.6,65.4,4.7,17,7.1,121,2,0,Panthers,2015
+11,11,Brenton Bersin,25,WR,9,2,0,0,0,0,0.0,0,0.0,0.0,0.0,11,9,119,13.2,0,5,72.7,30,1.0,13.2,81.8,10.8,9,13.2,119,0,1,Panthers,2015
+80,80,Scott Simonson,23,TE,9,0,0,0,0,0,0.0,0,0.0,0.0,0.0,1,1,10,10.0,0,1,100.0,10,0.1,1.1,100.0,10.0,1,10.0,10,0,0,Panthers,2015
+81,81,Kevin Norwood,26,WR,1,0,0,0,0,0,0.0,0,0.0,0.0,0.0,1,0,0,0.0,0,0,0.0,0,0.0,0.0,0.0,0.0,0,0.0,0,0,0,Panthers,2015

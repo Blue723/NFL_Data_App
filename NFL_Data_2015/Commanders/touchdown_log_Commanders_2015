@@ -1,45 +1,45 @@
-,Rank,Team,Date,Opponent,Win/Loss,Score,Quarter,Distance,Type,Detail,Year
-0,1,Commanders,09/13/2015,MIA,Loss, 10-17,2,3,pass,Jordan Reed,2015
-1,2,Commanders,09/20/2015,STL,Win, 24-10,1,39,rush,Matt Jones,2015
-2,3,Commanders,09/20/2015,STL,Win, 24-10,2,4,pass,Pierre Garcon,2015
-3,4,Commanders,09/20/2015,STL,Win, 24-10,4,3,rush,Matt Jones,2015
-4,5,Commanders,09/24/2015,NYG,Loss, 21-32,4,4,pass,Chris Thompson,2015
-5,6,Commanders,09/24/2015,NYG,Loss, 21-32,4,101,kickoff,Rashad Ross,2015
-6,7,Commanders,10/04/2015,PHI,Win, 23-20,2,1,rush,Kirk Cousins,2015
-7,8,Commanders,10/04/2015,PHI,Win, 23-20,4,4,pass,Pierre Garcon,2015
-8,9,Commanders,10/11/2015,ATL,Loss, 19-25,2,7,pass,Derek Carrier,2015
-9,10,Commanders,10/11/2015,ATL,Loss, 19-25,4,2,rush,Matt Jones,2015
-10,11,Commanders,10/18/2015,NYJ,Loss, 20-34,1,2,pass,Pierre Garcon,2015
-11,12,Commanders,10/18/2015,NYJ,Loss, 20-34,4,0,blocked punt,Rashad Ross,2015
-12,13,Commanders,10/25/2015,TAM,Win, 31-30,2,8,rush,Kirk Cousins,2015
-13,14,Commanders,10/25/2015,TAM,Win, 31-30,3,3,pass,Ryan Grant,2015
-14,15,Commanders,10/25/2015,TAM,Win, 31-30,3,3,pass,Jordan Reed,2015
-15,16,Commanders,10/25/2015,TAM,Win, 31-30,4,6,pass,Jordan Reed,2015
-16,17,Commanders,11/08/2015,NWE,Loss, 10-27,4,3,pass,Jordan Reed,2015
-17,18,Commanders,11/15/2015,NOR,Win, 47-14,1,16,pass,Jordan Reed,2015
-18,19,Commanders,11/15/2015,NOR,Win, 47-14,1,11,pass,Jamison Crowder,2015
-19,20,Commanders,11/15/2015,NOR,Win, 47-14,2,78,pass,Matt Jones,2015
-20,21,Commanders,11/15/2015,NOR,Win, 47-14,3,8,pass,Jordan Reed,2015
-21,22,Commanders,11/15/2015,NOR,Win, 47-14,4,35,interception,Dashon Goldson,2015
-22,23,Commanders,11/22/2015,CAR,Loss, 16-44,1,56,pass,DeSean Jackson,2015
-23,24,Commanders,11/22/2015,CAR,Loss, 16-44,1,99,kickoff,Andre Roberts,2015
-24,25,Commanders,11/29/2015,NYG,Win, 20-14,2,63,pass,DeSean Jackson,2015
-25,26,Commanders,11/29/2015,NYG,Win, 20-14,2,1,rush,Kirk Cousins,2015
-26,27,Commanders,12/07/2015,DAL,Loss, 16-19,4,28,pass,DeSean Jackson,2015
-27,28,Commanders,12/13/2015,CHI,Win, 24-21,1,1,rush,Alfred Morris,2015
-28,29,Commanders,12/13/2015,CHI,Win, 24-21,2,3,rush,Kirk Cousins,2015
-29,30,Commanders,12/13/2015,CHI,Win, 24-21,3,5,pass,Jordan Reed,2015
-30,31,Commanders,12/20/2015,BUF,Win, 35-25,1,3,pass,Jordan Reed,2015
-31,32,Commanders,12/20/2015,BUF,Win, 35-25,2,13,rush,Kirk Cousins,2015
-32,33,Commanders,12/20/2015,BUF,Win, 35-25,2,18,pass,Jordan Reed,2015
-33,34,Commanders,12/20/2015,BUF,Win, 35-25,3,77,pass,DeSean Jackson,2015
-34,35,Commanders,12/20/2015,BUF,Win, 35-25,4,5,pass,Pierre Garcon,2015
-35,36,Commanders,12/26/2015,PHI,Win, 38-24,1,22,pass,Jordan Reed,2015
-36,37,Commanders,12/26/2015,PHI,Win, 38-24,1,12,pass,Jordan Reed,2015
-37,38,Commanders,12/26/2015,PHI,Win, 38-24,3,12,pass,Chris Thompson,2015
-38,39,Commanders,12/26/2015,PHI,Win, 38-24,3,17,fumble,DeAngelo Hall,2015
-39,40,Commanders,12/26/2015,PHI,Win, 38-24,4,13,pass,Pierre Garcon,2015
-40,41,Commanders,01/03/2016,DAL,Win, 34-23,1,5,pass,Ryan Grant,2015
-41,42,Commanders,01/03/2016,DAL,Win, 34-23,1,39,pass,Pierre Garcon,2015
-42,43,Commanders,01/03/2016,DAL,Win, 34-23,1,3,pass,Jamison Crowder,2015
-43,44,Commanders,01/03/2016,DAL,Win, 34-23,4,71,pass,Rashad Ross,2015
+,Rank,Team,Date,Opponent,Win/Loss,Home_Score,Opponenet_Score,Quarter,Distance,Type,Detail
+1,1,Commanders,2015-09-13,MIA,Loss,10,17,2,3,pass,Jordan Reed
+2,2,Commanders,2015-09-20,STL,Win,24,10,1,39,rush,Matt Jones
+3,3,Commanders,2015-09-20,STL,Win,24,10,2,4,pass,Pierre Garcon
+4,4,Commanders,2015-09-20,STL,Win,24,10,4,3,rush,Matt Jones
+5,5,Commanders,2015-09-24,NYG,Loss,21,32,4,4,pass,Chris Thompson
+6,6,Commanders,2015-09-24,NYG,Loss,21,32,4,101,kickoff,Rashad Ross
+7,7,Commanders,2015-10-04,PHI,Win,23,20,2,1,rush,Kirk Cousins
+8,8,Commanders,2015-10-04,PHI,Win,23,20,4,4,pass,Pierre Garcon
+9,9,Commanders,2015-10-11,ATL,Loss,19,25,2,7,pass,Derek Carrier
+10,10,Commanders,2015-10-11,ATL,Loss,19,25,4,2,rush,Matt Jones
+11,11,Commanders,2015-10-18,NYJ,Loss,20,34,1,2,pass,Pierre Garcon
+12,12,Commanders,2015-10-18,NYJ,Loss,20,34,4,0,blocked punt,Rashad Ross
+13,13,Commanders,2015-10-25,TAM,Win,31,30,2,8,rush,Kirk Cousins
+14,14,Commanders,2015-10-25,TAM,Win,31,30,3,3,pass,Ryan Grant
+15,15,Commanders,2015-10-25,TAM,Win,31,30,3,3,pass,Jordan Reed
+16,16,Commanders,2015-10-25,TAM,Win,31,30,4,6,pass,Jordan Reed
+17,17,Commanders,2015-11-08,NWE,Loss,10,27,4,3,pass,Jordan Reed
+18,18,Commanders,2015-11-15,NOR,Win,47,14,1,16,pass,Jordan Reed
+19,19,Commanders,2015-11-15,NOR,Win,47,14,1,11,pass,Jamison Crowder
+20,20,Commanders,2015-11-15,NOR,Win,47,14,2,78,pass,Matt Jones
+21,21,Commanders,2015-11-15,NOR,Win,47,14,3,8,pass,Jordan Reed
+22,22,Commanders,2015-11-15,NOR,Win,47,14,4,35,interception,Dashon Goldson
+23,23,Commanders,2015-11-22,CAR,Loss,16,44,1,56,pass,DeSean Jackson
+24,24,Commanders,2015-11-22,CAR,Loss,16,44,1,99,kickoff,Andre Roberts
+25,25,Commanders,2015-11-29,NYG,Win,20,14,2,63,pass,DeSean Jackson
+26,26,Commanders,2015-11-29,NYG,Win,20,14,2,1,rush,Kirk Cousins
+27,27,Commanders,2015-12-07,DAL,Loss,16,19,4,28,pass,DeSean Jackson
+28,28,Commanders,2015-12-13,CHI,Win,24,21,1,1,rush,Alfred Morris
+29,29,Commanders,2015-12-13,CHI,Win,24,21,2,3,rush,Kirk Cousins
+30,30,Commanders,2015-12-13,CHI,Win,24,21,3,5,pass,Jordan Reed
+31,31,Commanders,2015-12-20,BUF,Win,35,25,1,3,pass,Jordan Reed
+32,32,Commanders,2015-12-20,BUF,Win,35,25,2,13,rush,Kirk Cousins
+33,33,Commanders,2015-12-20,BUF,Win,35,25,2,18,pass,Jordan Reed
+34,34,Commanders,2015-12-20,BUF,Win,35,25,3,77,pass,DeSean Jackson
+35,35,Commanders,2015-12-20,BUF,Win,35,25,4,5,pass,Pierre Garcon
+36,36,Commanders,2015-12-26,PHI,Win,38,24,1,22,pass,Jordan Reed
+37,37,Commanders,2015-12-26,PHI,Win,38,24,1,12,pass,Jordan Reed
+38,38,Commanders,2015-12-26,PHI,Win,38,24,3,12,pass,Chris Thompson
+39,39,Commanders,2015-12-26,PHI,Win,38,24,3,17,fumble,DeAngelo Hall
+40,40,Commanders,2015-12-26,PHI,Win,38,24,4,13,pass,Pierre Garcon
+41,41,Commanders,2016-01-03,DAL,Win,34,23,1,5,pass,Ryan Grant
+42,42,Commanders,2016-01-03,DAL,Win,34,23,1,39,pass,Pierre Garcon
+43,43,Commanders,2016-01-03,DAL,Win,34,23,1,3,pass,Jamison Crowder
+44,44,Commanders,2016-01-03,DAL,Win,34,23,4,71,pass,Rashad Ross

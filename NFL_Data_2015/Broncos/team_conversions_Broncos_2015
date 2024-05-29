@@ -1,5 +1,5 @@
-,Player,Team,3rd Down Attempts in Game,3rd Down Conversions,3rd Down Conversion Per.,4th Down Attempts in Game,4th Down Conversions in Game,4th Down Conversion Per.,Red Zone Attempts,Touchdowns Scored After the Team Entered the Red Zone,Per. of the Time a Team Reaches the Red Zone and Scores a Touchdown,Year
-0,Team Stats,Broncos,224.0,79.0,35.3,14.0,7.0,50.0,44.0,21.0,47.7,2015.0
-1,Opp. Stats,Broncos,227.0,80.0,35.2,14.0,5.0,35.7,37.0,22.0,59.5,2015.0
-2,Lg Rank Offense,Broncos,,,25.0,,,15.0,,,28.0,2015.0
-3,Lg Rank Defense,Broncos,,,7.0,,,8.0,,,20.0,2015.0
+,Player,3rd Down Attempts in Game,3rd Down Conversions,3rd Down Conversion Per.,4th Down Attempts in Game,4th Down Conversions in Game,4th Down Conversion Per.,Red Zone Attempts,Touchdowns Scored After the Team Entered the Red Zone,Per. of the Time a Team Reaches the Red Zone and Scores a Touchdown,Team,Year
+Team Stats,Team Stats,224.0,79.0,35.3,14.0,7.0,50.0,44.0,21.0,47.7,Broncos,2015
+Opp. Stats,Opp. Stats,227.0,80.0,35.2,14.0,5.0,35.7,37.0,22.0,59.5,Broncos,2015
+Lg Rank Offense,Lg Rank Offense,0.0,0.0,25.0,0.0,0.0,15.0,0.0,0.0,28,Broncos,2015
+Lg Rank Defense,Lg Rank Defense,0.0,0.0,7.0,0.0,0.0,8.0,0.0,0.0,20,Broncos,2015

@@ -1,16 +1,16 @@
-,No.,Team,Player,Age,Position,Games Played,Games Started as an Offensive or Defensive Player,Rushing Attempts,Rushing Yards Gained,Rushing Touchdown,First Downs Rushing,Rushing Success Rate,Longest Rushing Attempt,Rushing Yards per Attempt,Rushing Yards per Game,Rushing Attempts per Game,Pass Targets,Receptions,Receiving Yards,Receiving Yards per Reception,Receiving Touchdowns,First Downs Receiving,Receiving Success Rate,Longest Reception,Receptions per Game,Receiving Yards per Game,Catch Per.,Receiving Yards per Target,Touches: Rushing Attempts and Receptions,Scrimmage Yards per Touch: Rushing + Receiving Yardage per Opportunity,Yards from Scrimmage: Receiving and Rushing Yards,Rushing and Receiving Touchdowns,Lost and Recovered Fumbles,Year
-0,22,Buccaneers,Doug Martin,26,RB,16,16,288,1402,6,68,46.2,84,4.9,87.6,18.0,44,33,271,8.2,1,10,45.5,25,2.1,16.9,75.0,6.2,321,5.2,1673,7,5,2015
-1,34,Buccaneers,Charles Sims,25,RB,16,0,107,529,0,21,54.2,59,4.9,33.1,6.7,70,51,561,11.0,4,22,51.4,56,3.2,35.1,72.9,8.0,158,6.9,1090,4,2,2015
-2,3,Buccaneers,Jameis Winston,21,QB,16,16,54,213,6,19,42.6,21,3.9,13.3,3.4,0,0,0,,0,0,,0,,,0.0,,54,3.9,213,6,6,2015
-3,43,Buccaneers,Bobby Rainey,28,RB,16,0,5,18,0,0,40.0,7,3.6,1.1,0.3,3,3,16,5.3,0,1,66.7,8,0.2,1.0,100.0,5.3,8,4.3,34,0,8,2015
-4,46,Buccaneers,Jorvorskie Lane,28,TE,16,6,1,0,0,0,,0,0.0,0.0,0.1,2,2,13,6.5,0,0,,8,0.1,0.8,100.0,6.5,3,4.3,13,0,0,2015
-5,13,Buccaneers,Mike Evans,22,WR,15,14,0,0,0,0,,0,,,,148,74,1206,16.3,3,63,48.0,68,4.9,80.4,50.0,8.1,74,16.3,1206,3,1,2015
-6,83,Buccaneers,Vincent Jackson,32,WR,10,9,0,0,0,0,,0,,,,62,33,543,16.5,3,28,50.0,36,3.3,54.3,53.2,8.8,33,16.5,543,3,0,2015
-7,11,Buccaneers,Adam Humphries,22,WR,13,0,0,0,0,0,,0,,,,40,27,260,9.6,1,18,50.0,27,2.1,20.0,67.5,6.5,27,9.6,260,1,0,2015
-8,84,Buccaneers,Cameron Brate,24,TE,14,4,0,0,0,0,,0,,,,30,23,288,12.5,3,14,63.3,46,1.6,20.6,76.7,9.6,23,12.5,288,3,0,2015
-9,87,Buccaneers,Austin Seferian-Jenkins,23,TE,7,3,0,0,0,0,,0,,,,39,21,338,16.1,4,18,51.3,43,3.0,48.3,53.8,8.7,21,16.1,338,4,0,2015
-10,82,Buccaneers,Brandon Myers,30,TE,11,6,0,0,0,0,,0,,,,17,12,127,10.6,0,7,47.1,17,1.1,11.5,70.6,7.5,12,10.6,127,0,0,2015
-11,17,Buccaneers,Donteea Dye,22,WR,10,5,0,0,0,0,,0,,,,30,11,132,12.0,1,8,30.0,44,1.1,13.2,36.7,4.4,11,12.0,132,1,1,2015
-12,18,Buccaneers,Louis Murphy,28,WR,6,1,0,0,0,0,,0,,,,18,10,198,19.8,0,6,50.0,54,1.7,33.0,55.6,11.0,10,19.8,198,0,0,2015
-13,88,Buccaneers,Luke Stocker,27,TE,14,13,0,0,0,0,,0,,,,13,9,61,6.8,1,3,46.2,14,0.6,4.4,69.2,4.7,9,6.8,61,1,0,2015
-14,89,Buccaneers,Russell Shepard,25,WR,13,2,0,0,0,0,,0,,,,9,3,28,9.3,1,3,33.3,18,0.2,2.2,33.3,3.1,3,9.3,28,1,0,2015
+,No.,Player,Age,Position,Games Played,Games Started as an Offensive or Defensive Player,Rushing Attempts,Rushing Yards Gained,Rushing Touchdown,First Downs Rushing,Rushing Success Rate,Longest Rushing Attempt,Rushing Yards per Attempt,Rushing Yards per Game,Rushing Attempts per Game,Pass Targets,Receptions,Receiving Yards,Receiving Yards per Reception,Receiving Touchdowns,First Downs Receiving,Receiving Success Rate,Longest Reception,Receptions per Game,Receiving Yards per Game,Catch Per.,Receiving Yards per Target,Touches: Rushing Attempts and Receptions,Scrimmage Yards per Touch: Rushing + Receiving Yardage per Opportunity,Yards from Scrimmage: Receiving and Rushing Yards,Rushing and Receiving Touchdowns,Lost and Recovered Fumbles,Team,Year
+22,22,Doug Martin,26,RB,16,16,288,1402,6,68,46.2,84,4.9,87.6,18.0,44,33,271,8.2,1,10,45.5,25,2.1,16.9,75.0,6.2,321,5.2,1673,7,5,Buccaneers,2015
+34,34,Charles Sims,25,RB,16,0,107,529,0,21,54.2,59,4.9,33.1,6.7,70,51,561,11.0,4,22,51.4,56,3.2,35.1,72.9,8.0,158,6.9,1090,4,2,Buccaneers,2015
+3,3,Jameis Winston,21,QB,16,16,54,213,6,19,42.6,21,3.9,13.3,3.4,0,0,0,0.0,0,0,0.0,0,0.0,0.0,0.0,0.0,54,3.9,213,6,6,Buccaneers,2015
+43,43,Bobby Rainey,28,RB,16,0,5,18,0,0,40.0,7,3.6,1.1,0.3,3,3,16,5.3,0,1,66.7,8,0.2,1.0,100.0,5.3,8,4.3,34,0,8,Buccaneers,2015
+46,46,Jorvorskie Lane,28,TE,16,6,1,0,0,0,0.0,0,0.0,0.0,0.1,2,2,13,6.5,0,0,0.0,8,0.1,0.8,100.0,6.5,3,4.3,13,0,0,Buccaneers,2015
+13,13,Mike Evans,22,WR,15,14,0,0,0,0,0.0,0,0.0,0.0,0.0,148,74,1206,16.3,3,63,48.0,68,4.9,80.4,50.0,8.1,74,16.3,1206,3,1,Buccaneers,2015
+83,83,Vincent Jackson,32,WR,10,9,0,0,0,0,0.0,0,0.0,0.0,0.0,62,33,543,16.5,3,28,50.0,36,3.3,54.3,53.2,8.8,33,16.5,543,3,0,Buccaneers,2015
+11,11,Adam Humphries,22,WR,13,0,0,0,0,0,0.0,0,0.0,0.0,0.0,40,27,260,9.6,1,18,50.0,27,2.1,20.0,67.5,6.5,27,9.6,260,1,0,Buccaneers,2015
+84,84,Cameron Brate,24,TE,14,4,0,0,0,0,0.0,0,0.0,0.0,0.0,30,23,288,12.5,3,14,63.3,46,1.6,20.6,76.7,9.6,23,12.5,288,3,0,Buccaneers,2015
+87,87,Austin Seferian-Jenkins,23,TE,7,3,0,0,0,0,0.0,0,0.0,0.0,0.0,39,21,338,16.1,4,18,51.3,43,3.0,48.3,53.8,8.7,21,16.1,338,4,0,Buccaneers,2015
+82,82,Brandon Myers,30,TE,11,6,0,0,0,0,0.0,0,0.0,0.0,0.0,17,12,127,10.6,0,7,47.1,17,1.1,11.5,70.6,7.5,12,10.6,127,0,0,Buccaneers,2015
+17,17,Donteea Dye,22,WR,10,5,0,0,0,0,0.0,0,0.0,0.0,0.0,30,11,132,12.0,1,8,30.0,44,1.1,13.2,36.7,4.4,11,12.0,132,1,1,Buccaneers,2015
+18,18,Louis Murphy,28,WR,6,1,0,0,0,0,0.0,0,0.0,0.0,0.0,18,10,198,19.8,0,6,50.0,54,1.7,33.0,55.6,11.0,10,19.8,198,0,0,Buccaneers,2015
+88,88,Luke Stocker,27,TE,14,13,0,0,0,0,0.0,0,0.0,0.0,0.0,13,9,61,6.8,1,3,46.2,14,0.6,4.4,69.2,4.7,9,6.8,61,1,0,Buccaneers,2015
+89,89,Russell Shepard,25,WR,13,2,0,0,0,0,0.0,0,0.0,0.0,0.0,9,3,28,9.3,1,3,33.3,18,0.2,2.2,33.3,3.1,3,9.3,28,1,0,Buccaneers,2015

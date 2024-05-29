@@ -1,5 +1,5 @@
-,Player,Team,3rd Down Attempts in Game,3rd Down Conversions,3rd Down Conversion Per.,4th Down Attempts in Game,4th Down Conversions in Game,4th Down Conversion Per.,Red Zone Attempts,Touchdowns Scored After the Team Entered the Red Zone,Per. of the Time a Team Reaches the Red Zone and Scores a Touchdown,Year
-0,Team Stats,Titans,201.0,64.0,31.8,15.0,7.0,46.7,40.0,26.0,65.0,2015.0
-1,Opp. Stats,Titans,216.0,92.0,42.6,12.0,4.0,33.3,53.0,33.0,62.3,2015.0
-2,Lg Rank Offense,Titans,,,29.0,,,21.0,,,6.0,2015.0
-3,Lg Rank Defense,Titans,,,25.0,,,5.0,,,26.0,2015.0
+,Player,3rd Down Attempts in Game,3rd Down Conversions,3rd Down Conversion Per.,4th Down Attempts in Game,4th Down Conversions in Game,4th Down Conversion Per.,Red Zone Attempts,Touchdowns Scored After the Team Entered the Red Zone,Per. of the Time a Team Reaches the Red Zone and Scores a Touchdown,Team,Year
+Team Stats,Team Stats,201.0,64.0,31.8,15.0,7.0,46.7,40.0,26.0,65.0,Titans,2015
+Opp. Stats,Opp. Stats,216.0,92.0,42.6,12.0,4.0,33.3,53.0,33.0,62.3,Titans,2015
+Lg Rank Offense,Lg Rank Offense,0.0,0.0,29.0,0.0,0.0,21.0,0.0,0.0,6,Titans,2015
+Lg Rank Defense,Lg Rank Defense,0.0,0.0,25.0,0.0,0.0,5.0,0.0,0.0,26,Titans,2015

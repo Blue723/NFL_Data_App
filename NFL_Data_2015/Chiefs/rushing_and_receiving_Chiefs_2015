@@ -1,18 +1,18 @@
-,No.,Team,Player,Age,Position,Games Played,Games Started as an Offensive or Defensive Player,Rushing Attempts,Rushing Yards Gained,Rushing Touchdown,First Downs Rushing,Rushing Success Rate,Longest Rushing Attempt,Rushing Yards per Attempt,Rushing Yards per Game,Rushing Attempts per Game,Pass Targets,Receptions,Receiving Yards,Receiving Yards per Reception,Receiving Touchdowns,First Downs Receiving,Receiving Success Rate,Longest Reception,Receptions per Game,Receiving Yards per Game,Catch Per.,Receiving Yards per Target,Touches: Rushing Attempts and Receptions,Scrimmage Yards per Touch: Rushing + Receiving Yardage per Opportunity,Yards from Scrimmage: Receiving and Rushing Yards,Rushing and Receiving Touchdowns,Lost and Recovered Fumbles,Year
-0,35,Chiefs,Charcandrick West,24,RB,15,9,160,634,4,36,42.5,38,4.0,42.3,10.7,34,20,214,10.7,1,6,32.4,80,1.3,14.3,58.8,6.3,180,4.7,848,5,1,2015
-1,11,Chiefs,Alex Smith,31,QB,16,16,84,498,2,34,51.2,49,5.9,31.1,5.3,0,0,0,,0,0,,0,,,0.0,,84,5.9,498,2,4,2015
-2,32,Chiefs,Spencer Ware,24,RB,11,2,72,403,6,20,54.2,52,5.6,36.6,6.5,6,6,5,0.8,0,0,0.0,5,0.5,0.5,100.0,0.8,78,5.2,408,6,0,2015
-3,25,Chiefs,Jamaal Charles,29,RB,5,5,71,364,4,22,46.5,34,5.1,72.8,14.2,29,21,177,8.4,1,10,44.8,26,4.2,35.4,72.4,6.1,92,5.9,541,5,3,2015
-4,34,Chiefs,Knile Davis,24,RB,14,0,28,72,1,5,32.1,10,2.6,5.1,2.0,3,2,24,12.0,0,1,33.3,12,0.1,1.7,66.7,8.0,30,3.2,96,1,0,2015
-5,13,Chiefs,De'Anthony Thomas,22,RB,10,1,9,34,1,3,55.6,13,3.8,3.4,0.9,25,17,140,8.2,1,6,28.0,36,1.7,14.0,68.0,5.6,26,6.7,174,2,2,2015
-6,12,Chiefs,Albert Wilson,23,WR,14,12,5,26,0,1,60.0,8,5.2,1.9,0.4,57,35,451,12.9,2,19,45.6,44,2.5,32.2,61.4,7.9,40,11.9,477,2,0,2015
-7,19,Chiefs,Jeremy Maclin,27,WR,15,15,3,14,0,1,33.3,18,4.7,0.9,0.2,124,87,1088,12.5,8,50,57.3,61,5.8,72.5,70.2,8.8,90,12.2,1102,8,2,2015
-8,10,Chiefs,Chase Daniel,29,QB,2,0,2,-2,0,0,0.0,-1,-1.0,-1.0,1.0,0,0,0,,0,0,,0,,,0.0,,2,-1.0,-2,0,0,2015
-9,42,Chiefs,Anthony Sherman,27,RB,16,2,1,0,0,0,0.0,0,0.0,0.0,0.1,5,4,34,8.5,0,1,20.0,18,0.3,2.1,80.0,6.8,5,6.8,34,0,0,2015
-10,92,Chiefs,Dontari Poe,25,NT,15,13,1,1,1,1,100.0,1,1.0,0.1,0.1,0,0,0,,0,0,,0,,,0.0,,1,1.0,1,1,0,2015
-11,87,Chiefs,Travis Kelce,26,TE,16,16,0,0,0,0,,0,,,,103,72,875,12.2,5,40,55.3,42,4.5,54.7,69.9,8.5,72,12.2,875,5,2,2015
-12,17,Chiefs,Chris Conley,23,WR,16,5,0,0,0,0,,0,,,,31,17,199,11.7,1,12,51.6,44,1.1,12.4,54.8,6.4,17,11.7,199,1,0,2015
-13,81,Chiefs,Jason Avant,32,WR,16,1,0,0,0,0,,0,,,,24,15,119,7.9,0,5,54.2,20,0.9,7.4,62.5,5.0,15,7.9,119,0,0,2015
-14,84,Chiefs,Demetrius Harris,24,TE,16,9,0,0,0,0,,0,,,,11,7,74,10.6,1,2,45.5,25,0.4,4.6,63.6,6.7,7,10.6,74,1,0,2015
-15,80,Chiefs,James O'Shaughnessy,23,TE,7,3,0,0,0,0,,0,,,,9,6,87,14.5,0,4,55.6,30,0.9,12.4,66.7,9.7,6,14.5,87,0,0,2015
-16,82,Chiefs,Brian Parker,23,TE,9,0,0,0,0,0,,0,,,,2,1,6,6.0,0,0,,6,0.1,0.7,50.0,3.0,1,6.0,6,0,0,2015
+,No.,Player,Age,Position,Games Played,Games Started as an Offensive or Defensive Player,Rushing Attempts,Rushing Yards Gained,Rushing Touchdown,First Downs Rushing,Rushing Success Rate,Longest Rushing Attempt,Rushing Yards per Attempt,Rushing Yards per Game,Rushing Attempts per Game,Pass Targets,Receptions,Receiving Yards,Receiving Yards per Reception,Receiving Touchdowns,First Downs Receiving,Receiving Success Rate,Longest Reception,Receptions per Game,Receiving Yards per Game,Catch Per.,Receiving Yards per Target,Touches: Rushing Attempts and Receptions,Scrimmage Yards per Touch: Rushing + Receiving Yardage per Opportunity,Yards from Scrimmage: Receiving and Rushing Yards,Rushing and Receiving Touchdowns,Lost and Recovered Fumbles,Team,Year
+35,35,Charcandrick West,24,RB,15,9,160,634,4,36,42.5,38,4.0,42.3,10.7,34,20,214,10.7,1,6,32.4,80,1.3,14.3,58.8,6.3,180,4.7,848,5,1,Chiefs,2015
+11,11,Alex Smith,31,QB,16,16,84,498,2,34,51.2,49,5.9,31.1,5.3,0,0,0,0.0,0,0,0.0,0,0.0,0.0,0.0,0.0,84,5.9,498,2,4,Chiefs,2015
+32,32,Spencer Ware,24,RB,11,2,72,403,6,20,54.2,52,5.6,36.6,6.5,6,6,5,0.8,0,0,0.0,5,0.5,0.5,100.0,0.8,78,5.2,408,6,0,Chiefs,2015
+25,25,Jamaal Charles,29,RB,5,5,71,364,4,22,46.5,34,5.1,72.8,14.2,29,21,177,8.4,1,10,44.8,26,4.2,35.4,72.4,6.1,92,5.9,541,5,3,Chiefs,2015
+34,34,Knile Davis,24,RB,14,0,28,72,1,5,32.1,10,2.6,5.1,2.0,3,2,24,12.0,0,1,33.3,12,0.1,1.7,66.7,8.0,30,3.2,96,1,0,Chiefs,2015
+13,13,De'Anthony Thomas,22,RB,10,1,9,34,1,3,55.6,13,3.8,3.4,0.9,25,17,140,8.2,1,6,28.0,36,1.7,14.0,68.0,5.6,26,6.7,174,2,2,Chiefs,2015
+12,12,Albert Wilson,23,WR,14,12,5,26,0,1,60.0,8,5.2,1.9,0.4,57,35,451,12.9,2,19,45.6,44,2.5,32.2,61.4,7.9,40,11.9,477,2,0,Chiefs,2015
+19,19,Jeremy Maclin,27,WR,15,15,3,14,0,1,33.3,18,4.7,0.9,0.2,124,87,1088,12.5,8,50,57.3,61,5.8,72.5,70.2,8.8,90,12.2,1102,8,2,Chiefs,2015
+10,10,Chase Daniel,29,QB,2,0,2,-2,0,0,0.0,-1,-1.0,-1.0,1.0,0,0,0,0.0,0,0,0.0,0,0.0,0.0,0.0,0.0,2,-1.0,-2,0,0,Chiefs,2015
+42,42,Anthony Sherman,27,RB,16,2,1,0,0,0,0.0,0,0.0,0.0,0.1,5,4,34,8.5,0,1,20.0,18,0.3,2.1,80.0,6.8,5,6.8,34,0,0,Chiefs,2015
+92,92,Dontari Poe,25,NT,15,13,1,1,1,1,100.0,1,1.0,0.1,0.1,0,0,0,0.0,0,0,0.0,0,0.0,0.0,0.0,0.0,1,1.0,1,1,0,Chiefs,2015
+87,87,Travis Kelce,26,TE,16,16,0,0,0,0,0.0,0,0.0,0.0,0.0,103,72,875,12.2,5,40,55.3,42,4.5,54.7,69.9,8.5,72,12.2,875,5,2,Chiefs,2015
+17,17,Chris Conley,23,WR,16,5,0,0,0,0,0.0,0,0.0,0.0,0.0,31,17,199,11.7,1,12,51.6,44,1.1,12.4,54.8,6.4,17,11.7,199,1,0,Chiefs,2015
+81,81,Jason Avant,32,WR,16,1,0,0,0,0,0.0,0,0.0,0.0,0.0,24,15,119,7.9,0,5,54.2,20,0.9,7.4,62.5,5.0,15,7.9,119,0,0,Chiefs,2015
+84,84,Demetrius Harris,24,TE,16,9,0,0,0,0,0.0,0,0.0,0.0,0.0,11,7,74,10.6,1,2,45.5,25,0.4,4.6,63.6,6.7,7,10.6,74,1,0,Chiefs,2015
+80,80,James O'Shaughnessy,23,TE,7,3,0,0,0,0,0.0,0,0.0,0.0,0.0,9,6,87,14.5,0,4,55.6,30,0.9,12.4,66.7,9.7,6,14.5,87,0,0,Chiefs,2015
+82,82,Brian Parker,23,TE,9,0,0,0,0,0,0.0,0,0.0,0.0,0.0,2,1,6,6.0,0,0,0.0,6,0.1,0.7,50.0,3.0,1,6.0,6,0,0,Chiefs,2015

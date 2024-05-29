@@ -1,46 +1,46 @@
-,Rank,Team,Date,Opponent,Win/Loss,Score,Quarter,Distance,Type,Detail,Year
-0,1,Buffalos,09/13/2015,IND,Win, 27-14,1,51,pass,Percy Harvin,2015
-1,2,Buffalos,09/13/2015,IND,Win, 27-14,2,26,rush,Karlos Williams,2015
-2,3,Buffalos,09/13/2015,IND,Win, 27-14,3,1,rush,Anthony Dixon,2015
-3,4,Buffalos,09/20/2015,NWE,Loss, 32-40,1,2,rush,Karlos Williams,2015
-4,5,Buffalos,09/20/2015,NWE,Loss, 32-40,2,9,pass,Charles Clay,2015
-5,6,Buffalos,09/20/2015,NWE,Loss, 32-40,4,32,pass,Robert Woods,2015
-6,7,Buffalos,09/20/2015,NWE,Loss, 32-40,4,7,rush,Tyrod Taylor,2015
-7,8,Buffalos,09/20/2015,NWE,Loss, 32-40,4,24,pass,Sammy Watkins,2015
-8,9,Buffalos,09/27/2015,MIA,Win, 41-14,1,25,pass,Charles Clay,2015
-9,10,Buffalos,09/27/2015,MIA,Win, 41-14,1,10,pass,LeSean McCoy,2015
-10,11,Buffalos,09/27/2015,MIA,Win, 41-14,2,43,interception,Preston Brown,2015
-11,12,Buffalos,09/27/2015,MIA,Win, 41-14,4,38,pass,Chris Hogan,2015
-12,13,Buffalos,09/27/2015,MIA,Win, 41-14,4,41,rush,Karlos Williams,2015
-13,14,Buffalos,10/04/2015,NYG,Loss, 10-24,4,23,pass,Karlos Williams,2015
-14,15,Buffalos,10/11/2015,TEN,Win, 14-13,3,22,rush,Tyrod Taylor,2015
-15,16,Buffalos,10/11/2015,TEN,Win, 14-13,4,2,pass,Chris Hogan,2015
-16,17,Buffalos,10/18/2015,CIN,Loss, 21-34,1,2,rush,EJ Manuel,2015
-17,18,Buffalos,10/18/2015,CIN,Loss, 21-34,2,22,pass,Sammy Watkins,2015
-18,19,Buffalos,10/18/2015,CIN,Loss, 21-34,4,4,rush,LeSean McCoy,2015
-19,20,Buffalos,10/25/2015,JAX,Loss, 31-34,2,16,pass,Robert Woods,2015
-20,21,Buffalos,10/25/2015,JAX,Loss, 31-34,4,58,pass,Marcus Easley,2015
-21,22,Buffalos,10/25/2015,JAX,Loss, 31-34,4,44,interception,Corey Graham,2015
-22,23,Buffalos,11/08/2015,MIA,Win, 33-17,1,48,rush,LeSean McCoy,2015
-23,24,Buffalos,11/08/2015,MIA,Win, 33-17,2,11,rush,Karlos Williams,2015
-24,25,Buffalos,11/08/2015,MIA,Win, 33-17,3,44,pass,Sammy Watkins,2015
-25,26,Buffalos,11/08/2015,MIA,Win, 33-17,4,38,rush,Karlos Williams,2015
-26,27,Buffalos,11/12/2015,NYJ,Win, 22-17,2,19,fumble,Duke Williams,2015
-27,28,Buffalos,11/12/2015,NYJ,Win, 22-17,3,26,pass,Karlos Williams,2015
-28,29,Buffalos,11/23/2015,NWE,Loss, 13-20,3,27,rush,LeSean McCoy,2015
-29,30,Buffalos,11/29/2015,KAN,Loss, 22-30,1,28,pass,Sammy Watkins,2015
-30,31,Buffalos,11/29/2015,KAN,Loss, 22-30,2,21,pass,Sammy Watkins,2015
-31,32,Buffalos,11/29/2015,KAN,Loss, 22-30,3,10,pass,LeSean McCoy,2015
-32,33,Buffalos,12/06/2015,HOU,Win, 30-21,1,3,pass,Sammy Watkins,2015
-33,34,Buffalos,12/06/2015,HOU,Win, 30-21,2,8,rush,Tyrod Taylor,2015
-34,35,Buffalos,12/06/2015,HOU,Win, 30-21,2,2,pass,Robert Woods,2015
-35,36,Buffalos,12/06/2015,HOU,Win, 30-21,4,40,pass,Charles Clay,2015
-36,37,Buffalos,12/13/2015,PHI,Loss, 20-23,1,47,pass,Sammy Watkins,2015
-37,38,Buffalos,12/13/2015,PHI,Loss, 20-23,3,19,rush,Mike Gillislee,2015
-38,39,Buffalos,12/20/2015,WAS,Loss, 25-35,3,60,rush,Mike Gillislee,2015
-39,40,Buffalos,12/20/2015,WAS,Loss, 25-35,3,48,pass,Sammy Watkins,2015
-40,41,Buffalos,12/20/2015,WAS,Loss, 25-35,4,20,pass,Sammy Watkins,2015
-41,42,Buffalos,12/27/2015,DAL,Win, 16-6,1,1,rush,Karlos Williams,2015
-42,43,Buffalos,12/27/2015,DAL,Win, 16-6,4,50,rush,Mike Gillislee,2015
-43,44,Buffalos,01/03/2016,NYJ,Win, 22-17,1,18,rush,Tyrod Taylor,2015
-44,45,Buffalos,01/03/2016,NYJ,Win, 22-17,2,2,rush,Karlos Williams,2015
+,Rank,Team,Date,Opponent,Win/Loss,Home_Score,Opponenet_Score,Quarter,Distance,Type,Detail
+1,1,Buffalos,2015-09-13,IND,Win,27,14,1,51,pass,Percy Harvin
+2,2,Buffalos,2015-09-13,IND,Win,27,14,2,26,rush,Karlos Williams
+3,3,Buffalos,2015-09-13,IND,Win,27,14,3,1,rush,Anthony Dixon
+4,4,Buffalos,2015-09-20,NWE,Loss,32,40,1,2,rush,Karlos Williams
+5,5,Buffalos,2015-09-20,NWE,Loss,32,40,2,9,pass,Charles Clay
+6,6,Buffalos,2015-09-20,NWE,Loss,32,40,4,32,pass,Robert Woods
+7,7,Buffalos,2015-09-20,NWE,Loss,32,40,4,7,rush,Tyrod Taylor
+8,8,Buffalos,2015-09-20,NWE,Loss,32,40,4,24,pass,Sammy Watkins
+9,9,Buffalos,2015-09-27,MIA,Win,41,14,1,25,pass,Charles Clay
+10,10,Buffalos,2015-09-27,MIA,Win,41,14,1,10,pass,LeSean McCoy
+11,11,Buffalos,2015-09-27,MIA,Win,41,14,2,43,interception,Preston Brown
+12,12,Buffalos,2015-09-27,MIA,Win,41,14,4,38,pass,Chris Hogan
+13,13,Buffalos,2015-09-27,MIA,Win,41,14,4,41,rush,Karlos Williams
+14,14,Buffalos,2015-10-04,NYG,Loss,10,24,4,23,pass,Karlos Williams
+15,15,Buffalos,2015-10-11,TEN,Win,14,13,3,22,rush,Tyrod Taylor
+16,16,Buffalos,2015-10-11,TEN,Win,14,13,4,2,pass,Chris Hogan
+17,17,Buffalos,2015-10-18,CIN,Loss,21,34,1,2,rush,EJ Manuel
+18,18,Buffalos,2015-10-18,CIN,Loss,21,34,2,22,pass,Sammy Watkins
+19,19,Buffalos,2015-10-18,CIN,Loss,21,34,4,4,rush,LeSean McCoy
+20,20,Buffalos,2015-10-25,JAX,Loss,31,34,2,16,pass,Robert Woods
+21,21,Buffalos,2015-10-25,JAX,Loss,31,34,4,58,pass,Marcus Easley
+22,22,Buffalos,2015-10-25,JAX,Loss,31,34,4,44,interception,Corey Graham
+23,23,Buffalos,2015-11-08,MIA,Win,33,17,1,48,rush,LeSean McCoy
+24,24,Buffalos,2015-11-08,MIA,Win,33,17,2,11,rush,Karlos Williams
+25,25,Buffalos,2015-11-08,MIA,Win,33,17,3,44,pass,Sammy Watkins
+26,26,Buffalos,2015-11-08,MIA,Win,33,17,4,38,rush,Karlos Williams
+27,27,Buffalos,2015-11-12,NYJ,Win,22,17,2,19,fumble,Duke Williams
+28,28,Buffalos,2015-11-12,NYJ,Win,22,17,3,26,pass,Karlos Williams
+29,29,Buffalos,2015-11-23,NWE,Loss,13,20,3,27,rush,LeSean McCoy
+30,30,Buffalos,2015-11-29,KAN,Loss,22,30,1,28,pass,Sammy Watkins
+31,31,Buffalos,2015-11-29,KAN,Loss,22,30,2,21,pass,Sammy Watkins
+32,32,Buffalos,2015-11-29,KAN,Loss,22,30,3,10,pass,LeSean McCoy
+33,33,Buffalos,2015-12-06,HOU,Win,30,21,1,3,pass,Sammy Watkins
+34,34,Buffalos,2015-12-06,HOU,Win,30,21,2,8,rush,Tyrod Taylor
+35,35,Buffalos,2015-12-06,HOU,Win,30,21,2,2,pass,Robert Woods
+36,36,Buffalos,2015-12-06,HOU,Win,30,21,4,40,pass,Charles Clay
+37,37,Buffalos,2015-12-13,PHI,Loss,20,23,1,47,pass,Sammy Watkins
+38,38,Buffalos,2015-12-13,PHI,Loss,20,23,3,19,rush,Mike Gillislee
+39,39,Buffalos,2015-12-20,WAS,Loss,25,35,3,60,rush,Mike Gillislee
+40,40,Buffalos,2015-12-20,WAS,Loss,25,35,3,48,pass,Sammy Watkins
+41,41,Buffalos,2015-12-20,WAS,Loss,25,35,4,20,pass,Sammy Watkins
+42,42,Buffalos,2015-12-27,DAL,Win,16,6,1,1,rush,Karlos Williams
+43,43,Buffalos,2015-12-27,DAL,Win,16,6,4,50,rush,Mike Gillislee
+44,44,Buffalos,2016-01-03,NYJ,Win,22,17,1,18,rush,Tyrod Taylor
+45,45,Buffalos,2016-01-03,NYJ,Win,22,17,2,2,rush,Karlos Williams

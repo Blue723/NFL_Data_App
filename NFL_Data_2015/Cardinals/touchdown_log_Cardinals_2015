@@ -1,59 +1,59 @@
-,Rank,Team,Date,Opponent,Win/Loss,Score,Quarter,Distance,Type,Detail,Year
-0,1,Cardinals,09/13/2015,NOR,Win, 31-19,1,10,pass,John Brown,2015
-1,2,Cardinals,09/13/2015,NOR,Win, 31-19,2,1,rush,Andre Ellington,2015
-2,3,Cardinals,09/13/2015,NOR,Win, 31-19,4,17,pass,Darren Fells,2015
-3,4,Cardinals,09/13/2015,NOR,Win, 31-19,4,55,pass,David Johnson,2015
-4,5,Cardinals,09/20/2015,CHI,Win, 48-23,1,108,kickoff,David Johnson,2015
-5,6,Cardinals,09/20/2015,CHI,Win, 48-23,1,6,pass,Jaron Brown,2015
-6,7,Cardinals,09/20/2015,CHI,Win, 48-23,2,8,pass,Larry Fitzgerald,2015
-7,8,Cardinals,09/20/2015,CHI,Win, 48-23,2,26,interception,Tony Jefferson,2015
-8,9,Cardinals,09/20/2015,CHI,Win, 48-23,3,28,pass,Larry Fitzgerald,2015
-9,10,Cardinals,09/20/2015,CHI,Win, 48-23,3,13,rush,David Johnson,2015
-10,11,Cardinals,09/20/2015,CHI,Win, 48-23,4,9,pass,Larry Fitzgerald,2015
-11,12,Cardinals,09/27/2015,SFO,Win, 47-7,1,21,interception,Justin Bethel,2015
-12,13,Cardinals,09/27/2015,SFO,Win, 47-7,1,33,interception,Tyrann Mathieu,2015
-13,14,Cardinals,09/27/2015,SFO,Win, 47-7,2,6,rush,Chris Johnson,2015
-14,15,Cardinals,09/27/2015,SFO,Win, 47-7,2,1,rush,Chris Johnson,2015
-15,16,Cardinals,09/27/2015,SFO,Win, 47-7,3,4,pass,Larry Fitzgerald,2015
-16,17,Cardinals,09/27/2015,SFO,Win, 47-7,4,8,pass,Larry Fitzgerald,2015
-17,18,Cardinals,10/04/2015,STL,Loss, 22-24,4,23,pass,David Johnson,2015
-18,19,Cardinals,10/11/2015,DET,Win, 42-17,2,14,pass,Darren Fells,2015
-19,20,Cardinals,10/11/2015,DET,Win, 42-17,2,4,rush,David Johnson,2015
-20,21,Cardinals,10/11/2015,DET,Win, 42-17,2,2,rush,David Johnson,2015
-21,22,Cardinals,10/11/2015,DET,Win, 42-17,2,18,pass,John Brown,2015
-22,23,Cardinals,10/11/2015,DET,Win, 42-17,3,2,pass,Larry Fitzgerald,2015
-23,24,Cardinals,10/11/2015,DET,Win, 42-17,4,63,rush,Andre Ellington,2015
-24,25,Cardinals,10/18/2015,PIT,Loss, 13-25,1,3,pass,Michael Floyd,2015
-25,26,Cardinals,10/26/2015,BAL,Win, 26-18,1,26,rush,Chris Johnson,2015
-26,27,Cardinals,10/26/2015,BAL,Win, 26-18,2,3,pass,Michael Floyd,2015
-27,28,Cardinals,10/26/2015,BAL,Win, 26-18,4,4,pass,John Brown,2015
-28,29,Cardinals,11/01/2015,CLE,Win, 34-20,1,11,pass,Troy Niklas,2015
-29,30,Cardinals,11/01/2015,CLE,Win, 34-20,3,60,pass,Michael Floyd,2015
-30,31,Cardinals,11/01/2015,CLE,Win, 34-20,3,1,pass,Troy Niklas,2015
-31,32,Cardinals,11/01/2015,CLE,Win, 34-20,4,6,pass,Larry Fitzgerald,2015
-32,33,Cardinals,11/15/2015,SEA,Win, 39-32,2,27,pass,Michael Floyd,2015
-33,34,Cardinals,11/15/2015,SEA,Win, 39-32,2,35,pass,Michael Floyd,2015
-34,35,Cardinals,11/15/2015,SEA,Win, 39-32,4,14,pass,Jermaine Gresham,2015
-35,36,Cardinals,11/15/2015,SEA,Win, 39-32,4,48,rush,Andre Ellington,2015
-36,37,Cardinals,11/22/2015,CIN,Win, 34-31,2,18,pass,Darren Fells,2015
-37,38,Cardinals,11/22/2015,CIN,Win, 34-31,3,64,pass,JJ Nelson,2015
-38,39,Cardinals,11/22/2015,CIN,Win, 34-31,3,18,pass,John Brown,2015
-39,40,Cardinals,11/22/2015,CIN,Win, 34-31,3,16,pass,David Johnson,2015
-40,41,Cardinals,11/29/2015,SFO,Win, 19-13,3,1,rush,David Johnson,2015
-41,42,Cardinals,11/29/2015,SFO,Win, 19-13,4,8,rush,Carson Palmer,2015
-42,43,Cardinals,12/06/2015,STL,Win, 27-3,1,22,pass,JJ Nelson,2015
-43,44,Cardinals,12/06/2015,STL,Win, 27-3,3,10,pass,David Johnson,2015
-44,45,Cardinals,12/06/2015,STL,Win, 27-3,3,35,rush,Kerwynn Williams,2015
-45,46,Cardinals,12/10/2015,MIN,Win, 23-20,1,65,pass,John Brown,2015
-46,47,Cardinals,12/10/2015,MIN,Win, 23-20,3,42,pass,Michael Floyd,2015
-47,48,Cardinals,12/20/2015,PHI,Win, 40-17,1,1,rush,David Johnson,2015
-48,49,Cardinals,12/20/2015,PHI,Win, 40-17,2,47,rush,David Johnson,2015
-49,50,Cardinals,12/20/2015,PHI,Win, 40-17,3,1,rush,David Johnson,2015
-50,51,Cardinals,12/20/2015,PHI,Win, 40-17,3,16,pass,John Brown,2015
-51,52,Cardinals,12/20/2015,PHI,Win, 40-17,4,39,interception,Deone Bucannon,2015
-52,53,Cardinals,12/27/2015,GNB,Win, 38-8,2,3,pass,Larry Fitzgerald,2015
-53,54,Cardinals,12/27/2015,GNB,Win, 38-8,2,7,pass,John Brown,2015
-54,55,Cardinals,12/27/2015,GNB,Win, 38-8,3,14,rush,David Johnson,2015
-55,56,Cardinals,12/27/2015,GNB,Win, 38-8,3,36,fumble,Cory Redding,2015
-56,57,Cardinals,12/27/2015,GNB,Win, 38-8,3,7,fumble,Jerraud Powers,2015
-57,58,Cardinals,01/03/2016,SEA,Loss, 6-36,2,17,pass,Larry Fitzgerald,2015
+,Rank,Team,Date,Opponent,Win/Loss,Home_Score,Opponenet_Score,Quarter,Distance,Type,Detail
+1,1,Cardinals,2015-09-13,NOR,Win,31,19,1,10,pass,John Brown
+2,2,Cardinals,2015-09-13,NOR,Win,31,19,2,1,rush,Andre Ellington
+3,3,Cardinals,2015-09-13,NOR,Win,31,19,4,17,pass,Darren Fells
+4,4,Cardinals,2015-09-13,NOR,Win,31,19,4,55,pass,David Johnson
+5,5,Cardinals,2015-09-20,CHI,Win,48,23,1,108,kickoff,David Johnson
+6,6,Cardinals,2015-09-20,CHI,Win,48,23,1,6,pass,Jaron Brown
+7,7,Cardinals,2015-09-20,CHI,Win,48,23,2,8,pass,Larry Fitzgerald
+8,8,Cardinals,2015-09-20,CHI,Win,48,23,2,26,interception,Tony Jefferson
+9,9,Cardinals,2015-09-20,CHI,Win,48,23,3,28,pass,Larry Fitzgerald
+10,10,Cardinals,2015-09-20,CHI,Win,48,23,3,13,rush,David Johnson
+11,11,Cardinals,2015-09-20,CHI,Win,48,23,4,9,pass,Larry Fitzgerald
+12,12,Cardinals,2015-09-27,SFO,Win,47,7,1,21,interception,Justin Bethel
+13,13,Cardinals,2015-09-27,SFO,Win,47,7,1,33,interception,Tyrann Mathieu
+14,14,Cardinals,2015-09-27,SFO,Win,47,7,2,6,rush,Chris Johnson
+15,15,Cardinals,2015-09-27,SFO,Win,47,7,2,1,rush,Chris Johnson
+16,16,Cardinals,2015-09-27,SFO,Win,47,7,3,4,pass,Larry Fitzgerald
+17,17,Cardinals,2015-09-27,SFO,Win,47,7,4,8,pass,Larry Fitzgerald
+18,18,Cardinals,2015-10-04,STL,Loss,22,24,4,23,pass,David Johnson
+19,19,Cardinals,2015-10-11,DET,Win,42,17,2,14,pass,Darren Fells
+20,20,Cardinals,2015-10-11,DET,Win,42,17,2,4,rush,David Johnson
+21,21,Cardinals,2015-10-11,DET,Win,42,17,2,2,rush,David Johnson
+22,22,Cardinals,2015-10-11,DET,Win,42,17,2,18,pass,John Brown
+23,23,Cardinals,2015-10-11,DET,Win,42,17,3,2,pass,Larry Fitzgerald
+24,24,Cardinals,2015-10-11,DET,Win,42,17,4,63,rush,Andre Ellington
+25,25,Cardinals,2015-10-18,PIT,Loss,13,25,1,3,pass,Michael Floyd
+26,26,Cardinals,2015-10-26,BAL,Win,26,18,1,26,rush,Chris Johnson
+27,27,Cardinals,2015-10-26,BAL,Win,26,18,2,3,pass,Michael Floyd
+28,28,Cardinals,2015-10-26,BAL,Win,26,18,4,4,pass,John Brown
+29,29,Cardinals,2015-11-01,CLE,Win,34,20,1,11,pass,Troy Niklas
+30,30,Cardinals,2015-11-01,CLE,Win,34,20,3,60,pass,Michael Floyd
+31,31,Cardinals,2015-11-01,CLE,Win,34,20,3,1,pass,Troy Niklas
+32,32,Cardinals,2015-11-01,CLE,Win,34,20,4,6,pass,Larry Fitzgerald
+33,33,Cardinals,2015-11-15,SEA,Win,39,32,2,27,pass,Michael Floyd
+34,34,Cardinals,2015-11-15,SEA,Win,39,32,2,35,pass,Michael Floyd
+35,35,Cardinals,2015-11-15,SEA,Win,39,32,4,14,pass,Jermaine Gresham
+36,36,Cardinals,2015-11-15,SEA,Win,39,32,4,48,rush,Andre Ellington
+37,37,Cardinals,2015-11-22,CIN,Win,34,31,2,18,pass,Darren Fells
+38,38,Cardinals,2015-11-22,CIN,Win,34,31,3,64,pass,JJ Nelson
+39,39,Cardinals,2015-11-22,CIN,Win,34,31,3,18,pass,John Brown
+40,40,Cardinals,2015-11-22,CIN,Win,34,31,3,16,pass,David Johnson
+41,41,Cardinals,2015-11-29,SFO,Win,19,13,3,1,rush,David Johnson
+42,42,Cardinals,2015-11-29,SFO,Win,19,13,4,8,rush,Carson Palmer
+43,43,Cardinals,2015-12-06,STL,Win,27,3,1,22,pass,JJ Nelson
+44,44,Cardinals,2015-12-06,STL,Win,27,3,3,10,pass,David Johnson
+45,45,Cardinals,2015-12-06,STL,Win,27,3,3,35,rush,Kerwynn Williams
+46,46,Cardinals,2015-12-10,MIN,Win,23,20,1,65,pass,John Brown
+47,47,Cardinals,2015-12-10,MIN,Win,23,20,3,42,pass,Michael Floyd
+48,48,Cardinals,2015-12-20,PHI,Win,40,17,1,1,rush,David Johnson
+49,49,Cardinals,2015-12-20,PHI,Win,40,17,2,47,rush,David Johnson
+50,50,Cardinals,2015-12-20,PHI,Win,40,17,3,1,rush,David Johnson
+51,51,Cardinals,2015-12-20,PHI,Win,40,17,3,16,pass,John Brown
+52,52,Cardinals,2015-12-20,PHI,Win,40,17,4,39,interception,Deone Bucannon
+53,53,Cardinals,2015-12-27,GNB,Win,38,8,2,3,pass,Larry Fitzgerald
+54,54,Cardinals,2015-12-27,GNB,Win,38,8,2,7,pass,John Brown
+55,55,Cardinals,2015-12-27,GNB,Win,38,8,3,14,rush,David Johnson
+56,56,Cardinals,2015-12-27,GNB,Win,38,8,3,36,fumble,Cory Redding
+57,57,Cardinals,2015-12-27,GNB,Win,38,8,3,7,fumble,Jerraud Powers
+58,58,Cardinals,2016-01-03,SEA,Loss,6,36,2,17,pass,Larry Fitzgerald

@@ -1,5 +1,5 @@
-,Player,Team,3rd Down Attempts in Game,3rd Down Conversions,3rd Down Conversion Per.,4th Down Attempts in Game,4th Down Conversions in Game,4th Down Conversion Per.,Red Zone Attempts,Touchdowns Scored After the Team Entered the Red Zone,Per. of the Time a Team Reaches the Red Zone and Scores a Touchdown,Year
-0,Team Stats,Rams,201.0,52.0,25.9,13.0,4.0,30.8,36.0,19.0,52.8,2015.0
-1,Opp. Stats,Rams,225.0,78.0,34.7,15.0,4.0,26.7,48.0,20.0,41.7,2015.0
-2,Lg Rank Offense,Rams,,,32.0,,,32.0,,,23.0,2015.0
-3,Lg Rank Defense,Rams,,,6.0,,,3.0,,,2.0,2015.0
+,Player,3rd Down Attempts in Game,3rd Down Conversions,3rd Down Conversion Per.,4th Down Attempts in Game,4th Down Conversions in Game,4th Down Conversion Per.,Red Zone Attempts,Touchdowns Scored After the Team Entered the Red Zone,Per. of the Time a Team Reaches the Red Zone and Scores a Touchdown,Team,Year
+Team Stats,Team Stats,201.0,52.0,25.9,13.0,4.0,30.8,36.0,19.0,52.8,Rams,2015
+Opp. Stats,Opp. Stats,225.0,78.0,34.7,15.0,4.0,26.7,48.0,20.0,41.7,Rams,2015
+Lg Rank Offense,Lg Rank Offense,0.0,0.0,32.0,0.0,0.0,32.0,0.0,0.0,23,Rams,2015
+Lg Rank Defense,Lg Rank Defense,0.0,0.0,6.0,0.0,0.0,3.0,0.0,0.0,2,Rams,2015
