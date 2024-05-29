@@ -1,8 +1,8 @@
-,No.,Team,Player,Age,Position,Games Played,Games Started,Punts Returned,Punts Return Yardage,Punts Returned for Touchdown,Longest Punt Return,Yards per Punt Return,Kickoff Returns,Yardage for Kickoffs Returned,Kickoffs Returned for a Touchdown,Longest Kickoff Return,Yards per Kickoff Return,All-purpose Yards,Year
-0,39,Jaguars,Jamal Agnew,28,WR,11,1,14,144,0,48,10.3,15,391,0,53,26.1,758,2023
-1,11,Jaguars,Parker Washington,21,WR,9,1,12,126,0,26,10.5,2,51,0,33,25.5,308,2023
-2,25,Jaguars,D'Ernest Johnson,27,RB,17,0,0,0,0,0,,7,126,0,22,18.0,374,2023
-3,4,Jaguars,Tank Bigsby,22,RB,17,0,0,0,0,0,,4,99,0,31,24.8,228,2023
-4,13,Jaguars,Christian Kirk,27,WR,12,12,2,27,0,15,13.5,0,0,0,0,,820,2023
-5,29,Jaguars,Tevaughn Campbell,30,CB,2,0,1,0,0,0,0.0,0,0,0,0,,0,2023
-6,20,Jaguars,Daniel Thomas,25,S,15,0,0,0,0,0,,1,21,0,21,21.0,21,2023
+,No.,Player,Age,Position,Games Played,Games Started,Punts Returned,Punts Return Yardage,Punts Returned for Touchdown,Longest Punt Return,Yards per Punt Return,Kickoff Returns,Yardage for Kickoffs Returned,Kickoffs Returned for a Touchdown,Longest Kickoff Return,Yards per Kickoff Return,All-purpose Yards,Team,Year
+39,39,Jamal Agnew,28,WR,11,1,14,144,0,48,10.3,15,391,0,53,26.1,758,Jaguars,2023
+11,11,Parker Washington,21,WR,9,1,12,126,0,26,10.5,2,51,0,33,25.5,308,Jaguars,2023
+25,25,D'Ernest Johnson,27,RB,17,0,0,0,0,0,0.0,7,126,0,22,18.0,374,Jaguars,2023
+4,4,Tank Bigsby,22,RB,17,0,0,0,0,0,0.0,4,99,0,31,24.8,228,Jaguars,2023
+13,13,Christian Kirk,27,WR,12,12,2,27,0,15,13.5,0,0,0,0,0.0,820,Jaguars,2023
+29,29,Tevaughn Campbell,30,CB,2,0,1,0,0,0,0.0,0,0,0,0,0.0,0,Jaguars,2023
+20,20,Daniel Thomas,25,S,15,0,0,0,0,0,0.0,1,21,0,21,21.0,21,Jaguars,2023

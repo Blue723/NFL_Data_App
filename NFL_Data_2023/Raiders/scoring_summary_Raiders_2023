@@ -1,14 +1,14 @@
-,No.,Team,Player,Age,Pos,Games Played,Games Started,Rush TD,Reception TD,Punt Return TD,Kick Return TD,Fumble Return TD,Interception TD,Other TD,All Touchdown Scored,2-Point Conversions Made,Two-Point Conversions Attempted,Defensive Two-Point Conversions,Extra Points Made,Extra Points Allowed,Field Goals Made,Field Goals Attempted,Safeties Scored by Player/Team,Total Points Scored by all Means,Poins per Game,Year
-0,2,Raiders,Daniel Carlson,28,K,17,0,0,0,0,0,0,0,0,0,0,0,0,32,32,26,30,,110,6.5,2023
-1,16,Raiders,Jakobi Meyers,27,WR,16,16,2,8,0,0,0,0,0,10,0,0,0,0,0,0,0,,60,3.8,2023
-2,17,Raiders,Davante Adams,31,WR,17,17,0,8,0,0,0,0,0,8,0,0,0,0,0,0,0,,48,2.8,2023
-3,8,Raiders,Josh Jacobs,25,RB,13,13,6,0,0,0,0,0,0,6,0,0,0,0,0,0,0,,36,2.8,2023
-4,87,Raiders,Michael Mayer,22,TE,14,12,0,2,0,0,0,0,0,2,1,0,0,0,0,0,0,,14,1.0,2023
-5,18,Raiders,Jack Jones,26,CB,7,3,0,0,0,0,0,2,0,2,0,0,0,0,0,0,0,,12,1.7,2023
-6,11,Raiders,Tre Tucker,22,WR,16,1,0,2,0,0,0,0,0,2,0,0,0,0,0,0,0,,12,0.8,2023
-7,34,Raiders,Brandon Bolden,33,RB,17,0,1,0,0,0,0,0,0,1,1,0,0,0,0,0,0,,8,0.5,2023
-8,95,Raiders,John Jenkins,34,DT,17,17,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,,6,0.4,2023
-9,91,Raiders,Bilal Nichols,27,LDT,17,17,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,,6,0.4,2023
-10,4,Raiders,Aidan O'Connell,25,QB,11,10,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,,6,0.5,2023
-11,24,Raiders,Marcus Peters,30,RCB,12,12,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,,6,0.5,2023
-12,35,Raiders,Zamir White,24,RB,17,4,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,,6,0.4,2023
+,No.,Player,Age,Pos,Games Played,Games Started,Rush TD,Reception TD,Punt Return TD,Kick Return TD,Fumble Return TD,Interception TD,Other TD,All Touchdown Scored,2-Point Conversions Made,Two-Point Conversions Attempted,Defensive Two-Point Conversions,Extra Points Made,Extra Points Allowed,Field Goals Made,Field Goals Attempted,Safeties Scored by Player/Team,Total Points Scored by all Means,Poins per Game,Team,Year
+2,2,Daniel Carlson,28,K,17,0,0,0,0,0,0,0,0,0,0,0,0,32,32,26,30,0,110,6.5,Raiders,2023
+16,16,Jakobi Meyers,27,WR,16,16,2,8,0,0,0,0,0,10,0,0,0,0,0,0,0,0,60,3.8,Raiders,2023
+17,17,Davante Adams,31,WR,17,17,0,8,0,0,0,0,0,8,0,0,0,0,0,0,0,0,48,2.8,Raiders,2023
+8,8,Josh Jacobs,25,RB,13,13,6,0,0,0,0,0,0,6,0,0,0,0,0,0,0,0,36,2.8,Raiders,2023
+87,87,Michael Mayer,22,TE,14,12,0,2,0,0,0,0,0,2,1,0,0,0,0,0,0,0,14,1.0,Raiders,2023
+18,18,Jack Jones,26,CB,7,3,0,0,0,0,0,2,0,2,0,0,0,0,0,0,0,0,12,1.7,Raiders,2023
+11,11,Tre Tucker,22,WR,16,1,0,2,0,0,0,0,0,2,0,0,0,0,0,0,0,0,12,0.8,Raiders,2023
+34,34,Brandon Bolden,33,RB,17,0,1,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,8,0.5,Raiders,2023
+95,95,John Jenkins,34,DT,17,17,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,6,0.4,Raiders,2023
+91,91,Bilal Nichols,27,LDT,17,17,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,6,0.4,Raiders,2023
+4,4,Aidan O'Connell,25,QB,11,10,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,6,0.5,Raiders,2023
+24,24,Marcus Peters,30,RCB,12,12,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,6,0.5,Raiders,2023
+35,35,Zamir White,24,RB,17,4,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,6,0.4,Raiders,2023

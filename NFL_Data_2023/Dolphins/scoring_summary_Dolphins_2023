@@ -1,15 +1,15 @@
-,No.,Team,Player,Age,Pos,Games Played,Games Started,Rush TD,Reception TD,Punt Return TD,Kick Return TD,Fumble Return TD,Interception TD,Other TD,All Touchdown Scored,2-Point Conversions Made,Two-Point Conversions Attempted,Defensive Two-Point Conversions,Extra Points Made,Extra Points Allowed,Field Goals Made,Field Goals Attempted,Safeties Scored by Player/Team,Total Points Scored by all Means,Poins per Game,Year
-0,7,Dolphins,Jason Sanders,28,K,17,0,0,0,0,0,0,0,0,0,0,0,0,58,59,24,28,,130,7.6,2023
-1,31,Dolphins,Raheem Mostert,31,RB,15,15,18,3,0,0,0,0,0,21,0,0,0,0,0,0,0,,126,8.4,2023
-2,10,Dolphins,Tyreek Hill,29,WR,16,16,0,13,0,0,0,0,0,13,0,0,0,0,0,0,0,,78,4.9,2023
-3,28,Dolphins,De'Von Achane,22,RB,11,4,8,3,0,0,0,0,0,11,0,0,0,0,0,0,0,,66,6.0,2023
-4,17,Dolphins,Jaylen Waddle,25,WR,14,14,0,4,0,0,0,0,0,4,0,0,0,0,0,0,0,,24,1.7,2023
-5,11,Dolphins,Cedrick Wilson Jr.,28,WR,15,3,0,3,0,0,0,0,0,3,0,0,0,0,0,0,0,,18,1.2,2023
-6,26,Dolphins,Salvon Ahmed,25,RB,8,0,1,1,0,0,0,0,0,2,0,0,0,0,0,0,0,,12,1.5,2023
-7,55,Dolphins,Jerome Baker,27,LILB,13,12,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,,6,0.5,2023
-8,0,Dolphins,Braxton Berrios,28,WR,16,1,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,,6,0.4,2023
-9,3,Dolphins,Robbie Chosen,30,WR,9,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,,6,0.7,2023
-10,85,Dolphins,River Cracraft,29,WR,10,1,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,,6,0.6,2023
-11,8,Dolphins,Jevon Holland,23,S,12,12,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,,6,0.5,2023
-12,92,Dolphins,Zach Sieler,28,DT,17,17,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,,6,0.4,2023
-13,43,Dolphins,Andrew Van Ginkel,28,LOLB,17,11,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,,6,0.4,2023
+,No.,Player,Age,Pos,Games Played,Games Started,Rush TD,Reception TD,Punt Return TD,Kick Return TD,Fumble Return TD,Interception TD,Other TD,All Touchdown Scored,2-Point Conversions Made,Two-Point Conversions Attempted,Defensive Two-Point Conversions,Extra Points Made,Extra Points Allowed,Field Goals Made,Field Goals Attempted,Safeties Scored by Player/Team,Total Points Scored by all Means,Poins per Game,Team,Year
+7,7,Jason Sanders,28,K,17,0,0,0,0,0,0,0,0,0,0,0,0,58,59,24,28,0,130,7.6,Dolphins,2023
+31,31,Raheem Mostert,31,RB,15,15,18,3,0,0,0,0,0,21,0,0,0,0,0,0,0,0,126,8.4,Dolphins,2023
+10,10,Tyreek Hill,29,WR,16,16,0,13,0,0,0,0,0,13,0,0,0,0,0,0,0,0,78,4.9,Dolphins,2023
+28,28,De'Von Achane,22,RB,11,4,8,3,0,0,0,0,0,11,0,0,0,0,0,0,0,0,66,6.0,Dolphins,2023
+17,17,Jaylen Waddle,25,WR,14,14,0,4,0,0,0,0,0,4,0,0,0,0,0,0,0,0,24,1.7,Dolphins,2023
+11,11,Cedrick Wilson Jr.,28,WR,15,3,0,3,0,0,0,0,0,3,0,0,0,0,0,0,0,0,18,1.2,Dolphins,2023
+26,26,Salvon Ahmed,25,RB,8,0,1,1,0,0,0,0,0,2,0,0,0,0,0,0,0,0,12,1.5,Dolphins,2023
+55,55,Jerome Baker,27,LILB,13,12,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,6,0.5,Dolphins,2023
+0,0,Braxton Berrios,28,WR,16,1,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,6,0.4,Dolphins,2023
+3,3,Robbie Chosen,30,WR,9,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,6,0.7,Dolphins,2023
+85,85,River Cracraft,29,WR,10,1,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,6,0.6,Dolphins,2023
+8,8,Jevon Holland,23,S,12,12,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,6,0.5,Dolphins,2023
+92,92,Zach Sieler,28,DT,17,17,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,6,0.4,Dolphins,2023
+43,43,Andrew Van Ginkel,28,LOLB,17,11,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,6,0.4,Dolphins,2023

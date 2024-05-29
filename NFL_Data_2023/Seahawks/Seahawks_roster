@@ -1,63 +1,73 @@
-Player,No.,Team,Age,Pos,G,GS,Wt,Ht,College/Univ,BirthDate,Yrs,AV,Drafted (tm/rnd/yr)
-Jamal Adams,33.0,Seahawks,28,SS,6,6.0,213.0,6-1,LSU,10/17/1995,6,,New York Jets / 1st / 6th pick / 2017
-Myles Adams,95.0,Seahawks,25,DT,7,0.0,290.0,6-2,Rice,3/9/1998,2,,
-Nick Bellore,44.0,Seahawks,34,LB,8,0.0,250.0,6-1,Central Michigan,5/12/1989,12,,
-Jake Bobo,19.0,Seahawks,25,WR,9,0.0,207.0,,"Duke,UCLA",8/4/1998,Rook,,
-Anthony Bradford,70.0,Seahawks,22,G,6,4.0,332.0,,LSU,4/28/2001,Rook,,Seattle Seahawks / 4th / 108th pick / 2023
-Jordyn Brooks,56.0,Seahawks,26,LB,9,9.0,240.0,6-0,Texas Tech,10/21/1997,3,,Seattle Seahawks / 1st / 27th pick / 2020
-Evan Brown,63.0,Seahawks,27,C,8,8.0,320.0,6-2,SMU,9/16/1996,4,,
-Tre Brown,22.0,Seahawks,26,CB,8,4.0,185.0,5-10,Oklahoma,9/24/1997,2,,Seattle Seahawks / 4th / 137th pick / 2021
-Artie Burns,23.0,Seahawks,28,CB,6,0.0,187.0,6-0,Miami (FL),5/1/1995,7,,Pittsburgh Steelers / 1st / 25th pick / 2016
-Devin Bush Jr.,0.0,Seahawks,25,LB,5,1.0,234.0,5-11,Michigan,7/18/1998,4,,Pittsburgh Steelers / 1st / 10th pick / 2019
-Zach Charbonnet,26.0,Seahawks,22,RB,8,0.0,214.0,,"Michigan,UCLA",1/8/2001,Rook,,Seattle Seahawks / 2nd / 52nd pick / 2023
-Frank Clark,57.0,Seahawks,30,DE,3,0.0,272.0,6-3,Michigan,6/14/1993,8,,Seattle Seahawks / 2nd / 63rd pick / 2015
-Charles Cross,67.0,Seahawks,23,T,6,6.0,311.0,6-5,Mississippi St.,11/25/2000,1,,Seattle Seahawks / 1st / 9th pick / 2022
-McClendon Curtis,66.0,Seahawks,24,G,1,0.0,325.0,6-6,Chattanooga,9/16/1999,Rook,,
-DeeJay Dallas,31.0,Seahawks,25,RB,9,0.0,214.0,5-10,Miami (FL),9/16/1998,3,,Seattle Seahawks / 4th / 144th pick / 2020
-Michael Dickson,4.0,Seahawks,27,P,9,0.0,208.0,6-2,Texas,1/4/1996,5,,Seattle Seahawks / 5th / 149th pick / 2018
-Quandre Diggs,6.0,Seahawks,30,FS,9,9.0,197.0,5-9,Texas,1/22/1993,8,,Detroit Lions / 6th / 200th pick / 2015
-Will Dissly,89.0,Seahawks,27,TE,8,7.0,265.0,6-4,Washington,7/8/1996,5,,Seattle Seahawks / 4th / 120th pick / 2018
-Mario Edwards,97.0,Seahawks,29,DE,9,0.0,280.0,6-3,Florida St.,1/25/1994,8,,Oakland Raiders / 2nd / 35th pick / 2015
-D'Wayne Eskridge,1.0,Seahawks,26,WR,2,0.0,190.0,5-9,Western Michigan,3/23/1997,2,,Seattle Seahawks / 2nd / 56th pick / 2021
-Noah Fant,87.0,Seahawks,26,TE,9,9.0,249.0,6-4,Iowa,11/20/1997,4,,Denver Broncos / 1st / 20th pick / 2019
-Stone Forsythe,78.0,Seahawks,26,T,9,7.0,307.0,6-8,Florida,12/29/1997,2,,Seattle Seahawks / 6th / 208th pick / 2021
-Derick Hall,58.0,Seahawks,22,OLB,9,0.0,252.0,,Auburn,3/19/2001,Rook,,Seattle Seahawks / 2nd / 37th pick / 2023
-Phil Haynes,60.0,Seahawks,28,G,6,6.0,322.0,6-4,Wake Forest,10/19/1995,4,,Seattle Seahawks / 4th / 124th pick / 2019
-Michael Jackson,30.0,Seahawks,26,CB,9,0.0,210.0,6-1,Miami (FL),1/10/1997,4,,Dallas Cowboys / 5th / 158th pick / 2019
-Dre'Mont Jones,55.0,Seahawks,26,DE,9,9.0,281.0,6-3,Ohio St.,1/5/1997,4,,Denver Broncos / 3rd / 71st pick / 2019
-Damien Lewis,68.0,Seahawks,26,G,8,8.0,327.0,6-2,LSU,3/21/1997,3,,Seattle Seahawks / 3rd / 69th pick / 2020
-Drew Lock,2.0,Seahawks,27,QB,1,0.0,228.0,6-4,Missouri,11/10/1996,4,,Denver Broncos / 2nd / 42nd pick / 2019
-Tyler Lockett,16.0,Seahawks,31,WR,9,9.0,182.0,5-10,Kansas St.,9/28/1992,8,,Seattle Seahawks / 3rd / 69th pick / 2015
-Julian Love,20.0,Seahawks,25,S,9,6.0,195.0,5-11,Notre Dame,3/19/1998,4,,New York Giants / 4th / 108th pick / 2019
-Boye Mafe,53.0,Seahawks,25,LB,8,8.0,261.0,6-4,Minnesota,11/30/1998,1,,Seattle Seahawks / 2nd / 40th pick / 2022
-Kenny McIntosh,25.0,Seahawks,23,RB,0,0.0,210.0,,Georgia,3/3/2000,Rook,,Seattle Seahawks / 7th / 237th pick / 2023
-D.K. Metcalf,14.0,Seahawks,26,WR,8,8.0,235.0,6-4,Mississippi,12/14/1997,4,,Seattle Seahawks / 2nd / 64th pick / 2019
-Jason Myers,5.0,Seahawks,32,K,9,0.0,190.0,5-10,Marist,5/12/1991,8,,
-Raiqwon O'Neal,79.0,Seahawks,23,T,3,0.0,305.0,6-4,"Rutgers,UCLA",1/12/2000,Rook,,
-Ty Okada,39.0,Seahawks,24,SS,0,0.0,193.0,5-11,Montana State,6/4/1999,Rook,,
-Olusegun Oluwatimi,51.0,Seahawks,24,C,8,1.0,307.0,,"Air Force,Virginia,Michigan",8/5/1999,Rook,,Seattle Seahawks / 5th / 154th pick / 2023
-Colby Parkinson,84.0,Seahawks,24,TE,9,1.0,251.0,6-7,Stanford,1/8/1999,3,,Seattle Seahawks / 4th / 133rd pick / 2020
-Jason Peters,70.0,Seahawks,41,T,3,0.0,328.0,6-4,Arkansas,1/22/1982,19,,
-Jarran Reed,90.0,Seahawks,31,DE,9,9.0,306.0,6-3,"East Mississippi CC,Alabama",12/16/1992,7,,Seattle Seahawks / 2nd / 49th pick / 2016
-Jerrick Reed,32.0,Seahawks,23,S,9,0.0,196.0,5-9,"Northwest Mississippi CC,New Mexico",8/7/2000,Rook,,Seattle Seahawks / 6th / 198th pick / 2023
-Jon Rhattigan,59.0,Seahawks,24,LB,9,0.0,236.0,6-0,Army,2/2/1999,2,,
-Brady Russell,38.0,Seahawks,25,TE,7,0.0,247.0,6-3,Colorado,8/31/1998,Rook,,
-Geno Smith,7.0,Seahawks,33,QB,9,9.0,221.0,6-3,West Virginia,10/10/1990,10,,New York Jets / 2nd / 39th pick / 2013
-Jaxon Smith-Njigba,11.0,Seahawks,21,WR,9,2.0,197.0,,Ohio St.,2/14/2002,Rook,,Seattle Seahawks / 1st / 20th pick / 2023
-Chris Stoll,41.0,Seahawks,25,LS,9,0.0,255.0,6-2,Penn St.,8/3/1998,Rook,,
-Darrell Taylor,52.0,Seahawks,26,LB,9,3.0,267.0,6-4,Tennessee,3/24/1997,2,,Seattle Seahawks / 2nd / 48th pick / 2020
-Bobby Wagner,54.0,Seahawks,33,LB,9,9.0,242.0,6-0,Utah St.,6/27/1990,11,,Seattle Seahawks / 2nd / 47th pick / 2012
-Kenneth Walker III,9.0,Seahawks,23,RB,9,9.0,211.0,5-9,"Wake Forest,Michigan St.",10/20/2000,1,,Seattle Seahawks / 2nd / 41st pick / 2022
-Leonard Williams,99.0,Seahawks,29,DL,2,2.0,300.0,6-5,USC,6/20/1994,8,,New York Jets / 1st / 6th pick / 2015
-Devon Witherspoon,21.0,Seahawks,23,CB,8,8.0,185.0,,Illinois,12/11/2000,Rook,,Seattle Seahawks / 1st / 5th pick / 2023
-Riq Woolen,27.0,Seahawks,24,CB,8,8.0,210.0,6-4,Texas-San Antonio,5/2/1999,1,,Seattle Seahawks / 5th / 153rd pick / 2022
-Cameron Young,93.0,Seahawks,23,DT,9,0.0,304.0,,Mississippi St.,6/8/2000,Rook,,Seattle Seahawks / 4th / 123rd pick / 2023
-Dareke Young,83.0,Seahawks,24,WR,1,0.0,224.0,6-2,Lenoir-Rhyne,6/4/1999,1,,Seattle Seahawks / 7th / 233rd pick / 2022
-Bryan Mone (PUP),91.0,Seahawks,28,DT,0,0.0,345.0,6-3,Michigan,10/20/1995,4,,
-Abraham Lucas (IRD),72.0,Seahawks,25,T,1,1.0,322.0,6-6,Washington St.,10/25/1998,1,,Seattle Seahawks / 3rd / 72nd pick / 2022
-Coby Bryant (IR),8.0,Seahawks,24,CB,2,2.0,193.0,6-1,Cincinnati,3/29/1999,1,,Seattle Seahawks / 4th / 109th pick / 2022
-Mike Morris (IR),94.0,Seahawks,22,DE,1,0.0,295.0,,Michigan,4/22/2001,Rook,,Seattle Seahawks / 5th / 151st pick / 2023
-Uchenna Nwosu (IR),10.0,Seahawks,27,LB,6,6.0,251.0,6-2,USC,12/28/1996,5,,Los Angeles Chargers / 2nd / 48th pick / 2018
-Josh Onujiogu (IR),49.0,Seahawks,25,LB,0,0.0,252.0,6-2,Framingham St.,3/3/1998,1,,
-Drake Thomas (IR),42.0,Seahawks,23,LB,7,0.0,228.0,,North Carolina St.,2/25/2000,Rook,,
-Team Total,,Seahawks,26,,9,,247.6,6-2.0,,,3.2,,
+,No.,Player,BirthDate,Age,Height,Weight,College/University,Position,Games_Played_in_Season,Games_Started_in_Season,NFL_Years,Player_Value,Team,Year
+0,33.0,Jamal Adams,10/17/1995,28.0,6-1,213.0,LSU,SS,9,9.0,6.0,2.0,Seahawks,2023
+1,95.0,Myles Adams,3/9/1998,25.0,6-2,290.0,Rice,DT,11,1.0,2.0,1.0,Seahawks,2023
+2,44.0,Nick Bellore,5/12/1989,34.0,6-1,250.0,Central Michigan,LB,16,0.0,12.0,3.0,Seahawks,2023
+3,19.0,Jake Bobo,8/4/1998,25.0,,207.0,"Duke,UCLA",WR,17,0.0,0.0,2.0,Seahawks,2023
+4,18.0,Lance Boykin,8/31/2000,23.0,6-2,198.0,"Old Dominion,Coastal Carolina",CB,1,0.0,0.0,0.0,Seahawks,2023
+5,70.0,Anthony Bradford,4/28/2001,22.0,,332.0,LSU,G,14,10.0,0.0,4.0,Seahawks,2023
+6,56.0,Jordyn Brooks,10/21/1997,26.0,6-0,240.0,Texas Tech,RILB,16,16.0,3.0,6.0,Seahawks,2023
+7,76.0,Ben Brown,5/19/1998,25.0,,312.0,Mississippi,G,1,0.0,0.0,0.0,Seahawks,2023
+8,63.0,Evan Brown,9/16/1996,27.0,6-2,320.0,SMU,C,16,16.0,4.0,7.0,Seahawks,2023
+9,22.0,Tre Brown,9/24/1997,26.0,5-10,185.0,Oklahoma,CB,15,7.0,2.0,3.0,Seahawks,2023
+10,8.0,Coby Bryant,3/29/1999,24.0,6-1,193.0,Cincinnati,CB,9,2.0,1.0,1.0,Seahawks,2023
+11,23.0,Artie Burns,5/1/1995,28.0,6-0,187.0,Miami (FL),CB,14,1.0,7.0,1.0,Seahawks,2023
+12,0.0,Devin Bush Jr.,7/18/1998,25.0,5-11,234.0,Michigan,LB,13,3.0,4.0,2.0,Seahawks,2023
+13,26.0,Zach Charbonnet,1/8/2001,22.0,,214.0,"Michigan,UCLA",RB,16,2.0,0.0,5.0,Seahawks,2023
+14,57.0,Frank Clark,6/14/1993,30.0,6-3,272.0,Michigan,LB,6,0.0,8.0,0.0,Seahawks,2023
+15,67.0,Charles Cross,11/25/2000,23.0,6-5,311.0,Mississippi St.,T,14,14.0,1.0,7.0,Seahawks,2023
+16,74.0,Jake Curhan,7/9/1998,25.0,6-6,316.0,California,T,10,4.0,2.0,2.0,Seahawks,2023
+17,66.0,McClendon Curtis,9/16/1999,24.0,6-6,325.0,Chattanooga,G,1,0.0,0.0,0.0,Seahawks,2023
+18,31.0,DeeJay Dallas,9/16/1998,25.0,5-10,214.0,Miami (FL),RB,17,0.0,3.0,0.0,Seahawks,2023
+19,4.0,Michael Dickson,1/4/1996,27.0,6-2,208.0,Texas,P,17,0.0,5.0,3.0,Seahawks,2023
+20,6.0,Quandre Diggs,1/22/1993,30.0,5-9,197.0,Texas,FS,17,17.0,8.0,4.0,Seahawks,2023
+21,89.0,Will Dissly,7/8/1996,27.0,6-4,265.0,Washington,TE,16,14.0,5.0,2.0,Seahawks,2023
+22,97.0,Mario Edwards,1/25/1994,29.0,6-3,280.0,Florida St.,DE,15,1.0,8.0,1.0,Seahawks,2023
+23,1.0,D'Wayne Eskridge,3/23/1997,26.0,5-9,190.0,Western Michigan,WR,4,0.0,2.0,0.0,Seahawks,2023
+24,87.0,Noah Fant,11/20/1997,26.0,6-4,249.0,Iowa,TE,17,17.0,4.0,4.0,Seahawks,2023
+25,64.0,Austin Faoliu,1/9/1999,24.0,6-3,305.0,Oregon,NT,2,0.0,2.0,0.0,Seahawks,2023
+26,78.0,Stone Forsythe,12/29/1997,26.0,6-8,307.0,Florida,T,17,8.0,2.0,5.0,Seahawks,2023
+27,58.0,Derick Hall,3/19/2001,22.0,,252.0,Auburn,OLB,17,0.0,0.0,1.0,Seahawks,2023
+28,60.0,Phil Haynes,10/19/1995,28.0,6-4,322.0,Wake Forest,G,8,8.0,4.0,3.0,Seahawks,2023
+29,30.0,Michael Jackson,1/10/1997,26.0,6-1,210.0,Miami (FL),CB,17,4.0,4.0,2.0,Seahawks,2023
+30,55.0,Dre'Mont Jones,1/5/1997,26.0,6-3,281.0,Ohio St.,DE,17,16.0,4.0,6.0,Seahawks,2023
+31,28.0,Kelvin Joseph,11/11/1999,24.0,6-1,192.0,"LSU,Kentucky",CB,1,0.0,2.0,0.0,Seahawks,2023
+32,28.0,Kyu Blu Kelly,5/22/2001,22.0,,193.0,Stanford,CB,5,0.0,0.0,0.0,Seahawks,2023
+33,68.0,Damien Lewis,3/21/1997,26.0,6-2,327.0,LSU,G,16,16.0,3.0,7.0,Seahawks,2023
+34,2.0,Drew Lock,11/10/1996,27.0,6-4,228.0,Missouri,QB,4,2.0,4.0,2.0,Seahawks,2023
+35,16.0,Tyler Lockett,9/28/1992,31.0,5-10,182.0,Kansas St.,WR,17,17.0,8.0,8.0,Seahawks,2023
+36,20.0,Julian Love,3/19/1998,25.0,5-11,195.0,Notre Dame,S,17,12.0,4.0,6.0,Seahawks,2023
+37,72.0,Abraham Lucas,10/25/1998,25.0,6-6,322.0,Washington St.,T,6,6.0,1.0,3.0,Seahawks,2023
+38,53.0,Boye Mafe,11/30/1998,25.0,6-4,261.0,Minnesota,LB,16,16.0,1.0,6.0,Seahawks,2023
+39,25.0,Kenny McIntosh,3/3/2000,23.0,,210.0,Georgia,RB,3,0.0,0.0,0.0,Seahawks,2023
+40,14.0,D.K. Metcalf,12/14/1997,26.0,6-4,235.0,Mississippi,WR,16,16.0,4.0,10.0,Seahawks,2023
+41,94.0,Mike Morris,4/22/2001,22.0,,295.0,Michigan,DE,1,0.0,0.0,0.0,Seahawks,2023
+42,5.0,Jason Myers,5/12/1991,32.0,5-10,190.0,Marist,K,17,0.0,8.0,3.0,Seahawks,2023
+43,10.0,Uchenna Nwosu,12/28/1996,27.0,6-2,251.0,USC,LB,6,6.0,5.0,2.0,Seahawks,2023
+44,50.0,Patrick O'Connell,12/31/1998,25.0,6-1,227.0,"Univ. of Mary,Montana",LB,1,0.0,0.0,0.0,Seahawks,2023
+45,79.0,Raiqwon O'Neal,1/12/2000,23.0,6-4,305.0,"Rutgers,UCLA",T,3,0.0,0.0,0.0,Seahawks,2023
+46,39.0,Ty Okada,6/4/1999,24.0,5-11,193.0,Montana St.,SS,5,0.0,0.0,0.0,Seahawks,2023
+47,51.0,Olusegun Oluwatimi,8/5/1999,24.0,,307.0,"Air Force,Virginia,Michigan",C,16,1.0,0.0,1.0,Seahawks,2023
+48,84.0,Colby Parkinson,1/8/1999,24.0,6-7,251.0,Stanford,TE,17,1.0,3.0,2.0,Seahawks,2023
+49,70.0,Jason Peters,1/22/1982,41.0,6-4,328.0,Arkansas,T,8,2.0,19.0,1.0,Seahawks,2023
+50,90.0,Jarran Reed,12/16/1992,31.0,6-3,306.0,"East Mississippi CC,Alabama",DE,16,16.0,7.0,6.0,Seahawks,2023
+51,32.0,Jerrick Reed,8/7/2000,23.0,5-9,196.0,"Northwest Mississippi CC,New Mexico",S,10,0.0,0.0,0.0,Seahawks,2023
+52,59.0,Jon Rhattigan,2/2/1999,24.0,6-0,236.0,Army,LB,17,0.0,2.0,1.0,Seahawks,2023
+53,38.0,Brady Russell,8/31/1998,25.0,6-3,247.0,Colorado,TE,15,0.0,0.0,0.0,Seahawks,2023
+54,7.0,Geno Smith,10/10/1990,33.0,6-3,221.0,West Virginia,QB,15,15.0,10.0,12.0,Seahawks,2023
+55,92.0,Tyreke Smith,2/14/2000,23.0,6-3,255.0,Ohio St.,LB,1,0.0,0.0,0.0,Seahawks,2023
+56,11.0,Jaxon Smith-Njigba,2/14/2002,21.0,,197.0,Ohio St.,WR,17,3.0,0.0,6.0,Seahawks,2023
+57,41.0,Chris Stoll,8/3/1998,25.0,6-2,255.0,Penn St.,LS,17,0.0,0.0,1.0,Seahawks,2023
+58,36.0,Teez Tabor,12/31/1995,28.0,6-0,201.0,Florida,S,1,0.0,6.0,0.0,Seahawks,2023
+59,52.0,Darrell Taylor,3/24/1997,26.0,6-4,267.0,Tennessee,LB,17,5.0,2.0,3.0,Seahawks,2023
+60,42.0,Drake Thomas,2/25/2000,23.0,,228.0,North Carolina St.,LB,7,0.0,0.0,0.0,Seahawks,2023
+61,13.0,Cody Thompson,1/11/1996,27.0,6-2,205.0,Toledo,WR,7,0.0,2.0,0.0,Seahawks,2023
+62,29.0,SaRodorick Thompson,10/1/1999,24.0,6-0,215.0,Texas Tech,RB,1,0.0,0.0,0.0,Seahawks,2023
+63,54.0,Bobby Wagner,6/27/1990,33.0,6-0,242.0,Utah St.,LB,17,16.0,11.0,10.0,Seahawks,2023
+64,9.0,Kenneth Walker III,10/20/2000,23.0,5-9,211.0,"Wake Forest,Michigan St.",RB,15,15.0,1.0,8.0,Seahawks,2023
+65,99.0,Leonard Williams,6/20/1994,29.0,6-5,300.0,USC,DL,10,10.0,8.0,4.0,Seahawks,2023
+66,86.0,Easop Winston,12/17/1996,27.0,6-0,190.0,Washington St.,WR,1,0.0,2.0,0.0,Seahawks,2023
+67,21.0,Devon Witherspoon,12/11/2000,23.0,,185.0,Illinois,CB,14,13.0,0.0,6.0,Seahawks,2023
+68,27.0,Riq Woolen,5/2/1999,24.0,6-4,210.0,Texas-San Antonio,CB,16,15.0,1.0,4.0,Seahawks,2023
+69,93.0,Cameron Young,6/8/2000,23.0,,304.0,Mississippi St.,DT,16,1.0,0.0,1.0,Seahawks,2023
+70,83.0,Dareke Young,6/4/1999,24.0,6-2,224.0,Lenoir-Rhyne,WR,6,0.0,1.0,0.0,Seahawks,2023
+71,,Team Total,,25.9,6-1.9,246.0,,,17,,3.1,,Seahawks,2023

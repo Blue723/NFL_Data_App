@@ -1,60 +1,67 @@
-Player,No.,Team,Age,Pos,G,GS,Wt,Ht,College/Univ,BirthDate,Yrs,AV,Drafted (tm/rnd/yr)
-Nick Allegretti,73.0,Chiefs,27.0,G,9,0.0,310.0,6-4,Illinois,4/21/1996,4,,Kansas City Chiefs / 7th / 216th pick / 2019
-Felix Anudike-Uzomah,97.0,Chiefs,21.0,DE,9,0.0,255.0,,Kansas St.,1/24/2002,Rook,,Kansas City Chiefs / 1st / 31st pick / 2023
-Blake Bell,81.0,Chiefs,32.0,TE,9,0.0,252.0,6-6,Oklahoma,8/7/1991,8,,San Francisco 49ers / 4th / 117th pick / 2015
-Harrison Butker,7.0,Chiefs,28.0,K,9,0.0,199.0,6-4,Georgia Tech,7/14/1995,6,,Carolina Panthers / 7th / 233rd pick / 2017
-Mike Caliendo,66.0,Chiefs,26.0,OL,3,0.0,301.0,6-4,Western Michigan,10/21/1997,Rook,,
-Leo Chenal,54.0,Chiefs,23.0,LB,9,4.0,250.0,6-3,Wisconsin,10/26/2000,1,,Kansas City Chiefs / 3rd / 103rd pick / 2022
-Jack Cochrane,43.0,Chiefs,24.0,LB,9,0.0,236.0,6-3,South Dakota,2/9/1999,1,,
-Chamarri Conner,27.0,Chiefs,23.0,DB,9,4.0,206.0,,Virginia Tech,7/11/2000,Rook,,Kansas City Chiefs / 4th / 119th pick / 2023
-Bryan Cook,6.0,Chiefs,24.0,S,9,9.0,206.0,6-1,"Howard,Cincinnati",9/7/1999,1,,Kansas City Chiefs / 2nd / 62nd pick / 2022
-Michael Danna,51.0,Chiefs,26.0,DE,9,9.0,257.0,6-2,"Central Michigan,Michigan",12/4/1997,3,,Kansas City Chiefs / 5th / 177th pick / 2020
-Matt Dickerson,93.0,Chiefs,28.0,DT,7,0.0,292.0,6-5,UCLA,11/9/1995,5,,
-Mike Edwards,21.0,Chiefs,27.0,S,9,0.0,205.0,5-10,"Kentucky,Hawaii",5/18/1996,4,,Tampa Bay Buccaneers / 3rd / 99th pick / 2019
-Clyde Edwards-Helaire,25.0,Chiefs,24.0,RB,8,1.0,207.0,5-7,LSU,4/11/1999,3,,Kansas City Chiefs / 1st / 32nd pick / 2020
-Neil Farrell,92.0,Chiefs,25.0,DL,2,0.0,325.0,6-4,LSU,9/9/1998,1,,Las Vegas Raiders / 4th / 126th pick / 2022
-Blaine Gabbert,9.0,Chiefs,34.0,QB,1,0.0,233.0,6-4,Missouri,10/15/1989,12,,Jacksonville Jaguars / 1st / 10th pick / 2011
-Willie Gay Jr.,50.0,Chiefs,25.0,LB,9,8.0,243.0,6-1,Mississippi St.,2/15/1998,3,,Kansas City Chiefs / 2nd / 63rd pick / 2020
-Noah Gray,83.0,Chiefs,24.0,TE,9,5.0,240.0,6-3,Duke,4/30/1999,2,,Kansas City Chiefs / 5th / 162nd pick / 2021
-Mecole Hardman,12.0,Chiefs,25.0,WR,3,0.0,187.0,5-10,Georgia,3/12/1998,4,,Kansas City Chiefs / 2nd / 56th pick / 2019
-Darius Harris,59.0,Chiefs,27.0,LB,1,0.0,238.0,6-2,Middle Tenn. St.,1/17/1996,3,,
-Malik Herring,94.0,Chiefs,26.0,DE,6,0.0,275.0,6-3,Georgia,11/9/1997,1,,
-Creed Humphrey,52.0,Chiefs,24.0,C,9,9.0,302.0,6-4,Oklahoma,6/28/1999,2,,Kansas City Chiefs / 2nd / 63rd pick / 2021
-Richie James,17.0,Chiefs,28.0,WR,2,0.0,185.0,5-9,Middle Tenn. St.,9/5/1995,5,,San Francisco 49ers / 7th / 240th pick / 2018
-Cam Jones,44.0,Chiefs,24.0,LB,9,0.0,227.0,6-2,Indiana,10/21/1999,Rook,,
-Chris Jones,95.0,Chiefs,29.0,DT,8,8.0,310.0,6-6,Mississippi St.,7/3/1994,7,,Kansas City Chiefs / 2nd / 37th pick / 2016
-Nic Jones,31.0,Chiefs,22.0,CB,5,0.0,189.0,,Ball St.,10/15/2001,Rook,,Kansas City Chiefs / 7th / 250th pick / 2023
-George Karlaftis III,56.0,Chiefs,22.0,DE,9,9.0,263.0,6-4,Purdue,4/3/2001,1,,Kansas City Chiefs / 1st / 30th pick / 2022
-Travis Kelce,87.0,Chiefs,34.0,TE,8,8.0,250.0,6-5,Cincinnati,10/5/1989,10,,Kansas City Chiefs / 3rd / 63rd pick / 2013
-Patrick Mahomes,15.0,Chiefs,28.0,QB,9,9.0,225.0,6-2,Texas Tech,9/17/1995,6,,Kansas City Chiefs / 1st / 10th pick / 2017
-Trent McDuffie,22.0,Chiefs,23.0,CB,9,9.0,193.0,5-11,Washington,9/13/2000,1,,Kansas City Chiefs / 1st / 21st pick / 2022
-Jerick McKinnon,1.0,Chiefs,31.0,RB,9,0.0,209.0,5-9,Georgia Southern,5/3/1992,9,,Minnesota Vikings / 3rd / 96th pick / 2014
-Skyy Moore,24.0,Chiefs,23.0,WR,9,6.0,195.0,5-10,Western Michigan,9/10/2000,1,,Kansas City Chiefs / 2nd / 54th pick / 2022
-Wanya Morris,64.0,Chiefs,23.0,OL,6,0.0,317.0,,"Tennessee,Oklahoma",10/10/2000,Rook,,Kansas City Chiefs / 3rd / 92nd pick / 2023
-Lucas Niang,77.0,Chiefs,25.0,T,6,0.0,315.0,6-6,TCU,8/18/1998,2,,Kansas City Chiefs / 3rd / 96th pick / 2020
-Derrick Nnadi,91.0,Chiefs,27.0,DT,9,9.0,317.0,6-1,Florida St.,5/9/1996,5,,Kansas City Chiefs / 3rd / 75th pick / 2018
-Charles Omenihu,90.0,Chiefs,26.0,DE,3,0.0,280.0,6-5,Texas,8/20/1997,4,,Houston Texans / 5th / 161st pick / 2019
-Isiah Pacheco,10.0,Chiefs,24.0,RB,9,8.0,216.0,5-10,Rutgers,3/2/1999,1,,Kansas City Chiefs / 7th / 251st pick / 2022
-Justin Reid,20.0,Chiefs,26.0,S,9,9.0,207.0,6-1,Stanford,2/15/1997,5,,Houston Texans / 3rd / 68th pick / 2018
-Rashee Rice,4.0,Chiefs,23.0,WR,9,3.0,203.0,,SMU,4/22/2000,Rook,,Kansas City Chiefs / 2nd / 55th pick / 2023
-Donovan Smith,79.0,Chiefs,30.0,T,9,9.0,338.0,6-6,Penn St.,6/23/1993,8,,Tampa Bay Buccaneers / 2nd / 34th pick / 2015
-Trey Smith,65.0,Chiefs,24.0,G,9,9.0,321.0,6-6,Tennessee,6/16/1999,2,,Kansas City Chiefs / 6th / 226th pick / 2021
-L'Jarius Sneed,38.0,Chiefs,26.0,CB,9,9.0,192.0,6-1,Louisiana Tech,1/21/1997,3,,Kansas City Chiefs / 4th / 138th pick / 2020
-Jawaan Taylor,74.0,Chiefs,26.0,T,9,9.0,330.0,6-5,Florida,11/25/1997,4,,Jacksonville Jaguars / 2nd / 35th pick / 2019
-BJ Thompson,53.0,Chiefs,24.0,DE,0,0.0,243.0,,"Baylor,S.F. Austin",3/23/1999,Rook,,Kansas City Chiefs / 5th / 166th pick / 2023
-Joe Thuney,62.0,Chiefs,31.0,G,9,9.0,304.0,6-5,North Carolina St.,11/18/1992,7,,New England Patriots / 3rd / 78th pick / 2016
-Kadarius Toney,19.0,Chiefs,24.0,WR,9,2.0,193.0,6-0,Florida,1/27/1999,2,,New York Giants / 1st / 20th pick / 2021
-Tommy Townsend,5.0,Chiefs,27.0,P,9,0.0,191.0,6-1,Florida,11/12/1996,3,,
-Drue Tranquill,23.0,Chiefs,28.0,LB,9,5.0,234.0,6-2,Notre Dame,8/15/1995,4,,Los Angeles Chargers / 4th / 130th pick / 2019
-Marquez Valdes-Scantling,11.0,Chiefs,29.0,WR,9,9.0,206.0,6-4,"North Carolina St.,South Florida",10/10/1994,5,,Green Bay Packers / 5th / 174th pick / 2018
-Jaylen Watson,35.0,Chiefs,25.0,CB,8,1.0,197.0,6-2,"Washington St.,Ventura College",9/17/1998,1,,Kansas City Chiefs / 7th / 243rd pick / 2022
-Justin Watson,84.0,Chiefs,27.0,WR,8,3.0,215.0,6-2,Pennsylvania,4/4/1996,5,,Tampa Bay Buccaneers / 5th / 144th pick / 2018
-Tershawn Wharton,98.0,Chiefs,25.0,DT,9,1.0,280.0,6-1,Missouri S&T,6/25/1998,3,,
-Joshua Williams,2.0,Chiefs,24.0,DB,9,1.0,193.0,6-3,Fayetteville St.,10/17/1999,1,,Kansas City Chiefs / 4th / 135th pick / 2022
-James Winchester,41.0,Chiefs,34.0,LS,9,0.0,209.0,6-3,Oklahoma,8/6/1989,8,,
-Nick Bolton (IR),32.0,Chiefs,23.0,LB,4,4.0,237.0,5-11,Missouri,3/10/2000,2,,Kansas City Chiefs / 2nd / 58th pick / 2021
-Jody Fortson (IR),88.0,Chiefs,28.0,TE,0,0.0,226.0,6-4,Valdosta St.,12/7/1995,2,,
-Nazeeh Johnson (IR),13.0,Chiefs,25.0,S,0,0.0,199.0,5-10,Marshall,7/17/1998,1,,Kansas City Chiefs / 7th / 259th pick / 2022
-Prince Tega Wanogho (IR),76.0,Chiefs,26.0,T,3,0.0,308.0,6-5,Auburn,11/22/1997,3,,Philadelphia Eagles / 6th / 210th pick / 2020
-Justyn Ross (EXE),8.0,Chiefs,24.0,WR,7,0.0,210.0,,Clemson,12/15/1999,Rook,,
-Team Total,,Chiefs,26.1,,9,,243.8,6-2.1,,,3.2,,
+,No.,Player,BirthDate,Age,Height,Weight,College/University,Position,Games_Played_in_Season,Games_Started_in_Season,NFL_Years,Player_Value,Team,Year
+0,73.0,Nick Allegretti,4/21/1996,27.0,6-4,310.0,Illinois,G,17,1.0,4.0,1.0,Chiefs,2023
+1,97.0,Felix Anudike-Uzomah,1/24/2002,21.0,,255.0,Kansas St.,DE,17,0.0,0.0,1.0,Chiefs,2023
+2,81.0,Blake Bell,8/7/1991,32.0,6-6,252.0,Oklahoma,TE,17,3.0,8.0,0.0,Chiefs,2023
+3,32.0,Nick Bolton,3/10/2000,23.0,5-11,237.0,Missouri,LB,8,8.0,2.0,4.0,Chiefs,2023
+4,40.0,Ekow Boye-Doe,11/4/1999,24.0,6-0,171.0,Kansas St.,CB,6,0.0,0.0,0.0,Chiefs,2023
+5,26.0,Deon Bush,8/14/1993,30.0,6-0,200.0,Miami (FL),DB,6,0.0,7.0,0.0,Chiefs,2023
+6,89.0,Matt Bushman,11/3/1995,28.0,6-5,245.0,BYU,TE,1,0.0,2.0,0.0,Chiefs,2023
+7,7.0,Harrison Butker,7/14/1995,28.0,6-4,199.0,Georgia Tech,K,17,0.0,6.0,5.0,Chiefs,2023
+8,66.0,Mike Caliendo,10/21/1997,26.0,6-4,301.0,Western Michigan,OL,8,0.0,0.0,1.0,Chiefs,2023
+9,54.0,Leo Chenal,10/26/2000,23.0,6-3,250.0,Wisconsin,LB,17,10.0,1.0,5.0,Chiefs,2023
+10,48.0,Cole Christiansen,7/30/1997,26.0,6-1,230.0,Army,LB,5,0.0,3.0,0.0,Chiefs,2023
+11,99.0,Keondre Coburn,5/23/2000,23.0,,332.0,Texas,NT,1,0.0,0.0,0.0,Chiefs,2023
+12,43.0,Jack Cochrane,2/9/1999,24.0,6-3,236.0,South Dakota,LB,17,1.0,1.0,2.0,Chiefs,2023
+13,27.0,Chamarri Conner,7/11/2000,23.0,,206.0,Virginia Tech,DB,17,7.0,0.0,3.0,Chiefs,2023
+14,6.0,Bryan Cook,9/7/1999,24.0,6-1,206.0,"Howard,Cincinnati",S,12,12.0,1.0,5.0,Chiefs,2023
+15,51.0,Michael Danna,12/1/1997,26.0,6-2,257.0,"Central Michigan,Michigan",DE,16,16.0,3.0,8.0,Chiefs,2023
+16,93.0,Matt Dickerson,11/9/1995,28.0,6-5,292.0,UCLA,DT,12,0.0,5.0,1.0,Chiefs,2023
+17,21.0,Mike Edwards,5/18/1996,27.0,5-10,205.0,"Kentucky,Hawaii",S,17,5.0,4.0,3.0,Chiefs,2023
+18,25.0,Clyde Edwards-Helaire,4/11/1999,24.0,5-7,207.0,LSU,RB,15,3.0,3.0,3.0,Chiefs,2023
+19,92.0,Neil Farrell,9/9/1998,25.0,6-4,325.0,LSU,DL,3,0.0,1.0,0.0,Chiefs,2023
+20,9.0,Blaine Gabbert,10/15/1989,34.0,6-4,233.0,Missouri,QB,2,1.0,12.0,1.0,Chiefs,2023
+21,50.0,Willie Gay Jr.,2/15/1998,25.0,6-1,243.0,Mississippi St.,LB,16,15.0,3.0,8.0,Chiefs,2023
+22,83.0,Noah Gray,4/30/1999,24.0,6-3,240.0,Duke,TE,17,10.0,2.0,3.0,Chiefs,2023
+23,12.0,Mecole Hardman,3/12/1998,25.0,5-10,187.0,Georgia,WR,6,2.0,4.0,1.0,Chiefs,2023
+24,59.0,Darius Harris,1/17/1996,27.0,6-2,238.0,Middle Tenn. St.,LB,5,0.0,3.0,0.0,Chiefs,2023
+25,94.0,Malik Herring,11/9/1997,26.0,6-3,275.0,Georgia,DE,7,1.0,1.0,1.0,Chiefs,2023
+26,52.0,Creed Humphrey,6/28/1999,24.0,6-4,302.0,Oklahoma,C,17,17.0,2.0,9.0,Chiefs,2023
+27,17.0,Richie James,9/5/1995,28.0,5-9,185.0,Middle Tenn. St.,WR,9,1.0,5.0,1.0,Chiefs,2023
+28,44.0,Cam Jones,10/21/1999,24.0,6-2,227.0,Indiana,LB,17,1.0,0.0,2.0,Chiefs,2023
+29,95.0,Chris Jones,7/3/1994,29.0,6-6,310.0,Mississippi St.,DT,16,16.0,7.0,18.0,Chiefs,2023
+30,31.0,Nic Jones,10/15/2001,22.0,,189.0,Ball St.,CB,9,0.0,0.0,1.0,Chiefs,2023
+31,56.0,George Karlaftis III,4/3/2001,22.0,6-4,263.0,Purdue,DE,16,16.0,1.0,8.0,Chiefs,2023
+32,87.0,Travis Kelce,10/5/1989,34.0,6-5,250.0,Cincinnati,TE,15,15.0,10.0,8.0,Chiefs,2023
+33,15.0,Patrick Mahomes,9/17/1995,28.0,6-2,225.0,Texas Tech,QB,16,16.0,6.0,15.0,Chiefs,2023
+34,22.0,Trent McDuffie,9/13/2000,23.0,5-11,193.0,Washington,CB,16,16.0,1.0,15.0,Chiefs,2023
+35,1.0,Jerick McKinnon,5/3/1992,31.0,5-9,209.0,Georgia Southern,RB,12,0.0,9.0,2.0,Chiefs,2023
+36,24.0,Skyy Moore,9/10/2000,23.0,5-10,195.0,Western Michigan,WR,14,8.0,1.0,2.0,Chiefs,2023
+37,64.0,Wanya Morris,10/10/2000,23.0,,317.0,"Tennessee,Oklahoma",OL,14,4.0,0.0,2.0,Chiefs,2023
+38,77.0,Lucas Niang,8/19/1998,25.0,6-6,315.0,TCU,T,14,0.0,2.0,1.0,Chiefs,2023
+39,91.0,Derrick Nnadi,5/9/1996,27.0,6-1,317.0,Florida St.,DT,17,17.0,5.0,8.0,Chiefs,2023
+40,90.0,Charles Omenihu,8/20/1997,26.0,6-5,280.0,Texas,DE,11,1.0,4.0,2.0,Chiefs,2023
+41,10.0,Isiah Pacheco,3/2/1999,24.0,5-10,216.0,Rutgers,RB,14,13.0,1.0,8.0,Chiefs,2023
+42,64.0,Mike Pennel,5/9/1991,32.0,6-4,330.0,"Arizona St.,Colorado State-Pueblo",DT,3,0.0,9.0,0.0,Chiefs,2023
+43,29.0,La'Mical Perine,1/30/1998,25.0,5-11,216.0,Florida,RB,3,1.0,3.0,1.0,Chiefs,2023
+44,34.0,Deneric Prince,4/11/2000,23.0,,216.0,"Texas A&M,Tulsa",RB,2,0.0,0.0,0.0,Chiefs,2023
+45,20.0,Justin Reid,2/15/1997,26.0,6-1,207.0,Stanford,S,16,16.0,5.0,6.0,Chiefs,2023
+46,4.0,Rashee Rice,4/22/2000,23.0,,203.0,SMU,WR,16,8.0,0.0,8.0,Chiefs,2023
+47,8.0,Justyn Ross,12/15/1999,24.0,,210.0,Clemson,WR,10,1.0,0.0,0.0,Chiefs,2023
+48,79.0,Donovan Smith,6/23/1993,30.0,6-6,338.0,Penn St.,T,12,12.0,8.0,6.0,Chiefs,2023
+49,65.0,Trey Smith,6/16/1999,24.0,6-6,321.0,Tennessee,G,17,17.0,2.0,7.0,Chiefs,2023
+50,38.0,L'Jarius Sneed,1/21/1997,26.0,6-1,192.0,Louisiana Tech,CB,16,16.0,3.0,6.0,Chiefs,2023
+51,74.0,Jawaan Taylor,11/25/1997,26.0,6-5,330.0,Florida,T,17,17.0,4.0,8.0,Chiefs,2023
+52,53.0,BJ Thompson,3/23/1997,26.0,,243.0,"Baylor,S.F. Austin",DE,1,0.0,0.0,0.0,Chiefs,2023
+53,62.0,Joe Thuney,11/18/1992,31.0,6-5,304.0,North Carolina St.,G,17,17.0,7.0,13.0,Chiefs,2023
+54,19.0,Kadarius Toney,1/27/1999,24.0,6-0,193.0,Florida,WR,13,2.0,2.0,2.0,Chiefs,2023
+55,5.0,Tommy Townsend,11/12/1996,27.0,6-1,191.0,Florida,P,17,0.0,3.0,2.0,Chiefs,2023
+56,23.0,Drue Tranquill,8/15/1995,28.0,6-2,234.0,Notre Dame,LB,16,8.0,4.0,5.0,Chiefs,2023
+57,11.0,Marquez Valdes-Scantling,10/10/1994,29.0,6-4,206.0,"North Carolina St.,South Florida",WR,16,10.0,5.0,3.0,Chiefs,2023
+58,76.0,Prince Tega Wanogho,11/22/1997,26.0,6-5,308.0,Auburn,T,3,0.0,3.0,0.0,Chiefs,2023
+59,12.0,Montrell Washington,3/14/1999,24.0,5-10,170.0,Samford,WR,6,0.0,1.0,0.0,Chiefs,2023
+60,35.0,Jaylen Watson,9/17/1998,25.0,6-2,197.0,"Washington St.,Ventura College",CB,16,2.0,1.0,2.0,Chiefs,2023
+61,84.0,Justin Watson,4/4/1995,28.0,6-2,215.0,Pennsylvania,WR,16,8.0,5.0,4.0,Chiefs,2023
+62,98.0,Tershawn Wharton,6/25/1998,25.0,6-1,280.0,Missouri S&T,DT,17,1.0,3.0,2.0,Chiefs,2023
+63,2.0,Joshua Williams,10/17/1999,24.0,6-3,193.0,Fayetteville St.,CB,16,2.0,1.0,1.0,Chiefs,2023
+64,41.0,James Winchester,8/6/1989,34.0,6-3,209.0,Oklahoma,LS,17,0.0,8.0,1.0,Chiefs,2023
+65,,Team Total,,26.1,6-2.2,243.6,,,17,,3.2,,Chiefs,2023

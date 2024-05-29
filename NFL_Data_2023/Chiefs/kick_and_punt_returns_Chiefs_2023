@@ -1,6 +1,6 @@
-,No.,Team,Player,Age,Position,Games Played,Games Started,Punts Returned,Punts Return Yardage,Punts Returned for Touchdown,Longest Punt Return,Yards per Punt Return,Kickoff Returns,Yardage for Kickoffs Returned,Kickoffs Returned for a Touchdown,Longest Kickoff Return,Yards per Kickoff Return,All-purpose Yards,Year
-0,17,Chiefs,Richie James,28,WR,9,1,20,200,0,27,10.0,9,187,0,31,20.8,501,2023
-1,12,Chiefs,Montrell Washington,24,WR,6,0,8,61,0,23,7.6,1,20,0,20,20.0,81,2023
-2,12,Chiefs,Mecole Hardman,25,WR,6,2,7,61,0,50,8.7,1,14,0,14,14.0,196,2023
-3,19,Chiefs,Kadarius Toney,24,WR,13,2,6,58,0,21,9.7,0,0,0,0,,258,2023
-4,1,Chiefs,Jerick McKinnon,31,RB,12,0,0,0,0,0,,1,20,0,20,20.0,272,2023
+,No.,Player,Age,Position,Games Played,Games Started,Punts Returned,Punts Return Yardage,Punts Returned for Touchdown,Longest Punt Return,Yards per Punt Return,Kickoff Returns,Yardage for Kickoffs Returned,Kickoffs Returned for a Touchdown,Longest Kickoff Return,Yards per Kickoff Return,All-purpose Yards,Team,Year
+17,17,Richie James,28,WR,9,1,20,200,0,27,10.0,9,187,0,31,20.8,501,Chiefs,2023
+12,12,Montrell Washington,24,WR,6,0,8,61,0,23,7.6,1,20,0,20,20.0,81,Chiefs,2023
+12,12,Mecole Hardman,25,WR,6,2,7,61,0,50,8.7,1,14,0,14,14.0,196,Chiefs,2023
+19,19,Kadarius Toney,24,WR,13,2,6,58,0,21,9.7,0,0,0,0,0.0,258,Chiefs,2023
+1,1,Jerick McKinnon,31,RB,12,0,0,0,0,0,0.0,1,20,0,20,20.0,272,Chiefs,2023

@@ -1,62 +1,72 @@
-Player,No.,Team,Age,Pos,G,GS,Wt,Ht,College/Univ,BirthDate,Yrs,AV,Drafted (tm/rnd/yr)
-De'Von Achane,28.0,Dolphins,22.0,RB,4,1.0,188.0,,Texas A&M,10/13/2001,Rook,,Miami Dolphins / 3rd / 84th pick / 2023
-Salvon Ahmed,26.0,Dolphins,25.0,RB,7,0.0,197.0,5-11,Washington,12/29/1998,3,,
-Eli Apple,33.0,Dolphins,28.0,CB,7,3.0,203.0,6-1,Ohio St.,8/9/1995,7,,New York Giants / 1st / 10th pick / 2016
-Terron Armstead,72.0,Dolphins,32.0,T,3,3.0,305.0,6-5,Ark-Pine Bluff,7/23/1991,10,,New Orleans Saints / 3rd / 75th pick / 2013
-Jake Bailey,16.0,Dolphins,26.0,P,9,0.0,214.0,6-2,Stanford,6/18/1997,4,,New England Patriots / 5th / 163rd pick / 2019
-Jerome Baker,55.0,Dolphins,27.0,LB,9,9.0,225.0,6-2,Ohio St.,12/25/1996,5,,Miami Dolphins / 3rd / 73rd pick / 2018
-Braxton Berrios,0.0,Dolphins,28.0,WR,9,1.0,185.0,5-9,Miami (FL),10/6/1995,4,,New England Patriots / 6th / 210th pick / 2018
-Justin Bethel,20.0,Dolphins,33.0,CB,9,1.0,200.0,6-0,Presbyterian,6/17/1990,11,,Arizona Cardinals / 6th / 177th pick / 2012
-Elijah Campbell,22.0,Dolphins,28.0,DB,7,0.0,200.0,5-11,"Iowa Western,Northern Illinois,Northern Iowa",8/24/1995,3,,
-Robbie Chosen,3.0,Dolphins,30.0,WR,4,0.0,185.0,6-3,Temple,5/9/1993,7,,
-Bradley Chubb,2.0,Dolphins,27.0,LB,9,9.0,268.0,6-4,North Carolina St.,6/24/1996,5,,Denver Broncos / 1st / 5th pick / 2018
-Chase Claypool,83.0,Dolphins,25.0,WR,3,0.0,238.0,6-4,Notre Dame,7/7/1998,3,,Pittsburgh Steelers / 2nd / 49th pick / 2020
-Lester Cotton,66.0,Dolphins,27.0,G,9,2.0,330.0,6-4,Alabama,2/20/1996,4,,
-River Cracraft,85.0,Dolphins,29.0,WR,3,1.0,198.0,6-0,Washington St.,11/1/1994,5,,
-Raekwon Davis,98.0,Dolphins,26.0,DT,9,5.0,325.0,6-7,Alabama,6/10/1997,3,,Miami Dolphins / 2nd / 56th pick / 2020
-Liam Eichenberg,74.0,Dolphins,25.0,OL,8,4.0,306.0,6-6,Notre Dame,1/19/1998,2,,Miami Dolphins / 2nd / 42nd pick / 2021
-DeShon Elliott,21.0,Dolphins,26.0,S,8,8.0,210.0,6-1,Texas,4/21/1997,4,,Baltimore Ravens / 6th / 190th pick / 2018
-Blake Ferguson,44.0,Dolphins,26.0,LS,9,0.0,240.0,6-3,LSU,4/21/1997,3,,Miami Dolphins / 6th / 185th pick / 2020
-Cameron Goode,53.0,Dolphins,25.0,LB,9,0.0,245.0,6-3,California,4/15/1998,Rook,,Miami Dolphins / 7th / 224th pick / 2022
-Da'Shawn Hand,93.0,Dolphins,28.0,DT,8,0.0,297.0,6-3,Alabama,11/14/1995,5,,Detroit Lions / 4th / 114th pick / 2018
-Julian Hill,89.0,Dolphins,23.0,TE,7,0.0,251.0,6-4,Campbell,7/9/2000,Rook,,
-Tyreek Hill,10.0,Dolphins,29.0,WR,9,9.0,191.0,5-10,West Alabama,3/1/1994,7,,Kansas City Chiefs / 5th / 165th pick / 2016
-Chasen Hines,63.0,Dolphins,23.0,OL,0,0.0,320.0,6-3,LSU,4/3/2000,Rook,,New England Patriots / 6th / 210th pick / 2022
-Jevon Holland,8.0,Dolphins,23.0,S,8,8.0,210.0,6-1,Oregon,3/3/2000,2,,Miami Dolphins / 2nd / 36th pick / 2021
-Xavien Howard,25.0,Dolphins,30.0,CB,7,7.0,203.0,6-1,Baylor,7/4/1993,7,,Miami Dolphins / 2nd / 38th pick / 2016
-Robert Hunt,68.0,Dolphins,27.0,OL,8,8.0,330.0,6-6,Louisiana,8/25/1996,3,,Miami Dolphins / 2nd / 39th pick / 2020
-Alec Ingold,30.0,Dolphins,27.0,FB,9,8.0,232.0,6-1,Wisconsin,7/9/1996,4,,
-Austin Jackson,73.0,Dolphins,24.0,OL,9,9.0,320.0,6-5,USC,8/11/1999,3,,Miami Dolphins / 1st / 18th pick / 2020
-Brandon Jones,29.0,Dolphins,25.0,S,8,2.0,190.0,6-1,Texas,4/2/1998,3,,Miami Dolphins / 3rd / 70th pick / 2020
-Robert Jones,65.0,Dolphins,24.0,OL,3,1.0,325.0,6-4,"Highland (KS),Middle Tenn. St.",1/28/1999,2,,
-Kader Kohou,4.0,Dolphins,25.0,CB,9,9.0,193.0,5-10,Texas A&M-Commerce,11/29/1998,1,,
-Tyler Kroft,48.0,Dolphins,31.0,TE,5,0.0,252.0,6-6,Rutgers,10/15/1992,8,,Cincinnati Bengals / 3rd / 85th pick / 2015
-Kendall Lamm,70.0,Dolphins,31.0,T,9,6.0,308.0,6-5,Appalachian St.,6/5/1992,8,,
-David Long,51.0,Dolphins,27.0,LB,9,9.0,227.0,5-11,West Virginia,10/12/1996,4,,Tennessee Titans / 6th / 188th pick / 2019
-Raheem Mostert,31.0,Dolphins,31.0,RB,9,9.0,205.0,5-10,Purdue,4/9/1992,8,,
-Nik Needham,40.0,Dolphins,27.0,CB,2,0.0,196.0,6-1,Texas-El Paso,11/4/1996,4,,
-Emmanuel Ogbah,91.0,Dolphins,30.0,DE,9,0.0,275.0,6-4,Oklahoma St.,11/6/1993,7,,Cleveland Browns / 2nd / 32nd pick / 2016
-Jaelan Phillips,15.0,Dolphins,24.0,LB,6,4.0,263.0,6-5,"UCLA,Miami (FL)",5/28/1999,2,,Miami Dolphins / 1st / 18th pick / 2021
-Jalen Ramsey,5.0,Dolphins,29.0,CB,2,2.0,208.0,6-1,Florida St.,10/24/1994,7,,Jacksonville Jaguars / 1st / 5th pick / 2016
-Duke Riley,45.0,Dolphins,29.0,LB,9,0.0,227.0,6-1,LSU,8/9/1994,6,,Atlanta Falcons / 3rd / 75th pick / 2017
-Jason Sanders,7.0,Dolphins,28.0,K,9,0.0,195.0,5-11,New Mexico,11/16/1995,5,,Miami Dolphins / 7th / 229th pick / 2018
-Zach Sieler,92.0,Dolphins,28.0,DT,9,9.0,300.0,6-6,Ferris St.,9/7/1995,5,,Baltimore Ravens / 7th / 238th pick / 2018
-Cam Smith,24.0,Dolphins,23.0,CB,8,0.0,180.0,6-1,South Carolina,12/21/2000,Rook,,Miami Dolphins / 2nd / 51st pick / 2023
-Kion Smith,71.0,Dolphins,25.0,T,2,0.0,306.0,6-5,Fayetteville St.,10/7/1998,Rook,,
-Durham Smythe,81.0,Dolphins,28.0,TE,9,8.0,246.0,6-6,Notre Dame,8/9/1995,5,,Miami Dolphins / 4th / 123rd pick / 2018
-Tua Tagovailoa,1.0,Dolphins,25.0,QB,9,9.0,227.0,6-1,Alabama,3/2/1998,3,,Miami Dolphins / 1st / 5th pick / 2020
-Skylar Thompson,6.0,Dolphins,26.0,QB,0,0.0,219.0,6-2,Kansas St.,6/4/1997,1,,Miami Dolphins / 7th / 247th pick / 2022
-Channing Tindall,41.0,Dolphins,23.0,LB,9,0.0,236.0,6-2,Georgia,3/28/2000,1,,Miami Dolphins / 3rd / 102nd pick / 2022
-Andrew Van Ginkel,43.0,Dolphins,28.0,LB,9,5.0,242.0,6-4,Wisconsin,7/1/1995,4,,Miami Dolphins / 5th / 151st pick / 2019
-Jaylen Waddle,17.0,Dolphins,25.0,WR,8,8.0,185.0,5-10,Alabama,11/25/1998,2,,Miami Dolphins / 1st / 6th pick / 2021
-Mike White,14.0,Dolphins,28.0,QB,2,0.0,216.0,6-5,"South Florida,Western Kentucky",3/25/1995,2,,Dallas Cowboys / 5th / 171st pick / 2018
-Christian Wilkins,94.0,Dolphins,28.0,DT,9,9.0,310.0,6-4,Clemson,12/20/1995,4,,Miami Dolphins / 1st / 13th pick / 2019
-Connor Williams,58.0,Dolphins,26.0,OL,5,5.0,312.0,6-5,Texas,5/12/1997,5,,Dallas Cowboys / 2nd / 50th pick / 2018
-Cedrick Wilson Jr.,11.0,Dolphins,28.0,WR,7,0.0,197.0,6-2,Boise St.,11/20/1995,4,,Dallas Cowboys / 6th / 208th pick / 2018
-Jeff Wilson,23.0,Dolphins,28.0,RB,3,0.0,210.0,6-0,North Texas,11/16/1995,5,,
-Erik Ezukanma (NON),18.0,Dolphins,23.0,WR,2,0.0,206.0,6-2,Texas Tech,1/25/2000,1,,Miami Dolphins / 4th / 125th pick / 2022
-Chris Brooks (IR),35.0,Dolphins,23.0,RB,6,0.0,223.0,6-1,"California,BYU",1/11/2000,Rook,,
-Keion Crossen (IR),27.0,Dolphins,27.0,DB,0,0.0,190.0,5-10,Western Carolina,4/17/1996,5,,New England Patriots / 7th / 243rd pick / 2018
-Zeke Vandenburgh (IR),57.0,Dolphins,24.0,LB,0,0.0,232.0,6-4,Illinois State,1/18/1999,Rook,,
-Isaiah Wynn (IR),77.0,Dolphins,28.0,T,7,7.0,310.0,6-2,Georgia,12/9/1995,4,,New England Patriots / 1st / 23rd pick / 2018
-Team Total,,Dolphins,26.8,,9,,240.0,6-2.1,,,3.9,,
+,No.,Player,BirthDate,Age,Height,Weight,College/University,Position,Games_Played_in_Season,Games_Started_in_Season,NFL_Years,Player_Value,Team,Year
+0,28.0,De'Von Achane,10/13/2001,22.0,,188.0,Texas A&M,RB,11,4.0,0.0,7.0,Dolphins,2023
+1,26.0,Salvon Ahmed,12/30/1998,25.0,5-11,197.0,Washington,RB,8,0.0,3.0,1.0,Dolphins,2023
+2,33.0,Eli Apple,8/9/1995,28.0,6-1,203.0,Ohio St.,CB,10,4.0,7.0,2.0,Dolphins,2023
+3,72.0,Terron Armstead,7/23/1991,32.0,6-5,305.0,Ark-Pine Bluff,T,10,10.0,10.0,8.0,Dolphins,2023
+4,16.0,Jake Bailey,6/18/1997,26.0,6-2,214.0,Stanford,P,17,0.0,4.0,1.0,Dolphins,2023
+5,55.0,Jerome Baker,12/25/1996,27.0,6-2,225.0,Ohio St.,LILB,13,12.0,5.0,6.0,Dolphins,2023
+6,0.0,Braxton Berrios,10/6/1995,28.0,5-9,185.0,Miami (FL),WR,16,1.0,4.0,2.0,Dolphins,2023
+7,20.0,Justin Bethel,6/17/1990,33.0,6-0,200.0,Presbyterian,CB,17,1.0,11.0,1.0,Dolphins,2023
+8,38.0,Ethan Bonner,10/23/1999,24.0,6-1,186.0,Stanford,CB,2,0.0,0.0,0.0,Dolphins,2023
+9,35.0,Chris Brooks,1/11/2000,23.0,6-1,223.0,"California,BYU",RB,9,0.0,0.0,1.0,Dolphins,2023
+10,22.0,Elijah Campbell,8/24/1995,28.0,5-11,200.0,"Iowa Western,Northern Illinois,Northern Iowa",DB,15,1.0,3.0,1.0,Dolphins,2023
+11,3.0,Robbie Chosen,5/9/1993,30.0,6-3,185.0,Temple,WR,9,0.0,7.0,1.0,Dolphins,2023
+12,2.0,Bradley Chubb,6/24/1996,27.0,6-4,268.0,North Carolina St.,LB,16,16.0,5.0,8.0,Dolphins,2023
+13,83.0,Chase Claypool,7/7/1998,25.0,6-4,238.0,Notre Dame,WR,9,0.0,3.0,0.0,Dolphins,2023
+14,80.0,Tanner Conner,3/20/1998,25.0,6-3,232.0,Idaho St.,TE,3,0.0,1.0,0.0,Dolphins,2023
+15,66.0,Lester Cotton,2/20/1996,27.0,6-4,330.0,Alabama,G,17,8.0,4.0,5.0,Dolphins,2023
+16,85.0,River Cracraft,11/1/1994,29.0,6-0,198.0,Washington St.,WR,10,1.0,5.0,1.0,Dolphins,2023
+17,98.0,Raekwon Davis,8/21/1997,26.0,6-7,325.0,Alabama,DT,17,7.0,3.0,4.0,Dolphins,2023
+18,74.0,Liam Eichenberg,1/19/1998,25.0,6-6,306.0,Notre Dame,OL,16,12.0,2.0,7.0,Dolphins,2023
+19,21.0,DeShon Elliott,4/21/1997,26.0,6-1,210.0,Texas,S,15,15.0,4.0,5.0,Dolphins,2023
+20,37.0,Darrynton Evans,7/9/1998,25.0,5-10,203.0,Appalachian St.,RB,2,0.0,3.0,0.0,Dolphins,2023
+21,18.0,Erik Ezukanma,1/25/2000,23.0,6-2,206.0,Texas Tech,WR,2,0.0,1.0,0.0,Dolphins,2023
+22,44.0,Blake Ferguson,4/21/1997,26.0,6-3,240.0,LSU,LS,17,0.0,3.0,1.0,Dolphins,2023
+23,53.0,Cameron Goode,4/15/1998,25.0,6-3,245.0,California,LB,17,0.0,0.0,1.0,Dolphins,2023
+24,93.0,Da'Shawn Hand,11/14/1995,28.0,6-3,297.0,Alabama,DT,16,0.0,5.0,1.0,Dolphins,2023
+25,60.0,Jonotthan Harrison,8/25/1991,32.0,6-4,300.0,Florida,OL,2,0.0,9.0,0.0,Dolphins,2023
+26,89.0,Julian Hill,7/9/2000,23.0,6-4,251.0,Campbell,TE,15,4.0,0.0,0.0,Dolphins,2023
+27,10.0,Tyreek Hill,3/1/1994,29.0,5-10,191.0,West Alabama,WR,16,16.0,7.0,18.0,Dolphins,2023
+28,8.0,Jevon Holland,3/3/2000,23.0,6-1,210.0,Oregon,S,12,12.0,2.0,5.0,Dolphins,2023
+29,52.0,Justin Houston,1/21/1989,34.0,6-3,270.0,Georgia,LB,0,0.0,12.0,,Dolphins,2023
+30,25.0,Xavien Howard,7/4/1993,30.0,6-1,203.0,Baylor,LCB,13,13.0,7.0,4.0,Dolphins,2023
+31,68.0,Robert Hunt,8/25/1996,27.0,6-6,330.0,Louisiana,RG,11,10.0,3.0,5.0,Dolphins,2023
+32,30.0,Alec Ingold,7/9/1996,27.0,6-1,232.0,Wisconsin,FB,17,13.0,4.0,1.0,Dolphins,2023
+33,9.0,Melvin Ingram,4/26/1989,34.0,6-2,247.0,South Carolina,LB,3,0.0,11.0,0.0,Dolphins,2023
+34,46.0,Bruce Irvin,11/1/1987,36.0,6-3,250.0,"Butler (KS),West Virginia",LB,0,0.0,11.0,,Dolphins,2023
+35,73.0,Austin Jackson,8/11/1999,24.0,6-5,320.0,USC,OL,16,16.0,3.0,8.0,Dolphins,2023
+36,29.0,Brandon Jones,4/2/1998,25.0,6-1,190.0,Texas,SS,16,6.0,3.0,3.0,Dolphins,2023
+37,65.0,Robert Jones,1/28/1999,24.0,6-4,325.0,"Highland (KS),Middle Tenn. St.",OL,8,5.0,2.0,3.0,Dolphins,2023
+38,9.0,Kelvin Joseph,11/11/1999,24.0,6-1,192.0,"LSU,Kentucky",CB,4,0.0,2.0,0.0,Dolphins,2023
+39,4.0,Kader Kohou,11/29/1998,25.0,5-10,193.0,Texas A&M-Commerce,CB,17,16.0,1.0,5.0,Dolphins,2023
+40,48.0,Tyler Kroft,10/15/1992,31.0,6-6,252.0,Rutgers,TE,8,0.0,8.0,0.0,Dolphins,2023
+41,70.0,Kendall Lamm,6/5/1992,31.0,6-5,308.0,Appalachian St.,T,17,8.0,8.0,6.0,Dolphins,2023
+42,51.0,David Long,10/12/1996,27.0,5-11,227.0,West Virginia,LB,17,17.0,4.0,7.0,Dolphins,2023
+43,31.0,Raheem Mostert,4/9/1992,31.0,5-10,205.0,Purdue,RB,15,15.0,8.0,9.0,Dolphins,2023
+44,50.0,Calvin Munson,12/27/1994,29.0,6-1,240.0,San Diego St.,LB,5,0.0,6.0,0.0,Dolphins,2023
+45,40.0,Nik Needham,11/4/1996,27.0,6-1,196.0,Texas-El Paso,CB,10,0.0,4.0,1.0,Dolphins,2023
+46,34.0,Parry Nickerson,10/11/1994,29.0,5-10,179.0,Tulane,CB,5,0.0,5.0,0.0,Dolphins,2023
+47,91.0,Emmanuel Ogbah,11/6/1993,30.0,6-4,275.0,Oklahoma St.,NT,15,1.0,7.0,2.0,Dolphins,2023
+48,15.0,Jaelan Phillips,5/28/1999,24.0,6-5,263.0,"UCLA,Miami (FL)",LB,8,6.0,2.0,3.0,Dolphins,2023
+49,90.0,Jason Pierre-Paul,1/1/1989,34.0,6-5,275.0,"College of the Canyons (CA),South Florida",DE,2,0.0,13.0,0.0,Dolphins,2023
+50,96.0,Brandon Pili,4/2/1999,24.0,6-3,319.0,USC,DT,4,0.0,0.0,0.0,Dolphins,2023
+51,5.0,Jalen Ramsey,10/24/1994,29.0,6-1,208.0,Florida St.,CB,10,10.0,7.0,7.0,Dolphins,2023
+52,47.0,Malik Reed,8/5/1996,27.0,6-2,245.0,Nevada,LB,0,0.0,4.0,,Dolphins,2023
+53,45.0,Duke Riley,8/9/1994,29.0,6-1,227.0,LSU,LB,17,5.0,6.0,3.0,Dolphins,2023
+54,7.0,Jason Sanders,11/16/1995,28.0,5-11,195.0,New Mexico,K,17,0.0,5.0,4.0,Dolphins,2023
+55,92.0,Zach Sieler,9/7/1995,28.0,6-6,300.0,Ferris St.,DT,17,17.0,5.0,9.0,Dolphins,2023
+56,24.0,Cam Smith,12/21/2000,23.0,6-1,180.0,South Carolina,CB,15,0.0,0.0,1.0,Dolphins,2023
+57,71.0,Kion Smith,10/7/1998,25.0,6-5,306.0,Fayetteville St.,T,9,0.0,0.0,1.0,Dolphins,2023
+58,81.0,Durham Smythe,8/9/1995,28.0,6-6,246.0,Notre Dame,TE,16,14.0,5.0,4.0,Dolphins,2023
+59,1.0,Tua Tagovailoa,3/2/1998,25.0,6-1,227.0,Alabama,QB,17,17.0,3.0,16.0,Dolphins,2023
+60,41.0,Channing Tindall,3/28/2000,23.0,6-2,236.0,Georgia,LB,17,0.0,1.0,1.0,Dolphins,2023
+61,43.0,Andrew Van Ginkel,7/1/1995,28.0,6-4,242.0,Wisconsin,LOLB,17,11.0,4.0,6.0,Dolphins,2023
+62,17.0,Jaylen Waddle,11/25/1998,25.0,5-10,185.0,Alabama,WR,14,14.0,2.0,10.0,Dolphins,2023
+63,14.0,Mike White,3/25/1995,28.0,6-5,216.0,"South Florida,Western Kentucky",QB,6,0.0,2.0,0.0,Dolphins,2023
+64,94.0,Christian Wilkins,12/20/1995,28.0,6-4,310.0,Clemson,LDE,17,17.0,4.0,8.0,Dolphins,2023
+65,58.0,Connor Williams,5/12/1997,26.0,6-5,312.0,Texas,OL,9,9.0,5.0,5.0,Dolphins,2023
+66,11.0,Cedrick Wilson Jr.,11/20/1995,28.0,6-2,197.0,Boise St.,WR,15,3.0,4.0,3.0,Dolphins,2023
+67,23.0,Jeff Wilson,11/16/1995,28.0,6-0,210.0,North Texas,RB,10,0.0,5.0,2.0,Dolphins,2023
+68,50.0,Chase Winovich,4/19/1995,28.0,6-3,251.0,Michigan,DE,3,0.0,4.0,0.0,Dolphins,2023
+69,77.0,Isaiah Wynn,12/9/1995,28.0,6-2,310.0,Georgia,T,7,7.0,4.0,4.0,Dolphins,2023
+70,,Team Total,,27.3,6-2.1,240.8,,,17,,4.4,,Dolphins,2023

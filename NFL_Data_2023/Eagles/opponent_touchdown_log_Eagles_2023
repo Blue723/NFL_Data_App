@@ -1,52 +1,52 @@
-,Rank,Team,Date,Opponent,Win/Loss,Score,Quarter,Distance,Type,Detail,Year
-0,1,Eagles,09/10/2023,NWE,Win, 25-20,2,9,pass,Hunter Henry,2023
-1,2,Eagles,09/10/2023,NWE,Win, 25-20,2,19,pass,Kendrick Bourne,2023
-2,3,Eagles,09/10/2023,NWE,Win, 25-20,4,11,pass,Kendrick Bourne,2023
-3,4,Eagles,09/14/2023,MIN,Win, 34-28,2,5,pass,T.J. Hockenson,2023
-4,5,Eagles,09/14/2023,MIN,Win, 34-28,3,62,pass,Jordan Addison,2023
-5,6,Eagles,09/14/2023,MIN,Win, 34-28,4,10,pass,K.J. Osborn,2023
-6,7,Eagles,09/14/2023,MIN,Win, 34-28,4,5,pass,T.J. Hockenson,2023
-7,8,Eagles,09/25/2023,TAM,Win, 25-11,4,1,pass,Mike Evans,2023
-8,9,Eagles,10/01/2023,WAS,Win, 34-31,1,1,rush,Curtis Samuel,2023
-9,10,Eagles,10/01/2023,WAS,Win, 34-31,2,0,fumble,Terry McLaurin,2023
-10,11,Eagles,10/01/2023,WAS,Win, 34-31,4,15,rush,Brian Robinson Jr.,2023
-11,12,Eagles,10/01/2023,WAS,Win, 34-31,4,10,pass,Jahan Dotson,2023
-12,13,Eagles,10/08/2023,LAR,Win, 23-14,1,3,pass,Tutu Atwell,2023
-13,14,Eagles,10/08/2023,LAR,Win, 23-14,2,22,pass,Puka Nacua,2023
-14,15,Eagles,10/15/2023,NYJ,Loss, 14-20,4,8,rush,Breece Hall,2023
-15,16,Eagles,10/22/2023,MIA,Win, 31-17,2,27,pass,Tyreek Hill,2023
-16,17,Eagles,10/22/2023,MIA,Win, 31-17,3,23,interception,Jerome Baker,2023
-17,18,Eagles,10/29/2023,WAS,Win, 38-31,1,26,pass,Terry McLaurin,2023
-18,19,Eagles,10/29/2023,WAS,Win, 38-31,2,21,pass,Jahan Dotson,2023
-19,20,Eagles,10/29/2023,WAS,Win, 38-31,4,7,pass,Logan Thomas,2023
-20,21,Eagles,10/29/2023,WAS,Win, 38-31,4,26,pass,Jamison Crowder,2023
-21,22,Eagles,11/05/2023,DAL,Win, 28-23,1,4,pass,Jake Ferguson,2023
-22,23,Eagles,11/05/2023,DAL,Win, 28-23,2,5,pass,KaVontae Turpin,2023
-23,24,Eagles,11/05/2023,DAL,Win, 28-23,4,7,pass,Jalen Tolbert,2023
-24,25,Eagles,11/20/2023,KAN,Win, 21-17,1,3,pass,Justin Watson,2023
-25,26,Eagles,11/20/2023,KAN,Win, 21-17,2,4,pass,Travis Kelce,2023
-26,27,Eagles,11/26/2023,BUF,Win, 37-34,2,9,rush,Josh Allen,2023
-27,28,Eagles,11/26/2023,BUF,Win, 37-34,2,13,pass,Stefon Diggs,2023
-28,29,Eagles,11/26/2023,BUF,Win, 37-34,3,16,rush,Josh Allen,2023
-29,30,Eagles,11/26/2023,BUF,Win, 37-34,4,7,pass,Gabriel Davis,2023
-30,31,Eagles,12/03/2023,SFO,Loss, 19-42,2,2,pass,Brandon Aiyuk,2023
-31,32,Eagles,12/03/2023,SFO,Loss, 19-42,2,2,rush,Christian McCaffrey,2023
-32,33,Eagles,12/03/2023,SFO,Loss, 19-42,3,12,rush,Deebo Samuel,2023
-33,34,Eagles,12/03/2023,SFO,Loss, 19-42,3,48,pass,Deebo Samuel,2023
-34,35,Eagles,12/03/2023,SFO,Loss, 19-42,4,18,pass,Jauan Jennings,2023
-35,36,Eagles,12/03/2023,SFO,Loss, 19-42,4,46,pass,Deebo Samuel,2023
-36,37,Eagles,12/10/2023,DAL,Loss, 13-33,1,13,pass,CeeDee Lamb,2023
-37,38,Eagles,12/10/2023,DAL,Loss, 13-33,2,1,rush,Rico Dowdle,2023
-38,39,Eagles,12/10/2023,DAL,Loss, 13-33,2,1,pass,Michael Gallup,2023
-39,40,Eagles,12/18/2023,SEA,Loss, 17-20,3,23,rush,Kenneth Walker III,2023
-40,41,Eagles,12/18/2023,SEA,Loss, 17-20,4,29,pass,Jaxon Smith-Njigba,2023
-41,42,Eagles,12/25/2023,NYG,Win, 33-25,3,7,rush,Saquon Barkley,2023
-42,43,Eagles,12/25/2023,NYG,Win, 33-25,3,76,interception,Adoree' Jackson,2023
-43,44,Eagles,12/25/2023,NYG,Win, 33-25,4,69,pass,Darius Slayton,2023
-44,45,Eagles,12/31/2023,ARI,Loss, 31-35,3,6,pass,Michael Carter,2023
-45,46,Eagles,12/31/2023,ARI,Loss, 31-35,3,5,pass,James Conner,2023
-46,47,Eagles,12/31/2023,ARI,Loss, 31-35,4,5,pass,Michael Wilson,2023
-47,48,Eagles,12/31/2023,ARI,Loss, 31-35,4,2,rush,James Conner,2023
-48,49,Eagles,01/07/2024,NYG,Loss, 10-27,2,2,rush,Saquon Barkley,2023
-49,50,Eagles,01/07/2024,NYG,Loss, 10-27,2,3,rush,Saquon Barkley,2023
-50,51,Eagles,01/07/2024,NYG,Loss, 10-27,2,19,pass,Darius Slayton,2023
+,Rank,Team,Date,Opponent,Win/Loss,Home_Score,Opponenet_Score,Quarter,Distance,Type,Detail
+1,1,Eagles,2023-09-10,NWE,Win,25,20,2,9,pass,Hunter Henry
+2,2,Eagles,2023-09-10,NWE,Win,25,20,2,19,pass,Kendrick Bourne
+3,3,Eagles,2023-09-10,NWE,Win,25,20,4,11,pass,Kendrick Bourne
+4,4,Eagles,2023-09-14,MIN,Win,34,28,2,5,pass,T.J. Hockenson
+5,5,Eagles,2023-09-14,MIN,Win,34,28,3,62,pass,Jordan Addison
+6,6,Eagles,2023-09-14,MIN,Win,34,28,4,10,pass,K.J. Osborn
+7,7,Eagles,2023-09-14,MIN,Win,34,28,4,5,pass,T.J. Hockenson
+8,8,Eagles,2023-09-25,TAM,Win,25,11,4,1,pass,Mike Evans
+9,9,Eagles,2023-10-01,WAS,Win,34,31,1,1,rush,Curtis Samuel
+10,10,Eagles,2023-10-01,WAS,Win,34,31,2,0,fumble,Terry McLaurin
+11,11,Eagles,2023-10-01,WAS,Win,34,31,4,15,rush,Brian Robinson Jr.
+12,12,Eagles,2023-10-01,WAS,Win,34,31,4,10,pass,Jahan Dotson
+13,13,Eagles,2023-10-08,LAR,Win,23,14,1,3,pass,Tutu Atwell
+14,14,Eagles,2023-10-08,LAR,Win,23,14,2,22,pass,Puka Nacua
+15,15,Eagles,2023-10-15,NYJ,Loss,14,20,4,8,rush,Breece Hall
+16,16,Eagles,2023-10-22,MIA,Win,31,17,2,27,pass,Tyreek Hill
+17,17,Eagles,2023-10-22,MIA,Win,31,17,3,23,interception,Jerome Baker
+18,18,Eagles,2023-10-29,WAS,Win,38,31,1,26,pass,Terry McLaurin
+19,19,Eagles,2023-10-29,WAS,Win,38,31,2,21,pass,Jahan Dotson
+20,20,Eagles,2023-10-29,WAS,Win,38,31,4,7,pass,Logan Thomas
+21,21,Eagles,2023-10-29,WAS,Win,38,31,4,26,pass,Jamison Crowder
+22,22,Eagles,2023-11-05,DAL,Win,28,23,1,4,pass,Jake Ferguson
+23,23,Eagles,2023-11-05,DAL,Win,28,23,2,5,pass,KaVontae Turpin
+24,24,Eagles,2023-11-05,DAL,Win,28,23,4,7,pass,Jalen Tolbert
+25,25,Eagles,2023-11-20,KAN,Win,21,17,1,3,pass,Justin Watson
+26,26,Eagles,2023-11-20,KAN,Win,21,17,2,4,pass,Travis Kelce
+27,27,Eagles,2023-11-26,BUF,Win,37,34,2,9,rush,Josh Allen
+28,28,Eagles,2023-11-26,BUF,Win,37,34,2,13,pass,Stefon Diggs
+29,29,Eagles,2023-11-26,BUF,Win,37,34,3,16,rush,Josh Allen
+30,30,Eagles,2023-11-26,BUF,Win,37,34,4,7,pass,Gabriel Davis
+31,31,Eagles,2023-12-03,SFO,Loss,19,42,2,2,pass,Brandon Aiyuk
+32,32,Eagles,2023-12-03,SFO,Loss,19,42,2,2,rush,Christian McCaffrey
+33,33,Eagles,2023-12-03,SFO,Loss,19,42,3,12,rush,Deebo Samuel
+34,34,Eagles,2023-12-03,SFO,Loss,19,42,3,48,pass,Deebo Samuel
+35,35,Eagles,2023-12-03,SFO,Loss,19,42,4,18,pass,Jauan Jennings
+36,36,Eagles,2023-12-03,SFO,Loss,19,42,4,46,pass,Deebo Samuel
+37,37,Eagles,2023-12-10,DAL,Loss,13,33,1,13,pass,CeeDee Lamb
+38,38,Eagles,2023-12-10,DAL,Loss,13,33,2,1,rush,Rico Dowdle
+39,39,Eagles,2023-12-10,DAL,Loss,13,33,2,1,pass,Michael Gallup
+40,40,Eagles,2023-12-18,SEA,Loss,17,20,3,23,rush,Kenneth Walker III
+41,41,Eagles,2023-12-18,SEA,Loss,17,20,4,29,pass,Jaxon Smith-Njigba
+42,42,Eagles,2023-12-25,NYG,Win,33,25,3,7,rush,Saquon Barkley
+43,43,Eagles,2023-12-25,NYG,Win,33,25,3,76,interception,Adoree' Jackson
+44,44,Eagles,2023-12-25,NYG,Win,33,25,4,69,pass,Darius Slayton
+45,45,Eagles,2023-12-31,ARI,Loss,31,35,3,6,pass,Michael Carter
+46,46,Eagles,2023-12-31,ARI,Loss,31,35,3,5,pass,James Conner
+47,47,Eagles,2023-12-31,ARI,Loss,31,35,4,5,pass,Michael Wilson
+48,48,Eagles,2023-12-31,ARI,Loss,31,35,4,2,rush,James Conner
+49,49,Eagles,2024-01-07,NYG,Loss,10,27,2,2,rush,Saquon Barkley
+50,50,Eagles,2024-01-07,NYG,Loss,10,27,2,3,rush,Saquon Barkley
+51,51,Eagles,2024-01-07,NYG,Loss,10,27,2,19,pass,Darius Slayton

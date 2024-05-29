@@ -1,37 +1,37 @@
-,Rank,Team,Date,Opponent,Win/Loss,Score,Quarter,Distance,Type,Detail,Year
-0,1,Raiders,09/10/2023,DEN,Win, 17-16,1,3,pass,Jakobi Meyers,2023
-1,2,Raiders,09/10/2023,DEN,Win, 17-16,4,6,pass,Jakobi Meyers,2023
-2,3,Raiders,09/17/2023,BUF,Loss, 10-38,1,16,pass,Davante Adams,2023
-3,4,Raiders,09/24/2023,PIT,Loss, 18-23,1,32,pass,Davante Adams,2023
-4,5,Raiders,09/24/2023,PIT,Loss, 18-23,4,1,pass,Davante Adams,2023
-5,6,Raiders,10/01/2023,LAC,Loss, 17-24,1,1,rush,Aidan O'Connell,2023
-6,7,Raiders,10/01/2023,LAC,Loss, 17-24,4,1,rush,Josh Jacobs,2023
-7,8,Raiders,10/09/2023,GNB,Win, 17-13,2,9,pass,Jakobi Meyers,2023
-8,9,Raiders,10/09/2023,GNB,Win, 17-13,4,2,rush,Josh Jacobs,2023
-9,10,Raiders,10/15/2023,NWE,Win, 21-17,2,12,pass,Jakobi Meyers,2023
-10,11,Raiders,10/22/2023,CHI,Loss, 12-30,4,9,pass,Jakobi Meyers,2023
-11,12,Raiders,10/30/2023,DET,Loss, 14-26,2,3,rush,Josh Jacobs,2023
-12,13,Raiders,10/30/2023,DET,Loss, 14-26,3,75,interception,Marcus Peters,2023
-13,14,Raiders,11/05/2023,NYG,Win, 30-6,1,17,rush,Jakobi Meyers,2023
-14,15,Raiders,11/05/2023,NYG,Win, 30-6,2,2,rush,Josh Jacobs,2023
-15,16,Raiders,11/05/2023,NYG,Win, 30-6,2,1,rush,Josh Jacobs,2023
-16,17,Raiders,11/12/2023,NYJ,Win, 16-12,4,7,pass,Michael Mayer,2023
-17,18,Raiders,11/19/2023,MIA,Loss, 13-20,1,46,pass,Davante Adams,2023
-18,19,Raiders,11/26/2023,KAN,Loss, 17-31,1,18,pass,Jakobi Meyers,2023
-19,20,Raiders,11/26/2023,KAN,Loss, 17-31,2,63,rush,Josh Jacobs,2023
-20,21,Raiders,12/14/2023,LAC,Win, 63-21,1,1,rush,Zamir White,2023
-21,22,Raiders,12/14/2023,LAC,Win, 63-21,1,30,pass,Tre Tucker,2023
-22,23,Raiders,12/14/2023,LAC,Win, 63-21,1,22,pass,Jakobi Meyers,2023
-23,24,Raiders,12/14/2023,LAC,Win, 63-21,2,11,pass,Michael Mayer,2023
-24,25,Raiders,12/14/2023,LAC,Win, 63-21,2,26,rush,Brandon Bolden,2023
-25,26,Raiders,12/14/2023,LAC,Win, 63-21,2,20,pass,Tre Tucker,2023
-26,27,Raiders,12/14/2023,LAC,Win, 63-21,3,3,pass,Davante Adams,2023
-27,28,Raiders,12/14/2023,LAC,Win, 63-21,3,44,fumble,John Jenkins,2023
-28,29,Raiders,12/14/2023,LAC,Win, 63-21,4,16,interception,Jack Jones,2023
-29,30,Raiders,12/25/2023,KAN,Win, 20-14,2,8,fumble,Bilal Nichols,2023
-30,31,Raiders,12/25/2023,KAN,Win, 20-14,2,33,interception,Jack Jones,2023
-31,32,Raiders,12/31/2023,IND,Loss, 20-23,3,4,pass,Davante Adams,2023
-32,33,Raiders,12/31/2023,IND,Loss, 20-23,4,1,pass,Davante Adams,2023
-33,34,Raiders,01/07/2024,DEN,Win, 27-14,1,5,rush,Jakobi Meyers,2023
-34,35,Raiders,01/07/2024,DEN,Win, 27-14,2,3,pass,Davante Adams,2023
-35,36,Raiders,01/07/2024,DEN,Win, 27-14,4,33,pass,Jakobi Meyers,2023
+,Rank,Team,Date,Opponent,Win/Loss,Home_Score,Opponenet_Score,Quarter,Distance,Type,Detail
+1,1,Raiders,2023-09-10,DEN,Win,17,16,1,3,pass,Jakobi Meyers
+2,2,Raiders,2023-09-10,DEN,Win,17,16,4,6,pass,Jakobi Meyers
+3,3,Raiders,2023-09-17,BUF,Loss,10,38,1,16,pass,Davante Adams
+4,4,Raiders,2023-09-24,PIT,Loss,18,23,1,32,pass,Davante Adams
+5,5,Raiders,2023-09-24,PIT,Loss,18,23,4,1,pass,Davante Adams
+6,6,Raiders,2023-10-01,LAC,Loss,17,24,1,1,rush,Aidan O'Connell
+7,7,Raiders,2023-10-01,LAC,Loss,17,24,4,1,rush,Josh Jacobs
+8,8,Raiders,2023-10-09,GNB,Win,17,13,2,9,pass,Jakobi Meyers
+9,9,Raiders,2023-10-09,GNB,Win,17,13,4,2,rush,Josh Jacobs
+10,10,Raiders,2023-10-15,NWE,Win,21,17,2,12,pass,Jakobi Meyers
+11,11,Raiders,2023-10-22,CHI,Loss,12,30,4,9,pass,Jakobi Meyers
+12,12,Raiders,2023-10-30,DET,Loss,14,26,2,3,rush,Josh Jacobs
+13,13,Raiders,2023-10-30,DET,Loss,14,26,3,75,interception,Marcus Peters
+14,14,Raiders,2023-11-05,NYG,Win,30,6,1,17,rush,Jakobi Meyers
+15,15,Raiders,2023-11-05,NYG,Win,30,6,2,2,rush,Josh Jacobs
+16,16,Raiders,2023-11-05,NYG,Win,30,6,2,1,rush,Josh Jacobs
+17,17,Raiders,2023-11-12,NYJ,Win,16,12,4,7,pass,Michael Mayer
+18,18,Raiders,2023-11-19,MIA,Loss,13,20,1,46,pass,Davante Adams
+19,19,Raiders,2023-11-26,KAN,Loss,17,31,1,18,pass,Jakobi Meyers
+20,20,Raiders,2023-11-26,KAN,Loss,17,31,2,63,rush,Josh Jacobs
+21,21,Raiders,2023-12-14,LAC,Win,63,21,1,1,rush,Zamir White
+22,22,Raiders,2023-12-14,LAC,Win,63,21,1,30,pass,Tre Tucker
+23,23,Raiders,2023-12-14,LAC,Win,63,21,1,22,pass,Jakobi Meyers
+24,24,Raiders,2023-12-14,LAC,Win,63,21,2,11,pass,Michael Mayer
+25,25,Raiders,2023-12-14,LAC,Win,63,21,2,26,rush,Brandon Bolden
+26,26,Raiders,2023-12-14,LAC,Win,63,21,2,20,pass,Tre Tucker
+27,27,Raiders,2023-12-14,LAC,Win,63,21,3,3,pass,Davante Adams
+28,28,Raiders,2023-12-14,LAC,Win,63,21,3,44,fumble,John Jenkins
+29,29,Raiders,2023-12-14,LAC,Win,63,21,4,16,interception,Jack Jones
+30,30,Raiders,2023-12-25,KAN,Win,20,14,2,8,fumble,Bilal Nichols
+31,31,Raiders,2023-12-25,KAN,Win,20,14,2,33,interception,Jack Jones
+32,32,Raiders,2023-12-31,IND,Loss,20,23,3,4,pass,Davante Adams
+33,33,Raiders,2023-12-31,IND,Loss,20,23,4,1,pass,Davante Adams
+34,34,Raiders,2024-01-07,DEN,Win,27,14,1,5,rush,Jakobi Meyers
+35,35,Raiders,2024-01-07,DEN,Win,27,14,2,3,pass,Davante Adams
+36,36,Raiders,2024-01-07,DEN,Win,27,14,4,33,pass,Jakobi Meyers

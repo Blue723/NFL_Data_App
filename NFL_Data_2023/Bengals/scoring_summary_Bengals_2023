@@ -1,15 +1,15 @@
-,No.,Team,Player,Age,Pos,Games Played,Games Started,Rush TD,Reception TD,Punt Return TD,Kick Return TD,Fumble Return TD,Interception TD,Other TD,All Touchdown Scored,2-Point Conversions Made,Two-Point Conversions Attempted,Defensive Two-Point Conversions,Extra Points Made,Extra Points Allowed,Field Goals Made,Field Goals Attempted,Safeties Scored by Player/Team,Total Points Scored by all Means,Poins per Game,Year
-0,2,Bengals,Evan McPherson,24,K,17,0,0,0,0,0,0,0,0,0,0,0,0,40,40,26,31,,118,6.9,2023
-1,28,Bengals,Joe Mixon,27,RB,17,17,9,3,0,0,0,0,0,12,1,0,0,0,0,0,0,,74,4.4,2023
-2,1,Bengals,Ja'Marr Chase,23,WR,16,16,0,7,0,0,0,0,0,7,0,0,0,0,0,0,0,,42,2.6,2023
-3,5,Bengals,Tee Higgins,24,WR,12,11,0,5,0,0,0,0,0,5,0,0,0,0,0,0,0,,30,2.5,2023
-4,80,Bengals,Andrei Iosivas,24,WR,16,1,0,4,0,0,0,0,0,4,0,0,0,0,0,0,0,,24,1.5,2023
-5,6,Bengals,Jake Browning,27,QB,9,7,3,0,0,0,0,0,0,3,0,0,0,0,0,0,0,,18,2.0,2023
-6,83,Bengals,Tyler Boyd,29,WR,17,13,0,2,0,0,0,0,0,2,0,0,0,0,0,0,0,,12,0.7,2023
-7,89,Bengals,Drew Sample,27,TE,17,10,0,2,0,0,0,0,0,2,0,0,0,0,0,0,0,,12,0.7,2023
-8,30,Bengals,Chase Brown,23,RB,12,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,,6,0.5,2023
-9,87,Bengals,Tanner Hudson,29,TE,12,1,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,,6,0.5,2023
-10,16,Bengals,Trenton Irwin,28,WR,16,5,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,,6,0.4,2023
-11,15,Bengals,Charlie Jones,25,WR,11,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,,6,0.5,2023
-12,81,Bengals,Irv Smith Jr.,25,TE,12,6,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,,6,0.5,2023
-13,29,Bengals,Cam Taylor-Britt,24,CB,12,12,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,,6,0.5,2023
+,No.,Player,Age,Pos,Games Played,Games Started,Rush TD,Reception TD,Punt Return TD,Kick Return TD,Fumble Return TD,Interception TD,Other TD,All Touchdown Scored,2-Point Conversions Made,Two-Point Conversions Attempted,Defensive Two-Point Conversions,Extra Points Made,Extra Points Allowed,Field Goals Made,Field Goals Attempted,Safeties Scored by Player/Team,Total Points Scored by all Means,Poins per Game,Team,Year
+2,2,Evan McPherson,24,K,17,0,0,0,0,0,0,0,0,0,0,0,0,40,40,26,31,0,118,6.9,Bengals,2023
+28,28,Joe Mixon,27,RB,17,17,9,3,0,0,0,0,0,12,1,0,0,0,0,0,0,0,74,4.4,Bengals,2023
+1,1,Ja'Marr Chase,23,WR,16,16,0,7,0,0,0,0,0,7,0,0,0,0,0,0,0,0,42,2.6,Bengals,2023
+5,5,Tee Higgins,24,WR,12,11,0,5,0,0,0,0,0,5,0,0,0,0,0,0,0,0,30,2.5,Bengals,2023
+80,80,Andrei Iosivas,24,WR,16,1,0,4,0,0,0,0,0,4,0,0,0,0,0,0,0,0,24,1.5,Bengals,2023
+6,6,Jake Browning,27,QB,9,7,3,0,0,0,0,0,0,3,0,0,0,0,0,0,0,0,18,2.0,Bengals,2023
+83,83,Tyler Boyd,29,WR,17,13,0,2,0,0,0,0,0,2,0,0,0,0,0,0,0,0,12,0.7,Bengals,2023
+89,89,Drew Sample,27,TE,17,10,0,2,0,0,0,0,0,2,0,0,0,0,0,0,0,0,12,0.7,Bengals,2023
+30,30,Chase Brown,23,RB,12,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,6,0.5,Bengals,2023
+87,87,Tanner Hudson,29,TE,12,1,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,6,0.5,Bengals,2023
+16,16,Trenton Irwin,28,WR,16,5,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,6,0.4,Bengals,2023
+15,15,Charlie Jones,25,WR,11,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,6,0.5,Bengals,2023
+81,81,Irv Smith Jr.,25,TE,12,6,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,6,0.5,Bengals,2023
+29,29,Cam Taylor-Britt,24,CB,12,12,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,6,0.5,Bengals,2023

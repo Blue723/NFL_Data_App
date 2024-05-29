@@ -1,62 +1,77 @@
-Player,No.,Team,Age,Pos,G,GS,Wt,Ht,College/Univ,BirthDate,Yrs,AV,Drafted (tm/rnd/yr)
-Brandon Aiyuk,11.0,49ers,25.0,WR,8,8.0,200.0,6-0,Arizona St.,3/17/1998,3,,San Francisco 49ers / 1st / 25th pick / 2020
-Brandon Allen,17.0,49ers,31.0,QB,0,0.0,209.0,6-2,Arkansas,9/5/1992,4,,Jacksonville Jaguars / 6th / 201st pick / 2016
-Arik Armstead,91.0,49ers,30.0,DL,9,9.0,290.0,6-7,Oregon,11/15/1993,8,,San Francisco 49ers / 1st / 17th pick / 2015
-Aaron Banks,65.0,49ers,26.0,OL,8,8.0,325.0,6-5,Notre Dame,9/3/1997,2,,San Francisco 49ers / 2nd / 48th pick / 2021
-Ronnie Bell,10.0,49ers,23.0,WR,9,0.0,190.0,,Michigan,1/28/2000,Rook,,San Francisco 49ers / 7th / 253rd pick / 2023
-Nick Bosa,97.0,49ers,26.0,DL,9,9.0,266.0,6-4,Ohio St.,10/23/1997,4,,San Francisco 49ers / 1st / 2nd pick / 2019
-Jake Brendel,64.0,49ers,31.0,OL,9,9.0,299.0,6-4,UCLA,9/10/1992,7,,
-Ji'Ayir Brown,27.0,49ers,23.0,S,9,0.0,202.0,,"Lackawanna,Penn St.",1/25/2000,Rook,,San Francisco 49ers / 3rd / 87th pick / 2023
-Spencer Burford,74.0,49ers,24.0,OL,9,9.0,300.0,6-4,Texas-San Antonio,7/19/1999,1,,San Francisco 49ers / 4th / 134th pick / 2022
-Oren Burks,48.0,49ers,28.0,LB,9,2.0,233.0,6-3,Vanderbilt,3/21/1995,5,,Green Bay Packers / 3rd / 88th pick / 2018
-Sam Darnold,14.0,49ers,26.0,QB,5,0.0,225.0,6-3,USC,6/5/1997,5,,New York Jets / 1st / 3rd pick / 2018
-Kalia Davis,93.0,49ers,25.0,DL,0,0.0,310.0,6-2,Central Florida,10/2/1998,Rook,,San Francisco 49ers / 6th / 220th pick / 2022
-Tyrion Davis-Price,32.0,49ers,23.0,RB,1,0.0,219.0,6-1,LSU,10/23/2000,1,,San Francisco 49ers / 3rd / 93rd pick / 2022
-Ross Dwelley,82.0,49ers,28.0,TE,9,0.0,235.0,6-5,San Diego,1/26/1995,5,,
-Jon Feliciano,55.0,49ers,31.0,OL,9,1.0,325.0,6-4,Miami (FL),2/10/1992,8,,Oakland Raiders / 4th / 128th pick / 2015
-Clelin Ferrell,94.0,49ers,26.0,DL,9,9.0,265.0,6-4,Clemson,5/17/1997,4,,Oakland Raiders / 1st / 4th pick / 2019
-Demetrius Flannigan-Fowles,45.0,49ers,27.0,LB,8,0.0,223.0,6-2,Arizona,9/4/1996,3,,
-Tashaun Gipson,31.0,49ers,33.0,S,9,9.0,212.0,6-1,Wyoming,8/7/1990,11,,
-Kevin Givens,90.0,49ers,26.0,DL,9,0.0,285.0,6-1,Penn St.,3/1/1997,4,,
-Jalen Graham,50.0,49ers,22.0,LB,0,0.0,220.0,,Purdue,1/11/2001,Rook,,San Francisco 49ers / 7th / 255th pick / 2023
-Dre Greenlaw,57.0,49ers,26.0,LB,8,8.0,230.0,6-0,Arkansas,5/27/1997,4,,San Francisco 49ers / 5th / 148th pick / 2019
-Randy Gregory,5.0,49ers,31.0,LB,4,0.0,242.0,6-5,"Arizona Western,Nebraska",11/23/1992,8,,Dallas Cowboys / 2nd / 60th pick / 2015
-Javon Hargrave,98.0,49ers,30.0,DL,9,9.0,305.0,6-2,South Carolina St.,2/7/1993,7,,Pittsburgh Steelers / 3rd / 89th pick / 2016
-Talanoa Hufanga,29.0,49ers,23.0,S,9,9.0,200.0,6-0,USC,2/1/2000,2,,San Francisco 49ers / 5th / 180th pick / 2021
-Shemar Jean-Charles,38.0,49ers,25.0,CB,4,0.0,184.0,5-10,Appalachian St.,6/20/1998,2,,Green Bay Packers / 5th / 178th pick / 2021
-Jauan Jennings,15.0,49ers,26.0,WR,8,2.0,212.0,6-3,Tennessee,7/10/1997,2,,San Francisco 49ers / 7th / 217th pick / 2020
-Kyle Juszczyk,44.0,49ers,32.0,FB,9,8.0,235.0,6-2,Harvard,4/23/1991,10,,Baltimore Ravens / 4th / 130th pick / 2013
-Javon Kinlaw,99.0,49ers,26.0,DT,9,1.0,319.0,6-5,South Carolina,10/3/1997,3,,San Francisco 49ers / 1st / 14th pick / 2020
-George Kittle,85.0,49ers,30.0,TE,9,9.0,250.0,6-4,Iowa,10/9/1993,6,,San Francisco 49ers / 5th / 146th pick / 2017
-Deommodore Lenoir,2.0,49ers,24.0,DB,9,9.0,200.0,5-10,Oregon,10/6/1999,2,,San Francisco 49ers / 5th / 172nd pick / 2021
-Corey Luciano,61.0,49ers,25.0,OL,0,0.0,307.0,6-4,Washington,8/14/1998,Rook,,
-Darrell Luter,28.0,49ers,23.0,CB,0,0.0,190.0,,"Pearl River CC,South Alabama",4/24/2000,Rook,,San Francisco 49ers / 5th / 155th pick / 2023
-Jordan Mason,24.0,49ers,24.0,RB,9,0.0,223.0,5-11,Georgia Tech,5/24/1999,1,,
-Christian McCaffrey,23.0,49ers,27.0,RB,9,9.0,205.0,5-11,Stanford,6/7/1996,6,,Carolina Panthers / 1st / 8th pick / 2017
-Ray-Ray McCloud,3.0,49ers,27.0,WR,9,1.0,190.0,5-9,Clemson,10/15/1996,5,,Buffalo Bills / 6th / 187th pick / 2018
-Colton McKivitz,68.0,49ers,27.0,OL,9,9.0,301.0,6-6,West Virginia,8/9/1996,3,,San Francisco 49ers / 5th / 153rd pick / 2020
-Elijah Mitchell,25.0,49ers,25.0,RB,6,0.0,200.0,5-10,Louisiana,5/2/1998,2,,San Francisco 49ers / 6th / 194th pick / 2021
-Jake Moody,4.0,49ers,24.0,K,9,0.0,210.0,,Michigan,11/23/1999,Rook,,San Francisco 49ers / 3rd / 99th pick / 2023
-Jaylon Moore,76.0,49ers,25.0,OL,9,2.0,311.0,6-4,Western Michigan,1/9/1998,2,,San Francisco 49ers / 5th / 155th pick / 2021
-George Odum,30.0,49ers,30.0,S,9,0.0,202.0,6-1,Central Arkansas,11/3/1993,5,,
-Isaiah Oliver,26.0,49ers,27.0,CB,9,5.0,202.0,6-0,Colorado,9/30/1996,5,,Atlanta Falcons / 2nd / 58th pick / 2018
-Taybor Pepper,46.0,49ers,29.0,LS,9,0.0,245.0,6-4,Michigan St.,5/28/1994,6,,
-Matt Pryor,75.0,49ers,29.0,OL,8,0.0,332.0,6-7,TCU,12/16/1994,4,,Philadelphia Eagles / 6th / 206th pick / 2018
-Brock Purdy,13.0,49ers,24.0,QB,9,9.0,220.0,6-1,Iowa St.,12/27/1999,1,,San Francisco 49ers / 7th / 262nd pick / 2022
-Deebo Samuel,19.0,49ers,27.0,WR,7,7.0,215.0,6-0,South Carolina,1/15/1996,4,,San Francisco 49ers / 2nd / 36th pick / 2019
-Ambry Thomas,20.0,49ers,24.0,CB,8,2.0,190.0,6-0,Michigan,9/9/1999,2,,San Francisco 49ers / 3rd / 102nd pick / 2021
-Charvarius Ward,7.0,49ers,27.0,CB,9,9.0,196.0,6-1,Middle Tenn. St.,5/16/1996,5,,
-Fred Warner,54.0,49ers,27.0,LB,9,9.0,230.0,6-3,BYU,11/19/1996,5,,San Francisco 49ers / 3rd / 70th pick / 2018
-Trent Williams,71.0,49ers,35.0,T,7,7.0,320.0,6-5,Oklahoma,7/19/1988,13,,Washington Redskins / 1st / 4th pick / 2010
-Brayden Willis,9.0,49ers,24.0,TE,2,0.0,240.0,,Oklahoma,11/11/1999,Rook,,San Francisco 49ers / 7th / 247th pick / 2023
-Dee Winters,53.0,49ers,23.0,LB,7,0.0,227.0,,TCU,10/17/2000,Rook,,San Francisco 49ers / 6th / 216th pick / 2023
-Mitch Wishnowsky,18.0,49ers,31.0,P,9,0.0,220.0,6-2,Utah,3/3/1992,4,,San Francisco 49ers / 4th / 110th pick / 2019
-Charlie Woerner,89.0,49ers,26.0,TE,9,1.0,241.0,6-5,Georgia,10/16/1997,3,,San Francisco 49ers / 6th / 190th pick / 2020
-Chase Young,92.0,49ers,24.0,DL,1,0.0,264.0,6-5,Ohio St.,4/14/1999,3,,Washington Football Team / 1st / 2nd pick / 2020
-Robert Beal (IRD),51.0,49ers,24.0,DL,0,0.0,250.0,,Georgia,8/18/1999,Rook,,San Francisco 49ers / 5th / 173rd pick / 2023
-Samuel Womack (IRD),0.0,49ers,24.0,CB,1,0.0,189.0,5-10,Toledo,7/7/1999,1,,San Francisco 49ers / 5th / 172nd pick / 2022
-Danny Gray (IR),6.0,49ers,24.0,WR,0,0.0,200.0,6-0,"Blinn College (TX),SMU",4/1/1999,1,,San Francisco 49ers / 3rd / 105th pick / 2022
-Drake Jackson (IR),95.0,49ers,22.0,DL,8,0.0,273.0,6-4,USC,4/12/2001,1,,San Francisco 49ers / 2nd / 61st pick / 2022
-Cameron Latu (IR),81.0,49ers,23.0,TE,0,0.0,244.0,,Alabama,2/24/2000,Rook,,San Francisco 49ers / 3rd / 101st pick / 2023
-Nick Zakelj (IR),63.0,49ers,24.0,OL,4,0.0,316.0,6-6,Fordham,6/22/1999,1,,San Francisco 49ers / 6th / 187th pick / 2022
-Team Total,,49ers,26.9,,9,,240.0,6-2.1,,,4.0,,
+,No.,Player,BirthDate,Age,Height,Weight,College/University,Position,Games_Played_in_Season,Games_Started_in_Season,NFL_Years,Player_Value,Team,Year
+0,11.0,Brandon Aiyuk,3/17/1998,25,6-0,200.0,Arizona St.,WR,16,16.0,3.0,15.0,49ers,2023
+1,91.0,Arik Armstead,11/15/1993,30,6-7,290.0,Oregon,LDT,12,12.0,8.0,5.0,49ers,2023
+2,65.0,Aaron Banks,9/3/1997,26,6-5,325.0,Notre Dame,OL,15,14.0,2.0,7.0,49ers,2023
+3,78.0,Ben Bartch,7/22/1998,25,6-6,315.0,Saint John's (MN),OL,5,0.0,3.0,0.0,49ers,2023
+4,51.0,Robert Beal,8/18/1999,24,,250.0,Georgia,DL,4,0.0,0.0,0.0,49ers,2023
+5,10.0,Ronnie Bell,1/28/2000,23,,190.0,Michigan,WR,17,0.0,0.0,1.0,49ers,2023
+6,97.0,Nick Bosa,10/23/1997,26,6-4,266.0,Ohio St.,DL,17,17.0,4.0,11.0,49ers,2023
+7,64.0,Jake Brendel,9/10/1992,31,6-4,299.0,UCLA,OL,17,17.0,7.0,8.0,49ers,2023
+8,22.0,Anthony Brown,12/15/1993,30,5-11,196.0,Purdue,CB,2,0.0,7.0,0.0,49ers,2023
+9,27.0,Ji'Ayir Brown,1/25/2000,23,,202.0,"Lackawanna,Penn St.",S,15,5.0,0.0,2.0,49ers,2023
+10,40.0,Austin Bryant,11/12/1996,27,6-5,250.0,Clemson,DL,2,0.0,4.0,0.0,49ers,2023
+11,74.0,Spencer Burford,7/19/2000,23,6-4,300.0,Texas-San Antonio,OL,14,13.0,1.0,6.0,49ers,2023
+12,48.0,Oren Burks,3/21/1995,28,6-3,233.0,Vanderbilt,LB,15,5.0,5.0,3.0,49ers,2023
+13,84.0,Chris Conley,10/25/1992,31,6-3,205.0,Georgia,WR,8,0.0,8.0,1.0,49ers,2023
+14,14.0,Sam Darnold,6/5/1997,26,6-3,225.0,USC,QB,10,1.0,5.0,1.0,49ers,2023
+15,66.0,Jesse Davis,9/15/1991,32,6-6,318.0,Idaho,OL,1,0.0,6.0,0.0,49ers,2023
+16,93.0,Kalia Davis,10/2/1998,25,6-2,310.0,Central Florida,DL,3,0.0,0.0,0.0,49ers,2023
+17,32.0,Tyrion Davis-Price,10/23/2000,23,6-1,219.0,LSU,RB,1,0.0,1.0,0.0,49ers,2023
+18,82.0,Ross Dwelley,1/26/1995,28,6-5,235.0,San Diego,TE,12,0.0,5.0,0.0,49ers,2023
+19,55.0,Jon Feliciano,2/10/1992,31,6-4,325.0,Miami (FL),OL,16,7.0,8.0,4.0,49ers,2023
+20,94.0,Clelin Ferrell,5/17/1997,26,6-4,265.0,Clemson,DL,17,17.0,4.0,8.0,49ers,2023
+21,45.0,Demetrius Flannigan-Fowles,9/4/1996,27,6-2,223.0,Arizona,LB,16,1.0,3.0,1.0,49ers,2023
+22,31.0,Tashaun Gipson,8/7/1990,33,6-1,212.0,Wyoming,S,16,16.0,11.0,5.0,49ers,2023
+23,90.0,Kevin Givens,3/1/1997,26,6-1,285.0,Penn St.,DL,17,1.0,4.0,2.0,49ers,2023
+24,50.0,Jalen Graham,1/11/2001,22,,220.0,Purdue,LB,4,0.0,0.0,0.0,49ers,2023
+25,57.0,Dre Greenlaw,5/25/1997,26,6-0,230.0,Arkansas,LB,15,15.0,4.0,7.0,49ers,2023
+26,5.0,Randy Gregory,11/23/1992,31,6-5,242.0,"Arizona Western,Nebraska",LB,12,0.0,8.0,1.0,49ers,2023
+27,98.0,Javon Hargrave,2/7/1993,30,6-2,305.0,South Carolina St.,DL,16,16.0,7.0,10.0,49ers,2023
+28,35.0,Erik Harris,4/2/1990,33,6-2,225.0,California (PA),S,3,0.0,7.0,0.0,49ers,2023
+29,41.0,Tayler Hawkins,12/27/1997,26,6-1,205.0,San Diego St.,S,1,1.0,0.0,0.0,49ers,2023
+30,29.0,Talanoa Hufanga,2/2/1999,24,6-0,200.0,USC,S,10,10.0,2.0,3.0,49ers,2023
+31,92.0,Kerry Hyder,5/2/1991,32,6-2,275.0,Texas Tech,DE,4,0.0,8.0,0.0,49ers,2023
+32,95.0,Drake Jackson,4/12/2001,22,6-4,273.0,USC,DL,8,0.0,1.0,1.0,49ers,2023
+33,38.0,Shemar Jean-Charles,6/20/1998,25,5-10,184.0,Appalachian St.,CB,5,0.0,2.0,0.0,49ers,2023
+34,15.0,Jauan Jennings,7/10/1997,26,6-3,212.0,Tennessee,WR,13,2.0,2.0,3.0,49ers,2023
+35,69.0,Sebastian Joseph-Day,3/21/1995,28,6-4,310.0,Rutgers,DT,2,0.0,4.0,0.0,49ers,2023
+36,44.0,Kyle Juszczyk,4/23/1991,32,6-2,235.0,Harvard,FB,17,16.0,10.0,1.0,49ers,2023
+37,99.0,Javon Kinlaw,10/3/1997,26,6-5,319.0,South Carolina,DT,17,6.0,3.0,4.0,49ers,2023
+38,85.0,George Kittle,10/9/1993,30,6-4,250.0,Iowa,TE,16,16.0,6.0,11.0,49ers,2023
+39,2.0,Deommodore Lenoir,10/6/1999,24,5-10,200.0,Oregon,DB,17,17.0,2.0,5.0,49ers,2023
+40,61.0,Corey Luciano,8/14/1998,25,6-4,307.0,"Diablo Valley College,Washington",OL,2,0.0,0.0,0.0,49ers,2023
+41,28.0,Darrell Luter,4/24/2000,23,,190.0,"Pearl River CC,South Alabama",CB,7,0.0,0.0,0.0,49ers,2023
+42,86.0,Tay Martin,12/14/1997,26,6-3,185.0,"Washington St.,Oklahoma St.",WR,1,0.0,1.0,0.0,49ers,2023
+43,24.0,Jordan Mason,5/24/1999,24,5-11,223.0,Georgia Tech,RB,17,0.0,1.0,2.0,49ers,2023
+44,23.0,Christian McCaffrey,6/7/1996,27,5-11,205.0,Stanford,RB,16,16.0,6.0,18.0,49ers,2023
+45,3.0,Ray-Ray McCloud,10/15/1996,27,5-9,190.0,Clemson,WR,12,1.0,5.0,2.0,49ers,2023
+46,96.0,T.Y. McGill,11/23/1992,31,6-0,295.0,North Carolina St.,DL,2,0.0,8.0,0.0,49ers,2023
+47,68.0,Colton McKivitz,8/9/1996,27,6-6,301.0,West Virginia,OL,17,17.0,3.0,8.0,49ers,2023
+48,22.0,Jeremy McNichols,12/26/1995,28,5-9,205.0,Boise St.,RB,3,0.0,6.0,0.0,49ers,2023
+49,25.0,Elijah Mitchell,5/2/1998,25,5-10,200.0,Louisiana,RB,11,1.0,2.0,2.0,49ers,2023
+50,4.0,Jake Moody,11/23/1999,24,,210.0,Michigan,K,17,0.0,0.0,3.0,49ers,2023
+51,76.0,Jaylon Moore,1/9/1998,25,6-4,311.0,Western Michigan,OL,16,2.0,2.0,2.0,49ers,2023
+52,30.0,George Odum,11/3/1993,30,6-1,202.0,Central Arkansas,S,11,0.0,5.0,1.0,49ers,2023
+53,26.0,Isaiah Oliver,9/30/1996,27,6-0,202.0,Colorado,DB,17,6.0,5.0,3.0,49ers,2023
+54,46.0,Taybor Pepper,5/28/1994,29,6-4,245.0,Michigan St.,LS,17,0.0,6.0,1.0,49ers,2023
+55,75.0,Matt Pryor,12/16/1994,29,6-7,332.0,TCU,OL,15,0.0,4.0,1.0,49ers,2023
+56,13.0,Brock Purdy,12/27/1999,24,6-1,220.0,Iowa St.,QB,16,16.0,1.0,18.0,49ers,2023
+57,59.0,Curtis Robinson,6/2/1998,25,6-3,235.0,Stanford,LB,3,0.0,2.0,0.0,49ers,2023
+58,33.0,Logan Ryan,2/9/1991,32,5-11,195.0,Rutgers,S,5,2.0,10.0,1.0,49ers,2023
+59,19.0,Deebo Samuel,1/15/1996,27,6-0,215.0,South Carolina,WR,15,15.0,4.0,11.0,49ers,2023
+60,35.0,Kendall Sheffield,5/30/1996,27,5-10,212.0,Ohio St.,DB,3,0.0,4.0,0.0,49ers,2023
+61,83.0,Willie Snead,10/17/1992,31,5-11,195.0,Ball St.,WR,4,0.0,8.0,0.0,49ers,2023
+62,35.0,Tre Swilling,3/26/1999,24,6-1,196.0,Georgia Tech,T,2,0.0,0.0,0.0,49ers,2023
+63,20.0,Ambry Thomas,9/9/1999,24,6-0,190.0,Michigan,CB,15,6.0,2.0,3.0,49ers,2023
+64,22.0,Jason Verrett,6/18/1991,32,5-10,188.0,TCU,CB,1,0.0,9.0,0.0,49ers,2023
+65,7.0,Charvarius Ward,5/16/1996,27,6-1,196.0,"Hinds CC,Middle Tenn. St.",CB,17,17.0,5.0,11.0,49ers,2023
+66,54.0,Fred Warner,11/19/1996,27,6-3,230.0,BYU,LB,17,17.0,5.0,17.0,49ers,2023
+67,71.0,Trent Williams,7/19/1988,35,6-5,320.0,Oklahoma,T,15,15.0,13.0,17.0,49ers,2023
+68,9.0,Brayden Willis,11/11/1999,24,,240.0,Oklahoma,TE,7,0.0,0.0,0.0,49ers,2023
+69,53.0,Dee Winters,10/17/2000,23,,227.0,TCU,LB,15,0.0,0.0,1.0,49ers,2023
+70,18.0,Mitch Wishnowsky,3/3/1992,31,6-2,220.0,Utah,P,17,0.0,4.0,2.0,49ers,2023
+71,89.0,Charlie Woerner,10/16/1997,26,6-5,241.0,Georgia,TE,17,2.0,3.0,0.0,49ers,2023
+72,0.0,Samuel Womack,7/7/1999,24,5-10,189.0,Toledo,CB,7,0.0,1.0,0.0,49ers,2023
+73,92.0,Chase Young,4/14/1999,24,6-5,264.0,Ohio St.,DL,9,0.0,3.0,1.0,49ers,2023
+74,63.0,Nick Zakelj,6/22/1999,24,6-6,316.0,Fordham,OL,4,0.0,1.0,0.0,49ers,2023
+75,,Team Total,,27,6-2.0,241.5,,,17,,3.9,,49ers,2023

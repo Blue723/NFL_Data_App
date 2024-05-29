@@ -1,38 +1,38 @@
-,Rank,Team,Date,Opponent,Win/Loss,Score,Quarter,Distance,Type,Detail,Year
-0,1,Raiders,09/10/2023,DEN,Win, 17-16,1,5,pass,Lil'Jordan Humphrey,2023
-1,2,Raiders,09/10/2023,DEN,Win, 17-16,2,5,pass,Courtland Sutton,2023
-2,3,Raiders,09/17/2023,BUF,Loss, 10-38,1,4,rush,Latavius Murray,2023
-3,4,Raiders,09/17/2023,BUF,Loss, 10-38,2,2,pass,Dawson Knox,2023
-4,5,Raiders,09/17/2023,BUF,Loss, 10-38,2,11,pass,Khalil Shakir,2023
-5,6,Raiders,09/17/2023,BUF,Loss, 10-38,3,2,pass,Gabriel Davis,2023
-6,7,Raiders,09/17/2023,BUF,Loss, 10-38,4,1,rush,Damien Harris,2023
-7,8,Raiders,09/24/2023,PIT,Loss, 18-23,1,72,pass,Calvin Austin,2023
-8,9,Raiders,09/24/2023,PIT,Loss, 18-23,3,13,pass,Pat Freiermuth,2023
-9,10,Raiders,10/01/2023,LAC,Loss, 17-24,1,12,rush,Justin Herbert,2023
-10,11,Raiders,10/01/2023,LAC,Loss, 17-24,2,7,pass,Keenan Allen,2023
-11,12,Raiders,10/01/2023,LAC,Loss, 17-24,2,1,rush,Justin Herbert,2023
-12,13,Raiders,10/09/2023,GNB,Win, 17-13,3,5,rush,AJ Dillon,2023
-13,14,Raiders,10/15/2023,NWE,Win, 21-17,3,2,rush,Ezekiel Elliott,2023
-14,15,Raiders,10/15/2023,NWE,Win, 21-17,4,1,rush,Rhamondre Stevenson,2023
-15,16,Raiders,10/22/2023,CHI,Loss, 12-30,1,2,rush,D'Onta Foreman,2023
-16,17,Raiders,10/22/2023,CHI,Loss, 12-30,2,3,rush,D'Onta Foreman,2023
-17,18,Raiders,10/22/2023,CHI,Loss, 12-30,3,5,pass,D'Onta Foreman,2023
-18,19,Raiders,10/22/2023,CHI,Loss, 12-30,4,39,interception,Jaylon Johnson,2023
-19,20,Raiders,10/30/2023,DET,Loss, 14-26,2,18,pass,Sam LaPorta,2023
-20,21,Raiders,10/30/2023,DET,Loss, 14-26,3,27,rush,Jahmyr Gibbs,2023
-21,22,Raiders,11/05/2023,NYG,Win, 30-6,4,9,pass,Wan'Dale Robinson,2023
-22,23,Raiders,11/19/2023,MIA,Loss, 13-20,1,38,pass,Tyreek Hill,2023
-23,24,Raiders,11/19/2023,MIA,Loss, 13-20,2,11,pass,Salvon Ahmed,2023
-24,25,Raiders,11/26/2023,KAN,Loss, 17-31,2,1,rush,Isiah Pacheco,2023
-25,26,Raiders,11/26/2023,KAN,Loss, 17-31,2,3,pass,Justin Watson,2023
-26,27,Raiders,11/26/2023,KAN,Loss, 17-31,3,1,rush,Isiah Pacheco,2023
-27,28,Raiders,11/26/2023,KAN,Loss, 17-31,4,39,pass,Rashee Rice,2023
-28,29,Raiders,12/14/2023,LAC,Win, 63-21,3,79,pass,Josh Palmer,2023
-29,30,Raiders,12/14/2023,LAC,Win, 63-21,4,13,pass,Alex Erickson,2023
-30,31,Raiders,12/14/2023,LAC,Win, 63-21,4,6,pass,Quentin Johnston,2023
-31,32,Raiders,12/25/2023,KAN,Win, 20-14,2,12,rush,Isiah Pacheco,2023
-32,33,Raiders,12/25/2023,KAN,Win, 20-14,4,7,pass,Justin Watson,2023
-33,34,Raiders,12/31/2023,IND,Loss, 20-23,1,5,rush,Jonathan Taylor,2023
-34,35,Raiders,12/31/2023,IND,Loss, 20-23,2,58,pass,Alec Pierce,2023
-35,36,Raiders,01/07/2024,DEN,Win, 27-14,2,24,pass,Jerry Jeudy,2023
-36,37,Raiders,01/07/2024,DEN,Win, 27-14,4,2,rush,Javonte Williams,2023
+,Rank,Team,Date,Opponent,Win/Loss,Home_Score,Opponenet_Score,Quarter,Distance,Type,Detail
+1,1,Raiders,2023-09-10,DEN,Win,17,16,1,5,pass,Lil'Jordan Humphrey
+2,2,Raiders,2023-09-10,DEN,Win,17,16,2,5,pass,Courtland Sutton
+3,3,Raiders,2023-09-17,BUF,Loss,10,38,1,4,rush,Latavius Murray
+4,4,Raiders,2023-09-17,BUF,Loss,10,38,2,2,pass,Dawson Knox
+5,5,Raiders,2023-09-17,BUF,Loss,10,38,2,11,pass,Khalil Shakir
+6,6,Raiders,2023-09-17,BUF,Loss,10,38,3,2,pass,Gabriel Davis
+7,7,Raiders,2023-09-17,BUF,Loss,10,38,4,1,rush,Damien Harris
+8,8,Raiders,2023-09-24,PIT,Loss,18,23,1,72,pass,Calvin Austin
+9,9,Raiders,2023-09-24,PIT,Loss,18,23,3,13,pass,Pat Freiermuth
+10,10,Raiders,2023-10-01,LAC,Loss,17,24,1,12,rush,Justin Herbert
+11,11,Raiders,2023-10-01,LAC,Loss,17,24,2,7,pass,Keenan Allen
+12,12,Raiders,2023-10-01,LAC,Loss,17,24,2,1,rush,Justin Herbert
+13,13,Raiders,2023-10-09,GNB,Win,17,13,3,5,rush,AJ Dillon
+14,14,Raiders,2023-10-15,NWE,Win,21,17,3,2,rush,Ezekiel Elliott
+15,15,Raiders,2023-10-15,NWE,Win,21,17,4,1,rush,Rhamondre Stevenson
+16,16,Raiders,2023-10-22,CHI,Loss,12,30,1,2,rush,D'Onta Foreman
+17,17,Raiders,2023-10-22,CHI,Loss,12,30,2,3,rush,D'Onta Foreman
+18,18,Raiders,2023-10-22,CHI,Loss,12,30,3,5,pass,D'Onta Foreman
+19,19,Raiders,2023-10-22,CHI,Loss,12,30,4,39,interception,Jaylon Johnson
+20,20,Raiders,2023-10-30,DET,Loss,14,26,2,18,pass,Sam LaPorta
+21,21,Raiders,2023-10-30,DET,Loss,14,26,3,27,rush,Jahmyr Gibbs
+22,22,Raiders,2023-11-05,NYG,Win,30,6,4,9,pass,Wan'Dale Robinson
+23,23,Raiders,2023-11-19,MIA,Loss,13,20,1,38,pass,Tyreek Hill
+24,24,Raiders,2023-11-19,MIA,Loss,13,20,2,11,pass,Salvon Ahmed
+25,25,Raiders,2023-11-26,KAN,Loss,17,31,2,1,rush,Isiah Pacheco
+26,26,Raiders,2023-11-26,KAN,Loss,17,31,2,3,pass,Justin Watson
+27,27,Raiders,2023-11-26,KAN,Loss,17,31,3,1,rush,Isiah Pacheco
+28,28,Raiders,2023-11-26,KAN,Loss,17,31,4,39,pass,Rashee Rice
+29,29,Raiders,2023-12-14,LAC,Win,63,21,3,79,pass,Josh Palmer
+30,30,Raiders,2023-12-14,LAC,Win,63,21,4,13,pass,Alex Erickson
+31,31,Raiders,2023-12-14,LAC,Win,63,21,4,6,pass,Quentin Johnston
+32,32,Raiders,2023-12-25,KAN,Win,20,14,2,12,rush,Isiah Pacheco
+33,33,Raiders,2023-12-25,KAN,Win,20,14,4,7,pass,Justin Watson
+34,34,Raiders,2023-12-31,IND,Loss,20,23,1,5,rush,Jonathan Taylor
+35,35,Raiders,2023-12-31,IND,Loss,20,23,2,58,pass,Alec Pierce
+36,36,Raiders,2024-01-07,DEN,Win,27,14,2,24,pass,Jerry Jeudy
+37,37,Raiders,2024-01-07,DEN,Win,27,14,4,2,rush,Javonte Williams

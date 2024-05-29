@@ -1,6 +1,6 @@
-,No.,Team,Player,Age,Position,Games Played,Games Started,Punts Returned,Punts Return Yardage,Punts Returned for Touchdown,Longest Punt Return,Yards per Punt Return,Kickoff Returns,Yardage for Kickoffs Returned,Kickoffs Returned for a Touchdown,Longest Kickoff Return,Yards per Kickoff Return,All-purpose Yards,Year
-0,11,Lions,Kalif Raymond,29,WR,17,3,29,331,0,42,11.4,0,0,0,0,,895,2023
-1,30,Lions,Khalil Dorsey,25,CB,13,2,0,0,0,0,,12,244,0,30,20.3,275,2023
-2,13,Lions,Craig Reynolds,27,RB,17,0,0,0,0,0,,5,133,0,31,26.6,359,2023
-3,35,Lions,Mohamed Ibrahim,25,RB,1,0,0,0,0,0,,1,22,0,22,22.0,22,2023
-4,28,Lions,Zonovan Knight,22,RB,2,0,0,0,0,0,,1,22,0,22,22.0,43,2023
+,No.,Player,Age,Position,Games Played,Games Started,Punts Returned,Punts Return Yardage,Punts Returned for Touchdown,Longest Punt Return,Yards per Punt Return,Kickoff Returns,Yardage for Kickoffs Returned,Kickoffs Returned for a Touchdown,Longest Kickoff Return,Yards per Kickoff Return,All-purpose Yards,Team,Year
+11,11,Kalif Raymond,29,WR,17,3,29,331,0,42,11.4,0,0,0,0,0.0,895,Lions,2023
+30,30,Khalil Dorsey,25,CB,13,2,0,0,0,0,0.0,12,244,0,30,20.3,275,Lions,2023
+13,13,Craig Reynolds,27,RB,17,0,0,0,0,0,0.0,5,133,0,31,26.6,359,Lions,2023
+35,35,Mohamed Ibrahim,25,RB,1,0,0,0,0,0,0.0,1,22,0,22,22.0,22,Lions,2023
+28,28,Zonovan Knight,22,RB,2,0,0,0,0,0,0.0,1,22,0,22,22.0,43,Lions,2023

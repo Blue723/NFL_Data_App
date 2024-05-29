@@ -1,48 +1,48 @@
-,No.,Team,Player,Age,Pos,Games Played,Games Started,Passes Intercepted on Defense,Yards Interceptions were Returned,Interceptions Returned for Touchdowns,Longest Interception Return,Passes Defended by Defensive Player,# Forced Fumble by Opp.,# Fumbled both Lost and Recovered by Own Team,Fumbles Recovered by Original Fumbler,Yards Recovered Fumbles were Returned,Fumbles Recovered for Touchdown,Sacks,Tackles Solo+Assisted,Solo Tackles,Assisted Tackles,Tackles for Loss,Quarterback Hits,Safeties Scored by Player/Team,Year
-0,7,Packers,Quay Walker,23,LB,14,14,1,37,1,37,3,0,0,0,0,0,2.5,118,59,59,7,5,0,2023
-1,25,Packers,Keisean Nixon,26,CB,17,13,1,2,0,2,6,0,3,2,0,0,0.5,80,59,21,3,1,0,2023
-2,34,Packers,Jonathan Owens,28,S,17,11,0,0,0,0,3,1,0,1,27,1,1.0,84,58,26,2,1,0,2023
-3,58,Packers,Isaiah McDuffie,24,LB,16,8,0,0,0,0,1,0,0,0,0,0,0.5,86,56,30,5,3,0,2023
-4,59,Packers,De'Vondre Campbell,30,LILB,11,11,0,0,0,0,1,0,0,1,3,0,0.0,75,46,29,3,2,0,2023
-5,20,Packers,Rudy Ford,29,S,13,9,2,30,0,21,6,0,0,1,0,0,0.0,71,47,24,0,0,0,2023
-6,26,Packers,Darnell Savage Jr.,26,SS,10,10,0,0,0,0,1,0,0,0,0,0,0.0,51,36,15,1,0,0,2023
-7,91,Packers,Preston Smith,31,LB,17,17,0,0,0,0,4,2,0,0,0,0,8.0,48,28,20,4,21,0,2023
-8,52,Packers,Rashan Gary,26,LB,17,13,0,0,0,0,2,2,0,2,0,0,9.0,44,23,21,7,22,0,2023
-9,37,Packers,Carrington Valentine,22,CB,17,12,0,0,0,0,9,0,0,1,50,0,0.0,44,33,11,0,0,0,2023
-10,97,Packers,Kenny Clark,28,DL,17,17,0,0,0,0,3,2,0,0,0,0,7.5,44,22,22,9,16,0,2023
-11,93,Packers,Tedarrell Slaton,26,DL,17,17,0,0,0,0,2,0,0,0,0,0,0.0,50,23,27,2,2,0,2023
-12,35,Packers,Corey Ballentine,27,CB,14,6,1,0,0,0,7,0,0,0,0,0,0.0,43,28,15,0,0,0,2023
-13,55,Packers,Kingsley Enagbare,23,LB,17,4,0,0,0,0,1,1,0,1,0,0,2.0,37,27,10,8,6,0,2023
-14,95,Packers,Devonte Wyatt,25,DL,17,5,0,0,0,0,0,0,0,1,0,0,5.5,36,18,18,6,11,0,2023
-15,29,Packers,Rasul Douglas,29,RCB,7,7,1,-2,0,-2,6,0,0,1,0,0,0.0,32,26,6,2,0,0,2023
-16,90,Packers,Lukas Van Ness,22,LB,17,0,0,0,0,0,1,0,0,0,0,0,4.0,32,24,8,8,10,0,2023
-17,23,Packers,Jaire Alexander,26,CB,7,7,0,0,0,0,5,1,0,0,0,0,0.0,27,23,4,1,0,0,2023
-18,45,Packers,Eric Wilson,29,LB,17,0,0,0,0,0,0,0,0,0,0,0,0.0,31,16,15,0,1,0,2023
-19,36,Packers,Anthony Johnson,24,S,12,4,1,1,0,1,3,0,0,0,0,0,0.0,24,18,6,0,0,0,2023
-20,94,Packers,Karl Brooks,23,DL,17,0,0,0,0,0,4,1,0,2,0,0,4.0,20,12,8,6,5,0,2023
-21,96,Packers,Colby Wooden,23,DL,17,0,0,0,0,0,0,0,0,0,0,0,0.5,17,10,7,1,2,0,2023
-22,47,Packers,Justin Hollins,27,LB,4,0,0,0,0,0,0,0,0,0,0,0,0.0,9,5,4,0,0,0,2023
-23,10,Packers,Jordan Love,25,QB,17,17,0,0,0,0,0,0,9,3,-6,0,0.0,0,0,0,0,0,0,2023
-24,21,Packers,Eric Stokes,24,CB,3,2,0,0,0,0,0,0,0,0,0,0,0.0,6,5,1,1,0,0,2023
-25,54,Packers,Kristian Welch,25,LB,14,0,0,0,0,0,0,0,0,0,0,0,0.0,6,4,2,0,0,0,2023
-26,81,Packers,Josiah Deguara,26,TE,15,4,0,0,0,0,0,0,0,1,0,0,0.0,4,3,1,0,0,0,2023
-27,22,Packers,Robert Rochell,25,CB,9,0,0,0,0,0,0,0,0,0,0,0,0.0,4,4,0,0,0,0,2023
-28,39,Packers,Zayne Anderson,26,S,10,0,0,0,0,0,0,0,0,0,0,0,0.0,4,3,1,0,0,0,2023
-29,38,Packers,Innis Gaines,25,S,4,0,0,0,0,0,0,0,0,0,0,0,0.0,4,3,1,0,0,0,2023
-30,85,Packers,Tucker Kraft,23,TE,17,8,0,0,0,0,0,0,0,0,0,0,0.0,3,2,1,0,0,0,2023
-31,27,Packers,Patrick Taylor,25,RB,11,0,0,0,0,0,0,0,0,0,0,0,0.0,3,2,1,0,0,0,2023
-32,18,Packers,Malik Heath,23,WR,13,1,0,0,0,0,0,0,0,0,0,0,0.0,2,2,0,0,0,0,2023
-33,13,Packers,Dontayvion Wicks,22,WR,15,6,0,0,0,0,0,0,3,1,0,0,0.0,0,0,0,0,0,0,2023
-34,33,Packers,Aaron Jones,29,RB,11,11,0,0,0,0,0,0,2,1,-1,0,0.0,0,0,0,0,0,0,2023
-35,6,Packers,Dallin Leavitt,29,S,10,0,0,0,0,0,0,0,0,0,0,0,0.0,2,1,1,0,0,0,2023
-36,11,Packers,Jayden Reed,23,WR,16,13,0,0,0,0,0,0,2,1,0,0,0.0,0,0,0,0,0,0,2023
-37,48,Packers,Benny Sapp III,23,S,5,0,0,0,0,0,0,0,0,0,0,0,0.0,2,1,1,0,0,0,2023
-38,17,Packers,Anders Carlson,25,K,17,0,0,0,0,0,0,0,0,0,0,0,0.0,1,1,0,0,0,0,2023
-39,8,Packers,Sean Clifford,25,QB,2,0,0,0,0,0,0,0,1,1,-1,0,0.0,0,0,0,0,0,0,2023
-40,80,Packers,Bo Melton,24,WR,5,1,0,0,0,0,0,0,0,0,0,0,0.0,1,1,0,0,0,0,2023
-41,50,Packers,Zach Tom,24,OL,17,17,0,0,0,0,0,0,0,2,0,0,0.0,0,0,0,0,0,0,2023
-42,87,Packers,Romeo Doubs,23,WR,17,16,0,0,0,0,0,0,1,0,0,0,0.0,0,0,0,0,0,0,2023
-43,74,Packers,Elgton Jenkins,28,OL,15,15,0,0,0,0,0,0,0,1,0,0,0.0,0,0,0,0,0,0,2023
-44,43,Packers,Kiondre Thomas,25,CB,1,0,0,0,0,0,0,0,0,1,0,0,0.0,0,0,0,0,0,0,2023
-45,83,Packers,Samori Toure,25,WR,11,0,0,0,0,0,0,0,1,0,0,0,0.0,0,0,0,0,0,0,2023
-46,31,Packers,Emanuel Wilson,24,RB,7,0,0,0,0,0,0,0,1,0,0,0,0.0,0,0,0,0,0,0,2023
+,No.,Player,Age,Pos,Games Played,Games Started,Passes Intercepted on Defense,Yards Interceptions were Returned,Interceptions Returned for Touchdowns,Longest Interception Return,Passes Defended by Defensive Player,# Forced Fumble by Opp.,# Fumbled both Lost and Recovered by Own Team,Fumbles Recovered by Original Fumbler,Yards Recovered Fumbles were Returned,Fumbles Recovered for Touchdown,Sacks,Tackles Solo+Assisted,Solo Tackles,Assisted Tackles,Tackles for Loss,Quarterback Hits,Safeties Scored by Player/Team,Team,Year
+7,7,Quay Walker,23,LB,14,14,1,37,1,37,3,0,0,0,0,0,2.5,118,59,59,7,5,0,Packers,2023
+25,25,Keisean Nixon,26,CB,17,13,1,2,0,2,6,0,3,2,0,0,0.5,80,59,21,3,1,0,Packers,2023
+34,34,Jonathan Owens,28,S,17,11,0,0,0,0,3,1,0,1,27,1,1.0,84,58,26,2,1,0,Packers,2023
+58,58,Isaiah McDuffie,24,LB,16,8,0,0,0,0,1,0,0,0,0,0,0.5,86,56,30,5,3,0,Packers,2023
+59,59,De'Vondre Campbell,30,LILB,11,11,0,0,0,0,1,0,0,1,3,0,0.0,75,46,29,3,2,0,Packers,2023
+20,20,Rudy Ford,29,S,13,9,2,30,0,21,6,0,0,1,0,0,0.0,71,47,24,0,0,0,Packers,2023
+26,26,Darnell Savage Jr.,26,SS,10,10,0,0,0,0,1,0,0,0,0,0,0.0,51,36,15,1,0,0,Packers,2023
+91,91,Preston Smith,31,LB,17,17,0,0,0,0,4,2,0,0,0,0,8.0,48,28,20,4,21,0,Packers,2023
+52,52,Rashan Gary,26,LB,17,13,0,0,0,0,2,2,0,2,0,0,9.0,44,23,21,7,22,0,Packers,2023
+37,37,Carrington Valentine,22,CB,17,12,0,0,0,0,9,0,0,1,50,0,0.0,44,33,11,0,0,0,Packers,2023
+97,97,Kenny Clark,28,DL,17,17,0,0,0,0,3,2,0,0,0,0,7.5,44,22,22,9,16,0,Packers,2023
+93,93,Tedarrell Slaton,26,DL,17,17,0,0,0,0,2,0,0,0,0,0,0.0,50,23,27,2,2,0,Packers,2023
+35,35,Corey Ballentine,27,CB,14,6,1,0,0,0,7,0,0,0,0,0,0.0,43,28,15,0,0,0,Packers,2023
+55,55,Kingsley Enagbare,23,LB,17,4,0,0,0,0,1,1,0,1,0,0,2.0,37,27,10,8,6,0,Packers,2023
+95,95,Devonte Wyatt,25,DL,17,5,0,0,0,0,0,0,0,1,0,0,5.5,36,18,18,6,11,0,Packers,2023
+29,29,Rasul Douglas,28,RCB,7,7,1,-2,0,-2,6,0,0,1,0,0,0.0,32,26,6,2,0,0,Packers,2023
+90,90,Lukas Van Ness,22,LB,17,0,0,0,0,0,1,0,0,0,0,0,4.0,32,24,8,8,10,0,Packers,2023
+23,23,Jaire Alexander,26,CB,7,7,0,0,0,0,5,1,0,0,0,0,0.0,27,23,4,1,0,0,Packers,2023
+45,45,Eric Wilson,29,LB,17,0,0,0,0,0,0,0,0,0,0,0,0.0,31,16,15,0,1,0,Packers,2023
+36,36,Anthony Johnson,24,S,12,4,1,1,0,1,3,0,0,0,0,0,0.0,24,18,6,0,0,0,Packers,2023
+94,94,Karl Brooks,23,DL,17,0,0,0,0,0,4,1,0,2,0,0,4.0,20,12,8,6,5,0,Packers,2023
+96,96,Colby Wooden,23,DL,17,0,0,0,0,0,0,0,0,0,0,0,0.5,17,10,7,1,2,0,Packers,2023
+47,47,Justin Hollins,27,LB,4,0,0,0,0,0,0,0,0,0,0,0,0.0,9,5,4,0,0,0,Packers,2023
+10,10,Jordan Love,25,QB,17,17,0,0,0,0,0,0,9,3,-6,0,0.0,0,0,0,0,0,0,Packers,2023
+21,21,Eric Stokes,24,CB,3,2,0,0,0,0,0,0,0,0,0,0,0.0,6,5,1,1,0,0,Packers,2023
+54,54,Kristian Welch,25,LB,14,0,0,0,0,0,0,0,0,0,0,0,0.0,6,4,2,0,0,0,Packers,2023
+81,81,Josiah Deguara,26,TE,15,4,0,0,0,0,0,0,0,1,0,0,0.0,4,3,1,0,0,0,Packers,2023
+22,22,Robert Rochell,25,CB,9,0,0,0,0,0,0,0,0,0,0,0,0.0,4,4,0,0,0,0,Packers,2023
+39,39,Zayne Anderson,26,S,10,0,0,0,0,0,0,0,0,0,0,0,0.0,4,3,1,0,0,0,Packers,2023
+38,38,Innis Gaines,25,S,4,0,0,0,0,0,0,0,0,0,0,0,0.0,4,3,1,0,0,0,Packers,2023
+85,85,Tucker Kraft,23,TE,17,8,0,0,0,0,0,0,0,0,0,0,0.0,3,2,1,0,0,0,Packers,2023
+27,27,Patrick Taylor,25,RB,11,0,0,0,0,0,0,0,0,0,0,0,0.0,3,2,1,0,0,0,Packers,2023
+18,18,Malik Heath,23,WR,13,1,0,0,0,0,0,0,0,0,0,0,0.0,2,2,0,0,0,0,Packers,2023
+13,13,Dontayvion Wicks,22,WR,15,6,0,0,0,0,0,0,3,1,0,0,0.0,0,0,0,0,0,0,Packers,2023
+33,33,Aaron Jones,29,RB,11,11,0,0,0,0,0,0,2,1,-1,0,0.0,0,0,0,0,0,0,Packers,2023
+6,6,Dallin Leavitt,29,S,10,0,0,0,0,0,0,0,0,0,0,0,0.0,2,1,1,0,0,0,Packers,2023
+11,11,Jayden Reed,23,WR,16,13,0,0,0,0,0,0,2,1,0,0,0.0,0,0,0,0,0,0,Packers,2023
+48,48,Benny Sapp III,23,S,5,0,0,0,0,0,0,0,0,0,0,0,0.0,2,1,1,0,0,0,Packers,2023
+17,17,Anders Carlson,25,K,17,0,0,0,0,0,0,0,0,0,0,0,0.0,1,1,0,0,0,0,Packers,2023
+8,8,Sean Clifford,25,QB,2,0,0,0,0,0,0,0,1,1,-1,0,0.0,0,0,0,0,0,0,Packers,2023
+80,80,Bo Melton,24,WR,5,1,0,0,0,0,0,0,0,0,0,0,0.0,1,1,0,0,0,0,Packers,2023
+50,50,Zach Tom,24,OL,17,17,0,0,0,0,0,0,0,2,0,0,0.0,0,0,0,0,0,0,Packers,2023
+87,87,Romeo Doubs,23,WR,17,16,0,0,0,0,0,0,1,0,0,0,0.0,0,0,0,0,0,0,Packers,2023
+74,74,Elgton Jenkins,28,OL,15,15,0,0,0,0,0,0,0,1,0,0,0.0,0,0,0,0,0,0,Packers,2023
+43,43,Kiondre Thomas,25,CB,1,0,0,0,0,0,0,0,0,1,0,0,0.0,0,0,0,0,0,0,Packers,2023
+83,83,Samori Toure,25,WR,11,0,0,0,0,0,0,0,1,0,0,0,0.0,0,0,0,0,0,0,Packers,2023
+31,31,Emanuel Wilson,24,RB,7,0,0,0,0,0,0,0,1,0,0,0,0.0,0,0,0,0,0,0,Packers,2023

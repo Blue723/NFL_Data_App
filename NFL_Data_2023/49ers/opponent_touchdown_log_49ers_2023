@@ -1,32 +1,32 @@
-,Rank,Team,Date,Opponent,Win/Loss,Score,Quarter,Distance,Type,Detail,Year
-0,1,49ers,09/10/2023,PIT,Win, 30-7,2,3,pass,Pat Freiermuth,2023
-1,2,49ers,09/17/2023,LAR,Win, 30-23,2,6,pass,Kyren Williams,2023
-2,3,49ers,09/17/2023,LAR,Win, 30-23,2,4,rush,Kyren Williams,2023
-3,4,49ers,09/21/2023,NYG,Win, 30-12,3,8,rush,Matt Breida,2023
-4,5,49ers,10/01/2023,ARI,Win, 35-16,2,16,pass,Michael Wilson,2023
-5,6,49ers,10/01/2023,ARI,Win, 35-16,3,8,pass,Michael Wilson,2023
-6,7,49ers,10/08/2023,DAL,Win, 42-10,2,26,pass,KaVontae Turpin,2023
-7,8,49ers,10/15/2023,CLE,Loss, 17-19,2,16,rush,Kareem Hunt,2023
-8,9,49ers,10/23/2023,MIN,Loss, 17-22,1,20,pass,Jordan Addison,2023
-9,10,49ers,10/23/2023,MIN,Loss, 17-22,2,60,pass,Jordan Addison,2023
-10,11,49ers,10/29/2023,CIN,Loss, 17-31,1,7,pass,Tyler Boyd,2023
-11,12,49ers,10/29/2023,CIN,Loss, 17-31,1,2,pass,Andrei Iosivas,2023
-12,13,49ers,10/29/2023,CIN,Loss, 17-31,4,17,pass,Ja'Marr Chase,2023
-13,14,49ers,10/29/2023,CIN,Loss, 17-31,4,5,rush,Joe Mixon,2023
-14,15,49ers,11/19/2023,TAM,Win, 27-14,2,1,pass,Mike Evans,2023
-15,16,49ers,11/19/2023,TAM,Win, 27-14,4,1,rush,Rachaad White,2023
-16,17,49ers,11/23/2023,SEA,Win, 31-13,3,12,interception,Jordyn Brooks,2023
-17,18,49ers,12/03/2023,PHI,Win, 42-19,3,1,rush,Jalen Hurts,2023
-18,19,49ers,12/03/2023,PHI,Win, 42-19,4,2,pass,DeVonta Smith,2023
-19,20,49ers,12/10/2023,SEA,Win, 28-16,1,31,pass,D.K. Metcalf,2023
-20,21,49ers,12/10/2023,SEA,Win, 28-16,3,25,pass,Colby Parkinson,2023
-21,22,49ers,12/17/2023,ARI,Win, 45-29,1,2,rush,James Conner,2023
-22,23,49ers,12/17/2023,ARI,Win, 45-29,4,49,rush,Emari Demercado,2023
-23,24,49ers,12/17/2023,ARI,Win, 45-29,4,8,pass,Elijah Higgins,2023
-24,25,49ers,12/25/2023,BAL,Loss, 19-33,2,1,rush,Gus Edwards,2023
-25,26,49ers,12/25/2023,BAL,Loss, 19-33,3,6,pass,Nelson Agholor,2023
-26,27,49ers,12/25/2023,BAL,Loss, 19-33,3,9,pass,Zay Flowers,2023
-27,28,49ers,12/31/2023,WAS,Win, 27-10,2,3,pass,Terry McLaurin,2023
-28,29,49ers,01/07/2024,LAR,Loss, 20-21,1,19,pass,Puka Nacua,2023
-29,30,49ers,01/07/2024,LAR,Loss, 20-21,3,8,pass,Tyler Johnson,2023
-30,31,49ers,01/07/2024,LAR,Loss, 20-21,4,12,rush,Carson Wentz,2023
+,Rank,Team,Date,Opponent,Win/Loss,Home_Score,Opponenet_Score,Quarter,Distance,Type,Detail
+1,1,49ers,2023-09-10,PIT,Win,30,7,2,3,pass,Pat Freiermuth
+2,2,49ers,2023-09-17,LAR,Win,30,23,2,6,pass,Kyren Williams
+3,3,49ers,2023-09-17,LAR,Win,30,23,2,4,rush,Kyren Williams
+4,4,49ers,2023-09-21,NYG,Win,30,12,3,8,rush,Matt Breida
+5,5,49ers,2023-10-01,ARI,Win,35,16,2,16,pass,Michael Wilson
+6,6,49ers,2023-10-01,ARI,Win,35,16,3,8,pass,Michael Wilson
+7,7,49ers,2023-10-08,DAL,Win,42,10,2,26,pass,KaVontae Turpin
+8,8,49ers,2023-10-15,CLE,Loss,17,19,2,16,rush,Kareem Hunt
+9,9,49ers,2023-10-23,MIN,Loss,17,22,1,20,pass,Jordan Addison
+10,10,49ers,2023-10-23,MIN,Loss,17,22,2,60,pass,Jordan Addison
+11,11,49ers,2023-10-29,CIN,Loss,17,31,1,7,pass,Tyler Boyd
+12,12,49ers,2023-10-29,CIN,Loss,17,31,1,2,pass,Andrei Iosivas
+13,13,49ers,2023-10-29,CIN,Loss,17,31,4,17,pass,Ja'Marr Chase
+14,14,49ers,2023-10-29,CIN,Loss,17,31,4,5,rush,Joe Mixon
+15,15,49ers,2023-11-19,TAM,Win,27,14,2,1,pass,Mike Evans
+16,16,49ers,2023-11-19,TAM,Win,27,14,4,1,rush,Rachaad White
+17,17,49ers,2023-11-23,SEA,Win,31,13,3,12,interception,Jordyn Brooks
+18,18,49ers,2023-12-03,PHI,Win,42,19,3,1,rush,Jalen Hurts
+19,19,49ers,2023-12-03,PHI,Win,42,19,4,2,pass,DeVonta Smith
+20,20,49ers,2023-12-10,SEA,Win,28,16,1,31,pass,D.K. Metcalf
+21,21,49ers,2023-12-10,SEA,Win,28,16,3,25,pass,Colby Parkinson
+22,22,49ers,2023-12-17,ARI,Win,45,29,1,2,rush,James Conner
+23,23,49ers,2023-12-17,ARI,Win,45,29,4,49,rush,Emari Demercado
+24,24,49ers,2023-12-17,ARI,Win,45,29,4,8,pass,Elijah Higgins
+25,25,49ers,2023-12-25,BAL,Loss,19,33,2,1,rush,Gus Edwards
+26,26,49ers,2023-12-25,BAL,Loss,19,33,3,6,pass,Nelson Agholor
+27,27,49ers,2023-12-25,BAL,Loss,19,33,3,9,pass,Zay Flowers
+28,28,49ers,2023-12-31,WAS,Win,27,10,2,3,pass,Terry McLaurin
+29,29,49ers,2024-01-07,LAR,Loss,20,21,1,19,pass,Puka Nacua
+30,30,49ers,2024-01-07,LAR,Loss,20,21,3,8,pass,Tyler Johnson
+31,31,49ers,2024-01-07,LAR,Loss,20,21,4,12,rush,Carson Wentz

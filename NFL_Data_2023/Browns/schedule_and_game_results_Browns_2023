@@ -1,21 +1,19 @@
-,Week,Team,Day,Date,Time,Win/Loss,Overtime,Team Record,Home/Away,Opponent,Points Scored,Points Allowed,Offense 1st Down,Total Yards Gained of Offense,Total yards Gained by Passing,Total Yards Gained by Rushing,Offense Turnovers,Defense 1st Down,Total Yards Allowed by Defense,Total Passing Yards Allowed by Defense,Total Rushing Yards Allowed by Defense,Defense Turnovers,Offense,Defense,Sp. Tms,Year
-0,0,Browns,Sun,September 10,,W,0,1-0,home,Cincinnati Bengals,24,3,21,350,144,206,2,6,142,67,75,0,-6.77,23.57,3.92,2023
-1,1,Browns,Mon,September 18,,L,0,1-1,away,Pittsburgh Steelers,22,26,20,408,210,198,4,9,255,200,55,2,-19.51,16.63,-2.81,2023
-2,2,Browns,Sun,September 24,,W,0,2-1,home,Tennessee Titans,27,3,23,341,263,78,1,6,94,68,26,0,13.99,13.12,-4.04,2023
-3,3,Browns,Sun,October 1,,L,0,2-2,home,Baltimore Ravens,3,28,13,166,73,93,3,16,296,165,131,1,-25.42,-2.36,2.71,2023
-4,4,Browns,,,,,0,,home,<strong>Bye Week</strong>,0,0,0,0,0,0,0,0,0,0,0,0,,,,2023
-5,5,Browns,Sun,October 15,,W,0,3-2,home,San Francisco 49ers,19,17,18,334,174,160,2,15,215,107,108,1,-11.32,6.05,7.34,2023
-6,6,Browns,Sun,October 22,,W,0,4-2,away,Indianapolis Colts,39,38,18,316,166,150,2,20,456,288,168,4,-5.3,-1.77,10.23,2023
-7,7,Browns,Sun,October 29,,L,0,4-3,away,Seattle Seahawks,20,24,23,385,230,155,3,17,362,248,114,2,0.0,-6.04,-2.5,2023
-8,8,Browns,Sun,November 5,,W,0,5-3,home,Arizona Cardinals,27,0,17,326,213,113,0,7,58,17,41,3,0.59,35.86,-7.62,2023
-9,9,Browns,Sun,November 12,,W,0,6-3,away,Baltimore Ravens,33,31,24,373,195,178,2,18,306,200,106,2,6.32,-2.49,-1.1,2023
-10,10,Browns,Sun,November 19,,W,0,7-3,home,Pittsburgh Steelers,13,10,20,259,163,96,1,12,249,77,172,0,-6.18,6.04,1.74,2023
-11,11,Browns,Sun,November 26,,L,0,7-4,away,Denver Broncos,12,29,19,269,162,107,3,17,294,125,169,1,-14.0,-3.83,0.36,2023
-12,12,Browns,Sun,December 3,,L,0,7-5,away,Los Angeles Rams,19,36,20,327,240,87,1,20,399,279,120,0,-1.73,-16.49,1.43,2023
-13,13,Browns,Sun,December 10,,W,0,8-5,home,Jacksonville Jaguars,31,27,16,389,307,82,3,20,293,235,58,4,-8.29,8.51,5.12,2023
-14,14,Browns,Sun,December 17,,W,0,9-5,home,Chicago Bears,20,17,14,377,348,29,3,12,236,148,88,3,-20.66,20.51,3.15,2023
-15,15,Browns,Sun,December 24,,W,0,10-5,away,Houston Texans,36,22,26,418,364,54,2,20,250,178,72,2,12.38,9.69,-8.56,2023
-16,16,Browns,Thu,December 28,,W,0,11-5,home,New York Jets,37,20,20,428,301,127,3,17,360,253,107,2,3.15,7.73,3.99,2023
-17,17,Browns,Sun,January 7,,L,0,11-6,away,Cincinnati Bengals,14,31,13,244,140,104,2,22,328,145,183,1,-8.3,-8.81,1.32,2023
-18,18,Browns,,<strong>Playoffs</strong>,,,0,,home,,0,0,0,0,0,0,0,0,0,0,0,0,,,,2023
-19,19,Browns,Sat,January 13,,L,0,11-7,away,Houston Texans,14,45,18,324,268,56,2,14,356,280,76,0,-19.5,-15.45,3.91,2023
+,Week,Day,Date,Time,Win/Loss,Overtime,Team Record,Home/Away,Opponent,Points Scored,Points Allowed,Offense 1st Down,Total Yards Gained of Offense,Total yards Gained by Passing,Total Yards Gained by Rushing,Offense Turnovers,Defense 1st Down,Total Yards Allowed by Defense,Total Passing Yards Allowed by Defense,Total Rushing Yards Allowed by Defense,Defense Turnovers,Offense,Defense,Sp. Tms,Team,Year
+0,1,Sun,2023-09-10,nan,Win,0,1-0,home,Cincinnati Bengals,24,3,21,350,144,206,2,6,142,67,75,0,-6.77,23.57,3.92,Browns,2023
+1,2,Mon,2023-09-18,nan,Loss,0,1-1,away,Pittsburgh Steelers,22,26,20,408,210,198,4,9,255,200,55,2,-19.51,16.63,-2.81,Browns,2023
+2,3,Sun,2023-09-24,nan,Win,0,2-1,home,Tennessee Titans,27,3,23,341,263,78,1,6,94,68,26,0,13.99,13.12,-4.04,Browns,2023
+3,4,Sun,2023-10-01,nan,Loss,0,2-2,home,Baltimore Ravens,3,28,13,166,73,93,3,16,296,165,131,1,-25.42,-2.36,2.71,Browns,2023
+4,6,Sun,2023-10-15,nan,Win,0,3-2,home,San Francisco 49ers,19,17,18,334,174,160,2,15,215,107,108,1,-11.32,6.05,7.34,Browns,2023
+5,7,Sun,2023-10-22,nan,Win,0,4-2,away,Indianapolis Colts,39,38,18,316,166,150,2,20,456,288,168,4,-5.3,-1.77,10.23,Browns,2023
+6,8,Sun,2023-10-29,nan,Loss,0,4-3,away,Seattle Seahawks,20,24,23,385,230,155,3,17,362,248,114,2,0.0,-6.04,-2.5,Browns,2023
+7,9,Sun,2023-11-05,nan,Win,0,5-3,home,Arizona Cardinals,27,0,17,326,213,113,0,7,58,17,41,3,0.59,35.86,-7.62,Browns,2023
+8,10,Sun,2023-11-12,nan,Win,0,6-3,away,Baltimore Ravens,33,31,24,373,195,178,2,18,306,200,106,2,6.32,-2.49,-1.1,Browns,2023
+9,11,Sun,2023-11-19,nan,Win,0,7-3,home,Pittsburgh Steelers,13,10,20,259,163,96,1,12,249,77,172,0,-6.18,6.04,1.74,Browns,2023
+10,12,Sun,2023-11-26,nan,Loss,0,7-4,away,Denver Broncos,12,29,19,269,162,107,3,17,294,125,169,1,-14.0,-3.83,0.36,Browns,2023
+11,13,Sun,2023-12-03,nan,Loss,0,7-5,away,Los Angeles Rams,19,36,20,327,240,87,1,20,399,279,120,0,-1.73,-16.49,1.43,Browns,2023
+12,14,Sun,2023-12-10,nan,Win,0,8-5,home,Jacksonville Jaguars,31,27,16,389,307,82,3,20,293,235,58,4,-8.29,8.51,5.12,Browns,2023
+13,15,Sun,2023-12-17,nan,Win,0,9-5,home,Chicago Bears,20,17,14,377,348,29,3,12,236,148,88,3,-20.66,20.51,3.15,Browns,2023
+14,16,Sun,2023-12-24,nan,Win,0,10-5,away,Houston Texans,36,22,26,418,364,54,2,20,250,178,72,2,12.38,9.69,-8.56,Browns,2023
+15,17,Thu,2023-12-28,nan,Win,0,11-5,home,New York Jets,37,20,20,428,301,127,3,17,360,253,107,2,3.15,7.73,3.99,Browns,2023
+16,18,Sun,2024-01-07,nan,Loss,0,11-6,away,Cincinnati Bengals,14,31,13,244,140,104,2,22,328,145,183,1,-8.3,-8.81,1.32,Browns,2023
+17,20,Sat,2024-01-13,nan,Loss,0,11-7,away,Houston Texans,14,45,18,324,268,56,2,14,356,280,76,0,-19.5,-15.45,3.91,Browns,2023

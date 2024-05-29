@@ -1,5 +1,5 @@
-,Player,Team,3rd Down Attempts in Game,3rd Down Conversions,3rd Down Conversion Per.,4th Down Attempts in Game,4th Down Conversions in Game,4th Down Conversion Per.,Red Zone Attempts,Touchdowns Scored After the Team Entered the Red Zone,Per. of the Time a Team Reaches the Red Zone and Scores a Touchdown,Year
-0,Team Stats,Buccaneers,236.0,98.0,41.5,18.0,12.0,66.7,49.0,22.0,44.9,2023.0
-1,Opp. Stats,Buccaneers,225.0,92.0,40.9,25.0,12.0,48.0,54.0,23.0,42.6,2023.0
-2,Lg Rank Offense,Buccaneers,,,10.0,,,2.0,,,30.0,2023.0
-3,Lg Rank Defense,Buccaneers,,,23.0,,,14.0,,,3.0,2023.0
+,Player,3rd Down Attempts in Game,3rd Down Conversions,3rd Down Conversion Per.,4th Down Attempts in Game,4th Down Conversions in Game,4th Down Conversion Per.,Red Zone Attempts,Touchdowns Scored After the Team Entered the Red Zone,Per. of the Time a Team Reaches the Red Zone and Scores a Touchdown,Team,Year
+Team Stats,Team Stats,236.0,98.0,41.5,18.0,12.0,66.7,49.0,22.0,44.9,Buccaneers,2023
+Opp. Stats,Opp. Stats,225.0,92.0,40.9,25.0,12.0,48.0,54.0,23.0,42.6,Buccaneers,2023
+Lg Rank Offense,Lg Rank Offense,0.0,0.0,10.0,0.0,0.0,2.0,0.0,0.0,30,Buccaneers,2023
+Lg Rank Defense,Lg Rank Defense,0.0,0.0,23.0,0.0,0.0,14.0,0.0,0.0,3,Buccaneers,2023

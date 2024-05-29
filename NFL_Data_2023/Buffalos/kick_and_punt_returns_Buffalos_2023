@@ -1,7 +1,7 @@
-,No.,Team,Player,Age,Position,Games Played,Games Started,Punts Returned,Punts Return Yardage,Punts Returned for Touchdown,Longest Punt Return,Yards per Punt Return,Kickoff Returns,Yardage for Kickoffs Returned,Kickoffs Returned for a Touchdown,Longest Kickoff Return,Yards per Kickoff Return,All-purpose Yards,Year
-0,11,Buffalos,Deonte Harty,26,WR,16,1,26,323,1,96,12.4,1,7,0,7,7.0,480,2023
-1,10,Buffalos,Khalil Shakir,23,WR,17,10,5,37,0,10,7.4,5,98,0,27,19.6,756,2023
-2,26,Buffalos,Ty Johnson,26,RB,10,0,0,0,0,0,,8,161,0,24,20.1,355,2023
-3,5,Buffalos,Leonard Fournette,28,RB,2,0,0,0,0,0,,1,17,0,17,17.0,57,2023
-4,22,Buffalos,Damien Harris,26,RB,6,0,0,0,0,0,,1,41,0,41,41.0,151,2023
-5,87,Buffalos,Andy Isabella,27,WR,2,0,0,0,0,0,,1,25,0,25,25.0,25,2023
+,No.,Player,Age,Position,Games Played,Games Started,Punts Returned,Punts Return Yardage,Punts Returned for Touchdown,Longest Punt Return,Yards per Punt Return,Kickoff Returns,Yardage for Kickoffs Returned,Kickoffs Returned for a Touchdown,Longest Kickoff Return,Yards per Kickoff Return,All-purpose Yards,Team,Year
+11,11,Deonte Harty,26,WR,16,1,26,323,1,96,12.4,1,7,0,7,7.0,480,Buffalos,2023
+10,10,Khalil Shakir,23,WR,17,10,5,37,0,10,7.4,5,98,0,27,19.6,756,Buffalos,2023
+26,26,Ty Johnson,26,RB,10,0,0,0,0,0,0.0,8,161,0,24,20.1,355,Buffalos,2023
+5,5,Leonard Fournette,28,RB,2,0,0,0,0,0,0.0,1,17,0,17,17.0,57,Buffalos,2023
+22,22,Damien Harris,26,RB,6,0,0,0,0,0,0.0,1,41,0,41,41.0,151,Buffalos,2023
+87,87,Andy Isabella,27,WR,2,0,0,0,0,0,0.0,1,25,0,25,25.0,25,Buffalos,2023

@@ -1,14 +1,14 @@
-,No.,Team,Player,Age,Pos,Games Played,Games Started,Rush TD,Reception TD,Punt Return TD,Kick Return TD,Fumble Return TD,Interception TD,Other TD,All Touchdown Scored,2-Point Conversions Made,Two-Point Conversions Attempted,Defensive Two-Point Conversions,Extra Points Made,Extra Points Allowed,Field Goals Made,Field Goals Attempted,Safeties Scored by Player/Team,Total Points Scored by all Means,Poins per Game,Year
-0,5,Seahawks,Jason Myers,32,K,17,0,0,0,0,0,0,0,0,0,0,0,0,33,33,35,42,,138,8.1,2023
-1,9,Seahawks,Kenneth Walker III,23,RB,15,15,8,1,0,0,0,0,0,9,0,0,0,0,0,0,0,,54,3.6,2023
-2,14,Seahawks,D.K. Metcalf,26,WR,16,16,0,8,0,0,0,0,0,8,0,0,0,0,0,0,0,,48,3.0,2023
-3,16,Seahawks,Tyler Lockett,31,WR,17,17,0,5,0,0,0,0,0,5,2,0,0,0,0,0,0,,34,2.0,2023
-4,11,Seahawks,Jaxon Smith-Njigba,21,WR,17,3,0,4,0,0,0,0,0,4,0,0,0,0,0,0,0,,24,1.4,2023
-5,19,Seahawks,Jake Bobo,25,WR,17,0,1,2,0,0,0,0,0,3,0,0,0,0,0,0,0,,18,1.1,2023
-6,84,Seahawks,Colby Parkinson,24,TE,17,1,0,2,0,0,0,0,0,2,0,0,0,0,0,0,0,,12,0.7,2023
-7,56,Seahawks,Jordyn Brooks,26,RILB,16,16,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,,6,0.4,2023
-8,22,Seahawks,Tre Brown,26,CB,15,7,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,,6,0.4,2023
-9,26,Seahawks,Zach Charbonnet,22,RB,16,2,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,,6,0.4,2023
-10,89,Seahawks,Will Dissly,27,TE,16,14,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,,6,0.4,2023
-11,7,Seahawks,Geno Smith,33,QB,15,15,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,,6,0.4,2023
-12,21,Seahawks,Devon Witherspoon,23,CB,14,13,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,,6,0.4,2023
+,No.,Player,Age,Pos,Games Played,Games Started,Rush TD,Reception TD,Punt Return TD,Kick Return TD,Fumble Return TD,Interception TD,Other TD,All Touchdown Scored,2-Point Conversions Made,Two-Point Conversions Attempted,Defensive Two-Point Conversions,Extra Points Made,Extra Points Allowed,Field Goals Made,Field Goals Attempted,Safeties Scored by Player/Team,Total Points Scored by all Means,Poins per Game,Team,Year
+5,5,Jason Myers,32,K,17,0,0,0,0,0,0,0,0,0,0,0,0,33,33,35,42,0,138,8.1,Seahawks,2023
+9,9,Kenneth Walker III,23,RB,15,15,8,1,0,0,0,0,0,9,0,0,0,0,0,0,0,0,54,3.6,Seahawks,2023
+14,14,D.K. Metcalf,26,WR,16,16,0,8,0,0,0,0,0,8,0,0,0,0,0,0,0,0,48,3.0,Seahawks,2023
+16,16,Tyler Lockett,31,WR,17,17,0,5,0,0,0,0,0,5,2,0,0,0,0,0,0,0,34,2.0,Seahawks,2023
+11,11,Jaxon Smith-Njigba,21,WR,17,3,0,4,0,0,0,0,0,4,0,0,0,0,0,0,0,0,24,1.4,Seahawks,2023
+19,19,Jake Bobo,25,WR,17,0,1,2,0,0,0,0,0,3,0,0,0,0,0,0,0,0,18,1.1,Seahawks,2023
+84,84,Colby Parkinson,24,TE,17,1,0,2,0,0,0,0,0,2,0,0,0,0,0,0,0,0,12,0.7,Seahawks,2023
+56,56,Jordyn Brooks,26,RILB,16,16,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,6,0.4,Seahawks,2023
+22,22,Tre Brown,26,CB,15,7,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,6,0.4,Seahawks,2023
+26,26,Zach Charbonnet,22,RB,16,2,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,6,0.4,Seahawks,2023
+89,89,Will Dissly,27,TE,16,14,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,6,0.4,Seahawks,2023
+7,7,Geno Smith,33,QB,15,15,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,6,0.4,Seahawks,2023
+21,21,Devon Witherspoon,23,CB,14,13,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,6,0.4,Seahawks,2023

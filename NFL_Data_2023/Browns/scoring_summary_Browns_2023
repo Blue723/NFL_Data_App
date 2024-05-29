@@ -1,16 +1,16 @@
-,No.,Team,Player,Age,Pos,Games Played,Games Started,Rush TD,Reception TD,Punt Return TD,Kick Return TD,Fumble Return TD,Interception TD,Other TD,All Touchdown Scored,2-Point Conversions Made,Two-Point Conversions Attempted,Defensive Two-Point Conversions,Extra Points Made,Extra Points Allowed,Field Goals Made,Field Goals Attempted,Safeties Scored by Player/Team,Total Points Scored by all Means,Poins per Game,Year
-0,7,Browns,Dustin Hopkins,33,K,15,0,0,0,0,0,0,0,0,0,0,0,0,24,26,33,36,,123,8.2,2023
-1,34,Browns,Jerome Ford,24,RB,17,12,4,5,0,0,0,0,0,9,1,0,0,0,0,0,0,,56,3.3,2023
-2,27,Browns,Kareem Hunt,28,RB,15,2,9,0,0,0,0,0,0,9,0,0,0,0,0,0,0,,54,3.6,2023
-3,85,Browns,David Njoku,27,TE,16,16,0,6,0,0,0,0,0,6,0,0,0,0,0,0,0,,36,2.3,2023
-4,2,Browns,Amari Cooper,29,WR,15,15,0,5,0,0,0,0,0,5,1,0,0,0,0,0,0,,32,2.1,2023
-5,18,Browns,David Bell,23,WR,15,3,0,3,0,0,0,0,0,3,0,0,0,0,0,0,0,,18,1.2,2023
-6,88,Browns,Harrison Bryant,25,TE,17,9,0,3,0,0,0,0,0,3,0,0,0,0,0,0,0,,18,1.1,2023
-7,8,Browns,Elijah Moore,23,WR,17,12,0,2,0,0,0,0,0,2,0,0,0,0,0,0,0,,12,0.7,2023
-8,4,Browns,Deshaun Watson,28,QB,6,6,1,0,0,0,0,0,0,1,3,0,0,0,0,0,0,,12,2.0,2023
-9,36,Browns,Riley Patterson,24,K,2,0,0,0,0,0,0,0,0,0,0,0,0,6,7,1,1,,9,4.5,2023
-10,42,Browns,Tony Fields,24,LB,17,4,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,,6,0.4,2023
-11,33,Browns,Ronnie Hickman,22,S,10,4,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,,6,0.6,2023
-12,0,Browns,Greg Newsome II,23,CB,14,13,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,,6,0.4,2023
-13,20,Browns,Pierre Strong,25,RB,17,1,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,,6,0.4,2023
-14,17,Browns,Dorian Thompson-Robinson,24,QB,8,3,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,,2,0.3,2023
+,No.,Player,Age,Pos,Games Played,Games Started,Rush TD,Reception TD,Punt Return TD,Kick Return TD,Fumble Return TD,Interception TD,Other TD,All Touchdown Scored,2-Point Conversions Made,Two-Point Conversions Attempted,Defensive Two-Point Conversions,Extra Points Made,Extra Points Allowed,Field Goals Made,Field Goals Attempted,Safeties Scored by Player/Team,Total Points Scored by all Means,Poins per Game,Team,Year
+7,7,Dustin Hopkins,33,K,15,0,0,0,0,0,0,0,0,0,0,0,0,24,26,33,36,0,123,8.2,Browns,2023
+34,34,Jerome Ford,24,RB,17,12,4,5,0,0,0,0,0,9,1,0,0,0,0,0,0,0,56,3.3,Browns,2023
+27,27,Kareem Hunt,28,RB,15,2,9,0,0,0,0,0,0,9,0,0,0,0,0,0,0,0,54,3.6,Browns,2023
+85,85,David Njoku,27,TE,16,16,0,6,0,0,0,0,0,6,0,0,0,0,0,0,0,0,36,2.3,Browns,2023
+2,2,Amari Cooper,29,WR,15,15,0,5,0,0,0,0,0,5,1,0,0,0,0,0,0,0,32,2.1,Browns,2023
+18,18,David Bell,23,WR,15,3,0,3,0,0,0,0,0,3,0,0,0,0,0,0,0,0,18,1.2,Browns,2023
+88,88,Harrison Bryant,25,TE,17,9,0,3,0,0,0,0,0,3,0,0,0,0,0,0,0,0,18,1.1,Browns,2023
+8,8,Elijah Moore,23,WR,17,12,0,2,0,0,0,0,0,2,0,0,0,0,0,0,0,0,12,0.7,Browns,2023
+4,4,Deshaun Watson,28,QB,6,6,1,0,0,0,0,0,0,1,3,0,0,0,0,0,0,0,12,2.0,Browns,2023
+36,36,Riley Patterson,24,K,2,0,0,0,0,0,0,0,0,0,0,0,0,6,7,1,1,0,9,4.5,Browns,2023
+42,42,Tony Fields,24,LB,17,4,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,6,0.4,Browns,2023
+33,33,Ronnie Hickman,22,S,10,4,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,6,0.6,Browns,2023
+0,0,Greg Newsome II,23,CB,14,13,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,6,0.4,Browns,2023
+20,20,Pierre Strong,25,RB,17,1,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,6,0.4,Browns,2023
+17,17,Dorian Thompson-Robinson,24,QB,8,3,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,2,0.3,Browns,2023

@@ -1,59 +1,70 @@
-Player,No.,Team,Age,Pos,G,GS,Wt,Ht,College/Univ,BirthDate,Yrs,AV,Drafted (tm/rnd/yr)
-Brian Allen,55.0,Rams,28.0,OL,1,0.0,303.0,6-2,Michigan St.,10/11/1995,5,,Los Angeles Rams / 4th / 111th pick / 2018
-Davis Allen,87.0,Rams,22.0,TE,7,0.0,245.0,,Clemson,2/3/2001,Rook,,Los Angeles Rams / 5th / 175th pick / 2023
-Tremayne Anchrum,72.0,Rams,25.0,G,9,0.0,314.0,6-2,Clemson,6/24/1998,3,,Los Angeles Rams / 7th / 250th pick / 2020
-Tutu Atwell,5.0,Rams,24.0,WR,9,9.0,165.0,5-9,Louisville,10/7/1999,2,,Los Angeles Rams / 2nd / 57th pick / 2021
-Steve Avila,73.0,Rams,24.0,G,9,9.0,332.0,6-3,TCU,10/16/1999,Rook,,Los Angeles Rams / 2nd / 36th pick / 2023
-Bobby Brown,95.0,Rams,23.0,NT,5,5.0,324.0,6-4,Texas A&M,8/7/2000,2,,Los Angeles Rams / 4th / 117th pick / 2021
-Earnest Brown IV,90.0,Rams,24.0,DE,4,0.0,270.0,6-5,Northwestern,1/8/1999,1,,Los Angeles Rams / 5th / 174th pick / 2021
-Aaron Donald,99.0,Rams,32.0,DT,9,9.0,280.0,6-1,Pittsburgh,5/23/1991,9,,St. Louis Rams / 1st / 13th pick / 2014
-Kevin Dotson,69.0,Rams,27.0,OL,6,6.0,321.0,6-4,Louisiana,9/18/1996,3,,Pittsburgh Steelers / 4th / 135th pick / 2020
-Cobie Durant,14.0,Rams,25.0,DB,9,6.0,180.0,5-11,South Carolina St.,2/9/1998,1,,Los Angeles Rams / 4th / 142nd pick / 2022
-Ethan Evans,42.0,Rams,22.0,P,9,0.0,231.0,6-3,Wingate,7/19/2001,Rook,,Los Angeles Rams / 7th / 223rd pick / 2023
-Zach Evans,21.0,Rams,22.0,RB,4,0.0,202.0,5-11,"TCU,Mississippi",5/30/2001,Rook,,Los Angeles Rams / 6th / 215th pick / 2023
-Royce Freeman,24.0,Rams,27.0,RB,6,0.0,238.0,6-0,Oregon,2/24/1996,5,,Denver Broncos / 3rd / 71st pick / 2018
-Jordan Fuller,4.0,Rams,25.0,DB,9,9.0,203.0,6-2,Ohio St.,3/4/1998,3,,Los Angeles Rams / 6th / 199th pick / 2020
-Nick Hampton,31.0,Rams,23.0,OLB,5,0.0,235.0,,Appalachian St.,4/5/2000,Rook,,Los Angeles Rams / 5th / 161st pick / 2023
-Rob Havenstein,79.0,Rams,31.0,T,7,7.0,330.0,6-8,Wisconsin,5/13/1992,8,,St. Louis Rams / 2nd / 57th pick / 2015
-Lucas Havrisik,8.0,Rams,24.0,K,2,0.0,,6-2,Arizona,9/29/1999,Rook,,
-Darrell Henderson,27.0,Rams,26.0,RB,3,3.0,208.0,5-8,Memphis,8/19/1997,4,,Los Angeles Rams / 3rd / 70th pick / 2019
-Tyler Higbee,89.0,Rams,30.0,TE,9,9.0,255.0,6-6,Western Kentucky,1/1/1993,7,,Los Angeles Rams / 4th / 110th pick / 2016
-Michael Hoecht,97.0,Rams,26.0,OLB,9,9.0,310.0,6-4,Brown,10/5/1997,2,,
-Brycen Hopkins,88.0,Rams,26.0,TE,9,0.0,245.0,6-4,Purdue,3/27/1997,3,,Los Angeles Rams / 4th / 136th pick / 2020
-Jake Hummel,35.0,Rams,24.0,LB,9,0.0,235.0,6-1,Iowa St.,1/4/1999,1,,
-Alaric Jackson,77.0,Rams,25.0,T,8,8.0,285.0,6-7,Iowa,7/14/1998,2,,
-Desjuan Johnson,94.0,Rams,24.0,DE,5,0.0,252.0,6-3,Toledo,9/3/1999,Rook,,Los Angeles Rams / 7th / 259th pick / 2023
-John Johnson,43.0,Rams,28.0,DB,9,1.0,209.0,6-0,Boston Col.,12/19/1995,6,,Los Angeles Rams / 3rd / 91st pick / 2017
-Ernest Jones,53.0,Rams,24.0,LB,8,8.0,230.0,6-2,South Carolina,11/22/1999,2,,Los Angeles Rams / 3rd / 103rd pick / 2021
-Derion Kendrick,1.0,Rams,23.0,DB,9,7.0,190.0,6-0,"Clemson,Georgia",8/24/2000,1,,Los Angeles Rams / 6th / 212th pick / 2022
-Cooper Kupp,10.0,Rams,30.0,WR,5,5.0,208.0,6-2,Eastern Washington,6/15/1993,6,,Los Angeles Rams / 3rd / 69th pick / 2017
-Quentin Lake,37.0,Rams,24.0,DB,9,1.0,201.0,6-1,UCLA,1/29/1999,1,,Los Angeles Rams / 6th / 211th pick / 2022
-Hunter Long,84.0,Rams,25.0,TE,0,0.0,253.0,6-5,Boston Col.,8/19/1998,2,,Miami Dolphins / 3rd / 81st pick / 2021
-Ochaun Mathis,32.0,Rams,24.0,OLB,5,0.0,260.0,,"TCU,Nebraska",1/8/1999,Rook,,Los Angeles Rams / 6th / 189th pick / 2023
-Warren McClendon,71.0,Rams,22.0,T,5,0.0,300.0,,Georgia,4/11/2001,Rook,,Los Angeles Rams / 5th / 174th pick / 2023
-Larrell Murchison,52.0,Rams,26.0,DT,7,1.0,297.0,6-2,North Carolina St.,4/24/1997,3,,Tennessee Titans / 5th / 174th pick / 2020
-Puka Nacua,17.0,Rams,22.0,WR,9,9.0,205.0,6-2,"Washington,BYU",5/29/2001,Rook,,Los Angeles Rams / 5th / 177th pick / 2023
-Joseph Noteboom,70.0,Rams,28.0,T,7,6.0,321.0,6-5,TCU,6/19/1995,5,,Los Angeles Rams / 3rd / 89th pick / 2018
-Troy Reeder,59.0,Rams,29.0,LB,9,1.0,245.0,6-3,"Penn St.,Delaware",9/13/1994,4,,
-Demarcus Robinson,15.0,Rams,29.0,WR,8,0.0,203.0,6-1,Florida,9/21/1994,7,,Kansas City Chiefs / 4th / 126th pick / 2016
-Christian Rozeboom,56.0,Rams,26.0,LB,9,4.0,230.0,6-2,South Dakota St.,1/30/1997,2,,
-Duke Shelley,26.0,Rams,27.0,DB,9,0.0,183.0,5-8,Kansas St.,10/8/1996,4,,Chicago Bears / 6th / 205th pick / 2019
-Coleman Shelton,65.0,Rams,28.0,G,9,9.0,299.0,6-4,Washington,7/28/1995,4,,
-Ben Skowronek,18.0,Rams,26.0,WR,9,0.0,224.0,6-3,"Northwestern,Notre Dame",6/27/1997,2,,Los Angeles Rams / 7th / 249th pick / 2021
-Matthew Stafford,9.0,Rams,35.0,QB,8,8.0,220.0,6-3,Georgia,2/7/1988,14,,Detroit Lions / 1st / 1st pick / 2009
-Keir Thomas,96.0,Rams,25.0,OLB,0,0.0,275.0,6-2,"South Carolina,Florida St.",1/25/1998,1,,
-Zachary Thomas,57.0,Rams,25.0,OL,2,0.0,300.0,6-5,San Diego St.,5/26/1998,1,,Chicago Bears / 6th / 186th pick / 2022
-Tre'Vius Tomlinson,6.0,Rams,22.0,DB,9,0.0,180.0,,TCU,1/10/2001,Rook,,Los Angeles Rams / 6th / 182nd pick / 2023
-Austin Trammell,81.0,Rams,25.0,WR,8,0.0,185.0,5-10,Rice,7/4/1998,2,,
-Kobie Turner,91.0,Rams,24.0,NT,9,4.0,288.0,6-2,"Richmond,Wake Forest",4/26/1999,Rook,,Los Angeles Rams / 3rd / 89th pick / 2023
-Alex Ward,47.0,Rams,24.0,LS,9,0.0,240.0,,Central Florida,4/21/1999,Rook,,
-Carson Wentz,11.0,Rams,31.0,QB,0,0.0,237.0,6-5,North Dakota St.,12/30/1992,7,,Philadelphia Eagles / 1st / 2nd pick / 2016
-Jonah Williams,92.0,Rams,28.0,DE,9,8.0,275.0,6-5,Weber St.,8/17/1995,2,,
-Ahkello Witherspoon,44.0,Rams,28.0,DB,9,9.0,195.0,6-2,Colorado,3/21/1995,6,,San Francisco 49ers / 3rd / 66th pick / 2017
-Russ Yeast,2.0,Rams,24.0,DB,9,9.0,195.0,5-10,"Louisville,Kansas St.",5/8/1999,1,,Los Angeles Rams / 7th / 253rd pick / 2022
-Byron Young,0.0,Rams,25.0,OLB,9,8.0,250.0,6-2,"Georgia Military,Tennessee",3/13/1998,Rook,,Los Angeles Rams / 3rd / 77th pick / 2023
-Stetson Bennett (NON),13.0,Rams,26.0,QB,0,0.0,190.0,,"Jones County JC,Georgia",10/28/1997,Rook,,Los Angeles Rams / 4th / 128th pick / 2023
-Ronnie Rivers (IR),20.0,Rams,24.0,RB,6,0.0,195.0,,Fresno St.,1/31/1999,1,,
-Jason Taylor (IR),25.0,Rams,24.0,DB,1,0.0,204.0,,Oklahoma St.,12/30/1999,Rook,,Los Angeles Rams / 7th / 234th pick / 2023
-Kyren Williams (IR),23.0,Rams,23.0,RB,6,5.0,194.0,5-9,Notre Dame,8/26/2000,1,,Los Angeles Rams / 5th / 164th pick / 2022
-Team Total,,Rams,25.7,,9,,242.2,6-1.8,,,2.6,,
+,No.,Player,BirthDate,Age,Height,Weight,College/University,Position,Games_Played_in_Season,Games_Started_in_Season,NFL_Years,Player_Value,Team,Year
+0,3.0,Cam Akers,6/22/1999,24.0,5-10,217.0,Florida St.,RB,1,1.0,3.0,0.0,Rams,2023
+1,55.0,Brian Allen,10/11/1995,28.0,6-2,303.0,Michigan St.,C,5,0.0,5.0,0.0,Rams,2023
+2,87.0,Davis Allen,2/3/2001,22.0,,245.0,Clemson,TE,15,1.0,0.0,1.0,Rams,2023
+3,72.0,Tremayne Anchrum,6/24/1998,25.0,6-2,314.0,Clemson,G,17,0.0,3.0,1.0,Rams,2023
+4,5.0,Tutu Atwell,10/7/1999,24.0,5-9,165.0,Louisville,WR,16,14.0,2.0,5.0,Rams,2023
+5,73.0,Steve Avila,10/16/1999,24.0,6-3,332.0,TCU,G,17,17.0,0.0,7.0,Rams,2023
+6,95.0,Bobby Brown,8/7/2000,23.0,6-4,324.0,Texas A&M,NT,13,13.0,2.0,5.0,Rams,2023
+7,90.0,Earnest Brown IV,1/8/1999,24.0,6-5,270.0,Northwestern,DE,7,0.0,1.0,0.0,Rams,2023
+8,93.0,Marquise Copeland,5/9/1997,26.0,6-2,287.0,Cincinnati,DT,1,0.0,3.0,0.0,Rams,2023
+9,99.0,Aaron Donald,5/23/1991,32.0,6-1,280.0,Pittsburgh,DT,16,16.0,9.0,15.0,Rams,2023
+10,69.0,Kevin Dotson,9/18/1996,27.0,6-4,321.0,Louisiana,OL,14,14.0,3.0,6.0,Rams,2023
+11,14.0,Cobie Durant,2/9/1998,25.0,5-11,180.0,South Carolina St.,DB,16,9.0,1.0,3.0,Rams,2023
+12,98.0,Cory Durden,1/26/1999,24.0,,292.0,"Florida St.,North Carolina St.",DT,4,0.0,0.0,0.0,Rams,2023
+13,42.0,Ethan Evans,7/19/2001,22.0,6-3,231.0,Wingate,P,17,0.0,0.0,2.0,Rams,2023
+14,21.0,Zach Evans,5/30/2001,22.0,5-11,202.0,"TCU,Mississippi",RB,10,0.0,0.0,0.0,Rams,2023
+15,54.0,Olakunle Fatukasi,6/11/1999,24.0,6-2,240.0,Rutgers,LB,1,0.0,1.0,0.0,Rams,2023
+16,24.0,Royce Freeman,2/24/1996,27.0,6-0,238.0,Oregon,RB,14,0.0,5.0,2.0,Rams,2023
+17,4.0,Jordan Fuller,3/4/1998,25.0,6-2,203.0,Ohio St.,DB,17,17.0,3.0,6.0,Rams,2023
+18,33.0,Myles Gaskin,2/15/1997,26.0,5-10,199.0,Washington,RB,1,0.0,4.0,0.0,Rams,2023
+19,31.0,Nick Hampton,4/5/2000,23.0,,235.0,Appalachian St.,OLB,10,0.0,0.0,1.0,Rams,2023
+20,79.0,Rob Havenstein,5/13/1992,31.0,6-8,330.0,Wisconsin,T,14,14.0,8.0,7.0,Rams,2023
+21,8.0,Lucas Havrisik,9/29/1999,24.0,6-2,,Arizona,K,9,0.0,0.0,0.0,Rams,2023
+22,27.0,Darrell Henderson,8/19/1997,26.0,5-8,208.0,Memphis,RB,4,4.0,4.0,2.0,Rams,2023
+23,89.0,Tyler Higbee,1/1/1993,30.0,6-6,255.0,Western Kentucky,TE,15,15.0,7.0,5.0,Rams,2023
+24,97.0,Michael Hoecht,10/5/1997,26.0,6-4,310.0,Brown,OLB,17,17.0,2.0,7.0,Rams,2023
+25,88.0,Brycen Hopkins,3/27/1997,26.0,6-4,245.0,Purdue,TE,15,0.0,3.0,1.0,Rams,2023
+26,35.0,Jake Hummel,1/4/1999,24.0,6-1,235.0,Iowa St.,LB,17,0.0,1.0,1.0,Rams,2023
+27,77.0,Alaric Jackson,7/14/1998,25.0,6-7,285.0,Iowa,T,15,15.0,2.0,8.0,Rams,2023
+28,12.0,Van Jefferson,7/26/1996,27.0,6-1,200.0,"Mississippi,Florida",WR,5,4.0,3.0,1.0,Rams,2023
+29,94.0,Desjuan Johnson,9/3/1999,24.0,6-3,252.0,Toledo,DE,11,0.0,0.0,1.0,Rams,2023
+30,43.0,John Johnson,12/19/1995,28.0,6-0,209.0,Boston Col.,DB,17,8.0,6.0,3.0,Rams,2023
+31,16.0,Tyler Johnson,8/25/1998,25.0,6-1,205.0,Minnesota,WR,1,0.0,3.0,0.0,Rams,2023
+32,38.0,Shaun Jolly,10/17/1998,25.0,5-9,180.0,Appalachian St.,DB,4,0.0,1.0,0.0,Rams,2023
+33,53.0,Ernest Jones,11/22/1999,24.0,6-2,230.0,South Carolina,LB,15,15.0,2.0,6.0,Rams,2023
+34,1.0,Derion Kendrick,8/24/2000,23.0,6-0,190.0,"Clemson,Georgia",DB,17,12.0,1.0,4.0,Rams,2023
+35,10.0,Cooper Kupp,6/15/1993,30.0,6-2,208.0,Eastern Washington,WR,12,12.0,6.0,7.0,Rams,2023
+36,37.0,Quentin Lake,1/29/1999,24.0,6-1,201.0,UCLA,DB,14,4.0,1.0,2.0,Rams,2023
+37,84.0,Hunter Long,8/19/1998,25.0,6-5,253.0,Boston Col.,TE,4,1.0,2.0,0.0,Rams,2023
+38,8.0,Brett Maher,11/21/1989,34.0,6-0,180.0,Nebraska,K,8,0.0,5.0,0.0,Rams,2023
+39,32.0,Ochaun Mathis,1/9/1999,24.0,,260.0,"TCU,Nebraska",OLB,8,0.0,0.0,1.0,Rams,2023
+40,71.0,Warren McClendon,4/11/2001,22.0,,300.0,Georgia,T,6,0.0,0.0,0.0,Rams,2023
+41,52.0,Larrell Murchison,4/24/1997,26.0,6-2,297.0,North Carolina St.,DT,15,3.0,3.0,2.0,Rams,2023
+42,17.0,Puka Nacua,5/29/2001,22.0,6-2,205.0,"Washington,BYU",WR,17,17.0,0.0,14.0,Rams,2023
+43,70.0,Joseph Noteboom,6/19/1995,28.0,6-5,321.0,TCU,T,14,8.0,5.0,5.0,Rams,2023
+44,59.0,Troy Reeder,9/13/1994,29.0,6-3,245.0,"Penn St.,Delaware",LB,17,6.0,4.0,3.0,Rams,2023
+45,20.0,Ronnie Rivers,1/31/1999,24.0,,195.0,Fresno St.,RB,9,1.0,1.0,1.0,Rams,2023
+46,15.0,Demarcus Robinson,9/21/1994,29.0,6-1,203.0,Florida,WR,16,4.0,7.0,4.0,Rams,2023
+47,56.0,Christian Rozeboom,1/30/1997,26.0,6-2,230.0,South Dakota St.,LB,17,5.0,2.0,3.0,Rams,2023
+48,11.0,Brett Rypien,7/9/1996,27.0,6-2,202.0,Boise St.,QB,2,1.0,3.0,1.0,Rams,2023
+49,26.0,Duke Shelley,10/8/1996,27.0,5-8,183.0,Kansas St.,DB,11,0.0,4.0,1.0,Rams,2023
+50,65.0,Coleman Shelton,7/28/1995,28.0,6-4,299.0,Washington,C,17,17.0,4.0,7.0,Rams,2023
+51,18.0,Ben Skowronek,6/27/1997,26.0,6-3,224.0,"Northwestern,Notre Dame",WR,17,0.0,2.0,1.0,Rams,2023
+52,9.0,Matthew Stafford,2/7/1988,35.0,6-3,220.0,Georgia,QB,15,15.0,14.0,13.0,Rams,2023
+53,25.0,Jason Taylor,12/30/1999,24.0,,204.0,Oklahoma St.,DB,8,0.0,0.0,0.0,Rams,2023
+54,96.0,Keir Thomas,1/25/1998,25.0,6-2,275.0,"South Carolina,Florida St.",OLB,8,0.0,1.0,1.0,Rams,2023
+55,57.0,Zachary Thomas,5/26/1998,25.0,6-5,300.0,San Diego St.,OL,2,0.0,1.0,0.0,Rams,2023
+56,46.0,Carson Tinker,11/15/1989,34.0,6-0,233.0,Alabama,LS,4,0.0,10.0,0.0,Rams,2023
+57,6.0,Tre'Vius Tomlinson,1/10/2000,23.0,,180.0,TCU,DB,15,0.0,0.0,1.0,Rams,2023
+58,81.0,Austin Trammell,7/4/1998,25.0,5-10,185.0,Rice,WR,16,0.0,2.0,0.0,Rams,2023
+59,91.0,Kobie Turner,4/26/1999,24.0,6-2,288.0,"Richmond,Wake Forest",NT,17,4.0,0.0,3.0,Rams,2023
+60,51.0,Zach VanValkenburg,2/17/1998,25.0,6-4,263.0,"Hillsdale,Iowa",OLB,9,0.0,0.0,1.0,Rams,2023
+61,47.0,Alex Ward,4/21/1999,24.0,,240.0,Central Florida,LS,13,0.0,0.0,1.0,Rams,2023
+62,11.0,Carson Wentz,12/30/1992,31.0,6-5,237.0,North Dakota St.,QB,2,1.0,7.0,1.0,Rams,2023
+63,92.0,Jonah Williams,8/17/1995,28.0,6-5,275.0,Weber St.,DE,17,16.0,2.0,6.0,Rams,2023
+64,23.0,Kyren Williams,8/26/2000,23.0,5-9,194.0,Notre Dame,RB,12,11.0,1.0,10.0,Rams,2023
+65,44.0,Ahkello Witherspoon,3/21/1995,28.0,6-2,195.0,Colorado,DB,17,17.0,6.0,6.0,Rams,2023
+66,2.0,Russ Yeast,5/8/1999,24.0,5-10,195.0,"Louisville,Kansas St.",DB,17,9.0,1.0,3.0,Rams,2023
+67,0.0,Byron Young,3/13/1998,25.0,6-2,250.0,"Georgia Military,Tennessee",OLB,17,16.0,0.0,7.0,Rams,2023
+68,,Team Total,,25.9,6-1.8,241.1,,,17,,2.7,,Rams,2023

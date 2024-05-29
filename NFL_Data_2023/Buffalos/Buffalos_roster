@@ -1,67 +1,64 @@
-Player,No.,Team,Age,Pos,G,GS,Wt,Ht,College/Univ,BirthDate,Yrs,AV,Drafted (tm/rnd/yr)
-Josh Allen,17.0,Buffalos,27.0,QB,10,10.0,237.0,6-5,"Reedley,Wyoming",5/21/1996,5,,Buffalo Bills / 1st / 7th pick / 2018
-Kyle Allen,9.0,Buffalos,27.0,QB,4,0.0,210.0,6-3,"Texas A&M,Houston",3/8/1996,5,,
-Alec Anderson,70.0,Buffalos,24.0,T,0,0.0,305.0,,UCLA,10/3/1999,Rook,,
-Tyler Bass,2.0,Buffalos,26.0,K,10,0.0,183.0,5-10,Georgia Southern,2/14/1997,3,,Buffalo Bills / 6th / 188th pick / 2020
-Ryan Bates,71.0,Buffalos,26.0,OL,10,0.0,302.0,6-4,Penn St.,2/14/1997,4,,
-Christian Benford,47.0,Buffalos,23.0,CB,8,8.0,205.0,6-1,Villanova,9/21/2000,1,,Buffalo Bills / 6th / 185th pick / 2022
-Terrel Bernard,43.0,Buffalos,24.0,LB,10,10.0,224.0,6-1,Baylor,5/7/1999,1,,Buffalo Bills / 3rd / 89th pick / 2022
-Spencer Brown,79.0,Buffalos,25.0,T,10,10.0,311.0,6-6,Northern Iowa,2/28/1998,2,,Buffalo Bills / 3rd / 93rd pick / 2021
-James Cook,4.0,Buffalos,24.0,RB,10,7.0,190.0,5-11,Georgia,9/25/1999,1,,Buffalo Bills / 2nd / 63rd pick / 2022
-Gabriel Davis,13.0,Buffalos,24.0,WR,10,10.0,225.0,6-2,Central Florida,4/1/1999,3,,Buffalo Bills / 4th / 128th pick / 2020
-Dion Dawkins,73.0,Buffalos,29.0,T,10,10.0,320.0,6-5,Temple,4/26/1994,6,,Buffalo Bills / 2nd / 63rd pick / 2017
-Stefon Diggs,14.0,Buffalos,30.0,WR,10,10.0,191.0,6-0,Maryland,11/29/1993,8,,Minnesota Vikings / 5th / 146th pick / 2015
-Tyrel Dodson,25.0,Buffalos,25.0,LB,10,3.0,237.0,6-0,Texas A&M,6/25/1998,3,,
-Rasul Douglas,31.0,Buffalos,29.0,CB,2,1.0,209.0,6-2,West Virginia,8/29/1994,6,,Philadelphia Eagles / 3rd / 99th pick / 2017
-David Edwards,76.0,Buffalos,26.0,G,10,0.0,308.0,6-6,Wisconsin,3/20/1997,4,,Los Angeles Rams / 5th / 169th pick / 2019
-A.J. Epenesa,57.0,Buffalos,25.0,DE,10,1.0,260.0,6-6,Iowa,9/15/1998,3,,Buffalo Bills / 2nd / 54th pick / 2020
-Reid Ferguson,69.0,Buffalos,29.0,LS,10,0.0,235.0,6-2,LSU,3/24/1994,6,,
-Leonard Floyd,56.0,Buffalos,31.0,DE,10,10.0,240.0,6-3,Georgia,9/8/1992,7,,Chicago Bears / 1st / 9th pick / 2016
-Poona Ford,98.0,Buffalos,28.0,DT,5,0.0,310.0,5-11,Texas,11/19/1995,5,,
-Reggie Gilliam,41.0,Buffalos,26.0,FB,10,0.0,244.0,6-0,Toledo,8/20/1997,3,,
-Damar Hamlin,3.0,Buffalos,25.0,S,2,0.0,200.0,6-0,Pittsburgh,3/24/1998,2,,Buffalo Bills / 6th / 212th pick / 2021
-Deonte Harty,11.0,Buffalos,26.0,WR,10,1.0,170.0,5-6,Assumption,12/4/1997,4,,
-Micah Hyde,23.0,Buffalos,33.0,S,9,9.0,197.0,6-0,Iowa,12/31/1990,10,,Green Bay Packers / 5th / 159th pick / 2013
-Germain Ifedi,68.0,Buffalos,29.0,G,0,0.0,325.0,6-5,Texas A&M,6/2/1994,7,,Seattle Seahawks / 1st / 31st pick / 2016
-Dane Jackson,30.0,Buffalos,27.0,CB,9,5.0,180.0,5-11,Pittsburgh,11/29/1996,3,,Buffalo Bills / 7th / 239th pick / 2020
-Taron Johnson,7.0,Buffalos,27.0,CB,10,10.0,192.0,5-11,Weber St.,7/27/1996,5,,Buffalo Bills / 4th / 121st pick / 2018
-Ty Johnson,26.0,Buffalos,26.0,RB,4,0.0,210.0,5-10,Maryland,9/17/1997,4,,Detroit Lions / 6th / 186th pick / 2019
-Kingsley Jonathan,59.0,Buffalos,25.0,DE,8,0.0,260.0,6-4,Syracuse,4/28/1998,1,,
-Linval Joseph,93.0,Buffalos,35.0,DT,2,0.0,329.0,6-4,East Carolina,10/10/1988,13,,New York Giants / 2nd / 46th pick / 2010
-Dalton Kincaid,86.0,Buffalos,24.0,TE,9,7.0,240.0,,"San Diego,Utah",10/18/1999,Rook,,Buffalo Bills / 1st / 25th pick / 2023
-A.J. Klein,52.0,Buffalos,32.0,LB,2,0.0,240.0,6-1,Iowa St.,7/30/1991,10,,Carolina Panthers / 5th / 148th pick / 2013
-Shaq Lawson,90.0,Buffalos,29.0,DE,9,0.0,265.0,6-3,Clemson,6/17/1994,7,,Buffalo Bills / 1st / 19th pick / 2016
-Cameron Lewis,39.0,Buffalos,26.0,CB,10,0.0,183.0,5-9,Buffalo,4/13/1997,3,,
-Sam Martin,8.0,Buffalos,33.0,P,10,0.0,211.0,6-1,Appalachian St.,2/27/1990,10,,Detroit Lions / 5th / 165th pick / 2013
-Tyler Matakevich,44.0,Buffalos,31.0,LB,10,0.0,235.0,6-1,Temple,12/22/1992,7,,Pittsburgh Steelers / 7th / 246th pick / 2016
-Connor McGovern,66.0,Buffalos,26.0,G,10,10.0,318.0,6-5,Penn St.,11/3/1997,3,,Dallas Cowboys / 3rd / 90th pick / 2019
-Von Miller,40.0,Buffalos,34.0,LB,6,0.0,250.0,6-3,Texas A&M,3/26/1989,12,,Denver Broncos / 1st / 2nd pick / 2011
-Quintin Morris,85.0,Buffalos,24.0,TE,8,0.0,252.0,6-2,Bowling Green,1/21/1999,1,,
-Mitch Morse,60.0,Buffalos,31.0,C,10,10.0,305.0,6-6,Missouri,4/21/1992,8,,Kansas City Chiefs / 2nd / 49th pick / 2015
-Latavius Murray,28.0,Buffalos,33.0,RB,10,3.0,230.0,6-3,Central Florida,1/18/1990,9,,Oakland Raiders / 6th / 181st pick / 2013
-Siran Neal,33.0,Buffalos,29.0,CB,10,0.0,206.0,6-0,Jacksonville St.,8/4/1994,5,,Buffalo Bills / 5th / 154th pick / 2018
-Josh Norman,29.0,Buffalos,36.0,CB,3,0.0,195.0,6-0,Coastal Carolina,12/15/1987,11,,Carolina Panthers / 5th / 143rd pick / 2012
-Ed Oliver,91.0,Buffalos,26.0,DT,9,9.0,287.0,6-1,Houston,12/12/1997,4,,Buffalo Bills / 1st / 9th pick / 2019
-Jordan Phillips,97.0,Buffalos,31.0,DT,10,5.0,341.0,6-6,Oklahoma,9/21/1992,8,,Miami Dolphins / 2nd / 52nd pick / 2015
-Jordan Poyer,21.0,Buffalos,32.0,S,9,9.0,191.0,6-0,Oregon St.,4/25/1991,10,,Philadelphia Eagles / 7th / 218th pick / 2013
-Taylor Rapp,20.0,Buffalos,26.0,S,10,2.0,208.0,6-0,Washington,12/22/1997,4,,Los Angeles Rams / 2nd / 61st pick / 2019
-Gregory Rousseau,50.0,Buffalos,23.0,DE,9,9.0,266.0,6-6,Miami (FL),4/5/2000,2,,Buffalo Bills / 1st / 30th pick / 2021
-Tim Settle,99.0,Buffalos,26.0,DT,10,1.0,313.0,6-3,Virginia Tech,7/11/1997,5,,Washington Redskins / 5th / 163rd pick / 2018
-Khalil Shakir,10.0,Buffalos,23.0,WR,10,4.0,190.0,6-0,Boise St.,2/3/2000,1,,Buffalo Bills / 5th / 148th pick / 2022
-Trent Sherfield,16.0,Buffalos,27.0,WR,10,1.0,205.0,6-1,Vanderbilt,2/26/1996,5,,
-Baylon Spector,54.0,Buffalos,25.0,LB,2,0.0,233.0,6-0,Clemson,10/20/1998,1,,Buffalo Bills / 7th / 231st pick / 2022
-O'Cyrus Torrence,64.0,Buffalos,23.0,G,10,10.0,347.0,,"Louisiana,Florida",1/20/2000,Rook,,Buffalo Bills / 2nd / 59th pick / 2023
-Ryan Van Demark,74.0,Buffalos,25.0,T,7,0.0,307.0,6-6,Connecticut,3/22/1998,Rook,,
-Dorian Williams,42.0,Buffalos,22.0,LB,10,2.0,230.0,,Tulane,6/28/2001,Rook,,Buffalo Bills / 3rd / 91st pick / 2023
-Nyheim Hines (NON),0.0,Buffalos,27.0,RB,0,0.0,196.0,5-9,North Carolina St.,11/12/1996,5,,Indianapolis Colts / 4th / 104th pick / 2018
-Kameron Cline (IR),96.0,Buffalos,25.0,DE,0,0.0,283.0,6-4,South Dakota,2/19/1998,3,,
-Zach Davidson (IR),84.0,Buffalos,25.0,TE,0,0.0,245.0,6-7,Central Missouri St.,7/15/1998,Rook,,Minnesota Vikings / 5th / 168th pick / 2021
-Tommy Doyle (IR),72.0,Buffalos,25.0,T,0,0.0,320.0,6-8,Miami (OH),5/6/1998,2,,Buffalo Bills / 5th / 161st pick / 2021
-Kaiir Elam (IR),24.0,Buffalos,22.0,CB,3,2.0,191.0,6-1,Florida,5/5/2001,1,,Buffalo Bills / 1st / 23rd pick / 2022
-Damien Harris (IR),22.0,Buffalos,26.0,RB,6,0.0,213.0,5-11,Alabama,2/11/1997,4,,New England Patriots / 3rd / 87th pick / 2019
-DaQuan Jones (IR),92.0,Buffalos,32.0,DT,5,5.0,320.0,6-4,Penn St.,12/27/1991,9,,Tennessee Titans / 4th / 112th pick / 2014
-Dawson Knox (IR),88.0,Buffalos,27.0,TE,7,7.0,254.0,6-4,Mississippi,11/14/1996,4,,Buffalo Bills / 3rd / 96th pick / 2019
-Matt Milano (IR),58.0,Buffalos,29.0,LB,5,5.0,223.0,6-0,Boston Col.,7/28/1994,6,,Buffalo Bills / 5th / 163rd pick / 2017
-Justin Shorter (IR),18.0,Buffalos,23.0,WR,0,0.0,223.0,,"Penn St.,Florida",4/17/2000,Rook,,Buffalo Bills / 5th / 150th pick / 2023
-Tre'Davious White (IR),27.0,Buffalos,28.0,CB,4,4.0,192.0,5-11,LSU,1/16/1995,6,,Buffalo Bills / 1st / 27th pick / 2017
-Team Total,,Buffalos,27.4,,10,,240.9,6-1.8,,,4.6,,
+,No.,Player,BirthDate,Age,Height,Weight,College/University,Position,Games_Played_in_Season,Games_Started_in_Season,NFL_Years,Player_Value,Team,Year
+0,17.0,Josh Allen,5/21/1996,27.0,6-5,237.0,"Reedley,Wyoming",QB,17,17.0,5.0,18.0,Buffalos,2023
+1,9.0,Kyle Allen,3/8/1996,27.0,6-3,210.0,"Texas A&M,Houston",QB,7,0.0,5.0,0.0,Buffalos,2023
+2,2.0,Tyler Bass,2/14/1997,26.0,5-10,183.0,Georgia Southern,K,17,0.0,3.0,3.0,Buffalos,2023
+3,71.0,Ryan Bates,2/14/1997,26.0,6-4,302.0,Penn St.,G,17,0.0,4.0,1.0,Buffalos,2023
+4,47.0,Christian Benford,9/21/2000,23.0,6-1,205.0,Villanova,CB,15,14.0,1.0,5.0,Buffalos,2023
+5,43.0,Terrel Bernard,5/7/1999,24.0,6-1,224.0,Baylor,LB,17,17.0,1.0,11.0,Buffalos,2023
+6,79.0,Spencer Brown,2/28/1998,25.0,6-6,311.0,Northern Iowa,T,17,17.0,2.0,10.0,Buffalos,2023
+7,4.0,James Cook,9/25/1999,24.0,5-11,190.0,Georgia,RB,17,13.0,1.0,13.0,Buffalos,2023
+8,13.0,Gabriel Davis,4/1/1999,24.0,6-2,225.0,Central Florida,WR,17,17.0,3.0,7.0,Buffalos,2023
+9,73.0,Dion Dawkins,4/26/1994,29.0,6-5,320.0,Temple,T,17,17.0,6.0,13.0,Buffalos,2023
+10,14.0,Stefon Diggs,11/29/1993,30.0,6-0,191.0,Maryland,WR,17,17.0,8.0,12.0,Buffalos,2023
+11,25.0,Tyrel Dodson,6/25/1998,25.0,6-0,237.0,Texas A&M,LB,17,10.0,3.0,6.0,Buffalos,2023
+12,31.0,Rasul Douglas,8/29/1995,28.0,6-2,209.0,West Virginia,CB,9,8.0,6.0,4.0,Buffalos,2023
+13,76.0,David Edwards,3/20/1997,26.0,6-6,308.0,Wisconsin,G,17,0.0,4.0,1.0,Buffalos,2023
+14,24.0,Kaiir Elam,5/5/2001,22.0,6-1,191.0,Florida,CB,3,2.0,1.0,1.0,Buffalos,2023
+15,57.0,A.J. Epenesa,9/15/1998,25.0,6-6,260.0,Iowa,DE,15,1.0,3.0,4.0,Buffalos,2023
+16,69.0,Reid Ferguson,3/24/1994,29.0,6-2,235.0,LSU,LS,17,0.0,6.0,1.0,Buffalos,2023
+17,56.0,Leonard Floyd,9/8/1992,31.0,6-3,240.0,Georgia,RDE,17,16.0,7.0,9.0,Buffalos,2023
+18,98.0,Poona Ford,11/19/1995,28.0,5-11,310.0,Texas,DT,8,0.0,5.0,1.0,Buffalos,2023
+19,5.0,Leonard Fournette,1/18/1995,28.0,6-0,228.0,LSU,RB,2,0.0,6.0,0.0,Buffalos,2023
+20,41.0,Reggie Gilliam,8/20/1997,26.0,6-0,244.0,Toledo,FB,17,0.0,3.0,0.0,Buffalos,2023
+21,3.0,Damar Hamlin,3/24/1998,25.0,6-0,200.0,Pittsburgh,S,5,0.0,2.0,0.0,Buffalos,2023
+22,22.0,Damien Harris,2/11/1997,26.0,5-11,213.0,Alabama,RB,6,0.0,4.0,1.0,Buffalos,2023
+23,11.0,Deonte Harty,12/4/1997,26.0,5-6,170.0,Assumption,WR,16,1.0,4.0,2.0,Buffalos,2023
+24,23.0,Micah Hyde,12/31/1990,33.0,6-0,197.0,Iowa,S,14,14.0,10.0,5.0,Buffalos,2023
+25,46.0,Ja'Marcus Ingram,9/2/1997,26.0,6-2,190.0,"Utah St.,Texas Tech,Buffalo",CB,3,0.0,1.0,0.0,Buffalos,2023
+26,87.0,Andy Isabella,11/18/1996,27.0,5-9,188.0,Massachusetts,WR,2,0.0,4.0,0.0,Buffalos,2023
+27,30.0,Dane Jackson,11/29/1996,27.0,5-11,180.0,Pittsburgh,CB,15,6.0,3.0,2.0,Buffalos,2023
+28,7.0,Taron Johnson,7/27/1996,27.0,5-11,192.0,Weber St.,CB,17,17.0,5.0,12.0,Buffalos,2023
+29,26.0,Ty Johnson,9/17/1997,26.0,5-10,210.0,Maryland,RB,10,0.0,4.0,2.0,Buffalos,2023
+30,59.0,Kingsley Jonathan,4/28/1998,25.0,6-4,260.0,Syracuse,DE,13,0.0,1.0,1.0,Buffalos,2023
+31,92.0,DaQuan Jones,12/17/1991,32.0,6-4,320.0,Penn St.,DT,7,7.0,9.0,4.0,Buffalos,2023
+32,93.0,Linval Joseph,10/10/1988,35.0,6-4,329.0,East Carolina,DT,7,0.0,13.0,1.0,Buffalos,2023
+33,86.0,Dalton Kincaid,10/18/1999,24.0,,240.0,"San Diego,Utah",TE,16,11.0,0.0,7.0,Buffalos,2023
+34,52.0,A.J. Klein,7/30/1991,32.0,6-1,240.0,Iowa St.,LB,2,0.0,10.0,0.0,Buffalos,2023
+35,88.0,Dawson Knox,11/14/1996,27.0,6-4,254.0,Mississippi,TE,12,11.0,4.0,2.0,Buffalos,2023
+36,90.0,Shaq Lawson,6/17/1994,29.0,6-3,265.0,Clemson,DE,16,1.0,7.0,2.0,Buffalos,2023
+37,39.0,Cameron Lewis,4/13/1997,26.0,5-9,183.0,Buffalo,CB,17,0.0,3.0,1.0,Buffalos,2023
+38,8.0,Sam Martin,2/27/1990,33.0,6-1,211.0,Appalachian St.,P,17,0.0,10.0,1.0,Buffalos,2023
+39,44.0,Tyler Matakevich,12/22/1992,31.0,6-1,235.0,Temple,LB,17,0.0,7.0,1.0,Buffalos,2023
+40,66.0,Connor McGovern,11/3/1997,26.0,6-5,318.0,Penn St.,G,17,17.0,3.0,8.0,Buffalos,2023
+41,58.0,Matt Milano,7/28/1994,29.0,6-0,223.0,Boston Col.,LB,5,5.0,6.0,3.0,Buffalos,2023
+42,40.0,Von Miller,3/26/1989,34.0,6-3,250.0,Texas A&M,LB,12,0.0,12.0,1.0,Buffalos,2023
+43,85.0,Quintin Morris,1/21/1999,24.0,6-2,252.0,Bowling Green,TE,15,0.0,1.0,0.0,Buffalos,2023
+44,60.0,Mitch Morse,4/21/1992,31.0,6-6,305.0,Missouri,C,17,17.0,8.0,8.0,Buffalos,2023
+45,28.0,Latavius Murray,1/18/1990,33.0,6-3,230.0,Central Florida,RB,16,4.0,9.0,3.0,Buffalos,2023
+46,33.0,Siran Neal,8/4/1994,29.0,6-0,206.0,Jacksonville St.,CB,17,0.0,5.0,1.0,Buffalos,2023
+47,29.0,Josh Norman,12/15/1987,36.0,6-0,195.0,Coastal Carolina,CB,4,0.0,11.0,0.0,Buffalos,2023
+48,91.0,Ed Oliver,12/12/1997,26.0,6-1,287.0,Houston,DT,16,16.0,4.0,9.0,Buffalos,2023
+49,97.0,Jordan Phillips,9/21/1992,31.0,6-6,341.0,Oklahoma,DT,14,9.0,8.0,5.0,Buffalos,2023
+50,21.0,Jordan Poyer,4/25/1991,32.0,6-0,191.0,Oregon St.,SS,16,16.0,10.0,5.0,Buffalos,2023
+51,20.0,Taylor Rapp,12/22/1997,26.0,6-0,208.0,Washington,S,16,4.0,4.0,2.0,Buffalos,2023
+52,50.0,Gregory Rousseau,4/5/2000,23.0,6-6,266.0,Miami (FL),DE,16,16.0,2.0,9.0,Buffalos,2023
+53,99.0,Tim Settle,7/11/1997,26.0,6-3,313.0,Virginia Tech,DT,17,2.0,5.0,2.0,Buffalos,2023
+54,10.0,Khalil Shakir,2/3/2000,23.0,6-0,190.0,Boise St.,WR,17,10.0,1.0,6.0,Buffalos,2023
+55,16.0,Trent Sherfield,2/25/1996,27.0,6-1,205.0,Vanderbilt,WR,17,1.0,5.0,1.0,Buffalos,2023
+56,54.0,Baylon Spector,10/20/1998,25.0,6-0,233.0,Clemson,LB,9,0.0,1.0,1.0,Buffalos,2023
+57,64.0,O'Cyrus Torrence,1/20/2000,23.0,,347.0,"Louisiana,Florida",G,17,17.0,0.0,8.0,Buffalos,2023
+58,74.0,Ryan Van Demark,3/22/1998,25.0,6-6,307.0,Connecticut,T,12,0.0,0.0,1.0,Buffalos,2023
+59,93.0,Kendal Vickers,5/23/1995,28.0,6-3,295.0,Tennessee,DE,2,0.0,3.0,0.0,Buffalos,2023
+60,27.0,Tre'Davious White,1/16/1995,28.0,5-11,192.0,LSU,CB,4,4.0,6.0,2.0,Buffalos,2023
+61,42.0,Dorian Williams,6/8/2001,22.0,,230.0,Tulane,LB,17,2.0,0.0,2.0,Buffalos,2023
+62,,Team Total,,27.4,6-1.7,240.7,,,17,,4.6,,Buffalos,2023

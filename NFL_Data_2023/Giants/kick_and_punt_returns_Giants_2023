@@ -1,8 +1,8 @@
-,No.,Team,Player,Age,Position,Games Played,Games Started,Punts Returned,Punts Return Yardage,Punts Returned for Touchdown,Longest Punt Return,Yards per Punt Return,Kickoff Returns,Yardage for Kickoffs Returned,Kickoffs Returned for a Touchdown,Longest Kickoff Return,Yards per Kickoff Return,All-purpose Yards,Year
-0,80,Giants,Gunner Olszewski,27,WR,10,0,23,273,1,94,11.9,0,0,0,0,,273,2023
-1,20,Giants,Eric Gray,24,RB,13,0,7,28,0,14,4.0,4,58,0,20,14.5,156,2023
-2,0,Giants,Parris Campbell,26,WR,12,3,0,0,0,0,,8,191,0,36,23.9,293,2023
-3,3,Giants,Sterling Shepard,30,WR,15,2,3,10,0,5,3.3,0,0,0,0,,73,2023
-4,83,Giants,Lawrence Cager,26,TE,11,0,0,0,0,0,,1,0,0,0,0.0,36,2023
-5,21,Giants,Bobby McCain,30,S,10,0,1,0,0,0,0.0,0,0,0,0,,0,2023
-6,44,Giants,Nick McCloud,25,CB,17,3,1,0,0,0,0.0,0,0,0,0,,1,2023
+,No.,Player,Age,Position,Games Played,Games Started,Punts Returned,Punts Return Yardage,Punts Returned for Touchdown,Longest Punt Return,Yards per Punt Return,Kickoff Returns,Yardage for Kickoffs Returned,Kickoffs Returned for a Touchdown,Longest Kickoff Return,Yards per Kickoff Return,All-purpose Yards,Team,Year
+80,80,Gunner Olszewski,27,WR,10,0,23,273,1,94,11.9,0,0,0,0,0.0,273,Giants,2023
+20,20,Eric Gray,24,RB,13,0,7,28,0,14,4.0,4,58,0,20,14.5,156,Giants,2023
+0,0,Parris Campbell,26,WR,12,3,0,0,0,0,0.0,8,191,0,36,23.9,293,Giants,2023
+3,3,Sterling Shepard,30,WR,15,2,3,10,0,5,3.3,0,0,0,0,0.0,73,Giants,2023
+83,83,Lawrence Cager,26,TE,11,0,0,0,0,0,0.0,1,0,0,0,0.0,36,Giants,2023
+21,21,Bobby McCain,30,S,10,0,1,0,0,0,0.0,0,0,0,0,0.0,0,Giants,2023
+44,44,Nick McCloud,25,CB,17,3,1,0,0,0,0.0,0,0,0,0,0.0,1,Giants,2023

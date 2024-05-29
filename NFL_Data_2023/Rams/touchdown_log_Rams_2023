@@ -1,45 +1,45 @@
-,Rank,Team,Date,Opponent,Win/Loss,Score,Quarter,Distance,Type,Detail,Year
-0,1,Rams,09/10/2023,SEA,Win, 30-13,1,1,rush,Kyren Williams,2023
-1,2,Rams,09/10/2023,SEA,Win, 30-13,3,7,rush,Kyren Williams,2023
-2,3,Rams,09/10/2023,SEA,Win, 30-13,4,1,rush,Cam Akers,2023
-3,4,Rams,09/17/2023,SFO,Loss, 23-30,2,6,pass,Kyren Williams,2023
-4,5,Rams,09/17/2023,SFO,Loss, 23-30,2,4,rush,Kyren Williams,2023
-5,6,Rams,09/25/2023,CIN,Loss, 16-19,4,1,pass,Tutu Atwell,2023
-6,7,Rams,10/01/2023,IND,Win, 29-23,1,3,rush,Kyren Williams,2023
-7,8,Rams,10/01/2023,IND,Win, 29-23,1,3,rush,Kyren Williams,2023
-8,9,Rams,10/01/2023,IND,Win, 29-23,5,22,pass,Puka Nacua,2023
-9,10,Rams,10/08/2023,PHI,Loss, 14-23,1,3,pass,Tutu Atwell,2023
-10,11,Rams,10/08/2023,PHI,Loss, 14-23,2,22,pass,Puka Nacua,2023
-11,12,Rams,10/15/2023,ARI,Win, 26-9,3,13,pass,Cooper Kupp,2023
-12,13,Rams,10/15/2023,ARI,Win, 26-9,4,5,rush,Kyren Williams,2023
-13,14,Rams,10/22/2023,PIT,Loss, 17-24,2,31,pass,Tutu Atwell,2023
-14,15,Rams,10/22/2023,PIT,Loss, 17-24,3,1,rush,Darrell Henderson,2023
-15,16,Rams,10/29/2023,DAL,Loss, 20-43,2,1,rush,Royce Freeman,2023
-16,17,Rams,10/29/2023,DAL,Loss, 20-43,3,20,pass,Ben Skowronek,2023
-17,18,Rams,11/19/2023,SEA,Win, 17-16,2,4,pass,Puka Nacua,2023
-18,19,Rams,11/19/2023,SEA,Win, 17-16,4,1,rush,Darrell Henderson,2023
-19,20,Rams,11/26/2023,ARI,Win, 37-14,1,7,pass,Tyler Higbee,2023
-20,21,Rams,11/26/2023,ARI,Win, 37-14,2,5,pass,Tyler Higbee,2023
-21,22,Rams,11/26/2023,ARI,Win, 37-14,2,15,pass,Kyren Williams,2023
-22,23,Rams,11/26/2023,ARI,Win, 37-14,4,3,pass,Kyren Williams,2023
-23,24,Rams,11/26/2023,ARI,Win, 37-14,4,23,rush,Royce Freeman,2023
-24,25,Rams,12/03/2023,CLE,Win, 36-19,1,70,pass,Puka Nacua,2023
-25,26,Rams,12/03/2023,CLE,Win, 36-19,3,7,pass,Demarcus Robinson,2023
-26,27,Rams,12/03/2023,CLE,Win, 36-19,4,3,pass,Cooper Kupp,2023
-27,28,Rams,12/03/2023,CLE,Win, 36-19,4,1,rush,Kyren Williams,2023
-28,29,Rams,12/10/2023,BAL,Loss, 31-37,2,6,pass,Cooper Kupp,2023
-29,30,Rams,12/10/2023,BAL,Loss, 31-37,2,7,pass,Davis Allen,2023
-30,31,Rams,12/10/2023,BAL,Loss, 31-37,4,5,pass,Demarcus Robinson,2023
-31,32,Rams,12/17/2023,WAS,Win, 28-20,2,1,rush,Kyren Williams,2023
-32,33,Rams,12/17/2023,WAS,Win, 28-20,3,62,pass,Cooper Kupp,2023
-33,34,Rams,12/17/2023,WAS,Win, 28-20,4,23,pass,Demarcus Robinson,2023
-34,35,Rams,12/21/2023,NOR,Win, 30-22,1,2,pass,Puka Nacua,2023
-35,36,Rams,12/21/2023,NOR,Win, 30-22,2,4,pass,Demarcus Robinson,2023
-36,37,Rams,12/21/2023,NOR,Win, 30-22,3,10,rush,Kyren Williams,2023
-37,38,Rams,12/31/2023,NYG,Win, 26-25,1,4,rush,Kyren Williams,2023
-38,39,Rams,12/31/2023,NYG,Win, 26-25,2,5,pass,Cooper Kupp,2023
-39,40,Rams,12/31/2023,NYG,Win, 26-25,3,2,rush,Kyren Williams,2023
-40,41,Rams,12/31/2023,NYG,Win, 26-25,4,28,rush,Kyren Williams,2023
-41,42,Rams,01/07/2024,SFO,Win, 21-20,1,19,pass,Puka Nacua,2023
-42,43,Rams,01/07/2024,SFO,Win, 21-20,3,8,pass,Tyler Johnson,2023
-43,44,Rams,01/07/2024,SFO,Win, 21-20,4,12,rush,Carson Wentz,2023
+,Rank,Team,Date,Opponent,Win/Loss,Home_Score,Opponenet_Score,Quarter,Distance,Type,Detail
+1,1,Rams,2023-09-10,SEA,Win,30,13,1,1,rush,Kyren Williams
+2,2,Rams,2023-09-10,SEA,Win,30,13,3,7,rush,Kyren Williams
+3,3,Rams,2023-09-10,SEA,Win,30,13,4,1,rush,Cam Akers
+4,4,Rams,2023-09-17,SFO,Loss,23,30,2,6,pass,Kyren Williams
+5,5,Rams,2023-09-17,SFO,Loss,23,30,2,4,rush,Kyren Williams
+6,6,Rams,2023-09-25,CIN,Loss,16,19,4,1,pass,Tutu Atwell
+7,7,Rams,2023-10-01,IND,Win,29,23,1,3,rush,Kyren Williams
+8,8,Rams,2023-10-01,IND,Win,29,23,1,3,rush,Kyren Williams
+9,9,Rams,2023-10-01,IND,Win,29,23,5,22,pass,Puka Nacua
+10,10,Rams,2023-10-08,PHI,Loss,14,23,1,3,pass,Tutu Atwell
+11,11,Rams,2023-10-08,PHI,Loss,14,23,2,22,pass,Puka Nacua
+12,12,Rams,2023-10-15,ARI,Win,26,9,3,13,pass,Cooper Kupp
+13,13,Rams,2023-10-15,ARI,Win,26,9,4,5,rush,Kyren Williams
+14,14,Rams,2023-10-22,PIT,Loss,17,24,2,31,pass,Tutu Atwell
+15,15,Rams,2023-10-22,PIT,Loss,17,24,3,1,rush,Darrell Henderson
+16,16,Rams,2023-10-29,DAL,Loss,20,43,2,1,rush,Royce Freeman
+17,17,Rams,2023-10-29,DAL,Loss,20,43,3,20,pass,Ben Skowronek
+18,18,Rams,2023-11-19,SEA,Win,17,16,2,4,pass,Puka Nacua
+19,19,Rams,2023-11-19,SEA,Win,17,16,4,1,rush,Darrell Henderson
+20,20,Rams,2023-11-26,ARI,Win,37,14,1,7,pass,Tyler Higbee
+21,21,Rams,2023-11-26,ARI,Win,37,14,2,5,pass,Tyler Higbee
+22,22,Rams,2023-11-26,ARI,Win,37,14,2,15,pass,Kyren Williams
+23,23,Rams,2023-11-26,ARI,Win,37,14,4,3,pass,Kyren Williams
+24,24,Rams,2023-11-26,ARI,Win,37,14,4,23,rush,Royce Freeman
+25,25,Rams,2023-12-03,CLE,Win,36,19,1,70,pass,Puka Nacua
+26,26,Rams,2023-12-03,CLE,Win,36,19,3,7,pass,Demarcus Robinson
+27,27,Rams,2023-12-03,CLE,Win,36,19,4,3,pass,Cooper Kupp
+28,28,Rams,2023-12-03,CLE,Win,36,19,4,1,rush,Kyren Williams
+29,29,Rams,2023-12-10,BAL,Loss,31,37,2,6,pass,Cooper Kupp
+30,30,Rams,2023-12-10,BAL,Loss,31,37,2,7,pass,Davis Allen
+31,31,Rams,2023-12-10,BAL,Loss,31,37,4,5,pass,Demarcus Robinson
+32,32,Rams,2023-12-17,WAS,Win,28,20,2,1,rush,Kyren Williams
+33,33,Rams,2023-12-17,WAS,Win,28,20,3,62,pass,Cooper Kupp
+34,34,Rams,2023-12-17,WAS,Win,28,20,4,23,pass,Demarcus Robinson
+35,35,Rams,2023-12-21,NOR,Win,30,22,1,2,pass,Puka Nacua
+36,36,Rams,2023-12-21,NOR,Win,30,22,2,4,pass,Demarcus Robinson
+37,37,Rams,2023-12-21,NOR,Win,30,22,3,10,rush,Kyren Williams
+38,38,Rams,2023-12-31,NYG,Win,26,25,1,4,rush,Kyren Williams
+39,39,Rams,2023-12-31,NYG,Win,26,25,2,5,pass,Cooper Kupp
+40,40,Rams,2023-12-31,NYG,Win,26,25,3,2,rush,Kyren Williams
+41,41,Rams,2023-12-31,NYG,Win,26,25,4,28,rush,Kyren Williams
+42,42,Rams,2024-01-07,SFO,Win,21,20,1,19,pass,Puka Nacua
+43,43,Rams,2024-01-07,SFO,Win,21,20,3,8,pass,Tyler Johnson
+44,44,Rams,2024-01-07,SFO,Win,21,20,4,12,rush,Carson Wentz

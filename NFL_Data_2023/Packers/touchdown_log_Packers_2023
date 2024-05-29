@@ -1,45 +1,45 @@
-,Rank,Team,Date,Opponent,Win/Loss,Score,Quarter,Distance,Type,Detail,Year
-0,1,Packers,09/10/2023,CHI,Win, 38-20,1,8,pass,Romeo Doubs,2023
-1,2,Packers,09/10/2023,CHI,Win, 38-20,3,1,rush,Aaron Jones,2023
-2,3,Packers,09/10/2023,CHI,Win, 38-20,3,35,pass,Aaron Jones,2023
-3,4,Packers,09/10/2023,CHI,Win, 38-20,4,4,pass,Romeo Doubs,2023
-4,5,Packers,09/10/2023,CHI,Win, 38-20,4,37,interception,Quay Walker,2023
-5,6,Packers,09/17/2023,ATL,Loss, 24-25,2,9,pass,Jayden Reed,2023
-6,7,Packers,09/17/2023,ATL,Loss, 24-25,3,32,pass,Dontayvion Wicks,2023
-7,8,Packers,09/17/2023,ATL,Loss, 24-25,3,10,pass,Jayden Reed,2023
-8,9,Packers,09/24/2023,NOR,Win, 18-17,4,1,rush,Jordan Love,2023
-9,10,Packers,09/24/2023,NOR,Win, 18-17,4,8,pass,Romeo Doubs,2023
-10,11,Packers,09/28/2023,DET,Loss, 20-34,3,1,pass,Christian Watson,2023
-11,12,Packers,09/28/2023,DET,Loss, 20-34,4,9,rush,Jordan Love,2023
-12,13,Packers,10/09/2023,LVR,Loss, 13-17,3,5,rush,AJ Dillon,2023
-13,14,Packers,10/22/2023,DEN,Loss, 17-19,3,16,pass,Romeo Doubs,2023
-14,15,Packers,10/22/2023,DEN,Loss, 17-19,4,4,pass,Jayden Reed,2023
-15,16,Packers,10/29/2023,MIN,Loss, 10-24,3,1,pass,Romeo Doubs,2023
-16,17,Packers,11/05/2023,LAR,Win, 20-3,2,3,rush,Aaron Jones,2023
-17,18,Packers,11/05/2023,LAR,Win, 20-3,4,20,pass,Luke Musgrave,2023
-18,19,Packers,11/12/2023,PIT,Loss, 19-23,1,8,pass,Romeo Doubs,2023
-19,20,Packers,11/12/2023,PIT,Loss, 19-23,2,35,pass,Jayden Reed,2023
-20,21,Packers,11/19/2023,LAC,Win, 23-20,2,32,rush,Jayden Reed,2023
-21,22,Packers,11/19/2023,LAC,Win, 23-20,3,11,pass,Christian Watson,2023
-22,23,Packers,11/19/2023,LAC,Win, 23-20,4,24,pass,Romeo Doubs,2023
-23,24,Packers,11/23/2023,DET,Win, 29-22,1,10,pass,Jayden Reed,2023
-24,25,Packers,11/23/2023,DET,Win, 29-22,1,9,pass,Tucker Kraft,2023
-25,26,Packers,11/23/2023,DET,Win, 29-22,1,27,fumble,Jonathan Owens,2023
-26,27,Packers,11/23/2023,DET,Win, 29-22,3,16,pass,Christian Watson,2023
-27,28,Packers,12/03/2023,KAN,Win, 27-19,1,1,pass,Ben Sims,2023
-28,29,Packers,12/03/2023,KAN,Win, 27-19,2,9,pass,Christian Watson,2023
-29,30,Packers,12/03/2023,KAN,Win, 27-19,3,12,pass,Christian Watson,2023
-30,31,Packers,12/11/2023,NYG,Loss, 22-24,1,16,rush,Jayden Reed,2023
-31,32,Packers,12/11/2023,NYG,Loss, 22-24,4,6,pass,Malik Heath,2023
-32,33,Packers,12/17/2023,TAM,Loss, 20-34,1,5,pass,Tucker Kraft,2023
-33,34,Packers,12/17/2023,TAM,Loss, 20-34,3,17,pass,Jayden Reed,2023
-34,35,Packers,12/24/2023,CAR,Win, 33-30,1,1,rush,AJ Dillon,2023
-35,36,Packers,12/24/2023,CAR,Win, 33-30,2,1,rush,Jordan Love,2023
-36,37,Packers,12/24/2023,CAR,Win, 33-30,2,21,pass,Dontayvion Wicks,2023
-37,38,Packers,12/24/2023,CAR,Win, 33-30,4,5,pass,Romeo Doubs,2023
-38,39,Packers,12/31/2023,MIN,Win, 33-10,1,33,pass,Jayden Reed,2023
-39,40,Packers,12/31/2023,MIN,Win, 33-10,2,2,rush,Jordan Love,2023
-40,41,Packers,12/31/2023,MIN,Win, 33-10,2,25,pass,Jayden Reed,2023
-41,42,Packers,12/31/2023,MIN,Win, 33-10,3,9,pass,Bo Melton,2023
-42,43,Packers,01/07/2024,CHI,Win, 17-9,2,10,pass,Dontayvion Wicks,2023
-43,44,Packers,01/07/2024,CHI,Win, 17-9,3,12,pass,Dontayvion Wicks,2023
+,Rank,Team,Date,Opponent,Win/Loss,Home_Score,Opponenet_Score,Quarter,Distance,Type,Detail
+1,1,Packers,2023-09-10,CHI,Win,38,20,1,8,pass,Romeo Doubs
+2,2,Packers,2023-09-10,CHI,Win,38,20,3,1,rush,Aaron Jones
+3,3,Packers,2023-09-10,CHI,Win,38,20,3,35,pass,Aaron Jones
+4,4,Packers,2023-09-10,CHI,Win,38,20,4,4,pass,Romeo Doubs
+5,5,Packers,2023-09-10,CHI,Win,38,20,4,37,interception,Quay Walker
+6,6,Packers,2023-09-17,ATL,Loss,24,25,2,9,pass,Jayden Reed
+7,7,Packers,2023-09-17,ATL,Loss,24,25,3,32,pass,Dontayvion Wicks
+8,8,Packers,2023-09-17,ATL,Loss,24,25,3,10,pass,Jayden Reed
+9,9,Packers,2023-09-24,NOR,Win,18,17,4,1,rush,Jordan Love
+10,10,Packers,2023-09-24,NOR,Win,18,17,4,8,pass,Romeo Doubs
+11,11,Packers,2023-09-28,DET,Loss,20,34,3,1,pass,Christian Watson
+12,12,Packers,2023-09-28,DET,Loss,20,34,4,9,rush,Jordan Love
+13,13,Packers,2023-10-09,LVR,Loss,13,17,3,5,rush,AJ Dillon
+14,14,Packers,2023-10-22,DEN,Loss,17,19,3,16,pass,Romeo Doubs
+15,15,Packers,2023-10-22,DEN,Loss,17,19,4,4,pass,Jayden Reed
+16,16,Packers,2023-10-29,MIN,Loss,10,24,3,1,pass,Romeo Doubs
+17,17,Packers,2023-11-05,LAR,Win,20,3,2,3,rush,Aaron Jones
+18,18,Packers,2023-11-05,LAR,Win,20,3,4,20,pass,Luke Musgrave
+19,19,Packers,2023-11-12,PIT,Loss,19,23,1,8,pass,Romeo Doubs
+20,20,Packers,2023-11-12,PIT,Loss,19,23,2,35,pass,Jayden Reed
+21,21,Packers,2023-11-19,LAC,Win,23,20,2,32,rush,Jayden Reed
+22,22,Packers,2023-11-19,LAC,Win,23,20,3,11,pass,Christian Watson
+23,23,Packers,2023-11-19,LAC,Win,23,20,4,24,pass,Romeo Doubs
+24,24,Packers,2023-11-23,DET,Win,29,22,1,10,pass,Jayden Reed
+25,25,Packers,2023-11-23,DET,Win,29,22,1,9,pass,Tucker Kraft
+26,26,Packers,2023-11-23,DET,Win,29,22,1,27,fumble,Jonathan Owens
+27,27,Packers,2023-11-23,DET,Win,29,22,3,16,pass,Christian Watson
+28,28,Packers,2023-12-03,KAN,Win,27,19,1,1,pass,Ben Sims
+29,29,Packers,2023-12-03,KAN,Win,27,19,2,9,pass,Christian Watson
+30,30,Packers,2023-12-03,KAN,Win,27,19,3,12,pass,Christian Watson
+31,31,Packers,2023-12-11,NYG,Loss,22,24,1,16,rush,Jayden Reed
+32,32,Packers,2023-12-11,NYG,Loss,22,24,4,6,pass,Malik Heath
+33,33,Packers,2023-12-17,TAM,Loss,20,34,1,5,pass,Tucker Kraft
+34,34,Packers,2023-12-17,TAM,Loss,20,34,3,17,pass,Jayden Reed
+35,35,Packers,2023-12-24,CAR,Win,33,30,1,1,rush,AJ Dillon
+36,36,Packers,2023-12-24,CAR,Win,33,30,2,1,rush,Jordan Love
+37,37,Packers,2023-12-24,CAR,Win,33,30,2,21,pass,Dontayvion Wicks
+38,38,Packers,2023-12-24,CAR,Win,33,30,4,5,pass,Romeo Doubs
+39,39,Packers,2023-12-31,MIN,Win,33,10,1,33,pass,Jayden Reed
+40,40,Packers,2023-12-31,MIN,Win,33,10,2,2,rush,Jordan Love
+41,41,Packers,2023-12-31,MIN,Win,33,10,2,25,pass,Jayden Reed
+42,42,Packers,2023-12-31,MIN,Win,33,10,3,9,pass,Bo Melton
+43,43,Packers,2024-01-07,CHI,Win,17,9,2,10,pass,Dontayvion Wicks
+44,44,Packers,2024-01-07,CHI,Win,17,9,3,12,pass,Dontayvion Wicks

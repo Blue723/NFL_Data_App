@@ -1,17 +1,17 @@
-,No.,Team,Player,Age,Pos,Games Played,Games Started,Rush TD,Reception TD,Punt Return TD,Kick Return TD,Fumble Return TD,Interception TD,Other TD,All Touchdown Scored,2-Point Conversions Made,Two-Point Conversions Attempted,Defensive Two-Point Conversions,Extra Points Made,Extra Points Allowed,Field Goals Made,Field Goals Attempted,Safeties Scored by Player/Team,Total Points Scored by all Means,Poins per Game,Year
-0,19,Saints,Blake Grupe,25,K,17,0,0,0,0,0,0,0,0,0,0,0,0,40,40,30,37,,130,7.6,2023
-1,41,Saints,Alvin Kamara,28,RB,13,12,5,1,0,0,0,0,0,6,3,0,0,0,0,0,0,,42,3.2,2023
-2,7,Saints,Taysom Hill,33,QB,16,7,4,2,0,0,0,0,0,6,0,0,0,0,0,0,0,,36,2.3,2023
-3,22,Saints,Rashid Shaheed,25,WR,15,8,0,5,1,0,0,0,0,6,0,0,0,0,0,0,0,,36,2.4,2023
-4,12,Saints,Chris Olave,23,WR,16,11,0,5,0,0,0,0,0,5,1,0,0,0,0,0,0,,32,2.0,2023
-5,80,Saints,Jimmy Graham,37,TE,13,2,0,4,0,0,0,0,0,4,0,0,0,0,0,0,0,,24,1.8,2023
-6,83,Saints,Juwan Johnson,27,TE,13,11,0,4,0,0,0,0,0,4,0,0,0,0,0,0,0,,24,1.8,2023
-7,17,Saints,A.T. Perry,24,WR,10,3,0,4,0,0,0,0,0,4,0,0,0,0,0,0,0,,24,2.4,2023
-8,34,Saints,Tony Jones,26,RB,4,1,2,0,0,0,0,0,0,2,0,0,0,0,0,0,0,,12,3.0,2023
-9,52,Saints,D'Marco Jackson,25,LB,17,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,,6,0.4,2023
-10,18,Saints,Keith Kirkwood,29,WR,13,4,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,,6,0.5,2023
-11,32,Saints,Tyrann Mathieu,31,S,17,17,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,,6,0.4,2023
-12,25,Saints,Kendre Miller,21,RB,8,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,,6,0.8,2023
-13,87,Saints,Foster Moreau,26,TE,15,10,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,,6,0.4,2023
-14,13,Saints,Michael Thomas,30,WR,10,7,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,,6,0.6,2023
-15,21,Saints,Jamaal Williams,28,RB,13,4,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,,6,0.5,2023
+,No.,Player,Age,Pos,Games Played,Games Started,Rush TD,Reception TD,Punt Return TD,Kick Return TD,Fumble Return TD,Interception TD,Other TD,All Touchdown Scored,2-Point Conversions Made,Two-Point Conversions Attempted,Defensive Two-Point Conversions,Extra Points Made,Extra Points Allowed,Field Goals Made,Field Goals Attempted,Safeties Scored by Player/Team,Total Points Scored by all Means,Poins per Game,Team,Year
+19,19,Blake Grupe,25,K,17,0,0,0,0,0,0,0,0,0,0,0,0,40,40,30,37,0,130,7.6,Saints,2023
+41,41,Alvin Kamara,28,RB,13,12,5,1,0,0,0,0,0,6,3,0,0,0,0,0,0,0,42,3.2,Saints,2023
+7,7,Taysom Hill,33,QB,16,7,4,2,0,0,0,0,0,6,0,0,0,0,0,0,0,0,36,2.3,Saints,2023
+22,22,Rashid Shaheed,25,WR,15,8,0,5,1,0,0,0,0,6,0,0,0,0,0,0,0,0,36,2.4,Saints,2023
+12,12,Chris Olave,23,WR,16,11,0,5,0,0,0,0,0,5,1,0,0,0,0,0,0,0,32,2.0,Saints,2023
+80,80,Jimmy Graham,37,TE,13,2,0,4,0,0,0,0,0,4,0,0,0,0,0,0,0,0,24,1.8,Saints,2023
+83,83,Juwan Johnson,27,TE,13,11,0,4,0,0,0,0,0,4,0,0,0,0,0,0,0,0,24,1.8,Saints,2023
+17,17,A.T. Perry,24,WR,10,3,0,4,0,0,0,0,0,4,0,0,0,0,0,0,0,0,24,2.4,Saints,2023
+34,34,Tony Jones,26,RB,4,1,2,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,12,3.0,Saints,2023
+52,52,D'Marco Jackson,25,LB,17,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,6,0.4,Saints,2023
+18,18,Keith Kirkwood,29,WR,13,4,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,6,0.5,Saints,2023
+32,32,Tyrann Mathieu,31,S,17,17,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,6,0.4,Saints,2023
+25,25,Kendre Miller,21,RB,8,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,6,0.8,Saints,2023
+87,87,Foster Moreau,26,TE,15,10,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,6,0.4,Saints,2023
+13,13,Michael Thomas,30,WR,10,7,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,6,0.6,Saints,2023
+21,21,Jamaal Williams,28,RB,13,4,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,6,0.5,Saints,2023

@@ -1,61 +1,70 @@
-Player,No.,Team,Age,Pos,G,GS,Wt,Ht,College/Univ,BirthDate,Yrs,AV,Drafted (tm/rnd/yr)
-Jaire Alexander,23.0,Packers,26.0,CB,5,5.0,196.0,5-10,Louisville,2/9/1997,5,,Green Bay Packers / 1st / 18th pick / 2018
-Zayne Anderson,39.0,Packers,26.0,S,2,0.0,206.0,6-2,BYU,1/3/1997,2,,
-Corey Ballentine,35.0,Packers,27.0,CB,6,1.0,196.0,5-11,Washburn,4/13/1996,4,,New York Giants / 6th / 180th pick / 2019
-Karl Brooks,94.0,Packers,23.0,DL,9,0.0,296.0,6-3,Bowling Green,5/8/2000,Rook,,Green Bay Packers / 6th / 179th pick / 2023
-De'Vondre Campbell,59.0,Packers,30.0,LB,6,6.0,232.0,6-3,Minnesota,7/1/1993,7,,Atlanta Falcons / 4th / 115th pick / 2016
-Anders Carlson,17.0,Packers,25.0,K,9,0.0,219.0,6-5,Auburn,6/16/1998,Rook,,Green Bay Packers / 6th / 207th pick / 2023
-Kenny Clark,97.0,Packers,28.0,DL,9,9.0,314.0,6-3,UCLA,10/4/1995,7,,Green Bay Packers / 1st / 27th pick / 2016
-Sean Clifford,8.0,Packers,25.0,QB,1,0.0,218.0,,Penn St.,7/14/1998,Rook,,Green Bay Packers / 5th / 149th pick / 2023
-Brenton Cox,57.0,Packers,23.0,LB,3,0.0,250.0,6-4,"Georgia,Florida",1/30/2000,Rook,,
-Josiah Deguara,81.0,Packers,26.0,TE,9,3.0,238.0,6-2,Cincinnati,2/14/1997,3,,Green Bay Packers / 3rd / 94th pick / 2020
-AJ Dillon,28.0,Packers,25.0,RB,9,3.0,247.0,6-0,Boston Col.,5/2/1998,3,,Green Bay Packers / 2nd / 62nd pick / 2020
-Romeo Doubs,87.0,Packers,23.0,WR,9,8.0,204.0,6-2,Nevada,4/13/2000,1,,Green Bay Packers / 4th / 132nd pick / 2022
-Kingsley Enagbare,55.0,Packers,23.0,LB,9,4.0,258.0,6-4,South Carolina,1/18/2000,1,,Green Bay Packers / 5th / 179th pick / 2022
-Rudy Ford,20.0,Packers,29.0,S,8,8.0,210.0,6-0,Auburn,11/1/1994,6,,Arizona Cardinals / 6th / 208th pick / 2017
-Rashan Gary,52.0,Packers,26.0,LB,9,5.0,277.0,6-5,Michigan,12/3/1997,4,,Green Bay Packers / 1st / 12th pick / 2019
-Malik Heath,18.0,Packers,23.0,WR,5,1.0,213.0,6-2,"Copiah-Lincoln CC,Mississippi St.,Mississippi",3/3/2000,Rook,,
-Elgton Jenkins,74.0,Packers,28.0,OL,7,7.0,311.0,6-5,Mississippi St.,12/26/1995,4,,Green Bay Packers / 2nd / 44th pick / 2019
-Anthony Johnson,36.0,Packers,24.0,S,4,1.0,205.0,6-0,Iowa St.,12/2/1999,Rook,,Green Bay Packers / 7th / 242nd pick / 2023
-Aaron Jones,33.0,Packers,29.0,RB,6,6.0,208.0,5-9,Texas-El Paso,12/2/1994,6,,Green Bay Packers / 5th / 182nd pick / 2017
-Caleb Jones,72.0,Packers,24.0,T,1,0.0,370.0,6-9,Indiana,2/10/1999,Rook,,
-Kyu Blu Kelly,24.0,Packers,22.0,CB,0,0.0,193.0,,Stanford,5/22/2001,Rook,,Baltimore Ravens / 5th / 157th pick / 2023
-Tucker Kraft,85.0,Packers,23.0,TE,9,1.0,259.0,,South Dakota St.,11/3/2000,Rook,,Green Bay Packers / 3rd / 78th pick / 2023
-Dallin Leavitt,6.0,Packers,29.0,S,9,0.0,195.0,5-10,Utah St.,8/8/1994,5,,
-Jordan Love,10.0,Packers,25.0,QB,9,9.0,219.0,6-4,Utah St.,11/2/1998,2,,Green Bay Packers / 1st / 26th pick / 2020
-Isaiah McDuffie,58.0,Packers,24.0,LB,9,5.0,227.0,6-1,Boston Col.,7/21/1999,2,,Green Bay Packers / 6th / 220th pick / 2021
-Luke Musgrave,88.0,Packers,23.0,TE,9,8.0,253.0,,Oregon St.,9/2/2000,Rook,,Green Bay Packers / 2nd / 42nd pick / 2023
-Josh Myers,71.0,Packers,25.0,OL,9,9.0,310.0,6-5,Ohio St.,7/16/1998,2,,Green Bay Packers / 2nd / 62nd pick / 2021
-Royce Newman,70.0,Packers,26.0,OL,9,2.0,310.0,6-5,Mississippi,8/17/1997,2,,Green Bay Packers / 4th / 142nd pick / 2021
-Yosh Nijman,73.0,Packers,27.0,T,8,1.0,314.0,6-7,Virginia Tech,1/2/1996,3,,
-Keisean Nixon,25.0,Packers,26.0,CB,9,7.0,200.0,5-10,South Carolina,6/22/1997,4,,
-Matthew Orzech,42.0,Packers,28.0,LS,9,0.0,245.0,6-3,Azusa Pacific,4/12/1995,4,,
-Jonathan Owens,34.0,Packers,28.0,S,9,3.0,210.0,5-11,Missouri Western St.,7/22/1995,4,,
-Jayden Reed,11.0,Packers,23.0,WR,9,7.0,187.0,5-11,"Western Michigan,Michigan St.",4/28/2000,Rook,,Green Bay Packers / 2nd / 50th pick / 2023
-Sean Rhyan,75.0,Packers,25.0,OL,4,0.0,321.0,6-5,UCLA,9/20/1998,1,,Green Bay Packers / 3rd / 92nd pick / 2022
-Robert Rochell,22.0,Packers,25.0,CB,2,0.0,195.0,6-2,Central Arkansas,4/26/1998,2,,Los Angeles Rams / 4th / 130th pick / 2021
-Jon Runyan Jr.,76.0,Packers,26.0,G,9,9.0,307.0,6-4,Michigan,8/8/1997,3,,Green Bay Packers / 6th / 192nd pick / 2020
-Benny Sapp,48.0,Packers,23.0,S,0,0.0,200.0,5-11,Northern Iowa,6/27/2000,Rook,,
-Ben Sims,89.0,Packers,23.0,TE,9,0.0,250.0,,Baylor,5/16/2000,Rook,,
-Tedarrell Slaton,93.0,Packers,26.0,DL,9,9.0,330.0,6-4,Florida,10/3/1997,2,,Green Bay Packers / 5th / 173rd pick / 2021
-Preston Smith,91.0,Packers,31.0,LB,9,9.0,265.0,6-5,Mississippi St.,11/17/1992,8,,Washington Redskins / 2nd / 38th pick / 2015
-Zach Tom,50.0,Packers,24.0,OL,9,9.0,304.0,6-4,Wake Forest,3/26/1999,1,,Green Bay Packers / 4th / 140th pick / 2022
-Samori Toure,83.0,Packers,25.0,WR,7,0.0,191.0,6-1,"Montana,Nebraska",3/24/1998,1,,Green Bay Packers / 7th / 258th pick / 2022
-Carrington Valentine,37.0,Packers,22.0,CB,9,5.0,189.0,,Kentucky,9/9/2001,Rook,,Green Bay Packers / 7th / 232nd pick / 2023
-Lukas Van Ness,90.0,Packers,22.0,LB,9,0.0,272.0,6-5,Iowa,7/6/2001,Rook,,Green Bay Packers / 1st / 13th pick / 2023
-Quay Walker,7.0,Packers,23.0,LB,7,7.0,241.0,6-4,Georgia,5/8/2000,1,,Green Bay Packers / 1st / 22nd pick / 2022
-Rasheed Walker,63.0,Packers,23.0,T,9,7.0,324.0,6-6,Penn St.,2/13/2000,1,,Green Bay Packers / 7th / 249th pick / 2022
-Christian Watson,9.0,Packers,24.0,WR,6,6.0,208.0,6-4,North Dakota St.,5/12/1999,1,,Green Bay Packers / 2nd / 34th pick / 2022
-Kristian Welch,54.0,Packers,25.0,LB,6,0.0,240.0,6-3,Iowa,5/24/1998,3,,
-Daniel Whelan,19.0,Packers,24.0,P,9,0.0,216.0,6-5,UC Davis,2/10/1999,Rook,,
-Dontayvion Wicks,13.0,Packers,22.0,WR,9,2.0,206.0,,Virginia,6/16/2001,Rook,,Green Bay Packers / 5th / 159th pick / 2023
-Emanuel Wilson,31.0,Packers,24.0,RB,6,0.0,226.0,5-11,"Johnson C. Smith,Fort Valley St.",5/8/1999,Rook,,
-Eric Wilson,45.0,Packers,29.0,LB,9,0.0,230.0,6-1,Cincinnati,9/26/1994,6,,
-Colby Wooden,96.0,Packers,23.0,DL,9,0.0,273.0,6-4,Auburn,12/21/2000,Rook,,Green Bay Packers / 4th / 116th pick / 2023
-Devonte Wyatt,95.0,Packers,25.0,DL,9,2.0,304.0,6-3,"Hutchinson (KS),Georgia",3/31/1998,1,,Green Bay Packers / 1st / 28th pick / 2022
-David Bakhtiari (IR),69.0,Packers,32.0,T,1,1.0,310.0,6-4,Colorado,9/30/1991,10,,Green Bay Packers / 4th / 109th pick / 2013
-Tyler Davis (IR),84.0,Packers,26.0,TE,0,0.0,252.0,6-4,"Connecticut,Georgia Tech",4/2/1997,3,,Jacksonville Jaguars / 6th / 206th pick / 2020
-Darnell Savage Jr. (IR),26.0,Packers,26.0,S,6,6.0,198.0,5-11,Maryland,7/30/1997,4,,Green Bay Packers / 1st / 21st pick / 2019
-Eric Stokes (IR),21.0,Packers,24.0,CB,1,0.0,194.0,6-0,Georgia,3/1/1999,2,,Green Bay Packers / 1st / 29th pick / 2021
-Luke Tenuta (IR),78.0,Packers,24.0,T,0,0.0,314.0,6-6,Virginia Tech,9/1/1999,1,,Buffalo Bills / 6th / 209th pick / 2022
-Team Total,,Packers,25.4,,9,,244.2,6-2.6,,,2.4,,
+,No.,Player,BirthDate,Age,Height,Weight,College/University,Position,Games_Played_in_Season,Games_Started_in_Season,NFL_Years,Player_Value,Team,Year
+0,23.0,Jaire Alexander,2/9/1997,26.0,5-10,196.0,Louisville,CB,7,7.0,5.0,2.0,Packers,2023
+1,39.0,Zayne Anderson,1/3/1997,26.0,6-2,206.0,BYU,S,10,0.0,2.0,0.0,Packers,2023
+2,69.0,David Bakhtiari,9/30/1991,32.0,6-4,310.0,Colorado,T,1,1.0,10.0,1.0,Packers,2023
+3,35.0,Corey Ballentine,4/13/1996,27.0,5-11,196.0,Washburn,CB,14,6.0,4.0,2.0,Packers,2023
+4,51.0,Keshawn Banks,12/21/1999,24.0,6-3,251.0,San Diego St.,LB,0,0.0,0.0,,Packers,2023
+5,94.0,Karl Brooks,5/8/2000,23.0,6-3,296.0,Bowling Green,DL,17,0.0,0.0,2.0,Packers,2023
+6,59.0,De'Vondre Campbell,7/1/1993,30.0,6-3,232.0,Minnesota,LILB,11,11.0,7.0,5.0,Packers,2023
+7,17.0,Anders Carlson,6/16/1998,25.0,6-5,219.0,Auburn,K,17,0.0,0.0,1.0,Packers,2023
+8,97.0,Kenny Clark,10/4/1995,28.0,6-3,314.0,UCLA,DL,17,17.0,7.0,10.0,Packers,2023
+9,8.0,Sean Clifford,7/14/1998,25.0,,218.0,Penn St.,QB,2,0.0,0.0,0.0,Packers,2023
+10,57.0,Brenton Cox,1/30/2000,23.0,6-4,250.0,"Georgia,Florida",LB,4,0.0,0.0,0.0,Packers,2023
+11,81.0,Josiah Deguara,2/14/1997,26.0,6-2,238.0,Cincinnati,TE,15,4.0,3.0,1.0,Packers,2023
+12,28.0,AJ Dillon,5/2/1998,25.0,6-0,247.0,Boston Col.,RB,15,6.0,3.0,6.0,Packers,2023
+13,87.0,Romeo Doubs,4/13/2000,23.0,6-2,204.0,Nevada,WR,17,16.0,1.0,7.0,Packers,2023
+14,29.0,Rasul Douglas,8/29/1995,28.0,6-2,209.0,West Virginia,RCB,7,7.0,6.0,2.0,Packers,2023
+15,32.0,Kenyan Drake,1/26/1994,29.0,6-1,216.0,Alabama,RB,1,0.0,7.0,0.0,Packers,2023
+16,55.0,Kingsley Enagbare,1/18/2000,23.0,6-4,258.0,South Carolina,LB,17,4.0,1.0,3.0,Packers,2023
+17,20.0,Rudy Ford,11/1/1994,29.0,6-0,210.0,Auburn,S,13,9.0,6.0,3.0,Packers,2023
+18,38.0,Innis Gaines,8/29/1998,25.0,6-1,202.0,TCU,S,4,0.0,2.0,0.0,Packers,2023
+19,52.0,Rashan Gary,12/3/1997,26.0,6-5,277.0,Michigan,LB,17,13.0,4.0,6.0,Packers,2023
+20,18.0,Malik Heath,3/3/2000,23.0,6-2,213.0,"Copiah-Lincoln CC,Mississippi St.,Mississippi",WR,13,1.0,0.0,1.0,Packers,2023
+21,47.0,Justin Hollins,1/15/1996,27.0,6-5,248.0,Oregon,LB,4,0.0,4.0,0.0,Packers,2023
+22,74.0,Elgton Jenkins,12/26/1995,28.0,6-5,311.0,Mississippi St.,OL,15,15.0,4.0,8.0,Packers,2023
+23,36.0,Anthony Johnson,12/2/1999,24.0,6-0,205.0,Iowa St.,S,12,4.0,0.0,2.0,Packers,2023
+24,33.0,Aaron Jones,12/2/1994,29.0,5-9,208.0,Texas-El Paso,RB,11,11.0,6.0,7.0,Packers,2023
+25,72.0,Caleb Jones,2/10/1999,24.0,6-9,370.0,Indiana,T,1,0.0,0.0,0.0,Packers,2023
+26,24.0,Kyu Blu Kelly,5/22/2001,22.0,,193.0,Stanford,CB,1,0.0,0.0,0.0,Packers,2023
+27,85.0,Tucker Kraft,11/3/2000,23.0,,259.0,South Dakota St.,TE,17,8.0,0.0,4.0,Packers,2023
+28,6.0,Dallin Leavitt,8/8/1994,29.0,5-10,195.0,Utah St.,S,10,0.0,5.0,0.0,Packers,2023
+29,30.0,David Long,2/6/1998,25.0,5-11,196.0,Michigan,CB,3,0.0,4.0,0.0,Packers,2023
+30,10.0,Jordan Love,11/2/1998,25.0,6-4,219.0,Utah St.,QB,17,17.0,2.0,15.0,Packers,2023
+31,58.0,Isaiah McDuffie,7/21/1999,24.0,6-1,227.0,Boston Col.,LB,16,8.0,2.0,4.0,Packers,2023
+32,80.0,Bo Melton,5/18/1999,24.0,5-11,189.0,Rutgers,WR,5,1.0,0.0,2.0,Packers,2023
+33,88.0,Luke Musgrave,9/2/2000,23.0,,253.0,Oregon St.,TE,11,9.0,0.0,3.0,Packers,2023
+34,71.0,Josh Myers,7/16/1998,25.0,6-5,310.0,Ohio St.,OL,17,17.0,2.0,9.0,Packers,2023
+35,70.0,Royce Newman,8/17/1997,26.0,6-5,310.0,Mississippi,OL,17,2.0,2.0,2.0,Packers,2023
+36,73.0,Yosh Nijman,1/2/1996,27.0,6-7,314.0,Virginia Tech,T,17,1.0,3.0,2.0,Packers,2023
+37,25.0,Keisean Nixon,6/22/1997,26.0,5-10,200.0,South Carolina,CB,17,13.0,4.0,11.0,Packers,2023
+38,42.0,Matthew Orzech,4/12/1995,28.0,6-3,245.0,Azusa Pacific,LS,17,0.0,4.0,1.0,Packers,2023
+39,34.0,Jonathan Owens,7/22/1995,28.0,5-11,210.0,Missouri Western St.,S,17,11.0,4.0,4.0,Packers,2023
+40,44.0,Henry Pearson,11/23/1999,24.0,6-2,249.0,Appalachian St.,FB,2,0.0,0.0,0.0,Packers,2023
+41,11.0,Jayden Reed,4/28/2000,23.0,5-11,187.0,"Western Michigan,Michigan St.",WR,16,13.0,0.0,9.0,Packers,2023
+42,75.0,Sean Rhyan,9/15/2000,23.0,6-5,321.0,UCLA,OL,12,0.0,1.0,1.0,Packers,2023
+43,32.0,James Robinson,8/9/1998,25.0,5-9,219.0,"Butler (KS),Illinois St.",RB,1,0.0,3.0,0.0,Packers,2023
+44,22.0,Robert Rochell,4/26/1998,25.0,6-2,195.0,Central Arkansas,CB,9,0.0,2.0,0.0,Packers,2023
+45,76.0,Jon Runyan Jr.,8/8/1997,26.0,6-4,307.0,Michigan,G,17,17.0,3.0,9.0,Packers,2023
+46,48.0,Benny Sapp III,6/27/2000,23.0,5-11,200.0,"Minnesota,Northern Iowa",S,5,0.0,0.0,0.0,Packers,2023
+47,26.0,Darnell Savage Jr.,7/30/1997,26.0,5-11,198.0,Maryland,SS,10,10.0,4.0,3.0,Packers,2023
+48,89.0,Ben Sims,5/16/2000,23.0,,250.0,Baylor,TE,17,1.0,0.0,0.0,Packers,2023
+49,93.0,Tedarrell Slaton,10/3/1997,26.0,6-4,330.0,Florida,DL,17,17.0,2.0,7.0,Packers,2023
+50,91.0,Preston Smith,11/17/1992,31.0,6-5,265.0,Mississippi St.,LB,17,17.0,8.0,7.0,Packers,2023
+51,21.0,Eric Stokes,3/1/1999,24.0,6-0,194.0,Georgia,CB,3,2.0,2.0,1.0,Packers,2023
+52,27.0,Patrick Taylor,4/29/1998,25.0,6-2,217.0,Memphis,RB,11,0.0,2.0,1.0,Packers,2023
+53,43.0,Kiondre Thomas,2/7/1998,25.0,6-0,185.0,"Minnesota,Kansas St.",CB,1,0.0,2.0,0.0,Packers,2023
+54,50.0,Zach Tom,3/26/1999,24.0,6-4,304.0,Wake Forest,OL,17,17.0,1.0,9.0,Packers,2023
+55,83.0,Samori Toure,3/24/1998,25.0,6-1,191.0,"Montana,Nebraska",WR,11,0.0,1.0,1.0,Packers,2023
+56,37.0,Carrington Valentine,9/9/2001,22.0,,189.0,Kentucky,CB,17,12.0,0.0,3.0,Packers,2023
+57,90.0,Lukas Van Ness,7/6/2001,22.0,6-5,272.0,Iowa,LB,17,0.0,0.0,1.0,Packers,2023
+58,7.0,Quay Walker,5/8/2000,23.0,6-4,241.0,Georgia,LB,14,14.0,1.0,6.0,Packers,2023
+59,63.0,Rasheed Walker,2/13/2000,23.0,6-6,324.0,Penn St.,T,17,15.0,1.0,10.0,Packers,2023
+60,9.0,Christian Watson,5/12/1999,24.0,6-4,208.0,North Dakota St.,WR,9,9.0,1.0,4.0,Packers,2023
+61,54.0,Kristian Welch,5/24/1998,25.0,6-3,240.0,Iowa,LB,14,0.0,3.0,1.0,Packers,2023
+62,19.0,Daniel Whelan,2/10/1999,24.0,6-5,216.0,UC Davis,P,17,0.0,0.0,1.0,Packers,2023
+63,13.0,Dontayvion Wicks,6/16/2001,22.0,,206.0,Virginia,WR,15,6.0,0.0,6.0,Packers,2023
+64,31.0,Emanuel Wilson,5/8/1999,24.0,5-11,226.0,"Johnson C. Smith,Fort Valley St.",RB,7,0.0,0.0,1.0,Packers,2023
+65,45.0,Eric Wilson,9/26/1994,29.0,6-1,230.0,Cincinnati,LB,17,0.0,6.0,1.0,Packers,2023
+66,96.0,Colby Wooden,12/21/2000,23.0,6-4,273.0,Auburn,DL,17,0.0,0.0,1.0,Packers,2023
+67,95.0,Devonte Wyatt,3/31/1998,25.0,6-3,304.0,"Hutchinson (KS),Georgia",DL,17,5.0,1.0,3.0,Packers,2023
+68,,Team Total,,25.2,6-2.3,240.7,,,17,,2.4,,Packers,2023

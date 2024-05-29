@@ -1,7 +1,7 @@
-,No.,Team,Player,Age,Position,Games Played,Games Started,Punts Returned,Punts Return Yardage,Punts Returned for Touchdown,Longest Punt Return,Yards per Punt Return,Kickoff Returns,Yardage for Kickoffs Returned,Kickoffs Returned for a Touchdown,Longest Kickoff Return,Yards per Kickoff Return,All-purpose Yards,Year
-0,19,Steelers,Calvin Austin,24,WR,17,1,29,249,0,34,8.6,0,0,0,0,,486,2023
-1,48,Steelers,Godwin Igwebuike,29,RB,10,0,0,0,0,0,,11,282,0,36,25.6,282,2023
-2,26,Steelers,Anthony McFarland Jr.,24,RB,3,0,0,0,0,0,,6,164,0,37,27.3,175,2023
-3,25,Steelers,Desmond King,29,CB,3,0,0,0,0,0,,4,88,0,27,22.0,88,2023
-4,89,Steelers,Gunner Olszewski,27,WR,2,0,1,8,0,8,8.0,2,24,0,24,12.0,32,2023
-5,14,Steelers,George Pickens,22,WR,17,16,0,0,0,0,,1,7,0,7,7.0,1165,2023
+,No.,Player,Age,Position,Games Played,Games Started,Punts Returned,Punts Return Yardage,Punts Returned for Touchdown,Longest Punt Return,Yards per Punt Return,Kickoff Returns,Yardage for Kickoffs Returned,Kickoffs Returned for a Touchdown,Longest Kickoff Return,Yards per Kickoff Return,All-purpose Yards,Team,Year
+19,19,Calvin Austin,24,WR,17,1,29,249,0,34,8.6,0,0,0,0,0.0,486,Steelers,2023
+48,48,Godwin Igwebuike,29,RB,10,0,0,0,0,0,0.0,11,282,0,36,25.6,282,Steelers,2023
+26,26,Anthony McFarland Jr.,25,RB,3,0,0,0,0,0,0.0,6,164,0,37,27.3,175,Steelers,2023
+25,25,Desmond King,29,CB,3,0,0,0,0,0,0.0,4,88,0,27,22.0,88,Steelers,2023
+89,89,Gunner Olszewski,27,WR,2,0,1,8,0,8,8.0,2,24,0,24,12.0,32,Steelers,2023
+14,14,George Pickens,22,WR,17,16,0,0,0,0,0.0,1,7,0,7,7.0,1165,Steelers,2023

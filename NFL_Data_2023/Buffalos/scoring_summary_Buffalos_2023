@@ -1,17 +1,17 @@
-,No.,Team,Player,Age,Pos,Games Played,Games Started,Rush TD,Reception TD,Punt Return TD,Kick Return TD,Fumble Return TD,Interception TD,Other TD,All Touchdown Scored,2-Point Conversions Made,Two-Point Conversions Attempted,Defensive Two-Point Conversions,Extra Points Made,Extra Points Allowed,Field Goals Made,Field Goals Attempted,Safeties Scored by Player/Team,Total Points Scored by all Means,Poins per Game,Year
-0,2,Buffalos,Tyler Bass,26,K,17,0,0,0,0,0,0,0,0,0,0,0,0,49,50,24,29,,121,7.1,2023
-1,17,Buffalos,Josh Allen,27,QB,17,17,15,0,0,0,0,0,0,15,0,0,0,0,0,0,0,,90,5.3,2023
-2,14,Buffalos,Stefon Diggs,30,WR,17,17,0,8,0,0,0,0,0,8,1,0,0,0,0,0,0,,50,2.9,2023
-3,13,Buffalos,Gabriel Davis,24,WR,17,17,0,7,0,0,0,0,0,7,1,0,0,0,0,0,0,,44,2.6,2023
-4,4,Buffalos,James Cook,24,RB,17,13,2,4,0,0,0,0,0,6,0,0,0,0,0,0,0,,36,2.1,2023
-5,28,Buffalos,Latavius Murray,33,RB,16,4,4,0,0,0,0,0,0,4,0,0,0,0,0,0,0,,24,1.5,2023
-6,88,Buffalos,Dawson Knox,27,TE,12,11,0,2,0,0,0,0,0,2,1,0,0,0,0,0,0,,14,1.2,2023
-7,11,Buffalos,Deonte Harty,26,WR,16,1,0,1,1,0,0,0,0,2,0,0,0,0,0,0,0,,12,0.8,2023
-8,86,Buffalos,Dalton Kincaid,24,TE,16,11,0,2,0,0,0,0,0,2,0,0,0,0,0,0,0,,12,0.8,2023
-9,10,Buffalos,Khalil Shakir,23,WR,17,10,0,2,0,0,0,0,0,2,0,0,0,0,0,0,0,,12,0.7,2023
-10,31,Buffalos,Rasul Douglas,29,CB,9,8,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,,6,0.7,2023
-11,57,Buffalos,A.J. Epenesa,25,DE,15,1,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,,6,0.4,2023
-12,22,Buffalos,Damien Harris,26,RB,6,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,,6,1.0,2023
-13,26,Buffalos,Ty Johnson,26,RB,10,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,,6,0.6,2023
-14,85,Buffalos,Quintin Morris,24,TE,15,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,,6,0.4,2023
-15,16,Buffalos,Trent Sherfield,27,WR,17,1,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,,6,0.4,2023
+,No.,Player,Age,Pos,Games Played,Games Started,Rush TD,Reception TD,Punt Return TD,Kick Return TD,Fumble Return TD,Interception TD,Other TD,All Touchdown Scored,2-Point Conversions Made,Two-Point Conversions Attempted,Defensive Two-Point Conversions,Extra Points Made,Extra Points Allowed,Field Goals Made,Field Goals Attempted,Safeties Scored by Player/Team,Total Points Scored by all Means,Poins per Game,Team,Year
+2,2,Tyler Bass,26,K,17,0,0,0,0,0,0,0,0,0,0,0,0,49,50,24,29,0,121,7.1,Buffalos,2023
+17,17,Josh Allen,27,QB,17,17,15,0,0,0,0,0,0,15,0,0,0,0,0,0,0,0,90,5.3,Buffalos,2023
+14,14,Stefon Diggs,30,WR,17,17,0,8,0,0,0,0,0,8,1,0,0,0,0,0,0,0,50,2.9,Buffalos,2023
+13,13,Gabriel Davis,24,WR,17,17,0,7,0,0,0,0,0,7,1,0,0,0,0,0,0,0,44,2.6,Buffalos,2023
+4,4,James Cook,24,RB,17,13,2,4,0,0,0,0,0,6,0,0,0,0,0,0,0,0,36,2.1,Buffalos,2023
+28,28,Latavius Murray,33,RB,16,4,4,0,0,0,0,0,0,4,0,0,0,0,0,0,0,0,24,1.5,Buffalos,2023
+88,88,Dawson Knox,27,TE,12,11,0,2,0,0,0,0,0,2,1,0,0,0,0,0,0,0,14,1.2,Buffalos,2023
+11,11,Deonte Harty,26,WR,16,1,0,1,1,0,0,0,0,2,0,0,0,0,0,0,0,0,12,0.8,Buffalos,2023
+86,86,Dalton Kincaid,24,TE,16,11,0,2,0,0,0,0,0,2,0,0,0,0,0,0,0,0,12,0.8,Buffalos,2023
+10,10,Khalil Shakir,23,WR,17,10,0,2,0,0,0,0,0,2,0,0,0,0,0,0,0,0,12,0.7,Buffalos,2023
+31,31,Rasul Douglas,28,CB,9,8,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,6,0.7,Buffalos,2023
+57,57,A.J. Epenesa,25,DE,15,1,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,6,0.4,Buffalos,2023
+22,22,Damien Harris,26,RB,6,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,6,1.0,Buffalos,2023
+26,26,Ty Johnson,26,RB,10,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,6,0.6,Buffalos,2023
+85,85,Quintin Morris,24,TE,15,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,6,0.4,Buffalos,2023
+16,16,Trent Sherfield,27,WR,17,1,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,6,0.4,Buffalos,2023

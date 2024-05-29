@@ -1,37 +1,37 @@
-,Rank,Team,Date,Opponent,Win/Loss,Score,Quarter,Distance,Type,Detail,Year
-0,1,Jets,09/11/2023,BUF,Win, 22-16,2,5,pass,Stefon Diggs,2023
-1,2,Jets,09/17/2023,DAL,Loss, 10-30,1,4,pass,Jake Ferguson,2023
-2,3,Jets,09/17/2023,DAL,Loss, 10-30,2,1,pass,Luke Schoonmaker,2023
-3,4,Jets,09/24/2023,NWE,Loss, 10-15,2,58,pass,Pharaoh Brown,2023
-4,5,Jets,10/01/2023,KAN,Loss, 20-23,1,48,rush,Isiah Pacheco,2023
-5,6,Jets,10/01/2023,KAN,Loss, 20-23,1,34,pass,Noah Gray,2023
-6,7,Jets,10/08/2023,DEN,Win, 31-21,1,22,pass,Jaleel McLaughlin,2023
-7,8,Jets,10/08/2023,DEN,Win, 31-21,4,3,pass,Adam Trautman,2023
-8,9,Jets,10/15/2023,PHI,Win, 20-14,1,3,rush,Jalen Hurts,2023
-9,10,Jets,10/15/2023,PHI,Win, 20-14,2,9,pass,D'Andre Swift,2023
-10,11,Jets,10/29/2023,NYG,Win, 13-10,3,6,rush,Tommy DeVito,2023
-11,12,Jets,11/06/2023,LAC,Loss, 6-27,1,87,punt,Derius Davis,2023
-12,13,Jets,11/06/2023,LAC,Loss, 6-27,1,1,rush,Austin Ekeler,2023
-13,14,Jets,11/06/2023,LAC,Loss, 6-27,4,2,rush,Austin Ekeler,2023
-14,15,Jets,11/12/2023,LVR,Loss, 12-16,4,7,pass,Michael Mayer,2023
-15,16,Jets,11/19/2023,BUF,Loss, 6-32,2,5,pass,James Cook,2023
-16,17,Jets,11/19/2023,BUF,Loss, 6-32,3,28,pass,Ty Johnson,2023
-17,18,Jets,11/19/2023,BUF,Loss, 6-32,3,81,pass,Khalil Shakir,2023
-18,19,Jets,11/24/2023,MIA,Loss, 13-34,2,7,pass,Tyreek Hill,2023
-19,20,Jets,11/24/2023,MIA,Loss, 13-34,2,99,interception,Jevon Holland,2023
-20,21,Jets,11/24/2023,MIA,Loss, 13-34,4,13,rush,Raheem Mostert,2023
-21,22,Jets,11/24/2023,MIA,Loss, 13-34,4,34,rush,Raheem Mostert,2023
-22,23,Jets,12/03/2023,ATL,Loss, 8-13,2,20,pass,MyCole Pruitt,2023
-23,24,Jets,12/10/2023,HOU,Win, 30-6,3,1,rush,Devin Singletary,2023
-24,25,Jets,12/17/2023,MIA,Loss, 0-30,1,2,rush,Raheem Mostert,2023
-25,26,Jets,12/17/2023,MIA,Loss, 0-30,2,60,pass,Jaylen Waddle,2023
-26,27,Jets,12/17/2023,MIA,Loss, 0-30,2,1,rush,Raheem Mostert,2023
-27,28,Jets,12/24/2023,WAS,Win, 30-28,2,12,rush,Chris Rodriguez,2023
-28,29,Jets,12/24/2023,WAS,Win, 30-28,3,15,pass,Logan Thomas,2023
-29,30,Jets,12/24/2023,WAS,Win, 30-28,4,1,rush,Chris Rodriguez,2023
-30,31,Jets,12/24/2023,WAS,Win, 30-28,4,2,rush,Antonio Gibson,2023
-31,32,Jets,12/28/2023,CLE,Loss, 20-37,1,7,pass,Jerome Ford,2023
-32,33,Jets,12/28/2023,CLE,Loss, 20-37,1,7,rush,Kareem Hunt,2023
-33,34,Jets,12/28/2023,CLE,Loss, 20-37,1,30,interception,Ronnie Hickman,2023
-34,35,Jets,12/28/2023,CLE,Loss, 20-37,2,8,pass,Elijah Moore,2023
-35,36,Jets,12/28/2023,CLE,Loss, 20-37,2,50,pass,Jerome Ford,2023
+,Rank,Team,Date,Opponent,Win/Loss,Home_Score,Opponenet_Score,Quarter,Distance,Type,Detail
+1,1,Jets,2023-09-11,BUF,Win,22,16,2,5,pass,Stefon Diggs
+2,2,Jets,2023-09-17,DAL,Loss,10,30,1,4,pass,Jake Ferguson
+3,3,Jets,2023-09-17,DAL,Loss,10,30,2,1,pass,Luke Schoonmaker
+4,4,Jets,2023-09-24,NWE,Loss,10,15,2,58,pass,Pharaoh Brown
+5,5,Jets,2023-10-01,KAN,Loss,20,23,1,48,rush,Isiah Pacheco
+6,6,Jets,2023-10-01,KAN,Loss,20,23,1,34,pass,Noah Gray
+7,7,Jets,2023-10-08,DEN,Win,31,21,1,22,pass,Jaleel McLaughlin
+8,8,Jets,2023-10-08,DEN,Win,31,21,4,3,pass,Adam Trautman
+9,9,Jets,2023-10-15,PHI,Win,20,14,1,3,rush,Jalen Hurts
+10,10,Jets,2023-10-15,PHI,Win,20,14,2,9,pass,D'Andre Swift
+11,11,Jets,2023-10-29,NYG,Win,13,10,3,6,rush,Tommy DeVito
+12,12,Jets,2023-11-06,LAC,Loss,6,27,1,87,punt,Derius Davis
+13,13,Jets,2023-11-06,LAC,Loss,6,27,1,1,rush,Austin Ekeler
+14,14,Jets,2023-11-06,LAC,Loss,6,27,4,2,rush,Austin Ekeler
+15,15,Jets,2023-11-12,LVR,Loss,12,16,4,7,pass,Michael Mayer
+16,16,Jets,2023-11-19,BUF,Loss,6,32,2,5,pass,James Cook
+17,17,Jets,2023-11-19,BUF,Loss,6,32,3,28,pass,Ty Johnson
+18,18,Jets,2023-11-19,BUF,Loss,6,32,3,81,pass,Khalil Shakir
+19,19,Jets,2023-11-24,MIA,Loss,13,34,2,7,pass,Tyreek Hill
+20,20,Jets,2023-11-24,MIA,Loss,13,34,2,99,interception,Jevon Holland
+21,21,Jets,2023-11-24,MIA,Loss,13,34,4,13,rush,Raheem Mostert
+22,22,Jets,2023-11-24,MIA,Loss,13,34,4,34,rush,Raheem Mostert
+23,23,Jets,2023-12-03,ATL,Loss,8,13,2,20,pass,MyCole Pruitt
+24,24,Jets,2023-12-10,HOU,Win,30,6,3,1,rush,Devin Singletary
+25,25,Jets,2023-12-17,MIA,Loss,0,30,1,2,rush,Raheem Mostert
+26,26,Jets,2023-12-17,MIA,Loss,0,30,2,60,pass,Jaylen Waddle
+27,27,Jets,2023-12-17,MIA,Loss,0,30,2,1,rush,Raheem Mostert
+28,28,Jets,2023-12-24,WAS,Win,30,28,2,12,rush,Chris Rodriguez
+29,29,Jets,2023-12-24,WAS,Win,30,28,3,15,pass,Logan Thomas
+30,30,Jets,2023-12-24,WAS,Win,30,28,4,1,rush,Chris Rodriguez
+31,31,Jets,2023-12-24,WAS,Win,30,28,4,2,rush,Antonio Gibson
+32,32,Jets,2023-12-28,CLE,Loss,20,37,1,7,pass,Jerome Ford
+33,33,Jets,2023-12-28,CLE,Loss,20,37,1,7,rush,Kareem Hunt
+34,34,Jets,2023-12-28,CLE,Loss,20,37,1,30,interception,Ronnie Hickman
+35,35,Jets,2023-12-28,CLE,Loss,20,37,2,8,pass,Elijah Moore
+36,36,Jets,2023-12-28,CLE,Loss,20,37,2,50,pass,Jerome Ford

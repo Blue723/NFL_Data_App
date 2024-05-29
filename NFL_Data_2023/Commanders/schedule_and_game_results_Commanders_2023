@@ -1,19 +1,18 @@
-,Week,Team,Day,Date,Time,Win/Loss,Overtime,Team Record,Home/Away,Opponent,Points Scored,Points Allowed,Offense 1st Down,Total Yards Gained of Offense,Total yards Gained by Passing,Total Yards Gained by Rushing,Offense Turnovers,Defense 1st Down,Total Yards Allowed by Defense,Total Passing Yards Allowed by Defense,Total Rushing Yards Allowed by Defense,Defense Turnovers,Offense,Defense,Sp. Tms,Year
-0,0,Commanders,Sun,September 10,,W,0,1-0,home,Arizona Cardinals,20,16,21,248,156,92,3,13,210,114,96,2,-9.25,19.87,-4.96,2023
-1,1,Commanders,Sun,September 17,,W,0,2-0,away,Denver Broncos,35,33,26,388,266,122,0,21,399,277,122,2,16.73,-11.6,-3.13,2023
-2,2,Commanders,Sun,September 24,,L,0,2-1,home,Buffalo Bills,3,37,15,230,125,105,5,20,386,218,168,1,-23.07,-10.16,1.39,2023
-3,3,1,1,1,1.0,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1.0,1.0,1.0,1
-4,4,Commanders,Thu,October 5,,L,0,2-3,home,Chicago Bears,20,40,23,388,359,29,2,18,451,273,178,0,4.63,-19.81,-0.51,2023
-5,5,Commanders,Sun,October 15,,W,0,3-3,away,Atlanta Falcons,24,16,13,193,121,72,0,25,402,296,106,3,-0.45,5.68,3.28,2023
-6,6,Commanders,Sun,October 22,,L,0,3-4,away,New York Giants,7,14,14,273,197,76,1,16,356,250,106,2,-16.05,3.64,8.94,2023
-7,7,Commanders,Sun,October 29,,L,0,3-5,home,Philadelphia Eagles,31,38,26,472,388,84,1,21,374,315,59,2,10.32,-15.23,-4.32,2023
-8,8,Commanders,Sun,November 5,,W,0,4-5,away,New England Patriots,20,17,23,432,308,124,2,18,327,220,107,1,3.37,-0.28,1.3,2023
-9,9,Commanders,Sun,November 12,,L,0,4-6,away,Seattle Seahawks,26,29,16,356,288,68,1,27,489,369,120,0,7.66,-15.28,2.61,2023
-10,10,Commanders,Sun,November 19,,L,0,4-7,home,New York Giants,19,31,28,404,230,174,6,13,292,201,91,0,-2.78,-0.33,-6.95,2023
-11,11,Commanders,Thu,November 23,,L,0,4-8,away,Dallas Cowboys,10,45,23,376,268,108,1,21,431,331,100,0,-9.65,-25.86,2.36,2023
-12,12,Commanders,Sun,December 3,,L,0,4-9,home,Miami Dolphins,15,45,11,245,107,138,1,20,406,283,123,0,-6.88,-25.98,0.52,2023
-13,13,Commanders,,,,,0,,home,<strong>Bye Week</strong>,0,0,0,0,0,0,0,0,0,0,0,0,,,,2023
-14,14,Commanders,Sun,December 17,,L,0,4-10,away,Los Angeles Rams,20,28,14,297,218,79,1,23,445,249,196,2,-2.14,-8.81,3.33,2023
-15,15,Commanders,Sun,December 24,,L,0,4-11,away,New York Jets,28,30,18,245,143,102,3,26,381,217,164,2,-3.65,15.58,-8.61,2023
-16,16,Commanders,Sun,December 31,,L,0,4-12,home,San Francisco 49ers,10,27,12,225,163,62,2,28,408,224,184,0,-6.62,-16.3,3.5,2023
-17,17,Commanders,Sun,January 7,,L,0,4-13,home,Dallas Cowboys,10,38,12,180,130,50,3,31,440,309,131,1,-9.84,-25.23,7.97,2023
+,Week,Day,Date,Time,Win/Loss,Overtime,Team Record,Home/Away,Opponent,Points Scored,Points Allowed,Offense 1st Down,Total Yards Gained of Offense,Total yards Gained by Passing,Total Yards Gained by Rushing,Offense Turnovers,Defense 1st Down,Total Yards Allowed by Defense,Total Passing Yards Allowed by Defense,Total Rushing Yards Allowed by Defense,Defense Turnovers,Offense,Defense,Sp. Tms,Team,Year
+0,1,Sun,2023-09-10,nan,Win,0,1-0,home,Arizona Cardinals,20,16,21,248,156,92,3,13,210,114,96,2,-9.25,19.87,-4.96,Commanders,2023
+1,2,Sun,2023-09-17,nan,Win,0,2-0,away,Denver Broncos,35,33,26,388,266,122,0,21,399,277,122,2,16.73,-11.6,-3.13,Commanders,2023
+2,3,Sun,2023-09-24,nan,Loss,0,2-1,home,Buffalo Bills,3,37,15,230,125,105,5,20,386,218,168,1,-23.07,-10.16,1.39,Commanders,2023
+3,4,Sun,2023-10-01,nan,Loss,1,2-2,away,Philadelphia Eagles,31,34,26,365,258,107,0,23,415,311,104,0,17.68,-18.21,-2.47,Commanders,2023
+4,5,Thu,2023-10-05,nan,Loss,0,2-3,home,Chicago Bears,20,40,23,388,359,29,2,18,451,273,178,0,4.63,-19.81,-0.51,Commanders,2023
+5,6,Sun,2023-10-15,nan,Win,0,3-3,away,Atlanta Falcons,24,16,13,193,121,72,0,25,402,296,106,3,-0.45,5.68,3.28,Commanders,2023
+6,7,Sun,2023-10-22,nan,Loss,0,3-4,away,New York Giants,7,14,14,273,197,76,1,16,356,250,106,2,-16.05,3.64,8.94,Commanders,2023
+7,8,Sun,2023-10-29,nan,Loss,0,3-5,home,Philadelphia Eagles,31,38,26,472,388,84,1,21,374,315,59,2,10.32,-15.23,-4.32,Commanders,2023
+8,9,Sun,2023-11-05,nan,Win,0,4-5,away,New England Patriots,20,17,23,432,308,124,2,18,327,220,107,1,3.37,-0.28,1.3,Commanders,2023
+9,10,Sun,2023-11-12,nan,Loss,0,4-6,away,Seattle Seahawks,26,29,16,356,288,68,1,27,489,369,120,0,7.66,-15.28,2.61,Commanders,2023
+10,11,Sun,2023-11-19,nan,Loss,0,4-7,home,New York Giants,19,31,28,404,230,174,6,13,292,201,91,0,-2.78,-0.33,-6.95,Commanders,2023
+11,12,Thu,2023-11-23,nan,Loss,0,4-8,away,Dallas Cowboys,10,45,23,376,268,108,1,21,431,331,100,0,-9.65,-25.86,2.36,Commanders,2023
+12,13,Sun,2023-12-03,nan,Loss,0,4-9,home,Miami Dolphins,15,45,11,245,107,138,1,20,406,283,123,0,-6.88,-25.98,0.52,Commanders,2023
+13,15,Sun,2023-12-17,nan,Loss,0,4-10,away,Los Angeles Rams,20,28,14,297,218,79,1,23,445,249,196,2,-2.14,-8.81,3.33,Commanders,2023
+14,16,Sun,2023-12-24,nan,Loss,0,4-11,away,New York Jets,28,30,18,245,143,102,3,26,381,217,164,2,-3.65,15.58,-8.61,Commanders,2023
+15,17,Sun,2023-12-31,nan,Loss,0,4-12,home,San Francisco 49ers,10,27,12,225,163,62,2,28,408,224,184,0,-6.62,-16.3,3.5,Commanders,2023
+16,18,Sun,2024-01-07,nan,Loss,0,4-13,home,Dallas Cowboys,10,38,12,180,130,50,3,31,440,309,131,1,-9.84,-25.23,7.97,Commanders,2023

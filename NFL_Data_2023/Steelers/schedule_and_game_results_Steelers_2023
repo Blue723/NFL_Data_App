@@ -1,21 +1,19 @@
-,Week,Team,Day,Date,Time,Win/Loss,Overtime,Team Record,Home/Away,Opponent,Points Scored,Points Allowed,Offense 1st Down,Total Yards Gained of Offense,Total yards Gained by Passing,Total Yards Gained by Rushing,Offense Turnovers,Defense 1st Down,Total Yards Allowed by Defense,Total Passing Yards Allowed by Defense,Total Rushing Yards Allowed by Defense,Defense Turnovers,Offense,Defense,Sp. Tms,Year
-0,0,Steelers,Sun,September 10,,L,0,0-1,home,San Francisco 49ers,7,30,15,239,198,41,2,22,391,203,188,1,-13.55,-9.73,0.78,2023
-1,1,Steelers,Mon,September 18,,W,0,1-1,home,Cleveland Browns,26,22,9,255,200,55,2,20,408,210,198,4,-16.63,19.51,2.81,2023
-2,2,Steelers,Sun,September 24,,W,0,2-1,away,Las Vegas Raiders,23,18,17,333,228,105,0,19,362,293,69,3,5.43,3.82,0.12,2023
-3,3,Steelers,Sun,October 1,,L,0,2-2,away,Houston Texans,6,30,12,225,111,114,1,24,451,312,139,0,-8.54,-15.66,2.59,2023
-4,4,Steelers,Sun,October 8,,W,0,3-2,home,Baltimore Ravens,17,10,17,289,202,87,1,19,335,210,125,3,-5.08,16.12,-3.84,2023
-5,5,Steelers,,,,,0,,home,<strong>Bye Week</strong>,0,0,0,0,0,0,0,0,0,0,0,0,,,,2023
-6,6,Steelers,Sun,October 22,,W,0,4-2,away,Los Angeles Rams,24,17,17,300,214,86,0,19,354,219,135,1,4.14,-3.06,6.47,2023
-7,7,Steelers,Sun,October 29,,L,0,4-3,home,Jacksonville Jaguars,10,20,17,261,191,70,2,20,377,271,106,3,-3.68,2.59,-2.01,2023
-8,8,Steelers,Thu,November 2,,W,0,5-3,home,Tennessee Titans,20,16,22,326,160,166,0,23,340,235,105,1,10.92,-3.61,-3.77,2023
-9,9,Steelers,Sun,November 12,,W,0,6-3,home,Green Bay Packers,23,19,21,324,119,205,0,17,399,283,116,2,7.06,-8.81,3.18,2023
-10,10,Steelers,Sun,November 19,,L,0,6-4,away,Cleveland Browns,10,13,12,249,77,172,0,20,259,163,96,1,-6.04,6.18,-1.74,2023
-11,11,Steelers,Sun,November 26,,W,0,7-4,away,Cincinnati Bengals,16,10,22,421,268,153,1,10,222,197,25,1,4.32,6.04,-3.05,2023
-12,12,Steelers,Sun,December 3,,L,0,7-5,home,Arizona Cardinals,10,24,18,317,187,130,1,18,282,132,150,0,-2.22,-6.39,-7.39,2023
-13,13,Steelers,Thu,December 7,,L,0,7-6,home,New England Patriots,18,21,18,264,182,82,1,14,303,222,81,1,-9.55,4.53,2.96,2023
-14,14,Steelers,Sat,December 16,,L,0,7-7,away,Indianapolis Colts,13,30,13,216,142,74,3,19,372,202,170,0,-9.21,-11.18,3.34,2023
-15,15,Steelers,Sat,December 23,,W,0,8-7,home,Cincinnati Bengals,34,11,16,397,284,113,0,17,368,309,59,3,15.02,7.25,-1.38,2023
-16,16,Steelers,Sun,December 31,,W,0,9-7,away,Seattle Seahawks,30,23,25,468,266,202,0,17,369,281,88,1,20.36,-7.51,-0.67,2023
-17,17,Steelers,Sat,January 6,,W,0,10-7,away,Baltimore Ravens,17,10,16,289,134,155,2,13,224,118,106,2,-7.1,12.05,3.24,2023
-18,18,Steelers,,<strong>Playoffs</strong>,,,0,,home,,0,0,0,0,0,0,0,0,0,0,0,0,,,,2023
-19,19,Steelers,Mon,January 15,,L,0,10-8,away,Buffalo Bills,17,31,22,324,218,106,2,24,368,189,179,0,-2.33,-16.05,7.99,2023
+,Week,Day,Date,Time,Win/Loss,Overtime,Team Record,Home/Away,Opponent,Points Scored,Points Allowed,Offense 1st Down,Total Yards Gained of Offense,Total yards Gained by Passing,Total Yards Gained by Rushing,Offense Turnovers,Defense 1st Down,Total Yards Allowed by Defense,Total Passing Yards Allowed by Defense,Total Rushing Yards Allowed by Defense,Defense Turnovers,Offense,Defense,Sp. Tms,Team,Year
+0,1,Sun,2023-09-10,nan,Loss,0,0-1,home,San Francisco 49ers,7,30,15,239,198,41,2,22,391,203,188,1,-13.55,-9.73,0.78,Steelers,2023
+1,2,Mon,2023-09-18,nan,Win,0,1-1,home,Cleveland Browns,26,22,9,255,200,55,2,20,408,210,198,4,-16.63,19.51,2.81,Steelers,2023
+2,3,Sun,2023-09-24,nan,Win,0,2-1,away,Las Vegas Raiders,23,18,17,333,228,105,0,19,362,293,69,3,5.43,3.82,0.12,Steelers,2023
+3,4,Sun,2023-10-01,nan,Loss,0,2-2,away,Houston Texans,6,30,12,225,111,114,1,24,451,312,139,0,-8.54,-15.66,2.59,Steelers,2023
+4,5,Sun,2023-10-08,nan,Win,0,3-2,home,Baltimore Ravens,17,10,17,289,202,87,1,19,335,210,125,3,-5.08,16.12,-3.84,Steelers,2023
+5,7,Sun,2023-10-22,nan,Win,0,4-2,away,Los Angeles Rams,24,17,17,300,214,86,0,19,354,219,135,1,4.14,-3.06,6.47,Steelers,2023
+6,8,Sun,2023-10-29,nan,Loss,0,4-3,home,Jacksonville Jaguars,10,20,17,261,191,70,2,20,377,271,106,3,-3.68,2.59,-2.01,Steelers,2023
+7,9,Thu,2023-11-02,nan,Win,0,5-3,home,Tennessee Titans,20,16,22,326,160,166,0,23,340,235,105,1,10.92,-3.61,-3.77,Steelers,2023
+8,10,Sun,2023-11-12,nan,Win,0,6-3,home,Green Bay Packers,23,19,21,324,119,205,0,17,399,283,116,2,7.06,-8.81,3.18,Steelers,2023
+9,11,Sun,2023-11-19,nan,Loss,0,6-4,away,Cleveland Browns,10,13,12,249,77,172,0,20,259,163,96,1,-6.04,6.18,-1.74,Steelers,2023
+10,12,Sun,2023-11-26,nan,Win,0,7-4,away,Cincinnati Bengals,16,10,22,421,268,153,1,10,222,197,25,1,4.32,6.04,-3.05,Steelers,2023
+11,13,Sun,2023-12-03,nan,Loss,0,7-5,home,Arizona Cardinals,10,24,18,317,187,130,1,18,282,132,150,0,-2.22,-6.39,-7.39,Steelers,2023
+12,14,Thu,2023-12-07,nan,Loss,0,7-6,home,New England Patriots,18,21,18,264,182,82,1,14,303,222,81,1,-9.55,4.53,2.96,Steelers,2023
+13,15,Sun,2023-12-16,nan,Loss,0,7-7,away,Indianapolis Colts,13,30,13,216,142,74,3,19,372,202,170,0,-9.21,-11.18,3.34,Steelers,2023
+14,16,Sat,2023-12-23,nan,Win,0,8-7,home,Cincinnati Bengals,34,11,16,397,284,113,0,17,368,309,59,3,15.02,7.25,-1.38,Steelers,2023
+15,17,Sun,2023-12-31,nan,Win,0,9-7,away,Seattle Seahawks,30,23,25,468,266,202,0,17,369,281,88,1,20.36,-7.51,-0.67,Steelers,2023
+16,18,Sat,2024-01-06,nan,Win,0,10-7,away,Baltimore Ravens,17,10,16,289,134,155,2,13,224,118,106,2,-7.1,12.05,3.24,Steelers,2023
+17,20,Mon,2024-01-15,nan,Loss,0,10-8,away,Buffalo Bills,17,31,22,324,218,106,2,24,368,189,179,0,-2.33,-16.05,7.99,Steelers,2023

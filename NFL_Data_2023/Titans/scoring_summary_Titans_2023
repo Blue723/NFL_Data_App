@@ -1,13 +1,13 @@
-,No.,Team,Player,Age,Pos,Games Played,Games Started,Rush TD,Reception TD,Punt Return TD,Kick Return TD,Fumble Return TD,Interception TD,Other TD,All Touchdown Scored,2-Point Conversions Made,Two-Point Conversions Attempted,Defensive Two-Point Conversions,Extra Points Made,Extra Points Allowed,Field Goals Made,Field Goals Attempted,Safeties Scored by Player/Team,Total Points Scored by all Means,Poins per Game,Year
-0,6,Titans,Nick Folk,39,K,17,0,0,0,0,0,0,0,0,0,0,0,0,28,30,29,30,,115,6.8,2023
-1,22,Titans,Derrick Henry,29,RB,17,17,12,0,0,0,0,0,0,12,0,0,0,0,0,0,0,,72,4.2,2023
-2,10,Titans,DeAndre Hopkins,31,WR,17,16,0,7,0,0,0,0,0,7,0,0,0,0,0,0,0,,42,2.5,2023
-3,15,Titans,Nick Westbrook-Ikhine,26,WR,14,9,0,3,0,0,0,0,0,3,1,0,0,0,0,0,0,,20,1.4,2023
-4,32,Titans,Tyjae Spears,22,RB,17,1,2,1,0,0,0,0,0,3,0,0,0,0,0,0,0,,18,1.1,2023
-5,8,Titans,Will Levis,24,QB,9,9,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,,6,0.7,2023
-6,24,Titans,Elijah Molden,24,CB,15,8,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,,6,0.4,2023
-7,85,Titans,Chigoziem Okonkwo,24,TE,17,11,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,,6,0.4,2023
-8,98,Titans,Jeffery Simmons,26,DT,12,12,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,,6,0.5,2023
-9,17,Titans,Ryan Tannehill,35,QB,10,8,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,,6,0.6,2023
-10,81,Titans,Josh Whyle,24,TE,11,3,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,,6,0.5,2023
-11,37,Titans,Amani Hooker,25,DB,13,13,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,,2,0.2,2023
+,No.,Player,Age,Pos,Games Played,Games Started,Rush TD,Reception TD,Punt Return TD,Kick Return TD,Fumble Return TD,Interception TD,Other TD,All Touchdown Scored,2-Point Conversions Made,Two-Point Conversions Attempted,Defensive Two-Point Conversions,Extra Points Made,Extra Points Allowed,Field Goals Made,Field Goals Attempted,Safeties Scored by Player/Team,Total Points Scored by all Means,Poins per Game,Team,Year
+6,6,Nick Folk,39,K,17,0,0,0,0,0,0,0,0,0,0,0,0,28,30,29,30,0,115,6.8,Titans,2023
+22,22,Derrick Henry,29,RB,17,17,12,0,0,0,0,0,0,12,0,0,0,0,0,0,0,0,72,4.2,Titans,2023
+10,10,DeAndre Hopkins,31,WR,17,16,0,7,0,0,0,0,0,7,0,0,0,0,0,0,0,0,42,2.5,Titans,2023
+15,15,Nick Westbrook-Ikhine,26,WR,14,9,0,3,0,0,0,0,0,3,1,0,0,0,0,0,0,0,20,1.4,Titans,2023
+32,32,Tyjae Spears,22,RB,17,1,2,1,0,0,0,0,0,3,0,0,0,0,0,0,0,0,18,1.1,Titans,2023
+8,8,Will Levis,24,QB,9,9,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,6,0.7,Titans,2023
+24,24,Elijah Molden,24,CB,15,8,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,6,0.4,Titans,2023
+85,85,Chigoziem Okonkwo,24,TE,17,11,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,6,0.4,Titans,2023
+98,98,Jeffery Simmons,26,DT,12,12,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,6,0.5,Titans,2023
+17,17,Ryan Tannehill,35,QB,10,8,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,6,0.6,Titans,2023
+81,81,Josh Whyle,24,TE,11,3,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,6,0.5,Titans,2023
+37,37,Amani Hooker,25,DB,13,13,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,2,0.2,Titans,2023

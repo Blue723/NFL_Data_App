@@ -1,5 +1,5 @@
-,No.,Team,Player,Age,Position,Games Played,Games Started,Punts Returned,Punts Return Yardage,Punts Returned for Touchdown,Longest Punt Return,Yards per Punt Return,Kickoff Returns,Yardage for Kickoffs Returned,Kickoffs Returned for a Touchdown,Longest Kickoff Return,Yards per Kickoff Return,All-purpose Yards,Year
-0,83,Cardinals,Greg Dortch,25,WR,16,4,29,275,0,49,9.5,17,360,0,40,21.2,917,2023
-1,82,Cardinals,Andre Baccellia,26,WR,5,0,0,0,0,0,,1,22,0,22,22.0,22,2023
-2,33,Cardinals,Antonio Hamilton,30,CB,14,9,1,0,0,0,0.0,0,0,0,0,,0,2023
-3,4,Cardinals,Rondale Moore,23,WR,17,8,1,11,0,11,11.0,0,0,0,0,,541,2023
+,No.,Player,Age,Position,Games Played,Games Started,Punts Returned,Punts Return Yardage,Punts Returned for Touchdown,Longest Punt Return,Yards per Punt Return,Kickoff Returns,Yardage for Kickoffs Returned,Kickoffs Returned for a Touchdown,Longest Kickoff Return,Yards per Kickoff Return,All-purpose Yards,Team,Year
+83,83,Greg Dortch,25,WR,16,4,29,275,0,49,9.5,17,360,0,40,21.2,917,Cardinals,2023
+82,82,Andre Baccellia,26,WR,5,0,0,0,0,0,0.0,1,22,0,22,22.0,22,Cardinals,2023
+33,33,Antonio Hamilton,30,CB,14,9,1,0,0,0,0.0,0,0,0,0,0.0,0,Cardinals,2023
+4,4,Rondale Moore,23,WR,17,8,1,11,0,11,11.0,0,0,0,0,0.0,541,Cardinals,2023

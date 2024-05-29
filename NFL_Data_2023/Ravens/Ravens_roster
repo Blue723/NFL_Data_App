@@ -1,64 +1,70 @@
-Player,No.,Team,Age,Pos,G,GS,Wt,Ht,College/Univ,BirthDate,Yrs,AV,Drafted (tm/rnd/yr)
-Nelson Agholor,15.0,Ravens,30.0,WR,11,2.0,200.0,6-0,USC,5/24/1993,8,,Philadelphia Eagles / 1st / 20th pick / 2015
-Mark Andrews,89.0,Ravens,28.0,TE,10,9.0,247.0,6-5,Oklahoma,9/6/1995,5,,Baltimore Ravens / 3rd / 86th pick / 2018
-Jalyn Armour-Davis,5.0,Ravens,24.0,CB,5,0.0,197.0,6-1,Alabama,9/3/1999,1,,Baltimore Ravens / 4th / 119th pick / 2022
-Malaesala Aumavae-Laulu,71.0,Ravens,24.0,OL,0,0.0,325.0,6-5,"Navarro,Oregon",5/25/1999,Rook,,Baltimore Ravens / 6th / 199th pick / 2023
-Rashod Bateman,7.0,Ravens,24.0,WR,10,6.0,197.0,6-1,Minnesota,11/29/1999,2,,Baltimore Ravens / 1st / 27th pick / 2021
-Odell Beckham Jr.,3.0,Ravens,31.0,WR,9,4.0,200.0,5-11,LSU,11/5/1992,9,,New York Giants / 1st / 12th pick / 2014
-Ben Cleveland,66.0,Ravens,25.0,G,10,0.0,370.0,6-6,Georgia,8/25/1998,2,,Baltimore Ravens / 3rd / 94th pick / 2021
-Jadeveon Clowney,24.0,Ravens,30.0,OLB,11,9.0,266.0,6-5,South Carolina,2/14/1993,9,,Houston Texans / 1st / 1st pick / 2014
-Ronald Darby,28.0,Ravens,29.0,CB,11,5.0,193.0,5-11,Florida St.,1/2/1994,8,,Buffalo Bills / 2nd / 50th pick / 2015
-Devin Duvernay,13.0,Ravens,26.0,WR,11,1.0,202.0,5-11,Texas,9/12/1997,3,,Baltimore Ravens / 3rd / 92nd pick / 2020
-Gus Edwards,35.0,Ravens,28.0,RB,11,6.0,238.0,6-1,"Miami (FL),Rutgers",4/13/1995,5,,
-Daniel Faalele,77.0,Ravens,24.0,T,10,0.0,380.0,6-6,Minnesota,11/9/1999,1,,Baltimore Ravens / 4th / 110th pick / 2022
-Zay Flowers,4.0,Ravens,23.0,WR,11,11.0,182.0,5-9,Boston Col.,9/11/2000,Rook,,Baltimore Ravens / 1st / 22nd pick / 2023
-Kyle Hamilton,14.0,Ravens,22.0,S,11,11.0,220.0,6-4,Notre Dame,3/16/2001,1,,Baltimore Ravens / 1st / 14th pick / 2022
-Malik Harrison,40.0,Ravens,25.0,LB,11,5.0,259.0,6-3,Ohio St.,3/5/1998,3,,Baltimore Ravens / 3rd / 98th pick / 2020
-Justice Hill,43.0,Ravens,26.0,RB,10,4.0,197.0,5-10,Oklahoma St.,11/14/1997,4,,Baltimore Ravens / 4th / 113th pick / 2019
-Marlon Humphrey,44.0,Ravens,27.0,CB,6,6.0,201.0,6-0,Alabama,7/8/1996,6,,Baltimore Ravens / 1st / 16th pick / 2017
-Tyler Huntley,2.0,Ravens,25.0,QB,3,0.0,204.0,6-1,Utah,2/3/1998,3,,
-Lamar Jackson,8.0,Ravens,26.0,QB,11,11.0,215.0,6-2,Louisville,1/7/1997,5,,Baltimore Ravens / 1st / 32nd pick / 2018
-Josh Johnson,17.0,Ravens,37.0,QB,0,0.0,214.0,6-3,San Diego,5/15/1986,14,,Tampa Bay Buccaneers / 5th / 160th pick / 2008
-Travis Jones,98.0,Ravens,24.0,DT,11,0.0,338.0,6-4,Connecticut,10/15/1999,1,,Baltimore Ravens / 3rd / 76th pick / 2022
-Charlie Kolar,88.0,Ravens,24.0,TE,9,0.0,257.0,6-6,Iowa St.,2/10/1999,1,,Baltimore Ravens / 4th / 128th pick / 2022
-Isaiah Likely,80.0,Ravens,23.0,TE,11,5.0,241.0,6-4,Coastal Carolina,4/18/2000,1,,Baltimore Ravens / 4th / 139th pick / 2022
-Tyler Linderbaum,64.0,Ravens,23.0,C,9,9.0,305.0,6-2,Iowa,4/7/2000,1,,Baltimore Ravens / 1st / 25th pick / 2022
-Justin Madubuike,92.0,Ravens,26.0,DT,11,11.0,305.0,6-3,Texas A&M,11/17/1997,3,,Baltimore Ravens / 3rd / 71st pick / 2020
-Arthur Maulet,10.0,Ravens,30.0,CB,9,2.0,190.0,5-9,Memphis,7/13/1993,6,,
-Patrick Mekari,65.0,Ravens,26.0,OL,11,7.0,305.0,6-4,California,8/13/1997,4,,
-Keaton Mitchell,34.0,Ravens,21.0,RB,5,0.0,191.0,5-8,East Carolina,1/17/2002,Rook,,
-Morgan Moses,78.0,Ravens,32.0,T,8,8.0,320.0,6-6,Virginia,3/3/1991,9,,Washington Redskins / 3rd / 66th pick / 2014
-Sam Mustipher,61.0,Ravens,27.0,C,7,2.0,332.0,6-2,Notre Dame,8/13/1996,3,,
-Tyler Ott,49.0,Ravens,31.0,LS,11,0.0,252.0,6-3,Harvard,2/28/1992,8,,
-Odafe Oweh,99.0,Ravens,25.0,OLB,7,4.0,257.0,6-5,Penn St.,12/15/1998,2,,Baltimore Ravens / 1st / 31st pick / 2021
-Del'Shawn Phillips,53.0,Ravens,27.0,LB,11,0.0,230.0,6-2,Illinois,10/9/1996,3,,
-Michael Pierce,58.0,Ravens,31.0,NT,11,11.0,355.0,6-0,Samford,11/6/1992,7,,
-Patrick Queen,6.0,Ravens,24.0,LB,11,11.0,230.0,6-0,LSU,8/13/1999,3,,Baltimore Ravens / 1st / 28th pick / 2020
-Patrick Ricard,42.0,Ravens,29.0,FB,11,6.0,305.0,6-3,Maine,5/27/1994,6,,
-Tavius Robinson,95.0,Ravens,24.0,OLB,11,1.0,258.0,6-6,"Guelph,Mississippi",1/3/1999,Rook,,Baltimore Ravens / 4th / 124th pick / 2023
-John Simpson,76.0,Ravens,26.0,G,11,11.0,330.0,6-4,Clemson,8/19/1997,3,,Las Vegas Raiders / 4th / 109th pick / 2020
-Trenton Simpson,30.0,Ravens,22.0,LB,10,0.0,238.0,6-2,Clemson,6/14/2001,Rook,,Baltimore Ravens / 3rd / 86th pick / 2023
-Roquan Smith,0.0,Ravens,26.0,LB,11,11.0,236.0,6-1,Georgia,4/8/1997,5,,Chicago Bears / 1st / 8th pick / 2018
-Ronnie Stanley,79.0,Ravens,29.0,T,7,7.0,315.0,6-6,Notre Dame,3/18/1994,7,,Baltimore Ravens / 1st / 6th pick / 2016
-Brandon Stephens,21.0,Ravens,26.0,DB,11,11.0,215.0,6-1,"UCLA,SMU",12/29/1997,2,,Baltimore Ravens / 3rd / 104th pick / 2021
-Geno Stone,26.0,Ravens,24.0,S,11,7.0,210.0,5-11,Iowa,4/19/1999,3,,Baltimore Ravens / 7th / 219th pick / 2020
-Jordan Stout,11.0,Ravens,25.0,P,11,0.0,207.0,6-3,"Virginia Tech,Penn St.",8/4/1998,1,,Baltimore Ravens / 4th / 130th pick / 2022
-Justin Tucker,9.0,Ravens,34.0,K,11,0.0,188.0,6-1,Texas,11/21/1989,11,,
-Brent Urban,97.0,Ravens,32.0,DE,11,0.0,309.0,6-7,Virginia,5/5/1991,8,,Baltimore Ravens / 4th / 134th pick / 2014
-Kyle Van Noy,50.0,Ravens,32.0,OLB,8,1.0,250.0,6-3,BYU,3/26/1991,9,,Detroit Lions / 2nd / 40th pick / 2014
-Tylan Wallace,16.0,Ravens,24.0,WR,5,0.0,198.0,5-11,Oklahoma St.,5/13/1999,2,,Baltimore Ravens / 4th / 131st pick / 2021
-Broderick Washington Jr.,96.0,Ravens,27.0,DT,10,5.0,315.0,6-2,Texas Tech,12/4/1996,3,,Baltimore Ravens / 5th / 170th pick / 2020
-Marcus Williams,32.0,Ravens,27.0,S,5,5.0,207.0,6-1,Utah,9/8/1996,6,,New Orleans Saints / 2nd / 42nd pick / 2017
-Daryl Worley,41.0,Ravens,28.0,CB,7,2.0,210.0,6-1,West Virginia,2/22/1995,7,,Carolina Panthers / 3rd / 77th pick / 2016
-Rock Ya-Sin,23.0,Ravens,27.0,CB,10,0.0,195.0,5-11,Temple,5/23/1996,4,,Indianapolis Colts / 2nd / 34th pick / 2019
-Kevin Zeitler,70.0,Ravens,33.0,G,11,11.0,340.0,6-4,Wisconsin,3/8/1990,11,,Cincinnati Bengals / 1st / 27th pick / 2012
-Tyus Bowser (NON),54.0,Ravens,28.0,OLB,0,0.0,250.0,6-3,Houston,5/23/1995,6,,Baltimore Ravens / 2nd / 47th pick / 2017
-Nick Moore (NON),46.0,Ravens,31.0,LS,0,0.0,260.0,6-2,Georgia,12/9/1992,3,,
-Trayvon Mullen (NON),28.0,Ravens,26.0,CB,0,0.0,190.0,6-2,Clemson,9/20/1997,4,,Oakland Raiders / 2nd / 40th pick / 2019
-Andrew Vorhees (NON),72.0,Ravens,24.0,OL,0,0.0,310.0,,USC,1/21/1999,Rook,,Baltimore Ravens / 7th / 229th pick / 2023
-J.K. Dobbins (IR),27.0,Ravens,25.0,RB,1,1.0,215.0,5-10,Ohio St.,12/17/1998,3,,Baltimore Ravens / 2nd / 55th pick / 2020
-Malik Hamm (IR),59.0,Ravens,23.0,OLB,0,0.0,250.0,6-3,Lafayette,8/26/2000,Rook,,
-David Ojabo (IR),90.0,Ravens,23.0,OLB,3,1.0,265.0,6-4,Michigan,5/17/2000,1,,Baltimore Ravens / 2nd / 45th pick / 2022
-Ar'Darius Washington (IR),29.0,Ravens,24.0,S,2,1.0,177.0,5-8,TCU,11/2/1999,2,,
-Damarion Williams (IR),22.0,Ravens,25.0,CB,0,0.0,180.0,5-10,"Highland (KS),Houston",7/15/1998,1,,Baltimore Ravens / 4th / 141st pick / 2022
-Team Total,,Ravens,26.7,,11,,245.0,6-1.8,,,4.2,,
+,No.,Player,BirthDate,Age,Height,Weight,College/University,Position,Games_Played_in_Season,Games_Started_in_Season,NFL_Years,Player_Value,Team,Year
+0,37.0,Andrew Adams,10/28/1992,31.0,5-11,205.0,Connecticut,S,3,0.0,7.0,0.0,Ravens,2023
+1,15.0,Nelson Agholor,5/24/1993,30.0,6-0,200.0,USC,WR,17,3.0,8.0,4.0,Ravens,2023
+2,89.0,Mark Andrews,9/6/1995,28.0,6-5,247.0,Oklahoma,TE,10,9.0,5.0,6.0,Ravens,2023
+3,5.0,Jalyn Armour-Davis,9/3/1999,24.0,6-1,197.0,Alabama,CB,8,0.0,1.0,0.0,Ravens,2023
+4,7.0,Rashod Bateman,11/29/1999,24.0,6-1,197.0,Minnesota,WR,16,12.0,2.0,4.0,Ravens,2023
+5,3.0,Odell Beckham Jr.,11/5/1992,31.0,5-11,200.0,LSU,WR,14,6.0,9.0,6.0,Ravens,2023
+6,83.0,Dan Chisena,2/25/1997,26.0,6-3,202.0,Penn St.,WR,0,0.0,3.0,,Ravens,2023
+7,66.0,Ben Cleveland,8/25/1998,25.0,6-6,370.0,Georgia,G,16,2.0,2.0,2.0,Ravens,2023
+8,24.0,Jadeveon Clowney,2/14/1993,30.0,6-5,266.0,South Carolina,OLB,17,15.0,9.0,8.0,Ravens,2023
+9,31.0,Dalvin Cook,8/10/1995,28.0,5-10,210.0,Florida St.,RB,0,0.0,6.0,,Ravens,2023
+10,12.0,Malik Cunningham,10/6/1998,25.0,,198.0,Louisville,QB,1,0.0,0.0,0.0,Ravens,2023
+11,28.0,Ronald Darby,1/2/1994,29.0,5-11,193.0,Florida St.,LCB,16,7.0,8.0,3.0,Ravens,2023
+12,27.0,J.K. Dobbins,12/17/1998,25.0,5-10,215.0,Ohio St.,RB,1,1.0,3.0,0.0,Ravens,2023
+13,37.0,Kenyan Drake,1/26/1994,29.0,6-1,216.0,Alabama,RB,2,0.0,7.0,0.0,Ravens,2023
+14,13.0,Devin Duvernay,9/12/1997,26.0,5-11,202.0,Texas,WR,13,1.0,3.0,0.0,Ravens,2023
+15,35.0,Gus Edwards,4/13/1995,28.0,6-1,238.0,"Miami (FL),Rutgers",RB,17,9.0,5.0,7.0,Ravens,2023
+16,77.0,Daniel Faalele,11/9/1999,24.0,6-6,380.0,Minnesota,T,16,0.0,1.0,1.0,Ravens,2023
+17,4.0,Zay Flowers,9/11/2000,23.0,5-9,182.0,Boston Col.,WR,16,16.0,0.0,9.0,Ravens,2023
+18,33.0,Melvin Gordon,4/13/1993,30.0,6-1,215.0,Wisconsin,RB,4,0.0,8.0,1.0,Ravens,2023
+19,14.0,Kyle Hamilton,3/16/2001,22.0,6-4,220.0,Notre Dame,S,15,15.0,1.0,13.0,Ravens,2023
+20,40.0,Malik Harrison,3/5/1998,25.0,6-3,259.0,Ohio St.,LB,14,8.0,3.0,4.0,Ravens,2023
+21,43.0,Justice Hill,11/14/1997,26.0,5-10,197.0,Oklahoma St.,RB,16,5.0,4.0,5.0,Ravens,2023
+22,45.0,DeAndre Houston-Carson,4/13/1993,30.0,6-1,203.0,William & Mary,S,2,0.0,7.0,0.0,Ravens,2023
+23,44.0,Marlon Humphrey,7/8/1996,27.0,6-0,201.0,Alabama,CB,10,10.0,6.0,4.0,Ravens,2023
+24,2.0,Tyler Huntley,2/3/1998,25.0,6-1,204.0,Utah,QB,5,1.0,3.0,1.0,Ravens,2023
+25,8.0,Lamar Jackson,1/7/1997,26.0,6-2,215.0,Louisville,QB,16,16.0,5.0,19.0,Ravens,2023
+26,98.0,Travis Jones,10/15/1999,24.0,6-4,338.0,Connecticut,DT,17,0.0,1.0,1.0,Ravens,2023
+27,88.0,Charlie Kolar,2/10/1999,24.0,6-6,257.0,Iowa St.,TE,15,3.0,1.0,1.0,Ravens,2023
+28,80.0,Isaiah Likely,4/18/2000,23.0,6-4,241.0,Coastal Carolina,TE,17,8.0,1.0,4.0,Ravens,2023
+29,64.0,Tyler Linderbaum,4/7/2000,23.0,6-2,305.0,Iowa,C,15,15.0,1.0,9.0,Ravens,2023
+30,92.0,Justin Madubuike,11/17/1997,26.0,6-3,305.0,Texas A&M,DT,17,17.0,3.0,15.0,Ravens,2023
+31,38.0,Ben Mason,5/25/1999,24.0,6-3,254.0,Michigan,FB,1,0.0,0.0,0.0,Ravens,2023
+32,10.0,Arthur Maulet,7/13/1993,30.0,5-9,190.0,Memphis,CB,14,3.0,6.0,3.0,Ravens,2023
+33,65.0,Patrick Mekari,8/13/1997,26.0,6-4,305.0,California,OL,17,7.0,4.0,4.0,Ravens,2023
+34,34.0,Keaton Mitchell,1/17/2002,21.0,5-8,191.0,East Carolina,RB,8,2.0,0.0,4.0,Ravens,2023
+35,48.0,Jeremiah Moon,8/18/1998,25.0,,250.0,Florida,LB,8,1.0,0.0,1.0,Ravens,2023
+36,78.0,Morgan Moses,3/3/1991,32.0,6-6,320.0,Virginia,T,14,14.0,9.0,8.0,Ravens,2023
+37,61.0,Sam Mustipher,8/13/1996,27.0,6-2,332.0,Notre Dame,C,9,2.0,3.0,2.0,Ravens,2023
+38,90.0,David Ojabo,5/17/2000,23.0,6-4,265.0,Michigan,OLB,3,1.0,1.0,1.0,Ravens,2023
+39,49.0,Tyler Ott,2/28/1992,31.0,6-3,252.0,Harvard,LS,17,0.0,8.0,1.0,Ravens,2023
+40,99.0,Odafe Oweh,12/15/1998,25.0,6-5,257.0,Penn St.,OLB,13,5.0,2.0,3.0,Ravens,2023
+41,53.0,Del'Shawn Phillips,10/9/1996,27.0,6-2,230.0,Illinois,LB,17,1.0,3.0,2.0,Ravens,2023
+42,58.0,Michael Pierce,11/6/1992,31.0,6-0,355.0,Samford,NT,17,17.0,7.0,8.0,Ravens,2023
+43,6.0,Patrick Queen,8/13/1999,24.0,6-0,230.0,LSU,LB,17,17.0,3.0,15.0,Ravens,2023
+44,42.0,Patrick Ricard,5/27/1994,29.0,6-3,305.0,Maine,FB,17,9.0,6.0,1.0,Ravens,2023
+45,95.0,Tavius Robinson,1/3/1999,24.0,6-6,258.0,"Guelph,Mississippi",OLB,17,1.0,0.0,2.0,Ravens,2023
+46,51.0,Josh Ross,10/31/1999,24.0,6-0,229.0,Michigan,LB,3,0.0,1.0,0.0,Ravens,2023
+47,25.0,Kevon Seymour,11/30/1993,30.0,6-0,188.0,USC,CB,8,0.0,7.0,1.0,Ravens,2023
+48,76.0,John Simpson,8/19/1997,26.0,6-4,330.0,Clemson,G,17,17.0,3.0,8.0,Ravens,2023
+49,30.0,Trenton Simpson,6/14/2001,22.0,6-2,238.0,Clemson,LB,15,0.0,0.0,2.0,Ravens,2023
+50,0.0,Roquan Smith,4/8/1997,26.0,6-1,236.0,Georgia,LB,16,16.0,5.0,17.0,Ravens,2023
+51,79.0,Ronnie Stanley,3/18/1994,29.0,6-6,315.0,Notre Dame,T,13,13.0,7.0,8.0,Ravens,2023
+52,21.0,Brandon Stephens,12/29/1997,26.0,6-1,215.0,"UCLA,SMU",DB,16,16.0,2.0,6.0,Ravens,2023
+53,26.0,Geno Stone,4/19/1999,24.0,5-11,210.0,Iowa,SS/FS,17,11.0,3.0,6.0,Ravens,2023
+54,11.0,Jordan Stout,8/4/1998,25.0,6-3,207.0,"Virginia Tech,Penn St.",P,17,0.0,1.0,2.0,Ravens,2023
+55,18.0,Laquon Treadwell,6/14/1995,28.0,6-2,215.0,Mississippi,WR,5,1.0,7.0,0.0,Ravens,2023
+56,9.0,Justin Tucker,11/21/1989,34.0,6-1,188.0,Texas,K,17,0.0,11.0,3.0,Ravens,2023
+57,97.0,Brent Urban,5/5/1991,32.0,6-7,309.0,Virginia,DE,17,3.0,8.0,3.0,Ravens,2023
+58,50.0,Kyle Van Noy,3/26/1991,32.0,6-3,250.0,BYU,OLB,14,3.0,9.0,3.0,Ravens,2023
+59,16.0,Tylan Wallace,5/13/1999,24.0,5-11,198.0,Oklahoma St.,WR,11,0.0,2.0,1.0,Ravens,2023
+60,29.0,Ar'Darius Washington,11/2/1999,24.0,5-8,177.0,TCU,S,2,1.0,2.0,0.0,Ravens,2023
+61,96.0,Broderick Washington Jr.,12/4/1996,27.0,6-2,315.0,Texas Tech,DT,16,5.0,3.0,4.0,Ravens,2023
+62,22.0,Damarion Williams,7/15/1998,25.0,5-10,180.0,"Highland (KS),Houston",CB,1,0.0,1.0,0.0,Ravens,2023
+63,32.0,Marcus Williams,9/8/1996,27.0,6-1,207.0,Utah,S,11,11.0,6.0,4.0,Ravens,2023
+64,41.0,Daryl Worley,2/22/1995,28.0,6-1,210.0,West Virginia,CB,12,2.0,7.0,1.0,Ravens,2023
+65,36.0,Owen Wright,2/28/1999,24.0,5-9,217.0,"William & Mary,Monmouth",RB,1,0.0,0.0,0.0,Ravens,2023
+66,23.0,Rock Ya-Sin,5/23/1996,27.0,5-11,195.0,Temple,CB,14,1.0,4.0,1.0,Ravens,2023
+67,70.0,Kevin Zeitler,3/8/1990,33.0,6-4,340.0,Wisconsin,G,15,15.0,11.0,9.0,Ravens,2023
+68,,Team Total,,26.7,6-1.6,241.8,,,17,,4.0,,Ravens,2023

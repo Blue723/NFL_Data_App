@@ -1,15 +1,15 @@
-,No.,Team,Player,Age,Pos,Games Played,Games Started,Rush TD,Reception TD,Punt Return TD,Kick Return TD,Fumble Return TD,Interception TD,Other TD,All Touchdown Scored,2-Point Conversions Made,Two-Point Conversions Attempted,Defensive Two-Point Conversions,Extra Points Made,Extra Points Allowed,Field Goals Made,Field Goals Attempted,Safeties Scored by Player/Team,Total Points Scored by all Means,Poins per Game,Year
-0,8,Bears,Cairo Santos,32,K,17,0,0,0,0,0,0,0,0,0,0,0,0,31,33,35,38,,136,8.0,2023
-1,2,Bears,D.J. Moore,26,WR,17,17,1,8,0,0,0,0,0,9,0,0,0,0,0,0,0,,54,3.2,2023
-2,85,Bears,Cole Kmet,24,TE,17,17,0,6,0,0,0,0,0,6,0,0,0,0,0,0,0,,36,2.1,2023
-3,21,Bears,D'Onta Foreman,27,RB,9,8,4,1,0,0,0,0,0,5,0,0,0,0,0,0,0,,30,3.3,2023
-4,1,Bears,Justin Fields,24,QB,13,13,4,0,0,0,0,0,0,4,0,0,0,0,0,0,0,,24,1.8,2023
-5,24,Bears,Khalil Herbert,25,RB,12,9,2,1,0,0,0,0,0,3,1,0,0,0,0,0,0,,20,1.7,2023
-6,17,Bears,Tyson Bagent,23,QB,5,4,2,0,0,0,0,0,0,2,0,0,0,0,0,0,0,,12,2.4,2023
-7,23,Bears,Roschon Johnson,22,RB,15,0,2,0,0,0,0,0,0,2,0,0,0,0,0,0,0,,12,0.8,2023
-8,10,Bears,Chase Claypool,25,WR,3,2,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,,6,2.0,2023
-9,49,Bears,Tremaine Edmunds,25,LB,15,15,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,,6,0.4,2023
-10,25,Bears,Darrynton Evans,25,RB,5,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,,6,1.2,2023
-11,33,Bears,Jaylon Johnson,24,DB,14,14,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,,6,0.4,2023
-12,84,Bears,Marcedes Lewis,39,TE,17,4,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,,6,0.4,2023
-13,11,Bears,Darnell Mooney,26,WR,15,14,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,,6,0.4,2023
+,No.,Player,Age,Pos,Games Played,Games Started,Rush TD,Reception TD,Punt Return TD,Kick Return TD,Fumble Return TD,Interception TD,Other TD,All Touchdown Scored,2-Point Conversions Made,Two-Point Conversions Attempted,Defensive Two-Point Conversions,Extra Points Made,Extra Points Allowed,Field Goals Made,Field Goals Attempted,Safeties Scored by Player/Team,Total Points Scored by all Means,Poins per Game,Team,Year
+8,8,Cairo Santos,32,K,17,0,0,0,0,0,0,0,0,0,0,0,0,31,33,35,38,0,136,8.0,Bears,2023
+2,2,D.J. Moore,26,WR,17,17,1,8,0,0,0,0,0,9,0,0,0,0,0,0,0,0,54,3.2,Bears,2023
+85,85,Cole Kmet,24,TE,17,17,0,6,0,0,0,0,0,6,0,0,0,0,0,0,0,0,36,2.1,Bears,2023
+21,21,D'Onta Foreman,27,RB,9,8,4,1,0,0,0,0,0,5,0,0,0,0,0,0,0,0,30,3.3,Bears,2023
+1,1,Justin Fields,24,QB,13,13,4,0,0,0,0,0,0,4,0,0,0,0,0,0,0,0,24,1.8,Bears,2023
+24,24,Khalil Herbert,25,RB,12,9,2,1,0,0,0,0,0,3,1,0,0,0,0,0,0,0,20,1.7,Bears,2023
+17,17,Tyson Bagent,23,QB,5,4,2,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,12,2.4,Bears,2023
+23,23,Roschon Johnson,22,RB,15,0,2,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,12,0.8,Bears,2023
+10,10,Chase Claypool,25,WR,3,2,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,6,2.0,Bears,2023
+49,49,Tremaine Edmunds,25,LB,15,15,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,6,0.4,Bears,2023
+25,25,Darrynton Evans,25,RB,5,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,6,1.2,Bears,2023
+33,33,Jaylon Johnson,24,DB,14,14,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,6,0.4,Bears,2023
+84,84,Marcedes Lewis,39,TE,17,4,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,6,0.4,Bears,2023
+11,11,Darnell Mooney,26,WR,15,14,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,6,0.4,Bears,2023

@@ -1,3 +1,3 @@
-,No.,Team,Player,Age,Position,Games Played,Games Started,Punts Returned,Punts Return Yardage,Punts Returned for Touchdown,Longest Punt Return,Yards per Punt Return,Kickoff Returns,Yardage for Kickoffs Returned,Kickoffs Returned for a Touchdown,Longest Kickoff Return,Yards per Kickoff Return,All-purpose Yards,Year
-0,12,Chargers,Derius Davis,23,WR,17,2,24,385,1,87,16.0,17,374,0,46,22.0,926,2023
-1,25,Chargers,Joshua Kelley,26,RB,17,3,0,0,0,0,,1,16,0,16,16.0,453,2023
+,No.,Player,Age,Position,Games Played,Games Started,Punts Returned,Punts Return Yardage,Punts Returned for Touchdown,Longest Punt Return,Yards per Punt Return,Kickoff Returns,Yardage for Kickoffs Returned,Kickoffs Returned for a Touchdown,Longest Kickoff Return,Yards per Kickoff Return,All-purpose Yards,Team,Year
+12,12,Derius Davis,23,WR,17,2,24,385,1,87,16.0,17,374,0,46,22.0,926,Chargers,2023
+25,25,Joshua Kelley,26,RB,17,3,0,0,0,0,0.0,1,16,0,16,16.0,453,Chargers,2023

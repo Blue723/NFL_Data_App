@@ -1,9 +1,9 @@
-,No.,Team,Player,Age,Position,Games Played,Games Started,Punts Returned,Punts Return Yardage,Punts Returned for Touchdown,Longest Punt Return,Yards per Punt Return,Kickoff Returns,Yardage for Kickoffs Returned,Kickoffs Returned for a Touchdown,Longest Kickoff Return,Yards per Kickoff Return,All-purpose Yards,Year
-0,3,Texans,Tank Dell,24,WR,11,8,11,100,0,20,9.1,2,44,0,23,22.0,904,2023
-1,25,Texans,Desmond King,29,CB,7,3,8,101,0,22,12.6,1,23,0,23,23.0,124,2023
-2,31,Texans,Dameon Pierce,23,RB,14,7,0,0,0,0,,7,225,1,98,32.1,742,2023
-3,82,Texans,Steven Sims,26,WR,3,0,4,49,0,18,12.3,3,71,0,29,23.7,146,2023
-4,2,Texans,Robert Woods,31,WR,14,11,7,42,0,12,6.0,0,0,0,0,,475,2023
-5,22,Texans,Mike Boone,28,S,9,0,0,0,0,0,,4,66,0,25,16.5,129,2023
-6,26,Texans,Devin Singletary,26,RB,17,10,0,0,0,0,,4,90,0,35,22.5,1181,2023
-7,47,Texans,Andrew Beck,27,FB,15,12,0,0,0,0,,2,94,1,85,47.0,152,2023
+,No.,Player,Age,Position,Games Played,Games Started,Punts Returned,Punts Return Yardage,Punts Returned for Touchdown,Longest Punt Return,Yards per Punt Return,Kickoff Returns,Yardage for Kickoffs Returned,Kickoffs Returned for a Touchdown,Longest Kickoff Return,Yards per Kickoff Return,All-purpose Yards,Team,Year
+3,3,Tank Dell,24,WR,11,8,11,100,0,20,9.1,2,44,0,23,22.0,904,Texans,2023
+25,25,Desmond King,29,CB,7,3,8,101,0,22,12.6,1,23,0,23,23.0,124,Texans,2023
+31,31,Dameon Pierce,23,RB,14,7,0,0,0,0,0.0,7,225,1,98,32.1,742,Texans,2023
+82,82,Steven Sims,26,WR,3,0,4,49,0,18,12.3,3,71,0,29,23.7,146,Texans,2023
+2,2,Robert Woods,31,WR,14,11,7,42,0,12,6.0,0,0,0,0,0.0,475,Texans,2023
+22,22,Mike Boone,28,S,9,0,0,0,0,0,0.0,4,66,0,25,16.5,129,Texans,2023
+26,26,Devin Singletary,26,RB,17,10,0,0,0,0,0.0,4,90,0,35,22.5,1181,Texans,2023
+47,47,Andrew Beck,27,FB,15,12,0,0,0,0,0.0,2,94,1,85,47.0,152,Texans,2023

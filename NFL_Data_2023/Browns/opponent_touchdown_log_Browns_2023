@@ -1,45 +1,45 @@
-,Rank,Team,Date,Opponent,Win/Loss,Score,Quarter,Distance,Type,Detail,Year
-0,1,Browns,09/18/2023,PIT,Loss, 22-26,1,30,interception,Alex Highsmith,2023
-1,2,Browns,09/18/2023,PIT,Loss, 22-26,2,71,pass,George Pickens,2023
-2,3,Browns,09/18/2023,PIT,Loss, 22-26,4,16,fumble,T.J. Watt,2023
-3,4,Browns,10/01/2023,BAL,Loss, 3-28,1,10,rush,Lamar Jackson,2023
-4,5,Browns,10/01/2023,BAL,Loss, 3-28,2,2,rush,Lamar Jackson,2023
-5,6,Browns,10/01/2023,BAL,Loss, 3-28,2,7,pass,Mark Andrews,2023
-6,7,Browns,10/01/2023,BAL,Loss, 3-28,4,18,pass,Mark Andrews,2023
-7,8,Browns,10/15/2023,SFO,Win, 19-17,1,13,pass,Christian McCaffrey,2023
-8,9,Browns,10/15/2023,SFO,Win, 19-17,4,8,rush,Jordan Mason,2023
-9,10,Browns,10/22/2023,IND,Win, 39-38,1,59,pass,Josh Downs,2023
-10,11,Browns,10/22/2023,IND,Win, 39-38,1,17,rush,Gardner Minshew II,2023
-11,12,Browns,10/22/2023,IND,Win, 39-38,2,4,rush,Gardner Minshew II,2023
-12,13,Browns,10/22/2023,IND,Win, 39-38,3,5,rush,Jonathan Taylor,2023
-13,14,Browns,10/22/2023,IND,Win, 39-38,4,75,pass,Michael Pittman Jr.,2023
-14,15,Browns,10/29/2023,SEA,Loss, 20-24,1,3,rush,Jake Bobo,2023
-15,16,Browns,10/29/2023,SEA,Loss, 20-24,1,12,pass,Tyler Lockett,2023
-16,17,Browns,10/29/2023,SEA,Loss, 20-24,4,9,pass,Jaxon Smith-Njigba,2023
-17,18,Browns,11/12/2023,BAL,Win, 33-31,1,18,interception,Kyle Hamilton,2023
-18,19,Browns,11/12/2023,BAL,Win, 33-31,1,39,rush,Keaton Mitchell,2023
-19,20,Browns,11/12/2023,BAL,Win, 33-31,3,40,pass,Odell Beckham Jr.,2023
-20,21,Browns,11/12/2023,BAL,Win, 33-31,4,1,rush,Gus Edwards,2023
-21,22,Browns,11/19/2023,PIT,Win, 13-10,3,74,rush,Jaylen Warren,2023
-22,23,Browns,11/26/2023,DEN,Loss, 12-29,1,3,rush,Samaje Perine,2023
-23,24,Browns,11/26/2023,DEN,Loss, 12-29,2,2,rush,Russell Wilson,2023
-24,25,Browns,11/26/2023,DEN,Loss, 12-29,4,8,pass,Adam Trautman,2023
-25,26,Browns,12/03/2023,LAR,Loss, 19-36,1,70,pass,Puka Nacua,2023
-26,27,Browns,12/03/2023,LAR,Loss, 19-36,3,7,pass,Demarcus Robinson,2023
-27,28,Browns,12/03/2023,LAR,Loss, 19-36,4,3,pass,Cooper Kupp,2023
-28,29,Browns,12/03/2023,LAR,Loss, 19-36,4,1,rush,Kyren Williams,2023
-29,30,Browns,12/10/2023,JAX,Win, 31-27,2,10,pass,Evan Engram,2023
-30,31,Browns,12/10/2023,JAX,Win, 31-27,3,1,rush,Travis Etienne,2023
-31,32,Browns,12/10/2023,JAX,Win, 31-27,4,19,pass,Parker Washington,2023
-32,33,Browns,12/10/2023,JAX,Win, 31-27,4,2,pass,Evan Engram,2023
-33,34,Browns,12/17/2023,CHI,Win, 20-17,2,5,pass,Cole Kmet,2023
-34,35,Browns,12/17/2023,CHI,Win, 20-17,3,45,interception,Tremaine Edmunds,2023
-35,36,Browns,12/24/2023,HOU,Win, 36-22,2,98,kickoff,Dameon Pierce,2023
-36,37,Browns,12/24/2023,HOU,Win, 36-22,4,5,pass,Nico Collins,2023
-37,38,Browns,12/24/2023,HOU,Win, 36-22,4,1,pass,Andrew Beck,2023
-38,39,Browns,12/28/2023,NYJ,Win, 37-20,1,21,pass,Breece Hall,2023
-39,40,Browns,12/28/2023,NYJ,Win, 37-20,2,37,interception,Jermaine Johnson II,2023
-40,41,Browns,01/07/2024,CIN,Loss, 14-31,1,1,rush,Joe Mixon,2023
-41,42,Browns,01/07/2024,CIN,Loss, 14-31,1,6,pass,Joe Mixon,2023
-42,43,Browns,01/07/2024,CIN,Loss, 14-31,2,3,pass,Andrei Iosivas,2023
-43,44,Browns,01/07/2024,CIN,Loss, 14-31,3,7,pass,Andrei Iosivas,2023
+,Rank,Team,Date,Opponent,Win/Loss,Home_Score,Opponenet_Score,Quarter,Distance,Type,Detail
+1,1,Browns,2023-09-18,PIT,Loss,22,26,1,30,interception,Alex Highsmith
+2,2,Browns,2023-09-18,PIT,Loss,22,26,2,71,pass,George Pickens
+3,3,Browns,2023-09-18,PIT,Loss,22,26,4,16,fumble,T.J. Watt
+4,4,Browns,2023-10-01,BAL,Loss,3,28,1,10,rush,Lamar Jackson
+5,5,Browns,2023-10-01,BAL,Loss,3,28,2,2,rush,Lamar Jackson
+6,6,Browns,2023-10-01,BAL,Loss,3,28,2,7,pass,Mark Andrews
+7,7,Browns,2023-10-01,BAL,Loss,3,28,4,18,pass,Mark Andrews
+8,8,Browns,2023-10-15,SFO,Win,19,17,1,13,pass,Christian McCaffrey
+9,9,Browns,2023-10-15,SFO,Win,19,17,4,8,rush,Jordan Mason
+10,10,Browns,2023-10-22,IND,Win,39,38,1,59,pass,Josh Downs
+11,11,Browns,2023-10-22,IND,Win,39,38,1,17,rush,Gardner Minshew II
+12,12,Browns,2023-10-22,IND,Win,39,38,2,4,rush,Gardner Minshew II
+13,13,Browns,2023-10-22,IND,Win,39,38,3,5,rush,Jonathan Taylor
+14,14,Browns,2023-10-22,IND,Win,39,38,4,75,pass,Michael Pittman Jr.
+15,15,Browns,2023-10-29,SEA,Loss,20,24,1,3,rush,Jake Bobo
+16,16,Browns,2023-10-29,SEA,Loss,20,24,1,12,pass,Tyler Lockett
+17,17,Browns,2023-10-29,SEA,Loss,20,24,4,9,pass,Jaxon Smith-Njigba
+18,18,Browns,2023-11-12,BAL,Win,33,31,1,18,interception,Kyle Hamilton
+19,19,Browns,2023-11-12,BAL,Win,33,31,1,39,rush,Keaton Mitchell
+20,20,Browns,2023-11-12,BAL,Win,33,31,3,40,pass,Odell Beckham Jr.
+21,21,Browns,2023-11-12,BAL,Win,33,31,4,1,rush,Gus Edwards
+22,22,Browns,2023-11-19,PIT,Win,13,10,3,74,rush,Jaylen Warren
+23,23,Browns,2023-11-26,DEN,Loss,12,29,1,3,rush,Samaje Perine
+24,24,Browns,2023-11-26,DEN,Loss,12,29,2,2,rush,Russell Wilson
+25,25,Browns,2023-11-26,DEN,Loss,12,29,4,8,pass,Adam Trautman
+26,26,Browns,2023-12-03,LAR,Loss,19,36,1,70,pass,Puka Nacua
+27,27,Browns,2023-12-03,LAR,Loss,19,36,3,7,pass,Demarcus Robinson
+28,28,Browns,2023-12-03,LAR,Loss,19,36,4,3,pass,Cooper Kupp
+29,29,Browns,2023-12-03,LAR,Loss,19,36,4,1,rush,Kyren Williams
+30,30,Browns,2023-12-10,JAX,Win,31,27,2,10,pass,Evan Engram
+31,31,Browns,2023-12-10,JAX,Win,31,27,3,1,rush,Travis Etienne
+32,32,Browns,2023-12-10,JAX,Win,31,27,4,19,pass,Parker Washington
+33,33,Browns,2023-12-10,JAX,Win,31,27,4,2,pass,Evan Engram
+34,34,Browns,2023-12-17,CHI,Win,20,17,2,5,pass,Cole Kmet
+35,35,Browns,2023-12-17,CHI,Win,20,17,3,45,interception,Tremaine Edmunds
+36,36,Browns,2023-12-24,HOU,Win,36,22,2,98,kickoff,Dameon Pierce
+37,37,Browns,2023-12-24,HOU,Win,36,22,4,5,pass,Nico Collins
+38,38,Browns,2023-12-24,HOU,Win,36,22,4,1,pass,Andrew Beck
+39,39,Browns,2023-12-28,NYJ,Win,37,20,1,21,pass,Breece Hall
+40,40,Browns,2023-12-28,NYJ,Win,37,20,2,37,interception,Jermaine Johnson II
+41,41,Browns,2024-01-07,CIN,Loss,14,31,1,1,rush,Joe Mixon
+42,42,Browns,2024-01-07,CIN,Loss,14,31,1,6,pass,Joe Mixon
+43,43,Browns,2024-01-07,CIN,Loss,14,31,2,3,pass,Andrei Iosivas
+44,44,Browns,2024-01-07,CIN,Loss,14,31,3,7,pass,Andrei Iosivas

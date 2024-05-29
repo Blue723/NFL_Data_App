@@ -1,64 +1,70 @@
-Player,No.,Team,Age,Pos,G,GS,Wt,Ht,College/Univ,BirthDate,Yrs,AV,Drafted (tm/rnd/yr)
-Ameer Abdullah,22.0,Raiders,30.0,RB,10,0.0,203.0,5-9,Nebraska,6/13/1993,8,,Detroit Lions / 2nd / 54th pick / 2015
-Davante Adams,17.0,Raiders,31.0,WR,10,10.0,215.0,6-1,Fresno St.,12/24/1992,9,,Green Bay Packers / 2nd / 53rd pick / 2014
-Jakorian Bennett,0.0,Raiders,23.0,CB,8,4.0,195.0,,"Hutchinson (KS),Maryland",8/23/2000,Rook,,Las Vegas Raiders / 4th / 104th pick / 2023
-Jacob Bobenmoyer,50.0,Raiders,26.0,LS,10,0.0,235.0,6-2,Northern Colorado,5/28/1997,3,,
-Brandon Bolden,34.0,Raiders,33.0,RB,10,0.0,220.0,5-11,Mississippi,1/26/1990,11,,
-Curtis Bolton,36.0,Raiders,28.0,LB,6,0.0,228.0,6-0,Oklahoma,12/18/1995,2,,
-Amari Burney,56.0,Raiders,23.0,LB,3,1.0,228.0,,Florida,6/12/2000,Rook,,Las Vegas Raiders / 6th / 203rd pick / 2023
-Adam Butler,69.0,Raiders,29.0,DT,10,0.0,300.0,6-5,Vanderbilt,4/12/1994,6,,
-Daniel Carlson,2.0,Raiders,28.0,K,10,0.0,215.0,6-5,Auburn,1/23/1995,5,,Minnesota Vikings / 5th / 167th pick / 2018
-DeAndre Carter,3.0,Raiders,30.0,WR,10,1.0,190.0,5-8,Sacramento St.,4/10/1993,5,,
-AJ Cole III,6.0,Raiders,28.0,P,10,0.0,220.0,6-4,North Carolina St.,11/27/1995,4,,
-Maxx Crosby,98.0,Raiders,26.0,DE,10,10.0,255.0,6-5,Eastern Michigan,8/22/1997,4,,Oakland Raiders / 4th / 106th pick / 2019
-Divine Deablo,5.0,Raiders,25.0,LB,8,8.0,223.0,6-3,Virginia Tech,8/17/1998,2,,Las Vegas Raiders / 3rd / 80th pick / 2021
-Jermaine Eluemunor,72.0,Raiders,29.0,OL,10,7.0,330.0,6-4,"Lackawanna,Texas A&M",12/13/1994,6,,Baltimore Ravens / 5th / 159th pick / 2017
-Marcus Epps,1.0,Raiders,27.0,S,10,10.0,191.0,6-0,Wyoming,1/27/1996,4,,Minnesota Vikings / 6th / 191st pick / 2019
-Jimmy Garoppolo,10.0,Raiders,32.0,QB,6,6.0,225.0,6-2,Eastern Illinois,11/2/1991,9,,New England Patriots / 2nd / 62nd pick / 2014
-Hroniss Grasu,65.0,Raiders,32.0,C,0,0.0,301.0,6-3,Oregon,8/12/1991,8,,Chicago Bears / 3rd / 71st pick / 2015
-Tyler Hall,37.0,Raiders,25.0,CB,6,2.0,190.0,5-10,Wyoming,10/31/1998,3,,
-Justin Herron,71.0,Raiders,28.0,T,3,1.0,290.0,6-5,Wake Forest,11/27/1995,3,,New England Patriots / 6th / 195th pick / 2020
-Nate Hobbs,39.0,Raiders,24.0,CB,6,4.0,195.0,6-0,Illinois,6/24/1999,2,,Las Vegas Raiders / 5th / 167th pick / 2021
-Austin Hooper,81.0,Raiders,29.0,TE,10,4.0,254.0,6-4,Stanford,10/29/1994,7,,Atlanta Falcons / 3rd / 81st pick / 2016
-Jesper Horsted,80.0,Raiders,26.0,TE,10,0.0,237.0,6-3,Princeton,2/27/1997,4,,
-Brian Hoyer,7.0,Raiders,38.0,QB,3,1.0,215.0,6-2,Michigan St.,10/13/1985,14,,
-Josh Jacobs,8.0,Raiders,25.0,RB,10,10.0,223.0,5-10,Alabama,2/11/1998,4,,Oakland Raiders / 1st / 24th pick / 2019
-Andre James,68.0,Raiders,26.0,C,10,10.0,300.0,6-4,UCLA,5/2/1997,4,,
-John Jenkins,95.0,Raiders,34.0,DT,10,10.0,327.0,6-3,"Mississippi Gulf Coast CC,Georgia",7/11/1989,10,,New Orleans Saints / 3rd / 82nd pick / 2013
-Jack Jones,18.0,Raiders,26.0,CB,0,0.0,180.0,5-11,"USC,Moorpark College,Arizona St.",12/20/1997,1,,New England Patriots / 4th / 121st pick / 2022
-Malcolm Koonce,51.0,Raiders,25.0,DE,10,7.0,250.0,6-3,Buffalo,6/6/1998,2,,Las Vegas Raiders / 3rd / 79th pick / 2021
-Luke Masterson,59.0,Raiders,25.0,LB,9,1.0,220.0,6-1,Wake Forest,1/7/1998,1,,
-Michael Mayer,87.0,Raiders,22.0,TE,10,8.0,265.0,,Notre Dame,7/6/2001,Rook,,Las Vegas Raiders / 2nd / 35th pick / 2023
-Jordan Meredith,61.0,Raiders,25.0,G,10,0.0,300.0,6-2,Western Kentucky,1/4/1998,1,,
-Jakobi Meyers,16.0,Raiders,27.0,WR,9,9.0,200.0,6-2,North Carolina St.,11/9/1996,4,,
-Kolton Miller,74.0,Raiders,28.0,T,9,9.0,325.0,6-8,UCLA,10/9/1995,5,,Oakland Raiders / 1st / 15th pick / 2018
-Tre'von Moehrig,25.0,Raiders,24.0,S,10,10.0,202.0,6-2,TCU,6/16/1999,2,,Las Vegas Raiders / 2nd / 43rd pick / 2021
-Thayer Munford,77.0,Raiders,24.0,T,9,5.0,315.0,6-6,Ohio St.,9/18/1999,1,,Las Vegas Raiders / 7th / 238th pick / 2022
-Bilal Nichols,91.0,Raiders,27.0,DT,10,10.0,313.0,6-3,Delaware,9/14/1996,5,,Chicago Bears / 5th / 145th pick / 2018
-Aidan O'Connell,4.0,Raiders,25.0,QB,4,3.0,210.0,,Purdue,9/1/1998,Rook,,Las Vegas Raiders / 4th / 135th pick / 2023
-Dylan Parham,66.0,Raiders,24.0,G,10,10.0,285.0,6-3,Memphis,8/24/1999,1,,Las Vegas Raiders / 3rd / 90th pick / 2022
-Brandon Parker,75.0,Raiders,28.0,T,1,0.0,320.0,6-8,North Carolina A&T,10/21/1995,5,,Oakland Raiders / 3rd / 65th pick / 2018
-Marcus Peters,24.0,Raiders,30.0,CB,10,10.0,197.0,6-0,Washington,1/9/1993,8,,Kansas City Chiefs / 1st / 18th pick / 2015
-Isaiah Pola-Mao,20.0,Raiders,24.0,S,9,0.0,205.0,6-4,USC,6/30/1999,1,,
-Malik Reed,52.0,Raiders,27.0,LB,2,1.0,245.0,6-2,Nevada,8/5/1996,4,,
-Hunter Renfrow,13.0,Raiders,28.0,WR,10,2.0,185.0,5-10,Clemson,12/21/1995,4,,Oakland Raiders / 5th / 149th pick / 2019
-Amik Robertson,21.0,Raiders,25.0,CB,10,7.0,183.0,5-9,Louisiana Tech,7/6/1998,3,,Las Vegas Raiders / 4th / 139th pick / 2020
-Nesta Jade Silvera,99.0,Raiders,23.0,DT,2,0.0,315.0,,"Miami (FL),Arizona St.",1/23/2000,Rook,,Las Vegas Raiders / 7th / 231st pick / 2023
-Christopher Smith,29.0,Raiders,23.0,S,5,0.0,195.0,,Georgia,5/1/2000,Rook,,Las Vegas Raiders / 5th / 170th pick / 2023
-Jaylon Smith,15.0,Raiders,28.0,LB,1,0.0,240.0,6-2,Notre Dame,6/14/1995,6,,Dallas Cowboys / 2nd / 34th pick / 2016
-Robert Spillane,41.0,Raiders,28.0,LB,10,10.0,229.0,6-1,Western Michigan,12/14/1995,5,,
-Jerry Tillery,90.0,Raiders,27.0,DT,10,3.0,295.0,6-6,Notre Dame,10/8/1996,4,,Los Angeles Chargers / 1st / 28th pick / 2019
-Tre Tucker,11.0,Raiders,22.0,WR,9,0.0,185.0,,Cincinnati,3/8/2001,Rook,,Las Vegas Raiders / 3rd / 100th pick / 2023
-DJ Turner,19.0,Raiders,26.0,WR,3,0.0,206.0,5-9,"Maryland,Pittsburgh",1/18/1997,1,,
-Greg Van Roten,70.0,Raiders,33.0,G,10,10.0,305.0,6-3,Pennsylvania,2/26/1990,11,,
-Zamir White,35.0,Raiders,24.0,RB,10,0.0,215.0,6-0,Georgia,9/18/1999,1,,Las Vegas Raiders / 4th / 122nd pick / 2022
-Tyree Wilson,9.0,Raiders,23.0,DE,10,0.0,275.0,,"Texas A&M,Texas Tech",5/20/2000,Rook,,Las Vegas Raiders / 1st / 7th pick / 2023
-Byron Young,93.0,Raiders,23.0,DT,6,0.0,292.0,,Alabama,11/10/2000,Rook,,Las Vegas Raiders / 3rd / 70th pick / 2023
-Roderic Teamer (IRD),33.0,Raiders,26.0,S,6,0.0,205.0,6-0,Tulane,5/12/1997,4,,
-Brittain Brown (IR),38.0,Raiders,26.0,RB,0,0.0,205.0,6-1,"Duke,UCLA",10/10/1997,1,,Las Vegas Raiders / 7th / 250th pick / 2022
-Darien Butler (IR),58.0,Raiders,23.0,LB,0,0.0,225.0,,Arizona St.,2/29/2000,1,,
-Brandon Facyson (IR),31.0,Raiders,29.0,CB,0,0.0,197.0,6-2,Virginia Tech,9/8/1994,5,,
-Kana'i Mauga (IR),43.0,Raiders,23.0,LB,4,0.0,245.0,6-2,USC,1/8/2000,Rook,,
-Dalton Wagner (IR),78.0,Raiders,25.0,T,0,0.0,320.0,6-6,Arkansas,10/5/1998,Rook,,
-Austin Walter (IR),32.0,Raiders,27.0,RB,0,0.0,202.0,5-8,Rice,8/17/1996,4,,
-Team Total,,Raiders,26.7,,10,,241.9,6-1.9,,,3.8,,
+,No.,Player,BirthDate,Age,Height,Weight,College/University,Position,Games_Played_in_Season,Games_Started_in_Season,NFL_Years,Player_Value,Team,Year
+0,22.0,Ameer Abdullah,6/13/1993,30.0,5-9,203.0,Nebraska,RB,17,0.0,8.0,2.0,Raiders,2023
+1,17.0,Davante Adams,12/24/1992,31.0,6-1,215.0,Fresno St.,WR,17,17.0,9.0,10.0,Raiders,2023
+2,0.0,Jakorian Bennett,8/23/2000,23.0,,195.0,"Hutchinson (KS),Maryland",CB,14,4.0,0.0,2.0,Raiders,2023
+3,50.0,Jacob Bobenmoyer,5/28/1997,26.0,6-2,235.0,Northern Colorado,LS,17,0.0,3.0,1.0,Raiders,2023
+4,34.0,Brandon Bolden,1/26/1990,33.0,5-11,220.0,Mississippi,RB,17,0.0,11.0,0.0,Raiders,2023
+5,36.0,Curtis Bolton,12/18/1995,28.0,6-0,228.0,Oklahoma,LB,13,0.0,2.0,1.0,Raiders,2023
+6,56.0,Amari Burney,6/12/2000,23.0,,228.0,Florida,LB,7,1.0,0.0,1.0,Raiders,2023
+7,69.0,Adam Butler,4/12/1994,29.0,6-5,300.0,Vanderbilt,DT,17,0.0,6.0,2.0,Raiders,2023
+8,94.0,Matthew Butler,6/10/1999,24.0,6-3,290.0,Tennessee,DT,2,0.0,1.0,0.0,Raiders,2023
+9,2.0,Daniel Carlson,1/23/1995,28.0,6-5,215.0,Auburn,K,17,0.0,5.0,3.0,Raiders,2023
+10,3.0,DeAndre Carter,4/10/1993,30.0,5-8,190.0,Sacramento St.,WR,17,1.0,5.0,0.0,Raiders,2023
+11,6.0,AJ Cole III,11/27/1995,28.0,6-4,220.0,North Carolina St.,P,17,0.0,4.0,3.0,Raiders,2023
+12,98.0,Maxx Crosby,8/22/1997,26.0,6-5,255.0,Eastern Michigan,DE,17,17.0,4.0,15.0,Raiders,2023
+13,5.0,Divine Deablo,8/17/1998,25.0,6-3,223.0,Virginia Tech,LB,15,15.0,2.0,7.0,Raiders,2023
+14,72.0,Jermaine Eluemunor,12/13/1994,29.0,6-4,330.0,"Lackawanna,Texas A&M",RT,17,14.0,6.0,5.0,Raiders,2023
+15,1.0,Marcus Epps,1/27/1996,27.0,6-0,191.0,Wyoming,S,17,17.0,4.0,6.0,Raiders,2023
+16,31.0,Brandon Facyson,9/8/1994,29.0,6-2,197.0,Virginia Tech,CB,3,0.0,5.0,0.0,Raiders,2023
+17,85.0,Cole Fotheringham,10/11/1997,26.0,6-4,243.0,Utah,TE,2,0.0,0.0,0.0,Raiders,2023
+18,10.0,Jimmy Garoppolo,11/2/1991,32.0,6-2,225.0,Eastern Illinois,QB,7,6.0,9.0,2.0,Raiders,2023
+19,88.0,Zach Gentry,9/10/1996,27.0,6-8,265.0,Michigan,TE,1,0.0,4.0,0.0,Raiders,2023
+20,65.0,Hroniss Grasu,8/12/1991,32.0,6-3,301.0,Oregon,C,2,0.0,8.0,0.0,Raiders,2023
+21,37.0,Tyler Hall,10/31/1998,25.0,5-10,190.0,Wyoming,CB,11,3.0,3.0,1.0,Raiders,2023
+22,71.0,Justin Herron,11/27/1995,28.0,6-5,290.0,Wake Forest,T,6,1.0,3.0,1.0,Raiders,2023
+23,39.0,Nate Hobbs,6/24/1999,24.0,6-0,195.0,Illinois,CB,13,11.0,2.0,4.0,Raiders,2023
+24,81.0,Austin Hooper,10/29/1994,29.0,6-4,254.0,Stanford,TE,17,9.0,7.0,2.0,Raiders,2023
+25,80.0,Jesper Horsted,2/27/1997,26.0,6-3,237.0,Princeton,TE,13,0.0,4.0,0.0,Raiders,2023
+26,7.0,Brian Hoyer,10/13/1985,38.0,6-2,215.0,Michigan St.,QB,3,1.0,14.0,1.0,Raiders,2023
+27,8.0,Josh Jacobs,2/11/1998,25.0,5-10,223.0,Alabama,RB,13,13.0,4.0,6.0,Raiders,2023
+28,68.0,Andre James,5/2/1997,26.0,6-4,300.0,UCLA,C,16,16.0,4.0,6.0,Raiders,2023
+29,95.0,John Jenkins,7/11/1989,34.0,6-3,327.0,"Mississippi Gulf Coast CC,Georgia",DT,17,17.0,10.0,8.0,Raiders,2023
+30,45.0,Jakob Johnson,12/15/1994,29.0,6-3,255.0,Tennessee,FB,13,5.0,4.0,0.0,Raiders,2023
+31,18.0,Jack Jones,12/20/1997,26.0,5-11,180.0,"USC,Moorpark College,Arizona St.",CB,7,3.0,1.0,2.0,Raiders,2023
+32,51.0,Malcolm Koonce,6/6/1998,25.0,6-3,250.0,Buffalo,DE,17,11.0,2.0,6.0,Raiders,2023
+33,23.0,David Long,2/6/1998,25.0,5-11,196.0,Michigan,DB,8,1.0,4.0,1.0,Raiders,2023
+34,59.0,Luke Masterson,1/7/1998,25.0,6-1,220.0,Wake Forest,LB,16,1.0,1.0,2.0,Raiders,2023
+35,43.0,Kana'i Mauga,1/8/2000,23.0,6-2,245.0,USC,LB,5,0.0,0.0,0.0,Raiders,2023
+36,87.0,Michael Mayer,7/6/2001,22.0,,265.0,Notre Dame,TE,14,12.0,0.0,3.0,Raiders,2023
+37,61.0,Jordan Meredith,1/4/1998,25.0,6-2,300.0,Western Kentucky,G,17,1.0,1.0,1.0,Raiders,2023
+38,16.0,Jakobi Meyers,11/9/1996,27.0,6-2,200.0,North Carolina St.,WR,16,16.0,4.0,7.0,Raiders,2023
+39,74.0,Kolton Miller,9/2/1995,28.0,6-8,325.0,UCLA,T,13,11.0,5.0,5.0,Raiders,2023
+40,25.0,Tre'von Moehrig,6/16/1999,24.0,6-2,202.0,TCU,S,17,17.0,2.0,6.0,Raiders,2023
+41,77.0,Thayer Munford,9/18/1999,24.0,6-6,315.0,Ohio St.,T,15,10.0,1.0,5.0,Raiders,2023
+42,54.0,Netane Muti,3/27/1999,24.0,6-3,307.0,Fresno St.,G,2,0.0,3.0,0.0,Raiders,2023
+43,91.0,Bilal Nichols,9/14/1996,27.0,6-3,313.0,Delaware,LDT,17,17.0,5.0,8.0,Raiders,2023
+44,4.0,Aidan O'Connell,9/1/1998,25.0,,210.0,Purdue,QB,11,10.0,0.0,6.0,Raiders,2023
+45,66.0,Dylan Parham,8/24/1999,24.0,6-3,285.0,Memphis,G,17,17.0,1.0,6.0,Raiders,2023
+46,75.0,Brandon Parker,10/21/1995,28.0,6-8,320.0,North Carolina A&T,T,5,1.0,5.0,1.0,Raiders,2023
+47,24.0,Marcus Peters,1/9/1993,30.0,6-0,197.0,Washington,RCB,12,12.0,8.0,5.0,Raiders,2023
+48,20.0,Isaiah Pola-Mao,6/30/1999,24.0,6-4,205.0,USC,S,16,0.0,1.0,1.0,Raiders,2023
+49,27.0,Troy Pride Jr.,1/19/1998,25.0,5-11,193.0,Notre Dame,CB,1,0.0,3.0,0.0,Raiders,2023
+50,52.0,Malik Reed,8/5/1996,27.0,6-2,245.0,Nevada,DB,4,2.0,4.0,1.0,Raiders,2023
+51,13.0,Hunter Renfrow,12/21/1995,28.0,5-10,185.0,Clemson,WR,17,3.0,4.0,2.0,Raiders,2023
+52,21.0,Amik Robertson,7/6/1998,25.0,5-9,183.0,Louisiana Tech,CB,17,12.0,3.0,5.0,Raiders,2023
+53,97.0,Janarius Robinson,5/5/1999,24.0,6-5,260.0,Florida St.,DE,6,2.0,0.0,1.0,Raiders,2023
+54,96.0,Isaac Rochell,4/22/1995,28.0,6-4,280.0,Notre Dame,DE,8,1.0,6.0,1.0,Raiders,2023
+55,99.0,Nesta Jade Silvera,1/23/2000,23.0,,315.0,"Miami (FL),Arizona St.",DT,2,0.0,0.0,0.0,Raiders,2023
+56,29.0,Christopher Smith,5/1/2000,23.0,,195.0,Georgia,S,12,0.0,0.0,1.0,Raiders,2023
+57,15.0,Jaylon Smith,6/14/1995,28.0,6-2,240.0,Notre Dame,LB,1,0.0,6.0,0.0,Raiders,2023
+58,41.0,Robert Spillane,12/14/1995,28.0,6-1,229.0,Western Michigan,LB,17,17.0,5.0,9.0,Raiders,2023
+59,33.0,Roderic Teamer,5/12/1997,26.0,6-0,205.0,Tulane,S,6,0.0,4.0,0.0,Raiders,2023
+60,90.0,Jerry Tillery,10/8/1996,27.0,6-6,295.0,Notre Dame,RDE,17,6.0,4.0,4.0,Raiders,2023
+61,11.0,Tre Tucker,3/8/2001,22.0,,185.0,Cincinnati,WR,16,1.0,0.0,3.0,Raiders,2023
+62,19.0,DJ Turner,1/18/1997,26.0,5-9,206.0,"Maryland,Pittsburgh",WR,10,0.0,1.0,0.0,Raiders,2023
+63,70.0,Greg Van Roten,2/26/1990,33.0,6-3,305.0,Pennsylvania,G,17,17.0,11.0,6.0,Raiders,2023
+64,35.0,Zamir White,9/18/1999,24.0,6-0,215.0,Georgia,RB,17,4.0,1.0,4.0,Raiders,2023
+65,83.0,Kristian Wilkerson,1/10/1997,26.0,6-1,201.0,SE Missouri St.,WR,2,1.0,3.0,0.0,Raiders,2023
+66,9.0,Tyree Wilson,5/20/2000,23.0,,275.0,"Texas A&M,Texas Tech",DE,17,0.0,0.0,2.0,Raiders,2023
+67,93.0,Byron Young,11/10/2000,23.0,,292.0,Alabama,DT,6,0.0,0.0,0.0,Raiders,2023
+68,,Team Total,,26.7,6-2.0,242.6,,,17,,3.7,,Raiders,2023

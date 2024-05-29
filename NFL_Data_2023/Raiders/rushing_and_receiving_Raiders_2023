@@ -1,19 +1,19 @@
-,No.,Team,Player,Age,Position,Games Played,Games Started as an Offensive or Defensive Player,Rushing Attempts,Rushing Yards Gained,Rushing Touchdown,First Downs Rushing,Rushing Success Rate,Longest Rushing Attempt,Rushing Yards per Attempt,Rushing Yards per Game,Rushing Attempts per Game,Pass Targets,Receptions,Receiving Yards,Receiving Yards per Reception,Receiving Touchdowns,First Downs Receiving,Receiving Success Rate,Longest Reception,Receptions per Game,Receiving Yards per Game,Catch Per.,Receiving Yards per Target,Touches: Rushing Attempts and Receptions,Scrimmage Yards per Touch: Rushing + Receiving Yardage per Opportunity,Yards from Scrimmage: Receiving and Rushing Yards,Rushing and Receiving Touchdowns,Lost and Recovered Fumbles,Year
-0,8,Raiders,Josh Jacobs,25,RB,13,13,233,805,6,34,45.9,63,3.5,61.9,17.9,54,37,296,8.0,0,15,55.6,21,2.8,22.8,68.5,5.5,270,4.1,1101,6,3,2023
-1,35,Raiders,Zamir White,24,RB,17,4,104,451,1,19,51.0,43,4.3,26.5,6.1,19,15,98,6.5,0,4,52.6,15,0.9,5.8,78.9,5.2,119,4.6,549,1,1,2023
-2,10,Raiders,Jimmy Garoppolo,32,QB,7,6,20,39,0,6,30.0,9,2.0,5.6,2.9,0,0,0,,0,0,,0,,,0.0,,20,2.0,39,0,1,2023
-3,4,Raiders,Aidan O'Connell,25,QB,11,10,17,11,1,7,41.2,3,0.6,1.0,1.5,0,0,0,,0,0,,0,,,0.0,,17,0.6,11,1,4,2023
-4,22,Raiders,Ameer Abdullah,30,RB,17,0,15,89,0,6,60.0,12,5.9,5.2,0.9,24,19,131,6.9,0,4,33.3,18,1.1,7.7,79.2,5.5,34,6.5,220,0,0,2023
-5,11,Raiders,Tre Tucker,22,WR,16,1,10,77,0,4,70.0,34,7.7,4.8,0.6,34,19,331,17.4,2,12,41.2,50,1.2,20.7,55.9,9.7,29,14.1,408,2,0,2023
-6,16,Raiders,Jakobi Meyers,27,WR,16,16,4,24,2,3,75.0,17,6.0,1.5,0.3,106,71,807,11.4,8,46,54.7,33,4.4,50.4,67.0,7.6,75,11.1,831,10,0,2023
-7,34,Raiders,Brandon Bolden,33,RB,17,0,4,31,1,2,50.0,26,7.8,1.8,0.2,0,0,0,,0,0,,0,,,0.0,,4,7.8,31,1,0,2023
-8,3,Raiders,DeAndre Carter,30,WR,17,1,3,18,0,2,66.7,15,6.0,1.1,0.2,7,4,39,9.8,0,0,28.6,16,0.2,2.3,57.1,5.6,7,8.1,57,0,2,2023
-9,7,Raiders,Brian Hoyer,38,QB,3,1,3,-3,0,0,0.0,-1,-1.0,-1.0,1.0,0,0,0,,0,0,,0,,,0.0,,3,-1.0,-3,0,0,2023
-10,17,Raiders,Davante Adams,31,WR,17,17,0,0,0,0,,0,,,,175,103,1144,11.1,8,59,48.6,46,6.1,67.3,58.9,6.5,103,11.1,1144,8,0,2023
-11,87,Raiders,Michael Mayer,22,TE,14,12,0,0,0,0,,0,,,,40,27,304,11.3,2,19,60.0,32,1.9,21.7,67.5,7.6,27,11.3,304,2,0,2023
-12,81,Raiders,Austin Hooper,29,TE,17,9,0,0,0,0,,0,,,,31,25,234,9.4,0,12,61.3,21,1.5,13.8,80.6,7.5,25,9.4,234,0,0,2023
-13,13,Raiders,Hunter Renfrow,28,WR,17,3,0,0,0,0,,0,,,,37,25,255,10.2,0,11,40.5,38,1.5,15.0,67.6,6.9,25,10.2,255,0,1,2023
-14,85,Raiders,Cole Fotheringham,26,TE,2,0,0,0,0,0,,0,,,,1,1,6,6.0,0,0,100.0,6,0.5,3.0,100.0,6.0,1,6.0,6,0,0,2023
-15,80,Raiders,Jesper Horsted,26,TE,13,0,0,0,0,0,,0,,,,1,1,4,4.0,0,0,100.0,4,0.1,0.3,100.0,4.0,1,4.0,4,0,0,2023
-16,45,Raiders,Jakob Johnson,29,FB,13,5,0,0,0,0,,0,,,,2,1,12,12.0,0,0,50.0,12,0.1,0.9,50.0,6.0,1,12.0,12,0,0,2023
-17,70,Raiders,Greg Van Roten,33,G,17,17,0,0,0,0,,0,,,,0,0,5,,0,0,,0,0.0,0.3,0.0,,0,,5,0,1,2023
+,No.,Player,Age,Position,Games Played,Games Started as an Offensive or Defensive Player,Rushing Attempts,Rushing Yards Gained,Rushing Touchdown,First Downs Rushing,Rushing Success Rate,Longest Rushing Attempt,Rushing Yards per Attempt,Rushing Yards per Game,Rushing Attempts per Game,Pass Targets,Receptions,Receiving Yards,Receiving Yards per Reception,Receiving Touchdowns,First Downs Receiving,Receiving Success Rate,Longest Reception,Receptions per Game,Receiving Yards per Game,Catch Per.,Receiving Yards per Target,Touches: Rushing Attempts and Receptions,Scrimmage Yards per Touch: Rushing + Receiving Yardage per Opportunity,Yards from Scrimmage: Receiving and Rushing Yards,Rushing and Receiving Touchdowns,Lost and Recovered Fumbles,Team,Year
+8,8,Josh Jacobs,25,RB,13,13,233,805,6,34,45.9,63,3.5,61.9,17.9,54,37,296,8.0,0,15,55.6,21,2.8,22.8,68.5,5.5,270,4.1,1101,6,3,Raiders,2023
+35,35,Zamir White,24,RB,17,4,104,451,1,19,51.0,43,4.3,26.5,6.1,19,15,98,6.5,0,4,52.6,15,0.9,5.8,78.9,5.2,119,4.6,549,1,1,Raiders,2023
+10,10,Jimmy Garoppolo,32,QB,7,6,20,39,0,6,30.0,9,2.0,5.6,2.9,0,0,0,0.0,0,0,0.0,0,0.0,0.0,0.0,0.0,20,2.0,39,0,1,Raiders,2023
+4,4,Aidan O'Connell,25,QB,11,10,17,11,1,7,41.2,3,0.6,1.0,1.5,0,0,0,0.0,0,0,0.0,0,0.0,0.0,0.0,0.0,17,0.6,11,1,4,Raiders,2023
+22,22,Ameer Abdullah,30,RB,17,0,15,89,0,6,60.0,12,5.9,5.2,0.9,24,19,131,6.9,0,4,33.3,18,1.1,7.7,79.2,5.5,34,6.5,220,0,0,Raiders,2023
+11,11,Tre Tucker,22,WR,16,1,10,77,0,4,70.0,34,7.7,4.8,0.6,34,19,331,17.4,2,12,41.2,50,1.2,20.7,55.9,9.7,29,14.1,408,2,0,Raiders,2023
+16,16,Jakobi Meyers,27,WR,16,16,4,24,2,3,75.0,17,6.0,1.5,0.3,106,71,807,11.4,8,46,54.7,33,4.4,50.4,67.0,7.6,75,11.1,831,10,0,Raiders,2023
+34,34,Brandon Bolden,33,RB,17,0,4,31,1,2,50.0,26,7.8,1.8,0.2,0,0,0,0.0,0,0,0.0,0,0.0,0.0,0.0,0.0,4,7.8,31,1,0,Raiders,2023
+3,3,DeAndre Carter,30,WR,17,1,3,18,0,2,66.7,15,6.0,1.1,0.2,7,4,39,9.8,0,0,28.6,16,0.2,2.3,57.1,5.6,7,8.1,57,0,2,Raiders,2023
+7,7,Brian Hoyer,38,QB,3,1,3,-3,0,0,0.0,-1,-1.0,-1.0,1.0,0,0,0,0.0,0,0,0.0,0,0.0,0.0,0.0,0.0,3,-1.0,-3,0,0,Raiders,2023
+17,17,Davante Adams,31,WR,17,17,0,0,0,0,0.0,0,0.0,0.0,0.0,175,103,1144,11.1,8,59,48.6,46,6.1,67.3,58.9,6.5,103,11.1,1144,8,0,Raiders,2023
+87,87,Michael Mayer,22,TE,14,12,0,0,0,0,0.0,0,0.0,0.0,0.0,40,27,304,11.3,2,19,60.0,32,1.9,21.7,67.5,7.6,27,11.3,304,2,0,Raiders,2023
+81,81,Austin Hooper,29,TE,17,9,0,0,0,0,0.0,0,0.0,0.0,0.0,31,25,234,9.4,0,12,61.3,21,1.5,13.8,80.6,7.5,25,9.4,234,0,0,Raiders,2023
+13,13,Hunter Renfrow,28,WR,17,3,0,0,0,0,0.0,0,0.0,0.0,0.0,37,25,255,10.2,0,11,40.5,38,1.5,15.0,67.6,6.9,25,10.2,255,0,1,Raiders,2023
+85,85,Cole Fotheringham,26,TE,2,0,0,0,0,0,0.0,0,0.0,0.0,0.0,1,1,6,6.0,0,0,100.0,6,0.5,3.0,100.0,6.0,1,6.0,6,0,0,Raiders,2023
+80,80,Jesper Horsted,26,TE,13,0,0,0,0,0,0.0,0,0.0,0.0,0.0,1,1,4,4.0,0,0,100.0,4,0.1,0.3,100.0,4.0,1,4.0,4,0,0,Raiders,2023
+45,45,Jakob Johnson,29,FB,13,5,0,0,0,0,0.0,0,0.0,0.0,0.0,2,1,12,12.0,0,0,50.0,12,0.1,0.9,50.0,6.0,1,12.0,12,0,0,Raiders,2023
+70,70,Greg Van Roten,33,G,17,17,0,0,0,0,0.0,0,0.0,0.0,0.0,0,0,5,0.0,0,0,0.0,0,0.0,0.3,0.0,0.0,0,0.0,5,0,1,Raiders,2023

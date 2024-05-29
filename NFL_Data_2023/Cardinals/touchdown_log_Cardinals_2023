@@ -1,37 +1,37 @@
-,Rank,Team,Date,Opponent,Win/Loss,Score,Quarter,Distance,Type,Detail,Year
-0,1,Cardinals,09/10/2023,WAS,Loss, 16-20,2,2,fumble,Cameron Thomas,2023
-1,2,Cardinals,09/17/2023,NYG,Loss, 28-31,1,4,rush,James Conner,2023
-2,3,Cardinals,09/17/2023,NYG,Loss, 28-31,2,23,rush,Joshua Dobbs,2023
-3,4,Cardinals,09/17/2023,NYG,Loss, 28-31,3,3,pass,Marquise Brown,2023
-4,5,Cardinals,09/24/2023,DAL,Win, 28-16,1,5,rush,James Conner,2023
-5,6,Cardinals,09/24/2023,DAL,Win, 28-16,2,45,rush,Rondale Moore,2023
-6,7,Cardinals,09/24/2023,DAL,Win, 28-16,4,2,pass,Marquise Brown,2023
-7,8,Cardinals,10/01/2023,SFO,Loss, 16-35,2,16,pass,Michael Wilson,2023
-8,9,Cardinals,10/01/2023,SFO,Loss, 16-35,3,8,pass,Michael Wilson,2023
-9,10,Cardinals,10/08/2023,CIN,Loss, 20-34,2,25,pass,Marquise Brown,2023
-10,11,Cardinals,10/08/2023,CIN,Loss, 20-34,2,4,pass,Zach Ertz,2023
-11,12,Cardinals,10/08/2023,CIN,Loss, 20-34,3,11,rush,Emari Demercado,2023
-12,13,Cardinals,10/22/2023,SEA,Loss, 10-20,2,25,rush,Joshua Dobbs,2023
-13,14,Cardinals,10/29/2023,BAL,Loss, 24-31,1,1,rush,Joshua Dobbs,2023
-14,15,Cardinals,10/29/2023,BAL,Loss, 24-31,4,17,pass,Trey McBride,2023
-15,16,Cardinals,10/29/2023,BAL,Loss, 24-31,4,1,pass,Marquise Brown,2023
-16,17,Cardinals,11/12/2023,ATL,Win, 25-23,2,6,rush,Kyler Murray,2023
-17,18,Cardinals,11/12/2023,ATL,Win, 25-23,3,1,rush,Clayton Tune,2023
-18,19,Cardinals,11/19/2023,HOU,Loss, 16-21,1,48,pass,Rondale Moore,2023
-19,20,Cardinals,11/19/2023,HOU,Loss, 16-21,3,1,rush,Kyler Murray,2023
-20,21,Cardinals,11/26/2023,LAR,Loss, 14-37,1,2,rush,Kyler Murray,2023
-21,22,Cardinals,11/26/2023,LAR,Loss, 14-37,4,6,pass,Greg Dortch,2023
-22,23,Cardinals,12/03/2023,PIT,Win, 24-10,2,5,pass,Trey McBride,2023
-23,24,Cardinals,12/03/2023,PIT,Win, 24-10,3,1,rush,James Conner,2023
-24,25,Cardinals,12/03/2023,PIT,Win, 24-10,4,9,rush,James Conner,2023
-25,26,Cardinals,12/17/2023,SFO,Loss, 29-45,1,2,rush,James Conner,2023
-26,27,Cardinals,12/17/2023,SFO,Loss, 29-45,4,49,rush,Emari Demercado,2023
-27,28,Cardinals,12/17/2023,SFO,Loss, 29-45,4,8,pass,Elijah Higgins,2023
-28,29,Cardinals,12/24/2023,CHI,Loss, 16-27,2,16,pass,James Conner,2023
-29,30,Cardinals,12/24/2023,CHI,Loss, 16-27,4,38,pass,Greg Dortch,2023
-30,31,Cardinals,12/31/2023,PHI,Win, 35-31,3,6,pass,Michael Carter,2023
-31,32,Cardinals,12/31/2023,PHI,Win, 35-31,3,5,pass,James Conner,2023
-32,33,Cardinals,12/31/2023,PHI,Win, 35-31,4,5,pass,Michael Wilson,2023
-33,34,Cardinals,12/31/2023,PHI,Win, 35-31,4,2,rush,James Conner,2023
-34,35,Cardinals,01/07/2024,SEA,Loss, 20-21,3,29,rush,James Conner,2023
-35,36,Cardinals,01/07/2024,SEA,Loss, 20-21,4,8,pass,Trey McBride,2023
+,Rank,Team,Date,Opponent,Win/Loss,Home_Score,Opponenet_Score,Quarter,Distance,Type,Detail
+1,1,Cardinals,2023-09-10,WAS,Loss,16,20,2,2,fumble,Cameron Thomas
+2,2,Cardinals,2023-09-17,NYG,Loss,28,31,1,4,rush,James Conner
+3,3,Cardinals,2023-09-17,NYG,Loss,28,31,2,23,rush,Joshua Dobbs
+4,4,Cardinals,2023-09-17,NYG,Loss,28,31,3,3,pass,Marquise Brown
+5,5,Cardinals,2023-09-24,DAL,Win,28,16,1,5,rush,James Conner
+6,6,Cardinals,2023-09-24,DAL,Win,28,16,2,45,rush,Rondale Moore
+7,7,Cardinals,2023-09-24,DAL,Win,28,16,4,2,pass,Marquise Brown
+8,8,Cardinals,2023-10-01,SFO,Loss,16,35,2,16,pass,Michael Wilson
+9,9,Cardinals,2023-10-01,SFO,Loss,16,35,3,8,pass,Michael Wilson
+10,10,Cardinals,2023-10-08,CIN,Loss,20,34,2,25,pass,Marquise Brown
+11,11,Cardinals,2023-10-08,CIN,Loss,20,34,2,4,pass,Zach Ertz
+12,12,Cardinals,2023-10-08,CIN,Loss,20,34,3,11,rush,Emari Demercado
+13,13,Cardinals,2023-10-22,SEA,Loss,10,20,2,25,rush,Joshua Dobbs
+14,14,Cardinals,2023-10-29,BAL,Loss,24,31,1,1,rush,Joshua Dobbs
+15,15,Cardinals,2023-10-29,BAL,Loss,24,31,4,17,pass,Trey McBride
+16,16,Cardinals,2023-10-29,BAL,Loss,24,31,4,1,pass,Marquise Brown
+17,17,Cardinals,2023-11-12,ATL,Win,25,23,2,6,rush,Kyler Murray
+18,18,Cardinals,2023-11-12,ATL,Win,25,23,3,1,rush,Clayton Tune
+19,19,Cardinals,2023-11-19,HOU,Loss,16,21,1,48,pass,Rondale Moore
+20,20,Cardinals,2023-11-19,HOU,Loss,16,21,3,1,rush,Kyler Murray
+21,21,Cardinals,2023-11-26,LAR,Loss,14,37,1,2,rush,Kyler Murray
+22,22,Cardinals,2023-11-26,LAR,Loss,14,37,4,6,pass,Greg Dortch
+23,23,Cardinals,2023-12-03,PIT,Win,24,10,2,5,pass,Trey McBride
+24,24,Cardinals,2023-12-03,PIT,Win,24,10,3,1,rush,James Conner
+25,25,Cardinals,2023-12-03,PIT,Win,24,10,4,9,rush,James Conner
+26,26,Cardinals,2023-12-17,SFO,Loss,29,45,1,2,rush,James Conner
+27,27,Cardinals,2023-12-17,SFO,Loss,29,45,4,49,rush,Emari Demercado
+28,28,Cardinals,2023-12-17,SFO,Loss,29,45,4,8,pass,Elijah Higgins
+29,29,Cardinals,2023-12-24,CHI,Loss,16,27,2,16,pass,James Conner
+30,30,Cardinals,2023-12-24,CHI,Loss,16,27,4,38,pass,Greg Dortch
+31,31,Cardinals,2023-12-31,PHI,Win,35,31,3,6,pass,Michael Carter
+32,32,Cardinals,2023-12-31,PHI,Win,35,31,3,5,pass,James Conner
+33,33,Cardinals,2023-12-31,PHI,Win,35,31,4,5,pass,Michael Wilson
+34,34,Cardinals,2023-12-31,PHI,Win,35,31,4,2,rush,James Conner
+35,35,Cardinals,2024-01-07,SEA,Loss,20,21,3,29,rush,James Conner
+36,36,Cardinals,2024-01-07,SEA,Loss,20,21,4,8,pass,Trey McBride

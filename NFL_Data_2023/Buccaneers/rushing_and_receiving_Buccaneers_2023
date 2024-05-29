@@ -1,18 +1,18 @@
-,No.,Team,Player,Age,Position,Games Played,Games Started as an Offensive or Defensive Player,Rushing Attempts,Rushing Yards Gained,Rushing Touchdown,First Downs Rushing,Rushing Success Rate,Longest Rushing Attempt,Rushing Yards per Attempt,Rushing Yards per Game,Rushing Attempts per Game,Pass Targets,Receptions,Receiving Yards,Receiving Yards per Reception,Receiving Touchdowns,First Downs Receiving,Receiving Success Rate,Longest Reception,Receptions per Game,Receiving Yards per Game,Catch Per.,Receiving Yards per Target,Touches: Rushing Attempts and Receptions,Scrimmage Yards per Touch: Rushing + Receiving Yardage per Opportunity,Yards from Scrimmage: Receiving and Rushing Yards,Rushing and Receiving Touchdowns,Lost and Recovered Fumbles,Year
-0,1,Buccaneers,Rachaad White,24,RB,17,17,272,990,6,46,40.8,38,3.6,58.2,16.0,70,64,549,8.6,3,23,54.3,43,3.8,32.3,91.4,7.8,336,4.6,1539,9,3,2023
-1,6,Buccaneers,Baker Mayfield,28,QB,17,17,62,163,1,16,35.5,31,2.6,9.6,3.6,0,0,0,,0,0,,0,,,0.0,,62,2.6,163,1,8,2023
-2,22,Buccaneers,Chase Edmonds,27,RB,13,0,49,176,0,8,46.9,21,3.6,13.5,3.8,17,14,81,5.8,0,5,58.8,14,1.1,6.2,82.4,4.8,63,4.1,257,0,0,2023
-3,21,Buccaneers,Ke'Shawn Vaughn,26,RB,6,0,24,42,0,0,20.8,9,1.8,7.0,4.0,5,2,2,1.0,0,0,0.0,3,0.3,0.3,40.0,0.4,26,1.7,44,0,0,2023
-4,44,Buccaneers,Sean Tucker,22,RB,11,0,15,23,0,1,26.7,7,1.5,2.1,1.4,2,2,9,4.5,0,0,50.0,6,0.2,0.8,100.0,4.5,17,1.9,32,0,0,2023
-5,83,Buccaneers,Deven Thompkins,24,WR,17,1,8,56,0,4,87.5,17,7.0,3.3,0.5,25,17,83,4.9,1,5,32.0,26,1.0,4.9,68.0,3.3,25,5.6,139,1,3,2023
-6,14,Buccaneers,Chris Godwin,27,WR,17,17,4,38,1,3,75.0,19,9.5,2.2,0.2,130,83,1024,12.3,2,53,50.0,47,4.9,60.2,63.8,7.9,87,12.2,1062,3,0,2023
-7,10,Buccaneers,Trey Palmer,22,WR,17,8,3,22,0,1,66.7,13,7.3,1.3,0.2,68,39,385,9.9,3,17,41.2,54,2.3,22.6,57.4,5.7,42,9.7,407,3,3,2023
-8,18,Buccaneers,Rakim Jarrett,22,WR,10,0,1,0,0,0,0.0,0,0.0,0.0,0.1,9,4,60,15.0,0,1,33.3,41,0.4,6.0,44.4,6.7,5,12.0,60,0,0,2023
-9,2,Buccaneers,Kyle Trask,25,QB,2,0,1,-1,0,0,0.0,-1,-1.0,-0.5,0.5,0,0,0,,0,0,,0,,,0.0,,1,-1.0,-1,0,0,2023
-10,13,Buccaneers,Mike Evans,30,WR,17,17,0,0,0,0,,0,,,,136,79,1255,15.9,13,54,53.7,75,4.6,73.8,58.1,9.2,79,15.9,1255,13,0,2023
-11,88,Buccaneers,Cade Otton,24,TE,17,17,0,0,0,0,,0,,,,67,47,455,9.7,4,22,49.3,27,2.8,26.8,70.1,6.8,47,9.7,455,4,1,2023
-12,87,Buccaneers,Payne Durham,23,TE,13,2,0,0,0,0,,0,,,,7,5,58,11.6,0,3,71.4,25,0.4,4.5,71.4,8.3,5,11.6,58,0,0,2023
-13,19,Buccaneers,David Moore,28,WR,7,0,0,0,0,0,,0,,,,7,5,94,18.8,1,3,71.4,52,0.7,13.4,71.4,13.4,5,18.8,94,1,0,2023
-14,89,Buccaneers,David Wells,28,TE,5,0,0,0,0,0,,0,,,,2,2,-10,-5.0,0,1,50.0,1,0.4,-2.0,100.0,-5.0,2,-5.0,-10,0,1,2023
-15,41,Buccaneers,Ko Kieft,25,TE,16,6,0,0,0,0,,0,,,,5,1,2,2.0,1,1,20.0,2,0.1,0.1,20.0,0.4,1,2.0,2,1,0,2023
-16,70,Buccaneers,Robert Hainsey,25,C,17,17,0,0,0,0,,0,,,,0,0,-3,,0,0,,0,0.0,-0.2,0.0,,0,,-3,0,1,2023
+,No.,Player,Age,Position,Games Played,Games Started as an Offensive or Defensive Player,Rushing Attempts,Rushing Yards Gained,Rushing Touchdown,First Downs Rushing,Rushing Success Rate,Longest Rushing Attempt,Rushing Yards per Attempt,Rushing Yards per Game,Rushing Attempts per Game,Pass Targets,Receptions,Receiving Yards,Receiving Yards per Reception,Receiving Touchdowns,First Downs Receiving,Receiving Success Rate,Longest Reception,Receptions per Game,Receiving Yards per Game,Catch Per.,Receiving Yards per Target,Touches: Rushing Attempts and Receptions,Scrimmage Yards per Touch: Rushing + Receiving Yardage per Opportunity,Yards from Scrimmage: Receiving and Rushing Yards,Rushing and Receiving Touchdowns,Lost and Recovered Fumbles,Team,Year
+1,1,Rachaad White,24,RB,17,17,272,990,6,46,40.8,38,3.6,58.2,16.0,70,64,549,8.6,3,23,54.3,43,3.8,32.3,91.4,7.8,336,4.6,1539,9,3,Buccaneers,2023
+6,6,Baker Mayfield,28,QB,17,17,62,163,1,16,35.5,31,2.6,9.6,3.6,0,0,0,0.0,0,0,0.0,0,0.0,0.0,0.0,0.0,62,2.6,163,1,8,Buccaneers,2023
+22,22,Chase Edmonds,27,RB,13,0,49,176,0,8,46.9,21,3.6,13.5,3.8,17,14,81,5.8,0,5,58.8,14,1.1,6.2,82.4,4.8,63,4.1,257,0,0,Buccaneers,2023
+21,21,Ke'Shawn Vaughn,26,RB,6,0,24,42,0,0,20.8,9,1.8,7.0,4.0,5,2,2,1.0,0,0,0.0,3,0.3,0.3,40.0,0.4,26,1.7,44,0,0,Buccaneers,2023
+44,44,Sean Tucker,22,RB,11,0,15,23,0,1,26.7,7,1.5,2.1,1.4,2,2,9,4.5,0,0,50.0,6,0.2,0.8,100.0,4.5,17,1.9,32,0,0,Buccaneers,2023
+83,83,Deven Thompkins,24,WR,17,1,8,56,0,4,87.5,17,7.0,3.3,0.5,25,17,83,4.9,1,5,32.0,26,1.0,4.9,68.0,3.3,25,5.6,139,1,3,Buccaneers,2023
+14,14,Chris Godwin,27,WR,17,17,4,38,1,3,75.0,19,9.5,2.2,0.2,130,83,1024,12.3,2,53,50.0,47,4.9,60.2,63.8,7.9,87,12.2,1062,3,0,Buccaneers,2023
+10,10,Trey Palmer,22,WR,17,8,3,22,0,1,66.7,13,7.3,1.3,0.2,68,39,385,9.9,3,17,41.2,54,2.3,22.6,57.4,5.7,42,9.7,407,3,3,Buccaneers,2023
+18,18,Rakim Jarrett,22,WR,10,0,1,0,0,0,0.0,0,0.0,0.0,0.1,9,4,60,15.0,0,1,33.3,41,0.4,6.0,44.4,6.7,5,12.0,60,0,0,Buccaneers,2023
+2,2,Kyle Trask,25,QB,2,0,1,-1,0,0,0.0,-1,-1.0,-0.5,0.5,0,0,0,0.0,0,0,0.0,0,0.0,0.0,0.0,0.0,1,-1.0,-1,0,0,Buccaneers,2023
+13,13,Mike Evans,30,WR,17,17,0,0,0,0,0.0,0,0.0,0.0,0.0,136,79,1255,15.9,13,54,53.7,75,4.6,73.8,58.1,9.2,79,15.9,1255,13,0,Buccaneers,2023
+88,88,Cade Otton,24,TE,17,17,0,0,0,0,0.0,0,0.0,0.0,0.0,67,47,455,9.7,4,22,49.3,27,2.8,26.8,70.1,6.8,47,9.7,455,4,1,Buccaneers,2023
+87,87,Payne Durham,23,TE,13,2,0,0,0,0,0.0,0,0.0,0.0,0.0,7,5,58,11.6,0,3,71.4,25,0.4,4.5,71.4,8.3,5,11.6,58,0,0,Buccaneers,2023
+19,19,David Moore,28,WR,7,0,0,0,0,0,0.0,0,0.0,0.0,0.0,7,5,94,18.8,1,3,71.4,52,0.7,13.4,71.4,13.4,5,18.8,94,1,0,Buccaneers,2023
+89,89,David Wells,28,TE,5,0,0,0,0,0,0.0,0,0.0,0.0,0.0,2,2,-10,-5.0,0,1,50.0,1,0.4,-2.0,100.0,-5.0,2,-5.0,-10,0,1,Buccaneers,2023
+41,41,Ko Kieft,25,TE,16,6,0,0,0,0,0.0,0,0.0,0.0,0.0,5,1,2,2.0,1,1,20.0,2,0.1,0.1,20.0,0.4,1,2.0,2,1,0,Buccaneers,2023
+70,70,Robert Hainsey,25,C,17,17,0,0,0,0,0.0,0,0.0,0.0,0.0,0,0,-3,0.0,0,0,0.0,0,0.0,-0.2,0.0,0.0,0,0.0,-3,0,1,Buccaneers,2023

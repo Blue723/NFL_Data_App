@@ -1,5 +1,5 @@
-,No.,Team,Player,Age,Position,Games Played,Games Started,Punts Returned,Punts Return Yardage,Punts Returned for Touchdown,Longest Punt Return,Yards per Punt Return,Kickoff Returns,Yardage for Kickoffs Returned,Kickoffs Returned for a Touchdown,Longest Kickoff Return,Yards per Kickoff Return,All-purpose Yards,Year
-0,6,Colts,Isaiah McKenzie,28,WR,13,2,23,204,0,32,8.9,6,152,0,42,25.3,452,2023
-1,1,Colts,Josh Downs,22,WR,17,9,6,63,0,14,10.5,2,24,0,17,12.0,858,2023
-2,33,Colts,Dallis Flowers,26,CB,4,4,0,0,0,0,,1,19,0,19,19.0,19,2023
-3,11,Colts,Michael Pittman Jr.,26,WR,16,15,0,0,0,0,,0,5,0,0,,1157,2023
+,No.,Player,Age,Position,Games Played,Games Started,Punts Returned,Punts Return Yardage,Punts Returned for Touchdown,Longest Punt Return,Yards per Punt Return,Kickoff Returns,Yardage for Kickoffs Returned,Kickoffs Returned for a Touchdown,Longest Kickoff Return,Yards per Kickoff Return,All-purpose Yards,Team,Year
+6,6,Isaiah McKenzie,28,WR,13,2,23,204,0,32,8.9,6,152,0,42,25.3,452,Colts,2023
+1,1,Josh Downs,22,WR,17,9,6,63,0,14,10.5,2,24,0,17,12.0,858,Colts,2023
+33,33,Dallis Flowers,26,CB,4,4,0,0,0,0,0.0,1,19,0,19,19.0,19,Colts,2023
+11,11,Michael Pittman Jr.,26,WR,16,15,0,0,0,0,0.0,0,5,0,0,0.0,1157,Colts,2023

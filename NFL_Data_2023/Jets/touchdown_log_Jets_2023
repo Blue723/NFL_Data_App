@@ -1,23 +1,23 @@
-,Rank,Team,Date,Opponent,Win/Loss,Score,Quarter,Distance,Type,Detail,Year
-0,1,Jets,09/11/2023,BUF,Win, 22-16,4,3,pass,Garrett Wilson,2023
-1,2,Jets,09/11/2023,BUF,Win, 22-16,5,65,punt,Xavier Gipson,2023
-2,3,Jets,09/17/2023,DAL,Loss, 10-30,2,68,pass,Garrett Wilson,2023
-3,4,Jets,09/24/2023,NWE,Loss, 10-15,4,1,rush,Nick Bawden,2023
-4,5,Jets,10/01/2023,KAN,Loss, 20-23,2,1,pass,C.J. Uzomah,2023
-5,6,Jets,10/01/2023,KAN,Loss, 20-23,3,10,pass,Allen Lazard,2023
-6,7,Jets,10/08/2023,DEN,Win, 31-21,3,72,rush,Breece Hall,2023
-7,8,Jets,10/08/2023,DEN,Win, 31-21,4,39,fumble,Bryce Hall,2023
-8,9,Jets,10/15/2023,PHI,Win, 20-14,4,8,rush,Breece Hall,2023
-9,10,Jets,10/29/2023,NYG,Win, 13-10,1,50,pass,Breece Hall,2023
-10,11,Jets,11/19/2023,BUF,Loss, 6-32,2,9,pass,Breece Hall,2023
-11,12,Jets,11/24/2023,MIA,Loss, 13-34,2,30,interception,Brandin Echols,2023
-12,13,Jets,11/24/2023,MIA,Loss, 13-34,4,1,pass,Garrett Wilson,2023
-13,14,Jets,12/10/2023,HOU,Win, 30-6,3,15,pass,Randall Cobb,2023
-14,15,Jets,12/10/2023,HOU,Win, 30-6,3,9,rush,Xavier Gipson,2023
-15,16,Jets,12/10/2023,HOU,Win, 30-6,4,3,pass,Breece Hall,2023
-16,17,Jets,12/24/2023,WAS,Win, 30-28,1,8,pass,Jason Brownlee,2023
-17,18,Jets,12/24/2023,WAS,Win, 30-28,1,36,rush,Breece Hall,2023
-18,19,Jets,12/24/2023,WAS,Win, 30-28,2,2,rush,Breece Hall,2023
-19,20,Jets,12/28/2023,CLE,Loss, 20-37,1,21,pass,Breece Hall,2023
-20,21,Jets,12/28/2023,CLE,Loss, 20-37,2,37,interception,Jermaine Johnson II,2023
-21,22,Jets,01/07/2024,NWE,Win, 17-3,4,50,rush,Breece Hall,2023
+,Rank,Team,Date,Opponent,Win/Loss,Home_Score,Opponenet_Score,Quarter,Distance,Type,Detail
+1,1,Jets,2023-09-11,BUF,Win,22,16,4,3,pass,Garrett Wilson
+2,2,Jets,2023-09-11,BUF,Win,22,16,5,65,punt,Xavier Gipson
+3,3,Jets,2023-09-17,DAL,Loss,10,30,2,68,pass,Garrett Wilson
+4,4,Jets,2023-09-24,NWE,Loss,10,15,4,1,rush,Nick Bawden
+5,5,Jets,2023-10-01,KAN,Loss,20,23,2,1,pass,C.J. Uzomah
+6,6,Jets,2023-10-01,KAN,Loss,20,23,3,10,pass,Allen Lazard
+7,7,Jets,2023-10-08,DEN,Win,31,21,3,72,rush,Breece Hall
+8,8,Jets,2023-10-08,DEN,Win,31,21,4,39,fumble,Bryce Hall
+9,9,Jets,2023-10-15,PHI,Win,20,14,4,8,rush,Breece Hall
+10,10,Jets,2023-10-29,NYG,Win,13,10,1,50,pass,Breece Hall
+11,11,Jets,2023-11-19,BUF,Loss,6,32,2,9,pass,Breece Hall
+12,12,Jets,2023-11-24,MIA,Loss,13,34,2,30,interception,Brandin Echols
+13,13,Jets,2023-11-24,MIA,Loss,13,34,4,1,pass,Garrett Wilson
+14,14,Jets,2023-12-10,HOU,Win,30,6,3,15,pass,Randall Cobb
+15,15,Jets,2023-12-10,HOU,Win,30,6,3,9,rush,Xavier Gipson
+16,16,Jets,2023-12-10,HOU,Win,30,6,4,3,pass,Breece Hall
+17,17,Jets,2023-12-24,WAS,Win,30,28,1,8,pass,Jason Brownlee
+18,18,Jets,2023-12-24,WAS,Win,30,28,1,36,rush,Breece Hall
+19,19,Jets,2023-12-24,WAS,Win,30,28,2,2,rush,Breece Hall
+20,20,Jets,2023-12-28,CLE,Loss,20,37,1,21,pass,Breece Hall
+21,21,Jets,2023-12-28,CLE,Loss,20,37,2,37,interception,Jermaine Johnson II
+22,22,Jets,2024-01-07,NWE,Win,17,3,4,50,rush,Breece Hall

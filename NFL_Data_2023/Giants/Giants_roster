@@ -1,71 +1,74 @@
-Player,No.,Team,Age,Pos,G,GS,Wt,Ht,College/Univ,BirthDate,Yrs,AV,Drafted (tm/rnd/yr)
-Deonte Banks,25.0,Giants,22.0,CB,10,10.0,200.0,,Maryland,3/3/2001,Rook,,New York Giants / 1st / 24th pick / 2023
-Matt Barkley,9.0,Giants,33.0,QB,0,0.0,234.0,6-2,USC,9/8/1990,10,,Philadelphia Eagles / 4th / 98th pick / 2013
-Saquon Barkley,26.0,Giants,26.0,RB,7,7.0,232.0,6-0,Penn St.,2/9/1997,5,,New York Giants / 1st / 2nd pick / 2018
-Boogie Basham,45.0,Giants,26.0,OLB,10,0.0,274.0,6-3,Wake Forest,12/16/1997,2,,Buffalo Bills / 2nd / 61st pick / 2021
-Daniel Bellinger,82.0,Giants,23.0,TE,10,8.0,255.0,6-6,San Diego St.,9/22/2000,1,,New York Giants / 4th / 112th pick / 2022
-Dane Belton,24.0,Giants,23.0,S,10,1.0,190.0,6-1,Iowa,12/7/2000,1,,New York Giants / 4th / 114th pick / 2022
-Ben Bredeson,68.0,Giants,25.0,G,9,9.0,310.0,6-5,Michigan,2/20/1998,3,,Baltimore Ravens / 4th / 143rd pick / 2020
-Matt Breida,31.0,Giants,28.0,RB,10,4.0,195.0,5-10,Georgia Southern,2/28/1995,6,,
-Cam Brown,47.0,Giants,25.0,LB,9,0.0,235.0,6-5,Penn St.,4/1/1998,3,,New York Giants / 6th / 183rd pick / 2020
-Randy Bullock,46.0,Giants,34.0,K,2,0.0,210.0,5-9,Texas A&M,12/16/1989,10,,Houston Texans / 5th / 161st pick / 2012
-Lawrence Cager,83.0,Giants,26.0,TE,7,0.0,220.0,6-5,Georgia,8/20/1997,3,,
-Parris Campbell,0.0,Giants,26.0,WR,10,3.0,205.0,6-1,Ohio St.,7/16/1997,4,,Indianapolis Colts / 2nd / 59th pick / 2019
-Jashaun Corbin,35.0,Giants,23.0,RB,2,0.0,203.0,5-11,"Texas A&M,Florida St.",8/20/2000,Rook,,
-Carter Coughlin,52.0,Giants,26.0,LB,10,0.0,240.0,6-3,Minnesota,7/21/1997,3,,New York Giants / 7th / 218th pick / 2020
-D.J. Davidson,98.0,Giants,26.0,DL,8,0.0,320.0,6-3,Arizona St.,9/19/1997,1,,New York Giants / 5th / 147th pick / 2022
-Tommy DeVito,15.0,Giants,25.0,QB,3,1.0,210.0,6-2,"Syracuse,Illinois",8/7/1998,Rook,,
-Cordale Flott,28.0,Giants,22.0,CB,7,3.0,175.0,6-2,LSU,8/24/2001,1,,New York Giants / 3rd / 81st pick / 2022
-Jamie Gillan,6.0,Giants,26.0,P,10,0.0,207.0,6-1,Ark-Pine Bluff,7/4/1997,4,,
-Mark Glowinski,64.0,Giants,31.0,G,7,5.0,310.0,6-4,"Lackawanna,West Virginia",5/3/1992,8,,Seattle Seahawks / 4th / 134th pick / 2015
-Sean Harlow,65.0,Giants,28.0,OL,2,0.0,284.0,6-4,Oregon St.,3/28/1995,4,,Atlanta Falcons / 4th / 136th pick / 2017
-Tre Hawkins,37.0,Giants,23.0,CB,10,2.0,195.0,6-3,"Trinity Valley CC (TX),Old Dominion",8/1/2000,Rook,,New York Giants / 6th / 209th pick / 2023
-Isaiah Hodgins,18.0,Giants,25.0,WR,10,8.0,200.0,6-3,Oregon St.,10/21/1998,2,,Buffalo Bills / 6th / 207th pick / 2020
-Darnay Holmes,30.0,Giants,25.0,CB,9,0.0,195.0,5-10,UCLA,6/23/1998,3,,New York Giants / 4th / 110th pick / 2020
-Jalin Hyatt,13.0,Giants,22.0,WR,10,1.0,185.0,,Tennessee,9/25/2001,Rook,,New York Giants / 3rd / 73rd pick / 2023
-Adoree' Jackson,22.0,Giants,28.0,CB,8,8.0,185.0,5-11,USC,9/18/1995,6,,Tennessee Titans / 1st / 18th pick / 2017
-Deon Jackson,34.0,Giants,24.0,RB,1,0.0,216.0,5-11,Duke,2/18/1999,2,,
-Tyree Jackson,84.0,Giants,26.0,TE,1,1.0,249.0,6-7,Buffalo,11/7/1997,2,,
-Casey Kreiter,59.0,Giants,33.0,LS,10,0.0,250.0,6-1,Iowa,8/13/1990,7,,
-Dexter Lawrence,97.0,Giants,26.0,DL,10,10.0,340.0,6-4,Clemson,11/12/1997,4,,New York Giants / 1st / 17th pick / 2019
-Bobby McCain,21.0,Giants,30.0,S,7,0.0,196.0,5-9,Memphis,8/18/1993,8,,Miami Dolphins / 5th / 145th pick / 2015
-Nick McCloud,44.0,Giants,25.0,CB,10,1.0,193.0,6-1,"North Carolina St.,Notre Dame",7/9/1998,2,,
-Micah McFadden,41.0,Giants,23.0,LB,9,9.0,232.0,6-2,Indiana,1/3/2000,1,,New York Giants / 5th / 146th pick / 2022
-Marcus McKethan,60.0,Giants,24.0,OL,9,5.0,335.0,6-7,North Carolina,5/19/1999,Rook,,New York Giants / 5th / 173rd pick / 2022
-Xavier McKinney,29.0,Giants,24.0,S,10,10.0,201.0,6-0,Alabama,8/9/1999,3,,New York Giants / 2nd / 36th pick / 2020
-Joshua Miles,77.0,Giants,27.0,T,0,0.0,325.0,6-5,Morgan St.,1/4/1996,4,,Arizona Cardinals / 7th / 248th pick / 2019
-Evan Neal,73.0,Giants,23.0,T,7,7.0,340.0,6-7,Alabama,9/19/2000,1,,New York Giants / 1st / 7th pick / 2022
-Rakeem Nunez-Roches,93.0,Giants,30.0,DL,10,2.0,305.0,6-2,Southern Miss,7/3/1993,8,,Kansas City Chiefs / 6th / 217th pick / 2015
-Azeez Ojulari,51.0,Giants,23.0,OLB,4,3.0,240.0,6-3,Georgia,6/16/2000,2,,New York Giants / 2nd / 50th pick / 2021
-Bobby Okereke,58.0,Giants,27.0,LB,10,10.0,235.0,6-1,Stanford,7/29/1996,4,,Indianapolis Colts / 3rd / 89th pick / 2019
-Gunner Olszewski,80.0,Giants,27.0,WR,3,0.0,190.0,6-0,Bemidji St.,11/26/1996,4,,
-Gervarrius Owens,39.0,Giants,24.0,S,1,0.0,200.0,,"NE Oklahoma A&M,Houston",10/14/1999,Rook,,New York Giants / 7th / 254th pick / 2023
-Tyre Phillips,79.0,Giants,26.0,T,4,3.0,330.0,6-5,"East Mississippi CC,Mississippi St.",1/29/1997,3,,Baltimore Ravens / 3rd / 106th pick / 2020
-Jason Pinnock,27.0,Giants,24.0,S,10,10.0,200.0,6-0,Pittsburgh,6/30/1999,2,,New York Jets / 5th / 175th pick / 2021
-Justin Pugh,67.0,Giants,33.0,OL,5,5.0,311.0,6-5,Syracuse,8/15/1990,10,,New York Giants / 1st / 19th pick / 2013
-Jordon Riley,95.0,Giants,25.0,DL,2,0.0,315.0,6-5,"North Carolina,Garden City (KS),Nebraska,Oregon",5/19/1998,Rook,,New York Giants / 7th / 243rd pick / 2023
-A'Shawn Robinson,91.0,Giants,28.0,DL,10,6.0,330.0,6-4,Alabama,3/21/1995,7,,Detroit Lions / 2nd / 46th pick / 2016
-Wan'Dale Robinson,17.0,Giants,22.0,WR,8,2.0,185.0,5-8,"Nebraska,Kentucky",1/5/2001,1,,New York Giants / 2nd / 43rd pick / 2022
-John Michael Schmitz,61.0,Giants,24.0,C,7,7.0,320.0,,Minnesota,3/19/1999,Rook,,New York Giants / 2nd / 57th pick / 2023
-Sterling Shepard,3.0,Giants,30.0,WR,9,1.0,198.0,5-10,Oklahoma,2/10/1993,7,,New York Giants / 2nd / 40th pick / 2016
-Isaiah Simmons,19.0,Giants,25.0,S,10,1.0,238.0,6-4,Clemson,7/26/1998,3,,Arizona Cardinals / 1st / 8th pick / 2020
-Darius Slayton,86.0,Giants,26.0,WR,10,7.0,198.0,6-1,Auburn,1/12/1997,4,,New York Giants / 5th / 171st pick / 2019
-Kayvon Thibodeaux,5.0,Giants,23.0,OLB,10,10.0,258.0,6-5,Oregon,12/15/2000,1,,New York Giants / 1st / 5th pick / 2022
-Andrew Thomas,78.0,Giants,24.0,T,3,3.0,315.0,6-5,Georgia,1/22/1999,3,,New York Giants / 1st / 4th pick / 2020
-Jihad Ward,55.0,Giants,29.0,OLB,10,7.0,285.0,6-5,Illinois,5/11/1994,7,,Oakland Raiders / 2nd / 44th pick / 2016
-Cade York,99.0,Giants,22.0,K,0,0.0,206.0,6-1,LSU,1/27/2001,1,,Cleveland Browns / 4th / 124th pick / 2022
-Aaron Robinson (PUP),33.0,Giants,26.0,CB,0,0.0,195.0,6-1,"Alabama,Central Florida",11/10/1997,2,,New York Giants / 3rd / 71st pick / 2021
-Tommy Sweeney (NON),89.0,Giants,28.0,TE,0,0.0,255.0,6-5,Boston Col.,7/1/1995,4,,Buffalo Bills / 7th / 228th pick / 2019
-Gary Brightwell (IR),23.0,Giants,24.0,RB,7,0.0,220.0,6-1,Arizona,2/28/1999,2,,New York Giants / 6th / 196th pick / 2021
-Jarrad Davis (IR),57.0,Giants,29.0,LB,0,0.0,238.0,6-1,Florida,11/16/1994,6,,Detroit Lions / 1st / 21st pick / 2017
-Joshua Ezeudu (IR),75.0,Giants,24.0,OL,6,5.0,310.0,6-4,North Carolina,9/19/1999,1,,New York Giants / 3rd / 67th pick / 2022
-Bryce Ford-Wheaton (IR),6.0,Giants,23.0,WR,0,0.0,220.0,,West Virginia,3/9/2000,Rook,,
-Graham Gano (IR),9.0,Giants,36.0,K,8,0.0,202.0,6-2,Florida St.,4/9/1987,14,,
-Eric Gray (IR),20.0,Giants,24.0,RB,7,0.0,211.0,,"Tennessee,Oklahoma",11/4/1999,Rook,,New York Giants / 5th / 172nd pick / 2023
-J.C. Hassenauer (IR),63.0,Giants,28.0,C,0,0.0,295.0,6-2,Alabama,9/15/1995,3,,
-Daniel Jones (IR),8.0,Giants,26.0,QB,6,6.0,230.0,6-5,Duke,5/27/1997,4,,New York Giants / 1st / 6th pick / 2019
-Shane Lemieux (IR),66.0,Giants,26.0,G,4,1.0,310.0,6-4,Oregon,5/12/1997,3,,New York Giants / 5th / 150th pick / 2020
-Matt Peart (IR),74.0,Giants,26.0,T,5,0.0,315.0,6-7,Connecticut,6/11/1997,3,,New York Giants / 3rd / 99th pick / 2020
-Tyrod Taylor (IR),2.0,Giants,34.0,QB,7,3.0,217.0,6-1,Virginia Tech,8/3/1989,12,,Baltimore Ravens / 6th / 180th pick / 2011
-Darren Waller (IR),12.0,Giants,31.0,TE,8,8.0,238.0,6-6,Georgia Tech,9/13/1992,8,,Baltimore Ravens / 6th / 204th pick / 2015
-Team Total,,Giants,26.2,,10,,246.6,6-2.4,,,3.6,,
+,No.,Player,BirthDate,Age,Height,Weight,College/University,Position,Games_Played_in_Season,Games_Started_in_Season,NFL_Years,Player_Value,Team,Year
+0,25.0,Deonte Banks,3/3/2001,22.0,,200.0,Maryland,CB,15,15.0,0.0,5.0,Giants,2023
+1,26.0,Saquon Barkley,2/9/1997,26.0,6-0,232.0,Penn St.,RB,14,14.0,5.0,6.0,Giants,2023
+2,45.0,Boogie Basham,12/16/1997,26.0,6-3,274.0,Wake Forest,OLB,13,0.0,2.0,1.0,Giants,2023
+3,43.0,Darrian Beavers,7/5/1999,24.0,6-4,255.0,"Connecticut,Cincinnati",LB,2,0.0,0.0,0.0,Giants,2023
+4,82.0,Daniel Bellinger,9/22/2000,23.0,6-6,255.0,San Diego St.,TE,17,13.0,1.0,2.0,Giants,2023
+5,24.0,Dane Belton,12/7/2000,23.0,6-1,190.0,Iowa,S,17,2.0,1.0,2.0,Giants,2023
+6,68.0,Ben Bredeson,2/20/1998,25.0,6-5,310.0,Michigan,G,16,16.0,3.0,5.0,Giants,2023
+7,31.0,Matt Breida,2/28/1995,28.0,5-10,195.0,Georgia Southern,RB,17,4.0,6.0,1.0,Giants,2023
+8,23.0,Gary Brightwell,2/28/1999,24.0,6-1,220.0,Arizona,RB,7,0.0,2.0,0.0,Giants,2023
+9,47.0,Cam Brown,4/1/1998,25.0,6-5,235.0,Penn St.,LB,16,0.0,3.0,1.0,Giants,2023
+10,46.0,Randy Bullock,12/16/1989,34.0,5-9,210.0,Texas A&M,K,6,0.0,10.0,1.0,Giants,2023
+11,83.0,Lawrence Cager,8/20/1997,26.0,6-5,220.0,Georgia,TE,11,0.0,3.0,0.0,Giants,2023
+12,0.0,Parris Campbell,7/16/1997,26.0,6-1,205.0,Ohio St.,WR,12,3.0,4.0,1.0,Giants,2023
+13,35.0,Jashaun Corbin,8/20/2000,23.0,5-11,203.0,"Texas A&M,Florida St.",RB,6,0.0,0.0,0.0,Giants,2023
+14,52.0,Carter Coughlin,7/20/1997,26.0,6-3,240.0,Minnesota,LB,17,0.0,3.0,1.0,Giants,2023
+15,21.0,Mason Crosby,9/3/1984,39.0,6-1,207.0,Colorado,K,3,0.0,16.0,0.0,Giants,2023
+16,98.0,D.J. Davidson,12/16/1999,24.0,6-3,320.0,Arizona St.,DL,15,2.0,1.0,2.0,Giants,2023
+17,15.0,Tommy DeVito,8/7/1998,25.0,6-2,210.0,"Syracuse,Illinois",QB,9,6.0,0.0,4.0,Giants,2023
+18,75.0,Joshua Ezeudu,9/19/1999,24.0,6-4,310.0,North Carolina,OL,6,5.0,1.0,2.0,Giants,2023
+19,28.0,Cordale Flott,8/24/2001,22.0,6-2,175.0,LSU,CB,14,7.0,1.0,3.0,Giants,2023
+20,49.0,Tomon Fox,3/16/1998,25.0,6-2,245.0,North Carolina,OLB,1,0.0,1.0,0.0,Giants,2023
+21,9.0,Graham Gano,4/9/1987,36.0,6-2,202.0,Florida St.,K,8,0.0,14.0,0.0,Giants,2023
+22,6.0,Jamie Gillan,7/4/1997,26.0,6-1,207.0,Ark-Pine Bluff,P,17,0.0,4.0,2.0,Giants,2023
+23,64.0,Mark Glowinski,5/3/1992,31.0,6-4,310.0,"Lackawanna,West Virginia",RG,13,6.0,8.0,2.0,Giants,2023
+24,20.0,Eric Gray,11/4/1999,24.0,,211.0,"Tennessee,Oklahoma",RB,13,0.0,0.0,0.0,Giants,2023
+25,65.0,Sean Harlow,3/28/1995,28.0,6-4,284.0,Oregon St.,OL,7,0.0,4.0,0.0,Giants,2023
+26,37.0,Tre Hawkins,8/1/2000,23.0,6-3,195.0,"Trinity Valley CC (TX),Old Dominion",CB,17,3.0,0.0,2.0,Giants,2023
+27,18.0,Isaiah Hodgins,10/21/1998,25.0,6-3,200.0,Oregon St.,WR,17,9.0,2.0,2.0,Giants,2023
+28,48.0,Justin Hollins,1/15/1996,27.0,6-5,248.0,Oregon,LB,1,0.0,4.0,0.0,Giants,2023
+29,30.0,Darnay Holmes,6/23/1998,25.0,5-10,195.0,UCLA,CB,16,0.0,3.0,1.0,Giants,2023
+30,96.0,Timmy Horne,10/25/1997,26.0,6-4,323.0,"Charlotte,Kansas St.",DL,1,0.0,1.0,0.0,Giants,2023
+31,13.0,Jalin Hyatt,9/25/2001,22.0,,185.0,Tennessee,WR,17,7.0,0.0,3.0,Giants,2023
+32,22.0,Adoree' Jackson,9/18/1995,28.0,5-11,185.0,USC,CB,14,14.0,6.0,5.0,Giants,2023
+33,34.0,Deon Jackson,2/18/1999,24.0,5-11,216.0,Duke,RB,1,0.0,2.0,0.0,Giants,2023
+34,84.0,Tyree Jackson,11/7/1997,26.0,6-7,249.0,Buffalo,TE,2,1.0,2.0,0.0,Giants,2023
+35,8.0,Daniel Jones,5/27/1997,26.0,6-5,230.0,Duke,QB,6,6.0,4.0,0.0,Giants,2023
+36,36.0,Taiwan Jones,7/26/1988,35.0,6-0,195.0,Eastern Washington,LB,2,0.0,12.0,0.0,Giants,2023
+37,59.0,Casey Kreiter,8/13/1990,33.0,6-1,250.0,Iowa,LS,17,0.0,7.0,1.0,Giants,2023
+38,97.0,Dexter Lawrence,11/12/1997,26.0,6-4,340.0,Clemson,DL,16,16.0,4.0,13.0,Giants,2023
+39,66.0,Shane Lemieux,5/12/1997,26.0,6-4,310.0,Oregon,G,4,1.0,3.0,0.0,Giants,2023
+40,62.0,Jalen Mayfield,5/23/2000,23.0,6-5,319.0,Michigan,G,3,0.0,2.0,0.0,Giants,2023
+41,21.0,Bobby McCain,8/18/1993,30.0,5-9,196.0,Memphis,S,10,0.0,8.0,0.0,Giants,2023
+42,44.0,Nick McCloud,7/9/1998,25.0,6-1,193.0,"North Carolina St.,Notre Dame",CB,17,3.0,2.0,2.0,Giants,2023
+43,41.0,Micah McFadden,1/3/2000,23.0,6-2,232.0,Indiana,LB,16,14.0,1.0,8.0,Giants,2023
+44,60.0,Marcus McKethan,5/19/1999,24.0,6-7,335.0,North Carolina,OL,16,5.0,0.0,2.0,Giants,2023
+45,29.0,Xavier McKinney,8/8/1998,25.0,6-0,201.0,Alabama,FS,17,17.0,3.0,6.0,Giants,2023
+46,73.0,Evan Neal,9/19/2000,23.0,6-7,340.0,Alabama,T,7,7.0,1.0,2.0,Giants,2023
+47,93.0,Rakeem Nunez-Roches,7/3/1993,30.0,6-2,305.0,Southern Miss,DL,16,4.0,8.0,3.0,Giants,2023
+48,51.0,Azeez Ojulari,6/16/2000,23.0,6-3,240.0,Georgia,OLB,11,7.0,2.0,4.0,Giants,2023
+49,58.0,Bobby Okereke,7/29/1996,27.0,6-1,235.0,Stanford,LB,17,17.0,4.0,8.0,Giants,2023
+50,80.0,Gunner Olszewski,11/26/1996,27.0,6-0,190.0,Bemidji St.,WR,10,0.0,4.0,1.0,Giants,2023
+51,39.0,Gervarrius Owens,10/14/1999,24.0,,200.0,"NE Oklahoma A&M,Houston",S,3,0.0,0.0,0.0,Giants,2023
+52,74.0,Matt Peart,6/11/1997,26.0,6-7,315.0,Connecticut,T,8,1.0,3.0,1.0,Giants,2023
+53,79.0,Tyre Phillips,1/29/1997,26.0,6-5,330.0,"East Mississippi CC,Mississippi St.",T,10,9.0,3.0,3.0,Giants,2023
+54,27.0,Jason Pinnock,6/30/1999,24.0,6-0,200.0,Pittsburgh,S,16,16.0,2.0,5.0,Giants,2023
+55,67.0,Justin Pugh,8/15/1990,33.0,6-5,311.0,Syracuse,OL,12,12.0,10.0,4.0,Giants,2023
+56,95.0,Jordon Riley,5/19/1998,25.0,6-5,315.0,"North Carolina,Garden City (KS),Nebraska,Oregon",DL,8,0.0,0.0,1.0,Giants,2023
+57,91.0,A'Shawn Robinson,3/21/1995,28.0,6-4,330.0,Alabama,DL,17,13.0,7.0,6.0,Giants,2023
+58,17.0,Wan'Dale Robinson,1/5/2001,22.0,5-8,185.0,"Nebraska,Kentucky",WR,15,8.0,1.0,4.0,Giants,2023
+59,61.0,John Michael Schmitz,3/19/1999,24.0,,320.0,Minnesota,C,13,13.0,0.0,4.0,Giants,2023
+60,3.0,Sterling Shepard,2/10/1993,30.0,5-10,198.0,Oklahoma,WR,15,2.0,7.0,0.0,Giants,2023
+61,19.0,Isaiah Simmons,7/26/1998,25.0,6-4,238.0,Clemson,S,17,4.0,3.0,2.0,Giants,2023
+62,86.0,Darius Slayton,1/12/1997,26.0,6-1,198.0,Auburn,WR,17,13.0,4.0,6.0,Giants,2023
+63,2.0,Tyrod Taylor,8/3/1989,34.0,6-1,217.0,Virginia Tech,QB,11,5.0,12.0,5.0,Giants,2023
+64,5.0,Kayvon Thibodeaux,12/15/2000,23.0,6-5,258.0,Oregon,OLB,17,17.0,1.0,9.0,Giants,2023
+65,78.0,Andrew Thomas,1/22/1999,24.0,6-5,315.0,Georgia,T,10,10.0,3.0,4.0,Giants,2023
+66,71.0,Jaylon Thomas,3/31/2000,23.0,,311.0,SMU,T,1,0.0,0.0,0.0,Giants,2023
+67,12.0,Darren Waller,9/13/1992,31.0,6-6,238.0,Georgia Tech,TE,12,11.0,8.0,4.0,Giants,2023
+68,55.0,Jihad Ward,5/11/1994,29.0,6-5,285.0,Illinois,OLB,17,9.0,7.0,5.0,Giants,2023
+69,48.0,Benton Whitley,2/12/1999,24.0,6-3,260.0,Holy Cross,OLB,3,0.0,0.0,1.0,Giants,2023
+70,99.0,Leonard Williams,6/20/1994,29.0,6-5,300.0,USC,NT,8,7.0,8.0,3.0,Giants,2023
+71,53.0,Oshane Ximines,12/7/1996,27.0,6-4,255.0,Old Dominion,LB,3,0.0,4.0,0.0,Giants,2023
+72,,Team Total,,26.3,6-2.4,247.4,,,17,,3.6,,Giants,2023

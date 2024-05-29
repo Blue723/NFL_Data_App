@@ -1,69 +1,76 @@
-Player,No.,Team,Age,Pos,G,GS,Wt,Ht,College/Univ,BirthDate,Yrs,AV,Drafted (tm/rnd/yr)
-Matthew Adams,40.0,Browns,28.0,LB,9,0.0,230.0,6-0,Houston,12/12/1995,5,,Indianapolis Colts / 7th / 221st pick / 2018
-Jordan Akins,84.0,Browns,31.0,TE,9,3.0,245.0,6-4,Central Florida,4/19/1992,5,,Houston Texans / 3rd / 98th pick / 2018
-D'Anthony Bell,37.0,Browns,27.0,S,9,0.0,211.0,6-1,"Iowa Central,Butler (KS),West Florida",10/17/1996,1,,
-David Bell,18.0,Browns,23.0,WR,7,0.0,212.0,6-1,Purdue,12/14/2000,1,,Cleveland Browns / 3rd / 99th pick / 2022
-Joel Bitonio,75.0,Browns,32.0,G,8,8.0,320.0,6-4,Nevada,10/11/1991,9,,Cleveland Browns / 2nd / 35th pick / 2014
-Corey Bojorquez,13.0,Browns,27.0,P,9,0.0,217.0,6-0,"Cerritos (CA),New Mexico",9/13/1996,5,,
-Harrison Bryant,88.0,Browns,25.0,TE,9,5.0,230.0,6-5,Florida Atlantic,4/23/1998,3,,Cleveland Browns / 4th / 115th pick / 2020
-Geron Christian,64.0,Browns,27.0,T,1,1.0,320.0,6-5,Louisville,9/10/1996,5,,Washington Redskins / 3rd / 74th pick / 2018
-Amari Cooper,2.0,Browns,29.0,WR,9,9.0,211.0,6-1,Alabama,6/17/1994,8,,Oakland Raiders / 1st / 4th pick / 2015
-Grant Delpit,22.0,Browns,25.0,S,9,9.0,208.0,6-3,LSU,9/20/1998,2,,Cleveland Browns / 2nd / 44th pick / 2020
-Mohamoud Diabate,43.0,Browns,22.0,LB,9,0.0,225.0,,"Florida,Utah",5/18/2001,Rook,,
-Michael Dunn,68.0,Browns,29.0,G,4,1.0,315.0,6-5,Maryland,8/28/1994,3,,
-Jordan Elliott,96.0,Browns,26.0,DT,9,9.0,303.0,6-4,"Texas,Missouri",11/23/1997,3,,Cleveland Browns / 3rd / 88th pick / 2020
-Martin Emerson,23.0,Browns,23.0,CB,9,5.0,201.0,6-2,Mississippi St.,9/27/2000,1,,Cleveland Browns / 3rd / 68th pick / 2022
-Tony Fields,42.0,Browns,24.0,LB,9,0.0,222.0,6-0,"Arizona,West Virginia",6/18/1999,2,,Cleveland Browns / 5th / 153rd pick / 2021
-Jerome Ford,34.0,Browns,24.0,RB,9,5.0,210.0,5-10,"Alabama,Cincinnati",12/9/1999,1,,Cleveland Browns / 5th / 156th pick / 2022
-Mike Ford,28.0,Browns,28.0,CB,9,0.0,195.0,6-0,SE Missouri St.,8/4/1995,5,,
-Myles Garrett,95.0,Browns,28.0,DE,9,9.0,272.0,6-4,Texas A&M,12/29/1995,6,,Cleveland Browns / 1st / 1st pick / 2017
-Marquise Goodwin,3.0,Browns,33.0,WR,8,0.0,185.0,5-9,Texas,11/19/1990,10,,Buffalo Bills / 3rd / 78th pick / 2013
-Kahlef Hailassie,25.0,Browns,23.0,CB,3,0.0,194.0,,"Oregon,Independence (KS),Western Kentucky",11/9/2000,Rook,,
-Nick Harris,53.0,Browns,25.0,C,9,0.0,293.0,6-1,Washington,11/13/1998,3,,Cleveland Browns / 5th / 160th pick / 2020
-Shelby Harris,93.0,Browns,32.0,DT,9,2.0,288.0,6-2,Illinois St.,8/11/1991,9,,Oakland Raiders / 7th / 235th pick / 2014
-Ronnie Hickman,33.0,Browns,22.0,S,2,0.0,209.0,,Ohio St.,10/11/2001,Rook,,
-Dustin Hopkins,7.0,Browns,33.0,K,9,0.0,193.0,6-2,Florida St.,10/1/1990,8,,Buffalo Bills / 6th / 177th pick / 2013
-James Hudson,66.0,Browns,24.0,T,8,1.0,313.0,6-5,"Michigan,Cincinnati",5/13/1999,2,,Cleveland Browns / 4th / 110th pick / 2021
-Charley Hughlett,47.0,Browns,33.0,LS,9,0.0,248.0,6-4,Central Florida,5/16/1990,8,,
-Kareem Hunt,27.0,Browns,28.0,RB,7,2.0,216.0,5-11,Toledo,8/6/1995,6,,Kansas City Chiefs / 3rd / 86th pick / 2017
-Maurice Hurst Jr.,90.0,Browns,28.0,DT,9,0.0,290.0,6-2,Michigan,5/9/1995,5,,Oakland Raiders / 5th / 140th pick / 2018
-Siaki Ika,62.0,Browns,23.0,DT,0,0.0,335.0,,"LSU,Baylor",11/8/2000,Rook,,Cleveland Browns / 3rd / 98th pick / 2023
-Dawand Jones,79.0,Browns,22.0,T,8,7.0,374.0,,Ohio St.,8/6/2001,Rook,,Cleveland Browns / 4th / 111th pick / 2023
-Isaiah McGuire,57.0,Browns,22.0,DE,1,0.0,268.0,,Missouri,7/27/2001,Rook,,Cleveland Browns / 4th / 126th pick / 2023
-Rodney McLeod,26.0,Browns,33.0,S,9,4.0,185.0,5-10,Virginia,6/23/1990,11,,
-Elijah Moore,8.0,Browns,23.0,WR,9,5.0,180.0,5-10,Mississippi,3/27/2000,2,,New York Jets / 2nd / 34th pick / 2021
-Greg Newsome II,0.0,Browns,23.0,CB,7,6.0,192.0,6-0,Northwestern,5/18/2000,2,,Cleveland Browns / 1st / 26th pick / 2021
-David Njoku,85.0,Browns,27.0,TE,9,9.0,246.0,6-4,Miami (FL),7/10/1996,6,,Cleveland Browns / 1st / 29th pick / 2017
-Ogbonnia Okoronkwo,54.0,Browns,28.0,DE,9,0.0,250.0,6-2,Oklahoma,4/24/1995,4,,Los Angeles Rams / 5th / 160th pick / 2018
-Jeremiah Owusu-Koramoah,6.0,Browns,24.0,LB,9,7.0,221.0,6-2,Notre Dame,11/4/1999,2,,Cleveland Browns / 2nd / 52nd pick / 2021
-Ethan Pocic,55.0,Browns,28.0,C,9,9.0,320.0,6-6,LSU,8/5/1995,6,,Seattle Seahawks / 2nd / 58th pick / 2017
-James Proche,11.0,Browns,27.0,WR,2,0.0,193.0,5-11,SMU,9/21/1996,3,,Baltimore Ravens / 6th / 201st pick / 2020
-Za'Darius Smith,99.0,Browns,31.0,DE,9,9.0,275.0,6-4,"East Mississippi CC,Kentucky",9/8/1992,8,,Baltimore Ravens / 4th / 122nd pick / 2015
-Pierre Strong,20.0,Browns,25.0,RB,9,0.0,215.0,5-11,South Dakota St.,12/10/1998,1,,New England Patriots / 4th / 127th pick / 2022
-Sione Takitaki,44.0,Browns,28.0,LB,8,3.0,238.0,6-1,BYU,6/8/1995,4,,Cleveland Browns / 3rd / 80th pick / 2019
-Wyatt Teller,77.0,Browns,29.0,G,9,9.0,315.0,6-4,Virginia Tech,11/21/1994,5,,Buffalo Bills / 5th / 166th pick / 2018
-Dorian Thompson-Robinson,17.0,Browns,24.0,QB,3,1.0,203.0,6-2,UCLA,11/14/1999,Rook,,Cleveland Browns / 5th / 140th pick / 2023
-Juan Thornhill,1.0,Browns,28.0,S,8,8.0,205.0,6-0,Virginia,10/19/1995,4,,Kansas City Chiefs / 2nd / 63rd pick / 2019
-Cedric Tillman,19.0,Browns,23.0,WR,6,0.0,215.0,,Tennessee,4/19/2000,Rook,,Cleveland Browns / 3rd / 74th pick / 2023
-Dalvin Tomlinson,94.0,Browns,29.0,DT,9,9.0,325.0,6-3,Alabama,2/28/1994,6,,New York Giants / 2nd / 55th pick / 2017
-Anthony Walker,5.0,Browns,28.0,LB,9,9.0,235.0,6-1,Northwestern,8/8/1995,6,,Indianapolis Colts / 5th / 161st pick / 2017
-P.J. Walker,10.0,Browns,28.0,QB,5,2.0,215.0,5-11,Temple,2/26/1995,3,,
-Denzel Ward,21.0,Browns,26.0,CB,9,9.0,190.0,5-11,Ohio St.,4/28/1997,5,,Cleveland Browns / 1st / 4th pick / 2018
-Leroy Watson,69.0,Browns,25.0,T,1,0.0,311.0,6-5,"Hutchinson (KS),Texas-San Antonio",6/10/1998,Rook,,
-Alex Wright,91.0,Browns,23.0,DE,8,0.0,267.0,6-5,Ala-Birmingham,9/5/2000,1,,Cleveland Browns / 3rd / 78th pick / 2022
-Luke Wypler,56.0,Browns,22.0,C,3,0.0,303.0,,Ohio St.,5/3/2001,Rook,,Cleveland Browns / 6th / 190th pick / 2023
-Drew Forbes (NON),70.0,Browns,26.0,G,0,0.0,308.0,6-5,SE Missouri St.,1/18/1997,4,,Cleveland Browns / 6th / 189th pick / 2019
-Michael Woods II (NON),12.0,Browns,23.0,WR,0,0.0,204.0,6-1,"Arkansas,Oklahoma",3/19/2000,1,,Cleveland Browns / 6th / 202nd pick / 2022
-Daylen Baldwin (IR),87.0,Browns,24.0,WR,0,0.0,212.0,6-2,"Morgan St.,Jackson St.,Michigan",11/24/1999,1,,
-Nick Chubb (IR),24.0,Browns,28.0,RB,2,2.0,227.0,5-11,Georgia,12/27/1995,5,,Cleveland Browns / 2nd / 35th pick / 2018
-Jack Conklin (IR),78.0,Browns,29.0,T,1,1.0,308.0,6-6,Michigan St.,8/17/1994,7,,Tennessee Titans / 1st / 8th pick / 2016
-Dawson Deaton (IR),52.0,Browns,24.0,G,0,0.0,306.0,6-1,Texas Tech,5/6/1999,Rook,,Cleveland Browns / 7th / 246th pick / 2022
-Thomas Graham (IR),31.0,Browns,24.0,CB,0,0.0,197.0,5-11,Oregon,6/26/1999,2,,Chicago Bears / 6th / 228th pick / 2021
-Jakeem Grant (IR),9.0,Browns,31.0,WR,0,0.0,170.0,5-6,Texas Tech,10/30/1992,7,,Miami Dolphins / 6th / 186th pick / 2016
-Jordan Kunaszyk (IR),51.0,Browns,27.0,LB,0,0.0,235.0,6-3,California,10/15/1996,4,,
-Cameron Mitchell (IR),29.0,Browns,22.0,CB,8,1.0,191.0,5-11,Northwestern,9/8/2001,Rook,,Cleveland Browns / 5th / 142nd pick / 2023
-Ty Nsekhe (IR),72.0,Browns,38.0,T,2,0.0,325.0,6-8,Texas St.,10/27/1985,11,,
-Jacob Phillips (IR),50.0,Browns,24.0,LB,0,0.0,228.0,6-3,LSU,4/1/1999,3,,Cleveland Browns / 3rd / 97th pick / 2020
-Deshaun Watson (IR),4.0,Browns,28.0,QB,6,6.0,223.0,6-3,Clemson,9/14/1995,6,,Houston Texans / 1st / 12th pick / 2017
-Jedrick Wills Jr. (IR),71.0,Browns,24.0,T,8,8.0,307.0,6-4,Alabama,5/17/1999,3,,Cleveland Browns / 1st / 10th pick / 2020
-Team Total,,Browns,26.6,,9,,243.0,6-2.0,,,3.8,,
+,No.,Player,BirthDate,Age,Height,Weight,College/University,Position,Games_Played_in_Season,Games_Started_in_Season,NFL_Years,Player_Value,Team,Year
+0,40.0,Matthew Adams,12/12/1995,28.0,6-0,230.0,Houston,LB,17,1.0,5.0,2.0,Browns,2023
+1,84.0,Jordan Akins,4/19/1992,31.0,6-4,245.0,Central Florida,TE,17,4.0,5.0,1.0,Browns,2023
+2,37.0,D'Anthony Bell,10/17/1996,27.0,6-1,211.0,"Iowa Central,Butler (KS),West Florida",S,17,4.0,1.0,3.0,Browns,2023
+3,18.0,David Bell,12/14/2000,23.0,6-1,212.0,Purdue,WR,15,3.0,1.0,1.0,Browns,2023
+4,75.0,Joel Bitonio,10/11/1991,32.0,6-4,320.0,Nevada,G,15,15.0,9.0,7.0,Browns,2023
+5,13.0,Corey Bojorquez,9/13/1996,27.0,6-0,217.0,"Cerritos (CA),New Mexico",P,16,0.0,5.0,3.0,Browns,2023
+6,88.0,Harrison Bryant,4/23/1998,25.0,6-5,230.0,Florida Atlantic,TE,17,9.0,3.0,1.0,Browns,2023
+7,64.0,Geron Christian,9/10/1996,27.0,6-5,320.0,Louisville,T,9,9.0,5.0,4.0,Browns,2023
+8,24.0,Nick Chubb,12/27/1995,28.0,5-11,227.0,Georgia,RB,2,2.0,5.0,1.0,Browns,2023
+9,78.0,Jack Conklin,8/17/1994,29.0,6-6,308.0,Michigan St.,T,1,1.0,7.0,0.0,Browns,2023
+10,2.0,Amari Cooper,6/17/1994,29.0,6-1,211.0,Alabama,WR,15,15.0,8.0,10.0,Browns,2023
+11,16.0,Jaelon Darden,1/14/1999,24.0,5-8,175.0,North Texas,WR,1,0.0,2.0,0.0,Browns,2023
+12,22.0,Grant Delpit,9/20/1998,25.0,6-3,208.0,LSU,S,13,13.0,2.0,6.0,Browns,2023
+13,43.0,Mohamoud Diabate,5/18/2001,22.0,,225.0,"Florida,Utah",LB,16,1.0,0.0,2.0,Browns,2023
+14,12.0,Jeff Driskel,4/23/1993,30.0,6-4,235.0,"Florida,Louisiana Tech",QB,1,1.0,5.0,1.0,Browns,2023
+15,68.0,Michael Dunn,8/28/1994,29.0,6-5,315.0,Maryland,G,12,2.0,3.0,1.0,Browns,2023
+16,96.0,Jordan Elliott,11/23/1997,26.0,6-4,303.0,"Texas,Missouri",DT,17,14.0,3.0,8.0,Browns,2023
+17,23.0,Martin Emerson,9/27/2000,23.0,6-2,201.0,Mississippi St.,CB,16,12.0,1.0,6.0,Browns,2023
+18,42.0,Tony Fields,6/18/1999,24.0,6-0,222.0,"Arizona,West Virginia",LB,17,4.0,2.0,4.0,Browns,2023
+19,15.0,Joe Flacco,1/16/1985,38.0,6-6,245.0,"Pittsburgh,Delaware",QB,5,5.0,15.0,5.0,Browns,2023
+20,34.0,Jerome Ford,9/12/1999,24.0,5-10,210.0,"Alabama,Cincinnati",RB,17,12.0,1.0,6.0,Browns,2023
+21,28.0,Mike Ford,8/4/1995,28.0,6-0,195.0,SE Missouri St.,LB,16,1.0,5.0,2.0,Browns,2023
+22,95.0,Myles Garrett,12/29/1995,28.0,6-4,272.0,Texas A&M,DE,16,16.0,6.0,20.0,Browns,2023
+23,3.0,Marquise Goodwin,11/19/1990,33.0,5-9,185.0,Texas,WR,12,0.0,10.0,1.0,Browns,2023
+24,31.0,Vincent Gray,12/28/1999,24.0,,192.0,Michigan,DB,1,0.0,0.0,0.0,Browns,2023
+25,38.0,A.J. Green,6/9/1998,25.0,6-2,198.0,Oklahoma St.,CB,3,0.0,3.0,0.0,Browns,2023
+26,39.0,Matt Haack,7/25/1994,29.0,6-0,205.0,Arizona St.,P,1,0.0,6.0,0.0,Browns,2023
+27,25.0,Kahlef Hailassie,11/9/2000,23.0,,194.0,"Oregon,Independence (KS),Western Kentucky",CB,9,1.0,0.0,1.0,Browns,2023
+28,30.0,Duron Harmon,1/24/1991,32.0,6-0,205.0,Rutgers,S,4,0.0,10.0,1.0,Browns,2023
+29,53.0,Nick Harris,11/13/1998,25.0,6-1,293.0,Washington,C,17,2.0,3.0,2.0,Browns,2023
+30,93.0,Shelby Harris,8/11/1991,32.0,6-2,288.0,Illinois St.,DT,17,7.0,9.0,4.0,Browns,2023
+31,33.0,Ronnie Hickman,10/11/2001,22.0,,209.0,Ohio St.,S,10,4.0,0.0,3.0,Browns,2023
+32,7.0,Dustin Hopkins,10/1/1990,33.0,6-2,193.0,Florida St.,K,15,0.0,8.0,4.0,Browns,2023
+33,66.0,James Hudson,5/13/1999,24.0,6-5,313.0,"Michigan,Cincinnati",T,16,7.0,2.0,3.0,Browns,2023
+34,47.0,Charley Hughlett,5/16/1990,33.0,6-4,248.0,Central Florida,LS,17,0.0,8.0,1.0,Browns,2023
+35,27.0,Kareem Hunt,8/6/1995,28.0,5-11,216.0,Toledo,RB,15,2.0,6.0,3.0,Browns,2023
+36,90.0,Maurice Hurst Jr.,5/9/1995,28.0,6-2,290.0,Michigan,DT,13,0.0,5.0,2.0,Browns,2023
+37,62.0,Siaki Ika,11/7/2000,23.0,,335.0,"LSU,Baylor",DT,4,0.0,0.0,0.0,Browns,2023
+38,31.0,Deon Jackson,2/18/1999,24.0,5-11,216.0,Duke,RB,1,0.0,2.0,0.0,Browns,2023
+39,79.0,Dawand Jones,8/6/2001,22.0,,374.0,Ohio St.,T,11,9.0,0.0,4.0,Browns,2023
+40,92.0,Sam Kamara,12/21/1997,26.0,6-0,272.0,Stony Brook,DE,2,0.0,2.0,0.0,Browns,2023
+41,41.0,John Kelly,10/4/1996,27.0,5-10,205.0,Tennessee,RB,0,0.0,5.0,,Browns,2023
+42,51.0,Jordan Kunaszyk,10/15/1996,27.0,6-3,235.0,California,LB,5,0.0,4.0,0.0,Browns,2023
+43,48.0,Tanner McCalister,1/27/2001,22.0,,191.0,"Oklahoma St.,Ohio St.",S,3,0.0,0.0,0.0,Browns,2023
+44,57.0,Isaiah McGuire,7/27/2001,22.0,,268.0,Missouri,DE,4,1.0,0.0,1.0,Browns,2023
+45,26.0,Rodney McLeod,6/23/1990,33.0,5-10,185.0,Virginia,S,10,5.0,11.0,2.0,Browns,2023
+46,29.0,Cameron Mitchell,9/8/2001,22.0,5-11,191.0,Northwestern,CB,13,3.0,0.0,2.0,Browns,2023
+47,8.0,Elijah Moore,3/27/2000,23.0,5-10,180.0,Mississippi,WR,17,12.0,2.0,5.0,Browns,2023
+48,0.0,Greg Newsome II,5/18/2000,23.0,6-0,192.0,Northwestern,CB,14,13.0,2.0,6.0,Browns,2023
+49,85.0,David Njoku,7/10/1996,27.0,6-4,246.0,Miami (FL),TE,16,16.0,6.0,7.0,Browns,2023
+50,72.0,Ty Nsekhe,10/27/1985,38.0,6-8,325.0,Texas St.,T,2,0.0,11.0,0.0,Browns,2023
+51,54.0,Ogbonnia Okoronkwo,4/24/1995,28.0,6-2,250.0,Oklahoma,DE,14,0.0,4.0,2.0,Browns,2023
+52,6.0,Jeremiah Owusu-Koramoah,11/4/1999,24.0,6-2,221.0,Notre Dame,LB,16,13.0,2.0,11.0,Browns,2023
+53,36.0,Riley Patterson,9/7/1999,24.0,6-0,195.0,Memphis,K,2,0.0,2.0,0.0,Browns,2023
+54,11.0,Donovan Peoples-Jones,2/19/1999,24.0,6-2,204.0,Michigan,WR,7,5.0,3.0,1.0,Browns,2023
+55,55.0,Ethan Pocic,8/5/1995,28.0,6-6,320.0,LSU,C,15,15.0,6.0,5.0,Browns,2023
+56,11.0,James Proche,9/21/1996,27.0,5-11,193.0,SMU,WR,10,1.0,3.0,0.0,Browns,2023
+57,99.0,Za'Darius Smith,9/8/1992,31.0,6-4,275.0,"East Mississippi CC,Kentucky",DE,16,16.0,8.0,9.0,Browns,2023
+58,20.0,Pierre Strong,12/10/1998,25.0,5-11,215.0,South Dakota St.,RB,17,1.0,1.0,2.0,Browns,2023
+59,44.0,Sione Takitaki,6/8/1995,28.0,6-1,238.0,BYU,RLB/MLB,15,7.0,4.0,5.0,Browns,2023
+60,77.0,Wyatt Teller,11/21/1994,29.0,6-4,315.0,Virginia Tech,G,17,16.0,5.0,7.0,Browns,2023
+61,35.0,Charlie Thomas,1/31/2000,23.0,6-3,216.0,"Georgia Tech,Stanford",LB,4,0.0,0.0,0.0,Browns,2023
+62,17.0,Dorian Thompson-Robinson,11/14/1999,24.0,6-2,203.0,UCLA,QB,8,3.0,0.0,1.0,Browns,2023
+63,1.0,Juan Thornhill,10/19/1995,28.0,6-0,205.0,Virginia,S,11,11.0,4.0,4.0,Browns,2023
+64,19.0,Cedric Tillman,4/19/2000,23.0,,215.0,Tennessee,WR,14,3.0,0.0,2.0,Browns,2023
+65,94.0,Dalvin Tomlinson,2/28/1994,29.0,6-3,325.0,Alabama,DT,16,16.0,6.0,8.0,Browns,2023
+66,5.0,Anthony Walker,8/8/1995,28.0,6-1,235.0,Northwestern,MLB,12,12.0,6.0,7.0,Browns,2023
+67,10.0,P.J. Walker,2/26/1995,28.0,5-11,215.0,Temple,QB,6,2.0,3.0,2.0,Browns,2023
+68,21.0,Denzel Ward,4/28/1997,26.0,5-11,190.0,Ohio St.,CB,13,11.0,5.0,9.0,Browns,2023
+69,4.0,Deshaun Watson,9/14/1995,28.0,6-3,223.0,Clemson,QB,6,6.0,6.0,4.0,Browns,2023
+70,69.0,Leroy Watson,6/10/1998,25.0,6-5,311.0,"Hutchinson (KS),Texas-San Antonio",T,7,0.0,0.0,0.0,Browns,2023
+71,71.0,Jedrick Wills Jr.,5/17/1999,24.0,6-4,307.0,Alabama,T,8,8.0,3.0,3.0,Browns,2023
+72,91.0,Alex Wright,9/5/2000,23.0,6-5,267.0,Ala-Birmingham,DE,16,1.0,1.0,3.0,Browns,2023
+73,56.0,Luke Wypler,5/3/2001,22.0,,303.0,Ohio St.,C,5,1.0,0.0,1.0,Browns,2023
+74,,Team Total,,26.7,6-1.9,240.8,,,17,,3.9,,Browns,2023

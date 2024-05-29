@@ -1,66 +1,74 @@
-Player,No.,Team,Age,Pos,G,GS,Wt,Ht,College/Univ,BirthDate,Yrs,AV,Drafted (tm/rnd/yr)
-David Andrews,60.0,Patriots,31,C,10,10.0,300.0,6-3,Georgia,7/10/1992,8,,
-Jake Andrews,67.0,Patriots,24,C,10,0.0,308.0,,Troy,11/11/1999,Rook,,New England Patriots / 4th / 107th pick / 2023
-Alex Austin,28.0,Patriots,22,CB,0,0.0,191.0,,Oregon St.,5/22/2001,Rook,,Buffalo Bills / 7th / 252nd pick / 2023
-Bryce Baringer,17.0,Patriots,24,P,10,0.0,215.0,,Michigan St.,4/26/1999,Rook,,New England Patriots / 6th / 192nd pick / 2023
-Christian Barmore,90.0,Patriots,24,DL,10,3.0,315.0,6-5,Alabama,7/28/1999,2,,New England Patriots / 2nd / 38th pick / 2021
-Ja'Whaun Bentley,8.0,Patriots,27,LB,9,9.0,250.0,6-2,Purdue,8/24/1996,5,,New England Patriots / 5th / 143rd pick / 2018
-Chris Board,45.0,Patriots,28,LB,10,0.0,244.0,6-2,North Dakota St.,7/23/1995,5,,
-Kayshon Boutte,80.0,Patriots,21,WR,2,0.0,197.0,,LSU,5/7/2002,Rook,,New England Patriots / 6th / 187th pick / 2023
-Pharaoh Brown,86.0,Patriots,29,TE,10,5.0,246.0,6-5,Oregon,5/4/1994,6,,
-Trent Brown,77.0,Patriots,30,OL,7,7.0,370.0,6-8,"Georgia Military,Florida",4/13/1993,8,,San Francisco 49ers / 7th / 244th pick / 2015
-Myles Bryant,27.0,Patriots,25,DB,10,4.0,192.0,5-9,Washington,1/2/1998,3,,
-Joe Cardona,49.0,Patriots,31,LS,10,0.0,245.0,6-3,Navy,4/16/1992,8,,New England Patriots / 5th / 166th pick / 2015
-Cody Davis,22.0,Patriots,34,DB,4,0.0,205.0,6-2,Texas Tech,6/6/1989,10,,
-Demario Douglas,81.0,Patriots,23,WR,9,4.0,192.0,,Liberty,12/8/2000,Rook,,New England Patriots / 6th / 210th pick / 2023
-Kyle Dugger,23.0,Patriots,27,DB,10,10.0,222.0,6-2,Lenoir-Rhyne,3/22/1996,3,,New England Patriots / 2nd / 37th pick / 2020
-Ezekiel Elliott,15.0,Patriots,28,RB,10,0.0,225.0,6-0,Ohio St.,7/22/1995,7,,Dallas Cowboys / 1st / 4th pick / 2016
-Mike Gesicki,88.0,Patriots,28,TE,10,6.0,245.0,6-6,Penn St.,10/3/1995,5,,Miami Dolphins / 2nd / 42nd pick / 2018
-Davon Godchaux,92.0,Patriots,29,DL,10,10.0,330.0,6-3,LSU,11/11/1994,6,,Miami Dolphins / 5th / 178th pick / 2017
-Will Grier,19.0,Patriots,28,QB,0,0.0,220.0,6-1,"Florida,West Virginia",4/3/1995,4,,Carolina Panthers / 3rd / 100th pick / 2019
-Lawrence Guy,93.0,Patriots,33,DL,10,8.0,315.0,6-4,Arizona St.,3/17/1990,11,,Green Bay Packers / 7th / 233rd pick / 2011
-Jamycal Hasty,39.0,Patriots,27,RB,0,0.0,205.0,5-8,Baylor,9/12/1996,3,,
-Hunter Henry,85.0,Patriots,29,TE,10,7.0,258.0,6-5,Arkansas,12/7/1994,7,,San Diego Chargers / 2nd / 35th pick / 2016
-J.C. Jackson,29.0,Patriots,28,CB,5,3.0,198.0,6-1,"Florida,Riverside CC,Maryland",11/17/1995,5,,
-Anfernee Jennings,33.0,Patriots,26,LB,8,7.0,255.0,6-3,Alabama,5/1/1997,3,,New England Patriots / 3rd / 87th pick / 2020
-Jonathan Jones,31.0,Patriots,30,DB,7,7.0,185.0,5-10,Auburn,9/20/1993,7,,
-Mac Jones,10.0,Patriots,25,QB,10,10.0,220.0,6-3,Alabama,9/5/1998,2,,New England Patriots / 1st / 15th pick / 2021
-Vederian Lowe,59.0,Patriots,24,T,7,5.0,320.0,6-6,Illinois,4/17/1999,1,,Minnesota Vikings / 6th / 184th pick / 2022
-Atonio Mafi,68.0,Patriots,23,OL,10,4.0,330.0,6-3,UCLA,10/20/2000,Rook,,New England Patriots / 5th / 144th pick / 2023
-Marte Mapu,30.0,Patriots,24,LB,10,1.0,230.0,6-3,Sacramento St.,11/8/1999,Rook,,New England Patriots / 3rd / 76th pick / 2023
-Jalen Mills,2.0,Patriots,29,DB,10,4.0,200.0,6-0,LSU,4/6/1994,7,,Philadelphia Eagles / 7th / 233rd pick / 2016
-Ty Montgomery,14.0,Patriots,30,WR,10,0.0,220.0,6-0,Stanford,1/22/1993,8,,Green Bay Packers / 3rd / 94th pick / 2015
-Michael Onwenu,71.0,Patriots,26,OL,8,8.0,350.0,6-3,Michigan,12/10/1997,3,,New England Patriots / 6th / 182nd pick / 2020
-DeVante Parker,1.0,Patriots,30,WR,7,7.0,215.0,6-3,Louisville,1/20/1993,8,,Miami Dolphins / 1st / 14th pick / 2015
-Jabrill Peppers,5.0,Patriots,28,DB,10,10.0,217.0,5-11,Michigan,10/4/1995,6,,Cleveland Browns / 1st / 25th pick / 2017
-Jeremiah Pharms,70.0,Patriots,27,DL,5,0.0,300.0,6-3,"Sacramento CC,Delta College,Friends",10/16/1996,Rook,,
-Adrian Phillips,21.0,Patriots,31,DB,10,1.0,208.0,5-11,Texas,3/28/1992,9,,
-Jalen Reagor,83.0,Patriots,24,WR,5,1.0,197.0,5-11,TCU,1/2/1999,3,,Philadelphia Eagles / 1st / 21st pick / 2020
-Sam Roberts,96.0,Patriots,25,DL,6,1.0,300.0,6-5,NW Missouri St.,4/14/1998,1,,New England Patriots / 6th / 200th pick / 2022
-Chad Ryland,37.0,Patriots,24,K,10,0.0,195.0,,"Eastern Michigan,Maryland",10/15/1999,Rook,,New England Patriots / 4th / 112th pick / 2023
-Brenden Schooler,41.0,Patriots,26,DB,10,0.0,210.0,6-1,"Oregon,Texas",5/30/1997,1,,
-Matthew Slater,18.0,Patriots,38,WR,10,0.0,205.0,6-0,UCLA,9/9/1985,15,,New England Patriots / 5th / 153rd pick / 2008
-JuJu Smith-Schuster,7.0,Patriots,27,WR,8,4.0,215.0,6-1,USC,11/22/1996,6,,Pittsburgh Steelers / 2nd / 62nd pick / 2017
-Sidy Sow,62.0,Patriots,25,OL,8,6.0,318.0,6-5,Eastern Michigan,6/28/1998,Rook,,New England Patriots / 4th / 117th pick / 2023
-Rhamondre Stevenson,38.0,Patriots,25,RB,10,10.0,227.0,6-0,"Cerritos (CA),Oklahoma",2/23/1998,2,,New England Patriots / 4th / 120th pick / 2021
-Cole Strange,69.0,Patriots,25,OL,6,6.0,310.0,6-5,Chattanooga,7/31/1998,1,,New England Patriots / 1st / 29th pick / 2022
-Jahlani Tavai,48.0,Patriots,27,LB,10,9.0,255.0,6-2,Hawaii,9/28/1996,4,,Detroit Lions / 2nd / 43rd pick / 2019
-Tyquan Thornton,11.0,Patriots,23,WR,3,1.0,185.0,6-2,Baylor,8/7/2000,1,,New England Patriots / 2nd / 50th pick / 2022
-Josh Uche,55.0,Patriots,25,LB,8,2.0,240.0,6-3,Michigan,9/18/1998,3,,New England Patriots / 2nd / 60th pick / 2020
-Shaun Wade,26.0,Patriots,25,CB,9,3.0,195.0,6-1,Ohio St.,9/15/1998,2,,Baltimore Ravens / 5th / 160th pick / 2021
-Keion White,99.0,Patriots,24,DE,9,3.0,290.0,6-5,"Old Dominion,Georgia Tech",1/20/1999,Rook,,New England Patriots / 2nd / 46th pick / 2023
-Mack Wilson,3.0,Patriots,25,LB,10,1.0,246.0,6-1,Alabama,2/14/1998,4,,Cleveland Browns / 5th / 155th pick / 2019
-Deatrich Wise Jr.,91.0,Patriots,29,DL,10,7.0,280.0,6-5,Arkansas,7/26/1994,6,,New England Patriots / 4th / 131st pick / 2017
-Bailey Zappe,4.0,Patriots,24,QB,3,0.0,215.0,6-1,"Houston Baptist,Western Kentucky",4/26/1999,1,,New England Patriots / 4th / 137th pick / 2022
-Riley Reiff (IRD),74.0,Patriots,35,OL,1,0.0,310.0,6-6,Iowa,12/1/1988,11,,Detroit Lions / 1st / 23rd pick / 2012
-Calvin Anderson (IR),76.0,Patriots,27,OL,5,2.0,305.0,6-5,"Rice,Texas",3/25/1996,3,,
-Isaiah Bolden (IR),7.0,Patriots,24,CB,0,0.0,205.0,6-2,"Florida St.,Jackson St.",12/16/1999,Rook,,New England Patriots / 7th / 245th pick / 2023
-Kendrick Bourne (IR),84.0,Patriots,28,WR,8,5.0,205.0,6-1,Eastern Washington,8/4/1995,6,,
-Daniel Ekuale (IR),95.0,Patriots,29,DL,3,0.0,310.0,6-3,Washington St.,1/13/1994,4,,
-Christian Gonzalez (IR),6.0,Patriots,21,CB,4,4.0,205.0,,"Colorado,Oregon",6/28/2002,Rook,,New England Patriots / 1st / 17th pick / 2023
-Marcus Jones (IR),25.0,Patriots,25,DB,2,1.0,188.0,5-8,"Troy,Houston",10/22/1998,1,,New England Patriots / 3rd / 85th pick / 2022
-Matt Judon (IR),9.0,Patriots,31,LB,4,2.0,270.0,6-3,Grand Valley St.,8/15/1992,7,,Baltimore Ravens / 5th / 146th pick / 2016
-Raekwon McMillan (IR),50.0,Patriots,28,LB,0,0.0,250.0,6-2,Ohio St.,11/17/1995,5,,Miami Dolphins / 2nd / 54th pick / 2017
-Tre Nixon (IR),82.0,Patriots,25,WR,0,0.0,190.0,6-2,"Mississippi,Central Florida",1/26/1998,Rook,,New England Patriots / 7th / 242nd pick / 2021
-Tyrone Wheatley Jr. (IR),72.0,Patriots,26,T,2,0.0,320.0,6-6,"Michigan,Stony Brook",2/4/1997,Rook,,
-Team Total,,Patriots,27,,10,,249.5,6-2.3,,,3.9,,
+,No.,Player,BirthDate,Age,Height,Weight,College/University,Position,Games_Played_in_Season,Games_Started_in_Season,NFL_Years,Player_Value,Team,Year
+0,76.0,Calvin Anderson,3/25/1996,27.0,6-5,305.0,"Rice,Texas",OL,5,2.0,3.0,1.0,Patriots,2023
+1,60.0,David Andrews,7/10/1992,31.0,6-3,300.0,Georgia,C,17,17.0,8.0,5.0,Patriots,2023
+2,67.0,Jake Andrews,11/11/1999,24.0,,308.0,Troy,C,16,1.0,0.0,1.0,Patriots,2023
+3,28.0,Alex Austin,5/22/2001,22.0,,191.0,Oregon St.,CB,5,1.0,0.0,1.0,Patriots,2023
+4,17.0,Bryce Baringer,4/26/1999,24.0,,215.0,Michigan St.,P,17,0.0,0.0,3.0,Patriots,2023
+5,90.0,Christian Barmore,7/28/1999,24.0,6-5,315.0,Alabama,DL,17,6.0,2.0,5.0,Patriots,2023
+6,8.0,Ja'Whaun Bentley,8/24/1996,27.0,6-2,250.0,Purdue,LB,16,16.0,5.0,9.0,Patriots,2023
+7,24.0,Joshuah Bledsoe,12/30/1998,25.0,5-11,207.0,Missouri,S,1,0.0,1.0,0.0,Patriots,2023
+8,45.0,Chris Board,7/23/1995,28.0,6-2,244.0,North Dakota St.,LB,17,0.0,5.0,2.0,Patriots,2023
+9,84.0,Kendrick Bourne,8/4/1995,28.0,6-1,205.0,Eastern Washington,WR,8,5.0,6.0,3.0,Patriots,2023
+10,80.0,Kayshon Boutte,5/7/2002,21.0,,197.0,LSU,WR,5,0.0,0.0,0.0,Patriots,2023
+11,86.0,Pharaoh Brown,5/4/1994,29.0,6-5,246.0,Oregon,TE,17,11.0,6.0,1.0,Patriots,2023
+12,77.0,Trent Brown,4/13/1993,30.0,6-8,370.0,"Georgia Military,Florida",OL,11,8.0,8.0,2.0,Patriots,2023
+13,27.0,Myles Bryant,1/2/1998,25.0,5-9,192.0,Washington,DB,17,9.0,3.0,4.0,Patriots,2023
+14,49.0,Joe Cardona,4/16/1992,31.0,6-3,245.0,Navy,LS,17,0.0,8.0,1.0,Patriots,2023
+15,16.0,Malik Cunningham,10/6/1998,25.0,,198.0,Louisville,QB,1,0.0,0.0,0.0,Patriots,2023
+16,22.0,Cody Davis,6/6/1989,34.0,6-2,205.0,Texas Tech,DB,11,0.0,10.0,1.0,Patriots,2023
+17,81.0,Demario Douglas,12/8/2000,23.0,,192.0,Liberty,WR,14,7.0,0.0,4.0,Patriots,2023
+18,23.0,Kyle Dugger,3/22/1996,27.0,6-2,222.0,Lenoir-Rhyne,DB,17,17.0,3.0,7.0,Patriots,2023
+19,95.0,Daniel Ekuale,1/13/1994,29.0,6-3,310.0,Washington St.,DL,3,0.0,4.0,0.0,Patriots,2023
+20,15.0,Ezekiel Elliott,7/22/1995,28.0,6-0,225.0,Ohio St.,RB,17,5.0,7.0,5.0,Patriots,2023
+21,53.0,Christian Elliss,1/2/1999,24.0,6-3,231.0,Idaho,LB,4,0.0,2.0,0.0,Patriots,2023
+22,65.0,James Ferentz,6/5/1989,34.0,6-2,290.0,Iowa,G,1,1.0,8.0,0.0,Patriots,2023
+23,88.0,Mike Gesicki,10/3/1995,28.0,6-6,245.0,Penn St.,TE,17,10.0,5.0,2.0,Patriots,2023
+24,92.0,Davon Godchaux,11/11/1994,29.0,6-3,330.0,LSU,DL,17,17.0,6.0,10.0,Patriots,2023
+25,6.0,Christian Gonzalez,6/28/2002,21.0,,205.0,"Colorado,Oregon",CB,4,4.0,0.0,2.0,Patriots,2023
+26,93.0,Lawrence Guy,3/17/1990,33.0,6-4,315.0,Arizona St.,RDE,17,12.0,11.0,7.0,Patriots,2023
+27,36.0,Kevin Harris,11/17/2000,23.0,5-10,225.0,South Carolina,RB,4,0.0,1.0,1.0,Patriots,2023
+28,39.0,Jamycal Hasty,9/12/1996,27.0,5-8,205.0,Baylor,RB,2,0.0,3.0,0.0,Patriots,2023
+29,85.0,Hunter Henry,12/7/1994,29.0,6-5,258.0,Arkansas,TE,14,10.0,7.0,3.0,Patriots,2023
+30,97.0,Trysten Hill,3/25/1998,25.0,6-3,310.0,Central Florida,DT,1,0.0,4.0,0.0,Patriots,2023
+31,29.0,J.C. Jackson,11/17/1995,28.0,6-1,198.0,"Florida,Riverside CC,Maryland",RCB,8,6.0,5.0,2.0,Patriots,2023
+32,33.0,Anfernee Jennings,9/1/1997,26.0,6-3,255.0,Alabama,LB,15,14.0,3.0,8.0,Patriots,2023
+33,13.0,Jack Jones,12/20/1997,26.0,5-11,180.0,"USC,Moorpark College,Arizona St.",CB,5,0.0,1.0,0.0,Patriots,2023
+34,31.0,Jonathan Jones,9/20/1993,30.0,5-10,185.0,Auburn,DB,14,14.0,7.0,5.0,Patriots,2023
+35,10.0,Mac Jones,9/5/1998,25.0,6-3,220.0,Alabama,QB,11,11.0,2.0,3.0,Patriots,2023
+36,25.0,Marcus Jones,10/22/1998,25.0,5-8,188.0,"Troy,Houston",DB,2,1.0,1.0,1.0,Patriots,2023
+37,9.0,Matt Judon,8/15/1992,31.0,6-3,270.0,Grand Valley St.,LB,4,2.0,7.0,2.0,Patriots,2023
+38,59.0,Vederian Lowe,4/17/1999,24.0,6-6,320.0,Illinois,T,11,8.0,1.0,3.0,Patriots,2023
+39,68.0,Atonio Mafi,10/20/2000,23.0,6-3,330.0,UCLA,OL,17,5.0,0.0,2.0,Patriots,2023
+40,30.0,Marte Mapu,11/8/1999,24.0,6-3,230.0,Sacramento St.,LB,17,1.0,0.0,2.0,Patriots,2023
+41,75.0,Conor McDermott,10/19/1992,31.0,6-8,305.0,UCLA,T,6,5.0,6.0,2.0,Patriots,2023
+42,2.0,Jalen Mills,4/6/1994,29.0,6-0,200.0,LSU,DB,17,8.0,7.0,4.0,Patriots,2023
+43,14.0,Ty Montgomery,1/22/1993,30.0,6-0,220.0,Stanford,RB,13,0.0,8.0,0.0,Patriots,2023
+44,43.0,Calvin Munson,12/27/1994,29.0,6-1,240.0,San Diego St.,LB,3,0.0,6.0,0.0,Patriots,2023
+45,71.0,Michael Onwenu,12/10/1997,26.0,6-3,350.0,Michigan,OL,15,15.0,3.0,4.0,Patriots,2023
+46,1.0,DeVante Parker,1/20/1993,30.0,6-3,215.0,Louisville,WR,13,13.0,8.0,2.0,Patriots,2023
+47,5.0,Jabrill Peppers,10/4/1995,28.0,5-11,217.0,Michigan,DB,15,15.0,6.0,7.0,Patriots,2023
+48,70.0,Jeremiah Pharms,10/16/1996,27.0,6-3,300.0,"Sacramento CC,Delta College,Friends",DL,12,0.0,0.0,1.0,Patriots,2023
+49,21.0,Adrian Phillips,3/28/1992,31.0,5-11,208.0,Texas,DE,17,1.0,9.0,1.0,Patriots,2023
+50,83.0,Jalen Reagor,1/2/1999,24.0,5-11,197.0,TCU,WR,11,1.0,3.0,2.0,Patriots,2023
+51,74.0,Riley Reiff,12/1/1988,35.0,6-6,310.0,Iowa,OL,1,0.0,11.0,0.0,Patriots,2023
+52,96.0,Sam Roberts,4/14/1998,25.0,6-5,300.0,NW Missouri St.,DL,7,1.0,1.0,1.0,Patriots,2023
+53,37.0,Chad Ryland,10/15/1999,24.0,,195.0,"Eastern Michigan,Maryland",K,17,0.0,0.0,0.0,Patriots,2023
+54,41.0,Brenden Schooler,5/30/1997,26.0,6-1,210.0,"Oregon,Texas",DB,17,0.0,1.0,2.0,Patriots,2023
+55,18.0,Matthew Slater,9/9/1985,38.0,6-0,205.0,UCLA,WR,16,0.0,15.0,0.0,Patriots,2023
+56,7.0,JuJu Smith-Schuster,11/22/1996,27.0,6-1,215.0,USC,WR,11,7.0,6.0,2.0,Patriots,2023
+57,87.0,Matt Sokol,11/9/1995,28.0,6-5,258.0,Michigan St.,TE,3,1.0,3.0,0.0,Patriots,2023
+58,62.0,Sidy Sow,6/28/1998,25.0,6-5,318.0,Eastern Michigan,OL,15,13.0,0.0,4.0,Patriots,2023
+59,28.0,Ameer Speed,10/13/2000,23.0,6-3,215.0,"Georgia,Michigan St.",CB,5,0.0,0.0,0.0,Patriots,2023
+60,38.0,Rhamondre Stevenson,2/23/1998,25.0,6-0,227.0,"Cerritos (CA),Oklahoma",RB,12,12.0,2.0,4.0,Patriots,2023
+61,69.0,Cole Strange,7/31/1998,25.0,6-5,310.0,Chattanooga,OL,10,10.0,1.0,3.0,Patriots,2023
+62,48.0,Jahlani Tavai,9/28/1996,27.0,6-2,255.0,Hawaii,LB,17,16.0,4.0,10.0,Patriots,2023
+63,11.0,Tyquan Thornton,9/7/2000,23.0,6-2,185.0,Baylor,WR,9,3.0,1.0,1.0,Patriots,2023
+64,55.0,Josh Uche,9/18/1998,25.0,6-3,240.0,Michigan,LB,15,2.0,3.0,3.0,Patriots,2023
+65,26.0,Shaun Wade,9/15/1998,25.0,6-1,195.0,Ohio St.,CB,14,6.0,2.0,3.0,Patriots,2023
+66,72.0,Tyrone Wheatley Jr.,2/4/1997,26.0,6-6,320.0,"Michigan,Stony Brook",T,2,0.0,0.0,0.0,Patriots,2023
+67,99.0,Keion White,1/20/1999,24.0,6-5,290.0,"Old Dominion,Georgia Tech",DE,16,4.0,0.0,3.0,Patriots,2023
+68,3.0,Mack Wilson,2/14/1998,25.0,6-1,246.0,Alabama,LB,17,1.0,4.0,2.0,Patriots,2023
+69,19.0,Marco Wilson,3/3/1999,24.0,6-0,191.0,Florida,CB,1,0.0,2.0,0.0,Patriots,2023
+70,91.0,Deatrich Wise Jr.,7/26/1994,29.0,6-5,280.0,Arkansas,DL,16,13.0,6.0,8.0,Patriots,2023
+71,4.0,Bailey Zappe,4/26/1999,24.0,6-1,215.0,"Houston Baptist,Western Kentucky",QB,10,6.0,1.0,0.0,Patriots,2023
+72,,Team Total,,26.9,6-2.1,246.7,,,17,,3.8,,Patriots,2023

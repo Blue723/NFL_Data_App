@@ -1,23 +1,21 @@
-,Week,Team,Day,Date,Time,Win/Loss,Overtime,Team Record,Home/Away,Opponent,Points Scored,Points Allowed,Offense 1st Down,Total Yards Gained of Offense,Total yards Gained by Passing,Total Yards Gained by Rushing,Offense Turnovers,Defense 1st Down,Total Yards Allowed by Defense,Total Passing Yards Allowed by Defense,Total Rushing Yards Allowed by Defense,Defense Turnovers,Offense,Defense,Sp. Tms,Year
-0,0,49ers,Sun,September 10,,W,0,1-0,away,Pittsburgh Steelers,30,7,22,391,203,188,1,15,239,198,41,2,9.73,13.55,-0.78,2023
-1,1,49ers,Sun,September 17,,W,0,2-0,away,Los Angeles Rams,30,23,21,365,206,159,0,28,386,297,89,2,12.36,-3.31,-2.05,2023
-2,2,49ers,Thu,September 21,,W,0,3-0,home,New York Giants,30,12,26,441,300,141,0,10,150,121,29,1,19.0,11.82,-9.72,2023
-3,3,49ers,Sun,October 1,,W,0,4-0,home,Arizona Cardinals,35,16,30,395,271,124,0,23,362,257,105,0,30.46,-9.72,-1.63,2023
-4,4,49ers,Sun,October 8,,W,0,5-0,home,Dallas Cowboys,42,10,25,421,251,170,1,8,197,140,57,4,12.84,23.12,-5.21,2023
-5,5,49ers,Sun,October 15,,L,0,5-1,away,Cleveland Browns,17,19,15,215,107,108,1,18,334,174,160,2,-6.05,11.32,-7.34,2023
-6,6,49ers,Mon,October 23,,L,0,5-2,away,Minnesota Vikings,17,22,19,325,260,65,3,24,452,378,74,1,5.43,-16.3,6.07,2023
-7,7,49ers,Sun,October 29,,L,0,5-3,home,Cincinnati Bengals,17,31,24,460,347,113,3,29,400,266,134,1,9.25,-18.3,2.48,2023
-8,8,49ers,,,,,0,,home,<strong>Bye Week</strong>,0,0,0,0,0,0,0,0,0,0,0,0,,,,2023
-9,9,49ers,Sun,November 12,,W,0,6-3,away,Jacksonville Jaguars,34,3,20,437,293,144,0,12,221,162,59,4,15.13,18.16,-3.53,2023
-10,10,49ers,Sun,November 19,,W,0,7-3,home,Tampa Bay Buccaneers,27,14,22,420,305,115,0,22,287,221,66,2,14.22,2.05,-2.57,2023
-11,11,49ers,Thu,November 23,,W,0,8-3,away,Seattle Seahawks,31,13,23,377,208,169,1,14,220,132,88,2,8.06,10.62,-0.59,2023
-12,12,49ers,Sun,December 3,,W,0,9-3,away,Philadelphia Eagles,42,19,24,456,310,146,0,23,333,287,46,0,33.55,-6.22,-2.11,2023
-13,13,49ers,Sun,December 10,,W,0,10-3,home,Seattle Seahawks,28,16,19,527,354,173,2,17,324,254,70,2,19.7,1.61,-3.47,2023
-14,14,49ers,Sun,December 17,,W,0,11-3,away,Arizona Cardinals,45,29,24,406,262,144,0,22,436,202,234,2,26.28,-5.83,-1.07,2023
-15,15,49ers,Mon,December 25,,L,0,11-4,home,Baltimore Ravens,19,33,21,429,308,121,5,23,343,241,102,0,-4.26,-11.84,1.31,2023
-16,16,49ers,Sun,December 31,,W,0,12-4,away,Washington Commanders,27,10,28,408,224,184,0,12,225,163,62,2,16.3,6.62,-3.5,2023
-17,17,49ers,Sun,January 7,,L,0,12-5,home,Los Angeles Rams,20,21,20,300,175,125,1,19,258,149,109,1,9.48,-11.3,-2.42,2023
-18,18,49ers,,<strong>Playoffs</strong>,,,0,,home,,0,0,0,0,0,0,0,0,0,0,0,0,,,,2023
-19,19,49ers,Sat,January 20,,W,0,13-5,home,Green Bay Packers,24,21,19,356,245,111,0,20,330,194,136,2,12.57,-5.63,-1.49,2023
-20,20,49ers,Sun,January 28,,W,0,14-5,home,Detroit Lions,34,31,23,413,258,155,1,28,442,260,182,1,19.87,-14.76,-1.23,2023
-21,21,1,1,1,1.0,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1.0,1.0,1.0,1
+,Week,Day,Date,Time,Win/Loss,Overtime,Team Record,Home/Away,Opponent,Points Scored,Points Allowed,Offense 1st Down,Total Yards Gained of Offense,Total yards Gained by Passing,Total Yards Gained by Rushing,Offense Turnovers,Defense 1st Down,Total Yards Allowed by Defense,Total Passing Yards Allowed by Defense,Total Rushing Yards Allowed by Defense,Defense Turnovers,Offense,Defense,Sp. Tms,Team,Year
+0,1,Sun,2023-09-10,nan,Win,0,1-0,away,Pittsburgh Steelers,30,7,22,391,203,188,1,15,239,198,41,2,9.73,13.55,-0.78,49ers,2023
+1,2,Sun,2023-09-17,nan,Win,0,2-0,away,Los Angeles Rams,30,23,21,365,206,159,0,28,386,297,89,2,12.36,-3.31,-2.05,49ers,2023
+2,3,Thu,2023-09-21,nan,Win,0,3-0,home,New York Giants,30,12,26,441,300,141,0,10,150,121,29,1,19.0,11.82,-9.72,49ers,2023
+3,4,Sun,2023-10-01,nan,Win,0,4-0,home,Arizona Cardinals,35,16,30,395,271,124,0,23,362,257,105,0,30.46,-9.72,-1.63,49ers,2023
+4,5,Sun,2023-10-08,nan,Win,0,5-0,home,Dallas Cowboys,42,10,25,421,251,170,1,8,197,140,57,4,12.84,23.12,-5.21,49ers,2023
+5,6,Sun,2023-10-15,nan,Loss,0,5-1,away,Cleveland Browns,17,19,15,215,107,108,1,18,334,174,160,2,-6.05,11.32,-7.34,49ers,2023
+6,7,Mon,2023-10-23,nan,Loss,0,5-2,away,Minnesota Vikings,17,22,19,325,260,65,3,24,452,378,74,1,5.43,-16.3,6.07,49ers,2023
+7,8,Sun,2023-10-29,nan,Loss,0,5-3,home,Cincinnati Bengals,17,31,24,460,347,113,3,29,400,266,134,1,9.25,-18.3,2.48,49ers,2023
+8,10,Sun,2023-11-12,nan,Win,0,6-3,away,Jacksonville Jaguars,34,3,20,437,293,144,0,12,221,162,59,4,15.13,18.16,-3.53,49ers,2023
+9,11,Sun,2023-11-19,nan,Win,0,7-3,home,Tampa Bay Buccaneers,27,14,22,420,305,115,0,22,287,221,66,2,14.22,2.05,-2.57,49ers,2023
+10,12,Thu,2023-11-23,nan,Win,0,8-3,away,Seattle Seahawks,31,13,23,377,208,169,1,14,220,132,88,2,8.06,10.62,-0.59,49ers,2023
+11,13,Sun,2023-12-03,nan,Win,0,9-3,away,Philadelphia Eagles,42,19,24,456,310,146,0,23,333,287,46,0,33.55,-6.22,-2.11,49ers,2023
+12,14,Sun,2023-12-10,nan,Win,0,10-3,home,Seattle Seahawks,28,16,19,527,354,173,2,17,324,254,70,2,19.7,1.61,-3.47,49ers,2023
+13,15,Sun,2023-12-17,nan,Win,0,11-3,away,Arizona Cardinals,45,29,24,406,262,144,0,22,436,202,234,2,26.28,-5.83,-1.07,49ers,2023
+14,16,Mon,2023-12-25,nan,Loss,0,11-4,home,Baltimore Ravens,19,33,21,429,308,121,5,23,343,241,102,0,-4.26,-11.84,1.31,49ers,2023
+15,17,Sun,2023-12-31,nan,Win,0,12-4,away,Washington Commanders,27,10,28,408,224,184,0,12,225,163,62,2,16.3,6.62,-3.5,49ers,2023
+16,18,Sun,2024-01-07,nan,Loss,0,12-5,home,Los Angeles Rams,20,21,20,300,175,125,1,19,258,149,109,1,9.48,-11.3,-2.42,49ers,2023
+17,20,Sat,2024-01-20,nan,Win,0,13-5,home,Green Bay Packers,24,21,19,356,245,111,0,20,330,194,136,2,12.57,-5.63,-1.49,49ers,2023
+18,21,Sun,2024-01-28,nan,Win,0,14-5,home,Detroit Lions,34,31,23,413,258,155,1,28,442,260,182,1,19.87,-14.76,-1.23,49ers,2023
+19,22,Sun,2024-02-11,nan,Loss,1,14-6,home,Kansas City Chiefs,22,25,23,382,272,110,2,24,455,325,130,2,4.68,-3.42,-3.39,49ers,2023

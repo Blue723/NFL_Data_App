@@ -1,41 +1,41 @@
-,Rank,Team,Date,Opponent,Win/Loss,Score,Quarter,Distance,Type,Detail,Year
-0,1,Texans,09/17/2023,IND,Loss, 20-31,1,8,pass,Nico Collins,2023
-1,2,Texans,09/17/2023,IND,Loss, 20-31,4,23,pass,Tank Dell,2023
-2,3,Texans,09/24/2023,JAX,Win, 37-17,1,1,rush,Dameon Pierce,2023
-3,4,Texans,09/24/2023,JAX,Win, 37-17,2,4,pass,Brevin Jordan,2023
-4,5,Texans,09/24/2023,JAX,Win, 37-17,3,85,kickoff,Andrew Beck,2023
-5,6,Texans,09/24/2023,JAX,Win, 37-17,4,68,pass,Tank Dell,2023
-6,7,Texans,10/01/2023,PIT,Win, 30-6,1,2,pass,Nico Collins,2023
-7,8,Texans,10/01/2023,PIT,Win, 30-6,4,6,pass,Dalton Schultz,2023
-8,9,Texans,10/01/2023,PIT,Win, 30-6,4,52,pass,Nico Collins,2023
-9,10,Texans,10/08/2023,ATL,Loss, 19-21,4,18,pass,Dalton Schultz,2023
-10,11,Texans,10/15/2023,NOR,Win, 20-13,1,1,pass,Dalton Schultz,2023
-11,12,Texans,10/15/2023,NOR,Win, 20-13,2,6,pass,Robert Woods,2023
-12,13,Texans,10/29/2023,CAR,Loss, 13-15,2,1,rush,Andrew Beck,2023
-13,14,Texans,10/29/2023,CAR,Loss, 13-15,3,1,rush,C.J. Stroud,2023
-14,15,Texans,11/05/2023,TAM,Win, 39-37,1,14,pass,Nico Collins,2023
-15,16,Texans,11/05/2023,TAM,Win, 39-37,3,75,pass,Noah Brown,2023
-16,17,Texans,11/05/2023,TAM,Win, 39-37,3,29,pass,Tank Dell,2023
-17,18,Texans,11/05/2023,TAM,Win, 39-37,4,9,pass,Dalton Schultz,2023
-18,19,Texans,11/05/2023,TAM,Win, 39-37,4,15,pass,Tank Dell,2023
-19,20,Texans,11/12/2023,CIN,Win, 30-27,2,6,pass,Tank Dell,2023
-20,21,Texans,11/12/2023,CIN,Win, 30-27,3,6,rush,Devin Singletary,2023
-21,22,Texans,11/12/2023,CIN,Win, 30-27,4,8,rush,C.J. Stroud,2023
-22,23,Texans,11/19/2023,ARI,Win, 21-16,1,20,pass,Dalton Schultz,2023
-23,24,Texans,11/19/2023,ARI,Win, 21-16,2,11,rush,Devin Singletary,2023
-24,25,Texans,11/19/2023,ARI,Win, 21-16,2,40,pass,Tank Dell,2023
-25,26,Texans,11/26/2023,JAX,Loss, 21-24,2,7,pass,Tank Dell,2023
-26,27,Texans,11/26/2023,JAX,Loss, 21-24,3,1,rush,C.J. Stroud,2023
-27,28,Texans,11/26/2023,JAX,Loss, 21-24,4,17,pass,Nico Collins,2023
-28,29,Texans,12/03/2023,DEN,Win, 22-17,1,3,rush,Dameon Pierce,2023
-29,30,Texans,12/03/2023,DEN,Win, 22-17,4,3,pass,Nico Collins,2023
-30,31,Texans,12/10/2023,NYJ,Loss, 6-30,3,1,rush,Devin Singletary,2023
-31,32,Texans,12/17/2023,TEN,Win, 19-16,4,3,pass,Noah Brown,2023
-32,33,Texans,12/24/2023,CLE,Loss, 22-36,2,98,kickoff,Dameon Pierce,2023
-33,34,Texans,12/24/2023,CLE,Loss, 22-36,4,5,pass,Nico Collins,2023
-34,35,Texans,12/24/2023,CLE,Loss, 22-36,4,1,pass,Andrew Beck,2023
-35,36,Texans,12/31/2023,TEN,Win, 26-3,2,12,pass,Brevin Jordan,2023
-36,37,Texans,12/31/2023,TEN,Win, 26-3,2,13,fumble,Sheldon Rankins,2023
-37,38,Texans,01/06/2024,IND,Win, 23-19,1,75,pass,Nico Collins,2023
-38,39,Texans,01/06/2024,IND,Win, 23-19,2,1,pass,Andrew Beck,2023
-39,40,Texans,01/06/2024,IND,Win, 23-19,4,3,rush,Devin Singletary,2023
+,Rank,Team,Date,Opponent,Win/Loss,Home_Score,Opponenet_Score,Quarter,Distance,Type,Detail
+1,1,Texans,2023-09-17,IND,Loss,20,31,1,8,pass,Nico Collins
+2,2,Texans,2023-09-17,IND,Loss,20,31,4,23,pass,Tank Dell
+3,3,Texans,2023-09-24,JAX,Win,37,17,1,1,rush,Dameon Pierce
+4,4,Texans,2023-09-24,JAX,Win,37,17,2,4,pass,Brevin Jordan
+5,5,Texans,2023-09-24,JAX,Win,37,17,3,85,kickoff,Andrew Beck
+6,6,Texans,2023-09-24,JAX,Win,37,17,4,68,pass,Tank Dell
+7,7,Texans,2023-10-01,PIT,Win,30,6,1,2,pass,Nico Collins
+8,8,Texans,2023-10-01,PIT,Win,30,6,4,6,pass,Dalton Schultz
+9,9,Texans,2023-10-01,PIT,Win,30,6,4,52,pass,Nico Collins
+10,10,Texans,2023-10-08,ATL,Loss,19,21,4,18,pass,Dalton Schultz
+11,11,Texans,2023-10-15,NOR,Win,20,13,1,1,pass,Dalton Schultz
+12,12,Texans,2023-10-15,NOR,Win,20,13,2,6,pass,Robert Woods
+13,13,Texans,2023-10-29,CAR,Loss,13,15,2,1,rush,Andrew Beck
+14,14,Texans,2023-10-29,CAR,Loss,13,15,3,1,rush,C.J. Stroud
+15,15,Texans,2023-11-05,TAM,Win,39,37,1,14,pass,Nico Collins
+16,16,Texans,2023-11-05,TAM,Win,39,37,3,75,pass,Noah Brown
+17,17,Texans,2023-11-05,TAM,Win,39,37,3,29,pass,Tank Dell
+18,18,Texans,2023-11-05,TAM,Win,39,37,4,9,pass,Dalton Schultz
+19,19,Texans,2023-11-05,TAM,Win,39,37,4,15,pass,Tank Dell
+20,20,Texans,2023-11-12,CIN,Win,30,27,2,6,pass,Tank Dell
+21,21,Texans,2023-11-12,CIN,Win,30,27,3,6,rush,Devin Singletary
+22,22,Texans,2023-11-12,CIN,Win,30,27,4,8,rush,C.J. Stroud
+23,23,Texans,2023-11-19,ARI,Win,21,16,1,20,pass,Dalton Schultz
+24,24,Texans,2023-11-19,ARI,Win,21,16,2,11,rush,Devin Singletary
+25,25,Texans,2023-11-19,ARI,Win,21,16,2,40,pass,Tank Dell
+26,26,Texans,2023-11-26,JAX,Loss,21,24,2,7,pass,Tank Dell
+27,27,Texans,2023-11-26,JAX,Loss,21,24,3,1,rush,C.J. Stroud
+28,28,Texans,2023-11-26,JAX,Loss,21,24,4,17,pass,Nico Collins
+29,29,Texans,2023-12-03,DEN,Win,22,17,1,3,rush,Dameon Pierce
+30,30,Texans,2023-12-03,DEN,Win,22,17,4,3,pass,Nico Collins
+31,31,Texans,2023-12-10,NYJ,Loss,6,30,3,1,rush,Devin Singletary
+32,32,Texans,2023-12-17,TEN,Win,19,16,4,3,pass,Noah Brown
+33,33,Texans,2023-12-24,CLE,Loss,22,36,2,98,kickoff,Dameon Pierce
+34,34,Texans,2023-12-24,CLE,Loss,22,36,4,5,pass,Nico Collins
+35,35,Texans,2023-12-24,CLE,Loss,22,36,4,1,pass,Andrew Beck
+36,36,Texans,2023-12-31,TEN,Win,26,3,2,12,pass,Brevin Jordan
+37,37,Texans,2023-12-31,TEN,Win,26,3,2,13,fumble,Sheldon Rankins
+38,38,Texans,2024-01-06,IND,Win,23,19,1,75,pass,Nico Collins
+39,39,Texans,2024-01-06,IND,Win,23,19,2,1,pass,Andrew Beck
+40,40,Texans,2024-01-06,IND,Win,23,19,4,3,rush,Devin Singletary
