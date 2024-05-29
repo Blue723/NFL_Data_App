@@ -1,11 +1,11 @@
-,No.,Team,Player,Age,Position,Games Played,Games Started,Punts Returned,Punts Return Yardage,Punts Returned for Touchdown,Longest Punt Return,Yards per Punt Return,Kickoff Returns,Yardage for Kickoffs Returned,Kickoffs Returned for a Touchdown,Longest Kickoff Return,Yards per Kickoff Return,All-purpose Yards,Year
-0,36,Cardinals,LaRod Stephens-Howling,23,RB,13,2,0,0,0,0,,57,1548,2,102,27.2,1772,2010
-1,12,Cardinals,Andre Roberts,22,WR,15,2,35,263,0,25,7.5,14,326,0,47,23.3,896,2010
-2,15,Cardinals,Steve Breaston,27,WR,13,11,0,0,0,0,,7,162,0,27,23.1,915,2010
-3,18,Cardinals,Max Komar,23,WR,8,0,5,31,0,9,6.2,0,0,0,0,,148,2010
-4,83,Cardinals,Stephen Spach,28,TE,15,11,0,0,0,0,,2,26,0,15,13.0,66,2010
-5,31,Cardinals,Jason Wright,28,RB,15,1,0,0,0,0,,2,8,0,8,4.0,78,2010
-6,52,Cardinals,Cyril Obiozor,24,LB,6,0,0,0,0,0,,1,0,0,0,0.0,0,2010
-7,29,Cardinals,Dominique Rodgers-Cromartie,24,LCB,16,16,1,0,0,0,0.0,0,0,0,0,,86,2010
-8,22,Cardinals,Matt Ware,28,DB,14,0,1,0,0,0,0.0,0,0,0,0,,0,2010
-9,14,Cardinals,Stephen Williams,24,WR,11,3,0,0,0,0,,1,14,0,14,14.0,115,2010
+,No.,Player,Age,Position,Games Played,Games Started,Punts Returned,Punts Return Yardage,Punts Returned for Touchdown,Longest Punt Return,Yards per Punt Return,Kickoff Returns,Yardage for Kickoffs Returned,Kickoffs Returned for a Touchdown,Longest Kickoff Return,Yards per Kickoff Return,All-purpose Yards,Team,Year
+36,36,LaRod Stephens-Howling,23,RB,13,2,0,0,0,0,0.0,57,1548,2,102,27.2,1772,Cardinals,2010
+12,12,Andre Roberts,22,WR,15,2,35,263,0,25,7.5,14,326,0,47,23.3,896,Cardinals,2010
+15,15,Steve Breaston,27,WR,13,11,0,0,0,0,0.0,7,162,0,27,23.1,915,Cardinals,2010
+18,18,Max Komar,23,WR,8,0,5,31,0,9,6.2,0,0,0,0,0.0,148,Cardinals,2010
+83,83,Stephen Spach,28,TE,15,11,0,0,0,0,0.0,2,26,0,15,13.0,66,Cardinals,2010
+31,31,Jason Wright,28,RB,15,1,0,0,0,0,0.0,2,8,0,8,4.0,78,Cardinals,2010
+52,52,Cyril Obiozor,24,LB,6,0,0,0,0,0,0.0,1,0,0,0,0.0,0,Cardinals,2010
+29,29,Dominique Rodgers-Cromartie,24,LCB,16,16,1,0,0,0,0.0,0,0,0,0,0.0,86,Cardinals,2010
+22,22,Matt Ware,28,DB,14,0,1,0,0,0,0.0,0,0,0,0,0.0,0,Cardinals,2010
+14,14,Stephen Williams,24,WR,11,3,0,0,0,0,0.0,1,14,0,14,14.0,115,Cardinals,2010

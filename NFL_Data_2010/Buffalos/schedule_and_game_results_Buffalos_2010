@@ -1,18 +1,17 @@
-,Week,Team,Day,Date,Time,Win/Loss,Overtime,Team Record,Home/Away,Opponent,Points Scored,Points Allowed,Offense 1st Down,Total Yards Gained of Offense,Total yards Gained by Passing,Total Yards Gained by Rushing,Offense Turnovers,Defense 1st Down,Total Yards Allowed by Defense,Total Passing Yards Allowed by Defense,Total Rushing Yards Allowed by Defense,Defense Turnovers,Offense,Defense,Sp. Tms,Year
-0,0,Buffalos,Sun,September 12,,L,0,0-1,home,Miami Dolphins,10,15,9,166,116,50,0,19,296,164,132,0,-10.47,1.95,5.53,2010
-1,1,Buffalos,Sun,September 19,,L,0,0-2,away,Green Bay Packers,7,34,14,186,62,124,2,18,346,255,91,0,-15.65,-14.91,1.26,2010
-2,2,Buffalos,Sun,September 26,,L,0,0-3,away,New England Patriots,30,38,19,374,240,134,2,25,445,245,200,1,7.72,-21.52,4.21,2010
-3,3,Buffalos,Sun,October 3,,L,0,0-4,home,New York Jets,14,38,12,223,109,114,2,25,444,171,273,0,-9.04,-18.28,2.8,2010
-4,4,Buffalos,Sun,October 10,,L,0,0-5,home,Jacksonville Jaguars,26,36,17,306,196,110,0,21,381,165,216,3,-1.92,-6.06,-4.76,2010
-5,5,Buffalos,,,,,0,,home,<strong>Bye Week</strong>,0,0,0,0,0,0,0,0,0,0,0,0,,,,2010
-6,6,1,1,1,1.0,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1.0,1.0,1.0,1
-7,7,1,1,1,1.0,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1.0,1.0,1.0,1
-8,8,Buffalos,Sun,November 7,,L,0,0-8,home,Chicago Bears,19,22,22,340,294,46,3,19,283,178,105,1,0.06,-5.64,-0.45,2010
-9,9,Buffalos,Sun,November 14,,W,0,1-8,home,Detroit Lions,14,12,12,288,139,149,1,19,390,314,76,1,-5.05,7.2,3.02,2010
-10,10,Buffalos,Sun,November 21,,W,0,2-8,away,Cincinnati Bengals,49,31,23,449,308,141,2,26,361,228,133,3,22.31,0.88,-3.62,2010
-11,11,1,1,1,1.0,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1.0,1.0,1.0,1
-12,12,Buffalos,Sun,December 5,,L,0,2-10,away,Minnesota Vikings,14,38,10,239,155,84,5,22,387,177,210,4,-19.28,-0.86,-3.65,2010
-13,13,Buffalos,Sun,December 12,,W,0,3-10,home,Cleveland Browns,13,6,19,323,131,192,1,9,187,82,105,3,-0.63,15.44,-4.85,2010
-14,14,Buffalos,Sun,December 19,,W,0,4-10,away,Miami Dolphins,17,14,15,282,211,71,1,22,326,261,65,2,-1.78,-2.59,5.11,2010
-15,15,Buffalos,Sun,December 26,,L,0,4-11,home,New England Patriots,3,34,16,369,244,125,7,20,348,131,217,0,-22.08,-4.14,-4.55,2010
-16,16,Buffalos,Sun,January 2,,L,0,4-12,away,New York Jets,7,38,6,162,125,37,6,17,388,112,276,1,-33.99,-4.88,5.08,2010
+,Week,Day,Date,Time,Win/Loss,Overtime,Team Record,Home/Away,Opponent,Points Scored,Points Allowed,Offense 1st Down,Total Yards Gained of Offense,Total yards Gained by Passing,Total Yards Gained by Rushing,Offense Turnovers,Defense 1st Down,Total Yards Allowed by Defense,Total Passing Yards Allowed by Defense,Total Rushing Yards Allowed by Defense,Defense Turnovers,Offense,Defense,Sp. Tms,Team,Year
+0,1,Sun,2010-09-12,nan,Loss,0,0-1,home,Miami Dolphins,10,15,9,166,116,50,0,19,296,164,132,0,-10.47,1.95,5.53,Buffalos,2010
+1,2,Sun,2010-09-19,nan,Loss,0,0-2,away,Green Bay Packers,7,34,14,186,62,124,2,18,346,255,91,0,-15.65,-14.91,1.26,Buffalos,2010
+2,3,Sun,2010-09-26,nan,Loss,0,0-3,away,New England Patriots,30,38,19,374,240,134,2,25,445,245,200,1,7.72,-21.52,4.21,Buffalos,2010
+3,4,Sun,2010-10-03,nan,Loss,0,0-4,home,New York Jets,14,38,12,223,109,114,2,25,444,171,273,0,-9.04,-18.28,2.8,Buffalos,2010
+4,5,Sun,2010-10-10,nan,Loss,0,0-5,home,Jacksonville Jaguars,26,36,17,306,196,110,0,21,381,165,216,3,-1.92,-6.06,-4.76,Buffalos,2010
+5,7,Sun,2010-10-24,nan,Loss,1,0-6,away,Baltimore Ravens,34,37,27,514,382,132,4,21,364,229,135,2,11.09,-8.8,-5.75,Buffalos,2010
+6,8,Sun,2010-10-31,nan,Loss,1,0-7,away,Kansas City Chiefs,10,13,23,328,191,137,1,24,414,140,274,0,-4.13,-3.42,6.68,Buffalos,2010
+7,9,Sun,2010-11-07,nan,Loss,0,0-8,home,Chicago Bears,19,22,22,340,294,46,3,19,283,178,105,1,0.06,-5.64,-0.45,Buffalos,2010
+8,10,Sun,2010-11-14,nan,Win,0,1-8,home,Detroit Lions,14,12,12,288,139,149,1,19,390,314,76,1,-5.05,7.2,3.02,Buffalos,2010
+9,11,Sun,2010-11-21,nan,Win,0,2-8,away,Cincinnati Bengals,49,31,23,449,308,141,2,26,361,228,133,3,22.31,0.88,-3.62,Buffalos,2010
+10,12,Sun,2010-11-28,nan,Loss,1,2-9,home,Pittsburgh Steelers,16,19,19,329,255,74,2,28,426,220,206,1,-1.51,-5.35,4.8,Buffalos,2010
+11,13,Sun,2010-12-05,nan,Loss,0,2-10,away,Minnesota Vikings,14,38,10,239,155,84,5,22,387,177,210,4,-19.28,-0.86,-3.65,Buffalos,2010
+12,14,Sun,2010-12-12,nan,Win,0,3-10,home,Cleveland Browns,13,6,19,323,131,192,1,9,187,82,105,3,-0.63,15.44,-4.85,Buffalos,2010
+13,15,Sun,2010-12-19,nan,Win,0,4-10,away,Miami Dolphins,17,14,15,282,211,71,1,22,326,261,65,2,-1.78,-2.59,5.11,Buffalos,2010
+14,16,Sun,2010-12-26,nan,Loss,0,4-11,home,New England Patriots,3,34,16,369,244,125,7,20,348,131,217,0,-22.08,-4.14,-4.55,Buffalos,2010
+15,17,Sun,2011-01-02,nan,Loss,0,4-12,away,New York Jets,7,38,6,162,125,37,6,17,388,112,276,1,-33.99,-4.88,5.08,Buffalos,2010

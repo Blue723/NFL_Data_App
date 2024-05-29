@@ -1,18 +1,17 @@
-,Week,Team,Day,Date,Time,Win/Loss,Overtime,Team Record,Home/Away,Opponent,Points Scored,Points Allowed,Offense 1st Down,Total Yards Gained of Offense,Total yards Gained by Passing,Total Yards Gained by Rushing,Offense Turnovers,Defense 1st Down,Total Yards Allowed by Defense,Total Passing Yards Allowed by Defense,Total Rushing Yards Allowed by Defense,Defense Turnovers,Offense,Defense,Sp. Tms,Year
-0,0,Giants,Sun,September 12,,W,0,1-0,home,Carolina Panthers,31,18,21,376,258,118,4,14,237,148,89,5,0.3,21.07,-7.23,2010
-1,1,Giants,Sun,September 19,,L,0,1-1,away,Indianapolis Colts,14,38,13,257,137,120,3,24,410,250,160,1,-10.96,-10.63,2.19,2010
-2,2,Giants,Sun,September 26,,L,0,1-2,home,Tennessee Titans,10,29,26,471,364,107,3,17,271,110,161,0,2.36,-5.04,-10.79,2010
-3,3,Giants,Sun,October 3,,W,0,2-2,home,Chicago Bears,17,3,18,372,183,189,3,6,110,51,59,3,-8.11,33.08,-6.84,2010
-4,4,Giants,Sun,October 10,,W,0,3-2,away,Houston Texans,34,10,26,414,297,117,2,11,195,171,24,2,6.57,17.85,1.65,2010
-5,5,Giants,Sun,October 17,,W,0,4-2,home,Detroit Lions,28,20,24,334,167,167,1,16,366,302,64,3,8.98,5.29,-4.56,2010
-6,6,Giants,Mon,October 25,,W,0,5-2,away,Dallas Cowboys,41,35,25,497,297,200,5,14,254,213,41,2,0.15,13.44,-4.63,2010
-7,7,Giants,,,,,0,,home,<strong>Bye Week</strong>,0,0,0,0,0,0,0,0,0,0,0,0,,,,2010
-8,8,Giants,Sun,November 7,,W,0,6-2,away,Seattle Seahawks,41,7,30,487,290,197,1,8,162,113,49,3,19.37,14.24,1.79,2010
-9,9,Giants,Sun,November 14,,L,0,6-3,home,Dallas Cowboys,20,33,25,480,373,107,3,15,427,327,100,1,-7.94,-14.73,5.24,2010
-10,10,Giants,Sun,November 21,,L,0,6-4,away,Philadelphia Eagles,17,27,13,208,147,61,5,17,392,244,148,2,-9.75,-3.16,3.12,2010
-11,11,Giants,Sun,November 28,,W,0,7-4,home,Jacksonville Jaguars,24,20,17,361,226,135,0,26,328,121,207,2,10.07,-3.97,-0.45,2010
-12,12,Giants,Sun,December 5,,W,0,8-4,home,Washington Redskins,31,7,22,358,161,197,1,19,338,264,74,6,4.4,17.38,1.49,2010
-13,13,Giants,Mon,December 13,,W,0,9-4,away,Minnesota Vikings,21,3,21,395,182,213,2,10,164,103,61,1,2.04,20.76,-8.48,2010
-14,14,Giants,Sun,December 19,,L,0,9-5,home,Philadelphia Eagles,31,38,20,364,264,100,2,19,418,221,197,3,1.89,-2.33,6.65,2010
-15,15,Giants,Sun,December 26,,L,0,9-6,away,Green Bay Packers,17,45,16,386,296,90,6,27,515,396,119,1,-4.1,-25.64,4.9,2010
-16,16,Giants,Sun,January 2,,W,0,10-6,away,Washington Redskins,17,14,14,325,243,82,1,20,385,318,67,4,-4.38,9.54,-0.99,2010
+,Week,Day,Date,Time,Win/Loss,Overtime,Team Record,Home/Away,Opponent,Points Scored,Points Allowed,Offense 1st Down,Total Yards Gained of Offense,Total yards Gained by Passing,Total Yards Gained by Rushing,Offense Turnovers,Defense 1st Down,Total Yards Allowed by Defense,Total Passing Yards Allowed by Defense,Total Rushing Yards Allowed by Defense,Defense Turnovers,Offense,Defense,Sp. Tms,Team,Year
+0,1,Sun,2010-09-12,nan,Win,0,1-0,home,Carolina Panthers,31,18,21,376,258,118,4,14,237,148,89,5,0.3,21.07,-7.23,Giants,2010
+1,2,Sun,2010-09-19,nan,Loss,0,1-1,away,Indianapolis Colts,14,38,13,257,137,120,3,24,410,250,160,1,-10.96,-10.63,2.19,Giants,2010
+2,3,Sun,2010-09-26,nan,Loss,0,1-2,home,Tennessee Titans,10,29,26,471,364,107,3,17,271,110,161,0,2.36,-5.04,-10.79,Giants,2010
+3,4,Sun,2010-10-03,nan,Win,0,2-2,home,Chicago Bears,17,3,18,372,183,189,3,6,110,51,59,3,-8.11,33.08,-6.84,Giants,2010
+4,5,Sun,2010-10-10,nan,Win,0,3-2,away,Houston Texans,34,10,26,414,297,117,2,11,195,171,24,2,6.57,17.85,1.65,Giants,2010
+5,6,Sun,2010-10-17,nan,Win,0,4-2,home,Detroit Lions,28,20,24,334,167,167,1,16,366,302,64,3,8.98,5.29,-4.56,Giants,2010
+6,7,Mon,2010-10-25,nan,Win,0,5-2,away,Dallas Cowboys,41,35,25,497,297,200,5,14,254,213,41,2,0.15,13.44,-4.63,Giants,2010
+7,9,Sun,2010-11-07,nan,Win,0,6-2,away,Seattle Seahawks,41,7,30,487,290,197,1,8,162,113,49,3,19.37,14.24,1.79,Giants,2010
+8,10,Sun,2010-11-14,nan,Loss,0,6-3,home,Dallas Cowboys,20,33,25,480,373,107,3,15,427,327,100,1,-7.94,-14.73,5.24,Giants,2010
+9,11,Sun,2010-11-21,nan,Loss,0,6-4,away,Philadelphia Eagles,17,27,13,208,147,61,5,17,392,244,148,2,-9.75,-3.16,3.12,Giants,2010
+10,12,Sun,2010-11-28,nan,Win,0,7-4,home,Jacksonville Jaguars,24,20,17,361,226,135,0,26,328,121,207,2,10.07,-3.97,-0.45,Giants,2010
+11,13,Sun,2010-12-05,nan,Win,0,8-4,home,Washington Redskins,31,7,22,358,161,197,1,19,338,264,74,6,4.4,17.38,1.49,Giants,2010
+12,14,Mon,2010-12-13,nan,Win,0,9-4,away,Minnesota Vikings,21,3,21,395,182,213,2,10,164,103,61,1,2.04,20.76,-8.48,Giants,2010
+13,15,Sun,2010-12-19,nan,Loss,0,9-5,home,Philadelphia Eagles,31,38,20,364,264,100,2,19,418,221,197,3,1.89,-2.33,6.65,Giants,2010
+14,16,Sun,2010-12-26,nan,Loss,0,9-6,away,Green Bay Packers,17,45,16,386,296,90,6,27,515,396,119,1,-4.1,-25.64,4.9,Giants,2010
+15,17,Sun,2011-01-02,nan,Win,0,10-6,away,Washington Redskins,17,14,14,325,243,82,1,20,385,318,67,4,-4.38,9.54,-0.99,Giants,2010

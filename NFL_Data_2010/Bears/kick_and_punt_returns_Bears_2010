@@ -1,6 +1,6 @@
-,No.,Team,Player,Age,Position,Games Played,Games Started,Punts Returned,Punts Return Yardage,Punts Returned for Touchdown,Longest Punt Return,Yards per Punt Return,Kickoff Returns,Yardage for Kickoffs Returned,Kickoffs Returned for a Touchdown,Longest Kickoff Return,Yards per Kickoff Return,All-purpose Yards,Year
-0,23,Bears,Devin Hester,28,WR,16,13,33,564,3,89,17.1,12,427,0,79,35.6,1496,2010
-1,38,Bears,Danieal Manning,28,SS,16,16,0,0,0,0,,33,816,0,62,24.7,816,2010
-2,13,Bears,Johnny Knox,24,WR,16,16,0,0,0,0,,8,182,0,42,22.8,1144,2010
-3,81,Bears,Rashied Davis,31,WR,16,0,0,0,0,0,,5,70,0,32,14.0,154,2010
-4,87,Bears,Kellen Davis,25,TE,16,3,0,0,0,0,,1,2,0,2,2.0,21,2010
+,No.,Player,Age,Position,Games Played,Games Started,Punts Returned,Punts Return Yardage,Punts Returned for Touchdown,Longest Punt Return,Yards per Punt Return,Kickoff Returns,Yardage for Kickoffs Returned,Kickoffs Returned for a Touchdown,Longest Kickoff Return,Yards per Kickoff Return,All-purpose Yards,Team,Year
+23,23,Devin Hester,28,WR,16,13,33,564,3,89,17.1,12,427,0,79,35.6,1496,Bears,2010
+38,38,Danieal Manning,28,SS,16,16,0,0,0,0,0.0,33,816,0,62,24.7,816,Bears,2010
+13,13,Johnny Knox,24,WR,16,16,0,0,0,0,0.0,8,182,0,42,22.8,1144,Bears,2010
+81,81,Rashied Davis,31,WR,16,0,0,0,0,0,0.0,5,70,0,32,14.0,154,Bears,2010
+87,87,Kellen Davis,25,TE,16,3,0,0,0,0,0.0,1,2,0,2,2.0,21,Bears,2010

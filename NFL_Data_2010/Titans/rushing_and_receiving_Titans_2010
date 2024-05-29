@@ -1,17 +1,17 @@
-,No.,Team,Player,Age,Position,Games Played,Games Started as an Offensive or Defensive Player,Rushing Attempts,Rushing Yards Gained,Rushing Touchdown,First Downs Rushing,Rushing Success Rate,Longest Rushing Attempt,Rushing Yards per Attempt,Rushing Yards per Game,Rushing Attempts per Game,Pass Targets,Receptions,Receiving Yards,Receiving Yards per Reception,Receiving Touchdowns,First Downs Receiving,Receiving Success Rate,Longest Reception,Receptions per Game,Receiving Yards per Game,Catch Per.,Receiving Yards per Target,Touches: Rushing Attempts and Receptions,Scrimmage Yards per Touch: Rushing + Receiving Yardage per Opportunity,Yards from Scrimmage: Receiving and Rushing Yards,Rushing and Receiving Touchdowns,Lost and Recovered Fumbles,Year
-0,28,Titans,Chris Johnson,25,RB,16,16,316,1364,11,57,37.3,76,4.3,85.3,19.8,57,44,245,5.6,1,9,29.8,25,2.8,15.3,77.2,4.3,360,4.5,1609,12,3,2010
-1,21,Titans,Javon Ringer,23,RB,16,0,51,239,2,11,35.3,54,4.7,14.9,3.2,8,7,44,6.3,0,2,75.0,9,0.4,2.8,87.5,5.5,58,4.9,283,2,0,2010
-2,10,Titans,Vince Young,27,QB,9,8,25,125,0,6,40.0,20,5.0,13.9,2.8,0,0,0,,0,0,,0,,,0.0,,25,5.0,125,0,6,2010
-3,5,Titans,Kerry Collins,38,QB,10,7,10,1,0,1,10.0,4,0.1,0.1,1.0,0,0,0,,0,0,,0,,,0.0,,10,0.1,1,0,5,2010
-4,85,Titans,Nate Washington,27,WR,16,16,1,-8,0,0,0.0,-8,-8.0,-0.5,0.1,94,42,687,16.4,6,34,42.6,71,2.6,42.9,44.7,7.3,43,15.8,679,6,0,2010
-5,17,Titans,Damian Williams,22,WR,16,1,1,5,0,0,100.0,5,5.0,0.3,0.1,28,16,219,13.7,0,10,42.9,39,1.0,13.7,57.1,7.8,17,13.2,224,0,0,2010
-6,45,Titans,Ahmard Hall,31,RB,16,4,1,1,0,1,100.0,1,1.0,0.1,0.1,20,15,100,6.7,0,5,45.0,19,0.9,6.3,75.0,5.0,16,6.3,101,0,0,2010
-7,6,Titans,Brett Kern,24,P,16,0,1,0,0,0,,0,0.0,0.0,0.1,0,0,0,,0,0,,0,,,0.0,,1,0.0,0,0,0,2010
-8,18,Titans,Kenny Britt,22,WR,12,7,0,0,0,0,,0,,,,73,42,775,18.5,9,33,53.4,80,3.5,64.6,57.5,10.6,42,18.5,775,9,1,2010
-9,80,Titans,Bo Scaife,29,TE,14,13,0,0,0,0,,0,,,,52,36,318,8.8,4,17,46.2,30,2.6,22.7,69.2,6.1,36,8.8,318,4,2,2010
-10,89,Titans,Jared Cook,23,TE,16,1,0,0,0,0,,0,,,,45,29,361,12.4,1,18,53.3,36,1.8,22.6,64.4,8.0,29,12.4,361,1,0,2010
-11,12,Titans,Justin Gage,29,WR,11,4,0,0,0,0,,0,,,,43,20,266,13.3,1,14,39.5,30,1.8,24.2,46.5,6.2,20,13.3,266,1,0,2010
-12,88,Titans,Craig Stevens,26,TE,15,13,0,0,0,0,,0,,,,23,11,122,11.1,2,6,47.8,28,0.7,8.1,47.8,5.3,11,11.1,122,2,0,2010
-13,84,Titans,Randy Moss,33,WR,8,4,0,0,0,0,,0,,,,16,6,80,13.3,0,4,31.3,26,0.8,10.0,37.5,5.0,6,13.3,80,0,0,2010
-14,87,Titans,Lavelle Hawkins,24,WR,6,0,0,0,0,0,,0,,,,6,5,61,12.2,0,3,66.7,24,0.8,10.2,83.3,10.2,5,12.2,61,0,0,2010
-15,83,Titans,Marc Mariani,23,WR,16,0,0,0,0,0,,0,,,,2,0,0,,0,0,,0,0.0,0.0,0.0,0.0,0,,0,0,3,2010
+,No.,Player,Age,Position,Games Played,Games Started as an Offensive or Defensive Player,Rushing Attempts,Rushing Yards Gained,Rushing Touchdown,First Downs Rushing,Rushing Success Rate,Longest Rushing Attempt,Rushing Yards per Attempt,Rushing Yards per Game,Rushing Attempts per Game,Pass Targets,Receptions,Receiving Yards,Receiving Yards per Reception,Receiving Touchdowns,First Downs Receiving,Receiving Success Rate,Longest Reception,Receptions per Game,Receiving Yards per Game,Catch Per.,Receiving Yards per Target,Touches: Rushing Attempts and Receptions,Scrimmage Yards per Touch: Rushing + Receiving Yardage per Opportunity,Yards from Scrimmage: Receiving and Rushing Yards,Rushing and Receiving Touchdowns,Lost and Recovered Fumbles,Team,Year
+28,28,Chris Johnson,25,RB,16,16,316,1364,11,57,37.3,76,4.3,85.3,19.8,57,44,245,5.6,1,9,29.8,25,2.8,15.3,77.2,4.3,360,4.5,1609,12,3,Titans,2010
+21,21,Javon Ringer,23,RB,16,0,51,239,2,11,35.3,54,4.7,14.9,3.2,8,7,44,6.3,0,2,75.0,9,0.4,2.8,87.5,5.5,58,4.9,283,2,0,Titans,2010
+10,10,Vince Young,27,QB,9,8,25,125,0,6,40.0,20,5.0,13.9,2.8,0,0,0,0.0,0,0,0.0,0,0.0,0.0,0.0,0.0,25,5.0,125,0,6,Titans,2010
+5,5,Kerry Collins,38,QB,10,7,10,1,0,1,10.0,4,0.1,0.1,1.0,0,0,0,0.0,0,0,0.0,0,0.0,0.0,0.0,0.0,10,0.1,1,0,5,Titans,2010
+85,85,Nate Washington,27,WR,16,16,1,-8,0,0,0.0,-8,-8.0,-0.5,0.1,94,42,687,16.4,6,34,42.6,71,2.6,42.9,44.7,7.3,43,15.8,679,6,0,Titans,2010
+17,17,Damian Williams,22,WR,16,1,1,5,0,0,100.0,5,5.0,0.3,0.1,28,16,219,13.7,0,10,42.9,39,1.0,13.7,57.1,7.8,17,13.2,224,0,0,Titans,2010
+45,45,Ahmard Hall,31,RB,16,4,1,1,0,1,100.0,1,1.0,0.1,0.1,20,15,100,6.7,0,5,45.0,19,0.9,6.3,75.0,5.0,16,6.3,101,0,0,Titans,2010
+6,6,Brett Kern,24,P,16,0,1,0,0,0,0.0,0,0.0,0.0,0.1,0,0,0,0.0,0,0,0.0,0,0.0,0.0,0.0,0.0,1,0.0,0,0,0,Titans,2010
+18,18,Kenny Britt,22,WR,12,7,0,0,0,0,0.0,0,0.0,0.0,0.0,73,42,775,18.5,9,33,53.4,80,3.5,64.6,57.5,10.6,42,18.5,775,9,1,Titans,2010
+80,80,Bo Scaife,29,TE,14,13,0,0,0,0,0.0,0,0.0,0.0,0.0,52,36,318,8.8,4,17,46.2,30,2.6,22.7,69.2,6.1,36,8.8,318,4,2,Titans,2010
+89,89,Jared Cook,23,TE,16,1,0,0,0,0,0.0,0,0.0,0.0,0.0,45,29,361,12.4,1,18,53.3,36,1.8,22.6,64.4,8.0,29,12.4,361,1,0,Titans,2010
+12,12,Justin Gage,29,WR,11,4,0,0,0,0,0.0,0,0.0,0.0,0.0,43,20,266,13.3,1,14,39.5,30,1.8,24.2,46.5,6.2,20,13.3,266,1,0,Titans,2010
+88,88,Craig Stevens,26,TE,15,13,0,0,0,0,0.0,0,0.0,0.0,0.0,23,11,122,11.1,2,6,47.8,28,0.7,8.1,47.8,5.3,11,11.1,122,2,0,Titans,2010
+84,84,Randy Moss,33,WR,8,4,0,0,0,0,0.0,0,0.0,0.0,0.0,16,6,80,13.3,0,4,31.3,26,0.8,10.0,37.5,5.0,6,13.3,80,0,0,Titans,2010
+87,87,Lavelle Hawkins,24,WR,6,0,0,0,0,0,0.0,0,0.0,0.0,0.0,6,5,61,12.2,0,3,66.7,24,0.8,10.2,83.3,10.2,5,12.2,61,0,0,Titans,2010
+83,83,Marc Mariani,23,WR,16,0,0,0,0,0,0.0,0,0.0,0.0,0.0,2,0,0,0.0,0,0,0.0,0,0.0,0.0,0.0,0.0,0,0.0,0,0,3,Titans,2010

@@ -1,27 +1,27 @@
-,Rank,Team,Date,Opponent,Win/Loss,Score,Quarter,Distance,Type,Detail,Year
-0,1,Dolphins,09/12/2010,BUF,Win, 15-10,2,1,rush,Ronnie Brown,2010
-1,2,Dolphins,09/19/2010,MIN,Win, 14-10,1,5,pass,Brian Hartline,2010
-2,3,Dolphins,09/19/2010,MIN,Win, 14-10,3,0,fumble,Koa Misi,2010
-3,4,Dolphins,09/26/2010,NYJ,Loss, 23-31,2,3,pass,Anthony Fasano,2010
-4,5,Dolphins,09/26/2010,NYJ,Loss, 23-31,3,11,pass,Brandon Marshall,2010
-5,6,Dolphins,10/04/2010,NWE,Loss, 14-41,1,19,pass,Davone Bess,2010
-6,7,Dolphins,10/04/2010,NWE,Loss, 14-41,3,28,pass,Ricky Williams,2010
-7,8,Dolphins,10/17/2010,GNB,Win, 23-20,1,2,pass,Davone Bess,2010
-8,9,Dolphins,10/17/2010,GNB,Win, 23-20,4,22,pass,Anthony Fasano,2010
-9,10,Dolphins,10/24/2010,PIT,Loss, 22-23,2,26,pass,Davone Bess,2010
-10,11,Dolphins,10/31/2010,CIN,Win, 22-14,4,1,rush,Ricky Williams,2010
-11,12,Dolphins,11/07/2010,BAL,Loss, 10-26,1,12,rush,Ronnie Brown,2010
-12,13,Dolphins,11/14/2010,TEN,Win, 29-17,1,2,rush,Ronnie Brown,2010
-13,14,Dolphins,11/14/2010,TEN,Win, 29-17,3,13,pass,Patrick Cobbs,2010
-14,15,Dolphins,11/14/2010,TEN,Win, 29-17,4,9,pass,Anthony Fasano,2010
-15,16,Dolphins,11/28/2010,OAK,Win, 33-17,1,29,pass,Patrick Cobbs,2010
-16,17,Dolphins,11/28/2010,OAK,Win, 33-17,3,57,pass,Marlon Moore,2010
-17,18,Dolphins,11/28/2010,OAK,Win, 33-17,4,45,rush,Ricky Williams,2010
-18,19,Dolphins,12/05/2010,CLE,Loss, 10-13,4,11,pass,Anthony Fasano,2010
-19,20,Dolphins,12/12/2010,NYJ,Win, 10-6,1,6,pass,Brandon Marshall,2010
-20,21,Dolphins,12/19/2010,BUF,Loss, 14-17,2,6,rush,Ronnie Brown,2010
-21,22,Dolphins,12/19/2010,BUF,Loss, 14-17,4,9,pass,Brandon Marshall,2010
-22,23,Dolphins,12/26/2010,DET,Loss, 27-34,2,4,rush,Lousaka Polite,2010
-23,24,Dolphins,12/26/2010,DET,Loss, 27-34,2,13,pass,Davone Bess,2010
-24,25,Dolphins,12/26/2010,DET,Loss, 27-34,3,1,rush,Ronnie Brown,2010
-25,26,Dolphins,01/02/2011,NWE,Loss, 7-38,4,21,pass,Davone Bess,2010
+,Rank,Team,Date,Opponent,Win/Loss,Home_Score,Opponenet_Score,Quarter,Distance,Type,Detail
+1,1,Dolphins,2010-09-12,BUF,Win,15,10,2,1,rush,Ronnie Brown
+2,2,Dolphins,2010-09-19,MIN,Win,14,10,1,5,pass,Brian Hartline
+3,3,Dolphins,2010-09-19,MIN,Win,14,10,3,0,fumble,Koa Misi
+4,4,Dolphins,2010-09-26,NYJ,Loss,23,31,2,3,pass,Anthony Fasano
+5,5,Dolphins,2010-09-26,NYJ,Loss,23,31,3,11,pass,Brandon Marshall
+6,6,Dolphins,2010-10-04,NWE,Loss,14,41,1,19,pass,Davone Bess
+7,7,Dolphins,2010-10-04,NWE,Loss,14,41,3,28,pass,Ricky Williams
+8,8,Dolphins,2010-10-17,GNB,Win,23,20,1,2,pass,Davone Bess
+9,9,Dolphins,2010-10-17,GNB,Win,23,20,4,22,pass,Anthony Fasano
+10,10,Dolphins,2010-10-24,PIT,Loss,22,23,2,26,pass,Davone Bess
+11,11,Dolphins,2010-10-31,CIN,Win,22,14,4,1,rush,Ricky Williams
+12,12,Dolphins,2010-11-07,BAL,Loss,10,26,1,12,rush,Ronnie Brown
+13,13,Dolphins,2010-11-14,TEN,Win,29,17,1,2,rush,Ronnie Brown
+14,14,Dolphins,2010-11-14,TEN,Win,29,17,3,13,pass,Patrick Cobbs
+15,15,Dolphins,2010-11-14,TEN,Win,29,17,4,9,pass,Anthony Fasano
+16,16,Dolphins,2010-11-28,OAK,Win,33,17,1,29,pass,Patrick Cobbs
+17,17,Dolphins,2010-11-28,OAK,Win,33,17,3,57,pass,Marlon Moore
+18,18,Dolphins,2010-11-28,OAK,Win,33,17,4,45,rush,Ricky Williams
+19,19,Dolphins,2010-12-05,CLE,Loss,10,13,4,11,pass,Anthony Fasano
+20,20,Dolphins,2010-12-12,NYJ,Win,10,6,1,6,pass,Brandon Marshall
+21,21,Dolphins,2010-12-19,BUF,Loss,14,17,2,6,rush,Ronnie Brown
+22,22,Dolphins,2010-12-19,BUF,Loss,14,17,4,9,pass,Brandon Marshall
+23,23,Dolphins,2010-12-26,DET,Loss,27,34,2,4,rush,Lousaka Polite
+24,24,Dolphins,2010-12-26,DET,Loss,27,34,2,13,pass,Davone Bess
+25,25,Dolphins,2010-12-26,DET,Loss,27,34,3,1,rush,Ronnie Brown
+26,26,Dolphins,2011-01-02,NWE,Loss,7,38,4,21,pass,Davone Bess

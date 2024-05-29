@@ -1,4 +1,4 @@
-,No.,Team,Player,Age,Pos,Games Played,Games Started,Times Puned,Total Punt Yardage,Yards per Punt,Punt Return Yardage by Opposition,Punt Net yards,Punt Net Yards per Punt,Longest Punt,Punts Resulting in a Touchback,Per. of Punts Resulting in a Touchback,Punts Inside Opp. 20 Yard Line,Per. of Punts Downed Inside Opp. 20 Yard Line,Times Punts Blocked,Year
-0,1,Buccaneers,Robert Malone,22,P,12,0,52,2160,41.5,160,1900,36.5,64,5,9.6,17,32.7,0,2010
-1,9,Buccaneers,Chris Bryan,28,P,4,0,23,860,37.4,72,788,34.3,57,0,0.0,7,30.4,0,2010
-2,10,Buccaneers,Connor Barth,24,K,16,0,1,33,33.0,0,13,13.0,33,1,100.0,0,0.0,0,2010
+,No.,Player,Age,Pos,Games Played,Games Started,Times Puned,Total Punt Yardage,Yards per Punt,Punt Return Yardage by Opposition,Punt Net yards,Punt Net Yards per Punt,Longest Punt,Punts Resulting in a Touchback,Per. of Punts Resulting in a Touchback,Punts Inside Opp. 20 Yard Line,Per. of Punts Downed Inside Opp. 20 Yard Line,Times Punts Blocked,Team,Year
+1,1,Robert Malone,22,P,12,0,52,2160,41.5,160,1900,36.5,64,5,9.6,17,32.7,0,Buccaneers,2010
+9,9,Chris Bryan,28,P,4,0,23,860,37.4,72,788,34.3,57,0,0.0,7,30.4,0,Buccaneers,2010
+10,10,Connor Barth,24,K,16,0,1,33,33.0,0,13,13.0,33,1,100.0,0,0.0,0,Buccaneers,2010

@@ -1,6 +1,6 @@
-,No.,Team,Player,Age,Position,Games Played,Games Started,Punts Returned,Punts Return Yardage,Punts Returned for Touchdown,Longest Punt Return,Yards per Punt Return,Kickoff Returns,Yardage for Kickoffs Returned,Kickoffs Returned for a Touchdown,Longest Kickoff Return,Yards per Kickoff Return,All-purpose Yards,Year
-0,14,Falcons,Eric Weems,25,WR,16,4,18,230,1,55,12.8,40,1100,1,102,27.5,1391,2010
-1,32,Falcons,Jerious Norwood,27,RB,2,0,0,0,0,0,,4,97,0,34,24.3,114,2010
-2,28,Falcons,Thomas DeCoud,25,FS,16,16,1,0,0,0,0.0,0,0,0,0,,0,2010
-3,86,Falcons,Brian Finneran,34,WR,16,1,0,0,0,0,,1,18,0,18,18.0,184,2010
-4,34,Falcons,Ovie Mughelli,30,FB,16,6,0,0,0,0,,1,6,0,6,6.0,168,2010
+,No.,Player,Age,Position,Games Played,Games Started,Punts Returned,Punts Return Yardage,Punts Returned for Touchdown,Longest Punt Return,Yards per Punt Return,Kickoff Returns,Yardage for Kickoffs Returned,Kickoffs Returned for a Touchdown,Longest Kickoff Return,Yards per Kickoff Return,All-purpose Yards,Team,Year
+14,14,Eric Weems,25,WR,16,4,18,230,1,55,12.8,40,1100,1,102,27.5,1391,Falcons,2010
+32,32,Jerious Norwood,27,RB,2,0,0,0,0,0,0.0,4,97,0,34,24.3,114,Falcons,2010
+28,28,Thomas DeCoud,25,FS,16,16,1,0,0,0,0.0,0,0,0,0,0.0,0,Falcons,2010
+86,86,Brian Finneran,34,WR,16,1,0,0,0,0,0.0,1,18,0,18,18.0,184,Falcons,2010
+34,34,Ovie Mughelli,30,FB,16,6,0,0,0,0,0.0,1,6,0,6,6.0,168,Falcons,2010

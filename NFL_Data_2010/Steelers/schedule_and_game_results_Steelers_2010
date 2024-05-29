@@ -1,22 +1,20 @@
-,Week,Team,Day,Date,Time,Win/Loss,Overtime,Team Record,Home/Away,Opponent,Points Scored,Points Allowed,Offense 1st Down,Total Yards Gained of Offense,Total yards Gained by Passing,Total Yards Gained by Rushing,Offense Turnovers,Defense 1st Down,Total Yards Allowed by Defense,Total Passing Yards Allowed by Defense,Total Rushing Yards Allowed by Defense,Defense Turnovers,Offense,Defense,Sp. Tms,Year
-0,0,1,1,1,1.0,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1.0,1.0,1.0,1
-1,1,Steelers,Sun,September 19,,W,0,2-0,away,Tennessee Titans,19,11,7,127,21,106,1,14,238,192,46,7,-23.89,28.35,4.01,2010
-2,2,Steelers,Sun,September 26,,W,0,3-0,away,Tampa Bay Buccaneers,38,13,17,387,186,201,2,18,303,228,75,2,11.67,10.71,0.86,2010
-3,3,Steelers,Sun,October 3,,L,0,3-1,home,Baltimore Ravens,14,17,14,210,126,84,1,22,320,250,70,2,-1.83,-1.27,-2.4,2010
-4,4,Steelers,,,,,0,,home,<strong>Bye Week</strong>,0,0,0,0,0,0,0,0,0,0,0,0,,,,2010
-5,5,Steelers,Sun,October 17,,W,0,4-1,home,Cleveland Browns,28,10,22,378,257,121,1,17,327,258,69,3,9.34,0.9,4.46,2010
-6,6,Steelers,Sun,October 24,,W,0,5-1,away,Miami Dolphins,23,22,15,348,290,58,2,15,313,249,64,2,2.32,5.33,-4.93,2010
-7,7,Steelers,Sun,October 31,,L,0,5-2,away,New Orleans Saints,10,20,13,279,171,108,2,19,318,288,30,2,-10.66,-0.77,1.27,2010
-8,8,Steelers,Mon,November 8,,W,0,6-2,away,Cincinnati Bengals,27,21,14,314,193,121,2,18,272,218,54,2,-3.97,-0.23,6.65,2010
-9,9,Steelers,Sun,November 14,,L,0,6-3,home,New England Patriots,26,39,27,425,349,76,1,26,453,350,103,0,9.29,-14.6,-2.65,2010
-10,10,Steelers,Sun,November 21,,W,0,7-3,home,Oakland Raiders,35,3,18,431,269,162,1,17,182,121,61,3,11.38,26.03,-5.92,2010
-11,11,1,1,1,1.0,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1.0,1.0,1.0,1
-12,12,Steelers,Sun,December 5,,W,0,9-3,away,Baltimore Ravens,13,10,17,288,234,54,1,14,269,226,43,1,-0.03,9.06,-4.34,2010
-13,13,Steelers,Sun,December 12,,W,0,10-3,home,Cincinnati Bengals,23,7,18,354,231,123,0,14,190,156,34,3,2.95,16.97,-3.1,2010
-14,14,Steelers,Sun,December 19,,L,0,10-4,home,New York Jets,17,22,25,378,232,146,0,17,276,170,106,0,11.72,-6.26,-9.35,2010
-15,15,Steelers,Thu,December 23,,W,0,11-4,home,Carolina Panthers,27,3,22,408,293,115,2,7,119,45,74,2,1.46,19.54,3.48,2010
-16,16,Steelers,Sun,January 2,,W,0,12-4,away,Cleveland Browns,41,9,24,418,318,100,0,17,225,182,43,3,26.75,11.01,-3.33,2010
-17,17,Steelers,,<strong>Playoffs</strong>,,,0,,home,,0,0,0,0,0,0,0,0,0,0,0,0,,,,2010
-18,18,Steelers,Sat,January 15,,W,0,13-4,home,Baltimore Ravens,31,24,21,263,192,71,2,12,126,91,35,3,-1.77,15.91,-6.44,2010
-19,19,Steelers,Sun,January 23,,W,0,14-4,home,New York Jets,24,19,23,287,121,166,2,17,289,219,70,1,4.42,1.33,-0.71,2010
-20,20,Steelers,Sun,February 6,,L,0,14-5,home,Green Bay Packers,25,31,19,387,261,126,3,15,338,288,50,0,-3.89,-7.72,2.5,2010
+,Week,Day,Date,Time,Win/Loss,Overtime,Team Record,Home/Away,Opponent,Points Scored,Points Allowed,Offense 1st Down,Total Yards Gained of Offense,Total yards Gained by Passing,Total Yards Gained by Rushing,Offense Turnovers,Defense 1st Down,Total Yards Allowed by Defense,Total Passing Yards Allowed by Defense,Total Rushing Yards Allowed by Defense,Defense Turnovers,Offense,Defense,Sp. Tms,Team,Year
+0,1,Sun,2010-09-12,nan,Win,1,1-0,home,Atlanta Falcons,15,9,14,354,211,143,1,18,295,237,58,1,-3.34,9.7,-0.36,Steelers,2010
+1,2,Sun,2010-09-19,nan,Win,0,2-0,away,Tennessee Titans,19,11,7,127,21,106,1,14,238,192,46,7,-23.89,28.35,4.01,Steelers,2010
+2,3,Sun,2010-09-26,nan,Win,0,3-0,away,Tampa Bay Buccaneers,38,13,17,387,186,201,2,18,303,228,75,2,11.67,10.71,0.86,Steelers,2010
+3,4,Sun,2010-10-03,nan,Loss,0,3-1,home,Baltimore Ravens,14,17,14,210,126,84,1,22,320,250,70,2,-1.83,-1.27,-2.4,Steelers,2010
+4,6,Sun,2010-10-17,nan,Win,0,4-1,home,Cleveland Browns,28,10,22,378,257,121,1,17,327,258,69,3,9.34,0.9,4.46,Steelers,2010
+5,7,Sun,2010-10-24,nan,Win,0,5-1,away,Miami Dolphins,23,22,15,348,290,58,2,15,313,249,64,2,2.32,5.33,-4.93,Steelers,2010
+6,8,Sun,2010-10-31,nan,Loss,0,5-2,away,New Orleans Saints,10,20,13,279,171,108,2,19,318,288,30,2,-10.66,-0.77,1.27,Steelers,2010
+7,9,Mon,2010-11-08,nan,Win,0,6-2,away,Cincinnati Bengals,27,21,14,314,193,121,2,18,272,218,54,2,-3.97,-0.23,6.65,Steelers,2010
+8,10,Sun,2010-11-14,nan,Loss,0,6-3,home,New England Patriots,26,39,27,425,349,76,1,26,453,350,103,0,9.29,-14.6,-2.65,Steelers,2010
+9,11,Sun,2010-11-21,nan,Win,0,7-3,home,Oakland Raiders,35,3,18,431,269,162,1,17,182,121,61,3,11.38,26.03,-5.92,Steelers,2010
+10,12,Sun,2010-11-28,nan,Win,1,8-3,away,Buffalo Bills,19,16,28,426,220,206,1,19,329,255,74,2,5.35,1.51,-4.8,Steelers,2010
+11,13,Sun,2010-12-05,nan,Win,0,9-3,away,Baltimore Ravens,13,10,17,288,234,54,1,14,269,226,43,1,-0.03,9.06,-4.34,Steelers,2010
+12,14,Sun,2010-12-12,nan,Win,0,10-3,home,Cincinnati Bengals,23,7,18,354,231,123,0,14,190,156,34,3,2.95,16.97,-3.1,Steelers,2010
+13,15,Sun,2010-12-19,nan,Loss,0,10-4,home,New York Jets,17,22,25,378,232,146,0,17,276,170,106,0,11.72,-6.26,-9.35,Steelers,2010
+14,16,Thu,2010-12-23,nan,Win,0,11-4,home,Carolina Panthers,27,3,22,408,293,115,2,7,119,45,74,2,1.46,19.54,3.48,Steelers,2010
+15,17,Sun,2011-01-02,nan,Win,0,12-4,away,Cleveland Browns,41,9,24,418,318,100,0,17,225,182,43,3,26.75,11.01,-3.33,Steelers,2010
+16,19,Sat,2011-01-15,nan,Win,0,13-4,home,Baltimore Ravens,31,24,21,263,192,71,2,12,126,91,35,3,-1.77,15.91,-6.44,Steelers,2010
+17,20,Sun,2011-01-23,nan,Win,0,14-4,home,New York Jets,24,19,23,287,121,166,2,17,289,219,70,1,4.42,1.33,-0.71,Steelers,2010
+18,21,Sun,2011-02-06,nan,Loss,0,14-5,home,Green Bay Packers,25,31,19,387,261,126,3,15,338,288,50,0,-3.89,-7.72,2.5,Steelers,2010

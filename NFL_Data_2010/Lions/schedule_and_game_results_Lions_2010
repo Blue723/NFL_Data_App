@@ -1,18 +1,17 @@
-,Week,Team,Day,Date,Time,Win/Loss,Overtime,Team Record,Home/Away,Opponent,Points Scored,Points Allowed,Offense 1st Down,Total Yards Gained of Offense,Total yards Gained by Passing,Total Yards Gained by Rushing,Offense Turnovers,Defense 1st Down,Total Yards Allowed by Defense,Total Passing Yards Allowed by Defense,Total Rushing Yards Allowed by Defense,Defense Turnovers,Offense,Defense,Sp. Tms,Year
-0,0,Lions,Sun,September 12,,L,0,0-1,away,Chicago Bears,14,19,13,168,148,20,3,23,463,362,101,4,-21.59,9.47,8.19,2010
-1,1,Lions,Sun,September 19,,L,0,0-2,home,Philadelphia Eagles,32,35,22,444,329,115,2,24,410,248,162,0,6.33,-16.01,5.41,2010
-2,2,Lions,Sun,September 26,,L,0,0-3,away,Minnesota Vikings,10,24,17,295,232,63,3,21,368,185,183,3,-8.05,1.27,-5.89,2010
-3,3,Lions,Sun,October 3,,L,0,0-4,away,Green Bay Packers,26,28,24,431,308,123,3,16,261,169,92,4,-2.18,-10.37,10.44,2010
-4,4,Lions,Sun,October 10,,W,0,1-4,home,St. Louis Rams,44,6,20,322,233,89,0,23,341,213,128,3,9.55,22.64,4.23,2010
-5,5,Lions,Sun,October 17,,L,0,1-5,away,New York Giants,20,28,16,366,302,64,3,24,334,167,167,1,-5.29,-8.98,4.56,2010
-6,6,Lions,,,,,0,,home,<strong>Bye Week</strong>,0,0,0,0,0,0,0,0,0,0,0,0,,,,2010
-7,7,Lions,Sun,October 31,,W,0,2-5,home,Washington Redskins,37,25,19,304,202,102,2,13,275,195,80,2,-10.4,23.47,-4.22,2010
-8,8,1,1,1,1.0,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1.0,1.0,1.0,1
-9,9,Lions,Sun,November 14,,L,0,2-7,away,Buffalo Bills,12,14,19,390,314,76,1,12,288,139,149,1,-7.2,5.05,-3.02,2010
-10,10,Lions,Sun,November 21,,L,0,2-8,away,Dallas Cowboys,19,35,17,338,263,75,2,19,265,131,134,1,-0.05,-6.9,-7.64,2010
-11,11,Lions,Thu,November 25,,L,0,2-9,home,New England Patriots,24,45,25,406,277,129,2,20,447,338,109,0,6.23,-28.1,2.52,2010
-12,12,Lions,Sun,December 5,,L,0,2-10,home,Chicago Bears,20,24,14,302,168,134,0,23,311,197,114,1,3.19,-9.47,0.27,2010
-13,13,Lions,Sun,December 12,,W,0,3-10,home,Green Bay Packers,7,3,15,286,96,190,2,13,258,192,66,3,-7.82,18.99,-6.43,2010
-14,14,1,1,1,1.0,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1.0,1.0,1.0,1
-15,15,Lions,Sun,December 26,,W,0,5-10,away,Miami Dolphins,34,27,14,275,208,67,0,28,425,271,154,3,4.95,-5.19,5.08,2010
-16,16,Lions,Sun,January 2,,W,0,6-10,home,Minnesota Vikings,20,13,22,357,250,107,2,16,211,137,74,1,-1.72,5.11,3.05,2010
+,Week,Day,Date,Time,Win/Loss,Overtime,Team Record,Home/Away,Opponent,Points Scored,Points Allowed,Offense 1st Down,Total Yards Gained of Offense,Total yards Gained by Passing,Total Yards Gained by Rushing,Offense Turnovers,Defense 1st Down,Total Yards Allowed by Defense,Total Passing Yards Allowed by Defense,Total Rushing Yards Allowed by Defense,Defense Turnovers,Offense,Defense,Sp. Tms,Team,Year
+0,1,Sun,2010-09-12,nan,Loss,0,0-1,away,Chicago Bears,14,19,13,168,148,20,3,23,463,362,101,4,-21.59,9.47,8.19,Lions,2010
+1,2,Sun,2010-09-19,nan,Loss,0,0-2,home,Philadelphia Eagles,32,35,22,444,329,115,2,24,410,248,162,0,6.33,-16.01,5.41,Lions,2010
+2,3,Sun,2010-09-26,nan,Loss,0,0-3,away,Minnesota Vikings,10,24,17,295,232,63,3,21,368,185,183,3,-8.05,1.27,-5.89,Lions,2010
+3,4,Sun,2010-10-03,nan,Loss,0,0-4,away,Green Bay Packers,26,28,24,431,308,123,3,16,261,169,92,4,-2.18,-10.37,10.44,Lions,2010
+4,5,Sun,2010-10-10,nan,Win,0,1-4,home,St. Louis Rams,44,6,20,322,233,89,0,23,341,213,128,3,9.55,22.64,4.23,Lions,2010
+5,6,Sun,2010-10-17,nan,Loss,0,1-5,away,New York Giants,20,28,16,366,302,64,3,24,334,167,167,1,-5.29,-8.98,4.56,Lions,2010
+6,8,Sun,2010-10-31,nan,Win,0,2-5,home,Washington Redskins,37,25,19,304,202,102,2,13,275,195,80,2,-10.4,23.47,-4.22,Lions,2010
+7,9,Sun,2010-11-07,nan,Loss,1,2-6,home,New York Jets,20,23,21,306,228,78,0,23,437,327,110,2,1.25,-5.58,3.39,Lions,2010
+8,10,Sun,2010-11-14,nan,Loss,0,2-7,away,Buffalo Bills,12,14,19,390,314,76,1,12,288,139,149,1,-7.2,5.05,-3.02,Lions,2010
+9,11,Sun,2010-11-21,nan,Loss,0,2-8,away,Dallas Cowboys,19,35,17,338,263,75,2,19,265,131,134,1,-0.05,-6.9,-7.64,Lions,2010
+10,12,Thu,2010-11-25,nan,Loss,0,2-9,home,New England Patriots,24,45,25,406,277,129,2,20,447,338,109,0,6.23,-28.1,2.52,Lions,2010
+11,13,Sun,2010-12-05,nan,Loss,0,2-10,home,Chicago Bears,20,24,14,302,168,134,0,23,311,197,114,1,3.19,-9.47,0.27,Lions,2010
+12,14,Sun,2010-12-12,nan,Win,0,3-10,home,Green Bay Packers,7,3,15,286,96,190,2,13,258,192,66,3,-7.82,18.99,-6.43,Lions,2010
+13,15,Sun,2010-12-19,nan,Win,1,4-10,away,Tampa Bay Buccaneers,23,20,26,433,252,181,0,22,403,227,176,0,14.84,-13.73,0.36,Lions,2010
+14,16,Sun,2010-12-26,nan,Win,0,5-10,away,Miami Dolphins,34,27,14,275,208,67,0,28,425,271,154,3,4.95,-5.19,5.08,Lions,2010
+15,17,Sun,2011-01-02,nan,Win,0,6-10,home,Minnesota Vikings,20,13,22,357,250,107,2,16,211,137,74,1,-1.72,5.11,3.05,Lions,2010

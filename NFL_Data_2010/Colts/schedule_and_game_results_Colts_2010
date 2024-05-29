@@ -1,20 +1,18 @@
-,Week,Team,Day,Date,Time,Win/Loss,Overtime,Team Record,Home/Away,Opponent,Points Scored,Points Allowed,Offense 1st Down,Total Yards Gained of Offense,Total yards Gained by Passing,Total Yards Gained by Rushing,Offense Turnovers,Defense 1st Down,Total Yards Allowed by Defense,Total Passing Yards Allowed by Defense,Total Rushing Yards Allowed by Defense,Defense Turnovers,Offense,Defense,Sp. Tms,Year
-0,0,Colts,Sun,September 12,,L,0,0-1,away,Houston Texans,24,34,25,463,419,44,1,23,355,98,257,1,16.62,-17.43,-10.28,2010
-1,1,Colts,Sun,September 19,,W,0,1-1,home,New York Giants,38,14,24,410,250,160,1,13,257,137,120,3,10.63,10.96,-2.19,2010
-2,2,Colts,Sun,September 26,,W,0,2-1,away,Denver Broncos,27,13,18,365,325,40,0,23,519,472,47,2,7.39,-0.04,4.39,2010
-3,3,Colts,Sun,October 3,,L,0,2-2,away,Jacksonville Jaguars,28,31,28,406,348,58,2,20,337,163,174,0,14.17,-18.39,-1.29,2010
-4,4,Colts,Sun,October 10,,W,0,3-2,home,Kansas City Chiefs,19,9,23,341,244,97,1,16,261,148,113,1,1.18,6.24,2.67,2010
-5,5,Colts,Sun,October 17,,W,0,4-2,away,Washington Redskins,27,24,22,469,299,170,3,23,335,222,113,2,10.78,4.52,-11.97,2010
-6,6,Colts,,,,,0,,home,<strong>Bye Week</strong>,0,0,0,0,0,0,0,0,0,0,0,0,,,,2010
-7,7,Colts,Mon,November 1,,W,0,5-2,home,Houston Texans,30,17,24,366,259,107,0,19,291,183,108,2,7.36,6.68,-3.11,2010
-8,8,Colts,Sun,November 7,,L,0,5-3,away,Philadelphia Eagles,24,26,27,338,276,62,2,19,402,207,195,0,8.84,-9.29,-1.58,2010
-9,9,Colts,Sun,November 14,,W,0,6-3,home,Cincinnati Bengals,23,17,16,256,180,76,0,19,341,269,72,5,-2.94,14.58,-3.15,2010
-10,10,Colts,Sun,November 21,,L,0,6-4,away,New England Patriots,28,31,28,467,396,71,3,22,346,178,168,0,20.15,-18.18,-4.02,2010
-11,11,Colts,Sun,November 28,,L,0,6-5,home,San Diego Chargers,14,36,16,303,279,24,5,18,301,172,129,0,-18.67,-0.76,-1.71,2010
-12,12,1,1,1,1.0,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1.0,1.0,1.0,1
-13,13,Colts,Thu,December 9,,W,0,7-6,away,Tennessee Titans,30,28,21,399,312,87,0,22,365,244,121,2,16.24,-8.8,-5.34,2010
-14,14,Colts,Sun,December 19,,W,0,8-6,home,Jacksonville Jaguars,34,24,19,376,221,155,0,20,356,289,67,2,10.56,-1.49,-1.31,2010
-15,15,Colts,Sun,December 26,,W,0,9-6,away,Oakland Raiders,31,26,27,370,179,191,2,16,290,210,80,0,11.2,8.47,-12.43,2010
-16,16,Colts,Sun,January 2,,W,0,10-6,home,Tennessee Titans,23,20,24,358,257,101,1,17,341,290,51,1,6.7,-1.57,-4.39,2010
-17,17,Colts,,<strong>Playoffs</strong>,,,0,,home,,0,0,0,0,0,0,0,0,0,0,0,0,,,,2010
-18,18,Colts,Sat,January 8,,L,0,10-7,home,New York Jets,16,17,16,312,219,93,0,23,353,184,169,1,5.38,-6.99,-0.15,2010
+,Week,Day,Date,Time,Win/Loss,Overtime,Team Record,Home/Away,Opponent,Points Scored,Points Allowed,Offense 1st Down,Total Yards Gained of Offense,Total yards Gained by Passing,Total Yards Gained by Rushing,Offense Turnovers,Defense 1st Down,Total Yards Allowed by Defense,Total Passing Yards Allowed by Defense,Total Rushing Yards Allowed by Defense,Defense Turnovers,Offense,Defense,Sp. Tms,Team,Year
+0,1,Sun,2010-09-12,nan,Loss,0,0-1,away,Houston Texans,24,34,25,463,419,44,1,23,355,98,257,1,16.62,-17.43,-10.28,Colts,2010
+1,2,Sun,2010-09-19,nan,Win,0,1-1,home,New York Giants,38,14,24,410,250,160,1,13,257,137,120,3,10.63,10.96,-2.19,Colts,2010
+2,3,Sun,2010-09-26,nan,Win,0,2-1,away,Denver Broncos,27,13,18,365,325,40,0,23,519,472,47,2,7.39,-0.04,4.39,Colts,2010
+3,4,Sun,2010-10-03,nan,Loss,0,2-2,away,Jacksonville Jaguars,28,31,28,406,348,58,2,20,337,163,174,0,14.17,-18.39,-1.29,Colts,2010
+4,5,Sun,2010-10-10,nan,Win,0,3-2,home,Kansas City Chiefs,19,9,23,341,244,97,1,16,261,148,113,1,1.18,6.24,2.67,Colts,2010
+5,6,Sun,2010-10-17,nan,Win,0,4-2,away,Washington Redskins,27,24,22,469,299,170,3,23,335,222,113,2,10.78,4.52,-11.97,Colts,2010
+6,8,Mon,2010-11-01,nan,Win,0,5-2,home,Houston Texans,30,17,24,366,259,107,0,19,291,183,108,2,7.36,6.68,-3.11,Colts,2010
+7,9,Sun,2010-11-07,nan,Loss,0,5-3,away,Philadelphia Eagles,24,26,27,338,276,62,2,19,402,207,195,0,8.84,-9.29,-1.58,Colts,2010
+8,10,Sun,2010-11-14,nan,Win,0,6-3,home,Cincinnati Bengals,23,17,16,256,180,76,0,19,341,269,72,5,-2.94,14.58,-3.15,Colts,2010
+9,11,Sun,2010-11-21,nan,Loss,0,6-4,away,New England Patriots,28,31,28,467,396,71,3,22,346,178,168,0,20.15,-18.18,-4.02,Colts,2010
+10,12,Sun,2010-11-28,nan,Loss,0,6-5,home,San Diego Chargers,14,36,16,303,279,24,5,18,301,172,129,0,-18.67,-0.76,-1.71,Colts,2010
+11,13,Sun,2010-12-05,nan,Loss,1,6-6,home,Dallas Cowboys,35,38,24,405,365,40,4,24,368,151,217,0,3.48,-8.32,3.63,Colts,2010
+12,14,Thu,2010-12-09,nan,Win,0,7-6,away,Tennessee Titans,30,28,21,399,312,87,0,22,365,244,121,2,16.24,-8.8,-5.34,Colts,2010
+13,15,Sun,2010-12-19,nan,Win,0,8-6,home,Jacksonville Jaguars,34,24,19,376,221,155,0,20,356,289,67,2,10.56,-1.49,-1.31,Colts,2010
+14,16,Sun,2010-12-26,nan,Win,0,9-6,away,Oakland Raiders,31,26,27,370,179,191,2,16,290,210,80,0,11.2,8.47,-12.43,Colts,2010
+15,17,Sun,2011-01-02,nan,Win,0,10-6,home,Tennessee Titans,23,20,24,358,257,101,1,17,341,290,51,1,6.7,-1.57,-4.39,Colts,2010
+16,19,Sat,2011-01-08,nan,Loss,0,10-7,home,New York Jets,16,17,16,312,219,93,0,23,353,184,169,1,5.38,-6.99,-0.15,Colts,2010

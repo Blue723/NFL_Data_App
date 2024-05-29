@@ -1,30 +1,30 @@
-,Rank,Team,Date,Opponent,Win/Loss,Score,Quarter,Distance,Type,Detail,Year
-0,1,Browns,09/12/2010,TAM,Loss, 14-17,1,41,pass,Mohamed Massaquoi,2010
-1,2,Browns,09/12/2010,TAM,Loss, 14-17,2,10,rush,Peyton Hillis,2010
-2,3,Browns,09/19/2010,KAN,Loss, 14-16,2,1,rush,Peyton Hillis,2010
-3,4,Browns,09/19/2010,KAN,Loss, 14-16,2,65,pass,Josh Cribbs,2010
-4,5,Browns,09/26/2010,BAL,Loss, 17-24,2,1,rush,Peyton Hillis,2010
-5,6,Browns,09/26/2010,BAL,Loss, 17-24,4,1,pass,Ben Watson,2010
-6,7,Browns,10/03/2010,CIN,Win, 23-20,2,24,pass,Evan Moore,2010
-7,8,Browns,10/03/2010,CIN,Win, 23-20,3,1,rush,Peyton Hillis,2010
-8,9,Browns,10/10/2010,ATL,Loss, 10-20,2,19,pass,Peyton Hillis,2010
-9,10,Browns,10/17/2010,PIT,Loss, 10-28,4,12,pass,Ben Watson,2010
-10,11,Browns,10/24/2010,NOR,Win, 30-17,1,4,rush,Peyton Hillis,2010
-11,12,Browns,10/24/2010,NOR,Win, 30-17,2,30,interception,David Bowens,2010
-12,13,Browns,10/24/2010,NOR,Win, 30-17,4,64,interception,David Bowens,2010
-13,14,Browns,11/07/2010,NWE,Win, 34-14,1,2,rush,Peyton Hillis,2010
-14,15,Browns,11/07/2010,NWE,Win, 34-14,2,11,rush,Chansi Stuckey,2010
-15,16,Browns,11/07/2010,NWE,Win, 34-14,3,16,rush,Colt McCoy,2010
-16,17,Browns,11/07/2010,NWE,Win, 34-14,4,35,rush,Peyton Hillis,2010
-17,18,Browns,11/14/2010,NYJ,Loss, 20-26,1,12,rush,Peyton Hillis,2010
-18,19,Browns,11/14/2010,NYJ,Loss, 20-26,4,3,pass,Mohamed Massaquoi,2010
-19,20,Browns,11/21/2010,JAX,Loss, 20-24,2,11,pass,Peyton Hillis,2010
-20,21,Browns,11/21/2010,JAX,Loss, 20-24,3,18,fumble,Abram Elam,2010
-21,22,Browns,11/28/2010,CAR,Win, 24-23,1,9,rush,Peyton Hillis,2010
-22,23,Browns,11/28/2010,CAR,Win, 24-23,1,5,rush,Peyton Hillis,2010
-23,24,Browns,11/28/2010,CAR,Win, 24-23,2,6,rush,Peyton Hillis,2010
-24,25,Browns,12/05/2010,MIA,Win, 13-10,3,3,pass,Ben Watson,2010
-25,26,Browns,12/19/2010,CIN,Loss, 17-19,1,20,pass,Robert Royal,2010
-26,27,Browns,12/19/2010,CIN,Loss, 17-19,4,46,pass,Brian Robiskie,2010
-27,28,Browns,12/26/2010,BAL,Loss, 10-20,1,29,pass,Brian Robiskie,2010
-28,29,Browns,01/02/2011,PIT,Loss, 9-41,4,20,pass,Brian Robiskie,2010
+,Rank,Team,Date,Opponent,Win/Loss,Home_Score,Opponenet_Score,Quarter,Distance,Type,Detail
+1,1,Browns,2010-09-12,TAM,Loss,14,17,1,41,pass,Mohamed Massaquoi
+2,2,Browns,2010-09-12,TAM,Loss,14,17,2,10,rush,Peyton Hillis
+3,3,Browns,2010-09-19,KAN,Loss,14,16,2,1,rush,Peyton Hillis
+4,4,Browns,2010-09-19,KAN,Loss,14,16,2,65,pass,Josh Cribbs
+5,5,Browns,2010-09-26,BAL,Loss,17,24,2,1,rush,Peyton Hillis
+6,6,Browns,2010-09-26,BAL,Loss,17,24,4,1,pass,Ben Watson
+7,7,Browns,2010-10-03,CIN,Win,23,20,2,24,pass,Evan Moore
+8,8,Browns,2010-10-03,CIN,Win,23,20,3,1,rush,Peyton Hillis
+9,9,Browns,2010-10-10,ATL,Loss,10,20,2,19,pass,Peyton Hillis
+10,10,Browns,2010-10-17,PIT,Loss,10,28,4,12,pass,Ben Watson
+11,11,Browns,2010-10-24,NOR,Win,30,17,1,4,rush,Peyton Hillis
+12,12,Browns,2010-10-24,NOR,Win,30,17,2,30,interception,David Bowens
+13,13,Browns,2010-10-24,NOR,Win,30,17,4,64,interception,David Bowens
+14,14,Browns,2010-11-07,NWE,Win,34,14,1,2,rush,Peyton Hillis
+15,15,Browns,2010-11-07,NWE,Win,34,14,2,11,rush,Chansi Stuckey
+16,16,Browns,2010-11-07,NWE,Win,34,14,3,16,rush,Colt McCoy
+17,17,Browns,2010-11-07,NWE,Win,34,14,4,35,rush,Peyton Hillis
+18,18,Browns,2010-11-14,NYJ,Loss,20,26,1,12,rush,Peyton Hillis
+19,19,Browns,2010-11-14,NYJ,Loss,20,26,4,3,pass,Mohamed Massaquoi
+20,20,Browns,2010-11-21,JAX,Loss,20,24,2,11,pass,Peyton Hillis
+21,21,Browns,2010-11-21,JAX,Loss,20,24,3,18,fumble,Abram Elam
+22,22,Browns,2010-11-28,CAR,Win,24,23,1,9,rush,Peyton Hillis
+23,23,Browns,2010-11-28,CAR,Win,24,23,1,5,rush,Peyton Hillis
+24,24,Browns,2010-11-28,CAR,Win,24,23,2,6,rush,Peyton Hillis
+25,25,Browns,2010-12-05,MIA,Win,13,10,3,3,pass,Ben Watson
+26,26,Browns,2010-12-19,CIN,Loss,17,19,1,20,pass,Robert Royal
+27,27,Browns,2010-12-19,CIN,Loss,17,19,4,46,pass,Brian Robiskie
+28,28,Browns,2010-12-26,BAL,Loss,10,20,1,29,pass,Brian Robiskie
+29,29,Browns,2011-01-02,PIT,Loss,9,41,4,20,pass,Brian Robiskie

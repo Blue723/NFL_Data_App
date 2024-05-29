@@ -1,20 +1,18 @@
-,Week,Team,Day,Date,Time,Win/Loss,Overtime,Team Record,Home/Away,Opponent,Points Scored,Points Allowed,Offense 1st Down,Total Yards Gained of Offense,Total yards Gained by Passing,Total Yards Gained by Rushing,Offense Turnovers,Defense 1st Down,Total Yards Allowed by Defense,Total Passing Yards Allowed by Defense,Total Rushing Yards Allowed by Defense,Defense Turnovers,Offense,Defense,Sp. Tms,Year
-0,0,Eagles,Sun,September 12,,L,0,0-1,home,Green Bay Packers,20,27,16,320,171,149,1,22,299,167,132,2,-3.3,-2.87,-0.05,2010
-1,1,Eagles,Sun,September 19,,W,0,1-1,away,Detroit Lions,35,32,24,410,248,162,0,22,444,329,115,2,16.01,-6.33,-5.41,2010
-2,2,Eagles,Sun,September 26,,W,0,2-1,away,Jacksonville Jaguars,28,3,15,373,267,106,0,16,191,52,139,1,10.77,15.58,-4.17,2010
-3,3,Eagles,Sun,October 3,,L,0,2-2,home,Washington Redskins,12,17,21,353,243,110,2,16,293,124,169,1,-3.26,-5.57,3.29,2010
-4,4,Eagles,Sun,October 10,,W,0,3-2,away,San Francisco 49ers,27,24,17,352,227,125,1,21,364,290,74,5,-0.8,8.09,-2.65,2010
-5,5,Eagles,Sun,October 17,,W,0,4-2,home,Atlanta Falcons,31,17,23,474,320,154,1,20,293,228,65,2,17.37,1.27,-2.51,2010
-6,6,Eagles,Sun,October 24,,L,0,4-3,away,Tennessee Titans,19,37,21,326,227,99,4,15,328,253,75,3,-12.98,-2.32,-3.64,2010
-7,7,Eagles,,,,,0,,home,<strong>Bye Week</strong>,0,0,0,0,0,0,0,0,0,0,0,0,,,,2010
-8,8,Eagles,Sun,November 7,,W,0,5-3,home,Indianapolis Colts,26,24,19,402,207,195,0,27,338,276,62,2,9.29,-8.84,1.58,2010
-9,9,Eagles,Mon,November 15,,W,0,6-3,away,Washington Redskins,59,28,28,592,332,260,0,15,375,270,105,3,36.42,1.4,-6.52,2010
-10,10,Eagles,Sun,November 21,,W,0,7-3,home,New York Giants,27,17,17,392,244,148,2,13,208,147,61,5,3.16,9.75,-3.12,2010
-11,11,Eagles,Sun,November 28,,L,0,7-4,away,Chicago Bears,26,31,24,398,293,105,1,18,349,218,131,0,6.3,-12.21,5.3,2010
-12,12,Eagles,Thu,December 2,,W,0,8-4,home,Houston Texans,34,24,22,416,301,115,1,27,431,323,108,2,19.01,-9.77,-0.72,2010
-13,13,Eagles,Sun,December 12,,W,0,9-4,away,Dallas Cowboys,30,27,18,429,258,171,2,22,349,239,110,2,11.26,-6.33,0.47,2010
-14,14,Eagles,Sun,December 19,,W,0,10-4,away,New York Giants,38,31,19,418,221,197,3,20,364,264,100,2,2.33,-1.89,-6.65,2010
-15,15,Eagles,Tue,December 28,,L,0,10-5,home,Minnesota Vikings,14,24,24,331,224,107,3,21,337,176,161,1,-2.3,-4.49,1.0,2010
-16,16,Eagles,Sun,January 2,,L,0,10-6,home,Dallas Cowboys,13,14,14,244,123,121,4,14,272,113,159,1,-19.12,7.56,8.8,2010
-17,17,Eagles,,<strong>Playoffs</strong>,,,0,,home,,0,0,0,0,0,0,0,0,0,0,0,0,,,,2010
-18,18,Eagles,Sun,January 9,,L,0,10-7,home,Green Bay Packers,16,21,18,352,271,81,1,20,309,171,138,2,3.59,-9.04,-0.66,2010
+,Week,Day,Date,Time,Win/Loss,Overtime,Team Record,Home/Away,Opponent,Points Scored,Points Allowed,Offense 1st Down,Total Yards Gained of Offense,Total yards Gained by Passing,Total Yards Gained by Rushing,Offense Turnovers,Defense 1st Down,Total Yards Allowed by Defense,Total Passing Yards Allowed by Defense,Total Rushing Yards Allowed by Defense,Defense Turnovers,Offense,Defense,Sp. Tms,Team,Year
+0,1,Sun,2010-09-12,nan,Loss,0,0-1,home,Green Bay Packers,20,27,16,320,171,149,1,22,299,167,132,2,-3.3,-2.87,-0.05,Eagles,2010
+1,2,Sun,2010-09-19,nan,Win,0,1-1,away,Detroit Lions,35,32,24,410,248,162,0,22,444,329,115,2,16.01,-6.33,-5.41,Eagles,2010
+2,3,Sun,2010-09-26,nan,Win,0,2-1,away,Jacksonville Jaguars,28,3,15,373,267,106,0,16,191,52,139,1,10.77,15.58,-4.17,Eagles,2010
+3,4,Sun,2010-10-03,nan,Loss,0,2-2,home,Washington Redskins,12,17,21,353,243,110,2,16,293,124,169,1,-3.26,-5.57,3.29,Eagles,2010
+4,5,Sun,2010-10-10,nan,Win,0,3-2,away,San Francisco 49ers,27,24,17,352,227,125,1,21,364,290,74,5,-0.8,8.09,-2.65,Eagles,2010
+5,6,Sun,2010-10-17,nan,Win,0,4-2,home,Atlanta Falcons,31,17,23,474,320,154,1,20,293,228,65,2,17.37,1.27,-2.51,Eagles,2010
+6,7,Sun,2010-10-24,nan,Loss,0,4-3,away,Tennessee Titans,19,37,21,326,227,99,4,15,328,253,75,3,-12.98,-2.32,-3.64,Eagles,2010
+7,9,Sun,2010-11-07,nan,Win,0,5-3,home,Indianapolis Colts,26,24,19,402,207,195,0,27,338,276,62,2,9.29,-8.84,1.58,Eagles,2010
+8,10,Mon,2010-11-15,nan,Win,0,6-3,away,Washington Redskins,59,28,28,592,332,260,0,15,375,270,105,3,36.42,1.4,-6.52,Eagles,2010
+9,11,Sun,2010-11-21,nan,Win,0,7-3,home,New York Giants,27,17,17,392,244,148,2,13,208,147,61,5,3.16,9.75,-3.12,Eagles,2010
+10,12,Sun,2010-11-28,nan,Loss,0,7-4,away,Chicago Bears,26,31,24,398,293,105,1,18,349,218,131,0,6.3,-12.21,5.3,Eagles,2010
+11,13,Thu,2010-12-02,nan,Win,0,8-4,home,Houston Texans,34,24,22,416,301,115,1,27,431,323,108,2,19.01,-9.77,-0.72,Eagles,2010
+12,14,Sun,2010-12-12,nan,Win,0,9-4,away,Dallas Cowboys,30,27,18,429,258,171,2,22,349,239,110,2,11.26,-6.33,0.47,Eagles,2010
+13,15,Sun,2010-12-19,nan,Win,0,10-4,away,New York Giants,38,31,19,418,221,197,3,20,364,264,100,2,2.33,-1.89,-6.65,Eagles,2010
+14,16,Tue,2010-12-28,nan,Loss,0,10-5,home,Minnesota Vikings,14,24,24,331,224,107,3,21,337,176,161,1,-2.3,-4.49,1.0,Eagles,2010
+15,17,Sun,2011-01-02,nan,Loss,0,10-6,home,Dallas Cowboys,13,14,14,244,123,121,4,14,272,113,159,1,-19.12,7.56,8.8,Eagles,2010
+16,19,Sun,2011-01-09,nan,Loss,0,10-7,home,Green Bay Packers,16,21,18,352,271,81,1,20,309,171,138,2,3.59,-9.04,-0.66,Eagles,2010

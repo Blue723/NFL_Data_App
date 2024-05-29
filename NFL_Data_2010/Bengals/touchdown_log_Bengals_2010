@@ -1,37 +1,37 @@
-,Rank,Team,Date,Opponent,Win/Loss,Score,Quarter,Distance,Type,Detail,Year
-0,1,Bengals,09/12/2010,NWE,Loss, 24-38,3,1,pass,Jermaine Gresham,2010
-1,2,Bengals,09/12/2010,NWE,Loss, 24-38,3,28,pass,Chad Johnson,2010
-2,3,Bengals,09/12/2010,NWE,Loss, 24-38,4,1,rush,Cedric Benson,2010
-3,4,Bengals,09/26/2010,CAR,Win, 20-7,1,1,rush,Cedric Benson,2010
-4,5,Bengals,09/26/2010,CAR,Win, 20-7,4,7,pass,Cedric Benson,2010
-5,6,Bengals,10/03/2010,CLE,Loss, 20-23,2,78,pass,Terrell Owens,2010
-6,7,Bengals,10/03/2010,CLE,Loss, 20-23,4,3,pass,Brian Leonard,2010
-7,8,Bengals,10/10/2010,TAM,Loss, 21-24,1,43,pass,Terrell Owens,2010
-8,9,Bengals,10/10/2010,TAM,Loss, 21-24,4,1,pass,Jermaine Gresham,2010
-9,10,Bengals,10/24/2010,ATL,Loss, 32-39,3,19,pass,Terrell Owens,2010
-10,11,Bengals,10/24/2010,ATL,Loss, 32-39,3,64,pass,Jordan Shipley,2010
-11,12,Bengals,10/24/2010,ATL,Loss, 32-39,3,59,fumble,Adam Jones,2010
-12,13,Bengals,10/24/2010,ATL,Loss, 32-39,4,8,pass,Chad Johnson,2010
-13,14,Bengals,10/31/2010,MIA,Loss, 14-22,1,7,pass,Terrell Owens,2010
-14,15,Bengals,10/31/2010,MIA,Loss, 14-22,2,37,pass,Terrell Owens,2010
-15,16,Bengals,11/08/2010,PIT,Loss, 21-27,2,19,pass,Terrell Owens,2010
-16,17,Bengals,11/08/2010,PIT,Loss, 21-27,4,27,pass,Terrell Owens,2010
-17,18,Bengals,11/08/2010,PIT,Loss, 21-27,4,1,rush,Cedric Benson,2010
-18,19,Bengals,11/14/2010,IND,Loss, 17-23,2,5,pass,Chad Johnson,2010
-19,20,Bengals,11/14/2010,IND,Loss, 17-23,4,19,pass,Jermaine Gresham,2010
-20,21,Bengals,11/21/2010,BUF,Loss, 31-49,1,2,pass,Chad Johnson,2010
-21,22,Bengals,11/21/2010,BUF,Loss, 31-49,2,4,pass,Terrell Owens,2010
-22,23,Bengals,11/21/2010,BUF,Loss, 31-49,2,1,rush,Cedric Benson,2010
-23,24,Bengals,11/21/2010,BUF,Loss, 31-49,2,21,interception,Johnathan Joseph,2010
-24,25,Bengals,11/25/2010,NYJ,Loss, 10-26,2,5,pass,Jordan Shipley,2010
-25,26,Bengals,12/05/2010,NOR,Loss, 30-34,3,5,pass,Terrell Owens,2010
-26,27,Bengals,12/05/2010,NOR,Loss, 30-34,4,1,rush,Cedric Benson,2010
-27,28,Bengals,12/05/2010,NOR,Loss, 30-34,4,4,rush,Cedric Benson,2010
-28,29,Bengals,12/12/2010,PIT,Loss, 7-23,1,1,pass,Andrew Whitworth,2010
-29,30,Bengals,12/19/2010,CLE,Win, 19-17,2,18,rush,Cedric Benson,2010
-30,31,Bengals,12/26/2010,SDG,Win, 34-20,1,3,pass,Jermaine Gresham,2010
-31,32,Bengals,12/26/2010,SDG,Win, 34-20,2,10,pass,Jerome Simpson,2010
-32,33,Bengals,12/26/2010,SDG,Win, 34-20,4,3,pass,Jordan Shipley,2010
-33,34,Bengals,12/26/2010,SDG,Win, 34-20,4,59,pass,Jerome Simpson,2010
-34,35,Bengals,12/26/2010,SDG,Win, 34-20,4,10,rush,Bernard Scott,2010
-35,36,Bengals,01/02/2011,BAL,Loss, 7-13,4,11,pass,Jerome Simpson,2010
+,Rank,Team,Date,Opponent,Win/Loss,Home_Score,Opponenet_Score,Quarter,Distance,Type,Detail
+1,1,Bengals,2010-09-12,NWE,Loss,24,38,3,1,pass,Jermaine Gresham
+2,2,Bengals,2010-09-12,NWE,Loss,24,38,3,28,pass,Chad Johnson
+3,3,Bengals,2010-09-12,NWE,Loss,24,38,4,1,rush,Cedric Benson
+4,4,Bengals,2010-09-26,CAR,Win,20,7,1,1,rush,Cedric Benson
+5,5,Bengals,2010-09-26,CAR,Win,20,7,4,7,pass,Cedric Benson
+6,6,Bengals,2010-10-03,CLE,Loss,20,23,2,78,pass,Terrell Owens
+7,7,Bengals,2010-10-03,CLE,Loss,20,23,4,3,pass,Brian Leonard
+8,8,Bengals,2010-10-10,TAM,Loss,21,24,1,43,pass,Terrell Owens
+9,9,Bengals,2010-10-10,TAM,Loss,21,24,4,1,pass,Jermaine Gresham
+10,10,Bengals,2010-10-24,ATL,Loss,32,39,3,19,pass,Terrell Owens
+11,11,Bengals,2010-10-24,ATL,Loss,32,39,3,64,pass,Jordan Shipley
+12,12,Bengals,2010-10-24,ATL,Loss,32,39,3,59,fumble,Adam Jones
+13,13,Bengals,2010-10-24,ATL,Loss,32,39,4,8,pass,Chad Johnson
+14,14,Bengals,2010-10-31,MIA,Loss,14,22,1,7,pass,Terrell Owens
+15,15,Bengals,2010-10-31,MIA,Loss,14,22,2,37,pass,Terrell Owens
+16,16,Bengals,2010-11-08,PIT,Loss,21,27,2,19,pass,Terrell Owens
+17,17,Bengals,2010-11-08,PIT,Loss,21,27,4,27,pass,Terrell Owens
+18,18,Bengals,2010-11-08,PIT,Loss,21,27,4,1,rush,Cedric Benson
+19,19,Bengals,2010-11-14,IND,Loss,17,23,2,5,pass,Chad Johnson
+20,20,Bengals,2010-11-14,IND,Loss,17,23,4,19,pass,Jermaine Gresham
+21,21,Bengals,2010-11-21,BUF,Loss,31,49,1,2,pass,Chad Johnson
+22,22,Bengals,2010-11-21,BUF,Loss,31,49,2,4,pass,Terrell Owens
+23,23,Bengals,2010-11-21,BUF,Loss,31,49,2,1,rush,Cedric Benson
+24,24,Bengals,2010-11-21,BUF,Loss,31,49,2,21,interception,Johnathan Joseph
+25,25,Bengals,2010-11-25,NYJ,Loss,10,26,2,5,pass,Jordan Shipley
+26,26,Bengals,2010-12-05,NOR,Loss,30,34,3,5,pass,Terrell Owens
+27,27,Bengals,2010-12-05,NOR,Loss,30,34,4,1,rush,Cedric Benson
+28,28,Bengals,2010-12-05,NOR,Loss,30,34,4,4,rush,Cedric Benson
+29,29,Bengals,2010-12-12,PIT,Loss,7,23,1,1,pass,Andrew Whitworth
+30,30,Bengals,2010-12-19,CLE,Win,19,17,2,18,rush,Cedric Benson
+31,31,Bengals,2010-12-26,SDG,Win,34,20,1,3,pass,Jermaine Gresham
+32,32,Bengals,2010-12-26,SDG,Win,34,20,2,10,pass,Jerome Simpson
+33,33,Bengals,2010-12-26,SDG,Win,34,20,4,3,pass,Jordan Shipley
+34,34,Bengals,2010-12-26,SDG,Win,34,20,4,59,pass,Jerome Simpson
+35,35,Bengals,2010-12-26,SDG,Win,34,20,4,10,rush,Bernard Scott
+36,36,Bengals,2011-01-02,BAL,Loss,7,13,4,11,pass,Jerome Simpson

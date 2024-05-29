@@ -1,49 +1,49 @@
-,Rank,Team,Date,Opponent,Win/Loss,Score,Quarter,Distance,Type,Detail,Year
-0,1,Giants,09/12/2010,CAR,Win, 31-18,1,26,pass,Hakeem Nicks,2010
-1,2,Giants,09/12/2010,CAR,Win, 31-18,2,19,pass,Hakeem Nicks,2010
-2,3,Giants,09/12/2010,CAR,Win, 31-18,3,5,pass,Hakeem Nicks,2010
-3,4,Giants,09/12/2010,CAR,Win, 31-18,4,4,rush,Ahmad Bradshaw,2010
-4,5,Giants,09/19/2010,IND,Loss, 14-38,3,54,pass,Mario Manningham,2010
-5,6,Giants,09/19/2010,IND,Loss, 14-38,4,31,pass,Hakeem Nicks,2010
-6,7,Giants,09/26/2010,TEN,Loss, 10-29,2,10,rush,Ahmad Bradshaw,2010
-7,8,Giants,10/03/2010,CHI,Win, 17-3,3,3,rush,Ahmad Bradshaw,2010
-8,9,Giants,10/03/2010,CHI,Win, 17-3,4,2,rush,Brandon Jacobs,2010
-9,10,Giants,10/10/2010,HOU,Win, 34-10,1,6,pass,Hakeem Nicks,2010
-10,11,Giants,10/10/2010,HOU,Win, 34-10,1,1,rush,Brandon Jacobs,2010
-11,12,Giants,10/10/2010,HOU,Win, 34-10,2,12,pass,Hakeem Nicks,2010
-12,13,Giants,10/10/2010,HOU,Win, 34-10,4,4,pass,Steve Smith,2010
-13,14,Giants,10/17/2010,DET,Win, 28-20,1,4,rush,Brandon Jacobs,2010
-14,15,Giants,10/17/2010,DET,Win, 28-20,2,33,pass,Mario Manningham,2010
-15,16,Giants,10/17/2010,DET,Win, 28-20,3,1,pass,Travis Beckum,2010
-16,17,Giants,10/17/2010,DET,Win, 28-20,4,6,rush,Brandon Jacobs,2010
-17,18,Giants,10/25/2010,DAL,Win, 41-35,1,7,pass,Hakeem Nicks,2010
-18,19,Giants,10/25/2010,DAL,Win, 41-35,2,8,pass,Hakeem Nicks,2010
-19,20,Giants,10/25/2010,DAL,Win, 41-35,2,14,pass,Steve Smith,2010
-20,21,Giants,10/25/2010,DAL,Win, 41-35,3,25,pass,Mario Manningham,2010
-21,22,Giants,10/25/2010,DAL,Win, 41-35,3,30,rush,Brandon Jacobs,2010
-22,23,Giants,11/07/2010,SEA,Win, 41-7,1,2,rush,Ahmad Bradshaw,2010
-23,24,Giants,11/07/2010,SEA,Win, 41-7,1,46,pass,Hakeem Nicks,2010
-24,25,Giants,11/07/2010,SEA,Win, 41-7,1,4,rush,Ahmad Bradshaw,2010
-25,26,Giants,11/07/2010,SEA,Win, 41-7,2,6,pass,Steve Smith,2010
-26,27,Giants,11/07/2010,SEA,Win, 41-7,2,5,pass,Kevin Boss,2010
-27,28,Giants,11/14/2010,DAL,Loss, 20-33,3,5,pass,Mario Manningham,2010
-28,29,Giants,11/14/2010,DAL,Loss, 20-33,3,35,pass,Kevin Boss,2010
-29,30,Giants,11/21/2010,PHI,Loss, 17-27,3,2,pass,Travis Beckum,2010
-30,31,Giants,11/21/2010,PHI,Loss, 17-27,4,5,pass,Derek Hagan,2010
-31,32,Giants,11/28/2010,JAX,Win, 24-20,4,26,pass,Mario Manningham,2010
-32,33,Giants,11/28/2010,JAX,Win, 24-20,4,32,pass,Kevin Boss,2010
-33,34,Giants,12/05/2010,WAS,Win, 31-7,1,8,rush,Brandon Jacobs,2010
-34,35,Giants,12/05/2010,WAS,Win, 31-7,1,4,rush,Ahmad Bradshaw,2010
-35,36,Giants,12/05/2010,WAS,Win, 31-7,2,10,rush,Ahmad Bradshaw,2010
-36,37,Giants,12/05/2010,WAS,Win, 31-7,3,28,rush,Brandon Jacobs,2010
-37,38,Giants,12/13/2010,MIN,Win, 21-3,2,1,rush,Brandon Jacobs,2010
-38,39,Giants,12/13/2010,MIN,Win, 21-3,2,6,pass,Kevin Boss,2010
-39,40,Giants,12/13/2010,MIN,Win, 21-3,3,48,rush,Ahmad Bradshaw,2010
-40,41,Giants,12/19/2010,PHI,Loss, 31-38,1,35,pass,Mario Manningham,2010
-41,42,Giants,12/19/2010,PHI,Loss, 31-38,2,33,pass,Mario Manningham,2010
-42,43,Giants,12/19/2010,PHI,Loss, 31-38,2,8,pass,Hakeem Nicks,2010
-43,44,Giants,12/19/2010,PHI,Loss, 31-38,4,8,pass,Kevin Boss,2010
-44,45,Giants,12/26/2010,GNB,Loss, 17-45,2,36,pass,Hakeem Nicks,2010
-45,46,Giants,12/26/2010,GNB,Loss, 17-45,2,85,pass,Mario Manningham,2010
-46,47,Giants,01/02/2011,WAS,Win, 17-14,2,2,rush,Brandon Jacobs,2010
-47,48,Giants,01/02/2011,WAS,Win, 17-14,3,92,pass,Mario Manningham,2010
+,Rank,Team,Date,Opponent,Win/Loss,Home_Score,Opponenet_Score,Quarter,Distance,Type,Detail
+1,1,Giants,2010-09-12,CAR,Win,31,18,1,26,pass,Hakeem Nicks
+2,2,Giants,2010-09-12,CAR,Win,31,18,2,19,pass,Hakeem Nicks
+3,3,Giants,2010-09-12,CAR,Win,31,18,3,5,pass,Hakeem Nicks
+4,4,Giants,2010-09-12,CAR,Win,31,18,4,4,rush,Ahmad Bradshaw
+5,5,Giants,2010-09-19,IND,Loss,14,38,3,54,pass,Mario Manningham
+6,6,Giants,2010-09-19,IND,Loss,14,38,4,31,pass,Hakeem Nicks
+7,7,Giants,2010-09-26,TEN,Loss,10,29,2,10,rush,Ahmad Bradshaw
+8,8,Giants,2010-10-03,CHI,Win,17,3,3,3,rush,Ahmad Bradshaw
+9,9,Giants,2010-10-03,CHI,Win,17,3,4,2,rush,Brandon Jacobs
+10,10,Giants,2010-10-10,HOU,Win,34,10,1,6,pass,Hakeem Nicks
+11,11,Giants,2010-10-10,HOU,Win,34,10,1,1,rush,Brandon Jacobs
+12,12,Giants,2010-10-10,HOU,Win,34,10,2,12,pass,Hakeem Nicks
+13,13,Giants,2010-10-10,HOU,Win,34,10,4,4,pass,Steve Smith
+14,14,Giants,2010-10-17,DET,Win,28,20,1,4,rush,Brandon Jacobs
+15,15,Giants,2010-10-17,DET,Win,28,20,2,33,pass,Mario Manningham
+16,16,Giants,2010-10-17,DET,Win,28,20,3,1,pass,Travis Beckum
+17,17,Giants,2010-10-17,DET,Win,28,20,4,6,rush,Brandon Jacobs
+18,18,Giants,2010-10-25,DAL,Win,41,35,1,7,pass,Hakeem Nicks
+19,19,Giants,2010-10-25,DAL,Win,41,35,2,8,pass,Hakeem Nicks
+20,20,Giants,2010-10-25,DAL,Win,41,35,2,14,pass,Steve Smith
+21,21,Giants,2010-10-25,DAL,Win,41,35,3,25,pass,Mario Manningham
+22,22,Giants,2010-10-25,DAL,Win,41,35,3,30,rush,Brandon Jacobs
+23,23,Giants,2010-11-07,SEA,Win,41,7,1,2,rush,Ahmad Bradshaw
+24,24,Giants,2010-11-07,SEA,Win,41,7,1,46,pass,Hakeem Nicks
+25,25,Giants,2010-11-07,SEA,Win,41,7,1,4,rush,Ahmad Bradshaw
+26,26,Giants,2010-11-07,SEA,Win,41,7,2,6,pass,Steve Smith
+27,27,Giants,2010-11-07,SEA,Win,41,7,2,5,pass,Kevin Boss
+28,28,Giants,2010-11-14,DAL,Loss,20,33,3,5,pass,Mario Manningham
+29,29,Giants,2010-11-14,DAL,Loss,20,33,3,35,pass,Kevin Boss
+30,30,Giants,2010-11-21,PHI,Loss,17,27,3,2,pass,Travis Beckum
+31,31,Giants,2010-11-21,PHI,Loss,17,27,4,5,pass,Derek Hagan
+32,32,Giants,2010-11-28,JAX,Win,24,20,4,26,pass,Mario Manningham
+33,33,Giants,2010-11-28,JAX,Win,24,20,4,32,pass,Kevin Boss
+34,34,Giants,2010-12-05,WAS,Win,31,7,1,8,rush,Brandon Jacobs
+35,35,Giants,2010-12-05,WAS,Win,31,7,1,4,rush,Ahmad Bradshaw
+36,36,Giants,2010-12-05,WAS,Win,31,7,2,10,rush,Ahmad Bradshaw
+37,37,Giants,2010-12-05,WAS,Win,31,7,3,28,rush,Brandon Jacobs
+38,38,Giants,2010-12-13,MIN,Win,21,3,2,1,rush,Brandon Jacobs
+39,39,Giants,2010-12-13,MIN,Win,21,3,2,6,pass,Kevin Boss
+40,40,Giants,2010-12-13,MIN,Win,21,3,3,48,rush,Ahmad Bradshaw
+41,41,Giants,2010-12-19,PHI,Loss,31,38,1,35,pass,Mario Manningham
+42,42,Giants,2010-12-19,PHI,Loss,31,38,2,33,pass,Mario Manningham
+43,43,Giants,2010-12-19,PHI,Loss,31,38,2,8,pass,Hakeem Nicks
+44,44,Giants,2010-12-19,PHI,Loss,31,38,4,8,pass,Kevin Boss
+45,45,Giants,2010-12-26,GNB,Loss,17,45,2,36,pass,Hakeem Nicks
+46,46,Giants,2010-12-26,GNB,Loss,17,45,2,85,pass,Mario Manningham
+47,47,Giants,2011-01-02,WAS,Win,17,14,2,2,rush,Brandon Jacobs
+48,48,Giants,2011-01-02,WAS,Win,17,14,3,92,pass,Mario Manningham

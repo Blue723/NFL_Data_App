@@ -1,18 +1,18 @@
-,No.,Team,Player,Age,Position,Games Played,Games Started as an Offensive or Defensive Player,Rushing Attempts,Rushing Yards Gained,Rushing Touchdown,First Downs Rushing,Rushing Success Rate,Longest Rushing Attempt,Rushing Yards per Attempt,Rushing Yards per Game,Rushing Attempts per Game,Pass Targets,Receptions,Receiving Yards,Receiving Yards per Reception,Receiving Touchdowns,First Downs Receiving,Receiving Success Rate,Longest Reception,Receptions per Game,Receiving Yards per Game,Catch Per.,Receiving Yards per Target,Touches: Rushing Attempts and Receptions,Scrimmage Yards per Touch: Rushing + Receiving Yardage per Opportunity,Yards from Scrimmage: Receiving and Rushing Yards,Rushing and Receiving Touchdowns,Lost and Recovered Fumbles,Year
-0,33,Falcons,Michael Turner,28,RB,16,15,334,1371,12,75,44.0,55,4.1,85.7,20.9,20,12,85,7.1,0,2,45.0,19,0.8,5.3,60.0,4.3,346,4.2,1456,12,2,2010
-1,44,Falcons,Jason Snelling,27,RB,14,0,87,324,2,20,42.5,30,3.7,23.1,6.2,51,44,303,6.9,3,13,39.2,28,3.1,21.6,86.3,5.9,131,4.8,627,5,2,2010
-2,2,Falcons,Matt Ryan,25,QB,16,16,46,122,0,10,34.8,20,2.7,7.6,2.9,0,0,0,,0,0,,0,,,0.0,,46,2.7,122,0,4,2010
-3,34,Falcons,Ovie Mughelli,30,FB,16,6,13,36,0,8,69.2,6,2.8,2.3,0.8,18,13,126,9.7,1,5,33.3,18,0.8,7.9,72.2,7.0,26,6.2,162,1,0,2010
-4,27,Falcons,Gartrell Johnson,24,RB,9,0,10,36,0,2,20.0,23,3.6,4.0,1.1,5,3,6,2.0,0,1,0.0,10,0.3,0.7,60.0,1.2,13,3.2,42,0,1,2010
-5,83,Falcons,Harry Douglas,26,WR,16,4,2,-5,0,0,0.0,0,-2.5,-0.3,0.1,53,22,294,13.4,1,15,35.8,46,1.4,18.4,41.5,5.5,24,12.0,289,1,0,2010
-6,32,Falcons,Jerious Norwood,27,RB,2,0,2,8,0,1,100.0,6,4.0,4.0,1.0,3,1,9,9.0,0,0,33.3,9,0.5,4.5,33.3,3.0,3,5.7,17,0,0,2010
-7,84,Falcons,Roddy White,29,WR,16,16,1,3,0,0,0.0,3,3.0,0.2,0.1,179,115,1389,12.1,10,73,54.2,46,7.2,86.8,64.2,7.8,116,12.0,1392,10,1,2010
-8,8,Falcons,Chris Redman,33,QB,2,0,1,-1,0,0,0.0,-1,-1.0,-0.5,0.5,0,0,0,,0,0,,0,,,0.0,,1,-1.0,-1,0,0,2010
-9,35,Falcons,Antone Smith,25,RB,9,0,1,-3,0,0,,-3,-3.0,-0.3,0.1,1,0,0,,0,0,,0,0.0,0.0,0.0,0.0,1,-3.0,-3,0,0,2010
-10,88,Falcons,Tony Gonzalez,34,TE,16,16,0,0,0,0,,0,,,,108,70,656,9.4,6,40,52.8,34,4.4,41.0,64.8,6.1,70,9.4,656,6,0,2010
-11,12,Falcons,Michael Jenkins,28,WR,11,9,0,0,0,0,,0,,,,73,41,505,12.3,2,29,46.6,43,3.7,45.9,56.2,6.9,41,12.3,505,2,0,2010
-12,86,Falcons,Brian Finneran,34,WR,16,1,0,0,0,0,,0,,,,32,19,166,8.7,3,11,46.9,21,1.2,10.4,59.4,5.2,19,8.7,166,3,0,2010
-13,87,Falcons,Justin Peelle,31,TE,13,8,0,0,0,0,,0,,,,15,10,96,9.6,1,8,60.0,15,0.8,7.4,66.7,6.4,10,9.6,96,1,0,2010
-14,14,Falcons,Eric Weems,25,WR,16,4,0,0,0,0,,0,,,,6,6,61,10.2,0,3,100.0,18,0.4,3.8,100.0,10.2,6,10.2,61,0,0,2010
-15,81,Falcons,Michael Palmer,22,TE,14,1,0,0,0,0,,0,,,,8,5,29,5.8,1,3,37.5,11,0.4,2.1,62.5,3.6,5,5.8,29,1,0,2010
-16,63,Falcons,Justin Blalock,27,LG,16,16,0,0,0,0,,0,,,,1,0,0,,0,0,,0,0.0,0.0,0.0,0.0,0,,0,0,0,2010
+,No.,Player,Age,Position,Games Played,Games Started as an Offensive or Defensive Player,Rushing Attempts,Rushing Yards Gained,Rushing Touchdown,First Downs Rushing,Rushing Success Rate,Longest Rushing Attempt,Rushing Yards per Attempt,Rushing Yards per Game,Rushing Attempts per Game,Pass Targets,Receptions,Receiving Yards,Receiving Yards per Reception,Receiving Touchdowns,First Downs Receiving,Receiving Success Rate,Longest Reception,Receptions per Game,Receiving Yards per Game,Catch Per.,Receiving Yards per Target,Touches: Rushing Attempts and Receptions,Scrimmage Yards per Touch: Rushing + Receiving Yardage per Opportunity,Yards from Scrimmage: Receiving and Rushing Yards,Rushing and Receiving Touchdowns,Lost and Recovered Fumbles,Team,Year
+33,33,Michael Turner,28,RB,16,15,334,1371,12,75,44.0,55,4.1,85.7,20.9,20,12,85,7.1,0,2,45.0,19,0.8,5.3,60.0,4.3,346,4.2,1456,12,2,Falcons,2010
+44,44,Jason Snelling,27,RB,14,0,87,324,2,20,42.5,30,3.7,23.1,6.2,51,44,303,6.9,3,13,39.2,28,3.1,21.6,86.3,5.9,131,4.8,627,5,2,Falcons,2010
+2,2,Matt Ryan,25,QB,16,16,46,122,0,10,34.8,20,2.7,7.6,2.9,0,0,0,0.0,0,0,0.0,0,0.0,0.0,0.0,0.0,46,2.7,122,0,4,Falcons,2010
+34,34,Ovie Mughelli,30,FB,16,6,13,36,0,8,69.2,6,2.8,2.3,0.8,18,13,126,9.7,1,5,33.3,18,0.8,7.9,72.2,7.0,26,6.2,162,1,0,Falcons,2010
+27,27,Gartrell Johnson,24,RB,9,0,10,36,0,2,20.0,23,3.6,4.0,1.1,5,3,6,2.0,0,1,0.0,10,0.3,0.7,60.0,1.2,13,3.2,42,0,1,Falcons,2010
+83,83,Harry Douglas,26,WR,16,4,2,-5,0,0,0.0,0,-2.5,-0.3,0.1,53,22,294,13.4,1,15,35.8,46,1.4,18.4,41.5,5.5,24,12.0,289,1,0,Falcons,2010
+32,32,Jerious Norwood,27,RB,2,0,2,8,0,1,100.0,6,4.0,4.0,1.0,3,1,9,9.0,0,0,33.3,9,0.5,4.5,33.3,3.0,3,5.7,17,0,0,Falcons,2010
+84,84,Roddy White,29,WR,16,16,1,3,0,0,0.0,3,3.0,0.2,0.1,179,115,1389,12.1,10,73,54.2,46,7.2,86.8,64.2,7.8,116,12.0,1392,10,1,Falcons,2010
+8,8,Chris Redman,33,QB,2,0,1,-1,0,0,0.0,-1,-1.0,-0.5,0.5,0,0,0,0.0,0,0,0.0,0,0.0,0.0,0.0,0.0,1,-1.0,-1,0,0,Falcons,2010
+35,35,Antone Smith,25,RB,9,0,1,-3,0,0,0.0,-3,-3.0,-0.3,0.1,1,0,0,0.0,0,0,0.0,0,0.0,0.0,0.0,0.0,1,-3.0,-3,0,0,Falcons,2010
+88,88,Tony Gonzalez,34,TE,16,16,0,0,0,0,0.0,0,0.0,0.0,0.0,108,70,656,9.4,6,40,52.8,34,4.4,41.0,64.8,6.1,70,9.4,656,6,0,Falcons,2010
+12,12,Michael Jenkins,28,WR,11,9,0,0,0,0,0.0,0,0.0,0.0,0.0,73,41,505,12.3,2,29,46.6,43,3.7,45.9,56.2,6.9,41,12.3,505,2,0,Falcons,2010
+86,86,Brian Finneran,34,WR,16,1,0,0,0,0,0.0,0,0.0,0.0,0.0,32,19,166,8.7,3,11,46.9,21,1.2,10.4,59.4,5.2,19,8.7,166,3,0,Falcons,2010
+87,87,Justin Peelle,31,TE,13,8,0,0,0,0,0.0,0,0.0,0.0,0.0,15,10,96,9.6,1,8,60.0,15,0.8,7.4,66.7,6.4,10,9.6,96,1,0,Falcons,2010
+14,14,Eric Weems,25,WR,16,4,0,0,0,0,0.0,0,0.0,0.0,0.0,6,6,61,10.2,0,3,100.0,18,0.4,3.8,100.0,10.2,6,10.2,61,0,0,Falcons,2010
+81,81,Michael Palmer,22,TE,14,1,0,0,0,0,0.0,0,0.0,0.0,0.0,8,5,29,5.8,1,3,37.5,11,0.4,2.1,62.5,3.6,5,5.8,29,1,0,Falcons,2010
+63,63,Justin Blalock,27,LG,16,16,0,0,0,0,0.0,0,0.0,0.0,0.0,1,0,0,0.0,0,0,0.0,0,0.0,0.0,0.0,0.0,0,0.0,0,0,0,Falcons,2010

@@ -1,10 +1,10 @@
-,No.,Team,Player,Age,Position,Games Played,Games Started,Punts Returned,Punts Return Yardage,Punts Returned for Touchdown,Longest Punt Return,Yards per Punt Return,Kickoff Returns,Yardage for Kickoffs Returned,Kickoffs Returned for a Touchdown,Longest Kickoff Return,Yards per Kickoff Return,All-purpose Yards,Year
-0,38,Packers,Tramon Williams,27,RCB,16,16,41,326,0,52,8.0,0,0,0,0,,418,2010
-1,87,Packers,Jordy Nelson,25,WR,16,4,0,0,0,0,,22,496,0,51,22.5,1081,2010
-2,37,Packers,Sam Shields,23,DB,14,6,0,-1,0,-1,,21,452,0,49,21.5,451,2010
-3,22,Packers,Pat Lee,26,DB,11,1,0,0,0,0,,13,265,0,30,20.4,265,2010
-4,44,Packers,James Starks,24,RB,3,0,0,0,0,0,,2,25,0,17,12.5,141,2010
-5,80,Packers,Donald Driver,35,WR,15,15,0,0,0,0,,1,0,0,0,0.0,565,2010
-6,30,Packers,John Kuhn,28,FB,16,2,0,0,0,0,,1,8,0,8,8.0,386,2010
-7,53,Packers,Maurice Simpkins,27,LB,2,0,0,0,0,0,,1,0,0,0,0.0,0,2010
-8,57,Packers,Matt Wilhelm,29,LB,7,0,0,0,0,0,,1,3,0,3,3.0,3,2010
+,No.,Player,Age,Position,Games Played,Games Started,Punts Returned,Punts Return Yardage,Punts Returned for Touchdown,Longest Punt Return,Yards per Punt Return,Kickoff Returns,Yardage for Kickoffs Returned,Kickoffs Returned for a Touchdown,Longest Kickoff Return,Yards per Kickoff Return,All-purpose Yards,Team,Year
+38,38,Tramon Williams,27,RCB,16,16,41,326,0,52,8.0,0,0,0,0,0.0,418,Packers,2010
+87,87,Jordy Nelson,25,WR,16,4,0,0,0,0,0.0,22,496,0,51,22.5,1081,Packers,2010
+37,37,Sam Shields,23,DB,14,6,0,-1,0,-1,0.0,21,452,0,49,21.5,451,Packers,2010
+22,22,Pat Lee,26,DB,11,1,0,0,0,0,0.0,13,265,0,30,20.4,265,Packers,2010
+44,44,James Starks,24,RB,3,0,0,0,0,0,0.0,2,25,0,17,12.5,141,Packers,2010
+80,80,Donald Driver,35,WR,15,15,0,0,0,0,0.0,1,0,0,0,0.0,565,Packers,2010
+30,30,John Kuhn,28,FB,16,2,0,0,0,0,0.0,1,8,0,8,8.0,386,Packers,2010
+53,53,Maurice Simpkins,27,LB,2,0,0,0,0,0,0.0,1,0,0,0,0.0,0,Packers,2010
+57,57,Matt Wilhelm,29,LB,7,0,0,0,0,0,0.0,1,3,0,3,3.0,3,Packers,2010

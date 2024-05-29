@@ -1,5 +1,5 @@
-,Player,Team,3rd Down Attempts in Game,3rd Down Conversions,3rd Down Conversion Per.,4th Down Attempts in Game,4th Down Conversions in Game,4th Down Conversion Per.,Red Zone Attempts,Touchdowns Scored After the Team Entered the Red Zone,Per. of the Time a Team Reaches the Red Zone and Scores a Touchdown,Year
-0,Team Stats,Cardinals,209.0,58.0,27.8,18.0,7.0,38.9,37.0,16.0,43.2,2010.0
-1,Opp. Stats,Cardinals,233.0,87.0,37.3,17.0,9.0,52.9,69.0,27.0,39.1,2010.0
-2,Lg Rank Offense,Cardinals,,,32.0,,,24.0,,,28.0,2010.0
-3,Lg Rank Defense,Cardinals,,,12.0,,,20.0,,,1.0,2010.0
+,Player,3rd Down Attempts in Game,3rd Down Conversions,3rd Down Conversion Per.,4th Down Attempts in Game,4th Down Conversions in Game,4th Down Conversion Per.,Red Zone Attempts,Touchdowns Scored After the Team Entered the Red Zone,Per. of the Time a Team Reaches the Red Zone and Scores a Touchdown,Team,Year
+Team Stats,Team Stats,209.0,58.0,27.8,18.0,7.0,38.9,37.0,16.0,43.2,Cardinals,2010
+Opp. Stats,Opp. Stats,233.0,87.0,37.3,17.0,9.0,52.9,69.0,27.0,39.1,Cardinals,2010
+Lg Rank Offense,Lg Rank Offense,0.0,0.0,32.0,0.0,0.0,24.0,0.0,0.0,28,Cardinals,2010
+Lg Rank Defense,Lg Rank Defense,0.0,0.0,12.0,0.0,0.0,20.0,0.0,0.0,1,Cardinals,2010

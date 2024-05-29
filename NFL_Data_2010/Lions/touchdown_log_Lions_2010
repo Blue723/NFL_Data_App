@@ -1,42 +1,42 @@
-,Rank,Team,Date,Opponent,Win/Loss,Score,Quarter,Distance,Type,Detail,Year
-0,1,Lions,09/12/2010,CHI,Loss, 14-19,1,7,rush,Jahvid Best,2010
-1,2,Lions,09/12/2010,CHI,Loss, 14-19,2,4,rush,Jahvid Best,2010
-2,3,Lions,09/19/2010,PHI,Loss, 32-35,1,14,rush,Jahvid Best,2010
-3,4,Lions,09/19/2010,PHI,Loss, 32-35,2,75,pass,Jahvid Best,2010
-4,5,Lions,09/19/2010,PHI,Loss, 32-35,4,2,rush,Jahvid Best,2010
-5,6,Lions,09/19/2010,PHI,Loss, 32-35,4,19,pass,Calvin Johnson,2010
-6,7,Lions,09/26/2010,MIN,Loss, 10-24,1,5,pass,Tony Scheffler,2010
-7,8,Lions,10/03/2010,GNB,Loss, 26-28,2,23,pass,Calvin Johnson,2010
-8,9,Lions,10/03/2010,GNB,Loss, 26-28,2,21,pass,Calvin Johnson,2010
-9,10,Lions,10/10/2010,STL,Win, 44-6,2,105,kickoff,Stefan Logan,2010
-10,11,Lions,10/10/2010,STL,Win, 44-6,2,1,pass,Calvin Johnson,2010
-11,12,Lions,10/10/2010,STL,Win, 44-6,2,3,pass,Brandon Pettigrew,2010
-12,13,Lions,10/10/2010,STL,Win, 44-6,3,26,pass,Nate Burleson,2010
-13,14,Lions,10/10/2010,STL,Win, 44-6,4,42,interception,Alphonso Smith,2010
-14,15,Lions,10/17/2010,NYG,Loss, 20-28,1,14,pass,Nate Burleson,2010
-15,16,Lions,10/17/2010,NYG,Loss, 20-28,4,87,pass,Calvin Johnson,2010
-16,17,Lions,10/31/2010,WAS,Win, 37-25,2,13,pass,Calvin Johnson,2010
-17,18,Lions,10/31/2010,WAS,Win, 37-25,3,2,pass,Brandon Pettigrew,2010
-18,19,Lions,10/31/2010,WAS,Win, 37-25,4,7,pass,Calvin Johnson,2010
-19,20,Lions,10/31/2010,WAS,Win, 37-25,4,10,pass,Calvin Johnson,2010
-20,21,Lions,10/31/2010,WAS,Win, 37-25,4,17,fumble,Ndamukong Suh,2010
-21,22,Lions,11/07/2010,NYJ,Loss, 20-23,1,10,pass,Brandon Pettigrew,2010
-22,23,Lions,11/07/2010,NYJ,Loss, 20-23,3,1,rush,Matthew Stafford,2010
-23,24,Lions,11/07/2010,NYJ,Loss, 20-23,4,2,pass,Nate Burleson,2010
-24,25,Lions,11/14/2010,BUF,Loss, 12-14,4,20,pass,Calvin Johnson,2010
-25,26,Lions,11/21/2010,DAL,Loss, 19-35,2,9,pass,Nate Burleson,2010
-26,27,Lions,11/21/2010,DAL,Loss, 19-35,3,14,pass,Calvin Johnson,2010
-27,28,Lions,11/25/2010,NWE,Loss, 24-45,1,19,pass,Calvin Johnson,2010
-28,29,Lions,11/25/2010,NWE,Loss, 24-45,2,1,rush,Maurice Morris,2010
-29,30,Lions,11/25/2010,NWE,Loss, 24-45,3,1,rush,Maurice Morris,2010
-30,31,Lions,12/05/2010,CHI,Loss, 20-24,1,3,rush,Drew Stanton,2010
-31,32,Lions,12/05/2010,CHI,Loss, 20-24,2,46,pass,Calvin Johnson,2010
-32,33,Lions,12/12/2010,GNB,Win, 7-3,4,13,pass,Will Heller,2010
-33,34,Lions,12/19/2010,TAM,Win, 23-20,1,10,pass,Nate Burleson,2010
-34,35,Lions,12/19/2010,TAM,Win, 23-20,3,10,rush,Maurice Morris,2010
-35,36,Lions,12/26/2010,MIA,Win, 34-27,2,20,pass,Brandon Pettigrew,2010
-36,37,Lions,12/26/2010,MIA,Win, 34-27,3,5,rush,Maurice Morris,2010
-37,38,Lions,12/26/2010,MIA,Win, 34-27,4,53,pass,Jahvid Best,2010
-38,39,Lions,12/26/2010,MIA,Win, 34-27,4,30,interception,DeAndre Levy,2010
-39,40,Lions,01/02/2011,MIN,Win, 20-13,2,7,pass,Nate Burleson,2010
-40,41,Lions,01/02/2011,MIN,Win, 20-13,4,5,rush,Maurice Morris,2010
+,Rank,Team,Date,Opponent,Win/Loss,Home_Score,Opponenet_Score,Quarter,Distance,Type,Detail
+1,1,Lions,2010-09-12,CHI,Loss,14,19,1,7,rush,Jahvid Best
+2,2,Lions,2010-09-12,CHI,Loss,14,19,2,4,rush,Jahvid Best
+3,3,Lions,2010-09-19,PHI,Loss,32,35,1,14,rush,Jahvid Best
+4,4,Lions,2010-09-19,PHI,Loss,32,35,2,75,pass,Jahvid Best
+5,5,Lions,2010-09-19,PHI,Loss,32,35,4,2,rush,Jahvid Best
+6,6,Lions,2010-09-19,PHI,Loss,32,35,4,19,pass,Calvin Johnson
+7,7,Lions,2010-09-26,MIN,Loss,10,24,1,5,pass,Tony Scheffler
+8,8,Lions,2010-10-03,GNB,Loss,26,28,2,23,pass,Calvin Johnson
+9,9,Lions,2010-10-03,GNB,Loss,26,28,2,21,pass,Calvin Johnson
+10,10,Lions,2010-10-10,STL,Win,44,6,2,105,kickoff,Stefan Logan
+11,11,Lions,2010-10-10,STL,Win,44,6,2,1,pass,Calvin Johnson
+12,12,Lions,2010-10-10,STL,Win,44,6,2,3,pass,Brandon Pettigrew
+13,13,Lions,2010-10-10,STL,Win,44,6,3,26,pass,Nate Burleson
+14,14,Lions,2010-10-10,STL,Win,44,6,4,42,interception,Alphonso Smith
+15,15,Lions,2010-10-17,NYG,Loss,20,28,1,14,pass,Nate Burleson
+16,16,Lions,2010-10-17,NYG,Loss,20,28,4,87,pass,Calvin Johnson
+17,17,Lions,2010-10-31,WAS,Win,37,25,2,13,pass,Calvin Johnson
+18,18,Lions,2010-10-31,WAS,Win,37,25,3,2,pass,Brandon Pettigrew
+19,19,Lions,2010-10-31,WAS,Win,37,25,4,7,pass,Calvin Johnson
+20,20,Lions,2010-10-31,WAS,Win,37,25,4,10,pass,Calvin Johnson
+21,21,Lions,2010-10-31,WAS,Win,37,25,4,17,fumble,Ndamukong Suh
+22,22,Lions,2010-11-07,NYJ,Loss,20,23,1,10,pass,Brandon Pettigrew
+23,23,Lions,2010-11-07,NYJ,Loss,20,23,3,1,rush,Matthew Stafford
+24,24,Lions,2010-11-07,NYJ,Loss,20,23,4,2,pass,Nate Burleson
+25,25,Lions,2010-11-14,BUF,Loss,12,14,4,20,pass,Calvin Johnson
+26,26,Lions,2010-11-21,DAL,Loss,19,35,2,9,pass,Nate Burleson
+27,27,Lions,2010-11-21,DAL,Loss,19,35,3,14,pass,Calvin Johnson
+28,28,Lions,2010-11-25,NWE,Loss,24,45,1,19,pass,Calvin Johnson
+29,29,Lions,2010-11-25,NWE,Loss,24,45,2,1,rush,Maurice Morris
+30,30,Lions,2010-11-25,NWE,Loss,24,45,3,1,rush,Maurice Morris
+31,31,Lions,2010-12-05,CHI,Loss,20,24,1,3,rush,Drew Stanton
+32,32,Lions,2010-12-05,CHI,Loss,20,24,2,46,pass,Calvin Johnson
+33,33,Lions,2010-12-12,GNB,Win,7,3,4,13,pass,Will Heller
+34,34,Lions,2010-12-19,TAM,Win,23,20,1,10,pass,Nate Burleson
+35,35,Lions,2010-12-19,TAM,Win,23,20,3,10,rush,Maurice Morris
+36,36,Lions,2010-12-26,MIA,Win,34,27,2,20,pass,Brandon Pettigrew
+37,37,Lions,2010-12-26,MIA,Win,34,27,3,5,rush,Maurice Morris
+38,38,Lions,2010-12-26,MIA,Win,34,27,4,53,pass,Jahvid Best
+39,39,Lions,2010-12-26,MIA,Win,34,27,4,30,interception,DeAndre Levy
+40,40,Lions,2011-01-02,MIN,Win,20,13,2,7,pass,Nate Burleson
+41,41,Lions,2011-01-02,MIN,Win,20,13,4,5,rush,Maurice Morris

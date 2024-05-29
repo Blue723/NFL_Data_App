@@ -1,6 +1,6 @@
-,No.,Team,Player,Age,Position,Games Played,Games Started,Punts Returned,Punts Return Yardage,Punts Returned for Touchdown,Longest Punt Return,Yards per Punt Return,Kickoff Returns,Yardage for Kickoffs Returned,Kickoffs Returned for a Touchdown,Longest Kickoff Return,Yards per Kickoff Return,All-purpose Yards,Year
-0,43,Chargers,Darren Sproles,27,RB,16,3,24,166,0,16,6.9,51,1257,0,45,24.6,2210,2010
-1,20,Chargers,Antoine Cason,24,RCB,16,15,14,231,0,62,16.5,0,0,0,0,,282,2010
-2,12,Chargers,Patrick Crayton,31,WR,9,2,2,23,0,13,11.5,1,31,0,31,31.0,568,2010
-3,22,Chargers,Jacob Hester,25,RB,15,7,0,0,0,0,,3,25,0,13,8.3,230,2010
-4,44,Chargers,Curtis Brinkley,25,RB,3,0,0,0,0,0,,1,29,0,29,29.0,40,2010
+,No.,Player,Age,Position,Games Played,Games Started,Punts Returned,Punts Return Yardage,Punts Returned for Touchdown,Longest Punt Return,Yards per Punt Return,Kickoff Returns,Yardage for Kickoffs Returned,Kickoffs Returned for a Touchdown,Longest Kickoff Return,Yards per Kickoff Return,All-purpose Yards,Team,Year
+43,43,Darren Sproles,27,RB,16,3,24,166,0,16,6.9,51,1257,0,45,24.6,2210,Chargers,2010
+20,20,Antoine Cason,24,RCB,16,15,14,231,0,62,16.5,0,0,0,0,0.0,282,Chargers,2010
+12,12,Patrick Crayton,31,WR,9,2,2,23,0,13,11.5,1,31,0,31,31.0,568,Chargers,2010
+22,22,Jacob Hester,25,RB,15,7,0,0,0,0,0.0,3,25,0,13,8.3,230,Chargers,2010
+44,44,Curtis Brinkley,25,RB,3,0,0,0,0,0,0.0,1,29,0,29,29.0,40,Chargers,2010

@@ -1,37 +1,37 @@
-,Rank,Team,Date,Opponent,Win/Loss,Score,Quarter,Distance,Type,Detail,Year
-0,1,Dolphins,09/12/2010,BUF,Win, 15-10,4,31,pass,Roscoe Parrish,2010
-1,2,Dolphins,09/19/2010,MIN,Win, 14-10,3,1,rush,Adrian Peterson,2010
-2,3,Dolphins,09/26/2010,NYJ,Loss, 23-31,1,24,pass,Dustin Keller,2010
-3,4,Dolphins,09/26/2010,NYJ,Loss, 23-31,2,12,pass,Dustin Keller,2010
-4,5,Dolphins,09/26/2010,NYJ,Loss, 23-31,3,67,pass,Braylon Edwards,2010
-5,6,Dolphins,09/26/2010,NYJ,Loss, 23-31,4,1,rush,LaDainian Tomlinson,2010
-6,7,Dolphins,10/04/2010,NWE,Loss, 14-41,3,103,kickoff,Brandon Tate,2010
-7,8,Dolphins,10/04/2010,NWE,Loss, 14-41,3,12,rush,BenJarvus Green-Ellis,2010
-8,9,Dolphins,10/04/2010,NWE,Loss, 14-41,3,11,pass,Danny Woodhead,2010
-9,10,Dolphins,10/04/2010,NWE,Loss, 14-41,4,35,blocked field goal,Kyle Arrington,2010
-10,11,Dolphins,10/04/2010,NWE,Loss, 14-41,4,51,interception,Patrick Chung,2010
-11,12,Dolphins,10/17/2010,GNB,Win, 23-20,1,86,pass,Greg Jennings,2010
-12,13,Dolphins,10/17/2010,GNB,Win, 23-20,4,1,rush,Aaron Rodgers,2010
-13,14,Dolphins,10/24/2010,PIT,Loss, 22-23,2,21,pass,Hines Ward,2010
-14,15,Dolphins,10/24/2010,PIT,Loss, 22-23,2,53,pass,Mike Wallace,2010
-15,16,Dolphins,10/31/2010,CIN,Win, 22-14,1,7,pass,Terrell Owens,2010
-16,17,Dolphins,10/31/2010,CIN,Win, 22-14,2,37,pass,Terrell Owens,2010
-17,18,Dolphins,11/07/2010,BAL,Loss, 10-26,1,32,pass,Willis McGahee,2010
-18,19,Dolphins,11/07/2010,BAL,Loss, 10-26,3,12,pass,Derrick Mason,2010
-19,20,Dolphins,11/14/2010,TEN,Win, 29-17,1,17,rush,Chris Johnson,2010
-20,21,Dolphins,11/14/2010,TEN,Win, 29-17,3,14,pass,Nate Washington,2010
-21,22,Dolphins,11/18/2010,CHI,Loss, 0-16,3,2,rush,Matt Forte,2010
-22,23,Dolphins,11/28/2010,OAK,Win, 33-17,1,101,kickoff,Jacoby Ford,2010
-23,24,Dolphins,11/28/2010,OAK,Win, 33-17,2,44,pass,Jacoby Ford,2010
-24,25,Dolphins,12/05/2010,CLE,Loss, 10-13,3,3,pass,Ben Watson,2010
-25,26,Dolphins,12/19/2010,BUF,Loss, 14-17,2,18,pass,David Nelson,2010
-26,27,Dolphins,12/19/2010,BUF,Loss, 14-17,3,15,pass,Stevie Johnson,2010
-27,28,Dolphins,12/26/2010,DET,Loss, 27-34,2,20,pass,Brandon Pettigrew,2010
-28,29,Dolphins,12/26/2010,DET,Loss, 27-34,3,5,rush,Maurice Morris,2010
-29,30,Dolphins,12/26/2010,DET,Loss, 27-34,4,53,pass,Jahvid Best,2010
-30,31,Dolphins,12/26/2010,DET,Loss, 27-34,4,30,interception,DeAndre Levy,2010
-31,32,Dolphins,01/02/2011,NWE,Loss, 7-38,1,13,pass,Rob Gronkowski,2010
-32,33,Dolphins,01/02/2011,NWE,Loss, 7-38,1,1,rush,BenJarvus Green-Ellis,2010
-33,34,Dolphins,01/02/2011,NWE,Loss, 7-38,2,94,punt,Julian Edelman,2010
-34,35,Dolphins,01/02/2011,NWE,Loss, 7-38,3,10,pass,Alge Crumpler,2010
-35,36,Dolphins,01/02/2011,NWE,Loss, 7-38,3,42,pass,Brandon Tate,2010
+,Rank,Team,Date,Opponent,Win/Loss,Home_Score,Opponenet_Score,Quarter,Distance,Type,Detail
+1,1,Dolphins,2010-09-12,BUF,Win,15,10,4,31,pass,Roscoe Parrish
+2,2,Dolphins,2010-09-19,MIN,Win,14,10,3,1,rush,Adrian Peterson
+3,3,Dolphins,2010-09-26,NYJ,Loss,23,31,1,24,pass,Dustin Keller
+4,4,Dolphins,2010-09-26,NYJ,Loss,23,31,2,12,pass,Dustin Keller
+5,5,Dolphins,2010-09-26,NYJ,Loss,23,31,3,67,pass,Braylon Edwards
+6,6,Dolphins,2010-09-26,NYJ,Loss,23,31,4,1,rush,LaDainian Tomlinson
+7,7,Dolphins,2010-10-04,NWE,Loss,14,41,3,103,kickoff,Brandon Tate
+8,8,Dolphins,2010-10-04,NWE,Loss,14,41,3,12,rush,BenJarvus Green-Ellis
+9,9,Dolphins,2010-10-04,NWE,Loss,14,41,3,11,pass,Danny Woodhead
+10,10,Dolphins,2010-10-04,NWE,Loss,14,41,4,35,blocked field goal,Kyle Arrington
+11,11,Dolphins,2010-10-04,NWE,Loss,14,41,4,51,interception,Patrick Chung
+12,12,Dolphins,2010-10-17,GNB,Win,23,20,1,86,pass,Greg Jennings
+13,13,Dolphins,2010-10-17,GNB,Win,23,20,4,1,rush,Aaron Rodgers
+14,14,Dolphins,2010-10-24,PIT,Loss,22,23,2,21,pass,Hines Ward
+15,15,Dolphins,2010-10-24,PIT,Loss,22,23,2,53,pass,Mike Wallace
+16,16,Dolphins,2010-10-31,CIN,Win,22,14,1,7,pass,Terrell Owens
+17,17,Dolphins,2010-10-31,CIN,Win,22,14,2,37,pass,Terrell Owens
+18,18,Dolphins,2010-11-07,BAL,Loss,10,26,1,32,pass,Willis McGahee
+19,19,Dolphins,2010-11-07,BAL,Loss,10,26,3,12,pass,Derrick Mason
+20,20,Dolphins,2010-11-14,TEN,Win,29,17,1,17,rush,Chris Johnson
+21,21,Dolphins,2010-11-14,TEN,Win,29,17,3,14,pass,Nate Washington
+22,22,Dolphins,2010-11-18,CHI,Loss,0,16,3,2,rush,Matt Forte
+23,23,Dolphins,2010-11-28,OAK,Win,33,17,1,101,kickoff,Jacoby Ford
+24,24,Dolphins,2010-11-28,OAK,Win,33,17,2,44,pass,Jacoby Ford
+25,25,Dolphins,2010-12-05,CLE,Loss,10,13,3,3,pass,Ben Watson
+26,26,Dolphins,2010-12-19,BUF,Loss,14,17,2,18,pass,David Nelson
+27,27,Dolphins,2010-12-19,BUF,Loss,14,17,3,15,pass,Stevie Johnson
+28,28,Dolphins,2010-12-26,DET,Loss,27,34,2,20,pass,Brandon Pettigrew
+29,29,Dolphins,2010-12-26,DET,Loss,27,34,3,5,rush,Maurice Morris
+30,30,Dolphins,2010-12-26,DET,Loss,27,34,4,53,pass,Jahvid Best
+31,31,Dolphins,2010-12-26,DET,Loss,27,34,4,30,interception,DeAndre Levy
+32,32,Dolphins,2011-01-02,NWE,Loss,7,38,1,13,pass,Rob Gronkowski
+33,33,Dolphins,2011-01-02,NWE,Loss,7,38,1,1,rush,BenJarvus Green-Ellis
+34,34,Dolphins,2011-01-02,NWE,Loss,7,38,2,94,punt,Julian Edelman
+35,35,Dolphins,2011-01-02,NWE,Loss,7,38,3,10,pass,Alge Crumpler
+36,36,Dolphins,2011-01-02,NWE,Loss,7,38,3,42,pass,Brandon Tate

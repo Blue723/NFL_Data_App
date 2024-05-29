@@ -1,20 +1,20 @@
-,No.,Team,Player,Age,Position,Games Played,Games Started as an Offensive or Defensive Player,Rushing Attempts,Rushing Yards Gained,Rushing Touchdown,First Downs Rushing,Rushing Success Rate,Longest Rushing Attempt,Rushing Yards per Attempt,Rushing Yards per Game,Rushing Attempts per Game,Pass Targets,Receptions,Receiving Yards,Receiving Yards per Reception,Receiving Touchdowns,First Downs Receiving,Receiving Success Rate,Longest Reception,Receptions per Game,Receiving Yards per Game,Catch Per.,Receiving Yards per Target,Touches: Rushing Attempts and Receptions,Scrimmage Yards per Touch: Rushing + Receiving Yardage per Opportunity,Yards from Scrimmage: Receiving and Rushing Yards,Rushing and Receiving Touchdowns,Lost and Recovered Fumbles,Year
-0,20,Raiders,Darren McFadden,23,RB,13,13,223,1157,7,46,41.7,57,5.2,89.0,17.2,61,47,507,10.8,3,22,47.5,67,3.6,39.0,77.0,8.3,270,6.2,1664,10,4,2010
-1,29,Raiders,Michael Bush,26,RB,14,3,158,655,8,32,44.3,30,4.1,46.8,11.3,24,18,194,10.8,0,11,58.3,55,1.3,13.9,75.0,8.1,176,4.8,849,8,0,2010
-2,8,Raiders,Jason Campbell,29,QB,13,12,47,222,1,13,36.2,24,4.7,17.1,3.6,0,0,0,,0,0,,0,,,0.0,,47,4.7,222,1,9,2010
-3,45,Raiders,Marcel Reece,25,FB,16,10,30,122,1,9,50.0,31,4.1,7.6,1.9,43,25,333,13.3,3,12,37.2,73,1.6,20.8,58.1,7.7,55,8.3,455,4,1,2010
-4,5,Raiders,Bruce Gradkowski,27,QB,6,4,12,41,0,2,25.0,12,3.4,6.8,2.0,0,0,0,,0,0,,0,,,0.0,,12,3.4,41,0,3,2010
-5,12,Raiders,Jacoby Ford,23,WR,16,9,10,155,2,7,80.0,71,15.5,9.7,0.6,54,25,470,18.8,2,19,40.7,52,1.6,29.4,46.3,8.7,35,17.9,625,4,3,2010
-6,25,Raiders,Rock Cartwright,31,FB,16,0,9,22,0,2,22.2,10,2.4,1.4,0.6,3,1,10,10.0,0,0,0.0,10,0.1,0.6,33.3,3.3,10,3.2,32,0,0,2010
-7,7,Raiders,Kyle Boller,29,QB,5,0,7,18,0,1,28.6,15,2.6,3.6,1.4,0,0,0,,0,0,,0,,,0.0,,7,2.6,18,0,1,2010
-8,85,Raiders,Darrius Heyward-Bey,23,WR,15,14,4,48,0,2,50.0,30,12.0,3.2,0.3,65,26,366,14.1,1,18,36.9,69,1.7,24.4,40.0,5.6,30,13.8,414,1,1,2010
-9,32,Raiders,Michael Bennett,32,RB,7,0,2,11,0,1,50.0,6,5.5,1.6,0.3,2,2,9,4.5,0,0,50.0,6,0.3,1.3,100.0,4.5,4,5.0,20,0,0,2010
-10,18,Raiders,Louis Murphy,23,WR,14,9,1,43,0,1,100.0,43,43.0,3.1,0.1,78,41,609,14.9,2,28,43.6,70,2.9,43.5,52.6,7.8,42,15.5,652,2,2,2010
-11,64,Raiders,Samson Satele,26,C,16,15,1,0,0,0,,0,0.0,0.0,0.1,0,0,0,,0,0,,0,,,0.0,,1,0.0,0,0,1,2010
-12,80,Raiders,Zach Miller,25,TE,15,15,0,0,0,0,,0,,,,92,60,685,11.4,5,37,53.3,43,4.0,45.7,65.2,7.4,60,11.4,685,5,1,2010
-13,83,Raiders,Brandon Myers,25,TE,15,3,0,0,0,0,,0,,,,16,12,80,6.7,0,4,43.8,16,0.8,5.3,75.0,5.0,12,6.7,80,0,1,2010
-14,15,Raiders,Johnnie Lee Higgins,27,WR,13,1,0,0,0,0,,0,,,,30,10,103,10.3,0,5,23.3,26,0.8,7.9,33.3,3.4,10,10.3,103,0,0,2010
-15,81,Raiders,Chaz Schilens,25,WR,5,0,0,0,0,0,,0,,,,9,5,40,8.0,1,4,55.6,11,1.0,8.0,55.6,4.4,5,8.0,40,1,0,2010
-16,89,Raiders,Nick Miller,23,WR,9,0,0,0,0,0,,0,,,,4,3,40,13.3,0,1,50.0,32,0.3,4.4,75.0,10.0,3,13.3,40,0,2,2010
-17,69,Raiders,Khalif Barnes,28,T,16,3,0,0,0,0,,0,,,,2,2,8,4.0,1,1,50.0,6,0.1,0.5,100.0,4.0,2,4.0,8,1,0,2010
-18,13,Raiders,Yamon Figurs,27,WR,1,0,0,0,0,0,,0,,,,2,2,17,8.5,0,1,100.0,11,2.0,17.0,100.0,8.5,2,8.5,17,0,1,2010
+,No.,Player,Age,Position,Games Played,Games Started as an Offensive or Defensive Player,Rushing Attempts,Rushing Yards Gained,Rushing Touchdown,First Downs Rushing,Rushing Success Rate,Longest Rushing Attempt,Rushing Yards per Attempt,Rushing Yards per Game,Rushing Attempts per Game,Pass Targets,Receptions,Receiving Yards,Receiving Yards per Reception,Receiving Touchdowns,First Downs Receiving,Receiving Success Rate,Longest Reception,Receptions per Game,Receiving Yards per Game,Catch Per.,Receiving Yards per Target,Touches: Rushing Attempts and Receptions,Scrimmage Yards per Touch: Rushing + Receiving Yardage per Opportunity,Yards from Scrimmage: Receiving and Rushing Yards,Rushing and Receiving Touchdowns,Lost and Recovered Fumbles,Team,Year
+20,20,Darren McFadden,23,RB,13,13,223,1157,7,46,41.7,57,5.2,89.0,17.2,61,47,507,10.8,3,22,47.5,67,3.6,39.0,77.0,8.3,270,6.2,1664,10,4,Raiders,2010
+29,29,Michael Bush,26,RB,14,3,158,655,8,32,44.3,30,4.1,46.8,11.3,24,18,194,10.8,0,11,58.3,55,1.3,13.9,75.0,8.1,176,4.8,849,8,0,Raiders,2010
+8,8,Jason Campbell,29,QB,13,12,47,222,1,13,36.2,24,4.7,17.1,3.6,0,0,0,0.0,0,0,0.0,0,0.0,0.0,0.0,0.0,47,4.7,222,1,9,Raiders,2010
+45,45,Marcel Reece,25,FB,16,10,30,122,1,9,50.0,31,4.1,7.6,1.9,43,25,333,13.3,3,12,37.2,73,1.6,20.8,58.1,7.7,55,8.3,455,4,1,Raiders,2010
+5,5,Bruce Gradkowski,27,QB,6,4,12,41,0,2,25.0,12,3.4,6.8,2.0,0,0,0,0.0,0,0,0.0,0,0.0,0.0,0.0,0.0,12,3.4,41,0,3,Raiders,2010
+12,12,Jacoby Ford,23,WR,16,9,10,155,2,7,80.0,71,15.5,9.7,0.6,54,25,470,18.8,2,19,40.7,52,1.6,29.4,46.3,8.7,35,17.9,625,4,3,Raiders,2010
+25,25,Rock Cartwright,31,FB,16,0,9,22,0,2,22.2,10,2.4,1.4,0.6,3,1,10,10.0,0,0,0.0,10,0.1,0.6,33.3,3.3,10,3.2,32,0,0,Raiders,2010
+7,7,Kyle Boller,29,QB,5,0,7,18,0,1,28.6,15,2.6,3.6,1.4,0,0,0,0.0,0,0,0.0,0,0.0,0.0,0.0,0.0,7,2.6,18,0,1,Raiders,2010
+85,85,Darrius Heyward-Bey,23,WR,15,14,4,48,0,2,50.0,30,12.0,3.2,0.3,65,26,366,14.1,1,18,36.9,69,1.7,24.4,40.0,5.6,30,13.8,414,1,1,Raiders,2010
+32,32,Michael Bennett,32,RB,7,0,2,11,0,1,50.0,6,5.5,1.6,0.3,2,2,9,4.5,0,0,50.0,6,0.3,1.3,100.0,4.5,4,5.0,20,0,0,Raiders,2010
+18,18,Louis Murphy,23,WR,14,9,1,43,0,1,100.0,43,43.0,3.1,0.1,78,41,609,14.9,2,28,43.6,70,2.9,43.5,52.6,7.8,42,15.5,652,2,2,Raiders,2010
+64,64,Samson Satele,26,C,16,15,1,0,0,0,0.0,0,0.0,0.0,0.1,0,0,0,0.0,0,0,0.0,0,0.0,0.0,0.0,0.0,1,0.0,0,0,1,Raiders,2010
+80,80,Zach Miller,25,TE,15,15,0,0,0,0,0.0,0,0.0,0.0,0.0,92,60,685,11.4,5,37,53.3,43,4.0,45.7,65.2,7.4,60,11.4,685,5,1,Raiders,2010
+83,83,Brandon Myers,25,TE,15,3,0,0,0,0,0.0,0,0.0,0.0,0.0,16,12,80,6.7,0,4,43.8,16,0.8,5.3,75.0,5.0,12,6.7,80,0,1,Raiders,2010
+15,15,Johnnie Lee Higgins,27,WR,13,1,0,0,0,0,0.0,0,0.0,0.0,0.0,30,10,103,10.3,0,5,23.3,26,0.8,7.9,33.3,3.4,10,10.3,103,0,0,Raiders,2010
+81,81,Chaz Schilens,25,WR,5,0,0,0,0,0,0.0,0,0.0,0.0,0.0,9,5,40,8.0,1,4,55.6,11,1.0,8.0,55.6,4.4,5,8.0,40,1,0,Raiders,2010
+89,89,Nick Miller,23,WR,9,0,0,0,0,0,0.0,0,0.0,0.0,0.0,4,3,40,13.3,0,1,50.0,32,0.3,4.4,75.0,10.0,3,13.3,40,0,2,Raiders,2010
+69,69,Khalif Barnes,28,T,16,3,0,0,0,0,0.0,0,0.0,0.0,0.0,2,2,8,4.0,1,1,50.0,6,0.1,0.5,100.0,4.0,2,4.0,8,1,0,Raiders,2010
+13,13,Yamon Figurs,27,WR,1,0,0,0,0,0,0.0,0,0.0,0.0,0.0,2,2,17,8.5,0,1,100.0,11,2.0,17.0,100.0,8.5,2,8.5,17,0,1,Raiders,2010

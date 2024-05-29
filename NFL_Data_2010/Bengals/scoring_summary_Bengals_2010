@@ -1,15 +1,15 @@
-,No.,Team,Player,Age,Pos,Games Played,Games Started,Rush TD,Reception TD,Punt Return TD,Kick Return TD,Fumble Return TD,Interception TD,Other TD,All Touchdown Scored,2-Point Conversions Made,Two-Point Conversions Attempted,Defensive Two-Point Conversions,Extra Points Made,Extra Points Allowed,Field Goals Made,Field Goals Attempted,Safeties Scored by Player/Team,Total Points Scored by all Means,Poins per Game,Year
-0,2,Bengals,Mike Nugent,28,K,9,0,0,0,0,0,0,0,0,0,0,0,0,17,17,15,19,,62,6.9,2010
-1,81,Bengals,Terrell Owens,37,WR,14,11,0,9,0,0,0,0,0,9,0,0,0,0,0,0,0,,54,3.9,2010
-2,32,Bengals,Cedric Benson,28,RB,16,16,7,1,0,0,0,0,0,8,1,0,0,0,0,0,0,,50,3.1,2010
-3,3,Bengals,Clint Stitser,25,K,5,0,0,0,0,0,0,0,0,0,0,0,0,8,10,7,8,,29,5.8,2010
-4,84,Bengals,Jermaine Gresham,22,TE,15,10,0,4,0,0,0,0,0,4,1,0,0,0,0,0,0,,26,1.7,2010
-5,85,Bengals,Chad Johnson,32,WR,14,12,0,4,0,0,0,0,0,4,0,0,0,0,0,0,0,,24,1.7,2010
-6,11,Bengals,Jordan Shipley,25,WR,15,4,0,3,0,0,0,0,0,3,0,0,0,0,0,0,0,,18,1.2,2010
-7,89,Bengals,Jerome Simpson,24,WR,5,3,0,3,0,0,0,0,0,3,0,0,0,0,0,0,0,,18,3.6,2010
-8,4,Bengals,Aaron Pettrey,24,K,2,0,0,0,0,0,0,0,0,0,0,0,0,5,5,2,4,,11,5.5,2010
-9,24,Bengals,Adam Jones,27,DB,5,1,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,,6,1.2,2010
-10,22,Bengals,Johnathan Joseph,26,LCB,12,12,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,,6,0.5,2010
-11,40,Bengals,Brian Leonard,26,RB,11,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,,6,0.5,2010
-12,28,Bengals,Bernard Scott,26,RB,16,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,,6,0.4,2010
-13,77,Bengals,Andrew Whitworth,29,LT,16,16,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,,6,0.4,2010
+,No.,Player,Age,Pos,Games Played,Games Started,Rush TD,Reception TD,Punt Return TD,Kick Return TD,Fumble Return TD,Interception TD,Other TD,All Touchdown Scored,2-Point Conversions Made,Two-Point Conversions Attempted,Defensive Two-Point Conversions,Extra Points Made,Extra Points Allowed,Field Goals Made,Field Goals Attempted,Safeties Scored by Player/Team,Total Points Scored by all Means,Poins per Game,Team,Year
+2,2,Mike Nugent,28,K,9,0,0,0,0,0,0,0,0,0,0,0,0,17,17,15,19,0,62,6.9,Bengals,2010
+81,81,Terrell Owens,37,WR,14,11,0,9,0,0,0,0,0,9,0,0,0,0,0,0,0,0,54,3.9,Bengals,2010
+32,32,Cedric Benson,28,RB,16,16,7,1,0,0,0,0,0,8,1,0,0,0,0,0,0,0,50,3.1,Bengals,2010
+3,3,Clint Stitser,25,K,5,0,0,0,0,0,0,0,0,0,0,0,0,8,10,7,8,0,29,5.8,Bengals,2010
+84,84,Jermaine Gresham,22,TE,15,10,0,4,0,0,0,0,0,4,1,0,0,0,0,0,0,0,26,1.7,Bengals,2010
+85,85,Chad Johnson,32,WR,14,12,0,4,0,0,0,0,0,4,0,0,0,0,0,0,0,0,24,1.7,Bengals,2010
+11,11,Jordan Shipley,25,WR,15,4,0,3,0,0,0,0,0,3,0,0,0,0,0,0,0,0,18,1.2,Bengals,2010
+89,89,Jerome Simpson,24,WR,5,3,0,3,0,0,0,0,0,3,0,0,0,0,0,0,0,0,18,3.6,Bengals,2010
+4,4,Aaron Pettrey,24,K,2,0,0,0,0,0,0,0,0,0,0,0,0,5,5,2,4,0,11,5.5,Bengals,2010
+24,24,Adam Jones,27,DB,5,1,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,6,1.2,Bengals,2010
+22,22,Johnathan Joseph,26,LCB,12,12,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,6,0.5,Bengals,2010
+40,40,Brian Leonard,26,RB,11,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,6,0.5,Bengals,2010
+28,28,Bernard Scott,26,RB,16,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,6,0.4,Bengals,2010
+77,77,Andrew Whitworth,29,LT,16,16,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,6,0.4,Bengals,2010

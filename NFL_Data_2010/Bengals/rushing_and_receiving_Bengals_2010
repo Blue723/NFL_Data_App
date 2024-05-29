@@ -1,18 +1,18 @@
-,No.,Team,Player,Age,Position,Games Played,Games Started as an Offensive or Defensive Player,Rushing Attempts,Rushing Yards Gained,Rushing Touchdown,First Downs Rushing,Rushing Success Rate,Longest Rushing Attempt,Rushing Yards per Attempt,Rushing Yards per Game,Rushing Attempts per Game,Pass Targets,Receptions,Receiving Yards,Receiving Yards per Reception,Receiving Touchdowns,First Downs Receiving,Receiving Success Rate,Longest Reception,Receptions per Game,Receiving Yards per Game,Catch Per.,Receiving Yards per Target,Touches: Rushing Attempts and Receptions,Scrimmage Yards per Touch: Rushing + Receiving Yardage per Opportunity,Yards from Scrimmage: Receiving and Rushing Yards,Rushing and Receiving Touchdowns,Lost and Recovered Fumbles,Year
-0,32,Bengals,Cedric Benson,28,RB,16,16,321,1111,7,59,44.2,26,3.5,69.4,20.1,37,28,178,6.4,1,9,45.9,24,1.8,11.1,75.7,4.8,349,3.7,1289,8,7,2010
-1,28,Bengals,Bernard Scott,26,RB,16,0,61,299,1,16,54.1,18,4.9,18.7,3.8,13,11,60,5.5,0,3,53.8,25,0.7,3.8,84.6,4.6,72,5.0,359,1,1,2010
-2,9,Bengals,Carson Palmer,31,QB,16,16,32,50,0,6,31.3,9,1.6,3.1,2.0,0,0,0,,0,0,,0,,,0.0,,32,1.6,50,0,7,2010
-3,40,Bengals,Brian Leonard,26,RB,11,0,9,61,0,4,55.6,42,6.8,5.5,0.8,26,20,137,6.9,1,9,50.0,20,1.8,12.5,76.9,5.3,29,6.8,198,1,0,2010
-4,30,Bengals,Cedric Peerman,24,RB,7,0,2,1,0,0,0.0,1,0.5,0.1,0.3,3,1,11,11.0,0,1,33.3,11,0.1,1.6,33.3,3.7,3,4.0,12,0,0,2010
-5,87,Bengals,Andre Caldwell,25,WR,15,5,1,-2,0,0,0.0,-2,-2.0,-0.1,0.1,37,25,345,13.8,0,16,64.9,53,1.7,23.0,67.6,9.3,26,13.2,343,0,1,2010
-6,89,Bengals,Jerome Simpson,24,WR,5,3,1,2,0,0,0.0,2,2.0,0.4,0.2,25,20,277,13.9,3,14,76.0,59,4.0,55.4,80.0,11.1,21,13.3,279,3,2,2010
-7,36,Bengals,Chris Pressley,24,RB,4,0,1,0,0,0,,0,0.0,0.0,0.3,1,1,6,6.0,0,0,,6,0.3,1.5,100.0,6.0,2,3.0,6,0,0,2010
-8,81,Bengals,Terrell Owens,37,WR,14,11,0,0,0,0,,0,,,,139,72,983,13.7,9,47,44.6,78,5.1,70.2,51.8,7.1,72,13.7,983,9,0,2010
-9,85,Bengals,Chad Johnson,32,WR,14,12,0,0,0,0,,0,,,,126,67,831,12.4,4,47,51.6,42,4.8,59.4,53.2,6.6,67,12.4,831,4,0,2010
-10,84,Bengals,Jermaine Gresham,22,TE,15,10,0,0,0,0,,0,,,,83,52,471,9.1,4,26,50.6,27,3.5,31.4,62.7,5.7,52,9.1,471,4,2,2010
-11,11,Bengals,Jordan Shipley,25,WR,15,4,0,0,0,0,,0,,,,74,52,600,11.5,3,31,52.7,64,3.5,40.0,70.3,8.1,52,11.5,600,3,0,2010
-12,82,Bengals,Reggie Kelly,33,TE,16,14,0,0,0,0,,0,,,,13,10,42,4.2,0,0,,9,0.6,2.6,76.9,3.2,10,4.2,42,0,0,2010
-13,80,Bengals,Chase Coffman,24,TE,6,0,0,0,0,0,,0,,,,5,3,30,10.0,0,2,60.0,14,0.5,5.0,60.0,6.0,3,10.0,30,0,0,2010
-14,12,Bengals,Quan Cosby,28,WR,16,0,0,0,0,0,,0,,,,2,2,16,8.0,0,1,100.0,11,0.1,1.0,100.0,8.0,2,8.0,16,0,0,2010
-15,77,Bengals,Andrew Whitworth,29,LT,16,16,0,0,0,0,,0,,,,1,1,1,1.0,1,1,100.0,1,0.1,0.1,100.0,1.0,1,1.0,1,1,0,2010
-16,86,Bengals,Daniel Coats,26,TE,6,0,0,0,0,0,,0,,,,1,0,0,,0,0,,0,0.0,0.0,0.0,0.0,0,,0,0,0,2010
+,No.,Player,Age,Position,Games Played,Games Started as an Offensive or Defensive Player,Rushing Attempts,Rushing Yards Gained,Rushing Touchdown,First Downs Rushing,Rushing Success Rate,Longest Rushing Attempt,Rushing Yards per Attempt,Rushing Yards per Game,Rushing Attempts per Game,Pass Targets,Receptions,Receiving Yards,Receiving Yards per Reception,Receiving Touchdowns,First Downs Receiving,Receiving Success Rate,Longest Reception,Receptions per Game,Receiving Yards per Game,Catch Per.,Receiving Yards per Target,Touches: Rushing Attempts and Receptions,Scrimmage Yards per Touch: Rushing + Receiving Yardage per Opportunity,Yards from Scrimmage: Receiving and Rushing Yards,Rushing and Receiving Touchdowns,Lost and Recovered Fumbles,Team,Year
+32,32,Cedric Benson,28,RB,16,16,321,1111,7,59,44.2,26,3.5,69.4,20.1,37,28,178,6.4,1,9,45.9,24,1.8,11.1,75.7,4.8,349,3.7,1289,8,7,Bengals,2010
+28,28,Bernard Scott,26,RB,16,0,61,299,1,16,54.1,18,4.9,18.7,3.8,13,11,60,5.5,0,3,53.8,25,0.7,3.8,84.6,4.6,72,5.0,359,1,1,Bengals,2010
+9,9,Carson Palmer,31,QB,16,16,32,50,0,6,31.3,9,1.6,3.1,2.0,0,0,0,0.0,0,0,0.0,0,0.0,0.0,0.0,0.0,32,1.6,50,0,7,Bengals,2010
+40,40,Brian Leonard,26,RB,11,0,9,61,0,4,55.6,42,6.8,5.5,0.8,26,20,137,6.9,1,9,50.0,20,1.8,12.5,76.9,5.3,29,6.8,198,1,0,Bengals,2010
+30,30,Cedric Peerman,24,RB,7,0,2,1,0,0,0.0,1,0.5,0.1,0.3,3,1,11,11.0,0,1,33.3,11,0.1,1.6,33.3,3.7,3,4.0,12,0,0,Bengals,2010
+87,87,Andre Caldwell,25,WR,15,5,1,-2,0,0,0.0,-2,-2.0,-0.1,0.1,37,25,345,13.8,0,16,64.9,53,1.7,23.0,67.6,9.3,26,13.2,343,0,1,Bengals,2010
+89,89,Jerome Simpson,24,WR,5,3,1,2,0,0,0.0,2,2.0,0.4,0.2,25,20,277,13.9,3,14,76.0,59,4.0,55.4,80.0,11.1,21,13.3,279,3,2,Bengals,2010
+36,36,Chris Pressley,24,RB,4,0,1,0,0,0,0.0,0,0.0,0.0,0.3,1,1,6,6.0,0,0,0.0,6,0.3,1.5,100.0,6.0,2,3.0,6,0,0,Bengals,2010
+81,81,Terrell Owens,37,WR,14,11,0,0,0,0,0.0,0,0.0,0.0,0.0,139,72,983,13.7,9,47,44.6,78,5.1,70.2,51.8,7.1,72,13.7,983,9,0,Bengals,2010
+85,85,Chad Johnson,32,WR,14,12,0,0,0,0,0.0,0,0.0,0.0,0.0,126,67,831,12.4,4,47,51.6,42,4.8,59.4,53.2,6.6,67,12.4,831,4,0,Bengals,2010
+84,84,Jermaine Gresham,22,TE,15,10,0,0,0,0,0.0,0,0.0,0.0,0.0,83,52,471,9.1,4,26,50.6,27,3.5,31.4,62.7,5.7,52,9.1,471,4,2,Bengals,2010
+11,11,Jordan Shipley,25,WR,15,4,0,0,0,0,0.0,0,0.0,0.0,0.0,74,52,600,11.5,3,31,52.7,64,3.5,40.0,70.3,8.1,52,11.5,600,3,0,Bengals,2010
+82,82,Reggie Kelly,33,TE,16,14,0,0,0,0,0.0,0,0.0,0.0,0.0,13,10,42,4.2,0,0,0.0,9,0.6,2.6,76.9,3.2,10,4.2,42,0,0,Bengals,2010
+80,80,Chase Coffman,24,TE,6,0,0,0,0,0,0.0,0,0.0,0.0,0.0,5,3,30,10.0,0,2,60.0,14,0.5,5.0,60.0,6.0,3,10.0,30,0,0,Bengals,2010
+12,12,Quan Cosby,28,WR,16,0,0,0,0,0,0.0,0,0.0,0.0,0.0,2,2,16,8.0,0,1,100.0,11,0.1,1.0,100.0,8.0,2,8.0,16,0,0,Bengals,2010
+77,77,Andrew Whitworth,29,LT,16,16,0,0,0,0,0.0,0,0.0,0.0,0.0,1,1,1,1.0,1,1,100.0,1,0.1,0.1,100.0,1.0,1,1.0,1,1,0,Bengals,2010
+86,86,Daniel Coats,26,TE,6,0,0,0,0,0,0.0,0,0.0,0.0,0.0,1,0,0,0.0,0,0,0.0,0,0.0,0.0,0.0,0.0,0,0.0,0,0,0,Bengals,2010

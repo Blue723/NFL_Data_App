@@ -1,16 +1,16 @@
-,No.,Team,Player,Age,Pos,Games Played,Games Started,Rush TD,Reception TD,Punt Return TD,Kick Return TD,Fumble Return TD,Interception TD,Other TD,All Touchdown Scored,2-Point Conversions Made,Two-Point Conversions Attempted,Defensive Two-Point Conversions,Extra Points Made,Extra Points Allowed,Field Goals Made,Field Goals Attempted,Safeties Scored by Player/Team,Total Points Scored by all Means,Poins per Game,Year
-0,2,Eagles,David Akers,36,K,16,0,0,0,0,0,0,0,0,0,0,0,0,47,47,32,38,,143,8.9,2010
-1,18,Eagles,Jeremy Maclin,22,WR,16,16,0,10,0,0,0,0,0,10,0,0,0,0,0,0,0,,60,3.8,2010
-2,25,Eagles,LeSean McCoy,22,RB,15,13,7,2,0,0,0,0,0,9,0,0,0,0,0,0,0,,54,3.6,2010
-3,7,Eagles,Michael Vick,30,QB,12,12,9,0,0,0,0,0,0,9,0,0,0,0,0,0,0,,54,4.5,2010
-4,10,Eagles,DeSean Jackson,24,WR,14,14,1,6,1,0,0,0,0,8,0,0,0,0,0,0,0,,48,3.4,2010
-5,87,Eagles,Brent Celek,25,TE,16,15,0,4,0,0,0,0,0,4,0,0,0,0,0,0,0,,24,1.5,2010
-6,81,Eagles,Jason Avant,27,WR,16,3,0,1,0,0,0,0,0,1,1,0,0,0,0,0,0,,8,0.5,2010
-7,14,Eagles,Riley Cooper,23,WR,13,2,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,,6,0.5,2010
-8,16,Eagles,Chad Hall,24,WR,8,1,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,,6,0.8,2010
-9,82,Eagles,Clay Harbor,23,TE,9,6,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,,6,0.7,2010
-10,33,Eagles,Jerome Harrison,27,RB,8,1,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,,6,0.8,2010
-11,79,Eagles,Todd Herremans,28,LG,16,15,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,,6,0.4,2010
-12,27,Eagles,Quintin Mikell,30,SS,15,15,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,,6,0.4,2010
-13,23,Eagles,Dimitri Patterson,27,RCB,16,9,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,,6,0.4,2010
-14,32,Eagles,Owen Schmitt,25,FB,15,5,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,,6,0.4,2010
+,No.,Player,Age,Pos,Games Played,Games Started,Rush TD,Reception TD,Punt Return TD,Kick Return TD,Fumble Return TD,Interception TD,Other TD,All Touchdown Scored,2-Point Conversions Made,Two-Point Conversions Attempted,Defensive Two-Point Conversions,Extra Points Made,Extra Points Allowed,Field Goals Made,Field Goals Attempted,Safeties Scored by Player/Team,Total Points Scored by all Means,Poins per Game,Team,Year
+2,2,David Akers,36,K,16,0,0,0,0,0,0,0,0,0,0,0,0,47,47,32,38,0,143,8.9,Eagles,2010
+18,18,Jeremy Maclin,22,WR,16,16,0,10,0,0,0,0,0,10,0,0,0,0,0,0,0,0,60,3.8,Eagles,2010
+25,25,LeSean McCoy,22,RB,15,13,7,2,0,0,0,0,0,9,0,0,0,0,0,0,0,0,54,3.6,Eagles,2010
+7,7,Michael Vick,30,QB,12,12,9,0,0,0,0,0,0,9,0,0,0,0,0,0,0,0,54,4.5,Eagles,2010
+10,10,DeSean Jackson,24,WR,14,14,1,6,1,0,0,0,0,8,0,0,0,0,0,0,0,0,48,3.4,Eagles,2010
+87,87,Brent Celek,25,TE,16,15,0,4,0,0,0,0,0,4,0,0,0,0,0,0,0,0,24,1.5,Eagles,2010
+81,81,Jason Avant,27,WR,16,3,0,1,0,0,0,0,0,1,1,0,0,0,0,0,0,0,8,0.5,Eagles,2010
+14,14,Riley Cooper,23,WR,13,2,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,6,0.5,Eagles,2010
+16,16,Chad Hall,24,WR,8,1,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,6,0.8,Eagles,2010
+82,82,Clay Harbor,23,TE,9,6,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,6,0.7,Eagles,2010
+33,33,Jerome Harrison,27,RB,8,1,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,6,0.8,Eagles,2010
+79,79,Todd Herremans,28,LG,16,15,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,6,0.4,Eagles,2010
+27,27,Quintin Mikell,30,SS,15,15,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,6,0.4,Eagles,2010
+23,23,Dimitri Patterson,27,RCB,16,9,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,6,0.4,Eagles,2010
+32,32,Owen Schmitt,25,FB,15,5,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,6,0.4,Eagles,2010

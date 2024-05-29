@@ -1,46 +1,46 @@
-,Rank,Team,Date,Opponent,Win/Loss,Score,Quarter,Distance,Type,Detail,Year
-0,1,Lions,09/12/2010,CHI,Loss, 14-19,2,89,pass,Matt Forte,2010
-1,2,Lions,09/12/2010,CHI,Loss, 14-19,4,28,pass,Matt Forte,2010
-2,3,Lions,09/19/2010,PHI,Loss, 32-35,1,45,pass,DeSean Jackson,2010
-3,4,Lions,09/19/2010,PHI,Loss, 32-35,2,14,rush,LeSean McCoy,2010
-4,5,Lions,09/19/2010,PHI,Loss, 32-35,2,9,pass,Jeremy Maclin,2010
-5,6,Lions,09/19/2010,PHI,Loss, 32-35,3,4,rush,LeSean McCoy,2010
-6,7,Lions,09/19/2010,PHI,Loss, 32-35,4,46,rush,LeSean McCoy,2010
-7,8,Lions,09/26/2010,MIN,Loss, 10-24,1,24,pass,Percy Harvin,2010
-8,9,Lions,09/26/2010,MIN,Loss, 10-24,2,6,rush,Adrian Peterson,2010
-9,10,Lions,09/26/2010,MIN,Loss, 10-24,3,80,rush,Adrian Peterson,2010
-10,11,Lions,10/03/2010,GNB,Loss, 26-28,1,29,pass,Donald Driver,2010
-11,12,Lions,10/03/2010,GNB,Loss, 26-28,2,13,pass,Jermichael Finley,2010
-12,13,Lions,10/03/2010,GNB,Loss, 26-28,2,17,pass,Greg Jennings,2010
-13,14,Lions,10/03/2010,GNB,Loss, 26-28,3,48,interception,Charles Woodson,2010
-14,15,Lions,10/17/2010,NYG,Loss, 20-28,1,4,rush,Brandon Jacobs,2010
-15,16,Lions,10/17/2010,NYG,Loss, 20-28,2,33,pass,Mario Manningham,2010
-16,17,Lions,10/17/2010,NYG,Loss, 20-28,3,1,pass,Travis Beckum,2010
-17,18,Lions,10/17/2010,NYG,Loss, 20-28,4,6,rush,Brandon Jacobs,2010
-18,19,Lions,10/31/2010,WAS,Win, 37-25,2,6,pass,Ryan Torain,2010
-19,20,Lions,10/31/2010,WAS,Win, 37-25,4,5,rush,Keiland Williams,2010
-20,21,Lions,10/31/2010,WAS,Win, 37-25,4,96,kickoff,Brandon Banks,2010
-21,22,Lions,11/07/2010,NYJ,Loss, 20-23,2,74,pass,Braylon Edwards,2010
-22,23,Lions,11/07/2010,NYJ,Loss, 20-23,4,1,rush,Mark Sanchez,2010
-23,24,Lions,11/14/2010,BUF,Loss, 12-14,2,1,rush,Fred Jackson,2010
-24,25,Lions,11/14/2010,BUF,Loss, 12-14,3,16,pass,Fred Jackson,2010
-25,26,Lions,11/21/2010,DAL,Loss, 19-35,1,1,pass,Dez Bryant,2010
-26,27,Lions,11/21/2010,DAL,Loss, 19-35,3,97,punt,Bryan McCann,2010
-27,28,Lions,11/21/2010,DAL,Loss, 19-35,3,3,pass,Miles Austin,2010
-28,29,Lions,11/21/2010,DAL,Loss, 19-35,4,4,pass,Miles Austin,2010
-29,30,Lions,11/21/2010,DAL,Loss, 19-35,4,29,rush,Jon Kitna,2010
-30,31,Lions,11/25/2010,NWE,Loss, 24-45,2,15,rush,BenJarvus Green-Ellis,2010
-31,32,Lions,11/25/2010,NWE,Loss, 24-45,3,5,pass,Wes Welker,2010
-32,33,Lions,11/25/2010,NWE,Loss, 24-45,3,79,pass,Deion Branch,2010
-33,34,Lions,11/25/2010,NWE,Loss, 24-45,4,22,pass,Deion Branch,2010
-34,35,Lions,11/25/2010,NWE,Loss, 24-45,4,16,pass,Wes Welker,2010
-35,36,Lions,11/25/2010,NWE,Loss, 24-45,4,1,rush,BenJarvus Green-Ellis,2010
-36,37,Lions,12/05/2010,CHI,Loss, 20-24,1,1,rush,Chester Taylor,2010
-37,38,Lions,12/05/2010,CHI,Loss, 20-24,2,14,rush,Matt Forte,2010
-38,39,Lions,12/05/2010,CHI,Loss, 20-24,4,7,pass,Brandon Manumaleuna,2010
-39,40,Lions,12/19/2010,TAM,Win, 23-20,2,24,pass,Mike Williams,2010
-40,41,Lions,12/19/2010,TAM,Win, 23-20,2,39,rush,LeGarrette Blount,2010
-41,42,Lions,12/26/2010,MIA,Win, 34-27,2,4,rush,Lousaka Polite,2010
-42,43,Lions,12/26/2010,MIA,Win, 34-27,2,13,pass,Davone Bess,2010
-43,44,Lions,12/26/2010,MIA,Win, 34-27,3,1,rush,Ronnie Brown,2010
-44,45,Lions,01/02/2011,MIN,Win, 20-13,3,36,interception,Jared Allen,2010
+,Rank,Team,Date,Opponent,Win/Loss,Home_Score,Opponenet_Score,Quarter,Distance,Type,Detail
+1,1,Lions,2010-09-12,CHI,Loss,14,19,2,89,pass,Matt Forte
+2,2,Lions,2010-09-12,CHI,Loss,14,19,4,28,pass,Matt Forte
+3,3,Lions,2010-09-19,PHI,Loss,32,35,1,45,pass,DeSean Jackson
+4,4,Lions,2010-09-19,PHI,Loss,32,35,2,14,rush,LeSean McCoy
+5,5,Lions,2010-09-19,PHI,Loss,32,35,2,9,pass,Jeremy Maclin
+6,6,Lions,2010-09-19,PHI,Loss,32,35,3,4,rush,LeSean McCoy
+7,7,Lions,2010-09-19,PHI,Loss,32,35,4,46,rush,LeSean McCoy
+8,8,Lions,2010-09-26,MIN,Loss,10,24,1,24,pass,Percy Harvin
+9,9,Lions,2010-09-26,MIN,Loss,10,24,2,6,rush,Adrian Peterson
+10,10,Lions,2010-09-26,MIN,Loss,10,24,3,80,rush,Adrian Peterson
+11,11,Lions,2010-10-03,GNB,Loss,26,28,1,29,pass,Donald Driver
+12,12,Lions,2010-10-03,GNB,Loss,26,28,2,13,pass,Jermichael Finley
+13,13,Lions,2010-10-03,GNB,Loss,26,28,2,17,pass,Greg Jennings
+14,14,Lions,2010-10-03,GNB,Loss,26,28,3,48,interception,Charles Woodson
+15,15,Lions,2010-10-17,NYG,Loss,20,28,1,4,rush,Brandon Jacobs
+16,16,Lions,2010-10-17,NYG,Loss,20,28,2,33,pass,Mario Manningham
+17,17,Lions,2010-10-17,NYG,Loss,20,28,3,1,pass,Travis Beckum
+18,18,Lions,2010-10-17,NYG,Loss,20,28,4,6,rush,Brandon Jacobs
+19,19,Lions,2010-10-31,WAS,Win,37,25,2,6,pass,Ryan Torain
+20,20,Lions,2010-10-31,WAS,Win,37,25,4,5,rush,Keiland Williams
+21,21,Lions,2010-10-31,WAS,Win,37,25,4,96,kickoff,Brandon Banks
+22,22,Lions,2010-11-07,NYJ,Loss,20,23,2,74,pass,Braylon Edwards
+23,23,Lions,2010-11-07,NYJ,Loss,20,23,4,1,rush,Mark Sanchez
+24,24,Lions,2010-11-14,BUF,Loss,12,14,2,1,rush,Fred Jackson
+25,25,Lions,2010-11-14,BUF,Loss,12,14,3,16,pass,Fred Jackson
+26,26,Lions,2010-11-21,DAL,Loss,19,35,1,1,pass,Dez Bryant
+27,27,Lions,2010-11-21,DAL,Loss,19,35,3,97,punt,Bryan McCann
+28,28,Lions,2010-11-21,DAL,Loss,19,35,3,3,pass,Miles Austin
+29,29,Lions,2010-11-21,DAL,Loss,19,35,4,4,pass,Miles Austin
+30,30,Lions,2010-11-21,DAL,Loss,19,35,4,29,rush,Jon Kitna
+31,31,Lions,2010-11-25,NWE,Loss,24,45,2,15,rush,BenJarvus Green-Ellis
+32,32,Lions,2010-11-25,NWE,Loss,24,45,3,5,pass,Wes Welker
+33,33,Lions,2010-11-25,NWE,Loss,24,45,3,79,pass,Deion Branch
+34,34,Lions,2010-11-25,NWE,Loss,24,45,4,22,pass,Deion Branch
+35,35,Lions,2010-11-25,NWE,Loss,24,45,4,16,pass,Wes Welker
+36,36,Lions,2010-11-25,NWE,Loss,24,45,4,1,rush,BenJarvus Green-Ellis
+37,37,Lions,2010-12-05,CHI,Loss,20,24,1,1,rush,Chester Taylor
+38,38,Lions,2010-12-05,CHI,Loss,20,24,2,14,rush,Matt Forte
+39,39,Lions,2010-12-05,CHI,Loss,20,24,4,7,pass,Brandon Manumaleuna
+40,40,Lions,2010-12-19,TAM,Win,23,20,2,24,pass,Mike Williams
+41,41,Lions,2010-12-19,TAM,Win,23,20,2,39,rush,LeGarrette Blount
+42,42,Lions,2010-12-26,MIA,Win,34,27,2,4,rush,Lousaka Polite
+43,43,Lions,2010-12-26,MIA,Win,34,27,2,13,pass,Davone Bess
+44,44,Lions,2010-12-26,MIA,Win,34,27,3,1,rush,Ronnie Brown
+45,45,Lions,2011-01-02,MIN,Win,20,13,3,36,interception,Jared Allen

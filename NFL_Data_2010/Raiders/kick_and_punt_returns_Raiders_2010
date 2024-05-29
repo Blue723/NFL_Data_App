@@ -1,10 +1,10 @@
-,No.,Team,Player,Age,Position,Games Played,Games Started,Punts Returned,Punts Return Yardage,Punts Returned for Touchdown,Longest Punt Return,Yards per Punt Return,Kickoff Returns,Yardage for Kickoffs Returned,Kickoffs Returned for a Touchdown,Longest Kickoff Return,Yards per Kickoff Return,All-purpose Yards,Year
-0,12,Raiders,Jacoby Ford,23,WR,16,9,0,0,0,0,,53,1280,3,101,24.2,1905,2010
-1,89,Raiders,Nick Miller,23,WR,9,0,35,257,0,46,7.3,2,37,0,27,18.5,334,2010
-2,15,Raiders,Johnnie Lee Higgins,27,WR,13,1,17,123,0,53,7.2,0,0,0,0,,226,2010
-3,25,Raiders,Rock Cartwright,31,FB,16,0,0,0,0,0,,6,103,0,28,17.2,135,2010
-4,13,Raiders,Yamon Figurs,27,WR,1,0,1,10,0,10,10.0,5,105,0,25,21.0,132,2010
-5,33,Raiders,Tyvon Branch,24,SS,16,16,1,-4,0,-4,-4.0,0,0,0,0,,87,2010
-6,24,Raiders,Michael Huff,27,FS,16,15,0,0,0,0,,1,0,0,0,0.0,32,2010
-7,83,Raiders,Brandon Myers,25,TE,15,3,1,0,0,0,0.0,0,0,0,0,,80,2010
-8,45,Raiders,Marcel Reece,25,FB,16,10,0,0,0,0,,1,7,0,7,7.0,462,2010
+,No.,Player,Age,Position,Games Played,Games Started,Punts Returned,Punts Return Yardage,Punts Returned for Touchdown,Longest Punt Return,Yards per Punt Return,Kickoff Returns,Yardage for Kickoffs Returned,Kickoffs Returned for a Touchdown,Longest Kickoff Return,Yards per Kickoff Return,All-purpose Yards,Team,Year
+12,12,Jacoby Ford,23,WR,16,9,0,0,0,0,0.0,53,1280,3,101,24.2,1905,Raiders,2010
+89,89,Nick Miller,23,WR,9,0,35,257,0,46,7.3,2,37,0,27,18.5,334,Raiders,2010
+15,15,Johnnie Lee Higgins,27,WR,13,1,17,123,0,53,7.2,0,0,0,0,0.0,226,Raiders,2010
+25,25,Rock Cartwright,31,FB,16,0,0,0,0,0,0.0,6,103,0,28,17.2,135,Raiders,2010
+13,13,Yamon Figurs,27,WR,1,0,1,10,0,10,10.0,5,105,0,25,21.0,132,Raiders,2010
+33,33,Tyvon Branch,24,SS,16,16,1,-4,0,-4,-4.0,0,0,0,0,0.0,87,Raiders,2010
+24,24,Michael Huff,27,FS,16,15,0,0,0,0,0.0,1,0,0,0,0.0,32,Raiders,2010
+83,83,Brandon Myers,25,TE,15,3,1,0,0,0,0.0,0,0,0,0,0.0,80,Raiders,2010
+45,45,Marcel Reece,25,FB,16,10,0,0,0,0,0.0,1,7,0,7,7.0,462,Raiders,2010

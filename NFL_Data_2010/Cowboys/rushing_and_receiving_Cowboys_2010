@@ -1,17 +1,17 @@
-,No.,Team,Player,Age,Position,Games Played,Games Started as an Offensive or Defensive Player,Rushing Attempts,Rushing Yards Gained,Rushing Touchdown,First Downs Rushing,Rushing Success Rate,Longest Rushing Attempt,Rushing Yards per Attempt,Rushing Yards per Game,Rushing Attempts per Game,Pass Targets,Receptions,Receiving Yards,Receiving Yards per Reception,Receiving Touchdowns,First Downs Receiving,Receiving Success Rate,Longest Reception,Receptions per Game,Receiving Yards per Game,Catch Per.,Receiving Yards per Target,Touches: Rushing Attempts and Receptions,Scrimmage Yards per Touch: Rushing + Receiving Yardage per Opportunity,Yards from Scrimmage: Receiving and Rushing Yards,Rushing and Receiving Touchdowns,Lost and Recovered Fumbles,Year
-0,28,Cowboys,Felix Jones,23,RB,16,7,185,800,1,41,49.2,34,4.3,50.0,11.6,52,48,450,9.4,1,11,50.0,71,3.0,28.1,92.3,8.7,233,5.4,1250,2,2,2010
-1,24,Cowboys,Marion Barber III,27,RB,13,10,113,374,4,27,45.1,25,3.3,28.8,8.7,16,11,49,4.5,0,0,18.8,15,0.8,3.8,68.8,3.1,124,3.4,423,4,0,2010
-2,23,Cowboys,Tashard Choice,26,RB,16,0,66,243,3,13,43.9,26,3.7,15.2,4.1,22,17,109,6.4,0,6,36.4,17,1.1,6.8,77.3,5.0,83,4.2,352,3,1,2010
-3,3,Cowboys,Jon Kitna,38,QB,10,9,31,147,1,5,35.5,29,4.7,14.7,3.1,0,0,0,,0,0,,0,,,0.0,,31,4.7,147,1,7,2010
-4,7,Cowboys,Stephen McGee,25,QB,2,1,13,74,0,4,69.2,14,5.7,37.0,6.5,0,0,0,,0,0,,0,,,0.0,,13,5.7,74,0,1,2010
-5,19,Cowboys,Miles Austin,26,WR,16,16,7,93,1,3,57.1,60,13.3,5.8,0.4,119,69,1041,15.1,7,46,52.9,69,4.3,65.1,58.0,8.7,76,14.9,1134,8,1,2010
-6,9,Cowboys,Tony Romo,30,QB,6,6,6,38,0,2,66.7,14,6.3,6.3,1.0,0,0,11,,0,0,,11,0.0,1.8,0.0,,6,8.2,49,0,0,2010
-7,44,Cowboys,Chris Gronkowski,24,FB,14,7,5,17,0,2,80.0,8,3.4,1.2,0.4,14,7,35,5.0,1,2,35.7,12,0.5,2.5,50.0,2.5,12,4.3,52,1,0,2010
-8,88,Cowboys,Dez Bryant,22,WR,12,2,1,0,0,0,0.0,0,0.0,0.0,0.1,73,45,561,12.5,6,23,45.2,46,3.8,46.8,61.6,7.7,46,12.2,561,6,1,2010
-9,1,Cowboys,Mat McBriar,31,P,16,0,1,0,0,0,,0,0.0,0.0,0.1,0,0,0,,0,0,,0,,,0.0,,1,0.0,0,0,1,2010
-10,82,Cowboys,Jason Witten,28,TE,16,16,0,0,0,0,,0,,,,128,94,1002,10.7,9,42,53.9,33,5.9,62.6,73.4,7.8,94,10.7,1002,9,1,2010
-11,11,Cowboys,Roy Williams,29,WR,15,9,0,0,0,0,,0,,,,64,37,530,14.3,5,24,50.0,63,2.5,35.3,57.8,8.3,37,14.3,530,5,3,2010
-12,80,Cowboys,Martellus Bennett,23,TE,16,11,0,0,0,0,,0,,,,47,33,260,7.9,0,12,44.7,32,2.1,16.3,70.2,5.5,33,7.9,260,0,1,2010
-13,17,Cowboys,Sam Hurd,25,WR,15,1,0,0,0,0,,0,,,,23,14,120,8.6,0,11,60.9,13,0.9,8.0,60.9,5.2,14,8.6,120,0,0,2010
-14,85,Cowboys,Kevin Ogletree,23,WR,6,0,0,0,0,0,,0,,,,6,3,34,11.3,0,2,33.3,19,0.5,5.7,50.0,5.7,3,11.3,34,0,0,2010
-15,15,Cowboys,Manuel Johnson,24,WR,2,0,0,0,0,0,,0,,,,5,1,6,6.0,0,0,,6,0.5,3.0,20.0,1.2,1,6.0,6,0,0,2010
+,No.,Player,Age,Position,Games Played,Games Started as an Offensive or Defensive Player,Rushing Attempts,Rushing Yards Gained,Rushing Touchdown,First Downs Rushing,Rushing Success Rate,Longest Rushing Attempt,Rushing Yards per Attempt,Rushing Yards per Game,Rushing Attempts per Game,Pass Targets,Receptions,Receiving Yards,Receiving Yards per Reception,Receiving Touchdowns,First Downs Receiving,Receiving Success Rate,Longest Reception,Receptions per Game,Receiving Yards per Game,Catch Per.,Receiving Yards per Target,Touches: Rushing Attempts and Receptions,Scrimmage Yards per Touch: Rushing + Receiving Yardage per Opportunity,Yards from Scrimmage: Receiving and Rushing Yards,Rushing and Receiving Touchdowns,Lost and Recovered Fumbles,Team,Year
+28,28,Felix Jones,23,RB,16,7,185,800,1,41,49.2,34,4.3,50.0,11.6,52,48,450,9.4,1,11,50.0,71,3.0,28.1,92.3,8.7,233,5.4,1250,2,2,Cowboys,2010
+24,24,Marion Barber III,27,RB,13,10,113,374,4,27,45.1,25,3.3,28.8,8.7,16,11,49,4.5,0,0,18.8,15,0.8,3.8,68.8,3.1,124,3.4,423,4,0,Cowboys,2010
+23,23,Tashard Choice,26,RB,16,0,66,243,3,13,43.9,26,3.7,15.2,4.1,22,17,109,6.4,0,6,36.4,17,1.1,6.8,77.3,5.0,83,4.2,352,3,1,Cowboys,2010
+3,3,Jon Kitna,38,QB,10,9,31,147,1,5,35.5,29,4.7,14.7,3.1,0,0,0,0.0,0,0,0.0,0,0.0,0.0,0.0,0.0,31,4.7,147,1,7,Cowboys,2010
+7,7,Stephen McGee,25,QB,2,1,13,74,0,4,69.2,14,5.7,37.0,6.5,0,0,0,0.0,0,0,0.0,0,0.0,0.0,0.0,0.0,13,5.7,74,0,1,Cowboys,2010
+19,19,Miles Austin,26,WR,16,16,7,93,1,3,57.1,60,13.3,5.8,0.4,119,69,1041,15.1,7,46,52.9,69,4.3,65.1,58.0,8.7,76,14.9,1134,8,1,Cowboys,2010
+9,9,Tony Romo,30,QB,6,6,6,38,0,2,66.7,14,6.3,6.3,1.0,0,0,11,0.0,0,0,0.0,11,0.0,1.8,0.0,0.0,6,8.2,49,0,0,Cowboys,2010
+44,44,Chris Gronkowski,24,FB,14,7,5,17,0,2,80.0,8,3.4,1.2,0.4,14,7,35,5.0,1,2,35.7,12,0.5,2.5,50.0,2.5,12,4.3,52,1,0,Cowboys,2010
+88,88,Dez Bryant,22,WR,12,2,1,0,0,0,0.0,0,0.0,0.0,0.1,73,45,561,12.5,6,23,45.2,46,3.8,46.8,61.6,7.7,46,12.2,561,6,1,Cowboys,2010
+1,1,Mat McBriar,31,P,16,0,1,0,0,0,0.0,0,0.0,0.0,0.1,0,0,0,0.0,0,0,0.0,0,0.0,0.0,0.0,0.0,1,0.0,0,0,1,Cowboys,2010
+82,82,Jason Witten,28,TE,16,16,0,0,0,0,0.0,0,0.0,0.0,0.0,128,94,1002,10.7,9,42,53.9,33,5.9,62.6,73.4,7.8,94,10.7,1002,9,1,Cowboys,2010
+11,11,Roy Williams,29,WR,15,9,0,0,0,0,0.0,0,0.0,0.0,0.0,64,37,530,14.3,5,24,50.0,63,2.5,35.3,57.8,8.3,37,14.3,530,5,3,Cowboys,2010
+80,80,Martellus Bennett,23,TE,16,11,0,0,0,0,0.0,0,0.0,0.0,0.0,47,33,260,7.9,0,12,44.7,32,2.1,16.3,70.2,5.5,33,7.9,260,0,1,Cowboys,2010
+17,17,Sam Hurd,25,WR,15,1,0,0,0,0,0.0,0,0.0,0.0,0.0,23,14,120,8.6,0,11,60.9,13,0.9,8.0,60.9,5.2,14,8.6,120,0,0,Cowboys,2010
+85,85,Kevin Ogletree,23,WR,6,0,0,0,0,0,0.0,0,0.0,0.0,0.0,6,3,34,11.3,0,2,33.3,19,0.5,5.7,50.0,5.7,3,11.3,34,0,0,Cowboys,2010
+15,15,Manuel Johnson,24,WR,2,0,0,0,0,0,0.0,0,0.0,0.0,0.0,5,1,6,6.0,0,0,0.0,6,0.5,3.0,20.0,1.2,1,6.0,6,0,0,Cowboys,2010

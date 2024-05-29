@@ -1,13 +1,13 @@
-,No.,Team,Player,Age,Pos,Games Played,Games Started,Rush TD,Reception TD,Punt Return TD,Kick Return TD,Fumble Return TD,Interception TD,Other TD,All Touchdown Scored,2-Point Conversions Made,Two-Point Conversions Attempted,Defensive Two-Point Conversions,Extra Points Made,Extra Points Allowed,Field Goals Made,Field Goals Attempted,Safeties Scored by Player/Team,Total Points Scored by all Means,Poins per Game,Year
-0,2,Titans,Rob Bironas,32,K,16,0,0,0,0,0,0,0,0,0,0,0,0,38,38,24,26,,110,6.9,2010
-1,28,Titans,Chris Johnson,25,RB,16,16,11,1,0,0,0,0,0,12,0,0,0,0,0,0,0,,72,4.5,2010
-2,18,Titans,Kenny Britt,22,WR,12,7,0,9,0,0,0,0,0,9,1,0,0,0,0,0,0,,56,4.7,2010
-3,85,Titans,Nate Washington,27,WR,16,16,0,6,0,0,0,0,0,6,0,0,0,0,0,0,0,,36,2.3,2010
-4,80,Titans,Bo Scaife,29,TE,14,13,0,4,0,0,0,0,0,4,0,0,0,0,0,0,0,,24,1.7,2010
-5,83,Titans,Marc Mariani,23,WR,16,0,0,0,1,1,0,0,0,2,0,0,0,0,0,0,0,,12,0.8,2010
-6,21,Titans,Javon Ringer,23,RB,16,0,2,0,0,0,0,0,0,2,0,0,0,0,0,0,0,,12,0.8,2010
-7,88,Titans,Craig Stevens,26,TE,15,13,0,2,0,0,0,0,0,2,0,0,0,0,0,0,0,,12,0.8,2010
-8,89,Titans,Jared Cook,23,TE,16,1,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,,6,0.4,2010
-9,31,Titans,Cortland Finnegan,26,RCB,16,16,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,,6,0.4,2010
-10,12,Titans,Justin Gage,29,WR,11,4,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,,6,0.5,2010
-11,39,Titans,Nick Schommer,24,DB,13,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1.0,2,0.2,2010
+,No.,Player,Age,Pos,Games Played,Games Started,Rush TD,Reception TD,Punt Return TD,Kick Return TD,Fumble Return TD,Interception TD,Other TD,All Touchdown Scored,2-Point Conversions Made,Two-Point Conversions Attempted,Defensive Two-Point Conversions,Extra Points Made,Extra Points Allowed,Field Goals Made,Field Goals Attempted,Safeties Scored by Player/Team,Total Points Scored by all Means,Poins per Game,Team,Year
+2,2,Rob Bironas,32,K,16,0,0,0,0,0,0,0,0,0,0,0,0,38,38,24,26,0,110,6.9,Titans,2010
+28,28,Chris Johnson,25,RB,16,16,11,1,0,0,0,0,0,12,0,0,0,0,0,0,0,0,72,4.5,Titans,2010
+18,18,Kenny Britt,22,WR,12,7,0,9,0,0,0,0,0,9,1,0,0,0,0,0,0,0,56,4.7,Titans,2010
+85,85,Nate Washington,27,WR,16,16,0,6,0,0,0,0,0,6,0,0,0,0,0,0,0,0,36,2.3,Titans,2010
+80,80,Bo Scaife,29,TE,14,13,0,4,0,0,0,0,0,4,0,0,0,0,0,0,0,0,24,1.7,Titans,2010
+83,83,Marc Mariani,23,WR,16,0,0,0,1,1,0,0,0,2,0,0,0,0,0,0,0,0,12,0.8,Titans,2010
+21,21,Javon Ringer,23,RB,16,0,2,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,12,0.8,Titans,2010
+88,88,Craig Stevens,26,TE,15,13,0,2,0,0,0,0,0,2,0,0,0,0,0,0,0,0,12,0.8,Titans,2010
+89,89,Jared Cook,23,TE,16,1,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,6,0.4,Titans,2010
+31,31,Cortland Finnegan,26,RCB,16,16,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,6,0.4,Titans,2010
+12,12,Justin Gage,29,WR,11,4,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,6,0.5,Titans,2010
+39,39,Nick Schommer,24,DB,13,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,2,0.2,Titans,2010

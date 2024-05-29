@@ -1,13 +1,13 @@
-,No.,Team,Player,Age,Pos,Games Played,Games Started,Rush TD,Reception TD,Punt Return TD,Kick Return TD,Fumble Return TD,Interception TD,Other TD,All Touchdown Scored,2-Point Conversions Made,Two-Point Conversions Attempted,Defensive Two-Point Conversions,Extra Points Made,Extra Points Allowed,Field Goals Made,Field Goals Attempted,Safeties Scored by Player/Team,Total Points Scored by all Means,Poins per Game,Year
-0,9,Buffalos,Rian Lindell,33,K,16,0,0,0,0,0,0,0,0,0,0,0,0,31,32,16,21,,79,4.9,2010
-1,13,Buffalos,Stevie Johnson,24,WR,16,13,0,10,0,0,0,0,0,10,0,0,0,0,0,0,0,,60,3.8,2010
-2,22,Buffalos,Fred Jackson,29,RB,16,13,5,2,0,0,0,0,0,7,0,0,0,0,0,0,0,,42,2.6,2010
-3,83,Buffalos,Lee Evans,29,WR,13,13,0,4,0,0,0,0,0,4,0,0,0,0,0,0,0,,24,1.8,2010
-4,86,Buffalos,David Nelson,24,WR,15,3,0,3,0,0,0,0,0,3,0,0,0,0,0,0,0,,18,1.2,2010
-5,29,Buffalos,Drayton Florence,30,RCB,16,16,0,0,0,0,1,1,0,2,0,0,0,0,0,0,0,,12,0.8,2010
-6,11,Buffalos,Roscoe Parrish,28,WR,8,6,0,2,0,0,0,0,0,2,0,0,0,0,0,0,0,,12,1.5,2010
-7,21,Buffalos,C.J. Spiller,23,RB,14,1,0,1,0,1,0,0,0,2,0,0,0,0,0,0,0,,12,0.9,2010
-8,31,Buffalos,Jairus Byrd,24,FS,16,14,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,,6,0.4,2010
-9,19,Buffalos,Donald Jones,23,WR,15,5,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,,6,0.4,2010
-10,80,Buffalos,David Martin,31,TE,16,9,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,,6,0.4,2010
-11,38,Buffalos,Corey McIntyre,31,FB,16,7,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,,6,0.4,2010
+,No.,Player,Age,Pos,Games Played,Games Started,Rush TD,Reception TD,Punt Return TD,Kick Return TD,Fumble Return TD,Interception TD,Other TD,All Touchdown Scored,2-Point Conversions Made,Two-Point Conversions Attempted,Defensive Two-Point Conversions,Extra Points Made,Extra Points Allowed,Field Goals Made,Field Goals Attempted,Safeties Scored by Player/Team,Total Points Scored by all Means,Poins per Game,Team,Year
+9,9,Rian Lindell,33,K,16,0,0,0,0,0,0,0,0,0,0,0,0,31,32,16,21,0,79,4.9,Buffalos,2010
+13,13,Stevie Johnson,24,WR,16,13,0,10,0,0,0,0,0,10,0,0,0,0,0,0,0,0,60,3.8,Buffalos,2010
+22,22,Fred Jackson,29,RB,16,13,5,2,0,0,0,0,0,7,0,0,0,0,0,0,0,0,42,2.6,Buffalos,2010
+83,83,Lee Evans,29,WR,13,13,0,4,0,0,0,0,0,4,0,0,0,0,0,0,0,0,24,1.8,Buffalos,2010
+86,86,David Nelson,24,WR,15,3,0,3,0,0,0,0,0,3,0,0,0,0,0,0,0,0,18,1.2,Buffalos,2010
+29,29,Drayton Florence,30,RCB,16,16,0,0,0,0,1,1,0,2,0,0,0,0,0,0,0,0,12,0.8,Buffalos,2010
+11,11,Roscoe Parrish,28,WR,8,6,0,2,0,0,0,0,0,2,0,0,0,0,0,0,0,0,12,1.5,Buffalos,2010
+21,21,C.J. Spiller,23,RB,14,1,0,1,0,1,0,0,0,2,0,0,0,0,0,0,0,0,12,0.9,Buffalos,2010
+31,31,Jairus Byrd,24,FS,16,14,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,6,0.4,Buffalos,2010
+19,19,Donald Jones,23,WR,15,5,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,6,0.4,Buffalos,2010
+80,80,David Martin,31,TE,16,9,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,6,0.4,Buffalos,2010
+38,38,Corey McIntyre,31,FB,16,7,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,6,0.4,Buffalos,2010

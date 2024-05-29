@@ -1,16 +1,16 @@
-,No.,Team,Player,Age,Position,Games Played,Games Started as an Offensive or Defensive Player,Rushing Attempts,Rushing Yards Gained,Rushing Touchdown,First Downs Rushing,Rushing Success Rate,Longest Rushing Attempt,Rushing Yards per Attempt,Rushing Yards per Game,Rushing Attempts per Game,Pass Targets,Receptions,Receiving Yards,Receiving Yards per Reception,Receiving Touchdowns,First Downs Receiving,Receiving Success Rate,Longest Reception,Receptions per Game,Receiving Yards per Game,Catch Per.,Receiving Yards per Target,Touches: Rushing Attempts and Receptions,Scrimmage Yards per Touch: Rushing + Receiving Yardage per Opportunity,Yards from Scrimmage: Receiving and Rushing Yards,Rushing and Receiving Touchdowns,Lost and Recovered Fumbles,Year
-0,22,Bears,Matt Forte,25,RB,16,16,237,1069,6,43,40.9,68,4.5,66.8,14.8,70,51,547,10.7,3,21,48.6,89,3.2,34.2,72.9,7.8,288,5.6,1616,9,3,2010
-1,29,Bears,Chester Taylor,31,RB,16,1,112,267,3,16,36.6,24,2.4,16.7,7.0,26,20,139,7.0,0,7,50.0,18,1.3,8.7,76.9,5.3,132,3.1,406,3,0,2010
-2,6,Bears,Jay Cutler,27,QB,15,15,50,232,1,18,48.0,25,4.6,15.5,3.3,0,0,0,,0,0,,0,,,0.0,,50,4.6,232,1,10,2010
-3,23,Bears,Devin Hester,28,WR,16,13,7,30,0,2,57.1,11,4.3,1.9,0.4,73,40,475,11.9,4,24,45.2,39,2.5,29.7,54.8,6.5,47,10.7,505,4,0,2010
-4,25,Bears,Garrett Wolfe,26,RB,16,0,4,8,0,0,,7,2.0,0.5,0.3,0,0,0,,0,0,,0,,,0.0,,4,2.0,8,0,0,2010
-5,80,Bears,Earl Bennett,23,WR,14,3,2,9,0,1,50.0,5,4.5,0.6,0.1,71,46,561,12.2,3,27,50.7,48,3.3,40.1,64.8,7.9,48,11.9,570,3,1,2010
-6,13,Bears,Johnny Knox,24,WR,16,16,1,2,0,0,0.0,2,2.0,0.1,0.1,100,51,960,18.8,5,43,47.0,67,3.2,60.0,51.0,9.6,52,18.5,962,5,1,2010
-7,12,Bears,Caleb Hanie,25,QB,2,0,1,-1,0,0,0.0,-1,-1.0,-0.5,0.5,0,0,0,,0,0,,0,,,0.0,,1,-1.0,-1,0,0,2010
-8,82,Bears,Greg Olsen,25,TE,16,13,0,0,0,0,,0,,,,70,41,404,9.9,5,22,50.0,39,2.6,25.3,58.6,5.8,41,9.9,404,5,2,2010
-9,19,Bears,Devin Aromashodu,26,WR,14,2,0,0,0,0,,0,,,,24,10,149,14.9,0,8,37.5,34,0.7,10.6,41.7,6.2,10,14.9,149,0,0,2010
-10,81,Bears,Rashied Davis,31,WR,16,0,0,0,0,0,,0,,,,13,9,84,9.3,1,6,53.8,21,0.6,5.3,69.2,6.5,9,9.3,84,1,1,2010
-11,86,Bears,Brandon Manumaleuna,30,TE,16,13,0,0,0,0,,0,,,,7,5,43,8.6,1,4,71.4,16,0.3,2.7,71.4,6.1,5,8.6,43,1,0,2010
-12,88,Bears,Desmond Clark,33,TE,5,0,0,0,0,0,,0,,,,2,1,12,12.0,0,1,50.0,12,0.2,2.4,50.0,6.0,1,12.0,12,0,0,2010
-13,87,Bears,Kellen Davis,25,TE,16,3,0,0,0,0,,0,,,,2,1,19,19.0,1,1,50.0,19,0.1,1.2,50.0,9.5,1,19.0,19,1,0,2010
-14,74,Bears,Chris Williams,25,LG,13,13,0,0,0,0,,0,,,,1,1,4,4.0,0,0,,4,0.1,0.3,100.0,4.0,1,4.0,4,0,0,2010
+,No.,Player,Age,Position,Games Played,Games Started as an Offensive or Defensive Player,Rushing Attempts,Rushing Yards Gained,Rushing Touchdown,First Downs Rushing,Rushing Success Rate,Longest Rushing Attempt,Rushing Yards per Attempt,Rushing Yards per Game,Rushing Attempts per Game,Pass Targets,Receptions,Receiving Yards,Receiving Yards per Reception,Receiving Touchdowns,First Downs Receiving,Receiving Success Rate,Longest Reception,Receptions per Game,Receiving Yards per Game,Catch Per.,Receiving Yards per Target,Touches: Rushing Attempts and Receptions,Scrimmage Yards per Touch: Rushing + Receiving Yardage per Opportunity,Yards from Scrimmage: Receiving and Rushing Yards,Rushing and Receiving Touchdowns,Lost and Recovered Fumbles,Team,Year
+22,22,Matt Forte,25,RB,16,16,237,1069,6,43,40.9,68,4.5,66.8,14.8,70,51,547,10.7,3,21,48.6,89,3.2,34.2,72.9,7.8,288,5.6,1616,9,3,Bears,2010
+29,29,Chester Taylor,31,RB,16,1,112,267,3,16,36.6,24,2.4,16.7,7.0,26,20,139,7.0,0,7,50.0,18,1.3,8.7,76.9,5.3,132,3.1,406,3,0,Bears,2010
+6,6,Jay Cutler,27,QB,15,15,50,232,1,18,48.0,25,4.6,15.5,3.3,0,0,0,0.0,0,0,0.0,0,0.0,0.0,0.0,0.0,50,4.6,232,1,10,Bears,2010
+23,23,Devin Hester,28,WR,16,13,7,30,0,2,57.1,11,4.3,1.9,0.4,73,40,475,11.9,4,24,45.2,39,2.5,29.7,54.8,6.5,47,10.7,505,4,0,Bears,2010
+25,25,Garrett Wolfe,26,RB,16,0,4,8,0,0,0.0,7,2.0,0.5,0.3,0,0,0,0.0,0,0,0.0,0,0.0,0.0,0.0,0.0,4,2.0,8,0,0,Bears,2010
+80,80,Earl Bennett,23,WR,14,3,2,9,0,1,50.0,5,4.5,0.6,0.1,71,46,561,12.2,3,27,50.7,48,3.3,40.1,64.8,7.9,48,11.9,570,3,1,Bears,2010
+13,13,Johnny Knox,24,WR,16,16,1,2,0,0,0.0,2,2.0,0.1,0.1,100,51,960,18.8,5,43,47.0,67,3.2,60.0,51.0,9.6,52,18.5,962,5,1,Bears,2010
+12,12,Caleb Hanie,25,QB,2,0,1,-1,0,0,0.0,-1,-1.0,-0.5,0.5,0,0,0,0.0,0,0,0.0,0,0.0,0.0,0.0,0.0,1,-1.0,-1,0,0,Bears,2010
+82,82,Greg Olsen,25,TE,16,13,0,0,0,0,0.0,0,0.0,0.0,0.0,70,41,404,9.9,5,22,50.0,39,2.6,25.3,58.6,5.8,41,9.9,404,5,2,Bears,2010
+19,19,Devin Aromashodu,26,WR,14,2,0,0,0,0,0.0,0,0.0,0.0,0.0,24,10,149,14.9,0,8,37.5,34,0.7,10.6,41.7,6.2,10,14.9,149,0,0,Bears,2010
+81,81,Rashied Davis,31,WR,16,0,0,0,0,0,0.0,0,0.0,0.0,0.0,13,9,84,9.3,1,6,53.8,21,0.6,5.3,69.2,6.5,9,9.3,84,1,1,Bears,2010
+86,86,Brandon Manumaleuna,30,TE,16,13,0,0,0,0,0.0,0,0.0,0.0,0.0,7,5,43,8.6,1,4,71.4,16,0.3,2.7,71.4,6.1,5,8.6,43,1,0,Bears,2010
+88,88,Desmond Clark,33,TE,5,0,0,0,0,0,0.0,0,0.0,0.0,0.0,2,1,12,12.0,0,1,50.0,12,0.2,2.4,50.0,6.0,1,12.0,12,0,0,Bears,2010
+87,87,Kellen Davis,25,TE,16,3,0,0,0,0,0.0,0,0.0,0.0,0.0,2,1,19,19.0,1,1,50.0,19,0.1,1.2,50.0,9.5,1,19.0,19,1,0,Bears,2010
+74,74,Chris Williams,25,LG,13,13,0,0,0,0,0.0,0,0.0,0.0,0.0,1,1,4,4.0,0,0,0.0,4,0.1,0.3,100.0,4.0,1,4.0,4,0,0,Bears,2010

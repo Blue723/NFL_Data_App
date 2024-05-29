@@ -1,5 +1,5 @@
-,No.,Team,Player,Age,Pos,Games Played,Games Started,Times Puned,Total Punt Yardage,Yards per Punt,Punt Return Yardage by Opposition,Punt Net yards,Punt Net Yards per Punt,Longest Punt,Punts Resulting in a Touchback,Per. of Punts Resulting in a Touchback,Punts Inside Opp. 20 Yard Line,Per. of Punts Downed Inside Opp. 20 Yard Line,Times Punts Blocked,Year
-0,17,Commanders,Hunter Smith,33,P,9,0,57,2310,40.5,371,1919,33.1,56,1,1.8,17,29.8,1,2010
-1,1,Commanders,Sam Paulescu,26,P,3,0,17,700,41.2,117,563,33.1,52,1,5.9,2,11.8,0,2010
-2,6,Commanders,Josh Bidwell,34,P,4,0,15,625,41.7,59,566,37.7,52,0,0.0,3,20.0,0,2010
-3,4,Commanders,Graham Gano,23,K,16,0,4,141,35.3,21,120,24.0,42,0,0.0,1,25.0,1,2010
+,No.,Player,Age,Pos,Games Played,Games Started,Times Puned,Total Punt Yardage,Yards per Punt,Punt Return Yardage by Opposition,Punt Net yards,Punt Net Yards per Punt,Longest Punt,Punts Resulting in a Touchback,Per. of Punts Resulting in a Touchback,Punts Inside Opp. 20 Yard Line,Per. of Punts Downed Inside Opp. 20 Yard Line,Times Punts Blocked,Team,Year
+17,17,Hunter Smith,33,P,9,0,57,2310,40.5,371,1919,33.1,56,1,1.8,17,29.8,1,Commanders,2010
+1,1,Sam Paulescu,26,P,3,0,17,700,41.2,117,563,33.1,52,1,5.9,2,11.8,0,Commanders,2010
+6,6,Josh Bidwell,34,P,4,0,15,625,41.7,59,566,37.7,52,0,0.0,3,20.0,0,Commanders,2010
+4,4,Graham Gano,23,K,16,0,4,141,35.3,21,120,24.0,42,0,0.0,1,25.0,1,Commanders,2010

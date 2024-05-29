@@ -1,18 +1,18 @@
-,No.,Team,Player,Age,Position,Games Played,Games Started as an Offensive or Defensive Player,Rushing Attempts,Rushing Yards Gained,Rushing Touchdown,First Downs Rushing,Rushing Success Rate,Longest Rushing Attempt,Rushing Yards per Attempt,Rushing Yards per Game,Rushing Attempts per Game,Pass Targets,Receptions,Receiving Yards,Receiving Yards per Reception,Receiving Touchdowns,First Downs Receiving,Receiving Success Rate,Longest Reception,Receptions per Game,Receiving Yards per Game,Catch Per.,Receiving Yards per Target,Touches: Rushing Attempts and Receptions,Scrimmage Yards per Touch: Rushing + Receiving Yardage per Opportunity,Yards from Scrimmage: Receiving and Rushing Yards,Rushing and Receiving Touchdowns,Lost and Recovered Fumbles,Year
-0,44,Giants,Ahmad Bradshaw,24,RB,16,11,276,1235,8,53,44.2,48,4.5,77.2,17.3,58,47,314,6.7,0,18,44.8,18,2.9,19.6,81.0,5.4,323,4.8,1549,8,7,2010
-1,27,Giants,Brandon Jacobs,28,RB,16,5,147,823,9,38,51.7,73,5.6,51.4,9.2,13,7,59,8.4,0,2,38.5,22,0.4,3.7,53.8,4.5,154,5.7,882,9,2,2010
-2,10,Giants,Eli Manning,29,QB,16,16,32,70,0,4,31.3,16,2.2,4.4,2.0,0,0,0,,0,0,,0,,,0.0,,32,2.2,70,0,7,2010
-3,28,Giants,Danny Ware,25,RB,14,0,20,73,0,7,65.0,14,3.7,5.2,1.4,9,7,67,9.6,0,2,44.4,18,0.5,4.8,77.8,7.4,27,5.2,140,0,0,2010
-4,18,Giants,Sage Rosenfels,32,QB,12,0,3,-3,0,0,,0,-1.0,-0.3,0.3,0,0,0,,0,0,,0,,,0.0,,3,-1.0,-3,0,0,2010
-5,82,Giants,Mario Manningham,24,WR,16,8,1,2,0,0,0.0,2,2.0,0.1,0.1,93,60,944,15.7,9,28,50.5,92,3.8,59.0,64.5,10.2,61,15.5,946,9,1,2010
-6,6,Giants,Matt Dodge,23,P,16,0,1,0,0,0,,0,0.0,0.0,0.1,0,0,0,,0,0,,0,,,0.0,,1,0.0,0,0,1,2010
-7,88,Giants,Hakeem Nicks,22,WR,13,12,0,0,0,0,,0,,,,128,79,1052,13.3,11,45,53.9,46,6.1,80.9,61.7,8.2,79,13.3,1052,11,1,2010
-8,12,Giants,Steve Smith,25,WR,9,7,0,0,0,0,,0,,,,75,48,529,11.0,3,26,57.3,45,5.3,58.8,64.0,7.1,48,11.0,529,3,0,2010
-9,89,Giants,Kevin Boss,26,TE,15,13,0,0,0,0,,0,,,,70,35,531,15.2,5,20,40.0,54,2.3,35.4,50.0,7.6,35,15.2,531,5,1,2010
-10,85,Giants,Derek Hagan,26,WR,7,4,0,0,0,0,,0,,,,43,24,223,9.3,1,14,46.5,17,3.4,31.9,55.8,5.2,24,9.3,223,1,0,2010
-11,47,Giants,Travis Beckum,23,TE,16,2,0,0,0,0,,0,,,,18,13,116,8.9,2,6,50.0,29,0.8,7.3,72.2,6.4,13,8.9,116,2,0,2010
-12,86,Giants,Bear Pascoe,24,TE,15,11,0,0,0,0,,0,,,,13,9,72,8.0,0,5,61.5,12,0.6,4.8,69.2,5.5,9,8.0,72,0,0,2010
-13,13,Giants,Ramses Barden,24,WR,6,0,0,0,0,0,,0,,,,7,5,64,12.8,0,1,57.1,26,0.8,10.7,71.4,9.1,5,12.8,64,0,0,2010
-14,83,Giants,Michael Clayton,28,WR,6,0,0,0,0,0,,0,,,,4,2,19,9.5,0,1,25.0,14,0.3,3.2,50.0,4.8,2,9.5,19,0,0,2010
-15,39,Giants,Madison Hedgecock,29,FB,4,3,0,0,0,0,,0,,,,2,2,8,4.0,0,1,50.0,7,0.5,2.0,100.0,4.0,2,4.0,8,0,0,2010
-16,84,Giants,Duke Calhoun,23,WR,9,0,0,0,0,0,,0,,,,2,1,4,4.0,0,0,,4,0.1,0.4,50.0,2.0,1,4.0,4,0,0,2010
+,No.,Player,Age,Position,Games Played,Games Started as an Offensive or Defensive Player,Rushing Attempts,Rushing Yards Gained,Rushing Touchdown,First Downs Rushing,Rushing Success Rate,Longest Rushing Attempt,Rushing Yards per Attempt,Rushing Yards per Game,Rushing Attempts per Game,Pass Targets,Receptions,Receiving Yards,Receiving Yards per Reception,Receiving Touchdowns,First Downs Receiving,Receiving Success Rate,Longest Reception,Receptions per Game,Receiving Yards per Game,Catch Per.,Receiving Yards per Target,Touches: Rushing Attempts and Receptions,Scrimmage Yards per Touch: Rushing + Receiving Yardage per Opportunity,Yards from Scrimmage: Receiving and Rushing Yards,Rushing and Receiving Touchdowns,Lost and Recovered Fumbles,Team,Year
+44,44,Ahmad Bradshaw,24,RB,16,11,276,1235,8,53,44.2,48,4.5,77.2,17.3,58,47,314,6.7,0,18,44.8,18,2.9,19.6,81.0,5.4,323,4.8,1549,8,7,Giants,2010
+27,27,Brandon Jacobs,28,RB,16,5,147,823,9,38,51.7,73,5.6,51.4,9.2,13,7,59,8.4,0,2,38.5,22,0.4,3.7,53.8,4.5,154,5.7,882,9,2,Giants,2010
+10,10,Eli Manning,29,QB,16,16,32,70,0,4,31.3,16,2.2,4.4,2.0,0,0,0,0.0,0,0,0.0,0,0.0,0.0,0.0,0.0,32,2.2,70,0,7,Giants,2010
+28,28,Danny Ware,25,RB,14,0,20,73,0,7,65.0,14,3.7,5.2,1.4,9,7,67,9.6,0,2,44.4,18,0.5,4.8,77.8,7.4,27,5.2,140,0,0,Giants,2010
+18,18,Sage Rosenfels,32,QB,12,0,3,-3,0,0,0.0,0,-1.0,-0.3,0.3,0,0,0,0.0,0,0,0.0,0,0.0,0.0,0.0,0.0,3,-1.0,-3,0,0,Giants,2010
+82,82,Mario Manningham,24,WR,16,8,1,2,0,0,0.0,2,2.0,0.1,0.1,93,60,944,15.7,9,28,50.5,92,3.8,59.0,64.5,10.2,61,15.5,946,9,1,Giants,2010
+6,6,Matt Dodge,23,P,16,0,1,0,0,0,0.0,0,0.0,0.0,0.1,0,0,0,0.0,0,0,0.0,0,0.0,0.0,0.0,0.0,1,0.0,0,0,1,Giants,2010
+88,88,Hakeem Nicks,22,WR,13,12,0,0,0,0,0.0,0,0.0,0.0,0.0,128,79,1052,13.3,11,45,53.9,46,6.1,80.9,61.7,8.2,79,13.3,1052,11,1,Giants,2010
+12,12,Steve Smith,25,WR,9,7,0,0,0,0,0.0,0,0.0,0.0,0.0,75,48,529,11.0,3,26,57.3,45,5.3,58.8,64.0,7.1,48,11.0,529,3,0,Giants,2010
+89,89,Kevin Boss,26,TE,15,13,0,0,0,0,0.0,0,0.0,0.0,0.0,70,35,531,15.2,5,20,40.0,54,2.3,35.4,50.0,7.6,35,15.2,531,5,1,Giants,2010
+85,85,Derek Hagan,26,WR,7,4,0,0,0,0,0.0,0,0.0,0.0,0.0,43,24,223,9.3,1,14,46.5,17,3.4,31.9,55.8,5.2,24,9.3,223,1,0,Giants,2010
+47,47,Travis Beckum,23,TE,16,2,0,0,0,0,0.0,0,0.0,0.0,0.0,18,13,116,8.9,2,6,50.0,29,0.8,7.3,72.2,6.4,13,8.9,116,2,0,Giants,2010
+86,86,Bear Pascoe,24,TE,15,11,0,0,0,0,0.0,0,0.0,0.0,0.0,13,9,72,8.0,0,5,61.5,12,0.6,4.8,69.2,5.5,9,8.0,72,0,0,Giants,2010
+13,13,Ramses Barden,24,WR,6,0,0,0,0,0,0.0,0,0.0,0.0,0.0,7,5,64,12.8,0,1,57.1,26,0.8,10.7,71.4,9.1,5,12.8,64,0,0,Giants,2010
+83,83,Michael Clayton,28,WR,6,0,0,0,0,0,0.0,0,0.0,0.0,0.0,4,2,19,9.5,0,1,25.0,14,0.3,3.2,50.0,4.8,2,9.5,19,0,0,Giants,2010
+39,39,Madison Hedgecock,29,FB,4,3,0,0,0,0,0.0,0,0.0,0.0,0.0,2,2,8,4.0,0,1,50.0,7,0.5,2.0,100.0,4.0,2,4.0,8,0,0,Giants,2010
+84,84,Duke Calhoun,23,WR,9,0,0,0,0,0,0.0,0,0.0,0.0,0.0,2,1,4,4.0,0,0,0.0,4,0.1,0.4,50.0,2.0,1,4.0,4,0,0,Giants,2010

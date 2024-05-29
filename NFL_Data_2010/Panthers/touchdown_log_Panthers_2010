@@ -1,18 +1,18 @@
-,Rank,Team,Date,Opponent,Win/Loss,Score,Quarter,Distance,Type,Detail,Year
-0,1,Panthers,09/12/2010,NYG,Loss, 18-31,2,19,pass,Steve Smith Sr.,2010
-1,2,Panthers,09/19/2010,TAM,Loss, 7-20,2,37,pass,Steve Smith Sr.,2010
-2,3,Panthers,09/26/2010,CIN,Loss, 7-20,3,1,rush,Jonathan Stewart,2010
-3,4,Panthers,10/03/2010,NOR,Loss, 14-16,2,55,pass,Jonathan Stewart,2010
-4,5,Panthers,10/03/2010,NOR,Loss, 14-16,3,39,rush,DeAngelo Williams,2010
-5,6,Panthers,10/24/2010,SFO,Win, 23-20,2,18,pass,David Gettis,2010
-6,7,Panthers,10/24/2010,SFO,Win, 23-20,4,23,pass,David Gettis,2010
-7,8,Panthers,10/31/2010,STL,Loss, 10-20,4,17,pass,Brandon LaFell,2010
-8,9,Panthers,11/14/2010,TAM,Loss, 16-31,2,2,rush,Josh Vaughan,2010
-9,10,Panthers,11/21/2010,BAL,Loss, 13-37,4,88,pass,David Gettis,2010
-10,11,Panthers,11/28/2010,CLE,Loss, 23-24,1,26,rush,Mike Goodson,2010
-11,12,Panthers,11/28/2010,CLE,Loss, 23-24,3,37,interception,Captain Munnerlyn,2010
-12,13,Panthers,12/05/2010,SEA,Loss, 14-31,1,6,rush,Mike Goodson,2010
-13,14,Panthers,12/05/2010,SEA,Loss, 14-31,2,3,rush,Jonathan Stewart,2010
-14,15,Panthers,12/12/2010,ATL,Loss, 10-31,3,13,rush,Mike Goodson,2010
-15,16,Panthers,12/19/2010,ARI,Win, 19-12,2,16,pass,Jeff King,2010
-16,17,Panthers,01/02/2011,ATL,Loss, 10-31,4,2,pass,Jeff King,2010
+,Rank,Team,Date,Opponent,Win/Loss,Home_Score,Opponenet_Score,Quarter,Distance,Type,Detail
+1,1,Panthers,2010-09-12,NYG,Loss,18,31,2,19,pass,Steve Smith Sr.
+2,2,Panthers,2010-09-19,TAM,Loss,7,20,2,37,pass,Steve Smith Sr.
+3,3,Panthers,2010-09-26,CIN,Loss,7,20,3,1,rush,Jonathan Stewart
+4,4,Panthers,2010-10-03,NOR,Loss,14,16,2,55,pass,Jonathan Stewart
+5,5,Panthers,2010-10-03,NOR,Loss,14,16,3,39,rush,DeAngelo Williams
+6,6,Panthers,2010-10-24,SFO,Win,23,20,2,18,pass,David Gettis
+7,7,Panthers,2010-10-24,SFO,Win,23,20,4,23,pass,David Gettis
+8,8,Panthers,2010-10-31,STL,Loss,10,20,4,17,pass,Brandon LaFell
+9,9,Panthers,2010-11-14,TAM,Loss,16,31,2,2,rush,Josh Vaughan
+10,10,Panthers,2010-11-21,BAL,Loss,13,37,4,88,pass,David Gettis
+11,11,Panthers,2010-11-28,CLE,Loss,23,24,1,26,rush,Mike Goodson
+12,12,Panthers,2010-11-28,CLE,Loss,23,24,3,37,interception,Captain Munnerlyn
+13,13,Panthers,2010-12-05,SEA,Loss,14,31,1,6,rush,Mike Goodson
+14,14,Panthers,2010-12-05,SEA,Loss,14,31,2,3,rush,Jonathan Stewart
+15,15,Panthers,2010-12-12,ATL,Loss,10,31,3,13,rush,Mike Goodson
+16,16,Panthers,2010-12-19,ARI,Win,19,12,2,16,pass,Jeff King
+17,17,Panthers,2011-01-02,ATL,Loss,10,31,4,2,pass,Jeff King

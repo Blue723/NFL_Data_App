@@ -1,18 +1,18 @@
-,No.,Team,Player,Age,Pos,Games Played,Games Started,Rush TD,Reception TD,Punt Return TD,Kick Return TD,Fumble Return TD,Interception TD,Other TD,All Touchdown Scored,2-Point Conversions Made,Two-Point Conversions Attempted,Defensive Two-Point Conversions,Extra Points Made,Extra Points Allowed,Field Goals Made,Field Goals Attempted,Safeties Scored by Player/Team,Total Points Scored by all Means,Poins per Game,Year
-0,42,Patriots,BenJarvus Green-Ellis,25,RB,16,11,13,0,0,0,0,0,0,13,0,0,0,0,0,0,0,,78,4.9,2010
-1,5,Patriots,Shayne Graham,33,K,8,0,0,0,0,0,0,0,0,0,0,0,0,35,37,12,12,,71,8.9,2010
-2,87,Patriots,Rob Gronkowski,21,TE,16,11,0,10,0,0,0,0,0,10,0,0,0,0,0,0,0,,60,3.8,2010
-3,3,Patriots,Stephen Gostkowski,26,K,8,0,0,0,0,0,0,0,0,0,0,0,0,26,26,10,13,,56,7.0,2010
-4,83,Patriots,Wes Welker,29,WR,15,11,0,7,0,0,0,0,0,7,0,0,0,1,1,0,0,,43,2.9,2010
-5,85,Patriots,Aaron Hernandez,21,TE,14,7,0,6,0,0,0,0,0,6,0,0,0,0,0,0,0,,36,2.6,2010
-6,39,Patriots,Danny Woodhead,25,RB,14,3,5,1,0,0,0,0,0,6,0,0,0,0,0,0,0,,36,2.6,2010
-7,84,Patriots,Deion Branch,31,WR,11,9,0,5,0,0,0,0,0,5,0,0,0,0,0,0,0,,30,2.7,2010
-8,19,Patriots,Brandon Tate,23,WR,16,10,0,3,0,2,0,0,0,5,0,0,0,0,0,0,0,,30,1.9,2010
-9,81,Patriots,Randy Moss,33,WR,4,3,0,3,0,0,0,0,0,3,0,0,0,0,0,0,0,,18,4.5,2010
-10,27,Patriots,Kyle Arrington,24,RCB,16,14,0,0,0,0,0,1,1,2,0,0,0,0,0,0,0,,12,0.8,2010
-11,82,Patriots,Alge Crumpler,33,TE,16,10,0,2,0,0,0,0,0,2,0,0,0,0,0,0,0,,12,0.8,2010
-12,59,Patriots,Gary Guyton,25,LILB,16,8,0,0,0,0,1,1,0,2,0,0,0,0,0,0,0,,12,0.8,2010
-13,12,Patriots,Tom Brady,33,QB,16,16,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,,6,0.4,2010
-14,25,Patriots,Patrick Chung,23,SS,14,13,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,,6,0.4,2010
-15,11,Patriots,Julian Edelman,24,WR,15,3,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,,6,0.4,2010
-16,36,Patriots,James Sanders,27,SS,15,9,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,,6,0.4,2010
+,No.,Player,Age,Pos,Games Played,Games Started,Rush TD,Reception TD,Punt Return TD,Kick Return TD,Fumble Return TD,Interception TD,Other TD,All Touchdown Scored,2-Point Conversions Made,Two-Point Conversions Attempted,Defensive Two-Point Conversions,Extra Points Made,Extra Points Allowed,Field Goals Made,Field Goals Attempted,Safeties Scored by Player/Team,Total Points Scored by all Means,Poins per Game,Team,Year
+42,42,BenJarvus Green-Ellis,25,RB,16,11,13,0,0,0,0,0,0,13,0,0,0,0,0,0,0,0,78,4.9,Patriots,2010
+5,5,Shayne Graham,33,K,8,0,0,0,0,0,0,0,0,0,0,0,0,35,37,12,12,0,71,8.9,Patriots,2010
+87,87,Rob Gronkowski,21,TE,16,11,0,10,0,0,0,0,0,10,0,0,0,0,0,0,0,0,60,3.8,Patriots,2010
+3,3,Stephen Gostkowski,26,K,8,0,0,0,0,0,0,0,0,0,0,0,0,26,26,10,13,0,56,7.0,Patriots,2010
+83,83,Wes Welker,29,WR,15,11,0,7,0,0,0,0,0,7,0,0,0,1,1,0,0,0,43,2.9,Patriots,2010
+85,85,Aaron Hernandez,21,TE,14,7,0,6,0,0,0,0,0,6,0,0,0,0,0,0,0,0,36,2.6,Patriots,2010
+39,39,Danny Woodhead,25,RB,14,3,5,1,0,0,0,0,0,6,0,0,0,0,0,0,0,0,36,2.6,Patriots,2010
+84,84,Deion Branch,31,WR,11,9,0,5,0,0,0,0,0,5,0,0,0,0,0,0,0,0,30,2.7,Patriots,2010
+19,19,Brandon Tate,23,WR,16,10,0,3,0,2,0,0,0,5,0,0,0,0,0,0,0,0,30,1.9,Patriots,2010
+81,81,Randy Moss,33,WR,4,3,0,3,0,0,0,0,0,3,0,0,0,0,0,0,0,0,18,4.5,Patriots,2010
+27,27,Kyle Arrington,24,RCB,16,14,0,0,0,0,0,1,1,2,0,0,0,0,0,0,0,0,12,0.8,Patriots,2010
+82,82,Alge Crumpler,33,TE,16,10,0,2,0,0,0,0,0,2,0,0,0,0,0,0,0,0,12,0.8,Patriots,2010
+59,59,Gary Guyton,25,LILB,16,8,0,0,0,0,1,1,0,2,0,0,0,0,0,0,0,0,12,0.8,Patriots,2010
+12,12,Tom Brady,33,QB,16,16,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,6,0.4,Patriots,2010
+25,25,Patrick Chung,23,SS,14,13,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,6,0.4,Patriots,2010
+11,11,Julian Edelman,24,WR,15,3,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,6,0.4,Patriots,2010
+36,36,James Sanders,27,SS,15,9,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,6,0.4,Patriots,2010

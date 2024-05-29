@@ -1,5 +1,5 @@
-,No.,Team,Player,Age,Position,Games Played,Games Started,Punts Returned,Punts Return Yardage,Punts Returned for Touchdown,Longest Punt Return,Yards per Punt Return,Kickoff Returns,Yardage for Kickoffs Returned,Kickoffs Returned for a Touchdown,Longest Kickoff Return,Yards per Kickoff Return,All-purpose Yards,Year
-0,83,Titans,Marc Mariani,23,WR,16,0,27,329,1,87,12.2,60,1530,1,98,25.5,1859,2010
-1,45,Titans,Ahmard Hall,31,RB,16,4,0,0,0,0,,2,21,0,15,10.5,122,2010
-2,89,Titans,Jared Cook,23,TE,16,1,0,0,0,0,,1,3,0,3,3.0,366,2010
-3,12,Titans,Justin Gage,29,WR,11,4,0,0,0,0,,1,2,0,2,2.0,268,2010
+,No.,Player,Age,Position,Games Played,Games Started,Punts Returned,Punts Return Yardage,Punts Returned for Touchdown,Longest Punt Return,Yards per Punt Return,Kickoff Returns,Yardage for Kickoffs Returned,Kickoffs Returned for a Touchdown,Longest Kickoff Return,Yards per Kickoff Return,All-purpose Yards,Team,Year
+83,83,Marc Mariani,23,WR,16,0,27,329,1,87,12.2,60,1530,1,98,25.5,1859,Titans,2010
+45,45,Ahmard Hall,31,RB,16,4,0,0,0,0,0.0,2,21,0,15,10.5,122,Titans,2010
+89,89,Jared Cook,23,TE,16,1,0,0,0,0,0.0,1,3,0,3,3.0,366,Titans,2010
+12,12,Justin Gage,29,WR,11,4,0,0,0,0,0.0,1,2,0,2,2.0,268,Titans,2010

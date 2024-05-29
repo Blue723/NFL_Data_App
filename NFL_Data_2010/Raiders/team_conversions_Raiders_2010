@@ -1,5 +1,5 @@
-,Player,Team,3rd Down Attempts in Game,3rd Down Conversions,3rd Down Conversion Per.,4th Down Attempts in Game,4th Down Conversions in Game,4th Down Conversion Per.,Red Zone Attempts,Touchdowns Scored After the Team Entered the Red Zone,Per. of the Time a Team Reaches the Red Zone and Scores a Touchdown,Year
-0,Team Stats,Raiders,220.0,75.0,34.1,20.0,8.0,40.0,48.0,25.0,52.1,2010.0
-1,Opp. Stats,Raiders,218.0,76.0,34.9,11.0,3.0,27.3,49.0,26.0,53.1,2010.0
-2,Lg Rank Offense,Raiders,,,25.0,,,21.0,,,17.0,2010.0
-3,Lg Rank Defense,Raiders,,,7.0,,,2.0,,,17.0,2010.0
+,Player,3rd Down Attempts in Game,3rd Down Conversions,3rd Down Conversion Per.,4th Down Attempts in Game,4th Down Conversions in Game,4th Down Conversion Per.,Red Zone Attempts,Touchdowns Scored After the Team Entered the Red Zone,Per. of the Time a Team Reaches the Red Zone and Scores a Touchdown,Team,Year
+Team Stats,Team Stats,220.0,75.0,34.1,20.0,8.0,40.0,48.0,25.0,52.1,Raiders,2010
+Opp. Stats,Opp. Stats,218.0,76.0,34.9,11.0,3.0,27.3,49.0,26.0,53.1,Raiders,2010
+Lg Rank Offense,Lg Rank Offense,0.0,0.0,25.0,0.0,0.0,21.0,0.0,0.0,17,Raiders,2010
+Lg Rank Defense,Lg Rank Defense,0.0,0.0,7.0,0.0,0.0,2.0,0.0,0.0,17,Raiders,2010

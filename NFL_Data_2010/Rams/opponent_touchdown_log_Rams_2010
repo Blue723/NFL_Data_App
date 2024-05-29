@@ -1,33 +1,33 @@
-,Rank,Team,Date,Opponent,Win/Loss,Score,Quarter,Distance,Type,Detail,Year
-0,1,Rams,09/12/2010,ARI,Loss, 13-17,2,1,rush,Tim Hightower,2010
-1,2,Rams,09/12/2010,ARI,Loss, 13-17,4,21,pass,Larry Fitzgerald,2010
-2,3,Rams,09/19/2010,OAK,Loss, 14-16,3,4,pass,Louis Murphy,2010
-3,4,Rams,09/26/2010,WAS,Win, 30-16,2,21,pass,Santana Moss,2010
-4,5,Rams,10/10/2010,DET,Loss, 6-44,2,105,kickoff,Stefan Logan,2010
-5,6,Rams,10/10/2010,DET,Loss, 6-44,2,1,pass,Calvin Johnson,2010
-6,7,Rams,10/10/2010,DET,Loss, 6-44,2,3,pass,Brandon Pettigrew,2010
-7,8,Rams,10/10/2010,DET,Loss, 6-44,3,26,pass,Nate Burleson,2010
-8,9,Rams,10/10/2010,DET,Loss, 6-44,4,42,interception,Alphonso Smith,2010
-9,10,Rams,10/17/2010,SDG,Win, 20-17,3,1,rush,Mike Tolbert,2010
-10,11,Rams,10/17/2010,SDG,Win, 20-17,4,5,pass,Craig Davis,2010
-11,12,Rams,10/24/2010,TAM,Loss, 17-18,4,1,pass,Cadillac Williams,2010
-12,13,Rams,10/31/2010,CAR,Win, 20-10,4,17,pass,Brandon LaFell,2010
-13,14,Rams,11/14/2010,SFO,Loss, 20-23,1,1,rush,Frank Gore,2010
-14,15,Rams,11/14/2010,SFO,Loss, 20-23,4,16,pass,Michael Crabtree,2010
-15,16,Rams,11/21/2010,ATL,Loss, 17-34,2,12,pass,Brian Finneran,2010
-16,17,Rams,11/21/2010,ATL,Loss, 17-34,3,2,pass,Justin Peelle,2010
-17,18,Rams,11/21/2010,ATL,Loss, 17-34,4,39,rush,Michael Turner,2010
-18,19,Rams,11/28/2010,DEN,Win, 36-33,1,4,rush,Knowshon Moreno,2010
-19,20,Rams,11/28/2010,DEN,Win, 36-33,4,41,pass,Brandon Lloyd,2010
-20,21,Rams,11/28/2010,DEN,Win, 36-33,4,16,pass,Eddie Royal,2010
-21,22,Rams,11/28/2010,DEN,Win, 36-33,4,5,pass,Brandon Lloyd,2010
-22,23,Rams,12/12/2010,NOR,Loss, 13-31,1,5,pass,Marques Colston,2010
-23,24,Rams,12/12/2010,NOR,Loss, 13-31,1,17,pass,Marques Colston,2010
-24,25,Rams,12/12/2010,NOR,Loss, 13-31,2,96,interception,Malcolm Jenkins,2010
-25,26,Rams,12/12/2010,NOR,Loss, 13-31,3,31,pass,Lance Moore,2010
-26,27,Rams,12/19/2010,KAN,Loss, 13-27,2,2,pass,Leonard Pope,2010
-27,28,Rams,12/19/2010,KAN,Loss, 13-27,2,2,rush,Jamaal Charles,2010
-28,29,Rams,12/19/2010,KAN,Loss, 13-27,4,2,rush,Thomas Jones,2010
-29,30,Rams,12/26/2010,SFO,Win, 25-17,2,78,punt,Ted Ginn Jr.,2010
-30,31,Rams,12/26/2010,SFO,Win, 25-17,2,60,pass,Michael Crabtree,2010
-31,32,Rams,01/02/2011,SEA,Loss, 6-16,1,4,pass,Mike Williams,2010
+,Rank,Team,Date,Opponent,Win/Loss,Home_Score,Opponenet_Score,Quarter,Distance,Type,Detail
+1,1,Rams,2010-09-12,ARI,Loss,13,17,2,1,rush,Tim Hightower
+2,2,Rams,2010-09-12,ARI,Loss,13,17,4,21,pass,Larry Fitzgerald
+3,3,Rams,2010-09-19,OAK,Loss,14,16,3,4,pass,Louis Murphy
+4,4,Rams,2010-09-26,WAS,Win,30,16,2,21,pass,Santana Moss
+5,5,Rams,2010-10-10,DET,Loss,6,44,2,105,kickoff,Stefan Logan
+6,6,Rams,2010-10-10,DET,Loss,6,44,2,1,pass,Calvin Johnson
+7,7,Rams,2010-10-10,DET,Loss,6,44,2,3,pass,Brandon Pettigrew
+8,8,Rams,2010-10-10,DET,Loss,6,44,3,26,pass,Nate Burleson
+9,9,Rams,2010-10-10,DET,Loss,6,44,4,42,interception,Alphonso Smith
+10,10,Rams,2010-10-17,SDG,Win,20,17,3,1,rush,Mike Tolbert
+11,11,Rams,2010-10-17,SDG,Win,20,17,4,5,pass,Craig Davis
+12,12,Rams,2010-10-24,TAM,Loss,17,18,4,1,pass,Cadillac Williams
+13,13,Rams,2010-10-31,CAR,Win,20,10,4,17,pass,Brandon LaFell
+14,14,Rams,2010-11-14,SFO,Loss,20,23,1,1,rush,Frank Gore
+15,15,Rams,2010-11-14,SFO,Loss,20,23,4,16,pass,Michael Crabtree
+16,16,Rams,2010-11-21,ATL,Loss,17,34,2,12,pass,Brian Finneran
+17,17,Rams,2010-11-21,ATL,Loss,17,34,3,2,pass,Justin Peelle
+18,18,Rams,2010-11-21,ATL,Loss,17,34,4,39,rush,Michael Turner
+19,19,Rams,2010-11-28,DEN,Win,36,33,1,4,rush,Knowshon Moreno
+20,20,Rams,2010-11-28,DEN,Win,36,33,4,41,pass,Brandon Lloyd
+21,21,Rams,2010-11-28,DEN,Win,36,33,4,16,pass,Eddie Royal
+22,22,Rams,2010-11-28,DEN,Win,36,33,4,5,pass,Brandon Lloyd
+23,23,Rams,2010-12-12,NOR,Loss,13,31,1,5,pass,Marques Colston
+24,24,Rams,2010-12-12,NOR,Loss,13,31,1,17,pass,Marques Colston
+25,25,Rams,2010-12-12,NOR,Loss,13,31,2,96,interception,Malcolm Jenkins
+26,26,Rams,2010-12-12,NOR,Loss,13,31,3,31,pass,Lance Moore
+27,27,Rams,2010-12-19,KAN,Loss,13,27,2,2,pass,Leonard Pope
+28,28,Rams,2010-12-19,KAN,Loss,13,27,2,2,rush,Jamaal Charles
+29,29,Rams,2010-12-19,KAN,Loss,13,27,4,2,rush,Thomas Jones
+30,30,Rams,2010-12-26,SFO,Win,25,17,2,78,punt,Ted Ginn Jr.
+31,31,Rams,2010-12-26,SFO,Win,25,17,2,60,pass,Michael Crabtree
+32,32,Rams,2011-01-02,SEA,Loss,6,16,1,4,pass,Mike Williams

@@ -1,20 +1,18 @@
-,Week,Team,Day,Date,Time,Win/Loss,Overtime,Team Record,Home/Away,Opponent,Points Scored,Points Allowed,Offense 1st Down,Total Yards Gained of Offense,Total yards Gained by Passing,Total Yards Gained by Rushing,Offense Turnovers,Defense 1st Down,Total Yards Allowed by Defense,Total Passing Yards Allowed by Defense,Total Rushing Yards Allowed by Defense,Defense Turnovers,Offense,Defense,Sp. Tms,Year
-0,0,Saints,Thu,September 9,,W,0,1-0,home,Minnesota Vikings,14,9,18,308,229,79,0,12,253,162,91,1,2.86,6.45,-4.34,2010
-1,1,Saints,Mon,September 20,,W,0,2-0,away,San Francisco 49ers,25,22,17,287,237,50,0,24,417,275,142,4,2.64,-12.11,14.08,2010
-2,2,1,1,1,1.0,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1.0,1.0,1.0,1
-3,3,Saints,Sun,October 3,,W,0,3-1,home,Carolina Panthers,16,14,27,383,262,121,2,10,251,133,118,1,3.86,-0.05,0.27,2010
-4,4,Saints,Sun,October 10,,L,0,3-2,away,Arizona Cardinals,20,30,19,358,273,85,4,12,194,153,41,1,-12.07,10.49,-6.52,2010
-5,5,Saints,Sun,October 17,,W,0,4-2,away,Tampa Bay Buccaneers,31,6,27,475,263,212,1,21,277,235,42,1,24.0,1.47,1.98,2010
-6,6,Saints,Sun,October 24,,L,0,4-3,home,Cleveland Browns,17,30,25,394,336,58,4,12,210,85,125,0,-7.96,1.64,-7.08,2010
-7,7,Saints,Sun,October 31,,W,0,5-3,home,Pittsburgh Steelers,20,10,19,318,288,30,2,13,279,171,108,2,0.77,10.66,-1.27,2010
-8,8,Saints,Sun,November 7,,W,0,6-3,away,Carolina Panthers,34,3,27,408,243,165,1,15,195,68,127,2,5.07,23.37,-1.82,2010
-9,9,Saints,,,,,0,,home,<strong>Bye Week</strong>,0,0,0,0,0,0,0,0,0,0,0,0,,,,2010
-10,10,Saints,Sun,November 21,,W,0,7-3,home,Seattle Seahawks,34,19,26,494,382,112,2,21,424,366,58,2,24.97,-5.87,-5.1,2010
-11,11,Saints,Thu,November 25,,W,0,8-3,away,Dallas Cowboys,30,27,21,414,333,81,2,24,457,313,144,3,9.55,-7.07,0.74,2010
-12,12,Saints,Sun,December 5,,W,0,9-3,away,Cincinnati Bengals,34,30,19,436,290,146,1,21,311,215,96,0,17.61,-4.05,-8.41,2010
-13,13,Saints,Sun,December 12,,W,0,10-3,home,St. Louis Rams,31,13,22,345,213,132,3,14,327,191,136,3,8.73,15.15,-6.73,2010
-14,14,Saints,Sun,December 19,,L,0,10-4,away,Baltimore Ravens,24,30,21,269,242,27,1,17,356,148,208,0,2.1,-9.82,1.77,2010
-15,15,Saints,Mon,December 27,,W,0,11-4,away,Atlanta Falcons,17,14,23,368,296,72,2,14,215,140,75,2,-7.34,9.8,1.22,2010
-16,16,Saints,Sun,January 2,,L,0,11-5,home,Tampa Bay Buccaneers,13,23,20,305,199,106,3,18,317,233,84,2,-2.99,-3.26,-3.14,2010
-17,17,Saints,,<strong>Playoffs</strong>,,,0,,home,,0,0,0,0,0,0,0,0,0,0,0,0,,,,2010
-18,18,Saints,Sat,January 8,,L,0,11-6,away,Seattle Seahawks,36,41,32,474,397,77,1,19,415,265,150,1,12.16,-13.99,-4.7,2010
+,Week,Day,Date,Time,Win/Loss,Overtime,Team Record,Home/Away,Opponent,Points Scored,Points Allowed,Offense 1st Down,Total Yards Gained of Offense,Total yards Gained by Passing,Total Yards Gained by Rushing,Offense Turnovers,Defense 1st Down,Total Yards Allowed by Defense,Total Passing Yards Allowed by Defense,Total Rushing Yards Allowed by Defense,Defense Turnovers,Offense,Defense,Sp. Tms,Team,Year
+0,1,Thu,2010-09-09,nan,Win,0,1-0,home,Minnesota Vikings,14,9,18,308,229,79,0,12,253,162,91,1,2.86,6.45,-4.34,Saints,2010
+1,2,Mon,2010-09-20,nan,Win,0,2-0,away,San Francisco 49ers,25,22,17,287,237,50,0,24,417,275,142,4,2.64,-12.11,14.08,Saints,2010
+2,3,Sun,2010-09-26,nan,Loss,1,2-1,home,Atlanta Falcons,24,27,20,398,355,43,3,25,417,215,202,1,12.19,-12.68,0.01,Saints,2010
+3,4,Sun,2010-10-03,nan,Win,0,3-1,home,Carolina Panthers,16,14,27,383,262,121,2,10,251,133,118,1,3.86,-0.05,0.27,Saints,2010
+4,5,Sun,2010-10-10,nan,Loss,0,3-2,away,Arizona Cardinals,20,30,19,358,273,85,4,12,194,153,41,1,-12.07,10.49,-6.52,Saints,2010
+5,6,Sun,2010-10-17,nan,Win,0,4-2,away,Tampa Bay Buccaneers,31,6,27,475,263,212,1,21,277,235,42,1,24.0,1.47,1.98,Saints,2010
+6,7,Sun,2010-10-24,nan,Loss,0,4-3,home,Cleveland Browns,17,30,25,394,336,58,4,12,210,85,125,0,-7.96,1.64,-7.08,Saints,2010
+7,8,Sun,2010-10-31,nan,Win,0,5-3,home,Pittsburgh Steelers,20,10,19,318,288,30,2,13,279,171,108,2,0.77,10.66,-1.27,Saints,2010
+8,9,Sun,2010-11-07,nan,Win,0,6-3,away,Carolina Panthers,34,3,27,408,243,165,1,15,195,68,127,2,5.07,23.37,-1.82,Saints,2010
+9,11,Sun,2010-11-21,nan,Win,0,7-3,home,Seattle Seahawks,34,19,26,494,382,112,2,21,424,366,58,2,24.97,-5.87,-5.1,Saints,2010
+10,12,Thu,2010-11-25,nan,Win,0,8-3,away,Dallas Cowboys,30,27,21,414,333,81,2,24,457,313,144,3,9.55,-7.07,0.74,Saints,2010
+11,13,Sun,2010-12-05,nan,Win,0,9-3,away,Cincinnati Bengals,34,30,19,436,290,146,1,21,311,215,96,0,17.61,-4.05,-8.41,Saints,2010
+12,14,Sun,2010-12-12,nan,Win,0,10-3,home,St. Louis Rams,31,13,22,345,213,132,3,14,327,191,136,3,8.73,15.15,-6.73,Saints,2010
+13,15,Sun,2010-12-19,nan,Loss,0,10-4,away,Baltimore Ravens,24,30,21,269,242,27,1,17,356,148,208,0,2.1,-9.82,1.77,Saints,2010
+14,16,Mon,2010-12-27,nan,Win,0,11-4,away,Atlanta Falcons,17,14,23,368,296,72,2,14,215,140,75,2,-7.34,9.8,1.22,Saints,2010
+15,17,Sun,2011-01-02,nan,Loss,0,11-5,home,Tampa Bay Buccaneers,13,23,20,305,199,106,3,18,317,233,84,2,-2.99,-3.26,-3.14,Saints,2010
+16,19,Sat,2011-01-08,nan,Loss,0,11-6,away,Seattle Seahawks,36,41,32,474,397,77,1,19,415,265,150,1,12.16,-13.99,-4.7,Saints,2010

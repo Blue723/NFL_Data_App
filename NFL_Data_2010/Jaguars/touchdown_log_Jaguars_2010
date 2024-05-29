@@ -1,42 +1,42 @@
-,Rank,Team,Date,Opponent,Win/Loss,Score,Quarter,Distance,Type,Detail,Year
-0,1,Jaguars,09/12/2010,DEN,Win, 24-17,2,21,pass,Marcedes Lewis,2010
-1,2,Jaguars,09/12/2010,DEN,Win, 24-17,3,10,pass,Marcedes Lewis,2010
-2,3,Jaguars,09/12/2010,DEN,Win, 24-17,4,24,pass,Kassim Osgood,2010
-3,4,Jaguars,09/19/2010,SDG,Loss, 13-38,4,3,pass,Mike Sims-Walker,2010
-4,5,Jaguars,10/03/2010,IND,Win, 31-28,1,25,rush,David Garrard,2010
-5,6,Jaguars,10/03/2010,IND,Win, 31-28,2,1,rush,Maurice Jones-Drew,2010
-6,7,Jaguars,10/03/2010,IND,Win, 31-28,3,15,pass,Marcedes Lewis,2010
-7,8,Jaguars,10/03/2010,IND,Win, 31-28,4,8,pass,Maurice Jones-Drew,2010
-8,9,Jaguars,10/10/2010,BUF,Win, 36-26,2,1,pass,Marcedes Lewis,2010
-9,10,Jaguars,10/10/2010,BUF,Win, 36-26,3,27,pass,Marcedes Lewis,2010
-10,11,Jaguars,10/10/2010,BUF,Win, 36-26,3,7,pass,Mike Sims-Walker,2010
-11,12,Jaguars,10/24/2010,KAN,Loss, 20-42,2,18,pass,Maurice Jones-Drew,2010
-12,13,Jaguars,10/24/2010,KAN,Loss, 20-42,3,9,pass,Mike Sims-Walker,2010
-13,14,Jaguars,10/31/2010,DAL,Win, 35-17,1,10,pass,Mike Sims-Walker,2010
-14,15,Jaguars,10/31/2010,DAL,Win, 35-17,2,42,pass,Marcedes Lewis,2010
-15,16,Jaguars,10/31/2010,DAL,Win, 35-17,3,15,pass,Mike Thomas,2010
-16,17,Jaguars,10/31/2010,DAL,Win, 35-17,3,9,pass,Marcedes Lewis,2010
-17,18,Jaguars,10/31/2010,DAL,Win, 35-17,4,2,rush,David Garrard,2010
-18,19,Jaguars,11/14/2010,HOU,Win, 31-24,2,3,rush,Maurice Jones-Drew,2010
-19,20,Jaguars,11/14/2010,HOU,Win, 31-24,2,9,rush,Maurice Jones-Drew,2010
-20,21,Jaguars,11/14/2010,HOU,Win, 31-24,4,52,pass,Zach Miller,2010
-21,22,Jaguars,11/14/2010,HOU,Win, 31-24,4,50,pass,Mike Thomas,2010
-22,23,Jaguars,11/21/2010,CLE,Win, 24-20,2,5,pass,Mike Thomas,2010
-23,24,Jaguars,11/21/2010,CLE,Win, 24-20,4,14,pass,Marcedes Lewis,2010
-24,25,Jaguars,11/21/2010,CLE,Win, 24-20,4,1,rush,Maurice Jones-Drew,2010
-25,26,Jaguars,11/28/2010,NYG,Loss, 20-24,1,5,rush,Rashad Jennings,2010
-26,27,Jaguars,11/28/2010,NYG,Loss, 20-24,2,5,rush,David Garrard,2010
-27,28,Jaguars,12/05/2010,TEN,Win, 17-6,1,11,rush,Rashad Jennings,2010
-28,29,Jaguars,12/05/2010,TEN,Win, 17-6,2,4,rush,David Garrard,2010
-29,30,Jaguars,12/12/2010,OAK,Win, 38-31,2,1,pass,Marcedes Lewis,2010
-30,31,Jaguars,12/12/2010,OAK,Win, 38-31,3,48,pass,Jason Hill,2010
-31,32,Jaguars,12/12/2010,OAK,Win, 38-31,3,74,rush,Rashad Jennings,2010
-32,33,Jaguars,12/12/2010,OAK,Win, 38-31,3,10,pass,Mike Sims-Walker,2010
-33,34,Jaguars,12/12/2010,OAK,Win, 38-31,4,30,rush,Maurice Jones-Drew,2010
-34,35,Jaguars,12/19/2010,IND,Loss, 24-34,2,78,punt,Mike Thomas,2010
-35,36,Jaguars,12/19/2010,IND,Loss, 24-34,3,6,pass,Mike Sims-Walker,2010
-36,37,Jaguars,12/19/2010,IND,Loss, 24-34,4,1,pass,Mike Sims-Walker,2010
-37,38,Jaguars,12/26/2010,WAS,Loss, 17-20,2,19,pass,Mike Thomas,2010
-38,39,Jaguars,12/26/2010,WAS,Loss, 17-20,4,20,rush,David Garrard,2010
-39,40,Jaguars,01/02/2011,HOU,Loss, 17-34,2,3,rush,Rashad Jennings,2010
-40,41,Jaguars,01/02/2011,HOU,Loss, 17-34,2,7,pass,Marcedes Lewis,2010
+,Rank,Team,Date,Opponent,Win/Loss,Home_Score,Opponenet_Score,Quarter,Distance,Type,Detail
+1,1,Jaguars,2010-09-12,DEN,Win,24,17,2,21,pass,Marcedes Lewis
+2,2,Jaguars,2010-09-12,DEN,Win,24,17,3,10,pass,Marcedes Lewis
+3,3,Jaguars,2010-09-12,DEN,Win,24,17,4,24,pass,Kassim Osgood
+4,4,Jaguars,2010-09-19,SDG,Loss,13,38,4,3,pass,Mike Sims-Walker
+5,5,Jaguars,2010-10-03,IND,Win,31,28,1,25,rush,David Garrard
+6,6,Jaguars,2010-10-03,IND,Win,31,28,2,1,rush,Maurice Jones-Drew
+7,7,Jaguars,2010-10-03,IND,Win,31,28,3,15,pass,Marcedes Lewis
+8,8,Jaguars,2010-10-03,IND,Win,31,28,4,8,pass,Maurice Jones-Drew
+9,9,Jaguars,2010-10-10,BUF,Win,36,26,2,1,pass,Marcedes Lewis
+10,10,Jaguars,2010-10-10,BUF,Win,36,26,3,27,pass,Marcedes Lewis
+11,11,Jaguars,2010-10-10,BUF,Win,36,26,3,7,pass,Mike Sims-Walker
+12,12,Jaguars,2010-10-24,KAN,Loss,20,42,2,18,pass,Maurice Jones-Drew
+13,13,Jaguars,2010-10-24,KAN,Loss,20,42,3,9,pass,Mike Sims-Walker
+14,14,Jaguars,2010-10-31,DAL,Win,35,17,1,10,pass,Mike Sims-Walker
+15,15,Jaguars,2010-10-31,DAL,Win,35,17,2,42,pass,Marcedes Lewis
+16,16,Jaguars,2010-10-31,DAL,Win,35,17,3,15,pass,Mike Thomas
+17,17,Jaguars,2010-10-31,DAL,Win,35,17,3,9,pass,Marcedes Lewis
+18,18,Jaguars,2010-10-31,DAL,Win,35,17,4,2,rush,David Garrard
+19,19,Jaguars,2010-11-14,HOU,Win,31,24,2,3,rush,Maurice Jones-Drew
+20,20,Jaguars,2010-11-14,HOU,Win,31,24,2,9,rush,Maurice Jones-Drew
+21,21,Jaguars,2010-11-14,HOU,Win,31,24,4,52,pass,Zach Miller
+22,22,Jaguars,2010-11-14,HOU,Win,31,24,4,50,pass,Mike Thomas
+23,23,Jaguars,2010-11-21,CLE,Win,24,20,2,5,pass,Mike Thomas
+24,24,Jaguars,2010-11-21,CLE,Win,24,20,4,14,pass,Marcedes Lewis
+25,25,Jaguars,2010-11-21,CLE,Win,24,20,4,1,rush,Maurice Jones-Drew
+26,26,Jaguars,2010-11-28,NYG,Loss,20,24,1,5,rush,Rashad Jennings
+27,27,Jaguars,2010-11-28,NYG,Loss,20,24,2,5,rush,David Garrard
+28,28,Jaguars,2010-12-05,TEN,Win,17,6,1,11,rush,Rashad Jennings
+29,29,Jaguars,2010-12-05,TEN,Win,17,6,2,4,rush,David Garrard
+30,30,Jaguars,2010-12-12,OAK,Win,38,31,2,1,pass,Marcedes Lewis
+31,31,Jaguars,2010-12-12,OAK,Win,38,31,3,48,pass,Jason Hill
+32,32,Jaguars,2010-12-12,OAK,Win,38,31,3,74,rush,Rashad Jennings
+33,33,Jaguars,2010-12-12,OAK,Win,38,31,3,10,pass,Mike Sims-Walker
+34,34,Jaguars,2010-12-12,OAK,Win,38,31,4,30,rush,Maurice Jones-Drew
+35,35,Jaguars,2010-12-19,IND,Loss,24,34,2,78,punt,Mike Thomas
+36,36,Jaguars,2010-12-19,IND,Loss,24,34,3,6,pass,Mike Sims-Walker
+37,37,Jaguars,2010-12-19,IND,Loss,24,34,4,1,pass,Mike Sims-Walker
+38,38,Jaguars,2010-12-26,WAS,Loss,17,20,2,19,pass,Mike Thomas
+39,39,Jaguars,2010-12-26,WAS,Loss,17,20,4,20,rush,David Garrard
+40,40,Jaguars,2011-01-02,HOU,Loss,17,34,2,3,rush,Rashad Jennings
+41,41,Jaguars,2011-01-02,HOU,Loss,17,34,2,7,pass,Marcedes Lewis

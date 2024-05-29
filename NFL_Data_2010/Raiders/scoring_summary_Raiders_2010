@@ -1,18 +1,18 @@
-,No.,Team,Player,Age,Pos,Games Played,Games Started,Rush TD,Reception TD,Punt Return TD,Kick Return TD,Fumble Return TD,Interception TD,Other TD,All Touchdown Scored,2-Point Conversions Made,Two-Point Conversions Attempted,Defensive Two-Point Conversions,Extra Points Made,Extra Points Allowed,Field Goals Made,Field Goals Attempted,Safeties Scored by Player/Team,Total Points Scored by all Means,Poins per Game,Year
-0,11,Raiders,Sebastian Janikowski,32,K,16,0,0,0,0,0,0,0,0,0,0,0,0,43,43,33,41,,142,8.9,2010
-1,20,Raiders,Darren McFadden,23,RB,13,13,7,3,0,0,0,0,0,10,0,0,0,0,0,0,0,,60,4.6,2010
-2,29,Raiders,Michael Bush,26,RB,14,3,8,0,0,0,0,0,0,8,0,0,0,0,0,0,0,,48,3.4,2010
-3,12,Raiders,Jacoby Ford,23,WR,16,9,2,2,0,3,0,0,0,7,0,0,0,0,0,0,0,,42,2.6,2010
-4,80,Raiders,Zach Miller,25,TE,15,15,0,5,0,0,0,0,0,5,0,0,0,0,0,0,0,,30,2.0,2010
-5,45,Raiders,Marcel Reece,25,FB,16,10,1,3,0,0,0,0,0,4,0,0,0,0,0,0,0,,24,1.5,2010
-6,18,Raiders,Louis Murphy,23,WR,14,9,0,2,0,0,0,0,0,2,0,0,0,0,0,0,0,,12,0.9,2010
-7,69,Raiders,Khalif Barnes,28,T,16,3,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,,6,0.4,2010
-8,33,Raiders,Tyvon Branch,24,SS,16,16,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,,6,0.4,2010
-9,8,Raiders,Jason Campbell,29,QB,13,12,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,,6,0.5,2010
-10,31,Raiders,Hiram Eugene,30,DB,14,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,,6,0.4,2010
-11,85,Raiders,Darrius Heyward-Bey,23,WR,15,14,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,,6,0.4,2010
-12,37,Raiders,Chris Johnson,31,DB,12,4,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,,6,0.5,2010
-13,26,Raiders,Stanford Routt,27,LCB,16,15,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,,6,0.4,2010
-14,81,Raiders,Chaz Schilens,25,WR,5,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,,6,1.2,2010
-15,25,Raiders,Rock Cartwright,31,FB,16,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1.0,2,0.1,2010
-16,52,Raiders,Quentin Groves,26,LLB,15,12,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1.0,2,0.1,2010
+,No.,Player,Age,Pos,Games Played,Games Started,Rush TD,Reception TD,Punt Return TD,Kick Return TD,Fumble Return TD,Interception TD,Other TD,All Touchdown Scored,2-Point Conversions Made,Two-Point Conversions Attempted,Defensive Two-Point Conversions,Extra Points Made,Extra Points Allowed,Field Goals Made,Field Goals Attempted,Safeties Scored by Player/Team,Total Points Scored by all Means,Poins per Game,Team,Year
+11,11,Sebastian Janikowski,32,K,16,0,0,0,0,0,0,0,0,0,0,0,0,43,43,33,41,0,142,8.9,Raiders,2010
+20,20,Darren McFadden,23,RB,13,13,7,3,0,0,0,0,0,10,0,0,0,0,0,0,0,0,60,4.6,Raiders,2010
+29,29,Michael Bush,26,RB,14,3,8,0,0,0,0,0,0,8,0,0,0,0,0,0,0,0,48,3.4,Raiders,2010
+12,12,Jacoby Ford,23,WR,16,9,2,2,0,3,0,0,0,7,0,0,0,0,0,0,0,0,42,2.6,Raiders,2010
+80,80,Zach Miller,25,TE,15,15,0,5,0,0,0,0,0,5,0,0,0,0,0,0,0,0,30,2.0,Raiders,2010
+45,45,Marcel Reece,25,FB,16,10,1,3,0,0,0,0,0,4,0,0,0,0,0,0,0,0,24,1.5,Raiders,2010
+18,18,Louis Murphy,23,WR,14,9,0,2,0,0,0,0,0,2,0,0,0,0,0,0,0,0,12,0.9,Raiders,2010
+69,69,Khalif Barnes,28,T,16,3,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,6,0.4,Raiders,2010
+33,33,Tyvon Branch,24,SS,16,16,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,6,0.4,Raiders,2010
+8,8,Jason Campbell,29,QB,13,12,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,6,0.5,Raiders,2010
+31,31,Hiram Eugene,30,DB,14,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,6,0.4,Raiders,2010
+85,85,Darrius Heyward-Bey,23,WR,15,14,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,6,0.4,Raiders,2010
+37,37,Chris Johnson,31,DB,12,4,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,6,0.5,Raiders,2010
+26,26,Stanford Routt,27,LCB,16,15,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,6,0.4,Raiders,2010
+81,81,Chaz Schilens,25,WR,5,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,6,1.2,Raiders,2010
+25,25,Rock Cartwright,31,FB,16,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,2,0.1,Raiders,2010
+52,52,Quentin Groves,26,LLB,15,12,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,2,0.1,Raiders,2010

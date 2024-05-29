@@ -1,12 +1,12 @@
-,No.,Team,Player,Age,Position,Games Played,Games Started,Punts Returned,Punts Return Yardage,Punts Returned for Touchdown,Longest Punt Return,Yards per Punt Return,Kickoff Returns,Yardage for Kickoffs Returned,Kickoffs Returned for a Touchdown,Longest Kickoff Return,Yards per Kickoff Return,All-purpose Yards,Year
-0,12,Colts,Brandon James,23,WR,3,0,7,35,0,14,5.0,14,229,0,26,16.4,304,2010
-1,20,Colts,Justin Tryon,26,LCB,12,6,0,0,0,0,,14,299,0,39,21.4,299,2010
-2,45,Colts,Devin Moore,25,RB,4,0,0,0,0,0,,12,257,0,33,21.4,255,2010
-3,30,Colts,Dominic Rhodes,31,RB,3,0,0,0,0,0,,12,252,0,27,21.0,428,2010
-4,80,Colts,Kenny Moore,25,WR,2,0,6,36,0,16,6.0,5,102,0,27,20.4,138,2010
-5,15,Colts,Blair White,23,WR,13,4,10,80,0,18,8.0,0,0,0,0,,435,2010
-6,25,Colts,Jerraud Powers,23,RCB,10,10,8,63,0,13,7.9,0,0,0,0,,74,2010
-7,39,Colts,Cornelius Brown,22,DB,10,0,0,0,0,0,,5,102,0,23,20.4,102,2010
-8,42,Colts,Javarris James,23,RB,10,0,0,0,0,0,,3,16,0,16,5.3,191,2010
-9,68,Colts,Eric Foster,25,DT,16,0,0,0,0,0,,1,12,0,12,12.0,12,2010
-10,56,Colts,Tyjuan Hagler,29,LB,13,2,0,0,0,0,,1,41,1,41,41.0,76,2010
+,No.,Player,Age,Position,Games Played,Games Started,Punts Returned,Punts Return Yardage,Punts Returned for Touchdown,Longest Punt Return,Yards per Punt Return,Kickoff Returns,Yardage for Kickoffs Returned,Kickoffs Returned for a Touchdown,Longest Kickoff Return,Yards per Kickoff Return,All-purpose Yards,Team,Year
+12,12,Brandon James,23,WR,3,0,7,35,0,14,5.0,14,229,0,26,16.4,304,Colts,2010
+20,20,Justin Tryon,26,LCB,12,6,0,0,0,0,0.0,14,299,0,39,21.4,299,Colts,2010
+45,45,Devin Moore,25,RB,4,0,0,0,0,0,0.0,12,257,0,33,21.4,255,Colts,2010
+30,30,Dominic Rhodes,31,RB,3,0,0,0,0,0,0.0,12,252,0,27,21.0,428,Colts,2010
+80,80,Kenny Moore,25,WR,2,0,6,36,0,16,6.0,5,102,0,27,20.4,138,Colts,2010
+15,15,Blair White,23,WR,13,4,10,80,0,18,8.0,0,0,0,0,0.0,435,Colts,2010
+25,25,Jerraud Powers,23,RCB,10,10,8,63,0,13,7.9,0,0,0,0,0.0,74,Colts,2010
+39,39,Cornelius Brown,22,DB,10,0,0,0,0,0,0.0,5,102,0,23,20.4,102,Colts,2010
+42,42,Javarris James,23,RB,10,0,0,0,0,0,0.0,3,16,0,16,5.3,191,Colts,2010
+68,68,Eric Foster,25,DT,16,0,0,0,0,0,0.0,1,12,0,12,12.0,12,Colts,2010
+56,56,Tyjuan Hagler,29,LB,13,2,0,0,0,0,0.0,1,41,1,41,41.0,76,Colts,2010

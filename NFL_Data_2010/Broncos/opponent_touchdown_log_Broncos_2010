@@ -1,56 +1,56 @@
-,Rank,Team,Date,Opponent,Win/Loss,Score,Quarter,Distance,Type,Detail,Year
-0,1,Broncos,09/12/2010,JAX,Loss, 17-24,2,21,pass,Marcedes Lewis,2010
-1,2,Broncos,09/12/2010,JAX,Loss, 17-24,3,10,pass,Marcedes Lewis,2010
-2,3,Broncos,09/12/2010,JAX,Loss, 17-24,4,24,pass,Kassim Osgood,2010
-3,4,Broncos,09/19/2010,SEA,Win, 31-14,3,11,pass,Ben Obomanu,2010
-4,5,Broncos,09/19/2010,SEA,Win, 31-14,4,20,rush,Matt Hasselbeck,2010
-5,6,Broncos,09/26/2010,IND,Loss, 13-27,2,5,pass,Austin Collie,2010
-6,7,Broncos,09/26/2010,IND,Loss, 13-27,3,9,pass,Blair White,2010
-7,8,Broncos,09/26/2010,IND,Loss, 13-27,4,23,pass,Austin Collie,2010
-8,9,Broncos,10/03/2010,TEN,Win, 26-20,2,8,pass,Kenny Britt,2010
-9,10,Broncos,10/03/2010,TEN,Win, 26-20,3,98,kickoff,Marc Mariani,2010
-10,11,Broncos,10/10/2010,BAL,Loss, 17-31,1,1,rush,Joe Flacco,2010
-11,12,Broncos,10/10/2010,BAL,Loss, 17-31,2,1,rush,Ray Rice,2010
-12,13,Broncos,10/10/2010,BAL,Loss, 17-31,4,1,rush,Ray Rice,2010
-13,14,Broncos,10/10/2010,BAL,Loss, 17-31,4,30,rush,Willis McGahee,2010
-14,15,Broncos,10/17/2010,NYJ,Loss, 20-24,2,32,pass,Braylon Edwards,2010
-15,16,Broncos,10/17/2010,NYJ,Loss, 20-24,4,20,rush,LaDainian Tomlinson,2010
-16,17,Broncos,10/17/2010,NYJ,Loss, 20-24,4,2,rush,LaDainian Tomlinson,2010
-17,18,Broncos,10/24/2010,OAK,Loss, 14-59,1,43,pass,Zach Miller,2010
-18,19,Broncos,10/24/2010,OAK,Loss, 14-59,1,30,interception,Chris Johnson,2010
-19,20,Broncos,10/24/2010,OAK,Loss, 14-59,1,4,rush,Darren McFadden,2010
-20,21,Broncos,10/24/2010,OAK,Loss, 14-59,2,19,pass,Darren McFadden,2010
-21,22,Broncos,10/24/2010,OAK,Loss, 14-59,2,4,rush,Darren McFadden,2010
-22,23,Broncos,10/24/2010,OAK,Loss, 14-59,3,1,rush,Marcel Reece,2010
-23,24,Broncos,10/24/2010,OAK,Loss, 14-59,3,57,rush,Darren McFadden,2010
-24,25,Broncos,10/24/2010,OAK,Loss, 14-59,3,1,rush,Michael Bush,2010
-25,26,Broncos,10/31/2010,SFO,Loss, 16-24,4,1,rush,Troy Smith,2010
-26,27,Broncos,10/31/2010,SFO,Loss, 16-24,4,28,pass,Michael Crabtree,2010
-27,28,Broncos,10/31/2010,SFO,Loss, 16-24,4,3,rush,Frank Gore,2010
-28,29,Broncos,11/14/2010,KAN,Win, 49-29,2,5,pass,Jamaal Charles,2010
-29,30,Broncos,11/14/2010,KAN,Win, 49-29,3,15,pass,Dwayne Bowe,2010
-30,31,Broncos,11/14/2010,KAN,Win, 49-29,4,11,pass,Chris Chambers,2010
-31,32,Broncos,11/14/2010,KAN,Win, 49-29,4,22,pass,Dwayne Bowe,2010
-32,33,Broncos,11/22/2010,SDG,Loss, 14-35,1,6,pass,Malcom Floyd,2010
-33,34,Broncos,11/22/2010,SDG,Loss, 14-35,2,1,rush,Mike Tolbert,2010
-34,35,Broncos,11/22/2010,SDG,Loss, 14-35,2,40,pass,Patrick Crayton,2010
-35,36,Broncos,11/22/2010,SDG,Loss, 14-35,3,57,pass,Darren Sproles,2010
-36,37,Broncos,11/22/2010,SDG,Loss, 14-35,4,3,pass,Jacob Hester,2010
-37,38,Broncos,11/28/2010,STL,Loss, 33-36,1,36,pass,Michael Hoomanawanui,2010
-38,39,Broncos,11/28/2010,STL,Loss, 33-36,2,2,pass,Billy Bajema,2010
-39,40,Broncos,11/28/2010,STL,Loss, 33-36,2,26,pass,Billy Bajema,2010
-40,41,Broncos,11/28/2010,STL,Loss, 33-36,3,1,rush,Kenneth Darby,2010
-41,42,Broncos,12/05/2010,KAN,Loss, 6-10,1,2,pass,Leonard Pope,2010
-42,43,Broncos,12/12/2010,ARI,Loss, 13-43,2,5,rush,Jay Feely,2010
-43,44,Broncos,12/12/2010,ARI,Loss, 13-43,4,8,rush,Tim Hightower,2010
-44,45,Broncos,12/12/2010,ARI,Loss, 13-43,4,35,rush,Tim Hightower,2010
-45,46,Broncos,12/12/2010,ARI,Loss, 13-43,4,40,fumble,Darnell Dockett,2010
-46,47,Broncos,12/19/2010,OAK,Loss, 23-39,1,71,rush,Jacoby Ford,2010
-47,48,Broncos,12/19/2010,OAK,Loss, 23-39,1,1,rush,Michael Bush,2010
-48,49,Broncos,12/19/2010,OAK,Loss, 23-39,4,73,pass,Marcel Reece,2010
-49,50,Broncos,12/19/2010,OAK,Loss, 23-39,4,1,rush,Michael Bush,2010
-50,51,Broncos,12/26/2010,HOU,Win, 24-23,1,3,rush,Arian Foster,2010
-51,52,Broncos,12/26/2010,HOU,Win, 24-23,2,3,pass,Owen Daniels,2010
-52,53,Broncos,01/02/2011,SDG,Loss, 28-33,2,27,rush,Ryan Mathews,2010
-53,54,Broncos,01/02/2011,SDG,Loss, 28-33,3,12,rush,Ryan Mathews,2010
-54,55,Broncos,01/02/2011,SDG,Loss, 28-33,4,31,rush,Ryan Mathews,2010
+,Rank,Team,Date,Opponent,Win/Loss,Home_Score,Opponenet_Score,Quarter,Distance,Type,Detail
+1,1,Broncos,2010-09-12,JAX,Loss,17,24,2,21,pass,Marcedes Lewis
+2,2,Broncos,2010-09-12,JAX,Loss,17,24,3,10,pass,Marcedes Lewis
+3,3,Broncos,2010-09-12,JAX,Loss,17,24,4,24,pass,Kassim Osgood
+4,4,Broncos,2010-09-19,SEA,Win,31,14,3,11,pass,Ben Obomanu
+5,5,Broncos,2010-09-19,SEA,Win,31,14,4,20,rush,Matt Hasselbeck
+6,6,Broncos,2010-09-26,IND,Loss,13,27,2,5,pass,Austin Collie
+7,7,Broncos,2010-09-26,IND,Loss,13,27,3,9,pass,Blair White
+8,8,Broncos,2010-09-26,IND,Loss,13,27,4,23,pass,Austin Collie
+9,9,Broncos,2010-10-03,TEN,Win,26,20,2,8,pass,Kenny Britt
+10,10,Broncos,2010-10-03,TEN,Win,26,20,3,98,kickoff,Marc Mariani
+11,11,Broncos,2010-10-10,BAL,Loss,17,31,1,1,rush,Joe Flacco
+12,12,Broncos,2010-10-10,BAL,Loss,17,31,2,1,rush,Ray Rice
+13,13,Broncos,2010-10-10,BAL,Loss,17,31,4,1,rush,Ray Rice
+14,14,Broncos,2010-10-10,BAL,Loss,17,31,4,30,rush,Willis McGahee
+15,15,Broncos,2010-10-17,NYJ,Loss,20,24,2,32,pass,Braylon Edwards
+16,16,Broncos,2010-10-17,NYJ,Loss,20,24,4,20,rush,LaDainian Tomlinson
+17,17,Broncos,2010-10-17,NYJ,Loss,20,24,4,2,rush,LaDainian Tomlinson
+18,18,Broncos,2010-10-24,OAK,Loss,14,59,1,43,pass,Zach Miller
+19,19,Broncos,2010-10-24,OAK,Loss,14,59,1,30,interception,Chris Johnson
+20,20,Broncos,2010-10-24,OAK,Loss,14,59,1,4,rush,Darren McFadden
+21,21,Broncos,2010-10-24,OAK,Loss,14,59,2,19,pass,Darren McFadden
+22,22,Broncos,2010-10-24,OAK,Loss,14,59,2,4,rush,Darren McFadden
+23,23,Broncos,2010-10-24,OAK,Loss,14,59,3,1,rush,Marcel Reece
+24,24,Broncos,2010-10-24,OAK,Loss,14,59,3,57,rush,Darren McFadden
+25,25,Broncos,2010-10-24,OAK,Loss,14,59,3,1,rush,Michael Bush
+26,26,Broncos,2010-10-31,SFO,Loss,16,24,4,1,rush,Troy Smith
+27,27,Broncos,2010-10-31,SFO,Loss,16,24,4,28,pass,Michael Crabtree
+28,28,Broncos,2010-10-31,SFO,Loss,16,24,4,3,rush,Frank Gore
+29,29,Broncos,2010-11-14,KAN,Win,49,29,2,5,pass,Jamaal Charles
+30,30,Broncos,2010-11-14,KAN,Win,49,29,3,15,pass,Dwayne Bowe
+31,31,Broncos,2010-11-14,KAN,Win,49,29,4,11,pass,Chris Chambers
+32,32,Broncos,2010-11-14,KAN,Win,49,29,4,22,pass,Dwayne Bowe
+33,33,Broncos,2010-11-22,SDG,Loss,14,35,1,6,pass,Malcom Floyd
+34,34,Broncos,2010-11-22,SDG,Loss,14,35,2,1,rush,Mike Tolbert
+35,35,Broncos,2010-11-22,SDG,Loss,14,35,2,40,pass,Patrick Crayton
+36,36,Broncos,2010-11-22,SDG,Loss,14,35,3,57,pass,Darren Sproles
+37,37,Broncos,2010-11-22,SDG,Loss,14,35,4,3,pass,Jacob Hester
+38,38,Broncos,2010-11-28,STL,Loss,33,36,1,36,pass,Michael Hoomanawanui
+39,39,Broncos,2010-11-28,STL,Loss,33,36,2,2,pass,Billy Bajema
+40,40,Broncos,2010-11-28,STL,Loss,33,36,2,26,pass,Billy Bajema
+41,41,Broncos,2010-11-28,STL,Loss,33,36,3,1,rush,Kenneth Darby
+42,42,Broncos,2010-12-05,KAN,Loss,6,10,1,2,pass,Leonard Pope
+43,43,Broncos,2010-12-12,ARI,Loss,13,43,2,5,rush,Jay Feely
+44,44,Broncos,2010-12-12,ARI,Loss,13,43,4,8,rush,Tim Hightower
+45,45,Broncos,2010-12-12,ARI,Loss,13,43,4,35,rush,Tim Hightower
+46,46,Broncos,2010-12-12,ARI,Loss,13,43,4,40,fumble,Darnell Dockett
+47,47,Broncos,2010-12-19,OAK,Loss,23,39,1,71,rush,Jacoby Ford
+48,48,Broncos,2010-12-19,OAK,Loss,23,39,1,1,rush,Michael Bush
+49,49,Broncos,2010-12-19,OAK,Loss,23,39,4,73,pass,Marcel Reece
+50,50,Broncos,2010-12-19,OAK,Loss,23,39,4,1,rush,Michael Bush
+51,51,Broncos,2010-12-26,HOU,Win,24,23,1,3,rush,Arian Foster
+52,52,Broncos,2010-12-26,HOU,Win,24,23,2,3,pass,Owen Daniels
+53,53,Broncos,2011-01-02,SDG,Loss,28,33,2,27,rush,Ryan Mathews
+54,54,Broncos,2011-01-02,SDG,Loss,28,33,3,12,rush,Ryan Mathews
+55,55,Broncos,2011-01-02,SDG,Loss,28,33,4,31,rush,Ryan Mathews
