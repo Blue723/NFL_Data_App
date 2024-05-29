@@ -1,9 +1,9 @@
-,No.,Team,Player,Age,Position,Games Played,Games Started,Punts Returned,Punts Return Yardage,Punts Returned for Touchdown,Longest Punt Return,Yards per Punt Return,Kickoff Returns,Yardage for Kickoffs Returned,Kickoffs Returned for a Touchdown,Longest Kickoff Return,Yards per Kickoff Return,All-purpose Yards,Year
-0,16,Seahawks,Tyler Lockett,24,WR,15,9,29,243,0,62,8.4,23,606,0,46,26.3,1560,2016
-1,10,Seahawks,Paul Richardson,24,WR,15,0,0,0,0,0,,5,105,0,32,21.0,398,2016
-2,91,Seahawks,Cassius Marsh,24,DE,16,1,0,0,0,0,,2,17,0,10,8.5,17,2016
-3,28,Seahawks,C.J. Spiller,29,RB,2,0,0,0,0,0,,2,46,0,24,23.0,98,2016
-4,30,Seahawks,J.D. McKissic,23,WR,1,0,0,0,0,0,,1,22,0,22,22.0,40,2016
-5,25,Seahawks,Richard Sherman,28,LCB,16,16,1,6,0,6,6.0,0,0,0,0,,57,2016
-6,86,Seahawks,Brandon Williams,29,TE,16,1,0,0,0,0,,1,12,0,12,12.0,48,2016
-7,82,Seahawks,Luke Willson,26,TE,11,6,0,0,0,0,,1,0,0,0,0.0,129,2016
+,No.,Player,Age,Position,Games Played,Games Started,Punts Returned,Punts Return Yardage,Punts Returned for Touchdown,Longest Punt Return,Yards per Punt Return,Kickoff Returns,Yardage for Kickoffs Returned,Kickoffs Returned for a Touchdown,Longest Kickoff Return,Yards per Kickoff Return,All-purpose Yards,Team,Year
+16,16,Tyler Lockett,24,WR,15,9,29,243,0,62,8.4,23,606,0,46,26.3,1560,Seahawks,2016
+10,10,Paul Richardson,24,WR,15,0,0,0,0,0,0.0,5,105,0,32,21.0,398,Seahawks,2016
+91,91,Cassius Marsh,24,DE,16,1,0,0,0,0,0.0,2,17,0,10,8.5,17,Seahawks,2016
+28,28,C.J. Spiller,29,RB,2,0,0,0,0,0,0.0,2,46,0,24,23.0,98,Seahawks,2016
+30,30,J.D. McKissic,23,RB,1,0,0,0,0,0,0.0,1,22,0,22,22.0,40,Seahawks,2016
+25,25,Richard Sherman,28,LCB,16,16,1,6,0,6,6.0,0,0,0,0,0.0,57,Seahawks,2016
+86,86,Brandon Williams,29,TE,16,1,0,0,0,0,0.0,1,12,0,12,12.0,48,Seahawks,2016
+82,82,Luke Willson,26,TE,11,6,0,0,0,0,0.0,1,0,0,0,0.0,129,Seahawks,2016

@@ -1,17 +1,17 @@
-,No.,Team,Player,Age,Position,Games Played,Games Started as an Offensive or Defensive Player,Rushing Attempts,Rushing Yards Gained,Rushing Touchdown,First Downs Rushing,Rushing Success Rate,Longest Rushing Attempt,Rushing Yards per Attempt,Rushing Yards per Game,Rushing Attempts per Game,Pass Targets,Receptions,Receiving Yards,Receiving Yards per Reception,Receiving Touchdowns,First Downs Receiving,Receiving Success Rate,Longest Reception,Receptions per Game,Receiving Yards per Game,Catch Per.,Receiving Yards per Target,Touches: Rushing Attempts and Receptions,Scrimmage Yards per Touch: Rushing + Receiving Yardage per Opportunity,Yards from Scrimmage: Receiving and Rushing Yards,Rushing and Receiving Touchdowns,Lost and Recovered Fumbles,Year
-0,32,Bengals,Jeremy Hill,24,RB,15,13,222,839,9,46,43.7,74,3.8,55.9,14.8,27,21,174,8.3,0,6,59.3,25,1.4,11.6,77.8,6.4,243,4.2,1013,9,0,2016
-1,25,Bengals,Giovani Bernard,25,RB,10,2,91,337,2,16,48.4,17,3.7,33.7,9.1,51,39,336,8.6,1,16,49.0,32,3.9,33.6,76.5,6.6,130,5.2,673,3,1,2016
-2,33,Bengals,Rex Burkhead,26,RB,16,1,74,344,2,24,63.5,17,4.6,21.5,4.6,20,17,145,8.5,0,9,55.0,18,1.1,9.1,85.0,7.3,91,5.4,489,2,1,2016
-3,14,Bengals,Andy Dalton,29,QB,16,16,46,184,4,17,52.2,15,4.0,11.5,2.9,0,0,0,,0,0,,0,,,0.0,,46,4.0,184,4,9,2016
-4,30,Bengals,Cedric Peerman,30,RB,6,0,6,15,0,0,33.3,4,2.5,2.5,1.0,1,0,0,,0,0,0.0,0,0.0,0.0,0.0,0.0,6,2.5,15,0,0,2016
-5,83,Bengals,Tyler Boyd,22,WR,16,2,4,58,0,2,50.0,39,14.5,3.6,0.3,81,54,603,11.2,1,33,55.6,30,3.4,37.7,66.7,7.4,58,11.4,661,1,1,2016
-6,86,Bengals,James Wright,25,WR,13,2,2,-6,0,1,50.0,2,-3.0,-0.5,0.2,19,13,106,8.2,0,7,42.1,15,1.0,8.2,68.4,5.6,15,6.7,100,0,0,2016
-7,11,Bengals,Brandon LaFell,30,WR,16,14,1,-2,0,0,0.0,-2,-2.0,-0.1,0.1,107,64,862,13.5,6,42,51.4,86,4.0,53.9,59.8,8.1,65,13.2,860,6,0,2016
-8,18,Bengals,A.J. Green,28,WR,10,10,0,0,0,0,,0,,,,100,66,964,14.6,4,42,54.0,54,6.6,96.4,66.0,9.6,66,14.6,964,4,0,2016
-9,85,Bengals,Tyler Eifert,26,TE,8,2,0,0,0,0,,0,,,,47,29,394,13.6,5,23,59.6,71,3.6,49.3,61.7,8.4,29,13.6,394,5,0,2016
-10,87,Bengals,C.J. Uzomah,23,TE,10,8,0,0,0,0,,0,,,,38,25,234,9.4,1,14,52.6,54,2.5,23.4,65.8,6.2,25,9.4,234,1,0,2016
-11,16,Bengals,Cody Core,22,WR,8,4,0,0,0,0,,0,,,,27,17,200,11.8,0,7,44.4,50,2.1,25.0,63.0,7.4,17,11.8,200,0,0,2016
-12,81,Bengals,Tyler Kroft,24,TE,14,11,0,0,0,0,,0,,,,12,10,92,9.2,0,3,58.3,21,0.7,6.6,83.3,7.7,10,9.2,92,0,0,2016
-13,12,Bengals,Alex Erickson,24,WR,16,0,0,0,0,0,,0,,,,8,6,71,11.8,0,3,62.5,20,0.4,4.4,75.0,8.9,6,11.8,71,0,3,2016
-14,89,Bengals,Ryan Hewitt,25,TE,16,11,0,0,0,0,,0,,,,3,2,13,6.5,0,1,66.7,8,0.1,0.8,66.7,4.3,2,6.5,13,0,0,2016
-15,74,Bengals,Jake Fisher,23,T,15,3,0,0,0,0,,0,,,,1,1,12,12.0,0,0,100.0,12,0.1,0.8,100.0,12.0,1,12.0,12,0,1,2016
+,No.,Player,Age,Position,Games Played,Games Started as an Offensive or Defensive Player,Rushing Attempts,Rushing Yards Gained,Rushing Touchdown,First Downs Rushing,Rushing Success Rate,Longest Rushing Attempt,Rushing Yards per Attempt,Rushing Yards per Game,Rushing Attempts per Game,Pass Targets,Receptions,Receiving Yards,Receiving Yards per Reception,Receiving Touchdowns,First Downs Receiving,Receiving Success Rate,Longest Reception,Receptions per Game,Receiving Yards per Game,Catch Per.,Receiving Yards per Target,Touches: Rushing Attempts and Receptions,Scrimmage Yards per Touch: Rushing + Receiving Yardage per Opportunity,Yards from Scrimmage: Receiving and Rushing Yards,Rushing and Receiving Touchdowns,Lost and Recovered Fumbles,Team,Year
+32,32,Jeremy Hill,24,RB,15,13,222,839,9,46,43.7,74,3.8,55.9,14.8,27,21,174,8.3,0,6,59.3,25,1.4,11.6,77.8,6.4,243,4.2,1013,9,0,Bengals,2016
+25,25,Giovani Bernard,25,RB,10,2,91,337,2,16,48.4,17,3.7,33.7,9.1,51,39,336,8.6,1,16,49.0,32,3.9,33.6,76.5,6.6,130,5.2,673,3,1,Bengals,2016
+33,33,Rex Burkhead,26,RB,16,1,74,344,2,24,63.5,17,4.6,21.5,4.6,20,17,145,8.5,0,9,55.0,18,1.1,9.1,85.0,7.3,91,5.4,489,2,1,Bengals,2016
+14,14,Andy Dalton,29,QB,16,16,46,184,4,17,52.2,15,4.0,11.5,2.9,0,0,0,0.0,0,0,0.0,0,0.0,0.0,0.0,0.0,46,4.0,184,4,9,Bengals,2016
+30,30,Cedric Peerman,30,RB,6,0,6,15,0,0,33.3,4,2.5,2.5,1.0,1,0,0,0.0,0,0,0.0,0,0.0,0.0,0.0,0.0,6,2.5,15,0,0,Bengals,2016
+83,83,Tyler Boyd,22,WR,16,2,4,58,0,2,50.0,39,14.5,3.6,0.3,81,54,603,11.2,1,33,55.6,30,3.4,37.7,66.7,7.4,58,11.4,661,1,1,Bengals,2016
+86,86,James Wright,25,WR,13,2,2,-6,0,1,50.0,2,-3.0,-0.5,0.2,19,13,106,8.2,0,7,42.1,15,1.0,8.2,68.4,5.6,15,6.7,100,0,0,Bengals,2016
+11,11,Brandon LaFell,30,WR,16,14,1,-2,0,0,0.0,-2,-2.0,-0.1,0.1,107,64,862,13.5,6,42,51.4,86,4.0,53.9,59.8,8.1,65,13.2,860,6,0,Bengals,2016
+18,18,A.J. Green,28,WR,10,10,0,0,0,0,0.0,0,0.0,0.0,0.0,100,66,964,14.6,4,42,54.0,54,6.6,96.4,66.0,9.6,66,14.6,964,4,0,Bengals,2016
+85,85,Tyler Eifert,26,TE,8,2,0,0,0,0,0.0,0,0.0,0.0,0.0,47,29,394,13.6,5,23,59.6,71,3.6,49.3,61.7,8.4,29,13.6,394,5,0,Bengals,2016
+87,87,C.J. Uzomah,23,TE,10,8,0,0,0,0,0.0,0,0.0,0.0,0.0,38,25,234,9.4,1,14,52.6,54,2.5,23.4,65.8,6.2,25,9.4,234,1,0,Bengals,2016
+16,16,Cody Core,22,WR,8,4,0,0,0,0,0.0,0,0.0,0.0,0.0,27,17,200,11.8,0,7,44.4,50,2.1,25.0,63.0,7.4,17,11.8,200,0,0,Bengals,2016
+81,81,Tyler Kroft,24,TE,14,11,0,0,0,0,0.0,0,0.0,0.0,0.0,12,10,92,9.2,0,3,58.3,21,0.7,6.6,83.3,7.7,10,9.2,92,0,0,Bengals,2016
+12,12,Alex Erickson,24,WR,16,0,0,0,0,0,0.0,0,0.0,0.0,0.0,8,6,71,11.8,0,3,62.5,20,0.4,4.4,75.0,8.9,6,11.8,71,0,3,Bengals,2016
+89,89,Ryan Hewitt,25,TE,16,11,0,0,0,0,0.0,0,0.0,0.0,0.0,3,2,13,6.5,0,1,66.7,8,0.1,0.8,66.7,4.3,2,6.5,13,0,0,Bengals,2016
+74,74,Jake Fisher,23,T,15,3,0,0,0,0,0.0,0,0.0,0.0,0.0,1,1,12,12.0,0,0,100.0,12,0.1,0.8,100.0,12.0,1,12.0,12,0,1,Bengals,2016

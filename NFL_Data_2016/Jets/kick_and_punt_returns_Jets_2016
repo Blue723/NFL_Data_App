@@ -1,9 +1,9 @@
-,No.,Team,Player,Age,Position,Games Played,Games Started,Punts Returned,Punts Return Yardage,Punts Returned for Touchdown,Longest Punt Return,Yards per Punt Return,Kickoff Returns,Yardage for Kickoffs Returned,Kickoffs Returned for a Touchdown,Longest Kickoff Return,Yards per Kickoff Return,All-purpose Yards,Year
-0,89,Jets,Jalin Marshall,21,WR,10,1,18,100,0,19,5.6,13,324,0,65,24.9,586,2016
-1,30,Jets,Nick Marshall,24,DB,8,0,6,39,0,27,6.5,12,168,0,28,14.0,221,2016
-2,10,Jets,Jeremy Ross,28,WR,4,0,1,10,0,10,10.0,11,224,0,28,20.4,234,2016
-3,26,Jets,C.J. Spiller,29,RB,4,0,0,0,0,0,,5,96,0,23,19.2,112,2016
-4,81,Jets,Quincy Enunwa,24,WR,16,13,0,0,0,0,,1,54,0,54,54.0,923,2016
-5,43,Jets,Julian Howsare,24,LB,2,0,0,0,0,0,,1,15,0,15,15.0,15,2016
-6,27,Jets,Darryl Roberts,26,DB,12,2,1,0,0,0,0.0,0,0,0,0,,0,2016
-7,41,Jets,Buster Skrine,27,LCB,14,14,1,0,0,0,0.0,0,0,0,0,,51,2016
+,No.,Player,Age,Position,Games Played,Games Started,Punts Returned,Punts Return Yardage,Punts Returned for Touchdown,Longest Punt Return,Yards per Punt Return,Kickoff Returns,Yardage for Kickoffs Returned,Kickoffs Returned for a Touchdown,Longest Kickoff Return,Yards per Kickoff Return,All-purpose Yards,Team,Year
+89,89,Jalin Marshall,21,WR,10,1,18,100,0,19,5.6,13,324,0,65,24.9,586,Jets,2016
+30,30,Nick Marshall,24,DB,8,0,6,39,0,27,6.5,12,168,0,28,14.0,221,Jets,2016
+10,10,Jeremy Ross,28,WR,4,0,1,10,0,10,10.0,11,224,0,28,20.4,234,Jets,2016
+26,26,C.J. Spiller,29,RB,4,0,0,0,0,0,0.0,5,96,0,23,19.2,112,Jets,2016
+81,81,Quincy Enunwa,24,WR,16,13,0,0,0,0,0.0,1,54,0,54,54.0,923,Jets,2016
+43,43,Julian Howsare,24,LB,2,0,0,0,0,0,0.0,1,15,0,15,15.0,15,Jets,2016
+27,27,Darryl Roberts,26,DB,12,2,1,0,0,0,0.0,0,0,0,0,0.0,0,Jets,2016
+41,41,Buster Skrine,27,LCB,14,14,1,0,0,0,0.0,0,0,0,0,0.0,51,Jets,2016

@@ -1,9 +1,9 @@
-,No.,Team,Player,Age,Position,Games Played,Games Started,Punts Returned,Punts Return Yardage,Punts Returned for Touchdown,Longest Punt Return,Yards per Punt Return,Kickoff Returns,Yardage for Kickoffs Returned,Kickoffs Returned for a Touchdown,Longest Kickoff Return,Yards per Kickoff Return,All-purpose Yards,Year
-0,13,Cowboys,Lucky Whitehead,24,WR,15,1,25,195,0,39,7.8,17,394,0,33,23.2,719,2016
-1,11,Cowboys,Cole Beasley,27,WR,16,6,3,3,0,3,1.0,0,0,0,0,,843,2016
-2,25,Cowboys,Lance Dunbar,26,RB,13,0,0,0,0,0,,2,32,0,16,16.0,185,2016
-3,75,Cowboys,Ryan Davis,27,LB,9,0,0,0,0,0,,1,0,0,0,0.0,0,2016
-4,89,Cowboys,Gavin Escobar,25,TE,16,1,0,0,0,0,,1,5,0,5,5.0,35,2016
-5,20,Cowboys,Darren McFadden,29,RB,3,1,0,0,0,0,,1,30,0,30,30.0,134,2016
-6,46,Cowboys,Alfred Morris,28,RB,14,0,0,0,0,0,,1,12,0,12,12.0,266,2016
-7,45,Cowboys,Rod Smith,24,RB,7,0,0,0,0,0,,1,19,0,19,19.0,23,2016
+,No.,Player,Age,Position,Games Played,Games Started,Punts Returned,Punts Return Yardage,Punts Returned for Touchdown,Longest Punt Return,Yards per Punt Return,Kickoff Returns,Yardage for Kickoffs Returned,Kickoffs Returned for a Touchdown,Longest Kickoff Return,Yards per Kickoff Return,All-purpose Yards,Team,Year
+13,13,Lucky Whitehead,24,WR,15,1,25,195,0,39,7.8,17,394,0,33,23.2,719,Cowboys,2016
+11,11,Cole Beasley,27,WR,16,6,3,3,0,3,1.0,0,0,0,0,0.0,843,Cowboys,2016
+25,25,Lance Dunbar,26,RB,13,0,0,0,0,0,0.0,2,32,0,16,16.0,185,Cowboys,2016
+75,75,Ryan Davis,27,LB,9,0,0,0,0,0,0.0,1,0,0,0,0.0,0,Cowboys,2016
+89,89,Gavin Escobar,25,TE,16,1,0,0,0,0,0.0,1,5,0,5,5.0,35,Cowboys,2016
+20,20,Darren McFadden,29,RB,3,1,0,0,0,0,0.0,1,30,0,30,30.0,134,Cowboys,2016
+46,46,Alfred Morris,28,RB,14,0,0,0,0,0,0.0,1,12,0,12,12.0,266,Cowboys,2016
+45,45,Rod Smith,24,RB,7,0,0,0,0,0,0.0,1,19,0,19,19.0,23,Cowboys,2016

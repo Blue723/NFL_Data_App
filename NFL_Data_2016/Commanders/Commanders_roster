@@ -1,65 +1,65 @@
-Player,No.,Team,Age,Pos,G,GS,Wt,Ht,College/Univ,BirthDate,Yrs,AV,Drafted (tm/rnd/yr)
-Chris Baker,92.0,Commanders,29.0,RDE,16,16.0,306.0,6-2,Hampton,10/8/1987,7,7.0,
-Houston Bates,96.0,Commanders,25.0,LB,14,0.0,245.0,6-1,Louisiana Tech,12/28/1991,1,1.0,
-Will Blackmon,41.0,Commanders,32.0,FS,15,6.0,212.0,6-0,Boston Col.,10/27/1984,10,2.0,Green Bay Packers / 4th / 115th pick / 2006
-Bashaud Breeland,26.0,Commanders,24.0,LCB,14,14.0,195.0,5-11,Clemson,1/30/1992,2,5.0,Washington Redskins / 4th / 102nd pick / 2014
-Mack Brown,34.0,Commanders,25.0,DB,9,0.0,213.0,5-11,Florida,9/24/1991,Rook,1.0,
-David Bruton,30.0,Commanders,29.0,DB,4,4.0,210.0,6-2,Notre Dame,7/23/1987,7,1.0,Denver Broncos / 4th / 114th pick / 2009
-Derek Carrier,89.0,Commanders,26.0,TE,8,0.0,240.0,6-3,Beloit,7/25/1990,3,0.0,
-William Compton,51.0,Commanders,27.0,LILB,15,15.0,235.0,6-1,Nebraska,9/19/1989,3,7.0,
-Kirk Cousins,8.0,Commanders,28.0,QB,16,16.0,205.0,6-3,Michigan St.,8/19/1988,4,15.0,Washington Redskins / 4th / 102nd pick / 2012
-Su'a Cravens,36.0,Commanders,21.0,LB,11,3.0,224.0,6-1,USC,7/7/1995,Rook,4.0,Washington Redskins / 2nd / 53rd pick / 2016
-Jamison Crowder,80.0,Commanders,23.0,WR,16,9.0,177.0,5-9,Duke,6/17/1993,1,8.0,Washington Redskins / 4th / 105th pick / 2015
-Vernon Davis,85.0,Commanders,32.0,TE,16,14.0,248.0,6-3,Maryland,1/31/1984,10,5.0,San Francisco 49ers / 1st / 6th pick / 2006
-Josh Doctson,18.0,Commanders,24.0,WR,2,0.0,205.0,6-2,"TCU,Wyoming",12/3/1992,Rook,1.0,Washington Redskins / 1st / 22nd pick / 2016
-Quinton Dunbar,47.0,Commanders,24.0,DB,14,2.0,202.0,6-2,Florida,7/22/1992,1,2.0,
-Josh Evans,45.0,Commanders,25.0,DB,2,0.0,207.0,6-1,Florida,6/5/1991,3,0.0,Jacksonville Jaguars / 6th / 169th pick / 2013
-Deshazor Everett,22.0,Commanders,24.0,DB,16,0.0,203.0,6-0,Texas A&M,2/22/1992,1,1.0,
-Mason Foster,54.0,Commanders,27.0,RILB,16,13.0,240.0,6-1,Washington,3/1/1989,5,7.0,Tampa Bay Buccaneers / 3rd / 84th pick / 2011
-Kendall Fuller,38.0,Commanders,21.0,DB,13,6.0,198.0,5-11,Virginia Tech,2/13/1995,Rook,2.0,Washington Redskins / 3rd / 84th pick / 2016
-Pierre Garcon,88.0,Commanders,30.0,WR,16,16.0,211.0,6-0,Mount Union,8/8/1986,8,9.0,Indianapolis Colts / 6th / 205th pick / 2008
-Terence Garvin,52.0,Commanders,25.0,LB,16,0.0,242.0,6-3,West Virginia,1/1/1991,3,1.0,
-Kedric Golston,64.0,Commanders,33.0,DT,2,2.0,330.0,6-4,Georgia,5/30/1983,10,1.0,Washington Redskins / 6th / 196th pick / 2006
-Ryan Grant,14.0,Commanders,26.0,WR,16,1.0,195.0,6-0,Tulane,12/19/1990,2,1.0,Washington Redskins / 5th / 142nd pick / 2014
-DeAngelo Hall,23.0,Commanders,33.0,DB,3,3.0,200.0,5-10,Virginia Tech,11/19/1983,12,1.0,Atlanta Falcons / 1st / 8th pick / 2004
-Maurice Harris,13.0,Commanders,24.0,WR,10,0.0,205.0,6-3,California,11/11/1992,Rook,1.0,
-Evander Hood,90.0,Commanders,29.0,NT,16,14.0,305.0,6-3,Missouri,2/16/1987,7,6.0,Pittsburgh Steelers / 1st / 32nd pick / 2009
-Dustin Hopkins,3.0,Commanders,26.0,K,16,0.0,193.0,6-2,Florida St.,10/1/1990,1,2.0,Buffalo Bills / 6th / 177th pick / 2013
-Duke Ihenacho,29.0,Commanders,27.0,FS,15,10.0,212.0,6-0,San Jose St.,6/16/1989,4,3.0,
-Matthew Ioannidis,98.0,Commanders,22.0,DT,10,0.0,310.0,6-3,Temple,1/11/1994,Rook,1.0,Washington Redskins / 5th / 152nd pick / 2016
-DeSean Jackson,11.0,Commanders,30.0,WR,15,15.0,175.0,5-10,California,12/1/1986,8,8.0,Philadelphia Eagles / 2nd / 49th pick / 2008
-Ricky Jean-Francois,99.0,Commanders,30.0,LDE,16,6.0,309.0,6-2,LSU,11/23/1986,7,3.0,San Francisco 49ers / 7th / 244th pick / 2009
-Cullen Jenkins,73.0,Commanders,35.0,DT,15,0.0,305.0,6-2,Central Michigan,1/20/1981,12,1.0,
-Matt Jones,31.0,Commanders,23.0,RB,7,7.0,239.0,6-2,Florida,3/7/1993,1,4.0,Washington Redskins / 3rd / 95th pick / 2015
-Robert Kelley,32.0,Commanders,24.0,RB,15,9.0,229.0,6-0,Tulane,10/3/1992,Rook,5.0,
-Ryan Kerrigan,91.0,Commanders,28.0,ROLB,16,16.0,267.0,6-4,Purdue,8/16/1988,5,9.0,Washington Redskins / 1st / 16th pick / 2011
-Arie Kouandjio,74.0,Commanders,24.0,G,5,2.0,316.0,6-5,Alabama,4/23/1992,1,1.0,Washington Redskins / 4th / 112th pick / 2015
-Anthony Lanier,72.0,Commanders,23.0,DE,4,0.0,285.0,6-6,Alabama A&M,5/8/1993,Rook,0.0,
-Shawn Lauvao,77.0,Commanders,29.0,LG,14,14.0,308.0,6-3,Arizona St.,10/26/1987,6,8.0,Cleveland Browns / 3rd / 92nd pick / 2010
-Kory Lichtensteiger,78.0,Commanders,31.0,C,3,3.0,296.0,6-3,Bowling Green,3/22/1985,8,2.0,Denver Broncos / 4th / 108th pick / 2008
-Spencer Long,61.0,Commanders,26.0,C,15,12.0,318.0,6-5,Nebraska,11/8/1990,2,7.0,Washington Redskins / 3rd / 78th pick / 2014
-Rick Lovato,59.0,Commanders,24.0,C,2,0.0,249.0,6-2,Old Dominion,9/9/1992,1,0.0,
-Nick Moody,55.0,Commanders,26.0,LB,1,0.0,245.0,6-1,Florida St.,1/29/1990,3,0.0,San Francisco 49ers / 6th / 180th pick / 2013
-Morgan Moses,76.0,Commanders,25.0,RT,16,16.0,320.0,6-6,Virginia,3/3/1991,2,9.0,Washington Redskins / 3rd / 66th pick / 2014
-Trent Murphy,93.0,Commanders,26.0,LB,16,0.0,260.0,6-6,Stanford,12/22/1990,2,2.0,Washington Redskins / 2nd / 47th pick / 2014
-Josh Norman,24.0,Commanders,29.0,RCB,16,16.0,195.0,6-0,Coastal Carolina,12/15/1987,4,5.0,Carolina Panthers / 5th / 143rd pick / 2012
-Ty Nsekhe,79.0,Commanders,31.0,T,16,4.0,325.0,6-8,Texas St.,10/27/1985,4,4.0,
-Vinston Painter,60.0,Commanders,27.0,G,5,0.0,318.0,6-4,Virginia Tech,11/10/1989,2,0.0,Denver Broncos / 6th / 173rd pick / 2013
-Niles Paul,84.0,Commanders,27.0,WR,8,1.0,242.0,6-1,Nebraska,8/9/1989,5,0.0,Washington Redskins / 5th / 155th pick / 2011
-Dashaun Phillips,35.0,Commanders,25.0,DB,5,2.0,186.0,5-11,Tarleton St.,1/3/1991,1,2.0,
-Jordan Reed,86.0,Commanders,26.0,TE,12,8.0,242.0,6-2,Florida,7/3/1990,3,6.0,Washington Redskins / 3rd / 85th pick / 2013
-Kendall Reyes,97.0,Commanders,27.0,DT,2,0.0,300.0,6-4,Connecticut,9/26/1989,4,0.0,San Diego Chargers / 2nd / 49th pick / 2012
-Rashad Ross,19.0,Commanders,26.0,WR,5,0.0,180.0,6-0,Arizona St.,2/2/1990,2,0.0,
-Brandon Scherff,75.0,Commanders,25.0,RG,16,16.0,315.0,6-5,Iowa,12/26/1991,1,12.0,Washington Redskins / 1st / 5th pick / 2015
-Preston Smith,94.0,Commanders,24.0,LOLB,16,16.0,265.0,6-5,Mississippi St.,11/17/1992,1,7.0,Washington Redskins / 2nd / 38th pick / 2015
-Martrell Spaight,50.0,Commanders,23.0,LB,14,1.0,243.0,6-0,Arkansas,8/5/1993,1,2.0,Washington Redskins / 5th / 141st pick / 2015
-John Sullivan,56.0,Commanders,31.0,C,13,1.0,312.0,6-4,Notre Dame,8/8/1985,8,2.0,Minnesota Vikings / 6th / 187th pick / 2008
-Nick Sundberg,57.0,Commanders,29.0,LS,14,0.0,254.0,6-1,California,7/29/1987,6,1.0,
-Chris Thompson,25.0,Commanders,26.0,RB,16,0.0,195.0,5-8,Florida St.,10/20/1990,3,5.0,Washington Redskins / 5th / 154th pick / 2013
-Greg Toler,20.0,Commanders,31.0,DB,16,2.0,191.0,5-11,St. Paul's,1/2/1985,7,1.0,Arizona Cardinals / 4th / 131st pick / 2009
-Lynden Trail,48.0,Commanders,25.0,DE,2,0.0,270.0,6-7,"Florida,Norfolk St.",3/19/1991,Rook,0.0,
-Zach Vigil,59.0,Commanders,25.0,LB,2,0.0,238.0,6-2,Utah St.,3/28/1991,1,0.0,
-Tress Way,5.0,Commanders,26.0,P,16,0.0,220.0,6-1,Oklahoma,4/18/1990,2,2.0,
-Donte Whitner,39.0,Commanders,31.0,SS,11,9.0,208.0,5-10,Ohio St.,7/24/1985,10,3.0,Buffalo Bills / 1st / 8th pick / 2006
-Trent Williams,71.0,Commanders,28.0,LT,12,12.0,320.0,6-5,Oklahoma,7/19/1988,6,9.0,Washington Redskins / 1st / 4th pick / 2010
-Team Total,,Commanders,26.8,,16,,246.2,6-1.9,,,3.7,,
+,No.,Player,BirthDate,Age,Height,Weight,College/University,Position,Games_Played_in_Season,Games_Started_in_Season,NFL_Years,Player_Value,Team,Year
+0,92.0,Chris Baker,10/8/1987,29.0,6-2,306.0,Hampton,RDE,16,16.0,7.0,7.0,Commanders,2016
+1,96.0,Houston Bates,12/28/1991,25.0,6-1,245.0,Louisiana Tech,LB,14,0.0,1.0,1.0,Commanders,2016
+2,41.0,Will Blackmon,10/27/1984,32.0,6-0,212.0,Boston Col.,FS,15,6.0,10.0,2.0,Commanders,2016
+3,26.0,Bashaud Breeland,1/30/1992,24.0,5-11,195.0,Clemson,LCB,14,14.0,2.0,5.0,Commanders,2016
+4,34.0,Mack Brown,9/24/1991,25.0,5-11,213.0,Florida,DB,9,0.0,0.0,1.0,Commanders,2016
+5,30.0,David Bruton,7/23/1987,29.0,6-2,210.0,Notre Dame,DB,4,4.0,7.0,1.0,Commanders,2016
+6,89.0,Derek Carrier,7/25/1990,26.0,6-3,240.0,Beloit,TE,8,0.0,3.0,0.0,Commanders,2016
+7,51.0,William Compton,9/19/1989,27.0,6-1,235.0,Nebraska,LILB,15,15.0,3.0,7.0,Commanders,2016
+8,8.0,Kirk Cousins,8/19/1988,28.0,6-3,205.0,Michigan St.,QB,16,16.0,4.0,15.0,Commanders,2016
+9,36.0,Su'a Cravens,7/7/1995,21.0,6-1,224.0,USC,LB,11,3.0,0.0,4.0,Commanders,2016
+10,80.0,Jamison Crowder,6/17/1993,23.0,5-9,177.0,Duke,WR,16,9.0,1.0,8.0,Commanders,2016
+11,85.0,Vernon Davis,1/31/1984,32.0,6-3,248.0,Maryland,TE,16,14.0,10.0,5.0,Commanders,2016
+12,18.0,Josh Doctson,12/3/1992,24.0,6-2,205.0,"TCU,Wyoming",WR,2,0.0,0.0,1.0,Commanders,2016
+13,47.0,Quinton Dunbar,7/22/1992,24.0,6-2,202.0,Florida,DB,14,2.0,1.0,2.0,Commanders,2016
+14,45.0,Josh Evans,6/5/1991,25.0,6-1,207.0,Florida,DB,2,0.0,3.0,0.0,Commanders,2016
+15,22.0,Deshazor Everett,2/22/1992,24.0,6-0,203.0,Texas A&M,DB,16,0.0,1.0,1.0,Commanders,2016
+16,54.0,Mason Foster,3/1/1989,27.0,6-1,240.0,Washington,RILB,16,13.0,5.0,7.0,Commanders,2016
+17,38.0,Kendall Fuller,2/13/1995,21.0,5-11,198.0,Virginia Tech,DB,13,6.0,0.0,2.0,Commanders,2016
+18,88.0,Pierre Garcon,8/8/1986,30.0,6-0,211.0,Mount Union,WR,16,16.0,8.0,9.0,Commanders,2016
+19,52.0,Terence Garvin,1/1/1991,25.0,6-3,242.0,West Virginia,LB,16,0.0,3.0,1.0,Commanders,2016
+20,64.0,Kedric Golston,5/30/1983,33.0,6-4,330.0,Georgia,DT,2,2.0,10.0,1.0,Commanders,2016
+21,14.0,Ryan Grant,12/19/1990,26.0,6-0,195.0,Tulane,WR,16,1.0,2.0,1.0,Commanders,2016
+22,23.0,DeAngelo Hall,11/19/1983,33.0,5-10,200.0,Virginia Tech,DB,3,3.0,12.0,1.0,Commanders,2016
+23,13.0,Maurice Harris,11/11/1992,24.0,6-3,205.0,California,WR,10,0.0,0.0,1.0,Commanders,2016
+24,90.0,Evander Hood,2/16/1987,29.0,6-3,305.0,Missouri,NT,16,14.0,7.0,6.0,Commanders,2016
+25,3.0,Dustin Hopkins,10/1/1990,26.0,6-2,193.0,Florida St.,K,16,0.0,1.0,2.0,Commanders,2016
+26,29.0,Duke Ihenacho,6/16/1989,27.0,6-0,212.0,San Jose St.,FS,15,10.0,4.0,3.0,Commanders,2016
+27,98.0,Matthew Ioannidis,1/11/1994,22.0,6-3,310.0,Temple,DT,10,0.0,0.0,1.0,Commanders,2016
+28,11.0,DeSean Jackson,12/1/1986,30.0,5-10,175.0,California,WR,15,15.0,8.0,8.0,Commanders,2016
+29,99.0,Ricky Jean-Francois,11/23/1986,30.0,6-2,309.0,LSU,LDE,16,6.0,7.0,3.0,Commanders,2016
+30,73.0,Cullen Jenkins,1/20/1981,35.0,6-2,305.0,Central Michigan,NT,15,0.0,12.0,1.0,Commanders,2016
+31,31.0,Matt Jones,3/7/1993,23.0,6-2,239.0,Florida,RB,7,7.0,1.0,4.0,Commanders,2016
+32,32.0,Robert Kelley,10/3/1992,24.0,6-0,229.0,Tulane,RB,15,9.0,0.0,5.0,Commanders,2016
+33,91.0,Ryan Kerrigan,8/16/1988,28.0,6-4,267.0,Purdue,ROLB,16,16.0,5.0,9.0,Commanders,2016
+34,74.0,Arie Kouandjio,4/23/1992,24.0,6-5,316.0,Alabama,G,5,2.0,1.0,1.0,Commanders,2016
+35,72.0,Anthony Lanier,5/8/1993,23.0,6-6,285.0,Alabama A&M,DE,4,0.0,0.0,0.0,Commanders,2016
+36,77.0,Shawn Lauvao,10/26/1987,29.0,6-3,308.0,Arizona St.,LG,14,14.0,6.0,8.0,Commanders,2016
+37,78.0,Kory Lichtensteiger,3/22/1985,31.0,6-3,296.0,Bowling Green,C,3,3.0,8.0,2.0,Commanders,2016
+38,61.0,Spencer Long,11/8/1990,26.0,6-5,318.0,Nebraska,C,15,12.0,2.0,7.0,Commanders,2016
+39,59.0,Rick Lovato,9/9/1992,24.0,6-2,249.0,Old Dominion,LS,2,0.0,1.0,0.0,Commanders,2016
+40,55.0,Nick Moody,1/29/1990,26.0,6-1,245.0,Florida St.,LB,1,0.0,3.0,0.0,Commanders,2016
+41,76.0,Morgan Moses,3/3/1991,25.0,6-6,320.0,Virginia,RT,16,16.0,2.0,9.0,Commanders,2016
+42,93.0,Trent Murphy,12/22/1990,26.0,6-6,260.0,Stanford,LB,16,0.0,2.0,2.0,Commanders,2016
+43,24.0,Josh Norman,12/15/1987,29.0,6-0,195.0,Coastal Carolina,RCB,16,16.0,4.0,5.0,Commanders,2016
+44,79.0,Ty Nsekhe,10/27/1985,31.0,6-8,325.0,Texas St.,T,16,4.0,4.0,4.0,Commanders,2016
+45,60.0,Vinston Painter,11/10/1989,27.0,6-4,318.0,Virginia Tech,G,5,0.0,2.0,0.0,Commanders,2016
+46,84.0,Niles Paul,8/9/1989,27.0,6-1,242.0,Nebraska,WR,8,1.0,5.0,0.0,Commanders,2016
+47,35.0,Dashaun Phillips,1/3/1991,25.0,5-11,186.0,Tarleton St.,DB,5,2.0,1.0,2.0,Commanders,2016
+48,86.0,Jordan Reed,7/3/1990,26.0,6-2,242.0,Florida,TE,12,8.0,3.0,6.0,Commanders,2016
+49,97.0,Kendall Reyes,9/26/1989,27.0,6-4,300.0,Connecticut,DE,2,0.0,4.0,0.0,Commanders,2016
+50,19.0,Rashad Ross,2/2/1990,26.0,6-0,180.0,Arizona St.,WR,5,0.0,2.0,0.0,Commanders,2016
+51,75.0,Brandon Scherff,12/26/1991,25.0,6-5,315.0,Iowa,RG,16,16.0,1.0,12.0,Commanders,2016
+52,94.0,Preston Smith,11/17/1992,24.0,6-5,265.0,Mississippi St.,LOLB,16,16.0,1.0,7.0,Commanders,2016
+53,50.0,Martrell Spaight,8/5/1993,23.0,6-0,243.0,Arkansas,LB,14,1.0,1.0,2.0,Commanders,2016
+54,56.0,John Sullivan,8/8/1985,31.0,6-4,312.0,Notre Dame,C,13,1.0,8.0,2.0,Commanders,2016
+55,57.0,Nick Sundberg,7/29/1987,29.0,6-1,254.0,California,LS,14,0.0,6.0,1.0,Commanders,2016
+56,25.0,Chris Thompson,10/20/1990,26.0,5-8,195.0,Florida St.,RB,16,0.0,3.0,5.0,Commanders,2016
+57,20.0,Greg Toler,1/2/1985,31.0,5-11,191.0,St. Paul's,DB,16,2.0,7.0,1.0,Commanders,2016
+58,48.0,Lynden Trail,3/19/1991,25.0,6-7,270.0,"Florida,Norfolk St.",DE,2,0.0,0.0,0.0,Commanders,2016
+59,59.0,Zach Vigil,3/28/1991,25.0,6-2,238.0,Utah St.,LB,2,0.0,1.0,0.0,Commanders,2016
+60,5.0,Tress Way,4/18/1990,26.0,6-1,220.0,Oklahoma,P,16,0.0,2.0,2.0,Commanders,2016
+61,39.0,Donte Whitner,7/24/1985,31.0,5-10,208.0,Ohio St.,SS,11,9.0,10.0,3.0,Commanders,2016
+62,71.0,Trent Williams,7/19/1988,28.0,6-5,320.0,Oklahoma,LT,12,12.0,6.0,9.0,Commanders,2016
+63,,Team Total,,26.8,6-1.9,246.2,,,16,,3.7,,Commanders,2016

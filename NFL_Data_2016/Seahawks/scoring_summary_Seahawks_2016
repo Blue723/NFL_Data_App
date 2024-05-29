@@ -1,17 +1,17 @@
-,No.,Team,Player,Age,Pos,Games Played,Games Started,Rush TD,Reception TD,Punt Return TD,Kick Return TD,Fumble Return TD,Interception TD,Other TD,All Touchdown Scored,2-Point Conversions Made,Two-Point Conversions Attempted,Defensive Two-Point Conversions,Extra Points Made,Extra Points Allowed,Field Goals Made,Field Goals Attempted,Safeties Scored by Player/Team,Total Points Scored by all Means,Poins per Game,Year
-0,4,Seahawks,Stephen Hauschka,31,K,16,0,0,0,0,0,0,0,0,0,0,0,0,29,35,33,37,,128,8.0,2016
-1,89,Seahawks,Doug Baldwin,28,WR,16,15,0,7,0,0,0,0,0,7,0,0,0,0,0,0,0,,42,2.6,2016
-2,32,Seahawks,Christine Michael,26,RB,9,7,6,1,0,0,0,0,0,7,0,0,0,0,0,0,0,,42,4.7,2016
-3,88,Seahawks,Jimmy Graham,30,TE,16,15,0,6,0,0,0,0,0,6,0,0,0,0,0,0,0,,36,2.3,2016
-4,34,Seahawks,Thomas Rawls,23,RB,9,7,3,0,0,0,0,0,0,3,0,0,0,0,0,0,0,,18,2.0,2016
-5,16,Seahawks,Tyler Lockett,24,WR,15,9,1,1,0,0,0,0,0,2,0,0,0,0,0,0,0,,12,0.8,2016
-6,19,Seahawks,Tanner McEvoy,23,TE,14,0,0,2,0,0,0,0,0,2,0,0,0,0,0,0,0,,12,0.9,2016
-7,82,Seahawks,Luke Willson,26,TE,11,6,0,2,0,0,0,0,0,2,0,0,0,0,0,0,0,,12,1.1,2016
-8,3,Seahawks,Russell Wilson,28,QB,16,16,1,1,0,0,0,0,0,2,0,0,0,0,0,0,0,,12,0.8,2016
-9,36,Seahawks,Alex Collins,22,RB,11,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,,6,0.5,2016
-10,15,Seahawks,Jermaine Kearse,26,WR,16,15,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,,6,0.4,2016
-11,22,Seahawks,C.J. Prosise,22,RB,6,2,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,,6,1.0,2016
-12,10,Seahawks,Paul Richardson,24,WR,15,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,,6,0.4,2016
-13,28,Seahawks,C.J. Spiller,29,RB,2,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,,6,3.0,2016
-14,29,Seahawks,Earl Thomas,27,FS,11,11,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,,6,0.5,2016
-15,44,Seahawks,Marcel Reece,31,WR,4,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,,2,0.5,2016
+,No.,Player,Age,Pos,Games Played,Games Started,Rush TD,Reception TD,Punt Return TD,Kick Return TD,Fumble Return TD,Interception TD,Other TD,All Touchdown Scored,2-Point Conversions Made,Two-Point Conversions Attempted,Defensive Two-Point Conversions,Extra Points Made,Extra Points Allowed,Field Goals Made,Field Goals Attempted,Safeties Scored by Player/Team,Total Points Scored by all Means,Poins per Game,Team,Year
+4,4,Stephen Hauschka,31,K,16,0,0,0,0,0,0,0,0,0,0,0,0,29,35,33,37,0,128,8.0,Seahawks,2016
+89,89,Doug Baldwin,28,WR,16,15,0,7,0,0,0,0,0,7,0,0,0,0,0,0,0,0,42,2.6,Seahawks,2016
+32,32,Christine Michael,26,RB,9,7,6,1,0,0,0,0,0,7,0,0,0,0,0,0,0,0,42,4.7,Seahawks,2016
+88,88,Jimmy Graham,30,TE,16,15,0,6,0,0,0,0,0,6,0,0,0,0,0,0,0,0,36,2.3,Seahawks,2016
+34,34,Thomas Rawls,23,RB,9,7,3,0,0,0,0,0,0,3,0,0,0,0,0,0,0,0,18,2.0,Seahawks,2016
+16,16,Tyler Lockett,24,WR,15,9,1,1,0,0,0,0,0,2,0,0,0,0,0,0,0,0,12,0.8,Seahawks,2016
+19,19,Tanner McEvoy,23,TE,14,0,0,2,0,0,0,0,0,2,0,0,0,0,0,0,0,0,12,0.9,Seahawks,2016
+82,82,Luke Willson,26,TE,11,6,0,2,0,0,0,0,0,2,0,0,0,0,0,0,0,0,12,1.1,Seahawks,2016
+3,3,Russell Wilson,28,QB,16,16,1,1,0,0,0,0,0,2,0,0,0,0,0,0,0,0,12,0.8,Seahawks,2016
+36,36,Alex Collins,22,RB,11,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,6,0.5,Seahawks,2016
+15,15,Jermaine Kearse,26,WR,16,15,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,6,0.4,Seahawks,2016
+22,22,C.J. Prosise,22,RB,6,2,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,6,1.0,Seahawks,2016
+10,10,Paul Richardson,24,WR,15,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,6,0.4,Seahawks,2016
+28,28,C.J. Spiller,29,RB,2,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,6,3.0,Seahawks,2016
+29,29,Earl Thomas,27,FS,11,11,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,6,0.5,Seahawks,2016
+44,44,Marcel Reece,31,RB,4,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,2,0.5,Seahawks,2016

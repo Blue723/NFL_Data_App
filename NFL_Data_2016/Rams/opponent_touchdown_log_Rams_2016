@@ -1,51 +1,51 @@
-,Rank,Team,Date,Opponent,Win/Loss,Score,Quarter,Distance,Type,Detail,Year
-0,1,Rams,09/12/2016,SFO,, 21-22,1,11,rush,Carlos Hyde,2016
-1,2,Rams,09/12/2016,SFO,, 21-22,2,3,rush,Shaun Draughn,2016
-2,3,Rams,09/12/2016,SFO,, 21-22,4,8,pass,Vance McDonald,2016
-3,4,Rams,09/12/2016,SFO,, 21-22,4,1,rush,Carlos Hyde,2016
-4,5,Rams,09/25/2016,TAM,Win, 37-32,1,38,interception,Kwon Alexander,2016
-5,6,Rams,09/25/2016,TAM,Win, 37-32,2,1,rush,Charles Sims,2016
-6,7,Rams,09/25/2016,TAM,Win, 37-32,2,3,pass,Cameron Brate,2016
-7,8,Rams,09/25/2016,TAM,Win, 37-32,4,1,pass,Cameron Brate,2016
-8,9,Rams,09/25/2016,TAM,Win, 37-32,4,7,pass,Mike Evans,2016
-9,10,Rams,10/02/2016,ARI,Win, 17-13,2,5,pass,Michael Floyd,2016
-10,11,Rams,10/09/2016,BUF,Loss, 19-30,1,4,pass,Justin Hunter,2016
-11,12,Rams,10/09/2016,BUF,Loss, 19-30,2,5,rush,Mike Gillislee,2016
-12,13,Rams,10/09/2016,BUF,Loss, 19-30,3,41,interception,Nickell Robey-Coleman,2016
-13,14,Rams,10/09/2016,BUF,Loss, 19-30,4,6,pass,Marquise Goodwin,2016
-14,15,Rams,10/16/2016,DET,Loss, 28-31,1,7,pass,Marvin Jones,2016
-15,16,Rams,10/16/2016,DET,Loss, 28-31,2,2,pass,Andre Roberts,2016
-16,17,Rams,10/16/2016,DET,Loss, 28-31,3,4,pass,Anquan Boldin,2016
-17,18,Rams,10/16/2016,DET,Loss, 28-31,4,23,pass,Golden Tate,2016
-18,19,Rams,10/23/2016,NYG,Loss, 10-17,2,44,interception,Landon Collins,2016
-19,20,Rams,10/23/2016,NYG,Loss, 10-17,4,1,rush,Rashad Jennings,2016
-20,21,Rams,11/06/2016,CAR,Loss, 10-13,1,9,pass,Greg Olsen,2016
-21,22,Rams,11/13/2016,NYJ,Win, 9-6,2,4,pass,Bilal Powell,2016
-22,23,Rams,11/20/2016,MIA,Loss, 10-14,4,10,pass,Jarvis Landry,2016
-23,24,Rams,11/20/2016,MIA,Loss, 10-14,4,9,pass,DeVante Parker,2016
-24,25,Rams,11/27/2016,NOR,Loss, 21-49,1,3,pass,Brandon Coleman,2016
-25,26,Rams,11/27/2016,NOR,Loss, 21-49,2,10,rush,Mark Ingram,2016
-26,27,Rams,11/27/2016,NOR,Loss, 21-49,2,1,rush,Drew Brees,2016
-27,28,Rams,11/27/2016,NOR,Loss, 21-49,2,6,pass,Michael Thomas,2016
-28,29,Rams,11/27/2016,NOR,Loss, 21-49,3,21,pass,Mark Ingram,2016
-29,30,Rams,11/27/2016,NOR,Loss, 21-49,3,21,pass,Michael Thomas,2016
-30,31,Rams,11/27/2016,NOR,Loss, 21-49,4,50,pass,Tim Hightower,2016
-31,32,Rams,12/04/2016,NWE,Loss, 10-26,1,43,rush,LeGarrette Blount,2016
-32,33,Rams,12/04/2016,NWE,Loss, 10-26,2,14,pass,Chris Hogan,2016
-33,34,Rams,12/11/2016,ATL,Loss, 14-42,1,3,pass,Justin Hardy,2016
-34,35,Rams,12/11/2016,ATL,Loss, 14-42,2,6,pass,Tevin Coleman,2016
-35,36,Rams,12/11/2016,ATL,Loss, 14-42,2,33,interception,Deion Jones,2016
-36,37,Rams,12/11/2016,ATL,Loss, 14-42,3,64,pass,Taylor Gabriel,2016
-37,38,Rams,12/11/2016,ATL,Loss, 14-42,3,6,rush,Tevin Coleman,2016
-38,39,Rams,12/11/2016,ATL,Loss, 14-42,3,21,fumble,Vic Beasley,2016
-39,40,Rams,12/15/2016,SEA,Loss, 3-24,2,8,pass,Luke Willson,2016
-40,41,Rams,12/15/2016,SEA,Loss, 3-24,3,1,pass,Doug Baldwin,2016
-41,42,Rams,12/15/2016,SEA,Loss, 3-24,4,57,pass,Tyler Lockett,2016
-42,43,Rams,12/24/2016,SFO,Loss, 21-22,1,19,pass,Carlos Hyde,2016
-43,44,Rams,12/24/2016,SFO,Loss, 21-22,4,13,rush,Colin Kaepernick,2016
-44,45,Rams,12/24/2016,SFO,Loss, 21-22,4,10,pass,Rod Streater,2016
-45,46,Rams,01/01/2017,ARI,Loss, 6-44,2,4,pass,Jeremy Ross,2016
-46,47,Rams,01/01/2017,ARI,Loss, 6-44,3,37,pass,Darren Fells,2016
-47,48,Rams,01/01/2017,ARI,Loss, 6-44,3,1,rush,Kerwynn Williams,2016
-48,49,Rams,01/01/2017,ARI,Loss, 6-44,4,5,pass,Larry Fitzgerald,2016
-49,50,Rams,01/01/2017,ARI,Loss, 6-44,4,66,interception,Justin Bethel,2016
+,Rank,Team,Date,Opponent,Win/Loss,Home_Score,Opponenet_Score,Quarter,Distance,Type,Detail
+1,1,Rams,2016-09-12,SFO,nan,nan,nan,1,11,rush,Carlos Hyde
+2,2,Rams,2016-09-12,SFO,nan,nan,nan,2,3,rush,Shaun Draughn
+3,3,Rams,2016-09-12,SFO,nan,nan,nan,4,8,pass,Vance McDonald
+4,4,Rams,2016-09-12,SFO,nan,nan,nan,4,1,rush,Carlos Hyde
+5,5,Rams,2016-09-25,TAM,Win,37,32,1,38,interception,Kwon Alexander
+6,6,Rams,2016-09-25,TAM,Win,37,32,2,1,rush,Charles Sims
+7,7,Rams,2016-09-25,TAM,Win,37,32,2,3,pass,Cameron Brate
+8,8,Rams,2016-09-25,TAM,Win,37,32,4,1,pass,Cameron Brate
+9,9,Rams,2016-09-25,TAM,Win,37,32,4,7,pass,Mike Evans
+10,10,Rams,2016-10-02,ARI,Win,17,13,2,5,pass,Michael Floyd
+11,11,Rams,2016-10-09,BUF,Loss,19,30,1,4,pass,Justin Hunter
+12,12,Rams,2016-10-09,BUF,Loss,19,30,2,5,rush,Mike Gillislee
+13,13,Rams,2016-10-09,BUF,Loss,19,30,3,41,interception,Nickell Robey-Coleman
+14,14,Rams,2016-10-09,BUF,Loss,19,30,4,6,pass,Marquise Goodwin
+15,15,Rams,2016-10-16,DET,Loss,28,31,1,7,pass,Marvin Jones
+16,16,Rams,2016-10-16,DET,Loss,28,31,2,2,pass,Andre Roberts
+17,17,Rams,2016-10-16,DET,Loss,28,31,3,4,pass,Anquan Boldin
+18,18,Rams,2016-10-16,DET,Loss,28,31,4,23,pass,Golden Tate
+19,19,Rams,2016-10-23,NYG,Loss,10,17,2,44,interception,Landon Collins
+20,20,Rams,2016-10-23,NYG,Loss,10,17,4,1,rush,Rashad Jennings
+21,21,Rams,2016-11-06,CAR,Loss,10,13,1,9,pass,Greg Olsen
+22,22,Rams,2016-11-13,NYJ,Win,9,6,2,4,pass,Bilal Powell
+23,23,Rams,2016-11-20,MIA,Loss,10,14,4,10,pass,Jarvis Landry
+24,24,Rams,2016-11-20,MIA,Loss,10,14,4,9,pass,DeVante Parker
+25,25,Rams,2016-11-27,NOR,Loss,21,49,1,3,pass,Brandon Coleman
+26,26,Rams,2016-11-27,NOR,Loss,21,49,2,10,rush,Mark Ingram
+27,27,Rams,2016-11-27,NOR,Loss,21,49,2,1,rush,Drew Brees
+28,28,Rams,2016-11-27,NOR,Loss,21,49,2,6,pass,Michael Thomas
+29,29,Rams,2016-11-27,NOR,Loss,21,49,3,21,pass,Mark Ingram
+30,30,Rams,2016-11-27,NOR,Loss,21,49,3,21,pass,Michael Thomas
+31,31,Rams,2016-11-27,NOR,Loss,21,49,4,50,pass,Tim Hightower
+32,32,Rams,2016-12-04,NWE,Loss,10,26,1,43,rush,LeGarrette Blount
+33,33,Rams,2016-12-04,NWE,Loss,10,26,2,14,pass,Chris Hogan
+34,34,Rams,2016-12-11,ATL,Loss,14,42,1,3,pass,Justin Hardy
+35,35,Rams,2016-12-11,ATL,Loss,14,42,2,6,pass,Tevin Coleman
+36,36,Rams,2016-12-11,ATL,Loss,14,42,2,33,interception,Deion Jones
+37,37,Rams,2016-12-11,ATL,Loss,14,42,3,64,pass,Taylor Gabriel
+38,38,Rams,2016-12-11,ATL,Loss,14,42,3,6,rush,Tevin Coleman
+39,39,Rams,2016-12-11,ATL,Loss,14,42,3,21,fumble,Vic Beasley
+40,40,Rams,2016-12-15,SEA,Loss,3,24,2,8,pass,Luke Willson
+41,41,Rams,2016-12-15,SEA,Loss,3,24,3,1,pass,Doug Baldwin
+42,42,Rams,2016-12-15,SEA,Loss,3,24,4,57,pass,Tyler Lockett
+43,43,Rams,2016-12-24,SFO,Loss,21,22,1,19,pass,Carlos Hyde
+44,44,Rams,2016-12-24,SFO,Loss,21,22,4,13,rush,Colin Kaepernick
+45,45,Rams,2016-12-24,SFO,Loss,21,22,4,10,pass,Rod Streater
+46,46,Rams,2017-01-01,ARI,Loss,6,44,2,4,pass,Jeremy Ross
+47,47,Rams,2017-01-01,ARI,Loss,6,44,3,37,pass,Darren Fells
+48,48,Rams,2017-01-01,ARI,Loss,6,44,3,1,rush,Kerwynn Williams
+49,49,Rams,2017-01-01,ARI,Loss,6,44,4,5,pass,Larry Fitzgerald
+50,50,Rams,2017-01-01,ARI,Loss,6,44,4,66,interception,Justin Bethel

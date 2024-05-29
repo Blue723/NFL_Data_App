@@ -1,12 +1,12 @@
-,No.,Team,Player,Age,Pos,Games Played,Games Started,Rush TD,Reception TD,Punt Return TD,Kick Return TD,Fumble Return TD,Interception TD,Other TD,All Touchdown Scored,2-Point Conversions Made,Two-Point Conversions Attempted,Defensive Two-Point Conversions,Extra Points Made,Extra Points Allowed,Field Goals Made,Field Goals Attempted,Safeties Scored by Player/Team,Total Points Scored by all Means,Poins per Game,Year
-0,3,Commanders,Dustin Hopkins,26,K,16,0,0,0,0,0,0,0,0,0,0,0,0,36,39,34,42,,138,8.6,2016
-1,80,Commanders,Jamison Crowder,23,WR,16,9,0,7,1,0,0,0,0,8,0,0,0,0,0,0,0,,48,3.0,2016
-2,32,Commanders,Robert Kelley,24,RB,15,9,6,1,0,0,0,0,0,7,0,0,0,0,0,0,0,,42,2.8,2016
-3,86,Commanders,Jordan Reed,26,TE,12,8,0,6,0,0,0,0,0,6,0,0,0,0,0,0,0,,36,3.0,2016
-4,25,Commanders,Chris Thompson,26,RB,16,0,3,2,0,0,0,0,0,5,0,0,0,0,0,0,0,,30,1.9,2016
-5,8,Commanders,Kirk Cousins,28,QB,16,16,4,0,0,0,0,0,0,4,0,0,0,0,0,0,0,,24,1.5,2016
-6,11,Commanders,DeSean Jackson,30,WR,15,15,0,4,0,0,0,0,0,4,0,0,0,0,0,0,0,,24,1.6,2016
-7,88,Commanders,Pierre Garcon,30,WR,16,16,0,3,0,0,0,0,0,3,0,0,0,0,0,0,0,,18,1.1,2016
-8,31,Commanders,Matt Jones,23,RB,7,7,3,0,0,0,0,0,0,3,0,0,0,0,0,0,0,,18,2.6,2016
-9,85,Commanders,Vernon Davis,32,TE,16,14,0,2,0,0,0,0,0,2,0,0,0,0,0,0,0,,12,0.8,2016
-10,34,Commanders,Mack Brown,25,DB,9,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,,6,0.7,2016
+,No.,Player,Age,Pos,Games Played,Games Started,Rush TD,Reception TD,Punt Return TD,Kick Return TD,Fumble Return TD,Interception TD,Other TD,All Touchdown Scored,2-Point Conversions Made,Two-Point Conversions Attempted,Defensive Two-Point Conversions,Extra Points Made,Extra Points Allowed,Field Goals Made,Field Goals Attempted,Safeties Scored by Player/Team,Total Points Scored by all Means,Poins per Game,Team,Year
+3,3,Dustin Hopkins,26,K,16,0,0,0,0,0,0,0,0,0,0,0,0,36,39,34,42,0,138,8.6,Commanders,2016
+80,80,Jamison Crowder,23,WR,16,9,0,7,1,0,0,0,0,8,0,0,0,0,0,0,0,0,48,3.0,Commanders,2016
+32,32,Robert Kelley,24,RB,15,9,6,1,0,0,0,0,0,7,0,0,0,0,0,0,0,0,42,2.8,Commanders,2016
+86,86,Jordan Reed,26,TE,12,8,0,6,0,0,0,0,0,6,0,0,0,0,0,0,0,0,36,3.0,Commanders,2016
+25,25,Chris Thompson,26,RB,16,0,3,2,0,0,0,0,0,5,0,0,0,0,0,0,0,0,30,1.9,Commanders,2016
+8,8,Kirk Cousins,28,QB,16,16,4,0,0,0,0,0,0,4,0,0,0,0,0,0,0,0,24,1.5,Commanders,2016
+11,11,DeSean Jackson,30,WR,15,15,0,4,0,0,0,0,0,4,0,0,0,0,0,0,0,0,24,1.6,Commanders,2016
+88,88,Pierre Garcon,30,WR,16,16,0,3,0,0,0,0,0,3,0,0,0,0,0,0,0,0,18,1.1,Commanders,2016
+31,31,Matt Jones,23,RB,7,7,3,0,0,0,0,0,0,3,0,0,0,0,0,0,0,0,18,2.6,Commanders,2016
+85,85,Vernon Davis,32,TE,16,14,0,2,0,0,0,0,0,2,0,0,0,0,0,0,0,0,12,0.8,Commanders,2016
+34,34,Mack Brown,25,DB,9,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,6,0.7,Commanders,2016

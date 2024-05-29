@@ -1,20 +1,18 @@
-,Week,Team,Day,Date,Time,Win/Loss,Overtime,Team Record,Home/Away,Opponent,Points Scored,Points Allowed,Offense 1st Down,Total Yards Gained of Offense,Total yards Gained by Passing,Total Yards Gained by Rushing,Offense Turnovers,Defense 1st Down,Total Yards Allowed by Defense,Total Passing Yards Allowed by Defense,Total Rushing Yards Allowed by Defense,Defense Turnovers,Offense,Defense,Sp. Tms,Year
-0,0,Cowboys,Sun,September 11,,L,0,0-1,home,New York Giants,19,20,24,328,227,101,0,18,316,203,113,1,6.65,-9.23,2.24,2016
-1,1,Cowboys,Sun,September 18,,W,0,1-1,away,Washington Redskins,27,23,24,380,278,102,1,24,432,350,82,1,14.43,-9.76,-2.03,2016
-2,2,Cowboys,Sun,September 25,,W,0,2-1,home,Chicago Bears,31,17,25,447,248,199,1,21,390,312,78,2,17.99,-3.42,-3.78,2016
-3,3,Cowboys,Sun,October 2,,W,0,3-1,away,San Francisco 49ers,24,17,26,428,234,194,0,14,295,189,106,1,15.96,-2.03,-5.8,2016
-4,4,Cowboys,Sun,October 9,,W,0,4-1,home,Cincinnati Bengals,28,14,21,402,222,180,1,27,345,249,96,0,18.6,-11.82,7.25,2016
-5,5,Cowboys,Sun,October 16,,W,0,5-1,away,Green Bay Packers,30,16,24,424,233,191,2,24,372,294,78,4,12.09,4.84,-2.93,2016
-6,6,Cowboys,,,,,0,,home,<strong>Bye Week</strong>,0,0,0,0,0,0,0,0,0,0,0,0,,,,2016
-7,7,1,1,1,1.0,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1.0,1.0,1.0,1
-8,8,Cowboys,Sun,November 6,,W,0,7-1,away,Cleveland Browns,35,10,29,423,255,168,0,13,222,177,45,0,27.99,-0.76,0.64,2016
-9,9,Cowboys,Sun,November 13,,W,0,8-1,away,Pittsburgh Steelers,35,30,20,422,295,127,1,30,448,400,48,0,13.5,-21.01,10.13,2016
-10,10,Cowboys,Sun,November 20,,W,0,9-1,home,Baltimore Ravens,27,17,27,417,299,118,0,17,368,267,101,0,21.44,-10.17,-0.83,2016
-11,11,Cowboys,Thu,November 24,,W,0,10-1,home,Washington Redskins,31,26,24,353,190,163,0,25,505,449,56,0,19.18,-24.94,11.43,2016
-12,12,Cowboys,Thu,December 1,,W,0,11-1,away,Minnesota Vikings,17,15,13,264,124,140,2,21,318,231,87,1,-9.19,2.5,11.58,2016
-13,13,Cowboys,Sun,December 11,,L,0,11-2,away,New York Giants,7,10,13,260,152,108,3,12,260,167,93,3,-20.81,20.25,-8.56,2016
-14,14,Cowboys,Sun,December 18,,W,0,12-2,home,Tampa Bay Buccaneers,26,20,24,449,264,185,1,16,276,224,52,4,6.07,7.29,-5.77,2016
-15,15,Cowboys,Mon,December 26,,W,0,13-2,home,Detroit Lions,42,21,23,375,211,164,0,23,319,229,90,2,24.42,-5.57,0.09,2016
-16,16,Cowboys,Sun,January 1,,L,0,13-3,away,Philadelphia Eagles,13,27,15,195,126,69,2,24,346,232,114,0,-9.6,-6.89,4.57,2016
-17,17,Cowboys,,<strong>Playoffs</strong>,,,0,,home,,0,0,0,0,0,0,0,0,0,0,0,0,,,,2016
-18,18,Cowboys,Sun,January 15,,L,0,13-4,home,Green Bay Packers,31,34,25,429,291,138,1,27,413,326,87,1,15.85,-20.14,1.15,2016
+,Week,Day,Date,Time,Win/Loss,Overtime,Team Record,Home/Away,Opponent,Points Scored,Points Allowed,Offense 1st Down,Total Yards Gained of Offense,Total yards Gained by Passing,Total Yards Gained by Rushing,Offense Turnovers,Defense 1st Down,Total Yards Allowed by Defense,Total Passing Yards Allowed by Defense,Total Rushing Yards Allowed by Defense,Defense Turnovers,Offense,Defense,Sp. Tms,Team,Year
+0,1,Sun,2016-09-11,nan,Loss,0,0-1,home,New York Giants,19,20,24,328,227,101,0,18,316,203,113,1,6.65,-9.23,2.24,Cowboys,2016
+1,2,Sun,2016-09-18,nan,Win,0,1-1,away,Washington Redskins,27,23,24,380,278,102,1,24,432,350,82,1,14.43,-9.76,-2.03,Cowboys,2016
+2,3,Sun,2016-09-25,nan,Win,0,2-1,home,Chicago Bears,31,17,25,447,248,199,1,21,390,312,78,2,17.99,-3.42,-3.78,Cowboys,2016
+3,4,Sun,2016-10-02,nan,Win,0,3-1,away,San Francisco 49ers,24,17,26,428,234,194,0,14,295,189,106,1,15.96,-2.03,-5.8,Cowboys,2016
+4,5,Sun,2016-10-09,nan,Win,0,4-1,home,Cincinnati Bengals,28,14,21,402,222,180,1,27,345,249,96,0,18.6,-11.82,7.25,Cowboys,2016
+5,6,Sun,2016-10-16,nan,Win,0,5-1,away,Green Bay Packers,30,16,24,424,233,191,2,24,372,294,78,4,12.09,4.84,-2.93,Cowboys,2016
+6,8,Sun,2016-10-30,nan,Win,1,6-1,home,Philadelphia Eagles,29,23,26,460,273,187,1,21,291,194,97,1,6.81,3.91,-6.68,Cowboys,2016
+7,9,Sun,2016-11-06,nan,Win,0,7-1,away,Cleveland Browns,35,10,29,423,255,168,0,13,222,177,45,0,27.99,-0.76,0.64,Cowboys,2016
+8,10,Sun,2016-11-13,nan,Win,0,8-1,away,Pittsburgh Steelers,35,30,20,422,295,127,1,30,448,400,48,0,13.5,-21.01,10.13,Cowboys,2016
+9,11,Sun,2016-11-20,nan,Win,0,9-1,home,Baltimore Ravens,27,17,27,417,299,118,0,17,368,267,101,0,21.44,-10.17,-0.83,Cowboys,2016
+10,12,Thu,2016-11-24,nan,Win,0,10-1,home,Washington Redskins,31,26,24,353,190,163,0,25,505,449,56,0,19.18,-24.94,11.43,Cowboys,2016
+11,13,Thu,2016-12-01,nan,Win,0,11-1,away,Minnesota Vikings,17,15,13,264,124,140,2,21,318,231,87,1,-9.19,2.5,11.58,Cowboys,2016
+12,14,Sun,2016-12-11,nan,Loss,0,11-2,away,New York Giants,7,10,13,260,152,108,3,12,260,167,93,3,-20.81,20.25,-8.56,Cowboys,2016
+13,15,Sun,2016-12-18,nan,Win,0,12-2,home,Tampa Bay Buccaneers,26,20,24,449,264,185,1,16,276,224,52,4,6.07,7.29,-5.77,Cowboys,2016
+14,16,Mon,2016-12-26,nan,Win,0,13-2,home,Detroit Lions,42,21,23,375,211,164,0,23,319,229,90,2,24.42,-5.57,0.09,Cowboys,2016
+15,17,Sun,2017-01-01,nan,Loss,0,13-3,away,Philadelphia Eagles,13,27,15,195,126,69,2,24,346,232,114,0,-9.6,-6.89,4.57,Cowboys,2016
+16,19,Sun,2017-01-15,nan,Loss,0,13-4,home,Green Bay Packers,31,34,25,429,291,138,1,27,413,326,87,1,15.85,-20.14,1.15,Cowboys,2016

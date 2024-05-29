@@ -1,22 +1,20 @@
-,Week,Team,Day,Date,Time,Win/Loss,Overtime,Team Record,Home/Away,Opponent,Points Scored,Points Allowed,Offense 1st Down,Total Yards Gained of Offense,Total yards Gained by Passing,Total Yards Gained by Rushing,Offense Turnovers,Defense 1st Down,Total Yards Allowed by Defense,Total Passing Yards Allowed by Defense,Total Rushing Yards Allowed by Defense,Defense Turnovers,Offense,Defense,Sp. Tms,Year
-0,0,Steelers,Mon,September 12,,W,0,1-0,away,Washington Redskins,38,16,23,437,290,147,1,18,384,329,55,2,22.31,4.94,-0.19,2016
-1,1,Steelers,Sun,September 18,,W,0,2-0,home,Cincinnati Bengals,24,16,19,374,250,124,2,21,412,366,46,2,3.03,5.93,2.88,2016
-2,2,Steelers,Sun,September 25,,L,0,2-1,away,Philadelphia Eagles,3,34,15,251,222,29,2,25,426,301,125,0,-10.46,-22.12,0.94,2016
-3,3,Steelers,Sun,October 2,,W,0,3-1,home,Kansas City Chiefs,43,14,18,436,287,149,0,22,357,270,87,2,15.53,3.86,4.24,2016
-4,4,Steelers,Sun,October 9,,W,0,4-1,home,New York Jets,31,13,30,436,375,61,1,16,316,244,72,0,15.65,0.46,3.39,2016
-5,5,Steelers,Sun,October 16,,L,0,4-2,away,Miami Dolphins,15,30,15,297,169,128,2,24,474,252,222,0,-3.5,-19.26,5.2,2016
-6,6,Steelers,Sun,October 23,,L,0,4-3,home,New England Patriots,16,27,17,375,281,94,1,21,362,222,140,2,-4.28,-12.52,6.81,2016
-7,7,Steelers,,,,,0,,home,<strong>Bye Week</strong>,0,0,0,0,0,0,0,0,0,0,0,0,,,,2016
-8,8,Steelers,Sun,November 6,,L,0,4-4,away,Baltimore Ravens,14,21,15,277,241,36,1,13,274,224,50,1,-13.13,13.91,-9.54,2016
-9,9,Steelers,Sun,November 13,,L,0,4-5,home,Dallas Cowboys,30,35,30,448,400,48,0,20,422,295,127,1,21.01,-13.5,-10.13,2016
-10,10,Steelers,Sun,November 20,,W,0,5-5,away,Cleveland Browns,24,9,24,313,167,146,0,17,209,176,33,2,8.07,1.22,1.71,2016
-11,11,Steelers,Thu,November 24,,W,0,6-5,away,Indianapolis Colts,28,7,16,369,221,148,0,18,310,219,91,2,17.02,1.12,-0.14,2016
-12,12,Steelers,Sun,December 4,,W,0,7-5,home,New York Giants,24,14,20,389,272,117,2,16,234,178,56,2,1.23,11.75,-0.29,2016
-13,13,Steelers,Sun,December 11,,W,0,8-5,away,Buffalo Bills,27,20,24,460,220,240,3,14,275,208,67,1,5.34,-4.16,4.88,2016
-14,14,Steelers,Sun,December 18,,W,0,9-5,away,Cincinnati Bengals,24,20,26,382,285,97,0,19,222,146,76,1,10.48,-4.82,3.43,2016
-15,15,Steelers,Sun,December 25,,W,0,10-5,home,Baltimore Ravens,31,27,23,406,279,127,2,22,368,246,122,1,15.16,-5.24,-4.2,2016
-16,16,1,1,1,1.0,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1.0,1.0,1.0,1
-17,17,Steelers,,<strong>Playoffs</strong>,,,0,,home,,0,0,0,0,0,0,0,0,0,0,0,0,,,,2016
-18,18,Steelers,Sun,January 8,,W,0,12-5,home,Miami Dolphins,30,12,19,367,188,179,2,18,305,253,52,3,14.79,11.03,-8.21,2016
-19,19,Steelers,Sun,January 15,,W,0,13-5,away,Kansas City Chiefs,18,16,20,389,218,171,1,16,227,166,61,2,-2.25,3.67,0.19,2016
-20,20,Steelers,Sun,January 22,,L,0,13-6,away,New England Patriots,17,36,22,368,314,54,2,26,431,374,57,0,2.88,-20.62,-2.03,2016
+,Week,Day,Date,Time,Win/Loss,Overtime,Team Record,Home/Away,Opponent,Points Scored,Points Allowed,Offense 1st Down,Total Yards Gained of Offense,Total yards Gained by Passing,Total Yards Gained by Rushing,Offense Turnovers,Defense 1st Down,Total Yards Allowed by Defense,Total Passing Yards Allowed by Defense,Total Rushing Yards Allowed by Defense,Defense Turnovers,Offense,Defense,Sp. Tms,Team,Year
+0,1,Mon,2016-09-12,nan,Win,0,1-0,away,Washington Redskins,38,16,23,437,290,147,1,18,384,329,55,2,22.31,4.94,-0.19,Steelers,2016
+1,2,Sun,2016-09-18,nan,Win,0,2-0,home,Cincinnati Bengals,24,16,19,374,250,124,2,21,412,366,46,2,3.03,5.93,2.88,Steelers,2016
+2,3,Sun,2016-09-25,nan,Loss,0,2-1,away,Philadelphia Eagles,3,34,15,251,222,29,2,25,426,301,125,0,-10.46,-22.12,0.94,Steelers,2016
+3,4,Sun,2016-10-02,nan,Win,0,3-1,home,Kansas City Chiefs,43,14,18,436,287,149,0,22,357,270,87,2,15.53,3.86,4.24,Steelers,2016
+4,5,Sun,2016-10-09,nan,Win,0,4-1,home,New York Jets,31,13,30,436,375,61,1,16,316,244,72,0,15.65,0.46,3.39,Steelers,2016
+5,6,Sun,2016-10-16,nan,Loss,0,4-2,away,Miami Dolphins,15,30,15,297,169,128,2,24,474,252,222,0,-3.5,-19.26,5.2,Steelers,2016
+6,7,Sun,2016-10-23,nan,Loss,0,4-3,home,New England Patriots,16,27,17,375,281,94,1,21,362,222,140,2,-4.28,-12.52,6.81,Steelers,2016
+7,9,Sun,2016-11-06,nan,Loss,0,4-4,away,Baltimore Ravens,14,21,15,277,241,36,1,13,274,224,50,1,-13.13,13.91,-9.54,Steelers,2016
+8,10,Sun,2016-11-13,nan,Loss,0,4-5,home,Dallas Cowboys,30,35,30,448,400,48,0,20,422,295,127,1,21.01,-13.5,-10.13,Steelers,2016
+9,11,Sun,2016-11-20,nan,Win,0,5-5,away,Cleveland Browns,24,9,24,313,167,146,0,17,209,176,33,2,8.07,1.22,1.71,Steelers,2016
+10,12,Thu,2016-11-24,nan,Win,0,6-5,away,Indianapolis Colts,28,7,16,369,221,148,0,18,310,219,91,2,17.02,1.12,-0.14,Steelers,2016
+11,13,Sun,2016-12-04,nan,Win,0,7-5,home,New York Giants,24,14,20,389,272,117,2,16,234,178,56,2,1.23,11.75,-0.29,Steelers,2016
+12,14,Sun,2016-12-11,nan,Win,0,8-5,away,Buffalo Bills,27,20,24,460,220,240,3,14,275,208,67,1,5.34,-4.16,4.88,Steelers,2016
+13,15,Sun,2016-12-18,nan,Win,0,9-5,away,Cincinnati Bengals,24,20,26,382,285,97,0,19,222,146,76,1,10.48,-4.82,3.43,Steelers,2016
+14,16,Sun,2016-12-25,nan,Win,0,10-5,home,Baltimore Ravens,31,27,23,406,279,127,2,22,368,246,122,1,15.16,-5.24,-4.2,Steelers,2016
+15,17,Sun,2017-01-01,nan,Win,1,11-5,home,Cleveland Browns,27,24,21,312,243,69,1,27,437,206,231,4,3.43,-4.66,1.81,Steelers,2016
+16,19,Sun,2017-01-08,nan,Win,0,12-5,home,Miami Dolphins,30,12,19,367,188,179,2,18,305,253,52,3,14.79,11.03,-8.21,Steelers,2016
+17,20,Sun,2017-01-15,nan,Win,0,13-5,away,Kansas City Chiefs,18,16,20,389,218,171,1,16,227,166,61,2,-2.25,3.67,0.19,Steelers,2016
+18,21,Sun,2017-01-22,nan,Loss,0,13-6,away,New England Patriots,17,36,22,368,314,54,2,26,431,374,57,0,2.88,-20.62,-2.03,Steelers,2016

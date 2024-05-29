@@ -1,37 +1,37 @@
-,Rank,Team,Date,Opponent,Win/Loss,Score,Quarter,Distance,Type,Detail,Year
-0,1,Eagles,09/11/2016,CLE,Win, 29-10,2,2,rush,Isaiah Crowell,2016
-1,2,Eagles,09/19/2016,CHI,Win, 29-14,2,1,rush,Jeremy Langford,2016
-2,3,Eagles,09/19/2016,CHI,Win, 29-14,4,65,punt,Eddie Royal,2016
-3,4,Eagles,10/09/2016,DET,Loss, 23-24,1,1,pass,Theo Riddick,2016
-4,5,Eagles,10/09/2016,DET,Loss, 23-24,1,17,pass,Theo Riddick,2016
-5,6,Eagles,10/09/2016,DET,Loss, 23-24,2,1,pass,Marvin Jones,2016
-6,7,Eagles,10/16/2016,WAS,Loss, 20-27,1,16,pass,Jamison Crowder,2016
-7,8,Eagles,10/16/2016,WAS,Loss, 20-27,2,13,pass,Vernon Davis,2016
-8,9,Eagles,10/16/2016,WAS,Loss, 20-27,2,1,rush,Matt Jones,2016
-9,10,Eagles,10/23/2016,MIN,Win, 21-10,4,14,pass,Cordarrelle Patterson,2016
-10,11,Eagles,10/30/2016,DAL,Loss, 23-29,1,7,rush,Dak Prescott,2016
-11,12,Eagles,10/30/2016,DAL,Loss, 23-29,4,22,pass,Dez Bryant,2016
-12,13,Eagles,10/30/2016,DAL,Loss, 23-29,5,5,pass,Jason Witten,2016
-13,14,Eagles,11/06/2016,NYG,Loss, 23-28,1,26,pass,Odell Beckham Jr.,2016
-14,15,Eagles,11/06/2016,NYG,Loss, 23-28,1,30,pass,Roger Lewis,2016
-15,16,Eagles,11/06/2016,NYG,Loss, 23-28,2,1,pass,Odell Beckham Jr.,2016
-16,17,Eagles,11/06/2016,NYG,Loss, 23-28,3,32,pass,Sterling Shepard,2016
-17,18,Eagles,11/13/2016,ATL,Win, 24-15,4,76,pass,Taylor Gabriel,2016
-18,19,Eagles,11/20/2016,SEA,Loss, 15-26,1,72,rush,C.J. Prosise,2016
-19,20,Eagles,11/20/2016,SEA,Loss, 15-26,2,35,pass,Jimmy Graham,2016
-20,21,Eagles,11/20/2016,SEA,Loss, 15-26,3,15,pass,Russell Wilson,2016
-21,22,Eagles,11/28/2016,GNB,Loss, 13-27,1,12,pass,Davante Adams,2016
-22,23,Eagles,11/28/2016,GNB,Loss, 13-27,2,20,pass,Davante Adams,2016
-23,24,Eagles,11/28/2016,GNB,Loss, 13-27,4,1,rush,Aaron Ripkowski,2016
-24,25,Eagles,12/04/2016,CIN,Loss, 14-32,1,2,rush,Jeremy Hill,2016
-25,26,Eagles,12/04/2016,CIN,Loss, 14-32,2,13,pass,Tyler Eifert,2016
-26,27,Eagles,12/04/2016,CIN,Loss, 14-32,3,8,pass,Brandon LaFell,2016
-27,28,Eagles,12/11/2016,WAS,Loss, 22-27,2,22,rush,Robert Kelley,2016
-28,29,Eagles,12/11/2016,WAS,Loss, 22-27,3,80,pass,DeSean Jackson,2016
-29,30,Eagles,12/11/2016,WAS,Loss, 22-27,3,15,pass,Pierre Garcon,2016
-30,31,Eagles,12/11/2016,WAS,Loss, 22-27,4,25,rush,Chris Thompson,2016
-31,32,Eagles,12/18/2016,BAL,Loss, 26-27,1,5,pass,Kamar Aiken,2016
-32,33,Eagles,12/18/2016,BAL,Loss, 26-27,2,34,pass,Steve Smith Sr.,2016
-33,34,Eagles,12/18/2016,BAL,Loss, 26-27,4,16,rush,Kenneth Dixon,2016
-34,35,Eagles,12/22/2016,NYG,Win, 24-19,2,13,pass,Sterling Shepard,2016
-35,36,Eagles,01/01/2017,DAL,Win, 27-13,2,3,pass,Terrance Williams,2016
+,Rank,Team,Date,Opponent,Win/Loss,Home_Score,Opponenet_Score,Quarter,Distance,Type,Detail
+1,1,Eagles,2016-09-11,CLE,Win,29,10,2,2,rush,Isaiah Crowell
+2,2,Eagles,2016-09-19,CHI,Win,29,14,2,1,rush,Jeremy Langford
+3,3,Eagles,2016-09-19,CHI,Win,29,14,4,65,punt,Eddie Royal
+4,4,Eagles,2016-10-09,DET,Loss,23,24,1,1,pass,Theo Riddick
+5,5,Eagles,2016-10-09,DET,Loss,23,24,1,17,pass,Theo Riddick
+6,6,Eagles,2016-10-09,DET,Loss,23,24,2,1,pass,Marvin Jones
+7,7,Eagles,2016-10-16,WAS,Loss,20,27,1,16,pass,Jamison Crowder
+8,8,Eagles,2016-10-16,WAS,Loss,20,27,2,13,pass,Vernon Davis
+9,9,Eagles,2016-10-16,WAS,Loss,20,27,2,1,rush,Matt Jones
+10,10,Eagles,2016-10-23,MIN,Win,21,10,4,14,pass,Cordarrelle Patterson
+11,11,Eagles,2016-10-30,DAL,Loss,23,29,1,7,rush,Dak Prescott
+12,12,Eagles,2016-10-30,DAL,Loss,23,29,4,22,pass,Dez Bryant
+13,13,Eagles,2016-10-30,DAL,Loss,23,29,5,5,pass,Jason Witten
+14,14,Eagles,2016-11-06,NYG,Loss,23,28,1,26,pass,Odell Beckham Jr.
+15,15,Eagles,2016-11-06,NYG,Loss,23,28,1,30,pass,Roger Lewis
+16,16,Eagles,2016-11-06,NYG,Loss,23,28,2,1,pass,Odell Beckham Jr.
+17,17,Eagles,2016-11-06,NYG,Loss,23,28,3,32,pass,Sterling Shepard
+18,18,Eagles,2016-11-13,ATL,Win,24,15,4,76,pass,Taylor Gabriel
+19,19,Eagles,2016-11-20,SEA,Loss,15,26,1,72,rush,C.J. Prosise
+20,20,Eagles,2016-11-20,SEA,Loss,15,26,2,35,pass,Jimmy Graham
+21,21,Eagles,2016-11-20,SEA,Loss,15,26,3,15,pass,Russell Wilson
+22,22,Eagles,2016-11-28,GNB,Loss,13,27,1,12,pass,Davante Adams
+23,23,Eagles,2016-11-28,GNB,Loss,13,27,2,20,pass,Davante Adams
+24,24,Eagles,2016-11-28,GNB,Loss,13,27,4,1,rush,Aaron Ripkowski
+25,25,Eagles,2016-12-04,CIN,Loss,14,32,1,2,rush,Jeremy Hill
+26,26,Eagles,2016-12-04,CIN,Loss,14,32,2,13,pass,Tyler Eifert
+27,27,Eagles,2016-12-04,CIN,Loss,14,32,3,8,pass,Brandon LaFell
+28,28,Eagles,2016-12-11,WAS,Loss,22,27,2,22,rush,Robert Kelley
+29,29,Eagles,2016-12-11,WAS,Loss,22,27,3,80,pass,DeSean Jackson
+30,30,Eagles,2016-12-11,WAS,Loss,22,27,3,15,pass,Pierre Garcon
+31,31,Eagles,2016-12-11,WAS,Loss,22,27,4,25,rush,Chris Thompson
+32,32,Eagles,2016-12-18,BAL,Loss,26,27,1,5,pass,Kamar Aiken
+33,33,Eagles,2016-12-18,BAL,Loss,26,27,2,34,pass,Steve Smith Sr.
+34,34,Eagles,2016-12-18,BAL,Loss,26,27,4,16,rush,Kenneth Dixon
+35,35,Eagles,2016-12-22,NYG,Win,24,19,2,13,pass,Sterling Shepard
+36,36,Eagles,2017-01-01,DAL,Win,27,13,2,3,pass,Terrance Williams

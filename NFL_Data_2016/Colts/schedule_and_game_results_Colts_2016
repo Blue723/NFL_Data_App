@@ -1,18 +1,17 @@
-,Week,Team,Day,Date,Time,Win/Loss,Overtime,Team Record,Home/Away,Opponent,Points Scored,Points Allowed,Offense 1st Down,Total Yards Gained of Offense,Total yards Gained by Passing,Total Yards Gained by Rushing,Offense Turnovers,Defense 1st Down,Total Yards Allowed by Defense,Total Passing Yards Allowed by Defense,Total Rushing Yards Allowed by Defense,Defense Turnovers,Offense,Defense,Sp. Tms,Year
-0,0,Colts,Sun,September 11,,L,0,0-1,home,Detroit Lions,35,39,25,450,368,82,0,28,448,332,116,0,23.5,-26.0,-1.43,2016
-1,1,Colts,Sun,September 18,,L,0,0-2,away,Denver Broncos,20,34,19,253,170,83,2,24,400,266,134,1,-9.66,-12.3,9.6,2016
-2,2,Colts,Sun,September 25,,W,0,1-2,home,San Diego Chargers,26,22,24,410,317,93,2,17,352,315,37,3,-2.59,4.64,4.12,2016
-3,3,Colts,Sun,October 2,,L,0,1-3,away,Jacksonville Jaguars,27,30,23,284,190,94,1,23,331,195,136,0,1.26,-12.99,2.11,2016
-4,4,Colts,Sun,October 9,,W,0,2-3,home,Chicago Bears,29,23,20,396,298,98,0,25,522,397,125,1,7.58,-11.01,9.67,2016
-5,5,1,1,1,1.0,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1.0,1.0,1.0,1
-6,6,Colts,Sun,October 23,,W,0,3-4,away,Tennessee Titans,34,26,26,422,341,81,0,26,331,207,124,1,16.76,-9.56,2.64,2016
-7,7,Colts,Sun,October 30,,L,0,3-5,home,Kansas City Chiefs,14,30,18,277,172,105,2,20,422,334,88,0,-9.55,-10.8,3.36,2016
-8,8,Colts,Sun,November 6,,W,0,4-5,away,Green Bay Packers,31,26,22,355,270,85,2,25,405,289,116,1,6.72,-10.86,11.14,2016
-9,9,Colts,,,,,0,,home,<strong>Bye Week</strong>,0,0,0,0,0,0,0,0,0,0,0,0,,,,2016
-10,10,Colts,Sun,November 20,,W,0,5-5,home,Tennessee Titans,24,17,18,327,251,76,1,20,351,254,97,0,11.39,-1.72,-3.98,2016
-11,11,Colts,Thu,November 24,,L,0,5-6,home,Pittsburgh Steelers,7,28,18,310,219,91,2,16,369,221,148,0,-1.12,-17.02,0.14,2016
-12,12,Colts,Mon,December 5,,W,0,6-6,away,New York Jets,41,10,27,421,282,139,1,13,250,214,36,3,16.81,14.52,1.93,2016
-13,13,Colts,Sun,December 11,,L,0,6-7,home,Houston Texans,17,22,21,348,265,83,3,20,316,131,185,1,0.99,1.32,-6.94,2016
-14,14,Colts,Sun,December 18,,W,0,7-7,away,Minnesota Vikings,34,6,27,411,250,161,0,20,282,248,34,3,15.82,10.26,0.3,2016
-15,15,Colts,Sat,December 24,,L,0,7-8,away,Oakland Raiders,25,33,20,390,288,102,3,27,463,253,210,0,6.9,-19.38,4.73,2016
-16,16,Colts,Sun,January 1,,W,0,8-8,home,Jacksonville Jaguars,24,20,24,384,290,94,2,23,470,288,182,2,2.15,-5.55,4.42,2016
+,Week,Day,Date,Time,Win/Loss,Overtime,Team Record,Home/Away,Opponent,Points Scored,Points Allowed,Offense 1st Down,Total Yards Gained of Offense,Total yards Gained by Passing,Total Yards Gained by Rushing,Offense Turnovers,Defense 1st Down,Total Yards Allowed by Defense,Total Passing Yards Allowed by Defense,Total Rushing Yards Allowed by Defense,Defense Turnovers,Offense,Defense,Sp. Tms,Team,Year
+0,1,Sun,2016-09-11,nan,Loss,0,0-1,home,Detroit Lions,35,39,25,450,368,82,0,28,448,332,116,0,23.5,-26.0,-1.43,Colts,2016
+1,2,Sun,2016-09-18,nan,Loss,0,0-2,away,Denver Broncos,20,34,19,253,170,83,2,24,400,266,134,1,-9.66,-12.3,9.6,Colts,2016
+2,3,Sun,2016-09-25,nan,Win,0,1-2,home,San Diego Chargers,26,22,24,410,317,93,2,17,352,315,37,3,-2.59,4.64,4.12,Colts,2016
+3,4,Sun,2016-10-02,nan,Loss,0,1-3,away,Jacksonville Jaguars,27,30,23,284,190,94,1,23,331,195,136,0,1.26,-12.99,2.11,Colts,2016
+4,5,Sun,2016-10-09,nan,Win,0,2-3,home,Chicago Bears,29,23,20,396,298,98,0,25,522,397,125,1,7.58,-11.01,9.67,Colts,2016
+5,6,Sun,2016-10-16,nan,Loss,1,2-4,away,Houston Texans,23,26,19,392,231,161,1,26,414,256,158,1,2.34,-9.63,5.89,Colts,2016
+6,7,Sun,2016-10-23,nan,Win,0,3-4,away,Tennessee Titans,34,26,26,422,341,81,0,26,331,207,124,1,16.76,-9.56,2.64,Colts,2016
+7,8,Sun,2016-10-30,nan,Loss,0,3-5,home,Kansas City Chiefs,14,30,18,277,172,105,2,20,422,334,88,0,-9.55,-10.8,3.36,Colts,2016
+8,9,Sun,2016-11-06,nan,Win,0,4-5,away,Green Bay Packers,31,26,22,355,270,85,2,25,405,289,116,1,6.72,-10.86,11.14,Colts,2016
+9,11,Sun,2016-11-20,nan,Win,0,5-5,home,Tennessee Titans,24,17,18,327,251,76,1,20,351,254,97,0,11.39,-1.72,-3.98,Colts,2016
+10,12,Thu,2016-11-24,nan,Loss,0,5-6,home,Pittsburgh Steelers,7,28,18,310,219,91,2,16,369,221,148,0,-1.12,-17.02,0.14,Colts,2016
+11,13,Mon,2016-12-05,nan,Win,0,6-6,away,New York Jets,41,10,27,421,282,139,1,13,250,214,36,3,16.81,14.52,1.93,Colts,2016
+12,14,Sun,2016-12-11,nan,Loss,0,6-7,home,Houston Texans,17,22,21,348,265,83,3,20,316,131,185,1,0.99,1.32,-6.94,Colts,2016
+13,15,Sun,2016-12-18,nan,Win,0,7-7,away,Minnesota Vikings,34,6,27,411,250,161,0,20,282,248,34,3,15.82,10.26,0.3,Colts,2016
+14,16,Sat,2016-12-24,nan,Loss,0,7-8,away,Oakland Raiders,25,33,20,390,288,102,3,27,463,253,210,0,6.9,-19.38,4.73,Colts,2016
+15,17,Sun,2017-01-01,nan,Win,0,8-8,home,Jacksonville Jaguars,24,20,24,384,290,94,2,23,470,288,182,2,2.15,-5.55,4.42,Colts,2016

@@ -1,36 +1,36 @@
-,Rank,Team,Date,Opponent,Win/Loss,Score,Quarter,Distance,Type,Detail,Year
-0,1,Bengals,09/11/2016,NYJ,Win, 23-22,2,54,pass,A.J. Green,2016
-1,2,Bengals,09/11/2016,NYJ,Win, 23-22,3,12,rush,Jeremy Hill,2016
-2,3,Bengals,09/18/2016,PIT,Loss, 16-24,4,25,pass,Giovani Bernard,2016
-3,4,Bengals,09/25/2016,DEN,Loss, 17-29,1,3,rush,Jeremy Hill,2016
-4,5,Bengals,09/25/2016,DEN,Loss, 17-29,2,4,rush,Jeremy Hill,2016
-5,6,Bengals,09/29/2016,MIA,Win, 22-7,1,7,pass,A.J. Green,2016
-6,7,Bengals,10/09/2016,DAL,Loss, 14-28,4,7,pass,Brandon LaFell,2016
-7,8,Bengals,10/09/2016,DAL,Loss, 14-28,4,5,pass,Brandon LaFell,2016
-8,9,Bengals,10/16/2016,NWE,Loss, 17-35,2,2,rush,Andy Dalton,2016
-9,10,Bengals,10/16/2016,NWE,Loss, 17-35,3,5,pass,Brandon LaFell,2016
-10,11,Bengals,10/23/2016,CLE,Win, 31-17,1,5,rush,Giovani Bernard,2016
-11,12,Bengals,10/23/2016,CLE,Win, 31-17,2,44,pass,Brandon LaFell,2016
-12,13,Bengals,10/23/2016,CLE,Win, 31-17,2,48,pass,A.J. Green,2016
-13,14,Bengals,10/23/2016,CLE,Win, 31-17,3,74,rush,Jeremy Hill,2016
-14,15,Bengals,10/30/2016,WAS,T, 27-27,1,8,rush,Giovani Bernard,2016
-15,16,Bengals,10/30/2016,WAS,T, 27-27,3,15,pass,Tyler Eifert,2016
-16,17,Bengals,10/30/2016,WAS,T, 27-27,3,1,rush,Andy Dalton,2016
-17,18,Bengals,10/30/2016,WAS,T, 27-27,4,1,rush,Jeremy Hill,2016
-18,19,Bengals,11/14/2016,NYG,Loss, 20-21,1,13,pass,A.J. Green,2016
-19,20,Bengals,11/14/2016,NYG,Loss, 20-21,3,9,rush,Jeremy Hill,2016
-20,21,Bengals,11/20/2016,BUF,Loss, 12-16,1,2,rush,Andy Dalton,2016
-21,22,Bengals,11/20/2016,BUF,Loss, 12-16,2,1,pass,Tyler Boyd,2016
-22,23,Bengals,11/27/2016,BAL,Loss, 14-19,3,3,pass,Tyler Eifert,2016
-23,24,Bengals,12/04/2016,PHI,Win, 32-14,1,2,rush,Jeremy Hill,2016
-24,25,Bengals,12/04/2016,PHI,Win, 32-14,2,13,pass,Tyler Eifert,2016
-25,26,Bengals,12/04/2016,PHI,Win, 32-14,3,8,pass,Brandon LaFell,2016
-26,27,Bengals,12/11/2016,CLE,Win, 23-10,1,14,pass,Tyler Eifert,2016
-27,28,Bengals,12/11/2016,CLE,Win, 23-10,1,1,rush,Jeremy Hill,2016
-28,29,Bengals,12/11/2016,CLE,Win, 23-10,2,5,pass,Tyler Eifert,2016
-29,30,Bengals,12/18/2016,PIT,Loss, 20-24,1,1,rush,Andy Dalton,2016
-30,31,Bengals,12/18/2016,PIT,Loss, 20-24,2,4,rush,Jeremy Hill,2016
-31,32,Bengals,12/24/2016,HOU,Loss, 10-12,4,86,pass,Brandon LaFell,2016
-32,33,Bengals,01/01/2017,BAL,Win, 27-10,1,5,rush,Rex Burkhead,2016
-33,34,Bengals,01/01/2017,BAL,Win, 27-10,1,1,pass,C.J. Uzomah,2016
-34,35,Bengals,01/01/2017,BAL,Win, 27-10,4,5,rush,Rex Burkhead,2016
+,Rank,Team,Date,Opponent,Win/Loss,Home_Score,Opponenet_Score,Quarter,Distance,Type,Detail
+1,1,Bengals,2016-09-11,NYJ,Win,23,22,2,54,pass,A.J. Green
+2,2,Bengals,2016-09-11,NYJ,Win,23,22,3,12,rush,Jeremy Hill
+3,3,Bengals,2016-09-18,PIT,Loss,16,24,4,25,pass,Giovani Bernard
+4,4,Bengals,2016-09-25,DEN,Loss,17,29,1,3,rush,Jeremy Hill
+5,5,Bengals,2016-09-25,DEN,Loss,17,29,2,4,rush,Jeremy Hill
+6,6,Bengals,2016-09-29,MIA,Win,22,7,1,7,pass,A.J. Green
+7,7,Bengals,2016-10-09,DAL,Loss,14,28,4,7,pass,Brandon LaFell
+8,8,Bengals,2016-10-09,DAL,Loss,14,28,4,5,pass,Brandon LaFell
+9,9,Bengals,2016-10-16,NWE,Loss,17,35,2,2,rush,Andy Dalton
+10,10,Bengals,2016-10-16,NWE,Loss,17,35,3,5,pass,Brandon LaFell
+11,11,Bengals,2016-10-23,CLE,Win,31,17,1,5,rush,Giovani Bernard
+12,12,Bengals,2016-10-23,CLE,Win,31,17,2,44,pass,Brandon LaFell
+13,13,Bengals,2016-10-23,CLE,Win,31,17,2,48,pass,A.J. Green
+14,14,Bengals,2016-10-23,CLE,Win,31,17,3,74,rush,Jeremy Hill
+15,15,Bengals,2016-10-30,WAS,T,27,27,1,8,rush,Giovani Bernard
+16,16,Bengals,2016-10-30,WAS,T,27,27,3,15,pass,Tyler Eifert
+17,17,Bengals,2016-10-30,WAS,T,27,27,3,1,rush,Andy Dalton
+18,18,Bengals,2016-10-30,WAS,T,27,27,4,1,rush,Jeremy Hill
+19,19,Bengals,2016-11-14,NYG,Loss,20,21,1,13,pass,A.J. Green
+20,20,Bengals,2016-11-14,NYG,Loss,20,21,3,9,rush,Jeremy Hill
+21,21,Bengals,2016-11-20,BUF,Loss,12,16,1,2,rush,Andy Dalton
+22,22,Bengals,2016-11-20,BUF,Loss,12,16,2,1,pass,Tyler Boyd
+23,23,Bengals,2016-11-27,BAL,Loss,14,19,3,3,pass,Tyler Eifert
+24,24,Bengals,2016-12-04,PHI,Win,32,14,1,2,rush,Jeremy Hill
+25,25,Bengals,2016-12-04,PHI,Win,32,14,2,13,pass,Tyler Eifert
+26,26,Bengals,2016-12-04,PHI,Win,32,14,3,8,pass,Brandon LaFell
+27,27,Bengals,2016-12-11,CLE,Win,23,10,1,14,pass,Tyler Eifert
+28,28,Bengals,2016-12-11,CLE,Win,23,10,1,1,rush,Jeremy Hill
+29,29,Bengals,2016-12-11,CLE,Win,23,10,2,5,pass,Tyler Eifert
+30,30,Bengals,2016-12-18,PIT,Loss,20,24,1,1,rush,Andy Dalton
+31,31,Bengals,2016-12-18,PIT,Loss,20,24,2,4,rush,Jeremy Hill
+32,32,Bengals,2016-12-24,HOU,Loss,10,12,4,86,pass,Brandon LaFell
+33,33,Bengals,2017-01-01,BAL,Win,27,10,1,5,rush,Rex Burkhead
+34,34,Bengals,2017-01-01,BAL,Win,27,10,1,1,pass,C.J. Uzomah
+35,35,Bengals,2017-01-01,BAL,Win,27,10,4,5,rush,Rex Burkhead

@@ -1,5 +1,5 @@
-,No.,Team,Player,Age,Position,Games Played,Games Started,Punts Returned,Punts Return Yardage,Punts Returned for Touchdown,Longest Punt Return,Yards per Punt Return,Kickoff Returns,Yardage for Kickoffs Returned,Kickoffs Returned for a Touchdown,Longest Kickoff Return,Yards per Kickoff Return,All-purpose Yards,Year
-0,17,Giants,Dwayne Harris,29,WR,16,1,29,170,0,17,5.9,22,533,0,46,24.2,716,2016
-1,43,Giants,Bobby Rainey,29,RB,15,0,6,39,0,15,6.5,8,204,0,38,25.5,459,2016
-2,13,Giants,Odell Beckham Jr.,24,WR,16,16,10,66,0,19,6.6,0,0,0,0,,1442,2016
-3,94,Giants,Mark Herzlich,29,LB,14,0,0,0,0,0,,1,2,0,2,2.0,2,2016
+,No.,Player,Age,Position,Games Played,Games Started,Punts Returned,Punts Return Yardage,Punts Returned for Touchdown,Longest Punt Return,Yards per Punt Return,Kickoff Returns,Yardage for Kickoffs Returned,Kickoffs Returned for a Touchdown,Longest Kickoff Return,Yards per Kickoff Return,All-purpose Yards,Team,Year
+17,17,Dwayne Harris,29,WR,16,1,29,170,0,17,5.9,22,533,0,46,24.2,716,Giants,2016
+43,43,Bobby Rainey,29,RB,15,0,6,39,0,15,6.5,8,204,0,38,25.5,459,Giants,2016
+13,13,Odell Beckham Jr.,24,WR,16,16,10,66,0,19,6.6,0,0,0,0,0.0,1442,Giants,2016
+94,94,Mark Herzlich,29,LB,14,0,0,0,0,0,0.0,1,2,0,2,2.0,2,Giants,2016

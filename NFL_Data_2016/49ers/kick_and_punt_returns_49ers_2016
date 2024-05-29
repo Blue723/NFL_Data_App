@@ -1,12 +1,12 @@
-,No.,Team,Player,Age,Position,Games Played,Games Started,Punts Returned,Punts Return Yardage,Punts Returned for Touchdown,Longest Punt Return,Yards per Punt Return,Kickoff Returns,Yardage for Kickoffs Returned,Kickoffs Returned for a Touchdown,Longest Kickoff Return,Yards per Kickoff Return,All-purpose Yards,Year
-0,17,49ers,Jeremy Kerley,28,WR,16,13,21,158,0,26,7.5,2,32,0,20,16.0,857,2016
-1,38,49ers,JaCorey Shepherd,23,DB,11,0,0,0,0,0,,21,456,0,41,21.7,456,2016
-2,43,49ers,Chris Davis,26,DB,4,0,0,0,0,0,,6,129,0,26,21.5,129,2016
-3,22,49ers,Mike Davis,23,WR,8,1,0,0,0,0,,2,18,0,12,9.0,93,2016
-4,19,49ers,Keshawn Martin,26,WR,1,0,0,0,0,0,,2,37,0,20,18.5,37,2016
-5,31,49ers,Raheem Mostert,24,RB,1,0,0,33,0,33,,2,35,0,26,17.5,74,2016
-6,13,49ers,Aaron Burbridge,23,WR,16,3,1,0,0,0,0.0,0,0,0,0,,88,2016
-7,32,49ers,DuJuan Harris,28,RB,10,1,0,0,0,0,,1,18,0,18,18.0,271,2016
-8,36,49ers,Dontae Johnson,25,DB,15,0,1,25,0,25,25.0,0,0,0,0,,25,2016
-9,11,49ers,Quinton Patton,26,WR,14,14,0,0,0,0,,1,11,0,11,11.0,419,2016
-10,82,49ers,Torrey Smith,27,WR,12,12,0,0,0,0,,1,13,0,13,13.0,280,2016
+,No.,Player,Age,Position,Games Played,Games Started,Punts Returned,Punts Return Yardage,Punts Returned for Touchdown,Longest Punt Return,Yards per Punt Return,Kickoff Returns,Yardage for Kickoffs Returned,Kickoffs Returned for a Touchdown,Longest Kickoff Return,Yards per Kickoff Return,All-purpose Yards,Team,Year
+17,17,Jeremy Kerley,28,WR,16,13,21,158,0,26,7.5,2,32,0,20,16.0,857,49ers,2016
+38,38,JaCorey Shepherd,23,DB,11,0,0,0,0,0,0.0,21,456,0,41,21.7,456,49ers,2016
+43,43,Chris Davis,26,DB,4,0,0,0,0,0,0.0,6,129,0,26,21.5,129,49ers,2016
+22,22,Mike Davis,23,RB,8,1,0,0,0,0,0.0,2,18,0,12,9.0,93,49ers,2016
+19,19,Keshawn Martin,26,WR,1,0,0,0,0,0,0.0,2,37,0,20,18.5,37,49ers,2016
+31,31,Raheem Mostert,24,RB,1,0,0,33,0,33,0.0,2,35,0,26,17.5,74,49ers,2016
+13,13,Aaron Burbridge,23,WR,16,3,1,0,0,0,0.0,0,0,0,0,0.0,88,49ers,2016
+32,32,DuJuan Harris,28,RB,10,1,0,0,0,0,0.0,1,18,0,18,18.0,271,49ers,2016
+36,36,Dontae Johnson,25,DB,15,0,1,25,0,25,25.0,0,0,0,0,0.0,25,49ers,2016
+11,11,Quinton Patton,26,WR,14,14,0,0,0,0,0.0,1,11,0,11,11.0,419,49ers,2016
+82,82,Torrey Smith,27,WR,12,12,0,0,0,0,0.0,1,13,0,13,13.0,280,49ers,2016

@@ -1,37 +1,37 @@
-,Rank,Team,Date,Opponent,Win/Loss,Score,Quarter,Distance,Type,Detail,Year
-0,1,Giants,09/11/2016,DAL,Win, 20-19,2,15,pass,Larry Donnell,2016
-1,2,Giants,09/11/2016,DAL,Win, 20-19,2,9,pass,Sterling Shepard,2016
-2,3,Giants,09/11/2016,DAL,Win, 20-19,4,3,pass,Victor Cruz,2016
-3,4,Giants,09/18/2016,NOR,Win, 16-13,2,65,blocked field goal,Jackrabbit Jenkins,2016
-4,5,Giants,09/25/2016,WAS,Loss, 27-29,1,1,rush,Shane Vereen,2016
-5,6,Giants,09/25/2016,WAS,Loss, 27-29,1,23,pass,Sterling Shepard,2016
-6,7,Giants,09/25/2016,WAS,Loss, 27-29,2,2,rush,Orleans Darkwa,2016
-7,8,Giants,10/03/2016,MIN,Loss, 10-24,4,1,rush,Orleans Darkwa,2016
-8,9,Giants,10/09/2016,GNB,Loss, 16-23,4,8,pass,Odell Beckham Jr.,2016
-9,10,Giants,10/16/2016,BAL,Win, 27-23,2,24,pass,Roger Lewis,2016
-10,11,Giants,10/16/2016,BAL,Win, 27-23,3,75,pass,Odell Beckham Jr.,2016
-11,12,Giants,10/16/2016,BAL,Win, 27-23,4,66,pass,Odell Beckham Jr.,2016
-12,13,Giants,10/23/2016,LAR,Win, 17-10,2,44,interception,Landon Collins,2016
-13,14,Giants,10/23/2016,LAR,Win, 17-10,4,1,rush,Rashad Jennings,2016
-14,15,Giants,11/06/2016,PHI,Win, 28-23,1,26,pass,Odell Beckham Jr.,2016
-15,16,Giants,11/06/2016,PHI,Win, 28-23,1,30,pass,Roger Lewis,2016
-16,17,Giants,11/06/2016,PHI,Win, 28-23,2,1,pass,Odell Beckham Jr.,2016
-17,18,Giants,11/06/2016,PHI,Win, 28-23,3,32,pass,Sterling Shepard,2016
-18,19,Giants,11/14/2016,CIN,Win, 21-20,1,10,pass,Jerell Adams,2016
-19,20,Giants,11/14/2016,CIN,Win, 21-20,2,10,pass,Odell Beckham Jr.,2016
-20,21,Giants,11/14/2016,CIN,Win, 21-20,4,3,pass,Sterling Shepard,2016
-21,22,Giants,11/20/2016,CHI,Win, 22-16,1,2,rush,Rashad Jennings,2016
-22,23,Giants,11/20/2016,CHI,Win, 22-16,3,9,pass,Will Tye,2016
-23,24,Giants,11/20/2016,CHI,Win, 22-16,3,15,pass,Sterling Shepard,2016
-24,25,Giants,11/27/2016,CLE,Win, 27-13,2,13,pass,Dwayne Harris,2016
-25,26,Giants,11/27/2016,CLE,Win, 27-13,2,32,pass,Odell Beckham Jr.,2016
-26,27,Giants,11/27/2016,CLE,Win, 27-13,4,43,fumble,Jason Pierre-Paul,2016
-27,28,Giants,11/27/2016,CLE,Win, 27-13,4,4,pass,Odell Beckham Jr.,2016
-28,29,Giants,12/04/2016,PIT,Loss, 14-24,3,13,pass,Rashad Jennings,2016
-29,30,Giants,12/04/2016,PIT,Loss, 14-24,4,1,pass,Sterling Shepard,2016
-30,31,Giants,12/11/2016,DAL,Win, 10-7,3,61,pass,Odell Beckham Jr.,2016
-31,32,Giants,12/18/2016,DET,Win, 17-6,1,6,pass,Sterling Shepard,2016
-32,33,Giants,12/18/2016,DET,Win, 17-6,4,4,pass,Odell Beckham Jr.,2016
-33,34,Giants,12/22/2016,PHI,Loss, 19-24,2,13,pass,Sterling Shepard,2016
-34,35,Giants,01/01/2017,WAS,Win, 19-10,2,2,rush,Rashad Jennings,2016
-35,36,Giants,01/01/2017,WAS,Win, 19-10,4,11,fumble,Trevin Wade,2016
+,Rank,Team,Date,Opponent,Win/Loss,Home_Score,Opponenet_Score,Quarter,Distance,Type,Detail
+1,1,Giants,2016-09-11,DAL,Win,20,19,2,15,pass,Larry Donnell
+2,2,Giants,2016-09-11,DAL,Win,20,19,2,9,pass,Sterling Shepard
+3,3,Giants,2016-09-11,DAL,Win,20,19,4,3,pass,Victor Cruz
+4,4,Giants,2016-09-18,NOR,Win,16,13,2,65,blocked field goal,Jackrabbit Jenkins
+5,5,Giants,2016-09-25,WAS,Loss,27,29,1,1,rush,Shane Vereen
+6,6,Giants,2016-09-25,WAS,Loss,27,29,1,23,pass,Sterling Shepard
+7,7,Giants,2016-09-25,WAS,Loss,27,29,2,2,rush,Orleans Darkwa
+8,8,Giants,2016-10-03,MIN,Loss,10,24,4,1,rush,Orleans Darkwa
+9,9,Giants,2016-10-09,GNB,Loss,16,23,4,8,pass,Odell Beckham Jr.
+10,10,Giants,2016-10-16,BAL,Win,27,23,2,24,pass,Roger Lewis
+11,11,Giants,2016-10-16,BAL,Win,27,23,3,75,pass,Odell Beckham Jr.
+12,12,Giants,2016-10-16,BAL,Win,27,23,4,66,pass,Odell Beckham Jr.
+13,13,Giants,2016-10-23,LAR,Win,17,10,2,44,interception,Landon Collins
+14,14,Giants,2016-10-23,LAR,Win,17,10,4,1,rush,Rashad Jennings
+15,15,Giants,2016-11-06,PHI,Win,28,23,1,26,pass,Odell Beckham Jr.
+16,16,Giants,2016-11-06,PHI,Win,28,23,1,30,pass,Roger Lewis
+17,17,Giants,2016-11-06,PHI,Win,28,23,2,1,pass,Odell Beckham Jr.
+18,18,Giants,2016-11-06,PHI,Win,28,23,3,32,pass,Sterling Shepard
+19,19,Giants,2016-11-14,CIN,Win,21,20,1,10,pass,Jerell Adams
+20,20,Giants,2016-11-14,CIN,Win,21,20,2,10,pass,Odell Beckham Jr.
+21,21,Giants,2016-11-14,CIN,Win,21,20,4,3,pass,Sterling Shepard
+22,22,Giants,2016-11-20,CHI,Win,22,16,1,2,rush,Rashad Jennings
+23,23,Giants,2016-11-20,CHI,Win,22,16,3,9,pass,Will Tye
+24,24,Giants,2016-11-20,CHI,Win,22,16,3,15,pass,Sterling Shepard
+25,25,Giants,2016-11-27,CLE,Win,27,13,2,13,pass,Dwayne Harris
+26,26,Giants,2016-11-27,CLE,Win,27,13,2,32,pass,Odell Beckham Jr.
+27,27,Giants,2016-11-27,CLE,Win,27,13,4,43,fumble,Jason Pierre-Paul
+28,28,Giants,2016-11-27,CLE,Win,27,13,4,4,pass,Odell Beckham Jr.
+29,29,Giants,2016-12-04,PIT,Loss,14,24,3,13,pass,Rashad Jennings
+30,30,Giants,2016-12-04,PIT,Loss,14,24,4,1,pass,Sterling Shepard
+31,31,Giants,2016-12-11,DAL,Win,10,7,3,61,pass,Odell Beckham Jr.
+32,32,Giants,2016-12-18,DET,Win,17,6,1,6,pass,Sterling Shepard
+33,33,Giants,2016-12-18,DET,Win,17,6,4,4,pass,Odell Beckham Jr.
+34,34,Giants,2016-12-22,PHI,Loss,19,24,2,13,pass,Sterling Shepard
+35,35,Giants,2017-01-01,WAS,Win,19,10,2,2,rush,Rashad Jennings
+36,36,Giants,2017-01-01,WAS,Win,19,10,4,11,fumble,Trevin Wade

@@ -1,13 +1,13 @@
-,No.,Team,Player,Age,Pos,Games Played,Games Started,Rush TD,Reception TD,Punt Return TD,Kick Return TD,Fumble Return TD,Interception TD,Other TD,All Touchdown Scored,2-Point Conversions Made,Two-Point Conversions Attempted,Defensive Two-Point Conversions,Extra Points Made,Extra Points Allowed,Field Goals Made,Field Goals Attempted,Safeties Scored by Player/Team,Total Points Scored by all Means,Poins per Game,Year
-0,4,49ers,Phil Dawson,41,K,16,0,0,0,0,0,0,0,0,0,0,0,0,33,34,18,21,,87,5.4,2016
-1,28,49ers,Carlos Hyde,26,RB,13,13,6,3,0,0,0,0,0,9,1,0,0,0,0,0,0,,56,4.3,2016
-2,24,49ers,Shaun Draughn,29,RB,16,1,4,2,0,0,0,0,0,6,0,0,0,0,0,0,0,,36,2.3,2016
-3,89,49ers,Vance McDonald,26,WR,11,11,0,4,0,0,0,0,0,4,0,0,0,0,0,0,0,,24,2.2,2016
-4,88,49ers,Garrett Celek,28,TE,16,6,0,3,0,0,0,0,0,3,0,0,0,0,0,0,0,,18,1.1,2016
-5,17,49ers,Jeremy Kerley,28,WR,16,13,0,3,0,0,0,0,0,3,0,0,0,0,0,0,0,,18,1.1,2016
-6,82,49ers,Torrey Smith,27,WR,12,12,0,3,0,0,0,0,0,3,0,0,0,0,0,0,0,,18,1.5,2016
-7,7,49ers,Colin Kaepernick,29,QB,12,11,2,0,0,0,0,0,0,2,1,0,0,0,0,0,0,,14,1.2,2016
-8,2,49ers,Blaine Gabbert,27,QB,6,5,2,0,0,0,0,0,0,2,0,0,0,0,0,0,0,,12,2.0,2016
-9,81,49ers,Rod Streater,28,WR,16,2,0,2,0,0,0,0,0,2,0,0,0,0,0,0,0,,12,0.8,2016
-10,22,49ers,Mike Davis,23,WR,8,1,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,,6,0.8,2016
-11,32,49ers,DuJuan Harris,28,RB,10,1,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,,6,0.6,2016
+,No.,Player,Age,Pos,Games Played,Games Started,Rush TD,Reception TD,Punt Return TD,Kick Return TD,Fumble Return TD,Interception TD,Other TD,All Touchdown Scored,2-Point Conversions Made,Two-Point Conversions Attempted,Defensive Two-Point Conversions,Extra Points Made,Extra Points Allowed,Field Goals Made,Field Goals Attempted,Safeties Scored by Player/Team,Total Points Scored by all Means,Poins per Game,Team,Year
+4,4,Phil Dawson,41,K,16,0,0,0,0,0,0,0,0,0,0,0,0,33,34,18,21,0,87,5.4,49ers,2016
+28,28,Carlos Hyde,26,RB,13,13,6,3,0,0,0,0,0,9,1,0,0,0,0,0,0,0,56,4.3,49ers,2016
+24,24,Shaun Draughn,29,RB,16,1,4,2,0,0,0,0,0,6,0,0,0,0,0,0,0,0,36,2.3,49ers,2016
+89,89,Vance McDonald,26,WR,11,11,0,4,0,0,0,0,0,4,0,0,0,0,0,0,0,0,24,2.2,49ers,2016
+88,88,Garrett Celek,28,TE,16,6,0,3,0,0,0,0,0,3,0,0,0,0,0,0,0,0,18,1.1,49ers,2016
+17,17,Jeremy Kerley,28,WR,16,13,0,3,0,0,0,0,0,3,0,0,0,0,0,0,0,0,18,1.1,49ers,2016
+82,82,Torrey Smith,27,WR,12,12,0,3,0,0,0,0,0,3,0,0,0,0,0,0,0,0,18,1.5,49ers,2016
+7,7,Colin Kaepernick,29,QB,12,11,2,0,0,0,0,0,0,2,1,0,0,0,0,0,0,0,14,1.2,49ers,2016
+2,2,Blaine Gabbert,27,QB,6,5,2,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,12,2.0,49ers,2016
+81,81,Rod Streater,28,WR,16,2,0,2,0,0,0,0,0,2,0,0,0,0,0,0,0,0,12,0.8,49ers,2016
+22,22,Mike Davis,23,RB,8,1,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,6,0.8,49ers,2016
+32,32,DuJuan Harris,28,RB,10,1,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,6,0.6,49ers,2016

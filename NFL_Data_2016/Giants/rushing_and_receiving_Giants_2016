@@ -1,16 +1,16 @@
-,No.,Team,Player,Age,Position,Games Played,Games Started as an Offensive or Defensive Player,Rushing Attempts,Rushing Yards Gained,Rushing Touchdown,First Downs Rushing,Rushing Success Rate,Longest Rushing Attempt,Rushing Yards per Attempt,Rushing Yards per Game,Rushing Attempts per Game,Pass Targets,Receptions,Receiving Yards,Receiving Yards per Reception,Receiving Touchdowns,First Downs Receiving,Receiving Success Rate,Longest Reception,Receptions per Game,Receiving Yards per Game,Catch Per.,Receiving Yards per Target,Touches: Rushing Attempts and Receptions,Scrimmage Yards per Touch: Rushing + Receiving Yardage per Opportunity,Yards from Scrimmage: Receiving and Rushing Yards,Rushing and Receiving Touchdowns,Lost and Recovered Fumbles,Year
-0,23,Giants,Rashad Jennings,31,RB,13,12,181,593,3,29,36.5,25,3.3,45.6,13.9,42,35,201,5.7,1,8,35.7,24,2.7,15.5,83.3,4.8,216,3.7,794,4,1,2016
-1,28,Giants,Paul Perkins,22,RB,14,1,112,456,0,24,43.8,22,4.1,32.6,8.0,24,15,162,10.8,0,6,33.3,67,1.1,11.6,62.5,6.8,127,4.9,618,0,1,2016
-2,34,Giants,Shane Vereen,27,RB,5,1,33,158,1,9,45.5,25,4.8,31.6,6.6,19,11,94,8.5,0,4,31.6,16,2.2,18.8,57.9,4.9,44,5.7,252,1,2,2016
-3,26,Giants,Orleans Darkwa,24,RB,10,2,30,111,2,7,40.0,17,3.7,11.1,3.0,4,2,12,6.0,0,0,25.0,9,0.2,1.2,50.0,3.0,32,3.8,123,2,0,2016
-4,10,Giants,Eli Manning,35,QB,16,16,21,-9,0,2,9.5,6,-0.4,-0.6,1.3,0,0,0,,0,0,,0,,,0.0,,21,-0.4,-9,0,7,2016
-5,43,Giants,Bobby Rainey,29,RB,15,0,17,63,0,4,52.9,14,3.7,4.2,1.1,25,20,153,7.7,0,7,44.0,24,1.3,10.2,80.0,6.1,37,5.8,216,0,1,2016
-6,87,Giants,Sterling Shepard,23,WR,16,16,3,31,0,1,66.7,22,10.3,1.9,0.2,105,65,683,10.5,8,42,49.5,32,4.1,42.7,61.9,6.5,68,10.5,714,8,0,2016
-7,13,Giants,Odell Beckham Jr.,24,WR,16,16,1,9,0,0,100.0,9,9.0,0.6,0.1,169,101,1367,13.5,10,66,49.7,75,6.3,85.4,59.8,8.1,102,13.5,1376,10,3,2016
-8,45,Giants,Will Tye,25,TE,16,10,0,0,0,0,,0,,,,70,48,395,8.2,1,16,54.3,27,3.0,24.7,68.6,5.6,48,8.2,395,1,0,2016
-9,80,Giants,Victor Cruz,30,WR,15,12,0,0,0,0,,0,,,,72,39,586,15.0,1,25,47.2,48,2.6,39.1,54.2,8.1,39,15.0,586,1,1,2016
-10,89,Giants,Jerell Adams,24,TE,13,2,0,0,0,0,,0,,,,21,16,122,7.6,1,8,57.1,14,1.2,9.4,76.2,5.8,16,7.6,122,1,1,2016
-11,84,Giants,Larry Donnell,28,TE,14,6,0,0,0,0,,0,,,,22,15,92,6.1,1,3,45.5,15,1.1,6.6,68.2,4.2,15,6.1,92,1,1,2016
-12,82,Giants,Roger Lewis,23,WR,13,1,0,0,0,0,,0,,,,19,7,97,13.9,2,4,31.6,30,0.5,7.5,36.8,5.1,7,13.9,97,2,0,2016
-13,15,Giants,Tavarres King,26,WR,7,0,0,0,0,0,,0,,,,4,2,50,25.0,0,1,25.0,44,0.3,7.1,50.0,12.5,2,25.0,50,0,0,2016
-14,17,Giants,Dwayne Harris,29,WR,16,1,0,0,0,0,,0,,,,1,1,13,13.0,1,1,100.0,13,0.1,0.8,100.0,13.0,1,13.0,13,1,3,2016
+,No.,Player,Age,Position,Games Played,Games Started as an Offensive or Defensive Player,Rushing Attempts,Rushing Yards Gained,Rushing Touchdown,First Downs Rushing,Rushing Success Rate,Longest Rushing Attempt,Rushing Yards per Attempt,Rushing Yards per Game,Rushing Attempts per Game,Pass Targets,Receptions,Receiving Yards,Receiving Yards per Reception,Receiving Touchdowns,First Downs Receiving,Receiving Success Rate,Longest Reception,Receptions per Game,Receiving Yards per Game,Catch Per.,Receiving Yards per Target,Touches: Rushing Attempts and Receptions,Scrimmage Yards per Touch: Rushing + Receiving Yardage per Opportunity,Yards from Scrimmage: Receiving and Rushing Yards,Rushing and Receiving Touchdowns,Lost and Recovered Fumbles,Team,Year
+23,23,Rashad Jennings,31,RB,13,12,181,593,3,29,36.5,25,3.3,45.6,13.9,42,35,201,5.7,1,8,35.7,24,2.7,15.5,83.3,4.8,216,3.7,794,4,1,Giants,2016
+28,28,Paul Perkins,22,RB,14,1,112,456,0,24,43.8,22,4.1,32.6,8.0,24,15,162,10.8,0,6,33.3,67,1.1,11.6,62.5,6.8,127,4.9,618,0,1,Giants,2016
+34,34,Shane Vereen,27,RB,5,1,33,158,1,9,45.5,25,4.8,31.6,6.6,19,11,94,8.5,0,4,31.6,16,2.2,18.8,57.9,4.9,44,5.7,252,1,2,Giants,2016
+26,26,Orleans Darkwa,24,RB,10,2,30,111,2,7,40.0,17,3.7,11.1,3.0,4,2,12,6.0,0,0,25.0,9,0.2,1.2,50.0,3.0,32,3.8,123,2,0,Giants,2016
+10,10,Eli Manning,35,QB,16,16,21,-9,0,2,9.5,6,-0.4,-0.6,1.3,0,0,0,0.0,0,0,0.0,0,0.0,0.0,0.0,0.0,21,-0.4,-9,0,7,Giants,2016
+43,43,Bobby Rainey,29,RB,15,0,17,63,0,4,52.9,14,3.7,4.2,1.1,25,20,153,7.7,0,7,44.0,24,1.3,10.2,80.0,6.1,37,5.8,216,0,1,Giants,2016
+87,87,Sterling Shepard,23,WR,16,16,3,31,0,1,66.7,22,10.3,1.9,0.2,105,65,683,10.5,8,42,49.5,32,4.1,42.7,61.9,6.5,68,10.5,714,8,0,Giants,2016
+13,13,Odell Beckham Jr.,24,WR,16,16,1,9,0,0,100.0,9,9.0,0.6,0.1,169,101,1367,13.5,10,66,49.7,75,6.3,85.4,59.8,8.1,102,13.5,1376,10,3,Giants,2016
+45,45,Will Tye,25,TE,16,10,0,0,0,0,0.0,0,0.0,0.0,0.0,70,48,395,8.2,1,16,54.3,27,3.0,24.7,68.6,5.6,48,8.2,395,1,0,Giants,2016
+80,80,Victor Cruz,30,WR,15,12,0,0,0,0,0.0,0,0.0,0.0,0.0,72,39,586,15.0,1,25,47.2,48,2.6,39.1,54.2,8.1,39,15.0,586,1,1,Giants,2016
+89,89,Jerell Adams,24,TE,13,2,0,0,0,0,0.0,0,0.0,0.0,0.0,21,16,122,7.6,1,8,57.1,14,1.2,9.4,76.2,5.8,16,7.6,122,1,1,Giants,2016
+84,84,Larry Donnell,28,TE,14,6,0,0,0,0,0.0,0,0.0,0.0,0.0,22,15,92,6.1,1,3,45.5,15,1.1,6.6,68.2,4.2,15,6.1,92,1,1,Giants,2016
+82,82,Roger Lewis,23,WR,13,1,0,0,0,0,0.0,0,0.0,0.0,0.0,19,7,97,13.9,2,4,31.6,30,0.5,7.5,36.8,5.1,7,13.9,97,2,0,Giants,2016
+15,15,Tavarres King,26,WR,7,0,0,0,0,0,0.0,0,0.0,0.0,0.0,4,2,50,25.0,0,1,25.0,44,0.3,7.1,50.0,12.5,2,25.0,50,0,0,Giants,2016
+17,17,Dwayne Harris,29,WR,16,1,0,0,0,0,0.0,0,0.0,0.0,0.0,1,1,13,13.0,1,1,100.0,13,0.1,0.8,100.0,13.0,1,13.0,13,1,3,Giants,2016

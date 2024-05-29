@@ -1,7 +1,7 @@
-,No.,Team,Player,Age,Position,Games Played,Games Started,Punts Returned,Punts Return Yardage,Punts Returned for Touchdown,Longest Punt Return,Yards per Punt Return,Kickoff Returns,Yardage for Kickoffs Returned,Kickoffs Returned for a Touchdown,Longest Kickoff Return,Yards per Kickoff Return,All-purpose Yards,Year
-0,11,Rams,Tavon Austin,26,WR,15,15,44,336,0,47,7.6,1,5,0,5,5.0,1009,2016
-1,23,Rams,Benny Cunningham,26,RB,11,0,0,0,0,0,,22,599,0,61,27.2,791,2016
-2,10,Rams,Pharoh Cooper,21,WR,10,3,5,5,0,6,1.0,14,323,0,51,23.1,434,2016
-3,13,Rams,Mike Thomas,22,WR,15,0,0,0,0,0,,9,180,0,41,20.0,217,2016
-4,34,Rams,Chase Reynolds,29,RB,16,0,0,0,0,0,,1,0,0,0,0.0,4,2016
-5,38,Rams,Cody Davis,27,DB,15,3,0,0,0,0,,0,15,0,15,,44,2016
+,No.,Player,Age,Position,Games Played,Games Started,Punts Returned,Punts Return Yardage,Punts Returned for Touchdown,Longest Punt Return,Yards per Punt Return,Kickoff Returns,Yardage for Kickoffs Returned,Kickoffs Returned for a Touchdown,Longest Kickoff Return,Yards per Kickoff Return,All-purpose Yards,Team,Year
+11,11,Tavon Austin,26,WR,15,15,44,336,0,47,7.6,1,5,0,5,5.0,1009,Rams,2016
+23,23,Benny Cunningham,26,RB,11,0,0,0,0,0,0.0,22,599,0,61,27.2,791,Rams,2016
+10,10,Pharoh Cooper,21,WR,10,3,5,5,0,6,1.0,14,323,0,51,23.1,434,Rams,2016
+13,13,Mike Thomas,22,WR,15,0,0,0,0,0,0.0,9,180,0,41,20.0,217,Rams,2016
+34,34,Chase Reynolds,29,RB,16,0,0,0,0,0,0.0,1,0,0,0,0.0,4,Rams,2016
+38,38,Cody Davis,27,DB,15,3,0,0,0,0,0.0,0,15,0,15,0.0,44,Rams,2016

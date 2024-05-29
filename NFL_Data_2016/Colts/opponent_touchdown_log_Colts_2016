@@ -1,43 +1,43 @@
-,Rank,Team,Date,Opponent,Win/Loss,Score,Quarter,Distance,Type,Detail,Year
-0,1,Colts,09/11/2016,DET,Loss, 35-39,1,21,rush,Theo Riddick,2016
-1,2,Colts,09/11/2016,DET,Loss, 35-39,2,1,rush,Dwayne Washington,2016
-2,3,Colts,09/11/2016,DET,Loss, 35-39,2,6,pass,Eric Ebron,2016
-3,4,Colts,09/11/2016,DET,Loss, 35-39,3,11,pass,Ameer Abdullah,2016
-4,5,Colts,09/11/2016,DET,Loss, 35-39,4,13,pass,Theo Riddick,2016
-5,6,Colts,09/18/2016,DEN,Loss, 20-34,2,4,rush,C.J. Anderson,2016
-6,7,Colts,09/18/2016,DEN,Loss, 20-34,4,46,interception,Aqib Talib,2016
-7,8,Colts,09/18/2016,DEN,Loss, 20-34,4,15,fumble,Shane Ray,2016
-8,9,Colts,09/25/2016,SDG,Win, 26-22,2,61,fumble,Caraun Reid,2016
-9,10,Colts,09/25/2016,SDG,Win, 26-22,3,1,rush,Melvin Gordon,2016
-10,11,Colts,10/02/2016,JAX,Loss, 27-30,1,3,pass,Allen Robinson,2016
-11,12,Colts,10/02/2016,JAX,Loss, 27-30,2,1,rush,Blake Bortles,2016
-12,13,Colts,10/02/2016,JAX,Loss, 27-30,4,42,pass,Allen Hurns,2016
-13,14,Colts,10/09/2016,CHI,Win, 29-23,2,14,pass,Cameron Meredith,2016
-14,15,Colts,10/09/2016,CHI,Win, 29-23,4,21,pass,Jordan Howard,2016
-15,16,Colts,10/16/2016,HOU,Loss, 23-26,3,1,rush,Lamar Miller,2016
-16,17,Colts,10/16/2016,HOU,Loss, 23-26,4,10,pass,Lamar Miller,2016
-17,18,Colts,10/16/2016,HOU,Loss, 23-26,4,26,pass,C.J. Fiedorowicz,2016
-18,19,Colts,10/23/2016,TEN,Win, 34-26,1,10,pass,Taylor Lewan,2016
-19,20,Colts,10/23/2016,TEN,Win, 34-26,2,1,rush,DeMarco Murray,2016
-20,21,Colts,10/23/2016,TEN,Win, 34-26,4,7,pass,Delanie Walker,2016
-21,22,Colts,10/30/2016,KAN,Loss, 14-30,2,14,pass,Travis Kelce,2016
-22,23,Colts,10/30/2016,KAN,Loss, 14-30,2,13,pass,Jeremy Maclin,2016
-23,24,Colts,10/30/2016,KAN,Loss, 14-30,3,34,pass,Tyreek Hill,2016
-24,25,Colts,11/06/2016,GNB,Win, 31-26,1,26,pass,Jordy Nelson,2016
-25,26,Colts,11/06/2016,GNB,Win, 31-26,4,2,pass,Davante Adams,2016
-26,27,Colts,11/06/2016,GNB,Win, 31-26,4,3,pass,Randall Cobb,2016
-27,28,Colts,11/20/2016,TEN,Win, 24-17,2,3,pass,DeMarco Murray,2016
-28,29,Colts,11/20/2016,TEN,Win, 24-17,3,34,pass,Tajae Sharpe,2016
-29,30,Colts,11/24/2016,PIT,Loss, 7-28,1,5,rush,Le'Veon Bell,2016
-30,31,Colts,11/24/2016,PIT,Loss, 7-28,1,25,pass,Antonio Brown,2016
-31,32,Colts,11/24/2016,PIT,Loss, 7-28,2,33,pass,Antonio Brown,2016
-32,33,Colts,11/24/2016,PIT,Loss, 7-28,4,22,pass,Antonio Brown,2016
-33,34,Colts,12/05/2016,NYJ,Win, 41-10,4,40,pass,Robbie Chosen,2016
-34,35,Colts,12/11/2016,HOU,Loss, 17-22,2,2,rush,Lamar Miller,2016
-35,36,Colts,12/24/2016,OAK,Loss, 25-33,2,1,pass,Andre Holmes,2016
-36,37,Colts,12/24/2016,OAK,Loss, 25-33,2,5,pass,Clive Walford,2016
-37,38,Colts,12/24/2016,OAK,Loss, 25-33,2,4,pass,Jalen Richard,2016
-38,39,Colts,12/24/2016,OAK,Loss, 25-33,3,22,rush,DeAndre Washington,2016
-39,40,Colts,12/24/2016,OAK,Loss, 25-33,3,22,rush,DeAndre Washington,2016
-40,41,Colts,01/01/2017,JAX,Win, 24-20,1,14,pass,Ben Koyack,2016
-41,42,Colts,01/01/2017,JAX,Win, 24-20,2,57,rush,Corey Grant,2016
+,Rank,Team,Date,Opponent,Win/Loss,Home_Score,Opponenet_Score,Quarter,Distance,Type,Detail
+1,1,Colts,2016-09-11,DET,Loss,35,39,1,21,rush,Theo Riddick
+2,2,Colts,2016-09-11,DET,Loss,35,39,2,1,rush,Dwayne Washington
+3,3,Colts,2016-09-11,DET,Loss,35,39,2,6,pass,Eric Ebron
+4,4,Colts,2016-09-11,DET,Loss,35,39,3,11,pass,Ameer Abdullah
+5,5,Colts,2016-09-11,DET,Loss,35,39,4,13,pass,Theo Riddick
+6,6,Colts,2016-09-18,DEN,Loss,20,34,2,4,rush,C.J. Anderson
+7,7,Colts,2016-09-18,DEN,Loss,20,34,4,46,interception,Aqib Talib
+8,8,Colts,2016-09-18,DEN,Loss,20,34,4,15,fumble,Shane Ray
+9,9,Colts,2016-09-25,SDG,Win,26,22,2,61,fumble,Caraun Reid
+10,10,Colts,2016-09-25,SDG,Win,26,22,3,1,rush,Melvin Gordon
+11,11,Colts,2016-10-02,JAX,Loss,27,30,1,3,pass,Allen Robinson
+12,12,Colts,2016-10-02,JAX,Loss,27,30,2,1,rush,Blake Bortles
+13,13,Colts,2016-10-02,JAX,Loss,27,30,4,42,pass,Allen Hurns
+14,14,Colts,2016-10-09,CHI,Win,29,23,2,14,pass,Cameron Meredith
+15,15,Colts,2016-10-09,CHI,Win,29,23,4,21,pass,Jordan Howard
+16,16,Colts,2016-10-16,HOU,Loss,23,26,3,1,rush,Lamar Miller
+17,17,Colts,2016-10-16,HOU,Loss,23,26,4,10,pass,Lamar Miller
+18,18,Colts,2016-10-16,HOU,Loss,23,26,4,26,pass,C.J. Fiedorowicz
+19,19,Colts,2016-10-23,TEN,Win,34,26,1,10,pass,Taylor Lewan
+20,20,Colts,2016-10-23,TEN,Win,34,26,2,1,rush,DeMarco Murray
+21,21,Colts,2016-10-23,TEN,Win,34,26,4,7,pass,Delanie Walker
+22,22,Colts,2016-10-30,KAN,Loss,14,30,2,14,pass,Travis Kelce
+23,23,Colts,2016-10-30,KAN,Loss,14,30,2,13,pass,Jeremy Maclin
+24,24,Colts,2016-10-30,KAN,Loss,14,30,3,34,pass,Tyreek Hill
+25,25,Colts,2016-11-06,GNB,Win,31,26,1,26,pass,Jordy Nelson
+26,26,Colts,2016-11-06,GNB,Win,31,26,4,2,pass,Davante Adams
+27,27,Colts,2016-11-06,GNB,Win,31,26,4,3,pass,Randall Cobb
+28,28,Colts,2016-11-20,TEN,Win,24,17,2,3,pass,DeMarco Murray
+29,29,Colts,2016-11-20,TEN,Win,24,17,3,34,pass,Tajae Sharpe
+30,30,Colts,2016-11-24,PIT,Loss,7,28,1,5,rush,Le'Veon Bell
+31,31,Colts,2016-11-24,PIT,Loss,7,28,1,25,pass,Antonio Brown
+32,32,Colts,2016-11-24,PIT,Loss,7,28,2,33,pass,Antonio Brown
+33,33,Colts,2016-11-24,PIT,Loss,7,28,4,22,pass,Antonio Brown
+34,34,Colts,2016-12-05,NYJ,Win,41,10,4,40,pass,Robbie Chosen
+35,35,Colts,2016-12-11,HOU,Loss,17,22,2,2,rush,Lamar Miller
+36,36,Colts,2016-12-24,OAK,Loss,25,33,2,1,pass,Andre Holmes
+37,37,Colts,2016-12-24,OAK,Loss,25,33,2,5,pass,Clive Walford
+38,38,Colts,2016-12-24,OAK,Loss,25,33,2,4,pass,Jalen Richard
+39,39,Colts,2016-12-24,OAK,Loss,25,33,3,22,rush,DeAndre Washington
+40,40,Colts,2016-12-24,OAK,Loss,25,33,3,22,rush,DeAndre Washington
+41,41,Colts,2017-01-01,JAX,Win,24,20,1,14,pass,Ben Koyack
+42,42,Colts,2017-01-01,JAX,Win,24,20,2,57,rush,Corey Grant

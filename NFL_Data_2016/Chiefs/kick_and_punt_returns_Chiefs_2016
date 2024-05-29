@@ -1,7 +1,7 @@
-,No.,Team,Player,Age,Position,Games Played,Games Started,Punts Returned,Punts Return Yardage,Punts Returned for Touchdown,Longest Punt Return,Yards per Punt Return,Kickoff Returns,Yardage for Kickoffs Returned,Kickoffs Returned for a Touchdown,Longest Kickoff Return,Yards per Kickoff Return,All-purpose Yards,Year
-0,10,Chiefs,Tyreek Hill,22,WR,16,1,39,592,2,95,15.2,14,384,1,86,27.4,1836,2016
-1,13,Chiefs,De'Anthony Thomas,23,RB,12,0,0,0,0,0,,15,338,0,41,22.5,402,2016
-2,34,Chiefs,Knile Davis,25,RB,9,0,0,0,0,0,,9,189,0,30,21.0,233,2016
-3,57,Chiefs,D.J. Alexander,25,LB,16,1,1,0,0,0,0.0,0,0,0,0,,0,2016
-4,84,Chiefs,Demetrius Harris,25,WR,16,11,0,0,0,0,,1,19,0,19,19.0,169,2016
-5,12,Chiefs,Albert Wilson,24,WR,16,5,0,0,0,0,,1,13,0,13,13.0,342,2016
+,No.,Player,Age,Position,Games Played,Games Started,Punts Returned,Punts Return Yardage,Punts Returned for Touchdown,Longest Punt Return,Yards per Punt Return,Kickoff Returns,Yardage for Kickoffs Returned,Kickoffs Returned for a Touchdown,Longest Kickoff Return,Yards per Kickoff Return,All-purpose Yards,Team,Year
+10,10,Tyreek Hill,22,WR,16,1,39,592,2,95,15.2,14,384,1,86,27.4,1836,Chiefs,2016
+13,13,De'Anthony Thomas,23,RB,12,0,0,0,0,0,0.0,15,338,0,41,22.5,402,Chiefs,2016
+34,34,Knile Davis,25,RB,9,0,0,0,0,0,0.0,9,189,0,30,21.0,233,Chiefs,2016
+57,57,D.J. Alexander,25,LB,16,1,1,0,0,0,0.0,0,0,0,0,0.0,0,Chiefs,2016
+84,84,Demetrius Harris,25,WR,16,11,0,0,0,0,0.0,1,19,0,19,19.0,169,Chiefs,2016
+12,12,Albert Wilson,24,WR,16,5,0,0,0,0,0.0,1,13,0,13,13.0,342,Chiefs,2016

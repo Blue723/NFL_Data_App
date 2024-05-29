@@ -1,9 +1,9 @@
-,No.,Team,Player,Age,Position,Games Played,Games Started,Punts Returned,Punts Return Yardage,Punts Returned for Touchdown,Longest Punt Return,Yards per Punt Return,Kickoff Returns,Yardage for Kickoffs Returned,Kickoffs Returned for a Touchdown,Longest Kickoff Return,Yards per Kickoff Return,All-purpose Yards,Year
-0,80,Commanders,Jamison Crowder,23,WR,16,9,27,328,1,85,12.1,0,0,0,0,,1173,2016
-1,25,Commanders,Chris Thompson,26,RB,16,0,0,0,0,0,,17,360,0,28,21.2,1065,2016
-2,41,Commanders,Will Blackmon,32,FS,15,6,1,16,0,16,16.0,4,109,0,45,27.3,204,2016
-3,13,Commanders,Maurice Harris,24,WR,10,0,0,0,0,0,,3,47,0,26,15.7,113,2016
-4,26,Commanders,Bashaud Breeland,24,LCB,14,14,0,0,0,0,,1,18,0,18,18.0,50,2016
-5,47,Commanders,Quinton Dunbar,24,DB,14,2,1,0,0,0,0.0,0,0,0,0,,31,2016
-6,84,Commanders,Niles Paul,27,WR,8,1,0,0,0,0,,1,14,0,14,14.0,41,2016
-7,19,Commanders,Rashad Ross,26,WR,5,0,0,0,0,0,,1,22,0,22,22.0,30,2016
+,No.,Player,Age,Position,Games Played,Games Started,Punts Returned,Punts Return Yardage,Punts Returned for Touchdown,Longest Punt Return,Yards per Punt Return,Kickoff Returns,Yardage for Kickoffs Returned,Kickoffs Returned for a Touchdown,Longest Kickoff Return,Yards per Kickoff Return,All-purpose Yards,Team,Year
+80,80,Jamison Crowder,23,WR,16,9,27,328,1,85,12.1,0,0,0,0,0.0,1173,Commanders,2016
+25,25,Chris Thompson,26,RB,16,0,0,0,0,0,0.0,17,360,0,28,21.2,1065,Commanders,2016
+41,41,Will Blackmon,32,FS,15,6,1,16,0,16,16.0,4,109,0,45,27.3,204,Commanders,2016
+13,13,Maurice Harris,24,WR,10,0,0,0,0,0,0.0,3,47,0,26,15.7,113,Commanders,2016
+26,26,Bashaud Breeland,24,LCB,14,14,0,0,0,0,0.0,1,18,0,18,18.0,50,Commanders,2016
+47,47,Quinton Dunbar,24,DB,14,2,1,0,0,0,0.0,0,0,0,0,0.0,31,Commanders,2016
+84,84,Niles Paul,27,WR,8,1,0,0,0,0,0.0,1,14,0,14,14.0,41,Commanders,2016
+19,19,Rashad Ross,26,WR,5,0,0,0,0,0,0.0,1,22,0,22,22.0,30,Commanders,2016

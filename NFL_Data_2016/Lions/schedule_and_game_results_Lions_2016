@@ -1,20 +1,18 @@
-,Week,Team,Day,Date,Time,Win/Loss,Overtime,Team Record,Home/Away,Opponent,Points Scored,Points Allowed,Offense 1st Down,Total Yards Gained of Offense,Total yards Gained by Passing,Total Yards Gained by Rushing,Offense Turnovers,Defense 1st Down,Total Yards Allowed by Defense,Total Passing Yards Allowed by Defense,Total Rushing Yards Allowed by Defense,Defense Turnovers,Offense,Defense,Sp. Tms,Year
-0,0,Lions,Sun,September 11,,W,0,1-0,away,Indianapolis Colts,39,35,28,448,332,116,0,25,450,368,82,0,26.0,-23.5,1.43,2016
-1,1,Lions,Sun,September 18,,L,0,1-1,home,Tennessee Titans,15,16,22,375,238,137,1,22,363,224,139,1,0.39,-10.15,6.83,2016
-2,2,Lions,Sun,September 25,,L,0,1-2,away,Green Bay Packers,27,34,22,418,368,50,1,17,324,201,123,0,14.19,-17.93,-2.24,2016
-3,3,Lions,Sun,October 2,,L,0,1-3,away,Chicago Bears,14,17,16,263,197,66,2,23,408,294,114,0,-7.47,-7.93,10.3,2016
-4,4,Lions,Sun,October 9,,W,0,2-3,home,Philadelphia Eagles,24,23,21,244,164,80,1,18,346,230,116,2,8.49,-4.42,-2.7,2016
-5,5,Lions,Sun,October 16,,W,0,3-3,home,Los Angeles Rams,31,28,20,348,265,83,0,23,387,311,76,1,20.72,-19.64,2.35,2016
-6,6,Lions,Sun,October 23,,W,0,4-3,home,Washington Redskins,20,17,19,344,250,94,0,26,413,283,130,2,11.55,-8.7,1.85,2016
-7,7,Lions,Sun,October 30,,L,0,4-4,away,Houston Texans,13,20,19,289,231,58,0,20,269,164,105,1,0.37,-1.76,-5.34,2016
-8,8,1,1,1,1.0,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1.0,1.0,1.0,1
-9,9,Lions,,,,,0,,home,<strong>Bye Week</strong>,0,0,0,0,0,0,0,0,0,0,0,0,,,,2016
-10,10,Lions,Sun,November 20,,W,0,6-4,home,Jacksonville Jaguars,26,19,14,277,263,14,2,16,285,202,83,3,-2.74,12.43,0.09,2016
-11,11,Lions,Thu,November 24,,W,0,7-4,home,Minnesota Vikings,16,13,18,308,214,94,0,17,306,224,82,1,-1.3,3.19,-1.08,2016
-12,12,Lions,Sun,December 4,,W,0,8-4,away,New Orleans Saints,28,13,24,422,337,85,0,20,369,319,50,3,14.73,2.06,-1.51,2016
-13,13,Lions,Sun,December 11,,W,0,9-4,home,Chicago Bears,20,17,25,323,209,114,2,16,296,204,92,0,7.22,-3.02,-1.03,2016
-14,14,Lions,Sun,December 18,,L,0,9-5,away,New York Giants,6,17,16,324,268,56,2,17,300,186,114,0,-6.52,-3.39,0.49,2016
-15,15,Lions,Mon,December 26,,L,0,9-6,away,Dallas Cowboys,21,42,23,319,229,90,2,23,375,211,164,0,5.57,-24.42,-0.09,2016
-16,16,Lions,Sun,January 1,,L,0,9-7,home,Green Bay Packers,24,31,24,408,332,76,1,28,448,295,153,0,12.02,-20.35,-0.51,2016
-17,17,Lions,,<strong>Playoffs</strong>,,,0,,home,,0,0,0,0,0,0,0,0,0,0,0,0,,,,2016
-18,18,Lions,Sat,January 7,,L,0,9-8,away,Seattle Seahawks,6,26,13,231,182,49,0,24,387,210,177,0,-11.29,-18.51,9.37,2016
+,Week,Day,Date,Time,Win/Loss,Overtime,Team Record,Home/Away,Opponent,Points Scored,Points Allowed,Offense 1st Down,Total Yards Gained of Offense,Total yards Gained by Passing,Total Yards Gained by Rushing,Offense Turnovers,Defense 1st Down,Total Yards Allowed by Defense,Total Passing Yards Allowed by Defense,Total Rushing Yards Allowed by Defense,Defense Turnovers,Offense,Defense,Sp. Tms,Team,Year
+0,1,Sun,2016-09-11,nan,Win,0,1-0,away,Indianapolis Colts,39,35,28,448,332,116,0,25,450,368,82,0,26.0,-23.5,1.43,Lions,2016
+1,2,Sun,2016-09-18,nan,Loss,0,1-1,home,Tennessee Titans,15,16,22,375,238,137,1,22,363,224,139,1,0.39,-10.15,6.83,Lions,2016
+2,3,Sun,2016-09-25,nan,Loss,0,1-2,away,Green Bay Packers,27,34,22,418,368,50,1,17,324,201,123,0,14.19,-17.93,-2.24,Lions,2016
+3,4,Sun,2016-10-02,nan,Loss,0,1-3,away,Chicago Bears,14,17,16,263,197,66,2,23,408,294,114,0,-7.47,-7.93,10.3,Lions,2016
+4,5,Sun,2016-10-09,nan,Win,0,2-3,home,Philadelphia Eagles,24,23,21,244,164,80,1,18,346,230,116,2,8.49,-4.42,-2.7,Lions,2016
+5,6,Sun,2016-10-16,nan,Win,0,3-3,home,Los Angeles Rams,31,28,20,348,265,83,0,23,387,311,76,1,20.72,-19.64,2.35,Lions,2016
+6,7,Sun,2016-10-23,nan,Win,0,4-3,home,Washington Redskins,20,17,19,344,250,94,0,26,413,283,130,2,11.55,-8.7,1.85,Lions,2016
+7,8,Sun,2016-10-30,nan,Loss,0,4-4,away,Houston Texans,13,20,19,289,231,58,0,20,269,164,105,1,0.37,-1.76,-5.34,Lions,2016
+8,9,Sun,2016-11-06,nan,Win,1,5-4,away,Minnesota Vikings,22,16,18,311,214,97,1,22,337,259,78,0,1.15,-6.72,13.83,Lions,2016
+9,11,Sun,2016-11-20,nan,Win,0,6-4,home,Jacksonville Jaguars,26,19,14,277,263,14,2,16,285,202,83,3,-2.74,12.43,0.09,Lions,2016
+10,12,Thu,2016-11-24,nan,Win,0,7-4,home,Minnesota Vikings,16,13,18,308,214,94,0,17,306,224,82,1,-1.3,3.19,-1.08,Lions,2016
+11,13,Sun,2016-12-04,nan,Win,0,8-4,away,New Orleans Saints,28,13,24,422,337,85,0,20,369,319,50,3,14.73,2.06,-1.51,Lions,2016
+12,14,Sun,2016-12-11,nan,Win,0,9-4,home,Chicago Bears,20,17,25,323,209,114,2,16,296,204,92,0,7.22,-3.02,-1.03,Lions,2016
+13,15,Sun,2016-12-18,nan,Loss,0,9-5,away,New York Giants,6,17,16,324,268,56,2,17,300,186,114,0,-6.52,-3.39,0.49,Lions,2016
+14,16,Mon,2016-12-26,nan,Loss,0,9-6,away,Dallas Cowboys,21,42,23,319,229,90,2,23,375,211,164,0,5.57,-24.42,-0.09,Lions,2016
+15,17,Sun,2017-01-01,nan,Loss,0,9-7,home,Green Bay Packers,24,31,24,408,332,76,1,28,448,295,153,0,12.02,-20.35,-0.51,Lions,2016
+16,19,Sat,2017-01-07,nan,Loss,0,9-8,away,Seattle Seahawks,6,26,13,231,182,49,0,24,387,210,177,0,-11.29,-18.51,9.37,Lions,2016

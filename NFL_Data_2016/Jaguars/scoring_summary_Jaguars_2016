@@ -1,15 +1,15 @@
-,No.,Team,Player,Age,Pos,Games Played,Games Started,Rush TD,Reception TD,Punt Return TD,Kick Return TD,Fumble Return TD,Interception TD,Other TD,All Touchdown Scored,2-Point Conversions Made,Two-Point Conversions Attempted,Defensive Two-Point Conversions,Extra Points Made,Extra Points Allowed,Field Goals Made,Field Goals Attempted,Safeties Scored by Player/Team,Total Points Scored by all Means,Poins per Game,Year
-0,2,Jaguars,Jason Myers,25,K,16,0,0,0,0,0,0,0,0,0,0,0,0,29,32,27,34,,110,6.9,2016
-1,15,Jaguars,Allen Robinson,23,WR,16,16,0,6,0,0,0,0,0,6,1,0,0,0,0,0,0,,38,2.4,2016
-2,5,Jaguars,Blake Bortles,24,QB,16,16,3,1,0,0,0,0,0,4,1,0,0,0,0,0,0,,26,1.6,2016
-3,11,Jaguars,Marqise Lee,25,WR,16,6,0,3,0,1,0,0,0,4,0,0,0,0,0,0,0,,24,1.5,2016
-4,80,Jaguars,Julius Thomas,28,TE,9,6,0,4,0,0,0,0,0,4,0,0,0,0,0,0,0,,24,2.7,2016
-5,88,Jaguars,Allen Hurns,25,WR,11,11,0,3,0,0,0,0,0,3,0,0,0,0,0,0,0,,18,1.6,2016
-6,33,Jaguars,Chris Ivory,28,RB,11,1,3,0,0,0,0,0,0,3,0,0,0,0,0,0,0,,18,1.6,2016
-7,30,Jaguars,Corey Grant,25,RB,11,1,1,1,0,0,0,0,0,2,0,0,0,0,0,0,0,,12,1.1,2016
-8,81,Jaguars,Bryan Walters,29,WR,10,3,0,2,0,0,0,0,0,2,0,0,0,0,0,0,0,,12,1.2,2016
-9,24,Jaguars,T.J. Yeldon,23,RB,15,13,1,1,0,0,0,0,0,2,0,0,0,0,0,0,0,,12,0.8,2016
-10,17,Jaguars,Arrelious Benn,28,WR,15,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,,6,0.4,2016
-11,83,Jaguars,Ben Koyack,23,TE,14,7,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,,6,0.4,2016
-12,89,Jaguars,Marcedes Lewis,32,TE,10,10,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,,6,0.6,2016
-13,20,Jaguars,Jalen Ramsey,22,RCB,16,16,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,,6,0.4,2016
+,No.,Player,Age,Pos,Games Played,Games Started,Rush TD,Reception TD,Punt Return TD,Kick Return TD,Fumble Return TD,Interception TD,Other TD,All Touchdown Scored,2-Point Conversions Made,Two-Point Conversions Attempted,Defensive Two-Point Conversions,Extra Points Made,Extra Points Allowed,Field Goals Made,Field Goals Attempted,Safeties Scored by Player/Team,Total Points Scored by all Means,Poins per Game,Team,Year
+2,2,Jason Myers,25,K,16,0,0,0,0,0,0,0,0,0,0,0,0,29,32,27,34,0,110,6.9,Jaguars,2016
+15,15,Allen Robinson,23,WR,16,16,0,6,0,0,0,0,0,6,1,0,0,0,0,0,0,0,38,2.4,Jaguars,2016
+5,5,Blake Bortles,24,QB,16,16,3,1,0,0,0,0,0,4,1,0,0,0,0,0,0,0,26,1.6,Jaguars,2016
+11,11,Marqise Lee,25,WR,16,6,0,3,0,1,0,0,0,4,0,0,0,0,0,0,0,0,24,1.5,Jaguars,2016
+80,80,Julius Thomas,28,TE,9,6,0,4,0,0,0,0,0,4,0,0,0,0,0,0,0,0,24,2.7,Jaguars,2016
+88,88,Allen Hurns,25,WR,11,11,0,3,0,0,0,0,0,3,0,0,0,0,0,0,0,0,18,1.6,Jaguars,2016
+33,33,Chris Ivory,28,RB,11,1,3,0,0,0,0,0,0,3,0,0,0,0,0,0,0,0,18,1.6,Jaguars,2016
+30,30,Corey Grant,25,RB,11,1,1,1,0,0,0,0,0,2,0,0,0,0,0,0,0,0,12,1.1,Jaguars,2016
+81,81,Bryan Walters,29,WR,10,3,0,2,0,0,0,0,0,2,0,0,0,0,0,0,0,0,12,1.2,Jaguars,2016
+24,24,T.J. Yeldon,23,RB,15,13,1,1,0,0,0,0,0,2,0,0,0,0,0,0,0,0,12,0.8,Jaguars,2016
+17,17,Arrelious Benn,28,WR,15,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,6,0.4,Jaguars,2016
+83,83,Ben Koyack,23,TE,14,7,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,6,0.4,Jaguars,2016
+89,89,Marcedes Lewis,32,TE,10,10,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,6,0.6,Jaguars,2016
+20,20,Jalen Ramsey,22,RCB,16,16,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,6,0.4,Jaguars,2016

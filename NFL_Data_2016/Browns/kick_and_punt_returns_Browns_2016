@@ -1,10 +1,10 @@
-,No.,Team,Player,Age,Position,Games Played,Games Started,Punts Returned,Punts Return Yardage,Punts Returned for Touchdown,Longest Punt Return,Yards per Punt Return,Kickoff Returns,Yardage for Kickoffs Returned,Kickoffs Returned for a Touchdown,Longest Kickoff Return,Yards per Kickoff Return,All-purpose Yards,Year
-0,29,Browns,Duke Johnson,23,RB,16,1,17,112,0,18,6.6,1,19,0,19,19.0,1003,2016
-1,15,Browns,Mario Alford,24,WR,3,0,8,68,0,17,8.5,8,190,0,36,23.8,258,2016
-2,80,Browns,Ricardo Louis,22,WR,16,3,0,0,0,0,,9,164,0,24,18.2,370,2016
-3,25,Browns,George Atkinson,24,RB,16,0,0,0,0,0,,8,137,0,21,17.1,171,2016
-4,41,Browns,Tracy Howard,22,DB,15,3,0,0,0,0,,7,111,0,21,15.9,111,2016
-5,23,Browns,Joe Haden,27,LCB,13,13,2,18,0,13,9.0,0,0,0,0,,27,2016
-6,33,Browns,Jordan Poyer,25,FS,6,6,2,2,0,2,1.0,0,0,0,0,,2,2016
-7,87,Browns,Seth Devalve,23,TE,12,2,0,0,0,0,,1,13,0,13,13.0,140,2016
-8,22,Browns,Tramon Williams,33,LCB,12,7,1,0,0,0,0.0,0,0,0,0,,0,2016
+,No.,Player,Age,Position,Games Played,Games Started,Punts Returned,Punts Return Yardage,Punts Returned for Touchdown,Longest Punt Return,Yards per Punt Return,Kickoff Returns,Yardage for Kickoffs Returned,Kickoffs Returned for a Touchdown,Longest Kickoff Return,Yards per Kickoff Return,All-purpose Yards,Team,Year
+29,29,Duke Johnson,23,RB,16,1,17,112,0,18,6.6,1,19,0,19,19.0,1003,Browns,2016
+15,15,Mario Alford,24,WR,3,0,8,68,0,17,8.5,8,190,0,36,23.8,258,Browns,2016
+80,80,Ricardo Louis,22,WR,16,3,0,0,0,0,0.0,9,164,0,24,18.2,370,Browns,2016
+25,25,George Atkinson,24,RB,16,0,0,0,0,0,0.0,8,137,0,21,17.1,171,Browns,2016
+41,41,Tracy Howard,22,DB,15,3,0,0,0,0,0.0,7,111,0,21,15.9,111,Browns,2016
+23,23,Joe Haden,27,LCB,13,13,2,18,0,13,9.0,0,0,0,0,0.0,27,Browns,2016
+33,33,Jordan Poyer,25,FS,6,6,2,2,0,2,1.0,0,0,0,0,0.0,2,Browns,2016
+87,87,Seth Devalve,23,TE,12,2,0,0,0,0,0.0,1,13,0,13,13.0,140,Browns,2016
+22,22,Tramon Williams,33,LCB,12,7,1,0,0,0,0.0,0,0,0,0,0.0,0,Browns,2016
