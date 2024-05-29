@@ -1,16 +1,16 @@
-,No.,Team,Player,Age,Pos,Games Played,Games Started,Rush TD,Reception TD,Punt Return TD,Kick Return TD,Fumble Return TD,Interception TD,Other TD,All Touchdown Scored,2-Point Conversions Made,Two-Point Conversions Attempted,Defensive Two-Point Conversions,Extra Points Made,Extra Points Allowed,Field Goals Made,Field Goals Attempted,Safeties Scored by Player/Team,Total Points Scored by all Means,Poins per Game,Year
-0,2,Packers,Mason Crosby,34,K,16,0,0,0,0,0,0,0,0,0,0,0,0,34,36,30,37,,124,7.8,2018
-1,17,Packers,Davante Adams,26,WR,15,15,0,13,0,0,0,0,0,13,1,0,0,0,0,0,0,,80,5.3,2018
-2,33,Packers,Aaron Jones,24,RB,12,8,8,1,0,0,0,0,0,9,0,0,0,0,0,0,0,,54,4.5,2018
-3,30,Packers,Jamaal Williams,23,RB,16,8,3,0,0,0,0,0,0,3,1,0,0,0,0,0,0,,20,1.3,2018
-4,12,Packers,Aaron Rodgers,35,QB,16,16,2,0,0,0,0,0,0,2,1,0,0,0,0,0,0,,14,0.9,2018
-5,81,Packers,Geronimo Allison,24,WR,5,4,0,2,0,0,0,0,0,2,0,0,0,0,0,0,0,,12,2.4,2018
-6,18,Packers,Randall Cobb,28,WR,9,6,0,2,0,0,0,0,0,2,0,0,0,0,0,0,0,,12,1.3,2018
-7,80,Packers,Jimmy Graham,32,TE,16,12,0,2,0,0,0,0,0,2,0,0,0,0,0,0,0,,12,0.8,2018
-8,83,Packers,Marquez Valdes-Scantling,24,WR,16,10,0,2,0,0,0,0,0,2,0,0,0,0,0,0,0,,12,0.8,2018
-9,26,Packers,Bashaud Breeland,26,RCB,7,5,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,,6,0.9,2018
-10,37,Packers,Josh Jackson,22,RCB/DB,16,10,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,,6,0.4,2018
-11,84,Packers,Lance Kendricks,30,TE,16,3,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,,6,0.4,2018
-12,16,Packers,Jake Kumerow,26,WR,5,2,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,,6,1.2,2018
-13,88,Packers,Ty Montgomery,25,WR,7,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,,6,0.9,2018
-14,85,Packers,Robert Tonyan,24,TE,16,1,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,,6,0.4,2018
+,No.,Player,Age,Pos,Games Played,Games Started,Rush TD,Reception TD,Punt Return TD,Kick Return TD,Fumble Return TD,Interception TD,Other TD,All Touchdown Scored,2-Point Conversions Made,Two-Point Conversions Attempted,Defensive Two-Point Conversions,Extra Points Made,Extra Points Allowed,Field Goals Made,Field Goals Attempted,Safeties Scored by Player/Team,Total Points Scored by all Means,Poins per Game,Team,Year
+2,2,Mason Crosby,34,K,16,0,0,0,0,0,0,0,0,0,0,0,0,34,36,30,37,0,124,7.8,Packers,2018
+17,17,Davante Adams,26,WR,15,15,0,13,0,0,0,0,0,13,1,0,0,0,0,0,0,0,80,5.3,Packers,2018
+33,33,Aaron Jones,24,RB,12,8,8,1,0,0,0,0,0,9,0,0,0,0,0,0,0,0,54,4.5,Packers,2018
+30,30,Jamaal Williams,23,RB,16,8,3,0,0,0,0,0,0,3,1,0,0,0,0,0,0,0,20,1.3,Packers,2018
+12,12,Aaron Rodgers,35,QB,16,16,2,0,0,0,0,0,0,2,1,0,0,0,0,0,0,0,14,0.9,Packers,2018
+81,81,Geronimo Allison,24,WR,5,4,0,2,0,0,0,0,0,2,0,0,0,0,0,0,0,0,12,2.4,Packers,2018
+18,18,Randall Cobb,28,WR,9,6,0,2,0,0,0,0,0,2,0,0,0,0,0,0,0,0,12,1.3,Packers,2018
+80,80,Jimmy Graham,32,TE,16,12,0,2,0,0,0,0,0,2,0,0,0,0,0,0,0,0,12,0.8,Packers,2018
+83,83,Marquez Valdes-Scantling,24,WR,16,10,0,2,0,0,0,0,0,2,0,0,0,0,0,0,0,0,12,0.8,Packers,2018
+26,26,Bashaud Breeland,26,RCB,7,5,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,6,0.9,Packers,2018
+37,37,Josh Jackson,22,RCB/DB,16,10,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,6,0.4,Packers,2018
+84,84,Lance Kendricks,30,TE,16,3,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,6,0.4,Packers,2018
+16,16,Jake Kumerow,26,WR,5,2,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,6,1.2,Packers,2018
+88,88,Ty Montgomery,25,WR,7,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,6,0.9,Packers,2018
+85,85,Robert Tonyan,24,TE,16,1,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,6,0.4,Packers,2018

@@ -1,20 +1,18 @@
-,Week,Team,Day,Date,Time,Win/Loss,Overtime,Team Record,Home/Away,Opponent,Points Scored,Points Allowed,Offense 1st Down,Total Yards Gained of Offense,Total yards Gained by Passing,Total Yards Gained by Rushing,Offense Turnovers,Defense 1st Down,Total Yards Allowed by Defense,Total Passing Yards Allowed by Defense,Total Rushing Yards Allowed by Defense,Defense Turnovers,Offense,Defense,Sp. Tms,Year
-0,0,Texans,Sun,September 9,,L,0,0-1,away,New England Patriots,20,27,21,325,158,167,2,23,389,267,122,3,-8.05,-4.29,6.85,2018
-1,1,Texans,Sun,September 16,,L,0,0-2,away,Tennessee Titans,17,20,21,437,289,148,1,15,283,183,100,0,12.07,5.08,-14.87,2018
-2,2,Texans,Sun,September 23,,L,0,0-3,home,New York Giants,22,27,21,427,368,59,2,21,379,265,114,0,6.0,-14.9,3.71,2018
-3,3,1,1,1,1.0,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1.0,1.0,1.0,1
-4,4,1,1,1,1.0,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1.0,1.0,1.0,1
-5,5,Texans,Sun,October 14,,W,0,3-3,home,Buffalo Bills,20,13,15,216,142,74,3,12,229,129,100,3,-12.36,17.49,6.15,2018
-6,6,Texans,Sun,October 21,,W,0,4-3,away,Jacksonville Jaguars,20,7,15,272,131,141,0,15,259,189,70,3,0.33,14.02,1.41,2018
-7,7,Texans,Thu,October 25,,W,0,5-3,home,Miami Dolphins,42,23,17,427,239,188,0,18,370,254,116,1,26.51,-1.41,-8.12,2018
-8,8,Texans,Sun,November 4,,W,0,6-3,away,Denver Broncos,19,17,17,290,192,98,0,19,348,273,75,1,0.79,-3.66,3.27,2018
-9,9,Texans,,,,,0,,home,<strong>Bye Week</strong>,0,0,0,0,0,0,0,0,0,0,0,0,,,,2018
-10,10,Texans,Sun,November 18,,W,0,7-3,away,Washington Redskins,23,21,19,320,181,139,3,23,278,154,124,2,-3.27,6.12,-1.26,2018
-11,11,Texans,Mon,November 26,,W,0,8-3,home,Tennessee Titans,34,17,19,462,181,281,0,14,365,260,105,1,20.01,-1.51,-7.77,2018
-12,12,Texans,Sun,December 2,,W,0,9-3,home,Cleveland Browns,29,13,25,384,197,187,0,20,428,397,31,4,8.03,3.39,4.03,2018
-13,13,Texans,Sun,December 9,,L,0,9-4,home,Indianapolis Colts,21,24,25,315,226,89,0,24,436,386,50,1,8.14,-13.09,2.01,2018
-14,14,Texans,Sat,December 15,,W,0,10-4,away,New York Jets,29,22,15,286,239,47,0,21,318,228,90,1,2.17,0.47,4.92,2018
-15,15,Texans,Sun,December 23,,L,0,10-5,away,Philadelphia Eagles,30,32,25,371,309,62,1,25,519,462,57,3,10.43,-15.67,0.98,2018
-16,16,Texans,Sun,December 30,,W,0,11-5,home,Jacksonville Jaguars,20,3,23,342,208,134,1,6,119,89,30,2,2.75,20.82,-2.02,2018
-17,17,Texans,,<strong>Playoffs</strong>,,,0,,home,,0,0,0,0,0,0,0,0,0,0,0,0,,,,2018
-18,18,Texans,Sat,January 5,,L,0,11-6,home,Indianapolis Colts,7,21,20,322,217,105,1,26,422,222,200,1,-3.99,-16.89,2.95,2018
+,Week,Day,Date,Time,Win/Loss,Overtime,Team Record,Home/Away,Opponent,Points Scored,Points Allowed,Offense 1st Down,Total Yards Gained of Offense,Total yards Gained by Passing,Total Yards Gained by Rushing,Offense Turnovers,Defense 1st Down,Total Yards Allowed by Defense,Total Passing Yards Allowed by Defense,Total Rushing Yards Allowed by Defense,Defense Turnovers,Offense,Defense,Sp. Tms,Team,Year
+0,1,Sun,2018-09-09,nan,Loss,0,0-1,away,New England Patriots,20,27,21,325,158,167,2,23,389,267,122,3,-8.05,-4.29,6.85,Texans,2018
+1,2,Sun,2018-09-16,nan,Loss,0,0-2,away,Tennessee Titans,17,20,21,437,289,148,1,15,283,183,100,0,12.07,5.08,-14.87,Texans,2018
+2,3,Sun,2018-09-23,nan,Loss,0,0-3,home,New York Giants,22,27,21,427,368,59,2,21,379,265,114,0,6.0,-14.9,3.71,Texans,2018
+3,4,Sun,2018-09-30,nan,Win,1,1-3,away,Indianapolis Colts,37,34,30,466,347,119,1,28,478,437,41,2,13.24,-4.22,-4.75,Texans,2018
+4,5,Sun,2018-10-07,nan,Win,1,2-3,home,Dallas Cowboys,19,16,25,462,374,88,2,14,292,194,98,2,1.63,8.15,-5.93,Texans,2018
+5,6,Sun,2018-10-14,nan,Win,0,3-3,home,Buffalo Bills,20,13,15,216,142,74,3,12,229,129,100,3,-12.36,17.49,6.15,Texans,2018
+6,7,Sun,2018-10-21,nan,Win,0,4-3,away,Jacksonville Jaguars,20,7,15,272,131,141,0,15,259,189,70,3,0.33,14.02,1.41,Texans,2018
+7,8,Thu,2018-10-25,nan,Win,0,5-3,home,Miami Dolphins,42,23,17,427,239,188,0,18,370,254,116,1,26.51,-1.41,-8.12,Texans,2018
+8,9,Sun,2018-11-04,nan,Win,0,6-3,away,Denver Broncos,19,17,17,290,192,98,0,19,348,273,75,1,0.79,-3.66,3.27,Texans,2018
+9,11,Sun,2018-11-18,nan,Win,0,7-3,away,Washington Redskins,23,21,19,320,181,139,3,23,278,154,124,2,-3.27,6.12,-1.26,Texans,2018
+10,12,Mon,2018-11-26,nan,Win,0,8-3,home,Tennessee Titans,34,17,19,462,181,281,0,14,365,260,105,1,20.01,-1.51,-7.77,Texans,2018
+11,13,Sun,2018-12-02,nan,Win,0,9-3,home,Cleveland Browns,29,13,25,384,197,187,0,20,428,397,31,4,8.03,3.39,4.03,Texans,2018
+12,14,Sun,2018-12-09,nan,Loss,0,9-4,home,Indianapolis Colts,21,24,25,315,226,89,0,24,436,386,50,1,8.14,-13.09,2.01,Texans,2018
+13,15,Sat,2018-12-15,nan,Win,0,10-4,away,New York Jets,29,22,15,286,239,47,0,21,318,228,90,1,2.17,0.47,4.92,Texans,2018
+14,16,Sun,2018-12-23,nan,Loss,0,10-5,away,Philadelphia Eagles,30,32,25,371,309,62,1,25,519,462,57,3,10.43,-15.67,0.98,Texans,2018
+15,17,Sun,2018-12-30,nan,Win,0,11-5,home,Jacksonville Jaguars,20,3,23,342,208,134,1,6,119,89,30,2,2.75,20.82,-2.02,Texans,2018
+16,19,Sat,2019-01-05,nan,Loss,0,11-6,home,Indianapolis Colts,7,21,20,322,217,105,1,26,422,222,200,1,-3.99,-16.89,2.95,Texans,2018

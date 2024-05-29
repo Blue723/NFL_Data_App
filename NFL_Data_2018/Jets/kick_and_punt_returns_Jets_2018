@@ -1,8 +1,8 @@
-,No.,Team,Player,Age,Position,Games Played,Games Started,Punts Returned,Punts Return Yardage,Punts Returned for Touchdown,Longest Punt Return,Yards per Punt Return,Kickoff Returns,Yardage for Kickoffs Returned,Kickoffs Returned for a Touchdown,Longest Kickoff Return,Yards per Kickoff Return,All-purpose Yards,Year
-0,19,Jets,Andre Roberts,30,WR,16,1,23,324,1,78,14.1,40,1174,1,99,29.4,1597,2018
-1,89,Jets,Chris Herndon,22,TE,16,12,1,0,0,0,0.0,2,21,0,11,10.5,523,2018
-2,23,Jets,Terrence Brooks,26,DB,16,0,1,0,0,0,0.0,0,0,0,0,,0,2018
-3,40,Jets,Trenton Cannon,24,RB,16,0,0,0,0,0,,1,20,0,20,20.0,277,2018
-4,11,Jets,Robbie Chosen,25,WR,14,9,0,0,0,0,,1,13,0,13,13.0,757,2018
-5,91,Jets,Bronson Kaufusi,27,LB,3,0,0,0,0,0,,1,0,0,0,0.0,0,2018
-6,83,Jets,Eric Tomlinson,26,TE,15,12,0,0,0,0,,1,10,0,10,10.0,82,2018
+,No.,Player,Age,Position,Games Played,Games Started,Punts Returned,Punts Return Yardage,Punts Returned for Touchdown,Longest Punt Return,Yards per Punt Return,Kickoff Returns,Yardage for Kickoffs Returned,Kickoffs Returned for a Touchdown,Longest Kickoff Return,Yards per Kickoff Return,All-purpose Yards,Team,Year
+19,19,Andre Roberts,30,WR,16,1,23,324,1,78,14.1,40,1174,1,99,29.4,1597,Jets,2018
+89,89,Chris Herndon,22,TE,16,12,1,0,0,0,0.0,2,21,0,11,10.5,523,Jets,2018
+23,23,Terrence Brooks,26,DB,16,0,1,0,0,0,0.0,0,0,0,0,0.0,0,Jets,2018
+40,40,Trenton Cannon,24,RB,16,0,0,0,0,0,0.0,1,20,0,20,20.0,277,Jets,2018
+11,11,Robbie Chosen,25,WR,14,9,0,0,0,0,0.0,1,13,0,13,13.0,757,Jets,2018
+91,91,Bronson Kaufusi,27,LB,3,0,0,0,0,0,0.0,1,0,0,0,0.0,0,Jets,2018
+83,83,Eric Tomlinson,26,TE,15,12,0,0,0,0,0.0,1,10,0,10,10.0,82,Jets,2018

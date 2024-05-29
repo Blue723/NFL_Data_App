@@ -1,18 +1,18 @@
-,No.,Team,Player,Age,Position,Games Played,Games Started as an Offensive or Defensive Player,Rushing Attempts,Rushing Yards Gained,Rushing Touchdown,First Downs Rushing,Rushing Success Rate,Longest Rushing Attempt,Rushing Yards per Attempt,Rushing Yards per Game,Rushing Attempts per Game,Pass Targets,Receptions,Receiving Yards,Receiving Yards per Reception,Receiving Touchdowns,First Downs Receiving,Receiving Success Rate,Longest Reception,Receptions per Game,Receiving Yards per Game,Catch Per.,Receiving Yards per Target,Touches: Rushing Attempts and Receptions,Scrimmage Yards per Touch: Rushing + Receiving Yardage per Opportunity,Yards from Scrimmage: Receiving and Rushing Yards,Rushing and Receiving Touchdowns,Lost and Recovered Fumbles,Year
-0,25,Vikings,Latavius Murray,28,RB,16,6,140,578,6,23,42.1,38,4.1,36.1,8.8,26,22,141,6.4,0,7,42.3,16,1.4,8.8,84.6,5.4,162,4.4,719,6,0,2018
-1,33,Vikings,Dalvin Cook,23,RB,11,10,133,615,2,22,41.4,70,4.6,55.9,12.1,49,40,305,7.6,2,15,51.0,27,3.6,27.7,81.6,6.2,173,5.3,920,4,2,2018
-2,8,Vikings,Kirk Cousins,30,QB,16,16,44,123,1,12,36.4,19,2.8,7.7,2.8,1,1,-1,-1.0,0,0,0.0,-1,0.1,-0.1,100.0,-1.0,45,2.7,122,1,9,2018
-3,44,Vikings,Mike Boone,23,RB,8,0,11,47,0,2,36.4,20,4.3,5.9,1.4,3,2,1,0.5,0,0,0.0,1,0.3,0.1,66.7,0.3,13,3.7,48,0,0,2018
-4,14,Vikings,Stefon Diggs,25,WR,15,14,10,62,0,3,70.0,20,6.2,4.1,0.7,149,102,1021,10.0,9,49,48.3,75,6.8,68.1,68.5,6.9,112,9.7,1083,9,0,2018
-5,32,Vikings,Roc Thomas,23,RB,5,0,8,30,0,2,50.0,23,3.8,6.0,1.6,4,2,21,10.5,0,0,0.0,15,0.4,4.2,50.0,5.3,10,5.1,51,0,0,2018
-6,30,Vikings,C.J. Ham,25,RB,15,2,6,8,0,1,16.7,5,1.3,0.5,0.4,15,11,85,7.7,0,4,53.3,17,0.7,5.7,73.3,5.7,17,5.5,93,0,0,2018
-7,19,Vikings,Adam Thielen,28,WR,16,16,5,30,0,1,60.0,15,6.0,1.9,0.3,153,113,1373,12.2,9,74,64.1,68,7.1,85.8,73.9,9.0,118,11.9,1403,9,1,2018
-8,82,Vikings,Kyle Rudolph,29,TE,16,16,0,0,0,0,,0,,,,82,64,634,9.9,4,32,61.0,44,4.0,39.6,78.0,7.7,64,9.9,634,4,0,2018
-9,11,Vikings,Laquon Treadwell,23,WR,15,7,0,0,0,0,,0,,,,53,35,302,8.6,1,16,45.3,22,2.3,20.1,66.0,5.7,35,8.6,302,1,0,2018
-10,17,Vikings,Aldrick Robinson,30,WR,14,0,0,0,0,0,,0,,,,35,17,231,13.6,5,12,48.6,40,1.2,16.5,48.6,6.6,17,13.6,231,5,0,2018
-11,83,Vikings,Tyler Conklin,23,TE,16,3,0,0,0,0,,0,,,,7,5,77,15.4,0,3,71.4,33,0.3,4.8,71.4,11.0,5,15.4,77,0,0,2018
-12,89,Vikings,David Morgan,25,TE,11,6,0,0,0,0,,0,,,,6,5,36,7.2,0,2,66.7,13,0.5,3.3,83.3,6.0,5,7.2,36,0,0,2018
-13,12,Vikings,Chad Beebe,24,WR,3,0,0,0,0,0,,0,,,,4,4,39,9.8,0,3,75.0,18,1.3,13.0,100.0,9.8,4,9.8,39,0,0,2018
-14,31,Vikings,Ameer Abdullah,25,RB,7,0,0,0,0,0,,0,,,,2,1,10,10.0,0,0,50.0,10,0.1,1.4,50.0,5.0,1,10.0,10,0,0,2018
-15,15,Vikings,Brandon Zylstra,25,WR,16,0,0,0,0,0,,0,,,,2,1,23,23.0,0,1,50.0,23,0.1,1.4,50.0,11.5,1,23.0,23,0,0,2018
-16,13,Vikings,Stacy Coley,24,WR,2,0,0,0,0,0,,0,,,,1,0,0,,0,0,0.0,0,0.0,0.0,0.0,0.0,0,,0,0,0,2018
+,No.,Player,Age,Position,Games Played,Games Started as an Offensive or Defensive Player,Rushing Attempts,Rushing Yards Gained,Rushing Touchdown,First Downs Rushing,Rushing Success Rate,Longest Rushing Attempt,Rushing Yards per Attempt,Rushing Yards per Game,Rushing Attempts per Game,Pass Targets,Receptions,Receiving Yards,Receiving Yards per Reception,Receiving Touchdowns,First Downs Receiving,Receiving Success Rate,Longest Reception,Receptions per Game,Receiving Yards per Game,Catch Per.,Receiving Yards per Target,Touches: Rushing Attempts and Receptions,Scrimmage Yards per Touch: Rushing + Receiving Yardage per Opportunity,Yards from Scrimmage: Receiving and Rushing Yards,Rushing and Receiving Touchdowns,Lost and Recovered Fumbles,Team,Year
+25,25,Latavius Murray,28,RB,16,6,140,578,6,23,42.1,38,4.1,36.1,8.8,26,22,141,6.4,0,7,42.3,16,1.4,8.8,84.6,5.4,162,4.4,719,6,0,Vikings,2018
+33,33,Dalvin Cook,23,RB,11,10,133,615,2,22,41.4,70,4.6,55.9,12.1,49,40,305,7.6,2,15,51.0,27,3.6,27.7,81.6,6.2,173,5.3,920,4,2,Vikings,2018
+8,8,Kirk Cousins,30,QB,16,16,44,123,1,12,36.4,19,2.8,7.7,2.8,1,1,-1,-1.0,0,0,0.0,-1,0.1,-0.1,100.0,-1.0,45,2.7,122,1,9,Vikings,2018
+44,44,Mike Boone,23,RB,8,0,11,47,0,2,36.4,20,4.3,5.9,1.4,3,2,1,0.5,0,0,0.0,1,0.3,0.1,66.7,0.3,13,3.7,48,0,0,Vikings,2018
+14,14,Stefon Diggs,25,WR,15,14,10,62,0,3,70.0,20,6.2,4.1,0.7,149,102,1021,10.0,9,49,48.3,75,6.8,68.1,68.5,6.9,112,9.7,1083,9,0,Vikings,2018
+32,32,Roc Thomas,23,RB,5,0,8,30,0,2,50.0,23,3.8,6.0,1.6,4,2,21,10.5,0,0,0.0,15,0.4,4.2,50.0,5.3,10,5.1,51,0,0,Vikings,2018
+30,30,C.J. Ham,25,RB,15,2,6,8,0,1,16.7,5,1.3,0.5,0.4,15,11,85,7.7,0,4,53.3,17,0.7,5.7,73.3,5.7,17,5.5,93,0,0,Vikings,2018
+19,19,Adam Thielen,28,WR,16,16,5,30,0,1,60.0,15,6.0,1.9,0.3,153,113,1373,12.2,9,74,64.1,68,7.1,85.8,73.9,9.0,118,11.9,1403,9,1,Vikings,2018
+82,82,Kyle Rudolph,29,TE,16,16,0,0,0,0,0.0,0,0.0,0.0,0.0,82,64,634,9.9,4,32,61.0,44,4.0,39.6,78.0,7.7,64,9.9,634,4,0,Vikings,2018
+11,11,Laquon Treadwell,23,WR,15,7,0,0,0,0,0.0,0,0.0,0.0,0.0,53,35,302,8.6,1,16,45.3,22,2.3,20.1,66.0,5.7,35,8.6,302,1,0,Vikings,2018
+17,17,Aldrick Robinson,30,WR,14,0,0,0,0,0,0.0,0,0.0,0.0,0.0,35,17,231,13.6,5,12,48.6,40,1.2,16.5,48.6,6.6,17,13.6,231,5,0,Vikings,2018
+83,83,Tyler Conklin,23,TE,16,3,0,0,0,0,0.0,0,0.0,0.0,0.0,7,5,77,15.4,0,3,71.4,33,0.3,4.8,71.4,11.0,5,15.4,77,0,0,Vikings,2018
+89,89,David Morgan,25,TE,11,6,0,0,0,0,0.0,0,0.0,0.0,0.0,6,5,36,7.2,0,2,66.7,13,0.5,3.3,83.3,6.0,5,7.2,36,0,0,Vikings,2018
+12,12,Chad Beebe,24,WR,3,0,0,0,0,0,0.0,0,0.0,0.0,0.0,4,4,39,9.8,0,3,75.0,18,1.3,13.0,100.0,9.8,4,9.8,39,0,0,Vikings,2018
+31,31,Ameer Abdullah,25,RB,7,0,0,0,0,0,0.0,0,0.0,0.0,0.0,2,1,10,10.0,0,0,50.0,10,0.1,1.4,50.0,5.0,1,10.0,10,0,0,Vikings,2018
+15,15,Brandon Zylstra,25,WR,16,0,0,0,0,0,0.0,0,0.0,0.0,0.0,2,1,23,23.0,0,1,50.0,23,0.1,1.4,50.0,11.5,1,23.0,23,0,0,Vikings,2018
+13,13,Stacy Coley,24,WR,2,0,0,0,0,0,0.0,0,0.0,0.0,0.0,1,0,0,0.0,0,0,0.0,0,0.0,0.0,0.0,0.0,0,0.0,0,0,0,Vikings,2018

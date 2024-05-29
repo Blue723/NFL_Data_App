@@ -1,15 +1,15 @@
-,No.,Team,Player,Age,Pos,Games Played,Games Started,Rush TD,Reception TD,Punt Return TD,Kick Return TD,Fumble Return TD,Interception TD,Other TD,All Touchdown Scored,2-Point Conversions Made,Two-Point Conversions Attempted,Defensive Two-Point Conversions,Extra Points Made,Extra Points Allowed,Field Goals Made,Field Goals Attempted,Safeties Scored by Player/Team,Total Points Scored by all Means,Poins per Game,Year
-0,5,Lions,Matt Prater,34,K,16,0,0,0,0,0,0,0,0,0,0,0,0,30,30,28,32,,114,7.1,2018
-1,29,Lions,LeGarrette Blount,32,RB,16,8,5,0,0,0,0,0,0,5,0,0,0,0,0,0,0,,30,1.9,2018
-2,19,Lions,Kenny Golladay,25,WR,15,13,0,5,0,0,0,0,0,5,0,0,0,0,0,0,0,,30,2.0,2018
-3,11,Lions,Marvin Jones,28,WR,9,9,0,5,0,0,0,0,0,5,0,0,0,0,0,0,0,,30,3.3,2018
-4,33,Lions,Kerryon Johnson,21,RB,10,7,3,1,0,0,0,0,0,4,0,0,0,0,0,0,0,,24,2.4,2018
-5,80,Lions,Michael Roberts,24,TE,8,2,0,3,0,0,0,0,0,3,0,0,0,0,0,0,0,,18,2.3,2018
-6,15,Lions,Golden Tate,30,WR,7,4,0,3,0,0,0,0,0,3,0,0,0,0,0,0,0,,18,2.6,2018
-7,34,Lions,Zach Zenner,27,RB,8,1,3,0,0,0,0,0,0,3,0,0,0,0,0,0,0,,18,2.3,2018
-8,13,Lions,T.J. Jones,26,WR,15,3,0,2,0,0,0,0,0,2,0,0,0,0,0,0,0,,12,0.8,2018
-9,68,Lions,Taylor Decker,25,LT,16,16,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,,6,0.4,2018
-10,28,Lions,Quandre Diggs,25,SS,16,16,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,,6,0.4,2018
-11,17,Lions,Andy Jones,24,WR,8,3,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,,6,0.8,2018
-12,23,Lions,Darius Slay,27,LCB,15,15,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,,6,0.4,2018
-13,87,Lions,Levine Toilolo,27,TE,16,10,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,,6,0.4,2018
+,No.,Player,Age,Pos,Games Played,Games Started,Rush TD,Reception TD,Punt Return TD,Kick Return TD,Fumble Return TD,Interception TD,Other TD,All Touchdown Scored,2-Point Conversions Made,Two-Point Conversions Attempted,Defensive Two-Point Conversions,Extra Points Made,Extra Points Allowed,Field Goals Made,Field Goals Attempted,Safeties Scored by Player/Team,Total Points Scored by all Means,Poins per Game,Team,Year
+5,5,Matt Prater,34,K,16,0,0,0,0,0,0,0,0,0,0,0,0,30,30,28,32,0,114,7.1,Lions,2018
+29,29,LeGarrette Blount,32,RB,16,8,5,0,0,0,0,0,0,5,0,0,0,0,0,0,0,0,30,1.9,Lions,2018
+19,19,Kenny Golladay,25,WR,15,13,0,5,0,0,0,0,0,5,0,0,0,0,0,0,0,0,30,2.0,Lions,2018
+11,11,Marvin Jones,28,WR,9,9,0,5,0,0,0,0,0,5,0,0,0,0,0,0,0,0,30,3.3,Lions,2018
+33,33,Kerryon Johnson,21,RB,10,7,3,1,0,0,0,0,0,4,0,0,0,0,0,0,0,0,24,2.4,Lions,2018
+80,80,Michael Roberts,24,TE,8,2,0,3,0,0,0,0,0,3,0,0,0,0,0,0,0,0,18,2.3,Lions,2018
+15,15,Golden Tate,30,WR,7,4,0,3,0,0,0,0,0,3,0,0,0,0,0,0,0,0,18,2.6,Lions,2018
+34,34,Zach Zenner,27,RB,8,1,3,0,0,0,0,0,0,3,0,0,0,0,0,0,0,0,18,2.3,Lions,2018
+13,13,T.J. Jones,26,WR,15,3,0,2,0,0,0,0,0,2,0,0,0,0,0,0,0,0,12,0.8,Lions,2018
+68,68,Taylor Decker,24,LT,16,16,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,6,0.4,Lions,2018
+28,28,Quandre Diggs,25,SS,16,16,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,6,0.4,Lions,2018
+17,17,Andy Jones,24,WR,8,3,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,6,0.8,Lions,2018
+23,23,Darius Slay,27,LCB,15,15,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,6,0.4,Lions,2018
+87,87,Levine Toilolo,27,TE,16,10,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,6,0.4,Lions,2018

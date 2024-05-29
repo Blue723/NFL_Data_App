@@ -1,18 +1,18 @@
-,No.,Team,Player,Age,Position,Games Played,Games Started as an Offensive or Defensive Player,Rushing Attempts,Rushing Yards Gained,Rushing Touchdown,First Downs Rushing,Rushing Success Rate,Longest Rushing Attempt,Rushing Yards per Attempt,Rushing Yards per Game,Rushing Attempts per Game,Pass Targets,Receptions,Receiving Yards,Receiving Yards per Reception,Receiving Touchdowns,First Downs Receiving,Receiving Success Rate,Longest Reception,Receptions per Game,Receiving Yards per Game,Catch Per.,Receiving Yards per Target,Touches: Rushing Attempts and Receptions,Scrimmage Yards per Touch: Rushing + Receiving Yardage per Opportunity,Yards from Scrimmage: Receiving and Rushing Yards,Rushing and Receiving Touchdowns,Lost and Recovered Fumbles,Year
-0,26,Falcons,Tevin Coleman,25,RB,16,14,167,800,4,36,42.5,65,4.8,50.0,10.4,44,32,276,8.6,5,15,52.3,39,2.0,17.3,72.7,6.3,199,5.4,1076,9,2,2018
-1,25,Falcons,Ito Smith,23,RB,14,0,90,315,4,18,47.8,18,3.5,22.5,6.4,32,27,152,5.6,0,9,46.9,20,1.9,10.9,84.4,4.8,117,4.0,467,4,1,2018
-2,2,Falcons,Matt Ryan,33,QB,16,16,33,125,3,15,57.6,15,3.8,7.8,2.1,1,1,5,5.0,1,1,100.0,5,0.1,0.3,100.0,5.0,34,3.8,130,4,10,2018
-3,32,Falcons,Brian Hill,23,RB,10,0,20,157,0,5,45.0,60,7.9,15.7,2.0,2,1,9,9.0,0,0,0.0,9,0.1,0.9,50.0,4.5,21,7.9,166,0,1,2018
-4,24,Falcons,Devonta Freeman,26,RB,2,2,14,68,0,2,50.0,20,4.9,34.0,7.0,7,5,23,4.6,0,0,14.3,14,2.5,11.5,71.4,3.3,19,4.8,91,0,0,2018
-5,43,Falcons,Jeremy Langford,27,RB,1,0,9,25,0,1,44.4,7,2.8,25.0,9.0,0,0,0,,0,0,,0,,,0.0,,9,2.8,25,0,0,2018
-6,12,Falcons,Mohamed Sanu,29,WR,16,16,7,44,0,5,71.4,24,6.3,2.8,0.4,94,66,838,12.7,4,40,61.7,44,4.1,52.4,70.2,8.9,73,12.1,882,4,2,2018
-7,18,Falcons,Calvin Ridley,24,WR,16,5,6,27,0,1,50.0,9,4.5,1.7,0.4,92,64,821,12.8,10,39,51.1,75,4.0,51.3,69.6,8.9,70,12.1,848,10,2,2018
-8,11,Falcons,Julio Jones,29,WR,16,16,2,12,0,1,50.0,11,6.0,0.8,0.1,170,113,1677,14.8,8,80,59.4,58,7.1,104.8,66.5,9.9,115,14.7,1689,8,2,2018
-9,17,Falcons,Marvin Hall,25,WR,16,0,2,0,0,0,0.0,3,0.0,0.0,0.1,19,10,149,14.9,1,5,42.1,47,0.6,9.3,52.6,7.8,12,12.4,149,1,0,2018
-10,8,Falcons,Matt Schaub,37,QB,3,0,1,0,0,0,0.0,0,0.0,0.0,0.3,1,1,-7,-7.0,0,0,0.0,-7,0.3,-2.3,100.0,-7.0,2,-3.5,-7,0,1,2018
-11,81,Falcons,Austin Hooper,24,TE,16,7,0,0,0,0,,0,,,,88,71,660,9.3,4,30,59.1,36,4.4,41.3,80.7,7.5,71,9.3,660,4,0,2018
-12,14,Falcons,Justin Hardy,27,WR,16,0,0,0,0,0,,0,,,,22,14,133,9.5,2,8,59.1,19,0.9,8.3,63.6,6.0,14,9.5,133,2,1,2018
-13,82,Falcons,Logan Paulsen,31,TE,15,10,0,0,0,0,,0,,,,9,9,91,10.1,1,6,88.9,19,0.6,6.1,100.0,10.1,9,10.1,91,1,0,2018
-14,83,Falcons,Russell Gage,22,WR,15,0,0,0,0,0,,0,,,,10,6,63,10.5,0,2,60.0,22,0.4,4.2,60.0,6.3,6,10.5,63,0,0,2018
-15,85,Falcons,Eric Saubert,24,TE,16,1,0,0,0,0,,0,,,,9,5,48,9.6,0,2,44.4,17,0.3,3.0,55.6,5.3,5,9.6,48,0,0,2018
-16,30,Falcons,Ricky Ortiz,24,FB,12,9,0,0,0,0,,0,,,,4,3,11,3.7,0,0,50.0,7,0.3,0.9,75.0,2.8,3,3.7,11,0,0,2018
+,No.,Player,Age,Position,Games Played,Games Started as an Offensive or Defensive Player,Rushing Attempts,Rushing Yards Gained,Rushing Touchdown,First Downs Rushing,Rushing Success Rate,Longest Rushing Attempt,Rushing Yards per Attempt,Rushing Yards per Game,Rushing Attempts per Game,Pass Targets,Receptions,Receiving Yards,Receiving Yards per Reception,Receiving Touchdowns,First Downs Receiving,Receiving Success Rate,Longest Reception,Receptions per Game,Receiving Yards per Game,Catch Per.,Receiving Yards per Target,Touches: Rushing Attempts and Receptions,Scrimmage Yards per Touch: Rushing + Receiving Yardage per Opportunity,Yards from Scrimmage: Receiving and Rushing Yards,Rushing and Receiving Touchdowns,Lost and Recovered Fumbles,Team,Year
+26,26,Tevin Coleman,25,RB,16,14,167,800,4,36,42.5,65,4.8,50.0,10.4,44,32,276,8.6,5,15,52.3,39,2.0,17.3,72.7,6.3,199,5.4,1076,9,2,Falcons,2018
+25,25,Ito Smith,23,RB,14,0,90,315,4,18,47.8,18,3.5,22.5,6.4,32,27,152,5.6,0,9,46.9,20,1.9,10.9,84.4,4.8,117,4.0,467,4,1,Falcons,2018
+2,2,Matt Ryan,33,QB,16,16,33,125,3,15,57.6,15,3.8,7.8,2.1,1,1,5,5.0,1,1,100.0,5,0.1,0.3,100.0,5.0,34,3.8,130,4,10,Falcons,2018
+32,32,Brian Hill,23,RB,10,0,20,157,0,5,45.0,60,7.9,15.7,2.0,2,1,9,9.0,0,0,0.0,9,0.1,0.9,50.0,4.5,21,7.9,166,0,1,Falcons,2018
+24,24,Devonta Freeman,26,RB,2,2,14,68,0,2,50.0,20,4.9,34.0,7.0,7,5,23,4.6,0,0,14.3,14,2.5,11.5,71.4,3.3,19,4.8,91,0,0,Falcons,2018
+43,43,Jeremy Langford,27,RB,1,0,9,25,0,1,44.4,7,2.8,25.0,9.0,0,0,0,0.0,0,0,0.0,0,0.0,0.0,0.0,0.0,9,2.8,25,0,0,Falcons,2018
+12,12,Mohamed Sanu,29,WR,16,16,7,44,0,5,71.4,24,6.3,2.8,0.4,94,66,838,12.7,4,40,61.7,44,4.1,52.4,70.2,8.9,73,12.1,882,4,2,Falcons,2018
+18,18,Calvin Ridley,24,WR,16,5,6,27,0,1,50.0,9,4.5,1.7,0.4,92,64,821,12.8,10,39,51.1,75,4.0,51.3,69.6,8.9,70,12.1,848,10,2,Falcons,2018
+11,11,Julio Jones,29,WR,16,16,2,12,0,1,50.0,11,6.0,0.8,0.1,170,113,1677,14.8,8,80,59.4,58,7.1,104.8,66.5,9.9,115,14.7,1689,8,2,Falcons,2018
+17,17,Marvin Hall,25,WR,16,0,2,0,0,0,0.0,3,0.0,0.0,0.1,19,10,149,14.9,1,5,42.1,47,0.6,9.3,52.6,7.8,12,12.4,149,1,0,Falcons,2018
+8,8,Matt Schaub,37,QB,3,0,1,0,0,0,0.0,0,0.0,0.0,0.3,1,1,-7,-7.0,0,0,0.0,-7,0.3,-2.3,100.0,-7.0,2,-3.5,-7,0,1,Falcons,2018
+81,81,Austin Hooper,24,TE,16,7,0,0,0,0,0.0,0,0.0,0.0,0.0,88,71,660,9.3,4,30,59.1,36,4.4,41.3,80.7,7.5,71,9.3,660,4,0,Falcons,2018
+14,14,Justin Hardy,27,WR,16,0,0,0,0,0,0.0,0,0.0,0.0,0.0,22,14,133,9.5,2,8,59.1,19,0.9,8.3,63.6,6.0,14,9.5,133,2,1,Falcons,2018
+82,82,Logan Paulsen,31,TE,15,10,0,0,0,0,0.0,0,0.0,0.0,0.0,9,9,91,10.1,1,6,88.9,19,0.6,6.1,100.0,10.1,9,10.1,91,1,0,Falcons,2018
+83,83,Russell Gage,22,WR,15,0,0,0,0,0,0.0,0,0.0,0.0,0.0,10,6,63,10.5,0,2,60.0,22,0.4,4.2,60.0,6.3,6,10.5,63,0,0,Falcons,2018
+85,85,Eric Saubert,24,TE,16,1,0,0,0,0,0.0,0,0.0,0.0,0.0,9,5,48,9.6,0,2,44.4,17,0.3,3.0,55.6,5.3,5,9.6,48,0,0,Falcons,2018
+30,30,Ricky Ortiz,24,FB,12,9,0,0,0,0,0.0,0,0.0,0.0,0.0,4,3,11,3.7,0,0,50.0,7,0.3,0.9,75.0,2.8,3,3.7,11,0,0,Falcons,2018

@@ -1,4 +1,4 @@
-,No.,Team,Player,Age,Position,Games Played,Games Started,FGA 0-19,FGM 0-19,FGA 20-29,FGM 20-29,FGA 30-39,FGM 30-39,FGA 40-49,FGM 40-49,FGA 50+,FGM 50+,Field Goals Attempted,Field Goals Made,Longest Field Goal Made,Per. of Field Goals Made,Extra Points Attempted,Extra Points Made,Extra Point Per.,Kickoffs,Kickoff Yards,Kickoff Touchbacks,Per. Kickoff was a Touchback,Kickoff Average Yardage,Year
-0,4,Jaguars,Josh Lambo,28,K,13,0,0,0,4,4,8,8,4,3,5,4,21,19,57,90.5,20,19,95.0,54,3283,36,66.7,60.8,2018
-1,2,Jaguars,Kai Forbath,31,K,3,0,0,0,2,2,1,1,1,1,1,0,5,4,41,80.0,3,3,100.0,0,0,0,0.0,0.0,2018
-2,9,Jaguars,Logan Cooke,23,P,16,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0.0,10,625,5,50.0,62.5,2018
+,No.,Player,Age,Position,Games Played,Games Started,FGA 0-19,FGM 0-19,FGA 20-29,FGM 20-29,FGA 30-39,FGM 30-39,FGA 40-49,FGM 40-49,FGA 50+,FGM 50+,Field Goals Attempted,Field Goals Made,Longest Field Goal Made,Per. of Field Goals Made,Extra Points Attempted,Extra Points Made,Extra Point Per.,Kickoffs,Kickoff Yards,Kickoff Touchbacks,Per. Kickoff was a Touchback,Kickoff Average Yardage,Team,Year
+4,4,Josh Lambo,28,K,13,0,0,0,4,4,8,8,4,3,5,4,21,19,57,90.5,20,19,95.0,54,3283,36,66.7,60.8,Jaguars,2018
+2,2,Kai Forbath,31,K,3,0,0,0,2,2,1,1,1,1,1,0,5,4,41,80.0,3,3,100.0,0,0,0,0.0,0.0,Jaguars,2018
+9,9,Logan Cooke,23,P,16,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0.0,10,625,5,50.0,62.5,Jaguars,2018

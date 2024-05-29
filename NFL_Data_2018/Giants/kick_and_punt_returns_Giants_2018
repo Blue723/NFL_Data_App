@@ -1,12 +1,12 @@
-,No.,Team,Player,Age,Position,Games Played,Games Started,Punts Returned,Punts Return Yardage,Punts Returned for Touchdown,Longest Punt Return,Yards per Punt Return,Kickoff Returns,Yardage for Kickoffs Returned,Kickoffs Returned for a Touchdown,Longest Kickoff Return,Yards per Kickoff Return,All-purpose Yards,Year
-0,19,Giants,Corey Coleman,24,WR,8,1,1,19,0,19,19.0,23,598,0,51,26.0,693,2018
-1,80,Giants,Jawill Davis,23,WR,7,0,12,89,0,23,7.4,7,171,0,32,24.4,300,2018
-2,15,Giants,Quadree Henderson,22,WR,5,0,9,68,0,21,7.6,5,112,0,30,22.4,180,2018
-3,13,Giants,Odell Beckham Jr.,26,WR,12,12,8,34,0,16,4.3,1,26,0,26,26.0,1131,2018
-4,15,Giants,Kaelin Clay,26,WR,2,0,5,15,0,6,3.0,0,0,0,0,,15,2018
-5,12,Giants,Cody Latimer,26,WR,6,2,0,0,0,0,,5,123,0,34,24.6,313,2018
-6,83,Giants,Stacy Coley,24,WR,1,0,2,6,0,6,3.0,2,27,0,21,13.5,33,2018
-7,82,Giants,Scott Simonson,26,TE,16,4,0,0,0,0,,1,12,0,12,12.0,98,2018
-8,31,Giants,Michael Thomas,28,SS,16,6,0,0,0,0,,1,4,0,4,4.0,30,2018
-9,39,Giants,Elijhaa Penny,25,RB,14,3,0,0,0,0,,0,-3,0,-3,,72,2018
-10,87,Giants,Sterling Shepard,25,WR,16,16,0,0,0,0,,0,27,0,27,,932,2018
+,No.,Player,Age,Position,Games Played,Games Started,Punts Returned,Punts Return Yardage,Punts Returned for Touchdown,Longest Punt Return,Yards per Punt Return,Kickoff Returns,Yardage for Kickoffs Returned,Kickoffs Returned for a Touchdown,Longest Kickoff Return,Yards per Kickoff Return,All-purpose Yards,Team,Year
+19,19,Corey Coleman,24,WR,8,1,1,19,0,19,19.0,23,598,0,51,26.0,693,Giants,2018
+80,80,Jawill Davis,23,WR,7,0,12,89,0,23,7.4,7,171,0,32,24.4,300,Giants,2018
+15,15,Quadree Henderson,22,WR,5,0,9,68,0,21,7.6,5,112,0,30,22.4,180,Giants,2018
+13,13,Odell Beckham Jr.,26,WR,12,12,8,34,0,16,4.3,1,26,0,26,26.0,1131,Giants,2018
+15,15,Kaelin Clay,26,WR,2,0,5,15,0,6,3.0,0,0,0,0,0.0,15,Giants,2018
+12,12,Cody Latimer,26,WR,6,2,0,0,0,0,0.0,5,123,0,34,24.6,313,Giants,2018
+83,83,Stacy Coley,24,WR,1,0,2,6,0,6,3.0,2,27,0,21,13.5,33,Giants,2018
+82,82,Scott Simonson,26,TE,16,4,0,0,0,0,0.0,1,12,0,12,12.0,98,Giants,2018
+31,31,Michael Thomas,28,SS,16,6,0,0,0,0,0.0,1,4,0,4,4.0,30,Giants,2018
+39,39,Elijhaa Penny,25,RB,14,3,0,0,0,0,0.0,0,-3,0,-3,0.0,72,Giants,2018
+87,87,Sterling Shepard,25,WR,16,16,0,0,0,0,0.0,0,27,0,27,0.0,932,Giants,2018

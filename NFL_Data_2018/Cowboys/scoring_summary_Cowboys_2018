@@ -1,12 +1,12 @@
-,No.,Team,Player,Age,Pos,Games Played,Games Started,Rush TD,Reception TD,Punt Return TD,Kick Return TD,Fumble Return TD,Interception TD,Other TD,All Touchdown Scored,2-Point Conversions Made,Two-Point Conversions Attempted,Defensive Two-Point Conversions,Extra Points Made,Extra Points Allowed,Field Goals Made,Field Goals Attempted,Safeties Scored by Player/Team,Total Points Scored by all Means,Poins per Game,Year
-0,2,Cowboys,Brett Maher,29,K,16,0,0,0,0,0,0,0,0,0,0,0,0,32,33,29,36,,119,7.4,2018
-1,21,Cowboys,Ezekiel Elliott,23,RB,15,15,6,3,0,0,0,0,0,9,0,0,0,0,0,0,0,,54,3.6,2018
-2,4,Cowboys,Dak Prescott,25,QB,16,16,6,0,0,0,0,0,0,6,1,0,0,0,0,0,0,,38,2.4,2018
-3,19,Cowboys,Amari Cooper,24,WR,9,9,0,6,0,0,0,0,0,6,0,0,0,0,0,0,0,,36,4.0,2018
-4,11,Cowboys,Cole Beasley,29,WR,16,4,0,3,0,0,0,0,0,3,0,0,0,0,0,0,0,,18,1.1,2018
-5,89,Cowboys,Blake Jarwin,24,TE,16,4,0,3,0,0,0,0,0,3,0,0,0,0,0,0,0,,18,1.1,2018
-6,13,Cowboys,Michael Gallup,22,WR,16,8,0,2,0,0,0,0,0,2,1,0,0,0,0,0,0,,14,0.9,2018
-7,17,Cowboys,Allen Hurns,27,WR,16,7,0,2,0,0,0,0,0,2,0,0,0,0,0,0,0,,12,0.8,2018
-8,54,Cowboys,Jaylon Smith,23,MLB,16,16,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,,6,0.4,2018
-9,45,Cowboys,Rod Smith,26,RB,16,1,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,,6,0.4,2018
-10,87,Cowboys,Geoff Swaim,25,TE,9,9,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,,6,0.7,2018
+,No.,Player,Age,Pos,Games Played,Games Started,Rush TD,Reception TD,Punt Return TD,Kick Return TD,Fumble Return TD,Interception TD,Other TD,All Touchdown Scored,2-Point Conversions Made,Two-Point Conversions Attempted,Defensive Two-Point Conversions,Extra Points Made,Extra Points Allowed,Field Goals Made,Field Goals Attempted,Safeties Scored by Player/Team,Total Points Scored by all Means,Poins per Game,Team,Year
+2,2,Brett Maher,29,K,16,0,0,0,0,0,0,0,0,0,0,0,0,32,33,29,36,0,119,7.4,Cowboys,2018
+21,21,Ezekiel Elliott,23,RB,15,15,6,3,0,0,0,0,0,9,0,0,0,0,0,0,0,0,54,3.6,Cowboys,2018
+4,4,Dak Prescott,25,QB,16,16,6,0,0,0,0,0,0,6,1,0,0,0,0,0,0,0,38,2.4,Cowboys,2018
+19,19,Amari Cooper,24,WR,9,9,0,6,0,0,0,0,0,6,0,0,0,0,0,0,0,0,36,4.0,Cowboys,2018
+11,11,Cole Beasley,29,WR,16,4,0,3,0,0,0,0,0,3,0,0,0,0,0,0,0,0,18,1.1,Cowboys,2018
+89,89,Blake Jarwin,24,TE,16,4,0,3,0,0,0,0,0,3,0,0,0,0,0,0,0,0,18,1.1,Cowboys,2018
+13,13,Michael Gallup,22,WR,16,8,0,2,0,0,0,0,0,2,1,0,0,0,0,0,0,0,14,0.9,Cowboys,2018
+17,17,Allen Hurns,27,WR,16,7,0,2,0,0,0,0,0,2,0,0,0,0,0,0,0,0,12,0.8,Cowboys,2018
+54,54,Jaylon Smith,23,MLB,16,16,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,6,0.4,Cowboys,2018
+45,45,Rod Smith,26,RB,16,1,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,6,0.4,Cowboys,2018
+87,87,Geoff Swaim,25,TE,9,9,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,6,0.7,Cowboys,2018

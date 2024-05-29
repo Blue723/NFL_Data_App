@@ -1,38 +1,38 @@
-,Rank,Team,Date,Opponent,Win/Loss,Score,Quarter,Distance,Type,Detail,Year
-0,1,Eagles,09/06/2018,ATL,Win, 18-12,4,9,rush,Tevin Coleman,2018
-1,2,Eagles,09/16/2018,TAM,Loss, 21-27,1,75,pass,DeSean Jackson,2018
-2,3,Eagles,09/16/2018,TAM,Loss, 21-27,2,75,pass,O.J. Howard,2018
-3,4,Eagles,09/16/2018,TAM,Loss, 21-27,2,8,pass,Chris Godwin,2018
-4,5,Eagles,09/16/2018,TAM,Loss, 21-27,3,4,pass,Mike Evans,2018
-5,6,Eagles,09/23/2018,IND,Win, 20-16,1,5,pass,Ryan Grant,2018
-6,7,Eagles,09/30/2018,TEN,Loss, 23-26,3,2,rush,Marcus Mariota,2018
-7,8,Eagles,09/30/2018,TEN,Loss, 23-26,4,11,pass,Tajae Sharpe,2018
-8,9,Eagles,09/30/2018,TEN,Loss, 23-26,5,10,pass,Corey Davis,2018
-9,10,Eagles,10/07/2018,MIN,Loss, 21-23,2,64,fumble,Linval Joseph,2018
-10,11,Eagles,10/07/2018,MIN,Loss, 21-23,2,3,pass,Adam Thielen,2018
-11,12,Eagles,10/11/2018,NYG,Win, 34-13,3,50,rush,Saquon Barkley,2018
-12,13,Eagles,10/21/2018,CAR,Loss, 17-21,4,14,rush,Curtis Samuel,2018
-13,14,Eagles,10/21/2018,CAR,Loss, 17-21,4,18,pass,Devin Funchess,2018
-14,15,Eagles,10/21/2018,CAR,Loss, 17-21,4,1,pass,Greg Olsen,2018
-15,16,Eagles,10/28/2018,JAX,Win, 24-18,3,11,pass,Dede Westbrook,2018
-16,17,Eagles,11/11/2018,DAL,Loss, 20-27,2,1,rush,Dak Prescott,2018
-17,18,Eagles,11/11/2018,DAL,Loss, 20-27,4,7,pass,Ezekiel Elliott,2018
-18,19,Eagles,11/11/2018,DAL,Loss, 20-27,4,1,rush,Ezekiel Elliott,2018
-19,20,Eagles,11/18/2018,NOR,Loss, 7-48,1,3,pass,Austin Carr,2018
-20,21,Eagles,11/18/2018,NOR,Loss, 7-48,2,14,rush,Mark Ingram,2018
-21,22,Eagles,11/18/2018,NOR,Loss, 7-48,2,15,pass,Tre'Quan Smith,2018
-22,23,Eagles,11/18/2018,NOR,Loss, 7-48,3,23,pass,Michael Thomas,2018
-23,24,Eagles,11/18/2018,NOR,Loss, 7-48,3,1,rush,Mark Ingram,2018
-24,25,Eagles,11/18/2018,NOR,Loss, 7-48,4,37,pass,Alvin Kamara,2018
-25,26,Eagles,11/25/2018,NYG,Win, 25-22,1,13,pass,Saquon Barkley,2018
-26,27,Eagles,11/25/2018,NYG,Win, 25-22,2,51,rush,Saquon Barkley,2018
-27,28,Eagles,12/03/2018,WAS,Win, 28-13,2,90,rush,Adrian Peterson,2018
-28,29,Eagles,12/09/2018,DAL,Loss, 23-29,4,28,pass,Amari Cooper,2018
-29,30,Eagles,12/09/2018,DAL,Loss, 23-29,4,75,pass,Amari Cooper,2018
-30,31,Eagles,12/09/2018,DAL,Loss, 23-29,5,15,pass,Amari Cooper,2018
-31,32,Eagles,12/16/2018,LAR,Win, 30-23,1,5,rush,Todd Gurley,2018
-32,33,Eagles,12/16/2018,LAR,Win, 30-23,4,1,rush,Todd Gurley,2018
-33,34,Eagles,12/23/2018,HOU,Win, 32-30,2,5,rush,Deshaun Watson,2018
-34,35,Eagles,12/23/2018,HOU,Win, 32-30,2,6,rush,Deshaun Watson,2018
-35,36,Eagles,12/23/2018,HOU,Win, 32-30,4,20,pass,D'Onta Foreman,2018
-36,37,Eagles,12/23/2018,HOU,Win, 32-30,4,35,pass,Vyncint Smith,2018
+,Rank,Team,Date,Opponent,Win/Loss,Home_Score,Opponenet_Score,Quarter,Distance,Type,Detail
+1,1,Eagles,2018-09-06,ATL,Win,18,12,4,9,rush,Tevin Coleman
+2,2,Eagles,2018-09-16,TAM,Loss,21,27,1,75,pass,DeSean Jackson
+3,3,Eagles,2018-09-16,TAM,Loss,21,27,2,75,pass,O.J. Howard
+4,4,Eagles,2018-09-16,TAM,Loss,21,27,2,8,pass,Chris Godwin
+5,5,Eagles,2018-09-16,TAM,Loss,21,27,3,4,pass,Mike Evans
+6,6,Eagles,2018-09-23,IND,Win,20,16,1,5,pass,Ryan Grant
+7,7,Eagles,2018-09-30,TEN,Loss,23,26,3,2,rush,Marcus Mariota
+8,8,Eagles,2018-09-30,TEN,Loss,23,26,4,11,pass,Tajae Sharpe
+9,9,Eagles,2018-09-30,TEN,Loss,23,26,5,10,pass,Corey Davis
+10,10,Eagles,2018-10-07,MIN,Loss,21,23,2,64,fumble,Linval Joseph
+11,11,Eagles,2018-10-07,MIN,Loss,21,23,2,3,pass,Adam Thielen
+12,12,Eagles,2018-10-11,NYG,Win,34,13,3,50,rush,Saquon Barkley
+13,13,Eagles,2018-10-21,CAR,Loss,17,21,4,14,rush,Curtis Samuel
+14,14,Eagles,2018-10-21,CAR,Loss,17,21,4,18,pass,Devin Funchess
+15,15,Eagles,2018-10-21,CAR,Loss,17,21,4,1,pass,Greg Olsen
+16,16,Eagles,2018-10-28,JAX,Win,24,18,3,11,pass,Dede Westbrook
+17,17,Eagles,2018-11-11,DAL,Loss,20,27,2,1,rush,Dak Prescott
+18,18,Eagles,2018-11-11,DAL,Loss,20,27,4,7,pass,Ezekiel Elliott
+19,19,Eagles,2018-11-11,DAL,Loss,20,27,4,1,rush,Ezekiel Elliott
+20,20,Eagles,2018-11-18,NOR,Loss,7,48,1,3,pass,Austin Carr
+21,21,Eagles,2018-11-18,NOR,Loss,7,48,2,14,rush,Mark Ingram
+22,22,Eagles,2018-11-18,NOR,Loss,7,48,2,15,pass,Tre'Quan Smith
+23,23,Eagles,2018-11-18,NOR,Loss,7,48,3,23,pass,Michael Thomas
+24,24,Eagles,2018-11-18,NOR,Loss,7,48,3,1,rush,Mark Ingram
+25,25,Eagles,2018-11-18,NOR,Loss,7,48,4,37,pass,Alvin Kamara
+26,26,Eagles,2018-11-25,NYG,Win,25,22,1,13,pass,Saquon Barkley
+27,27,Eagles,2018-11-25,NYG,Win,25,22,2,51,rush,Saquon Barkley
+28,28,Eagles,2018-12-03,WAS,Win,28,13,2,90,rush,Adrian Peterson
+29,29,Eagles,2018-12-09,DAL,Loss,23,29,4,28,pass,Amari Cooper
+30,30,Eagles,2018-12-09,DAL,Loss,23,29,4,75,pass,Amari Cooper
+31,31,Eagles,2018-12-09,DAL,Loss,23,29,5,15,pass,Amari Cooper
+32,32,Eagles,2018-12-16,LAR,Win,30,23,1,5,rush,Todd Gurley
+33,33,Eagles,2018-12-16,LAR,Win,30,23,4,1,rush,Todd Gurley
+34,34,Eagles,2018-12-23,HOU,Win,32,30,2,5,rush,Deshaun Watson
+35,35,Eagles,2018-12-23,HOU,Win,32,30,2,6,rush,Deshaun Watson
+36,36,Eagles,2018-12-23,HOU,Win,32,30,4,20,pass,D'Onta Foreman
+37,37,Eagles,2018-12-23,HOU,Win,32,30,4,35,pass,Vyncint Smith

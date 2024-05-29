@@ -1,36 +1,36 @@
-,Rank,Team,Date,Opponent,Win/Loss,Score,Quarter,Distance,Type,Detail,Year
-0,1,Lions,09/10/2018,NYJ,Loss, 17-48,1,37,interception,Quandre Diggs,2018
-1,2,Lions,09/10/2018,NYJ,Loss, 17-48,3,24,pass,Golden Tate,2018
-2,3,Lions,09/16/2018,SFO,Loss, 27-30,1,30,pass,Kenny Golladay,2018
-3,4,Lions,09/16/2018,SFO,Loss, 27-30,4,5,pass,Marvin Jones,2018
-4,5,Lions,09/16/2018,SFO,Loss, 27-30,4,15,pass,Michael Roberts,2018
-5,6,Lions,09/23/2018,NWE,Win, 26-10,2,4,pass,Kenny Golladay,2018
-6,7,Lions,09/23/2018,NWE,Win, 26-10,3,33,pass,Marvin Jones,2018
-7,8,Lions,09/30/2018,DAL,Loss, 24-26,1,45,pass,Golden Tate,2018
-8,9,Lions,09/30/2018,DAL,Loss, 24-26,4,8,rush,Kerryon Johnson,2018
-9,10,Lions,09/30/2018,DAL,Loss, 24-26,4,38,pass,Golden Tate,2018
-10,11,Lions,10/07/2018,GNB,Win, 31-23,1,1,rush,LeGarrette Blount,2018
-11,12,Lions,10/07/2018,GNB,Win, 31-23,1,1,rush,LeGarrette Blount,2018
-12,13,Lions,10/07/2018,GNB,Win, 31-23,2,8,pass,Marvin Jones,2018
-13,14,Lions,10/07/2018,GNB,Win, 31-23,4,5,pass,Kenny Golladay,2018
-14,15,Lions,10/21/2018,MIA,Win, 32-21,1,15,pass,Michael Roberts,2018
-15,16,Lions,10/21/2018,MIA,Win, 32-21,2,2,rush,LeGarrette Blount,2018
-16,17,Lions,10/21/2018,MIA,Win, 32-21,3,4,pass,Michael Roberts,2018
-17,18,Lions,10/28/2018,SEA,Loss, 14-28,1,39,pass,Marvin Jones,2018
-18,19,Lions,10/28/2018,SEA,Loss, 14-28,4,19,pass,Marvin Jones,2018
-19,20,Lions,11/11/2018,CHI,Loss, 22-34,2,1,rush,Kerryon Johnson,2018
-20,21,Lions,11/11/2018,CHI,Loss, 22-34,4,5,pass,Kenny Golladay,2018
-21,22,Lions,11/11/2018,CHI,Loss, 22-34,4,13,pass,Kerryon Johnson,2018
-22,23,Lions,11/18/2018,CAR,Win, 20-19,1,8,rush,Kerryon Johnson,2018
-23,24,Lions,11/18/2018,CAR,Win, 20-19,4,19,pass,Kenny Golladay,2018
-24,25,Lions,11/22/2018,CHI,Loss, 16-23,2,4,rush,LeGarrette Blount,2018
-25,26,Lions,11/22/2018,CHI,Loss, 16-23,3,4,rush,LeGarrette Blount,2018
-26,27,Lions,12/02/2018,LAR,Loss, 16-30,3,11,pass,Taylor Decker,2018
-27,28,Lions,12/09/2018,ARI,Win, 17-3,3,67,interception,Darius Slay,2018
-28,29,Lions,12/09/2018,ARI,Win, 17-3,4,1,rush,Zach Zenner,2018
-29,30,Lions,12/16/2018,BUF,Loss, 13-14,2,4,pass,Andy Jones,2018
-30,31,Lions,12/16/2018,BUF,Loss, 13-14,2,1,rush,Zach Zenner,2018
-31,32,Lions,12/30/2018,GNB,,,1,5,pass,T.J. Jones,2018
-32,33,Lions,12/30/2018,GNB,,,2,8,pass,Levine Toilolo,2018
-33,34,Lions,12/30/2018,GNB,,,2,13,rush,Zach Zenner,2018
-34,35,Lions,12/30/2018,GNB,,,4,23,pass,T.J. Jones,2018
+,Rank,Team,Date,Opponent,Win/Loss,Home_Score,Opponenet_Score,Quarter,Distance,Type,Detail
+1,1,Lions,2018-09-10,NYJ,Loss,17,48,1,37,interception,Quandre Diggs
+2,2,Lions,2018-09-10,NYJ,Loss,17,48,3,24,pass,Golden Tate
+3,3,Lions,2018-09-16,SFO,Loss,27,30,1,30,pass,Kenny Golladay
+4,4,Lions,2018-09-16,SFO,Loss,27,30,4,5,pass,Marvin Jones
+5,5,Lions,2018-09-16,SFO,Loss,27,30,4,15,pass,Michael Roberts
+6,6,Lions,2018-09-23,NWE,Win,26,10,2,4,pass,Kenny Golladay
+7,7,Lions,2018-09-23,NWE,Win,26,10,3,33,pass,Marvin Jones
+8,8,Lions,2018-09-30,DAL,Loss,24,26,1,45,pass,Golden Tate
+9,9,Lions,2018-09-30,DAL,Loss,24,26,4,8,rush,Kerryon Johnson
+10,10,Lions,2018-09-30,DAL,Loss,24,26,4,38,pass,Golden Tate
+11,11,Lions,2018-10-07,GNB,Win,31,23,1,1,rush,LeGarrette Blount
+12,12,Lions,2018-10-07,GNB,Win,31,23,1,1,rush,LeGarrette Blount
+13,13,Lions,2018-10-07,GNB,Win,31,23,2,8,pass,Marvin Jones
+14,14,Lions,2018-10-07,GNB,Win,31,23,4,5,pass,Kenny Golladay
+15,15,Lions,2018-10-21,MIA,Win,32,21,1,15,pass,Michael Roberts
+16,16,Lions,2018-10-21,MIA,Win,32,21,2,2,rush,LeGarrette Blount
+17,17,Lions,2018-10-21,MIA,Win,32,21,3,4,pass,Michael Roberts
+18,18,Lions,2018-10-28,SEA,Loss,14,28,1,39,pass,Marvin Jones
+19,19,Lions,2018-10-28,SEA,Loss,14,28,4,19,pass,Marvin Jones
+20,20,Lions,2018-11-11,CHI,Loss,22,34,2,1,rush,Kerryon Johnson
+21,21,Lions,2018-11-11,CHI,Loss,22,34,4,5,pass,Kenny Golladay
+22,22,Lions,2018-11-11,CHI,Loss,22,34,4,13,pass,Kerryon Johnson
+23,23,Lions,2018-11-18,CAR,Win,20,19,1,8,rush,Kerryon Johnson
+24,24,Lions,2018-11-18,CAR,Win,20,19,4,19,pass,Kenny Golladay
+25,25,Lions,2018-11-22,CHI,Loss,16,23,2,4,rush,LeGarrette Blount
+26,26,Lions,2018-11-22,CHI,Loss,16,23,3,4,rush,LeGarrette Blount
+27,27,Lions,2018-12-02,LAR,Loss,16,30,3,11,pass,Taylor Decker
+28,28,Lions,2018-12-09,ARI,Win,17,3,3,67,interception,Darius Slay
+29,29,Lions,2018-12-09,ARI,Win,17,3,4,1,rush,Zach Zenner
+30,30,Lions,2018-12-16,BUF,Loss,13,14,2,4,pass,Andy Jones
+31,31,Lions,2018-12-16,BUF,Loss,13,14,2,1,rush,Zach Zenner
+32,32,Lions,2018-12-30,GNB,nan,nan,nan,1,5,pass,T.J. Jones
+33,33,Lions,2018-12-30,GNB,nan,nan,nan,2,8,pass,Levine Toilolo
+34,34,Lions,2018-12-30,GNB,nan,nan,nan,2,13,rush,Zach Zenner
+35,35,Lions,2018-12-30,GNB,nan,nan,nan,4,23,pass,T.J. Jones

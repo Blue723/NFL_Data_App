@@ -1,5 +1,5 @@
-,No.,Team,Player,Age,Position,Games Played,Games Started,Punts Returned,Punts Return Yardage,Punts Returned for Touchdown,Longest Punt Return,Yards per Punt Return,Kickoff Returns,Yardage for Kickoffs Returned,Kickoffs Returned for a Touchdown,Longest Kickoff Return,Yards per Kickoff Return,All-purpose Yards,Year
-0,29,Bears,Tarik Cohen,23,RB,16,7,33,411,0,44,12.5,2,22,0,22,11.0,1599,2018
-1,30,Bears,Benny Cunningham,28,RB,15,0,0,0,0,0,,8,173,0,31,21.6,202,2018
-2,33,Bears,Taquan Mizzell,25,RB,9,1,0,0,0,0,,7,106,0,22,15.1,200,2018
-3,17,Bears,Anthony Miller,24,WR,15,4,0,0,0,0,,6,139,0,31,23.2,588,2018
+,No.,Player,Age,Position,Games Played,Games Started,Punts Returned,Punts Return Yardage,Punts Returned for Touchdown,Longest Punt Return,Yards per Punt Return,Kickoff Returns,Yardage for Kickoffs Returned,Kickoffs Returned for a Touchdown,Longest Kickoff Return,Yards per Kickoff Return,All-purpose Yards,Team,Year
+29,29,Tarik Cohen,23,RB,16,7,33,411,0,44,12.5,2,22,0,22,11.0,1599,Bears,2018
+30,30,Benny Cunningham,28,RB,15,0,0,0,0,0,0.0,8,173,0,31,21.6,202,Bears,2018
+33,33,Taquan Mizzell,25,RB,9,1,0,0,0,0,0.0,7,106,0,22,15.1,200,Bears,2018
+17,17,Anthony Miller,24,WR,15,4,0,0,0,0,0.0,6,139,0,31,23.2,588,Bears,2018

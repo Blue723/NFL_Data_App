@@ -1,55 +1,55 @@
-,Rank,Team,Date,Opponent,Win/Loss,Score,Quarter,Distance,Type,Detail,Year
-0,1,Steelers,09/09/2018,CLE,T, 21-21,2,4,rush,James Conner,2018
-1,2,Steelers,09/09/2018,CLE,T, 21-21,3,22,pass,Antonio Brown,2018
-2,3,Steelers,09/09/2018,CLE,T, 21-21,3,22,rush,James Conner,2018
-3,4,Steelers,09/16/2018,KAN,Loss, 37-42,2,26,pass,Jesse James,2018
-4,5,Steelers,09/16/2018,KAN,Loss, 37-42,2,2,pass,JuJu Smith-Schuster,2018
-5,6,Steelers,09/16/2018,KAN,Loss, 37-42,2,14,pass,James Washington,2018
-6,7,Steelers,09/16/2018,KAN,Loss, 37-42,3,1,rush,James Conner,2018
-7,8,Steelers,09/16/2018,KAN,Loss, 37-42,4,3,rush,Ben Roethlisberger,2018
-8,9,Steelers,09/24/2018,TAM,Win, 30-27,1,75,pass,Vance McDonald,2018
-9,10,Steelers,09/24/2018,TAM,Win, 30-27,2,27,pass,Antonio Brown,2018
-10,11,Steelers,09/24/2018,TAM,Win, 30-27,2,10,interception,Bud Dupree,2018
-11,12,Steelers,09/24/2018,TAM,Win, 30-27,2,1,pass,Ryan Switzer,2018
-12,13,Steelers,09/30/2018,BAL,Loss, 14-26,2,26,pass,Antonio Brown,2018
-13,14,Steelers,10/07/2018,ATL,Win, 41-17,1,1,rush,James Conner,2018
-14,15,Steelers,10/07/2018,ATL,Win, 41-17,1,18,pass,JuJu Smith-Schuster,2018
-15,16,Steelers,10/07/2018,ATL,Win, 41-17,3,9,pass,Antonio Brown,2018
-16,17,Steelers,10/07/2018,ATL,Win, 41-17,3,2,rush,James Conner,2018
-17,18,Steelers,10/07/2018,ATL,Win, 41-17,4,47,pass,Antonio Brown,2018
-18,19,Steelers,10/07/2018,ATL,Win, 41-17,4,0,fumble,L.J. Fort,2018
-19,20,Steelers,10/14/2018,CIN,Win, 28-21,2,1,rush,James Conner,2018
-20,21,Steelers,10/14/2018,CIN,Win, 28-21,2,1,rush,James Conner,2018
-21,22,Steelers,10/14/2018,CIN,Win, 28-21,4,31,pass,Antonio Brown,2018
-22,23,Steelers,10/28/2018,CLE,Win, 33-18,2,43,pass,Antonio Brown,2018
-23,24,Steelers,10/28/2018,CLE,Win, 33-18,2,1,pass,Antonio Brown,2018
-24,25,Steelers,10/28/2018,CLE,Win, 33-18,3,12,rush,James Conner,2018
-25,26,Steelers,10/28/2018,CLE,Win, 33-18,4,22,rush,James Conner,2018
-26,27,Steelers,11/04/2018,BAL,Win, 23-16,1,7,pass,James Conner,2018
-27,28,Steelers,11/04/2018,BAL,Win, 23-16,2,6,pass,Antonio Brown,2018
-28,29,Steelers,11/04/2018,BAL,Win, 23-16,3,1,rush,Ben Roethlisberger,2018
-29,30,Steelers,11/08/2018,CAR,Win, 52-21,1,75,pass,JuJu Smith-Schuster,2018
-30,31,Steelers,11/08/2018,CAR,Win, 52-21,1,17,interception,Vince Williams,2018
-31,32,Steelers,11/08/2018,CAR,Win, 52-21,1,2,rush,James Conner,2018
-32,33,Steelers,11/08/2018,CAR,Win, 52-21,2,53,pass,Antonio Brown,2018
-33,34,Steelers,11/08/2018,CAR,Win, 52-21,3,12,pass,Vance McDonald,2018
-34,35,Steelers,11/08/2018,CAR,Win, 52-21,3,8,pass,Jesse James,2018
-35,36,Steelers,11/08/2018,CAR,Win, 52-21,4,6,pass,Jaylen Samuels,2018
-36,37,Steelers,11/18/2018,JAX,Win, 20-16,3,78,pass,Antonio Brown,2018
-37,38,Steelers,11/18/2018,JAX,Win, 20-16,4,11,pass,Vance McDonald,2018
-38,39,Steelers,11/18/2018,JAX,Win, 20-16,4,1,rush,Ben Roethlisberger,2018
-39,40,Steelers,11/25/2018,DEN,Loss, 17-24,2,2,pass,Alejandro Villanueva,2018
-40,41,Steelers,11/25/2018,DEN,Loss, 17-24,3,97,pass,JuJu Smith-Schuster,2018
-41,42,Steelers,12/02/2018,LAC,Loss, 30-33,1,1,rush,James Conner,2018
-42,43,Steelers,12/02/2018,LAC,Loss, 30-33,1,1,rush,James Conner,2018
-43,44,Steelers,12/02/2018,LAC,Loss, 30-33,2,28,pass,Antonio Brown,2018
-44,45,Steelers,12/02/2018,LAC,Loss, 30-33,4,10,pass,Jaylen Samuels,2018
-45,46,Steelers,12/09/2018,OAK,Loss, 21-24,2,2,rush,Stevan Ridley,2018
-46,47,Steelers,12/09/2018,OAK,Loss, 21-24,2,1,pass,JuJu Smith-Schuster,2018
-47,48,Steelers,12/09/2018,OAK,Loss, 21-24,4,1,pass,JuJu Smith-Schuster,2018
-48,49,Steelers,12/16/2018,NWE,Win, 17-10,1,5,pass,Vance McDonald,2018
-49,50,Steelers,12/16/2018,NWE,Win, 17-10,2,17,pass,Antonio Brown,2018
-50,51,Steelers,12/23/2018,NOR,Loss, 28-31,2,3,pass,Jaylen Samuels,2018
-51,52,Steelers,12/23/2018,NOR,Loss, 28-31,3,3,pass,Antonio Brown,2018
-52,53,Steelers,12/23/2018,NOR,Loss, 28-31,3,20,pass,Antonio Brown,2018
-53,54,Steelers,12/30/2018,CIN,Win, 16-13,3,11,pass,JuJu Smith-Schuster,2018
+,Rank,Team,Date,Opponent,Win/Loss,Home_Score,Opponenet_Score,Quarter,Distance,Type,Detail
+1,1,Steelers,2018-09-09,CLE,T,21,21,2,4,rush,James Conner
+2,2,Steelers,2018-09-09,CLE,T,21,21,3,22,pass,Antonio Brown
+3,3,Steelers,2018-09-09,CLE,T,21,21,3,22,rush,James Conner
+4,4,Steelers,2018-09-16,KAN,Loss,37,42,2,26,pass,Jesse James
+5,5,Steelers,2018-09-16,KAN,Loss,37,42,2,2,pass,JuJu Smith-Schuster
+6,6,Steelers,2018-09-16,KAN,Loss,37,42,2,14,pass,James Washington
+7,7,Steelers,2018-09-16,KAN,Loss,37,42,3,1,rush,James Conner
+8,8,Steelers,2018-09-16,KAN,Loss,37,42,4,3,rush,Ben Roethlisberger
+9,9,Steelers,2018-09-24,TAM,Win,30,27,1,75,pass,Vance McDonald
+10,10,Steelers,2018-09-24,TAM,Win,30,27,2,27,pass,Antonio Brown
+11,11,Steelers,2018-09-24,TAM,Win,30,27,2,10,interception,Bud Dupree
+12,12,Steelers,2018-09-24,TAM,Win,30,27,2,1,pass,Ryan Switzer
+13,13,Steelers,2018-09-30,BAL,Loss,14,26,2,26,pass,Antonio Brown
+14,14,Steelers,2018-10-07,ATL,Win,41,17,1,1,rush,James Conner
+15,15,Steelers,2018-10-07,ATL,Win,41,17,1,18,pass,JuJu Smith-Schuster
+16,16,Steelers,2018-10-07,ATL,Win,41,17,3,9,pass,Antonio Brown
+17,17,Steelers,2018-10-07,ATL,Win,41,17,3,2,rush,James Conner
+18,18,Steelers,2018-10-07,ATL,Win,41,17,4,47,pass,Antonio Brown
+19,19,Steelers,2018-10-07,ATL,Win,41,17,4,0,fumble,L.J. Fort
+20,20,Steelers,2018-10-14,CIN,Win,28,21,2,1,rush,James Conner
+21,21,Steelers,2018-10-14,CIN,Win,28,21,2,1,rush,James Conner
+22,22,Steelers,2018-10-14,CIN,Win,28,21,4,31,pass,Antonio Brown
+23,23,Steelers,2018-10-28,CLE,Win,33,18,2,43,pass,Antonio Brown
+24,24,Steelers,2018-10-28,CLE,Win,33,18,2,1,pass,Antonio Brown
+25,25,Steelers,2018-10-28,CLE,Win,33,18,3,12,rush,James Conner
+26,26,Steelers,2018-10-28,CLE,Win,33,18,4,22,rush,James Conner
+27,27,Steelers,2018-11-04,BAL,Win,23,16,1,7,pass,James Conner
+28,28,Steelers,2018-11-04,BAL,Win,23,16,2,6,pass,Antonio Brown
+29,29,Steelers,2018-11-04,BAL,Win,23,16,3,1,rush,Ben Roethlisberger
+30,30,Steelers,2018-11-08,CAR,Win,52,21,1,75,pass,JuJu Smith-Schuster
+31,31,Steelers,2018-11-08,CAR,Win,52,21,1,17,interception,Vince Williams
+32,32,Steelers,2018-11-08,CAR,Win,52,21,1,2,rush,James Conner
+33,33,Steelers,2018-11-08,CAR,Win,52,21,2,53,pass,Antonio Brown
+34,34,Steelers,2018-11-08,CAR,Win,52,21,3,12,pass,Vance McDonald
+35,35,Steelers,2018-11-08,CAR,Win,52,21,3,8,pass,Jesse James
+36,36,Steelers,2018-11-08,CAR,Win,52,21,4,6,pass,Jaylen Samuels
+37,37,Steelers,2018-11-18,JAX,Win,20,16,3,78,pass,Antonio Brown
+38,38,Steelers,2018-11-18,JAX,Win,20,16,4,11,pass,Vance McDonald
+39,39,Steelers,2018-11-18,JAX,Win,20,16,4,1,rush,Ben Roethlisberger
+40,40,Steelers,2018-11-25,DEN,Loss,17,24,2,2,pass,Alejandro Villanueva
+41,41,Steelers,2018-11-25,DEN,Loss,17,24,3,97,pass,JuJu Smith-Schuster
+42,42,Steelers,2018-12-02,LAC,Loss,30,33,1,1,rush,James Conner
+43,43,Steelers,2018-12-02,LAC,Loss,30,33,1,1,rush,James Conner
+44,44,Steelers,2018-12-02,LAC,Loss,30,33,2,28,pass,Antonio Brown
+45,45,Steelers,2018-12-02,LAC,Loss,30,33,4,10,pass,Jaylen Samuels
+46,46,Steelers,2018-12-09,OAK,Loss,21,24,2,2,rush,Stevan Ridley
+47,47,Steelers,2018-12-09,OAK,Loss,21,24,2,1,pass,JuJu Smith-Schuster
+48,48,Steelers,2018-12-09,OAK,Loss,21,24,4,1,pass,JuJu Smith-Schuster
+49,49,Steelers,2018-12-16,NWE,Win,17,10,1,5,pass,Vance McDonald
+50,50,Steelers,2018-12-16,NWE,Win,17,10,2,17,pass,Antonio Brown
+51,51,Steelers,2018-12-23,NOR,Loss,28,31,2,3,pass,Jaylen Samuels
+52,52,Steelers,2018-12-23,NOR,Loss,28,31,3,3,pass,Antonio Brown
+53,53,Steelers,2018-12-23,NOR,Loss,28,31,3,20,pass,Antonio Brown
+54,54,Steelers,2018-12-30,CIN,Win,16,13,3,11,pass,JuJu Smith-Schuster

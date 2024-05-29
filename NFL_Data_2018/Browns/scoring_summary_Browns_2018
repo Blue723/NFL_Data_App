@@ -1,17 +1,17 @@
-,No.,Team,Player,Age,Pos,Games Played,Games Started,Rush TD,Reception TD,Punt Return TD,Kick Return TD,Fumble Return TD,Interception TD,Other TD,All Touchdown Scored,2-Point Conversions Made,Two-Point Conversions Attempted,Defensive Two-Point Conversions,Extra Points Made,Extra Points Allowed,Field Goals Made,Field Goals Attempted,Safeties Scored by Player/Team,Total Points Scored by all Means,Poins per Game,Year
-0,17,Browns,Greg Joseph,24,K,14,0,0,0,0,0,0,0,0,0,0,0,0,25,29,17,20,,76,5.4,2018
-1,24,Browns,Nick Chubb,23,RB,16,9,8,2,0,0,0,0,0,10,0,0,0,0,0,0,0,,60,3.8,2018
-2,11,Browns,Antonio Callaway,21,WR,16,11,0,5,0,0,0,0,0,5,1,0,0,0,0,0,0,,32,2.0,2018
-3,34,Browns,Carlos Hyde,28,RB,6,5,5,0,0,0,0,0,0,5,0,0,0,0,0,0,0,,30,5.0,2018
-4,80,Browns,Jarvis Landry,26,WR,16,14,1,4,0,0,0,0,0,5,0,0,0,0,0,0,0,,30,1.9,2018
-5,81,Browns,Rashard Higgins,24,WR,13,1,0,4,0,0,0,0,0,4,0,0,0,0,0,0,0,,24,1.8,2018
-6,85,Browns,David Njoku,22,TE,16,14,0,4,0,0,0,0,0,4,0,0,0,0,0,0,0,,24,1.5,2018
-7,29,Browns,Duke Johnson,25,RB,16,2,0,3,0,0,0,0,0,3,2,0,0,0,0,0,0,,22,1.4,2018
-8,88,Browns,Darren Fells,32,TE,16,11,0,3,0,0,0,0,0,3,0,0,0,0,0,0,0,,18,1.1,2018
-9,19,Browns,Breshad Perriman,25,WR,10,2,0,2,0,0,0,0,0,2,0,0,0,0,0,0,0,,12,1.2,2018
-10,2,Browns,Zane Gonzalez,23,K,2,0,0,0,0,0,0,0,0,0,0,0,0,3,5,2,5,,9,4.5,2018
-11,87,Browns,Seth Devalve,25,TE,13,4,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,,6,0.5,2018
-12,12,Browns,Josh Gordon,27,WR,1,1,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,,6,6.0,2018
-13,5,Browns,Tyrod Taylor,29,QB,4,3,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,,6,1.5,2018
-14,93,Browns,Trevon Coley,24,RDT,16,14,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1.0,2,0.1,2018
-15,6,Browns,Baker Mayfield,23,QB,14,13,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,,2,0.1,2018
+,No.,Player,Age,Pos,Games Played,Games Started,Rush TD,Reception TD,Punt Return TD,Kick Return TD,Fumble Return TD,Interception TD,Other TD,All Touchdown Scored,2-Point Conversions Made,Two-Point Conversions Attempted,Defensive Two-Point Conversions,Extra Points Made,Extra Points Allowed,Field Goals Made,Field Goals Attempted,Safeties Scored by Player/Team,Total Points Scored by all Means,Poins per Game,Team,Year
+17,17,Greg Joseph,24,K,14,0,0,0,0,0,0,0,0,0,0,0,0,25,29,17,20,0,76,5.4,Browns,2018
+24,24,Nick Chubb,23,RB,16,9,8,2,0,0,0,0,0,10,0,0,0,0,0,0,0,0,60,3.8,Browns,2018
+11,11,Antonio Callaway,21,WR,16,11,0,5,0,0,0,0,0,5,1,0,0,0,0,0,0,0,32,2.0,Browns,2018
+34,34,Carlos Hyde,28,RB,6,5,5,0,0,0,0,0,0,5,0,0,0,0,0,0,0,0,30,5.0,Browns,2018
+80,80,Jarvis Landry,26,WR,16,14,1,4,0,0,0,0,0,5,0,0,0,0,0,0,0,0,30,1.9,Browns,2018
+81,81,Rashard Higgins,24,WR,13,1,0,4,0,0,0,0,0,4,0,0,0,0,0,0,0,0,24,1.8,Browns,2018
+85,85,David Njoku,22,TE,16,14,0,4,0,0,0,0,0,4,0,0,0,0,0,0,0,0,24,1.5,Browns,2018
+29,29,Duke Johnson,25,RB,16,2,0,3,0,0,0,0,0,3,2,0,0,0,0,0,0,0,22,1.4,Browns,2018
+88,88,Darren Fells,32,TE,16,11,0,3,0,0,0,0,0,3,0,0,0,0,0,0,0,0,18,1.1,Browns,2018
+19,19,Breshad Perriman,25,WR,10,2,0,2,0,0,0,0,0,2,0,0,0,0,0,0,0,0,12,1.2,Browns,2018
+2,2,Zane Gonzalez,23,K,2,0,0,0,0,0,0,0,0,0,0,0,0,3,5,2,5,0,9,4.5,Browns,2018
+87,87,Seth Devalve,25,TE,13,4,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,6,0.5,Browns,2018
+12,12,Josh Gordon,27,WR,1,1,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,6,6.0,Browns,2018
+5,5,Tyrod Taylor,29,QB,4,3,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,6,1.5,Browns,2018
+93,93,Trevon Coley,24,RDT,16,14,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,2,0.1,Browns,2018
+6,6,Baker Mayfield,23,QB,14,13,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,2,0.1,Browns,2018

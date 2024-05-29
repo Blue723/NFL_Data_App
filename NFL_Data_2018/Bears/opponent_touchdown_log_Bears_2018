@@ -1,31 +1,31 @@
-,Rank,Team,Date,Opponent,Win/Loss,Score,Quarter,Distance,Type,Detail,Year
-0,1,Bears,09/09/2018,GNB,Loss, 23-24,4,39,pass,Geronimo Allison,2018
-1,2,Bears,09/09/2018,GNB,Loss, 23-24,4,12,pass,Davante Adams,2018
-2,3,Bears,09/09/2018,GNB,Loss, 23-24,4,75,pass,Randall Cobb,2018
-3,4,Bears,09/17/2018,SEA,Win, 24-17,4,19,pass,Tyler Lockett,2018
-4,5,Bears,09/17/2018,SEA,Win, 24-17,4,2,pass,Will Dissly,2018
-5,6,Bears,09/23/2018,ARI,Win, 16-14,1,35,pass,Ricky Seals-Jones,2018
-6,7,Bears,09/23/2018,ARI,Win, 16-14,1,21,pass,David Johnson,2018
-7,8,Bears,09/30/2018,TAM,Win, 48-10,4,16,pass,Cameron Brate,2018
-8,9,Bears,10/14/2018,MIA,Loss, 28-31,1,5,pass,Nick O'Leary,2018
-9,10,Bears,10/14/2018,MIA,Loss, 28-31,4,43,pass,Albert Wilson,2018
-10,11,Bears,10/14/2018,MIA,Loss, 28-31,4,75,pass,Albert Wilson,2018
-11,12,Bears,10/21/2018,NWE,Loss, 31-38,1,9,pass,Julian Edelman,2018
-12,13,Bears,10/21/2018,NWE,Loss, 31-38,2,95,kickoff,Cordarrelle Patterson,2018
-13,14,Bears,10/21/2018,NWE,Loss, 31-38,2,5,pass,James White,2018
-14,15,Bears,10/21/2018,NWE,Loss, 31-38,3,29,blocked punt,Kyle Van Noy,2018
-15,16,Bears,10/21/2018,NWE,Loss, 31-38,4,2,pass,James White,2018
-16,17,Bears,10/28/2018,NYJ,Win, 24-10,4,16,pass,Chris Herndon,2018
-17,18,Bears,11/04/2018,BUF,Win, 41-9,4,1,rush,Nathan Peterman,2018
-18,19,Bears,11/11/2018,DET,Win, 34-22,2,1,rush,Kerryon Johnson,2018
-19,20,Bears,11/11/2018,DET,Win, 34-22,4,5,pass,Kenny Golladay,2018
-20,21,Bears,11/11/2018,DET,Win, 34-22,4,13,pass,Kerryon Johnson,2018
-21,22,Bears,11/18/2018,MIN,Win, 25-20,4,13,pass,Aldrick Robinson,2018
-22,23,Bears,11/18/2018,MIN,Win, 25-20,4,5,pass,Stefon Diggs,2018
-23,24,Bears,11/22/2018,DET,Win, 23-16,2,4,rush,LeGarrette Blount,2018
-24,25,Bears,11/22/2018,DET,Win, 23-16,3,4,rush,LeGarrette Blount,2018
-25,26,Bears,12/02/2018,NYG,Loss, 27-30,1,8,interception,Alec Ogletree,2018
-26,27,Bears,12/02/2018,NYG,Loss, 27-30,3,49,pass,Russell Shepard,2018
-27,28,Bears,12/02/2018,NYG,Loss, 27-30,3,1,pass,Odell Beckham Jr.,2018
-28,29,Bears,12/16/2018,GNB,Win, 24-17,3,10,rush,Jamaal Williams,2018
-29,30,Bears,12/30/2018,MIN,Win, 24-10,3,2,pass,Stefon Diggs,2018
+,Rank,Team,Date,Opponent,Win/Loss,Home_Score,Opponenet_Score,Quarter,Distance,Type,Detail
+1,1,Bears,2018-09-09,GNB,Loss,23,24,4,39,pass,Geronimo Allison
+2,2,Bears,2018-09-09,GNB,Loss,23,24,4,12,pass,Davante Adams
+3,3,Bears,2018-09-09,GNB,Loss,23,24,4,75,pass,Randall Cobb
+4,4,Bears,2018-09-17,SEA,Win,24,17,4,19,pass,Tyler Lockett
+5,5,Bears,2018-09-17,SEA,Win,24,17,4,2,pass,Will Dissly
+6,6,Bears,2018-09-23,ARI,Win,16,14,1,35,pass,Ricky Seals-Jones
+7,7,Bears,2018-09-23,ARI,Win,16,14,1,21,pass,David Johnson
+8,8,Bears,2018-09-30,TAM,Win,48,10,4,16,pass,Cameron Brate
+9,9,Bears,2018-10-14,MIA,Loss,28,31,1,5,pass,Nick O'Leary
+10,10,Bears,2018-10-14,MIA,Loss,28,31,4,43,pass,Albert Wilson
+11,11,Bears,2018-10-14,MIA,Loss,28,31,4,75,pass,Albert Wilson
+12,12,Bears,2018-10-21,NWE,Loss,31,38,1,9,pass,Julian Edelman
+13,13,Bears,2018-10-21,NWE,Loss,31,38,2,95,kickoff,Cordarrelle Patterson
+14,14,Bears,2018-10-21,NWE,Loss,31,38,2,5,pass,James White
+15,15,Bears,2018-10-21,NWE,Loss,31,38,3,29,blocked punt,Kyle Van Noy
+16,16,Bears,2018-10-21,NWE,Loss,31,38,4,2,pass,James White
+17,17,Bears,2018-10-28,NYJ,Win,24,10,4,16,pass,Chris Herndon
+18,18,Bears,2018-11-04,BUF,Win,41,9,4,1,rush,Nathan Peterman
+19,19,Bears,2018-11-11,DET,Win,34,22,2,1,rush,Kerryon Johnson
+20,20,Bears,2018-11-11,DET,Win,34,22,4,5,pass,Kenny Golladay
+21,21,Bears,2018-11-11,DET,Win,34,22,4,13,pass,Kerryon Johnson
+22,22,Bears,2018-11-18,MIN,Win,25,20,4,13,pass,Aldrick Robinson
+23,23,Bears,2018-11-18,MIN,Win,25,20,4,5,pass,Stefon Diggs
+24,24,Bears,2018-11-22,DET,Win,23,16,2,4,rush,LeGarrette Blount
+25,25,Bears,2018-11-22,DET,Win,23,16,3,4,rush,LeGarrette Blount
+26,26,Bears,2018-12-02,NYG,Loss,27,30,1,8,interception,Alec Ogletree
+27,27,Bears,2018-12-02,NYG,Loss,27,30,3,49,pass,Russell Shepard
+28,28,Bears,2018-12-02,NYG,Loss,27,30,3,1,pass,Odell Beckham Jr.
+29,29,Bears,2018-12-16,GNB,Win,24,17,3,10,rush,Jamaal Williams
+30,30,Bears,2018-12-30,MIN,Win,24,10,3,2,pass,Stefon Diggs

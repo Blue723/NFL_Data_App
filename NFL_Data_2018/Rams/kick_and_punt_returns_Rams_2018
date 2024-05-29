@@ -1,8 +1,8 @@
-,No.,Team,Player,Age,Position,Games Played,Games Started,Punts Returned,Punts Return Yardage,Punts Returned for Touchdown,Longest Punt Return,Yards per Punt Return,Kickoff Returns,Yardage for Kickoffs Returned,Kickoffs Returned for a Touchdown,Longest Kickoff Return,Yards per Kickoff Return,All-purpose Yards,Year
-0,19,Rams,Jojo Natson,24,WR,13,0,26,280,0,60,10.8,6,108,0,24,18.0,388,2018
-1,24,Rams,Blake Countess,25,DB,16,1,0,0,0,0,,17,419,0,40,24.6,419,2018
-2,10,Rams,Pharoh Cooper,23,WR,5,0,2,12,0,12,6.0,13,277,0,28,21.3,289,2018
-3,96,Rams,Matt Longacre,27,ROLB,13,7,0,0,0,0,,2,30,0,16,15.0,30,2018
-4,41,Rams,Marqui Christian,24,DB,16,0,1,11,0,11,11.0,0,0,0,0,,11,2018
-5,18,Rams,Cooper Kupp,25,WR,8,8,1,4,0,4,4.0,0,0,0,0,,595,2018
-6,17,Rams,Robert Woods,26,WR,16,16,0,0,0,0,,1,0,0,0,0.0,1376,2018
+,No.,Player,Age,Position,Games Played,Games Started,Punts Returned,Punts Return Yardage,Punts Returned for Touchdown,Longest Punt Return,Yards per Punt Return,Kickoff Returns,Yardage for Kickoffs Returned,Kickoffs Returned for a Touchdown,Longest Kickoff Return,Yards per Kickoff Return,All-purpose Yards,Team,Year
+19,19,Jojo Natson,24,WR,13,0,26,280,0,60,10.8,6,108,0,24,18.0,388,Rams,2018
+24,24,Blake Countess,25,DB,16,1,0,0,0,0,0.0,17,419,0,40,24.6,419,Rams,2018
+10,10,Pharoh Cooper,23,WR,5,0,2,12,0,12,6.0,13,277,0,28,21.3,289,Rams,2018
+96,96,Matt Longacre,27,ROLB,13,7,0,0,0,0,0.0,2,30,0,16,15.0,30,Rams,2018
+41,41,Marqui Christian,24,DB,16,0,1,11,0,11,11.0,0,0,0,0,0.0,11,Rams,2018
+18,18,Cooper Kupp,25,WR,8,8,1,4,0,4,4.0,0,0,0,0,0.0,595,Rams,2018
+17,17,Robert Woods,26,WR,16,16,0,0,0,0,0.0,1,0,0,0,0.0,1376,Rams,2018

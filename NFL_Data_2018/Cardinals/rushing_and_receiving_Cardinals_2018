@@ -1,17 +1,17 @@
-,No.,Team,Player,Age,Position,Games Played,Games Started as an Offensive or Defensive Player,Rushing Attempts,Rushing Yards Gained,Rushing Touchdown,First Downs Rushing,Rushing Success Rate,Longest Rushing Attempt,Rushing Yards per Attempt,Rushing Yards per Game,Rushing Attempts per Game,Pass Targets,Receptions,Receiving Yards,Receiving Yards per Reception,Receiving Touchdowns,First Downs Receiving,Receiving Success Rate,Longest Reception,Receptions per Game,Receiving Yards per Game,Catch Per.,Receiving Yards per Target,Touches: Rushing Attempts and Receptions,Scrimmage Yards per Touch: Rushing + Receiving Yardage per Opportunity,Yards from Scrimmage: Receiving and Rushing Yards,Rushing and Receiving Touchdowns,Lost and Recovered Fumbles,Year
-0,31,Cardinals,David Johnson,27,RB,16,16,258,940,7,51,38.0,53,3.6,58.8,16.1,76,50,446,8.9,3,22,34.2,40,3.1,27.9,65.8,5.9,308,4.5,1386,10,3,2018
-1,29,Cardinals,Chase Edmonds,22,RB,16,0,60,208,2,14,43.3,29,3.5,13.0,3.8,23,20,103,5.2,0,5,39.1,13,1.3,6.4,87.0,4.5,80,3.9,311,2,1,2018
-2,3,Cardinals,Josh Rosen,21,QB,14,13,23,138,0,8,39.1,33,6.0,9.9,1.6,0,0,0,,0,0,,0,,,0.0,,23,6.0,138,0,10,2018
-3,14,Cardinals,JJ Nelson,26,WR,14,2,4,0,0,0,50.0,8,0.0,0.0,0.3,19,7,64,9.1,0,4,26.3,17,0.5,4.6,36.8,3.4,11,5.8,64,0,0,2018
-4,13,Cardinals,Christian Kirk,22,WR,12,7,3,35,0,2,100.0,23,11.7,2.9,0.3,68,43,590,13.7,3,21,44.1,75,3.6,49.2,63.2,8.7,46,13.6,625,3,0,2018
-5,22,Cardinals,T.J. Logan,24,FB,10,0,2,2,0,0,0.0,5,1.0,0.2,0.2,7,7,37,5.3,0,1,14.3,17,0.7,3.7,100.0,5.3,9,4.3,39,0,0,2018
-6,32,Cardinals,Derrick Coleman,28,RB,16,4,2,3,0,0,0.0,2,1.5,0.2,0.1,3,2,17,8.5,0,1,66.7,12,0.1,1.1,66.7,5.7,4,5.0,20,0,0,2018
-7,9,Cardinals,Sam Bradford,31,QB,3,3,2,7,0,1,50.0,8,3.5,2.3,0.7,0,0,0,,0,0,,0,,,0.0,,2,3.5,7,0,3,2018
-8,10,Cardinals,Chad Williams,24,WR,10,7,1,9,0,0,100.0,9,9.0,0.9,0.1,46,17,171,10.1,1,9,30.4,22,1.7,17.1,37.0,3.7,18,10.0,180,1,0,2018
-9,11,Cardinals,Larry Fitzgerald,35,WR,16,16,0,0,0,0,,0,,,,112,69,734,10.6,6,39,50.9,37,4.3,45.9,61.6,6.6,69,10.6,734,6,0,2018
-10,86,Cardinals,Ricky Seals-Jones,23,TE,15,5,0,0,0,0,,0,,,,69,34,343,10.1,1,14,39.1,40,2.3,22.9,49.3,5.0,34,10.1,343,1,0,2018
-11,16,Cardinals,Trent Sherfield,22,WR,13,2,0,0,0,0,,0,,,,28,19,210,11.1,1,11,57.1,21,1.5,16.2,67.9,7.5,19,11.1,210,1,0,2018
-12,84,Cardinals,Jermaine Gresham,30,TE,13,11,0,0,0,0,,0,,,,12,9,94,10.4,0,6,58.3,26,0.7,7.2,75.0,7.8,9,10.4,94,0,1,2018
-13,82,Cardinals,John Phillips,31,TE,8,4,0,0,0,0,,0,,,,3,3,38,12.7,0,1,66.7,24,0.4,4.8,100.0,12.7,3,12.7,38,0,0,2018
-14,17,Cardinals,Jalen Tolliver,23,WR,3,1,0,0,0,0,,0,,,,6,3,37,12.3,0,3,50.0,15,1.0,12.3,50.0,6.2,3,12.3,37,0,0,2018
-15,81,Cardinals,Darrell Daniels,24,TE,2,1,0,0,0,0,,0,,,,1,0,0,,0,0,0.0,0,0.0,0.0,0.0,0.0,0,,0,0,0,2018
+,No.,Player,Age,Position,Games Played,Games Started as an Offensive or Defensive Player,Rushing Attempts,Rushing Yards Gained,Rushing Touchdown,First Downs Rushing,Rushing Success Rate,Longest Rushing Attempt,Rushing Yards per Attempt,Rushing Yards per Game,Rushing Attempts per Game,Pass Targets,Receptions,Receiving Yards,Receiving Yards per Reception,Receiving Touchdowns,First Downs Receiving,Receiving Success Rate,Longest Reception,Receptions per Game,Receiving Yards per Game,Catch Per.,Receiving Yards per Target,Touches: Rushing Attempts and Receptions,Scrimmage Yards per Touch: Rushing + Receiving Yardage per Opportunity,Yards from Scrimmage: Receiving and Rushing Yards,Rushing and Receiving Touchdowns,Lost and Recovered Fumbles,Team,Year
+31,31,David Johnson,27,RB,16,16,258,940,7,51,38.0,53,3.6,58.8,16.1,76,50,446,8.9,3,22,34.2,40,3.1,27.9,65.8,5.9,308,4.5,1386,10,3,Cardinals,2018
+29,29,Chase Edmonds,22,RB,16,0,60,208,2,14,43.3,29,3.5,13.0,3.8,23,20,103,5.2,0,5,39.1,13,1.3,6.4,87.0,4.5,80,3.9,311,2,1,Cardinals,2018
+3,3,Josh Rosen,21,QB,14,13,23,138,0,8,39.1,33,6.0,9.9,1.6,0,0,0,0.0,0,0,0.0,0,0.0,0.0,0.0,0.0,23,6.0,138,0,10,Cardinals,2018
+14,14,JJ Nelson,26,WR,14,2,4,0,0,0,50.0,8,0.0,0.0,0.3,19,7,64,9.1,0,4,26.3,17,0.5,4.6,36.8,3.4,11,5.8,64,0,0,Cardinals,2018
+13,13,Christian Kirk,22,WR,12,7,3,35,0,2,100.0,23,11.7,2.9,0.3,68,43,590,13.7,3,21,44.1,75,3.6,49.2,63.2,8.7,46,13.6,625,3,0,Cardinals,2018
+22,22,T.J. Logan,24,FB,10,0,2,2,0,0,0.0,5,1.0,0.2,0.2,7,7,37,5.3,0,1,14.3,17,0.7,3.7,100.0,5.3,9,4.3,39,0,0,Cardinals,2018
+32,32,Derrick Coleman,28,RB,16,4,2,3,0,0,0.0,2,1.5,0.2,0.1,3,2,17,8.5,0,1,66.7,12,0.1,1.1,66.7,5.7,4,5.0,20,0,0,Cardinals,2018
+9,9,Sam Bradford,31,QB,3,3,2,7,0,1,50.0,8,3.5,2.3,0.7,0,0,0,0.0,0,0,0.0,0,0.0,0.0,0.0,0.0,2,3.5,7,0,3,Cardinals,2018
+10,10,Chad Williams,24,WR,10,7,1,9,0,0,100.0,9,9.0,0.9,0.1,46,17,171,10.1,1,9,30.4,22,1.7,17.1,37.0,3.7,18,10.0,180,1,0,Cardinals,2018
+11,11,Larry Fitzgerald,35,WR,16,16,0,0,0,0,0.0,0,0.0,0.0,0.0,112,69,734,10.6,6,39,50.9,37,4.3,45.9,61.6,6.6,69,10.6,734,6,0,Cardinals,2018
+86,86,Ricky Seals-Jones,23,TE,15,5,0,0,0,0,0.0,0,0.0,0.0,0.0,69,34,343,10.1,1,14,39.1,40,2.3,22.9,49.3,5.0,34,10.1,343,1,0,Cardinals,2018
+16,16,Trent Sherfield,22,WR,13,2,0,0,0,0,0.0,0,0.0,0.0,0.0,28,19,210,11.1,1,11,57.1,21,1.5,16.2,67.9,7.5,19,11.1,210,1,0,Cardinals,2018
+84,84,Jermaine Gresham,30,TE,13,11,0,0,0,0,0.0,0,0.0,0.0,0.0,12,9,94,10.4,0,6,58.3,26,0.7,7.2,75.0,7.8,9,10.4,94,0,1,Cardinals,2018
+82,82,John Phillips,31,TE,8,4,0,0,0,0,0.0,0,0.0,0.0,0.0,3,3,38,12.7,0,1,66.7,24,0.4,4.8,100.0,12.7,3,12.7,38,0,0,Cardinals,2018
+17,17,Jalen Tolliver,23,WR,3,1,0,0,0,0,0.0,0,0.0,0.0,0.0,6,3,37,12.3,0,3,50.0,15,1.0,12.3,50.0,6.2,3,12.3,37,0,0,Cardinals,2018
+81,81,Darrell Daniels,24,TE,2,1,0,0,0,0,0.0,0,0.0,0.0,0.0,1,0,0,0.0,0,0,0.0,0,0.0,0.0,0.0,0.0,0,0.0,0,0,0,Cardinals,2018

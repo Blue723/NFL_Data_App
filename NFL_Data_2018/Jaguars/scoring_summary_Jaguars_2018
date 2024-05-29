@@ -1,14 +1,14 @@
-,No.,Team,Player,Age,Pos,Games Played,Games Started,Rush TD,Reception TD,Punt Return TD,Kick Return TD,Fumble Return TD,Interception TD,Other TD,All Touchdown Scored,2-Point Conversions Made,Two-Point Conversions Attempted,Defensive Two-Point Conversions,Extra Points Made,Extra Points Allowed,Field Goals Made,Field Goals Attempted,Safeties Scored by Player/Team,Total Points Scored by all Means,Poins per Game,Year
-0,4,Jaguars,Josh Lambo,28,K,13,0,0,0,0,0,0,0,0,0,0,0,0,19,20,19,21,,76,5.8,2018
-1,27,Jaguars,Leonard Fournette,23,RB,8,8,5,1,0,0,0,0,0,6,0,0,0,0,0,0,0,,36,4.5,2018
-2,12,Jaguars,Dede Westbrook,25,WR,16,9,0,5,1,0,0,0,0,6,0,0,0,0,0,0,0,,36,2.3,2018
-3,24,Jaguars,T.J. Yeldon,25,RB,14,5,1,4,0,0,0,0,0,5,0,0,0,0,0,0,0,,30,2.1,2018
-4,10,Jaguars,Donte Moncrief,25,WR,16,14,0,3,0,0,0,0,0,3,0,0,0,0,0,0,0,,18,1.1,2018
-5,2,Jaguars,Kai Forbath,31,K,3,0,0,0,0,0,0,0,0,0,0,0,0,3,3,4,5,,15,5.0,2018
-6,5,Jaguars,Blake Bortles,26,QB,13,12,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,,6,0.5,2018
-7,84,Jaguars,Keelan Cole,25,WR,16,11,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,,6,0.4,2018
-8,44,Jaguars,Myles Jack,23,MLB,16,16,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,,6,0.4,2018
-9,88,Jaguars,Austin Seferian-Jenkins,26,TE,5,5,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,,6,1.2,2018
-10,50,Jaguars,Telvin Smith,27,LLB,16,16,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,,6,0.4,2018
-11,99,Jaguars,Marcell Dareus,28,LDT/RDT,15,15,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1.0,2,0.1,2018
-12,48,Jaguars,Leon Jacobs,23,LB,12,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1.0,2,0.2,2018
+,No.,Player,Age,Pos,Games Played,Games Started,Rush TD,Reception TD,Punt Return TD,Kick Return TD,Fumble Return TD,Interception TD,Other TD,All Touchdown Scored,2-Point Conversions Made,Two-Point Conversions Attempted,Defensive Two-Point Conversions,Extra Points Made,Extra Points Allowed,Field Goals Made,Field Goals Attempted,Safeties Scored by Player/Team,Total Points Scored by all Means,Poins per Game,Team,Year
+4,4,Josh Lambo,28,K,13,0,0,0,0,0,0,0,0,0,0,0,0,19,20,19,21,0,76,5.8,Jaguars,2018
+27,27,Leonard Fournette,23,RB,8,8,5,1,0,0,0,0,0,6,0,0,0,0,0,0,0,0,36,4.5,Jaguars,2018
+12,12,Dede Westbrook,25,WR,16,9,0,5,1,0,0,0,0,6,0,0,0,0,0,0,0,0,36,2.3,Jaguars,2018
+24,24,T.J. Yeldon,25,RB,14,5,1,4,0,0,0,0,0,5,0,0,0,0,0,0,0,0,30,2.1,Jaguars,2018
+10,10,Donte Moncrief,25,WR,16,14,0,3,0,0,0,0,0,3,0,0,0,0,0,0,0,0,18,1.1,Jaguars,2018
+2,2,Kai Forbath,31,K,3,0,0,0,0,0,0,0,0,0,0,0,0,3,3,4,5,0,15,5.0,Jaguars,2018
+5,5,Blake Bortles,26,QB,13,12,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,6,0.5,Jaguars,2018
+84,84,Keelan Cole,25,WR,16,11,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,6,0.4,Jaguars,2018
+44,44,Myles Jack,23,MLB,16,16,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,6,0.4,Jaguars,2018
+88,88,Austin Seferian-Jenkins,26,TE,5,5,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,6,1.2,Jaguars,2018
+50,50,Telvin Smith,27,LLB,16,16,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,6,0.4,Jaguars,2018
+99,99,Marcell Dareus,28,LDT/RDT,15,15,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,2,0.1,Jaguars,2018
+48,48,Leon Jacobs,23,LB,12,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,2,0.2,Jaguars,2018

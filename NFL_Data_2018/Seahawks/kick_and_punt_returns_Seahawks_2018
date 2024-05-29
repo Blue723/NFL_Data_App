@@ -1,5 +1,5 @@
-,No.,Team,Player,Age,Position,Games Played,Games Started,Punts Returned,Punts Return Yardage,Punts Returned for Touchdown,Longest Punt Return,Yards per Punt Return,Kickoff Returns,Yardage for Kickoffs Returned,Kickoffs Returned for a Touchdown,Longest Kickoff Return,Yards per Kickoff Return,All-purpose Yards,Year
-0,16,Seahawks,Tyler Lockett,26,WR,16,14,25,143,0,19,5.7,19,493,0,84,25.9,1670,2018
-1,20,Seahawks,Rashaad Penny,22,RB,14,0,0,0,0,0,,8,140,0,23,17.5,634,2018
-2,21,Seahawks,J.D. McKissic,25,WR,5,0,0,0,0,0,,1,18,0,18,18.0,26,2018
-3,83,Seahawks,David Moore,23,WR,16,7,0,0,0,0,,1,18,0,18,18.0,468,2018
+,No.,Player,Age,Position,Games Played,Games Started,Punts Returned,Punts Return Yardage,Punts Returned for Touchdown,Longest Punt Return,Yards per Punt Return,Kickoff Returns,Yardage for Kickoffs Returned,Kickoffs Returned for a Touchdown,Longest Kickoff Return,Yards per Kickoff Return,All-purpose Yards,Team,Year
+16,16,Tyler Lockett,26,WR,16,14,25,143,0,19,5.7,19,493,0,84,25.9,1670,Seahawks,2018
+20,20,Rashaad Penny,22,RB,14,0,0,0,0,0,0.0,8,140,0,23,17.5,634,Seahawks,2018
+21,21,J.D. McKissic,25,RB,5,0,0,0,0,0,0.0,1,18,0,18,18.0,26,Seahawks,2018
+83,83,David Moore,23,WR,16,7,0,0,0,0,0.0,1,18,0,18,18.0,468,Seahawks,2018

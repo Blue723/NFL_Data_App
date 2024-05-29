@@ -1,42 +1,42 @@
-,Rank,Team,Date,Opponent,Win/Loss,Score,Quarter,Distance,Type,Detail,Year
-0,1,Eagles,09/06/2018,ATL,Win, 18-12,3,1,rush,Jay Ajayi,2018
-1,2,Eagles,09/06/2018,ATL,Win, 18-12,4,11,rush,Jay Ajayi,2018
-2,3,Eagles,09/16/2018,TAM,Loss, 21-27,2,15,rush,Corey Clement,2018
-3,4,Eagles,09/16/2018,TAM,Loss, 21-27,3,2,rush,Jay Ajayi,2018
-4,5,Eagles,09/16/2018,TAM,Loss, 21-27,4,2,pass,Nelson Agholor,2018
-5,6,Eagles,09/23/2018,IND,Win, 20-16,1,13,pass,Dallas Goedert,2018
-6,7,Eagles,09/23/2018,IND,Win, 20-16,4,4,rush,Wendell Smallwood,2018
-7,8,Eagles,09/30/2018,TEN,Loss, 23-26,2,56,pass,Jordan Matthews,2018
-8,9,Eagles,09/30/2018,TEN,Loss, 23-26,3,16,pass,Alshon Jeffery,2018
-9,10,Eagles,10/07/2018,MIN,Loss, 21-23,4,12,pass,Wendell Smallwood,2018
-10,11,Eagles,10/07/2018,MIN,Loss, 21-23,4,7,pass,Zach Ertz,2018
-11,12,Eagles,10/11/2018,NYG,Win, 34-13,1,13,pass,Alshon Jeffery,2018
-12,13,Eagles,10/11/2018,NYG,Win, 34-13,1,1,rush,Corey Clement,2018
-13,14,Eagles,10/11/2018,NYG,Win, 34-13,2,10,pass,Zach Ertz,2018
-14,15,Eagles,10/11/2018,NYG,Win, 34-13,3,1,pass,Alshon Jeffery,2018
-15,16,Eagles,10/21/2018,CAR,Loss, 17-21,2,11,pass,Alshon Jeffery,2018
-16,17,Eagles,10/21/2018,CAR,Loss, 17-21,3,1,pass,Dallas Goedert,2018
-17,18,Eagles,10/28/2018,JAX,Win, 24-18,2,32,pass,Dallas Goedert,2018
-18,19,Eagles,10/28/2018,JAX,Win, 24-18,3,36,pass,Wendell Smallwood,2018
-19,20,Eagles,10/28/2018,JAX,Win, 24-18,4,5,pass,Zach Ertz,2018
-20,21,Eagles,11/11/2018,DAL,Loss, 20-27,3,15,pass,Zach Ertz,2018
-21,22,Eagles,11/11/2018,DAL,Loss, 20-27,4,1,pass,Zach Ertz,2018
-22,23,Eagles,11/18/2018,NOR,Loss, 7-48,2,28,rush,Josh Adams,2018
-23,24,Eagles,11/25/2018,NYG,Win, 25-22,2,15,pass,Zach Ertz,2018
-24,25,Eagles,11/25/2018,NYG,Win, 25-22,4,1,rush,Josh Adams,2018
-25,26,Eagles,12/03/2018,WAS,Win, 28-13,1,6,pass,Golden Tate,2018
-26,27,Eagles,12/03/2018,WAS,Win, 28-13,2,14,rush,Darren Sproles,2018
-27,28,Eagles,12/03/2018,WAS,Win, 28-13,4,4,pass,Jordan Matthews,2018
-28,29,Eagles,12/09/2018,DAL,Loss, 23-29,3,2,pass,Alshon Jeffery,2018
-29,30,Eagles,12/09/2018,DAL,Loss, 23-29,4,3,pass,Dallas Goedert,2018
-30,31,Eagles,12/09/2018,DAL,Loss, 23-29,4,6,pass,Darren Sproles,2018
-31,32,Eagles,12/16/2018,LAR,Win, 30-23,2,6,rush,Josh Adams,2018
-32,33,Eagles,12/16/2018,LAR,Win, 30-23,3,9,rush,Wendell Smallwood,2018
-33,34,Eagles,12/16/2018,LAR,Win, 30-23,3,4,rush,Wendell Smallwood,2018
-34,35,Eagles,12/23/2018,HOU,Win, 32-30,1,37,pass,Darren Sproles,2018
-35,36,Eagles,12/23/2018,HOU,Win, 32-30,2,1,pass,Zach Ertz,2018
-36,37,Eagles,12/23/2018,HOU,Win, 32-30,3,83,pass,Nelson Agholor,2018
-37,38,Eagles,12/23/2018,HOU,Win, 32-30,4,23,pass,Zach Ertz,2018
-38,39,Eagles,12/30/2018,WAS,,,2,2,pass,Alshon Jeffery,2018
-39,40,Eagles,12/30/2018,WAS,,,3,6,pass,Nelson Agholor,2018
-40,41,Eagles,12/30/2018,WAS,,,4,22,pass,Nelson Agholor,2018
+,Rank,Team,Date,Opponent,Win/Loss,Home_Score,Opponenet_Score,Quarter,Distance,Type,Detail
+1,1,Eagles,2018-09-06,ATL,Win,18,12,3,1,rush,Jay Ajayi
+2,2,Eagles,2018-09-06,ATL,Win,18,12,4,11,rush,Jay Ajayi
+3,3,Eagles,2018-09-16,TAM,Loss,21,27,2,15,rush,Corey Clement
+4,4,Eagles,2018-09-16,TAM,Loss,21,27,3,2,rush,Jay Ajayi
+5,5,Eagles,2018-09-16,TAM,Loss,21,27,4,2,pass,Nelson Agholor
+6,6,Eagles,2018-09-23,IND,Win,20,16,1,13,pass,Dallas Goedert
+7,7,Eagles,2018-09-23,IND,Win,20,16,4,4,rush,Wendell Smallwood
+8,8,Eagles,2018-09-30,TEN,Loss,23,26,2,56,pass,Jordan Matthews
+9,9,Eagles,2018-09-30,TEN,Loss,23,26,3,16,pass,Alshon Jeffery
+10,10,Eagles,2018-10-07,MIN,Loss,21,23,4,12,pass,Wendell Smallwood
+11,11,Eagles,2018-10-07,MIN,Loss,21,23,4,7,pass,Zach Ertz
+12,12,Eagles,2018-10-11,NYG,Win,34,13,1,13,pass,Alshon Jeffery
+13,13,Eagles,2018-10-11,NYG,Win,34,13,1,1,rush,Corey Clement
+14,14,Eagles,2018-10-11,NYG,Win,34,13,2,10,pass,Zach Ertz
+15,15,Eagles,2018-10-11,NYG,Win,34,13,3,1,pass,Alshon Jeffery
+16,16,Eagles,2018-10-21,CAR,Loss,17,21,2,11,pass,Alshon Jeffery
+17,17,Eagles,2018-10-21,CAR,Loss,17,21,3,1,pass,Dallas Goedert
+18,18,Eagles,2018-10-28,JAX,Win,24,18,2,32,pass,Dallas Goedert
+19,19,Eagles,2018-10-28,JAX,Win,24,18,3,36,pass,Wendell Smallwood
+20,20,Eagles,2018-10-28,JAX,Win,24,18,4,5,pass,Zach Ertz
+21,21,Eagles,2018-11-11,DAL,Loss,20,27,3,15,pass,Zach Ertz
+22,22,Eagles,2018-11-11,DAL,Loss,20,27,4,1,pass,Zach Ertz
+23,23,Eagles,2018-11-18,NOR,Loss,7,48,2,28,rush,Josh Adams
+24,24,Eagles,2018-11-25,NYG,Win,25,22,2,15,pass,Zach Ertz
+25,25,Eagles,2018-11-25,NYG,Win,25,22,4,1,rush,Josh Adams
+26,26,Eagles,2018-12-03,WAS,Win,28,13,1,6,pass,Golden Tate
+27,27,Eagles,2018-12-03,WAS,Win,28,13,2,14,rush,Darren Sproles
+28,28,Eagles,2018-12-03,WAS,Win,28,13,4,4,pass,Jordan Matthews
+29,29,Eagles,2018-12-09,DAL,Loss,23,29,3,2,pass,Alshon Jeffery
+30,30,Eagles,2018-12-09,DAL,Loss,23,29,4,3,pass,Dallas Goedert
+31,31,Eagles,2018-12-09,DAL,Loss,23,29,4,6,pass,Darren Sproles
+32,32,Eagles,2018-12-16,LAR,Win,30,23,2,6,rush,Josh Adams
+33,33,Eagles,2018-12-16,LAR,Win,30,23,3,9,rush,Wendell Smallwood
+34,34,Eagles,2018-12-16,LAR,Win,30,23,3,4,rush,Wendell Smallwood
+35,35,Eagles,2018-12-23,HOU,Win,32,30,1,37,pass,Darren Sproles
+36,36,Eagles,2018-12-23,HOU,Win,32,30,2,1,pass,Zach Ertz
+37,37,Eagles,2018-12-23,HOU,Win,32,30,3,83,pass,Nelson Agholor
+38,38,Eagles,2018-12-23,HOU,Win,32,30,4,23,pass,Zach Ertz
+39,39,Eagles,2018-12-30,WAS,nan,nan,nan,2,2,pass,Alshon Jeffery
+40,40,Eagles,2018-12-30,WAS,nan,nan,nan,3,6,pass,Nelson Agholor
+41,41,Eagles,2018-12-30,WAS,nan,nan,nan,4,22,pass,Nelson Agholor

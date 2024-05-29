@@ -1,5 +1,5 @@
-,No.,Team,Player,Age,Position,Games Played,Games Started,FGA 0-19,FGM 0-19,FGA 20-29,FGM 20-29,FGA 30-39,FGM 30-39,FGA 40-49,FGM 40-49,FGA 50+,FGM 50+,Field Goals Attempted,Field Goals Made,Longest Field Goal Made,Per. of Field Goals Made,Extra Points Attempted,Extra Points Made,Extra Point Per.,Kickoffs,Kickoff Yards,Kickoff Touchbacks,Per. Kickoff was a Touchback,Kickoff Average Yardage,Year
-0,4,Cardinals,Phil Dawson,43,K,10,0,0,0,2,2,2,2,3,1,1,0,8,5,43,62.5,15,15,100.0,32,1982,14,43.8,61.9,2018
-1,5,Cardinals,Zane Gonzalez,23,K,5,0,0,0,1,1,2,2,2,2,4,2,9,7,55,77.8,6,5,83.3,19,1226,12,63.2,64.5,2018
-2,1,Cardinals,Matthew McCrane,24,K,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,3,3,100.0,4,258,2,50.0,64.5,2018
-3,2,Cardinals,Andy Lee,36,P,16,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0.0,1,68,0,0.0,68.0,2018
+,No.,Player,Age,Position,Games Played,Games Started,FGA 0-19,FGM 0-19,FGA 20-29,FGM 20-29,FGA 30-39,FGM 30-39,FGA 40-49,FGM 40-49,FGA 50+,FGM 50+,Field Goals Attempted,Field Goals Made,Longest Field Goal Made,Per. of Field Goals Made,Extra Points Attempted,Extra Points Made,Extra Point Per.,Kickoffs,Kickoff Yards,Kickoff Touchbacks,Per. Kickoff was a Touchback,Kickoff Average Yardage,Team,Year
+4,4,Phil Dawson,43,K,10,0,0,0,2,2,2,2,3,1,1,0,8,5,43,62.5,15,15,100.0,32,1982,14,43.8,61.9,Cardinals,2018
+5,5,Zane Gonzalez,23,K,5,0,0,0,1,1,2,2,2,2,4,2,9,7,55,77.8,6,5,83.3,19,1226,12,63.2,64.5,Cardinals,2018
+1,1,Matthew McCrane,24,K,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,3,3,100.0,4,258,2,50.0,64.5,Cardinals,2018
+2,2,Andy Lee,36,P,16,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0.0,1,68,0,0.0,68.0,Cardinals,2018

@@ -1,46 +1,46 @@
-,No.,Team,Player,Age,Pos,Games Played,Games Started,Passes Intercepted on Defense,Yards Interceptions were Returned,Interceptions Returned for Touchdowns,Longest Interception Return,Passes Defended by Defensive Player,# Forced Fumble by Opp.,# Fumbled both Lost and Recovered by Own Team,Fumbles Recovered by Original Fumbler,Yards Recovered Fumbles were Returned,Fumbles Recovered for Touchdown,Sacks,Tackles Solo+Assisted,Solo Tackles,Assisted Tackles,Tackles for Loss,Quarterback Hits,Safeties Scored by Player/Team,Year
-0,59,Panthers,Luke Kuechly,27,MLB,16,16,1,0,0,0,6,2,0,1,0,0,2.0,130,93,37,20,5,0,2018
-1,26,Panthers,Donte Jackson,23,RCB,16,16,4,0,0,0,9,1,0,0,0,0,1.0,74,63,11,4,1,0,2018
-2,54,Panthers,Shaq Thompson,24,LLB,14,11,0,0,0,0,1,1,0,0,0,0,3.5,80,51,29,4,6,0,2018
-3,24,Panthers,James Bradberry,25,LCB,16,16,1,29,0,29,15,1,0,0,0,0,1.0,70,58,12,1,1,0,2018
-4,58,Panthers,Thomas Davis,35,RLB,12,12,0,0,0,0,6,0,0,2,0,0,0.0,79,46,33,3,2,0,2018
-5,29,Panthers,Mike Adams,37,FS,16,16,3,11,0,18,6,0,0,0,0,0,0.0,75,47,28,3,1,0,2018
-6,25,Panthers,Eric Reid,27,SS,13,13,1,39,0,39,5,0,0,0,0,0,1.0,71,50,21,3,1,0,2018
-7,41,Panthers,Captain Munnerlyn,30,DB,16,5,1,2,0,2,9,0,0,1,0,0,2.0,47,38,9,3,2,0,2018
-8,99,Panthers,Kawann Short,29,LDT,14,14,0,0,0,0,1,1,0,0,0,0,3.0,42,29,13,12,7,0,2018
-9,97,Panthers,Mario Addison,31,LDE,16,16,0,0,0,0,0,2,0,0,0,0,9.0,35,20,15,11,12,0,2018
-10,90,Panthers,Julius Peppers,38,RDE,16,8,0,0,0,0,6,2,0,1,0,0,5.0,22,14,8,6,11,0,2018
-11,96,Panthers,Wes Horton,28,RDE,16,8,0,0,0,0,1,0,0,0,0,0,1.5,24,15,9,2,2,0,2018
-12,93,Panthers,Kyle Love,32,DT,16,2,0,0,0,0,1,3,0,2,0,0,1.5,19,12,7,0,4,0,2018
-13,42,Panthers,Colin Jones,31,DB,16,1,1,5,0,5,1,0,0,1,0,1,0.0,20,8,12,0,0,0,2018
-14,95,Panthers,Dontari Poe,28,RDT,16,16,0,0,0,0,0,0,0,0,0,0,1.0,17,9,8,4,3,0,2018
-15,92,Panthers,Vernon Butler,24,DT,14,0,0,0,0,0,0,0,0,1,0,0,0.5,19,6,13,0,4,0,2018
-16,94,Panthers,Efe Obada,26,DE,10,0,1,0,0,0,2,0,0,0,0,0,2.0,8,6,2,2,7,0,2018
-17,10,Panthers,Curtis Samuel,22,WR,13,8,0,0,0,0,0,0,1,0,0,0,0.0,5,5,0,0,0,0,2018
-18,12,Panthers,D.J. Moore,21,WR,16,10,0,0,0,0,0,0,4,1,0,0,0.0,1,1,0,0,0,0,2018
-19,1,Panthers,Cam Newton,29,QB,14,14,0,0,0,0,0,0,6,1,0,0,0.0,0,0,0,0,0,0,2018
-20,22,Panthers,Christian McCaffrey,22,RB,16,16,0,0,0,0,0,0,4,1,0,0,0.0,0,0,0,0,0,0,2018
-21,13,Panthers,Jarius Wright,29,WR,16,6,0,0,0,0,0,0,3,2,0,0,0.0,0,0,0,0,0,0,2018
-22,40,Panthers,Alex Armah,24,FB,16,2,0,0,0,0,0,0,0,0,0,0,0.0,2,1,1,0,0,0,2018
-23,23,Panthers,Kenjon Barner,29,RB,4,0,0,0,0,0,0,0,1,0,0,0,0.0,1,1,0,0,0,0,2018
-24,4,Panthers,Chandler Catanzaro,27,K,4,0,0,0,0,0,0,0,0,0,0,0,0.0,1,1,0,0,0,0,2018
-25,6,Panthers,Taylor Heinicke,25,QB,6,1,0,0,0,0,0,0,1,1,0,0,0.0,0,0,0,0,0,0,2018
-26,80,Panthers,Ian Thomas,22,TE,16,6,0,0,0,0,0,0,0,0,0,0,0.0,1,1,0,0,0,0,2018
-27,34,Panthers,Cameron Artis-Payne,28,RB,9,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,1,0,0,0,2018
-28,18,Panthers,Damiere Byrd,25,WR,8,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,1,0,0,0,2018
-29,74,Panthers,Chris Clark,33,LT,15,13,0,0,0,0,0,0,0,1,0,0,0.0,0,0,0,0,0,0,2018
-30,67,Panthers,Ryan Kalil,33,C,16,16,0,0,0,0,0,0,0,1,0,0,0.0,0,0,0,0,0,0,2018
-31,88,Panthers,Greg Olsen,33,TE,9,9,0,0,0,0,0,0,0,1,0,0,0.0,0,0,0,0,0,0,2018
-32,73,Panthers,Greg Van Roten,28,LG,16,16,0,0,0,0,0,0,0,1,0,0,0.0,0,0,0,0,0,0,2018
-33,56,Panthers,Jermaine Carter Jr.,23,LB,16,1,0,0,0,0,0,0,0,0,0,0,0.0,13,7,6,1,0,0,2018
-34,91,Panthers,Bryan Cox Jr.,24,DE,11,0,0,0,0,0,0,0,0,0,0,0,0.0,10,4,6,1,1,0,2018
-35,31,Panthers,Lorenzo Doss,24,DB,1,0,0,0,0,0,0,0,0,0,0,0,0.0,1,1,0,0,0,0,2018
-36,35,Panthers,Corn Elder,24,DB,13,0,0,0,0,0,0,0,0,0,0,0,0.0,3,3,0,0,0,0,2018
-37,28,Panthers,Rashaan Gaulden,23,DB,15,0,0,0,0,0,1,0,0,0,0,0,0.0,17,12,5,2,0,0,2018
-38,98,Panthers,Marquis Haynes,25,LB,4,0,0,0,0,0,0,0,0,0,0,0,0.0,4,1,3,0,0,0,2018
-39,53,Panthers,Ben Jacobs,30,LB,16,0,0,0,0,0,0,0,0,0,0,0,0.0,6,3,3,0,1,0,2018
-40,44,Panthers,J.J. Jansen,32,LS,16,0,0,0,0,0,0,0,0,0,0,0,0.0,1,1,0,0,0,0,2018
-41,55,Panthers,David Mayo,25,LB,16,3,0,0,0,0,1,0,0,0,0,0,0.0,14,8,6,0,0,0,2018
-42,52,Panthers,Jared Norris,25,LB,3,0,0,0,0,0,0,0,0,0,0,0,0.0,1,1,0,0,0,0,2018
-43,21,Panthers,Da'Norris Searcy,30,DB,2,2,0,0,0,0,0,0,0,0,0,0,0.0,5,4,1,0,0,0,2018
-44,57,Panthers,Andre Smith,21,LB,3,0,0,0,0,0,0,0,0,0,0,0,0.0,3,1,2,0,0,0,2018
+,No.,Player,Age,Pos,Games Played,Games Started,Passes Intercepted on Defense,Yards Interceptions were Returned,Interceptions Returned for Touchdowns,Longest Interception Return,Passes Defended by Defensive Player,# Forced Fumble by Opp.,# Fumbled both Lost and Recovered by Own Team,Fumbles Recovered by Original Fumbler,Yards Recovered Fumbles were Returned,Fumbles Recovered for Touchdown,Sacks,Tackles Solo+Assisted,Solo Tackles,Assisted Tackles,Tackles for Loss,Quarterback Hits,Safeties Scored by Player/Team,Team,Year
+59,59,Luke Kuechly,27,MLB,16,16,1,0,0,0,6,2,0,1,0,0,2.0,130,93,37,20,5,0,Panthers,2018
+26,26,Donte Jackson,23,RCB,16,16,4,0,0,0,9,1,0,0,0,0,1.0,74,63,11,4,1,0,Panthers,2018
+54,54,Shaq Thompson,24,LLB,14,11,0,0,0,0,1,1,0,0,0,0,3.5,80,51,29,4,6,0,Panthers,2018
+24,24,James Bradberry,25,LCB,16,16,1,29,0,29,15,1,0,0,0,0,1.0,70,58,12,1,1,0,Panthers,2018
+58,58,Thomas Davis,35,RLB,12,12,0,0,0,0,6,0,0,2,0,0,0.0,79,46,33,3,2,0,Panthers,2018
+29,29,Mike Adams,37,FS,16,16,3,11,0,18,6,0,0,0,0,0,0.0,75,47,28,3,1,0,Panthers,2018
+25,25,Eric Reid,27,SS,13,13,1,39,0,39,5,0,0,0,0,0,1.0,71,50,21,3,1,0,Panthers,2018
+41,41,Captain Munnerlyn,30,DB,16,5,1,2,0,2,9,0,0,1,0,0,2.0,47,38,9,3,2,0,Panthers,2018
+99,99,Kawann Short,29,LDT,14,14,0,0,0,0,1,1,0,0,0,0,3.0,42,29,13,12,7,0,Panthers,2018
+97,97,Mario Addison,31,LDE,16,16,0,0,0,0,0,2,0,0,0,0,9.0,35,20,15,11,12,0,Panthers,2018
+90,90,Julius Peppers,38,RDE,16,8,0,0,0,0,6,2,0,1,0,0,5.0,22,14,8,6,11,0,Panthers,2018
+96,96,Wes Horton,28,RDE,16,8,0,0,0,0,1,0,0,0,0,0,1.5,24,15,9,2,2,0,Panthers,2018
+93,93,Kyle Love,32,DT,16,2,0,0,0,0,1,3,0,2,0,0,1.5,19,12,7,0,4,0,Panthers,2018
+42,42,Colin Jones,31,DB,16,1,1,5,0,5,1,0,0,1,0,1,0.0,20,8,12,0,0,0,Panthers,2018
+95,95,Dontari Poe,28,RDT,16,16,0,0,0,0,0,0,0,0,0,0,1.0,17,9,8,4,3,0,Panthers,2018
+92,92,Vernon Butler,24,DT,14,0,0,0,0,0,0,0,0,1,0,0,0.5,19,6,13,0,4,0,Panthers,2018
+94,94,Efe Obada,26,DE,10,0,1,0,0,0,2,0,0,0,0,0,2.0,8,6,2,2,7,0,Panthers,2018
+10,10,Curtis Samuel,22,WR,13,8,0,0,0,0,0,0,1,0,0,0,0.0,5,5,0,0,0,0,Panthers,2018
+12,12,D.J. Moore,21,WR,16,10,0,0,0,0,0,0,4,1,0,0,0.0,1,1,0,0,0,0,Panthers,2018
+1,1,Cam Newton,29,QB,14,14,0,0,0,0,0,0,6,1,0,0,0.0,0,0,0,0,0,0,Panthers,2018
+22,22,Christian McCaffrey,22,RB,16,16,0,0,0,0,0,0,4,1,0,0,0.0,0,0,0,0,0,0,Panthers,2018
+13,13,Jarius Wright,29,WR,16,6,0,0,0,0,0,0,3,2,0,0,0.0,0,0,0,0,0,0,Panthers,2018
+40,40,Alex Armah,24,FB,16,2,0,0,0,0,0,0,0,0,0,0,0.0,2,1,1,0,0,0,Panthers,2018
+23,23,Kenjon Barner,29,RB,4,0,0,0,0,0,0,0,1,0,0,0,0.0,1,1,0,0,0,0,Panthers,2018
+4,4,Chandler Catanzaro,27,K,4,0,0,0,0,0,0,0,0,0,0,0,0.0,1,1,0,0,0,0,Panthers,2018
+6,6,Taylor Heinicke,25,QB,6,1,0,0,0,0,0,0,1,1,0,0,0.0,0,0,0,0,0,0,Panthers,2018
+80,80,Ian Thomas,22,TE,16,6,0,0,0,0,0,0,0,0,0,0,0.0,1,1,0,0,0,0,Panthers,2018
+34,34,Cameron Artis-Payne,28,RB,9,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,1,0,0,0,Panthers,2018
+18,18,Damiere Byrd,25,WR,8,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,1,0,0,0,Panthers,2018
+74,74,Chris Clark,33,LT,15,13,0,0,0,0,0,0,0,1,0,0,0.0,0,0,0,0,0,0,Panthers,2018
+67,67,Ryan Kalil,33,C,16,16,0,0,0,0,0,0,0,1,0,0,0.0,0,0,0,0,0,0,Panthers,2018
+88,88,Greg Olsen,33,TE,9,9,0,0,0,0,0,0,0,1,0,0,0.0,0,0,0,0,0,0,Panthers,2018
+73,73,Greg Van Roten,28,LG,16,16,0,0,0,0,0,0,0,1,0,0,0.0,0,0,0,0,0,0,Panthers,2018
+56,56,Jermaine Carter Jr.,23,LB,16,1,0,0,0,0,0,0,0,0,0,0,0.0,13,7,6,1,0,0,Panthers,2018
+91,91,Bryan Cox Jr.,24,DE,11,0,0,0,0,0,0,0,0,0,0,0,0.0,10,4,6,1,1,0,Panthers,2018
+31,31,Lorenzo Doss,24,DB,1,0,0,0,0,0,0,0,0,0,0,0,0.0,1,1,0,0,0,0,Panthers,2018
+35,35,Corn Elder,24,DB,13,0,0,0,0,0,0,0,0,0,0,0,0.0,3,3,0,0,0,0,Panthers,2018
+28,28,Rashaan Gaulden,23,DB,15,0,0,0,0,0,1,0,0,0,0,0,0.0,17,12,5,2,0,0,Panthers,2018
+98,98,Marquis Haynes,25,LB,4,0,0,0,0,0,0,0,0,0,0,0,0.0,4,1,3,0,0,0,Panthers,2018
+53,53,Ben Jacobs,30,LB,16,0,0,0,0,0,0,0,0,0,0,0,0.0,6,3,3,0,1,0,Panthers,2018
+44,44,J.J. Jansen,32,LS,16,0,0,0,0,0,0,0,0,0,0,0,0.0,1,1,0,0,0,0,Panthers,2018
+55,55,David Mayo,25,LB,16,3,0,0,0,0,1,0,0,0,0,0,0.0,14,8,6,0,0,0,Panthers,2018
+52,52,Jared Norris,25,LB,3,0,0,0,0,0,0,0,0,0,0,0,0.0,1,1,0,0,0,0,Panthers,2018
+21,21,Da'Norris Searcy,30,DB,2,2,0,0,0,0,0,0,0,0,0,0,0.0,5,4,1,0,0,0,Panthers,2018
+57,57,Andre Smith,21,LB,3,0,0,0,0,0,0,0,0,0,0,0,0.0,3,1,2,0,0,0,Panthers,2018

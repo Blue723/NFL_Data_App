@@ -1,13 +1,13 @@
-,No.,Team,Player,Age,Position,Games Played,Games Started,Punts Returned,Punts Return Yardage,Punts Returned for Touchdown,Longest Punt Return,Yards per Punt Return,Kickoff Returns,Yardage for Kickoffs Returned,Kickoffs Returned for a Touchdown,Longest Kickoff Return,Yards per Kickoff Return,All-purpose Yards,Year
-0,38,Packers,Tramon Williams,35,SS/LCB,16,16,12,83,0,23,6.9,0,0,0,0,,83,2018
-1,88,Packers,Ty Montgomery,25,WR,7,0,0,0,0,0,,10,210,0,27,21.0,485,2018
-2,26,Packers,Bashaud Breeland,26,RCB,7,5,0,0,0,0,,8,173,0,38,21.6,221,2018
-3,18,Packers,Randall Cobb,28,WR,9,6,7,46,0,17,6.6,0,0,0,0,,429,2018
-4,11,Packers,Trevor Davis,25,WR,2,0,4,44,0,15,11.0,1,20,0,20,20.0,64,2018
-5,23,Packers,Jaire Alexander,21,LCB,13,11,4,25,0,24,6.3,0,0,0,0,,52,2018
-6,82,Packers,J'Mon Moore,23,WR,12,0,0,0,0,0,,4,102,0,37,25.5,117,2018
-7,30,Packers,Jamaal Williams,23,RB,16,8,0,0,0,0,,4,95,0,30,23.8,769,2018
-8,37,Packers,Josh Jackson,22,RCB/DB,16,10,2,0,0,0,0.0,0,0,0,0,,0,2018
-9,62,Packers,Lucas Patrick,25,G,14,4,0,0,0,0,,2,23,0,15,11.5,23,2018
-10,20,Packers,Kevin King,23,RCB,6,6,1,0,0,0,0.0,0,0,0,0,,0,2018
-11,83,Packers,Marquez Valdes-Scantling,24,WR,16,10,0,0,0,0,,1,21,0,21,21.0,631,2018
+,No.,Player,Age,Position,Games Played,Games Started,Punts Returned,Punts Return Yardage,Punts Returned for Touchdown,Longest Punt Return,Yards per Punt Return,Kickoff Returns,Yardage for Kickoffs Returned,Kickoffs Returned for a Touchdown,Longest Kickoff Return,Yards per Kickoff Return,All-purpose Yards,Team,Year
+38,38,Tramon Williams,35,SS/LCB,16,16,12,83,0,23,6.9,0,0,0,0,0.0,83,Packers,2018
+88,88,Ty Montgomery,25,WR,7,0,0,0,0,0,0.0,10,210,0,27,21.0,485,Packers,2018
+26,26,Bashaud Breeland,26,RCB,7,5,0,0,0,0,0.0,8,173,0,38,21.6,221,Packers,2018
+18,18,Randall Cobb,28,WR,9,6,7,46,0,17,6.6,0,0,0,0,0.0,429,Packers,2018
+11,11,Trevor Davis,25,WR,2,0,4,44,0,15,11.0,1,20,0,20,20.0,64,Packers,2018
+23,23,Jaire Alexander,21,LCB,13,11,4,25,0,24,6.3,0,0,0,0,0.0,52,Packers,2018
+82,82,J'Mon Moore,23,WR,12,0,0,0,0,0,0.0,4,102,0,37,25.5,117,Packers,2018
+30,30,Jamaal Williams,23,RB,16,8,0,0,0,0,0.0,4,95,0,30,23.8,769,Packers,2018
+37,37,Josh Jackson,22,RCB/DB,16,10,2,0,0,0,0.0,0,0,0,0,0.0,0,Packers,2018
+62,62,Lucas Patrick,25,G,14,4,0,0,0,0,0.0,2,23,0,15,11.5,23,Packers,2018
+20,20,Kevin King,23,RCB,6,6,1,0,0,0,0.0,0,0,0,0,0.0,0,Packers,2018
+83,83,Marquez Valdes-Scantling,24,WR,16,10,0,0,0,0,0.0,1,21,0,21,21.0,631,Packers,2018

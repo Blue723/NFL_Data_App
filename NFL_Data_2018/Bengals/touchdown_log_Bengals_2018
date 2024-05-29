@@ -1,46 +1,46 @@
-,Rank,Team,Date,Opponent,Win/Loss,Score,Quarter,Distance,Type,Detail,Year
-0,1,Bengals,09/09/2018,IND,Win, 34-23,2,3,pass,John Ross,2018
-1,2,Bengals,09/09/2018,IND,Win, 34-23,3,38,pass,A.J. Green,2018
-2,3,Bengals,09/09/2018,IND,Win, 34-23,4,1,rush,Joe Mixon,2018
-3,4,Bengals,09/09/2018,IND,Win, 34-23,4,83,fumble,Clayton Fejedelem,2018
-4,5,Bengals,09/13/2018,BAL,Win, 34-23,1,4,pass,A.J. Green,2018
-5,6,Bengals,09/13/2018,BAL,Win, 34-23,1,32,pass,A.J. Green,2018
-6,7,Bengals,09/13/2018,BAL,Win, 34-23,2,7,pass,A.J. Green,2018
-7,8,Bengals,09/13/2018,BAL,Win, 34-23,2,14,pass,Tyler Boyd,2018
-8,9,Bengals,09/23/2018,CAR,Loss, 21-31,1,1,rush,Giovani Bernard,2018
-9,10,Bengals,09/23/2018,CAR,Loss, 21-31,2,1,pass,C.J. Uzomah,2018
-10,11,Bengals,09/23/2018,CAR,Loss, 21-31,3,27,pass,Tyler Boyd,2018
-11,12,Bengals,09/30/2018,ATL,Win, 37-36,1,15,pass,Tyler Eifert,2018
-12,13,Bengals,09/30/2018,ATL,Win, 37-36,1,10,rush,Giovani Bernard,2018
-13,14,Bengals,09/30/2018,ATL,Win, 37-36,2,39,pass,John Ross,2018
-14,15,Bengals,09/30/2018,ATL,Win, 37-36,2,1,rush,Giovani Bernard,2018
-15,16,Bengals,09/30/2018,ATL,Win, 37-36,4,13,pass,A.J. Green,2018
-16,17,Bengals,10/07/2018,MIA,Win, 27-17,4,18,pass,Joe Mixon,2018
-17,18,Bengals,10/07/2018,MIA,Win, 27-17,4,22,interception,Michael Johnson,2018
-18,19,Bengals,10/07/2018,MIA,Win, 27-17,4,19,fumble,Sam Hubbard,2018
-19,20,Bengals,10/14/2018,PIT,Loss, 21-28,1,2,pass,Tyler Boyd,2018
-20,21,Bengals,10/14/2018,PIT,Loss, 21-28,2,14,pass,Tyler Boyd,2018
-21,22,Bengals,10/14/2018,PIT,Loss, 21-28,4,4,rush,Joe Mixon,2018
-22,23,Bengals,10/21/2018,KAN,Loss, 10-45,2,4,pass,C.J. Uzomah,2018
-23,24,Bengals,10/28/2018,TAM,Win, 37-34,1,1,rush,Joe Mixon,2018
-24,25,Bengals,10/28/2018,TAM,Win, 37-34,2,9,pass,Tyler Boyd,2018
-25,26,Bengals,10/28/2018,TAM,Win, 37-34,2,8,rush,Joe Mixon,2018
-26,27,Bengals,10/28/2018,TAM,Win, 37-34,2,17,pass,A.J. Green,2018
-27,28,Bengals,10/28/2018,TAM,Win, 37-34,3,21,interception,Jessie Bates III,2018
-28,29,Bengals,11/11/2018,NOR,Loss, 14-51,1,2,pass,John Ross,2018
-29,30,Bengals,11/11/2018,NOR,Loss, 14-51,4,27,rush,Jeff Driskel,2018
-30,31,Bengals,11/18/2018,BAL,Loss, 21-24,2,1,rush,Joe Mixon,2018
-31,32,Bengals,11/18/2018,BAL,Loss, 21-24,3,4,pass,Matt Lengel,2018
-32,33,Bengals,11/18/2018,BAL,Loss, 21-24,3,22,pass,John Ross,2018
-33,34,Bengals,11/25/2018,CLE,Loss, 20-35,2,2,pass,John Ross,2018
-34,35,Bengals,11/25/2018,CLE,Loss, 20-35,3,28,pass,Tyler Boyd,2018
-35,36,Bengals,11/25/2018,CLE,Loss, 20-35,4,2,rush,Jeff Driskel,2018
-36,37,Bengals,12/02/2018,DEN,Loss, 10-24,3,30,pass,Cody Core,2018
-37,38,Bengals,12/09/2018,LAC,Loss, 21-26,2,6,pass,John Ross,2018
-38,39,Bengals,12/09/2018,LAC,Loss, 21-26,4,1,rush,Joe Mixon,2018
-39,40,Bengals,12/16/2018,OAK,Win, 30-16,1,7,pass,Tyler Boyd,2018
-40,41,Bengals,12/16/2018,OAK,Win, 30-16,2,1,rush,Joe Mixon,2018
-41,42,Bengals,12/16/2018,OAK,Win, 30-16,4,15,rush,Joe Mixon,2018
-42,43,Bengals,12/23/2018,CLE,Loss, 18-26,4,14,pass,C.J. Uzomah,2018
-43,44,Bengals,12/23/2018,CLE,Loss, 18-26,4,3,pass,John Ross,2018
-44,45,Bengals,12/30/2018,PIT,Loss, 13-16,2,58,interception,Shawn Williams,2018
+,Rank,Team,Date,Opponent,Win/Loss,Home_Score,Opponenet_Score,Quarter,Distance,Type,Detail
+1,1,Bengals,2018-09-09,IND,Win,34,23,2,3,pass,John Ross
+2,2,Bengals,2018-09-09,IND,Win,34,23,3,38,pass,A.J. Green
+3,3,Bengals,2018-09-09,IND,Win,34,23,4,1,rush,Joe Mixon
+4,4,Bengals,2018-09-09,IND,Win,34,23,4,83,fumble,Clayton Fejedelem
+5,5,Bengals,2018-09-13,BAL,Win,34,23,1,4,pass,A.J. Green
+6,6,Bengals,2018-09-13,BAL,Win,34,23,1,32,pass,A.J. Green
+7,7,Bengals,2018-09-13,BAL,Win,34,23,2,7,pass,A.J. Green
+8,8,Bengals,2018-09-13,BAL,Win,34,23,2,14,pass,Tyler Boyd
+9,9,Bengals,2018-09-23,CAR,Loss,21,31,1,1,rush,Giovani Bernard
+10,10,Bengals,2018-09-23,CAR,Loss,21,31,2,1,pass,C.J. Uzomah
+11,11,Bengals,2018-09-23,CAR,Loss,21,31,3,27,pass,Tyler Boyd
+12,12,Bengals,2018-09-30,ATL,Win,37,36,1,15,pass,Tyler Eifert
+13,13,Bengals,2018-09-30,ATL,Win,37,36,1,10,rush,Giovani Bernard
+14,14,Bengals,2018-09-30,ATL,Win,37,36,2,39,pass,John Ross
+15,15,Bengals,2018-09-30,ATL,Win,37,36,2,1,rush,Giovani Bernard
+16,16,Bengals,2018-09-30,ATL,Win,37,36,4,13,pass,A.J. Green
+17,17,Bengals,2018-10-07,MIA,Win,27,17,4,18,pass,Joe Mixon
+18,18,Bengals,2018-10-07,MIA,Win,27,17,4,22,interception,Michael Johnson
+19,19,Bengals,2018-10-07,MIA,Win,27,17,4,19,fumble,Sam Hubbard
+20,20,Bengals,2018-10-14,PIT,Loss,21,28,1,2,pass,Tyler Boyd
+21,21,Bengals,2018-10-14,PIT,Loss,21,28,2,14,pass,Tyler Boyd
+22,22,Bengals,2018-10-14,PIT,Loss,21,28,4,4,rush,Joe Mixon
+23,23,Bengals,2018-10-21,KAN,Loss,10,45,2,4,pass,C.J. Uzomah
+24,24,Bengals,2018-10-28,TAM,Win,37,34,1,1,rush,Joe Mixon
+25,25,Bengals,2018-10-28,TAM,Win,37,34,2,9,pass,Tyler Boyd
+26,26,Bengals,2018-10-28,TAM,Win,37,34,2,8,rush,Joe Mixon
+27,27,Bengals,2018-10-28,TAM,Win,37,34,2,17,pass,A.J. Green
+28,28,Bengals,2018-10-28,TAM,Win,37,34,3,21,interception,Jessie Bates III
+29,29,Bengals,2018-11-11,NOR,Loss,14,51,1,2,pass,John Ross
+30,30,Bengals,2018-11-11,NOR,Loss,14,51,4,27,rush,Jeff Driskel
+31,31,Bengals,2018-11-18,BAL,Loss,21,24,2,1,rush,Joe Mixon
+32,32,Bengals,2018-11-18,BAL,Loss,21,24,3,4,pass,Matt Lengel
+33,33,Bengals,2018-11-18,BAL,Loss,21,24,3,22,pass,John Ross
+34,34,Bengals,2018-11-25,CLE,Loss,20,35,2,2,pass,John Ross
+35,35,Bengals,2018-11-25,CLE,Loss,20,35,3,28,pass,Tyler Boyd
+36,36,Bengals,2018-11-25,CLE,Loss,20,35,4,2,rush,Jeff Driskel
+37,37,Bengals,2018-12-02,DEN,Loss,10,24,3,30,pass,Cody Core
+38,38,Bengals,2018-12-09,LAC,Loss,21,26,2,6,pass,John Ross
+39,39,Bengals,2018-12-09,LAC,Loss,21,26,4,1,rush,Joe Mixon
+40,40,Bengals,2018-12-16,OAK,Win,30,16,1,7,pass,Tyler Boyd
+41,41,Bengals,2018-12-16,OAK,Win,30,16,2,1,rush,Joe Mixon
+42,42,Bengals,2018-12-16,OAK,Win,30,16,4,15,rush,Joe Mixon
+43,43,Bengals,2018-12-23,CLE,Loss,18,26,4,14,pass,C.J. Uzomah
+44,44,Bengals,2018-12-23,CLE,Loss,18,26,4,3,pass,John Ross
+45,45,Bengals,2018-12-30,PIT,Loss,13,16,2,58,interception,Shawn Williams

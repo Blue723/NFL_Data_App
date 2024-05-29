@@ -1,48 +1,48 @@
-,Rank,Team,Date,Opponent,Win/Loss,Score,Quarter,Distance,Type,Detail,Year
-0,1,Panthers,09/09/2018,DAL,Win, 16-8,2,4,rush,Cam Newton,2018
-1,2,Panthers,09/09/2018,DAL,Win, 16-8,4,1,rush,Alex Armah,2018
-2,3,Panthers,09/16/2018,ATL,Loss, 24-31,2,5,pass,Jarius Wright,2018
-3,4,Panthers,09/16/2018,ATL,Loss, 24-31,4,3,pass,Torrey Smith,2018
-4,5,Panthers,09/16/2018,ATL,Loss, 24-31,4,51,pass,D.J. Moore,2018
-5,6,Panthers,09/23/2018,CIN,Win, 31-21,1,2,rush,Cam Newton,2018
-6,7,Panthers,09/23/2018,CIN,Win, 31-21,2,4,pass,Devin Funchess,2018
-7,8,Panthers,09/23/2018,CIN,Win, 31-21,2,24,pass,C.J. Anderson,2018
-8,9,Panthers,09/23/2018,CIN,Win, 31-21,3,5,rush,Cam Newton,2018
-9,10,Panthers,10/07/2018,NYG,Win, 33-31,1,25,pass,Curtis Samuel,2018
-10,11,Panthers,10/07/2018,NYG,Win, 33-31,2,0,fumble,Colin Jones,2018
-11,12,Panthers,10/07/2018,NYG,Win, 33-31,4,18,pass,Christian McCaffrey,2018
-12,13,Panthers,10/14/2018,WAS,Loss, 17-23,2,23,pass,Devin Funchess,2018
-13,14,Panthers,10/14/2018,WAS,Loss, 17-23,4,3,pass,Torrey Smith,2018
-14,15,Panthers,10/21/2018,PHI,Win, 21-17,4,14,rush,Curtis Samuel,2018
-15,16,Panthers,10/21/2018,PHI,Win, 21-17,4,18,pass,Devin Funchess,2018
-16,17,Panthers,10/21/2018,PHI,Win, 21-17,4,1,pass,Greg Olsen,2018
-17,18,Panthers,10/28/2018,BAL,Win, 36-21,1,11,rush,Christian McCaffrey,2018
-18,19,Panthers,10/28/2018,BAL,Win, 36-21,2,11,pass,Greg Olsen,2018
-19,20,Panthers,10/28/2018,BAL,Win, 36-21,2,6,pass,Christian McCaffrey,2018
-20,21,Panthers,10/28/2018,BAL,Win, 36-21,4,12,rush,Cam Newton,2018
-21,22,Panthers,11/04/2018,TAM,Win, 42-28,1,1,rush,Alex Armah,2018
-22,23,Panthers,11/04/2018,TAM,Win, 42-28,1,3,rush,Christian McCaffrey,2018
-23,24,Panthers,11/04/2018,TAM,Win, 42-28,2,33,rush,Curtis Samuel,2018
-24,25,Panthers,11/04/2018,TAM,Win, 42-28,2,1,rush,Christian McCaffrey,2018
-25,26,Panthers,11/04/2018,TAM,Win, 42-28,2,17,pass,Greg Olsen,2018
-26,27,Panthers,11/04/2018,TAM,Win, 42-28,4,19,pass,Curtis Samuel,2018
-27,28,Panthers,11/08/2018,PIT,Loss, 21-52,1,20,pass,Christian McCaffrey,2018
-28,29,Panthers,11/08/2018,PIT,Loss, 21-52,2,25,pass,Christian McCaffrey,2018
-29,30,Panthers,11/08/2018,PIT,Loss, 21-52,4,1,rush,Christian McCaffrey,2018
-30,31,Panthers,11/18/2018,DET,Loss, 19-20,1,1,pass,Greg Olsen,2018
-31,32,Panthers,11/18/2018,DET,Loss, 19-20,4,12,pass,Curtis Samuel,2018
-32,33,Panthers,11/18/2018,DET,Loss, 19-20,4,8,pass,D.J. Moore,2018
-33,34,Panthers,11/25/2018,SEA,Loss, 27-30,2,7,pass,Curtis Samuel,2018
-34,35,Panthers,11/25/2018,SEA,Loss, 27-30,3,1,rush,Christian McCaffrey,2018
-35,36,Panthers,11/25/2018,SEA,Loss, 27-30,4,2,pass,Christian McCaffrey,2018
-36,37,Panthers,12/02/2018,TAM,Loss, 17-24,1,8,pass,Christian McCaffrey,2018
-37,38,Panthers,12/02/2018,TAM,Loss, 17-24,3,10,pass,Devin Funchess,2018
-38,39,Panthers,12/09/2018,CLE,Loss, 20-26,1,4,rush,Christian McCaffrey,2018
-39,40,Panthers,12/09/2018,CLE,Loss, 20-26,2,1,rush,Christian McCaffrey,2018
-40,41,Panthers,12/17/2018,NOR,Loss, 9-12,1,50,pass,Chris Manhertz,2018
-41,42,Panthers,12/17/2018,NOR,Loss, 9-12,4,0,xpr,Donte Jackson,2018
-42,43,Panthers,12/23/2018,ATL,Loss, 10-24,1,1,pass,Ian Thomas,2018
-43,44,Panthers,12/30/2018,NOR,Win, 33-14,1,1,rush,Kyle Allen,2018
-44,45,Panthers,12/30/2018,NOR,Win, 33-14,1,15,rush,Cameron Artis-Payne,2018
-45,46,Panthers,12/30/2018,NOR,Win, 33-14,2,8,pass,Ian Thomas,2018
-46,47,Panthers,12/30/2018,NOR,Win, 33-14,3,53,pass,Curtis Samuel,2018
+,Rank,Team,Date,Opponent,Win/Loss,Home_Score,Opponenet_Score,Quarter,Distance,Type,Detail
+1,1,Panthers,2018-09-09,DAL,Win,16,8,2,4,rush,Cam Newton
+2,2,Panthers,2018-09-09,DAL,Win,16,8,4,1,rush,Alex Armah
+3,3,Panthers,2018-09-16,ATL,Loss,24,31,2,5,pass,Jarius Wright
+4,4,Panthers,2018-09-16,ATL,Loss,24,31,4,3,pass,Torrey Smith
+5,5,Panthers,2018-09-16,ATL,Loss,24,31,4,51,pass,D.J. Moore
+6,6,Panthers,2018-09-23,CIN,Win,31,21,1,2,rush,Cam Newton
+7,7,Panthers,2018-09-23,CIN,Win,31,21,2,4,pass,Devin Funchess
+8,8,Panthers,2018-09-23,CIN,Win,31,21,2,24,pass,C.J. Anderson
+9,9,Panthers,2018-09-23,CIN,Win,31,21,3,5,rush,Cam Newton
+10,10,Panthers,2018-10-07,NYG,Win,33,31,1,25,pass,Curtis Samuel
+11,11,Panthers,2018-10-07,NYG,Win,33,31,2,0,fumble,Colin Jones
+12,12,Panthers,2018-10-07,NYG,Win,33,31,4,18,pass,Christian McCaffrey
+13,13,Panthers,2018-10-14,WAS,Loss,17,23,2,23,pass,Devin Funchess
+14,14,Panthers,2018-10-14,WAS,Loss,17,23,4,3,pass,Torrey Smith
+15,15,Panthers,2018-10-21,PHI,Win,21,17,4,14,rush,Curtis Samuel
+16,16,Panthers,2018-10-21,PHI,Win,21,17,4,18,pass,Devin Funchess
+17,17,Panthers,2018-10-21,PHI,Win,21,17,4,1,pass,Greg Olsen
+18,18,Panthers,2018-10-28,BAL,Win,36,21,1,11,rush,Christian McCaffrey
+19,19,Panthers,2018-10-28,BAL,Win,36,21,2,11,pass,Greg Olsen
+20,20,Panthers,2018-10-28,BAL,Win,36,21,2,6,pass,Christian McCaffrey
+21,21,Panthers,2018-10-28,BAL,Win,36,21,4,12,rush,Cam Newton
+22,22,Panthers,2018-11-04,TAM,Win,42,28,1,1,rush,Alex Armah
+23,23,Panthers,2018-11-04,TAM,Win,42,28,1,3,rush,Christian McCaffrey
+24,24,Panthers,2018-11-04,TAM,Win,42,28,2,33,rush,Curtis Samuel
+25,25,Panthers,2018-11-04,TAM,Win,42,28,2,1,rush,Christian McCaffrey
+26,26,Panthers,2018-11-04,TAM,Win,42,28,2,17,pass,Greg Olsen
+27,27,Panthers,2018-11-04,TAM,Win,42,28,4,19,pass,Curtis Samuel
+28,28,Panthers,2018-11-08,PIT,Loss,21,52,1,20,pass,Christian McCaffrey
+29,29,Panthers,2018-11-08,PIT,Loss,21,52,2,25,pass,Christian McCaffrey
+30,30,Panthers,2018-11-08,PIT,Loss,21,52,4,1,rush,Christian McCaffrey
+31,31,Panthers,2018-11-18,DET,Loss,19,20,1,1,pass,Greg Olsen
+32,32,Panthers,2018-11-18,DET,Loss,19,20,4,12,pass,Curtis Samuel
+33,33,Panthers,2018-11-18,DET,Loss,19,20,4,8,pass,D.J. Moore
+34,34,Panthers,2018-11-25,SEA,Loss,27,30,2,7,pass,Curtis Samuel
+35,35,Panthers,2018-11-25,SEA,Loss,27,30,3,1,rush,Christian McCaffrey
+36,36,Panthers,2018-11-25,SEA,Loss,27,30,4,2,pass,Christian McCaffrey
+37,37,Panthers,2018-12-02,TAM,Loss,17,24,1,8,pass,Christian McCaffrey
+38,38,Panthers,2018-12-02,TAM,Loss,17,24,3,10,pass,Devin Funchess
+39,39,Panthers,2018-12-09,CLE,Loss,20,26,1,4,rush,Christian McCaffrey
+40,40,Panthers,2018-12-09,CLE,Loss,20,26,2,1,rush,Christian McCaffrey
+41,41,Panthers,2018-12-17,NOR,Loss,9,12,1,50,pass,Chris Manhertz
+42,42,Panthers,2018-12-17,NOR,Loss,9,12,4,0,xpr,Donte Jackson
+43,43,Panthers,2018-12-23,ATL,Loss,10,24,1,1,pass,Ian Thomas
+44,44,Panthers,2018-12-30,NOR,Win,33,14,1,1,rush,Kyle Allen
+45,45,Panthers,2018-12-30,NOR,Win,33,14,1,15,rush,Cameron Artis-Payne
+46,46,Panthers,2018-12-30,NOR,Win,33,14,2,8,pass,Ian Thomas
+47,47,Panthers,2018-12-30,NOR,Win,33,14,3,53,pass,Curtis Samuel

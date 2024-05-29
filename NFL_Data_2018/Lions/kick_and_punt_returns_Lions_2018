@@ -1,9 +1,9 @@
-,No.,Team,Player,Age,Position,Games Played,Games Started,Punts Returned,Punts Return Yardage,Punts Returned for Touchdown,Longest Punt Return,Yards per Punt Return,Kickoff Returns,Yardage for Kickoffs Returned,Kickoffs Returned for a Touchdown,Longest Kickoff Return,Yards per Kickoff Return,All-purpose Yards,Year
-0,39,Lions,Jamal Agnew,23,DB,6,0,12,57,0,16,4.8,8,216,0,45,27.0,290,2018
-1,13,Lions,T.J. Jones,26,WR,15,3,8,87,0,25,10.9,4,81,0,22,20.3,358,2018
-2,21,Lions,Ameer Abdullah,25,RB,3,0,0,0,0,0,,4,107,0,32,26.8,126,2018
-3,10,Lions,Brandon Powell,23,WR,6,1,2,8,0,5,4.0,2,43,0,27,21.5,184,2018
-4,28,Lions,Quandre Diggs,25,SS,16,16,2,4,0,4,2.0,0,0,0,0,,45,2018
-5,15,Lions,Golden Tate,30,WR,7,4,2,15,0,9,7.5,0,0,0,0,,574,2018
-6,82,Lions,Luke Willson,28,TE,14,8,0,0,0,0,,2,35,0,20,17.5,122,2018
-7,12,Lions,Bruce Ellington,27,WR,4,2,1,0,0,0,0.0,0,0,0,0,,134,2018
+,No.,Player,Age,Position,Games Played,Games Started,Punts Returned,Punts Return Yardage,Punts Returned for Touchdown,Longest Punt Return,Yards per Punt Return,Kickoff Returns,Yardage for Kickoffs Returned,Kickoffs Returned for a Touchdown,Longest Kickoff Return,Yards per Kickoff Return,All-purpose Yards,Team,Year
+39,39,Jamal Agnew,23,DB,6,0,12,57,0,16,4.8,8,216,0,45,27.0,290,Lions,2018
+13,13,T.J. Jones,26,WR,15,3,8,87,0,25,10.9,4,81,0,22,20.3,358,Lions,2018
+21,21,Ameer Abdullah,25,RB,3,0,0,0,0,0,0.0,4,107,0,32,26.8,126,Lions,2018
+10,10,Brandon Powell,23,WR,6,1,2,8,0,5,4.0,2,43,0,27,21.5,184,Lions,2018
+28,28,Quandre Diggs,25,SS,16,16,2,4,0,4,2.0,0,0,0,0,0.0,45,Lions,2018
+15,15,Golden Tate,30,WR,7,4,2,15,0,9,7.5,0,0,0,0,0.0,574,Lions,2018
+82,82,Luke Willson,28,TE,14,8,0,0,0,0,0.0,2,35,0,20,17.5,122,Lions,2018
+12,12,Bruce Ellington,27,WR,4,2,1,0,0,0,0.0,0,0,0,0,0.0,134,Lions,2018

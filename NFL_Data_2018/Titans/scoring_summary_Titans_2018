@@ -1,16 +1,16 @@
-,No.,Team,Player,Age,Pos,Games Played,Games Started,Rush TD,Reception TD,Punt Return TD,Kick Return TD,Fumble Return TD,Interception TD,Other TD,All Touchdown Scored,2-Point Conversions Made,Two-Point Conversions Attempted,Defensive Two-Point Conversions,Extra Points Made,Extra Points Allowed,Field Goals Made,Field Goals Attempted,Safeties Scored by Player/Team,Total Points Scored by all Means,Poins per Game,Year
-0,4,Titans,Ryan Succop,32,K,16,0,0,0,0,0,0,0,0,0,0,0,0,28,31,26,30,,106,6.6,2018
-1,22,Titans,Derrick Henry,24,RB,16,12,12,0,0,0,0,0,0,12,0,0,0,0,0,0,0,,72,4.5,2018
-2,84,Titans,Corey Davis,23,WR,16,16,0,4,0,0,0,0,0,4,0,0,0,0,0,0,0,,24,1.5,2018
-3,81,Titans,Jonnu Smith,23,TE,13,12,0,3,0,0,0,0,0,3,0,0,0,0,0,0,0,,18,1.4,2018
-4,33,Titans,Dion Lewis,28,RB,16,7,1,1,0,0,0,0,0,2,0,0,0,0,0,0,0,,12,0.8,2018
-5,8,Titans,Marcus Mariota,25,QB,14,13,2,0,0,0,0,0,0,2,0,0,0,0,0,0,0,,12,0.9,2018
-6,19,Titans,Tajae Sharpe,24,WR,16,13,0,2,0,0,0,0,0,2,0,0,0,0,0,0,0,,12,0.8,2018
-7,88,Titans,Luke Stocker,30,TE,16,11,0,2,0,0,0,0,0,2,0,0,0,0,0,0,0,,12,0.8,2018
-8,55,Titans,Jayon Brown,23,RILB,16,9,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,,6,0.4,2018
-9,21,Titans,Malcolm Butler,28,DB,16,11,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,,6,0.4,2018
-10,29,Titans,Dane Cruikshank,23,DB,12,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,,6,0.5,2018
-11,86,Titans,Anthony Firkser,23,FB,12,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,,6,0.5,2018
-12,15,Titans,Darius Jennings,26,WR,16,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,,6,0.4,2018
-13,85,Titans,MyCole Pruitt,26,TE,15,1,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,,6,0.4,2018
-14,13,Titans,Taywan Taylor,23,WR,13,5,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,,6,0.5,2018
+,No.,Player,Age,Pos,Games Played,Games Started,Rush TD,Reception TD,Punt Return TD,Kick Return TD,Fumble Return TD,Interception TD,Other TD,All Touchdown Scored,2-Point Conversions Made,Two-Point Conversions Attempted,Defensive Two-Point Conversions,Extra Points Made,Extra Points Allowed,Field Goals Made,Field Goals Attempted,Safeties Scored by Player/Team,Total Points Scored by all Means,Poins per Game,Team,Year
+4,4,Ryan Succop,32,K,16,0,0,0,0,0,0,0,0,0,0,0,0,28,31,26,30,0,106,6.6,Titans,2018
+22,22,Derrick Henry,24,RB,16,12,12,0,0,0,0,0,0,12,0,0,0,0,0,0,0,0,72,4.5,Titans,2018
+84,84,Corey Davis,23,WR,16,16,0,4,0,0,0,0,0,4,0,0,0,0,0,0,0,0,24,1.5,Titans,2018
+81,81,Jonnu Smith,23,TE,13,12,0,3,0,0,0,0,0,3,0,0,0,0,0,0,0,0,18,1.4,Titans,2018
+33,33,Dion Lewis,28,RB,16,7,1,1,0,0,0,0,0,2,0,0,0,0,0,0,0,0,12,0.8,Titans,2018
+8,8,Marcus Mariota,25,QB,14,13,2,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,12,0.9,Titans,2018
+19,19,Tajae Sharpe,24,WR,16,13,0,2,0,0,0,0,0,2,0,0,0,0,0,0,0,0,12,0.8,Titans,2018
+88,88,Luke Stocker,30,TE,16,11,0,2,0,0,0,0,0,2,0,0,0,0,0,0,0,0,12,0.8,Titans,2018
+55,55,Jayon Brown,23,RILB,16,9,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,6,0.4,Titans,2018
+21,21,Malcolm Butler,28,DB,16,11,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,6,0.4,Titans,2018
+29,29,Dane Cruikshank,23,DB,12,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,6,0.5,Titans,2018
+86,86,Anthony Firkser,23,FB,12,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,6,0.5,Titans,2018
+15,15,Darius Jennings,26,WR,16,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,6,0.4,Titans,2018
+85,85,MyCole Pruitt,26,TE,15,1,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,6,0.4,Titans,2018
+13,13,Taywan Taylor,23,WR,13,5,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,6,0.5,Titans,2018

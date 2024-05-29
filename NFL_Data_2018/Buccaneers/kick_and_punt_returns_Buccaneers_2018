@@ -1,8 +1,8 @@
-,No.,Team,Player,Age,Position,Games Played,Games Started,Punts Returned,Punts Return Yardage,Punts Returned for Touchdown,Longest Punt Return,Yards per Punt Return,Kickoff Returns,Yardage for Kickoffs Returned,Kickoffs Returned for a Touchdown,Longest Kickoff Return,Yards per Kickoff Return,All-purpose Yards,Year
-0,10.0,Buccaneers,Adam Humphries,25,WR,16,10,21,139,0,16,6.6,2,17,0,13,8.5,983,2018
-1,,Buccaneers,Bobo Wilson,23,WR,5,0,0,0,0,0,,10,284,0,38,28.4,336,2018
-2,44.0,Buccaneers,Dare Ogunbowale,24,RB,2,0,0,0,0,0,,7,137,0,25,19.6,137,2018
-3,38.0,Buccaneers,Shaun Wilson,23,RB,5,0,0,0,0,0,,7,122,0,29,17.4,156,2018
-4,11.0,Buccaneers,DeSean Jackson,32,WR,12,10,5,24,0,11,4.8,0,0,0,0,,827,2018
-5,32.0,Buccaneers,Jacquizz Rodgers,28,RB,16,0,0,0,0,0,,3,52,0,21,17.3,464,2018
-6,82.0,Buccaneers,Antony Auclair,25,TE,16,10,0,0,0,0,,2,19,0,10,9.5,67,2018
+,No.,Player,Age,Position,Games Played,Games Started,Punts Returned,Punts Return Yardage,Punts Returned for Touchdown,Longest Punt Return,Yards per Punt Return,Kickoff Returns,Yardage for Kickoffs Returned,Kickoffs Returned for a Touchdown,Longest Kickoff Return,Yards per Kickoff Return,All-purpose Yards,Team,Year
+10,10,Adam Humphries,25,WR,16,10,21,139,0,16,6.6,2,17,0,13,8.5,983,Buccaneers,2018
+n/a,0,Bobo Wilson,23,WR,5,0,0,0,0,0,0.0,10,284,0,38,28.4,336,Buccaneers,2018
+44,44,Dare Ogunbowale,24,RB,2,0,0,0,0,0,0.0,7,137,0,25,19.6,137,Buccaneers,2018
+38,38,Shaun Wilson,23,RB,5,0,0,0,0,0,0.0,7,122,0,29,17.4,156,Buccaneers,2018
+11,11,DeSean Jackson,32,WR,12,10,5,24,0,11,4.8,0,0,0,0,0.0,827,Buccaneers,2018
+32,32,Jacquizz Rodgers,28,RB,16,0,0,0,0,0,0.0,3,52,0,21,17.3,464,Buccaneers,2018
+82,82,Antony Auclair,25,TE,16,10,0,0,0,0,0.0,2,19,0,10,9.5,67,Buccaneers,2018

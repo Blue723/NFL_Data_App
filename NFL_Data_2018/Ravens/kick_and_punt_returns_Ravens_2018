@@ -1,7 +1,7 @@
-,No.,Team,Player,Age,Position,Games Played,Games Started,Punts Returned,Punts Return Yardage,Punts Returned for Touchdown,Longest Punt Return,Yards per Punt Return,Kickoff Returns,Yardage for Kickoffs Returned,Kickoffs Returned for a Touchdown,Longest Kickoff Return,Yards per Kickoff Return,All-purpose Yards,Year
-0,10,Ravens,Chris Moore,25,WR,16,0,0,0,0,0,,22,491,0,39,22.3,704,2018
-1,27,Ravens,Cyrus Jones,25,DB,11,0,18,259,1,70,14.4,1,12,0,12,12.0,271,2018
-2,14,Ravens,Tim White,24,WR,3,0,9,75,0,14,8.3,6,135,0,37,22.5,224,2018
-3,84,Ravens,Janarion Grant,25,WR,2,0,7,52,0,51,7.4,2,56,0,32,28.0,108,2018
-4,83,Ravens,Willie Snead,26,WR,16,10,0,0,0,0,,1,13,0,13,13.0,677,2018
-5,32,Ravens,Eric Weddle,33,FS,16,16,1,18,0,18,18.0,0,0,0,0,,18,2018
+,No.,Player,Age,Position,Games Played,Games Started,Punts Returned,Punts Return Yardage,Punts Returned for Touchdown,Longest Punt Return,Yards per Punt Return,Kickoff Returns,Yardage for Kickoffs Returned,Kickoffs Returned for a Touchdown,Longest Kickoff Return,Yards per Kickoff Return,All-purpose Yards,Team,Year
+10,10,Chris Moore,25,WR,16,0,0,0,0,0,0.0,22,491,0,39,22.3,704,Ravens,2018
+27,27,Cyrus Jones,25,DB,11,0,18,259,1,70,14.4,1,12,0,12,12.0,271,Ravens,2018
+14,14,Tim White,24,WR,3,0,9,75,0,14,8.3,6,135,0,37,22.5,224,Ravens,2018
+84,84,Janarion Grant,25,WR,2,0,7,52,0,51,7.4,2,56,0,32,28.0,108,Ravens,2018
+83,83,Willie Snead,26,WR,16,10,0,0,0,0,0.0,1,13,0,13,13.0,677,Ravens,2018
+32,32,Eric Weddle,33,FS,16,16,1,18,0,18,18.0,0,0,0,0,0.0,18,Ravens,2018

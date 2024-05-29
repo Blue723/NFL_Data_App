@@ -1,18 +1,17 @@
-,Week,Team,Day,Date,Time,Win/Loss,Overtime,Team Record,Home/Away,Opponent,Points Scored,Points Allowed,Offense 1st Down,Total Yards Gained of Offense,Total yards Gained by Passing,Total Yards Gained by Rushing,Offense Turnovers,Defense 1st Down,Total Yards Allowed by Defense,Total Passing Yards Allowed by Defense,Total Rushing Yards Allowed by Defense,Defense Turnovers,Offense,Defense,Sp. Tms,Year
-0,0,1,1,1,1.0,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1.0,1.0,1.0,1
-1,1,Steelers,Sun,September 16,,L,0,0-1-1,home,Kansas City Chiefs,37,42,33,475,442,33,0,24,449,322,127,1,26.79,-27.25,-10.45,2018
-2,2,Steelers,Mon,September 24,,W,0,1-1-1,away,Tampa Bay Buccaneers,30,27,22,413,335,78,1,28,455,392,63,4,9.86,-3.18,-2.73,2018
-3,3,Steelers,Sun,September 30,,L,0,1-2-1,home,Baltimore Ravens,14,26,14,284,265,19,2,24,451,355,96,1,-10.05,-7.71,2.06,2018
-4,4,Steelers,Sun,October 7,,W,0,2-2-1,home,Atlanta Falcons,41,17,22,381,250,131,1,22,324,262,62,1,20.96,1.13,0.44,2018
-5,5,Steelers,Sun,October 14,,W,0,3-2-1,away,Cincinnati Bengals,28,21,26,481,369,112,0,19,275,213,62,0,21.96,-8.56,-7.33,2018
-6,6,Steelers,,,,,0,,home,<strong>Bye Week</strong>,0,0,0,0,0,0,0,0,0,0,0,0,,,,2018
-7,7,Steelers,Sun,October 28,,W,0,4-2-1,home,Cleveland Browns,33,18,25,421,253,168,2,17,237,163,74,1,12.48,0.68,-3.07,2018
-8,8,Steelers,Sun,November 4,,W,0,5-2-1,away,Baltimore Ravens,23,16,27,395,282,113,0,18,265,204,61,0,17.75,-7.37,-4.01,2018
-9,9,Steelers,Thu,November 8,,W,0,6-2-1,home,Carolina Panthers,52,21,25,457,319,138,0,18,242,147,95,2,31.73,-1.09,3.55,2018
-10,10,Steelers,Sun,November 18,,W,0,7-2-1,away,Jacksonville Jaguars,20,16,19,323,297,26,3,15,243,64,179,1,-2.86,12.45,-3.53,2018
-11,11,Steelers,Sun,November 25,,L,0,7-3-1,away,Denver Broncos,17,24,25,527,452,75,4,17,308,184,124,0,0.71,-4.75,-0.64,2018
-12,12,Steelers,Sun,December 2,,L,0,7-4-1,home,Los Angeles Chargers,30,33,23,336,271,65,1,22,371,286,85,0,14.79,-16.37,-0.62,2018
-13,13,Steelers,Sun,December 9,,L,0,7-5-1,away,Oakland Raiders,21,24,24,340,300,40,1,20,354,299,55,1,12.58,-9.01,-5.63,2018
-14,14,Steelers,Sun,December 16,,W,0,8-5-1,home,New England Patriots,17,10,24,376,218,158,2,18,368,272,96,1,10.75,-1.66,-3.18,2018
-15,15,Steelers,Sun,December 23,,L,0,8-6-1,away,New Orleans Saints,28,31,26,429,364,65,2,24,370,313,57,1,14.44,-18.48,0.77,2018
-16,16,Steelers,Sun,December 30,,W,0,9-6-1,home,Cincinnati Bengals,16,13,18,343,278,65,1,9,196,71,125,0,-6.63,10.88,0.17,2018
+,Week,Day,Date,Time,Win/Loss,Overtime,Team Record,Home/Away,Opponent,Points Scored,Points Allowed,Offense 1st Down,Total Yards Gained of Offense,Total yards Gained by Passing,Total Yards Gained by Rushing,Offense Turnovers,Defense 1st Down,Total Yards Allowed by Defense,Total Passing Yards Allowed by Defense,Total Rushing Yards Allowed by Defense,Defense Turnovers,Offense,Defense,Sp. Tms,Team,Year
+0,1,Sun,2018-09-09,nan,T,1,0-0-1,away,Cleveland Browns,21,21,25,472,313,159,6,22,327,150,177,1,-12.04,11.02,1.51,Steelers,2018
+1,2,Sun,2018-09-16,nan,Loss,0,0-1-1,home,Kansas City Chiefs,37,42,33,475,442,33,0,24,449,322,127,1,26.79,-27.25,-10.45,Steelers,2018
+2,3,Mon,2018-09-24,nan,Win,0,1-1-1,away,Tampa Bay Buccaneers,30,27,22,413,335,78,1,28,455,392,63,4,9.86,-3.18,-2.73,Steelers,2018
+3,4,Sun,2018-09-30,nan,Loss,0,1-2-1,home,Baltimore Ravens,14,26,14,284,265,19,2,24,451,355,96,1,-10.05,-7.71,2.06,Steelers,2018
+4,5,Sun,2018-10-07,nan,Win,0,2-2-1,home,Atlanta Falcons,41,17,22,381,250,131,1,22,324,262,62,1,20.96,1.13,0.44,Steelers,2018
+5,6,Sun,2018-10-14,nan,Win,0,3-2-1,away,Cincinnati Bengals,28,21,26,481,369,112,0,19,275,213,62,0,21.96,-8.56,-7.33,Steelers,2018
+6,8,Sun,2018-10-28,nan,Win,0,4-2-1,home,Cleveland Browns,33,18,25,421,253,168,2,17,237,163,74,1,12.48,0.68,-3.07,Steelers,2018
+7,9,Sun,2018-11-04,nan,Win,0,5-2-1,away,Baltimore Ravens,23,16,27,395,282,113,0,18,265,204,61,0,17.75,-7.37,-4.01,Steelers,2018
+8,10,Thu,2018-11-08,nan,Win,0,6-2-1,home,Carolina Panthers,52,21,25,457,319,138,0,18,242,147,95,2,31.73,-1.09,3.55,Steelers,2018
+9,11,Sun,2018-11-18,nan,Win,0,7-2-1,away,Jacksonville Jaguars,20,16,19,323,297,26,3,15,243,64,179,1,-2.86,12.45,-3.53,Steelers,2018
+10,12,Sun,2018-11-25,nan,Loss,0,7-3-1,away,Denver Broncos,17,24,25,527,452,75,4,17,308,184,124,0,0.71,-4.75,-0.64,Steelers,2018
+11,13,Sun,2018-12-02,nan,Loss,0,7-4-1,home,Los Angeles Chargers,30,33,23,336,271,65,1,22,371,286,85,0,14.79,-16.37,-0.62,Steelers,2018
+12,14,Sun,2018-12-09,nan,Loss,0,7-5-1,away,Oakland Raiders,21,24,24,340,300,40,1,20,354,299,55,1,12.58,-9.01,-5.63,Steelers,2018
+13,15,Sun,2018-12-16,nan,Win,0,8-5-1,home,New England Patriots,17,10,24,376,218,158,2,18,368,272,96,1,10.75,-1.66,-3.18,Steelers,2018
+14,16,Sun,2018-12-23,nan,Loss,0,8-6-1,away,New Orleans Saints,28,31,26,429,364,65,2,24,370,313,57,1,14.44,-18.48,0.77,Steelers,2018
+15,17,Sun,2018-12-30,nan,Win,0,9-6-1,home,Cincinnati Bengals,16,13,18,343,278,65,1,9,196,71,125,0,-6.63,10.88,0.17,Steelers,2018

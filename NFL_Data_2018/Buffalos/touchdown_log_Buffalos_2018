@@ -1,30 +1,30 @@
-,Rank,Team,Date,Opponent,Win/Loss,Score,Quarter,Distance,Type,Detail,Year
-0,1,Buffalos,09/16/2018,LAC,Loss, 20-31,3,1,rush,Chris Ivory,2018
-1,2,Buffalos,09/16/2018,LAC,Loss, 20-31,4,3,pass,Kelvin Benjamin,2018
-2,3,Buffalos,09/23/2018,MIN,Win, 27-6,1,10,rush,Josh Allen,2018
-3,4,Buffalos,09/23/2018,MIN,Win, 27-6,1,26,pass,Jason Croom,2018
-4,5,Buffalos,09/23/2018,MIN,Win, 27-6,2,1,rush,Josh Allen,2018
-5,6,Buffalos,10/07/2018,TEN,Win, 13-12,1,14,rush,Josh Allen,2018
-6,7,Buffalos,10/14/2018,HOU,Loss, 13-20,4,16,pass,Zay Jones,2018
-7,8,Buffalos,11/04/2018,CHI,Loss, 9-41,4,1,rush,Nathan Peterman,2018
-8,9,Buffalos,11/11/2018,NYJ,Win, 41-10,1,28,rush,LeSean McCoy,2018
-9,10,Buffalos,11/11/2018,NYJ,Win, 41-10,1,0,fumble,Jason Croom,2018
-10,11,Buffalos,11/11/2018,NYJ,Win, 41-10,2,7,pass,Dion Dawkins,2018
-11,12,Buffalos,11/11/2018,NYJ,Win, 41-10,2,1,rush,LeSean McCoy,2018
-12,13,Buffalos,11/11/2018,NYJ,Win, 41-10,3,8,pass,Zay Jones,2018
-13,14,Buffalos,11/25/2018,JAX,Win, 24-21,1,6,rush,Isaiah McKenzie,2018
-14,15,Buffalos,11/25/2018,JAX,Win, 24-21,1,75,pass,Robert Foster,2018
-15,16,Buffalos,11/25/2018,JAX,Win, 24-21,4,14,rush,Josh Allen,2018
-16,17,Buffalos,12/02/2018,MIA,Loss, 17-21,2,15,pass,Zay Jones,2018
-17,18,Buffalos,12/02/2018,MIA,Loss, 17-21,4,25,pass,Zay Jones,2018
-18,19,Buffalos,12/09/2018,NYJ,Loss, 23-27,1,6,rush,Josh Allen,2018
-19,20,Buffalos,12/09/2018,NYJ,Loss, 23-27,1,15,rush,Isaiah McKenzie,2018
-20,21,Buffalos,12/16/2018,DET,Win, 14-13,2,3,rush,Josh Allen,2018
-21,22,Buffalos,12/16/2018,DET,Win, 14-13,4,42,pass,Robert Foster,2018
-22,23,Buffalos,12/23/2018,NWE,Loss, 12-24,4,31,pass,Zay Jones,2018
-23,24,Buffalos,12/30/2018,MIA,Win, 42-17,1,1,rush,Josh Allen,2018
-24,25,Buffalos,12/30/2018,MIA,Win, 42-17,1,18,pass,Zay Jones,2018
-25,26,Buffalos,12/30/2018,MIA,Win, 42-17,3,5,pass,Robert Foster,2018
-26,27,Buffalos,12/30/2018,MIA,Win, 42-17,3,9,rush,LeSean McCoy,2018
-27,28,Buffalos,12/30/2018,MIA,Win, 42-17,4,30,rush,Josh Allen,2018
-28,29,Buffalos,12/30/2018,MIA,Win, 42-17,4,26,pass,Zay Jones,2018
+,Rank,Team,Date,Opponent,Win/Loss,Home_Score,Opponenet_Score,Quarter,Distance,Type,Detail
+1,1,Buffalos,2018-09-16,LAC,Loss,20,31,3,1,rush,Chris Ivory
+2,2,Buffalos,2018-09-16,LAC,Loss,20,31,4,3,pass,Kelvin Benjamin
+3,3,Buffalos,2018-09-23,MIN,Win,27,6,1,10,rush,Josh Allen
+4,4,Buffalos,2018-09-23,MIN,Win,27,6,1,26,pass,Jason Croom
+5,5,Buffalos,2018-09-23,MIN,Win,27,6,2,1,rush,Josh Allen
+6,6,Buffalos,2018-10-07,TEN,Win,13,12,1,14,rush,Josh Allen
+7,7,Buffalos,2018-10-14,HOU,Loss,13,20,4,16,pass,Zay Jones
+8,8,Buffalos,2018-11-04,CHI,Loss,9,41,4,1,rush,Nathan Peterman
+9,9,Buffalos,2018-11-11,NYJ,Win,41,10,1,28,rush,LeSean McCoy
+10,10,Buffalos,2018-11-11,NYJ,Win,41,10,1,0,fumble,Jason Croom
+11,11,Buffalos,2018-11-11,NYJ,Win,41,10,2,7,pass,Dion Dawkins
+12,12,Buffalos,2018-11-11,NYJ,Win,41,10,2,1,rush,LeSean McCoy
+13,13,Buffalos,2018-11-11,NYJ,Win,41,10,3,8,pass,Zay Jones
+14,14,Buffalos,2018-11-25,JAX,Win,24,21,1,6,rush,Isaiah McKenzie
+15,15,Buffalos,2018-11-25,JAX,Win,24,21,1,75,pass,Robert Foster
+16,16,Buffalos,2018-11-25,JAX,Win,24,21,4,14,rush,Josh Allen
+17,17,Buffalos,2018-12-02,MIA,Loss,17,21,2,15,pass,Zay Jones
+18,18,Buffalos,2018-12-02,MIA,Loss,17,21,4,25,pass,Zay Jones
+19,19,Buffalos,2018-12-09,NYJ,Loss,23,27,1,6,rush,Josh Allen
+20,20,Buffalos,2018-12-09,NYJ,Loss,23,27,1,15,rush,Isaiah McKenzie
+21,21,Buffalos,2018-12-16,DET,Win,14,13,2,3,rush,Josh Allen
+22,22,Buffalos,2018-12-16,DET,Win,14,13,4,42,pass,Robert Foster
+23,23,Buffalos,2018-12-23,NWE,Loss,12,24,4,31,pass,Zay Jones
+24,24,Buffalos,2018-12-30,MIA,Win,42,17,1,1,rush,Josh Allen
+25,25,Buffalos,2018-12-30,MIA,Win,42,17,1,18,pass,Zay Jones
+26,26,Buffalos,2018-12-30,MIA,Win,42,17,3,5,pass,Robert Foster
+27,27,Buffalos,2018-12-30,MIA,Win,42,17,3,9,rush,LeSean McCoy
+28,28,Buffalos,2018-12-30,MIA,Win,42,17,4,30,rush,Josh Allen
+29,29,Buffalos,2018-12-30,MIA,Win,42,17,4,26,pass,Zay Jones

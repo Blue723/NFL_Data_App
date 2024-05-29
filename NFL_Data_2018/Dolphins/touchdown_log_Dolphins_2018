@@ -1,39 +1,39 @@
-,Rank,Team,Date,Opponent,Win/Loss,Score,Quarter,Distance,Type,Detail,Year
-0,1,Dolphins,09/09/2018,TEN,Win, 27-20,2,10,pass,Kenny Stills,2018
-1,2,Dolphins,09/09/2018,TEN,Win, 27-20,4,102,kickoff,Jakeem Grant,2018
-2,3,Dolphins,09/09/2018,TEN,Win, 27-20,4,75,pass,Kenny Stills,2018
-3,4,Dolphins,09/16/2018,NYJ,Win, 20-12,1,6,rush,Kenyan Drake,2018
-4,5,Dolphins,09/16/2018,NYJ,Win, 20-12,2,29,pass,Albert Wilson,2018
-5,6,Dolphins,09/16/2018,NYJ,Win, 20-12,2,19,pass,A.J. Derby,2018
-6,7,Dolphins,09/23/2018,OAK,Win, 28-20,2,34,pass,Kenny Stills,2018
-7,8,Dolphins,09/23/2018,OAK,Win, 28-20,3,18,pass,Jakeem Grant,2018
-8,9,Dolphins,09/23/2018,OAK,Win, 28-20,4,52,pass,Jakeem Grant,2018
-9,10,Dolphins,09/23/2018,OAK,Win, 28-20,4,74,pass,Albert Wilson,2018
-10,11,Dolphins,09/30/2018,NWE,Loss, 7-38,4,6,pass,Frank Gore,2018
-11,12,Dolphins,10/07/2018,CIN,Loss, 17-27,2,22,pass,Kenyan Drake,2018
-12,13,Dolphins,10/07/2018,CIN,Loss, 17-27,2,71,punt,Jakeem Grant,2018
-13,14,Dolphins,10/14/2018,CHI,Win, 31-28,1,5,pass,Nick O'Leary,2018
-14,15,Dolphins,10/14/2018,CHI,Win, 31-28,4,43,pass,Albert Wilson,2018
-15,16,Dolphins,10/14/2018,CHI,Win, 31-28,4,75,pass,Albert Wilson,2018
-16,17,Dolphins,10/21/2018,DET,Loss, 21-32,2,5,pass,Kenny Stills,2018
-17,18,Dolphins,10/21/2018,DET,Loss, 21-32,3,54,rush,Kenyan Drake,2018
-18,19,Dolphins,10/21/2018,DET,Loss, 21-32,4,24,pass,Danny Amendola,2018
-19,20,Dolphins,10/25/2018,HOU,Loss, 23-42,1,12,rush,Kenyan Drake,2018
-20,21,Dolphins,10/25/2018,HOU,Loss, 23-42,3,28,pass,Kenyan Drake,2018
-21,22,Dolphins,11/04/2018,NYJ,Win, 13-6,4,25,interception,Jerome Baker,2018
-22,23,Dolphins,11/25/2018,IND,Loss, 24-27,1,33,pass,Kenyan Drake,2018
-23,24,Dolphins,11/25/2018,IND,Loss, 24-27,2,74,pass,Leonte Carroo,2018
-24,25,Dolphins,11/25/2018,IND,Loss, 24-27,4,14,rush,Kenyan Drake,2018
-25,26,Dolphins,12/02/2018,BUF,Win, 21-17,1,18,pass,DeVante Parker,2018
-26,27,Dolphins,12/02/2018,BUF,Win, 21-17,2,3,pass,Kenyan Drake,2018
-27,28,Dolphins,12/02/2018,BUF,Win, 21-17,4,13,pass,Kenny Stills,2018
-28,29,Dolphins,12/09/2018,NWE,Win, 34-33,1,7,pass,Kenny Stills,2018
-29,30,Dolphins,12/09/2018,NWE,Win, 34-33,2,54,rush,Brandon Bolden,2018
-30,31,Dolphins,12/09/2018,NWE,Win, 34-33,2,6,rush,Brandon Bolden,2018
-31,32,Dolphins,12/09/2018,NWE,Win, 34-33,3,23,pass,Brice Butler,2018
-32,33,Dolphins,12/09/2018,NWE,Win, 34-33,4,69,pass,Kenyan Drake,2018
-33,34,Dolphins,12/16/2018,MIN,Loss, 17-41,2,50,interception,Minkah Fitzpatrick,2018
-34,35,Dolphins,12/16/2018,MIN,Loss, 17-41,3,75,rush,Kalen Ballage,2018
-35,36,Dolphins,12/23/2018,JAX,Loss, 7-17,1,4,pass,Brandon Bolden,2018
-36,37,Dolphins,12/30/2018,BUF,Loss, 17-42,2,3,pass,Ryan Tannehill,2018
-37,38,Dolphins,12/30/2018,BUF,Loss, 17-42,2,29,interception,Reshad Jones,2018
+,Rank,Team,Date,Opponent,Win/Loss,Home_Score,Opponenet_Score,Quarter,Distance,Type,Detail
+1,1,Dolphins,2018-09-09,TEN,Win,27,20,2,10,pass,Kenny Stills
+2,2,Dolphins,2018-09-09,TEN,Win,27,20,4,102,kickoff,Jakeem Grant
+3,3,Dolphins,2018-09-09,TEN,Win,27,20,4,75,pass,Kenny Stills
+4,4,Dolphins,2018-09-16,NYJ,Win,20,12,1,6,rush,Kenyan Drake
+5,5,Dolphins,2018-09-16,NYJ,Win,20,12,2,29,pass,Albert Wilson
+6,6,Dolphins,2018-09-16,NYJ,Win,20,12,2,19,pass,A.J. Derby
+7,7,Dolphins,2018-09-23,OAK,Win,28,20,2,34,pass,Kenny Stills
+8,8,Dolphins,2018-09-23,OAK,Win,28,20,3,18,pass,Jakeem Grant
+9,9,Dolphins,2018-09-23,OAK,Win,28,20,4,52,pass,Jakeem Grant
+10,10,Dolphins,2018-09-23,OAK,Win,28,20,4,74,pass,Albert Wilson
+11,11,Dolphins,2018-09-30,NWE,Loss,7,38,4,6,pass,Frank Gore
+12,12,Dolphins,2018-10-07,CIN,Loss,17,27,2,22,pass,Kenyan Drake
+13,13,Dolphins,2018-10-07,CIN,Loss,17,27,2,71,punt,Jakeem Grant
+14,14,Dolphins,2018-10-14,CHI,Win,31,28,1,5,pass,Nick O'Leary
+15,15,Dolphins,2018-10-14,CHI,Win,31,28,4,43,pass,Albert Wilson
+16,16,Dolphins,2018-10-14,CHI,Win,31,28,4,75,pass,Albert Wilson
+17,17,Dolphins,2018-10-21,DET,Loss,21,32,2,5,pass,Kenny Stills
+18,18,Dolphins,2018-10-21,DET,Loss,21,32,3,54,rush,Kenyan Drake
+19,19,Dolphins,2018-10-21,DET,Loss,21,32,4,24,pass,Danny Amendola
+20,20,Dolphins,2018-10-25,HOU,Loss,23,42,1,12,rush,Kenyan Drake
+21,21,Dolphins,2018-10-25,HOU,Loss,23,42,3,28,pass,Kenyan Drake
+22,22,Dolphins,2018-11-04,NYJ,Win,13,6,4,25,interception,Jerome Baker
+23,23,Dolphins,2018-11-25,IND,Loss,24,27,1,33,pass,Kenyan Drake
+24,24,Dolphins,2018-11-25,IND,Loss,24,27,2,74,pass,Leonte Carroo
+25,25,Dolphins,2018-11-25,IND,Loss,24,27,4,14,rush,Kenyan Drake
+26,26,Dolphins,2018-12-02,BUF,Win,21,17,1,18,pass,DeVante Parker
+27,27,Dolphins,2018-12-02,BUF,Win,21,17,2,3,pass,Kenyan Drake
+28,28,Dolphins,2018-12-02,BUF,Win,21,17,4,13,pass,Kenny Stills
+29,29,Dolphins,2018-12-09,NWE,Win,34,33,1,7,pass,Kenny Stills
+30,30,Dolphins,2018-12-09,NWE,Win,34,33,2,54,rush,Brandon Bolden
+31,31,Dolphins,2018-12-09,NWE,Win,34,33,2,6,rush,Brandon Bolden
+32,32,Dolphins,2018-12-09,NWE,Win,34,33,3,23,pass,Brice Butler
+33,33,Dolphins,2018-12-09,NWE,Win,34,33,4,69,pass,Kenyan Drake
+34,34,Dolphins,2018-12-16,MIN,Loss,17,41,2,50,interception,Minkah Fitzpatrick
+35,35,Dolphins,2018-12-16,MIN,Loss,17,41,3,75,rush,Kalen Ballage
+36,36,Dolphins,2018-12-23,JAX,Loss,7,17,1,4,pass,Brandon Bolden
+37,37,Dolphins,2018-12-30,BUF,Loss,17,42,2,3,pass,Ryan Tannehill
+38,38,Dolphins,2018-12-30,BUF,Loss,17,42,2,29,interception,Reshad Jones

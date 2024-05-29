@@ -1,20 +1,18 @@
-,Week,Team,Day,Date,Time,Win/Loss,Overtime,Team Record,Home/Away,Opponent,Points Scored,Points Allowed,Offense 1st Down,Total Yards Gained of Offense,Total yards Gained by Passing,Total Yards Gained by Rushing,Offense Turnovers,Defense 1st Down,Total Yards Allowed by Defense,Total Passing Yards Allowed by Defense,Total Rushing Yards Allowed by Defense,Defense Turnovers,Offense,Defense,Sp. Tms,Year
-0,0,Bears,Sun,September 9,,L,0,0-1,away,Green Bay Packers,23,24,18,294,155,139,1,16,370,301,69,2,-1.75,-1.65,-0.54,2018
-1,1,Bears,Mon,September 17,,W,0,1-1,home,Seattle Seahawks,24,17,20,271,185,86,2,17,276,202,74,2,-0.24,11.46,-2.71,2018
-2,2,Bears,Sun,September 23,,W,0,2-1,away,Arizona Cardinals,16,14,21,316,194,122,2,13,221,168,53,4,-2.63,6.07,-1.68,2018
-3,3,Bears,Sun,September 30,,W,0,3-1,home,Tampa Bay Buccaneers,48,10,28,483,344,139,0,16,311,251,60,3,33.53,5.14,-0.24,2018
-4,4,Bears,,,,,0,,home,<strong>Bye Week</strong>,0,0,0,0,0,0,0,0,0,0,0,0,,,,2018
-5,5,1,1,1,1.0,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1.0,1.0,1.0,1
-6,6,Bears,Sun,October 21,,L,0,3-3,home,New England Patriots,31,38,29,453,319,134,2,21,381,273,108,3,16.6,-9.37,-5.66,2018
-7,7,Bears,Sun,October 28,,W,0,4-3,home,New York Jets,24,10,22,395,216,179,0,12,207,150,57,0,15.66,6.25,-9.71,2018
-8,8,Bears,Sun,November 4,,W,0,5-3,away,Buffalo Bills,41,9,11,190,126,64,1,22,264,166,98,4,-2.58,29.93,2.21,2018
-9,9,Bears,Sun,November 11,,W,0,6-3,home,Detroit Lions,34,22,20,402,348,54,0,24,305,229,76,3,21.9,0.42,-15.4,2018
-10,10,Bears,Sun,November 18,,W,0,7-3,home,Minnesota Vikings,25,20,24,308,160,148,3,19,268,246,22,3,-0.26,6.9,-0.96,2018
-11,11,Bears,Thu,November 22,,W,0,8-3,away,Detroit Lions,23,16,19,264,226,38,1,17,333,222,111,2,1.31,2.71,0.91,2018
-12,12,1,1,1,1.0,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1.0,1.0,1.0,1
-13,13,Bears,Sun,December 9,,W,0,9-4,home,Los Angeles Rams,15,6,17,294,100,194,3,14,214,162,52,4,-15.04,21.99,-2.29,2018
-14,14,Bears,Sun,December 16,,W,0,10-4,home,Green Bay Packers,24,17,19,332,232,100,1,19,323,235,88,1,6.61,1.33,-0.49,2018
-15,15,Bears,Sun,December 23,,W,0,11-4,away,San Francisco 49ers,14,9,20,325,235,90,2,15,279,232,47,1,5.98,4.05,1.4,2018
-16,16,Bears,Sun,December 30,,W,0,12-4,away,Minnesota Vikings,24,10,17,332,163,169,0,12,164,101,63,0,9.09,11.59,-6.78,2018
-17,17,Bears,,<strong>Playoffs</strong>,,,0,,home,,0,0,0,0,0,0,0,0,0,0,0,0,,,,2018
-18,18,Bears,Sun,January 6,,L,0,12-5,home,Philadelphia Eagles,15,16,17,356,291,65,0,21,300,258,42,2,5.47,-2.5,-10.43,2018
+,Week,Day,Date,Time,Win/Loss,Overtime,Team Record,Home/Away,Opponent,Points Scored,Points Allowed,Offense 1st Down,Total Yards Gained of Offense,Total yards Gained by Passing,Total Yards Gained by Rushing,Offense Turnovers,Defense 1st Down,Total Yards Allowed by Defense,Total Passing Yards Allowed by Defense,Total Rushing Yards Allowed by Defense,Defense Turnovers,Offense,Defense,Sp. Tms,Team,Year
+0,1,Sun,2018-09-09,nan,Loss,0,0-1,away,Green Bay Packers,23,24,18,294,155,139,1,16,370,301,69,2,-1.75,-1.65,-0.54,Bears,2018
+1,2,Mon,2018-09-17,nan,Win,0,1-1,home,Seattle Seahawks,24,17,20,271,185,86,2,17,276,202,74,2,-0.24,11.46,-2.71,Bears,2018
+2,3,Sun,2018-09-23,nan,Win,0,2-1,away,Arizona Cardinals,16,14,21,316,194,122,2,13,221,168,53,4,-2.63,6.07,-1.68,Bears,2018
+3,4,Sun,2018-09-30,nan,Win,0,3-1,home,Tampa Bay Buccaneers,48,10,28,483,344,139,0,16,311,251,60,3,33.53,5.14,-0.24,Bears,2018
+4,6,Sun,2018-10-14,nan,Loss,1,3-2,away,Miami Dolphins,28,31,23,467,303,164,3,23,541,380,161,3,12.66,-10.81,-5.41,Bears,2018
+5,7,Sun,2018-10-21,nan,Loss,0,3-3,home,New England Patriots,31,38,29,453,319,134,2,21,381,273,108,3,16.6,-9.37,-5.66,Bears,2018
+6,8,Sun,2018-10-28,nan,Win,0,4-3,home,New York Jets,24,10,22,395,216,179,0,12,207,150,57,0,15.66,6.25,-9.71,Bears,2018
+7,9,Sun,2018-11-04,nan,Win,0,5-3,away,Buffalo Bills,41,9,11,190,126,64,1,22,264,166,98,4,-2.58,29.93,2.21,Bears,2018
+8,10,Sun,2018-11-11,nan,Win,0,6-3,home,Detroit Lions,34,22,20,402,348,54,0,24,305,229,76,3,21.9,0.42,-15.4,Bears,2018
+9,11,Sun,2018-11-18,nan,Win,0,7-3,home,Minnesota Vikings,25,20,24,308,160,148,3,19,268,246,22,3,-0.26,6.9,-0.96,Bears,2018
+10,12,Thu,2018-11-22,nan,Win,0,8-3,away,Detroit Lions,23,16,19,264,226,38,1,17,333,222,111,2,1.31,2.71,0.91,Bears,2018
+11,13,Sun,2018-12-02,nan,Loss,1,8-4,away,New York Giants,27,30,23,376,258,118,3,18,338,197,141,1,-5.96,1.9,7.06,Bears,2018
+12,14,Sun,2018-12-09,nan,Win,0,9-4,home,Los Angeles Rams,15,6,17,294,100,194,3,14,214,162,52,4,-15.04,21.99,-2.29,Bears,2018
+13,15,Sun,2018-12-16,nan,Win,0,10-4,home,Green Bay Packers,24,17,19,332,232,100,1,19,323,235,88,1,6.61,1.33,-0.49,Bears,2018
+14,16,Sun,2018-12-23,nan,Win,0,11-4,away,San Francisco 49ers,14,9,20,325,235,90,2,15,279,232,47,1,5.98,4.05,1.4,Bears,2018
+15,17,Sun,2018-12-30,nan,Win,0,12-4,away,Minnesota Vikings,24,10,17,332,163,169,0,12,164,101,63,0,9.09,11.59,-6.78,Bears,2018
+16,19,Sun,2019-01-06,nan,Loss,0,12-5,home,Philadelphia Eagles,15,16,17,356,291,65,0,21,300,258,42,2,5.47,-2.5,-10.43,Bears,2018

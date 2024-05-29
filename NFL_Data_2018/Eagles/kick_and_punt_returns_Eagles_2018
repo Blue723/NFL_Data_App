@@ -1,10 +1,10 @@
-,No.,Team,Player,Age,Position,Games Played,Games Started,Punts Returned,Punts Return Yardage,Punts Returned for Touchdown,Longest Punt Return,Yards per Punt Return,Kickoff Returns,Yardage for Kickoffs Returned,Kickoffs Returned for a Touchdown,Longest Kickoff Return,Yards per Kickoff Return,All-purpose Yards,Year
-0,16,Eagles,DeAndre Carter,25,WR,7,1,10,103,0,42,10.3,10,204,0,30,20.4,328,2018
-1,30,Eagles,Corey Clement,24,RB,11,0,6,17,0,10,2.8,13,333,0,48,25.6,801,2018
-2,43,Eagles,Darren Sproles,35,RB,6,2,10,83,0,14,8.3,1,2,0,2,2.0,365,2018
-3,19,Eagles,Golden Tate,30,WR,8,3,5,13,0,12,2.6,0,0,0,0,,283,2018
-4,49,Eagles,Boston Scott,23,RB,2,0,0,0,0,0,,4,96,0,35,24.0,96,2018
-5,18,Eagles,Shelton Gibson,24,WR,15,0,0,0,0,0,,3,57,0,30,19.0,105,2018
-6,28,Eagles,Wendell Smallwood,24,RB,16,6,0,0,0,0,,2,33,0,17,16.5,627,2018
-7,13,Eagles,Nelson Agholor,25,WR,16,16,1,0,0,0,0.0,0,0,0,0,,768,2018
-8,37,Eagles,Tre Sullivan,24,DB,12,1,1,0,0,0,0.0,0,0,0,0,,0,2018
+,No.,Player,Age,Position,Games Played,Games Started,Punts Returned,Punts Return Yardage,Punts Returned for Touchdown,Longest Punt Return,Yards per Punt Return,Kickoff Returns,Yardage for Kickoffs Returned,Kickoffs Returned for a Touchdown,Longest Kickoff Return,Yards per Kickoff Return,All-purpose Yards,Team,Year
+16,16,DeAndre Carter,25,WR,7,1,10,103,0,42,10.3,10,204,0,30,20.4,328,Eagles,2018
+30,30,Corey Clement,24,RB,11,0,6,17,0,10,2.8,13,333,0,48,25.6,801,Eagles,2018
+43,43,Darren Sproles,35,RB,6,2,10,83,0,14,8.3,1,2,0,2,2.0,365,Eagles,2018
+19,19,Golden Tate,30,WR,8,3,5,13,0,12,2.6,0,0,0,0,0.0,283,Eagles,2018
+49,49,Boston Scott,23,RB,2,0,0,0,0,0,0.0,4,96,0,35,24.0,96,Eagles,2018
+18,18,Shelton Gibson,24,WR,15,0,0,0,0,0,0.0,3,57,0,30,19.0,105,Eagles,2018
+28,28,Wendell Smallwood,24,RB,16,6,0,0,0,0,0.0,2,33,0,17,16.5,627,Eagles,2018
+13,13,Nelson Agholor,25,WR,16,16,1,0,0,0,0.0,0,0,0,0,0.0,768,Eagles,2018
+37,37,Tre Sullivan,24,DB,12,1,1,0,0,0,0.0,0,0,0,0,0.0,0,Eagles,2018

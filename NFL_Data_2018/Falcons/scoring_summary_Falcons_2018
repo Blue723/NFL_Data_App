@@ -1,15 +1,15 @@
-,No.,Team,Player,Age,Pos,Games Played,Games Started,Rush TD,Reception TD,Punt Return TD,Kick Return TD,Fumble Return TD,Interception TD,Other TD,All Touchdown Scored,2-Point Conversions Made,Two-Point Conversions Attempted,Defensive Two-Point Conversions,Extra Points Made,Extra Points Allowed,Field Goals Made,Field Goals Attempted,Safeties Scored by Player/Team,Total Points Scored by all Means,Poins per Game,Year
-0,3,Falcons,Matt Bryant,43,K,13,0,0,0,0,0,0,0,0,0,0,0,0,33,35,20,21,,93,7.2,2018
-1,18,Falcons,Calvin Ridley,24,WR,16,5,0,10,0,0,0,0,0,10,0,0,0,0,0,0,0,,60,3.8,2018
-2,26,Falcons,Tevin Coleman,25,RB,16,14,4,5,0,0,0,0,0,9,0,0,0,0,0,0,0,,54,3.4,2018
-3,11,Falcons,Julio Jones,29,WR,16,16,0,8,0,0,0,0,0,8,0,0,0,0,0,0,0,,48,3.0,2018
-4,81,Falcons,Austin Hooper,24,TE,16,7,0,4,0,0,0,0,0,4,1,0,0,0,0,0,0,,26,1.6,2018
-5,12,Falcons,Mohamed Sanu,29,WR,16,16,0,4,0,0,0,0,0,4,1,0,0,0,0,0,0,,26,1.6,2018
-6,2,Falcons,Matt Ryan,33,QB,16,16,3,1,0,0,0,0,0,4,0,0,0,0,0,0,0,,24,1.5,2018
-7,25,Falcons,Ito Smith,23,RB,14,0,4,0,0,0,0,0,0,4,0,0,0,0,0,0,0,,24,1.7,2018
-8,4,Falcons,Giorgio Tavecchio,28,K,3,0,0,0,0,0,0,0,0,0,0,0,0,8,8,5,5,,23,7.7,2018
-9,14,Falcons,Justin Hardy,27,WR,16,0,0,2,0,0,0,0,0,2,0,0,0,0,0,0,0,,12,0.8,2018
-10,44,Falcons,Vic Beasley,26,LDE,16,9,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,,6,0.4,2018
-11,17,Falcons,Marvin Hall,25,WR,16,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,,6,0.4,2018
-12,45,Falcons,Deion Jones,24,LLB/MLB,6,6,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,,6,1.0,2018
-13,82,Falcons,Logan Paulsen,31,TE,15,10,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,,6,0.4,2018
+,No.,Player,Age,Pos,Games Played,Games Started,Rush TD,Reception TD,Punt Return TD,Kick Return TD,Fumble Return TD,Interception TD,Other TD,All Touchdown Scored,2-Point Conversions Made,Two-Point Conversions Attempted,Defensive Two-Point Conversions,Extra Points Made,Extra Points Allowed,Field Goals Made,Field Goals Attempted,Safeties Scored by Player/Team,Total Points Scored by all Means,Poins per Game,Team,Year
+3,3,Matt Bryant,43,K,13,0,0,0,0,0,0,0,0,0,0,0,0,33,35,20,21,0,93,7.2,Falcons,2018
+18,18,Calvin Ridley,24,WR,16,5,0,10,0,0,0,0,0,10,0,0,0,0,0,0,0,0,60,3.8,Falcons,2018
+26,26,Tevin Coleman,25,RB,16,14,4,5,0,0,0,0,0,9,0,0,0,0,0,0,0,0,54,3.4,Falcons,2018
+11,11,Julio Jones,29,WR,16,16,0,8,0,0,0,0,0,8,0,0,0,0,0,0,0,0,48,3.0,Falcons,2018
+81,81,Austin Hooper,24,TE,16,7,0,4,0,0,0,0,0,4,1,0,0,0,0,0,0,0,26,1.6,Falcons,2018
+12,12,Mohamed Sanu,29,WR,16,16,0,4,0,0,0,0,0,4,1,0,0,0,0,0,0,0,26,1.6,Falcons,2018
+2,2,Matt Ryan,33,QB,16,16,3,1,0,0,0,0,0,4,0,0,0,0,0,0,0,0,24,1.5,Falcons,2018
+25,25,Ito Smith,23,RB,14,0,4,0,0,0,0,0,0,4,0,0,0,0,0,0,0,0,24,1.7,Falcons,2018
+4,4,Giorgio Tavecchio,28,K,3,0,0,0,0,0,0,0,0,0,0,0,0,8,8,5,5,0,23,7.7,Falcons,2018
+14,14,Justin Hardy,27,WR,16,0,0,2,0,0,0,0,0,2,0,0,0,0,0,0,0,0,12,0.8,Falcons,2018
+44,44,Vic Beasley,26,LDE,16,9,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,6,0.4,Falcons,2018
+17,17,Marvin Hall,25,WR,16,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,6,0.4,Falcons,2018
+45,45,Deion Jones,24,LLB/MLB,6,6,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,6,1.0,Falcons,2018
+82,82,Logan Paulsen,31,TE,15,10,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,6,0.4,Falcons,2018

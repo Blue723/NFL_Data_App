@@ -1,11 +1,11 @@
-,No.,Team,Player,Age,Position,Games Played,Games Started,Punts Returned,Punts Return Yardage,Punts Returned for Touchdown,Longest Punt Return,Yards per Punt Return,Kickoff Returns,Yardage for Kickoffs Returned,Kickoffs Returned for a Touchdown,Longest Kickoff Return,Yards per Kickoff Return,All-purpose Yards,Year
-0,12,Jaguars,Dede Westbrook,25,WR,16,9,19,266,1,74,14.0,3,37,0,16,12.3,1118,2018
-1,85,Jaguars,Jaydon Mickens,24,WR,6,0,12,59,0,16,4.9,6,149,0,31,24.8,208,2018
-2,17,Jaguars,DJ Chark,22,WR,11,0,0,-8,0,-8,,7,186,0,47,26.6,358,2018
-3,13,Jaguars,Rashad Greene,26,WR,8,1,2,16,0,8,8.0,5,105,0,31,21.0,181,2018
-4,87,Jaguars,Blake Bell,27,TE,10,4,0,0,0,0,,1,9,0,9,9.0,76,2018
-5,40,Jaguars,Tommy Bohanon,28,FB,16,6,0,0,0,0,,1,25,0,25,25.0,66,2018
-6,30,Jaguars,Corey Grant,27,RB,5,1,0,0,0,0,,1,6,0,6,6.0,113,2018
-7,43,Jaguars,Quenton Meeks,21,DB,8,1,1,1,0,1,1.0,0,0,0,0,,1,2018
-8,10,Jaguars,Donte Moncrief,25,WR,16,14,0,0,0,0,,1,7,0,7,7.0,675,2018
-9,81,Jaguars,Niles Paul,29,WR,6,1,0,0,0,0,,1,8,0,8,8.0,103,2018
+,No.,Player,Age,Position,Games Played,Games Started,Punts Returned,Punts Return Yardage,Punts Returned for Touchdown,Longest Punt Return,Yards per Punt Return,Kickoff Returns,Yardage for Kickoffs Returned,Kickoffs Returned for a Touchdown,Longest Kickoff Return,Yards per Kickoff Return,All-purpose Yards,Team,Year
+12,12,Dede Westbrook,25,WR,16,9,19,266,1,74,14.0,3,37,0,16,12.3,1118,Jaguars,2018
+85,85,Jaydon Mickens,24,WR,6,0,12,59,0,16,4.9,6,149,0,31,24.8,208,Jaguars,2018
+17,17,DJ Chark,22,WR,11,0,0,-8,0,-8,0.0,7,186,0,47,26.6,358,Jaguars,2018
+13,13,Rashad Greene,26,WR,8,1,2,16,0,8,8.0,5,105,0,31,21.0,181,Jaguars,2018
+87,87,Blake Bell,27,TE,10,4,0,0,0,0,0.0,1,9,0,9,9.0,76,Jaguars,2018
+40,40,Tommy Bohanon,28,FB,16,6,0,0,0,0,0.0,1,25,0,25,25.0,66,Jaguars,2018
+30,30,Corey Grant,27,RB,5,1,0,0,0,0,0.0,1,6,0,6,6.0,113,Jaguars,2018
+43,43,Quenton Meeks,21,DB,8,1,1,1,0,1,1.0,0,0,0,0,0.0,1,Jaguars,2018
+10,10,Donte Moncrief,25,WR,16,14,0,0,0,0,0.0,1,7,0,7,7.0,675,Jaguars,2018
+81,81,Niles Paul,29,WR,6,1,0,0,0,0,0.0,1,8,0,8,8.0,103,Jaguars,2018

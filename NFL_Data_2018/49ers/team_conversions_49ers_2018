@@ -1,5 +1,5 @@
-,Player,Team,3rd Down Attempts in Game,3rd Down Conversions,3rd Down Conversion Per.,4th Down Attempts in Game,4th Down Conversions in Game,4th Down Conversion Per.,Red Zone Attempts,Touchdowns Scored After the Team Entered the Red Zone,Per. of the Time a Team Reaches the Red Zone and Scores a Touchdown,Year
-0,Team Stats,49ers,193.0,73.0,37.8,10.0,5.0,50.0,51.0,21.0,41.2,2018.0
-1,Opp. Stats,49ers,216.0,87.0,40.3,17.0,10.0,58.8,58.0,38.0,65.5,2018.0
-2,Lg Rank Offense,49ers,,,18.0,,,20.0,,,32.0,2018.0
-3,Lg Rank Defense,49ers,,,21.0,,,20.0,,,26.0,2018.0
+,Player,3rd Down Attempts in Game,3rd Down Conversions,3rd Down Conversion Per.,4th Down Attempts in Game,4th Down Conversions in Game,4th Down Conversion Per.,Red Zone Attempts,Touchdowns Scored After the Team Entered the Red Zone,Per. of the Time a Team Reaches the Red Zone and Scores a Touchdown,Team,Year
+Team Stats,Team Stats,193.0,73.0,37.8,10.0,5.0,50.0,51.0,21.0,41.2,49ers,2018
+Opp. Stats,Opp. Stats,216.0,87.0,40.3,17.0,10.0,58.8,58.0,38.0,65.5,49ers,2018
+Lg Rank Offense,Lg Rank Offense,0.0,0.0,18.0,0.0,0.0,20.0,0.0,0.0,32,49ers,2018
+Lg Rank Defense,Lg Rank Defense,0.0,0.0,21.0,0.0,0.0,20.0,0.0,0.0,26,49ers,2018
