@@ -1,5 +1,5 @@
-,No.,Team,Player,Age,Position,Games Played,Games Started,Punts Returned,Punts Return Yardage,Punts Returned for Touchdown,Longest Punt Return,Yards per Punt Return,Kickoff Returns,Yardage for Kickoffs Returned,Kickoffs Returned for a Touchdown,Longest Kickoff Return,Yards per Kickoff Return,All-purpose Yards,Year
-0,18,Buffalos,Andre Roberts,32,WR,15,0,29,286,0,38,9.9,32,961,0,60,30.0,1278,2020
-1,19,Buffalos,Isaiah McKenzie,25,WR,16,7,1,84,1,84,84.0,2,32,0,27,16.0,407,2020
-2,23,Buffalos,Micah Hyde,30,FS,15,15,1,0,0,0,0.0,1,3,0,3,3.0,36,2020
-3,46,Buffalos,Jaquan Johnson,25,DB,14,0,0,0,0,0,,1,-1,0,-1,-1.0,-1,2020
+,No.,Player,Age,Position,Games Played,Games Started,Punts Returned,Punts Return Yardage,Punts Returned for Touchdown,Longest Punt Return,Yards per Punt Return,Kickoff Returns,Yardage for Kickoffs Returned,Kickoffs Returned for a Touchdown,Longest Kickoff Return,Yards per Kickoff Return,All-purpose Yards,Team,Year
+18,18,Andre Roberts,32,WR,15,0,29,286,0,38,9.9,32,961,0,60,30.0,1278,Buffalos,2020
+19,19,Isaiah McKenzie,25,WR,16,7,1,84,1,84,84.0,2,32,0,27,16.0,407,Buffalos,2020
+23,23,Micah Hyde,30,FS,15,15,1,0,0,0,0.0,1,3,0,3,3.0,36,Buffalos,2020
+46,46,Jaquan Johnson,25,DB,14,0,0,0,0,0,0.0,1,-1,0,-1,-1.0,-1,Buffalos,2020

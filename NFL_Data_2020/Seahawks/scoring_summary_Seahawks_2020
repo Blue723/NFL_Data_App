@@ -1,17 +1,17 @@
-,No.,Team,Player,Age,Pos,Games Played,Games Started,Rush TD,Reception TD,Punt Return TD,Kick Return TD,Fumble Return TD,Interception TD,Other TD,All Touchdown Scored,2-Point Conversions Made,Two-Point Conversions Attempted,Defensive Two-Point Conversions,Extra Points Made,Extra Points Allowed,Field Goals Made,Field Goals Attempted,Safeties Scored by Player/Team,Total Points Scored by all Means,Poins per Game,Year
-0,5,Seahawks,Jason Myers,29,K,16,0,0,0,0,0,0,0,0,0,0,0,0,49,53,24,24,,121,7.6,2020
-1,16,Seahawks,Tyler Lockett,28,WR,16,16,0,10,0,0,0,0,0,10,0,0,0,0,0,0,0,,60,3.8,2020
-2,14,Seahawks,D.K. Metcalf,23,WR,16,16,0,10,0,0,0,0,0,10,0,0,0,0,0,0,0,,60,3.8,2020
-3,32,Seahawks,Chris Carson,26,RB,12,12,5,4,0,0,0,0,0,9,0,0,0,0,0,0,0,,54,4.5,2020
-4,83,Seahawks,David Moore,25,WR,16,6,0,6,0,0,0,0,0,6,0,0,0,0,0,0,0,,36,2.3,2020
-5,30,Seahawks,Carlos Hyde,30,RB,10,1,4,0,0,0,0,0,0,4,0,0,0,0,0,0,0,,24,2.4,2020
-6,86,Seahawks,Jacob Hollister,27,TE,16,5,0,3,0,0,0,0,0,3,1,0,0,0,0,0,0,,20,1.3,2020
-7,31,Seahawks,DeeJay Dallas,22,RB,12,2,2,1,0,0,0,0,0,3,0,0,0,0,0,0,0,,18,1.5,2020
-8,41,Seahawks,Alex Collins,26,RB,3,1,2,0,0,0,0,0,0,2,0,0,0,0,0,0,0,,12,4.0,2020
-9,89,Seahawks,Will Dissly,24,TE,16,12,0,2,0,0,0,0,0,2,0,0,0,0,0,0,0,,12,0.8,2020
-10,18,Seahawks,Freddie Swain,22,WR,16,1,0,2,0,0,0,0,0,2,0,0,0,0,0,0,0,,12,0.8,2020
-11,3,Seahawks,Russell Wilson,32,QB,16,16,2,0,0,0,0,0,0,2,0,0,0,0,0,0,0,,12,0.8,2020
-12,25,Seahawks,Travis Homer,22,RB,9,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,,6,0.7,2020
-13,88,Seahawks,Greg Olsen,35,TE,11,8,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,,6,0.5,2020
-14,92,Seahawks,Bryan Mone,25,DT,10,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1.0,2,0.2,2020
-15,35,Seahawks,Ryan Neal,25,DB,13,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1.0,2,0.2,2020
+,No.,Player,Age,Pos,Games Played,Games Started,Rush TD,Reception TD,Punt Return TD,Kick Return TD,Fumble Return TD,Interception TD,Other TD,All Touchdown Scored,2-Point Conversions Made,Two-Point Conversions Attempted,Defensive Two-Point Conversions,Extra Points Made,Extra Points Allowed,Field Goals Made,Field Goals Attempted,Safeties Scored by Player/Team,Total Points Scored by all Means,Poins per Game,Team,Year
+5,5,Jason Myers,29,K,16,0,0,0,0,0,0,0,0,0,0,0,0,49,53,24,24,0,121,7.6,Seahawks,2020
+16,16,Tyler Lockett,28,WR,16,16,0,10,0,0,0,0,0,10,0,0,0,0,0,0,0,0,60,3.8,Seahawks,2020
+14,14,D.K. Metcalf,23,WR,16,16,0,10,0,0,0,0,0,10,0,0,0,0,0,0,0,0,60,3.8,Seahawks,2020
+32,32,Chris Carson,26,RB,12,12,5,4,0,0,0,0,0,9,0,0,0,0,0,0,0,0,54,4.5,Seahawks,2020
+83,83,David Moore,25,WR,16,6,0,6,0,0,0,0,0,6,0,0,0,0,0,0,0,0,36,2.3,Seahawks,2020
+30,30,Carlos Hyde,30,RB,10,1,4,0,0,0,0,0,0,4,0,0,0,0,0,0,0,0,24,2.4,Seahawks,2020
+86,86,Jacob Hollister,27,TE,16,5,0,3,0,0,0,0,0,3,1,0,0,0,0,0,0,0,20,1.3,Seahawks,2020
+31,31,DeeJay Dallas,22,RB,12,2,2,1,0,0,0,0,0,3,0,0,0,0,0,0,0,0,18,1.5,Seahawks,2020
+41,41,Alex Collins,26,RB,3,1,2,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,12,4.0,Seahawks,2020
+89,89,Will Dissly,24,TE,16,12,0,2,0,0,0,0,0,2,0,0,0,0,0,0,0,0,12,0.8,Seahawks,2020
+18,18,Freddie Swain,22,WR,16,1,0,2,0,0,0,0,0,2,0,0,0,0,0,0,0,0,12,0.8,Seahawks,2020
+3,3,Russell Wilson,32,QB,16,16,2,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,12,0.8,Seahawks,2020
+25,25,Travis Homer,22,RB,9,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,6,0.7,Seahawks,2020
+88,88,Greg Olsen,35,TE,11,8,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,6,0.5,Seahawks,2020
+92,92,Bryan Mone,25,DT,10,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,2,0.2,Seahawks,2020
+35,35,Ryan Neal,25,DB,13,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,2,0.2,Seahawks,2020

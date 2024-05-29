@@ -1,20 +1,18 @@
-,Week,Team,Day,Date,Time,Win/Loss,Overtime,Team Record,Home/Away,Opponent,Points Scored,Points Allowed,Offense 1st Down,Total Yards Gained of Offense,Total yards Gained by Passing,Total Yards Gained by Rushing,Offense Turnovers,Defense 1st Down,Total Yards Allowed by Defense,Total Passing Yards Allowed by Defense,Total Rushing Yards Allowed by Defense,Defense Turnovers,Offense,Defense,Sp. Tms,Year
-0,0,Commanders,Sun,September 13,,W,0,1-0,home,Philadelphia Eagles,27,17,18,239,159,80,0,19,265,208,57,3,-6.28,16.45,-1.28,2020
-1,1,Commanders,Sun,September 20,,L,0,1-1,away,Arizona Cardinals,15,30,19,316,199,117,2,22,438,278,160,1,-0.18,-8.92,-6.91,2020
-2,2,Commanders,Sun,September 27,,L,0,1-2,away,Cleveland Browns,20,34,19,309,206,103,5,19,300,142,158,0,-4.68,-8.28,-1.14,2020
-3,3,Commanders,Sun,October 4,,L,0,1-3,home,Baltimore Ravens,17,31,24,343,274,69,1,18,350,206,144,2,2.58,-8.74,-9.39,2020
-4,4,Commanders,Sun,October 11,,L,0,1-4,home,Los Angeles Rams,10,30,10,108,70,38,0,20,429,300,129,1,-15.55,-12.32,9.05,2020
-5,5,Commanders,Sun,October 18,,L,0,1-5,away,New York Giants,19,20,24,337,251,86,2,16,240,108,132,1,1.78,-4.14,-2.48,2020
-6,6,Commanders,Sun,October 25,,W,0,2-5,home,Dallas Cowboys,25,3,21,397,189,208,0,12,142,59,83,1,15.64,14.88,-10.05,2020
-7,7,Commanders,,,,,0,,home,<strong>Bye Week</strong>,0,0,0,0,0,0,0,0,0,0,0,0,,,,2020
-8,8,Commanders,Sun,November 8,,L,0,2-6,home,New York Giants,20,23,19,402,365,37,5,22,350,184,166,0,2.73,-1.55,-4.12,2020
-9,9,Commanders,Sun,November 15,,L,0,2-7,away,Detroit Lions,27,30,34,464,375,89,1,21,372,267,105,0,19.77,-15.43,-6.95,2020
-10,10,Commanders,Sun,November 22,,W,0,3-7,home,Cincinnati Bengals,20,9,20,325,161,164,1,18,272,202,70,2,-0.93,11.45,-0.86,2020
-11,11,Commanders,Thu,November 26,,W,0,4-7,away,Dallas Cowboys,41,16,22,338,156,182,1,13,247,187,60,2,8.38,17.92,1.4,2020
-12,12,Commanders,Mon,December 7,,W,0,5-7,away,Pittsburgh Steelers,23,17,18,318,273,45,0,17,326,305,21,1,-7.02,5.7,3.99,2020
-13,13,Commanders,Sun,December 13,,W,0,6-7,away,San Francisco 49ers,23,15,12,193,95,98,1,21,344,236,108,3,-19.42,25.61,0.12,2020
-14,14,Commanders,Sun,December 20,,L,0,6-8,home,Seattle Seahawks,15,20,26,353,269,84,2,16,302,121,181,1,1.41,-3.17,-4.4,2020
-15,15,Commanders,Sun,December 27,,L,0,6-9,home,Carolina Panthers,13,20,20,386,278,108,4,19,280,167,113,2,-5.49,5.85,-7.24,2020
-16,16,Commanders,Sun,January 3,,W,0,7-9,away,Philadelphia Eagles,20,14,16,248,145,103,2,16,216,98,118,3,-8.33,11.71,3.56,2020
-17,17,Commanders,,<strong>Playoffs</strong>,,,0,,home,,0,0,0,0,0,0,0,0,0,0,0,0,,,,2020
-18,18,Commanders,Sat,January 9,,L,0,7-10,home,Tampa Bay Buccaneers,23,31,23,375,289,86,1,26,507,365,142,1,5.16,-14.51,1.49,2020
+,Week,Day,Date,Time,Win/Loss,Overtime,Team Record,Home/Away,Opponent,Points Scored,Points Allowed,Offense 1st Down,Total Yards Gained of Offense,Total yards Gained by Passing,Total Yards Gained by Rushing,Offense Turnovers,Defense 1st Down,Total Yards Allowed by Defense,Total Passing Yards Allowed by Defense,Total Rushing Yards Allowed by Defense,Defense Turnovers,Offense,Defense,Sp. Tms,Team,Year
+0,1,Sun,2020-09-13,nan,Win,0,1-0,home,Philadelphia Eagles,27,17,18,239,159,80,0,19,265,208,57,3,-6.28,16.45,-1.28,Commanders,2020
+1,2,Sun,2020-09-20,nan,Loss,0,1-1,away,Arizona Cardinals,15,30,19,316,199,117,2,22,438,278,160,1,-0.18,-8.92,-6.91,Commanders,2020
+2,3,Sun,2020-09-27,nan,Loss,0,1-2,away,Cleveland Browns,20,34,19,309,206,103,5,19,300,142,158,0,-4.68,-8.28,-1.14,Commanders,2020
+3,4,Sun,2020-10-04,nan,Loss,0,1-3,home,Baltimore Ravens,17,31,24,343,274,69,1,18,350,206,144,2,2.58,-8.74,-9.39,Commanders,2020
+4,5,Sun,2020-10-11,nan,Loss,0,1-4,home,Los Angeles Rams,10,30,10,108,70,38,0,20,429,300,129,1,-15.55,-12.32,9.05,Commanders,2020
+5,6,Sun,2020-10-18,nan,Loss,0,1-5,away,New York Giants,19,20,24,337,251,86,2,16,240,108,132,1,1.78,-4.14,-2.48,Commanders,2020
+6,7,Sun,2020-10-25,nan,Win,0,2-5,home,Dallas Cowboys,25,3,21,397,189,208,0,12,142,59,83,1,15.64,14.88,-10.05,Commanders,2020
+7,9,Sun,2020-11-08,nan,Loss,0,2-6,home,New York Giants,20,23,19,402,365,37,5,22,350,184,166,0,2.73,-1.55,-4.12,Commanders,2020
+8,10,Sun,2020-11-15,nan,Loss,0,2-7,away,Detroit Lions,27,30,34,464,375,89,1,21,372,267,105,0,19.77,-15.43,-6.95,Commanders,2020
+9,11,Sun,2020-11-22,nan,Win,0,3-7,home,Cincinnati Bengals,20,9,20,325,161,164,1,18,272,202,70,2,-0.93,11.45,-0.86,Commanders,2020
+10,12,Thu,2020-11-26,nan,Win,0,4-7,away,Dallas Cowboys,41,16,22,338,156,182,1,13,247,187,60,2,8.38,17.92,1.4,Commanders,2020
+11,13,Mon,2020-12-07,nan,Win,0,5-7,away,Pittsburgh Steelers,23,17,18,318,273,45,0,17,326,305,21,1,-7.02,5.7,3.99,Commanders,2020
+12,14,Sun,2020-12-13,nan,Win,0,6-7,away,San Francisco 49ers,23,15,12,193,95,98,1,21,344,236,108,3,-19.42,25.61,0.12,Commanders,2020
+13,15,Sun,2020-12-20,nan,Loss,0,6-8,home,Seattle Seahawks,15,20,26,353,269,84,2,16,302,121,181,1,1.41,-3.17,-4.4,Commanders,2020
+14,16,Sun,2020-12-27,nan,Loss,0,6-9,home,Carolina Panthers,13,20,20,386,278,108,4,19,280,167,113,2,-5.49,5.85,-7.24,Commanders,2020
+15,17,Sun,2021-01-03,nan,Win,0,7-9,away,Philadelphia Eagles,20,14,16,248,145,103,2,16,216,98,118,3,-8.33,11.71,3.56,Commanders,2020
+16,19,Sat,2021-01-09,nan,Loss,0,7-10,home,Tampa Bay Buccaneers,23,31,23,375,289,86,1,26,507,365,142,1,5.16,-14.51,1.49,Commanders,2020

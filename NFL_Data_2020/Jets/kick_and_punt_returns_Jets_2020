@@ -1,10 +1,10 @@
-,No.,Team,Player,Age,Position,Games Played,Games Started,Punts Returned,Punts Return Yardage,Punts Returned for Touchdown,Longest Punt Return,Yards per Punt Return,Kickoff Returns,Yardage for Kickoffs Returned,Kickoffs Returned for a Touchdown,Longest Kickoff Return,Yards per Kickoff Return,All-purpose Yards,Year
-0,10,Jets,Braxton Berrios,25,WR,16,2,10,86,0,18,8.6,9,167,0,28,18.6,676,2020
-1,27,Jets,Corey Ballentine,24,DB,6,0,0,0,0,0,,12,314,0,66,26.2,314,2020
-2,83,Jets,Josh Malone,24,WR,4,0,0,0,0,0,,7,140,0,40,20.0,168,2020
-3,25,Jets,Ty Johnson,23,RB,11,1,0,0,0,0,,5,94,0,25,18.8,447,2020
-4,32,Jets,Ashtyn Davis,24,SS,10,6,0,0,0,0,,2,43,0,27,21.5,43,2020
-5,22,Jets,La'Mical Perine,22,RB,10,0,0,0,0,0,,2,22,0,18,11.0,317,2020
-6,17,Jets,Vyncint Smith,24,WR,7,0,0,0,0,0,,2,23,0,16,11.5,36,2020
-7,87,Jets,Daniel Brown,28,WR,16,1,0,0,0,0,,1,0,0,0,0.0,31,2020
-8,82,Jets,Jamison Crowder,27,WR,12,7,0,0,0,0,,1,8,0,8,8.0,721,2020
+,No.,Player,Age,Position,Games Played,Games Started,Punts Returned,Punts Return Yardage,Punts Returned for Touchdown,Longest Punt Return,Yards per Punt Return,Kickoff Returns,Yardage for Kickoffs Returned,Kickoffs Returned for a Touchdown,Longest Kickoff Return,Yards per Kickoff Return,All-purpose Yards,Team,Year
+10,10,Braxton Berrios,25,WR,16,2,10,86,0,18,8.6,9,167,0,28,18.6,676,Jets,2020
+27,27,Corey Ballentine,24,DB,6,0,0,0,0,0,0.0,12,314,0,66,26.2,314,Jets,2020
+83,83,Josh Malone,24,WR,4,0,0,0,0,0,0.0,7,140,0,40,20.0,168,Jets,2020
+25,25,Ty Johnson,23,RB,11,1,0,0,0,0,0.0,5,94,0,25,18.8,447,Jets,2020
+32,32,Ashtyn Davis,24,SS,10,6,0,0,0,0,0.0,2,43,0,27,21.5,43,Jets,2020
+22,22,La'Mical Perine,22,RB,10,0,0,0,0,0,0.0,2,22,0,18,11.0,317,Jets,2020
+17,17,Vyncint Smith,24,WR,7,0,0,0,0,0,0.0,2,23,0,16,11.5,36,Jets,2020
+87,87,Daniel Brown,28,WR,16,1,0,0,0,0,0.0,1,0,0,0,0.0,31,Jets,2020
+82,82,Jamison Crowder,27,WR,12,7,0,0,0,0,0.0,1,8,0,8,8.0,721,Jets,2020

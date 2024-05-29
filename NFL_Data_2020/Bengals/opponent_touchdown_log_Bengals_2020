@@ -1,48 +1,48 @@
-,Rank,Team,Date,Opponent,Win/Loss,Score,Quarter,Distance,Type,Detail,Year
-0,1,Bengals,09/13/2020,LAC,Loss, 13-16,4,5,rush,Joshua Kelley,2020
-1,2,Bengals,09/17/2020,CLE,Loss, 30-35,1,11,rush,Nick Chubb,2020
-2,3,Bengals,09/17/2020,CLE,Loss, 30-35,2,43,pass,Odell Beckham Jr.,2020
-3,4,Bengals,09/17/2020,CLE,Loss, 30-35,2,6,pass,Kareem Hunt,2020
-4,5,Bengals,09/17/2020,CLE,Loss, 30-35,3,1,rush,Nick Chubb,2020
-5,6,Bengals,09/17/2020,CLE,Loss, 30-35,4,1,rush,Kareem Hunt,2020
-6,7,Bengals,09/27/2020,PHI,T, 23-23,2,29,pass,Greg Ward,2020
-7,8,Bengals,09/27/2020,PHI,T, 23-23,4,7,rush,Carson Wentz,2020
-8,9,Bengals,10/04/2020,JAX,Win, 33-25,1,11,pass,DJ Chark,2020
-9,10,Bengals,10/04/2020,JAX,Win, 33-25,4,2,pass,DJ Chark,2020
-10,11,Bengals,10/11/2020,BAL,Loss, 3-27,1,5,pass,Mark Andrews,2020
-11,12,Bengals,10/11/2020,BAL,Loss, 3-27,2,2,pass,Marquise Brown,2020
-12,13,Bengals,10/11/2020,BAL,Loss, 3-27,4,53,fumble,Patrick Queen,2020
-13,14,Bengals,10/18/2020,IND,Loss, 27-31,2,1,rush,Trey Burton,2020
-14,15,Bengals,10/18/2020,IND,Loss, 27-31,2,10,pass,Trey Burton,2020
-15,16,Bengals,10/18/2020,IND,Loss, 27-31,2,17,pass,Zach Pascal,2020
-16,17,Bengals,10/18/2020,IND,Loss, 27-31,4,14,pass,Jack Doyle,2020
-17,18,Bengals,10/25/2020,CLE,Loss, 34-37,2,3,pass,Harrison Bryant,2020
-18,19,Bengals,10/25/2020,CLE,Loss, 34-37,3,6,pass,Harrison Bryant,2020
-19,20,Bengals,10/25/2020,CLE,Loss, 34-37,4,16,pass,David Njoku,2020
-20,21,Bengals,10/25/2020,CLE,Loss, 34-37,4,8,pass,Kareem Hunt,2020
-21,22,Bengals,10/25/2020,CLE,Loss, 34-37,4,24,pass,Donovan Peoples-Jones,2020
-22,23,Bengals,11/01/2020,TEN,Win, 31-20,2,3,rush,Derrick Henry,2020
-23,24,Bengals,11/01/2020,TEN,Win, 31-20,4,9,pass,A.J. Brown,2020
-24,25,Bengals,11/01/2020,TEN,Win, 31-20,4,12,pass,Corey Davis,2020
-25,26,Bengals,11/15/2020,PIT,Loss, 10-36,1,12,pass,Diontae Johnson,2020
-26,27,Bengals,11/15/2020,PIT,Loss, 10-36,2,8,pass,JuJu Smith-Schuster,2020
-27,28,Bengals,11/15/2020,PIT,Loss, 10-36,3,11,pass,Chase Claypool,2020
-28,29,Bengals,11/15/2020,PIT,Loss, 10-36,4,5,pass,Chase Claypool,2020
-29,30,Bengals,11/22/2020,WAS,Loss, 9-20,1,1,rush,Antonio Gibson,2020
-30,31,Bengals,11/22/2020,WAS,Loss, 9-20,3,3,pass,Steven Sims,2020
-31,32,Bengals,11/29/2020,NYG,Loss, 17-19,1,1,rush,Wayne Gallman,2020
-32,33,Bengals,12/06/2020,MIA,Loss, 7-19,3,5,pass,Mike Gesicki,2020
-33,34,Bengals,12/13/2020,DAL,Loss, 7-30,1,78,fumble,Aldon Smith,2020
-34,35,Bengals,12/13/2020,DAL,Loss, 7-30,2,11,pass,Amari Cooper,2020
-35,36,Bengals,12/13/2020,DAL,Loss, 7-30,4,7,pass,Tony Pollard,2020
-36,37,Bengals,12/21/2020,PIT,Win, 27-17,3,23,pass,Diontae Johnson,2020
-37,38,Bengals,12/21/2020,PIT,Win, 27-17,4,1,rush,Benny Snell Jr.,2020
-38,39,Bengals,12/27/2020,HOU,Win, 37-31,2,25,pass,Brandin Cooks,2020
-39,40,Bengals,12/27/2020,HOU,Win, 37-31,3,4,rush,David Johnson,2020
-40,41,Bengals,12/27/2020,HOU,Win, 37-31,3,2,pass,David Johnson,2020
-41,42,Bengals,12/27/2020,HOU,Win, 37-31,4,22,pass,Darren Fells,2020
-42,43,Bengals,01/03/2021,BAL,Loss, 3-38,1,43,pass,Miles Boykin,2020
-43,44,Bengals,01/03/2021,BAL,Loss, 3-38,2,18,pass,Marquise Brown,2020
-44,45,Bengals,01/03/2021,BAL,Loss, 3-38,3,4,rush,J.K. Dobbins,2020
-45,46,Bengals,01/03/2021,BAL,Loss, 3-38,3,9,pass,Marquise Brown,2020
-46,47,Bengals,01/03/2021,BAL,Loss, 3-38,3,72,rush,J.K. Dobbins,2020
+,Rank,Team,Date,Opponent,Win/Loss,Home_Score,Opponenet_Score,Quarter,Distance,Type,Detail
+1,1,Bengals,2020-09-13,LAC,Loss,13,16,4,5,rush,Joshua Kelley
+2,2,Bengals,2020-09-17,CLE,Loss,30,35,1,11,rush,Nick Chubb
+3,3,Bengals,2020-09-17,CLE,Loss,30,35,2,43,pass,Odell Beckham Jr.
+4,4,Bengals,2020-09-17,CLE,Loss,30,35,2,6,pass,Kareem Hunt
+5,5,Bengals,2020-09-17,CLE,Loss,30,35,3,1,rush,Nick Chubb
+6,6,Bengals,2020-09-17,CLE,Loss,30,35,4,1,rush,Kareem Hunt
+7,7,Bengals,2020-09-27,PHI,T,23,23,2,29,pass,Greg Ward
+8,8,Bengals,2020-09-27,PHI,T,23,23,4,7,rush,Carson Wentz
+9,9,Bengals,2020-10-04,JAX,Win,33,25,1,11,pass,DJ Chark
+10,10,Bengals,2020-10-04,JAX,Win,33,25,4,2,pass,DJ Chark
+11,11,Bengals,2020-10-11,BAL,Loss,3,27,1,5,pass,Mark Andrews
+12,12,Bengals,2020-10-11,BAL,Loss,3,27,2,2,pass,Marquise Brown
+13,13,Bengals,2020-10-11,BAL,Loss,3,27,4,53,fumble,Patrick Queen
+14,14,Bengals,2020-10-18,IND,Loss,27,31,2,1,rush,Trey Burton
+15,15,Bengals,2020-10-18,IND,Loss,27,31,2,10,pass,Trey Burton
+16,16,Bengals,2020-10-18,IND,Loss,27,31,2,17,pass,Zach Pascal
+17,17,Bengals,2020-10-18,IND,Loss,27,31,4,14,pass,Jack Doyle
+18,18,Bengals,2020-10-25,CLE,Loss,34,37,2,3,pass,Harrison Bryant
+19,19,Bengals,2020-10-25,CLE,Loss,34,37,3,6,pass,Harrison Bryant
+20,20,Bengals,2020-10-25,CLE,Loss,34,37,4,16,pass,David Njoku
+21,21,Bengals,2020-10-25,CLE,Loss,34,37,4,8,pass,Kareem Hunt
+22,22,Bengals,2020-10-25,CLE,Loss,34,37,4,24,pass,Donovan Peoples-Jones
+23,23,Bengals,2020-11-01,TEN,Win,31,20,2,3,rush,Derrick Henry
+24,24,Bengals,2020-11-01,TEN,Win,31,20,4,9,pass,A.J. Brown
+25,25,Bengals,2020-11-01,TEN,Win,31,20,4,12,pass,Corey Davis
+26,26,Bengals,2020-11-15,PIT,Loss,10,36,1,12,pass,Diontae Johnson
+27,27,Bengals,2020-11-15,PIT,Loss,10,36,2,8,pass,JuJu Smith-Schuster
+28,28,Bengals,2020-11-15,PIT,Loss,10,36,3,11,pass,Chase Claypool
+29,29,Bengals,2020-11-15,PIT,Loss,10,36,4,5,pass,Chase Claypool
+30,30,Bengals,2020-11-22,WAS,Loss,9,20,1,1,rush,Antonio Gibson
+31,31,Bengals,2020-11-22,WAS,Loss,9,20,3,3,pass,Steven Sims
+32,32,Bengals,2020-11-29,NYG,Loss,17,19,1,1,rush,Wayne Gallman
+33,33,Bengals,2020-12-06,MIA,Loss,7,19,3,5,pass,Mike Gesicki
+34,34,Bengals,2020-12-13,DAL,Loss,7,30,1,78,fumble,Aldon Smith
+35,35,Bengals,2020-12-13,DAL,Loss,7,30,2,11,pass,Amari Cooper
+36,36,Bengals,2020-12-13,DAL,Loss,7,30,4,7,pass,Tony Pollard
+37,37,Bengals,2020-12-21,PIT,Win,27,17,3,23,pass,Diontae Johnson
+38,38,Bengals,2020-12-21,PIT,Win,27,17,4,1,rush,Benny Snell Jr.
+39,39,Bengals,2020-12-27,HOU,Win,37,31,2,25,pass,Brandin Cooks
+40,40,Bengals,2020-12-27,HOU,Win,37,31,3,4,rush,David Johnson
+41,41,Bengals,2020-12-27,HOU,Win,37,31,3,2,pass,David Johnson
+42,42,Bengals,2020-12-27,HOU,Win,37,31,4,22,pass,Darren Fells
+43,43,Bengals,2021-01-03,BAL,Loss,3,38,1,43,pass,Miles Boykin
+44,44,Bengals,2021-01-03,BAL,Loss,3,38,2,18,pass,Marquise Brown
+45,45,Bengals,2021-01-03,BAL,Loss,3,38,3,4,rush,J.K. Dobbins
+46,46,Bengals,2021-01-03,BAL,Loss,3,38,3,9,pass,Marquise Brown
+47,47,Bengals,2021-01-03,BAL,Loss,3,38,3,72,rush,J.K. Dobbins

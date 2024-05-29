@@ -1,7 +1,7 @@
-,No.,Team,Player,Age,Position,Games Played,Games Started,Punts Returned,Punts Return Yardage,Punts Returned for Touchdown,Longest Punt Return,Yards per Punt Return,Kickoff Returns,Yardage for Kickoffs Returned,Kickoffs Returned for a Touchdown,Longest Kickoff Return,Yards per Kickoff Return,All-purpose Yards,Year
-0,14,Titans,Kalif Raymond,26,WR,15,3,23,208,0,40,9.0,15,275,0,30,18.3,667,2020
-1,13,Titans,Cameron Batson,25,WR,12,1,0,0,0,0,,11,231,0,35,21.0,346,2020
-2,32,Titans,Darrynton Evans,22,RB,5,0,0,0,0,0,,9,206,0,31,22.9,287,2020
-3,41,Titans,Khari Blasingame,24,FB,15,7,0,0,0,0,,1,11,0,11,11.0,50,2020
-4,11,Titans,A.J. Brown,23,WR,14,12,0,0,0,0,,1,42,1,42,42.0,1117,2020
-5,46,Titans,Joshua Kalu,25,DB,15,0,0,0,0,0,,1,2,0,2,2.0,2,2020
+,No.,Player,Age,Position,Games Played,Games Started,Punts Returned,Punts Return Yardage,Punts Returned for Touchdown,Longest Punt Return,Yards per Punt Return,Kickoff Returns,Yardage for Kickoffs Returned,Kickoffs Returned for a Touchdown,Longest Kickoff Return,Yards per Kickoff Return,All-purpose Yards,Team,Year
+14,14,Kalif Raymond,26,WR,15,3,23,208,0,40,9.0,15,275,0,30,18.3,667,Titans,2020
+13,13,Cameron Batson,25,WR,12,1,0,0,0,0,0.0,11,231,0,35,21.0,346,Titans,2020
+32,32,Darrynton Evans,22,RB,5,0,0,0,0,0,0.0,9,206,0,31,22.9,287,Titans,2020
+41,41,Khari Blasingame,24,FB,15,7,0,0,0,0,0.0,1,11,0,11,11.0,50,Titans,2020
+11,11,A.J. Brown,23,WR,14,12,0,0,0,0,0.0,1,42,1,42,42.0,1117,Titans,2020
+46,46,Joshua Kalu,25,DB,15,0,0,0,0,0,0.0,1,2,0,2,2.0,2,Titans,2020

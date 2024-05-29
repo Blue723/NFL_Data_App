@@ -1,14 +1,14 @@
-,No.,Team,Player,Age,Pos,Games Played,Games Started,Rush TD,Reception TD,Punt Return TD,Kick Return TD,Fumble Return TD,Interception TD,Other TD,All Touchdown Scored,2-Point Conversions Made,Two-Point Conversions Attempted,Defensive Two-Point Conversions,Extra Points Made,Extra Points Allowed,Field Goals Made,Field Goals Attempted,Safeties Scored by Player/Team,Total Points Scored by all Means,Poins per Game,Year
-0,41,Saints,Alvin Kamara,25,RB,15,10,16,5,0,0,0,0,0,21,0,0,0,0,0,0,0,,126,8.4,2020
-1,3,Saints,Wil Lutz,26,K,16,0,0,0,0,0,0,0,0,0,0,0,0,57,58,23,28,,126,7.9,2020
-2,7,Saints,Taysom Hill,30,WR/QB,16,8,8,1,0,0,0,0,0,9,0,0,0,0,0,0,0,,54,3.4,2020
-3,87,Saints,Jared Cook,33,TE,15,5,0,7,0,0,0,0,0,7,0,0,0,0,0,0,0,,42,2.8,2020
-4,28,Saints,Latavius Murray,30,RB,15,7,4,1,0,0,0,0,0,5,0,0,0,0,0,0,0,,30,2.0,2020
-5,17,Saints,Emmanuel Sanders,33,WR,14,5,0,5,0,0,0,0,0,5,0,0,0,0,0,0,0,,30,2.1,2020
-6,10,Saints,Tre'Quan Smith,24,WR,14,10,0,4,0,0,0,0,0,4,0,0,0,0,0,0,0,,24,1.7,2020
-7,9,Saints,Drew Brees,41,QB,12,12,2,0,0,0,0,0,0,2,0,0,0,0,0,0,0,,12,1.0,2020
-8,11,Saints,Deonte Harty,23,WR,9,2,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,,6,0.7,2020
-9,89,Saints,Josh Hill,30,TE,14,7,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,,6,0.4,2020
-10,84,Saints,Lil'Jordan Humphrey,22,WR,3,1,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,,6,2.0,2020
-11,20,Saints,Jackrabbit Jenkins,32,LCB,13,13,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,,6,0.5,2020
-12,82,Saints,Adam Trautman,23,TE,15,6,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,,6,0.4,2020
+,No.,Player,Age,Pos,Games Played,Games Started,Rush TD,Reception TD,Punt Return TD,Kick Return TD,Fumble Return TD,Interception TD,Other TD,All Touchdown Scored,2-Point Conversions Made,Two-Point Conversions Attempted,Defensive Two-Point Conversions,Extra Points Made,Extra Points Allowed,Field Goals Made,Field Goals Attempted,Safeties Scored by Player/Team,Total Points Scored by all Means,Poins per Game,Team,Year
+41,41,Alvin Kamara,25,RB,15,10,16,5,0,0,0,0,0,21,0,0,0,0,0,0,0,0,126,8.4,Saints,2020
+3,3,Wil Lutz,26,K,16,0,0,0,0,0,0,0,0,0,0,0,0,57,58,23,28,0,126,7.9,Saints,2020
+7,7,Taysom Hill,30,WR/QB,16,8,8,1,0,0,0,0,0,9,0,0,0,0,0,0,0,0,54,3.4,Saints,2020
+87,87,Jared Cook,33,TE,15,5,0,7,0,0,0,0,0,7,0,0,0,0,0,0,0,0,42,2.8,Saints,2020
+28,28,Latavius Murray,30,RB,15,7,4,1,0,0,0,0,0,5,0,0,0,0,0,0,0,0,30,2.0,Saints,2020
+17,17,Emmanuel Sanders,33,WR,14,5,0,5,0,0,0,0,0,5,0,0,0,0,0,0,0,0,30,2.1,Saints,2020
+10,10,Tre'Quan Smith,24,WR,14,10,0,4,0,0,0,0,0,4,0,0,0,0,0,0,0,0,24,1.7,Saints,2020
+9,9,Drew Brees,41,QB,12,12,2,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,12,1.0,Saints,2020
+11,11,Deonte Harty,23,WR,9,2,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,6,0.7,Saints,2020
+89,89,Josh Hill,30,TE,14,7,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,6,0.4,Saints,2020
+84,84,Lil'Jordan Humphrey,22,WR,3,1,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,6,2.0,Saints,2020
+20,20,Jackrabbit Jenkins,32,LCB,13,13,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,6,0.5,Saints,2020
+82,82,Adam Trautman,23,TE,15,6,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,6,0.4,Saints,2020

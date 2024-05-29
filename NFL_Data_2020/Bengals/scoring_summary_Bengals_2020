@@ -1,15 +1,15 @@
-,No.,Team,Player,Age,Pos,Games Played,Games Started,Rush TD,Reception TD,Punt Return TD,Kick Return TD,Fumble Return TD,Interception TD,Other TD,All Touchdown Scored,2-Point Conversions Made,Two-Point Conversions Attempted,Defensive Two-Point Conversions,Extra Points Made,Extra Points Allowed,Field Goals Made,Field Goals Attempted,Safeties Scored by Player/Team,Total Points Scored by all Means,Poins per Game,Year
-0,4,Bengals,Randy Bullock,31,K,12,0,0,0,0,0,0,0,0,0,0,0,0,24,25,21,26,,87,7.3,2020
-1,25,Bengals,Giovani Bernard,29,RB,16,10,3,3,0,0,0,0,0,6,0,0,0,0,0,0,0,,36,2.3,2020
-2,85,Bengals,Tee Higgins,21,WR,16,14,0,6,0,0,0,0,0,6,0,0,0,0,0,0,0,,36,2.3,2020
-3,3,Bengals,Austin Seibert,24,K,4,0,0,0,0,0,0,0,0,0,0,0,0,8,8,6,8,,26,6.5,2020
-4,83,Bengals,Tyler Boyd,26,WR,15,8,0,4,0,0,0,0,0,4,0,0,0,0,0,0,0,,24,1.6,2020
-5,28,Bengals,Joe Mixon,24,RB,6,6,3,1,0,0,0,0,0,4,0,0,0,0,0,0,0,,24,4.0,2020
-6,9,Bengals,Joe Burrow,24,QB,10,10,3,0,0,0,0,0,0,3,0,0,0,0,0,0,0,,18,1.8,2020
-7,34,Bengals,Samaje Perine,25,RB,16,1,3,0,0,0,0,0,0,3,0,0,0,0,0,0,0,,18,1.1,2020
-8,18,Bengals,A.J. Green,32,WR,16,14,0,2,0,0,0,0,0,2,0,0,0,0,0,0,0,,12,0.8,2020
-9,5,Bengals,Ryan Finley,26,QB,5,1,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,,6,1.2,2020
-10,89,Bengals,Drew Sample,24,TE,16,13,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,,6,0.4,2020
-11,80,Bengals,Mike Thomas,26,WR,14,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,,6,0.4,2020
-12,87,Bengals,C.J. Uzomah,27,TE,2,2,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,,6,3.0,2020
-13,40,Bengals,Brandon Wilson,26,RB,15,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,,6,0.4,2020
+,No.,Player,Age,Pos,Games Played,Games Started,Rush TD,Reception TD,Punt Return TD,Kick Return TD,Fumble Return TD,Interception TD,Other TD,All Touchdown Scored,2-Point Conversions Made,Two-Point Conversions Attempted,Defensive Two-Point Conversions,Extra Points Made,Extra Points Allowed,Field Goals Made,Field Goals Attempted,Safeties Scored by Player/Team,Total Points Scored by all Means,Poins per Game,Team,Year
+4,4,Randy Bullock,31,K,12,0,0,0,0,0,0,0,0,0,0,0,0,24,25,21,26,0,87,7.3,Bengals,2020
+25,25,Giovani Bernard,29,RB,16,10,3,3,0,0,0,0,0,6,0,0,0,0,0,0,0,0,36,2.3,Bengals,2020
+85,85,Tee Higgins,21,WR,16,14,0,6,0,0,0,0,0,6,0,0,0,0,0,0,0,0,36,2.3,Bengals,2020
+3,3,Austin Seibert,24,K,4,0,0,0,0,0,0,0,0,0,0,0,0,8,8,6,8,0,26,6.5,Bengals,2020
+83,83,Tyler Boyd,26,WR,15,8,0,4,0,0,0,0,0,4,0,0,0,0,0,0,0,0,24,1.6,Bengals,2020
+28,28,Joe Mixon,24,RB,6,6,3,1,0,0,0,0,0,4,0,0,0,0,0,0,0,0,24,4.0,Bengals,2020
+9,9,Joe Burrow,24,QB,10,10,3,0,0,0,0,0,0,3,0,0,0,0,0,0,0,0,18,1.8,Bengals,2020
+34,34,Samaje Perine,25,RB,16,1,3,0,0,0,0,0,0,3,0,0,0,0,0,0,0,0,18,1.1,Bengals,2020
+18,18,A.J. Green,32,WR,16,14,0,2,0,0,0,0,0,2,0,0,0,0,0,0,0,0,12,0.8,Bengals,2020
+5,5,Ryan Finley,26,QB,5,1,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,6,1.2,Bengals,2020
+89,89,Drew Sample,24,TE,16,13,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,6,0.4,Bengals,2020
+80,80,Mike Thomas,26,WR,14,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,6,0.4,Bengals,2020
+87,87,C.J. Uzomah,27,TE,2,2,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,6,3.0,Bengals,2020
+40,40,Brandon Wilson,26,RB,15,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,6,0.4,Bengals,2020

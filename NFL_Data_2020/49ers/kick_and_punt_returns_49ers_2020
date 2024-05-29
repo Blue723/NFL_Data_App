@@ -1,12 +1,12 @@
-,No.,Team,Player,Age,Position,Games Played,Games Started,Punts Returned,Punts Return Yardage,Punts Returned for Touchdown,Longest Punt Return,Yards per Punt Return,Kickoff Returns,Yardage for Kickoffs Returned,Kickoffs Returned for a Touchdown,Longest Kickoff Return,Yards per Kickoff Return,All-purpose Yards,Year
-0,28,49ers,Jerick McKinnon,28,RB,16,4,0,0,0,0,,12,239,0,30,19.9,811,2020
-1,13,49ers,Richie James,25,WR,11,7,6,34,0,12,5.7,4,73,0,21,18.3,501,2020
-2,15,49ers,Trent Taylor,26,WR,12,1,9,112,0,20,12.4,0,0,0,0,,198,2020
-3,86,49ers,River Cracraft,26,WR,9,1,5,40,0,21,8.0,0,0,0,0,,81,2020
-4,48,49ers,Austin Walter,24,RB,4,0,0,0,0,0,,5,93,0,34,18.6,123,2020
-5,38,49ers,Jamycal Hasty,24,RB,8,0,0,0,0,0,,3,57,0,21,19.0,238,2020
-6,18,49ers,Dante Pettis,25,WR,5,1,2,14,0,8,7.0,1,18,0,18,18.0,32,2020
-7,11,49ers,Brandon Aiyuk,22,WR,12,11,2,26,0,16,13.0,0,0,0,0,,856,2020
-8,82,49ers,Ross Dwelley,25,TE,16,9,0,0,0,0,,1,20,0,20,20.0,265,2020
-9,35,49ers,Ken Webster,24,DB,9,0,1,0,0,0,0.0,0,0,0,0,,0,2020
-10,14,49ers,Kevin White,28,WR,3,0,0,0,0,0,,1,20,0,20,20.0,20,2020
+,No.,Player,Age,Position,Games Played,Games Started,Punts Returned,Punts Return Yardage,Punts Returned for Touchdown,Longest Punt Return,Yards per Punt Return,Kickoff Returns,Yardage for Kickoffs Returned,Kickoffs Returned for a Touchdown,Longest Kickoff Return,Yards per Kickoff Return,All-purpose Yards,Team,Year
+28,28,Jerick McKinnon,28,RB,16,4,0,0,0,0,0.0,12,239,0,30,19.9,811,49ers,2020
+13,13,Richie James,25,WR,11,7,6,34,0,12,5.7,4,73,0,21,18.3,501,49ers,2020
+15,15,Trent Taylor,26,WR,12,1,9,112,0,20,12.4,0,0,0,0,0.0,198,49ers,2020
+86,86,River Cracraft,26,WR,9,1,5,40,0,21,8.0,0,0,0,0,0.0,81,49ers,2020
+48,48,Austin Walter,24,RB,4,0,0,0,0,0,0.0,5,93,0,34,18.6,123,49ers,2020
+38,38,Jamycal Hasty,24,RB,8,0,0,0,0,0,0.0,3,57,0,21,19.0,238,49ers,2020
+18,18,Dante Pettis,25,WR,5,1,2,14,0,8,7.0,1,18,0,18,18.0,32,49ers,2020
+11,11,Brandon Aiyuk,22,WR,12,11,2,26,0,16,13.0,0,0,0,0,0.0,856,49ers,2020
+82,82,Ross Dwelley,25,TE,16,9,0,0,0,0,0.0,1,20,0,20,20.0,265,49ers,2020
+35,35,Ken Webster,24,DB,9,0,1,0,0,0,0.0,0,0,0,0,0.0,0,49ers,2020
+14,14,Kevin White,28,WR,3,0,0,0,0,0,0.0,1,20,0,20,20.0,20,49ers,2020

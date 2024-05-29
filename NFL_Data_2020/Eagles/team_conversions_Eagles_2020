@@ -1,5 +1,5 @@
-,Player,Team,3rd Down Attempts in Game,3rd Down Conversions,3rd Down Conversion Per.,4th Down Attempts in Game,4th Down Conversions in Game,4th Down Conversion Per.,Red Zone Attempts,Touchdowns Scored After the Team Entered the Red Zone,Per. of the Time a Team Reaches the Red Zone and Scores a Touchdown,Year
-0,Team Stats,Eagles,220.0,82.0,37.3,35.0,15.0,42.9,46.0,28.0,60.9,2020.0
-1,Opp. Stats,Eagles,211.0,80.0,37.9,18.0,7.0,38.9,51.0,33.0,64.7,2020.0
-2,Lg Rank Offense,Eagles,,,28.0,,,27.0,,,15.0,2020.0
-3,Lg Rank Defense,Eagles,,,7.0,,,3.0,,,26.0,2020.0
+,Player,3rd Down Attempts in Game,3rd Down Conversions,3rd Down Conversion Per.,4th Down Attempts in Game,4th Down Conversions in Game,4th Down Conversion Per.,Red Zone Attempts,Touchdowns Scored After the Team Entered the Red Zone,Per. of the Time a Team Reaches the Red Zone and Scores a Touchdown,Team,Year
+Team Stats,Team Stats,220.0,82.0,37.3,35.0,15.0,42.9,46.0,28.0,60.9,Eagles,2020
+Opp. Stats,Opp. Stats,211.0,80.0,37.9,18.0,7.0,38.9,51.0,33.0,64.7,Eagles,2020
+Lg Rank Offense,Lg Rank Offense,0.0,0.0,28.0,0.0,0.0,27.0,0.0,0.0,15,Eagles,2020
+Lg Rank Defense,Lg Rank Defense,0.0,0.0,7.0,0.0,0.0,3.0,0.0,0.0,26,Eagles,2020

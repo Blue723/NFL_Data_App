@@ -1,42 +1,42 @@
-,Rank,Team,Date,Opponent,Win/Loss,Score,Quarter,Distance,Type,Detail,Year
-0,1,Bears,09/13/2020,DET,Win, 27-23,2,1,rush,D'Andre Swift,2020
-1,2,Bears,09/13/2020,DET,Win, 27-23,3,4,pass,T.J. Hockenson,2020
-2,3,Bears,09/20/2020,NYG,Win, 17-13,4,1,rush,Dion Lewis,2020
-3,4,Bears,09/27/2020,ATL,Win, 30-26,1,1,pass,Hayden Hurst,2020
-4,5,Bears,09/27/2020,ATL,Win, 30-26,2,35,rush,Brian Hill,2020
-5,6,Bears,09/27/2020,ATL,Win, 30-26,3,10,rush,Todd Gurley,2020
-6,7,Bears,10/04/2020,IND,Loss, 11-19,1,13,pass,Mo Alie-Cox,2020
-7,8,Bears,10/08/2020,TAM,Win, 20-19,1,2,pass,Mike Evans,2020
-8,9,Bears,10/18/2020,CAR,Win, 23-16,4,1,rush,Mike Davis,2020
-9,10,Bears,10/26/2020,LAR,Loss, 10-24,1,4,pass,Josh Reynolds,2020
-10,11,Bears,10/26/2020,LAR,Loss, 10-24,3,1,rush,Malcolm Brown,2020
-11,12,Bears,10/26/2020,LAR,Loss, 10-24,3,12,pass,Gerald Everett,2020
-12,13,Bears,11/01/2020,NOR,Loss, 23-26,2,16,pass,Jared Cook,2020
-13,14,Bears,11/01/2020,NOR,Loss, 23-26,4,20,pass,Taysom Hill,2020
-14,15,Bears,11/08/2020,TEN,Loss, 17-24,2,40,pass,A.J. Brown,2020
-15,16,Bears,11/08/2020,TEN,Loss, 17-24,3,63,fumble,Desmond King,2020
-16,17,Bears,11/08/2020,TEN,Loss, 17-24,4,2,pass,Jonnu Smith,2020
-17,18,Bears,11/16/2020,MIN,Loss, 13-19,1,17,pass,Adam Thielen,2020
-18,19,Bears,11/16/2020,MIN,Loss, 13-19,4,6,pass,Adam Thielen,2020
-19,20,Bears,11/29/2020,GNB,Loss, 25-41,1,12,pass,Davante Adams,2020
-20,21,Bears,11/29/2020,GNB,Loss, 25-41,2,5,pass,Marcedes Lewis,2020
-21,22,Bears,11/29/2020,GNB,Loss, 25-41,2,2,pass,Allen Lazard,2020
-22,23,Bears,11/29/2020,GNB,Loss, 25-41,2,14,fumble,Preston Smith,2020
-23,24,Bears,11/29/2020,GNB,Loss, 25-41,3,39,pass,Robert Tonyan,2020
-24,25,Bears,11/29/2020,GNB,Loss, 25-41,3,13,rush,Jamaal Williams,2020
-25,26,Bears,12/06/2020,DET,Loss, 30-34,1,3,rush,Adrian Peterson,2020
-26,27,Bears,12/06/2020,DET,Loss, 30-34,2,49,pass,Quintez Cephus,2020
-27,28,Bears,12/06/2020,DET,Loss, 30-34,3,9,pass,Jesse James,2020
-28,29,Bears,12/06/2020,DET,Loss, 30-34,4,25,pass,Marvin Jones,2020
-29,30,Bears,12/06/2020,DET,Loss, 30-34,4,5,rush,Adrian Peterson,2020
-30,31,Bears,12/13/2020,HOU,Win, 36-7,2,5,pass,Keke Coutee,2020
-31,32,Bears,12/20/2020,MIN,Win, 33-27,1,3,pass,Adam Thielen,2020
-32,33,Bears,12/20/2020,MIN,Win, 33-27,3,1,rush,Dalvin Cook,2020
-33,34,Bears,12/20/2020,MIN,Win, 33-27,4,20,pass,Tyler Conklin,2020
-34,35,Bears,12/27/2020,JAX,Win, 41-17,2,20,pass,DJ Chark,2020
-35,36,Bears,12/27/2020,JAX,Win, 41-17,4,34,pass,Laviska Shenault Jr.,2020
-36,37,Bears,01/03/2021,GNB,Loss, 16-35,2,3,pass,Robert Tonyan,2020
-37,38,Bears,01/03/2021,GNB,Loss, 16-35,2,72,pass,Marquez Valdes-Scantling,2020
-38,39,Bears,01/03/2021,GNB,Loss, 16-35,2,13,pass,Dominique Dafney,2020
-39,40,Bears,01/03/2021,GNB,Loss, 16-35,4,4,rush,Aaron Jones,2020
-40,41,Bears,01/03/2021,GNB,Loss, 16-35,4,6,pass,Davante Adams,2020
+,Rank,Team,Date,Opponent,Win/Loss,Home_Score,Opponenet_Score,Quarter,Distance,Type,Detail
+1,1,Bears,2020-09-13,DET,Win,27,23,2,1,rush,D'Andre Swift
+2,2,Bears,2020-09-13,DET,Win,27,23,3,4,pass,T.J. Hockenson
+3,3,Bears,2020-09-20,NYG,Win,17,13,4,1,rush,Dion Lewis
+4,4,Bears,2020-09-27,ATL,Win,30,26,1,1,pass,Hayden Hurst
+5,5,Bears,2020-09-27,ATL,Win,30,26,2,35,rush,Brian Hill
+6,6,Bears,2020-09-27,ATL,Win,30,26,3,10,rush,Todd Gurley
+7,7,Bears,2020-10-04,IND,Loss,11,19,1,13,pass,Mo Alie-Cox
+8,8,Bears,2020-10-08,TAM,Win,20,19,1,2,pass,Mike Evans
+9,9,Bears,2020-10-18,CAR,Win,23,16,4,1,rush,Mike Davis
+10,10,Bears,2020-10-26,LAR,Loss,10,24,1,4,pass,Josh Reynolds
+11,11,Bears,2020-10-26,LAR,Loss,10,24,3,1,rush,Malcolm Brown
+12,12,Bears,2020-10-26,LAR,Loss,10,24,3,12,pass,Gerald Everett
+13,13,Bears,2020-11-01,NOR,Loss,23,26,2,16,pass,Jared Cook
+14,14,Bears,2020-11-01,NOR,Loss,23,26,4,20,pass,Taysom Hill
+15,15,Bears,2020-11-08,TEN,Loss,17,24,2,40,pass,A.J. Brown
+16,16,Bears,2020-11-08,TEN,Loss,17,24,3,63,fumble,Desmond King
+17,17,Bears,2020-11-08,TEN,Loss,17,24,4,2,pass,Jonnu Smith
+18,18,Bears,2020-11-16,MIN,Loss,13,19,1,17,pass,Adam Thielen
+19,19,Bears,2020-11-16,MIN,Loss,13,19,4,6,pass,Adam Thielen
+20,20,Bears,2020-11-29,GNB,Loss,25,41,1,12,pass,Davante Adams
+21,21,Bears,2020-11-29,GNB,Loss,25,41,2,5,pass,Marcedes Lewis
+22,22,Bears,2020-11-29,GNB,Loss,25,41,2,2,pass,Allen Lazard
+23,23,Bears,2020-11-29,GNB,Loss,25,41,2,14,fumble,Preston Smith
+24,24,Bears,2020-11-29,GNB,Loss,25,41,3,39,pass,Robert Tonyan
+25,25,Bears,2020-11-29,GNB,Loss,25,41,3,13,rush,Jamaal Williams
+26,26,Bears,2020-12-06,DET,Loss,30,34,1,3,rush,Adrian Peterson
+27,27,Bears,2020-12-06,DET,Loss,30,34,2,49,pass,Quintez Cephus
+28,28,Bears,2020-12-06,DET,Loss,30,34,3,9,pass,Jesse James
+29,29,Bears,2020-12-06,DET,Loss,30,34,4,25,pass,Marvin Jones
+30,30,Bears,2020-12-06,DET,Loss,30,34,4,5,rush,Adrian Peterson
+31,31,Bears,2020-12-13,HOU,Win,36,7,2,5,pass,Keke Coutee
+32,32,Bears,2020-12-20,MIN,Win,33,27,1,3,pass,Adam Thielen
+33,33,Bears,2020-12-20,MIN,Win,33,27,3,1,rush,Dalvin Cook
+34,34,Bears,2020-12-20,MIN,Win,33,27,4,20,pass,Tyler Conklin
+35,35,Bears,2020-12-27,JAX,Win,41,17,2,20,pass,DJ Chark
+36,36,Bears,2020-12-27,JAX,Win,41,17,4,34,pass,Laviska Shenault Jr.
+37,37,Bears,2021-01-03,GNB,Loss,16,35,2,3,pass,Robert Tonyan
+38,38,Bears,2021-01-03,GNB,Loss,16,35,2,72,pass,Marquez Valdes-Scantling
+39,39,Bears,2021-01-03,GNB,Loss,16,35,2,13,pass,Dominique Dafney
+40,40,Bears,2021-01-03,GNB,Loss,16,35,4,4,rush,Aaron Jones
+41,41,Bears,2021-01-03,GNB,Loss,16,35,4,6,pass,Davante Adams

@@ -1,38 +1,38 @@
-,Rank,Team,Date,Opponent,Win/Loss,Score,Quarter,Distance,Type,Detail,Year
-0,1,Ravens,09/13/2020,CLE,Win, 38-6,1,1.0,pass,David Njoku,2020
-1,2,Ravens,09/20/2020,HOU,Win, 33-16,2,10.0,pass,Darren Fells,2020
-2,3,Ravens,09/28/2020,KAN,Loss, 20-34,1,3.0,rush,Patrick Mahomes,2020
-3,4,Ravens,09/28/2020,KAN,Loss, 20-34,2,5.0,pass,Anthony Sherman,2020
-4,5,Ravens,09/28/2020,KAN,Loss, 20-34,2,20.0,pass,Tyreek Hill,2020
-5,6,Ravens,09/28/2020,KAN,Loss, 20-34,2,49.0,pass,Mecole Hardman,2020
-6,7,Ravens,09/28/2020,KAN,Loss, 20-34,4,2.0,pass,Eric Fisher,2020
-7,8,Ravens,10/04/2020,WAS,Win, 31-17,2,2.0,rush,Antonio Gibson,2020
-8,9,Ravens,10/04/2020,WAS,Win, 31-17,4,1.0,rush,Dwayne Haskins,2020
-9,10,Ravens,10/18/2020,PHI,Win, 30-28,3,,fumble,JJ Arcega-Whiteside,2020
-10,11,Ravens,10/18/2020,PHI,Win, 30-28,4,3.0,pass,Jason Croom,2020
-11,12,Ravens,10/18/2020,PHI,Win, 30-28,4,18.0,pass,Travis Fulgham,2020
-12,13,Ravens,10/18/2020,PHI,Win, 30-28,4,1.0,rush,Carson Wentz,2020
-13,14,Ravens,11/01/2020,PIT,Loss, 24-28,1,33.0,interception,Robert Spillane,2020
-14,15,Ravens,11/01/2020,PIT,Loss, 24-28,3,18.0,pass,Eric Ebron,2020
-15,16,Ravens,11/01/2020,PIT,Loss, 24-28,3,1.0,rush,James Conner,2020
-16,17,Ravens,11/01/2020,PIT,Loss, 24-28,4,8.0,pass,Chase Claypool,2020
-17,18,Ravens,11/08/2020,IND,Win, 24-10,1,1.0,rush,Jonathan Taylor,2020
-18,19,Ravens,11/15/2020,NWE,Loss, 17-23,2,7.0,pass,Rex Burkhead,2020
-19,20,Ravens,11/15/2020,NWE,Loss, 17-23,2,24.0,pass,Rex Burkhead,2020
-20,21,Ravens,11/15/2020,NWE,Loss, 17-23,3,4.0,rush,Cam Newton,2020
-21,22,Ravens,11/22/2020,TEN,Loss, 24-30,1,1.0,pass,Jonnu Smith,2020
-22,23,Ravens,11/22/2020,TEN,Loss, 24-30,4,14.0,pass,A.J. Brown,2020
-23,24,Ravens,11/22/2020,TEN,Loss, 24-30,5,29.0,rush,Derrick Henry,2020
-24,25,Ravens,12/02/2020,PIT,Loss, 14-19,1,14.0,interception,Joe Haden,2020
-25,26,Ravens,12/02/2020,PIT,Loss, 14-19,4,1.0,pass,JuJu Smith-Schuster,2020
-26,27,Ravens,12/08/2020,DAL,Win, 34-17,2,13.0,pass,Michael Gallup,2020
-27,28,Ravens,12/08/2020,DAL,Win, 34-17,4,2.0,pass,Amari Cooper,2020
-28,29,Ravens,12/14/2020,CLE,Win, 47-42,1,7.0,rush,Nick Chubb,2020
-29,30,Ravens,12/14/2020,CLE,Win, 47-42,2,14.0,rush,Nick Chubb,2020
-30,31,Ravens,12/14/2020,CLE,Win, 47-42,3,5.0,rush,Kareem Hunt,2020
-31,32,Ravens,12/14/2020,CLE,Win, 47-42,4,21.0,pass,Rashard Higgins,2020
-32,33,Ravens,12/14/2020,CLE,Win, 47-42,4,5.0,rush,Baker Mayfield,2020
-33,34,Ravens,12/14/2020,CLE,Win, 47-42,4,22.0,pass,Kareem Hunt,2020
-34,35,Ravens,12/20/2020,JAX,Win, 40-14,3,17.0,pass,James Robinson,2020
-35,36,Ravens,12/20/2020,JAX,Win, 40-14,4,13.0,pass,Chris Conley,2020
-36,37,Ravens,12/27/2020,NYG,Win, 27-13,4,3.0,pass,Sterling Shepard,2020
+,Rank,Team,Date,Opponent,Win/Loss,Home_Score,Opponenet_Score,Quarter,Distance,Type,Detail
+1,1,Ravens,2020-09-13,CLE,Win,38,6,1,1,pass,David Njoku
+2,2,Ravens,2020-09-20,HOU,Win,33,16,2,10,pass,Darren Fells
+3,3,Ravens,2020-09-28,KAN,Loss,20,34,1,3,rush,Patrick Mahomes
+4,4,Ravens,2020-09-28,KAN,Loss,20,34,2,5,pass,Anthony Sherman
+5,5,Ravens,2020-09-28,KAN,Loss,20,34,2,20,pass,Tyreek Hill
+6,6,Ravens,2020-09-28,KAN,Loss,20,34,2,49,pass,Mecole Hardman
+7,7,Ravens,2020-09-28,KAN,Loss,20,34,4,2,pass,Eric Fisher
+8,8,Ravens,2020-10-04,WAS,Win,31,17,2,2,rush,Antonio Gibson
+9,9,Ravens,2020-10-04,WAS,Win,31,17,4,1,rush,Dwayne Haskins
+10,10,Ravens,2020-10-18,PHI,Win,30,28,3,0,fumble,JJ Arcega-Whiteside
+11,11,Ravens,2020-10-18,PHI,Win,30,28,4,3,pass,Jason Croom
+12,12,Ravens,2020-10-18,PHI,Win,30,28,4,18,pass,Travis Fulgham
+13,13,Ravens,2020-10-18,PHI,Win,30,28,4,1,rush,Carson Wentz
+14,14,Ravens,2020-11-01,PIT,Loss,24,28,1,33,interception,Robert Spillane
+15,15,Ravens,2020-11-01,PIT,Loss,24,28,3,18,pass,Eric Ebron
+16,16,Ravens,2020-11-01,PIT,Loss,24,28,3,1,rush,James Conner
+17,17,Ravens,2020-11-01,PIT,Loss,24,28,4,8,pass,Chase Claypool
+18,18,Ravens,2020-11-08,IND,Win,24,10,1,1,rush,Jonathan Taylor
+19,19,Ravens,2020-11-15,NWE,Loss,17,23,2,7,pass,Rex Burkhead
+20,20,Ravens,2020-11-15,NWE,Loss,17,23,2,24,pass,Rex Burkhead
+21,21,Ravens,2020-11-15,NWE,Loss,17,23,3,4,rush,Cam Newton
+22,22,Ravens,2020-11-22,TEN,Loss,24,30,1,1,pass,Jonnu Smith
+23,23,Ravens,2020-11-22,TEN,Loss,24,30,4,14,pass,A.J. Brown
+24,24,Ravens,2020-11-22,TEN,Loss,24,30,5,29,rush,Derrick Henry
+25,25,Ravens,2020-12-02,PIT,Loss,14,19,1,14,interception,Joe Haden
+26,26,Ravens,2020-12-02,PIT,Loss,14,19,4,1,pass,JuJu Smith-Schuster
+27,27,Ravens,2020-12-08,DAL,Win,34,17,2,13,pass,Michael Gallup
+28,28,Ravens,2020-12-08,DAL,Win,34,17,4,2,pass,Amari Cooper
+29,29,Ravens,2020-12-14,CLE,Win,47,42,1,7,rush,Nick Chubb
+30,30,Ravens,2020-12-14,CLE,Win,47,42,2,14,rush,Nick Chubb
+31,31,Ravens,2020-12-14,CLE,Win,47,42,3,5,rush,Kareem Hunt
+32,32,Ravens,2020-12-14,CLE,Win,47,42,4,21,pass,Rashard Higgins
+33,33,Ravens,2020-12-14,CLE,Win,47,42,4,5,rush,Baker Mayfield
+34,34,Ravens,2020-12-14,CLE,Win,47,42,4,22,pass,Kareem Hunt
+35,35,Ravens,2020-12-20,JAX,Win,40,14,3,17,pass,James Robinson
+36,36,Ravens,2020-12-20,JAX,Win,40,14,4,13,pass,Chris Conley
+37,37,Ravens,2020-12-27,NYG,Win,27,13,4,3,pass,Sterling Shepard

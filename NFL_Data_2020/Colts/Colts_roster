@@ -1,71 +1,71 @@
-Player,No.,Team,Age,Pos,G,GS,Wt,Ht,College/Univ,BirthDate,Yrs,AV,Drafted (tm/rnd/yr),Salary
-Matthew Adams,49.0,Colts,25.0,LB,9,0.0,230.0,6-0,Houston,12/12/1995,2,1.0,Indianapolis Colts / 7th / 221st pick / 2018,"$644,118"
-Mo Alie-Cox,81.0,Colts,27.0,TE,15,6.0,267.0,6-5,Virginia Commonwealth,9/19/1993,2,4.0,,"$750,000"
-Ryan Allen,6.0,Colts,30.0,P,2,0.0,220.0,6-2,Louisiana Tech,2/28/1990,7,0.0,,
-Denico Autry,96.0,Colts,30.0,RDE,14,13.0,285.0,6-5,"East Mississippi CC,Mississippi St.",7/15/1990,6,6.0,,"$5,300,000"
-Ben Banogu,52.0,Colts,24.0,LB,9,0.0,252.0,6-3,TCU,1/19/1996,1,1.0,Indianapolis Colts / 2nd / 49th pick / 2019,"$765,205"
-Julian Blackmon,32.0,Colts,22.0,FS,15,14.0,202.0,6-0,Utah,8/24/1998,Rook,5.0,Indianapolis Colts / 3rd / 85th pick / 2020,"$610,000"
-Rodrigo Blankenship,3.0,Colts,23.0,K,16,0.0,184.0,6-1,Georgia,1/29/1997,Rook,3.0,,"$610,000"
-Jacoby Brissett,7.0,Colts,28.0,QB,11,0.0,235.0,6-4,"Florida,North Carolina St.",12/11/1992,4,0.0,New England Patriots / 3rd / 91st pick / 2016,"$6,000,000"
-DeForest Buckner,99.0,Colts,26.0,LDT,15,14.0,295.0,6-7,Oregon,3/17/1994,4,15.0,San Francisco 49ers / 1st / 7th pick / 2016,"$12,378,000"
-Trey Burton,80.0,Colts,29.0,TE,13,4.0,238.0,6-2,Florida,10/29/1991,6,2.0,,"$910,000"
-Ibraheim Campbell,33.0,Colts,28.0,DB,5,0.0,210.0,5-11,Northwestern,5/13/1992,5,0.0,Cleveland Browns / 4th / 115th pick / 2015,"$802,935"
-Parris Campbell,15.0,Colts,23.0,WR,2,2.0,205.0,6-1,Ohio St.,7/16/1997,1,1.0,Indianapolis Colts / 2nd / 59th pick / 2019,"$712,088"
-T.J. Carrie,38.0,Colts,30.0,DB,15,2.0,204.0,6-0,Ohio,7/28/1990,6,2.0,Oakland Raiders / 7th / 219th pick / 2014,"$910,000"
-Anthony Castonzo,74.0,Colts,32.0,LT,12,12.0,307.0,6-7,Boston Col.,8/9/1988,9,7.0,Indianapolis Colts / 1st / 22nd pick / 2011,"$7,000,000"
-Le'Raven Clark,62.0,Colts,27.0,T,12,3.0,319.0,6-5,Texas Tech,4/22/1993,4,2.0,Indianapolis Colts / 3rd / 82nd pick / 2016,"$1,200,000"
-Kameron Cline,92.0,Colts,22.0,DT,1,0.0,283.0,6-4,South Dakota,2/19/1998,Rook,0.0,,
-Sheldon Day,91.0,Colts,26.0,DT,4,0.0,294.0,6-1,Notre Dame,7/1/1994,4,0.0,Jacksonville Jaguars / 4th / 103rd pick / 2016,"$1,000,000"
-Jack Doyle,84.0,Colts,30.0,TE,14,12.0,262.0,6-6,Western Kentucky,5/5/1990,7,2.0,,"$1,250,000"
-Ashton Dulin,16.0,Colts,23.0,WR,13,0.0,215.0,6-2,Malone,5/15/1997,1,1.0,,"$542,648"
-Jake Eldrenkamp,60.0,Colts,26.0,C,2,0.0,300.0,6-5,Washington,3/4/1994,Rook,0.0,,"$585,000"
-Daurice Fountain,10.0,Colts,25.0,WR,5,0.0,210.0,6-2,Northern Iowa,12/22/1995,2,0.0,Indianapolis Colts / 5th / 159th pick / 2018,"$635,296"
-Zaire Franklin,44.0,Colts,24.0,LB,16,2.0,235.0,6-0,Syracuse,7/2/1996,2,2.0,Indianapolis Colts / 7th / 235th pick / 2018,"$750,000"
-Jordan Glasgow,59.0,Colts,24.0,LB,13,0.0,226.0,6-1,Michigan,6/28/1996,Rook,1.0,Indianapolis Colts / 6th / 213th pick / 2020,"$610,000"
-Mark Glowinski,64.0,Colts,28.0,RG,16,16.0,310.0,6-4,"Lackawanna,West Virginia",5/3/1992,5,8.0,Seattle Seahawks / 4th / 134th pick / 2015,"$5,000,000"
-Chaz Green,75.0,Colts,28.0,T,15,1.0,318.0,6-5,Florida,4/8/1992,4,2.0,Dallas Cowboys / 3rd / 91st pick / 2015,"$910,000"
-Farrod Green,41.0,Colts,23.0,TE,1,0.0,240.0,6-4,Mississippi St.,6/10/1997,Rook,0.0,,
-DeMichael Harris,12.0,Colts,22.0,WR,7,0.0,178.0,5-8,Southern Miss,7/12/1998,Rook,1.0,,
-T.Y. Hilton,13.0,Colts,31.0,WR,15,15.0,183.0,5-10,Florida International,11/14/1989,8,7.0,Indianapolis Colts / 3rd / 92nd pick / 2012,"$14,542,000"
-Nyheim Hines,21.0,Colts,24.0,RB,16,2.0,196.0,5-9,North Carolina St.,11/12/1996,2,7.0,Indianapolis Colts / 4th / 104th pick / 2018,"$750,000"
-Will Holden,69.0,Colts,27.0,T,1,1.0,312.0,6-7,Vanderbilt,9/14/1993,3,1.0,Arizona Cardinals / 5th / 157th pick / 2017,
-Malik Hooker,29.0,Colts,24.0,DB,2,2.0,212.0,6-2,Ohio St.,4/2/1996,3,1.0,Indianapolis Colts / 1st / 15th pick / 2017,"$2,183,169"
-Justin Houston,50.0,Colts,31.0,LDE,16,16.0,270.0,6-3,Georgia,1/21/1989,9,8.0,Kansas City Chiefs / 3rd / 70th pick / 2011,"$8,000,000"
-Joey Hunt,68.0,Colts,26.0,C,1,0.0,299.0,6-2,TCU,2/22/1994,4,0.0,Seattle Seahawks / 6th / 215th pick / 2016,
-Marcus Johnson,83.0,Colts,26.0,WR,11,3.0,207.0,6-1,Texas,8/5/1994,3,2.0,,"$582,353"
-Ryan Kelly,78.0,Colts,27.0,C,15,15.0,307.0,6-4,Alabama,5/30/1993,4,11.0,Indianapolis Colts / 1st / 18th pick / 2016,"$5,350,000"
-Shaquille Leonard,53.0,Colts,25.0,LLB,14,14.0,230.0,6-2,South Carolina St.,7/27/1995,2,14.0,Indianapolis Colts / 2nd / 36th pick / 2018,"$1,138,891"
-Tyquan Lewis,94.0,Colts,25.0,DE,16,4.0,267.0,6-3,Ohio St.,1/30/1995,2,3.0,Indianapolis Colts / 2nd / 64th pick / 2018,"$876,914"
-Marlon Mack,25.0,Colts,24.0,RB,1,1.0,210.0,5-11,South Florida,3/7/1996,3,0.0,Indianapolis Colts / 4th / 143rd pick / 2017,"$2,133,000"
-Cassius Marsh,55.0,Colts,28.0,DE,3,0.0,254.0,6-4,UCLA,7/7/1992,6,0.0,Seattle Seahawks / 4th / 108th pick / 2014,
-Kenny Moore,23.0,Colts,25.0,LCB,16,14.0,190.0,5-9,Valdosta St.,8/23/1995,3,5.0,,"$5,750,000"
-Al-Quadin Muhammad,97.0,Colts,25.0,DE,16,0.0,250.0,6-4,Miami (FL),3/28/1995,3,1.0,New Orleans Saints / 6th / 196th pick / 2017,"$2,133,000"
-Quenton Nelson,56.0,Colts,24.0,LG,16,16.0,330.0,6-5,Notre Dame,3/19/1996,2,14.0,Indianapolis Colts / 1st / 6th pick / 2018,"$750,000"
-George Odum,30.0,Colts,27.0,DB,16,0.0,202.0,6-1,Central Arkansas,11/3/1993,2,6.0,,"$750,000"
-Bobby Okereke,58.0,Colts,24.0,RLB,14,8.0,235.0,6-1,Stanford,7/29/1996,1,4.0,Indianapolis Colts / 3rd / 89th pick / 2019,"$675,000"
-Zach Pascal,14.0,Colts,26.0,WR,16,14.0,215.0,6-2,Old Dominion,12/18/1994,2,6.0,,"$750,000"
-Dezmon Patmon,85.0,Colts,22.0,WR,1,0.0,220.0,6-4,Washington St.,8/6/1998,Rook,0.0,Indianapolis Colts / 6th / 212th pick / 2020,"$610,000"
-Danny Pinter,63.0,Colts,24.0,G,13,1.0,301.0,6-4,Ball St.,6/19/1996,Rook,1.0,Indianapolis Colts / 5th / 149th pick / 2020,"$610,000"
-Michael Pittman Jr.,11.0,Colts,23.0,WR,13,8.0,223.0,6-4,USC,10/5/1997,Rook,5.0,Indianapolis Colts / 2nd / 34th pick / 2020,
-Luke Rhodes,46.0,Colts,28.0,LS,16,0.0,238.0,6-2,William & Mary,12/2/1992,4,6.0,,"$910,000"
-Xavier Rhodes,27.0,Colts,30.0,RCB,16,16.0,218.0,6-1,Florida St.,6/19/1990,7,5.0,Minnesota Vikings / 1st / 25th pick / 2013,"$1,500,000"
-Philip Rivers,17.0,Colts,39.0,QB,16,16.0,228.0,6-5,North Carolina St.,12/8/1981,16,13.0,New York Giants / 1st / 4th pick / 2004,"$13,000,000"
-Isaiah Rodgers,34.0,Colts,22.0,CB,13,0.0,170.0,5-10,Massachusetts,1/7/1998,Rook,2.0,Indianapolis Colts / 6th / 211th pick / 2020,"$610,000"
-Rigoberto Sanchez,8.0,Colts,26.0,K,14,0.0,195.0,6-0,Hawaii,9/8/1994,3,2.0,,"$2,000,000"
-Braden Smith,72.0,Colts,24.0,RT,14,14.0,312.0,6-6,Auburn,3/25/1996,2,8.0,Indianapolis Colts / 2nd / 37th pick / 2018,"$1,133,972"
-Tremon Smith,35.0,Colts,24.0,DB,10,0.0,190.0,6-0,Central Arkansas,7/20/1996,2,0.0,Kansas City Chiefs / 6th / 196th pick / 2018,"$661,770"
-E.J. Speed,45.0,Colts,25.0,LB,15,0.0,227.0,6-4,Tarleton St.,6/1/1995,1,1.0,Indianapolis Colts / 5th / 164th pick / 2019,"$675,000"
-Taylor Stallworth,76.0,Colts,25.0,DT,16,1.0,300.0,6-2,South Carolina,8/18/1995,2,2.0,,"$750,000"
-Grover Stewart,90.0,Colts,27.0,RDT,16,16.0,314.0,6-4,Albany State (GA),10/20/1993,3,7.0,Indianapolis Colts / 4th / 144th pick / 2017,"$2,133,000"
-Jonathan Taylor,28.0,Colts,21.0,RB,15,13.0,226.0,5-10,Wisconsin,1/19/1999,Rook,11.0,Indianapolis Colts / 2nd / 41st pick / 2020,"$610,000"
-Noah Togiai,86.0,Colts,23.0,TE,4,0.0,244.0,6-4,Oregon St.,7/6/1997,Rook,0.0,,"$610,000"
-Kemoko Turay,57.0,Colts,25.0,LB,7,0.0,248.0,6-5,Rutgers,7/11/1995,2,1.0,Indianapolis Colts / 2nd / 52nd pick / 2018,"$954,400"
-Jared Veldheer,65.0,Colts,33.0,T,1,1.0,321.0,6-8,Hillsdale,6/14/1987,10,1.0,Oakland Raiders / 3rd / 69th pick / 2010,
-Anthony Walker,54.0,Colts,25.0,MLB,16,16.0,235.0,6-1,Northwestern,8/8/1995,3,7.0,Indianapolis Colts / 5th / 161st pick / 2017,"$2,133,000"
-J'Marcus Webb,73.0,Colts,32.0,T,1,0.0,320.0,6-7,"Texas,Navarro,West Texas A&M",8/8/1988,10,0.0,Chicago Bears / 7th / 218th pick / 2010,
-Jordan Wilkins,20.0,Colts,26.0,RB,15,0.0,216.0,6-1,Mississippi,7/18/1994,2,3.0,Indianapolis Colts / 5th / 169th pick / 2018,"$750,000"
-Khari Willis,37.0,Colts,24.0,SS,14,14.0,213.0,5-11,Michigan St.,5/7/1996,1,5.0,Indianapolis Colts / 4th / 109th pick / 2019,"$675,000"
-Tavon Wilson,31.0,Colts,30.0,DB,15,2.0,208.0,6-0,Illinois,3/19/1990,8,1.0,New England Patriots / 2nd / 48th pick / 2012,"$1,050,000"
-Robert Windsor,93.0,Colts,23.0,DT,2,0.0,290.0,6-5,Penn St.,1/15/1997,Rook,0.0,Indianapolis Colts / 6th / 193rd pick / 2020,
-Rock Ya-Sin,34.0,Colts,24.0,LCB,13,8.0,195.0,5-11,Temple,5/23/1996,1,3.0,Indianapolis Colts / 2nd / 34th pick / 2019,"$854,839"
-Team Total,,Colts,26.1,,16,,245.6,6-2.4,,,3.2,,,
+,No.,Player,BirthDate,Age,Height,Weight,College/University,Position,Games_Played_in_Season,Games_Started_in_Season,NFL_Years,Player_Value,Team,Year
+0,49.0,Matthew Adams,12/12/1995,25.0,6-0,230.0,Houston,LB,9,0.0,2.0,1.0,Colts,2020
+1,81.0,Mo Alie-Cox,9/19/1993,27.0,6-5,267.0,Virginia Commonwealth,TE,15,6.0,2.0,4.0,Colts,2020
+2,6.0,Ryan Allen,2/28/1990,30.0,6-2,220.0,Louisiana Tech,P,2,0.0,7.0,0.0,Colts,2020
+3,96.0,Denico Autry,7/15/1990,30.0,6-5,285.0,"East Mississippi CC,Mississippi St.",RDE,14,13.0,6.0,6.0,Colts,2020
+4,52.0,Ben Banogu,1/19/1996,24.0,6-3,252.0,TCU,LB,9,0.0,1.0,1.0,Colts,2020
+5,32.0,Julian Blackmon,8/24/1998,22.0,6-0,202.0,Utah,FS,15,14.0,0.0,5.0,Colts,2020
+6,3.0,Rodrigo Blankenship,1/29/1997,23.0,6-1,184.0,Georgia,K,16,0.0,0.0,3.0,Colts,2020
+7,7.0,Jacoby Brissett,12/11/1992,28.0,6-4,235.0,"Florida,North Carolina St.",QB,11,0.0,4.0,0.0,Colts,2020
+8,99.0,DeForest Buckner,3/17/1994,26.0,6-7,295.0,Oregon,LDT,15,14.0,4.0,15.0,Colts,2020
+9,80.0,Trey Burton,10/29/1991,29.0,6-2,238.0,Florida,TE,13,4.0,6.0,2.0,Colts,2020
+10,33.0,Ibraheim Campbell,5/13/1992,28.0,5-11,210.0,Northwestern,DB,5,0.0,5.0,0.0,Colts,2020
+11,15.0,Parris Campbell,7/16/1997,23.0,6-1,205.0,Ohio St.,WR,2,2.0,1.0,1.0,Colts,2020
+12,38.0,T.J. Carrie,7/28/1990,30.0,6-0,204.0,Ohio,DB,15,2.0,6.0,2.0,Colts,2020
+13,74.0,Anthony Castonzo,8/9/1988,32.0,6-7,307.0,Boston Col.,LT,12,12.0,9.0,7.0,Colts,2020
+14,62.0,Le'Raven Clark,4/22/1993,27.0,6-5,319.0,Texas Tech,T,12,3.0,4.0,2.0,Colts,2020
+15,92.0,Kameron Cline,2/19/1998,22.0,6-4,283.0,South Dakota,DT,1,0.0,0.0,0.0,Colts,2020
+16,91.0,Sheldon Day,7/1/1994,26.0,6-1,294.0,Notre Dame,DT,4,0.0,4.0,0.0,Colts,2020
+17,84.0,Jack Doyle,5/5/1990,30.0,6-6,262.0,Western Kentucky,TE,14,12.0,7.0,2.0,Colts,2020
+18,16.0,Ashton Dulin,5/15/1997,23.0,6-2,215.0,Malone,WR,13,0.0,1.0,1.0,Colts,2020
+19,60.0,Jake Eldrenkamp,3/4/1994,26.0,6-5,300.0,Washington,C,2,0.0,0.0,0.0,Colts,2020
+20,10.0,Daurice Fountain,12/22/1995,25.0,6-2,210.0,Northern Iowa,WR,5,0.0,2.0,0.0,Colts,2020
+21,44.0,Zaire Franklin,7/2/1996,24.0,6-0,235.0,Syracuse,LB,16,2.0,2.0,2.0,Colts,2020
+22,59.0,Jordan Glasgow,6/28/1996,24.0,6-1,226.0,Michigan,LB,13,0.0,0.0,1.0,Colts,2020
+23,64.0,Mark Glowinski,5/3/1992,28.0,6-4,310.0,"Lackawanna,West Virginia",RG,16,16.0,5.0,8.0,Colts,2020
+24,75.0,Chaz Green,4/8/1992,28.0,6-5,318.0,Florida,T,15,1.0,4.0,2.0,Colts,2020
+25,41.0,Farrod Green,6/10/1997,23.0,6-4,240.0,Mississippi St.,TE,1,0.0,0.0,0.0,Colts,2020
+26,12.0,DeMichael Harris,7/12/1998,22.0,5-8,178.0,"Hinds CC,Southern Miss",WR,7,0.0,0.0,1.0,Colts,2020
+27,13.0,T.Y. Hilton,11/14/1989,31.0,5-10,183.0,Florida International,WR,15,15.0,8.0,7.0,Colts,2020
+28,21.0,Nyheim Hines,11/12/1996,24.0,5-9,196.0,North Carolina St.,RB,16,2.0,2.0,7.0,Colts,2020
+29,69.0,Will Holden,9/14/1993,27.0,6-7,312.0,Vanderbilt,T,1,1.0,3.0,1.0,Colts,2020
+30,29.0,Malik Hooker,4/2/1996,24.0,6-2,212.0,Ohio St.,DB,2,2.0,3.0,1.0,Colts,2020
+31,50.0,Justin Houston,1/21/1989,31.0,6-3,270.0,Georgia,LDE,16,16.0,9.0,8.0,Colts,2020
+32,68.0,Joey Hunt,2/22/1994,26.0,6-2,299.0,TCU,C,1,0.0,4.0,0.0,Colts,2020
+33,83.0,Marcus Johnson,8/5/1994,26.0,6-1,207.0,Texas,WR,11,3.0,3.0,2.0,Colts,2020
+34,78.0,Ryan Kelly,5/30/1993,27.0,6-4,307.0,Alabama,C,15,15.0,4.0,11.0,Colts,2020
+35,53.0,Shaquille Leonard,7/27/1995,25.0,6-2,230.0,South Carolina St.,LLB,14,14.0,2.0,14.0,Colts,2020
+36,94.0,Tyquan Lewis,1/30/1995,25.0,6-3,267.0,Ohio St.,DE,16,4.0,2.0,3.0,Colts,2020
+37,25.0,Marlon Mack,3/7/1996,24.0,5-11,210.0,South Florida,RB,1,1.0,3.0,0.0,Colts,2020
+38,55.0,Cassius Marsh,7/7/1992,28.0,6-4,254.0,UCLA,DE,3,0.0,6.0,0.0,Colts,2020
+39,23.0,Kenny Moore,8/23/1995,25.0,5-9,190.0,Valdosta St.,LCB,16,14.0,3.0,5.0,Colts,2020
+40,97.0,Al-Quadin Muhammad,3/28/1995,25.0,6-4,250.0,Miami (FL),DE,16,0.0,3.0,1.0,Colts,2020
+41,56.0,Quenton Nelson,3/19/1996,24.0,6-5,330.0,Notre Dame,LG,16,16.0,2.0,14.0,Colts,2020
+42,30.0,George Odum,11/3/1993,27.0,6-1,202.0,Central Arkansas,DB,16,0.0,2.0,6.0,Colts,2020
+43,58.0,Bobby Okereke,7/29/1996,24.0,6-1,235.0,Stanford,RLB,14,8.0,1.0,4.0,Colts,2020
+44,14.0,Zach Pascal,12/18/1994,26.0,6-2,215.0,Old Dominion,WR,16,14.0,2.0,6.0,Colts,2020
+45,85.0,Dezmon Patmon,8/6/1998,22.0,6-4,220.0,Washington St.,WR,1,0.0,0.0,0.0,Colts,2020
+46,63.0,Danny Pinter,6/19/1996,24.0,6-4,301.0,Ball St.,G,13,1.0,0.0,1.0,Colts,2020
+47,11.0,Michael Pittman Jr.,10/5/1997,23.0,6-4,223.0,USC,WR,13,8.0,0.0,5.0,Colts,2020
+48,46.0,Luke Rhodes,12/2/1992,28.0,6-2,238.0,William & Mary,LB,16,0.0,4.0,6.0,Colts,2020
+49,27.0,Xavier Rhodes,6/19/1990,30.0,6-1,218.0,Florida St.,RCB,16,16.0,7.0,5.0,Colts,2020
+50,17.0,Philip Rivers,12/8/1981,39.0,6-5,228.0,North Carolina St.,QB,16,16.0,16.0,13.0,Colts,2020
+51,34.0,Isaiah Rodgers,1/7/1998,22.0,5-10,170.0,Massachusetts,CB,13,0.0,0.0,2.0,Colts,2020
+52,8.0,Rigoberto Sanchez,9/8/1994,26.0,6-0,195.0,Hawaii,P,14,0.0,3.0,2.0,Colts,2020
+53,72.0,Braden Smith,3/25/1996,24.0,6-6,312.0,Auburn,RT,14,14.0,2.0,8.0,Colts,2020
+54,35.0,Tremon Smith,7/20/1996,24.0,6-0,190.0,Central Arkansas,DB,10,0.0,2.0,0.0,Colts,2020
+55,45.0,E.J. Speed,6/1/1995,25.0,6-4,227.0,Tarleton St.,LB,15,0.0,1.0,1.0,Colts,2020
+56,76.0,Taylor Stallworth,8/18/1995,25.0,6-2,300.0,South Carolina,DT,16,1.0,2.0,2.0,Colts,2020
+57,90.0,Grover Stewart,10/20/1993,27.0,6-4,314.0,Albany State (GA),RDT,16,16.0,3.0,7.0,Colts,2020
+58,28.0,Jonathan Taylor,1/19/1999,21.0,5-10,226.0,Wisconsin,RB,15,13.0,0.0,11.0,Colts,2020
+59,86.0,Noah Togiai,7/6/1997,23.0,6-4,244.0,Oregon St.,TE,4,0.0,0.0,0.0,Colts,2020
+60,57.0,Kemoko Turay,7/11/1995,25.0,6-5,248.0,Rutgers,LB,7,0.0,2.0,1.0,Colts,2020
+61,65.0,Jared Veldheer,6/14/1987,33.0,6-8,321.0,Hillsdale,T,1,1.0,10.0,1.0,Colts,2020
+62,54.0,Anthony Walker,8/8/1995,25.0,6-1,235.0,Northwestern,MLB,16,16.0,3.0,7.0,Colts,2020
+63,73.0,J'Marcus Webb,8/8/1988,32.0,6-7,320.0,"Texas,Navarro,West Texas A&M",T,1,0.0,10.0,0.0,Colts,2020
+64,20.0,Jordan Wilkins,7/18/1994,26.0,6-1,216.0,Mississippi,RB,15,0.0,2.0,3.0,Colts,2020
+65,37.0,Khari Willis,5/7/1996,24.0,5-11,213.0,Michigan St.,SS,14,14.0,1.0,5.0,Colts,2020
+66,31.0,Tavon Wilson,3/19/1990,30.0,6-0,208.0,Illinois,DB,15,2.0,8.0,1.0,Colts,2020
+67,93.0,Robert Windsor,1/15/1997,23.0,6-5,290.0,Penn St.,DT,2,0.0,0.0,0.0,Colts,2020
+68,34.0,Rock Ya-Sin,5/23/1996,24.0,5-11,195.0,Temple,LCB,13,8.0,1.0,3.0,Colts,2020
+69,,Team Total,,26.1,6-2.4,245.6,,,16,,3.2,,Colts,2020

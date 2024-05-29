@@ -1,6 +1,6 @@
-,No.,Team,Player,Age,Position,Games Played,Games Started,Punts Returned,Punts Return Yardage,Punts Returned for Touchdown,Longest Punt Return,Yards per Punt Return,Kickoff Returns,Yardage for Kickoffs Returned,Kickoffs Returned for a Touchdown,Longest Kickoff Return,Yards per Kickoff Return,All-purpose Yards,Year
-0,17,Vikings,K.J. Osborn,23,WR,9,0,7,27,0,8,3.9,14,303,0,38,21.6,330,2020
-1,31,Vikings,Ameer Abdullah,27,RB,16,0,0,0,0,0,,15,352,0,33,23.5,452,2020
-2,12,Vikings,Chad Beebe,26,WR,14,0,9,42,0,13,4.7,1,19,0,19,19.0,262,2020
-3,30,Vikings,C.J. Ham,27,FB,15,11,0,0,0,0,,2,31,0,20,15.5,146,2020
-4,23,Vikings,Mike Boone,25,RB,16,0,0,0,0,0,,1,17,0,17,17.0,86,2020
+,No.,Player,Age,Position,Games Played,Games Started,Punts Returned,Punts Return Yardage,Punts Returned for Touchdown,Longest Punt Return,Yards per Punt Return,Kickoff Returns,Yardage for Kickoffs Returned,Kickoffs Returned for a Touchdown,Longest Kickoff Return,Yards per Kickoff Return,All-purpose Yards,Team,Year
+17,17,K.J. Osborn,23,WR,9,0,7,27,0,8,3.9,14,303,0,38,21.6,330,Vikings,2020
+31,31,Ameer Abdullah,27,RB,16,0,0,0,0,0,0.0,15,352,0,33,23.5,452,Vikings,2020
+12,12,Chad Beebe,26,WR,14,0,9,42,0,13,4.7,1,19,0,19,19.0,262,Vikings,2020
+30,30,C.J. Ham,27,FB,15,11,0,0,0,0,0.0,2,31,0,20,15.5,146,Vikings,2020
+23,23,Mike Boone,25,RB,16,0,0,0,0,0,0.0,1,17,0,17,17.0,86,Vikings,2020

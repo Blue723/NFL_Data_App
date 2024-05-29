@@ -1,4 +1,4 @@
-,No.,Team,Player,Age,Position,Games Played,Games Started,Punts Returned,Punts Return Yardage,Punts Returned for Touchdown,Longest Punt Return,Yards per Punt Return,Kickoff Returns,Yardage for Kickoffs Returned,Kickoffs Returned for a Touchdown,Longest Kickoff Return,Yards per Kickoff Return,All-purpose Yards,Year
-0,14,Panthers,Pharoh Cooper,25,WR,16,1,20,117,0,20,5.9,18,430,0,38,23.9,620,2020
-1,36,Panthers,Trenton Cannon,26,RB,14,0,0,0,0,0,,10,298,0,98,29.8,347,2020
-2,16,Panthers,Brandon Zylstra,27,WR,16,2,0,0,0,0,,1,6,0,6,6.0,42,2020
+,No.,Player,Age,Position,Games Played,Games Started,Punts Returned,Punts Return Yardage,Punts Returned for Touchdown,Longest Punt Return,Yards per Punt Return,Kickoff Returns,Yardage for Kickoffs Returned,Kickoffs Returned for a Touchdown,Longest Kickoff Return,Yards per Kickoff Return,All-purpose Yards,Team,Year
+14,14,Pharoh Cooper,25,WR,16,1,20,117,0,20,5.9,18,430,0,38,23.9,620,Panthers,2020
+36,36,Trenton Cannon,26,RB,14,0,0,0,0,0,0.0,10,298,0,98,29.8,347,Panthers,2020
+16,16,Brandon Zylstra,27,WR,16,2,0,0,0,0,0.0,1,6,0,6,6.0,42,Panthers,2020

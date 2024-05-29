@@ -1,4 +1,4 @@
-,No.,Team,Player,Age,Position,Games Played,Games Started,Punts Returned,Punts Return Yardage,Punts Returned for Touchdown,Longest Punt Return,Yards per Punt Return,Kickoff Returns,Yardage for Kickoffs Returned,Kickoffs Returned for a Touchdown,Longest Kickoff Return,Yards per Kickoff Return,All-purpose Yards,Year
-0,15,Falcons,Brandon Powell,25,WR,15,1,17,152,0,24,8.9,17,343,0,29,20.2,571,2020
-1,14,Falcons,Chris Rowland,23,WR,2,0,0,0,0,0,,2,53,0,27,26.5,53,2020
-2,87,Falcons,Jaeden Graham,25,TE,16,0,0,0,0,0,,1,13,0,13,13.0,38,2020
+,No.,Player,Age,Position,Games Played,Games Started,Punts Returned,Punts Return Yardage,Punts Returned for Touchdown,Longest Punt Return,Yards per Punt Return,Kickoff Returns,Yardage for Kickoffs Returned,Kickoffs Returned for a Touchdown,Longest Kickoff Return,Yards per Kickoff Return,All-purpose Yards,Team,Year
+15,15,Brandon Powell,25,WR,15,1,17,152,0,24,8.9,17,343,0,29,20.2,571,Falcons,2020
+14,14,Chris Rowland,23,WR,2,0,0,0,0,0,0.0,2,53,0,27,26.5,53,Falcons,2020
+87,87,Jaeden Graham,25,TE,16,0,0,0,0,0,0.0,1,13,0,13,13.0,38,Falcons,2020

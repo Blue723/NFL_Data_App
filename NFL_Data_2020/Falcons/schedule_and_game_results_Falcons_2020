@@ -1,18 +1,17 @@
-,Week,Team,Day,Date,Time,Win/Loss,Overtime,Team Record,Home/Away,Opponent,Points Scored,Points Allowed,Offense 1st Down,Total Yards Gained of Offense,Total yards Gained by Passing,Total Yards Gained by Rushing,Offense Turnovers,Defense 1st Down,Total Yards Allowed by Defense,Total Passing Yards Allowed by Defense,Total Rushing Yards Allowed by Defense,Defense Turnovers,Offense,Defense,Sp. Tms,Year
-0,0,Falcons,Sun,September 13,,L,0,0-1,home,Seattle Seahawks,25,38,28,506,434,72,2,22,383,299,84,0,7.25,-21.28,-0.51,2020
-1,1,Falcons,Sun,September 20,,L,0,0-2,away,Dallas Cowboys,39,40,22,380,267,113,0,33,570,445,125,3,13.66,-17.31,1.38,2020
-2,2,Falcons,Sun,September 27,,L,0,0-3,home,Chicago Bears,26,30,22,371,227,144,1,24,437,307,130,2,5.82,-2.87,-5.24,2020
-3,3,Falcons,Mon,October 5,,L,0,0-4,away,Green Bay Packers,16,30,24,327,249,78,0,22,403,315,88,0,5.57,-19.46,-0.14,2020
-4,4,Falcons,Sun,October 11,,L,0,0-5,home,Carolina Panthers,16,23,21,373,207,166,1,24,437,313,124,0,6.82,-18.13,2.46,2020
-5,5,Falcons,Sun,October 18,,W,0,1-5,away,Minnesota Vikings,40,23,24,462,363,99,1,19,365,333,32,3,20.17,-0.99,0.84,2020
-6,6,Falcons,Sun,October 25,,L,0,1-6,home,Detroit Lions,22,23,26,388,322,66,1,21,386,322,64,0,10.84,-10.28,-2.56,2020
-7,7,Falcons,Thu,October 29,,W,0,2-6,away,Carolina Panthers,25,17,28,401,270,131,1,18,304,157,147,1,15.4,-2.21,-6.84,2020
-8,8,Falcons,Sun,November 8,,W,0,3-6,home,Denver Broncos,34,27,23,363,271,92,1,23,405,302,103,1,14.27,-4.44,0.15,2020
-9,9,Falcons,,,,,0,,home,<strong>Bye Week</strong>,0,0,0,0,0,0,0,0,0,0,0,0,,,,2020
-10,10,Falcons,Sun,November 22,,L,0,3-7,away,New Orleans Saints,9,24,14,248,196,52,2,24,376,210,166,1,-4.08,-12.49,8.6,2020
-11,11,Falcons,Sun,November 29,,W,0,4-7,home,Las Vegas Raiders,43,6,23,304,179,125,1,13,243,203,40,5,3.82,34.18,-4.76,2020
-12,12,Falcons,Sun,December 6,,L,0,4-8,home,New Orleans Saints,16,21,21,332,262,70,1,23,424,217,207,1,-0.46,-8.37,6.27,2020
-13,13,Falcons,Sun,December 13,,L,0,4-9,away,Los Angeles Chargers,17,20,19,319,249,70,3,23,345,240,105,1,5.82,-10.14,1.54,2020
-14,14,Falcons,Sun,December 20,,L,0,4-10,home,Tampa Bay Buccaneers,27,31,23,369,332,37,0,27,416,365,51,0,8.39,-20.21,4.28,2020
-15,15,Falcons,Sun,December 27,,L,0,4-11,away,Kansas City Chiefs,14,17,23,367,277,90,1,23,395,278,117,2,5.95,-5.3,-3.91,2020
-16,16,Falcons,Sun,January 3,,L,0,4-12,away,Tampa Bay Buccaneers,27,44,25,385,258,127,2,28,485,391,94,1,10.53,-29.28,-0.43,2020
+,Week,Day,Date,Time,Win/Loss,Overtime,Team Record,Home/Away,Opponent,Points Scored,Points Allowed,Offense 1st Down,Total Yards Gained of Offense,Total yards Gained by Passing,Total Yards Gained by Rushing,Offense Turnovers,Defense 1st Down,Total Yards Allowed by Defense,Total Passing Yards Allowed by Defense,Total Rushing Yards Allowed by Defense,Defense Turnovers,Offense,Defense,Sp. Tms,Team,Year
+0,1,Sun,2020-09-13,nan,Loss,0,0-1,home,Seattle Seahawks,25,38,28,506,434,72,2,22,383,299,84,0,7.25,-21.28,-0.51,Falcons,2020
+1,2,Sun,2020-09-20,nan,Loss,0,0-2,away,Dallas Cowboys,39,40,22,380,267,113,0,33,570,445,125,3,13.66,-17.31,1.38,Falcons,2020
+2,3,Sun,2020-09-27,nan,Loss,0,0-3,home,Chicago Bears,26,30,22,371,227,144,1,24,437,307,130,2,5.82,-2.87,-5.24,Falcons,2020
+3,4,Mon,2020-10-05,nan,Loss,0,0-4,away,Green Bay Packers,16,30,24,327,249,78,0,22,403,315,88,0,5.57,-19.46,-0.14,Falcons,2020
+4,5,Sun,2020-10-11,nan,Loss,0,0-5,home,Carolina Panthers,16,23,21,373,207,166,1,24,437,313,124,0,6.82,-18.13,2.46,Falcons,2020
+5,6,Sun,2020-10-18,nan,Win,0,1-5,away,Minnesota Vikings,40,23,24,462,363,99,1,19,365,333,32,3,20.17,-0.99,0.84,Falcons,2020
+6,7,Sun,2020-10-25,nan,Loss,0,1-6,home,Detroit Lions,22,23,26,388,322,66,1,21,386,322,64,0,10.84,-10.28,-2.56,Falcons,2020
+7,8,Thu,2020-10-29,nan,Win,0,2-6,away,Carolina Panthers,25,17,28,401,270,131,1,18,304,157,147,1,15.4,-2.21,-6.84,Falcons,2020
+8,9,Sun,2020-11-08,nan,Win,0,3-6,home,Denver Broncos,34,27,23,363,271,92,1,23,405,302,103,1,14.27,-4.44,0.15,Falcons,2020
+9,11,Sun,2020-11-22,nan,Loss,0,3-7,away,New Orleans Saints,9,24,14,248,196,52,2,24,376,210,166,1,-4.08,-12.49,8.6,Falcons,2020
+10,12,Sun,2020-11-29,nan,Win,0,4-7,home,Las Vegas Raiders,43,6,23,304,179,125,1,13,243,203,40,5,3.82,34.18,-4.76,Falcons,2020
+11,13,Sun,2020-12-06,nan,Loss,0,4-8,home,New Orleans Saints,16,21,21,332,262,70,1,23,424,217,207,1,-0.46,-8.37,6.27,Falcons,2020
+12,14,Sun,2020-12-13,nan,Loss,0,4-9,away,Los Angeles Chargers,17,20,19,319,249,70,3,23,345,240,105,1,5.82,-10.14,1.54,Falcons,2020
+13,15,Sun,2020-12-20,nan,Loss,0,4-10,home,Tampa Bay Buccaneers,27,31,23,369,332,37,0,27,416,365,51,0,8.39,-20.21,4.28,Falcons,2020
+14,16,Sun,2020-12-27,nan,Loss,0,4-11,away,Kansas City Chiefs,14,17,23,367,277,90,1,23,395,278,117,2,5.95,-5.3,-3.91,Falcons,2020
+15,17,Sun,2021-01-03,nan,Loss,0,4-12,away,Tampa Bay Buccaneers,27,44,25,385,258,127,2,28,485,391,94,1,10.53,-29.28,-0.43,Falcons,2020

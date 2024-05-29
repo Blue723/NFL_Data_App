@@ -1,72 +1,72 @@
-Player,No.,Team,Age,Pos,G,GS,Wt,Ht,College/Univ,BirthDate,Yrs,AV,Drafted (tm/rnd/yr),Salary
-Johnathan Abram,24.0,Raiders,24.0,SS,13,13.0,205.0,6-0,Mississippi St.,10/25/1996,1,5.0,Oakland Raiders / 1st / 27th pick / 2019,"$1,017,509"
-Nelson Agholor,15.0,Raiders,27.0,WR,16,13.0,200.0,6-0,USC,5/24/1993,5,8.0,Philadelphia Eagles / 1st / 20th pick / 2015,"$910,000"
-Damon Arnette,20.0,Raiders,24.0,CB,9,7.0,195.0,6-0,Ohio St.,9/2/1996,Rook,2.0,Las Vegas Raiders / 1st / 19th pick / 2020,"$437,058"
-Vic Beasley,51.0,Raiders,28.0,DE,5,0.0,246.0,6-3,Clemson,7/8/1992,5,0.0,Atlanta Falcons / 1st / 8th pick / 2015,
-Devontae Booker,23.0,Raiders,28.0,RB,16,1.0,219.0,5-11,Utah,5/27/1992,4,4.0,Denver Broncos / 4th / 136th pick / 2016,"$910,000"
-Trent Brown,77.0,Raiders,27.0,RT,5,5.0,370.0,6-8,"Georgia Military,Florida",4/13/1993,5,3.0,San Francisco 49ers / 7th / 244th pick / 2015,"$21,250,000"
-Daniel Carlson,2.0,Raiders,25.0,K,16,0.0,215.0,6-5,Auburn,1/23/1995,2,4.0,Minnesota Vikings / 5th / 167th pick / 2018,"$750,000"
-Derek Carr,4.0,Raiders,29.0,QB,16,16.0,215.0,6-3,Fresno St.,3/28/1991,6,14.0,Oakland Raiders / 2nd / 36th pick / 2014,"$18,900,000"
-Derek Carrier,85.0,Raiders,30.0,TE,16,0.0,240.0,6-3,Beloit,7/25/1990,7,0.0,,"$1,750,000"
-AJ Cole III,6.0,Raiders,25.0,P,16,0.0,220.0,6-4,North Carolina St.,11/27/1995,1,1.0,,
-Maliek Collins,97.0,Raiders,25.0,RDT,12,11.0,310.0,6-2,Nebraska,4/8/1995,4,4.0,Dallas Cowboys / 3rd / 67th pick / 2016,"$5,750,000"
-Maxx Crosby,98.0,Raiders,23.0,RDE,16,16.0,255.0,6-5,East. Michigan,8/22/1997,1,7.0,Oakland Raiders / 4th / 106th pick / 2019,"$610,000"
-Keelan Doss,18.0,Raiders,24.0,WR,1,0.0,215.0,6-3,UC Davis,3/21/1996,1,0.0,,
-Bryan Edwards,89.0,Raiders,22.0,WR,12,3.0,212.0,6-3,South Carolina,11/13/1998,Rook,2.0,Las Vegas Raiders / 3rd / 81st pick / 2020,"$610,000"
-Kyle Emanuel,52.0,Raiders,29.0,DE,1,0.0,250.0,6-3,North Dakota St.,8/16/1991,5,0.0,San Diego Chargers / 5th / 153rd pick / 2015,
-Clelin Ferrell,96.0,Raiders,23.0,LDE,11,11.0,265.0,6-4,Clemson,5/17/1997,1,4.0,Oakland Raiders / 1st / 4th pick / 2019,"$1,920,492"
-Rico Gafford,10.0,Raiders,24.0,DB,3,0.0,185.0,5-10,Wyoming,5/23/1996,2,0.0,,"$675,000"
-Rashaan Gaulden,33.0,Raiders,25.0,DB,2,0.0,200.0,6-0,Tennessee,1/23/1995,2,0.0,Carolina Panthers / 3rd / 85th pick / 2018,
-Denzelle Good,71.0,Raiders,29.0,LG,15,14.0,340.0,6-5,Mars Hill,3/8/1991,5,8.0,Indianapolis Colts / 7th / 255th pick / 2015,"$1,400,000"
-Johnathan Hankins,90.0,Raiders,28.0,LDT,16,16.0,320.0,6-2,Ohio St.,3/30/1992,7,7.0,New York Giants / 2nd / 49th pick / 2013,"$3,750,000"
-Erik Harris,25.0,Raiders,30.0,FS,14,12.0,225.0,6-2,California (PA),4/2/1990,4,4.0,,"$2,350,000"
-Jeff Heath,38.0,Raiders,29.0,FS,13,5.0,212.0,6-1,Saginaw Valley St.,5/14/1991,7,3.0,,"$2,850,000"
-Rodney Hudson,61.0,Raiders,31.0,C,16,16.0,315.0,6-2,Florida St.,7/12/1989,9,8.0,Kansas City Chiefs / 2nd / 55th pick / 2011,"$1,050,000"
-Maurice Hurst Jr.,73.0,Raiders,25.0,DT,11,3.0,290.0,6-2,Michigan,5/9/1995,2,2.0,Oakland Raiders / 5th / 140th pick / 2018,"$520,590"
-Richie Incognito,64.0,Raiders,37.0,G,2,2.0,322.0,6-4,"Nebraska,Oregon",7/5/1983,14,1.0,St. Louis Rams / 3rd / 81st pick / 2005,"$5,000,000"
-Alec Ingold,45.0,Raiders,24.0,FB,16,4.0,232.0,6-1,Wisconsin,7/9/1996,1,1.0,,"$675,000"
-David Irving,95.0,Raiders,27.0,DT,2,0.0,290.0,6-7,Iowa St.,8/18/1993,5,0.0,,
-Gabe Jackson,66.0,Raiders,29.0,RG,16,16.0,335.0,6-3,Mississippi St.,7/12/1991,6,8.0,Oakland Raiders / 3rd / 81st pick / 2014,"$9,350,000"
-Josh Jacobs,28.0,Raiders,22.0,RB,15,15.0,223.0,5-10,Alabama,2/11/1998,1,8.0,Oakland Raiders / 1st / 24th pick / 2019,"$1,037,427"
-Andre James,68.0,Raiders,23.0,T,16,0.0,300.0,6-4,UCLA,5/2/1997,1,1.0,,"$675,000"
-Isaiah Johnson,31.0,Raiders,25.0,DB,14,0.0,210.0,6-2,Houston,12/20/1995,1,1.0,Oakland Raiders / 4th / 129th pick / 2019,"$675,000"
-Datone Jones,95.0,Raiders,30.0,DE,1,0.0,285.0,6-4,UCLA,7/24/1990,7,0.0,Green Bay Packers / 1st / 26th pick / 2013,
-Zay Jones,12.0,Raiders,25.0,WR,16,2.0,200.0,6-2,East Carolina,3/30/1995,3,2.0,Buffalo Bills / 2nd / 37th pick / 2017,"$1,339,522"
-Jaryd Jones-Smith,72.0,Raiders,25.0,T,3,0.0,320.0,6-7,Pittsburgh,9/3/1995,Rook,0.0,,
-Lamarcus Joyner,29.0,Raiders,30.0,LLB,14,6.0,185.0,5-8,Florida St.,11/27/1990,6,5.0,St. Louis Rams / 2nd / 41st pick / 2014,"$4,600,000"
-Arden Key,99.0,Raiders,24.0,DE,14,0.0,240.0,6-5,LSU,5/3/1996,2,1.0,Oakland Raiders / 3rd / 87th pick / 2018,"$750,000"
-Nick Kwiatkoski,44.0,Raiders,27.0,MLB,12,12.0,242.0,6-2,West Virginia,5/26/1993,4,5.0,Chicago Bears / 4th / 113th pick / 2016,"$7,000,000"
-Nevin Lawson,26.0,Raiders,29.0,RCB,14,9.0,192.0,5-9,Utah St.,4/23/1991,6,3.0,Detroit Lions / 4th / 133rd pick / 2014,"$1,062,500"
-Dallin Leavitt,32.0,Raiders,26.0,DB,9,0.0,195.0,5-10,Utah St.,8/8/1994,2,0.0,,"$555,884"
-Cory Littleton,42.0,Raiders,27.0,RLB,14,14.0,225.0,6-3,Washington,11/18/1993,4,5.0,,"$910,000"
-Dylan Mabin,37.0,Raiders,23.0,DB,1,0.0,195.0,6-1,Fordham,9/14/1997,Rook,0.0,,
-Erik Magnuson,62.0,Raiders,26.0,G,1,0.0,300.0,6-6,Michigan,1/5/1994,3,0.0,,
-Marcus Mariota,8.0,Raiders,27.0,QB,1,0.0,222.0,6-4,Oregon,10/30/1993,5,1.0,Tennessee Titans / 1st / 2nd pick / 2015,"$7,500,000"
-Raekwon McMillan,54.0,Raiders,25.0,LB,16,4.0,250.0,6-2,Ohio St.,11/17/1995,2,2.0,Miami Dolphins / 2nd / 54th pick / 2017,"$1,105,573"
-Kolton Miller,74.0,Raiders,25.0,LT,14,14.0,325.0,6-8,UCLA,10/9/1995,2,8.0,Oakland Raiders / 1st / 15th pick / 2018,"$1,704,666"
-Foster Moreau,87.0,Raiders,23.0,TE,16,2.0,250.0,6-4,LSU,5/6/1997,1,1.0,Oakland Raiders / 4th / 137th pick / 2019,"$675,000"
-Nicholas Morrow,50.0,Raiders,25.0,LLB,14,11.0,216.0,6-0,Greenville,7/10/1995,3,5.0,,"$3,259,000"
-Trayvon Mullen,27.0,Raiders,23.0,LCB/RCB,16,16.0,190.0,6-2,Clemson,9/20/1997,1,5.0,Oakland Raiders / 2nd / 40th pick / 2019,"$824,961"
-Carl Nassib,94.0,Raiders,27.0,LDE,14,5.0,275.0,6-7,Penn St.,4/12/1993,4,3.0,Cleveland Browns / 3rd / 65th pick / 2016,"$7,500,000"
-Keisean Nixon,22.0,Raiders,23.0,DB,15,1.0,200.0,5-10,South Carolina,6/22/1997,1,1.0,,"$675,000"
-Patrick Omameh,78.0,Raiders,31.0,G,6,0.0,327.0,6-4,Michigan,12/29/1989,6,0.0,,"$926,471"
-James Onwualu,59.0,Raiders,26.0,LB,2,0.0,235.0,6-1,Notre Dame,9/4/1994,3,0.0,,
-Brandon Parker,75.0,Raiders,25.0,T,11,4.0,320.0,6-8,North Carolina A&T,10/21/1995,2,3.0,Oakland Raiders / 3rd / 65th pick / 2018,"$852,304"
-Nathan Peterman,3.0,Raiders,26.0,QB,1,0.0,225.0,6-2,"Tennessee,Pittsburgh",5/4/1994,3,0.0,Buffalo Bills / 5th / 171st pick / 2017,"$1,000,000"
-Hunter Renfrow,13.0,Raiders,25.0,WR,16,6.0,185.0,5-10,Clemson,12/21/1995,1,6.0,Oakland Raiders / 5th / 149th pick / 2019,"$675,000"
-Jalen Richard,30.0,Raiders,27.0,RB,13,0.0,207.0,5-8,Southern Miss,10/15/1993,4,2.0,,"$3,375,000"
-Theo Riddick,35.0,Raiders,29.0,RB,4,0.0,201.0,5-9,Notre Dame,5/4/1991,7,0.0,Detroit Lions / 6th / 199th pick / 2013,"$481,765"
-Amik Robertson,21.0,Raiders,22.0,CB,8,0.0,183.0,5-9,Louisiana Tech,7/6/1998,Rook,0.0,Las Vegas Raiders / 4th / 139th pick / 2020,"$610,000"
-Daniel Ross,93.0,Raiders,27.0,DT,3,0.0,305.0,6-3,Northeast Mississippi CC,3/15/1993,3,0.0,,"$661,769"
-Henry Ruggs III,11.0,Raiders,21.0,WR,13,12.0,190.0,6-0,Alabama,1/24/1999,Rook,4.0,Las Vegas Raiders / 1st / 12th pick / 2020,
-Trent Sieg,47.0,Raiders,25.0,LS,16,0.0,240.0,6-3,Colorado St.,5/19/1995,2,1.0,,"$750,000"
-John Simpson,76.0,Raiders,23.0,G,7,2.0,330.0,6-4,Clemson,8/19/1997,Rook,1.0,Las Vegas Raiders / 4th / 109th pick / 2020,"$610,000"
-Chris Smith,92.0,Raiders,28.0,DE,8,0.0,266.0,6-1,Arkansas,2/11/1992,6,1.0,Jacksonville Jaguars / 5th / 159th pick / 2014,
-Kendal Vickers,91.0,Raiders,25.0,DE,15,2.0,295.0,6-3,Tennessee,5/23/1995,Rook,2.0,,"$610,000"
-Darren Waller,83.0,Raiders,28.0,TE,16,15.0,238.0,6-6,Georgia Tech,9/13/1992,5,11.0,Baltimore Ravens / 6th / 204th pick / 2015,"$7,280,000"
-Javin White,53.0,Raiders,23.0,LB,4,0.0,205.0,6-3,UNLV,2/21/1997,Rook,0.0,,"$574,118"
-Kyle Wilber,58.0,Raiders,31.0,LB,16,0.0,240.0,6-4,Wake Forest,4/26/1989,8,1.0,Dallas Cowboys / 4th / 113th pick / 2012,"$1,050,000"
-Jason Witten,82.0,Raiders,38.0,TE,16,7.0,263.0,6-6,Tennessee,5/6/1982,17,1.0,Dallas Cowboys / 3rd / 69th pick / 2003,"$3,500,000"
-Daryl Worley,36.0,Raiders,25.0,DB,2,1.0,210.0,6-1,West Virginia,2/22/1995,4,0.0,Carolina Panthers / 3rd / 77th pick / 2016,
-Sam Young,70.0,Raiders,33.0,RT,11,7.0,302.0,6-8,Notre Dame,6/24/1987,10,4.0,Dallas Cowboys / 6th / 179th pick / 2010,"$1,050,000"
-Team Total,,Raiders,26.4,,16,,247.2,6-2.4,,,3.6,,,
+,No.,Player,BirthDate,Age,Height,Weight,College/University,Position,Games_Played_in_Season,Games_Started_in_Season,NFL_Years,Player_Value,Team,Year
+0,24.0,Johnathan Abram,10/25/1996,24.0,6-0,205.0,Mississippi St.,SS,13,13.0,1.0,5.0,Raiders,2020
+1,15.0,Nelson Agholor,5/24/1993,27.0,6-0,200.0,USC,WR,16,13.0,5.0,8.0,Raiders,2020
+2,20.0,Damon Arnette,9/2/1996,24.0,6-0,195.0,Ohio St.,CB,9,7.0,0.0,2.0,Raiders,2020
+3,51.0,Vic Beasley,7/8/1992,28.0,6-3,246.0,Clemson,DE,5,0.0,5.0,0.0,Raiders,2020
+4,23.0,Devontae Booker,5/27/1992,28.0,5-11,219.0,Utah,RB,16,1.0,4.0,4.0,Raiders,2020
+5,77.0,Trent Brown,4/13/1993,27.0,6-8,370.0,"Georgia Military,Florida",RT,5,5.0,5.0,3.0,Raiders,2020
+6,2.0,Daniel Carlson,1/23/1995,25.0,6-5,215.0,Auburn,K,16,0.0,2.0,4.0,Raiders,2020
+7,4.0,Derek Carr,3/28/1991,29.0,6-3,215.0,Fresno St.,QB,16,16.0,6.0,14.0,Raiders,2020
+8,85.0,Derek Carrier,7/25/1990,30.0,6-3,240.0,Beloit,TE,16,0.0,7.0,0.0,Raiders,2020
+9,6.0,AJ Cole III,11/27/1995,25.0,6-4,220.0,North Carolina St.,P,16,0.0,1.0,1.0,Raiders,2020
+10,97.0,Maliek Collins,4/8/1995,25.0,6-2,310.0,Nebraska,RDT,12,11.0,4.0,4.0,Raiders,2020
+11,98.0,Maxx Crosby,8/22/1997,23.0,6-5,255.0,Eastern Michigan,RDE,16,16.0,1.0,7.0,Raiders,2020
+12,18.0,Keelan Doss,3/21/1996,24.0,6-3,215.0,UC Davis,WR,1,0.0,1.0,0.0,Raiders,2020
+13,89.0,Bryan Edwards,11/13/1998,22.0,6-3,212.0,South Carolina,WR,12,3.0,0.0,2.0,Raiders,2020
+14,52.0,Kyle Emanuel,8/16/1991,29.0,6-3,250.0,North Dakota St.,LB,1,0.0,5.0,0.0,Raiders,2020
+15,96.0,Clelin Ferrell,5/17/1997,23.0,6-4,265.0,Clemson,LDE,11,11.0,1.0,4.0,Raiders,2020
+16,10.0,Rico Gafford,5/23/1996,24.0,5-10,185.0,Wyoming,DB,3,0.0,2.0,0.0,Raiders,2020
+17,33.0,Rashaan Gaulden,1/23/1995,25.0,6-0,200.0,Tennessee,DB,2,0.0,2.0,0.0,Raiders,2020
+18,71.0,Denzelle Good,3/8/1991,29.0,6-5,340.0,Mars Hill,LG,15,14.0,5.0,8.0,Raiders,2020
+19,90.0,Johnathan Hankins,3/30/1992,28.0,6-2,320.0,Ohio St.,LDT,16,16.0,7.0,7.0,Raiders,2020
+20,25.0,Erik Harris,4/2/1990,30.0,6-2,225.0,California (PA),FS,14,12.0,4.0,4.0,Raiders,2020
+21,38.0,Jeff Heath,5/14/1991,29.0,6-1,212.0,Saginaw Valley St.,FS,13,5.0,7.0,3.0,Raiders,2020
+22,61.0,Rodney Hudson,7/12/1989,31.0,6-2,315.0,Florida St.,C,16,16.0,9.0,8.0,Raiders,2020
+23,73.0,Maurice Hurst Jr.,5/9/1995,25.0,6-2,290.0,Michigan,DT,11,3.0,2.0,2.0,Raiders,2020
+24,64.0,Richie Incognito,7/5/1983,37.0,6-4,322.0,"Nebraska,Oregon",G,2,2.0,14.0,1.0,Raiders,2020
+25,45.0,Alec Ingold,7/9/1996,24.0,6-1,232.0,Wisconsin,FB,16,4.0,1.0,1.0,Raiders,2020
+26,95.0,David Irving,8/18/1993,27.0,6-7,290.0,Iowa St.,DT,2,0.0,5.0,0.0,Raiders,2020
+27,66.0,Gabe Jackson,7/12/1991,29.0,6-3,335.0,Mississippi St.,RG,16,16.0,6.0,8.0,Raiders,2020
+28,28.0,Josh Jacobs,2/11/1998,22.0,5-10,223.0,Alabama,RB,15,15.0,1.0,8.0,Raiders,2020
+29,68.0,Andre James,5/2/1997,23.0,6-4,300.0,UCLA,T,16,0.0,1.0,1.0,Raiders,2020
+30,31.0,Isaiah Johnson,12/20/1995,25.0,6-2,210.0,Houston,DB,14,0.0,1.0,1.0,Raiders,2020
+31,95.0,Datone Jones,7/24/1990,30.0,6-4,285.0,UCLA,DE,1,0.0,7.0,0.0,Raiders,2020
+32,12.0,Zay Jones,3/30/1995,25.0,6-2,200.0,East Carolina,WR,16,2.0,3.0,2.0,Raiders,2020
+33,72.0,Jaryd Jones-Smith,9/3/1995,25.0,6-7,320.0,Pittsburgh,T,3,0.0,0.0,0.0,Raiders,2020
+34,29.0,Lamarcus Joyner,11/27/1990,30.0,5-8,185.0,Florida St.,LLB,14,6.0,6.0,5.0,Raiders,2020
+35,99.0,Arden Key,5/3/1996,24.0,6-5,240.0,LSU,DE,14,0.0,2.0,1.0,Raiders,2020
+36,44.0,Nick Kwiatkoski,5/26/1993,27.0,6-2,242.0,West Virginia,MLB,12,12.0,4.0,5.0,Raiders,2020
+37,26.0,Nevin Lawson,4/23/1991,29.0,5-9,192.0,Utah St.,RCB,14,9.0,6.0,3.0,Raiders,2020
+38,32.0,Dallin Leavitt,8/8/1994,26.0,5-10,195.0,Utah St.,DB,9,0.0,2.0,0.0,Raiders,2020
+39,42.0,Cory Littleton,11/18/1993,27.0,6-3,225.0,Washington,RLB,14,14.0,4.0,5.0,Raiders,2020
+40,37.0,Dylan Mabin,9/14/1997,23.0,6-1,195.0,Fordham,DB,1,0.0,0.0,0.0,Raiders,2020
+41,62.0,Erik Magnuson,1/5/1994,26.0,6-6,300.0,Michigan,G,1,0.0,3.0,0.0,Raiders,2020
+42,8.0,Marcus Mariota,10/30/1993,27.0,6-4,222.0,Oregon,QB,1,0.0,5.0,1.0,Raiders,2020
+43,54.0,Raekwon McMillan,11/17/1996,24.0,6-2,250.0,Ohio St.,LB,16,4.0,2.0,2.0,Raiders,2020
+44,74.0,Kolton Miller,9/2/1995,25.0,6-8,325.0,UCLA,LT,14,14.0,2.0,8.0,Raiders,2020
+45,87.0,Foster Moreau,5/6/1997,23.0,6-4,250.0,LSU,TE,16,2.0,1.0,1.0,Raiders,2020
+46,50.0,Nicholas Morrow,7/10/1995,25.0,6-0,216.0,Greenville,LLB,14,11.0,3.0,5.0,Raiders,2020
+47,27.0,Trayvon Mullen,9/20/1997,23.0,6-2,190.0,Clemson,LCB/RCB,16,16.0,1.0,5.0,Raiders,2020
+48,94.0,Carl Nassib,4/12/1993,27.0,6-7,275.0,Penn St.,LDE,14,5.0,4.0,3.0,Raiders,2020
+49,22.0,Keisean Nixon,6/22/1997,23.0,5-10,200.0,South Carolina,DB,15,1.0,1.0,1.0,Raiders,2020
+50,78.0,Patrick Omameh,12/29/1989,31.0,6-4,327.0,Michigan,G,6,0.0,6.0,0.0,Raiders,2020
+51,59.0,James Onwualu,9/4/1994,26.0,6-1,235.0,Notre Dame,LB,2,0.0,3.0,0.0,Raiders,2020
+52,75.0,Brandon Parker,10/21/1995,25.0,6-8,320.0,North Carolina A&T,T,11,4.0,2.0,3.0,Raiders,2020
+53,3.0,Nathan Peterman,5/4/1994,26.0,6-2,225.0,"Tennessee,Pittsburgh",QB,1,0.0,3.0,0.0,Raiders,2020
+54,13.0,Hunter Renfrow,12/21/1995,25.0,5-10,185.0,Clemson,WR,16,6.0,1.0,6.0,Raiders,2020
+55,30.0,Jalen Richard,10/15/1993,27.0,5-8,207.0,Southern Miss,RB,13,0.0,4.0,2.0,Raiders,2020
+56,35.0,Theo Riddick,5/4/1991,29.0,5-9,201.0,Notre Dame,RB,4,0.0,7.0,0.0,Raiders,2020
+57,21.0,Amik Robertson,7/6/1998,22.0,5-9,183.0,Louisiana Tech,CB,8,0.0,0.0,0.0,Raiders,2020
+58,93.0,Daniel Ross,3/15/1993,27.0,6-3,305.0,Northeast Mississippi CC,DT,3,0.0,3.0,0.0,Raiders,2020
+59,11.0,Henry Ruggs III,1/24/1999,21.0,6-0,190.0,Alabama,WR,13,12.0,0.0,4.0,Raiders,2020
+60,47.0,Trent Sieg,5/19/1995,25.0,6-3,240.0,Colorado St.,LS,16,0.0,2.0,1.0,Raiders,2020
+61,76.0,John Simpson,8/19/1997,23.0,6-4,330.0,Clemson,G,7,2.0,0.0,1.0,Raiders,2020
+62,92.0,Chris Smith,2/11/1992,28.0,6-1,266.0,Arkansas,DE,8,0.0,6.0,1.0,Raiders,2020
+63,91.0,Kendal Vickers,5/23/1995,25.0,6-3,295.0,Tennessee,DE,15,2.0,0.0,2.0,Raiders,2020
+64,83.0,Darren Waller,9/13/1992,28.0,6-6,238.0,Georgia Tech,TE,16,15.0,5.0,11.0,Raiders,2020
+65,53.0,Javin White,2/21/1997,23.0,6-3,205.0,UNLV,LB,4,0.0,0.0,0.0,Raiders,2020
+66,58.0,Kyle Wilber,4/26/1989,31.0,6-4,240.0,Wake Forest,LB,16,0.0,8.0,1.0,Raiders,2020
+67,82.0,Jason Witten,5/6/1982,38.0,6-6,263.0,Tennessee,TE,16,7.0,17.0,1.0,Raiders,2020
+68,36.0,Daryl Worley,2/22/1995,25.0,6-1,210.0,West Virginia,DB,2,1.0,4.0,0.0,Raiders,2020
+69,70.0,Sam Young,6/24/1987,33.0,6-8,302.0,Notre Dame,RT,11,7.0,10.0,4.0,Raiders,2020
+70,,Team Total,,26.4,6-2.4,247.2,,,16,,3.6,,Raiders,2020

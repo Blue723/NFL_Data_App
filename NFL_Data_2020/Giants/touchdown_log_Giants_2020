@@ -1,28 +1,28 @@
-,Rank,Team,Date,Opponent,Win/Loss,Score,Quarter,Distance,Type,Detail,Year
-0,1,Giants,09/14/2020,PIT,Loss, 16-26,2,41,pass,Darius Slayton,2020
-1,2,Giants,09/14/2020,PIT,Loss, 16-26,4,7,pass,Darius Slayton,2020
-2,3,Giants,09/20/2020,CHI,Loss, 13-17,4,1,rush,Dion Lewis,2020
-3,4,Giants,10/11/2020,DAL,Loss, 34-37,1,3,rush,Evan Engram,2020
-4,5,Giants,10/11/2020,DAL,Loss, 34-37,1,46,interception,Kyler Fackrell,2020
-5,6,Giants,10/11/2020,DAL,Loss, 34-37,4,4,rush,Devonta Freeman,2020
-6,7,Giants,10/18/2020,WAS,Win, 20-19,1,23,pass,Darius Slayton,2020
-7,8,Giants,10/18/2020,WAS,Win, 20-19,4,43,fumble,Tae Crowder,2020
-8,9,Giants,10/22/2020,PHI,Loss, 21-22,1,39,pass,Golden Tate,2020
-9,10,Giants,10/22/2020,PHI,Loss, 21-22,3,1,rush,Wayne Gallman,2020
-10,11,Giants,10/22/2020,PHI,Loss, 21-22,4,2,pass,Sterling Shepard,2020
-11,12,Giants,11/02/2020,TAM,Loss, 23-25,1,7,pass,Dion Lewis,2020
-12,13,Giants,11/02/2020,TAM,Loss, 23-25,2,2,rush,Wayne Gallman,2020
-13,14,Giants,11/02/2020,TAM,Loss, 23-25,4,19,pass,Golden Tate,2020
-14,15,Giants,11/08/2020,WAS,Win, 23-20,1,2,rush,Wayne Gallman,2020
-15,16,Giants,11/08/2020,WAS,Win, 23-20,2,16,pass,Evan Engram,2020
-16,17,Giants,11/15/2020,PHI,Win, 27-17,1,34,rush,Daniel Jones,2020
-17,18,Giants,11/15/2020,PHI,Win, 27-17,2,2,rush,Wayne Gallman,2020
-18,19,Giants,11/15/2020,PHI,Win, 27-17,3,1,rush,Wayne Gallman,2020
-19,20,Giants,11/29/2020,CIN,Win, 19-17,1,1,rush,Wayne Gallman,2020
-20,21,Giants,12/06/2020,SEA,Win, 17-12,3,4,rush,Alfred Morris,2020
-21,22,Giants,12/06/2020,SEA,Win, 17-12,3,6,pass,Alfred Morris,2020
-22,23,Giants,12/13/2020,ARI,Loss, 7-26,3,1,rush,Dion Lewis,2020
-23,24,Giants,12/27/2020,BAL,Loss, 13-27,4,3,pass,Sterling Shepard,2020
-24,25,Giants,01/03/2021,DAL,Win, 23-19,1,23,rush,Sterling Shepard,2020
-25,26,Giants,01/03/2021,DAL,Win, 23-19,2,10,pass,Sterling Shepard,2020
-26,27,Giants,01/03/2021,DAL,Win, 23-19,2,33,pass,Dante Pettis,2020
+,Rank,Team,Date,Opponent,Win/Loss,Home_Score,Opponenet_Score,Quarter,Distance,Type,Detail
+1,1,Giants,2020-09-14,PIT,Loss,16,26,2,41,pass,Darius Slayton
+2,2,Giants,2020-09-14,PIT,Loss,16,26,4,7,pass,Darius Slayton
+3,3,Giants,2020-09-20,CHI,Loss,13,17,4,1,rush,Dion Lewis
+4,4,Giants,2020-10-11,DAL,Loss,34,37,1,3,rush,Evan Engram
+5,5,Giants,2020-10-11,DAL,Loss,34,37,1,46,interception,Kyler Fackrell
+6,6,Giants,2020-10-11,DAL,Loss,34,37,4,4,rush,Devonta Freeman
+7,7,Giants,2020-10-18,WAS,Win,20,19,1,23,pass,Darius Slayton
+8,8,Giants,2020-10-18,WAS,Win,20,19,4,43,fumble,Tae Crowder
+9,9,Giants,2020-10-22,PHI,Loss,21,22,1,39,pass,Golden Tate
+10,10,Giants,2020-10-22,PHI,Loss,21,22,3,1,rush,Wayne Gallman
+11,11,Giants,2020-10-22,PHI,Loss,21,22,4,2,pass,Sterling Shepard
+12,12,Giants,2020-11-02,TAM,Loss,23,25,1,7,pass,Dion Lewis
+13,13,Giants,2020-11-02,TAM,Loss,23,25,2,2,rush,Wayne Gallman
+14,14,Giants,2020-11-02,TAM,Loss,23,25,4,19,pass,Golden Tate
+15,15,Giants,2020-11-08,WAS,Win,23,20,1,2,rush,Wayne Gallman
+16,16,Giants,2020-11-08,WAS,Win,23,20,2,16,pass,Evan Engram
+17,17,Giants,2020-11-15,PHI,Win,27,17,1,34,rush,Daniel Jones
+18,18,Giants,2020-11-15,PHI,Win,27,17,2,2,rush,Wayne Gallman
+19,19,Giants,2020-11-15,PHI,Win,27,17,3,1,rush,Wayne Gallman
+20,20,Giants,2020-11-29,CIN,Win,19,17,1,1,rush,Wayne Gallman
+21,21,Giants,2020-12-06,SEA,Win,17,12,3,4,rush,Alfred Morris
+22,22,Giants,2020-12-06,SEA,Win,17,12,3,6,pass,Alfred Morris
+23,23,Giants,2020-12-13,ARI,Loss,7,26,3,1,rush,Dion Lewis
+24,24,Giants,2020-12-27,BAL,Loss,13,27,4,3,pass,Sterling Shepard
+25,25,Giants,2021-01-03,DAL,Win,23,19,1,23,rush,Sterling Shepard
+26,26,Giants,2021-01-03,DAL,Win,23,19,2,10,pass,Sterling Shepard
+27,27,Giants,2021-01-03,DAL,Win,23,19,2,33,pass,Dante Pettis

@@ -1,6 +1,6 @@
-,No.,Team,Player,Age,Position,Games Played,Games Started,Punts Returned,Punts Return Yardage,Punts Returned for Touchdown,Longest Punt Return,Yards per Punt Return,Kickoff Returns,Yardage for Kickoffs Returned,Kickoffs Returned for a Touchdown,Longest Kickoff Return,Yards per Kickoff Return,All-purpose Yards,Year
-0,80,Patriots,Gunner Olszewski,24,WR,13,2,20,346,1,70,17.3,18,418,0,33,23.2,849,2020
-1,14,Patriots,Donte Moncrief,27,WR,6,0,0,0,0,0,,7,165,0,53,23.6,184,2020
-2,42,Patriots,J.J. Taylor,22,RB,6,0,1,11,0,11,11.0,4,87,0,28,21.8,212,2020
-3,10,Patriots,Damiere Byrd,27,WR,16,14,2,0,0,0,0.0,0,0,0,0,,619,2020
-4,35,Patriots,Kyle Dugger,24,DB,14,7,0,0,0,0,,2,47,0,30,23.5,47,2020
+,No.,Player,Age,Position,Games Played,Games Started,Punts Returned,Punts Return Yardage,Punts Returned for Touchdown,Longest Punt Return,Yards per Punt Return,Kickoff Returns,Yardage for Kickoffs Returned,Kickoffs Returned for a Touchdown,Longest Kickoff Return,Yards per Kickoff Return,All-purpose Yards,Team,Year
+80,80,Gunner Olszewski,24,WR,13,2,20,346,1,70,17.3,18,418,0,33,23.2,849,Patriots,2020
+14,14,Donte Moncrief,27,WR,6,0,0,0,0,0,0.0,7,165,0,53,23.6,184,Patriots,2020
+42,42,J.J. Taylor,22,RB,6,0,1,11,0,11,11.0,4,87,0,28,21.8,212,Patriots,2020
+10,10,Damiere Byrd,27,WR,16,14,2,0,0,0,0.0,0,0,0,0,0.0,619,Patriots,2020
+35,35,Kyle Dugger,24,DB,14,7,0,0,0,0,0.0,2,47,0,30,23.5,47,Patriots,2020

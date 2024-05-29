@@ -1,20 +1,18 @@
-,Week,Team,Day,Date,Time,Win/Loss,Overtime,Team Record,Home/Away,Opponent,Points Scored,Points Allowed,Offense 1st Down,Total Yards Gained of Offense,Total yards Gained by Passing,Total Yards Gained by Rushing,Offense Turnovers,Defense 1st Down,Total Yards Allowed by Defense,Total Passing Yards Allowed by Defense,Total Rushing Yards Allowed by Defense,Defense Turnovers,Offense,Defense,Sp. Tms,Year
-0,0,Seahawks,Sun,September 13,,W,0,1-0,away,Atlanta Falcons,38,25,22,383,299,84,0,28,506,434,72,2,21.28,-7.25,0.51,2020
-1,1,Seahawks,Sun,September 20,,W,0,2-0,home,New England Patriots,35,30,22,429,275,154,1,29,464,397,67,1,14.54,-19.82,6.98,2020
-2,2,Seahawks,Sun,September 27,,W,0,3-0,home,Dallas Cowboys,38,31,23,412,295,117,1,27,522,461,61,3,11.85,-9.84,4.6,2020
-3,3,Seahawks,Sun,October 4,,W,0,4-0,away,Miami Dolphins,31,23,26,441,343,98,1,25,415,312,103,2,16.11,-7.12,-1.32,2020
-4,4,Seahawks,Sun,October 11,,W,0,5-0,home,Minnesota Vikings,27,26,18,314,190,124,1,31,449,248,201,2,8.96,-6.68,0.07,2020
-5,5,Seahawks,,,,,0,,home,<strong>Bye Week</strong>,0,0,0,0,0,0,0,0,0,0,0,0,,,,2020
-6,6,1,1,1,1.0,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1.0,1.0,1.0,1
-7,7,Seahawks,Sun,November 1,,W,0,6-1,home,San Francisco 49ers,37,27,27,350,249,101,0,24,351,299,52,2,17.9,-14.29,8.73,2020
-8,8,Seahawks,Sun,November 8,,L,0,6-2,away,Buffalo Bills,34,44,22,419,362,57,4,27,420,386,34,0,9.12,-17.05,-4.66,2020
-9,9,Seahawks,Sun,November 15,,L,0,6-3,away,Los Angeles Rams,16,23,20,333,220,113,3,24,389,283,106,1,-3.08,-11.84,6.89,2020
-10,10,Seahawks,Thu,November 19,,W,0,7-3,home,Arizona Cardinals,28,21,22,347,182,165,0,24,314,257,57,0,16.03,-8.96,0.39,2020
-11,11,Seahawks,Mon,November 30,,W,0,8-3,away,Philadelphia Eagles,23,17,20,301,225,76,0,18,250,180,70,1,0.57,6.08,1.79,2020
-12,12,Seahawks,Sun,December 6,,L,0,8-4,home,New York Giants,12,17,21,327,216,111,2,13,290,100,190,1,-10.03,3.56,2.18,2020
-13,13,Seahawks,Sun,December 13,,W,0,9-4,home,New York Jets,40,3,28,410,236,174,1,12,185,116,69,1,22.39,10.41,2.47,2020
-14,14,Seahawks,Sun,December 20,,W,0,10-4,away,Washington Football Team,20,15,16,302,121,181,1,26,353,269,84,2,3.17,-1.41,4.4,2020
-15,15,Seahawks,Sun,December 27,,W,0,11-4,home,Los Angeles Rams,20,9,15,292,197,95,0,20,334,216,118,1,1.46,11.28,-0.5,2020
-16,16,Seahawks,Sun,January 3,,W,0,12-4,away,San Francisco 49ers,26,23,21,280,159,121,0,17,328,242,86,1,5.26,-2.58,0.32,2020
-17,17,Seahawks,,<strong>Playoffs</strong>,,,0,,home,,0,0,0,0,0,0,0,0,0,0,0,0,,,,2020
-18,18,Seahawks,Sat,January 9,,L,0,12-5,home,Los Angeles Rams,20,30,11,278,142,136,2,16,333,169,164,0,-18.04,3.67,1.48,2020
+,Week,Day,Date,Time,Win/Loss,Overtime,Team Record,Home/Away,Opponent,Points Scored,Points Allowed,Offense 1st Down,Total Yards Gained of Offense,Total yards Gained by Passing,Total Yards Gained by Rushing,Offense Turnovers,Defense 1st Down,Total Yards Allowed by Defense,Total Passing Yards Allowed by Defense,Total Rushing Yards Allowed by Defense,Defense Turnovers,Offense,Defense,Sp. Tms,Team,Year
+0,1,Sun,2020-09-13,nan,Win,0,1-0,away,Atlanta Falcons,38,25,22,383,299,84,0,28,506,434,72,2,21.28,-7.25,0.51,Seahawks,2020
+1,2,Sun,2020-09-20,nan,Win,0,2-0,home,New England Patriots,35,30,22,429,275,154,1,29,464,397,67,1,14.54,-19.82,6.98,Seahawks,2020
+2,3,Sun,2020-09-27,nan,Win,0,3-0,home,Dallas Cowboys,38,31,23,412,295,117,1,27,522,461,61,3,11.85,-9.84,4.6,Seahawks,2020
+3,4,Sun,2020-10-04,nan,Win,0,4-0,away,Miami Dolphins,31,23,26,441,343,98,1,25,415,312,103,2,16.11,-7.12,-1.32,Seahawks,2020
+4,5,Sun,2020-10-11,nan,Win,0,5-0,home,Minnesota Vikings,27,26,18,314,190,124,1,31,449,248,201,2,8.96,-6.68,0.07,Seahawks,2020
+5,7,Sun,2020-10-25,nan,Loss,1,5-1,away,Arizona Cardinals,34,37,33,572,372,200,3,31,519,360,159,2,11.75,-13.97,-0.78,Seahawks,2020
+6,8,Sun,2020-11-01,nan,Win,0,6-1,home,San Francisco 49ers,37,27,27,350,249,101,0,24,351,299,52,2,17.9,-14.29,8.73,Seahawks,2020
+7,9,Sun,2020-11-08,nan,Loss,0,6-2,away,Buffalo Bills,34,44,22,419,362,57,4,27,420,386,34,0,9.12,-17.05,-4.66,Seahawks,2020
+8,10,Sun,2020-11-15,nan,Loss,0,6-3,away,Los Angeles Rams,16,23,20,333,220,113,3,24,389,283,106,1,-3.08,-11.84,6.89,Seahawks,2020
+9,11,Thu,2020-11-19,nan,Win,0,7-3,home,Arizona Cardinals,28,21,22,347,182,165,0,24,314,257,57,0,16.03,-8.96,0.39,Seahawks,2020
+10,12,Mon,2020-11-30,nan,Win,0,8-3,away,Philadelphia Eagles,23,17,20,301,225,76,0,18,250,180,70,1,0.57,6.08,1.79,Seahawks,2020
+11,13,Sun,2020-12-06,nan,Loss,0,8-4,home,New York Giants,12,17,21,327,216,111,2,13,290,100,190,1,-10.03,3.56,2.18,Seahawks,2020
+12,14,Sun,2020-12-13,nan,Win,0,9-4,home,New York Jets,40,3,28,410,236,174,1,12,185,116,69,1,22.39,10.41,2.47,Seahawks,2020
+13,15,Sun,2020-12-20,nan,Win,0,10-4,away,Washington Football Team,20,15,16,302,121,181,1,26,353,269,84,2,3.17,-1.41,4.4,Seahawks,2020
+14,16,Sun,2020-12-27,nan,Win,0,11-4,home,Los Angeles Rams,20,9,15,292,197,95,0,20,334,216,118,1,1.46,11.28,-0.5,Seahawks,2020
+15,17,Sun,2021-01-03,nan,Win,0,12-4,away,San Francisco 49ers,26,23,21,280,159,121,0,17,328,242,86,1,5.26,-2.58,0.32,Seahawks,2020
+16,19,Sat,2021-01-09,nan,Loss,0,12-5,home,Los Angeles Rams,20,30,11,278,142,136,2,16,333,169,164,0,-18.04,3.67,1.48,Seahawks,2020

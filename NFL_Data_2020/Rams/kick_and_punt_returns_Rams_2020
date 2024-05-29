@@ -1,6 +1,6 @@
-,No.,Team,Player,Age,Position,Games Played,Games Started,Punts Returned,Punts Return Yardage,Punts Returned for Touchdown,Longest Punt Return,Yards per Punt Return,Kickoff Returns,Yardage for Kickoffs Returned,Kickoffs Returned for a Touchdown,Longest Kickoff Return,Yards per Kickoff Return,All-purpose Yards,Year
-0,14,Rams,Nsimba Webster,24,WR,16,0,25,185,0,34,7.4,16,347,0,30,21.7,532,2020
-1,10,Rams,Cooper Kupp,27,WR,15,12,9,50,0,10,5.6,0,0,0,0,,1057,2020
-2,30,Rams,Raymond Calais,22,RB,4,0,0,0,0,0,,7,152,0,41,21.7,152,2020
-3,12,Rams,Van Jefferson,24,WR,16,0,0,0,0,0,,1,13,0,13,13.0,221,2020
-4,35,Rams,Xavier Jones,23,RB,13,0,0,0,0,0,,1,4,0,4,4.0,4,2020
+,No.,Player,Age,Position,Games Played,Games Started,Punts Returned,Punts Return Yardage,Punts Returned for Touchdown,Longest Punt Return,Yards per Punt Return,Kickoff Returns,Yardage for Kickoffs Returned,Kickoffs Returned for a Touchdown,Longest Kickoff Return,Yards per Kickoff Return,All-purpose Yards,Team,Year
+14,14,Nsimba Webster,24,WR,16,0,25,185,0,34,7.4,16,347,0,30,21.7,532,Rams,2020
+10,10,Cooper Kupp,27,WR,15,12,9,50,0,10,5.6,0,0,0,0,0.0,1057,Rams,2020
+30,30,Raymond Calais,22,RB,4,0,0,0,0,0,0.0,7,152,0,41,21.7,152,Rams,2020
+12,12,Van Jefferson,24,WR,16,0,0,0,0,0,0.0,1,13,0,13,13.0,221,Rams,2020
+35,35,Xavier Jones,23,RB,13,0,0,0,0,0,0.0,1,4,0,4,4.0,4,Rams,2020

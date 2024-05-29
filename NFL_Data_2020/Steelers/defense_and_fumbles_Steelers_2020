@@ -1,46 +1,46 @@
-,No.,Team,Player,Age,Pos,Games Played,Games Started,Passes Intercepted on Defense,Yards Interceptions were Returned,Interceptions Returned for Touchdowns,Longest Interception Return,Passes Defended by Defensive Player,# Forced Fumble by Opp.,# Fumbled both Lost and Recovered by Own Team,Fumbles Recovered by Original Fumbler,Yards Recovered Fumbles were Returned,Fumbles Recovered for Touchdown,Sacks,Tackles Solo+Assisted,Solo Tackles,Assisted Tackles,Tackles for Loss,Quarterback Hits,Safeties Scored by Player/Team,Year
-0,39,Steelers,Minkah Fitzpatrick,24,FS,16,16,4,77,1,37,11,1,0,1,-1,0,0.0,79,60,19,1,0,0,2020
-1,98,Steelers,Vince Williams,31,RILB,14,14,0,0,0,0,0,0,0,2,0,0,3.0,70,47,23,14,4,0,2020
-2,34,Steelers,Terrell Edmunds,23,SS,15,12,2,11,0,7,8,0,0,0,0,0,1.0,68,46,22,1,1,0,2020
-3,90,Steelers,T.J. Watt,26,LOLB,15,15,1,0,0,0,7,2,0,0,0,0,15.0,53,43,10,23,41,0,2020
-4,28,Steelers,Mike Hilton,26,DB,12,6,3,5,0,8,7,1,0,2,22,0,3.0,51,42,9,8,5,0,2020
-5,23,Steelers,Joe Haden,31,LCB,14,14,2,38,1,24,12,0,0,0,0,0,0.0,52,44,8,2,0,0,2020
-6,22,Steelers,Steven Nelson,27,RCB,15,15,2,3,0,3,9,0,0,1,0,0,0.0,48,43,5,2,0,0,2020
-7,51,Steelers,Avery Williamson,28,LB,8,4,0,0,0,0,0,0,0,0,0,0,1.0,52,37,15,3,2,0,2020
-8,97,Steelers,Cameron Heyward,31,DT,15,15,1,0,0,0,3,0,0,0,0,0,4.0,54,30,24,7,19,0,2020
-9,91,Steelers,Stephon Tuitt,27,DE,15,15,0,0,0,0,3,2,0,0,0,0,11.0,45,33,12,10,25,0,2020
-10,41,Steelers,Robert Spillane,25,LILB,12,7,1,33,1,33,4,0,0,1,0,0,2.0,45,39,6,4,3,0,2020
-11,56,Steelers,Alex Highsmith,23,ROLB,16,5,1,2,0,2,1,0,0,0,0,0,2.0,48,30,18,5,6,0,2020
-12,48,Steelers,Bud Dupree,27,ROLB,11,11,0,0,0,0,2,2,0,0,0,0,8.0,31,23,8,8,15,0,2020
-13,20,Steelers,Cameron Sutton,25,DB,16,6,1,0,0,0,8,3,0,1,0,0,1.0,30,27,3,1,0,0,2020
-14,94,Steelers,Tyson Alualu,33,NT,15,10,0,0,0,0,5,1,0,0,0,0,2.0,38,17,21,4,5,0,2020
-15,55,Steelers,Devin Bush Jr.,22,LILB,5,5,0,0,0,0,3,0,0,0,0,0,1.0,26,16,10,0,2,0,2020
-16,21,Steelers,Sean Davis,27,DB,16,1,0,0,0,0,1,0,0,1,0,0,0.0,12,11,1,0,0,0,2020
-17,45,Steelers,Jayrone Elliott,29,LB,8,0,0,0,0,0,0,0,0,0,0,0,1.0,7,5,2,2,1,0,2020
-18,44,Steelers,Derek Watt,28,RB,12,0,0,0,0,0,0,0,0,0,0,0,0.0,8,5,3,1,0,1,2020
-19,11,Steelers,Chase Claypool,22,WR,16,6,0,0,0,0,0,0,3,1,0,0,0.0,6,2,4,0,0,0,2020
-20,24,Steelers,Benny Snell Jr.,22,RB,16,3,0,0,0,0,0,0,2,2,0,0,0.0,5,3,2,0,0,0,2020
-21,95,Steelers,Chris Wormley,27,DE,13,1,0,0,0,0,0,0,0,0,0,0,1.0,8,3,5,1,3,0,2020
-22,7,Steelers,Ben Roethlisberger,38,QB,15,15,0,0,0,0,0,0,5,2,-13,0,0.0,0,0,0,0,0,0,2020
-23,19,Steelers,JuJu Smith-Schuster,24,WR,16,14,0,0,0,0,0,0,3,2,0,0,0.0,0,0,0,0,0,0,2020
-24,30,Steelers,James Conner,25,RB,13,11,0,0,0,0,0,0,2,2,0,0,0.0,0,0,0,0,0,0,2020
-25,18,Steelers,Diontae Johnson,24,WR,15,13,0,0,0,0,0,0,2,2,4,0,0.0,0,0,0,0,0,0,2020
-26,14,Steelers,Ray-Ray McCloud,24,WR,16,2,0,0,0,0,0,0,2,0,0,0,0.0,1,1,0,0,0,0,2020
-27,38,Steelers,Jaylen Samuels,24,RB,14,1,0,0,0,0,0,0,0,0,0,0,0.0,1,1,0,0,0,0,2020
-28,85,Steelers,Eric Ebron,27,TE,15,9,0,0,0,0,0,0,1,0,0,0,0.0,0,0,0,0,0,0,2020
-29,60,Steelers,J.C. Hassenauer,25,C,15,4,0,0,0,0,0,0,1,0,-4,0,0.0,0,0,0,0,0,0,2020
-30,53,Steelers,Maurkice Pouncey,31,C,13,13,0,0,0,0,0,0,1,0,0,0,0.0,0,0,0,0,0,0,2020
-31,78,Steelers,Alejandro Villanueva,32,LT,16,16,0,0,0,0,0,0,0,1,0,0,0.0,0,0,0,0,0,0,2020
-32,92,Steelers,Olasunkanmi Adeniyi,23,LB,15,1,0,0,0,0,0,1,0,0,0,0,0.0,16,11,5,1,0,0,2020
-33,27,Steelers,Marcus Allen,24,DB,14,2,0,0,0,0,0,0,0,0,0,0,0.0,30,19,11,2,2,0,2020
-34,25,Steelers,Antoine Brooks Jr.,22,S,4,0,0,0,0,0,0,0,0,0,0,0,0.0,2,1,1,0,0,0,2020
-35,96,Steelers,Isaiah Buggs,24,DT,10,1,0,0,0,0,0,0,0,0,0,0,0.0,11,7,4,0,1,0,2020
-36,57,Steelers,Kameron Canaday,27,C,16,0,0,0,0,0,0,0,0,0,0,0,0.0,2,1,1,0,0,0,2020
-37,37,Steelers,Jordan Dangerfield,30,DB,15,0,0,0,0,0,0,0,0,0,0,0,0.0,10,9,1,0,0,0,2020
-38,73,Steelers,Carlos Davis,24,DT,7,0,0,0,0,0,0,0,0,0,0,0,0.0,6,4,2,1,0,0,2020
-39,54,Steelers,Ulysees Gilbert,23,LB,4,0,0,0,0,0,0,0,0,0,0,0,0.0,5,3,2,0,0,0,2020
-40,31,Steelers,Justin Layne,22,DB,16,0,0,0,0,0,0,0,0,0,0,0,0.0,22,13,9,0,0,0,2020
-41,49,Steelers,Cassius Marsh,28,DE,1,0,0,0,0,0,0,0,0,0,0,0,0.0,2,2,0,0,0,0,2020
-42,99,Steelers,Henry Mondeaux,25,DT,11,0,0,0,0,0,0,0,0,0,0,0,0.0,5,3,2,1,2,0,2020
-43,42,Steelers,James Pierre,24,CB,16,0,0,0,0,0,0,0,0,0,0,0,0.0,10,7,3,1,0,0,2020
-44,87,Steelers,Kevin Rader,25,TE,1,1,0,0,0,0,0,0,0,0,0,0,0.0,3,2,1,0,0,0,2020
+,No.,Player,Age,Pos,Games Played,Games Started,Passes Intercepted on Defense,Yards Interceptions were Returned,Interceptions Returned for Touchdowns,Longest Interception Return,Passes Defended by Defensive Player,# Forced Fumble by Opp.,# Fumbled both Lost and Recovered by Own Team,Fumbles Recovered by Original Fumbler,Yards Recovered Fumbles were Returned,Fumbles Recovered for Touchdown,Sacks,Tackles Solo+Assisted,Solo Tackles,Assisted Tackles,Tackles for Loss,Quarterback Hits,Safeties Scored by Player/Team,Team,Year
+39,39,Minkah Fitzpatrick,24,FS,16,16,4,77,1,37,11,1,0,1,-1,0,0.0,79,60,19,1,0,0,Steelers,2020
+98,98,Vince Williams,31,RILB,14,14,0,0,0,0,0,0,0,2,0,0,3.0,70,47,23,14,4,0,Steelers,2020
+34,34,Terrell Edmunds,23,SS,15,12,2,11,0,7,8,0,0,0,0,0,1.0,68,46,22,1,1,0,Steelers,2020
+90,90,T.J. Watt,26,LOLB,15,15,1,0,0,0,7,2,0,0,0,0,15.0,53,43,10,23,41,0,Steelers,2020
+28,28,Mike Hilton,26,DB,12,6,3,5,0,8,7,1,0,2,22,0,3.0,51,42,9,8,5,0,Steelers,2020
+23,23,Joe Haden,31,LCB,14,14,2,38,1,24,12,0,0,0,0,0,0.0,52,44,8,2,0,0,Steelers,2020
+22,22,Steven Nelson,27,RCB,15,15,2,3,0,3,9,0,0,1,0,0,0.0,48,43,5,2,0,0,Steelers,2020
+51,51,Avery Williamson,28,LB,8,4,0,0,0,0,0,0,0,0,0,0,1.0,52,37,15,3,2,0,Steelers,2020
+97,97,Cameron Heyward,31,DT,15,15,1,0,0,0,3,0,0,0,0,0,4.0,54,30,24,7,19,0,Steelers,2020
+91,91,Stephon Tuitt,27,DE,15,15,0,0,0,0,3,2,0,0,0,0,11.0,45,33,12,10,25,0,Steelers,2020
+41,41,Robert Spillane,25,LILB,12,7,1,33,1,33,4,0,0,1,0,0,2.0,45,39,6,4,3,0,Steelers,2020
+56,56,Alex Highsmith,23,ROLB,16,5,1,2,0,2,1,0,0,0,0,0,2.0,48,30,18,5,6,0,Steelers,2020
+48,48,Bud Dupree,27,ROLB,11,11,0,0,0,0,2,2,0,0,0,0,8.0,31,23,8,8,15,0,Steelers,2020
+20,20,Cameron Sutton,25,DB,16,6,1,0,0,0,8,3,0,1,0,0,1.0,30,27,3,1,0,0,Steelers,2020
+94,94,Tyson Alualu,33,NT,15,10,0,0,0,0,5,1,0,0,0,0,2.0,38,17,21,4,5,0,Steelers,2020
+55,55,Devin Bush Jr.,22,LILB,5,5,0,0,0,0,3,0,0,0,0,0,1.0,26,16,10,0,2,0,Steelers,2020
+21,21,Sean Davis,27,DB,16,1,0,0,0,0,1,0,0,1,0,0,0.0,12,11,1,0,0,0,Steelers,2020
+45,45,Jayrone Elliott,29,LB,8,0,0,0,0,0,0,0,0,0,0,0,1.0,7,5,2,2,1,0,Steelers,2020
+44,44,Derek Watt,28,FB,12,0,0,0,0,0,0,0,0,0,0,0,0.0,8,5,3,1,0,1,Steelers,2020
+11,11,Chase Claypool,22,WR,16,6,0,0,0,0,0,0,3,1,0,0,0.0,6,2,4,0,0,0,Steelers,2020
+24,24,Benny Snell Jr.,22,RB,16,3,0,0,0,0,0,0,2,2,0,0,0.0,5,3,2,0,0,0,Steelers,2020
+95,95,Chris Wormley,27,DE,13,1,0,0,0,0,0,0,0,0,0,0,1.0,8,3,5,1,3,0,Steelers,2020
+7,7,Ben Roethlisberger,38,QB,15,15,0,0,0,0,0,0,5,2,-13,0,0.0,0,0,0,0,0,0,Steelers,2020
+19,19,JuJu Smith-Schuster,24,WR,16,14,0,0,0,0,0,0,3,2,0,0,0.0,0,0,0,0,0,0,Steelers,2020
+30,30,James Conner,25,RB,13,11,0,0,0,0,0,0,2,2,0,0,0.0,0,0,0,0,0,0,Steelers,2020
+18,18,Diontae Johnson,24,WR,15,13,0,0,0,0,0,0,2,2,4,0,0.0,0,0,0,0,0,0,Steelers,2020
+14,14,Ray-Ray McCloud,24,WR,16,2,0,0,0,0,0,0,2,0,0,0,0.0,1,1,0,0,0,0,Steelers,2020
+38,38,Jaylen Samuels,24,RB,14,1,0,0,0,0,0,0,0,0,0,0,0.0,1,1,0,0,0,0,Steelers,2020
+85,85,Eric Ebron,27,TE,15,9,0,0,0,0,0,0,1,0,0,0,0.0,0,0,0,0,0,0,Steelers,2020
+60,60,J.C. Hassenauer,25,C,15,4,0,0,0,0,0,0,1,0,-4,0,0.0,0,0,0,0,0,0,Steelers,2020
+53,53,Maurkice Pouncey,31,C,13,13,0,0,0,0,0,0,1,0,0,0,0.0,0,0,0,0,0,0,Steelers,2020
+78,78,Alejandro Villanueva,32,LT,16,16,0,0,0,0,0,0,0,1,0,0,0.0,0,0,0,0,0,0,Steelers,2020
+92,92,Olasunkanmi Adeniyi,23,LB,15,1,0,0,0,0,0,1,0,0,0,0,0.0,16,11,5,1,0,0,Steelers,2020
+27,27,Marcus Allen,24,DB,14,2,0,0,0,0,0,0,0,0,0,0,0.0,30,19,11,2,2,0,Steelers,2020
+25,25,Antoine Brooks Jr.,23,S,4,0,0,0,0,0,0,0,0,0,0,0,0.0,2,1,1,0,0,0,Steelers,2020
+96,96,Isaiah Buggs,24,DT,10,1,0,0,0,0,0,0,0,0,0,0,0.0,11,7,4,0,1,0,Steelers,2020
+57,57,Kameron Canaday,27,LS,16,0,0,0,0,0,0,0,0,0,0,0,0.0,2,1,1,0,0,0,Steelers,2020
+37,37,Jordan Dangerfield,30,DB,15,0,0,0,0,0,0,0,0,0,0,0,0.0,10,9,1,0,0,0,Steelers,2020
+73,73,Carlos Davis,24,DT,7,0,0,0,0,0,0,0,0,0,0,0,0.0,6,4,2,1,0,0,Steelers,2020
+54,54,Ulysees Gilbert,23,LB,4,0,0,0,0,0,0,0,0,0,0,0,0.0,5,3,2,0,0,0,Steelers,2020
+31,31,Justin Layne,22,DB,16,0,0,0,0,0,0,0,0,0,0,0,0.0,22,13,9,0,0,0,Steelers,2020
+49,49,Cassius Marsh,28,DE,1,0,0,0,0,0,0,0,0,0,0,0,0.0,2,2,0,0,0,0,Steelers,2020
+99,99,Henry Mondeaux,25,DT,11,0,0,0,0,0,0,0,0,0,0,0,0.0,5,3,2,1,2,0,Steelers,2020
+42,42,James Pierre,24,CB,16,0,0,0,0,0,0,0,0,0,0,0,0.0,10,7,3,1,0,0,Steelers,2020
+87,87,Kevin Rader,25,TE,1,1,0,0,0,0,0,0,0,0,0,0,0.0,3,2,1,0,0,0,Steelers,2020

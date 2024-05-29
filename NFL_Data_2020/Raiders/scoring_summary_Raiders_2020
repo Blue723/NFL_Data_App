@@ -1,16 +1,16 @@
-,No.,Team,Player,Age,Pos,Games Played,Games Started,Rush TD,Reception TD,Punt Return TD,Kick Return TD,Fumble Return TD,Interception TD,Other TD,All Touchdown Scored,2-Point Conversions Made,Two-Point Conversions Attempted,Defensive Two-Point Conversions,Extra Points Made,Extra Points Allowed,Field Goals Made,Field Goals Attempted,Safeties Scored by Player/Team,Total Points Scored by all Means,Poins per Game,Year
-0,2,Raiders,Daniel Carlson,25,K,16,0,0,0,0,0,0,0,0,0,0,0,0,45,47,33,35,,144,9.0,2020
-1,28,Raiders,Josh Jacobs,22,RB,15,15,12,0,0,0,0,0,0,12,0,0,0,0,0,0,0,,72,4.8,2020
-2,83,Raiders,Darren Waller,28,TE,16,15,0,9,0,0,0,0,0,9,1,0,0,0,0,0,0,,56,3.5,2020
-3,15,Raiders,Nelson Agholor,27,WR,16,13,0,8,0,0,0,0,0,8,0,0,0,0,0,0,0,,48,3.0,2020
-4,23,Raiders,Devontae Booker,28,RB,16,1,3,0,0,0,0,0,0,3,0,0,0,0,0,0,0,,18,1.1,2020
-5,4,Raiders,Derek Carr,29,QB,16,16,3,0,0,0,0,0,0,3,0,0,0,0,0,0,0,,18,1.1,2020
-6,87,Raiders,Foster Moreau,23,TE,16,2,0,2,0,0,0,0,0,2,0,0,0,0,0,0,0,,12,0.8,2020
-7,13,Raiders,Hunter Renfrow,25,WR,16,6,0,2,0,0,0,0,0,2,0,0,0,0,0,0,0,,12,0.8,2020
-8,11,Raiders,Henry Ruggs III,21,WR,13,12,0,2,0,0,0,0,0,2,0,0,0,0,0,0,0,,12,0.9,2020
-9,82,Raiders,Jason Witten,38,TE,16,7,0,2,0,0,0,0,0,2,0,0,0,0,0,0,0,,12,0.8,2020
-10,89,Raiders,Bryan Edwards,22,WR,12,3,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,,6,0.5,2020
-11,45,Raiders,Alec Ingold,24,FB,16,4,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,,6,0.4,2020
-12,12,Raiders,Zay Jones,25,WR,16,2,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,,6,0.4,2020
-13,8,Raiders,Marcus Mariota,27,QB,1,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,,6,6.0,2020
-14,30,Raiders,Jalen Richard,27,RB,13,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,,6,0.5,2020
+,No.,Player,Age,Pos,Games Played,Games Started,Rush TD,Reception TD,Punt Return TD,Kick Return TD,Fumble Return TD,Interception TD,Other TD,All Touchdown Scored,2-Point Conversions Made,Two-Point Conversions Attempted,Defensive Two-Point Conversions,Extra Points Made,Extra Points Allowed,Field Goals Made,Field Goals Attempted,Safeties Scored by Player/Team,Total Points Scored by all Means,Poins per Game,Team,Year
+2,2,Daniel Carlson,25,K,16,0,0,0,0,0,0,0,0,0,0,0,0,45,47,33,35,0,144,9.0,Raiders,2020
+28,28,Josh Jacobs,22,RB,15,15,12,0,0,0,0,0,0,12,0,0,0,0,0,0,0,0,72,4.8,Raiders,2020
+83,83,Darren Waller,28,TE,16,15,0,9,0,0,0,0,0,9,1,0,0,0,0,0,0,0,56,3.5,Raiders,2020
+15,15,Nelson Agholor,27,WR,16,13,0,8,0,0,0,0,0,8,0,0,0,0,0,0,0,0,48,3.0,Raiders,2020
+23,23,Devontae Booker,28,RB,16,1,3,0,0,0,0,0,0,3,0,0,0,0,0,0,0,0,18,1.1,Raiders,2020
+4,4,Derek Carr,29,QB,16,16,3,0,0,0,0,0,0,3,0,0,0,0,0,0,0,0,18,1.1,Raiders,2020
+87,87,Foster Moreau,23,TE,16,2,0,2,0,0,0,0,0,2,0,0,0,0,0,0,0,0,12,0.8,Raiders,2020
+13,13,Hunter Renfrow,25,WR,16,6,0,2,0,0,0,0,0,2,0,0,0,0,0,0,0,0,12,0.8,Raiders,2020
+11,11,Henry Ruggs III,21,WR,13,12,0,2,0,0,0,0,0,2,0,0,0,0,0,0,0,0,12,0.9,Raiders,2020
+82,82,Jason Witten,38,TE,16,7,0,2,0,0,0,0,0,2,0,0,0,0,0,0,0,0,12,0.8,Raiders,2020
+89,89,Bryan Edwards,22,WR,12,3,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,6,0.5,Raiders,2020
+45,45,Alec Ingold,24,FB,16,4,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,6,0.4,Raiders,2020
+12,12,Zay Jones,25,WR,16,2,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,6,0.4,Raiders,2020
+8,8,Marcus Mariota,27,QB,1,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,6,6.0,Raiders,2020
+30,30,Jalen Richard,27,RB,13,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,6,0.5,Raiders,2020

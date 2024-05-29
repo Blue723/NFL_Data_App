@@ -1,47 +1,47 @@
-,No.,Team,Player,Age,Pos,Games Played,Games Started,Passes Intercepted on Defense,Yards Interceptions were Returned,Interceptions Returned for Touchdowns,Longest Interception Return,Passes Defended by Defensive Player,# Forced Fumble by Opp.,# Fumbled both Lost and Recovered by Own Team,Fumbles Recovered by Original Fumbler,Yards Recovered Fumbles were Returned,Fumbles Recovered for Touchdown,Sacks,Tackles Solo+Assisted,Solo Tackles,Assisted Tackles,Tackles for Loss,Quarterback Hits,Safeties Scored by Player/Team,Year
-0,41,Texans,Zach Cunningham,26,LILB,16,16,0,0,0,0,2,1,0,0,0,0,3.0,164,106,58,7,4,0,2020
-1,50,Texans,Tyrell Adams,28,RILB,16,12,0,0,0,0,4,2,0,1,0,0,2.0,125,76,49,5,3,0,2020
-2,20,Texans,Justin Reid,23,SS,13,13,0,0,0,0,4,0,0,0,0,0,2.0,83,62,21,6,4,0,2020
-3,26,Texans,Vernon Hargreaves III,25,RCB,16,16,1,0,0,0,7,0,0,0,0,0,0.0,72,61,11,1,0,0,2020
-4,23,Texans,Eric Murray,26,FS,14,14,0,0,0,0,2,1,0,0,0,0,2.0,71,47,24,2,4,0,2020
-5,99,Texans,J.J. Watt,31,LDE,16,16,1,19,1,19,7,2,0,1,0,0,5.0,52,36,16,14,17,0,2020
-6,21,Texans,Bradley Roby,28,LCB,10,10,1,0,0,0,7,0,0,1,0,0,0.0,37,33,4,2,0,0,2020
-7,33,Texans,A.J. Moore,25,DB,11,5,0,0,0,0,1,1,0,0,0,0,1.0,35,21,14,1,2,0,2020
-8,96,Texans,P.J. Hall,25,RDE,10,9,0,0,0,0,0,0,0,0,0,0,1.0,34,18,16,2,2,0,2020
-9,91,Texans,Carlos Watkins,27,LOLB,16,11,0,0,0,0,3,0,0,1,0,0,2.0,27,17,10,4,2,0,2020
-10,92,Texans,Brandon Dunn,28,NT,13,13,0,0,0,0,0,0,0,1,0,0,0.0,26,12,14,0,3,0,2020
-11,59,Texans,Whitney Mercilus,30,LOLB,13,12,0,0,0,0,1,0,1,1,0,0,4.0,21,12,9,5,7,0,2020
-12,54,Texans,Jacob Martin,25,DE,14,1,0,0,0,0,1,1,0,1,0,0,3.0,20,13,7,3,3,0,2020
-13,94,Texans,Charles Omenihu,23,DE,15,5,0,0,0,0,2,0,0,0,0,0,4.0,17,11,6,5,16,0,2020
-14,52,Texans,Jonathan Greenard,23,LB,13,1,0,0,0,0,1,0,0,0,0,0,1.0,19,10,9,2,3,0,2020
-15,48,Texans,Nate Hall,24,LB,10,0,0,0,0,0,0,1,0,0,0,0,2.0,11,6,5,1,2,0,2020
-16,4,Texans,Deshaun Watson,25,QB,16,16,0,0,0,0,0,0,8,2,-13,0,0.0,0,0,0,0,0,0,2020
-17,93,Texans,Corey Liuget,30,DT,6,1,0,0,0,0,0,0,0,0,0,0,1.0,4,2,2,2,2,0,2020
-18,85,Texans,Pharaoh Brown,26,TE,13,9,0,0,0,0,0,0,0,0,0,0,0.0,2,2,0,0,0,0,2020
-19,16,Texans,Keke Coutee,23,WR,8,4,0,0,0,0,0,0,4,0,0,0,0.0,0,0,0,0,0,0,2020
-20,38,Texans,Buddy Howell,24,RB,14,0,0,0,0,0,0,0,0,0,0,0,0.0,2,2,0,0,0,0,2020
-21,25,Texans,Duke Johnson,27,RB,11,5,0,0,0,0,0,0,3,1,0,0,0.0,0,0,0,0,0,0,2020
-22,44,Texans,Cullen Gillaspia,25,RB,7,0,0,0,0,0,0,0,0,0,0,0,0.0,3,0,3,0,0,0,2020
-23,31,Texans,David Johnson,29,RB,12,12,0,0,0,0,0,0,2,1,0,0,0.0,0,0,0,0,0,0,2020
-24,9,Texans,Bryan Anger,32,P,16,0,0,0,0,0,0,0,0,0,0,0,0.0,1,1,0,0,0,0,2020
-25,11,Texans,Steven Mitchell,26,WR,6,1,0,0,0,0,0,0,0,0,0,0,0.0,1,1,0,0,0,0,2020
-26,14,Texans,DeAndre Carter,27,WR,9,0,0,0,0,0,0,0,1,0,0,0,0.0,0,0,0,0,0,0,2020
-27,67,Texans,Charlie Heck,24,T,3,1,0,0,0,0,0,0,1,0,0,0,0.0,0,0,0,0,0,0,2020
-28,64,Texans,Senio Kelemete,30,LG,14,5,0,0,0,0,0,0,0,1,0,0,0.0,0,0,0,0,0,0,2020
-29,24,Texans,C.J. Prosise,26,RB,10,0,0,0,0,0,0,0,1,0,0,0,0.0,0,0,0,0,0,0,2020
-30,98,Texans,Auzoyah Alufohai,24,DT,3,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,1,0,0,0,2020
-31,90,Texans,Ross Blacklock,22,DT,15,1,0,0,0,0,0,0,0,0,0,0,0.0,14,10,4,1,2,0,2020
-32,97,Texans,Andrew Brown,25,DT,3,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,1,0,0,0,2020
-33,43,Texans,Anthony Chesley,24,DB,3,0,0,0,0,0,0,0,0,0,0,0,0.0,1,1,0,0,0,0,2020
-34,51,Texans,Dylan Cole,26,LB,6,0,0,0,0,0,0,0,0,0,0,0,0.0,6,3,3,0,0,0,2020
-35,35,Texans,Keion Crossen,24,DB,16,4,0,0,0,0,5,0,0,0,0,0,0.0,46,33,13,0,0,0,2020
-36,56,Texans,Kyle Emanuel,29,DE,7,0,0,0,0,0,0,0,0,0,0,0,0.0,3,1,2,0,0,0,2020
-37,39,Texans,Mark Fields II,24,DB,2,0,0,0,0,0,0,0,0,0,0,0,0.0,1,1,0,0,0,0,2020
-38,29,Texans,Phillip Gaines,29,DB,12,2,0,0,0,0,1,0,0,0,0,0,0.0,24,18,6,0,0,0,2020
-39,32,Texans,Lonnie Johnson Jr.,25,DB,16,5,0,0,0,0,0,0,0,0,0,0,0.0,76,56,20,1,3,0,2020
-40,58,Texans,Peter Kalambayi,25,LB,10,0,0,0,0,0,0,0,0,0,0,0,0.0,2,0,2,0,0,0,2020
-41,55,Texans,Benardrick McKinney,28,LB,4,4,0,0,0,0,1,0,0,0,0,0,0.0,37,19,18,1,0,0,2020
-42,34,Texans,John Reid,24,CB,13,1,0,0,0,0,1,0,0,0,0,0,0.0,13,11,2,0,0,0,2020
-43,57,Texans,Brennan Scarlett,27,ROLB,11,4,0,0,0,0,0,0,0,0,0,0,0.0,28,18,10,0,1,0,2020
-44,28,Texans,Michael Thomas,30,DB,9,0,0,0,0,0,0,0,0,0,0,0,0.0,16,8,8,0,0,0,2020
-45,46,Texans,Jon Weeks,34,LS,16,0,0,0,0,0,0,0,0,0,0,0,0.0,1,1,0,0,0,0,2020
+,No.,Player,Age,Pos,Games Played,Games Started,Passes Intercepted on Defense,Yards Interceptions were Returned,Interceptions Returned for Touchdowns,Longest Interception Return,Passes Defended by Defensive Player,# Forced Fumble by Opp.,# Fumbled both Lost and Recovered by Own Team,Fumbles Recovered by Original Fumbler,Yards Recovered Fumbles were Returned,Fumbles Recovered for Touchdown,Sacks,Tackles Solo+Assisted,Solo Tackles,Assisted Tackles,Tackles for Loss,Quarterback Hits,Safeties Scored by Player/Team,Team,Year
+41,41,Zach Cunningham,26,LILB,16,16,0,0,0,0,2,1,0,0,0,0,3.0,164,106,58,7,4,0,Texans,2020
+50,50,Tyrell Adams,28,RILB,16,12,0,0,0,0,4,2,0,1,0,0,2.0,125,76,49,5,3,0,Texans,2020
+20,20,Justin Reid,23,SS,13,13,0,0,0,0,4,0,0,0,0,0,2.0,83,62,21,6,4,0,Texans,2020
+26,26,Vernon Hargreaves III,25,RCB,16,16,1,0,0,0,7,0,0,0,0,0,0.0,72,61,11,1,0,0,Texans,2020
+23,23,Eric Murray,26,FS,14,14,0,0,0,0,2,1,0,0,0,0,2.0,71,47,24,2,4,0,Texans,2020
+99,99,J.J. Watt,31,LDE,16,16,1,19,1,19,7,2,0,1,0,0,5.0,52,36,16,14,17,0,Texans,2020
+21,21,Bradley Roby,28,LCB,10,10,1,0,0,0,7,0,0,1,0,0,0.0,37,33,4,2,0,0,Texans,2020
+33,33,A.J. Moore,25,DB,11,5,0,0,0,0,1,1,0,0,0,0,1.0,35,21,14,1,2,0,Texans,2020
+96,96,P.J. Hall,25,RDE,10,9,0,0,0,0,0,0,0,0,0,0,1.0,34,18,16,2,2,0,Texans,2020
+91,91,Carlos Watkins,27,LOLB,16,11,0,0,0,0,3,0,0,1,0,0,2.0,27,17,10,4,2,0,Texans,2020
+92,92,Brandon Dunn,28,NT,13,13,0,0,0,0,0,0,0,1,0,0,0.0,26,12,14,0,3,0,Texans,2020
+59,59,Whitney Mercilus,30,LOLB,13,12,0,0,0,0,1,0,1,1,0,0,4.0,21,12,9,5,7,0,Texans,2020
+54,54,Jacob Martin,25,DE,14,1,0,0,0,0,1,1,0,1,0,0,3.0,20,13,7,3,3,0,Texans,2020
+94,94,Charles Omenihu,23,DE,15,5,0,0,0,0,2,0,0,0,0,0,4.0,17,11,6,5,16,0,Texans,2020
+52,52,Jonathan Greenard,23,LB,13,1,0,0,0,0,1,0,0,0,0,0,1.0,19,10,9,2,3,0,Texans,2020
+48,48,Nate Hall,24,LB,10,0,0,0,0,0,0,1,0,0,0,0,2.0,11,6,5,1,2,0,Texans,2020
+4,4,Deshaun Watson,25,QB,16,16,0,0,0,0,0,0,8,2,-13,0,0.0,0,0,0,0,0,0,Texans,2020
+93,93,Corey Liuget,30,NT,6,1,0,0,0,0,0,0,0,0,0,0,1.0,4,2,2,2,2,0,Texans,2020
+85,85,Pharaoh Brown,26,TE,13,9,0,0,0,0,0,0,0,0,0,0,0.0,2,2,0,0,0,0,Texans,2020
+16,16,Keke Coutee,23,WR,8,4,0,0,0,0,0,0,4,0,0,0,0.0,0,0,0,0,0,0,Texans,2020
+38,38,Buddy Howell,24,RB,14,0,0,0,0,0,0,0,0,0,0,0,0.0,2,2,0,0,0,0,Texans,2020
+25,25,Duke Johnson,27,RB,11,5,0,0,0,0,0,0,3,1,0,0,0.0,0,0,0,0,0,0,Texans,2020
+44,44,Cullen Gillaspia,25,RB,7,0,0,0,0,0,0,0,0,0,0,0,0.0,3,0,3,0,0,0,Texans,2020
+31,31,David Johnson,29,RB,12,12,0,0,0,0,0,0,2,1,0,0,0.0,0,0,0,0,0,0,Texans,2020
+9,9,Bryan Anger,32,P,16,0,0,0,0,0,0,0,0,0,0,0,0.0,1,1,0,0,0,0,Texans,2020
+11,11,Steven Mitchell,26,WR,6,1,0,0,0,0,0,0,0,0,0,0,0.0,1,1,0,0,0,0,Texans,2020
+14,14,DeAndre Carter,27,WR,9,0,0,0,0,0,0,0,1,0,0,0,0.0,0,0,0,0,0,0,Texans,2020
+67,67,Charlie Heck,24,T,3,1,0,0,0,0,0,0,1,0,0,0,0.0,0,0,0,0,0,0,Texans,2020
+64,64,Senio Kelemete,30,LG,14,5,0,0,0,0,0,0,0,1,0,0,0.0,0,0,0,0,0,0,Texans,2020
+24,24,C.J. Prosise,26,RB,10,0,0,0,0,0,0,0,1,0,0,0,0.0,0,0,0,0,0,0,Texans,2020
+98,98,Auzoyah Alufohai,24,DT,3,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,1,0,0,0,Texans,2020
+90,90,Ross Blacklock,22,DT,15,1,0,0,0,0,0,0,0,0,0,0,0.0,14,10,4,1,2,0,Texans,2020
+97,97,Andrew Brown,25,DT,3,0,0,0,0,0,0,0,0,0,0,0,0.0,1,0,1,0,0,0,Texans,2020
+43,43,Anthony Chesley,25,DB,3,0,0,0,0,0,0,0,0,0,0,0,0.0,1,1,0,0,0,0,Texans,2020
+51,51,Dylan Cole,26,LB,6,0,0,0,0,0,0,0,0,0,0,0,0.0,6,3,3,0,0,0,Texans,2020
+35,35,Keion Crossen,24,DB,16,4,0,0,0,0,5,0,0,0,0,0,0.0,46,33,13,0,0,0,Texans,2020
+56,56,Kyle Emanuel,29,LB,7,0,0,0,0,0,0,0,0,0,0,0,0.0,3,1,2,0,0,0,Texans,2020
+39,39,Mark Fields II,24,DB,2,0,0,0,0,0,0,0,0,0,0,0,0.0,1,1,0,0,0,0,Texans,2020
+29,29,Phillip Gaines,29,DB,12,2,0,0,0,0,1,0,0,0,0,0,0.0,24,18,6,0,0,0,Texans,2020
+32,32,Lonnie Johnson Jr.,25,DB,16,5,0,0,0,0,0,0,0,0,0,0,0.0,76,56,20,1,3,0,Texans,2020
+58,58,Peter Kalambayi,25,LB,10,0,0,0,0,0,0,0,0,0,0,0,0.0,2,0,2,0,0,0,Texans,2020
+55,55,Benardrick McKinney,28,LB,4,4,0,0,0,0,1,0,0,0,0,0,0.0,37,19,18,1,0,0,Texans,2020
+34,34,John Reid,24,CB,13,1,0,0,0,0,1,0,0,0,0,0,0.0,13,11,2,0,0,0,Texans,2020
+57,57,Brennan Scarlett,27,ROLB,11,4,0,0,0,0,0,0,0,0,0,0,0.0,28,18,10,0,1,0,Texans,2020
+28,28,Michael Thomas,30,DB,9,0,0,0,0,0,0,0,0,0,0,0,0.0,16,8,8,0,0,0,Texans,2020
+46,46,Jon Weeks,34,LS,16,0,0,0,0,0,0,0,0,0,0,0,0.0,1,1,0,0,0,0,Texans,2020

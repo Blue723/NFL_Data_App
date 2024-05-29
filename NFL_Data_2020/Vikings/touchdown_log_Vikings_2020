@@ -1,56 +1,56 @@
-,Rank,Team,Date,Opponent,Win/Loss,Score,Quarter,Distance,Type,Detail,Year
-0,1,Vikings,09/13/2020,GNB,Loss, 34-43,1,1,rush,Dalvin Cook,2020
-1,2,Vikings,09/13/2020,GNB,Loss, 34-43,4,37,pass,Adam Thielen,2020
-2,3,Vikings,09/13/2020,GNB,Loss, 34-43,4,3,rush,Dalvin Cook,2020
-3,4,Vikings,09/13/2020,GNB,Loss, 34-43,4,19,pass,Adam Thielen,2020
-4,5,Vikings,09/20/2020,IND,Loss, 11-28,4,3,rush,Dalvin Cook,2020
-5,6,Vikings,09/27/2020,TEN,Loss, 30-31,1,39,rush,Dalvin Cook,2020
-6,7,Vikings,09/27/2020,TEN,Loss, 30-31,2,16,pass,Adam Thielen,2020
-7,8,Vikings,09/27/2020,TEN,Loss, 30-31,3,71,pass,Justin Jefferson,2020
-8,9,Vikings,09/27/2020,TEN,Loss, 30-31,4,3,pass,Kyle Rudolph,2020
-9,10,Vikings,10/04/2020,HOU,Win, 31-23,1,5,rush,Dalvin Cook,2020
-10,11,Vikings,10/04/2020,HOU,Win, 31-23,2,7,rush,Dalvin Cook,2020
-11,12,Vikings,10/04/2020,HOU,Win, 31-23,3,9,pass,Adam Thielen,2020
-12,13,Vikings,10/04/2020,HOU,Win, 31-23,4,4,rush,Alexander Mattison,2020
-13,14,Vikings,10/11/2020,SEA,Loss, 26-27,1,8,rush,Dalvin Cook,2020
-14,15,Vikings,10/11/2020,SEA,Loss, 26-27,3,3,pass,Adam Thielen,2020
-15,16,Vikings,10/11/2020,SEA,Loss, 26-27,4,6,pass,Adam Thielen,2020
-16,17,Vikings,10/18/2020,ATL,Loss, 23-40,3,11,pass,Justin Jefferson,2020
-17,18,Vikings,10/18/2020,ATL,Loss, 23-40,4,2,pass,Adam Thielen,2020
-18,19,Vikings,10/18/2020,ATL,Loss, 23-40,4,49,pass,Justin Jefferson,2020
-19,20,Vikings,11/01/2020,GNB,Win, 28-22,1,21,rush,Dalvin Cook,2020
-20,21,Vikings,11/01/2020,GNB,Win, 28-22,2,1,rush,Dalvin Cook,2020
-21,22,Vikings,11/01/2020,GNB,Win, 28-22,3,1,rush,Dalvin Cook,2020
-22,23,Vikings,11/01/2020,GNB,Win, 28-22,3,50,pass,Dalvin Cook,2020
-23,24,Vikings,11/08/2020,DET,Win, 34-20,1,5,rush,Dalvin Cook,2020
-24,25,Vikings,11/08/2020,DET,Win, 34-20,1,9,pass,Irv Smith Jr.,2020
-25,26,Vikings,11/08/2020,DET,Win, 34-20,2,22,pass,Ameer Abdullah,2020
-26,27,Vikings,11/08/2020,DET,Win, 34-20,3,1,pass,Irv Smith Jr.,2020
-27,28,Vikings,11/08/2020,DET,Win, 34-20,4,70,rush,Dalvin Cook,2020
-28,29,Vikings,11/16/2020,CHI,Win, 19-13,1,17,pass,Adam Thielen,2020
-29,30,Vikings,11/16/2020,CHI,Win, 19-13,4,6,pass,Adam Thielen,2020
-30,31,Vikings,11/22/2020,DAL,Loss, 28-31,1,1,rush,Dalvin Cook,2020
-31,32,Vikings,11/22/2020,DAL,Loss, 28-31,3,2,pass,Adam Thielen,2020
-32,33,Vikings,11/22/2020,DAL,Loss, 28-31,4,3,pass,Adam Thielen,2020
-33,34,Vikings,11/22/2020,DAL,Loss, 28-31,4,39,pass,Justin Jefferson,2020
-34,35,Vikings,11/29/2020,CAR,Win, 28-27,1,12,pass,Justin Jefferson,2020
-35,36,Vikings,11/29/2020,CAR,Win, 28-27,4,10,pass,Justin Jefferson,2020
-36,37,Vikings,11/29/2020,CAR,Win, 28-27,4,10,pass,Chad Beebe,2020
-37,38,Vikings,12/06/2020,JAX,Win, 27-24,2,3,pass,Adam Thielen,2020
-38,39,Vikings,12/06/2020,JAX,Win, 27-24,3,12,pass,C.J. Ham,2020
-39,40,Vikings,12/06/2020,JAX,Win, 27-24,3,20,pass,Justin Jefferson,2020
-40,41,Vikings,12/13/2020,TAM,Loss, 14-26,2,1,rush,Dalvin Cook,2020
-41,42,Vikings,12/13/2020,TAM,Loss, 14-26,3,14,pass,Irv Smith Jr.,2020
-42,43,Vikings,12/20/2020,CHI,Loss, 27-33,1,3,pass,Adam Thielen,2020
-43,44,Vikings,12/20/2020,CHI,Loss, 27-33,3,1,rush,Dalvin Cook,2020
-44,45,Vikings,12/20/2020,CHI,Loss, 27-33,4,20,pass,Tyler Conklin,2020
-45,46,Vikings,12/25/2020,NOR,Loss, 33-52,1,15,rush,Dalvin Cook,2020
-46,47,Vikings,12/25/2020,NOR,Loss, 33-52,2,4,rush,Mike Boone,2020
-47,48,Vikings,12/25/2020,NOR,Loss, 33-52,3,2,pass,Irv Smith Jr.,2020
-48,49,Vikings,12/25/2020,NOR,Loss, 33-52,3,4,pass,Irv Smith Jr.,2020
-49,50,Vikings,12/25/2020,NOR,Loss, 33-52,4,1,pass,Adam Thielen,2020
-50,51,Vikings,01/03/2021,DET,Win, 37-35,1,28,pass,Alexander Mattison,2020
-51,52,Vikings,01/03/2021,DET,Win, 37-35,2,4,pass,Ameer Abdullah,2020
-52,53,Vikings,01/03/2021,DET,Win, 37-35,2,40,pass,Chad Beebe,2020
-53,54,Vikings,01/03/2021,DET,Win, 37-35,3,2,rush,Alexander Mattison,2020
-54,55,Vikings,01/03/2021,DET,Win, 37-35,4,1,rush,Kirk Cousins,2020
+,Rank,Team,Date,Opponent,Win/Loss,Home_Score,Opponenet_Score,Quarter,Distance,Type,Detail
+1,1,Vikings,2020-09-13,GNB,Loss,34,43,1,1,rush,Dalvin Cook
+2,2,Vikings,2020-09-13,GNB,Loss,34,43,4,37,pass,Adam Thielen
+3,3,Vikings,2020-09-13,GNB,Loss,34,43,4,3,rush,Dalvin Cook
+4,4,Vikings,2020-09-13,GNB,Loss,34,43,4,19,pass,Adam Thielen
+5,5,Vikings,2020-09-20,IND,Loss,11,28,4,3,rush,Dalvin Cook
+6,6,Vikings,2020-09-27,TEN,Loss,30,31,1,39,rush,Dalvin Cook
+7,7,Vikings,2020-09-27,TEN,Loss,30,31,2,16,pass,Adam Thielen
+8,8,Vikings,2020-09-27,TEN,Loss,30,31,3,71,pass,Justin Jefferson
+9,9,Vikings,2020-09-27,TEN,Loss,30,31,4,3,pass,Kyle Rudolph
+10,10,Vikings,2020-10-04,HOU,Win,31,23,1,5,rush,Dalvin Cook
+11,11,Vikings,2020-10-04,HOU,Win,31,23,2,7,rush,Dalvin Cook
+12,12,Vikings,2020-10-04,HOU,Win,31,23,3,9,pass,Adam Thielen
+13,13,Vikings,2020-10-04,HOU,Win,31,23,4,4,rush,Alexander Mattison
+14,14,Vikings,2020-10-11,SEA,Loss,26,27,1,8,rush,Dalvin Cook
+15,15,Vikings,2020-10-11,SEA,Loss,26,27,3,3,pass,Adam Thielen
+16,16,Vikings,2020-10-11,SEA,Loss,26,27,4,6,pass,Adam Thielen
+17,17,Vikings,2020-10-18,ATL,Loss,23,40,3,11,pass,Justin Jefferson
+18,18,Vikings,2020-10-18,ATL,Loss,23,40,4,2,pass,Adam Thielen
+19,19,Vikings,2020-10-18,ATL,Loss,23,40,4,49,pass,Justin Jefferson
+20,20,Vikings,2020-11-01,GNB,Win,28,22,1,21,rush,Dalvin Cook
+21,21,Vikings,2020-11-01,GNB,Win,28,22,2,1,rush,Dalvin Cook
+22,22,Vikings,2020-11-01,GNB,Win,28,22,3,1,rush,Dalvin Cook
+23,23,Vikings,2020-11-01,GNB,Win,28,22,3,50,pass,Dalvin Cook
+24,24,Vikings,2020-11-08,DET,Win,34,20,1,5,rush,Dalvin Cook
+25,25,Vikings,2020-11-08,DET,Win,34,20,1,9,pass,Irv Smith Jr.
+26,26,Vikings,2020-11-08,DET,Win,34,20,2,22,pass,Ameer Abdullah
+27,27,Vikings,2020-11-08,DET,Win,34,20,3,1,pass,Irv Smith Jr.
+28,28,Vikings,2020-11-08,DET,Win,34,20,4,70,rush,Dalvin Cook
+29,29,Vikings,2020-11-16,CHI,Win,19,13,1,17,pass,Adam Thielen
+30,30,Vikings,2020-11-16,CHI,Win,19,13,4,6,pass,Adam Thielen
+31,31,Vikings,2020-11-22,DAL,Loss,28,31,1,1,rush,Dalvin Cook
+32,32,Vikings,2020-11-22,DAL,Loss,28,31,3,2,pass,Adam Thielen
+33,33,Vikings,2020-11-22,DAL,Loss,28,31,4,3,pass,Adam Thielen
+34,34,Vikings,2020-11-22,DAL,Loss,28,31,4,39,pass,Justin Jefferson
+35,35,Vikings,2020-11-29,CAR,Win,28,27,1,12,pass,Justin Jefferson
+36,36,Vikings,2020-11-29,CAR,Win,28,27,4,10,pass,Justin Jefferson
+37,37,Vikings,2020-11-29,CAR,Win,28,27,4,10,pass,Chad Beebe
+38,38,Vikings,2020-12-06,JAX,Win,27,24,2,3,pass,Adam Thielen
+39,39,Vikings,2020-12-06,JAX,Win,27,24,3,12,pass,C.J. Ham
+40,40,Vikings,2020-12-06,JAX,Win,27,24,3,20,pass,Justin Jefferson
+41,41,Vikings,2020-12-13,TAM,Loss,14,26,2,1,rush,Dalvin Cook
+42,42,Vikings,2020-12-13,TAM,Loss,14,26,3,14,pass,Irv Smith Jr.
+43,43,Vikings,2020-12-20,CHI,Loss,27,33,1,3,pass,Adam Thielen
+44,44,Vikings,2020-12-20,CHI,Loss,27,33,3,1,rush,Dalvin Cook
+45,45,Vikings,2020-12-20,CHI,Loss,27,33,4,20,pass,Tyler Conklin
+46,46,Vikings,2020-12-25,NOR,Loss,33,52,1,15,rush,Dalvin Cook
+47,47,Vikings,2020-12-25,NOR,Loss,33,52,2,4,rush,Mike Boone
+48,48,Vikings,2020-12-25,NOR,Loss,33,52,3,2,pass,Irv Smith Jr.
+49,49,Vikings,2020-12-25,NOR,Loss,33,52,3,4,pass,Irv Smith Jr.
+50,50,Vikings,2020-12-25,NOR,Loss,33,52,4,1,pass,Adam Thielen
+51,51,Vikings,2021-01-03,DET,Win,37,35,1,28,pass,Alexander Mattison
+52,52,Vikings,2021-01-03,DET,Win,37,35,2,4,pass,Ameer Abdullah
+53,53,Vikings,2021-01-03,DET,Win,37,35,2,40,pass,Chad Beebe
+54,54,Vikings,2021-01-03,DET,Win,37,35,3,2,rush,Alexander Mattison
+55,55,Vikings,2021-01-03,DET,Win,37,35,4,1,rush,Kirk Cousins

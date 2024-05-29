@@ -1,17 +1,17 @@
-,No.,Team,Player,Age,Position,Games Played,Games Started as an Offensive or Defensive Player,Rushing Attempts,Rushing Yards Gained,Rushing Touchdown,First Downs Rushing,Rushing Success Rate,Longest Rushing Attempt,Rushing Yards per Attempt,Rushing Yards per Game,Rushing Attempts per Game,Pass Targets,Receptions,Receiving Yards,Receiving Yards per Reception,Receiving Touchdowns,First Downs Receiving,Receiving Success Rate,Longest Reception,Receptions per Game,Receiving Yards per Game,Catch Per.,Receiving Yards per Target,Touches: Rushing Attempts and Receptions,Scrimmage Yards per Touch: Rushing + Receiving Yardage per Opportunity,Yards from Scrimmage: Receiving and Rushing Yards,Rushing and Receiving Touchdowns,Lost and Recovered Fumbles,Year
-0,30,Steelers,James Conner,25,RB,13,11,169,721,6,42,46.7,59,4.3,55.5,13.0,43,35,215,6.1,0,10,41.9,18,2.7,16.5,81.4,5.0,204,4.6,936,6,2,2020
-1,24,Steelers,Benny Snell Jr.,22,RB,16,3,111,368,4,25,41.4,30,3.3,23.0,6.9,14,10,61,6.1,0,3,50.0,14,0.6,3.8,71.4,4.4,121,3.5,429,4,2,2020
-2,26,Steelers,Anthony McFarland Jr.,21,RB,11,0,33,113,0,4,36.4,20,3.4,10.3,3.0,9,6,54,9.0,0,1,55.6,17,0.5,4.9,66.7,6.0,39,4.3,167,0,0,2020
-3,7,Steelers,Ben Roethlisberger,38,QB,15,15,25,11,0,3,12.0,11,0.4,0.7,1.7,0,0,0,,0,0,,0,,,0.0,,25,0.4,11,0,5,2020
-4,11,Steelers,Chase Claypool,22,WR,16,6,10,16,2,4,50.0,8,1.6,1.0,0.6,109,62,873,14.1,9,41,48.6,84,3.9,54.6,56.9,8.0,72,12.3,889,11,3,2020
-5,38,Steelers,Jaylen Samuels,24,RB,14,1,9,28,0,1,33.3,6,3.1,2.0,0.6,14,9,46,5.1,0,2,42.9,12,0.6,3.3,64.3,3.3,18,4.1,74,0,0,2020
-6,2,Steelers,Mason Rudolph,25,QB,5,1,7,-6,0,0,0.0,1,-0.9,-1.2,1.4,0,0,0,,0,0,,0,,,0.0,,7,-0.9,-6,0,0,2020
-7,14,Steelers,Ray-Ray McCloud,24,WR,16,2,4,65,0,1,50.0,58,16.3,4.1,0.3,22,20,77,3.9,0,3,40.9,13,1.3,4.8,90.9,3.5,24,5.9,142,0,2,2020
-8,18,Steelers,Diontae Johnson,24,WR,15,13,3,15,0,0,33.3,9,5.0,1.0,0.2,144,88,923,10.5,7,45,47.2,47,5.9,61.5,61.1,6.4,91,10.3,938,7,2,2020
-9,5,Steelers,Joshua Dobbs,25,QB,1,0,2,20,0,1,50.0,13,10.0,20.0,2.0,0,0,0,,0,0,,0,,,0.0,,2,10.0,20,0,0,2020
-10,19,Steelers,JuJu Smith-Schuster,24,WR,16,14,0,0,0,0,,0,,,,128,97,831,8.6,9,48,61.7,31,6.1,51.9,75.8,6.5,97,8.6,831,9,3,2020
-11,85,Steelers,Eric Ebron,27,TE,15,9,0,0,0,0,,0,,,,91,56,558,10.0,5,30,46.2,27,3.7,37.2,61.5,6.1,56,10.0,558,5,1,2020
-12,13,Steelers,James Washington,24,WR,16,7,0,0,0,0,,0,,,,56,30,392,13.1,5,19,42.9,50,1.9,24.5,53.6,7.0,30,13.1,392,5,0,2020
-13,89,Steelers,Vance McDonald,30,TE,14,12,0,0,0,0,,0,,,,20,15,99,6.6,0,4,35.0,15,1.1,7.1,75.0,5.0,15,6.6,99,0,0,2020
-14,65,Steelers,Jerald Hawkins,27,T,13,0,0,0,0,0,,0,,,,1,0,0,,0,0,0.0,0,0.0,0.0,0.0,0.0,0,,0,0,0,2020
-15,87,Steelers,Kevin Rader,25,TE,1,1,0,0,0,0,,0,,,,1,0,0,,0,0,0.0,0,0.0,0.0,0.0,0.0,0,,0,0,0,2020
+,No.,Player,Age,Position,Games Played,Games Started as an Offensive or Defensive Player,Rushing Attempts,Rushing Yards Gained,Rushing Touchdown,First Downs Rushing,Rushing Success Rate,Longest Rushing Attempt,Rushing Yards per Attempt,Rushing Yards per Game,Rushing Attempts per Game,Pass Targets,Receptions,Receiving Yards,Receiving Yards per Reception,Receiving Touchdowns,First Downs Receiving,Receiving Success Rate,Longest Reception,Receptions per Game,Receiving Yards per Game,Catch Per.,Receiving Yards per Target,Touches: Rushing Attempts and Receptions,Scrimmage Yards per Touch: Rushing + Receiving Yardage per Opportunity,Yards from Scrimmage: Receiving and Rushing Yards,Rushing and Receiving Touchdowns,Lost and Recovered Fumbles,Team,Year
+30,30,James Conner,25,RB,13,11,169,721,6,42,46.7,59,4.3,55.5,13.0,43,35,215,6.1,0,10,41.9,18,2.7,16.5,81.4,5.0,204,4.6,936,6,2,Steelers,2020
+24,24,Benny Snell Jr.,22,RB,16,3,111,368,4,25,41.4,30,3.3,23.0,6.9,14,10,61,6.1,0,3,50.0,14,0.6,3.8,71.4,4.4,121,3.5,429,4,2,Steelers,2020
+26,26,Anthony McFarland Jr.,22,RB,11,0,33,113,0,4,36.4,20,3.4,10.3,3.0,9,6,54,9.0,0,1,55.6,17,0.5,4.9,66.7,6.0,39,4.3,167,0,0,Steelers,2020
+7,7,Ben Roethlisberger,38,QB,15,15,25,11,0,3,12.0,11,0.4,0.7,1.7,0,0,0,0.0,0,0,0.0,0,0.0,0.0,0.0,0.0,25,0.4,11,0,5,Steelers,2020
+11,11,Chase Claypool,22,WR,16,6,10,16,2,4,50.0,8,1.6,1.0,0.6,109,62,873,14.1,9,41,48.6,84,3.9,54.6,56.9,8.0,72,12.3,889,11,3,Steelers,2020
+38,38,Jaylen Samuels,24,RB,14,1,9,28,0,1,33.3,6,3.1,2.0,0.6,14,9,46,5.1,0,2,42.9,12,0.6,3.3,64.3,3.3,18,4.1,74,0,0,Steelers,2020
+2,2,Mason Rudolph,25,QB,5,1,7,-6,0,0,0.0,1,-0.9,-1.2,1.4,0,0,0,0.0,0,0,0.0,0,0.0,0.0,0.0,0.0,7,-0.9,-6,0,0,Steelers,2020
+14,14,Ray-Ray McCloud,24,WR,16,2,4,65,0,1,50.0,58,16.3,4.1,0.3,22,20,77,3.9,0,3,40.9,13,1.3,4.8,90.9,3.5,24,5.9,142,0,2,Steelers,2020
+18,18,Diontae Johnson,24,WR,15,13,3,15,0,0,33.3,9,5.0,1.0,0.2,144,88,923,10.5,7,45,47.2,47,5.9,61.5,61.1,6.4,91,10.3,938,7,2,Steelers,2020
+5,5,Joshua Dobbs,25,QB,1,0,2,20,0,1,50.0,13,10.0,20.0,2.0,0,0,0,0.0,0,0,0.0,0,0.0,0.0,0.0,0.0,2,10.0,20,0,0,Steelers,2020
+19,19,JuJu Smith-Schuster,24,WR,16,14,0,0,0,0,0.0,0,0.0,0.0,0.0,128,97,831,8.6,9,48,61.7,31,6.1,51.9,75.8,6.5,97,8.6,831,9,3,Steelers,2020
+85,85,Eric Ebron,27,TE,15,9,0,0,0,0,0.0,0,0.0,0.0,0.0,91,56,558,10.0,5,30,46.2,27,3.7,37.2,61.5,6.1,56,10.0,558,5,1,Steelers,2020
+13,13,James Washington,24,WR,16,7,0,0,0,0,0.0,0,0.0,0.0,0.0,56,30,392,13.1,5,19,42.9,50,1.9,24.5,53.6,7.0,30,13.1,392,5,0,Steelers,2020
+89,89,Vance McDonald,30,TE,14,12,0,0,0,0,0.0,0,0.0,0.0,0.0,20,15,99,6.6,0,4,35.0,15,1.1,7.1,75.0,5.0,15,6.6,99,0,0,Steelers,2020
+65,65,Jerald Hawkins,27,T,13,0,0,0,0,0,0.0,0,0.0,0.0,0.0,1,0,0,0.0,0,0,0.0,0,0.0,0.0,0.0,0.0,0,0.0,0,0,0,Steelers,2020
+87,87,Kevin Rader,25,TE,1,1,0,0,0,0,0.0,0,0.0,0.0,0.0,1,0,0,0.0,0,0,0.0,0,0.0,0.0,0.0,0.0,0,0.0,0,0,0,Steelers,2020

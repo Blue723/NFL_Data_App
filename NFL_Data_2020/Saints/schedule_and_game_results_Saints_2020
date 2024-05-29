@@ -1,21 +1,19 @@
-,Week,Team,Day,Date,Time,Win/Loss,Overtime,Team Record,Home/Away,Opponent,Points Scored,Points Allowed,Offense 1st Down,Total Yards Gained of Offense,Total yards Gained by Passing,Total Yards Gained by Rushing,Offense Turnovers,Defense 1st Down,Total Yards Allowed by Defense,Total Passing Yards Allowed by Defense,Total Rushing Yards Allowed by Defense,Defense Turnovers,Offense,Defense,Sp. Tms,Year
-0,0,Saints,Sun,September 13,,W,0,1-0,home,Tampa Bay Buccaneers,34,23,18,271,189,82,0,23,310,224,86,3,1.98,-0.48,11.57,2020
-1,1,Saints,Mon,September 21,,L,0,1-1,away,Las Vegas Raiders,24,34,26,424,312,112,1,28,377,261,116,1,13.97,-22.48,0.31,2020
-2,2,Saints,Sun,September 27,,L,0,1-2,home,Green Bay Packers,30,37,21,397,275,122,1,24,369,271,98,0,14.59,-19.67,-5.23,2020
-3,3,Saints,Sun,October 4,,W,0,2-2,away,Detroit Lions,35,29,29,392,228,164,1,18,281,191,90,1,23.24,-11.85,-5.65,2020
-4,4,1,1,1,1.0,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1.0,1.0,1.0,1
-5,5,Saints,,,,,0,,home,<strong>Bye Week</strong>,0,0,0,0,0,0,0,0,0,0,0,0,,,,2020
-6,6,Saints,Sun,October 25,,W,0,4-2,home,Carolina Panthers,27,24,26,415,277,138,1,18,283,246,37,0,21.29,-17.99,1.07,2020
-7,7,1,1,1,1.0,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1.0,1.0,1.0,1
-8,8,Saints,Sun,November 8,,W,0,6-2,away,Tampa Bay Buccaneers,38,3,27,420,282,138,2,13,194,186,8,3,13.73,19.57,-0.26,2020
-9,9,Saints,Sun,November 15,,W,0,7-2,home,San Francisco 49ers,27,13,17,237,123,114,2,21,281,232,49,4,-2.66,8.03,6.47,2020
-10,10,Saints,Sun,November 22,,W,0,8-2,home,Atlanta Falcons,24,9,24,376,210,166,1,14,248,196,52,2,12.49,4.08,-8.6,2020
-11,11,Saints,Sun,November 29,,W,0,9-2,away,Denver Broncos,31,3,19,292,63,229,1,6,112,12,100,3,4.99,26.81,-4.76,2020
-12,12,Saints,Sun,December 6,,W,0,10-2,away,Atlanta Falcons,21,16,23,424,217,207,1,21,332,262,70,1,8.37,0.46,-6.27,2020
-13,13,Saints,Sun,December 13,,L,0,10-3,away,Philadelphia Eagles,21,24,20,358,262,96,2,21,413,167,246,1,4.23,-6.77,-1.33,2020
-14,14,Saints,Sun,December 20,,L,0,10-4,home,Kansas City Chiefs,29,32,15,285,225,60,1,34,411,232,179,1,0.3,-12.26,8.71,2020
-15,15,Saints,Fri,December 25,,W,0,11-4,home,Minnesota Vikings,52,33,36,583,319,264,2,25,364,274,90,0,35.03,-16.7,0.55,2020
-16,16,Saints,Sun,January 3,,W,0,12-4,away,Carolina Panthers,33,7,20,347,191,156,0,17,320,246,74,5,10.71,14.42,0.09,2020
-17,17,Saints,,<strong>Playoffs</strong>,,,0,,home,,0,0,0,0,0,0,0,0,0,0,0,0,,,,2020
-18,18,Saints,Sun,January 10,,W,0,13-4,home,Chicago Bears,21,9,27,385,262,123,1,11,239,191,48,0,11.98,7.56,-9.21,2020
-19,19,Saints,Sun,January 17,,L,0,13-5,home,Tampa Bay Buccaneers,20,30,20,294,190,104,4,20,316,189,127,0,-6.52,-5.85,0.63,2020
+,Week,Day,Date,Time,Win/Loss,Overtime,Team Record,Home/Away,Opponent,Points Scored,Points Allowed,Offense 1st Down,Total Yards Gained of Offense,Total yards Gained by Passing,Total Yards Gained by Rushing,Offense Turnovers,Defense 1st Down,Total Yards Allowed by Defense,Total Passing Yards Allowed by Defense,Total Rushing Yards Allowed by Defense,Defense Turnovers,Offense,Defense,Sp. Tms,Team,Year
+0,1,Sun,2020-09-13,nan,Win,0,1-0,home,Tampa Bay Buccaneers,34,23,18,271,189,82,0,23,310,224,86,3,1.98,-0.48,11.57,Saints,2020
+1,2,Mon,2020-09-21,nan,Loss,0,1-1,away,Las Vegas Raiders,24,34,26,424,312,112,1,28,377,261,116,1,13.97,-22.48,0.31,Saints,2020
+2,3,Sun,2020-09-27,nan,Loss,0,1-2,home,Green Bay Packers,30,37,21,397,275,122,1,24,369,271,98,0,14.59,-19.67,-5.23,Saints,2020
+3,4,Sun,2020-10-04,nan,Win,0,2-2,away,Detroit Lions,35,29,29,392,228,164,1,18,281,191,90,1,23.24,-11.85,-5.65,Saints,2020
+4,5,Mon,2020-10-12,nan,Win,1,3-2,home,Los Angeles Chargers,30,27,23,408,313,95,1,19,350,239,111,0,3.09,-6.8,7.44,Saints,2020
+5,7,Sun,2020-10-25,nan,Win,0,4-2,home,Carolina Panthers,27,24,26,415,277,138,1,18,283,246,37,0,21.29,-17.99,1.07,Saints,2020
+6,8,Sun,2020-11-01,nan,Win,1,5-2,away,Chicago Bears,26,23,23,394,272,122,0,18,329,233,96,1,6.13,-0.1,-4.3,Saints,2020
+7,9,Sun,2020-11-08,nan,Win,0,6-2,away,Tampa Bay Buccaneers,38,3,27,420,282,138,2,13,194,186,8,3,13.73,19.57,-0.26,Saints,2020
+8,10,Sun,2020-11-15,nan,Win,0,7-2,home,San Francisco 49ers,27,13,17,237,123,114,2,21,281,232,49,4,-2.66,8.03,6.47,Saints,2020
+9,11,Sun,2020-11-22,nan,Win,0,8-2,home,Atlanta Falcons,24,9,24,376,210,166,1,14,248,196,52,2,12.49,4.08,-8.6,Saints,2020
+10,12,Sun,2020-11-29,nan,Win,0,9-2,away,Denver Broncos,31,3,19,292,63,229,1,6,112,12,100,3,4.99,26.81,-4.76,Saints,2020
+11,13,Sun,2020-12-06,nan,Win,0,10-2,away,Atlanta Falcons,21,16,23,424,217,207,1,21,332,262,70,1,8.37,0.46,-6.27,Saints,2020
+12,14,Sun,2020-12-13,nan,Loss,0,10-3,away,Philadelphia Eagles,21,24,20,358,262,96,2,21,413,167,246,1,4.23,-6.77,-1.33,Saints,2020
+13,15,Sun,2020-12-20,nan,Loss,0,10-4,home,Kansas City Chiefs,29,32,15,285,225,60,1,34,411,232,179,1,0.3,-12.26,8.71,Saints,2020
+14,16,Fri,2020-12-25,nan,Win,0,11-4,home,Minnesota Vikings,52,33,36,583,319,264,2,25,364,274,90,0,35.03,-16.7,0.55,Saints,2020
+15,17,Sun,2021-01-03,nan,Win,0,12-4,away,Carolina Panthers,33,7,20,347,191,156,0,17,320,246,74,5,10.71,14.42,0.09,Saints,2020
+16,19,Sun,2021-01-10,nan,Win,0,13-4,home,Chicago Bears,21,9,27,385,262,123,1,11,239,191,48,0,11.98,7.56,-9.21,Saints,2020
+17,20,Sun,2021-01-17,nan,Loss,0,13-5,home,Tampa Bay Buccaneers,20,30,20,294,190,104,4,20,316,189,127,0,-6.52,-5.85,0.63,Saints,2020

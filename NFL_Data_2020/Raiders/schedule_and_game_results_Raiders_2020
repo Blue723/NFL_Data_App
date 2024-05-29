@@ -1,18 +1,17 @@
-,Week,Team,Day,Date,Time,Win/Loss,Overtime,Team Record,Home/Away,Opponent,Points Scored,Points Allowed,Offense 1st Down,Total Yards Gained of Offense,Total yards Gained by Passing,Total Yards Gained by Rushing,Offense Turnovers,Defense 1st Down,Total Yards Allowed by Defense,Total Passing Yards Allowed by Defense,Total Rushing Yards Allowed by Defense,Defense Turnovers,Offense,Defense,Sp. Tms,Year
-0,0,Raiders,Sun,September 13,,W,0,1-0,away,Carolina Panthers,34,30,23,372,239,133,0,22,388,259,129,0,19.49,-16.44,-0.04,2020
-1,1,Raiders,Mon,September 21,,W,0,2-0,home,New Orleans Saints,34,24,28,377,261,116,1,26,424,312,112,1,22.48,-13.97,-0.31,2020
-2,2,Raiders,Sun,September 27,,L,0,2-1,away,New England Patriots,20,36,22,375,249,126,3,25,406,156,250,1,0.71,-11.03,-5.81,2020
-3,3,Raiders,Sun,October 4,,L,0,2-2,home,Buffalo Bills,23,30,24,383,297,86,2,21,337,274,63,0,7.2,-16.49,1.37,2020
-4,4,Raiders,Sun,October 11,,W,0,3-2,away,Kansas City Chiefs,40,32,22,490,346,144,1,21,413,333,80,1,22.81,-10.45,-0.4,2020
-5,5,Raiders,,,,,0,,home,<strong>Bye Week</strong>,0,0,0,0,0,0,0,0,0,0,0,0,,,,2020
-6,6,Raiders,Sun,October 25,,L,0,3-3,home,Tampa Bay Buccaneers,20,45,19,347,271,76,1,29,454,369,85,0,1.69,-30.56,4.89,2020
-7,7,Raiders,Sun,November 1,,W,0,4-3,away,Cleveland Browns,16,6,24,309,100,209,0,14,223,122,101,1,13.68,0.65,-2.42,2020
-8,8,Raiders,Sun,November 8,,W,0,5-3,away,Los Angeles Chargers,31,26,16,320,160,160,1,26,440,312,128,1,11.13,-17.58,10.69,2020
-9,9,Raiders,Sun,November 15,,W,0,6-3,home,Denver Broncos,37,12,21,357,154,203,0,20,313,247,66,5,10.76,17.38,-3.35,2020
-10,10,Raiders,Sun,November 22,,L,0,6-4,home,Kansas City Chiefs,31,35,25,364,275,89,1,36,460,352,108,1,19.95,-28.52,2.56,2020
-11,11,Raiders,Sun,November 29,,L,0,6-5,away,Atlanta Falcons,6,43,13,243,203,40,5,23,304,179,125,1,-34.18,-3.82,4.76,2020
-12,12,Raiders,Sun,December 6,,W,0,7-5,away,New York Jets,31,28,24,440,368,72,2,24,376,170,206,3,9.86,-7.59,-0.37,2020
-13,13,Raiders,Sun,December 13,,L,0,7-6,home,Indianapolis Colts,27,44,26,424,345,79,3,25,456,244,212,0,9.54,-30.23,4.58,2020
-14,14,1,1,1,1.0,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1.0,1.0,1.0,1
-15,15,Raiders,Sat,December 26,,L,0,7-8,home,Miami Dolphins,25,26,23,418,314,104,1,18,383,253,130,0,11.22,-6.02,-3.21,2020
-16,16,Raiders,Sun,January 3,,W,0,8-8,away,Denver Broncos,32,31,22,465,359,106,4,24,446,324,122,0,4.45,-13.17,8.91,2020
+,Week,Day,Date,Time,Win/Loss,Overtime,Team Record,Home/Away,Opponent,Points Scored,Points Allowed,Offense 1st Down,Total Yards Gained of Offense,Total yards Gained by Passing,Total Yards Gained by Rushing,Offense Turnovers,Defense 1st Down,Total Yards Allowed by Defense,Total Passing Yards Allowed by Defense,Total Rushing Yards Allowed by Defense,Defense Turnovers,Offense,Defense,Sp. Tms,Team,Year
+0,1,Sun,2020-09-13,nan,Win,0,1-0,away,Carolina Panthers,34,30,23,372,239,133,0,22,388,259,129,0,19.49,-16.44,-0.04,Raiders,2020
+1,2,Mon,2020-09-21,nan,Win,0,2-0,home,New Orleans Saints,34,24,28,377,261,116,1,26,424,312,112,1,22.48,-13.97,-0.31,Raiders,2020
+2,3,Sun,2020-09-27,nan,Loss,0,2-1,away,New England Patriots,20,36,22,375,249,126,3,25,406,156,250,1,0.71,-11.03,-5.81,Raiders,2020
+3,4,Sun,2020-10-04,nan,Loss,0,2-2,home,Buffalo Bills,23,30,24,383,297,86,2,21,337,274,63,0,7.2,-16.49,1.37,Raiders,2020
+4,5,Sun,2020-10-11,nan,Win,0,3-2,away,Kansas City Chiefs,40,32,22,490,346,144,1,21,413,333,80,1,22.81,-10.45,-0.4,Raiders,2020
+5,7,Sun,2020-10-25,nan,Loss,0,3-3,home,Tampa Bay Buccaneers,20,45,19,347,271,76,1,29,454,369,85,0,1.69,-30.56,4.89,Raiders,2020
+6,8,Sun,2020-11-01,nan,Win,0,4-3,away,Cleveland Browns,16,6,24,309,100,209,0,14,223,122,101,1,13.68,0.65,-2.42,Raiders,2020
+7,9,Sun,2020-11-08,nan,Win,0,5-3,away,Los Angeles Chargers,31,26,16,320,160,160,1,26,440,312,128,1,11.13,-17.58,10.69,Raiders,2020
+8,10,Sun,2020-11-15,nan,Win,0,6-3,home,Denver Broncos,37,12,21,357,154,203,0,20,313,247,66,5,10.76,17.38,-3.35,Raiders,2020
+9,11,Sun,2020-11-22,nan,Loss,0,6-4,home,Kansas City Chiefs,31,35,25,364,275,89,1,36,460,352,108,1,19.95,-28.52,2.56,Raiders,2020
+10,12,Sun,2020-11-29,nan,Loss,0,6-5,away,Atlanta Falcons,6,43,13,243,203,40,5,23,304,179,125,1,-34.18,-3.82,4.76,Raiders,2020
+11,13,Sun,2020-12-06,nan,Win,0,7-5,away,New York Jets,31,28,24,440,368,72,2,24,376,170,206,3,9.86,-7.59,-0.37,Raiders,2020
+12,14,Sun,2020-12-13,nan,Loss,0,7-6,home,Indianapolis Colts,27,44,26,424,345,79,3,25,456,244,212,0,9.54,-30.23,4.58,Raiders,2020
+13,15,Thu,2020-12-17,nan,Loss,1,7-7,home,Los Angeles Chargers,27,30,27,449,276,173,1,27,402,306,96,0,16.83,-23.38,4.42,Raiders,2020
+14,16,Sat,2020-12-26,nan,Loss,0,7-8,home,Miami Dolphins,25,26,23,418,314,104,1,18,383,253,130,0,11.22,-6.02,-3.21,Raiders,2020
+15,17,Sun,2021-01-03,nan,Win,0,8-8,away,Denver Broncos,32,31,22,465,359,106,4,24,446,324,122,0,4.45,-13.17,8.91,Raiders,2020

@@ -1,44 +1,44 @@
-,No.,Team,Player,Age,Pos,Games Played,Games Started,Passes Intercepted on Defense,Yards Interceptions were Returned,Interceptions Returned for Touchdowns,Longest Interception Return,Passes Defended by Defensive Player,# Forced Fumble by Opp.,# Fumbled both Lost and Recovered by Own Team,Fumbles Recovered by Original Fumbler,Yards Recovered Fumbles were Returned,Fumbles Recovered for Touchdown,Sacks,Tackles Solo+Assisted,Solo Tackles,Assisted Tackles,Tackles for Loss,Quarterback Hits,Safeties Scored by Player/Team,Year
-0,24,Raiders,Johnathan Abram,24,SS,13,13,2,29,0,24,6,0,0,1,0,0,0.0,86,60,26,3,4,0,2020
-1,50,Raiders,Nicholas Morrow,25,LLB,14,11,1,6,0,6,9,1,0,1,0,0,3.0,78,62,16,8,6,0,2020
-2,44,Raiders,Nick Kwiatkoski,27,MLB,12,12,1,9,0,9,4,1,0,0,0,0,1.0,81,53,28,3,2,0,2020
-3,27,Raiders,Trayvon Mullen,23,LCB/RCB,16,16,2,0,0,0,14,0,0,0,0,0,0.0,64,56,8,2,0,0,2020
-4,26,Raiders,Nevin Lawson,29,RCB,14,9,0,0,0,0,4,2,0,1,0,0,1.0,61,47,14,1,1,0,2020
-5,90,Raiders,Johnathan Hankins,28,LDT,16,16,0,0,0,0,0,0,0,1,0,0,1.0,48,27,21,1,4,0,2020
-6,38,Raiders,Jeff Heath,29,FS,13,5,3,89,0,47,4,0,0,0,0,0,0.0,37,28,9,1,1,0,2020
-7,98,Raiders,Maxx Crosby,23,RDE,16,16,0,0,0,0,1,0,0,1,0,0,7.0,39,20,19,14,13,0,2020
-8,94,Raiders,Carl Nassib,27,LDE,14,5,1,23,0,23,5,0,0,0,0,0,2.5,28,17,11,5,9,0,2020
-9,96,Raiders,Clelin Ferrell,23,LDE,11,11,0,0,0,0,3,2,0,0,0,0,2.0,27,18,9,3,10,0,2020
-10,73,Raiders,Maurice Hurst Jr.,25,DT,11,3,0,0,0,0,1,0,0,0,0,0,0.5,27,14,13,1,6,0,2020
-11,22,Raiders,Keisean Nixon,23,DB,15,1,0,0,0,0,0,0,2,0,0,0,0.0,14,9,5,0,1,0,2020
-12,58,Raiders,Kyle Wilber,31,LB,16,0,0,0,0,0,0,0,0,1,0,0,0.0,12,7,5,0,0,0,2020
-13,91,Raiders,Kendal Vickers,25,DE,15,2,0,0,0,0,0,0,0,0,0,0,2.0,10,5,5,3,3,0,2020
-14,4,Raiders,Derek Carr,29,QB,16,16,0,0,0,0,0,0,11,0,-6,0,0.0,0,0,0,0,0,0,2020
-15,85,Raiders,Derek Carrier,30,TE,16,0,0,0,0,0,0,0,0,0,0,0,0.0,7,3,4,0,0,0,2020
-16,92,Raiders,Chris Smith,28,DE,8,0,0,0,0,0,0,0,0,0,0,0,1.0,5,4,1,0,4,0,2020
-17,23,Raiders,Devontae Booker,28,RB,16,1,0,0,0,0,0,0,1,1,0,0,0.0,2,1,1,0,0,0,2020
-18,13,Raiders,Hunter Renfrow,25,WR,16,6,0,0,0,0,0,0,2,0,0,0,0.0,1,1,0,0,0,0,2020
-19,45,Raiders,Alec Ingold,24,FB,16,4,0,0,0,0,0,0,0,1,0,0,0.0,1,1,0,0,0,0,2020
-20,11,Raiders,Henry Ruggs III,21,WR,13,12,0,0,0,0,0,0,2,1,0,0,0.0,0,0,0,0,0,0,2020
-21,6,Raiders,AJ Cole III,25,P,16,0,0,0,0,0,0,0,1,1,-7,0,0.0,0,0,0,0,0,0,2020
-22,28,Raiders,Josh Jacobs,22,RB,15,15,0,0,0,0,0,0,2,0,0,0,0.0,0,0,0,0,0,0,2020
-23,83,Raiders,Darren Waller,28,TE,16,15,0,0,0,0,0,0,2,0,0,0,0.0,0,0,0,0,0,0,2020
-24,61,Raiders,Rodney Hudson,31,C,16,16,0,0,0,0,0,0,0,1,0,0,0.0,0,0,0,0,0,0,2020
-25,87,Raiders,Foster Moreau,23,TE,16,2,0,0,0,0,0,0,0,0,0,0,0.0,1,0,1,0,0,0,2020
-26,30,Raiders,Jalen Richard,27,RB,13,0,0,0,0,0,0,0,1,0,0,0,0.0,0,0,0,0,0,0,2020
-27,20,Raiders,Damon Arnette,24,CB,9,7,0,0,0,0,2,0,0,0,0,0,0.0,25,21,4,1,0,0,2020
-28,51,Raiders,Vic Beasley,28,DE,5,0,0,0,0,0,0,0,0,0,0,0,0.0,1,1,0,0,0,0,2020
-29,97,Raiders,Maliek Collins,25,RDT,12,11,0,0,0,0,0,0,0,0,0,0,0.0,15,8,7,0,1,0,2020
-30,25,Raiders,Erik Harris,30,FS,14,12,0,0,0,0,5,1,0,0,0,0,0.0,61,44,17,1,1,0,2020
-31,95,Raiders,David Irving,27,DT,2,0,0,0,0,0,0,0,0,0,0,0,0.0,4,2,2,0,0,0,2020
-32,31,Raiders,Isaiah Johnson,25,DB,14,0,0,0,0,0,4,0,0,0,0,0,0.0,13,7,6,0,0,0,2020
-33,95,Raiders,Datone Jones,30,DE,1,0,0,0,0,0,0,0,0,0,0,0,0.0,2,2,0,0,0,0,2020
-34,29,Raiders,Lamarcus Joyner,30,LLB,14,6,0,0,0,0,5,0,0,0,0,0,0.0,66,53,13,6,0,0,2020
-35,99,Raiders,Arden Key,24,DE,14,0,0,0,0,0,2,0,0,0,0,0,0.0,15,10,5,2,11,0,2020
-36,32,Raiders,Dallin Leavitt,26,DB,9,0,0,0,0,0,2,0,0,0,0,0,0.0,10,4,6,0,0,0,2020
-37,42,Raiders,Cory Littleton,27,RLB,14,14,0,0,0,0,0,0,0,0,0,0,0.0,82,56,26,4,0,0,2020
-38,54,Raiders,Raekwon McMillan,25,LB,16,4,0,0,0,0,1,1,0,0,0,0,0.0,27,17,10,1,0,0,2020
-39,21,Raiders,Amik Robertson,22,CB,8,0,0,0,0,0,0,0,0,0,0,0,0.0,4,3,1,0,0,0,2020
-40,93,Raiders,Daniel Ross,27,DT,3,0,0,0,0,0,0,0,0,0,0,0,0.0,5,3,2,0,0,0,2020
-41,53,Raiders,Javin White,23,LB,4,0,0,0,0,0,0,0,0,0,0,0,0.0,4,3,1,1,0,0,2020
-42,36,Raiders,Daryl Worley,25,DB,2,1,0,0,0,0,2,0,0,0,0,0,0.0,8,5,3,0,0,0,2020
+,No.,Player,Age,Pos,Games Played,Games Started,Passes Intercepted on Defense,Yards Interceptions were Returned,Interceptions Returned for Touchdowns,Longest Interception Return,Passes Defended by Defensive Player,# Forced Fumble by Opp.,# Fumbled both Lost and Recovered by Own Team,Fumbles Recovered by Original Fumbler,Yards Recovered Fumbles were Returned,Fumbles Recovered for Touchdown,Sacks,Tackles Solo+Assisted,Solo Tackles,Assisted Tackles,Tackles for Loss,Quarterback Hits,Safeties Scored by Player/Team,Team,Year
+24,24,Johnathan Abram,24,SS,13,13,2,29,0,24,6,0,0,1,0,0,0.0,86,60,26,3,4,0,Raiders,2020
+50,50,Nicholas Morrow,25,LLB,14,11,1,6,0,6,9,1,0,1,0,0,3.0,78,62,16,8,6,0,Raiders,2020
+44,44,Nick Kwiatkoski,27,MLB,12,12,1,9,0,9,4,1,0,0,0,0,1.0,81,53,28,3,2,0,Raiders,2020
+27,27,Trayvon Mullen,23,LCB/RCB,16,16,2,0,0,0,14,0,0,0,0,0,0.0,64,56,8,2,0,0,Raiders,2020
+26,26,Nevin Lawson,29,RCB,14,9,0,0,0,0,4,2,0,1,0,0,1.0,61,47,14,1,1,0,Raiders,2020
+90,90,Johnathan Hankins,28,LDT,16,16,0,0,0,0,0,0,0,1,0,0,1.0,48,27,21,1,4,0,Raiders,2020
+38,38,Jeff Heath,29,FS,13,5,3,89,0,47,4,0,0,0,0,0,0.0,37,28,9,1,1,0,Raiders,2020
+98,98,Maxx Crosby,23,RDE,16,16,0,0,0,0,1,0,0,1,0,0,7.0,39,20,19,14,13,0,Raiders,2020
+94,94,Carl Nassib,27,LDE,14,5,1,23,0,23,5,0,0,0,0,0,2.5,28,17,11,5,9,0,Raiders,2020
+96,96,Clelin Ferrell,23,LDE,11,11,0,0,0,0,3,2,0,0,0,0,2.0,27,18,9,3,10,0,Raiders,2020
+73,73,Maurice Hurst Jr.,25,DT,11,3,0,0,0,0,1,0,0,0,0,0,0.5,27,14,13,1,6,0,Raiders,2020
+22,22,Keisean Nixon,23,DB,15,1,0,0,0,0,0,0,2,0,0,0,0.0,14,9,5,0,1,0,Raiders,2020
+58,58,Kyle Wilber,31,LB,16,0,0,0,0,0,0,0,0,1,0,0,0.0,12,7,5,0,0,0,Raiders,2020
+91,91,Kendal Vickers,25,DE,15,2,0,0,0,0,0,0,0,0,0,0,2.0,10,5,5,3,3,0,Raiders,2020
+4,4,Derek Carr,29,QB,16,16,0,0,0,0,0,0,11,0,-6,0,0.0,0,0,0,0,0,0,Raiders,2020
+85,85,Derek Carrier,30,TE,16,0,0,0,0,0,0,0,0,0,0,0,0.0,7,3,4,0,0,0,Raiders,2020
+92,92,Chris Smith,28,DE,8,0,0,0,0,0,0,0,0,0,0,0,1.0,5,4,1,0,4,0,Raiders,2020
+23,23,Devontae Booker,28,RB,16,1,0,0,0,0,0,0,1,1,0,0,0.0,2,1,1,0,0,0,Raiders,2020
+13,13,Hunter Renfrow,25,WR,16,6,0,0,0,0,0,0,2,0,0,0,0.0,1,1,0,0,0,0,Raiders,2020
+45,45,Alec Ingold,24,FB,16,4,0,0,0,0,0,0,0,1,0,0,0.0,1,1,0,0,0,0,Raiders,2020
+11,11,Henry Ruggs III,21,WR,13,12,0,0,0,0,0,0,2,1,0,0,0.0,0,0,0,0,0,0,Raiders,2020
+6,6,AJ Cole III,25,P,16,0,0,0,0,0,0,0,1,1,-7,0,0.0,0,0,0,0,0,0,Raiders,2020
+28,28,Josh Jacobs,22,RB,15,15,0,0,0,0,0,0,2,0,0,0,0.0,0,0,0,0,0,0,Raiders,2020
+83,83,Darren Waller,28,TE,16,15,0,0,0,0,0,0,2,0,0,0,0.0,0,0,0,0,0,0,Raiders,2020
+61,61,Rodney Hudson,31,C,16,16,0,0,0,0,0,0,0,1,0,0,0.0,0,0,0,0,0,0,Raiders,2020
+87,87,Foster Moreau,23,TE,16,2,0,0,0,0,0,0,0,0,0,0,0.0,1,0,1,0,0,0,Raiders,2020
+30,30,Jalen Richard,27,RB,13,0,0,0,0,0,0,0,1,0,0,0,0.0,0,0,0,0,0,0,Raiders,2020
+20,20,Damon Arnette,24,CB,9,7,0,0,0,0,2,0,0,0,0,0,0.0,25,21,4,1,0,0,Raiders,2020
+51,51,Vic Beasley,28,DE,5,0,0,0,0,0,0,0,0,0,0,0,0.0,1,1,0,0,0,0,Raiders,2020
+97,97,Maliek Collins,25,RDT,12,11,0,0,0,0,0,0,0,0,0,0,0.0,15,8,7,0,1,0,Raiders,2020
+25,25,Erik Harris,30,FS,14,12,0,0,0,0,5,1,0,0,0,0,0.0,61,44,17,1,1,0,Raiders,2020
+95,95,David Irving,27,DT,2,0,0,0,0,0,0,0,0,0,0,0,0.0,4,2,2,0,0,0,Raiders,2020
+31,31,Isaiah Johnson,25,DB,14,0,0,0,0,0,4,0,0,0,0,0,0.0,13,7,6,0,0,0,Raiders,2020
+95,95,Datone Jones,30,DE,1,0,0,0,0,0,0,0,0,0,0,0,0.0,2,2,0,0,0,0,Raiders,2020
+29,29,Lamarcus Joyner,30,LLB,14,6,0,0,0,0,5,0,0,0,0,0,0.0,66,53,13,6,0,0,Raiders,2020
+99,99,Arden Key,24,DE,14,0,0,0,0,0,2,0,0,0,0,0,0.0,15,10,5,2,11,0,Raiders,2020
+32,32,Dallin Leavitt,26,DB,9,0,0,0,0,0,2,0,0,0,0,0,0.0,10,4,6,0,0,0,Raiders,2020
+42,42,Cory Littleton,27,RLB,14,14,0,0,0,0,0,0,0,0,0,0,0.0,82,56,26,4,0,0,Raiders,2020
+54,54,Raekwon McMillan,24,LB,16,4,0,0,0,0,1,1,0,0,0,0,0.0,27,17,10,1,0,0,Raiders,2020
+21,21,Amik Robertson,22,CB,8,0,0,0,0,0,0,0,0,0,0,0,0.0,4,3,1,0,0,0,Raiders,2020
+93,93,Daniel Ross,27,DT,3,0,0,0,0,0,0,0,0,0,0,0,0.0,5,3,2,0,0,0,Raiders,2020
+53,53,Javin White,23,LB,4,0,0,0,0,0,0,0,0,0,0,0,0.0,4,3,1,1,0,0,Raiders,2020
+36,36,Daryl Worley,25,DB,2,1,0,0,0,0,2,0,0,0,0,0,0.0,8,5,3,0,0,0,Raiders,2020

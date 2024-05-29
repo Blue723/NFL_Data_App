@@ -1,14 +1,14 @@
-,No.,Team,Player,Age,Pos,Games Played,Games Started,Rush TD,Reception TD,Punt Return TD,Kick Return TD,Fumble Return TD,Interception TD,Other TD,All Touchdown Scored,2-Point Conversions Made,Two-Point Conversions Attempted,Defensive Two-Point Conversions,Extra Points Made,Extra Points Allowed,Field Goals Made,Field Goals Attempted,Safeties Scored by Player/Team,Total Points Scored by all Means,Poins per Game,Year
-0,7,Falcons,Younghoe Koo,26,K,15,0,0,0,0,0,0,0,0,0,0,0,0,33,36,37,39,,144,9.6,2020
-1,18,Falcons,Calvin Ridley,26,WR,15,15,0,9,0,0,0,0,0,9,1,0,0,0,0,0,0,,56,3.7,2020
-2,21,Falcons,Todd Gurley,26,RB,15,15,9,0,0,0,0,0,0,9,0,0,0,0,0,0,0,,54,3.6,2020
-3,81,Falcons,Hayden Hurst,27,TE,16,9,0,6,0,0,0,0,0,6,0,0,0,0,0,0,0,,36,2.3,2020
-4,83,Falcons,Russell Gage,24,WR,16,8,0,4,0,0,0,0,0,4,0,0,0,0,0,0,0,,24,1.5,2020
-5,11,Falcons,Julio Jones,31,WR,9,9,0,3,0,0,0,0,0,3,0,0,0,0,0,0,0,,18,2.0,2020
-6,15,Falcons,Brandon Powell,25,WR,15,1,0,2,0,0,0,0,0,2,0,0,0,0,0,0,0,,12,0.8,2020
-7,2,Falcons,Matt Ryan,35,QB,16,16,2,0,0,0,0,0,0,2,0,0,0,0,0,0,0,,12,0.8,2020
-8,23,Falcons,Brian Hill,25,RB,16,1,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,,6,0.4,2020
-9,45,Falcons,Deion Jones,26,LLB,16,16,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,,6,0.4,2020
-10,25,Falcons,Ito Smith,25,RB,14,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,,6,0.4,2020
-11,17,Falcons,Olamide Zaccheaus,23,WR,11,2,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,,6,0.5,2020
-12,1,Falcons,Elliott Fry,26,K,1,0,0,0,0,0,0,0,0,0,0,0,0,1,2,1,1,,4,4.0,2020
+,No.,Player,Age,Pos,Games Played,Games Started,Rush TD,Reception TD,Punt Return TD,Kick Return TD,Fumble Return TD,Interception TD,Other TD,All Touchdown Scored,2-Point Conversions Made,Two-Point Conversions Attempted,Defensive Two-Point Conversions,Extra Points Made,Extra Points Allowed,Field Goals Made,Field Goals Attempted,Safeties Scored by Player/Team,Total Points Scored by all Means,Poins per Game,Team,Year
+7,7,Younghoe Koo,26,K,15,0,0,0,0,0,0,0,0,0,0,0,0,33,36,37,39,0,144,9.6,Falcons,2020
+18,18,Calvin Ridley,26,WR,15,15,0,9,0,0,0,0,0,9,1,0,0,0,0,0,0,0,56,3.7,Falcons,2020
+21,21,Todd Gurley,26,RB,15,15,9,0,0,0,0,0,0,9,0,0,0,0,0,0,0,0,54,3.6,Falcons,2020
+81,81,Hayden Hurst,27,TE,16,9,0,6,0,0,0,0,0,6,0,0,0,0,0,0,0,0,36,2.3,Falcons,2020
+83,83,Russell Gage,24,WR,16,8,0,4,0,0,0,0,0,4,0,0,0,0,0,0,0,0,24,1.5,Falcons,2020
+11,11,Julio Jones,31,WR,9,9,0,3,0,0,0,0,0,3,0,0,0,0,0,0,0,0,18,2.0,Falcons,2020
+15,15,Brandon Powell,25,WR,15,1,0,2,0,0,0,0,0,2,0,0,0,0,0,0,0,0,12,0.8,Falcons,2020
+2,2,Matt Ryan,35,QB,16,16,2,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,12,0.8,Falcons,2020
+23,23,Brian Hill,25,RB,16,1,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,6,0.4,Falcons,2020
+45,45,Deion Jones,26,LLB,16,16,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,6,0.4,Falcons,2020
+25,25,Ito Smith,25,RB,14,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,6,0.4,Falcons,2020
+17,17,Olamide Zaccheaus,23,WR,11,2,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,6,0.5,Falcons,2020
+1,1,Elliott Fry,26,K,1,0,0,0,0,0,0,0,0,0,0,0,0,1,2,1,1,0,4,4.0,Falcons,2020

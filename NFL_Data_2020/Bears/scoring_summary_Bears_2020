@@ -1,16 +1,16 @@
-,No.,Team,Player,Age,Pos,Games Played,Games Started,Rush TD,Reception TD,Punt Return TD,Kick Return TD,Fumble Return TD,Interception TD,Other TD,All Touchdown Scored,2-Point Conversions Made,Two-Point Conversions Attempted,Defensive Two-Point Conversions,Extra Points Made,Extra Points Allowed,Field Goals Made,Field Goals Attempted,Safeties Scored by Player/Team,Total Points Scored by all Means,Poins per Game,Year
-0,2,Bears,Cairo Santos,29,K,16,0,0,0,0,0,0,0,0,0,0,0,0,36,37,30,32,,126,7.9,2020
-1,32,Bears,David Montgomery,23,RB,15,14,8,2,0,0,0,0,0,10,1,0,0,0,0,0,0,,62,4.1,2020
-2,80,Bears,Jimmy Graham,34,TE,16,15,0,8,0,0,0,0,0,8,0,0,0,0,0,0,0,,48,3.0,2020
-3,12,Bears,Allen Robinson,27,WR,16,16,0,6,0,0,0,0,0,6,0,0,0,0,0,0,0,,36,2.3,2020
-4,11,Bears,Darnell Mooney,23,WR,16,9,0,4,0,0,0,0,0,4,1,0,0,0,0,0,0,,26,1.6,2020
-5,85,Bears,Cole Kmet,21,TE,16,9,0,2,0,0,0,0,0,2,0,0,0,0,0,0,0,,12,0.8,2020
-6,17,Bears,Anthony Miller,26,WR,16,6,0,2,0,0,0,0,0,2,0,0,0,0,0,0,0,,12,0.8,2020
-7,84,Bears,Cordarrelle Patterson,29,WR,16,3,1,0,0,1,0,0,0,2,0,0,0,0,0,0,0,,12,0.8,2020
-8,9,Bears,Nick Foles,31,QB,9,7,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,,6,0.7,2020
-9,39,Bears,Eddie Jackson,27,FS,16,16,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,,6,0.4,2020
-10,35,Bears,Ryan Nall,25,RB,16,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,,6,0.4,2020
-11,46,Bears,Artavis Pierce,24,RB,5,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,,6,1.2,2020
-12,10,Bears,Mitchell Trubisky,26,QB,10,9,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,,6,0.6,2020
-13,83,Bears,Javon Wims,26,WR,13,1,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,,6,0.5,2020
-14,52,Bears,Khalil Mack,29,LOLB,16,16,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1.0,2,0.1,2020
+,No.,Player,Age,Pos,Games Played,Games Started,Rush TD,Reception TD,Punt Return TD,Kick Return TD,Fumble Return TD,Interception TD,Other TD,All Touchdown Scored,2-Point Conversions Made,Two-Point Conversions Attempted,Defensive Two-Point Conversions,Extra Points Made,Extra Points Allowed,Field Goals Made,Field Goals Attempted,Safeties Scored by Player/Team,Total Points Scored by all Means,Poins per Game,Team,Year
+2,2,Cairo Santos,29,K,16,0,0,0,0,0,0,0,0,0,0,0,0,36,37,30,32,0,126,7.9,Bears,2020
+32,32,David Montgomery,23,RB,15,14,8,2,0,0,0,0,0,10,1,0,0,0,0,0,0,0,62,4.1,Bears,2020
+80,80,Jimmy Graham,34,TE,16,15,0,8,0,0,0,0,0,8,0,0,0,0,0,0,0,0,48,3.0,Bears,2020
+12,12,Allen Robinson,27,WR,16,16,0,6,0,0,0,0,0,6,0,0,0,0,0,0,0,0,36,2.3,Bears,2020
+11,11,Darnell Mooney,23,WR,16,9,0,4,0,0,0,0,0,4,1,0,0,0,0,0,0,0,26,1.6,Bears,2020
+85,85,Cole Kmet,21,TE,16,9,0,2,0,0,0,0,0,2,0,0,0,0,0,0,0,0,12,0.8,Bears,2020
+17,17,Anthony Miller,26,WR,16,6,0,2,0,0,0,0,0,2,0,0,0,0,0,0,0,0,12,0.8,Bears,2020
+84,84,Cordarrelle Patterson,29,WR,16,3,1,0,0,1,0,0,0,2,0,0,0,0,0,0,0,0,12,0.8,Bears,2020
+9,9,Nick Foles,31,QB,9,7,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,6,0.7,Bears,2020
+39,39,Eddie Jackson,27,FS,16,16,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,6,0.4,Bears,2020
+35,35,Ryan Nall,25,RB,16,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,6,0.4,Bears,2020
+46,46,Artavis Pierce,24,RB,5,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,6,1.2,Bears,2020
+10,10,Mitchell Trubisky,26,QB,10,9,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,6,0.6,Bears,2020
+83,83,Javon Wims,26,WR,13,1,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,6,0.5,Bears,2020
+52,52,Khalil Mack,29,LOLB,16,16,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,2,0.1,Bears,2020

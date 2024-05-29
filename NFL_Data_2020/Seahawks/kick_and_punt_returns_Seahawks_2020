@@ -1,7 +1,7 @@
-,No.,Team,Player,Age,Position,Games Played,Games Started,Punts Returned,Punts Return Yardage,Punts Returned for Touchdown,Longest Punt Return,Yards per Punt Return,Kickoff Returns,Yardage for Kickoffs Returned,Kickoffs Returned for a Touchdown,Longest Kickoff Return,Yards per Kickoff Return,All-purpose Yards,Year
-0,83,Seahawks,David Moore,25,WR,16,6,12,111,0,20,9.3,3,47,0,21,15.7,636,2020
-1,29,Seahawks,D.J. Reed,24,RCB,10,8,10,78,0,15,7.8,5,137,0,49,27.4,236,2020
-2,25,Seahawks,Travis Homer,22,RB,9,0,0,0,0,0,,12,291,0,44,24.3,469,2020
-3,18,Seahawks,Freddie Swain,22,WR,16,1,0,0,0,0,,6,137,0,28,22.8,296,2020
-4,89,Seahawks,Will Dissly,24,TE,16,12,0,0,0,0,,1,8,0,8,8.0,259,2020
-5,16,Seahawks,Tyler Lockett,28,WR,16,16,0,0,0,0,,1,9,0,9,9.0,1063,2020
+,No.,Player,Age,Position,Games Played,Games Started,Punts Returned,Punts Return Yardage,Punts Returned for Touchdown,Longest Punt Return,Yards per Punt Return,Kickoff Returns,Yardage for Kickoffs Returned,Kickoffs Returned for a Touchdown,Longest Kickoff Return,Yards per Kickoff Return,All-purpose Yards,Team,Year
+83,83,David Moore,25,WR,16,6,12,111,0,20,9.3,3,47,0,21,15.7,636,Seahawks,2020
+29,29,D.J. Reed,24,RCB,10,8,10,78,0,15,7.8,5,137,0,49,27.4,236,Seahawks,2020
+25,25,Travis Homer,22,RB,9,0,0,0,0,0,0.0,12,291,0,44,24.3,469,Seahawks,2020
+18,18,Freddie Swain,22,WR,16,1,0,0,0,0,0.0,6,137,0,28,22.8,296,Seahawks,2020
+89,89,Will Dissly,24,TE,16,12,0,0,0,0,0.0,1,8,0,8,8.0,259,Seahawks,2020
+16,16,Tyler Lockett,28,WR,16,16,0,0,0,0,0.0,1,9,0,9,9.0,1063,Seahawks,2020

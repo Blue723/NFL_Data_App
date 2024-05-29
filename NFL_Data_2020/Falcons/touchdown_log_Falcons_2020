@@ -1,42 +1,42 @@
-,Rank,Team,Date,Opponent,Win/Loss,Score,Quarter,Distance,Type,Detail,Year
-0,1,Falcons,09/13/2020,SEA,Loss, 25-38,2,1,rush,Todd Gurley,2020
-1,2,Falcons,09/13/2020,SEA,Loss, 25-38,4,18,pass,Calvin Ridley,2020
-2,3,Falcons,09/13/2020,SEA,Loss, 25-38,4,7,pass,Calvin Ridley,2020
-3,4,Falcons,09/20/2020,DAL,Loss, 39-40,1,22,pass,Calvin Ridley,2020
-4,5,Falcons,09/20/2020,DAL,Loss, 39-40,1,42,pass,Hayden Hurst,2020
-5,6,Falcons,09/20/2020,DAL,Loss, 39-40,2,3,pass,Calvin Ridley,2020
-6,7,Falcons,09/20/2020,DAL,Loss, 39-40,4,8,pass,Russell Gage,2020
-7,8,Falcons,09/27/2020,CHI,Loss, 26-30,1,1,pass,Hayden Hurst,2020
-8,9,Falcons,09/27/2020,CHI,Loss, 26-30,2,35,rush,Brian Hill,2020
-9,10,Falcons,09/27/2020,CHI,Loss, 26-30,3,10,rush,Todd Gurley,2020
-10,11,Falcons,10/05/2020,GNB,Loss, 16-30,3,5,rush,Todd Gurley,2020
-11,12,Falcons,10/05/2020,GNB,Loss, 16-30,4,3,rush,Todd Gurley,2020
-12,13,Falcons,10/11/2020,CAR,Loss, 16-23,1,35,rush,Todd Gurley,2020
-13,14,Falcons,10/18/2020,MIN,Win, 40-23,1,20,pass,Julio Jones,2020
-14,15,Falcons,10/18/2020,MIN,Win, 40-23,2,8,pass,Calvin Ridley,2020
-15,16,Falcons,10/18/2020,MIN,Win, 40-23,3,40,pass,Julio Jones,2020
-16,17,Falcons,10/18/2020,MIN,Win, 40-23,4,35,pass,Hayden Hurst,2020
-17,18,Falcons,10/25/2020,DET,Loss, 22-23,2,1,rush,Todd Gurley,2020
-18,19,Falcons,10/25/2020,DET,Loss, 22-23,2,4,pass,Calvin Ridley,2020
-19,20,Falcons,10/25/2020,DET,Loss, 22-23,4,10,rush,Todd Gurley,2020
-20,21,Falcons,10/29/2020,CAR,Win, 25-17,2,13,rush,Matt Ryan,2020
-21,22,Falcons,10/29/2020,CAR,Win, 25-17,4,3,rush,Todd Gurley,2020
-22,23,Falcons,11/08/2020,DEN,Win, 34-27,1,51,pass,Olamide Zaccheaus,2020
-23,24,Falcons,11/08/2020,DEN,Win, 34-27,2,9,pass,Brandon Powell,2020
-24,25,Falcons,11/08/2020,DEN,Win, 34-27,3,21,pass,Julio Jones,2020
-25,26,Falcons,11/08/2020,DEN,Win, 34-27,4,4,rush,Todd Gurley,2020
-26,27,Falcons,11/29/2020,LVR,Win, 43-6,2,4,pass,Calvin Ridley,2020
-27,28,Falcons,11/29/2020,LVR,Win, 43-6,3,67,interception,Deion Jones,2020
-28,29,Falcons,11/29/2020,LVR,Win, 43-6,3,4,pass,Brandon Powell,2020
-29,30,Falcons,11/29/2020,LVR,Win, 43-6,4,8,rush,Ito Smith,2020
-30,31,Falcons,12/06/2020,NOR,Loss, 16-21,4,10,pass,Russell Gage,2020
-31,32,Falcons,12/13/2020,LAC,Loss, 17-20,1,39,pass,Calvin Ridley,2020
-32,33,Falcons,12/13/2020,LAC,Loss, 17-20,2,9,pass,Laquon Treadwell,2020
-33,34,Falcons,12/20/2020,TAM,Loss, 27-31,1,5,pass,Russell Gage,2020
-34,35,Falcons,12/20/2020,TAM,Loss, 27-31,2,12,pass,Calvin Ridley,2020
-35,36,Falcons,12/20/2020,TAM,Loss, 27-31,3,7,pass,Hayden Hurst,2020
-36,37,Falcons,12/27/2020,KAN,Loss, 14-17,2,5,pass,Hayden Hurst,2020
-37,38,Falcons,12/27/2020,KAN,Loss, 14-17,4,5,pass,Laquon Treadwell,2020
-38,39,Falcons,01/03/2021,TAM,Loss, 27-44,2,1,rush,Matt Ryan,2020
-39,40,Falcons,01/03/2021,TAM,Loss, 27-44,3,19,pass,Russell Gage,2020
-40,41,Falcons,01/03/2021,TAM,Loss, 27-44,4,1,pass,Hayden Hurst,2020
+,Rank,Team,Date,Opponent,Win/Loss,Home_Score,Opponenet_Score,Quarter,Distance,Type,Detail
+1,1,Falcons,2020-09-13,SEA,Loss,25,38,2,1,rush,Todd Gurley
+2,2,Falcons,2020-09-13,SEA,Loss,25,38,4,18,pass,Calvin Ridley
+3,3,Falcons,2020-09-13,SEA,Loss,25,38,4,7,pass,Calvin Ridley
+4,4,Falcons,2020-09-20,DAL,Loss,39,40,1,22,pass,Calvin Ridley
+5,5,Falcons,2020-09-20,DAL,Loss,39,40,1,42,pass,Hayden Hurst
+6,6,Falcons,2020-09-20,DAL,Loss,39,40,2,3,pass,Calvin Ridley
+7,7,Falcons,2020-09-20,DAL,Loss,39,40,4,8,pass,Russell Gage
+8,8,Falcons,2020-09-27,CHI,Loss,26,30,1,1,pass,Hayden Hurst
+9,9,Falcons,2020-09-27,CHI,Loss,26,30,2,35,rush,Brian Hill
+10,10,Falcons,2020-09-27,CHI,Loss,26,30,3,10,rush,Todd Gurley
+11,11,Falcons,2020-10-05,GNB,Loss,16,30,3,5,rush,Todd Gurley
+12,12,Falcons,2020-10-05,GNB,Loss,16,30,4,3,rush,Todd Gurley
+13,13,Falcons,2020-10-11,CAR,Loss,16,23,1,35,rush,Todd Gurley
+14,14,Falcons,2020-10-18,MIN,Win,40,23,1,20,pass,Julio Jones
+15,15,Falcons,2020-10-18,MIN,Win,40,23,2,8,pass,Calvin Ridley
+16,16,Falcons,2020-10-18,MIN,Win,40,23,3,40,pass,Julio Jones
+17,17,Falcons,2020-10-18,MIN,Win,40,23,4,35,pass,Hayden Hurst
+18,18,Falcons,2020-10-25,DET,Loss,22,23,2,1,rush,Todd Gurley
+19,19,Falcons,2020-10-25,DET,Loss,22,23,2,4,pass,Calvin Ridley
+20,20,Falcons,2020-10-25,DET,Loss,22,23,4,10,rush,Todd Gurley
+21,21,Falcons,2020-10-29,CAR,Win,25,17,2,13,rush,Matt Ryan
+22,22,Falcons,2020-10-29,CAR,Win,25,17,4,3,rush,Todd Gurley
+23,23,Falcons,2020-11-08,DEN,Win,34,27,1,51,pass,Olamide Zaccheaus
+24,24,Falcons,2020-11-08,DEN,Win,34,27,2,9,pass,Brandon Powell
+25,25,Falcons,2020-11-08,DEN,Win,34,27,3,21,pass,Julio Jones
+26,26,Falcons,2020-11-08,DEN,Win,34,27,4,4,rush,Todd Gurley
+27,27,Falcons,2020-11-29,LVR,Win,43,6,2,4,pass,Calvin Ridley
+28,28,Falcons,2020-11-29,LVR,Win,43,6,3,67,interception,Deion Jones
+29,29,Falcons,2020-11-29,LVR,Win,43,6,3,4,pass,Brandon Powell
+30,30,Falcons,2020-11-29,LVR,Win,43,6,4,8,rush,Ito Smith
+31,31,Falcons,2020-12-06,NOR,Loss,16,21,4,10,pass,Russell Gage
+32,32,Falcons,2020-12-13,LAC,Loss,17,20,1,39,pass,Calvin Ridley
+33,33,Falcons,2020-12-13,LAC,Loss,17,20,2,9,pass,Laquon Treadwell
+34,34,Falcons,2020-12-20,TAM,Loss,27,31,1,5,pass,Russell Gage
+35,35,Falcons,2020-12-20,TAM,Loss,27,31,2,12,pass,Calvin Ridley
+36,36,Falcons,2020-12-20,TAM,Loss,27,31,3,7,pass,Hayden Hurst
+37,37,Falcons,2020-12-27,KAN,Loss,14,17,2,5,pass,Hayden Hurst
+38,38,Falcons,2020-12-27,KAN,Loss,14,17,4,5,pass,Laquon Treadwell
+39,39,Falcons,2021-01-03,TAM,Loss,27,44,2,1,rush,Matt Ryan
+40,40,Falcons,2021-01-03,TAM,Loss,27,44,3,19,pass,Russell Gage
+41,41,Falcons,2021-01-03,TAM,Loss,27,44,4,1,pass,Hayden Hurst

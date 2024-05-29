@@ -1,18 +1,17 @@
-,Week,Team,Day,Date,Time,Win/Loss,Overtime,Team Record,Home/Away,Opponent,Points Scored,Points Allowed,Offense 1st Down,Total Yards Gained of Offense,Total yards Gained by Passing,Total Yards Gained by Rushing,Offense Turnovers,Defense 1st Down,Total Yards Allowed by Defense,Total Passing Yards Allowed by Defense,Total Rushing Yards Allowed by Defense,Defense Turnovers,Offense,Defense,Sp. Tms,Year
-0,0,Lions,Sun,September 13,,L,0,0-1,home,Chicago Bears,23,27,25,426,288,138,1,26,363,214,149,0,7.96,-10.67,-0.12,2020
-1,1,Lions,Sun,September 20,,L,0,0-2,away,Green Bay Packers,21,42,19,307,218,89,1,26,488,229,259,0,2.93,-26.08,2.86,2020
-2,2,Lions,Sun,September 27,,W,0,1-2,away,Arizona Cardinals,26,23,22,322,232,90,0,28,377,268,109,3,8.15,-8.07,2.46,2020
-3,3,Lions,Sun,October 4,,L,0,1-3,home,New Orleans Saints,29,35,18,281,191,90,1,29,392,228,164,1,11.85,-23.24,5.65,2020
-4,4,Lions,,,,,0,,home,<strong>Bye Week</strong>,0,0,0,0,0,0,0,0,0,0,0,0,,,,2020
-5,5,Lions,Sun,October 18,,W,0,2-3,away,Jacksonville Jaguars,34,16,25,403,223,180,1,16,275,231,44,2,15.35,3.97,1.46,2020
-6,6,Lions,Sun,October 25,,W,0,3-3,away,Atlanta Falcons,23,22,21,386,322,64,0,26,388,322,66,1,10.28,-10.84,2.56,2020
-7,7,Lions,Sun,November 1,,L,0,3-4,home,Indianapolis Colts,21,41,20,326,297,29,2,26,366,247,119,0,-3.03,-21.92,6.52,2020
-8,8,Lions,Sun,November 8,,L,0,3-5,away,Minnesota Vikings,20,34,30,421,292,129,3,22,487,212,275,0,4.68,-22.76,9.45,2020
-9,9,Lions,Sun,November 15,,W,0,4-5,home,Washington Football Team,30,27,21,372,267,105,0,34,464,375,89,1,15.43,-19.77,6.95,2020
-10,10,Lions,Sun,November 22,,L,0,4-6,away,Carolina Panthers,0,20,10,185,145,40,1,20,374,258,116,2,-18.63,1.61,-3.12,2020
-11,11,Lions,Thu,November 26,,L,0,4-7,home,Houston Texans,25,41,28,388,279,109,3,21,384,307,77,1,-3.34,-11.31,0.56,2020
-12,12,Lions,Sun,December 6,,W,0,5-7,away,Chicago Bears,34,30,24,460,400,60,1,26,389,249,140,1,17.66,-12.1,-0.8,2020
-13,13,Lions,Sun,December 13,,L,0,5-8,home,Green Bay Packers,24,31,27,293,242,51,0,26,410,290,120,0,13.36,-23.25,0.61,2020
-14,14,Lions,Sun,December 20,,L,0,5-9,away,Tennessee Titans,25,46,27,430,307,123,3,28,463,268,195,0,12.36,-33.75,2.3,2020
-15,15,Lions,Sat,December 26,,L,0,5-10,home,Tampa Bay Buccaneers,7,47,12,186,113,73,2,30,588,477,111,0,-18.39,-37.71,16.78,2020
-16,16,Lions,Sun,January 3,,L,0,5-11,home,Minnesota Vikings,35,37,21,417,288,129,2,31,508,383,125,0,18.16,-27.15,3.69,2020
+,Week,Day,Date,Time,Win/Loss,Overtime,Team Record,Home/Away,Opponent,Points Scored,Points Allowed,Offense 1st Down,Total Yards Gained of Offense,Total yards Gained by Passing,Total Yards Gained by Rushing,Offense Turnovers,Defense 1st Down,Total Yards Allowed by Defense,Total Passing Yards Allowed by Defense,Total Rushing Yards Allowed by Defense,Defense Turnovers,Offense,Defense,Sp. Tms,Team,Year
+0,1,Sun,2020-09-13,nan,Loss,0,0-1,home,Chicago Bears,23,27,25,426,288,138,1,26,363,214,149,0,7.96,-10.67,-0.12,Lions,2020
+1,2,Sun,2020-09-20,nan,Loss,0,0-2,away,Green Bay Packers,21,42,19,307,218,89,1,26,488,229,259,0,2.93,-26.08,2.86,Lions,2020
+2,3,Sun,2020-09-27,nan,Win,0,1-2,away,Arizona Cardinals,26,23,22,322,232,90,0,28,377,268,109,3,8.15,-8.07,2.46,Lions,2020
+3,4,Sun,2020-10-04,nan,Loss,0,1-3,home,New Orleans Saints,29,35,18,281,191,90,1,29,392,228,164,1,11.85,-23.24,5.65,Lions,2020
+4,6,Sun,2020-10-18,nan,Win,0,2-3,away,Jacksonville Jaguars,34,16,25,403,223,180,1,16,275,231,44,2,15.35,3.97,1.46,Lions,2020
+5,7,Sun,2020-10-25,nan,Win,0,3-3,away,Atlanta Falcons,23,22,21,386,322,64,0,26,388,322,66,1,10.28,-10.84,2.56,Lions,2020
+6,8,Sun,2020-11-01,nan,Loss,0,3-4,home,Indianapolis Colts,21,41,20,326,297,29,2,26,366,247,119,0,-3.03,-21.92,6.52,Lions,2020
+7,9,Sun,2020-11-08,nan,Loss,0,3-5,away,Minnesota Vikings,20,34,30,421,292,129,3,22,487,212,275,0,4.68,-22.76,9.45,Lions,2020
+8,10,Sun,2020-11-15,nan,Win,0,4-5,home,Washington Football Team,30,27,21,372,267,105,0,34,464,375,89,1,15.43,-19.77,6.95,Lions,2020
+9,11,Sun,2020-11-22,nan,Loss,0,4-6,away,Carolina Panthers,0,20,10,185,145,40,1,20,374,258,116,2,-18.63,1.61,-3.12,Lions,2020
+10,12,Thu,2020-11-26,nan,Loss,0,4-7,home,Houston Texans,25,41,28,388,279,109,3,21,384,307,77,1,-3.34,-11.31,0.56,Lions,2020
+11,13,Sun,2020-12-06,nan,Win,0,5-7,away,Chicago Bears,34,30,24,460,400,60,1,26,389,249,140,1,17.66,-12.1,-0.8,Lions,2020
+12,14,Sun,2020-12-13,nan,Loss,0,5-8,home,Green Bay Packers,24,31,27,293,242,51,0,26,410,290,120,0,13.36,-23.25,0.61,Lions,2020
+13,15,Sun,2020-12-20,nan,Loss,0,5-9,away,Tennessee Titans,25,46,27,430,307,123,3,28,463,268,195,0,12.36,-33.75,2.3,Lions,2020
+14,16,Sat,2020-12-26,nan,Loss,0,5-10,home,Tampa Bay Buccaneers,7,47,12,186,113,73,2,30,588,477,111,0,-18.39,-37.71,16.78,Lions,2020
+15,17,Sun,2021-01-03,nan,Loss,0,5-11,home,Minnesota Vikings,35,37,21,417,288,129,2,31,508,383,125,0,18.16,-27.15,3.69,Lions,2020

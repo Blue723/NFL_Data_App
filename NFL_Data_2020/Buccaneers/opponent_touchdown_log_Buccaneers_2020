@@ -1,43 +1,43 @@
-,Rank,Team,Date,Opponent,Win/Loss,Score,Quarter,Distance,Type,Detail,Year
-0,1,Buccaneers,09/13/2020,NOR,Loss, 23-34,2,12,pass,Alvin Kamara,2020
-1,2,Buccaneers,09/13/2020,NOR,Loss, 23-34,2,6,rush,Alvin Kamara,2020
-2,3,Buccaneers,09/13/2020,NOR,Loss, 23-34,3,36,interception,Jackrabbit Jenkins,2020
-3,4,Buccaneers,09/13/2020,NOR,Loss, 23-34,4,5,pass,Emmanuel Sanders,2020
-4,5,Buccaneers,09/20/2020,CAR,Win, 31-17,3,1,rush,Christian McCaffrey,2020
-5,6,Buccaneers,09/20/2020,CAR,Win, 31-17,4,7,rush,Christian McCaffrey,2020
-6,7,Buccaneers,09/27/2020,DEN,Win, 28-10,2,7,pass,Tim Patrick,2020
-7,8,Buccaneers,10/04/2020,LAC,Win, 38-31,1,53,pass,Tyron Johnson,2020
-8,9,Buccaneers,10/04/2020,LAC,Win, 38-31,1,78,interception,Michael Davis,2020
-9,10,Buccaneers,10/04/2020,LAC,Win, 38-31,2,19,pass,Donald Parham,2020
-10,11,Buccaneers,10/04/2020,LAC,Win, 38-31,3,72,pass,Jalen Guyton,2020
-11,12,Buccaneers,10/08/2020,CHI,Loss, 19-20,2,3,rush,David Montgomery,2020
-12,13,Buccaneers,10/08/2020,CHI,Loss, 19-20,2,12,pass,Jimmy Graham,2020
-13,14,Buccaneers,10/18/2020,GNB,Win, 38-10,1,1,rush,Aaron Jones,2020
-14,15,Buccaneers,10/25/2020,LVR,Win, 45-20,1,20,pass,Nelson Agholor,2020
-15,16,Buccaneers,10/25/2020,LVR,Win, 45-20,3,1,pass,Darren Waller,2020
-16,17,Buccaneers,11/02/2020,NYG,Win, 25-23,1,7,pass,Dion Lewis,2020
-17,18,Buccaneers,11/02/2020,NYG,Win, 25-23,2,2,rush,Wayne Gallman,2020
-18,19,Buccaneers,11/02/2020,NYG,Win, 25-23,4,19,pass,Golden Tate,2020
-19,20,Buccaneers,11/08/2020,NOR,Loss, 3-38,1,14,pass,Tre'Quan Smith,2020
-20,21,Buccaneers,11/08/2020,NOR,Loss, 3-38,1,7,pass,Adam Trautman,2020
-21,22,Buccaneers,11/08/2020,NOR,Loss, 3-38,2,12,pass,Emmanuel Sanders,2020
-22,23,Buccaneers,11/08/2020,NOR,Loss, 3-38,2,1,rush,Alvin Kamara,2020
-23,24,Buccaneers,11/08/2020,NOR,Loss, 3-38,4,3,pass,Josh Hill,2020
-24,25,Buccaneers,11/15/2020,CAR,Win, 46-23,1,7,pass,Colin Thompson,2020
-25,26,Buccaneers,11/15/2020,CAR,Win, 46-23,1,24,pass,D.J. Moore,2020
-26,27,Buccaneers,11/15/2020,CAR,Win, 46-23,4,3,rush,Teddy Bridgewater,2020
-27,28,Buccaneers,11/23/2020,LAR,Loss, 24-27,1,4,pass,Robert Woods,2020
-28,29,Buccaneers,11/23/2020,LAR,Loss, 24-27,2,7,pass,Van Jefferson,2020
-29,30,Buccaneers,11/23/2020,LAR,Loss, 24-27,3,4,pass,Cam Akers,2020
-30,31,Buccaneers,11/29/2020,KAN,Loss, 24-27,1,75,pass,Tyreek Hill,2020
-31,32,Buccaneers,11/29/2020,KAN,Loss, 24-27,1,44,pass,Tyreek Hill,2020
-32,33,Buccaneers,11/29/2020,KAN,Loss, 24-27,3,20,pass,Tyreek Hill,2020
-33,34,Buccaneers,12/13/2020,MIN,Win, 26-14,2,1,rush,Dalvin Cook,2020
-34,35,Buccaneers,12/13/2020,MIN,Win, 26-14,3,14,pass,Irv Smith Jr.,2020
-35,36,Buccaneers,12/20/2020,ATL,Win, 31-27,1,5,pass,Russell Gage,2020
-36,37,Buccaneers,12/20/2020,ATL,Win, 31-27,2,12,pass,Calvin Ridley,2020
-37,38,Buccaneers,12/20/2020,ATL,Win, 31-27,3,7,pass,Hayden Hurst,2020
-38,39,Buccaneers,12/26/2020,DET,Win, 47-7,3,74,punt,Jamal Agnew,2020
-39,40,Buccaneers,01/03/2021,ATL,Win, 44-27,2,1,rush,Matt Ryan,2020
-40,41,Buccaneers,01/03/2021,ATL,Win, 44-27,3,19,pass,Russell Gage,2020
-41,42,Buccaneers,01/03/2021,ATL,Win, 44-27,4,1,pass,Hayden Hurst,2020
+,Rank,Team,Date,Opponent,Win/Loss,Home_Score,Opponenet_Score,Quarter,Distance,Type,Detail
+1,1,Buccaneers,2020-09-13,NOR,Loss,23,34,2,12,pass,Alvin Kamara
+2,2,Buccaneers,2020-09-13,NOR,Loss,23,34,2,6,rush,Alvin Kamara
+3,3,Buccaneers,2020-09-13,NOR,Loss,23,34,3,36,interception,Jackrabbit Jenkins
+4,4,Buccaneers,2020-09-13,NOR,Loss,23,34,4,5,pass,Emmanuel Sanders
+5,5,Buccaneers,2020-09-20,CAR,Win,31,17,3,1,rush,Christian McCaffrey
+6,6,Buccaneers,2020-09-20,CAR,Win,31,17,4,7,rush,Christian McCaffrey
+7,7,Buccaneers,2020-09-27,DEN,Win,28,10,2,7,pass,Tim Patrick
+8,8,Buccaneers,2020-10-04,LAC,Win,38,31,1,53,pass,Tyron Johnson
+9,9,Buccaneers,2020-10-04,LAC,Win,38,31,1,78,interception,Michael Davis
+10,10,Buccaneers,2020-10-04,LAC,Win,38,31,2,19,pass,Donald Parham
+11,11,Buccaneers,2020-10-04,LAC,Win,38,31,3,72,pass,Jalen Guyton
+12,12,Buccaneers,2020-10-08,CHI,Loss,19,20,2,3,rush,David Montgomery
+13,13,Buccaneers,2020-10-08,CHI,Loss,19,20,2,12,pass,Jimmy Graham
+14,14,Buccaneers,2020-10-18,GNB,Win,38,10,1,1,rush,Aaron Jones
+15,15,Buccaneers,2020-10-25,LVR,Win,45,20,1,20,pass,Nelson Agholor
+16,16,Buccaneers,2020-10-25,LVR,Win,45,20,3,1,pass,Darren Waller
+17,17,Buccaneers,2020-11-02,NYG,Win,25,23,1,7,pass,Dion Lewis
+18,18,Buccaneers,2020-11-02,NYG,Win,25,23,2,2,rush,Wayne Gallman
+19,19,Buccaneers,2020-11-02,NYG,Win,25,23,4,19,pass,Golden Tate
+20,20,Buccaneers,2020-11-08,NOR,Loss,3,38,1,14,pass,Tre'Quan Smith
+21,21,Buccaneers,2020-11-08,NOR,Loss,3,38,1,7,pass,Adam Trautman
+22,22,Buccaneers,2020-11-08,NOR,Loss,3,38,2,12,pass,Emmanuel Sanders
+23,23,Buccaneers,2020-11-08,NOR,Loss,3,38,2,1,rush,Alvin Kamara
+24,24,Buccaneers,2020-11-08,NOR,Loss,3,38,4,3,pass,Josh Hill
+25,25,Buccaneers,2020-11-15,CAR,Win,46,23,1,7,pass,Colin Thompson
+26,26,Buccaneers,2020-11-15,CAR,Win,46,23,1,24,pass,D.J. Moore
+27,27,Buccaneers,2020-11-15,CAR,Win,46,23,4,3,rush,Teddy Bridgewater
+28,28,Buccaneers,2020-11-23,LAR,Loss,24,27,1,4,pass,Robert Woods
+29,29,Buccaneers,2020-11-23,LAR,Loss,24,27,2,7,pass,Van Jefferson
+30,30,Buccaneers,2020-11-23,LAR,Loss,24,27,3,4,pass,Cam Akers
+31,31,Buccaneers,2020-11-29,KAN,Loss,24,27,1,75,pass,Tyreek Hill
+32,32,Buccaneers,2020-11-29,KAN,Loss,24,27,1,44,pass,Tyreek Hill
+33,33,Buccaneers,2020-11-29,KAN,Loss,24,27,3,20,pass,Tyreek Hill
+34,34,Buccaneers,2020-12-13,MIN,Win,26,14,2,1,rush,Dalvin Cook
+35,35,Buccaneers,2020-12-13,MIN,Win,26,14,3,14,pass,Irv Smith Jr.
+36,36,Buccaneers,2020-12-20,ATL,Win,31,27,1,5,pass,Russell Gage
+37,37,Buccaneers,2020-12-20,ATL,Win,31,27,2,12,pass,Calvin Ridley
+38,38,Buccaneers,2020-12-20,ATL,Win,31,27,3,7,pass,Hayden Hurst
+39,39,Buccaneers,2020-12-26,DET,Win,47,7,3,74,punt,Jamal Agnew
+40,40,Buccaneers,2021-01-03,ATL,Win,44,27,2,1,rush,Matt Ryan
+41,41,Buccaneers,2021-01-03,ATL,Win,44,27,3,19,pass,Russell Gage
+42,42,Buccaneers,2021-01-03,ATL,Win,44,27,4,1,pass,Hayden Hurst

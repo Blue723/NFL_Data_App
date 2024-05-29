@@ -1,9 +1,9 @@
-,No.,Team,Player,Age,Position,Games Played,Games Started,FGA 0-19,FGM 0-19,FGA 20-29,FGM 20-29,FGA 30-39,FGM 30-39,FGA 40-49,FGM 40-49,FGA 50+,FGM 50+,Field Goals Attempted,Field Goals Made,Longest Field Goal Made,Per. of Field Goals Made,Extra Points Attempted,Extra Points Made,Extra Point Per.,Kickoffs,Kickoff Yards,Kickoff Touchbacks,Per. Kickoff was a Touchback,Kickoff Average Yardage,Year
-0,7,Jaguars,Aldrick Rosas,26,K,6,0,0,0,3,3,2,2,1,0,5,3,11,8,54,72.7,9,9,100.0,20,1266,15,75.0,63.3,2020
-1,4,Jaguars,Josh Lambo,30,K,4,0,0,0,0,0,2,2,1,1,2,2,5,5,59,100.0,10,8,80.0,5,227,2,40.0,45.4,2020
-2,3,Jaguars,Chase McLaughlin,24,K,3,0,0,0,1,1,1,1,1,1,2,1,5,4,52,80.0,4,3,75.0,0,0,0,0.0,0.0,2020
-3,3,Jaguars,Stephen Hauschka,35,K,1,0,0,0,1,0,0,0,1,0,0,0,2,0,0,0.0,2,2,100.0,0,0,0,0.0,0.0,2020
-4,1,Jaguars,Jonathan Brown,28,K,1,0,0,0,0,0,2,1,0,0,0,0,2,1,31,50.0,1,1,100.0,1,9,0,0.0,9.0,2020
-5,1,Jaguars,Brandon Wright,23,K,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,2,1,50.0,0,0,0,0.0,0.0,2020
-6,84,Jaguars,Keelan Cole,27,WR,16,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0.0,1,11,0,0.0,11.0,2020
-7,9,Jaguars,Logan Cooke,25,P,14,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0.0,46,2782,25,54.3,60.5,2020
+,No.,Player,Age,Position,Games Played,Games Started,FGA 0-19,FGM 0-19,FGA 20-29,FGM 20-29,FGA 30-39,FGM 30-39,FGA 40-49,FGM 40-49,FGA 50+,FGM 50+,Field Goals Attempted,Field Goals Made,Longest Field Goal Made,Per. of Field Goals Made,Extra Points Attempted,Extra Points Made,Extra Point Per.,Kickoffs,Kickoff Yards,Kickoff Touchbacks,Per. Kickoff was a Touchback,Kickoff Average Yardage,Team,Year
+7,7,Aldrick Rosas,26,K,6,0,0,0,3,3,2,2,1,0,5,3,11,8,54,72.7,9,9,100.0,20,1266,15,75.0,63.3,Jaguars,2020
+4,4,Josh Lambo,30,K,4,0,0,0,0,0,2,2,1,1,2,2,5,5,59,100.0,10,8,80.0,5,227,2,40.0,45.4,Jaguars,2020
+3,3,Chase McLaughlin,24,K,3,0,0,0,1,1,1,1,1,1,2,1,5,4,52,80.0,4,3,75.0,0,0,0,0.0,0.0,Jaguars,2020
+3,3,Stephen Hauschka,35,K,1,0,0,0,1,0,0,0,1,0,0,0,2,0,0,0.0,2,2,100.0,0,0,0,0.0,0.0,Jaguars,2020
+1,1,Jonathan Brown,28,K,1,0,0,0,0,0,2,1,0,0,0,0,2,1,31,50.0,1,1,100.0,1,9,0,0.0,9.0,Jaguars,2020
+1,1,Brandon Wright,23,K,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,2,1,50.0,0,0,0,0.0,0.0,Jaguars,2020
+84,84,Keelan Cole,27,WR,16,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0.0,1,11,0,0.0,11.0,Jaguars,2020
+9,9,Logan Cooke,25,P,14,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0.0,46,2782,25,54.3,60.5,Jaguars,2020

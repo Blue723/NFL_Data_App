@@ -1,39 +1,39 @@
-,Rank,Team,Date,Opponent,Win/Loss,Score,Quarter,Distance,Type,Detail,Year
-0,1,Giants,09/14/2020,PIT,Loss, 16-26,2,10,pass,JuJu Smith-Schuster,2020
-1,2,Giants,09/14/2020,PIT,Loss, 16-26,2,13,pass,James Washington,2020
-2,3,Giants,09/14/2020,PIT,Loss, 16-26,4,8,pass,JuJu Smith-Schuster,2020
-3,4,Giants,09/20/2020,CHI,Loss, 13-17,1,28,pass,David Montgomery,2020
-4,5,Giants,09/20/2020,CHI,Loss, 13-17,2,15,pass,Darnell Mooney,2020
-5,6,Giants,09/27/2020,SFO,Loss, 9-36,2,10,rush,Jerick McKinnon,2020
-6,7,Giants,09/27/2020,SFO,Loss, 9-36,3,19,rush,Brandon Aiyuk,2020
-7,8,Giants,09/27/2020,SFO,Loss, 9-36,4,19,pass,Jeff Wilson,2020
-8,9,Giants,09/27/2020,SFO,Loss, 9-36,4,2,rush,Jeff Wilson,2020
-9,10,Giants,10/04/2020,LAR,Loss, 9-17,1,2,rush,Gerald Everett,2020
-10,11,Giants,10/04/2020,LAR,Loss, 9-17,4,55,pass,Cooper Kupp,2020
-11,12,Giants,10/11/2020,DAL,Loss, 34-37,2,1,rush,Ezekiel Elliott,2020
-12,13,Giants,10/11/2020,DAL,Loss, 34-37,2,29,fumble,Anthony Brown,2020
-13,14,Giants,10/11/2020,DAL,Loss, 34-37,2,11,pass,Dak Prescott,2020
-14,15,Giants,10/11/2020,DAL,Loss, 34-37,3,12,rush,Ezekiel Elliott,2020
-15,16,Giants,10/18/2020,WAS,Win, 20-19,2,5,pass,Logan Thomas,2020
-16,17,Giants,10/18/2020,WAS,Win, 20-19,4,22,pass,Cam Sims,2020
-17,18,Giants,10/22/2020,PHI,Loss, 21-22,1,1,rush,Carson Wentz,2020
-18,19,Giants,10/22/2020,PHI,Loss, 21-22,4,3,pass,Greg Ward,2020
-19,20,Giants,10/22/2020,PHI,Loss, 21-22,4,18,pass,Boston Scott,2020
-20,21,Giants,11/02/2020,TAM,Loss, 23-25,3,3,pass,Rob Gronkowski,2020
-21,22,Giants,11/02/2020,TAM,Loss, 23-25,4,8,pass,Mike Evans,2020
-22,23,Giants,11/08/2020,WAS,Win, 23-20,3,1,rush,Antonio Gibson,2020
-23,24,Giants,11/08/2020,WAS,Win, 23-20,4,68,pass,Terry McLaurin,2020
-24,25,Giants,11/15/2020,PHI,Win, 27-17,3,56,rush,Boston Scott,2020
-25,26,Giants,11/15/2020,PHI,Win, 27-17,3,5,rush,Corey Clement,2020
-26,27,Giants,11/29/2020,CIN,Win, 19-17,1,103,kickoff,Brandon Wilson,2020
-27,28,Giants,11/29/2020,CIN,Win, 19-17,4,1,pass,Tee Higgins,2020
-28,29,Giants,12/06/2020,SEA,Win, 17-12,4,28,pass,Chris Carson,2020
-29,30,Giants,12/13/2020,ARI,Loss, 7-26,2,7,pass,Dan Arnold,2020
-30,31,Giants,12/13/2020,ARI,Loss, 7-26,3,1,rush,Kenyan Drake,2020
-31,32,Giants,12/20/2020,CLE,Loss, 6-20,2,2,pass,Austin Hooper,2020
-32,33,Giants,12/20/2020,CLE,Loss, 6-20,2,2,pass,Jarvis Landry,2020
-33,34,Giants,12/20/2020,CLE,Loss, 6-20,4,1,rush,Nick Chubb,2020
-34,35,Giants,12/27/2020,BAL,Loss, 13-27,1,6,pass,Marquise Brown,2020
-35,36,Giants,12/27/2020,BAL,Loss, 13-27,1,2,rush,J.K. Dobbins,2020
-36,37,Giants,12/27/2020,BAL,Loss, 13-27,4,8,pass,Dez Bryant,2020
-37,38,Giants,01/03/2021,DAL,Win, 23-19,3,1,rush,Ezekiel Elliott,2020
+,Rank,Team,Date,Opponent,Win/Loss,Home_Score,Opponenet_Score,Quarter,Distance,Type,Detail
+1,1,Giants,2020-09-14,PIT,Loss,16,26,2,10,pass,JuJu Smith-Schuster
+2,2,Giants,2020-09-14,PIT,Loss,16,26,2,13,pass,James Washington
+3,3,Giants,2020-09-14,PIT,Loss,16,26,4,8,pass,JuJu Smith-Schuster
+4,4,Giants,2020-09-20,CHI,Loss,13,17,1,28,pass,David Montgomery
+5,5,Giants,2020-09-20,CHI,Loss,13,17,2,15,pass,Darnell Mooney
+6,6,Giants,2020-09-27,SFO,Loss,9,36,2,10,rush,Jerick McKinnon
+7,7,Giants,2020-09-27,SFO,Loss,9,36,3,19,rush,Brandon Aiyuk
+8,8,Giants,2020-09-27,SFO,Loss,9,36,4,19,pass,Jeff Wilson
+9,9,Giants,2020-09-27,SFO,Loss,9,36,4,2,rush,Jeff Wilson
+10,10,Giants,2020-10-04,LAR,Loss,9,17,1,2,rush,Gerald Everett
+11,11,Giants,2020-10-04,LAR,Loss,9,17,4,55,pass,Cooper Kupp
+12,12,Giants,2020-10-11,DAL,Loss,34,37,2,1,rush,Ezekiel Elliott
+13,13,Giants,2020-10-11,DAL,Loss,34,37,2,29,fumble,Anthony Brown
+14,14,Giants,2020-10-11,DAL,Loss,34,37,2,11,pass,Dak Prescott
+15,15,Giants,2020-10-11,DAL,Loss,34,37,3,12,rush,Ezekiel Elliott
+16,16,Giants,2020-10-18,WAS,Win,20,19,2,5,pass,Logan Thomas
+17,17,Giants,2020-10-18,WAS,Win,20,19,4,22,pass,Cam Sims
+18,18,Giants,2020-10-22,PHI,Loss,21,22,1,1,rush,Carson Wentz
+19,19,Giants,2020-10-22,PHI,Loss,21,22,4,3,pass,Greg Ward
+20,20,Giants,2020-10-22,PHI,Loss,21,22,4,18,pass,Boston Scott
+21,21,Giants,2020-11-02,TAM,Loss,23,25,3,3,pass,Rob Gronkowski
+22,22,Giants,2020-11-02,TAM,Loss,23,25,4,8,pass,Mike Evans
+23,23,Giants,2020-11-08,WAS,Win,23,20,3,1,rush,Antonio Gibson
+24,24,Giants,2020-11-08,WAS,Win,23,20,4,68,pass,Terry McLaurin
+25,25,Giants,2020-11-15,PHI,Win,27,17,3,56,rush,Boston Scott
+26,26,Giants,2020-11-15,PHI,Win,27,17,3,5,rush,Corey Clement
+27,27,Giants,2020-11-29,CIN,Win,19,17,1,103,kickoff,Brandon Wilson
+28,28,Giants,2020-11-29,CIN,Win,19,17,4,1,pass,Tee Higgins
+29,29,Giants,2020-12-06,SEA,Win,17,12,4,28,pass,Chris Carson
+30,30,Giants,2020-12-13,ARI,Loss,7,26,2,7,pass,Dan Arnold
+31,31,Giants,2020-12-13,ARI,Loss,7,26,3,1,rush,Kenyan Drake
+32,32,Giants,2020-12-20,CLE,Loss,6,20,2,2,pass,Austin Hooper
+33,33,Giants,2020-12-20,CLE,Loss,6,20,2,2,pass,Jarvis Landry
+34,34,Giants,2020-12-20,CLE,Loss,6,20,4,1,rush,Nick Chubb
+35,35,Giants,2020-12-27,BAL,Loss,13,27,1,6,pass,Marquise Brown
+36,36,Giants,2020-12-27,BAL,Loss,13,27,1,2,rush,J.K. Dobbins
+37,37,Giants,2020-12-27,BAL,Loss,13,27,4,8,pass,Dez Bryant
+38,38,Giants,2021-01-03,DAL,Win,23,19,3,1,rush,Ezekiel Elliott
