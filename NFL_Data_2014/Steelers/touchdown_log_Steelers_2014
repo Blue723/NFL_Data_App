@@ -1,50 +1,50 @@
-,Rank,Team,Date,Opponent,Win/Loss,Score,Quarter,Distance,Type,Detail,Year
-0,1,Steelers,09/07/2014,CLE,Win, 30-27,1,7,rush,LeGarrette Blount,2014
-1,2,Steelers,09/07/2014,CLE,Win, 30-27,2,35,pass,Antonio Brown,2014
-2,3,Steelers,09/07/2014,CLE,Win, 30-27,2,38,rush,Le'Veon Bell,2014
-3,4,Steelers,09/21/2014,CAR,Win, 37-19,3,7,pass,Antonio Brown,2014
-4,5,Steelers,09/21/2014,CAR,Win, 37-19,3,7,pass,Antonio Brown,2014
-5,6,Steelers,09/21/2014,CAR,Win, 37-19,4,0,fumble,Robert Golden,2014
-6,7,Steelers,09/21/2014,CAR,Win, 37-19,4,8,rush,LeGarrette Blount,2014
-7,8,Steelers,09/28/2014,TAM,Loss, 24-27,1,11,pass,Antonio Brown,2014
-8,9,Steelers,09/28/2014,TAM,Loss, 24-27,2,27,pass,Antonio Brown,2014
-9,10,Steelers,09/28/2014,TAM,Loss, 24-27,3,5,pass,Heath Miller,2014
-10,11,Steelers,10/05/2014,JAX,Win, 17-9,2,1,pass,Michael Palmer,2014
-11,12,Steelers,10/05/2014,JAX,Win, 17-9,4,22,interception,Brice McCain,2014
-12,13,Steelers,10/12/2014,CLE,Loss, 10-31,4,26,pass,Lance Moore,2014
-13,14,Steelers,10/20/2014,HOU,Win, 30-23,2,35,pass,Martavis Bryant,2014
-14,15,Steelers,10/20/2014,HOU,Win, 30-23,2,3,pass,Lance Moore,2014
-15,16,Steelers,10/20/2014,HOU,Win, 30-23,2,2,pass,Le'Veon Bell,2014
-16,17,Steelers,10/26/2014,IND,Win, 51-34,1,18,pass,Markus Wheaton,2014
-17,18,Steelers,10/26/2014,IND,Win, 51-34,2,5,pass,Martavis Bryant,2014
-18,19,Steelers,10/26/2014,IND,Win, 51-34,2,33,interception,William Gay,2014
-19,20,Steelers,10/26/2014,IND,Win, 51-34,2,8,pass,Antonio Brown,2014
-20,21,Steelers,10/26/2014,IND,Win, 51-34,2,47,pass,Antonio Brown,2014
-21,22,Steelers,10/26/2014,IND,Win, 51-34,3,2,pass,Martavis Bryant,2014
-22,23,Steelers,10/26/2014,IND,Win, 51-34,4,11,pass,Heath Miller,2014
-23,24,Steelers,11/02/2014,BAL,Win, 43-23,2,5,pass,Le'Veon Bell,2014
-24,25,Steelers,11/02/2014,BAL,Win, 43-23,2,19,pass,Martavis Bryant,2014
-25,26,Steelers,11/02/2014,BAL,Win, 43-23,2,47,pass,Markus Wheaton,2014
-26,27,Steelers,11/02/2014,BAL,Win, 43-23,4,54,pass,Antonio Brown,2014
-27,28,Steelers,11/02/2014,BAL,Win, 43-23,4,18,pass,Martavis Bryant,2014
-28,29,Steelers,11/02/2014,BAL,Win, 43-23,4,33,pass,Matt Spaeth,2014
-29,30,Steelers,11/09/2014,NYJ,Loss, 13-20,4,80,pass,Martavis Bryant,2014
-30,31,Steelers,11/17/2014,TEN,Win, 27-24,1,28,interception,William Gay,2014
-31,32,Steelers,11/17/2014,TEN,Win, 27-24,4,5,rush,Le'Veon Bell,2014
-32,33,Steelers,11/17/2014,TEN,Win, 27-24,4,12,pass,Antonio Brown,2014
-33,34,Steelers,11/30/2014,NOR,Loss, 32-35,3,1,rush,Le'Veon Bell,2014
-34,35,Steelers,11/30/2014,NOR,Loss, 32-35,4,4,pass,Antonio Brown,2014
-35,36,Steelers,11/30/2014,NOR,Loss, 32-35,4,3,pass,Antonio Brown,2014
-36,37,Steelers,12/07/2014,CIN,Win, 42-21,2,1,pass,Heath Miller,2014
-37,38,Steelers,12/07/2014,CIN,Win, 42-21,3,10,pass,Le'Veon Bell,2014
-38,39,Steelers,12/07/2014,CIN,Win, 42-21,4,13,rush,Le'Veon Bell,2014
-39,40,Steelers,12/07/2014,CIN,Win, 42-21,4,94,pass,Martavis Bryant,2014
-40,41,Steelers,12/07/2014,CIN,Win, 42-21,4,22,rush,Le'Veon Bell,2014
-41,42,Steelers,12/14/2014,ATL,Win, 27-20,2,52,interception,William Gay,2014
-42,43,Steelers,12/14/2014,ATL,Win, 27-20,2,1,rush,Le'Veon Bell,2014
-43,44,Steelers,12/14/2014,ATL,Win, 27-20,4,13,rush,Le'Veon Bell,2014
-44,45,Steelers,12/21/2014,KAN,Win, 20-12,2,1,rush,Le'Veon Bell,2014
-45,46,Steelers,12/21/2014,KAN,Win, 20-12,3,3,pass,Antonio Brown,2014
-46,47,Steelers,12/28/2014,CIN,Win, 27-17,1,71,punt,Antonio Brown,2014
-47,48,Steelers,12/28/2014,CIN,Win, 27-17,2,21,pass,Martavis Bryant,2014
-48,49,Steelers,12/28/2014,CIN,Win, 27-17,4,63,pass,Antonio Brown,2014
+,Rank,Team,Date,Opponent,Win/Loss,Home_Score,Opponenet_Score,Quarter,Distance,Type,Detail
+1,1,Steelers,2014-09-07,CLE,Win,30,27,1,7,rush,LeGarrette Blount
+2,2,Steelers,2014-09-07,CLE,Win,30,27,2,35,pass,Antonio Brown
+3,3,Steelers,2014-09-07,CLE,Win,30,27,2,38,rush,Le'Veon Bell
+4,4,Steelers,2014-09-21,CAR,Win,37,19,3,7,pass,Antonio Brown
+5,5,Steelers,2014-09-21,CAR,Win,37,19,3,7,pass,Antonio Brown
+6,6,Steelers,2014-09-21,CAR,Win,37,19,4,0,fumble,Robert Golden
+7,7,Steelers,2014-09-21,CAR,Win,37,19,4,8,rush,LeGarrette Blount
+8,8,Steelers,2014-09-28,TAM,Loss,24,27,1,11,pass,Antonio Brown
+9,9,Steelers,2014-09-28,TAM,Loss,24,27,2,27,pass,Antonio Brown
+10,10,Steelers,2014-09-28,TAM,Loss,24,27,3,5,pass,Heath Miller
+11,11,Steelers,2014-10-05,JAX,Win,17,9,2,1,pass,Michael Palmer
+12,12,Steelers,2014-10-05,JAX,Win,17,9,4,22,interception,Brice McCain
+13,13,Steelers,2014-10-12,CLE,Loss,10,31,4,26,pass,Lance Moore
+14,14,Steelers,2014-10-20,HOU,Win,30,23,2,35,pass,Martavis Bryant
+15,15,Steelers,2014-10-20,HOU,Win,30,23,2,3,pass,Lance Moore
+16,16,Steelers,2014-10-20,HOU,Win,30,23,2,2,pass,Le'Veon Bell
+17,17,Steelers,2014-10-26,IND,Win,51,34,1,18,pass,Markus Wheaton
+18,18,Steelers,2014-10-26,IND,Win,51,34,2,5,pass,Martavis Bryant
+19,19,Steelers,2014-10-26,IND,Win,51,34,2,33,interception,William Gay
+20,20,Steelers,2014-10-26,IND,Win,51,34,2,8,pass,Antonio Brown
+21,21,Steelers,2014-10-26,IND,Win,51,34,2,47,pass,Antonio Brown
+22,22,Steelers,2014-10-26,IND,Win,51,34,3,2,pass,Martavis Bryant
+23,23,Steelers,2014-10-26,IND,Win,51,34,4,11,pass,Heath Miller
+24,24,Steelers,2014-11-02,BAL,Win,43,23,2,5,pass,Le'Veon Bell
+25,25,Steelers,2014-11-02,BAL,Win,43,23,2,19,pass,Martavis Bryant
+26,26,Steelers,2014-11-02,BAL,Win,43,23,2,47,pass,Markus Wheaton
+27,27,Steelers,2014-11-02,BAL,Win,43,23,4,54,pass,Antonio Brown
+28,28,Steelers,2014-11-02,BAL,Win,43,23,4,18,pass,Martavis Bryant
+29,29,Steelers,2014-11-02,BAL,Win,43,23,4,33,pass,Matt Spaeth
+30,30,Steelers,2014-11-09,NYJ,Loss,13,20,4,80,pass,Martavis Bryant
+31,31,Steelers,2014-11-17,TEN,Win,27,24,1,28,interception,William Gay
+32,32,Steelers,2014-11-17,TEN,Win,27,24,4,5,rush,Le'Veon Bell
+33,33,Steelers,2014-11-17,TEN,Win,27,24,4,12,pass,Antonio Brown
+34,34,Steelers,2014-11-30,NOR,Loss,32,35,3,1,rush,Le'Veon Bell
+35,35,Steelers,2014-11-30,NOR,Loss,32,35,4,4,pass,Antonio Brown
+36,36,Steelers,2014-11-30,NOR,Loss,32,35,4,3,pass,Antonio Brown
+37,37,Steelers,2014-12-07,CIN,Win,42,21,2,1,pass,Heath Miller
+38,38,Steelers,2014-12-07,CIN,Win,42,21,3,10,pass,Le'Veon Bell
+39,39,Steelers,2014-12-07,CIN,Win,42,21,4,13,rush,Le'Veon Bell
+40,40,Steelers,2014-12-07,CIN,Win,42,21,4,94,pass,Martavis Bryant
+41,41,Steelers,2014-12-07,CIN,Win,42,21,4,22,rush,Le'Veon Bell
+42,42,Steelers,2014-12-14,ATL,Win,27,20,2,52,interception,William Gay
+43,43,Steelers,2014-12-14,ATL,Win,27,20,2,1,rush,Le'Veon Bell
+44,44,Steelers,2014-12-14,ATL,Win,27,20,4,13,rush,Le'Veon Bell
+45,45,Steelers,2014-12-21,KAN,Win,20,12,2,1,rush,Le'Veon Bell
+46,46,Steelers,2014-12-21,KAN,Win,20,12,3,3,pass,Antonio Brown
+47,47,Steelers,2014-12-28,CIN,Win,27,17,1,71,punt,Antonio Brown
+48,48,Steelers,2014-12-28,CIN,Win,27,17,2,21,pass,Martavis Bryant
+49,49,Steelers,2014-12-28,CIN,Win,27,17,4,63,pass,Antonio Brown

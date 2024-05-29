@@ -1,18 +1,17 @@
-,Week,Team,Day,Date,Time,Win/Loss,Overtime,Team Record,Home/Away,Opponent,Points Scored,Points Allowed,Offense 1st Down,Total Yards Gained of Offense,Total yards Gained by Passing,Total Yards Gained by Rushing,Offense Turnovers,Defense 1st Down,Total Yards Allowed by Defense,Total Passing Yards Allowed by Defense,Total Rushing Yards Allowed by Defense,Defense Turnovers,Offense,Defense,Sp. Tms,Year
-0,0,Chargers,Mon,September 8,,L,0,0-1,away,Arizona Cardinals,17,18,15,290,238,52,1,22,403,294,109,2,-4.82,-5.41,6.2,2014
-1,1,Chargers,Sun,September 14,,W,0,1-1,home,Seattle Seahawks,30,21,26,377,276,101,0,14,288,180,108,1,12.21,-8.54,3.52,2014
-2,2,Chargers,Sun,September 21,,W,0,2-1,away,Buffalo Bills,22,10,20,333,250,83,0,18,292,205,87,0,9.74,4.38,-2.42,2014
-3,3,Chargers,Sun,September 28,,W,0,3-1,home,Jacksonville Jaguars,33,14,19,407,365,42,0,21,320,235,85,3,15.09,5.58,-2.82,2014
-4,4,Chargers,Sun,October 5,,W,0,4-1,home,New York Jets,31,0,21,439,277,162,1,11,151,60,91,2,15.75,22.08,-6.3,2014
-5,5,Chargers,Sun,October 12,,W,0,5-1,away,Oakland Raiders,31,28,24,423,307,116,0,17,396,282,114,1,11.41,-16.73,1.65,2014
-6,6,Chargers,Sun,October 19,,L,0,5-2,home,Kansas City Chiefs,20,23,19,251,182,69,1,22,365,211,154,0,3.59,-10.9,2.14,2014
-7,7,Chargers,Thu,October 23,,L,0,5-3,away,Denver Broncos,21,35,22,306,245,61,2,27,425,286,139,0,11.24,-25.94,3.32,2014
-8,8,Chargers,Sun,November 2,,L,0,5-4,away,Miami Dolphins,0,37,10,178,128,50,4,28,441,309,132,0,-22.68,-19.08,5.26,2014
-9,9,Chargers,,,,,0,,home,<strong>Bye Week</strong>,0,0,0,0,0,0,0,0,0,0,0,0,,,,2014
-10,10,Chargers,Sun,November 16,,W,0,6-4,home,Oakland Raiders,13,6,18,300,180,120,0,9,233,162,71,1,-5.72,15.68,-4.79,2014
-11,11,Chargers,Sun,November 23,,W,0,7-4,home,St. Louis Rams,27,24,19,410,282,128,3,16,317,210,107,3,-2.43,7.89,-2.69,2014
-12,12,Chargers,Sun,November 30,,W,0,8-4,away,Baltimore Ravens,34,33,31,440,376,64,2,24,350,225,125,0,23.96,-20.43,-2.99,2014
-13,13,Chargers,Sun,December 7,,L,0,8-5,home,New England Patriots,14,23,13,216,163,53,1,24,397,310,87,2,-9.73,1.26,-3.53,2014
-14,14,Chargers,Sun,December 14,,L,0,8-6,home,Denver Broncos,10,22,20,288,232,56,2,18,337,226,111,0,-3.44,-4.31,-2.08,2014
-15,15,1,1,1,1.0,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1.0,1.0,1.0,1
-16,16,Chargers,Sun,December 28,,L,0,9-7,away,Kansas City Chiefs,7,19,21,361,249,112,3,15,251,140,111,0,-12.22,6.72,-6.51,2014
+,Week,Day,Date,Time,Win/Loss,Overtime,Team Record,Home/Away,Opponent,Points Scored,Points Allowed,Offense 1st Down,Total Yards Gained of Offense,Total yards Gained by Passing,Total Yards Gained by Rushing,Offense Turnovers,Defense 1st Down,Total Yards Allowed by Defense,Total Passing Yards Allowed by Defense,Total Rushing Yards Allowed by Defense,Defense Turnovers,Offense,Defense,Sp. Tms,Team,Year
+0,1,Mon,2014-09-08,nan,Loss,0,0-1,away,Arizona Cardinals,17,18,15,290,238,52,1,22,403,294,109,2,-4.82,-5.41,6.2,Chargers,2014
+1,2,Sun,2014-09-14,nan,Win,0,1-1,home,Seattle Seahawks,30,21,26,377,276,101,0,14,288,180,108,1,12.21,-8.54,3.52,Chargers,2014
+2,3,Sun,2014-09-21,nan,Win,0,2-1,away,Buffalo Bills,22,10,20,333,250,83,0,18,292,205,87,0,9.74,4.38,-2.42,Chargers,2014
+3,4,Sun,2014-09-28,nan,Win,0,3-1,home,Jacksonville Jaguars,33,14,19,407,365,42,0,21,320,235,85,3,15.09,5.58,-2.82,Chargers,2014
+4,5,Sun,2014-10-05,nan,Win,0,4-1,home,New York Jets,31,0,21,439,277,162,1,11,151,60,91,2,15.75,22.08,-6.3,Chargers,2014
+5,6,Sun,2014-10-12,nan,Win,0,5-1,away,Oakland Raiders,31,28,24,423,307,116,0,17,396,282,114,1,11.41,-16.73,1.65,Chargers,2014
+6,7,Sun,2014-10-19,nan,Loss,0,5-2,home,Kansas City Chiefs,20,23,19,251,182,69,1,22,365,211,154,0,3.59,-10.9,2.14,Chargers,2014
+7,8,Thu,2014-10-23,nan,Loss,0,5-3,away,Denver Broncos,21,35,22,306,245,61,2,27,425,286,139,0,11.24,-25.94,3.32,Chargers,2014
+8,9,Sun,2014-11-02,nan,Loss,0,5-4,away,Miami Dolphins,0,37,10,178,128,50,4,28,441,309,132,0,-22.68,-19.08,5.26,Chargers,2014
+9,11,Sun,2014-11-16,nan,Win,0,6-4,home,Oakland Raiders,13,6,18,300,180,120,0,9,233,162,71,1,-5.72,15.68,-4.79,Chargers,2014
+10,12,Sun,2014-11-23,nan,Win,0,7-4,home,St. Louis Rams,27,24,19,410,282,128,3,16,317,210,107,3,-2.43,7.89,-2.69,Chargers,2014
+11,13,Sun,2014-11-30,nan,Win,0,8-4,away,Baltimore Ravens,34,33,31,440,376,64,2,24,350,225,125,0,23.96,-20.43,-2.99,Chargers,2014
+12,14,Sun,2014-12-07,nan,Loss,0,8-5,home,New England Patriots,14,23,13,216,163,53,1,24,397,310,87,2,-9.73,1.26,-3.53,Chargers,2014
+13,15,Sun,2014-12-14,nan,Loss,0,8-6,home,Denver Broncos,10,22,20,288,232,56,2,18,337,226,111,0,-3.44,-4.31,-2.08,Chargers,2014
+14,16,Sat,2014-12-20,nan,Win,1,9-6,away,San Francisco 49ers,38,35,28,446,348,98,3,21,447,92,355,3,9.89,-5.49,-1.47,Chargers,2014
+15,17,Sun,2014-12-28,nan,Loss,0,9-7,away,Kansas City Chiefs,7,19,21,361,249,112,3,15,251,140,111,0,-12.22,6.72,-6.51,Chargers,2014

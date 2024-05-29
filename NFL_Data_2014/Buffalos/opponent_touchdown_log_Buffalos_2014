@@ -1,29 +1,29 @@
-,Rank,Team,Date,Opponent,Win/Loss,Score,Quarter,Distance,Type,Detail,Year
-0,1,Buffalos,09/07/2014,CHI,Win, 23-20,1,12,pass,Martellus Bennett,2014
-1,2,Buffalos,09/07/2014,CHI,Win, 23-20,3,11,pass,Brandon Marshall,2014
-2,3,Buffalos,09/14/2014,MIA,Win, 29-10,3,7,pass,Mike Wallace,2014
-3,4,Buffalos,09/21/2014,SDG,Loss, 10-22,1,3,pass,Eddie Royal,2014
-4,5,Buffalos,09/21/2014,SDG,Loss, 10-22,3,5,pass,Eddie Royal,2014
-5,6,Buffalos,09/28/2014,HOU,Loss, 17-23,2,35,pass,DeAndre Hopkins,2014
-6,7,Buffalos,09/28/2014,HOU,Loss, 17-23,3,80,interception,J.J. Watt,2014
-7,8,Buffalos,10/05/2014,DET,Win, 17-14,1,9,pass,Golden Tate,2014
-8,9,Buffalos,10/05/2014,DET,Win, 17-14,2,41,interception,Rashean Mathis,2014
-9,10,Buffalos,10/12/2014,NWE,Loss, 22-37,2,1,pass,Tim Wright,2014
-10,11,Buffalos,10/12/2014,NWE,Loss, 22-37,3,43,pass,Brian Tyms,2014
-11,12,Buffalos,10/12/2014,NWE,Loss, 22-37,4,18,pass,Brandon LaFell,2014
-12,13,Buffalos,10/12/2014,NWE,Loss, 22-37,4,56,pass,Brandon LaFell,2014
-13,14,Buffalos,10/19/2014,MIN,Win, 17-16,2,4,pass,Cordarrelle Patterson,2014
-14,15,Buffalos,10/26/2014,NYJ,Win, 43-23,2,2,rush,Chris Ivory,2014
-15,16,Buffalos,10/26/2014,NYJ,Win, 43-23,2,2,rush,Chris Ivory,2014
-16,17,Buffalos,10/26/2014,NYJ,Win, 43-23,4,3,rush,Bilal Powell,2014
-17,18,Buffalos,11/09/2014,KAN,Loss, 13-17,4,39,rush,Jamaal Charles,2014
-18,19,Buffalos,11/09/2014,KAN,Loss, 13-17,4,8,rush,Alex Smith,2014
-19,20,Buffalos,11/13/2014,MIA,Loss, 9-22,3,7,pass,Brandon Gibson,2014
-20,21,Buffalos,11/13/2014,MIA,Loss, 9-22,4,8,pass,Jarvis Landry,2014
-21,22,Buffalos,11/30/2014,CLE,Win, 26-10,4,10,rush,Johnny Manziel,2014
-22,23,Buffalos,12/07/2014,DEN,Loss, 17-24,1,6,rush,C.J. Anderson,2014
-23,24,Buffalos,12/07/2014,DEN,Loss, 17-24,2,1,rush,C.J. Anderson,2014
-24,25,Buffalos,12/07/2014,DEN,Loss, 17-24,3,3,rush,C.J. Anderson,2014
-25,26,Buffalos,12/14/2014,GNB,Win, 21-13,2,1,rush,Eddie Lacy,2014
-26,27,Buffalos,12/21/2014,OAK,Loss, 24-26,2,3,pass,James Jones,2014
-27,28,Buffalos,12/21/2014,OAK,Loss, 24-26,4,1,pass,Jamize Olawale,2014
+,Rank,Team,Date,Opponent,Win/Loss,Home_Score,Opponenet_Score,Quarter,Distance,Type,Detail
+1,1,Buffalos,2014-09-07,CHI,Win,23,20,1,12,pass,Martellus Bennett
+2,2,Buffalos,2014-09-07,CHI,Win,23,20,3,11,pass,Brandon Marshall
+3,3,Buffalos,2014-09-14,MIA,Win,29,10,3,7,pass,Mike Wallace
+4,4,Buffalos,2014-09-21,SDG,Loss,10,22,1,3,pass,Eddie Royal
+5,5,Buffalos,2014-09-21,SDG,Loss,10,22,3,5,pass,Eddie Royal
+6,6,Buffalos,2014-09-28,HOU,Loss,17,23,2,35,pass,DeAndre Hopkins
+7,7,Buffalos,2014-09-28,HOU,Loss,17,23,3,80,interception,J.J. Watt
+8,8,Buffalos,2014-10-05,DET,Win,17,14,1,9,pass,Golden Tate
+9,9,Buffalos,2014-10-05,DET,Win,17,14,2,41,interception,Rashean Mathis
+10,10,Buffalos,2014-10-12,NWE,Loss,22,37,2,1,pass,Tim Wright
+11,11,Buffalos,2014-10-12,NWE,Loss,22,37,3,43,pass,Brian Tyms
+12,12,Buffalos,2014-10-12,NWE,Loss,22,37,4,18,pass,Brandon LaFell
+13,13,Buffalos,2014-10-12,NWE,Loss,22,37,4,56,pass,Brandon LaFell
+14,14,Buffalos,2014-10-19,MIN,Win,17,16,2,4,pass,Cordarrelle Patterson
+15,15,Buffalos,2014-10-26,NYJ,Win,43,23,2,2,rush,Chris Ivory
+16,16,Buffalos,2014-10-26,NYJ,Win,43,23,2,2,rush,Chris Ivory
+17,17,Buffalos,2014-10-26,NYJ,Win,43,23,4,3,rush,Bilal Powell
+18,18,Buffalos,2014-11-09,KAN,Loss,13,17,4,39,rush,Jamaal Charles
+19,19,Buffalos,2014-11-09,KAN,Loss,13,17,4,8,rush,Alex Smith
+20,20,Buffalos,2014-11-13,MIA,Loss,9,22,3,7,pass,Brandon Gibson
+21,21,Buffalos,2014-11-13,MIA,Loss,9,22,4,8,pass,Jarvis Landry
+22,22,Buffalos,2014-11-30,CLE,Win,26,10,4,10,rush,Johnny Manziel
+23,23,Buffalos,2014-12-07,DEN,Loss,17,24,1,6,rush,C.J. Anderson
+24,24,Buffalos,2014-12-07,DEN,Loss,17,24,2,1,rush,C.J. Anderson
+25,25,Buffalos,2014-12-07,DEN,Loss,17,24,3,3,rush,C.J. Anderson
+26,26,Buffalos,2014-12-14,GNB,Win,21,13,2,1,rush,Eddie Lacy
+27,27,Buffalos,2014-12-21,OAK,Loss,24,26,2,3,pass,James Jones
+28,28,Buffalos,2014-12-21,OAK,Loss,24,26,4,1,pass,Jamize Olawale

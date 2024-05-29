@@ -1,33 +1,33 @@
-,Rank,Team,Date,Opponent,Win/Loss,Score,Quarter,Distance,Type,Detail,Year
-0,1,Lions,09/08/2014,NYG,Win, 35-14,2,1,pass,Larry Donnell,2014
-1,2,Lions,09/08/2014,NYG,Win, 35-14,4,1,rush,Rashad Jennings,2014
-2,3,Lions,09/14/2014,CAR,Loss, 7-24,3,14,pass,Jason Avant,2014
-3,4,Lions,09/14/2014,CAR,Loss, 7-24,4,2,rush,Jonathan Stewart,2014
-4,5,Lions,09/21/2014,GNB,Win, 19-7,1,10,pass,Andrew Quarless,2014
-5,6,Lions,09/28/2014,NYJ,Win, 24-17,3,11,pass,Eric Decker,2014
-6,7,Lions,09/28/2014,NYJ,Win, 24-17,4,35,rush,Chris Johnson,2014
-7,8,Lions,10/05/2014,BUF,Loss, 14-17,4,2,pass,Chris Gragg,2014
-8,9,Lions,10/19/2014,NOR,Win, 24-23,2,13,pass,Austin Johnson,2014
-9,10,Lions,10/19/2014,NOR,Win, 24-23,3,46,pass,Kenny Stills,2014
-10,11,Lions,10/26/2014,ATL,Win, 22-21,1,7,pass,Devonta Freeman,2014
-11,12,Lions,10/26/2014,ATL,Win, 22-21,1,1,pass,Bear Pascoe,2014
-12,13,Lions,10/26/2014,ATL,Win, 22-21,2,1,rush,Steven Jackson,2014
-13,14,Lions,11/09/2014,MIA,Win, 20-16,3,3,pass,Mike Wallace,2014
-14,15,Lions,11/16/2014,ARI,Loss, 6-14,1,42,pass,Michael Floyd,2014
-15,16,Lions,11/16/2014,ARI,Loss, 6-14,1,12,pass,Michael Floyd,2014
-16,17,Lions,11/23/2014,NWE,Loss, 9-34,1,4,pass,Tim Wright,2014
-17,18,Lions,11/23/2014,NWE,Loss, 9-34,2,3,rush,LeGarrette Blount,2014
-18,19,Lions,11/23/2014,NWE,Loss, 9-34,2,8,pass,Tim Wright,2014
-19,20,Lions,11/23/2014,NWE,Loss, 9-34,4,1,rush,LeGarrette Blount,2014
-20,21,Lions,11/27/2014,CHI,Win, 34-17,1,10,pass,Alshon Jeffery,2014
-21,22,Lions,11/27/2014,CHI,Win, 34-17,1,6,pass,Alshon Jeffery,2014
-22,23,Lions,12/07/2014,TAM,Win, 34-17,2,5,pass,Mike Evans,2014
-23,24,Lions,12/07/2014,TAM,Win, 34-17,4,26,pass,Mike Evans,2014
-24,25,Lions,12/14/2014,MIN,Win, 16-14,1,2,rush,Matt Asiata,2014
-25,26,Lions,12/14/2014,MIN,Win, 16-14,2,8,pass,Greg Jennings,2014
-26,27,Lions,12/21/2014,CHI,Win, 20-14,2,11,pass,Matt Forte,2014
-27,28,Lions,12/21/2014,CHI,Win, 20-14,3,20,pass,Alshon Jeffery,2014
-28,29,Lions,12/28/2014,GNB,Loss, 20-30,1,55,punt,Micah Hyde,2014
-29,30,Lions,12/28/2014,GNB,Loss, 20-30,2,4,pass,Randall Cobb,2014
-30,31,Lions,12/28/2014,GNB,Loss, 20-30,3,13,pass,Randall Cobb,2014
-31,32,Lions,12/28/2014,GNB,Loss, 20-30,4,1,rush,Aaron Rodgers,2014
+,Rank,Team,Date,Opponent,Win/Loss,Home_Score,Opponenet_Score,Quarter,Distance,Type,Detail
+1,1,Lions,2014-09-08,NYG,Win,35,14,2,1,pass,Larry Donnell
+2,2,Lions,2014-09-08,NYG,Win,35,14,4,1,rush,Rashad Jennings
+3,3,Lions,2014-09-14,CAR,Loss,7,24,3,14,pass,Jason Avant
+4,4,Lions,2014-09-14,CAR,Loss,7,24,4,2,rush,Jonathan Stewart
+5,5,Lions,2014-09-21,GNB,Win,19,7,1,10,pass,Andrew Quarless
+6,6,Lions,2014-09-28,NYJ,Win,24,17,3,11,pass,Eric Decker
+7,7,Lions,2014-09-28,NYJ,Win,24,17,4,35,rush,Chris Johnson
+8,8,Lions,2014-10-05,BUF,Loss,14,17,4,2,pass,Chris Gragg
+9,9,Lions,2014-10-19,NOR,Win,24,23,2,13,pass,Austin Johnson
+10,10,Lions,2014-10-19,NOR,Win,24,23,3,46,pass,Kenny Stills
+11,11,Lions,2014-10-26,ATL,Win,22,21,1,7,pass,Devonta Freeman
+12,12,Lions,2014-10-26,ATL,Win,22,21,1,1,pass,Bear Pascoe
+13,13,Lions,2014-10-26,ATL,Win,22,21,2,1,rush,Steven Jackson
+14,14,Lions,2014-11-09,MIA,Win,20,16,3,3,pass,Mike Wallace
+15,15,Lions,2014-11-16,ARI,Loss,6,14,1,42,pass,Michael Floyd
+16,16,Lions,2014-11-16,ARI,Loss,6,14,1,12,pass,Michael Floyd
+17,17,Lions,2014-11-23,NWE,Loss,9,34,1,4,pass,Tim Wright
+18,18,Lions,2014-11-23,NWE,Loss,9,34,2,3,rush,LeGarrette Blount
+19,19,Lions,2014-11-23,NWE,Loss,9,34,2,8,pass,Tim Wright
+20,20,Lions,2014-11-23,NWE,Loss,9,34,4,1,rush,LeGarrette Blount
+21,21,Lions,2014-11-27,CHI,Win,34,17,1,10,pass,Alshon Jeffery
+22,22,Lions,2014-11-27,CHI,Win,34,17,1,6,pass,Alshon Jeffery
+23,23,Lions,2014-12-07,TAM,Win,34,17,2,5,pass,Mike Evans
+24,24,Lions,2014-12-07,TAM,Win,34,17,4,26,pass,Mike Evans
+25,25,Lions,2014-12-14,MIN,Win,16,14,1,2,rush,Matt Asiata
+26,26,Lions,2014-12-14,MIN,Win,16,14,2,8,pass,Greg Jennings
+27,27,Lions,2014-12-21,CHI,Win,20,14,2,11,pass,Matt Forte
+28,28,Lions,2014-12-21,CHI,Win,20,14,3,20,pass,Alshon Jeffery
+29,29,Lions,2014-12-28,GNB,Loss,20,30,1,55,punt,Micah Hyde
+30,30,Lions,2014-12-28,GNB,Loss,20,30,2,4,pass,Randall Cobb
+31,31,Lions,2014-12-28,GNB,Loss,20,30,3,13,pass,Randall Cobb
+32,32,Lions,2014-12-28,GNB,Loss,20,30,4,1,rush,Aaron Rodgers

@@ -1,39 +1,39 @@
-,Rank,Team,Date,Opponent,Win/Loss,Score,Quarter,Distance,Type,Detail,Year
-0,1,Vikings,09/14/2014,NWE,Loss, 7-30,1,1,rush,Stevan Ridley,2014
-1,2,Vikings,09/14/2014,NWE,Loss, 7-30,2,9,pass,Julian Edelman,2014
-2,3,Vikings,09/14/2014,NWE,Loss, 7-30,2,58,blocked field goal,Chandler Jones,2014
-3,4,Vikings,09/21/2014,NOR,Loss, 9-20,1,1,rush,Pierre Thomas,2014
-4,5,Vikings,09/21/2014,NOR,Loss, 9-20,1,34,pass,Josh Hill,2014
-5,6,Vikings,09/21/2014,NOR,Loss, 9-20,4,18,pass,Marques Colston,2014
-6,7,Vikings,09/28/2014,ATL,Win, 41-28,1,24,pass,Roddy White,2014
-7,8,Vikings,09/28/2014,ATL,Win, 41-28,2,1,pass,Patrick DiMarco,2014
-8,9,Vikings,09/28/2014,ATL,Win, 41-28,3,36,pass,Devin Hester,2014
-9,10,Vikings,09/28/2014,ATL,Win, 41-28,3,48,rush,Antone Smith,2014
-10,11,Vikings,10/02/2014,GNB,Loss, 10-42,1,8,pass,Randall Cobb,2014
-11,12,Vikings,10/02/2014,GNB,Loss, 10-42,1,66,pass,Jordy Nelson,2014
-12,13,Vikings,10/02/2014,GNB,Loss, 10-42,2,49,interception,Julius Peppers,2014
-13,14,Vikings,10/02/2014,GNB,Loss, 10-42,2,11,pass,Davante Adams,2014
-14,15,Vikings,10/02/2014,GNB,Loss, 10-42,3,11,rush,Eddie Lacy,2014
-15,16,Vikings,10/02/2014,GNB,Loss, 10-42,3,10,rush,Eddie Lacy,2014
-16,17,Vikings,10/12/2014,DET,Loss, 3-17,1,9,pass,Theo Riddick,2014
-17,18,Vikings,10/12/2014,DET,Loss, 3-17,4,1,rush,Joique Bell,2014
-18,19,Vikings,10/19/2014,BUF,Loss, 16-17,2,26,pass,Sammy Watkins,2014
-19,20,Vikings,10/19/2014,BUF,Loss, 16-17,4,2,pass,Sammy Watkins,2014
-20,21,Vikings,10/26/2014,TAM,Win, 19-13,4,7,pass,Austin Seferian-Jenkins,2014
-21,22,Vikings,11/02/2014,WAS,Win, 29-26,2,14,rush,Alfred Morris,2014
-22,23,Vikings,11/02/2014,WAS,Win, 29-26,3,13,pass,DeSean Jackson,2014
-23,24,Vikings,11/02/2014,WAS,Win, 29-26,4,2,rush,Alfred Morris,2014
-24,25,Vikings,11/16/2014,CHI,Loss, 13-21,2,27,pass,Alshon Jeffery,2014
-25,26,Vikings,11/16/2014,CHI,Loss, 13-21,2,44,pass,Brandon Marshall,2014
-26,27,Vikings,11/16/2014,CHI,Loss, 13-21,4,4,pass,Brandon Marshall,2014
-27,28,Vikings,11/23/2014,GNB,Loss, 21-24,1,1,rush,Eddie Lacy,2014
-28,29,Vikings,11/23/2014,GNB,Loss, 21-24,2,1,pass,Richard Rodgers,2014
-29,30,Vikings,11/23/2014,GNB,Loss, 21-24,4,10,pass,Eddie Lacy,2014
-30,31,Vikings,11/30/2014,CAR,Win, 31-13,3,32,pass,Corey Brown,2014
-31,32,Vikings,12/07/2014,NYJ,Win, 30-24,1,35,pass,Percy Harvin,2014
-32,33,Vikings,12/14/2014,DET,Loss, 14-16,2,7,pass,Golden Tate,2014
-33,34,Vikings,12/21/2014,MIA,Loss, 35-37,2,14,pass,Dion Sims,2014
-34,35,Vikings,12/21/2014,MIA,Loss, 35-37,3,16,pass,Mike Wallace,2014
-35,36,Vikings,12/21/2014,MIA,Loss, 35-37,4,1,rush,Lamar Miller,2014
-36,37,Vikings,12/21/2014,MIA,Loss, 35-37,4,7,pass,Mike Wallace,2014
-37,38,Vikings,12/21/2014,MIA,Loss, 35-37,4,3,pass,Damien Williams,2014
+,Rank,Team,Date,Opponent,Win/Loss,Home_Score,Opponenet_Score,Quarter,Distance,Type,Detail
+1,1,Vikings,2014-09-14,NWE,Loss,7,30,1,1,rush,Stevan Ridley
+2,2,Vikings,2014-09-14,NWE,Loss,7,30,2,9,pass,Julian Edelman
+3,3,Vikings,2014-09-14,NWE,Loss,7,30,2,58,blocked field goal,Chandler Jones
+4,4,Vikings,2014-09-21,NOR,Loss,9,20,1,1,rush,Pierre Thomas
+5,5,Vikings,2014-09-21,NOR,Loss,9,20,1,34,pass,Josh Hill
+6,6,Vikings,2014-09-21,NOR,Loss,9,20,4,18,pass,Marques Colston
+7,7,Vikings,2014-09-28,ATL,Win,41,28,1,24,pass,Roddy White
+8,8,Vikings,2014-09-28,ATL,Win,41,28,2,1,pass,Patrick DiMarco
+9,9,Vikings,2014-09-28,ATL,Win,41,28,3,36,pass,Devin Hester
+10,10,Vikings,2014-09-28,ATL,Win,41,28,3,48,rush,Antone Smith
+11,11,Vikings,2014-10-02,GNB,Loss,10,42,1,8,pass,Randall Cobb
+12,12,Vikings,2014-10-02,GNB,Loss,10,42,1,66,pass,Jordy Nelson
+13,13,Vikings,2014-10-02,GNB,Loss,10,42,2,49,interception,Julius Peppers
+14,14,Vikings,2014-10-02,GNB,Loss,10,42,2,11,pass,Davante Adams
+15,15,Vikings,2014-10-02,GNB,Loss,10,42,3,11,rush,Eddie Lacy
+16,16,Vikings,2014-10-02,GNB,Loss,10,42,3,10,rush,Eddie Lacy
+17,17,Vikings,2014-10-12,DET,Loss,3,17,1,9,pass,Theo Riddick
+18,18,Vikings,2014-10-12,DET,Loss,3,17,4,1,rush,Joique Bell
+19,19,Vikings,2014-10-19,BUF,Loss,16,17,2,26,pass,Sammy Watkins
+20,20,Vikings,2014-10-19,BUF,Loss,16,17,4,2,pass,Sammy Watkins
+21,21,Vikings,2014-10-26,TAM,Win,19,13,4,7,pass,Austin Seferian-Jenkins
+22,22,Vikings,2014-11-02,WAS,Win,29,26,2,14,rush,Alfred Morris
+23,23,Vikings,2014-11-02,WAS,Win,29,26,3,13,pass,DeSean Jackson
+24,24,Vikings,2014-11-02,WAS,Win,29,26,4,2,rush,Alfred Morris
+25,25,Vikings,2014-11-16,CHI,Loss,13,21,2,27,pass,Alshon Jeffery
+26,26,Vikings,2014-11-16,CHI,Loss,13,21,2,44,pass,Brandon Marshall
+27,27,Vikings,2014-11-16,CHI,Loss,13,21,4,4,pass,Brandon Marshall
+28,28,Vikings,2014-11-23,GNB,Loss,21,24,1,1,rush,Eddie Lacy
+29,29,Vikings,2014-11-23,GNB,Loss,21,24,2,1,pass,Richard Rodgers
+30,30,Vikings,2014-11-23,GNB,Loss,21,24,4,10,pass,Eddie Lacy
+31,31,Vikings,2014-11-30,CAR,Win,31,13,3,32,pass,Corey Brown
+32,32,Vikings,2014-12-07,NYJ,Win,30,24,1,35,pass,Percy Harvin
+33,33,Vikings,2014-12-14,DET,Loss,14,16,2,7,pass,Golden Tate
+34,34,Vikings,2014-12-21,MIA,Loss,35,37,2,14,pass,Dion Sims
+35,35,Vikings,2014-12-21,MIA,Loss,35,37,3,16,pass,Mike Wallace
+36,36,Vikings,2014-12-21,MIA,Loss,35,37,4,1,rush,Lamar Miller
+37,37,Vikings,2014-12-21,MIA,Loss,35,37,4,7,pass,Mike Wallace
+38,38,Vikings,2014-12-21,MIA,Loss,35,37,4,3,pass,Damien Williams

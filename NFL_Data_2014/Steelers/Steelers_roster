@@ -1,57 +1,57 @@
-Player,No.,Team,Age,Pos,G,GS,Wt,Ht,College/Univ,BirthDate,Yrs,AV,Drafted (tm/rnd/yr)
-Mike Adams,76.0,Steelers,24.0,T,16,4.0,323.0,6-7,Ohio St.,3/10/1990,2,3.0,Pittsburgh Steelers / 2nd / 56th pick / 2012
-Cortez Allen,28.0,Steelers,26.0,LCB,11,7.0,196.0,6-1,The Citadel,10/29/1988,3,3.0,Pittsburgh Steelers / 4th / 128th pick / 2011
-Will Allen,20.0,Steelers,32.0,DB,16,4.0,202.0,6-1,Ohio St.,6/17/1982,10,2.0,Tampa Bay Buccaneers / 4th / 111th pick / 2004
-Dri Archer,13.0,Steelers,23.0,WR,12,0.0,173.0,5-8,Kent St.,8/9/1991,Rook,0.0,Pittsburgh Steelers / 3rd / 97th pick / 2014
-Kelvin Beachum,68.0,Steelers,25.0,LT,16,16.0,308.0,6-3,SMU,6/8/1989,2,8.0,Pittsburgh Steelers / 7th / 248th pick / 2012
-Le'Veon Bell,26.0,Steelers,22.0,RB,16,16.0,225.0,6-1,Michigan St.,2/18/1992,1,17.0,Pittsburgh Steelers / 2nd / 48th pick / 2013
-Antwon Blake,41.0,Steelers,24.0,DB,16,1.0,198.0,5-9,Texas-El Paso,8/9/1990,2,2.0,
-LeGarrette Blount,27.0,Steelers,28.0,RB,11,0.0,247.0,6-0,"East Mississippi CC,Oregon",12/5/1986,4,2.0,
-Antonio Brown,84.0,Steelers,26.0,WR,16,16.0,185.0,5-10,Central Michigan,7/10/1988,4,16.0,Pittsburgh Steelers / 6th / 195th pick / 2010
-Justin Brown,15.0,Steelers,23.0,WR,8,1.0,207.0,6-3,Oklahoma,3/10/1991,Rook,1.0,Pittsburgh Steelers / 6th / 186th pick / 2013
-Martavis Bryant,10.0,Steelers,23.0,WR,10,3.0,210.0,6-4,Clemson,12/20/1991,Rook,5.0,Pittsburgh Steelers / 4th / 118th pick / 2014
-David DeCastro,66.0,Steelers,24.0,RG,16,16.0,316.0,6-5,Stanford,1/11/1990,2,8.0,Pittsburgh Steelers / 1st / 24th pick / 2012
-Ramon Foster,73.0,Steelers,28.0,LG,14,14.0,328.0,6-5,Tennessee,1/7/1986,5,7.0,
-Terence Garvin,57.0,Steelers,23.0,LB,16,0.0,242.0,6-3,West Virginia,1/1/1991,1,1.0,
-William Gay,22.0,Steelers,29.0,LCB,16,13.0,187.0,5-10,Louisville,1/1/1985,7,5.0,Pittsburgh Steelers / 5th / 170th pick / 2007
-Marcus Gilbert,77.0,Steelers,26.0,RT,12,12.0,330.0,6-6,Florida,2/15/1988,3,6.0,Pittsburgh Steelers / 2nd / 63rd pick / 2011
-Robert Golden,21.0,Steelers,24.0,DB,16,0.0,202.0,5-11,Arizona,9/13/1990,2,1.0,
-Bruce Gradkowski,5.0,Steelers,31.0,QB,1,0.0,217.0,6-1,Toledo,1/27/1983,8,0.0,Tampa Bay Buccaneers / 6th / 194th pick / 2006
-Josh Harris,40.0,Steelers,23.0,RB,5,0.0,200.0,6-0,Wake Forest,1/22/1991,Rook,0.0,
-James Harrison,92.0,Steelers,36.0,LB,11,4.0,242.0,6-0,Kent St.,5/4/1978,12,3.0,
-Cameron Heyward,97.0,Steelers,25.0,LDE,16,16.0,295.0,6-5,Ohio St.,5/6/1989,3,7.0,Pittsburgh Steelers / 1st / 31st pick / 2011
-Darrius Heyward-Bey,85.0,Steelers,27.0,WR,16,1.0,210.0,6-2,Maryland,2/26/1987,5,0.0,Oakland Raiders / 1st / 7th pick / 2009
-Chris Hubbard,74.0,Steelers,23.0,G,1,0.0,295.0,6-4,Ala-Birmingham,4/23/1991,Rook,0.0,
-Will Johnson,46.0,Steelers,25.0,RB,16,5.0,238.0,6-2,West Virginia,11/14/1989,2,0.0,
-Jarvis Jones,95.0,Steelers,25.0,LB,7,3.0,245.0,6-2,Georgia,10/13/1989,1,2.0,Pittsburgh Steelers / 1st / 17th pick / 2013
-Brett Keisel,99.0,Steelers,36.0,DE,12,4.0,285.0,6-5,"Snow College (UT),BYU",9/19/1978,12,3.0,Pittsburgh Steelers / 7th / 242nd pick / 2002
-Brice McCain,25.0,Steelers,28.0,RCB,14,9.0,190.0,5-9,Utah,12/10/1986,5,4.0,Houston Texans / 6th / 188th pick / 2009
-Daniel McCullers,92.0,Steelers,22.0,DT,9,1.0,352.0,6-7,Tennessee,8/11/1992,Rook,1.0,Pittsburgh Steelers / 6th / 215th pick / 2014
-Steve McLendon,90.0,Steelers,28.0,NT,12,11.0,310.0,6-3,Troy,1/3/1986,4,4.0,
-Heath Miller,83.0,Steelers,32.0,TE,16,16.0,256.0,6-5,Virginia,10/22/1982,9,7.0,Pittsburgh Steelers / 1st / 30th pick / 2005
-Mike Mitchell,23.0,Steelers,27.0,FS,16,16.0,221.0,6-1,Ohio,6/10/1987,5,5.0,Oakland Raiders / 2nd / 47th pick / 2009
-Arthur Moats,55.0,Steelers,26.0,ROLB,16,9.0,246.0,6-0,James Madison,3/14/1988,4,4.0,Buffalo Bills / 6th / 178th pick / 2010
-Lance Moore,16.0,Steelers,31.0,WR,14,2.0,187.0,5-9,Toledo,8/31/1983,8,2.0,
-Michael Palmer,82.0,Steelers,26.0,TE,15,1.0,260.0,6-5,Clemson,1/18/1988,4,0.0,
-Troy Polamalu,43.0,Steelers,33.0,SS,12,12.0,207.0,5-10,USC,4/19/1981,11,4.0,Pittsburgh Steelers / 1st / 16th pick / 2003
-Maurkice Pouncey,53.0,Steelers,25.0,C,16,16.0,304.0,6-4,Florida,7/24/1989,4,15.0,Pittsburgh Steelers / 1st / 18th pick / 2010
-Ben Roethlisberger,7.0,Steelers,32.0,QB,16,16.0,240.0,6-5,Miami (OH),3/2/1982,10,16.0,Pittsburgh Steelers / 1st / 11th pick / 2004
-Ryan Shazier,50.0,Steelers,22.0,LILB,9,5.0,230.0,6-1,Ohio St.,9/6/1992,Rook,2.0,Pittsburgh Steelers / 1st / 15th pick / 2014
-Matt Spaeth,89.0,Steelers,31.0,TE,15,8.0,270.0,6-7,Minnesota,11/24/1983,7,0.0,Pittsburgh Steelers / 3rd / 77th pick / 2007
-Sean Spence,51.0,Steelers,24.0,LILB,16,9.0,231.0,5-11,Miami (FL),6/7/1990,Rook,5.0,Pittsburgh Steelers / 3rd / 86th pick / 2012
-Shaun Suisham,6.0,Steelers,33.0,K,16,0.0,199.0,6-0,Bowling Green,12/29/1981,9,4.0,
-Ben Tate,34.0,Steelers,26.0,RB,0,0.0,214.0,5-11,Auburn,8/21/1988,3,,Houston Texans / 2nd / 58th pick / 2010
-Ike Taylor,24.0,Steelers,34.0,FS,5,5.0,195.0,6-2,Louisiana,5/5/1980,11,1.0,Pittsburgh Steelers / 4th / 125th pick / 2003
-Cam Thomas,96.0,Steelers,28.0,RDE,16,9.0,330.0,6-3,North Carolina,12/12/1986,4,4.0,San Diego Chargers / 5th / 146th pick / 2010
-Shamarko Thomas,29.0,Steelers,23.0,DB,11,0.0,205.0,5-9,Syracuse,2/23/1991,1,1.0,Pittsburgh Steelers / 4th / 111th pick / 2013
-Lawrence Timmons,94.0,Steelers,28.0,RILB,16,16.0,234.0,6-1,Florida St.,5/14/1986,7,12.0,Pittsburgh Steelers / 1st / 15th pick / 2007
-Stephon Tuitt,91.0,Steelers,21.0,DE,16,4.0,303.0,6-6,Notre Dame,5/23/1993,Rook,3.0,Pittsburgh Steelers / 2nd / 46th pick / 2014
-Ross Ventrone,35.0,Steelers,28.0,DB,9,0.0,190.0,5-8,Villanova,9/27/1986,3,0.0,
-Cody Wallace,72.0,Steelers,30.0,C,15,2.0,290.0,6-4,Texas A&M,11/26/1984,5,2.0,San Francisco 49ers / 4th / 107th pick / 2008
-Greg Warren,60.0,Steelers,33.0,LS,16,0.0,252.0,6-3,North Carolina,10/18/1981,9,2.0,
-B.W. Webb,39.0,Steelers,24.0,DB,11,0.0,188.0,5-11,William & Mary,5/3/1990,1,1.0,Dallas Cowboys / 4th / 114th pick / 2013
-Markus Wheaton,11.0,Steelers,23.0,WR,16,11.0,185.0,5-11,Oregon St.,2/7/1991,1,6.0,Pittsburgh Steelers / 3rd / 79th pick / 2013
-Vince Williams,98.0,Steelers,25.0,LB,16,2.0,233.0,6-1,Florida St.,12/27/1989,1,2.0,Pittsburgh Steelers / 6th / 206th pick / 2013
-Brad Wing,9.0,Steelers,23.0,P,16,0.0,205.0,6-2,LSU,1/27/1991,Rook,2.0,
-Jason Worilds,93.0,Steelers,26.0,LOLB,16,16.0,240.0,6-2,Virginia Tech,3/3/1988,4,8.0,Pittsburgh Steelers / 2nd / 52nd pick / 2010
-Team Total,,Steelers,26.8,,16,,241.3,6-1.7,,,4.0,,
+,No.,Player,BirthDate,Age,Height,Weight,College/University,Position,Games_Played_in_Season,Games_Started_in_Season,NFL_Years,Player_Value,Team,Year
+0,76.0,Mike Adams,3/10/1990,24.0,6-7,323.0,Ohio St.,T,16,4.0,2.0,3.0,Steelers,2014
+1,28.0,Cortez Allen,10/29/1988,26.0,6-1,196.0,The Citadel,LCB,11,7.0,3.0,3.0,Steelers,2014
+2,20.0,Will Allen,6/17/1982,32.0,6-1,202.0,Ohio St.,DB,16,4.0,10.0,2.0,Steelers,2014
+3,13.0,Dri Archer,8/9/1991,23.0,5-8,173.0,Kent St.,WR,12,0.0,0.0,0.0,Steelers,2014
+4,68.0,Kelvin Beachum,6/8/1989,25.0,6-3,308.0,SMU,LT,16,16.0,2.0,8.0,Steelers,2014
+5,26.0,Le'Veon Bell,2/18/1992,22.0,6-1,225.0,Michigan St.,RB,16,16.0,1.0,17.0,Steelers,2014
+6,41.0,Antwon Blake,8/9/1990,24.0,5-9,198.0,Texas-El Paso,DB,16,1.0,2.0,2.0,Steelers,2014
+7,27.0,LeGarrette Blount,12/5/1986,28.0,6-0,247.0,"East Mississippi CC,Oregon",RB,11,0.0,4.0,2.0,Steelers,2014
+8,84.0,Antonio Brown,7/10/1988,26.0,5-10,185.0,Central Michigan,WR,16,16.0,4.0,16.0,Steelers,2014
+9,15.0,Justin Brown,3/10/1991,23.0,6-3,207.0,Oklahoma,WR,8,1.0,0.0,1.0,Steelers,2014
+10,10.0,Martavis Bryant,12/20/1991,23.0,6-4,210.0,Clemson,WR,10,3.0,0.0,5.0,Steelers,2014
+11,66.0,David DeCastro,1/11/1990,24.0,6-5,316.0,Stanford,RG,16,16.0,2.0,8.0,Steelers,2014
+12,73.0,Ramon Foster,1/7/1986,28.0,6-5,328.0,Tennessee,LG,14,14.0,5.0,7.0,Steelers,2014
+13,57.0,Terence Garvin,1/1/1991,23.0,6-3,242.0,West Virginia,LB,16,0.0,1.0,1.0,Steelers,2014
+14,22.0,William Gay,1/1/1985,29.0,5-10,187.0,Louisville,LCB,16,13.0,7.0,5.0,Steelers,2014
+15,77.0,Marcus Gilbert,2/15/1988,26.0,6-6,330.0,Florida,RT,12,12.0,3.0,6.0,Steelers,2014
+16,21.0,Robert Golden,9/13/1990,24.0,5-11,202.0,Arizona,DB,16,0.0,2.0,1.0,Steelers,2014
+17,5.0,Bruce Gradkowski,1/27/1983,31.0,6-1,217.0,Toledo,QB,1,0.0,8.0,0.0,Steelers,2014
+18,40.0,Josh Harris,1/22/1991,23.0,6-0,200.0,Wake Forest,RB,5,0.0,0.0,0.0,Steelers,2014
+19,92.0,James Harrison,5/4/1978,36.0,6-0,242.0,Kent St.,LB,11,4.0,12.0,3.0,Steelers,2014
+20,97.0,Cameron Heyward,5/6/1989,25.0,6-5,295.0,Ohio St.,LDE,16,16.0,3.0,7.0,Steelers,2014
+21,85.0,Darrius Heyward-Bey,2/26/1987,27.0,6-2,210.0,Maryland,WR,16,1.0,5.0,0.0,Steelers,2014
+22,74.0,Chris Hubbard,4/23/1991,23.0,6-4,295.0,Ala-Birmingham,G,1,0.0,0.0,0.0,Steelers,2014
+23,46.0,Will Johnson,11/14/1989,25.0,6-2,238.0,West Virginia,RB,16,5.0,2.0,0.0,Steelers,2014
+24,95.0,Jarvis Jones,10/13/1989,25.0,6-2,245.0,Georgia,LB,7,3.0,1.0,2.0,Steelers,2014
+25,99.0,Brett Keisel,9/19/1978,36.0,6-5,285.0,"Snow College (UT),BYU",DE,12,4.0,12.0,3.0,Steelers,2014
+26,25.0,Brice McCain,12/10/1986,28.0,5-9,190.0,Utah,RCB,14,9.0,5.0,4.0,Steelers,2014
+27,92.0,Daniel McCullers,8/11/1992,22.0,6-7,352.0,Tennessee,DT,9,1.0,0.0,1.0,Steelers,2014
+28,90.0,Steve McLendon,1/3/1986,28.0,6-3,310.0,Troy,NT,12,11.0,4.0,4.0,Steelers,2014
+29,83.0,Heath Miller,10/22/1982,32.0,6-5,256.0,Virginia,TE,16,16.0,9.0,7.0,Steelers,2014
+30,23.0,Mike Mitchell,6/10/1987,27.0,6-1,221.0,Ohio,FS,16,16.0,5.0,5.0,Steelers,2014
+31,55.0,Arthur Moats,3/14/1988,26.0,6-0,246.0,James Madison,ROLB,16,9.0,4.0,4.0,Steelers,2014
+32,16.0,Lance Moore,8/31/1983,31.0,5-9,187.0,Toledo,WR,14,2.0,8.0,2.0,Steelers,2014
+33,82.0,Michael Palmer,1/18/1988,26.0,6-5,260.0,Clemson,TE,15,1.0,4.0,0.0,Steelers,2014
+34,43.0,Troy Polamalu,4/19/1981,33.0,5-10,207.0,USC,SS,12,12.0,11.0,4.0,Steelers,2014
+35,53.0,Maurkice Pouncey,7/24/1989,25.0,6-4,304.0,Florida,C,16,16.0,4.0,15.0,Steelers,2014
+36,7.0,Ben Roethlisberger,3/2/1982,32.0,6-5,240.0,Miami (OH),QB,16,16.0,10.0,16.0,Steelers,2014
+37,50.0,Ryan Shazier,9/6/1992,22.0,6-1,230.0,Ohio St.,LILB,9,5.0,0.0,2.0,Steelers,2014
+38,89.0,Matt Spaeth,11/24/1983,31.0,6-7,270.0,Minnesota,TE,15,8.0,7.0,0.0,Steelers,2014
+39,51.0,Sean Spence,6/7/1990,24.0,5-11,231.0,Miami (FL),LILB,16,9.0,0.0,5.0,Steelers,2014
+40,6.0,Shaun Suisham,12/29/1981,33.0,6-0,199.0,Bowling Green,K,16,0.0,9.0,4.0,Steelers,2014
+41,34.0,Ben Tate,8/21/1988,26.0,5-11,214.0,Auburn,RB,0,0.0,3.0,,Steelers,2014
+42,24.0,Ike Taylor,5/5/1980,34.0,6-2,195.0,Louisiana,FS,5,5.0,11.0,1.0,Steelers,2014
+43,96.0,Cam Thomas,12/12/1986,28.0,6-3,330.0,North Carolina,RDE,16,9.0,4.0,4.0,Steelers,2014
+44,29.0,Shamarko Thomas,2/23/1991,23.0,5-9,205.0,Syracuse,DB,11,0.0,1.0,1.0,Steelers,2014
+45,94.0,Lawrence Timmons,5/14/1986,28.0,6-1,234.0,Florida St.,RILB,16,16.0,7.0,12.0,Steelers,2014
+46,91.0,Stephon Tuitt,5/23/1993,21.0,6-6,303.0,Notre Dame,DE,16,4.0,0.0,3.0,Steelers,2014
+47,35.0,Ross Ventrone,9/27/1986,28.0,5-8,190.0,Villanova,DB,9,0.0,3.0,0.0,Steelers,2014
+48,72.0,Cody Wallace,11/26/1984,30.0,6-4,290.0,Texas A&M,C,15,2.0,5.0,2.0,Steelers,2014
+49,60.0,Greg Warren,10/18/1981,33.0,6-3,252.0,North Carolina,LS,16,0.0,9.0,2.0,Steelers,2014
+50,39.0,B.W. Webb,5/3/1990,24.0,5-11,188.0,William & Mary,DB,11,0.0,1.0,1.0,Steelers,2014
+51,11.0,Markus Wheaton,2/7/1991,23.0,5-11,185.0,Oregon St.,WR,16,11.0,1.0,6.0,Steelers,2014
+52,98.0,Vince Williams,12/27/1989,25.0,6-1,233.0,Florida St.,LB,16,2.0,1.0,2.0,Steelers,2014
+53,9.0,Brad Wing,1/27/1991,23.0,6-2,205.0,LSU,P,16,0.0,0.0,2.0,Steelers,2014
+54,93.0,Jason Worilds,3/3/1988,26.0,6-2,240.0,Virginia Tech,LOLB,16,16.0,4.0,8.0,Steelers,2014
+55,,Team Total,,26.8,6-1.7,241.3,,,16,,4.0,,Steelers,2014

@@ -1,16 +1,16 @@
-,No.,Team,Player,Age,Pos,Games Played,Games Started,Rush TD,Reception TD,Punt Return TD,Kick Return TD,Fumble Return TD,Interception TD,Other TD,All Touchdown Scored,2-Point Conversions Made,Two-Point Conversions Attempted,Defensive Two-Point Conversions,Extra Points Made,Extra Points Allowed,Field Goals Made,Field Goals Attempted,Safeties Scored by Player/Team,Total Points Scored by all Means,Poins per Game,Year
-0,8,Titans,Ryan Succop,28,K,16,0,0,0,0,0,0,0,0,0,0,0,0,27,27,19,22,,84,5.3,2014
-1,13,Titans,Kendall Wright,25,WR,14,11,0,6,0,0,0,0,0,6,0,0,0,0,0,0,0,,36,2.6,2014
-2,82,Titans,Delanie Walker,30,TE,15,14,0,4,0,0,0,0,0,4,0,0,0,0,0,0,0,,24,1.6,2014
-3,15,Titans,Justin Hunter,23,WR,12,8,0,3,0,0,0,0,0,3,0,0,0,0,0,0,0,,18,1.5,2014
-4,23,Titans,Shonn Greene,29,RB,13,5,2,0,0,0,0,0,0,2,0,0,0,0,0,0,0,,12,0.9,2014
-5,20,Titans,Bishop Sankey,22,RB,16,9,2,0,0,0,0,0,0,2,0,0,0,0,0,0,0,,12,0.8,2014
-6,29,Titans,Leon Washington,32,RB,16,0,0,2,0,0,0,0,0,2,0,0,0,0,0,0,0,,12,0.8,2014
-7,85,Titans,Nate Washington,31,WR,16,11,0,2,0,0,0,0,0,2,0,0,0,0,0,0,0,,12,0.8,2014
-8,44,Titans,Jackie Battle,31,RB,16,1,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,,6,0.4,2014
-9,86,Titans,Chase Coffman,28,TE,13,3,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,,6,0.5,2014
-10,80,Titans,Derek Hagan,30,WR,16,3,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,,6,0.4,2014
-11,28,Titans,Marqueston Huff,22,DB,14,1,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,,6,0.4,2014
-12,10,Titans,Jake Locker,26,QB,7,5,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,,6,0.9,2014
-13,22,Titans,Dexter McCluster,25,WR,14,2,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,,6,0.4,2014
-14,30,Titans,Jason McCourty,27,RCB,16,16,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,,6,0.4,2014
+,No.,Player,Age,Pos,Games Played,Games Started,Rush TD,Reception TD,Punt Return TD,Kick Return TD,Fumble Return TD,Interception TD,Other TD,All Touchdown Scored,2-Point Conversions Made,Two-Point Conversions Attempted,Defensive Two-Point Conversions,Extra Points Made,Extra Points Allowed,Field Goals Made,Field Goals Attempted,Safeties Scored by Player/Team,Total Points Scored by all Means,Poins per Game,Team,Year
+8,8,Ryan Succop,28,K,16,0,0,0,0,0,0,0,0,0,0,0,0,27,27,19,22,0,84,5.3,Titans,2014
+13,13,Kendall Wright,25,WR,14,11,0,6,0,0,0,0,0,6,0,0,0,0,0,0,0,0,36,2.6,Titans,2014
+82,82,Delanie Walker,30,TE,15,14,0,4,0,0,0,0,0,4,0,0,0,0,0,0,0,0,24,1.6,Titans,2014
+15,15,Justin Hunter,23,WR,12,8,0,3,0,0,0,0,0,3,0,0,0,0,0,0,0,0,18,1.5,Titans,2014
+23,23,Shonn Greene,29,RB,13,5,2,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,12,0.9,Titans,2014
+20,20,Bishop Sankey,22,RB,16,9,2,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,12,0.8,Titans,2014
+29,29,Leon Washington,32,RB,16,0,0,2,0,0,0,0,0,2,0,0,0,0,0,0,0,0,12,0.8,Titans,2014
+85,85,Nate Washington,31,WR,16,11,0,2,0,0,0,0,0,2,0,0,0,0,0,0,0,0,12,0.8,Titans,2014
+44,44,Jackie Battle,31,RB,16,1,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,6,0.4,Titans,2014
+86,86,Chase Coffman,28,TE,13,3,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,6,0.5,Titans,2014
+80,80,Derek Hagan,30,WR,16,3,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,6,0.4,Titans,2014
+28,28,Marqueston Huff,22,DB,14,1,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,6,0.4,Titans,2014
+10,10,Jake Locker,26,QB,7,5,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,6,0.9,Titans,2014
+22,22,Dexter McCluster,25,WR,14,2,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,6,0.4,Titans,2014
+30,30,Jason McCourty,27,RCB,16,16,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,6,0.4,Titans,2014

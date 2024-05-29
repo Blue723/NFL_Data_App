@@ -1,37 +1,37 @@
-,Rank,Team,Date,Opponent,Win/Loss,Score,Quarter,Distance,Type,Detail,Year
-0,1,Browns,09/07/2014,PIT,Loss, 27-30,1,7,rush,LeGarrette Blount,2014
-1,2,Browns,09/07/2014,PIT,Loss, 27-30,2,35,pass,Antonio Brown,2014
-2,3,Browns,09/07/2014,PIT,Loss, 27-30,2,38,rush,Le'Veon Bell,2014
-3,4,Browns,09/14/2014,NOR,Win, 26-24,2,9,pass,Jimmy Graham,2014
-4,5,Browns,09/14/2014,NOR,Win, 26-24,3,1,pass,Jimmy Graham,2014
-5,6,Browns,09/14/2014,NOR,Win, 26-24,4,1,rush,Mark Ingram,2014
-6,7,Browns,09/21/2014,BAL,Loss, 21-23,2,9,pass,Kyle Juszczyk,2014
-7,8,Browns,09/21/2014,BAL,Loss, 21-23,3,1,rush,Lorenzo Taliaferro,2014
-8,9,Browns,10/05/2014,TEN,Win, 29-28,1,11,pass,Kendall Wright,2014
-9,10,Browns,10/05/2014,TEN,Win, 29-28,2,11,rush,Jake Locker,2014
-10,11,Browns,10/05/2014,TEN,Win, 29-28,2,11,pass,Kendall Wright,2014
-11,12,Browns,10/05/2014,TEN,Win, 29-28,2,75,pass,Justin Hunter,2014
-12,13,Browns,10/12/2014,PIT,Win, 31-10,4,26,pass,Lance Moore,2014
-13,14,Browns,10/19/2014,JAX,Loss, 6-24,2,31,pass,Allen Robinson,2014
-14,15,Browns,10/19/2014,JAX,Loss, 6-24,4,8,rush,Denard Robinson,2014
-15,16,Browns,10/19/2014,JAX,Loss, 6-24,4,3,rush,Storm Johnson,2014
-16,17,Browns,10/26/2014,OAK,Win, 23-13,4,10,pass,Andre Holmes,2014
-17,18,Browns,11/02/2014,TAM,Win, 22-17,2,24,pass,Mike Evans,2014
-18,19,Browns,11/02/2014,TAM,Win, 22-17,3,24,pass,Mike Evans,2014
-19,20,Browns,11/16/2014,HOU,Loss, 7-23,1,2,pass,J.J. Watt,2014
-20,21,Browns,11/16/2014,HOU,Loss, 7-23,2,20,pass,Garrett Graham,2014
-21,22,Browns,11/23/2014,ATL,Win, 26-24,1,24,pass,Julio Jones,2014
-22,23,Browns,11/23/2014,ATL,Win, 26-24,2,8,pass,Jacquizz Rodgers,2014
-23,24,Browns,11/23/2014,ATL,Win, 26-24,4,1,rush,Steven Jackson,2014
-24,25,Browns,11/30/2014,BUF,Loss, 10-26,3,3,pass,Chris Hogan,2014
-25,26,Browns,11/30/2014,BUF,Loss, 10-26,3,18,fumble,Jerry Hughes,2014
-26,27,Browns,12/07/2014,IND,Loss, 24-25,2,11,rush,Andrew Luck,2014
-27,28,Browns,12/07/2014,IND,Loss, 24-25,3,42,pass,T.Y. Hilton,2014
-28,29,Browns,12/07/2014,IND,Loss, 24-25,4,1,pass,T.Y. Hilton,2014
-29,30,Browns,12/14/2014,CIN,Loss, 0-30,1,2,rush,Jeremy Hill,2014
-30,31,Browns,12/14/2014,CIN,Loss, 0-30,2,16,rush,Jeremy Hill,2014
-31,32,Browns,12/14/2014,CIN,Loss, 0-30,4,10,rush,Rex Burkhead,2014
-32,33,Browns,12/21/2014,CAR,Loss, 13-17,2,2,rush,Cam Newton,2014
-33,34,Browns,12/21/2014,CAR,Loss, 13-17,4,9,pass,Jonathan Stewart,2014
-34,35,Browns,12/28/2014,BAL,Loss, 10-20,4,16,pass,Torrey Smith,2014
-35,36,Browns,12/28/2014,BAL,Loss, 10-20,4,2,pass,Kamar Aiken,2014
+,Rank,Team,Date,Opponent,Win/Loss,Home_Score,Opponenet_Score,Quarter,Distance,Type,Detail
+1,1,Browns,2014-09-07,PIT,Loss,27,30,1,7,rush,LeGarrette Blount
+2,2,Browns,2014-09-07,PIT,Loss,27,30,2,35,pass,Antonio Brown
+3,3,Browns,2014-09-07,PIT,Loss,27,30,2,38,rush,Le'Veon Bell
+4,4,Browns,2014-09-14,NOR,Win,26,24,2,9,pass,Jimmy Graham
+5,5,Browns,2014-09-14,NOR,Win,26,24,3,1,pass,Jimmy Graham
+6,6,Browns,2014-09-14,NOR,Win,26,24,4,1,rush,Mark Ingram
+7,7,Browns,2014-09-21,BAL,Loss,21,23,2,9,pass,Kyle Juszczyk
+8,8,Browns,2014-09-21,BAL,Loss,21,23,3,1,rush,Lorenzo Taliaferro
+9,9,Browns,2014-10-05,TEN,Win,29,28,1,11,pass,Kendall Wright
+10,10,Browns,2014-10-05,TEN,Win,29,28,2,11,rush,Jake Locker
+11,11,Browns,2014-10-05,TEN,Win,29,28,2,11,pass,Kendall Wright
+12,12,Browns,2014-10-05,TEN,Win,29,28,2,75,pass,Justin Hunter
+13,13,Browns,2014-10-12,PIT,Win,31,10,4,26,pass,Lance Moore
+14,14,Browns,2014-10-19,JAX,Loss,6,24,2,31,pass,Allen Robinson
+15,15,Browns,2014-10-19,JAX,Loss,6,24,4,8,rush,Denard Robinson
+16,16,Browns,2014-10-19,JAX,Loss,6,24,4,3,rush,Storm Johnson
+17,17,Browns,2014-10-26,OAK,Win,23,13,4,10,pass,Andre Holmes
+18,18,Browns,2014-11-02,TAM,Win,22,17,2,24,pass,Mike Evans
+19,19,Browns,2014-11-02,TAM,Win,22,17,3,24,pass,Mike Evans
+20,20,Browns,2014-11-16,HOU,Loss,7,23,1,2,pass,J.J. Watt
+21,21,Browns,2014-11-16,HOU,Loss,7,23,2,20,pass,Garrett Graham
+22,22,Browns,2014-11-23,ATL,Win,26,24,1,24,pass,Julio Jones
+23,23,Browns,2014-11-23,ATL,Win,26,24,2,8,pass,Jacquizz Rodgers
+24,24,Browns,2014-11-23,ATL,Win,26,24,4,1,rush,Steven Jackson
+25,25,Browns,2014-11-30,BUF,Loss,10,26,3,3,pass,Chris Hogan
+26,26,Browns,2014-11-30,BUF,Loss,10,26,3,18,fumble,Jerry Hughes
+27,27,Browns,2014-12-07,IND,Loss,24,25,2,11,rush,Andrew Luck
+28,28,Browns,2014-12-07,IND,Loss,24,25,3,42,pass,T.Y. Hilton
+29,29,Browns,2014-12-07,IND,Loss,24,25,4,1,pass,T.Y. Hilton
+30,30,Browns,2014-12-14,CIN,Loss,0,30,1,2,rush,Jeremy Hill
+31,31,Browns,2014-12-14,CIN,Loss,0,30,2,16,rush,Jeremy Hill
+32,32,Browns,2014-12-14,CIN,Loss,0,30,4,10,rush,Rex Burkhead
+33,33,Browns,2014-12-21,CAR,Loss,13,17,2,2,rush,Cam Newton
+34,34,Browns,2014-12-21,CAR,Loss,13,17,4,9,pass,Jonathan Stewart
+35,35,Browns,2014-12-28,BAL,Loss,10,20,4,16,pass,Torrey Smith
+36,36,Browns,2014-12-28,BAL,Loss,10,20,4,2,pass,Kamar Aiken

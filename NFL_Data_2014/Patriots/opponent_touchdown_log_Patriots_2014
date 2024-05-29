@@ -1,33 +1,33 @@
-,Rank,Team,Date,Opponent,Win/Loss,Score,Quarter,Distance,Type,Detail,Year
-0,1,Patriots,09/07/2014,MIA,Loss, 20-33,1,4,pass,Lamar Miller,2014
-1,2,Patriots,09/07/2014,MIA,Loss, 20-33,3,14,pass,Mike Wallace,2014
-2,3,Patriots,09/07/2014,MIA,Loss, 20-33,4,4,rush,Knowshon Moreno,2014
-3,4,Patriots,09/14/2014,MIN,Win, 30-7,1,25,pass,Matt Asiata,2014
-4,5,Patriots,09/29/2014,KAN,Loss, 14-41,1,2,rush,Jamaal Charles,2014
-5,6,Patriots,09/29/2014,KAN,Loss, 14-41,2,5,pass,Jamaal Charles,2014
-6,7,Patriots,09/29/2014,KAN,Loss, 14-41,3,8,pass,Jamaal Charles,2014
-7,8,Patriots,09/29/2014,KAN,Loss, 14-41,4,2,pass,Travis Kelce,2014
-8,9,Patriots,09/29/2014,KAN,Loss, 14-41,4,39,interception,Husain Abdullah,2014
-9,10,Patriots,10/05/2014,CIN,Win, 43-17,3,37,pass,Mohamed Sanu,2014
-10,11,Patriots,10/05/2014,CIN,Win, 43-17,3,17,pass,A.J. Green,2014
-11,12,Patriots,10/12/2014,BUF,Win, 37-22,2,7,pass,Robert Woods,2014
-12,13,Patriots,10/12/2014,BUF,Win, 37-22,3,1,rush,Fred Jackson,2014
-13,14,Patriots,10/12/2014,BUF,Win, 37-22,4,8,pass,Chris Hogan,2014
-14,15,Patriots,10/16/2014,NYJ,Win, 27-25,3,1,rush,Chris Ivory,2014
-15,16,Patriots,10/16/2014,NYJ,Win, 27-25,4,10,pass,Jeff Cumberland,2014
-16,17,Patriots,10/26/2014,CHI,Win, 51-23,2,25,pass,Matt Forte,2014
-17,18,Patriots,10/26/2014,CHI,Win, 51-23,3,20,pass,Martellus Bennett,2014
-18,19,Patriots,10/26/2014,CHI,Win, 51-23,4,10,pass,Alshon Jeffery,2014
-19,20,Patriots,11/02/2014,DEN,Win, 43-21,1,1,rush,Ronnie Hillman,2014
-20,21,Patriots,11/02/2014,DEN,Win, 43-21,3,18,pass,Julius Thomas,2014
-21,22,Patriots,11/02/2014,DEN,Win, 43-21,3,15,pass,Ronnie Hillman,2014
-22,23,Patriots,11/16/2014,IND,Win, 42-20,2,10,pass,Hakeem Nicks,2014
-23,24,Patriots,11/16/2014,IND,Win, 42-20,4,1,pass,Anthony Castonzo,2014
-24,25,Patriots,11/30/2014,GNB,Loss, 21-26,1,32,pass,Richard Rodgers,2014
-25,26,Patriots,11/30/2014,GNB,Loss, 21-26,2,45,pass,Jordy Nelson,2014
-26,27,Patriots,12/07/2014,SDG,Win, 23-14,2,15,pass,Malcom Floyd,2014
-27,28,Patriots,12/07/2014,SDG,Win, 23-14,2,53,fumble,Darrell Stuckey,2014
-28,29,Patriots,12/14/2014,MIA,Win, 41-13,2,32,pass,Mike Wallace,2014
-29,30,Patriots,12/21/2014,NYJ,Win, 17-16,2,20,pass,Jeff Cumberland,2014
-30,31,Patriots,12/28/2014,BUF,Loss, 9-17,1,6,pass,Robert Woods,2014
-31,32,Patriots,12/28/2014,BUF,Loss, 9-17,2,1,rush,Anthony Dixon,2014
+,Rank,Team,Date,Opponent,Win/Loss,Home_Score,Opponenet_Score,Quarter,Distance,Type,Detail
+1,1,Patriots,2014-09-07,MIA,Loss,20,33,1,4,pass,Lamar Miller
+2,2,Patriots,2014-09-07,MIA,Loss,20,33,3,14,pass,Mike Wallace
+3,3,Patriots,2014-09-07,MIA,Loss,20,33,4,4,rush,Knowshon Moreno
+4,4,Patriots,2014-09-14,MIN,Win,30,7,1,25,pass,Matt Asiata
+5,5,Patriots,2014-09-29,KAN,Loss,14,41,1,2,rush,Jamaal Charles
+6,6,Patriots,2014-09-29,KAN,Loss,14,41,2,5,pass,Jamaal Charles
+7,7,Patriots,2014-09-29,KAN,Loss,14,41,3,8,pass,Jamaal Charles
+8,8,Patriots,2014-09-29,KAN,Loss,14,41,4,2,pass,Travis Kelce
+9,9,Patriots,2014-09-29,KAN,Loss,14,41,4,39,interception,Husain Abdullah
+10,10,Patriots,2014-10-05,CIN,Win,43,17,3,37,pass,Mohamed Sanu
+11,11,Patriots,2014-10-05,CIN,Win,43,17,3,17,pass,A.J. Green
+12,12,Patriots,2014-10-12,BUF,Win,37,22,2,7,pass,Robert Woods
+13,13,Patriots,2014-10-12,BUF,Win,37,22,3,1,rush,Fred Jackson
+14,14,Patriots,2014-10-12,BUF,Win,37,22,4,8,pass,Chris Hogan
+15,15,Patriots,2014-10-16,NYJ,Win,27,25,3,1,rush,Chris Ivory
+16,16,Patriots,2014-10-16,NYJ,Win,27,25,4,10,pass,Jeff Cumberland
+17,17,Patriots,2014-10-26,CHI,Win,51,23,2,25,pass,Matt Forte
+18,18,Patriots,2014-10-26,CHI,Win,51,23,3,20,pass,Martellus Bennett
+19,19,Patriots,2014-10-26,CHI,Win,51,23,4,10,pass,Alshon Jeffery
+20,20,Patriots,2014-11-02,DEN,Win,43,21,1,1,rush,Ronnie Hillman
+21,21,Patriots,2014-11-02,DEN,Win,43,21,3,18,pass,Julius Thomas
+22,22,Patriots,2014-11-02,DEN,Win,43,21,3,15,pass,Ronnie Hillman
+23,23,Patriots,2014-11-16,IND,Win,42,20,2,10,pass,Hakeem Nicks
+24,24,Patriots,2014-11-16,IND,Win,42,20,4,1,pass,Anthony Castonzo
+25,25,Patriots,2014-11-30,GNB,Loss,21,26,1,32,pass,Richard Rodgers
+26,26,Patriots,2014-11-30,GNB,Loss,21,26,2,45,pass,Jordy Nelson
+27,27,Patriots,2014-12-07,SDG,Win,23,14,2,15,pass,Malcom Floyd
+28,28,Patriots,2014-12-07,SDG,Win,23,14,2,53,fumble,Darrell Stuckey
+29,29,Patriots,2014-12-14,MIA,Win,41,13,2,32,pass,Mike Wallace
+30,30,Patriots,2014-12-21,NYJ,Win,17,16,2,20,pass,Jeff Cumberland
+31,31,Patriots,2014-12-28,BUF,Loss,9,17,1,6,pass,Robert Woods
+32,32,Patriots,2014-12-28,BUF,Loss,9,17,2,1,rush,Anthony Dixon

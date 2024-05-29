@@ -1,15 +1,15 @@
-,No.,Team,Player,Age,Pos,Games Played,Games Started,Rush TD,Reception TD,Punt Return TD,Kick Return TD,Fumble Return TD,Interception TD,Other TD,All Touchdown Scored,2-Point Conversions Made,Two-Point Conversions Attempted,Defensive Two-Point Conversions,Extra Points Made,Extra Points Allowed,Field Goals Made,Field Goals Attempted,Safeties Scored by Player/Team,Total Points Scored by all Means,Poins per Game,Year
-0,2,Packers,Mason Crosby,30,K,16,0,0,0,0,0,0,0,0,0,0,0,0,53,55,27,33,,134,8.4,2014
-1,27,Packers,Eddie Lacy,24,RB,16,16,9,4,0,0,0,0,0,13,0,0,0,0,0,0,0,,78,4.9,2014
-2,87,Packers,Jordy Nelson,29,WR,16,16,0,13,0,0,0,0,0,13,0,0,0,0,0,0,0,,78,4.9,2014
-3,18,Packers,Randall Cobb,24,WR,16,16,0,12,0,0,0,0,0,12,1,0,0,0,0,0,0,,74,4.6,2014
-4,17,Packers,Davante Adams,22,WR,16,11,0,3,0,0,0,0,0,3,0,0,0,0,0,0,0,,18,1.1,2014
-5,81,Packers,Andrew Quarless,26,TE,16,11,0,3,0,0,0,0,0,3,0,0,0,0,0,0,0,,18,1.1,2014
-6,29,Packers,Casey Hayward,25,DB,16,1,0,0,0,0,1,1,0,2,0,0,0,0,0,0,0,,12,0.8,2014
-7,33,Packers,Micah Hyde,24,DB,16,12,0,0,2,0,0,0,0,2,0,0,0,0,0,0,0,,12,0.8,2014
-8,56,Packers,Julius Peppers,34,LOLB,16,16,0,0,0,0,0,2,0,2,0,0,0,0,0,0,0,,12,0.8,2014
-9,12,Packers,Aaron Rodgers,31,QB,16,16,2,0,0,0,0,0,0,2,0,0,0,0,0,0,0,,12,0.8,2014
-10,89,Packers,Richard Rodgers,22,TE,16,5,0,2,0,0,0,0,0,2,0,0,0,0,0,0,0,,12,0.8,2014
-11,44,Packers,James Starks,28,RB,16,0,2,0,0,0,0,0,0,2,0,0,0,0,0,0,0,,12,0.8,2014
-12,86,Packers,Brandon Bostick,25,TE,13,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,,6,0.5,2014
-13,30,Packers,John Kuhn,32,FB,16,2,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,,6,0.4,2014
+,No.,Player,Age,Pos,Games Played,Games Started,Rush TD,Reception TD,Punt Return TD,Kick Return TD,Fumble Return TD,Interception TD,Other TD,All Touchdown Scored,2-Point Conversions Made,Two-Point Conversions Attempted,Defensive Two-Point Conversions,Extra Points Made,Extra Points Allowed,Field Goals Made,Field Goals Attempted,Safeties Scored by Player/Team,Total Points Scored by all Means,Poins per Game,Team,Year
+2,2,Mason Crosby,30,K,16,0,0,0,0,0,0,0,0,0,0,0,0,53,55,27,33,0,134,8.4,Packers,2014
+27,27,Eddie Lacy,24,RB,16,16,9,4,0,0,0,0,0,13,0,0,0,0,0,0,0,0,78,4.9,Packers,2014
+87,87,Jordy Nelson,29,WR,16,16,0,13,0,0,0,0,0,13,0,0,0,0,0,0,0,0,78,4.9,Packers,2014
+18,18,Randall Cobb,24,WR,16,16,0,12,0,0,0,0,0,12,1,0,0,0,0,0,0,0,74,4.6,Packers,2014
+17,17,Davante Adams,22,WR,16,11,0,3,0,0,0,0,0,3,0,0,0,0,0,0,0,0,18,1.1,Packers,2014
+81,81,Andrew Quarless,26,TE,16,11,0,3,0,0,0,0,0,3,0,0,0,0,0,0,0,0,18,1.1,Packers,2014
+29,29,Casey Hayward,25,DB,16,1,0,0,0,0,1,1,0,2,0,0,0,0,0,0,0,0,12,0.8,Packers,2014
+33,33,Micah Hyde,24,DB,16,12,0,0,2,0,0,0,0,2,0,0,0,0,0,0,0,0,12,0.8,Packers,2014
+56,56,Julius Peppers,34,LOLB,16,16,0,0,0,0,0,2,0,2,0,0,0,0,0,0,0,0,12,0.8,Packers,2014
+12,12,Aaron Rodgers,31,QB,16,16,2,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,12,0.8,Packers,2014
+89,89,Richard Rodgers,22,TE,16,5,0,2,0,0,0,0,0,2,0,0,0,0,0,0,0,0,12,0.8,Packers,2014
+44,44,James Starks,28,RB,16,0,2,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,12,0.8,Packers,2014
+86,86,Brandon Bostick,25,TE,13,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,6,0.5,Packers,2014
+30,30,John Kuhn,32,FB,16,2,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,6,0.4,Packers,2014

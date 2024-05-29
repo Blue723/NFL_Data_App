@@ -1,18 +1,17 @@
-,Week,Team,Day,Date,Time,Win/Loss,Overtime,Team Record,Home/Away,Opponent,Points Scored,Points Allowed,Offense 1st Down,Total Yards Gained of Offense,Total yards Gained by Passing,Total Yards Gained by Rushing,Offense Turnovers,Defense 1st Down,Total Yards Allowed by Defense,Total Passing Yards Allowed by Defense,Total Rushing Yards Allowed by Defense,Defense Turnovers,Offense,Defense,Sp. Tms,Year
-0,0,Dolphins,Sun,September 7,,W,0,1-0,home,New England Patriots,33,20,25,360,169,191,3,20,315,226,89,2,4.77,10.28,-1.99,2014
-1,1,Dolphins,Sun,September 14,,L,0,1-1,away,Buffalo Bills,10,29,23,290,210,80,2,13,315,202,113,0,-7.32,-0.34,-8.75,2014
-2,2,Dolphins,Sun,September 21,,L,0,1-2,home,Kansas City Chiefs,15,34,18,332,191,141,0,23,342,168,174,2,-8.31,-6.05,-2.71,2014
-3,3,Dolphins,Sun,September 28,,W,0,2-2,away,Oakland Raiders,38,14,24,435,278,157,3,17,317,264,53,4,5.78,26.58,-6.9,2014
-4,4,Dolphins,,,,,0,,home,<strong>Bye Week</strong>,0,0,0,0,0,0,0,0,0,0,0,0,,,,2014
-5,5,Dolphins,Sun,October 12,,L,0,2-3,home,Green Bay Packers,24,27,19,349,237,112,3,27,369,248,121,0,7.54,-11.62,2.21,2014
-6,6,Dolphins,Sun,October 19,,W,0,3-3,away,Chicago Bears,27,14,24,393,256,137,0,14,224,172,52,3,13.66,8.58,-12.87,2014
-7,7,Dolphins,Sun,October 26,,W,0,4-3,away,Jacksonville Jaguars,27,13,17,326,178,148,1,19,377,201,176,3,0.55,9.8,7.26,2014
-8,8,Dolphins,Sun,November 2,,W,0,5-3,home,San Diego Chargers,37,0,28,441,309,132,0,10,178,128,50,4,19.08,22.68,-5.26,2014
-9,9,Dolphins,Sun,November 9,,L,0,5-4,away,Detroit Lions,16,20,20,228,178,50,2,19,351,288,63,1,-12.32,-3.2,11.73,2014
-10,10,Dolphins,Thu,November 13,,W,0,6-4,home,Buffalo Bills,22,9,24,330,205,125,2,13,237,183,54,0,11.09,8.52,-1.99,2014
-11,11,Dolphins,Sun,November 23,,L,0,6-5,away,Denver Broncos,36,39,25,313,216,97,1,29,450,249,201,1,16.72,-29.37,5.25,2014
-12,12,Dolphins,Mon,December 1,,W,0,7-5,away,New York Jets,16,13,16,291,217,74,1,18,326,49,277,1,-3.69,-3.0,9.68,2014
-13,13,Dolphins,Sun,December 7,,L,0,7-6,home,Baltimore Ravens,13,28,16,249,186,63,0,26,447,264,183,1,-2.97,-18.79,4.56,2014
-14,14,Dolphins,Sun,December 14,,L,0,7-7,away,New England Patriots,13,41,23,384,308,76,2,23,395,287,108,1,-8.8,-14.57,-7.17,2014
-15,15,Dolphins,Sun,December 21,,W,0,8-7,home,Minnesota Vikings,37,35,36,493,383,110,2,20,357,238,119,1,26.96,-7.6,-10.66,2014
-16,16,Dolphins,Sun,December 28,,L,0,8-8,home,New York Jets,24,37,23,387,208,179,1,18,494,390,104,1,6.05,-11.99,-0.16,2014
+,Week,Day,Date,Time,Win/Loss,Overtime,Team Record,Home/Away,Opponent,Points Scored,Points Allowed,Offense 1st Down,Total Yards Gained of Offense,Total yards Gained by Passing,Total Yards Gained by Rushing,Offense Turnovers,Defense 1st Down,Total Yards Allowed by Defense,Total Passing Yards Allowed by Defense,Total Rushing Yards Allowed by Defense,Defense Turnovers,Offense,Defense,Sp. Tms,Team,Year
+0,1,Sun,2014-09-07,nan,Win,0,1-0,home,New England Patriots,33,20,25,360,169,191,3,20,315,226,89,2,4.77,10.28,-1.99,Dolphins,2014
+1,2,Sun,2014-09-14,nan,Loss,0,1-1,away,Buffalo Bills,10,29,23,290,210,80,2,13,315,202,113,0,-7.32,-0.34,-8.75,Dolphins,2014
+2,3,Sun,2014-09-21,nan,Loss,0,1-2,home,Kansas City Chiefs,15,34,18,332,191,141,0,23,342,168,174,2,-8.31,-6.05,-2.71,Dolphins,2014
+3,4,Sun,2014-09-28,nan,Win,0,2-2,away,Oakland Raiders,38,14,24,435,278,157,3,17,317,264,53,4,5.78,26.58,-6.9,Dolphins,2014
+4,6,Sun,2014-10-12,nan,Loss,0,2-3,home,Green Bay Packers,24,27,19,349,237,112,3,27,369,248,121,0,7.54,-11.62,2.21,Dolphins,2014
+5,7,Sun,2014-10-19,nan,Win,0,3-3,away,Chicago Bears,27,14,24,393,256,137,0,14,224,172,52,3,13.66,8.58,-12.87,Dolphins,2014
+6,8,Sun,2014-10-26,nan,Win,0,4-3,away,Jacksonville Jaguars,27,13,17,326,178,148,1,19,377,201,176,3,0.55,9.8,7.26,Dolphins,2014
+7,9,Sun,2014-11-02,nan,Win,0,5-3,home,San Diego Chargers,37,0,28,441,309,132,0,10,178,128,50,4,19.08,22.68,-5.26,Dolphins,2014
+8,10,Sun,2014-11-09,nan,Loss,0,5-4,away,Detroit Lions,16,20,20,228,178,50,2,19,351,288,63,1,-12.32,-3.2,11.73,Dolphins,2014
+9,11,Thu,2014-11-13,nan,Win,0,6-4,home,Buffalo Bills,22,9,24,330,205,125,2,13,237,183,54,0,11.09,8.52,-1.99,Dolphins,2014
+10,12,Sun,2014-11-23,nan,Loss,0,6-5,away,Denver Broncos,36,39,25,313,216,97,1,29,450,249,201,1,16.72,-29.37,5.25,Dolphins,2014
+11,13,Mon,2014-12-01,nan,Win,0,7-5,away,New York Jets,16,13,16,291,217,74,1,18,326,49,277,1,-3.69,-3.0,9.68,Dolphins,2014
+12,14,Sun,2014-12-07,nan,Loss,0,7-6,home,Baltimore Ravens,13,28,16,249,186,63,0,26,447,264,183,1,-2.97,-18.79,4.56,Dolphins,2014
+13,15,Sun,2014-12-14,nan,Loss,0,7-7,away,New England Patriots,13,41,23,384,308,76,2,23,395,287,108,1,-8.8,-14.57,-7.17,Dolphins,2014
+14,16,Sun,2014-12-21,nan,Win,0,8-7,home,Minnesota Vikings,37,35,36,493,383,110,2,20,357,238,119,1,26.96,-7.6,-10.66,Dolphins,2014
+15,17,Sun,2014-12-28,nan,Loss,0,8-8,home,New York Jets,24,37,23,387,208,179,1,18,494,390,104,1,6.05,-11.99,-0.16,Dolphins,2014

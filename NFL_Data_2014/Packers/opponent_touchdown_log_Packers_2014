@@ -1,41 +1,41 @@
-,Rank,Team,Date,Opponent,Win/Loss,Score,Quarter,Distance,Type,Detail,Year
-0,1,Packers,09/04/2014,SEA,Loss, 16-36,2,33,pass,Ricardo Lockette,2014
-1,2,Packers,09/04/2014,SEA,Loss, 16-36,2,9,rush,Marshawn Lynch,2014
-2,3,Packers,09/04/2014,SEA,Loss, 16-36,4,3,rush,Marshawn Lynch,2014
-3,4,Packers,09/04/2014,SEA,Loss, 16-36,4,15,pass,Derrick Coleman,2014
-4,5,Packers,09/14/2014,NYJ,Win, 31-24,1,1,rush,Geno Smith,2014
-5,6,Packers,09/14/2014,NYJ,Win, 31-24,1,29,pass,Eric Decker,2014
-6,7,Packers,09/14/2014,NYJ,Win, 31-24,2,4,rush,Chris Ivory,2014
-7,8,Packers,09/21/2014,DET,Loss, 7-19,1,40,fumble,Don Carey,2014
-8,9,Packers,09/21/2014,DET,Loss, 7-19,4,26,rush,Reggie Bush,2014
-9,10,Packers,09/28/2014,CHI,Win, 38-17,1,6,pass,Brandon Marshall,2014
-10,11,Packers,09/28/2014,CHI,Win, 38-17,2,8,pass,Alshon Jeffery,2014
-11,12,Packers,10/02/2014,MIN,Win, 42-10,4,6,rush,Christian Ponder,2014
-12,13,Packers,10/12/2014,MIA,Win, 27-24,3,11,pass,Jarvis Landry,2014
-13,14,Packers,10/12/2014,MIA,Win, 27-24,4,5,rush,Lamar Miller,2014
-14,15,Packers,10/12/2014,MIA,Win, 27-24,4,5,pass,Mike Wallace,2014
-15,16,Packers,10/19/2014,CAR,Win, 38-17,4,13,pass,Kelvin Benjamin,2014
-16,17,Packers,10/19/2014,CAR,Win, 38-17,4,1,pass,Brenton Bersin,2014
-17,18,Packers,10/26/2014,NOR,Loss, 23-44,1,4,rush,Brandin Cooks,2014
-18,19,Packers,10/26/2014,NOR,Loss, 23-44,3,50,pass,Brandin Cooks,2014
-19,20,Packers,10/26/2014,NOR,Loss, 23-44,3,22,pass,Jimmy Graham,2014
-20,21,Packers,10/26/2014,NOR,Loss, 23-44,4,2,pass,Josh Hill,2014
-21,22,Packers,10/26/2014,NOR,Loss, 23-44,4,21,rush,Mark Ingram,2014
-22,23,Packers,11/09/2014,CHI,Win, 55-14,3,45,pass,Brandon Marshall,2014
-23,24,Packers,11/09/2014,CHI,Win, 55-14,4,101,kickoff,Chris Williams,2014
-24,25,Packers,11/16/2014,PHI,Win, 53-20,3,10,pass,Jordan Matthews,2014
-25,26,Packers,11/16/2014,PHI,Win, 53-20,4,20,pass,Jeremy Maclin,2014
-26,27,Packers,11/23/2014,MIN,Win, 24-21,2,22,pass,Charles Johnson,2014
-27,28,Packers,11/23/2014,MIN,Win, 24-21,4,5,pass,Greg Jennings,2014
-28,29,Packers,11/30/2014,NWE,Win, 26-21,2,6,rush,Brandon Bolden,2014
-29,30,Packers,11/30/2014,NWE,Win, 26-21,2,2,pass,Brandon LaFell,2014
-30,31,Packers,11/30/2014,NWE,Win, 26-21,4,15,pass,Brandon LaFell,2014
-31,32,Packers,12/08/2014,ATL,Win, 43-37,1,4,rush,Steven Jackson,2014
-32,33,Packers,12/08/2014,ATL,Win, 43-37,3,5,pass,Eric Weems,2014
-33,34,Packers,12/08/2014,ATL,Win, 43-37,4,22,pass,Julio Jones,2014
-34,35,Packers,12/08/2014,ATL,Win, 43-37,4,1,pass,Roddy White,2014
-35,36,Packers,12/08/2014,ATL,Win, 43-37,4,2,pass,Harry Douglas,2014
-36,37,Packers,12/14/2014,BUF,Loss, 13-21,1,75,punt,Marcus Thigpen,2014
-37,38,Packers,12/28/2014,DET,Win, 30-20,2,20,pass,Calvin Johnson,2014
-38,39,Packers,12/28/2014,DET,Win, 30-20,3,4,pass,Calvin Johnson,2014
-39,40,Packers,12/28/2014,DET,Win, 30-20,4,6,pass,Theo Riddick,2014
+,Rank,Team,Date,Opponent,Win/Loss,Home_Score,Opponenet_Score,Quarter,Distance,Type,Detail
+1,1,Packers,2014-09-04,SEA,Loss,16,36,2,33,pass,Ricardo Lockette
+2,2,Packers,2014-09-04,SEA,Loss,16,36,2,9,rush,Marshawn Lynch
+3,3,Packers,2014-09-04,SEA,Loss,16,36,4,3,rush,Marshawn Lynch
+4,4,Packers,2014-09-04,SEA,Loss,16,36,4,15,pass,Derrick Coleman
+5,5,Packers,2014-09-14,NYJ,Win,31,24,1,1,rush,Geno Smith
+6,6,Packers,2014-09-14,NYJ,Win,31,24,1,29,pass,Eric Decker
+7,7,Packers,2014-09-14,NYJ,Win,31,24,2,4,rush,Chris Ivory
+8,8,Packers,2014-09-21,DET,Loss,7,19,1,40,fumble,Don Carey
+9,9,Packers,2014-09-21,DET,Loss,7,19,4,26,rush,Reggie Bush
+10,10,Packers,2014-09-28,CHI,Win,38,17,1,6,pass,Brandon Marshall
+11,11,Packers,2014-09-28,CHI,Win,38,17,2,8,pass,Alshon Jeffery
+12,12,Packers,2014-10-02,MIN,Win,42,10,4,6,rush,Christian Ponder
+13,13,Packers,2014-10-12,MIA,Win,27,24,3,11,pass,Jarvis Landry
+14,14,Packers,2014-10-12,MIA,Win,27,24,4,5,rush,Lamar Miller
+15,15,Packers,2014-10-12,MIA,Win,27,24,4,5,pass,Mike Wallace
+16,16,Packers,2014-10-19,CAR,Win,38,17,4,13,pass,Kelvin Benjamin
+17,17,Packers,2014-10-19,CAR,Win,38,17,4,1,pass,Brenton Bersin
+18,18,Packers,2014-10-26,NOR,Loss,23,44,1,4,rush,Brandin Cooks
+19,19,Packers,2014-10-26,NOR,Loss,23,44,3,50,pass,Brandin Cooks
+20,20,Packers,2014-10-26,NOR,Loss,23,44,3,22,pass,Jimmy Graham
+21,21,Packers,2014-10-26,NOR,Loss,23,44,4,2,pass,Josh Hill
+22,22,Packers,2014-10-26,NOR,Loss,23,44,4,21,rush,Mark Ingram
+23,23,Packers,2014-11-09,CHI,Win,55,14,3,45,pass,Brandon Marshall
+24,24,Packers,2014-11-09,CHI,Win,55,14,4,101,kickoff,Chris Williams
+25,25,Packers,2014-11-16,PHI,Win,53,20,3,10,pass,Jordan Matthews
+26,26,Packers,2014-11-16,PHI,Win,53,20,4,20,pass,Jeremy Maclin
+27,27,Packers,2014-11-23,MIN,Win,24,21,2,22,pass,Charles Johnson
+28,28,Packers,2014-11-23,MIN,Win,24,21,4,5,pass,Greg Jennings
+29,29,Packers,2014-11-30,NWE,Win,26,21,2,6,rush,Brandon Bolden
+30,30,Packers,2014-11-30,NWE,Win,26,21,2,2,pass,Brandon LaFell
+31,31,Packers,2014-11-30,NWE,Win,26,21,4,15,pass,Brandon LaFell
+32,32,Packers,2014-12-08,ATL,Win,43,37,1,4,rush,Steven Jackson
+33,33,Packers,2014-12-08,ATL,Win,43,37,3,5,pass,Eric Weems
+34,34,Packers,2014-12-08,ATL,Win,43,37,4,22,pass,Julio Jones
+35,35,Packers,2014-12-08,ATL,Win,43,37,4,1,pass,Roddy White
+36,36,Packers,2014-12-08,ATL,Win,43,37,4,2,pass,Harry Douglas
+37,37,Packers,2014-12-14,BUF,Loss,13,21,1,75,punt,Marcus Thigpen
+38,38,Packers,2014-12-28,DET,Win,30,20,2,20,pass,Calvin Johnson
+39,39,Packers,2014-12-28,DET,Win,30,20,3,4,pass,Calvin Johnson
+40,40,Packers,2014-12-28,DET,Win,30,20,4,6,pass,Theo Riddick

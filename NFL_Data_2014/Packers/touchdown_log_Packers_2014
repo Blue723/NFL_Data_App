@@ -1,59 +1,59 @@
-,Rank,Team,Date,Opponent,Win/Loss,Score,Quarter,Distance,Type,Detail,Year
-0,1,Packers,09/04/2014,SEA,Loss, 16-36,1,2,rush,John Kuhn,2014
-1,2,Packers,09/04/2014,SEA,Loss, 16-36,4,3,pass,Randall Cobb,2014
-2,3,Packers,09/14/2014,NYJ,Win, 31-24,2,6,pass,Randall Cobb,2014
-3,4,Packers,09/14/2014,NYJ,Win, 31-24,3,1,pass,Randall Cobb,2014
-4,5,Packers,09/14/2014,NYJ,Win, 31-24,3,80,pass,Jordy Nelson,2014
-5,6,Packers,09/21/2014,DET,Loss, 7-19,1,10,pass,Andrew Quarless,2014
-6,7,Packers,09/28/2014,CHI,Win, 38-17,1,2,rush,Eddie Lacy,2014
-7,8,Packers,09/28/2014,CHI,Win, 38-17,2,3,pass,Jordy Nelson,2014
-8,9,Packers,09/28/2014,CHI,Win, 38-17,2,22,pass,Randall Cobb,2014
-9,10,Packers,09/28/2014,CHI,Win, 38-17,3,11,pass,Jordy Nelson,2014
-10,11,Packers,09/28/2014,CHI,Win, 38-17,4,3,pass,Randall Cobb,2014
-11,12,Packers,10/02/2014,MIN,Win, 42-10,1,8,pass,Randall Cobb,2014
-12,13,Packers,10/02/2014,MIN,Win, 42-10,1,66,pass,Jordy Nelson,2014
-13,14,Packers,10/02/2014,MIN,Win, 42-10,2,49,interception,Julius Peppers,2014
-14,15,Packers,10/02/2014,MIN,Win, 42-10,2,11,pass,Davante Adams,2014
-15,16,Packers,10/02/2014,MIN,Win, 42-10,3,11,rush,Eddie Lacy,2014
-16,17,Packers,10/02/2014,MIN,Win, 42-10,3,10,rush,Eddie Lacy,2014
-17,18,Packers,10/12/2014,MIA,Win, 27-24,1,9,pass,Jordy Nelson,2014
-18,19,Packers,10/12/2014,MIA,Win, 27-24,3,5,pass,Randall Cobb,2014
-19,20,Packers,10/12/2014,MIA,Win, 27-24,4,4,pass,Andrew Quarless,2014
-20,21,Packers,10/19/2014,CAR,Win, 38-17,1,59,pass,Jordy Nelson,2014
-21,22,Packers,10/19/2014,CAR,Win, 38-17,1,5,rush,Eddie Lacy,2014
-22,23,Packers,10/19/2014,CAR,Win, 38-17,1,13,rush,James Starks,2014
-23,24,Packers,10/19/2014,CAR,Win, 38-17,2,3,pass,Randall Cobb,2014
-24,25,Packers,10/19/2014,CAR,Win, 38-17,3,21,pass,Davante Adams,2014
-25,26,Packers,10/26/2014,NOR,Loss, 23-44,1,70,pass,Randall Cobb,2014
-26,27,Packers,10/26/2014,NOR,Loss, 23-44,4,14,rush,Aaron Rodgers,2014
-27,28,Packers,11/09/2014,CHI,Win, 55-14,1,1,pass,Brandon Bostick,2014
-28,29,Packers,11/09/2014,CHI,Win, 55-14,1,4,pass,Andrew Quarless,2014
-29,30,Packers,11/09/2014,CHI,Win, 55-14,2,73,pass,Jordy Nelson,2014
-30,31,Packers,11/09/2014,CHI,Win, 55-14,2,40,pass,Jordy Nelson,2014
-31,32,Packers,11/09/2014,CHI,Win, 55-14,2,56,pass,Eddie Lacy,2014
-32,33,Packers,11/09/2014,CHI,Win, 55-14,2,18,pass,Randall Cobb,2014
-33,34,Packers,11/09/2014,CHI,Win, 55-14,4,82,interception,Casey Hayward,2014
-34,35,Packers,11/16/2014,PHI,Win, 53-20,1,6,pass,Davante Adams,2014
-35,36,Packers,11/16/2014,PHI,Win, 53-20,1,75,punt,Micah Hyde,2014
-36,37,Packers,11/16/2014,PHI,Win, 53-20,2,27,pass,Jordy Nelson,2014
-37,38,Packers,11/16/2014,PHI,Win, 53-20,2,1,rush,Eddie Lacy,2014
-38,39,Packers,11/16/2014,PHI,Win, 53-20,3,52,interception,Julius Peppers,2014
-39,40,Packers,11/16/2014,PHI,Win, 53-20,4,32,pass,Eddie Lacy,2014
-40,41,Packers,11/16/2014,PHI,Win, 53-20,4,49,fumble,Casey Hayward,2014
-41,42,Packers,11/23/2014,MIN,Win, 24-21,1,1,rush,Eddie Lacy,2014
-42,43,Packers,11/23/2014,MIN,Win, 24-21,2,1,pass,Richard Rodgers,2014
-43,44,Packers,11/23/2014,MIN,Win, 24-21,4,10,pass,Eddie Lacy,2014
-44,45,Packers,11/30/2014,NWE,Win, 26-21,1,32,pass,Richard Rodgers,2014
-45,46,Packers,11/30/2014,NWE,Win, 26-21,2,45,pass,Jordy Nelson,2014
-46,47,Packers,12/08/2014,ATL,Win, 43-37,1,3,rush,James Starks,2014
-47,48,Packers,12/08/2014,ATL,Win, 43-37,2,1,rush,Eddie Lacy,2014
-48,49,Packers,12/08/2014,ATL,Win, 43-37,2,1,pass,Eddie Lacy,2014
-49,50,Packers,12/08/2014,ATL,Win, 43-37,2,10,pass,Jordy Nelson,2014
-50,51,Packers,12/08/2014,ATL,Win, 43-37,4,60,pass,Jordy Nelson,2014
-51,52,Packers,12/14/2014,BUF,Loss, 13-21,2,1,rush,Eddie Lacy,2014
-52,53,Packers,12/21/2014,TAM,Win, 20-3,1,44,rush,Eddie Lacy,2014
-53,54,Packers,12/21/2014,TAM,Win, 20-3,4,1,pass,Jordy Nelson,2014
-54,55,Packers,12/28/2014,DET,Win, 30-20,1,55,punt,Micah Hyde,2014
-55,56,Packers,12/28/2014,DET,Win, 30-20,2,4,pass,Randall Cobb,2014
-56,57,Packers,12/28/2014,DET,Win, 30-20,3,13,pass,Randall Cobb,2014
-57,58,Packers,12/28/2014,DET,Win, 30-20,4,1,rush,Aaron Rodgers,2014
+,Rank,Team,Date,Opponent,Win/Loss,Home_Score,Opponenet_Score,Quarter,Distance,Type,Detail
+1,1,Packers,2014-09-04,SEA,Loss,16,36,1,2,rush,John Kuhn
+2,2,Packers,2014-09-04,SEA,Loss,16,36,4,3,pass,Randall Cobb
+3,3,Packers,2014-09-14,NYJ,Win,31,24,2,6,pass,Randall Cobb
+4,4,Packers,2014-09-14,NYJ,Win,31,24,3,1,pass,Randall Cobb
+5,5,Packers,2014-09-14,NYJ,Win,31,24,3,80,pass,Jordy Nelson
+6,6,Packers,2014-09-21,DET,Loss,7,19,1,10,pass,Andrew Quarless
+7,7,Packers,2014-09-28,CHI,Win,38,17,1,2,rush,Eddie Lacy
+8,8,Packers,2014-09-28,CHI,Win,38,17,2,3,pass,Jordy Nelson
+9,9,Packers,2014-09-28,CHI,Win,38,17,2,22,pass,Randall Cobb
+10,10,Packers,2014-09-28,CHI,Win,38,17,3,11,pass,Jordy Nelson
+11,11,Packers,2014-09-28,CHI,Win,38,17,4,3,pass,Randall Cobb
+12,12,Packers,2014-10-02,MIN,Win,42,10,1,8,pass,Randall Cobb
+13,13,Packers,2014-10-02,MIN,Win,42,10,1,66,pass,Jordy Nelson
+14,14,Packers,2014-10-02,MIN,Win,42,10,2,49,interception,Julius Peppers
+15,15,Packers,2014-10-02,MIN,Win,42,10,2,11,pass,Davante Adams
+16,16,Packers,2014-10-02,MIN,Win,42,10,3,11,rush,Eddie Lacy
+17,17,Packers,2014-10-02,MIN,Win,42,10,3,10,rush,Eddie Lacy
+18,18,Packers,2014-10-12,MIA,Win,27,24,1,9,pass,Jordy Nelson
+19,19,Packers,2014-10-12,MIA,Win,27,24,3,5,pass,Randall Cobb
+20,20,Packers,2014-10-12,MIA,Win,27,24,4,4,pass,Andrew Quarless
+21,21,Packers,2014-10-19,CAR,Win,38,17,1,59,pass,Jordy Nelson
+22,22,Packers,2014-10-19,CAR,Win,38,17,1,5,rush,Eddie Lacy
+23,23,Packers,2014-10-19,CAR,Win,38,17,1,13,rush,James Starks
+24,24,Packers,2014-10-19,CAR,Win,38,17,2,3,pass,Randall Cobb
+25,25,Packers,2014-10-19,CAR,Win,38,17,3,21,pass,Davante Adams
+26,26,Packers,2014-10-26,NOR,Loss,23,44,1,70,pass,Randall Cobb
+27,27,Packers,2014-10-26,NOR,Loss,23,44,4,14,rush,Aaron Rodgers
+28,28,Packers,2014-11-09,CHI,Win,55,14,1,1,pass,Brandon Bostick
+29,29,Packers,2014-11-09,CHI,Win,55,14,1,4,pass,Andrew Quarless
+30,30,Packers,2014-11-09,CHI,Win,55,14,2,73,pass,Jordy Nelson
+31,31,Packers,2014-11-09,CHI,Win,55,14,2,40,pass,Jordy Nelson
+32,32,Packers,2014-11-09,CHI,Win,55,14,2,56,pass,Eddie Lacy
+33,33,Packers,2014-11-09,CHI,Win,55,14,2,18,pass,Randall Cobb
+34,34,Packers,2014-11-09,CHI,Win,55,14,4,82,interception,Casey Hayward
+35,35,Packers,2014-11-16,PHI,Win,53,20,1,6,pass,Davante Adams
+36,36,Packers,2014-11-16,PHI,Win,53,20,1,75,punt,Micah Hyde
+37,37,Packers,2014-11-16,PHI,Win,53,20,2,27,pass,Jordy Nelson
+38,38,Packers,2014-11-16,PHI,Win,53,20,2,1,rush,Eddie Lacy
+39,39,Packers,2014-11-16,PHI,Win,53,20,3,52,interception,Julius Peppers
+40,40,Packers,2014-11-16,PHI,Win,53,20,4,32,pass,Eddie Lacy
+41,41,Packers,2014-11-16,PHI,Win,53,20,4,49,fumble,Casey Hayward
+42,42,Packers,2014-11-23,MIN,Win,24,21,1,1,rush,Eddie Lacy
+43,43,Packers,2014-11-23,MIN,Win,24,21,2,1,pass,Richard Rodgers
+44,44,Packers,2014-11-23,MIN,Win,24,21,4,10,pass,Eddie Lacy
+45,45,Packers,2014-11-30,NWE,Win,26,21,1,32,pass,Richard Rodgers
+46,46,Packers,2014-11-30,NWE,Win,26,21,2,45,pass,Jordy Nelson
+47,47,Packers,2014-12-08,ATL,Win,43,37,1,3,rush,James Starks
+48,48,Packers,2014-12-08,ATL,Win,43,37,2,1,rush,Eddie Lacy
+49,49,Packers,2014-12-08,ATL,Win,43,37,2,1,pass,Eddie Lacy
+50,50,Packers,2014-12-08,ATL,Win,43,37,2,10,pass,Jordy Nelson
+51,51,Packers,2014-12-08,ATL,Win,43,37,4,60,pass,Jordy Nelson
+52,52,Packers,2014-12-14,BUF,Loss,13,21,2,1,rush,Eddie Lacy
+53,53,Packers,2014-12-21,TAM,Win,20,3,1,44,rush,Eddie Lacy
+54,54,Packers,2014-12-21,TAM,Win,20,3,4,1,pass,Jordy Nelson
+55,55,Packers,2014-12-28,DET,Win,30,20,1,55,punt,Micah Hyde
+56,56,Packers,2014-12-28,DET,Win,30,20,2,4,pass,Randall Cobb
+57,57,Packers,2014-12-28,DET,Win,30,20,3,13,pass,Randall Cobb
+58,58,Packers,2014-12-28,DET,Win,30,20,4,1,rush,Aaron Rodgers

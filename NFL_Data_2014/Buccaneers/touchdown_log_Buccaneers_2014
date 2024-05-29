@@ -1,32 +1,32 @@
-,Rank,Team,Date,Opponent,Win/Loss,Score,Quarter,Distance,Type,Detail,Year
-0,1,Buccaneers,09/07/2014,CAR,Loss, 14-20,4,19,pass,Chris Owusu,2014
-1,2,Buccaneers,09/07/2014,CAR,Loss, 14-20,4,6,pass,Bobby Rainey,2014
-2,3,Buccaneers,09/14/2014,STL,Loss, 17-19,1,5,rush,Josh McCown,2014
-3,4,Buccaneers,09/14/2014,STL,Loss, 17-19,3,1,rush,Josh McCown,2014
-4,5,Buccaneers,09/18/2014,ATL,Loss, 14-56,4,3,pass,Vincent Jackson,2014
-5,6,Buccaneers,09/18/2014,ATL,Loss, 14-56,4,27,interception,Danny Lansanah,2014
-6,7,Buccaneers,09/28/2014,PIT,Win, 27-24,1,7,pass,Mike Evans,2014
-7,8,Buccaneers,09/28/2014,PIT,Win, 27-24,3,3,rush,Doug Martin,2014
-8,9,Buccaneers,09/28/2014,PIT,Win, 27-24,4,5,pass,Vincent Jackson,2014
-9,10,Buccaneers,10/05/2014,NOR,Loss, 31-37,2,20,pass,Louis Murphy,2014
-10,11,Buccaneers,10/05/2014,NOR,Loss, 31-37,3,9,rush,Bobby Rainey,2014
-11,12,Buccaneers,10/05/2014,NOR,Loss, 31-37,3,33,interception,Danny Lansanah,2014
-12,13,Buccaneers,10/05/2014,NOR,Loss, 31-37,4,9,pass,Robert Herron,2014
-13,14,Buccaneers,10/12/2014,BAL,Loss, 17-48,3,17,pass,Mike Evans,2014
-14,15,Buccaneers,10/12/2014,BAL,Loss, 17-48,4,3,pass,Louis Murphy,2014
-15,16,Buccaneers,10/26/2014,MIN,Loss, 13-19,4,7,pass,Austin Seferian-Jenkins,2014
-16,17,Buccaneers,11/02/2014,CLE,Loss, 17-22,2,24,pass,Mike Evans,2014
-17,18,Buccaneers,11/02/2014,CLE,Loss, 17-22,3,24,pass,Mike Evans,2014
-18,19,Buccaneers,11/09/2014,ATL,Loss, 17-27,2,22,pass,Mike Evans,2014
-19,20,Buccaneers,11/09/2014,ATL,Loss, 17-27,4,1,pass,Austin Seferian-Jenkins,2014
-20,21,Buccaneers,11/16/2014,WAS,Win, 27-7,1,19,interception,Johnthan Banks,2014
-21,22,Buccaneers,11/16/2014,WAS,Win, 27-7,3,36,pass,Mike Evans,2014
-22,23,Buccaneers,11/16/2014,WAS,Win, 27-7,4,56,pass,Mike Evans,2014
-23,24,Buccaneers,11/23/2014,CHI,Loss, 13-21,2,19,pass,Mike Evans,2014
-24,25,Buccaneers,11/30/2014,CIN,Loss, 13-14,2,7,rush,Doug Martin,2014
-25,26,Buccaneers,12/07/2014,DET,Loss, 17-34,2,5,pass,Mike Evans,2014
-26,27,Buccaneers,12/07/2014,DET,Loss, 17-34,4,26,pass,Mike Evans,2014
-27,28,Buccaneers,12/14/2014,CAR,Loss, 17-19,1,8,pass,Mike Evans,2014
-28,29,Buccaneers,12/14/2014,CAR,Loss, 17-19,4,16,rush,Josh McCown,2014
-29,30,Buccaneers,12/28/2014,NOR,Loss, 20-23,2,6,pass,Mike Evans,2014
-30,31,Buccaneers,12/28/2014,NOR,Loss, 20-23,2,8,rush,Charles Sims,2014
+,Rank,Team,Date,Opponent,Win/Loss,Home_Score,Opponenet_Score,Quarter,Distance,Type,Detail
+1,1,Buccaneers,2014-09-07,CAR,Loss,14,20,4,19,pass,Chris Owusu
+2,2,Buccaneers,2014-09-07,CAR,Loss,14,20,4,6,pass,Bobby Rainey
+3,3,Buccaneers,2014-09-14,STL,Loss,17,19,1,5,rush,Josh McCown
+4,4,Buccaneers,2014-09-14,STL,Loss,17,19,3,1,rush,Josh McCown
+5,5,Buccaneers,2014-09-18,ATL,Loss,14,56,4,3,pass,Vincent Jackson
+6,6,Buccaneers,2014-09-18,ATL,Loss,14,56,4,27,interception,Danny Lansanah
+7,7,Buccaneers,2014-09-28,PIT,Win,27,24,1,7,pass,Mike Evans
+8,8,Buccaneers,2014-09-28,PIT,Win,27,24,3,3,rush,Doug Martin
+9,9,Buccaneers,2014-09-28,PIT,Win,27,24,4,5,pass,Vincent Jackson
+10,10,Buccaneers,2014-10-05,NOR,Loss,31,37,2,20,pass,Louis Murphy
+11,11,Buccaneers,2014-10-05,NOR,Loss,31,37,3,9,rush,Bobby Rainey
+12,12,Buccaneers,2014-10-05,NOR,Loss,31,37,3,33,interception,Danny Lansanah
+13,13,Buccaneers,2014-10-05,NOR,Loss,31,37,4,9,pass,Robert Herron
+14,14,Buccaneers,2014-10-12,BAL,Loss,17,48,3,17,pass,Mike Evans
+15,15,Buccaneers,2014-10-12,BAL,Loss,17,48,4,3,pass,Louis Murphy
+16,16,Buccaneers,2014-10-26,MIN,Loss,13,19,4,7,pass,Austin Seferian-Jenkins
+17,17,Buccaneers,2014-11-02,CLE,Loss,17,22,2,24,pass,Mike Evans
+18,18,Buccaneers,2014-11-02,CLE,Loss,17,22,3,24,pass,Mike Evans
+19,19,Buccaneers,2014-11-09,ATL,Loss,17,27,2,22,pass,Mike Evans
+20,20,Buccaneers,2014-11-09,ATL,Loss,17,27,4,1,pass,Austin Seferian-Jenkins
+21,21,Buccaneers,2014-11-16,WAS,Win,27,7,1,19,interception,Johnthan Banks
+22,22,Buccaneers,2014-11-16,WAS,Win,27,7,3,36,pass,Mike Evans
+23,23,Buccaneers,2014-11-16,WAS,Win,27,7,4,56,pass,Mike Evans
+24,24,Buccaneers,2014-11-23,CHI,Loss,13,21,2,19,pass,Mike Evans
+25,25,Buccaneers,2014-11-30,CIN,Loss,13,14,2,7,rush,Doug Martin
+26,26,Buccaneers,2014-12-07,DET,Loss,17,34,2,5,pass,Mike Evans
+27,27,Buccaneers,2014-12-07,DET,Loss,17,34,4,26,pass,Mike Evans
+28,28,Buccaneers,2014-12-14,CAR,Loss,17,19,1,8,pass,Mike Evans
+29,29,Buccaneers,2014-12-14,CAR,Loss,17,19,4,16,rush,Josh McCown
+30,30,Buccaneers,2014-12-28,NOR,Loss,20,23,2,6,pass,Mike Evans
+31,31,Buccaneers,2014-12-28,NOR,Loss,20,23,2,8,rush,Charles Sims

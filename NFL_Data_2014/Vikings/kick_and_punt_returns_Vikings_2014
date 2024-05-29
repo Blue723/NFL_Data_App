@@ -1,11 +1,11 @@
-,No.,Team,Player,Age,Position,Games Played,Games Started,Punts Returned,Punts Return Yardage,Punts Returned for Touchdown,Longest Punt Return,Yards per Punt Return,Kickoff Returns,Yardage for Kickoffs Returned,Kickoffs Returned for a Touchdown,Longest Kickoff Return,Yards per Kickoff Return,All-purpose Yards,Year
-0,84,Vikings,Cordarrelle Patterson,23,WR,16,7,0,0,0,0,,34,871,0,51,25.6,1372,2014
-1,35,Vikings,Marcus Sherels,27,DB,16,0,27,297,0,35,11.0,4,110,0,46,27.5,407,2014
-2,44,Vikings,Matt Asiata,27,RB,15,9,0,0,0,0,,4,47,0,16,11.8,929,2014
-3,42,Vikings,Jerome Felton,28,RB,16,3,0,0,0,0,,3,36,0,14,12.0,63,2014
-4,85,Vikings,Rhett Ellison,26,TE,16,13,0,0,0,0,,2,23,0,14,11.5,231,2014
-5,19,Vikings,Adam Thielen,24,WR,16,2,0,0,0,0,,2,33,0,21,16.5,170,2014
-6,94,Vikings,Justin Trattou,26,DE,4,0,0,0,0,0,,2,19,0,13,9.5,19,2014
-7,23,Vikings,Joe Banyard,26,RB,15,0,0,0,0,0,,1,8,0,8,8.0,158,2014
-8,86,Vikings,Chase Ford,24,TE,11,5,0,0,0,0,,1,12,0,12,12.0,270,2014
-9,87,Vikings,MarQueis Gray,25,TE,8,0,0,0,0,0,,1,14,0,14,14.0,30,2014
+,No.,Player,Age,Position,Games Played,Games Started,Punts Returned,Punts Return Yardage,Punts Returned for Touchdown,Longest Punt Return,Yards per Punt Return,Kickoff Returns,Yardage for Kickoffs Returned,Kickoffs Returned for a Touchdown,Longest Kickoff Return,Yards per Kickoff Return,All-purpose Yards,Team,Year
+84,84,Cordarrelle Patterson,23,WR,16,7,0,0,0,0,0.0,34,871,0,51,25.6,1372,Vikings,2014
+35,35,Marcus Sherels,27,DB,16,0,27,297,0,35,11.0,4,110,0,46,27.5,407,Vikings,2014
+44,44,Matt Asiata,27,RB,15,9,0,0,0,0,0.0,4,47,0,16,11.8,929,Vikings,2014
+42,42,Jerome Felton,28,RB,16,3,0,0,0,0,0.0,3,36,0,14,12.0,63,Vikings,2014
+85,85,Rhett Ellison,26,TE,16,13,0,0,0,0,0.0,2,23,0,14,11.5,231,Vikings,2014
+19,19,Adam Thielen,24,WR,16,2,0,0,0,0,0.0,2,33,0,21,16.5,170,Vikings,2014
+94,94,Justin Trattou,26,DE,4,0,0,0,0,0,0.0,2,19,0,13,9.5,19,Vikings,2014
+23,23,Joe Banyard,26,RB,15,0,0,0,0,0,0.0,1,8,0,8,8.0,158,Vikings,2014
+86,86,Chase Ford,24,TE,11,5,0,0,0,0,0.0,1,12,0,12,12.0,270,Vikings,2014
+87,87,MarQueis Gray,25,TE,8,0,0,0,0,0,0.0,1,14,0,14,14.0,30,Vikings,2014

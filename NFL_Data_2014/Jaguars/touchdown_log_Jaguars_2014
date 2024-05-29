@@ -1,28 +1,28 @@
-,Rank,Team,Date,Opponent,Win/Loss,Score,Quarter,Distance,Type,Detail,Year
-0,1,Jaguars,09/07/2014,PHI,Loss, 17-34,1,34,pass,Allen Hurns,2014
-1,2,Jaguars,09/07/2014,PHI,Loss, 17-34,1,21,pass,Allen Hurns,2014
-2,3,Jaguars,09/14/2014,WAS,Loss, 10-41,2,63,pass,Marcedes Lewis,2014
-3,4,Jaguars,09/21/2014,IND,Loss, 17-44,4,63,pass,Allen Hurns,2014
-4,5,Jaguars,09/21/2014,IND,Loss, 17-44,4,10,pass,Cecil Shorts,2014
-5,6,Jaguars,09/28/2014,SDG,Loss, 14-33,2,1,rush,Toby Gerhart,2014
-6,7,Jaguars,09/28/2014,SDG,Loss, 14-33,2,2,pass,Nic Jacobs,2014
-7,8,Jaguars,10/12/2014,TEN,Loss, 14-16,1,1,rush,Storm Johnson,2014
-8,9,Jaguars,10/12/2014,TEN,Loss, 14-16,4,20,pass,Clay Harbor,2014
-9,10,Jaguars,10/19/2014,CLE,Win, 24-6,2,31,pass,Allen Robinson,2014
-10,11,Jaguars,10/19/2014,CLE,Win, 24-6,4,8,rush,Denard Robinson,2014
-11,12,Jaguars,10/19/2014,CLE,Win, 24-6,4,3,rush,Storm Johnson,2014
-12,13,Jaguars,10/26/2014,MIA,Loss, 13-27,4,48,pass,Allen Robinson,2014
-13,14,Jaguars,11/02/2014,CIN,Loss, 23-33,3,40,pass,Allen Hurns,2014
-14,15,Jaguars,11/02/2014,CIN,Loss, 23-33,4,18,pass,Allen Hurns,2014
-15,16,Jaguars,11/02/2014,CIN,Loss, 23-33,4,5,rush,Denard Robinson,2014
-16,17,Jaguars,11/09/2014,DAL,Loss, 17-31,1,32,rush,Denard Robinson,2014
-17,18,Jaguars,11/09/2014,DAL,Loss, 17-31,4,1,rush,Denard Robinson,2014
-18,19,Jaguars,11/30/2014,NYG,Win, 25-24,3,0,fumble,J.T. Thomas,2014
-19,20,Jaguars,11/30/2014,NYG,Win, 25-24,3,30,pass,Marqise Lee,2014
-20,21,Jaguars,11/30/2014,NYG,Win, 25-24,4,41,fumble,Aaron Colvin,2014
-21,22,Jaguars,12/07/2014,HOU,Loss, 13-27,1,4,pass,Allen Hurns,2014
-22,23,Jaguars,12/18/2014,TEN,Win, 21-13,2,4,pass,Marcedes Lewis,2014
-23,24,Jaguars,12/18/2014,TEN,Win, 21-13,3,1,rush,Toby Gerhart,2014
-24,25,Jaguars,12/18/2014,TEN,Win, 21-13,4,62,rush,Jordan Todman,2014
-25,26,Jaguars,12/28/2014,HOU,Loss, 17-23,1,55,interception,Dwayne Gratz,2014
-26,27,Jaguars,12/28/2014,HOU,Loss, 17-23,3,23,pass,Jordan Todman,2014
+,Rank,Team,Date,Opponent,Win/Loss,Home_Score,Opponenet_Score,Quarter,Distance,Type,Detail
+1,1,Jaguars,2014-09-07,PHI,Loss,17,34,1,34,pass,Allen Hurns
+2,2,Jaguars,2014-09-07,PHI,Loss,17,34,1,21,pass,Allen Hurns
+3,3,Jaguars,2014-09-14,WAS,Loss,10,41,2,63,pass,Marcedes Lewis
+4,4,Jaguars,2014-09-21,IND,Loss,17,44,4,63,pass,Allen Hurns
+5,5,Jaguars,2014-09-21,IND,Loss,17,44,4,10,pass,Cecil Shorts
+6,6,Jaguars,2014-09-28,SDG,Loss,14,33,2,1,rush,Toby Gerhart
+7,7,Jaguars,2014-09-28,SDG,Loss,14,33,2,2,pass,Nic Jacobs
+8,8,Jaguars,2014-10-12,TEN,Loss,14,16,1,1,rush,Storm Johnson
+9,9,Jaguars,2014-10-12,TEN,Loss,14,16,4,20,pass,Clay Harbor
+10,10,Jaguars,2014-10-19,CLE,Win,24,6,2,31,pass,Allen Robinson
+11,11,Jaguars,2014-10-19,CLE,Win,24,6,4,8,rush,Denard Robinson
+12,12,Jaguars,2014-10-19,CLE,Win,24,6,4,3,rush,Storm Johnson
+13,13,Jaguars,2014-10-26,MIA,Loss,13,27,4,48,pass,Allen Robinson
+14,14,Jaguars,2014-11-02,CIN,Loss,23,33,3,40,pass,Allen Hurns
+15,15,Jaguars,2014-11-02,CIN,Loss,23,33,4,18,pass,Allen Hurns
+16,16,Jaguars,2014-11-02,CIN,Loss,23,33,4,5,rush,Denard Robinson
+17,17,Jaguars,2014-11-09,DAL,Loss,17,31,1,32,rush,Denard Robinson
+18,18,Jaguars,2014-11-09,DAL,Loss,17,31,4,1,rush,Denard Robinson
+19,19,Jaguars,2014-11-30,NYG,Win,25,24,3,0,fumble,J.T. Thomas
+20,20,Jaguars,2014-11-30,NYG,Win,25,24,3,30,pass,Marqise Lee
+21,21,Jaguars,2014-11-30,NYG,Win,25,24,4,41,fumble,Aaron Colvin
+22,22,Jaguars,2014-12-07,HOU,Loss,13,27,1,4,pass,Allen Hurns
+23,23,Jaguars,2014-12-18,TEN,Win,21,13,2,4,pass,Marcedes Lewis
+24,24,Jaguars,2014-12-18,TEN,Win,21,13,3,1,rush,Toby Gerhart
+25,25,Jaguars,2014-12-18,TEN,Win,21,13,4,62,rush,Jordan Todman
+26,26,Jaguars,2014-12-28,HOU,Loss,17,23,1,55,interception,Dwayne Gratz
+27,27,Jaguars,2014-12-28,HOU,Loss,17,23,3,23,pass,Jordan Todman

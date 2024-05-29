@@ -1,15 +1,15 @@
-,No.,Team,Player,Age,Pos,Games Played,Games Started,Rush TD,Reception TD,Punt Return TD,Kick Return TD,Fumble Return TD,Interception TD,Other TD,All Touchdown Scored,2-Point Conversions Made,Two-Point Conversions Attempted,Defensive Two-Point Conversions,Extra Points Made,Extra Points Allowed,Field Goals Made,Field Goals Attempted,Safeties Scored by Player/Team,Total Points Scored by all Means,Poins per Game,Year
-0,9,49ers,Phil Dawson,39,K,16,0,0,0,0,0,0,0,0,0,0,0,0,33,33,25,31,,108,6.8,2014
-1,81,49ers,Anquan Boldin,34,WR,16,16,0,5,0,0,0,0,0,5,0,0,0,0,0,0,0,,30,1.9,2014
-2,21,49ers,Frank Gore,31,RB,16,16,4,1,0,0,0,0,0,5,0,0,0,0,0,0,0,,30,1.9,2014
-3,15,49ers,Michael Crabtree,27,WR,16,16,0,4,0,0,0,0,0,4,0,0,0,0,0,0,0,,24,1.5,2014
-4,28,49ers,Carlos Hyde,24,RB,14,0,4,0,0,0,0,0,0,4,0,0,0,0,0,0,0,,24,1.7,2014
-5,10,49ers,Bruce Ellington,23,WR,13,0,1,2,0,0,0,0,0,3,0,0,0,0,0,0,0,,18,1.4,2014
-6,13,49ers,Stevie Johnson,28,WR,13,1,0,3,0,0,0,0,0,3,0,0,0,0,0,0,0,,18,1.4,2014
-7,85,49ers,Vernon Davis,30,TE,14,14,0,2,0,0,0,0,0,2,0,0,0,0,0,0,0,,12,0.9,2014
-8,49,49ers,Bruce Miller,27,RB,16,8,0,2,0,0,0,0,0,2,0,0,0,0,0,0,0,,12,0.8,2014
-9,41,49ers,Antoine Bethea,30,SS,16,16,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,,6,0.4,2014
-10,29,49ers,Chris Culliver,26,RCB,14,14,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,,6,0.4,2014
-11,36,49ers,Dontae Johnson,23,DB,16,3,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,,6,0.4,2014
-12,7,49ers,Colin Kaepernick,27,QB,16,16,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,,6,0.4,2014
-13,84,49ers,Brandon Lloyd,33,WR,14,3,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,,6,0.4,2014
+,No.,Player,Age,Pos,Games Played,Games Started,Rush TD,Reception TD,Punt Return TD,Kick Return TD,Fumble Return TD,Interception TD,Other TD,All Touchdown Scored,2-Point Conversions Made,Two-Point Conversions Attempted,Defensive Two-Point Conversions,Extra Points Made,Extra Points Allowed,Field Goals Made,Field Goals Attempted,Safeties Scored by Player/Team,Total Points Scored by all Means,Poins per Game,Team,Year
+9,9,Phil Dawson,39,K,16,0,0,0,0,0,0,0,0,0,0,0,0,33,33,25,31,0,108,6.8,49ers,2014
+81,81,Anquan Boldin,34,WR,16,16,0,5,0,0,0,0,0,5,0,0,0,0,0,0,0,0,30,1.9,49ers,2014
+21,21,Frank Gore,31,RB,16,16,4,1,0,0,0,0,0,5,0,0,0,0,0,0,0,0,30,1.9,49ers,2014
+15,15,Michael Crabtree,27,WR,16,16,0,4,0,0,0,0,0,4,0,0,0,0,0,0,0,0,24,1.5,49ers,2014
+28,28,Carlos Hyde,24,RB,14,0,4,0,0,0,0,0,0,4,0,0,0,0,0,0,0,0,24,1.7,49ers,2014
+10,10,Bruce Ellington,23,WR,13,0,1,2,0,0,0,0,0,3,0,0,0,0,0,0,0,0,18,1.4,49ers,2014
+13,13,Stevie Johnson,28,WR,13,1,0,3,0,0,0,0,0,3,0,0,0,0,0,0,0,0,18,1.4,49ers,2014
+85,85,Vernon Davis,30,TE,14,14,0,2,0,0,0,0,0,2,0,0,0,0,0,0,0,0,12,0.9,49ers,2014
+49,49,Bruce Miller,27,RB,16,8,0,2,0,0,0,0,0,2,0,0,0,0,0,0,0,0,12,0.8,49ers,2014
+41,41,Antoine Bethea,30,SS,16,16,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,6,0.4,49ers,2014
+29,29,Chris Culliver,26,RCB,14,14,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,6,0.4,49ers,2014
+36,36,Dontae Johnson,23,DB,16,3,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,6,0.4,49ers,2014
+7,7,Colin Kaepernick,27,QB,16,16,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,6,0.4,49ers,2014
+84,84,Brandon Lloyd,33,WR,14,3,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,6,0.4,49ers,2014

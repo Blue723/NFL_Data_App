@@ -1,60 +1,60 @@
-Player,No.,Team,Age,Pos,G,GS,Wt,Ht,College/Univ,BirthDate,Yrs,AV,Drafted (tm/rnd/yr)
-Nigel Bradham,53.0,Buffalos,25.0,RLB,14,14.0,241.0,6-2,Florida St.,9/4/1989,2,8.0,Buffalo Bills / 4th / 105th pick / 2012
-Ron Brooks,33.0,Buffalos,26.0,DB,14,1.0,190.0,5-10,LSU,10/16/1988,2,1.0,Buffalo Bills / 4th / 124th pick / 2012
-Bryce Brown,35.0,Buffalos,23.0,RB,7,2.0,223.0,6-0,Kansas St.,5/14/1991,2,2.0,Philadelphia Eagles / 7th / 229th pick / 2012
-Preston Brown,52.0,Buffalos,22.0,LLB,16,14.0,251.0,6-1,Louisville,10/27/1992,Rook,9.0,Buffalo Bills / 3rd / 73rd pick / 2014
-Corbin Bryant,97.0,Buffalos,26.0,DT,16,0.0,300.0,6-4,Northwestern,1/4/1988,3,2.0,
-Dan Carpenter,2.0,Buffalos,29.0,K,16,0.0,216.0,6-2,Montana,11/25/1985,6,4.0,
-Scott Chandler,84.0,Buffalos,29.0,TE,16,5.0,270.0,6-7,Iowa,7/23/1985,7,4.0,San Diego Chargers / 4th / 129th pick / 2007
-Stefan Charles,96.0,Buffalos,26.0,DT,16,1.0,302.0,6-5,Regina,6/9/1988,1,3.0,
-Ross Cockrell,29.0,Buffalos,23.0,DB,7,0.0,191.0,6-0,Duke,8/6/1991,Rook,0.0,Buffalo Bills / 4th / 109th pick / 2014
-Marcell Dareus,99.0,Buffalos,24.0,RDT,15,15.0,331.0,6-3,Alabama,3/13/1990,3,18.0,Buffalo Bills / 1st / 3rd pick / 2011
-Larry Dean,54.0,Buffalos,26.0,LB,13,0.0,216.0,6-0,Valdosta St.,8/7/1988,3,1.0,
-Anthony Dixon,26.0,Buffalos,27.0,RB,16,0.0,239.0,6-1,Mississippi St.,9/24/1987,4,3.0,San Francisco 49ers / 6th / 173rd pick / 2010
-Marcus Easley,81.0,Buffalos,27.0,WR,10,0.0,225.0,6-2,Connecticut,11/2/1987,2,0.0,Buffalo Bills / 4th / 107th pick / 2010
-Jordan Gay,4.0,Buffalos,24.0,P,16,0.0,200.0,6-0,Centre,3/29/1990,Rook,0.0,
-Stephon Gilmore,24.0,Buffalos,24.0,RCB,14,14.0,190.0,6-0,South Carolina,9/19/1990,2,5.0,Buffalo Bills / 1st / 10th pick / 2012
-Cordy Glenn,77.0,Buffalos,25.0,LT,16,16.0,345.0,6-6,Georgia,9/18/1989,2,7.0,Buffalo Bills / 2nd / 41st pick / 2012
-Marquise Goodwin,88.0,Buffalos,24.0,WR,10,0.0,185.0,5-9,Texas,11/19/1990,1,0.0,Buffalo Bills / 3rd / 78th pick / 2013
-Chris Gragg,89.0,Buffalos,24.0,TE,10,5.0,244.0,6-3,Arkansas,6/30/1990,1,0.0,Buffalo Bills / 7th / 222nd pick / 2013
-Corey Graham,20.0,Buffalos,29.0,LCB,16,9.0,196.0,6-0,New Hampshire,7/25/1985,7,4.0,Chicago Bears / 5th / 168th pick / 2007
-MarQueis Gray,48.0,Buffalos,25.0,TE,5,5.0,263.0,6-4,Minnesota,11/7/1989,1,1.0,
-Chris Hairston,75.0,Buffalos,25.0,T,16,0.0,323.0,6-6,Clemson,4/26/1989,3,1.0,Buffalo Bills / 4th / 122nd pick / 2011
-Seantrel Henderson,66.0,Buffalos,22.0,RT,16,16.0,351.0,6-7,Miami (FL),1/21/1992,Rook,7.0,Buffalo Bills / 7th / 237th pick / 2014
-Chris Hogan,15.0,Buffalos,27.0,WR,16,2.0,210.0,6-1,Monmouth,10/24/1987,1,3.0,
-Jerry Hughes,55.0,Buffalos,26.0,RDE,16,16.0,254.0,6-2,TCU,8/13/1988,4,10.0,Indianapolis Colts / 1st / 31st pick / 2010
-Fred Jackson,22.0,Buffalos,33.0,RB,14,9.0,215.0,6-1,Coe College,2/20/1981,7,7.0,
-Randell Johnson,58.0,Buffalos,23.0,LB,5,0.0,242.0,6-3,Florida Atlantic,3/23/1991,Rook,1.0,Buffalo Bills / 7th / 221st pick / 2014
-Cyrus Kouandjio,71.0,Buffalos,21.0,T,1,0.0,322.0,6-7,Alabama,7/21/1993,Rook,0.0,Buffalo Bills / 2nd / 44th pick / 2014
-Kenny Ladler,31.0,Buffalos,22.0,DB,2,0.0,200.0,6-1,Vanderbilt,6/23/1992,Rook,0.0,
-Manny Lawson,91.0,Buffalos,30.0,DE,16,0.0,240.0,6-5,North Carolina St.,7/13/1984,8,2.0,San Francisco 49ers / 1st / 22nd pick / 2006
-EJ Manuel,3.0,Buffalos,24.0,QB,5,4.0,237.0,6-4,Florida St.,3/19/1990,1,2.0,Buffalo Bills / 1st / 16th pick / 2013
-Leodis McKelvin,21.0,Buffalos,29.0,LCB,10,9.0,190.0,5-11,Troy,9/1/1985,6,4.0,Buffalo Bills / 1st / 11th pick / 2008
-Kyle Orton,18.0,Buffalos,32.0,QB,12,12.0,228.0,6-4,Purdue,11/14/1982,9,8.0,Chicago Bears / 4th / 106th pick / 2005
-Erik Pears,79.0,Buffalos,32.0,RG,16,16.0,316.0,6-8,Colorado St.,6/25/1982,8,7.0,
-Ty Powell,57.0,Buffalos,26.0,DE,14,0.0,249.0,6-2,Harding,4/27/1988,1,1.0,Seattle Seahawks / 7th / 231st pick / 2013
-Bacarri Rambo,30.0,Buffalos,24.0,DB,4,0.0,211.0,6-1,Georgia,6/27/1990,1,1.0,Washington Redskins / 6th / 191st pick / 2013
-Cyril Richardson,68.0,Buffalos,24.0,G,12,4.0,329.0,6-5,Baylor,12/27/1990,Rook,2.0,Buffalo Bills / 5th / 153rd pick / 2014
-Keith Rivers,56.0,Buffalos,28.0,LB,12,3.0,236.0,6-2,USC,5/5/1986,6,2.0,Cincinnati Bengals / 1st / 9th pick / 2008
-Nickell Robey-Coleman,37.0,Buffalos,22.0,DB,16,7.0,180.0,5-8,USC,1/17/1992,1,3.0,
-Garrison Sanborn,65.0,Buffalos,29.0,LS,16,0.0,240.0,6-1,Florida St.,7/31/1985,5,2.0,
-Colton Schmidt,6.0,Buffalos,24.0,P,16,0.0,224.0,5-11,UC Davis,10/27/1990,Rook,1.0,
-Da'Norris Searcy,25.0,Buffalos,26.0,SS,15,13.0,205.0,5-11,North Carolina,11/16/1988,3,6.0,Buffalo Bills / 4th / 100th pick / 2011
-Lee Smith,85.0,Buffalos,27.0,TE,14,10.0,265.0,6-6,"Tennessee,Marshall",11/21/1987,3,0.0,New England Patriots / 5th / 159th pick / 2011
-Brandon Spikes,51.0,Buffalos,27.0,MLB,16,10.0,250.0,6-3,Florida,9/3/1987,4,6.0,New England Patriots / 2nd / 62nd pick / 2010
-C.J. Spiller,28.0,Buffalos,27.0,RB,9,5.0,194.0,5-11,Clemson,8/5/1987,4,4.0,Buffalo Bills / 1st / 9th pick / 2010
-Frank Summers,38.0,Buffalos,29.0,RB,10,6.0,240.0,5-10,UNLV,9/6/1985,5,0.0,Pittsburgh Steelers / 5th / 169th pick / 2009
-Marcus Thigpen,11.0,Buffalos,28.0,RB,5,0.0,193.0,5-9,Indiana,5/15/1986,2,1.0,
-Deonte Thompson,80.0,Buffalos,25.0,WR,1,0.0,204.0,6-0,Florida,2/14/1989,2,0.0,
-Kraig Urbik,60.0,Buffalos,29.0,LG,16,9.0,323.0,6-5,Wisconsin,9/23/1985,4,4.0,Pittsburgh Steelers / 3rd / 79th pick / 2009
-Sammy Watkins,14.0,Buffalos,21.0,WR,16,16.0,211.0,6-1,Clemson,6/14/1993,Rook,8.0,Buffalo Bills / 1st / 4th pick / 2014
-Aaron Williams,23.0,Buffalos,24.0,FS,15,14.0,195.0,6-0,Texas,4/23/1990,3,5.0,Buffalo Bills / 2nd / 34th pick / 2011
-Chris Williams,74.0,Buffalos,29.0,T,3,3.0,326.0,6-6,Vanderbilt,8/26/1985,6,1.0,Chicago Bears / 1st / 14th pick / 2008
-Duke Williams,27.0,Buffalos,24.0,DB,16,4.0,201.0,5-11,Nevada,10/15/1990,1,3.0,Buffalo Bills / 4th / 105th pick / 2013
-Kyle Williams,95.0,Buffalos,31.0,LDT,15,15.0,303.0,6-1,LSU,6/10/1983,8,12.0,Buffalo Bills / 5th / 134th pick / 2006
-Mario Williams,94.0,Buffalos,29.0,LDE,16,16.0,300.0,6-6,North Carolina St.,1/31/1985,8,19.0,Houston Texans / 1st / 1st pick / 2006
-Mike Williams,19.0,Buffalos,27.0,WR,9,0.0,204.0,6-2,Syracuse,5/18/1987,4,1.0,Tampa Bay Buccaneers / 4th / 101st pick / 2010
-Eric Wood,70.0,Buffalos,28.0,C,16,16.0,310.0,6-4,Louisville,3/18/1986,5,7.0,Buffalo Bills / 1st / 28th pick / 2009
-Robert Woods,10.0,Buffalos,22.0,WR,16,15.0,195.0,6-0,USC,4/10/1992,1,5.0,Buffalo Bills / 2nd / 41st pick / 2013
-Jarius Wynn,92.0,Buffalos,28.0,DE,11,1.0,273.0,6-5,"Georgia Military,Georgia",8/29/1986,5,2.0,Green Bay Packers / 6th / 182nd pick / 2009
-Team Total,,Buffalos,26.1,,16,,244.9,6-2.1,,,3.1,,
+,No.,Player,BirthDate,Age,Height,Weight,College/University,Position,Games_Played_in_Season,Games_Started_in_Season,NFL_Years,Player_Value,Team,Year
+0,53.0,Nigel Bradham,9/4/1989,25.0,6-2,241.0,Florida St.,RLB,14,14.0,2.0,8.0,Buffalos,2014
+1,33.0,Ron Brooks,10/16/1988,26.0,5-10,190.0,LSU,DB,14,1.0,2.0,1.0,Buffalos,2014
+2,35.0,Bryce Brown,5/14/1991,23.0,6-0,223.0,Kansas St.,RB,7,2.0,2.0,2.0,Buffalos,2014
+3,52.0,Preston Brown,10/27/1992,22.0,6-1,251.0,Louisville,LLB,16,14.0,0.0,9.0,Buffalos,2014
+4,97.0,Corbin Bryant,1/4/1988,26.0,6-4,300.0,Northwestern,DT,16,0.0,3.0,2.0,Buffalos,2014
+5,2.0,Dan Carpenter,11/25/1985,29.0,6-2,216.0,Montana,K,16,0.0,6.0,4.0,Buffalos,2014
+6,84.0,Scott Chandler,7/23/1985,29.0,6-7,270.0,Iowa,TE,16,5.0,7.0,4.0,Buffalos,2014
+7,96.0,Stefan Charles,6/9/1988,26.0,6-5,302.0,Regina,DT,16,1.0,1.0,3.0,Buffalos,2014
+8,29.0,Ross Cockrell,8/6/1991,23.0,6-0,191.0,Duke,DB,7,0.0,0.0,0.0,Buffalos,2014
+9,99.0,Marcell Dareus,3/13/1990,24.0,6-3,331.0,Alabama,RDT,15,15.0,3.0,18.0,Buffalos,2014
+10,54.0,Larry Dean,8/7/1988,26.0,6-0,216.0,Valdosta St.,LB,13,0.0,3.0,1.0,Buffalos,2014
+11,26.0,Anthony Dixon,9/24/1987,27.0,6-1,239.0,Mississippi St.,RB,16,0.0,4.0,3.0,Buffalos,2014
+12,81.0,Marcus Easley,11/2/1987,27.0,6-2,225.0,Connecticut,WR,10,0.0,2.0,0.0,Buffalos,2014
+13,4.0,Jordan Gay,3/29/1990,24.0,6-0,200.0,Centre,P,16,0.0,0.0,0.0,Buffalos,2014
+14,24.0,Stephon Gilmore,9/19/1990,24.0,6-0,190.0,South Carolina,RCB,14,14.0,2.0,5.0,Buffalos,2014
+15,77.0,Cordy Glenn,9/18/1989,25.0,6-6,345.0,Georgia,LT,16,16.0,2.0,7.0,Buffalos,2014
+16,88.0,Marquise Goodwin,11/19/1990,24.0,5-9,185.0,Texas,WR,10,0.0,1.0,0.0,Buffalos,2014
+17,89.0,Chris Gragg,6/30/1990,24.0,6-3,244.0,Arkansas,TE,10,5.0,1.0,0.0,Buffalos,2014
+18,20.0,Corey Graham,7/25/1985,29.0,6-0,196.0,New Hampshire,LCB,16,9.0,7.0,4.0,Buffalos,2014
+19,48.0,MarQueis Gray,11/7/1989,25.0,6-4,263.0,Minnesota,TE,5,5.0,1.0,1.0,Buffalos,2014
+20,75.0,Chris Hairston,4/26/1989,25.0,6-6,323.0,Clemson,T,16,0.0,3.0,1.0,Buffalos,2014
+21,66.0,Seantrel Henderson,1/21/1992,22.0,6-7,351.0,Miami (FL),RT,16,16.0,0.0,7.0,Buffalos,2014
+22,15.0,Chris Hogan,10/24/1987,27.0,6-1,210.0,Monmouth,WR,16,2.0,1.0,3.0,Buffalos,2014
+23,55.0,Jerry Hughes,8/13/1988,26.0,6-2,254.0,TCU,RDE,16,16.0,4.0,10.0,Buffalos,2014
+24,22.0,Fred Jackson,2/20/1981,33.0,6-1,215.0,Coe College,RB,14,9.0,7.0,7.0,Buffalos,2014
+25,58.0,Randell Johnson,3/23/1991,23.0,6-3,242.0,Florida Atlantic,LB,5,0.0,0.0,1.0,Buffalos,2014
+26,71.0,Cyrus Kouandjio,7/21/1993,21.0,6-7,322.0,Alabama,T,1,0.0,0.0,0.0,Buffalos,2014
+27,31.0,Kenny Ladler,6/23/1992,22.0,6-1,200.0,Vanderbilt,DB,2,0.0,0.0,0.0,Buffalos,2014
+28,91.0,Manny Lawson,7/13/1984,30.0,6-5,240.0,North Carolina St.,LB,16,0.0,8.0,2.0,Buffalos,2014
+29,3.0,EJ Manuel,3/19/1990,24.0,6-4,237.0,Florida St.,QB,5,4.0,1.0,2.0,Buffalos,2014
+30,21.0,Leodis McKelvin,9/1/1985,29.0,5-11,190.0,Troy,LCB,10,9.0,6.0,4.0,Buffalos,2014
+31,18.0,Kyle Orton,11/14/1982,32.0,6-4,228.0,Purdue,QB,12,12.0,9.0,8.0,Buffalos,2014
+32,79.0,Erik Pears,6/25/1982,32.0,6-8,316.0,Colorado St.,RG,16,16.0,8.0,7.0,Buffalos,2014
+33,57.0,Ty Powell,4/27/1988,26.0,6-2,249.0,Harding,DE,14,0.0,1.0,1.0,Buffalos,2014
+34,30.0,Bacarri Rambo,6/27/1990,24.0,6-1,211.0,Georgia,DB,4,0.0,1.0,1.0,Buffalos,2014
+35,68.0,Cyril Richardson,12/27/1990,24.0,6-5,329.0,Baylor,G,12,4.0,0.0,2.0,Buffalos,2014
+36,56.0,Keith Rivers,5/5/1986,28.0,6-2,236.0,USC,LB,12,3.0,6.0,2.0,Buffalos,2014
+37,37.0,Nickell Robey-Coleman,1/17/1992,22.0,5-8,180.0,USC,DB,16,7.0,1.0,3.0,Buffalos,2014
+38,65.0,Garrison Sanborn,7/31/1985,29.0,6-1,240.0,Florida St.,LS,16,0.0,5.0,2.0,Buffalos,2014
+39,6.0,Colton Schmidt,10/27/1990,24.0,5-11,224.0,UC Davis,P,16,0.0,0.0,1.0,Buffalos,2014
+40,25.0,Da'Norris Searcy,11/16/1988,26.0,5-11,205.0,North Carolina,SS,15,13.0,3.0,6.0,Buffalos,2014
+41,85.0,Lee Smith,11/21/1987,27.0,6-6,265.0,"Tennessee,Marshall",TE,14,10.0,3.0,0.0,Buffalos,2014
+42,51.0,Brandon Spikes,9/3/1987,27.0,6-3,250.0,Florida,MLB,16,10.0,4.0,6.0,Buffalos,2014
+43,28.0,C.J. Spiller,8/5/1987,27.0,5-11,194.0,Clemson,RB,9,5.0,4.0,4.0,Buffalos,2014
+44,38.0,Frank Summers,9/6/1985,29.0,5-10,240.0,UNLV,RB,10,6.0,5.0,0.0,Buffalos,2014
+45,11.0,Marcus Thigpen,5/15/1986,28.0,5-9,193.0,Indiana,RB,5,0.0,2.0,1.0,Buffalos,2014
+46,80.0,Deonte Thompson,2/14/1989,25.0,6-0,204.0,Florida,WR,1,0.0,2.0,0.0,Buffalos,2014
+47,60.0,Kraig Urbik,9/23/1985,29.0,6-5,323.0,Wisconsin,LG,16,9.0,4.0,4.0,Buffalos,2014
+48,14.0,Sammy Watkins,6/14/1993,21.0,6-1,211.0,Clemson,WR,16,16.0,0.0,8.0,Buffalos,2014
+49,23.0,Aaron Williams,4/23/1990,24.0,6-0,195.0,Texas,FS,15,14.0,3.0,5.0,Buffalos,2014
+50,74.0,Chris Williams,8/26/1985,29.0,6-6,326.0,Vanderbilt,T,3,3.0,6.0,1.0,Buffalos,2014
+51,27.0,Duke Williams,10/15/1990,24.0,5-11,201.0,Nevada,DB,16,4.0,1.0,3.0,Buffalos,2014
+52,95.0,Kyle Williams,6/10/1983,31.0,6-1,303.0,LSU,LDT,15,15.0,8.0,12.0,Buffalos,2014
+53,94.0,Mario Williams,1/31/1985,29.0,6-6,300.0,North Carolina St.,LDE,16,16.0,8.0,19.0,Buffalos,2014
+54,19.0,Mike Williams,5/18/1987,27.0,6-2,204.0,Syracuse,WR,9,0.0,4.0,1.0,Buffalos,2014
+55,70.0,Eric Wood,3/18/1986,28.0,6-4,310.0,Louisville,C,16,16.0,5.0,7.0,Buffalos,2014
+56,10.0,Robert Woods,4/10/1992,22.0,6-0,195.0,USC,WR,16,15.0,1.0,5.0,Buffalos,2014
+57,92.0,Jarius Wynn,8/29/1986,28.0,6-5,273.0,"Georgia Military,Georgia",DE,11,1.0,5.0,2.0,Buffalos,2014
+58,,Team Total,,26.1,6-2.1,244.9,,,16,,3.1,,Buffalos,2014

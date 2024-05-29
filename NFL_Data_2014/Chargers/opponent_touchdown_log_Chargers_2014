@@ -1,39 +1,39 @@
-,Rank,Team,Date,Opponent,Win/Loss,Score,Quarter,Distance,Type,Detail,Year
-0,1,Chargers,09/08/2014,ARI,Loss, 17-18,4,5.0,pass,Stepfan Taylor,2014
-1,2,Chargers,09/08/2014,ARI,Loss, 17-18,4,13.0,pass,John Brown,2014
-2,3,Chargers,09/14/2014,SEA,Win, 30-21,1,51.0,rush,Percy Harvin,2014
-3,4,Chargers,09/14/2014,SEA,Win, 30-21,2,3.0,pass,Robert Turbin,2014
-4,5,Chargers,09/14/2014,SEA,Win, 30-21,3,14.0,pass,Marshawn Lynch,2014
-5,6,Chargers,09/21/2014,BUF,Win, 22-10,3,11.0,pass,Fred Jackson,2014
-6,7,Chargers,09/28/2014,JAX,Win, 33-14,2,1.0,rush,Toby Gerhart,2014
-7,8,Chargers,09/28/2014,JAX,Win, 33-14,2,2.0,pass,Nic Jacobs,2014
-8,9,Chargers,10/12/2014,OAK,Win, 31-28,1,77.0,pass,Andre Holmes,2014
-9,10,Chargers,10/12/2014,OAK,Win, 31-28,2,6.0,pass,James Jones,2014
-10,11,Chargers,10/12/2014,OAK,Win, 31-28,3,47.0,pass,Brice Butler,2014
-11,12,Chargers,10/12/2014,OAK,Win, 31-28,4,6.0,pass,Andre Holmes,2014
-12,13,Chargers,10/19/2014,KAN,Loss, 20-23,2,16.0,rush,Jamaal Charles,2014
-13,14,Chargers,10/19/2014,KAN,Loss, 20-23,4,11.0,pass,Anthony Sherman,2014
-14,15,Chargers,10/23/2014,DEN,Loss, 21-35,2,2.0,pass,Emmanuel Sanders,2014
-15,16,Chargers,10/23/2014,DEN,Loss, 21-35,2,31.0,pass,Emmanuel Sanders,2014
-16,17,Chargers,10/23/2014,DEN,Loss, 21-35,3,3.0,pass,Emmanuel Sanders,2014
-17,18,Chargers,10/23/2014,DEN,Loss, 21-35,3,2.0,rush,Juwan Thompson,2014
-18,19,Chargers,10/23/2014,DEN,Loss, 21-35,4,1.0,rush,Juwan Thompson,2014
-19,20,Chargers,11/02/2014,MIA,Loss, 0-37,1,6.0,pass,Charles Clay,2014
-20,21,Chargers,11/02/2014,MIA,Loss, 0-37,2,2.0,rush,Lamar Miller,2014
-21,22,Chargers,11/02/2014,MIA,Loss, 0-37,3,21.0,pass,Rishard Matthews,2014
-22,23,Chargers,11/02/2014,MIA,Loss, 0-37,3,14.0,pass,Jarvis Landry,2014
-23,24,Chargers,11/23/2014,STL,Win, 27-24,2,99.0,interception,Jackrabbit Jenkins,2014
-24,25,Chargers,11/23/2014,STL,Win, 27-24,3,6.0,rush,Tavon Austin,2014
-25,26,Chargers,11/23/2014,STL,Win, 27-24,4,7.0,pass,Stedman Bailey,2014
-26,27,Chargers,11/30/2014,BAL,Win, 34-33,1,16.0,pass,Torrey Smith,2014
-27,28,Chargers,11/30/2014,BAL,Win, 34-33,3,10.0,pass,Torrey Smith,2014
-28,29,Chargers,11/30/2014,BAL,Win, 34-33,4,1.0,rush,Joe Flacco,2014
-29,30,Chargers,12/07/2014,NWE,Loss, 14-23,2,14.0,pass,Rob Gronkowski,2014
-30,31,Chargers,12/07/2014,NWE,Loss, 14-23,4,69.0,pass,Julian Edelman,2014
-31,32,Chargers,12/14/2014,DEN,Loss, 10-22,3,28.0,pass,Demaryius Thomas,2014
-32,33,Chargers,12/20/2014,SFO,Win, 38-35,1,52.0,rush,Frank Gore,2014
-33,34,Chargers,12/20/2014,SFO,Win, 38-35,2,8.0,pass,Bruce Ellington,2014
-34,35,Chargers,12/20/2014,SFO,Win, 38-35,2,49.0,interception,Antoine Bethea,2014
-35,36,Chargers,12/20/2014,SFO,Win, 38-35,2,1.0,rush,Bruce Ellington,2014
-36,37,Chargers,12/20/2014,SFO,Win, 38-35,3,90.0,rush,Colin Kaepernick,2014
-37,38,Chargers,12/28/2014,KAN,Loss, 7-19,2,,fumble,Travis Kelce,2014
+,Rank,Team,Date,Opponent,Win/Loss,Home_Score,Opponenet_Score,Quarter,Distance,Type,Detail
+1,1,Chargers,2014-09-08,ARI,Loss,17,18,4,5,pass,Stepfan Taylor
+2,2,Chargers,2014-09-08,ARI,Loss,17,18,4,13,pass,John Brown
+3,3,Chargers,2014-09-14,SEA,Win,30,21,1,51,rush,Percy Harvin
+4,4,Chargers,2014-09-14,SEA,Win,30,21,2,3,pass,Robert Turbin
+5,5,Chargers,2014-09-14,SEA,Win,30,21,3,14,pass,Marshawn Lynch
+6,6,Chargers,2014-09-21,BUF,Win,22,10,3,11,pass,Fred Jackson
+7,7,Chargers,2014-09-28,JAX,Win,33,14,2,1,rush,Toby Gerhart
+8,8,Chargers,2014-09-28,JAX,Win,33,14,2,2,pass,Nic Jacobs
+9,9,Chargers,2014-10-12,OAK,Win,31,28,1,77,pass,Andre Holmes
+10,10,Chargers,2014-10-12,OAK,Win,31,28,2,6,pass,James Jones
+11,11,Chargers,2014-10-12,OAK,Win,31,28,3,47,pass,Brice Butler
+12,12,Chargers,2014-10-12,OAK,Win,31,28,4,6,pass,Andre Holmes
+13,13,Chargers,2014-10-19,KAN,Loss,20,23,2,16,rush,Jamaal Charles
+14,14,Chargers,2014-10-19,KAN,Loss,20,23,4,11,pass,Anthony Sherman
+15,15,Chargers,2014-10-23,DEN,Loss,21,35,2,2,pass,Emmanuel Sanders
+16,16,Chargers,2014-10-23,DEN,Loss,21,35,2,31,pass,Emmanuel Sanders
+17,17,Chargers,2014-10-23,DEN,Loss,21,35,3,3,pass,Emmanuel Sanders
+18,18,Chargers,2014-10-23,DEN,Loss,21,35,3,2,rush,Juwan Thompson
+19,19,Chargers,2014-10-23,DEN,Loss,21,35,4,1,rush,Juwan Thompson
+20,20,Chargers,2014-11-02,MIA,Loss,0,37,1,6,pass,Charles Clay
+21,21,Chargers,2014-11-02,MIA,Loss,0,37,2,2,rush,Lamar Miller
+22,22,Chargers,2014-11-02,MIA,Loss,0,37,3,21,pass,Rishard Matthews
+23,23,Chargers,2014-11-02,MIA,Loss,0,37,3,14,pass,Jarvis Landry
+24,24,Chargers,2014-11-23,STL,Win,27,24,2,99,interception,Jackrabbit Jenkins
+25,25,Chargers,2014-11-23,STL,Win,27,24,3,6,rush,Tavon Austin
+26,26,Chargers,2014-11-23,STL,Win,27,24,4,7,pass,Stedman Bailey
+27,27,Chargers,2014-11-30,BAL,Win,34,33,1,16,pass,Torrey Smith
+28,28,Chargers,2014-11-30,BAL,Win,34,33,3,10,pass,Torrey Smith
+29,29,Chargers,2014-11-30,BAL,Win,34,33,4,1,rush,Joe Flacco
+30,30,Chargers,2014-12-07,NWE,Loss,14,23,2,14,pass,Rob Gronkowski
+31,31,Chargers,2014-12-07,NWE,Loss,14,23,4,69,pass,Julian Edelman
+32,32,Chargers,2014-12-14,DEN,Loss,10,22,3,28,pass,Demaryius Thomas
+33,33,Chargers,2014-12-20,SFO,Win,38,35,1,52,rush,Frank Gore
+34,34,Chargers,2014-12-20,SFO,Win,38,35,2,8,pass,Bruce Ellington
+35,35,Chargers,2014-12-20,SFO,Win,38,35,2,49,interception,Antoine Bethea
+36,36,Chargers,2014-12-20,SFO,Win,38,35,2,1,rush,Bruce Ellington
+37,37,Chargers,2014-12-20,SFO,Win,38,35,3,90,rush,Colin Kaepernick
+38,38,Chargers,2014-12-28,KAN,Loss,7,19,2,0,fumble,Travis Kelce
