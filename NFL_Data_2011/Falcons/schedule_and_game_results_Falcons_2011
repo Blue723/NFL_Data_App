@@ -1,20 +1,18 @@
-,Week,Team,Day,Date,Time,Win/Loss,Overtime,Team Record,Home/Away,Opponent,Points Scored,Points Allowed,Offense 1st Down,Total Yards Gained of Offense,Total yards Gained by Passing,Total Yards Gained by Rushing,Offense Turnovers,Defense 1st Down,Total Yards Allowed by Defense,Total Passing Yards Allowed by Defense,Total Rushing Yards Allowed by Defense,Defense Turnovers,Offense,Defense,Sp. Tms,Year
-0,0,Falcons,Sun,September 11,,L,0,0-1,away,Chicago Bears,12,30,25,386,276,110,3,17,377,289,88,1,-12.68,3.29,-3.96,2011
-1,1,Falcons,Sun,September 18,,W,0,1-1,home,Philadelphia Eagles,35,31,20,318,180,138,2,27,447,314,133,3,3.02,-4.2,0.75,2011
-2,2,Falcons,Sun,September 25,,L,0,1-2,away,Tampa Bay Buccaneers,13,16,21,325,295,30,3,20,295,180,115,2,-4.5,6.25,-5.21,2011
-3,3,Falcons,Sun,October 2,,W,0,2-2,away,Seattle Seahawks,30,28,25,412,291,121,0,20,372,319,53,2,15.28,-12.84,1.28,2011
-4,4,Falcons,Sun,October 9,,L,0,2-3,home,Green Bay Packers,14,25,18,251,156,95,2,19,426,369,57,1,-2.87,-9.79,-0.37,2011
-5,5,Falcons,Sun,October 16,,W,0,3-3,home,Carolina Panthers,31,17,24,325,159,166,0,24,368,229,139,3,20.34,-6.7,1.43,2011
-6,6,Falcons,Sun,October 23,,W,0,4-3,away,Detroit Lions,23,16,22,328,199,129,2,13,263,159,104,1,-0.76,6.33,2.34,2011
-7,7,Falcons,,,,,0,,home,<strong>Bye Week</strong>,0,0,0,0,0,0,0,0,0,0,0,0,,,,2011
-8,8,Falcons,Sun,November 6,,W,0,5-3,away,Indianapolis Colts,31,7,21,432,269,163,1,10,186,103,83,2,9.51,18.38,-2.13,2011
-9,9,1,1,1,1.0,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1.0,1.0,1.0,1
-10,10,Falcons,Sun,November 20,,W,0,6-4,home,Tennessee Titans,23,17,25,432,316,116,1,17,298,257,41,1,14.09,-5.14,-3.34,2011
-11,11,Falcons,Sun,November 27,,W,0,7-4,home,Minnesota Vikings,24,14,22,335,246,89,1,12,226,162,64,0,9.56,8.27,-10.74,2011
-12,12,Falcons,Sun,December 4,,L,0,7-5,away,Houston Texans,10,17,18,337,267,70,2,20,337,175,162,1,-6.69,-2.56,4.22,2011
-13,13,Falcons,Sun,December 11,,W,0,8-5,away,Carolina Panthers,31,23,18,394,308,86,0,19,416,259,157,2,9.56,-1.81,2.31,2011
-14,14,Falcons,Thu,December 15,,W,0,9-5,home,Jacksonville Jaguars,41,14,20,373,276,97,0,12,207,91,116,4,8.08,17.66,-0.07,2011
-15,15,Falcons,Mon,December 26,,L,0,9-6,away,New Orleans Saints,16,45,23,469,434,35,1,26,463,299,164,2,-0.73,-23.71,-0.51,2011
-16,16,Falcons,Sun,January 1,,W,0,10-6,home,Tampa Bay Buccaneers,45,24,22,428,177,251,2,18,294,259,35,4,13.63,14.6,-1.63,2011
-17,17,Falcons,,<strong>Playoffs</strong>,,,0,,home,,0,0,0,0,0,0,0,0,0,0,0,0,,,,2011
-18,18,Falcons,Sun,January 8,,L,0,10-7,away,New York Giants,2,24,14,247,183,64,0,19,442,270,172,0,-13.58,-16.19,9.51,2011
+,Week,Day,Date,Time,Win/Loss,Overtime,Team Record,Home/Away,Opponent,Points Scored,Points Allowed,Offense 1st Down,Total Yards Gained of Offense,Total yards Gained by Passing,Total Yards Gained by Rushing,Offense Turnovers,Defense 1st Down,Total Yards Allowed by Defense,Total Passing Yards Allowed by Defense,Total Rushing Yards Allowed by Defense,Defense Turnovers,Offense,Defense,Sp. Tms,Team,Year
+0,1,Sun,2011-09-11,nan,Loss,0,0-1,away,Chicago Bears,12,30,25,386,276,110,3,17,377,289,88,1,-12.68,3.29,-3.96,Falcons,2011
+1,2,Sun,2011-09-18,nan,Win,0,1-1,home,Philadelphia Eagles,35,31,20,318,180,138,2,27,447,314,133,3,3.02,-4.2,0.75,Falcons,2011
+2,3,Sun,2011-09-25,nan,Loss,0,1-2,away,Tampa Bay Buccaneers,13,16,21,325,295,30,3,20,295,180,115,2,-4.5,6.25,-5.21,Falcons,2011
+3,4,Sun,2011-10-02,nan,Win,0,2-2,away,Seattle Seahawks,30,28,25,412,291,121,0,20,372,319,53,2,15.28,-12.84,1.28,Falcons,2011
+4,5,Sun,2011-10-09,nan,Loss,0,2-3,home,Green Bay Packers,14,25,18,251,156,95,2,19,426,369,57,1,-2.87,-9.79,-0.37,Falcons,2011
+5,6,Sun,2011-10-16,nan,Win,0,3-3,home,Carolina Panthers,31,17,24,325,159,166,0,24,368,229,139,3,20.34,-6.7,1.43,Falcons,2011
+6,7,Sun,2011-10-23,nan,Win,0,4-3,away,Detroit Lions,23,16,22,328,199,129,2,13,263,159,104,1,-0.76,6.33,2.34,Falcons,2011
+7,9,Sun,2011-11-06,nan,Win,0,5-3,away,Indianapolis Colts,31,7,21,432,269,163,1,10,186,103,83,2,9.51,18.38,-2.13,Falcons,2011
+8,10,Sun,2011-11-13,nan,Loss,1,5-4,home,New Orleans Saints,23,26,30,481,343,138,1,18,363,322,41,0,6.34,-7.78,-0.62,Falcons,2011
+9,11,Sun,2011-11-20,nan,Win,0,6-4,home,Tennessee Titans,23,17,25,432,316,116,1,17,298,257,41,1,14.09,-5.14,-3.34,Falcons,2011
+10,12,Sun,2011-11-27,nan,Win,0,7-4,home,Minnesota Vikings,24,14,22,335,246,89,1,12,226,162,64,0,9.56,8.27,-10.74,Falcons,2011
+11,13,Sun,2011-12-04,nan,Loss,0,7-5,away,Houston Texans,10,17,18,337,267,70,2,20,337,175,162,1,-6.69,-2.56,4.22,Falcons,2011
+12,14,Sun,2011-12-11,nan,Win,0,8-5,away,Carolina Panthers,31,23,18,394,308,86,0,19,416,259,157,2,9.56,-1.81,2.31,Falcons,2011
+13,15,Thu,2011-12-15,nan,Win,0,9-5,home,Jacksonville Jaguars,41,14,20,373,276,97,0,12,207,91,116,4,8.08,17.66,-0.07,Falcons,2011
+14,16,Mon,2011-12-26,nan,Loss,0,9-6,away,New Orleans Saints,16,45,23,469,434,35,1,26,463,299,164,2,-0.73,-23.71,-0.51,Falcons,2011
+15,17,Sun,2012-01-01,nan,Win,0,10-6,home,Tampa Bay Buccaneers,45,24,22,428,177,251,2,18,294,259,35,4,13.63,14.6,-1.63,Falcons,2011
+16,19,Sun,2012-01-08,nan,Loss,0,10-7,away,New York Giants,2,24,14,247,183,64,0,19,442,270,172,0,-13.58,-16.19,9.51,Falcons,2011

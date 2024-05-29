@@ -1,21 +1,21 @@
-,Rank,Team,Date,Opponent,Win/Loss,Score,Quarter,Distance,Type,Detail,Year
-0,1,Chiefs,09/11/2011,BUF,Loss, 7-41,2,6,pass,Jamaal Charles,2011
-1,2,Chiefs,09/25/2011,SDG,Loss, 17-20,3,4,pass,Dwayne Bowe,2011
-2,3,Chiefs,09/25/2011,SDG,Loss, 17-20,4,1,pass,Leonard Pope,2011
-3,4,Chiefs,10/02/2011,MIN,Win, 22-17,4,52,pass,Dwayne Bowe,2011
-4,5,Chiefs,10/09/2011,IND,Win, 28-24,2,41,pass,Dwayne Bowe,2011
-5,6,Chiefs,10/09/2011,IND,Win, 28-24,2,16,pass,Steve Breaston,2011
-6,7,Chiefs,10/09/2011,IND,Win, 28-24,3,5,pass,Dwayne Bowe,2011
-7,8,Chiefs,10/09/2011,IND,Win, 28-24,4,11,pass,Steve Breaston,2011
-8,9,Chiefs,10/23/2011,OAK,Win, 28-0,1,59,interception,Kendrick Lewis,2011
-9,10,Chiefs,10/23/2011,OAK,Win, 28-0,1,1,rush,Le'Ron McClain,2011
-10,11,Chiefs,10/23/2011,OAK,Win, 28-0,3,7,rush,Javier Arenas,2011
-11,12,Chiefs,10/23/2011,OAK,Win, 28-0,4,58,interception,Brandon Flowers,2011
-12,13,Chiefs,10/31/2011,SDG,Win, 23-20,1,39,pass,Jonathan Baldwin,2011
-13,14,Chiefs,10/31/2011,SDG,Win, 23-20,4,1,rush,Jackie Battle,2011
-14,15,Chiefs,11/13/2011,DEN,Loss, 10-17,3,1,pass,Le'Ron McClain,2011
-15,16,Chiefs,12/04/2011,CHI,Win, 10-3,2,38,pass,Dexter McCluster,2011
-16,17,Chiefs,12/11/2011,NYJ,Loss, 10-37,4,24,pass,Jerheme Urban,2011
-17,18,Chiefs,12/18/2011,GNB,Win, 19-14,4,1,rush,Jackie Battle,2011
-18,19,Chiefs,12/24/2011,OAK,Loss, 13-16,4,3,pass,Dwayne Bowe,2011
-19,20,Chiefs,01/01/2012,DEN,Win, 7-3,1,21,rush,Dexter McCluster,2011
+,Rank,Team,Date,Opponent,Win/Loss,Home_Score,Opponenet_Score,Quarter,Distance,Type,Detail
+1,1,Chiefs,2011-09-11,BUF,Loss,7,41,2,6,pass,Jamaal Charles
+2,2,Chiefs,2011-09-25,SDG,Loss,17,20,3,4,pass,Dwayne Bowe
+3,3,Chiefs,2011-09-25,SDG,Loss,17,20,4,1,pass,Leonard Pope
+4,4,Chiefs,2011-10-02,MIN,Win,22,17,4,52,pass,Dwayne Bowe
+5,5,Chiefs,2011-10-09,IND,Win,28,24,2,41,pass,Dwayne Bowe
+6,6,Chiefs,2011-10-09,IND,Win,28,24,2,16,pass,Steve Breaston
+7,7,Chiefs,2011-10-09,IND,Win,28,24,3,5,pass,Dwayne Bowe
+8,8,Chiefs,2011-10-09,IND,Win,28,24,4,11,pass,Steve Breaston
+9,9,Chiefs,2011-10-23,OAK,Win,28,0,1,59,interception,Kendrick Lewis
+10,10,Chiefs,2011-10-23,OAK,Win,28,0,1,1,rush,Le'Ron McClain
+11,11,Chiefs,2011-10-23,OAK,Win,28,0,3,7,rush,Javier Arenas
+12,12,Chiefs,2011-10-23,OAK,Win,28,0,4,58,interception,Brandon Flowers
+13,13,Chiefs,2011-10-31,SDG,Win,23,20,1,39,pass,Jonathan Baldwin
+14,14,Chiefs,2011-10-31,SDG,Win,23,20,4,1,rush,Jackie Battle
+15,15,Chiefs,2011-11-13,DEN,Loss,10,17,3,1,pass,Le'Ron McClain
+16,16,Chiefs,2011-12-04,CHI,Win,10,3,2,38,pass,Dexter McCluster
+17,17,Chiefs,2011-12-11,NYJ,Loss,10,37,4,24,pass,Jerheme Urban
+18,18,Chiefs,2011-12-18,GNB,Win,19,14,4,1,rush,Jackie Battle
+19,19,Chiefs,2011-12-24,OAK,Loss,13,16,4,3,pass,Dwayne Bowe
+20,20,Chiefs,2012-01-01,DEN,Win,7,3,1,21,rush,Dexter McCluster

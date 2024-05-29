@@ -1,20 +1,18 @@
-,Week,Team,Day,Date,Time,Win/Loss,Overtime,Team Record,Home/Away,Opponent,Points Scored,Points Allowed,Offense 1st Down,Total Yards Gained of Offense,Total yards Gained by Passing,Total Yards Gained by Rushing,Offense Turnovers,Defense 1st Down,Total Yards Allowed by Defense,Total Passing Yards Allowed by Defense,Total Rushing Yards Allowed by Defense,Defense Turnovers,Offense,Defense,Sp. Tms,Year
-0,0,Packers,Thu,September 8,,W,0,1-0,home,New Orleans Saints,42,34,27,399,296,103,0,27,477,396,81,1,23.08,-19.92,-1.53,2011
-1,1,Packers,Sun,September 18,,W,0,2-0,away,Carolina Panthers,30,23,16,419,295,124,1,26,475,404,71,4,11.59,-3.46,0.32,2011
-2,2,Packers,Sun,September 25,,W,0,3-0,away,Chicago Bears,27,17,24,392,292,100,2,12,291,278,13,2,1.23,9.17,-1.42,2011
-3,3,Packers,Sun,October 2,,W,0,4-0,home,Denver Broncos,49,23,26,507,396,111,2,18,384,265,119,4,23.98,2.52,0.11,2011
-4,4,Packers,Sun,October 9,,W,0,5-0,away,Atlanta Falcons,25,14,19,426,369,57,1,18,251,156,95,2,9.79,2.87,0.37,2011
-5,5,Packers,Sun,October 16,,W,0,6-0,home,St. Louis Rams,24,3,20,399,309,90,1,22,424,306,118,1,12.19,7.52,3.28,2011
-6,6,Packers,Sun,October 23,,W,0,7-0,away,Minnesota Vikings,33,27,25,421,307,114,1,22,435,217,218,2,18.22,-9.1,-0.22,2011
-7,7,Packers,,,,,0,,home,<strong>Bye Week</strong>,0,0,0,0,0,0,0,0,0,0,0,0,,,,2011
-8,8,Packers,Sun,November 6,,W,0,8-0,away,San Diego Chargers,45,38,21,368,232,136,0,28,460,375,85,3,19.2,-5.3,-1.68,2011
-9,9,Packers,Mon,November 14,,W,0,9-0,home,Minnesota Vikings,45,7,23,356,266,90,1,14,266,162,104,1,22.87,11.17,0.14,2011
-10,10,Packers,Sun,November 20,,W,0,10-0,home,Tampa Bay Buccaneers,35,26,24,378,287,91,1,22,455,334,121,2,17.58,-6.59,1.61,2011
-11,11,Packers,Thu,November 24,,W,0,11-0,away,Detroit Lions,27,15,18,349,296,53,0,23,409,273,136,3,11.14,-3.15,2.4,2011
-12,12,Packers,Sun,December 4,,W,0,12-0,away,New York Giants,38,35,29,449,360,89,1,24,447,347,100,2,20.2,-8.83,-6.3,2011
-13,13,Packers,Sun,December 11,,W,0,13-0,home,Oakland Raiders,46,16,22,391,255,136,1,23,357,240,117,5,13.68,15.21,1.0,2011
-14,14,Packers,Sun,December 18,,L,0,13-1,away,Kansas City Chiefs,14,19,16,315,213,102,0,23,438,299,139,0,1.27,-9.3,1.9,2011
-15,15,Packers,Sun,December 25,,W,0,14-1,home,Chicago Bears,35,21,19,363,282,81,0,24,441,242,199,2,21.06,-10.54,6.03,2011
-16,16,Packers,Sun,January 1,,W,0,15-1,home,Detroit Lions,45,41,27,550,469,81,2,32,575,502,73,4,23.71,-17.18,-2.86,2011
-17,17,Packers,,<strong>Playoffs</strong>,,,0,,home,,0,0,0,0,0,0,0,0,0,0,0,0,,,,2011
-18,18,Packers,Sun,January 15,,L,0,15-2,home,New York Giants,20,37,25,388,241,147,4,19,420,325,95,1,-5.25,-12.89,1.79,2011
+,Week,Day,Date,Time,Win/Loss,Overtime,Team Record,Home/Away,Opponent,Points Scored,Points Allowed,Offense 1st Down,Total Yards Gained of Offense,Total yards Gained by Passing,Total Yards Gained by Rushing,Offense Turnovers,Defense 1st Down,Total Yards Allowed by Defense,Total Passing Yards Allowed by Defense,Total Rushing Yards Allowed by Defense,Defense Turnovers,Offense,Defense,Sp. Tms,Team,Year
+0,1,Thu,2011-09-08,nan,Win,0,1-0,home,New Orleans Saints,42,34,27,399,296,103,0,27,477,396,81,1,23.08,-19.92,-1.53,Packers,2011
+1,2,Sun,2011-09-18,nan,Win,0,2-0,away,Carolina Panthers,30,23,16,419,295,124,1,26,475,404,71,4,11.59,-3.46,0.32,Packers,2011
+2,3,Sun,2011-09-25,nan,Win,0,3-0,away,Chicago Bears,27,17,24,392,292,100,2,12,291,278,13,2,1.23,9.17,-1.42,Packers,2011
+3,4,Sun,2011-10-02,nan,Win,0,4-0,home,Denver Broncos,49,23,26,507,396,111,2,18,384,265,119,4,23.98,2.52,0.11,Packers,2011
+4,5,Sun,2011-10-09,nan,Win,0,5-0,away,Atlanta Falcons,25,14,19,426,369,57,1,18,251,156,95,2,9.79,2.87,0.37,Packers,2011
+5,6,Sun,2011-10-16,nan,Win,0,6-0,home,St. Louis Rams,24,3,20,399,309,90,1,22,424,306,118,1,12.19,7.52,3.28,Packers,2011
+6,7,Sun,2011-10-23,nan,Win,0,7-0,away,Minnesota Vikings,33,27,25,421,307,114,1,22,435,217,218,2,18.22,-9.1,-0.22,Packers,2011
+7,9,Sun,2011-11-06,nan,Win,0,8-0,away,San Diego Chargers,45,38,21,368,232,136,0,28,460,375,85,3,19.2,-5.3,-1.68,Packers,2011
+8,10,Mon,2011-11-14,nan,Win,0,9-0,home,Minnesota Vikings,45,7,23,356,266,90,1,14,266,162,104,1,22.87,11.17,0.14,Packers,2011
+9,11,Sun,2011-11-20,nan,Win,0,10-0,home,Tampa Bay Buccaneers,35,26,24,378,287,91,1,22,455,334,121,2,17.58,-6.59,1.61,Packers,2011
+10,12,Thu,2011-11-24,nan,Win,0,11-0,away,Detroit Lions,27,15,18,349,296,53,0,23,409,273,136,3,11.14,-3.15,2.4,Packers,2011
+11,13,Sun,2011-12-04,nan,Win,0,12-0,away,New York Giants,38,35,29,449,360,89,1,24,447,347,100,2,20.2,-8.83,-6.3,Packers,2011
+12,14,Sun,2011-12-11,nan,Win,0,13-0,home,Oakland Raiders,46,16,22,391,255,136,1,23,357,240,117,5,13.68,15.21,1.0,Packers,2011
+13,15,Sun,2011-12-18,nan,Loss,0,13-1,away,Kansas City Chiefs,14,19,16,315,213,102,0,23,438,299,139,0,1.27,-9.3,1.9,Packers,2011
+14,16,Sun,2011-12-25,nan,Win,0,14-1,home,Chicago Bears,35,21,19,363,282,81,0,24,441,242,199,2,21.06,-10.54,6.03,Packers,2011
+15,17,Sun,2012-01-01,nan,Win,0,15-1,home,Detroit Lions,45,41,27,550,469,81,2,32,575,502,73,4,23.71,-17.18,-2.86,Packers,2011
+16,19,Sun,2012-01-15,nan,Loss,0,15-2,home,New York Giants,20,37,25,388,241,147,4,19,420,325,95,1,-5.25,-12.89,1.79,Packers,2011

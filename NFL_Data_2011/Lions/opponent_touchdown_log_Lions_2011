@@ -1,43 +1,43 @@
-,Rank,Team,Date,Opponent,Win/Loss,Score,Quarter,Distance,Type,Detail,Year
-0,1,Lions,09/11/2011,TAM,Win, 27-20,1,28,interception,Aqib Talib,2011
-1,2,Lions,09/11/2011,TAM,Win, 27-20,4,6,pass,Mike Williams,2011
-2,3,Lions,09/25/2011,MIN,Win, 26-23,2,6,rush,Adrian Peterson,2011
-3,4,Lions,09/25/2011,MIN,Win, 26-23,2,8,pass,Visanthe Shiancoe,2011
-4,5,Lions,10/02/2011,DAL,Win, 34-30,1,25,pass,Dez Bryant,2011
-5,6,Lions,10/02/2011,DAL,Win, 34-30,2,6,pass,Dez Bryant,2011
-6,7,Lions,10/02/2011,DAL,Win, 34-30,3,1,pass,Jason Witten,2011
-7,8,Lions,10/10/2011,CHI,Win, 24-13,2,9,pass,Kellen Davis,2011
-8,9,Lions,10/16/2011,SFO,Loss, 19-25,2,1,rush,Frank Gore,2011
-9,10,Lions,10/16/2011,SFO,Loss, 19-25,4,6,pass,Delanie Walker,2011
-10,11,Lions,10/23/2011,ATL,Loss, 16-23,1,1,rush,Matt Ryan,2011
-11,12,Lions,10/23/2011,ATL,Loss, 16-23,2,18,pass,Roddy White,2011
-12,13,Lions,10/30/2011,DEN,Win, 45-10,4,14,pass,Eric Decker,2011
-13,14,Lions,11/13/2011,CHI,Loss, 13-37,1,6,rush,Matt Forte,2011
-14,15,Lions,11/13/2011,CHI,Loss, 13-37,2,82,punt,Devin Hester,2011
-15,16,Lions,11/13/2011,CHI,Loss, 13-37,3,24,interception,Major Wright,2011
-16,17,Lions,11/13/2011,CHI,Loss, 13-37,3,44,interception,Charles Tillman,2011
-17,18,Lions,11/20/2011,CAR,Win, 49-35,1,15,pass,Steve Smith Sr.,2011
-18,19,Lions,11/20/2011,CAR,Win, 49-35,2,101,kickoff,Kealoha Pilares,2011
-19,20,Lions,11/20/2011,CAR,Win, 49-35,2,11,rush,Cam Newton,2011
-20,21,Lions,11/20/2011,CAR,Win, 49-35,4,6,rush,Cam Newton,2011
-21,22,Lions,11/24/2011,GNB,Loss, 15-27,2,3,pass,Greg Jennings,2011
-22,23,Lions,11/24/2011,GNB,Loss, 15-27,3,1,rush,John Kuhn,2011
-23,24,Lions,11/24/2011,GNB,Loss, 15-27,3,65,pass,James Jones,2011
-24,25,Lions,12/04/2011,NOR,Loss, 17-31,2,14,rush,Mark Ingram,2011
-25,26,Lions,12/04/2011,NOR,Loss, 17-31,2,67,pass,Robert Meachem,2011
-26,27,Lions,12/04/2011,NOR,Loss, 17-31,2,20,pass,Lance Moore,2011
-27,28,Lions,12/04/2011,NOR,Loss, 17-31,4,6,pass,Darren Sproles,2011
-28,29,Lions,12/11/2011,MIN,Win, 34-28,1,7,pass,Visanthe Shiancoe,2011
-29,30,Lions,12/11/2011,MIN,Win, 34-28,2,6,pass,Percy Harvin,2011
-30,31,Lions,12/11/2011,MIN,Win, 34-28,3,65,rush,Joe Webb,2011
-31,32,Lions,12/11/2011,MIN,Win, 34-28,4,2,pass,Toby Gerhart,2011
-32,33,Lions,12/18/2011,OAK,Win, 28-27,1,12,rush,Louis Murphy,2011
-33,34,Lions,12/18/2011,OAK,Win, 28-27,2,43,pass,Darrius Heyward-Bey,2011
-34,35,Lions,12/18/2011,OAK,Win, 28-27,4,6,fumble,Aaron Curry,2011
-35,36,Lions,12/24/2011,SDG,Win, 38-10,3,11,pass,Malcom Floyd,2011
-36,37,Lions,01/01/2012,GNB,Loss, 41-45,1,7,pass,Jordy Nelson,2011
-37,38,Lions,01/01/2012,GNB,Loss, 41-45,2,80,pass,Ryan Grant,2011
-38,39,Lions,01/01/2012,GNB,Loss, 41-45,2,36,pass,Jordy Nelson,2011
-39,40,Lions,01/01/2012,GNB,Loss, 41-45,3,58,pass,Jordy Nelson,2011
-40,41,Lions,01/01/2012,GNB,Loss, 41-45,4,35,pass,Donald Driver,2011
-41,42,Lions,01/01/2012,GNB,Loss, 41-45,4,4,pass,Jermichael Finley,2011
+,Rank,Team,Date,Opponent,Win/Loss,Home_Score,Opponenet_Score,Quarter,Distance,Type,Detail
+1,1,Lions,2011-09-11,TAM,Win,27,20,1,28,interception,Aqib Talib
+2,2,Lions,2011-09-11,TAM,Win,27,20,4,6,pass,Mike Williams
+3,3,Lions,2011-09-25,MIN,Win,26,23,2,6,rush,Adrian Peterson
+4,4,Lions,2011-09-25,MIN,Win,26,23,2,8,pass,Visanthe Shiancoe
+5,5,Lions,2011-10-02,DAL,Win,34,30,1,25,pass,Dez Bryant
+6,6,Lions,2011-10-02,DAL,Win,34,30,2,6,pass,Dez Bryant
+7,7,Lions,2011-10-02,DAL,Win,34,30,3,1,pass,Jason Witten
+8,8,Lions,2011-10-10,CHI,Win,24,13,2,9,pass,Kellen Davis
+9,9,Lions,2011-10-16,SFO,Loss,19,25,2,1,rush,Frank Gore
+10,10,Lions,2011-10-16,SFO,Loss,19,25,4,6,pass,Delanie Walker
+11,11,Lions,2011-10-23,ATL,Loss,16,23,1,1,rush,Matt Ryan
+12,12,Lions,2011-10-23,ATL,Loss,16,23,2,18,pass,Roddy White
+13,13,Lions,2011-10-30,DEN,Win,45,10,4,14,pass,Eric Decker
+14,14,Lions,2011-11-13,CHI,Loss,13,37,1,6,rush,Matt Forte
+15,15,Lions,2011-11-13,CHI,Loss,13,37,2,82,punt,Devin Hester
+16,16,Lions,2011-11-13,CHI,Loss,13,37,3,24,interception,Major Wright
+17,17,Lions,2011-11-13,CHI,Loss,13,37,3,44,interception,Charles Tillman
+18,18,Lions,2011-11-20,CAR,Win,49,35,1,15,pass,Steve Smith Sr.
+19,19,Lions,2011-11-20,CAR,Win,49,35,2,101,kickoff,Kealoha Pilares
+20,20,Lions,2011-11-20,CAR,Win,49,35,2,11,rush,Cam Newton
+21,21,Lions,2011-11-20,CAR,Win,49,35,4,6,rush,Cam Newton
+22,22,Lions,2011-11-24,GNB,Loss,15,27,2,3,pass,Greg Jennings
+23,23,Lions,2011-11-24,GNB,Loss,15,27,3,1,rush,John Kuhn
+24,24,Lions,2011-11-24,GNB,Loss,15,27,3,65,pass,James Jones
+25,25,Lions,2011-12-04,NOR,Loss,17,31,2,14,rush,Mark Ingram
+26,26,Lions,2011-12-04,NOR,Loss,17,31,2,67,pass,Robert Meachem
+27,27,Lions,2011-12-04,NOR,Loss,17,31,2,20,pass,Lance Moore
+28,28,Lions,2011-12-04,NOR,Loss,17,31,4,6,pass,Darren Sproles
+29,29,Lions,2011-12-11,MIN,Win,34,28,1,7,pass,Visanthe Shiancoe
+30,30,Lions,2011-12-11,MIN,Win,34,28,2,6,pass,Percy Harvin
+31,31,Lions,2011-12-11,MIN,Win,34,28,3,65,rush,Joe Webb
+32,32,Lions,2011-12-11,MIN,Win,34,28,4,2,pass,Toby Gerhart
+33,33,Lions,2011-12-18,OAK,Win,28,27,1,12,rush,Louis Murphy
+34,34,Lions,2011-12-18,OAK,Win,28,27,2,43,pass,Darrius Heyward-Bey
+35,35,Lions,2011-12-18,OAK,Win,28,27,4,6,fumble,Aaron Curry
+36,36,Lions,2011-12-24,SDG,Win,38,10,3,11,pass,Malcom Floyd
+37,37,Lions,2012-01-01,GNB,Loss,41,45,1,7,pass,Jordy Nelson
+38,38,Lions,2012-01-01,GNB,Loss,41,45,2,80,pass,Ryan Grant
+39,39,Lions,2012-01-01,GNB,Loss,41,45,2,36,pass,Jordy Nelson
+40,40,Lions,2012-01-01,GNB,Loss,41,45,3,58,pass,Jordy Nelson
+41,41,Lions,2012-01-01,GNB,Loss,41,45,4,35,pass,Donald Driver
+42,42,Lions,2012-01-01,GNB,Loss,41,45,4,4,pass,Jermichael Finley

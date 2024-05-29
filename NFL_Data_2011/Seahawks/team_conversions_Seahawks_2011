@@ -1,5 +1,5 @@
-,Player,Team,3rd Down Attempts in Game,3rd Down Conversions,3rd Down Conversion Per.,4th Down Attempts in Game,4th Down Conversions in Game,4th Down Conversion Per.,Red Zone Attempts,Touchdowns Scored After the Team Entered the Red Zone,Per. of the Time a Team Reaches the Red Zone and Scores a Touchdown,Year
-0,Team Stats,Seahawks,228.0,77.0,33.8,15.0,7.0,46.7,46.0,22.0,47.8,2011.0
-1,Opp. Stats,Seahawks,221.0,77.0,34.8,11.0,7.0,63.6,39.0,19.0,48.7,2011.0
-2,Lg Rank Offense,Seahawks,,,24.0,,,12.0,,,22.0,2011.0
-3,Lg Rank Defense,Seahawks,,,9.0,,,30.0,,,11.0,2011.0
+,Player,3rd Down Attempts in Game,3rd Down Conversions,3rd Down Conversion Per.,4th Down Attempts in Game,4th Down Conversions in Game,4th Down Conversion Per.,Red Zone Attempts,Touchdowns Scored After the Team Entered the Red Zone,Per. of the Time a Team Reaches the Red Zone and Scores a Touchdown,Team,Year
+Team Stats,Team Stats,228.0,77.0,33.8,15.0,7.0,46.7,46.0,22.0,47.8,Seahawks,2011
+Opp. Stats,Opp. Stats,221.0,77.0,34.8,11.0,7.0,63.6,39.0,19.0,48.7,Seahawks,2011
+Lg Rank Offense,Lg Rank Offense,0.0,0.0,24.0,0.0,0.0,12.0,0.0,0.0,22,Seahawks,2011
+Lg Rank Defense,Lg Rank Defense,0.0,0.0,9.0,0.0,0.0,30.0,0.0,0.0,11,Seahawks,2011

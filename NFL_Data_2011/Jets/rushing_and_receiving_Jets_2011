@@ -1,18 +1,18 @@
-,No.,Team,Player,Age,Position,Games Played,Games Started as an Offensive or Defensive Player,Rushing Attempts,Rushing Yards Gained,Rushing Touchdown,First Downs Rushing,Rushing Success Rate,Longest Rushing Attempt,Rushing Yards per Attempt,Rushing Yards per Game,Rushing Attempts per Game,Pass Targets,Receptions,Receiving Yards,Receiving Yards per Reception,Receiving Touchdowns,First Downs Receiving,Receiving Success Rate,Longest Reception,Receptions per Game,Receiving Yards per Game,Catch Per.,Receiving Yards per Target,Touches: Rushing Attempts and Receptions,Scrimmage Yards per Touch: Rushing + Receiving Yardage per Opportunity,Yards from Scrimmage: Receiving and Rushing Yards,Rushing and Receiving Touchdowns,Lost and Recovered Fumbles,Year
-0,23,Jets,Shonn Greene,26,RB,16,15,253,1054,6,46,47.4,31,4.2,65.9,15.8,41,30,211,7.0,0,7,53.7,36,1.9,13.2,73.2,5.1,283,4.5,1265,6,1,2011
-1,21,Jets,LaDainian Tomlinson,32,RB,14,1,75,280,1,15,45.3,20,3.7,20.0,5.4,61,42,449,10.7,2,12,31.1,74,3.0,32.1,68.9,7.4,117,6.2,729,3,0,2011
-2,25,Jets,Joe McKnight,23,RB,15,0,43,134,0,8,39.5,11,3.1,8.9,2.9,18,13,139,10.7,0,7,55.6,27,0.9,9.3,72.2,7.7,56,4.9,273,0,3,2011
-3,6,Jets,Mark Sanchez,25,QB,16,16,37,103,6,15,43.2,25,2.8,6.4,2.3,0,0,0,,0,0,,0,,,0.0,,37,2.8,103,6,10,2011
-4,38,Jets,John Conner,24,FB,16,8,13,44,1,6,69.2,13,3.4,2.8,0.8,5,2,9,4.5,0,1,20.0,9,0.1,0.6,40.0,1.8,15,3.5,53,1,0,2011
-5,29,Jets,Bilal Powell,23,RB,2,0,13,21,0,1,0.0,6,1.6,10.5,6.5,1,1,7,7.0,0,0,0.0,7,0.5,3.5,100.0,7.0,14,2.0,28,0,1,2011
-6,11,Jets,Jeremy Kerley,23,WR,14,1,5,28,0,1,60.0,16,5.6,2.0,0.4,47,29,314,10.8,1,19,51.1,38,2.1,22.4,61.7,6.7,34,10.1,342,1,3,2011
-7,10,Jets,Santonio Holmes,27,WR,16,16,3,27,0,1,66.7,23,9.0,1.7,0.2,101,51,654,12.8,8,34,42.6,38,3.2,40.9,50.5,6.5,54,12.6,681,8,2,2011
-8,31,Jets,Antonio Cromartie,27,RCB,16,16,1,1,0,0,,1,1.0,0.1,0.1,0,0,0,,0,0,,0,,,0.0,,1,1.0,1,0,2,2011
-9,81,Jets,Dustin Keller,27,TE,16,12,0,0,0,0,,0,,,,115,65,815,12.5,5,39,46.1,41,4.1,50.9,56.5,7.1,65,12.5,815,5,1,2011
-10,17,Jets,Plaxico Burress,34,WR,16,13,0,0,0,0,,0,,,,96,45,612,13.6,8,38,44.8,30,2.8,38.3,46.9,6.4,45,13.6,612,8,0,2011
-11,85,Jets,Derrick Mason,37,WR,5,2,0,0,0,0,,0,,,,22,13,115,8.8,0,7,45.5,30,2.6,23.0,59.1,5.2,13,8.8,115,0,0,2011
-12,88,Jets,Patrick Turner,24,WR,15,1,0,0,0,0,,0,,,,15,8,96,12.0,1,6,40.0,25,0.5,6.4,53.3,6.4,8,12.0,96,1,0,2011
-13,82,Jets,Matthew Mulligan,26,TE,16,9,0,0,0,0,,0,,,,9,5,58,11.6,0,1,22.2,41,0.3,3.6,55.6,6.4,5,11.6,58,0,0,2011
-14,45,Jets,Josh Baker,25,TE,11,0,0,0,0,0,,0,,,,4,3,27,9.0,1,2,50.0,17,0.3,2.5,75.0,6.8,3,9.0,27,1,0,2011
-15,86,Jets,Jeff Cumberland,24,TE,3,0,0,0,0,0,,0,,,,5,2,35,17.5,0,1,20.0,33,0.7,11.7,40.0,7.0,2,17.5,35,0,0,2011
-16,68,Jets,Matt Slauson,25,LG,16,16,0,0,0,0,,0,,,,1,1,1,1.0,0,0,,1,0.1,0.1,100.0,1.0,1,1.0,1,0,0,2011
+,No.,Player,Age,Position,Games Played,Games Started as an Offensive or Defensive Player,Rushing Attempts,Rushing Yards Gained,Rushing Touchdown,First Downs Rushing,Rushing Success Rate,Longest Rushing Attempt,Rushing Yards per Attempt,Rushing Yards per Game,Rushing Attempts per Game,Pass Targets,Receptions,Receiving Yards,Receiving Yards per Reception,Receiving Touchdowns,First Downs Receiving,Receiving Success Rate,Longest Reception,Receptions per Game,Receiving Yards per Game,Catch Per.,Receiving Yards per Target,Touches: Rushing Attempts and Receptions,Scrimmage Yards per Touch: Rushing + Receiving Yardage per Opportunity,Yards from Scrimmage: Receiving and Rushing Yards,Rushing and Receiving Touchdowns,Lost and Recovered Fumbles,Team,Year
+23,23,Shonn Greene,26,RB,16,15,253,1054,6,46,47.4,31,4.2,65.9,15.8,41,30,211,7.0,0,7,53.7,36,1.9,13.2,73.2,5.1,283,4.5,1265,6,1,Jets,2011
+21,21,LaDainian Tomlinson,32,RB,14,1,75,280,1,15,45.3,20,3.7,20.0,5.4,61,42,449,10.7,2,12,31.1,74,3.0,32.1,68.9,7.4,117,6.2,729,3,0,Jets,2011
+25,25,Joe McKnight,23,RB,15,0,43,134,0,8,39.5,11,3.1,8.9,2.9,18,13,139,10.7,0,7,55.6,27,0.9,9.3,72.2,7.7,56,4.9,273,0,3,Jets,2011
+6,6,Mark Sanchez,25,QB,16,16,37,103,6,15,43.2,25,2.8,6.4,2.3,0,0,0,0.0,0,0,0.0,0,0.0,0.0,0.0,0.0,37,2.8,103,6,10,Jets,2011
+38,38,John Conner,24,FB,16,8,13,44,1,6,69.2,13,3.4,2.8,0.8,5,2,9,4.5,0,1,20.0,9,0.1,0.6,40.0,1.8,15,3.5,53,1,0,Jets,2011
+29,29,Bilal Powell,23,RB,2,0,13,21,0,1,0.0,6,1.6,10.5,6.5,1,1,7,7.0,0,0,0.0,7,0.5,3.5,100.0,7.0,14,2.0,28,0,1,Jets,2011
+11,11,Jeremy Kerley,23,WR,14,1,5,28,0,1,60.0,16,5.6,2.0,0.4,47,29,314,10.8,1,19,51.1,38,2.1,22.4,61.7,6.7,34,10.1,342,1,3,Jets,2011
+10,10,Santonio Holmes,27,WR,16,16,3,27,0,1,66.7,23,9.0,1.7,0.2,101,51,654,12.8,8,34,42.6,38,3.2,40.9,50.5,6.5,54,12.6,681,8,2,Jets,2011
+31,31,Antonio Cromartie,27,RCB,16,16,1,1,0,0,0.0,1,1.0,0.1,0.1,0,0,0,0.0,0,0,0.0,0,0.0,0.0,0.0,0.0,1,1.0,1,0,2,Jets,2011
+81,81,Dustin Keller,27,TE,16,12,0,0,0,0,0.0,0,0.0,0.0,0.0,115,65,815,12.5,5,39,46.1,41,4.1,50.9,56.5,7.1,65,12.5,815,5,1,Jets,2011
+17,17,Plaxico Burress,34,WR,16,13,0,0,0,0,0.0,0,0.0,0.0,0.0,96,45,612,13.6,8,38,44.8,30,2.8,38.3,46.9,6.4,45,13.6,612,8,0,Jets,2011
+85,85,Derrick Mason,37,WR,5,2,0,0,0,0,0.0,0,0.0,0.0,0.0,22,13,115,8.8,0,7,45.5,30,2.6,23.0,59.1,5.2,13,8.8,115,0,0,Jets,2011
+88,88,Patrick Turner,24,WR,15,1,0,0,0,0,0.0,0,0.0,0.0,0.0,15,8,96,12.0,1,6,40.0,25,0.5,6.4,53.3,6.4,8,12.0,96,1,0,Jets,2011
+82,82,Matthew Mulligan,26,TE,16,9,0,0,0,0,0.0,0,0.0,0.0,0.0,9,5,58,11.6,0,1,22.2,41,0.3,3.6,55.6,6.4,5,11.6,58,0,0,Jets,2011
+45,45,Josh Baker,25,TE,11,0,0,0,0,0,0.0,0,0.0,0.0,0.0,4,3,27,9.0,1,2,50.0,17,0.3,2.5,75.0,6.8,3,9.0,27,1,0,Jets,2011
+86,86,Jeff Cumberland,24,TE,3,0,0,0,0,0,0.0,0,0.0,0.0,0.0,5,2,35,17.5,0,1,20.0,33,0.7,11.7,40.0,7.0,2,17.5,35,0,0,Jets,2011
+68,68,Matt Slauson,25,LG,16,16,0,0,0,0,0.0,0,0.0,0.0,0.0,1,1,1,1.0,0,0,0.0,1,0.1,0.1,100.0,1.0,1,1.0,1,0,0,Jets,2011

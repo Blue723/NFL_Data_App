@@ -1,21 +1,19 @@
-,Week,Team,Day,Date,Time,Win/Loss,Overtime,Team Record,Home/Away,Opponent,Points Scored,Points Allowed,Offense 1st Down,Total Yards Gained of Offense,Total yards Gained by Passing,Total Yards Gained by Rushing,Offense Turnovers,Defense 1st Down,Total Yards Allowed by Defense,Total Passing Yards Allowed by Defense,Total Rushing Yards Allowed by Defense,Defense Turnovers,Offense,Defense,Sp. Tms,Year
-0,0,Ravens,Sun,September 11,,W,0,1-0,home,Pittsburgh Steelers,35,7,17,385,215,170,0,20,312,246,66,7,9.72,21.78,-3.57,2011
-1,1,Ravens,Sun,September 18,,L,0,1-1,away,Tennessee Titans,13,26,15,229,184,45,3,21,432,358,74,1,-12.54,-8.56,7.88,2011
-2,2,Ravens,Sun,September 25,,W,0,2-1,away,St. Louis Rams,37,7,25,553,385,168,1,17,244,132,112,2,19.43,19.21,-8.05,2011
-3,3,Ravens,Sun,October 2,,W,0,3-1,home,New York Jets,34,17,16,267,155,112,3,7,150,112,38,4,-21.47,48.17,-7.4,2011
-4,4,Ravens,,,,,0,,home,<strong>Bye Week</strong>,0,0,0,0,0,0,0,0,0,0,0,0,,,,2011
-5,5,Ravens,Sun,October 16,,W,0,4-1,home,Houston Texans,29,14,24,402,289,113,2,18,293,200,93,0,5.36,7.48,3.85,2011
-6,6,Ravens,Mon,October 24,,L,0,4-2,away,Jacksonville Jaguars,7,12,11,146,112,34,2,13,205,73,132,1,-20.39,19.02,-5.46,2011
-7,7,Ravens,Sun,October 30,,W,0,5-2,home,Arizona Cardinals,30,27,30,405,298,107,2,17,207,98,109,1,5.91,5.55,-9.73,2011
-8,8,Ravens,Sun,November 6,,W,0,6-2,away,Pittsburgh Steelers,23,20,23,356,289,67,1,20,392,322,70,2,12.6,-9.52,-0.08,2011
-9,9,Ravens,Sun,November 13,,L,0,6-3,away,Seattle Seahawks,17,22,25,323,248,75,3,16,327,208,119,0,4.12,5.59,-18.7,2011
-10,10,Ravens,Sun,November 20,,W,0,7-3,home,Cincinnati Bengals,31,24,13,373,268,105,1,23,483,364,119,3,0.72,1.26,4.29,2011
-11,11,Ravens,Thu,November 24,,W,0,8-3,home,San Francisco 49ers,16,6,16,253,161,92,0,12,170,96,74,1,2.65,13.85,-6.56,2011
-12,12,Ravens,Sun,December 4,,W,0,9-3,away,Cleveland Browns,24,10,24,448,158,290,1,13,233,174,59,1,7.94,11.66,-3.55,2011
-13,13,Ravens,Sun,December 11,,W,0,10-3,home,Indianapolis Colts,24,10,24,358,212,146,2,12,167,117,50,1,5.24,11.34,-1.36,2011
-14,14,Ravens,Sun,December 18,,L,0,10-4,away,San Diego Chargers,14,34,19,290,201,89,2,23,415,270,145,0,4.87,-23.17,0.86,2011
-15,15,Ravens,Sat,December 24,,W,0,11-4,home,Cleveland Browns,20,14,15,284,122,162,1,18,256,139,117,1,2.98,4.49,-5.22,2011
-16,16,Ravens,Sun,January 1,,W,0,12-4,away,Cincinnati Bengals,24,16,15,347,126,221,0,19,336,231,105,1,9.3,-0.34,-1.65,2011
-17,17,Ravens,,<strong>Playoffs</strong>,,,0,,home,,0,0,0,0,0,0,0,0,0,0,0,0,,,,2011
-18,18,Ravens,Sun,January 15,,W,0,13-4,home,Houston Texans,20,13,11,227,140,87,0,16,315,184,131,4,-14.6,10.62,12.62,2011
-19,19,Ravens,Sun,January 22,,L,0,13-5,away,New England Patriots,20,23,19,398,282,116,1,25,330,234,96,3,3.41,-5.91,1.42,2011
+,Week,Day,Date,Time,Win/Loss,Overtime,Team Record,Home/Away,Opponent,Points Scored,Points Allowed,Offense 1st Down,Total Yards Gained of Offense,Total yards Gained by Passing,Total Yards Gained by Rushing,Offense Turnovers,Defense 1st Down,Total Yards Allowed by Defense,Total Passing Yards Allowed by Defense,Total Rushing Yards Allowed by Defense,Defense Turnovers,Offense,Defense,Sp. Tms,Team,Year
+0,1,Sun,2011-09-11,nan,Win,0,1-0,home,Pittsburgh Steelers,35,7,17,385,215,170,0,20,312,246,66,7,9.72,21.78,-3.57,Ravens,2011
+1,2,Sun,2011-09-18,nan,Loss,0,1-1,away,Tennessee Titans,13,26,15,229,184,45,3,21,432,358,74,1,-12.54,-8.56,7.88,Ravens,2011
+2,3,Sun,2011-09-25,nan,Win,0,2-1,away,St. Louis Rams,37,7,25,553,385,168,1,17,244,132,112,2,19.43,19.21,-8.05,Ravens,2011
+3,4,Sun,2011-10-02,nan,Win,0,3-1,home,New York Jets,34,17,16,267,155,112,3,7,150,112,38,4,-21.47,48.17,-7.4,Ravens,2011
+4,6,Sun,2011-10-16,nan,Win,0,4-1,home,Houston Texans,29,14,24,402,289,113,2,18,293,200,93,0,5.36,7.48,3.85,Ravens,2011
+5,7,Mon,2011-10-24,nan,Loss,0,4-2,away,Jacksonville Jaguars,7,12,11,146,112,34,2,13,205,73,132,1,-20.39,19.02,-5.46,Ravens,2011
+6,8,Sun,2011-10-30,nan,Win,0,5-2,home,Arizona Cardinals,30,27,30,405,298,107,2,17,207,98,109,1,5.91,5.55,-9.73,Ravens,2011
+7,9,Sun,2011-11-06,nan,Win,0,6-2,away,Pittsburgh Steelers,23,20,23,356,289,67,1,20,392,322,70,2,12.6,-9.52,-0.08,Ravens,2011
+8,10,Sun,2011-11-13,nan,Loss,0,6-3,away,Seattle Seahawks,17,22,25,323,248,75,3,16,327,208,119,0,4.12,5.59,-18.7,Ravens,2011
+9,11,Sun,2011-11-20,nan,Win,0,7-3,home,Cincinnati Bengals,31,24,13,373,268,105,1,23,483,364,119,3,0.72,1.26,4.29,Ravens,2011
+10,12,Thu,2011-11-24,nan,Win,0,8-3,home,San Francisco 49ers,16,6,16,253,161,92,0,12,170,96,74,1,2.65,13.85,-6.56,Ravens,2011
+11,13,Sun,2011-12-04,nan,Win,0,9-3,away,Cleveland Browns,24,10,24,448,158,290,1,13,233,174,59,1,7.94,11.66,-3.55,Ravens,2011
+12,14,Sun,2011-12-11,nan,Win,0,10-3,home,Indianapolis Colts,24,10,24,358,212,146,2,12,167,117,50,1,5.24,11.34,-1.36,Ravens,2011
+13,15,Sun,2011-12-18,nan,Loss,0,10-4,away,San Diego Chargers,14,34,19,290,201,89,2,23,415,270,145,0,4.87,-23.17,0.86,Ravens,2011
+14,16,Sat,2011-12-24,nan,Win,0,11-4,home,Cleveland Browns,20,14,15,284,122,162,1,18,256,139,117,1,2.98,4.49,-5.22,Ravens,2011
+15,17,Sun,2012-01-01,nan,Win,0,12-4,away,Cincinnati Bengals,24,16,15,347,126,221,0,19,336,231,105,1,9.3,-0.34,-1.65,Ravens,2011
+16,19,Sun,2012-01-15,nan,Win,0,13-4,home,Houston Texans,20,13,11,227,140,87,0,16,315,184,131,4,-14.6,10.62,12.62,Ravens,2011
+17,20,Sun,2012-01-22,nan,Loss,0,13-5,away,New England Patriots,20,23,19,398,282,116,1,25,330,234,96,3,3.41,-5.91,1.42,Ravens,2011

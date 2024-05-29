@@ -1,5 +1,5 @@
-,Player,Team,3rd Down Attempts in Game,3rd Down Conversions,3rd Down Conversion Per.,4th Down Attempts in Game,4th Down Conversions in Game,4th Down Conversion Per.,Red Zone Attempts,Touchdowns Scored After the Team Entered the Red Zone,Per. of the Time a Team Reaches the Red Zone and Scores a Touchdown,Year
-0,Team Stats,Browns,238.0,92.0,38.7,18.0,10.0,55.6,31.0,13.0,41.9,2011.0
-1,Opp. Stats,Browns,230.0,95.0,41.3,14.0,6.0,42.9,49.0,20.0,40.8,2011.0
-2,Lg Rank Offense,Browns,,,12.0,,,8.0,,,28.0,2011.0
-3,Lg Rank Defense,Browns,,,24.0,,,17.0,,,3.0,2011.0
+,Player,3rd Down Attempts in Game,3rd Down Conversions,3rd Down Conversion Per.,4th Down Attempts in Game,4th Down Conversions in Game,4th Down Conversion Per.,Red Zone Attempts,Touchdowns Scored After the Team Entered the Red Zone,Per. of the Time a Team Reaches the Red Zone and Scores a Touchdown,Team,Year
+Team Stats,Team Stats,238.0,92.0,38.7,18.0,10.0,55.6,31.0,13.0,41.9,Browns,2011
+Opp. Stats,Opp. Stats,230.0,95.0,41.3,14.0,6.0,42.9,49.0,20.0,40.8,Browns,2011
+Lg Rank Offense,Lg Rank Offense,0.0,0.0,12.0,0.0,0.0,8.0,0.0,0.0,28,Browns,2011
+Lg Rank Defense,Lg Rank Defense,0.0,0.0,24.0,0.0,0.0,17.0,0.0,0.0,3,Browns,2011

@@ -1,42 +1,42 @@
-,Rank,Team,Date,Opponent,Win/Loss,Score,Quarter,Distance,Type,Detail,Year
-0,1,Ravens,09/11/2011,PIT,Win, 35-7,1,27,pass,Anquan Boldin,2011
-1,2,Ravens,09/11/2011,PIT,Win, 35-7,1,1,rush,Ray Rice,2011
-2,3,Ravens,09/11/2011,PIT,Win, 35-7,2,11,pass,Ray Rice,2011
-3,4,Ravens,09/11/2011,PIT,Win, 35-7,3,18,pass,Ed Dickson,2011
-4,5,Ravens,09/18/2011,TEN,Loss, 13-26,2,31,pass,Ray Rice,2011
-5,6,Ravens,09/25/2011,STL,Win, 37-7,1,74,pass,Torrey Smith,2011
-6,7,Ravens,09/25/2011,STL,Win, 37-7,1,41,pass,Torrey Smith,2011
-7,8,Ravens,09/25/2011,STL,Win, 37-7,1,18,pass,Torrey Smith,2011
-8,9,Ravens,09/25/2011,STL,Win, 37-7,4,28,fumble,Haloti Ngata,2011
-9,10,Ravens,10/02/2011,NYJ,Win, 34-17,1,0,fumble,Jameel McClain,2011
-10,11,Ravens,10/02/2011,NYJ,Win, 34-17,1,3,rush,Ray Rice,2011
-11,12,Ravens,10/02/2011,NYJ,Win, 34-17,2,26,fumble,Jarret Johnson,2011
-12,13,Ravens,10/02/2011,NYJ,Win, 34-17,3,73,interception,Lardarius Webb,2011
-13,14,Ravens,10/16/2011,HOU,Win, 29-14,1,1,rush,Joe Flacco,2011
-14,15,Ravens,10/16/2011,HOU,Win, 29-14,4,4,rush,Ricky Williams,2011
-15,16,Ravens,10/24/2011,JAX,Loss, 7-12,4,5,pass,Anquan Boldin,2011
-16,17,Ravens,10/30/2011,ARI,Win, 30-27,3,1,rush,Ray Rice,2011
-17,18,Ravens,10/30/2011,ARI,Win, 30-27,3,1,rush,Ray Rice,2011
-18,19,Ravens,10/30/2011,ARI,Win, 30-27,4,3,rush,Ray Rice,2011
-19,20,Ravens,11/06/2011,PIT,Win, 23-20,3,4,rush,Ray Rice,2011
-20,21,Ravens,11/06/2011,PIT,Win, 23-20,4,26,pass,Torrey Smith,2011
-21,22,Ravens,11/13/2011,SEA,Loss, 17-22,2,1,pass,Ed Dickson,2011
-22,23,Ravens,11/13/2011,SEA,Loss, 17-22,4,11,pass,Ed Dickson,2011
-23,24,Ravens,11/20/2011,CIN,Win, 31-24,2,35,pass,Anquan Boldin,2011
-24,25,Ravens,11/20/2011,CIN,Win, 31-24,2,1,rush,Ray Rice,2011
-25,26,Ravens,11/20/2011,CIN,Win, 31-24,3,2,rush,Ray Rice,2011
-26,27,Ravens,11/20/2011,CIN,Win, 31-24,4,38,pass,Torrey Smith,2011
-27,28,Ravens,11/24/2011,SFO,Win, 16-6,4,8,pass,Dennis Pitta,2011
-28,29,Ravens,12/04/2011,CLE,Win, 24-10,2,6,rush,Ray Rice,2011
-29,30,Ravens,12/04/2011,CLE,Win, 24-10,3,1,rush,Ricky Williams,2011
-30,31,Ravens,12/04/2011,CLE,Win, 24-10,4,68,punt,Lardarius Webb,2011
-31,32,Ravens,12/11/2011,IND,Win, 24-10,1,8,pass,Torrey Smith,2011
-32,33,Ravens,12/11/2011,IND,Win, 24-10,2,6,rush,Ray Rice,2011
-33,34,Ravens,12/11/2011,IND,Win, 24-10,3,7,pass,Dennis Pitta,2011
-34,35,Ravens,12/18/2011,SDG,Loss, 14-34,2,15,pass,Ed Dickson,2011
-35,36,Ravens,12/18/2011,SDG,Loss, 14-34,4,36,pass,Torrey Smith,2011
-36,37,Ravens,12/24/2011,CLE,Win, 20-14,1,5,pass,Ed Dickson,2011
-37,38,Ravens,12/24/2011,CLE,Win, 20-14,2,42,pass,Ray Rice,2011
-38,39,Ravens,01/01/2012,CIN,Win, 24-16,1,70,rush,Ray Rice,2011
-39,40,Ravens,01/01/2012,CIN,Win, 24-16,2,9,pass,Dennis Pitta,2011
-40,41,Ravens,01/01/2012,CIN,Win, 24-16,4,51,rush,Ray Rice,2011
+,Rank,Team,Date,Opponent,Win/Loss,Home_Score,Opponenet_Score,Quarter,Distance,Type,Detail
+1,1,Ravens,2011-09-11,PIT,Win,35,7,1,27,pass,Anquan Boldin
+2,2,Ravens,2011-09-11,PIT,Win,35,7,1,1,rush,Ray Rice
+3,3,Ravens,2011-09-11,PIT,Win,35,7,2,11,pass,Ray Rice
+4,4,Ravens,2011-09-11,PIT,Win,35,7,3,18,pass,Ed Dickson
+5,5,Ravens,2011-09-18,TEN,Loss,13,26,2,31,pass,Ray Rice
+6,6,Ravens,2011-09-25,STL,Win,37,7,1,74,pass,Torrey Smith
+7,7,Ravens,2011-09-25,STL,Win,37,7,1,41,pass,Torrey Smith
+8,8,Ravens,2011-09-25,STL,Win,37,7,1,18,pass,Torrey Smith
+9,9,Ravens,2011-09-25,STL,Win,37,7,4,28,fumble,Haloti Ngata
+10,10,Ravens,2011-10-02,NYJ,Win,34,17,1,0,fumble,Jameel McClain
+11,11,Ravens,2011-10-02,NYJ,Win,34,17,1,3,rush,Ray Rice
+12,12,Ravens,2011-10-02,NYJ,Win,34,17,2,26,fumble,Jarret Johnson
+13,13,Ravens,2011-10-02,NYJ,Win,34,17,3,73,interception,Lardarius Webb
+14,14,Ravens,2011-10-16,HOU,Win,29,14,1,1,rush,Joe Flacco
+15,15,Ravens,2011-10-16,HOU,Win,29,14,4,4,rush,Ricky Williams
+16,16,Ravens,2011-10-24,JAX,Loss,7,12,4,5,pass,Anquan Boldin
+17,17,Ravens,2011-10-30,ARI,Win,30,27,3,1,rush,Ray Rice
+18,18,Ravens,2011-10-30,ARI,Win,30,27,3,1,rush,Ray Rice
+19,19,Ravens,2011-10-30,ARI,Win,30,27,4,3,rush,Ray Rice
+20,20,Ravens,2011-11-06,PIT,Win,23,20,3,4,rush,Ray Rice
+21,21,Ravens,2011-11-06,PIT,Win,23,20,4,26,pass,Torrey Smith
+22,22,Ravens,2011-11-13,SEA,Loss,17,22,2,1,pass,Ed Dickson
+23,23,Ravens,2011-11-13,SEA,Loss,17,22,4,11,pass,Ed Dickson
+24,24,Ravens,2011-11-20,CIN,Win,31,24,2,35,pass,Anquan Boldin
+25,25,Ravens,2011-11-20,CIN,Win,31,24,2,1,rush,Ray Rice
+26,26,Ravens,2011-11-20,CIN,Win,31,24,3,2,rush,Ray Rice
+27,27,Ravens,2011-11-20,CIN,Win,31,24,4,38,pass,Torrey Smith
+28,28,Ravens,2011-11-24,SFO,Win,16,6,4,8,pass,Dennis Pitta
+29,29,Ravens,2011-12-04,CLE,Win,24,10,2,6,rush,Ray Rice
+30,30,Ravens,2011-12-04,CLE,Win,24,10,3,1,rush,Ricky Williams
+31,31,Ravens,2011-12-04,CLE,Win,24,10,4,68,punt,Lardarius Webb
+32,32,Ravens,2011-12-11,IND,Win,24,10,1,8,pass,Torrey Smith
+33,33,Ravens,2011-12-11,IND,Win,24,10,2,6,rush,Ray Rice
+34,34,Ravens,2011-12-11,IND,Win,24,10,3,7,pass,Dennis Pitta
+35,35,Ravens,2011-12-18,SDG,Loss,14,34,2,15,pass,Ed Dickson
+36,36,Ravens,2011-12-18,SDG,Loss,14,34,4,36,pass,Torrey Smith
+37,37,Ravens,2011-12-24,CLE,Win,20,14,1,5,pass,Ed Dickson
+38,38,Ravens,2011-12-24,CLE,Win,20,14,2,42,pass,Ray Rice
+39,39,Ravens,2012-01-01,CIN,Win,24,16,1,70,rush,Ray Rice
+40,40,Ravens,2012-01-01,CIN,Win,24,16,2,9,pass,Dennis Pitta
+41,41,Ravens,2012-01-01,CIN,Win,24,16,4,51,rush,Ray Rice

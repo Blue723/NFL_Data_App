@@ -1,6 +1,6 @@
-,No.,Team,Player,Age,Position,Games Played,Games Started,Punts Returned,Punts Return Yardage,Punts Returned for Touchdown,Longest Punt Return,Yards per Punt Return,Kickoff Returns,Yardage for Kickoffs Returned,Kickoffs Returned for a Touchdown,Longest Kickoff Return,Yards per Kickoff Return,All-purpose Yards,Year
-0,33,Seahawks,Leon Washington,29,RB,16,1,41,464,0,37,11.3,43,1084,0,54,25.2,1844,2011
-1,15,Seahawks,Doug Baldwin,23,WR,16,1,0,0,0,0,,1,37,0,37,37.0,823,2011
-2,82,Seahawks,Dominique Byrd,27,TE,1,0,0,0,0,0,,1,10,0,10,10.0,10,2011
-3,20,Seahawks,Justin Forsett,26,RB,16,0,0,0,0,0,,1,11,0,11,11.0,284,2011
-4,81,Seahawks,Golden Tate,23,WR,16,5,1,0,0,0,0.0,0,0,0,0,,396,2011
+,No.,Player,Age,Position,Games Played,Games Started,Punts Returned,Punts Return Yardage,Punts Returned for Touchdown,Longest Punt Return,Yards per Punt Return,Kickoff Returns,Yardage for Kickoffs Returned,Kickoffs Returned for a Touchdown,Longest Kickoff Return,Yards per Kickoff Return,All-purpose Yards,Team,Year
+33,33,Leon Washington,29,RB,16,1,41,464,0,37,11.3,43,1084,0,54,25.2,1844,Seahawks,2011
+15,15,Doug Baldwin,23,WR,16,1,0,0,0,0,0.0,1,37,0,37,37.0,823,Seahawks,2011
+82,82,Dominique Byrd,27,TE,1,0,0,0,0,0,0.0,1,10,0,10,10.0,10,Seahawks,2011
+20,20,Justin Forsett,26,RB,16,0,0,0,0,0,0.0,1,11,0,11,11.0,284,Seahawks,2011
+81,81,Golden Tate,23,WR,16,5,1,0,0,0,0.0,0,0,0,0,0.0,396,Seahawks,2011

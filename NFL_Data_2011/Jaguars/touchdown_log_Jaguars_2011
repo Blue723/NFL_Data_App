@@ -1,26 +1,26 @@
-,Rank,Team,Date,Opponent,Win/Loss,Score,Quarter,Distance,Type,Detail,Year
-0,1,Jaguars,09/11/2011,TEN,Win, 16-14,1,21,rush,Maurice Jones-Drew,2011
-1,2,Jaguars,09/25/2011,CAR,Loss, 10-16,2,36,pass,Mike Thomas,2011
-2,3,Jaguars,10/02/2011,NOR,Loss, 10-23,2,14,pass,Zach Miller,2011
-3,4,Jaguars,10/09/2011,CIN,Loss, 20-30,1,6,rush,Maurice Jones-Drew,2011
-4,5,Jaguars,10/09/2011,CIN,Loss, 20-30,4,74,pass,Jason Hill,2011
-5,6,Jaguars,10/16/2011,PIT,Loss, 13-17,3,18,pass,Jason Hill,2011
-6,7,Jaguars,10/30/2011,HOU,Loss, 14-24,2,5,pass,Jason Hill,2011
-7,8,Jaguars,10/30/2011,HOU,Loss, 14-24,4,2,rush,Maurice Jones-Drew,2011
-8,9,Jaguars,11/13/2011,IND,Win, 17-3,3,11,pass,Jarett Dillard,2011
-9,10,Jaguars,11/13/2011,IND,Win, 17-3,4,3,rush,Maurice Jones-Drew,2011
-10,11,Jaguars,11/20/2011,CLE,Loss, 10-14,2,6,rush,Maurice Jones-Drew,2011
-11,12,Jaguars,11/27/2011,HOU,Loss, 13-20,1,38,fumble,Ashton Youboty,2011
-12,13,Jaguars,12/05/2011,SDG,Loss, 14-38,2,9,pass,Maurice Jones-Drew,2011
-13,14,Jaguars,12/05/2011,SDG,Loss, 14-38,2,5,pass,Cecil Shorts,2011
-14,15,Jaguars,12/11/2011,TAM,Win, 41-14,2,8,fumble,Colin Cloherty,2011
-15,16,Jaguars,12/11/2011,TAM,Win, 41-14,2,1,rush,Maurice Jones-Drew,2011
-16,17,Jaguars,12/11/2011,TAM,Win, 41-14,2,0,fumble,Nate Collins,2011
-17,18,Jaguars,12/11/2011,TAM,Win, 41-14,2,5,pass,Maurice Jones-Drew,2011
-18,19,Jaguars,12/11/2011,TAM,Win, 41-14,4,5,pass,Maurice Jones-Drew,2011
-19,20,Jaguars,12/11/2011,TAM,Win, 41-14,4,1,rush,Maurice Jones-Drew,2011
-20,21,Jaguars,12/15/2011,ATL,Loss, 14-41,3,46,blocked punt,Zach Potter,2011
-21,22,Jaguars,12/15/2011,ATL,Loss, 14-41,4,16,pass,Chastin West,2011
-22,23,Jaguars,12/24/2011,TEN,Loss, 17-23,1,10,rush,Maurice Jones-Drew,2011
-23,24,Jaguars,12/24/2011,TEN,Loss, 17-23,4,1,rush,Greg Jones,2011
-24,25,Jaguars,01/01/2012,IND,Win, 19-13,1,23,pass,Chastin West,2011
+,Rank,Team,Date,Opponent,Win/Loss,Home_Score,Opponenet_Score,Quarter,Distance,Type,Detail
+1,1,Jaguars,2011-09-11,TEN,Win,16,14,1,21,rush,Maurice Jones-Drew
+2,2,Jaguars,2011-09-25,CAR,Loss,10,16,2,36,pass,Mike Thomas
+3,3,Jaguars,2011-10-02,NOR,Loss,10,23,2,14,pass,Zach Miller
+4,4,Jaguars,2011-10-09,CIN,Loss,20,30,1,6,rush,Maurice Jones-Drew
+5,5,Jaguars,2011-10-09,CIN,Loss,20,30,4,74,pass,Jason Hill
+6,6,Jaguars,2011-10-16,PIT,Loss,13,17,3,18,pass,Jason Hill
+7,7,Jaguars,2011-10-30,HOU,Loss,14,24,2,5,pass,Jason Hill
+8,8,Jaguars,2011-10-30,HOU,Loss,14,24,4,2,rush,Maurice Jones-Drew
+9,9,Jaguars,2011-11-13,IND,Win,17,3,3,11,pass,Jarett Dillard
+10,10,Jaguars,2011-11-13,IND,Win,17,3,4,3,rush,Maurice Jones-Drew
+11,11,Jaguars,2011-11-20,CLE,Loss,10,14,2,6,rush,Maurice Jones-Drew
+12,12,Jaguars,2011-11-27,HOU,Loss,13,20,1,38,fumble,Ashton Youboty
+13,13,Jaguars,2011-12-05,SDG,Loss,14,38,2,9,pass,Maurice Jones-Drew
+14,14,Jaguars,2011-12-05,SDG,Loss,14,38,2,5,pass,Cecil Shorts
+15,15,Jaguars,2011-12-11,TAM,Win,41,14,2,8,fumble,Colin Cloherty
+16,16,Jaguars,2011-12-11,TAM,Win,41,14,2,1,rush,Maurice Jones-Drew
+17,17,Jaguars,2011-12-11,TAM,Win,41,14,2,0,fumble,Nate Collins
+18,18,Jaguars,2011-12-11,TAM,Win,41,14,2,5,pass,Maurice Jones-Drew
+19,19,Jaguars,2011-12-11,TAM,Win,41,14,4,5,pass,Maurice Jones-Drew
+20,20,Jaguars,2011-12-11,TAM,Win,41,14,4,1,rush,Maurice Jones-Drew
+21,21,Jaguars,2011-12-15,ATL,Loss,14,41,3,46,blocked punt,Zach Potter
+22,22,Jaguars,2011-12-15,ATL,Loss,14,41,4,16,pass,Chastin West
+23,23,Jaguars,2011-12-24,TEN,Loss,17,23,1,10,rush,Maurice Jones-Drew
+24,24,Jaguars,2011-12-24,TEN,Loss,17,23,4,1,rush,Greg Jones
+25,25,Jaguars,2012-01-01,IND,Win,19,13,1,23,pass,Chastin West

@@ -1,31 +1,31 @@
-,Rank,Team,Date,Opponent,Win/Loss,Score,Quarter,Distance,Type,Detail,Year
-0,1,Buccaneers,09/11/2011,DET,Loss, 20-27,1,28,interception,Aqib Talib,2011
-1,2,Buccaneers,09/11/2011,DET,Loss, 20-27,4,6,pass,Mike Williams,2011
-2,3,Buccaneers,09/18/2011,MIN,Win, 24-20,3,27,rush,LeGarrette Blount,2011
-3,4,Buccaneers,09/18/2011,MIN,Win, 24-20,4,25,pass,Arrelious Benn,2011
-4,5,Buccaneers,09/18/2011,MIN,Win, 24-20,4,4,rush,LeGarrette Blount,2011
-5,6,Buccaneers,09/25/2011,ATL,Win, 16-13,2,1,rush,Josh Freeman,2011
-6,7,Buccaneers,10/03/2011,IND,Win, 24-17,2,1,rush,Josh Freeman,2011
-7,8,Buccaneers,10/03/2011,IND,Win, 24-17,3,13,pass,Preston Parker,2011
-8,9,Buccaneers,10/03/2011,IND,Win, 24-17,4,35,rush,LeGarrette Blount,2011
-9,10,Buccaneers,10/16/2011,NOR,Win, 26-20,2,65,pass,Arrelious Benn,2011
-10,11,Buccaneers,10/16/2011,NOR,Win, 26-20,2,19,pass,Preston Parker,2011
-11,12,Buccaneers,10/23/2011,CHI,Loss, 18-24,4,2,pass,Kellen Winslow,2011
-12,13,Buccaneers,10/23/2011,CHI,Loss, 18-24,4,24,pass,Dezmon Briscoe,2011
-13,14,Buccaneers,11/06/2011,NOR,Loss, 16-27,4,5,pass,Kellen Winslow,2011
-14,15,Buccaneers,11/13/2011,HOU,Loss, 9-37,4,9,pass,Preston Parker,2011
-15,16,Buccaneers,11/20/2011,GNB,Loss, 26-35,2,54,rush,LeGarrette Blount,2011
-16,17,Buccaneers,11/20/2011,GNB,Loss, 26-35,4,9,pass,Mike Williams,2011
-17,18,Buccaneers,11/20/2011,GNB,Loss, 26-35,4,2,pass,Dezmon Briscoe,2011
-18,19,Buccaneers,11/27/2011,TEN,Loss, 17-23,2,3,pass,Mike Williams,2011
-19,20,Buccaneers,11/27/2011,TEN,Loss, 17-23,3,27,interception,Aqib Talib,2011
-20,21,Buccaneers,12/04/2011,CAR,Loss, 19-38,4,23,pass,Dezmon Briscoe,2011
-21,22,Buccaneers,12/11/2011,JAX,Loss, 14-41,1,1,rush,LeGarrette Blount,2011
-22,23,Buccaneers,12/11/2011,JAX,Loss, 14-41,2,13,rush,Josh Freeman,2011
-23,24,Buccaneers,12/17/2011,DAL,Loss, 15-31,3,7,fumble,Dekoda Watson,2011
-24,25,Buccaneers,12/17/2011,DAL,Loss, 15-31,3,13,pass,Dezmon Briscoe,2011
-25,26,Buccaneers,12/24/2011,CAR,Loss, 16-48,2,4,pass,Arrelious Benn,2011
-26,27,Buccaneers,12/24/2011,CAR,Loss, 16-48,4,1,rush,Josh Freeman,2011
-27,28,Buccaneers,01/01/2012,ATL,Loss, 24-45,2,2,pass,Dezmon Briscoe,2011
-28,29,Buccaneers,01/01/2012,ATL,Loss, 24-45,3,40,interception,Elbert Mack,2011
-29,30,Buccaneers,01/01/2012,ATL,Loss, 24-45,4,5,pass,Dezmon Briscoe,2011
+,Rank,Team,Date,Opponent,Win/Loss,Home_Score,Opponenet_Score,Quarter,Distance,Type,Detail
+1,1,Buccaneers,2011-09-11,DET,Loss,20,27,1,28,interception,Aqib Talib
+2,2,Buccaneers,2011-09-11,DET,Loss,20,27,4,6,pass,Mike Williams
+3,3,Buccaneers,2011-09-18,MIN,Win,24,20,3,27,rush,LeGarrette Blount
+4,4,Buccaneers,2011-09-18,MIN,Win,24,20,4,25,pass,Arrelious Benn
+5,5,Buccaneers,2011-09-18,MIN,Win,24,20,4,4,rush,LeGarrette Blount
+6,6,Buccaneers,2011-09-25,ATL,Win,16,13,2,1,rush,Josh Freeman
+7,7,Buccaneers,2011-10-03,IND,Win,24,17,2,1,rush,Josh Freeman
+8,8,Buccaneers,2011-10-03,IND,Win,24,17,3,13,pass,Preston Parker
+9,9,Buccaneers,2011-10-03,IND,Win,24,17,4,35,rush,LeGarrette Blount
+10,10,Buccaneers,2011-10-16,NOR,Win,26,20,2,65,pass,Arrelious Benn
+11,11,Buccaneers,2011-10-16,NOR,Win,26,20,2,19,pass,Preston Parker
+12,12,Buccaneers,2011-10-23,CHI,Loss,18,24,4,2,pass,Kellen Winslow
+13,13,Buccaneers,2011-10-23,CHI,Loss,18,24,4,24,pass,Dezmon Briscoe
+14,14,Buccaneers,2011-11-06,NOR,Loss,16,27,4,5,pass,Kellen Winslow
+15,15,Buccaneers,2011-11-13,HOU,Loss,9,37,4,9,pass,Preston Parker
+16,16,Buccaneers,2011-11-20,GNB,Loss,26,35,2,54,rush,LeGarrette Blount
+17,17,Buccaneers,2011-11-20,GNB,Loss,26,35,4,9,pass,Mike Williams
+18,18,Buccaneers,2011-11-20,GNB,Loss,26,35,4,2,pass,Dezmon Briscoe
+19,19,Buccaneers,2011-11-27,TEN,Loss,17,23,2,3,pass,Mike Williams
+20,20,Buccaneers,2011-11-27,TEN,Loss,17,23,3,27,interception,Aqib Talib
+21,21,Buccaneers,2011-12-04,CAR,Loss,19,38,4,23,pass,Dezmon Briscoe
+22,22,Buccaneers,2011-12-11,JAX,Loss,14,41,1,1,rush,LeGarrette Blount
+23,23,Buccaneers,2011-12-11,JAX,Loss,14,41,2,13,rush,Josh Freeman
+24,24,Buccaneers,2011-12-17,DAL,Loss,15,31,3,7,fumble,Dekoda Watson
+25,25,Buccaneers,2011-12-17,DAL,Loss,15,31,3,13,pass,Dezmon Briscoe
+26,26,Buccaneers,2011-12-24,CAR,Loss,16,48,2,4,pass,Arrelious Benn
+27,27,Buccaneers,2011-12-24,CAR,Loss,16,48,4,1,rush,Josh Freeman
+28,28,Buccaneers,2012-01-01,ATL,Loss,24,45,2,2,pass,Dezmon Briscoe
+29,29,Buccaneers,2012-01-01,ATL,Loss,24,45,3,40,interception,Elbert Mack
+30,30,Buccaneers,2012-01-01,ATL,Loss,24,45,4,5,pass,Dezmon Briscoe

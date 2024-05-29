@@ -1,34 +1,34 @@
-,Rank,Team,Date,Opponent,Win/Loss,Score,Quarter,Distance,Type,Detail,Year
-0,1,Seahawks,09/11/2011,SFO,Loss, 17-33,2,1.0,rush,Alex Smith,2011
-1,2,Seahawks,09/11/2011,SFO,Loss, 17-33,4,102.0,kickoff,Ted Ginn Jr.,2011
-2,3,Seahawks,09/11/2011,SFO,Loss, 17-33,4,55.0,punt,Ted Ginn Jr.,2011
-3,4,Seahawks,09/18/2011,PIT,Loss, 0-24,1,1.0,rush,Rashard Mendenhall,2011
-4,5,Seahawks,09/18/2011,PIT,Loss, 0-24,2,20.0,rush,Isaac Redman,2011
-5,6,Seahawks,09/18/2011,PIT,Loss, 0-24,3,2.0,pass,Mike Wallace,2011
-6,7,Seahawks,09/25/2011,ARI,Win, 13-10,2,12.0,pass,Larry Fitzgerald,2011
-7,8,Seahawks,10/02/2011,ATL,Loss, 28-30,1,1.0,pass,Tony Gonzalez,2011
-8,9,Seahawks,10/02/2011,ATL,Loss, 28-30,2,21.0,rush,Michael Turner,2011
-9,10,Seahawks,10/02/2011,ATL,Loss, 28-30,2,1.0,rush,Michael Turner,2011
-10,11,Seahawks,10/09/2011,NYG,Win, 36-25,1,12.0,pass,Jake Ballard,2011
-11,12,Seahawks,10/09/2011,NYG,Win, 36-25,2,19.0,pass,Hakeem Nicks,2011
-12,13,Seahawks,10/09/2011,NYG,Win, 36-25,4,68.0,pass,Victor Cruz,2011
-13,14,Seahawks,10/30/2011,CIN,Loss, 12-34,1,14.0,pass,Jerome Simpson,2011
-14,15,Seahawks,10/30/2011,CIN,Loss, 12-34,2,43.0,pass,A.J. Green,2011
-15,16,Seahawks,10/30/2011,CIN,Loss, 12-34,4,56.0,punt,Brandon Tate,2011
-16,17,Seahawks,10/30/2011,CIN,Loss, 12-34,4,75.0,interception,Reggie Nelson,2011
-17,18,Seahawks,11/06/2011,DAL,Loss, 13-23,3,33.0,pass,Jason Witten,2011
-18,19,Seahawks,11/06/2011,DAL,Loss, 13-23,4,6.0,pass,Laurent Robinson,2011
-19,20,Seahawks,11/13/2011,BAL,Win, 22-17,2,1.0,pass,Ed Dickson,2011
-20,21,Seahawks,11/13/2011,BAL,Win, 22-17,4,11.0,pass,Ed Dickson,2011
-21,22,Seahawks,11/20/2011,STL,Win, 24-7,1,30.0,pass,Brandon Lloyd,2011
-22,23,Seahawks,11/27/2011,WAS,Loss, 17-23,1,2.0,pass,Fred Davis,2011
-23,24,Seahawks,11/27/2011,WAS,Loss, 17-23,4,28.0,rush,Roy Helu,2011
-24,25,Seahawks,11/27/2011,WAS,Loss, 17-23,4,50.0,pass,Anthony Armstrong,2011
-25,26,Seahawks,12/01/2011,PHI,Win, 31-14,2,1.0,rush,LeSean McCoy,2011
-26,27,Seahawks,12/01/2011,PHI,Win, 31-14,4,2.0,pass,LeSean McCoy,2011
-27,28,Seahawks,12/12/2011,STL,Win, 30-13,4,1.0,rush,Steven Jackson,2011
-28,29,Seahawks,12/18/2011,CHI,Win, 38-14,1,,fumble,Israel Idonije,2011
-29,30,Seahawks,12/18/2011,CHI,Win, 38-14,2,25.0,pass,Kahlil Bell,2011
-30,31,Seahawks,12/24/2011,SFO,Loss, 17-19,3,4.0,rush,Frank Gore,2011
-31,32,Seahawks,01/01/2012,ARI,Loss, 20-23,1,1.0,rush,Chester Taylor,2011
-32,33,Seahawks,01/01/2012,ARI,Loss, 20-23,3,13.0,pass,Todd Heap,2011
+,Rank,Team,Date,Opponent,Win/Loss,Home_Score,Opponenet_Score,Quarter,Distance,Type,Detail
+1,1,Seahawks,2011-09-11,SFO,Loss,17,33,2,1,rush,Alex Smith
+2,2,Seahawks,2011-09-11,SFO,Loss,17,33,4,102,kickoff,Ted Ginn Jr.
+3,3,Seahawks,2011-09-11,SFO,Loss,17,33,4,55,punt,Ted Ginn Jr.
+4,4,Seahawks,2011-09-18,PIT,Loss,0,24,1,1,rush,Rashard Mendenhall
+5,5,Seahawks,2011-09-18,PIT,Loss,0,24,2,20,rush,Isaac Redman
+6,6,Seahawks,2011-09-18,PIT,Loss,0,24,3,2,pass,Mike Wallace
+7,7,Seahawks,2011-09-25,ARI,Win,13,10,2,12,pass,Larry Fitzgerald
+8,8,Seahawks,2011-10-02,ATL,Loss,28,30,1,1,pass,Tony Gonzalez
+9,9,Seahawks,2011-10-02,ATL,Loss,28,30,2,21,rush,Michael Turner
+10,10,Seahawks,2011-10-02,ATL,Loss,28,30,2,1,rush,Michael Turner
+11,11,Seahawks,2011-10-09,NYG,Win,36,25,1,12,pass,Jake Ballard
+12,12,Seahawks,2011-10-09,NYG,Win,36,25,2,19,pass,Hakeem Nicks
+13,13,Seahawks,2011-10-09,NYG,Win,36,25,4,68,pass,Victor Cruz
+14,14,Seahawks,2011-10-30,CIN,Loss,12,34,1,14,pass,Jerome Simpson
+15,15,Seahawks,2011-10-30,CIN,Loss,12,34,2,43,pass,A.J. Green
+16,16,Seahawks,2011-10-30,CIN,Loss,12,34,4,56,punt,Brandon Tate
+17,17,Seahawks,2011-10-30,CIN,Loss,12,34,4,75,interception,Reggie Nelson
+18,18,Seahawks,2011-11-06,DAL,Loss,13,23,3,33,pass,Jason Witten
+19,19,Seahawks,2011-11-06,DAL,Loss,13,23,4,6,pass,Laurent Robinson
+20,20,Seahawks,2011-11-13,BAL,Win,22,17,2,1,pass,Ed Dickson
+21,21,Seahawks,2011-11-13,BAL,Win,22,17,4,11,pass,Ed Dickson
+22,22,Seahawks,2011-11-20,STL,Win,24,7,1,30,pass,Brandon Lloyd
+23,23,Seahawks,2011-11-27,WAS,Loss,17,23,1,2,pass,Fred Davis
+24,24,Seahawks,2011-11-27,WAS,Loss,17,23,4,28,rush,Roy Helu
+25,25,Seahawks,2011-11-27,WAS,Loss,17,23,4,50,pass,Anthony Armstrong
+26,26,Seahawks,2011-12-01,PHI,Win,31,14,2,1,rush,LeSean McCoy
+27,27,Seahawks,2011-12-01,PHI,Win,31,14,4,2,pass,LeSean McCoy
+28,28,Seahawks,2011-12-12,STL,Win,30,13,4,1,rush,Steven Jackson
+29,29,Seahawks,2011-12-18,CHI,Win,38,14,1,0,fumble,Israel Idonije
+30,30,Seahawks,2011-12-18,CHI,Win,38,14,2,25,pass,Kahlil Bell
+31,31,Seahawks,2011-12-24,SFO,Loss,17,19,3,4,rush,Frank Gore
+32,32,Seahawks,2012-01-01,ARI,Loss,20,23,1,1,rush,Chester Taylor
+33,33,Seahawks,2012-01-01,ARI,Loss,20,23,3,13,pass,Todd Heap

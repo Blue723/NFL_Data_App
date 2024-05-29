@@ -1,40 +1,40 @@
-,Rank,Team,Date,Opponent,Win/Loss,Score,Quarter,Distance,Type,Detail,Year
-0,1,Jets,09/11/2011,DAL,Win, 27-24,1,3.0,pass,Dez Bryant,2011
-1,2,Jets,09/11/2011,DAL,Win, 27-24,3,36.0,pass,Miles Austin,2011
-2,3,Jets,09/11/2011,DAL,Win, 27-24,4,1.0,rush,Felix Jones,2011
-3,4,Jets,09/25/2011,OAK,Loss, 24-34,1,2.0,rush,Darren McFadden,2011
-4,5,Jets,09/25/2011,OAK,Loss, 24-34,2,70.0,rush,Darren McFadden,2011
-5,6,Jets,09/25/2011,OAK,Loss, 24-34,3,23.0,rush,Denarius Moore,2011
-6,7,Jets,09/25/2011,OAK,Loss, 24-34,4,1.0,rush,Michael Bush,2011
-7,8,Jets,10/02/2011,BAL,Loss, 17-34,1,,fumble,Jameel McClain,2011
-8,9,Jets,10/02/2011,BAL,Loss, 17-34,1,3.0,rush,Ray Rice,2011
-9,10,Jets,10/02/2011,BAL,Loss, 17-34,2,26.0,fumble,Jarret Johnson,2011
-10,11,Jets,10/02/2011,BAL,Loss, 17-34,3,73.0,interception,Lardarius Webb,2011
-11,12,Jets,10/09/2011,NWE,Loss, 21-30,1,3.0,rush,BenJarvus Green-Ellis,2011
-12,13,Jets,10/09/2011,NWE,Loss, 21-30,3,2.0,pass,Deion Branch,2011
-13,14,Jets,10/09/2011,NWE,Loss, 21-30,3,3.0,rush,BenJarvus Green-Ellis,2011
-14,15,Jets,10/23/2011,SDG,Win, 27-21,1,37.0,fumble,Donald Butler,2011
-15,16,Jets,10/23/2011,SDG,Win, 27-21,2,2.0,pass,Antonio Gates,2011
-16,17,Jets,10/23/2011,SDG,Win, 27-21,2,1.0,rush,Mike Tolbert,2011
-17,18,Jets,11/06/2011,BUF,Win, 27-11,4,7.0,pass,David Nelson,2011
-18,19,Jets,11/13/2011,NWE,Loss, 16-37,2,18.0,pass,Rob Gronkowski,2011
-19,20,Jets,11/13/2011,NWE,Loss, 16-37,3,5.0,pass,Rob Gronkowski,2011
-20,21,Jets,11/13/2011,NWE,Loss, 16-37,4,8.0,pass,Deion Branch,2011
-21,22,Jets,11/13/2011,NWE,Loss, 16-37,4,12.0,interception,Rob Ninkovich,2011
-22,23,Jets,11/17/2011,DEN,Loss, 13-17,3,26.0,interception,Andre' Goodman,2011
-23,24,Jets,11/17/2011,DEN,Loss, 13-17,4,20.0,rush,Tim Tebow,2011
-24,25,Jets,11/27/2011,BUF,Win, 28-24,1,8.0,pass,David Nelson,2011
-25,26,Jets,11/27/2011,BUF,Win, 28-24,2,5.0,pass,Stevie Johnson,2011
-26,27,Jets,11/27/2011,BUF,Win, 28-24,3,36.0,pass,Brad Smith,2011
-27,28,Jets,12/04/2011,WAS,Win, 34-19,1,2.0,rush,Roy Helu,2011
-28,29,Jets,12/11/2011,KAN,Win, 37-10,4,24.0,pass,Jerheme Urban,2011
-29,30,Jets,12/18/2011,PHI,Loss, 19-45,1,47.0,fumble,Juqua Parker,2011
-30,31,Jets,12/18/2011,PHI,Loss, 19-45,1,26.0,pass,Brent Celek,2011
-31,32,Jets,12/18/2011,PHI,Loss, 19-45,2,11.0,rush,Michael Vick,2011
-32,33,Jets,12/18/2011,PHI,Loss, 19-45,2,9.0,rush,LeSean McCoy,2011
-33,34,Jets,12/18/2011,PHI,Loss, 19-45,3,1.0,rush,LeSean McCoy,2011
-34,35,Jets,12/18/2011,PHI,Loss, 19-45,4,33.0,rush,LeSean McCoy,2011
-35,36,Jets,12/24/2011,NYG,Loss, 14-29,2,99.0,pass,Victor Cruz,2011
-36,37,Jets,12/24/2011,NYG,Loss, 14-29,3,14.0,rush,Ahmad Bradshaw,2011
-37,38,Jets,12/24/2011,NYG,Loss, 14-29,4,19.0,rush,Ahmad Bradshaw,2011
-38,39,Jets,01/01/2012,MIA,Loss, 17-19,4,1.0,pass,Charles Clay,2011
+,Rank,Team,Date,Opponent,Win/Loss,Home_Score,Opponenet_Score,Quarter,Distance,Type,Detail
+1,1,Jets,2011-09-11,DAL,Win,27,24,1,3,pass,Dez Bryant
+2,2,Jets,2011-09-11,DAL,Win,27,24,3,36,pass,Miles Austin
+3,3,Jets,2011-09-11,DAL,Win,27,24,4,1,rush,Felix Jones
+4,4,Jets,2011-09-25,OAK,Loss,24,34,1,2,rush,Darren McFadden
+5,5,Jets,2011-09-25,OAK,Loss,24,34,2,70,rush,Darren McFadden
+6,6,Jets,2011-09-25,OAK,Loss,24,34,3,23,rush,Denarius Moore
+7,7,Jets,2011-09-25,OAK,Loss,24,34,4,1,rush,Michael Bush
+8,8,Jets,2011-10-02,BAL,Loss,17,34,1,0,fumble,Jameel McClain
+9,9,Jets,2011-10-02,BAL,Loss,17,34,1,3,rush,Ray Rice
+10,10,Jets,2011-10-02,BAL,Loss,17,34,2,26,fumble,Jarret Johnson
+11,11,Jets,2011-10-02,BAL,Loss,17,34,3,73,interception,Lardarius Webb
+12,12,Jets,2011-10-09,NWE,Loss,21,30,1,3,rush,BenJarvus Green-Ellis
+13,13,Jets,2011-10-09,NWE,Loss,21,30,3,2,pass,Deion Branch
+14,14,Jets,2011-10-09,NWE,Loss,21,30,3,3,rush,BenJarvus Green-Ellis
+15,15,Jets,2011-10-23,SDG,Win,27,21,1,37,fumble,Donald Butler
+16,16,Jets,2011-10-23,SDG,Win,27,21,2,2,pass,Antonio Gates
+17,17,Jets,2011-10-23,SDG,Win,27,21,2,1,rush,Mike Tolbert
+18,18,Jets,2011-11-06,BUF,Win,27,11,4,7,pass,David Nelson
+19,19,Jets,2011-11-13,NWE,Loss,16,37,2,18,pass,Rob Gronkowski
+20,20,Jets,2011-11-13,NWE,Loss,16,37,3,5,pass,Rob Gronkowski
+21,21,Jets,2011-11-13,NWE,Loss,16,37,4,8,pass,Deion Branch
+22,22,Jets,2011-11-13,NWE,Loss,16,37,4,12,interception,Rob Ninkovich
+23,23,Jets,2011-11-17,DEN,Loss,13,17,3,26,interception,Andre' Goodman
+24,24,Jets,2011-11-17,DEN,Loss,13,17,4,20,rush,Tim Tebow
+25,25,Jets,2011-11-27,BUF,Win,28,24,1,8,pass,David Nelson
+26,26,Jets,2011-11-27,BUF,Win,28,24,2,5,pass,Stevie Johnson
+27,27,Jets,2011-11-27,BUF,Win,28,24,3,36,pass,Brad Smith
+28,28,Jets,2011-12-04,WAS,Win,34,19,1,2,rush,Roy Helu
+29,29,Jets,2011-12-11,KAN,Win,37,10,4,24,pass,Jerheme Urban
+30,30,Jets,2011-12-18,PHI,Loss,19,45,1,47,fumble,Juqua Parker
+31,31,Jets,2011-12-18,PHI,Loss,19,45,1,26,pass,Brent Celek
+32,32,Jets,2011-12-18,PHI,Loss,19,45,2,11,rush,Michael Vick
+33,33,Jets,2011-12-18,PHI,Loss,19,45,2,9,rush,LeSean McCoy
+34,34,Jets,2011-12-18,PHI,Loss,19,45,3,1,rush,LeSean McCoy
+35,35,Jets,2011-12-18,PHI,Loss,19,45,4,33,rush,LeSean McCoy
+36,36,Jets,2011-12-24,NYG,Loss,14,29,2,99,pass,Victor Cruz
+37,37,Jets,2011-12-24,NYG,Loss,14,29,3,14,rush,Ahmad Bradshaw
+38,38,Jets,2011-12-24,NYG,Loss,14,29,4,19,rush,Ahmad Bradshaw
+39,39,Jets,2012-01-01,MIA,Loss,17,19,4,1,pass,Charles Clay

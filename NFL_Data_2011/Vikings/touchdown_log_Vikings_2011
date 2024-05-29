@@ -1,40 +1,40 @@
-,Rank,Team,Date,Opponent,Win/Loss,Score,Quarter,Distance,Type,Detail,Year
-0,1,Vikings,09/11/2011,SDG,Loss, 17-24,1,103,kickoff,Percy Harvin,2011
-1,2,Vikings,09/11/2011,SDG,Loss, 17-24,2,3,pass,Michael Jenkins,2011
-2,3,Vikings,09/18/2011,TAM,Loss, 20-24,1,1,rush,Adrian Peterson,2011
-3,4,Vikings,09/18/2011,TAM,Loss, 20-24,2,9,rush,Adrian Peterson,2011
-4,5,Vikings,09/25/2011,DET,Loss, 23-26,2,6,rush,Adrian Peterson,2011
-5,6,Vikings,09/25/2011,DET,Loss, 23-26,2,8,pass,Visanthe Shiancoe,2011
-6,7,Vikings,10/02/2011,KAN,Loss, 17-22,1,34,pass,Devin Aromashodu,2011
-7,8,Vikings,10/02/2011,KAN,Loss, 17-22,4,1,pass,Michael Jenkins,2011
-8,9,Vikings,10/09/2011,ARI,Win, 34-10,1,4,rush,Adrian Peterson,2011
-9,10,Vikings,10/09/2011,ARI,Win, 34-10,1,24,rush,Adrian Peterson,2011
-10,11,Vikings,10/09/2011,ARI,Win, 34-10,1,4,rush,Donovan McNabb,2011
-11,12,Vikings,10/09/2011,ARI,Win, 34-10,1,14,rush,Adrian Peterson,2011
-12,13,Vikings,10/16/2011,CHI,Loss, 10-39,3,4,rush,Adrian Peterson,2011
-13,14,Vikings,10/23/2011,GNB,Loss, 27-33,1,2,pass,Visanthe Shiancoe,2011
-14,15,Vikings,10/23/2011,GNB,Loss, 27-33,2,1,rush,Adrian Peterson,2011
-15,16,Vikings,10/23/2011,GNB,Loss, 27-33,4,24,pass,Michael Jenkins,2011
-16,17,Vikings,10/30/2011,CAR,Win, 24-21,1,10,rush,Percy Harvin,2011
-17,18,Vikings,10/30/2011,CAR,Win, 24-21,2,19,pass,Adrian Peterson,2011
-18,19,Vikings,10/30/2011,CAR,Win, 24-21,3,9,rush,Adrian Peterson,2011
-19,20,Vikings,11/14/2011,GNB,Loss, 7-45,3,3,rush,Adrian Peterson,2011
-20,21,Vikings,11/20/2011,OAK,Loss, 21-27,1,12,rush,Adrian Peterson,2011
-21,22,Vikings,11/20/2011,OAK,Loss, 21-27,4,26,pass,Percy Harvin,2011
-22,23,Vikings,11/20/2011,OAK,Loss, 21-27,4,1,pass,Kyle Rudolph,2011
-23,24,Vikings,11/27/2011,ATL,Loss, 14-24,3,1,rush,Toby Gerhart,2011
-24,25,Vikings,11/27/2011,ATL,Loss, 14-24,4,39,pass,Percy Harvin,2011
-25,26,Vikings,12/04/2011,DEN,Loss, 32-35,2,19,pass,Kyle Rudolph,2011
-26,27,Vikings,12/04/2011,DEN,Loss, 32-35,3,52,pass,Percy Harvin,2011
-27,28,Vikings,12/04/2011,DEN,Loss, 32-35,4,48,pass,Percy Harvin,2011
-28,29,Vikings,12/11/2011,DET,Loss, 28-34,1,7,pass,Visanthe Shiancoe,2011
-29,30,Vikings,12/11/2011,DET,Loss, 28-34,2,6,pass,Percy Harvin,2011
-30,31,Vikings,12/11/2011,DET,Loss, 28-34,3,65,rush,Joe Webb,2011
-31,32,Vikings,12/11/2011,DET,Loss, 28-34,4,2,pass,Toby Gerhart,2011
-32,33,Vikings,12/18/2011,NOR,Loss, 20-42,2,10,pass,Toby Gerhart,2011
-33,34,Vikings,12/18/2011,NOR,Loss, 20-42,4,16,pass,Toby Gerhart,2011
-34,35,Vikings,12/24/2011,WAS,Win, 33-26,2,1,rush,Adrian Peterson,2011
-35,36,Vikings,12/24/2011,WAS,Win, 33-26,3,9,rush,Joe Webb,2011
-36,37,Vikings,12/24/2011,WAS,Win, 33-26,3,17,pass,Kyle Rudolph,2011
-37,38,Vikings,12/24/2011,WAS,Win, 33-26,4,8,pass,Percy Harvin,2011
-38,39,Vikings,01/01/2012,CHI,Loss, 13-17,1,5,rush,Percy Harvin,2011
+,Rank,Team,Date,Opponent,Win/Loss,Home_Score,Opponenet_Score,Quarter,Distance,Type,Detail
+1,1,Vikings,2011-09-11,SDG,Loss,17,24,1,103,kickoff,Percy Harvin
+2,2,Vikings,2011-09-11,SDG,Loss,17,24,2,3,pass,Michael Jenkins
+3,3,Vikings,2011-09-18,TAM,Loss,20,24,1,1,rush,Adrian Peterson
+4,4,Vikings,2011-09-18,TAM,Loss,20,24,2,9,rush,Adrian Peterson
+5,5,Vikings,2011-09-25,DET,Loss,23,26,2,6,rush,Adrian Peterson
+6,6,Vikings,2011-09-25,DET,Loss,23,26,2,8,pass,Visanthe Shiancoe
+7,7,Vikings,2011-10-02,KAN,Loss,17,22,1,34,pass,Devin Aromashodu
+8,8,Vikings,2011-10-02,KAN,Loss,17,22,4,1,pass,Michael Jenkins
+9,9,Vikings,2011-10-09,ARI,Win,34,10,1,4,rush,Adrian Peterson
+10,10,Vikings,2011-10-09,ARI,Win,34,10,1,24,rush,Adrian Peterson
+11,11,Vikings,2011-10-09,ARI,Win,34,10,1,4,rush,Donovan McNabb
+12,12,Vikings,2011-10-09,ARI,Win,34,10,1,14,rush,Adrian Peterson
+13,13,Vikings,2011-10-16,CHI,Loss,10,39,3,4,rush,Adrian Peterson
+14,14,Vikings,2011-10-23,GNB,Loss,27,33,1,2,pass,Visanthe Shiancoe
+15,15,Vikings,2011-10-23,GNB,Loss,27,33,2,1,rush,Adrian Peterson
+16,16,Vikings,2011-10-23,GNB,Loss,27,33,4,24,pass,Michael Jenkins
+17,17,Vikings,2011-10-30,CAR,Win,24,21,1,10,rush,Percy Harvin
+18,18,Vikings,2011-10-30,CAR,Win,24,21,2,19,pass,Adrian Peterson
+19,19,Vikings,2011-10-30,CAR,Win,24,21,3,9,rush,Adrian Peterson
+20,20,Vikings,2011-11-14,GNB,Loss,7,45,3,3,rush,Adrian Peterson
+21,21,Vikings,2011-11-20,OAK,Loss,21,27,1,12,rush,Adrian Peterson
+22,22,Vikings,2011-11-20,OAK,Loss,21,27,4,26,pass,Percy Harvin
+23,23,Vikings,2011-11-20,OAK,Loss,21,27,4,1,pass,Kyle Rudolph
+24,24,Vikings,2011-11-27,ATL,Loss,14,24,3,1,rush,Toby Gerhart
+25,25,Vikings,2011-11-27,ATL,Loss,14,24,4,39,pass,Percy Harvin
+26,26,Vikings,2011-12-04,DEN,Loss,32,35,2,19,pass,Kyle Rudolph
+27,27,Vikings,2011-12-04,DEN,Loss,32,35,3,52,pass,Percy Harvin
+28,28,Vikings,2011-12-04,DEN,Loss,32,35,4,48,pass,Percy Harvin
+29,29,Vikings,2011-12-11,DET,Loss,28,34,1,7,pass,Visanthe Shiancoe
+30,30,Vikings,2011-12-11,DET,Loss,28,34,2,6,pass,Percy Harvin
+31,31,Vikings,2011-12-11,DET,Loss,28,34,3,65,rush,Joe Webb
+32,32,Vikings,2011-12-11,DET,Loss,28,34,4,2,pass,Toby Gerhart
+33,33,Vikings,2011-12-18,NOR,Loss,20,42,2,10,pass,Toby Gerhart
+34,34,Vikings,2011-12-18,NOR,Loss,20,42,4,16,pass,Toby Gerhart
+35,35,Vikings,2011-12-24,WAS,Win,33,26,2,1,rush,Adrian Peterson
+36,36,Vikings,2011-12-24,WAS,Win,33,26,3,9,rush,Joe Webb
+37,37,Vikings,2011-12-24,WAS,Win,33,26,3,17,pass,Kyle Rudolph
+38,38,Vikings,2011-12-24,WAS,Win,33,26,4,8,pass,Percy Harvin
+39,39,Vikings,2012-01-01,CHI,Loss,13,17,1,5,rush,Percy Harvin

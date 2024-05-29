@@ -1,18 +1,17 @@
-,Week,Team,Day,Date,Time,Win/Loss,Overtime,Team Record,Home/Away,Opponent,Points Scored,Points Allowed,Offense 1st Down,Total Yards Gained of Offense,Total yards Gained by Passing,Total Yards Gained by Rushing,Offense Turnovers,Defense 1st Down,Total Yards Allowed by Defense,Total Passing Yards Allowed by Defense,Total Rushing Yards Allowed by Defense,Defense Turnovers,Offense,Defense,Sp. Tms,Year
-0,0,Jets,Sun,September 11,,W,0,1-0,home,Dallas Cowboys,27,24,19,360,315,45,2,21,390,326,64,3,-2.95,-0.11,5.63,2011
-1,1,Jets,Sun,September 18,,W,0,2-0,home,Jacksonville Jaguars,32,3,15,283,182,101,2,11,203,91,112,4,-4.12,28.7,2.89,2011
-2,2,Jets,Sun,September 25,,L,0,2-1,away,Oakland Raiders,24,34,25,439,339,100,2,23,383,149,234,0,7.97,-14.35,-2.2,2011
-3,3,Jets,Sun,October 2,,L,0,2-2,away,Baltimore Ravens,17,34,7,150,112,38,4,16,267,155,112,3,-48.17,21.47,7.4,2011
-4,4,Jets,Sun,October 9,,L,0,2-3,away,New England Patriots,21,30,14,255,158,97,0,26,446,294,152,1,2.61,-15.34,3.21,2011
-5,5,Jets,Mon,October 17,,W,0,3-3,home,Miami Dolphins,24,6,13,296,192,104,1,17,308,190,118,3,1.08,17.17,-2.59,2011
-6,6,Jets,Sun,October 23,,W,0,4-3,home,San Diego Chargers,27,21,25,318,156,162,2,16,268,172,96,2,3.22,5.4,-0.51,2011
-7,7,Jets,,,,,0,,home,<strong>Bye Week</strong>,0,0,0,0,0,0,0,0,0,0,0,0,,,,2011
-8,8,Jets,Sun,November 6,,W,0,5-3,away,Buffalo Bills,27,11,24,348,222,126,2,14,287,191,96,3,5.28,13.27,0.07,2011
-9,9,Jets,Sun,November 13,,L,0,5-4,home,New England Patriots,16,37,22,378,268,110,3,21,389,329,60,0,-7.82,-7.63,-4.18,2011
-10,10,Jets,Thu,November 17,,L,0,5-5,away,Denver Broncos,13,17,22,318,235,83,2,11,229,104,125,1,-7.47,14.39,-7.24,2011
-11,11,Jets,Sun,November 27,,W,0,6-5,home,Buffalo Bills,28,24,20,318,180,138,2,21,336,250,86,0,13.01,-3.13,-3.17,2011
-12,12,Jets,Sun,December 4,,W,0,7-5,away,Washington Redskins,34,19,16,266,165,101,1,17,304,204,100,3,4.1,13.13,-3.35,2011
-13,13,Jets,Sun,December 11,,W,0,8-5,home,Kansas City Chiefs,37,10,24,314,155,159,1,13,221,156,65,1,12.22,15.74,0.65,2011
-14,14,Jets,Sun,December 18,,L,0,8-6,away,Philadelphia Eagles,19,45,13,241,147,94,4,20,420,260,160,4,-28.66,-12.73,15.28,2011
-15,15,Jets,Sat,December 24,,L,0,8-7,home,New York Giants,14,29,22,331,226,105,3,11,332,217,115,1,-14.01,3.27,-3.11,2011
-16,16,Jets,Sun,January 1,,L,0,8-8,away,Miami Dolphins,17,19,20,374,245,129,3,14,210,128,82,2,-5.63,8.54,-5.47,2011
+,Week,Day,Date,Time,Win/Loss,Overtime,Team Record,Home/Away,Opponent,Points Scored,Points Allowed,Offense 1st Down,Total Yards Gained of Offense,Total yards Gained by Passing,Total Yards Gained by Rushing,Offense Turnovers,Defense 1st Down,Total Yards Allowed by Defense,Total Passing Yards Allowed by Defense,Total Rushing Yards Allowed by Defense,Defense Turnovers,Offense,Defense,Sp. Tms,Team,Year
+0,1,Sun,2011-09-11,nan,Win,0,1-0,home,Dallas Cowboys,27,24,19,360,315,45,2,21,390,326,64,3,-2.95,-0.11,5.63,Jets,2011
+1,2,Sun,2011-09-18,nan,Win,0,2-0,home,Jacksonville Jaguars,32,3,15,283,182,101,2,11,203,91,112,4,-4.12,28.7,2.89,Jets,2011
+2,3,Sun,2011-09-25,nan,Loss,0,2-1,away,Oakland Raiders,24,34,25,439,339,100,2,23,383,149,234,0,7.97,-14.35,-2.2,Jets,2011
+3,4,Sun,2011-10-02,nan,Loss,0,2-2,away,Baltimore Ravens,17,34,7,150,112,38,4,16,267,155,112,3,-48.17,21.47,7.4,Jets,2011
+4,5,Sun,2011-10-09,nan,Loss,0,2-3,away,New England Patriots,21,30,14,255,158,97,0,26,446,294,152,1,2.61,-15.34,3.21,Jets,2011
+5,6,Mon,2011-10-17,nan,Win,0,3-3,home,Miami Dolphins,24,6,13,296,192,104,1,17,308,190,118,3,1.08,17.17,-2.59,Jets,2011
+6,7,Sun,2011-10-23,nan,Win,0,4-3,home,San Diego Chargers,27,21,25,318,156,162,2,16,268,172,96,2,3.22,5.4,-0.51,Jets,2011
+7,9,Sun,2011-11-06,nan,Win,0,5-3,away,Buffalo Bills,27,11,24,348,222,126,2,14,287,191,96,3,5.28,13.27,0.07,Jets,2011
+8,10,Sun,2011-11-13,nan,Loss,0,5-4,home,New England Patriots,16,37,22,378,268,110,3,21,389,329,60,0,-7.82,-7.63,-4.18,Jets,2011
+9,11,Thu,2011-11-17,nan,Loss,0,5-5,away,Denver Broncos,13,17,22,318,235,83,2,11,229,104,125,1,-7.47,14.39,-7.24,Jets,2011
+10,12,Sun,2011-11-27,nan,Win,0,6-5,home,Buffalo Bills,28,24,20,318,180,138,2,21,336,250,86,0,13.01,-3.13,-3.17,Jets,2011
+11,13,Sun,2011-12-04,nan,Win,0,7-5,away,Washington Redskins,34,19,16,266,165,101,1,17,304,204,100,3,4.1,13.13,-3.35,Jets,2011
+12,14,Sun,2011-12-11,nan,Win,0,8-5,home,Kansas City Chiefs,37,10,24,314,155,159,1,13,221,156,65,1,12.22,15.74,0.65,Jets,2011
+13,15,Sun,2011-12-18,nan,Loss,0,8-6,away,Philadelphia Eagles,19,45,13,241,147,94,4,20,420,260,160,4,-28.66,-12.73,15.28,Jets,2011
+14,16,Sat,2011-12-24,nan,Loss,0,8-7,home,New York Giants,14,29,22,331,226,105,3,11,332,217,115,1,-14.01,3.27,-3.11,Jets,2011
+15,17,Sun,2012-01-01,nan,Loss,0,8-8,away,Miami Dolphins,17,19,20,374,245,129,3,14,210,128,82,2,-5.63,8.54,-5.47,Jets,2011

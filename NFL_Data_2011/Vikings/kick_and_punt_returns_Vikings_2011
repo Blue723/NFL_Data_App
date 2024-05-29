@@ -1,6 +1,6 @@
-,No.,Team,Player,Age,Position,Games Played,Games Started,Punts Returned,Punts Return Yardage,Punts Returned for Touchdown,Longest Punt Return,Yards per Punt Return,Kickoff Returns,Yardage for Kickoffs Returned,Kickoffs Returned for a Touchdown,Longest Kickoff Return,Yards per Kickoff Return,All-purpose Yards,Year
-0,35,Vikings,Marcus Sherels,24,DB,16,3,33,277,0,53,8.4,16,445,0,78,27.8,722,2011
-1,27,Vikings,Lorenzo Booker,27,RB,15,0,0,0,0,0,,19,450,0,68,23.7,584,2011
-2,12,Vikings,Percy Harvin,23,WR,16,14,0,0,0,0,,16,520,1,104,32.5,1832,2011
-3,44,Vikings,Ryan D'Imperio,24,LB,12,1,0,0,0,0,,1,6,0,6,6.0,13,2011
-4,97,Vikings,Everson Griffen,24,DE,16,0,0,0,0,0,,1,7,0,7,7.0,16,2011
+,No.,Player,Age,Position,Games Played,Games Started,Punts Returned,Punts Return Yardage,Punts Returned for Touchdown,Longest Punt Return,Yards per Punt Return,Kickoff Returns,Yardage for Kickoffs Returned,Kickoffs Returned for a Touchdown,Longest Kickoff Return,Yards per Kickoff Return,All-purpose Yards,Team,Year
+35,35,Marcus Sherels,24,DB,16,3,33,277,0,53,8.4,16,445,0,78,27.8,722,Vikings,2011
+27,27,Lorenzo Booker,27,RB,15,0,0,0,0,0,0.0,19,450,0,68,23.7,584,Vikings,2011
+12,12,Percy Harvin,23,WR,16,14,0,0,0,0,0.0,16,520,1,104,32.5,1832,Vikings,2011
+44,44,Ryan D'Imperio,24,LB,12,1,0,0,0,0,0.0,1,6,0,6,6.0,13,Vikings,2011
+97,97,Everson Griffen,24,DE,16,0,0,0,0,0,0.0,1,7,0,7,7.0,16,Vikings,2011

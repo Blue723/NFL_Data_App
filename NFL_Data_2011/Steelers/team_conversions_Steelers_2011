@@ -1,5 +1,5 @@
-,Player,Team,3rd Down Attempts in Game,3rd Down Conversions,3rd Down Conversion Per.,4th Down Attempts in Game,4th Down Conversions in Game,4th Down Conversion Per.,Red Zone Attempts,Touchdowns Scored After the Team Entered the Red Zone,Per. of the Time a Team Reaches the Red Zone and Scores a Touchdown,Year
-0,Team Stats,Steelers,196.0,90.0,45.9,8.0,3.0,37.5,53.0,27.0,50.9,2011.0
-1,Opp. Stats,Steelers,221.0,86.0,38.9,13.0,8.0,61.5,31.0,17.0,54.8,2011.0
-2,Lg Rank Offense,Steelers,,,4.0,,,19.0,,,18.0,2011.0
-3,Lg Rank Defense,Steelers,,,19.0,,,28.0,,,17.0,2011.0
+,Player,3rd Down Attempts in Game,3rd Down Conversions,3rd Down Conversion Per.,4th Down Attempts in Game,4th Down Conversions in Game,4th Down Conversion Per.,Red Zone Attempts,Touchdowns Scored After the Team Entered the Red Zone,Per. of the Time a Team Reaches the Red Zone and Scores a Touchdown,Team,Year
+Team Stats,Team Stats,196.0,90.0,45.9,8.0,3.0,37.5,53.0,27.0,50.9,Steelers,2011
+Opp. Stats,Opp. Stats,221.0,86.0,38.9,13.0,8.0,61.5,31.0,17.0,54.8,Steelers,2011
+Lg Rank Offense,Lg Rank Offense,0.0,0.0,4.0,0.0,0.0,19.0,0.0,0.0,18,Steelers,2011
+Lg Rank Defense,Lg Rank Defense,0.0,0.0,19.0,0.0,0.0,28.0,0.0,0.0,17,Steelers,2011

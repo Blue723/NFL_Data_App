@@ -1,43 +1,43 @@
-,Rank,Team,Date,Opponent,Win/Loss,Score,Quarter,Distance,Type,Detail,Year
-0,1,Broncos,09/12/2011,OAK,Loss, 20-23,2,3,pass,Marcel Reece,2011
-1,2,Broncos,09/12/2011,OAK,Loss, 20-23,4,1,rush,Jason Campbell,2011
-2,3,Broncos,09/18/2011,CIN,Win, 24-22,3,10,pass,Andre Caldwell,2011
-3,4,Broncos,09/18/2011,CIN,Win, 24-22,4,5,pass,A.J. Green,2011
-4,5,Broncos,09/25/2011,TEN,Loss, 14-17,2,14,pass,Nate Washington,2011
-5,6,Broncos,09/25/2011,TEN,Loss, 14-17,4,4,pass,Daniel Graham,2011
-6,7,Broncos,10/02/2011,GNB,Loss, 23-49,1,50,pass,Jordy Nelson,2011
-7,8,Broncos,10/02/2011,GNB,Loss, 23-49,1,30,interception,Charles Woodson,2011
-8,9,Broncos,10/02/2011,GNB,Loss, 23-49,2,11,rush,Aaron Rodgers,2011
-9,10,Broncos,10/02/2011,GNB,Loss, 23-49,2,17,pass,Greg Jennings,2011
-10,11,Broncos,10/02/2011,GNB,Loss, 23-49,3,8,rush,Aaron Rodgers,2011
-11,12,Broncos,10/02/2011,GNB,Loss, 23-49,3,16,pass,James Jones,2011
-12,13,Broncos,10/02/2011,GNB,Loss, 23-49,4,8,pass,Donald Driver,2011
-13,14,Broncos,10/09/2011,SDG,Loss, 24-29,2,2,rush,Philip Rivers,2011
-14,15,Broncos,10/09/2011,SDG,Loss, 24-29,2,42,pass,Malcom Floyd,2011
-15,16,Broncos,10/23/2011,MIA,Win, 18-15,4,16,pass,Anthony Fasano,2011
-16,17,Broncos,10/30/2011,DET,Loss, 10-45,1,41,pass,Titus Young,2011
-17,18,Broncos,10/30/2011,DET,Loss, 10-45,2,1,pass,Tony Scheffler,2011
-18,19,Broncos,10/30/2011,DET,Loss, 10-45,2,1,rush,Maurice Morris,2011
-19,20,Broncos,10/30/2011,DET,Loss, 10-45,3,24,fumble,Cliff Avril,2011
-20,21,Broncos,10/30/2011,DET,Loss, 10-45,3,56,pass,Calvin Johnson,2011
-21,22,Broncos,10/30/2011,DET,Loss, 10-45,4,100,interception,Chris Houston,2011
-22,23,Broncos,11/06/2011,OAK,Win, 38-24,2,11,pass,Michael Bush,2011
-23,24,Broncos,11/06/2011,OAK,Win, 38-24,2,40,pass,Marcel Reece,2011
-24,25,Broncos,11/06/2011,OAK,Win, 38-24,3,18,pass,Jacoby Ford,2011
-25,26,Broncos,11/13/2011,KAN,Win, 17-10,3,1,pass,Le'Ron McClain,2011
-26,27,Broncos,11/17/2011,NYJ,Win, 17-13,3,1,fumble,Matt Slauson,2011
-27,28,Broncos,11/27/2011,SDG,Win, 16-13,2,6,pass,Antonio Gates,2011
-28,29,Broncos,12/04/2011,MIN,Win, 35-32,2,19,pass,Kyle Rudolph,2011
-29,30,Broncos,12/04/2011,MIN,Win, 35-32,3,52,pass,Percy Harvin,2011
-30,31,Broncos,12/04/2011,MIN,Win, 35-32,4,48,pass,Percy Harvin,2011
-31,32,Broncos,12/11/2011,CHI,Win, 13-10,3,9,rush,Marion Barber III,2011
-32,33,Broncos,12/18/2011,NWE,Loss, 23-41,1,33,pass,Chad Johnson,2011
-33,34,Broncos,12/18/2011,NWE,Loss, 23-41,2,1,pass,Aaron Hernandez,2011
-34,35,Broncos,12/18/2011,NWE,Loss, 23-41,2,1,rush,Tom Brady,2011
-35,36,Broncos,12/18/2011,NWE,Loss, 23-41,3,10,rush,Danny Woodhead,2011
-36,37,Broncos,12/18/2011,NWE,Loss, 23-41,4,1,rush,BenJarvus Green-Ellis,2011
-37,38,Broncos,12/24/2011,BUF,Loss, 14-40,2,80,punt,Leodis McKelvin,2011
-38,39,Broncos,12/24/2011,BUF,Loss, 14-40,2,4,rush,C.J. Spiller,2011
-39,40,Broncos,12/24/2011,BUF,Loss, 14-40,4,37,interception,Jairus Byrd,2011
-40,41,Broncos,12/24/2011,BUF,Loss, 14-40,4,17,fumble,Spencer Johnson,2011
-41,42,Broncos,01/01/2012,KAN,Loss, 3-7,1,21,rush,Dexter McCluster,2011
+,Rank,Team,Date,Opponent,Win/Loss,Home_Score,Opponenet_Score,Quarter,Distance,Type,Detail
+1,1,Broncos,2011-09-12,OAK,Loss,20,23,2,3,pass,Marcel Reece
+2,2,Broncos,2011-09-12,OAK,Loss,20,23,4,1,rush,Jason Campbell
+3,3,Broncos,2011-09-18,CIN,Win,24,22,3,10,pass,Andre Caldwell
+4,4,Broncos,2011-09-18,CIN,Win,24,22,4,5,pass,A.J. Green
+5,5,Broncos,2011-09-25,TEN,Loss,14,17,2,14,pass,Nate Washington
+6,6,Broncos,2011-09-25,TEN,Loss,14,17,4,4,pass,Daniel Graham
+7,7,Broncos,2011-10-02,GNB,Loss,23,49,1,50,pass,Jordy Nelson
+8,8,Broncos,2011-10-02,GNB,Loss,23,49,1,30,interception,Charles Woodson
+9,9,Broncos,2011-10-02,GNB,Loss,23,49,2,11,rush,Aaron Rodgers
+10,10,Broncos,2011-10-02,GNB,Loss,23,49,2,17,pass,Greg Jennings
+11,11,Broncos,2011-10-02,GNB,Loss,23,49,3,8,rush,Aaron Rodgers
+12,12,Broncos,2011-10-02,GNB,Loss,23,49,3,16,pass,James Jones
+13,13,Broncos,2011-10-02,GNB,Loss,23,49,4,8,pass,Donald Driver
+14,14,Broncos,2011-10-09,SDG,Loss,24,29,2,2,rush,Philip Rivers
+15,15,Broncos,2011-10-09,SDG,Loss,24,29,2,42,pass,Malcom Floyd
+16,16,Broncos,2011-10-23,MIA,Win,18,15,4,16,pass,Anthony Fasano
+17,17,Broncos,2011-10-30,DET,Loss,10,45,1,41,pass,Titus Young
+18,18,Broncos,2011-10-30,DET,Loss,10,45,2,1,pass,Tony Scheffler
+19,19,Broncos,2011-10-30,DET,Loss,10,45,2,1,rush,Maurice Morris
+20,20,Broncos,2011-10-30,DET,Loss,10,45,3,24,fumble,Cliff Avril
+21,21,Broncos,2011-10-30,DET,Loss,10,45,3,56,pass,Calvin Johnson
+22,22,Broncos,2011-10-30,DET,Loss,10,45,4,100,interception,Chris Houston
+23,23,Broncos,2011-11-06,OAK,Win,38,24,2,11,pass,Michael Bush
+24,24,Broncos,2011-11-06,OAK,Win,38,24,2,40,pass,Marcel Reece
+25,25,Broncos,2011-11-06,OAK,Win,38,24,3,18,pass,Jacoby Ford
+26,26,Broncos,2011-11-13,KAN,Win,17,10,3,1,pass,Le'Ron McClain
+27,27,Broncos,2011-11-17,NYJ,Win,17,13,3,1,fumble,Matt Slauson
+28,28,Broncos,2011-11-27,SDG,Win,16,13,2,6,pass,Antonio Gates
+29,29,Broncos,2011-12-04,MIN,Win,35,32,2,19,pass,Kyle Rudolph
+30,30,Broncos,2011-12-04,MIN,Win,35,32,3,52,pass,Percy Harvin
+31,31,Broncos,2011-12-04,MIN,Win,35,32,4,48,pass,Percy Harvin
+32,32,Broncos,2011-12-11,CHI,Win,13,10,3,9,rush,Marion Barber III
+33,33,Broncos,2011-12-18,NWE,Loss,23,41,1,33,pass,Chad Johnson
+34,34,Broncos,2011-12-18,NWE,Loss,23,41,2,1,pass,Aaron Hernandez
+35,35,Broncos,2011-12-18,NWE,Loss,23,41,2,1,rush,Tom Brady
+36,36,Broncos,2011-12-18,NWE,Loss,23,41,3,10,rush,Danny Woodhead
+37,37,Broncos,2011-12-18,NWE,Loss,23,41,4,1,rush,BenJarvus Green-Ellis
+38,38,Broncos,2011-12-24,BUF,Loss,14,40,2,80,punt,Leodis McKelvin
+39,39,Broncos,2011-12-24,BUF,Loss,14,40,2,4,rush,C.J. Spiller
+40,40,Broncos,2011-12-24,BUF,Loss,14,40,4,37,interception,Jairus Byrd
+41,41,Broncos,2011-12-24,BUF,Loss,14,40,4,17,fumble,Spencer Johnson
+42,42,Broncos,2012-01-01,KAN,Loss,3,7,1,21,rush,Dexter McCluster

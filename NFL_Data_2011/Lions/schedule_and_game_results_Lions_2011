@@ -1,20 +1,18 @@
-,Week,Team,Day,Date,Time,Win/Loss,Overtime,Team Record,Home/Away,Opponent,Points Scored,Points Allowed,Offense 1st Down,Total Yards Gained of Offense,Total yards Gained by Passing,Total Yards Gained by Rushing,Offense Turnovers,Defense 1st Down,Total Yards Allowed by Defense,Total Passing Yards Allowed by Defense,Total Rushing Yards Allowed by Defense,Defense Turnovers,Offense,Defense,Sp. Tms,Year
-0,0,Lions,Sun,September 11,,W,0,1-0,away,Tampa Bay Buccaneers,27,20,25,431,305,126,1,17,315,259,56,2,7.26,-0.26,-1.73,2011
-1,1,Lions,Sun,September 18,,W,0,2-0,home,Kansas City Chiefs,48,3,23,411,322,89,1,12,267,116,151,6,17.01,23.45,4.96,2011
-2,2,1,1,1,1.0,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1.0,1.0,1.0,1
-3,3,Lions,Sun,October 2,,W,0,4-0,away,Dallas Cowboys,34,30,18,303,240,63,1,25,434,321,113,3,-2.92,6.22,2.15,2011
-4,4,Lions,Mon,October 10,,W,0,5-0,home,Chicago Bears,24,13,16,395,214,181,1,23,359,237,122,0,15.11,-4.08,-4.05,2011
-5,5,Lions,Sun,October 16,,L,0,5-1,home,San Francisco 49ers,19,25,21,310,244,66,0,14,314,111,203,2,-7.91,13.21,-11.3,2011
-6,6,Lions,Sun,October 23,,L,0,5-2,home,Atlanta Falcons,16,23,13,263,159,104,1,22,328,199,129,2,-6.33,0.76,-2.34,2011
-7,7,Lions,Sun,October 30,,W,0,6-2,away,Denver Broncos,45,10,21,376,263,113,0,19,312,117,195,3,13.27,28.52,-6.22,2011
-8,8,Lions,,,,,0,,home,<strong>Bye Week</strong>,0,0,0,0,0,0,0,0,0,0,0,0,,,,2011
-9,9,Lions,Sun,November 13,,L,0,6-3,away,Chicago Bears,13,37,22,393,313,80,6,12,216,107,109,1,-28.13,8.13,-6.33,2011
-10,10,Lions,Sun,November 20,,W,0,7-3,home,Carolina Panthers,49,35,29,495,326,169,3,24,409,272,137,4,25.41,-2.27,-8.83,2011
-11,11,Lions,Thu,November 24,,L,0,7-4,home,Green Bay Packers,15,27,23,409,273,136,3,18,349,296,53,0,3.15,-11.14,-2.4,2011
-12,12,Lions,Sun,December 4,,L,0,7-5,away,New Orleans Saints,17,31,25,466,379,87,1,21,438,338,100,0,9.84,-18.58,-5.37,2011
-13,13,Lions,Sun,December 11,,W,0,8-5,home,Minnesota Vikings,34,28,13,280,208,72,0,29,425,156,269,6,1.79,2.09,2.91,2011
-14,14,Lions,Sun,December 18,,W,0,9-5,away,Oakland Raiders,28,27,25,432,375,57,1,26,477,345,132,1,10.93,-10.54,-1.91,2011
-15,15,Lions,Sat,December 24,,W,0,10-5,home,San Diego Chargers,38,10,24,440,353,87,0,20,367,299,68,2,24.58,5.31,-2.24,2011
-16,16,Lions,Sun,January 1,,L,0,10-6,away,Green Bay Packers,41,45,32,575,502,73,4,27,550,469,81,2,17.18,-23.71,2.86,2011
-17,17,Lions,,<strong>Playoffs</strong>,,,0,,home,,0,0,0,0,0,0,0,0,0,0,0,0,,,,2011
-18,18,Lions,Sat,January 7,,L,0,10-7,away,New Orleans Saints,28,45,22,412,380,32,2,34,626,459,167,2,18.92,-36.36,0.82,2011
+,Week,Day,Date,Time,Win/Loss,Overtime,Team Record,Home/Away,Opponent,Points Scored,Points Allowed,Offense 1st Down,Total Yards Gained of Offense,Total yards Gained by Passing,Total Yards Gained by Rushing,Offense Turnovers,Defense 1st Down,Total Yards Allowed by Defense,Total Passing Yards Allowed by Defense,Total Rushing Yards Allowed by Defense,Defense Turnovers,Offense,Defense,Sp. Tms,Team,Year
+0,1,Sun,2011-09-11,nan,Win,0,1-0,away,Tampa Bay Buccaneers,27,20,25,431,305,126,1,17,315,259,56,2,7.26,-0.26,-1.73,Lions,2011
+1,2,Sun,2011-09-18,nan,Win,0,2-0,home,Kansas City Chiefs,48,3,23,411,322,89,1,12,267,116,151,6,17.01,23.45,4.96,Lions,2011
+2,3,Sun,2011-09-25,nan,Win,1,3-0,away,Minnesota Vikings,26,23,19,358,338,20,0,16,321,189,132,0,4.23,4.46,-5.63,Lions,2011
+3,4,Sun,2011-10-02,nan,Win,0,4-0,away,Dallas Cowboys,34,30,18,303,240,63,1,25,434,321,113,3,-2.92,6.22,2.15,Lions,2011
+4,5,Mon,2011-10-10,nan,Win,0,5-0,home,Chicago Bears,24,13,16,395,214,181,1,23,359,237,122,0,15.11,-4.08,-4.05,Lions,2011
+5,6,Sun,2011-10-16,nan,Loss,0,5-1,home,San Francisco 49ers,19,25,21,310,244,66,0,14,314,111,203,2,-7.91,13.21,-11.3,Lions,2011
+6,7,Sun,2011-10-23,nan,Loss,0,5-2,home,Atlanta Falcons,16,23,13,263,159,104,1,22,328,199,129,2,-6.33,0.76,-2.34,Lions,2011
+7,8,Sun,2011-10-30,nan,Win,0,6-2,away,Denver Broncos,45,10,21,376,263,113,0,19,312,117,195,3,13.27,28.52,-6.22,Lions,2011
+8,10,Sun,2011-11-13,nan,Loss,0,6-3,away,Chicago Bears,13,37,22,393,313,80,6,12,216,107,109,1,-28.13,8.13,-6.33,Lions,2011
+9,11,Sun,2011-11-20,nan,Win,0,7-3,home,Carolina Panthers,49,35,29,495,326,169,3,24,409,272,137,4,25.41,-2.27,-8.83,Lions,2011
+10,12,Thu,2011-11-24,nan,Loss,0,7-4,home,Green Bay Packers,15,27,23,409,273,136,3,18,349,296,53,0,3.15,-11.14,-2.4,Lions,2011
+11,13,Sun,2011-12-04,nan,Loss,0,7-5,away,New Orleans Saints,17,31,25,466,379,87,1,21,438,338,100,0,9.84,-18.58,-5.37,Lions,2011
+12,14,Sun,2011-12-11,nan,Win,0,8-5,home,Minnesota Vikings,34,28,13,280,208,72,0,29,425,156,269,6,1.79,2.09,2.91,Lions,2011
+13,15,Sun,2011-12-18,nan,Win,0,9-5,away,Oakland Raiders,28,27,25,432,375,57,1,26,477,345,132,1,10.93,-10.54,-1.91,Lions,2011
+14,16,Sat,2011-12-24,nan,Win,0,10-5,home,San Diego Chargers,38,10,24,440,353,87,0,20,367,299,68,2,24.58,5.31,-2.24,Lions,2011
+15,17,Sun,2012-01-01,nan,Loss,0,10-6,away,Green Bay Packers,41,45,32,575,502,73,4,27,550,469,81,2,17.18,-23.71,2.86,Lions,2011
+16,19,Sat,2012-01-07,nan,Loss,0,10-7,away,New Orleans Saints,28,45,22,412,380,32,2,34,626,459,167,2,18.92,-36.36,0.82,Lions,2011

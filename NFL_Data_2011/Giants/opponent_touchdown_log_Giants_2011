@@ -1,47 +1,47 @@
-,Rank,Team,Date,Opponent,Win/Loss,Score,Quarter,Distance,Type,Detail,Year
-0,1,Giants,09/11/2011,WAS,Loss, 14-28,2,1,rush,Tim Hightower,2011
-1,2,Giants,09/11/2011,WAS,Loss, 14-28,2,6,pass,Anthony Armstrong,2011
-2,3,Giants,09/11/2011,WAS,Loss, 14-28,3,9,interception,Ryan Kerrigan,2011
-3,4,Giants,09/11/2011,WAS,Loss, 14-28,4,4,pass,Jabar Gaffney,2011
-4,5,Giants,09/19/2011,STL,Win, 28-16,3,19,pass,Danario Alexander,2011
-5,6,Giants,09/25/2011,PHI,Win, 29-16,2,11,rush,LeSean McCoy,2011
-6,7,Giants,10/02/2011,ARI,Win, 31-27,3,1,rush,Beanie Wells,2011
-7,8,Giants,10/02/2011,ARI,Win, 31-27,3,1,rush,Beanie Wells,2011
-8,9,Giants,10/02/2011,ARI,Win, 31-27,4,2,rush,Beanie Wells,2011
-9,10,Giants,10/09/2011,SEA,Loss, 25-36,1,11,pass,Ben Obomanu,2011
-10,11,Giants,10/09/2011,SEA,Loss, 25-36,1,1,rush,Marshawn Lynch,2011
-11,12,Giants,10/09/2011,SEA,Loss, 25-36,4,27,pass,Doug Baldwin,2011
-12,13,Giants,10/09/2011,SEA,Loss, 25-36,4,94,interception,Brandon Browner,2011
-13,14,Giants,10/16/2011,BUF,Win, 27-24,1,80,rush,Fred Jackson,2011
-14,15,Giants,10/16/2011,BUF,Win, 27-24,1,60,pass,Naaman Roosevelt,2011
-15,16,Giants,10/16/2011,BUF,Win, 27-24,4,9,pass,Stevie Johnson,2011
-16,17,Giants,10/30/2011,MIA,Win, 20-17,1,1,rush,Steve Slaton,2011
-17,18,Giants,10/30/2011,MIA,Win, 20-17,2,1,rush,Matt Moore,2011
-18,19,Giants,11/06/2011,NWE,Win, 24-20,4,5,pass,Aaron Hernandez,2011
-19,20,Giants,11/06/2011,NWE,Win, 24-20,4,14,pass,Rob Gronkowski,2011
-20,21,Giants,11/13/2011,SFO,Loss, 20-27,4,31,pass,Vernon Davis,2011
-21,22,Giants,11/13/2011,SFO,Loss, 20-27,4,17,rush,Kendall Hunter,2011
-22,23,Giants,11/20/2011,PHI,Loss, 10-17,2,14,pass,Steve Smith,2011
-23,24,Giants,11/20/2011,PHI,Loss, 10-17,4,8,pass,Riley Cooper,2011
-24,25,Giants,11/28/2011,NOR,Loss, 24-49,2,4,pass,Lance Moore,2011
-25,26,Giants,11/28/2011,NOR,Loss, 24-49,2,5,pass,Jimmy Graham,2011
-26,27,Giants,11/28/2011,NOR,Loss, 24-49,2,10,pass,Lance Moore,2011
-27,28,Giants,11/28/2011,NOR,Loss, 24-49,3,8,rush,Drew Brees,2011
-28,29,Giants,11/28/2011,NOR,Loss, 24-49,3,29,pass,Jimmy Graham,2011
-29,30,Giants,11/28/2011,NOR,Loss, 24-49,4,12,rush,Pierre Thomas,2011
-30,31,Giants,11/28/2011,NOR,Loss, 24-49,4,35,rush,Mark Ingram,2011
-31,32,Giants,12/04/2011,GNB,Loss, 35-38,1,12,pass,Jermichael Finley,2011
-32,33,Giants,12/04/2011,GNB,Loss, 35-38,2,38,interception,Clay Matthews,2011
-33,34,Giants,12/04/2011,GNB,Loss, 35-38,2,13,pass,Donald Driver,2011
-34,35,Giants,12/04/2011,GNB,Loss, 35-38,3,20,pass,Greg Jennings,2011
-35,36,Giants,12/04/2011,GNB,Loss, 35-38,4,7,pass,Donald Driver,2011
-36,37,Giants,12/11/2011,DAL,Win, 37-34,1,12,pass,John Phillips,2011
-37,38,Giants,12/11/2011,DAL,Win, 37-34,2,9,pass,Laurent Robinson,2011
-38,39,Giants,12/11/2011,DAL,Win, 37-34,4,6,pass,Miles Austin,2011
-39,40,Giants,12/11/2011,DAL,Win, 37-34,4,50,pass,Dez Bryant,2011
-40,41,Giants,12/18/2011,WAS,Loss, 10-23,2,20,pass,Santana Moss,2011
-41,42,Giants,12/18/2011,WAS,Loss, 10-23,2,6,rush,Darrel Young,2011
-42,43,Giants,12/24/2011,NYJ,Win, 29-14,1,5,pass,Josh Baker,2011
-43,44,Giants,12/24/2011,NYJ,Win, 29-14,4,1,rush,Mark Sanchez,2011
-44,45,Giants,01/01/2012,DAL,Win, 31-14,3,34,pass,Laurent Robinson,2011
-45,46,Giants,01/01/2012,DAL,Win, 31-14,4,6,pass,Laurent Robinson,2011
+,Rank,Team,Date,Opponent,Win/Loss,Home_Score,Opponenet_Score,Quarter,Distance,Type,Detail
+1,1,Giants,2011-09-11,WAS,Loss,14,28,2,1,rush,Tim Hightower
+2,2,Giants,2011-09-11,WAS,Loss,14,28,2,6,pass,Anthony Armstrong
+3,3,Giants,2011-09-11,WAS,Loss,14,28,3,9,interception,Ryan Kerrigan
+4,4,Giants,2011-09-11,WAS,Loss,14,28,4,4,pass,Jabar Gaffney
+5,5,Giants,2011-09-19,STL,Win,28,16,3,19,pass,Danario Alexander
+6,6,Giants,2011-09-25,PHI,Win,29,16,2,11,rush,LeSean McCoy
+7,7,Giants,2011-10-02,ARI,Win,31,27,3,1,rush,Beanie Wells
+8,8,Giants,2011-10-02,ARI,Win,31,27,3,1,rush,Beanie Wells
+9,9,Giants,2011-10-02,ARI,Win,31,27,4,2,rush,Beanie Wells
+10,10,Giants,2011-10-09,SEA,Loss,25,36,1,11,pass,Ben Obomanu
+11,11,Giants,2011-10-09,SEA,Loss,25,36,1,1,rush,Marshawn Lynch
+12,12,Giants,2011-10-09,SEA,Loss,25,36,4,27,pass,Doug Baldwin
+13,13,Giants,2011-10-09,SEA,Loss,25,36,4,94,interception,Brandon Browner
+14,14,Giants,2011-10-16,BUF,Win,27,24,1,80,rush,Fred Jackson
+15,15,Giants,2011-10-16,BUF,Win,27,24,1,60,pass,Naaman Roosevelt
+16,16,Giants,2011-10-16,BUF,Win,27,24,4,9,pass,Stevie Johnson
+17,17,Giants,2011-10-30,MIA,Win,20,17,1,1,rush,Steve Slaton
+18,18,Giants,2011-10-30,MIA,Win,20,17,2,1,rush,Matt Moore
+19,19,Giants,2011-11-06,NWE,Win,24,20,4,5,pass,Aaron Hernandez
+20,20,Giants,2011-11-06,NWE,Win,24,20,4,14,pass,Rob Gronkowski
+21,21,Giants,2011-11-13,SFO,Loss,20,27,4,31,pass,Vernon Davis
+22,22,Giants,2011-11-13,SFO,Loss,20,27,4,17,rush,Kendall Hunter
+23,23,Giants,2011-11-20,PHI,Loss,10,17,2,14,pass,Steve Smith
+24,24,Giants,2011-11-20,PHI,Loss,10,17,4,8,pass,Riley Cooper
+25,25,Giants,2011-11-28,NOR,Loss,24,49,2,4,pass,Lance Moore
+26,26,Giants,2011-11-28,NOR,Loss,24,49,2,5,pass,Jimmy Graham
+27,27,Giants,2011-11-28,NOR,Loss,24,49,2,10,pass,Lance Moore
+28,28,Giants,2011-11-28,NOR,Loss,24,49,3,8,rush,Drew Brees
+29,29,Giants,2011-11-28,NOR,Loss,24,49,3,29,pass,Jimmy Graham
+30,30,Giants,2011-11-28,NOR,Loss,24,49,4,12,rush,Pierre Thomas
+31,31,Giants,2011-11-28,NOR,Loss,24,49,4,35,rush,Mark Ingram
+32,32,Giants,2011-12-04,GNB,Loss,35,38,1,12,pass,Jermichael Finley
+33,33,Giants,2011-12-04,GNB,Loss,35,38,2,38,interception,Clay Matthews
+34,34,Giants,2011-12-04,GNB,Loss,35,38,2,13,pass,Donald Driver
+35,35,Giants,2011-12-04,GNB,Loss,35,38,3,20,pass,Greg Jennings
+36,36,Giants,2011-12-04,GNB,Loss,35,38,4,7,pass,Donald Driver
+37,37,Giants,2011-12-11,DAL,Win,37,34,1,12,pass,John Phillips
+38,38,Giants,2011-12-11,DAL,Win,37,34,2,9,pass,Laurent Robinson
+39,39,Giants,2011-12-11,DAL,Win,37,34,4,6,pass,Miles Austin
+40,40,Giants,2011-12-11,DAL,Win,37,34,4,50,pass,Dez Bryant
+41,41,Giants,2011-12-18,WAS,Loss,10,23,2,20,pass,Santana Moss
+42,42,Giants,2011-12-18,WAS,Loss,10,23,2,6,rush,Darrel Young
+43,43,Giants,2011-12-24,NYJ,Win,29,14,1,5,pass,Josh Baker
+44,44,Giants,2011-12-24,NYJ,Win,29,14,4,1,rush,Mark Sanchez
+45,45,Giants,2012-01-01,DAL,Win,31,14,3,34,pass,Laurent Robinson
+46,46,Giants,2012-01-01,DAL,Win,31,14,4,6,pass,Laurent Robinson

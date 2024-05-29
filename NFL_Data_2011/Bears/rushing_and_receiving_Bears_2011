@@ -1,18 +1,18 @@
-,No.,Team,Player,Age,Position,Games Played,Games Started as an Offensive or Defensive Player,Rushing Attempts,Rushing Yards Gained,Rushing Touchdown,First Downs Rushing,Rushing Success Rate,Longest Rushing Attempt,Rushing Yards per Attempt,Rushing Yards per Game,Rushing Attempts per Game,Pass Targets,Receptions,Receiving Yards,Receiving Yards per Reception,Receiving Touchdowns,First Downs Receiving,Receiving Success Rate,Longest Reception,Receptions per Game,Receiving Yards per Game,Catch Per.,Receiving Yards per Target,Touches: Rushing Attempts and Receptions,Scrimmage Yards per Touch: Rushing + Receiving Yardage per Opportunity,Yards from Scrimmage: Receiving and Rushing Yards,Rushing and Receiving Touchdowns,Lost and Recovered Fumbles,Year
-0,22,Bears,Matt Forte,26,RB,12,12,203,997,3,41,43.8,46,4.9,83.1,16.9,76,52,490,9.4,1,20,38.2,56,4.3,40.8,68.4,6.4,255,5.8,1487,4,2,2011
-1,24,Bears,Marion Barber III,28,RB,11,1,114,422,6,26,39.5,29,3.7,38.4,10.4,9,5,50,10.0,0,1,33.3,16,0.5,4.5,55.6,5.6,119,4.0,472,6,1,2011
-2,32,Bears,Kahlil Bell,25,RB,13,3,79,337,0,15,40.5,26,4.3,25.9,6.1,23,19,133,7.0,1,4,43.5,25,1.5,10.2,82.6,5.8,98,4.8,470,1,3,2011
-3,6,Bears,Jay Cutler,28,QB,10,10,18,55,1,4,27.8,12,3.1,5.5,1.8,0,0,0,,0,0,,0,,,0.0,,18,3.1,55,1,7,2011
-4,25,Bears,Armando Allen,22,RB,2,0,15,48,0,3,33.3,13,3.2,24.0,7.5,1,0,0,,0,0,0.0,0,0.0,0.0,0.0,0.0,15,3.2,48,0,0,2011
-5,12,Bears,Caleb Hanie,26,QB,6,4,13,98,0,4,61.5,24,7.5,16.3,2.2,0,0,0,,0,0,,0,,,0.0,,13,7.5,98,0,1,2011
-6,15,Bears,Josh McCown,32,QB,3,2,12,68,0,5,66.7,28,5.7,22.7,4.0,0,0,0,,0,0,,0,,,0.0,,12,5.7,68,0,2,2011
-7,18,Bears,Dane Sanzenbacher,23,WR,16,1,1,-4,0,0,0.0,-4,-4.0,-0.3,0.1,54,27,276,10.2,3,16,44.4,22,1.7,17.3,50.0,5.1,28,9.7,272,3,0,2011
-8,23,Bears,Devin Hester,29,WR,16,8,1,-6,0,0,0.0,-6,-6.0,-0.4,0.1,56,26,369,14.2,1,16,35.7,53,1.6,23.1,46.4,6.6,27,13.4,363,1,5,2011
-9,13,Bears,Johnny Knox,25,WR,14,11,0,0,0,0,,0,,,,69,37,727,19.6,2,31,46.4,81,2.6,51.9,53.6,10.5,37,19.6,727,2,1,2011
-10,11,Bears,Roy Williams,30,WR,15,9,0,0,0,0,,0,,,,63,37,507,13.7,2,29,57.1,25,2.5,33.8,58.7,8.0,37,13.7,507,2,0,2011
-11,80,Bears,Earl Bennett,24,WR,11,4,0,0,0,0,,0,,,,43,24,381,15.9,1,14,48.8,49,2.2,34.6,55.8,8.9,24,15.9,381,1,1,2011
-12,87,Bears,Kellen Davis,26,TE,16,15,0,0,0,0,,0,,,,35,18,206,11.4,5,13,40.0,32,1.1,12.9,51.4,5.9,18,11.4,206,5,0,2011
-13,44,Bears,Tyler Clutts,27,FB,16,8,0,0,0,0,,0,,,,10,8,48,6.0,0,2,60.0,10,0.5,3.0,80.0,4.8,8,6.0,48,0,1,2011
-14,81,Bears,Sam Hurd,26,WR,12,0,0,0,0,0,,0,,,,15,8,109,13.6,0,4,46.7,28,0.7,9.1,53.3,7.3,8,13.6,109,0,1,2011
-15,89,Bears,Matt Spaeth,28,TE,15,8,0,0,0,0,,0,,,,11,7,50,7.1,2,4,54.5,13,0.5,3.3,63.6,4.5,7,7.1,50,2,0,2011
-16,20,Bears,Craig Steltz,25,SS,16,5,0,0,0,0,,0,,,,1,0,0,,0,0,,0,0.0,0.0,0.0,0.0,0,,0,0,0,2011
+,No.,Player,Age,Position,Games Played,Games Started as an Offensive or Defensive Player,Rushing Attempts,Rushing Yards Gained,Rushing Touchdown,First Downs Rushing,Rushing Success Rate,Longest Rushing Attempt,Rushing Yards per Attempt,Rushing Yards per Game,Rushing Attempts per Game,Pass Targets,Receptions,Receiving Yards,Receiving Yards per Reception,Receiving Touchdowns,First Downs Receiving,Receiving Success Rate,Longest Reception,Receptions per Game,Receiving Yards per Game,Catch Per.,Receiving Yards per Target,Touches: Rushing Attempts and Receptions,Scrimmage Yards per Touch: Rushing + Receiving Yardage per Opportunity,Yards from Scrimmage: Receiving and Rushing Yards,Rushing and Receiving Touchdowns,Lost and Recovered Fumbles,Team,Year
+22,22,Matt Forte,26,RB,12,12,203,997,3,41,43.8,46,4.9,83.1,16.9,76,52,490,9.4,1,20,38.2,56,4.3,40.8,68.4,6.4,255,5.8,1487,4,2,Bears,2011
+24,24,Marion Barber III,28,RB,11,1,114,422,6,26,39.5,29,3.7,38.4,10.4,9,5,50,10.0,0,1,33.3,16,0.5,4.5,55.6,5.6,119,4.0,472,6,1,Bears,2011
+32,32,Kahlil Bell,25,RB,13,3,79,337,0,15,40.5,26,4.3,25.9,6.1,23,19,133,7.0,1,4,43.5,25,1.5,10.2,82.6,5.8,98,4.8,470,1,3,Bears,2011
+6,6,Jay Cutler,28,QB,10,10,18,55,1,4,27.8,12,3.1,5.5,1.8,0,0,0,0.0,0,0,0.0,0,0.0,0.0,0.0,0.0,18,3.1,55,1,7,Bears,2011
+25,25,Armando Allen,22,RB,2,0,15,48,0,3,33.3,13,3.2,24.0,7.5,1,0,0,0.0,0,0,0.0,0,0.0,0.0,0.0,0.0,15,3.2,48,0,0,Bears,2011
+12,12,Caleb Hanie,26,QB,6,4,13,98,0,4,61.5,24,7.5,16.3,2.2,0,0,0,0.0,0,0,0.0,0,0.0,0.0,0.0,0.0,13,7.5,98,0,1,Bears,2011
+15,15,Josh McCown,32,QB,3,2,12,68,0,5,66.7,28,5.7,22.7,4.0,0,0,0,0.0,0,0,0.0,0,0.0,0.0,0.0,0.0,12,5.7,68,0,2,Bears,2011
+18,18,Dane Sanzenbacher,23,WR,16,1,1,-4,0,0,0.0,-4,-4.0,-0.3,0.1,54,27,276,10.2,3,16,44.4,22,1.7,17.3,50.0,5.1,28,9.7,272,3,0,Bears,2011
+23,23,Devin Hester,29,WR,16,8,1,-6,0,0,0.0,-6,-6.0,-0.4,0.1,56,26,369,14.2,1,16,35.7,53,1.6,23.1,46.4,6.6,27,13.4,363,1,5,Bears,2011
+13,13,Johnny Knox,25,WR,14,11,0,0,0,0,0.0,0,0.0,0.0,0.0,69,37,727,19.6,2,31,46.4,81,2.6,51.9,53.6,10.5,37,19.6,727,2,1,Bears,2011
+11,11,Roy Williams,30,WR,15,9,0,0,0,0,0.0,0,0.0,0.0,0.0,63,37,507,13.7,2,29,57.1,25,2.5,33.8,58.7,8.0,37,13.7,507,2,0,Bears,2011
+80,80,Earl Bennett,24,WR,11,4,0,0,0,0,0.0,0,0.0,0.0,0.0,43,24,381,15.9,1,14,48.8,49,2.2,34.6,55.8,8.9,24,15.9,381,1,1,Bears,2011
+87,87,Kellen Davis,26,TE,16,15,0,0,0,0,0.0,0,0.0,0.0,0.0,35,18,206,11.4,5,13,40.0,32,1.1,12.9,51.4,5.9,18,11.4,206,5,0,Bears,2011
+44,44,Tyler Clutts,27,FB,16,8,0,0,0,0,0.0,0,0.0,0.0,0.0,10,8,48,6.0,0,2,60.0,10,0.5,3.0,80.0,4.8,8,6.0,48,0,1,Bears,2011
+81,81,Sam Hurd,26,WR,12,0,0,0,0,0,0.0,0,0.0,0.0,0.0,15,8,109,13.6,0,4,46.7,28,0.7,9.1,53.3,7.3,8,13.6,109,0,1,Bears,2011
+89,89,Matt Spaeth,28,TE,15,8,0,0,0,0,0.0,0,0.0,0.0,0.0,11,7,50,7.1,2,4,54.5,13,0.5,3.3,63.6,4.5,7,7.1,50,2,0,Bears,2011
+20,20,Craig Steltz,25,SS,16,5,0,0,0,0,0.0,0,0.0,0.0,0.0,1,0,0,0.0,0,0,0.0,0,0.0,0.0,0.0,0.0,0,0.0,0,0,0,Bears,2011

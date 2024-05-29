@@ -1,38 +1,38 @@
-,Rank,Team,Date,Opponent,Win/Loss,Score,Quarter,Distance,Type,Detail,Year
-0,1,Jaguars,09/11/2011,TEN,Win, 16-14,3,80,pass,Kenny Britt,2011
-1,2,Jaguars,09/11/2011,TEN,Win, 16-14,4,2,pass,Kenny Britt,2011
-2,3,Jaguars,09/18/2011,NYJ,Loss, 3-32,1,17,pass,Santonio Holmes,2011
-3,4,Jaguars,09/18/2011,NYJ,Loss, 3-32,3,11,pass,Dustin Keller,2011
-4,5,Jaguars,09/18/2011,NYJ,Loss, 3-32,3,1,rush,Shonn Greene,2011
-5,6,Jaguars,09/25/2011,CAR,Loss, 10-16,4,16,pass,Greg Olsen,2011
-6,7,Jaguars,10/02/2011,NOR,Loss, 10-23,1,1,rush,Jed Collins,2011
-7,8,Jaguars,10/02/2011,NOR,Loss, 10-23,2,1,pass,Jimmy Graham,2011
-8,9,Jaguars,10/09/2011,CIN,Loss, 20-30,1,37,pass,A.J. Green,2011
-9,10,Jaguars,10/09/2011,CIN,Loss, 20-30,2,3,pass,Jermaine Gresham,2011
-10,11,Jaguars,10/09/2011,CIN,Loss, 20-30,4,2,rush,Bernard Scott,2011
-11,12,Jaguars,10/09/2011,CIN,Loss, 20-30,4,10,fumble,Geno Atkins,2011
-12,13,Jaguars,10/16/2011,PIT,Loss, 13-17,1,8,rush,Rashard Mendenhall,2011
-13,14,Jaguars,10/16/2011,PIT,Loss, 13-17,2,28,pass,Mike Wallace,2011
-14,15,Jaguars,10/24/2011,BAL,Win, 12-7,4,5,pass,Anquan Boldin,2011
-15,16,Jaguars,10/30/2011,HOU,Loss, 14-24,1,2,rush,Matt Schaub,2011
-16,17,Jaguars,10/30/2011,HOU,Loss, 14-24,3,7,pass,Joel Dreessen,2011
-17,18,Jaguars,10/30/2011,HOU,Loss, 14-24,4,4,rush,Arian Foster,2011
-18,19,Jaguars,11/20/2011,CLE,Loss, 10-14,2,1,rush,Chris Ogbonnaya,2011
-19,20,Jaguars,11/20/2011,CLE,Loss, 10-14,4,3,pass,Josh Cribbs,2011
-20,21,Jaguars,11/27/2011,HOU,Loss, 13-20,1,1,rush,Arian Foster,2011
-21,22,Jaguars,11/27/2011,HOU,Loss, 13-20,2,20,pass,Joel Dreessen,2011
-22,23,Jaguars,12/05/2011,SDG,Loss, 14-38,1,13,rush,Mike Tolbert,2011
-23,24,Jaguars,12/05/2011,SDG,Loss, 14-38,2,22,pass,Vincent Brown,2011
-24,25,Jaguars,12/05/2011,SDG,Loss, 14-38,2,35,pass,Vincent Jackson,2011
-25,26,Jaguars,12/05/2011,SDG,Loss, 14-38,3,52,pass,Malcom Floyd,2011
-26,27,Jaguars,12/05/2011,SDG,Loss, 14-38,4,31,rush,Ryan Mathews,2011
-27,28,Jaguars,12/11/2011,TAM,Win, 41-14,1,1,rush,LeGarrette Blount,2011
-28,29,Jaguars,12/11/2011,TAM,Win, 41-14,2,13,rush,Josh Freeman,2011
-29,30,Jaguars,12/15/2011,ATL,Loss, 14-41,1,29,pass,Julio Jones,2011
-30,31,Jaguars,12/15/2011,ATL,Loss, 14-41,2,5,rush,Michael Turner,2011
-31,32,Jaguars,12/15/2011,ATL,Loss, 14-41,2,6,pass,Roddy White,2011
-32,33,Jaguars,12/15/2011,ATL,Loss, 14-41,3,13,fumble,Corey Peters,2011
-33,34,Jaguars,12/15/2011,ATL,Loss, 14-41,3,29,pass,Roddy White,2011
-34,35,Jaguars,12/24/2011,TEN,Loss, 17-23,1,55,pass,Jared Cook,2011
-35,36,Jaguars,12/24/2011,TEN,Loss, 17-23,2,1,rush,Jamie Harper,2011
-36,37,Jaguars,01/01/2012,IND,Win, 19-13,4,12,pass,Austin Collie,2011
+,Rank,Team,Date,Opponent,Win/Loss,Home_Score,Opponenet_Score,Quarter,Distance,Type,Detail
+1,1,Jaguars,2011-09-11,TEN,Win,16,14,3,80,pass,Kenny Britt
+2,2,Jaguars,2011-09-11,TEN,Win,16,14,4,2,pass,Kenny Britt
+3,3,Jaguars,2011-09-18,NYJ,Loss,3,32,1,17,pass,Santonio Holmes
+4,4,Jaguars,2011-09-18,NYJ,Loss,3,32,3,11,pass,Dustin Keller
+5,5,Jaguars,2011-09-18,NYJ,Loss,3,32,3,1,rush,Shonn Greene
+6,6,Jaguars,2011-09-25,CAR,Loss,10,16,4,16,pass,Greg Olsen
+7,7,Jaguars,2011-10-02,NOR,Loss,10,23,1,1,rush,Jed Collins
+8,8,Jaguars,2011-10-02,NOR,Loss,10,23,2,1,pass,Jimmy Graham
+9,9,Jaguars,2011-10-09,CIN,Loss,20,30,1,37,pass,A.J. Green
+10,10,Jaguars,2011-10-09,CIN,Loss,20,30,2,3,pass,Jermaine Gresham
+11,11,Jaguars,2011-10-09,CIN,Loss,20,30,4,2,rush,Bernard Scott
+12,12,Jaguars,2011-10-09,CIN,Loss,20,30,4,10,fumble,Geno Atkins
+13,13,Jaguars,2011-10-16,PIT,Loss,13,17,1,8,rush,Rashard Mendenhall
+14,14,Jaguars,2011-10-16,PIT,Loss,13,17,2,28,pass,Mike Wallace
+15,15,Jaguars,2011-10-24,BAL,Win,12,7,4,5,pass,Anquan Boldin
+16,16,Jaguars,2011-10-30,HOU,Loss,14,24,1,2,rush,Matt Schaub
+17,17,Jaguars,2011-10-30,HOU,Loss,14,24,3,7,pass,Joel Dreessen
+18,18,Jaguars,2011-10-30,HOU,Loss,14,24,4,4,rush,Arian Foster
+19,19,Jaguars,2011-11-20,CLE,Loss,10,14,2,1,rush,Chris Ogbonnaya
+20,20,Jaguars,2011-11-20,CLE,Loss,10,14,4,3,pass,Josh Cribbs
+21,21,Jaguars,2011-11-27,HOU,Loss,13,20,1,1,rush,Arian Foster
+22,22,Jaguars,2011-11-27,HOU,Loss,13,20,2,20,pass,Joel Dreessen
+23,23,Jaguars,2011-12-05,SDG,Loss,14,38,1,13,rush,Mike Tolbert
+24,24,Jaguars,2011-12-05,SDG,Loss,14,38,2,22,pass,Vincent Brown
+25,25,Jaguars,2011-12-05,SDG,Loss,14,38,2,35,pass,Vincent Jackson
+26,26,Jaguars,2011-12-05,SDG,Loss,14,38,3,52,pass,Malcom Floyd
+27,27,Jaguars,2011-12-05,SDG,Loss,14,38,4,31,rush,Ryan Mathews
+28,28,Jaguars,2011-12-11,TAM,Win,41,14,1,1,rush,LeGarrette Blount
+29,29,Jaguars,2011-12-11,TAM,Win,41,14,2,13,rush,Josh Freeman
+30,30,Jaguars,2011-12-15,ATL,Loss,14,41,1,29,pass,Julio Jones
+31,31,Jaguars,2011-12-15,ATL,Loss,14,41,2,5,rush,Michael Turner
+32,32,Jaguars,2011-12-15,ATL,Loss,14,41,2,6,pass,Roddy White
+33,33,Jaguars,2011-12-15,ATL,Loss,14,41,3,13,fumble,Corey Peters
+34,34,Jaguars,2011-12-15,ATL,Loss,14,41,3,29,pass,Roddy White
+35,35,Jaguars,2011-12-24,TEN,Loss,17,23,1,55,pass,Jared Cook
+36,36,Jaguars,2011-12-24,TEN,Loss,17,23,2,1,rush,Jamie Harper
+37,37,Jaguars,2012-01-01,IND,Win,19,13,4,12,pass,Austin Collie

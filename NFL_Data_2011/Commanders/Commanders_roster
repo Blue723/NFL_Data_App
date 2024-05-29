@@ -1,65 +1,65 @@
-Player,No.,Team,Age,Pos,G,GS,Wt,Ht,College/Univ,BirthDate,Yrs,AV,Drafted (tm/rnd/yr)
-Lorenzo Alexander,97.0,Commanders,28.0,DT,16,0.0,245.0,6-1,California,5/31/1983,4,1.0,
-David Anderson,88.0,Commanders,28.0,WR,4,0.0,192.0,5-10,Colorado St.,7/28/1983,5,1.0,Houston Texans / 7th / 251st pick / 2006
-Anthony Armstrong,13.0,Commanders,28.0,WR,14,2.0,175.0,5-11,West Texas A&M,3/29/1983,1,1.0,
-O.J. Atogwe,20.0,Commanders,30.0,FS,13,8.0,205.0,5-11,Stanford,6/23/1981,6,4.0,St. Louis Rams / 3rd / 66th pick / 2005
-Terrence Austin,18.0,Commanders,23.0,WR,13,0.0,175.0,5-11,UCLA,8/25/1988,1,1.0,Washington Redskins / 7th / 219th pick / 2010
-Kentwan Balmer,93.0,Commanders,25.0,DT,3,0.0,298.0,6-5,North Carolina,10/15/1986,3,0.0,San Francisco 49ers / 1st / 29th pick / 2008
-Brandon Banks,16.0,Commanders,24.0,WR,16,0.0,150.0,5-7,Kansas St.,12/21/1987,1,0.0,
-Kevin Barnes,22.0,Commanders,25.0,DB,15,1.0,180.0,6-0,Maryland,9/15/1986,2,2.0,Washington Redskins / 3rd / 80th pick / 2009
-John Beck,12.0,Commanders,30.0,QB,4,3.0,215.0,6-2,BYU,8/21/1981,4,2.0,Miami Dolphins / 2nd / 40th pick / 2007
-Stephen Bowen,72.0,Commanders,27.0,RDT,16,16.0,300.0,6-5,Hofstra,3/28/1984,5,7.0,
-Jammal Brown,77.0,Commanders,30.0,RT,12,12.0,317.0,6-6,Oklahoma,3/30/1981,6,6.0,New Orleans Saints / 1st / 13th pick / 2005
-Phillip Buchanon,31.0,Commanders,31.0,DB,1,0.0,190.0,5-11,Miami (FL),9/19/1980,9,0.0,Oakland Raiders / 1st / 17th pick / 2002
-Dominique Byrd,86.0,Commanders,27.0,TE,2,0.0,255.0,6-3,USC,2/7/1984,5,0.0,St. Louis Rams / 3rd / 93rd pick / 2006
-Adam Carriker,94.0,Commanders,27.0,LDE,16,15.0,296.0,6-6,Nebraska,5/6/1984,4,6.0,St. Louis Rams / 1st / 13th pick / 2007
-Chris Chester,66.0,Commanders,28.0,RG,16,16.0,303.0,6-3,Oklahoma,1/12/1983,5,7.0,Baltimore Ravens / 2nd / 56th pick / 2006
-Tashard Choice,40.0,Commanders,27.0,RB,1,0.0,210.0,5-10,"Oklahoma,Georgia Tech",11/20/1984,3,0.0,Dallas Cowboys / 4th / 122nd pick / 2008
-Barry Cofield,96.0,Commanders,27.0,LDT,16,16.0,303.0,6-4,Northwestern,3/19/1984,5,7.0,New York Giants / 4th / 124th pick / 2006
-Erik Cook,58.0,Commanders,24.0,C,6,2.0,320.0,6-6,New Mexico,7/5/1987,Rook,1.0,Washington Redskins / 7th / 229th pick / 2010
-Chris Cooley,47.0,Commanders,29.0,TE,5,5.0,255.0,6-3,Utah St.,7/11/1982,7,0.0,Washington Redskins / 3rd / 81st pick / 2004
-Fred Davis,83.0,Commanders,25.0,TE,12,12.0,250.0,6-3,USC,1/15/1986,3,6.0,Washington Redskins / 2nd / 48th pick / 2008
-Reed Doughty,37.0,Commanders,29.0,SS/FS,16,11.0,206.0,6-1,Northern Colorado,11/4/1982,5,4.0,Washington Redskins / 6th / 173rd pick / 2006
-London Fletcher,59.0,Commanders,36.0,LLB,16,16.0,242.0,5-10,John Carroll,5/19/1975,13,12.0,
-Keyaron Fox,51.0,Commanders,29.0,LB,13,0.0,235.0,6-3,Georgia Tech,1/24/1982,7,1.0,Kansas City Chiefs / 3rd / 93rd pick / 2004
-Jabar Gaffney,10.0,Commanders,31.0,WR,16,15.0,200.0,6-2,Florida,12/1/1980,9,7.0,Houston Texans / 2nd / 33rd pick / 2002
-Graham Gano,4.0,Commanders,24.0,K,16,0.0,202.0,6-2,Florida St.,4/9/1987,2,1.0,
-Kedric Golston,64.0,Commanders,28.0,DT,9,0.0,330.0,6-4,Georgia,5/30/1983,5,1.0,Washington Redskins / 6th / 196th pick / 2006
-DeJon Gomes,24.0,Commanders,22.0,FS,15,5.0,208.0,6-0,Nebraska,11/17/1989,Rook,2.0,Washington Redskins / 5th / 146th pick / 2011
-Rex Grossman,8.0,Commanders,31.0,QB,13,13.0,225.0,6-1,Florida,8/23/1980,8,6.0,Chicago Bears / 1st / 22nd pick / 2003
-DeAngelo Hall,23.0,Commanders,28.0,LCB,16,16.0,200.0,5-10,Virginia Tech,11/19/1983,7,6.0,Atlanta Falcons / 1st / 8th pick / 2004
-Leonard Hankerson,85.0,Commanders,22.0,WR,4,2.0,205.0,6-1,Miami (FL),1/30/1989,Rook,1.0,Washington Redskins / 3rd / 79th pick / 2011
-Roy Helu,29.0,Commanders,23.0,RB,15,5.0,216.0,6-0,Nebraska,12/7/1988,Rook,6.0,Washington Redskins / 4th / 105th pick / 2011
-Tim Hightower,25.0,Commanders,25.0,RB,5,5.0,226.0,6-0,Richmond,5/23/1986,3,2.0,Arizona Cardinals / 5th / 149th pick / 2008
-Maurice Hurt,79.0,Commanders,24.0,LG,8,8.0,319.0,6-3,Florida,9/8/1987,Rook,4.0,Washington Redskins / 7th / 217th pick / 2011
-Rob Jackson,50.0,Commanders,26.0,DE,16,0.0,259.0,6-4,Kansas St.,11/3/1985,3,1.0,Washington Redskins / 7th / 242nd pick / 2008
-Ryan Kerrigan,91.0,Commanders,23.0,RDE,16,16.0,267.0,6-4,Purdue,8/16/1988,Rook,7.0,Washington Redskins / 1st / 16th pick / 2011
-LaRon Landry,30.0,Commanders,27.0,SS,8,8.0,214.0,6-1,LSU,10/14/1984,4,3.0,Washington Redskins / 1st / 6th pick / 2007
-Kory Lichtensteiger,78.0,Commanders,26.0,LG,5,5.0,296.0,6-3,Bowling Green,3/22/1985,3,2.0,Denver Broncos / 4th / 108th pick / 2008
-Sean Locklear,75.0,Commanders,30.0,T,8,4.0,310.0,6-4,North Carolina St.,5/29/1981,7,2.0,Seattle Seahawks / 3rd / 84th pick / 2004
-Rocky McIntosh,52.0,Commanders,29.0,MLB,15,8.0,242.0,6-2,Miami (FL),11/15/1982,5,4.0,Washington Redskins / 2nd / 35th pick / 2006
-Will Montgomery,63.0,Commanders,28.0,C,16,16.0,304.0,6-3,Virginia Tech,2/13/1983,5,7.0,Carolina Panthers / 7th / 234th pick / 2006
-Santana Moss,89.0,Commanders,32.0,WR,12,12.0,193.0,5-10,Miami (FL),6/1/1979,10,4.0,New York Jets / 1st / 16th pick / 2001
-Rob Myers,87.0,Commanders,25.0,TE,1,0.0,240.0,6-4,Utah St.,4/9/1986,Rook,0.0,
-Chris Neild,95.0,Commanders,24.0,DT,16,0.0,313.0,6-2,West Virginia,12/1/1987,Rook,1.0,Washington Redskins / 7th / 253rd pick / 2011
-Brian Orakpo,98.0,Commanders,25.0,RLB,16,16.0,257.0,6-4,Texas,7/31/1986,2,7.0,Washington Redskins / 1st / 13th pick / 2009
-Niles Paul,84.0,Commanders,22.0,WR,13,2.0,242.0,6-1,Nebraska,8/9/1989,Rook,0.0,Washington Redskins / 5th / 155th pick / 2011
-Logan Paulsen,82.0,Commanders,24.0,TE,16,6.0,268.0,6-5,UCLA,2/26/1987,1,1.0,
-Tyler Polumbus,74.0,Commanders,26.0,G,5,4.0,302.0,6-7,Colorado,4/10/1985,3,2.0,
-Richard Quinn,80.0,Commanders,25.0,TE,1,0.0,260.0,6-3,North Carolina,9/6/1986,2,0.0,Denver Broncos / 2nd / 64th pick / 2009
-Perry Riley,56.0,Commanders,23.0,MLB,16,8.0,238.0,6-1,LSU,5/3/1988,1,4.0,Washington Redskins / 4th / 103rd pick / 2010
-Saverio Rocca,6.0,Commanders,38.0,P,16,0.0,265.0,6-5,,11/20/1973,4,2.0,
-Evan Royster,35.0,Commanders,24.0,RB,6,2.0,218.0,6-0,Penn St.,11/26/1987,Rook,2.0,Washington Redskins / 6th / 177th pick / 2011
-Darrion Scott,76.0,Commanders,30.0,DE,7,0.0,310.0,6-3,Ohio St.,10/25/1981,7,0.0,Minnesota Vikings / 3rd / 88th pick / 2004
-Mike Sellers,45.0,Commanders,36.0,FB,12,0.0,272.0,6-3,Walla Walla CC (WA),7/21/1975,13,0.0,
-Willie Smith,69.0,Commanders,25.0,T,4,3.0,290.0,6-6,East Carolina,11/13/1986,Rook,1.0,
-Donte' Stallworth,19.0,Commanders,31.0,WR,11,0.0,197.0,6-0,Tennessee,11/10/1980,9,2.0,New Orleans Saints / 1st / 13th pick / 2002
-Nick Sundberg,57.0,Commanders,24.0,LS,16,0.0,254.0,6-1,California,7/29/1987,1,1.0,
-Brandyn Thompson,32.0,Commanders,22.0,DB,6,0.0,189.0,5-9,Boise St.,10/30/1989,Rook,1.0,Washington Redskins / 7th / 213th pick / 2011
-Ryan Torain,46.0,Commanders,25.0,RB,8,4.0,213.0,6-0,Arizona St.,8/10/1986,3,1.0,Denver Broncos / 5th / 139th pick / 2008
-Byron Westbrook,34.0,Commanders,26.0,DB,15,0.0,194.0,5-10,Salisbury,12/26/1985,2,1.0,
-Markus White,55.0,Commanders,24.0,DE,2,0.0,266.0,6-3,"Butler (KS),Florida St.",11/25/1987,Rook,0.0,Washington Redskins / 7th / 224th pick / 2011
-Trent Williams,71.0,Commanders,23.0,LT,10,10.0,320.0,6-5,Oklahoma,7/19/1988,1,5.0,Washington Redskins / 1st / 4th pick / 2010
-Josh Wilson,26.0,Commanders,26.0,RCB,16,16.0,189.0,5-9,Maryland,3/11/1985,4,6.0,Seattle Seahawks / 2nd / 55th pick / 2007
-Darrel Young,36.0,Commanders,24.0,FB,13,8.0,248.0,5-11,Villanova,4/8/1987,1,1.0,
-Team Total,,Commanders,26.8,,16,,245.7,6-1.7,,,3.6,,
+,No.,Player,BirthDate,Age,Height,Weight,College/University,Position,Games_Played_in_Season,Games_Started_in_Season,NFL_Years,Player_Value,Team,Year
+0,97.0,Lorenzo Alexander,5/31/1983,28.0,6-1,245.0,California,LB,16,0.0,4.0,1.0,Commanders,2011
+1,88.0,David Anderson,7/28/1983,28.0,5-10,192.0,Colorado St.,WR,4,0.0,5.0,1.0,Commanders,2011
+2,13.0,Anthony Armstrong,3/29/1983,28.0,5-11,175.0,West Texas A&M,WR,14,2.0,1.0,1.0,Commanders,2011
+3,20.0,O.J. Atogwe,6/23/1981,30.0,5-11,205.0,Stanford,FS,13,8.0,6.0,4.0,Commanders,2011
+4,18.0,Terrence Austin,8/25/1988,23.0,5-11,175.0,UCLA,WR,13,0.0,1.0,1.0,Commanders,2011
+5,93.0,Kentwan Balmer,10/15/1986,25.0,6-5,298.0,North Carolina,DT,3,0.0,3.0,0.0,Commanders,2011
+6,16.0,Brandon Banks,12/21/1987,24.0,5-7,150.0,Kansas St.,WR,16,0.0,1.0,0.0,Commanders,2011
+7,22.0,Kevin Barnes,9/15/1986,25.0,6-0,180.0,Maryland,DB,15,1.0,2.0,2.0,Commanders,2011
+8,12.0,John Beck,8/21/1981,30.0,6-2,215.0,BYU,QB,4,3.0,4.0,2.0,Commanders,2011
+9,72.0,Stephen Bowen,3/28/1984,27.0,6-5,300.0,Hofstra,RDT,16,16.0,5.0,7.0,Commanders,2011
+10,77.0,Jammal Brown,3/30/1981,30.0,6-6,317.0,Oklahoma,RT,12,12.0,6.0,6.0,Commanders,2011
+11,31.0,Phillip Buchanon,9/19/1980,31.0,5-11,190.0,Miami (FL),DB,1,0.0,9.0,0.0,Commanders,2011
+12,86.0,Dominique Byrd,2/7/1984,27.0,6-3,255.0,USC,TE,2,0.0,5.0,0.0,Commanders,2011
+13,94.0,Adam Carriker,5/6/1984,27.0,6-6,296.0,Nebraska,LDE,16,15.0,4.0,6.0,Commanders,2011
+14,66.0,Chris Chester,1/12/1983,28.0,6-3,303.0,Oklahoma,RG,16,16.0,5.0,7.0,Commanders,2011
+15,40.0,Tashard Choice,11/20/1984,27.0,5-10,210.0,"Oklahoma,Georgia Tech",RB,1,0.0,3.0,0.0,Commanders,2011
+16,96.0,Barry Cofield,3/19/1984,27.0,6-4,303.0,Northwestern,LDT,16,16.0,5.0,7.0,Commanders,2011
+17,58.0,Erik Cook,7/5/1987,24.0,6-6,320.0,New Mexico,C,6,2.0,0.0,1.0,Commanders,2011
+18,47.0,Chris Cooley,7/11/1982,29.0,6-3,255.0,Utah St.,TE,5,5.0,7.0,0.0,Commanders,2011
+19,83.0,Fred Davis,1/15/1986,25.0,6-3,250.0,USC,TE,12,12.0,3.0,6.0,Commanders,2011
+20,37.0,Reed Doughty,11/4/1982,29.0,6-1,206.0,Northern Colorado,SS/FS,16,11.0,5.0,4.0,Commanders,2011
+21,59.0,London Fletcher,5/19/1975,36.0,5-10,242.0,John Carroll,LLB,16,16.0,13.0,12.0,Commanders,2011
+22,51.0,Keyaron Fox,1/24/1982,29.0,6-3,235.0,Georgia Tech,LB,13,0.0,7.0,1.0,Commanders,2011
+23,10.0,Jabar Gaffney,12/1/1980,31.0,6-2,200.0,Florida,WR,16,15.0,9.0,7.0,Commanders,2011
+24,4.0,Graham Gano,4/9/1987,24.0,6-2,202.0,Florida St.,K,16,0.0,2.0,1.0,Commanders,2011
+25,64.0,Kedric Golston,5/30/1983,28.0,6-4,330.0,Georgia,DT,9,0.0,5.0,1.0,Commanders,2011
+26,24.0,DeJon Gomes,11/17/1989,22.0,6-0,208.0,Nebraska,FS,15,5.0,0.0,2.0,Commanders,2011
+27,8.0,Rex Grossman,8/23/1980,31.0,6-1,225.0,Florida,QB,13,13.0,8.0,6.0,Commanders,2011
+28,23.0,DeAngelo Hall,11/19/1983,28.0,5-10,200.0,Virginia Tech,LCB,16,16.0,7.0,6.0,Commanders,2011
+29,85.0,Leonard Hankerson,1/30/1989,22.0,6-1,205.0,Miami (FL),WR,4,2.0,0.0,1.0,Commanders,2011
+30,29.0,Roy Helu,12/7/1988,23.0,6-0,216.0,Nebraska,RB,15,5.0,0.0,6.0,Commanders,2011
+31,25.0,Tim Hightower,5/23/1986,25.0,6-0,226.0,Richmond,RB,5,5.0,3.0,2.0,Commanders,2011
+32,79.0,Maurice Hurt,9/8/1987,24.0,6-3,319.0,Florida,LG,8,8.0,0.0,4.0,Commanders,2011
+33,50.0,Rob Jackson,11/3/1985,26.0,6-4,259.0,Kansas St.,DE,16,0.0,3.0,1.0,Commanders,2011
+34,91.0,Ryan Kerrigan,8/16/1988,23.0,6-4,267.0,Purdue,RDE,16,16.0,0.0,7.0,Commanders,2011
+35,30.0,LaRon Landry,10/14/1984,27.0,6-1,214.0,LSU,SS,8,8.0,4.0,3.0,Commanders,2011
+36,78.0,Kory Lichtensteiger,3/22/1985,26.0,6-3,296.0,Bowling Green,LG,5,5.0,3.0,2.0,Commanders,2011
+37,75.0,Sean Locklear,5/29/1981,30.0,6-4,310.0,North Carolina St.,T,8,4.0,7.0,2.0,Commanders,2011
+38,52.0,Rocky McIntosh,11/15/1982,29.0,6-2,242.0,Miami (FL),MLB,15,8.0,5.0,4.0,Commanders,2011
+39,63.0,Will Montgomery,2/13/1983,28.0,6-3,304.0,Virginia Tech,C,16,16.0,5.0,7.0,Commanders,2011
+40,89.0,Santana Moss,6/1/1979,32.0,5-10,193.0,Miami (FL),WR,12,12.0,10.0,4.0,Commanders,2011
+41,87.0,Rob Myers,4/9/1986,25.0,6-4,240.0,Utah St.,TE,1,0.0,0.0,0.0,Commanders,2011
+42,95.0,Chris Neild,12/1/1987,24.0,6-2,313.0,West Virginia,DT,16,0.0,0.0,1.0,Commanders,2011
+43,98.0,Brian Orakpo,7/31/1986,25.0,6-4,257.0,Texas,RLB,16,16.0,2.0,7.0,Commanders,2011
+44,84.0,Niles Paul,8/9/1989,22.0,6-1,242.0,Nebraska,WR,13,2.0,0.0,0.0,Commanders,2011
+45,82.0,Logan Paulsen,2/26/1987,24.0,6-5,268.0,UCLA,TE,16,6.0,1.0,1.0,Commanders,2011
+46,74.0,Tyler Polumbus,4/10/1985,26.0,6-7,302.0,Colorado,T,5,4.0,3.0,2.0,Commanders,2011
+47,80.0,Richard Quinn,9/6/1986,25.0,6-3,260.0,North Carolina,TE,1,0.0,2.0,0.0,Commanders,2011
+48,56.0,Perry Riley,5/3/1988,23.0,6-1,238.0,LSU,MLB,16,8.0,1.0,4.0,Commanders,2011
+49,6.0,Saverio Rocca,11/20/1973,38.0,6-5,265.0,,P,16,0.0,4.0,2.0,Commanders,2011
+50,35.0,Evan Royster,11/26/1987,24.0,6-0,218.0,Penn St.,RB,6,2.0,0.0,2.0,Commanders,2011
+51,76.0,Darrion Scott,10/25/1981,30.0,6-3,310.0,Ohio St.,DE,7,0.0,7.0,0.0,Commanders,2011
+52,45.0,Mike Sellers,7/21/1975,36.0,6-3,272.0,Walla Walla CC (WA),FB,12,0.0,13.0,0.0,Commanders,2011
+53,69.0,Willie Smith,11/13/1986,25.0,6-6,290.0,East Carolina,T,4,3.0,0.0,1.0,Commanders,2011
+54,19.0,Donte' Stallworth,11/10/1980,31.0,6-0,197.0,Tennessee,WR,11,0.0,9.0,2.0,Commanders,2011
+55,57.0,Nick Sundberg,7/29/1987,24.0,6-1,254.0,California,LS,16,0.0,1.0,1.0,Commanders,2011
+56,32.0,Brandyn Thompson,10/30/1989,22.0,5-9,189.0,Boise St.,DB,6,0.0,0.0,1.0,Commanders,2011
+57,46.0,Ryan Torain,8/10/1986,25.0,6-0,213.0,Arizona St.,RB,8,4.0,3.0,1.0,Commanders,2011
+58,34.0,Byron Westbrook,12/26/1985,26.0,5-10,194.0,Salisbury,DB,15,0.0,2.0,1.0,Commanders,2011
+59,55.0,Markus White,11/25/1987,24.0,6-3,266.0,"Butler (KS),Florida St.",DE,2,0.0,0.0,0.0,Commanders,2011
+60,71.0,Trent Williams,7/19/1988,23.0,6-5,320.0,Oklahoma,LT,10,10.0,1.0,5.0,Commanders,2011
+61,26.0,Josh Wilson,3/11/1985,26.0,5-9,189.0,Maryland,RCB,16,16.0,4.0,6.0,Commanders,2011
+62,36.0,Darrel Young,4/8/1987,24.0,5-11,248.0,Villanova,FB,13,8.0,1.0,1.0,Commanders,2011
+63,,Team Total,,26.8,6-1.7,245.7,,,16,,3.6,,Commanders,2011

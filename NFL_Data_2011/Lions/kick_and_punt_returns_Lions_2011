@@ -1,6 +1,6 @@
-,No.,Team,Player,Age,Position,Games Played,Games Started,Punts Returned,Punts Return Yardage,Punts Returned for Touchdown,Longest Punt Return,Yards per Punt Return,Kickoff Returns,Yardage for Kickoffs Returned,Kickoffs Returned for a Touchdown,Longest Kickoff Return,Yards per Kickoff Return,All-purpose Yards,Year
-0,11,Lions,Stefan Logan,30,RB,16,1,37,301,0,28,8.1,33,832,0,42,25.2,1184,2011
-1,82,Lions,Rashied Davis,32,WR,11,0,0,0,0,0,,2,34,0,18,17.0,97,2011
-2,96,Lions,Andre Fluellen,26,DT,13,0,0,0,0,0,,1,6,0,6,6.0,6,2011
-3,33,Lions,Brandon McDonald,26,DB,13,0,1,0,0,0,0.0,0,0,0,0,,0,2011
-4,28,Lions,Maurice Morris,32,RB,16,5,0,0,0,0,,1,15,0,15,15.0,561,2011
+,No.,Player,Age,Position,Games Played,Games Started,Punts Returned,Punts Return Yardage,Punts Returned for Touchdown,Longest Punt Return,Yards per Punt Return,Kickoff Returns,Yardage for Kickoffs Returned,Kickoffs Returned for a Touchdown,Longest Kickoff Return,Yards per Kickoff Return,All-purpose Yards,Team,Year
+11,11,Stefan Logan,30,RB,16,1,37,301,0,28,8.1,33,832,0,42,25.2,1184,Lions,2011
+82,82,Rashied Davis,32,WR,11,0,0,0,0,0,0.0,2,34,0,18,17.0,97,Lions,2011
+96,96,Andre Fluellen,26,DT,13,0,0,0,0,0,0.0,1,6,0,6,6.0,6,Lions,2011
+33,33,Brandon McDonald,26,DB,13,0,1,0,0,0,0.0,0,0,0,0,0.0,0,Lions,2011
+28,28,Maurice Morris,32,RB,16,5,0,0,0,0,0.0,1,15,0,15,15.0,561,Lions,2011

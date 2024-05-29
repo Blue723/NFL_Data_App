@@ -1,46 +1,46 @@
-,Rank,Team,Date,Opponent,Win/Loss,Score,Quarter,Distance,Type,Detail,Year
-0,1,Jets,09/11/2011,DAL,Win, 27-24,2,4,pass,Dustin Keller,2011
-1,2,Jets,09/11/2011,DAL,Win, 27-24,4,26,pass,Plaxico Burress,2011
-2,3,Jets,09/11/2011,DAL,Win, 27-24,4,18,blocked punt,Isaiah Trufant,2011
-3,4,Jets,09/18/2011,JAX,Win, 32-3,1,17,pass,Santonio Holmes,2011
-4,5,Jets,09/18/2011,JAX,Win, 32-3,3,11,pass,Dustin Keller,2011
-5,6,Jets,09/18/2011,JAX,Win, 32-3,3,1,rush,Shonn Greene,2011
-6,7,Jets,09/25/2011,OAK,Loss, 24-34,1,1,rush,Mark Sanchez,2011
-7,8,Jets,09/25/2011,OAK,Loss, 24-34,2,18,pass,LaDainian Tomlinson,2011
-8,9,Jets,09/25/2011,OAK,Loss, 24-34,4,16,pass,Plaxico Burress,2011
-9,10,Jets,10/02/2011,BAL,Loss, 17-34,1,107,kickoff,Joe McKnight,2011
-10,11,Jets,10/02/2011,BAL,Loss, 17-34,2,35,interception,David Harris,2011
-11,12,Jets,10/09/2011,NWE,Loss, 21-30,2,3,rush,Shonn Greene,2011
-12,13,Jets,10/09/2011,NWE,Loss, 21-30,3,9,pass,Jeremy Kerley,2011
-13,14,Jets,10/09/2011,NWE,Loss, 21-30,4,10,pass,Santonio Holmes,2011
-14,15,Jets,10/17/2011,MIA,Win, 24-6,1,100,interception,Darrelle Revis,2011
-15,16,Jets,10/17/2011,MIA,Win, 24-6,2,5,rush,Mark Sanchez,2011
-16,17,Jets,10/17/2011,MIA,Win, 24-6,4,38,pass,Santonio Holmes,2011
-17,18,Jets,10/23/2011,SDG,Win, 27-21,2,3,pass,Plaxico Burress,2011
-18,19,Jets,10/23/2011,SDG,Win, 27-21,3,4,pass,Plaxico Burress,2011
-19,20,Jets,10/23/2011,SDG,Win, 27-21,4,3,pass,Plaxico Burress,2011
-20,21,Jets,11/06/2011,BUF,Win, 27-11,3,1,rush,LaDainian Tomlinson,2011
-21,22,Jets,11/06/2011,BUF,Win, 27-11,3,8,pass,Santonio Holmes,2011
-22,23,Jets,11/06/2011,BUF,Win, 27-11,4,1,rush,John Conner,2011
-23,24,Jets,11/13/2011,NWE,Loss, 16-37,2,2,rush,Mark Sanchez,2011
-24,25,Jets,11/13/2011,NWE,Loss, 16-37,4,7,pass,Plaxico Burress,2011
-25,26,Jets,11/17/2011,DEN,Loss, 13-17,3,1,fumble,Matt Slauson,2011
-26,27,Jets,11/27/2011,BUF,Win, 28-24,2,3,pass,Dustin Keller,2011
-27,28,Jets,11/27/2011,BUF,Win, 28-24,2,14,pass,Plaxico Burress,2011
-28,29,Jets,11/27/2011,BUF,Win, 28-24,3,18,pass,Dustin Keller,2011
-29,30,Jets,11/27/2011,BUF,Win, 28-24,4,16,pass,Santonio Holmes,2011
-30,31,Jets,12/04/2011,WAS,Win, 34-19,1,1,rush,Shonn Greene,2011
-31,32,Jets,12/04/2011,WAS,Win, 34-19,4,30,pass,Santonio Holmes,2011
-32,33,Jets,12/04/2011,WAS,Win, 34-19,4,9,rush,Shonn Greene,2011
-33,34,Jets,12/04/2011,WAS,Win, 34-19,4,25,rush,Shonn Greene,2011
-34,35,Jets,12/11/2011,KAN,Win, 37-10,1,1,rush,Mark Sanchez,2011
-35,36,Jets,12/11/2011,KAN,Win, 37-10,2,4,pass,Santonio Holmes,2011
-36,37,Jets,12/11/2011,KAN,Win, 37-10,2,7,rush,Shonn Greene,2011
-37,38,Jets,12/11/2011,KAN,Win, 37-10,2,19,pass,LaDainian Tomlinson,2011
-38,39,Jets,12/11/2011,KAN,Win, 37-10,3,3,rush,Mark Sanchez,2011
-39,40,Jets,12/18/2011,PHI,Loss, 19-45,2,25,pass,Santonio Holmes,2011
-40,41,Jets,12/18/2011,PHI,Loss, 19-45,4,9,pass,Plaxico Burress,2011
-41,42,Jets,12/24/2011,NYG,Loss, 14-29,1,5,pass,Josh Baker,2011
-42,43,Jets,12/24/2011,NYG,Loss, 14-29,4,1,rush,Mark Sanchez,2011
-43,44,Jets,01/01/2012,MIA,Loss, 17-19,1,1,pass,Dustin Keller,2011
-44,45,Jets,01/01/2012,MIA,Loss, 17-19,4,10,pass,Patrick Turner,2011
+,Rank,Team,Date,Opponent,Win/Loss,Home_Score,Opponenet_Score,Quarter,Distance,Type,Detail
+1,1,Jets,2011-09-11,DAL,Win,27,24,2,4,pass,Dustin Keller
+2,2,Jets,2011-09-11,DAL,Win,27,24,4,26,pass,Plaxico Burress
+3,3,Jets,2011-09-11,DAL,Win,27,24,4,18,blocked punt,Isaiah Trufant
+4,4,Jets,2011-09-18,JAX,Win,32,3,1,17,pass,Santonio Holmes
+5,5,Jets,2011-09-18,JAX,Win,32,3,3,11,pass,Dustin Keller
+6,6,Jets,2011-09-18,JAX,Win,32,3,3,1,rush,Shonn Greene
+7,7,Jets,2011-09-25,OAK,Loss,24,34,1,1,rush,Mark Sanchez
+8,8,Jets,2011-09-25,OAK,Loss,24,34,2,18,pass,LaDainian Tomlinson
+9,9,Jets,2011-09-25,OAK,Loss,24,34,4,16,pass,Plaxico Burress
+10,10,Jets,2011-10-02,BAL,Loss,17,34,1,107,kickoff,Joe McKnight
+11,11,Jets,2011-10-02,BAL,Loss,17,34,2,35,interception,David Harris
+12,12,Jets,2011-10-09,NWE,Loss,21,30,2,3,rush,Shonn Greene
+13,13,Jets,2011-10-09,NWE,Loss,21,30,3,9,pass,Jeremy Kerley
+14,14,Jets,2011-10-09,NWE,Loss,21,30,4,10,pass,Santonio Holmes
+15,15,Jets,2011-10-17,MIA,Win,24,6,1,100,interception,Darrelle Revis
+16,16,Jets,2011-10-17,MIA,Win,24,6,2,5,rush,Mark Sanchez
+17,17,Jets,2011-10-17,MIA,Win,24,6,4,38,pass,Santonio Holmes
+18,18,Jets,2011-10-23,SDG,Win,27,21,2,3,pass,Plaxico Burress
+19,19,Jets,2011-10-23,SDG,Win,27,21,3,4,pass,Plaxico Burress
+20,20,Jets,2011-10-23,SDG,Win,27,21,4,3,pass,Plaxico Burress
+21,21,Jets,2011-11-06,BUF,Win,27,11,3,1,rush,LaDainian Tomlinson
+22,22,Jets,2011-11-06,BUF,Win,27,11,3,8,pass,Santonio Holmes
+23,23,Jets,2011-11-06,BUF,Win,27,11,4,1,rush,John Conner
+24,24,Jets,2011-11-13,NWE,Loss,16,37,2,2,rush,Mark Sanchez
+25,25,Jets,2011-11-13,NWE,Loss,16,37,4,7,pass,Plaxico Burress
+26,26,Jets,2011-11-17,DEN,Loss,13,17,3,1,fumble,Matt Slauson
+27,27,Jets,2011-11-27,BUF,Win,28,24,2,3,pass,Dustin Keller
+28,28,Jets,2011-11-27,BUF,Win,28,24,2,14,pass,Plaxico Burress
+29,29,Jets,2011-11-27,BUF,Win,28,24,3,18,pass,Dustin Keller
+30,30,Jets,2011-11-27,BUF,Win,28,24,4,16,pass,Santonio Holmes
+31,31,Jets,2011-12-04,WAS,Win,34,19,1,1,rush,Shonn Greene
+32,32,Jets,2011-12-04,WAS,Win,34,19,4,30,pass,Santonio Holmes
+33,33,Jets,2011-12-04,WAS,Win,34,19,4,9,rush,Shonn Greene
+34,34,Jets,2011-12-04,WAS,Win,34,19,4,25,rush,Shonn Greene
+35,35,Jets,2011-12-11,KAN,Win,37,10,1,1,rush,Mark Sanchez
+36,36,Jets,2011-12-11,KAN,Win,37,10,2,4,pass,Santonio Holmes
+37,37,Jets,2011-12-11,KAN,Win,37,10,2,7,rush,Shonn Greene
+38,38,Jets,2011-12-11,KAN,Win,37,10,2,19,pass,LaDainian Tomlinson
+39,39,Jets,2011-12-11,KAN,Win,37,10,3,3,rush,Mark Sanchez
+40,40,Jets,2011-12-18,PHI,Loss,19,45,2,25,pass,Santonio Holmes
+41,41,Jets,2011-12-18,PHI,Loss,19,45,4,9,pass,Plaxico Burress
+42,42,Jets,2011-12-24,NYG,Loss,14,29,1,5,pass,Josh Baker
+43,43,Jets,2011-12-24,NYG,Loss,14,29,4,1,rush,Mark Sanchez
+44,44,Jets,2012-01-01,MIA,Loss,17,19,1,1,pass,Dustin Keller
+45,45,Jets,2012-01-01,MIA,Loss,17,19,4,10,pass,Patrick Turner

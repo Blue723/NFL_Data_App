@@ -1,9 +1,9 @@
-,No.,Team,Player,Age,Position,Games Played,Games Started,Punts Returned,Punts Return Yardage,Punts Returned for Touchdown,Longest Punt Return,Yards per Punt Return,Kickoff Returns,Yardage for Kickoffs Returned,Kickoffs Returned for a Touchdown,Longest Kickoff Return,Yards per Kickoff Return,All-purpose Yards,Year
-0,15,Chargers,Richard Goodman,24,WR,16,0,0,0,0,0,,34,936,1,105,27.5,936,2011
-1,12,Chargers,Patrick Crayton,32,WR,14,1,22,202,0,31,9.2,0,0,0,0,,450,2011
-2,13,Chargers,Bryan Walters,24,WR,4,0,8,45,0,13,5.6,0,0,0,0,,72,2011
-3,38,Chargers,Marcus Gilchrist,23,DB,14,4,0,0,0,0,,3,46,0,20,15.3,108,2011
-4,22,Chargers,Jacob Hester,26,RB,16,3,0,0,0,0,,3,71,0,24,23.7,209,2011
-5,44,Chargers,Curtis Brinkley,26,RB,10,1,0,0,0,0,,2,34,0,22,17.0,176,2011
-6,20,Chargers,Antoine Cason,25,RCB,16,14,1,17,0,17,17.0,0,0,0,0,,86,2011
-7,82,Chargers,Kory Sperry,26,TE,16,4,0,0,0,0,,1,13,0,13,13.0,45,2011
+,No.,Player,Age,Position,Games Played,Games Started,Punts Returned,Punts Return Yardage,Punts Returned for Touchdown,Longest Punt Return,Yards per Punt Return,Kickoff Returns,Yardage for Kickoffs Returned,Kickoffs Returned for a Touchdown,Longest Kickoff Return,Yards per Kickoff Return,All-purpose Yards,Team,Year
+15,15,Richard Goodman,24,WR,16,0,0,0,0,0,0.0,34,936,1,105,27.5,936,Chargers,2011
+12,12,Patrick Crayton,32,WR,14,1,22,202,0,31,9.2,0,0,0,0,0.0,450,Chargers,2011
+13,13,Bryan Walters,24,WR,4,0,8,45,0,13,5.6,0,0,0,0,0.0,72,Chargers,2011
+38,38,Marcus Gilchrist,23,DB,14,4,0,0,0,0,0.0,3,46,0,20,15.3,108,Chargers,2011
+22,22,Jacob Hester,26,RB,16,3,0,0,0,0,0.0,3,71,0,24,23.7,209,Chargers,2011
+44,44,Curtis Brinkley,26,RB,10,1,0,0,0,0,0.0,2,34,0,22,17.0,176,Chargers,2011
+20,20,Antoine Cason,25,RCB,16,14,1,17,0,17,17.0,0,0,0,0,0.0,86,Chargers,2011
+82,82,Kory Sperry,26,TE,16,4,0,0,0,0,0.0,1,13,0,13,13.0,45,Chargers,2011

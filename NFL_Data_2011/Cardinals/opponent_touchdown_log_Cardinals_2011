@@ -1,35 +1,35 @@
-,Rank,Team,Date,Opponent,Win/Loss,Score,Quarter,Distance,Type,Detail,Year
-0,1,Cardinals,09/11/2011,CAR,Win, 28-21,1,77,pass,Steve Smith Sr.,2011
-1,2,Cardinals,09/11/2011,CAR,Win, 28-21,2,26,pass,Steve Smith Sr.,2011
-2,3,Cardinals,09/11/2011,CAR,Win, 28-21,3,1,rush,Cam Newton,2011
-3,4,Cardinals,09/18/2011,WAS,Loss, 21-22,2,1,pass,Fred Davis,2011
-4,5,Cardinals,09/18/2011,WAS,Loss, 21-22,4,18,pass,Santana Moss,2011
-5,6,Cardinals,09/25/2011,SEA,Loss, 10-13,3,11,rush,Tarvaris Jackson,2011
-6,7,Cardinals,10/02/2011,NYG,Loss, 27-31,2,13,rush,Ahmad Bradshaw,2011
-7,8,Cardinals,10/02/2011,NYG,Loss, 27-31,4,1,rush,Brandon Jacobs,2011
-8,9,Cardinals,10/02/2011,NYG,Loss, 27-31,4,2,pass,Jake Ballard,2011
-9,10,Cardinals,10/02/2011,NYG,Loss, 27-31,4,29,pass,Hakeem Nicks,2011
-10,11,Cardinals,10/09/2011,MIN,Loss, 10-34,1,4,rush,Adrian Peterson,2011
-11,12,Cardinals,10/09/2011,MIN,Loss, 10-34,1,24,rush,Adrian Peterson,2011
-12,13,Cardinals,10/09/2011,MIN,Loss, 10-34,1,4,rush,Donovan McNabb,2011
-13,14,Cardinals,10/09/2011,MIN,Loss, 10-34,1,14,rush,Adrian Peterson,2011
-14,15,Cardinals,10/23/2011,PIT,Loss, 20-32,1,12,pass,Heath Miller,2011
-15,16,Cardinals,10/23/2011,PIT,Loss, 20-32,2,95,pass,Mike Wallace,2011
-16,17,Cardinals,10/23/2011,PIT,Loss, 20-32,3,4,pass,Emmanuel Sanders,2011
-17,18,Cardinals,10/30/2011,BAL,Loss, 27-30,3,1,rush,Ray Rice,2011
-18,19,Cardinals,10/30/2011,BAL,Loss, 27-30,3,1,rush,Ray Rice,2011
-19,20,Cardinals,10/30/2011,BAL,Loss, 27-30,4,3,rush,Ray Rice,2011
-20,21,Cardinals,11/13/2011,PHI,Win, 21-17,2,20,interception,Asante Samuel,2011
-21,22,Cardinals,11/13/2011,PHI,Win, 21-17,2,1,rush,LeSean McCoy,2011
-22,23,Cardinals,11/20/2011,SFO,Loss, 7-23,3,8,pass,Kyle Williams,2011
-23,24,Cardinals,11/20/2011,SFO,Loss, 7-23,3,18,pass,Vernon Davis,2011
-24,25,Cardinals,11/27/2011,STL,Win, 23-20,1,88,punt,Nick Miller,2011
-25,26,Cardinals,11/27/2011,STL,Win, 23-20,4,16,pass,Brandon Lloyd,2011
-26,27,Cardinals,12/04/2011,DAL,Win, 19-13,2,5,pass,Dez Bryant,2011
-27,28,Cardinals,12/11/2011,SFO,Win, 21-19,3,37,rush,Frank Gore,2011
-28,29,Cardinals,12/18/2011,CLE,Win, 20-17,1,1,rush,Peyton Hillis,2011
-29,30,Cardinals,12/18/2011,CLE,Win, 20-17,3,76,pass,Greg Little,2011
-30,31,Cardinals,12/24/2011,CIN,Loss, 16-23,1,11,pass,Jermaine Gresham,2011
-31,32,Cardinals,12/24/2011,CIN,Loss, 16-23,2,19,pass,Jerome Simpson,2011
-32,33,Cardinals,01/01/2012,SEA,Win, 23-20,3,48,rush,Leon Washington,2011
-33,34,Cardinals,01/01/2012,SEA,Win, 23-20,4,61,pass,Ricardo Lockette,2011
+,Rank,Team,Date,Opponent,Win/Loss,Home_Score,Opponenet_Score,Quarter,Distance,Type,Detail
+1,1,Cardinals,2011-09-11,CAR,Win,28,21,1,77,pass,Steve Smith Sr.
+2,2,Cardinals,2011-09-11,CAR,Win,28,21,2,26,pass,Steve Smith Sr.
+3,3,Cardinals,2011-09-11,CAR,Win,28,21,3,1,rush,Cam Newton
+4,4,Cardinals,2011-09-18,WAS,Loss,21,22,2,1,pass,Fred Davis
+5,5,Cardinals,2011-09-18,WAS,Loss,21,22,4,18,pass,Santana Moss
+6,6,Cardinals,2011-09-25,SEA,Loss,10,13,3,11,rush,Tarvaris Jackson
+7,7,Cardinals,2011-10-02,NYG,Loss,27,31,2,13,rush,Ahmad Bradshaw
+8,8,Cardinals,2011-10-02,NYG,Loss,27,31,4,1,rush,Brandon Jacobs
+9,9,Cardinals,2011-10-02,NYG,Loss,27,31,4,2,pass,Jake Ballard
+10,10,Cardinals,2011-10-02,NYG,Loss,27,31,4,29,pass,Hakeem Nicks
+11,11,Cardinals,2011-10-09,MIN,Loss,10,34,1,4,rush,Adrian Peterson
+12,12,Cardinals,2011-10-09,MIN,Loss,10,34,1,24,rush,Adrian Peterson
+13,13,Cardinals,2011-10-09,MIN,Loss,10,34,1,4,rush,Donovan McNabb
+14,14,Cardinals,2011-10-09,MIN,Loss,10,34,1,14,rush,Adrian Peterson
+15,15,Cardinals,2011-10-23,PIT,Loss,20,32,1,12,pass,Heath Miller
+16,16,Cardinals,2011-10-23,PIT,Loss,20,32,2,95,pass,Mike Wallace
+17,17,Cardinals,2011-10-23,PIT,Loss,20,32,3,4,pass,Emmanuel Sanders
+18,18,Cardinals,2011-10-30,BAL,Loss,27,30,3,1,rush,Ray Rice
+19,19,Cardinals,2011-10-30,BAL,Loss,27,30,3,1,rush,Ray Rice
+20,20,Cardinals,2011-10-30,BAL,Loss,27,30,4,3,rush,Ray Rice
+21,21,Cardinals,2011-11-13,PHI,Win,21,17,2,20,interception,Asante Samuel
+22,22,Cardinals,2011-11-13,PHI,Win,21,17,2,1,rush,LeSean McCoy
+23,23,Cardinals,2011-11-20,SFO,Loss,7,23,3,8,pass,Kyle Williams
+24,24,Cardinals,2011-11-20,SFO,Loss,7,23,3,18,pass,Vernon Davis
+25,25,Cardinals,2011-11-27,STL,Win,23,20,1,88,punt,Nick Miller
+26,26,Cardinals,2011-11-27,STL,Win,23,20,4,16,pass,Brandon Lloyd
+27,27,Cardinals,2011-12-04,DAL,Win,19,13,2,5,pass,Dez Bryant
+28,28,Cardinals,2011-12-11,SFO,Win,21,19,3,37,rush,Frank Gore
+29,29,Cardinals,2011-12-18,CLE,Win,20,17,1,1,rush,Peyton Hillis
+30,30,Cardinals,2011-12-18,CLE,Win,20,17,3,76,pass,Greg Little
+31,31,Cardinals,2011-12-24,CIN,Loss,16,23,1,11,pass,Jermaine Gresham
+32,32,Cardinals,2011-12-24,CIN,Loss,16,23,2,19,pass,Jerome Simpson
+33,33,Cardinals,2012-01-01,SEA,Win,23,20,3,48,rush,Leon Washington
+34,34,Cardinals,2012-01-01,SEA,Win,23,20,4,61,pass,Ricardo Lockette

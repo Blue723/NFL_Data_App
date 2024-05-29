@@ -1,41 +1,41 @@
-,Rank,Team,Date,Opponent,Win/Loss,Score,Quarter,Distance,Type,Detail,Year
-0,1,Falcons,09/11/2011,CHI,Loss, 12-30,1,56.0,pass,Matt Forte,2011
-1,2,Falcons,09/11/2011,CHI,Loss, 12-30,3,1.0,pass,Matt Spaeth,2011
-2,3,Falcons,09/11/2011,CHI,Loss, 12-30,3,,fumble,Brian Urlacher,2011
-3,4,Falcons,09/18/2011,PHI,Win, 35-31,2,5.0,pass,Jeremy Maclin,2011
-4,5,Falcons,09/18/2011,PHI,Win, 35-31,3,36.0,pass,Jeremy Maclin,2011
-5,6,Falcons,09/18/2011,PHI,Win, 35-31,3,8.0,rush,LeSean McCoy,2011
-6,7,Falcons,09/18/2011,PHI,Win, 35-31,3,2.0,rush,LeSean McCoy,2011
-7,8,Falcons,09/25/2011,TAM,Loss, 13-16,2,1.0,rush,Josh Freeman,2011
-8,9,Falcons,10/02/2011,SEA,Win, 30-28,2,52.0,pass,Sidney Rice,2011
-9,10,Falcons,10/02/2011,SEA,Win, 30-28,3,6.0,pass,Mike Williams,2011
-10,11,Falcons,10/02/2011,SEA,Win, 30-28,3,11.0,rush,Marshawn Lynch,2011
-11,12,Falcons,10/02/2011,SEA,Win, 30-28,4,8.0,pass,Ben Obomanu,2011
-12,13,Falcons,10/09/2011,GNB,Loss, 14-25,3,70.0,pass,James Jones,2011
-13,14,Falcons,10/09/2011,GNB,Loss, 14-25,4,29.0,pass,Greg Jennings,2011
-14,15,Falcons,10/16/2011,CAR,Win, 31-17,2,1.0,rush,Jonathan Stewart,2011
-15,16,Falcons,10/16/2011,CAR,Win, 31-17,3,14.0,rush,Cam Newton,2011
-16,17,Falcons,10/23/2011,DET,Win, 23-16,3,57.0,pass,Calvin Johnson,2011
-17,18,Falcons,11/06/2011,IND,Win, 31-7,2,6.0,interception,Jerraud Powers,2011
-18,19,Falcons,11/13/2011,NOR,Loss, 23-26,2,21.0,pass,Jimmy Graham,2011
-19,20,Falcons,11/13/2011,NOR,Loss, 23-26,3,33.0,pass,Robert Meachem,2011
-20,21,Falcons,11/20/2011,TEN,Win, 23-17,3,40.0,pass,Nate Washington,2011
-21,22,Falcons,11/20/2011,TEN,Win, 23-17,4,4.0,pass,Nate Washington,2011
-22,23,Falcons,11/27/2011,MIN,Win, 24-14,3,1.0,rush,Toby Gerhart,2011
-23,24,Falcons,11/27/2011,MIN,Win, 24-14,4,39.0,pass,Percy Harvin,2011
-24,25,Falcons,12/04/2011,HOU,Loss, 10-17,2,3.0,pass,Joel Dreessen,2011
-25,26,Falcons,12/04/2011,HOU,Loss, 10-17,4,1.0,rush,Arian Foster,2011
-26,27,Falcons,12/11/2011,CAR,Win, 31-23,1,6.0,pass,Jeremy Shockey,2011
-27,28,Falcons,12/11/2011,CAR,Win, 31-23,2,74.0,rush,DeAngelo Williams,2011
-28,29,Falcons,12/11/2011,CAR,Win, 31-23,2,44.0,pass,Greg Olsen,2011
-29,30,Falcons,12/15/2011,JAX,Win, 41-14,3,46.0,blocked punt,Zach Potter,2011
-30,31,Falcons,12/15/2011,JAX,Win, 41-14,4,16.0,pass,Chastin West,2011
-31,32,Falcons,12/26/2011,NOR,Loss, 16-45,1,4.0,rush,Pierre Thomas,2011
-32,33,Falcons,12/26/2011,NOR,Loss, 16-45,2,8.0,pass,Marques Colston,2011
-33,34,Falcons,12/26/2011,NOR,Loss, 16-45,2,9.0,pass,Jimmy Graham,2011
-34,35,Falcons,12/26/2011,NOR,Loss, 16-45,3,24.0,pass,Robert Meachem,2011
-35,36,Falcons,12/26/2011,NOR,Loss, 16-45,4,30.0,fumble,Malcolm Jenkins,2011
-36,37,Falcons,12/26/2011,NOR,Loss, 16-45,4,9.0,pass,Darren Sproles,2011
-37,38,Falcons,01/01/2012,TAM,Win, 45-24,2,2.0,pass,Dezmon Briscoe,2011
-38,39,Falcons,01/01/2012,TAM,Win, 45-24,3,40.0,interception,Elbert Mack,2011
-39,40,Falcons,01/01/2012,TAM,Win, 45-24,4,5.0,pass,Dezmon Briscoe,2011
+,Rank,Team,Date,Opponent,Win/Loss,Home_Score,Opponenet_Score,Quarter,Distance,Type,Detail
+1,1,Falcons,2011-09-11,CHI,Loss,12,30,1,56,pass,Matt Forte
+2,2,Falcons,2011-09-11,CHI,Loss,12,30,3,1,pass,Matt Spaeth
+3,3,Falcons,2011-09-11,CHI,Loss,12,30,3,0,fumble,Brian Urlacher
+4,4,Falcons,2011-09-18,PHI,Win,35,31,2,5,pass,Jeremy Maclin
+5,5,Falcons,2011-09-18,PHI,Win,35,31,3,36,pass,Jeremy Maclin
+6,6,Falcons,2011-09-18,PHI,Win,35,31,3,8,rush,LeSean McCoy
+7,7,Falcons,2011-09-18,PHI,Win,35,31,3,2,rush,LeSean McCoy
+8,8,Falcons,2011-09-25,TAM,Loss,13,16,2,1,rush,Josh Freeman
+9,9,Falcons,2011-10-02,SEA,Win,30,28,2,52,pass,Sidney Rice
+10,10,Falcons,2011-10-02,SEA,Win,30,28,3,6,pass,Mike Williams
+11,11,Falcons,2011-10-02,SEA,Win,30,28,3,11,rush,Marshawn Lynch
+12,12,Falcons,2011-10-02,SEA,Win,30,28,4,8,pass,Ben Obomanu
+13,13,Falcons,2011-10-09,GNB,Loss,14,25,3,70,pass,James Jones
+14,14,Falcons,2011-10-09,GNB,Loss,14,25,4,29,pass,Greg Jennings
+15,15,Falcons,2011-10-16,CAR,Win,31,17,2,1,rush,Jonathan Stewart
+16,16,Falcons,2011-10-16,CAR,Win,31,17,3,14,rush,Cam Newton
+17,17,Falcons,2011-10-23,DET,Win,23,16,3,57,pass,Calvin Johnson
+18,18,Falcons,2011-11-06,IND,Win,31,7,2,6,interception,Jerraud Powers
+19,19,Falcons,2011-11-13,NOR,Loss,23,26,2,21,pass,Jimmy Graham
+20,20,Falcons,2011-11-13,NOR,Loss,23,26,3,33,pass,Robert Meachem
+21,21,Falcons,2011-11-20,TEN,Win,23,17,3,40,pass,Nate Washington
+22,22,Falcons,2011-11-20,TEN,Win,23,17,4,4,pass,Nate Washington
+23,23,Falcons,2011-11-27,MIN,Win,24,14,3,1,rush,Toby Gerhart
+24,24,Falcons,2011-11-27,MIN,Win,24,14,4,39,pass,Percy Harvin
+25,25,Falcons,2011-12-04,HOU,Loss,10,17,2,3,pass,Joel Dreessen
+26,26,Falcons,2011-12-04,HOU,Loss,10,17,4,1,rush,Arian Foster
+27,27,Falcons,2011-12-11,CAR,Win,31,23,1,6,pass,Jeremy Shockey
+28,28,Falcons,2011-12-11,CAR,Win,31,23,2,74,rush,DeAngelo Williams
+29,29,Falcons,2011-12-11,CAR,Win,31,23,2,44,pass,Greg Olsen
+30,30,Falcons,2011-12-15,JAX,Win,41,14,3,46,blocked punt,Zach Potter
+31,31,Falcons,2011-12-15,JAX,Win,41,14,4,16,pass,Chastin West
+32,32,Falcons,2011-12-26,NOR,Loss,16,45,1,4,rush,Pierre Thomas
+33,33,Falcons,2011-12-26,NOR,Loss,16,45,2,8,pass,Marques Colston
+34,34,Falcons,2011-12-26,NOR,Loss,16,45,2,9,pass,Jimmy Graham
+35,35,Falcons,2011-12-26,NOR,Loss,16,45,3,24,pass,Robert Meachem
+36,36,Falcons,2011-12-26,NOR,Loss,16,45,4,30,fumble,Malcolm Jenkins
+37,37,Falcons,2011-12-26,NOR,Loss,16,45,4,9,pass,Darren Sproles
+38,38,Falcons,2012-01-01,TAM,Win,45,24,2,2,pass,Dezmon Briscoe
+39,39,Falcons,2012-01-01,TAM,Win,45,24,3,40,interception,Elbert Mack
+40,40,Falcons,2012-01-01,TAM,Win,45,24,4,5,pass,Dezmon Briscoe

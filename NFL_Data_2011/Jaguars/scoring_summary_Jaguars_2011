@@ -1,14 +1,14 @@
-,No.,Team,Player,Age,Pos,Games Played,Games Started,Rush TD,Reception TD,Punt Return TD,Kick Return TD,Fumble Return TD,Interception TD,Other TD,All Touchdown Scored,2-Point Conversions Made,Two-Point Conversions Attempted,Defensive Two-Point Conversions,Extra Points Made,Extra Points Allowed,Field Goals Made,Field Goals Attempted,Safeties Scored by Player/Team,Total Points Scored by all Means,Poins per Game,Year
-0,10,Jaguars,Josh Scobee,29,K,16,0,0,0,0,0,0,0,0,0,0,0,0,24,24,23,25,,93,5.8,2011
-1,32,Jaguars,Maurice Jones-Drew,26,RB,16,16,8,3,0,0,0,0,0,11,0,0,0,0,0,0,0,,66,4.1,2011
-2,83,Jaguars,Jason Hill,26,WR,10,10,0,3,0,0,0,0,0,3,0,0,0,0,0,0,0,,18,1.8,2011
-3,17,Jaguars,Chastin West,24,WR,12,1,0,2,0,0,0,0,0,2,0,0,0,0,0,0,0,,12,1.0,2011
-4,83,Jaguars,Colin Cloherty,24,TE,4,1,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,,6,1.5,2011
-5,98,Jaguars,Nate Collins,24,DT,12,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,,6,0.5,2011
-6,87,Jaguars,Jarett Dillard,26,WR,14,5,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,,6,0.4,2011
-7,33,Jaguars,Greg Jones,30,FB,16,9,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,,6,0.4,2011
-8,86,Jaguars,Zach Miller,27,TE,4,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,,6,1.5,2011
-9,88,Jaguars,Zach Potter,25,TE,15,7,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,,6,0.4,2011
-10,84,Jaguars,Cecil Shorts,24,WR,10,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,,6,0.6,2011
-11,80,Jaguars,Mike Thomas,24,WR,15,13,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,,6,0.4,2011
-12,31,Jaguars,Ashton Youboty,27,RCB,6,5,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,,6,1.0,2011
+,No.,Player,Age,Pos,Games Played,Games Started,Rush TD,Reception TD,Punt Return TD,Kick Return TD,Fumble Return TD,Interception TD,Other TD,All Touchdown Scored,2-Point Conversions Made,Two-Point Conversions Attempted,Defensive Two-Point Conversions,Extra Points Made,Extra Points Allowed,Field Goals Made,Field Goals Attempted,Safeties Scored by Player/Team,Total Points Scored by all Means,Poins per Game,Team,Year
+10,10,Josh Scobee,29,K,16,0,0,0,0,0,0,0,0,0,0,0,0,24,24,23,25,0,93,5.8,Jaguars,2011
+32,32,Maurice Jones-Drew,26,RB,16,16,8,3,0,0,0,0,0,11,0,0,0,0,0,0,0,0,66,4.1,Jaguars,2011
+83,83,Jason Hill,26,WR,10,10,0,3,0,0,0,0,0,3,0,0,0,0,0,0,0,0,18,1.8,Jaguars,2011
+17,17,Chastin West,24,WR,12,1,0,2,0,0,0,0,0,2,0,0,0,0,0,0,0,0,12,1.0,Jaguars,2011
+83,83,Colin Cloherty,24,TE,4,1,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,6,1.5,Jaguars,2011
+98,98,Nate Collins,24,DT,12,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,6,0.5,Jaguars,2011
+87,87,Jarett Dillard,26,WR,14,5,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,6,0.4,Jaguars,2011
+33,33,Greg Jones,30,FB,16,9,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,6,0.4,Jaguars,2011
+86,86,Zach Miller,27,TE,4,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,6,1.5,Jaguars,2011
+88,88,Zach Potter,25,TE,15,7,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,6,0.4,Jaguars,2011
+84,84,Cecil Shorts,24,WR,10,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,6,0.6,Jaguars,2011
+80,80,Mike Thomas,24,WR,15,13,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,6,0.4,Jaguars,2011
+31,31,Ashton Youboty,27,RCB,6,5,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,6,1.0,Jaguars,2011
