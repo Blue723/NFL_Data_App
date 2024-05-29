@@ -1,44 +1,44 @@
-,Rank,Team,Date,Opponent,Win/Loss,Score,Quarter,Distance,Type,Detail,Year
-0,1,Saints,09/12/2021,GNB,Win, 38-3,2,3,pass,Alvin Kamara,2021
-1,2,Saints,09/12/2021,GNB,Win, 38-3,2,1,pass,Juwan Johnson,2021
-2,3,Saints,09/12/2021,GNB,Win, 38-3,3,10,pass,Chris Hogan,2021
-3,4,Saints,09/12/2021,GNB,Win, 38-3,4,8,pass,Juwan Johnson,2021
-4,5,Saints,09/12/2021,GNB,Win, 38-3,4,55,pass,Deonte Harty,2021
-5,6,Saints,09/19/2021,CAR,Loss, 7-26,4,8,rush,Jameis Winston,2021
-6,7,Saints,09/26/2021,NWE,Win, 28-13,1,11,pass,Alvin Kamara,2021
-7,8,Saints,09/26/2021,NWE,Win, 28-13,2,7,pass,Marquez Callaway,2021
-8,9,Saints,09/26/2021,NWE,Win, 28-13,3,34,interception,Malcolm Jenkins,2021
-9,10,Saints,09/26/2021,NWE,Win, 28-13,4,4,rush,Taysom Hill,2021
-10,11,Saints,10/03/2021,NYG,Loss, 21-27,2,15,pass,Juwan Johnson,2021
-11,12,Saints,10/03/2021,NYG,Loss, 21-27,3,8,rush,Taysom Hill,2021
-12,13,Saints,10/03/2021,NYG,Loss, 21-27,4,8,rush,Taysom Hill,2021
-13,14,Saints,10/10/2021,WAS,Win, 33-22,1,72,pass,Deonte Harty,2021
-14,15,Saints,10/10/2021,WAS,Win, 33-22,2,23,rush,Alvin Kamara,2021
-15,16,Saints,10/10/2021,WAS,Win, 33-22,2,49,pass,Marquez Callaway,2021
-16,17,Saints,10/10/2021,WAS,Win, 33-22,4,12,pass,Marquez Callaway,2021
-17,18,Saints,10/10/2021,WAS,Win, 33-22,4,19,pass,Alvin Kamara,2021
-18,19,Saints,10/25/2021,SEA,Win, 13-10,2,13,pass,Alvin Kamara,2021
-19,20,Saints,10/31/2021,TAM,Win, 36-27,1,16,pass,Tre'Quan Smith,2021
-20,21,Saints,10/31/2021,TAM,Win, 36-27,2,1,pass,Alex Armah,2021
-21,22,Saints,10/31/2021,TAM,Win, 36-27,3,1,rush,Alvin Kamara,2021
-22,23,Saints,10/31/2021,TAM,Win, 36-27,4,40,interception,P.J. Williams,2021
-23,24,Saints,11/07/2021,ATL,Loss, 25-27,4,5,pass,Marquez Callaway,2021
-24,25,Saints,11/07/2021,ATL,Loss, 25-27,4,2,rush,Alvin Kamara,2021
-25,26,Saints,11/07/2021,ATL,Loss, 25-27,4,8,pass,Kenny Stills,2021
-26,27,Saints,11/14/2021,TEN,Loss, 21-23,2,11,pass,Tre'Quan Smith,2021
-27,28,Saints,11/14/2021,TEN,Loss, 21-23,3,13,rush,Mark Ingram,2021
-28,29,Saints,11/14/2021,TEN,Loss, 21-23,4,15,pass,Marquez Callaway,2021
-29,30,Saints,11/21/2021,PHI,Loss, 29-40,2,18,pass,Adam Trautman,2021
-30,31,Saints,11/21/2021,PHI,Loss, 29-40,4,26,pass,Marquez Callaway,2021
-31,32,Saints,11/21/2021,PHI,Loss, 29-40,4,17,rush,Trevor Siemian,2021
-32,33,Saints,11/21/2021,PHI,Loss, 29-40,4,4,pass,Lil'Jordan Humphrey,2021
-33,34,Saints,11/25/2021,BUF,Loss, 6-31,4,11,pass,Nick Vannett,2021
-34,35,Saints,12/02/2021,DAL,Loss, 17-27,2,24,pass,Lil'Jordan Humphrey,2021
-35,36,Saints,12/02/2021,DAL,Loss, 17-27,4,70,pass,Deonte Harty,2021
-36,37,Saints,12/12/2021,NYJ,Win, 30-9,2,16,rush,Alvin Kamara,2021
-37,38,Saints,12/12/2021,NYJ,Win, 30-9,4,2,rush,Taysom Hill,2021
-38,39,Saints,12/12/2021,NYJ,Win, 30-9,4,44,rush,Taysom Hill,2021
-39,40,Saints,01/02/2022,CAR,Win, 18-10,4,12,pass,Alvin Kamara,2021
-40,41,Saints,01/09/2022,ATL,Win, 30-20,1,18,pass,Adam Trautman,2021
-41,42,Saints,01/09/2022,ATL,Win, 30-20,2,13,pass,Tre'Quan Smith,2021
-42,43,Saints,01/09/2022,ATL,Win, 30-20,2,5,pass,Juwan Johnson,2021
+,Rank,Team,Date,Opponent,Win/Loss,Home_Score,Opponenet_Score,Quarter,Distance,Type,Detail
+1,1,Saints,2021-09-12,GNB,Win,38,3,2,3,pass,Alvin Kamara
+2,2,Saints,2021-09-12,GNB,Win,38,3,2,1,pass,Juwan Johnson
+3,3,Saints,2021-09-12,GNB,Win,38,3,3,10,pass,Chris Hogan
+4,4,Saints,2021-09-12,GNB,Win,38,3,4,8,pass,Juwan Johnson
+5,5,Saints,2021-09-12,GNB,Win,38,3,4,55,pass,Deonte Harty
+6,6,Saints,2021-09-19,CAR,Loss,7,26,4,8,rush,Jameis Winston
+7,7,Saints,2021-09-26,NWE,Win,28,13,1,11,pass,Alvin Kamara
+8,8,Saints,2021-09-26,NWE,Win,28,13,2,7,pass,Marquez Callaway
+9,9,Saints,2021-09-26,NWE,Win,28,13,3,34,interception,Malcolm Jenkins
+10,10,Saints,2021-09-26,NWE,Win,28,13,4,4,rush,Taysom Hill
+11,11,Saints,2021-10-03,NYG,Loss,21,27,2,15,pass,Juwan Johnson
+12,12,Saints,2021-10-03,NYG,Loss,21,27,3,8,rush,Taysom Hill
+13,13,Saints,2021-10-03,NYG,Loss,21,27,4,8,rush,Taysom Hill
+14,14,Saints,2021-10-10,WAS,Win,33,22,1,72,pass,Deonte Harty
+15,15,Saints,2021-10-10,WAS,Win,33,22,2,23,rush,Alvin Kamara
+16,16,Saints,2021-10-10,WAS,Win,33,22,2,49,pass,Marquez Callaway
+17,17,Saints,2021-10-10,WAS,Win,33,22,4,12,pass,Marquez Callaway
+18,18,Saints,2021-10-10,WAS,Win,33,22,4,19,pass,Alvin Kamara
+19,19,Saints,2021-10-25,SEA,Win,13,10,2,13,pass,Alvin Kamara
+20,20,Saints,2021-10-31,TAM,Win,36,27,1,16,pass,Tre'Quan Smith
+21,21,Saints,2021-10-31,TAM,Win,36,27,2,1,pass,Alex Armah
+22,22,Saints,2021-10-31,TAM,Win,36,27,3,1,rush,Alvin Kamara
+23,23,Saints,2021-10-31,TAM,Win,36,27,4,40,interception,P.J. Williams
+24,24,Saints,2021-11-07,ATL,Loss,25,27,4,5,pass,Marquez Callaway
+25,25,Saints,2021-11-07,ATL,Loss,25,27,4,2,rush,Alvin Kamara
+26,26,Saints,2021-11-07,ATL,Loss,25,27,4,8,pass,Kenny Stills
+27,27,Saints,2021-11-14,TEN,Loss,21,23,2,11,pass,Tre'Quan Smith
+28,28,Saints,2021-11-14,TEN,Loss,21,23,3,13,rush,Mark Ingram
+29,29,Saints,2021-11-14,TEN,Loss,21,23,4,15,pass,Marquez Callaway
+30,30,Saints,2021-11-21,PHI,Loss,29,40,2,18,pass,Adam Trautman
+31,31,Saints,2021-11-21,PHI,Loss,29,40,4,26,pass,Marquez Callaway
+32,32,Saints,2021-11-21,PHI,Loss,29,40,4,17,rush,Trevor Siemian
+33,33,Saints,2021-11-21,PHI,Loss,29,40,4,4,pass,Lil'Jordan Humphrey
+34,34,Saints,2021-11-25,BUF,Loss,6,31,4,11,pass,Nick Vannett
+35,35,Saints,2021-12-02,DAL,Loss,17,27,2,24,pass,Lil'Jordan Humphrey
+36,36,Saints,2021-12-02,DAL,Loss,17,27,4,70,pass,Deonte Harty
+37,37,Saints,2021-12-12,NYJ,Win,30,9,2,16,rush,Alvin Kamara
+38,38,Saints,2021-12-12,NYJ,Win,30,9,4,2,rush,Taysom Hill
+39,39,Saints,2021-12-12,NYJ,Win,30,9,4,44,rush,Taysom Hill
+40,40,Saints,2022-01-02,CAR,Win,18,10,4,12,pass,Alvin Kamara
+41,41,Saints,2022-01-09,ATL,Win,30,20,1,18,pass,Adam Trautman
+42,42,Saints,2022-01-09,ATL,Win,30,20,2,13,pass,Tre'Quan Smith
+43,43,Saints,2022-01-09,ATL,Win,30,20,2,5,pass,Juwan Johnson

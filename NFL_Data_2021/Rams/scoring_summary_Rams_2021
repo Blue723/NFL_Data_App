@@ -1,11 +1,11 @@
-,No.,Team,Player,Age,Pos,Games Played,Games Started,Rush TD,Reception TD,Punt Return TD,Kick Return TD,Fumble Return TD,Interception TD,Other TD,All Touchdown Scored,2-Point Conversions Made,Two-Point Conversions Attempted,Defensive Two-Point Conversions,Extra Points Made,Extra Points Allowed,Field Goals Made,Field Goals Attempted,Safeties Scored by Player/Team,Total Points Scored by all Means,Poins per Game,Year
-0,8,Rams,Matt Gay,27,K,17,0,0,0,0,0,0,0,0,0,0,0,0,48,49,32,34,,144,8.5,2021
-1,10,Rams,Cooper Kupp,28,WR,17,17,0,16,0,0,0,0,0,16,1,0,0,0,0,0,0,,98,5.8,2021
-2,27,Rams,Darrell Henderson,24,RB,12,10,5,3,0,0,0,0,0,8,0,0,0,0,0,0,0,,48,4.0,2021
-3,12,Rams,Van Jefferson,25,WR,17,17,0,6,0,0,0,0,0,6,0,0,0,0,0,0,0,,36,2.1,2021
-4,2,Rams,Robert Woods,29,WR,9,9,1,4,0,0,0,0,0,5,1,0,0,0,0,0,0,,32,3.6,2021
-5,3,Rams,Odell Beckham Jr.,29,WR,8,7,0,5,0,0,0,0,0,5,0,0,0,0,0,0,0,,30,3.8,2021
-6,89,Rams,Tyler Higbee,28,TE,15,15,0,5,0,0,0,0,0,5,0,0,0,0,0,0,0,,30,2.0,2021
-7,25,Rams,Sony Michel,26,RB,17,7,4,1,0,0,0,0,0,5,0,0,0,0,0,0,0,,30,1.8,2021
-8,1,Rams,DeSean Jackson,35,WR,7,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,,6,0.9,2021
-9,19,Rams,Brandon Powell,26,WR,6,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,,6,1.0,2021
+,No.,Player,Age,Pos,Games Played,Games Started,Rush TD,Reception TD,Punt Return TD,Kick Return TD,Fumble Return TD,Interception TD,Other TD,All Touchdown Scored,2-Point Conversions Made,Two-Point Conversions Attempted,Defensive Two-Point Conversions,Extra Points Made,Extra Points Allowed,Field Goals Made,Field Goals Attempted,Safeties Scored by Player/Team,Total Points Scored by all Means,Poins per Game,Team,Year
+8,8,Matt Gay,27,K,17,0,0,0,0,0,0,0,0,0,0,0,0,48,49,32,34,0,144,8.5,Rams,2021
+10,10,Cooper Kupp,28,WR,17,17,0,16,0,0,0,0,0,16,1,0,0,0,0,0,0,0,98,5.8,Rams,2021
+27,27,Darrell Henderson,24,RB,12,10,5,3,0,0,0,0,0,8,0,0,0,0,0,0,0,0,48,4.0,Rams,2021
+12,12,Van Jefferson,25,WR,17,17,0,6,0,0,0,0,0,6,0,0,0,0,0,0,0,0,36,2.1,Rams,2021
+2,2,Robert Woods,29,WR,9,9,1,4,0,0,0,0,0,5,1,0,0,0,0,0,0,0,32,3.6,Rams,2021
+3,3,Odell Beckham Jr.,29,WR,8,7,0,5,0,0,0,0,0,5,0,0,0,0,0,0,0,0,30,3.8,Rams,2021
+89,89,Tyler Higbee,28,TE,15,15,0,5,0,0,0,0,0,5,0,0,0,0,0,0,0,0,30,2.0,Rams,2021
+25,25,Sony Michel,26,RB,17,7,4,1,0,0,0,0,0,5,0,0,0,0,0,0,0,0,30,1.8,Rams,2021
+1,1,DeSean Jackson,35,WR,7,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,6,0.9,Rams,2021
+19,19,Brandon Powell,26,WR,6,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,6,1.0,Rams,2021

@@ -1,17 +1,17 @@
-,No.,Team,Player,Age,Pos,Games Played,Games Started,Rush TD,Reception TD,Punt Return TD,Kick Return TD,Fumble Return TD,Interception TD,Other TD,All Touchdown Scored,2-Point Conversions Made,Two-Point Conversions Attempted,Defensive Two-Point Conversions,Extra Points Made,Extra Points Allowed,Field Goals Made,Field Goals Attempted,Safeties Scored by Player/Team,Total Points Scored by all Means,Poins per Game,Year
-0,28,Colts,Jonathan Taylor,22,RB,17,17,18,2,0,0,0,0,0,20,0,0,0,0,0,0,0,,120,7.1,2021
-1,6,Colts,Michael Badgley,26,K,12,0,0,0,0,0,0,0,0,0,0,0,0,39,39,18,21,,93,7.8,2021
-2,3,Colts,Rodrigo Blankenship,24,K,5,0,0,0,0,0,0,0,0,0,0,0,0,7,8,11,14,,40,8.0,2021
-3,11,Colts,Michael Pittman Jr.,24,WR,17,17,0,6,0,0,0,0,0,6,1,0,0,0,0,0,0,,38,2.2,2021
-4,81,Colts,Mo Alie-Cox,28,TE,17,7,0,4,0,0,0,0,0,4,0,0,0,0,0,0,0,,24,1.4,2021
-5,84,Colts,Jack Doyle,31,TE,17,14,0,3,0,0,0,0,0,3,1,0,0,0,0,0,0,,20,1.2,2021
-6,16,Colts,Ashton Dulin,24,WR,17,1,0,2,0,0,1,0,0,3,0,0,0,0,0,0,0,,18,1.1,2021
-7,13,Colts,T.Y. Hilton,32,WR,10,9,0,3,0,0,0,0,0,3,0,0,0,0,0,0,0,,18,1.8,2021
-8,21,Colts,Nyheim Hines,25,RB,17,4,2,1,0,0,0,0,0,3,0,0,0,0,0,0,0,,18,1.1,2021
-9,14,Colts,Zach Pascal,27,WR,16,13,0,3,0,0,0,0,0,3,0,0,0,0,0,0,0,,18,1.1,2021
-10,45,Colts,E.J. Speed,26,LB,17,1,0,0,0,0,0,0,2,2,0,0,0,0,0,0,0,,12,0.7,2021
-11,1,Colts,Parris Campbell,24,WR,6,3,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,,6,1.0,2021
-12,35,Colts,Deon Jackson,22,RB,9,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,,6,0.7,2021
-13,10,Colts,Dezmon Patmon,23,WR,8,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,,6,0.8,2021
-14,63,Colts,Danny Pinter,25,G,16,3,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,,6,0.4,2021
-15,2,Colts,Carson Wentz,29,QB,17,17,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,,6,0.4,2021
+,No.,Player,Age,Pos,Games Played,Games Started,Rush TD,Reception TD,Punt Return TD,Kick Return TD,Fumble Return TD,Interception TD,Other TD,All Touchdown Scored,2-Point Conversions Made,Two-Point Conversions Attempted,Defensive Two-Point Conversions,Extra Points Made,Extra Points Allowed,Field Goals Made,Field Goals Attempted,Safeties Scored by Player/Team,Total Points Scored by all Means,Poins per Game,Team,Year
+28,28,Jonathan Taylor,22,RB,17,17,18,2,0,0,0,0,0,20,0,0,0,0,0,0,0,0,120,7.1,Colts,2021
+6,6,Michael Badgley,26,K,12,0,0,0,0,0,0,0,0,0,0,0,0,39,39,18,21,0,93,7.8,Colts,2021
+3,3,Rodrigo Blankenship,24,K,5,0,0,0,0,0,0,0,0,0,0,0,0,7,8,11,14,0,40,8.0,Colts,2021
+11,11,Michael Pittman Jr.,24,WR,17,17,0,6,0,0,0,0,0,6,1,0,0,0,0,0,0,0,38,2.2,Colts,2021
+81,81,Mo Alie-Cox,28,TE,17,7,0,4,0,0,0,0,0,4,0,0,0,0,0,0,0,0,24,1.4,Colts,2021
+84,84,Jack Doyle,31,TE,17,14,0,3,0,0,0,0,0,3,1,0,0,0,0,0,0,0,20,1.2,Colts,2021
+16,16,Ashton Dulin,24,WR,17,1,0,2,0,0,1,0,0,3,0,0,0,0,0,0,0,0,18,1.1,Colts,2021
+13,13,T.Y. Hilton,32,WR,10,9,0,3,0,0,0,0,0,3,0,0,0,0,0,0,0,0,18,1.8,Colts,2021
+21,21,Nyheim Hines,25,RB,17,4,2,1,0,0,0,0,0,3,0,0,0,0,0,0,0,0,18,1.1,Colts,2021
+14,14,Zach Pascal,27,WR,16,13,0,3,0,0,0,0,0,3,0,0,0,0,0,0,0,0,18,1.1,Colts,2021
+45,45,E.J. Speed,26,LB,17,1,0,0,0,0,0,0,2,2,0,0,0,0,0,0,0,0,12,0.7,Colts,2021
+1,1,Parris Campbell,24,WR,6,3,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,6,1.0,Colts,2021
+35,35,Deon Jackson,22,RB,9,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,6,0.7,Colts,2021
+10,10,Dezmon Patmon,23,WR,8,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,6,0.8,Colts,2021
+63,63,Danny Pinter,25,G,16,3,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,6,0.4,Colts,2021
+2,2,Carson Wentz,29,QB,17,17,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,6,0.4,Colts,2021

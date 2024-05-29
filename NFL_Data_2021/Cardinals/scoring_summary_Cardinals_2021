@@ -1,15 +1,15 @@
-,No.,Team,Player,Age,Pos,Games Played,Games Started,Rush TD,Reception TD,Punt Return TD,Kick Return TD,Fumble Return TD,Interception TD,Other TD,All Touchdown Scored,2-Point Conversions Made,Two-Point Conversions Attempted,Defensive Two-Point Conversions,Extra Points Made,Extra Points Allowed,Field Goals Made,Field Goals Attempted,Safeties Scored by Player/Team,Total Points Scored by all Means,Poins per Game,Year
-0,5,Cardinals,Matt Prater,37,K,17,0,0,0,0,0,0,0,0,0,0,0,0,47,49,30,37,,137,8.1,2021
-1,6,Cardinals,James Conner,26,RB,15,6,15,3,0,0,0,0,0,18,0,0,0,0,0,0,0,,108,7.2,2021
-2,10,Cardinals,DeAndre Hopkins,29,WR,10,10,0,8,0,0,0,0,0,8,0,0,0,0,0,0,0,,48,4.8,2021
-3,13,Cardinals,Christian Kirk,25,WR,17,11,0,5,0,0,0,0,0,5,0,0,0,0,0,0,0,,30,1.8,2021
-4,1,Cardinals,Kyler Murray,24,QB,14,14,5,0,0,0,0,0,0,5,0,0,0,0,0,0,0,,30,2.1,2021
-5,86,Cardinals,Zach Ertz,31,TE,11,11,0,3,0,0,0,0,0,3,0,0,0,0,0,0,0,,18,1.6,2021
-6,18,Cardinals,A.J. Green,33,WR,16,9,0,3,0,0,0,0,0,3,0,0,0,0,0,0,0,,18,1.1,2021
-7,84,Cardinals,Antoine Wesley,24,WR,15,4,0,3,0,0,0,0,0,3,0,0,0,0,0,0,0,,18,1.2,2021
-8,2,Cardinals,Chase Edmonds,25,RB,12,11,2,0,0,0,0,0,0,2,0,0,0,0,0,0,0,,12,1.0,2021
-9,94,Cardinals,Zach Allen,24,RDE,15,14,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,,6,0.4,2021
-10,26,Cardinals,Eno Benjamin,22,RB,9,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,,6,0.7,2021
-11,4,Cardinals,Rondale Moore,21,WR,14,7,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,,6,0.4,2021
-12,7,Cardinals,Byron Murphy,23,LCB,16,16,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,,6,0.4,2021
-13,87,Cardinals,Maxx Williams,27,TE,5,5,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,,6,1.2,2021
+,No.,Player,Age,Pos,Games Played,Games Started,Rush TD,Reception TD,Punt Return TD,Kick Return TD,Fumble Return TD,Interception TD,Other TD,All Touchdown Scored,2-Point Conversions Made,Two-Point Conversions Attempted,Defensive Two-Point Conversions,Extra Points Made,Extra Points Allowed,Field Goals Made,Field Goals Attempted,Safeties Scored by Player/Team,Total Points Scored by all Means,Poins per Game,Team,Year
+5,5,Matt Prater,37,K,17,0,0,0,0,0,0,0,0,0,0,0,0,47,49,30,37,0,137,8.1,Cardinals,2021
+6,6,James Conner,26,RB,15,6,15,3,0,0,0,0,0,18,0,0,0,0,0,0,0,0,108,7.2,Cardinals,2021
+10,10,DeAndre Hopkins,29,WR,10,10,0,8,0,0,0,0,0,8,0,0,0,0,0,0,0,0,48,4.8,Cardinals,2021
+13,13,Christian Kirk,25,WR,17,11,0,5,0,0,0,0,0,5,0,0,0,0,0,0,0,0,30,1.8,Cardinals,2021
+1,1,Kyler Murray,24,QB,14,14,5,0,0,0,0,0,0,5,0,0,0,0,0,0,0,0,30,2.1,Cardinals,2021
+86,86,Zach Ertz,31,TE,11,11,0,3,0,0,0,0,0,3,0,0,0,0,0,0,0,0,18,1.6,Cardinals,2021
+18,18,A.J. Green,33,WR,16,9,0,3,0,0,0,0,0,3,0,0,0,0,0,0,0,0,18,1.1,Cardinals,2021
+84,84,Antoine Wesley,24,WR,15,4,0,3,0,0,0,0,0,3,0,0,0,0,0,0,0,0,18,1.2,Cardinals,2021
+2,2,Chase Edmonds,25,RB,12,11,2,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,12,1.0,Cardinals,2021
+94,94,Zach Allen,24,RDE,15,14,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,6,0.4,Cardinals,2021
+26,26,Eno Benjamin,22,RB,9,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,6,0.7,Cardinals,2021
+4,4,Rondale Moore,21,WR,14,7,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,6,0.4,Cardinals,2021
+7,7,Byron Murphy,23,LCB,16,16,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,6,0.4,Cardinals,2021
+87,87,Maxx Williams,27,TE,5,5,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,6,1.2,Cardinals,2021

@@ -1,38 +1,38 @@
-,Rank,Team,Date,Opponent,Win/Loss,Score,Quarter,Distance,Type,Detail,Year
-0,1,Raiders,09/13/2021,BAL,Win, 33-27,2,2,rush,Josh Jacobs,2021
-1,2,Raiders,09/13/2021,BAL,Win, 33-27,4,15,rush,Josh Jacobs,2021
-2,3,Raiders,09/13/2021,BAL,Win, 33-27,4,10,pass,Darren Waller,2021
-3,4,Raiders,09/13/2021,BAL,Win, 33-27,5,31,pass,Zay Jones,2021
-4,5,Raiders,09/19/2021,PIT,Win, 26-17,3,9,pass,Foster Moreau,2021
-5,6,Raiders,09/19/2021,PIT,Win, 26-17,4,61,pass,Henry Ruggs III,2021
-6,7,Raiders,09/26/2021,MIA,Win, 31-28,2,1,pass,Alec Ingold,2021
-7,8,Raiders,09/26/2021,MIA,Win, 31-28,3,12,pass,Hunter Renfrow,2021
-8,9,Raiders,09/26/2021,MIA,Win, 31-28,4,1,rush,Peyton Barber,2021
-9,10,Raiders,10/04/2021,LAC,Loss, 14-28,3,10,pass,Hunter Renfrow,2021
-10,11,Raiders,10/04/2021,LAC,Loss, 14-28,3,3,pass,Darren Waller,2021
-11,12,Raiders,10/10/2021,CHI,Loss, 9-20,4,1,rush,Josh Jacobs,2021
-12,13,Raiders,10/17/2021,DEN,Win, 34-24,1,48,pass,Henry Ruggs III,2021
-13,14,Raiders,10/17/2021,DEN,Win, 34-24,2,31,pass,Kenyan Drake,2021
-14,15,Raiders,10/17/2021,DEN,Win, 34-24,3,18,rush,Kenyan Drake,2021
-15,16,Raiders,10/17/2021,DEN,Win, 34-24,3,3,rush,Josh Jacobs,2021
-16,17,Raiders,10/24/2021,PHI,Win, 33-22,2,18,pass,Foster Moreau,2021
-17,18,Raiders,10/24/2021,PHI,Win, 33-22,2,8,rush,Josh Jacobs,2021
-18,19,Raiders,10/24/2021,PHI,Win, 33-22,3,4,rush,Kenyan Drake,2021
-19,20,Raiders,10/24/2021,PHI,Win, 33-22,3,1,pass,Bryan Edwards,2021
-20,21,Raiders,11/07/2021,NYG,Loss, 16-23,1,2,pass,Hunter Renfrow,2021
-21,22,Raiders,11/14/2021,KAN,Loss, 14-41,2,6,pass,Hunter Renfrow,2021
-22,23,Raiders,11/14/2021,KAN,Loss, 14-41,3,37,pass,Bryan Edwards,2021
-23,24,Raiders,11/21/2021,CIN,Loss, 13-32,4,19,pass,Foster Moreau,2021
-24,25,Raiders,11/25/2021,DAL,Win, 36-33,1,56,pass,DeSean Jackson,2021
-25,26,Raiders,11/25/2021,DAL,Win, 36-33,1,1,rush,Josh Jacobs,2021
-26,27,Raiders,11/25/2021,DAL,Win, 36-33,3,3,rush,Marcus Mariota,2021
-27,28,Raiders,12/05/2021,WAS,Loss, 15-17,4,1,rush,Josh Jacobs,2021
-28,29,Raiders,12/12/2021,KAN,Loss, 9-48,3,4,pass,Hunter Renfrow,2021
-29,30,Raiders,12/20/2021,CLE,Win, 16-14,1,5,pass,Bryan Edwards,2021
-30,31,Raiders,12/26/2021,DEN,Win, 17-13,2,10,pass,Hunter Renfrow,2021
-31,32,Raiders,12/26/2021,DEN,Win, 17-13,3,5,rush,Peyton Barber,2021
-32,33,Raiders,01/02/2022,IND,Win, 23-20,1,2,rush,Josh Jacobs,2021
-33,34,Raiders,01/02/2022,IND,Win, 23-20,4,11,pass,Hunter Renfrow,2021
-34,35,Raiders,01/09/2022,LAC,Win, 35-32,1,12,pass,Hunter Renfrow,2021
-35,36,Raiders,01/09/2022,LAC,Win, 35-32,2,1,rush,Josh Jacobs,2021
-36,37,Raiders,01/09/2022,LAC,Win, 35-32,4,2,pass,Hunter Renfrow,2021
+,Rank,Team,Date,Opponent,Win/Loss,Home_Score,Opponenet_Score,Quarter,Distance,Type,Detail
+1,1,Raiders,2021-09-13,BAL,Win,33,27,2,2,rush,Josh Jacobs
+2,2,Raiders,2021-09-13,BAL,Win,33,27,4,15,rush,Josh Jacobs
+3,3,Raiders,2021-09-13,BAL,Win,33,27,4,10,pass,Darren Waller
+4,4,Raiders,2021-09-13,BAL,Win,33,27,5,31,pass,Zay Jones
+5,5,Raiders,2021-09-19,PIT,Win,26,17,3,9,pass,Foster Moreau
+6,6,Raiders,2021-09-19,PIT,Win,26,17,4,61,pass,Henry Ruggs III
+7,7,Raiders,2021-09-26,MIA,Win,31,28,2,1,pass,Alec Ingold
+8,8,Raiders,2021-09-26,MIA,Win,31,28,3,12,pass,Hunter Renfrow
+9,9,Raiders,2021-09-26,MIA,Win,31,28,4,1,rush,Peyton Barber
+10,10,Raiders,2021-10-04,LAC,Loss,14,28,3,10,pass,Hunter Renfrow
+11,11,Raiders,2021-10-04,LAC,Loss,14,28,3,3,pass,Darren Waller
+12,12,Raiders,2021-10-10,CHI,Loss,9,20,4,1,rush,Josh Jacobs
+13,13,Raiders,2021-10-17,DEN,Win,34,24,1,48,pass,Henry Ruggs III
+14,14,Raiders,2021-10-17,DEN,Win,34,24,2,31,pass,Kenyan Drake
+15,15,Raiders,2021-10-17,DEN,Win,34,24,3,18,rush,Kenyan Drake
+16,16,Raiders,2021-10-17,DEN,Win,34,24,3,3,rush,Josh Jacobs
+17,17,Raiders,2021-10-24,PHI,Win,33,22,2,18,pass,Foster Moreau
+18,18,Raiders,2021-10-24,PHI,Win,33,22,2,8,rush,Josh Jacobs
+19,19,Raiders,2021-10-24,PHI,Win,33,22,3,4,rush,Kenyan Drake
+20,20,Raiders,2021-10-24,PHI,Win,33,22,3,1,pass,Bryan Edwards
+21,21,Raiders,2021-11-07,NYG,Loss,16,23,1,2,pass,Hunter Renfrow
+22,22,Raiders,2021-11-14,KAN,Loss,14,41,2,6,pass,Hunter Renfrow
+23,23,Raiders,2021-11-14,KAN,Loss,14,41,3,37,pass,Bryan Edwards
+24,24,Raiders,2021-11-21,CIN,Loss,13,32,4,19,pass,Foster Moreau
+25,25,Raiders,2021-11-25,DAL,Win,36,33,1,56,pass,DeSean Jackson
+26,26,Raiders,2021-11-25,DAL,Win,36,33,1,1,rush,Josh Jacobs
+27,27,Raiders,2021-11-25,DAL,Win,36,33,3,3,rush,Marcus Mariota
+28,28,Raiders,2021-12-05,WAS,Loss,15,17,4,1,rush,Josh Jacobs
+29,29,Raiders,2021-12-12,KAN,Loss,9,48,3,4,pass,Hunter Renfrow
+30,30,Raiders,2021-12-20,CLE,Win,16,14,1,5,pass,Bryan Edwards
+31,31,Raiders,2021-12-26,DEN,Win,17,13,2,10,pass,Hunter Renfrow
+32,32,Raiders,2021-12-26,DEN,Win,17,13,3,5,rush,Peyton Barber
+33,33,Raiders,2022-01-02,IND,Win,23,20,1,2,rush,Josh Jacobs
+34,34,Raiders,2022-01-02,IND,Win,23,20,4,11,pass,Hunter Renfrow
+35,35,Raiders,2022-01-09,LAC,Win,35,32,1,12,pass,Hunter Renfrow
+36,36,Raiders,2022-01-09,LAC,Win,35,32,2,1,rush,Josh Jacobs
+37,37,Raiders,2022-01-09,LAC,Win,35,32,4,2,pass,Hunter Renfrow

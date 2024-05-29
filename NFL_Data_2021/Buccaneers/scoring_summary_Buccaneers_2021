@@ -1,18 +1,18 @@
-,No.,Team,Player,Age,Pos,Games Played,Games Started,Rush TD,Reception TD,Punt Return TD,Kick Return TD,Fumble Return TD,Interception TD,Other TD,All Touchdown Scored,2-Point Conversions Made,Two-Point Conversions Attempted,Defensive Two-Point Conversions,Extra Points Made,Extra Points Allowed,Field Goals Made,Field Goals Attempted,Safeties Scored by Player/Team,Total Points Scored by all Means,Poins per Game,Year
-0,3,Buccaneers,Ryan Succop,35,K,17,0,0,0,0,0,0,0,0,0,0,0,0,56,59,25,30,,131,7.7,2021
-1,13,Buccaneers,Mike Evans,28,WR,16,16,0,14,0,0,0,0,0,14,0,0,0,0,0,0,0,,84,5.3,2021
-2,7,Buccaneers,Leonard Fournette,26,RB,14,13,8,2,0,0,0,0,0,10,0,0,0,0,0,0,0,,60,4.3,2021
-3,14,Buccaneers,Chris Godwin,25,WR,14,14,1,5,0,0,0,0,0,6,0,0,0,0,0,0,0,,36,2.6,2021
-4,87,Buccaneers,Rob Gronkowski,32,TE,12,12,0,6,0,0,0,0,0,6,0,0,0,0,0,0,0,,36,3.0,2021
-5,84,Buccaneers,Cameron Brate,30,TE,17,3,0,4,0,0,0,0,0,4,0,0,0,0,0,0,0,,24,1.4,2021
-6,81,Buccaneers,Antonio Brown,33,WR,7,3,0,4,0,0,0,0,0,4,0,0,0,0,0,0,0,,24,3.4,2021
-7,27,Buccaneers,Ronald Jones II,24,RB,16,3,4,0,0,0,0,0,0,4,0,0,0,0,0,0,0,,24,1.5,2021
-8,25,Buccaneers,Giovani Bernard,30,RB,12,0,0,3,0,0,0,0,0,3,0,0,0,0,0,0,0,,18,1.5,2021
-9,12,Buccaneers,Tom Brady,44,QB,17,17,2,0,0,0,0,0,0,2,0,0,0,0,0,0,0,,12,0.7,2021
-10,32,Buccaneers,Mike Edwards,25,DB,14,4,0,0,0,0,0,2,0,2,0,0,0,0,0,0,0,,12,0.9,2021
-11,15,Buccaneers,Cyril Grayson,28,WR,5,3,0,2,0,0,0,0,0,2,0,0,0,0,0,0,0,,12,2.4,2021
-12,21,Buccaneers,Ke'Shawn Vaughn,24,RB,12,1,2,0,0,0,0,0,0,2,0,0,0,0,0,0,0,,12,1.0,2021
-13,6,Buccaneers,Le'Veon Bell,29,RB,3,0,0,1,0,0,0,0,0,1,1,0,0,0,0,0,0,,8,2.7,2021
-14,80,Buccaneers,O.J. Howard,27,TE,17,9,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,,6,0.4,2021
-15,10,Buccaneers,Scott Miller,24,WR,9,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,,6,0.7,2021
-16,16,Buccaneers,Breshad Perriman,28,WR,6,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,,6,1.0,2021
+,No.,Player,Age,Pos,Games Played,Games Started,Rush TD,Reception TD,Punt Return TD,Kick Return TD,Fumble Return TD,Interception TD,Other TD,All Touchdown Scored,2-Point Conversions Made,Two-Point Conversions Attempted,Defensive Two-Point Conversions,Extra Points Made,Extra Points Allowed,Field Goals Made,Field Goals Attempted,Safeties Scored by Player/Team,Total Points Scored by all Means,Poins per Game,Team,Year
+3,3,Ryan Succop,35,K,17,0,0,0,0,0,0,0,0,0,0,0,0,56,59,25,30,0,131,7.7,Buccaneers,2021
+13,13,Mike Evans,28,WR,16,16,0,14,0,0,0,0,0,14,0,0,0,0,0,0,0,0,84,5.3,Buccaneers,2021
+7,7,Leonard Fournette,26,RB,14,13,8,2,0,0,0,0,0,10,0,0,0,0,0,0,0,0,60,4.3,Buccaneers,2021
+14,14,Chris Godwin,25,WR,14,14,1,5,0,0,0,0,0,6,0,0,0,0,0,0,0,0,36,2.6,Buccaneers,2021
+87,87,Rob Gronkowski,32,TE,12,12,0,6,0,0,0,0,0,6,0,0,0,0,0,0,0,0,36,3.0,Buccaneers,2021
+84,84,Cameron Brate,30,TE,17,3,0,4,0,0,0,0,0,4,0,0,0,0,0,0,0,0,24,1.4,Buccaneers,2021
+81,81,Antonio Brown,33,WR,7,3,0,4,0,0,0,0,0,4,0,0,0,0,0,0,0,0,24,3.4,Buccaneers,2021
+27,27,Ronald Jones II,24,RB,16,3,4,0,0,0,0,0,0,4,0,0,0,0,0,0,0,0,24,1.5,Buccaneers,2021
+25,25,Giovani Bernard,30,RB,12,0,0,3,0,0,0,0,0,3,0,0,0,0,0,0,0,0,18,1.5,Buccaneers,2021
+12,12,Tom Brady,44,QB,17,17,2,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,12,0.7,Buccaneers,2021
+32,32,Mike Edwards,25,DB,14,4,0,0,0,0,0,2,0,2,0,0,0,0,0,0,0,0,12,0.9,Buccaneers,2021
+15,15,Cyril Grayson,28,WR,5,3,0,2,0,0,0,0,0,2,0,0,0,0,0,0,0,0,12,2.4,Buccaneers,2021
+21,21,Ke'Shawn Vaughn,24,RB,12,1,2,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,12,1.0,Buccaneers,2021
+6,6,Le'Veon Bell,29,RB,3,0,0,1,0,0,0,0,0,1,1,0,0,0,0,0,0,0,8,2.7,Buccaneers,2021
+80,80,O.J. Howard,27,TE,17,9,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,6,0.4,Buccaneers,2021
+10,10,Scott Miller,24,WR,9,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,6,0.7,Buccaneers,2021
+16,16,Breshad Perriman,28,WR,6,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,6,1.0,Buccaneers,2021

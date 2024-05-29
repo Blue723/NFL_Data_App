@@ -1,4 +1,4 @@
-,No.,Team,Player,Age,Pos,Games Played,Games Started,Times Puned,Total Punt Yardage,Yards per Punt,Punt Return Yardage by Opposition,Punt Net yards,Punt Net Yards per Punt,Longest Punt,Punts Resulting in a Touchback,Per. of Punts Resulting in a Touchback,Punts Inside Opp. 20 Yard Line,Per. of Punts Downed Inside Opp. 20 Yard Line,Times Punts Blocked,Year
-0,9,Jaguars,Logan Cooke,26,P,15,0,64,3026,47.3,173,2833,44.3,68,1,1.6,28,43.8,0,2021
-1,13,Jaguars,JK Scott,26,K,1,0,4,159,39.8,0,159,39.8,47,0,0.0,0,0.0,0,2021
-2,19,Jaguars,Joseph Charlton,24,P,1,0,3,152,50.7,7,125,41.7,57,1,33.3,0,0.0,0,2021
+,No.,Player,Age,Pos,Games Played,Games Started,Times Puned,Total Punt Yardage,Yards per Punt,Punt Return Yardage by Opposition,Punt Net yards,Punt Net Yards per Punt,Longest Punt,Punts Resulting in a Touchback,Per. of Punts Resulting in a Touchback,Punts Inside Opp. 20 Yard Line,Per. of Punts Downed Inside Opp. 20 Yard Line,Times Punts Blocked,Team,Year
+9,9,Logan Cooke,26,P,15,0,64,3026,47.3,173,2833,44.3,68,1,1.6,28,43.8,0,Jaguars,2021
+13,13,JK Scott,26,P,1,0,4,159,39.8,0,159,39.8,47,0,0.0,0,0.0,0,Jaguars,2021
+19,19,Joseph Charlton,24,P,1,0,3,152,50.7,7,125,41.7,57,1,33.3,0,0.0,0,Jaguars,2021

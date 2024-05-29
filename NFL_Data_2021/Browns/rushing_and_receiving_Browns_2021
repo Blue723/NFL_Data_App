@@ -1,20 +1,20 @@
-,No.,Team,Player,Age,Position,Games Played,Games Started as an Offensive or Defensive Player,Rushing Attempts,Rushing Yards Gained,Rushing Touchdown,First Downs Rushing,Rushing Success Rate,Longest Rushing Attempt,Rushing Yards per Attempt,Rushing Yards per Game,Rushing Attempts per Game,Pass Targets,Receptions,Receiving Yards,Receiving Yards per Reception,Receiving Touchdowns,First Downs Receiving,Receiving Success Rate,Longest Reception,Receptions per Game,Receiving Yards per Game,Catch Per.,Receiving Yards per Target,Touches: Rushing Attempts and Receptions,Scrimmage Yards per Touch: Rushing + Receiving Yardage per Opportunity,Yards from Scrimmage: Receiving and Rushing Yards,Rushing and Receiving Touchdowns,Lost and Recovered Fumbles,Year
-0,24,Browns,Nick Chubb,26,RB,14,14,228,1259,8,61,49.1,70,5.5,89.9,16.3,25,20,174,8.7,1,9,52.0,40,1.4,12.4,80.0,7.0,248,5.8,1433,9,2,2021
-1,30,Browns,D'Ernest Johnson,25,RB,17,2,100,534,3,24,52.0,30,5.3,31.4,5.9,25,19,137,7.2,0,7,44.0,18,1.1,8.1,76.0,5.5,119,5.6,671,3,1,2021
-2,27,Browns,Kareem Hunt,26,RB,8,1,78,386,5,22,47.4,33,4.9,48.3,9.8,27,22,174,7.9,0,10,51.9,23,2.8,21.8,81.5,6.4,100,5.6,560,5,0,2021
-3,6,Browns,Baker Mayfield,26,QB,14,14,37,134,1,12,48.6,14,3.6,9.6,2.6,0,0,11,,0,0,,0,0.0,0.8,0.0,,37,3.9,145,1,6,2021
-4,5,Browns,Case Keenum,33,QB,7,2,12,22,0,6,50.0,10,1.8,3.1,1.7,0,0,0,,0,0,,0,,,0.0,,12,1.8,22,0,1,2021
-5,25,Browns,Demetric Felton,23,WR,16,2,7,24,0,0,28.6,12,3.4,1.5,0.4,21,18,181,10.1,2,10,57.1,33,1.1,11.3,85.7,8.6,25,8.2,205,2,4,2021
-6,80,Browns,Jarvis Landry,29,WR,12,12,6,40,2,4,83.3,16,6.7,3.3,0.5,87,52,570,11.0,2,30,48.3,38,4.3,47.5,59.8,6.6,58,10.5,610,4,3,2021
-7,10,Browns,Anthony Schwartz,21,WR,14,2,6,39,0,4,66.7,17,6.5,2.8,0.4,23,10,135,13.5,1,6,34.8,44,0.7,9.6,43.5,5.9,16,10.9,174,1,0,2021
-8,40,Browns,Johnny Stanton,27,RB,4,0,3,5,0,2,66.7,3,1.7,1.3,0.8,2,2,7,3.5,1,1,50.0,6,0.5,1.8,100.0,3.5,5,2.4,12,1,0,2021
-9,13,Browns,Odell Beckham Jr.,29,WR,6,6,2,14,0,1,50.0,10,7.0,2.3,0.3,34,17,232,13.6,0,11,47.1,26,2.8,38.7,50.0,6.8,19,12.9,246,0,0,2021
-10,31,Browns,Andy Janovich,28,RB,13,3,2,0,1,1,50.0,1,0.0,0.0,0.2,4,3,9,3.0,0,1,25.0,3,0.2,0.7,75.0,2.3,5,1.8,9,1,0,2021
-11,41,Browns,John Kelly,25,RB,4,0,2,13,0,1,50.0,11,6.5,3.3,0.5,0,0,0,,0,0,,0,,,0.0,,2,6.5,13,0,0,2021
-12,85,Browns,David Njoku,25,TE,16,11,1,1,0,0,0.0,1,1.0,0.1,0.1,53,36,475,13.2,4,17,56.6,71,2.3,29.7,67.9,9.0,37,12.9,476,4,0,2021
-13,7,Browns,Jamie Gillan,24,P,12,0,1,0,0,0,0.0,-8,0.0,0.0,0.1,0,0,0,,0,0,,0,,,0.0,,1,0.0,0,0,1,2021
-14,81,Browns,Austin Hooper,27,TE,16,16,0,0,0,0,,0,,,,61,38,345,9.1,3,18,55.7,34,2.4,21.6,62.3,5.7,38,9.1,345,3,0,2021
-15,11,Browns,Donovan Peoples-Jones,22,WR,14,9,0,0,0,0,,0,,,,58,34,597,17.6,3,26,51.7,60,2.4,42.6,58.6,10.3,34,17.6,597,3,2,2021
-16,82,Browns,Rashard Higgins,27,WR,15,4,0,0,0,0,,0,,,,47,24,275,11.5,1,16,46.8,21,1.6,18.3,51.1,5.9,24,11.5,275,1,0,2021
-17,88,Browns,Harrison Bryant,23,TE,16,3,0,0,0,0,,0,,,,28,21,233,11.1,3,14,64.3,41,1.3,14.6,75.0,8.3,21,11.1,233,3,0,2021
-18,84,Browns,Ja'Marcus Bradley,25,WR,5,0,0,0,0,0,,0,,,,4,4,64,16.0,0,2,50.0,37,0.8,12.8,100.0,16.0,4,16.0,64,0,0,2021
+,No.,Player,Age,Position,Games Played,Games Started as an Offensive or Defensive Player,Rushing Attempts,Rushing Yards Gained,Rushing Touchdown,First Downs Rushing,Rushing Success Rate,Longest Rushing Attempt,Rushing Yards per Attempt,Rushing Yards per Game,Rushing Attempts per Game,Pass Targets,Receptions,Receiving Yards,Receiving Yards per Reception,Receiving Touchdowns,First Downs Receiving,Receiving Success Rate,Longest Reception,Receptions per Game,Receiving Yards per Game,Catch Per.,Receiving Yards per Target,Touches: Rushing Attempts and Receptions,Scrimmage Yards per Touch: Rushing + Receiving Yardage per Opportunity,Yards from Scrimmage: Receiving and Rushing Yards,Rushing and Receiving Touchdowns,Lost and Recovered Fumbles,Team,Year
+24,24,Nick Chubb,26,RB,14,14,228,1259,8,61,49.1,70,5.5,89.9,16.3,25,20,174,8.7,1,9,52.0,40,1.4,12.4,80.0,7.0,248,5.8,1433,9,2,Browns,2021
+30,30,D'Ernest Johnson,25,RB,17,2,100,534,3,24,52.0,30,5.3,31.4,5.9,25,19,137,7.2,0,7,44.0,18,1.1,8.1,76.0,5.5,119,5.6,671,3,1,Browns,2021
+27,27,Kareem Hunt,26,RB,8,1,78,386,5,22,47.4,33,4.9,48.3,9.8,27,22,174,7.9,0,10,51.9,23,2.8,21.8,81.5,6.4,100,5.6,560,5,0,Browns,2021
+6,6,Baker Mayfield,26,QB,14,14,37,134,1,12,48.6,14,3.6,9.6,2.6,0,0,11,0.0,0,0,0.0,0,0.0,0.8,0.0,0.0,37,3.9,145,1,6,Browns,2021
+5,5,Case Keenum,33,QB,7,2,12,22,0,6,50.0,10,1.8,3.1,1.7,0,0,0,0.0,0,0,0.0,0,0.0,0.0,0.0,0.0,12,1.8,22,0,1,Browns,2021
+25,25,Demetric Felton,23,WR,16,2,7,24,0,0,28.6,12,3.4,1.5,0.4,21,18,181,10.1,2,10,57.1,33,1.1,11.3,85.7,8.6,25,8.2,205,2,4,Browns,2021
+80,80,Jarvis Landry,29,WR,12,12,6,40,2,4,83.3,16,6.7,3.3,0.5,87,52,570,11.0,2,30,48.3,38,4.3,47.5,59.8,6.6,58,10.5,610,4,3,Browns,2021
+10,10,Anthony Schwartz,21,WR,14,2,6,39,0,4,66.7,17,6.5,2.8,0.4,23,10,135,13.5,1,6,34.8,44,0.7,9.6,43.5,5.9,16,10.9,174,1,0,Browns,2021
+40,40,Johnny Stanton,27,RB,4,0,3,5,0,2,66.7,3,1.7,1.3,0.8,2,2,7,3.5,1,1,50.0,6,0.5,1.8,100.0,3.5,5,2.4,12,1,0,Browns,2021
+13,13,Odell Beckham Jr.,29,WR,6,6,2,14,0,1,50.0,10,7.0,2.3,0.3,34,17,232,13.6,0,11,47.1,26,2.8,38.7,50.0,6.8,19,12.9,246,0,0,Browns,2021
+31,31,Andy Janovich,28,RB,13,3,2,0,1,1,50.0,1,0.0,0.0,0.2,4,3,9,3.0,0,1,25.0,3,0.2,0.7,75.0,2.3,5,1.8,9,1,0,Browns,2021
+41,41,John Kelly,25,RB,4,0,2,13,0,1,50.0,11,6.5,3.3,0.5,0,0,0,0.0,0,0,0.0,0,0.0,0.0,0.0,0.0,2,6.5,13,0,0,Browns,2021
+85,85,David Njoku,25,TE,16,11,1,1,0,0,0.0,1,1.0,0.1,0.1,53,36,475,13.2,4,17,56.6,71,2.3,29.7,67.9,9.0,37,12.9,476,4,0,Browns,2021
+7,7,Jamie Gillan,24,P,12,0,1,0,0,0,0.0,-8,0.0,0.0,0.1,0,0,0,0.0,0,0,0.0,0,0.0,0.0,0.0,0.0,1,0.0,0,0,1,Browns,2021
+81,81,Austin Hooper,27,TE,16,16,0,0,0,0,0.0,0,0.0,0.0,0.0,61,38,345,9.1,3,18,55.7,34,2.4,21.6,62.3,5.7,38,9.1,345,3,0,Browns,2021
+11,11,Donovan Peoples-Jones,22,WR,14,9,0,0,0,0,0.0,0,0.0,0.0,0.0,58,34,597,17.6,3,26,51.7,60,2.4,42.6,58.6,10.3,34,17.6,597,3,2,Browns,2021
+82,82,Rashard Higgins,27,WR,15,4,0,0,0,0,0.0,0,0.0,0.0,0.0,47,24,275,11.5,1,16,46.8,21,1.6,18.3,51.1,5.9,24,11.5,275,1,0,Browns,2021
+88,88,Harrison Bryant,23,TE,16,3,0,0,0,0,0.0,0,0.0,0.0,0.0,28,21,233,11.1,3,14,64.3,41,1.3,14.6,75.0,8.3,21,11.1,233,3,0,Browns,2021
+84,84,Ja'Marcus Bradley,25,WR,5,0,0,0,0,0,0.0,0,0.0,0.0,0.0,4,4,64,16.0,0,2,50.0,37,0.8,12.8,100.0,16.0,4,16.0,64,0,0,Browns,2021

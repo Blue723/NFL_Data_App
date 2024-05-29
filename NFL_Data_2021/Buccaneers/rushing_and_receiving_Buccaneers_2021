@@ -1,22 +1,22 @@
-,No.,Team,Player,Age,Position,Games Played,Games Started as an Offensive or Defensive Player,Rushing Attempts,Rushing Yards Gained,Rushing Touchdown,First Downs Rushing,Rushing Success Rate,Longest Rushing Attempt,Rushing Yards per Attempt,Rushing Yards per Game,Rushing Attempts per Game,Pass Targets,Receptions,Receiving Yards,Receiving Yards per Reception,Receiving Touchdowns,First Downs Receiving,Receiving Success Rate,Longest Reception,Receptions per Game,Receiving Yards per Game,Catch Per.,Receiving Yards per Target,Touches: Rushing Attempts and Receptions,Scrimmage Yards per Touch: Rushing + Receiving Yardage per Opportunity,Yards from Scrimmage: Receiving and Rushing Yards,Rushing and Receiving Touchdowns,Lost and Recovered Fumbles,Year
-0,7,Buccaneers,Leonard Fournette,26,RB,14,13,180,812,8,45,56.1,47,4.5,58.0,12.9,84,69,454,6.6,2,30,57.1,23,4.9,32.4,82.1,5.4,249,5.1,1266,10,1,2021
-1,27,Buccaneers,Ronald Jones II,24,RB,16,3,101,428,4,25,62.4,30,4.2,26.8,6.3,13,10,64,6.4,0,2,61.5,15,0.6,4.0,76.9,4.9,111,4.4,492,4,2,2021
-2,21,Buccaneers,Ke'Shawn Vaughn,24,RB,12,1,36,180,2,9,50.0,55,5.0,15.0,3.0,8,4,26,6.5,0,1,50.0,8,0.3,2.2,50.0,3.3,40,5.2,206,2,0,2021
-3,12,Buccaneers,Tom Brady,44,QB,17,17,28,81,2,14,53.6,13,2.9,4.8,1.6,0,0,0,,0,0,,0,,,0.0,,28,2.9,81,2,4,2021
-4,11,Buccaneers,Blaine Gabbert,32,QB,6,0,9,-7,0,0,0.0,0,-0.8,-1.2,1.5,0,0,0,,0,0,,0,,,0.0,,9,-0.8,-7,0,0,2021
-5,25,Buccaneers,Giovani Bernard,30,RB,12,0,8,58,0,3,62.5,24,7.3,4.8,0.7,29,23,123,5.3,3,8,44.8,32,1.9,10.3,79.3,4.2,31,5.8,181,3,1,2021
-6,6,Buccaneers,Le'Veon Bell,29,RB,3,0,8,18,0,1,37.5,7,2.3,6.0,2.7,4,4,31,7.8,1,3,75.0,15,1.3,10.3,100.0,7.8,12,4.1,49,1,0,2021
-7,14,Buccaneers,Chris Godwin,25,WR,14,14,4,21,1,4,100.0,9,5.3,1.5,0.3,127,98,1103,11.3,5,55,63.8,44,7.0,78.8,77.2,8.7,102,11.0,1124,6,2,2021
-8,38,Buccaneers,Kenjon Barner,32,RB,3,0,4,0,0,0,0.0,1,0.0,0.0,1.3,0,0,0,,0,0,,0,,,0.0,,4,0.0,0,0,0,2021
-9,10,Buccaneers,Scott Miller,24,WR,9,0,2,43,1,2,100.0,33,21.5,4.8,0.2,9,5,38,7.6,0,2,33.3,13,0.6,4.2,55.6,4.2,7,11.6,81,1,0,2021
-10,13,Buccaneers,Mike Evans,28,WR,16,16,1,10,0,1,100.0,10,10.0,0.6,0.1,114,74,1035,14.0,14,56,59.6,46,4.6,64.7,64.9,9.1,75,13.9,1045,14,0,2021
-11,81,Buccaneers,Antonio Brown,33,WR,7,3,1,6,0,0,100.0,6,6.0,0.9,0.1,62,42,545,13.0,4,29,53.2,62,6.0,77.9,67.7,8.8,43,12.8,551,4,0,2021
-12,16,Buccaneers,Breshad Perriman,28,WR,6,0,1,-3,0,0,0.0,-3,-3.0,-0.5,0.2,18,11,167,15.2,1,5,50.0,58,1.8,27.8,61.1,9.3,12,13.7,164,1,0,2021
-13,15,Buccaneers,Cyril Grayson,28,WR,5,3,1,14,0,1,100.0,14,14.0,2.8,0.2,12,10,212,21.2,2,8,83.3,62,2.0,42.4,83.3,17.7,11,20.5,226,2,0,2021
-14,1,Buccaneers,Jaelon Darden,22,WR,9,0,1,11,0,1,100.0,11,11.0,1.2,0.1,12,6,43,7.2,0,1,16.7,29,0.7,4.8,50.0,3.6,7,7.7,54,0,0,2021
-15,87,Buccaneers,Rob Gronkowski,32,TE,12,12,0,0,0,0,,0,,,,89,55,802,14.6,6,34,57.3,42,4.6,66.8,61.8,9.0,55,14.6,802,6,0,2021
-16,18,Buccaneers,Tyler Johnson,23,WR,17,3,0,0,0,0,,0,,,,55,36,360,10.0,0,14,43.6,31,2.1,21.2,65.5,6.5,36,10.0,360,0,0,2021
-17,84,Buccaneers,Cameron Brate,30,TE,17,3,0,0,0,0,,0,,,,57,30,245,8.2,4,15,43.9,18,1.8,14.4,52.6,4.3,30,8.2,245,4,0,2021
-18,80,Buccaneers,O.J. Howard,27,TE,17,9,0,0,0,0,,0,,,,21,14,135,9.6,1,10,61.9,21,0.8,7.9,66.7,6.4,14,9.6,135,1,0,2021
-19,82,Buccaneers,Deon Yelder,26,TE,5,0,0,0,0,0,,0,,,,1,1,0,0.0,0,0,0.0,0,0.2,0.0,100.0,0.0,1,0.0,0,0,0,2021
-20,86,Buccaneers,Codey McElroy,29,TE,2,0,0,0,0,0,,0,,,,1,0,0,,0,0,0.0,0,0.0,0.0,0.0,0.0,0,,0,0,0,2021
+,No.,Player,Age,Position,Games Played,Games Started as an Offensive or Defensive Player,Rushing Attempts,Rushing Yards Gained,Rushing Touchdown,First Downs Rushing,Rushing Success Rate,Longest Rushing Attempt,Rushing Yards per Attempt,Rushing Yards per Game,Rushing Attempts per Game,Pass Targets,Receptions,Receiving Yards,Receiving Yards per Reception,Receiving Touchdowns,First Downs Receiving,Receiving Success Rate,Longest Reception,Receptions per Game,Receiving Yards per Game,Catch Per.,Receiving Yards per Target,Touches: Rushing Attempts and Receptions,Scrimmage Yards per Touch: Rushing + Receiving Yardage per Opportunity,Yards from Scrimmage: Receiving and Rushing Yards,Rushing and Receiving Touchdowns,Lost and Recovered Fumbles,Team,Year
+7,7,Leonard Fournette,26,RB,14,13,180,812,8,45,56.1,47,4.5,58.0,12.9,84,69,454,6.6,2,30,57.1,23,4.9,32.4,82.1,5.4,249,5.1,1266,10,1,Buccaneers,2021
+27,27,Ronald Jones II,24,RB,16,3,101,428,4,25,62.4,30,4.2,26.8,6.3,13,10,64,6.4,0,2,61.5,15,0.6,4.0,76.9,4.9,111,4.4,492,4,2,Buccaneers,2021
+21,21,Ke'Shawn Vaughn,24,RB,12,1,36,180,2,9,50.0,55,5.0,15.0,3.0,8,4,26,6.5,0,1,50.0,8,0.3,2.2,50.0,3.3,40,5.2,206,2,0,Buccaneers,2021
+12,12,Tom Brady,44,QB,17,17,28,81,2,14,53.6,13,2.9,4.8,1.6,0,0,0,0.0,0,0,0.0,0,0.0,0.0,0.0,0.0,28,2.9,81,2,4,Buccaneers,2021
+11,11,Blaine Gabbert,32,QB,6,0,9,-7,0,0,0.0,0,-0.8,-1.2,1.5,0,0,0,0.0,0,0,0.0,0,0.0,0.0,0.0,0.0,9,-0.8,-7,0,0,Buccaneers,2021
+25,25,Giovani Bernard,30,RB,12,0,8,58,0,3,62.5,24,7.3,4.8,0.7,29,23,123,5.3,3,8,44.8,32,1.9,10.3,79.3,4.2,31,5.8,181,3,1,Buccaneers,2021
+6,6,Le'Veon Bell,29,RB,3,0,8,18,0,1,37.5,7,2.3,6.0,2.7,4,4,31,7.8,1,3,75.0,15,1.3,10.3,100.0,7.8,12,4.1,49,1,0,Buccaneers,2021
+14,14,Chris Godwin,25,WR,14,14,4,21,1,4,100.0,9,5.3,1.5,0.3,127,98,1103,11.3,5,55,63.8,44,7.0,78.8,77.2,8.7,102,11.0,1124,6,2,Buccaneers,2021
+38,38,Kenjon Barner,32,RB,3,0,4,0,0,0,0.0,1,0.0,0.0,1.3,0,0,0,0.0,0,0,0.0,0,0.0,0.0,0.0,0.0,4,0.0,0,0,0,Buccaneers,2021
+10,10,Scott Miller,24,WR,9,0,2,43,1,2,100.0,33,21.5,4.8,0.2,9,5,38,7.6,0,2,33.3,13,0.6,4.2,55.6,4.2,7,11.6,81,1,0,Buccaneers,2021
+13,13,Mike Evans,28,WR,16,16,1,10,0,1,100.0,10,10.0,0.6,0.1,114,74,1035,14.0,14,56,59.6,46,4.6,64.7,64.9,9.1,75,13.9,1045,14,0,Buccaneers,2021
+81,81,Antonio Brown,33,WR,7,3,1,6,0,0,100.0,6,6.0,0.9,0.1,62,42,545,13.0,4,29,53.2,62,6.0,77.9,67.7,8.8,43,12.8,551,4,0,Buccaneers,2021
+16,16,Breshad Perriman,28,WR,6,0,1,-3,0,0,0.0,-3,-3.0,-0.5,0.2,18,11,167,15.2,1,5,50.0,58,1.8,27.8,61.1,9.3,12,13.7,164,1,0,Buccaneers,2021
+15,15,Cyril Grayson,28,WR,5,3,1,14,0,1,100.0,14,14.0,2.8,0.2,12,10,212,21.2,2,8,83.3,62,2.0,42.4,83.3,17.7,11,20.5,226,2,0,Buccaneers,2021
+1,1,Jaelon Darden,22,WR,9,0,1,11,0,1,100.0,11,11.0,1.2,0.1,12,6,43,7.2,0,1,16.7,29,0.7,4.8,50.0,3.6,7,7.7,54,0,0,Buccaneers,2021
+87,87,Rob Gronkowski,32,TE,12,12,0,0,0,0,0.0,0,0.0,0.0,0.0,89,55,802,14.6,6,34,57.3,42,4.6,66.8,61.8,9.0,55,14.6,802,6,0,Buccaneers,2021
+18,18,Tyler Johnson,23,WR,17,3,0,0,0,0,0.0,0,0.0,0.0,0.0,55,36,360,10.0,0,14,43.6,31,2.1,21.2,65.5,6.5,36,10.0,360,0,0,Buccaneers,2021
+84,84,Cameron Brate,30,TE,17,3,0,0,0,0,0.0,0,0.0,0.0,0.0,57,30,245,8.2,4,15,43.9,18,1.8,14.4,52.6,4.3,30,8.2,245,4,0,Buccaneers,2021
+80,80,O.J. Howard,27,TE,17,9,0,0,0,0,0.0,0,0.0,0.0,0.0,21,14,135,9.6,1,10,61.9,21,0.8,7.9,66.7,6.4,14,9.6,135,1,0,Buccaneers,2021
+82,82,Deon Yelder,26,TE,5,0,0,0,0,0,0.0,0,0.0,0.0,0.0,1,1,0,0.0,0,0,0.0,0,0.2,0.0,100.0,0.0,1,0.0,0,0,0,Buccaneers,2021
+86,86,Codey McElroy,29,TE,2,0,0,0,0,0,0.0,0,0.0,0.0,0.0,1,0,0,0.0,0,0,0.0,0,0.0,0.0,0.0,0.0,0,0.0,0,0,0,Buccaneers,2021

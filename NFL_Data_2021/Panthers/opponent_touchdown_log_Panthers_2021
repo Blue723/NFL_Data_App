@@ -1,46 +1,46 @@
-,Rank,Team,Date,Opponent,Win/Loss,Score,Quarter,Distance,Type,Detail,Year
-0,1,Panthers,09/12/2021,NYJ,Win, 19-14,3,22,pass,Corey Davis,2021
-1,2,Panthers,09/12/2021,NYJ,Win, 19-14,4,8,pass,Corey Davis,2021
-2,3,Panthers,09/19/2021,NOR,Win, 26-7,4,8,rush,Jameis Winston,2021
-3,4,Panthers,09/23/2021,HOU,Win, 24-9,2,1,pass,Anthony Miller,2021
-4,5,Panthers,10/03/2021,DAL,Loss, 28-36,1,1,rush,Ezekiel Elliott,2021
-5,6,Panthers,10/03/2021,DAL,Loss, 28-36,2,18,pass,Blake Jarwin,2021
-6,7,Panthers,10/03/2021,DAL,Loss, 28-36,3,35,pass,Amari Cooper,2021
-7,8,Panthers,10/03/2021,DAL,Loss, 28-36,3,6,pass,Dalton Schultz,2021
-8,9,Panthers,10/03/2021,DAL,Loss, 28-36,3,23,pass,Cedrick Wilson Jr.,2021
-9,10,Panthers,10/10/2021,PHI,Loss, 18-21,3,1,rush,Jalen Hurts,2021
-10,11,Panthers,10/10/2021,PHI,Loss, 18-21,4,6,rush,Jalen Hurts,2021
-11,12,Panthers,10/17/2021,MIN,Loss, 28-34,2,2,pass,Chris Herndon,2021
-12,13,Panthers,10/17/2021,MIN,Loss, 28-34,3,16,rush,Dalvin Cook,2021
-13,14,Panthers,10/17/2021,MIN,Loss, 28-34,3,5,pass,Adam Thielen,2021
-14,15,Panthers,10/17/2021,MIN,Loss, 28-34,5,27,pass,K.J. Osborn,2021
-15,16,Panthers,10/24/2021,NYG,Loss, 3-25,3,5,pass,Dante Pettis,2021
-16,17,Panthers,10/24/2021,NYG,Loss, 3-25,4,19,rush,Devontae Booker,2021
-17,18,Panthers,10/31/2021,ATL,Win, 19-13,2,15,pass,Cordarrelle Patterson,2021
-18,19,Panthers,11/07/2021,NWE,Loss, 6-24,2,3,rush,Damien Harris,2021
-19,20,Panthers,11/07/2021,NWE,Loss, 6-24,2,7,pass,Hunter Henry,2021
-20,21,Panthers,11/07/2021,NWE,Loss, 6-24,3,88,interception,J.C. Jackson,2021
-21,22,Panthers,11/14/2021,ARI,Win, 34-10,4,11,rush,James Conner,2021
-22,23,Panthers,11/21/2021,WAS,Loss, 21-27,2,6,pass,Cam Sims,2021
-23,24,Panthers,11/21/2021,WAS,Loss, 21-27,2,12,pass,Terry McLaurin,2021
-24,25,Panthers,11/21/2021,WAS,Loss, 21-27,3,4,pass,DeAndre Carter,2021
-25,26,Panthers,11/28/2021,MIA,Loss, 10-33,1,2,blocked punt,Justin Coleman,2021
-26,27,Panthers,11/28/2021,MIA,Loss, 10-33,2,9,pass,Jaylen Waddle,2021
-27,28,Panthers,11/28/2021,MIA,Loss, 10-33,2,3,rush,Myles Gaskin,2021
-28,29,Panthers,11/28/2021,MIA,Loss, 10-33,3,3,rush,Myles Gaskin,2021
-29,30,Panthers,12/12/2021,ATL,Loss, 21-29,1,5,rush,Cordarrelle Patterson,2021
-30,31,Panthers,12/12/2021,ATL,Loss, 21-29,2,66,interception,Mykal Walker,2021
-31,32,Panthers,12/12/2021,ATL,Loss, 21-29,4,3,pass,Hayden Hurst,2021
-32,33,Panthers,12/19/2021,BUF,Loss, 14-31,2,16,rush,Devin Singletary,2021
-33,34,Panthers,12/19/2021,BUF,Loss, 14-31,2,11,pass,Stefon Diggs,2021
-34,35,Panthers,12/19/2021,BUF,Loss, 14-31,3,20,pass,Gabriel Davis,2021
-35,36,Panthers,12/19/2021,BUF,Loss, 14-31,4,14,pass,Gabriel Davis,2021
-36,37,Panthers,12/26/2021,TAM,Loss, 6-32,1,55,rush,Ke'Shawn Vaughn,2021
-37,38,Panthers,12/26/2021,TAM,Loss, 6-32,2,4,pass,Cameron Brate,2021
-38,39,Panthers,12/26/2021,TAM,Loss, 6-32,3,7,rush,Ronald Jones II,2021
-39,40,Panthers,01/02/2022,NOR,Loss, 10-18,4,12,pass,Alvin Kamara,2021
-40,41,Panthers,01/09/2022,TAM,Loss, 17-41,2,1,pass,Le'Veon Bell,2021
-41,42,Panthers,01/09/2022,TAM,Loss, 17-41,3,2,rush,Ke'Shawn Vaughn,2021
-42,43,Panthers,01/09/2022,TAM,Loss, 17-41,4,3,pass,Mike Evans,2021
-43,44,Panthers,01/09/2022,TAM,Loss, 17-41,4,20,pass,Mike Evans,2021
-44,45,Panthers,01/09/2022,TAM,Loss, 17-41,4,33,rush,Scott Miller,2021
+,Rank,Team,Date,Opponent,Win/Loss,Home_Score,Opponenet_Score,Quarter,Distance,Type,Detail
+1,1,Panthers,2021-09-12,NYJ,Win,19,14,3,22,pass,Corey Davis
+2,2,Panthers,2021-09-12,NYJ,Win,19,14,4,8,pass,Corey Davis
+3,3,Panthers,2021-09-19,NOR,Win,26,7,4,8,rush,Jameis Winston
+4,4,Panthers,2021-09-23,HOU,Win,24,9,2,1,pass,Anthony Miller
+5,5,Panthers,2021-10-03,DAL,Loss,28,36,1,1,rush,Ezekiel Elliott
+6,6,Panthers,2021-10-03,DAL,Loss,28,36,2,18,pass,Blake Jarwin
+7,7,Panthers,2021-10-03,DAL,Loss,28,36,3,35,pass,Amari Cooper
+8,8,Panthers,2021-10-03,DAL,Loss,28,36,3,6,pass,Dalton Schultz
+9,9,Panthers,2021-10-03,DAL,Loss,28,36,3,23,pass,Cedrick Wilson Jr.
+10,10,Panthers,2021-10-10,PHI,Loss,18,21,3,1,rush,Jalen Hurts
+11,11,Panthers,2021-10-10,PHI,Loss,18,21,4,6,rush,Jalen Hurts
+12,12,Panthers,2021-10-17,MIN,Loss,28,34,2,2,pass,Chris Herndon
+13,13,Panthers,2021-10-17,MIN,Loss,28,34,3,16,rush,Dalvin Cook
+14,14,Panthers,2021-10-17,MIN,Loss,28,34,3,5,pass,Adam Thielen
+15,15,Panthers,2021-10-17,MIN,Loss,28,34,5,27,pass,K.J. Osborn
+16,16,Panthers,2021-10-24,NYG,Loss,3,25,3,5,pass,Dante Pettis
+17,17,Panthers,2021-10-24,NYG,Loss,3,25,4,19,rush,Devontae Booker
+18,18,Panthers,2021-10-31,ATL,Win,19,13,2,15,pass,Cordarrelle Patterson
+19,19,Panthers,2021-11-07,NWE,Loss,6,24,2,3,rush,Damien Harris
+20,20,Panthers,2021-11-07,NWE,Loss,6,24,2,7,pass,Hunter Henry
+21,21,Panthers,2021-11-07,NWE,Loss,6,24,3,88,interception,J.C. Jackson
+22,22,Panthers,2021-11-14,ARI,Win,34,10,4,11,rush,James Conner
+23,23,Panthers,2021-11-21,WAS,Loss,21,27,2,6,pass,Cam Sims
+24,24,Panthers,2021-11-21,WAS,Loss,21,27,2,12,pass,Terry McLaurin
+25,25,Panthers,2021-11-21,WAS,Loss,21,27,3,4,pass,DeAndre Carter
+26,26,Panthers,2021-11-28,MIA,Loss,10,33,1,2,blocked punt,Justin Coleman
+27,27,Panthers,2021-11-28,MIA,Loss,10,33,2,9,pass,Jaylen Waddle
+28,28,Panthers,2021-11-28,MIA,Loss,10,33,2,3,rush,Myles Gaskin
+29,29,Panthers,2021-11-28,MIA,Loss,10,33,3,3,rush,Myles Gaskin
+30,30,Panthers,2021-12-12,ATL,Loss,21,29,1,5,rush,Cordarrelle Patterson
+31,31,Panthers,2021-12-12,ATL,Loss,21,29,2,66,interception,Mykal Walker
+32,32,Panthers,2021-12-12,ATL,Loss,21,29,4,3,pass,Hayden Hurst
+33,33,Panthers,2021-12-19,BUF,Loss,14,31,2,16,rush,Devin Singletary
+34,34,Panthers,2021-12-19,BUF,Loss,14,31,2,11,pass,Stefon Diggs
+35,35,Panthers,2021-12-19,BUF,Loss,14,31,3,20,pass,Gabriel Davis
+36,36,Panthers,2021-12-19,BUF,Loss,14,31,4,14,pass,Gabriel Davis
+37,37,Panthers,2021-12-26,TAM,Loss,6,32,1,55,rush,Ke'Shawn Vaughn
+38,38,Panthers,2021-12-26,TAM,Loss,6,32,2,4,pass,Cameron Brate
+39,39,Panthers,2021-12-26,TAM,Loss,6,32,3,7,rush,Ronald Jones II
+40,40,Panthers,2022-01-02,NOR,Loss,10,18,4,12,pass,Alvin Kamara
+41,41,Panthers,2022-01-09,TAM,Loss,17,41,2,1,pass,Le'Veon Bell
+42,42,Panthers,2022-01-09,TAM,Loss,17,41,3,2,rush,Ke'Shawn Vaughn
+43,43,Panthers,2022-01-09,TAM,Loss,17,41,4,3,pass,Mike Evans
+44,44,Panthers,2022-01-09,TAM,Loss,17,41,4,20,pass,Mike Evans
+45,45,Panthers,2022-01-09,TAM,Loss,17,41,4,33,rush,Scott Miller

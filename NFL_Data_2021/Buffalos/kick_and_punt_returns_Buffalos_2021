@@ -1,6 +1,6 @@
-,No.,Team,Player,Age,Position,Games Played,Games Started,Punts Returned,Punts Return Yardage,Punts Returned for Touchdown,Longest Punt Return,Yards per Punt Return,Kickoff Returns,Yardage for Kickoffs Returned,Kickoffs Returned for a Touchdown,Longest Kickoff Return,Yards per Kickoff Return,All-purpose Yards,Year
-0,19,Buffalos,Isaiah McKenzie,26,WR,15,2,19,147,0,26,7.7,24,584,0,75,24.3,960,2021
-1,5,Buffalos,Marquez Stevenson,23,WR,5,0,14,132,0,19,9.4,7,165,0,31,23.6,306,2021
-2,23,Buffalos,Micah Hyde,31,FS,17,17,4,37,0,17,9.3,0,0,0,0,,112,2021
-3,22,Buffalos,Matt Breida,26,RB,9,0,0,0,0,0,,1,27,0,27,27.0,224,2021
-4,25,Buffalos,Taiwan Jones,33,RB,17,0,0,0,0,0,,1,14,0,14,14.0,14,2021
+,No.,Player,Age,Position,Games Played,Games Started,Punts Returned,Punts Return Yardage,Punts Returned for Touchdown,Longest Punt Return,Yards per Punt Return,Kickoff Returns,Yardage for Kickoffs Returned,Kickoffs Returned for a Touchdown,Longest Kickoff Return,Yards per Kickoff Return,All-purpose Yards,Team,Year
+19,19,Isaiah McKenzie,26,WR,15,2,19,147,0,26,7.7,24,584,0,75,24.3,960,Buffalos,2021
+5,5,Marquez Stevenson,23,WR,5,0,14,132,0,19,9.4,7,165,0,31,23.6,306,Buffalos,2021
+23,23,Micah Hyde,31,FS,17,17,4,37,0,17,9.3,0,0,0,0,0.0,112,Buffalos,2021
+22,22,Matt Breida,26,RB,9,0,0,0,0,0,0.0,1,27,0,27,27.0,224,Buffalos,2021
+25,25,Taiwan Jones,33,RB,17,0,0,0,0,0,0.0,1,14,0,14,14.0,14,Buffalos,2021

@@ -1,65 +1,65 @@
-,Rank,Team,Date,Opponent,Win/Loss,Score,Quarter,Distance,Type,Detail,Year
-0,1,Cowboys,09/09/2021,TAM,Loss, 29-31,1,22,pass,CeeDee Lamb,2021
-1,2,Cowboys,09/09/2021,TAM,Loss, 29-31,2,5,pass,Amari Cooper,2021
-2,3,Cowboys,09/09/2021,TAM,Loss, 29-31,3,21,pass,Amari Cooper,2021
-3,4,Cowboys,09/19/2021,LAC,Win, 20-17,1,4,rush,Tony Pollard,2021
-4,5,Cowboys,09/19/2021,LAC,Win, 20-17,1,5,rush,Ezekiel Elliott,2021
-5,6,Cowboys,09/27/2021,PHI,Win, 41-21,1,1,rush,Ezekiel Elliott,2021
-6,7,Cowboys,09/27/2021,PHI,Win, 41-21,1,19,pass,Dalton Schultz,2021
-7,8,Cowboys,09/27/2021,PHI,Win, 41-21,2,3,rush,Ezekiel Elliott,2021
-8,9,Cowboys,09/27/2021,PHI,Win, 41-21,3,59,interception,Trevon Diggs,2021
-9,10,Cowboys,09/27/2021,PHI,Win, 41-21,4,2,pass,Cedrick Wilson Jr.,2021
-10,11,Cowboys,09/27/2021,PHI,Win, 41-21,4,22,pass,Dalton Schultz,2021
-11,12,Cowboys,10/03/2021,CAR,Win, 36-28,1,1,rush,Ezekiel Elliott,2021
-12,13,Cowboys,10/03/2021,CAR,Win, 36-28,2,18,pass,Blake Jarwin,2021
-13,14,Cowboys,10/03/2021,CAR,Win, 36-28,3,35,pass,Amari Cooper,2021
-14,15,Cowboys,10/03/2021,CAR,Win, 36-28,3,6,pass,Dalton Schultz,2021
-15,16,Cowboys,10/03/2021,CAR,Win, 36-28,3,23,pass,Cedrick Wilson Jr.,2021
-16,17,Cowboys,10/10/2021,NYG,Win, 44-20,2,49,pass,CeeDee Lamb,2021
-17,18,Cowboys,10/10/2021,NYG,Win, 44-20,2,24,pass,Amari Cooper,2021
-18,19,Cowboys,10/10/2021,NYG,Win, 44-20,3,4,pass,Ezekiel Elliott,2021
-19,20,Cowboys,10/10/2021,NYG,Win, 44-20,4,13,rush,Ezekiel Elliott,2021
-20,21,Cowboys,10/10/2021,NYG,Win, 44-20,4,45,interception,Anthony Brown,2021
-21,22,Cowboys,10/17/2021,NWE,Win, 35-29,1,1,pass,Blake Jarwin,2021
-22,23,Cowboys,10/17/2021,NWE,Win, 35-29,3,1,pass,CeeDee Lamb,2021
-23,24,Cowboys,10/17/2021,NWE,Win, 35-29,4,42,interception,Trevon Diggs,2021
-24,25,Cowboys,10/17/2021,NWE,Win, 35-29,5,35,pass,CeeDee Lamb,2021
-25,26,Cowboys,10/31/2021,MIN,Win, 20-16,3,73,pass,Cedrick Wilson Jr.,2021
-26,27,Cowboys,10/31/2021,MIN,Win, 20-16,4,5,pass,Amari Cooper,2021
-27,28,Cowboys,11/07/2021,DEN,Loss, 16-30,4,5,pass,Malik Turner,2021
-28,29,Cowboys,11/07/2021,DEN,Loss, 16-30,4,4,pass,Malik Turner,2021
-29,30,Cowboys,11/14/2021,ATL,Win, 43-3,1,13,pass,CeeDee Lamb,2021
-30,31,Cowboys,11/14/2021,ATL,Win, 43-3,2,1,rush,Ezekiel Elliott,2021
-31,32,Cowboys,11/14/2021,ATL,Win, 43-3,2,2,rush,Ezekiel Elliott,2021
-32,33,Cowboys,11/14/2021,ATL,Win, 43-3,2,9,pass,CeeDee Lamb,2021
-33,34,Cowboys,11/14/2021,ATL,Win, 43-3,2,1,blocked punt,Nahshon Wright,2021
-34,35,Cowboys,11/14/2021,ATL,Win, 43-3,3,4,rush,Dak Prescott,2021
-35,36,Cowboys,11/25/2021,LVR,Loss, 33-36,1,10,pass,Sean McKeon,2021
-36,37,Cowboys,11/25/2021,LVR,Loss, 33-36,2,1,rush,Ezekiel Elliott,2021
-37,38,Cowboys,11/25/2021,LVR,Loss, 33-36,3,100,kickoff,Tony Pollard,2021
-38,39,Cowboys,11/25/2021,LVR,Loss, 33-36,4,32,pass,Dalton Schultz,2021
-39,40,Cowboys,12/02/2021,NOR,Win, 27-17,1,1,pass,Michael Gallup,2021
-40,41,Cowboys,12/02/2021,NOR,Win, 27-17,3,58,rush,Tony Pollard,2021
-41,42,Cowboys,12/02/2021,NOR,Win, 27-17,4,29,interception,Carlos Watkins,2021
-42,43,Cowboys,12/12/2021,WAS,Win, 27-20,1,7,pass,Amari Cooper,2021
-43,44,Cowboys,12/12/2021,WAS,Win, 27-20,1,37,fumble,Dorance Armstrong Jr.,2021
-44,45,Cowboys,12/19/2021,NYG,Win, 21-6,1,13,rush,Ezekiel Elliott,2021
-45,46,Cowboys,12/19/2021,NYG,Win, 21-6,3,1,pass,Dalton Schultz,2021
-46,47,Cowboys,12/26/2021,WAS,Win, 56-14,1,5,pass,Ezekiel Elliott,2021
-47,48,Cowboys,12/26/2021,WAS,Win, 56-14,1,9,pass,Dalton Schultz,2021
-48,49,Cowboys,12/26/2021,WAS,Win, 56-14,1,40,interception,DeMarcus Lawrence,2021
-49,50,Cowboys,12/26/2021,WAS,Win, 56-14,2,11,rush,Ezekiel Elliott,2021
-50,51,Cowboys,12/26/2021,WAS,Win, 56-14,2,1,pass,Terence Steele,2021
-51,52,Cowboys,12/26/2021,WAS,Win, 56-14,2,13,pass,Amari Cooper,2021
-52,53,Cowboys,12/26/2021,WAS,Win, 56-14,3,0,blocked punt,Chauncey Golston,2021
-53,54,Cowboys,12/26/2021,WAS,Win, 56-14,4,9,pass,Malik Turner,2021
-54,55,Cowboys,01/02/2022,ARI,Loss, 22-25,2,21,pass,Michael Gallup,2021
-55,56,Cowboys,01/02/2022,ARI,Loss, 22-25,4,2,pass,Cedrick Wilson Jr.,2021
-56,57,Cowboys,01/02/2022,ARI,Loss, 22-25,4,4,pass,Amari Cooper,2021
-57,58,Cowboys,01/08/2022,PHI,Win, 51-26,1,14,pass,Cedrick Wilson Jr.,2021
-58,59,Cowboys,01/08/2022,PHI,Win, 51-26,2,24,pass,Cedrick Wilson Jr.,2021
-59,60,Cowboys,01/08/2022,PHI,Win, 51-26,2,2,pass,Dalton Schultz,2021
-60,61,Cowboys,01/08/2022,PHI,Win, 51-26,2,9,pass,Dalton Schultz,2021
-61,62,Cowboys,01/08/2022,PHI,Win, 51-26,4,8,pass,Corey Clement,2021
-62,63,Cowboys,01/08/2022,PHI,Win, 51-26,4,4,rush,Ito Smith,2021
-63,64,Cowboys,01/08/2022,PHI,Win, 51-26,4,22,rush,JaQuan Hardy,2021
+,Rank,Team,Date,Opponent,Win/Loss,Home_Score,Opponenet_Score,Quarter,Distance,Type,Detail
+1,1,Cowboys,2021-09-09,TAM,Loss,29,31,1,22,pass,CeeDee Lamb
+2,2,Cowboys,2021-09-09,TAM,Loss,29,31,2,5,pass,Amari Cooper
+3,3,Cowboys,2021-09-09,TAM,Loss,29,31,3,21,pass,Amari Cooper
+4,4,Cowboys,2021-09-19,LAC,Win,20,17,1,4,rush,Tony Pollard
+5,5,Cowboys,2021-09-19,LAC,Win,20,17,1,5,rush,Ezekiel Elliott
+6,6,Cowboys,2021-09-27,PHI,Win,41,21,1,1,rush,Ezekiel Elliott
+7,7,Cowboys,2021-09-27,PHI,Win,41,21,1,19,pass,Dalton Schultz
+8,8,Cowboys,2021-09-27,PHI,Win,41,21,2,3,rush,Ezekiel Elliott
+9,9,Cowboys,2021-09-27,PHI,Win,41,21,3,59,interception,Trevon Diggs
+10,10,Cowboys,2021-09-27,PHI,Win,41,21,4,2,pass,Cedrick Wilson Jr.
+11,11,Cowboys,2021-09-27,PHI,Win,41,21,4,22,pass,Dalton Schultz
+12,12,Cowboys,2021-10-03,CAR,Win,36,28,1,1,rush,Ezekiel Elliott
+13,13,Cowboys,2021-10-03,CAR,Win,36,28,2,18,pass,Blake Jarwin
+14,14,Cowboys,2021-10-03,CAR,Win,36,28,3,35,pass,Amari Cooper
+15,15,Cowboys,2021-10-03,CAR,Win,36,28,3,6,pass,Dalton Schultz
+16,16,Cowboys,2021-10-03,CAR,Win,36,28,3,23,pass,Cedrick Wilson Jr.
+17,17,Cowboys,2021-10-10,NYG,Win,44,20,2,49,pass,CeeDee Lamb
+18,18,Cowboys,2021-10-10,NYG,Win,44,20,2,24,pass,Amari Cooper
+19,19,Cowboys,2021-10-10,NYG,Win,44,20,3,4,pass,Ezekiel Elliott
+20,20,Cowboys,2021-10-10,NYG,Win,44,20,4,13,rush,Ezekiel Elliott
+21,21,Cowboys,2021-10-10,NYG,Win,44,20,4,45,interception,Anthony Brown
+22,22,Cowboys,2021-10-17,NWE,Win,35,29,1,1,pass,Blake Jarwin
+23,23,Cowboys,2021-10-17,NWE,Win,35,29,3,1,pass,CeeDee Lamb
+24,24,Cowboys,2021-10-17,NWE,Win,35,29,4,42,interception,Trevon Diggs
+25,25,Cowboys,2021-10-17,NWE,Win,35,29,5,35,pass,CeeDee Lamb
+26,26,Cowboys,2021-10-31,MIN,Win,20,16,3,73,pass,Cedrick Wilson Jr.
+27,27,Cowboys,2021-10-31,MIN,Win,20,16,4,5,pass,Amari Cooper
+28,28,Cowboys,2021-11-07,DEN,Loss,16,30,4,5,pass,Malik Turner
+29,29,Cowboys,2021-11-07,DEN,Loss,16,30,4,4,pass,Malik Turner
+30,30,Cowboys,2021-11-14,ATL,Win,43,3,1,13,pass,CeeDee Lamb
+31,31,Cowboys,2021-11-14,ATL,Win,43,3,2,1,rush,Ezekiel Elliott
+32,32,Cowboys,2021-11-14,ATL,Win,43,3,2,2,rush,Ezekiel Elliott
+33,33,Cowboys,2021-11-14,ATL,Win,43,3,2,9,pass,CeeDee Lamb
+34,34,Cowboys,2021-11-14,ATL,Win,43,3,2,1,blocked punt,Nahshon Wright
+35,35,Cowboys,2021-11-14,ATL,Win,43,3,3,4,rush,Dak Prescott
+36,36,Cowboys,2021-11-25,LVR,Loss,33,36,1,10,pass,Sean McKeon
+37,37,Cowboys,2021-11-25,LVR,Loss,33,36,2,1,rush,Ezekiel Elliott
+38,38,Cowboys,2021-11-25,LVR,Loss,33,36,3,100,kickoff,Tony Pollard
+39,39,Cowboys,2021-11-25,LVR,Loss,33,36,4,32,pass,Dalton Schultz
+40,40,Cowboys,2021-12-02,NOR,Win,27,17,1,1,pass,Michael Gallup
+41,41,Cowboys,2021-12-02,NOR,Win,27,17,3,58,rush,Tony Pollard
+42,42,Cowboys,2021-12-02,NOR,Win,27,17,4,29,interception,Carlos Watkins
+43,43,Cowboys,2021-12-12,WAS,Win,27,20,1,7,pass,Amari Cooper
+44,44,Cowboys,2021-12-12,WAS,Win,27,20,1,37,fumble,Dorance Armstrong Jr.
+45,45,Cowboys,2021-12-19,NYG,Win,21,6,1,13,rush,Ezekiel Elliott
+46,46,Cowboys,2021-12-19,NYG,Win,21,6,3,1,pass,Dalton Schultz
+47,47,Cowboys,2021-12-26,WAS,Win,56,14,1,5,pass,Ezekiel Elliott
+48,48,Cowboys,2021-12-26,WAS,Win,56,14,1,9,pass,Dalton Schultz
+49,49,Cowboys,2021-12-26,WAS,Win,56,14,1,40,interception,DeMarcus Lawrence
+50,50,Cowboys,2021-12-26,WAS,Win,56,14,2,11,rush,Ezekiel Elliott
+51,51,Cowboys,2021-12-26,WAS,Win,56,14,2,1,pass,Terence Steele
+52,52,Cowboys,2021-12-26,WAS,Win,56,14,2,13,pass,Amari Cooper
+53,53,Cowboys,2021-12-26,WAS,Win,56,14,3,0,blocked punt,Chauncey Golston
+54,54,Cowboys,2021-12-26,WAS,Win,56,14,4,9,pass,Malik Turner
+55,55,Cowboys,2022-01-02,ARI,Loss,22,25,2,21,pass,Michael Gallup
+56,56,Cowboys,2022-01-02,ARI,Loss,22,25,4,2,pass,Cedrick Wilson Jr.
+57,57,Cowboys,2022-01-02,ARI,Loss,22,25,4,4,pass,Amari Cooper
+58,58,Cowboys,2022-01-08,PHI,Win,51,26,1,14,pass,Cedrick Wilson Jr.
+59,59,Cowboys,2022-01-08,PHI,Win,51,26,2,24,pass,Cedrick Wilson Jr.
+60,60,Cowboys,2022-01-08,PHI,Win,51,26,2,2,pass,Dalton Schultz
+61,61,Cowboys,2022-01-08,PHI,Win,51,26,2,9,pass,Dalton Schultz
+62,62,Cowboys,2022-01-08,PHI,Win,51,26,4,8,pass,Corey Clement
+63,63,Cowboys,2022-01-08,PHI,Win,51,26,4,4,rush,Ito Smith
+64,64,Cowboys,2022-01-08,PHI,Win,51,26,4,22,rush,JaQuan Hardy

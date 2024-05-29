@@ -1,33 +1,33 @@
-,Rank,Team,Date,Opponent,Win/Loss,Score,Quarter,Distance,Type,Detail,Year
-0,1,Panthers,09/12/2021,NYJ,Win, 19-14,2,57,pass,Robbie Chosen,2021
-1,2,Panthers,09/12/2021,NYJ,Win, 19-14,2,5,rush,Sam Darnold,2021
-2,3,Panthers,09/19/2021,NOR,Win, 26-7,1,20,pass,Brandon Zylstra,2021
-3,4,Panthers,09/19/2021,NOR,Win, 26-7,2,2,pass,D.J. Moore,2021
-4,5,Panthers,09/19/2021,NOR,Win, 26-7,4,11,rush,Christian McCaffrey,2021
-5,6,Panthers,09/23/2021,HOU,Win, 24-9,1,5,rush,Sam Darnold,2021
-6,7,Panthers,09/23/2021,HOU,Win, 24-9,3,7,rush,Tommy Tremble,2021
-7,8,Panthers,09/23/2021,HOU,Win, 24-9,4,1,rush,Sam Darnold,2021
-8,9,Panthers,10/03/2021,DAL,Loss, 28-36,1,1,rush,Sam Darnold,2021
-9,10,Panthers,10/03/2021,DAL,Loss, 28-36,2,11,rush,Sam Darnold,2021
-10,11,Panthers,10/03/2021,DAL,Loss, 28-36,4,6,pass,D.J. Moore,2021
-11,12,Panthers,10/03/2021,DAL,Loss, 28-36,4,8,pass,D.J. Moore,2021
-12,13,Panthers,10/10/2021,PHI,Loss, 18-21,1,5,pass,Tommy Tremble,2021
-13,14,Panthers,10/17/2021,MIN,Loss, 28-34,1,2,rush,Chuba Hubbard,2021
-14,15,Panthers,10/17/2021,MIN,Loss, 28-34,3,4,blocked punt,Kenny Robinson Jr.,2021
-15,16,Panthers,10/17/2021,MIN,Loss, 28-34,4,7,pass,Robbie Chosen,2021
-16,17,Panthers,10/31/2021,ATL,Win, 19-13,4,6,rush,Chuba Hubbard,2021
-17,18,Panthers,11/14/2021,ARI,Win, 34-10,1,2,rush,Cam Newton,2021
-18,19,Panthers,11/14/2021,ARI,Win, 34-10,1,2,pass,Robbie Chosen,2021
-19,20,Panthers,11/14/2021,ARI,Win, 34-10,3,5,rush,Chuba Hubbard,2021
-20,21,Panthers,11/21/2021,WAS,Loss, 21-27,1,10,pass,D.J. Moore,2021
-21,22,Panthers,11/21/2021,WAS,Loss, 21-27,2,24,rush,Cam Newton,2021
-22,23,Panthers,11/21/2021,WAS,Loss, 21-27,4,27,pass,Christian McCaffrey,2021
-23,24,Panthers,11/28/2021,MIA,Loss, 10-33,1,1,rush,Cam Newton,2021
-24,25,Panthers,12/12/2021,ATL,Loss, 21-29,1,12,rush,Cam Newton,2021
-25,26,Panthers,12/12/2021,ATL,Loss, 21-29,3,17,rush,Chuba Hubbard,2021
-26,27,Panthers,12/12/2021,ATL,Loss, 21-29,4,5,pass,Robbie Chosen,2021
-27,28,Panthers,12/19/2021,BUF,Loss, 14-31,2,4,rush,Cam Newton,2021
-28,29,Panthers,12/19/2021,BUF,Loss, 14-31,4,23,pass,Ameer Abdullah,2021
-29,30,Panthers,01/02/2022,NOR,Loss, 10-18,2,21,rush,Chuba Hubbard,2021
-30,31,Panthers,01/09/2022,TAM,Loss, 17-41,1,2,pass,Chuba Hubbard,2021
-31,32,Panthers,01/09/2022,TAM,Loss, 17-41,4,19,pass,Robbie Chosen,2021
+,Rank,Team,Date,Opponent,Win/Loss,Home_Score,Opponenet_Score,Quarter,Distance,Type,Detail
+1,1,Panthers,2021-09-12,NYJ,Win,19,14,2,57,pass,Robbie Chosen
+2,2,Panthers,2021-09-12,NYJ,Win,19,14,2,5,rush,Sam Darnold
+3,3,Panthers,2021-09-19,NOR,Win,26,7,1,20,pass,Brandon Zylstra
+4,4,Panthers,2021-09-19,NOR,Win,26,7,2,2,pass,D.J. Moore
+5,5,Panthers,2021-09-19,NOR,Win,26,7,4,11,rush,Christian McCaffrey
+6,6,Panthers,2021-09-23,HOU,Win,24,9,1,5,rush,Sam Darnold
+7,7,Panthers,2021-09-23,HOU,Win,24,9,3,7,rush,Tommy Tremble
+8,8,Panthers,2021-09-23,HOU,Win,24,9,4,1,rush,Sam Darnold
+9,9,Panthers,2021-10-03,DAL,Loss,28,36,1,1,rush,Sam Darnold
+10,10,Panthers,2021-10-03,DAL,Loss,28,36,2,11,rush,Sam Darnold
+11,11,Panthers,2021-10-03,DAL,Loss,28,36,4,6,pass,D.J. Moore
+12,12,Panthers,2021-10-03,DAL,Loss,28,36,4,8,pass,D.J. Moore
+13,13,Panthers,2021-10-10,PHI,Loss,18,21,1,5,pass,Tommy Tremble
+14,14,Panthers,2021-10-17,MIN,Loss,28,34,1,2,rush,Chuba Hubbard
+15,15,Panthers,2021-10-17,MIN,Loss,28,34,3,4,blocked punt,Kenny Robinson Jr.
+16,16,Panthers,2021-10-17,MIN,Loss,28,34,4,7,pass,Robbie Chosen
+17,17,Panthers,2021-10-31,ATL,Win,19,13,4,6,rush,Chuba Hubbard
+18,18,Panthers,2021-11-14,ARI,Win,34,10,1,2,rush,Cam Newton
+19,19,Panthers,2021-11-14,ARI,Win,34,10,1,2,pass,Robbie Chosen
+20,20,Panthers,2021-11-14,ARI,Win,34,10,3,5,rush,Chuba Hubbard
+21,21,Panthers,2021-11-21,WAS,Loss,21,27,1,10,pass,D.J. Moore
+22,22,Panthers,2021-11-21,WAS,Loss,21,27,2,24,rush,Cam Newton
+23,23,Panthers,2021-11-21,WAS,Loss,21,27,4,27,pass,Christian McCaffrey
+24,24,Panthers,2021-11-28,MIA,Loss,10,33,1,1,rush,Cam Newton
+25,25,Panthers,2021-12-12,ATL,Loss,21,29,1,12,rush,Cam Newton
+26,26,Panthers,2021-12-12,ATL,Loss,21,29,3,17,rush,Chuba Hubbard
+27,27,Panthers,2021-12-12,ATL,Loss,21,29,4,5,pass,Robbie Chosen
+28,28,Panthers,2021-12-19,BUF,Loss,14,31,2,4,rush,Cam Newton
+29,29,Panthers,2021-12-19,BUF,Loss,14,31,4,23,pass,Ameer Abdullah
+30,30,Panthers,2022-01-02,NOR,Loss,10,18,2,21,rush,Chuba Hubbard
+31,31,Panthers,2022-01-09,TAM,Loss,17,41,1,2,pass,Chuba Hubbard
+32,32,Panthers,2022-01-09,TAM,Loss,17,41,4,19,pass,Robbie Chosen

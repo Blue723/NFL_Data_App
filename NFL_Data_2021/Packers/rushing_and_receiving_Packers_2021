@@ -1,21 +1,21 @@
-,No.,Team,Player,Age,Position,Games Played,Games Started as an Offensive or Defensive Player,Rushing Attempts,Rushing Yards Gained,Rushing Touchdown,First Downs Rushing,Rushing Success Rate,Longest Rushing Attempt,Rushing Yards per Attempt,Rushing Yards per Game,Rushing Attempts per Game,Pass Targets,Receptions,Receiving Yards,Receiving Yards per Reception,Receiving Touchdowns,First Downs Receiving,Receiving Success Rate,Longest Reception,Receptions per Game,Receiving Yards per Game,Catch Per.,Receiving Yards per Target,Touches: Rushing Attempts and Receptions,Scrimmage Yards per Touch: Rushing + Receiving Yardage per Opportunity,Yards from Scrimmage: Receiving and Rushing Yards,Rushing and Receiving Touchdowns,Lost and Recovered Fumbles,Year
-0,28,Packers,AJ Dillon,23,RB,17,2,187,803,5,50,61.0,36,4.3,47.2,11.0,37,34,313,9.2,2,15,62.2,50,2.0,18.4,91.9,8.5,221,5.0,1116,7,2,2021
-1,33,Packers,Aaron Jones,27,RB,15,15,171,799,4,37,49.7,57,4.7,53.3,11.4,65,52,391,7.5,6,22,50.8,26,3.5,26.1,80.0,6.0,223,5.3,1190,10,2,2021
-2,12,Packers,Aaron Rodgers,38,QB,16,16,33,101,3,10,36.4,18,3.1,6.3,2.1,1,1,-4,-4.0,0,0,0.0,-4,0.1,-0.3,100.0,-4.0,34,2.9,97,3,3,2021
-3,27,Packers,Patrick Taylor,23,RB,9,0,23,89,1,5,60.9,12,3.9,9.9,2.6,2,2,3,1.5,0,1,50.0,3,0.2,0.3,100.0,1.5,25,3.7,92,1,0,2021
-4,10,Packers,Jordan Love,23,QB,6,1,12,27,0,1,25.0,10,2.3,4.5,2.0,0,0,0,,0,0,,0,,,0.0,,12,2.3,27,0,3,2021
-5,32,Packers,Kylin Hill,23,RB,8,0,10,24,0,1,20.0,8,2.4,3.0,1.3,2,1,5,5.0,0,0,50.0,5,0.1,0.6,50.0,2.5,11,2.6,29,0,0,2021
-6,13,Packers,Allen Lazard,26,WR,15,13,3,32,0,2,100.0,14,10.7,2.1,0.2,60,40,513,12.8,8,28,60.0,42,2.7,34.2,66.7,8.6,43,12.7,545,8,0,2021
-7,19,Packers,Equanimeous St. Brown,25,WR,13,2,3,14,0,2,66.7,13,4.7,1.1,0.2,17,9,98,10.9,0,6,47.1,26,0.7,7.5,52.9,5.8,12,9.3,112,0,0,2021
-8,6,Packers,Kurt Benkert,26,QB,1,0,2,-1,0,0,0.0,0,-0.5,-1.0,2.0,0,0,0,,0,0,,0,,,0.0,,2,-0.5,-1,0,0,2021
-9,18,Packers,Randall Cobb,31,WR,12,3,1,1,0,0,0.0,1,1.0,0.1,0.1,39,28,375,13.4,5,21,59.0,54,2.3,31.3,71.8,9.6,29,13.0,376,5,1,2021
-10,8,Packers,Amari Rodgers,22,WR,16,1,1,11,0,1,100.0,11,11.0,0.7,0.1,8,4,45,11.3,0,2,50.0,19,0.3,2.8,50.0,5.6,5,11.2,56,0,2,2021
-11,17,Packers,Davante Adams,29,WR,16,16,0,0,0,0,,0,,,,169,123,1553,12.6,11,84,59.8,59,7.7,97.1,72.8,9.2,123,12.6,1553,11,0,2021
-12,83,Packers,Marquez Valdes-Scantling,27,WR,11,7,0,0,0,0,,0,,,,55,26,430,16.5,3,18,38.2,75,2.4,39.1,47.3,7.8,26,16.5,430,3,0,2021
-13,81,Packers,Josiah Deguara,24,TE,16,2,0,0,0,0,,0,,,,33,25,245,9.8,2,9,48.5,62,1.6,15.3,75.8,7.4,25,9.8,245,2,0,2021
-14,89,Packers,Marcedes Lewis,37,TE,17,17,0,0,0,0,,0,,,,28,23,214,9.3,0,10,57.1,23,1.4,12.6,82.1,7.6,23,9.3,214,0,1,2021
-15,85,Packers,Robert Tonyan,27,TE,8,5,0,0,0,0,,0,,,,29,18,204,11.3,2,10,44.8,33,2.3,25.5,62.1,7.0,18,11.3,204,2,0,2021
-16,88,Packers,Juwann Winfree,25,WR,7,0,0,0,0,0,,0,,,,13,8,58,7.3,0,5,46.2,12,1.1,8.3,61.5,4.5,8,7.3,58,0,2,2021
-17,84,Packers,Tyler Davis,24,TE,14,0,0,0,0,0,,0,,,,5,4,35,8.8,0,1,60.0,22,0.3,2.5,80.0,7.0,4,8.8,35,0,0,2021
-18,49,Packers,Dominique Dafney,24,TE,10,2,0,0,0,0,,0,,,,4,2,34,17.0,0,2,50.0,26,0.2,3.4,50.0,8.5,2,17.0,34,0,0,2021
-19,86,Packers,Malik Taylor,26,WR,10,0,0,0,0,0,,0,,,,3,2,14,7.0,0,1,66.7,7,0.2,1.4,66.7,4.7,2,7.0,14,0,1,2021
+,No.,Player,Age,Position,Games Played,Games Started as an Offensive or Defensive Player,Rushing Attempts,Rushing Yards Gained,Rushing Touchdown,First Downs Rushing,Rushing Success Rate,Longest Rushing Attempt,Rushing Yards per Attempt,Rushing Yards per Game,Rushing Attempts per Game,Pass Targets,Receptions,Receiving Yards,Receiving Yards per Reception,Receiving Touchdowns,First Downs Receiving,Receiving Success Rate,Longest Reception,Receptions per Game,Receiving Yards per Game,Catch Per.,Receiving Yards per Target,Touches: Rushing Attempts and Receptions,Scrimmage Yards per Touch: Rushing + Receiving Yardage per Opportunity,Yards from Scrimmage: Receiving and Rushing Yards,Rushing and Receiving Touchdowns,Lost and Recovered Fumbles,Team,Year
+28,28,AJ Dillon,23,RB,17,2,187,803,5,50,61.0,36,4.3,47.2,11.0,37,34,313,9.2,2,15,62.2,50,2.0,18.4,91.9,8.5,221,5.0,1116,7,2,Packers,2021
+33,33,Aaron Jones,27,RB,15,15,171,799,4,37,49.7,57,4.7,53.3,11.4,65,52,391,7.5,6,22,50.8,26,3.5,26.1,80.0,6.0,223,5.3,1190,10,2,Packers,2021
+12,12,Aaron Rodgers,38,QB,16,16,33,101,3,10,36.4,18,3.1,6.3,2.1,1,1,-4,-4.0,0,0,0.0,-4,0.1,-0.3,100.0,-4.0,34,2.9,97,3,3,Packers,2021
+27,27,Patrick Taylor,23,RB,9,0,23,89,1,5,60.9,12,3.9,9.9,2.6,2,2,3,1.5,0,1,50.0,3,0.2,0.3,100.0,1.5,25,3.7,92,1,0,Packers,2021
+10,10,Jordan Love,23,QB,6,1,12,27,0,1,25.0,10,2.3,4.5,2.0,0,0,0,0.0,0,0,0.0,0,0.0,0.0,0.0,0.0,12,2.3,27,0,3,Packers,2021
+32,32,Kylin Hill,23,RB,8,0,10,24,0,1,20.0,8,2.4,3.0,1.3,2,1,5,5.0,0,0,50.0,5,0.1,0.6,50.0,2.5,11,2.6,29,0,0,Packers,2021
+13,13,Allen Lazard,26,WR,15,13,3,32,0,2,100.0,14,10.7,2.1,0.2,60,40,513,12.8,8,28,60.0,42,2.7,34.2,66.7,8.6,43,12.7,545,8,0,Packers,2021
+19,19,Equanimeous St. Brown,25,WR,13,2,3,14,0,2,66.7,13,4.7,1.1,0.2,17,9,98,10.9,0,6,47.1,26,0.7,7.5,52.9,5.8,12,9.3,112,0,0,Packers,2021
+6,6,Kurt Benkert,26,QB,1,0,2,-1,0,0,0.0,0,-0.5,-1.0,2.0,0,0,0,0.0,0,0,0.0,0,0.0,0.0,0.0,0.0,2,-0.5,-1,0,0,Packers,2021
+18,18,Randall Cobb,31,WR,12,3,1,1,0,0,0.0,1,1.0,0.1,0.1,39,28,375,13.4,5,21,59.0,54,2.3,31.3,71.8,9.6,29,13.0,376,5,1,Packers,2021
+8,8,Amari Rodgers,22,WR,16,1,1,11,0,1,100.0,11,11.0,0.7,0.1,8,4,45,11.3,0,2,50.0,19,0.3,2.8,50.0,5.6,5,11.2,56,0,2,Packers,2021
+17,17,Davante Adams,29,WR,16,16,0,0,0,0,0.0,0,0.0,0.0,0.0,169,123,1553,12.6,11,84,59.8,59,7.7,97.1,72.8,9.2,123,12.6,1553,11,0,Packers,2021
+83,83,Marquez Valdes-Scantling,27,WR,11,7,0,0,0,0,0.0,0,0.0,0.0,0.0,55,26,430,16.5,3,18,38.2,75,2.4,39.1,47.3,7.8,26,16.5,430,3,0,Packers,2021
+81,81,Josiah Deguara,24,TE,16,2,0,0,0,0,0.0,0,0.0,0.0,0.0,33,25,245,9.8,2,9,48.5,62,1.6,15.3,75.8,7.4,25,9.8,245,2,0,Packers,2021
+89,89,Marcedes Lewis,37,TE,17,17,0,0,0,0,0.0,0,0.0,0.0,0.0,28,23,214,9.3,0,10,57.1,23,1.4,12.6,82.1,7.6,23,9.3,214,0,1,Packers,2021
+85,85,Robert Tonyan,27,TE,8,5,0,0,0,0,0.0,0,0.0,0.0,0.0,29,18,204,11.3,2,10,44.8,33,2.3,25.5,62.1,7.0,18,11.3,204,2,0,Packers,2021
+88,88,Juwann Winfree,25,WR,7,0,0,0,0,0,0.0,0,0.0,0.0,0.0,13,8,58,7.3,0,5,46.2,12,1.1,8.3,61.5,4.5,8,7.3,58,0,2,Packers,2021
+84,84,Tyler Davis,24,TE,14,0,0,0,0,0,0.0,0,0.0,0.0,0.0,5,4,35,8.8,0,1,60.0,22,0.3,2.5,80.0,7.0,4,8.8,35,0,0,Packers,2021
+49,49,Dominique Dafney,24,TE,10,2,0,0,0,0,0.0,0,0.0,0.0,0.0,4,2,34,17.0,0,2,50.0,26,0.2,3.4,50.0,8.5,2,17.0,34,0,0,Packers,2021
+86,86,Malik Taylor,26,WR,10,0,0,0,0,0,0.0,0,0.0,0.0,0.0,3,2,14,7.0,0,1,66.7,7,0.2,1.4,66.7,4.7,2,7.0,14,0,1,Packers,2021

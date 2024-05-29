@@ -1,44 +1,44 @@
-,Rank,Team,Date,Opponent,Win/Loss,Score,Quarter,Distance,Type,Detail,Year
-0,1,Steelers,09/12/2021,BUF,Win, 23-16,2,3,pass,Gabriel Davis,2021
-1,2,Steelers,09/19/2021,LVR,Loss, 17-26,3,9,pass,Foster Moreau,2021
-2,3,Steelers,09/19/2021,LVR,Loss, 17-26,4,61,pass,Henry Ruggs III,2021
-3,4,Steelers,09/26/2021,CIN,Loss, 10-24,1,17,pass,Tyler Boyd,2021
-4,5,Steelers,09/26/2021,CIN,Loss, 10-24,2,34,pass,Ja'Marr Chase,2021
-5,6,Steelers,09/26/2021,CIN,Loss, 10-24,3,9,pass,Ja'Marr Chase,2021
-6,7,Steelers,10/03/2021,GNB,Loss, 17-27,2,4,rush,Aaron Rodgers,2021
-7,8,Steelers,10/03/2021,GNB,Loss, 17-27,2,23,pass,Randall Cobb,2021
-8,9,Steelers,10/03/2021,GNB,Loss, 17-27,3,1,pass,Randall Cobb,2021
-9,10,Steelers,10/10/2021,DEN,Win, 27-19,4,2,pass,Kendall Hinton,2021
-10,11,Steelers,10/10/2021,DEN,Win, 27-19,4,39,pass,Courtland Sutton,2021
-11,12,Steelers,10/17/2021,SEA,Win, 23-20,3,2,rush,Alex Collins,2021
-12,13,Steelers,10/17/2021,SEA,Win, 23-20,3,1,pass,Will Dissly,2021
-13,14,Steelers,10/31/2021,CLE,Win, 15-10,3,10,rush,D'Ernest Johnson,2021
-14,15,Steelers,11/08/2021,CHI,Win, 29-27,4,15,rush,Darnell Mooney,2021
-15,16,Steelers,11/08/2021,CHI,Win, 29-27,4,25,fumble,DeAndre Houston-Carson,2021
-16,17,Steelers,11/08/2021,CHI,Win, 29-27,4,16,pass,Darnell Mooney,2021
-17,18,Steelers,11/14/2021,DET,T, 16-16,2,28,rush,Jermar Jefferson,2021
-18,19,Steelers,11/14/2021,DET,T, 16-16,3,42,rush,Godwin Igwebuike,2021
-19,20,Steelers,11/21/2021,LAC,Loss, 37-41,1,6,rush,Austin Ekeler,2021
-20,21,Steelers,11/21/2021,LAC,Loss, 37-41,2,10,pass,Austin Ekeler,2021
-21,22,Steelers,11/21/2021,LAC,Loss, 37-41,3,17,pass,Austin Ekeler,2021
-22,23,Steelers,11/21/2021,LAC,Loss, 37-41,4,5,rush,Austin Ekeler,2021
-23,24,Steelers,11/21/2021,LAC,Loss, 37-41,4,53,pass,Mike Williams,2021
-24,25,Steelers,11/28/2021,CIN,Loss, 10-41,1,8,rush,Joe Burrow,2021
-25,26,Steelers,11/28/2021,CIN,Loss, 10-41,2,32,pass,Tee Higgins,2021
-26,27,Steelers,11/28/2021,CIN,Loss, 10-41,2,1,rush,Joe Mixon,2021
-27,28,Steelers,11/28/2021,CIN,Loss, 10-41,2,24,interception,Mike Hilton,2021
-28,29,Steelers,11/28/2021,CIN,Loss, 10-41,4,1,rush,Joe Mixon,2021
-29,30,Steelers,12/05/2021,BAL,Win, 20-19,2,3,rush,Devonta Freeman,2021
-30,31,Steelers,12/05/2021,BAL,Win, 20-19,4,6,pass,Sammy Watkins,2021
-31,32,Steelers,12/09/2021,MIN,Loss, 28-36,1,14,pass,Justin Jefferson,2021
-32,33,Steelers,12/09/2021,MIN,Loss, 28-36,2,29,rush,Dalvin Cook,2021
-33,34,Steelers,12/09/2021,MIN,Loss, 28-36,2,7,rush,Dalvin Cook,2021
-34,35,Steelers,12/09/2021,MIN,Loss, 28-36,4,62,pass,K.J. Osborn,2021
-35,36,Steelers,12/19/2021,TEN,Win, 19-13,1,1,rush,Ryan Tannehill,2021
-36,37,Steelers,12/26/2021,KAN,Loss, 10-36,1,1,rush,Clyde Edwards-Helaire,2021
-37,38,Steelers,12/26/2021,KAN,Loss, 10-36,1,5,pass,Byron Pringle,2021
-38,39,Steelers,12/26/2021,KAN,Loss, 10-36,2,8,pass,Mecole Hardman,2021
-39,40,Steelers,12/26/2021,KAN,Loss, 10-36,3,16,pass,Byron Pringle,2021
-40,41,Steelers,01/03/2022,CLE,Win, 26-14,3,3,pass,David Njoku,2021
-41,42,Steelers,01/03/2022,CLE,Win, 26-14,4,1,pass,Harrison Bryant,2021
-42,43,Steelers,01/09/2022,BAL,Win, 16-13,3,46,rush,Latavius Murray,2021
+,Rank,Team,Date,Opponent,Win/Loss,Home_Score,Opponenet_Score,Quarter,Distance,Type,Detail
+1,1,Steelers,2021-09-12,BUF,Win,23,16,2,3,pass,Gabriel Davis
+2,2,Steelers,2021-09-19,LVR,Loss,17,26,3,9,pass,Foster Moreau
+3,3,Steelers,2021-09-19,LVR,Loss,17,26,4,61,pass,Henry Ruggs III
+4,4,Steelers,2021-09-26,CIN,Loss,10,24,1,17,pass,Tyler Boyd
+5,5,Steelers,2021-09-26,CIN,Loss,10,24,2,34,pass,Ja'Marr Chase
+6,6,Steelers,2021-09-26,CIN,Loss,10,24,3,9,pass,Ja'Marr Chase
+7,7,Steelers,2021-10-03,GNB,Loss,17,27,2,4,rush,Aaron Rodgers
+8,8,Steelers,2021-10-03,GNB,Loss,17,27,2,23,pass,Randall Cobb
+9,9,Steelers,2021-10-03,GNB,Loss,17,27,3,1,pass,Randall Cobb
+10,10,Steelers,2021-10-10,DEN,Win,27,19,4,2,pass,Kendall Hinton
+11,11,Steelers,2021-10-10,DEN,Win,27,19,4,39,pass,Courtland Sutton
+12,12,Steelers,2021-10-17,SEA,Win,23,20,3,2,rush,Alex Collins
+13,13,Steelers,2021-10-17,SEA,Win,23,20,3,1,pass,Will Dissly
+14,14,Steelers,2021-10-31,CLE,Win,15,10,3,10,rush,D'Ernest Johnson
+15,15,Steelers,2021-11-08,CHI,Win,29,27,4,15,rush,Darnell Mooney
+16,16,Steelers,2021-11-08,CHI,Win,29,27,4,25,fumble,DeAndre Houston-Carson
+17,17,Steelers,2021-11-08,CHI,Win,29,27,4,16,pass,Darnell Mooney
+18,18,Steelers,2021-11-14,DET,T,16,16,2,28,rush,Jermar Jefferson
+19,19,Steelers,2021-11-14,DET,T,16,16,3,42,rush,Godwin Igwebuike
+20,20,Steelers,2021-11-21,LAC,Loss,37,41,1,6,rush,Austin Ekeler
+21,21,Steelers,2021-11-21,LAC,Loss,37,41,2,10,pass,Austin Ekeler
+22,22,Steelers,2021-11-21,LAC,Loss,37,41,3,17,pass,Austin Ekeler
+23,23,Steelers,2021-11-21,LAC,Loss,37,41,4,5,rush,Austin Ekeler
+24,24,Steelers,2021-11-21,LAC,Loss,37,41,4,53,pass,Mike Williams
+25,25,Steelers,2021-11-28,CIN,Loss,10,41,1,8,rush,Joe Burrow
+26,26,Steelers,2021-11-28,CIN,Loss,10,41,2,32,pass,Tee Higgins
+27,27,Steelers,2021-11-28,CIN,Loss,10,41,2,1,rush,Joe Mixon
+28,28,Steelers,2021-11-28,CIN,Loss,10,41,2,24,interception,Mike Hilton
+29,29,Steelers,2021-11-28,CIN,Loss,10,41,4,1,rush,Joe Mixon
+30,30,Steelers,2021-12-05,BAL,Win,20,19,2,3,rush,Devonta Freeman
+31,31,Steelers,2021-12-05,BAL,Win,20,19,4,6,pass,Sammy Watkins
+32,32,Steelers,2021-12-09,MIN,Loss,28,36,1,14,pass,Justin Jefferson
+33,33,Steelers,2021-12-09,MIN,Loss,28,36,2,29,rush,Dalvin Cook
+34,34,Steelers,2021-12-09,MIN,Loss,28,36,2,7,rush,Dalvin Cook
+35,35,Steelers,2021-12-09,MIN,Loss,28,36,4,62,pass,K.J. Osborn
+36,36,Steelers,2021-12-19,TEN,Win,19,13,1,1,rush,Ryan Tannehill
+37,37,Steelers,2021-12-26,KAN,Loss,10,36,1,1,rush,Clyde Edwards-Helaire
+38,38,Steelers,2021-12-26,KAN,Loss,10,36,1,5,pass,Byron Pringle
+39,39,Steelers,2021-12-26,KAN,Loss,10,36,2,8,pass,Mecole Hardman
+40,40,Steelers,2021-12-26,KAN,Loss,10,36,3,16,pass,Byron Pringle
+41,41,Steelers,2022-01-03,CLE,Win,26,14,3,3,pass,David Njoku
+42,42,Steelers,2022-01-03,CLE,Win,26,14,4,1,pass,Harrison Bryant
+43,43,Steelers,2022-01-09,BAL,Win,16,13,3,46,rush,Latavius Murray

@@ -1,5 +1,5 @@
-,Player,Team,3rd Down Attempts in Game,3rd Down Conversions,3rd Down Conversion Per.,4th Down Attempts in Game,4th Down Conversions in Game,4th Down Conversion Per.,Red Zone Attempts,Touchdowns Scored After the Team Entered the Red Zone,Per. of the Time a Team Reaches the Red Zone and Scores a Touchdown,Year
-0,Team Stats,Jets,212.0,77.0,36.3,29.0,14.0,48.3,51.0,28.0,54.9,2021.0
-1,Opp. Stats,Jets,223.0,99.0,44.4,21.0,13.0,61.9,74.0,45.0,60.8,2021.0
-2,Lg Rank Offense,Jets,,,27.0,,,23.0,,,21.0,2021.0
-3,Lg Rank Defense,Jets,,,27.0,,,27.0,,,21.0,2021.0
+,Player,3rd Down Attempts in Game,3rd Down Conversions,3rd Down Conversion Per.,4th Down Attempts in Game,4th Down Conversions in Game,4th Down Conversion Per.,Red Zone Attempts,Touchdowns Scored After the Team Entered the Red Zone,Per. of the Time a Team Reaches the Red Zone and Scores a Touchdown,Team,Year
+Team Stats,Team Stats,212.0,77.0,36.3,29.0,14.0,48.3,51.0,28.0,54.9,Jets,2021
+Opp. Stats,Opp. Stats,223.0,99.0,44.4,21.0,13.0,61.9,74.0,45.0,60.8,Jets,2021
+Lg Rank Offense,Lg Rank Offense,0.0,0.0,27.0,0.0,0.0,23.0,0.0,0.0,21,Jets,2021
+Lg Rank Defense,Lg Rank Defense,0.0,0.0,27.0,0.0,0.0,27.0,0.0,0.0,21,Jets,2021

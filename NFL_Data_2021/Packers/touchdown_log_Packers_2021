@@ -1,55 +1,55 @@
-,Rank,Team,Date,Opponent,Win/Loss,Score,Quarter,Distance,Type,Detail,Year
-0,1,Packers,09/20/2021,DET,Win, 35-17,1,4,pass,Aaron Jones,2021
-1,2,Packers,09/20/2021,DET,Win, 35-17,2,1,pass,Aaron Jones,2021
-2,3,Packers,09/20/2021,DET,Win, 35-17,3,22,pass,Robert Tonyan,2021
-3,4,Packers,09/20/2021,DET,Win, 35-17,3,11,pass,Aaron Jones,2021
-4,5,Packers,09/20/2021,DET,Win, 35-17,4,1,rush,Aaron Jones,2021
-5,6,Packers,09/26/2021,SFO,Win, 30-28,1,1,pass,Davante Adams,2021
-6,7,Packers,09/26/2021,SFO,Win, 30-28,2,3,rush,Aaron Jones,2021
-7,8,Packers,09/26/2021,SFO,Win, 30-28,4,12,pass,Marquez Valdes-Scantling,2021
-8,9,Packers,10/03/2021,PIT,Win, 27-17,2,4,rush,Aaron Rodgers,2021
-9,10,Packers,10/03/2021,PIT,Win, 27-17,2,23,pass,Randall Cobb,2021
-10,11,Packers,10/03/2021,PIT,Win, 27-17,3,1,pass,Randall Cobb,2021
-11,12,Packers,10/10/2021,CIN,Win, 25-22,2,12,pass,AJ Dillon,2021
-12,13,Packers,10/10/2021,CIN,Win, 25-22,2,5,pass,Davante Adams,2021
-13,14,Packers,10/17/2021,CHI,Win, 24-14,2,1,pass,Allen Lazard,2021
-14,15,Packers,10/17/2021,CHI,Win, 24-14,3,12,pass,Aaron Jones,2021
-15,16,Packers,10/17/2021,CHI,Win, 24-14,4,6,rush,Aaron Rodgers,2021
-16,17,Packers,10/24/2021,WAS,Win, 24-10,1,17,pass,Davante Adams,2021
-17,18,Packers,10/24/2021,WAS,Win, 24-10,2,10,pass,Allen Lazard,2021
-18,19,Packers,10/24/2021,WAS,Win, 24-10,3,20,pass,Robert Tonyan,2021
-19,20,Packers,10/28/2021,ARI,Win, 24-21,2,2,rush,Aaron Jones,2021
-20,21,Packers,10/28/2021,ARI,Win, 24-21,3,2,pass,Randall Cobb,2021
-21,22,Packers,10/28/2021,ARI,Win, 24-21,4,6,pass,Randall Cobb,2021
-22,23,Packers,11/07/2021,KAN,Loss, 7-13,4,20,pass,Allen Lazard,2021
-23,24,Packers,11/14/2021,SEA,Win, 17-0,4,3,rush,AJ Dillon,2021
-24,25,Packers,11/14/2021,SEA,Win, 17-0,4,2,rush,AJ Dillon,2021
-25,26,Packers,11/21/2021,MIN,Loss, 31-34,2,25,pass,Josiah Deguara,2021
-26,27,Packers,11/21/2021,MIN,Loss, 31-34,3,10,pass,Davante Adams,2021
-27,28,Packers,11/21/2021,MIN,Loss, 31-34,4,18,pass,Davante Adams,2021
-28,29,Packers,11/21/2021,MIN,Loss, 31-34,4,75,pass,Marquez Valdes-Scantling,2021
-29,30,Packers,11/28/2021,LAR,Win, 36-28,1,1,rush,Aaron Rodgers,2021
-30,31,Packers,11/28/2021,LAR,Win, 36-28,2,7,pass,Randall Cobb,2021
-31,32,Packers,11/28/2021,LAR,Win, 36-28,3,5,pass,AJ Dillon,2021
-32,33,Packers,11/28/2021,LAR,Win, 36-28,3,33,interception,Rasul Douglas,2021
-33,34,Packers,12/12/2021,CHI,Win, 45-30,2,2,pass,Allen Lazard,2021
-34,35,Packers,12/12/2021,CHI,Win, 45-30,2,55,interception,Rasul Douglas,2021
-35,36,Packers,12/12/2021,CHI,Win, 45-30,2,38,pass,Davante Adams,2021
-36,37,Packers,12/12/2021,CHI,Win, 45-30,3,3,rush,Aaron Jones,2021
-37,38,Packers,12/12/2021,CHI,Win, 45-30,3,23,pass,Aaron Jones,2021
-38,39,Packers,12/12/2021,CHI,Win, 45-30,4,3,pass,Davante Adams,2021
-39,40,Packers,12/19/2021,BAL,Win, 31-30,2,2,rush,AJ Dillon,2021
-40,41,Packers,12/19/2021,BAL,Win, 31-30,2,3,pass,Davante Adams,2021
-41,42,Packers,12/19/2021,BAL,Win, 31-30,3,9,pass,Aaron Jones,2021
-42,43,Packers,12/19/2021,BAL,Win, 31-30,4,11,pass,Marquez Valdes-Scantling,2021
-43,44,Packers,12/25/2021,CLE,Win, 24-22,1,11,pass,Allen Lazard,2021
-44,45,Packers,12/25/2021,CLE,Win, 24-22,2,9,pass,Davante Adams,2021
-45,46,Packers,12/25/2021,CLE,Win, 24-22,2,1,pass,Davante Adams,2021
-46,47,Packers,01/02/2022,MIN,Win, 37-10,2,20,pass,Allen Lazard,2021
-47,48,Packers,01/02/2022,MIN,Win, 37-10,2,11,pass,Davante Adams,2021
-48,49,Packers,01/02/2022,MIN,Win, 37-10,3,4,rush,AJ Dillon,2021
-49,50,Packers,01/02/2022,MIN,Win, 37-10,4,7,rush,AJ Dillon,2021
-50,51,Packers,01/09/2022,DET,Loss, 30-37,1,1,pass,Allen Lazard,2021
-51,52,Packers,01/09/2022,DET,Loss, 30-37,2,29,pass,Allen Lazard,2021
-52,53,Packers,01/09/2022,DET,Loss, 30-37,4,1,rush,Patrick Taylor,2021
-53,54,Packers,01/09/2022,DET,Loss, 30-37,4,62,pass,Josiah Deguara,2021
+,Rank,Team,Date,Opponent,Win/Loss,Home_Score,Opponenet_Score,Quarter,Distance,Type,Detail
+1,1,Packers,2021-09-20,DET,Win,35,17,1,4,pass,Aaron Jones
+2,2,Packers,2021-09-20,DET,Win,35,17,2,1,pass,Aaron Jones
+3,3,Packers,2021-09-20,DET,Win,35,17,3,22,pass,Robert Tonyan
+4,4,Packers,2021-09-20,DET,Win,35,17,3,11,pass,Aaron Jones
+5,5,Packers,2021-09-20,DET,Win,35,17,4,1,rush,Aaron Jones
+6,6,Packers,2021-09-26,SFO,Win,30,28,1,1,pass,Davante Adams
+7,7,Packers,2021-09-26,SFO,Win,30,28,2,3,rush,Aaron Jones
+8,8,Packers,2021-09-26,SFO,Win,30,28,4,12,pass,Marquez Valdes-Scantling
+9,9,Packers,2021-10-03,PIT,Win,27,17,2,4,rush,Aaron Rodgers
+10,10,Packers,2021-10-03,PIT,Win,27,17,2,23,pass,Randall Cobb
+11,11,Packers,2021-10-03,PIT,Win,27,17,3,1,pass,Randall Cobb
+12,12,Packers,2021-10-10,CIN,Win,25,22,2,12,pass,AJ Dillon
+13,13,Packers,2021-10-10,CIN,Win,25,22,2,5,pass,Davante Adams
+14,14,Packers,2021-10-17,CHI,Win,24,14,2,1,pass,Allen Lazard
+15,15,Packers,2021-10-17,CHI,Win,24,14,3,12,pass,Aaron Jones
+16,16,Packers,2021-10-17,CHI,Win,24,14,4,6,rush,Aaron Rodgers
+17,17,Packers,2021-10-24,WAS,Win,24,10,1,17,pass,Davante Adams
+18,18,Packers,2021-10-24,WAS,Win,24,10,2,10,pass,Allen Lazard
+19,19,Packers,2021-10-24,WAS,Win,24,10,3,20,pass,Robert Tonyan
+20,20,Packers,2021-10-28,ARI,Win,24,21,2,2,rush,Aaron Jones
+21,21,Packers,2021-10-28,ARI,Win,24,21,3,2,pass,Randall Cobb
+22,22,Packers,2021-10-28,ARI,Win,24,21,4,6,pass,Randall Cobb
+23,23,Packers,2021-11-07,KAN,Loss,7,13,4,20,pass,Allen Lazard
+24,24,Packers,2021-11-14,SEA,Win,17,0,4,3,rush,AJ Dillon
+25,25,Packers,2021-11-14,SEA,Win,17,0,4,2,rush,AJ Dillon
+26,26,Packers,2021-11-21,MIN,Loss,31,34,2,25,pass,Josiah Deguara
+27,27,Packers,2021-11-21,MIN,Loss,31,34,3,10,pass,Davante Adams
+28,28,Packers,2021-11-21,MIN,Loss,31,34,4,18,pass,Davante Adams
+29,29,Packers,2021-11-21,MIN,Loss,31,34,4,75,pass,Marquez Valdes-Scantling
+30,30,Packers,2021-11-28,LAR,Win,36,28,1,1,rush,Aaron Rodgers
+31,31,Packers,2021-11-28,LAR,Win,36,28,2,7,pass,Randall Cobb
+32,32,Packers,2021-11-28,LAR,Win,36,28,3,5,pass,AJ Dillon
+33,33,Packers,2021-11-28,LAR,Win,36,28,3,33,interception,Rasul Douglas
+34,34,Packers,2021-12-12,CHI,Win,45,30,2,2,pass,Allen Lazard
+35,35,Packers,2021-12-12,CHI,Win,45,30,2,55,interception,Rasul Douglas
+36,36,Packers,2021-12-12,CHI,Win,45,30,2,38,pass,Davante Adams
+37,37,Packers,2021-12-12,CHI,Win,45,30,3,3,rush,Aaron Jones
+38,38,Packers,2021-12-12,CHI,Win,45,30,3,23,pass,Aaron Jones
+39,39,Packers,2021-12-12,CHI,Win,45,30,4,3,pass,Davante Adams
+40,40,Packers,2021-12-19,BAL,Win,31,30,2,2,rush,AJ Dillon
+41,41,Packers,2021-12-19,BAL,Win,31,30,2,3,pass,Davante Adams
+42,42,Packers,2021-12-19,BAL,Win,31,30,3,9,pass,Aaron Jones
+43,43,Packers,2021-12-19,BAL,Win,31,30,4,11,pass,Marquez Valdes-Scantling
+44,44,Packers,2021-12-25,CLE,Win,24,22,1,11,pass,Allen Lazard
+45,45,Packers,2021-12-25,CLE,Win,24,22,2,9,pass,Davante Adams
+46,46,Packers,2021-12-25,CLE,Win,24,22,2,1,pass,Davante Adams
+47,47,Packers,2022-01-02,MIN,Win,37,10,2,20,pass,Allen Lazard
+48,48,Packers,2022-01-02,MIN,Win,37,10,2,11,pass,Davante Adams
+49,49,Packers,2022-01-02,MIN,Win,37,10,3,4,rush,AJ Dillon
+50,50,Packers,2022-01-02,MIN,Win,37,10,4,7,rush,AJ Dillon
+51,51,Packers,2022-01-09,DET,Loss,30,37,1,1,pass,Allen Lazard
+52,52,Packers,2022-01-09,DET,Loss,30,37,2,29,pass,Allen Lazard
+53,53,Packers,2022-01-09,DET,Loss,30,37,4,1,rush,Patrick Taylor
+54,54,Packers,2022-01-09,DET,Loss,30,37,4,62,pass,Josiah Deguara

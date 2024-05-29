@@ -1,56 +1,56 @@
-,Rank,Team,Date,Opponent,Win/Loss,Score,Quarter,Distance,Type,Detail,Year
-0,1,Falcons,09/12/2021,PHI,Loss, 6-32,1,18,pass,DeVonta Smith,2021
-1,2,Falcons,09/12/2021,PHI,Loss, 6-32,2,9,pass,Dallas Goedert,2021
-2,3,Falcons,09/12/2021,PHI,Loss, 6-32,3,8,rush,Kenneth Gainwell,2021
-3,4,Falcons,09/12/2021,PHI,Loss, 6-32,4,23,pass,Jalen Reagor,2021
-4,5,Falcons,09/19/2021,TAM,Loss, 25-48,1,20,pass,Rob Gronkowski,2021
-5,6,Falcons,09/19/2021,TAM,Loss, 25-48,2,1,pass,Rob Gronkowski,2021
-6,7,Falcons,09/19/2021,TAM,Loss, 25-48,2,3,pass,Mike Evans,2021
-7,8,Falcons,09/19/2021,TAM,Loss, 25-48,3,1,pass,Mike Evans,2021
-8,9,Falcons,09/19/2021,TAM,Loss, 25-48,4,12,pass,Chris Godwin,2021
-9,10,Falcons,09/19/2021,TAM,Loss, 25-48,4,31,interception,Mike Edwards,2021
-10,11,Falcons,09/19/2021,TAM,Loss, 25-48,4,15,interception,Mike Edwards,2021
-11,12,Falcons,09/26/2021,NYG,Win, 17-14,4,1,rush,Saquon Barkley,2021
-12,13,Falcons,10/03/2021,WAS,Loss, 30-34,2,33,pass,Terry McLaurin,2021
-13,14,Falcons,10/03/2021,WAS,Loss, 30-34,2,2,rush,Antonio Gibson,2021
-14,15,Falcons,10/03/2021,WAS,Loss, 30-34,3,101,kickoff,DeAndre Carter,2021
-15,16,Falcons,10/03/2021,WAS,Loss, 30-34,4,17,pass,Terry McLaurin,2021
-16,17,Falcons,10/03/2021,WAS,Loss, 30-34,4,30,pass,J.D. McKissic,2021
-17,18,Falcons,10/10/2021,NYJ,Win, 27-20,3,1,rush,Ty Johnson,2021
-18,19,Falcons,10/10/2021,NYJ,Win, 27-20,4,2,rush,Michael Carter,2021
-19,20,Falcons,10/24/2021,MIA,Win, 30-28,1,10,pass,Isaiah Ford,2021
-20,21,Falcons,10/24/2021,MIA,Win, 30-28,3,6,pass,Mike Gesicki,2021
-21,22,Falcons,10/24/2021,MIA,Win, 30-28,4,7,pass,Myles Gaskin,2021
-22,23,Falcons,10/24/2021,MIA,Win, 30-28,4,4,pass,Mack Hollins,2021
-23,24,Falcons,10/31/2021,CAR,Loss, 13-19,4,6,rush,Chuba Hubbard,2021
-24,25,Falcons,11/07/2021,NOR,Win, 27-25,4,5,pass,Marquez Callaway,2021
-25,26,Falcons,11/07/2021,NOR,Win, 27-25,4,2,rush,Alvin Kamara,2021
-26,27,Falcons,11/07/2021,NOR,Win, 27-25,4,8,pass,Kenny Stills,2021
-27,28,Falcons,11/14/2021,DAL,Loss, 3-43,1,13,pass,CeeDee Lamb,2021
-28,29,Falcons,11/14/2021,DAL,Loss, 3-43,2,1,rush,Ezekiel Elliott,2021
-29,30,Falcons,11/14/2021,DAL,Loss, 3-43,2,2,rush,Ezekiel Elliott,2021
-30,31,Falcons,11/14/2021,DAL,Loss, 3-43,2,9,pass,CeeDee Lamb,2021
-31,32,Falcons,11/14/2021,DAL,Loss, 3-43,2,1,blocked punt,Nahshon Wright,2021
-32,33,Falcons,11/14/2021,DAL,Loss, 3-43,3,4,rush,Dak Prescott,2021
-33,34,Falcons,11/18/2021,NWE,Loss, 0-25,2,19,pass,Nelson Agholor,2021
-34,35,Falcons,11/18/2021,NWE,Loss, 0-25,4,35,interception,Kyle Van Noy,2021
-35,36,Falcons,11/28/2021,JAX,Win, 21-14,3,7,pass,Tavon Austin,2021
-36,37,Falcons,12/05/2021,TAM,Loss, 17-30,1,3,pass,Leonard Fournette,2021
-37,38,Falcons,12/05/2021,TAM,Loss, 17-30,1,3,pass,Cameron Brate,2021
-38,39,Falcons,12/05/2021,TAM,Loss, 17-30,2,27,pass,Rob Gronkowski,2021
-39,40,Falcons,12/05/2021,TAM,Loss, 17-30,3,11,pass,Rob Gronkowski,2021
-40,41,Falcons,12/12/2021,CAR,Win, 29-21,1,12,rush,Cam Newton,2021
-41,42,Falcons,12/12/2021,CAR,Win, 29-21,3,17,rush,Chuba Hubbard,2021
-42,43,Falcons,12/12/2021,CAR,Win, 29-21,4,5,pass,Robbie Chosen,2021
-43,44,Falcons,12/19/2021,SFO,Loss, 13-31,2,6,rush,Kyle Juszczyk,2021
-44,45,Falcons,12/19/2021,SFO,Loss, 13-31,2,10,rush,Deebo Samuel,2021
-45,46,Falcons,12/19/2021,SFO,Loss, 13-31,3,5,rush,Jeff Wilson,2021
-46,47,Falcons,12/19/2021,SFO,Loss, 13-31,3,4,pass,Jauan Jennings,2021
-47,48,Falcons,12/26/2021,DET,Win, 20-16,2,20,pass,Amon-Ra St. Brown,2021
-48,49,Falcons,01/02/2022,BUF,Loss, 15-29,1,1,rush,Josh Allen,2021
-49,50,Falcons,01/02/2022,BUF,Loss, 15-29,1,4,rush,Josh Allen,2021
-50,51,Falcons,01/02/2022,BUF,Loss, 15-29,3,6,rush,Devin Singletary,2021
-51,52,Falcons,01/02/2022,BUF,Loss, 15-29,4,4,rush,Devin Singletary,2021
-52,53,Falcons,01/09/2022,NOR,Loss, 20-30,1,18,pass,Adam Trautman,2021
-53,54,Falcons,01/09/2022,NOR,Loss, 20-30,2,13,pass,Tre'Quan Smith,2021
-54,55,Falcons,01/09/2022,NOR,Loss, 20-30,2,5,pass,Juwan Johnson,2021
+,Rank,Team,Date,Opponent,Win/Loss,Home_Score,Opponenet_Score,Quarter,Distance,Type,Detail
+1,1,Falcons,2021-09-12,PHI,Loss,6,32,1,18,pass,DeVonta Smith
+2,2,Falcons,2021-09-12,PHI,Loss,6,32,2,9,pass,Dallas Goedert
+3,3,Falcons,2021-09-12,PHI,Loss,6,32,3,8,rush,Kenneth Gainwell
+4,4,Falcons,2021-09-12,PHI,Loss,6,32,4,23,pass,Jalen Reagor
+5,5,Falcons,2021-09-19,TAM,Loss,25,48,1,20,pass,Rob Gronkowski
+6,6,Falcons,2021-09-19,TAM,Loss,25,48,2,1,pass,Rob Gronkowski
+7,7,Falcons,2021-09-19,TAM,Loss,25,48,2,3,pass,Mike Evans
+8,8,Falcons,2021-09-19,TAM,Loss,25,48,3,1,pass,Mike Evans
+9,9,Falcons,2021-09-19,TAM,Loss,25,48,4,12,pass,Chris Godwin
+10,10,Falcons,2021-09-19,TAM,Loss,25,48,4,31,interception,Mike Edwards
+11,11,Falcons,2021-09-19,TAM,Loss,25,48,4,15,interception,Mike Edwards
+12,12,Falcons,2021-09-26,NYG,Win,17,14,4,1,rush,Saquon Barkley
+13,13,Falcons,2021-10-03,WAS,Loss,30,34,2,33,pass,Terry McLaurin
+14,14,Falcons,2021-10-03,WAS,Loss,30,34,2,2,rush,Antonio Gibson
+15,15,Falcons,2021-10-03,WAS,Loss,30,34,3,101,kickoff,DeAndre Carter
+16,16,Falcons,2021-10-03,WAS,Loss,30,34,4,17,pass,Terry McLaurin
+17,17,Falcons,2021-10-03,WAS,Loss,30,34,4,30,pass,J.D. McKissic
+18,18,Falcons,2021-10-10,NYJ,Win,27,20,3,1,rush,Ty Johnson
+19,19,Falcons,2021-10-10,NYJ,Win,27,20,4,2,rush,Michael Carter
+20,20,Falcons,2021-10-24,MIA,Win,30,28,1,10,pass,Isaiah Ford
+21,21,Falcons,2021-10-24,MIA,Win,30,28,3,6,pass,Mike Gesicki
+22,22,Falcons,2021-10-24,MIA,Win,30,28,4,7,pass,Myles Gaskin
+23,23,Falcons,2021-10-24,MIA,Win,30,28,4,4,pass,Mack Hollins
+24,24,Falcons,2021-10-31,CAR,Loss,13,19,4,6,rush,Chuba Hubbard
+25,25,Falcons,2021-11-07,NOR,Win,27,25,4,5,pass,Marquez Callaway
+26,26,Falcons,2021-11-07,NOR,Win,27,25,4,2,rush,Alvin Kamara
+27,27,Falcons,2021-11-07,NOR,Win,27,25,4,8,pass,Kenny Stills
+28,28,Falcons,2021-11-14,DAL,Loss,3,43,1,13,pass,CeeDee Lamb
+29,29,Falcons,2021-11-14,DAL,Loss,3,43,2,1,rush,Ezekiel Elliott
+30,30,Falcons,2021-11-14,DAL,Loss,3,43,2,2,rush,Ezekiel Elliott
+31,31,Falcons,2021-11-14,DAL,Loss,3,43,2,9,pass,CeeDee Lamb
+32,32,Falcons,2021-11-14,DAL,Loss,3,43,2,1,blocked punt,Nahshon Wright
+33,33,Falcons,2021-11-14,DAL,Loss,3,43,3,4,rush,Dak Prescott
+34,34,Falcons,2021-11-18,NWE,Loss,0,25,2,19,pass,Nelson Agholor
+35,35,Falcons,2021-11-18,NWE,Loss,0,25,4,35,interception,Kyle Van Noy
+36,36,Falcons,2021-11-28,JAX,Win,21,14,3,7,pass,Tavon Austin
+37,37,Falcons,2021-12-05,TAM,Loss,17,30,1,3,pass,Leonard Fournette
+38,38,Falcons,2021-12-05,TAM,Loss,17,30,1,3,pass,Cameron Brate
+39,39,Falcons,2021-12-05,TAM,Loss,17,30,2,27,pass,Rob Gronkowski
+40,40,Falcons,2021-12-05,TAM,Loss,17,30,3,11,pass,Rob Gronkowski
+41,41,Falcons,2021-12-12,CAR,Win,29,21,1,12,rush,Cam Newton
+42,42,Falcons,2021-12-12,CAR,Win,29,21,3,17,rush,Chuba Hubbard
+43,43,Falcons,2021-12-12,CAR,Win,29,21,4,5,pass,Robbie Chosen
+44,44,Falcons,2021-12-19,SFO,Loss,13,31,2,6,rush,Kyle Juszczyk
+45,45,Falcons,2021-12-19,SFO,Loss,13,31,2,10,rush,Deebo Samuel
+46,46,Falcons,2021-12-19,SFO,Loss,13,31,3,5,rush,Jeff Wilson
+47,47,Falcons,2021-12-19,SFO,Loss,13,31,3,4,pass,Jauan Jennings
+48,48,Falcons,2021-12-26,DET,Win,20,16,2,20,pass,Amon-Ra St. Brown
+49,49,Falcons,2022-01-02,BUF,Loss,15,29,1,1,rush,Josh Allen
+50,50,Falcons,2022-01-02,BUF,Loss,15,29,1,4,rush,Josh Allen
+51,51,Falcons,2022-01-02,BUF,Loss,15,29,3,6,rush,Devin Singletary
+52,52,Falcons,2022-01-02,BUF,Loss,15,29,4,4,rush,Devin Singletary
+53,53,Falcons,2022-01-09,NOR,Loss,20,30,1,18,pass,Adam Trautman
+54,54,Falcons,2022-01-09,NOR,Loss,20,30,2,13,pass,Tre'Quan Smith
+55,55,Falcons,2022-01-09,NOR,Loss,20,30,2,5,pass,Juwan Johnson

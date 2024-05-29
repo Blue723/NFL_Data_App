@@ -1,9 +1,9 @@
-,No.,Team,Player,Age,Position,Games Played,Games Started,Punts Returned,Punts Return Yardage,Punts Returned for Touchdown,Longest Punt Return,Yards per Punt Return,Kickoff Returns,Yardage for Kickoffs Returned,Kickoffs Returned for a Touchdown,Longest Kickoff Return,Yards per Kickoff Return,All-purpose Yards,Year
-0,1,Buccaneers,Jaelon Darden,22,WR,9,0,19,142,0,43,7.5,18,359,0,34,19.9,555,2021
-1,85,Buccaneers,Jaydon Mickens,27,WR,5,0,8,54,0,12,6.8,5,129,0,41,25.8,183,2021
-2,38,Buccaneers,Kenjon Barner,32,RB,3,0,6,47,0,20,7.8,0,0,0,0,,47,2021
-3,25,Buccaneers,Giovani Bernard,30,RB,12,0,2,7,0,6,3.5,3,53,0,19,17.7,241,2021
-4,15,Buccaneers,Cyril Grayson,28,WR,5,3,0,0,0,0,,1,7,0,7,7.0,233,2021
-5,18,Buccaneers,Tyler Johnson,23,WR,17,3,0,0,0,0,,1,10,0,10,10.0,370,2021
-6,10,Buccaneers,Scott Miller,24,WR,9,0,0,0,0,0,,1,19,0,19,19.0,100,2021
-7,21,Buccaneers,Ke'Shawn Vaughn,24,RB,12,1,0,0,0,0,,1,15,0,15,15.0,221,2021
+,No.,Player,Age,Position,Games Played,Games Started,Punts Returned,Punts Return Yardage,Punts Returned for Touchdown,Longest Punt Return,Yards per Punt Return,Kickoff Returns,Yardage for Kickoffs Returned,Kickoffs Returned for a Touchdown,Longest Kickoff Return,Yards per Kickoff Return,All-purpose Yards,Team,Year
+1,1,Jaelon Darden,22,WR,9,0,19,142,0,43,7.5,18,359,0,34,19.9,555,Buccaneers,2021
+85,85,Jaydon Mickens,27,WR,5,0,8,54,0,12,6.8,5,129,0,41,25.8,183,Buccaneers,2021
+38,38,Kenjon Barner,32,RB,3,0,6,47,0,20,7.8,0,0,0,0,0.0,47,Buccaneers,2021
+25,25,Giovani Bernard,30,RB,12,0,2,7,0,6,3.5,3,53,0,19,17.7,241,Buccaneers,2021
+15,15,Cyril Grayson,28,WR,5,3,0,0,0,0,0.0,1,7,0,7,7.0,233,Buccaneers,2021
+18,18,Tyler Johnson,23,WR,17,3,0,0,0,0,0.0,1,10,0,10,10.0,370,Buccaneers,2021
+10,10,Scott Miller,24,WR,9,0,0,0,0,0,0.0,1,19,0,19,19.0,100,Buccaneers,2021
+21,21,Ke'Shawn Vaughn,24,RB,12,1,0,0,0,0,0.0,1,15,0,15,15.0,221,Buccaneers,2021

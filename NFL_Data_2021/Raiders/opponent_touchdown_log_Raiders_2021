@@ -1,52 +1,52 @@
-,Rank,Team,Date,Opponent,Win/Loss,Score,Quarter,Distance,Type,Detail,Year
-0,1,Raiders,09/13/2021,BAL,Win, 33-27,1,35,rush,Ty'Son Williams,2021
-1,2,Raiders,09/13/2021,BAL,Win, 33-27,2,10,pass,Marquise Brown,2021
-2,3,Raiders,09/13/2021,BAL,Win, 33-27,4,8,rush,Latavius Murray,2021
-3,4,Raiders,09/19/2021,PIT,Win, 26-17,2,3,rush,JuJu Smith-Schuster,2021
-4,5,Raiders,09/19/2021,PIT,Win, 26-17,4,25,pass,Najee Harris,2021
-5,6,Raiders,09/26/2021,MIA,Win, 31-28,1,85,interception,Elandon Roberts,2021
-6,7,Raiders,09/26/2021,MIA,Win, 31-28,1,24,rush,Malcolm Brown,2021
-7,8,Raiders,09/26/2021,MIA,Win, 31-28,4,1,rush,Jacoby Brissett,2021
-8,9,Raiders,10/04/2021,LAC,Loss, 14-28,1,4,pass,Donald Parham,2021
-9,10,Raiders,10/04/2021,LAC,Loss, 14-28,2,10,pass,Jared Cook,2021
-10,11,Raiders,10/04/2021,LAC,Loss, 14-28,2,14,pass,Austin Ekeler,2021
-11,12,Raiders,10/04/2021,LAC,Loss, 14-28,4,11,rush,Austin Ekeler,2021
-12,13,Raiders,10/10/2021,CHI,Loss, 9-20,2,2,pass,Jesper Horsted,2021
-13,14,Raiders,10/10/2021,CHI,Loss, 9-20,2,4,rush,Damien Williams,2021
-14,15,Raiders,10/17/2021,DEN,Win, 34-24,1,23,pass,Tim Patrick,2021
-15,16,Raiders,10/17/2021,DEN,Win, 34-24,4,12,pass,Courtland Sutton,2021
-16,17,Raiders,10/17/2021,DEN,Win, 34-24,4,4,pass,Noah Fant,2021
-17,18,Raiders,10/24/2021,PHI,Win, 33-22,1,13,pass,Kenneth Gainwell,2021
-18,19,Raiders,10/24/2021,PHI,Win, 33-22,4,1,rush,Boston Scott,2021
-19,20,Raiders,10/24/2021,PHI,Win, 33-22,4,17,pass,Jalen Reagor,2021
-20,21,Raiders,11/07/2021,NYG,Loss, 16-23,1,30,pass,Evan Engram,2021
-21,22,Raiders,11/07/2021,NYG,Loss, 16-23,3,41,interception,Xavier McKinney,2021
-22,23,Raiders,11/14/2021,KAN,Loss, 14-41,1,8,pass,Tyreek Hill,2021
-23,24,Raiders,11/14/2021,KAN,Loss, 14-41,2,1,pass,Tyreek Hill,2021
-24,25,Raiders,11/14/2021,KAN,Loss, 14-41,3,1,pass,Noah Gray,2021
-25,26,Raiders,11/14/2021,KAN,Loss, 14-41,4,38,pass,Darrel Williams,2021
-26,27,Raiders,11/14/2021,KAN,Loss, 14-41,4,22,pass,Byron Pringle,2021
-27,28,Raiders,11/21/2021,CIN,Loss, 13-32,2,11,rush,Joe Mixon,2021
-28,29,Raiders,11/21/2021,CIN,Loss, 13-32,4,6,pass,Ja'Marr Chase,2021
-29,30,Raiders,11/21/2021,CIN,Loss, 13-32,4,20,rush,Joe Mixon,2021
-30,31,Raiders,11/25/2021,DAL,Win, 36-33,1,10,pass,Sean McKeon,2021
-31,32,Raiders,11/25/2021,DAL,Win, 36-33,2,1,rush,Ezekiel Elliott,2021
-32,33,Raiders,11/25/2021,DAL,Win, 36-33,3,100,kickoff,Tony Pollard,2021
-33,34,Raiders,11/25/2021,DAL,Win, 36-33,4,32,pass,Dalton Schultz,2021
-34,35,Raiders,12/05/2021,WAS,Loss, 15-17,1,7,pass,Logan Thomas,2021
-35,36,Raiders,12/05/2021,WAS,Loss, 15-17,4,4,pass,Antonio Gibson,2021
-36,37,Raiders,12/12/2021,KAN,Loss, 9-48,1,23,fumble,Mike Hughes,2021
-37,38,Raiders,12/12/2021,KAN,Loss, 9-48,1,23,pass,Darrel Williams,2021
-38,39,Raiders,12/12/2021,KAN,Loss, 9-48,2,5,rush,Clyde Edwards-Helaire,2021
-39,40,Raiders,12/12/2021,KAN,Loss, 9-48,2,1,pass,Josh Gordon,2021
-40,41,Raiders,12/12/2021,KAN,Loss, 9-48,2,6,rush,Clyde Edwards-Helaire,2021
-41,42,Raiders,12/12/2021,KAN,Loss, 9-48,4,51,rush,Derrick Gore,2021
-42,43,Raiders,12/20/2021,CLE,Win, 16-14,3,4,rush,Nick Chubb,2021
-43,44,Raiders,12/20/2021,CLE,Win, 16-14,4,6,pass,Harrison Bryant,2021
-44,45,Raiders,12/26/2021,DEN,Win, 17-13,2,1,rush,Javonte Williams,2021
-45,46,Raiders,01/02/2022,IND,Win, 23-20,2,1,rush,Jonathan Taylor,2021
-46,47,Raiders,01/02/2022,IND,Win, 23-20,3,45,pass,T.Y. Hilton,2021
-47,48,Raiders,01/09/2022,LAC,Win, 35-32,2,14,rush,Austin Ekeler,2021
-48,49,Raiders,01/09/2022,LAC,Win, 35-32,2,14,pass,Austin Ekeler,2021
-49,50,Raiders,01/09/2022,LAC,Win, 35-32,4,23,pass,Josh Palmer,2021
-50,51,Raiders,01/09/2022,LAC,Win, 35-32,4,12,pass,Mike Williams,2021
+,Rank,Team,Date,Opponent,Win/Loss,Home_Score,Opponenet_Score,Quarter,Distance,Type,Detail
+1,1,Raiders,2021-09-13,BAL,Win,33,27,1,35,rush,Ty'Son Williams
+2,2,Raiders,2021-09-13,BAL,Win,33,27,2,10,pass,Marquise Brown
+3,3,Raiders,2021-09-13,BAL,Win,33,27,4,8,rush,Latavius Murray
+4,4,Raiders,2021-09-19,PIT,Win,26,17,2,3,rush,JuJu Smith-Schuster
+5,5,Raiders,2021-09-19,PIT,Win,26,17,4,25,pass,Najee Harris
+6,6,Raiders,2021-09-26,MIA,Win,31,28,1,85,interception,Elandon Roberts
+7,7,Raiders,2021-09-26,MIA,Win,31,28,1,24,rush,Malcolm Brown
+8,8,Raiders,2021-09-26,MIA,Win,31,28,4,1,rush,Jacoby Brissett
+9,9,Raiders,2021-10-04,LAC,Loss,14,28,1,4,pass,Donald Parham
+10,10,Raiders,2021-10-04,LAC,Loss,14,28,2,10,pass,Jared Cook
+11,11,Raiders,2021-10-04,LAC,Loss,14,28,2,14,pass,Austin Ekeler
+12,12,Raiders,2021-10-04,LAC,Loss,14,28,4,11,rush,Austin Ekeler
+13,13,Raiders,2021-10-10,CHI,Loss,9,20,2,2,pass,Jesper Horsted
+14,14,Raiders,2021-10-10,CHI,Loss,9,20,2,4,rush,Damien Williams
+15,15,Raiders,2021-10-17,DEN,Win,34,24,1,23,pass,Tim Patrick
+16,16,Raiders,2021-10-17,DEN,Win,34,24,4,12,pass,Courtland Sutton
+17,17,Raiders,2021-10-17,DEN,Win,34,24,4,4,pass,Noah Fant
+18,18,Raiders,2021-10-24,PHI,Win,33,22,1,13,pass,Kenneth Gainwell
+19,19,Raiders,2021-10-24,PHI,Win,33,22,4,1,rush,Boston Scott
+20,20,Raiders,2021-10-24,PHI,Win,33,22,4,17,pass,Jalen Reagor
+21,21,Raiders,2021-11-07,NYG,Loss,16,23,1,30,pass,Evan Engram
+22,22,Raiders,2021-11-07,NYG,Loss,16,23,3,41,interception,Xavier McKinney
+23,23,Raiders,2021-11-14,KAN,Loss,14,41,1,8,pass,Tyreek Hill
+24,24,Raiders,2021-11-14,KAN,Loss,14,41,2,1,pass,Tyreek Hill
+25,25,Raiders,2021-11-14,KAN,Loss,14,41,3,1,pass,Noah Gray
+26,26,Raiders,2021-11-14,KAN,Loss,14,41,4,38,pass,Darrel Williams
+27,27,Raiders,2021-11-14,KAN,Loss,14,41,4,22,pass,Byron Pringle
+28,28,Raiders,2021-11-21,CIN,Loss,13,32,2,11,rush,Joe Mixon
+29,29,Raiders,2021-11-21,CIN,Loss,13,32,4,6,pass,Ja'Marr Chase
+30,30,Raiders,2021-11-21,CIN,Loss,13,32,4,20,rush,Joe Mixon
+31,31,Raiders,2021-11-25,DAL,Win,36,33,1,10,pass,Sean McKeon
+32,32,Raiders,2021-11-25,DAL,Win,36,33,2,1,rush,Ezekiel Elliott
+33,33,Raiders,2021-11-25,DAL,Win,36,33,3,100,kickoff,Tony Pollard
+34,34,Raiders,2021-11-25,DAL,Win,36,33,4,32,pass,Dalton Schultz
+35,35,Raiders,2021-12-05,WAS,Loss,15,17,1,7,pass,Logan Thomas
+36,36,Raiders,2021-12-05,WAS,Loss,15,17,4,4,pass,Antonio Gibson
+37,37,Raiders,2021-12-12,KAN,Loss,9,48,1,23,fumble,Mike Hughes
+38,38,Raiders,2021-12-12,KAN,Loss,9,48,1,23,pass,Darrel Williams
+39,39,Raiders,2021-12-12,KAN,Loss,9,48,2,5,rush,Clyde Edwards-Helaire
+40,40,Raiders,2021-12-12,KAN,Loss,9,48,2,1,pass,Josh Gordon
+41,41,Raiders,2021-12-12,KAN,Loss,9,48,2,6,rush,Clyde Edwards-Helaire
+42,42,Raiders,2021-12-12,KAN,Loss,9,48,4,51,rush,Derrick Gore
+43,43,Raiders,2021-12-20,CLE,Win,16,14,3,4,rush,Nick Chubb
+44,44,Raiders,2021-12-20,CLE,Win,16,14,4,6,pass,Harrison Bryant
+45,45,Raiders,2021-12-26,DEN,Win,17,13,2,1,rush,Javonte Williams
+46,46,Raiders,2022-01-02,IND,Win,23,20,2,1,rush,Jonathan Taylor
+47,47,Raiders,2022-01-02,IND,Win,23,20,3,45,pass,T.Y. Hilton
+48,48,Raiders,2022-01-09,LAC,Win,35,32,2,14,rush,Austin Ekeler
+49,49,Raiders,2022-01-09,LAC,Win,35,32,2,14,pass,Austin Ekeler
+50,50,Raiders,2022-01-09,LAC,Win,35,32,4,23,pass,Josh Palmer
+51,51,Raiders,2022-01-09,LAC,Win,35,32,4,12,pass,Mike Williams

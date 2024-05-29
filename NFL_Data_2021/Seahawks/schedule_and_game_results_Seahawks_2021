@@ -1,19 +1,18 @@
-,Week,Team,Day,Date,Time,Win/Loss,Overtime,Team Record,Home/Away,Opponent,Points Scored,Points Allowed,Offense 1st Down,Total Yards Gained of Offense,Total yards Gained by Passing,Total Yards Gained by Rushing,Offense Turnovers,Defense 1st Down,Total Yards Allowed by Defense,Total Passing Yards Allowed by Defense,Total Rushing Yards Allowed by Defense,Defense Turnovers,Offense,Defense,Sp. Tms,Year
-0,0,Seahawks,Sun,September 12,,W,0,1-0,away,Indianapolis Colts,28,16,18,381,241,140,1,23,336,223,113,1,14.35,-3.07,-0.51,2021
-1,1,1,1,1,1.0,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1.0,1.0,1.0,1
-2,2,Seahawks,Sun,September 26,,L,0,1-2,away,Minnesota Vikings,17,30,21,389,283,106,0,28,453,313,140,0,14.86,-20.96,-1.13,2021
-3,3,Seahawks,Sun,October 3,,W,0,2-2,away,San Francisco 49ers,28,21,14,234,129,105,0,23,457,314,143,2,2.2,-8.61,14.31,2021
-4,4,Seahawks,Thu,October 7,,L,0,2-3,home,Los Angeles Rams,17,26,22,354,262,92,2,24,476,358,118,1,6.71,-13.76,0.05,2021
-5,5,1,1,1,1.0,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1.0,1.0,1.0,1
-6,6,Seahawks,Mon,October 25,,L,0,2-5,home,New Orleans Saints,10,13,14,219,129,90,0,21,304,210,94,1,-6.87,3.46,-5.19,2021
-7,7,Seahawks,Sun,October 31,,W,0,3-5,home,Jacksonville Jaguars,31,7,17,229,160,69,0,20,309,227,82,1,7.46,6.73,7.41,2021
-8,8,Seahawks,,,,,0,,home,<strong>Bye Week</strong>,0,0,0,0,0,0,0,0,0,0,0,0,,,,2021
-9,9,Seahawks,Sun,November 14,,L,0,3-6,away,Green Bay Packers,0,17,15,208,133,75,2,22,393,287,106,1,-11.44,-8.95,5.23,2021
-10,10,Seahawks,Sun,November 21,,L,0,3-7,home,Arizona Cardinals,13,23,16,266,180,86,0,29,413,318,95,0,-1.84,-17.7,8.6,2021
-11,11,Seahawks,Mon,November 29,,L,0,3-8,away,Washington Football Team,15,17,10,267,233,34,1,27,371,219,152,1,-2.58,-6.29,2.42,2021
-12,12,Seahawks,Sun,December 5,,W,0,4-8,home,San Francisco 49ers,30,23,21,327,181,146,3,17,365,294,71,3,2.27,0.51,3.44,2021
-13,13,Seahawks,Sun,December 12,,W,0,5-8,away,Houston Texans,33,13,20,453,260,193,0,25,380,317,63,0,21.71,2.6,-9.75,2021
-14,14,Seahawks,Tue,December 21,,L,0,5-9,away,Los Angeles Rams,10,20,13,214,134,80,1,20,332,209,123,1,-8.13,-4.19,3.72,2021
-15,15,Seahawks,Sun,December 26,,L,0,5-10,home,Chicago Bears,24,25,18,331,161,170,0,26,317,229,88,0,8.31,-7.6,-3.95,2021
-16,16,Seahawks,Sun,January 2,,W,0,6-10,home,Detroit Lions,51,29,29,497,232,265,0,20,357,262,95,3,32.32,-3.55,-2.68,2021
-17,17,Seahawks,Sun,January 9,,W,0,7-10,away,Arizona Cardinals,38,30,19,431,229,202,2,20,305,187,118,1,12.83,-0.21,-1.02,2021
+,Week,Day,Date,Time,Win/Loss,Overtime,Team Record,Home/Away,Opponent,Points Scored,Points Allowed,Offense 1st Down,Total Yards Gained of Offense,Total yards Gained by Passing,Total Yards Gained by Rushing,Offense Turnovers,Defense 1st Down,Total Yards Allowed by Defense,Total Passing Yards Allowed by Defense,Total Rushing Yards Allowed by Defense,Defense Turnovers,Offense,Defense,Sp. Tms,Team,Year
+0,1,Sun,2021-09-12,nan,Win,0,1-0,away,Indianapolis Colts,28,16,18,381,241,140,1,23,336,223,113,1,14.35,-3.07,-0.51,Seahawks,2021
+1,2,Sun,2021-09-19,nan,Loss,1,1-1,home,Tennessee Titans,30,33,17,397,320,77,0,33,532,320,212,1,13.29,-17.41,1.06,Seahawks,2021
+2,3,Sun,2021-09-26,nan,Loss,0,1-2,away,Minnesota Vikings,17,30,21,389,283,106,0,28,453,313,140,0,14.86,-20.96,-1.13,Seahawks,2021
+3,4,Sun,2021-10-03,nan,Win,0,2-2,away,San Francisco 49ers,28,21,14,234,129,105,0,23,457,314,143,2,2.2,-8.61,14.31,Seahawks,2021
+4,5,Thu,2021-10-07,nan,Loss,0,2-3,home,Los Angeles Rams,17,26,22,354,262,92,2,24,476,358,118,1,6.71,-13.76,0.05,Seahawks,2021
+5,6,Sun,2021-10-17,nan,Loss,1,2-4,away,Pittsburgh Steelers,20,23,18,309,165,144,1,22,345,226,119,1,-3.89,1.52,-1.09,Seahawks,2021
+6,7,Mon,2021-10-25,nan,Loss,0,2-5,home,New Orleans Saints,10,13,14,219,129,90,0,21,304,210,94,1,-6.87,3.46,-5.19,Seahawks,2021
+7,8,Sun,2021-10-31,nan,Win,0,3-5,home,Jacksonville Jaguars,31,7,17,229,160,69,0,20,309,227,82,1,7.46,6.73,7.41,Seahawks,2021
+8,10,Sun,2021-11-14,nan,Loss,0,3-6,away,Green Bay Packers,0,17,15,208,133,75,2,22,393,287,106,1,-11.44,-8.95,5.23,Seahawks,2021
+9,11,Sun,2021-11-21,nan,Loss,0,3-7,home,Arizona Cardinals,13,23,16,266,180,86,0,29,413,318,95,0,-1.84,-17.7,8.6,Seahawks,2021
+10,12,Mon,2021-11-29,nan,Loss,0,3-8,away,Washington Football Team,15,17,10,267,233,34,1,27,371,219,152,1,-2.58,-6.29,2.42,Seahawks,2021
+11,13,Sun,2021-12-05,nan,Win,0,4-8,home,San Francisco 49ers,30,23,21,327,181,146,3,17,365,294,71,3,2.27,0.51,3.44,Seahawks,2021
+12,14,Sun,2021-12-12,nan,Win,0,5-8,away,Houston Texans,33,13,20,453,260,193,0,25,380,317,63,0,21.71,2.6,-9.75,Seahawks,2021
+13,15,Tue,2021-12-21,nan,Loss,0,5-9,away,Los Angeles Rams,10,20,13,214,134,80,1,20,332,209,123,1,-8.13,-4.19,3.72,Seahawks,2021
+14,16,Sun,2021-12-26,nan,Loss,0,5-10,home,Chicago Bears,24,25,18,331,161,170,0,26,317,229,88,0,8.31,-7.6,-3.95,Seahawks,2021
+15,17,Sun,2022-01-02,nan,Win,0,6-10,home,Detroit Lions,51,29,29,497,232,265,0,20,357,262,95,3,32.32,-3.55,-2.68,Seahawks,2021
+16,18,Sun,2022-01-09,nan,Win,0,7-10,away,Arizona Cardinals,38,30,19,431,229,202,2,20,305,187,118,1,12.83,-0.21,-1.02,Seahawks,2021

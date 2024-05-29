@@ -1,18 +1,18 @@
-,No.,Team,Player,Age,Pos,Games Played,Games Started,Rush TD,Reception TD,Punt Return TD,Kick Return TD,Fumble Return TD,Interception TD,Other TD,All Touchdown Scored,2-Point Conversions Made,Two-Point Conversions Attempted,Defensive Two-Point Conversions,Extra Points Made,Extra Points Allowed,Field Goals Made,Field Goals Attempted,Safeties Scored by Player/Team,Total Points Scored by all Means,Poins per Game,Year
-0,6,Lions,Riley Patterson,22,K,7,0,0,0,0,0,0,0,0,0,0,0,0,16,16,13,14,,55,7.9,2021
-1,32,Lions,D'Andre Swift,22,RB,13,4,5,2,0,0,0,0,0,7,0,0,0,0,0,0,0,,42,3.2,2021
-2,14,Lions,Amon-Ra St. Brown,22,WR,17,9,1,5,0,0,0,0,0,6,2,0,0,0,0,0,0,,40,2.4,2021
-3,4,Lions,Austin Seibert,25,K,6,0,0,0,0,0,0,0,0,0,0,0,0,5,5,10,12,,35,5.8,2021
-4,88,Lions,T.J. Hockenson,24,TE,12,12,0,4,0,0,0,0,0,4,1,0,0,0,0,0,0,,26,2.2,2021
-5,11,Lions,Kalif Raymond,27,WR,16,14,0,4,0,0,0,0,0,4,0,0,0,0,0,0,0,,24,1.5,2021
-6,30,Lions,Jamaal Williams,26,RB,13,11,3,0,0,0,0,0,0,3,0,0,0,0,0,0,0,,18,1.4,2021
-7,87,Lions,Quintez Cephus,23,WR,5,3,0,2,0,0,0,0,0,2,1,0,0,0,0,0,0,,14,2.8,2021
-8,28,Lions,Jermar Jefferson,21,RB,7,0,2,0,0,0,0,0,0,2,0,0,0,0,0,0,0,,12,1.7,2021
-9,8,Lions,Josh Reynolds,26,WR,7,5,0,2,0,0,0,0,0,2,0,0,0,0,0,0,0,,12,1.7,2021
-10,89,Lions,Brock Wright,23,TE,10,5,0,2,0,0,0,0,0,2,0,0,0,0,0,0,0,,12,1.2,2021
-11,5,Lions,Ryan Santoso,26,P,3,0,0,0,0,0,0,0,0,0,0,0,0,5,6,2,3,,11,3.7,2021
-12,45,Lions,Jason Cabinda,25,LB,14,4,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,,6,0.4,2021
-13,68,Lions,Taylor Decker,28,LT,9,9,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,,6,0.7,2021
-14,35,Lions,Godwin Igwebuike,27,DB,17,1,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,,6,0.4,2021
-15,5,Lions,Aldrick Rosas,27,K,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,,4,4.0,2021
-16,18,Lions,KhaDarel Hodge,26,WR,16,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,,2,0.1,2021
+,No.,Player,Age,Pos,Games Played,Games Started,Rush TD,Reception TD,Punt Return TD,Kick Return TD,Fumble Return TD,Interception TD,Other TD,All Touchdown Scored,2-Point Conversions Made,Two-Point Conversions Attempted,Defensive Two-Point Conversions,Extra Points Made,Extra Points Allowed,Field Goals Made,Field Goals Attempted,Safeties Scored by Player/Team,Total Points Scored by all Means,Poins per Game,Team,Year
+6,6,Riley Patterson,22,K,7,0,0,0,0,0,0,0,0,0,0,0,0,16,16,13,14,0,55,7.9,Lions,2021
+32,32,D'Andre Swift,22,RB,13,4,5,2,0,0,0,0,0,7,0,0,0,0,0,0,0,0,42,3.2,Lions,2021
+14,14,Amon-Ra St. Brown,22,WR,17,9,1,5,0,0,0,0,0,6,2,0,0,0,0,0,0,0,40,2.4,Lions,2021
+4,4,Austin Seibert,25,K,6,0,0,0,0,0,0,0,0,0,0,0,0,5,5,10,12,0,35,5.8,Lions,2021
+88,88,T.J. Hockenson,24,TE,12,12,0,4,0,0,0,0,0,4,1,0,0,0,0,0,0,0,26,2.2,Lions,2021
+11,11,Kalif Raymond,27,WR,16,14,0,4,0,0,0,0,0,4,0,0,0,0,0,0,0,0,24,1.5,Lions,2021
+30,30,Jamaal Williams,26,RB,13,11,3,0,0,0,0,0,0,3,0,0,0,0,0,0,0,0,18,1.4,Lions,2021
+87,87,Quintez Cephus,23,WR,5,3,0,2,0,0,0,0,0,2,1,0,0,0,0,0,0,0,14,2.8,Lions,2021
+28,28,Jermar Jefferson,21,RB,7,0,2,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,12,1.7,Lions,2021
+8,8,Josh Reynolds,26,WR,7,5,0,2,0,0,0,0,0,2,0,0,0,0,0,0,0,0,12,1.7,Lions,2021
+89,89,Brock Wright,23,TE,10,5,0,2,0,0,0,0,0,2,0,0,0,0,0,0,0,0,12,1.2,Lions,2021
+5,5,Ryan Santoso,26,K,3,0,0,0,0,0,0,0,0,0,0,0,0,5,6,2,3,0,11,3.7,Lions,2021
+45,45,Jason Cabinda,25,LB,14,4,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,6,0.4,Lions,2021
+68,68,Taylor Decker,27,LT,9,9,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,6,0.7,Lions,2021
+35,35,Godwin Igwebuike,27,RB,17,1,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,6,0.4,Lions,2021
+5,5,Aldrick Rosas,27,K,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,0,4,4.0,Lions,2021
+18,18,KhaDarel Hodge,26,WR,16,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,2,0.1,Lions,2021

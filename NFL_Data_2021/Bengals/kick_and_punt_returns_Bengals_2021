@@ -1,10 +1,10 @@
-,No.,Team,Player,Age,Position,Games Played,Games Started,Punts Returned,Punts Return Yardage,Punts Returned for Touchdown,Longest Punt Return,Yards per Punt Return,Kickoff Returns,Yardage for Kickoffs Returned,Kickoffs Returned for a Touchdown,Longest Kickoff Return,Yards per Kickoff Return,All-purpose Yards,Year
-0,23,Bengals,Darius Phillips,26,DB,12,0,25,177,0,17,7.1,8,169,0,32,21.1,346,2021
-1,40,Bengals,Brandon Wilson,27,RB,9,1,0,0,0,0,,13,291,0,44,22.4,291,2021
-2,11,Bengals,Trent Taylor,27,WR,4,0,7,52,0,12,7.4,4,68,0,25,17.0,161,2021
-3,16,Bengals,Trenton Irwin,26,WR,7,0,3,31,0,15,10.3,0,0,0,0,,65,2021
-4,12,Bengals,Pooka Williams,22,RB,1,0,0,0,0,0,,3,52,0,25,17.3,52,2021
-5,25,Bengals,Chris Evans,24,RB,14,1,0,0,0,0,,2,58,0,29,29.0,286,2021
-6,17,Bengals,Stanley Morgan Jr.,25,WR,17,1,0,0,0,0,,2,22,0,18,11.0,36,2021
-7,83,Bengals,Tyler Boyd,27,WR,16,10,1,1,0,1,1.0,0,0,0,0,,851,2021
-8,57,Bengals,Germaine Pratt,25,MLB,15,15,0,0,0,0,,1,2,0,2,2.0,6,2021
+,No.,Player,Age,Position,Games Played,Games Started,Punts Returned,Punts Return Yardage,Punts Returned for Touchdown,Longest Punt Return,Yards per Punt Return,Kickoff Returns,Yardage for Kickoffs Returned,Kickoffs Returned for a Touchdown,Longest Kickoff Return,Yards per Kickoff Return,All-purpose Yards,Team,Year
+23,23,Darius Phillips,26,DB,12,0,25,177,0,17,7.1,8,169,0,32,21.1,346,Bengals,2021
+40,40,Brandon Wilson,27,RB,9,1,0,0,0,0,0.0,13,291,0,44,22.4,291,Bengals,2021
+11,11,Trent Taylor,27,WR,4,0,7,52,0,12,7.4,4,68,0,25,17.0,161,Bengals,2021
+16,16,Trenton Irwin,26,WR,7,0,3,31,0,15,10.3,0,0,0,0,0.0,65,Bengals,2021
+12,12,Pooka Williams,22,RB,1,0,0,0,0,0,0.0,3,52,0,25,17.3,52,Bengals,2021
+25,25,Chris Evans,24,RB,14,1,0,0,0,0,0.0,2,58,0,29,29.0,286,Bengals,2021
+17,17,Stanley Morgan Jr.,25,WR,17,1,0,0,0,0,0.0,2,22,0,18,11.0,36,Bengals,2021
+83,83,Tyler Boyd,27,WR,16,10,1,1,0,1,1.0,0,0,0,0,0.0,851,Bengals,2021
+57,57,Germaine Pratt,25,MLB,15,15,0,0,0,0,0.0,1,2,0,2,2.0,6,Bengals,2021

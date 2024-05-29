@@ -1,49 +1,49 @@
-,Rank,Team,Date,Opponent,Win/Loss,Score,Quarter,Distance,Type,Detail,Year
-0,1,Vikings,09/12/2021,CIN,Loss, 24-27,2,5,pass,Adam Thielen,2021
-1,2,Vikings,09/12/2021,CIN,Loss, 24-27,3,24,pass,Adam Thielen,2021
-2,3,Vikings,09/12/2021,CIN,Loss, 24-27,4,1,rush,Dalvin Cook,2021
-3,4,Vikings,09/19/2021,ARI,Loss, 33-34,1,64,pass,K.J. Osborn,2021
-4,5,Vikings,09/19/2021,ARI,Loss, 33-34,1,7,pass,Adam Thielen,2021
-5,6,Vikings,09/19/2021,ARI,Loss, 33-34,2,14,pass,Justin Jefferson,2021
-6,7,Vikings,09/19/2021,ARI,Loss, 33-34,3,38,interception,Nick Vigil,2021
-7,8,Vikings,09/26/2021,SEA,Win, 30-17,1,7,pass,Tyler Conklin,2021
-8,9,Vikings,09/26/2021,SEA,Win, 30-17,2,15,pass,Adam Thielen,2021
-9,10,Vikings,09/26/2021,SEA,Win, 30-17,2,3,pass,Justin Jefferson,2021
-10,11,Vikings,10/03/2021,CLE,Loss, 7-14,1,12,pass,Justin Jefferson,2021
-11,12,Vikings,10/10/2021,DET,Win, 19-17,2,15,pass,Alexander Mattison,2021
-12,13,Vikings,10/17/2021,CAR,Win, 34-28,2,2,pass,Chris Herndon,2021
-13,14,Vikings,10/17/2021,CAR,Win, 34-28,3,16,rush,Dalvin Cook,2021
-14,15,Vikings,10/17/2021,CAR,Win, 34-28,3,5,pass,Adam Thielen,2021
-15,16,Vikings,10/17/2021,CAR,Win, 34-28,5,27,pass,K.J. Osborn,2021
-16,17,Vikings,10/31/2021,DAL,Loss, 16-20,1,20,pass,Adam Thielen,2021
-17,18,Vikings,11/07/2021,BAL,Loss, 31-34,1,50,pass,Justin Jefferson,2021
-18,19,Vikings,11/07/2021,BAL,Loss, 31-34,2,1,rush,Kirk Cousins,2021
-19,20,Vikings,11/07/2021,BAL,Loss, 31-34,3,98,kickoff,Kene Nwangwu,2021
-20,21,Vikings,11/07/2021,BAL,Loss, 31-34,4,1,pass,Adam Thielen,2021
-21,22,Vikings,11/14/2021,LAC,Win, 27-20,2,5,pass,Tyler Conklin,2021
-22,23,Vikings,11/14/2021,LAC,Win, 27-20,3,1,pass,Tyler Conklin,2021
-23,24,Vikings,11/14/2021,LAC,Win, 27-20,4,1,rush,Dalvin Cook,2021
-24,25,Vikings,11/21/2021,GNB,Win, 34-31,1,1,rush,Dalvin Cook,2021
-25,26,Vikings,11/21/2021,GNB,Win, 34-31,2,10,pass,Adam Thielen,2021
-26,27,Vikings,11/21/2021,GNB,Win, 34-31,3,9,pass,Justin Jefferson,2021
-27,28,Vikings,11/21/2021,GNB,Win, 34-31,4,23,pass,Justin Jefferson,2021
-28,29,Vikings,11/28/2021,SFO,Loss, 26-34,1,2,pass,Adam Thielen,2021
-29,30,Vikings,11/28/2021,SFO,Loss, 26-34,2,20,pass,Adam Thielen,2021
-30,31,Vikings,11/28/2021,SFO,Loss, 26-34,3,6,rush,Alexander Mattison,2021
-31,32,Vikings,11/28/2021,SFO,Loss, 26-34,3,99,kickoff,Kene Nwangwu,2021
-32,33,Vikings,12/05/2021,DET,Loss, 27-29,3,8,rush,Alexander Mattison,2021
-33,34,Vikings,12/05/2021,DET,Loss, 27-29,4,5,pass,K.J. Osborn,2021
-34,35,Vikings,12/05/2021,DET,Loss, 27-29,4,3,pass,Justin Jefferson,2021
-35,36,Vikings,12/09/2021,PIT,Win, 36-28,1,14,pass,Justin Jefferson,2021
-36,37,Vikings,12/09/2021,PIT,Win, 36-28,2,29,rush,Dalvin Cook,2021
-37,38,Vikings,12/09/2021,PIT,Win, 36-28,2,7,rush,Dalvin Cook,2021
-38,39,Vikings,12/09/2021,PIT,Win, 36-28,4,62,pass,K.J. Osborn,2021
-39,40,Vikings,12/20/2021,CHI,Win, 17-9,1,12,pass,Justin Jefferson,2021
-40,41,Vikings,12/20/2021,CHI,Win, 17-9,3,7,pass,Ihmir Smith-Marsette,2021
-41,42,Vikings,12/26/2021,LAR,Loss, 23-30,3,2,rush,Alexander Mattison,2021
-42,43,Vikings,12/26/2021,LAR,Loss, 23-30,4,6,pass,K.J. Osborn,2021
-43,44,Vikings,01/02/2022,GNB,Loss, 10-37,3,14,pass,K.J. Osborn,2021
-44,45,Vikings,01/09/2022,CHI,Win, 31-17,3,44,pass,Ihmir Smith-Marsette,2021
-45,46,Vikings,01/09/2022,CHI,Win, 31-17,4,45,pass,Justin Jefferson,2021
-46,47,Vikings,01/09/2022,CHI,Win, 31-17,4,21,pass,K.J. Osborn,2021
-47,48,Vikings,01/09/2022,CHI,Win, 31-17,4,66,interception,Patrick Peterson,2021
+,Rank,Team,Date,Opponent,Win/Loss,Home_Score,Opponenet_Score,Quarter,Distance,Type,Detail
+1,1,Vikings,2021-09-12,CIN,Loss,24,27,2,5,pass,Adam Thielen
+2,2,Vikings,2021-09-12,CIN,Loss,24,27,3,24,pass,Adam Thielen
+3,3,Vikings,2021-09-12,CIN,Loss,24,27,4,1,rush,Dalvin Cook
+4,4,Vikings,2021-09-19,ARI,Loss,33,34,1,64,pass,K.J. Osborn
+5,5,Vikings,2021-09-19,ARI,Loss,33,34,1,7,pass,Adam Thielen
+6,6,Vikings,2021-09-19,ARI,Loss,33,34,2,14,pass,Justin Jefferson
+7,7,Vikings,2021-09-19,ARI,Loss,33,34,3,38,interception,Nick Vigil
+8,8,Vikings,2021-09-26,SEA,Win,30,17,1,7,pass,Tyler Conklin
+9,9,Vikings,2021-09-26,SEA,Win,30,17,2,15,pass,Adam Thielen
+10,10,Vikings,2021-09-26,SEA,Win,30,17,2,3,pass,Justin Jefferson
+11,11,Vikings,2021-10-03,CLE,Loss,7,14,1,12,pass,Justin Jefferson
+12,12,Vikings,2021-10-10,DET,Win,19,17,2,15,pass,Alexander Mattison
+13,13,Vikings,2021-10-17,CAR,Win,34,28,2,2,pass,Chris Herndon
+14,14,Vikings,2021-10-17,CAR,Win,34,28,3,16,rush,Dalvin Cook
+15,15,Vikings,2021-10-17,CAR,Win,34,28,3,5,pass,Adam Thielen
+16,16,Vikings,2021-10-17,CAR,Win,34,28,5,27,pass,K.J. Osborn
+17,17,Vikings,2021-10-31,DAL,Loss,16,20,1,20,pass,Adam Thielen
+18,18,Vikings,2021-11-07,BAL,Loss,31,34,1,50,pass,Justin Jefferson
+19,19,Vikings,2021-11-07,BAL,Loss,31,34,2,1,rush,Kirk Cousins
+20,20,Vikings,2021-11-07,BAL,Loss,31,34,3,98,kickoff,Kene Nwangwu
+21,21,Vikings,2021-11-07,BAL,Loss,31,34,4,1,pass,Adam Thielen
+22,22,Vikings,2021-11-14,LAC,Win,27,20,2,5,pass,Tyler Conklin
+23,23,Vikings,2021-11-14,LAC,Win,27,20,3,1,pass,Tyler Conklin
+24,24,Vikings,2021-11-14,LAC,Win,27,20,4,1,rush,Dalvin Cook
+25,25,Vikings,2021-11-21,GNB,Win,34,31,1,1,rush,Dalvin Cook
+26,26,Vikings,2021-11-21,GNB,Win,34,31,2,10,pass,Adam Thielen
+27,27,Vikings,2021-11-21,GNB,Win,34,31,3,9,pass,Justin Jefferson
+28,28,Vikings,2021-11-21,GNB,Win,34,31,4,23,pass,Justin Jefferson
+29,29,Vikings,2021-11-28,SFO,Loss,26,34,1,2,pass,Adam Thielen
+30,30,Vikings,2021-11-28,SFO,Loss,26,34,2,20,pass,Adam Thielen
+31,31,Vikings,2021-11-28,SFO,Loss,26,34,3,6,rush,Alexander Mattison
+32,32,Vikings,2021-11-28,SFO,Loss,26,34,3,99,kickoff,Kene Nwangwu
+33,33,Vikings,2021-12-05,DET,Loss,27,29,3,8,rush,Alexander Mattison
+34,34,Vikings,2021-12-05,DET,Loss,27,29,4,5,pass,K.J. Osborn
+35,35,Vikings,2021-12-05,DET,Loss,27,29,4,3,pass,Justin Jefferson
+36,36,Vikings,2021-12-09,PIT,Win,36,28,1,14,pass,Justin Jefferson
+37,37,Vikings,2021-12-09,PIT,Win,36,28,2,29,rush,Dalvin Cook
+38,38,Vikings,2021-12-09,PIT,Win,36,28,2,7,rush,Dalvin Cook
+39,39,Vikings,2021-12-09,PIT,Win,36,28,4,62,pass,K.J. Osborn
+40,40,Vikings,2021-12-20,CHI,Win,17,9,1,12,pass,Justin Jefferson
+41,41,Vikings,2021-12-20,CHI,Win,17,9,3,7,pass,Ihmir Smith-Marsette
+42,42,Vikings,2021-12-26,LAR,Loss,23,30,3,2,rush,Alexander Mattison
+43,43,Vikings,2021-12-26,LAR,Loss,23,30,4,6,pass,K.J. Osborn
+44,44,Vikings,2022-01-02,GNB,Loss,10,37,3,14,pass,K.J. Osborn
+45,45,Vikings,2022-01-09,CHI,Win,31,17,3,44,pass,Ihmir Smith-Marsette
+46,46,Vikings,2022-01-09,CHI,Win,31,17,4,45,pass,Justin Jefferson
+47,47,Vikings,2022-01-09,CHI,Win,31,17,4,21,pass,K.J. Osborn
+48,48,Vikings,2022-01-09,CHI,Win,31,17,4,66,interception,Patrick Peterson

@@ -1,8 +1,8 @@
-,No.,Team,Player,Age,Position,Games Played,Games Started,Punts Returned,Punts Return Yardage,Punts Returned for Touchdown,Longest Punt Return,Yards per Punt Return,Kickoff Returns,Yardage for Kickoffs Returned,Kickoffs Returned for a Touchdown,Longest Kickoff Return,Yards per Kickoff Return,All-purpose Yards,Year
-0,80,Titans,Chester Rogers,27,WR,16,2,30,293,0,55,9.8,14,282,0,37,20.1,938,2021
-1,88,Titans,Marcus Johnson,27,WR,7,3,0,0,0,0,,9,179,0,31,19.9,337,2021
-2,40,Titans,Dontrell Hilliard,26,RB,8,5,0,0,0,0,,8,177,0,26,22.1,614,2021
-3,13,Titans,Cameron Batson,26,WR,4,0,0,0,0,0,,5,80,0,20,16.0,110,2021
-4,28,Titans,Jeremy McNichols,26,RB,14,0,0,0,0,0,,2,31,0,16,15.5,427,2021
-5,41,Titans,Khari Blasingame,25,RB,11,3,0,0,0,0,,1,12,0,12,12.0,22,2021
-6,32,Titans,Darrynton Evans,23,RB,1,0,0,0,0,0,,1,17,0,17,17.0,35,2021
+,No.,Player,Age,Position,Games Played,Games Started,Punts Returned,Punts Return Yardage,Punts Returned for Touchdown,Longest Punt Return,Yards per Punt Return,Kickoff Returns,Yardage for Kickoffs Returned,Kickoffs Returned for a Touchdown,Longest Kickoff Return,Yards per Kickoff Return,All-purpose Yards,Team,Year
+80,80,Chester Rogers,27,WR,16,2,30,293,0,55,9.8,14,282,0,37,20.1,938,Titans,2021
+88,88,Marcus Johnson,27,WR,7,3,0,0,0,0,0.0,9,179,0,31,19.9,337,Titans,2021
+40,40,Dontrell Hilliard,26,RB,8,5,0,0,0,0,0.0,8,177,0,26,22.1,614,Titans,2021
+13,13,Cameron Batson,26,WR,4,0,0,0,0,0,0.0,5,80,0,20,16.0,110,Titans,2021
+28,28,Jeremy McNichols,26,RB,14,0,0,0,0,0,0.0,2,31,0,16,15.5,427,Titans,2021
+41,41,Khari Blasingame,25,RB,11,3,0,0,0,0,0.0,1,12,0,12,12.0,22,Titans,2021
+32,32,Darrynton Evans,23,RB,1,0,0,0,0,0,0.0,1,17,0,17,17.0,35,Titans,2021

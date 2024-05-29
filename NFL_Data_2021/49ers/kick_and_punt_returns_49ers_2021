@@ -1,8 +1,8 @@
-,No.,Team,Player,Age,Position,Games Played,Games Started,Punts Returned,Punts Return Yardage,Punts Returned for Touchdown,Longest Punt Return,Yards per Punt Return,Kickoff Returns,Yardage for Kickoffs Returned,Kickoffs Returned for a Touchdown,Longest Kickoff Return,Yards per Kickoff Return,All-purpose Yards,Year
-0,11,49ers,Brandon Aiyuk,23,WR,17,16,29,208,0,27,7.2,0,0,0,0,,1047,2021
-1,40,49ers,Trenton Cannon,27,RB,11,0,0,0,0,0,,16,328,0,68,20.5,329,2021
-2,23,49ers,Jamycal Hasty,25,RB,11,0,0,0,0,0,,9,145,0,28,16.1,370,2021
-3,17,49ers,Travis Benjamin,32,WR,10,0,3,47,0,22,15.7,2,24,0,12,12.0,71,2021
-4,20,49ers,Ambry Thomas,22,LCB,12,5,0,0,0,0,,4,70,0,19,17.5,70,2021
-5,19,49ers,Deebo Samuel,25,WR,16,15,0,0,0,0,,3,75,0,33,25.0,1845,2021
-6,18,49ers,Mohamed Sanu,32,WR,8,0,2,24,0,13,12.0,0,0,0,0,,201,2021
+,No.,Player,Age,Position,Games Played,Games Started,Punts Returned,Punts Return Yardage,Punts Returned for Touchdown,Longest Punt Return,Yards per Punt Return,Kickoff Returns,Yardage for Kickoffs Returned,Kickoffs Returned for a Touchdown,Longest Kickoff Return,Yards per Kickoff Return,All-purpose Yards,Team,Year
+11,11,Brandon Aiyuk,23,WR,17,16,29,208,0,27,7.2,0,0,0,0,0.0,1047,49ers,2021
+40,40,Trenton Cannon,27,RB,11,0,0,0,0,0,0.0,16,328,0,68,20.5,329,49ers,2021
+23,23,Jamycal Hasty,25,RB,11,0,0,0,0,0,0.0,9,145,0,28,16.1,370,49ers,2021
+17,17,Travis Benjamin,32,WR,10,0,3,47,0,22,15.7,2,24,0,12,12.0,71,49ers,2021
+20,20,Ambry Thomas,22,LCB,12,5,0,0,0,0,0.0,4,70,0,19,17.5,70,49ers,2021
+19,19,Deebo Samuel,25,WR,16,15,0,0,0,0,0.0,3,75,0,33,25.0,1845,49ers,2021
+18,18,Mohamed Sanu,32,WR,8,0,2,24,0,13,12.0,0,0,0,0,0.0,201,49ers,2021

@@ -1,5 +1,5 @@
-,No.,Team,Player,Age,Pos,Games Played,Games Started,Times Puned,Total Punt Yardage,Yards per Punt,Punt Return Yardage by Opposition,Punt Net yards,Punt Net Yards per Punt,Longest Punt,Punts Resulting in a Touchback,Per. of Punts Resulting in a Touchback,Punts Inside Opp. 20 Yard Line,Per. of Punts Downed Inside Opp. 20 Yard Line,Times Punts Blocked,Year
-0,12,Falcons,Dustin Colquitt,39,P,6,0,23,1096,47.7,102,974,40.6,66,1,4.3,7,30.4,1,2021
-1,19,Falcons,Thomas Morstead,35,P,7,0,22,1015,46.1,72,903,41.0,64,2,9.1,11,50.0,0,2021
-2,6,Falcons,Cameron Nizialek,26,P,4,0,18,817,45.4,61,716,39.8,62,2,11.1,6,33.3,0,2021
-3,7,Falcons,Younghoe Koo,27,K,17,0,2,70,35.0,0,70,35.0,45,0,0.0,1,50.0,0,2021
+,No.,Player,Age,Pos,Games Played,Games Started,Times Puned,Total Punt Yardage,Yards per Punt,Punt Return Yardage by Opposition,Punt Net yards,Punt Net Yards per Punt,Longest Punt,Punts Resulting in a Touchback,Per. of Punts Resulting in a Touchback,Punts Inside Opp. 20 Yard Line,Per. of Punts Downed Inside Opp. 20 Yard Line,Times Punts Blocked,Team,Year
+12,12,Dustin Colquitt,39,P,6,0,23,1096,47.7,102,974,40.6,66,1,4.3,7,30.4,1,Falcons,2021
+19,19,Thomas Morstead,35,P,7,0,22,1015,46.1,72,903,41.0,64,2,9.1,11,50.0,0,Falcons,2021
+6,6,Cameron Nizialek,26,P,4,0,18,817,45.4,61,716,39.8,62,2,11.1,6,33.3,0,Falcons,2021
+7,7,Younghoe Koo,27,K,17,0,2,70,35.0,0,70,35.0,45,0,0.0,1,50.0,0,Falcons,2021

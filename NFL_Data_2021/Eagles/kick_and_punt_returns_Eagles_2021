@@ -1,8 +1,8 @@
-,No.,Team,Player,Age,Position,Games Played,Games Started,Punts Returned,Punts Return Yardage,Punts Returned for Touchdown,Longest Punt Return,Yards per Punt Return,Kickoff Returns,Yardage for Kickoffs Returned,Kickoffs Returned for a Touchdown,Longest Kickoff Return,Yards per Kickoff Return,All-purpose Yards,Year
-0,18,Eagles,Jalen Reagor,22,WR,17,13,31,227,0,39,7.3,12,255,0,44,21.3,833,2021
-1,14,Eagles,Kenneth Gainwell,22,RB,16,1,0,0,0,0,,8,137,0,31,17.1,681,2021
-2,16,Eagles,Quez Watkins,23,WR,17,12,0,0,0,0,,8,138,0,24,17.3,788,2021
-3,32,Eagles,Jason Huntley,23,RB,1,0,0,0,0,0,,3,84,0,35,28.0,135,2021
-4,84,Eagles,Greg Ward,26,WR,17,0,2,12,0,12,6.0,1,3,0,3,3.0,110,2021
-5,82,Eagles,John Hightower,25,WR,1,0,0,0,0,0,,1,0,0,17,0.0,0,2021
-6,35,Eagles,Boston Scott,26,RB,16,4,0,0,0,0,,1,13,0,13,13.0,469,2021
+,No.,Player,Age,Position,Games Played,Games Started,Punts Returned,Punts Return Yardage,Punts Returned for Touchdown,Longest Punt Return,Yards per Punt Return,Kickoff Returns,Yardage for Kickoffs Returned,Kickoffs Returned for a Touchdown,Longest Kickoff Return,Yards per Kickoff Return,All-purpose Yards,Team,Year
+18,18,Jalen Reagor,22,WR,17,13,31,227,0,39,7.3,12,255,0,44,21.3,833,Eagles,2021
+14,14,Kenneth Gainwell,22,RB,16,1,0,0,0,0,0.0,8,137,0,31,17.1,681,Eagles,2021
+16,16,Quez Watkins,23,WR,17,12,0,0,0,0,0.0,8,138,0,24,17.3,788,Eagles,2021
+32,32,Jason Huntley,23,RB,1,0,0,0,0,0,0.0,3,84,0,35,28.0,135,Eagles,2021
+84,84,Greg Ward,26,WR,17,0,2,12,0,12,6.0,1,3,0,3,3.0,110,Eagles,2021
+82,82,John Hightower,25,WR,1,0,0,0,0,0,0.0,1,0,0,17,0.0,0,Eagles,2021
+35,35,Boston Scott,26,RB,16,4,0,0,0,0,0.0,1,13,0,13,13.0,469,Eagles,2021

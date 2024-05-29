@@ -1,15 +1,15 @@
-,No.,Team,Player,Age,Pos,Games Played,Games Started,Rush TD,Reception TD,Punt Return TD,Kick Return TD,Fumble Return TD,Interception TD,Other TD,All Touchdown Scored,2-Point Conversions Made,Two-Point Conversions Attempted,Defensive Two-Point Conversions,Extra Points Made,Extra Points Allowed,Field Goals Made,Field Goals Attempted,Safeties Scored by Player/Team,Total Points Scored by all Means,Poins per Game,Year
-0,2,Raiders,Daniel Carlson,26,K,17,0,0,0,0,0,0,0,0,0,0,0,0,30,33,40,43,,150,8.8,2021
-1,28,Raiders,Josh Jacobs,23,RB,15,14,9,0,0,0,0,0,0,9,0,0,0,0,0,0,0,,54,3.6,2021
-2,13,Raiders,Hunter Renfrow,26,WR,17,9,0,9,0,0,0,0,0,9,0,0,0,0,0,0,0,,54,3.2,2021
-3,23,Raiders,Kenyan Drake,27,RB,12,2,2,1,0,0,0,0,0,3,0,0,0,0,0,0,0,,18,1.5,2021
-4,89,Raiders,Bryan Edwards,23,WR,16,12,0,3,0,0,0,0,0,3,0,0,0,0,0,0,0,,18,1.1,2021
-5,87,Raiders,Foster Moreau,24,TE,17,11,0,3,0,0,0,0,0,3,0,0,0,0,0,0,0,,18,1.1,2021
-6,31,Raiders,Peyton Barber,27,RB,10,1,2,0,0,0,0,0,0,2,0,0,0,0,0,0,0,,12,1.2,2021
-7,11,Raiders,Henry Ruggs III,22,WR,7,7,0,2,0,0,0,0,0,2,0,0,0,0,0,0,0,,12,1.7,2021
-8,83,Raiders,Darren Waller,29,TE,11,11,0,2,0,0,0,0,0,2,0,0,0,0,0,0,0,,12,1.1,2021
-9,45,Raiders,Alec Ingold,25,FB,9,3,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,,6,0.7,2021
-10,1,Raiders,DeSean Jackson,35,WR,9,4,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,,6,0.7,2021
-11,7,Raiders,Zay Jones,26,WR,17,9,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,,6,0.4,2021
-12,8,Raiders,Marcus Mariota,28,QB,10,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,,6,0.6,2021
-13,29,Raiders,Casey Hayward,32,RCB,17,17,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1.0,2,0.1,2021
+,No.,Player,Age,Pos,Games Played,Games Started,Rush TD,Reception TD,Punt Return TD,Kick Return TD,Fumble Return TD,Interception TD,Other TD,All Touchdown Scored,2-Point Conversions Made,Two-Point Conversions Attempted,Defensive Two-Point Conversions,Extra Points Made,Extra Points Allowed,Field Goals Made,Field Goals Attempted,Safeties Scored by Player/Team,Total Points Scored by all Means,Poins per Game,Team,Year
+2,2,Daniel Carlson,26,K,17,0,0,0,0,0,0,0,0,0,0,0,0,30,33,40,43,0,150,8.8,Raiders,2021
+28,28,Josh Jacobs,23,RB,15,14,9,0,0,0,0,0,0,9,0,0,0,0,0,0,0,0,54,3.6,Raiders,2021
+13,13,Hunter Renfrow,26,WR,17,9,0,9,0,0,0,0,0,9,0,0,0,0,0,0,0,0,54,3.2,Raiders,2021
+23,23,Kenyan Drake,27,RB,12,2,2,1,0,0,0,0,0,3,0,0,0,0,0,0,0,0,18,1.5,Raiders,2021
+89,89,Bryan Edwards,23,WR,16,12,0,3,0,0,0,0,0,3,0,0,0,0,0,0,0,0,18,1.1,Raiders,2021
+87,87,Foster Moreau,24,TE,17,11,0,3,0,0,0,0,0,3,0,0,0,0,0,0,0,0,18,1.1,Raiders,2021
+31,31,Peyton Barber,27,RB,10,1,2,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,12,1.2,Raiders,2021
+11,11,Henry Ruggs III,22,WR,7,7,0,2,0,0,0,0,0,2,0,0,0,0,0,0,0,0,12,1.7,Raiders,2021
+83,83,Darren Waller,29,TE,11,11,0,2,0,0,0,0,0,2,0,0,0,0,0,0,0,0,12,1.1,Raiders,2021
+45,45,Alec Ingold,25,FB,9,3,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,6,0.7,Raiders,2021
+1,1,DeSean Jackson,35,WR,9,4,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,6,0.7,Raiders,2021
+7,7,Zay Jones,26,WR,17,9,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,6,0.4,Raiders,2021
+8,8,Marcus Mariota,28,QB,10,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,6,0.6,Raiders,2021
+29,29,Casey Hayward,32,RCB,17,17,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,2,0.1,Raiders,2021

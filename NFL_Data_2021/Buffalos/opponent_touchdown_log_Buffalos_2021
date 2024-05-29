@@ -1,33 +1,33 @@
-,Rank,Team,Date,Opponent,Win/Loss,Score,Quarter,Distance,Type,Detail,Year
-0,1,Buffalos,09/12/2021,PIT,Loss, 16-23,4,5,pass,Diontae Johnson,2021
-1,2,Buffalos,09/12/2021,PIT,Loss, 16-23,4,9,blocked punt,Ulysees Gilbert,2021
-2,3,Buffalos,09/26/2021,WAS,Win, 43-21,2,73,pass,Antonio Gibson,2021
-3,4,Buffalos,09/26/2021,WAS,Win, 43-21,2,4,rush,Taylor Heinicke,2021
-4,5,Buffalos,09/26/2021,WAS,Win, 43-21,4,2,pass,Logan Thomas,2021
-5,6,Buffalos,10/10/2021,KAN,Win, 38-20,2,5,pass,Byron Pringle,2021
-6,7,Buffalos,10/10/2021,KAN,Win, 38-20,4,1,pass,Travis Kelce,2021
-7,8,Buffalos,10/18/2021,TEN,Loss, 31-34,2,76,rush,Derrick Henry,2021
-8,9,Buffalos,10/18/2021,TEN,Loss, 31-34,2,4,rush,Ryan Tannehill,2021
-9,10,Buffalos,10/18/2021,TEN,Loss, 31-34,3,3,rush,Derrick Henry,2021
-10,11,Buffalos,10/18/2021,TEN,Loss, 31-34,4,13,rush,Derrick Henry,2021
-11,12,Buffalos,10/31/2021,MIA,Win, 26-11,4,1,rush,Tua Tagovailoa,2021
-12,13,Buffalos,11/14/2021,NYJ,Win, 45-17,4,1,rush,Michael Carter,2021
-13,14,Buffalos,11/14/2021,NYJ,Win, 45-17,4,15,pass,Elijah Moore,2021
-14,15,Buffalos,11/21/2021,IND,Loss, 15-41,1,3,rush,Jonathan Taylor,2021
-15,16,Buffalos,11/21/2021,IND,Loss, 15-41,1,23,pass,Jonathan Taylor,2021
-16,17,Buffalos,11/21/2021,IND,Loss, 15-41,2,2,rush,Jonathan Taylor,2021
-17,18,Buffalos,11/21/2021,IND,Loss, 15-41,3,10,rush,Jonathan Taylor,2021
-18,19,Buffalos,11/21/2021,IND,Loss, 15-41,3,1,rush,Jonathan Taylor,2021
-19,20,Buffalos,11/25/2021,NOR,Win, 31-6,4,11,pass,Nick Vannett,2021
-20,21,Buffalos,12/06/2021,NWE,Loss, 10-14,1,64,rush,Damien Harris,2021
-21,22,Buffalos,12/12/2021,TAM,Loss, 27-33,1,47,rush,Leonard Fournette,2021
-22,23,Buffalos,12/12/2021,TAM,Loss, 27-33,2,13,pass,Mike Evans,2021
-23,24,Buffalos,12/12/2021,TAM,Loss, 27-33,2,1,rush,Tom Brady,2021
-24,25,Buffalos,12/12/2021,TAM,Loss, 27-33,5,58,pass,Breshad Perriman,2021
-25,26,Buffalos,12/19/2021,CAR,Win, 31-14,2,4,rush,Cam Newton,2021
-26,27,Buffalos,12/19/2021,CAR,Win, 31-14,4,23,pass,Ameer Abdullah,2021
-27,28,Buffalos,12/26/2021,NWE,Win, 33-21,2,16,rush,Damien Harris,2021
-28,29,Buffalos,12/26/2021,NWE,Win, 33-21,3,1,rush,Damien Harris,2021
-29,30,Buffalos,12/26/2021,NWE,Win, 33-21,4,8,rush,Damien Harris,2021
-30,31,Buffalos,01/02/2022,ATL,Win, 29-15,2,1,rush,Mike Davis,2021
-31,32,Buffalos,01/09/2022,NYJ,Win, 27-10,2,40,pass,Keelan Cole,2021
+,Rank,Team,Date,Opponent,Win/Loss,Home_Score,Opponenet_Score,Quarter,Distance,Type,Detail
+1,1,Buffalos,2021-09-12,PIT,Loss,16,23,4,5,pass,Diontae Johnson
+2,2,Buffalos,2021-09-12,PIT,Loss,16,23,4,9,blocked punt,Ulysees Gilbert
+3,3,Buffalos,2021-09-26,WAS,Win,43,21,2,73,pass,Antonio Gibson
+4,4,Buffalos,2021-09-26,WAS,Win,43,21,2,4,rush,Taylor Heinicke
+5,5,Buffalos,2021-09-26,WAS,Win,43,21,4,2,pass,Logan Thomas
+6,6,Buffalos,2021-10-10,KAN,Win,38,20,2,5,pass,Byron Pringle
+7,7,Buffalos,2021-10-10,KAN,Win,38,20,4,1,pass,Travis Kelce
+8,8,Buffalos,2021-10-18,TEN,Loss,31,34,2,76,rush,Derrick Henry
+9,9,Buffalos,2021-10-18,TEN,Loss,31,34,2,4,rush,Ryan Tannehill
+10,10,Buffalos,2021-10-18,TEN,Loss,31,34,3,3,rush,Derrick Henry
+11,11,Buffalos,2021-10-18,TEN,Loss,31,34,4,13,rush,Derrick Henry
+12,12,Buffalos,2021-10-31,MIA,Win,26,11,4,1,rush,Tua Tagovailoa
+13,13,Buffalos,2021-11-14,NYJ,Win,45,17,4,1,rush,Michael Carter
+14,14,Buffalos,2021-11-14,NYJ,Win,45,17,4,15,pass,Elijah Moore
+15,15,Buffalos,2021-11-21,IND,Loss,15,41,1,3,rush,Jonathan Taylor
+16,16,Buffalos,2021-11-21,IND,Loss,15,41,1,23,pass,Jonathan Taylor
+17,17,Buffalos,2021-11-21,IND,Loss,15,41,2,2,rush,Jonathan Taylor
+18,18,Buffalos,2021-11-21,IND,Loss,15,41,3,10,rush,Jonathan Taylor
+19,19,Buffalos,2021-11-21,IND,Loss,15,41,3,1,rush,Jonathan Taylor
+20,20,Buffalos,2021-11-25,NOR,Win,31,6,4,11,pass,Nick Vannett
+21,21,Buffalos,2021-12-06,NWE,Loss,10,14,1,64,rush,Damien Harris
+22,22,Buffalos,2021-12-12,TAM,Loss,27,33,1,47,rush,Leonard Fournette
+23,23,Buffalos,2021-12-12,TAM,Loss,27,33,2,13,pass,Mike Evans
+24,24,Buffalos,2021-12-12,TAM,Loss,27,33,2,1,rush,Tom Brady
+25,25,Buffalos,2021-12-12,TAM,Loss,27,33,5,58,pass,Breshad Perriman
+26,26,Buffalos,2021-12-19,CAR,Win,31,14,2,4,rush,Cam Newton
+27,27,Buffalos,2021-12-19,CAR,Win,31,14,4,23,pass,Ameer Abdullah
+28,28,Buffalos,2021-12-26,NWE,Win,33,21,2,16,rush,Damien Harris
+29,29,Buffalos,2021-12-26,NWE,Win,33,21,3,1,rush,Damien Harris
+30,30,Buffalos,2021-12-26,NWE,Win,33,21,4,8,rush,Damien Harris
+31,31,Buffalos,2022-01-02,ATL,Win,29,15,2,1,rush,Mike Davis
+32,32,Buffalos,2022-01-09,NYJ,Win,27,10,2,40,pass,Keelan Cole

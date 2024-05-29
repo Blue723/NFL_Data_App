@@ -1,13 +1,13 @@
-,No.,Team,Player,Age,Pos,Games Played,Games Started,Rush TD,Reception TD,Punt Return TD,Kick Return TD,Fumble Return TD,Interception TD,Other TD,All Touchdown Scored,2-Point Conversions Made,Two-Point Conversions Attempted,Defensive Two-Point Conversions,Extra Points Made,Extra Points Allowed,Field Goals Made,Field Goals Attempted,Safeties Scored by Player/Team,Total Points Scored by all Means,Poins per Game,Year
-0,8,Broncos,Brandon McManus,30,K,17,0,0,0,0,0,0,0,0,0,0,0,0,33,34,26,31,,111,6.5,2021
-1,25,Broncos,Melvin Gordon,28,RB,16,16,8,2,0,0,0,0,0,10,0,0,0,0,0,0,0,,60,3.8,2021
-2,33,Broncos,Javonte Williams,21,RB,17,1,4,3,0,0,0,0,0,7,0,0,0,0,0,0,0,,42,2.5,2021
-3,81,Broncos,Tim Patrick,28,WR,16,16,0,5,0,0,0,0,0,5,0,0,0,0,0,0,0,,30,1.9,2021
-4,87,Broncos,Noah Fant,24,TE,16,16,0,4,0,0,0,0,0,4,0,0,0,0,0,0,0,,24,1.5,2021
-5,14,Broncos,Courtland Sutton,26,WR,17,16,0,2,0,0,0,0,0,2,1,0,0,0,0,0,0,,14,0.8,2021
-6,5,Broncos,Teddy Bridgewater,29,QB,14,14,2,0,0,0,0,0,0,2,0,0,0,0,0,0,0,,12,0.9,2021
-7,3,Broncos,Drew Lock,25,QB,6,3,2,0,0,0,0,0,0,2,0,0,0,0,0,0,0,,12,2.0,2021
-8,85,Broncos,Albert Okwuegbunam,23,TE,14,6,0,2,0,0,0,0,0,2,0,0,0,0,0,0,0,,12,0.9,2021
-9,9,Broncos,Kendall Hinton,24,WR,16,1,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,,6,0.4,2021
-10,82,Broncos,Eric Saubert,27,TE,17,4,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,,6,0.4,2021
-11,2,Broncos,Patrick Surtain II,21,LCB/RCB,16,15,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,,6,0.4,2021
+,No.,Player,Age,Pos,Games Played,Games Started,Rush TD,Reception TD,Punt Return TD,Kick Return TD,Fumble Return TD,Interception TD,Other TD,All Touchdown Scored,2-Point Conversions Made,Two-Point Conversions Attempted,Defensive Two-Point Conversions,Extra Points Made,Extra Points Allowed,Field Goals Made,Field Goals Attempted,Safeties Scored by Player/Team,Total Points Scored by all Means,Poins per Game,Team,Year
+8,8,Brandon McManus,30,K,17,0,0,0,0,0,0,0,0,0,0,0,0,33,34,26,31,0,111,6.5,Broncos,2021
+25,25,Melvin Gordon,28,RB,16,16,8,2,0,0,0,0,0,10,0,0,0,0,0,0,0,0,60,3.8,Broncos,2021
+33,33,Javonte Williams,21,RB,17,1,4,3,0,0,0,0,0,7,0,0,0,0,0,0,0,0,42,2.5,Broncos,2021
+81,81,Tim Patrick,28,WR,16,16,0,5,0,0,0,0,0,5,0,0,0,0,0,0,0,0,30,1.9,Broncos,2021
+87,87,Noah Fant,24,TE,16,16,0,4,0,0,0,0,0,4,0,0,0,0,0,0,0,0,24,1.5,Broncos,2021
+14,14,Courtland Sutton,26,WR,17,16,0,2,0,0,0,0,0,2,1,0,0,0,0,0,0,0,14,0.8,Broncos,2021
+5,5,Teddy Bridgewater,29,QB,14,14,2,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,12,0.9,Broncos,2021
+3,3,Drew Lock,25,QB,6,3,2,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,12,2.0,Broncos,2021
+85,85,Albert Okwuegbunam,23,TE,14,6,0,2,0,0,0,0,0,2,0,0,0,0,0,0,0,0,12,0.9,Broncos,2021
+9,9,Kendall Hinton,24,WR,16,1,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,6,0.4,Broncos,2021
+82,82,Eric Saubert,27,TE,17,4,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,6,0.4,Broncos,2021
+2,2,Patrick Surtain II,21,LCB/RCB,16,15,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,6,0.4,Broncos,2021

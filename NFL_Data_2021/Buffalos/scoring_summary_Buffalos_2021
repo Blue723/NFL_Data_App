@@ -1,15 +1,15 @@
-,No.,Team,Player,Age,Pos,Games Played,Games Started,Rush TD,Reception TD,Punt Return TD,Kick Return TD,Fumble Return TD,Interception TD,Other TD,All Touchdown Scored,2-Point Conversions Made,Two-Point Conversions Attempted,Defensive Two-Point Conversions,Extra Points Made,Extra Points Allowed,Field Goals Made,Field Goals Attempted,Safeties Scored by Player/Team,Total Points Scored by all Means,Poins per Game,Year
-0,2,Buffalos,Tyler Bass,24,K,17,0,0,0,0,0,0,0,0,0,0,0,0,51,51,28,32,,135,7.9,2021
-1,14,Buffalos,Stefon Diggs,28,WR,17,17,0,10,0,0,0,0,0,10,0,0,0,0,0,0,0,,60,3.5,2021
-2,88,Buffalos,Dawson Knox,25,TE,15,14,0,9,0,0,0,0,0,9,0,0,0,0,0,0,0,,54,3.6,2021
-3,26,Buffalos,Devin Singletary,24,RB,17,16,7,1,0,0,0,0,0,8,0,0,0,0,0,0,0,,48,2.8,2021
-4,17,Buffalos,Josh Allen,25,QB,17,17,6,0,0,0,0,0,0,6,2,0,0,0,0,0,0,,40,2.4,2021
-5,13,Buffalos,Gabriel Davis,22,WR,16,4,0,6,0,0,0,0,0,6,0,0,0,0,0,0,0,,36,2.3,2021
-6,20,Buffalos,Zack Moss,24,RB,13,0,4,1,0,0,0,0,0,5,0,0,0,0,0,0,0,,30,2.3,2021
-7,1,Buffalos,Emmanuel Sanders,34,WR,14,13,0,4,0,0,0,0,0,4,0,0,0,0,0,0,0,,24,1.7,2021
-8,22,Buffalos,Matt Breida,26,RB,9,0,1,2,0,0,0,0,0,3,0,0,0,0,0,0,0,,18,2.0,2021
-9,19,Buffalos,Isaiah McKenzie,26,WR,15,2,1,1,0,0,0,0,0,2,0,0,0,0,0,0,0,,12,0.8,2021
-10,11,Buffalos,Cole Beasley,32,WR,16,8,0,1,0,0,0,0,0,1,1,0,0,0,0,0,0,,8,0.5,2021
-11,23,Buffalos,Micah Hyde,31,FS,17,17,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,,6,0.4,2021
-12,89,Buffalos,Tommy Sweeney,26,TE,13,3,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,,6,0.5,2021
-13,10,Buffalos,Mitchell Trubisky,27,QB,6,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,,6,1.0,2021
+,No.,Player,Age,Pos,Games Played,Games Started,Rush TD,Reception TD,Punt Return TD,Kick Return TD,Fumble Return TD,Interception TD,Other TD,All Touchdown Scored,2-Point Conversions Made,Two-Point Conversions Attempted,Defensive Two-Point Conversions,Extra Points Made,Extra Points Allowed,Field Goals Made,Field Goals Attempted,Safeties Scored by Player/Team,Total Points Scored by all Means,Poins per Game,Team,Year
+2,2,Tyler Bass,24,K,17,0,0,0,0,0,0,0,0,0,0,0,0,51,51,28,32,0,135,7.9,Buffalos,2021
+14,14,Stefon Diggs,28,WR,17,17,0,10,0,0,0,0,0,10,0,0,0,0,0,0,0,0,60,3.5,Buffalos,2021
+88,88,Dawson Knox,25,TE,15,14,0,9,0,0,0,0,0,9,0,0,0,0,0,0,0,0,54,3.6,Buffalos,2021
+26,26,Devin Singletary,24,RB,17,16,7,1,0,0,0,0,0,8,0,0,0,0,0,0,0,0,48,2.8,Buffalos,2021
+17,17,Josh Allen,25,QB,17,17,6,0,0,0,0,0,0,6,2,0,0,0,0,0,0,0,40,2.4,Buffalos,2021
+13,13,Gabriel Davis,22,WR,16,4,0,6,0,0,0,0,0,6,0,0,0,0,0,0,0,0,36,2.3,Buffalos,2021
+20,20,Zack Moss,24,RB,13,0,4,1,0,0,0,0,0,5,0,0,0,0,0,0,0,0,30,2.3,Buffalos,2021
+1,1,Emmanuel Sanders,34,WR,14,13,0,4,0,0,0,0,0,4,0,0,0,0,0,0,0,0,24,1.7,Buffalos,2021
+22,22,Matt Breida,26,RB,9,0,1,2,0,0,0,0,0,3,0,0,0,0,0,0,0,0,18,2.0,Buffalos,2021
+19,19,Isaiah McKenzie,26,WR,15,2,1,1,0,0,0,0,0,2,0,0,0,0,0,0,0,0,12,0.8,Buffalos,2021
+11,11,Cole Beasley,32,WR,16,8,0,1,0,0,0,0,0,1,1,0,0,0,0,0,0,0,8,0.5,Buffalos,2021
+23,23,Micah Hyde,31,FS,17,17,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,6,0.4,Buffalos,2021
+89,89,Tommy Sweeney,26,TE,13,3,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,6,0.5,Buffalos,2021
+10,10,Mitchell Trubisky,27,QB,6,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,6,1.0,Buffalos,2021

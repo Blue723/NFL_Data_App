@@ -1,10 +1,10 @@
-,No.,Team,Player,Age,Position,Games Played,Games Started,Punts Returned,Punts Return Yardage,Punts Returned for Touchdown,Longest Punt Return,Yards per Punt Return,Kickoff Returns,Yardage for Kickoffs Returned,Kickoffs Returned for a Touchdown,Longest Kickoff Return,Yards per Kickoff Return,All-purpose Yards,Year
-0,4,Cardinals,Rondale Moore,21,WR,14,7,21,171,0,27,8.1,13,291,0,32,22.4,973,2021
-1,26,Cardinals,Eno Benjamin,22,RB,9,0,0,0,0,0,,7,162,0,29,23.1,322,2021
-2,83,Cardinals,Greg Dortch,23,WR,5,2,3,24,0,17,8.0,4,79,0,31,19.8,142,2021
-3,84,Cardinals,Demetrius Harris,30,TE,14,4,0,0,0,0,,2,26,0,14,13.0,36,2021
-4,81,Cardinals,Darrell Daniels,27,TE,15,4,0,0,0,0,,1,6,0,6,6.0,6,2021
-5,17,Cardinals,Andy Isabella,25,WR,8,0,0,0,0,0,,1,31,0,31,31.0,44,2021
-6,13,Cardinals,Christian Kirk,25,WR,17,11,1,-5,0,0,-5.0,0,0,0,0,,988,2021
-7,7,Cardinals,Byron Murphy,23,LCB,16,16,1,48,0,48,48.0,0,0,0,0,,97,2021
-8,29,Cardinals,Jonathan Ward,24,RB,13,0,0,0,0,0,,1,16,0,16,16.0,83,2021
+,No.,Player,Age,Position,Games Played,Games Started,Punts Returned,Punts Return Yardage,Punts Returned for Touchdown,Longest Punt Return,Yards per Punt Return,Kickoff Returns,Yardage for Kickoffs Returned,Kickoffs Returned for a Touchdown,Longest Kickoff Return,Yards per Kickoff Return,All-purpose Yards,Team,Year
+4,4,Rondale Moore,21,WR,14,7,21,171,0,27,8.1,13,291,0,32,22.4,973,Cardinals,2021
+26,26,Eno Benjamin,22,RB,9,0,0,0,0,0,0.0,7,162,0,29,23.1,322,Cardinals,2021
+83,83,Greg Dortch,23,WR,5,2,3,24,0,17,8.0,4,79,0,31,19.8,142,Cardinals,2021
+84,84,Demetrius Harris,30,TE,14,4,0,0,0,0,0.0,2,26,0,14,13.0,36,Cardinals,2021
+81,81,Darrell Daniels,27,TE,15,4,0,0,0,0,0.0,1,6,0,6,6.0,6,Cardinals,2021
+17,17,Andy Isabella,25,WR,8,0,0,0,0,0,0.0,1,31,0,31,31.0,44,Cardinals,2021
+13,13,Christian Kirk,25,WR,17,11,1,-5,0,0,-5.0,0,0,0,0,0.0,988,Cardinals,2021
+7,7,Byron Murphy,23,LCB,16,16,1,48,0,48,48.0,0,0,0,0,0.0,97,Cardinals,2021
+29,29,Jonathan Ward,24,RB,13,0,0,0,0,0,0.0,1,16,0,16,16.0,83,Cardinals,2021

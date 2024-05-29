@@ -1,48 +1,48 @@
-,Rank,Team,Date,Opponent,Win/Loss,Score,Quarter,Distance,Type,Detail,Year
-0,1,Eagles,09/19/2021,SFO,Loss, 11-17,2,11,pass,Jauan Jennings,2021
-1,2,Eagles,09/19/2021,SFO,Loss, 11-17,4,1,rush,Jimmy Garoppolo,2021
-2,3,Eagles,09/27/2021,DAL,Loss, 21-41,1,1,rush,Ezekiel Elliott,2021
-3,4,Eagles,09/27/2021,DAL,Loss, 21-41,1,19,pass,Dalton Schultz,2021
-4,5,Eagles,09/27/2021,DAL,Loss, 21-41,2,3,rush,Ezekiel Elliott,2021
-5,6,Eagles,09/27/2021,DAL,Loss, 21-41,3,59,interception,Trevon Diggs,2021
-6,7,Eagles,09/27/2021,DAL,Loss, 21-41,4,2,pass,Cedrick Wilson Jr.,2021
-7,8,Eagles,09/27/2021,DAL,Loss, 21-41,4,22,pass,Dalton Schultz,2021
-8,9,Eagles,10/03/2021,KAN,Loss, 30-42,1,1,pass,Clyde Edwards-Helaire,2021
-9,10,Eagles,10/03/2021,KAN,Loss, 30-42,2,6,pass,Tyreek Hill,2021
-10,11,Eagles,10/03/2021,KAN,Loss, 30-42,2,2,pass,Jody Fortson,2021
-11,12,Eagles,10/03/2021,KAN,Loss, 30-42,3,1,rush,Darrel Williams,2021
-12,13,Eagles,10/03/2021,KAN,Loss, 30-42,4,12,pass,Tyreek Hill,2021
-13,14,Eagles,10/03/2021,KAN,Loss, 30-42,4,44,pass,Tyreek Hill,2021
-14,15,Eagles,10/10/2021,CAR,Win, 21-18,1,5,pass,Tommy Tremble,2021
-15,16,Eagles,10/14/2021,TAM,Loss, 22-28,1,2,pass,O.J. Howard,2021
-16,17,Eagles,10/14/2021,TAM,Loss, 22-28,1,23,pass,Antonio Brown,2021
-17,18,Eagles,10/14/2021,TAM,Loss, 22-28,2,2,rush,Leonard Fournette,2021
-18,19,Eagles,10/14/2021,TAM,Loss, 22-28,3,1,rush,Leonard Fournette,2021
-19,20,Eagles,10/24/2021,LVR,Loss, 22-33,2,18,pass,Foster Moreau,2021
-20,21,Eagles,10/24/2021,LVR,Loss, 22-33,2,8,rush,Josh Jacobs,2021
-21,22,Eagles,10/24/2021,LVR,Loss, 22-33,3,4,rush,Kenyan Drake,2021
-22,23,Eagles,10/24/2021,LVR,Loss, 22-33,3,1,pass,Bryan Edwards,2021
-23,24,Eagles,10/31/2021,DET,Win, 44-6,4,8,rush,Jermar Jefferson,2021
-24,25,Eagles,11/07/2021,LAC,Loss, 24-27,1,2,pass,Stephen Anderson,2021
-25,26,Eagles,11/07/2021,LAC,Loss, 24-27,3,8,pass,Donald Parham,2021
-26,27,Eagles,11/07/2021,LAC,Loss, 24-27,4,8,rush,Justin Herbert,2021
-27,28,Eagles,11/14/2021,DEN,Win, 30-13,2,1,rush,Melvin Gordon,2021
-28,29,Eagles,11/21/2021,NOR,Win, 40-29,2,18,pass,Adam Trautman,2021
-29,30,Eagles,11/21/2021,NOR,Win, 40-29,4,26,pass,Marquez Callaway,2021
-30,31,Eagles,11/21/2021,NOR,Win, 40-29,4,17,rush,Trevor Siemian,2021
-31,32,Eagles,11/21/2021,NOR,Win, 40-29,4,4,pass,Lil'Jordan Humphrey,2021
-32,33,Eagles,11/28/2021,NYG,Loss, 7-13,3,1,pass,Chris Myarick,2021
-33,34,Eagles,12/05/2021,NYJ,Win, 33-18,1,3,pass,Elijah Moore,2021
-34,35,Eagles,12/05/2021,NYJ,Win, 33-18,1,1,rush,Zach Wilson,2021
-35,36,Eagles,12/05/2021,NYJ,Win, 33-18,2,1,pass,Ryan Griffin,2021
-36,37,Eagles,12/21/2021,WAS,Win, 27-17,1,1,rush,Antonio Gibson,2021
-37,38,Eagles,12/21/2021,WAS,Win, 27-17,4,1,rush,Jaret Patterson,2021
-38,39,Eagles,12/26/2021,NYG,Win, 34-10,4,9,pass,Evan Engram,2021
-39,40,Eagles,01/02/2022,WAS,Win, 20-16,1,11,rush,Jaret Patterson,2021
-40,41,Eagles,01/08/2022,DAL,Loss, 26-51,1,14,pass,Cedrick Wilson Jr.,2021
-41,42,Eagles,01/08/2022,DAL,Loss, 26-51,2,24,pass,Cedrick Wilson Jr.,2021
-42,43,Eagles,01/08/2022,DAL,Loss, 26-51,2,2,pass,Dalton Schultz,2021
-43,44,Eagles,01/08/2022,DAL,Loss, 26-51,2,9,pass,Dalton Schultz,2021
-44,45,Eagles,01/08/2022,DAL,Loss, 26-51,4,8,pass,Corey Clement,2021
-45,46,Eagles,01/08/2022,DAL,Loss, 26-51,4,4,rush,Ito Smith,2021
-46,47,Eagles,01/08/2022,DAL,Loss, 26-51,4,22,rush,JaQuan Hardy,2021
+,Rank,Team,Date,Opponent,Win/Loss,Home_Score,Opponenet_Score,Quarter,Distance,Type,Detail
+1,1,Eagles,2021-09-19,SFO,Loss,11,17,2,11,pass,Jauan Jennings
+2,2,Eagles,2021-09-19,SFO,Loss,11,17,4,1,rush,Jimmy Garoppolo
+3,3,Eagles,2021-09-27,DAL,Loss,21,41,1,1,rush,Ezekiel Elliott
+4,4,Eagles,2021-09-27,DAL,Loss,21,41,1,19,pass,Dalton Schultz
+5,5,Eagles,2021-09-27,DAL,Loss,21,41,2,3,rush,Ezekiel Elliott
+6,6,Eagles,2021-09-27,DAL,Loss,21,41,3,59,interception,Trevon Diggs
+7,7,Eagles,2021-09-27,DAL,Loss,21,41,4,2,pass,Cedrick Wilson Jr.
+8,8,Eagles,2021-09-27,DAL,Loss,21,41,4,22,pass,Dalton Schultz
+9,9,Eagles,2021-10-03,KAN,Loss,30,42,1,1,pass,Clyde Edwards-Helaire
+10,10,Eagles,2021-10-03,KAN,Loss,30,42,2,6,pass,Tyreek Hill
+11,11,Eagles,2021-10-03,KAN,Loss,30,42,2,2,pass,Jody Fortson
+12,12,Eagles,2021-10-03,KAN,Loss,30,42,3,1,rush,Darrel Williams
+13,13,Eagles,2021-10-03,KAN,Loss,30,42,4,12,pass,Tyreek Hill
+14,14,Eagles,2021-10-03,KAN,Loss,30,42,4,44,pass,Tyreek Hill
+15,15,Eagles,2021-10-10,CAR,Win,21,18,1,5,pass,Tommy Tremble
+16,16,Eagles,2021-10-14,TAM,Loss,22,28,1,2,pass,O.J. Howard
+17,17,Eagles,2021-10-14,TAM,Loss,22,28,1,23,pass,Antonio Brown
+18,18,Eagles,2021-10-14,TAM,Loss,22,28,2,2,rush,Leonard Fournette
+19,19,Eagles,2021-10-14,TAM,Loss,22,28,3,1,rush,Leonard Fournette
+20,20,Eagles,2021-10-24,LVR,Loss,22,33,2,18,pass,Foster Moreau
+21,21,Eagles,2021-10-24,LVR,Loss,22,33,2,8,rush,Josh Jacobs
+22,22,Eagles,2021-10-24,LVR,Loss,22,33,3,4,rush,Kenyan Drake
+23,23,Eagles,2021-10-24,LVR,Loss,22,33,3,1,pass,Bryan Edwards
+24,24,Eagles,2021-10-31,DET,Win,44,6,4,8,rush,Jermar Jefferson
+25,25,Eagles,2021-11-07,LAC,Loss,24,27,1,2,pass,Stephen Anderson
+26,26,Eagles,2021-11-07,LAC,Loss,24,27,3,8,pass,Donald Parham
+27,27,Eagles,2021-11-07,LAC,Loss,24,27,4,8,rush,Justin Herbert
+28,28,Eagles,2021-11-14,DEN,Win,30,13,2,1,rush,Melvin Gordon
+29,29,Eagles,2021-11-21,NOR,Win,40,29,2,18,pass,Adam Trautman
+30,30,Eagles,2021-11-21,NOR,Win,40,29,4,26,pass,Marquez Callaway
+31,31,Eagles,2021-11-21,NOR,Win,40,29,4,17,rush,Trevor Siemian
+32,32,Eagles,2021-11-21,NOR,Win,40,29,4,4,pass,Lil'Jordan Humphrey
+33,33,Eagles,2021-11-28,NYG,Loss,7,13,3,1,pass,Chris Myarick
+34,34,Eagles,2021-12-05,NYJ,Win,33,18,1,3,pass,Elijah Moore
+35,35,Eagles,2021-12-05,NYJ,Win,33,18,1,1,rush,Zach Wilson
+36,36,Eagles,2021-12-05,NYJ,Win,33,18,2,1,pass,Ryan Griffin
+37,37,Eagles,2021-12-21,WAS,Win,27,17,1,1,rush,Antonio Gibson
+38,38,Eagles,2021-12-21,WAS,Win,27,17,4,1,rush,Jaret Patterson
+39,39,Eagles,2021-12-26,NYG,Win,34,10,4,9,pass,Evan Engram
+40,40,Eagles,2022-01-02,WAS,Win,20,16,1,11,rush,Jaret Patterson
+41,41,Eagles,2022-01-08,DAL,Loss,26,51,1,14,pass,Cedrick Wilson Jr.
+42,42,Eagles,2022-01-08,DAL,Loss,26,51,2,24,pass,Cedrick Wilson Jr.
+43,43,Eagles,2022-01-08,DAL,Loss,26,51,2,2,pass,Dalton Schultz
+44,44,Eagles,2022-01-08,DAL,Loss,26,51,2,9,pass,Dalton Schultz
+45,45,Eagles,2022-01-08,DAL,Loss,26,51,4,8,pass,Corey Clement
+46,46,Eagles,2022-01-08,DAL,Loss,26,51,4,4,rush,Ito Smith
+47,47,Eagles,2022-01-08,DAL,Loss,26,51,4,22,rush,JaQuan Hardy

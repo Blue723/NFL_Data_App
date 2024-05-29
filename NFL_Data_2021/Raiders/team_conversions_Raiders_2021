@@ -1,5 +1,5 @@
-,Player,Team,3rd Down Attempts in Game,3rd Down Conversions,3rd Down Conversion Per.,4th Down Attempts in Game,4th Down Conversions in Game,4th Down Conversion Per.,Red Zone Attempts,Touchdowns Scored After the Team Entered the Red Zone,Per. of the Time a Team Reaches the Red Zone and Scores a Touchdown,Year
-0,Team Stats,Raiders,206.0,77.0,37.4,19.0,12.0,63.2,60.0,31.0,51.7,2021.0
-1,Opp. Stats,Raiders,230.0,91.0,39.6,29.0,21.0,72.4,43.0,35.0,81.4,2021.0
-2,Lg Rank Offense,Raiders,,,22.0,,,6.0,,,26.0,2021.0
-3,Lg Rank Defense,Raiders,,,15.0,,,32.0,,,32.0,2021.0
+,Player,3rd Down Attempts in Game,3rd Down Conversions,3rd Down Conversion Per.,4th Down Attempts in Game,4th Down Conversions in Game,4th Down Conversion Per.,Red Zone Attempts,Touchdowns Scored After the Team Entered the Red Zone,Per. of the Time a Team Reaches the Red Zone and Scores a Touchdown,Team,Year
+Team Stats,Team Stats,206.0,77.0,37.4,19.0,12.0,63.2,60.0,31.0,51.7,Raiders,2021
+Opp. Stats,Opp. Stats,230.0,91.0,39.6,29.0,21.0,72.4,43.0,35.0,81.4,Raiders,2021
+Lg Rank Offense,Lg Rank Offense,0.0,0.0,22.0,0.0,0.0,6.0,0.0,0.0,26,Raiders,2021
+Lg Rank Defense,Lg Rank Defense,0.0,0.0,15.0,0.0,0.0,32.0,0.0,0.0,32,Raiders,2021
