@@ -1,45 +1,45 @@
-,Rank,Team,Date,Opponent,Win/Loss,Score,Quarter,Distance,Type,Detail,Year
-0,1,49ers,09/09/2012,GNB,Win, 30-22,2,14,pass,Randy Moss,2012
-1,2,49ers,09/09/2012,GNB,Win, 30-22,3,4,pass,Vernon Davis,2012
-2,3,49ers,09/09/2012,GNB,Win, 30-22,4,23,rush,Frank Gore,2012
-3,4,49ers,09/16/2012,DET,Win, 27-19,1,21,pass,Vernon Davis,2012
-4,5,49ers,09/16/2012,DET,Win, 27-19,2,1,rush,Frank Gore,2012
-5,6,49ers,09/16/2012,DET,Win, 27-19,4,23,pass,Vernon Davis,2012
-6,7,49ers,09/23/2012,MIN,Loss, 13-24,3,1,pass,Vernon Davis,2012
-7,8,49ers,09/30/2012,NYJ,Win, 34-0,2,7,rush,Colin Kaepernick,2012
-8,9,49ers,09/30/2012,NYJ,Win, 34-0,3,2,rush,Frank Gore,2012
-9,10,49ers,09/30/2012,NYJ,Win, 34-0,4,51,fumble,Carlos Rogers,2012
-10,11,49ers,09/30/2012,NYJ,Win, 34-0,4,1,rush,Kendall Hunter,2012
-11,12,49ers,10/07/2012,BUF,Win, 45-3,2,43,pass,Kyle Williams,2012
-12,13,49ers,10/07/2012,BUF,Win, 45-3,2,28,pass,Michael Crabtree,2012
-13,14,49ers,10/07/2012,BUF,Win, 45-3,3,1,rush,Frank Gore,2012
-14,15,49ers,10/07/2012,BUF,Win, 45-3,4,10,pass,Mario Manningham,2012
-15,16,49ers,10/07/2012,BUF,Win, 45-3,4,16,rush,Colin Kaepernick,2012
-16,17,49ers,10/07/2012,BUF,Win, 45-3,4,3,rush,Anthony Dixon,2012
-17,18,49ers,10/18/2012,SEA,Win, 13-6,3,12,pass,Delanie Walker,2012
-18,19,49ers,10/29/2012,ARI,Win, 24-3,1,3,pass,Michael Crabtree,2012
-19,20,49ers,10/29/2012,ARI,Win, 24-3,2,9,pass,Michael Crabtree,2012
-20,21,49ers,10/29/2012,ARI,Win, 24-3,3,47,pass,Randy Moss,2012
-21,22,49ers,11/11/2012,STL,T, 24-24,2,14,pass,Michael Crabtree,2012
-22,23,49ers,11/11/2012,STL,T, 24-24,4,7,rush,Colin Kaepernick,2012
-23,24,49ers,11/11/2012,STL,T, 24-24,4,20,rush,Frank Gore,2012
-24,25,49ers,11/19/2012,CHI,Win, 32-7,1,3,pass,Vernon Davis,2012
-25,26,49ers,11/19/2012,CHI,Win, 32-7,2,14,rush,Kendall Hunter,2012
-26,27,49ers,11/19/2012,CHI,Win, 32-7,3,10,pass,Michael Crabtree,2012
-27,28,49ers,11/25/2012,NOR,Win, 31-21,1,7,rush,Colin Kaepernick,2012
-28,29,49ers,11/25/2012,NOR,Win, 31-21,2,50,interception,Ahmad Brooks,2012
-29,30,49ers,11/25/2012,NOR,Win, 31-21,3,6,pass,Frank Gore,2012
-30,31,49ers,11/25/2012,NOR,Win, 31-21,3,42,interception,Donte Whitner,2012
-31,32,49ers,12/02/2012,STL,Loss, 13-16,1,1,rush,Frank Gore,2012
-32,33,49ers,12/09/2012,MIA,Win, 27-13,3,1,rush,Frank Gore,2012
-33,34,49ers,12/09/2012,MIA,Win, 27-13,4,1,rush,Anthony Dixon,2012
-34,35,49ers,12/09/2012,MIA,Win, 27-13,4,50,rush,Colin Kaepernick,2012
-35,36,49ers,12/16/2012,NWE,Win, 41-34,1,24,pass,Randy Moss,2012
-36,37,49ers,12/16/2012,NWE,Win, 41-34,2,34,pass,Delanie Walker,2012
-37,38,49ers,12/16/2012,NWE,Win, 41-34,3,9,fumble,Frank Gore,2012
-38,39,49ers,12/16/2012,NWE,Win, 41-34,3,27,pass,Michael Crabtree,2012
-39,40,49ers,12/16/2012,NWE,Win, 41-34,4,38,pass,Michael Crabtree,2012
-40,41,49ers,12/23/2012,SEA,Loss, 13-42,4,18,pass,Delanie Walker,2012
-41,42,49ers,12/30/2012,ARI,Win, 27-13,2,49,pass,Michael Crabtree,2012
-42,43,49ers,12/30/2012,ARI,Win, 27-13,3,7,pass,Michael Crabtree,2012
-43,44,49ers,12/30/2012,ARI,Win, 27-13,4,2,rush,Frank Gore,2012
+,Rank,Team,Date,Opponent,Win/Loss,Home_Score,Opponenet_Score,Quarter,Distance,Type,Detail
+1,1,49ers,2012-09-09,GNB,Win,30,22,2,14,pass,Randy Moss
+2,2,49ers,2012-09-09,GNB,Win,30,22,3,4,pass,Vernon Davis
+3,3,49ers,2012-09-09,GNB,Win,30,22,4,23,rush,Frank Gore
+4,4,49ers,2012-09-16,DET,Win,27,19,1,21,pass,Vernon Davis
+5,5,49ers,2012-09-16,DET,Win,27,19,2,1,rush,Frank Gore
+6,6,49ers,2012-09-16,DET,Win,27,19,4,23,pass,Vernon Davis
+7,7,49ers,2012-09-23,MIN,Loss,13,24,3,1,pass,Vernon Davis
+8,8,49ers,2012-09-30,NYJ,Win,34,0,2,7,rush,Colin Kaepernick
+9,9,49ers,2012-09-30,NYJ,Win,34,0,3,2,rush,Frank Gore
+10,10,49ers,2012-09-30,NYJ,Win,34,0,4,51,fumble,Carlos Rogers
+11,11,49ers,2012-09-30,NYJ,Win,34,0,4,1,rush,Kendall Hunter
+12,12,49ers,2012-10-07,BUF,Win,45,3,2,43,pass,Kyle Williams
+13,13,49ers,2012-10-07,BUF,Win,45,3,2,28,pass,Michael Crabtree
+14,14,49ers,2012-10-07,BUF,Win,45,3,3,1,rush,Frank Gore
+15,15,49ers,2012-10-07,BUF,Win,45,3,4,10,pass,Mario Manningham
+16,16,49ers,2012-10-07,BUF,Win,45,3,4,16,rush,Colin Kaepernick
+17,17,49ers,2012-10-07,BUF,Win,45,3,4,3,rush,Anthony Dixon
+18,18,49ers,2012-10-18,SEA,Win,13,6,3,12,pass,Delanie Walker
+19,19,49ers,2012-10-29,ARI,Win,24,3,1,3,pass,Michael Crabtree
+20,20,49ers,2012-10-29,ARI,Win,24,3,2,9,pass,Michael Crabtree
+21,21,49ers,2012-10-29,ARI,Win,24,3,3,47,pass,Randy Moss
+22,22,49ers,2012-11-11,STL,T,24,24,2,14,pass,Michael Crabtree
+23,23,49ers,2012-11-11,STL,T,24,24,4,7,rush,Colin Kaepernick
+24,24,49ers,2012-11-11,STL,T,24,24,4,20,rush,Frank Gore
+25,25,49ers,2012-11-19,CHI,Win,32,7,1,3,pass,Vernon Davis
+26,26,49ers,2012-11-19,CHI,Win,32,7,2,14,rush,Kendall Hunter
+27,27,49ers,2012-11-19,CHI,Win,32,7,3,10,pass,Michael Crabtree
+28,28,49ers,2012-11-25,NOR,Win,31,21,1,7,rush,Colin Kaepernick
+29,29,49ers,2012-11-25,NOR,Win,31,21,2,50,interception,Ahmad Brooks
+30,30,49ers,2012-11-25,NOR,Win,31,21,3,6,pass,Frank Gore
+31,31,49ers,2012-11-25,NOR,Win,31,21,3,42,interception,Donte Whitner
+32,32,49ers,2012-12-02,STL,Loss,13,16,1,1,rush,Frank Gore
+33,33,49ers,2012-12-09,MIA,Win,27,13,3,1,rush,Frank Gore
+34,34,49ers,2012-12-09,MIA,Win,27,13,4,1,rush,Anthony Dixon
+35,35,49ers,2012-12-09,MIA,Win,27,13,4,50,rush,Colin Kaepernick
+36,36,49ers,2012-12-16,NWE,Win,41,34,1,24,pass,Randy Moss
+37,37,49ers,2012-12-16,NWE,Win,41,34,2,34,pass,Delanie Walker
+38,38,49ers,2012-12-16,NWE,Win,41,34,3,9,fumble,Frank Gore
+39,39,49ers,2012-12-16,NWE,Win,41,34,3,27,pass,Michael Crabtree
+40,40,49ers,2012-12-16,NWE,Win,41,34,4,38,pass,Michael Crabtree
+41,41,49ers,2012-12-23,SEA,Loss,13,42,4,18,pass,Delanie Walker
+42,42,49ers,2012-12-30,ARI,Win,27,13,2,49,pass,Michael Crabtree
+43,43,49ers,2012-12-30,ARI,Win,27,13,3,7,pass,Michael Crabtree
+44,44,49ers,2012-12-30,ARI,Win,27,13,4,2,rush,Frank Gore

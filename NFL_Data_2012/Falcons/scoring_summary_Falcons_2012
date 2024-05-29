@@ -1,15 +1,15 @@
-,No.,Team,Player,Age,Pos,Games Played,Games Started,Rush TD,Reception TD,Punt Return TD,Kick Return TD,Fumble Return TD,Interception TD,Other TD,All Touchdown Scored,2-Point Conversions Made,Two-Point Conversions Attempted,Defensive Two-Point Conversions,Extra Points Made,Extra Points Allowed,Field Goals Made,Field Goals Attempted,Safeties Scored by Player/Team,Total Points Scored by all Means,Poins per Game,Year
-0,3,Falcons,Matt Bryant,37,K,16,0,0,0,0,0,0,0,0,0,0,0,0,44,44,33,38,,143,8.9,2012
-1,33,Falcons,Michael Turner,30,RB,16,16,10,1,0,0,0,0,0,11,0,0,0,0,0,0,0,,66,4.1,2012
-2,11,Falcons,Julio Jones,23,WR,16,15,0,10,0,0,0,0,0,10,0,0,0,0,0,0,0,,60,3.8,2012
-3,88,Falcons,Tony Gonzalez,36,TE,16,16,0,8,0,0,0,0,0,8,0,0,0,0,0,0,0,,48,3.0,2012
-4,84,Falcons,Roddy White,31,WR,16,15,0,7,0,0,0,0,0,7,0,0,0,0,0,0,0,,42,2.6,2012
-5,32,Falcons,Jacquizz Rodgers,22,RB,16,0,1,1,0,0,0,0,0,2,0,0,0,0,0,0,0,,12,0.8,2012
-6,95,Falcons,Jonathan Babineaux,31,RDT,16,16,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,,6,0.4,2012
-7,19,Falcons,Drew Davis,23,WR,16,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,,6,0.4,2012
-8,83,Falcons,Harry Douglas,28,WR,15,1,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,,6,0.4,2012
-9,79,Falcons,Mike Johnson,25,G,16,1,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,,6,0.4,2012
-10,81,Falcons,Michael Palmer,24,TE,13,2,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,,6,0.5,2012
-11,2,Falcons,Matt Ryan,27,QB,16,16,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,,6,0.4,2012
-12,22,Falcons,Asante Samuel,31,RCB,15,15,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,,6,0.4,2012
-13,44,Falcons,Jason Snelling,29,RB,16,2,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,,6,0.4,2012
+,No.,Player,Age,Pos,Games Played,Games Started,Rush TD,Reception TD,Punt Return TD,Kick Return TD,Fumble Return TD,Interception TD,Other TD,All Touchdown Scored,2-Point Conversions Made,Two-Point Conversions Attempted,Defensive Two-Point Conversions,Extra Points Made,Extra Points Allowed,Field Goals Made,Field Goals Attempted,Safeties Scored by Player/Team,Total Points Scored by all Means,Poins per Game,Team,Year
+3,3,Matt Bryant,37,K,16,0,0,0,0,0,0,0,0,0,0,0,0,44,44,33,38,0,143,8.9,Falcons,2012
+33,33,Michael Turner,30,RB,16,16,10,1,0,0,0,0,0,11,0,0,0,0,0,0,0,0,66,4.1,Falcons,2012
+11,11,Julio Jones,23,WR,16,15,0,10,0,0,0,0,0,10,0,0,0,0,0,0,0,0,60,3.8,Falcons,2012
+88,88,Tony Gonzalez,36,TE,16,16,0,8,0,0,0,0,0,8,0,0,0,0,0,0,0,0,48,3.0,Falcons,2012
+84,84,Roddy White,31,WR,16,15,0,7,0,0,0,0,0,7,0,0,0,0,0,0,0,0,42,2.6,Falcons,2012
+32,32,Jacquizz Rodgers,22,RB,16,0,1,1,0,0,0,0,0,2,0,0,0,0,0,0,0,0,12,0.8,Falcons,2012
+95,95,Jonathan Babineaux,31,RDT,16,16,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,6,0.4,Falcons,2012
+19,19,Drew Davis,23,WR,16,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,6,0.4,Falcons,2012
+83,83,Harry Douglas,28,WR,15,1,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,6,0.4,Falcons,2012
+79,79,Mike Johnson,25,G,16,1,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,6,0.4,Falcons,2012
+81,81,Michael Palmer,24,TE,13,2,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,6,0.5,Falcons,2012
+2,2,Matt Ryan,27,QB,16,16,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,6,0.4,Falcons,2012
+22,22,Asante Samuel,31,RCB,15,15,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,6,0.4,Falcons,2012
+44,44,Jason Snelling,29,RB,16,2,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,6,0.4,Falcons,2012

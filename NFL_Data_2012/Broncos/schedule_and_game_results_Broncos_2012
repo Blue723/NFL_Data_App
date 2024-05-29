@@ -1,20 +1,18 @@
-,Week,Team,Day,Date,Time,Win/Loss,Overtime,Team Record,Home/Away,Opponent,Points Scored,Points Allowed,Offense 1st Down,Total Yards Gained of Offense,Total yards Gained by Passing,Total Yards Gained by Rushing,Offense Turnovers,Defense 1st Down,Total Yards Allowed by Defense,Total Passing Yards Allowed by Defense,Total Rushing Yards Allowed by Defense,Defense Turnovers,Offense,Defense,Sp. Tms,Year
-0,0,Broncos,Sun,September 9,,W,0,1-0,home,Pittsburgh Steelers,31,19,20,334,240,94,1,19,284,209,75,1,12.14,3.83,-1.33,2012
-1,1,Broncos,Mon,September 17,,L,0,1-1,away,Atlanta Falcons,21,27,24,336,218,118,4,22,275,208,67,0,-3.8,-4.09,-0.87,2012
-2,2,Broncos,Sun,September 23,,L,0,1-2,home,Houston Texans,25,31,24,375,316,59,1,23,436,284,152,2,6.82,-11.08,-1.21,2012
-3,3,Broncos,Sun,September 30,,W,0,2-2,home,Oakland Raiders,37,6,26,503,338,165,1,12,237,181,56,0,22.58,10.14,-3.1,2012
-4,4,Broncos,Sun,October 7,,L,0,2-3,away,New England Patriots,21,31,22,394,324,70,3,35,444,193,251,1,6.34,-13.99,-0.99,2012
-5,5,Broncos,Mon,October 15,,W,0,3-3,away,San Diego Chargers,35,24,18,365,309,56,3,23,307,217,90,6,2.3,20.12,-9.87,2012
-6,6,Broncos,,,,,0,,home,<strong>Bye Week</strong>,0,0,0,0,0,0,0,0,0,0,0,0,,,,2012
-7,7,Broncos,Sun,October 28,,W,0,4-3,home,New Orleans Saints,34,14,29,530,305,225,1,14,252,201,51,1,18.32,3.84,-1.31,2012
-8,8,Broncos,Sun,November 4,,W,0,5-3,away,Cincinnati Bengals,31,23,20,359,291,68,2,22,366,275,91,1,9.66,-6.07,6.44,2012
-9,9,Broncos,Sun,November 11,,W,0,6-3,away,Carolina Panthers,36,14,18,360,295,65,2,19,250,198,52,2,-4.32,16.41,6.35,2012
-10,10,Broncos,Sun,November 18,,W,0,7-3,home,San Diego Chargers,30,23,21,386,253,133,2,13,277,224,53,3,-3.19,18.89,-4.77,2012
-11,11,Broncos,Sun,November 25,,W,0,8-3,away,Kansas City Chiefs,17,9,21,368,273,95,1,13,264,116,148,1,9.13,6.75,-6.75,2012
-12,12,Broncos,Sun,December 2,,W,0,9-3,home,Tampa Bay Buccaneers,31,23,25,333,242,91,1,18,306,235,71,1,4.94,6.77,-2.62,2012
-13,13,Broncos,Thu,December 6,,W,0,10-3,away,Oakland Raiders,26,13,30,428,288,140,1,14,324,263,61,2,13.75,1.28,1.52,2012
-14,14,Broncos,Sun,December 16,,W,0,11-3,away,Baltimore Ravens,34,17,21,350,187,163,0,12,278,222,56,2,1.94,27.94,-9.09,2012
-15,15,Broncos,Sun,December 23,,W,0,12-3,home,Cleveland Browns,34,12,29,457,339,118,1,20,233,142,91,1,18.12,5.68,2.68,2012
-16,16,Broncos,Sun,December 30,,W,0,13-3,home,Kansas City Chiefs,38,3,32,488,316,172,1,8,119,26,93,0,20.95,14.79,-3.42,2012
-17,17,Broncos,,<strong>Playoffs</strong>,,,0,,home,,0,0,0,0,0,0,0,0,0,0,0,0,,,,2012
-18,18,1,1,1,1.0,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1.0,1.0,1.0,1
+,Week,Day,Date,Time,Win/Loss,Overtime,Team Record,Home/Away,Opponent,Points Scored,Points Allowed,Offense 1st Down,Total Yards Gained of Offense,Total yards Gained by Passing,Total Yards Gained by Rushing,Offense Turnovers,Defense 1st Down,Total Yards Allowed by Defense,Total Passing Yards Allowed by Defense,Total Rushing Yards Allowed by Defense,Defense Turnovers,Offense,Defense,Sp. Tms,Team,Year
+0,1,Sun,2012-09-09,nan,Win,0,1-0,home,Pittsburgh Steelers,31,19,20,334,240,94,1,19,284,209,75,1,12.14,3.83,-1.33,Broncos,2012
+1,2,Mon,2012-09-17,nan,Loss,0,1-1,away,Atlanta Falcons,21,27,24,336,218,118,4,22,275,208,67,0,-3.8,-4.09,-0.87,Broncos,2012
+2,3,Sun,2012-09-23,nan,Loss,0,1-2,home,Houston Texans,25,31,24,375,316,59,1,23,436,284,152,2,6.82,-11.08,-1.21,Broncos,2012
+3,4,Sun,2012-09-30,nan,Win,0,2-2,home,Oakland Raiders,37,6,26,503,338,165,1,12,237,181,56,0,22.58,10.14,-3.1,Broncos,2012
+4,5,Sun,2012-10-07,nan,Loss,0,2-3,away,New England Patriots,21,31,22,394,324,70,3,35,444,193,251,1,6.34,-13.99,-0.99,Broncos,2012
+5,6,Mon,2012-10-15,nan,Win,0,3-3,away,San Diego Chargers,35,24,18,365,309,56,3,23,307,217,90,6,2.3,20.12,-9.87,Broncos,2012
+6,8,Sun,2012-10-28,nan,Win,0,4-3,home,New Orleans Saints,34,14,29,530,305,225,1,14,252,201,51,1,18.32,3.84,-1.31,Broncos,2012
+7,9,Sun,2012-11-04,nan,Win,0,5-3,away,Cincinnati Bengals,31,23,20,359,291,68,2,22,366,275,91,1,9.66,-6.07,6.44,Broncos,2012
+8,10,Sun,2012-11-11,nan,Win,0,6-3,away,Carolina Panthers,36,14,18,360,295,65,2,19,250,198,52,2,-4.32,16.41,6.35,Broncos,2012
+9,11,Sun,2012-11-18,nan,Win,0,7-3,home,San Diego Chargers,30,23,21,386,253,133,2,13,277,224,53,3,-3.19,18.89,-4.77,Broncos,2012
+10,12,Sun,2012-11-25,nan,Win,0,8-3,away,Kansas City Chiefs,17,9,21,368,273,95,1,13,264,116,148,1,9.13,6.75,-6.75,Broncos,2012
+11,13,Sun,2012-12-02,nan,Win,0,9-3,home,Tampa Bay Buccaneers,31,23,25,333,242,91,1,18,306,235,71,1,4.94,6.77,-2.62,Broncos,2012
+12,14,Thu,2012-12-06,nan,Win,0,10-3,away,Oakland Raiders,26,13,30,428,288,140,1,14,324,263,61,2,13.75,1.28,1.52,Broncos,2012
+13,15,Sun,2012-12-16,nan,Win,0,11-3,away,Baltimore Ravens,34,17,21,350,187,163,0,12,278,222,56,2,1.94,27.94,-9.09,Broncos,2012
+14,16,Sun,2012-12-23,nan,Win,0,12-3,home,Cleveland Browns,34,12,29,457,339,118,1,20,233,142,91,1,18.12,5.68,2.68,Broncos,2012
+15,17,Sun,2012-12-30,nan,Win,0,13-3,home,Kansas City Chiefs,38,3,32,488,316,172,1,8,119,26,93,0,20.95,14.79,-3.42,Broncos,2012
+16,19,Sat,2013-01-12,nan,Loss,1,13-4,home,Baltimore Ravens,35,38,30,398,273,125,3,21,479,324,155,1,0.17,-9.89,6.13,Broncos,2012

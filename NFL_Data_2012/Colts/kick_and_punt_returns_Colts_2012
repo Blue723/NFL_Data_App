@@ -1,9 +1,9 @@
-,No.,Team,Player,Age,Position,Games Played,Games Started,Punts Returned,Punts Return Yardage,Punts Returned for Touchdown,Longest Punt Return,Yards per Punt Return,Kickoff Returns,Yardage for Kickoffs Returned,Kickoffs Returned for a Touchdown,Longest Kickoff Return,Yards per Kickoff Return,All-purpose Yards,Year
-0,13,Colts,T.Y. Hilton,23,WR,15,1,26,300,1,75,11.5,7,118,0,26,16.9,1308,2012
-1,32,Colts,Cassius Vaughn,25,LCB,16,11,0,0,0,0,,10,209,0,40,20.9,212,2012
-2,36,Colts,Deji Karim,26,RB,3,0,0,0,0,0,,9,328,1,101,36.4,328,2012
-3,28,Colts,Tom Zbikowski,27,SS,11,11,0,0,0,0,,6,123,0,34,20.5,143,2012
-4,15,Colts,LaVon Brazill,23,WR,15,0,2,12,0,8,6.0,3,50,0,20,16.7,248,2012
-5,35,Colts,Joe Lefeged,24,DB,16,4,0,0,0,0,,4,68,0,19,17.0,72,2012
-6,26,Colts,Mewelde Moore,30,RB,9,0,0,0,0,0,,3,50,0,24,16.7,147,2012
-7,60,Colts,Bradley Sowell,23,T,10,0,0,0,0,0,,1,11,0,11,11.0,11,2012
+,No.,Player,Age,Position,Games Played,Games Started,Punts Returned,Punts Return Yardage,Punts Returned for Touchdown,Longest Punt Return,Yards per Punt Return,Kickoff Returns,Yardage for Kickoffs Returned,Kickoffs Returned for a Touchdown,Longest Kickoff Return,Yards per Kickoff Return,All-purpose Yards,Team,Year
+13,13,T.Y. Hilton,23,WR,15,1,26,300,1,75,11.5,7,118,0,26,16.9,1308,Colts,2012
+32,32,Cassius Vaughn,25,LCB,16,11,0,0,0,0,0.0,10,209,0,40,20.9,212,Colts,2012
+36,36,Deji Karim,26,RB,3,0,0,0,0,0,0.0,9,328,1,101,36.4,328,Colts,2012
+28,28,Tom Zbikowski,27,SS,11,11,0,0,0,0,0.0,6,123,0,34,20.5,143,Colts,2012
+15,15,LaVon Brazill,23,WR,15,0,2,12,0,8,6.0,3,50,0,20,16.7,248,Colts,2012
+35,35,Joe Lefeged,24,DB,16,4,0,0,0,0,0.0,4,68,0,19,17.0,72,Colts,2012
+26,26,Mewelde Moore,30,RB,9,0,0,0,0,0,0.0,3,50,0,24,16.7,147,Colts,2012
+60,60,Bradley Sowell,23,T,10,0,0,0,0,0,0.0,1,11,0,11,11.0,11,Colts,2012

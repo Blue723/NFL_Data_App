@@ -1,5 +1,5 @@
-,No.,Team,Player,Age,Position,Games Played,Games Started,Punts Returned,Punts Return Yardage,Punts Returned for Touchdown,Longest Punt Return,Yards per Punt Return,Kickoff Returns,Yardage for Kickoffs Returned,Kickoffs Returned for a Touchdown,Longest Kickoff Return,Yards per Kickoff Return,All-purpose Yards,Year
-0,34,Dolphins,Marcus Thigpen,26,RB,16,0,26,316,1,72,12.2,38,1040,1,96,27.4,1379,2012
-1,15,Dolphins,Davone Bess,27,WR,13,13,4,30,0,11,7.5,0,0,0,0,,808,2012
-2,41,Dolphins,Jorvorskie Lane,25,FB,16,5,0,0,0,0,,2,42,0,24,21.0,134,2012
-3,20,Dolphins,Reshad Jones,24,FS,16,16,1,0,0,0,0.0,0,0,0,0,,52,2012
+,No.,Player,Age,Position,Games Played,Games Started,Punts Returned,Punts Return Yardage,Punts Returned for Touchdown,Longest Punt Return,Yards per Punt Return,Kickoff Returns,Yardage for Kickoffs Returned,Kickoffs Returned for a Touchdown,Longest Kickoff Return,Yards per Kickoff Return,All-purpose Yards,Team,Year
+34,34,Marcus Thigpen,26,RB,16,0,26,316,1,72,12.2,38,1040,1,96,27.4,1379,Dolphins,2012
+15,15,Davone Bess,27,WR,13,13,4,30,0,11,7.5,0,0,0,0,0.0,808,Dolphins,2012
+41,41,Jorvorskie Lane,25,FB,16,5,0,0,0,0,0.0,2,42,0,24,21.0,134,Dolphins,2012
+20,20,Reshad Jones,24,FS,16,16,1,0,0,0,0.0,0,0,0,0,0.0,52,Dolphins,2012

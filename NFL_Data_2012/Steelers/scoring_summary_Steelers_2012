@@ -1,16 +1,16 @@
-,No.,Team,Player,Age,Pos,Games Played,Games Started,Rush TD,Reception TD,Punt Return TD,Kick Return TD,Fumble Return TD,Interception TD,Other TD,All Touchdown Scored,2-Point Conversions Made,Two-Point Conversions Attempted,Defensive Two-Point Conversions,Extra Points Made,Extra Points Allowed,Field Goals Made,Field Goals Attempted,Safeties Scored by Player/Team,Total Points Scored by all Means,Poins per Game,Year
-0,6,Steelers,Shaun Suisham,31,K,16,0,0,0,0,0,0,0,0,0,0,0,0,34,34,28,31,,118,7.4,2012
-1,83,Steelers,Heath Miller,30,TE,15,15,0,8,0,0,0,0,0,8,1,0,0,0,0,0,0,,50,3.3,2012
-2,17,Steelers,Mike Wallace,26,WR,15,14,0,8,0,0,0,0,0,8,0,0,0,0,0,0,0,,48,3.2,2012
-3,84,Steelers,Antonio Brown,24,WR,13,10,0,5,0,0,0,0,0,5,0,0,0,0,0,0,0,,30,2.3,2012
-4,27,Steelers,Jonathan Dwyer,23,RB,13,6,2,0,0,0,0,0,0,2,0,0,0,0,0,0,0,,12,0.9,2012
-5,45,Steelers,Leonard Pope,29,TE,16,2,0,2,0,0,0,0,0,2,0,0,0,0,0,0,0,,12,0.8,2012
-6,22,Steelers,Chris Rainey,24,RB,16,0,2,0,0,0,0,0,0,2,0,0,0,0,0,0,0,,12,0.8,2012
-7,33,Steelers,Isaac Redman,28,RB,14,5,2,0,0,0,0,0,0,2,0,0,0,0,0,0,0,,12,0.9,2012
-8,20,Steelers,Baron Batch,25,RB,12,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,,6,0.5,2012
-9,80,Steelers,Plaxico Burress,35,WR,4,3,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,,6,1.5,2012
-10,46,Steelers,Will Johnson,23,RB,16,7,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,,6,0.4,2012
-11,4,Steelers,Byron Leftwich,32,QB,2,1,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,,6,3.0,2012
-12,34,Steelers,Rashard Mendenhall,25,RB,6,4,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,,6,1.0,2012
-13,88,Steelers,Emmanuel Sanders,25,WR,16,7,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,,6,0.4,2012
-14,94,Steelers,Lawrence Timmons,26,RILB,16,16,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,,6,0.4,2012
+,No.,Player,Age,Pos,Games Played,Games Started,Rush TD,Reception TD,Punt Return TD,Kick Return TD,Fumble Return TD,Interception TD,Other TD,All Touchdown Scored,2-Point Conversions Made,Two-Point Conversions Attempted,Defensive Two-Point Conversions,Extra Points Made,Extra Points Allowed,Field Goals Made,Field Goals Attempted,Safeties Scored by Player/Team,Total Points Scored by all Means,Poins per Game,Team,Year
+6,6,Shaun Suisham,31,K,16,0,0,0,0,0,0,0,0,0,0,0,0,34,34,28,31,0,118,7.4,Steelers,2012
+83,83,Heath Miller,30,TE,15,15,0,8,0,0,0,0,0,8,1,0,0,0,0,0,0,0,50,3.3,Steelers,2012
+17,17,Mike Wallace,26,WR,15,14,0,8,0,0,0,0,0,8,0,0,0,0,0,0,0,0,48,3.2,Steelers,2012
+84,84,Antonio Brown,24,WR,13,10,0,5,0,0,0,0,0,5,0,0,0,0,0,0,0,0,30,2.3,Steelers,2012
+27,27,Jonathan Dwyer,23,RB,13,6,2,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,12,0.9,Steelers,2012
+45,45,Leonard Pope,29,TE,16,2,0,2,0,0,0,0,0,2,0,0,0,0,0,0,0,0,12,0.8,Steelers,2012
+22,22,Chris Rainey,24,RB,16,0,2,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,12,0.8,Steelers,2012
+33,33,Isaac Redman,28,RB,14,5,2,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,12,0.9,Steelers,2012
+20,20,Baron Batch,25,RB,12,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,6,0.5,Steelers,2012
+80,80,Plaxico Burress,35,WR,4,3,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,6,1.5,Steelers,2012
+46,46,Will Johnson,23,RB,16,7,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,6,0.4,Steelers,2012
+4,4,Byron Leftwich,32,QB,2,1,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,6,3.0,Steelers,2012
+34,34,Rashard Mendenhall,25,RB,6,4,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,6,1.0,Steelers,2012
+88,88,Emmanuel Sanders,25,WR,16,7,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,6,0.4,Steelers,2012
+94,94,Lawrence Timmons,26,RILB,16,16,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,6,0.4,Steelers,2012

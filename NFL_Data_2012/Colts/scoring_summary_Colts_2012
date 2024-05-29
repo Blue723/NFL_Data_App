@@ -1,17 +1,17 @@
-,No.,Team,Player,Age,Pos,Games Played,Games Started,Rush TD,Reception TD,Punt Return TD,Kick Return TD,Fumble Return TD,Interception TD,Other TD,All Touchdown Scored,2-Point Conversions Made,Two-Point Conversions Attempted,Defensive Two-Point Conversions,Extra Points Made,Extra Points Allowed,Field Goals Made,Field Goals Attempted,Safeties Scored by Player/Team,Total Points Scored by all Means,Poins per Game,Year
-0,4,Colts,Adam Vinatieri,40,K,16,0,0,0,0,0,0,0,0,0,0,0,0,37,37,26,33,,115,7.2,2012
-1,13,Colts,T.Y. Hilton,23,WR,15,1,0,7,1,0,0,0,0,8,0,0,0,0,0,0,0,,48,3.2,2012
-2,12,Colts,Andrew Luck,23,QB,16,16,5,0,0,0,0,0,0,5,0,0,0,0,0,0,0,,30,1.9,2012
-3,87,Colts,Reggie Wayne,34,WR,16,15,0,5,0,0,0,0,0,5,0,0,0,0,0,0,0,,30,1.9,2012
-4,83,Colts,Dwayne Allen,22,TE,16,16,0,3,0,0,0,0,0,3,0,0,0,0,0,0,0,,18,1.1,2012
-5,11,Colts,Donnie Avery,28,WR,16,15,0,3,0,0,0,0,0,3,0,0,0,0,0,0,0,,18,1.1,2012
-6,33,Colts,Vick Ballard,22,RB,16,12,2,1,0,0,0,0,0,3,0,0,0,0,0,0,0,,18,1.1,2012
-7,34,Colts,Delone Carter,25,RB,10,0,3,0,0,0,0,0,0,3,0,0,0,0,0,0,0,,18,1.8,2012
-8,20,Colts,Darius Butler,26,DB,11,4,0,0,0,0,0,2,0,2,0,0,0,0,0,0,0,,12,1.1,2012
-9,80,Colts,Coby Fleener,24,TE,12,10,0,2,0,0,0,0,0,2,0,0,0,0,0,0,0,,12,1.0,2012
-10,31,Colts,Donald Brown,25,RB,10,4,1,0,0,0,0,0,0,1,1,0,0,0,0,0,0,,8,0.8,2012
-11,15,Colts,LaVon Brazill,23,WR,15,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,,6,0.4,2012
-12,50,Colts,Jerrell Freeman,26,RILB,16,16,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,,6,0.4,2012
-13,36,Colts,Deji Karim,26,RB,3,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,,6,2.0,2012
-14,26,Colts,Mewelde Moore,30,RB,9,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,,6,0.7,2012
-15,32,Colts,Cassius Vaughn,25,LCB,16,11,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,,6,0.4,2012
+,No.,Player,Age,Pos,Games Played,Games Started,Rush TD,Reception TD,Punt Return TD,Kick Return TD,Fumble Return TD,Interception TD,Other TD,All Touchdown Scored,2-Point Conversions Made,Two-Point Conversions Attempted,Defensive Two-Point Conversions,Extra Points Made,Extra Points Allowed,Field Goals Made,Field Goals Attempted,Safeties Scored by Player/Team,Total Points Scored by all Means,Poins per Game,Team,Year
+4,4,Adam Vinatieri,40,K,16,0,0,0,0,0,0,0,0,0,0,0,0,37,37,26,33,0,115,7.2,Colts,2012
+13,13,T.Y. Hilton,23,WR,15,1,0,7,1,0,0,0,0,8,0,0,0,0,0,0,0,0,48,3.2,Colts,2012
+12,12,Andrew Luck,23,QB,16,16,5,0,0,0,0,0,0,5,0,0,0,0,0,0,0,0,30,1.9,Colts,2012
+87,87,Reggie Wayne,34,WR,16,15,0,5,0,0,0,0,0,5,0,0,0,0,0,0,0,0,30,1.9,Colts,2012
+83,83,Dwayne Allen,22,TE,16,16,0,3,0,0,0,0,0,3,0,0,0,0,0,0,0,0,18,1.1,Colts,2012
+11,11,Donnie Avery,28,WR,16,15,0,3,0,0,0,0,0,3,0,0,0,0,0,0,0,0,18,1.1,Colts,2012
+33,33,Vick Ballard,22,RB,16,12,2,1,0,0,0,0,0,3,0,0,0,0,0,0,0,0,18,1.1,Colts,2012
+34,34,Delone Carter,25,RB,10,0,3,0,0,0,0,0,0,3,0,0,0,0,0,0,0,0,18,1.8,Colts,2012
+20,20,Darius Butler,26,DB,11,4,0,0,0,0,0,2,0,2,0,0,0,0,0,0,0,0,12,1.1,Colts,2012
+80,80,Coby Fleener,24,TE,12,10,0,2,0,0,0,0,0,2,0,0,0,0,0,0,0,0,12,1.0,Colts,2012
+31,31,Donald Brown,25,RB,10,4,1,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,8,0.8,Colts,2012
+15,15,LaVon Brazill,23,WR,15,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,6,0.4,Colts,2012
+50,50,Jerrell Freeman,26,RILB,16,16,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,6,0.4,Colts,2012
+36,36,Deji Karim,26,RB,3,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,6,2.0,Colts,2012
+26,26,Mewelde Moore,30,RB,9,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,6,0.7,Colts,2012
+32,32,Cassius Vaughn,25,LCB,16,11,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,6,0.4,Colts,2012

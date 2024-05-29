@@ -1,20 +1,20 @@
-,No.,Team,Player,Age,Pos,Games Played,Games Started,Rush TD,Reception TD,Punt Return TD,Kick Return TD,Fumble Return TD,Interception TD,Other TD,All Touchdown Scored,2-Point Conversions Made,Two-Point Conversions Attempted,Defensive Two-Point Conversions,Extra Points Made,Extra Points Allowed,Field Goals Made,Field Goals Attempted,Safeties Scored by Player/Team,Total Points Scored by all Means,Poins per Game,Year
-0,5,Broncos,Matt Prater,28,K,16,0,0,0,0,0,0,0,0,0,0,0,0,55,55,26,32,,133,8.3,2012
-1,87,Broncos,Eric Decker,25,WR,16,15,0,13,0,0,0,0,0,13,0,0,0,0,0,0,0,,78,4.9,2012
-2,88,Broncos,Demaryius Thomas,25,WR,16,16,0,10,0,0,0,0,0,10,0,0,0,0,0,0,0,,60,3.8,2012
-3,81,Broncos,Joel Dreessen,30,TE,16,15,0,5,0,0,0,0,0,5,0,0,0,0,0,0,0,,30,1.9,2012
-4,14,Broncos,Brandon Stokley,36,WR,15,9,0,5,0,0,0,0,0,5,0,0,0,0,0,0,0,,30,2.0,2012
-5,23,Broncos,Willis McGahee,31,RB,10,9,4,0,0,0,0,0,0,4,1,0,0,0,0,0,0,,26,2.6,2012
-6,27,Broncos,Knowshon Moreno,25,RB,8,6,4,0,0,0,0,0,0,4,0,0,0,0,0,0,0,,24,3.0,2012
-7,35,Broncos,Lance Ball,27,RB,15,0,1,1,0,0,0,0,0,2,0,0,0,0,0,0,0,,12,0.8,2012
-8,32,Broncos,Tony Carter,26,DB,15,0,0,0,0,0,1,1,0,2,0,0,0,0,0,0,0,,12,0.8,2012
-9,25,Broncos,Chris Harris Jr.,23,RCB,15,12,0,0,0,0,0,2,0,2,0,0,0,0,0,0,0,,12,0.8,2012
-10,40,Broncos,Jacob Hester,27,RB,3,0,2,0,0,0,0,0,0,2,0,0,0,0,0,0,0,,12,4.0,2012
-11,11,Broncos,Trindon Holliday,26,WR,10,0,0,0,1,1,0,0,0,2,0,0,0,0,0,0,0,,12,1.2,2012
-12,84,Broncos,Jacob Tamme,27,TE,16,8,0,2,0,0,0,0,0,2,0,0,0,0,0,0,0,,12,0.8,2012
-13,21,Broncos,Ronnie Hillman,21,RB,14,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,,6,0.4,2012
-14,58,Broncos,Von Miller,23,LILB,16,16,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,,6,0.4,2012
-15,22,Broncos,Tracy Porter,26,DB,6,4,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,,6,1.0,2012
-16,96,Broncos,Mitch Unrein,25,DE,16,2,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,,6,0.4,2012
-17,20,Broncos,Mike Adams,31,SS,16,16,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1.0,2,0.1,2012
-18,92,Broncos,Elvis Dumervil,28,LOLB,16,16,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1.0,2,0.1,2012
+,No.,Player,Age,Pos,Games Played,Games Started,Rush TD,Reception TD,Punt Return TD,Kick Return TD,Fumble Return TD,Interception TD,Other TD,All Touchdown Scored,2-Point Conversions Made,Two-Point Conversions Attempted,Defensive Two-Point Conversions,Extra Points Made,Extra Points Allowed,Field Goals Made,Field Goals Attempted,Safeties Scored by Player/Team,Total Points Scored by all Means,Poins per Game,Team,Year
+5,5,Matt Prater,28,K,16,0,0,0,0,0,0,0,0,0,0,0,0,55,55,26,32,0,133,8.3,Broncos,2012
+87,87,Eric Decker,25,WR,16,15,0,13,0,0,0,0,0,13,0,0,0,0,0,0,0,0,78,4.9,Broncos,2012
+88,88,Demaryius Thomas,25,WR,16,16,0,10,0,0,0,0,0,10,0,0,0,0,0,0,0,0,60,3.8,Broncos,2012
+81,81,Joel Dreessen,30,TE,16,15,0,5,0,0,0,0,0,5,0,0,0,0,0,0,0,0,30,1.9,Broncos,2012
+14,14,Brandon Stokley,36,WR,15,9,0,5,0,0,0,0,0,5,0,0,0,0,0,0,0,0,30,2.0,Broncos,2012
+23,23,Willis McGahee,31,RB,10,9,4,0,0,0,0,0,0,4,1,0,0,0,0,0,0,0,26,2.6,Broncos,2012
+27,27,Knowshon Moreno,25,RB,8,6,4,0,0,0,0,0,0,4,0,0,0,0,0,0,0,0,24,3.0,Broncos,2012
+35,35,Lance Ball,27,RB,15,0,1,1,0,0,0,0,0,2,0,0,0,0,0,0,0,0,12,0.8,Broncos,2012
+32,32,Tony Carter,26,DB,15,0,0,0,0,0,1,1,0,2,0,0,0,0,0,0,0,0,12,0.8,Broncos,2012
+25,25,Chris Harris Jr.,23,RCB,15,12,0,0,0,0,0,2,0,2,0,0,0,0,0,0,0,0,12,0.8,Broncos,2012
+40,40,Jacob Hester,27,RB,3,0,2,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,12,4.0,Broncos,2012
+11,11,Trindon Holliday,26,WR,10,0,0,0,1,1,0,0,0,2,0,0,0,0,0,0,0,0,12,1.2,Broncos,2012
+84,84,Jacob Tamme,27,TE,16,8,0,2,0,0,0,0,0,2,0,0,0,0,0,0,0,0,12,0.8,Broncos,2012
+21,21,Ronnie Hillman,21,RB,14,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,6,0.4,Broncos,2012
+58,58,Von Miller,23,LILB,16,16,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,6,0.4,Broncos,2012
+22,22,Tracy Porter,26,DB,6,4,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,6,1.0,Broncos,2012
+96,96,Mitch Unrein,25,DE,16,2,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,6,0.4,Broncos,2012
+20,20,Mike Adams,31,SS,16,16,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,2,0.1,Broncos,2012
+92,92,Elvis Dumervil,28,LOLB,16,16,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,2,0.1,Broncos,2012

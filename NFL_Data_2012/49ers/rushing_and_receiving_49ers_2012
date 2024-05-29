@@ -1,19 +1,19 @@
-,No.,Team,Player,Age,Position,Games Played,Games Started as an Offensive or Defensive Player,Rushing Attempts,Rushing Yards Gained,Rushing Touchdown,First Downs Rushing,Rushing Success Rate,Longest Rushing Attempt,Rushing Yards per Attempt,Rushing Yards per Game,Rushing Attempts per Game,Pass Targets,Receptions,Receiving Yards,Receiving Yards per Reception,Receiving Touchdowns,First Downs Receiving,Receiving Success Rate,Longest Reception,Receptions per Game,Receiving Yards per Game,Catch Per.,Receiving Yards per Target,Touches: Rushing Attempts and Receptions,Scrimmage Yards per Touch: Rushing + Receiving Yardage per Opportunity,Yards from Scrimmage: Receiving and Rushing Yards,Rushing and Receiving Touchdowns,Lost and Recovered Fumbles,Year
-0,21,49ers,Frank Gore,29,RB,16,16,258,1214,8,68,47.7,37,4.7,75.9,16.1,36,28,234,8.4,1,10,47.2,26,1.8,14.6,77.8,6.5,286,5.1,1448,9,2,2012
-1,32,49ers,Kendall Hunter,24,RB,11,0,72,371,2,18,55.6,26,5.2,33.7,6.5,12,9,60,6.7,0,3,41.7,12,0.8,5.5,75.0,5.0,81,5.3,431,2,1,2012
-2,7,49ers,Colin Kaepernick,25,QB,13,7,63,415,5,20,47.6,50,6.6,31.9,4.8,0,0,0,,0,0,,0,,,0.0,,63,6.6,415,5,9,2012
-3,11,49ers,Alex Smith,28,QB,10,9,31,132,0,6,45.2,24,4.3,13.2,3.1,0,0,0,,0,0,,0,,,0.0,,31,4.3,132,0,4,2012
-4,23,49ers,LaMichael James,23,RB,4,0,27,125,0,10,40.7,26,4.6,31.3,6.8,5,3,29,9.7,0,3,60.0,15,0.8,7.3,60.0,5.8,30,5.1,154,0,1,2012
-5,24,49ers,Anthony Dixon,25,RB,16,0,21,78,2,3,61.9,9,3.7,4.9,1.3,0,0,0,,0,0,,0,,,0.0,,21,3.7,78,2,0,2012
-6,49,49ers,Bruce Miller,25,FB,16,13,5,18,0,2,60.0,9,3.6,1.1,0.3,13,12,84,7.0,0,4,53.8,26,0.8,5.3,92.3,6.5,17,6.0,102,0,0,2012
-7,45,49ers,Brandon Jacobs,30,RB,2,0,5,7,0,1,20.0,3,1.4,3.5,2.5,0,0,0,,0,0,,0,,,0.0,,5,1.4,7,0,0,2012
-8,10,49ers,Kyle Williams,24,WR,11,3,4,21,0,0,75.0,9,5.3,1.9,0.4,22,14,212,15.1,1,10,54.5,57,1.3,19.3,63.6,9.6,18,12.9,233,1,1,2012
-9,82,49ers,Mario Manningham,26,WR,12,10,3,64,0,2,100.0,29,21.3,5.3,0.3,57,42,449,10.7,1,22,56.1,40,3.5,37.4,73.7,7.9,45,11.4,513,1,2,2012
-10,15,49ers,Michael Crabtree,25,WR,16,16,1,8,0,0,0.0,8,8.0,0.5,0.1,127,85,1105,13.0,9,57,57.5,49,5.3,69.1,66.9,8.7,86,12.9,1113,9,0,2012
-11,19,49ers,Ted Ginn Jr.,27,WR,13,0,1,7,0,0,,7,7.0,0.5,0.1,2,2,1,0.5,0,0,,1,0.2,0.1,100.0,0.5,3,2.7,8,0,4,2012
-12,38,49ers,Dashon Goldson,28,FS,16,16,1,31,0,1,100.0,31,31.0,1.9,0.1,0,0,0,,0,0,,0,,,0.0,,1,31.0,31,0,0,2012
-13,85,49ers,Vernon Davis,28,TE,16,16,0,0,0,0,,0,,,,61,41,548,13.4,5,26,54.1,53,2.6,34.3,67.2,9.0,41,13.4,548,5,0,2012
-14,84,49ers,Randy Moss,35,WR,16,2,0,0,0,0,,0,,,,50,28,434,15.5,3,22,52.0,55,1.8,27.1,56.0,8.7,28,15.5,434,3,1,2012
-15,46,49ers,Delanie Walker,28,WR,16,4,0,0,0,0,,0,,,,39,21,344,16.4,3,14,48.7,45,1.3,21.5,53.8,8.8,21,16.4,344,3,1,2012
-16,81,49ers,Garrett Celek,24,TE,13,0,0,0,0,0,,0,,,,7,4,51,12.8,0,2,57.1,35,0.3,3.9,57.1,7.3,4,12.8,51,0,0,2012
-17,17,49ers,A.J. Jenkins,23,WR,3,0,0,0,0,0,,0,,,,1,0,0,,0,0,,0,0.0,0.0,0.0,0.0,0,,0,0,0,2012
+,No.,Player,Age,Position,Games Played,Games Started as an Offensive or Defensive Player,Rushing Attempts,Rushing Yards Gained,Rushing Touchdown,First Downs Rushing,Rushing Success Rate,Longest Rushing Attempt,Rushing Yards per Attempt,Rushing Yards per Game,Rushing Attempts per Game,Pass Targets,Receptions,Receiving Yards,Receiving Yards per Reception,Receiving Touchdowns,First Downs Receiving,Receiving Success Rate,Longest Reception,Receptions per Game,Receiving Yards per Game,Catch Per.,Receiving Yards per Target,Touches: Rushing Attempts and Receptions,Scrimmage Yards per Touch: Rushing + Receiving Yardage per Opportunity,Yards from Scrimmage: Receiving and Rushing Yards,Rushing and Receiving Touchdowns,Lost and Recovered Fumbles,Team,Year
+21,21,Frank Gore,29,RB,16,16,258,1214,8,68,47.7,37,4.7,75.9,16.1,36,28,234,8.4,1,10,47.2,26,1.8,14.6,77.8,6.5,286,5.1,1448,9,2,49ers,2012
+32,32,Kendall Hunter,24,RB,11,0,72,371,2,18,55.6,26,5.2,33.7,6.5,12,9,60,6.7,0,3,41.7,12,0.8,5.5,75.0,5.0,81,5.3,431,2,1,49ers,2012
+7,7,Colin Kaepernick,25,QB,13,7,63,415,5,20,47.6,50,6.6,31.9,4.8,0,0,0,0.0,0,0,0.0,0,0.0,0.0,0.0,0.0,63,6.6,415,5,9,49ers,2012
+11,11,Alex Smith,28,QB,10,9,31,132,0,6,45.2,24,4.3,13.2,3.1,0,0,0,0.0,0,0,0.0,0,0.0,0.0,0.0,0.0,31,4.3,132,0,4,49ers,2012
+23,23,LaMichael James,23,RB,4,0,27,125,0,10,40.7,26,4.6,31.3,6.8,5,3,29,9.7,0,3,60.0,15,0.8,7.3,60.0,5.8,30,5.1,154,0,1,49ers,2012
+24,24,Anthony Dixon,25,RB,16,0,21,78,2,3,61.9,9,3.7,4.9,1.3,0,0,0,0.0,0,0,0.0,0,0.0,0.0,0.0,0.0,21,3.7,78,2,0,49ers,2012
+49,49,Bruce Miller,25,FB,16,13,5,18,0,2,60.0,9,3.6,1.1,0.3,13,12,84,7.0,0,4,53.8,26,0.8,5.3,92.3,6.5,17,6.0,102,0,0,49ers,2012
+45,45,Brandon Jacobs,30,RB,2,0,5,7,0,1,20.0,3,1.4,3.5,2.5,0,0,0,0.0,0,0,0.0,0,0.0,0.0,0.0,0.0,5,1.4,7,0,0,49ers,2012
+10,10,Kyle Williams,24,WR,11,3,4,21,0,0,75.0,9,5.3,1.9,0.4,22,14,212,15.1,1,10,54.5,57,1.3,19.3,63.6,9.6,18,12.9,233,1,1,49ers,2012
+82,82,Mario Manningham,26,WR,12,10,3,64,0,2,100.0,29,21.3,5.3,0.3,57,42,449,10.7,1,22,56.1,40,3.5,37.4,73.7,7.9,45,11.4,513,1,2,49ers,2012
+15,15,Michael Crabtree,25,WR,16,16,1,8,0,0,0.0,8,8.0,0.5,0.1,127,85,1105,13.0,9,57,57.5,49,5.3,69.1,66.9,8.7,86,12.9,1113,9,0,49ers,2012
+19,19,Ted Ginn Jr.,27,WR,13,0,1,7,0,0,0.0,7,7.0,0.5,0.1,2,2,1,0.5,0,0,0.0,1,0.2,0.1,100.0,0.5,3,2.7,8,0,4,49ers,2012
+38,38,Dashon Goldson,28,FS,16,16,1,31,0,1,100.0,31,31.0,1.9,0.1,0,0,0,0.0,0,0,0.0,0,0.0,0.0,0.0,0.0,1,31.0,31,0,0,49ers,2012
+85,85,Vernon Davis,28,TE,16,16,0,0,0,0,0.0,0,0.0,0.0,0.0,61,41,548,13.4,5,26,54.1,53,2.6,34.3,67.2,9.0,41,13.4,548,5,0,49ers,2012
+84,84,Randy Moss,35,WR,16,2,0,0,0,0,0.0,0,0.0,0.0,0.0,50,28,434,15.5,3,22,52.0,55,1.8,27.1,56.0,8.7,28,15.5,434,3,1,49ers,2012
+46,46,Delanie Walker,28,TE,16,4,0,0,0,0,0.0,0,0.0,0.0,0.0,39,21,344,16.4,3,14,48.7,45,1.3,21.5,53.8,8.8,21,16.4,344,3,1,49ers,2012
+81,81,Garrett Celek,24,TE,13,0,0,0,0,0,0.0,0,0.0,0.0,0.0,7,4,51,12.8,0,2,57.1,35,0.3,3.9,57.1,7.3,4,12.8,51,0,0,49ers,2012
+17,17,A.J. Jenkins,23,WR,3,0,0,0,0,0,0.0,0,0.0,0.0,0.0,1,0,0,0.0,0,0,0.0,0,0.0,0.0,0.0,0.0,0,0.0,0,0,0,49ers,2012

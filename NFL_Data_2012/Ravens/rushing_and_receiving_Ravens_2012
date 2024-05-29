@@ -1,18 +1,18 @@
-,No.,Team,Player,Age,Position,Games Played,Games Started as an Offensive or Defensive Player,Rushing Attempts,Rushing Yards Gained,Rushing Touchdown,First Downs Rushing,Rushing Success Rate,Longest Rushing Attempt,Rushing Yards per Attempt,Rushing Yards per Game,Rushing Attempts per Game,Pass Targets,Receptions,Receiving Yards,Receiving Yards per Reception,Receiving Touchdowns,First Downs Receiving,Receiving Success Rate,Longest Reception,Receptions per Game,Receiving Yards per Game,Catch Per.,Receiving Yards per Target,Touches: Rushing Attempts and Receptions,Scrimmage Yards per Touch: Rushing + Receiving Yardage per Opportunity,Yards from Scrimmage: Receiving and Rushing Yards,Rushing and Receiving Touchdowns,Lost and Recovered Fumbles,Year
-0,27,Ravens,Ray Rice,25,RB,16,16,257,1143,9,52,43.2,46,4.4,71.4,16.1,83,61,478,7.8,1,24,42.2,43,3.8,29.9,73.5,5.8,318,5.1,1621,10,1,2012
-1,30,Ravens,Bernard Pierce,21,RB,16,0,108,532,1,24,45.4,78,4.9,33.3,6.8,11,7,47,6.7,0,4,54.5,11,0.4,2.9,63.6,4.3,115,5.0,579,1,0,2012
-2,5,Ravens,Joe Flacco,27,QB,16,16,32,22,3,11,34.4,16,0.7,1.4,2.0,0,0,0,,0,0,,0,,,0.0,,32,0.7,22,3,9,2012
-3,35,Ravens,Anthony Allen,24,RB,16,0,16,61,1,4,43.8,20,3.8,3.8,1.0,4,2,12,6.0,0,1,25.0,7,0.1,0.8,50.0,3.0,18,4.1,73,1,0,2012
-4,2,Ravens,Tyrod Taylor,23,QB,7,0,14,73,1,5,57.1,28,5.2,10.4,2.0,0,0,0,,0,0,,0,,,0.0,,14,5.2,73,1,0,2012
-5,44,Ravens,Vonta Leach,31,FB,16,13,9,32,1,3,88.9,6,3.6,2.0,0.6,24,21,143,6.8,0,7,54.2,18,1.3,8.9,87.5,6.0,30,5.8,175,1,0,2012
-6,82,Ravens,Torrey Smith,23,WR,16,16,3,9,0,1,33.3,13,3.0,0.6,0.2,110,49,855,17.4,8,39,41.8,54,3.1,53.4,44.5,7.8,52,16.6,864,8,0,2012
-7,4,Ravens,Sam Koch,30,P,16,0,2,17,1,2,100.0,10,8.5,1.1,0.1,0,0,0,,0,0,,0,,,0.0,,2,8.5,17,1,0,2012
-8,81,Ravens,Anquan Boldin,32,WR,15,15,1,3,0,0,0.0,3,3.0,0.2,0.1,112,65,921,14.2,4,45,50.9,43,4.3,61.4,58.0,8.2,66,14.0,924,4,0,2012
-9,12,Ravens,Jacoby Jones,28,WR,16,3,1,6,0,0,100.0,6,6.0,0.4,0.1,55,30,406,13.5,1,16,43.6,47,1.9,25.4,54.5,7.4,31,13.3,412,1,2,2012
-10,37,Ravens,Sean Considine,30,DB,16,0,1,3,0,0,,3,3.0,0.2,0.1,0,0,0,,0,0,,0,,,0.0,,1,3.0,3,0,0,2012
-11,88,Ravens,Dennis Pitta,27,TE,16,5,0,0,0,0,,0,,,,94,61,669,11.0,7,29,47.9,61,3.8,41.8,64.9,7.1,61,11.0,669,7,0,2012
-12,84,Ravens,Ed Dickson,25,TE,13,11,0,0,0,0,,0,,,,33,21,225,10.7,0,11,48.5,40,1.6,17.3,63.6,6.8,21,10.7,225,0,0,2012
-13,17,Ravens,Tandon Doss,23,WR,14,0,0,0,0,0,,0,,,,17,7,123,17.6,1,6,41.2,39,0.5,8.8,41.2,7.2,7,17.6,123,1,0,2012
-14,16,Ravens,David Reed,25,WR,5,0,0,0,0,0,,0,,,,6,5,66,13.2,0,2,66.7,23,1.0,13.2,83.3,11.0,5,13.2,66,0,0,2012
-15,83,Ravens,Deonte Thompson,23,WR,6,0,0,0,0,0,,0,,,,6,5,51,10.2,0,2,50.0,25,0.8,8.5,83.3,8.5,5,10.2,51,0,1,2012
-16,86,Ravens,Billy Bajema,30,TE,8,1,0,0,0,0,,0,,,,1,0,0,,0,0,,0,0.0,0.0,0.0,0.0,0,,0,0,0,2012
+,No.,Player,Age,Position,Games Played,Games Started as an Offensive or Defensive Player,Rushing Attempts,Rushing Yards Gained,Rushing Touchdown,First Downs Rushing,Rushing Success Rate,Longest Rushing Attempt,Rushing Yards per Attempt,Rushing Yards per Game,Rushing Attempts per Game,Pass Targets,Receptions,Receiving Yards,Receiving Yards per Reception,Receiving Touchdowns,First Downs Receiving,Receiving Success Rate,Longest Reception,Receptions per Game,Receiving Yards per Game,Catch Per.,Receiving Yards per Target,Touches: Rushing Attempts and Receptions,Scrimmage Yards per Touch: Rushing + Receiving Yardage per Opportunity,Yards from Scrimmage: Receiving and Rushing Yards,Rushing and Receiving Touchdowns,Lost and Recovered Fumbles,Team,Year
+27,27,Ray Rice,25,RB,16,16,257,1143,9,52,43.2,46,4.4,71.4,16.1,83,61,478,7.8,1,24,42.2,43,3.8,29.9,73.5,5.8,318,5.1,1621,10,1,Ravens,2012
+30,30,Bernard Pierce,21,RB,16,0,108,532,1,24,45.4,78,4.9,33.3,6.8,11,7,47,6.7,0,4,54.5,11,0.4,2.9,63.6,4.3,115,5.0,579,1,0,Ravens,2012
+5,5,Joe Flacco,27,QB,16,16,32,22,3,11,34.4,16,0.7,1.4,2.0,0,0,0,0.0,0,0,0.0,0,0.0,0.0,0.0,0.0,32,0.7,22,3,9,Ravens,2012
+35,35,Anthony Allen,24,RB,16,0,16,61,1,4,43.8,20,3.8,3.8,1.0,4,2,12,6.0,0,1,25.0,7,0.1,0.8,50.0,3.0,18,4.1,73,1,0,Ravens,2012
+2,2,Tyrod Taylor,23,QB,7,0,14,73,1,5,57.1,28,5.2,10.4,2.0,0,0,0,0.0,0,0,0.0,0,0.0,0.0,0.0,0.0,14,5.2,73,1,0,Ravens,2012
+44,44,Vonta Leach,31,FB,16,13,9,32,1,3,88.9,6,3.6,2.0,0.6,24,21,143,6.8,0,7,54.2,18,1.3,8.9,87.5,6.0,30,5.8,175,1,0,Ravens,2012
+82,82,Torrey Smith,23,WR,16,16,3,9,0,1,33.3,13,3.0,0.6,0.2,110,49,855,17.4,8,39,41.8,54,3.1,53.4,44.5,7.8,52,16.6,864,8,0,Ravens,2012
+4,4,Sam Koch,30,P,16,0,2,17,1,2,100.0,10,8.5,1.1,0.1,0,0,0,0.0,0,0,0.0,0,0.0,0.0,0.0,0.0,2,8.5,17,1,0,Ravens,2012
+81,81,Anquan Boldin,32,WR,15,15,1,3,0,0,0.0,3,3.0,0.2,0.1,112,65,921,14.2,4,45,50.9,43,4.3,61.4,58.0,8.2,66,14.0,924,4,0,Ravens,2012
+12,12,Jacoby Jones,28,WR,16,3,1,6,0,0,100.0,6,6.0,0.4,0.1,55,30,406,13.5,1,16,43.6,47,1.9,25.4,54.5,7.4,31,13.3,412,1,2,Ravens,2012
+37,37,Sean Considine,30,DB,16,0,1,3,0,0,0.0,3,3.0,0.2,0.1,0,0,0,0.0,0,0,0.0,0,0.0,0.0,0.0,0.0,1,3.0,3,0,0,Ravens,2012
+88,88,Dennis Pitta,27,TE,16,5,0,0,0,0,0.0,0,0.0,0.0,0.0,94,61,669,11.0,7,29,47.9,61,3.8,41.8,64.9,7.1,61,11.0,669,7,0,Ravens,2012
+84,84,Ed Dickson,25,TE,13,11,0,0,0,0,0.0,0,0.0,0.0,0.0,33,21,225,10.7,0,11,48.5,40,1.6,17.3,63.6,6.8,21,10.7,225,0,0,Ravens,2012
+17,17,Tandon Doss,23,WR,14,0,0,0,0,0,0.0,0,0.0,0.0,0.0,17,7,123,17.6,1,6,41.2,39,0.5,8.8,41.2,7.2,7,17.6,123,1,0,Ravens,2012
+16,16,David Reed,25,WR,5,0,0,0,0,0,0.0,0,0.0,0.0,0.0,6,5,66,13.2,0,2,66.7,23,1.0,13.2,83.3,11.0,5,13.2,66,0,0,Ravens,2012
+83,83,Deonte Thompson,23,WR,6,0,0,0,0,0,0.0,0,0.0,0.0,0.0,6,5,51,10.2,0,2,50.0,25,0.8,8.5,83.3,8.5,5,10.2,51,0,1,Ravens,2012
+86,86,Billy Bajema,30,TE,8,1,0,0,0,0,0.0,0,0.0,0.0,0.0,1,0,0,0.0,0,0,0.0,0,0.0,0.0,0.0,0.0,0,0.0,0,0,0,Ravens,2012

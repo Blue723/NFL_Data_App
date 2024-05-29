@@ -1,18 +1,18 @@
-,No.,Team,Player,Age,Pos,Games Played,Games Started,Rush TD,Reception TD,Punt Return TD,Kick Return TD,Fumble Return TD,Interception TD,Other TD,All Touchdown Scored,2-Point Conversions Made,Two-Point Conversions Attempted,Defensive Two-Point Conversions,Extra Points Made,Extra Points Allowed,Field Goals Made,Field Goals Attempted,Safeties Scored by Player/Team,Total Points Scored by all Means,Poins per Game,Year
-0,2,Packers,Mason Crosby,28,K,16,0,0,0,0,0,0,0,0,0,0,0,0,50,50,21,33,,113,7.1,2012
-1,89,Packers,James Jones,28,WR,16,16,0,14,0,0,0,0,0,14,0,0,0,0,0,0,0,,84,5.3,2012
-2,18,Packers,Randall Cobb,22,WR,15,8,0,8,1,0,0,0,0,9,0,0,0,0,0,0,0,,54,3.6,2012
-3,87,Packers,Jordy Nelson,27,WR,12,10,0,7,0,0,0,0,0,7,1,0,0,0,0,0,0,,44,3.7,2012
-4,85,Packers,Greg Jennings,29,WR,8,5,0,4,0,0,0,0,0,4,0,0,0,0,0,0,0,,24,3.0,2012
-5,83,Packers,Tom Crabtree,27,TE,14,6,0,3,0,0,0,0,0,3,0,0,0,0,0,0,0,,18,1.3,2012
-6,80,Packers,Donald Driver,37,WR,13,1,0,2,0,0,0,0,0,2,0,0,0,0,0,0,0,,12,0.9,2012
-7,88,Packers,Jermichael Finley,25,TE,16,14,0,2,0,0,0,0,0,2,0,0,0,0,0,0,0,,12,0.8,2012
-8,25,Packers,Ryan Grant,30,RB,4,1,2,0,0,0,0,0,0,2,0,0,0,0,0,0,0,,12,3.0,2012
-9,26,Packers,DuJuan Harris,24,RB,4,2,2,0,0,0,0,0,0,2,0,0,0,0,0,0,0,,12,3.0,2012
-10,12,Packers,Aaron Rodgers,29,QB,16,16,2,0,0,0,0,0,0,2,0,0,0,0,0,0,0,,12,0.8,2012
-11,32,Packers,Cedric Benson,30,RB,5,5,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,,6,1.2,2012
-12,76,Packers,Mike Daniels,23,DT,14,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,,6,0.4,2012
-13,43,Packers,M.D. Jennings,24,FS,16,10,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,,6,0.4,2012
-14,30,Packers,John Kuhn,30,FB,14,3,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,,6,0.4,2012
-15,54,Packers,Dezman Moses,23,ROLB,16,6,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,,6,0.4,2012
-16,44,Packers,James Starks,26,RB,6,2,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,,6,1.0,2012
+,No.,Player,Age,Pos,Games Played,Games Started,Rush TD,Reception TD,Punt Return TD,Kick Return TD,Fumble Return TD,Interception TD,Other TD,All Touchdown Scored,2-Point Conversions Made,Two-Point Conversions Attempted,Defensive Two-Point Conversions,Extra Points Made,Extra Points Allowed,Field Goals Made,Field Goals Attempted,Safeties Scored by Player/Team,Total Points Scored by all Means,Poins per Game,Team,Year
+2,2,Mason Crosby,28,K,16,0,0,0,0,0,0,0,0,0,0,0,0,50,50,21,33,0,113,7.1,Packers,2012
+89,89,James Jones,28,WR,16,16,0,14,0,0,0,0,0,14,0,0,0,0,0,0,0,0,84,5.3,Packers,2012
+18,18,Randall Cobb,22,WR,15,8,0,8,1,0,0,0,0,9,0,0,0,0,0,0,0,0,54,3.6,Packers,2012
+87,87,Jordy Nelson,27,WR,12,10,0,7,0,0,0,0,0,7,1,0,0,0,0,0,0,0,44,3.7,Packers,2012
+85,85,Greg Jennings,29,WR,8,5,0,4,0,0,0,0,0,4,0,0,0,0,0,0,0,0,24,3.0,Packers,2012
+83,83,Tom Crabtree,27,TE,14,6,0,3,0,0,0,0,0,3,0,0,0,0,0,0,0,0,18,1.3,Packers,2012
+80,80,Donald Driver,37,WR,13,1,0,2,0,0,0,0,0,2,0,0,0,0,0,0,0,0,12,0.9,Packers,2012
+88,88,Jermichael Finley,25,TE,16,14,0,2,0,0,0,0,0,2,0,0,0,0,0,0,0,0,12,0.8,Packers,2012
+25,25,Ryan Grant,30,RB,4,1,2,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,12,3.0,Packers,2012
+26,26,DuJuan Harris,24,RB,4,2,2,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,12,3.0,Packers,2012
+12,12,Aaron Rodgers,29,QB,16,16,2,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,12,0.8,Packers,2012
+32,32,Cedric Benson,30,RB,5,5,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,6,1.2,Packers,2012
+76,76,Mike Daniels,23,DE,14,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,6,0.4,Packers,2012
+43,43,M.D. Jennings,24,FS,16,10,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,6,0.4,Packers,2012
+30,30,John Kuhn,30,FB,14,3,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,6,0.4,Packers,2012
+54,54,Dezman Moses,23,ROLB,16,6,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,6,0.4,Packers,2012
+44,44,James Starks,26,RB,6,2,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,6,1.0,Packers,2012

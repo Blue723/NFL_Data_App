@@ -1,5 +1,5 @@
-,Player,Team,3rd Down Attempts in Game,3rd Down Conversions,3rd Down Conversion Per.,4th Down Attempts in Game,4th Down Conversions in Game,4th Down Conversion Per.,Red Zone Attempts,Touchdowns Scored After the Team Entered the Red Zone,Per. of the Time a Team Reaches the Red Zone and Scores a Touchdown,Year
-0,Team Stats,Lions,228.0,97.0,42.5,15.0,6.0,40.0,55.0,33.0,60.0,2012.0
-1,Opp. Stats,Lions,208.0,76.0,36.5,6.0,5.0,83.3,39.0,20.0,51.3,2012.0
-2,Lg Rank Offense,Lions,,,8.0,,,25.0,,,5.0,2012.0
-3,Lg Rank Defense,Lions,,,10.0,,,32.0,,,12.0,2012.0
+,Player,3rd Down Attempts in Game,3rd Down Conversions,3rd Down Conversion Per.,4th Down Attempts in Game,4th Down Conversions in Game,4th Down Conversion Per.,Red Zone Attempts,Touchdowns Scored After the Team Entered the Red Zone,Per. of the Time a Team Reaches the Red Zone and Scores a Touchdown,Team,Year
+Team Stats,Team Stats,228.0,97.0,42.5,15.0,6.0,40.0,55.0,33.0,60.0,Lions,2012
+Opp. Stats,Opp. Stats,208.0,76.0,36.5,6.0,5.0,83.3,39.0,20.0,51.3,Lions,2012
+Lg Rank Offense,Lg Rank Offense,0.0,0.0,8.0,0.0,0.0,25.0,0.0,0.0,5,Lions,2012
+Lg Rank Defense,Lg Rank Defense,0.0,0.0,10.0,0.0,0.0,32.0,0.0,0.0,12,Lions,2012

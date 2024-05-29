@@ -1,16 +1,16 @@
-,No.,Team,Player,Age,Pos,Games Played,Games Started,Rush TD,Reception TD,Punt Return TD,Kick Return TD,Fumble Return TD,Interception TD,Other TD,All Touchdown Scored,2-Point Conversions Made,Two-Point Conversions Attempted,Defensive Two-Point Conversions,Extra Points Made,Extra Points Allowed,Field Goals Made,Field Goals Attempted,Safeties Scored by Player/Team,Total Points Scored by all Means,Poins per Game,Year
-0,2,49ers,David Akers,38,K,16,0,0,0,0,0,0,0,0,0,0,0,0,44,44,29,42,,131,8.2,2012
-1,21,49ers,Frank Gore,29,RB,16,16,8,1,0,0,1,0,0,10,0,0,0,0,0,0,0,,60,3.8,2012
-2,15,49ers,Michael Crabtree,25,WR,16,16,0,9,0,0,0,0,0,9,0,0,0,0,0,0,0,,54,3.4,2012
-3,85,49ers,Vernon Davis,28,TE,16,16,0,5,0,0,0,0,0,5,0,0,0,0,0,0,0,,30,1.9,2012
-4,7,49ers,Colin Kaepernick,25,QB,13,7,5,0,0,0,0,0,0,5,0,0,0,0,0,0,0,,30,2.3,2012
-5,84,49ers,Randy Moss,35,WR,16,2,0,3,0,0,0,0,0,3,0,0,0,0,0,0,0,,18,1.1,2012
-6,46,49ers,Delanie Walker,28,WR,16,4,0,3,0,0,0,0,0,3,0,0,0,0,0,0,0,,18,1.1,2012
-7,24,49ers,Anthony Dixon,25,RB,16,0,2,0,0,0,0,0,0,2,0,0,0,0,0,0,0,,12,0.8,2012
-8,32,49ers,Kendall Hunter,24,RB,11,0,2,0,0,0,0,0,0,2,0,0,0,0,0,0,0,,12,1.1,2012
-9,55,49ers,Ahmad Brooks,28,LOLB,16,16,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,,6,0.4,2012
-10,82,49ers,Mario Manningham,26,WR,12,10,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,,6,0.5,2012
-11,22,49ers,Carlos Rogers,31,LCB,16,16,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,,6,0.4,2012
-12,31,49ers,Donte Whitner,27,SS,16,16,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,,6,0.4,2012
-13,10,49ers,Kyle Williams,24,WR,11,3,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,,6,0.5,2012
-14,91,49ers,Ray McDonald,28,LDE,16,16,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1.0,2,0.1,2012
+,No.,Player,Age,Pos,Games Played,Games Started,Rush TD,Reception TD,Punt Return TD,Kick Return TD,Fumble Return TD,Interception TD,Other TD,All Touchdown Scored,2-Point Conversions Made,Two-Point Conversions Attempted,Defensive Two-Point Conversions,Extra Points Made,Extra Points Allowed,Field Goals Made,Field Goals Attempted,Safeties Scored by Player/Team,Total Points Scored by all Means,Poins per Game,Team,Year
+2,2,David Akers,38,K,16,0,0,0,0,0,0,0,0,0,0,0,0,44,44,29,42,0,131,8.2,49ers,2012
+21,21,Frank Gore,29,RB,16,16,8,1,0,0,1,0,0,10,0,0,0,0,0,0,0,0,60,3.8,49ers,2012
+15,15,Michael Crabtree,25,WR,16,16,0,9,0,0,0,0,0,9,0,0,0,0,0,0,0,0,54,3.4,49ers,2012
+85,85,Vernon Davis,28,TE,16,16,0,5,0,0,0,0,0,5,0,0,0,0,0,0,0,0,30,1.9,49ers,2012
+7,7,Colin Kaepernick,25,QB,13,7,5,0,0,0,0,0,0,5,0,0,0,0,0,0,0,0,30,2.3,49ers,2012
+84,84,Randy Moss,35,WR,16,2,0,3,0,0,0,0,0,3,0,0,0,0,0,0,0,0,18,1.1,49ers,2012
+46,46,Delanie Walker,28,TE,16,4,0,3,0,0,0,0,0,3,0,0,0,0,0,0,0,0,18,1.1,49ers,2012
+24,24,Anthony Dixon,25,RB,16,0,2,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,12,0.8,49ers,2012
+32,32,Kendall Hunter,24,RB,11,0,2,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,12,1.1,49ers,2012
+55,55,Ahmad Brooks,28,LOLB,16,16,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,6,0.4,49ers,2012
+82,82,Mario Manningham,26,WR,12,10,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,6,0.5,49ers,2012
+22,22,Carlos Rogers,31,LCB,16,16,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,6,0.4,49ers,2012
+31,31,Donte Whitner,27,SS,16,16,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,6,0.4,49ers,2012
+10,10,Kyle Williams,24,WR,11,3,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,6,0.5,49ers,2012
+91,91,Ray McDonald,28,LDE,16,16,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,2,0.1,49ers,2012

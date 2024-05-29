@@ -1,18 +1,17 @@
-,Week,Team,Day,Date,Time,Win/Loss,Overtime,Team Record,Home/Away,Opponent,Points Scored,Points Allowed,Offense 1st Down,Total Yards Gained of Offense,Total yards Gained by Passing,Total Yards Gained by Rushing,Offense Turnovers,Defense 1st Down,Total Yards Allowed by Defense,Total Passing Yards Allowed by Defense,Total Rushing Yards Allowed by Defense,Defense Turnovers,Offense,Defense,Sp. Tms,Year
-0,0,Raiders,Mon,September 10,,L,0,0-1,home,San Diego Chargers,14,22,21,321,276,45,1,15,258,226,32,0,-1.45,-0.43,-6.78,2012
-1,1,Raiders,Sun,September 16,,L,0,0-2,away,Miami Dolphins,13,35,18,396,373,23,1,24,452,189,263,0,-2.02,-20.54,-2.33,2012
-2,2,Raiders,Sun,September 23,,W,0,1-2,home,Pittsburgh Steelers,34,31,21,321,202,119,1,24,433,379,54,2,13.09,-14.9,4.81,2012
-3,3,Raiders,Sun,September 30,,L,0,1-3,away,Denver Broncos,6,37,12,237,181,56,0,26,503,338,165,1,-10.14,-22.58,3.1,2012
-4,4,Raiders,,,,,0,,home,<strong>Bye Week</strong>,0,0,0,0,0,0,0,0,0,0,0,0,,,,2012
-5,5,Raiders,Sun,October 14,,L,0,1-4,away,Atlanta Falcons,20,23,22,474,325,149,3,16,286,241,45,3,-9.03,8.04,-1.32,2012
-6,6,1,1,1,1.0,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1.0,1.0,1.0,1
-7,7,Raiders,Sun,October 28,,W,0,3-4,away,Kansas City Chiefs,26,16,15,344,209,135,1,17,299,197,102,4,-0.73,12.51,2.54,2012
-8,8,Raiders,Sun,November 4,,L,0,3-5,home,Tampa Bay Buccaneers,32,42,25,424,402,22,3,23,515,237,278,1,3.88,-20.32,10.56,2012
-9,9,Raiders,Sun,November 11,,L,0,3-6,away,Baltimore Ravens,20,55,19,422,350,72,3,22,419,341,78,1,-4.23,-21.09,-11.78,2012
-10,10,Raiders,Sun,November 18,,L,0,3-7,home,New Orleans Saints,17,38,24,404,284,120,2,19,380,229,151,0,-3.48,-18.98,-1.97,2012
-11,11,Raiders,Sun,November 25,,L,0,3-8,away,Cincinnati Bengals,10,34,14,218,119,99,2,18,415,194,221,0,-20.77,-14.93,10.64,2012
-12,12,Raiders,Sun,December 2,,L,0,3-9,home,Cleveland Browns,17,20,25,429,344,85,1,23,475,353,122,2,13.66,-16.06,-4.04,2012
-13,13,Raiders,Thu,December 6,,L,0,3-10,home,Denver Broncos,13,26,14,324,263,61,2,30,428,288,140,1,-1.28,-13.75,-1.52,2012
-14,14,Raiders,Sun,December 16,,W,0,4-10,home,Kansas City Chiefs,15,0,21,385,182,203,1,7,119,109,10,1,-1.64,24.24,-5.8,2012
-15,15,Raiders,Sun,December 23,,L,0,4-11,away,Carolina Panthers,6,17,12,189,142,47,1,16,271,159,112,2,-16.88,-0.41,4.57,2012
-16,16,Raiders,Sun,December 30,,L,0,4-12,away,San Diego Chargers,21,24,17,265,150,115,1,14,210,140,70,0,0.71,0.8,-2.13,2012
+,Week,Day,Date,Time,Win/Loss,Overtime,Team Record,Home/Away,Opponent,Points Scored,Points Allowed,Offense 1st Down,Total Yards Gained of Offense,Total yards Gained by Passing,Total Yards Gained by Rushing,Offense Turnovers,Defense 1st Down,Total Yards Allowed by Defense,Total Passing Yards Allowed by Defense,Total Rushing Yards Allowed by Defense,Defense Turnovers,Offense,Defense,Sp. Tms,Team,Year
+0,1,Mon,2012-09-10,nan,Loss,0,0-1,home,San Diego Chargers,14,22,21,321,276,45,1,15,258,226,32,0,-1.45,-0.43,-6.78,Raiders,2012
+1,2,Sun,2012-09-16,nan,Loss,0,0-2,away,Miami Dolphins,13,35,18,396,373,23,1,24,452,189,263,0,-2.02,-20.54,-2.33,Raiders,2012
+2,3,Sun,2012-09-23,nan,Win,0,1-2,home,Pittsburgh Steelers,34,31,21,321,202,119,1,24,433,379,54,2,13.09,-14.9,4.81,Raiders,2012
+3,4,Sun,2012-09-30,nan,Loss,0,1-3,away,Denver Broncos,6,37,12,237,181,56,0,26,503,338,165,1,-10.14,-22.58,3.1,Raiders,2012
+4,6,Sun,2012-10-14,nan,Loss,0,1-4,away,Atlanta Falcons,20,23,22,474,325,149,3,16,286,241,45,3,-9.03,8.04,-1.32,Raiders,2012
+5,7,Sun,2012-10-21,nan,Win,1,2-4,home,Jacksonville Jaguars,26,23,20,351,282,69,3,10,209,155,54,1,0.13,19.44,-18.57,Raiders,2012
+6,8,Sun,2012-10-28,nan,Win,0,3-4,away,Kansas City Chiefs,26,16,15,344,209,135,1,17,299,197,102,4,-0.73,12.51,2.54,Raiders,2012
+7,9,Sun,2012-11-04,nan,Loss,0,3-5,home,Tampa Bay Buccaneers,32,42,25,424,402,22,3,23,515,237,278,1,3.88,-20.32,10.56,Raiders,2012
+8,10,Sun,2012-11-11,nan,Loss,0,3-6,away,Baltimore Ravens,20,55,19,422,350,72,3,22,419,341,78,1,-4.23,-21.09,-11.78,Raiders,2012
+9,11,Sun,2012-11-18,nan,Loss,0,3-7,home,New Orleans Saints,17,38,24,404,284,120,2,19,380,229,151,0,-3.48,-18.98,-1.97,Raiders,2012
+10,12,Sun,2012-11-25,nan,Loss,0,3-8,away,Cincinnati Bengals,10,34,14,218,119,99,2,18,415,194,221,0,-20.77,-14.93,10.64,Raiders,2012
+11,13,Sun,2012-12-02,nan,Loss,0,3-9,home,Cleveland Browns,17,20,25,429,344,85,1,23,475,353,122,2,13.66,-16.06,-4.04,Raiders,2012
+12,14,Thu,2012-12-06,nan,Loss,0,3-10,home,Denver Broncos,13,26,14,324,263,61,2,30,428,288,140,1,-1.28,-13.75,-1.52,Raiders,2012
+13,15,Sun,2012-12-16,nan,Win,0,4-10,home,Kansas City Chiefs,15,0,21,385,182,203,1,7,119,109,10,1,-1.64,24.24,-5.8,Raiders,2012
+14,16,Sun,2012-12-23,nan,Loss,0,4-11,away,Carolina Panthers,6,17,12,189,142,47,1,16,271,159,112,2,-16.88,-0.41,4.57,Raiders,2012
+15,17,Sun,2012-12-30,nan,Loss,0,4-12,away,San Diego Chargers,21,24,17,265,150,115,1,14,210,140,70,0,0.71,0.8,-2.13,Raiders,2012

@@ -1,18 +1,18 @@
-,No.,Team,Player,Age,Position,Games Played,Games Started as an Offensive or Defensive Player,Rushing Attempts,Rushing Yards Gained,Rushing Touchdown,First Downs Rushing,Rushing Success Rate,Longest Rushing Attempt,Rushing Yards per Attempt,Rushing Yards per Game,Rushing Attempts per Game,Pass Targets,Receptions,Receiving Yards,Receiving Yards per Reception,Receiving Touchdowns,First Downs Receiving,Receiving Success Rate,Longest Reception,Receptions per Game,Receiving Yards per Game,Catch Per.,Receiving Yards per Target,Touches: Rushing Attempts and Receptions,Scrimmage Yards per Touch: Rushing + Receiving Yardage per Opportunity,Yards from Scrimmage: Receiving and Rushing Yards,Rushing and Receiving Touchdowns,Lost and Recovered Fumbles,Year
-0,34,Panthers,DeAngelo Williams,29,RB,16,10,173,737,5,34,42.8,65,4.3,46.1,10.8,20,13,187,14.4,2,5,40.0,53,0.8,11.7,65.0,9.4,186,5.0,924,7,2,2012
-1,1,Panthers,Cam Newton,23,QB,16,16,127,741,8,52,52.0,72,5.8,46.3,7.9,1,0,6,,0,0,0.0,6,0.0,0.4,0.0,6.0,127,5.9,747,8,10,2012
-2,28,Panthers,Jonathan Stewart,25,RB,9,6,93,336,1,15,38.7,21,3.6,37.3,10.3,23,17,157,9.2,1,5,43.5,30,1.9,17.4,73.9,6.8,110,4.5,493,2,2,2012
-3,35,Panthers,Mike Tolbert,27,RB,16,5,54,183,7,23,61.1,13,3.4,11.4,3.4,39,27,268,9.9,0,13,51.3,26,1.7,16.8,69.2,6.9,81,5.6,451,7,0,2012
-4,89,Panthers,Steve Smith Sr.,33,WR,16,16,3,27,0,1,66.7,15,9.0,1.7,0.2,137,73,1174,16.1,4,52,46.0,66,4.6,73.4,53.3,8.6,76,15.8,1201,4,1,2012
-5,11,Panthers,Brandon LaFell,26,WR,14,12,3,35,0,1,100.0,25,11.7,2.5,0.2,76,44,677,15.4,4,31,48.7,62,3.1,48.4,57.9,8.9,47,15.1,712,4,1,2012
-6,15,Panthers,Joe Adams,23,WR,9,0,3,13,0,0,,5,4.3,1.4,0.3,1,1,7,7.0,0,0,,7,0.1,0.8,100.0,7.0,4,5.0,20,0,4,2012
-7,36,Panthers,Armond Smith,26,RB,4,0,3,0,0,0,,3,0.0,0.0,0.8,0,0,0,,0,0,,0,,,0.0,,3,0.0,0,0,0,2012
-8,83,Panthers,Louis Murphy,25,WR,16,5,1,3,0,0,0.0,3,3.0,0.2,0.1,61,25,336,13.4,1,16,32.8,55,1.6,21.0,41.0,5.5,26,13.0,339,1,1,2012
-9,81,Panthers,Kealoha Pilares,24,WR,8,0,1,17,0,1,100.0,12,17.0,2.1,0.1,4,2,42,21.0,1,1,50.0,36,0.3,5.3,50.0,10.5,3,19.7,59,1,0,2012
-10,43,Panthers,Haruki Nakamura,26,FS,13,13,1,-4,0,0,,-4,-4.0,-0.3,0.1,0,0,0,,0,0,,0,,,0.0,,1,-4.0,-4,0,0,2012
-11,88,Panthers,Greg Olsen,27,TE,16,16,0,0,0,0,,0,,,,104,69,843,12.2,5,44,54.8,47,4.3,52.7,66.3,8.1,69,12.2,843,5,0,2012
-12,82,Panthers,Gary Barnidge,27,TE,16,5,0,0,0,0,,0,,,,6,6,78,13.0,1,3,83.3,24,0.4,4.9,100.0,13.0,6,13.0,78,1,0,2012
-13,14,Panthers,Armanti Edwards,24,QB,16,0,0,0,0,0,,0,,,,9,5,121,24.2,0,3,44.4,82,0.3,7.6,55.6,13.4,5,24.2,121,0,0,2012
-14,84,Panthers,Ben Hartsock,32,TE,15,5,0,0,0,0,,0,,,,3,2,30,15.0,0,1,33.3,25,0.1,2.0,66.7,10.0,2,15.0,30,0,0,2012
-15,47,Panthers,Richie Brockel,26,TE,16,0,0,0,0,0,,0,,,,1,0,0,,0,0,,0,0.0,0.0,0.0,0.0,0,,0,0,0,2012
-16,69,Panthers,Jordan Gross,32,LT,16,16,0,0,0,0,,0,,,,1,0,1,,0,0,,1,0.0,0.1,0.0,1.0,0,,1,0,0,2012
+,No.,Player,Age,Position,Games Played,Games Started as an Offensive or Defensive Player,Rushing Attempts,Rushing Yards Gained,Rushing Touchdown,First Downs Rushing,Rushing Success Rate,Longest Rushing Attempt,Rushing Yards per Attempt,Rushing Yards per Game,Rushing Attempts per Game,Pass Targets,Receptions,Receiving Yards,Receiving Yards per Reception,Receiving Touchdowns,First Downs Receiving,Receiving Success Rate,Longest Reception,Receptions per Game,Receiving Yards per Game,Catch Per.,Receiving Yards per Target,Touches: Rushing Attempts and Receptions,Scrimmage Yards per Touch: Rushing + Receiving Yardage per Opportunity,Yards from Scrimmage: Receiving and Rushing Yards,Rushing and Receiving Touchdowns,Lost and Recovered Fumbles,Team,Year
+34,34,DeAngelo Williams,29,RB,16,10,173,737,5,34,42.8,65,4.3,46.1,10.8,20,13,187,14.4,2,5,40.0,53,0.8,11.7,65.0,9.4,186,5.0,924,7,2,Panthers,2012
+1,1,Cam Newton,23,QB,16,16,127,741,8,52,52.0,72,5.8,46.3,7.9,1,0,6,0.0,0,0,0.0,6,0.0,0.4,0.0,6.0,127,5.9,747,8,10,Panthers,2012
+28,28,Jonathan Stewart,25,RB,9,6,93,336,1,15,38.7,21,3.6,37.3,10.3,23,17,157,9.2,1,5,43.5,30,1.9,17.4,73.9,6.8,110,4.5,493,2,2,Panthers,2012
+35,35,Mike Tolbert,27,RB,16,5,54,183,7,23,61.1,13,3.4,11.4,3.4,39,27,268,9.9,0,13,51.3,26,1.7,16.8,69.2,6.9,81,5.6,451,7,0,Panthers,2012
+89,89,Steve Smith Sr.,33,WR,16,16,3,27,0,1,66.7,15,9.0,1.7,0.2,137,73,1174,16.1,4,52,46.0,66,4.6,73.4,53.3,8.6,76,15.8,1201,4,1,Panthers,2012
+11,11,Brandon LaFell,26,WR,14,12,3,35,0,1,100.0,25,11.7,2.5,0.2,76,44,677,15.4,4,31,48.7,62,3.1,48.4,57.9,8.9,47,15.1,712,4,1,Panthers,2012
+15,15,Joe Adams,23,WR,9,0,3,13,0,0,0.0,5,4.3,1.4,0.3,1,1,7,7.0,0,0,0.0,7,0.1,0.8,100.0,7.0,4,5.0,20,0,4,Panthers,2012
+36,36,Armond Smith,26,RB,4,0,3,0,0,0,0.0,3,0.0,0.0,0.8,0,0,0,0.0,0,0,0.0,0,0.0,0.0,0.0,0.0,3,0.0,0,0,0,Panthers,2012
+83,83,Louis Murphy,25,WR,16,5,1,3,0,0,0.0,3,3.0,0.2,0.1,61,25,336,13.4,1,16,32.8,55,1.6,21.0,41.0,5.5,26,13.0,339,1,1,Panthers,2012
+81,81,Kealoha Pilares,24,WR,8,0,1,17,0,1,100.0,12,17.0,2.1,0.1,4,2,42,21.0,1,1,50.0,36,0.3,5.3,50.0,10.5,3,19.7,59,1,0,Panthers,2012
+43,43,Haruki Nakamura,26,FS,13,13,1,-4,0,0,0.0,-4,-4.0,-0.3,0.1,0,0,0,0.0,0,0,0.0,0,0.0,0.0,0.0,0.0,1,-4.0,-4,0,0,Panthers,2012
+88,88,Greg Olsen,27,TE,16,16,0,0,0,0,0.0,0,0.0,0.0,0.0,104,69,843,12.2,5,44,54.8,47,4.3,52.7,66.3,8.1,69,12.2,843,5,0,Panthers,2012
+82,82,Gary Barnidge,27,TE,16,5,0,0,0,0,0.0,0,0.0,0.0,0.0,6,6,78,13.0,1,3,83.3,24,0.4,4.9,100.0,13.0,6,13.0,78,1,0,Panthers,2012
+14,14,Armanti Edwards,24,QB,16,0,0,0,0,0,0.0,0,0.0,0.0,0.0,9,5,121,24.2,0,3,44.4,82,0.3,7.6,55.6,13.4,5,24.2,121,0,0,Panthers,2012
+84,84,Ben Hartsock,32,TE,15,5,0,0,0,0,0.0,0,0.0,0.0,0.0,3,2,30,15.0,0,1,33.3,25,0.1,2.0,66.7,10.0,2,15.0,30,0,0,Panthers,2012
+47,47,Richie Brockel,26,TE,16,0,0,0,0,0,0.0,0,0.0,0.0,0.0,1,0,0,0.0,0,0,0.0,0,0.0,0.0,0.0,0.0,0,0.0,0,0,0,Panthers,2012
+69,69,Jordan Gross,32,LT,16,16,0,0,0,0,0.0,0,0.0,0.0,0.0,1,0,1,0.0,0,0,0.0,1,0.0,0.1,0.0,1.0,0,0.0,1,0,0,Panthers,2012

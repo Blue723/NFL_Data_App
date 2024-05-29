@@ -1,6 +1,6 @@
-,No.,Team,Player,Age,Position,Games Played,Games Started,Punts Returned,Punts Return Yardage,Punts Returned for Touchdown,Longest Punt Return,Yards per Punt Return,Kickoff Returns,Yardage for Kickoffs Returned,Kickoffs Returned for a Touchdown,Longest Kickoff Return,Yards per Kickoff Return,All-purpose Yards,Year
-0,16,Browns,Josh Cribbs,29,WR,16,2,38,457,0,60,12.0,43,1178,0,74,27.4,1722,2012
-1,80,Browns,Travis Benjamin,23,WR,14,3,3,149,1,93,49.7,3,76,0,29,25.3,589,2012
-2,27,Browns,Eric Hagg,23,DB,12,4,0,0,0,0,,2,8,0,5,4.0,8,2012
-3,50,Browns,James-Michael Johnson,23,LLB,10,8,0,0,0,0,,1,0,0,0,0.0,0,2012
-4,96,Browns,Emmanuel Stephens,25,DE,8,0,0,0,0,0,,1,7,0,7,7.0,7,2012
+,No.,Player,Age,Position,Games Played,Games Started,Punts Returned,Punts Return Yardage,Punts Returned for Touchdown,Longest Punt Return,Yards per Punt Return,Kickoff Returns,Yardage for Kickoffs Returned,Kickoffs Returned for a Touchdown,Longest Kickoff Return,Yards per Kickoff Return,All-purpose Yards,Team,Year
+16,16,Josh Cribbs,29,WR,16,2,38,457,0,60,12.0,43,1178,0,74,27.4,1722,Browns,2012
+80,80,Travis Benjamin,23,WR,14,3,3,149,1,93,49.7,3,76,0,29,25.3,589,Browns,2012
+27,27,Eric Hagg,23,DB,12,4,0,0,0,0,0.0,2,8,0,5,4.0,8,Browns,2012
+50,50,James-Michael Johnson,23,LLB,10,8,0,0,0,0,0.0,1,0,0,0,0.0,0,Browns,2012
+96,96,Emmanuel Stephens,25,DE,8,0,0,0,0,0,0.0,1,7,0,7,7.0,7,Browns,2012

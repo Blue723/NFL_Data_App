@@ -1,51 +1,51 @@
-,Rank,Team,Date,Opponent,Win/Loss,Score,Quarter,Distance,Type,Detail,Year
-0,1,Raiders,09/10/2012,SDG,Loss, 14-22,2,6,pass,Malcom Floyd,2012
-1,2,Raiders,09/16/2012,MIA,Loss, 13-35,1,2,rush,Ryan Tannehill,2012
-2,3,Raiders,09/16/2012,MIA,Loss, 13-35,3,23,rush,Reggie Bush,2012
-3,4,Raiders,09/16/2012,MIA,Loss, 13-35,3,65,rush,Reggie Bush,2012
-4,5,Raiders,09/16/2012,MIA,Loss, 13-35,4,14,pass,Anthony Fasano,2012
-5,6,Raiders,09/16/2012,MIA,Loss, 13-35,4,15,rush,Lamar Miller,2012
-6,7,Raiders,09/23/2012,PIT,Win, 34-31,1,4,pass,Heath Miller,2012
-7,8,Raiders,09/23/2012,PIT,Win, 34-31,1,4,pass,Heath Miller,2012
-8,9,Raiders,09/23/2012,PIT,Win, 34-31,3,22,pass,Mike Wallace,2012
-9,10,Raiders,09/23/2012,PIT,Win, 34-31,3,11,pass,Antonio Brown,2012
-10,11,Raiders,09/30/2012,DEN,Loss, 6-37,1,22,pass,Joel Dreessen,2012
-11,12,Raiders,09/30/2012,DEN,Loss, 6-37,3,17,pass,Eric Decker,2012
-12,13,Raiders,09/30/2012,DEN,Loss, 6-37,3,2,rush,Willis McGahee,2012
-13,14,Raiders,09/30/2012,DEN,Loss, 6-37,3,14,pass,Lance Ball,2012
-14,15,Raiders,10/14/2012,ATL,Loss, 20-23,2,4,pass,Roddy White,2012
-15,16,Raiders,10/14/2012,ATL,Loss, 20-23,4,79,interception,Asante Samuel,2012
-16,17,Raiders,10/21/2012,JAX,Win, 26-23,1,42,pass,Cecil Shorts,2012
-17,18,Raiders,10/21/2012,JAX,Win, 26-23,2,5,rush,Rashad Jennings,2012
-18,19,Raiders,10/28/2012,KAN,Win, 26-16,4,10,pass,Dexter McCluster,2012
-19,20,Raiders,11/04/2012,TAM,Loss, 32-42,2,20,pass,Vincent Jackson,2012
-20,21,Raiders,11/04/2012,TAM,Loss, 32-42,3,45,rush,Doug Martin,2012
-21,22,Raiders,11/04/2012,TAM,Loss, 32-42,3,4,pass,Mike Williams,2012
-22,23,Raiders,11/04/2012,TAM,Loss, 32-42,3,67,rush,Doug Martin,2012
-23,24,Raiders,11/04/2012,TAM,Loss, 32-42,4,70,rush,Doug Martin,2012
-24,25,Raiders,11/04/2012,TAM,Loss, 32-42,4,1,rush,Doug Martin,2012
-25,26,Raiders,11/11/2012,BAL,Loss, 20-55,1,1,rush,Joe Flacco,2012
-26,27,Raiders,11/11/2012,BAL,Loss, 20-55,2,5,pass,Dennis Pitta,2012
-27,28,Raiders,11/11/2012,BAL,Loss, 20-55,2,7,rush,Ray Rice,2012
-28,29,Raiders,11/11/2012,BAL,Loss, 20-55,3,47,pass,Torrey Smith,2012
-29,30,Raiders,11/11/2012,BAL,Loss, 20-55,3,20,pass,Torrey Smith,2012
-30,31,Raiders,11/11/2012,BAL,Loss, 20-55,3,7,rush,Sam Koch,2012
-31,32,Raiders,11/11/2012,BAL,Loss, 20-55,4,105,kickoff,Jacoby Jones,2012
-32,33,Raiders,11/18/2012,NOR,Loss, 17-38,1,1,pass,Jimmy Graham,2012
-33,34,Raiders,11/18/2012,NOR,Loss, 17-38,1,55,interception,Malcolm Jenkins,2012
-34,35,Raiders,11/18/2012,NOR,Loss, 17-38,2,38,pass,Lance Moore,2012
-35,36,Raiders,11/18/2012,NOR,Loss, 17-38,3,27,rush,Mark Ingram,2012
-36,37,Raiders,11/18/2012,NOR,Loss, 17-38,3,15,pass,Lance Moore,2012
-37,38,Raiders,11/25/2012,CIN,Loss, 10-34,1,1,rush,BenJarvus Green-Ellis,2012
-38,39,Raiders,11/25/2012,CIN,Loss, 10-34,1,2,pass,Mohamed Sanu,2012
-39,40,Raiders,11/25/2012,CIN,Loss, 10-34,2,5,pass,Mohamed Sanu,2012
-40,41,Raiders,11/25/2012,CIN,Loss, 10-34,4,7,pass,Jermaine Gresham,2012
-41,42,Raiders,12/02/2012,CLE,Loss, 17-20,2,44,pass,Josh Gordon,2012
-42,43,Raiders,12/02/2012,CLE,Loss, 17-20,4,3,rush,Trent Richardson,2012
-43,44,Raiders,12/06/2012,DEN,Loss, 13-26,1,6,pass,Joel Dreessen,2012
-44,45,Raiders,12/06/2012,DEN,Loss, 13-26,3,1,rush,Knowshon Moreno,2012
-45,46,Raiders,12/23/2012,CAR,Loss, 6-17,1,23,pass,Steve Smith Sr.,2012
-46,47,Raiders,12/23/2012,CAR,Loss, 6-17,2,3,rush,Cam Newton,2012
-47,48,Raiders,12/30/2012,SDG,Loss, 21-24,1,99,kickoff,Micheal Spurlock,2012
-48,49,Raiders,12/30/2012,SDG,Loss, 21-24,2,11,pass,Antonio Gates,2012
-49,50,Raiders,12/30/2012,SDG,Loss, 21-24,3,34,pass,Danario Alexander,2012
+,Rank,Team,Date,Opponent,Win/Loss,Home_Score,Opponenet_Score,Quarter,Distance,Type,Detail
+1,1,Raiders,2012-09-10,SDG,Loss,14,22,2,6,pass,Malcom Floyd
+2,2,Raiders,2012-09-16,MIA,Loss,13,35,1,2,rush,Ryan Tannehill
+3,3,Raiders,2012-09-16,MIA,Loss,13,35,3,23,rush,Reggie Bush
+4,4,Raiders,2012-09-16,MIA,Loss,13,35,3,65,rush,Reggie Bush
+5,5,Raiders,2012-09-16,MIA,Loss,13,35,4,14,pass,Anthony Fasano
+6,6,Raiders,2012-09-16,MIA,Loss,13,35,4,15,rush,Lamar Miller
+7,7,Raiders,2012-09-23,PIT,Win,34,31,1,4,pass,Heath Miller
+8,8,Raiders,2012-09-23,PIT,Win,34,31,1,4,pass,Heath Miller
+9,9,Raiders,2012-09-23,PIT,Win,34,31,3,22,pass,Mike Wallace
+10,10,Raiders,2012-09-23,PIT,Win,34,31,3,11,pass,Antonio Brown
+11,11,Raiders,2012-09-30,DEN,Loss,6,37,1,22,pass,Joel Dreessen
+12,12,Raiders,2012-09-30,DEN,Loss,6,37,3,17,pass,Eric Decker
+13,13,Raiders,2012-09-30,DEN,Loss,6,37,3,2,rush,Willis McGahee
+14,14,Raiders,2012-09-30,DEN,Loss,6,37,3,14,pass,Lance Ball
+15,15,Raiders,2012-10-14,ATL,Loss,20,23,2,4,pass,Roddy White
+16,16,Raiders,2012-10-14,ATL,Loss,20,23,4,79,interception,Asante Samuel
+17,17,Raiders,2012-10-21,JAX,Win,26,23,1,42,pass,Cecil Shorts
+18,18,Raiders,2012-10-21,JAX,Win,26,23,2,5,rush,Rashad Jennings
+19,19,Raiders,2012-10-28,KAN,Win,26,16,4,10,pass,Dexter McCluster
+20,20,Raiders,2012-11-04,TAM,Loss,32,42,2,20,pass,Vincent Jackson
+21,21,Raiders,2012-11-04,TAM,Loss,32,42,3,45,rush,Doug Martin
+22,22,Raiders,2012-11-04,TAM,Loss,32,42,3,4,pass,Mike Williams
+23,23,Raiders,2012-11-04,TAM,Loss,32,42,3,67,rush,Doug Martin
+24,24,Raiders,2012-11-04,TAM,Loss,32,42,4,70,rush,Doug Martin
+25,25,Raiders,2012-11-04,TAM,Loss,32,42,4,1,rush,Doug Martin
+26,26,Raiders,2012-11-11,BAL,Loss,20,55,1,1,rush,Joe Flacco
+27,27,Raiders,2012-11-11,BAL,Loss,20,55,2,5,pass,Dennis Pitta
+28,28,Raiders,2012-11-11,BAL,Loss,20,55,2,7,rush,Ray Rice
+29,29,Raiders,2012-11-11,BAL,Loss,20,55,3,47,pass,Torrey Smith
+30,30,Raiders,2012-11-11,BAL,Loss,20,55,3,20,pass,Torrey Smith
+31,31,Raiders,2012-11-11,BAL,Loss,20,55,3,7,rush,Sam Koch
+32,32,Raiders,2012-11-11,BAL,Loss,20,55,4,105,kickoff,Jacoby Jones
+33,33,Raiders,2012-11-18,NOR,Loss,17,38,1,1,pass,Jimmy Graham
+34,34,Raiders,2012-11-18,NOR,Loss,17,38,1,55,interception,Malcolm Jenkins
+35,35,Raiders,2012-11-18,NOR,Loss,17,38,2,38,pass,Lance Moore
+36,36,Raiders,2012-11-18,NOR,Loss,17,38,3,27,rush,Mark Ingram
+37,37,Raiders,2012-11-18,NOR,Loss,17,38,3,15,pass,Lance Moore
+38,38,Raiders,2012-11-25,CIN,Loss,10,34,1,1,rush,BenJarvus Green-Ellis
+39,39,Raiders,2012-11-25,CIN,Loss,10,34,1,2,pass,Mohamed Sanu
+40,40,Raiders,2012-11-25,CIN,Loss,10,34,2,5,pass,Mohamed Sanu
+41,41,Raiders,2012-11-25,CIN,Loss,10,34,4,7,pass,Jermaine Gresham
+42,42,Raiders,2012-12-02,CLE,Loss,17,20,2,44,pass,Josh Gordon
+43,43,Raiders,2012-12-02,CLE,Loss,17,20,4,3,rush,Trent Richardson
+44,44,Raiders,2012-12-06,DEN,Loss,13,26,1,6,pass,Joel Dreessen
+45,45,Raiders,2012-12-06,DEN,Loss,13,26,3,1,rush,Knowshon Moreno
+46,46,Raiders,2012-12-23,CAR,Loss,6,17,1,23,pass,Steve Smith Sr.
+47,47,Raiders,2012-12-23,CAR,Loss,6,17,2,3,rush,Cam Newton
+48,48,Raiders,2012-12-30,SDG,Loss,21,24,1,99,kickoff,Micheal Spurlock
+49,49,Raiders,2012-12-30,SDG,Loss,21,24,2,11,pass,Antonio Gates
+50,50,Raiders,2012-12-30,SDG,Loss,21,24,3,34,pass,Danario Alexander

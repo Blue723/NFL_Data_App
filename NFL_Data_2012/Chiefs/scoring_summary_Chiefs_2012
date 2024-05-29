@@ -1,13 +1,13 @@
-,No.,Team,Player,Age,Pos,Games Played,Games Started,Rush TD,Reception TD,Punt Return TD,Kick Return TD,Fumble Return TD,Interception TD,Other TD,All Touchdown Scored,2-Point Conversions Made,Two-Point Conversions Attempted,Defensive Two-Point Conversions,Extra Points Made,Extra Points Allowed,Field Goals Made,Field Goals Attempted,Safeties Scored by Player/Team,Total Points Scored by all Means,Poins per Game,Year
-0,6,Chiefs,Ryan Succop,26,K,16,0,0,0,0,0,0,0,0,0,0,0,0,17,17,28,34,,101,6.3,2012
-1,25,Chiefs,Jamaal Charles,26,RB,16,15,5,1,0,0,0,0,0,6,0,0,0,0,0,0,0,,36,2.3,2012
-2,82,Chiefs,Dwayne Bowe,28,WR,13,12,0,3,0,0,0,0,0,3,0,0,0,0,0,0,0,,18,1.4,2012
-3,20,Chiefs,Shaun Draughn,25,RB,16,0,2,0,0,0,0,0,0,2,0,0,0,0,0,0,0,,12,0.8,2012
-4,89,Chiefs,Jonathan Baldwin,23,WR,15,7,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,,6,0.4,2012
-5,80,Chiefs,Kevin Boss,28,TE,2,2,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,,6,3.0,2012
-6,7,Chiefs,Matt Cassel,30,QB,9,8,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,,6,0.7,2012
-7,40,Chiefs,Peyton Hillis,26,RB,13,2,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,,6,0.5,2012
-8,99,Chiefs,Edgar Jones,28,DE,16,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,,6,0.4,2012
-9,22,Chiefs,Dexter McCluster,23,RB,16,6,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,,6,0.4,2012
-10,81,Chiefs,Tony Moeaki,25,TE,15,14,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,,6,0.4,2012
-11,50,Chiefs,Justin Houston,23,LOLB,16,16,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1.0,2,0.1,2012
+,No.,Player,Age,Pos,Games Played,Games Started,Rush TD,Reception TD,Punt Return TD,Kick Return TD,Fumble Return TD,Interception TD,Other TD,All Touchdown Scored,2-Point Conversions Made,Two-Point Conversions Attempted,Defensive Two-Point Conversions,Extra Points Made,Extra Points Allowed,Field Goals Made,Field Goals Attempted,Safeties Scored by Player/Team,Total Points Scored by all Means,Poins per Game,Team,Year
+6,6,Ryan Succop,26,K,16,0,0,0,0,0,0,0,0,0,0,0,0,17,17,28,34,0,101,6.3,Chiefs,2012
+25,25,Jamaal Charles,26,RB,16,15,5,1,0,0,0,0,0,6,0,0,0,0,0,0,0,0,36,2.3,Chiefs,2012
+82,82,Dwayne Bowe,28,WR,13,12,0,3,0,0,0,0,0,3,0,0,0,0,0,0,0,0,18,1.4,Chiefs,2012
+20,20,Shaun Draughn,25,RB,16,0,2,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,12,0.8,Chiefs,2012
+89,89,Jonathan Baldwin,23,WR,15,7,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,6,0.4,Chiefs,2012
+80,80,Kevin Boss,28,TE,2,2,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,6,3.0,Chiefs,2012
+7,7,Matt Cassel,30,QB,9,8,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,6,0.7,Chiefs,2012
+40,40,Peyton Hillis,26,RB,13,2,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,6,0.5,Chiefs,2012
+99,99,Edgar Jones,28,DE,16,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,6,0.4,Chiefs,2012
+22,22,Dexter McCluster,23,RB,16,6,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,6,0.4,Chiefs,2012
+81,81,Tony Moeaki,25,TE,15,14,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,6,0.4,Chiefs,2012
+50,50,Justin Houston,23,LOLB,16,16,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,2,0.1,Chiefs,2012

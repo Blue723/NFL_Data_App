@@ -1,9 +1,9 @@
-,No.,Team,Player,Age,Position,Games Played,Games Started,Punts Returned,Punts Return Yardage,Punts Returned for Touchdown,Longest Punt Return,Yards per Punt Return,Kickoff Returns,Yardage for Kickoffs Returned,Kickoffs Returned for a Touchdown,Longest Kickoff Return,Yards per Kickoff Return,All-purpose Yards,Year
-0,87,Chargers,Micheal Spurlock,29,WR,8,1,11,188,1,63,17.1,10,257,1,99,25.7,524,2012
-1,15,Chargers,Richard Goodman,25,WR,7,0,0,0,0,0,,18,497,0,39,27.6,497,2012
-2,11,Chargers,Eddie Royal,26,WR,10,2,12,64,0,14,5.3,0,0,0,0,,320,2012
-3,22,Chargers,Chris Carr,29,DB,9,0,2,11,0,11,5.5,5,102,0,26,20.4,113,2012
-4,32,Chargers,Eric Weddle,27,FS,16,16,7,48,0,20,6.9,0,0,0,0,,110,2012
-5,36,Chargers,Curtis Brinkley,27,RB,10,1,0,0,0,0,,4,86,0,28,21.5,278,2012
-6,20,Chargers,Antoine Cason,26,RCB,16,16,1,9,0,9,9.0,1,16,0,16,16.0,59,2012
-7,54,Chargers,Melvin Ingram,23,DE,16,2,0,0,0,0,,2,-1,0,0,-0.5,-1,2012
+,No.,Player,Age,Position,Games Played,Games Started,Punts Returned,Punts Return Yardage,Punts Returned for Touchdown,Longest Punt Return,Yards per Punt Return,Kickoff Returns,Yardage for Kickoffs Returned,Kickoffs Returned for a Touchdown,Longest Kickoff Return,Yards per Kickoff Return,All-purpose Yards,Team,Year
+87,87,Micheal Spurlock,29,WR,8,1,11,188,1,63,17.1,10,257,1,99,25.7,524,Chargers,2012
+15,15,Richard Goodman,25,WR,7,0,0,0,0,0,0.0,18,497,0,39,27.6,497,Chargers,2012
+11,11,Eddie Royal,26,WR,10,2,12,64,0,14,5.3,0,0,0,0,0.0,320,Chargers,2012
+22,22,Chris Carr,29,DB,9,0,2,11,0,11,5.5,5,102,0,26,20.4,113,Chargers,2012
+32,32,Eric Weddle,27,FS,16,16,7,48,0,20,6.9,0,0,0,0,0.0,110,Chargers,2012
+36,36,Curtis Brinkley,27,RB,10,1,0,0,0,0,0.0,4,86,0,28,21.5,278,Chargers,2012
+20,20,Antoine Cason,26,RCB,16,16,1,9,0,9,9.0,1,16,0,16,16.0,59,Chargers,2012
+54,54,Melvin Ingram,23,LB,16,2,0,0,0,0,0.0,2,-1,0,0,-0.5,-1,Chargers,2012

@@ -1,45 +1,45 @@
-,Rank,Team,Date,Opponent,Win/Loss,Score,Quarter,Distance,Type,Detail,Year
-0,1,Browns,09/09/2012,PHI,Loss, 16-17,2,18,pass,Jeremy Maclin,2012
-1,2,Browns,09/09/2012,PHI,Loss, 16-17,4,4,pass,Clay Harbor,2012
-2,3,Browns,09/16/2012,CIN,Loss, 27-34,1,81,punt,Adam Jones,2012
-3,4,Browns,09/16/2012,CIN,Loss, 27-34,2,10,pass,A.J. Green,2012
-4,5,Browns,09/16/2012,CIN,Loss, 27-34,3,44,pass,Brandon Tate,2012
-5,6,Browns,09/16/2012,CIN,Loss, 27-34,4,50,pass,Andrew Hawkins,2012
-6,7,Browns,09/23/2012,BUF,Loss, 14-24,1,9,pass,T.J. Graham,2012
-7,8,Browns,09/23/2012,BUF,Loss, 14-24,1,32,pass,C.J. Spiller,2012
-8,9,Browns,09/23/2012,BUF,Loss, 14-24,4,9,pass,Stevie Johnson,2012
-9,10,Browns,09/27/2012,BAL,Loss, 16-23,2,18,pass,Torrey Smith,2012
-10,11,Browns,09/27/2012,BAL,Loss, 16-23,3,1,rush,Joe Flacco,2012
-11,12,Browns,09/27/2012,BAL,Loss, 16-23,3,63,interception,Cary Williams,2012
-12,13,Browns,10/07/2012,NYG,Loss, 27-41,1,3,pass,Victor Cruz,2012
-13,14,Browns,10/07/2012,NYG,Loss, 27-41,2,4,rush,Ahmad Bradshaw,2012
-14,15,Browns,10/07/2012,NYG,Loss, 27-41,2,7,pass,Victor Cruz,2012
-15,16,Browns,10/07/2012,NYG,Loss, 27-41,3,28,pass,Victor Cruz,2012
-16,17,Browns,10/07/2012,NYG,Loss, 27-41,4,40,rush,David Wilson,2012
-17,18,Browns,10/14/2012,CIN,Win, 34-24,1,55,pass,Jermaine Gresham,2012
-18,19,Browns,10/14/2012,CIN,Win, 34-24,2,4,pass,A.J. Green,2012
-19,20,Browns,10/14/2012,CIN,Win, 34-24,4,57,pass,A.J. Green,2012
-20,21,Browns,10/21/2012,IND,Loss, 13-17,1,3,rush,Andrew Luck,2012
-21,22,Browns,10/21/2012,IND,Loss, 13-17,2,5,rush,Andrew Luck,2012
-22,23,Browns,11/04/2012,BAL,Loss, 15-25,1,8,rush,Ray Rice,2012
-23,24,Browns,11/04/2012,BAL,Loss, 15-25,1,12,rush,Bernard Pierce,2012
-24,25,Browns,11/04/2012,BAL,Loss, 15-25,4,19,pass,Torrey Smith,2012
-25,26,Browns,11/18/2012,DAL,Loss, 20-23,4,2,rush,Felix Jones,2012
-26,27,Browns,11/18/2012,DAL,Loss, 20-23,4,28,pass,Dez Bryant,2012
-27,28,Browns,11/25/2012,PIT,Win, 20-14,1,53,interception,Lawrence Timmons,2012
-28,29,Browns,11/25/2012,PIT,Win, 20-14,2,1,rush,Chris Rainey,2012
-29,30,Browns,12/02/2012,OAK,Win, 20-17,3,64,pass,Rod Streater,2012
-30,31,Browns,12/02/2012,OAK,Win, 20-17,4,17,pass,Brandon Myers,2012
-31,32,Browns,12/09/2012,KAN,Win, 30-7,1,80,rush,Jamaal Charles,2012
-32,33,Browns,12/16/2012,WAS,Loss, 21-38,1,54,pass,Leonard Hankerson,2012
-33,34,Browns,12/16/2012,WAS,Loss, 21-38,3,3,rush,Alfred Morris,2012
-34,35,Browns,12/16/2012,WAS,Loss, 21-38,3,2,pass,Leonard Hankerson,2012
-35,36,Browns,12/16/2012,WAS,Loss, 21-38,4,4,rush,Evan Royster,2012
-36,37,Browns,12/16/2012,WAS,Loss, 21-38,4,8,rush,Alfred Morris,2012
-37,38,Browns,12/23/2012,DEN,Loss, 12-34,1,22,pass,Demaryius Thomas,2012
-38,39,Browns,12/23/2012,DEN,Loss, 12-34,2,10,pass,Eric Decker,2012
-39,40,Browns,12/23/2012,DEN,Loss, 12-34,3,8,pass,Eric Decker,2012
-40,41,Browns,12/23/2012,DEN,Loss, 12-34,4,1,rush,Jacob Hester,2012
-41,42,Browns,12/30/2012,PIT,Loss, 10-24,2,1,pass,Leonard Pope,2012
-42,43,Browns,12/30/2012,PIT,Loss, 10-24,3,9,pass,Antonio Brown,2012
-43,44,Browns,12/30/2012,PIT,Loss, 10-24,4,12,pass,Plaxico Burress,2012
+,Rank,Team,Date,Opponent,Win/Loss,Home_Score,Opponenet_Score,Quarter,Distance,Type,Detail
+1,1,Browns,2012-09-09,PHI,Loss,16,17,2,18,pass,Jeremy Maclin
+2,2,Browns,2012-09-09,PHI,Loss,16,17,4,4,pass,Clay Harbor
+3,3,Browns,2012-09-16,CIN,Loss,27,34,1,81,punt,Adam Jones
+4,4,Browns,2012-09-16,CIN,Loss,27,34,2,10,pass,A.J. Green
+5,5,Browns,2012-09-16,CIN,Loss,27,34,3,44,pass,Brandon Tate
+6,6,Browns,2012-09-16,CIN,Loss,27,34,4,50,pass,Andrew Hawkins
+7,7,Browns,2012-09-23,BUF,Loss,14,24,1,9,pass,T.J. Graham
+8,8,Browns,2012-09-23,BUF,Loss,14,24,1,32,pass,C.J. Spiller
+9,9,Browns,2012-09-23,BUF,Loss,14,24,4,9,pass,Stevie Johnson
+10,10,Browns,2012-09-27,BAL,Loss,16,23,2,18,pass,Torrey Smith
+11,11,Browns,2012-09-27,BAL,Loss,16,23,3,1,rush,Joe Flacco
+12,12,Browns,2012-09-27,BAL,Loss,16,23,3,63,interception,Cary Williams
+13,13,Browns,2012-10-07,NYG,Loss,27,41,1,3,pass,Victor Cruz
+14,14,Browns,2012-10-07,NYG,Loss,27,41,2,4,rush,Ahmad Bradshaw
+15,15,Browns,2012-10-07,NYG,Loss,27,41,2,7,pass,Victor Cruz
+16,16,Browns,2012-10-07,NYG,Loss,27,41,3,28,pass,Victor Cruz
+17,17,Browns,2012-10-07,NYG,Loss,27,41,4,40,rush,David Wilson
+18,18,Browns,2012-10-14,CIN,Win,34,24,1,55,pass,Jermaine Gresham
+19,19,Browns,2012-10-14,CIN,Win,34,24,2,4,pass,A.J. Green
+20,20,Browns,2012-10-14,CIN,Win,34,24,4,57,pass,A.J. Green
+21,21,Browns,2012-10-21,IND,Loss,13,17,1,3,rush,Andrew Luck
+22,22,Browns,2012-10-21,IND,Loss,13,17,2,5,rush,Andrew Luck
+23,23,Browns,2012-11-04,BAL,Loss,15,25,1,8,rush,Ray Rice
+24,24,Browns,2012-11-04,BAL,Loss,15,25,1,12,rush,Bernard Pierce
+25,25,Browns,2012-11-04,BAL,Loss,15,25,4,19,pass,Torrey Smith
+26,26,Browns,2012-11-18,DAL,Loss,20,23,4,2,rush,Felix Jones
+27,27,Browns,2012-11-18,DAL,Loss,20,23,4,28,pass,Dez Bryant
+28,28,Browns,2012-11-25,PIT,Win,20,14,1,53,interception,Lawrence Timmons
+29,29,Browns,2012-11-25,PIT,Win,20,14,2,1,rush,Chris Rainey
+30,30,Browns,2012-12-02,OAK,Win,20,17,3,64,pass,Rod Streater
+31,31,Browns,2012-12-02,OAK,Win,20,17,4,17,pass,Brandon Myers
+32,32,Browns,2012-12-09,KAN,Win,30,7,1,80,rush,Jamaal Charles
+33,33,Browns,2012-12-16,WAS,Loss,21,38,1,54,pass,Leonard Hankerson
+34,34,Browns,2012-12-16,WAS,Loss,21,38,3,3,rush,Alfred Morris
+35,35,Browns,2012-12-16,WAS,Loss,21,38,3,2,pass,Leonard Hankerson
+36,36,Browns,2012-12-16,WAS,Loss,21,38,4,4,rush,Evan Royster
+37,37,Browns,2012-12-16,WAS,Loss,21,38,4,8,rush,Alfred Morris
+38,38,Browns,2012-12-23,DEN,Loss,12,34,1,22,pass,Demaryius Thomas
+39,39,Browns,2012-12-23,DEN,Loss,12,34,2,10,pass,Eric Decker
+40,40,Browns,2012-12-23,DEN,Loss,12,34,3,8,pass,Eric Decker
+41,41,Browns,2012-12-23,DEN,Loss,12,34,4,1,rush,Jacob Hester
+42,42,Browns,2012-12-30,PIT,Loss,10,24,2,1,pass,Leonard Pope
+43,43,Browns,2012-12-30,PIT,Loss,10,24,3,9,pass,Antonio Brown
+44,44,Browns,2012-12-30,PIT,Loss,10,24,4,12,pass,Plaxico Burress

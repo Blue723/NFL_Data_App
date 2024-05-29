@@ -1,9 +1,9 @@
-,No.,Team,Player,Age,Position,Games Played,Games Started,Punts Returned,Punts Return Yardage,Punts Returned for Touchdown,Longest Punt Return,Yards per Punt Return,Kickoff Returns,Yardage for Kickoffs Returned,Kickoffs Returned for a Touchdown,Longest Kickoff Return,Yards per Kickoff Return,All-purpose Yards,Year
-0,25,Jets,Joe McKnight,24,RB,15,0,0,0,0,0,,39,1072,1,100,27.5,1269,2012
-1,11,Jets,Jeremy Kerley,24,WR,16,7,19,208,1,68,10.9,0,0,0,0,,1044,2012
-2,19,Jets,Clyde Gates,26,WR,11,2,0,0,0,0,,5,144,0,47,28.8,380,2012
-3,20,Jets,Kyle Wilson,25,LCB,16,15,4,30,0,19,7.5,1,9,0,9,9.0,44,2012
-4,31,Jets,Antonio Cromartie,28,RCB,16,16,0,0,0,0,,2,42,0,22,21.0,93,2012
-5,54,Jets,Nick Bellore,23,LB,16,0,0,0,0,0,,1,8,0,8,8.0,31,2012
-6,87,Jets,Konrad Reuland,25,TE,16,3,0,0,0,0,,1,14,0,14,14.0,97,2012
-7,33,Jets,Eric Smith,29,DB,12,2,0,0,0,0,,1,19,0,19,19.0,24,2012
+,No.,Player,Age,Position,Games Played,Games Started,Punts Returned,Punts Return Yardage,Punts Returned for Touchdown,Longest Punt Return,Yards per Punt Return,Kickoff Returns,Yardage for Kickoffs Returned,Kickoffs Returned for a Touchdown,Longest Kickoff Return,Yards per Kickoff Return,All-purpose Yards,Team,Year
+25,25,Joe McKnight,24,RB,15,0,0,0,0,0,0.0,39,1072,1,100,27.5,1269,Jets,2012
+11,11,Jeremy Kerley,24,WR,16,7,19,208,1,68,10.9,0,0,0,0,0.0,1044,Jets,2012
+19,19,Clyde Gates,26,WR,11,2,0,0,0,0,0.0,5,144,0,47,28.8,380,Jets,2012
+20,20,Kyle Wilson,25,LCB,16,15,4,30,0,19,7.5,1,9,0,9,9.0,44,Jets,2012
+31,31,Antonio Cromartie,28,RCB,16,16,0,0,0,0,0.0,2,42,0,22,21.0,93,Jets,2012
+54,54,Nick Bellore,23,LB,16,0,0,0,0,0,0.0,1,8,0,8,8.0,31,Jets,2012
+87,87,Konrad Reuland,25,TE,16,3,0,0,0,0,0.0,1,14,0,14,14.0,97,Jets,2012
+33,33,Eric Smith,29,DB,12,2,0,0,0,0,0.0,1,19,0,19,19.0,24,Jets,2012

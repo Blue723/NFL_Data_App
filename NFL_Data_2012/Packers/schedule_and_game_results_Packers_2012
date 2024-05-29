@@ -1,21 +1,19 @@
-,Week,Team,Day,Date,Time,Win/Loss,Overtime,Team Record,Home/Away,Opponent,Points Scored,Points Allowed,Offense 1st Down,Total Yards Gained of Offense,Total yards Gained by Passing,Total Yards Gained by Rushing,Offense Turnovers,Defense 1st Down,Total Yards Allowed by Defense,Total Passing Yards Allowed by Defense,Total Rushing Yards Allowed by Defense,Defense Turnovers,Offense,Defense,Sp. Tms,Year
-0,0,Packers,Sun,September 9,,L,0,0-1,home,San Francisco 49ers,22,30,21,324,279,45,1,22,377,191,186,0,2.61,-11.61,0.57,2012
-1,1,Packers,Thu,September 13,,W,0,1-1,home,Chicago Bears,23,10,19,321,215,106,2,11,168,74,94,4,-3.3,19.08,-0.91,2012
-2,2,Packers,Mon,September 24,,L,0,1-2,away,Seattle Seahawks,12,14,22,268,184,84,0,14,238,111,127,0,2.33,-0.56,-3.33,2012
-3,3,Packers,Sun,September 30,,W,0,2-2,home,New Orleans Saints,28,27,30,421,319,102,2,25,474,429,45,0,19.25,-18.01,0.23,2012
-4,4,Packers,Sun,October 7,,L,0,2-3,away,Indianapolis Colts,27,30,21,356,207,149,1,28,464,345,119,1,9.02,-10.06,-2.47,2012
-5,5,Packers,Sun,October 14,,W,0,3-3,away,Houston Texans,42,24,25,427,328,99,0,23,321,231,90,3,19.84,-0.13,-2.97,2012
-6,6,Packers,Sun,October 21,,W,0,4-3,away,St. Louis Rams,30,20,22,402,332,70,0,19,354,246,108,1,16.12,-6.08,-2.56,2012
-7,7,Packers,Sun,October 28,,W,0,5-3,home,Jacksonville Jaguars,24,15,20,238,172,66,1,18,341,279,62,1,-2.95,9.74,5.91,2012
-8,8,Packers,Sun,November 4,,W,0,6-3,home,Arizona Cardinals,31,17,20,384,208,176,1,16,340,286,54,2,6.76,5.45,3.98,2012
-9,9,Packers,,,,,0,,home,<strong>Bye Week</strong>,0,0,0,0,0,0,0,0,0,0,0,0,,,,2012
-10,10,Packers,Sun,November 18,,W,0,7-3,away,Detroit Lions,24,20,16,314,219,95,1,19,362,252,110,4,-0.13,11.88,-7.95,2012
-11,11,Packers,Sun,November 25,,L,0,7-4,away,New York Giants,10,38,16,317,201,116,2,23,390,243,147,0,-7.0,-18.49,-0.86,2012
-12,12,Packers,Sun,December 2,,W,0,8-4,home,Minnesota Vikings,23,14,22,435,283,152,1,16,359,119,240,2,13.97,-5.09,-3.87,2012
-13,13,Packers,Sun,December 9,,W,0,9-4,home,Detroit Lions,27,20,15,288,148,140,1,27,386,251,135,2,3.3,-2.15,6.97,2012
-14,14,Packers,Sun,December 16,,W,0,10-4,away,Chicago Bears,21,13,20,391,278,113,2,12,190,107,83,1,8.11,7.52,-8.23,2012
-15,15,Packers,Sun,December 23,,W,0,11-4,home,Tennessee Titans,55,7,28,460,343,117,0,10,180,101,79,2,21.7,24.22,1.12,2012
-16,16,Packers,Sun,December 30,,L,0,11-5,away,Minnesota Vikings,34,37,24,405,333,72,1,25,444,227,217,0,17.78,-21.59,0.81,2012
-17,17,Packers,,<strong>Playoffs</strong>,,,0,,home,,0,0,0,0,0,0,0,0,0,0,0,0,,,,2012
-18,18,Packers,Sat,January 5,,W,0,12-5,home,Minnesota Vikings,24,10,20,326,250,76,0,17,324,157,167,3,5.96,7.53,-0.56,2012
-19,19,Packers,Sat,January 12,,L,0,12-6,away,San Francisco 49ers,31,45,20,352,248,104,2,29,579,256,323,1,16.0,-25.88,-5.15,2012
+,Week,Day,Date,Time,Win/Loss,Overtime,Team Record,Home/Away,Opponent,Points Scored,Points Allowed,Offense 1st Down,Total Yards Gained of Offense,Total yards Gained by Passing,Total Yards Gained by Rushing,Offense Turnovers,Defense 1st Down,Total Yards Allowed by Defense,Total Passing Yards Allowed by Defense,Total Rushing Yards Allowed by Defense,Defense Turnovers,Offense,Defense,Sp. Tms,Team,Year
+0,1,Sun,2012-09-09,nan,Loss,0,0-1,home,San Francisco 49ers,22,30,21,324,279,45,1,22,377,191,186,0,2.61,-11.61,0.57,Packers,2012
+1,2,Thu,2012-09-13,nan,Win,0,1-1,home,Chicago Bears,23,10,19,321,215,106,2,11,168,74,94,4,-3.3,19.08,-0.91,Packers,2012
+2,3,Mon,2012-09-24,nan,Loss,0,1-2,away,Seattle Seahawks,12,14,22,268,184,84,0,14,238,111,127,0,2.33,-0.56,-3.33,Packers,2012
+3,4,Sun,2012-09-30,nan,Win,0,2-2,home,New Orleans Saints,28,27,30,421,319,102,2,25,474,429,45,0,19.25,-18.01,0.23,Packers,2012
+4,5,Sun,2012-10-07,nan,Loss,0,2-3,away,Indianapolis Colts,27,30,21,356,207,149,1,28,464,345,119,1,9.02,-10.06,-2.47,Packers,2012
+5,6,Sun,2012-10-14,nan,Win,0,3-3,away,Houston Texans,42,24,25,427,328,99,0,23,321,231,90,3,19.84,-0.13,-2.97,Packers,2012
+6,7,Sun,2012-10-21,nan,Win,0,4-3,away,St. Louis Rams,30,20,22,402,332,70,0,19,354,246,108,1,16.12,-6.08,-2.56,Packers,2012
+7,8,Sun,2012-10-28,nan,Win,0,5-3,home,Jacksonville Jaguars,24,15,20,238,172,66,1,18,341,279,62,1,-2.95,9.74,5.91,Packers,2012
+8,9,Sun,2012-11-04,nan,Win,0,6-3,home,Arizona Cardinals,31,17,20,384,208,176,1,16,340,286,54,2,6.76,5.45,3.98,Packers,2012
+9,11,Sun,2012-11-18,nan,Win,0,7-3,away,Detroit Lions,24,20,16,314,219,95,1,19,362,252,110,4,-0.13,11.88,-7.95,Packers,2012
+10,12,Sun,2012-11-25,nan,Loss,0,7-4,away,New York Giants,10,38,16,317,201,116,2,23,390,243,147,0,-7.0,-18.49,-0.86,Packers,2012
+11,13,Sun,2012-12-02,nan,Win,0,8-4,home,Minnesota Vikings,23,14,22,435,283,152,1,16,359,119,240,2,13.97,-5.09,-3.87,Packers,2012
+12,14,Sun,2012-12-09,nan,Win,0,9-4,home,Detroit Lions,27,20,15,288,148,140,1,27,386,251,135,2,3.3,-2.15,6.97,Packers,2012
+13,15,Sun,2012-12-16,nan,Win,0,10-4,away,Chicago Bears,21,13,20,391,278,113,2,12,190,107,83,1,8.11,7.52,-8.23,Packers,2012
+14,16,Sun,2012-12-23,nan,Win,0,11-4,home,Tennessee Titans,55,7,28,460,343,117,0,10,180,101,79,2,21.7,24.22,1.12,Packers,2012
+15,17,Sun,2012-12-30,nan,Loss,0,11-5,away,Minnesota Vikings,34,37,24,405,333,72,1,25,444,227,217,0,17.78,-21.59,0.81,Packers,2012
+16,19,Sat,2013-01-05,nan,Win,0,12-5,home,Minnesota Vikings,24,10,20,326,250,76,0,17,324,157,167,3,5.96,7.53,-0.56,Packers,2012
+17,20,Sat,2013-01-12,nan,Loss,0,12-6,away,San Francisco 49ers,31,45,20,352,248,104,2,29,579,256,323,1,16.0,-25.88,-5.15,Packers,2012

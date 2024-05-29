@@ -1,40 +1,40 @@
-,Rank,Team,Date,Opponent,Win/Loss,Score,Quarter,Distance,Type,Detail,Year
-0,1,Vikings,09/09/2012,JAX,Win, 26-23,2,1,pass,Marcedes Lewis,2012
-1,2,Vikings,09/09/2012,JAX,Win, 26-23,4,39,pass,Cecil Shorts,2012
-2,3,Vikings,09/16/2012,IND,Loss, 20-23,1,3,pass,Dwayne Allen,2012
-3,4,Vikings,09/16/2012,IND,Loss, 20-23,2,30,pass,Reggie Wayne,2012
-4,5,Vikings,09/23/2012,SFO,Win, 24-13,3,1,pass,Vernon Davis,2012
-5,6,Vikings,09/30/2012,DET,Win, 20-13,4,1,rush,Matthew Stafford,2012
-6,7,Vikings,10/07/2012,TEN,Win, 30-7,4,10,pass,Jared Cook,2012
-7,8,Vikings,10/14/2012,WAS,Loss, 26-38,2,1,rush,Alfred Morris,2012
-8,9,Vikings,10/14/2012,WAS,Loss, 26-38,2,6,pass,Darrel Young,2012
-9,10,Vikings,10/14/2012,WAS,Loss, 26-38,3,7,rush,Robert Griffin III,2012
-10,11,Vikings,10/14/2012,WAS,Loss, 26-38,4,24,interception,Madieu Williams,2012
-11,12,Vikings,10/14/2012,WAS,Loss, 26-38,4,76,rush,Robert Griffin III,2012
-12,13,Vikings,10/21/2012,ARI,Win, 21-14,2,3,rush,LaRod Stephens-Howling,2012
-13,14,Vikings,10/21/2012,ARI,Win, 21-14,4,6,pass,Andre Roberts,2012
-14,15,Vikings,10/25/2012,TAM,Loss, 17-36,1,1,pass,Erik Lorig,2012
-15,16,Vikings,10/25/2012,TAM,Loss, 17-36,2,3,pass,Mike Williams,2012
-16,17,Vikings,10/25/2012,TAM,Loss, 17-36,3,64,pass,Doug Martin,2012
-17,18,Vikings,10/25/2012,TAM,Loss, 17-36,4,1,rush,Doug Martin,2012
-18,19,Vikings,11/04/2012,SEA,Loss, 20-30,1,6,pass,Golden Tate,2012
-19,20,Vikings,11/04/2012,SEA,Loss, 20-30,1,11,pass,Sidney Rice,2012
-20,21,Vikings,11/04/2012,SEA,Loss, 20-30,2,11,pass,Golden Tate,2012
-21,22,Vikings,11/04/2012,SEA,Loss, 20-30,3,3,rush,Marshawn Lynch,2012
-22,23,Vikings,11/11/2012,DET,Win, 34-24,3,16,pass,Brandon Pettigrew,2012
-23,24,Vikings,11/11/2012,DET,Win, 34-24,4,1,pass,Titus Young,2012
-24,25,Vikings,11/11/2012,DET,Win, 34-24,4,11,pass,Calvin Johnson,2012
-25,26,Vikings,11/25/2012,CHI,Loss, 10-28,1,1,rush,Michael Bush,2012
-26,27,Vikings,11/25/2012,CHI,Loss, 10-28,2,1,rush,Michael Bush,2012
-27,28,Vikings,11/25/2012,CHI,Loss, 10-28,2,13,pass,Matt Spaeth,2012
-28,29,Vikings,12/02/2012,GNB,Loss, 14-23,1,32,pass,James Jones,2012
-29,30,Vikings,12/02/2012,GNB,Loss, 14-23,3,22,rush,James Starks,2012
-30,31,Vikings,12/09/2012,CHI,Win, 21-14,2,23,pass,Alshon Jeffery,2012
-31,32,Vikings,12/09/2012,CHI,Win, 21-14,4,16,pass,Brandon Marshall,2012
-32,33,Vikings,12/16/2012,STL,Win, 36-22,2,4,pass,Brian Quick,2012
-33,34,Vikings,12/16/2012,STL,Win, 36-22,4,6,pass,Danny Amendola,2012
-34,35,Vikings,12/16/2012,STL,Win, 36-22,4,6,pass,Lance Kendricks,2012
-35,36,Vikings,12/30/2012,GNB,Win, 37-34,2,3,pass,Greg Jennings,2012
-36,37,Vikings,12/30/2012,GNB,Win, 37-34,3,5,pass,Greg Jennings,2012
-37,38,Vikings,12/30/2012,GNB,Win, 37-34,3,8,pass,James Jones,2012
-38,39,Vikings,12/30/2012,GNB,Win, 37-34,4,2,pass,Jordy Nelson,2012
+,Rank,Team,Date,Opponent,Win/Loss,Home_Score,Opponenet_Score,Quarter,Distance,Type,Detail
+1,1,Vikings,2012-09-09,JAX,Win,26,23,2,1,pass,Marcedes Lewis
+2,2,Vikings,2012-09-09,JAX,Win,26,23,4,39,pass,Cecil Shorts
+3,3,Vikings,2012-09-16,IND,Loss,20,23,1,3,pass,Dwayne Allen
+4,4,Vikings,2012-09-16,IND,Loss,20,23,2,30,pass,Reggie Wayne
+5,5,Vikings,2012-09-23,SFO,Win,24,13,3,1,pass,Vernon Davis
+6,6,Vikings,2012-09-30,DET,Win,20,13,4,1,rush,Matthew Stafford
+7,7,Vikings,2012-10-07,TEN,Win,30,7,4,10,pass,Jared Cook
+8,8,Vikings,2012-10-14,WAS,Loss,26,38,2,1,rush,Alfred Morris
+9,9,Vikings,2012-10-14,WAS,Loss,26,38,2,6,pass,Darrel Young
+10,10,Vikings,2012-10-14,WAS,Loss,26,38,3,7,rush,Robert Griffin III
+11,11,Vikings,2012-10-14,WAS,Loss,26,38,4,24,interception,Madieu Williams
+12,12,Vikings,2012-10-14,WAS,Loss,26,38,4,76,rush,Robert Griffin III
+13,13,Vikings,2012-10-21,ARI,Win,21,14,2,3,rush,LaRod Stephens-Howling
+14,14,Vikings,2012-10-21,ARI,Win,21,14,4,6,pass,Andre Roberts
+15,15,Vikings,2012-10-25,TAM,Loss,17,36,1,1,pass,Erik Lorig
+16,16,Vikings,2012-10-25,TAM,Loss,17,36,2,3,pass,Mike Williams
+17,17,Vikings,2012-10-25,TAM,Loss,17,36,3,64,pass,Doug Martin
+18,18,Vikings,2012-10-25,TAM,Loss,17,36,4,1,rush,Doug Martin
+19,19,Vikings,2012-11-04,SEA,Loss,20,30,1,6,pass,Golden Tate
+20,20,Vikings,2012-11-04,SEA,Loss,20,30,1,11,pass,Sidney Rice
+21,21,Vikings,2012-11-04,SEA,Loss,20,30,2,11,pass,Golden Tate
+22,22,Vikings,2012-11-04,SEA,Loss,20,30,3,3,rush,Marshawn Lynch
+23,23,Vikings,2012-11-11,DET,Win,34,24,3,16,pass,Brandon Pettigrew
+24,24,Vikings,2012-11-11,DET,Win,34,24,4,1,pass,Titus Young
+25,25,Vikings,2012-11-11,DET,Win,34,24,4,11,pass,Calvin Johnson
+26,26,Vikings,2012-11-25,CHI,Loss,10,28,1,1,rush,Michael Bush
+27,27,Vikings,2012-11-25,CHI,Loss,10,28,2,1,rush,Michael Bush
+28,28,Vikings,2012-11-25,CHI,Loss,10,28,2,13,pass,Matt Spaeth
+29,29,Vikings,2012-12-02,GNB,Loss,14,23,1,32,pass,James Jones
+30,30,Vikings,2012-12-02,GNB,Loss,14,23,3,22,rush,James Starks
+31,31,Vikings,2012-12-09,CHI,Win,21,14,2,23,pass,Alshon Jeffery
+32,32,Vikings,2012-12-09,CHI,Win,21,14,4,16,pass,Brandon Marshall
+33,33,Vikings,2012-12-16,STL,Win,36,22,2,4,pass,Brian Quick
+34,34,Vikings,2012-12-16,STL,Win,36,22,4,6,pass,Danny Amendola
+35,35,Vikings,2012-12-16,STL,Win,36,22,4,6,pass,Lance Kendricks
+36,36,Vikings,2012-12-30,GNB,Win,37,34,2,3,pass,Greg Jennings
+37,37,Vikings,2012-12-30,GNB,Win,37,34,3,5,pass,Greg Jennings
+38,38,Vikings,2012-12-30,GNB,Win,37,34,3,8,pass,James Jones
+39,39,Vikings,2012-12-30,GNB,Win,37,34,4,2,pass,Jordy Nelson

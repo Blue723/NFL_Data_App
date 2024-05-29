@@ -1,7 +1,7 @@
-,No.,Team,Player,Age,Position,Games Played,Games Started,Punts Returned,Punts Return Yardage,Punts Returned for Touchdown,Longest Punt Return,Yards per Punt Return,Kickoff Returns,Yardage for Kickoffs Returned,Kickoffs Returned for a Touchdown,Longest Kickoff Return,Yards per Kickoff Return,All-purpose Yards,Year
-0,83,Patriots,Wes Welker,31,WR,16,12,25,243,0,31,9.7,3,33,0,17,11.0,1650,2012
-1,32,Patriots,Devin McCourty,25,LCB/FS,16,16,0,0,0,0,,27,654,1,104,24.2,707,2012
-2,11,Patriots,Julian Edelman,26,WR,9,3,17,263,1,68,15.5,3,38,0,32,12.7,603,2012
-3,18,Patriots,Matthew Slater,27,WR,16,0,0,0,0,0,,2,39,0,20,19.5,39,2012
-4,39,Patriots,Danny Woodhead,27,RB,16,2,0,0,0,0,,2,43,0,23,21.5,790,2012
-5,87,Patriots,Rob Gronkowski,23,TE,11,11,0,0,0,0,,1,0,0,0,0.0,790,2012
+,No.,Player,Age,Position,Games Played,Games Started,Punts Returned,Punts Return Yardage,Punts Returned for Touchdown,Longest Punt Return,Yards per Punt Return,Kickoff Returns,Yardage for Kickoffs Returned,Kickoffs Returned for a Touchdown,Longest Kickoff Return,Yards per Kickoff Return,All-purpose Yards,Team,Year
+83,83,Wes Welker,31,WR,16,12,25,243,0,31,9.7,3,33,0,17,11.0,1650,Patriots,2012
+32,32,Devin McCourty,25,LCB/FS,16,16,0,0,0,0,0.0,27,654,1,104,24.2,707,Patriots,2012
+11,11,Julian Edelman,26,WR,9,3,17,263,1,68,15.5,3,38,0,32,12.7,603,Patriots,2012
+18,18,Matthew Slater,27,WR,16,0,0,0,0,0,0.0,2,39,0,20,19.5,39,Patriots,2012
+39,39,Danny Woodhead,27,RB,16,2,0,0,0,0,0.0,2,43,0,23,21.5,790,Patriots,2012
+87,87,Rob Gronkowski,23,TE,11,11,0,0,0,0,0.0,1,0,0,0,0.0,790,Patriots,2012

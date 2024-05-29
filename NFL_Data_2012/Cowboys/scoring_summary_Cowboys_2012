@@ -1,14 +1,14 @@
-,No.,Team,Player,Age,Pos,Games Played,Games Started,Rush TD,Reception TD,Punt Return TD,Kick Return TD,Fumble Return TD,Interception TD,Other TD,All Touchdown Scored,2-Point Conversions Made,Two-Point Conversions Attempted,Defensive Two-Point Conversions,Extra Points Made,Extra Points Allowed,Field Goals Made,Field Goals Attempted,Safeties Scored by Player/Team,Total Points Scored by all Means,Poins per Game,Year
-0,5,Cowboys,Dan Bailey,24,K,16,0,0,0,0,0,0,0,0,0,0,0,0,37,37,29,31,,124,7.8,2012
-1,88,Cowboys,Dez Bryant,24,WR,16,14,0,12,0,0,0,0,0,12,1,0,0,0,0,0,0,,74,4.6,2012
-2,19,Cowboys,Miles Austin,28,WR,16,15,0,6,0,0,0,0,0,6,0,0,0,0,0,0,0,,36,2.3,2012
-3,28,Cowboys,Felix Jones,25,RB,16,7,3,2,0,0,0,0,0,5,0,0,0,0,0,0,0,,30,1.9,2012
-4,29,Cowboys,DeMarco Murray,24,RB,10,10,4,0,0,0,0,0,0,4,0,0,0,0,0,0,0,,24,2.4,2012
-5,85,Cowboys,Kevin Ogletree,25,WR,15,1,0,4,0,0,0,0,0,4,0,0,0,0,0,0,0,,24,1.6,2012
-6,82,Cowboys,Jason Witten,30,TE,16,16,0,3,0,0,0,0,0,3,0,0,0,0,0,0,0,,18,1.1,2012
-7,17,Cowboys,Dwayne Harris,25,WR,16,0,0,1,1,0,0,0,0,2,1,0,0,0,0,0,0,,12,0.8,2012
-8,9,Cowboys,Tony Romo,32,QB,16,16,1,0,0,0,0,0,0,1,1,0,0,0,0,0,0,,8,0.5,2012
-9,39,Cowboys,Brandon Carr,26,LCB,16,16,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,,6,0.4,2012
-10,24,Cowboys,Morris Claiborne,22,RCB,15,15,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,,6,0.4,2012
-11,97,Cowboys,Jason Hatcher,30,RDE,16,16,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,,6,0.4,2012
-12,89,Cowboys,John Phillips,25,TE,16,9,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,,6,0.4,2012
+,No.,Player,Age,Pos,Games Played,Games Started,Rush TD,Reception TD,Punt Return TD,Kick Return TD,Fumble Return TD,Interception TD,Other TD,All Touchdown Scored,2-Point Conversions Made,Two-Point Conversions Attempted,Defensive Two-Point Conversions,Extra Points Made,Extra Points Allowed,Field Goals Made,Field Goals Attempted,Safeties Scored by Player/Team,Total Points Scored by all Means,Poins per Game,Team,Year
+5,5,Dan Bailey,24,K,16,0,0,0,0,0,0,0,0,0,0,0,0,37,37,29,31,0,124,7.8,Cowboys,2012
+88,88,Dez Bryant,24,WR,16,14,0,12,0,0,0,0,0,12,1,0,0,0,0,0,0,0,74,4.6,Cowboys,2012
+19,19,Miles Austin,28,WR,16,15,0,6,0,0,0,0,0,6,0,0,0,0,0,0,0,0,36,2.3,Cowboys,2012
+28,28,Felix Jones,25,RB,16,7,3,2,0,0,0,0,0,5,0,0,0,0,0,0,0,0,30,1.9,Cowboys,2012
+29,29,DeMarco Murray,24,RB,10,10,4,0,0,0,0,0,0,4,0,0,0,0,0,0,0,0,24,2.4,Cowboys,2012
+85,85,Kevin Ogletree,25,WR,15,1,0,4,0,0,0,0,0,4,0,0,0,0,0,0,0,0,24,1.6,Cowboys,2012
+82,82,Jason Witten,30,TE,16,16,0,3,0,0,0,0,0,3,0,0,0,0,0,0,0,0,18,1.1,Cowboys,2012
+17,17,Dwayne Harris,25,WR,16,0,0,1,1,0,0,0,0,2,1,0,0,0,0,0,0,0,12,0.8,Cowboys,2012
+9,9,Tony Romo,32,QB,16,16,1,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,8,0.5,Cowboys,2012
+39,39,Brandon Carr,26,LCB,16,16,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,6,0.4,Cowboys,2012
+24,24,Morris Claiborne,22,RCB,15,15,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,6,0.4,Cowboys,2012
+97,97,Jason Hatcher,30,RDE,16,16,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,6,0.4,Cowboys,2012
+89,89,John Phillips,25,TE,16,9,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,6,0.4,Cowboys,2012

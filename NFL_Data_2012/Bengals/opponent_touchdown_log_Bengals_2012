@@ -1,35 +1,35 @@
-,Rank,Team,Date,Opponent,Win/Loss,Score,Quarter,Distance,Type,Detail,Year
-0,1,Bengals,09/10/2012,BAL,Loss, 13-44,1,7.0,rush,Ray Rice,2012
-1,2,Bengals,09/10/2012,BAL,Loss, 13-44,2,34.0,pass,Anquan Boldin,2012
-2,3,Bengals,09/10/2012,BAL,Loss, 13-44,3,10.0,pass,Dennis Pitta,2012
-3,4,Bengals,09/10/2012,BAL,Loss, 13-44,3,34.0,interception,Ed Reed,2012
-4,5,Bengals,09/10/2012,BAL,Loss, 13-44,4,1.0,rush,Ray Rice,2012
-5,6,Bengals,09/16/2012,CLE,Win, 34-27,2,32.0,rush,Trent Richardson,2012
-6,7,Bengals,09/16/2012,CLE,Win, 34-27,3,23.0,pass,Trent Richardson,2012
-7,8,Bengals,09/16/2012,CLE,Win, 34-27,4,24.0,pass,Greg Little,2012
-8,9,Bengals,09/23/2012,WAS,Win, 38-31,1,,interception,Rob Jackson,2012
-9,10,Bengals,09/23/2012,WAS,Win, 38-31,3,7.0,rush,Alfred Morris,2012
-10,11,Bengals,09/23/2012,WAS,Win, 38-31,3,3.0,pass,Santana Moss,2012
-11,12,Bengals,09/23/2012,WAS,Win, 38-31,4,2.0,rush,Robert Griffin III,2012
-12,13,Bengals,09/30/2012,JAX,Win, 27-10,2,2.0,pass,Marcedes Lewis,2012
-13,14,Bengals,10/07/2012,MIA,Loss, 13-17,2,1.0,rush,Daniel Thomas,2012
-14,15,Bengals,10/07/2012,MIA,Loss, 13-17,3,13.0,rush,Reggie Bush,2012
-15,16,Bengals,10/14/2012,CLE,Loss, 24-34,2,71.0,pass,Josh Gordon,2012
-16,17,Bengals,10/14/2012,CLE,Loss, 24-34,4,1.0,rush,Montario Hardesty,2012
-17,18,Bengals,10/14/2012,CLE,Loss, 24-34,4,3.0,pass,Ben Watson,2012
-18,19,Bengals,10/14/2012,CLE,Loss, 24-34,4,19.0,interception,Sheldon Brown,2012
-19,20,Bengals,10/21/2012,PIT,Loss, 17-24,2,9.0,pass,Heath Miller,2012
-20,21,Bengals,10/21/2012,PIT,Loss, 17-24,4,11.0,rush,Chris Rainey,2012
-21,22,Bengals,11/04/2012,DEN,Loss, 23-31,2,13.0,pass,Eric Decker,2012
-22,23,Bengals,11/04/2012,DEN,Loss, 23-31,3,105.0,kickoff,Trindon Holliday,2012
-23,24,Bengals,11/04/2012,DEN,Loss, 23-31,4,1.0,pass,Joel Dreessen,2012
-24,25,Bengals,11/04/2012,DEN,Loss, 23-31,4,4.0,pass,Eric Decker,2012
-25,26,Bengals,11/11/2012,NYG,Win, 31-13,4,2.0,rush,Andre Brown,2012
-26,27,Bengals,11/25/2012,OAK,Win, 34-10,3,20.0,pass,Denarius Moore,2012
-27,28,Bengals,12/02/2012,SDG,Win, 20-13,2,31.0,interception,Demorrio Williams,2012
-28,29,Bengals,12/09/2012,DAL,Loss, 19-20,2,1.0,rush,DeMarco Murray,2012
-29,30,Bengals,12/09/2012,DAL,Loss, 19-20,4,27.0,pass,Dez Bryant,2012
-30,31,Bengals,12/13/2012,PHI,Win, 34-13,2,11.0,pass,Riley Cooper,2012
-31,32,Bengals,12/23/2012,PIT,Win, 13-10,2,60.0,pass,Antonio Brown,2012
-32,33,Bengals,12/30/2012,BAL,Win, 23-17,1,2.0,rush,Anthony Allen,2012
-33,34,Bengals,12/30/2012,BAL,Win, 23-17,4,1.0,rush,Tyrod Taylor,2012
+,Rank,Team,Date,Opponent,Win/Loss,Home_Score,Opponenet_Score,Quarter,Distance,Type,Detail
+1,1,Bengals,2012-09-10,BAL,Loss,13,44,1,7,rush,Ray Rice
+2,2,Bengals,2012-09-10,BAL,Loss,13,44,2,34,pass,Anquan Boldin
+3,3,Bengals,2012-09-10,BAL,Loss,13,44,3,10,pass,Dennis Pitta
+4,4,Bengals,2012-09-10,BAL,Loss,13,44,3,34,interception,Ed Reed
+5,5,Bengals,2012-09-10,BAL,Loss,13,44,4,1,rush,Ray Rice
+6,6,Bengals,2012-09-16,CLE,Win,34,27,2,32,rush,Trent Richardson
+7,7,Bengals,2012-09-16,CLE,Win,34,27,3,23,pass,Trent Richardson
+8,8,Bengals,2012-09-16,CLE,Win,34,27,4,24,pass,Greg Little
+9,9,Bengals,2012-09-23,WAS,Win,38,31,1,0,interception,Rob Jackson
+10,10,Bengals,2012-09-23,WAS,Win,38,31,3,7,rush,Alfred Morris
+11,11,Bengals,2012-09-23,WAS,Win,38,31,3,3,pass,Santana Moss
+12,12,Bengals,2012-09-23,WAS,Win,38,31,4,2,rush,Robert Griffin III
+13,13,Bengals,2012-09-30,JAX,Win,27,10,2,2,pass,Marcedes Lewis
+14,14,Bengals,2012-10-07,MIA,Loss,13,17,2,1,rush,Daniel Thomas
+15,15,Bengals,2012-10-07,MIA,Loss,13,17,3,13,rush,Reggie Bush
+16,16,Bengals,2012-10-14,CLE,Loss,24,34,2,71,pass,Josh Gordon
+17,17,Bengals,2012-10-14,CLE,Loss,24,34,4,1,rush,Montario Hardesty
+18,18,Bengals,2012-10-14,CLE,Loss,24,34,4,3,pass,Ben Watson
+19,19,Bengals,2012-10-14,CLE,Loss,24,34,4,19,interception,Sheldon Brown
+20,20,Bengals,2012-10-21,PIT,Loss,17,24,2,9,pass,Heath Miller
+21,21,Bengals,2012-10-21,PIT,Loss,17,24,4,11,rush,Chris Rainey
+22,22,Bengals,2012-11-04,DEN,Loss,23,31,2,13,pass,Eric Decker
+23,23,Bengals,2012-11-04,DEN,Loss,23,31,3,105,kickoff,Trindon Holliday
+24,24,Bengals,2012-11-04,DEN,Loss,23,31,4,1,pass,Joel Dreessen
+25,25,Bengals,2012-11-04,DEN,Loss,23,31,4,4,pass,Eric Decker
+26,26,Bengals,2012-11-11,NYG,Win,31,13,4,2,rush,Andre Brown
+27,27,Bengals,2012-11-25,OAK,Win,34,10,3,20,pass,Denarius Moore
+28,28,Bengals,2012-12-02,SDG,Win,20,13,2,31,interception,Demorrio Williams
+29,29,Bengals,2012-12-09,DAL,Loss,19,20,2,1,rush,DeMarco Murray
+30,30,Bengals,2012-12-09,DAL,Loss,19,20,4,27,pass,Dez Bryant
+31,31,Bengals,2012-12-13,PHI,Win,34,13,2,11,pass,Riley Cooper
+32,32,Bengals,2012-12-23,PIT,Win,13,10,2,60,pass,Antonio Brown
+33,33,Bengals,2012-12-30,BAL,Win,23,17,1,2,rush,Anthony Allen
+34,34,Bengals,2012-12-30,BAL,Win,23,17,4,1,rush,Tyrod Taylor

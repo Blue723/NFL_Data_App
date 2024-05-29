@@ -1,18 +1,17 @@
-,Week,Team,Day,Date,Time,Win/Loss,Overtime,Team Record,Home/Away,Opponent,Points Scored,Points Allowed,Offense 1st Down,Total Yards Gained of Offense,Total yards Gained by Passing,Total Yards Gained by Rushing,Offense Turnovers,Defense 1st Down,Total Yards Allowed by Defense,Total Passing Yards Allowed by Defense,Total Rushing Yards Allowed by Defense,Defense Turnovers,Offense,Defense,Sp. Tms,Year
-0,0,Buccaneers,Sun,September 9,,W,0,1-0,home,Carolina Panthers,16,10,18,258,128,130,0,16,301,291,10,2,-1.17,2.75,2.72,2012
-1,1,Buccaneers,Sun,September 16,,L,0,1-1,away,New York Giants,34,41,14,307,228,79,2,31,604,510,94,3,-0.62,-12.03,6.24,2012
-2,2,Buccaneers,Sun,September 23,,L,0,1-2,away,Dallas Cowboys,10,16,12,166,91,75,2,14,297,259,38,3,-11.49,17.66,-10.12,2012
-3,3,Buccaneers,Sun,September 30,,L,0,1-3,home,Washington Redskins,22,24,16,373,293,80,1,27,474,321,153,0,0.91,-18.1,18.98,2012
-4,4,Buccaneers,,,,,0,,home,<strong>Bye Week</strong>,0,0,0,0,0,0,0,0,0,0,0,0,,,,2012
-5,5,Buccaneers,Sun,October 14,,W,0,2-3,home,Kansas City Chiefs,38,10,19,463,318,145,2,15,260,180,80,2,17.89,23.18,-10.62,2012
-6,6,Buccaneers,Sun,October 21,,L,0,2-4,home,New Orleans Saints,28,35,26,513,411,102,0,23,458,377,81,1,23.78,-21.67,-4.36,2012
-7,7,Buccaneers,Thu,October 25,,W,0,3-4,away,Minnesota Vikings,36,17,23,416,257,159,0,16,369,229,140,3,11.12,7.24,-1.42,2012
-8,8,Buccaneers,Sun,November 4,,W,0,4-4,away,Oakland Raiders,42,32,23,515,237,278,1,25,424,402,22,3,20.32,-3.88,-10.56,2012
-9,9,Buccaneers,Sun,November 11,,W,0,5-4,home,San Diego Chargers,34,24,12,279,205,74,0,23,426,323,103,2,9.61,-7.61,6.33,2012
-10,10,1,1,1,1.0,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1.0,1.0,1.0,1
-11,11,Buccaneers,Sun,November 25,,L,0,6-5,home,Atlanta Falcons,23,24,16,326,276,50,0,20,424,345,79,2,9.82,-14.01,4.24,2012
-12,12,Buccaneers,Sun,December 2,,L,0,6-6,away,Denver Broncos,23,31,18,306,235,71,1,25,333,242,91,1,-6.77,-4.94,2.62,2012
-13,13,Buccaneers,Sun,December 9,,L,0,6-7,home,Philadelphia Eagles,21,23,18,314,178,136,0,23,367,338,29,1,-0.51,-7.54,8.11,2012
-14,14,Buccaneers,Sun,December 16,,L,0,6-8,away,New Orleans Saints,0,41,20,386,319,67,5,24,447,298,149,0,-17.29,-21.79,1.51,2012
-15,15,Buccaneers,Sun,December 23,,L,0,6-9,home,St. Louis Rams,13,28,23,429,349,80,5,14,285,196,89,2,-13.77,0.1,-2.8,2012
-16,16,Buccaneers,Sun,December 30,,W,0,7-9,away,Atlanta Falcons,22,17,18,366,222,144,1,15,278,213,65,0,1.95,4.33,4.03,2012
+,Week,Day,Date,Time,Win/Loss,Overtime,Team Record,Home/Away,Opponent,Points Scored,Points Allowed,Offense 1st Down,Total Yards Gained of Offense,Total yards Gained by Passing,Total Yards Gained by Rushing,Offense Turnovers,Defense 1st Down,Total Yards Allowed by Defense,Total Passing Yards Allowed by Defense,Total Rushing Yards Allowed by Defense,Defense Turnovers,Offense,Defense,Sp. Tms,Team,Year
+0,1,Sun,2012-09-09,nan,Win,0,1-0,home,Carolina Panthers,16,10,18,258,128,130,0,16,301,291,10,2,-1.17,2.75,2.72,Buccaneers,2012
+1,2,Sun,2012-09-16,nan,Loss,0,1-1,away,New York Giants,34,41,14,307,228,79,2,31,604,510,94,3,-0.62,-12.03,6.24,Buccaneers,2012
+2,3,Sun,2012-09-23,nan,Loss,0,1-2,away,Dallas Cowboys,10,16,12,166,91,75,2,14,297,259,38,3,-11.49,17.66,-10.12,Buccaneers,2012
+3,4,Sun,2012-09-30,nan,Loss,0,1-3,home,Washington Redskins,22,24,16,373,293,80,1,27,474,321,153,0,0.91,-18.1,18.98,Buccaneers,2012
+4,6,Sun,2012-10-14,nan,Win,0,2-3,home,Kansas City Chiefs,38,10,19,463,318,145,2,15,260,180,80,2,17.89,23.18,-10.62,Buccaneers,2012
+5,7,Sun,2012-10-21,nan,Loss,0,2-4,home,New Orleans Saints,28,35,26,513,411,102,0,23,458,377,81,1,23.78,-21.67,-4.36,Buccaneers,2012
+6,8,Thu,2012-10-25,nan,Win,0,3-4,away,Minnesota Vikings,36,17,23,416,257,159,0,16,369,229,140,3,11.12,7.24,-1.42,Buccaneers,2012
+7,9,Sun,2012-11-04,nan,Win,0,4-4,away,Oakland Raiders,42,32,23,515,237,278,1,25,424,402,22,3,20.32,-3.88,-10.56,Buccaneers,2012
+8,10,Sun,2012-11-11,nan,Win,0,5-4,home,San Diego Chargers,34,24,12,279,205,74,0,23,426,323,103,2,9.61,-7.61,6.33,Buccaneers,2012
+9,11,Sun,2012-11-18,nan,Win,1,6-4,away,Carolina Panthers,27,21,25,403,236,167,3,18,331,234,97,1,-6.0,-2.65,11.7,Buccaneers,2012
+10,12,Sun,2012-11-25,nan,Loss,0,6-5,home,Atlanta Falcons,23,24,16,326,276,50,0,20,424,345,79,2,9.82,-14.01,4.24,Buccaneers,2012
+11,13,Sun,2012-12-02,nan,Loss,0,6-6,away,Denver Broncos,23,31,18,306,235,71,1,25,333,242,91,1,-6.77,-4.94,2.62,Buccaneers,2012
+12,14,Sun,2012-12-09,nan,Loss,0,6-7,home,Philadelphia Eagles,21,23,18,314,178,136,0,23,367,338,29,1,-0.51,-7.54,8.11,Buccaneers,2012
+13,15,Sun,2012-12-16,nan,Loss,0,6-8,away,New Orleans Saints,0,41,20,386,319,67,5,24,447,298,149,0,-17.29,-21.79,1.51,Buccaneers,2012
+14,16,Sun,2012-12-23,nan,Loss,0,6-9,home,St. Louis Rams,13,28,23,429,349,80,5,14,285,196,89,2,-13.77,0.1,-2.8,Buccaneers,2012
+15,17,Sun,2012-12-30,nan,Win,0,7-9,away,Atlanta Falcons,22,17,18,366,222,144,1,15,278,213,65,0,1.95,4.33,4.03,Buccaneers,2012

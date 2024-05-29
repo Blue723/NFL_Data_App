@@ -1,15 +1,15 @@
-,No.,Team,Player,Age,Pos,Games Played,Games Started,Rush TD,Reception TD,Punt Return TD,Kick Return TD,Fumble Return TD,Interception TD,Other TD,All Touchdown Scored,2-Point Conversions Made,Two-Point Conversions Attempted,Defensive Two-Point Conversions,Extra Points Made,Extra Points Allowed,Field Goals Made,Field Goals Attempted,Safeties Scored by Player/Team,Total Points Scored by all Means,Poins per Game,Year
-0,2,Jets,Nick Folk,28,K,16,0,0,0,0,0,0,0,0,0,0,0,0,30,30,21,27,,93,5.8,2012
-1,23,Jets,Shonn Greene,27,RB,16,14,8,0,0,0,0,0,0,8,0,0,0,0,0,0,0,,48,3.0,2012
-2,29,Jets,Bilal Powell,24,RB,14,2,4,0,0,0,0,0,0,4,0,0,0,0,0,0,0,,24,1.7,2012
-3,86,Jets,Jeff Cumberland,25,TE,15,12,0,3,0,0,0,0,0,3,0,0,0,0,0,0,0,,18,1.2,2012
-4,84,Jets,Stephen Hill,21,WR,11,8,0,3,0,0,0,0,0,3,0,0,0,0,0,0,0,,18,1.6,2012
-5,11,Jets,Jeremy Kerley,24,WR,16,7,0,2,1,0,0,0,0,3,0,0,0,0,0,0,0,,18,1.1,2012
-6,81,Jets,Dustin Keller,28,TE,8,5,0,2,0,0,0,0,0,2,0,0,0,0,0,0,0,,12,1.5,2012
-7,85,Jets,Chaz Schilens,27,WR,15,6,0,2,0,0,0,0,0,2,0,0,0,0,0,0,0,,12,0.8,2012
-8,31,Jets,Antonio Cromartie,28,RCB,16,16,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,,6,0.4,2012
-9,89,Jets,Jason Hill,27,WR,4,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,,6,1.5,2012
-10,10,Jets,Santonio Holmes,28,WR,4,4,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,,6,1.5,2012
-11,30,Jets,LaRon Landry,28,SS,16,15,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,,6,0.4,2012
-12,25,Jets,Joe McKnight,24,RB,15,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,,6,0.4,2012
-13,96,Jets,Muhammad Wilkerson,23,LDE,16,15,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,,6,0.4,2012
+,No.,Player,Age,Pos,Games Played,Games Started,Rush TD,Reception TD,Punt Return TD,Kick Return TD,Fumble Return TD,Interception TD,Other TD,All Touchdown Scored,2-Point Conversions Made,Two-Point Conversions Attempted,Defensive Two-Point Conversions,Extra Points Made,Extra Points Allowed,Field Goals Made,Field Goals Attempted,Safeties Scored by Player/Team,Total Points Scored by all Means,Poins per Game,Team,Year
+2,2,Nick Folk,28,K,16,0,0,0,0,0,0,0,0,0,0,0,0,30,30,21,27,0,93,5.8,Jets,2012
+23,23,Shonn Greene,27,RB,16,14,8,0,0,0,0,0,0,8,0,0,0,0,0,0,0,0,48,3.0,Jets,2012
+29,29,Bilal Powell,24,RB,14,2,4,0,0,0,0,0,0,4,0,0,0,0,0,0,0,0,24,1.7,Jets,2012
+86,86,Jeff Cumberland,25,TE,15,12,0,3,0,0,0,0,0,3,0,0,0,0,0,0,0,0,18,1.2,Jets,2012
+84,84,Stephen Hill,21,WR,11,8,0,3,0,0,0,0,0,3,0,0,0,0,0,0,0,0,18,1.6,Jets,2012
+11,11,Jeremy Kerley,24,WR,16,7,0,2,1,0,0,0,0,3,0,0,0,0,0,0,0,0,18,1.1,Jets,2012
+81,81,Dustin Keller,28,TE,8,5,0,2,0,0,0,0,0,2,0,0,0,0,0,0,0,0,12,1.5,Jets,2012
+85,85,Chaz Schilens,27,WR,15,6,0,2,0,0,0,0,0,2,0,0,0,0,0,0,0,0,12,0.8,Jets,2012
+31,31,Antonio Cromartie,28,RCB,16,16,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,6,0.4,Jets,2012
+89,89,Jason Hill,27,WR,4,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,6,1.5,Jets,2012
+10,10,Santonio Holmes,28,WR,4,4,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,6,1.5,Jets,2012
+30,30,LaRon Landry,28,SS,16,15,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,6,0.4,Jets,2012
+25,25,Joe McKnight,24,RB,15,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,6,0.4,Jets,2012
+96,96,Muhammad Wilkerson,23,LDE,16,15,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,6,0.4,Jets,2012

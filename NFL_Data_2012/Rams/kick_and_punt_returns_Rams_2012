@@ -1,8 +1,8 @@
-,No.,Team,Player,Age,Position,Games Played,Games Started,Punts Returned,Punts Return Yardage,Punts Returned for Touchdown,Longest Punt Return,Yards per Punt Return,Kickoff Returns,Yardage for Kickoffs Returned,Kickoffs Returned for a Touchdown,Longest Kickoff Return,Yards per Kickoff Return,All-purpose Yards,Year
-0,13,Rams,Chris Givens,23,WR,15,12,0,0,0,0,,23,539,0,48,23.4,1249,2012
-1,16,Rams,Danny Amendola,27,WR,11,8,17,122,0,22,7.2,2,16,0,12,8.0,812,2012
-2,18,Rams,Austin Pettis,24,WR,14,2,11,77,0,23,7.0,1,13,0,13,13.0,351,2012
-3,24,Rams,Isaiah Pead,23,RB,15,1,0,0,0,0,,10,212,0,32,21.2,282,2012
-4,21,Rams,Jackrabbit Jenkins,24,RCB,15,14,9,46,0,14,5.1,0,0,0,0,,198,2012
-5,43,Rams,Craig Dahl,27,FS/SS,16,16,0,0,0,0,,1,6,0,6,6.0,44,2012
-6,49,Rams,Brit Miller,26,LB,9,1,0,0,0,0,,1,13,0,13,13.0,13,2012
+,No.,Player,Age,Position,Games Played,Games Started,Punts Returned,Punts Return Yardage,Punts Returned for Touchdown,Longest Punt Return,Yards per Punt Return,Kickoff Returns,Yardage for Kickoffs Returned,Kickoffs Returned for a Touchdown,Longest Kickoff Return,Yards per Kickoff Return,All-purpose Yards,Team,Year
+13,13,Chris Givens,23,WR,15,12,0,0,0,0,0.0,23,539,0,48,23.4,1249,Rams,2012
+16,16,Danny Amendola,27,WR,11,8,17,122,0,22,7.2,2,16,0,12,8.0,812,Rams,2012
+18,18,Austin Pettis,24,WR,14,2,11,77,0,23,7.0,1,13,0,13,13.0,351,Rams,2012
+24,24,Isaiah Pead,23,RB,15,1,0,0,0,0,0.0,10,212,0,32,21.2,282,Rams,2012
+21,21,Jackrabbit Jenkins,24,RCB,15,14,9,46,0,14,5.1,0,0,0,0,0.0,198,Rams,2012
+43,43,Craig Dahl,27,FS/SS,16,16,0,0,0,0,0.0,1,6,0,6,6.0,44,Rams,2012
+49,49,Brit Miller,26,LB,9,1,0,0,0,0,0.0,1,13,0,13,13.0,13,Rams,2012
