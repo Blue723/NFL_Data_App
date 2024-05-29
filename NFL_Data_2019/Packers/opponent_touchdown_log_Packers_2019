@@ -1,35 +1,35 @@
-,Rank,Team,Date,Opponent,Win/Loss,Score,Quarter,Distance,Type,Detail,Year
-0,1,Packers,09/15/2019,MIN,Win, 21-16,2,75,rush,Dalvin Cook,2019
-1,2,Packers,09/15/2019,MIN,Win, 21-16,3,45,pass,Stefon Diggs,2019
-2,3,Packers,09/22/2019,DEN,Win, 27-16,2,1,rush,Phillip Lindsay,2019
-3,4,Packers,09/22/2019,DEN,Win, 27-16,3,1,rush,Phillip Lindsay,2019
-4,5,Packers,09/26/2019,PHI,Loss, 27-34,2,6,pass,Alshon Jeffery,2019
-5,6,Packers,09/26/2019,PHI,Loss, 27-34,2,3,pass,Dallas Goedert,2019
-6,7,Packers,09/26/2019,PHI,Loss, 27-34,2,1,rush,Jordan Howard,2019
-7,8,Packers,09/26/2019,PHI,Loss, 27-34,3,20,pass,Jordan Howard,2019
-8,9,Packers,09/26/2019,PHI,Loss, 27-34,4,2,rush,Jordan Howard,2019
-9,10,Packers,10/06/2019,DAL,Win, 34-24,3,40,pass,Michael Gallup,2019
-10,11,Packers,10/06/2019,DAL,Win, 34-24,4,2,rush,Ezekiel Elliott,2019
-11,12,Packers,10/06/2019,DAL,Win, 34-24,4,53,pass,Amari Cooper,2019
-12,13,Packers,10/14/2019,DET,Win, 23-22,1,1,rush,Kerryon Johnson,2019
-13,14,Packers,10/20/2019,OAK,Win, 42-24,2,10,pass,Foster Moreau,2019
-14,15,Packers,10/20/2019,OAK,Win, 42-24,3,7,pass,Darren Waller,2019
-15,16,Packers,10/20/2019,OAK,Win, 42-24,4,17,pass,Darren Waller,2019
-16,17,Packers,10/27/2019,KAN,Win, 31-24,2,29,pass,Travis Kelce,2019
-17,18,Packers,10/27/2019,KAN,Win, 31-24,2,30,pass,Mecole Hardman,2019
-18,19,Packers,10/27/2019,KAN,Win, 31-24,4,3,rush,Damien Williams,2019
-19,20,Packers,11/03/2019,LAC,Loss, 11-26,3,1,rush,Melvin Gordon,2019
-20,21,Packers,11/03/2019,LAC,Loss, 11-26,4,1,rush,Melvin Gordon,2019
-21,22,Packers,11/10/2019,CAR,Win, 24-16,1,2,pass,Curtis Samuel,2019
-22,23,Packers,11/10/2019,CAR,Win, 24-16,4,3,rush,Christian McCaffrey,2019
-23,24,Packers,11/24/2019,SFO,Loss, 8-37,1,2,rush,Tevin Coleman,2019
-24,25,Packers,11/24/2019,SFO,Loss, 8-37,2,42,pass,Deebo Samuel,2019
-25,26,Packers,11/24/2019,SFO,Loss, 8-37,3,61,pass,George Kittle,2019
-26,27,Packers,11/24/2019,SFO,Loss, 8-37,4,15,rush,Raheem Mostert,2019
-27,28,Packers,12/01/2019,NYG,Win, 31-13,1,18,pass,Sterling Shepard,2019
-28,29,Packers,12/08/2019,WAS,Win, 20-15,2,2,rush,Adrian Peterson,2019
-29,30,Packers,12/08/2019,WAS,Win, 20-15,4,13,pass,Terry McLaurin,2019
-30,31,Packers,12/15/2019,CHI,Win, 21-13,4,2,pass,Anthony Miller,2019
-31,32,Packers,12/23/2019,MIN,Win, 23-10,2,21,pass,Stefon Diggs,2019
-32,33,Packers,12/29/2019,DET,Win, 23-20,1,19,pass,David Blough,2019
-33,34,Packers,12/29/2019,DET,Win, 23-20,2,1,rush,Kerryon Johnson,2019
+,Rank,Team,Date,Opponent,Win/Loss,Home_Score,Opponenet_Score,Quarter,Distance,Type,Detail
+1,1,Packers,2019-09-15,MIN,Win,21,16,2,75,rush,Dalvin Cook
+2,2,Packers,2019-09-15,MIN,Win,21,16,3,45,pass,Stefon Diggs
+3,3,Packers,2019-09-22,DEN,Win,27,16,2,1,rush,Phillip Lindsay
+4,4,Packers,2019-09-22,DEN,Win,27,16,3,1,rush,Phillip Lindsay
+5,5,Packers,2019-09-26,PHI,Loss,27,34,2,6,pass,Alshon Jeffery
+6,6,Packers,2019-09-26,PHI,Loss,27,34,2,3,pass,Dallas Goedert
+7,7,Packers,2019-09-26,PHI,Loss,27,34,2,1,rush,Jordan Howard
+8,8,Packers,2019-09-26,PHI,Loss,27,34,3,20,pass,Jordan Howard
+9,9,Packers,2019-09-26,PHI,Loss,27,34,4,2,rush,Jordan Howard
+10,10,Packers,2019-10-06,DAL,Win,34,24,3,40,pass,Michael Gallup
+11,11,Packers,2019-10-06,DAL,Win,34,24,4,2,rush,Ezekiel Elliott
+12,12,Packers,2019-10-06,DAL,Win,34,24,4,53,pass,Amari Cooper
+13,13,Packers,2019-10-14,DET,Win,23,22,1,1,rush,Kerryon Johnson
+14,14,Packers,2019-10-20,OAK,Win,42,24,2,10,pass,Foster Moreau
+15,15,Packers,2019-10-20,OAK,Win,42,24,3,7,pass,Darren Waller
+16,16,Packers,2019-10-20,OAK,Win,42,24,4,17,pass,Darren Waller
+17,17,Packers,2019-10-27,KAN,Win,31,24,2,29,pass,Travis Kelce
+18,18,Packers,2019-10-27,KAN,Win,31,24,2,30,pass,Mecole Hardman
+19,19,Packers,2019-10-27,KAN,Win,31,24,4,3,rush,Damien Williams
+20,20,Packers,2019-11-03,LAC,Loss,11,26,3,1,rush,Melvin Gordon
+21,21,Packers,2019-11-03,LAC,Loss,11,26,4,1,rush,Melvin Gordon
+22,22,Packers,2019-11-10,CAR,Win,24,16,1,2,pass,Curtis Samuel
+23,23,Packers,2019-11-10,CAR,Win,24,16,4,3,rush,Christian McCaffrey
+24,24,Packers,2019-11-24,SFO,Loss,8,37,1,2,rush,Tevin Coleman
+25,25,Packers,2019-11-24,SFO,Loss,8,37,2,42,pass,Deebo Samuel
+26,26,Packers,2019-11-24,SFO,Loss,8,37,3,61,pass,George Kittle
+27,27,Packers,2019-11-24,SFO,Loss,8,37,4,15,rush,Raheem Mostert
+28,28,Packers,2019-12-01,NYG,Win,31,13,1,18,pass,Sterling Shepard
+29,29,Packers,2019-12-08,WAS,Win,20,15,2,2,rush,Adrian Peterson
+30,30,Packers,2019-12-08,WAS,Win,20,15,4,13,pass,Terry McLaurin
+31,31,Packers,2019-12-15,CHI,Win,21,13,4,2,pass,Anthony Miller
+32,32,Packers,2019-12-23,MIN,Win,23,10,2,21,pass,Stefon Diggs
+33,33,Packers,2019-12-29,DET,Win,23,20,1,19,pass,David Blough
+34,34,Packers,2019-12-29,DET,Win,23,20,2,1,rush,Kerryon Johnson

@@ -1,18 +1,17 @@
-,Week,Team,Day,Date,Time,Win/Loss,Overtime,Team Record,Home/Away,Opponent,Points Scored,Points Allowed,Offense 1st Down,Total Yards Gained of Offense,Total yards Gained by Passing,Total Yards Gained by Rushing,Offense Turnovers,Defense 1st Down,Total Yards Allowed by Defense,Total Passing Yards Allowed by Defense,Total Rushing Yards Allowed by Defense,Defense Turnovers,Offense,Defense,Sp. Tms,Year
-0,0,1,1,1,1.0,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1.0,1.0,1.0,1
-1,1,Lions,Sun,September 15,,W,0,1-0-1,home,Los Angeles Chargers,13,10,19,339,245,94,2,21,424,287,137,2,8.62,-5.86,0.56,2019
-2,2,Lions,Sun,September 22,,W,0,2-0-1,away,Philadelphia Eagles,27,24,16,287,201,86,0,22,373,246,127,2,1.07,0.31,3.8,2019
-3,3,Lions,Sun,September 29,,L,0,2-1-1,home,Kansas City Chiefs,30,34,29,447,261,186,2,29,438,315,123,3,1.27,-17.08,13.41,2019
-4,4,Lions,,,,,0,,home,<strong>Bye Week</strong>,0,0,0,0,0,0,0,0,0,0,0,0,,,,2019
-5,5,Lions,Mon,October 14,,L,0,2-2-1,away,Green Bay Packers,22,23,13,299,243,56,0,22,447,277,170,3,-0.7,-4.03,4.66,2019
-6,6,Lions,Sun,October 20,,L,0,2-3-1,home,Minnesota Vikings,30,42,26,433,352,81,1,32,504,338,166,0,18.28,-35.6,2.59,2019
-7,7,Lions,Sun,October 27,,W,0,3-3-1,home,New York Giants,31,26,17,375,316,59,2,24,370,290,80,1,7.67,-6.34,5.39,2019
-8,8,Lions,Sun,November 3,,L,0,3-4-1,away,Oakland Raiders,24,31,26,473,383,90,2,25,450,279,171,0,13.92,-16.79,-4.07,2019
-9,9,Lions,Sun,November 10,,L,0,3-5-1,away,Chicago Bears,13,20,21,357,259,98,1,13,226,145,81,0,-6.77,0.41,2.1,2019
-10,10,Lions,Sun,November 17,,L,0,3-6-1,home,Dallas Cowboys,27,35,19,312,191,121,0,26,509,434,75,1,7.7,-22.23,6.35,2019
-11,11,Lions,Sun,November 24,,L,0,3-7-1,away,Washington Redskins,16,19,21,364,189,175,4,13,230,144,86,2,-8.85,13.57,-10.88,2019
-12,12,Lions,Thu,November 28,,L,0,3-8-1,home,Chicago Bears,20,24,19,364,259,105,1,22,419,331,88,1,6.28,-8.33,-0.13,2019
-13,13,Lions,Sun,December 8,,L,0,3-9-1,away,Minnesota Vikings,7,20,18,231,161,70,2,22,354,234,120,0,-7.27,-3.77,0.3,2019
-14,14,Lions,Sun,December 15,,L,0,3-10-1,home,Tampa Bay Buccaneers,17,38,16,295,250,45,3,23,495,446,49,1,-14.38,-13.82,7.29,2019
-15,15,Lions,Sun,December 22,,L,0,3-11-1,away,Denver Broncos,17,27,13,191,95,96,0,25,348,198,150,0,-4.32,-12.95,4.08,2019
-16,16,Lions,Sun,December 29,,L,0,3-12-1,home,Green Bay Packers,20,23,17,305,134,171,1,25,432,312,120,1,1.53,-8.54,4.01,2019
+,Week,Day,Date,Time,Win/Loss,Overtime,Team Record,Home/Away,Opponent,Points Scored,Points Allowed,Offense 1st Down,Total Yards Gained of Offense,Total yards Gained by Passing,Total Yards Gained by Rushing,Offense Turnovers,Defense 1st Down,Total Yards Allowed by Defense,Total Passing Yards Allowed by Defense,Total Rushing Yards Allowed by Defense,Defense Turnovers,Offense,Defense,Sp. Tms,Team,Year
+0,1,Sun,2019-09-08,nan,T,1,0-0-1,away,Arizona Cardinals,27,27,23,477,361,116,2,21,387,275,112,1,7.02,3.5,-9.8,Lions,2019
+1,2,Sun,2019-09-15,nan,Win,0,1-0-1,home,Los Angeles Chargers,13,10,19,339,245,94,2,21,424,287,137,2,8.62,-5.86,0.56,Lions,2019
+2,3,Sun,2019-09-22,nan,Win,0,2-0-1,away,Philadelphia Eagles,27,24,16,287,201,86,0,22,373,246,127,2,1.07,0.31,3.8,Lions,2019
+3,4,Sun,2019-09-29,nan,Loss,0,2-1-1,home,Kansas City Chiefs,30,34,29,447,261,186,2,29,438,315,123,3,1.27,-17.08,13.41,Lions,2019
+4,6,Mon,2019-10-14,nan,Loss,0,2-2-1,away,Green Bay Packers,22,23,13,299,243,56,0,22,447,277,170,3,-0.7,-4.03,4.66,Lions,2019
+5,7,Sun,2019-10-20,nan,Loss,0,2-3-1,home,Minnesota Vikings,30,42,26,433,352,81,1,32,504,338,166,0,18.28,-35.6,2.59,Lions,2019
+6,8,Sun,2019-10-27,nan,Win,0,3-3-1,home,New York Giants,31,26,17,375,316,59,2,24,370,290,80,1,7.67,-6.34,5.39,Lions,2019
+7,9,Sun,2019-11-03,nan,Loss,0,3-4-1,away,Oakland Raiders,24,31,26,473,383,90,2,25,450,279,171,0,13.92,-16.79,-4.07,Lions,2019
+8,10,Sun,2019-11-10,nan,Loss,0,3-5-1,away,Chicago Bears,13,20,21,357,259,98,1,13,226,145,81,0,-6.77,0.41,2.1,Lions,2019
+9,11,Sun,2019-11-17,nan,Loss,0,3-6-1,home,Dallas Cowboys,27,35,19,312,191,121,0,26,509,434,75,1,7.7,-22.23,6.35,Lions,2019
+10,12,Sun,2019-11-24,nan,Loss,0,3-7-1,away,Washington Redskins,16,19,21,364,189,175,4,13,230,144,86,2,-8.85,13.57,-10.88,Lions,2019
+11,13,Thu,2019-11-28,nan,Loss,0,3-8-1,home,Chicago Bears,20,24,19,364,259,105,1,22,419,331,88,1,6.28,-8.33,-0.13,Lions,2019
+12,14,Sun,2019-12-08,nan,Loss,0,3-9-1,away,Minnesota Vikings,7,20,18,231,161,70,2,22,354,234,120,0,-7.27,-3.77,0.3,Lions,2019
+13,15,Sun,2019-12-15,nan,Loss,0,3-10-1,home,Tampa Bay Buccaneers,17,38,16,295,250,45,3,23,495,446,49,1,-14.38,-13.82,7.29,Lions,2019
+14,16,Sun,2019-12-22,nan,Loss,0,3-11-1,away,Denver Broncos,17,27,13,191,95,96,0,25,348,198,150,0,-4.32,-12.95,4.08,Lions,2019
+15,17,Sun,2019-12-29,nan,Loss,0,3-12-1,home,Green Bay Packers,20,23,17,305,134,171,1,25,432,312,120,1,1.53,-8.54,4.01,Lions,2019

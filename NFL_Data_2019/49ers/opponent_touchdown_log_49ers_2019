@@ -1,38 +1,38 @@
-,Rank,Team,Date,Opponent,Win/Loss,Score,Quarter,Distance,Type,Detail,Year
-0,1,49ers,09/08/2019,TAM,Win, 31-17,2,15.0,interception,Vernon Hargreaves III,2019
-1,2,49ers,09/08/2019,TAM,Win, 31-17,3,10.0,pass,Chris Godwin,2019
-2,3,49ers,09/15/2019,CIN,Win, 41-17,1,1.0,pass,Tyler Eifert,2019
-3,4,49ers,09/15/2019,CIN,Win, 41-17,4,66.0,pass,John Ross,2019
-4,5,49ers,09/22/2019,PIT,Win, 24-20,3,76.0,pass,JuJu Smith-Schuster,2019
-5,6,49ers,09/22/2019,PIT,Win, 24-20,4,39.0,pass,Diontae Johnson,2019
-6,7,49ers,10/13/2019,LAR,Win, 20-7,1,8.0,rush,Robert Woods,2019
-7,8,49ers,10/27/2019,CAR,Win, 51-13,3,40.0,rush,Christian McCaffrey,2019
-8,9,49ers,10/31/2019,ARI,Win, 28-25,1,4.0,rush,Kenyan Drake,2019
-9,10,49ers,10/31/2019,ARI,Win, 28-25,3,9.0,pass,KeeSean Johnson,2019
-10,11,49ers,10/31/2019,ARI,Win, 28-25,4,88.0,pass,Andy Isabella,2019
-11,12,49ers,11/11/2019,SEA,Loss, 24-27,2,10.0,fumble,Jadeveon Clowney,2019
-12,13,49ers,11/11/2019,SEA,Loss, 24-27,3,3.0,pass,Jacob Hollister,2019
-13,14,49ers,11/11/2019,SEA,Loss, 24-27,3,1.0,rush,Chris Carson,2019
-14,15,49ers,11/17/2019,ARI,Win, 36-26,1,5.0,pass,Larry Fitzgerald,2019
-15,16,49ers,11/17/2019,ARI,Win, 36-26,2,5.0,pass,Pharoh Cooper,2019
-16,17,49ers,11/17/2019,ARI,Win, 36-26,4,22.0,rush,Kyler Murray,2019
-17,18,49ers,11/24/2019,GNB,Win, 37-8,3,2.0,pass,Davante Adams,2019
-18,19,49ers,12/01/2019,BAL,Loss, 17-20,1,20.0,pass,Mark Andrews,2019
-19,20,49ers,12/01/2019,BAL,Loss, 17-20,2,1.0,rush,Lamar Jackson,2019
-20,21,49ers,12/08/2019,NOR,Win, 48-46,1,38.0,pass,Jared Cook,2019
-21,22,49ers,12/08/2019,NOR,Win, 48-46,1,26.0,pass,Jared Cook,2019
-22,23,49ers,12/08/2019,NOR,Win, 48-46,2,3.0,pass,Josh Hill,2019
-23,24,49ers,12/08/2019,NOR,Win, 48-46,2,1.0,rush,Drew Brees,2019
-24,25,49ers,12/08/2019,NOR,Win, 48-46,4,21.0,pass,Michael Thomas,2019
-25,26,49ers,12/08/2019,NOR,Win, 48-46,4,18.0,pass,Tre'Quan Smith,2019
-26,27,49ers,12/15/2019,ATL,Loss, 22-29,2,5.0,pass,Julio Jones,2019
-27,28,49ers,12/15/2019,ATL,Loss, 22-29,4,1.0,rush,Qadree Ollison,2019
-28,29,49ers,12/15/2019,ATL,Loss, 22-29,4,5.0,pass,Julio Jones,2019
-29,30,49ers,12/15/2019,ATL,Loss, 22-29,4,,fumble,Olamide Zaccheaus,2019
-30,31,49ers,12/21/2019,LAR,Win, 34-31,1,10.0,pass,Brandin Cooks,2019
-31,32,49ers,12/21/2019,LAR,Win, 34-31,2,5.0,rush,Todd Gurley,2019
-32,33,49ers,12/21/2019,LAR,Win, 34-31,2,1.0,rush,Todd Gurley,2019
-33,34,49ers,12/21/2019,LAR,Win, 34-31,3,22.0,pass,Cooper Kupp,2019
-34,35,49ers,12/29/2019,SEA,Win, 26-21,3,14.0,pass,Tyler Lockett,2019
-35,36,49ers,12/29/2019,SEA,Win, 26-21,4,1.0,rush,Marshawn Lynch,2019
-36,37,49ers,12/29/2019,SEA,Win, 26-21,4,14.0,pass,D.K. Metcalf,2019
+,Rank,Team,Date,Opponent,Win/Loss,Home_Score,Opponenet_Score,Quarter,Distance,Type,Detail
+1,1,49ers,2019-09-08,TAM,Win,31,17,2,15,interception,Vernon Hargreaves III
+2,2,49ers,2019-09-08,TAM,Win,31,17,3,10,pass,Chris Godwin
+3,3,49ers,2019-09-15,CIN,Win,41,17,1,1,pass,Tyler Eifert
+4,4,49ers,2019-09-15,CIN,Win,41,17,4,66,pass,John Ross
+5,5,49ers,2019-09-22,PIT,Win,24,20,3,76,pass,JuJu Smith-Schuster
+6,6,49ers,2019-09-22,PIT,Win,24,20,4,39,pass,Diontae Johnson
+7,7,49ers,2019-10-13,LAR,Win,20,7,1,8,rush,Robert Woods
+8,8,49ers,2019-10-27,CAR,Win,51,13,3,40,rush,Christian McCaffrey
+9,9,49ers,2019-10-31,ARI,Win,28,25,1,4,rush,Kenyan Drake
+10,10,49ers,2019-10-31,ARI,Win,28,25,3,9,pass,KeeSean Johnson
+11,11,49ers,2019-10-31,ARI,Win,28,25,4,88,pass,Andy Isabella
+12,12,49ers,2019-11-11,SEA,Loss,24,27,2,10,fumble,Jadeveon Clowney
+13,13,49ers,2019-11-11,SEA,Loss,24,27,3,3,pass,Jacob Hollister
+14,14,49ers,2019-11-11,SEA,Loss,24,27,3,1,rush,Chris Carson
+15,15,49ers,2019-11-17,ARI,Win,36,26,1,5,pass,Larry Fitzgerald
+16,16,49ers,2019-11-17,ARI,Win,36,26,2,5,pass,Pharoh Cooper
+17,17,49ers,2019-11-17,ARI,Win,36,26,4,22,rush,Kyler Murray
+18,18,49ers,2019-11-24,GNB,Win,37,8,3,2,pass,Davante Adams
+19,19,49ers,2019-12-01,BAL,Loss,17,20,1,20,pass,Mark Andrews
+20,20,49ers,2019-12-01,BAL,Loss,17,20,2,1,rush,Lamar Jackson
+21,21,49ers,2019-12-08,NOR,Win,48,46,1,38,pass,Jared Cook
+22,22,49ers,2019-12-08,NOR,Win,48,46,1,26,pass,Jared Cook
+23,23,49ers,2019-12-08,NOR,Win,48,46,2,3,pass,Josh Hill
+24,24,49ers,2019-12-08,NOR,Win,48,46,2,1,rush,Drew Brees
+25,25,49ers,2019-12-08,NOR,Win,48,46,4,21,pass,Michael Thomas
+26,26,49ers,2019-12-08,NOR,Win,48,46,4,18,pass,Tre'Quan Smith
+27,27,49ers,2019-12-15,ATL,Loss,22,29,2,5,pass,Julio Jones
+28,28,49ers,2019-12-15,ATL,Loss,22,29,4,1,rush,Qadree Ollison
+29,29,49ers,2019-12-15,ATL,Loss,22,29,4,5,pass,Julio Jones
+30,30,49ers,2019-12-15,ATL,Loss,22,29,4,0,fumble,Olamide Zaccheaus
+31,31,49ers,2019-12-21,LAR,Win,34,31,1,10,pass,Brandin Cooks
+32,32,49ers,2019-12-21,LAR,Win,34,31,2,5,rush,Todd Gurley
+33,33,49ers,2019-12-21,LAR,Win,34,31,2,1,rush,Todd Gurley
+34,34,49ers,2019-12-21,LAR,Win,34,31,3,22,pass,Cooper Kupp
+35,35,49ers,2019-12-29,SEA,Win,26,21,3,14,pass,Tyler Lockett
+36,36,49ers,2019-12-29,SEA,Win,26,21,4,1,rush,Marshawn Lynch
+37,37,49ers,2019-12-29,SEA,Win,26,21,4,14,pass,D.K. Metcalf

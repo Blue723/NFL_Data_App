@@ -1,18 +1,17 @@
-,Week,Team,Day,Date,Time,Win/Loss,Overtime,Team Record,Home/Away,Opponent,Points Scored,Points Allowed,Offense 1st Down,Total Yards Gained of Offense,Total yards Gained by Passing,Total Yards Gained by Rushing,Offense Turnovers,Defense 1st Down,Total Yards Allowed by Defense,Total Passing Yards Allowed by Defense,Total Rushing Yards Allowed by Defense,Defense Turnovers,Offense,Defense,Sp. Tms,Year
-0,0,Jaguars,Sun,September 8,,L,0,0-1,home,Kansas City Chiefs,26,40,18,428,347,81,2,24,491,378,113,0,8.7,-26.49,-1.47,2019
-1,1,Jaguars,Sun,September 15,,L,0,0-2,away,Houston Texans,12,13,16,281,178,103,1,17,263,137,126,0,-7.19,2.3,1.18,2019
-2,2,Jaguars,Thu,September 19,,W,0,1-2,home,Tennessee Titans,20,7,12,292,204,88,0,21,340,249,91,1,-1.2,6.44,5.28,2019
-3,3,Jaguars,Sun,September 29,,W,0,2-2,away,Denver Broncos,26,24,25,455,186,269,0,19,371,303,68,1,7.97,-6.62,0.72,2019
-4,4,Jaguars,Sun,October 6,,L,0,2-3,away,Carolina Panthers,27,34,28,507,358,149,3,22,445,160,285,0,5.62,-16.1,6.41,2019
-5,5,Jaguars,Sun,October 13,,L,0,2-4,home,New Orleans Saints,6,13,11,226,151,75,1,18,326,222,104,0,-11.07,-1.88,0.56,2019
-6,6,Jaguars,Sun,October 20,,W,0,3-4,away,Cincinnati Bengals,27,17,22,460,244,216,0,21,291,258,33,4,2.45,14.01,-7.13,2019
-7,7,Jaguars,Sun,October 27,,W,0,4-4,home,New York Jets,29,15,21,389,278,111,1,15,213,167,46,3,4.35,12.91,-3.33,2019
-8,8,Jaguars,Sun,November 3,,L,0,4-5,home,Houston Texans,3,26,21,356,282,74,4,21,410,194,216,1,-12.02,-8.05,0.32,2019
-9,9,Jaguars,,,,,0,,home,<strong>Bye Week</strong>,0,0,0,0,0,0,0,0,0,0,0,0,,,,2019
-10,10,Jaguars,Sun,November 17,,L,0,4-6,away,Indianapolis Colts,13,33,15,308,279,29,1,23,389,125,264,2,-4.19,-15.77,5.81,2019
-11,11,Jaguars,Sun,November 24,,L,0,4-7,away,Tennessee Titans,20,42,23,369,252,117,1,21,471,252,219,2,1.2,-20.75,-2.59,2019
-12,12,Jaguars,Sun,December 1,,L,0,4-8,home,Tampa Bay Buccaneers,11,28,14,242,193,49,4,19,315,241,74,1,-26.93,4.31,2.93,2019
-13,13,Jaguars,Sun,December 8,,L,0,4-9,home,Los Angeles Chargers,10,45,15,252,164,88,0,27,525,330,195,0,-6.91,-37.99,8.63,2019
-14,14,Jaguars,Sun,December 15,,W,0,5-9,away,Oakland Raiders,20,16,17,262,185,77,0,27,364,236,128,0,6.63,-11.24,6.93,2019
-15,15,Jaguars,Sun,December 22,,L,0,5-10,away,Atlanta Falcons,12,24,17,288,173,115,1,28,518,383,135,2,-4.26,-18.86,7.84,2019
-16,16,Jaguars,Sun,December 29,,W,0,6-10,home,Indianapolis Colts,38,20,23,353,286,67,1,17,275,143,132,2,13.7,5.69,0.18,2019
+,Week,Day,Date,Time,Win/Loss,Overtime,Team Record,Home/Away,Opponent,Points Scored,Points Allowed,Offense 1st Down,Total Yards Gained of Offense,Total yards Gained by Passing,Total Yards Gained by Rushing,Offense Turnovers,Defense 1st Down,Total Yards Allowed by Defense,Total Passing Yards Allowed by Defense,Total Rushing Yards Allowed by Defense,Defense Turnovers,Offense,Defense,Sp. Tms,Team,Year
+0,1,Sun,2019-09-08,nan,Loss,0,0-1,home,Kansas City Chiefs,26,40,18,428,347,81,2,24,491,378,113,0,8.7,-26.49,-1.47,Jaguars,2019
+1,2,Sun,2019-09-15,nan,Loss,0,0-2,away,Houston Texans,12,13,16,281,178,103,1,17,263,137,126,0,-7.19,2.3,1.18,Jaguars,2019
+2,3,Thu,2019-09-19,nan,Win,0,1-2,home,Tennessee Titans,20,7,12,292,204,88,0,21,340,249,91,1,-1.2,6.44,5.28,Jaguars,2019
+3,4,Sun,2019-09-29,nan,Win,0,2-2,away,Denver Broncos,26,24,25,455,186,269,0,19,371,303,68,1,7.97,-6.62,0.72,Jaguars,2019
+4,5,Sun,2019-10-06,nan,Loss,0,2-3,away,Carolina Panthers,27,34,28,507,358,149,3,22,445,160,285,0,5.62,-16.1,6.41,Jaguars,2019
+5,6,Sun,2019-10-13,nan,Loss,0,2-4,home,New Orleans Saints,6,13,11,226,151,75,1,18,326,222,104,0,-11.07,-1.88,0.56,Jaguars,2019
+6,7,Sun,2019-10-20,nan,Win,0,3-4,away,Cincinnati Bengals,27,17,22,460,244,216,0,21,291,258,33,4,2.45,14.01,-7.13,Jaguars,2019
+7,8,Sun,2019-10-27,nan,Win,0,4-4,home,New York Jets,29,15,21,389,278,111,1,15,213,167,46,3,4.35,12.91,-3.33,Jaguars,2019
+8,9,Sun,2019-11-03,nan,Loss,0,4-5,home,Houston Texans,3,26,21,356,282,74,4,21,410,194,216,1,-12.02,-8.05,0.32,Jaguars,2019
+9,11,Sun,2019-11-17,nan,Loss,0,4-6,away,Indianapolis Colts,13,33,15,308,279,29,1,23,389,125,264,2,-4.19,-15.77,5.81,Jaguars,2019
+10,12,Sun,2019-11-24,nan,Loss,0,4-7,away,Tennessee Titans,20,42,23,369,252,117,1,21,471,252,219,2,1.2,-20.75,-2.59,Jaguars,2019
+11,13,Sun,2019-12-01,nan,Loss,0,4-8,home,Tampa Bay Buccaneers,11,28,14,242,193,49,4,19,315,241,74,1,-26.93,4.31,2.93,Jaguars,2019
+12,14,Sun,2019-12-08,nan,Loss,0,4-9,home,Los Angeles Chargers,10,45,15,252,164,88,0,27,525,330,195,0,-6.91,-37.99,8.63,Jaguars,2019
+13,15,Sun,2019-12-15,nan,Win,0,5-9,away,Oakland Raiders,20,16,17,262,185,77,0,27,364,236,128,0,6.63,-11.24,6.93,Jaguars,2019
+14,16,Sun,2019-12-22,nan,Loss,0,5-10,away,Atlanta Falcons,12,24,17,288,173,115,1,28,518,383,135,2,-4.26,-18.86,7.84,Jaguars,2019
+15,17,Sun,2019-12-29,nan,Win,0,6-10,home,Indianapolis Colts,38,20,23,353,286,67,1,17,275,143,132,2,13.7,5.69,0.18,Jaguars,2019

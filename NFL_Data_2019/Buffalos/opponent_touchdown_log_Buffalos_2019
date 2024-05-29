@@ -1,31 +1,31 @@
-,Rank,Team,Date,Opponent,Win/Loss,Score,Quarter,Distance,Type,Detail,Year
-0,1,Buffalos,09/08/2019,NYJ,Win, 17-16,1,17,interception,C.J. Mosley,2019
-1,2,Buffalos,09/08/2019,NYJ,Win, 17-16,3,9,pass,Le'Veon Bell,2019
-2,3,Buffalos,09/15/2019,NYG,Win, 28-14,1,27,rush,Saquon Barkley,2019
-3,4,Buffalos,09/15/2019,NYG,Win, 28-14,4,4,pass,T.J. Jones,2019
-4,5,Buffalos,09/22/2019,CIN,Win, 21-17,3,1,rush,Andy Dalton,2019
-5,6,Buffalos,09/22/2019,CIN,Win, 21-17,4,1,pass,Joe Mixon,2019
-6,7,Buffalos,09/29/2019,NWE,Loss, 10-16,1,4,rush,Brandon Bolden,2019
-7,8,Buffalos,09/29/2019,NWE,Loss, 10-16,1,11,blocked punt,Matthew Slater,2019
-8,9,Buffalos,10/06/2019,TEN,Win, 14-7,3,1,rush,Derrick Henry,2019
-9,10,Buffalos,10/20/2019,MIA,Win, 31-21,2,3,rush,Kalen Ballage,2019
-10,11,Buffalos,10/20/2019,MIA,Win, 31-21,2,12,pass,DeVante Parker,2019
-11,12,Buffalos,10/20/2019,MIA,Win, 31-21,4,11,rush,Ryan Fitzpatrick,2019
-12,13,Buffalos,10/27/2019,PHI,Loss, 13-31,2,5,pass,Dallas Goedert,2019
-13,14,Buffalos,10/27/2019,PHI,Loss, 13-31,3,65,rush,Miles Sanders,2019
-14,15,Buffalos,10/27/2019,PHI,Loss, 13-31,3,4,rush,Boston Scott,2019
-15,16,Buffalos,10/27/2019,PHI,Loss, 13-31,4,3,rush,Jordan Howard,2019
-16,17,Buffalos,11/10/2019,CLE,Loss, 16-19,1,17,pass,Jarvis Landry,2019
-17,18,Buffalos,11/10/2019,CLE,Loss, 16-19,4,7,pass,Rashard Higgins,2019
-18,19,Buffalos,11/17/2019,MIA,Win, 37-20,2,3,rush,Kalen Ballage,2019
-19,20,Buffalos,11/17/2019,MIA,Win, 37-20,2,101,kickoff,Jakeem Grant,2019
-20,21,Buffalos,11/17/2019,MIA,Win, 37-20,4,7,rush,Jakeem Grant,2019
-21,22,Buffalos,11/28/2019,DAL,Win, 26-15,1,8,pass,Jason Witten,2019
-22,23,Buffalos,11/28/2019,DAL,Win, 26-15,4,15,pass,Ventell Bryant,2019
-23,24,Buffalos,12/08/2019,BAL,Loss, 17-24,2,3,pass,Nick Boyle,2019
-24,25,Buffalos,12/08/2019,BAL,Loss, 17-24,3,61,pass,Hayden Hurst,2019
-25,26,Buffalos,12/08/2019,BAL,Loss, 17-24,4,4,pass,Willie Snead,2019
-26,27,Buffalos,12/15/2019,PIT,Win, 17-10,3,11,pass,James Conner,2019
-27,28,Buffalos,12/21/2019,NWE,Loss, 17-24,1,8,pass,Matt LaCosse,2019
-28,29,Buffalos,12/21/2019,NWE,Loss, 17-24,4,1,rush,Rex Burkhead,2019
-29,30,Buffalos,12/29/2019,NYJ,Loss, 6-13,4,1,pass,Jamison Crowder,2019
+,Rank,Team,Date,Opponent,Win/Loss,Home_Score,Opponenet_Score,Quarter,Distance,Type,Detail
+1,1,Buffalos,2019-09-08,NYJ,Win,17,16,1,17,interception,C.J. Mosley
+2,2,Buffalos,2019-09-08,NYJ,Win,17,16,3,9,pass,Le'Veon Bell
+3,3,Buffalos,2019-09-15,NYG,Win,28,14,1,27,rush,Saquon Barkley
+4,4,Buffalos,2019-09-15,NYG,Win,28,14,4,4,pass,T.J. Jones
+5,5,Buffalos,2019-09-22,CIN,Win,21,17,3,1,rush,Andy Dalton
+6,6,Buffalos,2019-09-22,CIN,Win,21,17,4,1,pass,Joe Mixon
+7,7,Buffalos,2019-09-29,NWE,Loss,10,16,1,4,rush,Brandon Bolden
+8,8,Buffalos,2019-09-29,NWE,Loss,10,16,1,11,blocked punt,Matthew Slater
+9,9,Buffalos,2019-10-06,TEN,Win,14,7,3,1,rush,Derrick Henry
+10,10,Buffalos,2019-10-20,MIA,Win,31,21,2,3,rush,Kalen Ballage
+11,11,Buffalos,2019-10-20,MIA,Win,31,21,2,12,pass,DeVante Parker
+12,12,Buffalos,2019-10-20,MIA,Win,31,21,4,11,rush,Ryan Fitzpatrick
+13,13,Buffalos,2019-10-27,PHI,Loss,13,31,2,5,pass,Dallas Goedert
+14,14,Buffalos,2019-10-27,PHI,Loss,13,31,3,65,rush,Miles Sanders
+15,15,Buffalos,2019-10-27,PHI,Loss,13,31,3,4,rush,Boston Scott
+16,16,Buffalos,2019-10-27,PHI,Loss,13,31,4,3,rush,Jordan Howard
+17,17,Buffalos,2019-11-10,CLE,Loss,16,19,1,17,pass,Jarvis Landry
+18,18,Buffalos,2019-11-10,CLE,Loss,16,19,4,7,pass,Rashard Higgins
+19,19,Buffalos,2019-11-17,MIA,Win,37,20,2,3,rush,Kalen Ballage
+20,20,Buffalos,2019-11-17,MIA,Win,37,20,2,101,kickoff,Jakeem Grant
+21,21,Buffalos,2019-11-17,MIA,Win,37,20,4,7,rush,Jakeem Grant
+22,22,Buffalos,2019-11-28,DAL,Win,26,15,1,8,pass,Jason Witten
+23,23,Buffalos,2019-11-28,DAL,Win,26,15,4,15,pass,Ventell Bryant
+24,24,Buffalos,2019-12-08,BAL,Loss,17,24,2,3,pass,Nick Boyle
+25,25,Buffalos,2019-12-08,BAL,Loss,17,24,3,61,pass,Hayden Hurst
+26,26,Buffalos,2019-12-08,BAL,Loss,17,24,4,4,pass,Willie Snead
+27,27,Buffalos,2019-12-15,PIT,Win,17,10,3,11,pass,James Conner
+28,28,Buffalos,2019-12-21,NWE,Loss,17,24,1,8,pass,Matt LaCosse
+29,29,Buffalos,2019-12-21,NWE,Loss,17,24,4,1,rush,Rex Burkhead
+30,30,Buffalos,2019-12-29,NYJ,Loss,6,13,4,1,pass,Jamison Crowder

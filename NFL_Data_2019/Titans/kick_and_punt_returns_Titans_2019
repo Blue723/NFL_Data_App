@@ -1,8 +1,8 @@
-,No.,Team,Player,Age,Position,Games Played,Games Started,Punts Returned,Punts Return Yardage,Punts Returned for Touchdown,Longest Punt Return,Yards per Punt Return,Kickoff Returns,Yardage for Kickoffs Returned,Kickoffs Returned for a Touchdown,Longest Kickoff Return,Yards per Kickoff Return,All-purpose Yards,Year
-0,14,Titans,Kalif Raymond,25,WR,8,1,4,45,0,14,11.3,18,403,0,45,22.4,613,2019
-1,10,Titans,Adam Humphries,26,WR,12,3,12,78,0,21,6.5,0,0,0,0,,453,2019
-2,15,Titans,Darius Jennings,27,WR,8,0,0,0,0,0,,9,196,0,26,21.8,213,2019
-3,25,Titans,Adoree' Jackson,24,RCB,11,10,3,26,0,17,8.7,2,23,0,23,11.5,49,2019
-4,12,Titans,Rashard Davis,24,WR,1,0,2,9,0,10,4.5,0,0,0,0,,25,2019
-5,36,Titans,LeShaun Sims,26,DB,14,2,1,11,0,11,11.0,0,0,0,0,,11,2019
-6,81,Titans,Jonnu Smith,24,TE,16,14,0,0,0,0,,1,16,0,16,16.0,533,2019
+,No.,Player,Age,Position,Games Played,Games Started,Punts Returned,Punts Return Yardage,Punts Returned for Touchdown,Longest Punt Return,Yards per Punt Return,Kickoff Returns,Yardage for Kickoffs Returned,Kickoffs Returned for a Touchdown,Longest Kickoff Return,Yards per Kickoff Return,All-purpose Yards,Team,Year
+14,14,Kalif Raymond,25,WR,8,1,4,45,0,14,11.3,18,403,0,45,22.4,613,Titans,2019
+10,10,Adam Humphries,26,WR,12,3,12,78,0,21,6.5,0,0,0,0,0.0,453,Titans,2019
+15,15,Darius Jennings,27,WR,8,0,0,0,0,0,0.0,9,196,0,26,21.8,213,Titans,2019
+25,25,Adoree' Jackson,24,RCB,11,10,3,26,0,17,8.7,2,23,0,23,11.5,49,Titans,2019
+12,12,Rashard Davis,24,WR,1,0,2,9,0,10,4.5,0,0,0,0,0.0,25,Titans,2019
+36,36,LeShaun Sims,26,DB,14,2,1,11,0,11,11.0,0,0,0,0,0.0,11,Titans,2019
+81,81,Jonnu Smith,24,TE,16,14,0,0,0,0,0.0,1,16,0,16,16.0,533,Titans,2019

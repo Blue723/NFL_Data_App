@@ -1,20 +1,18 @@
-,Week,Team,Day,Date,Time,Win/Loss,Overtime,Team Record,Home/Away,Opponent,Points Scored,Points Allowed,Offense 1st Down,Total Yards Gained of Offense,Total yards Gained by Passing,Total Yards Gained by Rushing,Offense Turnovers,Defense 1st Down,Total Yards Allowed by Defense,Total Passing Yards Allowed by Defense,Total Rushing Yards Allowed by Defense,Defense Turnovers,Offense,Defense,Sp. Tms,Year
-0,0,Eagles,Sun,September 8,,W,0,1-0,home,Washington Redskins,32,27,22,436,313,123,0,15,398,370,28,0,17.68,-12.08,0.64,2019
-1,1,Eagles,Sun,September 15,,L,0,1-1,away,Atlanta Falcons,20,24,18,286,237,49,3,19,367,310,57,3,-5.22,-3.96,4.03,2019
-2,2,Eagles,Sun,September 22,,L,0,1-2,home,Detroit Lions,24,27,22,373,246,127,2,16,287,201,86,0,-0.31,-1.07,-3.8,2019
-3,3,Eagles,Thu,September 26,,W,0,2-2,away,Green Bay Packers,34,27,24,336,160,176,0,31,491,414,77,2,18.42,-16.95,4.12,2019
-4,4,Eagles,Sun,October 6,,W,0,3-2,home,New York Jets,31,6,17,265,181,84,1,9,128,61,67,3,-4.56,35.65,-6.44,2019
-5,5,Eagles,Sun,October 13,,L,0,3-3,away,Minnesota Vikings,20,38,19,400,292,108,3,26,447,325,122,2,2.18,-17.04,0.52,2019
-6,6,Eagles,Sun,October 20,,L,0,3-4,away,Dallas Cowboys,10,37,16,283,168,115,4,23,402,213,189,1,-10.92,-15.32,0.53,2019
-7,7,Eagles,Sun,October 27,,W,0,4-4,away,Buffalo Bills,31,13,21,371,153,218,1,16,253,155,98,1,10.88,7.91,-5.78,2019
-8,8,Eagles,Sun,November 3,,W,0,5-4,home,Chicago Bears,22,14,26,373,227,146,0,10,164,102,62,1,10.73,4.78,-2.82,2019
-9,9,Eagles,,,,,0,,home,<strong>Bye Week</strong>,0,0,0,0,0,0,0,0,0,0,0,0,,,,2019
-10,10,Eagles,Sun,November 17,,L,0,5-5,home,New England Patriots,10,17,21,255,174,81,1,19,298,224,74,0,-9.17,4.83,-0.43,2019
-11,11,Eagles,Sun,November 24,,L,0,5-6,home,Seattle Seahawks,9,17,23,344,238,106,5,14,348,174,174,2,-17.25,4.38,0.2,2019
-12,12,Eagles,Sun,December 1,,L,0,5-7,away,Miami Dolphins,31,37,23,386,294,92,1,26,409,351,58,1,11.33,-16.93,0.08,2019
-13,13,1,1,1,1.0,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1.0,1.0,1.0,1
-14,14,Eagles,Sun,December 15,,W,0,7-7,away,Washington Redskins,37,27,27,415,258,157,1,19,352,251,101,1,19.99,-5.52,-3.89,2019
-15,15,Eagles,Sun,December 22,,W,0,8-7,home,Dallas Cowboys,17,9,23,431,313,118,0,16,311,257,54,1,8.73,6.26,-3.16,2019
-16,16,Eagles,Sun,December 29,,W,0,9-7,away,New York Giants,34,17,25,400,279,121,0,19,397,275,122,2,6.3,6.61,-0.16,2019
-17,17,Eagles,,<strong>Playoffs</strong>,,,0,,home,,0,0,0,0,0,0,0,0,0,0,0,0,,,,2019
-18,18,Eagles,Sun,January 5,,L,0,9-8,home,Seattle Seahawks,9,17,20,282,162,120,0,16,382,318,64,0,-1.96,-10.59,3.79,2019
+,Week,Day,Date,Time,Win/Loss,Overtime,Team Record,Home/Away,Opponent,Points Scored,Points Allowed,Offense 1st Down,Total Yards Gained of Offense,Total yards Gained by Passing,Total Yards Gained by Rushing,Offense Turnovers,Defense 1st Down,Total Yards Allowed by Defense,Total Passing Yards Allowed by Defense,Total Rushing Yards Allowed by Defense,Defense Turnovers,Offense,Defense,Sp. Tms,Team,Year
+0,1,Sun,2019-09-08,nan,Win,0,1-0,home,Washington Redskins,32,27,22,436,313,123,0,15,398,370,28,0,17.68,-12.08,0.64,Eagles,2019
+1,2,Sun,2019-09-15,nan,Loss,0,1-1,away,Atlanta Falcons,20,24,18,286,237,49,3,19,367,310,57,3,-5.22,-3.96,4.03,Eagles,2019
+2,3,Sun,2019-09-22,nan,Loss,0,1-2,home,Detroit Lions,24,27,22,373,246,127,2,16,287,201,86,0,-0.31,-1.07,-3.8,Eagles,2019
+3,4,Thu,2019-09-26,nan,Win,0,2-2,away,Green Bay Packers,34,27,24,336,160,176,0,31,491,414,77,2,18.42,-16.95,4.12,Eagles,2019
+4,5,Sun,2019-10-06,nan,Win,0,3-2,home,New York Jets,31,6,17,265,181,84,1,9,128,61,67,3,-4.56,35.65,-6.44,Eagles,2019
+5,6,Sun,2019-10-13,nan,Loss,0,3-3,away,Minnesota Vikings,20,38,19,400,292,108,3,26,447,325,122,2,2.18,-17.04,0.52,Eagles,2019
+6,7,Sun,2019-10-20,nan,Loss,0,3-4,away,Dallas Cowboys,10,37,16,283,168,115,4,23,402,213,189,1,-10.92,-15.32,0.53,Eagles,2019
+7,8,Sun,2019-10-27,nan,Win,0,4-4,away,Buffalo Bills,31,13,21,371,153,218,1,16,253,155,98,1,10.88,7.91,-5.78,Eagles,2019
+8,9,Sun,2019-11-03,nan,Win,0,5-4,home,Chicago Bears,22,14,26,373,227,146,0,10,164,102,62,1,10.73,4.78,-2.82,Eagles,2019
+9,11,Sun,2019-11-17,nan,Loss,0,5-5,home,New England Patriots,10,17,21,255,174,81,1,19,298,224,74,0,-9.17,4.83,-0.43,Eagles,2019
+10,12,Sun,2019-11-24,nan,Loss,0,5-6,home,Seattle Seahawks,9,17,23,344,238,106,5,14,348,174,174,2,-17.25,4.38,0.2,Eagles,2019
+11,13,Sun,2019-12-01,nan,Loss,0,5-7,away,Miami Dolphins,31,37,23,386,294,92,1,26,409,351,58,1,11.33,-16.93,0.08,Eagles,2019
+12,14,Mon,2019-12-09,nan,Win,1,6-7,home,New York Giants,23,17,27,418,300,118,1,11,255,182,73,0,3.0,4.47,-0.47,Eagles,2019
+13,15,Sun,2019-12-15,nan,Win,0,7-7,away,Washington Redskins,37,27,27,415,258,157,1,19,352,251,101,1,19.99,-5.52,-3.89,Eagles,2019
+14,16,Sun,2019-12-22,nan,Win,0,8-7,home,Dallas Cowboys,17,9,23,431,313,118,0,16,311,257,54,1,8.73,6.26,-3.16,Eagles,2019
+15,17,Sun,2019-12-29,nan,Win,0,9-7,away,New York Giants,34,17,25,400,279,121,0,19,397,275,122,2,6.3,6.61,-0.16,Eagles,2019
+16,19,Sun,2020-01-05,nan,Loss,0,9-8,home,Seattle Seahawks,9,17,20,282,162,120,0,16,382,318,64,0,-1.96,-10.59,3.79,Eagles,2019

@@ -1,7 +1,7 @@
-,No.,Team,Player,Age,Position,Games Played,Games Started,Punts Returned,Punts Return Yardage,Punts Returned for Touchdown,Longest Punt Return,Yards per Punt Return,Kickoff Returns,Yardage for Kickoffs Returned,Kickoffs Returned for a Touchdown,Longest Kickoff Return,Yards per Kickoff Return,All-purpose Yards,Year
-0,32,Packers,Tyler Ervin,26,RB,4,0,11,106,0,18,9.6,6,160,0,45,26.7,287,2019
-1,27,Packers,Tremon Smith,23,DB,7,0,4,0,0,3,0.0,13,303,0,36,23.3,303,2019
-2,10,Packers,Darrius Shepherd,24,WR,6,0,2,-9,0,0,-4.5,9,147,0,21,16.3,139,2019
-3,11,Packers,Trevor Davis,26,WR,2,0,3,1,0,1,0.3,0,0,0,0,,29,2019
-4,39,Packers,Chandon Sullivan,23,DB,16,0,0,0,0,0,,3,48,0,19,16.0,55,2019
-5,30,Packers,Jamaal Williams,24,RB,14,2,0,0,0,0,,1,9,0,9,9.0,722,2019
+,No.,Player,Age,Position,Games Played,Games Started,Punts Returned,Punts Return Yardage,Punts Returned for Touchdown,Longest Punt Return,Yards per Punt Return,Kickoff Returns,Yardage for Kickoffs Returned,Kickoffs Returned for a Touchdown,Longest Kickoff Return,Yards per Kickoff Return,All-purpose Yards,Team,Year
+32,32,Tyler Ervin,26,RB,4,0,11,106,0,18,9.6,6,160,0,45,26.7,287,Packers,2019
+27,27,Tremon Smith,23,DB,7,0,4,0,0,3,0.0,13,303,0,36,23.3,303,Packers,2019
+10,10,Darrius Shepherd,24,WR,6,0,2,-9,0,0,-4.5,9,147,0,21,16.3,139,Packers,2019
+11,11,Trevor Davis,26,WR,2,0,3,1,0,1,0.3,0,0,0,0,0.0,29,Packers,2019
+39,39,Chandon Sullivan,23,DB,16,0,0,0,0,0,0.0,3,48,0,19,16.0,55,Packers,2019
+30,30,Jamaal Williams,24,RB,14,2,0,0,0,0,0.0,1,9,0,9,9.0,722,Packers,2019

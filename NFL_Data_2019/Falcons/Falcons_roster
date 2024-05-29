@@ -1,70 +1,70 @@
-Player,No.,Team,Age,Pos,G,GS,Wt,Ht,College/Univ,BirthDate,Yrs,AV,Drafted (tm/rnd/yr),Salary
-Ricardo Allen,37.0,Falcons,28.0,SS,16,16.0,186.0,5-9,Purdue,12/18/1991,4,5.0,Atlanta Falcons / 5th / 147th pick / 2014,"$3,500,000"
-Ryan Allen,9.0,Falcons,29.0,P,8,0.0,220.0,6-2,Louisiana Tech,2/28/1990,6,1.0,,
-Allen Bailey,93.0,Falcons,30.0,RDE,15,5.0,288.0,6-3,Miami (FL),3/25/1989,8,3.0,Kansas City Chiefs / 3rd / 86th pick / 2011,"$2,750,000"
-Kenjon Barner,38.0,Falcons,30.0,RB,14,0.0,195.0,5-9,Oregon,4/28/1989,6,1.0,Carolina Panthers / 6th / 182nd pick / 2013,"$805,000"
-Vic Beasley,44.0,Falcons,27.0,RDE,16,15.0,246.0,6-3,Clemson,7/8/1992,4,7.0,Atlanta Falcons / 1st / 8th pick / 2015,"$12,810,000"
-Christian Blake,13.0,Falcons,23.0,WR,9,3.0,181.0,6-1,Northern Illinois,6/8/1996,Rook,1.0,,"$495,000"
-Matthew Bosher,5.0,Falcons,32.0,K,3,0.0,208.0,6-0,Miami (FL),10/18/1987,8,0.0,Atlanta Falcons / 6th / 192nd pick / 2011,"$2,545,000"
-Jamon Brown,68.0,Falcons,26.0,RG,10,9.0,340.0,6-4,Louisville,3/15/1993,4,5.0,St. Louis Rams / 3rd / 72nd pick / 2015,"$2,500,000"
-Matt Bryant,3.0,Falcons,44.0,K,7,0.0,203.0,5-9,Baylor,5/29/1975,17,0.0,,
-De'Vondre Campbell,59.0,Falcons,26.0,LLB,16,15.0,232.0,6-3,Minnesota,7/1/1993,3,8.0,Atlanta Falcons / 4th / 115th pick / 2016,"$2,025,000"
-James Carpenter,77.0,Falcons,30.0,LG,11,11.0,321.0,6-5,Alabama,3/22/1989,8,6.0,Seattle Seahawks / 1st / 25th pick / 2011,"$2,000,000"
-Jamal Carter,35.0,Falcons,25.0,DB,11,0.0,215.0,6-1,Miami (FL),4/12/1994,2,1.0,,
-Adrian Clayborn,99.0,Falcons,31.0,DE,15,1.0,280.0,6-3,Iowa,7/6/1988,8,2.0,Tampa Bay Buccaneers / 1st / 20th pick / 2011,"$930,000"
-John Cominsky,50.0,Falcons,24.0,DE,10,0.0,285.0,6-5,Charleston (WV),11/22/1995,Rook,1.0,Atlanta Falcons / 4th / 135th pick / 2019,"$495,000"
-Jack Crawford,95.0,Falcons,31.0,DE,16,4.0,288.0,6-5,Penn St.,9/7/1988,7,2.0,Oakland Raiders / 5th / 158th pick / 2012,"$2,550,000"
-Johnathan Cyprien,32.0,Falcons,29.0,DB,1,1.0,211.0,6-1,Florida International,7/29/1990,6,0.0,Jacksonville Jaguars / 2nd / 33rd pick / 2013,
-Tyeler Davison,96.0,Falcons,27.0,RDT,16,12.0,309.0,6-2,Fresno St.,9/3/1992,4,6.0,New Orleans Saints / 5th / 154th pick / 2015,"$805,000"
-Devonta Freeman,24.0,Falcons,27.0,RB,14,14.0,206.0,5-8,Florida St.,3/15/1992,5,8.0,Atlanta Falcons / 4th / 103rd pick / 2014,"$3,750,000"
-Russell Gage,83.0,Falcons,23.0,WR,16,4.0,185.0,6-0,LSU,1/22/1996,1,4.0,Atlanta Falcons / 6th / 194th pick / 2018,"$570,000"
-Matt Gono,73.0,Falcons,23.0,T,5,0.0,305.0,6-4,Wesley,5/10/1996,Rook,0.0,,"$570,000"
-Jermaine Grace,53.0,Falcons,26.0,LB,12,0.0,223.0,6-0,Miami (FL),11/8/1993,2,1.0,,"$570,000"
-Jaeden Graham,87.0,Falcons,24.0,TE,16,0.0,250.0,6-4,Yale,10/10/1995,Rook,1.0,,"$495,000"
-Justin Hardy,14.0,Falcons,28.0,WR,16,1.0,192.0,5-10,East Carolina,12/18/1991,4,2.0,Atlanta Falcons / 4th / 107th pick / 2015,"$805,000"
-Sean Harlow,64.0,Falcons,24.0,G,1,0.0,284.0,6-4,Oregon St.,3/28/1995,Rook,0.0,Atlanta Falcons / 4th / 136th pick / 2017,"$570,000"
-Josh Harris,47.0,Falcons,30.0,LS,16,0.0,224.0,6-1,Auburn,4/27/1989,7,1.0,,"$930,000"
-Brian Hill,23.0,Falcons,24.0,RB,12,2.0,219.0,6-1,Wyoming,11/9/1995,2,3.0,Atlanta Falcons / 5th / 156th pick / 2017,"$645,000"
-Austin Hooper,81.0,Falcons,25.0,TE,13,10.0,254.0,6-4,Stanford,10/29/1994,3,6.0,Atlanta Falcons / 3rd / 81st pick / 2016,"$2,025,000"
-Kemal Ishmael,36.0,Falcons,28.0,DB,14,3.0,206.0,6-0,Central Florida,5/6/1991,6,1.0,Atlanta Falcons / 7th / 243rd pick / 2013,"$805,000"
-Grady Jarrett,97.0,Falcons,26.0,LDT,16,16.0,305.0,6-0,Clemson,4/28/1993,4,13.0,Atlanta Falcons / 5th / 137th pick / 2015,"$15,209,000"
-Deion Jones,45.0,Falcons,25.0,MLB/RLB,16,16.0,222.0,6-1,LSU,11/4/1994,3,8.0,Atlanta Falcons / 2nd / 52nd pick / 2016,"$1,069,860"
-Julio Jones,11.0,Falcons,30.0,WR,15,15.0,220.0,6-3,Alabama,2/8/1989,8,11.0,Atlanta Falcons / 1st / 6th pick / 2011,"$9,600,000"
-Damontae Kazee,27.0,Falcons,26.0,FS,16,14.0,174.0,5-11,San Diego St.,6/5/1993,2,5.0,Atlanta Falcons / 5th / 149th pick / 2017,"$645,000"
-Younghoe Koo,7.0,Falcons,25.0,K,8,0.0,185.0,5-9,Georgia Southern,8/3/1994,2,3.0,,
-Austin Larkin,62.0,Falcons,24.0,DE,2,0.0,265.0,6-3,Purdue,4/6/1995,Rook,0.0,,
-Chris Lindstrom,63.0,Falcons,22.0,RG,5,5.0,307.0,6-3,Boston Col.,2/28/1997,Rook,3.0,Atlanta Falcons / 1st / 14th pick / 2019,"$495,000"
-Alex Mack,51.0,Falcons,34.0,C,16,16.0,311.0,6-4,California,11/19/1985,10,8.0,Cleveland Browns / 1st / 21st pick / 2009,"$8,500,000"
-Jake Matthews,70.0,Falcons,27.0,LT,16,16.0,309.0,6-5,Texas A&M,2/11/1992,5,8.0,Atlanta Falcons / 1st / 6th pick / 2014,"$6,500,000"
-Kaleb McGary,76.0,Falcons,24.0,RT,16,16.0,306.0,6-6,Washington,2/22/1995,Rook,8.0,Atlanta Falcons / 1st / 31st pick / 2019,"$495,000"
-Takkarist McKinley,98.0,Falcons,24.0,LDE,14,13.0,260.0,6-2,UCLA,11/2/1995,2,6.0,Atlanta Falcons / 1st / 26th pick / 2017,"$1,393,775"
-Carson Meier,85.0,Falcons,24.0,TE,1,1.0,254.0,6-5,Oklahoma,6/29/1995,Rook,0.0,,
-Jordan Miller,28.0,Falcons,22.0,DB,10,0.0,190.0,6-2,Washington,2/8/1997,Rook,1.0,Atlanta Falcons / 5th / 172nd pick / 2019,"$495,000"
-Keanu Neal,22.0,Falcons,24.0,DB,3,3.0,211.0,6-0,Florida,7/26/1995,3,1.0,Atlanta Falcons / 1st / 17th pick / 2016,"$1,914,224"
-Sharrod Neasman,41.0,Falcons,28.0,DB,15,0.0,213.0,5-11,Florida Atlantic,10/14/1991,3,1.0,,"$720,000"
-Isaiah Oliver,26.0,Falcons,23.0,LCB,16,16.0,202.0,6-0,Colorado,9/30/1996,1,5.0,Atlanta Falcons / 2nd / 58th pick / 2018,"$690,757"
-Qadree Ollison,30.0,Falcons,23.0,RB,8,0.0,232.0,6-1,Pittsburgh,9/8/1996,Rook,0.0,Atlanta Falcons / 5th / 152nd pick / 2019,"$495,000"
-Foyesade Oluokun,54.0,Falcons,24.0,LB,16,3.0,230.0,6-2,Yale,8/2/1995,1,3.0,Atlanta Falcons / 6th / 200th pick / 2018,"$570,000"
-Kasey Redfern,9.0,Falcons,28.0,P,3,0.0,205.0,6-1,Wofford,9/26/1991,2,0.0,,
-Calvin Ridley,18.0,Falcons,25.0,WR,13,10.0,190.0,6-1,Alabama,12/20/1994,1,7.0,Atlanta Falcons / 1st / 26th pick / 2018,"$975,487"
-Duke Riley,42.0,Falcons,25.0,LB,4,0.0,227.0,6-1,LSU,8/9/1994,2,0.0,Atlanta Falcons / 3rd / 75th pick / 2017,"$726,500"
-Matt Ryan,2.0,Falcons,34.0,QB,15,15.0,217.0,6-4,Boston Col.,5/17/1985,11,13.0,Atlanta Falcons / 1st / 3rd pick / 2008,"$2,750,000"
-Ty Sambrailo,74.0,Falcons,27.0,T,13,0.0,311.0,6-5,Colorado St.,3/10/1992,4,1.0,Denver Broncos / 2nd / 59th pick / 2015,"$2,000,000"
-Mohamed Sanu,12.0,Falcons,30.0,WR,7,6.0,210.0,6-2,Rutgers,8/23/1989,7,3.0,Cincinnati Bengals / 3rd / 83rd pick / 2012,"$6,000,000"
-Matt Schaub,8.0,Falcons,38.0,QB,6,1.0,245.0,6-6,Virginia,6/25/1981,15,2.0,Atlanta Falcons / 3rd / 90th pick / 2004,"$1,030,000"
-Wes Schweitzer,71.0,Falcons,26.0,LG,15,7.0,300.0,6-4,San Jose St.,9/11/1993,2,4.0,Atlanta Falcons / 6th / 195th pick / 2016,"$2,025,000"
-Deadrin Senat,94.0,Falcons,25.0,DT,2,0.0,305.0,6-1,South Florida,7/22/1994,1,0.0,Atlanta Falcons / 3rd / 90th pick / 2018,"$622,000"
-Kendall Sheffield,20.0,Falcons,23.0,DB,16,11.0,212.0,5-10,Ohio St.,5/30/1996,Rook,3.0,Atlanta Falcons / 4th / 111th pick / 2019,"$495,000"
-Ito Smith,25.0,Falcons,24.0,RB,7,0.0,195.0,5-9,Southern Miss,9/11/1995,1,1.0,Atlanta Falcons / 4th / 126th pick / 2018,"$570,000"
-Keith Smith,40.0,Falcons,27.0,FB,16,5.0,240.0,6-0,San Jose St.,4/8/1992,5,0.0,,
-Luke Stocker,80.0,Falcons,31.0,TE,15,9.0,253.0,6-5,Tennessee,7/17/1988,8,0.0,Tampa Bay Buccaneers / 4th / 104th pick / 2011,"$1,400,000"
-Jamar Taylor,43.0,Falcons,29.0,DB,3,0.0,192.0,5-11,Boise St.,9/29/1990,6,0.0,Miami Dolphins / 2nd / 54th pick / 2013,
-Ahmad Thomas,52.0,Falcons,25.0,DB,1,0.0,227.0,6-0,Oklahoma,12/15/1994,1,0.0,,
-Desmond Trufant,21.0,Falcons,29.0,RCB,9,9.0,190.0,6-0,Washington,9/10/1990,6,3.0,Atlanta Falcons / 1st / 22nd pick / 2013,"$9,500,000"
-Jacob Tuioti-Mariner,91.0,Falcons,23.0,DT,8,1.0,285.0,6-2,UCLA,7/25/1996,Rook,1.0,,"$495,000"
-John Wetzel,75.0,Falcons,28.0,T,2,0.0,328.0,6-7,Boston Col.,7/18/1991,3,0.0,,"$720,000"
-D.J. White,39.0,Falcons,26.0,DB,1,0.0,193.0,5-11,Georgia Tech,9/9/1993,3,0.0,Kansas City Chiefs / 6th / 178th pick / 2016,
-Matt Wile,4.0,Falcons,27.0,P,2,0.0,225.0,6-2,Michigan,6/20/1992,3,0.0,,
-Blidi Wreh-Wilson,33.0,Falcons,30.0,DB,14,2.0,190.0,6-1,Connecticut,12/5/1989,6,1.0,Tennessee Titans / 3rd / 70th pick / 2013,"$805,000"
-Olamide Zaccheaus,17.0,Falcons,22.0,WR,10,0.0,193.0,5-8,Virginia,7/23/1997,Rook,1.0,,"$495,000"
-Team Total,,Falcons,26.9,,16,,239.5,6-1.5,,,3.8,,,
+,No.,Player,BirthDate,Age,Height,Weight,College/University,Position,Games_Played_in_Season,Games_Started_in_Season,NFL_Years,Player_Value,Team,Year
+0,37.0,Ricardo Allen,12/18/1991,28.0,5-9,186.0,Purdue,SS,16,16.0,4.0,5.0,Falcons,2019
+1,9.0,Ryan Allen,2/28/1990,29.0,6-2,220.0,Louisiana Tech,P,8,0.0,6.0,1.0,Falcons,2019
+2,93.0,Allen Bailey,3/25/1989,30.0,6-3,288.0,Miami (FL),RDE,15,5.0,8.0,3.0,Falcons,2019
+3,38.0,Kenjon Barner,4/28/1989,30.0,5-9,195.0,Oregon,RB,14,0.0,6.0,1.0,Falcons,2019
+4,44.0,Vic Beasley,7/8/1992,27.0,6-3,246.0,Clemson,RDE,16,15.0,4.0,7.0,Falcons,2019
+5,13.0,Christian Blake,6/8/1996,23.0,6-1,181.0,Northern Illinois,WR,9,3.0,0.0,1.0,Falcons,2019
+6,5.0,Matthew Bosher,10/18/1987,32.0,6-0,208.0,Miami (FL),P,3,0.0,8.0,0.0,Falcons,2019
+7,68.0,Jamon Brown,3/15/1993,26.0,6-4,340.0,Louisville,RG,10,9.0,4.0,5.0,Falcons,2019
+8,3.0,Matt Bryant,5/29/1975,44.0,5-9,203.0,Baylor,K,7,0.0,17.0,0.0,Falcons,2019
+9,59.0,De'Vondre Campbell,7/1/1993,26.0,6-3,232.0,Minnesota,LLB,16,15.0,3.0,8.0,Falcons,2019
+10,77.0,James Carpenter,3/22/1989,30.0,6-5,321.0,Alabama,LG,11,11.0,8.0,6.0,Falcons,2019
+11,35.0,Jamal Carter,4/12/1994,25.0,6-1,215.0,Miami (FL),DB,11,0.0,2.0,1.0,Falcons,2019
+12,99.0,Adrian Clayborn,7/6/1988,31.0,6-3,280.0,Iowa,DE,15,1.0,8.0,2.0,Falcons,2019
+13,50.0,John Cominsky,11/22/1995,24.0,6-5,285.0,Charleston (WV),DE,10,0.0,0.0,1.0,Falcons,2019
+14,95.0,Jack Crawford,9/7/1988,31.0,6-5,288.0,Penn St.,DE,16,4.0,7.0,2.0,Falcons,2019
+15,32.0,Johnathan Cyprien,7/29/1990,29.0,6-1,211.0,Florida International,DB,1,1.0,6.0,0.0,Falcons,2019
+16,96.0,Tyeler Davison,9/23/1992,27.0,6-2,309.0,Fresno St.,RDT,16,12.0,4.0,6.0,Falcons,2019
+17,24.0,Devonta Freeman,3/15/1992,27.0,5-8,206.0,Florida St.,RB,14,14.0,5.0,8.0,Falcons,2019
+18,83.0,Russell Gage,1/22/1996,23.0,6-0,185.0,LSU,WR,16,4.0,1.0,4.0,Falcons,2019
+19,73.0,Matt Gono,5/10/1996,23.0,6-4,305.0,Wesley,T,5,0.0,0.0,0.0,Falcons,2019
+20,53.0,Jermaine Grace,11/8/1993,26.0,6-0,223.0,Miami (FL),LB,12,0.0,2.0,1.0,Falcons,2019
+21,87.0,Jaeden Graham,10/10/1995,24.0,6-4,250.0,Yale,TE,16,0.0,0.0,1.0,Falcons,2019
+22,14.0,Justin Hardy,12/18/1991,28.0,5-10,192.0,East Carolina,WR,16,1.0,4.0,2.0,Falcons,2019
+23,64.0,Sean Harlow,3/28/1995,24.0,6-4,284.0,Oregon St.,G,1,0.0,0.0,0.0,Falcons,2019
+24,47.0,Josh Harris,4/27/1989,30.0,6-1,224.0,Auburn,DB,16,0.0,7.0,1.0,Falcons,2019
+25,23.0,Brian Hill,11/9/1995,24.0,6-1,219.0,Wyoming,RB,12,2.0,2.0,3.0,Falcons,2019
+26,81.0,Austin Hooper,10/29/1994,25.0,6-4,254.0,Stanford,TE,13,10.0,3.0,6.0,Falcons,2019
+27,36.0,Kemal Ishmael,5/6/1991,28.0,6-0,206.0,Central Florida,DB,14,3.0,6.0,1.0,Falcons,2019
+28,97.0,Grady Jarrett,4/28/1993,26.0,6-0,305.0,Clemson,LDT,16,16.0,4.0,13.0,Falcons,2019
+29,45.0,Deion Jones,11/4/1994,25.0,6-1,222.0,LSU,MLB/RLB,16,16.0,3.0,8.0,Falcons,2019
+30,11.0,Julio Jones,2/3/1989,30.0,6-3,220.0,Alabama,WR,15,15.0,8.0,11.0,Falcons,2019
+31,27.0,Damontae Kazee,6/5/1993,26.0,5-11,174.0,San Diego St.,FS,16,14.0,2.0,5.0,Falcons,2019
+32,7.0,Younghoe Koo,8/3/1994,25.0,5-9,185.0,Georgia Southern,K,8,0.0,2.0,3.0,Falcons,2019
+33,62.0,Austin Larkin,4/6/1995,24.0,6-3,265.0,Purdue,DE,2,0.0,0.0,0.0,Falcons,2019
+34,63.0,Chris Lindstrom,2/28/1997,22.0,6-3,307.0,Boston Col.,RG,5,5.0,0.0,3.0,Falcons,2019
+35,51.0,Alex Mack,11/19/1985,34.0,6-4,311.0,California,C,16,16.0,10.0,8.0,Falcons,2019
+36,70.0,Jake Matthews,2/11/1992,27.0,6-5,309.0,Texas A&M,LT,16,16.0,5.0,8.0,Falcons,2019
+37,76.0,Kaleb McGary,2/22/1995,24.0,6-6,306.0,Washington,RT,16,16.0,0.0,8.0,Falcons,2019
+38,98.0,Takkarist McKinley,11/2/1995,24.0,6-2,260.0,UCLA,LDE,14,13.0,2.0,6.0,Falcons,2019
+39,85.0,Carson Meier,6/29/1995,24.0,6-5,254.0,Oklahoma,TE,1,1.0,0.0,0.0,Falcons,2019
+40,28.0,Jordan Miller,2/8/1997,22.0,6-2,190.0,Washington,DB,10,0.0,0.0,1.0,Falcons,2019
+41,22.0,Keanu Neal,7/26/1995,24.0,6-0,211.0,Florida,DB,3,3.0,3.0,1.0,Falcons,2019
+42,41.0,Sharrod Neasman,10/14/1991,28.0,5-11,213.0,Florida Atlantic,DB,15,0.0,3.0,1.0,Falcons,2019
+43,26.0,Isaiah Oliver,9/30/1996,23.0,6-0,202.0,Colorado,LCB,16,16.0,1.0,5.0,Falcons,2019
+44,30.0,Qadree Ollison,9/8/1996,23.0,6-1,232.0,Pittsburgh,RB,8,0.0,0.0,0.0,Falcons,2019
+45,54.0,Foyesade Oluokun,8/2/1995,24.0,6-2,230.0,Yale,LB,16,3.0,1.0,3.0,Falcons,2019
+46,9.0,Kasey Redfern,9/26/1991,28.0,6-1,205.0,Wofford,P,3,0.0,2.0,0.0,Falcons,2019
+47,18.0,Calvin Ridley,12/20/1994,25.0,6-1,190.0,Alabama,WR,13,10.0,1.0,7.0,Falcons,2019
+48,42.0,Duke Riley,8/9/1994,25.0,6-1,227.0,LSU,LB,4,0.0,2.0,0.0,Falcons,2019
+49,2.0,Matt Ryan,5/17/1985,34.0,6-4,217.0,Boston Col.,QB,15,15.0,11.0,13.0,Falcons,2019
+50,74.0,Ty Sambrailo,3/10/1992,27.0,6-5,311.0,Colorado St.,T,13,0.0,4.0,1.0,Falcons,2019
+51,12.0,Mohamed Sanu,8/22/1989,30.0,6-2,210.0,Rutgers,WR,7,6.0,7.0,3.0,Falcons,2019
+52,8.0,Matt Schaub,6/25/1981,38.0,6-6,245.0,Virginia,QB,6,1.0,15.0,2.0,Falcons,2019
+53,71.0,Wes Schweitzer,9/11/1993,26.0,6-4,300.0,San Jose St.,LG,15,7.0,2.0,4.0,Falcons,2019
+54,94.0,Deadrin Senat,7/22/1994,25.0,6-1,305.0,South Florida,DT,2,0.0,1.0,0.0,Falcons,2019
+55,20.0,Kendall Sheffield,5/30/1996,23.0,5-10,212.0,Ohio St.,DB,16,11.0,0.0,3.0,Falcons,2019
+56,25.0,Ito Smith,9/11/1995,24.0,5-9,195.0,Southern Miss,RB,7,0.0,1.0,1.0,Falcons,2019
+57,40.0,Keith Smith,4/8/1992,27.0,6-0,240.0,San Jose St.,FB,16,5.0,5.0,0.0,Falcons,2019
+58,80.0,Luke Stocker,7/17/1988,31.0,6-5,253.0,Tennessee,TE,15,9.0,8.0,0.0,Falcons,2019
+59,43.0,Jamar Taylor,9/29/1990,29.0,5-11,192.0,Boise St.,DB,3,0.0,6.0,0.0,Falcons,2019
+60,52.0,Ahmad Thomas,12/15/1994,25.0,6-0,227.0,Oklahoma,DB,1,0.0,1.0,0.0,Falcons,2019
+61,21.0,Desmond Trufant,9/10/1990,29.0,6-0,190.0,Washington,RCB,9,9.0,6.0,3.0,Falcons,2019
+62,91.0,Jacob Tuioti-Mariner,7/25/1996,23.0,6-2,285.0,UCLA,DT,8,1.0,0.0,1.0,Falcons,2019
+63,75.0,John Wetzel,7/18/1991,28.0,6-7,328.0,Boston Col.,T,2,0.0,3.0,0.0,Falcons,2019
+64,39.0,D.J. White,9/9/1993,26.0,5-11,193.0,Georgia Tech,DB,1,0.0,3.0,0.0,Falcons,2019
+65,4.0,Matt Wile,6/20/1992,27.0,6-2,225.0,Michigan,P,2,0.0,3.0,0.0,Falcons,2019
+66,33.0,Blidi Wreh-Wilson,12/5/1989,30.0,6-1,190.0,Connecticut,DB,14,2.0,6.0,1.0,Falcons,2019
+67,17.0,Olamide Zaccheaus,7/23/1997,22.0,5-8,193.0,Virginia,WR,10,0.0,0.0,1.0,Falcons,2019
+68,,Team Total,,26.9,6-1.5,239.5,,,16,,3.8,,Falcons,2019

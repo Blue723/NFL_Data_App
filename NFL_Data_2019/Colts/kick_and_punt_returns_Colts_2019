@@ -1,9 +1,9 @@
-,No.,Team,Player,Age,Position,Games Played,Games Started,Punts Returned,Punts Return Yardage,Punts Returned for Touchdown,Longest Punt Return,Yards per Punt Return,Kickoff Returns,Yardage for Kickoffs Returned,Kickoffs Returned for a Touchdown,Longest Kickoff Return,Yards per Kickoff Return,All-purpose Yards,Year
-0,80,Colts,Chester Rogers,25,WR,12,6,14,137,0,21,9.8,3,27,0,13,9.0,361,2019
-1,21,Colts,Nyheim Hines,23,RB,16,2,9,281,2,84,31.2,6,123,0,25,20.5,923,2019
-2,14,Colts,Zach Pascal,25,WR,16,13,0,0,0,0,,10,263,0,47,26.3,886,2019
-3,15,Colts,Parris Campbell,22,WR,7,3,0,0,0,0,,7,175,0,36,25.0,336,2019
-4,16,Colts,Ashton Dulin,22,WR,13,0,0,0,0,0,,3,90,0,46,30.0,107,2019
-5,83,Colts,Marcus Johnson,25,WR,8,6,0,0,0,0,,1,14,0,14,14.0,291,2019
-6,58,Colts,Bobby Okereke,23,RLB,16,8,1,0,0,0,0.0,0,0,0,0,,0,2019
-7,20,Colts,Jordan Wilkins,25,RB,14,1,0,0,0,0,,1,15,0,15,15.0,365,2019
+,No.,Player,Age,Position,Games Played,Games Started,Punts Returned,Punts Return Yardage,Punts Returned for Touchdown,Longest Punt Return,Yards per Punt Return,Kickoff Returns,Yardage for Kickoffs Returned,Kickoffs Returned for a Touchdown,Longest Kickoff Return,Yards per Kickoff Return,All-purpose Yards,Team,Year
+80,80,Chester Rogers,25,WR,12,6,14,137,0,21,9.8,3,27,0,13,9.0,361,Colts,2019
+21,21,Nyheim Hines,23,RB,16,2,9,281,2,84,31.2,6,123,0,25,20.5,923,Colts,2019
+14,14,Zach Pascal,25,WR,16,13,0,0,0,0,0.0,10,263,0,47,26.3,886,Colts,2019
+15,15,Parris Campbell,22,WR,7,3,0,0,0,0,0.0,7,175,0,36,25.0,336,Colts,2019
+16,16,Ashton Dulin,22,WR,13,0,0,0,0,0,0.0,3,90,0,46,30.0,107,Colts,2019
+83,83,Marcus Johnson,25,WR,8,6,0,0,0,0,0.0,1,14,0,14,14.0,291,Colts,2019
+58,58,Bobby Okereke,23,RLB,16,8,1,0,0,0,0.0,0,0,0,0,0.0,0,Colts,2019
+20,20,Jordan Wilkins,25,RB,14,1,0,0,0,0,0.0,1,15,0,15,15.0,365,Colts,2019

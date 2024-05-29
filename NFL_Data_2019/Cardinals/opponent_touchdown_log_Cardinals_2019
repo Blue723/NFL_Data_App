@@ -1,53 +1,53 @@
-,Rank,Team,Date,Opponent,Win/Loss,Score,Quarter,Distance,Type,Detail,Year
-0,1,Cardinals,09/08/2019,DET,T, 27-27,2,47.0,pass,Danny Amendola,2019
-1,2,Cardinals,09/08/2019,DET,T, 27-27,2,9.0,pass,Kenny Golladay,2019
-2,3,Cardinals,09/08/2019,DET,T, 27-27,4,23.0,pass,T.J. Hockenson,2019
-3,4,Cardinals,09/15/2019,BAL,Loss, 17-23,1,27.0,pass,Mark Andrews,2019
-4,5,Cardinals,09/15/2019,BAL,Loss, 17-23,2,1.0,pass,Hayden Hurst,2019
-5,6,Cardinals,09/22/2019,CAR,Loss, 20-38,2,5.0,pass,Curtis Samuel,2019
-6,7,Cardinals,09/22/2019,CAR,Loss, 20-38,2,52.0,pass,D.J. Moore,2019
-7,8,Cardinals,09/22/2019,CAR,Loss, 20-38,3,3.0,pass,Greg Olsen,2019
-8,9,Cardinals,09/22/2019,CAR,Loss, 20-38,3,76.0,rush,Christian McCaffrey,2019
-9,10,Cardinals,09/22/2019,CAR,Loss, 20-38,4,3.0,pass,Greg Olsen,2019
-10,11,Cardinals,09/29/2019,SEA,Loss, 10-27,1,27.0,interception,Jadeveon Clowney,2019
-11,12,Cardinals,09/29/2019,SEA,Loss, 10-27,2,9.0,pass,Will Dissly,2019
-12,13,Cardinals,09/29/2019,SEA,Loss, 10-27,4,9.0,rush,C.J. Prosise,2019
-13,14,Cardinals,10/06/2019,CIN,Win, 26-23,4,2.0,pass,Auden Tate,2019
-14,15,Cardinals,10/06/2019,CIN,Win, 26-23,4,42.0,pass,Tyler Boyd,2019
-15,16,Cardinals,10/13/2019,ATL,Win, 34-33,1,9.0,pass,Calvin Ridley,2019
-16,17,Cardinals,10/13/2019,ATL,Win, 34-33,3,7.0,pass,Devonta Freeman,2019
-17,18,Cardinals,10/13/2019,ATL,Win, 34-33,4,6.0,pass,Austin Hooper,2019
-18,19,Cardinals,10/13/2019,ATL,Win, 34-33,4,12.0,pass,Devonta Freeman,2019
-19,20,Cardinals,10/20/2019,NYG,Win, 27-21,2,28.0,pass,Rhett Ellison,2019
-20,21,Cardinals,10/20/2019,NYG,Win, 27-21,2,,blocked punt,Elijhaa Penny,2019
-21,22,Cardinals,10/20/2019,NYG,Win, 27-21,4,7.0,rush,Saquon Barkley,2019
-22,23,Cardinals,10/27/2019,NOR,Loss, 9-31,2,8.0,rush,Latavius Murray,2019
-23,24,Cardinals,10/27/2019,NOR,Loss, 9-31,3,15.0,pass,Latavius Murray,2019
-24,25,Cardinals,10/27/2019,NOR,Loss, 9-31,4,5.0,pass,Taysom Hill,2019
-25,26,Cardinals,10/27/2019,NOR,Loss, 9-31,4,9.0,pass,Michael Thomas,2019
-26,27,Cardinals,10/31/2019,SFO,Loss, 25-28,1,30.0,pass,George Kittle,2019
-27,28,Cardinals,10/31/2019,SFO,Loss, 25-28,2,7.0,pass,Kendrick Bourne,2019
-28,29,Cardinals,10/31/2019,SFO,Loss, 25-28,2,1.0,pass,Emmanuel Sanders,2019
-29,30,Cardinals,10/31/2019,SFO,Loss, 25-28,3,21.0,pass,Dante Pettis,2019
-30,31,Cardinals,11/10/2019,TAM,Loss, 27-30,1,7.0,rush,Ronald Jones II,2019
-31,32,Cardinals,11/10/2019,TAM,Loss, 27-30,2,10.0,pass,O.J. Howard,2019
-32,33,Cardinals,11/10/2019,TAM,Loss, 27-30,4,1.0,rush,Peyton Barber,2019
-33,34,Cardinals,11/17/2019,SFO,Loss, 26-36,2,4.0,pass,Ross Dwelley,2019
-34,35,Cardinals,11/17/2019,SFO,Loss, 26-36,3,5.0,pass,Ross Dwelley,2019
-35,36,Cardinals,11/17/2019,SFO,Loss, 26-36,4,2.0,pass,Kendrick Bourne,2019
-36,37,Cardinals,11/17/2019,SFO,Loss, 26-36,4,25.0,pass,Jeff Wilson,2019
-37,38,Cardinals,11/17/2019,SFO,Loss, 26-36,4,5.0,fumble,D.J. Reed,2019
-38,39,Cardinals,12/01/2019,LAR,Loss, 7-34,2,2.0,pass,Tyler Higbee,2019
-39,40,Cardinals,12/01/2019,LAR,Loss, 7-34,2,1.0,rush,Todd Gurley,2019
-40,41,Cardinals,12/01/2019,LAR,Loss, 7-34,3,10.0,pass,Cooper Kupp,2019
-41,42,Cardinals,12/01/2019,LAR,Loss, 7-34,3,31.0,interception,Taylor Rapp,2019
-42,43,Cardinals,12/08/2019,PIT,Loss, 17-23,1,85.0,punt,Diontae Johnson,2019
-43,44,Cardinals,12/08/2019,PIT,Loss, 17-23,3,2.0,pass,Diontae Johnson,2019
-44,45,Cardinals,12/15/2019,CLE,Win, 38-24,2,33.0,rush,Nick Chubb,2019
-45,46,Cardinals,12/15/2019,CLE,Win, 38-24,3,2.0,pass,Ricky Seals-Jones,2019
-46,47,Cardinals,12/15/2019,CLE,Win, 38-24,4,1.0,pass,Ricky Seals-Jones,2019
-47,48,Cardinals,12/22/2019,SEA,Win, 27-13,1,3.0,pass,Nick Bellore,2019
-48,49,Cardinals,12/29/2019,LAR,Loss, 24-31,2,3.0,rush,Malcolm Brown,2019
-49,50,Cardinals,12/29/2019,LAR,Loss, 24-31,2,6.0,pass,Cooper Kupp,2019
-50,51,Cardinals,12/29/2019,LAR,Loss, 24-31,4,4.0,pass,Tyler Higbee,2019
-51,52,Cardinals,12/29/2019,LAR,Loss, 24-31,4,11.0,pass,Robert Woods,2019
+,Rank,Team,Date,Opponent,Win/Loss,Home_Score,Opponenet_Score,Quarter,Distance,Type,Detail
+1,1,Cardinals,2019-09-08,DET,T,27,27,2,47,pass,Danny Amendola
+2,2,Cardinals,2019-09-08,DET,T,27,27,2,9,pass,Kenny Golladay
+3,3,Cardinals,2019-09-08,DET,T,27,27,4,23,pass,T.J. Hockenson
+4,4,Cardinals,2019-09-15,BAL,Loss,17,23,1,27,pass,Mark Andrews
+5,5,Cardinals,2019-09-15,BAL,Loss,17,23,2,1,pass,Hayden Hurst
+6,6,Cardinals,2019-09-22,CAR,Loss,20,38,2,5,pass,Curtis Samuel
+7,7,Cardinals,2019-09-22,CAR,Loss,20,38,2,52,pass,D.J. Moore
+8,8,Cardinals,2019-09-22,CAR,Loss,20,38,3,3,pass,Greg Olsen
+9,9,Cardinals,2019-09-22,CAR,Loss,20,38,3,76,rush,Christian McCaffrey
+10,10,Cardinals,2019-09-22,CAR,Loss,20,38,4,3,pass,Greg Olsen
+11,11,Cardinals,2019-09-29,SEA,Loss,10,27,1,27,interception,Jadeveon Clowney
+12,12,Cardinals,2019-09-29,SEA,Loss,10,27,2,9,pass,Will Dissly
+13,13,Cardinals,2019-09-29,SEA,Loss,10,27,4,9,rush,C.J. Prosise
+14,14,Cardinals,2019-10-06,CIN,Win,26,23,4,2,pass,Auden Tate
+15,15,Cardinals,2019-10-06,CIN,Win,26,23,4,42,pass,Tyler Boyd
+16,16,Cardinals,2019-10-13,ATL,Win,34,33,1,9,pass,Calvin Ridley
+17,17,Cardinals,2019-10-13,ATL,Win,34,33,3,7,pass,Devonta Freeman
+18,18,Cardinals,2019-10-13,ATL,Win,34,33,4,6,pass,Austin Hooper
+19,19,Cardinals,2019-10-13,ATL,Win,34,33,4,12,pass,Devonta Freeman
+20,20,Cardinals,2019-10-20,NYG,Win,27,21,2,28,pass,Rhett Ellison
+21,21,Cardinals,2019-10-20,NYG,Win,27,21,2,0,blocked punt,Elijhaa Penny
+22,22,Cardinals,2019-10-20,NYG,Win,27,21,4,7,rush,Saquon Barkley
+23,23,Cardinals,2019-10-27,NOR,Loss,9,31,2,8,rush,Latavius Murray
+24,24,Cardinals,2019-10-27,NOR,Loss,9,31,3,15,pass,Latavius Murray
+25,25,Cardinals,2019-10-27,NOR,Loss,9,31,4,5,pass,Taysom Hill
+26,26,Cardinals,2019-10-27,NOR,Loss,9,31,4,9,pass,Michael Thomas
+27,27,Cardinals,2019-10-31,SFO,Loss,25,28,1,30,pass,George Kittle
+28,28,Cardinals,2019-10-31,SFO,Loss,25,28,2,7,pass,Kendrick Bourne
+29,29,Cardinals,2019-10-31,SFO,Loss,25,28,2,1,pass,Emmanuel Sanders
+30,30,Cardinals,2019-10-31,SFO,Loss,25,28,3,21,pass,Dante Pettis
+31,31,Cardinals,2019-11-10,TAM,Loss,27,30,1,7,rush,Ronald Jones II
+32,32,Cardinals,2019-11-10,TAM,Loss,27,30,2,10,pass,O.J. Howard
+33,33,Cardinals,2019-11-10,TAM,Loss,27,30,4,1,rush,Peyton Barber
+34,34,Cardinals,2019-11-17,SFO,Loss,26,36,2,4,pass,Ross Dwelley
+35,35,Cardinals,2019-11-17,SFO,Loss,26,36,3,5,pass,Ross Dwelley
+36,36,Cardinals,2019-11-17,SFO,Loss,26,36,4,2,pass,Kendrick Bourne
+37,37,Cardinals,2019-11-17,SFO,Loss,26,36,4,25,pass,Jeff Wilson
+38,38,Cardinals,2019-11-17,SFO,Loss,26,36,4,5,fumble,D.J. Reed
+39,39,Cardinals,2019-12-01,LAR,Loss,7,34,2,2,pass,Tyler Higbee
+40,40,Cardinals,2019-12-01,LAR,Loss,7,34,2,1,rush,Todd Gurley
+41,41,Cardinals,2019-12-01,LAR,Loss,7,34,3,10,pass,Cooper Kupp
+42,42,Cardinals,2019-12-01,LAR,Loss,7,34,3,31,interception,Taylor Rapp
+43,43,Cardinals,2019-12-08,PIT,Loss,17,23,1,85,punt,Diontae Johnson
+44,44,Cardinals,2019-12-08,PIT,Loss,17,23,3,2,pass,Diontae Johnson
+45,45,Cardinals,2019-12-15,CLE,Win,38,24,2,33,rush,Nick Chubb
+46,46,Cardinals,2019-12-15,CLE,Win,38,24,3,2,pass,Ricky Seals-Jones
+47,47,Cardinals,2019-12-15,CLE,Win,38,24,4,1,pass,Ricky Seals-Jones
+48,48,Cardinals,2019-12-22,SEA,Win,27,13,1,3,pass,Nick Bellore
+49,49,Cardinals,2019-12-29,LAR,Loss,24,31,2,3,rush,Malcolm Brown
+50,50,Cardinals,2019-12-29,LAR,Loss,24,31,2,6,pass,Cooper Kupp
+51,51,Cardinals,2019-12-29,LAR,Loss,24,31,4,4,pass,Tyler Higbee
+52,52,Cardinals,2019-12-29,LAR,Loss,24,31,4,11,pass,Robert Woods

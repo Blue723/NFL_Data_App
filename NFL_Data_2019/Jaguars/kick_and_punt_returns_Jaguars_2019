@@ -1,5 +1,5 @@
-,No.,Team,Player,Age,Position,Games Played,Games Started,Punts Returned,Punts Return Yardage,Punts Returned for Touchdown,Longest Punt Return,Yards per Punt Return,Kickoff Returns,Yardage for Kickoffs Returned,Kickoffs Returned for a Touchdown,Longest Kickoff Return,Yards per Kickoff Return,All-purpose Yards,Year
-0,12,Jaguars,Dede Westbrook,26,WR,15,11,23,132,0,43,5.7,0,0,0,0,,819,2019
-1,13,Jaguars,Michael Walker,23,WR,7,0,3,13,0,7,4.3,18,411,0,35,22.8,439,2019
-2,24,Jaguars,Tyler Ervin,26,RB,6,0,5,9,0,6,1.8,5,107,0,25,21.4,116,2019
-3,84,Jaguars,Keelan Cole,26,WR,16,1,0,0,0,0,,3,110,0,59,36.7,477,2019
+,No.,Player,Age,Position,Games Played,Games Started,Punts Returned,Punts Return Yardage,Punts Returned for Touchdown,Longest Punt Return,Yards per Punt Return,Kickoff Returns,Yardage for Kickoffs Returned,Kickoffs Returned for a Touchdown,Longest Kickoff Return,Yards per Kickoff Return,All-purpose Yards,Team,Year
+12,12,Dede Westbrook,26,WR,15,11,23,132,0,43,5.7,0,0,0,0,0.0,819,Jaguars,2019
+13,13,Michael Walker,23,WR,7,0,3,13,0,7,4.3,18,411,0,35,22.8,439,Jaguars,2019
+24,24,Tyler Ervin,26,RB,6,0,5,9,0,6,1.8,5,107,0,25,21.4,116,Jaguars,2019
+84,84,Keelan Cole,26,WR,16,1,0,0,0,0,0.0,3,110,0,59,36.7,477,Jaguars,2019

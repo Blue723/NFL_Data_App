@@ -1,34 +1,34 @@
-,Rank,Team,Date,Opponent,Win/Loss,Score,Quarter,Distance,Type,Detail,Year
-0,1,Bears,09/05/2019,GNB,Loss, 3-10,2,8,pass,Jimmy Graham,2019
-1,2,Bears,09/15/2019,DEN,Win, 16-14,4,7,pass,Emmanuel Sanders,2019
-2,3,Bears,09/23/2019,WAS,Win, 31-15,3,15,pass,Terry McLaurin,2019
-3,4,Bears,09/23/2019,WAS,Win, 31-15,4,2,pass,Paul Richardson,2019
-4,5,Bears,09/29/2019,MIN,Win, 16-6,4,2,rush,Dalvin Cook,2019
-5,6,Bears,10/06/2019,OAK,Loss, 21-24,2,12,rush,Josh Jacobs,2019
-6,7,Bears,10/06/2019,OAK,Loss, 21-24,2,3,rush,DeAndre Washington,2019
-7,8,Bears,10/06/2019,OAK,Loss, 21-24,4,2,rush,Josh Jacobs,2019
-8,9,Bears,10/20/2019,NOR,Loss, 25-36,1,7,pass,Josh Hill,2019
-9,10,Bears,10/20/2019,NOR,Loss, 25-36,3,3,rush,Latavius Murray,2019
-10,11,Bears,10/20/2019,NOR,Loss, 25-36,3,4,pass,Taysom Hill,2019
-11,12,Bears,10/20/2019,NOR,Loss, 25-36,4,4,rush,Latavius Murray,2019
-12,13,Bears,10/27/2019,LAC,Loss, 16-17,2,19,rush,Melvin Gordon,2019
-13,14,Bears,10/27/2019,LAC,Loss, 16-17,4,11,pass,Austin Ekeler,2019
-14,15,Bears,11/03/2019,PHI,Loss, 14-22,2,25,pass,Zach Ertz,2019
-15,16,Bears,11/03/2019,PHI,Loss, 14-22,3,13,rush,Jordan Howard,2019
-16,17,Bears,11/10/2019,DET,Win, 20-13,4,47,pass,Kenny Golladay,2019
-17,18,Bears,11/17/2019,LAR,Loss, 7-17,2,1,rush,Todd Gurley,2019
-18,19,Bears,11/17/2019,LAR,Loss, 7-17,4,5,rush,Malcolm Brown,2019
-19,20,Bears,11/24/2019,NYG,Win, 19-14,2,3,pass,Kaden Smith,2019
-20,21,Bears,11/24/2019,NYG,Win, 19-14,4,23,pass,Golden Tate,2019
-21,22,Bears,11/28/2019,DET,Win, 24-20,1,75,pass,Kenny Golladay,2019
-22,23,Bears,11/28/2019,DET,Win, 24-20,1,8,pass,Marvin Jones,2019
-23,24,Bears,12/05/2019,DAL,Win, 31-24,1,2,rush,Ezekiel Elliott,2019
-24,25,Bears,12/05/2019,DAL,Win, 31-24,4,2,rush,Ezekiel Elliott,2019
-25,26,Bears,12/05/2019,DAL,Win, 31-24,4,19,pass,Amari Cooper,2019
-26,27,Bears,12/15/2019,GNB,Loss, 13-21,1,29,pass,Davante Adams,2019
-27,28,Bears,12/15/2019,GNB,Loss, 13-21,3,21,rush,Aaron Jones,2019
-28,29,Bears,12/15/2019,GNB,Loss, 13-21,3,2,rush,Aaron Jones,2019
-29,30,Bears,12/22/2019,KAN,Loss, 3-26,1,12,rush,Patrick Mahomes,2019
-30,31,Bears,12/22/2019,KAN,Loss, 3-26,2,6,pass,Travis Kelce,2019
-31,32,Bears,12/22/2019,KAN,Loss, 3-26,4,14,pass,Damien Williams,2019
-32,33,Bears,12/29/2019,MIN,Win, 21-19,4,1,rush,Mike Boone,2019
+,Rank,Team,Date,Opponent,Win/Loss,Home_Score,Opponenet_Score,Quarter,Distance,Type,Detail
+1,1,Bears,2019-09-05,GNB,Loss,3,10,2,8,pass,Jimmy Graham
+2,2,Bears,2019-09-15,DEN,Win,16,14,4,7,pass,Emmanuel Sanders
+3,3,Bears,2019-09-23,WAS,Win,31,15,3,15,pass,Terry McLaurin
+4,4,Bears,2019-09-23,WAS,Win,31,15,4,2,pass,Paul Richardson
+5,5,Bears,2019-09-29,MIN,Win,16,6,4,2,rush,Dalvin Cook
+6,6,Bears,2019-10-06,OAK,Loss,21,24,2,12,rush,Josh Jacobs
+7,7,Bears,2019-10-06,OAK,Loss,21,24,2,3,rush,DeAndre Washington
+8,8,Bears,2019-10-06,OAK,Loss,21,24,4,2,rush,Josh Jacobs
+9,9,Bears,2019-10-20,NOR,Loss,25,36,1,7,pass,Josh Hill
+10,10,Bears,2019-10-20,NOR,Loss,25,36,3,3,rush,Latavius Murray
+11,11,Bears,2019-10-20,NOR,Loss,25,36,3,4,pass,Taysom Hill
+12,12,Bears,2019-10-20,NOR,Loss,25,36,4,4,rush,Latavius Murray
+13,13,Bears,2019-10-27,LAC,Loss,16,17,2,19,rush,Melvin Gordon
+14,14,Bears,2019-10-27,LAC,Loss,16,17,4,11,pass,Austin Ekeler
+15,15,Bears,2019-11-03,PHI,Loss,14,22,2,25,pass,Zach Ertz
+16,16,Bears,2019-11-03,PHI,Loss,14,22,3,13,rush,Jordan Howard
+17,17,Bears,2019-11-10,DET,Win,20,13,4,47,pass,Kenny Golladay
+18,18,Bears,2019-11-17,LAR,Loss,7,17,2,1,rush,Todd Gurley
+19,19,Bears,2019-11-17,LAR,Loss,7,17,4,5,rush,Malcolm Brown
+20,20,Bears,2019-11-24,NYG,Win,19,14,2,3,pass,Kaden Smith
+21,21,Bears,2019-11-24,NYG,Win,19,14,4,23,pass,Golden Tate
+22,22,Bears,2019-11-28,DET,Win,24,20,1,75,pass,Kenny Golladay
+23,23,Bears,2019-11-28,DET,Win,24,20,1,8,pass,Marvin Jones
+24,24,Bears,2019-12-05,DAL,Win,31,24,1,2,rush,Ezekiel Elliott
+25,25,Bears,2019-12-05,DAL,Win,31,24,4,2,rush,Ezekiel Elliott
+26,26,Bears,2019-12-05,DAL,Win,31,24,4,19,pass,Amari Cooper
+27,27,Bears,2019-12-15,GNB,Loss,13,21,1,29,pass,Davante Adams
+28,28,Bears,2019-12-15,GNB,Loss,13,21,3,21,rush,Aaron Jones
+29,29,Bears,2019-12-15,GNB,Loss,13,21,3,2,rush,Aaron Jones
+30,30,Bears,2019-12-22,KAN,Loss,3,26,1,12,rush,Patrick Mahomes
+31,31,Bears,2019-12-22,KAN,Loss,3,26,2,6,pass,Travis Kelce
+32,32,Bears,2019-12-22,KAN,Loss,3,26,4,14,pass,Damien Williams
+33,33,Bears,2019-12-29,MIN,Win,21,19,4,1,rush,Mike Boone

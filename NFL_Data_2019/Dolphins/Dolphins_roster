@@ -1,86 +1,86 @@
-Player,No.,Team,Age,Pos,G,GS,Wt,Ht,College/Univ,BirthDate,Yrs,AV,Drafted (tm/rnd/yr),Salary
-Walt Aikens,35.0,Dolphins,28.0,DB,15,0.0,200.0,6-1,Liberty,6/19/1991,5,1.0,Miami Dolphins / 4th / 125th pick / 2014,"$1,400,000"
-Johnson Bademosi,24.0,Dolphins,29.0,DB,4,0.0,219.0,6-0,Stanford,7/23/1990,7,0.0,,"$2,500,000"
-Jerome Baker,55.0,Dolphins,23.0,ROLB/RILB,16,15.0,225.0,6-2,Ohio St.,12/25/1996,1,5.0,Miami Dolphins / 3rd / 73rd pick / 2018,"$654,000"
-Kalen Ballage,27.0,Dolphins,24.0,RB,12,6.0,231.0,6-2,Arizona St.,12/22/1995,1,1.0,Miami Dolphins / 4th / 131st pick / 2018,"$570,000"
-Vince Biegel,47.0,Dolphins,26.0,RILB,15,10.0,246.0,6-3,Wisconsin,7/22/1993,2,3.0,Green Bay Packers / 4th / 108th pick / 2017,
-Evan Boehm,76.0,Dolphins,26.0,RG,13,8.0,321.0,6-3,Missouri,8/19/1993,3,4.0,Arizona Cardinals / 4th / 128th pick / 2016,
-Nate Brooks,30.0,Dolphins,23.0,DB,3,2.0,192.0,6-0,North Texas,9/5/1996,Rook,1.0,,
-Evan Brown,68.0,Dolphins,23.0,C,3,0.0,320.0,6-2,SMU,9/16/1996,Rook,0.0,,
-Shaq Calhoun,62.0,Dolphins,23.0,RG,10,7.0,310.0,6-3,Mississippi St.,2/20/1996,Rook,3.0,,"$495,000"
-Tank Carradine,95.0,Dolphins,29.0,DE,1,0.0,267.0,6-4,Florida St.,2/18/1990,5,0.0,San Francisco 49ers / 2nd / 40th pick / 2013,"$805,000"
-Taco Charlton,96.0,Dolphins,25.0,LDE,10,5.0,270.0,6-6,Michigan,11/7/1994,2,2.0,Dallas Cowboys / 1st / 28th pick / 2017,
-Adrian Colbert,36.0,Dolphins,26.0,FS,6,5.0,205.0,6-2,Miami (FL),10/6/1993,2,2.0,San Francisco 49ers / 7th / 229th pick / 2017,
-Chandler Cox,38.0,Dolphins,23.0,RB,13,3.0,240.0,6-1,Auburn,7/29/1996,Rook,0.0,Miami Dolphins / 7th / 233rd pick / 2019,"$495,000"
-James Crawford,51.0,Dolphins,25.0,DE,3,0.0,239.0,6-2,Illinois,12/2/1994,1,0.0,,
-Xavier Crawford,29.0,Dolphins,24.0,DB,1,0.0,185.0,5-11,Central Michigan,12/10/1995,Rook,0.0,Houston Texans / 6th / 195th pick / 2019,
-Ken Crawley,32.0,Dolphins,26.0,DB,4,2.0,180.0,6-1,Colorado,2/8/1993,3,1.0,,
-Julie'n Davenport,70.0,Dolphins,24.0,LT,8,8.0,315.0,6-7,Bucknell,1/9/1995,2,3.0,Houston Texans / 4th / 130th pick / 2017,"$645,000"
-Jamal Davis II,59.0,Dolphins,24.0,DE,3,0.0,250.0,6-4,Akron,7/9/1995,Rook,0.0,,
-Jesse Davis,77.0,Dolphins,28.0,RT,15,15.0,318.0,6-6,Idaho,9/15/1991,2,6.0,,"$645,000"
-Trevor Davis,89.0,Dolphins,26.0,WR,3,0.0,188.0,6-1,California,7/4/1993,3,0.0,Green Bay Packers / 5th / 163rd pick / 2016,
-Michael Deiter,63.0,Dolphins,23.0,LG,16,15.0,315.0,6-6,Wisconsin,9/3/1996,Rook,6.0,Miami Dolphins / 3rd / 78th pick / 2019,"$495,000"
-Andrew Donnal,78.0,Dolphins,27.0,T,2,0.0,305.0,6-6,Iowa,3/3/1992,4,0.0,St. Louis Rams / 4th / 119th pick / 2015,
-Kenyan Drake,32.0,Dolphins,25.0,RB,6,2.0,216.0,6-1,Alabama,1/26/1994,3,2.0,Miami Dolphins / 3rd / 73rd pick / 2016,"$2,025,000"
-Samuel Eguavoen,49.0,Dolphins,26.0,LOLB,16,6.0,236.0,6-0,Texas Tech,2/22/1993,Rook,2.0,,"$495,000"
-Minkah Fitzpatrick,29.0,Dolphins,23.0,DB,2,2.0,207.0,6-1,Alabama,11/17/1996,1,1.0,Miami Dolphins / 1st / 11th pick / 2018,"$1,227,626"
-Ryan Fitzpatrick,14.0,Dolphins,37.0,QB,15,13.0,221.0,6-2,Harvard,11/24/1982,14,10.0,St. Louis Rams / 7th / 250th pick / 2005,"$1,500,000"
-Isaiah Ford,84.0,Dolphins,23.0,WR,8,0.0,194.0,6-2,Virginia Tech,2/9/1996,1,2.0,Miami Dolphins / 7th / 237th pick / 2017,"$570,000"
-Myles Gaskin,37.0,Dolphins,22.0,RB,7,0.0,199.0,5-10,Washington,2/15/1997,Rook,1.0,Miami Dolphins / 7th / 234th pick / 2019,"$495,000"
-Mike Gesicki,88.0,Dolphins,24.0,TE,16,5.0,245.0,6-6,Penn St.,10/3/1995,1,4.0,Miami Dolphins / 2nd / 42nd pick / 2018,"$780,542"
-Davon Godchaux,56.0,Dolphins,25.0,NT,16,16.0,330.0,6-3,LSU,11/11/1994,2,5.0,Miami Dolphins / 5th / 178th pick / 2017,"$645,000"
-Jakeem Grant,19.0,Dolphins,27.0,WR,10,2.0,170.0,5-6,Texas Tech,10/30/1992,3,2.0,Miami Dolphins / 6th / 186th pick / 2016,"$720,000"
-Matt Haack,2.0,Dolphins,25.0,P,16,0.0,205.0,6-0,Arizona St.,7/25/1994,2,2.0,,"$645,000"
-Charles Harris,90.0,Dolphins,24.0,LB,14,5.0,250.0,6-3,Missouri,3/6/1995,2,2.0,Miami Dolphins / 1st / 22nd pick / 2017,"$1,450,794"
-Trent Harris,97.0,Dolphins,24.0,DT,11,3.0,255.0,6-2,Miami (FL),9/17/1995,Rook,1.0,,
-Montre Hartage,41.0,Dolphins,22.0,DB,4,0.0,190.0,6-0,Northwestern,6/16/1997,Rook,0.0,,
-Tae Hayes,22.0,Dolphins,22.0,DB,2,0.0,188.0,5-9,Appalachian St.,8/19/1997,Rook,0.0,,
-Mack Hollins,86.0,Dolphins,26.0,WR,4,0.0,221.0,6-4,North Carolina,9/16/1993,2,0.0,Philadelphia Eagles / 4th / 118th pick / 2017,
-Xavien Howard,25.0,Dolphins,26.0,LCB,5,5.0,203.0,6-1,Baylor,7/4/1993,3,2.0,Miami Dolphins / 2nd / 38th pick / 2016,"$1,285,642"
-Allen Hurns,17.0,Dolphins,28.0,WR,14,7.0,195.0,6-3,Miami (FL),11/12/1991,5,3.0,,"$1,750,000"
-Danny Isidora,65.0,Dolphins,25.0,G,3,3.0,306.0,6-3,Miami (FL),6/5/1994,2,1.0,Minnesota Vikings / 5th / 180th pick / 2017,
-John Jenkins,95.0,Dolphins,30.0,LDE,16,5.0,327.0,6-3,"Mississippi Gulf Coast CC,Georgia",7/11/1989,6,2.0,New Orleans Saints / 3rd / 82nd pick / 2013,
-Gary Jennings Jr,16.0,Dolphins,22.0,WR,1,0.0,216.0,6-1,West Virginia,3/7/1997,Rook,0.0,Seattle Seahawks / 4th / 120th pick / 2019,
-Reshad Jones,20.0,Dolphins,31.0,DB,4,4.0,215.0,6-1,Georgia,2/25/1988,9,1.0,Miami Dolphins / 5th / 163rd pick / 2010,"$13,015,000"
-Daniel Kilgore,67.0,Dolphins,32.0,C,13,13.0,291.0,6-3,Appalachian St.,12/18/1987,8,6.0,San Francisco 49ers / 5th / 163rd pick / 2011,"$2,225,000"
-Deon Lacey,44.0,Dolphins,29.0,LB,16,0.0,235.0,6-3,West Alabama,7/18/1990,2,1.0,,
-Patrick Laird,42.0,Dolphins,24.0,RB,15,4.0,205.0,6-0,California,8/17/1995,Rook,3.0,,"$495,000"
-Chris Lammons,30.0,Dolphins,23.0,DB,12,0.0,190.0,5-10,South Carolina,1/31/1996,Rook,1.0,,"$495,000"
-Jonathan Ledbetter,98.0,Dolphins,22.0,DE,1,1.0,282.0,6-4,Georgia,9/12/1997,Rook,0.0,,"$495,000"
-Ryan Lewis,24.0,Dolphins,25.0,DB,8,3.0,185.0,6-0,Pittsburgh,4/15/1994,1,2.0,,
-Bobby McCain,28.0,Dolphins,26.0,FS,9,8.0,196.0,5-9,Memphis,8/18/1993,4,3.0,Miami Dolphins / 5th / 145th pick / 2015,"$5,600,000"
-Raekwon McMillan,52.0,Dolphins,24.0,LILB,13,12.0,250.0,6-2,Ohio St.,11/17/1995,1,3.0,Miami Dolphins / 2nd / 54th pick / 2017,"$892,049"
-Doug Middleton,36.0,Dolphins,26.0,DB,1,0.0,210.0,6-0,Appalachian St.,9/25/1993,3,0.0,,
-Avery Moss,93.0,Dolphins,25.0,LDE,11,8.0,271.0,6-3,Youngstown St.,11/16/1994,2,2.0,New York Giants / 5th / 167th pick / 2017,
-Calvin Munson,48.0,Dolphins,25.0,LB,2,2.0,240.0,6-1,San Diego St.,12/27/1994,2,1.0,,
-Nik Needham,40.0,Dolphins,23.0,RCB,12,11.0,196.0,6-1,Texas-El Paso,11/4/1996,Rook,5.0,,
-Robert Nkemdiche,92.0,Dolphins,25.0,DT,2,0.0,296.0,6-3,Mississippi,9/19/1994,3,0.0,Arizona Cardinals / 1st / 29th pick / 2016,"$720,000"
-Nick O'Leary,83.0,Dolphins,27.0,TE,7,2.0,252.0,6-3,Florida St.,8/31/1992,4,0.0,Buffalo Bills / 6th / 194th pick / 2015,"$1,000,000"
-Adam Pankey,78.0,Dolphins,25.0,G,2,1.0,313.0,6-5,West Virginia,2/2/1994,2,0.0,,
-DeVante Parker,11.0,Dolphins,26.0,WR,16,14.0,215.0,6-3,Louisville,1/20/1993,4,9.0,Miami Dolphins / 1st / 14th pick / 2015,"$3,500,000"
-Steven Parker,26.0,Dolphins,24.0,DB,14,4.0,210.0,6-1,Oklahoma,12/14/1995,Rook,3.0,,
-Taybor Pepper,46.0,Dolphins,25.0,LS,16,0.0,245.0,6-4,Michigan St.,5/28/1994,2,1.0,,
-Samaje Perine,29.0,Dolphins,24.0,RB,1,0.0,236.0,5-10,Oklahoma,9/16/1995,2,0.0,Washington Redskins / 4th / 114th pick / 2017,
-Jamal Perry,33.0,Dolphins,25.0,DB,14,6.0,182.0,5-10,Iowa St.,10/23/1994,Rook,3.0,,"$495,000"
-Isaiah Prince,72.0,Dolphins,22.0,T,4,2.0,305.0,6-7,Ohio St.,7/29/1997,Rook,1.0,Miami Dolphins / 6th / 202nd pick / 2019,"$495,000"
-Chris Reed,64.0,Dolphins,27.0,T,5,1.0,314.0,6-3,Minnesota St.,7/22/1992,3,1.0,,"$1,000,000"
-Josh Rosen,3.0,Dolphins,22.0,QB,6,3.0,226.0,6-4,UCLA,2/10/1997,1,1.0,Arizona Cardinals / 1st / 10th pick / 2018,"$570,000"
-Eric Rowe,21.0,Dolphins,27.0,SS,16,15.0,205.0,6-1,Utah,10/3/1992,4,6.0,Philadelphia Eagles / 2nd / 47th pick / 2015,"$1,375,000"
-Jason Sanders,7.0,Dolphins,24.0,K,16,0.0,195.0,5-11,New Mexico,11/16/1995,1,2.0,Miami Dolphins / 7th / 229th pick / 2018,"$570,000"
-Marcus Sherels,48.0,Dolphins,32.0,DB,5,0.0,175.0,5-10,Minnesota,9/30/1987,9,1.0,,
-Zach Sieler,92.0,Dolphins,24.0,DE,3,1.0,300.0,6-6,Ferris St.,9/7/1995,1,0.0,Baltimore Ravens / 7th / 238th pick / 2018,
-Durham Smythe,81.0,Dolphins,24.0,TE,16,14.0,246.0,6-6,Notre Dame,8/9/1995,1,0.0,Miami Dolphins / 4th / 123rd pick / 2018,"$570,000"
-Linden Stephens,32.0,Dolphins,24.0,DB,3,0.0,193.0,6-0,Cincinnati,3/21/1995,Rook,0.0,,
-Keaton Sutherland,74.0,Dolphins,22.0,G/C,3,2.0,315.0,6-5,Texas A&M,2/12/1997,Rook,1.0,,
-De'Lance Turner,34.0,Dolphins,24.0,RB,8,0.0,214.0,5-11,Alcorn St.,8/23/1995,1,0.0,,
-Andrew Van Ginkel,43.0,Dolphins,24.0,LB,6,1.0,242.0,6-4,Wisconsin,7/1/1995,Rook,1.0,Miami Dolphins / 5th / 151st pick / 2019,"$495,000"
-Clive Walford,87.0,Dolphins,28.0,TE,7,3.0,252.0,6-4,Miami (FL),10/1/1991,4,0.0,Oakland Raiders / 3rd / 68th pick / 2015,"$720,000"
-Mark Walton,22.0,Dolphins,22.0,RB,7,4.0,200.0,5-10,Miami (FL),3/29/1997,1,2.0,Cincinnati Bengals / 4th / 112th pick / 2018,"$495,000"
-J'Marcus Webb,61.0,Dolphins,31.0,LT,14,8.0,320.0,6-7,"Texas,Navarro,West Texas A&M",8/8/1988,9,4.0,Chicago Bears / 7th / 218th pick / 2010,
-Ken Webster,31.0,Dolphins,23.0,LCB,8,5.0,202.0,5-11,Mississippi,6/19/1996,Rook,2.0,New England Patriots / 7th / 252nd pick / 2019,
-Christian Wilkins,94.0,Dolphins,24.0,RDE,16,14.0,310.0,6-4,Clemson,12/20/1995,Rook,5.0,Miami Dolphins / 1st / 13th pick / 2019,"$495,000"
-Preston Williams,18.0,Dolphins,22.0,WR,8,7.0,220.0,6-5,Colorado St.,3/27/1997,Rook,3.0,,"$495,000"
-Gerald Willis,53.0,Dolphins,24.0,DT,2,0.0,300.0,6-2,Miami (FL),8/23/1995,Rook,0.0,,
-Albert Wilson,15.0,Dolphins,27.0,WR,13,4.0,195.0,5-9,Georgia St.,7/12/1992,5,3.0,,"$6,975,000"
-Zach Zenner,22.0,Dolphins,28.0,RB,1,0.0,224.0,5-11,South Dakota St.,9/13/1991,4,0.0,,
-Team Total,,Dolphins,25.3,,16,,240.3,6-1.9,,,2.2,,,
+,No.,Player,BirthDate,Age,Height,Weight,College/University,Position,Games_Played_in_Season,Games_Started_in_Season,NFL_Years,Player_Value,Team,Year
+0,35.0,Walt Aikens,6/19/1991,28.0,6-1,200.0,Liberty,DB,15,0.0,5.0,1.0,Dolphins,2019
+1,24.0,Johnson Bademosi,7/23/1990,29.0,6-0,219.0,Stanford,DB,4,0.0,7.0,0.0,Dolphins,2019
+2,55.0,Jerome Baker,12/25/1996,23.0,6-2,225.0,Ohio St.,ROLB/RILB,16,15.0,1.0,5.0,Dolphins,2019
+3,27.0,Kalen Ballage,12/22/1995,24.0,6-2,231.0,Arizona St.,RB,12,6.0,1.0,1.0,Dolphins,2019
+4,47.0,Vince Biegel,7/2/1993,26.0,6-3,246.0,Wisconsin,RILB,15,10.0,2.0,3.0,Dolphins,2019
+5,76.0,Evan Boehm,8/19/1993,26.0,6-3,321.0,Missouri,RG,13,8.0,3.0,4.0,Dolphins,2019
+6,30.0,Nate Brooks,9/5/1996,23.0,6-0,192.0,North Texas,DB,3,2.0,0.0,1.0,Dolphins,2019
+7,68.0,Evan Brown,9/16/1996,23.0,6-2,320.0,SMU,C,3,0.0,0.0,0.0,Dolphins,2019
+8,62.0,Shaq Calhoun,2/20/1996,23.0,6-3,310.0,Mississippi St.,RG,10,7.0,0.0,3.0,Dolphins,2019
+9,95.0,Tank Carradine,2/18/1990,29.0,6-4,267.0,Florida St.,DE,1,0.0,5.0,0.0,Dolphins,2019
+10,96.0,Taco Charlton,11/7/1994,25.0,6-6,270.0,Michigan,LDE,10,5.0,2.0,2.0,Dolphins,2019
+11,36.0,Adrian Colbert,10/6/1993,26.0,6-2,205.0,Miami (FL),FS,6,5.0,2.0,2.0,Dolphins,2019
+12,38.0,Chandler Cox,7/29/1996,23.0,6-1,240.0,Auburn,RB,13,3.0,0.0,0.0,Dolphins,2019
+13,51.0,James Crawford,12/2/1994,25.0,6-2,239.0,Illinois,DE,3,0.0,1.0,0.0,Dolphins,2019
+14,29.0,Xavier Crawford,12/10/1995,24.0,5-11,185.0,Central Michigan,DB,1,0.0,0.0,0.0,Dolphins,2019
+15,32.0,Ken Crawley,2/8/1993,26.0,6-1,180.0,Colorado,DB,4,2.0,3.0,1.0,Dolphins,2019
+16,70.0,Julie'n Davenport,1/9/1995,24.0,6-7,315.0,Bucknell,LT,8,8.0,2.0,3.0,Dolphins,2019
+17,59.0,Jamal Davis II,7/9/1995,24.0,6-4,250.0,Akron,DE,3,0.0,0.0,0.0,Dolphins,2019
+18,77.0,Jesse Davis,9/15/1991,28.0,6-6,318.0,Idaho,RT,15,15.0,2.0,6.0,Dolphins,2019
+19,89.0,Trevor Davis,7/4/1993,26.0,6-1,188.0,California,WR,3,0.0,3.0,0.0,Dolphins,2019
+20,63.0,Michael Deiter,9/3/1996,23.0,6-6,315.0,Wisconsin,LG,16,15.0,0.0,6.0,Dolphins,2019
+21,78.0,Andrew Donnal,3/3/1992,27.0,6-6,305.0,Iowa,T,2,0.0,4.0,0.0,Dolphins,2019
+22,32.0,Kenyan Drake,1/26/1994,25.0,6-1,216.0,Alabama,RB,6,2.0,3.0,2.0,Dolphins,2019
+23,49.0,Samuel Eguavoen,2/22/1993,26.0,6-0,236.0,Texas Tech,LOLB,16,6.0,0.0,2.0,Dolphins,2019
+24,29.0,Minkah Fitzpatrick,11/17/1996,23.0,6-1,207.0,Alabama,DB,2,2.0,1.0,1.0,Dolphins,2019
+25,14.0,Ryan Fitzpatrick,11/24/1982,37.0,6-2,221.0,Harvard,QB,15,13.0,14.0,10.0,Dolphins,2019
+26,84.0,Isaiah Ford,2/9/1996,23.0,6-2,194.0,Virginia Tech,WR,8,0.0,1.0,2.0,Dolphins,2019
+27,37.0,Myles Gaskin,2/15/1997,22.0,5-10,199.0,Washington,RB,7,0.0,0.0,1.0,Dolphins,2019
+28,88.0,Mike Gesicki,10/3/1995,24.0,6-6,245.0,Penn St.,TE,16,5.0,1.0,4.0,Dolphins,2019
+29,56.0,Davon Godchaux,11/11/1994,25.0,6-3,330.0,LSU,NT,16,16.0,2.0,5.0,Dolphins,2019
+30,19.0,Jakeem Grant,10/30/1992,27.0,5-6,170.0,Texas Tech,WR,10,2.0,3.0,2.0,Dolphins,2019
+31,2.0,Matt Haack,7/25/1994,25.0,6-0,205.0,Arizona St.,P,16,0.0,2.0,2.0,Dolphins,2019
+32,90.0,Charles Harris,3/6/1995,24.0,6-3,250.0,Missouri,LB,14,5.0,2.0,2.0,Dolphins,2019
+33,97.0,Trent Harris,9/17/1995,24.0,6-2,255.0,Miami (FL),DT,11,3.0,0.0,1.0,Dolphins,2019
+34,41.0,Montre Hartage,6/16/1997,22.0,6-0,190.0,Northwestern,DB,4,0.0,0.0,0.0,Dolphins,2019
+35,22.0,Tae Hayes,8/19/1997,22.0,5-9,188.0,Appalachian St.,DB,2,0.0,0.0,0.0,Dolphins,2019
+36,86.0,Mack Hollins,9/16/1993,26.0,6-4,221.0,North Carolina,WR,4,0.0,2.0,0.0,Dolphins,2019
+37,25.0,Xavien Howard,7/4/1993,26.0,6-1,203.0,Baylor,LCB,5,5.0,3.0,2.0,Dolphins,2019
+38,17.0,Allen Hurns,11/12/1991,28.0,6-3,195.0,Miami (FL),WR,14,7.0,5.0,3.0,Dolphins,2019
+39,65.0,Danny Isidora,6/5/1994,25.0,6-3,306.0,Miami (FL),G,3,3.0,2.0,1.0,Dolphins,2019
+40,95.0,John Jenkins,7/11/1989,30.0,6-3,327.0,"Mississippi Gulf Coast CC,Georgia",LDE,16,5.0,6.0,2.0,Dolphins,2019
+41,16.0,Gary Jennings Jr,3/7/1997,22.0,6-1,216.0,West Virginia,WR,1,0.0,0.0,0.0,Dolphins,2019
+42,20.0,Reshad Jones,2/25/1988,31.0,6-1,215.0,Georgia,DB,4,4.0,9.0,1.0,Dolphins,2019
+43,67.0,Daniel Kilgore,12/18/1987,32.0,6-3,291.0,Appalachian St.,C,13,13.0,8.0,6.0,Dolphins,2019
+44,44.0,Deon Lacey,7/18/1990,29.0,6-3,235.0,West Alabama,LB,16,0.0,2.0,1.0,Dolphins,2019
+45,42.0,Patrick Laird,8/17/1995,24.0,6-0,205.0,California,RB,15,4.0,0.0,3.0,Dolphins,2019
+46,30.0,Chris Lammons,1/31/1996,23.0,5-10,190.0,South Carolina,DB,12,0.0,0.0,1.0,Dolphins,2019
+47,98.0,Jonathan Ledbetter,9/12/1997,22.0,6-4,282.0,Georgia,DE,1,1.0,0.0,0.0,Dolphins,2019
+48,24.0,Ryan Lewis,4/15/1994,25.0,6-0,185.0,Pittsburgh,DB,8,3.0,1.0,2.0,Dolphins,2019
+49,28.0,Bobby McCain,8/18/1993,26.0,5-9,196.0,Memphis,FS,9,8.0,4.0,3.0,Dolphins,2019
+50,52.0,Raekwon McMillan,11/17/1996,23.0,6-2,250.0,Ohio St.,LILB,13,12.0,1.0,3.0,Dolphins,2019
+51,36.0,Doug Middleton,9/25/1993,26.0,6-0,210.0,Appalachian St.,DB,1,0.0,3.0,0.0,Dolphins,2019
+52,93.0,Avery Moss,11/16/1994,25.0,6-3,271.0,Youngstown St.,LDE,11,8.0,2.0,2.0,Dolphins,2019
+53,48.0,Calvin Munson,12/27/1994,25.0,6-1,240.0,San Diego St.,LB,2,2.0,2.0,1.0,Dolphins,2019
+54,40.0,Nik Needham,11/4/1996,23.0,6-1,196.0,Texas-El Paso,RCB,12,11.0,0.0,5.0,Dolphins,2019
+55,92.0,Robert Nkemdiche,9/19/1994,25.0,6-3,296.0,Mississippi,DT,2,0.0,3.0,0.0,Dolphins,2019
+56,83.0,Nick O'Leary,8/31/1992,27.0,6-3,252.0,Florida St.,TE,7,2.0,4.0,0.0,Dolphins,2019
+57,78.0,Adam Pankey,2/2/1994,25.0,6-5,313.0,West Virginia,G,2,1.0,2.0,0.0,Dolphins,2019
+58,11.0,DeVante Parker,1/20/1993,26.0,6-3,215.0,Louisville,WR,16,14.0,4.0,9.0,Dolphins,2019
+59,26.0,Steven Parker,12/14/1995,24.0,6-1,210.0,Oklahoma,DB,14,4.0,0.0,3.0,Dolphins,2019
+60,46.0,Taybor Pepper,5/28/1994,25.0,6-4,245.0,Michigan St.,LS,16,0.0,2.0,1.0,Dolphins,2019
+61,29.0,Samaje Perine,9/16/1995,24.0,5-10,236.0,Oklahoma,RB,1,0.0,2.0,0.0,Dolphins,2019
+62,33.0,Jamal Perry,10/23/1994,25.0,5-10,182.0,Iowa St.,DB,14,6.0,0.0,3.0,Dolphins,2019
+63,72.0,Isaiah Prince,7/29/1997,22.0,6-7,305.0,Ohio St.,T,4,2.0,0.0,1.0,Dolphins,2019
+64,64.0,Chris Reed,7/22/1992,27.0,6-3,314.0,Minnesota St.,T,5,1.0,3.0,1.0,Dolphins,2019
+65,3.0,Josh Rosen,2/10/1997,22.0,6-4,226.0,UCLA,QB,6,3.0,1.0,1.0,Dolphins,2019
+66,21.0,Eric Rowe,10/3/1992,27.0,6-1,205.0,Utah,SS,16,15.0,4.0,6.0,Dolphins,2019
+67,7.0,Jason Sanders,11/16/1995,24.0,5-11,195.0,New Mexico,K,16,0.0,1.0,2.0,Dolphins,2019
+68,48.0,Marcus Sherels,9/30/1987,32.0,5-10,175.0,Minnesota,DB,5,0.0,9.0,1.0,Dolphins,2019
+69,92.0,Zach Sieler,9/7/1995,24.0,6-6,300.0,Ferris St.,DE,3,1.0,1.0,0.0,Dolphins,2019
+70,81.0,Durham Smythe,8/9/1995,24.0,6-6,246.0,Notre Dame,TE,16,14.0,1.0,0.0,Dolphins,2019
+71,32.0,Linden Stephens,3/21/1995,24.0,6-0,193.0,Cincinnati,DB,3,0.0,0.0,0.0,Dolphins,2019
+72,74.0,Keaton Sutherland,2/12/1997,22.0,6-5,315.0,Texas A&M,G/C,3,2.0,0.0,1.0,Dolphins,2019
+73,34.0,De'Lance Turner,8/23/1995,24.0,5-11,214.0,Alcorn St.,RB,8,0.0,1.0,0.0,Dolphins,2019
+74,43.0,Andrew Van Ginkel,7/1/1995,24.0,6-4,242.0,Wisconsin,LB,6,1.0,0.0,1.0,Dolphins,2019
+75,87.0,Clive Walford,10/1/1991,28.0,6-4,252.0,Miami (FL),TE,7,3.0,4.0,0.0,Dolphins,2019
+76,22.0,Mark Walton,3/29/1997,22.0,5-10,200.0,Miami (FL),RB,7,4.0,1.0,2.0,Dolphins,2019
+77,61.0,J'Marcus Webb,8/8/1988,31.0,6-7,320.0,"Texas,Navarro,West Texas A&M",LT,14,8.0,9.0,4.0,Dolphins,2019
+78,31.0,Ken Webster,6/19/1996,23.0,5-11,202.0,Mississippi,LCB,8,5.0,0.0,2.0,Dolphins,2019
+79,94.0,Christian Wilkins,12/20/1995,24.0,6-4,310.0,Clemson,RDE,16,14.0,0.0,5.0,Dolphins,2019
+80,18.0,Preston Williams,3/27/1997,22.0,6-5,220.0,Colorado St.,WR,8,7.0,0.0,3.0,Dolphins,2019
+81,53.0,Gerald Willis,8/23/1995,24.0,6-2,300.0,Miami (FL),DT,2,0.0,0.0,0.0,Dolphins,2019
+82,15.0,Albert Wilson,7/12/1992,27.0,5-9,195.0,Georgia St.,WR,13,4.0,5.0,3.0,Dolphins,2019
+83,22.0,Zach Zenner,9/13/1991,28.0,5-11,224.0,South Dakota St.,RB,1,0.0,4.0,0.0,Dolphins,2019
+84,,Team Total,,25.2,6-1.9,240.3,,,16,,2.2,,Dolphins,2019

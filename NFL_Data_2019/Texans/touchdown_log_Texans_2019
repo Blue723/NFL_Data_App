@@ -1,47 +1,47 @@
-,Rank,Team,Date,Opponent,Win/Loss,Score,Quarter,Distance,Type,Detail,Year
-0,1,Texans,09/09/2019,NOR,Loss, 28-30,2,21,rush,Deshaun Watson,2019
-1,2,Texans,09/09/2019,NOR,Loss, 28-30,2,2,pass,DeAndre Hopkins,2019
-2,3,Texans,09/09/2019,NOR,Loss, 28-30,3,16,pass,DeAndre Hopkins,2019
-3,4,Texans,09/09/2019,NOR,Loss, 28-30,4,37,pass,Kenny Stills,2019
-4,5,Texans,09/15/2019,JAX,Win, 13-12,4,2,rush,Deshaun Watson,2019
-5,6,Texans,09/22/2019,LAC,Win, 27-20,2,16,pass,Darren Fells,2019
-6,7,Texans,09/22/2019,LAC,Win, 27-20,3,3,rush,Carlos Hyde,2019
-7,8,Texans,09/22/2019,LAC,Win, 27-20,3,15,pass,Jordan Akins,2019
-8,9,Texans,09/22/2019,LAC,Win, 27-20,4,53,pass,Jordan Akins,2019
-9,10,Texans,09/29/2019,CAR,Loss, 10-16,3,1,rush,Deshaun Watson,2019
-10,11,Texans,10/06/2019,ATL,Win, 53-32,1,6,pass,Will Fuller,2019
-11,12,Texans,10/06/2019,ATL,Win, 53-32,2,33,pass,Will Fuller,2019
-12,13,Texans,10/06/2019,ATL,Win, 53-32,3,1,rush,Carlos Hyde,2019
-13,14,Texans,10/06/2019,ATL,Win, 53-32,3,8,pass,Darren Fells,2019
-14,15,Texans,10/06/2019,ATL,Win, 53-32,4,12,pass,Darren Fells,2019
-15,16,Texans,10/06/2019,ATL,Win, 53-32,4,44,pass,Will Fuller,2019
-16,17,Texans,10/06/2019,ATL,Win, 53-32,4,79,interception,Tashaun Gipson,2019
-17,18,Texans,10/13/2019,KAN,Win, 31-24,2,11,pass,Duke Johnson,2019
-18,19,Texans,10/13/2019,KAN,Win, 31-24,2,2,rush,Carlos Hyde,2019
-19,20,Texans,10/13/2019,KAN,Win, 31-24,2,3,rush,Deshaun Watson,2019
-20,21,Texans,10/13/2019,KAN,Win, 31-24,4,1,rush,Deshaun Watson,2019
-21,22,Texans,10/20/2019,IND,Loss, 23-30,3,4,rush,Keke Coutee,2019
-22,23,Texans,10/20/2019,IND,Loss, 23-30,4,4,pass,DeAndre Hopkins,2019
-23,24,Texans,10/27/2019,OAK,Win, 27-24,1,12,pass,Duke Johnson,2019
-24,25,Texans,10/27/2019,OAK,Win, 27-24,4,4,pass,Darren Fells,2019
-25,26,Texans,10/27/2019,OAK,Win, 27-24,4,9,pass,Darren Fells,2019
-26,27,Texans,11/03/2019,JAX,Win, 26-3,2,1,pass,Darren Fells,2019
-27,28,Texans,11/03/2019,JAX,Win, 26-3,3,1,rush,Duke Johnson,2019
-28,29,Texans,11/03/2019,JAX,Win, 26-3,4,1,pass,DeAndre Hopkins,2019
-29,30,Texans,11/17/2019,BAL,Loss, 7-41,4,41,rush,Carlos Hyde,2019
-30,31,Texans,11/21/2019,IND,Win, 20-17,2,35,pass,DeAndre Hopkins,2019
-31,32,Texans,11/21/2019,IND,Win, 20-17,4,30,pass,DeAndre Hopkins,2019
-32,33,Texans,12/01/2019,NWE,Win, 28-22,1,14,pass,Duke Johnson,2019
-33,34,Texans,12/01/2019,NWE,Win, 28-22,2,13,pass,Darren Fells,2019
-34,35,Texans,12/01/2019,NWE,Win, 28-22,3,35,pass,Kenny Stills,2019
-35,36,Texans,12/01/2019,NWE,Win, 28-22,4,6,pass,Deshaun Watson,2019
-36,37,Texans,12/08/2019,DEN,Loss, 24-38,3,43,pass,DeAndre Hopkins,2019
-37,38,Texans,12/08/2019,DEN,Loss, 24-38,4,6,rush,Deshaun Watson,2019
-38,39,Texans,12/08/2019,DEN,Loss, 24-38,4,3,rush,Deshaun Watson,2019
-39,40,Texans,12/15/2019,TEN,Win, 24-21,2,12,pass,Kenny Stills,2019
-40,41,Texans,12/15/2019,TEN,Win, 24-21,2,16,pass,Kenny Stills,2019
-41,42,Texans,12/15/2019,TEN,Win, 24-21,4,10,rush,Carlos Hyde,2019
-42,43,Texans,12/21/2019,TAM,Win, 23-20,1,27,interception,Bradley Roby,2019
-43,44,Texans,12/21/2019,TAM,Win, 23-20,2,1,rush,Carlos Hyde,2019
-44,45,Texans,12/29/2019,TEN,Loss, 14-35,1,1,rush,Duke Johnson,2019
-45,46,Texans,12/29/2019,TEN,Loss, 14-35,3,1,rush,A.J. McCarron,2019
+,Rank,Team,Date,Opponent,Win/Loss,Home_Score,Opponenet_Score,Quarter,Distance,Type,Detail
+1,1,Texans,2019-09-09,NOR,Loss,28,30,2,21,rush,Deshaun Watson
+2,2,Texans,2019-09-09,NOR,Loss,28,30,2,2,pass,DeAndre Hopkins
+3,3,Texans,2019-09-09,NOR,Loss,28,30,3,16,pass,DeAndre Hopkins
+4,4,Texans,2019-09-09,NOR,Loss,28,30,4,37,pass,Kenny Stills
+5,5,Texans,2019-09-15,JAX,Win,13,12,4,2,rush,Deshaun Watson
+6,6,Texans,2019-09-22,LAC,Win,27,20,2,16,pass,Darren Fells
+7,7,Texans,2019-09-22,LAC,Win,27,20,3,3,rush,Carlos Hyde
+8,8,Texans,2019-09-22,LAC,Win,27,20,3,15,pass,Jordan Akins
+9,9,Texans,2019-09-22,LAC,Win,27,20,4,53,pass,Jordan Akins
+10,10,Texans,2019-09-29,CAR,Loss,10,16,3,1,rush,Deshaun Watson
+11,11,Texans,2019-10-06,ATL,Win,53,32,1,6,pass,Will Fuller
+12,12,Texans,2019-10-06,ATL,Win,53,32,2,33,pass,Will Fuller
+13,13,Texans,2019-10-06,ATL,Win,53,32,3,1,rush,Carlos Hyde
+14,14,Texans,2019-10-06,ATL,Win,53,32,3,8,pass,Darren Fells
+15,15,Texans,2019-10-06,ATL,Win,53,32,4,12,pass,Darren Fells
+16,16,Texans,2019-10-06,ATL,Win,53,32,4,44,pass,Will Fuller
+17,17,Texans,2019-10-06,ATL,Win,53,32,4,79,interception,Tashaun Gipson
+18,18,Texans,2019-10-13,KAN,Win,31,24,2,11,pass,Duke Johnson
+19,19,Texans,2019-10-13,KAN,Win,31,24,2,2,rush,Carlos Hyde
+20,20,Texans,2019-10-13,KAN,Win,31,24,2,3,rush,Deshaun Watson
+21,21,Texans,2019-10-13,KAN,Win,31,24,4,1,rush,Deshaun Watson
+22,22,Texans,2019-10-20,IND,Loss,23,30,3,4,rush,Keke Coutee
+23,23,Texans,2019-10-20,IND,Loss,23,30,4,4,pass,DeAndre Hopkins
+24,24,Texans,2019-10-27,OAK,Win,27,24,1,12,pass,Duke Johnson
+25,25,Texans,2019-10-27,OAK,Win,27,24,4,4,pass,Darren Fells
+26,26,Texans,2019-10-27,OAK,Win,27,24,4,9,pass,Darren Fells
+27,27,Texans,2019-11-03,JAX,Win,26,3,2,1,pass,Darren Fells
+28,28,Texans,2019-11-03,JAX,Win,26,3,3,1,rush,Duke Johnson
+29,29,Texans,2019-11-03,JAX,Win,26,3,4,1,pass,DeAndre Hopkins
+30,30,Texans,2019-11-17,BAL,Loss,7,41,4,41,rush,Carlos Hyde
+31,31,Texans,2019-11-21,IND,Win,20,17,2,35,pass,DeAndre Hopkins
+32,32,Texans,2019-11-21,IND,Win,20,17,4,30,pass,DeAndre Hopkins
+33,33,Texans,2019-12-01,NWE,Win,28,22,1,14,pass,Duke Johnson
+34,34,Texans,2019-12-01,NWE,Win,28,22,2,13,pass,Darren Fells
+35,35,Texans,2019-12-01,NWE,Win,28,22,3,35,pass,Kenny Stills
+36,36,Texans,2019-12-01,NWE,Win,28,22,4,6,pass,Deshaun Watson
+37,37,Texans,2019-12-08,DEN,Loss,24,38,3,43,pass,DeAndre Hopkins
+38,38,Texans,2019-12-08,DEN,Loss,24,38,4,6,rush,Deshaun Watson
+39,39,Texans,2019-12-08,DEN,Loss,24,38,4,3,rush,Deshaun Watson
+40,40,Texans,2019-12-15,TEN,Win,24,21,2,12,pass,Kenny Stills
+41,41,Texans,2019-12-15,TEN,Win,24,21,2,16,pass,Kenny Stills
+42,42,Texans,2019-12-15,TEN,Win,24,21,4,10,rush,Carlos Hyde
+43,43,Texans,2019-12-21,TAM,Win,23,20,1,27,interception,Bradley Roby
+44,44,Texans,2019-12-21,TAM,Win,23,20,2,1,rush,Carlos Hyde
+45,45,Texans,2019-12-29,TEN,Loss,14,35,1,1,rush,Duke Johnson
+46,46,Texans,2019-12-29,TEN,Loss,14,35,3,1,rush,A.J. McCarron

@@ -1,18 +1,18 @@
-,No.,Team,Player,Age,Position,Games Played,Games Started as an Offensive or Defensive Player,Rushing Attempts,Rushing Yards Gained,Rushing Touchdown,First Downs Rushing,Rushing Success Rate,Longest Rushing Attempt,Rushing Yards per Attempt,Rushing Yards per Game,Rushing Attempts per Game,Pass Targets,Receptions,Receiving Yards,Receiving Yards per Reception,Receiving Touchdowns,First Downs Receiving,Receiving Success Rate,Longest Reception,Receptions per Game,Receiving Yards per Game,Catch Per.,Receiving Yards per Target,Touches: Rushing Attempts and Receptions,Scrimmage Yards per Touch: Rushing + Receiving Yardage per Opportunity,Yards from Scrimmage: Receiving and Rushing Yards,Rushing and Receiving Touchdowns,Lost and Recovered Fumbles,Year
-0,26,Jets,Le'Veon Bell,27,RB,15,15,245,789,3,36,40.4,19,3.2,52.6,16.3,78,66,461,7.0,1,20,46.2,23,4.4,30.7,84.6,5.9,311,4.0,1250,4,1,2019
-1,29,Jets,Bilal Powell,31,RB,13,1,59,229,0,12,39.0,17,3.9,17.6,4.5,12,7,33,4.7,0,0,16.7,9,0.5,2.5,58.3,2.8,66,4.0,262,0,0,2019
-2,14,Jets,Sam Darnold,22,QB,13,13,33,62,2,6,27.3,24,1.9,4.8,2.5,0,0,0,,0,0,,0,,,0.0,,33,1.9,62,2,11,2019
-3,88,Jets,Ty Montgomery,26,WR,16,2,32,103,0,2,34.4,15,3.2,6.4,2.0,17,13,90,6.9,0,3,41.2,21,0.8,5.6,76.5,5.3,45,4.3,193,0,0,2019
-4,36,Jets,Josh Adams,23,RB,3,0,8,12,0,1,12.5,10,1.5,4.0,2.7,0,0,0,,0,0,,0,,,0.0,,8,1.5,12,0,0,2019
-5,17,Jets,Vyncint Smith,23,WR,13,4,3,52,1,3,100.0,20,17.3,4.0,0.2,31,17,225,13.2,0,11,45.2,37,1.3,17.3,54.8,7.3,20,13.9,277,1,1,2019
-6,82,Jets,Jamison Crowder,26,WR,16,12,1,4,0,0,100.0,4,4.0,0.3,0.1,122,78,833,10.7,6,41,47.5,41,4.9,52.1,63.9,6.8,79,10.6,837,6,0,2019
-7,11,Jets,Robbie Chosen,26,WR,16,15,1,4,0,0,100.0,4,4.0,0.3,0.1,96,52,779,15.0,5,35,46.9,92,3.3,48.7,54.2,8.1,53,14.8,783,5,1,2019
-8,85,Jets,Trevon Wesco,24,TE,16,1,1,2,0,1,100.0,2,2.0,0.1,0.1,3,2,47,23.5,0,2,66.7,32,0.1,2.9,66.7,15.7,3,16.3,49,0,0,2019
-9,18,Jets,Demaryius Thomas,32,WR,11,10,0,0,0,0,,0,,,,58,36,433,12.0,1,22,51.7,47,3.3,39.4,62.1,7.5,36,12.0,433,1,0,2019
-10,84,Jets,Ryan Griffin,29,TE,13,13,0,0,0,0,,0,,,,41,34,320,9.4,5,19,61.0,45,2.6,24.6,82.9,7.8,34,9.4,320,5,0,2019
-11,87,Jets,Daniel Brown,27,WR,16,5,0,0,0,0,,0,,,,11,7,72,10.3,1,4,45.5,24,0.4,4.5,63.6,6.5,7,10.3,72,1,0,2019
-12,10,Jets,Braxton Berrios,24,WR,16,0,0,0,0,0,,0,,,,13,6,115,19.2,0,3,30.8,69,0.4,7.2,46.2,8.8,6,19.2,115,0,1,2019
-13,15,Jets,Josh Bellamy,30,WR,7,0,0,0,0,0,,0,,,,3,2,20,10.0,0,1,33.3,15,0.3,2.9,66.7,6.7,2,10.0,20,0,0,2019
-14,81,Jets,Quincy Enunwa,27,WR,1,1,0,0,0,0,,0,,,,3,1,-4,-4.0,0,0,33.3,8,1.0,-4.0,33.3,-1.3,1,-4.0,-4,0,1,2019
-15,89,Jets,Chris Herndon,23,TE,1,0,0,0,0,0,,0,,,,2,1,7,7.0,0,0,0.0,7,1.0,7.0,50.0,3.5,1,7.0,7,0,0,2019
-16,16,Jets,Jeff Smith,22,WR,1,0,0,0,0,0,,0,,,,2,1,12,12.0,0,1,50.0,12,1.0,12.0,50.0,6.0,1,12.0,12,0,0,2019
+,No.,Player,Age,Position,Games Played,Games Started as an Offensive or Defensive Player,Rushing Attempts,Rushing Yards Gained,Rushing Touchdown,First Downs Rushing,Rushing Success Rate,Longest Rushing Attempt,Rushing Yards per Attempt,Rushing Yards per Game,Rushing Attempts per Game,Pass Targets,Receptions,Receiving Yards,Receiving Yards per Reception,Receiving Touchdowns,First Downs Receiving,Receiving Success Rate,Longest Reception,Receptions per Game,Receiving Yards per Game,Catch Per.,Receiving Yards per Target,Touches: Rushing Attempts and Receptions,Scrimmage Yards per Touch: Rushing + Receiving Yardage per Opportunity,Yards from Scrimmage: Receiving and Rushing Yards,Rushing and Receiving Touchdowns,Lost and Recovered Fumbles,Team,Year
+26,26,Le'Veon Bell,27,RB,15,15,245,789,3,36,40.4,19,3.2,52.6,16.3,78,66,461,7.0,1,20,46.2,23,4.4,30.7,84.6,5.9,311,4.0,1250,4,1,Jets,2019
+29,29,Bilal Powell,31,RB,13,1,59,229,0,12,39.0,17,3.9,17.6,4.5,12,7,33,4.7,0,0,16.7,9,0.5,2.5,58.3,2.8,66,4.0,262,0,0,Jets,2019
+14,14,Sam Darnold,22,QB,13,13,33,62,2,6,27.3,24,1.9,4.8,2.5,0,0,0,0.0,0,0,0.0,0,0.0,0.0,0.0,0.0,33,1.9,62,2,11,Jets,2019
+88,88,Ty Montgomery,26,WR,16,2,32,103,0,2,34.4,15,3.2,6.4,2.0,17,13,90,6.9,0,3,41.2,21,0.8,5.6,76.5,5.3,45,4.3,193,0,0,Jets,2019
+36,36,Josh Adams,23,RB,3,0,8,12,0,1,12.5,10,1.5,4.0,2.7,0,0,0,0.0,0,0,0.0,0,0.0,0.0,0.0,0.0,8,1.5,12,0,0,Jets,2019
+17,17,Vyncint Smith,23,WR,13,4,3,52,1,3,100.0,20,17.3,4.0,0.2,31,17,225,13.2,0,11,45.2,37,1.3,17.3,54.8,7.3,20,13.9,277,1,1,Jets,2019
+82,82,Jamison Crowder,26,WR,16,12,1,4,0,0,100.0,4,4.0,0.3,0.1,122,78,833,10.7,6,41,47.5,41,4.9,52.1,63.9,6.8,79,10.6,837,6,0,Jets,2019
+11,11,Robbie Chosen,26,WR,16,15,1,4,0,0,100.0,4,4.0,0.3,0.1,96,52,779,15.0,5,35,46.9,92,3.3,48.7,54.2,8.1,53,14.8,783,5,1,Jets,2019
+85,85,Trevon Wesco,24,FB,16,1,1,2,0,1,100.0,2,2.0,0.1,0.1,3,2,47,23.5,0,2,66.7,32,0.1,2.9,66.7,15.7,3,16.3,49,0,0,Jets,2019
+18,18,Demaryius Thomas,32,WR,11,10,0,0,0,0,0.0,0,0.0,0.0,0.0,58,36,433,12.0,1,22,51.7,47,3.3,39.4,62.1,7.5,36,12.0,433,1,0,Jets,2019
+84,84,Ryan Griffin,29,TE,13,13,0,0,0,0,0.0,0,0.0,0.0,0.0,41,34,320,9.4,5,19,61.0,45,2.6,24.6,82.9,7.8,34,9.4,320,5,0,Jets,2019
+87,87,Daniel Brown,27,WR,16,5,0,0,0,0,0.0,0,0.0,0.0,0.0,11,7,72,10.3,1,4,45.5,24,0.4,4.5,63.6,6.5,7,10.3,72,1,0,Jets,2019
+10,10,Braxton Berrios,24,WR,16,0,0,0,0,0,0.0,0,0.0,0.0,0.0,13,6,115,19.2,0,3,30.8,69,0.4,7.2,46.2,8.8,6,19.2,115,0,1,Jets,2019
+15,15,Josh Bellamy,30,WR,7,0,0,0,0,0,0.0,0,0.0,0.0,0.0,3,2,20,10.0,0,1,33.3,15,0.3,2.9,66.7,6.7,2,10.0,20,0,0,Jets,2019
+81,81,Quincy Enunwa,27,WR,1,1,0,0,0,0,0.0,0,0.0,0.0,0.0,3,1,-4,-4.0,0,0,33.3,8,1.0,-4.0,33.3,-1.3,1,-4.0,-4,0,1,Jets,2019
+89,89,Chris Herndon,23,TE,1,0,0,0,0,0,0.0,0,0.0,0.0,0.0,2,1,7,7.0,0,0,0.0,7,1.0,7.0,50.0,3.5,1,7.0,7,0,0,Jets,2019
+16,16,Jeff Smith,22,WR,1,0,0,0,0,0,0.0,0,0.0,0.0,0.0,2,1,12,12.0,0,1,50.0,12,1.0,12.0,50.0,6.0,1,12.0,12,0,0,Jets,2019

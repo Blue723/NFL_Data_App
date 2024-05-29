@@ -1,6 +1,6 @@
-,No.,Team,Player,Age,Position,Games Played,Games Started,Punts Returned,Punts Return Yardage,Punts Returned for Touchdown,Longest Punt Return,Yards per Punt Return,Kickoff Returns,Yardage for Kickoffs Returned,Kickoffs Returned for a Touchdown,Longest Kickoff Return,Yards per Kickoff Return,All-purpose Yards,Year
-0,38,Patriots,Brandon Bolden,29,RB,15,2,0,0,0,0,,23,515,0,38,22.4,694,2019
-1,80,Patriots,Gunner Olszewski,23,WR,8,0,20,179,0,22,9.0,0,0,0,0,,213,2019
-2,14,Patriots,Mohamed Sanu,30,WR,8,6,9,54,0,14,6.0,0,0,0,0,,269,2019
-3,28,Patriots,James White,27,RB,15,1,0,0,0,0,,2,41,0,21,20.5,949,2019
-4,11,Patriots,Julian Edelman,33,WR,16,13,0,0,0,0,,1,19,0,19,19.0,1163,2019
+,No.,Player,Age,Position,Games Played,Games Started,Punts Returned,Punts Return Yardage,Punts Returned for Touchdown,Longest Punt Return,Yards per Punt Return,Kickoff Returns,Yardage for Kickoffs Returned,Kickoffs Returned for a Touchdown,Longest Kickoff Return,Yards per Kickoff Return,All-purpose Yards,Team,Year
+38,38,Brandon Bolden,29,RB,15,2,0,0,0,0,0.0,23,515,0,38,22.4,694,Patriots,2019
+80,80,Gunner Olszewski,23,WR,8,0,20,179,0,22,9.0,0,0,0,0,0.0,213,Patriots,2019
+14,14,Mohamed Sanu,30,WR,8,6,9,54,0,14,6.0,0,0,0,0,0.0,269,Patriots,2019
+28,28,James White,27,RB,15,1,0,0,0,0,0.0,2,41,0,21,20.5,949,Patriots,2019
+11,11,Julian Edelman,33,WR,16,13,0,0,0,0,0.0,1,19,0,19,19.0,1163,Patriots,2019

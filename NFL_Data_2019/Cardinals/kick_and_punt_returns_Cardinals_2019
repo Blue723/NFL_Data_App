@@ -1,7 +1,7 @@
-,No.,Team,Player,Age,Position,Games Played,Games Started,Punts Returned,Punts Return Yardage,Punts Returned for Touchdown,Longest Punt Return,Yards per Punt Return,Kickoff Returns,Yardage for Kickoffs Returned,Kickoffs Returned for a Touchdown,Longest Kickoff Return,Yards per Kickoff Return,All-purpose Yards,Year
-0,12,Cardinals,Pharoh Cooper,24,WR,12,1,17,129,0,29,7.6,25,561,0,39,22.4,935,2019
-1,13,Cardinals,Christian Kirk,23,WR,13,13,7,39,0,20,5.6,0,0,0,0,,841,2019
-2,89,Cardinals,Andy Isabella,23,WR,15,1,0,0,0,0,,5,105,0,32,21.0,309,2019
-3,14,Cardinals,Damiere Byrd,26,WR,11,3,0,0,0,0,,4,59,0,23,14.8,418,2019
-4,31,Cardinals,David Johnson,28,RB,13,9,0,0,0,0,,1,24,0,24,24.0,739,2019
-5,16,Cardinals,Trent Sherfield,23,WR,16,1,0,0,0,0,,1,15,0,15,15.0,95,2019
+,No.,Player,Age,Position,Games Played,Games Started,Punts Returned,Punts Return Yardage,Punts Returned for Touchdown,Longest Punt Return,Yards per Punt Return,Kickoff Returns,Yardage for Kickoffs Returned,Kickoffs Returned for a Touchdown,Longest Kickoff Return,Yards per Kickoff Return,All-purpose Yards,Team,Year
+12,12,Pharoh Cooper,24,WR,12,1,17,129,0,29,7.6,25,561,0,39,22.4,935,Cardinals,2019
+13,13,Christian Kirk,23,WR,13,13,7,39,0,20,5.6,0,0,0,0,0.0,841,Cardinals,2019
+89,89,Andy Isabella,23,WR,15,1,0,0,0,0,0.0,5,105,0,32,21.0,309,Cardinals,2019
+14,14,Damiere Byrd,26,WR,11,3,0,0,0,0,0.0,4,59,0,23,14.8,418,Cardinals,2019
+31,31,David Johnson,28,RB,13,9,0,0,0,0,0.0,1,24,0,24,24.0,739,Cardinals,2019
+16,16,Trent Sherfield,23,WR,16,1,0,0,0,0,0.0,1,15,0,15,15.0,95,Cardinals,2019

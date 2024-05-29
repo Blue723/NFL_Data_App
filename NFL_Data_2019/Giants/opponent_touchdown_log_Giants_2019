@@ -1,55 +1,55 @@
-,Rank,Team,Date,Opponent,Win/Loss,Score,Quarter,Distance,Type,Detail,Year
-0,1,Giants,09/08/2019,DAL,Loss, 17-35,1,28,pass,Blake Jarwin,2019
-1,2,Giants,09/08/2019,DAL,Loss, 17-35,2,4,pass,Jason Witten,2019
-2,3,Giants,09/08/2019,DAL,Loss, 17-35,2,21,pass,Amari Cooper,2019
-3,4,Giants,09/08/2019,DAL,Loss, 17-35,3,25,pass,Randall Cobb,2019
-4,5,Giants,09/08/2019,DAL,Loss, 17-35,3,10,rush,Ezekiel Elliott,2019
-5,6,Giants,09/15/2019,BUF,Loss, 14-28,1,6,rush,Josh Allen,2019
-6,7,Giants,09/15/2019,BUF,Loss, 14-28,2,14,rush,Devin Singletary,2019
-7,8,Giants,09/15/2019,BUF,Loss, 14-28,2,14,pass,Isaiah McKenzie,2019
-8,9,Giants,09/15/2019,BUF,Loss, 14-28,4,1,rush,Frank Gore,2019
-9,10,Giants,09/22/2019,TAM,Win, 32-31,1,21,pass,Mike Evans,2019
-10,11,Giants,09/22/2019,TAM,Win, 32-31,1,3,pass,Mike Evans,2019
-11,12,Giants,09/22/2019,TAM,Win, 32-31,2,20,pass,Mike Evans,2019
-12,13,Giants,10/06/2019,MIN,Loss, 10-28,2,15,pass,Adam Thielen,2019
-13,14,Giants,10/06/2019,MIN,Loss, 10-28,3,9,pass,Adam Thielen,2019
-14,15,Giants,10/10/2019,NWE,Loss, 14-35,1,6,blocked punt,Chase Winovich,2019
-15,16,Giants,10/10/2019,NWE,Loss, 14-35,2,1,rush,Brandon Bolden,2019
-16,17,Giants,10/10/2019,NWE,Loss, 14-35,2,1,rush,Tom Brady,2019
-17,18,Giants,10/10/2019,NWE,Loss, 14-35,4,22,fumble,Kyle Van Noy,2019
-18,19,Giants,10/10/2019,NWE,Loss, 14-35,4,1,rush,Tom Brady,2019
-19,20,Giants,10/20/2019,ARI,Loss, 21-27,1,20,rush,Chase Edmonds,2019
-20,21,Giants,10/20/2019,ARI,Loss, 21-27,1,20,rush,Chase Edmonds,2019
-21,22,Giants,10/20/2019,ARI,Loss, 21-27,3,22,rush,Chase Edmonds,2019
-22,23,Giants,10/27/2019,DET,Loss, 26-31,1,13,fumble,Devon Kennard,2019
-23,24,Giants,10/27/2019,DET,Loss, 26-31,1,49,pass,Marvin Hall,2019
-24,25,Giants,10/27/2019,DET,Loss, 26-31,3,9,pass,Kenny Golladay,2019
-25,26,Giants,10/27/2019,DET,Loss, 26-31,4,41,pass,Kenny Golladay,2019
-26,27,Giants,11/04/2019,DAL,Loss, 18-37,2,42,pass,Blake Jarwin,2019
-27,28,Giants,11/04/2019,DAL,Loss, 18-37,4,15,pass,Michael Gallup,2019
-28,29,Giants,11/04/2019,DAL,Loss, 18-37,4,45,pass,Amari Cooper,2019
-29,30,Giants,11/04/2019,DAL,Loss, 18-37,4,63,fumble,Jourdan Lewis,2019
-30,31,Giants,11/10/2019,NYJ,Loss, 27-34,1,2,rush,Sam Darnold,2019
-31,32,Giants,11/10/2019,NYJ,Loss, 27-34,1,23,pass,Jamison Crowder,2019
-32,33,Giants,11/10/2019,NYJ,Loss, 27-34,3,25,fumble,Jamal Adams,2019
-33,34,Giants,11/10/2019,NYJ,Loss, 27-34,4,1,rush,Le'Veon Bell,2019
-34,35,Giants,11/24/2019,CHI,Loss, 14-19,3,32,pass,Allen Robinson,2019
-35,36,Giants,11/24/2019,CHI,Loss, 14-19,3,2,rush,Mitchell Trubisky,2019
-36,37,Giants,12/01/2019,GNB,Loss, 13-31,1,8,pass,Davante Adams,2019
-37,38,Giants,12/01/2019,GNB,Loss, 13-31,1,37,pass,Allen Lazard,2019
-38,39,Giants,12/01/2019,GNB,Loss, 13-31,4,17,pass,Davante Adams,2019
-39,40,Giants,12/01/2019,GNB,Loss, 13-31,4,1,pass,Marcedes Lewis,2019
-40,41,Giants,12/09/2019,PHI,Loss, 17-23,3,2,rush,Boston Scott,2019
-41,42,Giants,12/09/2019,PHI,Loss, 17-23,4,2,pass,Zach Ertz,2019
-42,43,Giants,12/09/2019,PHI,Loss, 17-23,5,2,pass,Zach Ertz,2019
-43,44,Giants,12/15/2019,MIA,Win, 36-20,2,20,pass,DeVante Parker,2019
-44,45,Giants,12/15/2019,MIA,Win, 36-20,4,29,pass,DeVante Parker,2019
-45,46,Giants,12/22/2019,WAS,Win, 41-35,1,10,pass,Steven Sims,2019
-46,47,Giants,12/22/2019,WAS,Win, 41-35,2,6,pass,Hale Hentges,2019
-47,48,Giants,12/22/2019,WAS,Win, 41-35,3,7,pass,Steven Sims,2019
-48,49,Giants,12/22/2019,WAS,Win, 41-35,4,1,rush,Adrian Peterson,2019
-49,50,Giants,12/22/2019,WAS,Win, 41-35,4,1,rush,Case Keenum,2019
-50,51,Giants,12/29/2019,PHI,Loss, 17-34,2,24,pass,Joshua Perkins,2019
-51,52,Giants,12/29/2019,PHI,Loss, 17-34,3,7,rush,Boston Scott,2019
-52,53,Giants,12/29/2019,PHI,Loss, 17-34,4,2,rush,Boston Scott,2019
-53,54,Giants,12/29/2019,PHI,Loss, 17-34,4,2,rush,Boston Scott,2019
+,Rank,Team,Date,Opponent,Win/Loss,Home_Score,Opponenet_Score,Quarter,Distance,Type,Detail
+1,1,Giants,2019-09-08,DAL,Loss,17,35,1,28,pass,Blake Jarwin
+2,2,Giants,2019-09-08,DAL,Loss,17,35,2,4,pass,Jason Witten
+3,3,Giants,2019-09-08,DAL,Loss,17,35,2,21,pass,Amari Cooper
+4,4,Giants,2019-09-08,DAL,Loss,17,35,3,25,pass,Randall Cobb
+5,5,Giants,2019-09-08,DAL,Loss,17,35,3,10,rush,Ezekiel Elliott
+6,6,Giants,2019-09-15,BUF,Loss,14,28,1,6,rush,Josh Allen
+7,7,Giants,2019-09-15,BUF,Loss,14,28,2,14,rush,Devin Singletary
+8,8,Giants,2019-09-15,BUF,Loss,14,28,2,14,pass,Isaiah McKenzie
+9,9,Giants,2019-09-15,BUF,Loss,14,28,4,1,rush,Frank Gore
+10,10,Giants,2019-09-22,TAM,Win,32,31,1,21,pass,Mike Evans
+11,11,Giants,2019-09-22,TAM,Win,32,31,1,3,pass,Mike Evans
+12,12,Giants,2019-09-22,TAM,Win,32,31,2,20,pass,Mike Evans
+13,13,Giants,2019-10-06,MIN,Loss,10,28,2,15,pass,Adam Thielen
+14,14,Giants,2019-10-06,MIN,Loss,10,28,3,9,pass,Adam Thielen
+15,15,Giants,2019-10-10,NWE,Loss,14,35,1,6,blocked punt,Chase Winovich
+16,16,Giants,2019-10-10,NWE,Loss,14,35,2,1,rush,Brandon Bolden
+17,17,Giants,2019-10-10,NWE,Loss,14,35,2,1,rush,Tom Brady
+18,18,Giants,2019-10-10,NWE,Loss,14,35,4,22,fumble,Kyle Van Noy
+19,19,Giants,2019-10-10,NWE,Loss,14,35,4,1,rush,Tom Brady
+20,20,Giants,2019-10-20,ARI,Loss,21,27,1,20,rush,Chase Edmonds
+21,21,Giants,2019-10-20,ARI,Loss,21,27,1,20,rush,Chase Edmonds
+22,22,Giants,2019-10-20,ARI,Loss,21,27,3,22,rush,Chase Edmonds
+23,23,Giants,2019-10-27,DET,Loss,26,31,1,13,fumble,Devon Kennard
+24,24,Giants,2019-10-27,DET,Loss,26,31,1,49,pass,Marvin Hall
+25,25,Giants,2019-10-27,DET,Loss,26,31,3,9,pass,Kenny Golladay
+26,26,Giants,2019-10-27,DET,Loss,26,31,4,41,pass,Kenny Golladay
+27,27,Giants,2019-11-04,DAL,Loss,18,37,2,42,pass,Blake Jarwin
+28,28,Giants,2019-11-04,DAL,Loss,18,37,4,15,pass,Michael Gallup
+29,29,Giants,2019-11-04,DAL,Loss,18,37,4,45,pass,Amari Cooper
+30,30,Giants,2019-11-04,DAL,Loss,18,37,4,63,fumble,Jourdan Lewis
+31,31,Giants,2019-11-10,NYJ,Loss,27,34,1,2,rush,Sam Darnold
+32,32,Giants,2019-11-10,NYJ,Loss,27,34,1,23,pass,Jamison Crowder
+33,33,Giants,2019-11-10,NYJ,Loss,27,34,3,25,fumble,Jamal Adams
+34,34,Giants,2019-11-10,NYJ,Loss,27,34,4,1,rush,Le'Veon Bell
+35,35,Giants,2019-11-24,CHI,Loss,14,19,3,32,pass,Allen Robinson
+36,36,Giants,2019-11-24,CHI,Loss,14,19,3,2,rush,Mitchell Trubisky
+37,37,Giants,2019-12-01,GNB,Loss,13,31,1,8,pass,Davante Adams
+38,38,Giants,2019-12-01,GNB,Loss,13,31,1,37,pass,Allen Lazard
+39,39,Giants,2019-12-01,GNB,Loss,13,31,4,17,pass,Davante Adams
+40,40,Giants,2019-12-01,GNB,Loss,13,31,4,1,pass,Marcedes Lewis
+41,41,Giants,2019-12-09,PHI,Loss,17,23,3,2,rush,Boston Scott
+42,42,Giants,2019-12-09,PHI,Loss,17,23,4,2,pass,Zach Ertz
+43,43,Giants,2019-12-09,PHI,Loss,17,23,5,2,pass,Zach Ertz
+44,44,Giants,2019-12-15,MIA,Win,36,20,2,20,pass,DeVante Parker
+45,45,Giants,2019-12-15,MIA,Win,36,20,4,29,pass,DeVante Parker
+46,46,Giants,2019-12-22,WAS,Win,41,35,1,10,pass,Steven Sims
+47,47,Giants,2019-12-22,WAS,Win,41,35,2,6,pass,Hale Hentges
+48,48,Giants,2019-12-22,WAS,Win,41,35,3,7,pass,Steven Sims
+49,49,Giants,2019-12-22,WAS,Win,41,35,4,1,rush,Adrian Peterson
+50,50,Giants,2019-12-22,WAS,Win,41,35,4,1,rush,Case Keenum
+51,51,Giants,2019-12-29,PHI,Loss,17,34,2,24,pass,Joshua Perkins
+52,52,Giants,2019-12-29,PHI,Loss,17,34,3,7,rush,Boston Scott
+53,53,Giants,2019-12-29,PHI,Loss,17,34,4,2,rush,Boston Scott
+54,54,Giants,2019-12-29,PHI,Loss,17,34,4,2,rush,Boston Scott

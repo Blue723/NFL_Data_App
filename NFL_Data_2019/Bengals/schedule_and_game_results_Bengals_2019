@@ -1,18 +1,17 @@
-,Week,Team,Day,Date,Time,Win/Loss,Overtime,Team Record,Home/Away,Opponent,Points Scored,Points Allowed,Offense 1st Down,Total Yards Gained of Offense,Total yards Gained by Passing,Total Yards Gained by Rushing,Offense Turnovers,Defense 1st Down,Total Yards Allowed by Defense,Total Passing Yards Allowed by Defense,Total Rushing Yards Allowed by Defense,Defense Turnovers,Offense,Defense,Sp. Tms,Year
-0,0,Bengals,Sun,September 8,,L,0,0-1,away,Seattle Seahawks,20,21,22,429,395,34,3,12,232,160,72,1,0.16,5.43,-8.5,2019
-1,1,Bengals,Sun,September 15,,L,0,0-2,home,San Francisco 49ers,17,41,14,316,291,25,1,27,571,312,259,1,-1.14,-27.34,6.64,2019
-2,2,Bengals,Sun,September 22,,L,0,0-3,away,Buffalo Bills,17,21,17,306,240,66,4,25,416,241,175,2,-9.17,-1.8,8.04,2019
-3,3,Bengals,Mon,September 30,,L,0,0-4,away,Pittsburgh Steelers,3,27,16,175,102,73,2,20,326,260,66,1,-16.54,-6.93,0.04,2019
-4,4,Bengals,Sun,October 6,,L,0,0-5,home,Arizona Cardinals,23,26,21,370,262,108,0,26,514,248,266,0,9.27,-21.22,8.95,2019
-5,5,Bengals,Sun,October 13,,L,0,0-6,away,Baltimore Ravens,17,23,18,250,217,33,1,26,497,228,269,1,0.57,-15.13,4.92,2019
-6,6,Bengals,Sun,October 20,,L,0,0-7,home,Jacksonville Jaguars,17,27,21,291,258,33,4,22,460,244,216,0,-14.01,-2.45,7.13,2019
-7,7,Bengals,Sun,October 27,,L,0,0-8,away,Los Angeles Rams,10,24,24,401,297,104,0,19,470,372,98,0,3.84,-18.42,-1.27,2019
-8,8,Bengals,,,,,0,,home,<strong>Bye Week</strong>,0,0,0,0,0,0,0,0,0,0,0,0,,,,2019
-9,9,Bengals,Sun,November 10,,L,0,0-9,home,Baltimore Ravens,13,49,21,307,150,157,3,20,379,243,136,1,-18.52,-24.79,7.48,2019
-10,10,Bengals,Sun,November 17,,L,0,0-10,away,Oakland Raiders,10,17,16,246,73,173,2,20,386,273,113,2,-9.64,-3.46,3.29,2019
-11,11,Bengals,Sun,November 24,,L,0,0-11,home,Pittsburgh Steelers,10,16,11,244,158,86,2,16,338,179,159,1,-15.56,4.31,2.52,2019
-12,12,Bengals,Sun,December 1,,W,0,1-11,home,New York Jets,22,6,18,277,233,44,0,15,271,209,62,0,1.76,12.69,0.63,2019
-13,13,Bengals,Sun,December 8,,L,0,1-12,away,Cleveland Browns,19,27,27,451,272,179,1,17,333,187,146,2,1.25,-6.12,-5.82,2019
-14,14,Bengals,Sun,December 15,,L,0,1-13,home,New England Patriots,13,34,19,315,151,164,5,19,291,116,175,0,-12.48,-2.27,-6.29,2019
-15,15,1,1,1,1.0,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1.0,1.0,1.0,1
-16,16,Bengals,Sun,December 29,,W,0,2-14,home,Cleveland Browns,33,23,22,361,182,179,1,15,313,239,74,3,12.26,-1.53,-3.69,2019
+,Week,Day,Date,Time,Win/Loss,Overtime,Team Record,Home/Away,Opponent,Points Scored,Points Allowed,Offense 1st Down,Total Yards Gained of Offense,Total yards Gained by Passing,Total Yards Gained by Rushing,Offense Turnovers,Defense 1st Down,Total Yards Allowed by Defense,Total Passing Yards Allowed by Defense,Total Rushing Yards Allowed by Defense,Defense Turnovers,Offense,Defense,Sp. Tms,Team,Year
+0,1,Sun,2019-09-08,nan,Loss,0,0-1,away,Seattle Seahawks,20,21,22,429,395,34,3,12,232,160,72,1,0.16,5.43,-8.5,Bengals,2019
+1,2,Sun,2019-09-15,nan,Loss,0,0-2,home,San Francisco 49ers,17,41,14,316,291,25,1,27,571,312,259,1,-1.14,-27.34,6.64,Bengals,2019
+2,3,Sun,2019-09-22,nan,Loss,0,0-3,away,Buffalo Bills,17,21,17,306,240,66,4,25,416,241,175,2,-9.17,-1.8,8.04,Bengals,2019
+3,4,Mon,2019-09-30,nan,Loss,0,0-4,away,Pittsburgh Steelers,3,27,16,175,102,73,2,20,326,260,66,1,-16.54,-6.93,0.04,Bengals,2019
+4,5,Sun,2019-10-06,nan,Loss,0,0-5,home,Arizona Cardinals,23,26,21,370,262,108,0,26,514,248,266,0,9.27,-21.22,8.95,Bengals,2019
+5,6,Sun,2019-10-13,nan,Loss,0,0-6,away,Baltimore Ravens,17,23,18,250,217,33,1,26,497,228,269,1,0.57,-15.13,4.92,Bengals,2019
+6,7,Sun,2019-10-20,nan,Loss,0,0-7,home,Jacksonville Jaguars,17,27,21,291,258,33,4,22,460,244,216,0,-14.01,-2.45,7.13,Bengals,2019
+7,8,Sun,2019-10-27,nan,Loss,0,0-8,away,Los Angeles Rams,10,24,24,401,297,104,0,19,470,372,98,0,3.84,-18.42,-1.27,Bengals,2019
+8,10,Sun,2019-11-10,nan,Loss,0,0-9,home,Baltimore Ravens,13,49,21,307,150,157,3,20,379,243,136,1,-18.52,-24.79,7.48,Bengals,2019
+9,11,Sun,2019-11-17,nan,Loss,0,0-10,away,Oakland Raiders,10,17,16,246,73,173,2,20,386,273,113,2,-9.64,-3.46,3.29,Bengals,2019
+10,12,Sun,2019-11-24,nan,Loss,0,0-11,home,Pittsburgh Steelers,10,16,11,244,158,86,2,16,338,179,159,1,-15.56,4.31,2.52,Bengals,2019
+11,13,Sun,2019-12-01,nan,Win,0,1-11,home,New York Jets,22,6,18,277,233,44,0,15,271,209,62,0,1.76,12.69,0.63,Bengals,2019
+12,14,Sun,2019-12-08,nan,Loss,0,1-12,away,Cleveland Browns,19,27,27,451,272,179,1,17,333,187,146,2,1.25,-6.12,-5.82,Bengals,2019
+13,15,Sun,2019-12-15,nan,Loss,0,1-13,home,New England Patriots,13,34,19,315,151,164,5,19,291,116,175,0,-12.48,-2.27,-6.29,Bengals,2019
+14,16,Sun,2019-12-22,nan,Loss,1,1-14,away,Miami Dolphins,35,38,25,430,371,59,1,29,502,406,96,1,7.22,-21.63,8.48,Bengals,2019
+15,17,Sun,2019-12-29,nan,Win,0,2-14,home,Cleveland Browns,33,23,22,361,182,179,1,15,313,239,74,3,12.26,-1.53,-3.69,Bengals,2019

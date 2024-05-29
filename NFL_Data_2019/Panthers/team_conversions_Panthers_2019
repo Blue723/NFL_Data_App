@@ -1,5 +1,5 @@
-,Player,Team,3rd Down Attempts in Game,3rd Down Conversions,3rd Down Conversion Per.,4th Down Attempts in Game,4th Down Conversions in Game,4th Down Conversion Per.,Red Zone Attempts,Touchdowns Scored After the Team Entered the Red Zone,Per. of the Time a Team Reaches the Red Zone and Scores a Touchdown,Year
-0,Team Stats,Panthers,207.0,66.0,31.9,24.0,12.0,50.0,50.0,29.0,58.0,2019.0
-1,Opp. Stats,Panthers,193.0,77.0,39.9,9.0,6.0,66.7,64.0,41.0,64.1,2019.0
-2,Lg Rank Offense,Panthers,,,29.0,,,13.0,,,13.0,2019.0
-3,Lg Rank Defense,Panthers,,,21.0,,,31.0,,,29.0,2019.0
+,Player,3rd Down Attempts in Game,3rd Down Conversions,3rd Down Conversion Per.,4th Down Attempts in Game,4th Down Conversions in Game,4th Down Conversion Per.,Red Zone Attempts,Touchdowns Scored After the Team Entered the Red Zone,Per. of the Time a Team Reaches the Red Zone and Scores a Touchdown,Team,Year
+Team Stats,Team Stats,207.0,66.0,31.9,24.0,12.0,50.0,50.0,29.0,58.0,Panthers,2019
+Opp. Stats,Opp. Stats,193.0,77.0,39.9,9.0,6.0,66.7,64.0,41.0,64.1,Panthers,2019
+Lg Rank Offense,Lg Rank Offense,0.0,0.0,29.0,0.0,0.0,13.0,0.0,0.0,13,Panthers,2019
+Lg Rank Defense,Lg Rank Defense,0.0,0.0,21.0,0.0,0.0,31.0,0.0,0.0,29,Panthers,2019

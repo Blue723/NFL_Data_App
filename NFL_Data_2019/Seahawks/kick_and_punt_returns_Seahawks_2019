@@ -1,5 +1,5 @@
-,No.,Team,Player,Age,Position,Games Played,Games Started,Punts Returned,Punts Return Yardage,Punts Returned for Touchdown,Longest Punt Return,Yards per Punt Return,Kickoff Returns,Yardage for Kickoffs Returned,Kickoffs Returned for a Touchdown,Longest Kickoff Return,Yards per Kickoff Return,All-purpose Yards,Year
-0,16,Seahawks,Tyler Lockett,27,WR,16,16,13,66,0,20,5.1,14,279,0,33,19.9,1397,2019
-1,83,Seahawks,David Moore,24,WR,14,1,10,75,0,18,7.5,0,0,0,0,,401,2019
-2,25,Seahawks,Travis Homer,21,RB,16,1,0,0,0,0,,5,109,0,29,21.8,279,2019
-3,20,Seahawks,Rashaad Penny,23,RB,10,0,0,0,0,0,,3,44,0,21,14.7,497,2019
+,No.,Player,Age,Position,Games Played,Games Started,Punts Returned,Punts Return Yardage,Punts Returned for Touchdown,Longest Punt Return,Yards per Punt Return,Kickoff Returns,Yardage for Kickoffs Returned,Kickoffs Returned for a Touchdown,Longest Kickoff Return,Yards per Kickoff Return,All-purpose Yards,Team,Year
+16,16,Tyler Lockett,27,WR,16,16,13,66,0,20,5.1,14,279,0,33,19.9,1397,Seahawks,2019
+83,83,David Moore,24,WR,14,1,10,75,0,18,7.5,0,0,0,0,0.0,401,Seahawks,2019
+25,25,Travis Homer,21,RB,16,1,0,0,0,0,0.0,5,109,0,29,21.8,279,Seahawks,2019
+20,20,Rashaad Penny,23,RB,10,0,0,0,0,0,0.0,3,44,0,21,14.7,497,Seahawks,2019

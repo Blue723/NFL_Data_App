@@ -1,22 +1,20 @@
-,Week,Team,Day,Date,Time,Win/Loss,Overtime,Team Record,Home/Away,Opponent,Points Scored,Points Allowed,Offense 1st Down,Total Yards Gained of Offense,Total yards Gained by Passing,Total Yards Gained by Rushing,Offense Turnovers,Defense 1st Down,Total Yards Allowed by Defense,Total Passing Yards Allowed by Defense,Total Rushing Yards Allowed by Defense,Defense Turnovers,Offense,Defense,Sp. Tms,Year
-0,0,Chiefs,Sun,September 8,,W,0,1-0,away,Jacksonville Jaguars,40,26,24,491,378,113,0,18,428,347,81,2,26.49,-8.7,1.47,2019
-1,1,Chiefs,Sun,September 15,,W,0,2-0,away,Oakland Raiders,28,10,24,467,436,31,1,19,307,178,129,2,18.12,2.14,-2.97,2019
-2,2,Chiefs,Sun,September 22,,W,0,3-0,home,Baltimore Ravens,33,28,27,503,363,140,0,29,452,249,203,0,25.98,-14.5,-4.79,2019
-3,3,Chiefs,Sun,September 29,,W,0,4-0,away,Detroit Lions,34,30,29,438,315,123,3,29,447,261,186,2,17.08,-1.27,-13.41,2019
-4,4,Chiefs,Sun,October 6,,L,0,4-1,home,Indianapolis Colts,13,19,18,324,288,36,1,25,331,151,180,1,-1.57,-4.31,-1.09,2019
-5,5,Chiefs,Sun,October 13,,L,0,4-2,home,Houston Texans,24,31,20,309,256,53,2,35,472,280,192,3,6.1,-16.92,1.87,2019
-6,6,Chiefs,Thu,October 17,,W,0,5-2,away,Denver Broncos,30,6,14,271,191,80,0,15,205,134,71,1,0.65,17.78,6.92,2019
-7,7,Chiefs,Sun,October 27,,L,0,5-3,home,Green Bay Packers,24,31,21,337,249,88,1,21,374,256,118,0,11.4,-17.67,0.68,2019
-8,8,Chiefs,Sun,November 3,,W,0,6-3,home,Minnesota Vikings,26,23,17,377,230,147,1,17,308,212,96,0,7.56,-3.06,-0.23,2019
-9,9,Chiefs,Sun,November 10,,L,0,6-4,away,Tennessee Titans,32,35,28,530,433,97,1,19,371,146,225,1,13.98,-11.07,-3.81,2019
-10,10,Chiefs,Mon,November 18,,W,0,7-4,away,Los Angeles Chargers,24,17,18,310,180,130,1,23,438,345,93,4,4.13,1.36,2.05,2019
-11,11,Chiefs,,,,,0,,home,<strong>Bye Week</strong>,0,0,0,0,0,0,0,0,0,0,0,0,,,,2019
-12,12,Chiefs,Sun,December 1,,W,0,8-4,home,Oakland Raiders,40,9,22,259,163,96,0,19,332,210,122,3,14.17,3.44,11.19,2019
-13,13,Chiefs,Sun,December 8,,W,0,9-4,away,New England Patriots,23,16,20,346,271,75,2,17,278,184,94,1,-1.14,5.79,1.25,2019
-14,14,Chiefs,Sun,December 15,,W,0,10-4,home,Denver Broncos,23,3,27,419,327,92,1,15,251,199,52,1,15.31,9.67,-4.87,2019
-15,15,Chiefs,Sun,December 22,,W,0,11-4,away,Chicago Bears,26,3,25,350,244,106,0,18,234,133,101,0,14.74,6.38,1.09,2019
-16,16,Chiefs,Sun,December 29,,W,0,12-4,home,Los Angeles Chargers,31,21,16,336,174,162,1,25,366,258,108,2,13.59,-9.18,7.29,2019
-17,17,Chiefs,,<strong>Playoffs</strong>,,,0,,home,,0,0,0,0,0,0,0,0,0,0,0,0,,,,2019
-18,18,Chiefs,Sun,January 12,,W,0,13-4,home,Houston Texans,51,31,29,434,316,118,1,23,442,348,94,1,28.73,-5.46,-6.77,2019
-19,19,Chiefs,Sun,January 19,,W,0,14-4,home,Tennessee Titans,35,24,27,404,292,112,0,20,295,210,85,0,29.52,-5.92,-9.99,2019
-20,20,Chiefs,Sun,February 2,,W,0,15-4,home,San Francisco 49ers,31,20,26,397,268,129,2,21,351,210,141,2,18.54,-5.19,-1.58,2019
+,Week,Day,Date,Time,Win/Loss,Overtime,Team Record,Home/Away,Opponent,Points Scored,Points Allowed,Offense 1st Down,Total Yards Gained of Offense,Total yards Gained by Passing,Total Yards Gained by Rushing,Offense Turnovers,Defense 1st Down,Total Yards Allowed by Defense,Total Passing Yards Allowed by Defense,Total Rushing Yards Allowed by Defense,Defense Turnovers,Offense,Defense,Sp. Tms,Team,Year
+0,1,Sun,2019-09-08,nan,Win,0,1-0,away,Jacksonville Jaguars,40,26,24,491,378,113,0,18,428,347,81,2,26.49,-8.7,1.47,Chiefs,2019
+1,2,Sun,2019-09-15,nan,Win,0,2-0,away,Oakland Raiders,28,10,24,467,436,31,1,19,307,178,129,2,18.12,2.14,-2.97,Chiefs,2019
+2,3,Sun,2019-09-22,nan,Win,0,3-0,home,Baltimore Ravens,33,28,27,503,363,140,0,29,452,249,203,0,25.98,-14.5,-4.79,Chiefs,2019
+3,4,Sun,2019-09-29,nan,Win,0,4-0,away,Detroit Lions,34,30,29,438,315,123,3,29,447,261,186,2,17.08,-1.27,-13.41,Chiefs,2019
+4,5,Sun,2019-10-06,nan,Loss,0,4-1,home,Indianapolis Colts,13,19,18,324,288,36,1,25,331,151,180,1,-1.57,-4.31,-1.09,Chiefs,2019
+5,6,Sun,2019-10-13,nan,Loss,0,4-2,home,Houston Texans,24,31,20,309,256,53,2,35,472,280,192,3,6.1,-16.92,1.87,Chiefs,2019
+6,7,Thu,2019-10-17,nan,Win,0,5-2,away,Denver Broncos,30,6,14,271,191,80,0,15,205,134,71,1,0.65,17.78,6.92,Chiefs,2019
+7,8,Sun,2019-10-27,nan,Loss,0,5-3,home,Green Bay Packers,24,31,21,337,249,88,1,21,374,256,118,0,11.4,-17.67,0.68,Chiefs,2019
+8,9,Sun,2019-11-03,nan,Win,0,6-3,home,Minnesota Vikings,26,23,17,377,230,147,1,17,308,212,96,0,7.56,-3.06,-0.23,Chiefs,2019
+9,10,Sun,2019-11-10,nan,Loss,0,6-4,away,Tennessee Titans,32,35,28,530,433,97,1,19,371,146,225,1,13.98,-11.07,-3.81,Chiefs,2019
+10,11,Mon,2019-11-18,nan,Win,0,7-4,away,Los Angeles Chargers,24,17,18,310,180,130,1,23,438,345,93,4,4.13,1.36,2.05,Chiefs,2019
+11,13,Sun,2019-12-01,nan,Win,0,8-4,home,Oakland Raiders,40,9,22,259,163,96,0,19,332,210,122,3,14.17,3.44,11.19,Chiefs,2019
+12,14,Sun,2019-12-08,nan,Win,0,9-4,away,New England Patriots,23,16,20,346,271,75,2,17,278,184,94,1,-1.14,5.79,1.25,Chiefs,2019
+13,15,Sun,2019-12-15,nan,Win,0,10-4,home,Denver Broncos,23,3,27,419,327,92,1,15,251,199,52,1,15.31,9.67,-4.87,Chiefs,2019
+14,16,Sun,2019-12-22,nan,Win,0,11-4,away,Chicago Bears,26,3,25,350,244,106,0,18,234,133,101,0,14.74,6.38,1.09,Chiefs,2019
+15,17,Sun,2019-12-29,nan,Win,0,12-4,home,Los Angeles Chargers,31,21,16,336,174,162,1,25,366,258,108,2,13.59,-9.18,7.29,Chiefs,2019
+16,19,Sun,2020-01-12,nan,Win,0,13-4,home,Houston Texans,51,31,29,434,316,118,1,23,442,348,94,1,28.73,-5.46,-6.77,Chiefs,2019
+17,20,Sun,2020-01-19,nan,Win,0,14-4,home,Tennessee Titans,35,24,27,404,292,112,0,20,295,210,85,0,29.52,-5.92,-9.99,Chiefs,2019
+18,21,Sun,2020-02-02,nan,Win,0,15-4,home,San Francisco 49ers,31,20,26,397,268,129,2,21,351,210,141,2,18.54,-5.19,-1.58,Chiefs,2019

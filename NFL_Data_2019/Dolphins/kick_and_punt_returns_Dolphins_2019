@@ -1,8 +1,8 @@
-,No.,Team,Player,Age,Position,Games Played,Games Started,Punts Returned,Punts Return Yardage,Punts Returned for Touchdown,Longest Punt Return,Yards per Punt Return,Kickoff Returns,Yardage for Kickoffs Returned,Kickoffs Returned for a Touchdown,Longest Kickoff Return,Yards per Kickoff Return,All-purpose Yards,Year
-0,19,Dolphins,Jakeem Grant,27,WR,10,2,5,6,0,5,1.2,23,578,1,101,25.1,753,2019
-1,89,Dolphins,Trevor Davis,26,WR,3,0,6,33,0,10,5.5,4,95,0,30,23.8,128,2019
-2,18,Dolphins,Preston Williams,22,WR,8,7,10,115,0,21,11.5,0,0,0,0,,543,2019
-3,48,Dolphins,Marcus Sherels,32,DB,5,0,6,23,0,10,3.8,3,57,0,21,19.0,80,2019
-4,81,Dolphins,Durham Smythe,24,TE,16,14,0,0,0,0,,4,45,0,14,11.3,110,2019
-5,32,Dolphins,Kenyan Drake,25,RB,6,2,0,0,0,0,,1,15,0,15,15.0,363,2019
-6,84,Dolphins,Isaiah Ford,23,WR,8,0,0,0,0,0,,1,6,0,6,6.0,261,2019
+,No.,Player,Age,Position,Games Played,Games Started,Punts Returned,Punts Return Yardage,Punts Returned for Touchdown,Longest Punt Return,Yards per Punt Return,Kickoff Returns,Yardage for Kickoffs Returned,Kickoffs Returned for a Touchdown,Longest Kickoff Return,Yards per Kickoff Return,All-purpose Yards,Team,Year
+19,19,Jakeem Grant,27,WR,10,2,5,6,0,5,1.2,23,578,1,101,25.1,753,Dolphins,2019
+89,89,Trevor Davis,26,WR,3,0,6,33,0,10,5.5,4,95,0,30,23.8,128,Dolphins,2019
+18,18,Preston Williams,22,WR,8,7,10,115,0,21,11.5,0,0,0,0,0.0,543,Dolphins,2019
+48,48,Marcus Sherels,32,DB,5,0,6,23,0,10,3.8,3,57,0,21,19.0,80,Dolphins,2019
+81,81,Durham Smythe,24,TE,16,14,0,0,0,0,0.0,4,45,0,14,11.3,110,Dolphins,2019
+32,32,Kenyan Drake,25,RB,6,2,0,0,0,0,0.0,1,15,0,15,15.0,363,Dolphins,2019
+84,84,Isaiah Ford,23,WR,8,0,0,0,0,0,0.0,1,6,0,6,6.0,261,Dolphins,2019

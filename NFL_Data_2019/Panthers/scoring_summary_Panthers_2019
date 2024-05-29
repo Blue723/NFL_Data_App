@@ -1,13 +1,13 @@
-,No.,Team,Player,Age,Pos,Games Played,Games Started,Rush TD,Reception TD,Punt Return TD,Kick Return TD,Fumble Return TD,Interception TD,Other TD,All Touchdown Scored,2-Point Conversions Made,Two-Point Conversions Attempted,Defensive Two-Point Conversions,Extra Points Made,Extra Points Allowed,Field Goals Made,Field Goals Attempted,Safeties Scored by Player/Team,Total Points Scored by all Means,Poins per Game,Year
-0,22,Panthers,Christian McCaffrey,23,RB,16,16,15,4,0,0,0,0,0,19,1,0,0,0,0,0,0,,116,7.3,2019
-1,4,Panthers,Joey Slye,23,K,16,0,0,0,0,0,0,0,0,0,0,0,0,31,35,25,32,,106,6.6,2019
-2,10,Panthers,Curtis Samuel,23,WR,16,15,1,6,0,0,0,0,0,7,0,0,0,0,0,0,0,,42,2.6,2019
-3,12,Panthers,D.J. Moore,22,WR,15,15,0,4,0,0,0,0,0,4,0,0,0,0,0,0,0,,24,1.6,2019
-4,7,Panthers,Kyle Allen,23,QB,13,12,2,0,0,0,0,0,0,2,0,0,0,0,0,0,0,,12,0.9,2019
-5,88,Panthers,Greg Olsen,34,TE,14,14,0,2,0,0,0,0,0,2,0,0,0,0,0,0,0,,12,0.9,2019
-6,40,Panthers,Alex Armah,25,FB,16,1,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,,6,0.4,2019
-7,39,Panthers,Reggie Bonnafon,23,RB,16,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,,6,0.4,2019
-8,53,Panthers,Brian Burns,21,ROLB,16,5,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,,6,0.4,2019
-9,80,Panthers,Ian Thomas,23,TE,16,3,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,,6,0.4,2019
-10,55,Panthers,Bruce Irvin,32,ROLB,13,12,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1.0,2,0.2,2019
-11,59,Panthers,Luke Kuechly,28,RILB,16,16,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1.0,2,0.1,2019
+,No.,Player,Age,Pos,Games Played,Games Started,Rush TD,Reception TD,Punt Return TD,Kick Return TD,Fumble Return TD,Interception TD,Other TD,All Touchdown Scored,2-Point Conversions Made,Two-Point Conversions Attempted,Defensive Two-Point Conversions,Extra Points Made,Extra Points Allowed,Field Goals Made,Field Goals Attempted,Safeties Scored by Player/Team,Total Points Scored by all Means,Poins per Game,Team,Year
+22,22,Christian McCaffrey,23,RB,16,16,15,4,0,0,0,0,0,19,1,0,0,0,0,0,0,0,116,7.3,Panthers,2019
+4,4,Joey Slye,23,K,16,0,0,0,0,0,0,0,0,0,0,0,0,31,35,25,32,0,106,6.6,Panthers,2019
+10,10,Curtis Samuel,23,WR,16,15,1,6,0,0,0,0,0,7,0,0,0,0,0,0,0,0,42,2.6,Panthers,2019
+12,12,D.J. Moore,22,WR,15,15,0,4,0,0,0,0,0,4,0,0,0,0,0,0,0,0,24,1.6,Panthers,2019
+7,7,Kyle Allen,23,QB,13,12,2,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,12,0.9,Panthers,2019
+88,88,Greg Olsen,34,TE,14,14,0,2,0,0,0,0,0,2,0,0,0,0,0,0,0,0,12,0.9,Panthers,2019
+40,40,Alex Armah,25,FB,16,1,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,6,0.4,Panthers,2019
+39,39,Reggie Bonnafon,23,RB,16,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,6,0.4,Panthers,2019
+53,53,Brian Burns,21,ROLB,16,5,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,6,0.4,Panthers,2019
+80,80,Ian Thomas,23,TE,16,3,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,6,0.4,Panthers,2019
+55,55,Bruce Irvin,32,ROLB,13,12,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,2,0.2,Panthers,2019
+59,59,Luke Kuechly,28,RILB,16,16,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,2,0.1,Panthers,2019

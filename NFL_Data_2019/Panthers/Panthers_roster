@@ -1,68 +1,68 @@
-Player,No.,Team,Age,Pos,G,GS,Wt,Ht,College/Univ,BirthDate,Yrs,AV,Drafted (tm/rnd/yr),Salary
-Mario Addison,97.0,Panthers,32.0,LOLB,15,15.0,260.0,6-3,Troy,9/6/1987,8,6.0,,"$6,500,000"
-Kyle Allen,7.0,Panthers,23.0,QB,13,12.0,210.0,6-3,"Texas A&M,Houston",3/8/1996,1,7.0,,"$495,000"
-Alex Armah,40.0,Panthers,25.0,FB,16,1.0,255.0,6-1,West Georgia,5/17/1994,2,0.0,Carolina Panthers / 6th / 192nd pick / 2017,"$645,000"
-Reggie Bonnafon,39.0,Panthers,23.0,RB,16,0.0,215.0,6-0,Louisville,1/4/1996,Rook,1.0,,"$495,000"
-Tre Boston,33.0,Panthers,27.0,FS,16,16.0,205.0,6-1,North Carolina,6/25/1992,5,5.0,Carolina Panthers / 4th / 128th pick / 2014,"$1,125,000"
-James Bradberry,24.0,Panthers,26.0,RCB,15,15.0,210.0,6-1,"Arkansas St.,Samford",8/4/1993,3,5.0,Carolina Panthers / 2nd / 62nd pick / 2016,"$940,114"
-Brian Burns,53.0,Panthers,21.0,ROLB,16,5.0,250.0,6-5,Florida St.,4/23/1998,Rook,4.0,Carolina Panthers / 1st / 16th pick / 2019,"$495,000"
-Vernon Butler,92.0,Panthers,25.0,RDE,14,9.0,330.0,6-4,Louisiana Tech,6/14/1994,3,5.0,Carolina Panthers / 1st / 30th pick / 2016,"$1,144,980"
-Jermaine Carter Jr.,56.0,Panthers,24.0,LILB,16,5.0,225.0,6-1,Maryland,1/14/1995,1,3.0,Carolina Panthers / 5th / 161st pick / 2018,"$570,000"
-Ross Cockrell,47.0,Panthers,28.0,LCB,14,11.0,191.0,6-0,Duke,8/6/1991,5,4.0,Buffalo Bills / 4th / 109th pick / 2014,"$2,300,000"
-Bryan Cox Jr.,91.0,Panthers,25.0,DE,1,0.0,270.0,6-3,Florida,6/25/1994,2,0.0,,"$645,000"
-Dennis Daley,65.0,Panthers,23.0,LT,14,9.0,325.0,6-6,South Carolina,8/7/1996,Rook,4.0,Carolina Panthers / 6th / 212th pick / 2019,"$495,000"
-Mike Davis,27.0,Panthers,26.0,WR,5,0.0,220.0,5-9,South Carolina,2/19/1993,4,0.0,San Francisco 49ers / 4th / 126th pick / 2015,
-Greg Dortch,14.0,Panthers,21.0,WR,2,0.0,175.0,5-7,Wake Forest,5/29/1998,Rook,0.0,,
-Corn Elder,35.0,Panthers,25.0,DB,1,0.0,185.0,5-10,Miami (FL),10/9/1994,1,0.0,Carolina Panthers / 5th / 152nd pick / 2017,"$645,000"
-Javien Elliott,23.0,Panthers,26.0,DB,16,3.0,185.0,5-11,Florida St.,7/18/1993,3,2.0,,"$720,000"
-Rashaan Gaulden,28.0,Panthers,24.0,DB,9,0.0,200.0,6-0,Tennessee,1/23/1995,1,0.0,Carolina Panthers / 3rd / 85th pick / 2018,"$595,250"
-T.J. Green,36.0,Panthers,24.0,DB,1,0.0,215.0,6-3,Clemson,3/15/1995,3,0.0,Indianapolis Colts / 2nd / 57th pick / 2016,
-Will Grier,3.0,Panthers,24.0,QB,2,2.0,220.0,6-1,"Florida,West Virginia",4/3/1995,Rook,1.0,Carolina Panthers / 3rd / 100th pick / 2019,"$495,000"
-Marquis Haynes,98.0,Panthers,26.0,LB,11,0.0,235.0,6-2,Mississippi,12/16/1993,1,1.0,Carolina Panthers / 4th / 136th pick / 2018,"$570,000"
-Chris Hogan,15.0,Panthers,32.0,WR,7,1.0,210.0,6-1,Monmouth,10/24/1987,6,0.0,,"$825,000"
-Wes Horton,96.0,Panthers,29.0,LB,6,0.0,265.0,6-5,USC,1/18/1990,6,0.0,,
-Bruce Irvin,55.0,Panthers,32.0,ROLB,13,12.0,250.0,6-3,"Butler (KS),West Virginia",11/1/1987,7,5.0,Seattle Seahawks / 1st / 15th pick / 2012,"$1,250,000"
-Donte Jackson,26.0,Panthers,24.0,LCB,13,10.0,180.0,5-10,LSU,11/8/1995,1,4.0,Carolina Panthers / 2nd / 55th pick / 2018,"$698,751"
-Natrell Jamerson,30.0,Panthers,24.0,DB,5,0.0,200.0,5-11,Wisconsin,12/15/1995,1,0.0,New Orleans Saints / 5th / 164th pick / 2018,
-J.J. Jansen,44.0,Panthers,33.0,LS,16,0.0,235.0,6-2,Notre Dame,1/20/1986,10,2.0,,"$1,030,000"
-Colin Jones,42.0,Panthers,32.0,DB,16,0.0,205.0,6-0,TCU,10/27/1987,8,1.0,San Francisco 49ers / 6th / 190th pick / 2011,"$930,000"
-Luke Kuechly,59.0,Panthers,28.0,RILB,16,16.0,238.0,6-3,Boston Col.,4/20/1991,7,12.0,Carolina Panthers / 1st / 9th pick / 2012,"$10,000,059"
-Jordan Kunaszyk,43.0,Panthers,23.0,LB,9,0.0,235.0,6-3,California,10/15/1996,Rook,1.0,,"$495,000"
-Tyler Larsen,69.0,Panthers,28.0,C,16,0.0,335.0,6-4,Utah St.,7/8/1991,3,1.0,,"$900,000"
-Greg Little,74.0,Panthers,22.0,T,4,3.0,310.0,6-5,Mississippi,11/4/1997,Rook,1.0,Carolina Panthers / 2nd / 37th pick / 2019,"$495,000"
-Kyle Love,77.0,Panthers,33.0,DT,15,1.0,310.0,6-1,Mississippi St.,11/18/1986,9,1.0,,"$930,000"
-Cole Luke,32.0,Panthers,24.0,DB,8,0.0,200.0,5-11,Notre Dame,6/30/1995,Rook,0.0,,"$495,000"
-Brad Lundblade,64.0,Panthers,24.0,C,1,0.0,305.0,6-3,Oklahoma St.,9/21/1995,Rook,0.0,,
-Chris Manhertz,82.0,Panthers,27.0,TE,15,6.0,235.0,6-6,Canisius,4/10/1992,3,0.0,,
-Christian McCaffrey,22.0,Panthers,23.0,RB,16,16.0,205.0,5-11,Stanford,6/7/1996,2,15.0,Carolina Panthers / 1st / 8th pick / 2017,"$2,032,390"
-Ray-Ray McCloud,14.0,Panthers,23.0,WR,6,0.0,190.0,5-9,Clemson,10/15/1996,1,0.0,Buffalo Bills / 6th / 187th pick / 2018,
-Gerald McCoy,93.0,Panthers,31.0,LDE,16,16.0,295.0,6-4,Oklahoma,2/25/1988,9,6.0,Tampa Bay Buccaneers / 1st / 3rd pick / 2010,"$3,000,000"
-Stacy McGee,91.0,Panthers,29.0,DT,4,0.0,339.0,6-3,Oklahoma,1/17/1990,6,0.0,Oakland Raiders / 6th / 205th pick / 2013,
-Garrett McGhin,76.0,Panthers,24.0,G/T,2,0.0,302.0,6-6,East Carolina,10/13/1995,Rook,0.0,,
-Christian Miller,50.0,Panthers,23.0,LB,7,0.0,245.0,6-3,Alabama,6/16/1996,Rook,1.0,Carolina Panthers / 4th / 115th pick / 2019,"$495,000"
-Donte Moncrief,19.0,Panthers,26.0,WR,3,0.0,216.0,6-2,Mississippi,8/6/1993,5,0.0,Indianapolis Colts / 3rd / 90th pick / 2014,
-D.J. Moore,12.0,Panthers,22.0,WR,15,15.0,210.0,5-11,Maryland,4/14/1997,1,8.0,Carolina Panthers / 1st / 24th pick / 2018,"$987,787"
-Taylor Moton,72.0,Panthers,25.0,RT,16,16.0,325.0,6-5,Western Michigan,8/14/1994,2,6.0,Carolina Panthers / 2nd / 64th pick / 2017,"$843,014"
-Cam Newton,1.0,Panthers,30.0,QB,2,2.0,245.0,6-5,"Florida,Blinn College (TX),Auburn",5/11/1989,8,1.0,Carolina Panthers / 1st / 1st pick / 2011,"$16,200,000"
-Efe Obada,94.0,Panthers,27.0,DE,16,0.0,265.0,6-6,,4/13/1992,1,1.0,,"$570,000"
-Greg Olsen,88.0,Panthers,34.0,TE,14,14.0,255.0,6-5,Miami (FL),3/11/1985,12,4.0,Chicago Bears / 1st / 31st pick / 2007,"$1,900,000"
-Michael Palardy,5.0,Panthers,27.0,P,16,0.0,200.0,5-11,Tennessee,7/6/1992,3,3.0,,"$800,000"
-Matt Paradis,61.0,Panthers,30.0,C,16,16.0,300.0,6-3,Boise St.,10/12/1989,4,6.0,Denver Broncos / 6th / 207th pick / 2014,"$1,000,000"
-Dontari Poe,95.0,Panthers,29.0,NT,11,10.0,346.0,6-3,Memphis,8/18/1990,7,4.0,Kansas City Chiefs / 1st / 11th pick / 2012,"$4,500,000"
-Chris Reed,64.0,Panthers,27.0,T,3,0.0,314.0,6-3,Minnesota St.,7/22/1992,3,0.0,,
-Eric Reid,25.0,Panthers,28.0,SS,16,16.0,215.0,6-1,LSU,12/10/1991,6,5.0,San Francisco 49ers / 1st / 18th pick / 2013,"$1,500,000"
-Curtis Samuel,10.0,Panthers,23.0,WR,16,15.0,195.0,5-11,Ohio St.,8/11/1996,2,5.0,Carolina Panthers / 2nd / 40th pick / 2017,"$1,051,698"
-Jordan Scarlett,20.0,Panthers,23.0,RB,9,0.0,210.0,5-11,Florida,2/9/1996,Rook,0.0,Carolina Panthers / 5th / 154th pick / 2019,"$495,000"
-Kawann Short,99.0,Panthers,30.0,DT,2,2.0,315.0,6-3,Purdue,2/2/1989,6,1.0,Carolina Panthers / 2nd / 44th pick / 2013,"$12,500,000"
-Joey Slye,4.0,Panthers,23.0,K,16,0.0,213.0,5-11,Virginia Tech,4/10/1996,Rook,4.0,,"$495,000"
-Andre Smith,57.0,Panthers,22.0,LB,16,0.0,240.0,6-0,North Carolina,4/20/1997,1,1.0,Carolina Panthers / 7th / 234th pick / 2018,"$570,000"
-Ian Thomas,80.0,Panthers,23.0,TE,16,3.0,260.0,6-4,Indiana,6/6/1996,1,1.0,Carolina Panthers / 4th / 101st pick / 2018,"$570,000"
-Shaq Thompson,54.0,Panthers,25.0,LILB,14,14.0,230.0,6-0,Washington,4/21/1994,4,6.0,Carolina Panthers / 1st / 25th pick / 2015,"$9,232,000"
-Trai Turner,70.0,Panthers,26.0,RG,13,13.0,320.0,6-3,LSU,6/14/1993,5,7.0,Carolina Panthers / 3rd / 92nd pick / 2014,"$5,297,000"
-Greg Van Roten,73.0,Panthers,29.0,LG,11,11.0,305.0,6-3,Pennsylvania,2/26/1990,7,4.0,,"$805,000"
-DeAndrew White,18.0,Panthers,28.0,WR,10,0.0,195.0,6-0,Alabama,10/16/1991,4,0.0,,"$645,000"
-Daryl Williams,60.0,Panthers,27.0,LG/LT,16,12.0,330.0,6-6,Oklahoma,8/31/1992,4,5.0,Carolina Panthers / 4th / 102nd pick / 2015,"$2,250,000"
-Bryan Witzmann,76.0,Panthers,29.0,T,2,0.0,320.0,6-7,South Dakota St.,6/16/1990,3,0.0,,
-Jarius Wright,13.0,Panthers,30.0,WR,16,9.0,190.0,5-10,Arkansas,11/25/1989,7,2.0,Minnesota Vikings / 4th / 118th pick / 2012,"$1,500,000"
-Brandon Zylstra,11.0,Panthers,26.0,WR,8,0.0,215.0,6-2,Concordia-Moorhead (MN),3/25/1993,1,1.0,,
-Team Total,,Panthers,26.3,,16,,247.0,6-1.8,,,3.3,,,
+,No.,Player,BirthDate,Age,Height,Weight,College/University,Position,Games_Played_in_Season,Games_Started_in_Season,NFL_Years,Player_Value,Team,Year
+0,97.0,Mario Addison,9/6/1987,32.0,6-3,260.0,Troy,LOLB,15,15.0,8.0,6.0,Panthers,2019
+1,7.0,Kyle Allen,3/8/1996,23.0,6-3,210.0,"Texas A&M,Houston",QB,13,12.0,1.0,7.0,Panthers,2019
+2,40.0,Alex Armah,5/17/1994,25.0,6-1,255.0,West Georgia,FB,16,1.0,2.0,0.0,Panthers,2019
+3,39.0,Reggie Bonnafon,1/4/1996,23.0,6-0,215.0,Louisville,RB,16,0.0,0.0,1.0,Panthers,2019
+4,33.0,Tre Boston,6/25/1992,27.0,6-1,205.0,North Carolina,FS,16,16.0,5.0,5.0,Panthers,2019
+5,24.0,James Bradberry,8/4/1993,26.0,6-1,210.0,"Arkansas St.,Samford",RCB,15,15.0,3.0,5.0,Panthers,2019
+6,53.0,Brian Burns,4/23/1998,21.0,6-5,250.0,Florida St.,ROLB,16,5.0,0.0,4.0,Panthers,2019
+7,92.0,Vernon Butler,6/14/1994,25.0,6-4,330.0,Louisiana Tech,RDE,14,9.0,3.0,5.0,Panthers,2019
+8,56.0,Jermaine Carter Jr.,1/14/1995,24.0,6-1,225.0,Maryland,LILB,16,5.0,1.0,3.0,Panthers,2019
+9,47.0,Ross Cockrell,8/6/1991,28.0,6-0,191.0,Duke,LCB,14,11.0,5.0,4.0,Panthers,2019
+10,91.0,Bryan Cox Jr.,6/25/1994,25.0,6-3,270.0,Florida,DE,1,0.0,2.0,0.0,Panthers,2019
+11,65.0,Dennis Daley,8/7/1996,23.0,6-6,325.0,South Carolina,LT,14,9.0,0.0,4.0,Panthers,2019
+12,27.0,Mike Davis,2/19/1993,26.0,5-9,220.0,South Carolina,RB,5,0.0,4.0,0.0,Panthers,2019
+13,14.0,Greg Dortch,5/29/1998,21.0,5-7,175.0,Wake Forest,WR,2,0.0,0.0,0.0,Panthers,2019
+14,35.0,Corn Elder,10/9/1994,25.0,5-10,185.0,Miami (FL),DB,1,0.0,1.0,0.0,Panthers,2019
+15,23.0,Javien Elliott,7/18/1993,26.0,5-11,185.0,Florida St.,DB,16,3.0,3.0,2.0,Panthers,2019
+16,28.0,Rashaan Gaulden,1/23/1995,24.0,6-0,200.0,Tennessee,DB,9,0.0,1.0,0.0,Panthers,2019
+17,36.0,T.J. Green,3/15/1995,24.0,6-3,215.0,Clemson,DB,1,0.0,3.0,0.0,Panthers,2019
+18,3.0,Will Grier,4/3/1995,24.0,6-1,220.0,"Florida,West Virginia",QB,2,2.0,0.0,1.0,Panthers,2019
+19,98.0,Marquis Haynes,12/16/1993,26.0,6-2,235.0,Mississippi,LB,11,0.0,1.0,1.0,Panthers,2019
+20,15.0,Chris Hogan,10/24/1987,32.0,6-1,210.0,Monmouth,WR,7,1.0,6.0,0.0,Panthers,2019
+21,96.0,Wes Horton,1/18/1990,29.0,6-5,265.0,USC,DE,6,0.0,6.0,0.0,Panthers,2019
+22,55.0,Bruce Irvin,11/1/1987,32.0,6-3,250.0,"Butler (KS),West Virginia",ROLB,13,12.0,7.0,5.0,Panthers,2019
+23,26.0,Donte Jackson,11/8/1995,24.0,5-10,180.0,LSU,LCB,13,10.0,1.0,4.0,Panthers,2019
+24,30.0,Natrell Jamerson,12/15/1995,24.0,5-11,200.0,Wisconsin,DB,5,0.0,1.0,0.0,Panthers,2019
+25,44.0,J.J. Jansen,1/20/1986,33.0,6-2,235.0,Notre Dame,LS,16,0.0,10.0,2.0,Panthers,2019
+26,42.0,Colin Jones,10/27/1987,32.0,6-0,205.0,TCU,DB,16,0.0,8.0,1.0,Panthers,2019
+27,59.0,Luke Kuechly,4/20/1991,28.0,6-3,238.0,Boston Col.,RILB,16,16.0,7.0,12.0,Panthers,2019
+28,43.0,Jordan Kunaszyk,10/15/1996,23.0,6-3,235.0,California,LB,9,0.0,0.0,1.0,Panthers,2019
+29,69.0,Tyler Larsen,7/8/1991,28.0,6-4,335.0,Utah St.,C,16,0.0,3.0,1.0,Panthers,2019
+30,74.0,Greg Little,11/4/1997,22.0,6-5,310.0,Mississippi,T,4,3.0,0.0,1.0,Panthers,2019
+31,77.0,Kyle Love,11/18/1986,33.0,6-1,310.0,Mississippi St.,DT,15,1.0,9.0,1.0,Panthers,2019
+32,32.0,Cole Luke,6/30/1995,24.0,5-11,200.0,Notre Dame,DB,8,0.0,0.0,0.0,Panthers,2019
+33,64.0,Brad Lundblade,9/21/1995,24.0,6-3,305.0,Oklahoma St.,C,1,0.0,0.0,0.0,Panthers,2019
+34,82.0,Chris Manhertz,4/10/1992,27.0,6-6,235.0,Canisius,TE,15,6.0,3.0,0.0,Panthers,2019
+35,22.0,Christian McCaffrey,6/7/1996,23.0,5-11,205.0,Stanford,RB,16,16.0,2.0,15.0,Panthers,2019
+36,14.0,Ray-Ray McCloud,10/15/1996,23.0,5-9,190.0,Clemson,WR,6,0.0,1.0,0.0,Panthers,2019
+37,93.0,Gerald McCoy,2/25/1988,31.0,6-4,295.0,Oklahoma,LDE,16,16.0,9.0,6.0,Panthers,2019
+38,91.0,Stacy McGee,1/17/1990,29.0,6-3,339.0,Oklahoma,DT,4,0.0,6.0,0.0,Panthers,2019
+39,76.0,Garrett McGhin,10/13/1995,24.0,6-6,302.0,East Carolina,G/T,2,0.0,0.0,0.0,Panthers,2019
+40,50.0,Christian Miller,6/16/1996,23.0,6-3,245.0,Alabama,LB,7,0.0,0.0,1.0,Panthers,2019
+41,19.0,Donte Moncrief,8/6/1993,26.0,6-2,216.0,Mississippi,WR,3,0.0,5.0,0.0,Panthers,2019
+42,12.0,D.J. Moore,4/14/1997,22.0,5-11,210.0,Maryland,WR,15,15.0,1.0,8.0,Panthers,2019
+43,72.0,Taylor Moton,8/18/1994,25.0,6-5,325.0,Western Michigan,RT,16,16.0,2.0,6.0,Panthers,2019
+44,1.0,Cam Newton,5/11/1989,30.0,6-5,245.0,"Florida,Blinn College (TX),Auburn",QB,2,2.0,8.0,1.0,Panthers,2019
+45,94.0,Efe Obada,4/13/1992,27.0,6-6,265.0,,DE,16,0.0,1.0,1.0,Panthers,2019
+46,88.0,Greg Olsen,3/11/1985,34.0,6-5,255.0,Miami (FL),TE,14,14.0,12.0,4.0,Panthers,2019
+47,5.0,Michael Palardy,7/6/1992,27.0,5-11,200.0,Tennessee,P,16,0.0,3.0,3.0,Panthers,2019
+48,61.0,Matt Paradis,10/12/1989,30.0,6-3,300.0,Boise St.,C,16,16.0,4.0,6.0,Panthers,2019
+49,95.0,Dontari Poe,8/18/1990,29.0,6-3,346.0,Memphis,NT,11,10.0,7.0,4.0,Panthers,2019
+50,64.0,Chris Reed,7/22/1992,27.0,6-3,314.0,Minnesota St.,T,3,0.0,3.0,0.0,Panthers,2019
+51,25.0,Eric Reid,12/10/1991,28.0,6-1,215.0,LSU,SS,16,16.0,6.0,5.0,Panthers,2019
+52,10.0,Curtis Samuel,8/11/1996,23.0,5-11,195.0,Ohio St.,WR,16,15.0,2.0,5.0,Panthers,2019
+53,20.0,Jordan Scarlett,2/9/1996,23.0,5-11,210.0,Florida,RB,9,0.0,0.0,0.0,Panthers,2019
+54,99.0,Kawann Short,2/2/1989,30.0,6-3,315.0,Purdue,DT,2,2.0,6.0,1.0,Panthers,2019
+55,4.0,Joey Slye,4/10/1996,23.0,5-11,213.0,Virginia Tech,K,16,0.0,0.0,4.0,Panthers,2019
+56,57.0,Andre Smith,4/20/1997,22.0,6-0,240.0,North Carolina,LB,16,0.0,1.0,1.0,Panthers,2019
+57,80.0,Ian Thomas,6/6/1996,23.0,6-4,260.0,Indiana,TE,16,3.0,1.0,1.0,Panthers,2019
+58,54.0,Shaq Thompson,4/21/1994,25.0,6-0,230.0,Washington,LILB,14,14.0,4.0,6.0,Panthers,2019
+59,70.0,Trai Turner,6/14/1993,26.0,6-3,320.0,LSU,RG,13,13.0,5.0,7.0,Panthers,2019
+60,73.0,Greg Van Roten,2/26/1990,29.0,6-3,305.0,Pennsylvania,LG,11,11.0,7.0,4.0,Panthers,2019
+61,18.0,DeAndrew White,10/16/1991,28.0,6-0,195.0,Alabama,WR,10,0.0,4.0,0.0,Panthers,2019
+62,60.0,Daryl Williams,8/31/1992,27.0,6-6,330.0,Oklahoma,LG/LT,16,12.0,4.0,5.0,Panthers,2019
+63,76.0,Bryan Witzmann,6/16/1990,29.0,6-7,320.0,South Dakota St.,T,2,0.0,3.0,0.0,Panthers,2019
+64,13.0,Jarius Wright,11/25/1989,30.0,5-10,190.0,Arkansas,WR,16,9.0,7.0,2.0,Panthers,2019
+65,11.0,Brandon Zylstra,3/25/1993,26.0,6-2,215.0,Concordia-Moorhead (MN),WR,8,0.0,1.0,1.0,Panthers,2019
+66,,Team Total,,26.3,6-1.8,247.0,,,16,,3.3,,Panthers,2019

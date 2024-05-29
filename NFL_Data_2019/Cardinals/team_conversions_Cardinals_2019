@@ -1,5 +1,5 @@
-,Player,Team,3rd Down Attempts in Game,3rd Down Conversions,3rd Down Conversion Per.,4th Down Attempts in Game,4th Down Conversions in Game,4th Down Conversion Per.,Red Zone Attempts,Touchdowns Scored After the Team Entered the Red Zone,Per. of the Time a Team Reaches the Red Zone and Scores a Touchdown,Year
-0,Team Stats,Cardinals,197.0,71.0,36.0,20.0,13.0,65.0,53.0,24.0,45.3,2019.0
-1,Opp. Stats,Cardinals,214.0,100.0,46.7,14.0,3.0,21.4,62.0,37.0,59.7,2019.0
-2,Lg Rank Offense,Cardinals,,,21.0,,,3.0,,,29.0,2019.0
-3,Lg Rank Defense,Cardinals,,,30.0,,,1.0,,,21.0,2019.0
+,Player,3rd Down Attempts in Game,3rd Down Conversions,3rd Down Conversion Per.,4th Down Attempts in Game,4th Down Conversions in Game,4th Down Conversion Per.,Red Zone Attempts,Touchdowns Scored After the Team Entered the Red Zone,Per. of the Time a Team Reaches the Red Zone and Scores a Touchdown,Team,Year
+Team Stats,Team Stats,197.0,71.0,36.0,20.0,13.0,65.0,53.0,24.0,45.3,Cardinals,2019
+Opp. Stats,Opp. Stats,214.0,100.0,46.7,14.0,3.0,21.4,62.0,37.0,59.7,Cardinals,2019
+Lg Rank Offense,Lg Rank Offense,0.0,0.0,21.0,0.0,0.0,3.0,0.0,0.0,29,Cardinals,2019
+Lg Rank Defense,Lg Rank Defense,0.0,0.0,30.0,0.0,0.0,1.0,0.0,0.0,21,Cardinals,2019

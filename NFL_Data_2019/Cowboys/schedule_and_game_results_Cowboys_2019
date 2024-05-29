@@ -1,18 +1,17 @@
-,Week,Team,Day,Date,Time,Win/Loss,Overtime,Team Record,Home/Away,Opponent,Points Scored,Points Allowed,Offense 1st Down,Total Yards Gained of Offense,Total yards Gained by Passing,Total Yards Gained by Rushing,Offense Turnovers,Defense 1st Down,Total Yards Allowed by Defense,Total Passing Yards Allowed by Defense,Total Rushing Yards Allowed by Defense,Defense Turnovers,Offense,Defense,Sp. Tms,Year
-0,0,Cowboys,Sun,September 8,,W,0,1-0,home,New York Giants,35,17,23,494,405,89,0,25,470,319,151,2,26.91,-10.91,0.11,2019
-1,1,Cowboys,Sun,September 15,,W,0,2-0,away,Washington Redskins,31,21,25,474,261,213,1,19,255,208,47,0,23.5,-7.06,-3.71,2019
-2,2,Cowboys,Sun,September 22,,W,0,3-0,home,Miami Dolphins,31,6,28,476,241,235,1,17,283,211,72,1,19.62,14.0,-6.19,2019
-3,3,Cowboys,Sun,September 29,,L,0,3-1,away,New Orleans Saints,10,12,15,257,212,45,3,18,266,149,117,1,1.46,1.84,-0.65,2019
-4,4,Cowboys,Sun,October 6,,L,0,3-2,home,Green Bay Packers,24,34,32,563,441,122,3,24,335,215,120,0,12.8,-9.21,-10.99,2019
-5,5,Cowboys,Sun,October 13,,L,0,3-3,away,New York Jets,22,24,26,399,270,129,0,20,382,326,56,1,11.13,-10.83,-3.11,2019
-6,6,Cowboys,Sun,October 20,,W,0,4-3,home,Philadelphia Eagles,37,10,23,402,213,189,1,16,283,168,115,4,15.32,10.92,-0.53,2019
-7,7,Cowboys,,,,,0,,home,<strong>Bye Week</strong>,0,0,0,0,0,0,0,0,0,0,0,0,,,,2019
-8,8,Cowboys,Mon,November 4,,W,0,5-3,away,New York Giants,37,18,24,429,257,172,2,20,271,171,100,3,10.68,12.66,-5.61,2019
-9,9,Cowboys,Sun,November 10,,L,0,5-4,home,Minnesota Vikings,24,28,24,443,393,50,1,27,364,211,153,0,18.62,-18.73,-2.89,2019
-10,10,Cowboys,Sun,November 17,,W,0,6-4,away,Detroit Lions,35,27,26,509,434,75,1,19,312,191,121,0,22.23,-7.7,-6.35,2019
-11,11,Cowboys,Sun,November 24,,L,0,6-5,away,New England Patriots,9,13,16,321,212,109,1,17,282,181,101,0,-7.56,7.59,-4.62,2019
-12,12,Cowboys,Thu,November 28,,L,0,6-6,home,Buffalo Bills,15,26,32,426,323,103,2,22,356,232,124,0,7.13,-17.02,-5.01,2019
-13,13,Cowboys,Thu,December 5,,L,0,6-7,away,Chicago Bears,24,31,22,408,326,82,0,24,382,231,151,2,10.67,-10.48,-8.71,2019
-14,14,Cowboys,Sun,December 15,,W,0,7-7,home,Los Angeles Rams,44,21,25,475,212,263,0,23,289,267,22,1,26.77,3.54,-5.18,2019
-15,15,Cowboys,Sun,December 22,,L,0,7-8,away,Philadelphia Eagles,9,17,16,311,257,54,1,23,431,313,118,0,-6.26,-8.73,3.16,2019
-16,16,Cowboys,Sun,December 29,,W,0,8-8,home,Washington Redskins,47,16,22,517,294,223,1,13,271,183,88,2,17.75,18.31,-5.03,2019
+,Week,Day,Date,Time,Win/Loss,Overtime,Team Record,Home/Away,Opponent,Points Scored,Points Allowed,Offense 1st Down,Total Yards Gained of Offense,Total yards Gained by Passing,Total Yards Gained by Rushing,Offense Turnovers,Defense 1st Down,Total Yards Allowed by Defense,Total Passing Yards Allowed by Defense,Total Rushing Yards Allowed by Defense,Defense Turnovers,Offense,Defense,Sp. Tms,Team,Year
+0,1,Sun,2019-09-08,nan,Win,0,1-0,home,New York Giants,35,17,23,494,405,89,0,25,470,319,151,2,26.91,-10.91,0.11,Cowboys,2019
+1,2,Sun,2019-09-15,nan,Win,0,2-0,away,Washington Redskins,31,21,25,474,261,213,1,19,255,208,47,0,23.5,-7.06,-3.71,Cowboys,2019
+2,3,Sun,2019-09-22,nan,Win,0,3-0,home,Miami Dolphins,31,6,28,476,241,235,1,17,283,211,72,1,19.62,14.0,-6.19,Cowboys,2019
+3,4,Sun,2019-09-29,nan,Loss,0,3-1,away,New Orleans Saints,10,12,15,257,212,45,3,18,266,149,117,1,1.46,1.84,-0.65,Cowboys,2019
+4,5,Sun,2019-10-06,nan,Loss,0,3-2,home,Green Bay Packers,24,34,32,563,441,122,3,24,335,215,120,0,12.8,-9.21,-10.99,Cowboys,2019
+5,6,Sun,2019-10-13,nan,Loss,0,3-3,away,New York Jets,22,24,26,399,270,129,0,20,382,326,56,1,11.13,-10.83,-3.11,Cowboys,2019
+6,7,Sun,2019-10-20,nan,Win,0,4-3,home,Philadelphia Eagles,37,10,23,402,213,189,1,16,283,168,115,4,15.32,10.92,-0.53,Cowboys,2019
+7,9,Mon,2019-11-04,nan,Win,0,5-3,away,New York Giants,37,18,24,429,257,172,2,20,271,171,100,3,10.68,12.66,-5.61,Cowboys,2019
+8,10,Sun,2019-11-10,nan,Loss,0,5-4,home,Minnesota Vikings,24,28,24,443,393,50,1,27,364,211,153,0,18.62,-18.73,-2.89,Cowboys,2019
+9,11,Sun,2019-11-17,nan,Win,0,6-4,away,Detroit Lions,35,27,26,509,434,75,1,19,312,191,121,0,22.23,-7.7,-6.35,Cowboys,2019
+10,12,Sun,2019-11-24,nan,Loss,0,6-5,away,New England Patriots,9,13,16,321,212,109,1,17,282,181,101,0,-7.56,7.59,-4.62,Cowboys,2019
+11,13,Thu,2019-11-28,nan,Loss,0,6-6,home,Buffalo Bills,15,26,32,426,323,103,2,22,356,232,124,0,7.13,-17.02,-5.01,Cowboys,2019
+12,14,Thu,2019-12-05,nan,Loss,0,6-7,away,Chicago Bears,24,31,22,408,326,82,0,24,382,231,151,2,10.67,-10.48,-8.71,Cowboys,2019
+13,15,Sun,2019-12-15,nan,Win,0,7-7,home,Los Angeles Rams,44,21,25,475,212,263,0,23,289,267,22,1,26.77,3.54,-5.18,Cowboys,2019
+14,16,Sun,2019-12-22,nan,Loss,0,7-8,away,Philadelphia Eagles,9,17,16,311,257,54,1,23,431,313,118,0,-6.26,-8.73,3.16,Cowboys,2019
+15,17,Sun,2019-12-29,nan,Win,0,8-8,home,Washington Redskins,47,16,22,517,294,223,1,13,271,183,88,2,17.75,18.31,-5.03,Cowboys,2019

@@ -1,32 +1,32 @@
-,Rank,Team,Date,Opponent,Win/Loss,Score,Quarter,Distance,Type,Detail,Year
-0,1,Jets,09/08/2019,BUF,Loss, 16-17,1,17,interception,C.J. Mosley,2019
-1,2,Jets,09/08/2019,BUF,Loss, 16-17,3,9,pass,Le'Veon Bell,2019
-2,3,Jets,09/22/2019,NWE,Loss, 14-30,3,0,fumble,Arthur Maulet,2019
-3,4,Jets,09/22/2019,NWE,Loss, 14-30,4,61,interception,Jamal Adams,2019
-4,5,Jets,10/06/2019,PHI,Loss, 6-31,4,19,rush,Vyncint Smith,2019
-5,6,Jets,10/13/2019,DAL,Win, 24-22,1,2,rush,Le'Veon Bell,2019
-6,7,Jets,10/13/2019,DAL,Win, 24-22,2,92,pass,Robbie Chosen,2019
-7,8,Jets,10/13/2019,DAL,Win, 24-22,2,5,pass,Ryan Griffin,2019
-8,9,Jets,10/27/2019,JAX,Loss, 15-29,1,24,pass,Ryan Griffin,2019
-9,10,Jets,10/27/2019,JAX,Loss, 15-29,4,3,pass,Ryan Griffin,2019
-10,11,Jets,11/03/2019,MIA,Loss, 18-26,1,12,pass,Jamison Crowder,2019
-11,12,Jets,11/10/2019,NYG,Win, 34-27,1,2,rush,Sam Darnold,2019
-12,13,Jets,11/10/2019,NYG,Win, 34-27,1,23,pass,Jamison Crowder,2019
-13,14,Jets,11/10/2019,NYG,Win, 34-27,3,25,fumble,Jamal Adams,2019
-14,15,Jets,11/10/2019,NYG,Win, 34-27,4,1,rush,Le'Veon Bell,2019
-15,16,Jets,11/17/2019,WAS,Win, 34-17,1,20,pass,Daniel Brown,2019
-16,17,Jets,11/17/2019,WAS,Win, 34-17,2,6,pass,Robbie Chosen,2019
-17,18,Jets,11/17/2019,WAS,Win, 34-17,2,16,pass,Ryan Griffin,2019
-18,19,Jets,11/17/2019,WAS,Win, 34-17,4,29,pass,Jamison Crowder,2019
-19,20,Jets,11/17/2019,WAS,Win, 34-17,4,1,rush,Le'Veon Bell,2019
-20,21,Jets,11/24/2019,OAK,Win, 34-3,2,4,rush,Sam Darnold,2019
-21,22,Jets,11/24/2019,OAK,Win, 34-3,3,1,pass,Ryan Griffin,2019
-22,23,Jets,11/24/2019,OAK,Win, 34-3,3,1,pass,Robbie Chosen,2019
-23,24,Jets,11/24/2019,OAK,Win, 34-3,3,15,interception,Brian Poole,2019
-24,25,Jets,12/08/2019,MIA,Win, 22-21,2,26,pass,Robbie Chosen,2019
-25,26,Jets,12/08/2019,MIA,Win, 22-21,2,14,pass,Demaryius Thomas,2019
-26,27,Jets,12/12/2019,BAL,Loss, 21-42,2,4,pass,Jamison Crowder,2019
-27,28,Jets,12/12/2019,BAL,Loss, 21-42,4,14,blocked punt,B.J. Bello,2019
-28,29,Jets,12/12/2019,BAL,Loss, 21-42,4,18,pass,Jamison Crowder,2019
-29,30,Jets,12/22/2019,PIT,Win, 16-10,1,23,pass,Robbie Chosen,2019
-30,31,Jets,12/29/2019,BUF,Win, 13-6,4,1,pass,Jamison Crowder,2019
+,Rank,Team,Date,Opponent,Win/Loss,Home_Score,Opponenet_Score,Quarter,Distance,Type,Detail
+1,1,Jets,2019-09-08,BUF,Loss,16,17,1,17,interception,C.J. Mosley
+2,2,Jets,2019-09-08,BUF,Loss,16,17,3,9,pass,Le'Veon Bell
+3,3,Jets,2019-09-22,NWE,Loss,14,30,3,0,fumble,Arthur Maulet
+4,4,Jets,2019-09-22,NWE,Loss,14,30,4,61,interception,Jamal Adams
+5,5,Jets,2019-10-06,PHI,Loss,6,31,4,19,rush,Vyncint Smith
+6,6,Jets,2019-10-13,DAL,Win,24,22,1,2,rush,Le'Veon Bell
+7,7,Jets,2019-10-13,DAL,Win,24,22,2,92,pass,Robbie Chosen
+8,8,Jets,2019-10-13,DAL,Win,24,22,2,5,pass,Ryan Griffin
+9,9,Jets,2019-10-27,JAX,Loss,15,29,1,24,pass,Ryan Griffin
+10,10,Jets,2019-10-27,JAX,Loss,15,29,4,3,pass,Ryan Griffin
+11,11,Jets,2019-11-03,MIA,Loss,18,26,1,12,pass,Jamison Crowder
+12,12,Jets,2019-11-10,NYG,Win,34,27,1,2,rush,Sam Darnold
+13,13,Jets,2019-11-10,NYG,Win,34,27,1,23,pass,Jamison Crowder
+14,14,Jets,2019-11-10,NYG,Win,34,27,3,25,fumble,Jamal Adams
+15,15,Jets,2019-11-10,NYG,Win,34,27,4,1,rush,Le'Veon Bell
+16,16,Jets,2019-11-17,WAS,Win,34,17,1,20,pass,Daniel Brown
+17,17,Jets,2019-11-17,WAS,Win,34,17,2,6,pass,Robbie Chosen
+18,18,Jets,2019-11-17,WAS,Win,34,17,2,16,pass,Ryan Griffin
+19,19,Jets,2019-11-17,WAS,Win,34,17,4,29,pass,Jamison Crowder
+20,20,Jets,2019-11-17,WAS,Win,34,17,4,1,rush,Le'Veon Bell
+21,21,Jets,2019-11-24,OAK,Win,34,3,2,4,rush,Sam Darnold
+22,22,Jets,2019-11-24,OAK,Win,34,3,3,1,pass,Ryan Griffin
+23,23,Jets,2019-11-24,OAK,Win,34,3,3,1,pass,Robbie Chosen
+24,24,Jets,2019-11-24,OAK,Win,34,3,3,15,interception,Brian Poole
+25,25,Jets,2019-12-08,MIA,Win,22,21,2,26,pass,Robbie Chosen
+26,26,Jets,2019-12-08,MIA,Win,22,21,2,14,pass,Demaryius Thomas
+27,27,Jets,2019-12-12,BAL,Loss,21,42,2,4,pass,Jamison Crowder
+28,28,Jets,2019-12-12,BAL,Loss,21,42,4,14,blocked punt,B.J. Bello
+29,29,Jets,2019-12-12,BAL,Loss,21,42,4,18,pass,Jamison Crowder
+30,30,Jets,2019-12-22,PIT,Win,16,10,1,23,pass,Robbie Chosen
+31,31,Jets,2019-12-29,BUF,Win,13,6,4,1,pass,Jamison Crowder

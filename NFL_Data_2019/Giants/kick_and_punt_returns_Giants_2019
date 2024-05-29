@@ -1,9 +1,9 @@
-,No.,Team,Player,Age,Position,Games Played,Games Started,Punts Returned,Punts Return Yardage,Punts Returned for Touchdown,Longest Punt Return,Yards per Punt Return,Kickoff Returns,Yardage for Kickoffs Returned,Kickoffs Returned for a Touchdown,Longest Kickoff Return,Yards per Kickoff Return,All-purpose Yards,Year
-0,12,Giants,Cody Latimer,27,WR,15,10,0,0,0,0,,24,570,0,50,23.8,870,2019
-1,25,Giants,Corey Ballentine,23,DB,13,2,0,0,0,0,,10,256,0,52,25.6,256,2019
-2,18,Giants,Da'Mari Scott,24,WR,5,2,6,32,0,12,5.3,4,110,0,35,27.5,169,2019
-3,15,Giants,Golden Tate,31,WR,11,10,10,97,0,17,9.7,0,0,0,0,,789,2019
-4,86,Giants,Darius Slayton,22,WR,14,9,0,0,0,0,,9,189,0,30,21.0,929,2019
-5,80,Giants,T.J. Jones,27,WR,3,0,8,96,0,60,12.0,0,0,0,0,,134,2019
-6,21,Giants,Jabrill Peppers,24,SS,11,11,4,49,0,40,12.3,1,23,0,23,23.0,104,2019
-7,53,Giants,Oshane Ximines,23,DE,16,2,0,0,0,0,,1,5,0,5,5.0,5,2019
+,No.,Player,Age,Position,Games Played,Games Started,Punts Returned,Punts Return Yardage,Punts Returned for Touchdown,Longest Punt Return,Yards per Punt Return,Kickoff Returns,Yardage for Kickoffs Returned,Kickoffs Returned for a Touchdown,Longest Kickoff Return,Yards per Kickoff Return,All-purpose Yards,Team,Year
+12,12,Cody Latimer,27,WR,15,10,0,0,0,0,0.0,24,570,0,50,23.8,870,Giants,2019
+25,25,Corey Ballentine,23,DB,13,2,0,0,0,0,0.0,10,256,0,52,25.6,256,Giants,2019
+18,18,Da'Mari Scott,24,WR,5,2,6,32,0,12,5.3,4,110,0,35,27.5,169,Giants,2019
+15,15,Golden Tate,31,WR,11,10,10,97,0,17,9.7,0,0,0,0,0.0,789,Giants,2019
+86,86,Darius Slayton,22,WR,14,9,0,0,0,0,0.0,9,189,0,30,21.0,929,Giants,2019
+80,80,T.J. Jones,27,WR,3,0,8,96,0,60,12.0,0,0,0,0,0.0,134,Giants,2019
+21,21,Jabrill Peppers,24,SS,11,11,4,49,0,40,12.3,1,23,0,23,23.0,104,Giants,2019
+53,53,Oshane Ximines,23,DE,16,2,0,0,0,0,0.0,1,5,0,5,5.0,5,Giants,2019

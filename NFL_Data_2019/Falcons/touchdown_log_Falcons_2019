@@ -1,43 +1,43 @@
-,Rank,Team,Date,Opponent,Win/Loss,Score,Quarter,Distance,Type,Detail,Year
-0,1,Falcons,09/08/2019,MIN,Loss, 12-28,4,20,pass,Calvin Ridley,2019
-1,2,Falcons,09/08/2019,MIN,Loss, 12-28,4,2,pass,Julio Jones,2019
-2,3,Falcons,09/15/2019,PHI,Win, 24-20,2,34,pass,Calvin Ridley,2019
-3,4,Falcons,09/15/2019,PHI,Win, 24-20,3,4,pass,Julio Jones,2019
-4,5,Falcons,09/15/2019,PHI,Win, 24-20,4,54,pass,Julio Jones,2019
-5,6,Falcons,09/22/2019,IND,Loss, 24-27,3,13,pass,Austin Hooper,2019
-6,7,Falcons,09/22/2019,IND,Loss, 24-27,4,2,pass,Austin Hooper,2019
-7,8,Falcons,09/22/2019,IND,Loss, 24-27,4,10,pass,Julio Jones,2019
-8,9,Falcons,09/29/2019,TEN,Loss, 10-24,1,1,rush,Ito Smith,2019
-9,10,Falcons,10/06/2019,HOU,Loss, 32-53,1,14,pass,Mohamed Sanu,2019
-10,11,Falcons,10/06/2019,HOU,Loss, 32-53,2,9,pass,Devonta Freeman,2019
-11,12,Falcons,10/06/2019,HOU,Loss, 32-53,4,1,rush,Matt Ryan,2019
-12,13,Falcons,10/06/2019,HOU,Loss, 32-53,4,29,pass,Calvin Ridley,2019
-13,14,Falcons,10/13/2019,ARI,Loss, 33-34,1,9,pass,Calvin Ridley,2019
-14,15,Falcons,10/13/2019,ARI,Loss, 33-34,3,7,pass,Devonta Freeman,2019
-15,16,Falcons,10/13/2019,ARI,Loss, 33-34,4,6,pass,Austin Hooper,2019
-16,17,Falcons,10/13/2019,ARI,Loss, 33-34,4,12,pass,Devonta Freeman,2019
-17,18,Falcons,10/20/2019,LAR,Loss, 10-37,4,10,pass,Austin Hooper,2019
-18,19,Falcons,10/27/2019,SEA,Loss, 20-27,3,23,rush,Brian Hill,2019
-19,20,Falcons,10/27/2019,SEA,Loss, 20-27,4,1,pass,Austin Hooper,2019
-20,21,Falcons,11/10/2019,NOR,Win, 26-9,2,8,pass,Austin Hooper,2019
-21,22,Falcons,11/10/2019,NOR,Win, 26-9,4,10,pass,Brian Hill,2019
-22,23,Falcons,11/17/2019,CAR,Win, 29-3,1,78,punt,Kenjon Barner,2019
-23,24,Falcons,11/17/2019,CAR,Win, 29-3,2,2,rush,Qadree Ollison,2019
-24,25,Falcons,11/17/2019,CAR,Win, 29-3,3,6,pass,Calvin Ridley,2019
-25,26,Falcons,11/24/2019,TAM,Loss, 22-35,1,1,rush,Qadree Ollison,2019
-26,27,Falcons,11/24/2019,TAM,Loss, 22-35,4,21,pass,Calvin Ridley,2019
-27,28,Falcons,11/28/2019,NOR,Loss, 18-26,2,18,pass,Jaeden Graham,2019
-28,29,Falcons,11/28/2019,NOR,Loss, 18-26,4,13,pass,Russell Gage,2019
-29,30,Falcons,12/08/2019,CAR,Win, 40-20,2,15,pass,Calvin Ridley,2019
-30,31,Falcons,12/08/2019,CAR,Win, 40-20,3,13,rush,Devonta Freeman,2019
-31,32,Falcons,12/08/2019,CAR,Win, 40-20,3,93,pass,Olamide Zaccheaus,2019
-32,33,Falcons,12/08/2019,CAR,Win, 40-20,4,3,rush,Brian Hill,2019
-33,34,Falcons,12/15/2019,SFO,Win, 29-22,2,5,pass,Julio Jones,2019
-34,35,Falcons,12/15/2019,SFO,Win, 29-22,4,1,rush,Qadree Ollison,2019
-35,36,Falcons,12/15/2019,SFO,Win, 29-22,4,5,pass,Julio Jones,2019
-36,37,Falcons,12/15/2019,SFO,Win, 29-22,4,0,fumble,Olamide Zaccheaus,2019
-37,38,Falcons,12/22/2019,JAX,Win, 24-12,1,17,rush,Devonta Freeman,2019
-38,39,Falcons,12/22/2019,JAX,Win, 24-12,1,8,pass,Devonta Freeman,2019
-39,40,Falcons,12/22/2019,JAX,Win, 24-12,4,3,rush,Qadree Ollison,2019
-40,41,Falcons,12/29/2019,TAM,Win, 28-22,1,35,pass,Ty Sambrailo,2019
-41,42,Falcons,12/29/2019,TAM,Win, 28-22,5,27,interception,Deion Jones,2019
+,Rank,Team,Date,Opponent,Win/Loss,Home_Score,Opponenet_Score,Quarter,Distance,Type,Detail
+1,1,Falcons,2019-09-08,MIN,Loss,12,28,4,20,pass,Calvin Ridley
+2,2,Falcons,2019-09-08,MIN,Loss,12,28,4,2,pass,Julio Jones
+3,3,Falcons,2019-09-15,PHI,Win,24,20,2,34,pass,Calvin Ridley
+4,4,Falcons,2019-09-15,PHI,Win,24,20,3,4,pass,Julio Jones
+5,5,Falcons,2019-09-15,PHI,Win,24,20,4,54,pass,Julio Jones
+6,6,Falcons,2019-09-22,IND,Loss,24,27,3,13,pass,Austin Hooper
+7,7,Falcons,2019-09-22,IND,Loss,24,27,4,2,pass,Austin Hooper
+8,8,Falcons,2019-09-22,IND,Loss,24,27,4,10,pass,Julio Jones
+9,9,Falcons,2019-09-29,TEN,Loss,10,24,1,1,rush,Ito Smith
+10,10,Falcons,2019-10-06,HOU,Loss,32,53,1,14,pass,Mohamed Sanu
+11,11,Falcons,2019-10-06,HOU,Loss,32,53,2,9,pass,Devonta Freeman
+12,12,Falcons,2019-10-06,HOU,Loss,32,53,4,1,rush,Matt Ryan
+13,13,Falcons,2019-10-06,HOU,Loss,32,53,4,29,pass,Calvin Ridley
+14,14,Falcons,2019-10-13,ARI,Loss,33,34,1,9,pass,Calvin Ridley
+15,15,Falcons,2019-10-13,ARI,Loss,33,34,3,7,pass,Devonta Freeman
+16,16,Falcons,2019-10-13,ARI,Loss,33,34,4,6,pass,Austin Hooper
+17,17,Falcons,2019-10-13,ARI,Loss,33,34,4,12,pass,Devonta Freeman
+18,18,Falcons,2019-10-20,LAR,Loss,10,37,4,10,pass,Austin Hooper
+19,19,Falcons,2019-10-27,SEA,Loss,20,27,3,23,rush,Brian Hill
+20,20,Falcons,2019-10-27,SEA,Loss,20,27,4,1,pass,Austin Hooper
+21,21,Falcons,2019-11-10,NOR,Win,26,9,2,8,pass,Austin Hooper
+22,22,Falcons,2019-11-10,NOR,Win,26,9,4,10,pass,Brian Hill
+23,23,Falcons,2019-11-17,CAR,Win,29,3,1,78,punt,Kenjon Barner
+24,24,Falcons,2019-11-17,CAR,Win,29,3,2,2,rush,Qadree Ollison
+25,25,Falcons,2019-11-17,CAR,Win,29,3,3,6,pass,Calvin Ridley
+26,26,Falcons,2019-11-24,TAM,Loss,22,35,1,1,rush,Qadree Ollison
+27,27,Falcons,2019-11-24,TAM,Loss,22,35,4,21,pass,Calvin Ridley
+28,28,Falcons,2019-11-28,NOR,Loss,18,26,2,18,pass,Jaeden Graham
+29,29,Falcons,2019-11-28,NOR,Loss,18,26,4,13,pass,Russell Gage
+30,30,Falcons,2019-12-08,CAR,Win,40,20,2,15,pass,Calvin Ridley
+31,31,Falcons,2019-12-08,CAR,Win,40,20,3,13,rush,Devonta Freeman
+32,32,Falcons,2019-12-08,CAR,Win,40,20,3,93,pass,Olamide Zaccheaus
+33,33,Falcons,2019-12-08,CAR,Win,40,20,4,3,rush,Brian Hill
+34,34,Falcons,2019-12-15,SFO,Win,29,22,2,5,pass,Julio Jones
+35,35,Falcons,2019-12-15,SFO,Win,29,22,4,1,rush,Qadree Ollison
+36,36,Falcons,2019-12-15,SFO,Win,29,22,4,5,pass,Julio Jones
+37,37,Falcons,2019-12-15,SFO,Win,29,22,4,0,fumble,Olamide Zaccheaus
+38,38,Falcons,2019-12-22,JAX,Win,24,12,1,17,rush,Devonta Freeman
+39,39,Falcons,2019-12-22,JAX,Win,24,12,1,8,pass,Devonta Freeman
+40,40,Falcons,2019-12-22,JAX,Win,24,12,4,3,rush,Qadree Ollison
+41,41,Falcons,2019-12-29,TAM,Win,28,22,1,35,pass,Ty Sambrailo
+42,42,Falcons,2019-12-29,TAM,Win,28,22,5,27,interception,Deion Jones

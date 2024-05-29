@@ -1,17 +1,17 @@
-,No.,Team,Player,Age,Pos,Games Played,Games Started,Rush TD,Reception TD,Punt Return TD,Kick Return TD,Fumble Return TD,Interception TD,Other TD,All Touchdown Scored,2-Point Conversions Made,Two-Point Conversions Attempted,Defensive Two-Point Conversions,Extra Points Made,Extra Points Allowed,Field Goals Made,Field Goals Attempted,Safeties Scored by Player/Team,Total Points Scored by all Means,Poins per Game,Year
-0,5,Vikings,Dan Bailey,31,K,16,0,0,0,0,0,0,0,0,0,0,0,0,40,44,27,29,,121,7.6,2019
-1,33,Vikings,Dalvin Cook,24,RB,14,14,13,0,0,0,0,0,0,13,0,0,0,0,0,0,0,,78,5.6,2019
-2,19,Vikings,Adam Thielen,29,WR,10,10,1,6,0,0,0,0,0,7,0,0,0,0,0,0,0,,42,4.2,2019
-3,82,Vikings,Kyle Rudolph,30,TE,16,16,0,6,0,0,0,0,0,6,1,0,0,0,0,0,0,,38,2.4,2019
-4,14,Vikings,Stefon Diggs,26,WR,15,15,0,6,0,0,0,0,0,6,0,0,0,0,0,0,0,,36,2.4,2019
-5,23,Vikings,Mike Boone,24,RB,16,2,3,0,0,0,0,0,0,3,0,0,0,0,0,0,0,,18,1.1,2019
-6,81,Vikings,Olabisi Johnson,22,WR,16,6,0,3,0,0,0,0,0,3,0,0,0,0,0,0,0,,18,1.1,2019
-7,84,Vikings,Irv Smith Jr.,21,TE,16,7,0,2,0,0,0,0,0,2,0,0,0,0,0,0,0,,12,0.8,2019
-8,31,Vikings,Ameer Abdullah,26,RB,16,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,,6,0.4,2019
-9,8,Vikings,Kirk Cousins,31,QB,15,15,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,,6,0.4,2019
-10,30,Vikings,C.J. Ham,26,FB,16,7,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,,6,0.4,2019
-11,41,Vikings,Anthony Harris,28,FS,14,14,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,,6,0.4,2019
-12,25,Vikings,Alexander Mattison,21,RB,13,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,,6,0.5,2019
-13,95,Vikings,Ifeadi Odenigbo,25,DE,16,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,,6,0.4,2019
-14,11,Vikings,Laquon Treadwell,24,WR,13,1,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,,6,0.5,2019
-15,55,Vikings,Anthony Barr,27,RLB,14,14,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1.0,2,0.1,2019
+,No.,Player,Age,Pos,Games Played,Games Started,Rush TD,Reception TD,Punt Return TD,Kick Return TD,Fumble Return TD,Interception TD,Other TD,All Touchdown Scored,2-Point Conversions Made,Two-Point Conversions Attempted,Defensive Two-Point Conversions,Extra Points Made,Extra Points Allowed,Field Goals Made,Field Goals Attempted,Safeties Scored by Player/Team,Total Points Scored by all Means,Poins per Game,Team,Year
+5,5,Dan Bailey,31,K,16,0,0,0,0,0,0,0,0,0,0,0,0,40,44,27,29,0,121,7.6,Vikings,2019
+33,33,Dalvin Cook,24,RB,14,14,13,0,0,0,0,0,0,13,0,0,0,0,0,0,0,0,78,5.6,Vikings,2019
+19,19,Adam Thielen,29,WR,10,10,1,6,0,0,0,0,0,7,0,0,0,0,0,0,0,0,42,4.2,Vikings,2019
+82,82,Kyle Rudolph,30,TE,16,16,0,6,0,0,0,0,0,6,1,0,0,0,0,0,0,0,38,2.4,Vikings,2019
+14,14,Stefon Diggs,26,WR,15,15,0,6,0,0,0,0,0,6,0,0,0,0,0,0,0,0,36,2.4,Vikings,2019
+23,23,Mike Boone,24,RB,16,2,3,0,0,0,0,0,0,3,0,0,0,0,0,0,0,0,18,1.1,Vikings,2019
+81,81,Olabisi Johnson,22,WR,16,6,0,3,0,0,0,0,0,3,0,0,0,0,0,0,0,0,18,1.1,Vikings,2019
+84,84,Irv Smith Jr.,21,TE,16,7,0,2,0,0,0,0,0,2,0,0,0,0,0,0,0,0,12,0.8,Vikings,2019
+31,31,Ameer Abdullah,26,RB,16,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,6,0.4,Vikings,2019
+8,8,Kirk Cousins,31,QB,15,15,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,6,0.4,Vikings,2019
+30,30,C.J. Ham,26,FB,16,7,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,6,0.4,Vikings,2019
+41,41,Anthony Harris,28,FS,14,14,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,6,0.4,Vikings,2019
+25,25,Alexander Mattison,21,RB,13,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,6,0.5,Vikings,2019
+95,95,Ifeadi Odenigbo,25,DE,16,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,6,0.4,Vikings,2019
+11,11,Laquon Treadwell,24,WR,13,1,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,6,0.5,Vikings,2019
+55,55,Anthony Barr,27,RLB,14,14,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,2,0.1,Vikings,2019

@@ -1,15 +1,15 @@
-,No.,Team,Player,Age,Pos,Games Played,Games Started,Rush TD,Reception TD,Punt Return TD,Kick Return TD,Fumble Return TD,Interception TD,Other TD,All Touchdown Scored,2-Point Conversions Made,Two-Point Conversions Attempted,Defensive Two-Point Conversions,Extra Points Made,Extra Points Allowed,Field Goals Made,Field Goals Attempted,Safeties Scored by Player/Team,Total Points Scored by all Means,Poins per Game,Year
-0,4,Browns,Austin Seibert,23,K,16,0,0,0,0,0,0,0,0,0,0,0,0,30,35,25,29,,105,6.6,2019
-1,24,Browns,Nick Chubb,24,RB,16,16,8,0,0,0,0,0,0,8,0,0,0,0,0,0,0,,48,3.0,2019
-2,80,Browns,Jarvis Landry,27,WR,16,16,0,6,0,0,0,0,0,6,0,0,0,0,0,0,0,,36,2.3,2019
-3,13,Browns,Odell Beckham Jr.,27,WR,16,15,0,4,0,0,0,0,0,4,0,0,0,0,0,0,0,,24,1.5,2019
-4,83,Browns,Ricky Seals-Jones,24,WR,14,3,0,4,0,0,0,0,0,4,0,0,0,0,0,0,0,,24,1.7,2019
-5,88,Browns,Demetrius Harris,28,TE,15,6,0,3,0,0,0,0,0,3,1,0,0,0,0,0,0,,20,1.3,2019
-6,27,Browns,Kareem Hunt,24,RB,8,3,2,1,0,0,0,0,0,3,0,0,0,0,0,0,0,,18,2.3,2019
-7,6,Browns,Baker Mayfield,24,QB,16,16,3,0,0,0,0,0,0,3,0,0,0,0,0,0,0,,18,1.1,2019
-8,25,Browns,Dontrell Hilliard,24,RB,14,0,2,0,0,0,0,0,0,2,0,0,0,0,0,0,0,,12,0.9,2019
-9,89,Browns,Stephen Carlson,23,TE,9,5,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,,6,0.7,2019
-10,81,Browns,Rashard Higgins,25,WR,10,1,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,,6,0.6,2019
-11,85,Browns,David Njoku,23,TE,4,1,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,,6,1.5,2019
-12,18,Browns,Damion Ratley,24,WR,13,3,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,,6,0.5,2019
-13,21,Browns,Denzel Ward,22,LCB,12,12,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,,6,0.5,2019
+,No.,Player,Age,Pos,Games Played,Games Started,Rush TD,Reception TD,Punt Return TD,Kick Return TD,Fumble Return TD,Interception TD,Other TD,All Touchdown Scored,2-Point Conversions Made,Two-Point Conversions Attempted,Defensive Two-Point Conversions,Extra Points Made,Extra Points Allowed,Field Goals Made,Field Goals Attempted,Safeties Scored by Player/Team,Total Points Scored by all Means,Poins per Game,Team,Year
+4,4,Austin Seibert,23,K,16,0,0,0,0,0,0,0,0,0,0,0,0,30,35,25,29,0,105,6.6,Browns,2019
+24,24,Nick Chubb,24,RB,16,16,8,0,0,0,0,0,0,8,0,0,0,0,0,0,0,0,48,3.0,Browns,2019
+80,80,Jarvis Landry,27,WR,16,16,0,6,0,0,0,0,0,6,0,0,0,0,0,0,0,0,36,2.3,Browns,2019
+13,13,Odell Beckham Jr.,27,WR,16,15,0,4,0,0,0,0,0,4,0,0,0,0,0,0,0,0,24,1.5,Browns,2019
+83,83,Ricky Seals-Jones,24,WR,14,3,0,4,0,0,0,0,0,4,0,0,0,0,0,0,0,0,24,1.7,Browns,2019
+88,88,Demetrius Harris,28,TE,15,6,0,3,0,0,0,0,0,3,1,0,0,0,0,0,0,0,20,1.3,Browns,2019
+27,27,Kareem Hunt,24,RB,8,3,2,1,0,0,0,0,0,3,0,0,0,0,0,0,0,0,18,2.3,Browns,2019
+6,6,Baker Mayfield,24,QB,16,16,3,0,0,0,0,0,0,3,0,0,0,0,0,0,0,0,18,1.1,Browns,2019
+25,25,Dontrell Hilliard,24,RB,14,0,2,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,12,0.9,Browns,2019
+89,89,Stephen Carlson,23,TE,9,5,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,6,0.7,Browns,2019
+81,81,Rashard Higgins,25,WR,10,1,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,6,0.6,Browns,2019
+85,85,David Njoku,23,TE,4,1,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,6,1.5,Browns,2019
+18,18,Damion Ratley,24,WR,13,3,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,6,0.5,Browns,2019
+21,21,Denzel Ward,22,LCB,12,12,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,6,0.5,Browns,2019

@@ -1,18 +1,18 @@
-,No.,Team,Player,Age,Pos,Games Played,Games Started,Rush TD,Reception TD,Punt Return TD,Kick Return TD,Fumble Return TD,Interception TD,Other TD,All Touchdown Scored,2-Point Conversions Made,Two-Point Conversions Attempted,Defensive Two-Point Conversions,Extra Points Made,Extra Points Allowed,Field Goals Made,Field Goals Attempted,Safeties Scored by Player/Team,Total Points Scored by all Means,Poins per Game,Year
-0,9,Buccaneers,Matt Gay,25,K,16,0,0,0,0,0,0,0,0,0,0,0,0,43,48,27,35,,124,7.8,2019
-1,12,Buccaneers,Chris Godwin,23,WR,14,14,0,9,0,0,0,0,0,9,1,0,0,0,0,0,0,,56,4.0,2019
-2,13,Buccaneers,Mike Evans,26,WR,13,13,0,8,0,0,0,0,0,8,1,0,0,0,0,0,0,,50,3.8,2019
-3,25,Buccaneers,Peyton Barber,25,RB,16,7,6,1,0,0,0,0,0,7,1,0,0,0,0,0,0,,44,2.8,2019
-4,27,Buccaneers,Ronald Jones II,22,RB,16,9,6,0,0,0,0,0,0,6,0,0,0,0,0,0,0,,36,2.3,2019
-5,19,Buccaneers,Breshad Perriman,26,WR,14,4,0,6,0,0,0,0,0,6,0,0,0,0,0,0,0,,36,2.6,2019
-6,84,Buccaneers,Cameron Brate,28,TE,16,6,0,4,0,0,0,0,0,4,0,0,0,0,0,0,0,,24,1.5,2019
-7,44,Buccaneers,Dare Ogunbowale,25,RB,16,0,2,0,0,0,0,0,0,2,0,0,0,0,0,0,0,,12,0.8,2019
-8,93,Buccaneers,Ndamukong Suh,32,LDE,16,16,0,0,0,0,2,0,0,2,0,0,0,0,0,0,0,,12,0.8,2019
-9,17,Buccaneers,Justin Watson,23,WR,16,2,0,2,0,0,0,0,0,2,0,0,0,0,0,0,0,,12,0.8,2019
-10,45,Buccaneers,Devin White,21,LILB,13,13,0,0,0,0,2,0,0,2,0,0,0,0,0,0,0,,12,0.9,2019
-11,3,Buccaneers,Jameis Winston,25,QB,16,16,1,0,0,0,0,0,0,1,2,0,0,0,0,0,0,,10,0.6,2019
-12,28,Buccaneers,Vernon Hargreaves III,24,RCB,9,9,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,,6,0.7,2019
-13,80,Buccaneers,O.J. Howard,25,TE,14,14,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,,6,0.4,2019
-14,10,Buccaneers,Scott Miller,22,WR,10,2,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,,6,0.6,2019
-15,26,Buccaneers,Sean Murphy-Bunting,22,RCB,16,10,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,,6,0.4,2019
-16,50,Buccaneers,Vita Vea,24,NT,16,16,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,,6,0.4,2019
+,No.,Player,Age,Pos,Games Played,Games Started,Rush TD,Reception TD,Punt Return TD,Kick Return TD,Fumble Return TD,Interception TD,Other TD,All Touchdown Scored,2-Point Conversions Made,Two-Point Conversions Attempted,Defensive Two-Point Conversions,Extra Points Made,Extra Points Allowed,Field Goals Made,Field Goals Attempted,Safeties Scored by Player/Team,Total Points Scored by all Means,Poins per Game,Team,Year
+9,9,Matt Gay,25,K,16,0,0,0,0,0,0,0,0,0,0,0,0,43,48,27,35,0,124,7.8,Buccaneers,2019
+12,12,Chris Godwin,23,WR,14,14,0,9,0,0,0,0,0,9,1,0,0,0,0,0,0,0,56,4.0,Buccaneers,2019
+13,13,Mike Evans,26,WR,13,13,0,8,0,0,0,0,0,8,1,0,0,0,0,0,0,0,50,3.8,Buccaneers,2019
+25,25,Peyton Barber,25,RB,16,7,6,1,0,0,0,0,0,7,1,0,0,0,0,0,0,0,44,2.8,Buccaneers,2019
+27,27,Ronald Jones II,22,RB,16,9,6,0,0,0,0,0,0,6,0,0,0,0,0,0,0,0,36,2.3,Buccaneers,2019
+19,19,Breshad Perriman,26,WR,14,4,0,6,0,0,0,0,0,6,0,0,0,0,0,0,0,0,36,2.6,Buccaneers,2019
+84,84,Cameron Brate,28,TE,16,6,0,4,0,0,0,0,0,4,0,0,0,0,0,0,0,0,24,1.5,Buccaneers,2019
+44,44,Dare Ogunbowale,25,RB,16,0,2,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,12,0.8,Buccaneers,2019
+93,93,Ndamukong Suh,32,LDE,16,16,0,0,0,0,2,0,0,2,0,0,0,0,0,0,0,0,12,0.8,Buccaneers,2019
+17,17,Justin Watson,24,WR,16,2,0,2,0,0,0,0,0,2,0,0,0,0,0,0,0,0,12,0.8,Buccaneers,2019
+45,45,Devin White,21,LILB,13,13,0,0,0,0,2,0,0,2,0,0,0,0,0,0,0,0,12,0.9,Buccaneers,2019
+3,3,Jameis Winston,25,QB,16,16,1,0,0,0,0,0,0,1,2,0,0,0,0,0,0,0,10,0.6,Buccaneers,2019
+28,28,Vernon Hargreaves III,24,RCB,9,9,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,6,0.7,Buccaneers,2019
+80,80,O.J. Howard,25,TE,14,14,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,6,0.4,Buccaneers,2019
+10,10,Scott Miller,22,WR,10,2,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,6,0.6,Buccaneers,2019
+26,26,Sean Murphy-Bunting,22,RCB,16,10,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,6,0.4,Buccaneers,2019
+50,50,Vita Vea,24,NT,16,16,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,6,0.4,Buccaneers,2019
