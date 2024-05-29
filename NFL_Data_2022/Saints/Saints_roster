@@ -1,77 +1,77 @@
-Player,No.,Team,Age,Pos,G,GS,Wt,Ht,College/Univ,BirthDate,Yrs,AV,Drafted (tm/rnd/yr)
-Paulson Adebo,29.0,Saints,23.0,CB,13,12.0,192.0,6-1,Stanford,7/3/1999,1,4.0,New Orleans Saints / 3rd / 76th pick / 2021
-Josh Andrews,68.0,Saints,31.0,G,6,5.0,298.0,6-2,Oregon St.,6/21/1991,7,2.0,
-Zack Baun,53.0,Saints,26.0,LB,13,1.0,225.0,6-3,Wisconsin,12/30/1996,2,1.0,New Orleans Saints / 3rd / 74th pick / 2020
-Eno Benjamin,31.0,Saints,23.0,RB,3,0.0,207.0,5-9,Arizona St.,4/13/1999,1,0.0,Arizona Cardinals / 7th / 222nd pick / 2020
-Marquez Callaway,1.0,Saints,24.0,WR,14,3.0,204.0,6-2,Tennessee,3/27/1998,2,1.0,
-Andy Dalton,14.0,Saints,35.0,QB,14,14.0,220.0,6-2,TCU,10/29/1987,11,8.0,Cincinnati Bengals / 2nd / 35th pick / 2011
-Marcus Davenport,92.0,Saints,26.0,DE,15,9.0,265.0,6-6,Texas-San Antonio,9/4/1996,4,5.0,New Orleans Saints / 1st / 14th pick / 2018
-Demario Davis,56.0,Saints,33.0,LB,17,17.0,248.0,6-2,Arkansas St.,1/11/1989,10,15.0,New York Jets / 3rd / 77th pick / 2012
-Wyatt Davis,65.0,Saints,23.0,G,1,0.0,315.0,6-4,Ohio St.,2/17/1999,1,0.0,Minnesota Vikings / 3rd / 86th pick / 2021
-Andrew Dowell,50.0,Saints,26.0,LB,17,0.0,225.0,6-1,Michigan St.,11/16/1996,2,1.0,
-Yasir Durant,79.0,Saints,24.0,G,1,0.0,330.0,6-7,Missouri,5/21/1998,2,0.0,
-Kaden Elliss,55.0,Saints,27.0,LB,17,11.0,238.0,6-2,Idaho,7/10/1995,3,6.0,New Orleans Saints / 7th / 244th pick / 2019
-Justin Evans,30.0,Saints,27.0,DB,15,4.0,199.0,6-0,"Mississippi Gulf Coast CC,Texas A&M",8/26/1995,5,2.0,Tampa Bay Buccaneers / 2nd / 50th pick / 2017
-DaMarcus Fields,39.0,Saints,24.0,DB,2,0.0,200.0,6-0,Texas Tech,3/11/1998,Rook,0.0,
-Blake Gillikin,4.0,Saints,24.0,P,17,0.0,196.0,6-2,Penn St.,1/21/1998,1,3.0,
-Carl Granderson,96.0,Saints,26.0,DE,16,4.0,261.0,6-5,Wyoming,12/18/1996,3,4.0,
-J.T. Gray,48.0,Saints,26.0,DB,14,0.0,202.0,6-0,Mississippi St.,1/18/1996,4,1.0,
-Chase Hansen,40.0,Saints,29.0,LB,11,1.0,222.0,6-3,Utah,5/20/1993,2,1.0,
-Chris Harris Jr.,19.0,Saints,33.0,DB,10,4.0,199.0,5-10,Kansas,6/18/1989,11,2.0,
-Deonte Harty,11.0,Saints,25.0,WR,4,0.0,170.0,5-6,Assumption,12/4/1997,3,0.0,
-Taysom Hill,7.0,Saints,32.0,TE,16,8.0,221.0,6-2,BYU,8/23/1990,5,4.0,
-J.P. Holtz,88.0,Saints,29.0,TE,6,2.0,246.0,6-3,Pittsburgh,8/28/1993,3,0.0,
-Jordan Howard,28.0,Saints,28.0,RB,2,0.0,224.0,6-0,Indiana,11/2/1994,6,0.0,Chicago Bears / 5th / 150th pick / 2016
-James Hurst,74.0,Saints,31.0,OL,16,16.0,310.0,6-5,North Carolina,12/17/1991,8,6.0,
-Mark Ingram,22.0,Saints,33.0,RB,10,3.0,215.0,5-9,Alabama,12/21/1989,11,2.0,New Orleans Saints / 1st / 28th pick / 2011
-David Johnson,28.0,Saints,31.0,RB,5,0.0,224.0,6-1,Northern Iowa,12/16/1991,7,0.0,Arizona Cardinals / 3rd / 86th pick / 2015
-Juwan Johnson,83.0,Saints,26.0,TE,16,12.0,231.0,6-4,"Oregon,Penn St.",9/13/1996,2,4.0,
-Tony Jones,34.0,Saints,25.0,RB,2,0.0,224.0,5-11,Notre Dame,11/24/1997,2,0.0,
-Cameron Jordan,94.0,Saints,33.0,DE,16,16.0,287.0,6-4,California,7/10/1989,11,12.0,New Orleans Saints / 1st / 24th pick / 2011
-Alvin Kamara,41.0,Saints,27.0,RB,15,13.0,215.0,5-10,"Alabama,Hutchinson (KS),Tennessee",7/25/1995,5,8.0,New Orleans Saints / 3rd / 67th pick / 2017
-Lewis Kidd,66.0,Saints,25.0,OL,13,1.0,311.0,6-6,Montana St.,9/15/1997,Rook,1.0,
-Keith Kirkwood,18.0,Saints,28.0,WR,5,1.0,210.0,6-3,"Hawaii,Temple",12/26/1994,4,0.0,
-Tanoh Kpassagnon,90.0,Saints,28.0,DE,15,5.0,289.0,6-7,Villanova,6/14/1994,5,3.0,Kansas City Chiefs / 2nd / 59th pick / 2017
-Lucas Krull,87.0,Saints,24.0,TE,1,0.0,260.0,,"Jefferson,Florida,Pittsburgh",7/11/1998,Rook,0.0,
-Jarvis Landry,5.0,Saints,30.0,WR,9,3.0,196.0,5-11,LSU,11/28/1992,8,2.0,Miami Dolphins / 2nd / 63rd pick / 2014
-Marshon Lattimore,23.0,Saints,26.0,CB,7,7.0,192.0,6-0,Ohio St.,5/20/1996,5,3.0,New Orleans Saints / 1st / 11th pick / 2017
-Wil Lutz,3.0,Saints,28.0,K,17,0.0,184.0,5-11,Georgia St.,7/7/1994,6,1.0,
-Tyrann Mathieu,32.0,Saints,30.0,S,17,17.0,190.0,5-9,LSU,5/13/1992,9,7.0,Arizona Cardinals / 3rd / 69th pick / 2013
-Marcus Maye,6.0,Saints,29.0,S,10,10.0,207.0,6-0,Florida,3/9/1993,5,4.0,New York Jets / 2nd / 39th pick / 2017
-Erik McCoy,78.0,Saints,25.0,OL,13,13.0,303.0,6-4,Texas A&M,8/27/1997,3,5.0,New Orleans Saints / 2nd / 48th pick / 2019
-Kirk Merritt,33.0,Saints,25.0,WR,4,0.0,210.0,6-0,"Oregon,Texas A&M,East Mississippi CC,Arkansas St.",1/5/1997,2,0.0,
-Latavius Murray,28.0,Saints,32.0,RB,1,0.0,230.0,6-3,Central Florida,1/18/1990,8,0.0,Oakland Raiders / 6th / 181st pick / 2013
-Chris Olave,12.0,Saints,22.0,WR,15,9.0,187.0,6-0,Ohio St.,6/27/2000,Rook,8.0,New Orleans Saints / 1st / 11th pick / 2022
-David Onyemata,93.0,Saints,30.0,DT,17,17.0,300.0,6-3,Manitoba,11/13/1992,6,9.0,New Orleans Saints / 4th / 120th pick / 2016
-Andrus Peat,75.0,Saints,29.0,OL,11,11.0,316.0,6-7,Stanford,11/4/1993,7,4.0,New Orleans Saints / 1st / 13th pick / 2015
-Trevor Penning,70.0,Saints,23.0,T,6,1.0,325.0,6-7,Northern Iowa,5/15/1999,Rook,1.0,New Orleans Saints / 1st / 19th pick / 2022
-Adam Prentice,46.0,Saints,25.0,FB,11,2.0,245.0,6-0,South Carolina,1/16/1997,1,0.0,
-Ryan Ramczyk,71.0,Saints,28.0,T,16,16.0,314.0,6-6,Wisconsin,4/22/1994,5,8.0,New Orleans Saints / 1st / 32nd pick / 2017
-Christian Ringo,57.0,Saints,30.0,DT,2,0.0,300.0,6-1,Louisiana,3/10/1992,6,0.0,Green Bay Packers / 6th / 210th pick / 2015
-Malcolm Roach,97.0,Saints,24.0,DT,13,3.0,290.0,6-3,Texas,6/9/1998,2,2.0,
-Bradley Roby,21.0,Saints,30.0,CB,13,10.0,194.0,5-11,Ohio St.,5/1/1992,8,4.0,Denver Broncos / 1st / 31st pick / 2014
-Cesar Ruiz,51.0,Saints,23.0,OL,14,14.0,316.0,6-4,Michigan,6/14/1999,2,6.0,New Orleans Saints / 1st / 24th pick / 2020
-Nephi Sewell,45.0,Saints,24.0,LB,4,0.0,228.0,,"Nevada,Utah",12/19/1998,Rook,0.0,
-Rashid Shaheed,89.0,Saints,24.0,WR,12,6.0,180.0,6-0,Weber St.,8/31/1998,Rook,4.0,
-Tre'Quan Smith,10.0,Saints,26.0,WR,15,6.0,210.0,6-1,Central Florida,1/7/1996,4,2.0,New Orleans Saints / 3rd / 91st pick / 2018
-Daniel Sorensen,25.0,Saints,32.0,S,17,2.0,208.0,6-2,BYU,3/5/1990,8,2.0,
-Kentavius Street,69.0,Saints,26.0,DT,17,0.0,287.0,6-2,North Carolina St.,5/8/1996,3,2.0,San Francisco 49ers / 4th / 128th pick / 2018
-Ty Summers,54.0,Saints,27.0,LB,3,0.0,241.0,6-1,TCU,12/31/1995,3,0.0,Green Bay Packers / 7th / 226th pick / 2019
-Alontae Taylor,27.0,Saints,24.0,CB,13,9.0,199.0,6-1,Tennessee,12/3/1998,Rook,3.0,New Orleans Saints / 2nd / 49th pick / 2022
-Michael Thomas,13.0,Saints,29.0,WR,3,3.0,212.0,6-3,Ohio St.,3/3/1993,6,1.0,New Orleans Saints / 2nd / 47th pick / 2016
-Bryce Thompson,31.0,Saints,23.0,CB,6,0.0,190.0,5-11,Tennessee,9/20/1999,1,0.0,
-Calvin Throckmorton,76.0,Saints,26.0,OL,14,6.0,311.0,6-5,Oregon,8/16/1996,1,3.0,
-Adam Trautman,82.0,Saints,25.0,TE,15,12.0,253.0,6-5,Dayton,2/5/1997,2,2.0,New Orleans Saints / 3rd / 105th pick / 2020
-Payton Turner,98.0,Saints,24.0,DE,8,0.0,270.0,6-6,Houston,1/7/1998,1,1.0,New Orleans Saints / 1st / 28th pick / 2021
-Shy Tuttle,99.0,Saints,27.0,DT,17,14.0,300.0,6-3,Tennessee,10/20/1995,3,7.0,
-Nick Vannett,81.0,Saints,29.0,TE,3,0.0,257.0,6-5,Ohio St.,3/6/1993,6,0.0,Seattle Seahawks / 3rd / 94th pick / 2016
-Dwayne Washington,24.0,Saints,28.0,RB,12,0.0,223.0,6-1,Washington,4/24/1994,6,0.0,Detroit Lions / 7th / 236th pick / 2016
-Pete Werner,20.0,Saints,23.0,LB,12,11.0,242.0,6-3,Ohio St.,6/5/1999,1,5.0,New Orleans Saints / 2nd / 60th pick / 2021
-Kevin White,17.0,Saints,30.0,WR,7,2.0,216.0,6-3,"Lackawanna,West Virginia",6/25/1992,6,1.0,Chicago Bears / 1st / 7th pick / 2015
-P.J. Williams,26.0,Saints,29.0,CB,11,3.0,196.0,6-0,Florida St.,6/1/1993,6,2.0,New Orleans Saints / 3rd / 78th pick / 2015
-Jameis Winston,2.0,Saints,28.0,QB,3,3.0,231.0,6-4,Florida St.,1/6/1994,7,2.0,Tampa Bay Buccaneers / 1st / 1st pick / 2015
-Zach Wood,49.0,Saints,29.0,LS,17,0.0,255.0,6-3,SMU,1/10/1993,5,1.0,
-Isaac Yiadom,36.0,Saints,26.0,CB,6,0.0,188.0,6-1,Boston Col.,2/20/1996,4,0.0,Denver Broncos / 3rd / 99th pick / 2018
-Landon Young,67.0,Saints,25.0,T,16,2.0,321.0,6-7,Kentucky,8/21/1997,1,2.0,New Orleans Saints / 6th / 206th pick / 2021
-Jabari Zuniga,69.0,Saints,25.0,DE,1,0.0,264.0,6-3,Florida,8/14/1997,2,0.0,New York Jets / 3rd / 79th pick / 2020
-Team Total,,Saints,27.1,,17,,240.9,6-2.1,,,4.0,,
+,No.,Player,BirthDate,Age,Height,Weight,College/University,Position,Games_Played_in_Season,Games_Started_in_Season,NFL_Years,Player_Value,Team,Year
+0,29.0,Paulson Adebo,7/3/1999,23.0,6-1,192.0,Stanford,LCB,13,12.0,1.0,4.0,Saints,2022
+1,68.0,Josh Andrews,6/21/1991,31.0,6-2,298.0,Oregon St.,C,6,5.0,7.0,2.0,Saints,2022
+2,53.0,Zack Baun,12/30/1996,26.0,6-3,225.0,Wisconsin,LB,13,1.0,2.0,1.0,Saints,2022
+3,31.0,Eno Benjamin,4/13/1999,23.0,5-9,207.0,Arizona St.,RB,3,0.0,1.0,0.0,Saints,2022
+4,1.0,Marquez Callaway,3/27/1998,24.0,6-2,204.0,Tennessee,WR,14,3.0,2.0,1.0,Saints,2022
+5,14.0,Andy Dalton,10/29/1987,35.0,6-2,220.0,TCU,QB,14,14.0,11.0,8.0,Saints,2022
+6,92.0,Marcus Davenport,9/4/1996,26.0,6-6,265.0,Texas-San Antonio,RDE,15,9.0,4.0,5.0,Saints,2022
+7,56.0,Demario Davis,1/11/1989,33.0,6-2,248.0,Arkansas St.,MLB,17,17.0,10.0,15.0,Saints,2022
+8,65.0,Wyatt Davis,2/17/1999,23.0,6-4,315.0,Ohio St.,G,1,0.0,1.0,0.0,Saints,2022
+9,50.0,Andrew Dowell,11/16/1996,26.0,6-1,225.0,Michigan St.,LB,17,0.0,2.0,1.0,Saints,2022
+10,79.0,Yasir Durant,5/21/1998,24.0,6-7,330.0,Missouri,G,1,0.0,2.0,0.0,Saints,2022
+11,55.0,Kaden Elliss,7/10/1995,27.0,6-2,238.0,Idaho,RLB,17,11.0,3.0,6.0,Saints,2022
+12,30.0,Justin Evans,8/26/1995,27.0,6-0,199.0,"Mississippi Gulf Coast CC,Texas A&M",S,15,4.0,5.0,2.0,Saints,2022
+13,39.0,DaMarcus Fields,3/11/1998,24.0,6-0,200.0,Texas Tech,DB,2,0.0,0.0,0.0,Saints,2022
+14,4.0,Blake Gillikin,1/21/1998,24.0,6-2,196.0,Penn St.,P,17,0.0,1.0,3.0,Saints,2022
+15,96.0,Carl Granderson,12/18/1996,26.0,6-5,261.0,Wyoming,DE,16,4.0,3.0,4.0,Saints,2022
+16,48.0,J.T. Gray,1/18/1996,26.0,6-0,202.0,Mississippi St.,DB,14,0.0,4.0,1.0,Saints,2022
+17,40.0,Chase Hansen,5/20/1993,29.0,6-3,222.0,Utah,LB,11,1.0,2.0,1.0,Saints,2022
+18,19.0,Chris Harris Jr.,6/18/1989,33.0,5-10,199.0,Kansas,DB,10,4.0,11.0,2.0,Saints,2022
+19,11.0,Deonte Harty,12/4/1997,25.0,5-6,170.0,Assumption,WR,4,0.0,3.0,0.0,Saints,2022
+20,7.0,Taysom Hill,8/23/1990,32.0,6-2,221.0,BYU,TE/QB,16,8.0,5.0,4.0,Saints,2022
+21,88.0,J.P. Holtz,8/28/1993,29.0,6-3,246.0,Pittsburgh,TE,6,2.0,3.0,0.0,Saints,2022
+22,28.0,Jordan Howard,11/2/1994,28.0,6-0,224.0,Indiana,RB,2,0.0,6.0,0.0,Saints,2022
+23,74.0,James Hurst,12/17/1991,31.0,6-5,310.0,North Carolina,LT,16,16.0,8.0,6.0,Saints,2022
+24,22.0,Mark Ingram,12/21/1989,33.0,5-9,215.0,Alabama,RB,10,3.0,11.0,2.0,Saints,2022
+25,28.0,David Johnson,12/16/1991,31.0,6-1,224.0,Northern Iowa,RB,5,0.0,7.0,0.0,Saints,2022
+26,83.0,Juwan Johnson,9/13/1996,26.0,6-4,231.0,"Oregon,Penn St.",TE,16,12.0,2.0,4.0,Saints,2022
+27,34.0,Tony Jones,11/24/1997,25.0,5-11,224.0,Notre Dame,RB,2,0.0,2.0,0.0,Saints,2022
+28,94.0,Cameron Jordan,7/10/1989,33.0,6-4,287.0,California,LDE,16,16.0,11.0,12.0,Saints,2022
+29,41.0,Alvin Kamara,7/25/1995,27.0,5-10,215.0,"Alabama,Hutchinson (KS),Tennessee",RB,15,13.0,5.0,8.0,Saints,2022
+30,66.0,Lewis Kidd,9/15/1997,25.0,6-6,311.0,Montana St.,T,13,1.0,0.0,1.0,Saints,2022
+31,18.0,Keith Kirkwood,12/26/1994,28.0,6-3,210.0,"Hawaii,Temple",WR,5,1.0,4.0,0.0,Saints,2022
+32,90.0,Tanoh Kpassagnon,6/14/1994,28.0,6-7,289.0,Villanova,DE,15,5.0,5.0,3.0,Saints,2022
+33,87.0,Lucas Krull,7/11/1998,24.0,,260.0,"Jefferson,Florida,Pittsburgh",TE,1,0.0,0.0,0.0,Saints,2022
+34,5.0,Jarvis Landry,11/28/1992,30.0,5-11,196.0,LSU,WR,9,3.0,8.0,2.0,Saints,2022
+35,23.0,Marshon Lattimore,5/19/1996,26.0,6-0,192.0,Ohio St.,RCB,7,7.0,5.0,3.0,Saints,2022
+36,3.0,Wil Lutz,7/7/1994,28.0,5-11,184.0,Georgia St.,K,17,0.0,6.0,1.0,Saints,2022
+37,32.0,Tyrann Mathieu,5/13/1992,30.0,5-9,190.0,LSU,FS,17,17.0,9.0,7.0,Saints,2022
+38,6.0,Marcus Maye,3/9/1993,29.0,6-0,207.0,Florida,SS,10,10.0,5.0,4.0,Saints,2022
+39,78.0,Erik McCoy,8/27/1997,25.0,6-4,303.0,Texas A&M,C,13,13.0,3.0,5.0,Saints,2022
+40,33.0,Kirk Merritt,1/5/1997,25.0,6-0,210.0,"Oregon,Texas A&M,East Mississippi CC,Arkansas St.",WR,4,0.0,2.0,0.0,Saints,2022
+41,28.0,Latavius Murray,1/18/1990,32.0,6-3,230.0,Central Florida,RB,1,0.0,8.0,0.0,Saints,2022
+42,12.0,Chris Olave,6/27/2000,22.0,6-0,187.0,Ohio St.,WR,15,9.0,0.0,8.0,Saints,2022
+43,93.0,David Onyemata,11/13/1992,30.0,6-3,300.0,Manitoba,RDT,17,17.0,6.0,9.0,Saints,2022
+44,75.0,Andrus Peat,11/4/1993,29.0,6-7,316.0,Stanford,LG,11,11.0,7.0,4.0,Saints,2022
+45,70.0,Trevor Penning,5/15/1999,23.0,6-7,325.0,Northern Iowa,T,6,1.0,0.0,1.0,Saints,2022
+46,46.0,Adam Prentice,1/16/1997,25.0,6-0,245.0,South Carolina,FB,11,2.0,1.0,0.0,Saints,2022
+47,71.0,Ryan Ramczyk,4/22/1994,28.0,6-6,314.0,Wisconsin,RT,16,16.0,5.0,8.0,Saints,2022
+48,57.0,Christian Ringo,3/10/1992,30.0,6-1,300.0,Louisiana,DT,2,0.0,6.0,0.0,Saints,2022
+49,97.0,Malcolm Roach,6/9/1998,24.0,6-3,290.0,Texas,DT,13,3.0,2.0,2.0,Saints,2022
+50,21.0,Bradley Roby,5/1/1992,30.0,5-11,194.0,Ohio St.,RCB,13,10.0,8.0,4.0,Saints,2022
+51,51.0,Cesar Ruiz,6/14/1999,23.0,6-4,316.0,Michigan,RG,14,14.0,2.0,6.0,Saints,2022
+52,45.0,Nephi Sewell,12/19/1998,24.0,,228.0,"Nevada,Utah",LB,4,0.0,0.0,0.0,Saints,2022
+53,89.0,Rashid Shaheed,8/31/1998,24.0,6-0,180.0,Weber St.,WR,12,6.0,0.0,4.0,Saints,2022
+54,10.0,Tre'Quan Smith,1/7/1996,26.0,6-1,210.0,Central Florida,WR,15,6.0,4.0,2.0,Saints,2022
+55,25.0,Daniel Sorensen,3/5/1990,32.0,6-2,208.0,BYU,S,17,2.0,8.0,2.0,Saints,2022
+56,69.0,Kentavius Street,5/8/1996,26.0,6-2,287.0,North Carolina St.,DT,17,0.0,3.0,2.0,Saints,2022
+57,54.0,Ty Summers,12/31/1995,27.0,6-1,241.0,TCU,LB,3,0.0,3.0,0.0,Saints,2022
+58,27.0,Alontae Taylor,12/3/1998,24.0,6-1,199.0,Tennessee,RCB,13,9.0,0.0,3.0,Saints,2022
+59,13.0,Michael Thomas,3/3/1993,29.0,6-3,212.0,Ohio St.,WR,3,3.0,6.0,1.0,Saints,2022
+60,31.0,Bryce Thompson,9/20/1999,23.0,5-11,190.0,Tennessee,CB,6,0.0,1.0,0.0,Saints,2022
+61,76.0,Calvin Throckmorton,8/16/1996,26.0,6-5,311.0,Oregon,G,14,6.0,1.0,3.0,Saints,2022
+62,82.0,Adam Trautman,2/5/1997,25.0,6-5,253.0,Dayton,TE,15,12.0,2.0,2.0,Saints,2022
+63,98.0,Payton Turner,1/7/1999,23.0,6-6,270.0,Houston,DE,8,0.0,1.0,1.0,Saints,2022
+64,99.0,Shy Tuttle,10/20/1995,27.0,6-3,300.0,Tennessee,LDT,17,14.0,3.0,7.0,Saints,2022
+65,81.0,Nick Vannett,3/6/1993,29.0,6-5,257.0,Ohio St.,TE,3,0.0,6.0,0.0,Saints,2022
+66,24.0,Dwayne Washington,4/24/1994,28.0,6-1,223.0,Washington,RB,12,0.0,6.0,0.0,Saints,2022
+67,20.0,Pete Werner,6/5/1999,23.0,6-3,242.0,Ohio St.,LLB,12,11.0,1.0,5.0,Saints,2022
+68,17.0,Kevin White,6/25/1992,30.0,6-3,216.0,"Lackawanna,West Virginia",WR,7,2.0,6.0,1.0,Saints,2022
+69,26.0,P.J. Williams,6/1/1993,29.0,6-0,196.0,Florida St.,CB,11,3.0,6.0,2.0,Saints,2022
+70,2.0,Jameis Winston,1/6/1994,28.0,6-4,231.0,Florida St.,QB,3,3.0,7.0,2.0,Saints,2022
+71,49.0,Zach Wood,1/10/1993,29.0,6-3,255.0,SMU,LS,17,0.0,5.0,1.0,Saints,2022
+72,36.0,Isaac Yiadom,2/20/1996,26.0,6-1,188.0,Boston Col.,CB,6,0.0,4.0,0.0,Saints,2022
+73,67.0,Landon Young,8/21/1997,25.0,6-7,321.0,Kentucky,T,16,2.0,1.0,2.0,Saints,2022
+74,69.0,Jabari Zuniga,8/14/1997,25.0,6-3,264.0,Florida,DT,1,0.0,2.0,0.0,Saints,2022
+75,,Team Total,,27.1,6-2.1,240.9,,,17,,4.0,,Saints,2022

@@ -1,19 +1,18 @@
-,Week,Team,Day,Date,Time,Win/Loss,Overtime,Team Record,Home/Away,Opponent,Points Scored,Points Allowed,Offense 1st Down,Total Yards Gained of Offense,Total yards Gained by Passing,Total Yards Gained by Rushing,Offense Turnovers,Defense 1st Down,Total Yards Allowed by Defense,Total Passing Yards Allowed by Defense,Total Rushing Yards Allowed by Defense,Defense Turnovers,Offense,Defense,Sp. Tms,Year
-0,0,Cardinals,Sun,September 11,,L,0,0-1,home,Kansas City Chiefs,21,44,18,282,179,103,0,33,488,360,128,1,2.29,-33.41,6.88,2022
-1,1,1,1,1,1.0,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1.0,1.0,1.0,1
-2,2,Cardinals,Sun,September 25,,L,0,1-2,home,Los Angeles Rams,12,20,23,365,295,70,0,15,339,239,100,1,0.8,-5.31,-5.72,2022
-3,3,Cardinals,Sun,October 2,,W,0,2-2,away,Carolina Panthers,26,16,20,338,206,132,1,11,220,180,40,3,-6.14,19.54,-1.9,2022
-4,4,Cardinals,Sun,October 9,,L,0,2-3,home,Philadelphia Eagles,17,20,23,363,239,124,1,24,357,218,139,0,12.33,-10.63,-5.16,2022
-5,5,Cardinals,Sun,October 16,,L,0,2-4,away,Seattle Seahawks,9,19,15,315,171,144,2,19,296,160,136,1,-14.01,8.22,-5.25,2022
-6,6,Cardinals,Thu,October 20,,W,0,3-4,home,New Orleans Saints,42,34,21,326,189,137,0,25,494,409,85,3,13.74,-5.93,1.75,2022
-7,7,Cardinals,Sun,October 30,,L,0,3-5,away,Minnesota Vikings,26,34,25,375,297,78,3,25,381,208,173,1,2.87,-10.22,-3.71,2022
-8,8,Cardinals,Sun,November 6,,L,0,3-6,home,Seattle Seahawks,21,31,15,262,140,122,1,27,421,263,158,1,-5.02,-10.67,-0.9,2022
-9,9,Cardinals,Sun,November 13,,W,0,4-6,away,Los Angeles Rams,27,17,18,298,220,78,0,18,256,190,66,2,5.83,5.36,-0.48,2022
-10,10,Cardinals,Mon,November 21,,L,0,4-7,home,San Francisco 49ers,10,38,19,314,247,67,2,21,387,228,159,0,-9.44,-20.26,1.43,2022
-11,11,Cardinals,Sun,November 27,,L,0,4-8,home,Los Angeles Chargers,24,25,20,366,185,181,2,22,311,246,65,0,7.69,-6.53,-1.25,2022
-12,12,Cardinals,,,,,0,,home,<strong>Bye Week</strong>,0,0,0,0,0,0,0,0,0,0,0,0,,,,2022
-13,13,Cardinals,Mon,December 12,,L,0,4-9,home,New England Patriots,13,27,19,323,210,113,2,18,328,225,103,1,-17.43,0.47,0.9,2022
-14,14,Cardinals,Sun,December 18,,L,0,4-10,away,Denver Broncos,15,24,13,240,167,73,3,23,324,156,168,2,-19.01,0.79,6.6,2022
-15,15,1,1,1,1.0,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1.0,1.0,1.0,1
-16,16,Cardinals,Sun,January 1,,L,0,4-12,away,Atlanta Falcons,19,20,22,339,213,126,0,20,298,166,132,1,6.1,-3.27,-5.1,2022
-17,17,Cardinals,Sun,January 8,,L,0,4-13,away,San Francisco 49ers,13,38,11,255,194,61,4,21,311,142,169,0,-15.23,-9.62,-0.8,2022
+,Week,Day,Date,Time,Win/Loss,Overtime,Team Record,Home/Away,Opponent,Points Scored,Points Allowed,Offense 1st Down,Total Yards Gained of Offense,Total yards Gained by Passing,Total Yards Gained by Rushing,Offense Turnovers,Defense 1st Down,Total Yards Allowed by Defense,Total Passing Yards Allowed by Defense,Total Rushing Yards Allowed by Defense,Defense Turnovers,Offense,Defense,Sp. Tms,Team,Year
+0,1,Sun,2022-09-11,nan,Loss,0,0-1,home,Kansas City Chiefs,21,44,18,282,179,103,0,33,488,360,128,1,2.29,-33.41,6.88,Cardinals,2022
+1,2,Sun,2022-09-18,nan,Win,1,1-1,away,Las Vegas Raiders,29,23,28,413,270,143,1,20,324,244,80,1,12.0,-4.86,1.75,Cardinals,2022
+2,3,Sun,2022-09-25,nan,Loss,0,1-2,home,Los Angeles Rams,12,20,23,365,295,70,0,15,339,239,100,1,0.8,-5.31,-5.72,Cardinals,2022
+3,4,Sun,2022-10-02,nan,Win,0,2-2,away,Carolina Panthers,26,16,20,338,206,132,1,11,220,180,40,3,-6.14,19.54,-1.9,Cardinals,2022
+4,5,Sun,2022-10-09,nan,Loss,0,2-3,home,Philadelphia Eagles,17,20,23,363,239,124,1,24,357,218,139,0,12.33,-10.63,-5.16,Cardinals,2022
+5,6,Sun,2022-10-16,nan,Loss,0,2-4,away,Seattle Seahawks,9,19,15,315,171,144,2,19,296,160,136,1,-14.01,8.22,-5.25,Cardinals,2022
+6,7,Thu,2022-10-20,nan,Win,0,3-4,home,New Orleans Saints,42,34,21,326,189,137,0,25,494,409,85,3,13.74,-5.93,1.75,Cardinals,2022
+7,8,Sun,2022-10-30,nan,Loss,0,3-5,away,Minnesota Vikings,26,34,25,375,297,78,3,25,381,208,173,1,2.87,-10.22,-3.71,Cardinals,2022
+8,9,Sun,2022-11-06,nan,Loss,0,3-6,home,Seattle Seahawks,21,31,15,262,140,122,1,27,421,263,158,1,-5.02,-10.67,-0.9,Cardinals,2022
+9,10,Sun,2022-11-13,nan,Win,0,4-6,away,Los Angeles Rams,27,17,18,298,220,78,0,18,256,190,66,2,5.83,5.36,-0.48,Cardinals,2022
+10,11,Mon,2022-11-21,nan,Loss,0,4-7,home,San Francisco 49ers,10,38,19,314,247,67,2,21,387,228,159,0,-9.44,-20.26,1.43,Cardinals,2022
+11,12,Sun,2022-11-27,nan,Loss,0,4-8,home,Los Angeles Chargers,24,25,20,366,185,181,2,22,311,246,65,0,7.69,-6.53,-1.25,Cardinals,2022
+12,14,Mon,2022-12-12,nan,Loss,0,4-9,home,New England Patriots,13,27,19,323,210,113,2,18,328,225,103,1,-17.43,0.47,0.9,Cardinals,2022
+13,15,Sun,2022-12-18,nan,Loss,0,4-10,away,Denver Broncos,15,24,13,240,167,73,3,23,324,156,168,2,-19.01,0.79,6.6,Cardinals,2022
+14,16,Sun,2022-12-25,nan,Loss,1,4-11,home,Tampa Bay Buccaneers,16,19,16,325,204,121,3,21,396,281,115,2,-13.64,4.6,6.77,Cardinals,2022
+15,17,Sun,2023-01-01,nan,Loss,0,4-12,away,Atlanta Falcons,19,20,22,339,213,126,0,20,298,166,132,1,6.1,-3.27,-5.1,Cardinals,2022
+16,18,Sun,2023-01-08,nan,Loss,0,4-13,away,San Francisco 49ers,13,38,11,255,194,61,4,21,311,142,169,0,-15.23,-9.62,-0.8,Cardinals,2022

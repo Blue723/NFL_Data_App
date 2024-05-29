@@ -1,6 +1,6 @@
-,No.,Team,Player,Age,Position,Games Played,Games Started,Punts Returned,Punts Return Yardage,Punts Returned for Touchdown,Longest Punt Return,Yards per Punt Return,Kickoff Returns,Yardage for Kickoffs Returned,Kickoffs Returned for a Touchdown,Longest Kickoff Return,Yards per Kickoff Return,All-purpose Yards,Year
-0,15,Commanders,Dax Milne,23,WR,15,1,40,311,0,19,7.8,15,300,0,33,20.0,648,2022
-1,24,Commanders,Antonio Gibson,24,RB,15,6,0,0,0,0,,21,486,0,45,23.1,1385,2022
-2,86,Commanders,Alex Erickson,30,WR,2,0,4,25,0,13,6.3,0,0,0,0,,25,2022
-3,32,Commanders,Jaret Patterson,23,RB,3,0,0,0,0,0,,4,97,0,27,24.3,175,2022
-4,35,Commanders,Jonathan Williams,28,RB,13,2,0,0,0,0,,1,19,0,19,19.0,211,2022
+,No.,Player,Age,Position,Games Played,Games Started,Punts Returned,Punts Return Yardage,Punts Returned for Touchdown,Longest Punt Return,Yards per Punt Return,Kickoff Returns,Yardage for Kickoffs Returned,Kickoffs Returned for a Touchdown,Longest Kickoff Return,Yards per Kickoff Return,All-purpose Yards,Team,Year
+15,15,Dax Milne,23,WR,15,1,40,311,0,19,7.8,15,300,0,33,20.0,648,Commanders,2022
+24,24,Antonio Gibson,24,RB,15,6,0,0,0,0,0.0,21,486,0,45,23.1,1385,Commanders,2022
+86,86,Alex Erickson,30,WR,2,0,4,25,0,13,6.3,0,0,0,0,0.0,25,Commanders,2022
+32,32,Jaret Patterson,23,RB,3,0,0,0,0,0,0.0,4,97,0,27,24.3,175,Commanders,2022
+35,35,Jonathan Williams,28,RB,13,2,0,0,0,0,0.0,1,19,0,19,19.0,211,Commanders,2022

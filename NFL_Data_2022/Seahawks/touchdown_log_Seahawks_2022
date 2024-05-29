@@ -1,45 +1,45 @@
-,Rank,Team,Date,Opponent,Win/Loss,Score,Quarter,Distance,Type,Detail,Year
-0,1,Seahawks,09/12/2022,DEN,Win, 17-16,1,38,pass,Will Dissly,2022
-1,2,Seahawks,09/12/2022,DEN,Win, 17-16,2,25,pass,Colby Parkinson,2022
-2,3,Seahawks,09/18/2022,SFO,Loss, 7-27,3,86,blocked field goal,Michael Jackson,2022
-3,4,Seahawks,09/25/2022,ATL,Loss, 23-27,1,18,pass,Will Dissly,2022
-4,5,Seahawks,09/25/2022,ATL,Loss, 23-27,2,18,pass,D.K. Metcalf,2022
-5,6,Seahawks,10/02/2022,DET,Win, 48-45,1,17,pass,Will Dissly,2022
-6,7,Seahawks,10/02/2022,DET,Win, 48-45,1,8,rush,Geno Smith,2022
-7,8,Seahawks,10/02/2022,DET,Win, 48-45,2,2,pass,Noah Fant,2022
-8,9,Seahawks,10/02/2022,DET,Win, 48-45,3,40,interception,Riq Woolen,2022
-9,10,Seahawks,10/02/2022,DET,Win, 48-45,3,36,rush,Rashaad Penny,2022
-10,11,Seahawks,10/02/2022,DET,Win, 48-45,4,41,rush,Rashaad Penny,2022
-11,12,Seahawks,10/09/2022,NOR,Loss, 32-39,1,50,pass,D.K. Metcalf,2022
-12,13,Seahawks,10/09/2022,NOR,Loss, 32-39,2,35,pass,Tyler Lockett,2022
-13,14,Seahawks,10/09/2022,NOR,Loss, 32-39,4,40,pass,Tyler Lockett,2022
-14,15,Seahawks,10/09/2022,NOR,Loss, 32-39,4,69,rush,Kenneth Walker III,2022
-15,16,Seahawks,10/16/2022,ARI,Win, 19-9,4,11,rush,Kenneth Walker III,2022
-16,17,Seahawks,10/23/2022,LAC,Win, 37-23,1,20,pass,Marquise Goodwin,2022
-17,18,Seahawks,10/23/2022,LAC,Win, 37-23,1,12,rush,Kenneth Walker III,2022
-18,19,Seahawks,10/23/2022,LAC,Win, 37-23,2,23,pass,Marquise Goodwin,2022
-19,20,Seahawks,10/23/2022,LAC,Win, 37-23,4,74,rush,Kenneth Walker III,2022
-20,21,Seahawks,10/30/2022,NYG,Win, 27-13,2,3,pass,D.K. Metcalf,2022
-21,22,Seahawks,10/30/2022,NYG,Win, 27-13,4,33,pass,Tyler Lockett,2022
-22,23,Seahawks,10/30/2022,NYG,Win, 27-13,4,16,rush,Kenneth Walker III,2022
-23,24,Seahawks,11/06/2022,ARI,Win, 31-21,2,4,pass,D.K. Metcalf,2022
-24,25,Seahawks,11/06/2022,ARI,Win, 31-21,3,9,pass,Tyler Lockett,2022
-25,26,Seahawks,11/06/2022,ARI,Win, 31-21,4,1,rush,Kenneth Walker III,2022
-26,27,Seahawks,11/06/2022,ARI,Win, 31-21,4,5,rush,Kenneth Walker III,2022
-27,28,Seahawks,11/13/2022,TAM,Loss, 16-21,4,21,pass,Tyler Lockett,2022
-28,29,Seahawks,11/13/2022,TAM,Loss, 16-21,4,19,pass,Marquise Goodwin,2022
-29,30,Seahawks,11/27/2022,LVR,Loss, 34-40,1,12,rush,Kenneth Walker III,2022
-30,31,Seahawks,11/27/2022,LVR,Loss, 34-40,2,35,pass,Tyler Lockett,2022
-31,32,Seahawks,11/27/2022,LVR,Loss, 34-40,3,14,rush,Kenneth Walker III,2022
-32,33,Seahawks,11/27/2022,LVR,Loss, 34-40,4,18,pass,Travis Homer,2022
-33,34,Seahawks,12/04/2022,LAR,Win, 27-23,1,36,pass,Tyler Lockett,2022
-34,35,Seahawks,12/04/2022,LAR,Win, 27-23,2,4,pass,Noah Fant,2022
-35,36,Seahawks,12/04/2022,LAR,Win, 27-23,4,8,pass,D.K. Metcalf,2022
-36,37,Seahawks,12/11/2022,CAR,Loss, 24-30,2,4,pass,Tyler Lockett,2022
-37,38,Seahawks,12/11/2022,CAR,Loss, 24-30,2,12,pass,D.K. Metcalf,2022
-38,39,Seahawks,12/11/2022,CAR,Loss, 24-30,4,24,pass,Marquise Goodwin,2022
-39,40,Seahawks,12/15/2022,SFO,Loss, 13-21,4,10,pass,Noah Fant,2022
-40,41,Seahawks,12/24/2022,KAN,Loss, 10-24,4,6,pass,Noah Fant,2022
-41,42,Seahawks,01/01/2023,NYJ,Win, 23-6,1,12,pass,Colby Parkinson,2022
-42,43,Seahawks,01/01/2023,NYJ,Win, 23-6,2,7,pass,Tyler Mabry,2022
-43,44,Seahawks,01/08/2023,LAR,Win, 19-16,3,36,pass,Tyler Lockett,2022
+,Rank,Team,Date,Opponent,Win/Loss,Home_Score,Opponenet_Score,Quarter,Distance,Type,Detail
+1,1,Seahawks,2022-09-12,DEN,Win,17,16,1,38,pass,Will Dissly
+2,2,Seahawks,2022-09-12,DEN,Win,17,16,2,25,pass,Colby Parkinson
+3,3,Seahawks,2022-09-18,SFO,Loss,7,27,3,86,blocked field goal,Michael Jackson
+4,4,Seahawks,2022-09-25,ATL,Loss,23,27,1,18,pass,Will Dissly
+5,5,Seahawks,2022-09-25,ATL,Loss,23,27,2,18,pass,D.K. Metcalf
+6,6,Seahawks,2022-10-02,DET,Win,48,45,1,17,pass,Will Dissly
+7,7,Seahawks,2022-10-02,DET,Win,48,45,1,8,rush,Geno Smith
+8,8,Seahawks,2022-10-02,DET,Win,48,45,2,2,pass,Noah Fant
+9,9,Seahawks,2022-10-02,DET,Win,48,45,3,40,interception,Riq Woolen
+10,10,Seahawks,2022-10-02,DET,Win,48,45,3,36,rush,Rashaad Penny
+11,11,Seahawks,2022-10-02,DET,Win,48,45,4,41,rush,Rashaad Penny
+12,12,Seahawks,2022-10-09,NOR,Loss,32,39,1,50,pass,D.K. Metcalf
+13,13,Seahawks,2022-10-09,NOR,Loss,32,39,2,35,pass,Tyler Lockett
+14,14,Seahawks,2022-10-09,NOR,Loss,32,39,4,40,pass,Tyler Lockett
+15,15,Seahawks,2022-10-09,NOR,Loss,32,39,4,69,rush,Kenneth Walker III
+16,16,Seahawks,2022-10-16,ARI,Win,19,9,4,11,rush,Kenneth Walker III
+17,17,Seahawks,2022-10-23,LAC,Win,37,23,1,20,pass,Marquise Goodwin
+18,18,Seahawks,2022-10-23,LAC,Win,37,23,1,12,rush,Kenneth Walker III
+19,19,Seahawks,2022-10-23,LAC,Win,37,23,2,23,pass,Marquise Goodwin
+20,20,Seahawks,2022-10-23,LAC,Win,37,23,4,74,rush,Kenneth Walker III
+21,21,Seahawks,2022-10-30,NYG,Win,27,13,2,3,pass,D.K. Metcalf
+22,22,Seahawks,2022-10-30,NYG,Win,27,13,4,33,pass,Tyler Lockett
+23,23,Seahawks,2022-10-30,NYG,Win,27,13,4,16,rush,Kenneth Walker III
+24,24,Seahawks,2022-11-06,ARI,Win,31,21,2,4,pass,D.K. Metcalf
+25,25,Seahawks,2022-11-06,ARI,Win,31,21,3,9,pass,Tyler Lockett
+26,26,Seahawks,2022-11-06,ARI,Win,31,21,4,1,rush,Kenneth Walker III
+27,27,Seahawks,2022-11-06,ARI,Win,31,21,4,5,rush,Kenneth Walker III
+28,28,Seahawks,2022-11-13,TAM,Loss,16,21,4,21,pass,Tyler Lockett
+29,29,Seahawks,2022-11-13,TAM,Loss,16,21,4,19,pass,Marquise Goodwin
+30,30,Seahawks,2022-11-27,LVR,Loss,34,40,1,12,rush,Kenneth Walker III
+31,31,Seahawks,2022-11-27,LVR,Loss,34,40,2,35,pass,Tyler Lockett
+32,32,Seahawks,2022-11-27,LVR,Loss,34,40,3,14,rush,Kenneth Walker III
+33,33,Seahawks,2022-11-27,LVR,Loss,34,40,4,18,pass,Travis Homer
+34,34,Seahawks,2022-12-04,LAR,Win,27,23,1,36,pass,Tyler Lockett
+35,35,Seahawks,2022-12-04,LAR,Win,27,23,2,4,pass,Noah Fant
+36,36,Seahawks,2022-12-04,LAR,Win,27,23,4,8,pass,D.K. Metcalf
+37,37,Seahawks,2022-12-11,CAR,Loss,24,30,2,4,pass,Tyler Lockett
+38,38,Seahawks,2022-12-11,CAR,Loss,24,30,2,12,pass,D.K. Metcalf
+39,39,Seahawks,2022-12-11,CAR,Loss,24,30,4,24,pass,Marquise Goodwin
+40,40,Seahawks,2022-12-15,SFO,Loss,13,21,4,10,pass,Noah Fant
+41,41,Seahawks,2022-12-24,KAN,Loss,10,24,4,6,pass,Noah Fant
+42,42,Seahawks,2023-01-01,NYJ,Win,23,6,1,12,pass,Colby Parkinson
+43,43,Seahawks,2023-01-01,NYJ,Win,23,6,2,7,pass,Tyler Mabry
+44,44,Seahawks,2023-01-08,LAR,Win,19,16,3,36,pass,Tyler Lockett

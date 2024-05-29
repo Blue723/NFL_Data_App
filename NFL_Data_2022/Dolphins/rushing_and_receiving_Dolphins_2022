@@ -1,22 +1,22 @@
-,No.,Team,Player,Age,Position,Games Played,Games Started as an Offensive or Defensive Player,Rushing Attempts,Rushing Yards Gained,Rushing Touchdown,First Downs Rushing,Rushing Success Rate,Longest Rushing Attempt,Rushing Yards per Attempt,Rushing Yards per Game,Rushing Attempts per Game,Pass Targets,Receptions,Receiving Yards,Receiving Yards per Reception,Receiving Touchdowns,First Downs Receiving,Receiving Success Rate,Longest Reception,Receptions per Game,Receiving Yards per Game,Catch Per.,Receiving Yards per Target,Touches: Rushing Attempts and Receptions,Scrimmage Yards per Touch: Rushing + Receiving Yardage per Opportunity,Yards from Scrimmage: Receiving and Rushing Yards,Rushing and Receiving Touchdowns,Lost and Recovered Fumbles,Year
-0,31,Dolphins,Raheem Mostert,30,RB,16,14,181,891,3,44,55.2,67,4.9,55.7,11.3,42,31,202,6.5,2,11,47.6,25,1.9,12.6,73.8,4.8,212,5.2,1093,5,1,2022
-1,23,Dolphins,Jeff Wilson,27,RB,8,1,84,392,3,21,47.6,28,4.7,49.0,10.5,24,12,94,7.8,1,4,29.2,14,1.5,11.8,50.0,3.9,96,5.1,486,4,1,2022
-2,2,Dolphins,Chase Edmonds,26,RB,8,2,42,120,2,6,40.5,28,2.9,15.0,5.3,17,10,96,9.6,1,4,41.2,15,1.3,12.0,58.8,5.6,52,4.2,216,3,0,2022
-3,1,Dolphins,Tua Tagovailoa,24,QB,13,13,23,70,0,4,34.8,18,3.0,5.4,1.8,0,0,0,,0,0,,0,,,0.0,,23,3.0,70,0,6,2022
-4,19,Dolphins,Skylar Thompson,25,QB,7,2,14,21,0,1,14.3,9,1.5,3.0,2.0,0,0,0,,0,0,,0,,,0.0,,14,1.5,21,0,2,2022
-5,26,Dolphins,Salvon Ahmed,24,RB,12,0,12,64,1,4,75.0,11,5.3,5.3,1.0,1,1,8,8.0,0,0,100.0,8,0.1,0.7,100.0,8.0,13,5.5,72,1,0,2022
-6,3,Dolphins,Myles Gaskin,25,RB,4,0,10,26,0,2,30.0,10,2.6,6.5,2.5,6,4,28,7.0,0,0,50.0,16,1.0,7.0,66.7,4.7,14,3.9,54,0,0,2022
-7,10,Dolphins,Tyreek Hill,28,WR,17,17,7,32,1,3,57.1,10,4.6,1.9,0.4,170,119,1710,14.4,7,77,56.5,64,7.0,100.6,70.0,10.1,126,13.8,1742,8,1,2022
-8,30,Dolphins,Alec Ingold,26,FB,17,14,6,8,1,5,83.3,2,1.3,0.5,0.4,23,15,105,7.0,1,4,52.2,17,0.9,6.2,65.2,4.6,21,5.4,113,2,0,2022
-9,17,Dolphins,Jaylen Waddle,24,WR,17,17,3,26,0,0,100.0,9,8.7,1.5,0.2,117,75,1356,18.1,8,60,54.7,84,4.4,79.8,64.1,11.6,78,17.7,1382,8,1,2022
-10,5,Dolphins,Teddy Bridgewater,30,QB,5,2,3,27,0,2,66.7,11,9.0,5.4,0.6,0,0,0,,0,0,,0,,,0.0,,3,9.0,27,0,0,2022
-11,81,Dolphins,Durham Smythe,27,TE,16,15,2,1,1,1,50.0,1,0.5,0.1,0.1,20,15,129,8.6,1,7,55.0,26,0.9,8.1,75.0,6.5,17,7.6,130,2,0,2022
-12,11,Dolphins,Cedrick Wilson Jr.,27,WR,15,0,1,8,0,0,100.0,8,8.0,0.5,0.1,18,12,136,11.3,0,8,61.1,21,0.8,9.1,66.7,7.6,13,11.1,144,0,0,2022
-13,42,Dolphins,Clayton Fejedelem,29,S,13,0,1,0,0,0,0.0,0,0.0,0.0,0.1,0,0,0,,0,0,,0,,,0.0,,1,0.0,0,0,0,2022
-14,68,Dolphins,Robert Hunt,26,OL,17,17,1,0,0,0,0.0,0,0.0,0.0,0.1,0,0,0,,0,0,,0,,,0.0,,1,0.0,0,0,1,2022
-15,88,Dolphins,Mike Gesicki,27,TE,17,1,0,0,0,0,,0,,,,52,32,362,11.3,5,19,48.1,32,1.9,21.3,61.5,7.0,32,11.3,362,5,0,2022
-16,14,Dolphins,Trent Sherfield,26,WR,17,4,0,0,0,0,,0,,,,51,30,417,13.9,2,18,45.1,75,1.8,24.5,58.8,8.2,30,13.9,417,2,0,2022
-17,85,Dolphins,River Cracraft,28,WR,11,0,0,0,0,0,,0,,,,14,9,102,11.3,2,8,57.1,22,0.8,9.3,64.3,7.3,9,11.3,102,2,0,2022
-18,86,Dolphins,Braylon Sanders,23,WR,3,0,0,0,0,0,,0,,,,3,2,17,8.5,0,0,33.3,13,0.7,5.7,66.7,5.7,2,8.5,17,0,1,2022
-19,18,Dolphins,Erik Ezukanma,22,WR,1,0,0,0,0,0,,0,,,,1,1,3,3.0,0,0,0.0,3,1.0,3.0,100.0,3.0,1,3.0,3,0,0,2022
-20,48,Dolphins,Tanner Conner,24,TE,13,0,0,0,0,0,,0,,,,3,0,0,,0,0,0.0,0,0.0,0.0,0.0,0.0,0,,0,0,0,2022
+,No.,Player,Age,Position,Games Played,Games Started as an Offensive or Defensive Player,Rushing Attempts,Rushing Yards Gained,Rushing Touchdown,First Downs Rushing,Rushing Success Rate,Longest Rushing Attempt,Rushing Yards per Attempt,Rushing Yards per Game,Rushing Attempts per Game,Pass Targets,Receptions,Receiving Yards,Receiving Yards per Reception,Receiving Touchdowns,First Downs Receiving,Receiving Success Rate,Longest Reception,Receptions per Game,Receiving Yards per Game,Catch Per.,Receiving Yards per Target,Touches: Rushing Attempts and Receptions,Scrimmage Yards per Touch: Rushing + Receiving Yardage per Opportunity,Yards from Scrimmage: Receiving and Rushing Yards,Rushing and Receiving Touchdowns,Lost and Recovered Fumbles,Team,Year
+31,31,Raheem Mostert,30,RB,16,14,181,891,3,44,55.2,67,4.9,55.7,11.3,42,31,202,6.5,2,11,47.6,25,1.9,12.6,73.8,4.8,212,5.2,1093,5,1,Dolphins,2022
+23,23,Jeff Wilson,27,RB,8,1,84,392,3,21,47.6,28,4.7,49.0,10.5,24,12,94,7.8,1,4,29.2,14,1.5,11.8,50.0,3.9,96,5.1,486,4,1,Dolphins,2022
+2,2,Chase Edmonds,26,RB,8,2,42,120,2,6,40.5,28,2.9,15.0,5.3,17,10,96,9.6,1,4,41.2,15,1.3,12.0,58.8,5.6,52,4.2,216,3,0,Dolphins,2022
+1,1,Tua Tagovailoa,24,QB,13,13,23,70,0,4,34.8,18,3.0,5.4,1.8,0,0,0,0.0,0,0,0.0,0,0.0,0.0,0.0,0.0,23,3.0,70,0,6,Dolphins,2022
+19,19,Skylar Thompson,25,QB,7,2,14,21,0,1,14.3,9,1.5,3.0,2.0,0,0,0,0.0,0,0,0.0,0,0.0,0.0,0.0,0.0,14,1.5,21,0,2,Dolphins,2022
+26,26,Salvon Ahmed,24,RB,12,0,12,64,1,4,75.0,11,5.3,5.3,1.0,1,1,8,8.0,0,0,100.0,8,0.1,0.7,100.0,8.0,13,5.5,72,1,0,Dolphins,2022
+3,3,Myles Gaskin,25,RB,4,0,10,26,0,2,30.0,10,2.6,6.5,2.5,6,4,28,7.0,0,0,50.0,16,1.0,7.0,66.7,4.7,14,3.9,54,0,0,Dolphins,2022
+10,10,Tyreek Hill,28,WR,17,17,7,32,1,3,57.1,10,4.6,1.9,0.4,170,119,1710,14.4,7,77,56.5,64,7.0,100.6,70.0,10.1,126,13.8,1742,8,1,Dolphins,2022
+30,30,Alec Ingold,26,FB,17,14,6,8,1,5,83.3,2,1.3,0.5,0.4,23,15,105,7.0,1,4,52.2,17,0.9,6.2,65.2,4.6,21,5.4,113,2,0,Dolphins,2022
+17,17,Jaylen Waddle,24,WR,17,17,3,26,0,0,100.0,9,8.7,1.5,0.2,117,75,1356,18.1,8,60,54.7,84,4.4,79.8,64.1,11.6,78,17.7,1382,8,1,Dolphins,2022
+5,5,Teddy Bridgewater,30,QB,5,2,3,27,0,2,66.7,11,9.0,5.4,0.6,0,0,0,0.0,0,0,0.0,0,0.0,0.0,0.0,0.0,3,9.0,27,0,0,Dolphins,2022
+81,81,Durham Smythe,27,TE,16,15,2,1,1,1,50.0,1,0.5,0.1,0.1,20,15,129,8.6,1,7,55.0,26,0.9,8.1,75.0,6.5,17,7.6,130,2,0,Dolphins,2022
+11,11,Cedrick Wilson Jr.,27,WR,15,0,1,8,0,0,100.0,8,8.0,0.5,0.1,18,12,136,11.3,0,8,61.1,21,0.8,9.1,66.7,7.6,13,11.1,144,0,0,Dolphins,2022
+42,42,Clayton Fejedelem,29,S,13,0,1,0,0,0,0.0,0,0.0,0.0,0.1,0,0,0,0.0,0,0,0.0,0,0.0,0.0,0.0,0.0,1,0.0,0,0,0,Dolphins,2022
+68,68,Robert Hunt,26,RG,17,17,1,0,0,0,0.0,0,0.0,0.0,0.1,0,0,0,0.0,0,0,0.0,0,0.0,0.0,0.0,0.0,1,0.0,0,0,1,Dolphins,2022
+88,88,Mike Gesicki,27,TE,17,1,0,0,0,0,0.0,0,0.0,0.0,0.0,52,32,362,11.3,5,19,48.1,32,1.9,21.3,61.5,7.0,32,11.3,362,5,0,Dolphins,2022
+14,14,Trent Sherfield,26,WR,17,4,0,0,0,0,0.0,0,0.0,0.0,0.0,51,30,417,13.9,2,18,45.1,75,1.8,24.5,58.8,8.2,30,13.9,417,2,0,Dolphins,2022
+85,85,River Cracraft,28,WR,11,0,0,0,0,0,0.0,0,0.0,0.0,0.0,14,9,102,11.3,2,8,57.1,22,0.8,9.3,64.3,7.3,9,11.3,102,2,0,Dolphins,2022
+86,86,Braylon Sanders,23,WR,3,0,0,0,0,0,0.0,0,0.0,0.0,0.0,3,2,17,8.5,0,0,33.3,13,0.7,5.7,66.7,5.7,2,8.5,17,0,1,Dolphins,2022
+18,18,Erik Ezukanma,22,WR,1,0,0,0,0,0,0.0,0,0.0,0.0,0.0,1,1,3,3.0,0,0,0.0,3,1.0,3.0,100.0,3.0,1,3.0,3,0,0,Dolphins,2022
+48,48,Tanner Conner,24,TE,13,0,0,0,0,0,0.0,0,0.0,0.0,0.0,3,0,0,0.0,0,0,0.0,0,0.0,0.0,0.0,0.0,0,0.0,0,0,0,Dolphins,2022

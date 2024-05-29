@@ -1,16 +1,16 @@
-,No.,Team,Player,Age,Pos,Games Played,Games Started,Rush TD,Reception TD,Punt Return TD,Kick Return TD,Fumble Return TD,Interception TD,Other TD,All Touchdown Scored,2-Point Conversions Made,Two-Point Conversions Attempted,Defensive Two-Point Conversions,Extra Points Made,Extra Points Allowed,Field Goals Made,Field Goals Attempted,Safeties Scored by Player/Team,Total Points Scored by all Means,Poins per Game,Year
-0,2,Packers,Mason Crosby,38,K,17,0,0,0,0,0,0,0,0,0,0,0,0,37,39,25,29,,112,6.6,2022
-1,9,Packers,Christian Watson,23,WR,14,11,2,7,0,0,0,0,0,9,0,0,0,0,0,0,0,,54,3.9,2022
-2,33,Packers,Aaron Jones,28,RB,17,17,2,5,0,0,0,0,0,7,1,0,0,0,0,0,0,,44,2.6,2022
-3,28,Packers,AJ Dillon,24,RB,17,3,7,0,0,0,0,0,0,7,0,0,0,0,0,0,0,,42,2.5,2022
-4,13,Packers,Allen Lazard,27,WR,15,15,0,6,0,0,0,0,0,6,0,0,0,0,0,0,0,,36,2.4,2022
-5,87,Packers,Romeo Doubs,22,WR,13,7,0,3,0,0,0,0,0,3,0,0,0,0,0,0,0,,18,1.4,2022
-6,89,Packers,Marcedes Lewis,38,TE,17,17,0,2,0,0,0,0,0,2,1,0,0,0,0,0,0,,14,0.8,2022
-7,85,Packers,Robert Tonyan,28,TE,17,3,0,2,0,0,0,0,0,2,0,0,0,0,0,0,0,,12,0.7,2022
-8,59,Packers,De'Vondre Campbell,29,LB,13,13,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,,6,0.5,2022
-9,18,Packers,Randall Cobb,32,WR,13,3,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,,6,0.5,2022
-10,25,Packers,Keisean Nixon,25,CB,17,4,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,,6,0.4,2022
-11,12,Packers,Aaron Rodgers,39,QB,17,17,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,,6,0.4,2022
-12,26,Packers,Darnell Savage Jr.,25,S,16,13,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,,6,0.4,2022
-13,83,Packers,Samori Toure,24,WR,11,2,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,,6,0.5,2022
-14,81,Packers,Josiah Deguara,25,TE,17,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1.0,2,0.1,2022
+,No.,Player,Age,Pos,Games Played,Games Started,Rush TD,Reception TD,Punt Return TD,Kick Return TD,Fumble Return TD,Interception TD,Other TD,All Touchdown Scored,2-Point Conversions Made,Two-Point Conversions Attempted,Defensive Two-Point Conversions,Extra Points Made,Extra Points Allowed,Field Goals Made,Field Goals Attempted,Safeties Scored by Player/Team,Total Points Scored by all Means,Poins per Game,Team,Year
+2,2,Mason Crosby,38,K,17,0,0,0,0,0,0,0,0,0,0,0,0,37,39,25,29,0,112,6.6,Packers,2022
+9,9,Christian Watson,23,WR,14,11,2,7,0,0,0,0,0,9,0,0,0,0,0,0,0,0,54,3.9,Packers,2022
+33,33,Aaron Jones,28,RB,17,17,2,5,0,0,0,0,0,7,1,0,0,0,0,0,0,0,44,2.6,Packers,2022
+28,28,AJ Dillon,24,RB,17,3,7,0,0,0,0,0,0,7,0,0,0,0,0,0,0,0,42,2.5,Packers,2022
+13,13,Allen Lazard,27,WR,15,15,0,6,0,0,0,0,0,6,0,0,0,0,0,0,0,0,36,2.4,Packers,2022
+87,87,Romeo Doubs,22,WR,13,7,0,3,0,0,0,0,0,3,0,0,0,0,0,0,0,0,18,1.4,Packers,2022
+89,89,Marcedes Lewis,38,TE,17,17,0,2,0,0,0,0,0,2,1,0,0,0,0,0,0,0,14,0.8,Packers,2022
+85,85,Robert Tonyan,28,TE,17,3,0,2,0,0,0,0,0,2,0,0,0,0,0,0,0,0,12,0.7,Packers,2022
+59,59,De'Vondre Campbell,29,LILB,13,13,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,6,0.5,Packers,2022
+18,18,Randall Cobb,32,WR,13,3,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,6,0.5,Packers,2022
+25,25,Keisean Nixon,25,CB,17,4,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,6,0.4,Packers,2022
+12,12,Aaron Rodgers,39,QB,17,17,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,6,0.4,Packers,2022
+26,26,Darnell Savage Jr.,25,FS,16,13,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,6,0.4,Packers,2022
+83,83,Samori Toure,24,WR,11,2,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,6,0.5,Packers,2022
+81,81,Josiah Deguara,25,TE,17,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,2,0.1,Packers,2022

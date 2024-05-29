@@ -1,70 +1,70 @@
-Player,No.,Team,Age,Pos,G,GS,Wt,Ht,College/Univ,BirthDate,Yrs,AV,Drafted (tm/rnd/yr)
-Henry Anderson,94.0,Panthers,31.0,DE,11,0.0,300.0,6-6,Stanford,8/3/1991,7,1.0,Indianapolis Colts / 3rd / 93rd pick / 2015
-Amare Barno,90.0,Panthers,23.0,DE,9,0.0,245.0,6-6,"Butler (KS),Virginia Tech",4/26/1999,Rook,1.0,Carolina Panthers / 6th / 189th pick / 2022
-Raheem Blackshear,20.0,Panthers,23.0,RB,13,1.0,190.0,5-9,"Rutgers,Virginia Tech",6/5/1999,Rook,1.0,
-Marquise Blair,27.0,Panthers,25.0,S,3,0.0,196.0,6-1,Utah,7/18/1997,3,0.0,Seattle Seahawks / 2nd / 47th pick / 2019
-Bradley Bozeman,56.0,Panthers,28.0,OL,17,11.0,325.0,6-5,Alabama,11/24/1994,4,4.0,Baltimore Ravens / 6th / 215th pick / 2018
-Derrick Brown,95.0,Panthers,24.0,DT,17,17.0,320.0,6-5,Auburn,4/15/1998,2,8.0,Carolina Panthers / 1st / 7th pick / 2020
-Spencer Brown,33.0,Panthers,24.0,RB,2,0.0,220.0,6-0,Ala-Birmingham,11/13/1998,1,0.0,
-Brian Burns,53.0,Panthers,24.0,DE,16,16.0,250.0,6-5,Florida St.,4/23/1998,3,11.0,Carolina Panthers / 1st / 16th pick / 2019
-Juston Burris,31.0,Panthers,29.0,S,5,3.0,210.0,6-0,North Carolina St.,8/4/1993,6,1.0,New York Jets / 4th / 118th pick / 2016
-T.J. Carrie,27.0,Panthers,32.0,CB,7,0.0,204.0,6-0,Ohio,7/28/1990,8,1.0,Oakland Raiders / 7th / 219th pick / 2014
-Sean Chandler,34.0,Panthers,26.0,S,17,0.0,200.0,5-10,Temple,4/27/1996,4,1.0,
-Jeremy Chinn,21.0,Panthers,24.0,S,11,11.0,220.0,6-3,Southern Illinois,2/26/1998,2,4.0,Carolina Panthers / 2nd / 64th pick / 2020
-Robbie Chosen,11.0,Panthers,29.0,WR,6,5.0,185.0,6-3,Temple,5/9/1993,6,2.0,
-Brady Christensen,70.0,Panthers,26.0,LG,17,17.0,300.0,6-6,BYU,9/27/1996,1,7.0,Carolina Panthers / 3rd / 70th pick / 2021
-Austin Corbett,63.0,Panthers,27.0,G,17,17.0,305.0,6-4,Nevada,9/5/1995,4,6.0,Cleveland Browns / 2nd / 33rd pick / 2018
-Sam Darnold,14.0,Panthers,25.0,QB,6,6.0,225.0,6-3,USC,6/5/1997,4,4.0,New York Jets / 1st / 3rd pick / 2018
-Jacob Eason,16.0,Panthers,25.0,QB,1,0.0,231.0,6-6,"Georgia,Washington",11/17/1997,1,0.0,Indianapolis Colts / 4th / 122nd pick / 2020
-Ikem Ekwonu,79.0,Panthers,22.0,T,17,17.0,320.0,6-4,North Carolina St.,10/31/2000,Rook,7.0,Carolina Panthers / 1st / 6th pick / 2022
-Pat Elflein,60.0,Panthers,28.0,G,6,6.0,303.0,6-2,Ohio St.,7/6/1994,5,2.0,Minnesota Vikings / 3rd / 70th pick / 2017
-Cameron Erving,75.0,Panthers,30.0,T,11,0.0,315.0,6-5,Florida St.,8/23/1992,7,1.0,Cleveland Browns / 1st / 19th pick / 2015
-D'Onta Foreman,33.0,Panthers,26.0,RB,17,9.0,235.0,6-0,Texas,4/24/1996,5,6.0,Houston Texans / 3rd / 89th pick / 2017
-Sam Franklin,42.0,Panthers,26.0,S,17,1.0,210.0,6-3,Temple,2/2/1996,2,1.0,
-Yetur Gross-Matos,97.0,Panthers,24.0,DE,17,17.0,265.0,6-5,Penn St.,2/26/1998,2,9.0,Carolina Panthers / 2nd / 38th pick / 2020
-Myles Hartsfield,38.0,Panthers,25.0,DB,15,10.0,210.0,5-11,Mississippi,8/5/1997,2,4.0,
-Tae Hayes,32.0,Panthers,25.0,CB,5,0.0,188.0,5-9,Appalachian St.,8/19/1997,3,0.0,
-Marquis Haynes,98.0,Panthers,29.0,DE,17,1.0,235.0,6-2,Mississippi,12/16/1993,4,3.0,Carolina Panthers / 4th / 136th pick / 2018
-Johnny Hekker,10.0,Panthers,32.0,P,17,0.0,225.0,6-5,Oregon St.,2/8/1990,10,4.0,
-C.J. Henderson,15.0,Panthers,24.0,CB,17,10.0,205.0,6-1,Florida,9/30/1998,2,5.0,Jacksonville Jaguars / 1st / 9th pick / 2020
-Rashard Higgins,17.0,Panthers,28.0,WR,3,0.0,198.0,6-1,Colorado St.,10/7/1994,6,0.0,Cleveland Browns / 5th / 172nd pick / 2016
-Jaycee Horn,8.0,Panthers,23.0,CB,13,13.0,200.0,6-1,South Carolina,11/26/1999,1,5.0,Carolina Panthers / 1st / 8th pick / 2021
-Phil Hoskins,71.0,Panthers,25.0,DT,5,0.0,315.0,6-5,"Highland (KS),Kentucky",1/2/1997,1,0.0,Carolina Panthers / 7th / 232nd pick / 2021
-Chuba Hubbard,30.0,Panthers,23.0,RB,15,2.0,210.0,6-1,Oklahoma St.,6/11/1999,1,4.0,Carolina Panthers / 4th / 126th pick / 2021
-Matthew Ioannidis,99.0,Panthers,28.0,DT,13,13.0,310.0,6-3,Temple,1/11/1994,6,6.0,Washington Redskins / 5th / 152nd pick / 2016
-Joel Iyiegbuniwe,52.0,Panthers,27.0,LB,7,0.0,235.0,6-1,Western Kentucky,10/12/1995,4,1.0,Chicago Bears / 4th / 115th pick / 2018
-Donte Jackson,26.0,Panthers,27.0,CB,9,9.0,180.0,5-10,LSU,11/8/1995,4,4.0,Carolina Panthers / 2nd / 55th pick / 2018
-J.J. Jansen,44.0,Panthers,36.0,LS,17,0.0,235.0,6-2,Notre Dame,1/20/1986,13,1.0,
-Kobe Jones,91.0,Panthers,24.0,DE,1,0.0,260.0,6-4,Mississippi St.,5/10/1998,Rook,0.0,
-Michael Jordan,73.0,Panthers,24.0,G,17,0.0,315.0,6-6,Ohio St.,1/25/1998,3,1.0,Cincinnati Bengals / 4th / 136th pick / 2019
-Cory Littleton,55.0,Panthers,29.0,LB,15,7.0,225.0,6-3,Washington,11/18/1993,6,4.0,
-Frankie Luvu,49.0,Panthers,26.0,LB,15,14.0,235.0,6-3,Washington St.,9/19/1996,4,7.0,
-Terrace Marshall Jr.,88.0,Panthers,22.0,WR,14,9.0,200.0,6-2,LSU,6/9/2000,1,4.0,Carolina Panthers / 2nd / 59th pick / 2021
-Baker Mayfield,6.0,Panthers,27.0,QB,7,6.0,215.0,6-1,Oklahoma,4/14/1995,4,3.0,Cleveland Browns / 1st / 1st pick / 2018
-Cade Mays,64.0,Panthers,23.0,G,11,2.0,325.0,6-6,"Georgia,Tennessee",4/26/1999,Rook,1.0,Carolina Panthers / 6th / 199th pick / 2022
-Christian McCaffrey,22.0,Panthers,26.0,RB,6,6.0,205.0,5-11,Stanford,6/7/1996,5,5.0,Carolina Panthers / 1st / 8th pick / 2017
-Marquan McCall,78.0,Panthers,23.0,DT,16,0.0,379.0,,Kentucky,3/26/1999,Rook,1.0,
-D.J. Moore,2.0,Panthers,25.0,WR,17,17.0,210.0,5-11,Maryland,4/14/1997,4,8.0,Carolina Panthers / 1st / 24th pick / 2018
-Arron Mosby,46.0,Panthers,23.0,LB,3,0.0,250.0,6-3,Fresno St.,4/13/1999,Rook,0.0,
-Taylor Moton,72.0,Panthers,28.0,T,17,17.0,325.0,6-5,Western Michigan,8/14/1994,5,7.0,Carolina Panthers / 2nd / 64th pick / 2017
-Daviyon Nixon,54.0,Panthers,24.0,DT,7,0.0,305.0,6-3,"Iowa Western,Iowa",12/13/1998,1,1.0,Carolina Panthers / 5th / 158th pick / 2021
-Josh Norman,6.0,Panthers,35.0,CB,2,1.0,195.0,6-0,Coastal Carolina,12/15/1987,10,0.0,Carolina Panthers / 5th / 143rd pick / 2012
-Eddy Pineiro,4.0,Panthers,27.0,K,17,0.0,190.0,5-11,Florida,9/13/1995,3,5.0,
-Giovanni Ricci,45.0,Panthers,26.0,TE,15,3.0,240.0,6-3,Western Michigan,10/16/1996,1,1.0,
-Andre Roberts,18.0,Panthers,34.0,WR,3,0.0,195.0,5-11,The Citadel,1/9/1988,12,0.0,Arizona Cardinals / 3rd / 88th pick / 2010
-Bravvion Roy,93.0,Panthers,26.0,DT,13,4.0,330.0,6-1,Baylor,10/18/1996,2,3.0,Carolina Panthers / 6th / 184th pick / 2020
-Laviska Shenault Jr.,15.0,Panthers,24.0,WR,13,4.0,220.0,6-1,Colorado,10/5/1998,2,3.0,Jacksonville Jaguars / 2nd / 42nd pick / 2020
-Brandon Smith,40.0,Panthers,21.0,LB,12,1.0,241.0,6-3,Penn St.,4/12/2001,Rook,1.0,Carolina Panthers / 4th / 120th pick / 2022
-Shi Smith,12.0,Panthers,24.0,WR,17,6.0,190.0,5-10,South Carolina,10/26/1998,1,3.0,Carolina Panthers / 6th / 204th pick / 2021
-Stephen Sullivan,84.0,Panthers,26.0,TE,14,0.0,245.0,6-5,LSU,11/28/1996,2,0.0,Seattle Seahawks / 7th / 251st pick / 2020
-Keith Taylor,28.0,Panthers,24.0,CB,17,2.0,195.0,6-3,Washington,11/20/1998,1,2.0,Carolina Panthers / 5th / 166th pick / 2021
-Ian Thomas,80.0,Panthers,26.0,TE,17,17.0,260.0,6-4,Indiana,6/6/1996,4,2.0,Carolina Panthers / 4th / 101st pick / 2018
-Stantley Thomas-Oliver,23.0,Panthers,24.0,CB,3,0.0,190.0,6-0,Florida International,6/4/1998,2,0.0,Carolina Panthers / 7th / 221st pick / 2020
-Shaq Thompson,7.0,Panthers,28.0,LB,17,17.0,230.0,6-0,Washington,4/21/1994,7,8.0,Carolina Panthers / 1st / 25th pick / 2015
-Tommy Tremble,82.0,Panthers,22.0,TE,17,4.0,250.0,6-4,Notre Dame,6/2/2000,1,2.0,Carolina Panthers / 3rd / 83rd pick / 2021
-P.J. Walker,11.0,Panthers,27.0,QB,6,5.0,215.0,5-11,Temple,2/26/1995,2,2.0,
-Preston Williams,85.0,Panthers,25.0,WR,1,0.0,220.0,6-5,Colorado St.,3/27/1997,3,0.0,
-Damien Wilson,57.0,Panthers,29.0,LB,17,5.0,243.0,6-0,Minnesota,5/28/1993,7,3.0,Dallas Cowboys / 4th / 127th pick / 2015
-Xavier Woods,25.0,Panthers,27.0,S,15,15.0,200.0,5-11,Louisiana Tech,7/26/1995,5,6.0,Dallas Cowboys / 6th / 191st pick / 2017
-Chandler Wooten,50.0,Panthers,23.0,LB,9,0.0,230.0,6-3,Auburn,4/25/1999,Rook,1.0,
-Team Total,,Panthers,26.1,,17,,241.9,6-2.1,,,3.4,,
+,No.,Player,BirthDate,Age,Height,Weight,College/University,Position,Games_Played_in_Season,Games_Started_in_Season,NFL_Years,Player_Value,Team,Year
+0,94.0,Henry Anderson,8/3/1991,31.0,6-6,300.0,Stanford,DE,11,0.0,7.0,1.0,Panthers,2022
+1,90.0,Amare Barno,4/26/1999,23.0,6-6,245.0,"Butler (KS),Virginia Tech",DE,9,0.0,0.0,1.0,Panthers,2022
+2,20.0,Raheem Blackshear,6/5/1999,23.0,5-9,190.0,"Rutgers,Virginia Tech",RB,13,1.0,0.0,1.0,Panthers,2022
+3,27.0,Marquise Blair,7/18/1997,25.0,6-1,196.0,Utah,DB,3,0.0,3.0,0.0,Panthers,2022
+4,56.0,Bradley Bozeman,11/24/1994,28.0,6-5,325.0,Alabama,C,17,11.0,4.0,4.0,Panthers,2022
+5,95.0,Derrick Brown,4/15/1998,24.0,6-5,320.0,Auburn,LDT,17,17.0,2.0,8.0,Panthers,2022
+6,33.0,Spencer Brown,11/13/1998,24.0,6-0,220.0,Ala-Birmingham,RB,2,0.0,1.0,0.0,Panthers,2022
+7,53.0,Brian Burns,4/23/1998,24.0,6-5,250.0,Florida St.,LDE,16,16.0,3.0,11.0,Panthers,2022
+8,31.0,Juston Burris,8/4/1993,29.0,6-0,210.0,North Carolina St.,S,5,3.0,6.0,1.0,Panthers,2022
+9,27.0,T.J. Carrie,7/28/1990,32.0,6-0,204.0,Ohio,CB,7,0.0,8.0,1.0,Panthers,2022
+10,34.0,Sean Chandler,4/27/1996,26.0,5-10,200.0,Temple,S,17,0.0,4.0,1.0,Panthers,2022
+11,21.0,Jeremy Chinn,2/26/1998,24.0,6-3,220.0,Southern Illinois,SS/FS,11,11.0,2.0,4.0,Panthers,2022
+12,11.0,Robbie Chosen,5/9/1993,29.0,6-3,185.0,Temple,WR,6,5.0,6.0,2.0,Panthers,2022
+13,70.0,Brady Christensen,9/27/1996,26.0,6-6,300.0,BYU,LG,17,17.0,1.0,7.0,Panthers,2022
+14,63.0,Austin Corbett,9/5/1995,27.0,6-4,305.0,Nevada,RG,17,17.0,4.0,6.0,Panthers,2022
+15,14.0,Sam Darnold,6/5/1997,25.0,6-3,225.0,USC,QB,6,6.0,4.0,4.0,Panthers,2022
+16,16.0,Jacob Eason,11/17/1997,25.0,6-6,231.0,"Georgia,Washington",QB,1,0.0,1.0,0.0,Panthers,2022
+17,79.0,Ikem Ekwonu,10/31/2000,22.0,6-4,320.0,North Carolina St.,LT,17,17.0,0.0,7.0,Panthers,2022
+18,60.0,Pat Elflein,7/6/1994,28.0,6-2,303.0,Ohio St.,C,6,6.0,5.0,2.0,Panthers,2022
+19,75.0,Cameron Erving,8/23/1992,30.0,6-5,315.0,Florida St.,T,11,0.0,7.0,1.0,Panthers,2022
+20,33.0,D'Onta Foreman,4/24/1996,26.0,6-0,235.0,Texas,RB,17,9.0,5.0,6.0,Panthers,2022
+21,42.0,Sam Franklin,2/2/1996,26.0,6-3,210.0,Temple,S,17,1.0,2.0,1.0,Panthers,2022
+22,97.0,Yetur Gross-Matos,2/26/1998,24.0,6-5,265.0,Penn St.,RDE,17,17.0,2.0,9.0,Panthers,2022
+23,38.0,Myles Hartsfield,8/5/1997,25.0,5-11,210.0,Mississippi,SS,15,10.0,2.0,4.0,Panthers,2022
+24,32.0,Tae Hayes,8/19/1997,25.0,5-9,188.0,Appalachian St.,DB,5,0.0,3.0,0.0,Panthers,2022
+25,98.0,Marquis Haynes,12/16/1993,29.0,6-2,235.0,Mississippi,LB,17,1.0,4.0,3.0,Panthers,2022
+26,10.0,Johnny Hekker,2/8/1990,32.0,6-5,225.0,Oregon St.,P,17,0.0,10.0,4.0,Panthers,2022
+27,15.0,C.J. Henderson,9/30/1998,24.0,6-1,205.0,Florida,LCB,17,10.0,2.0,5.0,Panthers,2022
+28,17.0,Rashard Higgins,10/7/1994,28.0,6-1,198.0,Colorado St.,WR,3,0.0,6.0,0.0,Panthers,2022
+29,8.0,Jaycee Horn,11/26/1999,23.0,6-1,200.0,South Carolina,RCB,13,13.0,1.0,5.0,Panthers,2022
+30,71.0,Phil Hoskins,1/2/1997,25.0,6-5,315.0,"Highland (KS),Kentucky",DT,5,0.0,1.0,0.0,Panthers,2022
+31,30.0,Chuba Hubbard,6/11/1999,23.0,6-1,210.0,Oklahoma St.,RB,15,2.0,1.0,4.0,Panthers,2022
+32,99.0,Matthew Ioannidis,1/11/1994,28.0,6-3,310.0,Temple,RDT,13,13.0,6.0,6.0,Panthers,2022
+33,52.0,Joel Iyiegbuniwe,10/12/1995,27.0,6-1,235.0,Western Kentucky,LB,7,0.0,4.0,1.0,Panthers,2022
+34,26.0,Donte Jackson,11/8/1995,27.0,5-10,180.0,LSU,LCB,9,9.0,4.0,4.0,Panthers,2022
+35,44.0,J.J. Jansen,1/20/1986,36.0,6-2,235.0,Notre Dame,LS,17,0.0,13.0,1.0,Panthers,2022
+36,91.0,Kobe Jones,5/10/1998,24.0,6-4,260.0,Mississippi St.,DE,1,0.0,0.0,0.0,Panthers,2022
+37,73.0,Michael Jordan,1/25/1998,24.0,6-6,315.0,Ohio St.,G,17,0.0,3.0,1.0,Panthers,2022
+38,55.0,Cory Littleton,11/18/1993,29.0,6-3,225.0,Washington,MLB,15,7.0,6.0,4.0,Panthers,2022
+39,49.0,Frankie Luvu,9/19/1996,26.0,6-3,235.0,Washington St.,RLB,15,14.0,4.0,7.0,Panthers,2022
+40,88.0,Terrace Marshall Jr.,6/9/2000,22.0,6-2,200.0,LSU,WR,14,9.0,1.0,4.0,Panthers,2022
+41,6.0,Baker Mayfield,4/14/1995,27.0,6-1,215.0,Oklahoma,QB,7,6.0,4.0,3.0,Panthers,2022
+42,64.0,Cade Mays,4/26/1999,23.0,6-6,325.0,"Georgia,Tennessee",G,11,2.0,0.0,1.0,Panthers,2022
+43,22.0,Christian McCaffrey,6/7/1996,26.0,5-11,205.0,Stanford,RB,6,6.0,5.0,5.0,Panthers,2022
+44,78.0,Marquan McCall,3/26/1999,23.0,,379.0,Kentucky,DT,16,0.0,0.0,1.0,Panthers,2022
+45,2.0,D.J. Moore,4/14/1997,25.0,5-11,210.0,Maryland,WR,17,17.0,4.0,8.0,Panthers,2022
+46,46.0,Arron Mosby,4/13/1999,23.0,6-3,250.0,Fresno St.,LB,3,0.0,0.0,0.0,Panthers,2022
+47,72.0,Taylor Moton,8/18/1994,28.0,6-5,325.0,Western Michigan,RT,17,17.0,5.0,7.0,Panthers,2022
+48,54.0,Daviyon Nixon,12/13/1998,24.0,6-3,305.0,"Iowa Western,Iowa",DT,7,0.0,1.0,1.0,Panthers,2022
+49,6.0,Josh Norman,12/15/1987,35.0,6-0,195.0,Coastal Carolina,CB,2,1.0,10.0,0.0,Panthers,2022
+50,4.0,Eddy Pineiro,9/13/1995,27.0,5-11,190.0,Florida,K,17,0.0,3.0,5.0,Panthers,2022
+51,45.0,Giovanni Ricci,10/16/1996,26.0,6-3,240.0,Western Michigan,TE,15,3.0,1.0,1.0,Panthers,2022
+52,18.0,Andre Roberts,1/9/1988,34.0,5-11,195.0,The Citadel,WR,3,0.0,12.0,0.0,Panthers,2022
+53,93.0,Bravvion Roy,10/18/1996,26.0,6-1,330.0,Baylor,DT,13,4.0,2.0,3.0,Panthers,2022
+54,15.0,Laviska Shenault Jr.,10/5/1998,24.0,6-1,220.0,Colorado,WR,13,4.0,2.0,3.0,Panthers,2022
+55,40.0,Brandon Smith,4/12/2001,21.0,6-3,241.0,Penn St.,LB,12,1.0,0.0,1.0,Panthers,2022
+56,12.0,Shi Smith,10/26/1998,24.0,5-10,190.0,South Carolina,WR,17,6.0,1.0,3.0,Panthers,2022
+57,84.0,Stephen Sullivan,11/28/1996,26.0,6-5,245.0,LSU,TE,14,0.0,2.0,0.0,Panthers,2022
+58,28.0,Keith Taylor,11/20/1998,24.0,6-3,195.0,Washington,CB,17,2.0,1.0,2.0,Panthers,2022
+59,80.0,Ian Thomas,6/6/1996,26.0,6-4,260.0,Indiana,TE,17,17.0,4.0,2.0,Panthers,2022
+60,23.0,Stantley Thomas-Oliver,6/4/1998,24.0,6-0,190.0,Florida International,CB,3,0.0,2.0,0.0,Panthers,2022
+61,7.0,Shaq Thompson,4/21/1994,28.0,6-0,230.0,Washington,LLB,17,17.0,7.0,8.0,Panthers,2022
+62,82.0,Tommy Tremble,6/2/2000,22.0,6-4,250.0,Notre Dame,TE,17,4.0,1.0,2.0,Panthers,2022
+63,11.0,P.J. Walker,2/26/1995,27.0,5-11,215.0,Temple,QB,6,5.0,2.0,2.0,Panthers,2022
+64,85.0,Preston Williams,3/27/1997,25.0,6-5,220.0,Colorado St.,WR,1,0.0,3.0,0.0,Panthers,2022
+65,57.0,Damien Wilson,5/28/1993,29.0,6-0,243.0,Minnesota,MLB,17,5.0,7.0,3.0,Panthers,2022
+66,25.0,Xavier Woods,7/26/1995,27.0,5-11,200.0,Louisiana Tech,FS,15,15.0,5.0,6.0,Panthers,2022
+67,50.0,Chandler Wooten,4/25/1999,23.0,6-3,230.0,Auburn,LB,9,0.0,0.0,1.0,Panthers,2022
+68,,Team Total,,26.1,6-2.1,241.9,,,17,,3.4,,Panthers,2022

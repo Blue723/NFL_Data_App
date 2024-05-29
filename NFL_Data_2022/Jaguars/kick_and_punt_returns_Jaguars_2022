@@ -1,5 +1,5 @@
-,No.,Team,Player,Age,Position,Games Played,Games Started,Punts Returned,Punts Return Yardage,Punts Returned for Touchdown,Longest Punt Return,Yards per Punt Return,Kickoff Returns,Yardage for Kickoffs Returned,Kickoffs Returned for a Touchdown,Longest Kickoff Return,Yards per Kickoff Return,All-purpose Yards,Year
-0,39,Jaguars,Jamal Agnew,27,WR,15,0,25,205,0,22,8.2,21,547,0,54,26.0,1025,2022
-1,27,Jaguars,Chris Claybrooks,25,CB,17,0,0,0,0,0,,4,77,0,22,19.3,77,2022
-2,22,Jaguars,Jamycal Hasty,26,RB,17,0,0,0,0,0,,4,97,0,29,24.3,417,2022
-3,13,Jaguars,Christian Kirk,26,WR,17,17,4,25,0,10,6.3,0,0,0,0,,1144,2022
+,No.,Player,Age,Position,Games Played,Games Started,Punts Returned,Punts Return Yardage,Punts Returned for Touchdown,Longest Punt Return,Yards per Punt Return,Kickoff Returns,Yardage for Kickoffs Returned,Kickoffs Returned for a Touchdown,Longest Kickoff Return,Yards per Kickoff Return,All-purpose Yards,Team,Year
+39,39,Jamal Agnew,27,WR,15,0,25,205,0,22,8.2,21,547,0,54,26.0,1025,Jaguars,2022
+27,27,Chris Claybrooks,25,CB,17,0,0,0,0,0,0.0,4,77,0,22,19.3,77,Jaguars,2022
+22,22,Jamycal Hasty,26,RB,17,0,0,0,0,0,0.0,4,97,0,29,24.3,417,Jaguars,2022
+13,13,Christian Kirk,26,WR,17,17,4,25,0,10,6.3,0,0,0,0,0.0,1144,Jaguars,2022

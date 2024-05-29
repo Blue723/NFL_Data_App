@@ -1,7 +1,7 @@
-,No.,Team,Player,Age,Position,Games Played,Games Started,Punts Returned,Punts Return Yardage,Punts Returned for Touchdown,Longest Punt Return,Yards per Punt Return,Kickoff Returns,Yardage for Kickoffs Returned,Kickoffs Returned for a Touchdown,Longest Kickoff Return,Yards per Kickoff Return,All-purpose Yards,Year
-0,31,Dolphins,Raheem Mostert,30,RB,16,14,0,0,0,0,,25,502,0,31,20.1,1595,2022
-1,11,Dolphins,Cedrick Wilson Jr.,27,WR,15,0,13,97,0,15,7.5,0,0,0,0,,241,2022
-2,8,Dolphins,Jevon Holland,22,S,17,17,4,18,0,8,4.5,0,0,0,0,,82,2022
-3,10,Dolphins,Tyreek Hill,28,WR,17,17,2,-4,0,0,-2.0,0,0,0,0,,1795,2022
-4,30,Dolphins,Alec Ingold,26,FB,17,14,0,0,0,0,,2,20,0,12,10.0,133,2022
-5,81,Dolphins,Durham Smythe,27,TE,16,15,0,0,0,0,,2,27,0,18,13.5,157,2022
+,No.,Player,Age,Position,Games Played,Games Started,Punts Returned,Punts Return Yardage,Punts Returned for Touchdown,Longest Punt Return,Yards per Punt Return,Kickoff Returns,Yardage for Kickoffs Returned,Kickoffs Returned for a Touchdown,Longest Kickoff Return,Yards per Kickoff Return,All-purpose Yards,Team,Year
+31,31,Raheem Mostert,30,RB,16,14,0,0,0,0,0.0,25,502,0,31,20.1,1595,Dolphins,2022
+11,11,Cedrick Wilson Jr.,27,WR,15,0,13,97,0,15,7.5,0,0,0,0,0.0,241,Dolphins,2022
+8,8,Jevon Holland,22,FS,17,17,4,18,0,8,4.5,0,0,0,0,0.0,82,Dolphins,2022
+10,10,Tyreek Hill,28,WR,17,17,2,-4,0,0,-2.0,0,0,0,0,0.0,1795,Dolphins,2022
+30,30,Alec Ingold,26,FB,17,14,0,0,0,0,0.0,2,20,0,12,10.0,133,Dolphins,2022
+81,81,Durham Smythe,27,TE,16,15,0,0,0,0,0.0,2,27,0,18,13.5,157,Dolphins,2022

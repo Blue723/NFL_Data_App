@@ -1,16 +1,16 @@
-,No.,Team,Player,Age,Pos,Games Played,Games Started,Rush TD,Reception TD,Punt Return TD,Kick Return TD,Fumble Return TD,Interception TD,Other TD,All Touchdown Scored,2-Point Conversions Made,Two-Point Conversions Attempted,Defensive Two-Point Conversions,Extra Points Made,Extra Points Allowed,Field Goals Made,Field Goals Attempted,Safeties Scored by Player/Team,Total Points Scored by all Means,Poins per Game,Year
-0,1,Vikings,Greg Joseph,28,K,17,0,0,0,0,0,0,0,0,0,0,0,0,40,46,26,33,,118,6.9,2022
-1,4,Vikings,Dalvin Cook,27,RB,17,17,8,2,0,0,0,0,0,10,0,0,0,0,0,0,0,,60,3.5,2022
-2,18,Vikings,Justin Jefferson,23,WR,17,17,1,8,0,0,0,0,0,9,1,0,0,0,0,0,0,,56,3.3,2022
-3,19,Vikings,Adam Thielen,32,WR,17,17,0,6,0,0,0,0,0,6,1,0,0,0,0,0,0,,38,2.2,2022
-4,2,Vikings,Alexander Mattison,24,RB,17,0,5,1,0,0,0,0,0,6,0,0,0,0,0,0,0,,36,2.1,2022
-5,17,Vikings,K.J. Osborn,25,WR,17,9,0,5,0,0,0,0,0,5,0,0,0,0,0,0,0,,30,1.8,2022
-6,87,Vikings,T.J. Hockenson,25,TE,10,7,0,3,0,0,0,0,0,3,1,0,0,0,0,0,0,,20,2.0,2022
-7,8,Vikings,Kirk Cousins,34,QB,17,17,2,0,0,0,0,0,0,2,0,0,0,0,0,0,0,,12,0.7,2022
-8,30,Vikings,C.J. Ham,29,FB,17,4,2,0,0,0,0,0,0,2,0,0,0,0,0,0,0,,12,0.7,2022
-9,84,Vikings,Irv Smith Jr.,24,TE,8,1,0,2,0,0,0,0,0,2,0,0,0,0,0,0,0,,12,1.5,2022
-10,54,Vikings,Eric Kendricks,30,LB,17,17,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,,6,0.4,2022
-11,86,Vikings,Johnny Mundt,28,TE,17,12,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,,6,0.4,2022
-12,83,Vikings,Jalen Nailor,23,WR,15,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,,6,0.4,2022
-13,26,Vikings,Kene Nwangwu,24,RB,17,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,,6,0.4,2022
-14,5,Vikings,Jalen Reagor,23,WR,17,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,,6,0.4,2022
+,No.,Player,Age,Pos,Games Played,Games Started,Rush TD,Reception TD,Punt Return TD,Kick Return TD,Fumble Return TD,Interception TD,Other TD,All Touchdown Scored,2-Point Conversions Made,Two-Point Conversions Attempted,Defensive Two-Point Conversions,Extra Points Made,Extra Points Allowed,Field Goals Made,Field Goals Attempted,Safeties Scored by Player/Team,Total Points Scored by all Means,Poins per Game,Team,Year
+1,1,Greg Joseph,28,K,17,0,0,0,0,0,0,0,0,0,0,0,0,40,46,26,33,0,118,6.9,Vikings,2022
+4,4,Dalvin Cook,27,RB,17,17,8,2,0,0,0,0,0,10,0,0,0,0,0,0,0,0,60,3.5,Vikings,2022
+18,18,Justin Jefferson,23,WR,17,17,1,8,0,0,0,0,0,9,1,0,0,0,0,0,0,0,56,3.3,Vikings,2022
+19,19,Adam Thielen,32,WR,17,17,0,6,0,0,0,0,0,6,1,0,0,0,0,0,0,0,38,2.2,Vikings,2022
+2,2,Alexander Mattison,24,RB,17,0,5,1,0,0,0,0,0,6,0,0,0,0,0,0,0,0,36,2.1,Vikings,2022
+17,17,K.J. Osborn,25,WR,17,9,0,5,0,0,0,0,0,5,0,0,0,0,0,0,0,0,30,1.8,Vikings,2022
+87,87,T.J. Hockenson,25,TE,10,7,0,3,0,0,0,0,0,3,1,0,0,0,0,0,0,0,20,2.0,Vikings,2022
+8,8,Kirk Cousins,34,QB,17,17,2,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,12,0.7,Vikings,2022
+30,30,C.J. Ham,29,FB,17,4,2,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,12,0.7,Vikings,2022
+84,84,Irv Smith Jr.,24,TE,8,1,0,2,0,0,0,0,0,2,0,0,0,0,0,0,0,0,12,1.5,Vikings,2022
+54,54,Eric Kendricks,30,RILB,17,17,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,6,0.4,Vikings,2022
+86,86,Johnny Mundt,28,TE,17,12,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,6,0.4,Vikings,2022
+83,83,Jalen Nailor,23,WR,15,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,6,0.4,Vikings,2022
+26,26,Kene Nwangwu,24,RB,17,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,6,0.4,Vikings,2022
+5,5,Jalen Reagor,23,WR,17,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,6,0.4,Vikings,2022

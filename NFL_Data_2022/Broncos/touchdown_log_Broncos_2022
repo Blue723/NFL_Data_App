@@ -1,30 +1,30 @@
-,Rank,Team,Date,Opponent,Win/Loss,Score,Quarter,Distance,Type,Detail,Year
-0,1,Broncos,09/12/2022,SEA,Loss, 16-17,2,67,pass,Jerry Jeudy,2022
-1,2,Broncos,09/18/2022,HOU,Win, 16-9,4,22,pass,Eric Saubert,2022
-2,3,Broncos,09/25/2022,SFO,Win, 11-10,4,1,rush,Melvin Gordon,2022
-3,4,Broncos,10/02/2022,LVR,Loss, 23-32,1,5,pass,Courtland Sutton,2022
-4,5,Broncos,10/02/2022,LVR,Loss, 23-32,2,20,pass,Jerry Jeudy,2022
-5,6,Broncos,10/02/2022,LVR,Loss, 23-32,4,3,rush,Russell Wilson,2022
-6,7,Broncos,10/17/2022,LAC,Loss, 16-19,1,39,pass,Greg Dulcich,2022
-7,8,Broncos,10/23/2022,NYJ,Loss, 9-16,1,2,rush,Latavius Murray,2022
-8,9,Broncos,10/30/2022,JAX,Win, 21-17,2,6,pass,Jerry Jeudy,2022
-9,10,Broncos,10/30/2022,JAX,Win, 21-17,3,1,rush,Melvin Gordon,2022
-10,11,Broncos,10/30/2022,JAX,Win, 21-17,4,2,rush,Latavius Murray,2022
-11,12,Broncos,11/13/2022,TEN,Loss, 10-17,2,66,pass,Jalen Virgil,2022
-12,13,Broncos,11/20/2022,LVR,Loss, 16-22,1,1,rush,Latavius Murray,2022
-13,14,Broncos,11/27/2022,CAR,Loss, 10-23,4,1,pass,Brandon Johnson,2022
-14,15,Broncos,12/11/2022,KAN,Loss, 28-34,2,18,pass,Jerry Jeudy,2022
-15,16,Broncos,12/11/2022,KAN,Loss, 28-34,2,5,pass,Jerry Jeudy,2022
-16,17,Broncos,12/11/2022,KAN,Loss, 28-34,3,66,pass,Marlon Mack,2022
-17,18,Broncos,12/11/2022,KAN,Loss, 28-34,4,7,pass,Jerry Jeudy,2022
-18,19,Broncos,12/18/2022,ARI,Win, 24-15,3,3,rush,Marlon Mack,2022
-19,20,Broncos,12/18/2022,ARI,Win, 24-15,4,10,rush,Latavius Murray,2022
-20,21,Broncos,12/18/2022,ARI,Win, 24-15,4,3,pass,Eric Tomlinson,2022
-21,22,Broncos,12/25/2022,LAR,Loss, 14-51,4,11,pass,Greg Dulcich,2022
-22,23,Broncos,01/01/2023,KAN,Loss, 24-27,2,16,rush,Russell Wilson,2022
-23,24,Broncos,01/01/2023,KAN,Loss, 24-27,3,25,pass,Albert Okwuegbunam,2022
-24,25,Broncos,01/01/2023,KAN,Loss, 24-27,4,4,rush,Russell Wilson,2022
-25,26,Broncos,01/08/2023,LAC,Win, 31-28,1,2,rush,Latavius Murray,2022
-26,27,Broncos,01/08/2023,LAC,Win, 31-28,2,3,pass,Eric Tomlinson,2022
-27,28,Broncos,01/08/2023,LAC,Win, 31-28,3,24,pass,Tyler Badie,2022
-28,29,Broncos,01/08/2023,LAC,Win, 31-28,4,20,pass,Courtland Sutton,2022
+,Rank,Team,Date,Opponent,Win/Loss,Home_Score,Opponenet_Score,Quarter,Distance,Type,Detail
+1,1,Broncos,2022-09-12,SEA,Loss,16,17,2,67,pass,Jerry Jeudy
+2,2,Broncos,2022-09-18,HOU,Win,16,9,4,22,pass,Eric Saubert
+3,3,Broncos,2022-09-25,SFO,Win,11,10,4,1,rush,Melvin Gordon
+4,4,Broncos,2022-10-02,LVR,Loss,23,32,1,5,pass,Courtland Sutton
+5,5,Broncos,2022-10-02,LVR,Loss,23,32,2,20,pass,Jerry Jeudy
+6,6,Broncos,2022-10-02,LVR,Loss,23,32,4,3,rush,Russell Wilson
+7,7,Broncos,2022-10-17,LAC,Loss,16,19,1,39,pass,Greg Dulcich
+8,8,Broncos,2022-10-23,NYJ,Loss,9,16,1,2,rush,Latavius Murray
+9,9,Broncos,2022-10-30,JAX,Win,21,17,2,6,pass,Jerry Jeudy
+10,10,Broncos,2022-10-30,JAX,Win,21,17,3,1,rush,Melvin Gordon
+11,11,Broncos,2022-10-30,JAX,Win,21,17,4,2,rush,Latavius Murray
+12,12,Broncos,2022-11-13,TEN,Loss,10,17,2,66,pass,Jalen Virgil
+13,13,Broncos,2022-11-20,LVR,Loss,16,22,1,1,rush,Latavius Murray
+14,14,Broncos,2022-11-27,CAR,Loss,10,23,4,1,pass,Brandon Johnson
+15,15,Broncos,2022-12-11,KAN,Loss,28,34,2,18,pass,Jerry Jeudy
+16,16,Broncos,2022-12-11,KAN,Loss,28,34,2,5,pass,Jerry Jeudy
+17,17,Broncos,2022-12-11,KAN,Loss,28,34,3,66,pass,Marlon Mack
+18,18,Broncos,2022-12-11,KAN,Loss,28,34,4,7,pass,Jerry Jeudy
+19,19,Broncos,2022-12-18,ARI,Win,24,15,3,3,rush,Marlon Mack
+20,20,Broncos,2022-12-18,ARI,Win,24,15,4,10,rush,Latavius Murray
+21,21,Broncos,2022-12-18,ARI,Win,24,15,4,3,pass,Eric Tomlinson
+22,22,Broncos,2022-12-25,LAR,Loss,14,51,4,11,pass,Greg Dulcich
+23,23,Broncos,2023-01-01,KAN,Loss,24,27,2,16,rush,Russell Wilson
+24,24,Broncos,2023-01-01,KAN,Loss,24,27,3,25,pass,Albert Okwuegbunam
+25,25,Broncos,2023-01-01,KAN,Loss,24,27,4,4,rush,Russell Wilson
+26,26,Broncos,2023-01-08,LAC,Win,31,28,1,2,rush,Latavius Murray
+27,27,Broncos,2023-01-08,LAC,Win,31,28,2,3,pass,Eric Tomlinson
+28,28,Broncos,2023-01-08,LAC,Win,31,28,3,24,pass,Tyler Badie
+29,29,Broncos,2023-01-08,LAC,Win,31,28,4,20,pass,Courtland Sutton

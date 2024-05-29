@@ -1,46 +1,46 @@
-,Rank,Team,Date,Opponent,Win/Loss,Score,Quarter,Distance,Type,Detail,Year
-0,1,Jaguars,09/11/2022,WAS,Loss, 22-28,3,3,pass,James Robinson,2022
-1,2,Jaguars,09/11/2022,WAS,Loss, 22-28,4,11,rush,James Robinson,2022
-2,3,Jaguars,09/18/2022,IND,Win, 24-0,1,10,pass,Christian Kirk,2022
-3,4,Jaguars,09/18/2022,IND,Win, 24-0,2,37,rush,James Robinson,2022
-4,5,Jaguars,09/18/2022,IND,Win, 24-0,3,5,pass,Christian Kirk,2022
-5,6,Jaguars,09/25/2022,LAC,Win, 38-10,2,14,pass,Zay Jones,2022
-6,7,Jaguars,09/25/2022,LAC,Win, 38-10,3,50,rush,James Robinson,2022
-7,8,Jaguars,09/25/2022,LAC,Win, 38-10,3,4,pass,Christian Kirk,2022
-8,9,Jaguars,09/25/2022,LAC,Win, 38-10,4,11,pass,Marvin Jones,2022
-9,10,Jaguars,10/02/2022,PHI,Loss, 21-29,1,59,interception,Andre Cisco,2022
-10,11,Jaguars,10/02/2022,PHI,Loss, 21-29,1,4,pass,Jamal Agnew,2022
-11,12,Jaguars,10/02/2022,PHI,Loss, 21-29,4,8,pass,Jamal Agnew,2022
-12,13,Jaguars,10/16/2022,IND,Loss, 27-34,1,1,rush,Trevor Lawrence,2022
-13,14,Jaguars,10/16/2022,IND,Loss, 27-34,2,61,rush,Jamycal Hasty,2022
-14,15,Jaguars,10/16/2022,IND,Loss, 27-34,3,2,rush,Trevor Lawrence,2022
-15,16,Jaguars,10/16/2022,IND,Loss, 27-34,4,4,pass,Christian Kirk,2022
-16,17,Jaguars,10/23/2022,NYG,Loss, 17-23,1,7,rush,Travis Etienne,2022
-17,18,Jaguars,10/23/2022,NYG,Loss, 17-23,3,1,rush,Trevor Lawrence,2022
-18,19,Jaguars,10/30/2022,DEN,Loss, 17-21,1,22,pass,Evan Engram,2022
-19,20,Jaguars,10/30/2022,DEN,Loss, 17-21,4,1,rush,Travis Etienne,2022
-20,21,Jaguars,11/06/2022,LVR,Win, 27-20,2,1,rush,Travis Etienne,2022
-21,22,Jaguars,11/06/2022,LVR,Win, 27-20,3,7,pass,Christian Kirk,2022
-22,23,Jaguars,11/06/2022,LVR,Win, 27-20,4,5,rush,Travis Etienne,2022
-23,24,Jaguars,11/13/2022,KAN,Loss, 17-27,2,3,pass,Christian Kirk,2022
-24,25,Jaguars,11/13/2022,KAN,Loss, 17-27,4,19,pass,Christian Kirk,2022
-25,26,Jaguars,11/27/2022,BAL,Win, 28-27,2,28,pass,Jamycal Hasty,2022
-26,27,Jaguars,11/27/2022,BAL,Win, 28-27,4,1,pass,Jamal Agnew,2022
-27,28,Jaguars,11/27/2022,BAL,Win, 28-27,4,10,pass,Marvin Jones,2022
-28,29,Jaguars,12/04/2022,DET,Loss, 14-40,3,3,pass,Evan Engram,2022
-29,30,Jaguars,12/11/2022,TEN,Win, 36-22,1,12,pass,Evan Engram,2022
-30,31,Jaguars,12/11/2022,TEN,Win, 36-22,2,20,pass,Zay Jones,2022
-31,32,Jaguars,12/11/2022,TEN,Win, 36-22,3,1,rush,Trevor Lawrence,2022
-32,33,Jaguars,12/11/2022,TEN,Win, 36-22,3,21,pass,Evan Engram,2022
-33,34,Jaguars,12/18/2022,DAL,Win, 40-34,2,5,pass,Zay Jones,2022
-34,35,Jaguars,12/18/2022,DAL,Win, 40-34,3,59,pass,Zay Jones,2022
-35,36,Jaguars,12/18/2022,DAL,Win, 40-34,3,10,pass,Marvin Jones,2022
-36,37,Jaguars,12/18/2022,DAL,Win, 40-34,4,3,pass,Zay Jones,2022
-37,38,Jaguars,12/18/2022,DAL,Win, 40-34,5,52,interception,Rayshawn Jenkins,2022
-38,39,Jaguars,12/22/2022,NYJ,Win, 19-3,2,1,rush,Trevor Lawrence,2022
-39,40,Jaguars,01/01/2023,HOU,Win, 31-3,1,5,rush,Jamycal Hasty,2022
-40,41,Jaguars,01/01/2023,HOU,Win, 31-3,2,62,rush,Travis Etienne,2022
-41,42,Jaguars,01/01/2023,HOU,Win, 31-3,2,12,fumble,Tyson Campbell,2022
-42,43,Jaguars,01/01/2023,HOU,Win, 31-3,3,3,rush,Snoop Conner,2022
-43,44,Jaguars,01/07/2023,TEN,Win, 20-16,2,25,pass,Christian Kirk,2022
-44,45,Jaguars,01/07/2023,TEN,Win, 20-16,4,37,fumble,Josh Allen,2022
+,Rank,Team,Date,Opponent,Win/Loss,Home_Score,Opponenet_Score,Quarter,Distance,Type,Detail
+1,1,Jaguars,2022-09-11,WAS,Loss,22,28,3,3,pass,James Robinson
+2,2,Jaguars,2022-09-11,WAS,Loss,22,28,4,11,rush,James Robinson
+3,3,Jaguars,2022-09-18,IND,Win,24,0,1,10,pass,Christian Kirk
+4,4,Jaguars,2022-09-18,IND,Win,24,0,2,37,rush,James Robinson
+5,5,Jaguars,2022-09-18,IND,Win,24,0,3,5,pass,Christian Kirk
+6,6,Jaguars,2022-09-25,LAC,Win,38,10,2,14,pass,Zay Jones
+7,7,Jaguars,2022-09-25,LAC,Win,38,10,3,50,rush,James Robinson
+8,8,Jaguars,2022-09-25,LAC,Win,38,10,3,4,pass,Christian Kirk
+9,9,Jaguars,2022-09-25,LAC,Win,38,10,4,11,pass,Marvin Jones
+10,10,Jaguars,2022-10-02,PHI,Loss,21,29,1,59,interception,Andre Cisco
+11,11,Jaguars,2022-10-02,PHI,Loss,21,29,1,4,pass,Jamal Agnew
+12,12,Jaguars,2022-10-02,PHI,Loss,21,29,4,8,pass,Jamal Agnew
+13,13,Jaguars,2022-10-16,IND,Loss,27,34,1,1,rush,Trevor Lawrence
+14,14,Jaguars,2022-10-16,IND,Loss,27,34,2,61,rush,Jamycal Hasty
+15,15,Jaguars,2022-10-16,IND,Loss,27,34,3,2,rush,Trevor Lawrence
+16,16,Jaguars,2022-10-16,IND,Loss,27,34,4,4,pass,Christian Kirk
+17,17,Jaguars,2022-10-23,NYG,Loss,17,23,1,7,rush,Travis Etienne
+18,18,Jaguars,2022-10-23,NYG,Loss,17,23,3,1,rush,Trevor Lawrence
+19,19,Jaguars,2022-10-30,DEN,Loss,17,21,1,22,pass,Evan Engram
+20,20,Jaguars,2022-10-30,DEN,Loss,17,21,4,1,rush,Travis Etienne
+21,21,Jaguars,2022-11-06,LVR,Win,27,20,2,1,rush,Travis Etienne
+22,22,Jaguars,2022-11-06,LVR,Win,27,20,3,7,pass,Christian Kirk
+23,23,Jaguars,2022-11-06,LVR,Win,27,20,4,5,rush,Travis Etienne
+24,24,Jaguars,2022-11-13,KAN,Loss,17,27,2,3,pass,Christian Kirk
+25,25,Jaguars,2022-11-13,KAN,Loss,17,27,4,19,pass,Christian Kirk
+26,26,Jaguars,2022-11-27,BAL,Win,28,27,2,28,pass,Jamycal Hasty
+27,27,Jaguars,2022-11-27,BAL,Win,28,27,4,1,pass,Jamal Agnew
+28,28,Jaguars,2022-11-27,BAL,Win,28,27,4,10,pass,Marvin Jones
+29,29,Jaguars,2022-12-04,DET,Loss,14,40,3,3,pass,Evan Engram
+30,30,Jaguars,2022-12-11,TEN,Win,36,22,1,12,pass,Evan Engram
+31,31,Jaguars,2022-12-11,TEN,Win,36,22,2,20,pass,Zay Jones
+32,32,Jaguars,2022-12-11,TEN,Win,36,22,3,1,rush,Trevor Lawrence
+33,33,Jaguars,2022-12-11,TEN,Win,36,22,3,21,pass,Evan Engram
+34,34,Jaguars,2022-12-18,DAL,Win,40,34,2,5,pass,Zay Jones
+35,35,Jaguars,2022-12-18,DAL,Win,40,34,3,59,pass,Zay Jones
+36,36,Jaguars,2022-12-18,DAL,Win,40,34,3,10,pass,Marvin Jones
+37,37,Jaguars,2022-12-18,DAL,Win,40,34,4,3,pass,Zay Jones
+38,38,Jaguars,2022-12-18,DAL,Win,40,34,5,52,interception,Rayshawn Jenkins
+39,39,Jaguars,2022-12-22,NYJ,Win,19,3,2,1,rush,Trevor Lawrence
+40,40,Jaguars,2023-01-01,HOU,Win,31,3,1,5,rush,Jamycal Hasty
+41,41,Jaguars,2023-01-01,HOU,Win,31,3,2,62,rush,Travis Etienne
+42,42,Jaguars,2023-01-01,HOU,Win,31,3,2,12,fumble,Tyson Campbell
+43,43,Jaguars,2023-01-01,HOU,Win,31,3,3,3,rush,Snoop Conner
+44,44,Jaguars,2023-01-07,TEN,Win,20,16,2,25,pass,Christian Kirk
+45,45,Jaguars,2023-01-07,TEN,Win,20,16,4,37,fumble,Josh Allen

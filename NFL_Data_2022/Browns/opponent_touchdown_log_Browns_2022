@@ -1,43 +1,43 @@
-,Rank,Team,Date,Opponent,Win/Loss,Score,Quarter,Distance,Type,Detail,Year
-0,1,Browns,09/11/2022,CAR,Win, 26-24,2,1,rush,Christian McCaffrey,2022
-1,2,Browns,09/11/2022,CAR,Win, 26-24,4,7,rush,Baker Mayfield,2022
-2,3,Browns,09/11/2022,CAR,Win, 26-24,4,75,pass,Robbie Chosen,2022
-3,4,Browns,09/18/2022,NYJ,Loss, 30-31,2,2,pass,Garrett Wilson,2022
-4,5,Browns,09/18/2022,NYJ,Loss, 30-31,2,10,pass,Breece Hall,2022
-5,6,Browns,09/18/2022,NYJ,Loss, 30-31,4,66,pass,Corey Davis,2022
-6,7,Browns,09/18/2022,NYJ,Loss, 30-31,4,15,pass,Garrett Wilson,2022
-7,8,Browns,09/22/2022,PIT,Win, 29-17,2,5,rush,Najee Harris,2022
-8,9,Browns,09/22/2022,PIT,Win, 29-17,2,1,rush,Mitchell Trubisky,2022
-9,10,Browns,10/02/2022,ATL,Loss, 20-23,1,13,rush,Cordarrelle Patterson,2022
-10,11,Browns,10/02/2022,ATL,Loss, 20-23,4,5,rush,Caleb Huntley,2022
-11,12,Browns,10/09/2022,LAC,Loss, 28-30,2,5,rush,Joshua Kelley,2022
-12,13,Browns,10/09/2022,LAC,Loss, 28-30,2,12,pass,Austin Ekeler,2022
-13,14,Browns,10/09/2022,LAC,Loss, 28-30,3,22,rush,Austin Ekeler,2022
-14,15,Browns,10/16/2022,NWE,Loss, 15-38,2,31,rush,Rhamondre Stevenson,2022
-15,16,Browns,10/16/2022,NWE,Loss, 15-38,3,2,pass,Tyquan Thornton,2022
-16,17,Browns,10/16/2022,NWE,Loss, 15-38,3,31,pass,Hunter Henry,2022
-17,18,Browns,10/16/2022,NWE,Loss, 15-38,4,19,rush,Tyquan Thornton,2022
-18,19,Browns,10/16/2022,NWE,Loss, 15-38,4,6,rush,Rhamondre Stevenson,2022
-19,20,Browns,10/23/2022,BAL,Loss, 20-23,2,7,rush,Gus Edwards,2022
-20,21,Browns,10/23/2022,BAL,Loss, 20-23,3,1,rush,Gus Edwards,2022
-21,22,Browns,10/31/2022,CIN,Win, 32-13,4,13,pass,Tyler Boyd,2022
-22,23,Browns,10/31/2022,CIN,Win, 32-13,4,41,pass,Tee Higgins,2022
-23,24,Browns,11/13/2022,MIA,Loss, 17-39,1,13,pass,Alec Ingold,2022
-24,25,Browns,11/13/2022,MIA,Loss, 17-39,2,14,pass,Trent Sherfield,2022
-25,26,Browns,11/13/2022,MIA,Loss, 17-39,3,24,rush,Raheem Mostert,2022
-26,27,Browns,11/13/2022,MIA,Loss, 17-39,3,2,pass,Tyreek Hill,2022
-27,28,Browns,11/13/2022,MIA,Loss, 17-39,4,20,rush,Jeff Wilson,2022
-28,29,Browns,11/20/2022,BUF,Loss, 23-31,2,5,pass,Stefon Diggs,2022
-29,30,Browns,11/20/2022,BUF,Loss, 23-31,3,5,rush,Devin Singletary,2022
-30,31,Browns,11/27/2022,TAM,Win, 23-17,1,10,pass,Chris Godwin,2022
-31,32,Browns,11/27/2022,TAM,Win, 23-17,3,5,pass,Ko Kieft,2022
-32,33,Browns,12/04/2022,HOU,Win, 27-14,4,6,pass,Nico Collins,2022
-33,34,Browns,12/11/2022,CIN,Loss, 10-23,2,15,pass,Ja'Marr Chase,2022
-34,35,Browns,12/11/2022,CIN,Loss, 10-23,2,6,rush,Samaje Perine,2022
-35,36,Browns,12/11/2022,CIN,Loss, 10-23,3,45,pass,Trenton Irwin,2022
-36,37,Browns,12/24/2022,NOR,Loss, 10-17,3,8,rush,Taysom Hill,2022
-37,38,Browns,12/24/2022,NOR,Loss, 10-17,3,4,rush,Alvin Kamara,2022
-38,39,Browns,01/01/2023,WAS,Win, 24-10,2,1,rush,Carson Wentz,2022
-39,40,Browns,01/08/2023,PIT,Loss, 14-28,2,31,pass,George Pickens,2022
-40,41,Browns,01/08/2023,PIT,Loss, 14-28,3,4,rush,Najee Harris,2022
-41,42,Browns,01/08/2023,PIT,Loss, 14-28,4,1,rush,Derek Watt,2022
+,Rank,Team,Date,Opponent,Win/Loss,Home_Score,Opponenet_Score,Quarter,Distance,Type,Detail
+1,1,Browns,2022-09-11,CAR,Win,26,24,2,1,rush,Christian McCaffrey
+2,2,Browns,2022-09-11,CAR,Win,26,24,4,7,rush,Baker Mayfield
+3,3,Browns,2022-09-11,CAR,Win,26,24,4,75,pass,Robbie Chosen
+4,4,Browns,2022-09-18,NYJ,Loss,30,31,2,2,pass,Garrett Wilson
+5,5,Browns,2022-09-18,NYJ,Loss,30,31,2,10,pass,Breece Hall
+6,6,Browns,2022-09-18,NYJ,Loss,30,31,4,66,pass,Corey Davis
+7,7,Browns,2022-09-18,NYJ,Loss,30,31,4,15,pass,Garrett Wilson
+8,8,Browns,2022-09-22,PIT,Win,29,17,2,5,rush,Najee Harris
+9,9,Browns,2022-09-22,PIT,Win,29,17,2,1,rush,Mitchell Trubisky
+10,10,Browns,2022-10-02,ATL,Loss,20,23,1,13,rush,Cordarrelle Patterson
+11,11,Browns,2022-10-02,ATL,Loss,20,23,4,5,rush,Caleb Huntley
+12,12,Browns,2022-10-09,LAC,Loss,28,30,2,5,rush,Joshua Kelley
+13,13,Browns,2022-10-09,LAC,Loss,28,30,2,12,pass,Austin Ekeler
+14,14,Browns,2022-10-09,LAC,Loss,28,30,3,22,rush,Austin Ekeler
+15,15,Browns,2022-10-16,NWE,Loss,15,38,2,31,rush,Rhamondre Stevenson
+16,16,Browns,2022-10-16,NWE,Loss,15,38,3,2,pass,Tyquan Thornton
+17,17,Browns,2022-10-16,NWE,Loss,15,38,3,31,pass,Hunter Henry
+18,18,Browns,2022-10-16,NWE,Loss,15,38,4,19,rush,Tyquan Thornton
+19,19,Browns,2022-10-16,NWE,Loss,15,38,4,6,rush,Rhamondre Stevenson
+20,20,Browns,2022-10-23,BAL,Loss,20,23,2,7,rush,Gus Edwards
+21,21,Browns,2022-10-23,BAL,Loss,20,23,3,1,rush,Gus Edwards
+22,22,Browns,2022-10-31,CIN,Win,32,13,4,13,pass,Tyler Boyd
+23,23,Browns,2022-10-31,CIN,Win,32,13,4,41,pass,Tee Higgins
+24,24,Browns,2022-11-13,MIA,Loss,17,39,1,13,pass,Alec Ingold
+25,25,Browns,2022-11-13,MIA,Loss,17,39,2,14,pass,Trent Sherfield
+26,26,Browns,2022-11-13,MIA,Loss,17,39,3,24,rush,Raheem Mostert
+27,27,Browns,2022-11-13,MIA,Loss,17,39,3,2,pass,Tyreek Hill
+28,28,Browns,2022-11-13,MIA,Loss,17,39,4,20,rush,Jeff Wilson
+29,29,Browns,2022-11-20,BUF,Loss,23,31,2,5,pass,Stefon Diggs
+30,30,Browns,2022-11-20,BUF,Loss,23,31,3,5,rush,Devin Singletary
+31,31,Browns,2022-11-27,TAM,Win,23,17,1,10,pass,Chris Godwin
+32,32,Browns,2022-11-27,TAM,Win,23,17,3,5,pass,Ko Kieft
+33,33,Browns,2022-12-04,HOU,Win,27,14,4,6,pass,Nico Collins
+34,34,Browns,2022-12-11,CIN,Loss,10,23,2,15,pass,Ja'Marr Chase
+35,35,Browns,2022-12-11,CIN,Loss,10,23,2,6,rush,Samaje Perine
+36,36,Browns,2022-12-11,CIN,Loss,10,23,3,45,pass,Trenton Irwin
+37,37,Browns,2022-12-24,NOR,Loss,10,17,3,8,rush,Taysom Hill
+38,38,Browns,2022-12-24,NOR,Loss,10,17,3,4,rush,Alvin Kamara
+39,39,Browns,2023-01-01,WAS,Win,24,10,2,1,rush,Carson Wentz
+40,40,Browns,2023-01-08,PIT,Loss,14,28,2,31,pass,George Pickens
+41,41,Browns,2023-01-08,PIT,Loss,14,28,3,4,rush,Najee Harris
+42,42,Browns,2023-01-08,PIT,Loss,14,28,4,1,rush,Derek Watt

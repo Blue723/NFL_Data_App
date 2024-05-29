@@ -1,17 +1,17 @@
-,No.,Team,Player,Age,Pos,Games Played,Games Started,Rush TD,Reception TD,Punt Return TD,Kick Return TD,Fumble Return TD,Interception TD,Other TD,All Touchdown Scored,2-Point Conversions Made,Two-Point Conversions Attempted,Defensive Two-Point Conversions,Extra Points Made,Extra Points Allowed,Field Goals Made,Field Goals Attempted,Safeties Scored by Player/Team,Total Points Scored by all Means,Poins per Game,Year
-0,14,Jets,Greg Zuerlein,35,K,17,0,0,0,0,0,0,0,0,0,0,0,0,28,29,30,37,,118,6.9,2022
-1,20,Jets,Breece Hall,21,RB,7,2,4,1,0,0,0,0,0,5,0,0,0,0,0,0,0,,30,4.3,2022
-2,17,Jets,Garrett Wilson,22,WR,17,12,0,4,0,0,0,0,0,4,0,0,0,0,0,0,0,,24,1.4,2022
-3,32,Jets,Michael Carter,23,RB,16,10,3,0,0,0,0,0,0,3,0,0,0,0,0,0,0,,18,1.1,2022
-4,83,Jets,Tyler Conklin,27,TE,17,16,0,3,0,0,0,0,0,3,0,0,0,0,0,0,0,,18,1.1,2022
-5,10,Jets,Braxton Berrios,27,WR,17,2,2,0,0,0,0,0,0,2,0,0,0,0,0,0,0,,12,0.7,2022
-6,84,Jets,Corey Davis,27,WR,13,10,0,2,0,0,0,0,0,2,0,0,0,0,0,0,0,,12,0.9,2022
-7,87,Jets,C.J. Uzomah,29,TE,15,13,0,2,0,0,0,0,0,2,0,0,0,0,0,0,0,,12,0.8,2022
-8,2,Jets,Zach Wilson,23,QB,9,9,1,1,0,0,0,0,0,2,0,0,0,0,0,0,0,,12,1.3,2022
-9,25,Jets,Ty Johnson,25,RB,17,1,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,,6,0.4,2022
-10,27,Jets,Zonovan Knight,21,RB,7,4,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,,6,0.9,2022
-11,8,Jets,Elijah Moore,22,WR,16,9,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,,6,0.4,2022
-12,39,Jets,Will Parks,28,S,14,3,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,,6,0.4,2022
-13,23,Jets,James Robinson,24,RB,4,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,,6,1.5,2022
-14,5,Jets,Mike White,27,QB,4,4,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,,6,1.5,2022
-15,52,Jets,Jermaine Johnson II,23,DE,14,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1.0,2,0.1,2022
+,No.,Player,Age,Pos,Games Played,Games Started,Rush TD,Reception TD,Punt Return TD,Kick Return TD,Fumble Return TD,Interception TD,Other TD,All Touchdown Scored,2-Point Conversions Made,Two-Point Conversions Attempted,Defensive Two-Point Conversions,Extra Points Made,Extra Points Allowed,Field Goals Made,Field Goals Attempted,Safeties Scored by Player/Team,Total Points Scored by all Means,Poins per Game,Team,Year
+14,14,Greg Zuerlein,35,K,17,0,0,0,0,0,0,0,0,0,0,0,0,28,29,30,37,0,118,6.9,Jets,2022
+20,20,Breece Hall,21,RB,7,2,4,1,0,0,0,0,0,5,0,0,0,0,0,0,0,0,30,4.3,Jets,2022
+17,17,Garrett Wilson,22,WR,17,12,0,4,0,0,0,0,0,4,0,0,0,0,0,0,0,0,24,1.4,Jets,2022
+32,32,Michael Carter,23,RB,16,10,3,0,0,0,0,0,0,3,0,0,0,0,0,0,0,0,18,1.1,Jets,2022
+83,83,Tyler Conklin,27,TE,17,16,0,3,0,0,0,0,0,3,0,0,0,0,0,0,0,0,18,1.1,Jets,2022
+10,10,Braxton Berrios,27,WR,17,2,2,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,12,0.7,Jets,2022
+84,84,Corey Davis,27,WR,13,10,0,2,0,0,0,0,0,2,0,0,0,0,0,0,0,0,12,0.9,Jets,2022
+87,87,C.J. Uzomah,29,TE,15,13,0,2,0,0,0,0,0,2,0,0,0,0,0,0,0,0,12,0.8,Jets,2022
+2,2,Zach Wilson,23,QB,9,9,1,1,0,0,0,0,0,2,0,0,0,0,0,0,0,0,12,1.3,Jets,2022
+25,25,Ty Johnson,25,RB,17,1,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,6,0.4,Jets,2022
+27,27,Zonovan Knight,21,RB,7,4,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,6,0.9,Jets,2022
+8,8,Elijah Moore,22,WR,16,9,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,6,0.4,Jets,2022
+39,39,Will Parks,28,S,14,3,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,6,0.4,Jets,2022
+23,23,James Robinson,24,RB,4,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,6,1.5,Jets,2022
+5,5,Mike White,27,QB,4,4,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,6,1.5,Jets,2022
+52,52,Jermaine Johnson II,23,DE,14,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,2,0.1,Jets,2022

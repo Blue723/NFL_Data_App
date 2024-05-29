@@ -1,38 +1,38 @@
-,Rank,Team,Date,Opponent,Win/Loss,Score,Quarter,Distance,Type,Detail,Year
-0,1,Giants,09/11/2022,TEN,Win, 21-20,1,7,pass,Dontrell Hilliard,2022
-1,2,Giants,09/11/2022,TEN,Win, 21-20,3,23,pass,Dontrell Hilliard,2022
-2,3,Giants,09/18/2022,CAR,Win, 19-16,3,16,pass,D.J. Moore,2022
-3,4,Giants,09/26/2022,DAL,Loss, 16-23,3,1,rush,Ezekiel Elliott,2022
-4,5,Giants,09/26/2022,DAL,Loss, 16-23,4,1,pass,CeeDee Lamb,2022
-5,6,Giants,10/09/2022,GNB,Win, 27-22,1,4,pass,Allen Lazard,2022
-6,7,Giants,10/09/2022,GNB,Win, 27-22,2,2,pass,Marcedes Lewis,2022
-7,8,Giants,10/16/2022,BAL,Win, 24-20,2,30,rush,Kenyan Drake,2022
-8,9,Giants,10/16/2022,BAL,Win, 24-20,4,12,pass,Mark Andrews,2022
-9,10,Giants,10/23/2022,JAX,Win, 23-17,1,7,rush,Travis Etienne,2022
-10,11,Giants,10/23/2022,JAX,Win, 23-17,3,1,rush,Trevor Lawrence,2022
-11,12,Giants,10/30/2022,SEA,Loss, 13-27,2,3,pass,D.K. Metcalf,2022
-12,13,Giants,10/30/2022,SEA,Loss, 13-27,4,33,pass,Tyler Lockett,2022
-13,14,Giants,10/30/2022,SEA,Loss, 13-27,4,16,rush,Kenneth Walker III,2022
-14,15,Giants,11/13/2022,HOU,Win, 24-16,3,12,pass,Nico Collins,2022
-15,16,Giants,11/20/2022,DET,Loss, 18-31,2,4,rush,Jamaal Williams,2022
-16,17,Giants,11/20/2022,DET,Loss, 18-31,2,1,rush,Jamaal Williams,2022
-17,18,Giants,11/20/2022,DET,Loss, 18-31,3,1,rush,Jamaal Williams,2022
-18,19,Giants,11/20/2022,DET,Loss, 18-31,4,4,rush,D'Andre Swift,2022
-19,20,Giants,11/24/2022,DAL,Loss, 20-28,2,6,rush,Ezekiel Elliott,2022
-20,21,Giants,11/24/2022,DAL,Loss, 20-28,3,15,pass,Dalton Schultz,2022
-21,22,Giants,11/24/2022,DAL,Loss, 20-28,3,6,pass,Dalton Schultz,2022
-22,23,Giants,11/24/2022,DAL,Loss, 20-28,4,2,rush,Peyton Hendershot,2022
-23,24,Giants,12/04/2022,WAS,T, 20-20,1,19,pass,Terry McLaurin,2022
-24,25,Giants,12/04/2022,WAS,T, 20-20,4,28,pass,Jahan Dotson,2022
-25,26,Giants,12/11/2022,PHI,Loss, 22-48,1,3,rush,Miles Sanders,2022
-26,27,Giants,12/11/2022,PHI,Loss, 22-48,2,41,pass,DeVonta Smith,2022
-27,28,Giants,12/11/2022,PHI,Loss, 22-48,2,33,pass,A.J. Brown,2022
-28,29,Giants,12/11/2022,PHI,Loss, 22-48,3,10,rush,Jalen Hurts,2022
-29,30,Giants,12/11/2022,PHI,Loss, 22-48,4,40,rush,Miles Sanders,2022
-30,31,Giants,12/11/2022,PHI,Loss, 22-48,4,3,rush,Boston Scott,2022
-31,32,Giants,12/18/2022,WAS,Win, 20-12,3,19,pass,Jahan Dotson,2022
-32,33,Giants,12/24/2022,MIN,Loss, 24-27,1,12,pass,T.J. Hockenson,2022
-33,34,Giants,12/24/2022,MIN,Loss, 24-27,4,15,pass,T.J. Hockenson,2022
-34,35,Giants,12/24/2022,MIN,Loss, 24-27,4,17,pass,Justin Jefferson,2022
-35,36,Giants,01/01/2023,IND,Win, 38-10,3,6,pass,Michael Pittman Jr.,2022
-36,37,Giants,01/08/2023,PHI,Loss, 16-22,1,8,rush,Boston Scott,2022
+,Rank,Team,Date,Opponent,Win/Loss,Home_Score,Opponenet_Score,Quarter,Distance,Type,Detail
+1,1,Giants,2022-09-11,TEN,Win,21,20,1,7,pass,Dontrell Hilliard
+2,2,Giants,2022-09-11,TEN,Win,21,20,3,23,pass,Dontrell Hilliard
+3,3,Giants,2022-09-18,CAR,Win,19,16,3,16,pass,D.J. Moore
+4,4,Giants,2022-09-26,DAL,Loss,16,23,3,1,rush,Ezekiel Elliott
+5,5,Giants,2022-09-26,DAL,Loss,16,23,4,1,pass,CeeDee Lamb
+6,6,Giants,2022-10-09,GNB,Win,27,22,1,4,pass,Allen Lazard
+7,7,Giants,2022-10-09,GNB,Win,27,22,2,2,pass,Marcedes Lewis
+8,8,Giants,2022-10-16,BAL,Win,24,20,2,30,rush,Kenyan Drake
+9,9,Giants,2022-10-16,BAL,Win,24,20,4,12,pass,Mark Andrews
+10,10,Giants,2022-10-23,JAX,Win,23,17,1,7,rush,Travis Etienne
+11,11,Giants,2022-10-23,JAX,Win,23,17,3,1,rush,Trevor Lawrence
+12,12,Giants,2022-10-30,SEA,Loss,13,27,2,3,pass,D.K. Metcalf
+13,13,Giants,2022-10-30,SEA,Loss,13,27,4,33,pass,Tyler Lockett
+14,14,Giants,2022-10-30,SEA,Loss,13,27,4,16,rush,Kenneth Walker III
+15,15,Giants,2022-11-13,HOU,Win,24,16,3,12,pass,Nico Collins
+16,16,Giants,2022-11-20,DET,Loss,18,31,2,4,rush,Jamaal Williams
+17,17,Giants,2022-11-20,DET,Loss,18,31,2,1,rush,Jamaal Williams
+18,18,Giants,2022-11-20,DET,Loss,18,31,3,1,rush,Jamaal Williams
+19,19,Giants,2022-11-20,DET,Loss,18,31,4,4,rush,D'Andre Swift
+20,20,Giants,2022-11-24,DAL,Loss,20,28,2,6,rush,Ezekiel Elliott
+21,21,Giants,2022-11-24,DAL,Loss,20,28,3,15,pass,Dalton Schultz
+22,22,Giants,2022-11-24,DAL,Loss,20,28,3,6,pass,Dalton Schultz
+23,23,Giants,2022-11-24,DAL,Loss,20,28,4,2,rush,Peyton Hendershot
+24,24,Giants,2022-12-04,WAS,T,20,20,1,19,pass,Terry McLaurin
+25,25,Giants,2022-12-04,WAS,T,20,20,4,28,pass,Jahan Dotson
+26,26,Giants,2022-12-11,PHI,Loss,22,48,1,3,rush,Miles Sanders
+27,27,Giants,2022-12-11,PHI,Loss,22,48,2,41,pass,DeVonta Smith
+28,28,Giants,2022-12-11,PHI,Loss,22,48,2,33,pass,A.J. Brown
+29,29,Giants,2022-12-11,PHI,Loss,22,48,3,10,rush,Jalen Hurts
+30,30,Giants,2022-12-11,PHI,Loss,22,48,4,40,rush,Miles Sanders
+31,31,Giants,2022-12-11,PHI,Loss,22,48,4,3,rush,Boston Scott
+32,32,Giants,2022-12-18,WAS,Win,20,12,3,19,pass,Jahan Dotson
+33,33,Giants,2022-12-24,MIN,Loss,24,27,1,12,pass,T.J. Hockenson
+34,34,Giants,2022-12-24,MIN,Loss,24,27,4,15,pass,T.J. Hockenson
+35,35,Giants,2022-12-24,MIN,Loss,24,27,4,17,pass,Justin Jefferson
+36,36,Giants,2023-01-01,IND,Win,38,10,3,6,pass,Michael Pittman Jr.
+37,37,Giants,2023-01-08,PHI,Loss,16,22,1,8,rush,Boston Scott

@@ -1,21 +1,19 @@
-,Week,Team,Day,Date,Time,Win/Loss,Overtime,Team Record,Home/Away,Opponent,Points Scored,Points Allowed,Offense 1st Down,Total Yards Gained of Offense,Total yards Gained by Passing,Total Yards Gained by Rushing,Offense Turnovers,Defense 1st Down,Total Yards Allowed by Defense,Total Passing Yards Allowed by Defense,Total Rushing Yards Allowed by Defense,Defense Turnovers,Offense,Defense,Sp. Tms,Year
-0,0,Chargers,Sun,September 11,,W,0,1-0,home,Las Vegas Raiders,24,19,18,355,279,76,0,18,320,256,64,3,6.3,2.73,-1.95,2022
-1,1,Chargers,Thu,September 15,,L,0,1-1,away,Kansas City Chiefs,24,27,21,401,326,75,1,15,319,226,93,0,4.12,-5.54,-3.72,2022
-2,2,Chargers,Sun,September 25,,L,0,1-2,home,Jacksonville Jaguars,10,38,16,312,286,26,2,25,413,262,151,0,-10.35,-18.06,2.6,2022
-3,3,Chargers,Sun,October 2,,W,0,2-2,away,Houston Texans,34,24,22,419,338,81,1,16,346,215,131,2,15.96,-2.14,-4.62,2022
-4,4,Chargers,Sun,October 9,,W,0,3-2,away,Cleveland Browns,30,28,26,465,227,238,0,27,443,230,213,1,16.01,-16.53,4.92,2022
-5,5,1,1,1,1.0,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1.0,1.0,1.0,1
-6,6,Chargers,Sun,October 23,,L,0,4-3,home,Seattle Seahawks,23,37,21,329,276,53,2,24,404,191,213,2,-4.6,-12.13,1.1,2022
-7,7,Chargers,,,,,0,,home,<strong>Bye Week</strong>,0,0,0,0,0,0,0,0,0,0,0,0,,,,2022
-8,8,Chargers,Sun,November 6,,W,0,5-3,away,Atlanta Falcons,20,17,19,336,245,91,2,19,315,114,201,2,5.12,-1.74,-0.66,2022
-9,9,Chargers,Sun,November 13,,L,0,5-4,away,San Francisco 49ers,16,22,12,238,187,51,1,22,387,230,157,1,-7.29,-6.2,5.38,2022
-10,10,Chargers,Sun,November 20,,L,0,5-5,home,Kansas City Chiefs,27,30,22,365,250,115,2,23,485,322,163,1,8.61,-19.64,2.61,2022
-11,11,Chargers,Sun,November 27,,W,0,6-5,away,Arizona Cardinals,25,24,22,311,246,65,0,20,366,185,181,2,6.53,-7.69,1.25,2022
-12,12,Chargers,Sun,December 4,,L,0,6-6,away,Las Vegas Raiders,20,27,22,386,314,72,1,21,404,250,154,2,0.15,-5.34,1.56,2022
-13,13,Chargers,Sun,December 11,,W,0,7-6,home,Miami Dolphins,23,17,24,432,350,82,0,14,219,127,92,0,9.39,-1.14,-1.98,2022
-14,14,Chargers,Sun,December 18,,W,0,8-6,home,Tennessee Titans,17,14,23,365,291,74,2,17,284,157,127,1,1.7,2.21,-1.72,2022
-15,15,Chargers,Mon,December 26,,W,0,9-6,away,Indianapolis Colts,20,3,17,314,213,101,2,10,173,104,69,3,-2.36,22.57,-3.6,2022
-16,16,Chargers,Sun,January 1,,W,0,10-6,home,Los Angeles Rams,31,10,22,431,239,192,0,12,277,111,166,1,21.57,0.47,-0.25,2022
-17,17,Chargers,Sun,January 8,,L,0,10-7,away,Denver Broncos,28,31,21,352,293,59,2,22,471,266,205,2,2.63,-16.37,8.58,2022
-18,18,Chargers,,<strong>Playoffs</strong>,,,0,,home,,0,0,0,0,0,0,0,0,0,0,0,0,,,,2022
-19,19,Chargers,Sat,January 14,,L,0,10-8,away,Jacksonville Jaguars,30,31,18,320,253,67,0,24,390,273,117,5,3.29,-3.13,-0.98,2022
+,Week,Day,Date,Time,Win/Loss,Overtime,Team Record,Home/Away,Opponent,Points Scored,Points Allowed,Offense 1st Down,Total Yards Gained of Offense,Total yards Gained by Passing,Total Yards Gained by Rushing,Offense Turnovers,Defense 1st Down,Total Yards Allowed by Defense,Total Passing Yards Allowed by Defense,Total Rushing Yards Allowed by Defense,Defense Turnovers,Offense,Defense,Sp. Tms,Team,Year
+0,1,Sun,2022-09-11,nan,Win,0,1-0,home,Las Vegas Raiders,24,19,18,355,279,76,0,18,320,256,64,3,6.3,2.73,-1.95,Chargers,2022
+1,2,Thu,2022-09-15,nan,Loss,0,1-1,away,Kansas City Chiefs,24,27,21,401,326,75,1,15,319,226,93,0,4.12,-5.54,-3.72,Chargers,2022
+2,3,Sun,2022-09-25,nan,Loss,0,1-2,home,Jacksonville Jaguars,10,38,16,312,286,26,2,25,413,262,151,0,-10.35,-18.06,2.6,Chargers,2022
+3,4,Sun,2022-10-02,nan,Win,0,2-2,away,Houston Texans,34,24,22,419,338,81,1,16,346,215,131,2,15.96,-2.14,-4.62,Chargers,2022
+4,5,Sun,2022-10-09,nan,Win,0,3-2,away,Cleveland Browns,30,28,26,465,227,238,0,27,443,230,213,1,16.01,-16.53,4.92,Chargers,2022
+5,6,Mon,2022-10-17,nan,Win,1,4-2,home,Denver Broncos,19,16,24,297,224,73,1,13,258,160,98,1,-1.03,3.11,0.92,Chargers,2022
+6,7,Sun,2022-10-23,nan,Loss,0,4-3,home,Seattle Seahawks,23,37,21,329,276,53,2,24,404,191,213,2,-4.6,-12.13,1.1,Chargers,2022
+7,9,Sun,2022-11-06,nan,Win,0,5-3,away,Atlanta Falcons,20,17,19,336,245,91,2,19,315,114,201,2,5.12,-1.74,-0.66,Chargers,2022
+8,10,Sun,2022-11-13,nan,Loss,0,5-4,away,San Francisco 49ers,16,22,12,238,187,51,1,22,387,230,157,1,-7.29,-6.2,5.38,Chargers,2022
+9,11,Sun,2022-11-20,nan,Loss,0,5-5,home,Kansas City Chiefs,27,30,22,365,250,115,2,23,485,322,163,1,8.61,-19.64,2.61,Chargers,2022
+10,12,Sun,2022-11-27,nan,Win,0,6-5,away,Arizona Cardinals,25,24,22,311,246,65,0,20,366,185,181,2,6.53,-7.69,1.25,Chargers,2022
+11,13,Sun,2022-12-04,nan,Loss,0,6-6,away,Las Vegas Raiders,20,27,22,386,314,72,1,21,404,250,154,2,0.15,-5.34,1.56,Chargers,2022
+12,14,Sun,2022-12-11,nan,Win,0,7-6,home,Miami Dolphins,23,17,24,432,350,82,0,14,219,127,92,0,9.39,-1.14,-1.98,Chargers,2022
+13,15,Sun,2022-12-18,nan,Win,0,8-6,home,Tennessee Titans,17,14,23,365,291,74,2,17,284,157,127,1,1.7,2.21,-1.72,Chargers,2022
+14,16,Mon,2022-12-26,nan,Win,0,9-6,away,Indianapolis Colts,20,3,17,314,213,101,2,10,173,104,69,3,-2.36,22.57,-3.6,Chargers,2022
+15,17,Sun,2023-01-01,nan,Win,0,10-6,home,Los Angeles Rams,31,10,22,431,239,192,0,12,277,111,166,1,21.57,0.47,-0.25,Chargers,2022
+16,18,Sun,2023-01-08,nan,Loss,0,10-7,away,Denver Broncos,28,31,21,352,293,59,2,22,471,266,205,2,2.63,-16.37,8.58,Chargers,2022
+17,20,Sat,2023-01-14,nan,Loss,0,10-8,away,Jacksonville Jaguars,30,31,18,320,253,67,0,24,390,273,117,5,3.29,-3.13,-0.98,Chargers,2022

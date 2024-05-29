@@ -1,6 +1,6 @@
-,No.,Team,Player,Age,Position,Games Played,Games Started,Punts Returned,Punts Return Yardage,Punts Returned for Touchdown,Longest Punt Return,Yards per Punt Return,Kickoff Returns,Yardage for Kickoffs Returned,Kickoffs Returned for a Touchdown,Longest Kickoff Return,Yards per Kickoff Return,All-purpose Yards,Year
-0,23,Giants,Gary Brightwell,23,RB,17,0,0,0,0,0,,26,555,0,47,21.3,735,2022
-1,80,Giants,Richie James,27,WR,17,4,24,174,0,23,7.3,0,0,0,0,,749,2022
-2,22,Giants,Adoree' Jackson,27,CB,10,10,3,5,0,3,1.7,0,0,0,0,,6,2022
-3,30,Giants,Darnay Holmes,24,CB,15,2,1,0,0,0,0.0,0,0,0,0,,0,2022
-4,27,Giants,Jason Pinnock,23,S,14,5,1,0,0,0,0.0,0,0,0,0,,0,2022
+,No.,Player,Age,Position,Games Played,Games Started,Punts Returned,Punts Return Yardage,Punts Returned for Touchdown,Longest Punt Return,Yards per Punt Return,Kickoff Returns,Yardage for Kickoffs Returned,Kickoffs Returned for a Touchdown,Longest Kickoff Return,Yards per Kickoff Return,All-purpose Yards,Team,Year
+23,23,Gary Brightwell,23,RB,17,0,0,0,0,0,0.0,26,555,0,47,21.3,735,Giants,2022
+80,80,Richie James,27,WR,17,4,24,174,0,23,7.3,0,0,0,0,0.0,749,Giants,2022
+22,22,Adoree' Jackson,27,LCB,10,10,3,5,0,3,1.7,0,0,0,0,0.0,6,Giants,2022
+30,30,Darnay Holmes,24,CB,15,2,1,0,0,0,0.0,0,0,0,0,0.0,0,Giants,2022
+27,27,Jason Pinnock,23,FS,14,5,1,0,0,0,0.0,0,0,0,0,0.0,0,Giants,2022

@@ -1,9 +1,9 @@
-,No.,Team,Player,Age,Position,Games Played,Games Started,Punts Returned,Punts Return Yardage,Punts Returned for Touchdown,Longest Punt Return,Yards per Punt Return,Kickoff Returns,Yardage for Kickoffs Returned,Kickoffs Returned for a Touchdown,Longest Kickoff Return,Yards per Kickoff Return,All-purpose Yards,Year
-0,20,Panthers,Raheem Blackshear,23,RB,13,1,6,55,0,21,9.2,19,513,0,66,27.0,738,2022
-1,12,Panthers,Shi Smith,24,WR,17,6,23,143,0,22,6.2,0,0,0,0,,439,2022
-2,18,Panthers,Andre Roberts,34,WR,3,0,4,18,0,10,4.5,2,35,0,18,17.5,53,2022
-3,30,Panthers,Chuba Hubbard,23,RB,15,2,0,0,0,0,,5,104,0,36,20.8,745,2022
-4,15,Panthers,Laviska Shenault Jr.,24,WR,13,4,0,0,0,0,,3,82,0,36,27.3,419,2022
-5,84,Panthers,Stephen Sullivan,26,TE,14,0,0,0,0,0,,1,5,0,5,5.0,51,2022
-6,28,Panthers,Keith Taylor,24,CB,17,2,1,0,0,0,0.0,0,0,0,0,,0,2022
-7,82,Panthers,Tommy Tremble,22,TE,17,4,0,0,0,0,,1,8,0,8,8.0,182,2022
+,No.,Player,Age,Position,Games Played,Games Started,Punts Returned,Punts Return Yardage,Punts Returned for Touchdown,Longest Punt Return,Yards per Punt Return,Kickoff Returns,Yardage for Kickoffs Returned,Kickoffs Returned for a Touchdown,Longest Kickoff Return,Yards per Kickoff Return,All-purpose Yards,Team,Year
+20,20,Raheem Blackshear,23,RB,13,1,6,55,0,21,9.2,19,513,0,66,27.0,738,Panthers,2022
+12,12,Shi Smith,24,WR,17,6,23,143,0,22,6.2,0,0,0,0,0.0,439,Panthers,2022
+18,18,Andre Roberts,34,WR,3,0,4,18,0,10,4.5,2,35,0,18,17.5,53,Panthers,2022
+30,30,Chuba Hubbard,23,RB,15,2,0,0,0,0,0.0,5,104,0,36,20.8,745,Panthers,2022
+15,15,Laviska Shenault Jr.,24,WR,13,4,0,0,0,0,0.0,3,82,0,36,27.3,419,Panthers,2022
+84,84,Stephen Sullivan,26,TE,14,0,0,0,0,0,0.0,1,5,0,5,5.0,51,Panthers,2022
+28,28,Keith Taylor,24,CB,17,2,1,0,0,0,0.0,0,0,0,0,0.0,0,Panthers,2022
+82,82,Tommy Tremble,22,TE,17,4,0,0,0,0,0.0,1,8,0,8,8.0,182,Panthers,2022

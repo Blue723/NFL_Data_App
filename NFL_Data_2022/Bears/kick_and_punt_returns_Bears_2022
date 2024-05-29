@@ -1,6 +1,6 @@
-,No.,Team,Player,Age,Position,Games Played,Games Started,Punts Returned,Punts Return Yardage,Punts Returned for Touchdown,Longest Punt Return,Yards per Punt Return,Kickoff Returns,Yardage for Kickoffs Returned,Kickoffs Returned for a Touchdown,Longest Kickoff Return,Yards per Kickoff Return,All-purpose Yards,Year
-0,12,Bears,Velus Jones Jr.,25,WR,12,2,5,35,0,19,7.0,22,607,0,63,27.6,852,2022
-1,18,Bears,Dante Pettis,27,WR,17,7,18,163,0,27,9.1,0,0,0,0,,445,2022
-2,25,Bears,Trestan Ebner,23,RB,17,0,0,0,0,0,,10,226,0,30,22.6,270,2022
-3,24,Bears,Khalil Herbert,24,RB,13,1,0,0,0,0,,5,146,0,50,29.2,934,2022
-4,17,Bears,Ihmir Smith-Marsette,23,WR,6,0,0,0,0,0,,1,17,0,17,17.0,31,2022
+,No.,Player,Age,Position,Games Played,Games Started,Punts Returned,Punts Return Yardage,Punts Returned for Touchdown,Longest Punt Return,Yards per Punt Return,Kickoff Returns,Yardage for Kickoffs Returned,Kickoffs Returned for a Touchdown,Longest Kickoff Return,Yards per Kickoff Return,All-purpose Yards,Team,Year
+12,12,Velus Jones Jr.,25,WR,12,2,5,35,0,19,7.0,22,607,0,63,27.6,852,Bears,2022
+18,18,Dante Pettis,27,WR,17,7,18,163,0,27,9.1,0,0,0,0,0.0,445,Bears,2022
+25,25,Trestan Ebner,23,RB,17,0,0,0,0,0,0.0,10,226,0,30,22.6,270,Bears,2022
+24,24,Khalil Herbert,24,RB,13,1,0,0,0,0,0.0,5,146,0,50,29.2,934,Bears,2022
+17,17,Ihmir Smith-Marsette,23,WR,6,0,0,0,0,0,0.0,1,17,0,17,17.0,31,Bears,2022

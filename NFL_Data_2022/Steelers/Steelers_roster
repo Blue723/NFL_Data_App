@@ -1,65 +1,65 @@
-Player,No.,Team,Age,Pos,G,GS,Wt,Ht,College/Univ,BirthDate,Yrs,AV,Drafted (tm/rnd/yr)
-Montravius Adams,57.0,Steelers,27.0,DT,17,9.0,304.0,6-4,Auburn,7/24/1995,5,4.0,Green Bay Packers / 3rd / 93rd pick / 2017
-Marcus Allen,27.0,Steelers,26.0,LB,15,0.0,215.0,6-2,Penn St.,8/7/1996,4,1.0,Pittsburgh Steelers / 5th / 148th pick / 2018
-Tyson Alualu,94.0,Steelers,35.0,DE,17,2.0,304.0,6-3,California,5/12/1987,12,2.0,Jacksonville Jaguars / 1st / 10th pick / 2010
-Ryan Anderson,52.0,Steelers,28.0,OLB,5,0.0,255.0,6-2,Alabama,8/12/1994,5,0.0,Washington Redskins / 2nd / 49th pick / 2017
-Chris Boswell,9.0,Steelers,31.0,K,12,0.0,185.0,6-2,Rice,3/16/1991,7,1.0,
-Miles Boykin,13.0,Steelers,26.0,WR,16,1.0,220.0,6-4,Notre Dame,10/12/1996,3,0.0,Baltimore Ravens / 3rd / 93rd pick / 2019
-Devin Bush Jr.,55.0,Steelers,24.0,LB,17,14.0,234.0,5-11,Michigan,7/18/1998,3,6.0,Pittsburgh Steelers / 1st / 10th pick / 2019
-Chase Claypool,11.0,Steelers,24.0,WR,8,8.0,238.0,6-4,Notre Dame,7/7/1998,2,3.0,Pittsburgh Steelers / 2nd / 49th pick / 2020
-Mason Cole,61.0,Steelers,26.0,OL,17,17.0,298.0,6-5,Michigan,3/28/1996,4,7.0,Arizona Cardinals / 3rd / 97th pick / 2018
-James Daniels,78.0,Steelers,25.0,OL,17,17.0,327.0,6-4,Iowa,9/13/1997,4,7.0,Chicago Bears / 2nd / 39th pick / 2018
-Carlos Davis,73.0,Steelers,26.0,DT,1,0.0,320.0,6-2,Nebraska,8/22/1996,2,0.0,Pittsburgh Steelers / 7th / 232nd pick / 2020
-Jesse Davis,73.0,Steelers,31.0,T,14,0.0,318.0,6-6,Idaho,9/15/1991,5,1.0,
-Kevin Dotson,69.0,Steelers,26.0,OL,17,17.0,321.0,6-4,Louisiana,9/18/1996,2,7.0,Pittsburgh Steelers / 4th / 135th pick / 2020
-Terrell Edmunds,34.0,Steelers,25.0,S,15,15.0,217.0,6-1,Virginia Tech,1/20/1997,4,5.0,Pittsburgh Steelers / 1st / 28th pick / 2018
-Minkah Fitzpatrick,39.0,Steelers,26.0,S,15,15.0,207.0,6-1,Alabama,11/17/1996,4,11.0,Miami Dolphins / 1st / 11th pick / 2018
-Pat Freiermuth,88.0,Steelers,24.0,TE,16,8.0,258.0,6-5,Penn St.,10/25/1998,1,6.0,Pittsburgh Steelers / 2nd / 55th pick / 2021
-Zach Gentry,81.0,Steelers,26.0,TE,17,13.0,265.0,6-8,Michigan,9/10/1996,3,1.0,Pittsburgh Steelers / 5th / 141st pick / 2019
-Najee Harris,22.0,Steelers,24.0,RB,17,17.0,242.0,6-1,Alabama,3/9/1998,1,6.0,Pittsburgh Steelers / 1st / 24th pick / 2021
-Pressley Harvin III,6.0,Steelers,24.0,P,17,0.0,255.0,6-0,Georgia Tech,9/17/1998,1,2.0,Pittsburgh Steelers / 7th / 254th pick / 2021
-J.C. Hassenauer,60.0,Steelers,27.0,C,17,0.0,295.0,6-2,Alabama,9/15/1995,2,1.0,
-Cameron Heyward,97.0,Steelers,33.0,DT,17,17.0,295.0,6-5,Ohio St.,5/6/1989,11,11.0,Pittsburgh Steelers / 1st / 31st pick / 2011
-Connor Heyward,83.0,Steelers,23.0,TE,17,0.0,230.0,6-0,Michigan St.,1/22/1999,Rook,1.0,Pittsburgh Steelers / 6th / 208th pick / 2022
-Alex Highsmith,56.0,Steelers,25.0,LB,17,17.0,242.0,6-4,Charlotte,8/7/1997,2,8.0,Pittsburgh Steelers / 3rd / 102nd pick / 2020
-Myles Jack,51.0,Steelers,27.0,LB,15,13.0,244.0,6-1,UCLA,9/3/1995,6,6.0,Jacksonville Jaguars / 2nd / 36th pick / 2016
-Josh Jackson,16.0,Steelers,26.0,CB,4,1.0,196.0,6-0,Iowa,4/3/1996,4,1.0,Green Bay Packers / 2nd / 45th pick / 2018
-Diontae Johnson,18.0,Steelers,26.0,WR,17,17.0,183.0,5-10,Toledo,7/5/1996,3,7.0,Pittsburgh Steelers / 3rd / 66th pick / 2019
-Jamir Jones,40.0,Steelers,24.0,LB,17,0.0,255.0,6-3,Notre Dame,6/14/1998,1,1.0,
-Damontae Kazee,23.0,Steelers,29.0,S,9,4.0,174.0,5-11,San Diego St.,6/5/1993,5,2.0,Atlanta Falcons / 5th / 149th pick / 2017
-Miles Killebrew,28.0,Steelers,29.0,S,17,0.0,222.0,6-2,Southern Utah,5/10/1993,6,1.0,Detroit Lions / 4th / 111th pick / 2016
-Christian Kuntz,46.0,Steelers,28.0,LS,17,0.0,228.0,6-1,Duquesne,4/13/1994,1,1.0,
-DeMarvin Leal,98.0,Steelers,22.0,DE,11,2.0,290.0,6-4,Texas A&M,7/1/2000,Rook,2.0,Pittsburgh Steelers / 3rd / 84th pick / 2022
-Isaiahh Loudermilk,92.0,Steelers,25.0,DE,11,3.0,293.0,6-7,Wisconsin,10/10/1997,1,2.0,Pittsburgh Steelers / 5th / 156th pick / 2021
-Arthur Maulet,35.0,Steelers,29.0,CB,17,6.0,190.0,5-9,Memphis,7/13/1993,5,3.0,
-Anthony McFarland Jr.,26.0,Steelers,23.0,RB,1,0.0,193.0,5-8,Maryland,3/4/1999,2,0.0,Pittsburgh Steelers / 4th / 124th pick / 2020
-Dan Moore,65.0,Steelers,24.0,T,17,17.0,315.0,6-5,Texas A&M,9/28/1998,1,8.0,Pittsburgh Steelers / 4th / 128th pick / 2021
-Tre Norwood,21.0,Steelers,23.0,DB,15,3.0,194.0,6-0,Oklahoma,4/19/1999,1,1.0,Pittsburgh Steelers / 7th / 245th pick / 2021
-Larry Ogunjobi,99.0,Steelers,28.0,DT,16,16.0,305.0,6-3,Charlotte,6/3/1994,5,7.0,Cleveland Browns / 3rd / 65th pick / 2017
-Chukwuma Okorafor,76.0,Steelers,25.0,OL,17,17.0,320.0,6-6,Western Michigan,8/8/1997,4,7.0,Pittsburgh Steelers / 3rd / 92nd pick / 2018
-Gunner Olszewski,89.0,Steelers,26.0,WR,16,2.0,190.0,6-0,Bemidji St.,11/26/1996,3,1.0,
-George Pickens,14.0,Steelers,21.0,WR,17,12.0,200.0,6-3,Georgia,3/4/2001,Rook,7.0,Pittsburgh Steelers / 2nd / 52nd pick / 2022
-Kenny Pickett,8.0,Steelers,24.0,QB,13,12.0,220.0,6-3,Pittsburgh,6/6/1998,Rook,7.0,Pittsburgh Steelers / 1st / 20th pick / 2022
-James Pierre,42.0,Steelers,26.0,CB,17,2.0,185.0,6-2,Florida Atlantic,9/16/1996,2,2.0,
-Malik Reed,50.0,Steelers,26.0,LB,14,2.0,245.0,6-2,Nevada,8/5/1996,3,2.0,
-Elijah Riley,37.0,Steelers,24.0,S,4,0.0,205.0,6-0,Army,6/12/1998,2,0.0,
-Mark Robinson,93.0,Steelers,23.0,LB,4,2.0,235.0,5-11,"Presbyterian,SE Missouri St.,Mississippi",8/14/1999,Rook,1.0,Pittsburgh Steelers / 7th / 225th pick / 2022
-Nick Sciba,4.0,Steelers,23.0,K,1,0.0,191.0,5-9,Wake Forest,10/2/1999,Rook,0.0,
-Delontae Scott,50.0,Steelers,25.0,LB,2,0.0,250.0,6-5,SMU,1/21/1997,1,0.0,
-Trenton Scott,64.0,Steelers,28.0,OL,8,1.0,320.0,6-5,Grambling St.,1/25/1994,4,1.0,
-Steven Sims,82.0,Steelers,25.0,WR,12,2.0,176.0,5-10,Kansas,3/31/1997,3,1.0,
-Benny Snell Jr.,24.0,Steelers,24.0,RB,17,0.0,224.0,5-10,Kentucky,2/26/1998,3,1.0,Pittsburgh Steelers / 4th / 122nd pick / 2019
-Robert Spillane,41.0,Steelers,27.0,LB,16,5.0,229.0,6-1,Western Michigan,12/14/1995,4,3.0,
-Cameron Sutton,20.0,Steelers,27.0,CB,16,15.0,180.0,5-11,Tennessee,2/27/1995,5,5.0,Pittsburgh Steelers / 3rd / 94th pick / 2017
-Mitchell Trubisky,10.0,Steelers,28.0,QB,7,5.0,220.0,6-2,North Carolina,8/20/1994,5,4.0,Chicago Bears / 1st / 2nd pick / 2017
-Levi Wallace,29.0,Steelers,27.0,CB,15,9.0,179.0,6-0,Alabama,6/12/1995,4,4.0,
-Jaylen Warren,30.0,Steelers,24.0,RB,16,0.0,215.0,,"Snow College (UT),Utah St.,Oklahoma St.",11/1/1998,Rook,4.0,
-Derek Watt,44.0,Steelers,30.0,FB,17,3.0,234.0,6-2,Wisconsin,11/7/1992,6,0.0,San Diego Chargers / 6th / 198th pick / 2016
-T.J. Watt,90.0,Steelers,28.0,LB,10,10.0,252.0,6-4,Wisconsin,10/11/1994,5,8.0,Pittsburgh Steelers / 1st / 30th pick / 2017
-Cody White,15.0,Steelers,24.0,WR,1,1.0,210.0,6-3,Michigan St.,11/28/1998,1,0.0,
-Quincy Wilson,31.0,Steelers,26.0,CB,1,0.0,193.0,6-2,Florida,8/16/1996,5,0.0,Indianapolis Colts / 2nd / 46th pick / 2017
-Ahkello Witherspoon,25.0,Steelers,27.0,CB,4,4.0,195.0,6-2,Colorado,3/21/1995,5,1.0,San Francisco 49ers / 3rd / 66th pick / 2017
-Chris Wormley,95.0,Steelers,29.0,DT,13,1.0,300.0,6-5,Michigan,10/25/1993,5,2.0,Baltimore Ravens / 3rd / 74th pick / 2017
-Renell Wren,79.0,Steelers,27.0,DT,1,0.0,315.0,6-5,Arizona St.,10/23/1995,3,0.0,Cincinnati Bengals / 4th / 125th pick / 2019
-Matthew Wright,4.0,Steelers,26.0,K,4,0.0,179.0,6-0,Central Florida,3/22/1996,2,1.0,
-Team Total,,Steelers,26.1,,17,,241.1,6-2.0,,,3.2,,
+,No.,Player,BirthDate,Age,Height,Weight,College/University,Position,Games_Played_in_Season,Games_Started_in_Season,NFL_Years,Player_Value,Team,Year
+0,57.0,Montravius Adams,7/24/1995,27.0,6-4,304.0,Auburn,NT,17,9.0,5.0,4.0,Steelers,2022
+1,27.0,Marcus Allen,8/7/1996,26.0,6-2,215.0,Penn St.,DB,15,0.0,4.0,1.0,Steelers,2022
+2,94.0,Tyson Alualu,5/12/1987,35.0,6-3,304.0,California,NT,17,2.0,12.0,2.0,Steelers,2022
+3,52.0,Ryan Anderson,8/12/1994,28.0,6-2,255.0,Alabama,LB,5,0.0,5.0,0.0,Steelers,2022
+4,9.0,Chris Boswell,3/16/1991,31.0,6-2,185.0,Rice,K,12,0.0,7.0,1.0,Steelers,2022
+5,13.0,Miles Boykin,10/12/1996,26.0,6-4,220.0,Notre Dame,WR,16,1.0,3.0,0.0,Steelers,2022
+6,55.0,Devin Bush Jr.,7/18/1998,24.0,5-11,234.0,Michigan,LILB,17,14.0,3.0,6.0,Steelers,2022
+7,11.0,Chase Claypool,7/7/1998,24.0,6-4,238.0,Notre Dame,WR,8,8.0,2.0,3.0,Steelers,2022
+8,61.0,Mason Cole,3/28/1996,26.0,6-5,298.0,Michigan,C,17,17.0,4.0,7.0,Steelers,2022
+9,78.0,James Daniels,9/13/1997,25.0,6-4,327.0,Iowa,RG,17,17.0,4.0,7.0,Steelers,2022
+10,73.0,Carlos Davis,8/22/1996,26.0,6-2,320.0,Nebraska,CB,1,0.0,2.0,0.0,Steelers,2022
+11,73.0,Jesse Davis,9/15/1991,31.0,6-6,318.0,Idaho,T,14,0.0,5.0,1.0,Steelers,2022
+12,69.0,Kevin Dotson,9/18/1996,26.0,6-4,321.0,Louisiana,LG,17,17.0,2.0,7.0,Steelers,2022
+13,34.0,Terrell Edmunds,1/20/1997,25.0,6-1,217.0,Virginia Tech,SS,15,15.0,4.0,5.0,Steelers,2022
+14,39.0,Minkah Fitzpatrick,11/17/1996,26.0,6-1,207.0,Alabama,FS,15,15.0,4.0,11.0,Steelers,2022
+15,88.0,Pat Freiermuth,10/25/1998,24.0,6-5,258.0,Penn St.,TE,16,8.0,1.0,6.0,Steelers,2022
+16,81.0,Zach Gentry,9/10/1996,26.0,6-8,265.0,Michigan,TE,17,13.0,3.0,1.0,Steelers,2022
+17,22.0,Najee Harris,3/9/1998,24.0,6-1,242.0,Alabama,RB,17,17.0,1.0,6.0,Steelers,2022
+18,6.0,Pressley Harvin III,9/17/1998,24.0,6-0,255.0,Georgia Tech,P,17,0.0,1.0,2.0,Steelers,2022
+19,60.0,J.C. Hassenauer,9/15/1995,27.0,6-2,295.0,Alabama,C,17,0.0,2.0,1.0,Steelers,2022
+20,97.0,Cameron Heyward,5/6/1989,33.0,6-5,295.0,Ohio St.,DT,17,17.0,11.0,11.0,Steelers,2022
+21,83.0,Connor Heyward,1/22/1999,23.0,6-0,230.0,Michigan St.,TE,17,0.0,0.0,1.0,Steelers,2022
+22,56.0,Alex Highsmith,8/7/1997,25.0,6-4,242.0,Charlotte,ROLB,17,17.0,2.0,8.0,Steelers,2022
+23,51.0,Myles Jack,9/3/1995,27.0,6-1,244.0,UCLA,RILB,15,13.0,6.0,6.0,Steelers,2022
+24,16.0,Josh Jackson,4/3/1996,26.0,6-0,196.0,Iowa,CB,4,1.0,4.0,1.0,Steelers,2022
+25,18.0,Diontae Johnson,7/5/1996,26.0,5-10,183.0,Toledo,WR,17,17.0,3.0,7.0,Steelers,2022
+26,40.0,Jamir Jones,6/14/1998,24.0,6-3,255.0,Notre Dame,LB,17,0.0,1.0,1.0,Steelers,2022
+27,23.0,Damontae Kazee,6/5/1993,29.0,5-11,174.0,San Diego St.,S,9,4.0,5.0,2.0,Steelers,2022
+28,28.0,Miles Killebrew,5/10/1993,29.0,6-2,222.0,Southern Utah,S,17,0.0,6.0,1.0,Steelers,2022
+29,46.0,Christian Kuntz,4/13/1994,28.0,6-1,228.0,Duquesne,LS,17,0.0,1.0,1.0,Steelers,2022
+30,98.0,DeMarvin Leal,7/1/2000,22.0,6-4,290.0,Texas A&M,DE,11,2.0,0.0,2.0,Steelers,2022
+31,92.0,Isaiahh Loudermilk,10/10/1997,25.0,6-7,293.0,Wisconsin,DT,11,3.0,1.0,2.0,Steelers,2022
+32,35.0,Arthur Maulet,7/13/1993,29.0,5-9,190.0,Memphis,CB,17,6.0,5.0,3.0,Steelers,2022
+33,26.0,Anthony McFarland Jr.,3/4/1998,24.0,5-8,193.0,Maryland,RB,1,0.0,2.0,0.0,Steelers,2022
+34,65.0,Dan Moore,9/28/1998,24.0,6-5,315.0,Texas A&M,LT,17,17.0,1.0,8.0,Steelers,2022
+35,21.0,Tre Norwood,4/19/1999,23.0,6-0,194.0,Oklahoma,DB,15,3.0,1.0,1.0,Steelers,2022
+36,99.0,Larry Ogunjobi,6/3/1994,28.0,6-3,305.0,Charlotte,LDE,16,16.0,5.0,7.0,Steelers,2022
+37,76.0,Chukwuma Okorafor,8/8/1997,25.0,6-6,320.0,Western Michigan,RT,17,17.0,4.0,7.0,Steelers,2022
+38,89.0,Gunner Olszewski,11/26/1996,26.0,6-0,190.0,Bemidji St.,WR,16,2.0,3.0,1.0,Steelers,2022
+39,14.0,George Pickens,3/4/2001,21.0,6-3,200.0,Georgia,WR,17,12.0,0.0,7.0,Steelers,2022
+40,8.0,Kenny Pickett,6/6/1998,24.0,6-3,220.0,Pittsburgh,QB,13,12.0,0.0,7.0,Steelers,2022
+41,42.0,James Pierre,9/16/1996,26.0,6-2,185.0,Florida Atlantic,CB,17,2.0,2.0,2.0,Steelers,2022
+42,50.0,Malik Reed,8/5/1996,26.0,6-2,245.0,Nevada,LB,14,2.0,3.0,2.0,Steelers,2022
+43,37.0,Elijah Riley,6/12/1998,24.0,6-0,205.0,Army,S,4,0.0,2.0,0.0,Steelers,2022
+44,93.0,Mark Robinson,8/14/1999,23.0,5-11,235.0,"Presbyterian,SE Missouri St.,Mississippi",LB,4,2.0,0.0,1.0,Steelers,2022
+45,4.0,Nick Sciba,10/2/1999,23.0,5-9,191.0,Wake Forest,K,1,0.0,0.0,0.0,Steelers,2022
+46,50.0,Delontae Scott,1/21/1997,25.0,6-5,250.0,SMU,DE,2,0.0,1.0,0.0,Steelers,2022
+47,64.0,Trenton Scott,1/25/1994,28.0,6-5,320.0,Grambling St.,G,8,1.0,4.0,1.0,Steelers,2022
+48,82.0,Steven Sims,3/31/1997,25.0,5-10,176.0,Kansas,WR,12,2.0,3.0,1.0,Steelers,2022
+49,24.0,Benny Snell Jr.,2/27/1998,24.0,5-10,224.0,Kentucky,RB,17,0.0,3.0,1.0,Steelers,2022
+50,41.0,Robert Spillane,12/14/1995,27.0,6-1,229.0,Western Michigan,LB,16,5.0,4.0,3.0,Steelers,2022
+51,20.0,Cameron Sutton,2/27/1995,27.0,5-11,180.0,Tennessee,RCB,16,15.0,5.0,5.0,Steelers,2022
+52,10.0,Mitchell Trubisky,8/20/1994,28.0,6-2,220.0,North Carolina,QB,7,5.0,5.0,4.0,Steelers,2022
+53,29.0,Levi Wallace,6/12/1995,27.0,6-0,179.0,Alabama,LCB,15,9.0,4.0,4.0,Steelers,2022
+54,30.0,Jaylen Warren,11/1/1998,24.0,,215.0,"Snow College (UT),Utah St.,Oklahoma St.",RB,16,0.0,0.0,4.0,Steelers,2022
+55,44.0,Derek Watt,11/7/1992,30.0,6-2,234.0,Wisconsin,FB,17,3.0,6.0,0.0,Steelers,2022
+56,90.0,T.J. Watt,10/11/1994,28.0,6-4,252.0,Wisconsin,LOLB,10,10.0,5.0,8.0,Steelers,2022
+57,15.0,Cody White,11/28/1998,24.0,6-3,210.0,Michigan St.,WR,1,1.0,1.0,0.0,Steelers,2022
+58,31.0,Quincy Wilson,8/16/1996,26.0,6-2,193.0,Florida,CB,1,0.0,5.0,0.0,Steelers,2022
+59,25.0,Ahkello Witherspoon,3/21/1995,27.0,6-2,195.0,Colorado,CB,4,4.0,5.0,1.0,Steelers,2022
+60,95.0,Chris Wormley,10/25/1993,29.0,6-5,300.0,Michigan,DE,13,1.0,5.0,2.0,Steelers,2022
+61,79.0,Renell Wren,10/23/1995,27.0,6-5,315.0,Arizona St.,DT,1,0.0,3.0,0.0,Steelers,2022
+62,4.0,Matthew Wright,3/22/1996,26.0,6-0,179.0,Central Florida,K,4,0.0,2.0,1.0,Steelers,2022
+63,,Team Total,,26.1,6-2.0,241.1,,,17,,3.2,,Steelers,2022

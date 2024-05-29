@@ -1,18 +1,18 @@
-,No.,Team,Player,Age,Pos,Games Played,Games Started,Rush TD,Reception TD,Punt Return TD,Kick Return TD,Fumble Return TD,Interception TD,Other TD,All Touchdown Scored,2-Point Conversions Made,Two-Point Conversions Attempted,Defensive Two-Point Conversions,Extra Points Made,Extra Points Allowed,Field Goals Made,Field Goals Attempted,Safeties Scored by Player/Team,Total Points Scored by all Means,Poins per Game,Year
-0,30,Lions,Jamaal Williams,27,RB,17,9,17,0,0,0,0,0,0,17,1,0,0,0,0,0,0,,104,6.1,2022
-1,17,Lions,Michael Badgley,27,K,12,0,0,0,0,0,0,0,0,0,0,0,0,33,33,20,24,,93,7.8,2022
-2,32,Lions,D'Andre Swift,23,RB,14,8,5,3,0,0,0,0,0,8,1,0,0,0,0,0,0,,50,3.6,2022
-3,14,Lions,Amon-Ra St. Brown,23,WR,16,16,0,6,0,0,0,0,0,6,0,0,0,0,0,0,0,,36,2.3,2022
-4,89,Lions,Brock Wright,24,TE,17,10,0,4,0,0,0,0,0,4,0,0,0,0,0,0,0,,24,1.4,2022
-5,84,Lions,Shane Zylstra,26,TE,13,2,0,4,0,0,0,0,0,4,0,0,0,0,0,0,0,,24,1.8,2022
-6,19,Lions,Austin Seibert,26,K,3,0,0,0,0,0,0,0,0,0,0,0,0,12,12,3,5,,21,7.0,2022
-7,88,Lions,T.J. Hockenson,25,TE,7,7,0,3,0,0,0,0,0,3,1,0,0,0,0,0,0,,20,2.9,2022
-8,4,Lions,DJ Chark,26,WR,11,10,0,3,0,0,0,0,0,3,0,0,0,0,0,0,0,,18,1.6,2022
-9,8,Lions,Josh Reynolds,27,WR,14,11,0,3,0,0,0,0,0,3,0,0,0,0,0,0,0,,18,1.3,2022
-10,42,Lions,Justin Jackson,26,RB,16,0,1,1,0,0,0,0,0,2,0,0,0,0,0,0,0,,12,0.8,2022
-11,82,Lions,James Mitchell,23,TE,14,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,,6,0.4,2022
-12,1,Lions,Jeff Okudah,23,CB,15,15,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,,6,0.4,2022
-13,11,Lions,Kalif Raymond,28,WR,17,7,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,,6,0.4,2022
-14,9,Lions,Jameson Williams,21,WR,6,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,,6,1.0,2022
-15,17,Lions,Dominik Eberle,26,K,1,0,0,0,0,0,0,0,0,0,0,0,0,2,4,1,1,,5,5.0,2022
-16,16,Lions,Jared Goff,28,QB,17,17,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,,2,0.1,2022
+,No.,Player,Age,Pos,Games Played,Games Started,Rush TD,Reception TD,Punt Return TD,Kick Return TD,Fumble Return TD,Interception TD,Other TD,All Touchdown Scored,2-Point Conversions Made,Two-Point Conversions Attempted,Defensive Two-Point Conversions,Extra Points Made,Extra Points Allowed,Field Goals Made,Field Goals Attempted,Safeties Scored by Player/Team,Total Points Scored by all Means,Poins per Game,Team,Year
+30,30,Jamaal Williams,27,RB,17,9,17,0,0,0,0,0,0,17,1,0,0,0,0,0,0,0,104,6.1,Lions,2022
+17,17,Michael Badgley,27,K,12,0,0,0,0,0,0,0,0,0,0,0,0,33,33,20,24,0,93,7.8,Lions,2022
+32,32,D'Andre Swift,23,RB,14,8,5,3,0,0,0,0,0,8,1,0,0,0,0,0,0,0,50,3.6,Lions,2022
+14,14,Amon-Ra St. Brown,23,WR,16,16,0,6,0,0,0,0,0,6,0,0,0,0,0,0,0,0,36,2.3,Lions,2022
+89,89,Brock Wright,24,TE,17,10,0,4,0,0,0,0,0,4,0,0,0,0,0,0,0,0,24,1.4,Lions,2022
+84,84,Shane Zylstra,26,TE,13,2,0,4,0,0,0,0,0,4,0,0,0,0,0,0,0,0,24,1.8,Lions,2022
+19,19,Austin Seibert,26,K,3,0,0,0,0,0,0,0,0,0,0,0,0,12,12,3,5,0,21,7.0,Lions,2022
+88,88,T.J. Hockenson,25,TE,7,7,0,3,0,0,0,0,0,3,1,0,0,0,0,0,0,0,20,2.9,Lions,2022
+4,4,DJ Chark,26,WR,11,10,0,3,0,0,0,0,0,3,0,0,0,0,0,0,0,0,18,1.6,Lions,2022
+8,8,Josh Reynolds,27,WR,14,11,0,3,0,0,0,0,0,3,0,0,0,0,0,0,0,0,18,1.3,Lions,2022
+42,42,Justin Jackson,26,RB,16,0,1,1,0,0,0,0,0,2,0,0,0,0,0,0,0,0,12,0.8,Lions,2022
+82,82,James Mitchell,23,TE,14,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,6,0.4,Lions,2022
+1,1,Jeff Okudah,23,RCB,15,15,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,6,0.4,Lions,2022
+11,11,Kalif Raymond,28,WR,17,7,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,6,0.4,Lions,2022
+9,9,Jameson Williams,21,WR,6,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,6,1.0,Lions,2022
+17,17,Dominik Eberle,26,K,1,0,0,0,0,0,0,0,0,0,0,0,0,2,4,1,1,0,5,5.0,Lions,2022
+16,16,Jared Goff,28,QB,17,17,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,2,0.1,Lions,2022

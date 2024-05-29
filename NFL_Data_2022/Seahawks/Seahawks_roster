@@ -1,71 +1,71 @@
-Player,No.,Team,Age,Pos,G,GS,Wt,Ht,College/Univ,BirthDate,Yrs,AV,Drafted (tm/rnd/yr)
-Johnathan Abram,23.0,Seahawks,26.0,FS,5,2.0,205.0,6-0,Mississippi St.,10/25/1996,3,1.0,Oakland Raiders / 1st / 27th pick / 2019
-Jamal Adams,33.0,Seahawks,27.0,SS,1,1.0,213.0,6-1,LSU,10/17/1995,5,0.0,New York Jets / 1st / 6th pick / 2017
-Myles Adams,67.0,Seahawks,24.0,DT,10,0.0,290.0,6-2,Rice,3/9/1998,1,1.0,
-Cody Barton,57.0,Seahawks,26.0,LB,17,11.0,237.0,6-2,Utah,11/13/1996,3,5.0,Seattle Seahawks / 3rd / 88th pick / 2019
-Nick Bellore,44.0,Seahawks,33.0,LB,16,0.0,250.0,6-1,Central Michigan,5/12/1989,11,1.0,
-Joey Blount,35.0,Seahawks,24.0,FS,11,0.0,201.0,6-1,Virginia,11/16/1998,Rook,1.0,
-Austin Blythe,63.0,Seahawks,30.0,G,17,17.0,280.0,6-2,Iowa,6/16/1992,6,8.0,Indianapolis Colts / 7th / 248th pick / 2016
-Jordyn Brooks,56.0,Seahawks,25.0,LB,16,16.0,240.0,6-0,Texas Tech,10/21/1997,2,7.0,Seattle Seahawks / 1st / 27th pick / 2020
-Tre Brown,22.0,Seahawks,25.0,CB,6,0.0,185.0,5-10,Oklahoma,9/24/1997,1,0.0,Seattle Seahawks / 4th / 137th pick / 2021
-Coby Bryant,8.0,Seahawks,23.0,CB,17,6.0,193.0,6-1,Cincinnati,3/29/1999,Rook,2.0,Seattle Seahawks / 4th / 109th pick / 2022
-Artie Burns,21.0,Seahawks,27.0,CB,3,0.0,187.0,6-0,Miami (FL),5/1/1995,6,0.0,Pittsburgh Steelers / 1st / 25th pick / 2016
-Justin Coleman,28.0,Seahawks,29.0,CB,12,0.0,190.0,5-11,Tennessee,3/27/1993,7,1.0,
-L.J. Collier,91.0,Seahawks,27.0,DE,8,0.0,291.0,6-2,TCU,9/12/1995,3,1.0,Seattle Seahawks / 1st / 29th pick / 2019
-Xavier Crawford,37.0,Seahawks,27.0,CB,6,0.0,185.0,5-11,Central Michigan,12/10/1995,3,0.0,Houston Texans / 6th / 195th pick / 2019
-Charles Cross,67.0,Seahawks,22.0,T,17,17.0,311.0,6-5,Mississippi St.,11/25/2000,Rook,9.0,Seattle Seahawks / 1st / 9th pick / 2022
-Jake Curhan,74.0,Seahawks,24.0,T,4,0.0,316.0,6-6,California,2/9/1998,1,0.0,
-DeeJay Dallas,31.0,Seahawks,24.0,RB,15,0.0,214.0,5-10,Miami (FL),9/16/1998,2,2.0,Seattle Seahawks / 4th / 144th pick / 2020
-Michael Dickson,4.0,Seahawks,26.0,P,17,0.0,208.0,6-2,Texas,1/4/1996,4,3.0,Seattle Seahawks / 5th / 149th pick / 2018
-Quandre Diggs,6.0,Seahawks,29.0,FS,17,17.0,197.0,5-9,Texas,1/22/1993,7,8.0,Detroit Lions / 6th / 200th pick / 2015
-Will Dissly,89.0,Seahawks,26.0,TE,15,15.0,265.0,6-4,Washington,7/8/1996,4,3.0,Seattle Seahawks / 4th / 120th pick / 2018
-Isaiah Dunn,24.0,Seahawks,23.0,CB,5,0.0,193.0,6-0,Oregon St.,1/31/1999,1,0.0,
-D'Wayne Eskridge,1.0,Seahawks,25.0,WR,10,0.0,190.0,5-9,Western Michigan,3/23/1997,1,1.0,Seattle Seahawks / 2nd / 56th pick / 2021
-Noah Fant,87.0,Seahawks,25.0,TE,17,16.0,249.0,6-4,Iowa,11/20/1997,3,4.0,Denver Broncos / 1st / 20th pick / 2019
-Poona Ford,97.0,Seahawks,27.0,DT,17,16.0,310.0,5-11,Texas,11/19/1995,4,7.0,
-Stone Forsythe,78.0,Seahawks,25.0,T,17,1.0,307.0,6-8,Florida,12/29/1997,1,2.0,Seattle Seahawks / 6th / 208th pick / 2021
-Kyle Fuller,61.0,Seahawks,28.0,OL,17,0.0,320.0,6-5,Baylor,3/4/1994,5,1.0,Houston Texans / 7th / 243rd pick / 2017
-Cullen Gillaspia,41.0,Seahawks,27.0,LB,6,0.0,235.0,6-2,Texas A&M,5/12/1995,3,0.0,Houston Texans / 7th / 220th pick / 2019
-Marquise Goodwin,11.0,Seahawks,32.0,WR,13,2.0,185.0,5-9,Texas,11/19/1990,9,4.0,Buffalo Bills / 3rd / 78th pick / 2013
-Shelby Harris,93.0,Seahawks,31.0,DE,15,15.0,288.0,6-2,Illinois St.,8/11/1991,8,6.0,Oakland Raiders / 7th / 235th pick / 2014
-Penny Hart,19.0,Seahawks,26.0,WR,9,0.0,180.0,5-8,Georgia St.,7/5/1996,2,0.0,
-Phil Haynes,60.0,Seahawks,27.0,G,15,3.0,322.0,6-4,Wake Forest,10/19/1995,3,2.0,Seattle Seahawks / 4th / 124th pick / 2019
-Travis Homer,25.0,Seahawks,24.0,RB,10,1.0,202.0,5-10,Miami (FL),8/7/1998,3,2.0,Seattle Seahawks / 6th / 204th pick / 2019
-Godwin Igwebuike,34.0,Seahawks,28.0,RB,5,0.0,213.0,6-0,Northwestern,9/10/1994,4,0.0,
-Bruce Irvin,51.0,Seahawks,35.0,LB,11,10.0,250.0,6-3,"Butler (KS),West Virginia",11/1/1987,10,4.0,Seattle Seahawks / 1st / 15th pick / 2012
-Gabe Jackson,66.0,Seahawks,31.0,G,15,15.0,335.0,6-3,Mississippi St.,7/12/1991,8,7.0,Oakland Raiders / 3rd / 81st pick / 2014
-Michael Jackson,30.0,Seahawks,25.0,CB,17,17.0,210.0,6-1,Miami (FL),1/10/1997,3,6.0,Dallas Cowboys / 5th / 158th pick / 2019
-Quinton Jefferson,77.0,Seahawks,29.0,DE,17,3.0,291.0,6-4,Maryland,3/31/1993,6,2.0,Seattle Seahawks / 5th / 147th pick / 2016
-Alexander Johnson,34.0,Seahawks,31.0,LB,1,0.0,255.0,6-2,Tennessee,12/24/1991,4,0.0,
-Cade Johnson,88.0,Seahawks,24.0,WR,3,0.0,184.0,5-10,South Dakota St.,4/10/1998,Rook,0.0,
-Darryl Johnson,40.0,Seahawks,25.0,LB,4,1.0,250.0,6-6,North Carolina A&T,4/4/1997,3,1.0,Buffalo Bills / 7th / 225th pick / 2019
-Christian Jones,48.0,Seahawks,31.0,LB,3,0.0,245.0,6-3,Florida St.,2/18/1991,8,0.0,
-Josh Jones,13.0,Seahawks,28.0,S,12,3.0,220.0,6-2,North Carolina St.,9/20/1994,5,2.0,Green Bay Packers / 2nd / 61st pick / 2017
-Sidney Jones,23.0,Seahawks,26.0,CB,3,0.0,181.0,6-0,Washington,5/21/1996,5,0.0,Philadelphia Eagles / 2nd / 43rd pick / 2017
-Tony Jones,32.0,Seahawks,25.0,RB,4,0.0,224.0,5-11,Notre Dame,11/24/1997,2,0.0,
-Vi Jones,50.0,Seahawks,24.0,LB,3,0.0,225.0,6-2,"USC,North Carolina St.",5/5/1998,Rook,0.0,
-Damien Lewis,68.0,Seahawks,25.0,G,16,16.0,327.0,6-2,LSU,3/21/1997,2,7.0,Seattle Seahawks / 3rd / 69th pick / 2020
-Tyler Lockett,16.0,Seahawks,30.0,WR,16,16.0,182.0,5-10,Kansas St.,9/28/1992,7,9.0,Seattle Seahawks / 3rd / 69th pick / 2015
-Abraham Lucas,72.0,Seahawks,24.0,T,16,16.0,322.0,6-6,Washington St.,10/25/1998,Rook,9.0,Seattle Seahawks / 3rd / 72nd pick / 2022
-Tyler Mabry,85.0,Seahawks,26.0,TE,2,0.0,247.0,6-3,"Buffalo,Maryland",11/21/1996,1,0.0,
-Boye Mafe,53.0,Seahawks,24.0,LB,17,3.0,261.0,6-4,Minnesota,11/30/1998,Rook,2.0,Seattle Seahawks / 2nd / 40th pick / 2022
-D.K. Metcalf,14.0,Seahawks,25.0,WR,17,17.0,235.0,6-4,Mississippi,12/14/1997,3,10.0,Seattle Seahawks / 2nd / 64th pick / 2019
-Bryan Mone,90.0,Seahawks,27.0,DT,13,3.0,345.0,6-3,Michigan,10/20/1995,3,2.0,
-Tanner Muse,58.0,Seahawks,26.0,LB,17,1.0,227.0,6-2,Clemson,9/6/1996,1,1.0,Las Vegas Raiders / 3rd / 100th pick / 2020
-Jason Myers,5.0,Seahawks,31.0,K,17,0.0,190.0,5-10,Marist,5/12/1991,7,4.0,
-Ryan Neal,26.0,Seahawks,27.0,SS,14,10.0,200.0,6-3,Southern Illinois,12/24/1995,4,3.0,
-Uchenna Nwosu,10.0,Seahawks,26.0,LB,17,17.0,251.0,6-2,USC,12/28/1996,4,8.0,Los Angeles Chargers / 2nd / 48th pick / 2018
-Josh Onujiogu,49.0,Seahawks,24.0,LB,1,0.0,252.0,6-2,Framingham St.,3/3/1998,Rook,0.0,
-Colby Parkinson,84.0,Seahawks,23.0,TE,17,2.0,251.0,6-7,Stanford,1/8/1999,2,3.0,Seattle Seahawks / 4th / 133rd pick / 2020
-Rashaad Penny,20.0,Seahawks,26.0,RB,5,5.0,220.0,5-11,San Diego St.,2/2/1996,4,2.0,Seattle Seahawks / 1st / 27th pick / 2018
-Jon Rhattigan,59.0,Seahawks,23.0,LB,5,0.0,236.0,6-0,Army,2/2/1999,1,0.0,
-Geno Smith,7.0,Seahawks,32.0,QB,17,17.0,221.0,6-3,West Virginia,10/10/1990,9,15.0,New York Jets / 2nd / 39th pick / 2013
-Teez Tabor,39.0,Seahawks,27.0,SS,10,1.0,201.0,6-0,Florida,12/31/1995,5,1.0,Detroit Lions / 2nd / 53rd pick / 2017
-Darrell Taylor,52.0,Seahawks,25.0,LB,16,3.0,267.0,6-4,Tennessee,3/24/1997,1,3.0,Seattle Seahawks / 2nd / 48th pick / 2020
-Carson Tinker,46.0,Seahawks,33.0,LS,17,0.0,233.0,6-0,Alabama,11/15/1989,9,1.0,
-Laquon Treadwell,18.0,Seahawks,27.0,WR,6,0.0,215.0,6-2,Mississippi,6/14/1995,6,0.0,Minnesota Vikings / 1st / 23rd pick / 2016
-Kenneth Walker III,9.0,Seahawks,22.0,RB,15,11.0,211.0,5-9,"Wake Forest,Michigan St.",10/20/2000,Rook,8.0,Seattle Seahawks / 2nd / 41st pick / 2022
-Al Woods,99.0,Seahawks,35.0,DT,14,14.0,309.0,6-4,LSU,3/25/1987,12,6.0,New Orleans Saints / 4th / 123rd pick / 2010
-Riq Woolen,27.0,Seahawks,23.0,CB,17,17.0,210.0,6-4,Texas-San Antonio,5/2/1999,Rook,10.0,Seattle Seahawks / 5th / 153rd pick / 2022
-Dareke Young,83.0,Seahawks,23.0,WR,13,0.0,224.0,6-2,Lenoir-Rhyne,6/4/1999,Rook,0.0,Seattle Seahawks / 7th / 233rd pick / 2022
-Team Total,,Seahawks,26.7,,17,,240.0,6-1.5,,,3.6,,
+,No.,Player,BirthDate,Age,Height,Weight,College/University,Position,Games_Played_in_Season,Games_Started_in_Season,NFL_Years,Player_Value,Team,Year
+0,23.0,Johnathan Abram,10/25/1996,26.0,6-0,205.0,Mississippi St.,S,5,2.0,3.0,1.0,Seahawks,2022
+1,33.0,Jamal Adams,10/17/1995,27.0,6-1,213.0,LSU,S,1,1.0,5.0,0.0,Seahawks,2022
+2,67.0,Myles Adams,3/9/1998,24.0,6-2,290.0,Rice,DT,10,0.0,1.0,1.0,Seahawks,2022
+3,57.0,Cody Barton,11/13/1996,26.0,6-2,237.0,Utah,RILB,17,11.0,3.0,5.0,Seahawks,2022
+4,44.0,Nick Bellore,5/12/1989,33.0,6-1,250.0,Central Michigan,LB,16,0.0,11.0,1.0,Seahawks,2022
+5,35.0,Joey Blount,11/16/1998,24.0,6-1,201.0,Virginia,S,11,0.0,0.0,1.0,Seahawks,2022
+6,63.0,Austin Blythe,6/16/1992,30.0,6-2,280.0,Iowa,C,17,17.0,6.0,8.0,Seahawks,2022
+7,56.0,Jordyn Brooks,10/21/1997,25.0,6-0,240.0,Texas Tech,LILB,16,16.0,2.0,7.0,Seahawks,2022
+8,22.0,Tre Brown,9/24/1997,25.0,5-10,185.0,Oklahoma,DB,6,0.0,1.0,0.0,Seahawks,2022
+9,8.0,Coby Bryant,3/29/1999,23.0,6-1,193.0,Cincinnati,DB,17,6.0,0.0,2.0,Seahawks,2022
+10,21.0,Artie Burns,5/1/1995,27.0,6-0,187.0,Miami (FL),CB,3,0.0,6.0,0.0,Seahawks,2022
+11,28.0,Justin Coleman,3/27/1993,29.0,5-11,190.0,Tennessee,DB,12,0.0,7.0,1.0,Seahawks,2022
+12,91.0,L.J. Collier,9/12/1995,27.0,6-2,291.0,TCU,DE,8,0.0,3.0,1.0,Seahawks,2022
+13,37.0,Xavier Crawford,12/10/1995,27.0,5-11,185.0,Central Michigan,DB,6,0.0,3.0,0.0,Seahawks,2022
+14,67.0,Charles Cross,11/25/2000,22.0,6-5,311.0,Mississippi St.,LT,17,17.0,0.0,9.0,Seahawks,2022
+15,74.0,Jake Curhan,7/9/1998,24.0,6-6,316.0,California,T,4,0.0,1.0,0.0,Seahawks,2022
+16,31.0,DeeJay Dallas,9/16/1998,24.0,5-10,214.0,Miami (FL),RB,15,0.0,2.0,2.0,Seahawks,2022
+17,4.0,Michael Dickson,1/4/1996,26.0,6-2,208.0,Texas,P,17,0.0,4.0,3.0,Seahawks,2022
+18,6.0,Quandre Diggs,1/22/1993,29.0,5-9,197.0,Texas,FS,17,17.0,7.0,8.0,Seahawks,2022
+19,89.0,Will Dissly,7/8/1996,26.0,6-4,265.0,Washington,TE,15,15.0,4.0,3.0,Seahawks,2022
+20,24.0,Isaiah Dunn,1/31/1999,23.0,6-0,193.0,Oregon St.,DB,5,0.0,1.0,0.0,Seahawks,2022
+21,1.0,D'Wayne Eskridge,3/23/1997,25.0,5-9,190.0,Western Michigan,WR,10,0.0,1.0,1.0,Seahawks,2022
+22,87.0,Noah Fant,11/20/1997,25.0,6-4,249.0,Iowa,TE,17,16.0,3.0,4.0,Seahawks,2022
+23,97.0,Poona Ford,11/19/1995,27.0,5-11,310.0,Texas,RDE,17,16.0,4.0,7.0,Seahawks,2022
+24,78.0,Stone Forsythe,12/29/1997,25.0,6-8,307.0,Florida,T,17,1.0,1.0,2.0,Seahawks,2022
+25,61.0,Kyle Fuller,3/4/1994,28.0,6-5,320.0,Baylor,C,17,0.0,5.0,1.0,Seahawks,2022
+26,41.0,Cullen Gillaspia,5/12/1995,27.0,6-2,235.0,Texas A&M,RB,6,0.0,3.0,0.0,Seahawks,2022
+27,11.0,Marquise Goodwin,11/19/1990,32.0,5-9,185.0,Texas,WR,13,2.0,9.0,4.0,Seahawks,2022
+28,93.0,Shelby Harris,8/11/1991,31.0,6-2,288.0,Illinois St.,LDE,15,15.0,8.0,6.0,Seahawks,2022
+29,19.0,Penny Hart,7/5/1996,26.0,5-8,180.0,Georgia St.,WR,9,0.0,2.0,0.0,Seahawks,2022
+30,60.0,Phil Haynes,10/19/1995,27.0,6-4,322.0,Wake Forest,G,15,3.0,3.0,2.0,Seahawks,2022
+31,25.0,Travis Homer,8/7/1998,24.0,5-10,202.0,Miami (FL),RB,10,1.0,3.0,2.0,Seahawks,2022
+32,34.0,Godwin Igwebuike,9/10/1994,28.0,6-0,213.0,Northwestern,RB,5,0.0,4.0,0.0,Seahawks,2022
+33,51.0,Bruce Irvin,11/1/1987,35.0,6-3,250.0,"Butler (KS),West Virginia",ROLB,11,10.0,10.0,4.0,Seahawks,2022
+34,66.0,Gabe Jackson,7/12/1991,31.0,6-3,335.0,Mississippi St.,RG,15,15.0,8.0,7.0,Seahawks,2022
+35,30.0,Michael Jackson,1/10/1997,25.0,6-1,210.0,Miami (FL),LCB,17,17.0,3.0,6.0,Seahawks,2022
+36,77.0,Quinton Jefferson,3/31/1993,29.0,6-4,291.0,Maryland,DT,17,3.0,6.0,2.0,Seahawks,2022
+37,34.0,Alexander Johnson,12/24/1991,31.0,6-2,255.0,Tennessee,LB,1,0.0,4.0,0.0,Seahawks,2022
+38,88.0,Cade Johnson,4/10/1998,24.0,5-10,184.0,South Dakota St.,WR,3,0.0,0.0,0.0,Seahawks,2022
+39,40.0,Darryl Johnson,4/4/1997,25.0,6-6,250.0,North Carolina A&T,DE,4,1.0,3.0,1.0,Seahawks,2022
+40,48.0,Christian Jones,2/18/1991,31.0,6-3,245.0,Florida St.,LB,3,0.0,8.0,0.0,Seahawks,2022
+41,13.0,Josh Jones,9/20/1994,28.0,6-2,220.0,North Carolina St.,S,12,3.0,5.0,2.0,Seahawks,2022
+42,23.0,Sidney Jones,5/21/1996,26.0,6-0,181.0,Washington,CB,3,0.0,5.0,0.0,Seahawks,2022
+43,32.0,Tony Jones,11/24/1997,25.0,5-11,224.0,Notre Dame,RB,4,0.0,2.0,0.0,Seahawks,2022
+44,50.0,Vi Jones,5/5/1998,24.0,6-2,225.0,"USC,North Carolina St.",LB,3,0.0,0.0,0.0,Seahawks,2022
+45,68.0,Damien Lewis,3/21/1997,25.0,6-2,327.0,LSU,LG,16,16.0,2.0,7.0,Seahawks,2022
+46,16.0,Tyler Lockett,9/28/1992,30.0,5-10,182.0,Kansas St.,WR,16,16.0,7.0,9.0,Seahawks,2022
+47,72.0,Abraham Lucas,10/25/1998,24.0,6-6,322.0,Washington St.,RT,16,16.0,0.0,9.0,Seahawks,2022
+48,85.0,Tyler Mabry,11/21/1996,26.0,6-3,247.0,"Buffalo,Maryland",TE,2,0.0,1.0,0.0,Seahawks,2022
+49,53.0,Boye Mafe,11/30/1998,24.0,6-4,261.0,Minnesota,LB,17,3.0,0.0,2.0,Seahawks,2022
+50,14.0,D.K. Metcalf,12/14/1997,25.0,6-4,235.0,Mississippi,WR,17,17.0,3.0,10.0,Seahawks,2022
+51,90.0,Bryan Mone,10/20/1995,27.0,6-3,345.0,Michigan,DT,13,3.0,3.0,2.0,Seahawks,2022
+52,58.0,Tanner Muse,9/6/1996,26.0,6-2,227.0,Clemson,LB,17,1.0,1.0,1.0,Seahawks,2022
+53,5.0,Jason Myers,5/12/1991,31.0,5-10,190.0,Marist,K,17,0.0,7.0,4.0,Seahawks,2022
+54,26.0,Ryan Neal,12/24/1995,27.0,6-3,200.0,Southern Illinois,SS,14,10.0,4.0,3.0,Seahawks,2022
+55,10.0,Uchenna Nwosu,12/28/1996,26.0,6-2,251.0,USC,LOLB,17,17.0,4.0,8.0,Seahawks,2022
+56,49.0,Josh Onujiogu,3/3/1998,24.0,6-2,252.0,Framingham St.,LB,1,0.0,0.0,0.0,Seahawks,2022
+57,84.0,Colby Parkinson,1/8/1999,23.0,6-7,251.0,Stanford,TE,17,2.0,2.0,3.0,Seahawks,2022
+58,20.0,Rashaad Penny,2/2/1996,26.0,5-11,220.0,San Diego St.,RB,5,5.0,4.0,2.0,Seahawks,2022
+59,59.0,Jon Rhattigan,2/2/1999,23.0,6-0,236.0,Army,LB,5,0.0,1.0,0.0,Seahawks,2022
+60,7.0,Geno Smith,10/10/1990,32.0,6-3,221.0,West Virginia,QB,17,17.0,9.0,15.0,Seahawks,2022
+61,39.0,Teez Tabor,12/31/1995,27.0,6-0,201.0,Florida,S,10,1.0,5.0,1.0,Seahawks,2022
+62,52.0,Darrell Taylor,3/24/1997,25.0,6-4,267.0,Tennessee,LB,16,3.0,1.0,3.0,Seahawks,2022
+63,46.0,Carson Tinker,11/15/1989,33.0,6-0,233.0,Alabama,LS,17,0.0,9.0,1.0,Seahawks,2022
+64,18.0,Laquon Treadwell,6/14/1995,27.0,6-2,215.0,Mississippi,WR,6,0.0,6.0,0.0,Seahawks,2022
+65,9.0,Kenneth Walker III,10/20/2000,22.0,5-9,211.0,"Wake Forest,Michigan St.",RB,15,11.0,0.0,8.0,Seahawks,2022
+66,99.0,Al Woods,3/25/1987,35.0,6-4,309.0,LSU,NT,14,14.0,12.0,6.0,Seahawks,2022
+67,27.0,Riq Woolen,5/2/1999,23.0,6-4,210.0,Texas-San Antonio,CB,17,17.0,0.0,10.0,Seahawks,2022
+68,83.0,Dareke Young,6/4/1999,23.0,6-2,224.0,Lenoir-Rhyne,WR,13,0.0,0.0,0.0,Seahawks,2022
+69,,Team Total,,26.7,6-1.5,240.0,,,17,,3.6,,Seahawks,2022

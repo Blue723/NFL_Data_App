@@ -1,37 +1,37 @@
-,Rank,Team,Date,Opponent,Win/Loss,Score,Quarter,Distance,Type,Detail,Year
-0,1,Saints,09/11/2022,ATL,Win, 27-26,2,5.0,rush,Cordarrelle Patterson,2022
-1,2,Saints,09/11/2022,ATL,Win, 27-26,3,2.0,rush,Marcus Mariota,2022
-2,3,Saints,09/18/2022,TAM,Loss, 10-20,4,28.0,pass,Breshad Perriman,2022
-3,4,Saints,09/18/2022,TAM,Loss, 10-20,4,68.0,interception,Mike Edwards,2022
-4,5,Saints,09/25/2022,CAR,Loss, 14-22,1,44.0,fumble,Marquis Haynes,2022
-5,6,Saints,09/25/2022,CAR,Loss, 14-22,4,67.0,pass,Laviska Shenault Jr.,2022
-6,7,Saints,10/02/2022,MIN,Loss, 25-28,1,15.0,pass,Alexander Mattison,2022
-7,8,Saints,10/02/2022,MIN,Loss, 25-28,4,3.0,rush,Justin Jefferson,2022
-8,9,Saints,10/09/2022,SEA,Win, 39-32,1,50.0,pass,D.K. Metcalf,2022
-9,10,Saints,10/09/2022,SEA,Win, 39-32,2,35.0,pass,Tyler Lockett,2022
-10,11,Saints,10/09/2022,SEA,Win, 39-32,4,40.0,pass,Tyler Lockett,2022
-11,12,Saints,10/09/2022,SEA,Win, 39-32,4,69.0,rush,Kenneth Walker III,2022
-12,13,Saints,10/16/2022,CIN,Loss, 26-30,1,9.0,pass,Joe Mixon,2022
-13,14,Saints,10/16/2022,CIN,Loss, 26-30,2,19.0,rush,Joe Burrow,2022
-14,15,Saints,10/16/2022,CIN,Loss, 26-30,3,15.0,pass,Ja'Marr Chase,2022
-15,16,Saints,10/16/2022,CIN,Loss, 26-30,4,60.0,pass,Ja'Marr Chase,2022
-16,17,Saints,10/20/2022,ARI,Loss, 34-42,2,2.0,rush,Keaontay Ingram,2022
-17,18,Saints,10/20/2022,ARI,Loss, 34-42,2,38.0,interception,Marco Wilson,2022
-18,19,Saints,10/20/2022,ARI,Loss, 34-42,2,56.0,interception,Isaiah Simmons,2022
-19,20,Saints,10/20/2022,ARI,Loss, 34-42,3,5.0,pass,Greg Dortch,2022
-20,21,Saints,10/20/2022,ARI,Loss, 34-42,4,5.0,rush,Eno Benjamin,2022
-21,22,Saints,11/07/2022,BAL,Loss, 13-27,1,24.0,pass,Isaiah Likely,2022
-22,23,Saints,11/07/2022,BAL,Loss, 13-27,2,1.0,rush,Kenyan Drake,2022
-23,24,Saints,11/07/2022,BAL,Loss, 13-27,4,3.0,rush,Kenyan Drake,2022
-24,25,Saints,11/13/2022,PIT,Loss, 10-20,1,1.0,rush,George Pickens,2022
-25,26,Saints,11/13/2022,PIT,Loss, 10-20,4,1.0,rush,Kenny Pickett,2022
-26,27,Saints,11/20/2022,LAR,Win, 27-20,1,62.0,pass,Tutu Atwell,2022
-27,28,Saints,11/20/2022,LAR,Win, 27-20,2,6.0,pass,Allen Robinson,2022
-28,29,Saints,11/27/2022,SFO,Loss, 0-13,2,5.0,pass,Jauan Jennings,2022
-29,30,Saints,12/05/2022,TAM,Loss, 16-17,4,1.0,pass,Cade Otton,2022
-30,31,Saints,12/05/2022,TAM,Loss, 16-17,4,6.0,pass,Rachaad White,2022
-31,32,Saints,12/18/2022,ATL,Win, 21-18,3,5.0,rush,Tyler Allgeier,2022
-32,33,Saints,12/18/2022,ATL,Win, 21-18,4,3.0,rush,Cordarrelle Patterson,2022
-33,34,Saints,12/24/2022,CLE,Win, 17-10,2,12.0,rush,Deshaun Watson,2022
-34,35,Saints,01/01/2023,PHI,Win, 20-10,3,78.0,pass,A.J. Brown,2022
-35,36,Saints,01/08/2023,CAR,Loss, 7-10,3,,fumble,Michael Jordan,2022
+,Rank,Team,Date,Opponent,Win/Loss,Home_Score,Opponenet_Score,Quarter,Distance,Type,Detail
+1,1,Saints,2022-09-11,ATL,Win,27,26,2,5,rush,Cordarrelle Patterson
+2,2,Saints,2022-09-11,ATL,Win,27,26,3,2,rush,Marcus Mariota
+3,3,Saints,2022-09-18,TAM,Loss,10,20,4,28,pass,Breshad Perriman
+4,4,Saints,2022-09-18,TAM,Loss,10,20,4,68,interception,Mike Edwards
+5,5,Saints,2022-09-25,CAR,Loss,14,22,1,44,fumble,Marquis Haynes
+6,6,Saints,2022-09-25,CAR,Loss,14,22,4,67,pass,Laviska Shenault Jr.
+7,7,Saints,2022-10-02,MIN,Loss,25,28,1,15,pass,Alexander Mattison
+8,8,Saints,2022-10-02,MIN,Loss,25,28,4,3,rush,Justin Jefferson
+9,9,Saints,2022-10-09,SEA,Win,39,32,1,50,pass,D.K. Metcalf
+10,10,Saints,2022-10-09,SEA,Win,39,32,2,35,pass,Tyler Lockett
+11,11,Saints,2022-10-09,SEA,Win,39,32,4,40,pass,Tyler Lockett
+12,12,Saints,2022-10-09,SEA,Win,39,32,4,69,rush,Kenneth Walker III
+13,13,Saints,2022-10-16,CIN,Loss,26,30,1,9,pass,Joe Mixon
+14,14,Saints,2022-10-16,CIN,Loss,26,30,2,19,rush,Joe Burrow
+15,15,Saints,2022-10-16,CIN,Loss,26,30,3,15,pass,Ja'Marr Chase
+16,16,Saints,2022-10-16,CIN,Loss,26,30,4,60,pass,Ja'Marr Chase
+17,17,Saints,2022-10-20,ARI,Loss,34,42,2,2,rush,Keaontay Ingram
+18,18,Saints,2022-10-20,ARI,Loss,34,42,2,38,interception,Marco Wilson
+19,19,Saints,2022-10-20,ARI,Loss,34,42,2,56,interception,Isaiah Simmons
+20,20,Saints,2022-10-20,ARI,Loss,34,42,3,5,pass,Greg Dortch
+21,21,Saints,2022-10-20,ARI,Loss,34,42,4,5,rush,Eno Benjamin
+22,22,Saints,2022-11-07,BAL,Loss,13,27,1,24,pass,Isaiah Likely
+23,23,Saints,2022-11-07,BAL,Loss,13,27,2,1,rush,Kenyan Drake
+24,24,Saints,2022-11-07,BAL,Loss,13,27,4,3,rush,Kenyan Drake
+25,25,Saints,2022-11-13,PIT,Loss,10,20,1,1,rush,George Pickens
+26,26,Saints,2022-11-13,PIT,Loss,10,20,4,1,rush,Kenny Pickett
+27,27,Saints,2022-11-20,LAR,Win,27,20,1,62,pass,Tutu Atwell
+28,28,Saints,2022-11-20,LAR,Win,27,20,2,6,pass,Allen Robinson
+29,29,Saints,2022-11-27,SFO,Loss,0,13,2,5,pass,Jauan Jennings
+30,30,Saints,2022-12-05,TAM,Loss,16,17,4,1,pass,Cade Otton
+31,31,Saints,2022-12-05,TAM,Loss,16,17,4,6,pass,Rachaad White
+32,32,Saints,2022-12-18,ATL,Win,21,18,3,5,rush,Tyler Allgeier
+33,33,Saints,2022-12-18,ATL,Win,21,18,4,3,rush,Cordarrelle Patterson
+34,34,Saints,2022-12-24,CLE,Win,17,10,2,12,rush,Deshaun Watson
+35,35,Saints,2023-01-01,PHI,Win,20,10,3,78,pass,A.J. Brown
+36,36,Saints,2023-01-08,CAR,Loss,7,10,3,0,fumble,Michael Jordan

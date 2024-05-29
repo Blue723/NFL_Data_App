@@ -1,5 +1,5 @@
-,Player,Team,3rd Down Attempts in Game,3rd Down Conversions,3rd Down Conversion Per.,4th Down Attempts in Game,4th Down Conversions in Game,4th Down Conversion Per.,Red Zone Attempts,Touchdowns Scored After the Team Entered the Red Zone,Per. of the Time a Team Reaches the Red Zone and Scores a Touchdown,Year
-0,Team Stats,Patriots,215.0,75.0,34.9,13.0,5.0,38.5,45.0,19.0,42.2,2022.0
-1,Opp. Stats,Patriots,241.0,97.0,40.2,27.0,10.0,37.0,50.0,29.0,58.0,2022.0
-2,Lg Rank Offense,Patriots,,,27.0,,,29.0,,,32.0,2022.0
-3,Lg Rank Defense,Patriots,,,21.0,,,2.0,,,22.0,2022.0
+,Player,3rd Down Attempts in Game,3rd Down Conversions,3rd Down Conversion Per.,4th Down Attempts in Game,4th Down Conversions in Game,4th Down Conversion Per.,Red Zone Attempts,Touchdowns Scored After the Team Entered the Red Zone,Per. of the Time a Team Reaches the Red Zone and Scores a Touchdown,Team,Year
+Team Stats,Team Stats,215.0,75.0,34.9,13.0,5.0,38.5,45.0,19.0,42.2,Patriots,2022
+Opp. Stats,Opp. Stats,241.0,97.0,40.2,27.0,10.0,37.0,50.0,29.0,58.0,Patriots,2022
+Lg Rank Offense,Lg Rank Offense,0.0,0.0,27.0,0.0,0.0,29.0,0.0,0.0,32,Patriots,2022
+Lg Rank Defense,Lg Rank Defense,0.0,0.0,21.0,0.0,0.0,2.0,0.0,0.0,22,Patriots,2022

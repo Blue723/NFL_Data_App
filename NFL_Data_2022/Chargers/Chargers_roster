@@ -1,72 +1,72 @@
-Player,No.,Team,Age,Pos,G,GS,Wt,Ht,College/Univ,BirthDate,Yrs,AV,Drafted (tm/rnd/yr)
-Nasir Adderley,24.0,Chargers,25.0,S,16,15.0,206.0,6-0,Delaware,5/31/1997,3,5.0,Los Angeles Chargers / 2nd / 60th pick / 2019
-Keenan Allen,13.0,Chargers,30.0,WR,10,10.0,211.0,6-2,California,4/27/1992,9,6.0,San Diego Chargers / 3rd / 76th pick / 2013
-Jeremiah Attaochu,45.0,Chargers,29.0,OLB,2,0.0,262.0,6-3,Georgia Tech,1/17/1993,8,0.0,San Diego Chargers / 2nd / 50th pick / 2014
-Zack Bailey,78.0,Chargers,27.0,T,1,0.0,300.0,6-5,South Carolina,11/8/1995,Rook,0.0,
-Michael Bandy,83.0,Chargers,25.0,WR,10,2.0,190.0,5-10,San Diego,12/5/1997,1,1.0,
-Taylor Bertolet,12.0,Chargers,30.0,K,2,0.0,188.0,5-9,Texas A&M,10/24/1992,Rook,0.0,
-Joey Bosa,97.0,Chargers,27.0,OLB,5,4.0,280.0,6-5,Ohio St.,7/11/1995,6,2.0,San Diego Chargers / 1st / 3rd pick / 2016
-Bryce Callahan,23.0,Chargers,31.0,CB,15,11.0,188.0,5-9,Rice,10/23/1991,7,4.0,
-DeAndre Carter,1.0,Chargers,29.0,WR,17,7.0,190.0,5-8,Sacramento St.,4/10/1993,4,4.0,
-Will Clapp,76.0,Chargers,27.0,OL,17,3.0,311.0,6-5,LSU,12/10/1995,4,3.0,New Orleans Saints / 7th / 245th pick / 2018
-Christian Covington,95.0,Chargers,29.0,DL,4,0.0,289.0,6-2,Rice,10/16/1993,7,0.0,Houston Texans / 6th / 216th pick / 2015
-Chase Daniel,4.0,Chargers,36.0,QB,4,0.0,218.0,6-0,Missouri,10/7/1986,12,0.0,
-Michael Davis,43.0,Chargers,27.0,CB,17,12.0,196.0,6-2,BYU,1/6/1995,5,4.0,
-Tyeler Davison,90.0,Chargers,30.0,DL,6,0.0,309.0,6-2,Fresno St.,9/3/1992,7,0.0,New Orleans Saints / 5th / 154th pick / 2015
-Cameron Dicker,15.0,Chargers,22.0,K,10,0.0,216.0,,Texas,5/6/2000,Rook,3.0,
-Austin Ekeler,30.0,Chargers,27.0,RB,17,17.0,200.0,5-10,Western St. (CO),5/17/1995,5,11.0,
-Gerald Everett,7.0,Chargers,28.0,TE,16,11.0,250.0,6-3,South Alabama,6/25/1994,5,5.0,Los Angeles Rams / 2nd / 44th pick / 2017
-Breiden Fehoko,96.0,Chargers,26.0,DL,9,3.0,300.0,6-3,"Texas Tech,LSU",10/15/1996,2,2.0,
-Matt Feiler,71.0,Chargers,30.0,G,17,17.0,330.0,6-6,Bloomsburg,7/7/1992,5,8.0,
-Morgan Fox,56.0,Chargers,28.0,DL,17,12.0,275.0,6-3,Colorado State-Pueblo,9/12/1994,6,6.0,
-Joe Gaziano,92.0,Chargers,26.0,DL,5,0.0,280.0,6-4,Northwestern,9/27/1996,2,0.0,
-Alohi Gilman,32.0,Chargers,25.0,S,17,5.0,201.0,5-10,"Navy,Notre Dame",9/17/1997,2,3.0,Los Angeles Chargers / 6th / 186th pick / 2020
-Jalen Guyton,15.0,Chargers,25.0,WR,3,0.0,212.0,6-1,North Texas,6/7/1997,3,1.0,
-Kemon Hall,37.0,Chargers,25.0,CB,2,0.0,190.0,5-11,North Texas,6/2/1997,1,0.0,
-Josh Harris,47.0,Chargers,33.0,LS,17,0.0,224.0,6-1,Auburn,4/27/1989,10,1.0,
-Justin Herbert,10.0,Chargers,24.0,QB,17,17.0,236.0,6-6,Oregon,3/10/1998,2,14.0,Los Angeles Chargers / 1st / 6th pick / 2020
-Christopher Hinton,91.0,Chargers,22.0,DT,4,0.0,310.0,,Michigan,9/14/2000,Rook,0.0,
-Dustin Hopkins,4.0,Chargers,32.0,K,5,0.0,193.0,6-2,Florida St.,10/1/1990,7,1.0,Buffalo Bills / 6th / 177th pick / 2013
-Zander Horvath,40.0,Chargers,24.0,FB,15,2.0,230.0,6-3,Purdue,12/10/1998,Rook,0.0,Los Angeles Chargers / 7th / 260th pick / 2022
-J.C. Jackson,27.0,Chargers,27.0,CB,5,5.0,198.0,6-1,"Florida,Riverside CC,Maryland",11/17/1995,4,1.0,
-Brenden Jaimes,64.0,Chargers,23.0,OL,12,0.0,300.0,6-5,Nebraska,5/28/1999,1,1.0,Los Angeles Chargers / 5th / 159th pick / 2021
-Derwin James,3.0,Chargers,26.0,S,14,14.0,215.0,6-2,Florida St.,8/3/1996,4,8.0,Los Angeles Chargers / 1st / 17th pick / 2018
-Austin Johnson,98.0,Chargers,28.0,DL,8,8.0,314.0,6-4,Penn St.,5/8/1994,6,4.0,Tennessee Titans / 2nd / 43rd pick / 2016
-Zion Johnson,77.0,Chargers,23.0,G,17,17.0,316.0,6-3,"Davidson,Boston Col.",11/18/1999,Rook,8.0,Los Angeles Chargers / 1st / 17th pick / 2022
-Sebastian Joseph-Day,69.0,Chargers,27.0,DT,16,16.0,310.0,6-4,Rutgers,3/21/1995,3,8.0,Los Angeles Rams / 6th / 195th pick / 2018
-Joshua Kelley,25.0,Chargers,25.0,RB,13,1.0,212.0,5-11,"UC Davis,UCLA",11/20/1997,2,3.0,Los Angeles Chargers / 4th / 112th pick / 2020
-Raheem Layne,41.0,Chargers,23.0,S,6,0.0,192.0,5-11,Indiana,7/2/1999,Rook,0.0,
-Deane Leonard,33.0,Chargers,23.0,DB,17,0.0,195.0,6-0,"Calgary,Mississippi",11/20/1999,Rook,1.0,Los Angeles Chargers / 7th / 236th pick / 2022
-Corey Linsley,63.0,Chargers,31.0,C,14,14.0,301.0,6-3,Ohio St.,7/27/1991,8,7.0,Green Bay Packers / 5th / 161st pick / 2014
-Khalil Mack,52.0,Chargers,31.0,OLB,17,17.0,269.0,6-3,Buffalo,2/22/1991,8,11.0,Oakland Raiders / 1st / 5th pick / 2014
-Tre' McKitty,88.0,Chargers,23.0,TE,17,8.0,246.0,6-4,"Florida St.,Georgia",1/12/1999,1,1.0,Los Angeles Chargers / 3rd / 97th pick / 2021
-Sony Michel,20.0,Chargers,27.0,RB,10,0.0,215.0,5-11,Georgia,2/17/1995,4,1.0,New England Patriots / 1st / 31st pick / 2018
-David Moa,50.0,Chargers,26.0,DL,2,0.0,296.0,6-3,Boise St.,6/14/1996,1,0.0,
-Jason Moore,11.0,Chargers,27.0,WR,6,0.0,215.0,6-3,Findlay,6/23/1995,3,0.0,
-Kenneth Murray,9.0,Chargers,24.0,LB,17,16.0,241.0,6-2,Oklahoma,11/16/1998,2,7.0,Los Angeles Chargers / 1st / 23rd pick / 2020
-Nick Niemann,31.0,Chargers,25.0,LB,17,0.0,244.0,6-3,Iowa,12/2/1997,1,1.0,Los Angeles Chargers / 6th / 185th pick / 2021
-Storm Norton,74.0,Chargers,28.0,T,12,0.0,317.0,6-7,Toledo,5/16/1994,4,1.0,
-Amen Ogbongbemiga,57.0,Chargers,24.0,LB,17,0.0,231.0,6-0,Oklahoma St.,9/4/1998,1,1.0,
-Otito Ogbonnia,93.0,Chargers,21.0,DL,7,1.0,320.0,6-4,UCLA,12/3/2001,Rook,1.0,Los Angeles Chargers / 5th / 160th pick / 2022
-Josh Palmer,5.0,Chargers,23.0,WR,16,11.0,210.0,6-1,Tennessee,9/22/1999,1,6.0,Los Angeles Chargers / 3rd / 77th pick / 2021
-Donald Parham,89.0,Chargers,25.0,TE,6,1.0,237.0,6-8,Stetson,8/16/1997,2,1.0,
-Trey Pipkins,79.0,Chargers,26.0,T,14,14.0,307.0,6-6,Sioux Falls,9/5/1996,3,8.0,Los Angeles Chargers / 3rd / 91st pick / 2019
-Troy Reeder,42.0,Chargers,28.0,LB,17,0.0,245.0,6-3,"Penn St.,Delaware",9/13/1994,3,1.0,
-Richard Rodgers,82.0,Chargers,30.0,TE,10,1.0,257.0,6-4,California,1/22/1992,8,0.0,Green Bay Packers / 3rd / 98th pick / 2014
-Larry Rountree,34.0,Chargers,23.0,RB,4,0.0,211.0,5-10,Missouri,2/13/1999,1,0.0,Los Angeles Chargers / 6th / 198th pick / 2021
-Chris Rumph,94.0,Chargers,24.0,OLB,15,0.0,244.0,6-2,Duke,10/19/1998,1,1.0,Los Angeles Chargers / 4th / 118th pick / 2021
-Jamaree Salyer,68.0,Chargers,22.0,G,17,14.0,325.0,6-4,Georgia,7/13/2000,Rook,7.0,Los Angeles Chargers / 6th / 195th pick / 2022
-Asante Samuel Jr.,26.0,Chargers,23.0,CB,17,15.0,180.0,5-10,Florida St.,10/3/1999,1,5.0,Los Angeles Chargers / 2nd / 47th pick / 2021
-Foster Sarell,73.0,Chargers,24.0,T,7,3.0,322.0,6-6,Stanford,8/28/1998,Rook,2.0,
-JK Scott,16.0,Chargers,27.0,P,17,0.0,208.0,6-5,Alabama,10/30/1995,4,2.0,Green Bay Packers / 5th / 172nd pick / 2018
-Rashawn Slater,70.0,Chargers,23.0,T,3,3.0,315.0,6-4,Northwestern,3/26/1999,1,2.0,Los Angeles Chargers / 1st / 13th pick / 2021
-Stone Smartt,48.0,Chargers,24.0,TE,7,1.0,226.0,6-4,"Northern Arizona,Riverside CC,Old Dominion",10/4/1998,Rook,0.0,
-Isaiah Spiller,28.0,Chargers,21.0,RB,6,0.0,215.0,6-1,Texas A&M,8/9/2001,Rook,0.0,Los Angeles Chargers / 4th / 123rd pick / 2022
-Ja'Sir Taylor,36.0,Chargers,23.0,DB,17,3.0,185.0,5-10,Wake Forest,1/8/1999,Rook,2.0,Los Angeles Chargers / 6th / 214th pick / 2022
-Jerry Tillery,99.0,Chargers,26.0,DT,7,0.0,295.0,6-6,Notre Dame,10/8/1996,3,1.0,Los Angeles Chargers / 1st / 28th pick / 2019
-Drue Tranquill,49.0,Chargers,27.0,LB,17,16.0,234.0,6-2,Notre Dame,8/15/1995,3,8.0,Los Angeles Chargers / 4th / 130th pick / 2019
-Derrek Tuszka,59.0,Chargers,26.0,OLB,14,0.0,251.0,6-4,North Dakota St.,7/11/1996,2,1.0,Denver Broncos / 7th / 254th pick / 2020
-Kyle Van Noy,8.0,Chargers,31.0,OLB,17,13.0,250.0,6-3,BYU,3/26/1991,8,7.0,Detroit Lions / 2nd / 40th pick / 2014
-Mike Williams,81.0,Chargers,28.0,WR,13,13.0,218.0,6-4,Clemson,10/4/1994,5,7.0,Los Angeles Chargers / 1st / 7th pick / 2017
-JT Woods,22.0,Chargers,22.0,S,10,1.0,193.0,6-2,Baylor,6/10/2000,Rook,1.0,Los Angeles Chargers / 3rd / 79th pick / 2022
-Team Total,,Chargers,26.2,,17,,246.6,6-2.2,,,3.2,,
+,No.,Player,BirthDate,Age,Height,Weight,College/University,Position,Games_Played_in_Season,Games_Started_in_Season,NFL_Years,Player_Value,Team,Year
+0,24.0,Nasir Adderley,5/31/1997,25.0,6-0,206.0,Delaware,SS,16,15.0,3.0,5.0,Chargers,2022
+1,13.0,Keenan Allen,4/27/1992,30.0,6-2,211.0,California,WR,10,10.0,9.0,6.0,Chargers,2022
+2,45.0,Jeremiah Attaochu,1/17/1993,29.0,6-3,262.0,Georgia Tech,LB,2,0.0,8.0,0.0,Chargers,2022
+3,78.0,Zack Bailey,11/8/1995,27.0,6-5,300.0,South Carolina,T,1,0.0,0.0,0.0,Chargers,2022
+4,83.0,Michael Bandy,12/5/1997,25.0,5-10,190.0,San Diego,WR,10,2.0,1.0,1.0,Chargers,2022
+5,12.0,Taylor Bertolet,10/24/1992,30.0,5-9,188.0,Texas A&M,K,2,0.0,0.0,0.0,Chargers,2022
+6,97.0,Joey Bosa,7/11/1995,27.0,6-5,280.0,Ohio St.,LDE,5,4.0,6.0,2.0,Chargers,2022
+7,23.0,Bryce Callahan,10/23/1991,31.0,5-9,188.0,Rice,DB,15,11.0,7.0,4.0,Chargers,2022
+8,1.0,DeAndre Carter,4/10/1993,29.0,5-8,190.0,Sacramento St.,WR,17,7.0,4.0,4.0,Chargers,2022
+9,76.0,Will Clapp,12/10/1995,27.0,6-5,311.0,LSU,C,17,3.0,4.0,3.0,Chargers,2022
+10,95.0,Christian Covington,10/16/1993,29.0,6-2,289.0,Rice,DT,4,0.0,7.0,0.0,Chargers,2022
+11,4.0,Chase Daniel,10/7/1986,36.0,6-0,218.0,Missouri,QB,4,0.0,12.0,0.0,Chargers,2022
+12,43.0,Michael Davis,1/6/1995,27.0,6-2,196.0,BYU,LCB,17,12.0,5.0,4.0,Chargers,2022
+13,90.0,Tyeler Davison,9/23/1992,30.0,6-2,309.0,Fresno St.,DT,6,0.0,7.0,0.0,Chargers,2022
+14,15.0,Cameron Dicker,5/6/2000,22.0,,216.0,Texas,K,10,0.0,0.0,3.0,Chargers,2022
+15,30.0,Austin Ekeler,5/17/1995,27.0,5-10,200.0,Western St. (CO),RB,17,17.0,5.0,11.0,Chargers,2022
+16,7.0,Gerald Everett,6/25/1994,28.0,6-3,250.0,South Alabama,TE,16,11.0,5.0,5.0,Chargers,2022
+17,96.0,Breiden Fehoko,10/15/1996,26.0,6-3,300.0,"Texas Tech,LSU",DT,9,3.0,2.0,2.0,Chargers,2022
+18,71.0,Matt Feiler,7/7/1992,30.0,6-6,330.0,Bloomsburg,LG,17,17.0,5.0,8.0,Chargers,2022
+19,56.0,Morgan Fox,9/12/1994,28.0,6-3,275.0,Colorado State-Pueblo,LDT,17,12.0,6.0,6.0,Chargers,2022
+20,92.0,Joe Gaziano,9/27/1996,26.0,6-4,280.0,Northwestern,DE,5,0.0,2.0,0.0,Chargers,2022
+21,32.0,Alohi Gilman,9/17/1997,25.0,5-10,201.0,"Navy,Notre Dame",S,17,5.0,2.0,3.0,Chargers,2022
+22,15.0,Jalen Guyton,6/7/1997,25.0,6-1,212.0,North Texas,WR,3,0.0,3.0,1.0,Chargers,2022
+23,37.0,Kemon Hall,6/2/1997,25.0,5-11,190.0,North Texas,CB,2,0.0,1.0,0.0,Chargers,2022
+24,47.0,Josh Harris,4/27/1989,33.0,6-1,224.0,Auburn,LS,17,0.0,10.0,1.0,Chargers,2022
+25,10.0,Justin Herbert,3/10/1998,24.0,6-6,236.0,Oregon,QB,17,17.0,2.0,14.0,Chargers,2022
+26,91.0,Christopher Hinton,9/14/2000,22.0,,310.0,Michigan,T,4,0.0,0.0,0.0,Chargers,2022
+27,4.0,Dustin Hopkins,10/1/1990,32.0,6-2,193.0,Florida St.,K,5,0.0,7.0,1.0,Chargers,2022
+28,40.0,Zander Horvath,12/10/1998,24.0,6-3,230.0,Purdue,FB,15,2.0,0.0,0.0,Chargers,2022
+29,27.0,J.C. Jackson,11/17/1995,27.0,6-1,198.0,"Florida,Riverside CC,Maryland",LCB,5,5.0,4.0,1.0,Chargers,2022
+30,64.0,Brenden Jaimes,5/28/1999,23.0,6-5,300.0,Nebraska,G,12,0.0,1.0,1.0,Chargers,2022
+31,3.0,Derwin James,8/3/1996,26.0,6-2,215.0,Florida St.,FS,14,14.0,4.0,8.0,Chargers,2022
+32,98.0,Austin Johnson,5/8/1994,28.0,6-4,314.0,Penn St.,LDT,8,8.0,6.0,4.0,Chargers,2022
+33,77.0,Zion Johnson,11/18/1999,23.0,6-3,316.0,"Davidson,Boston Col.",RG,17,17.0,0.0,8.0,Chargers,2022
+34,69.0,Sebastian Joseph-Day,3/21/1995,27.0,6-4,310.0,Rutgers,RDT,16,16.0,3.0,8.0,Chargers,2022
+35,25.0,Joshua Kelley,11/20/1997,25.0,5-11,212.0,"UC Davis,UCLA",RB,13,1.0,2.0,3.0,Chargers,2022
+36,41.0,Raheem Layne,7/2/1999,23.0,5-11,192.0,Indiana,S,6,0.0,0.0,0.0,Chargers,2022
+37,33.0,Deane Leonard,11/20/1999,23.0,6-0,195.0,"Calgary,Mississippi",DB,17,0.0,0.0,1.0,Chargers,2022
+38,63.0,Corey Linsley,7/27/1991,31.0,6-3,301.0,Ohio St.,C,14,14.0,8.0,7.0,Chargers,2022
+39,52.0,Khalil Mack,2/22/1991,31.0,6-3,269.0,Buffalo,RDE,17,17.0,8.0,11.0,Chargers,2022
+40,88.0,Tre' McKitty,1/12/1999,23.0,6-4,246.0,"Florida St.,Georgia",TE,17,8.0,1.0,1.0,Chargers,2022
+41,20.0,Sony Michel,2/17/1995,27.0,5-11,215.0,Georgia,RB,10,0.0,4.0,1.0,Chargers,2022
+42,50.0,David Moa,6/14/1996,26.0,6-3,296.0,Boise St.,DT,2,0.0,1.0,0.0,Chargers,2022
+43,11.0,Jason Moore,6/23/1995,27.0,6-3,215.0,Findlay,WR,6,0.0,3.0,0.0,Chargers,2022
+44,9.0,Kenneth Murray,11/16/1998,24.0,6-2,241.0,Oklahoma,MLB,17,16.0,2.0,7.0,Chargers,2022
+45,31.0,Nick Niemann,12/2/1997,25.0,6-3,244.0,Iowa,LB,17,0.0,1.0,1.0,Chargers,2022
+46,74.0,Storm Norton,5/16/1994,28.0,6-7,317.0,Toledo,T,12,0.0,4.0,1.0,Chargers,2022
+47,57.0,Amen Ogbongbemiga,9/4/1998,24.0,6-0,231.0,Oklahoma St.,LB,17,0.0,1.0,1.0,Chargers,2022
+48,93.0,Otito Ogbonnia,12/3/2001,21.0,6-4,320.0,UCLA,DT,7,1.0,0.0,1.0,Chargers,2022
+49,5.0,Josh Palmer,9/22/1999,23.0,6-1,210.0,Tennessee,WR,16,11.0,1.0,6.0,Chargers,2022
+50,89.0,Donald Parham,8/16/1997,25.0,6-8,237.0,Stetson,TE,6,1.0,2.0,1.0,Chargers,2022
+51,79.0,Trey Pipkins,9/5/1996,26.0,6-6,307.0,Sioux Falls,RT,14,14.0,3.0,8.0,Chargers,2022
+52,42.0,Troy Reeder,9/13/1994,28.0,6-3,245.0,"Penn St.,Delaware",LB,17,0.0,3.0,1.0,Chargers,2022
+53,82.0,Richard Rodgers,1/22/1992,30.0,6-4,257.0,California,TE,10,1.0,8.0,0.0,Chargers,2022
+54,34.0,Larry Rountree,2/13/1999,23.0,5-10,211.0,Missouri,RB,4,0.0,1.0,0.0,Chargers,2022
+55,94.0,Chris Rumph,10/19/1998,24.0,6-2,244.0,Duke,LB,15,0.0,1.0,1.0,Chargers,2022
+56,68.0,Jamaree Salyer,7/13/2000,22.0,6-4,325.0,Georgia,LT,17,14.0,0.0,7.0,Chargers,2022
+57,26.0,Asante Samuel Jr.,10/3/1999,23.0,5-10,180.0,Florida St.,RCB,17,15.0,1.0,5.0,Chargers,2022
+58,73.0,Foster Sarell,8/28/1998,24.0,6-6,322.0,Stanford,T,7,3.0,0.0,2.0,Chargers,2022
+59,16.0,JK Scott,10/30/1995,27.0,6-5,208.0,Alabama,P,17,0.0,4.0,2.0,Chargers,2022
+60,70.0,Rashawn Slater,3/26/1999,23.0,6-4,315.0,Northwestern,T,3,3.0,1.0,2.0,Chargers,2022
+61,48.0,Stone Smartt,10/4/1998,24.0,6-4,226.0,"Northern Arizona,Riverside CC,Old Dominion",TE,7,1.0,0.0,0.0,Chargers,2022
+62,28.0,Isaiah Spiller,8/9/2001,21.0,6-1,215.0,Texas A&M,RB,6,0.0,0.0,0.0,Chargers,2022
+63,36.0,Ja'Sir Taylor,1/8/1999,23.0,5-10,185.0,Wake Forest,DB,17,3.0,0.0,2.0,Chargers,2022
+64,99.0,Jerry Tillery,10/8/1996,26.0,6-6,295.0,Notre Dame,DE,7,0.0,3.0,1.0,Chargers,2022
+65,49.0,Drue Tranquill,8/15/1995,27.0,6-2,234.0,Notre Dame,LLB,17,16.0,3.0,8.0,Chargers,2022
+66,59.0,Derrek Tuszka,8/17/1997,25.0,6-4,251.0,North Dakota St.,LB,14,0.0,2.0,1.0,Chargers,2022
+67,8.0,Kyle Van Noy,3/26/1991,31.0,6-3,250.0,BYU,LDE,17,13.0,8.0,7.0,Chargers,2022
+68,81.0,Mike Williams,10/4/1994,28.0,6-4,218.0,Clemson,WR,13,13.0,5.0,7.0,Chargers,2022
+69,22.0,JT Woods,6/10/2000,22.0,6-2,193.0,Baylor,S,10,1.0,0.0,1.0,Chargers,2022
+70,,Team Total,,26.2,6-2.2,246.6,,,17,,3.2,,Chargers,2022

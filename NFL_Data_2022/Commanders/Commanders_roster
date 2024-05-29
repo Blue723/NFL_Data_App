@@ -1,75 +1,75 @@
-Player,No.,Team,Age,Pos,G,GS,Wt,Ht,College/Univ,BirthDate,Yrs,AV,Drafted (tm/rnd/yr)
-Jonathan Allen,93.0,Commanders,27.0,DT,16,16.0,300.0,6-3,Alabama,1/16/1995,5,12.0,Washington Redskins / 1st / 17th pick / 2017
-Troy Apke,30.0,Commanders,27.0,CB,2,0.0,205.0,6-1,Penn St.,4/11/1995,4,0.0,Washington Redskins / 4th / 109th pick / 2018
-Alex Armah,40.0,Commanders,28.0,RB,2,0.0,255.0,6-1,West Georgia,5/17/1994,5,0.0,Carolina Panthers / 6th / 192nd pick / 2017
-David Bada,64.0,Commanders,27.0,DT,2,0.0,293.0,6-4,,5/24/1995,Rook,0.0,
-John Bates,87.0,Commanders,25.0,TE,16,7.0,259.0,6-6,Boise St.,11/6/1997,1,1.0,Washington Football Team / 4th / 124th pick / 2021
-Reggie Bonnafon,38.0,Commanders,26.0,RB,1,0.0,215.0,6-0,Louisville,1/4/1996,3,0.0,
-Jonathan Bostic,53.0,Commanders,31.0,LB,15,5.0,245.0,6-1,Florida,5/5/1991,9,3.0,Chicago Bears / 2nd / 50th pick / 2013
-William Bradley-King,56.0,Commanders,25.0,DE,1,0.0,254.0,6-3,Baylor,12/22/1997,1,0.0,Washington Football Team / 7th / 240th pick / 2021
-Dyami Brown,2.0,Commanders,23.0,WR,15,0.0,195.0,6-0,North Carolina,11/1/1999,1,1.0,Washington Football Team / 3rd / 82nd pick / 2021
-Percy Butler,35.0,Commanders,22.0,S,15,0.0,191.0,6-0,Louisiana,5/29/2000,Rook,1.0,Washington Commanders / 4th / 113th pick / 2022
-Tariq Castro-Fields,40.0,Commanders,23.0,CB,2,0.0,197.0,6-1,Penn St.,1/14/1999,Rook,0.0,San Francisco 49ers / 6th / 221st pick / 2022
-Saahdiq Charles,77.0,Commanders,23.0,T,13,3.0,322.0,6-4,LSU,7/26/1999,2,2.0,Washington Football Team / 4th / 108th pick / 2020
-Camaron Cheeseman,54.0,Commanders,24.0,LS,17,0.0,237.0,6-4,Michigan,4/26/1998,1,1.0,Washington Football Team / 6th / 225th pick / 2021
-Samuel Cosmi,76.0,Commanders,23.0,T,14,6.0,309.0,6-6,Texas,2/16/1999,1,3.0,Washington Football Team / 2nd / 51st pick / 2021
-Kamren Curl,31.0,Commanders,23.0,S,12,12.0,198.0,6-2,Arkansas,3/3/1999,2,4.0,Washington Football Team / 7th / 216th pick / 2020
-Jamin Davis,52.0,Commanders,24.0,LB,16,15.0,234.0,6-4,Kentucky,12/12/1998,1,8.0,Washington Football Team / 1st / 19th pick / 2021
-Jahan Dotson,1.0,Commanders,22.0,WR,12,10.0,182.0,5-11,Penn St.,3/22/2000,Rook,4.0,Washington Commanders / 1st / 16th pick / 2022
-Milo Eifler,46.0,Commanders,24.0,LB,10,0.0,225.0,6-2,"Washington,Illinois",2/13/1998,1,1.0,
-Alex Erickson,86.0,Commanders,30.0,WR,2,0.0,195.0,6-0,Wisconsin,11/6/1992,6,0.0,
-Darrick Forrest,22.0,Commanders,23.0,S,17,11.0,200.0,5-11,Cincinnati,5/22/1999,1,5.0,Washington Football Team / 5th / 163rd pick / 2021
-Kendall Fuller,29.0,Commanders,27.0,CB,17,17.0,198.0,5-11,Virginia Tech,2/13/1995,6,6.0,Washington Redskins / 3rd / 84th pick / 2016
-Nathan Gerry,50.0,Commanders,27.0,LB,4,0.0,230.0,6-2,Nebraska,2/23/1995,5,0.0,Philadelphia Eagles / 5th / 184th pick / 2017
-Antonio Gibson,24.0,Commanders,24.0,RB,15,6.0,220.0,6-2,Memphis,6/23/1998,2,6.0,Washington Football Team / 3rd / 66th pick / 2020
-De'Jon Harris,45.0,Commanders,25.0,LB,5,0.0,245.0,6-0,Arkansas,11/1/1997,2,0.0,
-Taylor Heinicke,4.0,Commanders,29.0,QB,9,9.0,210.0,6-1,Old Dominion,3/15/1993,5,6.0,
-Cole Holcomb,55.0,Commanders,26.0,LB,7,7.0,240.0,6-1,North Carolina,7/30/1996,3,3.0,Washington Redskins / 5th / 173rd pick / 2019
-Christian Holmes,34.0,Commanders,25.0,CB,17,2.0,205.0,6-1,"Missouri,Oklahoma St.",9/14/1997,Rook,2.0,Washington Commanders / 7th / 240th pick / 2022
-Sam Howell,14.0,Commanders,22.0,QB,1,1.0,220.0,6-1,North Carolina,9/16/2000,Rook,1.0,Washington Commanders / 5th / 144th pick / 2022
-Khaleke Hudson,47.0,Commanders,25.0,LB,13,1.0,220.0,6-0,Michigan,12/6/1997,2,1.0,Washington Football Team / 5th / 162nd pick / 2020
-William Jackson III,23.0,Commanders,30.0,CB,4,4.0,189.0,6-0,"Houston,Trinity Valley CC (TX)",10/27/1992,5,1.0,Cincinnati Bengals / 1st / 24th pick / 2016
-Donovan Jeter,91.0,Commanders,24.0,DT,1,0.0,325.0,6-3,Michigan,12/7/1998,Rook,0.0,
-Danny Johnson,36.0,Commanders,27.0,CB,11,4.0,190.0,5-9,Southern,11/17/1995,4,2.0,
-Tyler Larsen,69.0,Commanders,31.0,C,9,8.0,335.0,6-4,Utah St.,7/8/1991,6,3.0,
-Charles Leno Jr.,72.0,Commanders,31.0,T,17,17.0,302.0,6-3,Boise St.,10/9/1991,8,7.0,Chicago Bears / 7th / 246th pick / 2014
-Cornelius Lucas,78.0,Commanders,31.0,T,16,12.0,327.0,6-8,Kansas St.,7/18/1991,8,5.0,
-Nick Martin,60.0,Commanders,29.0,C,4,2.0,295.0,6-4,Notre Dame,4/29/1993,5,1.0,Houston Texans / 2nd / 50th pick / 2016
-Wes Martin,63.0,Commanders,26.0,G,6,0.0,315.0,6-3,Indiana,5/9/1996,3,0.0,Washington Redskins / 4th / 131st pick / 2019
-Phidarian Mathis,98.0,Commanders,24.0,DT,1,0.0,312.0,6-4,Alabama,4/26/1998,Rook,0.0,Washington Commanders / 2nd / 47th pick / 2022
-David Mayo,51.0,Commanders,29.0,LB,13,3.0,240.0,6-2,Texas St.,8/18/1993,7,2.0,Carolina Panthers / 5th / 169th pick / 2015
-Bobby McCain,20.0,Commanders,29.0,S,17,16.0,196.0,5-9,Memphis,8/18/1993,7,5.0,Miami Dolphins / 5th / 145th pick / 2015
-Kyric McGowan,83.0,Commanders,23.0,WR,2,0.0,198.0,5-11,"Northwestern,Georgia Tech",11/1/1999,Rook,0.0,
-J.D. McKissic,23.0,Commanders,29.0,RB,8,0.0,195.0,5-10,Arkansas St.,8/15/1993,6,2.0,
-Terry McLaurin,17.0,Commanders,27.0,WR,17,17.0,210.0,6-0,Ohio St.,9/15/1995,3,9.0,Washington Redskins / 3rd / 76th pick / 2019
-Dax Milne,15.0,Commanders,23.0,WR,15,1.0,190.0,6-1,BYU,6/23/1999,1,0.0,Washington Football Team / 7th / 258th pick / 2021
-Andrew Norwell,68.0,Commanders,31.0,G,16,16.0,325.0,6-6,Ohio St.,10/25/1991,8,6.0,
-Efe Obada,97.0,Commanders,30.0,DE,17,1.0,265.0,6-6,,4/13/1992,4,2.0,
-Jaret Patterson,32.0,Commanders,23.0,RB,3,0.0,195.0,5-8,Buffalo,12/23/1999,1,0.0,
-Chris Paul,75.0,Commanders,24.0,G,1,1.0,324.0,6-4,Tulsa,11/19/1998,Rook,0.0,Washington Commanders / 7th / 230th pick / 2022
-Daron Payne,94.0,Commanders,25.0,DT,17,17.0,320.0,6-3,Alabama,5/27/1997,4,13.0,Washington Redskins / 1st / 13th pick / 2018
-Benning Potoa'e,79.0,Commanders,26.0,DE,2,0.0,290.0,6-3,Washington,9/17/1996,2,0.0,
-Jeremy Reaves,39.0,Commanders,26.0,S,17,3.0,200.0,5-11,South Alabama,8/29/1996,4,7.0,
-John Ridgeway,91.0,Commanders,23.0,DT,15,4.0,321.0,6-5,"Illinois St.,Arkansas",5/7/1999,Rook,3.0,Dallas Cowboys / 5th / 178th pick / 2022
-Brian Robinson Jr.,8.0,Commanders,23.0,RB,12,9.0,228.0,6-1,Alabama,3/22/1999,Rook,3.0,Washington Commanders / 3rd / 98th pick / 2022
-Armani Rogers,88.0,Commanders,25.0,TE,11,3.0,225.0,6-5,"UNLV,Ohio",12/4/1997,Rook,1.0,
-Chase Roullier,73.0,Commanders,29.0,C,2,2.0,312.0,6-4,Wyoming,8/23/1993,5,1.0,Washington Redskins / 6th / 199th pick / 2017
-Curtis Samuel,10.0,Commanders,26.0,WR,17,12.0,195.0,5-11,Ohio St.,8/11/1996,5,6.0,Carolina Panthers / 2nd / 40th pick / 2017
-Wes Schweitzer,71.0,Commanders,29.0,OL,7,6.0,300.0,6-4,San Jose St.,9/11/1993,5,2.0,Atlanta Falcons / 6th / 195th pick / 2016
-Cam Sims,11.0,Commanders,26.0,WR,17,3.0,214.0,6-5,Alabama,1/6/1996,4,1.0,
-Joey Slye,3.0,Commanders,26.0,K,17,0.0,213.0,5-11,Virginia Tech,4/10/1996,3,2.0,
-James Smith-Williams,96.0,Commanders,25.0,DE,14,14.0,265.0,6-4,North Carolina St.,7/30/1997,2,7.0,Washington Football Team / 7th / 229th pick / 2020
-Benjamin St-Juste,25.0,Commanders,25.0,CB,12,12.0,200.0,6-3,"Michigan,Minnesota",9/8/1997,1,4.0,Washington Football Team / 3rd / 74th pick / 2021
-Montez Sweat,90.0,Commanders,26.0,DE,17,17.0,262.0,6-6,"Michigan St.,Copiah-Lincoln CC,Mississippi St.",9/4/1996,3,9.0,Washington Redskins / 1st / 26th pick / 2019
-Logan Thomas,82.0,Commanders,31.0,TE,14,13.0,250.0,6-6,Virginia Tech,7/1/1991,8,2.0,Arizona Cardinals / 4th / 120th pick / 2014
-Shaka Toney,58.0,Commanders,24.0,DE,16,0.0,238.0,6-2,Penn St.,1/7/1998,1,1.0,Washington Football Team / 7th / 246th pick / 2021
-Casey Toohill,95.0,Commanders,26.0,DE,16,0.0,254.0,6-5,Stanford,8/22/1996,2,2.0,Philadelphia Eagles / 7th / 233rd pick / 2020
-Cole Turner,85.0,Commanders,22.0,TE,10,2.0,240.0,6-6,Nevada,3/16/2000,Rook,0.0,Washington Commanders / 5th / 149th pick / 2022
-Trai Turner,53.0,Commanders,29.0,G,16,12.0,320.0,6-3,LSU,6/14/1993,8,5.0,Carolina Panthers / 3rd / 92nd pick / 2014
-Tress Way,5.0,Commanders,32.0,P,17,0.0,220.0,6-1,Oklahoma,4/18/1990,8,3.0,
-Carson Wentz,11.0,Commanders,30.0,QB,8,7.0,237.0,6-5,North Dakota St.,12/30/1992,6,4.0,Philadelphia Eagles / 1st / 2nd pick / 2016
-Rachad Wildgoose,37.0,Commanders,22.0,CB,15,3.0,197.0,5-11,Wisconsin,1/1/2000,1,2.0,Buffalo Bills / 6th / 213th pick / 2021
-Jonathan Williams,35.0,Commanders,28.0,RB,13,2.0,217.0,6-0,Arkansas,2/2/1994,6,1.0,Buffalo Bills / 5th / 156th pick / 2016
-Daniel Wise,92.0,Commanders,26.0,DT,11,1.0,279.0,6-3,Kansas,1/16/1996,1,1.0,
-Chase Young,99.0,Commanders,23.0,DE,3,2.0,264.0,6-5,Ohio St.,4/14/1999,2,1.0,Washington Football Team / 1st / 2nd pick / 2020
-Team Total,,Commanders,26.1,,17,,245.0,6-2.2,,,3.1,,
+,No.,Player,BirthDate,Age,Height,Weight,College/University,Position,Games_Played_in_Season,Games_Started_in_Season,NFL_Years,Player_Value,Team,Year
+0,93.0,Jonathan Allen,1/16/1995,27.0,6-3,300.0,Alabama,RDT,16,16.0,5.0,12.0,Commanders,2022
+1,30.0,Troy Apke,4/11/1995,27.0,6-1,205.0,Penn St.,CB,2,0.0,4.0,0.0,Commanders,2022
+2,40.0,Alex Armah,5/17/1994,28.0,6-1,255.0,West Georgia,FB,2,0.0,5.0,0.0,Commanders,2022
+3,64.0,David Bada,5/24/1995,27.0,6-4,293.0,,DE,2,0.0,0.0,0.0,Commanders,2022
+4,87.0,John Bates,11/6/1997,25.0,6-6,259.0,Boise St.,TE,16,7.0,1.0,1.0,Commanders,2022
+5,38.0,Reggie Bonnafon,1/4/1996,26.0,6-0,215.0,Louisville,LB,1,0.0,3.0,0.0,Commanders,2022
+6,53.0,Jonathan Bostic,5/5/1991,31.0,6-1,245.0,Florida,MLB,15,5.0,9.0,3.0,Commanders,2022
+7,56.0,William Bradley-King,12/22/1997,25.0,6-3,254.0,Baylor,DE,1,0.0,1.0,0.0,Commanders,2022
+8,2.0,Dyami Brown,11/1/1999,23.0,6-0,195.0,North Carolina,WR,15,0.0,1.0,1.0,Commanders,2022
+9,35.0,Percy Butler,5/29/2000,22.0,6-0,191.0,Louisiana,S,15,0.0,0.0,1.0,Commanders,2022
+10,40.0,Tariq Castro-Fields,1/14/1999,23.0,6-1,197.0,Penn St.,CB,2,0.0,0.0,0.0,Commanders,2022
+11,77.0,Saahdiq Charles,7/26/1999,23.0,6-4,322.0,LSU,T,13,3.0,2.0,2.0,Commanders,2022
+12,54.0,Camaron Cheeseman,4/26/1998,24.0,6-4,237.0,Michigan,LA,17,0.0,1.0,1.0,Commanders,2022
+13,76.0,Samuel Cosmi,2/16/1999,23.0,6-6,309.0,Texas,RT,14,6.0,1.0,3.0,Commanders,2022
+14,31.0,Kamren Curl,3/31/1999,23.0,6-2,198.0,Arkansas,SS,12,12.0,2.0,4.0,Commanders,2022
+15,52.0,Jamin Davis,12/12/1998,24.0,6-4,234.0,Kentucky,LLB,16,15.0,1.0,8.0,Commanders,2022
+16,1.0,Jahan Dotson,3/22/2000,22.0,5-11,182.0,Penn St.,WR,12,10.0,0.0,4.0,Commanders,2022
+17,46.0,Milo Eifler,2/13/1998,24.0,6-2,225.0,"Washington,Illinois",LB,10,0.0,1.0,1.0,Commanders,2022
+18,86.0,Alex Erickson,11/6/1992,30.0,6-0,195.0,Wisconsin,WR,2,0.0,6.0,0.0,Commanders,2022
+19,22.0,Darrick Forrest,5/22/1999,23.0,5-11,200.0,Cincinnati,DB,17,11.0,1.0,5.0,Commanders,2022
+20,29.0,Kendall Fuller,2/13/1995,27.0,5-11,198.0,Virginia Tech,LCB/DB,17,17.0,6.0,6.0,Commanders,2022
+21,50.0,Nathan Gerry,2/23/1995,27.0,6-2,230.0,Nebraska,LB,4,0.0,5.0,0.0,Commanders,2022
+22,24.0,Antonio Gibson,6/23/1998,24.0,6-2,220.0,Memphis,RB,15,6.0,2.0,6.0,Commanders,2022
+23,45.0,De'Jon Harris,11/1/1997,25.0,6-0,245.0,Arkansas,LB,5,0.0,2.0,0.0,Commanders,2022
+24,4.0,Taylor Heinicke,3/15/1993,29.0,6-1,210.0,Old Dominion,QB,9,9.0,5.0,6.0,Commanders,2022
+25,55.0,Cole Holcomb,7/30/1996,26.0,6-1,240.0,North Carolina,MLB,7,7.0,3.0,3.0,Commanders,2022
+26,34.0,Christian Holmes,9/14/1997,25.0,6-1,205.0,"Missouri,Oklahoma St.",CB,17,2.0,0.0,2.0,Commanders,2022
+27,14.0,Sam Howell,9/16/2000,22.0,6-1,220.0,North Carolina,QB,1,1.0,0.0,1.0,Commanders,2022
+28,47.0,Khaleke Hudson,12/6/1997,25.0,6-0,220.0,Michigan,S,13,1.0,2.0,1.0,Commanders,2022
+29,23.0,William Jackson III,10/27/1992,30.0,6-0,189.0,"Houston,Trinity Valley CC (TX)",DB,4,4.0,5.0,1.0,Commanders,2022
+30,91.0,Donovan Jeter,12/7/1998,24.0,6-3,325.0,Michigan,DT,1,0.0,0.0,0.0,Commanders,2022
+31,36.0,Danny Johnson,11/17/1995,27.0,5-9,190.0,Southern,CB,11,4.0,4.0,2.0,Commanders,2022
+32,69.0,Tyler Larsen,7/8/1991,31.0,6-4,335.0,Utah St.,C,9,8.0,6.0,3.0,Commanders,2022
+33,72.0,Charles Leno Jr.,10/9/1991,31.0,6-3,302.0,Boise St.,LT,17,17.0,8.0,7.0,Commanders,2022
+34,78.0,Cornelius Lucas,7/18/1991,31.0,6-8,327.0,Kansas St.,RT,16,12.0,8.0,5.0,Commanders,2022
+35,60.0,Nick Martin,4/29/1993,29.0,6-4,295.0,Notre Dame,C,4,2.0,5.0,1.0,Commanders,2022
+36,63.0,Wes Martin,5/9/1996,26.0,6-3,315.0,Indiana,G,6,0.0,3.0,0.0,Commanders,2022
+37,98.0,Phidarian Mathis,4/26/1998,24.0,6-4,312.0,Alabama,DT,1,0.0,0.0,0.0,Commanders,2022
+38,51.0,David Mayo,8/18/1993,29.0,6-2,240.0,Texas St.,LB,13,3.0,7.0,2.0,Commanders,2022
+39,20.0,Bobby McCain,8/18/1993,29.0,5-9,196.0,Memphis,FS,17,16.0,7.0,5.0,Commanders,2022
+40,83.0,Kyric McGowan,11/1/1999,23.0,5-11,198.0,"Northwestern,Georgia Tech",WR,2,0.0,0.0,0.0,Commanders,2022
+41,23.0,J.D. McKissic,8/15/1993,29.0,5-10,195.0,Arkansas St.,RB,8,0.0,6.0,2.0,Commanders,2022
+42,17.0,Terry McLaurin,9/15/1995,27.0,6-0,210.0,Ohio St.,WR,17,17.0,3.0,9.0,Commanders,2022
+43,15.0,Dax Milne,6/23/1999,23.0,6-1,190.0,BYU,WR,15,1.0,1.0,0.0,Commanders,2022
+44,68.0,Andrew Norwell,10/25/1991,31.0,6-6,325.0,Ohio St.,LG,16,16.0,8.0,6.0,Commanders,2022
+45,97.0,Efe Obada,4/13/1992,30.0,6-6,265.0,,DE,17,1.0,4.0,2.0,Commanders,2022
+46,32.0,Jaret Patterson,12/23/1999,23.0,5-8,195.0,Buffalo,RB,3,0.0,1.0,0.0,Commanders,2022
+47,75.0,Chris Paul,11/19/1998,24.0,6-4,324.0,Tulsa,G,1,1.0,0.0,0.0,Commanders,2022
+48,94.0,Daron Payne,5/27/1997,25.0,6-3,320.0,Alabama,LDT,17,17.0,4.0,13.0,Commanders,2022
+49,79.0,Benning Potoa'e,9/17/1996,26.0,6-3,290.0,Washington,DE,2,0.0,2.0,0.0,Commanders,2022
+50,39.0,Jeremy Reaves,8/29/1996,26.0,5-11,200.0,South Alabama,S,17,3.0,4.0,7.0,Commanders,2022
+51,91.0,John Ridgeway,5/7/1999,23.0,6-5,321.0,"Illinois St.,Arkansas",DT,15,4.0,0.0,3.0,Commanders,2022
+52,8.0,Brian Robinson Jr.,3/22/1999,23.0,6-1,228.0,Alabama,RB,12,9.0,0.0,3.0,Commanders,2022
+53,88.0,Armani Rogers,12/4/1997,25.0,6-5,225.0,"UNLV,Ohio",TE,11,3.0,0.0,1.0,Commanders,2022
+54,73.0,Chase Roullier,8/23/1993,29.0,6-4,312.0,Wyoming,C,2,2.0,5.0,1.0,Commanders,2022
+55,10.0,Curtis Samuel,8/11/1996,26.0,5-11,195.0,Ohio St.,WR,17,12.0,5.0,6.0,Commanders,2022
+56,71.0,Wes Schweitzer,9/11/1993,29.0,6-4,300.0,San Jose St.,C,7,6.0,5.0,2.0,Commanders,2022
+57,11.0,Cam Sims,1/6/1996,26.0,6-5,214.0,Alabama,WR,17,3.0,4.0,1.0,Commanders,2022
+58,3.0,Joey Slye,4/10/1996,26.0,5-11,213.0,Virginia Tech,K,17,0.0,3.0,2.0,Commanders,2022
+59,96.0,James Smith-Williams,7/29/1997,25.0,6-4,265.0,North Carolina St.,RDE,14,14.0,2.0,7.0,Commanders,2022
+60,25.0,Benjamin St-Juste,9/8/1997,25.0,6-3,200.0,"Michigan,Minnesota",RCB,12,12.0,1.0,4.0,Commanders,2022
+61,90.0,Montez Sweat,9/4/1996,26.0,6-6,262.0,"Michigan St.,Copiah-Lincoln CC,Mississippi St.",LDE,17,17.0,3.0,9.0,Commanders,2022
+62,82.0,Logan Thomas,7/1/1991,31.0,6-6,250.0,Virginia Tech,TE,14,13.0,8.0,2.0,Commanders,2022
+63,58.0,Shaka Toney,1/8/1998,24.0,6-2,238.0,Penn St.,DE,16,0.0,1.0,1.0,Commanders,2022
+64,95.0,Casey Toohill,8/21/1996,26.0,6-5,254.0,Stanford,DE,16,0.0,2.0,2.0,Commanders,2022
+65,85.0,Cole Turner,3/16/2000,22.0,6-6,240.0,Nevada,TE,10,2.0,0.0,0.0,Commanders,2022
+66,53.0,Trai Turner,6/14/1993,29.0,6-3,320.0,LSU,RG,16,12.0,8.0,5.0,Commanders,2022
+67,5.0,Tress Way,4/18/1990,32.0,6-1,220.0,Oklahoma,P,17,0.0,8.0,3.0,Commanders,2022
+68,11.0,Carson Wentz,12/30/1992,30.0,6-5,237.0,North Dakota St.,QB,8,7.0,6.0,4.0,Commanders,2022
+69,37.0,Rachad Wildgoose,6/20/2000,22.0,5-11,197.0,Wisconsin,CB,15,3.0,1.0,2.0,Commanders,2022
+70,35.0,Jonathan Williams,2/2/1994,28.0,6-0,217.0,Arkansas,RB,13,2.0,6.0,1.0,Commanders,2022
+71,92.0,Daniel Wise,1/16/1996,26.0,6-3,279.0,Kansas,DE,11,1.0,1.0,1.0,Commanders,2022
+72,99.0,Chase Young,4/14/1999,23.0,6-5,264.0,Ohio St.,DE,3,2.0,2.0,1.0,Commanders,2022
+73,,Team Total,,26.1,6-2.2,245.0,,,17,,3.1,,Commanders,2022

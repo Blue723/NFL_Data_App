@@ -1,5 +1,5 @@
-,Player,Team,3rd Down Attempts in Game,3rd Down Conversions,3rd Down Conversion Per.,4th Down Attempts in Game,4th Down Conversions in Game,4th Down Conversion Per.,Red Zone Attempts,Touchdowns Scored After the Team Entered the Red Zone,Per. of the Time a Team Reaches the Red Zone and Scores a Touchdown,Year
-0,Team Stats,Steelers,236.0,106.0,44.9,15.0,11.0,73.3,52.0,27.0,51.9,2022.0
-1,Opp. Stats,Steelers,216.0,85.0,39.4,21.0,13.0,61.9,47.0,26.0,55.3,2022.0
-2,Lg Rank Offense,Steelers,,,7.0,,,3.0,,,23.0,2022.0
-3,Lg Rank Defense,Steelers,,,18.0,,,26.0,,,17.0,2022.0
+,Player,3rd Down Attempts in Game,3rd Down Conversions,3rd Down Conversion Per.,4th Down Attempts in Game,4th Down Conversions in Game,4th Down Conversion Per.,Red Zone Attempts,Touchdowns Scored After the Team Entered the Red Zone,Per. of the Time a Team Reaches the Red Zone and Scores a Touchdown,Team,Year
+Team Stats,Team Stats,236.0,106.0,44.9,15.0,11.0,73.3,52.0,27.0,51.9,Steelers,2022
+Opp. Stats,Opp. Stats,216.0,85.0,39.4,21.0,13.0,61.9,47.0,26.0,55.3,Steelers,2022
+Lg Rank Offense,Lg Rank Offense,0.0,0.0,7.0,0.0,0.0,3.0,0.0,0.0,23,Steelers,2022
+Lg Rank Defense,Lg Rank Defense,0.0,0.0,18.0,0.0,0.0,26.0,0.0,0.0,17,Steelers,2022

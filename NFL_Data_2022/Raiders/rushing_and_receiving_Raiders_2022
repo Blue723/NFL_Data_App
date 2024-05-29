@@ -1,17 +1,17 @@
-,No.,Team,Player,Age,Position,Games Played,Games Started as an Offensive or Defensive Player,Rushing Attempts,Rushing Yards Gained,Rushing Touchdown,First Downs Rushing,Rushing Success Rate,Longest Rushing Attempt,Rushing Yards per Attempt,Rushing Yards per Game,Rushing Attempts per Game,Pass Targets,Receptions,Receiving Yards,Receiving Yards per Reception,Receiving Touchdowns,First Downs Receiving,Receiving Success Rate,Longest Reception,Receptions per Game,Receiving Yards per Game,Catch Per.,Receiving Yards per Target,Touches: Rushing Attempts and Receptions,Scrimmage Yards per Touch: Rushing + Receiving Yardage per Opportunity,Yards from Scrimmage: Receiving and Rushing Yards,Rushing and Receiving Touchdowns,Lost and Recovered Fumbles,Year
-0,28,Raiders,Josh Jacobs,24,RB,17,17,340,1653,12,93,57.4,86,4.9,97.2,20.0,64,53,400,7.5,0,16,50.0,43,3.1,23.5,82.8,6.3,393,5.2,2053,12,3,2022
-1,4,Raiders,Derek Carr,31,QB,15,15,24,102,0,10,50.0,20,4.3,6.8,1.6,0,0,0,,0,0,,0,,,0.0,,24,4.3,102,0,4,2022
-2,34,Raiders,Brandon Bolden,32,RB,16,0,17,66,0,3,35.3,12,3.9,4.1,1.1,9,9,57,6.3,1,2,44.4,18,0.6,3.6,100.0,6.3,26,4.7,123,1,0,2022
-3,35,Raiders,Zamir White,23,RB,14,0,17,70,0,4,41.2,22,4.1,5.0,1.2,0,0,0,,0,0,,0,,,0.0,,17,4.1,70,0,0,2022
-4,3,Raiders,Jarrett Stidham,26,QB,5,2,14,84,0,7,85.7,11,6.0,16.8,2.8,0,0,0,,0,0,,0,,,0.0,,14,6.0,84,0,3,2022
-5,10,Raiders,Mack Hollins,29,WR,17,16,4,40,0,2,75.0,17,10.0,2.4,0.2,94,57,690,12.1,4,34,51.1,60,3.4,40.6,60.6,7.3,61,12.0,730,4,0,2022
-6,22,Raiders,Ameer Abdullah,29,RB,17,0,4,20,0,2,75.0,7,5.0,1.2,0.2,32,25,211,8.4,1,8,34.4,23,1.5,12.4,78.1,6.6,29,8.0,231,1,0,2022
-7,19,Raiders,DJ Turner,25,WR,9,0,4,26,0,1,50.0,18,6.5,2.9,0.4,1,0,0,,0,0,0.0,0,0.0,0.0,0.0,0.0,4,6.5,26,0,1,2022
-8,17,Raiders,Davante Adams,30,WR,17,17,3,-1,0,0,0.0,4,-0.3,-0.1,0.2,180,100,1516,15.2,14,65,46.1,60,5.9,89.2,55.6,8.4,103,14.7,1515,14,1,2022
-9,41,Raiders,Matthias Farley,30,S,17,0,1,-3,0,0,0.0,-3,-3.0,-0.2,0.1,0,0,0,,0,0,,0,,,0.0,,1,-3.0,-3,0,0,2022
-10,13,Raiders,Hunter Renfrow,27,WR,10,1,0,0,0,0,,0,,,,50,36,330,9.2,2,18,52.0,27,3.6,33.0,72.0,6.6,36,9.2,330,2,3,2022
-11,87,Raiders,Foster Moreau,25,TE,15,14,0,2,0,0,,0,,0.1,0.0,54,33,420,12.7,2,24,51.9,33,2.2,28.0,61.1,7.8,33,12.8,422,2,1,2022
-12,83,Raiders,Darren Waller,30,TE,9,6,0,0,0,0,,0,,,,43,28,388,13.9,3,18,46.5,34,3.1,43.1,65.1,9.0,28,13.9,388,3,0,2022
-13,84,Raiders,Keelan Cole,29,WR,14,3,0,0,0,0,,0,,,,21,10,141,14.1,1,8,47.6,30,0.7,10.1,47.6,6.7,10,14.1,141,1,1,2022
-14,45,Raiders,Jakob Johnson,28,FB,17,9,0,0,0,0,,0,,,,6,5,10,2.0,0,0,0.0,5,0.3,0.6,83.3,1.7,5,2.0,10,0,0,2022
-15,80,Raiders,Jesper Horsted,25,TE,15,0,0,0,0,0,,0,,,,4,3,19,6.3,0,0,25.0,9,0.2,1.3,75.0,4.8,3,6.3,19,0,0,2022
+,No.,Player,Age,Position,Games Played,Games Started as an Offensive or Defensive Player,Rushing Attempts,Rushing Yards Gained,Rushing Touchdown,First Downs Rushing,Rushing Success Rate,Longest Rushing Attempt,Rushing Yards per Attempt,Rushing Yards per Game,Rushing Attempts per Game,Pass Targets,Receptions,Receiving Yards,Receiving Yards per Reception,Receiving Touchdowns,First Downs Receiving,Receiving Success Rate,Longest Reception,Receptions per Game,Receiving Yards per Game,Catch Per.,Receiving Yards per Target,Touches: Rushing Attempts and Receptions,Scrimmage Yards per Touch: Rushing + Receiving Yardage per Opportunity,Yards from Scrimmage: Receiving and Rushing Yards,Rushing and Receiving Touchdowns,Lost and Recovered Fumbles,Team,Year
+28,28,Josh Jacobs,24,RB,17,17,340,1653,12,93,57.4,86,4.9,97.2,20.0,64,53,400,7.5,0,16,50.0,43,3.1,23.5,82.8,6.3,393,5.2,2053,12,3,Raiders,2022
+4,4,Derek Carr,31,QB,15,15,24,102,0,10,50.0,20,4.3,6.8,1.6,0,0,0,0.0,0,0,0.0,0,0.0,0.0,0.0,0.0,24,4.3,102,0,4,Raiders,2022
+34,34,Brandon Bolden,32,RB,16,0,17,66,0,3,35.3,12,3.9,4.1,1.1,9,9,57,6.3,1,2,44.4,18,0.6,3.6,100.0,6.3,26,4.7,123,1,0,Raiders,2022
+35,35,Zamir White,23,RB,14,0,17,70,0,4,41.2,22,4.1,5.0,1.2,0,0,0,0.0,0,0,0.0,0,0.0,0.0,0.0,0.0,17,4.1,70,0,0,Raiders,2022
+3,3,Jarrett Stidham,26,QB,5,2,14,84,0,7,85.7,11,6.0,16.8,2.8,0,0,0,0.0,0,0,0.0,0,0.0,0.0,0.0,0.0,14,6.0,84,0,3,Raiders,2022
+10,10,Mack Hollins,29,WR,17,16,4,40,0,2,75.0,17,10.0,2.4,0.2,94,57,690,12.1,4,34,51.1,60,3.4,40.6,60.6,7.3,61,12.0,730,4,0,Raiders,2022
+22,22,Ameer Abdullah,29,RB,17,0,4,20,0,2,75.0,7,5.0,1.2,0.2,32,25,211,8.4,1,8,34.4,23,1.5,12.4,78.1,6.6,29,8.0,231,1,0,Raiders,2022
+19,19,DJ Turner,25,WR,9,0,4,26,0,1,50.0,18,6.5,2.9,0.4,1,0,0,0.0,0,0,0.0,0,0.0,0.0,0.0,0.0,4,6.5,26,0,1,Raiders,2022
+17,17,Davante Adams,30,WR,17,17,3,-1,0,0,0.0,4,-0.3,-0.1,0.2,180,100,1516,15.2,14,65,46.1,60,5.9,89.2,55.6,8.4,103,14.7,1515,14,1,Raiders,2022
+41,41,Matthias Farley,30,S,17,0,1,-3,0,0,0.0,-3,-3.0,-0.2,0.1,0,0,0,0.0,0,0,0.0,0,0.0,0.0,0.0,0.0,1,-3.0,-3,0,0,Raiders,2022
+13,13,Hunter Renfrow,27,WR,10,1,0,0,0,0,0.0,0,0.0,0.0,0.0,50,36,330,9.2,2,18,52.0,27,3.6,33.0,72.0,6.6,36,9.2,330,2,3,Raiders,2022
+87,87,Foster Moreau,25,TE,15,14,0,2,0,0,0.0,0,0.0,0.1,0.0,54,33,420,12.7,2,24,51.9,33,2.2,28.0,61.1,7.8,33,12.8,422,2,1,Raiders,2022
+83,83,Darren Waller,30,TE,9,6,0,0,0,0,0.0,0,0.0,0.0,0.0,43,28,388,13.9,3,18,46.5,34,3.1,43.1,65.1,9.0,28,13.9,388,3,0,Raiders,2022
+84,84,Keelan Cole,29,WR,14,3,0,0,0,0,0.0,0,0.0,0.0,0.0,21,10,141,14.1,1,8,47.6,30,0.7,10.1,47.6,6.7,10,14.1,141,1,1,Raiders,2022
+45,45,Jakob Johnson,28,FB,17,9,0,0,0,0,0.0,0,0.0,0.0,0.0,6,5,10,2.0,0,0,0.0,5,0.3,0.6,83.3,1.7,5,2.0,10,0,0,Raiders,2022
+80,80,Jesper Horsted,25,WR,15,0,0,0,0,0,0.0,0,0.0,0.0,0.0,4,3,19,6.3,0,0,25.0,9,0.2,1.3,75.0,4.8,3,6.3,19,0,0,Raiders,2022

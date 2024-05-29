@@ -1,22 +1,20 @@
-,Week,Team,Day,Date,Time,Win/Loss,Overtime,Team Record,Home/Away,Opponent,Points Scored,Points Allowed,Offense 1st Down,Total Yards Gained of Offense,Total yards Gained by Passing,Total Yards Gained by Rushing,Offense Turnovers,Defense 1st Down,Total Yards Allowed by Defense,Total Passing Yards Allowed by Defense,Total Rushing Yards Allowed by Defense,Defense Turnovers,Offense,Defense,Sp. Tms,Year
-0,0,Jaguars,Sun,September 11,,L,0,0-1,away,Washington Commanders,22,28,24,383,260,123,1,26,390,305,85,3,3.64,-9.54,-0.26,2022
-1,1,Jaguars,Sun,September 18,,W,0,1-1,home,Indianapolis Colts,24,0,21,331,235,96,0,9,218,164,54,3,7.05,20.67,-3.43,2022
-2,2,Jaguars,Sun,September 25,,W,0,2-1,away,Los Angeles Chargers,38,10,25,413,262,151,0,16,312,286,26,2,18.06,10.35,-2.6,2022
-3,3,Jaguars,Sun,October 2,,L,0,2-2,away,Philadelphia Eagles,21,29,13,219,148,71,5,25,401,191,210,1,-11.06,0.18,1.97,2022
-4,4,Jaguars,Sun,October 9,,L,0,2-3,home,Houston Texans,6,13,22,422,286,136,2,15,248,132,116,0,-2.39,2.0,-3.89,2022
-5,5,Jaguars,Sun,October 16,,L,0,2-4,away,Indianapolis Colts,27,34,25,379,136,243,1,29,434,389,45,0,16.47,-21.98,-3.81,2022
-6,6,Jaguars,Sun,October 23,,L,0,2-5,home,New York Giants,17,23,27,452,310,142,1,27,436,200,236,0,14.14,-17.0,2.5,2022
-7,7,Jaguars,Sun,October 30,,L,0,2-6,home,Denver Broncos,17,21,24,305,114,191,2,18,331,230,101,1,-1.81,-4.66,-3.24,2022
-8,8,Jaguars,Sun,November 6,,W,0,3-6,home,Las Vegas Raiders,27,20,22,403,235,168,1,16,321,248,73,1,13.11,0.43,-2.69,2022
-9,9,Jaguars,Sun,November 13,,L,0,3-7,away,Kansas City Chiefs,17,27,17,315,240,75,0,26,486,331,155,3,3.86,-23.27,7.32,2022
-10,10,Jaguars,,,,,0,,home,<strong>Bye Week</strong>,0,0,0,0,0,0,0,0,0,0,0,0,,,,2022
-11,11,Jaguars,Sun,November 27,,W,0,4-7,home,Baltimore Ravens,28,27,18,332,294,38,1,24,415,253,162,2,5.31,-8.53,1.38,2022
-12,12,Jaguars,Sun,December 4,,L,0,4-8,away,Detroit Lions,14,40,14,266,171,95,1,31,437,337,100,0,-3.84,-25.2,-0.8,2022
-13,13,Jaguars,Sun,December 11,,W,0,5-8,away,Tennessee Titans,36,22,22,428,368,60,0,22,364,227,137,4,13.06,3.01,-3.47,2022
-14,14,1,1,1,1.0,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1.0,1.0,1.0,1
-15,15,Jaguars,Thu,December 22,,W,0,7-8,away,New York Jets,19,3,19,365,218,147,1,10,227,161,66,2,3.0,14.15,-5.11,2022
-16,16,Jaguars,Sun,January 1,,W,0,8-8,away,Houston Texans,31,3,20,337,168,169,2,13,277,193,84,1,4.68,23.38,-4.1,2022
-17,17,Jaguars,Sat,January 7,,W,0,9-8,home,Tennessee Titans,20,16,13,222,203,19,1,19,312,165,147,2,-4.3,9.68,-1.28,2022
-18,18,Jaguars,,<strong>Playoffs</strong>,,,0,,home,,0,0,0,0,0,0,0,0,0,0,0,0,,,,2022
-19,19,Jaguars,Sat,January 14,,W,0,10-8,home,Los Angeles Chargers,31,30,24,390,273,117,5,18,320,253,67,0,3.13,-3.29,0.98,2022
-20,20,Jaguars,Sat,January 21,,L,0,10-9,away,Kansas City Chiefs,20,27,20,349,205,144,2,23,362,218,144,0,4.86,-13.73,0.1,2022
+,Week,Day,Date,Time,Win/Loss,Overtime,Team Record,Home/Away,Opponent,Points Scored,Points Allowed,Offense 1st Down,Total Yards Gained of Offense,Total yards Gained by Passing,Total Yards Gained by Rushing,Offense Turnovers,Defense 1st Down,Total Yards Allowed by Defense,Total Passing Yards Allowed by Defense,Total Rushing Yards Allowed by Defense,Defense Turnovers,Offense,Defense,Sp. Tms,Team,Year
+0,1,Sun,2022-09-11,nan,Loss,0,0-1,away,Washington Commanders,22,28,24,383,260,123,1,26,390,305,85,3,3.64,-9.54,-0.26,Jaguars,2022
+1,2,Sun,2022-09-18,nan,Win,0,1-1,home,Indianapolis Colts,24,0,21,331,235,96,0,9,218,164,54,3,7.05,20.67,-3.43,Jaguars,2022
+2,3,Sun,2022-09-25,nan,Win,0,2-1,away,Los Angeles Chargers,38,10,25,413,262,151,0,16,312,286,26,2,18.06,10.35,-2.6,Jaguars,2022
+3,4,Sun,2022-10-02,nan,Loss,0,2-2,away,Philadelphia Eagles,21,29,13,219,148,71,5,25,401,191,210,1,-11.06,0.18,1.97,Jaguars,2022
+4,5,Sun,2022-10-09,nan,Loss,0,2-3,home,Houston Texans,6,13,22,422,286,136,2,15,248,132,116,0,-2.39,2.0,-3.89,Jaguars,2022
+5,6,Sun,2022-10-16,nan,Loss,0,2-4,away,Indianapolis Colts,27,34,25,379,136,243,1,29,434,389,45,0,16.47,-21.98,-3.81,Jaguars,2022
+6,7,Sun,2022-10-23,nan,Loss,0,2-5,home,New York Giants,17,23,27,452,310,142,1,27,436,200,236,0,14.14,-17.0,2.5,Jaguars,2022
+7,8,Sun,2022-10-30,nan,Loss,0,2-6,home,Denver Broncos,17,21,24,305,114,191,2,18,331,230,101,1,-1.81,-4.66,-3.24,Jaguars,2022
+8,9,Sun,2022-11-06,nan,Win,0,3-6,home,Las Vegas Raiders,27,20,22,403,235,168,1,16,321,248,73,1,13.11,0.43,-2.69,Jaguars,2022
+9,10,Sun,2022-11-13,nan,Loss,0,3-7,away,Kansas City Chiefs,17,27,17,315,240,75,0,26,486,331,155,3,3.86,-23.27,7.32,Jaguars,2022
+10,12,Sun,2022-11-27,nan,Win,0,4-7,home,Baltimore Ravens,28,27,18,332,294,38,1,24,415,253,162,2,5.31,-8.53,1.38,Jaguars,2022
+11,13,Sun,2022-12-04,nan,Loss,0,4-8,away,Detroit Lions,14,40,14,266,171,95,1,31,437,337,100,0,-3.84,-25.2,-0.8,Jaguars,2022
+12,14,Sun,2022-12-11,nan,Win,0,5-8,away,Tennessee Titans,36,22,22,428,368,60,0,22,364,227,137,4,13.06,3.01,-3.47,Jaguars,2022
+13,15,Sun,2022-12-18,nan,Win,1,6-8,home,Dallas Cowboys,40,34,26,503,311,192,3,24,397,243,154,2,16.24,-8.92,0.94,Jaguars,2022
+14,16,Thu,2022-12-22,nan,Win,0,7-8,away,New York Jets,19,3,19,365,218,147,1,10,227,161,66,2,3.0,14.15,-5.11,Jaguars,2022
+15,17,Sun,2023-01-01,nan,Win,0,8-8,away,Houston Texans,31,3,20,337,168,169,2,13,277,193,84,1,4.68,23.38,-4.1,Jaguars,2022
+16,18,Sat,2023-01-07,nan,Win,0,9-8,home,Tennessee Titans,20,16,13,222,203,19,1,19,312,165,147,2,-4.3,9.68,-1.28,Jaguars,2022
+17,20,Sat,2023-01-14,nan,Win,0,10-8,home,Los Angeles Chargers,31,30,24,390,273,117,5,18,320,253,67,0,3.13,-3.29,0.98,Jaguars,2022
+18,21,Sat,2023-01-21,nan,Loss,0,10-9,away,Kansas City Chiefs,20,27,20,349,205,144,2,23,362,218,144,0,4.86,-13.73,0.1,Jaguars,2022

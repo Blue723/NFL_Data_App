@@ -1,6 +1,6 @@
-,No.,Team,Player,Age,Position,Games Played,Games Started,FGA 0-19,FGM 0-19,FGA 20-29,FGM 20-29,FGA 30-39,FGM 30-39,FGA 40-49,FGM 40-49,FGA 50+,FGM 50+,Field Goals Attempted,Field Goals Made,Longest Field Goal Made,Per. of Field Goals Made,Extra Points Attempted,Extra Points Made,Extra Point Per.,Kickoffs,Kickoff Yards,Kickoff Touchbacks,Per. Kickoff was a Touchback,Kickoff Average Yardage,Year
-0,5,Cardinals,Matt Prater,38,K,13,0,0,0,1,1,10,10,8,6,6,5,25,22,57,88.0,18,17,94.4,49,3098,34,69.4,63.2,2022
-1,15,Cardinals,Matt Ammendola,26,K,2,0,0,0,2,2,0,0,1,0,0,0,3,2,23,66.7,3,2,66.7,6,390,6,100.0,65.0,2022
-2,15,Cardinals,Rodrigo Blankenship,25,K,2,0,0,0,1,1,0,0,0,0,1,1,2,2,50,100.0,3,2,66.7,14,916,13,92.9,65.4,2022
-3,15,Cardinals,Tristan Vizcaino,26,K,1,0,0,0,0,0,1,1,1,1,0,0,2,2,46,100.0,3,3,100.0,6,386,4,66.7,64.3,2022
-4,26,Cardinals,Eno Benjamin,23,RB,10,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0.0,3,158,0,0.0,52.7,2022
+,No.,Player,Age,Position,Games Played,Games Started,FGA 0-19,FGM 0-19,FGA 20-29,FGM 20-29,FGA 30-39,FGM 30-39,FGA 40-49,FGM 40-49,FGA 50+,FGM 50+,Field Goals Attempted,Field Goals Made,Longest Field Goal Made,Per. of Field Goals Made,Extra Points Attempted,Extra Points Made,Extra Point Per.,Kickoffs,Kickoff Yards,Kickoff Touchbacks,Per. Kickoff was a Touchback,Kickoff Average Yardage,Team,Year
+5,5,Matt Prater,38,K,13,0,0,0,1,1,10,10,8,6,6,5,25,22,57,88.0,18,17,94.4,49,3098,34,69.4,63.2,Cardinals,2022
+15,15,Matt Ammendola,26,K,2,0,0,0,2,2,0,0,1,0,0,0,3,2,23,66.7,3,2,66.7,6,390,6,100.0,65.0,Cardinals,2022
+15,15,Rodrigo Blankenship,25,K,2,0,0,0,1,1,0,0,0,0,1,1,2,2,50,100.0,3,2,66.7,14,916,13,92.9,65.4,Cardinals,2022
+15,15,Tristan Vizcaino,26,K,1,0,0,0,0,0,1,1,1,1,0,0,2,2,46,100.0,3,3,100.0,6,386,4,66.7,64.3,Cardinals,2022
+26,26,Eno Benjamin,23,RB,10,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0.0,3,158,0,0.0,52.7,Cardinals,2022

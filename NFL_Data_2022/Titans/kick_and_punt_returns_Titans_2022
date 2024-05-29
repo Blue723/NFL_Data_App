@@ -1,13 +1,13 @@
-,No.,Team,Player,Age,Position,Games Played,Games Started,Punts Returned,Punts Return Yardage,Punts Returned for Touchdown,Longest Punt Return,Yards per Punt Return,Kickoff Returns,Yardage for Kickoffs Returned,Kickoffs Returned for a Touchdown,Longest Kickoff Return,Yards per Kickoff Return,All-purpose Yards,Year
-0,25,Titans,Hassan Haskins,23,RB,15,1,0,0,0,0,,19,414,0,37,21.8,564,2022
-1,80,Titans,C.J. Board,29,WR,4,0,14,147,0,19,10.5,4,82,0,22,20.5,235,2022
-2,2,Titans,Robert Woods,30,WR,17,15,11,90,0,21,8.2,0,0,0,0,,617,2022
-3,36,Titans,Julius Chestnut,22,RB,6,0,0,0,0,0,,10,215,0,33,21.5,268,2022
-4,18,Titans,Kyle Philips,23,WR,4,0,5,62,0,46,12.4,0,0,0,0,,140,2022
-5,40,Titans,Dontrell Hilliard,27,RB,12,1,2,4,0,4,2.0,1,23,0,23,23.0,349,2022
-6,23,Titans,Trenton Cannon,28,RB,2,0,0,0,0,0,,2,33,0,19,16.5,33,2022
-7,12,Titans,Mason Kinsey,24,WR,2,0,2,0,0,0,0.0,0,0,0,0,,4,2022
-8,37,Titans,Amani Hooker,24,DB,9,9,1,0,0,0,0.0,0,0,0,0,,0,2022
-9,81,Titans,Austin Hooper,28,TE,17,2,0,0,0,0,,1,0,0,2,0.0,444,2022
-10,29,Titans,Josh Thompson,24,DB,6,0,1,0,0,0,0.0,0,0,0,0,,0,2022
-11,33,Titans,Jonathan Ward,25,RB,3,0,0,0,0,0,,1,25,0,25,25.0,57,2022
+,No.,Player,Age,Position,Games Played,Games Started,Punts Returned,Punts Return Yardage,Punts Returned for Touchdown,Longest Punt Return,Yards per Punt Return,Kickoff Returns,Yardage for Kickoffs Returned,Kickoffs Returned for a Touchdown,Longest Kickoff Return,Yards per Kickoff Return,All-purpose Yards,Team,Year
+25,25,Hassan Haskins,23,RB,15,1,0,0,0,0,0.0,19,414,0,37,21.8,564,Titans,2022
+80,80,C.J. Board,29,WR,4,0,14,147,0,19,10.5,4,82,0,22,20.5,235,Titans,2022
+2,2,Robert Woods,30,WR,17,15,11,90,0,21,8.2,0,0,0,0,0.0,617,Titans,2022
+36,36,Julius Chestnut,22,RB,6,0,0,0,0,0,0.0,10,215,0,33,21.5,268,Titans,2022
+18,18,Kyle Philips,23,WR,4,0,5,62,0,46,12.4,0,0,0,0,0.0,140,Titans,2022
+40,40,Dontrell Hilliard,27,RB,12,1,2,4,0,4,2.0,1,23,0,23,23.0,349,Titans,2022
+23,23,Trenton Cannon,28,RB,2,0,0,0,0,0,0.0,2,33,0,19,16.5,33,Titans,2022
+12,12,Mason Kinsey,24,WR,2,0,2,0,0,0,0.0,0,0,0,0,0.0,4,Titans,2022
+37,37,Amani Hooker,24,FS,9,9,1,0,0,0,0.0,0,0,0,0,0.0,0,Titans,2022
+81,81,Austin Hooper,28,TE,17,2,0,0,0,0,0.0,1,0,0,2,0.0,444,Titans,2022
+29,29,Josh Thompson,24,DB,6,0,1,0,0,0,0.0,0,0,0,0,0.0,0,Titans,2022
+33,33,Jonathan Ward,25,RB,3,0,0,0,0,0,0.0,1,25,0,25,25.0,57,Titans,2022

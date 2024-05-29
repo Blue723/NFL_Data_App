@@ -1,15 +1,15 @@
-,No.,Team,Player,Age,Pos,Games Played,Games Started,Rush TD,Reception TD,Punt Return TD,Kick Return TD,Fumble Return TD,Interception TD,Other TD,All Touchdown Scored,2-Point Conversions Made,Two-Point Conversions Attempted,Defensive Two-Point Conversions,Extra Points Made,Extra Points Allowed,Field Goals Made,Field Goals Attempted,Safeties Scored by Player/Team,Total Points Scored by all Means,Poins per Game,Year
-0,14,Titans,Randy Bullock,33,K,15,0,0,0,0,0,0,0,0,0,0,0,0,28,28,17,20,,79,5.3,2022
-1,22,Titans,Derrick Henry,28,RB,16,16,13,0,0,0,0,0,0,13,0,0,0,0,0,0,0,,78,4.9,2022
-2,40,Titans,Dontrell Hilliard,27,RB,12,1,0,4,0,0,0,0,0,4,0,0,0,0,0,0,0,,24,2.0,2022
-3,85,Titans,Chigoziem Okonkwo,23,TE,17,8,0,3,0,0,0,0,0,3,1,0,0,0,0,0,0,,20,1.2,2022
-4,15,Titans,Nick Westbrook-Ikhine,25,WR,17,13,0,3,0,0,0,0,0,3,0,0,0,0,0,0,0,,18,1.1,2022
-5,16,Titans,Treylon Burks,22,WR,11,6,0,1,0,0,1,0,0,2,0,0,0,0,0,0,0,,12,1.1,2022
-6,81,Titans,Austin Hooper,28,TE,17,2,0,2,0,0,0,0,0,2,0,0,0,0,0,0,0,,12,0.7,2022
-7,17,Titans,Ryan Tannehill,34,QB,12,12,2,0,0,0,0,0,0,2,0,0,0,0,0,0,0,,12,1.0,2022
-8,2,Titans,Robert Woods,30,WR,17,15,0,2,0,0,0,0,0,2,0,0,0,0,0,0,0,,12,0.7,2022
-9,11,Titans,Caleb Shudak,25,K,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,3,4,,10,10.0,2022
-10,47,Titans,Andrew Adams,30,DB,13,11,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,,6,0.5,2022
-11,87,Titans,Geoff Swaim,29,TE,17,13,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,,6,0.4,2022
-12,7,Titans,Malik Willis,23,QB,8,3,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,,6,0.8,2022
-13,6,Titans,Josh Lambo,32,K,1,0,0,0,0,0,0,0,0,0,0,0,0,3,4,0,0,,3,3.0,2022
+,No.,Player,Age,Pos,Games Played,Games Started,Rush TD,Reception TD,Punt Return TD,Kick Return TD,Fumble Return TD,Interception TD,Other TD,All Touchdown Scored,2-Point Conversions Made,Two-Point Conversions Attempted,Defensive Two-Point Conversions,Extra Points Made,Extra Points Allowed,Field Goals Made,Field Goals Attempted,Safeties Scored by Player/Team,Total Points Scored by all Means,Poins per Game,Team,Year
+14,14,Randy Bullock,33,K,15,0,0,0,0,0,0,0,0,0,0,0,0,28,28,17,20,0,79,5.3,Titans,2022
+22,22,Derrick Henry,28,RB,16,16,13,0,0,0,0,0,0,13,0,0,0,0,0,0,0,0,78,4.9,Titans,2022
+40,40,Dontrell Hilliard,27,RB,12,1,0,4,0,0,0,0,0,4,0,0,0,0,0,0,0,0,24,2.0,Titans,2022
+85,85,Chigoziem Okonkwo,23,TE,17,8,0,3,0,0,0,0,0,3,1,0,0,0,0,0,0,0,20,1.2,Titans,2022
+15,15,Nick Westbrook-Ikhine,25,WR,17,13,0,3,0,0,0,0,0,3,0,0,0,0,0,0,0,0,18,1.1,Titans,2022
+16,16,Treylon Burks,22,WR,11,6,0,1,0,0,1,0,0,2,0,0,0,0,0,0,0,0,12,1.1,Titans,2022
+81,81,Austin Hooper,28,TE,17,2,0,2,0,0,0,0,0,2,0,0,0,0,0,0,0,0,12,0.7,Titans,2022
+17,17,Ryan Tannehill,34,QB,12,12,2,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,12,1.0,Titans,2022
+2,2,Robert Woods,30,WR,17,15,0,2,0,0,0,0,0,2,0,0,0,0,0,0,0,0,12,0.7,Titans,2022
+11,11,Caleb Shudak,25,K,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,3,4,0,10,10.0,Titans,2022
+47,47,Andrew Adams,30,FS,13,11,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,6,0.5,Titans,2022
+87,87,Geoff Swaim,29,TE,17,13,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,6,0.4,Titans,2022
+7,7,Malik Willis,23,QB,8,3,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,6,0.8,Titans,2022
+6,6,Josh Lambo,32,K,1,0,0,0,0,0,0,0,0,0,0,0,0,3,4,0,0,0,3,3.0,Titans,2022

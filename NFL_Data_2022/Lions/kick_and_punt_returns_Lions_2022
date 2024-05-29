@@ -1,6 +1,6 @@
-,No.,Team,Player,Age,Position,Games Played,Games Started,Punts Returned,Punts Return Yardage,Punts Returned for Touchdown,Longest Punt Return,Yards per Punt Return,Kickoff Returns,Yardage for Kickoffs Returned,Kickoffs Returned for a Touchdown,Longest Kickoff Return,Yards per Kickoff Return,All-purpose Yards,Year
-0,42,Lions,Justin Jackson,26,RB,16,0,0,0,0,0,,23,613,0,42,26.7,884,2022
-1,11,Lions,Kalif Raymond,28,WR,17,7,20,264,1,47,13.2,2,65,0,52,32.5,981,2022
-2,15,Lions,Maurice Alexander,25,WR,4,0,0,0,0,0,,6,146,0,47,24.3,153,2022
-3,84,Lions,Shane Zylstra,26,TE,13,2,0,0,0,0,,2,46,0,26,23.0,106,2022
-4,13,Lions,Brandon Zylstra,29,WR,2,0,0,0,0,0,,1,19,0,19,19.0,19,2022
+,No.,Player,Age,Position,Games Played,Games Started,Punts Returned,Punts Return Yardage,Punts Returned for Touchdown,Longest Punt Return,Yards per Punt Return,Kickoff Returns,Yardage for Kickoffs Returned,Kickoffs Returned for a Touchdown,Longest Kickoff Return,Yards per Kickoff Return,All-purpose Yards,Team,Year
+42,42,Justin Jackson,26,RB,16,0,0,0,0,0,0.0,23,613,0,42,26.7,884,Lions,2022
+11,11,Kalif Raymond,28,WR,17,7,20,264,1,47,13.2,2,65,0,52,32.5,981,Lions,2022
+15,15,Maurice Alexander,25,WR,4,0,0,0,0,0,0.0,6,146,0,47,24.3,153,Lions,2022
+84,84,Shane Zylstra,26,TE,13,2,0,0,0,0,0.0,2,46,0,26,23.0,106,Lions,2022
+13,13,Brandon Zylstra,29,WR,2,0,0,0,0,0,0.0,1,19,0,19,19.0,19,Lions,2022

@@ -1,23 +1,20 @@
-,Week,Team,Day,Date,Time,Win/Loss,Overtime,Team Record,Home/Away,Opponent,Points Scored,Points Allowed,Offense 1st Down,Total Yards Gained of Offense,Total yards Gained by Passing,Total Yards Gained by Rushing,Offense Turnovers,Defense 1st Down,Total Yards Allowed by Defense,Total Passing Yards Allowed by Defense,Total Rushing Yards Allowed by Defense,Defense Turnovers,Offense,Defense,Sp. Tms,Year
-0,0,1,1,1,1.0,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1.0,1.0,1.0,1
-1,1,Bengals,Sun,September 18,,L,0,0-2,away,Dallas Cowboys,17,20,19,254,165,89,0,19,337,230,107,1,0.76,-6.08,1.25,2022
-2,2,Bengals,Sun,September 25,,W,0,1-2,away,New York Jets,27,12,20,330,261,69,1,19,328,252,76,4,3.99,16.45,-6.98,2022
-3,3,Bengals,Thu,September 29,,W,0,2-2,home,Miami Dolphins,27,15,16,371,304,67,0,20,378,293,85,2,9.11,-0.48,3.73,2022
-4,4,Bengals,Sun,October 9,,L,0,2-3,away,Baltimore Ravens,17,19,20,291,190,101,1,22,325,170,155,1,3.22,-3.89,-1.19,2022
-5,5,Bengals,Sun,October 16,,W,0,3-3,away,New Orleans Saints,30,26,21,348,273,75,1,22,399,171,228,0,17.18,-9.06,-2.4,2022
-6,6,Bengals,Sun,October 23,,W,0,4-3,home,Atlanta Falcons,35,17,29,537,459,78,0,13,214,107,107,0,33.05,-3.19,-6.33,2022
-7,7,Bengals,Mon,October 31,,L,0,4-4,away,Cleveland Browns,13,32,15,229,193,36,2,24,440,268,172,2,-3.49,-15.92,-2.71,2022
-8,8,Bengals,Sun,November 6,,W,0,5-4,home,Carolina Panthers,42,21,30,464,223,241,0,13,228,164,64,3,30.2,-0.37,-12.97,2022
-9,9,Bengals,,,,,0,,home,<strong>Bye Week</strong>,0,0,0,0,0,0,0,0,0,0,0,0,,,,2022
-10,10,Bengals,Sun,November 20,,W,0,6-4,away,Pittsburgh Steelers,37,30,22,408,346,62,2,17,351,249,102,0,9.45,-3.17,2.27,2022
-11,11,Bengals,Sun,November 27,,W,0,7-4,away,Tennessee Titans,20,16,21,374,266,108,0,15,344,281,63,0,5.39,-4.57,5.94,2022
-12,12,Bengals,Sun,December 4,,W,0,8-4,home,Kansas City Chiefs,27,24,26,431,279,152,0,20,349,211,138,1,19.79,-16.21,1.75,2022
-13,13,Bengals,Sun,December 11,,W,0,9-4,home,Cleveland Browns,23,10,23,363,227,136,1,18,344,273,71,1,7.01,8.32,-3.29,2022
-14,14,Bengals,Sun,December 18,,W,0,10-4,away,Tampa Bay Buccaneers,34,23,20,237,184,53,1,25,396,304,92,4,1.78,1.98,7.2,2022
-15,15,Bengals,Sat,December 24,,W,0,11-4,away,New England Patriots,22,18,28,442,369,73,3,15,285,224,61,1,0.86,5.0,1.12,2022
-16,16,0,0,0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0
-17,17,Bengals,Sun,January 8,,W,0,12-4,home,Baltimore Ravens,27,16,15,257,202,55,1,20,386,276,110,4,-9.98,13.37,2.37,2022
-18,18,Bengals,,<strong>Playoffs</strong>,,,0,,home,,0,0,0,0,0,0,0,0,0,0,0,0,,,,2022
-19,19,Bengals,Sun,January 15,,W,0,13-4,home,Baltimore Ravens,24,17,18,234,183,51,1,23,364,209,155,2,0.7,1.77,2.72,2022
-20,20,Bengals,Sun,January 22,,W,0,14-4,away,Buffalo Bills,27,10,30,412,240,172,0,19,325,261,64,1,22.03,-3.52,-1.83,2022
-21,21,Bengals,Sun,January 29,,L,0,14-5,away,Kansas City Chiefs,20,23,18,309,238,71,2,23,357,315,42,1,4.06,-8.86,3.07,2022
+,Week,Day,Date,Time,Win/Loss,Overtime,Team Record,Home/Away,Opponent,Points Scored,Points Allowed,Offense 1st Down,Total Yards Gained of Offense,Total yards Gained by Passing,Total Yards Gained by Rushing,Offense Turnovers,Defense 1st Down,Total Yards Allowed by Defense,Total Passing Yards Allowed by Defense,Total Rushing Yards Allowed by Defense,Defense Turnovers,Offense,Defense,Sp. Tms,Team,Year
+0,1,Sun,2022-09-11,nan,Loss,1,0-1,home,Pittsburgh Steelers,20,23,32,432,299,133,5,13,267,192,75,0,-7.49,8.41,-4.85,Bengals,2022
+1,2,Sun,2022-09-18,nan,Loss,0,0-2,away,Dallas Cowboys,17,20,19,254,165,89,0,19,337,230,107,1,0.76,-6.08,1.25,Bengals,2022
+2,3,Sun,2022-09-25,nan,Win,0,1-2,away,New York Jets,27,12,20,330,261,69,1,19,328,252,76,4,3.99,16.45,-6.98,Bengals,2022
+3,4,Thu,2022-09-29,nan,Win,0,2-2,home,Miami Dolphins,27,15,16,371,304,67,0,20,378,293,85,2,9.11,-0.48,3.73,Bengals,2022
+4,5,Sun,2022-10-09,nan,Loss,0,2-3,away,Baltimore Ravens,17,19,20,291,190,101,1,22,325,170,155,1,3.22,-3.89,-1.19,Bengals,2022
+5,6,Sun,2022-10-16,nan,Win,0,3-3,away,New Orleans Saints,30,26,21,348,273,75,1,22,399,171,228,0,17.18,-9.06,-2.4,Bengals,2022
+6,7,Sun,2022-10-23,nan,Win,0,4-3,home,Atlanta Falcons,35,17,29,537,459,78,0,13,214,107,107,0,33.05,-3.19,-6.33,Bengals,2022
+7,8,Mon,2022-10-31,nan,Loss,0,4-4,away,Cleveland Browns,13,32,15,229,193,36,2,24,440,268,172,2,-3.49,-15.92,-2.71,Bengals,2022
+8,9,Sun,2022-11-06,nan,Win,0,5-4,home,Carolina Panthers,42,21,30,464,223,241,0,13,228,164,64,3,30.2,-0.37,-12.97,Bengals,2022
+9,11,Sun,2022-11-20,nan,Win,0,6-4,away,Pittsburgh Steelers,37,30,22,408,346,62,2,17,351,249,102,0,9.45,-3.17,2.27,Bengals,2022
+10,12,Sun,2022-11-27,nan,Win,0,7-4,away,Tennessee Titans,20,16,21,374,266,108,0,15,344,281,63,0,5.39,-4.57,5.94,Bengals,2022
+11,13,Sun,2022-12-04,nan,Win,0,8-4,home,Kansas City Chiefs,27,24,26,431,279,152,0,20,349,211,138,1,19.79,-16.21,1.75,Bengals,2022
+12,14,Sun,2022-12-11,nan,Win,0,9-4,home,Cleveland Browns,23,10,23,363,227,136,1,18,344,273,71,1,7.01,8.32,-3.29,Bengals,2022
+13,15,Sun,2022-12-18,nan,Win,0,10-4,away,Tampa Bay Buccaneers,34,23,20,237,184,53,1,25,396,304,92,4,1.78,1.98,7.2,Bengals,2022
+14,16,Sat,2022-12-24,nan,Win,0,11-4,away,New England Patriots,22,18,28,442,369,73,3,15,285,224,61,1,0.86,5.0,1.12,Bengals,2022
+15,18,Sun,2023-01-08,nan,Win,0,12-4,home,Baltimore Ravens,27,16,15,257,202,55,1,20,386,276,110,4,-9.98,13.37,2.37,Bengals,2022
+16,20,Sun,2023-01-15,nan,Win,0,13-4,home,Baltimore Ravens,24,17,18,234,183,51,1,23,364,209,155,2,0.7,1.77,2.72,Bengals,2022
+17,21,Sun,2023-01-22,nan,Win,0,14-4,away,Buffalo Bills,27,10,30,412,240,172,0,19,325,261,64,1,22.03,-3.52,-1.83,Bengals,2022
+18,22,Sun,2023-01-29,nan,Loss,0,14-5,away,Kansas City Chiefs,20,23,18,309,238,71,2,23,357,315,42,1,4.06,-8.86,3.07,Bengals,2022

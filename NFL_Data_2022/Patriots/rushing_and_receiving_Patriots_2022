@@ -1,18 +1,18 @@
-,No.,Team,Player,Age,Position,Games Played,Games Started as an Offensive or Defensive Player,Rushing Attempts,Rushing Yards Gained,Rushing Touchdown,First Downs Rushing,Rushing Success Rate,Longest Rushing Attempt,Rushing Yards per Attempt,Rushing Yards per Game,Rushing Attempts per Game,Pass Targets,Receptions,Receiving Yards,Receiving Yards per Reception,Receiving Touchdowns,First Downs Receiving,Receiving Success Rate,Longest Reception,Receptions per Game,Receiving Yards per Game,Catch Per.,Receiving Yards per Target,Touches: Rushing Attempts and Receptions,Scrimmage Yards per Touch: Rushing + Receiving Yardage per Opportunity,Yards from Scrimmage: Receiving and Rushing Yards,Rushing and Receiving Touchdowns,Lost and Recovered Fumbles,Year
-0,38,Patriots,Rhamondre Stevenson,24,RB,17,7,210,1040,5,49,45.7,49,5.0,61.2,12.4,88,69,421,6.1,1,13,39.8,40,4.1,24.8,78.4,4.8,279,5.2,1461,6,4,2022
-1,37,Patriots,Damien Harris,25,RB,11,9,106,462,3,23,50.0,30,4.4,42.0,9.6,23,17,97,5.7,0,4,43.5,15,1.5,8.8,73.9,4.2,123,4.5,559,3,0,2022
-2,10,Patriots,Mac Jones,24,QB,14,14,47,102,1,12,34.0,15,2.2,7.3,3.4,0,0,0,,0,0,,0,,,0.0,,47,2.2,102,1,5,2022
-3,36,Patriots,Kevin Harris,22,RB,5,1,18,52,1,3,33.3,14,2.9,10.4,3.6,0,0,0,,0,0,,0,,,0.0,,18,2.9,52,1,0,2022
-4,35,Patriots,Pierre Strong,24,RB,15,0,10,100,1,5,70.0,44,10.0,6.7,0.7,7,7,42,6.0,0,3,42.9,16,0.5,2.8,100.0,6.0,17,8.4,142,1,0,2022
-5,42,Patriots,J.J. Taylor,24,RB,1,0,10,9,0,0,0.0,5,0.9,9.0,10.0,1,1,8,8.0,0,0,100.0,8,1.0,8.0,100.0,8.0,11,1.5,17,0,0,2022
-6,4,Patriots,Bailey Zappe,23,QB,4,2,10,0,0,0,10.0,5,0.0,0.0,2.5,1,1,-6,-6.0,0,0,0.0,-6,0.3,-1.5,100.0,-6.0,11,-0.5,-6,0,4,2022
-7,84,Patriots,Kendrick Bourne,27,WR,16,2,6,39,0,2,33.3,29,6.5,2.4,0.4,48,35,434,12.4,1,22,54.2,41,2.2,27.1,72.9,9.0,41,11.5,473,1,2,2022
-8,11,Patriots,Tyquan Thornton,22,WR,13,9,3,16,1,1,33.3,19,5.3,1.2,0.2,45,22,247,11.2,2,13,40.0,29,1.7,19.0,48.9,5.5,25,10.5,263,3,0,2022
-9,16,Patriots,Jakobi Meyers,26,WR,14,13,2,-11,0,2,100.0,7,-5.5,-0.8,0.1,96,67,804,12.0,6,38,56.3,48,4.8,57.4,69.8,8.4,69,11.5,793,6,2,2022
-10,14,Patriots,Ty Montgomery,29,WR,1,0,2,-2,0,0,0.0,0,-1.0,-2.0,2.0,4,3,15,5.0,1,1,25.0,7,3.0,15.0,75.0,3.8,5,2.6,13,1,0,2022
-11,81,Patriots,Jonnu Smith,27,TE,14,8,1,5,0,1,100.0,5,5.0,0.4,0.1,38,27,245,9.1,0,9,47.4,53,1.9,17.5,71.1,6.4,28,8.9,250,0,1,2022
-12,85,Patriots,Hunter Henry,28,TE,17,14,0,0,0,0,,0,,,,59,41,509,12.4,2,23,50.8,39,2.4,29.9,69.5,8.6,41,12.4,509,2,0,2022
-13,15,Patriots,Nelson Agholor,29,WR,16,7,0,0,0,0,,0,,,,53,31,362,11.7,2,12,37.7,44,1.9,22.6,58.5,6.8,31,11.7,362,2,2,2022
-14,1,Patriots,DeVante Parker,29,WR,13,11,0,0,0,0,,0,,,,47,31,539,17.4,3,25,59.6,43,2.4,41.5,66.0,11.5,31,17.4,539,3,0,2022
-15,25,Patriots,Marcus Jones,24,DB,15,4,0,0,0,0,,0,,,,4,4,78,19.5,1,3,75.0,48,0.3,5.2,100.0,19.5,4,19.5,78,1,1,2022
-16,83,Patriots,Lil'Jordan Humphrey,24,WR,6,2,0,0,0,0,,0,,,,4,2,20,10.0,0,0,50.0,11,0.3,3.3,50.0,5.0,2,10.0,20,0,0,2022
+,No.,Player,Age,Position,Games Played,Games Started as an Offensive or Defensive Player,Rushing Attempts,Rushing Yards Gained,Rushing Touchdown,First Downs Rushing,Rushing Success Rate,Longest Rushing Attempt,Rushing Yards per Attempt,Rushing Yards per Game,Rushing Attempts per Game,Pass Targets,Receptions,Receiving Yards,Receiving Yards per Reception,Receiving Touchdowns,First Downs Receiving,Receiving Success Rate,Longest Reception,Receptions per Game,Receiving Yards per Game,Catch Per.,Receiving Yards per Target,Touches: Rushing Attempts and Receptions,Scrimmage Yards per Touch: Rushing + Receiving Yardage per Opportunity,Yards from Scrimmage: Receiving and Rushing Yards,Rushing and Receiving Touchdowns,Lost and Recovered Fumbles,Team,Year
+38,38,Rhamondre Stevenson,24,RB,17,7,210,1040,5,49,45.7,49,5.0,61.2,12.4,88,69,421,6.1,1,13,39.8,40,4.1,24.8,78.4,4.8,279,5.2,1461,6,4,Patriots,2022
+37,37,Damien Harris,25,RB,11,9,106,462,3,23,50.0,30,4.4,42.0,9.6,23,17,97,5.7,0,4,43.5,15,1.5,8.8,73.9,4.2,123,4.5,559,3,0,Patriots,2022
+10,10,Mac Jones,24,QB,14,14,47,102,1,12,34.0,15,2.2,7.3,3.4,0,0,0,0.0,0,0,0.0,0,0.0,0.0,0.0,0.0,47,2.2,102,1,5,Patriots,2022
+36,36,Kevin Harris,22,RB,5,1,18,52,1,3,33.3,14,2.9,10.4,3.6,0,0,0,0.0,0,0,0.0,0,0.0,0.0,0.0,0.0,18,2.9,52,1,0,Patriots,2022
+35,35,Pierre Strong,24,RB,15,0,10,100,1,5,70.0,44,10.0,6.7,0.7,7,7,42,6.0,0,3,42.9,16,0.5,2.8,100.0,6.0,17,8.4,142,1,0,Patriots,2022
+42,42,J.J. Taylor,24,RB,1,0,10,9,0,0,0.0,5,0.9,9.0,10.0,1,1,8,8.0,0,0,100.0,8,1.0,8.0,100.0,8.0,11,1.5,17,0,0,Patriots,2022
+4,4,Bailey Zappe,23,QB,4,2,10,0,0,0,10.0,5,0.0,0.0,2.5,1,1,-6,-6.0,0,0,0.0,-6,0.3,-1.5,100.0,-6.0,11,-0.5,-6,0,4,Patriots,2022
+84,84,Kendrick Bourne,27,WR,16,2,6,39,0,2,33.3,29,6.5,2.4,0.4,48,35,434,12.4,1,22,54.2,41,2.2,27.1,72.9,9.0,41,11.5,473,1,2,Patriots,2022
+11,11,Tyquan Thornton,22,WR,13,9,3,16,1,1,33.3,19,5.3,1.2,0.2,45,22,247,11.2,2,13,40.0,29,1.7,19.0,48.9,5.5,25,10.5,263,3,0,Patriots,2022
+16,16,Jakobi Meyers,26,WR,14,13,2,-11,0,2,100.0,7,-5.5,-0.8,0.1,96,67,804,12.0,6,38,56.3,48,4.8,57.4,69.8,8.4,69,11.5,793,6,2,Patriots,2022
+14,14,Ty Montgomery,29,WR,1,0,2,-2,0,0,0.0,0,-1.0,-2.0,2.0,4,3,15,5.0,1,1,25.0,7,3.0,15.0,75.0,3.8,5,2.6,13,1,0,Patriots,2022
+81,81,Jonnu Smith,27,TE,14,8,1,5,0,1,100.0,5,5.0,0.4,0.1,38,27,245,9.1,0,9,47.4,53,1.9,17.5,71.1,6.4,28,8.9,250,0,1,Patriots,2022
+85,85,Hunter Henry,28,TE,17,14,0,0,0,0,0.0,0,0.0,0.0,0.0,59,41,509,12.4,2,23,50.8,39,2.4,29.9,69.5,8.6,41,12.4,509,2,0,Patriots,2022
+15,15,Nelson Agholor,29,WR,16,7,0,0,0,0,0.0,0,0.0,0.0,0.0,53,31,362,11.7,2,12,37.7,44,1.9,22.6,58.5,6.8,31,11.7,362,2,2,Patriots,2022
+1,1,DeVante Parker,29,WR,13,11,0,0,0,0,0.0,0,0.0,0.0,0.0,47,31,539,17.4,3,25,59.6,43,2.4,41.5,66.0,11.5,31,17.4,539,3,0,Patriots,2022
+25,25,Marcus Jones,24,DB,15,4,0,0,0,0,0.0,0,0.0,0.0,0.0,4,4,78,19.5,1,3,75.0,48,0.3,5.2,100.0,19.5,4,19.5,78,1,1,Patriots,2022
+83,83,Lil'Jordan Humphrey,24,WR,6,2,0,0,0,0,0.0,0,0.0,0.0,0.0,4,2,20,10.0,0,0,50.0,11,0.3,3.3,50.0,5.0,2,10.0,20,0,0,Patriots,2022

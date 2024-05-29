@@ -1,3 +1,3 @@
-,No.,Team,Player,Age,Position,Games Played,Games Started,Punts Returned,Punts Return Yardage,Punts Returned for Touchdown,Longest Punt Return,Yards per Punt Return,Kickoff Returns,Yardage for Kickoffs Returned,Kickoffs Returned for a Touchdown,Longest Kickoff Return,Yards per Kickoff Return,All-purpose Yards,Year
-0,2,Cowboys,KaVontae Turpin,26,WR,17,0,29,303,0,52,10.4,21,508,0,63,24.2,837,2022
-1,49,Cowboys,Peyton Hendershot,23,TE,17,2,0,0,0,0,,1,18,0,18,18.0,123,2022
+,No.,Player,Age,Position,Games Played,Games Started,Punts Returned,Punts Return Yardage,Punts Returned for Touchdown,Longest Punt Return,Yards per Punt Return,Kickoff Returns,Yardage for Kickoffs Returned,Kickoffs Returned for a Touchdown,Longest Kickoff Return,Yards per Kickoff Return,All-purpose Yards,Team,Year
+2,2,KaVontae Turpin,26,WR,17,0,29,303,0,52,10.4,21,508,0,63,24.2,837,Cowboys,2022
+49,49,Peyton Hendershot,23,TE,17,2,0,0,0,0,0.0,1,18,0,18,18.0,123,Cowboys,2022

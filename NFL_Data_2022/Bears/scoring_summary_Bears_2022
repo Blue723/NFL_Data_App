@@ -1,14 +1,14 @@
-,No.,Team,Player,Age,Pos,Games Played,Games Started,Rush TD,Reception TD,Punt Return TD,Kick Return TD,Fumble Return TD,Interception TD,Other TD,All Touchdown Scored,2-Point Conversions Made,Two-Point Conversions Attempted,Defensive Two-Point Conversions,Extra Points Made,Extra Points Allowed,Field Goals Made,Field Goals Attempted,Safeties Scored by Player/Team,Total Points Scored by all Means,Poins per Game,Year
-0,2,Bears,Cairo Santos,31,K,16,0,0,0,0,0,0,0,0,0,0,0,0,27,32,21,23,,90,5.6,2022
-1,1,Bears,Justin Fields,23,QB,15,15,8,0,0,0,0,0,0,8,0,0,0,0,0,0,0,,48,3.2,2022
-2,85,Bears,Cole Kmet,23,TE,17,17,0,7,0,0,0,0,0,7,0,0,0,0,0,0,0,,42,2.5,2022
-3,32,Bears,David Montgomery,25,RB,16,16,5,1,0,0,0,0,0,6,0,0,0,0,0,0,0,,36,2.3,2022
-4,24,Bears,Khalil Herbert,24,RB,13,1,4,1,0,0,0,0,0,5,0,0,0,0,0,0,0,,30,2.3,2022
-5,18,Bears,Dante Pettis,27,WR,17,7,0,3,0,0,0,0,0,3,0,0,0,0,0,0,0,,18,1.1,2022
-6,10,Bears,Michael Badgley,27,K,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4,4,,12,12.0,2022
-7,12,Bears,Velus Jones Jr.,25,WR,12,2,1,1,0,0,0,0,0,2,0,0,0,0,0,0,0,,12,1.0,2022
-8,11,Bears,Darnell Mooney,25,WR,12,12,0,2,0,0,0,0,0,2,0,0,0,0,0,0,0,,12,1.0,2022
-9,13,Bears,Byron Pringle,29,WR,11,4,0,2,0,0,0,0,0,2,0,0,0,0,0,0,0,,12,1.1,2022
-10,8,Bears,N'Keal Harry,25,WR,7,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,,6,0.9,2022
-11,19,Bears,Equanimeous St. Brown,26,WR,16,16,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,,6,0.4,2022
-12,88,Bears,Trevon Wesco,27,TE,14,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,,2,0.1,2022
+,No.,Player,Age,Pos,Games Played,Games Started,Rush TD,Reception TD,Punt Return TD,Kick Return TD,Fumble Return TD,Interception TD,Other TD,All Touchdown Scored,2-Point Conversions Made,Two-Point Conversions Attempted,Defensive Two-Point Conversions,Extra Points Made,Extra Points Allowed,Field Goals Made,Field Goals Attempted,Safeties Scored by Player/Team,Total Points Scored by all Means,Poins per Game,Team,Year
+2,2,Cairo Santos,31,K,16,0,0,0,0,0,0,0,0,0,0,0,0,27,32,21,23,0,90,5.6,Bears,2022
+1,1,Justin Fields,23,QB,15,15,8,0,0,0,0,0,0,8,0,0,0,0,0,0,0,0,48,3.2,Bears,2022
+85,85,Cole Kmet,23,TE,17,17,0,7,0,0,0,0,0,7,0,0,0,0,0,0,0,0,42,2.5,Bears,2022
+32,32,David Montgomery,25,RB,16,16,5,1,0,0,0,0,0,6,0,0,0,0,0,0,0,0,36,2.3,Bears,2022
+24,24,Khalil Herbert,24,RB,13,1,4,1,0,0,0,0,0,5,0,0,0,0,0,0,0,0,30,2.3,Bears,2022
+18,18,Dante Pettis,27,WR,17,7,0,3,0,0,0,0,0,3,0,0,0,0,0,0,0,0,18,1.1,Bears,2022
+10,10,Michael Badgley,27,K,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4,4,0,12,12.0,Bears,2022
+12,12,Velus Jones Jr.,25,WR,12,2,1,1,0,0,0,0,0,2,0,0,0,0,0,0,0,0,12,1.0,Bears,2022
+11,11,Darnell Mooney,25,WR,12,12,0,2,0,0,0,0,0,2,0,0,0,0,0,0,0,0,12,1.0,Bears,2022
+13,13,Byron Pringle,29,WR,11,4,0,2,0,0,0,0,0,2,0,0,0,0,0,0,0,0,12,1.1,Bears,2022
+8,8,N'Keal Harry,25,WR,7,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,6,0.9,Bears,2022
+19,19,Equanimeous St. Brown,26,WR,16,16,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,6,0.4,Bears,2022
+88,88,Trevon Wesco,27,TE,14,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,2,0.1,Bears,2022

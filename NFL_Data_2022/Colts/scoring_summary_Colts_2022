@@ -1,18 +1,18 @@
-,No.,Team,Player,Age,Pos,Games Played,Games Started,Rush TD,Reception TD,Punt Return TD,Kick Return TD,Fumble Return TD,Interception TD,Other TD,All Touchdown Scored,2-Point Conversions Made,Two-Point Conversions Attempted,Defensive Two-Point Conversions,Extra Points Made,Extra Points Allowed,Field Goals Made,Field Goals Attempted,Safeties Scored by Player/Team,Total Points Scored by all Means,Poins per Game,Year
-0,7,Colts,Chase McLaughlin,26,K,16,0,0,0,0,0,0,0,0,0,0,0,0,21,21,30,36,,111,6.9,2022
-1,11,Colts,Michael Pittman Jr.,25,WR,16,16,0,4,0,0,0,0,0,4,0,0,0,0,0,0,0,,24,1.5,2022
-2,28,Colts,Jonathan Taylor,23,RB,11,11,4,0,0,0,0,0,0,4,0,0,0,0,0,0,0,,24,2.2,2022
-3,81,Colts,Mo Alie-Cox,29,TE,17,11,0,3,0,0,0,0,0,3,0,0,0,0,0,0,0,,18,1.1,2022
-4,1,Colts,Parris Campbell,25,WR,17,16,0,3,0,0,0,0,0,3,0,0,0,0,0,0,0,,18,1.1,2022
-5,80,Colts,Jelani Woods,24,TE,15,2,0,3,0,0,0,0,0,3,0,0,0,0,0,0,0,,18,1.2,2022
-6,35,Colts,Deon Jackson,23,RB,16,2,1,1,0,0,0,0,0,2,0,0,0,0,0,0,0,,12,0.8,2022
-7,14,Colts,Alec Pierce,22,WR,16,12,0,2,0,0,0,0,0,2,0,0,0,0,0,0,0,,12,0.8,2022
-8,3,Colts,Rodrigo Blankenship,25,K,1,0,0,0,0,0,0,0,0,0,0,0,0,2,2,2,3,,8,8.0,2022
-9,32,Colts,Julian Blackmon,24,S,14,11,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,,6,0.4,2022
-10,57,Colts,JoJo Domann,25,LB,16,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,,6,0.4,2022
-11,16,Colts,Ashton Dulin,25,WR,12,2,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,,6,0.5,2022
-12,21,Colts,Nyheim Hines,26,RB,7,4,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,,6,0.9,2022
-13,26,Colts,Rodney McLeod,32,S,17,15,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,,6,0.4,2022
-14,21,Colts,Zack Moss,25,RB,8,3,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,,6,0.8,2022
-15,2,Colts,Matt Ryan,37,QB,12,12,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,,6,0.5,2022
-16,30,Colts,Phillip Lindsay,28,RB,3,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,,2,0.7,2022
+,No.,Player,Age,Pos,Games Played,Games Started,Rush TD,Reception TD,Punt Return TD,Kick Return TD,Fumble Return TD,Interception TD,Other TD,All Touchdown Scored,2-Point Conversions Made,Two-Point Conversions Attempted,Defensive Two-Point Conversions,Extra Points Made,Extra Points Allowed,Field Goals Made,Field Goals Attempted,Safeties Scored by Player/Team,Total Points Scored by all Means,Poins per Game,Team,Year
+7,7,Chase McLaughlin,26,K,16,0,0,0,0,0,0,0,0,0,0,0,0,21,21,30,36,0,111,6.9,Colts,2022
+11,11,Michael Pittman Jr.,25,WR,16,16,0,4,0,0,0,0,0,4,0,0,0,0,0,0,0,0,24,1.5,Colts,2022
+28,28,Jonathan Taylor,23,RB,11,11,4,0,0,0,0,0,0,4,0,0,0,0,0,0,0,0,24,2.2,Colts,2022
+81,81,Mo Alie-Cox,29,TE,17,11,0,3,0,0,0,0,0,3,0,0,0,0,0,0,0,0,18,1.1,Colts,2022
+1,1,Parris Campbell,25,WR,17,16,0,3,0,0,0,0,0,3,0,0,0,0,0,0,0,0,18,1.1,Colts,2022
+80,80,Jelani Woods,24,TE,15,2,0,3,0,0,0,0,0,3,0,0,0,0,0,0,0,0,18,1.2,Colts,2022
+35,35,Deon Jackson,23,RB,16,2,1,1,0,0,0,0,0,2,0,0,0,0,0,0,0,0,12,0.8,Colts,2022
+14,14,Alec Pierce,22,WR,16,12,0,2,0,0,0,0,0,2,0,0,0,0,0,0,0,0,12,0.8,Colts,2022
+3,3,Rodrigo Blankenship,25,K,1,0,0,0,0,0,0,0,0,0,0,0,0,2,2,2,3,0,8,8.0,Colts,2022
+32,32,Julian Blackmon,24,FS,14,11,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,6,0.4,Colts,2022
+57,57,JoJo Domann,25,LB,16,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,6,0.4,Colts,2022
+16,16,Ashton Dulin,25,WR,12,2,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,6,0.5,Colts,2022
+21,21,Nyheim Hines,26,RB,7,4,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,6,0.9,Colts,2022
+26,26,Rodney McLeod,32,SS,17,15,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,6,0.4,Colts,2022
+21,21,Zack Moss,25,RB,8,3,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,6,0.8,Colts,2022
+2,2,Matt Ryan,37,QB,12,12,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,6,0.5,Colts,2022
+30,30,Phillip Lindsay,28,RB,3,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,2,0.7,Colts,2022

@@ -1,23 +1,21 @@
-,Week,Team,Day,Date,Time,Win/Loss,Overtime,Team Record,Home/Away,Opponent,Points Scored,Points Allowed,Offense 1st Down,Total Yards Gained of Offense,Total yards Gained by Passing,Total Yards Gained by Rushing,Offense Turnovers,Defense 1st Down,Total Yards Allowed by Defense,Total Passing Yards Allowed by Defense,Total Rushing Yards Allowed by Defense,Defense Turnovers,Offense,Defense,Sp. Tms,Year
-0,0,49ers,Sun,September 11,,L,0,0-1,away,Chicago Bears,10,19,17,331,155,176,2,15,204,105,99,1,-11.26,-0.67,0.42,2022
-1,1,49ers,Sun,September 18,,W,0,1-1,home,Seattle Seahawks,27,7,25,373,184,189,0,14,216,180,36,3,16.39,9.18,-7.67,2022
-2,2,49ers,Sun,September 25,,L,0,1-2,away,Denver Broncos,10,11,13,267,179,88,3,14,261,160,101,0,-16.39,13.59,-1.26,2022
-3,3,49ers,Mon,October 3,,W,0,2-2,home,Los Angeles Rams,24,9,13,327,239,88,0,21,257,200,57,2,10.05,11.56,-7.93,2022
-4,4,49ers,Sun,October 9,,W,0,3-2,away,Carolina Panthers,37,15,22,397,244,153,1,15,308,244,64,1,16.04,13.22,-7.82,2022
-5,5,49ers,Sun,October 16,,L,0,3-3,away,Atlanta Falcons,14,28,21,346,296,50,3,18,289,121,168,0,0.59,-11.56,1.69,2022
-6,6,49ers,Sun,October 23,,L,0,3-4,home,Kansas City Chiefs,23,44,25,444,343,101,3,24,529,417,112,2,3.59,-30.58,8.5,2022
-7,7,49ers,Sun,October 30,,W,0,4-4,away,Los Angeles Rams,31,14,22,368,257,111,0,16,223,167,56,0,23.18,-3.37,-2.48,2022
-8,8,49ers,,,,,0,,home,<strong>Bye Week</strong>,0,0,0,0,0,0,0,0,0,0,0,0,,,,2022
-9,9,49ers,Sun,November 13,,W,0,5-4,home,Los Angeles Chargers,22,16,22,387,230,157,1,12,238,187,51,1,6.2,7.29,-5.38,2022
-10,10,49ers,Mon,November 21,,W,0,6-4,away,Arizona Cardinals,38,10,21,387,228,159,0,19,314,247,67,2,20.26,9.44,-1.43,2022
-11,11,49ers,Sun,November 27,,W,0,7-4,home,New Orleans Saints,13,0,21,317,221,96,0,14,260,197,63,2,2.05,8.15,2.22,2022
-12,12,49ers,Sun,December 4,,W,0,8-4,home,Miami Dolphins,33,17,24,351,230,121,1,14,308,275,33,4,1.78,13.36,1.0,2022
-13,13,49ers,Sun,December 11,,W,0,9-4,home,Tampa Bay Buccaneers,35,7,24,404,195,209,1,18,322,253,69,3,18.39,13.41,-0.43,2022
-14,14,49ers,Thu,December 15,,W,0,10-4,away,Seattle Seahawks,21,13,15,381,211,170,0,16,277,207,70,1,9.75,11.24,-8.96,2022
-15,15,49ers,Sat,December 24,,W,0,11-4,home,Washington Commanders,37,20,14,371,218,153,1,21,349,270,79,2,9.41,2.45,3.02,2022
-16,16,1,1,1,1.0,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1.0,1.0,1.0,1
-17,17,49ers,Sun,January 8,,W,0,13-4,home,Arizona Cardinals,38,13,21,311,142,169,0,11,255,194,61,4,9.62,15.23,0.8,2022
-18,18,49ers,,<strong>Playoffs</strong>,,,0,,home,,0,0,0,0,0,0,0,0,0,0,0,0,,,,2022
-19,19,49ers,Sat,January 14,,W,0,14-4,home,Seattle Seahawks,41,23,24,505,324,181,0,22,332,228,104,2,27.6,-6.41,-0.62,2022
-20,20,49ers,Sun,January 22,,W,0,15-4,home,Dallas Cowboys,19,12,21,312,199,113,1,15,282,206,76,2,6.35,6.08,-4.19,2022
-21,21,49ers,Sun,January 29,,L,0,15-5,away,Philadelphia Eagles,7,31,11,164,83,81,3,25,269,121,148,0,-15.56,-11.52,2.56,2022
+,Week,Day,Date,Time,Win/Loss,Overtime,Team Record,Home/Away,Opponent,Points Scored,Points Allowed,Offense 1st Down,Total Yards Gained of Offense,Total yards Gained by Passing,Total Yards Gained by Rushing,Offense Turnovers,Defense 1st Down,Total Yards Allowed by Defense,Total Passing Yards Allowed by Defense,Total Rushing Yards Allowed by Defense,Defense Turnovers,Offense,Defense,Sp. Tms,Team,Year
+0,1,Sun,2022-09-11,nan,Loss,0,0-1,away,Chicago Bears,10,19,17,331,155,176,2,15,204,105,99,1,-11.26,-0.67,0.42,49ers,2022
+1,2,Sun,2022-09-18,nan,Win,0,1-1,home,Seattle Seahawks,27,7,25,373,184,189,0,14,216,180,36,3,16.39,9.18,-7.67,49ers,2022
+2,3,Sun,2022-09-25,nan,Loss,0,1-2,away,Denver Broncos,10,11,13,267,179,88,3,14,261,160,101,0,-16.39,13.59,-1.26,49ers,2022
+3,4,Mon,2022-10-03,nan,Win,0,2-2,home,Los Angeles Rams,24,9,13,327,239,88,0,21,257,200,57,2,10.05,11.56,-7.93,49ers,2022
+4,5,Sun,2022-10-09,nan,Win,0,3-2,away,Carolina Panthers,37,15,22,397,244,153,1,15,308,244,64,1,16.04,13.22,-7.82,49ers,2022
+5,6,Sun,2022-10-16,nan,Loss,0,3-3,away,Atlanta Falcons,14,28,21,346,296,50,3,18,289,121,168,0,0.59,-11.56,1.69,49ers,2022
+6,7,Sun,2022-10-23,nan,Loss,0,3-4,home,Kansas City Chiefs,23,44,25,444,343,101,3,24,529,417,112,2,3.59,-30.58,8.5,49ers,2022
+7,8,Sun,2022-10-30,nan,Win,0,4-4,away,Los Angeles Rams,31,14,22,368,257,111,0,16,223,167,56,0,23.18,-3.37,-2.48,49ers,2022
+8,10,Sun,2022-11-13,nan,Win,0,5-4,home,Los Angeles Chargers,22,16,22,387,230,157,1,12,238,187,51,1,6.2,7.29,-5.38,49ers,2022
+9,11,Mon,2022-11-21,nan,Win,0,6-4,away,Arizona Cardinals,38,10,21,387,228,159,0,19,314,247,67,2,20.26,9.44,-1.43,49ers,2022
+10,12,Sun,2022-11-27,nan,Win,0,7-4,home,New Orleans Saints,13,0,21,317,221,96,0,14,260,197,63,2,2.05,8.15,2.22,49ers,2022
+11,13,Sun,2022-12-04,nan,Win,0,8-4,home,Miami Dolphins,33,17,24,351,230,121,1,14,308,275,33,4,1.78,13.36,1.0,49ers,2022
+12,14,Sun,2022-12-11,nan,Win,0,9-4,home,Tampa Bay Buccaneers,35,7,24,404,195,209,1,18,322,253,69,3,18.39,13.41,-0.43,49ers,2022
+13,15,Thu,2022-12-15,nan,Win,0,10-4,away,Seattle Seahawks,21,13,15,381,211,170,0,16,277,207,70,1,9.75,11.24,-8.96,49ers,2022
+14,16,Sat,2022-12-24,nan,Win,0,11-4,home,Washington Commanders,37,20,14,371,218,153,1,21,349,270,79,2,9.41,2.45,3.02,49ers,2022
+15,17,Sun,2023-01-01,nan,Win,1,12-4,away,Las Vegas Raiders,37,34,27,454,284,170,1,29,500,365,135,2,23.25,-13.83,-6.49,49ers,2022
+16,18,Sun,2023-01-08,nan,Win,0,13-4,home,Arizona Cardinals,38,13,21,311,142,169,0,11,255,194,61,4,9.62,15.23,0.8,49ers,2022
+17,20,Sat,2023-01-14,nan,Win,0,14-4,home,Seattle Seahawks,41,23,24,505,324,181,0,22,332,228,104,2,27.6,-6.41,-0.62,49ers,2022
+18,21,Sun,2023-01-22,nan,Win,0,15-4,home,Dallas Cowboys,19,12,21,312,199,113,1,15,282,206,76,2,6.35,6.08,-4.19,49ers,2022
+19,22,Sun,2023-01-29,nan,Loss,0,15-5,away,Philadelphia Eagles,7,31,11,164,83,81,3,25,269,121,148,0,-15.56,-11.52,2.56,49ers,2022

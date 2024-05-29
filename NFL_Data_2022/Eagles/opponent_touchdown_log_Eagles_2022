@@ -1,41 +1,41 @@
-,Rank,Team,Date,Opponent,Win/Loss,Score,Quarter,Distance,Type,Detail,Year
-0,1,Eagles,09/11/2022,DET,Win, 38-35,1,1,rush,Jamaal Williams,2022
-1,2,Eagles,09/11/2022,DET,Win, 38-35,2,7,rush,D'Andre Swift,2022
-2,3,Eagles,09/11/2022,DET,Win, 38-35,3,4,pass,Amon-Ra St. Brown,2022
-3,4,Eagles,09/11/2022,DET,Win, 38-35,4,1,rush,Jamaal Williams,2022
-4,5,Eagles,09/11/2022,DET,Win, 38-35,4,22,pass,DJ Chark,2022
-5,6,Eagles,09/19/2022,MIN,Win, 24-7,2,2,pass,Irv Smith Jr.,2022
-6,7,Eagles,09/25/2022,WAS,Win, 24-8,4,1,rush,Antonio Gibson,2022
-7,8,Eagles,10/02/2022,JAX,Win, 29-21,1,59,interception,Andre Cisco,2022
-8,9,Eagles,10/02/2022,JAX,Win, 29-21,1,4,pass,Jamal Agnew,2022
-9,10,Eagles,10/02/2022,JAX,Win, 29-21,4,8,pass,Jamal Agnew,2022
-10,11,Eagles,10/09/2022,ARI,Win, 20-17,2,25,pass,Marquise Brown,2022
-11,12,Eagles,10/09/2022,ARI,Win, 20-17,4,11,rush,Eno Benjamin,2022
-12,13,Eagles,10/16/2022,DAL,Win, 26-17,3,14,rush,Ezekiel Elliott,2022
-13,14,Eagles,10/16/2022,DAL,Win, 26-17,4,7,pass,Jake Ferguson,2022
-14,15,Eagles,10/30/2022,PIT,Win, 35-13,1,1,pass,Derek Watt,2022
-15,16,Eagles,11/03/2022,HOU,Win, 29-17,1,2,pass,Teagan Quitoriano,2022
-16,17,Eagles,11/03/2022,HOU,Win, 29-17,2,13,pass,Chris Moore,2022
-17,18,Eagles,11/14/2022,WAS,Loss, 21-32,1,1,rush,Antonio Gibson,2022
-18,19,Eagles,11/14/2022,WAS,Loss, 21-32,2,1,rush,Brian Robinson Jr.,2022
-19,20,Eagles,11/14/2022,WAS,Loss, 21-32,4,1,fumble,Casey Toohill,2022
-20,21,Eagles,11/20/2022,IND,Win, 17-16,1,1,rush,Jonathan Taylor,2022
-21,22,Eagles,11/27/2022,GNB,Win, 40-33,1,20,rush,AJ Dillon,2022
-22,23,Eagles,11/27/2022,GNB,Win, 40-33,1,11,pass,Randall Cobb,2022
-23,24,Eagles,11/27/2022,GNB,Win, 40-33,2,23,pass,Aaron Jones,2022
-24,25,Eagles,11/27/2022,GNB,Win, 40-33,4,63,pass,Christian Watson,2022
-25,26,Eagles,12/04/2022,TEN,Win, 35-10,1,25,pass,Treylon Burks,2022
-26,27,Eagles,12/11/2022,NYG,Win, 48-22,2,2,pass,Isaiah Hodgins,2022
-27,28,Eagles,12/11/2022,NYG,Win, 48-22,3,1,rush,Daniel Jones,2022
-28,29,Eagles,12/11/2022,NYG,Win, 48-22,4,19,pass,Richie James,2022
-29,30,Eagles,12/18/2022,CHI,Win, 25-20,2,9,rush,David Montgomery,2022
-30,31,Eagles,12/18/2022,CHI,Win, 25-20,3,10,pass,David Montgomery,2022
-31,32,Eagles,12/18/2022,CHI,Win, 25-20,4,35,pass,Byron Pringle,2022
-32,33,Eagles,12/24/2022,DAL,Loss, 34-40,1,1,rush,Ezekiel Elliott,2022
-33,34,Eagles,12/24/2022,DAL,Loss, 34-40,2,36,pass,CeeDee Lamb,2022
-34,35,Eagles,12/24/2022,DAL,Loss, 34-40,3,12,pass,Michael Gallup,2022
-35,36,Eagles,12/24/2022,DAL,Loss, 34-40,4,7,pass,CeeDee Lamb,2022
-36,37,Eagles,01/01/2023,NOR,Loss, 10-20,1,1,rush,Taysom Hill,2022
-37,38,Eagles,01/01/2023,NOR,Loss, 10-20,4,12,interception,Marshon Lattimore,2022
-38,39,Eagles,01/08/2023,NYG,Win, 22-16,4,14,rush,Davis Webb,2022
-39,40,Eagles,01/08/2023,NYG,Win, 22-16,4,25,pass,Kenny Golladay,2022
+,Rank,Team,Date,Opponent,Win/Loss,Home_Score,Opponenet_Score,Quarter,Distance,Type,Detail
+1,1,Eagles,2022-09-11,DET,Win,38,35,1,1,rush,Jamaal Williams
+2,2,Eagles,2022-09-11,DET,Win,38,35,2,7,rush,D'Andre Swift
+3,3,Eagles,2022-09-11,DET,Win,38,35,3,4,pass,Amon-Ra St. Brown
+4,4,Eagles,2022-09-11,DET,Win,38,35,4,1,rush,Jamaal Williams
+5,5,Eagles,2022-09-11,DET,Win,38,35,4,22,pass,DJ Chark
+6,6,Eagles,2022-09-19,MIN,Win,24,7,2,2,pass,Irv Smith Jr.
+7,7,Eagles,2022-09-25,WAS,Win,24,8,4,1,rush,Antonio Gibson
+8,8,Eagles,2022-10-02,JAX,Win,29,21,1,59,interception,Andre Cisco
+9,9,Eagles,2022-10-02,JAX,Win,29,21,1,4,pass,Jamal Agnew
+10,10,Eagles,2022-10-02,JAX,Win,29,21,4,8,pass,Jamal Agnew
+11,11,Eagles,2022-10-09,ARI,Win,20,17,2,25,pass,Marquise Brown
+12,12,Eagles,2022-10-09,ARI,Win,20,17,4,11,rush,Eno Benjamin
+13,13,Eagles,2022-10-16,DAL,Win,26,17,3,14,rush,Ezekiel Elliott
+14,14,Eagles,2022-10-16,DAL,Win,26,17,4,7,pass,Jake Ferguson
+15,15,Eagles,2022-10-30,PIT,Win,35,13,1,1,pass,Derek Watt
+16,16,Eagles,2022-11-03,HOU,Win,29,17,1,2,pass,Teagan Quitoriano
+17,17,Eagles,2022-11-03,HOU,Win,29,17,2,13,pass,Chris Moore
+18,18,Eagles,2022-11-14,WAS,Loss,21,32,1,1,rush,Antonio Gibson
+19,19,Eagles,2022-11-14,WAS,Loss,21,32,2,1,rush,Brian Robinson Jr.
+20,20,Eagles,2022-11-14,WAS,Loss,21,32,4,1,fumble,Casey Toohill
+21,21,Eagles,2022-11-20,IND,Win,17,16,1,1,rush,Jonathan Taylor
+22,22,Eagles,2022-11-27,GNB,Win,40,33,1,20,rush,AJ Dillon
+23,23,Eagles,2022-11-27,GNB,Win,40,33,1,11,pass,Randall Cobb
+24,24,Eagles,2022-11-27,GNB,Win,40,33,2,23,pass,Aaron Jones
+25,25,Eagles,2022-11-27,GNB,Win,40,33,4,63,pass,Christian Watson
+26,26,Eagles,2022-12-04,TEN,Win,35,10,1,25,pass,Treylon Burks
+27,27,Eagles,2022-12-11,NYG,Win,48,22,2,2,pass,Isaiah Hodgins
+28,28,Eagles,2022-12-11,NYG,Win,48,22,3,1,rush,Daniel Jones
+29,29,Eagles,2022-12-11,NYG,Win,48,22,4,19,pass,Richie James
+30,30,Eagles,2022-12-18,CHI,Win,25,20,2,9,rush,David Montgomery
+31,31,Eagles,2022-12-18,CHI,Win,25,20,3,10,pass,David Montgomery
+32,32,Eagles,2022-12-18,CHI,Win,25,20,4,35,pass,Byron Pringle
+33,33,Eagles,2022-12-24,DAL,Loss,34,40,1,1,rush,Ezekiel Elliott
+34,34,Eagles,2022-12-24,DAL,Loss,34,40,2,36,pass,CeeDee Lamb
+35,35,Eagles,2022-12-24,DAL,Loss,34,40,3,12,pass,Michael Gallup
+36,36,Eagles,2022-12-24,DAL,Loss,34,40,4,7,pass,CeeDee Lamb
+37,37,Eagles,2023-01-01,NOR,Loss,10,20,1,1,rush,Taysom Hill
+38,38,Eagles,2023-01-01,NOR,Loss,10,20,4,12,interception,Marshon Lattimore
+39,39,Eagles,2023-01-08,NYG,Win,22,16,4,14,rush,Davis Webb
+40,40,Eagles,2023-01-08,NYG,Win,22,16,4,25,pass,Kenny Golladay

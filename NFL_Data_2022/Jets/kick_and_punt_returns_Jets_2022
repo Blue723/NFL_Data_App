@@ -1,5 +1,5 @@
-,No.,Team,Player,Age,Position,Games Played,Games Started,Punts Returned,Punts Return Yardage,Punts Returned for Touchdown,Longest Punt Return,Yards per Punt Return,Kickoff Returns,Yardage for Kickoffs Returned,Kickoffs Returned for a Touchdown,Longest Kickoff Return,Yards per Kickoff Return,All-purpose Yards,Year
-0,10,Jets,Braxton Berrios,27,WR,17,2,21,240,0,22,11.4,26,600,0,42,23.1,1076,2022
-1,25,Jets,Ty Johnson,25,RB,17,1,0,0,0,0,,3,39,0,19,13.0,287,2022
-2,27,Jets,Zonovan Knight,21,RB,7,4,0,0,0,0,,1,18,0,18,18.0,418,2022
-3,8,Jets,Elijah Moore,22,WR,16,9,0,0,0,0,,1,9,0,9,9.0,460,2022
+,No.,Player,Age,Position,Games Played,Games Started,Punts Returned,Punts Return Yardage,Punts Returned for Touchdown,Longest Punt Return,Yards per Punt Return,Kickoff Returns,Yardage for Kickoffs Returned,Kickoffs Returned for a Touchdown,Longest Kickoff Return,Yards per Kickoff Return,All-purpose Yards,Team,Year
+10,10,Braxton Berrios,27,WR,17,2,21,240,0,22,11.4,26,600,0,42,23.1,1076,Jets,2022
+25,25,Ty Johnson,25,RB,17,1,0,0,0,0,0.0,3,39,0,19,13.0,287,Jets,2022
+27,27,Zonovan Knight,21,RB,7,4,0,0,0,0,0.0,1,18,0,18,18.0,418,Jets,2022
+8,8,Elijah Moore,22,WR,16,9,0,0,0,0,0.0,1,9,0,9,9.0,460,Jets,2022

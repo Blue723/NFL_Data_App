@@ -1,58 +1,58 @@
-,Rank,Team,Date,Opponent,Win/Loss,Score,Quarter,Distance,Type,Detail,Year
-0,1,Bears,09/11/2022,SFO,Win, 19-10,2,6,rush,Deebo Samuel,2022
-1,2,Bears,09/18/2022,GNB,Loss, 10-27,2,15,rush,Aaron Jones,2022
-2,3,Bears,09/18/2022,GNB,Loss, 10-27,2,8,pass,Aaron Jones,2022
-3,4,Bears,09/18/2022,GNB,Loss, 10-27,2,5,pass,Allen Lazard,2022
-4,5,Bears,09/25/2022,HOU,Win, 23-20,1,4,pass,Jordan Akins,2022
-5,6,Bears,09/25/2022,HOU,Win, 23-20,2,1,rush,Dameon Pierce,2022
-6,7,Bears,10/02/2022,NYG,Loss, 12-20,1,21,rush,Daniel Jones,2022
-7,8,Bears,10/02/2022,NYG,Loss, 12-20,2,8,rush,Daniel Jones,2022
-8,9,Bears,10/09/2022,MIN,Loss, 22-29,1,1,rush,Dalvin Cook,2022
-9,10,Bears,10/09/2022,MIN,Loss, 22-29,2,5,rush,Dalvin Cook,2022
-10,11,Bears,10/09/2022,MIN,Loss, 22-29,2,1,pass,Jalen Reagor,2022
-11,12,Bears,10/09/2022,MIN,Loss, 22-29,4,1,rush,Kirk Cousins,2022
-12,13,Bears,10/13/2022,WAS,Loss, 7-12,4,1,rush,Brian Robinson Jr.,2022
-13,14,Bears,10/24/2022,NWE,Win, 33-14,2,30,pass,Jakobi Meyers,2022
-14,15,Bears,10/24/2022,NWE,Win, 33-14,2,4,rush,Rhamondre Stevenson,2022
-15,16,Bears,10/30/2022,DAL,Loss, 29-49,1,7,rush,Dak Prescott,2022
-16,17,Bears,10/30/2022,DAL,Loss, 29-49,1,21,pass,CeeDee Lamb,2022
-17,18,Bears,10/30/2022,DAL,Loss, 29-49,2,18,rush,Tony Pollard,2022
-18,19,Bears,10/30/2022,DAL,Loss, 29-49,2,1,pass,Jake Ferguson,2022
-19,20,Bears,10/30/2022,DAL,Loss, 29-49,3,7,rush,Tony Pollard,2022
-20,21,Bears,10/30/2022,DAL,Loss, 29-49,3,36,fumble,Micah Parsons,2022
-21,22,Bears,10/30/2022,DAL,Loss, 29-49,4,54,rush,Tony Pollard,2022
-22,23,Bears,11/06/2022,MIA,Loss, 32-35,1,1,rush,Raheem Mostert,2022
-23,24,Bears,11/06/2022,MIA,Loss, 32-35,2,3,pass,Tyreek Hill,2022
-24,25,Bears,11/06/2022,MIA,Loss, 32-35,2,25,blocked punt,Andrew Van Ginkel,2022
-25,26,Bears,11/06/2022,MIA,Loss, 32-35,3,18,pass,Jaylen Waddle,2022
-26,27,Bears,11/06/2022,MIA,Loss, 32-35,3,10,pass,Jeff Wilson,2022
-27,28,Bears,11/13/2022,DET,Loss, 30-31,2,2,pass,Brock Wright,2022
-28,29,Bears,11/13/2022,DET,Loss, 30-31,4,9,rush,D'Andre Swift,2022
-29,30,Bears,11/13/2022,DET,Loss, 30-31,4,20,interception,Jeff Okudah,2022
-30,31,Bears,11/13/2022,DET,Loss, 30-31,4,1,rush,Jamaal Williams,2022
-31,32,Bears,11/20/2022,ATL,Loss, 24-27,1,2,pass,Drake London,2022
-32,33,Bears,11/20/2022,ATL,Loss, 24-27,2,103,kickoff,Cordarrelle Patterson,2022
-33,34,Bears,11/20/2022,ATL,Loss, 24-27,3,10,rush,Marcus Mariota,2022
-34,35,Bears,11/27/2022,NYJ,Loss, 10-31,1,8,pass,Garrett Wilson,2022
-35,36,Bears,11/27/2022,NYJ,Loss, 10-31,2,54,pass,Garrett Wilson,2022
-36,37,Bears,11/27/2022,NYJ,Loss, 10-31,3,22,pass,Elijah Moore,2022
-37,38,Bears,11/27/2022,NYJ,Loss, 10-31,3,32,rush,Ty Johnson,2022
-38,39,Bears,12/04/2022,GNB,Loss, 19-28,2,14,pass,Christian Watson,2022
-39,40,Bears,12/04/2022,GNB,Loss, 19-28,4,21,rush,AJ Dillon,2022
-40,41,Bears,12/04/2022,GNB,Loss, 19-28,4,46,rush,Christian Watson,2022
-41,42,Bears,12/18/2022,PHI,Loss, 20-25,2,22,rush,Jalen Hurts,2022
-42,43,Bears,12/18/2022,PHI,Loss, 20-25,3,1,rush,Jalen Hurts,2022
-43,44,Bears,12/18/2022,PHI,Loss, 20-25,4,1,rush,Jalen Hurts,2022
-44,45,Bears,12/24/2022,BUF,Loss, 13-35,1,19,pass,Gabriel Davis,2022
-45,46,Bears,12/24/2022,BUF,Loss, 13-35,3,33,rush,Devin Singletary,2022
-46,47,Bears,12/24/2022,BUF,Loss, 13-35,3,27,rush,James Cook,2022
-47,48,Bears,12/24/2022,BUF,Loss, 13-35,4,4,rush,Josh Allen,2022
-48,49,Bears,12/24/2022,BUF,Loss, 13-35,4,13,pass,Dawson Knox,2022
-49,50,Bears,01/01/2023,DET,Loss, 10-41,1,2,pass,Brock Wright,2022
-50,51,Bears,01/01/2023,DET,Loss, 10-41,2,17,rush,D'Andre Swift,2022
-51,52,Bears,01/01/2023,DET,Loss, 10-41,2,9,pass,Brock Wright,2022
-52,53,Bears,01/01/2023,DET,Loss, 10-41,3,2,rush,Jamaal Williams,2022
-53,54,Bears,01/01/2023,DET,Loss, 10-41,3,21,pass,D'Andre Swift,2022
-54,55,Bears,01/08/2023,MIN,Loss, 13-29,1,4,pass,Adam Thielen,2022
-55,56,Bears,01/08/2023,MIN,Loss, 13-29,2,1,rush,Alexander Mattison,2022
-56,57,Bears,01/08/2023,MIN,Loss, 13-29,3,1,rush,Alexander Mattison,2022
+,Rank,Team,Date,Opponent,Win/Loss,Home_Score,Opponenet_Score,Quarter,Distance,Type,Detail
+1,1,Bears,2022-09-11,SFO,Win,19,10,2,6,rush,Deebo Samuel
+2,2,Bears,2022-09-18,GNB,Loss,10,27,2,15,rush,Aaron Jones
+3,3,Bears,2022-09-18,GNB,Loss,10,27,2,8,pass,Aaron Jones
+4,4,Bears,2022-09-18,GNB,Loss,10,27,2,5,pass,Allen Lazard
+5,5,Bears,2022-09-25,HOU,Win,23,20,1,4,pass,Jordan Akins
+6,6,Bears,2022-09-25,HOU,Win,23,20,2,1,rush,Dameon Pierce
+7,7,Bears,2022-10-02,NYG,Loss,12,20,1,21,rush,Daniel Jones
+8,8,Bears,2022-10-02,NYG,Loss,12,20,2,8,rush,Daniel Jones
+9,9,Bears,2022-10-09,MIN,Loss,22,29,1,1,rush,Dalvin Cook
+10,10,Bears,2022-10-09,MIN,Loss,22,29,2,5,rush,Dalvin Cook
+11,11,Bears,2022-10-09,MIN,Loss,22,29,2,1,pass,Jalen Reagor
+12,12,Bears,2022-10-09,MIN,Loss,22,29,4,1,rush,Kirk Cousins
+13,13,Bears,2022-10-13,WAS,Loss,7,12,4,1,rush,Brian Robinson Jr.
+14,14,Bears,2022-10-24,NWE,Win,33,14,2,30,pass,Jakobi Meyers
+15,15,Bears,2022-10-24,NWE,Win,33,14,2,4,rush,Rhamondre Stevenson
+16,16,Bears,2022-10-30,DAL,Loss,29,49,1,7,rush,Dak Prescott
+17,17,Bears,2022-10-30,DAL,Loss,29,49,1,21,pass,CeeDee Lamb
+18,18,Bears,2022-10-30,DAL,Loss,29,49,2,18,rush,Tony Pollard
+19,19,Bears,2022-10-30,DAL,Loss,29,49,2,1,pass,Jake Ferguson
+20,20,Bears,2022-10-30,DAL,Loss,29,49,3,7,rush,Tony Pollard
+21,21,Bears,2022-10-30,DAL,Loss,29,49,3,36,fumble,Micah Parsons
+22,22,Bears,2022-10-30,DAL,Loss,29,49,4,54,rush,Tony Pollard
+23,23,Bears,2022-11-06,MIA,Loss,32,35,1,1,rush,Raheem Mostert
+24,24,Bears,2022-11-06,MIA,Loss,32,35,2,3,pass,Tyreek Hill
+25,25,Bears,2022-11-06,MIA,Loss,32,35,2,25,blocked punt,Andrew Van Ginkel
+26,26,Bears,2022-11-06,MIA,Loss,32,35,3,18,pass,Jaylen Waddle
+27,27,Bears,2022-11-06,MIA,Loss,32,35,3,10,pass,Jeff Wilson
+28,28,Bears,2022-11-13,DET,Loss,30,31,2,2,pass,Brock Wright
+29,29,Bears,2022-11-13,DET,Loss,30,31,4,9,rush,D'Andre Swift
+30,30,Bears,2022-11-13,DET,Loss,30,31,4,20,interception,Jeff Okudah
+31,31,Bears,2022-11-13,DET,Loss,30,31,4,1,rush,Jamaal Williams
+32,32,Bears,2022-11-20,ATL,Loss,24,27,1,2,pass,Drake London
+33,33,Bears,2022-11-20,ATL,Loss,24,27,2,103,kickoff,Cordarrelle Patterson
+34,34,Bears,2022-11-20,ATL,Loss,24,27,3,10,rush,Marcus Mariota
+35,35,Bears,2022-11-27,NYJ,Loss,10,31,1,8,pass,Garrett Wilson
+36,36,Bears,2022-11-27,NYJ,Loss,10,31,2,54,pass,Garrett Wilson
+37,37,Bears,2022-11-27,NYJ,Loss,10,31,3,22,pass,Elijah Moore
+38,38,Bears,2022-11-27,NYJ,Loss,10,31,3,32,rush,Ty Johnson
+39,39,Bears,2022-12-04,GNB,Loss,19,28,2,14,pass,Christian Watson
+40,40,Bears,2022-12-04,GNB,Loss,19,28,4,21,rush,AJ Dillon
+41,41,Bears,2022-12-04,GNB,Loss,19,28,4,46,rush,Christian Watson
+42,42,Bears,2022-12-18,PHI,Loss,20,25,2,22,rush,Jalen Hurts
+43,43,Bears,2022-12-18,PHI,Loss,20,25,3,1,rush,Jalen Hurts
+44,44,Bears,2022-12-18,PHI,Loss,20,25,4,1,rush,Jalen Hurts
+45,45,Bears,2022-12-24,BUF,Loss,13,35,1,19,pass,Gabriel Davis
+46,46,Bears,2022-12-24,BUF,Loss,13,35,3,33,rush,Devin Singletary
+47,47,Bears,2022-12-24,BUF,Loss,13,35,3,27,rush,James Cook
+48,48,Bears,2022-12-24,BUF,Loss,13,35,4,4,rush,Josh Allen
+49,49,Bears,2022-12-24,BUF,Loss,13,35,4,13,pass,Dawson Knox
+50,50,Bears,2023-01-01,DET,Loss,10,41,1,2,pass,Brock Wright
+51,51,Bears,2023-01-01,DET,Loss,10,41,2,17,rush,D'Andre Swift
+52,52,Bears,2023-01-01,DET,Loss,10,41,2,9,pass,Brock Wright
+53,53,Bears,2023-01-01,DET,Loss,10,41,3,2,rush,Jamaal Williams
+54,54,Bears,2023-01-01,DET,Loss,10,41,3,21,pass,D'Andre Swift
+55,55,Bears,2023-01-08,MIN,Loss,13,29,1,4,pass,Adam Thielen
+56,56,Bears,2023-01-08,MIN,Loss,13,29,2,1,rush,Alexander Mattison
+57,57,Bears,2023-01-08,MIN,Loss,13,29,3,1,rush,Alexander Mattison
