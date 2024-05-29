@@ -1,9 +1,9 @@
-,No.,Team,Player,Age,Position,Games Played,Games Started,Punts Returned,Punts Return Yardage,Punts Returned for Touchdown,Longest Punt Return,Yards per Punt Return,Kickoff Returns,Yardage for Kickoffs Returned,Kickoffs Returned for a Touchdown,Longest Kickoff Return,Yards per Kickoff Return,All-purpose Yards,Year
-0,14,Texans,Chris Thompson,23,WR,13,0,6,39,0,15,6.5,17,369,0,42,21.7,492,2017
-1,34,Texans,Tyler Ervin,24,RB,4,0,8,60,0,21,7.5,5,93,0,24,18.6,203,2017
-2,15,Texans,Will Fuller,23,WR,10,10,9,135,0,49,15.0,0,0,0,0,,567,2017
-3,12,Texans,Bruce Ellington,26,WR,11,6,5,47,0,21,9.4,0,0,0,0,,398,2017
-4,22,Texans,Jordan Todman,27,RB,14,0,0,0,0,0,,4,84,0,25,21.0,84,2017
-5,11,Texans,DeAndrew White,26,WR,2,1,4,3,0,3,0.8,0,0,0,0,,27,2017
-6,13,Texans,Braxton Miller,25,WR,11,3,3,12,0,8,4.0,0,0,0,0,,175,2017
-7,27,Texans,D'Onta Foreman,21,RB,10,1,0,0,0,0,,1,12,0,12,12.0,422,2017
+,No.,Player,Age,Position,Games Played,Games Started,Punts Returned,Punts Return Yardage,Punts Returned for Touchdown,Longest Punt Return,Yards per Punt Return,Kickoff Returns,Yardage for Kickoffs Returned,Kickoffs Returned for a Touchdown,Longest Kickoff Return,Yards per Kickoff Return,All-purpose Yards,Team,Year
+14,14,Chris Thompson,23,WR,13,0,6,39,0,15,6.5,17,369,0,42,21.7,492,Texans,2017
+34,34,Tyler Ervin,24,RB,4,0,8,60,0,21,7.5,5,93,0,24,18.6,203,Texans,2017
+15,15,Will Fuller,23,WR,10,10,9,135,0,49,15.0,0,0,0,0,0.0,567,Texans,2017
+12,12,Bruce Ellington,26,WR,11,6,5,47,0,21,9.4,0,0,0,0,0.0,398,Texans,2017
+22,22,Jordan Todman,27,RB,14,0,0,0,0,0,0.0,4,84,0,25,21.0,84,Texans,2017
+11,11,DeAndrew White,26,WR,2,1,4,3,0,3,0.8,0,0,0,0,0.0,27,Texans,2017
+13,13,Braxton Miller,25,WR,11,3,3,12,0,8,4.0,0,0,0,0,0.0,175,Texans,2017
+27,27,D'Onta Foreman,21,RB,10,1,0,0,0,0,0.0,1,12,0,12,12.0,422,Texans,2017

@@ -1,49 +1,49 @@
-,Rank,Team,Date,Opponent,Win/Loss,Score,Quarter,Distance,Type,Detail,Year
-0,1,Jaguars,09/10/2017,HOU,Win, 29-7,2,1,rush,Leonard Fournette,2017
-1,2,Jaguars,09/10/2017,HOU,Win, 29-7,2,53,fumble,Dante Fowler,2017
-2,3,Jaguars,09/10/2017,HOU,Win, 29-7,3,1,pass,Tommy Bohanon,2017
-3,4,Jaguars,09/17/2017,TEN,Loss, 16-37,4,1,rush,Leonard Fournette,2017
-4,5,Jaguars,09/17/2017,TEN,Loss, 16-37,4,7,pass,Allen Hurns,2017
-5,6,Jaguars,09/24/2017,BAL,Win, 44-7,1,17,pass,Marcedes Lewis,2017
-6,7,Jaguars,09/24/2017,BAL,Win, 44-7,2,5,pass,Allen Hurns,2017
-7,8,Jaguars,09/24/2017,BAL,Win, 44-7,3,30,pass,Marcedes Lewis,2017
-8,9,Jaguars,09/24/2017,BAL,Win, 44-7,3,4,pass,Marcedes Lewis,2017
-9,10,Jaguars,09/24/2017,BAL,Win, 44-7,4,3,rush,Leonard Fournette,2017
-10,11,Jaguars,10/01/2017,NYJ,Loss, 20-23,1,10,pass,Leonard Fournette,2017
-11,12,Jaguars,10/01/2017,NYJ,Loss, 20-23,4,81,fumble,Myles Jack,2017
-12,13,Jaguars,10/08/2017,PIT,Win, 30-9,2,2,rush,Leonard Fournette,2017
-13,14,Jaguars,10/08/2017,PIT,Win, 30-9,3,28,interception,Telvin Smith,2017
-14,15,Jaguars,10/08/2017,PIT,Win, 30-9,3,51,interception,Barry Church,2017
-15,16,Jaguars,10/08/2017,PIT,Win, 30-9,4,90,rush,Leonard Fournette,2017
-16,17,Jaguars,10/15/2017,LAR,Loss, 17-27,1,75,rush,Leonard Fournette,2017
-17,18,Jaguars,10/15/2017,LAR,Loss, 17-27,1,22,pass,Chris Ivory,2017
-18,19,Jaguars,10/22/2017,IND,,,1,1,rush,Chris Ivory,2017
-19,20,Jaguars,10/22/2017,IND,,,1,5,pass,Marcedes Lewis,2017
-20,21,Jaguars,10/22/2017,IND,,,3,58,rush,T.J. Yeldon,2017
-21,22,Jaguars,11/05/2017,CIN,Win, 23-7,2,3,pass,Marqise Lee,2017
-22,23,Jaguars,11/05/2017,CIN,Win, 23-7,4,63,punt,Jaydon Mickens,2017
-23,24,Jaguars,11/12/2017,LAC,Win, 20-17,1,56,rush,Corey Grant,2017
-24,25,Jaguars,11/12/2017,LAC,Win, 20-17,3,6,pass,Marqise Lee,2017
-25,26,Jaguars,11/19/2017,CLE,Win, 19-7,1,10,pass,Marcedes Lewis,2017
-26,27,Jaguars,11/19/2017,CLE,Win, 19-7,4,0,fumble,Telvin Smith,2017
-27,28,Jaguars,11/26/2017,ARI,Loss, 24-27,3,1,rush,Blake Bortles,2017
-28,29,Jaguars,11/26/2017,ARI,Loss, 24-27,4,10,fumble,Calais Campbell,2017
-29,30,Jaguars,11/26/2017,ARI,Loss, 24-27,4,17,rush,Blake Bortles,2017
-30,31,Jaguars,12/03/2017,IND,Win, 30-10,1,4,pass,Marqise Lee,2017
-31,32,Jaguars,12/03/2017,IND,Win, 30-10,2,8,pass,Keelan Cole,2017
-32,33,Jaguars,12/03/2017,IND,Win, 30-10,3,5,rush,Leonard Fournette,2017
-33,34,Jaguars,12/10/2017,SEA,Win, 30-24,3,18,pass,Dede Westbrook,2017
-34,35,Jaguars,12/10/2017,SEA,Win, 30-24,3,75,pass,Keelan Cole,2017
-35,36,Jaguars,12/10/2017,SEA,Win, 30-24,3,1,rush,Leonard Fournette,2017
-36,37,Jaguars,12/17/2017,HOU,Win, 45-7,1,1,rush,Tommy Bohanon,2017
-37,38,Jaguars,12/17/2017,HOU,Win, 45-7,2,5,pass,Jaydon Mickens,2017
-38,39,Jaguars,12/17/2017,HOU,Win, 45-7,2,14,pass,Jaydon Mickens,2017
-39,40,Jaguars,12/17/2017,HOU,Win, 45-7,2,9,pass,Keelan Cole,2017
-40,41,Jaguars,12/17/2017,HOU,Win, 45-7,3,1,rush,Tommy Bohanon,2017
-41,42,Jaguars,12/17/2017,HOU,Win, 45-7,4,8,rush,Corey Grant,2017
-42,43,Jaguars,12/24/2017,SFO,Loss, 33-44,2,0,xpr,Aaron Colvin,2017
-43,44,Jaguars,12/24/2017,SFO,Loss, 33-44,2,1,rush,Leonard Fournette,2017
-44,45,Jaguars,12/24/2017,SFO,Loss, 33-44,2,5,pass,Jaelen Strong,2017
-45,46,Jaguars,12/24/2017,SFO,Loss, 33-44,4,1,rush,T.J. Yeldon,2017
-46,47,Jaguars,12/24/2017,SFO,Loss, 33-44,4,11,pass,James O'Shaughnessy,2017
-47,48,Jaguars,12/31/2017,TEN,Loss, 10-15,4,67,fumble,Yannick Ngakoue,2017
+,Rank,Team,Date,Opponent,Win/Loss,Home_Score,Opponenet_Score,Quarter,Distance,Type,Detail
+1,1,Jaguars,2017-09-10,HOU,Win,29,7,2,1,rush,Leonard Fournette
+2,2,Jaguars,2017-09-10,HOU,Win,29,7,2,53,fumble,Dante Fowler
+3,3,Jaguars,2017-09-10,HOU,Win,29,7,3,1,pass,Tommy Bohanon
+4,4,Jaguars,2017-09-17,TEN,Loss,16,37,4,1,rush,Leonard Fournette
+5,5,Jaguars,2017-09-17,TEN,Loss,16,37,4,7,pass,Allen Hurns
+6,6,Jaguars,2017-09-24,BAL,Win,44,7,1,17,pass,Marcedes Lewis
+7,7,Jaguars,2017-09-24,BAL,Win,44,7,2,5,pass,Allen Hurns
+8,8,Jaguars,2017-09-24,BAL,Win,44,7,3,30,pass,Marcedes Lewis
+9,9,Jaguars,2017-09-24,BAL,Win,44,7,3,4,pass,Marcedes Lewis
+10,10,Jaguars,2017-09-24,BAL,Win,44,7,4,3,rush,Leonard Fournette
+11,11,Jaguars,2017-10-01,NYJ,Loss,20,23,1,10,pass,Leonard Fournette
+12,12,Jaguars,2017-10-01,NYJ,Loss,20,23,4,81,fumble,Myles Jack
+13,13,Jaguars,2017-10-08,PIT,Win,30,9,2,2,rush,Leonard Fournette
+14,14,Jaguars,2017-10-08,PIT,Win,30,9,3,28,interception,Telvin Smith
+15,15,Jaguars,2017-10-08,PIT,Win,30,9,3,51,interception,Barry Church
+16,16,Jaguars,2017-10-08,PIT,Win,30,9,4,90,rush,Leonard Fournette
+17,17,Jaguars,2017-10-15,LAR,Loss,17,27,1,75,rush,Leonard Fournette
+18,18,Jaguars,2017-10-15,LAR,Loss,17,27,1,22,pass,Chris Ivory
+19,19,Jaguars,2017-10-22,IND,nan,nan,nan,1,1,rush,Chris Ivory
+20,20,Jaguars,2017-10-22,IND,nan,nan,nan,1,5,pass,Marcedes Lewis
+21,21,Jaguars,2017-10-22,IND,nan,nan,nan,3,58,rush,T.J. Yeldon
+22,22,Jaguars,2017-11-05,CIN,Win,23,7,2,3,pass,Marqise Lee
+23,23,Jaguars,2017-11-05,CIN,Win,23,7,4,63,punt,Jaydon Mickens
+24,24,Jaguars,2017-11-12,LAC,Win,20,17,1,56,rush,Corey Grant
+25,25,Jaguars,2017-11-12,LAC,Win,20,17,3,6,pass,Marqise Lee
+26,26,Jaguars,2017-11-19,CLE,Win,19,7,1,10,pass,Marcedes Lewis
+27,27,Jaguars,2017-11-19,CLE,Win,19,7,4,0,fumble,Telvin Smith
+28,28,Jaguars,2017-11-26,ARI,Loss,24,27,3,1,rush,Blake Bortles
+29,29,Jaguars,2017-11-26,ARI,Loss,24,27,4,10,fumble,Calais Campbell
+30,30,Jaguars,2017-11-26,ARI,Loss,24,27,4,17,rush,Blake Bortles
+31,31,Jaguars,2017-12-03,IND,Win,30,10,1,4,pass,Marqise Lee
+32,32,Jaguars,2017-12-03,IND,Win,30,10,2,8,pass,Keelan Cole
+33,33,Jaguars,2017-12-03,IND,Win,30,10,3,5,rush,Leonard Fournette
+34,34,Jaguars,2017-12-10,SEA,Win,30,24,3,18,pass,Dede Westbrook
+35,35,Jaguars,2017-12-10,SEA,Win,30,24,3,75,pass,Keelan Cole
+36,36,Jaguars,2017-12-10,SEA,Win,30,24,3,1,rush,Leonard Fournette
+37,37,Jaguars,2017-12-17,HOU,Win,45,7,1,1,rush,Tommy Bohanon
+38,38,Jaguars,2017-12-17,HOU,Win,45,7,2,5,pass,Jaydon Mickens
+39,39,Jaguars,2017-12-17,HOU,Win,45,7,2,14,pass,Jaydon Mickens
+40,40,Jaguars,2017-12-17,HOU,Win,45,7,2,9,pass,Keelan Cole
+41,41,Jaguars,2017-12-17,HOU,Win,45,7,3,1,rush,Tommy Bohanon
+42,42,Jaguars,2017-12-17,HOU,Win,45,7,4,8,rush,Corey Grant
+43,43,Jaguars,2017-12-24,SFO,Loss,33,44,2,0,xpr,Aaron Colvin
+44,44,Jaguars,2017-12-24,SFO,Loss,33,44,2,1,rush,Leonard Fournette
+45,45,Jaguars,2017-12-24,SFO,Loss,33,44,2,5,pass,Jaelen Strong
+46,46,Jaguars,2017-12-24,SFO,Loss,33,44,4,1,rush,T.J. Yeldon
+47,47,Jaguars,2017-12-24,SFO,Loss,33,44,4,11,pass,James O'Shaughnessy
+48,48,Jaguars,2017-12-31,TEN,Loss,10,15,4,67,fumble,Yannick Ngakoue

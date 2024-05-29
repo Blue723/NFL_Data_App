@@ -1,18 +1,17 @@
-,Week,Team,Day,Date,Time,Win/Loss,Overtime,Team Record,Home/Away,Opponent,Points Scored,Points Allowed,Offense 1st Down,Total Yards Gained of Offense,Total yards Gained by Passing,Total Yards Gained by Rushing,Offense Turnovers,Defense 1st Down,Total Yards Allowed by Defense,Total Passing Yards Allowed by Defense,Total Rushing Yards Allowed by Defense,Defense Turnovers,Offense,Defense,Sp. Tms,Year
-0,0,Packers,Sun,September 10,,W,0,1-0,home,Seattle Seahawks,17,9,26,370,286,84,1,12,225,135,90,1,2.15,10.07,-2.55,2017
-1,1,Packers,Sun,September 17,,L,0,1-1,away,Atlanta Falcons,23,34,24,367,308,59,2,19,364,223,141,0,6.04,-14.1,-2.02,2017
-2,2,1,1,1,1.0,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1.0,1.0,1.0,1
-3,3,Packers,Thu,September 28,,W,0,3-1,home,Chicago Bears,35,14,17,260,169,91,0,20,308,205,103,4,11.46,7.46,1.68,2017
-4,4,Packers,Sun,October 8,,W,0,4-1,away,Dallas Cowboys,35,31,25,342,182,160,1,26,408,245,163,3,23.19,-19.13,-2.23,2017
-5,5,Packers,Sun,October 15,,L,0,4-2,away,Minnesota Vikings,10,23,14,227,155,72,3,24,351,239,112,2,-17.19,4.65,2.65,2017
-6,6,Packers,Sun,October 22,,L,0,4-3,home,New Orleans Saints,17,26,16,260,79,181,1,25,485,324,161,2,6.05,-18.4,0.03,2017
-7,7,Packers,,,,,0,,home,<strong>Bye Week</strong>,0,0,0,0,0,0,0,0,0,0,0,0,,,,2017
-8,8,Packers,Mon,November 6,,L,0,4-4,home,Detroit Lions,17,30,21,311,233,78,0,24,417,353,64,1,4.31,-20.08,2.77,2017
-9,9,Packers,Sun,November 12,,W,0,5-4,away,Chicago Bears,23,16,18,342,182,160,0,14,323,268,55,1,8.98,6.15,-6.09,2017
-10,10,Packers,Sun,November 19,,L,0,5-5,home,Baltimore Ravens,0,23,16,265,190,75,5,14,219,161,58,1,-33.17,9.58,0.79,2017
-11,11,Packers,Sun,November 26,,L,0,5-6,away,Pittsburgh Steelers,28,31,15,307,227,80,0,28,462,341,121,3,11.73,-15.4,0.77,2017
-12,12,1,1,1,1.0,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1.0,1.0,1.0,1
-13,13,1,1,1,1.0,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1.0,1.0,1.0,1
-14,14,Packers,Sun,December 17,,L,0,7-7,away,Carolina Panthers,24,31,24,384,264,120,4,29,387,236,151,0,7.5,-17.49,1.31,2017
-15,15,Packers,Sat,December 23,,L,0,7-8,home,Minnesota Vikings,0,16,12,239,126,113,2,15,236,124,112,0,-23.46,4.52,3.17,2017
-16,16,Packers,Sun,December 31,,L,0,7-9,away,Detroit Lions,11,35,17,256,153,103,4,18,356,305,51,0,-11.12,-12.64,-1.82,2017
+,Week,Day,Date,Time,Win/Loss,Overtime,Team Record,Home/Away,Opponent,Points Scored,Points Allowed,Offense 1st Down,Total Yards Gained of Offense,Total yards Gained by Passing,Total Yards Gained by Rushing,Offense Turnovers,Defense 1st Down,Total Yards Allowed by Defense,Total Passing Yards Allowed by Defense,Total Rushing Yards Allowed by Defense,Defense Turnovers,Offense,Defense,Sp. Tms,Team,Year
+0,1,Sun,2017-09-10,nan,Win,0,1-0,home,Seattle Seahawks,17,9,26,370,286,84,1,12,225,135,90,1,2.15,10.07,-2.55,Packers,2017
+1,2,Sun,2017-09-17,nan,Loss,0,1-1,away,Atlanta Falcons,23,34,24,367,308,59,2,19,364,223,141,0,6.04,-14.1,-2.02,Packers,2017
+2,3,Sun,2017-09-24,nan,Win,1,2-1,home,Cincinnati Bengals,27,24,22,344,280,64,1,21,301,191,110,1,3.02,-4.13,3.04,Packers,2017
+3,4,Thu,2017-09-28,nan,Win,0,3-1,home,Chicago Bears,35,14,17,260,169,91,0,20,308,205,103,4,11.46,7.46,1.68,Packers,2017
+4,5,Sun,2017-10-08,nan,Win,0,4-1,away,Dallas Cowboys,35,31,25,342,182,160,1,26,408,245,163,3,23.19,-19.13,-2.23,Packers,2017
+5,6,Sun,2017-10-15,nan,Loss,0,4-2,away,Minnesota Vikings,10,23,14,227,155,72,3,24,351,239,112,2,-17.19,4.65,2.65,Packers,2017
+6,7,Sun,2017-10-22,nan,Loss,0,4-3,home,New Orleans Saints,17,26,16,260,79,181,1,25,485,324,161,2,6.05,-18.4,0.03,Packers,2017
+7,9,Mon,2017-11-06,nan,Loss,0,4-4,home,Detroit Lions,17,30,21,311,233,78,0,24,417,353,64,1,4.31,-20.08,2.77,Packers,2017
+8,10,Sun,2017-11-12,nan,Win,0,5-4,away,Chicago Bears,23,16,18,342,182,160,0,14,323,268,55,1,8.98,6.15,-6.09,Packers,2017
+9,11,Sun,2017-11-19,nan,Loss,0,5-5,home,Baltimore Ravens,0,23,16,265,190,75,5,14,219,161,58,1,-33.17,9.58,0.79,Packers,2017
+10,12,Sun,2017-11-26,nan,Loss,0,5-6,away,Pittsburgh Steelers,28,31,15,307,227,80,0,28,462,341,121,3,11.73,-15.4,0.77,Packers,2017
+11,13,Sun,2017-12-03,nan,Win,1,6-6,home,Tampa Bay Buccaneers,26,20,16,276,77,199,1,25,395,230,165,1,1.66,-0.18,4.0,Packers,2017
+12,14,Sun,2017-12-10,nan,Win,1,7-6,away,Cleveland Browns,27,21,24,341,256,85,0,17,345,209,136,2,13.46,-10.15,2.42,Packers,2017
+13,15,Sun,2017-12-17,nan,Loss,0,7-7,away,Carolina Panthers,24,31,24,384,264,120,4,29,387,236,151,0,7.5,-17.49,1.31,Packers,2017
+14,16,Sat,2017-12-23,nan,Loss,0,7-8,home,Minnesota Vikings,0,16,12,239,126,113,2,15,236,124,112,0,-23.46,4.52,3.17,Packers,2017
+15,17,Sun,2017-12-31,nan,Loss,0,7-9,away,Detroit Lions,11,35,17,256,153,103,4,18,356,305,51,0,-11.12,-12.64,-1.82,Packers,2017

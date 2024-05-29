@@ -1,12 +1,12 @@
-,No.,Team,Player,Age,Position,Games Played,Games Started,Punts Returned,Punts Return Yardage,Punts Returned for Touchdown,Longest Punt Return,Yards per Punt Return,Kickoff Returns,Yardage for Kickoffs Returned,Kickoffs Returned for a Touchdown,Longest Kickoff Return,Yards per Kickoff Return,All-purpose Yards,Year
-0,80,Commanders,Jamison Crowder,24,WR,15,6,27,171,0,29,6.3,0,0,0,0,,994,2017
-1,26,Commanders,Bashaud Breeland,25,LCB,15,14,0,0,0,0,,10,208,0,35,20.8,304,2017
-2,25,Commanders,Chris Thompson,27,RB,10,1,0,0,0,0,,8,165,0,29,20.6,967,2017
-3,34,Commanders,Byron Marshall,23,RB,4,0,0,0,0,0,,4,89,0,29,22.3,157,2017
-4,13,Commanders,Maurice Harris,25,WR,6,0,0,0,0,0,,3,71,0,34,23.7,133,2017
-5,84,Commanders,Niles Paul,28,TE,14,8,0,0,0,0,,3,47,0,24,15.7,145,2017
-6,39,Commanders,Kapri Bibbs,24,RB,3,0,0,0,0,0,,2,17,0,17,8.5,224,2017
-7,23,Commanders,DeAngelo Hall,34,DB,5,2,2,7,0,7,3.5,0,0,0,0,,7,2017
-8,32,Commanders,Samaje Perine,22,RB,16,8,0,0,0,0,,2,48,0,28,24.0,833,2017
-9,29,Commanders,Kendall Fuller,22,CB,16,6,0,0,0,0,,1,12,0,12,12.0,16,2017
-10,20,Commanders,Robert Kelley,25,RB,7,7,0,0,0,0,,1,16,0,16,16.0,228,2017
+,No.,Player,Age,Position,Games Played,Games Started,Punts Returned,Punts Return Yardage,Punts Returned for Touchdown,Longest Punt Return,Yards per Punt Return,Kickoff Returns,Yardage for Kickoffs Returned,Kickoffs Returned for a Touchdown,Longest Kickoff Return,Yards per Kickoff Return,All-purpose Yards,Team,Year
+80,80,Jamison Crowder,24,WR,15,6,27,171,0,29,6.3,0,0,0,0,0.0,994,Commanders,2017
+26,26,Bashaud Breeland,25,LCB,15,14,0,0,0,0,0.0,10,208,0,35,20.8,304,Commanders,2017
+25,25,Chris Thompson,27,RB,10,1,0,0,0,0,0.0,8,165,0,29,20.6,967,Commanders,2017
+34,34,Byron Marshall,23,RB,4,0,0,0,0,0,0.0,4,89,0,29,22.3,157,Commanders,2017
+13,13,Maurice Harris,25,WR,6,0,0,0,0,0,0.0,3,71,0,34,23.7,133,Commanders,2017
+84,84,Niles Paul,28,TE,14,8,0,0,0,0,0.0,3,47,0,24,15.7,145,Commanders,2017
+39,39,Kapri Bibbs,24,RB,3,0,0,0,0,0,0.0,2,17,0,17,8.5,224,Commanders,2017
+23,23,DeAngelo Hall,34,DB,5,2,2,7,0,7,3.5,0,0,0,0,0.0,7,Commanders,2017
+32,32,Samaje Perine,22,RB,16,8,0,0,0,0,0.0,2,48,0,28,24.0,833,Commanders,2017
+29,29,Kendall Fuller,22,CB,16,6,0,0,0,0,0.0,1,12,0,12,12.0,16,Commanders,2017
+20,20,Robert Kelley,25,RB,7,7,0,0,0,0,0.0,1,16,0,16,16.0,228,Commanders,2017

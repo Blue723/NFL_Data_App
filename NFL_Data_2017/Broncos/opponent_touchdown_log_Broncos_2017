@@ -1,45 +1,45 @@
-,Rank,Team,Date,Opponent,Win/Loss,Score,Quarter,Distance,Type,Detail,Year
-0,1,Broncos,09/11/2017,LAC,Win, 24-21,2,11,pass,Melvin Gordon,2017
-1,2,Broncos,09/11/2017,LAC,Win, 24-21,4,5,pass,Keenan Allen,2017
-2,3,Broncos,09/11/2017,LAC,Win, 24-21,4,38,pass,Travis Benjamin,2017
-3,4,Broncos,09/17/2017,DAL,Win, 42-17,2,3,pass,Dez Bryant,2017
-4,5,Broncos,09/17/2017,DAL,Win, 42-17,4,28,pass,Jason Witten,2017
-5,6,Broncos,09/24/2017,BUF,Loss, 16-26,2,2,pass,Andre Holmes,2017
-6,7,Broncos,09/24/2017,BUF,Loss, 16-26,3,6,pass,Charles Clay,2017
-7,8,Broncos,10/01/2017,OAK,Win, 16-10,2,64,pass,Johnny Holton,2017
-8,9,Broncos,10/15/2017,NYG,Loss, 10-23,2,5,pass,Evan Engram,2017
-9,10,Broncos,10/15/2017,NYG,Loss, 10-23,2,43,interception,Jackrabbit Jenkins,2017
-10,11,Broncos,10/22/2017,LAC,, 10-23,1,65,punt,Travis Benjamin,2017
-11,12,Broncos,10/22/2017,LAC,, 10-23,2,1,pass,Austin Ekeler,2017
-12,13,Broncos,10/22/2017,LAC,, 10-23,4,42,pass,Travis Benjamin,2017
-13,14,Broncos,10/30/2017,KAN,Loss, 19-29,1,45,fumble,Marcus Peters,2017
-14,15,Broncos,10/30/2017,KAN,Loss, 19-29,1,29,pass,Travis Kelce,2017
-15,16,Broncos,11/05/2017,PHI,Loss, 23-51,1,32,pass,Alshon Jeffery,2017
-16,17,Broncos,11/05/2017,PHI,Loss, 23-51,1,15,pass,Corey Clement,2017
-17,18,Broncos,11/05/2017,PHI,Loss, 23-51,2,27,pass,Trey Burton,2017
-18,19,Broncos,11/05/2017,PHI,Loss, 23-51,2,46,rush,Jay Ajayi,2017
-19,20,Broncos,11/05/2017,PHI,Loss, 23-51,3,2,rush,Corey Clement,2017
-20,21,Broncos,11/05/2017,PHI,Loss, 23-51,3,4,pass,Alshon Jeffery,2017
-21,22,Broncos,11/05/2017,PHI,Loss, 23-51,4,4,rush,Corey Clement,2017
-22,23,Broncos,11/12/2017,NWE,Loss, 16-41,1,14,pass,Rex Burkhead,2017
-23,24,Broncos,11/12/2017,NWE,Loss, 16-41,1,103,kickoff,Dion Lewis,2017
-24,25,Broncos,11/12/2017,NWE,Loss, 16-41,2,11,pass,Dwayne Allen,2017
-25,26,Broncos,11/12/2017,NWE,Loss, 16-41,3,8,rush,Dion Lewis,2017
-26,27,Broncos,11/12/2017,NWE,Loss, 16-41,4,6,pass,James White,2017
-27,28,Broncos,11/19/2017,CIN,Loss, 17-20,1,1,pass,Tyler Kroft,2017
-28,29,Broncos,11/19/2017,CIN,Loss, 17-20,2,29,pass,Alex Erickson,2017
-29,30,Broncos,11/19/2017,CIN,Loss, 17-20,4,18,pass,A.J. Green,2017
-30,31,Broncos,11/26/2017,OAK,Loss, 14-21,2,9,pass,Amari Cooper,2017
-31,32,Broncos,11/26/2017,OAK,Loss, 14-21,2,1,rush,Marshawn Lynch,2017
-32,33,Broncos,11/26/2017,OAK,Loss, 14-21,3,6,pass,Jalen Richard,2017
-33,34,Broncos,12/03/2017,MIA,Loss, 9-35,2,9,pass,Julius Thomas,2017
-34,35,Broncos,12/03/2017,MIA,Loss, 9-35,2,30,interception,Xavien Howard,2017
-35,36,Broncos,12/03/2017,MIA,Loss, 9-35,3,42,rush,Kenyan Drake,2017
-36,37,Broncos,12/03/2017,MIA,Loss, 9-35,4,23,pass,Kenny Stills,2017
-37,38,Broncos,12/14/2017,IND,Win, 25-13,1,7,rush,Jacoby Brissett,2017
-38,39,Broncos,12/24/2017,WAS,Loss, 11-27,2,15,pass,Jamison Crowder,2017
-39,40,Broncos,12/24/2017,WAS,Loss, 11-27,4,48,pass,Josh Doctson,2017
-40,41,Broncos,12/24/2017,WAS,Loss, 11-27,4,31,pass,Vernon Davis,2017
-41,42,Broncos,12/31/2017,KAN,Loss, 24-27,1,35,rush,Kareem Hunt,2017
-42,43,Broncos,12/31/2017,KAN,Loss, 24-27,2,1,rush,Anthony Sherman,2017
-43,44,Broncos,12/31/2017,KAN,Loss, 24-27,3,11,fumble,Ramik Wilson,2017
+,Rank,Team,Date,Opponent,Win/Loss,Home_Score,Opponenet_Score,Quarter,Distance,Type,Detail
+1,1,Broncos,2017-09-11,LAC,Win,24,21,2,11,pass,Melvin Gordon
+2,2,Broncos,2017-09-11,LAC,Win,24,21,4,5,pass,Keenan Allen
+3,3,Broncos,2017-09-11,LAC,Win,24,21,4,38,pass,Travis Benjamin
+4,4,Broncos,2017-09-17,DAL,Win,42,17,2,3,pass,Dez Bryant
+5,5,Broncos,2017-09-17,DAL,Win,42,17,4,28,pass,Jason Witten
+6,6,Broncos,2017-09-24,BUF,Loss,16,26,2,2,pass,Andre Holmes
+7,7,Broncos,2017-09-24,BUF,Loss,16,26,3,6,pass,Charles Clay
+8,8,Broncos,2017-10-01,OAK,Win,16,10,2,64,pass,Johnny Holton
+9,9,Broncos,2017-10-15,NYG,Loss,10,23,2,5,pass,Evan Engram
+10,10,Broncos,2017-10-15,NYG,Loss,10,23,2,43,interception,Jackrabbit Jenkins
+11,11,Broncos,2017-10-22,LAC,nan,nan,nan,1,65,punt,Travis Benjamin
+12,12,Broncos,2017-10-22,LAC,nan,nan,nan,2,1,pass,Austin Ekeler
+13,13,Broncos,2017-10-22,LAC,nan,nan,nan,4,42,pass,Travis Benjamin
+14,14,Broncos,2017-10-30,KAN,Loss,19,29,1,45,fumble,Marcus Peters
+15,15,Broncos,2017-10-30,KAN,Loss,19,29,1,29,pass,Travis Kelce
+16,16,Broncos,2017-11-05,PHI,Loss,23,51,1,32,pass,Alshon Jeffery
+17,17,Broncos,2017-11-05,PHI,Loss,23,51,1,15,pass,Corey Clement
+18,18,Broncos,2017-11-05,PHI,Loss,23,51,2,27,pass,Trey Burton
+19,19,Broncos,2017-11-05,PHI,Loss,23,51,2,46,rush,Jay Ajayi
+20,20,Broncos,2017-11-05,PHI,Loss,23,51,3,2,rush,Corey Clement
+21,21,Broncos,2017-11-05,PHI,Loss,23,51,3,4,pass,Alshon Jeffery
+22,22,Broncos,2017-11-05,PHI,Loss,23,51,4,4,rush,Corey Clement
+23,23,Broncos,2017-11-12,NWE,Loss,16,41,1,14,pass,Rex Burkhead
+24,24,Broncos,2017-11-12,NWE,Loss,16,41,1,103,kickoff,Dion Lewis
+25,25,Broncos,2017-11-12,NWE,Loss,16,41,2,11,pass,Dwayne Allen
+26,26,Broncos,2017-11-12,NWE,Loss,16,41,3,8,rush,Dion Lewis
+27,27,Broncos,2017-11-12,NWE,Loss,16,41,4,6,pass,James White
+28,28,Broncos,2017-11-19,CIN,Loss,17,20,1,1,pass,Tyler Kroft
+29,29,Broncos,2017-11-19,CIN,Loss,17,20,2,29,pass,Alex Erickson
+30,30,Broncos,2017-11-19,CIN,Loss,17,20,4,18,pass,A.J. Green
+31,31,Broncos,2017-11-26,OAK,Loss,14,21,2,9,pass,Amari Cooper
+32,32,Broncos,2017-11-26,OAK,Loss,14,21,2,1,rush,Marshawn Lynch
+33,33,Broncos,2017-11-26,OAK,Loss,14,21,3,6,pass,Jalen Richard
+34,34,Broncos,2017-12-03,MIA,Loss,9,35,2,9,pass,Julius Thomas
+35,35,Broncos,2017-12-03,MIA,Loss,9,35,2,30,interception,Xavien Howard
+36,36,Broncos,2017-12-03,MIA,Loss,9,35,3,42,rush,Kenyan Drake
+37,37,Broncos,2017-12-03,MIA,Loss,9,35,4,23,pass,Kenny Stills
+38,38,Broncos,2017-12-14,IND,Win,25,13,1,7,rush,Jacoby Brissett
+39,39,Broncos,2017-12-24,WAS,Loss,11,27,2,15,pass,Jamison Crowder
+40,40,Broncos,2017-12-24,WAS,Loss,11,27,4,48,pass,Josh Doctson
+41,41,Broncos,2017-12-24,WAS,Loss,11,27,4,31,pass,Vernon Davis
+42,42,Broncos,2017-12-31,KAN,Loss,24,27,1,35,rush,Kareem Hunt
+43,43,Broncos,2017-12-31,KAN,Loss,24,27,2,1,rush,Anthony Sherman
+44,44,Broncos,2017-12-31,KAN,Loss,24,27,3,11,fumble,Ramik Wilson

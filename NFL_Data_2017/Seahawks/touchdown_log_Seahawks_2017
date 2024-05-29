@@ -1,44 +1,44 @@
-,Rank,Team,Date,Opponent,Win/Loss,Score,Quarter,Distance,Type,Detail,Year
-0,1,Seahawks,09/17/2017,SFO,Win, 12-9,4,9,pass,Paul Richardson,2017
-1,2,Seahawks,09/24/2017,TEN,Loss, 27-33,2,4,pass,Doug Baldwin,2017
-2,3,Seahawks,09/24/2017,TEN,Loss, 27-33,3,10,pass,Chris Carson,2017
-3,4,Seahawks,09/24/2017,TEN,Loss, 27-33,4,27,pass,Luke Willson,2017
-4,5,Seahawks,09/24/2017,TEN,Loss, 27-33,4,8,pass,Paul Richardson,2017
-5,6,Seahawks,10/01/2017,IND,Win, 46-18,2,28,interception,Justin Coleman,2017
-6,7,Seahawks,10/01/2017,IND,Win, 46-18,3,23,rush,Russell Wilson,2017
-7,8,Seahawks,10/01/2017,IND,Win, 46-18,3,30,rush,J.D. McKissic,2017
-8,9,Seahawks,10/01/2017,IND,Win, 46-18,3,21,fumble,Bobby Wagner,2017
-9,10,Seahawks,10/01/2017,IND,Win, 46-18,4,6,pass,Luke Willson,2017
-10,11,Seahawks,10/01/2017,IND,Win, 46-18,4,27,pass,J.D. McKissic,2017
-11,12,Seahawks,10/08/2017,LAR,Win, 16-10,2,4,pass,Jimmy Graham,2017
-12,13,Seahawks,10/22/2017,NYG,Win, 24-7,3,22,pass,Doug Baldwin,2017
-13,14,Seahawks,10/22/2017,NYG,Win, 24-7,4,38,pass,Paul Richardson,2017
-14,15,Seahawks,10/22/2017,NYG,Win, 24-7,4,1,pass,Jimmy Graham,2017
-15,16,Seahawks,10/29/2017,HOU,Win, 41-38,1,78,interception,Earl Thomas,2017
-16,17,Seahawks,10/29/2017,HOU,Win, 41-38,1,20,pass,Paul Richardson,2017
-17,18,Seahawks,10/29/2017,HOU,Win, 41-38,2,7,pass,Paul Richardson,2017
-18,19,Seahawks,10/29/2017,HOU,Win, 41-38,4,1,pass,Jimmy Graham,2017
-19,20,Seahawks,10/29/2017,HOU,Win, 41-38,4,18,pass,Jimmy Graham,2017
-20,21,Seahawks,11/05/2017,WAS,Loss, 14-17,4,10,pass,Luke Willson,2017
-21,22,Seahawks,11/05/2017,WAS,Loss, 14-17,4,30,pass,Doug Baldwin,2017
-22,23,Seahawks,11/09/2017,ARI,Win, 22-16,1,6,pass,Jimmy Graham,2017
-23,24,Seahawks,11/09/2017,ARI,Win, 22-16,4,2,pass,Jimmy Graham,2017
-24,25,Seahawks,11/20/2017,ATL,Loss, 31-34,1,4,pass,Jimmy Graham,2017
-25,26,Seahawks,11/20/2017,ATL,Loss, 31-34,2,1,rush,Russell Wilson,2017
-26,27,Seahawks,11/20/2017,ATL,Loss, 31-34,4,29,pass,Doug Baldwin,2017
-27,28,Seahawks,11/26/2017,SFO,Win, 24-13,2,2,rush,Russell Wilson,2017
-28,29,Seahawks,11/26/2017,SFO,Win, 24-13,3,17,pass,Nick Vannett,2017
-29,30,Seahawks,11/26/2017,SFO,Win, 24-13,4,1,pass,Jimmy Graham,2017
-30,31,Seahawks,12/03/2017,PHI,Win, 24-10,1,11,pass,Jimmy Graham,2017
-31,32,Seahawks,12/03/2017,PHI,Win, 24-10,3,1,pass,Tyler Lockett,2017
-32,33,Seahawks,12/03/2017,PHI,Win, 24-10,4,15,pass,J.D. McKissic,2017
-33,34,Seahawks,12/10/2017,JAX,Loss, 24-30,3,26,pass,Doug Baldwin,2017
-34,35,Seahawks,12/10/2017,JAX,Loss, 24-30,4,61,pass,Paul Richardson,2017
-35,36,Seahawks,12/10/2017,JAX,Loss, 24-30,4,74,pass,Tyler Lockett,2017
-36,37,Seahawks,12/17/2017,LAR,Loss, 7-42,3,26,pass,Luke Willson,2017
-37,38,Seahawks,12/24/2017,DAL,Win, 21-12,2,3,pass,Jimmy Graham,2017
-38,39,Seahawks,12/24/2017,DAL,Win, 21-12,3,30,interception,Justin Coleman,2017
-39,40,Seahawks,12/24/2017,DAL,Win, 21-12,4,6,pass,Doug Baldwin,2017
-40,41,Seahawks,12/31/2017,ARI,Loss, 24-26,1,99,kickoff,Tyler Lockett,2017
-41,42,Seahawks,12/31/2017,ARI,Loss, 24-26,3,18,pass,Doug Baldwin,2017
-42,43,Seahawks,12/31/2017,ARI,Loss, 24-26,4,29,pass,Doug Baldwin,2017
+,Rank,Team,Date,Opponent,Win/Loss,Home_Score,Opponenet_Score,Quarter,Distance,Type,Detail
+1,1,Seahawks,2017-09-17,SFO,Win,12,9,4,9,pass,Paul Richardson
+2,2,Seahawks,2017-09-24,TEN,Loss,27,33,2,4,pass,Doug Baldwin
+3,3,Seahawks,2017-09-24,TEN,Loss,27,33,3,10,pass,Chris Carson
+4,4,Seahawks,2017-09-24,TEN,Loss,27,33,4,27,pass,Luke Willson
+5,5,Seahawks,2017-09-24,TEN,Loss,27,33,4,8,pass,Paul Richardson
+6,6,Seahawks,2017-10-01,IND,Win,46,18,2,28,interception,Justin Coleman
+7,7,Seahawks,2017-10-01,IND,Win,46,18,3,23,rush,Russell Wilson
+8,8,Seahawks,2017-10-01,IND,Win,46,18,3,30,rush,J.D. McKissic
+9,9,Seahawks,2017-10-01,IND,Win,46,18,3,21,fumble,Bobby Wagner
+10,10,Seahawks,2017-10-01,IND,Win,46,18,4,6,pass,Luke Willson
+11,11,Seahawks,2017-10-01,IND,Win,46,18,4,27,pass,J.D. McKissic
+12,12,Seahawks,2017-10-08,LAR,Win,16,10,2,4,pass,Jimmy Graham
+13,13,Seahawks,2017-10-22,NYG,Win,24,7,3,22,pass,Doug Baldwin
+14,14,Seahawks,2017-10-22,NYG,Win,24,7,4,38,pass,Paul Richardson
+15,15,Seahawks,2017-10-22,NYG,Win,24,7,4,1,pass,Jimmy Graham
+16,16,Seahawks,2017-10-29,HOU,Win,41,38,1,78,interception,Earl Thomas
+17,17,Seahawks,2017-10-29,HOU,Win,41,38,1,20,pass,Paul Richardson
+18,18,Seahawks,2017-10-29,HOU,Win,41,38,2,7,pass,Paul Richardson
+19,19,Seahawks,2017-10-29,HOU,Win,41,38,4,1,pass,Jimmy Graham
+20,20,Seahawks,2017-10-29,HOU,Win,41,38,4,18,pass,Jimmy Graham
+21,21,Seahawks,2017-11-05,WAS,Loss,14,17,4,10,pass,Luke Willson
+22,22,Seahawks,2017-11-05,WAS,Loss,14,17,4,30,pass,Doug Baldwin
+23,23,Seahawks,2017-11-09,ARI,Win,22,16,1,6,pass,Jimmy Graham
+24,24,Seahawks,2017-11-09,ARI,Win,22,16,4,2,pass,Jimmy Graham
+25,25,Seahawks,2017-11-20,ATL,Loss,31,34,1,4,pass,Jimmy Graham
+26,26,Seahawks,2017-11-20,ATL,Loss,31,34,2,1,rush,Russell Wilson
+27,27,Seahawks,2017-11-20,ATL,Loss,31,34,4,29,pass,Doug Baldwin
+28,28,Seahawks,2017-11-26,SFO,Win,24,13,2,2,rush,Russell Wilson
+29,29,Seahawks,2017-11-26,SFO,Win,24,13,3,17,pass,Nick Vannett
+30,30,Seahawks,2017-11-26,SFO,Win,24,13,4,1,pass,Jimmy Graham
+31,31,Seahawks,2017-12-03,PHI,Win,24,10,1,11,pass,Jimmy Graham
+32,32,Seahawks,2017-12-03,PHI,Win,24,10,3,1,pass,Tyler Lockett
+33,33,Seahawks,2017-12-03,PHI,Win,24,10,4,15,pass,J.D. McKissic
+34,34,Seahawks,2017-12-10,JAX,Loss,24,30,3,26,pass,Doug Baldwin
+35,35,Seahawks,2017-12-10,JAX,Loss,24,30,4,61,pass,Paul Richardson
+36,36,Seahawks,2017-12-10,JAX,Loss,24,30,4,74,pass,Tyler Lockett
+37,37,Seahawks,2017-12-17,LAR,Loss,7,42,3,26,pass,Luke Willson
+38,38,Seahawks,2017-12-24,DAL,Win,21,12,2,3,pass,Jimmy Graham
+39,39,Seahawks,2017-12-24,DAL,Win,21,12,3,30,interception,Justin Coleman
+40,40,Seahawks,2017-12-24,DAL,Win,21,12,4,6,pass,Doug Baldwin
+41,41,Seahawks,2017-12-31,ARI,Loss,24,26,1,99,kickoff,Tyler Lockett
+42,42,Seahawks,2017-12-31,ARI,Loss,24,26,3,18,pass,Doug Baldwin
+43,43,Seahawks,2017-12-31,ARI,Loss,24,26,4,29,pass,Doug Baldwin

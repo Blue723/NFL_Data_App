@@ -1,37 +1,37 @@
-,Rank,Team,Date,Opponent,Win/Loss,Score,Quarter,Distance,Type,Detail,Year
-0,1,Raiders,09/10/2017,TEN,Win, 26-16,1,8,pass,Amari Cooper,2017
-1,2,Raiders,09/10/2017,TEN,Win, 26-16,4,19,pass,Seth Roberts,2017
-2,3,Raiders,09/17/2017,NYJ,Win, 45-20,1,2,pass,Michael Crabtree,2017
-3,4,Raiders,09/17/2017,NYJ,Win, 45-20,2,26,pass,Michael Crabtree,2017
-4,5,Raiders,09/17/2017,NYJ,Win, 45-20,2,2,rush,Marshawn Lynch,2017
-5,6,Raiders,09/17/2017,NYJ,Win, 45-20,3,43,rush,Cordarrelle Patterson,2017
-6,7,Raiders,09/17/2017,NYJ,Win, 45-20,4,52,rush,Jalen Richard,2017
-7,8,Raiders,09/17/2017,NYJ,Win, 45-20,4,1,pass,Michael Crabtree,2017
-8,9,Raiders,09/24/2017,WAS,Loss, 10-27,3,21,pass,Jared Cook,2017
-9,10,Raiders,10/01/2017,DEN,Loss, 10-16,2,64,pass,Johnny Holton,2017
-10,11,Raiders,10/08/2017,BAL,Loss, 17-30,2,41,pass,Michael Crabtree,2017
-11,12,Raiders,10/08/2017,BAL,Loss, 17-30,3,3,rush,Marshawn Lynch,2017
-12,13,Raiders,10/15/2017,LAC,Loss, 16-17,1,23,pass,Michael Crabtree,2017
-13,14,Raiders,10/15/2017,LAC,Loss, 16-17,4,47,rush,Cordarrelle Patterson,2017
-14,15,Raiders,10/19/2017,KAN,Win, 31-30,1,38,pass,Amari Cooper,2017
-15,16,Raiders,10/19/2017,KAN,Win, 31-30,1,45,pass,Amari Cooper,2017
-16,17,Raiders,10/19/2017,KAN,Win, 31-30,3,4,rush,DeAndre Washington,2017
-17,18,Raiders,10/19/2017,KAN,Win, 31-30,4,2,pass,Michael Crabtree,2017
-18,19,Raiders,10/29/2017,BUF,Loss, 14-34,1,1,rush,Jamize Olawale,2017
-19,20,Raiders,10/29/2017,BUF,Loss, 14-34,4,4,pass,DeAndre Washington,2017
-20,21,Raiders,11/05/2017,MIA,Win, 27-24,2,44,pass,Johnny Holton,2017
-21,22,Raiders,11/05/2017,MIA,Win, 27-24,3,22,rush,Marshawn Lynch,2017
-22,23,Raiders,11/05/2017,MIA,Win, 27-24,4,3,rush,Marshawn Lynch,2017
-23,24,Raiders,11/19/2017,NWE,Loss, 8-33,4,9,pass,Amari Cooper,2017
-24,25,Raiders,11/26/2017,DEN,Win, 21-14,2,9,pass,Amari Cooper,2017
-25,26,Raiders,11/26/2017,DEN,Win, 21-14,2,1,rush,Marshawn Lynch,2017
-26,27,Raiders,11/26/2017,DEN,Win, 21-14,3,6,pass,Jalen Richard,2017
-27,28,Raiders,12/03/2017,NYG,Win, 24-17,1,51,rush,Marshawn Lynch,2017
-28,29,Raiders,12/03/2017,NYG,Win, 24-17,4,9,rush,DeAndre Washington,2017
-29,30,Raiders,12/03/2017,NYG,Win, 24-17,4,9,pass,Johnny Holton,2017
-30,31,Raiders,12/10/2017,KAN,Loss, 15-26,4,22,rush,Marshawn Lynch,2017
-31,32,Raiders,12/10/2017,KAN,Loss, 15-26,4,29,pass,Jared Cook,2017
-32,33,Raiders,12/17/2017,DAL,Loss, 17-20,3,2,pass,Michael Crabtree,2017
-33,34,Raiders,12/17/2017,DAL,Loss, 17-20,4,2,pass,Michael Crabtree,2017
-34,35,Raiders,12/25/2017,PHI,Loss, 10-19,2,63,pass,Amari Cooper,2017
-35,36,Raiders,12/31/2017,LAC,Loss, 10-30,2,87,pass,Amari Cooper,2017
+,Rank,Team,Date,Opponent,Win/Loss,Home_Score,Opponenet_Score,Quarter,Distance,Type,Detail
+1,1,Raiders,2017-09-10,TEN,Win,26,16,1,8,pass,Amari Cooper
+2,2,Raiders,2017-09-10,TEN,Win,26,16,4,19,pass,Seth Roberts
+3,3,Raiders,2017-09-17,NYJ,Win,45,20,1,2,pass,Michael Crabtree
+4,4,Raiders,2017-09-17,NYJ,Win,45,20,2,26,pass,Michael Crabtree
+5,5,Raiders,2017-09-17,NYJ,Win,45,20,2,2,rush,Marshawn Lynch
+6,6,Raiders,2017-09-17,NYJ,Win,45,20,3,43,rush,Cordarrelle Patterson
+7,7,Raiders,2017-09-17,NYJ,Win,45,20,4,52,rush,Jalen Richard
+8,8,Raiders,2017-09-17,NYJ,Win,45,20,4,1,pass,Michael Crabtree
+9,9,Raiders,2017-09-24,WAS,Loss,10,27,3,21,pass,Jared Cook
+10,10,Raiders,2017-10-01,DEN,Loss,10,16,2,64,pass,Johnny Holton
+11,11,Raiders,2017-10-08,BAL,Loss,17,30,2,41,pass,Michael Crabtree
+12,12,Raiders,2017-10-08,BAL,Loss,17,30,3,3,rush,Marshawn Lynch
+13,13,Raiders,2017-10-15,LAC,Loss,16,17,1,23,pass,Michael Crabtree
+14,14,Raiders,2017-10-15,LAC,Loss,16,17,4,47,rush,Cordarrelle Patterson
+15,15,Raiders,2017-10-19,KAN,Win,31,30,1,38,pass,Amari Cooper
+16,16,Raiders,2017-10-19,KAN,Win,31,30,1,45,pass,Amari Cooper
+17,17,Raiders,2017-10-19,KAN,Win,31,30,3,4,rush,DeAndre Washington
+18,18,Raiders,2017-10-19,KAN,Win,31,30,4,2,pass,Michael Crabtree
+19,19,Raiders,2017-10-29,BUF,Loss,14,34,1,1,rush,Jamize Olawale
+20,20,Raiders,2017-10-29,BUF,Loss,14,34,4,4,pass,DeAndre Washington
+21,21,Raiders,2017-11-05,MIA,Win,27,24,2,44,pass,Johnny Holton
+22,22,Raiders,2017-11-05,MIA,Win,27,24,3,22,rush,Marshawn Lynch
+23,23,Raiders,2017-11-05,MIA,Win,27,24,4,3,rush,Marshawn Lynch
+24,24,Raiders,2017-11-19,NWE,Loss,8,33,4,9,pass,Amari Cooper
+25,25,Raiders,2017-11-26,DEN,Win,21,14,2,9,pass,Amari Cooper
+26,26,Raiders,2017-11-26,DEN,Win,21,14,2,1,rush,Marshawn Lynch
+27,27,Raiders,2017-11-26,DEN,Win,21,14,3,6,pass,Jalen Richard
+28,28,Raiders,2017-12-03,NYG,Win,24,17,1,51,rush,Marshawn Lynch
+29,29,Raiders,2017-12-03,NYG,Win,24,17,4,9,rush,DeAndre Washington
+30,30,Raiders,2017-12-03,NYG,Win,24,17,4,9,pass,Johnny Holton
+31,31,Raiders,2017-12-10,KAN,Loss,15,26,4,22,rush,Marshawn Lynch
+32,32,Raiders,2017-12-10,KAN,Loss,15,26,4,29,pass,Jared Cook
+33,33,Raiders,2017-12-17,DAL,Loss,17,20,3,2,pass,Michael Crabtree
+34,34,Raiders,2017-12-17,DAL,Loss,17,20,4,2,pass,Michael Crabtree
+35,35,Raiders,2017-12-25,PHI,Loss,10,19,2,63,pass,Amari Cooper
+36,36,Raiders,2017-12-31,LAC,Loss,10,30,2,87,pass,Amari Cooper

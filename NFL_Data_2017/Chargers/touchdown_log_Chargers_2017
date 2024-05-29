@@ -1,44 +1,44 @@
-,Rank,Team,Date,Opponent,Win/Loss,Score,Quarter,Distance,Type,Detail,Year
-0,1,Chargers,09/11/2017,DEN,Loss, 21-24,2,11,pass,Melvin Gordon,2017
-1,2,Chargers,09/11/2017,DEN,Loss, 21-24,4,5,pass,Keenan Allen,2017
-2,3,Chargers,09/11/2017,DEN,Loss, 21-24,4,38,pass,Travis Benjamin,2017
-3,4,Chargers,09/17/2017,MIA,Loss, 17-19,2,1,rush,Melvin Gordon,2017
-4,5,Chargers,09/17/2017,MIA,Loss, 17-19,3,7,pass,Antonio Gates,2017
-5,6,Chargers,09/24/2017,KAN,Loss, 10-24,1,11,rush,Melvin Gordon,2017
-6,7,Chargers,10/01/2017,PHI,Loss, 24-26,2,75,pass,Tyrell Williams,2017
-7,8,Chargers,10/01/2017,PHI,Loss, 24-26,4,35,rush,Austin Ekeler,2017
-8,9,Chargers,10/01/2017,PHI,Loss, 24-26,4,4,pass,Hunter Henry,2017
-9,10,Chargers,10/08/2017,NYG,Win, 27-22,2,6,pass,Melvin Gordon,2017
-10,11,Chargers,10/08/2017,NYG,Win, 27-22,3,25,pass,Hunter Henry,2017
-11,12,Chargers,10/08/2017,NYG,Win, 27-22,4,10,pass,Melvin Gordon,2017
-12,13,Chargers,10/15/2017,OAK,Win, 17-16,2,1,rush,Melvin Gordon,2017
-13,14,Chargers,10/15/2017,OAK,Win, 17-16,4,6,pass,Melvin Gordon,2017
-14,15,Chargers,10/22/2017,DEN,,,1,65,punt,Travis Benjamin,2017
-15,16,Chargers,10/22/2017,DEN,,,2,1,pass,Austin Ekeler,2017
-16,17,Chargers,10/22/2017,DEN,,,4,42,pass,Travis Benjamin,2017
-17,18,Chargers,10/29/2017,NWE,Loss, 13-21,1,87,rush,Melvin Gordon,2017
-18,19,Chargers,10/29/2017,NWE,Loss, 13-21,4,24,pass,Travis Benjamin,2017
-19,20,Chargers,11/12/2017,JAX,Loss, 17-20,2,28,pass,Austin Ekeler,2017
-20,21,Chargers,11/12/2017,JAX,Loss, 17-20,3,22,pass,Austin Ekeler,2017
-21,22,Chargers,11/19/2017,BUF,Win, 54-24,1,59,interception,Korey Toomer,2017
-22,23,Chargers,11/19/2017,BUF,Win, 54-24,2,21,pass,Keenan Allen,2017
-23,24,Chargers,11/19/2017,BUF,Win, 54-24,2,2,pass,Keenan Allen,2017
-24,25,Chargers,11/19/2017,BUF,Win, 54-24,2,10,rush,Melvin Gordon,2017
-25,26,Chargers,11/19/2017,BUF,Win, 54-24,3,39,fumble,Melvin Ingram,2017
-26,27,Chargers,11/19/2017,BUF,Win, 54-24,4,21,rush,Austin Ekeler,2017
-27,28,Chargers,11/23/2017,DAL,Win, 28-6,3,3,pass,Hunter Henry,2017
-28,29,Chargers,11/23/2017,DAL,Win, 28-6,3,27,pass,Tyrell Williams,2017
-29,30,Chargers,11/23/2017,DAL,Win, 28-6,4,42,pass,Keenan Allen,2017
-30,31,Chargers,11/23/2017,DAL,Win, 28-6,4,90,interception,Desmond King,2017
-31,32,Chargers,12/03/2017,CLE,Win, 19-10,3,7,pass,Keenan Allen,2017
-32,33,Chargers,12/10/2017,WAS,Win, 30-13,1,8,pass,Hunter Henry,2017
-33,34,Chargers,12/10/2017,WAS,Win, 30-13,2,75,pass,Tyrell Williams,2017
-34,35,Chargers,12/10/2017,WAS,Win, 30-13,3,1,rush,Melvin Gordon,2017
-35,36,Chargers,12/16/2017,KAN,Loss, 13-30,2,2,rush,Melvin Gordon,2017
-36,37,Chargers,12/16/2017,KAN,Loss, 13-30,3,10,pass,Antonio Gates,2017
-37,38,Chargers,12/24/2017,NYJ,Win, 14-7,2,3,pass,Antonio Gates,2017
-38,39,Chargers,12/24/2017,NYJ,Win, 14-7,3,1,rush,Melvin Gordon,2017
-39,40,Chargers,12/31/2017,OAK,Win, 30-10,2,27,fumble,Keenan Allen,2017
-40,41,Chargers,12/31/2017,OAK,Win, 30-10,2,56,pass,Tyrell Williams,2017
-41,42,Chargers,12/31/2017,OAK,Win, 30-10,2,6,pass,Keenan Allen,2017
-42,43,Chargers,12/31/2017,OAK,Win, 30-10,3,62,pass,Travis Benjamin,2017
+,Rank,Team,Date,Opponent,Win/Loss,Home_Score,Opponenet_Score,Quarter,Distance,Type,Detail
+1,1,Chargers,2017-09-11,DEN,Loss,21,24,2,11,pass,Melvin Gordon
+2,2,Chargers,2017-09-11,DEN,Loss,21,24,4,5,pass,Keenan Allen
+3,3,Chargers,2017-09-11,DEN,Loss,21,24,4,38,pass,Travis Benjamin
+4,4,Chargers,2017-09-17,MIA,Loss,17,19,2,1,rush,Melvin Gordon
+5,5,Chargers,2017-09-17,MIA,Loss,17,19,3,7,pass,Antonio Gates
+6,6,Chargers,2017-09-24,KAN,Loss,10,24,1,11,rush,Melvin Gordon
+7,7,Chargers,2017-10-01,PHI,Loss,24,26,2,75,pass,Tyrell Williams
+8,8,Chargers,2017-10-01,PHI,Loss,24,26,4,35,rush,Austin Ekeler
+9,9,Chargers,2017-10-01,PHI,Loss,24,26,4,4,pass,Hunter Henry
+10,10,Chargers,2017-10-08,NYG,Win,27,22,2,6,pass,Melvin Gordon
+11,11,Chargers,2017-10-08,NYG,Win,27,22,3,25,pass,Hunter Henry
+12,12,Chargers,2017-10-08,NYG,Win,27,22,4,10,pass,Melvin Gordon
+13,13,Chargers,2017-10-15,OAK,Win,17,16,2,1,rush,Melvin Gordon
+14,14,Chargers,2017-10-15,OAK,Win,17,16,4,6,pass,Melvin Gordon
+15,15,Chargers,2017-10-22,DEN,nan,nan,nan,1,65,punt,Travis Benjamin
+16,16,Chargers,2017-10-22,DEN,nan,nan,nan,2,1,pass,Austin Ekeler
+17,17,Chargers,2017-10-22,DEN,nan,nan,nan,4,42,pass,Travis Benjamin
+18,18,Chargers,2017-10-29,NWE,Loss,13,21,1,87,rush,Melvin Gordon
+19,19,Chargers,2017-10-29,NWE,Loss,13,21,4,24,pass,Travis Benjamin
+20,20,Chargers,2017-11-12,JAX,Loss,17,20,2,28,pass,Austin Ekeler
+21,21,Chargers,2017-11-12,JAX,Loss,17,20,3,22,pass,Austin Ekeler
+22,22,Chargers,2017-11-19,BUF,Win,54,24,1,59,interception,Korey Toomer
+23,23,Chargers,2017-11-19,BUF,Win,54,24,2,21,pass,Keenan Allen
+24,24,Chargers,2017-11-19,BUF,Win,54,24,2,2,pass,Keenan Allen
+25,25,Chargers,2017-11-19,BUF,Win,54,24,2,10,rush,Melvin Gordon
+26,26,Chargers,2017-11-19,BUF,Win,54,24,3,39,fumble,Melvin Ingram
+27,27,Chargers,2017-11-19,BUF,Win,54,24,4,21,rush,Austin Ekeler
+28,28,Chargers,2017-11-23,DAL,Win,28,6,3,3,pass,Hunter Henry
+29,29,Chargers,2017-11-23,DAL,Win,28,6,3,27,pass,Tyrell Williams
+30,30,Chargers,2017-11-23,DAL,Win,28,6,4,42,pass,Keenan Allen
+31,31,Chargers,2017-11-23,DAL,Win,28,6,4,90,interception,Desmond King
+32,32,Chargers,2017-12-03,CLE,Win,19,10,3,7,pass,Keenan Allen
+33,33,Chargers,2017-12-10,WAS,Win,30,13,1,8,pass,Hunter Henry
+34,34,Chargers,2017-12-10,WAS,Win,30,13,2,75,pass,Tyrell Williams
+35,35,Chargers,2017-12-10,WAS,Win,30,13,3,1,rush,Melvin Gordon
+36,36,Chargers,2017-12-16,KAN,Loss,13,30,2,2,rush,Melvin Gordon
+37,37,Chargers,2017-12-16,KAN,Loss,13,30,3,10,pass,Antonio Gates
+38,38,Chargers,2017-12-24,NYJ,Win,14,7,2,3,pass,Antonio Gates
+39,39,Chargers,2017-12-24,NYJ,Win,14,7,3,1,rush,Melvin Gordon
+40,40,Chargers,2017-12-31,OAK,Win,30,10,2,27,fumble,Keenan Allen
+41,41,Chargers,2017-12-31,OAK,Win,30,10,2,56,pass,Tyrell Williams
+42,42,Chargers,2017-12-31,OAK,Win,30,10,2,6,pass,Keenan Allen
+43,43,Chargers,2017-12-31,OAK,Win,30,10,3,62,pass,Travis Benjamin

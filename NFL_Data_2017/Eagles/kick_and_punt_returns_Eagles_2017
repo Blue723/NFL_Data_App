@@ -1,7 +1,7 @@
-,No.,Team,Player,Age,Position,Games Played,Games Started,Punts Returned,Punts Return Yardage,Punts Returned for Touchdown,Longest Punt Return,Yards per Punt Return,Kickoff Returns,Yardage for Kickoffs Returned,Kickoffs Returned for a Touchdown,Longest Kickoff Return,Yards per Kickoff Return,All-purpose Yards,Year
-0,38,Eagles,Kenjon Barner,28,RB,13,1,27,240,0,76,8.9,10,194,0,27,19.4,547,2017
-1,28,Eagles,Wendell Smallwood,23,RB,8,3,0,0,0,0,,4,93,0,28,23.3,370,2017
-2,87,Eagles,Brent Celek,32,TE,16,10,0,0,0,0,,2,18,0,10,9.0,148,2017
-3,30,Eagles,Corey Clement,23,RB,16,0,0,0,0,0,,2,49,0,35,24.5,493,2017
-4,82,Eagles,Torrey Smith,28,WR,16,14,1,9,0,9,9.0,0,0,0,0,,436,2017
-5,43,Eagles,Darren Sproles,34,RB,3,0,1,10,0,10,10.0,0,0,0,0,,144,2017
+,No.,Player,Age,Position,Games Played,Games Started,Punts Returned,Punts Return Yardage,Punts Returned for Touchdown,Longest Punt Return,Yards per Punt Return,Kickoff Returns,Yardage for Kickoffs Returned,Kickoffs Returned for a Touchdown,Longest Kickoff Return,Yards per Kickoff Return,All-purpose Yards,Team,Year
+38,38,Kenjon Barner,28,RB,13,1,27,240,0,76,8.9,10,194,0,27,19.4,547,Eagles,2017
+28,28,Wendell Smallwood,23,RB,8,3,0,0,0,0,0.0,4,93,0,28,23.3,370,Eagles,2017
+87,87,Brent Celek,32,TE,16,10,0,0,0,0,0.0,2,18,0,10,9.0,148,Eagles,2017
+30,30,Corey Clement,23,RB,16,0,0,0,0,0,0.0,2,49,0,35,24.5,493,Eagles,2017
+82,82,Torrey Smith,28,WR,16,14,1,9,0,9,9.0,0,0,0,0,0.0,436,Eagles,2017
+43,43,Darren Sproles,34,RB,3,0,1,10,0,10,10.0,0,0,0,0,0.0,144,Eagles,2017

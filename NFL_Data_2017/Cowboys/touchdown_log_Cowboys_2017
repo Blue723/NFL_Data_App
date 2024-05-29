@@ -1,43 +1,43 @@
-,Rank,Team,Date,Opponent,Win/Loss,Score,Quarter,Distance,Type,Detail,Year
-0,1,Cowboys,09/10/2017,NYG,Win, 19-3,2,12,pass,Jason Witten,2017
-1,2,Cowboys,09/17/2017,DEN,Loss, 17-42,2,3,pass,Dez Bryant,2017
-2,3,Cowboys,09/17/2017,DEN,Loss, 17-42,4,28,pass,Jason Witten,2017
-3,4,Cowboys,09/25/2017,ARI,Win, 28-17,2,10,rush,Dak Prescott,2017
-4,5,Cowboys,09/25/2017,ARI,Win, 28-17,3,15,pass,Dez Bryant,2017
-5,6,Cowboys,09/25/2017,ARI,Win, 28-17,4,37,pass,Brice Butler,2017
-6,7,Cowboys,09/25/2017,ARI,Win, 28-17,4,8,rush,Ezekiel Elliott,2017
-7,8,Cowboys,10/01/2017,LAR,Loss, 30-35,2,10,pass,Ezekiel Elliott,2017
-8,9,Cowboys,10/01/2017,LAR,Loss, 30-35,2,1,rush,Ezekiel Elliott,2017
-9,10,Cowboys,10/01/2017,LAR,Loss, 30-35,2,10,pass,Brice Butler,2017
-10,11,Cowboys,10/01/2017,LAR,Loss, 30-35,4,28,pass,James Hanna,2017
-11,12,Cowboys,10/08/2017,GNB,Loss, 31-35,1,2,pass,Cole Beasley,2017
-12,13,Cowboys,10/08/2017,GNB,Loss, 31-35,2,5,pass,Cole Beasley,2017
-13,14,Cowboys,10/08/2017,GNB,Loss, 31-35,2,10,pass,Dez Bryant,2017
-14,15,Cowboys,10/08/2017,GNB,Loss, 31-35,4,11,rush,Dak Prescott,2017
-15,16,Cowboys,10/22/2017,SFO,Win, 40-10,1,1,rush,Ezekiel Elliott,2017
-16,17,Cowboys,10/22/2017,SFO,Win, 40-10,1,25,rush,Ezekiel Elliott,2017
-17,18,Cowboys,10/22/2017,SFO,Win, 40-10,2,18,pass,Jason Witten,2017
-18,19,Cowboys,10/22/2017,SFO,Win, 40-10,3,72,pass,Ezekiel Elliott,2017
-19,20,Cowboys,10/22/2017,SFO,Win, 40-10,3,2,rush,Dak Prescott,2017
-20,21,Cowboys,10/22/2017,SFO,Win, 40-10,4,2,pass,Dez Bryant,2017
-21,22,Cowboys,10/29/2017,WAS,Win, 33-19,1,13,rush,Ezekiel Elliott,2017
-22,23,Cowboys,10/29/2017,WAS,Win, 33-19,2,1,rush,Ezekiel Elliott,2017
-23,24,Cowboys,10/29/2017,WAS,Win, 33-19,4,21,interception,Byron Jones,2017
-24,25,Cowboys,11/05/2017,KAN,Win, 28-17,1,6,pass,Cole Beasley,2017
-25,26,Cowboys,11/05/2017,KAN,Win, 28-17,2,10,rush,Dak Prescott,2017
-26,27,Cowboys,11/05/2017,KAN,Win, 28-17,3,2,rush,Ezekiel Elliott,2017
-27,28,Cowboys,11/05/2017,KAN,Win, 28-17,4,7,pass,Cole Beasley,2017
-28,29,Cowboys,11/12/2017,ATL,Loss, 7-27,1,11,rush,Dak Prescott,2017
-29,30,Cowboys,11/23/2017,LAC,Loss, 6-28,4,2,rush,Rod Smith,2017
-30,31,Cowboys,11/30/2017,WAS,Win, 38-14,2,8,pass,Jason Witten,2017
-31,32,Cowboys,11/30/2017,WAS,Win, 38-14,2,83,punt,Ryan Switzer,2017
-32,33,Cowboys,11/30/2017,WAS,Win, 38-14,4,13,pass,Dez Bryant,2017
-33,34,Cowboys,11/30/2017,WAS,Win, 38-14,4,1,rush,Alfred Morris,2017
-34,35,Cowboys,11/30/2017,WAS,Win, 38-14,4,1,rush,Rod Smith,2017
-35,36,Cowboys,12/10/2017,NYG,Win, 30-10,2,50,pass,Dez Bryant,2017
-36,37,Cowboys,12/10/2017,NYG,Win, 30-10,4,20,pass,Jason Witten,2017
-37,38,Cowboys,12/10/2017,NYG,Win, 30-10,4,81,pass,Rod Smith,2017
-38,39,Cowboys,12/10/2017,NYG,Win, 30-10,4,15,rush,Rod Smith,2017
-39,40,Cowboys,12/17/2017,OAK,Win, 20-17,2,1,rush,Rod Smith,2017
-40,41,Cowboys,12/17/2017,OAK,Win, 20-17,3,5,rush,Dak Prescott,2017
-41,42,Cowboys,12/31/2017,PHI,,,4,20,pass,Brice Butler,2017
+,Rank,Team,Date,Opponent,Win/Loss,Home_Score,Opponenet_Score,Quarter,Distance,Type,Detail
+1,1,Cowboys,2017-09-10,NYG,Win,19,3,2,12,pass,Jason Witten
+2,2,Cowboys,2017-09-17,DEN,Loss,17,42,2,3,pass,Dez Bryant
+3,3,Cowboys,2017-09-17,DEN,Loss,17,42,4,28,pass,Jason Witten
+4,4,Cowboys,2017-09-25,ARI,Win,28,17,2,10,rush,Dak Prescott
+5,5,Cowboys,2017-09-25,ARI,Win,28,17,3,15,pass,Dez Bryant
+6,6,Cowboys,2017-09-25,ARI,Win,28,17,4,37,pass,Brice Butler
+7,7,Cowboys,2017-09-25,ARI,Win,28,17,4,8,rush,Ezekiel Elliott
+8,8,Cowboys,2017-10-01,LAR,Loss,30,35,2,10,pass,Ezekiel Elliott
+9,9,Cowboys,2017-10-01,LAR,Loss,30,35,2,1,rush,Ezekiel Elliott
+10,10,Cowboys,2017-10-01,LAR,Loss,30,35,2,10,pass,Brice Butler
+11,11,Cowboys,2017-10-01,LAR,Loss,30,35,4,28,pass,James Hanna
+12,12,Cowboys,2017-10-08,GNB,Loss,31,35,1,2,pass,Cole Beasley
+13,13,Cowboys,2017-10-08,GNB,Loss,31,35,2,5,pass,Cole Beasley
+14,14,Cowboys,2017-10-08,GNB,Loss,31,35,2,10,pass,Dez Bryant
+15,15,Cowboys,2017-10-08,GNB,Loss,31,35,4,11,rush,Dak Prescott
+16,16,Cowboys,2017-10-22,SFO,Win,40,10,1,1,rush,Ezekiel Elliott
+17,17,Cowboys,2017-10-22,SFO,Win,40,10,1,25,rush,Ezekiel Elliott
+18,18,Cowboys,2017-10-22,SFO,Win,40,10,2,18,pass,Jason Witten
+19,19,Cowboys,2017-10-22,SFO,Win,40,10,3,72,pass,Ezekiel Elliott
+20,20,Cowboys,2017-10-22,SFO,Win,40,10,3,2,rush,Dak Prescott
+21,21,Cowboys,2017-10-22,SFO,Win,40,10,4,2,pass,Dez Bryant
+22,22,Cowboys,2017-10-29,WAS,Win,33,19,1,13,rush,Ezekiel Elliott
+23,23,Cowboys,2017-10-29,WAS,Win,33,19,2,1,rush,Ezekiel Elliott
+24,24,Cowboys,2017-10-29,WAS,Win,33,19,4,21,interception,Byron Jones
+25,25,Cowboys,2017-11-05,KAN,Win,28,17,1,6,pass,Cole Beasley
+26,26,Cowboys,2017-11-05,KAN,Win,28,17,2,10,rush,Dak Prescott
+27,27,Cowboys,2017-11-05,KAN,Win,28,17,3,2,rush,Ezekiel Elliott
+28,28,Cowboys,2017-11-05,KAN,Win,28,17,4,7,pass,Cole Beasley
+29,29,Cowboys,2017-11-12,ATL,Loss,7,27,1,11,rush,Dak Prescott
+30,30,Cowboys,2017-11-23,LAC,Loss,6,28,4,2,rush,Rod Smith
+31,31,Cowboys,2017-11-30,WAS,Win,38,14,2,8,pass,Jason Witten
+32,32,Cowboys,2017-11-30,WAS,Win,38,14,2,83,punt,Ryan Switzer
+33,33,Cowboys,2017-11-30,WAS,Win,38,14,4,13,pass,Dez Bryant
+34,34,Cowboys,2017-11-30,WAS,Win,38,14,4,1,rush,Alfred Morris
+35,35,Cowboys,2017-11-30,WAS,Win,38,14,4,1,rush,Rod Smith
+36,36,Cowboys,2017-12-10,NYG,Win,30,10,2,50,pass,Dez Bryant
+37,37,Cowboys,2017-12-10,NYG,Win,30,10,4,20,pass,Jason Witten
+38,38,Cowboys,2017-12-10,NYG,Win,30,10,4,81,pass,Rod Smith
+39,39,Cowboys,2017-12-10,NYG,Win,30,10,4,15,rush,Rod Smith
+40,40,Cowboys,2017-12-17,OAK,Win,20,17,2,1,rush,Rod Smith
+41,41,Cowboys,2017-12-17,OAK,Win,20,17,3,5,rush,Dak Prescott
+42,42,Cowboys,2017-12-31,PHI,nan,nan,nan,4,20,pass,Brice Butler

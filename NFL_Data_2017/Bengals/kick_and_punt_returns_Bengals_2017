@@ -1,7 +1,7 @@
-,No.,Team,Player,Age,Position,Games Played,Games Started,Punts Returned,Punts Return Yardage,Punts Returned for Touchdown,Longest Punt Return,Yards per Punt Return,Kickoff Returns,Yardage for Kickoffs Returned,Kickoffs Returned for a Touchdown,Longest Kickoff Return,Yards per Kickoff Return,All-purpose Yards,Year
-0,12,Bengals,Alex Erickson,25,WR,16,0,39,278,0,29,7.1,32,663,0,41,20.7,1137,2017
-1,24,Bengals,Adam Jones,34,RCB,9,9,6,131,0,40,21.8,0,0,0,0,,131,2017
-2,25,Bengals,Giovani Bernard,26,RB,16,2,0,0,0,0,,1,7,0,7,7.0,854,2017
-3,82,Bengals,Cethan Carter,22,TE,16,0,0,0,0,0,,1,0,0,0,0.0,0,2017
-4,21,Bengals,Darqueze Dennard,26,DB,16,6,1,0,0,0,0.0,0,0,0,0,,109,2017
-5,22,Bengals,William Jackson III,25,DB,15,5,1,0,0,0,0.0,0,0,0,0,,75,2017
+,No.,Player,Age,Position,Games Played,Games Started,Punts Returned,Punts Return Yardage,Punts Returned for Touchdown,Longest Punt Return,Yards per Punt Return,Kickoff Returns,Yardage for Kickoffs Returned,Kickoffs Returned for a Touchdown,Longest Kickoff Return,Yards per Kickoff Return,All-purpose Yards,Team,Year
+12,12,Alex Erickson,25,WR,16,0,39,278,0,29,7.1,32,663,0,41,20.7,1137,Bengals,2017
+24,24,Adam Jones,34,RCB,9,9,6,131,0,40,21.8,0,0,0,0,0.0,131,Bengals,2017
+25,25,Giovani Bernard,26,RB,16,2,0,0,0,0,0.0,1,7,0,7,7.0,854,Bengals,2017
+82,82,Cethan Carter,22,TE,16,0,0,0,0,0,0.0,1,0,0,0,0.0,0,Bengals,2017
+21,21,Darqueze Dennard,26,DB,16,6,1,0,0,0,0.0,0,0,0,0,0.0,109,Bengals,2017
+22,22,William Jackson III,25,DB,15,5,1,0,0,0,0.0,0,0,0,0,0.0,75,Bengals,2017

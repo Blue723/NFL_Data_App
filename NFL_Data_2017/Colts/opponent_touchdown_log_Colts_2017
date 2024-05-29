@@ -1,45 +1,45 @@
-,Rank,Team,Date,Opponent,Win/Loss,Score,Quarter,Distance,Type,Detail,Year
-0,1,Colts,09/10/2017,LAR,Loss, 9-46,1,39,interception,Trumaine Johnson,2017
-1,2,Colts,09/10/2017,LAR,Loss, 9-46,2,5,rush,Todd Gurley,2017
-2,3,Colts,09/10/2017,LAR,Loss, 9-46,2,18,pass,Cooper Kupp,2017
-3,4,Colts,09/10/2017,LAR,Loss, 9-46,3,29,interception,Lamarcus Joyner,2017
-4,5,Colts,09/10/2017,LAR,Loss, 9-46,4,3,rush,Malcolm Brown,2017
-5,6,Colts,09/17/2017,ARI,Loss, 13-16,4,45,pass,JJ Nelson,2017
-6,7,Colts,09/24/2017,CLE,Win, 31-28,2,19,rush,Duke Johnson,2017
-7,8,Colts,09/24/2017,CLE,Win, 31-28,2,1,pass,David Njoku,2017
-8,9,Colts,09/24/2017,CLE,Win, 31-28,4,11,pass,Kenny Britt,2017
-9,10,Colts,09/24/2017,CLE,Win, 31-28,4,1,rush,DeShone Kizer,2017
-10,11,Colts,10/01/2017,SEA,Loss, 18-46,2,28,interception,Justin Coleman,2017
-11,12,Colts,10/01/2017,SEA,Loss, 18-46,3,23,rush,Russell Wilson,2017
-12,13,Colts,10/01/2017,SEA,Loss, 18-46,3,30,rush,J.D. McKissic,2017
-13,14,Colts,10/01/2017,SEA,Loss, 18-46,3,21,fumble,Bobby Wagner,2017
-14,15,Colts,10/01/2017,SEA,Loss, 18-46,4,6,pass,Luke Willson,2017
-15,16,Colts,10/01/2017,SEA,Loss, 18-46,4,27,pass,J.D. McKissic,2017
-16,17,Colts,10/08/2017,SFO,Win, 26-23,4,6,pass,Kyle Juszczyk,2017
-17,18,Colts,10/08/2017,SFO,Win, 26-23,4,5,pass,George Kittle,2017
-18,19,Colts,10/16/2017,TEN,Loss, 22-36,4,3,rush,DeMarco Murray,2017
-19,20,Colts,10/16/2017,TEN,Loss, 22-36,4,53,pass,Taywan Taylor,2017
-20,21,Colts,10/16/2017,TEN,Loss, 22-36,4,72,rush,Derrick Henry,2017
-21,22,Colts,10/22/2017,JAX,, 22-36,1,1,rush,Chris Ivory,2017
-22,23,Colts,10/22/2017,JAX,, 22-36,1,5,pass,Marcedes Lewis,2017
-23,24,Colts,10/22/2017,JAX,, 22-36,3,58,rush,T.J. Yeldon,2017
-24,25,Colts,10/29/2017,CIN,Loss, 23-24,2,8,pass,A.J. Green,2017
-25,26,Colts,10/29/2017,CIN,Loss, 23-24,3,25,pass,Josh Malone,2017
-26,27,Colts,10/29/2017,CIN,Loss, 23-24,4,16,interception,Carlos Dunlap,2017
-27,28,Colts,11/05/2017,HOU,Win, 20-14,2,34,fumble,Lamarr Houston,2017
-28,29,Colts,11/05/2017,HOU,Win, 20-14,4,34,pass,DeAndre Hopkins,2017
-29,30,Colts,11/12/2017,PIT,Loss, 17-20,3,7,pass,JuJu Smith-Schuster,2017
-30,31,Colts,11/12/2017,PIT,Loss, 17-20,4,7,pass,Vance McDonald,2017
-31,32,Colts,11/26/2017,TEN,Loss, 16-20,3,2,pass,Delanie Walker,2017
-32,33,Colts,11/26/2017,TEN,Loss, 16-20,4,1,rush,DeMarco Murray,2017
-33,34,Colts,12/03/2017,JAX,Loss, 10-30,1,4,pass,Marqise Lee,2017
-34,35,Colts,12/03/2017,JAX,Loss, 10-30,2,8,pass,Keelan Cole,2017
-35,36,Colts,12/03/2017,JAX,Loss, 10-30,3,5,rush,Leonard Fournette,2017
-36,37,Colts,12/10/2017,BUF,Loss, 7-13,2,8,pass,Kelvin Benjamin,2017
-37,38,Colts,12/10/2017,BUF,Loss, 7-13,5,21,rush,LeSean McCoy,2017
-38,39,Colts,12/14/2017,DEN,Loss, 13-25,2,18,rush,Brock Osweiler,2017
-39,40,Colts,12/14/2017,DEN,Loss, 13-25,3,22,pass,Cody Latimer,2017
-40,41,Colts,12/14/2017,DEN,Loss, 13-25,3,54,pass,Jeff Heuerman,2017
-41,42,Colts,12/23/2017,BAL,Loss, 16-23,2,6,pass,Michael Campanaro,2017
-42,43,Colts,12/23/2017,BAL,Loss, 16-23,4,4,pass,Maxx Williams,2017
-43,44,Colts,12/31/2017,HOU,Win, 22-13,2,2,rush,Alfred Blue,2017
+,Rank,Team,Date,Opponent,Win/Loss,Home_Score,Opponenet_Score,Quarter,Distance,Type,Detail
+1,1,Colts,2017-09-10,LAR,Loss,9,46,1,39,interception,Trumaine Johnson
+2,2,Colts,2017-09-10,LAR,Loss,9,46,2,5,rush,Todd Gurley
+3,3,Colts,2017-09-10,LAR,Loss,9,46,2,18,pass,Cooper Kupp
+4,4,Colts,2017-09-10,LAR,Loss,9,46,3,29,interception,Lamarcus Joyner
+5,5,Colts,2017-09-10,LAR,Loss,9,46,4,3,rush,Malcolm Brown
+6,6,Colts,2017-09-17,ARI,Loss,13,16,4,45,pass,JJ Nelson
+7,7,Colts,2017-09-24,CLE,Win,31,28,2,19,rush,Duke Johnson
+8,8,Colts,2017-09-24,CLE,Win,31,28,2,1,pass,David Njoku
+9,9,Colts,2017-09-24,CLE,Win,31,28,4,11,pass,Kenny Britt
+10,10,Colts,2017-09-24,CLE,Win,31,28,4,1,rush,DeShone Kizer
+11,11,Colts,2017-10-01,SEA,Loss,18,46,2,28,interception,Justin Coleman
+12,12,Colts,2017-10-01,SEA,Loss,18,46,3,23,rush,Russell Wilson
+13,13,Colts,2017-10-01,SEA,Loss,18,46,3,30,rush,J.D. McKissic
+14,14,Colts,2017-10-01,SEA,Loss,18,46,3,21,fumble,Bobby Wagner
+15,15,Colts,2017-10-01,SEA,Loss,18,46,4,6,pass,Luke Willson
+16,16,Colts,2017-10-01,SEA,Loss,18,46,4,27,pass,J.D. McKissic
+17,17,Colts,2017-10-08,SFO,Win,26,23,4,6,pass,Kyle Juszczyk
+18,18,Colts,2017-10-08,SFO,Win,26,23,4,5,pass,George Kittle
+19,19,Colts,2017-10-16,TEN,Loss,22,36,4,3,rush,DeMarco Murray
+20,20,Colts,2017-10-16,TEN,Loss,22,36,4,53,pass,Taywan Taylor
+21,21,Colts,2017-10-16,TEN,Loss,22,36,4,72,rush,Derrick Henry
+22,22,Colts,2017-10-22,JAX,nan,nan,nan,1,1,rush,Chris Ivory
+23,23,Colts,2017-10-22,JAX,nan,nan,nan,1,5,pass,Marcedes Lewis
+24,24,Colts,2017-10-22,JAX,nan,nan,nan,3,58,rush,T.J. Yeldon
+25,25,Colts,2017-10-29,CIN,Loss,23,24,2,8,pass,A.J. Green
+26,26,Colts,2017-10-29,CIN,Loss,23,24,3,25,pass,Josh Malone
+27,27,Colts,2017-10-29,CIN,Loss,23,24,4,16,interception,Carlos Dunlap
+28,28,Colts,2017-11-05,HOU,Win,20,14,2,34,fumble,Lamarr Houston
+29,29,Colts,2017-11-05,HOU,Win,20,14,4,34,pass,DeAndre Hopkins
+30,30,Colts,2017-11-12,PIT,Loss,17,20,3,7,pass,JuJu Smith-Schuster
+31,31,Colts,2017-11-12,PIT,Loss,17,20,4,7,pass,Vance McDonald
+32,32,Colts,2017-11-26,TEN,Loss,16,20,3,2,pass,Delanie Walker
+33,33,Colts,2017-11-26,TEN,Loss,16,20,4,1,rush,DeMarco Murray
+34,34,Colts,2017-12-03,JAX,Loss,10,30,1,4,pass,Marqise Lee
+35,35,Colts,2017-12-03,JAX,Loss,10,30,2,8,pass,Keelan Cole
+36,36,Colts,2017-12-03,JAX,Loss,10,30,3,5,rush,Leonard Fournette
+37,37,Colts,2017-12-10,BUF,Loss,7,13,2,8,pass,Kelvin Benjamin
+38,38,Colts,2017-12-10,BUF,Loss,7,13,5,21,rush,LeSean McCoy
+39,39,Colts,2017-12-14,DEN,Loss,13,25,2,18,rush,Brock Osweiler
+40,40,Colts,2017-12-14,DEN,Loss,13,25,3,22,pass,Cody Latimer
+41,41,Colts,2017-12-14,DEN,Loss,13,25,3,54,pass,Jeff Heuerman
+42,42,Colts,2017-12-23,BAL,Loss,16,23,2,6,pass,Michael Campanaro
+43,43,Colts,2017-12-23,BAL,Loss,16,23,4,4,pass,Maxx Williams
+44,44,Colts,2017-12-31,HOU,Win,22,13,2,2,rush,Alfred Blue

@@ -1,13 +1,13 @@
-,No.,Team,Player,Age,Pos,Games Played,Games Started,Rush TD,Reception TD,Punt Return TD,Kick Return TD,Fumble Return TD,Interception TD,Other TD,All Touchdown Scored,2-Point Conversions Made,Two-Point Conversions Attempted,Defensive Two-Point Conversions,Extra Points Made,Extra Points Allowed,Field Goals Made,Field Goals Attempted,Safeties Scored by Player/Team,Total Points Scored by all Means,Poins per Game,Year
-0,2,Packers,Mason Crosby,33,K,16,0,0,0,0,0,0,0,0,0,0,0,0,33,35,15,19,,78,4.9,2017
-1,17,Packers,Davante Adams,25,WR,14,14,0,10,0,0,0,0,0,10,0,0,0,0,0,0,0,,60,4.3,2017
-2,87,Packers,Jordy Nelson,32,WR,15,15,0,6,0,0,0,0,0,6,0,0,0,0,0,0,0,,36,2.4,2017
-3,30,Packers,Jamaal Williams,22,RB,16,7,4,2,0,0,0,0,0,6,0,0,0,0,0,0,0,,36,2.3,2017
-4,18,Packers,Randall Cobb,27,WR,15,14,0,4,0,0,0,0,0,4,1,0,0,0,0,0,0,,26,1.7,2017
-5,33,Packers,Aaron Jones,23,RB,12,4,4,0,0,0,0,0,0,4,0,0,0,0,0,0,0,,24,2.0,2017
-6,88,Packers,Ty Montgomery,24,RB,8,5,3,1,0,0,0,0,0,4,0,0,0,0,0,0,0,,24,3.0,2017
-7,7,Packers,Brett Hundley,24,QB,11,9,2,0,0,0,0,0,0,2,0,0,0,0,0,0,0,,12,1.1,2017
-8,84,Packers,Lance Kendricks,29,TE,16,9,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,,6,0.4,2017
-9,94,Packers,Dean Lowry,23,LDE,16,11,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,,6,0.4,2017
-10,23,Packers,Damarious Randall,25,RCB/LCB,14,12,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,,6,0.4,2017
-11,82,Packers,Richard Rodgers,25,TE,15,1,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,,6,0.4,2017
+,No.,Player,Age,Pos,Games Played,Games Started,Rush TD,Reception TD,Punt Return TD,Kick Return TD,Fumble Return TD,Interception TD,Other TD,All Touchdown Scored,2-Point Conversions Made,Two-Point Conversions Attempted,Defensive Two-Point Conversions,Extra Points Made,Extra Points Allowed,Field Goals Made,Field Goals Attempted,Safeties Scored by Player/Team,Total Points Scored by all Means,Poins per Game,Team,Year
+2,2,Mason Crosby,33,K,16,0,0,0,0,0,0,0,0,0,0,0,0,33,35,15,19,0,78,4.9,Packers,2017
+17,17,Davante Adams,25,WR,14,14,0,10,0,0,0,0,0,10,0,0,0,0,0,0,0,0,60,4.3,Packers,2017
+87,87,Jordy Nelson,32,WR,15,15,0,6,0,0,0,0,0,6,0,0,0,0,0,0,0,0,36,2.4,Packers,2017
+30,30,Jamaal Williams,22,RB,16,7,4,2,0,0,0,0,0,6,0,0,0,0,0,0,0,0,36,2.3,Packers,2017
+18,18,Randall Cobb,27,WR,15,14,0,4,0,0,0,0,0,4,1,0,0,0,0,0,0,0,26,1.7,Packers,2017
+33,33,Aaron Jones,23,RB,12,4,4,0,0,0,0,0,0,4,0,0,0,0,0,0,0,0,24,2.0,Packers,2017
+88,88,Ty Montgomery,24,RB,8,5,3,1,0,0,0,0,0,4,0,0,0,0,0,0,0,0,24,3.0,Packers,2017
+7,7,Brett Hundley,24,QB,11,9,2,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,12,1.1,Packers,2017
+84,84,Lance Kendricks,29,TE,16,9,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,6,0.4,Packers,2017
+94,94,Dean Lowry,23,LDE,16,11,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,6,0.4,Packers,2017
+23,23,Damarious Randall,25,RCB/LCB,14,12,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,6,0.4,Packers,2017
+82,82,Richard Rodgers,25,TE,15,1,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,6,0.4,Packers,2017

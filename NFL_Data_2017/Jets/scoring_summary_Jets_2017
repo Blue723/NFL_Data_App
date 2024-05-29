@@ -1,11 +1,11 @@
-,No.,Team,Player,Age,Pos,Games Played,Games Started,Rush TD,Reception TD,Punt Return TD,Kick Return TD,Fumble Return TD,Interception TD,Other TD,All Touchdown Scored,2-Point Conversions Made,Two-Point Conversions Attempted,Defensive Two-Point Conversions,Extra Points Made,Extra Points Allowed,Field Goals Made,Field Goals Attempted,Safeties Scored by Player/Team,Total Points Scored by all Means,Poins per Game,Year
-0,7,Jets,Chandler Catanzaro,26,K,16,0,0,0,0,0,0,0,0,0,0,0,0,29,29,25,30,,104,6.5,2017
-1,11,Jets,Robbie Chosen,24,WR,16,15,0,7,0,0,0,0,0,7,0,0,0,0,0,0,0,,42,2.6,2017
-2,10,Jets,Jermaine Kearse,27,WR,16,14,0,5,0,0,0,0,0,5,0,0,0,0,0,0,0,,30,1.9,2017
-3,15,Jets,Josh McCown,38,QB,13,13,5,0,0,0,0,0,0,5,0,0,0,0,0,0,0,,30,2.3,2017
-4,29,Jets,Bilal Powell,29,RB,15,10,5,0,0,0,0,0,0,5,0,0,0,0,0,0,0,,30,2.0,2017
-5,22,Jets,Matt Forte,32,RB,12,4,2,1,0,0,0,0,0,3,0,0,0,0,0,0,0,,18,1.5,2017
-6,88,Jets,Austin Seferian-Jenkins,25,TE,13,10,0,3,0,0,0,0,0,3,0,0,0,0,0,0,0,,18,1.4,2017
-7,25,Jets,Elijah McGuire,23,RB,16,2,1,1,0,0,0,0,0,2,1,0,0,0,0,0,0,,14,0.9,2017
-8,14,Jets,Jeremy Kerley,29,WR,8,2,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,,6,0.8,2017
-9,83,Jets,Eric Tomlinson,25,TE,14,12,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,,6,0.4,2017
+,No.,Player,Age,Pos,Games Played,Games Started,Rush TD,Reception TD,Punt Return TD,Kick Return TD,Fumble Return TD,Interception TD,Other TD,All Touchdown Scored,2-Point Conversions Made,Two-Point Conversions Attempted,Defensive Two-Point Conversions,Extra Points Made,Extra Points Allowed,Field Goals Made,Field Goals Attempted,Safeties Scored by Player/Team,Total Points Scored by all Means,Poins per Game,Team,Year
+7,7,Chandler Catanzaro,26,K,16,0,0,0,0,0,0,0,0,0,0,0,0,29,29,25,30,0,104,6.5,Jets,2017
+11,11,Robbie Chosen,24,WR,16,15,0,7,0,0,0,0,0,7,0,0,0,0,0,0,0,0,42,2.6,Jets,2017
+10,10,Jermaine Kearse,27,WR,16,14,0,5,0,0,0,0,0,5,0,0,0,0,0,0,0,0,30,1.9,Jets,2017
+15,15,Josh McCown,38,QB,13,13,5,0,0,0,0,0,0,5,0,0,0,0,0,0,0,0,30,2.3,Jets,2017
+29,29,Bilal Powell,29,RB,15,10,5,0,0,0,0,0,0,5,0,0,0,0,0,0,0,0,30,2.0,Jets,2017
+22,22,Matt Forte,32,RB,12,4,2,1,0,0,0,0,0,3,0,0,0,0,0,0,0,0,18,1.5,Jets,2017
+88,88,Austin Seferian-Jenkins,25,TE,13,10,0,3,0,0,0,0,0,3,0,0,0,0,0,0,0,0,18,1.4,Jets,2017
+25,25,Elijah McGuire,23,RB,16,2,1,1,0,0,0,0,0,2,1,0,0,0,0,0,0,0,14,0.9,Jets,2017
+14,14,Jeremy Kerley,29,WR,8,2,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,6,0.8,Jets,2017
+83,83,Eric Tomlinson,25,TE,14,12,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,6,0.4,Jets,2017

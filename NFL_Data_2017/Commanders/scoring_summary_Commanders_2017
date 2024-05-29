@@ -1,17 +1,17 @@
-,No.,Team,Player,Age,Pos,Games Played,Games Started,Rush TD,Reception TD,Punt Return TD,Kick Return TD,Fumble Return TD,Interception TD,Other TD,All Touchdown Scored,2-Point Conversions Made,Two-Point Conversions Attempted,Defensive Two-Point Conversions,Extra Points Made,Extra Points Allowed,Field Goals Made,Field Goals Attempted,Safeties Scored by Player/Team,Total Points Scored by all Means,Poins per Game,Year
-0,3,Commanders,Dustin Hopkins,27,K,8,0,0,0,0,0,0,0,0,0,0,0,0,18,19,14,17,,60,7.5,2017
-1,6,Commanders,Nick Rose,23,K,8,0,0,0,0,0,0,0,0,0,0,0,0,18,20,10,11,,48,6.0,2017
-2,18,Commanders,Josh Doctson,25,WR,16,14,0,6,0,0,0,0,0,6,0,0,0,0,0,0,0,,36,2.3,2017
-3,25,Commanders,Chris Thompson,27,RB,10,1,2,4,0,0,0,0,0,6,0,0,0,0,0,0,0,,36,3.6,2017
-4,8,Commanders,Kirk Cousins,29,QB,16,16,4,0,0,0,0,0,0,4,0,0,0,0,0,0,0,,24,1.5,2017
-5,14,Commanders,Ryan Grant,27,WR,16,7,0,4,0,0,0,0,0,4,0,0,0,0,0,0,0,,24,1.5,2017
-6,80,Commanders,Jamison Crowder,24,WR,15,6,0,3,0,0,0,0,0,3,0,0,0,0,0,0,0,,18,1.2,2017
-7,85,Commanders,Vernon Davis,33,TE,16,16,0,3,0,0,0,0,0,3,0,0,0,0,0,0,0,,18,1.1,2017
-8,20,Commanders,Robert Kelley,25,RB,7,7,3,0,0,0,0,0,0,3,0,0,0,0,0,0,0,,18,2.6,2017
-9,32,Commanders,Samaje Perine,22,RB,16,8,1,1,0,0,0,0,0,2,0,0,0,0,0,0,0,,12,0.8,2017
-10,86,Commanders,Jordan Reed,27,TE,6,5,0,2,0,0,0,0,0,2,0,0,0,0,0,0,0,,12,2.0,2017
-11,39,Commanders,Kapri Bibbs,24,RB,3,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,,6,2.0,2017
-12,26,Commanders,Bashaud Breeland,25,LCB,15,14,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,,6,0.4,2017
-13,91,Commanders,Ryan Kerrigan,29,ROLB,16,16,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,,6,0.4,2017
-14,11,Commanders,Terrelle Pryor,28,WR,9,2,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,,6,0.7,2017
-15,87,Commanders,Jeremy Sprinkle,23,TE,11,5,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,,6,0.5,2017
+,No.,Player,Age,Pos,Games Played,Games Started,Rush TD,Reception TD,Punt Return TD,Kick Return TD,Fumble Return TD,Interception TD,Other TD,All Touchdown Scored,2-Point Conversions Made,Two-Point Conversions Attempted,Defensive Two-Point Conversions,Extra Points Made,Extra Points Allowed,Field Goals Made,Field Goals Attempted,Safeties Scored by Player/Team,Total Points Scored by all Means,Poins per Game,Team,Year
+3,3,Dustin Hopkins,27,K,8,0,0,0,0,0,0,0,0,0,0,0,0,18,19,14,17,0,60,7.5,Commanders,2017
+6,6,Nick Rose,23,K,8,0,0,0,0,0,0,0,0,0,0,0,0,18,20,10,11,0,48,6.0,Commanders,2017
+18,18,Josh Doctson,25,WR,16,14,0,6,0,0,0,0,0,6,0,0,0,0,0,0,0,0,36,2.3,Commanders,2017
+25,25,Chris Thompson,27,RB,10,1,2,4,0,0,0,0,0,6,0,0,0,0,0,0,0,0,36,3.6,Commanders,2017
+8,8,Kirk Cousins,29,QB,16,16,4,0,0,0,0,0,0,4,0,0,0,0,0,0,0,0,24,1.5,Commanders,2017
+14,14,Ryan Grant,27,WR,16,7,0,4,0,0,0,0,0,4,0,0,0,0,0,0,0,0,24,1.5,Commanders,2017
+80,80,Jamison Crowder,24,WR,15,6,0,3,0,0,0,0,0,3,0,0,0,0,0,0,0,0,18,1.2,Commanders,2017
+85,85,Vernon Davis,33,TE,16,16,0,3,0,0,0,0,0,3,0,0,0,0,0,0,0,0,18,1.1,Commanders,2017
+20,20,Robert Kelley,25,RB,7,7,3,0,0,0,0,0,0,3,0,0,0,0,0,0,0,0,18,2.6,Commanders,2017
+32,32,Samaje Perine,22,RB,16,8,1,1,0,0,0,0,0,2,0,0,0,0,0,0,0,0,12,0.8,Commanders,2017
+86,86,Jordan Reed,27,TE,6,5,0,2,0,0,0,0,0,2,0,0,0,0,0,0,0,0,12,2.0,Commanders,2017
+39,39,Kapri Bibbs,24,RB,3,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,6,2.0,Commanders,2017
+26,26,Bashaud Breeland,25,LCB,15,14,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,6,0.4,Commanders,2017
+91,91,Ryan Kerrigan,29,ROLB,16,16,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,6,0.4,Commanders,2017
+11,11,Terrelle Pryor,28,WR,9,2,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,6,0.7,Commanders,2017
+87,87,Jeremy Sprinkle,23,TE,11,5,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,6,0.5,Commanders,2017

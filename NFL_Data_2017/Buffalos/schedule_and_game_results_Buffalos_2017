@@ -1,20 +1,18 @@
-,Week,Team,Day,Date,Time,Win/Loss,Overtime,Team Record,Home/Away,Opponent,Points Scored,Points Allowed,Offense 1st Down,Total Yards Gained of Offense,Total yards Gained by Passing,Total Yards Gained by Rushing,Offense Turnovers,Defense 1st Down,Total Yards Allowed by Defense,Total Passing Yards Allowed by Defense,Total Rushing Yards Allowed by Defense,Defense Turnovers,Offense,Defense,Sp. Tms,Year
-0,0,Buffalos,Sun,September 10,,W,0,1-0,home,New York Jets,21,12,23,408,218,190,1,11,214,176,38,2,6.63,12.4,-10.09,2017
-1,1,Buffalos,Sun,September 17,,L,0,1-1,away,Carolina Panthers,3,9,10,176,107,69,0,19,255,178,77,0,-16.06,5.88,3.19,2017
-2,2,Buffalos,Sun,September 24,,W,0,2-1,home,Denver Broncos,26,16,16,272,197,75,0,21,366,255,111,2,-0.95,5.95,5.49,2017
-3,3,Buffalos,Sun,October 1,,W,0,3-1,away,Atlanta Falcons,23,17,15,281,164,117,0,25,389,242,147,3,0.19,0.24,3.82,2017
-4,4,Buffalos,Sun,October 8,,L,0,3-2,away,Cincinnati Bengals,16,20,17,221,139,82,1,18,388,323,65,3,-8.53,0.39,3.6,2017
-5,5,Buffalos,,,,,0,,home,<strong>Bye Week</strong>,0,0,0,0,0,0,0,0,0,0,0,0,,,,2017
-6,6,Buffalos,Sun,October 22,,W,0,4-2,home,Tampa Bay Buccaneers,30,27,23,434,261,173,1,27,447,378,69,3,15.51,-10.64,1.04,2017
-7,7,Buffalos,Sun,October 29,,W,0,5-2,home,Oakland Raiders,34,14,17,331,165,166,0,23,367,313,54,4,4.35,4.3,7.44,2017
-8,8,Buffalos,Thu,November 2,,L,0,5-3,away,New York Jets,21,34,21,307,244,63,3,21,331,137,194,0,-6.85,-10.47,2.75,2017
-9,9,Buffalos,Sun,November 12,,L,0,5-4,home,New Orleans Saints,10,47,10,198,129,69,1,32,482,184,298,1,-13.18,-27.89,3.74,2017
-10,10,Buffalos,Sun,November 19,,L,0,5-5,away,Los Angeles Chargers,24,54,18,393,220,173,6,28,429,283,146,0,-14.25,-18.37,2.88,2017
-11,11,Buffalos,Sun,November 26,,W,0,6-5,away,Kansas City Chiefs,16,10,17,268,164,104,0,14,236,181,55,1,-5.84,15.27,-0.26,2017
-12,12,Buffalos,Sun,December 3,,L,0,6-6,home,New England Patriots,3,23,16,268,85,183,1,23,435,244,191,1,-14.27,-10.85,2.35,2017
-13,13,1,1,1,1.0,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1.0,1.0,1.0,1
-14,14,Buffalos,Sun,December 17,,W,0,8-6,home,Miami Dolphins,24,16,21,328,212,116,0,21,349,249,100,3,7.23,7.99,-5.67,2017
-15,15,Buffalos,Sun,December 24,,L,0,8-7,away,New England Patriots,16,37,17,326,242,84,0,28,411,218,193,1,-2.94,-21.06,0.79,2017
-16,16,Buffalos,Sun,December 31,,W,0,9-7,away,Miami Dolphins,22,16,23,312,186,126,0,21,356,263,93,1,10.73,1.12,-5.71,2017
-17,17,Buffalos,,<strong>Playoffs</strong>,,,0,,home,,0,0,0,0,0,0,0,0,0,0,0,0,,,,2017
-18,18,Buffalos,Sun,January 7,,L,0,9-8,away,Jacksonville Jaguars,3,10,20,263,133,130,2,15,230,75,155,0,-12.27,6.56,-5.13,2017
+,Week,Day,Date,Time,Win/Loss,Overtime,Team Record,Home/Away,Opponent,Points Scored,Points Allowed,Offense 1st Down,Total Yards Gained of Offense,Total yards Gained by Passing,Total Yards Gained by Rushing,Offense Turnovers,Defense 1st Down,Total Yards Allowed by Defense,Total Passing Yards Allowed by Defense,Total Rushing Yards Allowed by Defense,Defense Turnovers,Offense,Defense,Sp. Tms,Team,Year
+0,1,Sun,2017-09-10,nan,Win,0,1-0,home,New York Jets,21,12,23,408,218,190,1,11,214,176,38,2,6.63,12.4,-10.09,Buffalos,2017
+1,2,Sun,2017-09-17,nan,Loss,0,1-1,away,Carolina Panthers,3,9,10,176,107,69,0,19,255,178,77,0,-16.06,5.88,3.19,Buffalos,2017
+2,3,Sun,2017-09-24,nan,Win,0,2-1,home,Denver Broncos,26,16,16,272,197,75,0,21,366,255,111,2,-0.95,5.95,5.49,Buffalos,2017
+3,4,Sun,2017-10-01,nan,Win,0,3-1,away,Atlanta Falcons,23,17,15,281,164,117,0,25,389,242,147,3,0.19,0.24,3.82,Buffalos,2017
+4,5,Sun,2017-10-08,nan,Loss,0,3-2,away,Cincinnati Bengals,16,20,17,221,139,82,1,18,388,323,65,3,-8.53,0.39,3.6,Buffalos,2017
+5,7,Sun,2017-10-22,nan,Win,0,4-2,home,Tampa Bay Buccaneers,30,27,23,434,261,173,1,27,447,378,69,3,15.51,-10.64,1.04,Buffalos,2017
+6,8,Sun,2017-10-29,nan,Win,0,5-2,home,Oakland Raiders,34,14,17,331,165,166,0,23,367,313,54,4,4.35,4.3,7.44,Buffalos,2017
+7,9,Thu,2017-11-02,nan,Loss,0,5-3,away,New York Jets,21,34,21,307,244,63,3,21,331,137,194,0,-6.85,-10.47,2.75,Buffalos,2017
+8,10,Sun,2017-11-12,nan,Loss,0,5-4,home,New Orleans Saints,10,47,10,198,129,69,1,32,482,184,298,1,-13.18,-27.89,3.74,Buffalos,2017
+9,11,Sun,2017-11-19,nan,Loss,0,5-5,away,Los Angeles Chargers,24,54,18,393,220,173,6,28,429,283,146,0,-14.25,-18.37,2.88,Buffalos,2017
+10,12,Sun,2017-11-26,nan,Win,0,6-5,away,Kansas City Chiefs,16,10,17,268,164,104,0,14,236,181,55,1,-5.84,15.27,-0.26,Buffalos,2017
+11,13,Sun,2017-12-03,nan,Loss,0,6-6,home,New England Patriots,3,23,16,268,85,183,1,23,435,244,191,1,-14.27,-10.85,2.35,Buffalos,2017
+12,14,Sun,2017-12-10,nan,Win,1,7-6,home,Indianapolis Colts,13,7,14,319,92,227,2,16,227,64,163,0,-10.32,9.14,8.25,Buffalos,2017
+13,15,Sun,2017-12-17,nan,Win,0,8-6,home,Miami Dolphins,24,16,21,328,212,116,0,21,349,249,100,3,7.23,7.99,-5.67,Buffalos,2017
+14,16,Sun,2017-12-24,nan,Loss,0,8-7,away,New England Patriots,16,37,17,326,242,84,0,28,411,218,193,1,-2.94,-21.06,0.79,Buffalos,2017
+15,17,Sun,2017-12-31,nan,Win,0,9-7,away,Miami Dolphins,22,16,23,312,186,126,0,21,356,263,93,1,10.73,1.12,-5.71,Buffalos,2017
+16,19,Sun,2018-01-07,nan,Loss,0,9-8,away,Jacksonville Jaguars,3,10,20,263,133,130,2,15,230,75,155,0,-12.27,6.56,-5.13,Buffalos,2017

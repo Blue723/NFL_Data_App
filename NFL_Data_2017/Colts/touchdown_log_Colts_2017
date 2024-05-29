@@ -1,26 +1,26 @@
-,Rank,Team,Date,Opponent,Win/Loss,Score,Quarter,Distance,Type,Detail,Year
-0,1,Colts,09/10/2017,LAR,Loss, 9-46,4,3,rush,Marlon Mack,2017
-1,2,Colts,09/17/2017,ARI,Loss, 13-16,1,5,rush,Frank Gore,2017
-2,3,Colts,09/24/2017,CLE,Win, 31-28,1,5,rush,Jacoby Brissett,2017
-3,4,Colts,09/24/2017,CLE,Win, 31-28,2,7,rush,Jacoby Brissett,2017
-4,5,Colts,09/24/2017,CLE,Win, 31-28,2,61,pass,T.Y. Hilton,2017
-5,6,Colts,09/24/2017,CLE,Win, 31-28,2,4,rush,Frank Gore,2017
-6,7,Colts,10/01/2017,SEA,Loss, 18-46,2,1,rush,Robert Turbin,2017
-7,8,Colts,10/01/2017,SEA,Loss, 18-46,2,18,pass,Donte Moncrief,2017
-8,9,Colts,10/08/2017,SFO,Win, 26-23,3,22,rush,Marlon Mack,2017
-9,10,Colts,10/08/2017,SFO,Win, 26-23,4,3,rush,Jacoby Brissett,2017
-10,11,Colts,10/16/2017,TEN,Loss, 22-36,2,8,pass,Jack Doyle,2017
-11,12,Colts,10/16/2017,TEN,Loss, 22-36,3,26,interception,John Simon,2017
-12,13,Colts,10/29/2017,CIN,Loss, 23-24,2,13,pass,Jack Doyle,2017
-13,14,Colts,10/29/2017,CIN,Loss, 23-24,3,24,pass,Marlon Mack,2017
-14,15,Colts,11/05/2017,HOU,Win, 20-14,1,45,pass,T.Y. Hilton,2017
-15,16,Colts,11/05/2017,HOU,Win, 20-14,3,80,pass,T.Y. Hilton,2017
-16,17,Colts,11/12/2017,PIT,Loss, 17-20,2,60,pass,Donte Moncrief,2017
-17,18,Colts,11/12/2017,PIT,Loss, 17-20,3,61,pass,Chester Rogers,2017
-18,19,Colts,11/26/2017,TEN,Loss, 16-20,2,14,rush,Frank Gore,2017
-19,20,Colts,12/03/2017,JAX,Loss, 10-30,3,40,pass,T.Y. Hilton,2017
-20,21,Colts,12/10/2017,BUF,Loss, 7-13,4,3,pass,Jack Doyle,2017
-21,22,Colts,12/14/2017,DEN,Loss, 13-25,1,7,rush,Jacoby Brissett,2017
-22,23,Colts,12/23/2017,BAL,Loss, 16-23,2,14,pass,Frank Gore,2017
-23,24,Colts,12/31/2017,HOU,Win, 22-13,2,6,pass,Jack Doyle,2017
-24,25,Colts,12/31/2017,HOU,Win, 22-13,3,1,rush,Marlon Mack,2017
+,Rank,Team,Date,Opponent,Win/Loss,Home_Score,Opponenet_Score,Quarter,Distance,Type,Detail
+1,1,Colts,2017-09-10,LAR,Loss,9,46,4,3,rush,Marlon Mack
+2,2,Colts,2017-09-17,ARI,Loss,13,16,1,5,rush,Frank Gore
+3,3,Colts,2017-09-24,CLE,Win,31,28,1,5,rush,Jacoby Brissett
+4,4,Colts,2017-09-24,CLE,Win,31,28,2,7,rush,Jacoby Brissett
+5,5,Colts,2017-09-24,CLE,Win,31,28,2,61,pass,T.Y. Hilton
+6,6,Colts,2017-09-24,CLE,Win,31,28,2,4,rush,Frank Gore
+7,7,Colts,2017-10-01,SEA,Loss,18,46,2,1,rush,Robert Turbin
+8,8,Colts,2017-10-01,SEA,Loss,18,46,2,18,pass,Donte Moncrief
+9,9,Colts,2017-10-08,SFO,Win,26,23,3,22,rush,Marlon Mack
+10,10,Colts,2017-10-08,SFO,Win,26,23,4,3,rush,Jacoby Brissett
+11,11,Colts,2017-10-16,TEN,Loss,22,36,2,8,pass,Jack Doyle
+12,12,Colts,2017-10-16,TEN,Loss,22,36,3,26,interception,John Simon
+13,13,Colts,2017-10-29,CIN,Loss,23,24,2,13,pass,Jack Doyle
+14,14,Colts,2017-10-29,CIN,Loss,23,24,3,24,pass,Marlon Mack
+15,15,Colts,2017-11-05,HOU,Win,20,14,1,45,pass,T.Y. Hilton
+16,16,Colts,2017-11-05,HOU,Win,20,14,3,80,pass,T.Y. Hilton
+17,17,Colts,2017-11-12,PIT,Loss,17,20,2,60,pass,Donte Moncrief
+18,18,Colts,2017-11-12,PIT,Loss,17,20,3,61,pass,Chester Rogers
+19,19,Colts,2017-11-26,TEN,Loss,16,20,2,14,rush,Frank Gore
+20,20,Colts,2017-12-03,JAX,Loss,10,30,3,40,pass,T.Y. Hilton
+21,21,Colts,2017-12-10,BUF,Loss,7,13,4,3,pass,Jack Doyle
+22,22,Colts,2017-12-14,DEN,Loss,13,25,1,7,rush,Jacoby Brissett
+23,23,Colts,2017-12-23,BAL,Loss,16,23,2,14,pass,Frank Gore
+24,24,Colts,2017-12-31,HOU,Win,22,13,2,6,pass,Jack Doyle
+25,25,Colts,2017-12-31,HOU,Win,22,13,3,1,rush,Marlon Mack

@@ -1,13 +1,13 @@
-,No.,Team,Player,Age,Pos,Games Played,Games Started,Rush TD,Reception TD,Punt Return TD,Kick Return TD,Fumble Return TD,Interception TD,Other TD,All Touchdown Scored,2-Point Conversions Made,Two-Point Conversions Attempted,Defensive Two-Point Conversions,Extra Points Made,Extra Points Allowed,Field Goals Made,Field Goals Attempted,Safeties Scored by Player/Team,Total Points Scored by all Means,Poins per Game,Year
-0,4,Colts,Adam Vinatieri,45,K,15,0,0,0,0,0,0,0,0,0,0,0,0,22,24,29,34,,109,7.3,2017
-1,7,Colts,Jacoby Brissett,25,QB,16,15,4,0,0,0,0,0,0,4,0,0,0,0,0,0,0,,24,1.5,2017
-2,84,Colts,Jack Doyle,27,TE,15,15,0,4,0,0,0,0,0,4,0,0,0,0,0,0,0,,24,1.6,2017
-3,23,Colts,Frank Gore,34,RB,16,16,3,1,0,0,0,0,0,4,0,0,0,0,0,0,0,,24,1.5,2017
-4,13,Colts,T.Y. Hilton,28,WR,16,16,0,4,0,0,0,0,0,4,0,0,0,0,0,0,0,,24,1.5,2017
-5,25,Colts,Marlon Mack,21,RB,14,0,3,1,0,0,0,0,0,4,0,0,0,0,0,0,0,,24,1.7,2017
-6,10,Colts,Donte Moncrief,24,WR,12,8,0,2,0,0,0,0,0,2,0,0,0,0,0,0,0,,12,1.0,2017
-7,80,Colts,Chester Rogers,23,WR,11,4,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,,6,0.5,2017
-8,51,Colts,John Simon,27,LOLB,9,9,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,,6,0.7,2017
-9,33,Colts,Robert Turbin,28,RB,6,1,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,,6,1.0,2017
-10,27,Colts,Nate Hairston,23,DB,14,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1.0,2,0.1,2017
-11,91,Colts,Hassan Ridgeway,23,DT,13,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1.0,2,0.2,2017
+,No.,Player,Age,Pos,Games Played,Games Started,Rush TD,Reception TD,Punt Return TD,Kick Return TD,Fumble Return TD,Interception TD,Other TD,All Touchdown Scored,2-Point Conversions Made,Two-Point Conversions Attempted,Defensive Two-Point Conversions,Extra Points Made,Extra Points Allowed,Field Goals Made,Field Goals Attempted,Safeties Scored by Player/Team,Total Points Scored by all Means,Poins per Game,Team,Year
+4,4,Adam Vinatieri,45,K,15,0,0,0,0,0,0,0,0,0,0,0,0,22,24,29,34,0,109,7.3,Colts,2017
+7,7,Jacoby Brissett,25,QB,16,15,4,0,0,0,0,0,0,4,0,0,0,0,0,0,0,0,24,1.5,Colts,2017
+84,84,Jack Doyle,27,TE,15,15,0,4,0,0,0,0,0,4,0,0,0,0,0,0,0,0,24,1.6,Colts,2017
+23,23,Frank Gore,34,RB,16,16,3,1,0,0,0,0,0,4,0,0,0,0,0,0,0,0,24,1.5,Colts,2017
+13,13,T.Y. Hilton,28,WR,16,16,0,4,0,0,0,0,0,4,0,0,0,0,0,0,0,0,24,1.5,Colts,2017
+25,25,Marlon Mack,21,RB,14,0,3,1,0,0,0,0,0,4,0,0,0,0,0,0,0,0,24,1.7,Colts,2017
+10,10,Donte Moncrief,24,WR,12,8,0,2,0,0,0,0,0,2,0,0,0,0,0,0,0,0,12,1.0,Colts,2017
+80,80,Chester Rogers,23,WR,11,4,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,6,0.5,Colts,2017
+51,51,John Simon,27,LOLB,9,9,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,6,0.7,Colts,2017
+33,33,Robert Turbin,28,RB,6,1,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,6,1.0,Colts,2017
+27,27,Nate Hairston,23,DB,14,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,2,0.1,Colts,2017
+91,91,Hassan Ridgeway,23,DT,13,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,2,0.2,Colts,2017

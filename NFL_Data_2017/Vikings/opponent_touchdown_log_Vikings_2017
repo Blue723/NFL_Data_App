@@ -1,25 +1,25 @@
-,Rank,Team,Date,Opponent,Win/Loss,Score,Quarter,Distance,Type,Detail,Year
-0,1,Vikings,09/11/2017,NOR,Win, 29-19,4,8,pass,Coby Fleener,2017
-1,2,Vikings,09/17/2017,PIT,Loss, 9-26,1,27,pass,Martavis Bryant,2017
-2,3,Vikings,09/17/2017,PIT,Loss, 9-26,2,4,pass,JuJu Smith-Schuster,2017
-3,4,Vikings,09/24/2017,TAM,Win, 34-17,3,15,pass,Cameron Brate,2017
-4,5,Vikings,09/24/2017,TAM,Win, 34-17,3,25,pass,DeSean Jackson,2017
-5,6,Vikings,10/01/2017,DET,Loss, 7-14,3,3,rush,Ameer Abdullah,2017
-6,7,Vikings,10/09/2017,CHI,Win, 20-17,3,38,pass,Benny Cunningham,2017
-7,8,Vikings,10/09/2017,CHI,Win, 20-17,4,20,pass,Zach Miller,2017
-8,9,Vikings,10/15/2017,GNB,Win, 23-10,2,14,pass,Davante Adams,2017
-9,10,Vikings,10/22/2017,BAL,Win, 24-16,4,13,pass,Chris Moore,2017
-10,11,Vikings,10/29/2017,CLE,Win, 33-16,1,26,rush,Isaiah Crowell,2017
-11,12,Vikings,10/29/2017,CLE,Win, 33-16,2,1,rush,DeShone Kizer,2017
-12,13,Vikings,11/12/2017,WAS,Win, 38-30,1,36,pass,Maurice Harris,2017
-13,14,Vikings,11/12/2017,WAS,Win, 38-30,2,1,rush,Kirk Cousins,2017
-14,15,Vikings,11/12/2017,WAS,Win, 38-30,4,2,rush,Kirk Cousins,2017
-15,16,Vikings,11/19/2017,LAR,Win, 24-7,1,6,rush,Todd Gurley,2017
-16,17,Vikings,11/23/2017,DET,Win, 30-23,2,6,pass,Marvin Jones,2017
-17,18,Vikings,11/23/2017,DET,Win, 30-23,4,43,pass,Marvin Jones,2017
-18,19,Vikings,12/10/2017,CAR,Loss, 24-31,1,60,rush,Jonathan Stewart,2017
-19,20,Vikings,12/10/2017,CAR,Loss, 24-31,2,1,rush,Jonathan Stewart,2017
-20,21,Vikings,12/10/2017,CAR,Loss, 24-31,3,18,pass,Devin Funchess,2017
-21,22,Vikings,12/10/2017,CAR,Loss, 24-31,4,1,rush,Jonathan Stewart,2017
-22,23,Vikings,12/17/2017,CIN,Win, 34-7,4,2,rush,Giovani Bernard,2017
-23,24,Vikings,12/31/2017,CHI,Win, 23-10,2,59,punt,Bryce Callahan,2017
+,Rank,Team,Date,Opponent,Win/Loss,Home_Score,Opponenet_Score,Quarter,Distance,Type,Detail
+1,1,Vikings,2017-09-11,NOR,Win,29,19,4,8,pass,Coby Fleener
+2,2,Vikings,2017-09-17,PIT,Loss,9,26,1,27,pass,Martavis Bryant
+3,3,Vikings,2017-09-17,PIT,Loss,9,26,2,4,pass,JuJu Smith-Schuster
+4,4,Vikings,2017-09-24,TAM,Win,34,17,3,15,pass,Cameron Brate
+5,5,Vikings,2017-09-24,TAM,Win,34,17,3,25,pass,DeSean Jackson
+6,6,Vikings,2017-10-01,DET,Loss,7,14,3,3,rush,Ameer Abdullah
+7,7,Vikings,2017-10-09,CHI,Win,20,17,3,38,pass,Benny Cunningham
+8,8,Vikings,2017-10-09,CHI,Win,20,17,4,20,pass,Zach Miller
+9,9,Vikings,2017-10-15,GNB,Win,23,10,2,14,pass,Davante Adams
+10,10,Vikings,2017-10-22,BAL,Win,24,16,4,13,pass,Chris Moore
+11,11,Vikings,2017-10-29,CLE,Win,33,16,1,26,rush,Isaiah Crowell
+12,12,Vikings,2017-10-29,CLE,Win,33,16,2,1,rush,DeShone Kizer
+13,13,Vikings,2017-11-12,WAS,Win,38,30,1,36,pass,Maurice Harris
+14,14,Vikings,2017-11-12,WAS,Win,38,30,2,1,rush,Kirk Cousins
+15,15,Vikings,2017-11-12,WAS,Win,38,30,4,2,rush,Kirk Cousins
+16,16,Vikings,2017-11-19,LAR,Win,24,7,1,6,rush,Todd Gurley
+17,17,Vikings,2017-11-23,DET,Win,30,23,2,6,pass,Marvin Jones
+18,18,Vikings,2017-11-23,DET,Win,30,23,4,43,pass,Marvin Jones
+19,19,Vikings,2017-12-10,CAR,Loss,24,31,1,60,rush,Jonathan Stewart
+20,20,Vikings,2017-12-10,CAR,Loss,24,31,2,1,rush,Jonathan Stewart
+21,21,Vikings,2017-12-10,CAR,Loss,24,31,3,18,pass,Devin Funchess
+22,22,Vikings,2017-12-10,CAR,Loss,24,31,4,1,rush,Jonathan Stewart
+23,23,Vikings,2017-12-17,CIN,Win,34,7,4,2,rush,Giovani Bernard
+24,24,Vikings,2017-12-31,CHI,Win,23,10,2,59,punt,Bryce Callahan

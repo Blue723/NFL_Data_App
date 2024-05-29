@@ -1,33 +1,33 @@
-,Rank,Team,Date,Opponent,Win/Loss,Score,Quarter,Distance,Type,Detail,Year
-0,1,Ravens,09/17/2017,CLE,Win, 24-10,2,23,pass,David Njoku,2017
-1,2,Ravens,09/24/2017,JAX,Loss, 7-44,1,17,pass,Marcedes Lewis,2017
-2,3,Ravens,09/24/2017,JAX,Loss, 7-44,2,5,pass,Allen Hurns,2017
-3,4,Ravens,09/24/2017,JAX,Loss, 7-44,3,30,pass,Marcedes Lewis,2017
-4,5,Ravens,09/24/2017,JAX,Loss, 7-44,3,4,pass,Marcedes Lewis,2017
-5,6,Ravens,09/24/2017,JAX,Loss, 7-44,4,3,rush,Leonard Fournette,2017
-6,7,Ravens,10/01/2017,PIT,Loss, 9-26,2,1,rush,Le'Veon Bell,2017
-7,8,Ravens,10/01/2017,PIT,Loss, 9-26,2,11,pass,JuJu Smith-Schuster,2017
-8,9,Ravens,10/01/2017,PIT,Loss, 9-26,4,1,rush,Le'Veon Bell,2017
-9,10,Ravens,10/08/2017,OAK,Win, 30-17,2,41,pass,Michael Crabtree,2017
-10,11,Ravens,10/08/2017,OAK,Win, 30-17,3,3,rush,Marshawn Lynch,2017
-11,12,Ravens,10/15/2017,CHI,Loss, 24-27,2,21,pass,Zach Miller,2017
-12,13,Ravens,10/15/2017,CHI,Loss, 24-27,3,27,pass,Dion Sims,2017
-13,14,Ravens,10/15/2017,CHI,Loss, 24-27,4,90,interception,Adrian Amos,2017
-14,15,Ravens,10/22/2017,MIN,Loss, 16-24,3,29,rush,Latavius Murray,2017
-15,16,Ravens,11/05/2017,TEN,Loss, 20-23,1,16,pass,Rishard Matthews,2017
-16,17,Ravens,11/05/2017,TEN,Loss, 20-23,2,1,rush,Derrick Henry,2017
-17,18,Ravens,11/05/2017,TEN,Loss, 20-23,4,11,pass,Eric Decker,2017
-18,19,Ravens,11/27/2017,HOU,Win, 23-16,1,4,rush,Lamar Miller,2017
-19,20,Ravens,12/03/2017,DET,Win, 44-20,3,4,rush,Theo Riddick,2017
-20,21,Ravens,12/03/2017,DET,Win, 44-20,3,6,rush,Tion Green,2017
-21,22,Ravens,12/03/2017,DET,Win, 44-20,4,1,pass,Nick Bellore,2017
-22,23,Ravens,12/10/2017,PIT,Loss, 38-39,1,20,pass,Le'Veon Bell,2017
-23,24,Ravens,12/10/2017,PIT,Loss, 38-39,2,1,rush,Le'Veon Bell,2017
-24,25,Ravens,12/10/2017,PIT,Loss, 38-39,4,1,pass,Roosevelt Nix,2017
-25,26,Ravens,12/10/2017,PIT,Loss, 38-39,4,11,rush,Le'Veon Bell,2017
-26,27,Ravens,12/17/2017,CLE,Win, 27-10,2,12,rush,Duke Johnson,2017
-27,28,Ravens,12/23/2017,IND,Win, 23-16,2,14,pass,Frank Gore,2017
-28,29,Ravens,12/31/2017,CIN,Loss, 27-31,1,1,pass,Tyler Kroft,2017
-29,30,Ravens,12/31/2017,CIN,Loss, 27-31,2,5,pass,Tyler Kroft,2017
-30,31,Ravens,12/31/2017,CIN,Loss, 27-31,3,89,interception,Darqueze Dennard,2017
-31,32,Ravens,12/31/2017,CIN,Loss, 27-31,4,49,pass,Tyler Boyd,2017
+,Rank,Team,Date,Opponent,Win/Loss,Home_Score,Opponenet_Score,Quarter,Distance,Type,Detail
+1,1,Ravens,2017-09-17,CLE,Win,24,10,2,23,pass,David Njoku
+2,2,Ravens,2017-09-24,JAX,Loss,7,44,1,17,pass,Marcedes Lewis
+3,3,Ravens,2017-09-24,JAX,Loss,7,44,2,5,pass,Allen Hurns
+4,4,Ravens,2017-09-24,JAX,Loss,7,44,3,30,pass,Marcedes Lewis
+5,5,Ravens,2017-09-24,JAX,Loss,7,44,3,4,pass,Marcedes Lewis
+6,6,Ravens,2017-09-24,JAX,Loss,7,44,4,3,rush,Leonard Fournette
+7,7,Ravens,2017-10-01,PIT,Loss,9,26,2,1,rush,Le'Veon Bell
+8,8,Ravens,2017-10-01,PIT,Loss,9,26,2,11,pass,JuJu Smith-Schuster
+9,9,Ravens,2017-10-01,PIT,Loss,9,26,4,1,rush,Le'Veon Bell
+10,10,Ravens,2017-10-08,OAK,Win,30,17,2,41,pass,Michael Crabtree
+11,11,Ravens,2017-10-08,OAK,Win,30,17,3,3,rush,Marshawn Lynch
+12,12,Ravens,2017-10-15,CHI,Loss,24,27,2,21,pass,Zach Miller
+13,13,Ravens,2017-10-15,CHI,Loss,24,27,3,27,pass,Dion Sims
+14,14,Ravens,2017-10-15,CHI,Loss,24,27,4,90,interception,Adrian Amos
+15,15,Ravens,2017-10-22,MIN,Loss,16,24,3,29,rush,Latavius Murray
+16,16,Ravens,2017-11-05,TEN,Loss,20,23,1,16,pass,Rishard Matthews
+17,17,Ravens,2017-11-05,TEN,Loss,20,23,2,1,rush,Derrick Henry
+18,18,Ravens,2017-11-05,TEN,Loss,20,23,4,11,pass,Eric Decker
+19,19,Ravens,2017-11-27,HOU,Win,23,16,1,4,rush,Lamar Miller
+20,20,Ravens,2017-12-03,DET,Win,44,20,3,4,rush,Theo Riddick
+21,21,Ravens,2017-12-03,DET,Win,44,20,3,6,rush,Tion Green
+22,22,Ravens,2017-12-03,DET,Win,44,20,4,1,pass,Nick Bellore
+23,23,Ravens,2017-12-10,PIT,Loss,38,39,1,20,pass,Le'Veon Bell
+24,24,Ravens,2017-12-10,PIT,Loss,38,39,2,1,rush,Le'Veon Bell
+25,25,Ravens,2017-12-10,PIT,Loss,38,39,4,1,pass,Roosevelt Nix
+26,26,Ravens,2017-12-10,PIT,Loss,38,39,4,11,rush,Le'Veon Bell
+27,27,Ravens,2017-12-17,CLE,Win,27,10,2,12,rush,Duke Johnson
+28,28,Ravens,2017-12-23,IND,Win,23,16,2,14,pass,Frank Gore
+29,29,Ravens,2017-12-31,CIN,Loss,27,31,1,1,pass,Tyler Kroft
+30,30,Ravens,2017-12-31,CIN,Loss,27,31,2,5,pass,Tyler Kroft
+31,31,Ravens,2017-12-31,CIN,Loss,27,31,3,89,interception,Darqueze Dennard
+32,32,Ravens,2017-12-31,CIN,Loss,27,31,4,49,pass,Tyler Boyd

@@ -1,43 +1,43 @@
-,Rank,Team,Date,Opponent,Win/Loss,Score,Quarter,Distance,Type,Detail,Year
-0,1,Chiefs,09/07/2017,NWE,Win, 42-27,1,7,pass,Demetrius Harris,2017
-1,2,Chiefs,09/07/2017,NWE,Win, 42-27,2,3,pass,Kareem Hunt,2017
-2,3,Chiefs,09/07/2017,NWE,Win, 42-27,3,75,pass,Tyreek Hill,2017
-3,4,Chiefs,09/07/2017,NWE,Win, 42-27,4,78,pass,Kareem Hunt,2017
-4,5,Chiefs,09/07/2017,NWE,Win, 42-27,4,4,rush,Kareem Hunt,2017
-5,6,Chiefs,09/07/2017,NWE,Win, 42-27,4,21,rush,Charcandrick West,2017
-6,7,Chiefs,09/17/2017,PHI,Win, 27-20,3,53,rush,Kareem Hunt,2017
-7,8,Chiefs,09/17/2017,PHI,Win, 27-20,4,15,pass,Travis Kelce,2017
-8,9,Chiefs,09/17/2017,PHI,Win, 27-20,4,2,rush,Kareem Hunt,2017
-9,10,Chiefs,09/24/2017,LAC,Win, 24-10,1,30,pass,Tyreek Hill,2017
-10,11,Chiefs,09/24/2017,LAC,Win, 24-10,1,6,pass,Albert Wilson,2017
-11,12,Chiefs,09/24/2017,LAC,Win, 24-10,4,69,rush,Kareem Hunt,2017
-12,13,Chiefs,10/02/2017,WAS,Win, 29-20,2,17,pass,Travis Kelce,2017
-13,14,Chiefs,10/02/2017,WAS,Win, 29-20,3,1,rush,Alex Smith,2017
-14,15,Chiefs,10/02/2017,WAS,Win, 29-20,4,13,fumble,Justin Houston,2017
-15,16,Chiefs,10/08/2017,HOU,Win, 42-34,2,8,pass,Charcandrick West,2017
-16,17,Chiefs,10/08/2017,HOU,Win, 42-34,2,4,pass,Charcandrick West,2017
-17,18,Chiefs,10/08/2017,HOU,Win, 42-34,4,10,pass,De'Anthony Thomas,2017
-18,19,Chiefs,10/08/2017,HOU,Win, 42-34,4,82,punt,Tyreek Hill,2017
-19,20,Chiefs,10/15/2017,PIT,Loss, 13-19,4,57,pass,De'Anthony Thomas,2017
-20,21,Chiefs,10/19/2017,OAK,Loss, 30-31,1,10,pass,Travis Kelce,2017
-21,22,Chiefs,10/19/2017,OAK,Loss, 30-31,2,64,pass,Tyreek Hill,2017
-22,23,Chiefs,10/19/2017,OAK,Loss, 30-31,3,63,pass,Albert Wilson,2017
-23,24,Chiefs,10/30/2017,DEN,Win, 29-19,1,45,fumble,Marcus Peters,2017
-24,25,Chiefs,10/30/2017,DEN,Win, 29-19,1,29,pass,Travis Kelce,2017
-25,26,Chiefs,11/05/2017,DAL,Loss, 17-28,2,56,pass,Tyreek Hill,2017
-26,27,Chiefs,11/05/2017,DAL,Loss, 17-28,3,2,pass,Travis Kelce,2017
-27,28,Chiefs,11/26/2017,BUF,Loss, 10-16,3,19,pass,Albert Wilson,2017
-28,29,Chiefs,12/03/2017,NYJ,Loss, 31-38,1,22,pass,Travis Kelce,2017
-29,30,Chiefs,12/03/2017,NYJ,Loss, 31-38,1,36,pass,Travis Kelce,2017
-30,31,Chiefs,12/03/2017,NYJ,Loss, 31-38,3,79,pass,Tyreek Hill,2017
-31,32,Chiefs,12/03/2017,NYJ,Loss, 31-38,4,40,pass,Tyreek Hill,2017
-32,33,Chiefs,12/10/2017,OAK,Win, 26-15,2,1,rush,Kareem Hunt,2017
-33,34,Chiefs,12/10/2017,OAK,Win, 26-15,3,13,rush,Charcandrick West,2017
-34,35,Chiefs,12/16/2017,LAC,Win, 30-13,2,64,pass,Tyreek Hill,2017
-35,36,Chiefs,12/16/2017,LAC,Win, 30-13,3,3,pass,Kareem Hunt,2017
-36,37,Chiefs,12/16/2017,LAC,Win, 30-13,4,5,rush,Kareem Hunt,2017
-37,38,Chiefs,12/24/2017,MIA,Win, 29-13,2,9,pass,Travis Kelce,2017
-38,39,Chiefs,12/24/2017,MIA,Win, 29-13,2,1,rush,Kareem Hunt,2017
-39,40,Chiefs,12/31/2017,DEN,Win, 27-24,1,35,rush,Kareem Hunt,2017
-40,41,Chiefs,12/31/2017,DEN,Win, 27-24,2,1,rush,Anthony Sherman,2017
-41,42,Chiefs,12/31/2017,DEN,Win, 27-24,3,11,fumble,Ramik Wilson,2017
+,Rank,Team,Date,Opponent,Win/Loss,Home_Score,Opponenet_Score,Quarter,Distance,Type,Detail
+1,1,Chiefs,2017-09-07,NWE,Win,42,27,1,7,pass,Demetrius Harris
+2,2,Chiefs,2017-09-07,NWE,Win,42,27,2,3,pass,Kareem Hunt
+3,3,Chiefs,2017-09-07,NWE,Win,42,27,3,75,pass,Tyreek Hill
+4,4,Chiefs,2017-09-07,NWE,Win,42,27,4,78,pass,Kareem Hunt
+5,5,Chiefs,2017-09-07,NWE,Win,42,27,4,4,rush,Kareem Hunt
+6,6,Chiefs,2017-09-07,NWE,Win,42,27,4,21,rush,Charcandrick West
+7,7,Chiefs,2017-09-17,PHI,Win,27,20,3,53,rush,Kareem Hunt
+8,8,Chiefs,2017-09-17,PHI,Win,27,20,4,15,pass,Travis Kelce
+9,9,Chiefs,2017-09-17,PHI,Win,27,20,4,2,rush,Kareem Hunt
+10,10,Chiefs,2017-09-24,LAC,Win,24,10,1,30,pass,Tyreek Hill
+11,11,Chiefs,2017-09-24,LAC,Win,24,10,1,6,pass,Albert Wilson
+12,12,Chiefs,2017-09-24,LAC,Win,24,10,4,69,rush,Kareem Hunt
+13,13,Chiefs,2017-10-02,WAS,Win,29,20,2,17,pass,Travis Kelce
+14,14,Chiefs,2017-10-02,WAS,Win,29,20,3,1,rush,Alex Smith
+15,15,Chiefs,2017-10-02,WAS,Win,29,20,4,13,fumble,Justin Houston
+16,16,Chiefs,2017-10-08,HOU,Win,42,34,2,8,pass,Charcandrick West
+17,17,Chiefs,2017-10-08,HOU,Win,42,34,2,4,pass,Charcandrick West
+18,18,Chiefs,2017-10-08,HOU,Win,42,34,4,10,pass,De'Anthony Thomas
+19,19,Chiefs,2017-10-08,HOU,Win,42,34,4,82,punt,Tyreek Hill
+20,20,Chiefs,2017-10-15,PIT,Loss,13,19,4,57,pass,De'Anthony Thomas
+21,21,Chiefs,2017-10-19,OAK,Loss,30,31,1,10,pass,Travis Kelce
+22,22,Chiefs,2017-10-19,OAK,Loss,30,31,2,64,pass,Tyreek Hill
+23,23,Chiefs,2017-10-19,OAK,Loss,30,31,3,63,pass,Albert Wilson
+24,24,Chiefs,2017-10-30,DEN,Win,29,19,1,45,fumble,Marcus Peters
+25,25,Chiefs,2017-10-30,DEN,Win,29,19,1,29,pass,Travis Kelce
+26,26,Chiefs,2017-11-05,DAL,Loss,17,28,2,56,pass,Tyreek Hill
+27,27,Chiefs,2017-11-05,DAL,Loss,17,28,3,2,pass,Travis Kelce
+28,28,Chiefs,2017-11-26,BUF,Loss,10,16,3,19,pass,Albert Wilson
+29,29,Chiefs,2017-12-03,NYJ,Loss,31,38,1,22,pass,Travis Kelce
+30,30,Chiefs,2017-12-03,NYJ,Loss,31,38,1,36,pass,Travis Kelce
+31,31,Chiefs,2017-12-03,NYJ,Loss,31,38,3,79,pass,Tyreek Hill
+32,32,Chiefs,2017-12-03,NYJ,Loss,31,38,4,40,pass,Tyreek Hill
+33,33,Chiefs,2017-12-10,OAK,Win,26,15,2,1,rush,Kareem Hunt
+34,34,Chiefs,2017-12-10,OAK,Win,26,15,3,13,rush,Charcandrick West
+35,35,Chiefs,2017-12-16,LAC,Win,30,13,2,64,pass,Tyreek Hill
+36,36,Chiefs,2017-12-16,LAC,Win,30,13,3,3,pass,Kareem Hunt
+37,37,Chiefs,2017-12-16,LAC,Win,30,13,4,5,rush,Kareem Hunt
+38,38,Chiefs,2017-12-24,MIA,Win,29,13,2,9,pass,Travis Kelce
+39,39,Chiefs,2017-12-24,MIA,Win,29,13,2,1,rush,Kareem Hunt
+40,40,Chiefs,2017-12-31,DEN,Win,27,24,1,35,rush,Kareem Hunt
+41,41,Chiefs,2017-12-31,DEN,Win,27,24,2,1,rush,Anthony Sherman
+42,42,Chiefs,2017-12-31,DEN,Win,27,24,3,11,fumble,Ramik Wilson

@@ -1,37 +1,37 @@
-,Rank,Team,Date,Opponent,Win/Loss,Score,Quarter,Distance,Type,Detail,Year
-0,1,Falcons,09/10/2017,CHI,Win, 23-17,2,5,rush,Devonta Freeman,2017
-1,2,Falcons,09/10/2017,CHI,Win, 23-17,4,88,pass,Austin Hooper,2017
-2,3,Falcons,09/17/2017,GNB,Win, 34-23,1,1,rush,Devonta Freeman,2017
-3,4,Falcons,09/17/2017,GNB,Win, 34-23,2,2,rush,Devonta Freeman,2017
-4,5,Falcons,09/17/2017,GNB,Win, 34-23,2,3,pass,Tevin Coleman,2017
-5,6,Falcons,09/17/2017,GNB,Win, 34-23,3,15,fumble,Desmond Trufant,2017
-6,7,Falcons,09/24/2017,DET,Win, 30-26,1,4,pass,Mohamed Sanu,2017
-7,8,Falcons,09/24/2017,DET,Win, 30-26,2,1,rush,Devonta Freeman,2017
-8,9,Falcons,09/24/2017,DET,Win, 30-26,4,40,pass,Taylor Gabriel,2017
-9,10,Falcons,10/01/2017,BUF,Loss, 17-23,2,1,rush,Devonta Freeman,2017
-10,11,Falcons,10/01/2017,BUF,Loss, 17-23,4,3,pass,Justin Hardy,2017
-11,12,Falcons,10/15/2017,MIA,Loss, 17-20,1,40,pass,Marvin Hall,2017
-12,13,Falcons,10/15/2017,MIA,Loss, 17-20,2,6,rush,Tevin Coleman,2017
-13,14,Falcons,10/22/2017,NWE,Loss, 7-23,4,1,pass,Julio Jones,2017
-14,15,Falcons,10/29/2017,NYJ,Win, 25-20,1,1,pass,Austin Hooper,2017
-15,16,Falcons,10/29/2017,NYJ,Win, 25-20,4,8,pass,Mohamed Sanu,2017
-16,17,Falcons,11/05/2017,CAR,Loss, 17-20,1,6,pass,Mohamed Sanu,2017
-17,18,Falcons,11/05/2017,CAR,Loss, 17-20,4,19,pass,Tevin Coleman,2017
-18,19,Falcons,11/12/2017,DAL,Win, 27-7,2,1,rush,Tevin Coleman,2017
-19,20,Falcons,11/12/2017,DAL,Win, 27-7,3,3,pass,Justin Hardy,2017
-20,21,Falcons,11/12/2017,DAL,Win, 27-7,4,1,pass,Austin Hooper,2017
-21,22,Falcons,11/20/2017,SEA,Win, 34-31,1,1,rush,Tevin Coleman,2017
-22,23,Falcons,11/20/2017,SEA,Win, 34-31,1,2,pass,Mohamed Sanu,2017
-23,24,Falcons,11/20/2017,SEA,Win, 34-31,2,10,fumble,Adrian Clayborn,2017
-24,25,Falcons,11/20/2017,SEA,Win, 34-31,3,25,pass,Levine Toilolo,2017
-25,26,Falcons,11/26/2017,TAM,Win, 34-20,2,51,pass,Julio Jones,2017
-26,27,Falcons,11/26/2017,TAM,Win, 34-20,2,25,pass,Julio Jones,2017
-27,28,Falcons,11/26/2017,TAM,Win, 34-20,3,3,rush,Tevin Coleman,2017
-28,29,Falcons,11/26/2017,TAM,Win, 34-20,4,14,rush,Tevin Coleman,2017
-29,30,Falcons,12/07/2017,NOR,Win, 20-17,2,1,rush,Devonta Freeman,2017
-30,31,Falcons,12/07/2017,NOR,Win, 20-17,4,8,pass,Mohamed Sanu,2017
-31,32,Falcons,12/18/2017,TAM,Win, 24-21,1,6,pass,Justin Hardy,2017
-32,33,Falcons,12/18/2017,TAM,Win, 24-21,2,0,fumble,Levine Toilolo,2017
-33,34,Falcons,12/18/2017,TAM,Win, 24-21,4,32,rush,Devonta Freeman,2017
-34,35,Falcons,12/24/2017,NOR,Loss, 13-23,4,14,pass,Tevin Coleman,2017
-35,36,Falcons,12/31/2017,CAR,Win, 22-10,1,19,pass,Devonta Freeman,2017
+,Rank,Team,Date,Opponent,Win/Loss,Home_Score,Opponenet_Score,Quarter,Distance,Type,Detail
+1,1,Falcons,2017-09-10,CHI,Win,23,17,2,5,rush,Devonta Freeman
+2,2,Falcons,2017-09-10,CHI,Win,23,17,4,88,pass,Austin Hooper
+3,3,Falcons,2017-09-17,GNB,Win,34,23,1,1,rush,Devonta Freeman
+4,4,Falcons,2017-09-17,GNB,Win,34,23,2,2,rush,Devonta Freeman
+5,5,Falcons,2017-09-17,GNB,Win,34,23,2,3,pass,Tevin Coleman
+6,6,Falcons,2017-09-17,GNB,Win,34,23,3,15,fumble,Desmond Trufant
+7,7,Falcons,2017-09-24,DET,Win,30,26,1,4,pass,Mohamed Sanu
+8,8,Falcons,2017-09-24,DET,Win,30,26,2,1,rush,Devonta Freeman
+9,9,Falcons,2017-09-24,DET,Win,30,26,4,40,pass,Taylor Gabriel
+10,10,Falcons,2017-10-01,BUF,Loss,17,23,2,1,rush,Devonta Freeman
+11,11,Falcons,2017-10-01,BUF,Loss,17,23,4,3,pass,Justin Hardy
+12,12,Falcons,2017-10-15,MIA,Loss,17,20,1,40,pass,Marvin Hall
+13,13,Falcons,2017-10-15,MIA,Loss,17,20,2,6,rush,Tevin Coleman
+14,14,Falcons,2017-10-22,NWE,Loss,7,23,4,1,pass,Julio Jones
+15,15,Falcons,2017-10-29,NYJ,Win,25,20,1,1,pass,Austin Hooper
+16,16,Falcons,2017-10-29,NYJ,Win,25,20,4,8,pass,Mohamed Sanu
+17,17,Falcons,2017-11-05,CAR,Loss,17,20,1,6,pass,Mohamed Sanu
+18,18,Falcons,2017-11-05,CAR,Loss,17,20,4,19,pass,Tevin Coleman
+19,19,Falcons,2017-11-12,DAL,Win,27,7,2,1,rush,Tevin Coleman
+20,20,Falcons,2017-11-12,DAL,Win,27,7,3,3,pass,Justin Hardy
+21,21,Falcons,2017-11-12,DAL,Win,27,7,4,1,pass,Austin Hooper
+22,22,Falcons,2017-11-20,SEA,Win,34,31,1,1,rush,Tevin Coleman
+23,23,Falcons,2017-11-20,SEA,Win,34,31,1,2,pass,Mohamed Sanu
+24,24,Falcons,2017-11-20,SEA,Win,34,31,2,10,fumble,Adrian Clayborn
+25,25,Falcons,2017-11-20,SEA,Win,34,31,3,25,pass,Levine Toilolo
+26,26,Falcons,2017-11-26,TAM,Win,34,20,2,51,pass,Julio Jones
+27,27,Falcons,2017-11-26,TAM,Win,34,20,2,25,pass,Julio Jones
+28,28,Falcons,2017-11-26,TAM,Win,34,20,3,3,rush,Tevin Coleman
+29,29,Falcons,2017-11-26,TAM,Win,34,20,4,14,rush,Tevin Coleman
+30,30,Falcons,2017-12-07,NOR,Win,20,17,2,1,rush,Devonta Freeman
+31,31,Falcons,2017-12-07,NOR,Win,20,17,4,8,pass,Mohamed Sanu
+32,32,Falcons,2017-12-18,TAM,Win,24,21,1,6,pass,Justin Hardy
+33,33,Falcons,2017-12-18,TAM,Win,24,21,2,0,fumble,Levine Toilolo
+34,34,Falcons,2017-12-18,TAM,Win,24,21,4,32,rush,Devonta Freeman
+35,35,Falcons,2017-12-24,NOR,Loss,13,23,4,14,pass,Tevin Coleman
+36,36,Falcons,2017-12-31,CAR,Win,22,10,1,19,pass,Devonta Freeman

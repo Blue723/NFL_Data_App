@@ -1,7 +1,7 @@
-,No.,Team,Player,Age,Position,Games Played,Games Started,Punts Returned,Punts Return Yardage,Punts Returned for Touchdown,Longest Punt Return,Yards per Punt Return,Kickoff Returns,Yardage for Kickoffs Returned,Kickoffs Returned for a Touchdown,Longest Kickoff Return,Yards per Kickoff Return,All-purpose Yards,Year
-0,11,Colts,Quan Bray,24,WR,9,0,17,90,0,20,5.3,18,430,0,60,23.9,559,2017
-1,80,Colts,Chester Rogers,23,WR,11,4,10,80,0,30,8.0,1,5,0,5,5.0,377,2017
-2,39,Colts,Josh Ferguson,24,RB,10,0,0,0,0,0,,5,86,0,20,17.2,107,2017
-3,25,Colts,Marlon Mack,21,RB,14,0,0,0,0,0,,3,69,0,34,23.0,652,2017
-4,58,Colts,Tarell Basham,23,DE,15,0,0,0,0,0,,1,0,0,0,0.0,0,2017
-5,81,Colts,Krishawn Hogan,22,WR,2,0,0,-8,0,-8,,0,0,0,0,,-8,2017
+,No.,Player,Age,Position,Games Played,Games Started,Punts Returned,Punts Return Yardage,Punts Returned for Touchdown,Longest Punt Return,Yards per Punt Return,Kickoff Returns,Yardage for Kickoffs Returned,Kickoffs Returned for a Touchdown,Longest Kickoff Return,Yards per Kickoff Return,All-purpose Yards,Team,Year
+11,11,Quan Bray,24,WR,9,0,17,90,0,20,5.3,18,430,0,60,23.9,559,Colts,2017
+80,80,Chester Rogers,23,WR,11,4,10,80,0,30,8.0,1,5,0,5,5.0,377,Colts,2017
+39,39,Josh Ferguson,24,RB,10,0,0,0,0,0,0.0,5,86,0,20,17.2,107,Colts,2017
+25,25,Marlon Mack,21,RB,14,0,0,0,0,0,0.0,3,69,0,34,23.0,652,Colts,2017
+58,58,Tarell Basham,23,DE,15,0,0,0,0,0,0.0,1,0,0,0,0.0,0,Colts,2017
+81,81,Krishawn Hogan,22,WR,2,0,0,-8,0,-8,0.0,0,0,0,0,0.0,-8,Colts,2017

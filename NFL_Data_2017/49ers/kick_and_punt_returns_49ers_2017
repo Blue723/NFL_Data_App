@@ -1,6 +1,6 @@
-,No.,Team,Player,Age,Position,Games Played,Games Started,Punts Returned,Punts Return Yardage,Punts Returned for Touchdown,Longest Punt Return,Yards per Punt Return,Kickoff Returns,Yardage for Kickoffs Returned,Kickoffs Returned for a Touchdown,Longest Kickoff Return,Yards per Kickoff Return,All-purpose Yards,Year
-0,81,49ers,Trent Taylor,23,WR,15,1,30,281,0,39,9.4,1,8,0,8,8.0,719,2017
-1,17,49ers,Victor Bolden,22,WR,9,0,4,23,0,16,5.8,19,396,0,34,20.8,419,2017
-2,22,49ers,Matt Breida,22,RB,16,0,0,0,0,0,,5,83,0,28,16.6,728,2017
-3,31,49ers,Raheem Mostert,25,RB,11,0,0,0,0,0,,5,83,0,21,16.6,113,2017
-4,98,49ers,Ronald Blair,24,DE,6,2,0,0,0,0,,1,0,0,0,0.0,0,2017
+,No.,Player,Age,Position,Games Played,Games Started,Punts Returned,Punts Return Yardage,Punts Returned for Touchdown,Longest Punt Return,Yards per Punt Return,Kickoff Returns,Yardage for Kickoffs Returned,Kickoffs Returned for a Touchdown,Longest Kickoff Return,Yards per Kickoff Return,All-purpose Yards,Team,Year
+81,81,Trent Taylor,23,WR,15,1,30,281,0,39,9.4,1,8,0,8,8.0,719,49ers,2017
+17,17,Victor Bolden,22,WR,9,0,4,23,0,16,5.8,19,396,0,34,20.8,419,49ers,2017
+22,22,Matt Breida,22,RB,16,0,0,0,0,0,0.0,5,83,0,28,16.6,728,49ers,2017
+31,31,Raheem Mostert,25,RB,11,0,0,0,0,0,0.0,5,83,0,21,16.6,113,49ers,2017
+98,98,Ronald Blair,24,DE,6,2,0,0,0,0,0.0,1,0,0,0,0.0,0,49ers,2017

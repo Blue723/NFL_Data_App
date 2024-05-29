@@ -1,18 +1,18 @@
-,No.,Team,Player,Age,Pos,Games Played,Games Started,Rush TD,Reception TD,Punt Return TD,Kick Return TD,Fumble Return TD,Interception TD,Other TD,All Touchdown Scored,2-Point Conversions Made,Two-Point Conversions Attempted,Defensive Two-Point Conversions,Extra Points Made,Extra Points Allowed,Field Goals Made,Field Goals Attempted,Safeties Scored by Player/Team,Total Points Scored by all Means,Poins per Game,Year
-0,3,Saints,Wil Lutz,23,K,16,0,0,0,0,0,0,0,0,0,0,0,0,47,50,31,36,,140,8.8,2017
-1,41,Saints,Alvin Kamara,22,RB,16,3,8,5,0,1,0,0,0,14,1,0,0,0,0,0,0,,86,5.4,2017
-2,22,Saints,Mark Ingram,28,RB,16,12,12,0,0,0,0,0,0,12,0,0,0,0,0,0,0,,72,4.5,2017
-3,13,Saints,Michael Thomas,24,WR,16,14,0,5,0,0,0,0,0,5,0,0,0,0,0,0,0,,30,1.9,2017
-4,19,Saints,Ted Ginn Jr.,32,WR,15,10,0,4,0,0,0,0,0,4,0,0,0,0,0,0,0,,24,1.6,2017
-5,16,Saints,Brandon Coleman,25,WR,16,6,0,3,0,0,0,0,0,3,0,0,0,0,0,0,0,,18,1.1,2017
-6,9,Saints,Drew Brees,38,QB,16,16,2,0,0,0,0,0,0,2,0,0,0,0,0,0,0,,12,0.8,2017
-7,82,Saints,Coby Fleener,29,TE,11,1,0,2,0,0,0,0,0,2,0,0,0,0,0,0,0,,12,1.1,2017
-8,33,Saints,Trey Edmunds,23,RB,16,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,,6,0.4,2017
-9,34,Saints,Justin Hardee,23,WR,14,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,,6,0.4,2017
-10,89,Saints,Josh Hill,27,TE,16,11,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,,6,0.4,2017
-11,84,Saints,Michael Hoomanawanui,29,TE,14,10,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,,6,0.4,2017
-12,94,Saints,Cameron Jordan,28,LDE,16,16,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,,6,0.4,2017
-13,23,Saints,Marshon Lattimore,21,RCB,13,13,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,,6,0.5,2017
-14,11,Saints,Tommylee Lewis,25,WR,15,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,,6,0.4,2017
-15,42,Saints,Zach Line,27,RB,12,4,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,,6,0.5,2017
-16,32,Saints,Kenny Vaccaro,26,SS,12,12,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,,6,0.5,2017
+,No.,Player,Age,Pos,Games Played,Games Started,Rush TD,Reception TD,Punt Return TD,Kick Return TD,Fumble Return TD,Interception TD,Other TD,All Touchdown Scored,2-Point Conversions Made,Two-Point Conversions Attempted,Defensive Two-Point Conversions,Extra Points Made,Extra Points Allowed,Field Goals Made,Field Goals Attempted,Safeties Scored by Player/Team,Total Points Scored by all Means,Poins per Game,Team,Year
+3,3,Wil Lutz,23,K,16,0,0,0,0,0,0,0,0,0,0,0,0,47,50,31,36,0,140,8.8,Saints,2017
+41,41,Alvin Kamara,22,RB,16,3,8,5,0,1,0,0,0,14,1,0,0,0,0,0,0,0,86,5.4,Saints,2017
+22,22,Mark Ingram,28,RB,16,12,12,0,0,0,0,0,0,12,0,0,0,0,0,0,0,0,72,4.5,Saints,2017
+13,13,Michael Thomas,24,WR,16,14,0,5,0,0,0,0,0,5,0,0,0,0,0,0,0,0,30,1.9,Saints,2017
+19,19,Ted Ginn Jr.,32,WR,15,10,0,4,0,0,0,0,0,4,0,0,0,0,0,0,0,0,24,1.6,Saints,2017
+16,16,Brandon Coleman,25,WR,16,6,0,3,0,0,0,0,0,3,0,0,0,0,0,0,0,0,18,1.1,Saints,2017
+9,9,Drew Brees,38,QB,16,16,2,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,12,0.8,Saints,2017
+82,82,Coby Fleener,29,TE,11,1,0,2,0,0,0,0,0,2,0,0,0,0,0,0,0,0,12,1.1,Saints,2017
+33,33,Trey Edmunds,23,RB,16,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,6,0.4,Saints,2017
+34,34,Justin Hardee,23,WR,14,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,6,0.4,Saints,2017
+89,89,Josh Hill,27,TE,16,11,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,6,0.4,Saints,2017
+84,84,Michael Hoomanawanui,29,TE,14,10,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,6,0.4,Saints,2017
+94,94,Cameron Jordan,28,LDE,16,16,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,6,0.4,Saints,2017
+23,23,Marshon Lattimore,21,RCB,13,13,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,6,0.5,Saints,2017
+11,11,Tommylee Lewis,25,WR,15,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,6,0.4,Saints,2017
+42,42,Zach Line,27,RB,12,4,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,6,0.5,Saints,2017
+32,32,Kenny Vaccaro,26,SS,12,12,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,6,0.5,Saints,2017

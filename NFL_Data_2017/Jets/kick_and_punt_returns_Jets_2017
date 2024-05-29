@@ -1,8 +1,8 @@
-,No.,Team,Player,Age,Position,Games Played,Games Started,Punts Returned,Punts Return Yardage,Punts Returned for Touchdown,Longest Punt Return,Yards per Punt Return,Kickoff Returns,Yardage for Kickoffs Returned,Kickoffs Returned for a Touchdown,Longest Kickoff Return,Yards per Kickoff Return,All-purpose Yards,Year
-0,87,Jets,Jojo Natson,23,WR,7,0,16,38,0,17,2.4,16,325,0,32,20.3,396,2017
-1,14,Jets,Jeremy Kerley,29,WR,8,2,16,85,0,15,5.3,0,0,0,0,,302,2017
-2,18,Jets,ArDarius Stewart,24,WR,15,2,0,0,0,0,,9,173,0,32,19.2,282,2017
-3,84,Jets,Kalif Raymond,23,WR,2,0,5,38,0,25,7.6,3,85,0,40,28.3,123,2017
-4,25,Jets,Elijah McGuire,23,RB,16,2,1,10,0,10,10.0,4,83,0,24,20.8,585,2017
-5,47,Jets,David Bass,27,DE,13,2,0,0,0,0,,1,10,0,10,10.0,10,2017
-6,48,Jets,Jordan Jenkins,23,ROLB,16,15,0,0,0,0,,1,7,0,7,7.0,7,2017
+,No.,Player,Age,Position,Games Played,Games Started,Punts Returned,Punts Return Yardage,Punts Returned for Touchdown,Longest Punt Return,Yards per Punt Return,Kickoff Returns,Yardage for Kickoffs Returned,Kickoffs Returned for a Touchdown,Longest Kickoff Return,Yards per Kickoff Return,All-purpose Yards,Team,Year
+87,87,Jojo Natson,23,WR,7,0,16,38,0,17,2.4,16,325,0,32,20.3,396,Jets,2017
+14,14,Jeremy Kerley,29,WR,8,2,16,85,0,15,5.3,0,0,0,0,0.0,302,Jets,2017
+18,18,ArDarius Stewart,24,WR,15,2,0,0,0,0,0.0,9,173,0,32,19.2,282,Jets,2017
+84,84,Kalif Raymond,23,WR,2,0,5,38,0,25,7.6,3,85,0,40,28.3,123,Jets,2017
+25,25,Elijah McGuire,23,RB,16,2,1,10,0,10,10.0,4,83,0,24,20.8,585,Jets,2017
+47,47,David Bass,27,DE,13,2,0,0,0,0,0.0,1,10,0,10,10.0,10,Jets,2017
+48,48,Jordan Jenkins,23,ROLB,16,15,0,0,0,0,0.0,1,7,0,7,7.0,7,Jets,2017

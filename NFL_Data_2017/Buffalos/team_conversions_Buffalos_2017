@@ -1,5 +1,5 @@
-,Player,Team,3rd Down Attempts in Game,3rd Down Conversions,3rd Down Conversion Per.,4th Down Attempts in Game,4th Down Conversions in Game,4th Down Conversion Per.,Red Zone Attempts,Touchdowns Scored After the Team Entered the Red Zone,Per. of the Time a Team Reaches the Red Zone and Scores a Touchdown,Year
-0,Team Stats,Buffalos,241.0,101.0,41.9,15.0,2.0,13.3,44.0,23.0,52.3,2017.0
-1,Opp. Stats,Buffalos,214.0,82.0,38.3,20.0,11.0,55.0,57.0,30.0,52.6,2017.0
-2,Lg Rank Offense,Buffalos,,,6.0,,,31.0,,,21.0,2017.0
-3,Lg Rank Defense,Buffalos,,,18.0,,,24.0,,,15.0,2017.0
+,Player,3rd Down Attempts in Game,3rd Down Conversions,3rd Down Conversion Per.,4th Down Attempts in Game,4th Down Conversions in Game,4th Down Conversion Per.,Red Zone Attempts,Touchdowns Scored After the Team Entered the Red Zone,Per. of the Time a Team Reaches the Red Zone and Scores a Touchdown,Team,Year
+Team Stats,Team Stats,241.0,101.0,41.9,15.0,2.0,13.3,44.0,23.0,52.3,Buffalos,2017
+Opp. Stats,Opp. Stats,214.0,82.0,38.3,20.0,11.0,55.0,57.0,30.0,52.6,Buffalos,2017
+Lg Rank Offense,Lg Rank Offense,0.0,0.0,6.0,0.0,0.0,31.0,0.0,0.0,21,Buffalos,2017
+Lg Rank Defense,Lg Rank Defense,0.0,0.0,18.0,0.0,0.0,24.0,0.0,0.0,15,Buffalos,2017

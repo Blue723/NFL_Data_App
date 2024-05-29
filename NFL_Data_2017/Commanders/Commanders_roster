@@ -1,74 +1,74 @@
-Player,No.,Team,Age,Pos,G,GS,Wt,Ht,College/Univ,BirthDate,Yrs,AV,Drafted (tm/rnd/yr)
-Jonathan Allen,95.0,Commanders,22.0,LDE,5,5.0,300.0,6-3,Alabama,1/16/1995,Rook,2.0,Washington Redskins / 1st / 17th pick / 2017
-Ryan Anderson,52.0,Commanders,23.0,LB,14,0.0,255.0,6-2,Alabama,8/12/1994,Rook,1.0,Washington Redskins / 2nd / 49th pick / 2017
-Brandon Banks,63.0,Commanders,23.0,DT,1,0.0,267.0,6-3,Charlotte,7/13/1994,Rook,0.0,
-Tony Bergstrom,66.0,Commanders,31.0,T,9,3.0,310.0,6-5,Utah,8/8/1986,5,2.0,Oakland Raiders / 3rd / 95th pick / 2012
-Kapri Bibbs,39.0,Commanders,24.0,RB,3,0.0,203.0,5-10,"Snow College (UT),Colorado St.",1/10/1993,2,1.0,
-Bashaud Breeland,26.0,Commanders,25.0,LCB,15,14.0,195.0,5-11,Clemson,1/30/1992,3,5.0,Washington Redskins / 4th / 102nd pick / 2014
-Mack Brown,34.0,Commanders,26.0,DB,3,0.0,213.0,5-11,Florida,9/24/1991,1,0.0,
-Zach Brown,53.0,Commanders,28.0,LILB,13,13.0,250.0,6-1,North Carolina,10/23/1989,5,7.0,Tennessee Titans / 2nd / 52nd pick / 2012
-Chris Carter,55.0,Commanders,28.0,LB,13,0.0,245.0,6-1,Fresno St.,4/6/1989,6,1.0,Pittsburgh Steelers / 5th / 162nd pick / 2011
-Tyler Catalina,68.0,Commanders,24.0,T,7,2.0,315.0,6-6,Georgia,1/24/1993,Rook,2.0,
-T.J. Clemmings,69.0,Commanders,26.0,T,6,2.0,337.0,6-4,Pittsburgh,11/18/1991,2,2.0,Minnesota Vikings / 4th / 110th pick / 2015
-William Compton,51.0,Commanders,28.0,LB,9,3.0,235.0,6-1,Nebraska,9/19/1989,4,2.0,
-Kirk Cousins,8.0,Commanders,29.0,QB,16,16.0,205.0,6-3,Michigan St.,8/19/1988,5,12.0,Washington Redskins / 4th / 102nd pick / 2012
-Jamison Crowder,80.0,Commanders,24.0,WR,15,6.0,177.0,5-9,Duke,6/17/1993,2,6.0,Washington Redskins / 4th / 105th pick / 2015
-LeShun Daniels,46.0,Commanders,22.0,RB,4,0.0,222.0,5-11,Iowa,6/4/1995,Rook,0.0,
-Robert Davis,,Commanders,22.0,WR,1,0.0,210.0,6-3,Georgia St.,4/2/1995,Rook,0.0,Washington Redskins / 6th / 209th pick / 2017
-Vernon Davis,85.0,Commanders,33.0,TE,16,16.0,248.0,6-3,Maryland,1/31/1984,11,5.0,San Francisco 49ers / 1st / 6th pick / 2006
-Josh Doctson,18.0,Commanders,25.0,WR,16,14.0,205.0,6-2,"TCU,Wyoming",12/3/1992,1,4.0,Washington Redskins / 1st / 22nd pick / 2016
-Quinton Dunbar,47.0,Commanders,25.0,DB,15,4.0,202.0,6-2,Florida,7/22/1992,2,2.0,
-Deshazor Everett,22.0,Commanders,25.0,SS,14,8.0,203.0,6-0,Texas A&M,2/22/1992,2,3.0,
-Mason Foster,54.0,Commanders,28.0,LB,5,4.0,240.0,6-1,Washington,3/1/1989,6,3.0,Tampa Bay Buccaneers / 3rd / 84th pick / 2011
-A.J. Francis,64.0,Commanders,27.0,DT,6,0.0,337.0,6-5,Maryland,5/7/1990,2,1.0,
-Orlando Franklin,74.0,Commanders,30.0,T,1,0.0,315.0,6-6,Miami (FL),12/16/1987,6,0.0,Denver Broncos / 2nd / 46th pick / 2011
-Kendall Fuller,29.0,Commanders,22.0,CB,16,6.0,198.0,5-11,Virginia Tech,2/13/1995,1,4.0,Washington Redskins / 3rd / 84th pick / 2016
-Junior Galette,58.0,Commanders,29.0,DE,16,0.0,257.0,6-2,"Temple,Stillman",3/27/1988,7,2.0,
-Ryan Grant,14.0,Commanders,27.0,WR,16,7.0,195.0,6-0,Tulane,12/19/1990,3,4.0,Washington Redskins / 5th / 142nd pick / 2014
-DeAngelo Hall,23.0,Commanders,34.0,DB,5,2.0,200.0,5-10,Virginia Tech,11/19/1983,13,1.0,Atlanta Falcons / 1st / 8th pick / 2004
-Maurice Harris,13.0,Commanders,25.0,WR,6,0.0,205.0,6-3,California,11/11/1992,1,0.0,
-Josh Harvey-Clemons,40.0,Commanders,23.0,DB,10,0.0,245.0,6-4,Louisville,2/20/1994,Rook,1.0,Washington Redskins / 7th / 230th pick / 2017
-Joshua Holsey,38.0,Commanders,23.0,DB,12,0.0,195.0,5-11,Auburn,6/25/1994,Rook,1.0,Washington Redskins / 7th / 235th pick / 2017
-Evander Hood,90.0,Commanders,30.0,NT,15,13.0,305.0,6-3,Missouri,2/16/1987,8,6.0,Pittsburgh Steelers / 1st / 32nd pick / 2009
-Dustin Hopkins,3.0,Commanders,27.0,K,8,0.0,193.0,6-2,Florida St.,10/1/1990,2,1.0,Buffalo Bills / 6th / 177th pick / 2013
-Matthew Ioannidis,98.0,Commanders,23.0,RDE,14,10.0,310.0,6-3,Temple,1/11/1994,1,5.0,Washington Redskins / 5th / 152nd pick / 2016
-Arthur Jones,96.0,Commanders,31.0,DT,1,0.0,301.0,6-3,Syracuse,6/30/1986,7,0.0,Baltimore Ravens / 5th / 157th pick / 2010
-Robert Kelley,20.0,Commanders,25.0,RB,7,7.0,229.0,6-0,Tulane,10/3/1992,1,1.0,
-Ryan Kerrigan,91.0,Commanders,29.0,ROLB,16,16.0,267.0,6-4,Purdue,8/16/1988,6,11.0,Washington Redskins / 1st / 16th pick / 2011
-Arie Kouandjio,60.0,Commanders,25.0,LG,8,6.0,316.0,6-5,Alabama,4/23/1992,2,3.0,Washington Redskins / 4th / 112th pick / 2015
-Anthony Lanier,72.0,Commanders,24.0,DE,11,2.0,285.0,6-6,Alabama A&M,5/8/1993,1,2.0,
-Shawn Lauvao,77.0,Commanders,30.0,LG,9,9.0,308.0,6-3,Arizona St.,10/26/1987,7,4.0,Cleveland Browns / 3rd / 92nd pick / 2010
-Spencer Long,61.0,Commanders,27.0,C,7,6.0,318.0,6-5,Nebraska,11/8/1990,3,3.0,Washington Redskins / 3rd / 78th pick / 2014
-Byron Marshall,34.0,Commanders,23.0,RB,4,0.0,225.0,5-9,Oregon,2/13/1994,1,0.0,
-Terrell McClain,97.0,Commanders,29.0,DT,12,2.0,300.0,6-2,South Florida,7/20/1988,6,2.0,Carolina Panthers / 3rd / 65th pick / 2011
-Stefan McClure,39.0,Commanders,24.0,DB,7,0.0,205.0,5-10,California,1/31/1993,Rook,0.0,
-Colt McCoy,12.0,Commanders,31.0,QB,1,0.0,212.0,6-1,Texas,9/5/1986,7,0.0,Cleveland Browns / 3rd / 85th pick / 2010
-Stacy McGee,92.0,Commanders,27.0,LDE,16,10.0,339.0,6-3,Oklahoma,1/17/1990,4,5.0,Oakland Raiders / 6th / 205th pick / 2013
-Fabian Moreau,31.0,Commanders,23.0,DB,16,0.0,198.0,6-0,UCLA,4/9/1994,Rook,1.0,Washington Redskins / 3rd / 81st pick / 2017
-Morgan Moses,76.0,Commanders,26.0,RT,16,16.0,320.0,6-6,Virginia,3/3/1991,3,8.0,Washington Redskins / 3rd / 66th pick / 2014
-Montae Nicholson,35.0,Commanders,22.0,SS,8,6.0,212.0,6-2,Michigan St.,12/4/1995,Rook,2.0,Washington Redskins / 4th / 123rd pick / 2017
-Josh Norman,24.0,Commanders,30.0,RCB,14,14.0,195.0,6-0,Coastal Carolina,12/15/1987,5,5.0,Carolina Panthers / 5th / 143rd pick / 2012
-Ty Nsekhe,79.0,Commanders,32.0,LT,11,5.0,325.0,6-8,Texas St.,10/27/1985,5,3.0,
-Dare Ogunbowale,48.0,Commanders,23.0,RB,2,0.0,205.0,5-11,Wisconsin,5/4/1994,Rook,0.0,
-Niles Paul,84.0,Commanders,28.0,TE,14,8.0,242.0,6-1,Nebraska,8/9/1989,6,1.0,Washington Redskins / 5th / 155th pick / 2011
-Samaje Perine,32.0,Commanders,22.0,RB,16,8.0,236.0,5-10,Oklahoma,9/16/1995,Rook,5.0,Washington Redskins / 4th / 114th pick / 2017
-Otha Peters,41.0,Commanders,23.0,LB,3,0.0,238.0,6-0,"Arkansas,Louisiana",2/27/1994,Rook,0.0,
-Terrelle Pryor,11.0,Commanders,28.0,WR,9,2.0,228.0,6-4,Ohio St.,6/20/1989,6,2.0,Oakland Raiders / 3rd / 1st pick / 2011 Supp
-Brian Quick,83.0,Commanders,28.0,WR,11,1.0,215.0,6-3,Appalachian St.,6/5/1989,5,1.0,St. Louis Rams / 2nd / 33rd pick / 2012
-Jordan Reed,86.0,Commanders,27.0,TE,6,5.0,242.0,6-2,Florida,7/3/1990,4,2.0,Washington Redskins / 3rd / 85th pick / 2013
-Demetrius Rhaney,74.0,Commanders,25.0,C,1,0.0,305.0,6-2,Tennessee St.,6/22/1992,2,0.0,St. Louis Rams / 7th / 250th pick / 2014
-Pete Robertson,45.0,Commanders,25.0,LB,4,0.0,243.0,6-2,Texas Tech,12/12/1992,Rook,0.0,
-Nick Rose,6.0,Commanders,23.0,K,8,0.0,200.0,6-2,Texas,5/5/1994,Rook,1.0,
-Chase Roullier,73.0,Commanders,24.0,C,13,7.0,312.0,6-4,Wyoming,8/23/1993,Rook,4.0,Washington Redskins / 6th / 199th pick / 2017
-Brandon Scherff,75.0,Commanders,26.0,RG,14,14.0,315.0,6-5,Iowa,12/26/1991,2,9.0,Washington Redskins / 1st / 5th pick / 2015
-Preston Smith,94.0,Commanders,25.0,LOLB,16,16.0,265.0,6-5,Mississippi St.,11/17/1992,2,8.0,Washington Redskins / 2nd / 38th pick / 2015
-Fish Smithson,37.0,Commanders,23.0,DB,2,0.0,196.0,5-11,"Hartnell,Kansas",3/18/1994,Rook,0.0,
-Martrell Spaight,50.0,Commanders,24.0,LB,15,6.0,243.0,6-0,Arkansas,8/5/1993,2,4.0,Washington Redskins / 5th / 141st pick / 2015
-Jeremy Sprinkle,87.0,Commanders,23.0,TE,11,5.0,252.0,6-5,Arkansas,8/10/1994,Rook,0.0,Washington Redskins / 5th / 154th pick / 2017
-Nick Sundberg,57.0,Commanders,30.0,LS,16,0.0,254.0,6-1,California,7/29/1987,7,1.0,
-D.J. Swearinger,36.0,Commanders,26.0,FS,16,16.0,205.0,5-10,South Carolina,9/1/1991,4,7.0,Houston Texans / 2nd / 57th pick / 2013
-Chris Thompson,25.0,Commanders,27.0,RB,10,1.0,195.0,5-8,Florida St.,10/20/1990,4,6.0,Washington Redskins / 5th / 154th pick / 2013
-Zach Vigil,56.0,Commanders,26.0,RILB,7,6.0,238.0,6-2,Utah St.,3/28/1991,2,3.0,
-Tress Way,5.0,Commanders,27.0,P,16,0.0,220.0,6-1,Oklahoma,4/18/1990,3,2.0,
-Trent Williams,71.0,Commanders,29.0,LT,10,10.0,320.0,6-5,Oklahoma,7/19/1988,7,6.0,Washington Redskins / 1st / 4th pick / 2010
-Team Total,,Commanders,26.1,,16,,248.8,6-1.8,,,3.0,,
+,No.,Player,BirthDate,Age,Height,Weight,College/University,Position,Games_Played_in_Season,Games_Started_in_Season,NFL_Years,Player_Value,Team,Year
+0,95.0,Jonathan Allen,1/16/1995,22.0,6-3,300.0,Alabama,LDE,5,5.0,0.0,2.0,Commanders,2017
+1,52.0,Ryan Anderson,8/12/1994,23.0,6-2,255.0,Alabama,LB,14,0.0,0.0,1.0,Commanders,2017
+2,63.0,Brandon Banks,7/13/1994,23.0,6-3,267.0,Charlotte,DE,1,0.0,0.0,0.0,Commanders,2017
+3,66.0,Tony Bergstrom,8/8/1986,31.0,6-5,310.0,Utah,T,9,3.0,5.0,2.0,Commanders,2017
+4,39.0,Kapri Bibbs,1/10/1993,24.0,5-10,203.0,"Snow College (UT),Colorado St.",RB,3,0.0,2.0,1.0,Commanders,2017
+5,26.0,Bashaud Breeland,1/30/1992,25.0,5-11,195.0,Clemson,LCB,15,14.0,3.0,5.0,Commanders,2017
+6,34.0,Mack Brown,9/24/1991,26.0,5-11,213.0,Florida,DB,3,0.0,1.0,0.0,Commanders,2017
+7,53.0,Zach Brown,10/23/1989,28.0,6-1,250.0,North Carolina,LILB,13,13.0,5.0,7.0,Commanders,2017
+8,55.0,Chris Carter,4/6/1989,28.0,6-1,245.0,Fresno St.,LB,13,0.0,6.0,1.0,Commanders,2017
+9,68.0,Tyler Catalina,1/24/1993,24.0,6-6,315.0,Georgia,T,7,2.0,0.0,2.0,Commanders,2017
+10,69.0,T.J. Clemmings,11/18/1991,26.0,6-4,337.0,Pittsburgh,T,6,2.0,2.0,2.0,Commanders,2017
+11,51.0,William Compton,9/19/1989,28.0,6-1,235.0,Nebraska,LB,9,3.0,4.0,2.0,Commanders,2017
+12,8.0,Kirk Cousins,8/19/1988,29.0,6-3,205.0,Michigan St.,QB,16,16.0,5.0,12.0,Commanders,2017
+13,80.0,Jamison Crowder,6/17/1993,24.0,5-9,177.0,Duke,WR,15,6.0,2.0,6.0,Commanders,2017
+14,46.0,LeShun Daniels,6/4/1995,22.0,5-11,222.0,Iowa,RB,4,0.0,0.0,0.0,Commanders,2017
+15,,Robert Davis,4/2/1995,22.0,6-3,210.0,Georgia St.,WR,1,0.0,0.0,0.0,Commanders,2017
+16,85.0,Vernon Davis,1/31/1984,33.0,6-3,248.0,Maryland,TE,16,16.0,11.0,5.0,Commanders,2017
+17,18.0,Josh Doctson,12/3/1992,25.0,6-2,205.0,"TCU,Wyoming",WR,16,14.0,1.0,4.0,Commanders,2017
+18,47.0,Quinton Dunbar,7/22/1992,25.0,6-2,202.0,Florida,DB,15,4.0,2.0,2.0,Commanders,2017
+19,22.0,Deshazor Everett,2/22/1992,25.0,6-0,203.0,Texas A&M,SS,14,8.0,2.0,3.0,Commanders,2017
+20,54.0,Mason Foster,3/1/1989,28.0,6-1,240.0,Washington,LB,5,4.0,6.0,3.0,Commanders,2017
+21,64.0,A.J. Francis,5/7/1990,27.0,6-5,337.0,Maryland,DT,6,0.0,2.0,1.0,Commanders,2017
+22,74.0,Orlando Franklin,12/16/1987,30.0,6-6,315.0,Miami (FL),G,1,0.0,6.0,0.0,Commanders,2017
+23,29.0,Kendall Fuller,2/13/1995,22.0,5-11,198.0,Virginia Tech,CB,16,6.0,1.0,4.0,Commanders,2017
+24,58.0,Junior Galette,3/27/1988,29.0,6-2,257.0,"Temple,Stillman",DE,16,0.0,7.0,2.0,Commanders,2017
+25,14.0,Ryan Grant,12/19/1990,27.0,6-0,195.0,Tulane,WR,16,7.0,3.0,4.0,Commanders,2017
+26,23.0,DeAngelo Hall,11/19/1983,34.0,5-10,200.0,Virginia Tech,DB,5,2.0,13.0,1.0,Commanders,2017
+27,13.0,Maurice Harris,11/11/1992,25.0,6-3,205.0,California,WR,6,0.0,1.0,0.0,Commanders,2017
+28,40.0,Josh Harvey-Clemons,2/20/1994,23.0,6-4,245.0,Louisville,DB,10,0.0,0.0,1.0,Commanders,2017
+29,38.0,Joshua Holsey,6/25/1994,23.0,5-11,195.0,Auburn,DB,12,0.0,0.0,1.0,Commanders,2017
+30,90.0,Evander Hood,2/16/1987,30.0,6-3,305.0,Missouri,NT,15,13.0,8.0,6.0,Commanders,2017
+31,3.0,Dustin Hopkins,10/1/1990,27.0,6-2,193.0,Florida St.,K,8,0.0,2.0,1.0,Commanders,2017
+32,98.0,Matthew Ioannidis,1/11/1994,23.0,6-3,310.0,Temple,RDE,14,10.0,1.0,5.0,Commanders,2017
+33,96.0,Arthur Jones,6/30/1986,31.0,6-3,301.0,Syracuse,DE,1,0.0,7.0,0.0,Commanders,2017
+34,20.0,Robert Kelley,10/3/1992,25.0,6-0,229.0,Tulane,RB,7,7.0,1.0,1.0,Commanders,2017
+35,91.0,Ryan Kerrigan,8/16/1988,29.0,6-4,267.0,Purdue,ROLB,16,16.0,6.0,11.0,Commanders,2017
+36,60.0,Arie Kouandjio,4/23/1992,25.0,6-5,316.0,Alabama,LG,8,6.0,2.0,3.0,Commanders,2017
+37,72.0,Anthony Lanier,5/8/1993,24.0,6-6,285.0,Alabama A&M,DE,11,2.0,1.0,2.0,Commanders,2017
+38,77.0,Shawn Lauvao,10/26/1987,30.0,6-3,308.0,Arizona St.,LG,9,9.0,7.0,4.0,Commanders,2017
+39,61.0,Spencer Long,11/8/1990,27.0,6-5,318.0,Nebraska,C,7,6.0,3.0,3.0,Commanders,2017
+40,34.0,Byron Marshall,2/13/1994,23.0,5-9,225.0,Oregon,RB,4,0.0,1.0,0.0,Commanders,2017
+41,97.0,Terrell McClain,7/20/1988,29.0,6-2,300.0,South Florida,DT,12,2.0,6.0,2.0,Commanders,2017
+42,39.0,Stefan McClure,1/31/1993,24.0,5-10,205.0,California,DB,7,0.0,0.0,0.0,Commanders,2017
+43,12.0,Colt McCoy,9/5/1986,31.0,6-1,212.0,Texas,QB,1,0.0,7.0,0.0,Commanders,2017
+44,92.0,Stacy McGee,1/17/1990,27.0,6-3,339.0,Oklahoma,LDE,16,10.0,4.0,5.0,Commanders,2017
+45,31.0,Fabian Moreau,4/9/1994,23.0,6-0,198.0,UCLA,DB,16,0.0,0.0,1.0,Commanders,2017
+46,76.0,Morgan Moses,3/3/1991,26.0,6-6,320.0,Virginia,RT,16,16.0,3.0,8.0,Commanders,2017
+47,35.0,Montae Nicholson,12/4/1995,22.0,6-2,212.0,Michigan St.,SS,8,6.0,0.0,2.0,Commanders,2017
+48,24.0,Josh Norman,12/15/1987,30.0,6-0,195.0,Coastal Carolina,RCB,14,14.0,5.0,5.0,Commanders,2017
+49,79.0,Ty Nsekhe,10/27/1985,32.0,6-8,325.0,Texas St.,LT,11,5.0,5.0,3.0,Commanders,2017
+50,48.0,Dare Ogunbowale,5/4/1994,23.0,5-11,205.0,Wisconsin,RB,2,0.0,0.0,0.0,Commanders,2017
+51,84.0,Niles Paul,8/9/1989,28.0,6-1,242.0,Nebraska,TE,14,8.0,6.0,1.0,Commanders,2017
+52,32.0,Samaje Perine,9/16/1995,22.0,5-10,236.0,Oklahoma,RB,16,8.0,0.0,5.0,Commanders,2017
+53,41.0,Otha Peters,2/27/1994,23.0,6-0,238.0,"Arkansas,Louisiana",LB,3,0.0,0.0,0.0,Commanders,2017
+54,11.0,Terrelle Pryor,6/20/1989,28.0,6-4,228.0,Ohio St.,WR,9,2.0,6.0,2.0,Commanders,2017
+55,83.0,Brian Quick,6/5/1989,28.0,6-3,215.0,Appalachian St.,WR,11,1.0,5.0,1.0,Commanders,2017
+56,86.0,Jordan Reed,7/3/1990,27.0,6-2,242.0,Florida,TE,6,5.0,4.0,2.0,Commanders,2017
+57,74.0,Demetrius Rhaney,6/22/1992,25.0,6-2,305.0,Tennessee St.,C,1,0.0,2.0,0.0,Commanders,2017
+58,45.0,Pete Robertson,12/12/1992,25.0,6-2,243.0,Texas Tech,LB,4,0.0,0.0,0.0,Commanders,2017
+59,6.0,Nick Rose,5/5/1994,23.0,6-2,200.0,Texas,K,8,0.0,0.0,1.0,Commanders,2017
+60,73.0,Chase Roullier,8/23/1993,24.0,6-4,312.0,Wyoming,C,13,7.0,0.0,4.0,Commanders,2017
+61,75.0,Brandon Scherff,12/26/1991,26.0,6-5,315.0,Iowa,RG,14,14.0,2.0,9.0,Commanders,2017
+62,94.0,Preston Smith,11/17/1992,25.0,6-5,265.0,Mississippi St.,LOLB,16,16.0,2.0,8.0,Commanders,2017
+63,37.0,Fish Smithson,3/18/1994,23.0,5-11,196.0,"Hartnell,Kansas",DB,2,0.0,0.0,0.0,Commanders,2017
+64,50.0,Martrell Spaight,8/5/1993,24.0,6-0,243.0,Arkansas,LB,15,6.0,2.0,4.0,Commanders,2017
+65,87.0,Jeremy Sprinkle,8/10/1994,23.0,6-5,252.0,Arkansas,TE,11,5.0,0.0,0.0,Commanders,2017
+66,57.0,Nick Sundberg,7/29/1987,30.0,6-1,254.0,California,LS,16,0.0,7.0,1.0,Commanders,2017
+67,36.0,D.J. Swearinger,9/1/1991,26.0,5-10,205.0,South Carolina,FS,16,16.0,4.0,7.0,Commanders,2017
+68,25.0,Chris Thompson,10/20/1990,27.0,5-8,195.0,Florida St.,RB,10,1.0,4.0,6.0,Commanders,2017
+69,56.0,Zach Vigil,3/28/1991,26.0,6-2,238.0,Utah St.,RILB,7,6.0,2.0,3.0,Commanders,2017
+70,5.0,Tress Way,4/18/1990,27.0,6-1,220.0,Oklahoma,P,16,0.0,3.0,2.0,Commanders,2017
+71,71.0,Trent Williams,7/19/1988,29.0,6-5,320.0,Oklahoma,LT,10,10.0,7.0,6.0,Commanders,2017
+72,,Team Total,,26.1,6-1.8,248.8,,,16,,3.0,,Commanders,2017
