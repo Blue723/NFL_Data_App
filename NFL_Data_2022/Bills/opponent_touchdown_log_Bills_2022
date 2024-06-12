@@ -1,0 +1,33 @@
+,Rank,Team,Date,Opponent,Win/Loss,Home_Score,Opponenet_Score,Quarter,Distance,Type,Detail
+1,1,Bills,2022-09-08,LAR,Win,31,10,2,4,pass,Cooper Kupp
+2,2,Bills,2022-09-19,TEN,Win,41,7,1,2,rush,Derrick Henry
+3,3,Bills,2022-09-25,MIA,Loss,19,21,1,1,rush,Chase Edmonds
+4,4,Bills,2022-09-25,MIA,Loss,19,21,2,11,pass,River Cracraft
+5,5,Bills,2022-09-25,MIA,Loss,19,21,4,3,rush,Chase Edmonds
+6,6,Bills,2022-10-02,BAL,Win,23,20,1,1,pass,J.K. Dobbins
+7,7,Bills,2022-10-02,BAL,Win,23,20,1,4,rush,J.K. Dobbins
+8,8,Bills,2022-10-16,KAN,Win,24,20,2,42,pass,JuJu Smith-Schuster
+9,9,Bills,2022-10-16,KAN,Win,24,20,3,3,pass,Mecole Hardman
+10,10,Bills,2022-10-30,GNB,Win,27,17,2,19,pass,Romeo Doubs
+11,11,Bills,2022-10-30,GNB,Win,27,17,4,37,pass,Samori Toure
+12,12,Bills,2022-11-06,NYJ,Loss,17,20,2,6,rush,Michael Carter
+13,13,Bills,2022-11-06,NYJ,Loss,17,20,3,7,pass,James Robinson
+14,14,Bills,2022-11-13,MIN,Loss,30,33,1,22,pass,Justin Jefferson
+15,15,Bills,2022-11-13,MIN,Loss,30,33,3,81,rush,Dalvin Cook
+16,16,Bills,2022-11-13,MIN,Loss,30,33,4,3,rush,C.J. Ham
+17,17,Bills,2022-11-13,MIN,Loss,30,33,4,0,fumble,Eric Kendricks
+18,18,Bills,2022-11-20,CLE,Win,31,23,1,25,pass,Amari Cooper
+19,19,Bills,2022-11-20,CLE,Win,31,23,4,7,pass,Amari Cooper
+20,20,Bills,2022-11-20,CLE,Win,31,23,4,2,pass,Donovan Peoples-Jones
+21,21,Bills,2022-11-24,DET,Win,28,25,1,2,rush,Jamaal Williams
+22,22,Bills,2022-11-24,DET,Win,28,25,2,1,pass,Amon-Ra St. Brown
+23,23,Bills,2022-11-24,DET,Win,28,25,4,1,pass,DJ Chark
+24,24,Bills,2022-12-01,NWE,Win,24,10,1,48,pass,Marcus Jones
+25,25,Bills,2022-12-11,NYJ,Win,20,12,3,13,rush,Zonovan Knight
+26,26,Bills,2022-12-17,MIA,Win,32,29,2,11,rush,Salvon Ahmed
+27,27,Bills,2022-12-17,MIA,Win,32,29,3,67,pass,Jaylen Waddle
+28,28,Bills,2022-12-17,MIA,Win,32,29,3,20,pass,Tyreek Hill
+29,29,Bills,2022-12-24,CHI,Win,35,13,1,6,pass,Dante Pettis
+30,30,Bills,2023-01-08,NWE,Win,35,23,1,2,pass,Jakobi Meyers
+31,31,Bills,2023-01-08,NWE,Win,35,23,2,2,pass,DeVante Parker
+32,32,Bills,2023-01-08,NWE,Win,35,23,4,26,pass,DeVante Parker
