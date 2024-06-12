@@ -1,65 +1,65 @@
-,No.,Player,BirthDate,Age,Height,Weight,College/University,Position,Games_Played_in_Season,Games_Started_in_Season,NFL_Years,Player_Value,Team,Year
-0,73.0,Nick Allegretti,4/21/1996,23.0,6-4,310.0,Illinois,G,7,0.0,0.0,1.0,Chiefs,2019
-1,79.0,Jeff Allen,1/8/1990,29.0,6-4,306.0,Illinois,G,4,0.0,7.0,0.0,Chiefs,2019
-2,81.0,Blake Bell,8/7/1991,28.0,6-6,252.0,Oklahoma,TE,15,7.0,4.0,1.0,Chiefs,2019
-3,21.0,Bashaud Breeland,1/30/1992,27.0,5-11,195.0,Clemson,LCB,16,15.0,5.0,6.0,Chiefs,2019
-4,30.0,Alex Brown,8/30/1996,23.0,5-11,170.0,South Carolina St.,DB,3,0.0,0.0,0.0,Chiefs,2019
-5,7.0,Harrison Butker,7/14/1995,24.0,6-4,199.0,Georgia Tech,K,16,0.0,2.0,5.0,Chiefs,2019
-6,20.0,Morris Claiborne,2/7/1990,29.0,5-11,192.0,LSU,DB,8,1.0,7.0,1.0,Chiefs,2019
-7,55.0,Frank Clark,6/14/1993,26.0,6-3,272.0,Michigan,RDE,14,11.0,4.0,9.0,Chiefs,2019
-8,2.0,Dustin Colquitt,5/6/1982,37.0,6-3,210.0,Tennessee,P,16,0.0,14.0,2.0,Chiefs,2019
-9,12.0,Gehrig Dieter,2/24/1993,26.0,6-3,207.0,Alabama,WR,2,0.0,1.0,0.0,Chiefs,2019
-10,76.0,Laurent Duvernay-Tardif,2/11/1991,28.0,6-5,321.0,McGill,RG,14,14.0,4.0,8.0,Chiefs,2019
-11,75.0,Cameron Erving,8/23/1992,27.0,6-5,315.0,Florida St.,LT,13,8.0,4.0,5.0,Chiefs,2019
-12,27.0,Rashad Fenton,2/17/1997,22.0,5-11,193.0,South Carolina,DB,12,0.0,0.0,1.0,Chiefs,2019
-13,72.0,Eric Fisher,1/5/1991,28.0,6-7,315.0,Central Michigan,LT,8,8.0,6.0,5.0,Chiefs,2019
-14,29.0,Kendall Fuller,2/13/1995,24.0,5-11,198.0,Virginia Tech,DB,11,4.0,3.0,2.0,Chiefs,2019
-15,17.0,Mecole Hardman,3/12/1998,21.0,5-10,187.0,Georgia,WR,16,5.0,0.0,7.0,Chiefs,2019
-16,52.0,Demone Harris,12/30/1995,24.0,6-4,272.0,Buffalo,DE,4,0.0,1.0,0.0,Chiefs,2019
-17,10.0,Tyreek Hill,3/1/1994,25.0,5-10,191.0,West Alabama,WR,12,12.0,3.0,9.0,Chiefs,2019
-18,53.0,Anthony Hitchens,6/10/1992,27.0,6-0,231.0,Iowa,LLB,15,15.0,5.0,7.0,Chiefs,2019
-19,60.0,Ryan Hunter,4/1/1995,24.0,6-3,316.0,Bowling Green,T,3,0.0,0.0,0.0,Chiefs,2019
-20,93.0,Joey Ivie,1/22/1995,24.0,6-3,301.0,Florida,NT,5,0.0,0.0,0.0,Chiefs,2019
-21,95.0,Chris Jones,7/3/1994,25.0,6-6,310.0,Mississippi St.,LDT/RDT,13,12.0,3.0,9.0,Chiefs,2019
-22,87.0,Travis Kelce,10/5/1989,30.0,6-5,250.0,Cincinnati,TE,16,16.0,6.0,13.0,Chiefs,2019
-23,92.0,Tanoh Kpassagnon,6/14/1994,25.0,6-7,289.0,Villanova,LDE,16,8.0,2.0,5.0,Chiefs,2019
-24,50.0,Darron Lee,10/18/1994,25.0,6-1,232.0,Ohio St.,LB,16,2.0,3.0,2.0,Chiefs,2019
-25,24.0,Jordan Lucas,8/2/1993,26.0,6-1,190.0,Penn St.,DB,14,0.0,3.0,1.0,Chiefs,2019
-26,15.0,Patrick Mahomes,9/17/1995,24.0,6-2,225.0,Texas Tech,QB,14,14.0,2.0,17.0,Chiefs,2019
-27,32.0,Tyrann Mathieu,5/13/1992,27.0,5-9,190.0,LSU,SS,16,16.0,6.0,9.0,Chiefs,2019
-28,69.0,Terrell McClain,7/20/1988,31.0,6-2,300.0,South Florida,DT,2,0.0,8.0,0.0,Chiefs,2019
-29,25.0,LeSean McCoy,7/12/1988,31.0,5-11,210.0,Pittsburgh,RB,13,9.0,10.0,5.0,Chiefs,2019
-30,8.0,Matt Moore,8/9/1984,35.0,6-3,219.0,"College of the Canyons (CA),Oregon St.",QB,6,2.0,12.0,2.0,Chiefs,2019
-31,56.0,Ben Niemann,7/27/1995,24.0,6-2,235.0,Iowa,LB,16,1.0,1.0,2.0,Chiefs,2019
-32,91.0,Derrick Nnadi,5/9/1996,23.0,6-1,317.0,Florida St.,RDT/LDT,16,16.0,1.0,7.0,Chiefs,2019
-33,44.0,Dorian O'Daniel,9/4/1994,25.0,6-1,217.0,Clemson,LB,14,0.0,1.0,1.0,Chiefs,2019
-34,90.0,Emmanuel Ogbah,11/6/1993,26.0,6-4,275.0,Oklahoma St.,DE,10,4.0,3.0,3.0,Chiefs,2019
-35,97.0,Alex Okafor,2/8/1991,28.0,6-4,261.0,Texas,LDE,10,9.0,6.0,4.0,Chiefs,2019
-36,64.0,Mike Pennel,5/9/1991,28.0,6-4,330.0,"Arizona St.,Colorado State-Pueblo",DT,8,0.0,5.0,1.0,Chiefs,2019
-37,13.0,Byron Pringle,11/17/1993,26.0,6-1,203.0,Kansas St.,WR,16,0.0,0.0,2.0,Chiefs,2019
-38,59.0,Reggie Ragland,9/24/1993,26.0,6-2,252.0,Alabama,RLB,14,7.0,2.0,4.0,Chiefs,2019
-39,74.0,Martinas Rankin,10/20/1994,25.0,6-5,311.0,"Mississippi Gulf Coast CC,Mississippi St.",LG,6,5.0,1.0,3.0,Chiefs,2019
-40,62.0,Austin Reiter,11/27/1991,28.0,6-3,301.0,South Florida,C,16,16.0,3.0,9.0,Chiefs,2019
-41,11.0,Demarcus Robinson,9/21/1994,25.0,6-1,203.0,Florida,WR,16,10.0,3.0,5.0,Chiefs,2019
-42,99.0,Khalen Saunders,8/9/1996,23.0,6-0,324.0,Western Illinois,DT,12,4.0,0.0,3.0,Chiefs,2019
-43,71.0,Mitchell Schwartz,6/8/1989,30.0,6-5,320.0,California,RT,16,16.0,7.0,15.0,Chiefs,2019
-44,42.0,Anthony Sherman,12/11/1988,31.0,5-10,242.0,Connecticut,RB,16,0.0,8.0,0.0,Chiefs,2019
-45,39.0,Tremon Smith,7/20/1996,23.0,6-0,190.0,Central Arkansas,DB,1,0.0,1.0,0.0,Chiefs,2019
-46,49.0,Daniel Sorensen,3/5/1990,29.0,6-2,208.0,BYU,DB,16,3.0,5.0,2.0,Chiefs,2019
-47,94.0,Terrell Suggs,10/11/1982,37.0,6-3,265.0,Arizona St.,LB,2,0.0,16.0,0.0,Chiefs,2019
-48,84.0,De'Anthony Thomas,1/5/1993,26.0,5-8,176.0,Oregon,RB,6,0.0,5.0,0.0,Chiefs,2019
-49,34.0,Darwin Thompson,2/12/1997,22.0,5-8,200.0,Utah St.,RB,12,0.0,0.0,1.0,Chiefs,2019
-50,22.0,Juan Thornhill,10/19/1995,24.0,6-0,205.0,Virginia,FS,16,16.0,0.0,6.0,Chiefs,2019
-51,35.0,Charvarius Ward,5/16/1996,23.0,6-1,196.0,"Hinds CC,Middle Tenn. St.",RCB,16,16.0,1.0,5.0,Chiefs,2019
-52,39.0,Spencer Ware,11/23/1991,28.0,5-10,224.0,LSU,RB,3,1.0,6.0,1.0,Chiefs,2019
-53,14.0,Sammy Watkins,6/14/1993,26.0,6-1,211.0,Clemson,WR,14,13.0,5.0,7.0,Chiefs,2019
-54,23.0,Armani Watts,3/19/1996,23.0,5-11,205.0,Texas A&M,DB,16,0.0,1.0,1.0,Chiefs,2019
-55,26.0,Damien Williams,4/3/1992,27.0,5-11,221.0,Oklahoma,RB,11,6.0,5.0,6.0,Chiefs,2019
-56,31.0,Darrel Williams,4/15/1995,24.0,5-11,219.0,LSU,RB,12,0.0,1.0,3.0,Chiefs,2019
-57,98.0,Xavier Williams,1/18/1992,27.0,6-2,309.0,Northern Iowa,DT,5,0.0,4.0,1.0,Chiefs,2019
-58,54.0,Damien Wilson,5/28/1993,26.0,6-0,243.0,Minnesota,MLB,16,16.0,4.0,7.0,Chiefs,2019
-59,41.0,James Winchester,8/6/1989,30.0,6-3,209.0,Oklahoma,LS,16,0.0,4.0,1.0,Chiefs,2019
-60,61.0,Stefen Wisniewski,3/22/1989,30.0,6-3,305.0,Penn St.,G,11,2.0,8.0,2.0,Chiefs,2019
-61,77.0,Andrew Wylie,8/19/1994,25.0,6-6,309.0,Eastern Michigan,LG,11,11.0,1.0,6.0,Chiefs,2019
-62,82.0,Deon Yelder,3/6/1995,24.0,6-4,255.0,Western Kentucky,TE,9,1.0,1.0,1.0,Chiefs,2019
-63,,Team Total,,26.5,6-1.8,246.2,,,16,,3.7,,Chiefs,2019
+No.,Player,BirthDate,Age,Height,Weight,College/University,Position,Games_Played_in_Season,Games_Started_in_Season,NFL_Years,Player_Value,Team,Year
+73.0,Nick Allegretti,4/21/1996,23.0,6-4,310.0,Illinois,G,7,0.0,0.0,1.0,Chiefs,2019
+79.0,Jeff Allen,1/8/1990,29.0,6-4,306.0,Illinois,G,4,0.0,7.0,0.0,Chiefs,2019
+81.0,Blake Bell,8/7/1991,28.0,6-6,252.0,Oklahoma,TE,15,7.0,4.0,1.0,Chiefs,2019
+21.0,Bashaud Breeland,1/30/1992,27.0,5-11,195.0,Clemson,LCB,16,15.0,5.0,6.0,Chiefs,2019
+30.0,Alex Brown,8/30/1996,23.0,5-11,170.0,South Carolina St.,DB,3,0.0,0.0,0.0,Chiefs,2019
+7.0,Harrison Butker,7/14/1995,24.0,6-4,199.0,Georgia Tech,K,16,0.0,2.0,5.0,Chiefs,2019
+20.0,Morris Claiborne,2/7/1990,29.0,5-11,192.0,LSU,DB,8,1.0,7.0,1.0,Chiefs,2019
+55.0,Frank Clark,6/14/1993,26.0,6-3,272.0,Michigan,RDE,14,11.0,4.0,9.0,Chiefs,2019
+2.0,Dustin Colquitt,5/6/1982,37.0,6-3,210.0,Tennessee,P,16,0.0,14.0,2.0,Chiefs,2019
+12.0,Gehrig Dieter,2/24/1993,26.0,6-3,207.0,Alabama,WR,2,0.0,1.0,0.0,Chiefs,2019
+76.0,Laurent Duvernay-Tardif,2/11/1991,28.0,6-5,321.0,McGill,RG,14,14.0,4.0,8.0,Chiefs,2019
+75.0,Cameron Erving,8/23/1992,27.0,6-5,315.0,Florida St.,LT,13,8.0,4.0,5.0,Chiefs,2019
+27.0,Rashad Fenton,2/17/1997,22.0,5-11,193.0,South Carolina,DB,12,0.0,0.0,1.0,Chiefs,2019
+72.0,Eric Fisher,1/5/1991,28.0,6-7,315.0,Central Michigan,LT,8,8.0,6.0,5.0,Chiefs,2019
+29.0,Kendall Fuller,2/13/1995,24.0,5-11,198.0,Virginia Tech,DB,11,4.0,3.0,2.0,Chiefs,2019
+17.0,Mecole Hardman,3/12/1998,21.0,5-10,187.0,Georgia,WR,16,5.0,0.0,7.0,Chiefs,2019
+52.0,Demone Harris,12/30/1995,24.0,6-4,272.0,Buffalo,DE,4,0.0,1.0,0.0,Chiefs,2019
+10.0,Tyreek Hill,3/1/1994,25.0,5-10,191.0,West Alabama,WR,12,12.0,3.0,9.0,Chiefs,2019
+53.0,Anthony Hitchens,6/10/1992,27.0,6-0,231.0,Iowa,LLB,15,15.0,5.0,7.0,Chiefs,2019
+60.0,Ryan Hunter,4/1/1995,24.0,6-3,316.0,Bowling Green,T,3,0.0,0.0,0.0,Chiefs,2019
+93.0,Joey Ivie,1/22/1995,24.0,6-3,301.0,Florida,NT,5,0.0,0.0,0.0,Chiefs,2019
+95.0,Chris Jones,7/3/1994,25.0,6-6,310.0,Mississippi St.,LDT/RDT,13,12.0,3.0,9.0,Chiefs,2019
+87.0,Travis Kelce,10/5/1989,30.0,6-5,250.0,Cincinnati,TE,16,16.0,6.0,13.0,Chiefs,2019
+92.0,Tanoh Kpassagnon,6/14/1994,25.0,6-7,289.0,Villanova,LDE,16,8.0,2.0,5.0,Chiefs,2019
+50.0,Darron Lee,10/18/1994,25.0,6-1,232.0,Ohio St.,LB,16,2.0,3.0,2.0,Chiefs,2019
+24.0,Jordan Lucas,8/2/1993,26.0,6-1,190.0,Penn St.,DB,14,0.0,3.0,1.0,Chiefs,2019
+15.0,Patrick Mahomes,9/17/1995,24.0,6-2,225.0,Texas Tech,QB,14,14.0,2.0,17.0,Chiefs,2019
+32.0,Tyrann Mathieu,5/13/1992,27.0,5-9,190.0,LSU,SS,16,16.0,6.0,9.0,Chiefs,2019
+69.0,Terrell McClain,7/20/1988,31.0,6-2,300.0,South Florida,DT,2,0.0,8.0,0.0,Chiefs,2019
+25.0,LeSean McCoy,7/12/1988,31.0,5-11,210.0,Pittsburgh,RB,13,9.0,10.0,5.0,Chiefs,2019
+8.0,Matt Moore,8/9/1984,35.0,6-3,219.0,"College of the Canyons (CA),Oregon St.",QB,6,2.0,12.0,2.0,Chiefs,2019
+56.0,Ben Niemann,7/27/1995,24.0,6-2,235.0,Iowa,LB,16,1.0,1.0,2.0,Chiefs,2019
+91.0,Derrick Nnadi,5/9/1996,23.0,6-1,317.0,Florida St.,RDT/LDT,16,16.0,1.0,7.0,Chiefs,2019
+44.0,Dorian O'Daniel,9/4/1994,25.0,6-1,217.0,Clemson,LB,14,0.0,1.0,1.0,Chiefs,2019
+90.0,Emmanuel Ogbah,11/6/1993,26.0,6-4,275.0,Oklahoma St.,DE,10,4.0,3.0,3.0,Chiefs,2019
+97.0,Alex Okafor,2/8/1991,28.0,6-4,261.0,Texas,LDE,10,9.0,6.0,4.0,Chiefs,2019
+64.0,Mike Pennel,5/9/1991,28.0,6-4,330.0,"Arizona St.,Colorado State-Pueblo",DT,8,0.0,5.0,1.0,Chiefs,2019
+13.0,Byron Pringle,11/17/1993,26.0,6-1,203.0,Kansas St.,WR,16,0.0,0.0,2.0,Chiefs,2019
+59.0,Reggie Ragland,9/24/1993,26.0,6-2,252.0,Alabama,RLB,14,7.0,2.0,4.0,Chiefs,2019
+74.0,Martinas Rankin,10/20/1994,25.0,6-5,311.0,"Mississippi Gulf Coast CC,Mississippi St.",LG,6,5.0,1.0,3.0,Chiefs,2019
+62.0,Austin Reiter,11/27/1991,28.0,6-3,301.0,South Florida,C,16,16.0,3.0,9.0,Chiefs,2019
+11.0,Demarcus Robinson,9/21/1994,25.0,6-1,203.0,Florida,WR,16,10.0,3.0,5.0,Chiefs,2019
+99.0,Khalen Saunders,8/9/1996,23.0,6-0,324.0,Western Illinois,DT,12,4.0,0.0,3.0,Chiefs,2019
+71.0,Mitchell Schwartz,6/8/1989,30.0,6-5,320.0,California,RT,16,16.0,7.0,15.0,Chiefs,2019
+42.0,Anthony Sherman,12/11/1988,31.0,5-10,242.0,Connecticut,RB,16,0.0,8.0,0.0,Chiefs,2019
+39.0,Tremon Smith,7/20/1996,23.0,6-0,190.0,Central Arkansas,DB,1,0.0,1.0,0.0,Chiefs,2019
+49.0,Daniel Sorensen,3/5/1990,29.0,6-2,208.0,BYU,DB,16,3.0,5.0,2.0,Chiefs,2019
+94.0,Terrell Suggs,10/11/1982,37.0,6-3,265.0,Arizona St.,LB,2,0.0,16.0,0.0,Chiefs,2019
+84.0,De'Anthony Thomas,1/5/1993,26.0,5-8,176.0,Oregon,RB,6,0.0,5.0,0.0,Chiefs,2019
+34.0,Darwin Thompson,2/12/1997,22.0,5-8,200.0,Utah St.,RB,12,0.0,0.0,1.0,Chiefs,2019
+22.0,Juan Thornhill,10/19/1995,24.0,6-0,205.0,Virginia,FS,16,16.0,0.0,6.0,Chiefs,2019
+35.0,Charvarius Ward,5/16/1996,23.0,6-1,196.0,"Hinds CC,Middle Tenn. St.",RCB,16,16.0,1.0,5.0,Chiefs,2019
+39.0,Spencer Ware,11/23/1991,28.0,5-10,224.0,LSU,RB,3,1.0,6.0,1.0,Chiefs,2019
+14.0,Sammy Watkins,6/14/1993,26.0,6-1,211.0,Clemson,WR,14,13.0,5.0,7.0,Chiefs,2019
+23.0,Armani Watts,3/19/1996,23.0,5-11,205.0,Texas A&M,DB,16,0.0,1.0,1.0,Chiefs,2019
+26.0,Damien Williams,4/3/1992,27.0,5-11,221.0,Oklahoma,RB,11,6.0,5.0,6.0,Chiefs,2019
+31.0,Darrel Williams,4/15/1995,24.0,5-11,219.0,LSU,RB,12,0.0,1.0,3.0,Chiefs,2019
+98.0,Xavier Williams,1/18/1992,27.0,6-2,309.0,Northern Iowa,DT,5,0.0,4.0,1.0,Chiefs,2019
+54.0,Damien Wilson,5/28/1993,26.0,6-0,243.0,Minnesota,MLB,16,16.0,4.0,7.0,Chiefs,2019
+41.0,James Winchester,8/6/1989,30.0,6-3,209.0,Oklahoma,LS,16,0.0,4.0,1.0,Chiefs,2019
+61.0,Stefen Wisniewski,3/22/1989,30.0,6-3,305.0,Penn St.,G,11,2.0,8.0,2.0,Chiefs,2019
+77.0,Andrew Wylie,8/19/1994,25.0,6-6,309.0,Eastern Michigan,LG,11,11.0,1.0,6.0,Chiefs,2019
+82.0,Deon Yelder,3/6/1995,24.0,6-4,255.0,Western Kentucky,TE,9,1.0,1.0,1.0,Chiefs,2019
+,Team Total,,26.5,6-1.8,246.2,,,16,,3.7,,Chiefs,2019

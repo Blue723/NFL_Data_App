@@ -1,0 +1,31 @@
+,Rank,Team,Date,Opponent,Win/Loss,Home_Score,Opponenet_Score,Quarter,Distance,Type,Detail
+1,1,Bills,2019-09-08,NYJ,Win,17,16,1,17,interception,C.J. Mosley
+2,2,Bills,2019-09-08,NYJ,Win,17,16,3,9,pass,Le'Veon Bell
+3,3,Bills,2019-09-15,NYG,Win,28,14,1,27,rush,Saquon Barkley
+4,4,Bills,2019-09-15,NYG,Win,28,14,4,4,pass,T.J. Jones
+5,5,Bills,2019-09-22,CIN,Win,21,17,3,1,rush,Andy Dalton
+6,6,Bills,2019-09-22,CIN,Win,21,17,4,1,pass,Joe Mixon
+7,7,Bills,2019-09-29,NWE,Loss,10,16,1,4,rush,Brandon Bolden
+8,8,Bills,2019-09-29,NWE,Loss,10,16,1,11,blocked punt,Matthew Slater
+9,9,Bills,2019-10-06,TEN,Win,14,7,3,1,rush,Derrick Henry
+10,10,Bills,2019-10-20,MIA,Win,31,21,2,3,rush,Kalen Ballage
+11,11,Bills,2019-10-20,MIA,Win,31,21,2,12,pass,DeVante Parker
+12,12,Bills,2019-10-20,MIA,Win,31,21,4,11,rush,Ryan Fitzpatrick
+13,13,Bills,2019-10-27,PHI,Loss,13,31,2,5,pass,Dallas Goedert
+14,14,Bills,2019-10-27,PHI,Loss,13,31,3,65,rush,Miles Sanders
+15,15,Bills,2019-10-27,PHI,Loss,13,31,3,4,rush,Boston Scott
+16,16,Bills,2019-10-27,PHI,Loss,13,31,4,3,rush,Jordan Howard
+17,17,Bills,2019-11-10,CLE,Loss,16,19,1,17,pass,Jarvis Landry
+18,18,Bills,2019-11-10,CLE,Loss,16,19,4,7,pass,Rashard Higgins
+19,19,Bills,2019-11-17,MIA,Win,37,20,2,3,rush,Kalen Ballage
+20,20,Bills,2019-11-17,MIA,Win,37,20,2,101,kickoff,Jakeem Grant
+21,21,Bills,2019-11-17,MIA,Win,37,20,4,7,rush,Jakeem Grant
+22,22,Bills,2019-11-28,DAL,Win,26,15,1,8,pass,Jason Witten
+23,23,Bills,2019-11-28,DAL,Win,26,15,4,15,pass,Ventell Bryant
+24,24,Bills,2019-12-08,BAL,Loss,17,24,2,3,pass,Nick Boyle
+25,25,Bills,2019-12-08,BAL,Loss,17,24,3,61,pass,Hayden Hurst
+26,26,Bills,2019-12-08,BAL,Loss,17,24,4,4,pass,Willie Snead
+27,27,Bills,2019-12-15,PIT,Win,17,10,3,11,pass,James Conner
+28,28,Bills,2019-12-21,NWE,Loss,17,24,1,8,pass,Matt LaCosse
+29,29,Bills,2019-12-21,NWE,Loss,17,24,4,1,rush,Rex Burkhead
+30,30,Bills,2019-12-29,NYJ,Loss,6,13,4,1,pass,Jamison Crowder

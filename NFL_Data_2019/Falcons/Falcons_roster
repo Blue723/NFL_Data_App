@@ -1,70 +1,70 @@
-,No.,Player,BirthDate,Age,Height,Weight,College/University,Position,Games_Played_in_Season,Games_Started_in_Season,NFL_Years,Player_Value,Team,Year
-0,37.0,Ricardo Allen,12/18/1991,28.0,5-9,186.0,Purdue,SS,16,16.0,4.0,5.0,Falcons,2019
-1,9.0,Ryan Allen,2/28/1990,29.0,6-2,220.0,Louisiana Tech,P,8,0.0,6.0,1.0,Falcons,2019
-2,93.0,Allen Bailey,3/25/1989,30.0,6-3,288.0,Miami (FL),RDE,15,5.0,8.0,3.0,Falcons,2019
-3,38.0,Kenjon Barner,4/28/1989,30.0,5-9,195.0,Oregon,RB,14,0.0,6.0,1.0,Falcons,2019
-4,44.0,Vic Beasley,7/8/1992,27.0,6-3,246.0,Clemson,RDE,16,15.0,4.0,7.0,Falcons,2019
-5,13.0,Christian Blake,6/8/1996,23.0,6-1,181.0,Northern Illinois,WR,9,3.0,0.0,1.0,Falcons,2019
-6,5.0,Matthew Bosher,10/18/1987,32.0,6-0,208.0,Miami (FL),P,3,0.0,8.0,0.0,Falcons,2019
-7,68.0,Jamon Brown,3/15/1993,26.0,6-4,340.0,Louisville,RG,10,9.0,4.0,5.0,Falcons,2019
-8,3.0,Matt Bryant,5/29/1975,44.0,5-9,203.0,Baylor,K,7,0.0,17.0,0.0,Falcons,2019
-9,59.0,De'Vondre Campbell,7/1/1993,26.0,6-3,232.0,Minnesota,LLB,16,15.0,3.0,8.0,Falcons,2019
-10,77.0,James Carpenter,3/22/1989,30.0,6-5,321.0,Alabama,LG,11,11.0,8.0,6.0,Falcons,2019
-11,35.0,Jamal Carter,4/12/1994,25.0,6-1,215.0,Miami (FL),DB,11,0.0,2.0,1.0,Falcons,2019
-12,99.0,Adrian Clayborn,7/6/1988,31.0,6-3,280.0,Iowa,DE,15,1.0,8.0,2.0,Falcons,2019
-13,50.0,John Cominsky,11/22/1995,24.0,6-5,285.0,Charleston (WV),DE,10,0.0,0.0,1.0,Falcons,2019
-14,95.0,Jack Crawford,9/7/1988,31.0,6-5,288.0,Penn St.,DE,16,4.0,7.0,2.0,Falcons,2019
-15,32.0,Johnathan Cyprien,7/29/1990,29.0,6-1,211.0,Florida International,DB,1,1.0,6.0,0.0,Falcons,2019
-16,96.0,Tyeler Davison,9/23/1992,27.0,6-2,309.0,Fresno St.,RDT,16,12.0,4.0,6.0,Falcons,2019
-17,24.0,Devonta Freeman,3/15/1992,27.0,5-8,206.0,Florida St.,RB,14,14.0,5.0,8.0,Falcons,2019
-18,83.0,Russell Gage,1/22/1996,23.0,6-0,185.0,LSU,WR,16,4.0,1.0,4.0,Falcons,2019
-19,73.0,Matt Gono,5/10/1996,23.0,6-4,305.0,Wesley,T,5,0.0,0.0,0.0,Falcons,2019
-20,53.0,Jermaine Grace,11/8/1993,26.0,6-0,223.0,Miami (FL),LB,12,0.0,2.0,1.0,Falcons,2019
-21,87.0,Jaeden Graham,10/10/1995,24.0,6-4,250.0,Yale,TE,16,0.0,0.0,1.0,Falcons,2019
-22,14.0,Justin Hardy,12/18/1991,28.0,5-10,192.0,East Carolina,WR,16,1.0,4.0,2.0,Falcons,2019
-23,64.0,Sean Harlow,3/28/1995,24.0,6-4,284.0,Oregon St.,G,1,0.0,0.0,0.0,Falcons,2019
-24,47.0,Josh Harris,4/27/1989,30.0,6-1,224.0,Auburn,DB,16,0.0,7.0,1.0,Falcons,2019
-25,23.0,Brian Hill,11/9/1995,24.0,6-1,219.0,Wyoming,RB,12,2.0,2.0,3.0,Falcons,2019
-26,81.0,Austin Hooper,10/29/1994,25.0,6-4,254.0,Stanford,TE,13,10.0,3.0,6.0,Falcons,2019
-27,36.0,Kemal Ishmael,5/6/1991,28.0,6-0,206.0,Central Florida,DB,14,3.0,6.0,1.0,Falcons,2019
-28,97.0,Grady Jarrett,4/28/1993,26.0,6-0,305.0,Clemson,LDT,16,16.0,4.0,13.0,Falcons,2019
-29,45.0,Deion Jones,11/4/1994,25.0,6-1,222.0,LSU,MLB/RLB,16,16.0,3.0,8.0,Falcons,2019
-30,11.0,Julio Jones,2/3/1989,30.0,6-3,220.0,Alabama,WR,15,15.0,8.0,11.0,Falcons,2019
-31,27.0,Damontae Kazee,6/5/1993,26.0,5-11,174.0,San Diego St.,FS,16,14.0,2.0,5.0,Falcons,2019
-32,7.0,Younghoe Koo,8/3/1994,25.0,5-9,185.0,Georgia Southern,K,8,0.0,2.0,3.0,Falcons,2019
-33,62.0,Austin Larkin,4/6/1995,24.0,6-3,265.0,Purdue,DE,2,0.0,0.0,0.0,Falcons,2019
-34,63.0,Chris Lindstrom,2/28/1997,22.0,6-3,307.0,Boston Col.,RG,5,5.0,0.0,3.0,Falcons,2019
-35,51.0,Alex Mack,11/19/1985,34.0,6-4,311.0,California,C,16,16.0,10.0,8.0,Falcons,2019
-36,70.0,Jake Matthews,2/11/1992,27.0,6-5,309.0,Texas A&M,LT,16,16.0,5.0,8.0,Falcons,2019
-37,76.0,Kaleb McGary,2/22/1995,24.0,6-6,306.0,Washington,RT,16,16.0,0.0,8.0,Falcons,2019
-38,98.0,Takkarist McKinley,11/2/1995,24.0,6-2,260.0,UCLA,LDE,14,13.0,2.0,6.0,Falcons,2019
-39,85.0,Carson Meier,6/29/1995,24.0,6-5,254.0,Oklahoma,TE,1,1.0,0.0,0.0,Falcons,2019
-40,28.0,Jordan Miller,2/8/1997,22.0,6-2,190.0,Washington,DB,10,0.0,0.0,1.0,Falcons,2019
-41,22.0,Keanu Neal,7/26/1995,24.0,6-0,211.0,Florida,DB,3,3.0,3.0,1.0,Falcons,2019
-42,41.0,Sharrod Neasman,10/14/1991,28.0,5-11,213.0,Florida Atlantic,DB,15,0.0,3.0,1.0,Falcons,2019
-43,26.0,Isaiah Oliver,9/30/1996,23.0,6-0,202.0,Colorado,LCB,16,16.0,1.0,5.0,Falcons,2019
-44,30.0,Qadree Ollison,9/8/1996,23.0,6-1,232.0,Pittsburgh,RB,8,0.0,0.0,0.0,Falcons,2019
-45,54.0,Foyesade Oluokun,8/2/1995,24.0,6-2,230.0,Yale,LB,16,3.0,1.0,3.0,Falcons,2019
-46,9.0,Kasey Redfern,9/26/1991,28.0,6-1,205.0,Wofford,P,3,0.0,2.0,0.0,Falcons,2019
-47,18.0,Calvin Ridley,12/20/1994,25.0,6-1,190.0,Alabama,WR,13,10.0,1.0,7.0,Falcons,2019
-48,42.0,Duke Riley,8/9/1994,25.0,6-1,227.0,LSU,LB,4,0.0,2.0,0.0,Falcons,2019
-49,2.0,Matt Ryan,5/17/1985,34.0,6-4,217.0,Boston Col.,QB,15,15.0,11.0,13.0,Falcons,2019
-50,74.0,Ty Sambrailo,3/10/1992,27.0,6-5,311.0,Colorado St.,T,13,0.0,4.0,1.0,Falcons,2019
-51,12.0,Mohamed Sanu,8/22/1989,30.0,6-2,210.0,Rutgers,WR,7,6.0,7.0,3.0,Falcons,2019
-52,8.0,Matt Schaub,6/25/1981,38.0,6-6,245.0,Virginia,QB,6,1.0,15.0,2.0,Falcons,2019
-53,71.0,Wes Schweitzer,9/11/1993,26.0,6-4,300.0,San Jose St.,LG,15,7.0,2.0,4.0,Falcons,2019
-54,94.0,Deadrin Senat,7/22/1994,25.0,6-1,305.0,South Florida,DT,2,0.0,1.0,0.0,Falcons,2019
-55,20.0,Kendall Sheffield,5/30/1996,23.0,5-10,212.0,Ohio St.,DB,16,11.0,0.0,3.0,Falcons,2019
-56,25.0,Ito Smith,9/11/1995,24.0,5-9,195.0,Southern Miss,RB,7,0.0,1.0,1.0,Falcons,2019
-57,40.0,Keith Smith,4/8/1992,27.0,6-0,240.0,San Jose St.,FB,16,5.0,5.0,0.0,Falcons,2019
-58,80.0,Luke Stocker,7/17/1988,31.0,6-5,253.0,Tennessee,TE,15,9.0,8.0,0.0,Falcons,2019
-59,43.0,Jamar Taylor,9/29/1990,29.0,5-11,192.0,Boise St.,DB,3,0.0,6.0,0.0,Falcons,2019
-60,52.0,Ahmad Thomas,12/15/1994,25.0,6-0,227.0,Oklahoma,DB,1,0.0,1.0,0.0,Falcons,2019
-61,21.0,Desmond Trufant,9/10/1990,29.0,6-0,190.0,Washington,RCB,9,9.0,6.0,3.0,Falcons,2019
-62,91.0,Jacob Tuioti-Mariner,7/25/1996,23.0,6-2,285.0,UCLA,DT,8,1.0,0.0,1.0,Falcons,2019
-63,75.0,John Wetzel,7/18/1991,28.0,6-7,328.0,Boston Col.,T,2,0.0,3.0,0.0,Falcons,2019
-64,39.0,D.J. White,9/9/1993,26.0,5-11,193.0,Georgia Tech,DB,1,0.0,3.0,0.0,Falcons,2019
-65,4.0,Matt Wile,6/20/1992,27.0,6-2,225.0,Michigan,P,2,0.0,3.0,0.0,Falcons,2019
-66,33.0,Blidi Wreh-Wilson,12/5/1989,30.0,6-1,190.0,Connecticut,DB,14,2.0,6.0,1.0,Falcons,2019
-67,17.0,Olamide Zaccheaus,7/23/1997,22.0,5-8,193.0,Virginia,WR,10,0.0,0.0,1.0,Falcons,2019
-68,,Team Total,,26.9,6-1.5,239.5,,,16,,3.8,,Falcons,2019
+No.,Player,BirthDate,Age,Height,Weight,College/University,Position,Games_Played_in_Season,Games_Started_in_Season,NFL_Years,Player_Value,Team,Year
+37.0,Ricardo Allen,12/18/1991,28.0,5-9,186.0,Purdue,SS,16,16.0,4.0,5.0,Falcons,2019
+9.0,Ryan Allen,2/28/1990,29.0,6-2,220.0,Louisiana Tech,P,8,0.0,6.0,1.0,Falcons,2019
+93.0,Allen Bailey,3/25/1989,30.0,6-3,288.0,Miami (FL),RDE,15,5.0,8.0,3.0,Falcons,2019
+38.0,Kenjon Barner,4/28/1989,30.0,5-9,195.0,Oregon,RB,14,0.0,6.0,1.0,Falcons,2019
+44.0,Vic Beasley,7/8/1992,27.0,6-3,246.0,Clemson,RDE,16,15.0,4.0,7.0,Falcons,2019
+13.0,Christian Blake,6/8/1996,23.0,6-1,181.0,Northern Illinois,WR,9,3.0,0.0,1.0,Falcons,2019
+5.0,Matthew Bosher,10/18/1987,32.0,6-0,208.0,Miami (FL),P,3,0.0,8.0,0.0,Falcons,2019
+68.0,Jamon Brown,3/15/1993,26.0,6-4,340.0,Louisville,RG,10,9.0,4.0,5.0,Falcons,2019
+3.0,Matt Bryant,5/29/1975,44.0,5-9,203.0,Baylor,K,7,0.0,17.0,0.0,Falcons,2019
+59.0,De'Vondre Campbell,7/1/1993,26.0,6-3,232.0,Minnesota,LLB,16,15.0,3.0,8.0,Falcons,2019
+77.0,James Carpenter,3/22/1989,30.0,6-5,321.0,Alabama,LG,11,11.0,8.0,6.0,Falcons,2019
+35.0,Jamal Carter,4/12/1994,25.0,6-1,215.0,Miami (FL),DB,11,0.0,2.0,1.0,Falcons,2019
+99.0,Adrian Clayborn,7/6/1988,31.0,6-3,280.0,Iowa,DE,15,1.0,8.0,2.0,Falcons,2019
+50.0,John Cominsky,11/22/1995,24.0,6-5,285.0,Charleston (WV),DE,10,0.0,0.0,1.0,Falcons,2019
+95.0,Jack Crawford,9/7/1988,31.0,6-5,288.0,Penn St.,DE,16,4.0,7.0,2.0,Falcons,2019
+32.0,Johnathan Cyprien,7/29/1990,29.0,6-1,211.0,Florida International,DB,1,1.0,6.0,0.0,Falcons,2019
+96.0,Tyeler Davison,9/23/1992,27.0,6-2,309.0,Fresno St.,RDT,16,12.0,4.0,6.0,Falcons,2019
+24.0,Devonta Freeman,3/15/1992,27.0,5-8,206.0,Florida St.,RB,14,14.0,5.0,8.0,Falcons,2019
+83.0,Russell Gage,1/22/1996,23.0,6-0,185.0,LSU,WR,16,4.0,1.0,4.0,Falcons,2019
+73.0,Matt Gono,5/10/1996,23.0,6-4,305.0,Wesley,T,5,0.0,0.0,0.0,Falcons,2019
+53.0,Jermaine Grace,11/8/1993,26.0,6-0,223.0,Miami (FL),LB,12,0.0,2.0,1.0,Falcons,2019
+87.0,Jaeden Graham,10/10/1995,24.0,6-4,250.0,Yale,TE,16,0.0,0.0,1.0,Falcons,2019
+14.0,Justin Hardy,12/18/1991,28.0,5-10,192.0,East Carolina,WR,16,1.0,4.0,2.0,Falcons,2019
+64.0,Sean Harlow,3/28/1995,24.0,6-4,284.0,Oregon St.,G,1,0.0,0.0,0.0,Falcons,2019
+47.0,Josh Harris,4/27/1989,30.0,6-1,224.0,Auburn,DB,16,0.0,7.0,1.0,Falcons,2019
+23.0,Brian Hill,11/9/1995,24.0,6-1,219.0,Wyoming,RB,12,2.0,2.0,3.0,Falcons,2019
+81.0,Austin Hooper,10/29/1994,25.0,6-4,254.0,Stanford,TE,13,10.0,3.0,6.0,Falcons,2019
+36.0,Kemal Ishmael,5/6/1991,28.0,6-0,206.0,Central Florida,DB,14,3.0,6.0,1.0,Falcons,2019
+97.0,Grady Jarrett,4/28/1993,26.0,6-0,305.0,Clemson,LDT,16,16.0,4.0,13.0,Falcons,2019
+45.0,Deion Jones,11/4/1994,25.0,6-1,222.0,LSU,MLB/RLB,16,16.0,3.0,8.0,Falcons,2019
+11.0,Julio Jones,2/3/1989,30.0,6-3,220.0,Alabama,WR,15,15.0,8.0,11.0,Falcons,2019
+27.0,Damontae Kazee,6/5/1993,26.0,5-11,174.0,San Diego St.,FS,16,14.0,2.0,5.0,Falcons,2019
+7.0,Younghoe Koo,8/3/1994,25.0,5-9,185.0,Georgia Southern,K,8,0.0,2.0,3.0,Falcons,2019
+62.0,Austin Larkin,4/6/1995,24.0,6-3,265.0,Purdue,DE,2,0.0,0.0,0.0,Falcons,2019
+63.0,Chris Lindstrom,2/28/1997,22.0,6-3,307.0,Boston Col.,RG,5,5.0,0.0,3.0,Falcons,2019
+51.0,Alex Mack,11/19/1985,34.0,6-4,311.0,California,C,16,16.0,10.0,8.0,Falcons,2019
+70.0,Jake Matthews,2/11/1992,27.0,6-5,309.0,Texas A&M,LT,16,16.0,5.0,8.0,Falcons,2019
+76.0,Kaleb McGary,2/22/1995,24.0,6-6,306.0,Washington,RT,16,16.0,0.0,8.0,Falcons,2019
+98.0,Takkarist McKinley,11/2/1995,24.0,6-2,260.0,UCLA,LDE,14,13.0,2.0,6.0,Falcons,2019
+85.0,Carson Meier,6/29/1995,24.0,6-5,254.0,Oklahoma,TE,1,1.0,0.0,0.0,Falcons,2019
+28.0,Jordan Miller,2/8/1997,22.0,6-2,190.0,Washington,DB,10,0.0,0.0,1.0,Falcons,2019
+22.0,Keanu Neal,7/26/1995,24.0,6-0,211.0,Florida,DB,3,3.0,3.0,1.0,Falcons,2019
+41.0,Sharrod Neasman,10/14/1991,28.0,5-11,213.0,Florida Atlantic,DB,15,0.0,3.0,1.0,Falcons,2019
+26.0,Isaiah Oliver,9/30/1996,23.0,6-0,202.0,Colorado,LCB,16,16.0,1.0,5.0,Falcons,2019
+30.0,Qadree Ollison,9/8/1996,23.0,6-1,232.0,Pittsburgh,RB,8,0.0,0.0,0.0,Falcons,2019
+54.0,Foyesade Oluokun,8/2/1995,24.0,6-2,230.0,Yale,LB,16,3.0,1.0,3.0,Falcons,2019
+9.0,Kasey Redfern,9/26/1991,28.0,6-1,205.0,Wofford,P,3,0.0,2.0,0.0,Falcons,2019
+18.0,Calvin Ridley,12/20/1994,25.0,6-1,190.0,Alabama,WR,13,10.0,1.0,7.0,Falcons,2019
+42.0,Duke Riley,8/9/1994,25.0,6-1,227.0,LSU,LB,4,0.0,2.0,0.0,Falcons,2019
+2.0,Matt Ryan,5/17/1985,34.0,6-4,217.0,Boston Col.,QB,15,15.0,11.0,13.0,Falcons,2019
+74.0,Ty Sambrailo,3/10/1992,27.0,6-5,311.0,Colorado St.,T,13,0.0,4.0,1.0,Falcons,2019
+12.0,Mohamed Sanu,8/22/1989,30.0,6-2,210.0,Rutgers,WR,7,6.0,7.0,3.0,Falcons,2019
+8.0,Matt Schaub,6/25/1981,38.0,6-6,245.0,Virginia,QB,6,1.0,15.0,2.0,Falcons,2019
+71.0,Wes Schweitzer,9/11/1993,26.0,6-4,300.0,San Jose St.,LG,15,7.0,2.0,4.0,Falcons,2019
+94.0,Deadrin Senat,7/22/1994,25.0,6-1,305.0,South Florida,DT,2,0.0,1.0,0.0,Falcons,2019
+20.0,Kendall Sheffield,5/30/1996,23.0,5-10,212.0,Ohio St.,DB,16,11.0,0.0,3.0,Falcons,2019
+25.0,Ito Smith,9/11/1995,24.0,5-9,195.0,Southern Miss,RB,7,0.0,1.0,1.0,Falcons,2019
+40.0,Keith Smith,4/8/1992,27.0,6-0,240.0,San Jose St.,FB,16,5.0,5.0,0.0,Falcons,2019
+80.0,Luke Stocker,7/17/1988,31.0,6-5,253.0,Tennessee,TE,15,9.0,8.0,0.0,Falcons,2019
+43.0,Jamar Taylor,9/29/1990,29.0,5-11,192.0,Boise St.,DB,3,0.0,6.0,0.0,Falcons,2019
+52.0,Ahmad Thomas,12/15/1994,25.0,6-0,227.0,Oklahoma,DB,1,0.0,1.0,0.0,Falcons,2019
+21.0,Desmond Trufant,9/10/1990,29.0,6-0,190.0,Washington,RCB,9,9.0,6.0,3.0,Falcons,2019
+91.0,Jacob Tuioti-Mariner,7/25/1996,23.0,6-2,285.0,UCLA,DT,8,1.0,0.0,1.0,Falcons,2019
+75.0,John Wetzel,7/18/1991,28.0,6-7,328.0,Boston Col.,T,2,0.0,3.0,0.0,Falcons,2019
+39.0,D.J. White,9/9/1993,26.0,5-11,193.0,Georgia Tech,DB,1,0.0,3.0,0.0,Falcons,2019
+4.0,Matt Wile,6/20/1992,27.0,6-2,225.0,Michigan,P,2,0.0,3.0,0.0,Falcons,2019
+33.0,Blidi Wreh-Wilson,12/5/1989,30.0,6-1,190.0,Connecticut,DB,14,2.0,6.0,1.0,Falcons,2019
+17.0,Olamide Zaccheaus,7/23/1997,22.0,5-8,193.0,Virginia,WR,10,0.0,0.0,1.0,Falcons,2019
+,Team Total,,26.9,6-1.5,239.5,,,16,,3.8,,Falcons,2019

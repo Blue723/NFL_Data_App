@@ -1,75 +1,75 @@
-,No.,Player,BirthDate,Age,Height,Weight,College/University,Position,Games_Played_in_Season,Games_Started_in_Season,NFL_Years,Player_Value,Team,Year
-0,13.0,Nelson Agholor,5/24/1993,26.0,6-0,200.0,USC,WR,11,10.0,4.0,3.0,Eagles,2019
-1,28.0,Jay Ajayi,6/15/1993,26.0,6-0,223.0,Boise St.,RB,3,0.0,4.0,0.0,Eagles,2019
-2,19.0,JJ Arcega-Whiteside,12/31/1996,23.0,6-2,225.0,Stanford,WR,16,5.0,0.0,1.0,Eagles,2019
-3,58.0,Genard Avery,4/26/1995,24.0,6-0,250.0,Memphis,LB,8,0.0,1.0,1.0,Eagles,2019
-4,96.0,Derek Barnett,6/25/1996,23.0,6-3,259.0,Tennessee,LDE,14,14.0,2.0,7.0,Eagles,2019
-5,53.0,Nigel Bradham,9/4/1989,30.0,6-2,241.0,Florida St.,MLB,12,12.0,7.0,7.0,Eagles,2019
-6,79.0,Brandon Brooks,8/19/1989,30.0,6-5,335.0,Miami (OH),RG,16,16.0,7.0,10.0,Eagles,2019
-7,52.0,Zach Brown,10/23/1989,30.0,6-1,250.0,North Carolina,MLB,6,6.0,7.0,3.0,Eagles,2019
-8,16.0,Deontay Burnett,10/4/1997,22.0,6-0,186.0,USC,WR,1,1.0,1.0,0.0,Eagles,2019
-9,30.0,Corey Clement,11/2/1994,25.0,5-10,220.0,Wisconsin,RB,4,0.0,2.0,0.0,Eagles,2019
-10,91.0,Fletcher Cox,12/13/1990,29.0,6-4,310.0,Mississippi St.,RDT,16,16.0,7.0,11.0,Eagles,2019
-11,75.0,Vinny Curry,6/30/1988,31.0,6-3,279.0,Marshall,DE,16,2.0,7.0,3.0,Eagles,2019
-12,37.0,Johnathan Cyprien,7/29/1990,29.0,6-1,211.0,Florida International,DB,4,0.0,6.0,0.0,Eagles,2019
-13,21.0,Ronald Darby,1/2/1994,25.0,5-11,193.0,Florida St.,RCB,11,11.0,4.0,5.0,Eagles,2019
-14,14.0,Robert Davis,4/2/1995,24.0,6-3,210.0,Georgia St.,WR,3,2.0,2.0,0.0,Eagles,2019
-15,77.0,Andre Dillard,10/3/1995,24.0,6-5,315.0,Washington St.,T,16,4.0,0.0,3.0,Eagles,2019
-16,32.0,Rasul Douglas,8/29/1995,24.0,6-2,209.0,West Virginia,RCB,16,6.0,2.0,3.0,Eagles,2019
-17,57.0,T.J. Edwards,8/12/1996,23.0,6-1,242.0,Wisconsin,LB,16,4.0,0.0,3.0,Eagles,2019
-18,4.0,Jake Elliott,1/21/1995,24.0,5-9,167.0,Memphis,K,16,0.0,2.0,3.0,Eagles,2019
-19,85.0,Alex Ellis,2/10/1993,26.0,6-4,245.0,Tennessee,TE,3,0.0,3.0,0.0,Eagles,2019
-20,37.0,Marcus Epps,1/27/1996,23.0,6-0,191.0,Wyoming,DB,7,0.0,0.0,0.0,Eagles,2019
-21,86.0,Zach Ertz,11/10/1990,29.0,6-5,250.0,Stanford,TE,15,15.0,6.0,7.0,Eagles,2019
-22,36.0,Rudy Ford,11/1/1994,25.0,6-0,210.0,Auburn,DB,10,0.0,2.0,1.0,Eagles,2019
-23,58.0,L.J. Fort,1/3/1990,29.0,6-0,232.0,Northern Iowa,LB,4,0.0,7.0,0.0,Eagles,2019
-24,47.0,Nathan Gerry,2/23/1995,24.0,6-2,230.0,Nebraska,RLB,16,12.0,2.0,8.0,Eagles,2019
-25,83.0,Shelton Gibson,3/20/1994,25.0,5-11,191.0,West Virginia,WR,0,0.0,2.0,,Eagles,2019
-26,88.0,Dallas Goedert,1/3/1995,24.0,6-5,256.0,South Dakota St.,TE,15,9.0,1.0,5.0,Eagles,2019
-27,55.0,Brandon Graham,4/3/1988,31.0,6-2,265.0,Michigan,RDE,16,16.0,9.0,9.0,Eagles,2019
-28,54.0,Kamu Grugier-Hill,5/16/1994,25.0,6-2,220.0,Eastern Illinois,LLB,10,6.0,3.0,3.0,Eagles,2019
-29,74.0,Daeshon Hall,6/14/1995,24.0,6-5,265.0,Texas A&M,DE,9,0.0,2.0,1.0,Eagles,2019
-30,90.0,Bruce Hector,10/7/1994,25.0,6-2,296.0,South Florida,DT,3,1.0,1.0,1.0,Eagles,2019
-31,67.0,Nate Herbig,7/10/1998,21.0,6-4,334.0,Stanford,G,2,0.0,0.0,0.0,Eagles,2019
-32,16.0,Mack Hollins,9/16/1993,26.0,6-4,221.0,North Carolina,WR,12,3.0,2.0,1.0,Eagles,2019
-33,24.0,Jordan Howard,11/2/1994,25.0,6-0,224.0,Indiana,RB,10,4.0,3.0,3.0,Eagles,2019
-34,76.0,Albert Huggins,6/27/1997,22.0,6-3,305.0,Clemson,DT,4,0.0,0.0,0.0,Eagles,2019
-35,10.0,DeSean Jackson,12/1/1986,33.0,5-10,175.0,California,WR,3,3.0,11.0,1.0,Eagles,2019
-36,97.0,Malik Jackson,1/11/1990,29.0,6-5,285.0,Tennessee,DT,1,1.0,7.0,0.0,Eagles,2019
-37,39.0,Craig James,4/29/1996,23.0,5-10,195.0,Southern Illinois,DB,14,1.0,1.0,1.0,Eagles,2019
-38,17.0,Alshon Jeffery,2/14/1990,29.0,6-3,218.0,South Carolina,WR,10,10.0,7.0,4.0,Eagles,2019
-39,27.0,Malcolm Jenkins,12/20/1987,32.0,6-0,204.0,Ohio St.,FS,16,16.0,10.0,6.0,Eagles,2019
-40,93.0,Timmy Jernigan,9/24/1992,27.0,6-2,295.0,Florida St.,LDT,10,9.0,5.0,4.0,Eagles,2019
-41,65.0,Lane Johnson,5/8/1990,29.0,6-6,325.0,"Kilgore College,Oklahoma",RT,12,12.0,6.0,7.0,Eagles,2019
-42,1.0,Cameron Johnston,2/24/1992,27.0,5-11,194.0,Ohio St.,P,16,0.0,1.0,3.0,Eagles,2019
-43,22.0,Sidney Jones,5/21/1996,23.0,6-0,181.0,Washington,DB,12,4.0,2.0,3.0,Eagles,2019
-44,62.0,Jason Kelce,11/5/1987,32.0,6-3,295.0,Cincinnati,C,16,16.0,8.0,14.0,Eagles,2019
-45,34.0,Cre'von LeBlanc,7/25/1994,25.0,5-10,190.0,Florida Atlantic,DB,4,1.0,3.0,1.0,Eagles,2019
-46,37.0,Ryan Lewis,4/15/1994,25.0,6-0,185.0,Pittsburgh,DB,2,0.0,1.0,0.0,Eagles,2019
-47,45.0,Rick Lovato,9/9/1992,27.0,6-2,249.0,Old Dominion,LS,16,0.0,4.0,3.0,Eagles,2019
-48,29.0,Avonte Maddox,3/31/1996,23.0,5-9,184.0,Pittsburgh,LCB,12,6.0,1.0,3.0,Eagles,2019
-49,80.0,Jordan Matthews,7/16/1992,27.0,6-3,215.0,Vanderbilt,WR,2,1.0,5.0,0.0,Eagles,2019
-50,18.0,Josh McCown,7/4/1979,40.0,6-4,218.0,"SMU,Sam Houston St.",QB,3,0.0,17.0,0.0,Eagles,2019
-51,23.0,Rodney McLeod,6/23/1990,29.0,5-10,185.0,Virginia,SS,16,16.0,7.0,7.0,Eagles,2019
-52,51.0,Shareef Miller,3/14/1997,22.0,6-4,254.0,Penn St.,DE,1,0.0,0.0,0.0,Eagles,2019
-53,31.0,Jalen Mills,4/6/1994,25.0,6-0,200.0,LSU,LCB,9,9.0,3.0,4.0,Eagles,2019
-54,81.0,Joshua Perkins,8/5/1993,26.0,6-3,223.0,Washington,TE,5,0.0,3.0,1.0,Eagles,2019
-55,71.0,Jason Peters,1/22/1982,37.0,6-4,328.0,Arkansas,LT,13,13.0,15.0,6.0,Eagles,2019
-56,69.0,Matt Pryor,12/16/1994,25.0,6-7,332.0,TCU,T,12,0.0,0.0,1.0,Eagles,2019
-57,98.0,Hassan Ridgeway,11/2/1994,25.0,6-3,305.0,Texas,LDT,7,5.0,3.0,3.0,Eagles,2019
-58,50.0,Duke Riley,8/9/1994,25.0,6-1,227.0,LSU,LB,12,0.0,2.0,1.0,Eagles,2019
-59,82.0,Richard Rodgers,1/22/1992,27.0,6-4,257.0,California,TE,1,0.0,5.0,0.0,Eagles,2019
-60,66.0,Anthony Rush,9/1/1996,23.0,6-4,361.0,Ala-Birmingham,DT,9,0.0,0.0,1.0,Eagles,2019
-61,26.0,Miles Sanders,5/1/1997,22.0,5-11,210.0,Penn St.,RB,16,11.0,0.0,8.0,Eagles,2019
-62,38.0,Orlando Scandrick,2/10/1987,32.0,5-10,196.0,Boise St.,DB,3,1.0,11.0,1.0,Eagles,2019
-63,35.0,Boston Scott,4/27/1995,24.0,5-6,203.0,Louisiana Tech,RB,11,2.0,1.0,3.0,Eagles,2019
-64,42.0,Andrew Sendejo,9/9/1987,32.0,6-1,210.0,Rice,DB,9,1.0,9.0,1.0,Eagles,2019
-65,73.0,Isaac Seumalo,10/29/1993,26.0,6-4,303.0,Oregon St.,LG,16,16.0,3.0,7.0,Eagles,2019
-66,49.0,Alex Singleton,12/7/1993,26.0,6-2,240.0,Montana St.,LB,10,0.0,0.0,1.0,Eagles,2019
-67,66.0,Akeem Spence,11/29/1991,28.0,6-1,303.0,Illinois,DT,6,0.0,6.0,1.0,Eagles,2019
-68,43.0,Darren Sproles,6/20/1983,36.0,5-6,190.0,Kansas St.,RB,6,1.0,14.0,1.0,Eagles,2019
-69,94.0,Josh Sweat,3/29/1997,22.0,6-5,265.0,Florida St.,DE,16,0.0,1.0,2.0,Eagles,2019
-70,72.0,Halapoulivaati Vaitai,6/16/1993,26.0,6-6,322.0,TCU,T,16,3.0,3.0,3.0,Eagles,2019
-71,84.0,Greg Ward,7/12/1995,24.0,5-11,190.0,Houston,WR,7,3.0,0.0,2.0,Eagles,2019
-72,11.0,Carson Wentz,12/30/1992,27.0,6-5,237.0,North Dakota St.,QB,16,16.0,3.0,12.0,Eagles,2019
-73,,Team Total,,26.5,6-1.6,241.2,,,16,,3.9,,Eagles,2019
+No.,Player,BirthDate,Age,Height,Weight,College/University,Position,Games_Played_in_Season,Games_Started_in_Season,NFL_Years,Player_Value,Team,Year
+13.0,Nelson Agholor,5/24/1993,26.0,6-0,200.0,USC,WR,11,10.0,4.0,3.0,Eagles,2019
+28.0,Jay Ajayi,6/15/1993,26.0,6-0,223.0,Boise St.,RB,3,0.0,4.0,0.0,Eagles,2019
+19.0,JJ Arcega-Whiteside,12/31/1996,23.0,6-2,225.0,Stanford,WR,16,5.0,0.0,1.0,Eagles,2019
+58.0,Genard Avery,4/26/1995,24.0,6-0,250.0,Memphis,LB,8,0.0,1.0,1.0,Eagles,2019
+96.0,Derek Barnett,6/25/1996,23.0,6-3,259.0,Tennessee,LDE,14,14.0,2.0,7.0,Eagles,2019
+53.0,Nigel Bradham,9/4/1989,30.0,6-2,241.0,Florida St.,MLB,12,12.0,7.0,7.0,Eagles,2019
+79.0,Brandon Brooks,8/19/1989,30.0,6-5,335.0,Miami (OH),RG,16,16.0,7.0,10.0,Eagles,2019
+52.0,Zach Brown,10/23/1989,30.0,6-1,250.0,North Carolina,MLB,6,6.0,7.0,3.0,Eagles,2019
+16.0,Deontay Burnett,10/4/1997,22.0,6-0,186.0,USC,WR,1,1.0,1.0,0.0,Eagles,2019
+30.0,Corey Clement,11/2/1994,25.0,5-10,220.0,Wisconsin,RB,4,0.0,2.0,0.0,Eagles,2019
+91.0,Fletcher Cox,12/13/1990,29.0,6-4,310.0,Mississippi St.,RDT,16,16.0,7.0,11.0,Eagles,2019
+75.0,Vinny Curry,6/30/1988,31.0,6-3,279.0,Marshall,DE,16,2.0,7.0,3.0,Eagles,2019
+37.0,Johnathan Cyprien,7/29/1990,29.0,6-1,211.0,Florida International,DB,4,0.0,6.0,0.0,Eagles,2019
+21.0,Ronald Darby,1/2/1994,25.0,5-11,193.0,Florida St.,RCB,11,11.0,4.0,5.0,Eagles,2019
+14.0,Robert Davis,4/2/1995,24.0,6-3,210.0,Georgia St.,WR,3,2.0,2.0,0.0,Eagles,2019
+77.0,Andre Dillard,10/3/1995,24.0,6-5,315.0,Washington St.,T,16,4.0,0.0,3.0,Eagles,2019
+32.0,Rasul Douglas,8/29/1995,24.0,6-2,209.0,West Virginia,RCB,16,6.0,2.0,3.0,Eagles,2019
+57.0,T.J. Edwards,8/12/1996,23.0,6-1,242.0,Wisconsin,LB,16,4.0,0.0,3.0,Eagles,2019
+4.0,Jake Elliott,1/21/1995,24.0,5-9,167.0,Memphis,K,16,0.0,2.0,3.0,Eagles,2019
+85.0,Alex Ellis,2/10/1993,26.0,6-4,245.0,Tennessee,TE,3,0.0,3.0,0.0,Eagles,2019
+37.0,Marcus Epps,1/27/1996,23.0,6-0,191.0,Wyoming,DB,7,0.0,0.0,0.0,Eagles,2019
+86.0,Zach Ertz,11/10/1990,29.0,6-5,250.0,Stanford,TE,15,15.0,6.0,7.0,Eagles,2019
+36.0,Rudy Ford,11/1/1994,25.0,6-0,210.0,Auburn,DB,10,0.0,2.0,1.0,Eagles,2019
+58.0,L.J. Fort,1/3/1990,29.0,6-0,232.0,Northern Iowa,LB,4,0.0,7.0,0.0,Eagles,2019
+47.0,Nathan Gerry,2/23/1995,24.0,6-2,230.0,Nebraska,RLB,16,12.0,2.0,8.0,Eagles,2019
+83.0,Shelton Gibson,3/20/1994,25.0,5-11,191.0,West Virginia,WR,0,0.0,2.0,,Eagles,2019
+88.0,Dallas Goedert,1/3/1995,24.0,6-5,256.0,South Dakota St.,TE,15,9.0,1.0,5.0,Eagles,2019
+55.0,Brandon Graham,4/3/1988,31.0,6-2,265.0,Michigan,RDE,16,16.0,9.0,9.0,Eagles,2019
+54.0,Kamu Grugier-Hill,5/16/1994,25.0,6-2,220.0,Eastern Illinois,LLB,10,6.0,3.0,3.0,Eagles,2019
+74.0,Daeshon Hall,6/14/1995,24.0,6-5,265.0,Texas A&M,DE,9,0.0,2.0,1.0,Eagles,2019
+90.0,Bruce Hector,10/7/1994,25.0,6-2,296.0,South Florida,DT,3,1.0,1.0,1.0,Eagles,2019
+67.0,Nate Herbig,7/10/1998,21.0,6-4,334.0,Stanford,G,2,0.0,0.0,0.0,Eagles,2019
+16.0,Mack Hollins,9/16/1993,26.0,6-4,221.0,North Carolina,WR,12,3.0,2.0,1.0,Eagles,2019
+24.0,Jordan Howard,11/2/1994,25.0,6-0,224.0,Indiana,RB,10,4.0,3.0,3.0,Eagles,2019
+76.0,Albert Huggins,6/27/1997,22.0,6-3,305.0,Clemson,DT,4,0.0,0.0,0.0,Eagles,2019
+10.0,DeSean Jackson,12/1/1986,33.0,5-10,175.0,California,WR,3,3.0,11.0,1.0,Eagles,2019
+97.0,Malik Jackson,1/11/1990,29.0,6-5,285.0,Tennessee,DT,1,1.0,7.0,0.0,Eagles,2019
+39.0,Craig James,4/29/1996,23.0,5-10,195.0,Southern Illinois,DB,14,1.0,1.0,1.0,Eagles,2019
+17.0,Alshon Jeffery,2/14/1990,29.0,6-3,218.0,South Carolina,WR,10,10.0,7.0,4.0,Eagles,2019
+27.0,Malcolm Jenkins,12/20/1987,32.0,6-0,204.0,Ohio St.,FS,16,16.0,10.0,6.0,Eagles,2019
+93.0,Timmy Jernigan,9/24/1992,27.0,6-2,295.0,Florida St.,LDT,10,9.0,5.0,4.0,Eagles,2019
+65.0,Lane Johnson,5/8/1990,29.0,6-6,325.0,"Kilgore College,Oklahoma",RT,12,12.0,6.0,7.0,Eagles,2019
+1.0,Cameron Johnston,2/24/1992,27.0,5-11,194.0,Ohio St.,P,16,0.0,1.0,3.0,Eagles,2019
+22.0,Sidney Jones,5/21/1996,23.0,6-0,181.0,Washington,DB,12,4.0,2.0,3.0,Eagles,2019
+62.0,Jason Kelce,11/5/1987,32.0,6-3,295.0,Cincinnati,C,16,16.0,8.0,14.0,Eagles,2019
+34.0,Cre'von LeBlanc,7/25/1994,25.0,5-10,190.0,Florida Atlantic,DB,4,1.0,3.0,1.0,Eagles,2019
+37.0,Ryan Lewis,4/15/1994,25.0,6-0,185.0,Pittsburgh,DB,2,0.0,1.0,0.0,Eagles,2019
+45.0,Rick Lovato,9/9/1992,27.0,6-2,249.0,Old Dominion,LS,16,0.0,4.0,3.0,Eagles,2019
+29.0,Avonte Maddox,3/31/1996,23.0,5-9,184.0,Pittsburgh,LCB,12,6.0,1.0,3.0,Eagles,2019
+80.0,Jordan Matthews,7/16/1992,27.0,6-3,215.0,Vanderbilt,WR,2,1.0,5.0,0.0,Eagles,2019
+18.0,Josh McCown,7/4/1979,40.0,6-4,218.0,"SMU,Sam Houston St.",QB,3,0.0,17.0,0.0,Eagles,2019
+23.0,Rodney McLeod,6/23/1990,29.0,5-10,185.0,Virginia,SS,16,16.0,7.0,7.0,Eagles,2019
+51.0,Shareef Miller,3/14/1997,22.0,6-4,254.0,Penn St.,DE,1,0.0,0.0,0.0,Eagles,2019
+31.0,Jalen Mills,4/6/1994,25.0,6-0,200.0,LSU,LCB,9,9.0,3.0,4.0,Eagles,2019
+81.0,Joshua Perkins,8/5/1993,26.0,6-3,223.0,Washington,TE,5,0.0,3.0,1.0,Eagles,2019
+71.0,Jason Peters,1/22/1982,37.0,6-4,328.0,Arkansas,LT,13,13.0,15.0,6.0,Eagles,2019
+69.0,Matt Pryor,12/16/1994,25.0,6-7,332.0,TCU,T,12,0.0,0.0,1.0,Eagles,2019
+98.0,Hassan Ridgeway,11/2/1994,25.0,6-3,305.0,Texas,LDT,7,5.0,3.0,3.0,Eagles,2019
+50.0,Duke Riley,8/9/1994,25.0,6-1,227.0,LSU,LB,12,0.0,2.0,1.0,Eagles,2019
+82.0,Richard Rodgers,1/22/1992,27.0,6-4,257.0,California,TE,1,0.0,5.0,0.0,Eagles,2019
+66.0,Anthony Rush,9/1/1996,23.0,6-4,361.0,Ala-Birmingham,DT,9,0.0,0.0,1.0,Eagles,2019
+26.0,Miles Sanders,5/1/1997,22.0,5-11,210.0,Penn St.,RB,16,11.0,0.0,8.0,Eagles,2019
+38.0,Orlando Scandrick,2/10/1987,32.0,5-10,196.0,Boise St.,DB,3,1.0,11.0,1.0,Eagles,2019
+35.0,Boston Scott,4/27/1995,24.0,5-6,203.0,Louisiana Tech,RB,11,2.0,1.0,3.0,Eagles,2019
+42.0,Andrew Sendejo,9/9/1987,32.0,6-1,210.0,Rice,DB,9,1.0,9.0,1.0,Eagles,2019
+73.0,Isaac Seumalo,10/29/1993,26.0,6-4,303.0,Oregon St.,LG,16,16.0,3.0,7.0,Eagles,2019
+49.0,Alex Singleton,12/7/1993,26.0,6-2,240.0,Montana St.,LB,10,0.0,0.0,1.0,Eagles,2019
+66.0,Akeem Spence,11/29/1991,28.0,6-1,303.0,Illinois,DT,6,0.0,6.0,1.0,Eagles,2019
+43.0,Darren Sproles,6/20/1983,36.0,5-6,190.0,Kansas St.,RB,6,1.0,14.0,1.0,Eagles,2019
+94.0,Josh Sweat,3/29/1997,22.0,6-5,265.0,Florida St.,DE,16,0.0,1.0,2.0,Eagles,2019
+72.0,Halapoulivaati Vaitai,6/16/1993,26.0,6-6,322.0,TCU,T,16,3.0,3.0,3.0,Eagles,2019
+84.0,Greg Ward,7/12/1995,24.0,5-11,190.0,Houston,WR,7,3.0,0.0,2.0,Eagles,2019
+11.0,Carson Wentz,12/30/1992,27.0,6-5,237.0,North Dakota St.,QB,16,16.0,3.0,12.0,Eagles,2019
+,Team Total,,26.5,6-1.6,241.2,,,16,,3.9,,Eagles,2019
