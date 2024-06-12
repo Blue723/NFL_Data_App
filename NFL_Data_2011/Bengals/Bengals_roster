@@ -1,59 +1,59 @@
-,No.,Player,BirthDate,Age,Height,Weight,College/University,Position,Games_Played_in_Season,Games_Started_in_Season,NFL_Years,Player_Value,Team,Year
-0,97.0,Geno Atkins,3/28/1988,23.0,6-1,300.0,Georgia,RDT,16,15.0,1.0,14.0,Bengals,2011
-1,32.0,Cedric Benson,12/28/1982,29.0,5-11,227.0,Texas,RB,15,15.0,6.0,7.0,Bengals,2011
-2,65.0,Clint Boling,5/9/1989,22.0,6-5,305.0,Georgia,G,5,3.0,0.0,1.0,Bengals,2011
-3,87.0,Andre Caldwell,4/15/1985,26.0,6-1,207.0,Florida,WR,13,2.0,3.0,3.0,Bengals,2011
-4,22.0,Nate Clements,12/12/1979,32.0,6-0,205.0,Ohio St.,LCB,15,15.0,10.0,7.0,Bengals,2011
-5,81.0,Colin Cochart,7/7/1987,24.0,6-4,260.0,South Dakota St.,TE,10,3.0,0.0,0.0,Bengals,2011
-6,73.0,Anthony Collins,11/2/1985,26.0,6-6,308.0,Kansas,T,7,2.0,3.0,1.0,Bengals,2011
-7,64.0,Kyle Cook,7/25/1983,28.0,6-3,295.0,Michigan St.,C,16,16.0,3.0,7.0,Bengals,2011
-8,42.0,Chris Crocker,3/9/1980,31.0,5-11,197.0,Marshall,SS,16,16.0,8.0,7.0,Bengals,2011
-9,14.0,Andy Dalton,10/29/1987,24.0,6-2,220.0,TCU,QB,16,16.0,0.0,11.0,Bengals,2011
-10,96.0,Carlos Dunlap,2/28/1989,22.0,6-6,285.0,Florida,DE,12,1.0,1.0,2.0,Bengals,2011
-11,68.0,Jonathan Fanene,3/19/1982,29.0,6-4,292.0,Utah,DE,16,2.0,6.0,3.0,Bengals,2011
-12,91.0,Robert Geathers,8/11/1983,28.0,6-3,286.0,Georgia,LDE,14,13.0,7.0,6.0,Bengals,2011
-13,21.0,Brandon Ghee,6/6/1987,24.0,6-0,189.0,Wake Forest,DB,7,0.0,1.0,0.0,Bengals,2011
-14,7.0,Bruce Gradkowski,1/27/1983,28.0,6-1,217.0,Toledo,QB,2,0.0,5.0,0.0,Bengals,2011
-15,18.0,A.J. Green,7/31/1988,23.0,6-4,207.0,Georgia,WR,15,15.0,0.0,10.0,Bengals,2011
-16,84.0,Jermaine Gresham,6/16/1988,23.0,6-5,260.0,Oklahoma,TE,14,13.0,1.0,5.0,Bengals,2011
-17,29.0,Leon Hall,12/9/1984,27.0,5-11,195.0,Michigan,RCB,9,9.0,4.0,5.0,Bengals,2011
-18,46.0,Clark Harris,7/10/1984,27.0,6-5,250.0,Rutgers,TE,16,0.0,3.0,1.0,Bengals,2011
-19,16.0,Andrew Hawkins,3/10/1986,25.0,5-7,175.0,Toledo,WR,13,0.0,0.0,3.0,Bengals,2011
-20,98.0,Nick Hayden,2/4/1986,25.0,6-4,295.0,Wisconsin,DT,2,0.0,3.0,0.0,Bengals,2011
-21,53.0,Thomas Howard,7/14/1983,28.0,6-3,245.0,Texas-El Paso,RLB,16,15.0,5.0,8.0,Bengals,2011
-22,10.0,Kevin Huber,7/16/1985,26.0,6-1,210.0,Cincinnati,P,16,0.0,2.0,2.0,Bengals,2011
-23,23.0,Kelly Jennings,11/30/1982,29.0,5-11,180.0,Miami (FL),DB,13,1.0,5.0,1.0,Bengals,2011
-24,59.0,Brandon Johnson,4/5/1983,28.0,6-5,245.0,Louisville,LB,16,1.0,5.0,2.0,Bengals,2011
-25,93.0,Michael Johnson,2/7/1987,24.0,6-7,280.0,Georgia Tech,RDE,16,5.0,2.0,4.0,Bengals,2011
-26,24.0,Adam Jones,9/30/1983,28.0,5-10,185.0,West Virginia,RCB,8,7.0,6.0,3.0,Bengals,2011
-27,99.0,Manny Lawson,7/13/1984,27.0,6-5,240.0,North Carolina St.,LLB,16,15.0,5.0,7.0,Bengals,2011
-28,86.0,Donald Lee,8/31/1980,31.0,6-4,248.0,Mississippi St.,TE,9,4.0,8.0,1.0,Bengals,2011
-29,40.0,Brian Leonard,2/3/1984,27.0,6-2,226.0,Rutgers,RB,13,0.0,4.0,2.0,Bengals,2011
-30,62.0,Nate Livings,3/16/1982,29.0,6-4,320.0,LSU,LG,16,16.0,3.0,7.0,Bengals,2011
-31,58.0,Rey Maualuga,1/20/1987,24.0,6-1,254.0,USC,MLB,13,13.0,2.0,7.0,Bengals,2011
-32,26.0,Taylor Mays,2/7/1988,23.0,6-3,231.0,USC,DB,10,0.0,1.0,1.0,Bengals,2011
-33,66.0,Mike McGlynn,3/8/1985,26.0,6-5,309.0,Pittsburgh,G,7,4.0,3.0,2.0,Bengals,2011
-34,45.0,Jeromy Miles,7/20/1987,24.0,6-2,215.0,"Navy,Massachusetts",DB,16,0.0,1.0,1.0,Bengals,2011
-35,44.0,Rico Murray,8/21/1987,24.0,5-11,191.0,Kent St.,DB,1,0.0,2.0,0.0,Bengals,2011
-36,20.0,Reggie Nelson,9/21/1983,28.0,5-11,210.0,Florida,FS,16,16.0,4.0,8.0,Bengals,2011
-37,2.0,Mike Nugent,3/2/1982,29.0,5-10,190.0,Ohio St.,K,16,0.0,6.0,3.0,Bengals,2011
-38,30.0,Cedric Peerman,10/10/1986,25.0,5-10,212.0,Virginia,RB,15,0.0,2.0,0.0,Bengals,2011
-39,94.0,Domata Peko,11/27/1984,27.0,6-3,325.0,"College of the Canyons (CA),Michigan St.",LDT,16,16.0,5.0,8.0,Bengals,2011
-40,36.0,Chris Pressley,8/8/1986,25.0,5-11,257.0,Wisconsin,FB,15,10.0,2.0,0.0,Bengals,2011
-41,57.0,Vincent Rey,9/6/1987,24.0,6-0,240.0,Duke,LB,16,0.0,1.0,1.0,Bengals,2011
-42,74.0,Dennis Roland,3/10/1983,28.0,6-9,322.0,Georgia,T,16,3.0,3.0,2.0,Bengals,2011
-43,92.0,Frostee Rucker,9/14/1983,28.0,6-3,261.0,USC,RDE,16,11.0,4.0,6.0,Bengals,2011
-44,31.0,Robert Sands,11/3/1989,22.0,6-4,220.0,West Virginia,DB,1,0.0,0.0,0.0,Bengals,2011
-45,28.0,Bernard Scott,2/10/1984,27.0,5-10,200.0,Abilene Christian,RB,16,1.0,2.0,3.0,Bengals,2011
-46,11.0,Jordan Shipley,12/23/1985,26.0,5-11,190.0,Texas,WR,2,0.0,1.0,0.0,Bengals,2011
-47,89.0,Jerome Simpson,2/4/1986,25.0,6-1,193.0,Coastal Carolina,WR,16,14.0,3.0,7.0,Bengals,2011
-48,90.0,Pat Sims,11/29/1985,26.0,6-4,312.0,Auburn,DT,11,1.0,3.0,2.0,Bengals,2011
-49,51.0,Dan Skuta,4/21/1986,25.0,6-2,251.0,Grand Valley St.,LB,16,3.0,2.0,2.0,Bengals,2011
-50,71.0,Andre Smith,1/25/1987,24.0,6-7,335.0,Alabama,RT,14,14.0,2.0,6.0,Bengals,2011
-51,19.0,Brandon Tate,10/5/1987,24.0,6-1,195.0,North Carolina,WR,16,0.0,2.0,1.0,Bengals,2011
-52,25.0,Morgan Trent,12/14/1985,26.0,6-1,193.0,Michigan,DB,6,0.0,2.0,0.0,Bengals,2011
-53,88.0,Ryan Whalen,7/26/1989,22.0,6-1,204.0,Stanford,WR,4,0.0,0.0,0.0,Bengals,2011
-54,77.0,Andrew Whitworth,12/12/1981,30.0,6-7,330.0,LSU,LT,16,16.0,5.0,7.0,Bengals,2011
-55,63.0,Bobbie Williams,9/25/1976,35.0,6-4,345.0,Arkansas,RG,9,9.0,10.0,4.0,Bengals,2011
-56,27.0,Gibril Wilson,11/12/1981,30.0,6-0,206.0,Tennessee,DB,16,1.0,7.0,2.0,Bengals,2011
-57,,Team Total,,26.3,6-2.1,244.6,,,16,,3.2,,Bengals,2011
+No.,Player,BirthDate,Age,Height,Weight,College/University,Position,Games_Played_in_Season,Games_Started_in_Season,NFL_Years,Player_Value,Team,Year
+97.0,Geno Atkins,3/28/1988,23.0,6-1,300.0,Georgia,RDT,16,15.0,1.0,14.0,Bengals,2011
+32.0,Cedric Benson,12/28/1982,29.0,5-11,227.0,Texas,RB,15,15.0,6.0,7.0,Bengals,2011
+65.0,Clint Boling,5/9/1989,22.0,6-5,305.0,Georgia,G,5,3.0,0.0,1.0,Bengals,2011
+87.0,Andre Caldwell,4/15/1985,26.0,6-1,207.0,Florida,WR,13,2.0,3.0,3.0,Bengals,2011
+22.0,Nate Clements,12/12/1979,32.0,6-0,205.0,Ohio St.,LCB,15,15.0,10.0,7.0,Bengals,2011
+81.0,Colin Cochart,7/7/1987,24.0,6-4,260.0,South Dakota St.,TE,10,3.0,0.0,0.0,Bengals,2011
+73.0,Anthony Collins,11/2/1985,26.0,6-6,308.0,Kansas,T,7,2.0,3.0,1.0,Bengals,2011
+64.0,Kyle Cook,7/25/1983,28.0,6-3,295.0,Michigan St.,C,16,16.0,3.0,7.0,Bengals,2011
+42.0,Chris Crocker,3/9/1980,31.0,5-11,197.0,Marshall,SS,16,16.0,8.0,7.0,Bengals,2011
+14.0,Andy Dalton,10/29/1987,24.0,6-2,220.0,TCU,QB,16,16.0,0.0,11.0,Bengals,2011
+96.0,Carlos Dunlap,2/28/1989,22.0,6-6,285.0,Florida,DE,12,1.0,1.0,2.0,Bengals,2011
+68.0,Jonathan Fanene,3/19/1982,29.0,6-4,292.0,Utah,DE,16,2.0,6.0,3.0,Bengals,2011
+91.0,Robert Geathers,8/11/1983,28.0,6-3,286.0,Georgia,LDE,14,13.0,7.0,6.0,Bengals,2011
+21.0,Brandon Ghee,6/6/1987,24.0,6-0,189.0,Wake Forest,DB,7,0.0,1.0,0.0,Bengals,2011
+7.0,Bruce Gradkowski,1/27/1983,28.0,6-1,217.0,Toledo,QB,2,0.0,5.0,0.0,Bengals,2011
+18.0,A.J. Green,7/31/1988,23.0,6-4,207.0,Georgia,WR,15,15.0,0.0,10.0,Bengals,2011
+84.0,Jermaine Gresham,6/16/1988,23.0,6-5,260.0,Oklahoma,TE,14,13.0,1.0,5.0,Bengals,2011
+29.0,Leon Hall,12/9/1984,27.0,5-11,195.0,Michigan,RCB,9,9.0,4.0,5.0,Bengals,2011
+46.0,Clark Harris,7/10/1984,27.0,6-5,250.0,Rutgers,TE,16,0.0,3.0,1.0,Bengals,2011
+16.0,Andrew Hawkins,3/10/1986,25.0,5-7,175.0,Toledo,WR,13,0.0,0.0,3.0,Bengals,2011
+98.0,Nick Hayden,2/4/1986,25.0,6-4,295.0,Wisconsin,DT,2,0.0,3.0,0.0,Bengals,2011
+53.0,Thomas Howard,7/14/1983,28.0,6-3,245.0,Texas-El Paso,RLB,16,15.0,5.0,8.0,Bengals,2011
+10.0,Kevin Huber,7/16/1985,26.0,6-1,210.0,Cincinnati,P,16,0.0,2.0,2.0,Bengals,2011
+23.0,Kelly Jennings,11/30/1982,29.0,5-11,180.0,Miami (FL),DB,13,1.0,5.0,1.0,Bengals,2011
+59.0,Brandon Johnson,4/5/1983,28.0,6-5,245.0,Louisville,LB,16,1.0,5.0,2.0,Bengals,2011
+93.0,Michael Johnson,2/7/1987,24.0,6-7,280.0,Georgia Tech,RDE,16,5.0,2.0,4.0,Bengals,2011
+24.0,Adam Jones,9/30/1983,28.0,5-10,185.0,West Virginia,RCB,8,7.0,6.0,3.0,Bengals,2011
+99.0,Manny Lawson,7/13/1984,27.0,6-5,240.0,North Carolina St.,LLB,16,15.0,5.0,7.0,Bengals,2011
+86.0,Donald Lee,8/31/1980,31.0,6-4,248.0,Mississippi St.,TE,9,4.0,8.0,1.0,Bengals,2011
+40.0,Brian Leonard,2/3/1984,27.0,6-2,226.0,Rutgers,RB,13,0.0,4.0,2.0,Bengals,2011
+62.0,Nate Livings,3/16/1982,29.0,6-4,320.0,LSU,LG,16,16.0,3.0,7.0,Bengals,2011
+58.0,Rey Maualuga,1/20/1987,24.0,6-1,254.0,USC,MLB,13,13.0,2.0,7.0,Bengals,2011
+26.0,Taylor Mays,2/7/1988,23.0,6-3,231.0,USC,DB,10,0.0,1.0,1.0,Bengals,2011
+66.0,Mike McGlynn,3/8/1985,26.0,6-5,309.0,Pittsburgh,G,7,4.0,3.0,2.0,Bengals,2011
+45.0,Jeromy Miles,7/20/1987,24.0,6-2,215.0,"Navy,Massachusetts",DB,16,0.0,1.0,1.0,Bengals,2011
+44.0,Rico Murray,8/21/1987,24.0,5-11,191.0,Kent St.,DB,1,0.0,2.0,0.0,Bengals,2011
+20.0,Reggie Nelson,9/21/1983,28.0,5-11,210.0,Florida,FS,16,16.0,4.0,8.0,Bengals,2011
+2.0,Mike Nugent,3/2/1982,29.0,5-10,190.0,Ohio St.,K,16,0.0,6.0,3.0,Bengals,2011
+30.0,Cedric Peerman,10/10/1986,25.0,5-10,212.0,Virginia,RB,15,0.0,2.0,0.0,Bengals,2011
+94.0,Domata Peko,11/27/1984,27.0,6-3,325.0,"College of the Canyons (CA),Michigan St.",LDT,16,16.0,5.0,8.0,Bengals,2011
+36.0,Chris Pressley,8/8/1986,25.0,5-11,257.0,Wisconsin,FB,15,10.0,2.0,0.0,Bengals,2011
+57.0,Vincent Rey,9/6/1987,24.0,6-0,240.0,Duke,LB,16,0.0,1.0,1.0,Bengals,2011
+74.0,Dennis Roland,3/10/1983,28.0,6-9,322.0,Georgia,T,16,3.0,3.0,2.0,Bengals,2011
+92.0,Frostee Rucker,9/14/1983,28.0,6-3,261.0,USC,RDE,16,11.0,4.0,6.0,Bengals,2011
+31.0,Robert Sands,11/3/1989,22.0,6-4,220.0,West Virginia,DB,1,0.0,0.0,0.0,Bengals,2011
+28.0,Bernard Scott,2/10/1984,27.0,5-10,200.0,Abilene Christian,RB,16,1.0,2.0,3.0,Bengals,2011
+11.0,Jordan Shipley,12/23/1985,26.0,5-11,190.0,Texas,WR,2,0.0,1.0,0.0,Bengals,2011
+89.0,Jerome Simpson,2/4/1986,25.0,6-1,193.0,Coastal Carolina,WR,16,14.0,3.0,7.0,Bengals,2011
+90.0,Pat Sims,11/29/1985,26.0,6-4,312.0,Auburn,DT,11,1.0,3.0,2.0,Bengals,2011
+51.0,Dan Skuta,4/21/1986,25.0,6-2,251.0,Grand Valley St.,LB,16,3.0,2.0,2.0,Bengals,2011
+71.0,Andre Smith,1/25/1987,24.0,6-7,335.0,Alabama,RT,14,14.0,2.0,6.0,Bengals,2011
+19.0,Brandon Tate,10/5/1987,24.0,6-1,195.0,North Carolina,WR,16,0.0,2.0,1.0,Bengals,2011
+25.0,Morgan Trent,12/14/1985,26.0,6-1,193.0,Michigan,DB,6,0.0,2.0,0.0,Bengals,2011
+88.0,Ryan Whalen,7/26/1989,22.0,6-1,204.0,Stanford,WR,4,0.0,0.0,0.0,Bengals,2011
+77.0,Andrew Whitworth,12/12/1981,30.0,6-7,330.0,LSU,LT,16,16.0,5.0,7.0,Bengals,2011
+63.0,Bobbie Williams,9/25/1976,35.0,6-4,345.0,Arkansas,RG,9,9.0,10.0,4.0,Bengals,2011
+27.0,Gibril Wilson,11/12/1981,30.0,6-0,206.0,Tennessee,DB,16,1.0,7.0,2.0,Bengals,2011
+,Team Total,,26.3,6-2.1,244.6,,,16,,3.2,,Bengals,2011

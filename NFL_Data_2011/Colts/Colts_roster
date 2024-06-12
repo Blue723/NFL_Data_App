@@ -1,74 +1,74 @@
-,No.,Player,BirthDate,Age,Height,Weight,College/University,Position,Games_Played_in_Season,Games_Started_in_Season,NFL_Years,Player_Value,Team,Year
-0,29.0,Joseph Addai,5/3/1983,28.0,5-11,214.0,LSU,RB,12,11.0,5.0,3.0,Colts,2011
-1,97.0,Mario Addison,9/6/1987,24.0,6-3,260.0,Troy,DE,3,0.0,0.0,0.0,Colts,2011
-2,90.0,Jamaal Anderson,2/6/1986,25.0,6-5,288.0,Arkansas,DE,15,1.0,4.0,2.0,Colts,2011
-3,51.0,Pat Angerer,1/31/1987,24.0,6-0,232.0,Iowa,MLB,16,16.0,1.0,7.0,Colts,2011
-4,57.0,Kevin Bentley,12/29/1979,32.0,6-0,248.0,Northwestern,LB,3,0.0,9.0,0.0,Colts,2011
-5,41.0,Antoine Bethea,7/27/1984,27.0,5-11,206.0,Howard,FS,16,16.0,5.0,5.0,Colts,2011
-6,58.0,Gary Brackett,5/23/1980,31.0,5-11,235.0,Rutgers,LB,1,1.0,8.0,1.0,Colts,2011
-7,96.0,Tyler Brayton,11/20/1979,32.0,6-6,280.0,Colorado,DE,16,1.0,8.0,2.0,Colts,2011
-8,31.0,Donald Brown,4/11/1987,24.0,5-11,210.0,Connecticut,RB,16,2.0,2.0,4.0,Colts,2011
-9,28.0,Stevie Brown,7/17/1987,24.0,6-0,213.0,Michigan,DB,8,0.0,1.0,0.0,Colts,2011
-10,33.0,Melvin Bullitt,11/13/1984,27.0,6-1,200.0,Texas A&M,DB,2,2.0,4.0,1.0,Colts,2011
-11,30.0,David Caldwell,5/19/1987,24.0,5-11,212.0,William & Mary,SS,16,13.0,0.0,4.0,Colts,2011
-12,34.0,Delone Carter,6/22/1987,24.0,5-9,225.0,Syracuse,RB,16,3.0,0.0,2.0,Colts,2011
-13,74.0,Anthony Castonzo,8/9/1988,23.0,6-7,307.0,Boston Col.,LT,12,12.0,0.0,4.0,Colts,2011
-14,44.0,Dallas Clark,6/12/1979,32.0,6-3,252.0,Iowa,TE,11,10.0,8.0,2.0,Colts,2011
-15,17.0,Austin Collie,11/11/1985,26.0,6-1,200.0,BYU,WR,16,5.0,2.0,4.0,Colts,2011
-16,5.0,Kerry Collins,12/30/1972,39.0,6-5,247.0,Penn St.,QB,3,3.0,16.0,1.0,Colts,2011
-17,53.0,Kavell Conner,2/23/1987,24.0,6-1,225.0,Clemson,RLB,16,15.0,1.0,6.0,Colts,2011
-18,71.0,Ryan Diem,7/1/1979,32.0,6-6,320.0,Northern Illinois,RG,11,11.0,10.0,4.0,Colts,2011
-19,54.0,Zach Diles,6/11/1985,26.0,6-0,240.0,Kansas St.,LB,4,0.0,4.0,0.0,Colts,2011
-20,52.0,A.J. Edds,9/18/1987,24.0,6-4,246.0,Iowa,LB,9,0.0,0.0,1.0,Colts,2011
-21,81.0,Brody Eldridge,3/31/1987,24.0,6-5,265.0,Oklahoma,TE,13,8.0,1.0,0.0,Colts,2011
-22,32.0,Darren Evans,11/9/1988,23.0,6-0,220.0,Virginia Tech,RB,2,0.0,0.0,0.0,Colts,2011
-23,42.0,Jerome Felton,7/3/1986,25.0,6-0,246.0,Furman,RB,5,2.0,3.0,0.0,Colts,2011
-24,68.0,Eric Foster,4/5/1985,26.0,6-2,265.0,Rutgers,DT,4,3.0,3.0,1.0,Colts,2011
-25,93.0,Dwight Freeney,2/19/1980,31.0,6-1,268.0,Syracuse,RDE,16,15.0,9.0,8.0,Colts,2011
-26,85.0,Pierre Garcon,8/8/1986,25.0,6-0,211.0,Mount Union,WR,16,16.0,3.0,7.0,Colts,2011
-27,11.0,Anthony Gonzalez,9/18/1984,27.0,6-0,193.0,Ohio St.,WR,8,0.0,4.0,0.0,Colts,2011
-28,49.0,Chris Gronkowski,12/26/1986,25.0,6-2,239.0,Arizona,RB,7,0.0,1.0,0.0,Colts,2011
-29,83.0,Anthony Hill,1/2/1985,26.0,6-5,264.0,North Carolina St.,TE,7,2.0,2.0,0.0,Colts,2011
-30,26.0,Jermale Hines,11/11/1987,24.0,6-1,214.0,Ohio St.,DB,5,0.0,0.0,0.0,Colts,2011
-31,92.0,Jerry Hughes,8/13/1988,23.0,6-2,254.0,TCU,DE,12,1.0,1.0,1.0,Colts,2011
-32,79.0,Ben Ijalana,8/6/1989,22.0,6-4,322.0,Villanova,T,4,0.0,0.0,0.0,Colts,2011
-33,99.0,Antonio Johnson,12/8/1984,27.0,6-3,310.0,Mississippi St.,RDT,16,12.0,3.0,4.0,Colts,2011
-34,23.0,Terrence Johnson,7/5/1986,25.0,5-9,190.0,California (PA),DB,10,2.0,0.0,1.0,Colts,2011
-35,37.0,Brandon King,1/28/1987,24.0,5-10,194.0,Purdue,DB,4,0.0,1.0,0.0,Colts,2011
-36,27.0,Jacob Lacey,5/28/1987,24.0,5-10,177.0,Oklahoma St.,LCB,15,10.0,2.0,4.0,Colts,2011
-37,35.0,Joe Lefeged,6/2/1988,23.0,5-11,208.0,Rutgers,DB,16,1.0,0.0,2.0,Colts,2011
-38,72.0,Jeff Linkenbach,6/9/1987,24.0,6-6,303.0,Cincinnati,RT,16,16.0,1.0,6.0,Colts,2011
-39,56.0,Scott Lutrus,4/23/1988,23.0,6-2,239.0,Connecticut,LB,4,0.0,0.0,0.0,Colts,2011
-40,47.0,Ryan Mahaffey,11/28/1987,24.0,6-2,255.0,Northern Iowa,RB,5,0.0,0.0,0.0,Colts,2011
-41,91.0,Ricardo Mathews,7/30/1987,24.0,6-3,294.0,Cincinnati,DT,12,0.0,1.0,1.0,Colts,2011
-42,98.0,Robert Mathis,2/26/1981,30.0,6-2,245.0,Alabama A&M,LDE,16,15.0,8.0,7.0,Colts,2011
-43,1.0,Pat McAfee,5/2/1987,24.0,6-1,233.0,West Virginia,P,16,0.0,2.0,3.0,Colts,2011
-44,80.0,Mike McNeill,3/7/1988,23.0,6-4,232.0,Nebraska,TE,4,0.0,0.0,0.0,Colts,2011
-45,95.0,Fili Moala,6/23/1985,26.0,6-4,303.0,USC,LDT,14,14.0,2.0,5.0,Colts,2011
-46,57.0,Adrian Moten,4/22/1988,23.0,6-2,230.0,Maryland,LB,10,0.0,0.0,1.0,Colts,2011
-47,97.0,Daniel Muir,9/12/1983,28.0,6-2,298.0,Kent St.,DT,4,2.0,4.0,1.0,Colts,2011
-48,94.0,Drake Nevis,5/8/1989,22.0,6-1,291.0,LSU,DT,5,0.0,0.0,1.0,Colts,2011
-49,69.0,Quinn Ojinnaka,4/23/1984,27.0,6-5,295.0,Syracuse,G,9,3.0,5.0,1.0,Colts,2011
-50,73.0,Seth Olsen,12/17/1985,26.0,6-4,300.0,Iowa,G,6,1.0,2.0,1.0,Colts,2011
-51,6.0,Dan Orlovsky,8/18/1983,28.0,6-5,215.0,Connecticut,QB,8,5.0,6.0,2.0,Colts,2011
-52,7.0,Curtis Painter,6/24/1985,26.0,6-4,230.0,Purdue,QB,9,8.0,2.0,2.0,Colts,2011
-53,78.0,Mike Pollak,2/16/1985,26.0,6-4,299.0,Arizona St.,RG,15,8.0,3.0,3.0,Colts,2011
-54,25.0,Jerraud Powers,7/19/1987,24.0,5-9,190.0,Auburn,RCB,12,12.0,2.0,5.0,Colts,2011
-55,76.0,Joe Reitz,8/24/1985,26.0,6-7,256.0,Western Michigan,LG,11,9.0,0.0,3.0,Colts,2011
-56,61.0,Jamey Richard,10/9/1984,27.0,6-5,297.0,Buffalo,C,9,0.0,3.0,1.0,Colts,2011
-57,36.0,Chris Rucker,10/12/1988,23.0,6-1,190.0,Michigan St.,DB,15,4.0,0.0,2.0,Colts,2011
-58,63.0,Jeff Saturday,6/18/1975,36.0,6-2,295.0,North Carolina,C,16,16.0,12.0,6.0,Colts,2011
-59,55.0,Ernie Sims,12/23/1984,27.0,6-0,233.0,Florida St.,LB,13,4.0,5.0,2.0,Colts,2011
-60,48.0,Justin Snow,12/21/1976,35.0,6-3,245.0,Baylor,LS,16,0.0,11.0,0.0,Colts,2011
-61,84.0,Jacob Tamme,3/15/1985,26.0,6-4,234.0,Kentucky,TE,16,5.0,3.0,1.0,Colts,2011
-62,67.0,Mike Tepper,12/11/1985,26.0,6-5,320.0,California,T,6,4.0,0.0,2.0,Colts,2011
-63,21.0,Kevin Thomas,9/20/1986,25.0,6-0,192.0,USC,LCB,9,5.0,0.0,2.0,Colts,2011
-64,75.0,Michael Toudouze,4/27/1983,28.0,6-6,302.0,TCU,G,2,0.0,4.0,0.0,Colts,2011
-65,26.0,Morgan Trent,12/14/1985,26.0,6-1,193.0,Michigan,DB,1,0.0,2.0,0.0,Colts,2011
-66,54.0,Nate Triplett,3/15/1987,24.0,6-3,240.0,Minnesota,LB,3,0.0,1.0,0.0,Colts,2011
-67,20.0,Justin Tryon,5/29/1984,27.0,5-11,185.0,Arizona St.,DB,3,0.0,3.0,0.0,Colts,2011
-68,4.0,Adam Vinatieri,12/28/1972,39.0,6-0,212.0,South Dakota St.,K,16,0.0,15.0,4.0,Colts,2011
-69,87.0,Reggie Wayne,11/17/1978,33.0,6-0,203.0,Miami (FL),WR,16,16.0,10.0,7.0,Colts,2011
-70,50.0,Philip Wheeler,12/12/1984,27.0,6-2,245.0,Georgia Tech,LLB,13,11.0,3.0,4.0,Colts,2011
-71,15.0,Blair White,2/20/1987,24.0,6-2,205.0,Michigan St.,WR,7,0.0,1.0,0.0,Colts,2011
-72,,Team Total,,26.4,6-1.9,244.4,,,16,,3.2,,Colts,2011
+No.,Player,BirthDate,Age,Height,Weight,College/University,Position,Games_Played_in_Season,Games_Started_in_Season,NFL_Years,Player_Value,Team,Year
+29.0,Joseph Addai,5/3/1983,28.0,5-11,214.0,LSU,RB,12,11.0,5.0,3.0,Colts,2011
+97.0,Mario Addison,9/6/1987,24.0,6-3,260.0,Troy,DE,3,0.0,0.0,0.0,Colts,2011
+90.0,Jamaal Anderson,2/6/1986,25.0,6-5,288.0,Arkansas,DE,15,1.0,4.0,2.0,Colts,2011
+51.0,Pat Angerer,1/31/1987,24.0,6-0,232.0,Iowa,MLB,16,16.0,1.0,7.0,Colts,2011
+57.0,Kevin Bentley,12/29/1979,32.0,6-0,248.0,Northwestern,LB,3,0.0,9.0,0.0,Colts,2011
+41.0,Antoine Bethea,7/27/1984,27.0,5-11,206.0,Howard,FS,16,16.0,5.0,5.0,Colts,2011
+58.0,Gary Brackett,5/23/1980,31.0,5-11,235.0,Rutgers,LB,1,1.0,8.0,1.0,Colts,2011
+96.0,Tyler Brayton,11/20/1979,32.0,6-6,280.0,Colorado,DE,16,1.0,8.0,2.0,Colts,2011
+31.0,Donald Brown,4/11/1987,24.0,5-11,210.0,Connecticut,RB,16,2.0,2.0,4.0,Colts,2011
+28.0,Stevie Brown,7/17/1987,24.0,6-0,213.0,Michigan,DB,8,0.0,1.0,0.0,Colts,2011
+33.0,Melvin Bullitt,11/13/1984,27.0,6-1,200.0,Texas A&M,DB,2,2.0,4.0,1.0,Colts,2011
+30.0,David Caldwell,5/19/1987,24.0,5-11,212.0,William & Mary,SS,16,13.0,0.0,4.0,Colts,2011
+34.0,Delone Carter,6/22/1987,24.0,5-9,225.0,Syracuse,RB,16,3.0,0.0,2.0,Colts,2011
+74.0,Anthony Castonzo,8/9/1988,23.0,6-7,307.0,Boston Col.,LT,12,12.0,0.0,4.0,Colts,2011
+44.0,Dallas Clark,6/12/1979,32.0,6-3,252.0,Iowa,TE,11,10.0,8.0,2.0,Colts,2011
+17.0,Austin Collie,11/11/1985,26.0,6-1,200.0,BYU,WR,16,5.0,2.0,4.0,Colts,2011
+5.0,Kerry Collins,12/30/1972,39.0,6-5,247.0,Penn St.,QB,3,3.0,16.0,1.0,Colts,2011
+53.0,Kavell Conner,2/23/1987,24.0,6-1,225.0,Clemson,RLB,16,15.0,1.0,6.0,Colts,2011
+71.0,Ryan Diem,7/1/1979,32.0,6-6,320.0,Northern Illinois,RG,11,11.0,10.0,4.0,Colts,2011
+54.0,Zach Diles,6/11/1985,26.0,6-0,240.0,Kansas St.,LB,4,0.0,4.0,0.0,Colts,2011
+52.0,A.J. Edds,9/18/1987,24.0,6-4,246.0,Iowa,LB,9,0.0,0.0,1.0,Colts,2011
+81.0,Brody Eldridge,3/31/1987,24.0,6-5,265.0,Oklahoma,TE,13,8.0,1.0,0.0,Colts,2011
+32.0,Darren Evans,11/9/1988,23.0,6-0,220.0,Virginia Tech,RB,2,0.0,0.0,0.0,Colts,2011
+42.0,Jerome Felton,7/3/1986,25.0,6-0,246.0,Furman,RB,5,2.0,3.0,0.0,Colts,2011
+68.0,Eric Foster,4/5/1985,26.0,6-2,265.0,Rutgers,DT,4,3.0,3.0,1.0,Colts,2011
+93.0,Dwight Freeney,2/19/1980,31.0,6-1,268.0,Syracuse,RDE,16,15.0,9.0,8.0,Colts,2011
+85.0,Pierre Garcon,8/8/1986,25.0,6-0,211.0,Mount Union,WR,16,16.0,3.0,7.0,Colts,2011
+11.0,Anthony Gonzalez,9/18/1984,27.0,6-0,193.0,Ohio St.,WR,8,0.0,4.0,0.0,Colts,2011
+49.0,Chris Gronkowski,12/26/1986,25.0,6-2,239.0,Arizona,RB,7,0.0,1.0,0.0,Colts,2011
+83.0,Anthony Hill,1/2/1985,26.0,6-5,264.0,North Carolina St.,TE,7,2.0,2.0,0.0,Colts,2011
+26.0,Jermale Hines,11/11/1987,24.0,6-1,214.0,Ohio St.,DB,5,0.0,0.0,0.0,Colts,2011
+92.0,Jerry Hughes,8/13/1988,23.0,6-2,254.0,TCU,DE,12,1.0,1.0,1.0,Colts,2011
+79.0,Ben Ijalana,8/6/1989,22.0,6-4,322.0,Villanova,T,4,0.0,0.0,0.0,Colts,2011
+99.0,Antonio Johnson,12/8/1984,27.0,6-3,310.0,Mississippi St.,RDT,16,12.0,3.0,4.0,Colts,2011
+23.0,Terrence Johnson,7/5/1986,25.0,5-9,190.0,California (PA),DB,10,2.0,0.0,1.0,Colts,2011
+37.0,Brandon King,1/28/1987,24.0,5-10,194.0,Purdue,DB,4,0.0,1.0,0.0,Colts,2011
+27.0,Jacob Lacey,5/28/1987,24.0,5-10,177.0,Oklahoma St.,LCB,15,10.0,2.0,4.0,Colts,2011
+35.0,Joe Lefeged,6/2/1988,23.0,5-11,208.0,Rutgers,DB,16,1.0,0.0,2.0,Colts,2011
+72.0,Jeff Linkenbach,6/9/1987,24.0,6-6,303.0,Cincinnati,RT,16,16.0,1.0,6.0,Colts,2011
+56.0,Scott Lutrus,4/23/1988,23.0,6-2,239.0,Connecticut,LB,4,0.0,0.0,0.0,Colts,2011
+47.0,Ryan Mahaffey,11/28/1987,24.0,6-2,255.0,Northern Iowa,RB,5,0.0,0.0,0.0,Colts,2011
+91.0,Ricardo Mathews,7/30/1987,24.0,6-3,294.0,Cincinnati,DT,12,0.0,1.0,1.0,Colts,2011
+98.0,Robert Mathis,2/26/1981,30.0,6-2,245.0,Alabama A&M,LDE,16,15.0,8.0,7.0,Colts,2011
+1.0,Pat McAfee,5/2/1987,24.0,6-1,233.0,West Virginia,P,16,0.0,2.0,3.0,Colts,2011
+80.0,Mike McNeill,3/7/1988,23.0,6-4,232.0,Nebraska,TE,4,0.0,0.0,0.0,Colts,2011
+95.0,Fili Moala,6/23/1985,26.0,6-4,303.0,USC,LDT,14,14.0,2.0,5.0,Colts,2011
+57.0,Adrian Moten,4/22/1988,23.0,6-2,230.0,Maryland,LB,10,0.0,0.0,1.0,Colts,2011
+97.0,Daniel Muir,9/12/1983,28.0,6-2,298.0,Kent St.,DT,4,2.0,4.0,1.0,Colts,2011
+94.0,Drake Nevis,5/8/1989,22.0,6-1,291.0,LSU,DT,5,0.0,0.0,1.0,Colts,2011
+69.0,Quinn Ojinnaka,4/23/1984,27.0,6-5,295.0,Syracuse,G,9,3.0,5.0,1.0,Colts,2011
+73.0,Seth Olsen,12/17/1985,26.0,6-4,300.0,Iowa,G,6,1.0,2.0,1.0,Colts,2011
+6.0,Dan Orlovsky,8/18/1983,28.0,6-5,215.0,Connecticut,QB,8,5.0,6.0,2.0,Colts,2011
+7.0,Curtis Painter,6/24/1985,26.0,6-4,230.0,Purdue,QB,9,8.0,2.0,2.0,Colts,2011
+78.0,Mike Pollak,2/16/1985,26.0,6-4,299.0,Arizona St.,RG,15,8.0,3.0,3.0,Colts,2011
+25.0,Jerraud Powers,7/19/1987,24.0,5-9,190.0,Auburn,RCB,12,12.0,2.0,5.0,Colts,2011
+76.0,Joe Reitz,8/24/1985,26.0,6-7,256.0,Western Michigan,LG,11,9.0,0.0,3.0,Colts,2011
+61.0,Jamey Richard,10/9/1984,27.0,6-5,297.0,Buffalo,C,9,0.0,3.0,1.0,Colts,2011
+36.0,Chris Rucker,10/12/1988,23.0,6-1,190.0,Michigan St.,DB,15,4.0,0.0,2.0,Colts,2011
+63.0,Jeff Saturday,6/18/1975,36.0,6-2,295.0,North Carolina,C,16,16.0,12.0,6.0,Colts,2011
+55.0,Ernie Sims,12/23/1984,27.0,6-0,233.0,Florida St.,LB,13,4.0,5.0,2.0,Colts,2011
+48.0,Justin Snow,12/21/1976,35.0,6-3,245.0,Baylor,LS,16,0.0,11.0,0.0,Colts,2011
+84.0,Jacob Tamme,3/15/1985,26.0,6-4,234.0,Kentucky,TE,16,5.0,3.0,1.0,Colts,2011
+67.0,Mike Tepper,12/11/1985,26.0,6-5,320.0,California,T,6,4.0,0.0,2.0,Colts,2011
+21.0,Kevin Thomas,9/20/1986,25.0,6-0,192.0,USC,LCB,9,5.0,0.0,2.0,Colts,2011
+75.0,Michael Toudouze,4/27/1983,28.0,6-6,302.0,TCU,G,2,0.0,4.0,0.0,Colts,2011
+26.0,Morgan Trent,12/14/1985,26.0,6-1,193.0,Michigan,DB,1,0.0,2.0,0.0,Colts,2011
+54.0,Nate Triplett,3/15/1987,24.0,6-3,240.0,Minnesota,LB,3,0.0,1.0,0.0,Colts,2011
+20.0,Justin Tryon,5/29/1984,27.0,5-11,185.0,Arizona St.,DB,3,0.0,3.0,0.0,Colts,2011
+4.0,Adam Vinatieri,12/28/1972,39.0,6-0,212.0,South Dakota St.,K,16,0.0,15.0,4.0,Colts,2011
+87.0,Reggie Wayne,11/17/1978,33.0,6-0,203.0,Miami (FL),WR,16,16.0,10.0,7.0,Colts,2011
+50.0,Philip Wheeler,12/12/1984,27.0,6-2,245.0,Georgia Tech,LLB,13,11.0,3.0,4.0,Colts,2011
+15.0,Blair White,2/20/1987,24.0,6-2,205.0,Michigan St.,WR,7,0.0,1.0,0.0,Colts,2011
+,Team Total,,26.4,6-1.9,244.4,,,16,,3.2,,Colts,2011

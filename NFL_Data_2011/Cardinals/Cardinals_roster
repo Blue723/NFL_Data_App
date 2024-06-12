@@ -1,60 +1,60 @@
-,No.,Player,BirthDate,Age,Height,Weight,College/University,Position,Games_Played_in_Season,Games_Started_in_Season,NFL_Years,Player_Value,Team,Year
-0,23.0,Hamza Abdullah,8/20/1983,28.0,6-2,216.0,Washington St.,DB,16,0.0,6.0,1.0,Cardinals,2011
-1,94.0,Sam Acho,9/6/1988,23.0,6-3,259.0,Texas,LOLB,16,10.0,0.0,6.0,Cardinals,2011
-2,27.0,Michael Adams,6/17/1985,26.0,5-8,178.0,Louisiana,DB,15,1.0,4.0,1.0,Cardinals,2011
-3,2.0,Richard Bartel,2/3/1983,28.0,6-3,246.0,Tarleton St.,QB,2,0.0,1.0,0.0,Cardinals,2011
-4,74.0,D'Anthony Batiste,3/29/1982,29.0,6-4,314.0,Louisiana,T,4,0.0,4.0,0.0,Cardinals,2011
-5,52.0,Stewart Bradley,11/2/1983,28.0,6-4,254.0,Nebraska,LB,16,1.0,4.0,2.0,Cardinals,2011
-6,73.0,Jeremy Bridges,4/19/1980,31.0,6-5,318.0,Southern Miss,RT,16,5.0,7.0,3.0,Cardinals,2011
-7,75.0,Levi Brown,3/16/1984,27.0,6-6,323.0,Penn St.,LT,16,16.0,4.0,7.0,Cardinals,2011
-8,22.0,Crezdon Butler,5/26/1987,24.0,6-0,183.0,Clemson,DB,1,0.0,1.0,0.0,Cardinals,2011
-9,93.0,Calais Campbell,9/1/1986,25.0,6-8,282.0,Miami (FL),LDE,16,16.0,3.0,9.0,Cardinals,2011
-10,79.0,David Carter,12/10/1987,24.0,6-4,297.0,UCLA,DT,16,0.0,0.0,1.0,Cardinals,2011
-11,71.0,Daryn Colledge,2/11/1982,29.0,6-4,308.0,Boise St.,LG,16,16.0,5.0,7.0,Cardinals,2011
-12,37.0,Sean Considine,12/17/1982,29.0,6-0,212.0,Iowa,DB,8,0.0,6.0,1.0,Cardinals,2011
-13,90.0,Darnell Dockett,5/27/1981,30.0,6-4,290.0,Florida St.,RDE,16,16.0,7.0,8.0,Cardinals,2011
-14,85.0,Early Doucet,10/28/1985,26.0,6-0,211.0,LSU,WR,16,6.0,3.0,5.0,Cardinals,2011
-15,81.0,Jim Dray,12/31/1986,25.0,6-5,253.0,Stanford,TE,10,0.0,1.0,0.0,Cardinals,2011
-16,98.0,Nick Eason,5/29/1980,31.0,6-3,305.0,Clemson,NT,16,6.0,7.0,3.0,Cardinals,2011
-17,3.0,Jay Feely,5/23/1976,35.0,5-10,208.0,Michigan,K,16,0.0,10.0,2.0,Cardinals,2011
-18,11.0,Larry Fitzgerald,8/31/1983,28.0,6-3,218.0,Pittsburgh,WR,16,16.0,7.0,10.0,Cardinals,2011
-19,5.0,Ben Graham,11/2/1973,38.0,6-5,236.0,Deakin (Australia),P,1,0.0,6.0,0.0,Cardinals,2011
-20,30.0,Marshay Green,1/14/1986,25.0,5-9,175.0,Mississippi,DB,1,0.0,0.0,0.0,Cardinals,2011
-21,70.0,Rex Hadnot,1/28/1982,29.0,6-2,310.0,Houston,RG,16,16.0,7.0,7.0,Cardinals,2011
-22,53.0,Clark Haggans,1/10/1977,34.0,6-4,243.0,Colorado St.,ROLB,16,16.0,11.0,7.0,Cardinals,2011
-23,86.0,Todd Heap,3/16/1980,31.0,6-5,252.0,Arizona St.,TE,10,4.0,10.0,2.0,Cardinals,2011
-24,91.0,Vonnie Holliday,12/11/1975,36.0,6-5,288.0,North Carolina,DE,16,0.0,13.0,2.0,Cardinals,2011
-25,84.0,Rob Housler,3/17/1988,23.0,6-5,238.0,Florida Atlantic,TE,12,2.0,0.0,1.0,Cardinals,2011
-26,20.0,A.J. Jefferson,4/4/1988,23.0,6-0,190.0,Fresno St.,LCB,16,7.0,1.0,4.0,Cardinals,2011
-27,83.0,Jaymar Johnson,7/10/1984,27.0,6-0,176.0,Jackson St.,WR,1,0.0,2.0,0.0,Cardinals,2011
-28,49.0,Rashad Johnson,1/2/1986,25.0,6-0,195.0,Alabama,FS,16,9.0,2.0,4.0,Cardinals,2011
-29,72.0,Brandon Keith,11/21/1984,27.0,6-5,343.0,Northern Iowa,RT,13,11.0,2.0,5.0,Cardinals,2011
-30,87.0,Jeff King,2/19/1983,28.0,6-3,260.0,Virginia Tech,TE,16,10.0,5.0,2.0,Cardinals,2011
-31,4.0,Kevin Kolb,8/24/1984,27.0,6-3,218.0,Houston,QB,9,9.0,4.0,5.0,Cardinals,2011
-32,82.0,Mike Leach,10/18/1976,35.0,6-2,235.0,"Boston Univ.,William & Mary",TE,16,0.0,11.0,1.0,Cardinals,2011
-33,51.0,Paris Lenon,11/26/1977,34.0,6-2,240.0,Richmond,LILB,16,16.0,9.0,8.0,Cardinals,2011
-34,76.0,Deuce Lutui,5/5/1983,28.0,6-4,338.0,"Snow College (UT),USC",G,15,0.0,5.0,1.0,Cardinals,2011
-35,31.0,Richard Marshall,12/12/1984,27.0,5-11,198.0,Fresno St.,LCB,16,9.0,5.0,5.0,Cardinals,2011
-36,45.0,Reagan Maui'a,7/6/1984,27.0,6-0,260.0,Hawaii,RB,3,3.0,4.0,0.0,Cardinals,2011
-37,21.0,Patrick Peterson,7/11/1990,21.0,6-1,203.0,LSU,RCB,16,16.0,0.0,22.0,Cardinals,2011
-38,55.0,Joey Porter,3/22/1977,34.0,6-3,248.0,Colorado St.,LOLB,6,6.0,12.0,3.0,Cardinals,2011
-39,25.0,Kerry Rhodes,8/2/1982,29.0,6-3,212.0,Louisville,FS,7,7.0,6.0,3.0,Cardinals,2011
-40,12.0,Andre Roberts,1/9/1988,23.0,5-11,195.0,The Citadel,WR,16,16.0,1.0,4.0,Cardinals,2011
-41,89.0,DeMarco Sampson,12/19/1985,26.0,6-2,201.0,San Diego St.,WR,12,0.0,0.0,0.0,Cardinals,2011
-42,50.0,O'Brien Schofield,4/3/1987,24.0,6-2,238.0,Wisconsin,LB,16,0.0,1.0,2.0,Cardinals,2011
-43,63.0,Lyle Sendlein,3/16/1984,27.0,6-3,299.0,Texas,C,16,16.0,4.0,7.0,Cardinals,2011
-44,35.0,Anthony Sherman,12/11/1988,23.0,5-10,242.0,Connecticut,FB,15,7.0,0.0,1.0,Cardinals,2011
-45,19.0,John Skelton,3/17/1988,23.0,6-5,244.0,Fordham,QB,8,7.0,1.0,4.0,Cardinals,2011
-46,46.0,Alfonso Smith,1/23/1987,24.0,6-1,208.0,Kentucky,RB,15,0.0,1.0,1.0,Cardinals,2011
-47,36.0,LaRod Stephens-Howling,4/26/1987,24.0,5-7,180.0,Pittsburgh,RB,14,1.0,2.0,3.0,Cardinals,2011
-48,17.0,Chansi Stuckey,10/4/1983,28.0,5-10,182.0,Clemson,WR,9,0.0,3.0,0.0,Cardinals,2011
-49,96.0,Ronald Talley,2/21/1986,25.0,6-3,282.0,"Notre Dame,Delaware",DE,6,0.0,0.0,0.0,Cardinals,2011
-50,29.0,Chester Taylor,9/22/1979,32.0,5-11,208.0,Toledo,RB,12,1.0,9.0,1.0,Cardinals,2011
-51,56.0,Reggie Walker,12/15/1986,25.0,6-0,238.0,Kansas St.,LB,16,0.0,2.0,1.0,Cardinals,2011
-52,58.0,Daryl Washington,10/9/1986,25.0,6-2,226.0,TCU,RILB,15,14.0,1.0,8.0,Cardinals,2011
-53,26.0,Beanie Wells,8/7/1988,23.0,6-1,235.0,Ohio St.,RB,14,14.0,2.0,6.0,Cardinals,2011
-54,92.0,Dan Williams,6/1/1987,24.0,6-2,330.0,Tennessee,NT,10,10.0,1.0,4.0,Cardinals,2011
-55,18.0,Stephen Williams,6/29/1986,25.0,6-5,199.0,Toledo,WR,2,0.0,1.0,0.0,Cardinals,2011
-56,24.0,Adrian Wilson,10/12/1979,32.0,6-3,230.0,North Carolina St.,SS,16,16.0,10.0,9.0,Cardinals,2011
-57,9.0,Dave Zastudil,10/26/1978,33.0,6-3,220.0,Ohio,P,15,0.0,9.0,2.0,Cardinals,2011
-58,,Team Total,,27.6,6-2.1,242.9,,,16,,4.2,,Cardinals,2011
+No.,Player,BirthDate,Age,Height,Weight,College/University,Position,Games_Played_in_Season,Games_Started_in_Season,NFL_Years,Player_Value,Team,Year
+23.0,Hamza Abdullah,8/20/1983,28.0,6-2,216.0,Washington St.,DB,16,0.0,6.0,1.0,Cardinals,2011
+94.0,Sam Acho,9/6/1988,23.0,6-3,259.0,Texas,LOLB,16,10.0,0.0,6.0,Cardinals,2011
+27.0,Michael Adams,6/17/1985,26.0,5-8,178.0,Louisiana,DB,15,1.0,4.0,1.0,Cardinals,2011
+2.0,Richard Bartel,2/3/1983,28.0,6-3,246.0,Tarleton St.,QB,2,0.0,1.0,0.0,Cardinals,2011
+74.0,D'Anthony Batiste,3/29/1982,29.0,6-4,314.0,Louisiana,T,4,0.0,4.0,0.0,Cardinals,2011
+52.0,Stewart Bradley,11/2/1983,28.0,6-4,254.0,Nebraska,LB,16,1.0,4.0,2.0,Cardinals,2011
+73.0,Jeremy Bridges,4/19/1980,31.0,6-5,318.0,Southern Miss,RT,16,5.0,7.0,3.0,Cardinals,2011
+75.0,Levi Brown,3/16/1984,27.0,6-6,323.0,Penn St.,LT,16,16.0,4.0,7.0,Cardinals,2011
+22.0,Crezdon Butler,5/26/1987,24.0,6-0,183.0,Clemson,DB,1,0.0,1.0,0.0,Cardinals,2011
+93.0,Calais Campbell,9/1/1986,25.0,6-8,282.0,Miami (FL),LDE,16,16.0,3.0,9.0,Cardinals,2011
+79.0,David Carter,12/10/1987,24.0,6-4,297.0,UCLA,DT,16,0.0,0.0,1.0,Cardinals,2011
+71.0,Daryn Colledge,2/11/1982,29.0,6-4,308.0,Boise St.,LG,16,16.0,5.0,7.0,Cardinals,2011
+37.0,Sean Considine,12/17/1982,29.0,6-0,212.0,Iowa,DB,8,0.0,6.0,1.0,Cardinals,2011
+90.0,Darnell Dockett,5/27/1981,30.0,6-4,290.0,Florida St.,RDE,16,16.0,7.0,8.0,Cardinals,2011
+85.0,Early Doucet,10/28/1985,26.0,6-0,211.0,LSU,WR,16,6.0,3.0,5.0,Cardinals,2011
+81.0,Jim Dray,12/31/1986,25.0,6-5,253.0,Stanford,TE,10,0.0,1.0,0.0,Cardinals,2011
+98.0,Nick Eason,5/29/1980,31.0,6-3,305.0,Clemson,NT,16,6.0,7.0,3.0,Cardinals,2011
+3.0,Jay Feely,5/23/1976,35.0,5-10,208.0,Michigan,K,16,0.0,10.0,2.0,Cardinals,2011
+11.0,Larry Fitzgerald,8/31/1983,28.0,6-3,218.0,Pittsburgh,WR,16,16.0,7.0,10.0,Cardinals,2011
+5.0,Ben Graham,11/2/1973,38.0,6-5,236.0,Deakin (Australia),P,1,0.0,6.0,0.0,Cardinals,2011
+30.0,Marshay Green,1/14/1986,25.0,5-9,175.0,Mississippi,DB,1,0.0,0.0,0.0,Cardinals,2011
+70.0,Rex Hadnot,1/28/1982,29.0,6-2,310.0,Houston,RG,16,16.0,7.0,7.0,Cardinals,2011
+53.0,Clark Haggans,1/10/1977,34.0,6-4,243.0,Colorado St.,ROLB,16,16.0,11.0,7.0,Cardinals,2011
+86.0,Todd Heap,3/16/1980,31.0,6-5,252.0,Arizona St.,TE,10,4.0,10.0,2.0,Cardinals,2011
+91.0,Vonnie Holliday,12/11/1975,36.0,6-5,288.0,North Carolina,DE,16,0.0,13.0,2.0,Cardinals,2011
+84.0,Rob Housler,3/17/1988,23.0,6-5,238.0,Florida Atlantic,TE,12,2.0,0.0,1.0,Cardinals,2011
+20.0,A.J. Jefferson,4/4/1988,23.0,6-0,190.0,Fresno St.,LCB,16,7.0,1.0,4.0,Cardinals,2011
+83.0,Jaymar Johnson,7/10/1984,27.0,6-0,176.0,Jackson St.,WR,1,0.0,2.0,0.0,Cardinals,2011
+49.0,Rashad Johnson,1/2/1986,25.0,6-0,195.0,Alabama,FS,16,9.0,2.0,4.0,Cardinals,2011
+72.0,Brandon Keith,11/21/1984,27.0,6-5,343.0,Northern Iowa,RT,13,11.0,2.0,5.0,Cardinals,2011
+87.0,Jeff King,2/19/1983,28.0,6-3,260.0,Virginia Tech,TE,16,10.0,5.0,2.0,Cardinals,2011
+4.0,Kevin Kolb,8/24/1984,27.0,6-3,218.0,Houston,QB,9,9.0,4.0,5.0,Cardinals,2011
+82.0,Mike Leach,10/18/1976,35.0,6-2,235.0,"Boston Univ.,William & Mary",TE,16,0.0,11.0,1.0,Cardinals,2011
+51.0,Paris Lenon,11/26/1977,34.0,6-2,240.0,Richmond,LILB,16,16.0,9.0,8.0,Cardinals,2011
+76.0,Deuce Lutui,5/5/1983,28.0,6-4,338.0,"Snow College (UT),USC",G,15,0.0,5.0,1.0,Cardinals,2011
+31.0,Richard Marshall,12/12/1984,27.0,5-11,198.0,Fresno St.,LCB,16,9.0,5.0,5.0,Cardinals,2011
+45.0,Reagan Maui'a,7/6/1984,27.0,6-0,260.0,Hawaii,RB,3,3.0,4.0,0.0,Cardinals,2011
+21.0,Patrick Peterson,7/11/1990,21.0,6-1,203.0,LSU,RCB,16,16.0,0.0,22.0,Cardinals,2011
+55.0,Joey Porter,3/22/1977,34.0,6-3,248.0,Colorado St.,LOLB,6,6.0,12.0,3.0,Cardinals,2011
+25.0,Kerry Rhodes,8/2/1982,29.0,6-3,212.0,Louisville,FS,7,7.0,6.0,3.0,Cardinals,2011
+12.0,Andre Roberts,1/9/1988,23.0,5-11,195.0,The Citadel,WR,16,16.0,1.0,4.0,Cardinals,2011
+89.0,DeMarco Sampson,12/19/1985,26.0,6-2,201.0,San Diego St.,WR,12,0.0,0.0,0.0,Cardinals,2011
+50.0,O'Brien Schofield,4/3/1987,24.0,6-2,238.0,Wisconsin,LB,16,0.0,1.0,2.0,Cardinals,2011
+63.0,Lyle Sendlein,3/16/1984,27.0,6-3,299.0,Texas,C,16,16.0,4.0,7.0,Cardinals,2011
+35.0,Anthony Sherman,12/11/1988,23.0,5-10,242.0,Connecticut,FB,15,7.0,0.0,1.0,Cardinals,2011
+19.0,John Skelton,3/17/1988,23.0,6-5,244.0,Fordham,QB,8,7.0,1.0,4.0,Cardinals,2011
+46.0,Alfonso Smith,1/23/1987,24.0,6-1,208.0,Kentucky,RB,15,0.0,1.0,1.0,Cardinals,2011
+36.0,LaRod Stephens-Howling,4/26/1987,24.0,5-7,180.0,Pittsburgh,RB,14,1.0,2.0,3.0,Cardinals,2011
+17.0,Chansi Stuckey,10/4/1983,28.0,5-10,182.0,Clemson,WR,9,0.0,3.0,0.0,Cardinals,2011
+96.0,Ronald Talley,2/21/1986,25.0,6-3,282.0,"Notre Dame,Delaware",DE,6,0.0,0.0,0.0,Cardinals,2011
+29.0,Chester Taylor,9/22/1979,32.0,5-11,208.0,Toledo,RB,12,1.0,9.0,1.0,Cardinals,2011
+56.0,Reggie Walker,12/15/1986,25.0,6-0,238.0,Kansas St.,LB,16,0.0,2.0,1.0,Cardinals,2011
+58.0,Daryl Washington,10/9/1986,25.0,6-2,226.0,TCU,RILB,15,14.0,1.0,8.0,Cardinals,2011
+26.0,Beanie Wells,8/7/1988,23.0,6-1,235.0,Ohio St.,RB,14,14.0,2.0,6.0,Cardinals,2011
+92.0,Dan Williams,6/1/1987,24.0,6-2,330.0,Tennessee,NT,10,10.0,1.0,4.0,Cardinals,2011
+18.0,Stephen Williams,6/29/1986,25.0,6-5,199.0,Toledo,WR,2,0.0,1.0,0.0,Cardinals,2011
+24.0,Adrian Wilson,10/12/1979,32.0,6-3,230.0,North Carolina St.,SS,16,16.0,10.0,9.0,Cardinals,2011
+9.0,Dave Zastudil,10/26/1978,33.0,6-3,220.0,Ohio,P,15,0.0,9.0,2.0,Cardinals,2011
+,Team Total,,27.6,6-2.1,242.9,,,16,,4.2,,Cardinals,2011

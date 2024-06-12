@@ -1,64 +1,64 @@
-,No.,Player,BirthDate,Age,Height,Weight,College/University,Position,Games_Played_in_Season,Games_Started_in_Season,NFL_Years,Player_Value,Team,Year
-0,92.0,Cliff Avril,4/8/1986,25.0,6-3,260.0,Purdue,LDE,16,16.0,3.0,9.0,Lions,2011
-1,76.0,Jeff Backus,9/21/1977,34.0,6-5,305.0,Michigan,LT,16,16.0,10.0,9.0,Lions,2011
-2,32.0,Aaron Berry,6/25/1988,23.0,5-11,180.0,Pittsburgh,DB,11,3.0,1.0,2.0,Lions,2011
-3,44.0,Jahvid Best,1/30/1989,22.0,5-9,190.0,California,RB,6,6.0,1.0,5.0,Lions,2011
-4,35.0,Aaron Brown,10/10/1985,26.0,6-0,196.0,TCU,RB,1,0.0,2.0,0.0,Lions,2011
-5,45.0,Eldra Buckley,6/23/1985,26.0,5-9,202.0,"Northwest Mississippi CC,Chattanooga",RB,2,0.0,2.0,0.0,Lions,2011
-6,13.0,Nate Burleson,8/19/1981,30.0,6-0,198.0,Nevada,WR,16,11.0,8.0,7.0,Lions,2011
-7,31.0,Don Carey,2/14/1987,24.0,5-11,202.0,Norfolk St.,DB,5,0.0,1.0,0.0,Lions,2011
-8,59.0,Bobby Carpenter,8/1/1983,28.0,6-2,249.0,Ohio St.,LB,16,3.0,5.0,3.0,Lions,2011
-9,77.0,Gosder Cherilus,6/28/1984,27.0,6-7,315.0,Boston Col.,RT,16,15.0,3.0,9.0,Lions,2011
-10,24.0,Erik Coleman,5/6/1982,29.0,5-10,207.0,Washington St.,DB,4,0.0,7.0,0.0,Lions,2011
-11,82.0,Rashied Davis,7/24/1979,32.0,5-9,187.0,San Jose St.,WR,11,0.0,6.0,1.0,Lions,2011
-12,62.0,Keyunta Dawson,9/13/1985,26.0,6-0,268.0,Texas Tech,DE,2,0.0,4.0,0.0,Lions,2011
-13,26.0,Louis Delmas,4/12/1987,24.0,5-11,197.0,Western Michigan,FS,11,11.0,2.0,5.0,Lions,2011
-14,6.0,Ryan Donahue,3/17/1988,23.0,6-3,190.0,Iowa,P,8,0.0,0.0,1.0,Lions,2011
-15,52.0,Justin Durant,9/21/1985,26.0,6-4,230.0,Hampton,LLB,13,12.0,4.0,6.0,Lions,2011
-16,50.0,Isaiah Ekejiuba,10/5/1981,30.0,6-4,240.0,Virginia,LB,3,0.0,6.0,0.0,Lions,2011
-17,98.0,Nick Fairley,1/23/1988,23.0,6-5,291.0,"Copiah-Lincoln CC,Auburn",DT,10,0.0,0.0,1.0,Lions,2011
-18,96.0,Andre Fluellen,3/7/1985,26.0,6-2,285.0,Florida St.,DT,13,0.0,3.0,1.0,Lions,2011
-19,38.0,Vincent Fuller,8/3/1982,29.0,6-1,192.0,Virginia Tech,DB,1,0.0,6.0,0.0,Lions,2011
-20,65.0,Dylan Gandy,3/8/1982,29.0,6-3,295.0,Texas Tech,G,16,0.0,6.0,2.0,Lions,2011
-21,2.0,Ben Graham,11/2/1973,38.0,6-5,236.0,Deakin (Australia),P,7,0.0,6.0,1.0,Lions,2011
-22,4.0,Jason Hanson,6/17/1970,41.0,6-0,190.0,Washington St.,K,16,0.0,19.0,3.0,Lions,2011
-23,43.0,Chris Harris,8/6/1982,29.0,6-0,211.0,La-Monroe,FS,8,5.0,6.0,2.0,Lions,2011
-24,36.0,Jerome Harrison,2/26/1983,28.0,5-9,205.0,Washington St.,RB,4,0.0,5.0,0.0,Lions,2011
-25,95.0,Jovan Haye,6/21/1982,29.0,6-2,277.0,Vanderbilt,DT,1,0.0,6.0,0.0,Lions,2011
-26,89.0,Will Heller,2/28/1981,30.0,6-6,275.0,Georgia Tech,TE,16,7.0,8.0,0.0,Lions,2011
-27,91.0,Sammie Lee Hill,11/8/1986,25.0,6-4,331.0,Stillman,DT,16,3.0,2.0,3.0,Lions,2011
-28,14.0,Shaun Hill,1/9/1980,31.0,6-3,230.0,Maryland,QB,2,0.0,6.0,0.0,Lions,2011
-29,78.0,Corey Hilliard,4/26/1985,26.0,6-5,315.0,Oklahoma St.,T,16,1.0,4.0,2.0,Lions,2011
-30,57.0,Doug Hogue,2/1/1989,22.0,6-2,235.0,Syracuse,LB,13,0.0,0.0,1.0,Lions,2011
-31,23.0,Chris Houston,10/18/1984,27.0,5-10,185.0,Arkansas,LCB,14,13.0,4.0,7.0,Lions,2011
-32,94.0,Lawrence Jackson,8/30/1985,26.0,6-5,261.0,USC,DE,11,0.0,3.0,2.0,Lions,2011
-33,81.0,Calvin Johnson,9/29/1985,26.0,6-5,237.0,Georgia Tech,WR,16,16.0,4.0,15.0,Lions,2011
-34,54.0,DeAndre Levy,3/26/1987,24.0,6-2,230.0,Wisconsin,RLB,16,16.0,2.0,8.0,Lions,2011
-35,11.0,Stefan Logan,6/2/1981,30.0,5-7,177.0,South Dakota,RB,16,1.0,2.0,0.0,Lions,2011
-36,30.0,Anthony Madison,10/8/1981,30.0,5-9,180.0,Alabama,DB,5,0.0,5.0,0.0,Lions,2011
-37,2.0,Robert Malone,2/4/1988,23.0,6-2,215.0,Fresno St.,P,1,0.0,1.0,0.0,Lions,2011
-38,33.0,Brandon McDonald,8/26/1985,26.0,5-11,181.0,Memphis,DB,13,0.0,4.0,1.0,Lions,2011
-39,28.0,Maurice Morris,12/1/1979,32.0,5-11,216.0,Oregon,RB,16,5.0,9.0,4.0,Lions,2011
-40,48.0,Don Muhlbach,8/17/1981,30.0,6-4,258.0,Texas A&M,LS,16,0.0,7.0,3.0,Lions,2011
-41,58.0,Ashlee Palmer,4/7/1986,25.0,6-1,223.0,Mississippi,LB,16,0.0,2.0,1.0,Lions,2011
-42,66.0,Stephen Peterman,1/11/1982,29.0,6-4,323.0,LSU,RG,16,16.0,6.0,9.0,Lions,2011
-43,87.0,Brandon Pettigrew,2/23/1985,26.0,6-5,257.0,Oklahoma St.,TE,16,16.0,2.0,7.0,Lions,2011
-44,51.0,Dominic Raiola,12/30/1978,33.0,6-1,295.0,Nebraska,C,16,16.0,10.0,9.0,Lions,2011
-45,85.0,Tony Scheffler,2/15/1983,28.0,6-5,255.0,Western Michigan,TE,15,5.0,5.0,3.0,Lions,2011
-46,39.0,Ricardo Silva,5/9/1988,23.0,6-3,225.0,Hampton,DB,4,0.0,0.0,0.0,Lions,2011
-47,67.0,Rob Sims,12/6/1983,28.0,6-3,312.0,Ohio St.,LG,16,16.0,5.0,9.0,Lions,2011
-48,27.0,Alphonso Smith,10/20/1985,26.0,5-9,193.0,Wake Forest,DB,11,1.0,2.0,2.0,Lions,2011
-49,30.0,Kevin Smith,12/17/1986,25.0,6-0,210.0,Central Florida,RB,7,4.0,3.0,4.0,Lions,2011
-50,42.0,Amari Spievey,4/15/1988,23.0,6-0,190.0,Iowa,SS,15,15.0,1.0,7.0,Lions,2011
-51,9.0,Matthew Stafford,2/7/1988,23.0,6-3,220.0,Georgia,QB,16,16.0,2.0,16.0,Lions,2011
-52,80.0,Maurice Stovall,2/21/1985,26.0,6-5,220.0,Notre Dame,WR,15,0.0,5.0,0.0,Lions,2011
-53,90.0,Ndamukong Suh,1/6/1987,24.0,6-4,313.0,Nebraska,LDT,14,14.0,1.0,6.0,Lions,2011
-54,55.0,Stephen Tulloch,1/1/1985,26.0,5-11,245.0,North Carolina St.,MLB,16,16.0,5.0,9.0,Lions,2011
-55,93.0,Kyle Vanden Bosch,11/17/1978,33.0,6-4,278.0,Nebraska,RDE,16,16.0,10.0,8.0,Lions,2011
-56,29.0,John Wendling,6/4/1983,28.0,6-1,222.0,Wyoming,DB,16,1.0,4.0,1.0,Lions,2011
-57,99.0,Corey Williams,8/17/1980,31.0,6-4,320.0,Arkansas St.,RDT,15,15.0,7.0,6.0,Lions,2011
-58,34.0,Keiland Williams,8/14/1986,25.0,5-11,225.0,LSU,RB,15,0.0,1.0,2.0,Lions,2011
-59,21.0,Eric Wright,7/24/1985,26.0,5-11,192.0,UNLV,RCB,16,16.0,4.0,7.0,Lions,2011
-60,16.0,Titus Young,8/21/1989,22.0,5-11,175.0,Boise St.,WR,16,9.0,0.0,5.0,Lions,2011
-61,79.0,Willie Young,9/19/1985,26.0,6-5,251.0,North Carolina St.,DE,14,0.0,1.0,1.0,Lions,2011
-62,,Team Total,,27.3,6-1.5,236.6,,,16,,4.2,,Lions,2011
+No.,Player,BirthDate,Age,Height,Weight,College/University,Position,Games_Played_in_Season,Games_Started_in_Season,NFL_Years,Player_Value,Team,Year
+92.0,Cliff Avril,4/8/1986,25.0,6-3,260.0,Purdue,LDE,16,16.0,3.0,9.0,Lions,2011
+76.0,Jeff Backus,9/21/1977,34.0,6-5,305.0,Michigan,LT,16,16.0,10.0,9.0,Lions,2011
+32.0,Aaron Berry,6/25/1988,23.0,5-11,180.0,Pittsburgh,DB,11,3.0,1.0,2.0,Lions,2011
+44.0,Jahvid Best,1/30/1989,22.0,5-9,190.0,California,RB,6,6.0,1.0,5.0,Lions,2011
+35.0,Aaron Brown,10/10/1985,26.0,6-0,196.0,TCU,RB,1,0.0,2.0,0.0,Lions,2011
+45.0,Eldra Buckley,6/23/1985,26.0,5-9,202.0,"Northwest Mississippi CC,Chattanooga",RB,2,0.0,2.0,0.0,Lions,2011
+13.0,Nate Burleson,8/19/1981,30.0,6-0,198.0,Nevada,WR,16,11.0,8.0,7.0,Lions,2011
+31.0,Don Carey,2/14/1987,24.0,5-11,202.0,Norfolk St.,DB,5,0.0,1.0,0.0,Lions,2011
+59.0,Bobby Carpenter,8/1/1983,28.0,6-2,249.0,Ohio St.,LB,16,3.0,5.0,3.0,Lions,2011
+77.0,Gosder Cherilus,6/28/1984,27.0,6-7,315.0,Boston Col.,RT,16,15.0,3.0,9.0,Lions,2011
+24.0,Erik Coleman,5/6/1982,29.0,5-10,207.0,Washington St.,DB,4,0.0,7.0,0.0,Lions,2011
+82.0,Rashied Davis,7/24/1979,32.0,5-9,187.0,San Jose St.,WR,11,0.0,6.0,1.0,Lions,2011
+62.0,Keyunta Dawson,9/13/1985,26.0,6-0,268.0,Texas Tech,DE,2,0.0,4.0,0.0,Lions,2011
+26.0,Louis Delmas,4/12/1987,24.0,5-11,197.0,Western Michigan,FS,11,11.0,2.0,5.0,Lions,2011
+6.0,Ryan Donahue,3/17/1988,23.0,6-3,190.0,Iowa,P,8,0.0,0.0,1.0,Lions,2011
+52.0,Justin Durant,9/21/1985,26.0,6-4,230.0,Hampton,LLB,13,12.0,4.0,6.0,Lions,2011
+50.0,Isaiah Ekejiuba,10/5/1981,30.0,6-4,240.0,Virginia,LB,3,0.0,6.0,0.0,Lions,2011
+98.0,Nick Fairley,1/23/1988,23.0,6-5,291.0,"Copiah-Lincoln CC,Auburn",DT,10,0.0,0.0,1.0,Lions,2011
+96.0,Andre Fluellen,3/7/1985,26.0,6-2,285.0,Florida St.,DT,13,0.0,3.0,1.0,Lions,2011
+38.0,Vincent Fuller,8/3/1982,29.0,6-1,192.0,Virginia Tech,DB,1,0.0,6.0,0.0,Lions,2011
+65.0,Dylan Gandy,3/8/1982,29.0,6-3,295.0,Texas Tech,G,16,0.0,6.0,2.0,Lions,2011
+2.0,Ben Graham,11/2/1973,38.0,6-5,236.0,Deakin (Australia),P,7,0.0,6.0,1.0,Lions,2011
+4.0,Jason Hanson,6/17/1970,41.0,6-0,190.0,Washington St.,K,16,0.0,19.0,3.0,Lions,2011
+43.0,Chris Harris,8/6/1982,29.0,6-0,211.0,La-Monroe,FS,8,5.0,6.0,2.0,Lions,2011
+36.0,Jerome Harrison,2/26/1983,28.0,5-9,205.0,Washington St.,RB,4,0.0,5.0,0.0,Lions,2011
+95.0,Jovan Haye,6/21/1982,29.0,6-2,277.0,Vanderbilt,DT,1,0.0,6.0,0.0,Lions,2011
+89.0,Will Heller,2/28/1981,30.0,6-6,275.0,Georgia Tech,TE,16,7.0,8.0,0.0,Lions,2011
+91.0,Sammie Lee Hill,11/8/1986,25.0,6-4,331.0,Stillman,DT,16,3.0,2.0,3.0,Lions,2011
+14.0,Shaun Hill,1/9/1980,31.0,6-3,230.0,Maryland,QB,2,0.0,6.0,0.0,Lions,2011
+78.0,Corey Hilliard,4/26/1985,26.0,6-5,315.0,Oklahoma St.,T,16,1.0,4.0,2.0,Lions,2011
+57.0,Doug Hogue,2/1/1989,22.0,6-2,235.0,Syracuse,LB,13,0.0,0.0,1.0,Lions,2011
+23.0,Chris Houston,10/18/1984,27.0,5-10,185.0,Arkansas,LCB,14,13.0,4.0,7.0,Lions,2011
+94.0,Lawrence Jackson,8/30/1985,26.0,6-5,261.0,USC,DE,11,0.0,3.0,2.0,Lions,2011
+81.0,Calvin Johnson,9/29/1985,26.0,6-5,237.0,Georgia Tech,WR,16,16.0,4.0,15.0,Lions,2011
+54.0,DeAndre Levy,3/26/1987,24.0,6-2,230.0,Wisconsin,RLB,16,16.0,2.0,8.0,Lions,2011
+11.0,Stefan Logan,6/2/1981,30.0,5-7,177.0,South Dakota,RB,16,1.0,2.0,0.0,Lions,2011
+30.0,Anthony Madison,10/8/1981,30.0,5-9,180.0,Alabama,DB,5,0.0,5.0,0.0,Lions,2011
+2.0,Robert Malone,2/4/1988,23.0,6-2,215.0,Fresno St.,P,1,0.0,1.0,0.0,Lions,2011
+33.0,Brandon McDonald,8/26/1985,26.0,5-11,181.0,Memphis,DB,13,0.0,4.0,1.0,Lions,2011
+28.0,Maurice Morris,12/1/1979,32.0,5-11,216.0,Oregon,RB,16,5.0,9.0,4.0,Lions,2011
+48.0,Don Muhlbach,8/17/1981,30.0,6-4,258.0,Texas A&M,LS,16,0.0,7.0,3.0,Lions,2011
+58.0,Ashlee Palmer,4/7/1986,25.0,6-1,223.0,Mississippi,LB,16,0.0,2.0,1.0,Lions,2011
+66.0,Stephen Peterman,1/11/1982,29.0,6-4,323.0,LSU,RG,16,16.0,6.0,9.0,Lions,2011
+87.0,Brandon Pettigrew,2/23/1985,26.0,6-5,257.0,Oklahoma St.,TE,16,16.0,2.0,7.0,Lions,2011
+51.0,Dominic Raiola,12/30/1978,33.0,6-1,295.0,Nebraska,C,16,16.0,10.0,9.0,Lions,2011
+85.0,Tony Scheffler,2/15/1983,28.0,6-5,255.0,Western Michigan,TE,15,5.0,5.0,3.0,Lions,2011
+39.0,Ricardo Silva,5/9/1988,23.0,6-3,225.0,Hampton,DB,4,0.0,0.0,0.0,Lions,2011
+67.0,Rob Sims,12/6/1983,28.0,6-3,312.0,Ohio St.,LG,16,16.0,5.0,9.0,Lions,2011
+27.0,Alphonso Smith,10/20/1985,26.0,5-9,193.0,Wake Forest,DB,11,1.0,2.0,2.0,Lions,2011
+30.0,Kevin Smith,12/17/1986,25.0,6-0,210.0,Central Florida,RB,7,4.0,3.0,4.0,Lions,2011
+42.0,Amari Spievey,4/15/1988,23.0,6-0,190.0,Iowa,SS,15,15.0,1.0,7.0,Lions,2011
+9.0,Matthew Stafford,2/7/1988,23.0,6-3,220.0,Georgia,QB,16,16.0,2.0,16.0,Lions,2011
+80.0,Maurice Stovall,2/21/1985,26.0,6-5,220.0,Notre Dame,WR,15,0.0,5.0,0.0,Lions,2011
+90.0,Ndamukong Suh,1/6/1987,24.0,6-4,313.0,Nebraska,LDT,14,14.0,1.0,6.0,Lions,2011
+55.0,Stephen Tulloch,1/1/1985,26.0,5-11,245.0,North Carolina St.,MLB,16,16.0,5.0,9.0,Lions,2011
+93.0,Kyle Vanden Bosch,11/17/1978,33.0,6-4,278.0,Nebraska,RDE,16,16.0,10.0,8.0,Lions,2011
+29.0,John Wendling,6/4/1983,28.0,6-1,222.0,Wyoming,DB,16,1.0,4.0,1.0,Lions,2011
+99.0,Corey Williams,8/17/1980,31.0,6-4,320.0,Arkansas St.,RDT,15,15.0,7.0,6.0,Lions,2011
+34.0,Keiland Williams,8/14/1986,25.0,5-11,225.0,LSU,RB,15,0.0,1.0,2.0,Lions,2011
+21.0,Eric Wright,7/24/1985,26.0,5-11,192.0,UNLV,RCB,16,16.0,4.0,7.0,Lions,2011
+16.0,Titus Young,8/21/1989,22.0,5-11,175.0,Boise St.,WR,16,9.0,0.0,5.0,Lions,2011
+79.0,Willie Young,9/19/1985,26.0,6-5,251.0,North Carolina St.,DE,14,0.0,1.0,1.0,Lions,2011
+,Team Total,,27.3,6-1.5,236.6,,,16,,4.2,,Lions,2011

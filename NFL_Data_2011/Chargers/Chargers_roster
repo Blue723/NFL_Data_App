@@ -1,65 +1,65 @@
-,No.,Player,BirthDate,Age,Height,Weight,College/University,Position,Games_Played_in_Season,Games_Started_in_Season,NFL_Years,Player_Value,Team,Year
-0,98.0,Antwan Barnes,10/19/1984,27.0,6-1,240.0,Florida International,LOLB,16,5.0,4.0,3.0,Chargers,2011
-1,64.0,Colin Baxter,7/31/1987,24.0,6-3,311.0,Arizona,C,5,0.0,0.0,0.0,Chargers,2011
-2,97.0,Bront Bird,3/17/1989,22.0,6-4,248.0,Texas Tech,LB,9,0.0,0.0,1.0,Chargers,2011
-3,44.0,Curtis Brinkley,9/20/1985,26.0,5-9,208.0,Syracuse,RB,10,1.0,1.0,1.0,Chargers,2011
-4,91.0,Everette Brown,8/7/1987,24.0,6-4,250.0,Florida St.,DE,3,0.0,2.0,0.0,Chargers,2011
-5,86.0,Vincent Brown,1/25/1989,22.0,5-11,184.0,San Diego St.,WR,14,4.0,0.0,3.0,Chargers,2011
-6,56.0,Donald Butler,10/17/1988,23.0,6-1,244.0,Washington,RILB,16,16.0,0.0,7.0,Chargers,2011
-7,20.0,Antoine Cason,7/9/1986,25.0,6-0,190.0,Arizona,RCB,16,14.0,3.0,5.0,Chargers,2011
-8,93.0,Luis Castillo,8/4/1983,28.0,6-3,290.0,Northwestern,DE,1,1.0,6.0,0.0,Chargers,2011
-9,74.0,Jacques Cesaire,8/30/1980,31.0,6-2,295.0,Southern Connecticut St.,DE,12,2.0,8.0,1.0,Chargers,2011
-10,66.0,Jeromey Clary,11/5/1983,28.0,6-6,320.0,Kansas St.,RT,16,16.0,4.0,9.0,Chargers,2011
-11,54.0,Stephen Cooper,6/19/1979,32.0,6-1,235.0,Maine,LB,5,0.0,8.0,0.0,Chargers,2011
-12,12.0,Patrick Crayton,4/7/1979,32.0,6-0,205.0,NW Oklahoma St.,WR,14,1.0,7.0,3.0,Chargers,2011
-13,68.0,Kris Dielman,2/3/1981,30.0,6-4,320.0,Indiana,LG,6,6.0,8.0,4.0,Chargers,2011
-14,58.0,Na'il Diggs,7/8/1978,33.0,6-4,240.0,Ohio St.,LB,13,0.0,11.0,1.0,Chargers,2011
-15,62.0,Brandyn Dombrowski,4/3/1985,26.0,6-5,323.0,San Diego St.,G,15,2.0,2.0,2.0,Chargers,2011
-16,52.0,Larry English,1/22/1986,25.0,6-2,254.0,Northern Illinois,DE,5,0.0,2.0,0.0,Chargers,2011
-17,80.0,Malcom Floyd,9/8/1981,30.0,6-5,225.0,Wyoming,WR,12,9.0,7.0,9.0,Chargers,2011
-18,59.0,Andrew Gachkar,11/4/1988,23.0,6-2,224.0,Missouri,LB,16,0.0,0.0,1.0,Chargers,2011
-19,78.0,Jared Gaither,3/18/1986,25.0,6-9,350.0,Maryland,LT,5,5.0,4.0,4.0,Chargers,2011
-20,53.0,Darryl Gamble,11/17/1987,24.0,6-2,250.0,Georgia,LB,5,0.0,0.0,0.0,Chargers,2011
-21,71.0,Antonio Garay,11/30/1979,32.0,6-4,320.0,Boston Col.,NT,16,13.0,8.0,5.0,Chargers,2011
-22,85.0,Antonio Gates,6/18/1980,31.0,6-4,255.0,Kent St.,TE,13,13.0,8.0,8.0,Chargers,2011
-23,38.0,Marcus Gilchrist,12/8/1988,23.0,5-10,200.0,Clemson,DB,14,4.0,0.0,3.0,Chargers,2011
-24,15.0,Richard Goodman,4/23/1987,24.0,6-0,192.0,Florida St.,WR,16,0.0,1.0,1.0,Chargers,2011
-25,69.0,Tyronne Green,4/6/1986,25.0,6-1,305.0,Auburn,LG,13,8.0,2.0,5.0,Chargers,2011
-26,28.0,Steve Gregory,1/8/1983,28.0,5-11,200.0,Syracuse,SS,15,13.0,5.0,5.0,Chargers,2011
-27,61.0,Nick Hardwick,9/2/1981,30.0,6-4,305.0,Purdue,C,16,16.0,7.0,9.0,Chargers,2011
-28,90.0,Tommie Harris,4/29/1983,28.0,6-3,295.0,Oklahoma,DT,13,1.0,7.0,1.0,Chargers,2011
-29,22.0,Jacob Hester,5/8/1985,26.0,5-11,230.0,LSU,RB,16,3.0,3.0,1.0,Chargers,2011
-30,33.0,Dante Hughes,8/21/1985,26.0,5-10,190.0,California,DB,16,1.0,4.0,1.0,Chargers,2011
-31,83.0,Vincent Jackson,1/14/1983,28.0,6-5,230.0,Northern Colorado,WR,16,16.0,6.0,12.0,Chargers,2011
-32,23.0,Quentin Jammer,6/19/1979,32.0,6-0,204.0,Texas,LCB,15,15.0,9.0,5.0,Chargers,2011
-33,10.0,Nate Kaeding,3/26/1982,29.0,6-0,187.0,Iowa,K,1,0.0,7.0,0.0,Chargers,2011
-34,99.0,Travis LaBoy,8/20/1981,30.0,6-3,250.0,"Utah St.,Hawaii",ROLB,14,14.0,7.0,5.0,Chargers,2011
-35,94.0,Corey Liuget,3/18/1990,21.0,6-2,300.0,Illinois,RDE,15,13.0,0.0,5.0,Chargers,2011
-36,92.0,Vaughn Martin,4/18/1986,25.0,6-3,331.0,Western Ontario,LDE,16,15.0,2.0,5.0,Chargers,2011
-37,24.0,Ryan Mathews,10/10/1987,24.0,6-0,220.0,Fresno St.,RB,14,14.0,1.0,13.0,Chargers,2011
-38,81.0,Randy McMichael,6/28/1979,32.0,6-3,248.0,Georgia,TE,16,14.0,9.0,3.0,Chargers,2011
-39,73.0,Marcus McNeill,11/16/1983,28.0,6-7,336.0,Auburn,LT,9,9.0,5.0,5.0,Chargers,2011
-40,75.0,Tony Moll,8/23/1983,28.0,6-5,315.0,Nevada,T,3,1.0,5.0,1.0,Chargers,2011
-41,63.0,Scott Mruczkowski,4/5/1982,29.0,6-5,310.0,Bowling Green,C,10,1.0,6.0,1.0,Chargers,2011
-42,60.0,Ikechuku Ndukwe,7/17/1982,29.0,6-4,338.0,Northwestern,G,2,0.0,5.0,0.0,Chargers,2011
-43,9.0,Nick Novak,8/21/1981,30.0,6-0,200.0,Maryland,K,15,0.0,6.0,3.0,Chargers,2011
-44,91.0,Ogemdi Nwagbuo,12/24/1985,26.0,6-4,300.0,Michigan St.,DT,4,0.0,2.0,0.0,Chargers,2011
-45,27.0,Paul Oliver,3/30/1984,27.0,6-0,208.0,Georgia,DB,13,1.0,3.0,1.0,Chargers,2011
-46,95.0,Shaun Phillips,5/13/1981,30.0,6-3,255.0,Purdue,LOLB,12,12.0,7.0,4.0,Chargers,2011
-47,17.0,Philip Rivers,12/8/1981,30.0,6-5,228.0,North Carolina St.,QB,16,16.0,7.0,17.0,Chargers,2011
-48,31.0,Bob Sanders,2/24/1981,30.0,5-8,206.0,Iowa,DB,2,2.0,7.0,1.0,Chargers,2011
-49,70.0,Stephen Schilling,7/21/1988,23.0,6-4,308.0,Michigan,G,9,2.0,0.0,2.0,Chargers,2011
-50,5.0,Mike Scifres,10/8/1980,31.0,6-2,215.0,Western Illinois,P,16,0.0,8.0,3.0,Chargers,2011
-51,82.0,Kory Sperry,4/10/1985,26.0,6-4,242.0,Colorado St.,TE,16,4.0,2.0,0.0,Chargers,2011
-52,51.0,Takeo Spikes,12/17/1976,35.0,6-2,242.0,Auburn,LILB,16,16.0,13.0,6.0,Chargers,2011
-53,25.0,Darrell Stuckey,6/16/1987,24.0,5-11,212.0,Kansas,DB,14,0.0,1.0,1.0,Chargers,2011
-54,76.0,Cam Thomas,12/12/1986,25.0,6-3,330.0,North Carolina,DT,16,2.0,1.0,2.0,Chargers,2011
-55,35.0,Mike Tolbert,11/23/1985,26.0,5-9,243.0,Coastal Carolina,RB,15,1.0,3.0,8.0,Chargers,2011
-56,65.0,Louis Vasquez,4/11/1987,24.0,6-4,330.0,Texas Tech,RG,14,14.0,2.0,8.0,Chargers,2011
-57,7.0,Billy Volek,4/28/1976,35.0,6-2,214.0,Fresno St.,QB,2,0.0,10.0,0.0,Chargers,2011
-58,26.0,C.J. Wallace,4/17/1985,26.0,6-0,218.0,Washington,DB,1,0.0,4.0,0.0,Chargers,2011
-59,13.0,Bryan Walters,11/4/1987,24.0,6-0,190.0,Cornell,WR,4,0.0,0.0,0.0,Chargers,2011
-60,32.0,Eric Weddle,1/4/1985,26.0,5-11,195.0,Utah,FS,16,16.0,4.0,13.0,Chargers,2011
-61,47.0,Mike Windt,5/29/1986,25.0,6-1,237.0,Cincinnati,LS,16,0.0,1.0,1.0,Chargers,2011
-62,29.0,Shareece Wright,4/8/1987,24.0,5-11,184.0,USC,DB,7,0.0,0.0,0.0,Chargers,2011
-63,,Team Total,,27.2,6-2.0,252.8,,,16,,4.2,,Chargers,2011
+No.,Player,BirthDate,Age,Height,Weight,College/University,Position,Games_Played_in_Season,Games_Started_in_Season,NFL_Years,Player_Value,Team,Year
+98.0,Antwan Barnes,10/19/1984,27.0,6-1,240.0,Florida International,LOLB,16,5.0,4.0,3.0,Chargers,2011
+64.0,Colin Baxter,7/31/1987,24.0,6-3,311.0,Arizona,C,5,0.0,0.0,0.0,Chargers,2011
+97.0,Bront Bird,3/17/1989,22.0,6-4,248.0,Texas Tech,LB,9,0.0,0.0,1.0,Chargers,2011
+44.0,Curtis Brinkley,9/20/1985,26.0,5-9,208.0,Syracuse,RB,10,1.0,1.0,1.0,Chargers,2011
+91.0,Everette Brown,8/7/1987,24.0,6-4,250.0,Florida St.,DE,3,0.0,2.0,0.0,Chargers,2011
+86.0,Vincent Brown,1/25/1989,22.0,5-11,184.0,San Diego St.,WR,14,4.0,0.0,3.0,Chargers,2011
+56.0,Donald Butler,10/17/1988,23.0,6-1,244.0,Washington,RILB,16,16.0,0.0,7.0,Chargers,2011
+20.0,Antoine Cason,7/9/1986,25.0,6-0,190.0,Arizona,RCB,16,14.0,3.0,5.0,Chargers,2011
+93.0,Luis Castillo,8/4/1983,28.0,6-3,290.0,Northwestern,DE,1,1.0,6.0,0.0,Chargers,2011
+74.0,Jacques Cesaire,8/30/1980,31.0,6-2,295.0,Southern Connecticut St.,DE,12,2.0,8.0,1.0,Chargers,2011
+66.0,Jeromey Clary,11/5/1983,28.0,6-6,320.0,Kansas St.,RT,16,16.0,4.0,9.0,Chargers,2011
+54.0,Stephen Cooper,6/19/1979,32.0,6-1,235.0,Maine,LB,5,0.0,8.0,0.0,Chargers,2011
+12.0,Patrick Crayton,4/7/1979,32.0,6-0,205.0,NW Oklahoma St.,WR,14,1.0,7.0,3.0,Chargers,2011
+68.0,Kris Dielman,2/3/1981,30.0,6-4,320.0,Indiana,LG,6,6.0,8.0,4.0,Chargers,2011
+58.0,Na'il Diggs,7/8/1978,33.0,6-4,240.0,Ohio St.,LB,13,0.0,11.0,1.0,Chargers,2011
+62.0,Brandyn Dombrowski,4/3/1985,26.0,6-5,323.0,San Diego St.,G,15,2.0,2.0,2.0,Chargers,2011
+52.0,Larry English,1/22/1986,25.0,6-2,254.0,Northern Illinois,DE,5,0.0,2.0,0.0,Chargers,2011
+80.0,Malcom Floyd,9/8/1981,30.0,6-5,225.0,Wyoming,WR,12,9.0,7.0,9.0,Chargers,2011
+59.0,Andrew Gachkar,11/4/1988,23.0,6-2,224.0,Missouri,LB,16,0.0,0.0,1.0,Chargers,2011
+78.0,Jared Gaither,3/18/1986,25.0,6-9,350.0,Maryland,LT,5,5.0,4.0,4.0,Chargers,2011
+53.0,Darryl Gamble,11/17/1987,24.0,6-2,250.0,Georgia,LB,5,0.0,0.0,0.0,Chargers,2011
+71.0,Antonio Garay,11/30/1979,32.0,6-4,320.0,Boston Col.,NT,16,13.0,8.0,5.0,Chargers,2011
+85.0,Antonio Gates,6/18/1980,31.0,6-4,255.0,Kent St.,TE,13,13.0,8.0,8.0,Chargers,2011
+38.0,Marcus Gilchrist,12/8/1988,23.0,5-10,200.0,Clemson,DB,14,4.0,0.0,3.0,Chargers,2011
+15.0,Richard Goodman,4/23/1987,24.0,6-0,192.0,Florida St.,WR,16,0.0,1.0,1.0,Chargers,2011
+69.0,Tyronne Green,4/6/1986,25.0,6-1,305.0,Auburn,LG,13,8.0,2.0,5.0,Chargers,2011
+28.0,Steve Gregory,1/8/1983,28.0,5-11,200.0,Syracuse,SS,15,13.0,5.0,5.0,Chargers,2011
+61.0,Nick Hardwick,9/2/1981,30.0,6-4,305.0,Purdue,C,16,16.0,7.0,9.0,Chargers,2011
+90.0,Tommie Harris,4/29/1983,28.0,6-3,295.0,Oklahoma,DT,13,1.0,7.0,1.0,Chargers,2011
+22.0,Jacob Hester,5/8/1985,26.0,5-11,230.0,LSU,RB,16,3.0,3.0,1.0,Chargers,2011
+33.0,Dante Hughes,8/21/1985,26.0,5-10,190.0,California,DB,16,1.0,4.0,1.0,Chargers,2011
+83.0,Vincent Jackson,1/14/1983,28.0,6-5,230.0,Northern Colorado,WR,16,16.0,6.0,12.0,Chargers,2011
+23.0,Quentin Jammer,6/19/1979,32.0,6-0,204.0,Texas,LCB,15,15.0,9.0,5.0,Chargers,2011
+10.0,Nate Kaeding,3/26/1982,29.0,6-0,187.0,Iowa,K,1,0.0,7.0,0.0,Chargers,2011
+99.0,Travis LaBoy,8/20/1981,30.0,6-3,250.0,"Utah St.,Hawaii",ROLB,14,14.0,7.0,5.0,Chargers,2011
+94.0,Corey Liuget,3/18/1990,21.0,6-2,300.0,Illinois,RDE,15,13.0,0.0,5.0,Chargers,2011
+92.0,Vaughn Martin,4/18/1986,25.0,6-3,331.0,Western Ontario,LDE,16,15.0,2.0,5.0,Chargers,2011
+24.0,Ryan Mathews,10/10/1987,24.0,6-0,220.0,Fresno St.,RB,14,14.0,1.0,13.0,Chargers,2011
+81.0,Randy McMichael,6/28/1979,32.0,6-3,248.0,Georgia,TE,16,14.0,9.0,3.0,Chargers,2011
+73.0,Marcus McNeill,11/16/1983,28.0,6-7,336.0,Auburn,LT,9,9.0,5.0,5.0,Chargers,2011
+75.0,Tony Moll,8/23/1983,28.0,6-5,315.0,Nevada,T,3,1.0,5.0,1.0,Chargers,2011
+63.0,Scott Mruczkowski,4/5/1982,29.0,6-5,310.0,Bowling Green,C,10,1.0,6.0,1.0,Chargers,2011
+60.0,Ikechuku Ndukwe,7/17/1982,29.0,6-4,338.0,Northwestern,G,2,0.0,5.0,0.0,Chargers,2011
+9.0,Nick Novak,8/21/1981,30.0,6-0,200.0,Maryland,K,15,0.0,6.0,3.0,Chargers,2011
+91.0,Ogemdi Nwagbuo,12/24/1985,26.0,6-4,300.0,Michigan St.,DT,4,0.0,2.0,0.0,Chargers,2011
+27.0,Paul Oliver,3/30/1984,27.0,6-0,208.0,Georgia,DB,13,1.0,3.0,1.0,Chargers,2011
+95.0,Shaun Phillips,5/13/1981,30.0,6-3,255.0,Purdue,LOLB,12,12.0,7.0,4.0,Chargers,2011
+17.0,Philip Rivers,12/8/1981,30.0,6-5,228.0,North Carolina St.,QB,16,16.0,7.0,17.0,Chargers,2011
+31.0,Bob Sanders,2/24/1981,30.0,5-8,206.0,Iowa,DB,2,2.0,7.0,1.0,Chargers,2011
+70.0,Stephen Schilling,7/21/1988,23.0,6-4,308.0,Michigan,G,9,2.0,0.0,2.0,Chargers,2011
+5.0,Mike Scifres,10/8/1980,31.0,6-2,215.0,Western Illinois,P,16,0.0,8.0,3.0,Chargers,2011
+82.0,Kory Sperry,4/10/1985,26.0,6-4,242.0,Colorado St.,TE,16,4.0,2.0,0.0,Chargers,2011
+51.0,Takeo Spikes,12/17/1976,35.0,6-2,242.0,Auburn,LILB,16,16.0,13.0,6.0,Chargers,2011
+25.0,Darrell Stuckey,6/16/1987,24.0,5-11,212.0,Kansas,DB,14,0.0,1.0,1.0,Chargers,2011
+76.0,Cam Thomas,12/12/1986,25.0,6-3,330.0,North Carolina,DT,16,2.0,1.0,2.0,Chargers,2011
+35.0,Mike Tolbert,11/23/1985,26.0,5-9,243.0,Coastal Carolina,RB,15,1.0,3.0,8.0,Chargers,2011
+65.0,Louis Vasquez,4/11/1987,24.0,6-4,330.0,Texas Tech,RG,14,14.0,2.0,8.0,Chargers,2011
+7.0,Billy Volek,4/28/1976,35.0,6-2,214.0,Fresno St.,QB,2,0.0,10.0,0.0,Chargers,2011
+26.0,C.J. Wallace,4/17/1985,26.0,6-0,218.0,Washington,DB,1,0.0,4.0,0.0,Chargers,2011
+13.0,Bryan Walters,11/4/1987,24.0,6-0,190.0,Cornell,WR,4,0.0,0.0,0.0,Chargers,2011
+32.0,Eric Weddle,1/4/1985,26.0,5-11,195.0,Utah,FS,16,16.0,4.0,13.0,Chargers,2011
+47.0,Mike Windt,5/29/1986,25.0,6-1,237.0,Cincinnati,LS,16,0.0,1.0,1.0,Chargers,2011
+29.0,Shareece Wright,4/8/1987,24.0,5-11,184.0,USC,DB,7,0.0,0.0,0.0,Chargers,2011
+,Team Total,,27.2,6-2.0,252.8,,,16,,4.2,,Chargers,2011

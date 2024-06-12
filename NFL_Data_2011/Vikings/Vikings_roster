@@ -1,61 +1,61 @@
-,No.,Player,BirthDate,Age,Height,Weight,College/University,Position,Games_Played_in_Season,Games_Started_in_Season,NFL_Years,Player_Value,Team,Year
-0,39.0,Husain Abdullah,7/27/1985,26.0,6-0,204.0,Washington St.,FS,9,9.0,3.0,2.0,Vikings,2011
-1,57.0,Xavier Adibi,10/18/1984,27.0,6-2,220.0,Virginia Tech,LB,4,0.0,3.0,0.0,Vikings,2011
-2,21.0,Asher Allen,1/22/1988,23.0,5-10,190.0,Georgia,LCB,12,9.0,2.0,2.0,Vikings,2011
-3,69.0,Jared Allen,4/3/1982,29.0,6-6,270.0,Idaho St.,RDE,16,16.0,7.0,14.0,Vikings,2011
-4,16.0,Emmanuel Arceneaux,9/17/1987,24.0,6-2,215.0,Alcorn St.,WR,3,0.0,0.0,0.0,Vikings,2011
-5,19.0,Devin Aromashodu,5/23/1984,27.0,6-2,201.0,Auburn,WR,16,6.0,4.0,4.0,Vikings,2011
-6,67.0,Adrian Awasom,10/25/1983,28.0,6-5,280.0,North Texas,DE,1,0.0,6.0,0.0,Vikings,2011
-7,92.0,Remi Ayodele,4/22/1983,28.0,6-2,318.0,Oklahoma,LDT,16,13.0,4.0,4.0,Vikings,2011
-8,99.0,Christian Ballard,1/3/1989,22.0,6-4,298.0,Iowa,DT,16,2.0,0.0,1.0,Vikings,2011
-9,61.0,Joe Berger,5/25/1982,29.0,6-5,305.0,Michigan Tech,RG,13,7.0,6.0,4.0,Vikings,2011
-10,87.0,Bernard Berrian,12/27/1980,31.0,6-1,185.0,Fresno St.,WR,5,1.0,7.0,1.0,Vikings,2011
-11,27.0,Lorenzo Booker,6/14/1984,27.0,5-11,191.0,Florida St.,RB,15,0.0,4.0,1.0,Vikings,2011
-12,79.0,Patrick Brown,12/25/1986,25.0,6-5,292.0,Central Florida,T,16,0.0,0.0,1.0,Vikings,2011
-13,36.0,Brandon Burton,7/31/1989,22.0,6-0,185.0,Utah,DB,10,1.0,0.0,1.0,Vikings,2011
-14,86.0,Stephen Burton,12/11/1989,22.0,6-2,221.0,"Long Beach CC,West Texas A&M",WR,3,0.0,0.0,0.0,Vikings,2011
-15,85.0,Greg Camarillo,4/18/1982,29.0,6-2,200.0,Stanford,WR,13,0.0,5.0,1.0,Vikings,2011
-16,31.0,Chris Cook,2/15/1987,24.0,6-2,200.0,Virginia,DB,6,3.0,1.0,1.0,Vikings,2011
-17,44.0,Ryan D'Imperio,8/15/1987,24.0,6-2,241.0,Rutgers,LB,12,1.0,0.0,0.0,Vikings,2011
-18,51.0,Larry Dean,8/7/1988,23.0,6-0,216.0,Valdosta St.,LB,16,0.0,0.0,1.0,Vikings,2011
-19,90.0,Fred Evans,11/6/1983,28.0,6-4,305.0,Texas St.,DT,16,0.0,5.0,1.0,Vikings,2011
-20,37.0,Eric Frampton,2/6/1984,27.0,5-11,204.0,Washington St.,DB,16,0.0,4.0,1.0,Vikings,2011
-21,63.0,Brandon Fusco,7/26/1988,23.0,6-4,306.0,Slippery Rock,G,3,0.0,0.0,0.0,Vikings,2011
-22,32.0,Toby Gerhart,3/28/1987,24.0,6-0,234.0,Stanford,RB,16,5.0,1.0,5.0,Vikings,2011
-23,52.0,Chad Greenway,1/12/1983,28.0,6-3,237.0,Iowa,LLB,16,16.0,4.0,8.0,Vikings,2011
-24,97.0,Everson Griffen,12/22/1987,24.0,6-3,273.0,USC,DE,16,0.0,1.0,2.0,Vikings,2011
-25,23.0,Cedric Griffin,11/11/1982,29.0,6-0,195.0,Texas,RCB,16,14.0,5.0,3.0,Vikings,2011
-26,98.0,Letroy Guion,6/21/1987,24.0,6-4,295.0,Florida St.,DT,16,3.0,3.0,2.0,Vikings,2011
-27,12.0,Percy Harvin,5/28/1988,23.0,5-11,200.0,Florida,WR,16,14.0,2.0,12.0,Vikings,2011
-28,56.0,E.J. Henderson,8/3/1980,31.0,6-1,245.0,Maryland,MLB,16,14.0,8.0,6.0,Vikings,2011
-29,50.0,Erin Henderson,7/1/1986,25.0,6-3,242.0,Maryland,RLB,15,11.0,3.0,4.0,Vikings,2011
-30,64.0,Anthony Herrera,6/14/1980,31.0,6-2,315.0,Tennessee,RG,12,12.0,6.0,6.0,Vikings,2011
-31,76.0,Steve Hutchinson,11/1/1977,34.0,6-5,313.0,Michigan,LG,14,14.0,10.0,7.0,Vikings,2011
-32,84.0,Michael Jenkins,6/18/1982,29.0,6-4,214.0,Ohio St.,WR,11,7.0,7.0,4.0,Vikings,2011
-33,74.0,Charlie Johnson,5/2/1984,27.0,6-4,305.0,Oklahoma St.,LT,16,16.0,5.0,8.0,Vikings,2011
-34,25.0,Tyrell Johnson,5/19/1985,26.0,5-11,200.0,Arkansas St.,DB,11,3.0,3.0,1.0,Vikings,2011
-35,48.0,Matt Katula,8/22/1982,29.0,6-6,265.0,Wisconsin,LS,5,0.0,6.0,1.0,Vikings,2011
-36,40.0,Jim Kleinsasser,1/31/1977,34.0,6-3,272.0,North Dakota,TE,16,11.0,12.0,0.0,Vikings,2011
-37,4.0,Chris Kluwe,12/24/1981,30.0,6-4,210.0,UCLA,P,16,0.0,6.0,2.0,Vikings,2011
-38,71.0,Phil Loadholt,1/21/1986,25.0,6-8,343.0,Oklahoma,RT,16,16.0,2.0,8.0,Vikings,2011
-39,46.0,Cullen Loeffler,1/27/1981,30.0,6-5,247.0,Texas,LS,11,0.0,7.0,1.0,Vikings,2011
-40,8.0,Ryan Longwell,8/16/1974,37.0,6-0,200.0,California,K,16,0.0,14.0,2.0,Vikings,2011
-41,5.0,Donovan McNabb,11/25/1976,35.0,6-2,240.0,Syracuse,QB,6,6.0,12.0,4.0,Vikings,2011
-42,55.0,Kenny Onatolu,10/8/1982,29.0,6-1,235.0,Nebraska-Omaha,LB,16,1.0,2.0,1.0,Vikings,2011
-43,24.0,Jarrad Page,10/19/1984,27.0,6-0,225.0,UCLA,DB,5,0.0,5.0,0.0,Vikings,2011
-44,28.0,Adrian Peterson,3/21/1985,26.0,6-1,220.0,Oklahoma,RB,12,12.0,4.0,8.0,Vikings,2011
-45,7.0,Christian Ponder,2/25/1988,23.0,6-2,222.0,Florida St.,QB,11,10.0,0.0,5.0,Vikings,2011
-46,41.0,Mistral Raymond,9/7/1987,24.0,6-1,191.0,South Florida,FS,10,5.0,0.0,2.0,Vikings,2011
-47,89.0,Allen Reisner,9/29/1988,23.0,6-3,255.0,Iowa,TE,6,0.0,0.0,0.0,Vikings,2011
-48,96.0,Brian Robison,4/27/1983,28.0,6-3,259.0,Texas,LDE,16,16.0,4.0,6.0,Vikings,2011
-49,82.0,Kyle Rudolph,11/9/1989,22.0,6-6,265.0,Notre Dame,TE,15,8.0,0.0,2.0,Vikings,2011
-50,33.0,Jamarca Sanford,8/27/1985,26.0,5-10,200.0,Mississippi,SS,15,15.0,2.0,4.0,Vikings,2011
-51,22.0,Benny Sapp,1/20/1981,30.0,5-10,190.0,"Iowa,Northern Iowa",DB,7,3.0,7.0,1.0,Vikings,2011
-52,34.0,Andrew Sendejo,9/9/1987,24.0,6-1,210.0,Rice,DB,3,0.0,1.0,0.0,Vikings,2011
-53,35.0,Marcus Sherels,9/30/1987,24.0,5-10,175.0,Minnesota,DB,16,3.0,1.0,1.0,Vikings,2011
-54,81.0,Visanthe Shiancoe,6/18/1980,31.0,6-4,250.0,Morgan St.,TE,16,14.0,8.0,4.0,Vikings,2011
-55,65.0,John Sullivan,8/8/1985,26.0,6-4,312.0,Notre Dame,C,15,15.0,3.0,8.0,Vikings,2011
-56,14.0,Joe Webb,11/14/1986,25.0,6-4,231.0,Ala-Birmingham,QB,11,1.0,1.0,2.0,Vikings,2011
-57,93.0,Kevin Williams,8/16/1980,31.0,6-5,311.0,Oklahoma St.,RDT,14,14.0,8.0,5.0,Vikings,2011
-58,26.0,Antoine Winfield,6/24/1977,34.0,5-9,180.0,Ohio St.,LCB,5,5.0,12.0,1.0,Vikings,2011
-59,,Team Total,,27.1,6-2.2,241.1,,,16,,4.0,,Vikings,2011
+No.,Player,BirthDate,Age,Height,Weight,College/University,Position,Games_Played_in_Season,Games_Started_in_Season,NFL_Years,Player_Value,Team,Year
+39.0,Husain Abdullah,7/27/1985,26.0,6-0,204.0,Washington St.,FS,9,9.0,3.0,2.0,Vikings,2011
+57.0,Xavier Adibi,10/18/1984,27.0,6-2,220.0,Virginia Tech,LB,4,0.0,3.0,0.0,Vikings,2011
+21.0,Asher Allen,1/22/1988,23.0,5-10,190.0,Georgia,LCB,12,9.0,2.0,2.0,Vikings,2011
+69.0,Jared Allen,4/3/1982,29.0,6-6,270.0,Idaho St.,RDE,16,16.0,7.0,14.0,Vikings,2011
+16.0,Emmanuel Arceneaux,9/17/1987,24.0,6-2,215.0,Alcorn St.,WR,3,0.0,0.0,0.0,Vikings,2011
+19.0,Devin Aromashodu,5/23/1984,27.0,6-2,201.0,Auburn,WR,16,6.0,4.0,4.0,Vikings,2011
+67.0,Adrian Awasom,10/25/1983,28.0,6-5,280.0,North Texas,DE,1,0.0,6.0,0.0,Vikings,2011
+92.0,Remi Ayodele,4/22/1983,28.0,6-2,318.0,Oklahoma,LDT,16,13.0,4.0,4.0,Vikings,2011
+99.0,Christian Ballard,1/3/1989,22.0,6-4,298.0,Iowa,DT,16,2.0,0.0,1.0,Vikings,2011
+61.0,Joe Berger,5/25/1982,29.0,6-5,305.0,Michigan Tech,RG,13,7.0,6.0,4.0,Vikings,2011
+87.0,Bernard Berrian,12/27/1980,31.0,6-1,185.0,Fresno St.,WR,5,1.0,7.0,1.0,Vikings,2011
+27.0,Lorenzo Booker,6/14/1984,27.0,5-11,191.0,Florida St.,RB,15,0.0,4.0,1.0,Vikings,2011
+79.0,Patrick Brown,12/25/1986,25.0,6-5,292.0,Central Florida,T,16,0.0,0.0,1.0,Vikings,2011
+36.0,Brandon Burton,7/31/1989,22.0,6-0,185.0,Utah,DB,10,1.0,0.0,1.0,Vikings,2011
+86.0,Stephen Burton,12/11/1989,22.0,6-2,221.0,"Long Beach CC,West Texas A&M",WR,3,0.0,0.0,0.0,Vikings,2011
+85.0,Greg Camarillo,4/18/1982,29.0,6-2,200.0,Stanford,WR,13,0.0,5.0,1.0,Vikings,2011
+31.0,Chris Cook,2/15/1987,24.0,6-2,200.0,Virginia,DB,6,3.0,1.0,1.0,Vikings,2011
+44.0,Ryan D'Imperio,8/15/1987,24.0,6-2,241.0,Rutgers,LB,12,1.0,0.0,0.0,Vikings,2011
+51.0,Larry Dean,8/7/1988,23.0,6-0,216.0,Valdosta St.,LB,16,0.0,0.0,1.0,Vikings,2011
+90.0,Fred Evans,11/6/1983,28.0,6-4,305.0,Texas St.,DT,16,0.0,5.0,1.0,Vikings,2011
+37.0,Eric Frampton,2/6/1984,27.0,5-11,204.0,Washington St.,DB,16,0.0,4.0,1.0,Vikings,2011
+63.0,Brandon Fusco,7/26/1988,23.0,6-4,306.0,Slippery Rock,G,3,0.0,0.0,0.0,Vikings,2011
+32.0,Toby Gerhart,3/28/1987,24.0,6-0,234.0,Stanford,RB,16,5.0,1.0,5.0,Vikings,2011
+52.0,Chad Greenway,1/12/1983,28.0,6-3,237.0,Iowa,LLB,16,16.0,4.0,8.0,Vikings,2011
+97.0,Everson Griffen,12/22/1987,24.0,6-3,273.0,USC,DE,16,0.0,1.0,2.0,Vikings,2011
+23.0,Cedric Griffin,11/11/1982,29.0,6-0,195.0,Texas,RCB,16,14.0,5.0,3.0,Vikings,2011
+98.0,Letroy Guion,6/21/1987,24.0,6-4,295.0,Florida St.,DT,16,3.0,3.0,2.0,Vikings,2011
+12.0,Percy Harvin,5/28/1988,23.0,5-11,200.0,Florida,WR,16,14.0,2.0,12.0,Vikings,2011
+56.0,E.J. Henderson,8/3/1980,31.0,6-1,245.0,Maryland,MLB,16,14.0,8.0,6.0,Vikings,2011
+50.0,Erin Henderson,7/1/1986,25.0,6-3,242.0,Maryland,RLB,15,11.0,3.0,4.0,Vikings,2011
+64.0,Anthony Herrera,6/14/1980,31.0,6-2,315.0,Tennessee,RG,12,12.0,6.0,6.0,Vikings,2011
+76.0,Steve Hutchinson,11/1/1977,34.0,6-5,313.0,Michigan,LG,14,14.0,10.0,7.0,Vikings,2011
+84.0,Michael Jenkins,6/18/1982,29.0,6-4,214.0,Ohio St.,WR,11,7.0,7.0,4.0,Vikings,2011
+74.0,Charlie Johnson,5/2/1984,27.0,6-4,305.0,Oklahoma St.,LT,16,16.0,5.0,8.0,Vikings,2011
+25.0,Tyrell Johnson,5/19/1985,26.0,5-11,200.0,Arkansas St.,DB,11,3.0,3.0,1.0,Vikings,2011
+48.0,Matt Katula,8/22/1982,29.0,6-6,265.0,Wisconsin,LS,5,0.0,6.0,1.0,Vikings,2011
+40.0,Jim Kleinsasser,1/31/1977,34.0,6-3,272.0,North Dakota,TE,16,11.0,12.0,0.0,Vikings,2011
+4.0,Chris Kluwe,12/24/1981,30.0,6-4,210.0,UCLA,P,16,0.0,6.0,2.0,Vikings,2011
+71.0,Phil Loadholt,1/21/1986,25.0,6-8,343.0,Oklahoma,RT,16,16.0,2.0,8.0,Vikings,2011
+46.0,Cullen Loeffler,1/27/1981,30.0,6-5,247.0,Texas,LS,11,0.0,7.0,1.0,Vikings,2011
+8.0,Ryan Longwell,8/16/1974,37.0,6-0,200.0,California,K,16,0.0,14.0,2.0,Vikings,2011
+5.0,Donovan McNabb,11/25/1976,35.0,6-2,240.0,Syracuse,QB,6,6.0,12.0,4.0,Vikings,2011
+55.0,Kenny Onatolu,10/8/1982,29.0,6-1,235.0,Nebraska-Omaha,LB,16,1.0,2.0,1.0,Vikings,2011
+24.0,Jarrad Page,10/19/1984,27.0,6-0,225.0,UCLA,DB,5,0.0,5.0,0.0,Vikings,2011
+28.0,Adrian Peterson,3/21/1985,26.0,6-1,220.0,Oklahoma,RB,12,12.0,4.0,8.0,Vikings,2011
+7.0,Christian Ponder,2/25/1988,23.0,6-2,222.0,Florida St.,QB,11,10.0,0.0,5.0,Vikings,2011
+41.0,Mistral Raymond,9/7/1987,24.0,6-1,191.0,South Florida,FS,10,5.0,0.0,2.0,Vikings,2011
+89.0,Allen Reisner,9/29/1988,23.0,6-3,255.0,Iowa,TE,6,0.0,0.0,0.0,Vikings,2011
+96.0,Brian Robison,4/27/1983,28.0,6-3,259.0,Texas,LDE,16,16.0,4.0,6.0,Vikings,2011
+82.0,Kyle Rudolph,11/9/1989,22.0,6-6,265.0,Notre Dame,TE,15,8.0,0.0,2.0,Vikings,2011
+33.0,Jamarca Sanford,8/27/1985,26.0,5-10,200.0,Mississippi,SS,15,15.0,2.0,4.0,Vikings,2011
+22.0,Benny Sapp,1/20/1981,30.0,5-10,190.0,"Iowa,Northern Iowa",DB,7,3.0,7.0,1.0,Vikings,2011
+34.0,Andrew Sendejo,9/9/1987,24.0,6-1,210.0,Rice,DB,3,0.0,1.0,0.0,Vikings,2011
+35.0,Marcus Sherels,9/30/1987,24.0,5-10,175.0,Minnesota,DB,16,3.0,1.0,1.0,Vikings,2011
+81.0,Visanthe Shiancoe,6/18/1980,31.0,6-4,250.0,Morgan St.,TE,16,14.0,8.0,4.0,Vikings,2011
+65.0,John Sullivan,8/8/1985,26.0,6-4,312.0,Notre Dame,C,15,15.0,3.0,8.0,Vikings,2011
+14.0,Joe Webb,11/14/1986,25.0,6-4,231.0,Ala-Birmingham,QB,11,1.0,1.0,2.0,Vikings,2011
+93.0,Kevin Williams,8/16/1980,31.0,6-5,311.0,Oklahoma St.,RDT,14,14.0,8.0,5.0,Vikings,2011
+26.0,Antoine Winfield,6/24/1977,34.0,5-9,180.0,Ohio St.,LCB,5,5.0,12.0,1.0,Vikings,2011
+,Team Total,,27.1,6-2.2,241.1,,,16,,4.0,,Vikings,2011
