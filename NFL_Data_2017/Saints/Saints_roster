@@ -1,72 +1,72 @@
-,No.,Player,BirthDate,Age,Height,Weight,College/University,Position,Games_Played_in_Season,Games_Started_in_Season,NFL_Years,Player_Value,Team,Year
-0,47.0,Alex Anzalone,9/22/1994,23.0,6-3,238.0,Florida,LB,4,4.0,0.0,2.0,Saints,2017
-1,72.0,Terron Armstead,7/23/1991,26.0,6-5,305.0,Ark-Pine Bluff,LT,10,10.0,4.0,6.0,Saints,2017
-2,31.0,Chris Banjo,2/26/1990,27.0,5-10,207.0,SMU,DB,16,0.0,4.0,1.0,Saints,2017
-3,48.0,Vonn Bell,12/12/1994,23.0,5-11,205.0,Ohio St.,DB,16,10.0,1.0,4.0,Saints,2017
-4,99.0,Adam Bighill,10/16/1988,29.0,5-10,230.0,Central Washington,LB,3,0.0,0.0,0.0,Saints,2017
-5,9.0,Drew Brees,1/15/1979,38.0,6-0,209.0,Purdue,QB,16,16.0,16.0,17.0,Saints,2017
-6,25.0,Rafael Bush,5/12/1987,30.0,5-11,203.0,South Carolina St.,DB,14,0.0,6.0,1.0,Saints,2017
-7,80.0,Austin Carr,12/25/1993,24.0,6-1,195.0,Northwestern,WR,1,0.0,0.0,0.0,Saints,2017
-8,16.0,Brandon Coleman,6/22/1992,25.0,6-6,225.0,Rutgers,WR,16,6.0,2.0,4.0,Saints,2017
-9,20.0,Ken Crawley,2/8/1993,24.0,6-1,180.0,Colorado,LCB,13,13.0,1.0,4.0,Saints,2017
-10,10.0,Chase Daniel,10/7/1986,31.0,6-0,218.0,Missouri,QB,1,0.0,7.0,0.0,Saints,2017
-11,95.0,Tyeler Davison,9/23/1992,25.0,6-2,309.0,Fresno St.,RDT,16,16.0,2.0,7.0,Saints,2017
-12,33.0,Trey Edmunds,12/30/1994,23.0,6-2,223.0,"Virginia Tech,Maryland",RB,16,0.0,0.0,0.0,Saints,2017
-13,82.0,Coby Fleener,9/20/1988,29.0,6-6,251.0,Stanford,TE,11,1.0,5.0,3.0,Saints,2017
-14,55.0,Jonathan Freeny,6/15/1989,28.0,6-2,245.0,Rutgers,DE,2,0.0,5.0,0.0,Saints,2017
-15,77.0,John Fullington,5/30/1991,26.0,6-5,300.0,Washington St.,T,1,0.0,0.0,0.0,Saints,2017
-16,19.0,Ted Ginn Jr.,4/12/1985,32.0,5-11,180.0,Ohio St.,WR,15,10.0,10.0,9.0,Saints,2017
-17,45.0,Garrett Griffin,3/4/1994,23.0,6-4,240.0,Air Force,TE,3,0.0,0.0,0.0,Saints,2017
-18,96.0,Woodrow Hamilton,12/20/1992,25.0,6-3,315.0,Mississippi,DT,0,0.0,1.0,0.0,Saints,2017
-19,34.0,Justin Hardee,2/7/1994,23.0,6-1,200.0,Illinois,WR,14,0.0,0.0,1.0,Saints,2017
-20,79.0,Bryce Harris,1/16/1989,28.0,6-6,300.0,Fresno St.,T,3,0.0,5.0,0.0,Saints,2017
-21,21.0,De'Vante Harris,6/3/1993,24.0,5-11,190.0,Texas A&M,DB,11,1.0,1.0,1.0,Saints,2017
-22,91.0,Trey Hendrickson,12/5/1994,23.0,6-4,270.0,Florida Atlantic,LB,12,0.0,0.0,1.0,Saints,2017
-23,89.0,Josh Hill,5/21/1990,27.0,6-5,250.0,Idaho St.,TE,16,11.0,4.0,1.0,Saints,2017
-24,7.0,Taysom Hill,8/23/1990,27.0,6-2,221.0,BYU,QB,5,0.0,0.0,0.0,Saints,2017
-25,50.0,Gerald Hodges,1/17/1991,26.0,6-2,236.0,Penn St.,LB,11,0.0,4.0,1.0,Saints,2017
-26,84.0,Michael Hoomanawanui,7/4/1988,29.0,6-4,265.0,Illinois,TE,14,10.0,7.0,1.0,Saints,2017
-27,92.0,John Hughes,4/27/1988,29.0,6-2,320.0,Cincinnati,DT,8,0.0,5.0,1.0,Saints,2017
-28,22.0,Mark Ingram,12/21/1989,28.0,5-9,215.0,Alabama,RB,16,12.0,6.0,14.0,Saints,2017
-29,90.0,George Johnson,12/11/1987,30.0,6-4,265.0,Rutgers,DE,3,0.0,6.0,0.0,Saints,2017
-30,94.0,Cameron Jordan,7/10/1989,28.0,6-4,287.0,California,LDE,16,16.0,6.0,17.0,Saints,2017
-31,41.0,Alvin Kamara,7/25/1995,22.0,5-10,215.0,"Alabama,Hutchinson (KS),Tennessee",RB,16,3.0,0.0,16.0,Saints,2017
-32,65.0,Senio Kelemete,5/10/1990,27.0,6-3,301.0,Washington,LG,16,8.0,5.0,5.0,Saints,2017
-33,44.0,Hau'oli Kikaha,7/24/1992,25.0,6-3,246.0,Washington,LB,12,1.0,2.0,1.0,Saints,2017
-34,53.0,A.J. Klein,7/30/1991,26.0,6-1,240.0,Iowa St.,RLB,12,12.0,4.0,5.0,Saints,2017
-35,29.0,John Kuhn,9/9/1982,35.0,6-0,250.0,Shippensburg,FB,2,1.0,11.0,0.0,Saints,2017
-36,36.0,Daniel Lasco,10/9/1992,25.0,6-1,205.0,California,RB,3,0.0,1.0,0.0,Saints,2017
-37,23.0,Marshon Lattimore,5/19/1996,21.0,6-0,192.0,Ohio St.,RCB,13,13.0,0.0,8.0,Saints,2017
-38,61.0,Josh LeRibeus,7/2/1989,28.0,6-2,315.0,SMU,G,16,0.0,5.0,2.0,Saints,2017
-39,11.0,Tommylee Lewis,10/24/1992,25.0,5-7,168.0,Northern Illinois,WR,15,0.0,1.0,1.0,Saints,2017
-40,42.0,Zach Line,4/26/1990,27.0,6-1,233.0,SMU,RB,12,4.0,4.0,0.0,Saints,2017
-41,70.0,Mitchell Loewen,2/14/1993,24.0,6-5,285.0,Arkansas,DE,2,0.0,0.0,0.0,Saints,2017
-42,3.0,Wil Lutz,7/7/1994,23.0,5-11,184.0,Georgia St.,K,16,0.0,1.0,4.0,Saints,2017
-43,37.0,Arthur Maulet,7/13/1993,24.0,5-9,190.0,Memphis,DB,6,0.0,0.0,0.0,Saints,2017
-44,56.0,Michael Mauti,1/19/1990,27.0,6-2,243.0,Penn St.,LB,11,2.0,4.0,1.0,Saints,2017
-45,76.0,Tony McDaniel,1/20/1985,32.0,6-7,305.0,Tennessee,DT,1,0.0,11.0,0.0,Saints,2017
-46,30.0,Dexter McDougle,4/8/1991,26.0,5-10,190.0,Maryland,DB,1,0.0,2.0,0.0,Saints,2017
-47,24.0,Sterling Moore,2/3/1990,27.0,5-9,200.0,"Laney,SMU",DB,6,0.0,6.0,0.0,Saints,2017
-48,6.0,Thomas Morstead,3/8/1986,31.0,6-4,225.0,SMU,P,16,0.0,8.0,3.0,Saints,2017
-49,97.0,Al-Quadin Muhammad,3/28/1995,22.0,6-4,250.0,Miami (FL),DE,4,0.0,0.0,0.0,Saints,2017
-50,57.0,Alex Okafor,2/8/1991,26.0,6-4,261.0,Texas,RDE,10,10.0,4.0,5.0,Saints,2017
-51,93.0,David Onyemata,11/13/1992,25.0,6-3,300.0,Manitoba,DT,16,6.0,1.0,4.0,Saints,2017
-52,58.0,David Parry,3/7/1992,25.0,6-2,315.0,Stanford,NT,1,0.0,2.0,0.0,Saints,2017
-53,75.0,Andrus Peat,11/4/1993,24.0,6-7,316.0,Stanford,LG,15,14.0,2.0,8.0,Saints,2017
-54,28.0,Adrian Peterson,3/21/1985,32.0,6-1,220.0,Oklahoma,RB,4,1.0,10.0,1.0,Saints,2017
-55,86.0,John Phillips,6/11/1987,30.0,6-5,251.0,Virginia,TE,1,0.0,8.0,0.0,Saints,2017
-56,71.0,Ryan Ramczyk,4/22/1994,23.0,6-6,314.0,Wisconsin,RT,16,16.0,0.0,9.0,Saints,2017
-57,98.0,Sheldon Rankins,4/2/1994,23.0,6-2,305.0,Louisville,LDT,16,16.0,1.0,7.0,Saints,2017
-58,52.0,Craig Robertson,2/11/1988,29.0,6-1,234.0,North Texas,LLB,16,12.0,5.0,7.0,Saints,2017
-59,83.0,Willie Snead,10/17/1992,25.0,5-11,195.0,Ball St.,WR,11,7.0,2.0,1.0,Saints,2017
-60,64.0,Zach Strief,9/22/1983,34.0,6-7,320.0,Northwestern,G,2,2.0,11.0,1.0,Saints,2017
-61,54.0,Nathan Stupar,3/14/1988,29.0,6-2,240.0,Penn St.,LB,4,0.0,4.0,0.0,Saints,2017
-62,51.0,Manti Te'o,1/26/1991,26.0,6-1,241.0,Notre Dame,MLB,16,10.0,4.0,5.0,Saints,2017
-63,13.0,Michael Thomas,3/3/1993,24.0,6-3,212.0,Ohio St.,WR,16,14.0,1.0,14.0,Saints,2017
-64,60.0,Max Unger,4/14/1986,31.0,6-5,305.0,Oregon,C,16,16.0,8.0,9.0,Saints,2017
-65,32.0,Kenny Vaccaro,2/15/1991,26.0,6-0,214.0,Texas,SS,12,12.0,4.0,5.0,Saints,2017
-66,67.0,Larry Warford,6/18/1991,26.0,6-3,317.0,Kentucky,RG,14,14.0,4.0,10.0,Saints,2017
-67,43.0,Marcus Williams,9/8/1996,21.0,6-1,207.0,Utah,FS,15,15.0,0.0,5.0,Saints,2017
-68,26.0,P.J. Williams,6/1/1993,24.0,6-0,196.0,Florida St.,LCB,16,6.0,1.0,3.0,Saints,2017
-69,49.0,Zach Wood,1/10/1993,24.0,6-3,255.0,SMU,LS,16,0.0,0.0,2.0,Saints,2017
-70,,Team Total,,26.5,6-1.9,245.0,,,16,,3.5,,Saints,2017
+No.,Player,BirthDate,Age,Height,Weight,College/University,Position,Games_Played_in_Season,Games_Started_in_Season,NFL_Years,Player_Value,Team,Year
+47.0,Alex Anzalone,9/22/1994,23.0,6-3,238.0,Florida,LB,4,4.0,0.0,2.0,Saints,2017
+72.0,Terron Armstead,7/23/1991,26.0,6-5,305.0,Ark-Pine Bluff,LT,10,10.0,4.0,6.0,Saints,2017
+31.0,Chris Banjo,2/26/1990,27.0,5-10,207.0,SMU,DB,16,0.0,4.0,1.0,Saints,2017
+48.0,Vonn Bell,12/12/1994,23.0,5-11,205.0,Ohio St.,DB,16,10.0,1.0,4.0,Saints,2017
+99.0,Adam Bighill,10/16/1988,29.0,5-10,230.0,Central Washington,LB,3,0.0,0.0,0.0,Saints,2017
+9.0,Drew Brees,1/15/1979,38.0,6-0,209.0,Purdue,QB,16,16.0,16.0,17.0,Saints,2017
+25.0,Rafael Bush,5/12/1987,30.0,5-11,203.0,South Carolina St.,DB,14,0.0,6.0,1.0,Saints,2017
+80.0,Austin Carr,12/25/1993,24.0,6-1,195.0,Northwestern,WR,1,0.0,0.0,0.0,Saints,2017
+16.0,Brandon Coleman,6/22/1992,25.0,6-6,225.0,Rutgers,WR,16,6.0,2.0,4.0,Saints,2017
+20.0,Ken Crawley,2/8/1993,24.0,6-1,180.0,Colorado,LCB,13,13.0,1.0,4.0,Saints,2017
+10.0,Chase Daniel,10/7/1986,31.0,6-0,218.0,Missouri,QB,1,0.0,7.0,0.0,Saints,2017
+95.0,Tyeler Davison,9/23/1992,25.0,6-2,309.0,Fresno St.,RDT,16,16.0,2.0,7.0,Saints,2017
+33.0,Trey Edmunds,12/30/1994,23.0,6-2,223.0,"Virginia Tech,Maryland",RB,16,0.0,0.0,0.0,Saints,2017
+82.0,Coby Fleener,9/20/1988,29.0,6-6,251.0,Stanford,TE,11,1.0,5.0,3.0,Saints,2017
+55.0,Jonathan Freeny,6/15/1989,28.0,6-2,245.0,Rutgers,DE,2,0.0,5.0,0.0,Saints,2017
+77.0,John Fullington,5/30/1991,26.0,6-5,300.0,Washington St.,T,1,0.0,0.0,0.0,Saints,2017
+19.0,Ted Ginn Jr.,4/12/1985,32.0,5-11,180.0,Ohio St.,WR,15,10.0,10.0,9.0,Saints,2017
+45.0,Garrett Griffin,3/4/1994,23.0,6-4,240.0,Air Force,TE,3,0.0,0.0,0.0,Saints,2017
+96.0,Woodrow Hamilton,12/20/1992,25.0,6-3,315.0,Mississippi,DT,0,0.0,1.0,0.0,Saints,2017
+34.0,Justin Hardee,2/7/1994,23.0,6-1,200.0,Illinois,WR,14,0.0,0.0,1.0,Saints,2017
+79.0,Bryce Harris,1/16/1989,28.0,6-6,300.0,Fresno St.,T,3,0.0,5.0,0.0,Saints,2017
+21.0,De'Vante Harris,6/3/1993,24.0,5-11,190.0,Texas A&M,DB,11,1.0,1.0,1.0,Saints,2017
+91.0,Trey Hendrickson,12/5/1994,23.0,6-4,270.0,Florida Atlantic,LB,12,0.0,0.0,1.0,Saints,2017
+89.0,Josh Hill,5/21/1990,27.0,6-5,250.0,Idaho St.,TE,16,11.0,4.0,1.0,Saints,2017
+7.0,Taysom Hill,8/23/1990,27.0,6-2,221.0,BYU,QB,5,0.0,0.0,0.0,Saints,2017
+50.0,Gerald Hodges,1/17/1991,26.0,6-2,236.0,Penn St.,LB,11,0.0,4.0,1.0,Saints,2017
+84.0,Michael Hoomanawanui,7/4/1988,29.0,6-4,265.0,Illinois,TE,14,10.0,7.0,1.0,Saints,2017
+92.0,John Hughes,4/27/1988,29.0,6-2,320.0,Cincinnati,DT,8,0.0,5.0,1.0,Saints,2017
+22.0,Mark Ingram,12/21/1989,28.0,5-9,215.0,Alabama,RB,16,12.0,6.0,14.0,Saints,2017
+90.0,George Johnson,12/11/1987,30.0,6-4,265.0,Rutgers,DE,3,0.0,6.0,0.0,Saints,2017
+94.0,Cameron Jordan,7/10/1989,28.0,6-4,287.0,California,LDE,16,16.0,6.0,17.0,Saints,2017
+41.0,Alvin Kamara,7/25/1995,22.0,5-10,215.0,"Alabama,Hutchinson (KS),Tennessee",RB,16,3.0,0.0,16.0,Saints,2017
+65.0,Senio Kelemete,5/10/1990,27.0,6-3,301.0,Washington,LG,16,8.0,5.0,5.0,Saints,2017
+44.0,Hau'oli Kikaha,7/24/1992,25.0,6-3,246.0,Washington,LB,12,1.0,2.0,1.0,Saints,2017
+53.0,A.J. Klein,7/30/1991,26.0,6-1,240.0,Iowa St.,RLB,12,12.0,4.0,5.0,Saints,2017
+29.0,John Kuhn,9/9/1982,35.0,6-0,250.0,Shippensburg,FB,2,1.0,11.0,0.0,Saints,2017
+36.0,Daniel Lasco,10/9/1992,25.0,6-1,205.0,California,RB,3,0.0,1.0,0.0,Saints,2017
+23.0,Marshon Lattimore,5/19/1996,21.0,6-0,192.0,Ohio St.,RCB,13,13.0,0.0,8.0,Saints,2017
+61.0,Josh LeRibeus,7/2/1989,28.0,6-2,315.0,SMU,G,16,0.0,5.0,2.0,Saints,2017
+11.0,Tommylee Lewis,10/24/1992,25.0,5-7,168.0,Northern Illinois,WR,15,0.0,1.0,1.0,Saints,2017
+42.0,Zach Line,4/26/1990,27.0,6-1,233.0,SMU,RB,12,4.0,4.0,0.0,Saints,2017
+70.0,Mitchell Loewen,2/14/1993,24.0,6-5,285.0,Arkansas,DE,2,0.0,0.0,0.0,Saints,2017
+3.0,Wil Lutz,7/7/1994,23.0,5-11,184.0,Georgia St.,K,16,0.0,1.0,4.0,Saints,2017
+37.0,Arthur Maulet,7/13/1993,24.0,5-9,190.0,Memphis,DB,6,0.0,0.0,0.0,Saints,2017
+56.0,Michael Mauti,1/19/1990,27.0,6-2,243.0,Penn St.,LB,11,2.0,4.0,1.0,Saints,2017
+76.0,Tony McDaniel,1/20/1985,32.0,6-7,305.0,Tennessee,DT,1,0.0,11.0,0.0,Saints,2017
+30.0,Dexter McDougle,4/8/1991,26.0,5-10,190.0,Maryland,DB,1,0.0,2.0,0.0,Saints,2017
+24.0,Sterling Moore,2/3/1990,27.0,5-9,200.0,"Laney,SMU",DB,6,0.0,6.0,0.0,Saints,2017
+6.0,Thomas Morstead,3/8/1986,31.0,6-4,225.0,SMU,P,16,0.0,8.0,3.0,Saints,2017
+97.0,Al-Quadin Muhammad,3/28/1995,22.0,6-4,250.0,Miami (FL),DE,4,0.0,0.0,0.0,Saints,2017
+57.0,Alex Okafor,2/8/1991,26.0,6-4,261.0,Texas,RDE,10,10.0,4.0,5.0,Saints,2017
+93.0,David Onyemata,11/13/1992,25.0,6-3,300.0,Manitoba,DT,16,6.0,1.0,4.0,Saints,2017
+58.0,David Parry,3/7/1992,25.0,6-2,315.0,Stanford,NT,1,0.0,2.0,0.0,Saints,2017
+75.0,Andrus Peat,11/4/1993,24.0,6-7,316.0,Stanford,LG,15,14.0,2.0,8.0,Saints,2017
+28.0,Adrian Peterson,3/21/1985,32.0,6-1,220.0,Oklahoma,RB,4,1.0,10.0,1.0,Saints,2017
+86.0,John Phillips,6/11/1987,30.0,6-5,251.0,Virginia,TE,1,0.0,8.0,0.0,Saints,2017
+71.0,Ryan Ramczyk,4/22/1994,23.0,6-6,314.0,Wisconsin,RT,16,16.0,0.0,9.0,Saints,2017
+98.0,Sheldon Rankins,4/2/1994,23.0,6-2,305.0,Louisville,LDT,16,16.0,1.0,7.0,Saints,2017
+52.0,Craig Robertson,2/11/1988,29.0,6-1,234.0,North Texas,LLB,16,12.0,5.0,7.0,Saints,2017
+83.0,Willie Snead,10/17/1992,25.0,5-11,195.0,Ball St.,WR,11,7.0,2.0,1.0,Saints,2017
+64.0,Zach Strief,9/22/1983,34.0,6-7,320.0,Northwestern,G,2,2.0,11.0,1.0,Saints,2017
+54.0,Nathan Stupar,3/14/1988,29.0,6-2,240.0,Penn St.,LB,4,0.0,4.0,0.0,Saints,2017
+51.0,Manti Te'o,1/26/1991,26.0,6-1,241.0,Notre Dame,MLB,16,10.0,4.0,5.0,Saints,2017
+13.0,Michael Thomas,3/3/1993,24.0,6-3,212.0,Ohio St.,WR,16,14.0,1.0,14.0,Saints,2017
+60.0,Max Unger,4/14/1986,31.0,6-5,305.0,Oregon,C,16,16.0,8.0,9.0,Saints,2017
+32.0,Kenny Vaccaro,2/15/1991,26.0,6-0,214.0,Texas,SS,12,12.0,4.0,5.0,Saints,2017
+67.0,Larry Warford,6/18/1991,26.0,6-3,317.0,Kentucky,RG,14,14.0,4.0,10.0,Saints,2017
+43.0,Marcus Williams,9/8/1996,21.0,6-1,207.0,Utah,FS,15,15.0,0.0,5.0,Saints,2017
+26.0,P.J. Williams,6/1/1993,24.0,6-0,196.0,Florida St.,LCB,16,6.0,1.0,3.0,Saints,2017
+49.0,Zach Wood,1/10/1993,24.0,6-3,255.0,SMU,LS,16,0.0,0.0,2.0,Saints,2017
+,Team Total,,26.5,6-1.9,245.0,,,16,,3.5,,Saints,2017

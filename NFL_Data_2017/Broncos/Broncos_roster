@@ -1,68 +1,68 @@
-,No.,Player,BirthDate,Age,Height,Weight,College/University,Position,Games_Played_in_Season,Games_Started_in_Season,NFL_Years,Player_Value,Team,Year
-0,22.0,C.J. Anderson,2/10/1991,26.0,5-8,225.0,"Laney,California",RB,16,16.0,4.0,7.0,Broncos,2017
-1,50.0,Zaire Anderson,8/18/1992,25.0,5-11,220.0,Nebraska,LB,16,2.0,1.0,3.0,Broncos,2017
-2,73.0,Allen Barbre,6/22/1984,33.0,6-4,310.0,Missouri Southern,T,16,4.0,10.0,3.0,Broncos,2017
-3,48.0,Shaquil Barrett,11/17/1992,25.0,6-2,250.0,Colorado St.,LOLB,16,9.0,2.0,5.0,Broncos,2017
-4,72.0,Garett Bolles,5/27/1992,25.0,6-5,300.0,"Snow College (UT),Utah",LT,16,16.0,0.0,6.0,Broncos,2017
-5,23.0,Devontae Booker,5/27/1992,25.0,5-11,219.0,Utah,RB,13,0.0,1.0,3.0,Broncos,2017
-6,20.0,Jamal Carter,4/12/1994,23.0,6-1,215.0,Miami (FL),DB,16,0.0,0.0,1.0,Broncos,2017
-7,28.0,Jamaal Charles,12/27/1986,31.0,5-11,199.0,Texas,RB,14,0.0,9.0,2.0,Broncos,2017
-8,51.0,Todd Davis,5/17/1992,25.0,6-1,230.0,Sacramento St.,RILB,14,14.0,3.0,6.0,Broncos,2017
-9,83.0,A.J. Derby,9/20/1991,26.0,6-5,240.0,Arkansas,TE,9,1.0,1.0,2.0,Broncos,2017
-10,9.0,Riley Dixon,8/24/1993,24.0,6-4,221.0,Syracuse,P,16,0.0,1.0,2.0,Broncos,2017
-11,37.0,Lorenzo Doss,4/20/1994,23.0,5-11,185.0,Tulane,DB,3,0.0,2.0,0.0,Broncos,2017
-12,91.0,Kasim Edebali,8/17/1989,28.0,6-2,253.0,Boston Col.,DE,9,0.0,3.0,1.0,Broncos,2017
-13,16.0,Bennie Fowler,6/10/1991,26.0,6-1,212.0,Michigan St.,WR,16,4.0,2.0,2.0,Broncos,2017
-14,76.0,Max Garcia,11/9/1991,26.0,6-4,309.0,Florida,LG,16,16.0,2.0,6.0,Broncos,2017
-15,41.0,Jerrol Garcia-Williams,12/24/1993,24.0,6-2,235.0,Hawaii,LB,11,0.0,0.0,1.0,Broncos,2017
-16,99.0,Adam Gotsis,9/23/1992,25.0,6-4,290.0,Georgia Tech,RDE,16,13.0,1.0,6.0,Broncos,2017
-17,85.0,Virgil Green,8/3/1988,29.0,6-5,255.0,Nevada,TE,16,16.0,6.0,1.0,Broncos,2017
-18,25.0,Chris Harris Jr.,6/18/1989,28.0,5-10,199.0,Kansas,RCB,16,15.0,6.0,6.0,Broncos,2017
-19,96.0,Shelby Harris,8/11/1991,26.0,6-2,288.0,Illinois St.,LDE,16,6.0,3.0,4.0,Broncos,2017
-20,33.0,De'Angelo Henderson,11/24/1992,25.0,5-7,208.0,Coastal Carolina,RB,5,0.0,0.0,0.0,Broncos,2017
-21,82.0,Jeff Heuerman,11/24/1992,25.0,6-5,255.0,Ohio St.,TE,14,6.0,1.0,1.0,Broncos,2017
-22,32.0,Andy Janovich,5/23/1993,24.0,6-1,238.0,Nebraska,RB,16,4.0,1.0,0.0,Broncos,2017
-23,98.0,Tyrique Jarrett,2/16/1994,23.0,6-3,335.0,Pittsburgh,T,1,0.0,0.0,0.0,Broncos,2017
-24,43.0,Joseph Jones,2/21/1994,23.0,6-0,231.0,Northwestern,LB,7,0.0,0.0,1.0,Broncos,2017
-25,92.0,Zach Kerr,8/29/1990,27.0,6-2,334.0,Delaware,DT,11,1.0,3.0,1.0,Broncos,2017
-26,79.0,Cyrus Kouandjio,7/21/1993,24.0,6-7,322.0,Alabama,T,3,1.0,3.0,1.0,Broncos,2017
-27,42.0,Casey Kreiter,8/13/1990,27.0,6-1,250.0,Iowa,LS,16,0.0,1.0,1.0,Broncos,2017
-28,83.0,Matt LaCosse,9/21/1992,25.0,6-6,255.0,Illinois,TE,2,0.0,2.0,0.0,Broncos,2017
-29,27.0,Brendan Langley,10/16/1994,23.0,6-0,199.0,Lamar,DB,11,0.0,0.0,1.0,Broncos,2017
-30,14.0,Cody Latimer,10/10/1992,25.0,6-2,215.0,Indiana,WR,11,1.0,3.0,2.0,Broncos,2017
-31,65.0,Ronald Leary,4/29/1989,28.0,6-3,320.0,Memphis,RG,11,11.0,4.0,4.0,Broncos,2017
-32,12.0,Paxton Lynch,2/12/1994,23.0,6-7,244.0,Memphis,QB,2,2.0,1.0,1.0,Broncos,2017
-33,54.0,Brandon Marshall,9/10/1989,28.0,6-1,245.0,Nevada,LILB,16,16.0,5.0,8.0,Broncos,2017
-34,60.0,Connor McGovern,4/27/1993,24.0,6-4,306.0,Missouri,RG,15,5.0,0.0,3.0,Broncos,2017
-35,84.0,Isaiah McKenzie,4/9/1995,22.0,5-8,173.0,Georgia,WR,11,0.0,0.0,0.0,Broncos,2017
-36,8.0,Brandon McManus,7/25/1991,26.0,6-3,201.0,Temple,K,16,0.0,3.0,2.0,Broncos,2017
-37,58.0,Von Miller,3/26/1989,28.0,6-3,250.0,Texas A&M,ROLB,16,16.0,6.0,12.0,Broncos,2017
-38,53.0,Deiontrez Mount,2/26/1993,24.0,6-5,253.0,Louisville,LB,7,0.0,2.0,1.0,Broncos,2017
-39,52.0,Corey Nelson,4/22/1992,25.0,6-1,226.0,Oklahoma,LB,5,0.0,3.0,0.0,Broncos,2017
-40,17.0,Brock Osweiler,11/22/1990,27.0,6-7,240.0,Arizona St.,QB,6,4.0,5.0,2.0,Broncos,2017
-41,61.0,Matt Paradis,10/12/1989,28.0,6-3,300.0,Boise St.,C,16,16.0,2.0,6.0,Broncos,2017
-42,34.0,Will Parks,7/29/1994,23.0,6-1,194.0,Arizona,DB,16,5.0,1.0,3.0,Broncos,2017
-43,94.0,Domata Peko,11/27/1984,33.0,6-3,325.0,"College of the Canyons (CA),Michigan St.",NT,14,14.0,11.0,6.0,Broncos,2017
-44,90.0,Kyle Peko,7/23/1993,24.0,6-1,305.0,Oregon St.,DT,6,0.0,1.0,1.0,Broncos,2017
-45,56.0,Shane Ray,5/18/1993,24.0,6-3,245.0,Missouri,LOLB,8,7.0,2.0,3.0,Broncos,2017
-46,38.0,Marcus Rios,10/25/1994,23.0,5-11,185.0,UCLA,DB,5,0.0,0.0,0.0,Broncos,2017
-47,29.0,Bradley Roby,5/1/1992,25.0,5-11,194.0,Ohio St.,DB,16,4.0,3.0,3.0,Broncos,2017
-48,78.0,Ahtyba Rubin,7/25/1986,31.0,6-2,315.0,Iowa St.,DE,2,0.0,9.0,0.0,Broncos,2017
-49,10.0,Emmanuel Sanders,3/17/1987,30.0,5-11,180.0,SMU,WR,12,11.0,7.0,4.0,Broncos,2017
-50,15.0,Hunter Sharp,4/25/1994,23.0,5-11,199.0,Utah St.,WR,1,0.0,0.0,0.0,Broncos,2017
-51,13.0,Trevor Siemian,12/26/1991,26.0,6-3,220.0,Northwestern,QB,11,10.0,2.0,4.0,Broncos,2017
-52,31.0,Justin Simmons,11/19/1993,24.0,6-2,202.0,Boston Col.,SS,13,13.0,1.0,5.0,Broncos,2017
-53,45.0,Kevin Snyder,7/25/1992,25.0,6-2,245.0,Rutgers,LB,2,0.0,0.0,0.0,Broncos,2017
-54,71.0,Donald Stephenson,9/30/1988,29.0,6-5,312.0,Oklahoma,T,7,4.0,5.0,2.0,Broncos,2017
-55,26.0,Darian Stewart,8/4/1988,29.0,5-11,214.0,South Carolina,FS,16,15.0,7.0,6.0,Broncos,2017
-56,21.0,Aqib Talib,2/13/1986,31.0,6-1,209.0,Kansas,LCB,15,15.0,9.0,9.0,Broncos,2017
-57,87.0,Jordan Taylor,2/18/1992,25.0,6-5,195.0,Rice,WR,10,2.0,1.0,1.0,Broncos,2017
-58,88.0,Demaryius Thomas,12/25/1987,30.0,6-3,225.0,Georgia Tech,WR,16,16.0,7.0,7.0,Broncos,2017
-59,35.0,Dymonte Thomas,11/30/1993,24.0,6-2,199.0,Michigan,DB,3,0.0,0.0,0.0,Broncos,2017
-60,86.0,Austin Traylor,9/3/1993,24.0,6-3,250.0,Wisconsin,TE,7,3.0,0.0,1.0,Broncos,2017
-61,77.0,Billy Turner,10/17/1991,26.0,6-5,313.0,North Dakota St.,T,1,0.0,3.0,0.0,Broncos,2017
-62,57.0,DeMarcus Walker,9/30/1994,23.0,6-4,280.0,Florida St.,DE,10,0.0,0.0,1.0,Broncos,2017
-63,75.0,Menelik Watson,12/22/1988,29.0,6-5,315.0,"Marist,Saddleback College,Florida St.",RT,7,7.0,4.0,3.0,Broncos,2017
-64,68.0,Elijah Wilkinson,2/10/1995,22.0,6-6,314.0,Massachusetts,T,9,0.0,0.0,1.0,Broncos,2017
-65,95.0,Derek Wolfe,2/24/1990,27.0,6-5,285.0,Cincinnati,LDE,11,11.0,5.0,5.0,Broncos,2017
-66,,Team Total,,25.9,6-2.2,248.1,,,16,,2.7,,Broncos,2017
+No.,Player,BirthDate,Age,Height,Weight,College/University,Position,Games_Played_in_Season,Games_Started_in_Season,NFL_Years,Player_Value,Team,Year
+22.0,C.J. Anderson,2/10/1991,26.0,5-8,225.0,"Laney,California",RB,16,16.0,4.0,7.0,Broncos,2017
+50.0,Zaire Anderson,8/18/1992,25.0,5-11,220.0,Nebraska,LB,16,2.0,1.0,3.0,Broncos,2017
+73.0,Allen Barbre,6/22/1984,33.0,6-4,310.0,Missouri Southern,T,16,4.0,10.0,3.0,Broncos,2017
+48.0,Shaquil Barrett,11/17/1992,25.0,6-2,250.0,Colorado St.,LOLB,16,9.0,2.0,5.0,Broncos,2017
+72.0,Garett Bolles,5/27/1992,25.0,6-5,300.0,"Snow College (UT),Utah",LT,16,16.0,0.0,6.0,Broncos,2017
+23.0,Devontae Booker,5/27/1992,25.0,5-11,219.0,Utah,RB,13,0.0,1.0,3.0,Broncos,2017
+20.0,Jamal Carter,4/12/1994,23.0,6-1,215.0,Miami (FL),DB,16,0.0,0.0,1.0,Broncos,2017
+28.0,Jamaal Charles,12/27/1986,31.0,5-11,199.0,Texas,RB,14,0.0,9.0,2.0,Broncos,2017
+51.0,Todd Davis,5/17/1992,25.0,6-1,230.0,Sacramento St.,RILB,14,14.0,3.0,6.0,Broncos,2017
+83.0,A.J. Derby,9/20/1991,26.0,6-5,240.0,Arkansas,TE,9,1.0,1.0,2.0,Broncos,2017
+9.0,Riley Dixon,8/24/1993,24.0,6-4,221.0,Syracuse,P,16,0.0,1.0,2.0,Broncos,2017
+37.0,Lorenzo Doss,4/20/1994,23.0,5-11,185.0,Tulane,DB,3,0.0,2.0,0.0,Broncos,2017
+91.0,Kasim Edebali,8/17/1989,28.0,6-2,253.0,Boston Col.,DE,9,0.0,3.0,1.0,Broncos,2017
+16.0,Bennie Fowler,6/10/1991,26.0,6-1,212.0,Michigan St.,WR,16,4.0,2.0,2.0,Broncos,2017
+76.0,Max Garcia,11/9/1991,26.0,6-4,309.0,Florida,LG,16,16.0,2.0,6.0,Broncos,2017
+41.0,Jerrol Garcia-Williams,12/24/1993,24.0,6-2,235.0,Hawaii,LB,11,0.0,0.0,1.0,Broncos,2017
+99.0,Adam Gotsis,9/23/1992,25.0,6-4,290.0,Georgia Tech,RDE,16,13.0,1.0,6.0,Broncos,2017
+85.0,Virgil Green,8/3/1988,29.0,6-5,255.0,Nevada,TE,16,16.0,6.0,1.0,Broncos,2017
+25.0,Chris Harris Jr.,6/18/1989,28.0,5-10,199.0,Kansas,RCB,16,15.0,6.0,6.0,Broncos,2017
+96.0,Shelby Harris,8/11/1991,26.0,6-2,288.0,Illinois St.,LDE,16,6.0,3.0,4.0,Broncos,2017
+33.0,De'Angelo Henderson,11/24/1992,25.0,5-7,208.0,Coastal Carolina,RB,5,0.0,0.0,0.0,Broncos,2017
+82.0,Jeff Heuerman,11/24/1992,25.0,6-5,255.0,Ohio St.,TE,14,6.0,1.0,1.0,Broncos,2017
+32.0,Andy Janovich,5/23/1993,24.0,6-1,238.0,Nebraska,RB,16,4.0,1.0,0.0,Broncos,2017
+98.0,Tyrique Jarrett,2/16/1994,23.0,6-3,335.0,Pittsburgh,T,1,0.0,0.0,0.0,Broncos,2017
+43.0,Joseph Jones,2/21/1994,23.0,6-0,231.0,Northwestern,LB,7,0.0,0.0,1.0,Broncos,2017
+92.0,Zach Kerr,8/29/1990,27.0,6-2,334.0,Delaware,DT,11,1.0,3.0,1.0,Broncos,2017
+79.0,Cyrus Kouandjio,7/21/1993,24.0,6-7,322.0,Alabama,T,3,1.0,3.0,1.0,Broncos,2017
+42.0,Casey Kreiter,8/13/1990,27.0,6-1,250.0,Iowa,LS,16,0.0,1.0,1.0,Broncos,2017
+83.0,Matt LaCosse,9/21/1992,25.0,6-6,255.0,Illinois,TE,2,0.0,2.0,0.0,Broncos,2017
+27.0,Brendan Langley,10/16/1994,23.0,6-0,199.0,Lamar,DB,11,0.0,0.0,1.0,Broncos,2017
+14.0,Cody Latimer,10/10/1992,25.0,6-2,215.0,Indiana,WR,11,1.0,3.0,2.0,Broncos,2017
+65.0,Ronald Leary,4/29/1989,28.0,6-3,320.0,Memphis,RG,11,11.0,4.0,4.0,Broncos,2017
+12.0,Paxton Lynch,2/12/1994,23.0,6-7,244.0,Memphis,QB,2,2.0,1.0,1.0,Broncos,2017
+54.0,Brandon Marshall,9/10/1989,28.0,6-1,245.0,Nevada,LILB,16,16.0,5.0,8.0,Broncos,2017
+60.0,Connor McGovern,4/27/1993,24.0,6-4,306.0,Missouri,RG,15,5.0,0.0,3.0,Broncos,2017
+84.0,Isaiah McKenzie,4/9/1995,22.0,5-8,173.0,Georgia,WR,11,0.0,0.0,0.0,Broncos,2017
+8.0,Brandon McManus,7/25/1991,26.0,6-3,201.0,Temple,K,16,0.0,3.0,2.0,Broncos,2017
+58.0,Von Miller,3/26/1989,28.0,6-3,250.0,Texas A&M,ROLB,16,16.0,6.0,12.0,Broncos,2017
+53.0,Deiontrez Mount,2/26/1993,24.0,6-5,253.0,Louisville,LB,7,0.0,2.0,1.0,Broncos,2017
+52.0,Corey Nelson,4/22/1992,25.0,6-1,226.0,Oklahoma,LB,5,0.0,3.0,0.0,Broncos,2017
+17.0,Brock Osweiler,11/22/1990,27.0,6-7,240.0,Arizona St.,QB,6,4.0,5.0,2.0,Broncos,2017
+61.0,Matt Paradis,10/12/1989,28.0,6-3,300.0,Boise St.,C,16,16.0,2.0,6.0,Broncos,2017
+34.0,Will Parks,7/29/1994,23.0,6-1,194.0,Arizona,DB,16,5.0,1.0,3.0,Broncos,2017
+94.0,Domata Peko,11/27/1984,33.0,6-3,325.0,"College of the Canyons (CA),Michigan St.",NT,14,14.0,11.0,6.0,Broncos,2017
+90.0,Kyle Peko,7/23/1993,24.0,6-1,305.0,Oregon St.,DT,6,0.0,1.0,1.0,Broncos,2017
+56.0,Shane Ray,5/18/1993,24.0,6-3,245.0,Missouri,LOLB,8,7.0,2.0,3.0,Broncos,2017
+38.0,Marcus Rios,10/25/1994,23.0,5-11,185.0,UCLA,DB,5,0.0,0.0,0.0,Broncos,2017
+29.0,Bradley Roby,5/1/1992,25.0,5-11,194.0,Ohio St.,DB,16,4.0,3.0,3.0,Broncos,2017
+78.0,Ahtyba Rubin,7/25/1986,31.0,6-2,315.0,Iowa St.,DE,2,0.0,9.0,0.0,Broncos,2017
+10.0,Emmanuel Sanders,3/17/1987,30.0,5-11,180.0,SMU,WR,12,11.0,7.0,4.0,Broncos,2017
+15.0,Hunter Sharp,4/25/1994,23.0,5-11,199.0,Utah St.,WR,1,0.0,0.0,0.0,Broncos,2017
+13.0,Trevor Siemian,12/26/1991,26.0,6-3,220.0,Northwestern,QB,11,10.0,2.0,4.0,Broncos,2017
+31.0,Justin Simmons,11/19/1993,24.0,6-2,202.0,Boston Col.,SS,13,13.0,1.0,5.0,Broncos,2017
+45.0,Kevin Snyder,7/25/1992,25.0,6-2,245.0,Rutgers,LB,2,0.0,0.0,0.0,Broncos,2017
+71.0,Donald Stephenson,9/30/1988,29.0,6-5,312.0,Oklahoma,T,7,4.0,5.0,2.0,Broncos,2017
+26.0,Darian Stewart,8/4/1988,29.0,5-11,214.0,South Carolina,FS,16,15.0,7.0,6.0,Broncos,2017
+21.0,Aqib Talib,2/13/1986,31.0,6-1,209.0,Kansas,LCB,15,15.0,9.0,9.0,Broncos,2017
+87.0,Jordan Taylor,2/18/1992,25.0,6-5,195.0,Rice,WR,10,2.0,1.0,1.0,Broncos,2017
+88.0,Demaryius Thomas,12/25/1987,30.0,6-3,225.0,Georgia Tech,WR,16,16.0,7.0,7.0,Broncos,2017
+35.0,Dymonte Thomas,11/30/1993,24.0,6-2,199.0,Michigan,DB,3,0.0,0.0,0.0,Broncos,2017
+86.0,Austin Traylor,9/3/1993,24.0,6-3,250.0,Wisconsin,TE,7,3.0,0.0,1.0,Broncos,2017
+77.0,Billy Turner,10/17/1991,26.0,6-5,313.0,North Dakota St.,T,1,0.0,3.0,0.0,Broncos,2017
+57.0,DeMarcus Walker,9/30/1994,23.0,6-4,280.0,Florida St.,DE,10,0.0,0.0,1.0,Broncos,2017
+75.0,Menelik Watson,12/22/1988,29.0,6-5,315.0,"Marist,Saddleback College,Florida St.",RT,7,7.0,4.0,3.0,Broncos,2017
+68.0,Elijah Wilkinson,2/10/1995,22.0,6-6,314.0,Massachusetts,T,9,0.0,0.0,1.0,Broncos,2017
+95.0,Derek Wolfe,2/24/1990,27.0,6-5,285.0,Cincinnati,LDE,11,11.0,5.0,5.0,Broncos,2017
+,Team Total,,25.9,6-2.2,248.1,,,16,,2.7,,Broncos,2017

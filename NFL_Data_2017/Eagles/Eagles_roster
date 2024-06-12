@@ -1,65 +1,65 @@
-,No.,Player,BirthDate,Age,Height,Weight,College/University,Position,Games_Played_in_Season,Games_Started_in_Season,NFL_Years,Player_Value,Team,Year
-0,13.0,Nelson Agholor,5/24/1993,24.0,6-0,200.0,USC,WR,16,10.0,2.0,7.0,Eagles,2017
-1,36.0,Jay Ajayi,6/15/1993,24.0,6-0,223.0,Boise St.,RB,7,1.0,2.0,4.0,Eagles,2017
-2,94.0,Beau Allen,11/14/1991,26.0,6-3,327.0,Wisconsin,DT,15,3.0,3.0,3.0,Eagles,2017
-3,38.0,Kenjon Barner,4/28/1989,28.0,5-9,195.0,Oregon,RB,13,1.0,4.0,1.0,Eagles,2017
-4,96.0,Derek Barnett,6/25/1996,21.0,6-3,259.0,Tennessee,DE,15,0.0,0.0,3.0,Eagles,2017
-5,66.0,Will Beatty,3/2/1985,32.0,6-6,291.0,Connecticut,T,1,0.0,8.0,0.0,Eagles,2017
-6,29.0,LeGarrette Blount,12/5/1986,31.0,6-0,247.0,"East Mississippi CC,Oregon",RB,16,11.0,7.0,6.0,Eagles,2017
-7,53.0,Nigel Bradham,9/4/1989,28.0,6-2,241.0,Florida St.,RLB,15,15.0,5.0,9.0,Eagles,2017
-8,50.0,Bryan Braman,5/4/1987,30.0,6-5,230.0,West Texas A&M,LB,3,0.0,6.0,0.0,Eagles,2017
-9,79.0,Brandon Brooks,8/19/1989,28.0,6-5,335.0,Miami (OH),RG,16,16.0,5.0,11.0,Eagles,2017
-10,88.0,Trey Burton,10/29/1991,26.0,6-2,238.0,Florida,TE,15,1.0,3.0,2.0,Eagles,2017
-11,87.0,Brent Celek,1/25/1985,32.0,6-4,261.0,Cincinnati,TE,16,10.0,10.0,1.0,Eagles,2017
-12,30.0,Corey Clement,11/2/1994,23.0,5-10,220.0,Wisconsin,RB,16,0.0,0.0,3.0,Eagles,2017
-13,91.0,Fletcher Cox,12/13/1990,27.0,6-4,310.0,Mississippi St.,RDT,14,14.0,5.0,14.0,Eagles,2017
-14,75.0,Vinny Curry,6/30/1988,29.0,6-3,279.0,Marshall,LDE,16,16.0,5.0,8.0,Eagles,2017
-15,41.0,Ronald Darby,1/2/1994,23.0,5-11,193.0,Florida St.,RCB,8,7.0,2.0,4.0,Eagles,2017
-16,32.0,Rasul Douglas,8/29/1995,22.0,6-2,209.0,West Virginia,RCB,14,5.0,0.0,3.0,Eagles,2017
-17,57.0,Dannell Ellerbe,11/29/1985,32.0,6-1,236.0,Georgia,LB,3,2.0,8.0,1.0,Eagles,2017
-18,4.0,Jake Elliott,1/21/1995,22.0,5-9,167.0,Memphis,K,15,0.0,0.0,3.0,Eagles,2017
-19,35.0,Trae Elston,2/16/1994,23.0,6-0,203.0,Mississippi,DB,1,0.0,0.0,0.0,Eagles,2017
-20,86.0,Zach Ertz,11/10/1990,27.0,6-5,250.0,Stanford,TE,14,13.0,4.0,8.0,Eagles,2017
-21,9.0,Nick Foles,1/20/1989,28.0,6-6,262.0,Arizona,QB,7,3.0,5.0,2.0,Eagles,2017
-22,47.0,Nathan Gerry,2/23/1995,22.0,6-2,230.0,Nebraska,DB,10,1.0,0.0,2.0,Eagles,2017
-23,18.0,Shelton Gibson,3/20/1994,23.0,5-11,191.0,West Virginia,WR,5,0.0,0.0,0.0,Eagles,2017
-24,52.0,Najee Goode,6/4/1989,28.0,6-0,244.0,West Virginia,LB,16,3.0,5.0,3.0,Eagles,2017
-25,55.0,Brandon Graham,4/3/1988,29.0,6-2,265.0,Michigan,RDE,15,15.0,7.0,9.0,Eagles,2017
-26,24.0,Corey Graham,7/25/1985,32.0,6-0,196.0,New Hampshire,DB,14,1.0,10.0,2.0,Eagles,2017
-27,54.0,Kamu Grugier-Hill,5/16/1994,23.0,6-2,220.0,Eastern Illinois,LB,16,0.0,1.0,2.0,Eagles,2017
-28,90.0,Justin Hamilton,7/27/1993,24.0,6-2,315.0,Louisiana,DT,3,0.0,0.0,0.0,Eagles,2017
-29,58.0,Jordan Hicks,6/27/1992,25.0,6-1,236.0,Texas,MLB,7,7.0,2.0,4.0,Eagles,2017
-30,10.0,Mack Hollins,9/16/1993,24.0,6-4,221.0,North Carolina,WR,16,0.0,0.0,2.0,Eagles,2017
-31,17.0,Alshon Jeffery,2/14/1990,27.0,6-3,218.0,South Carolina,WR,16,16.0,5.0,7.0,Eagles,2017
-32,27.0,Malcolm Jenkins,12/20/1987,30.0,6-0,204.0,Ohio St.,FS,16,16.0,8.0,10.0,Eagles,2017
-33,93.0,Timmy Jernigan,9/24/1992,25.0,6-2,295.0,Florida St.,LDT,15,15.0,3.0,7.0,Eagles,2017
-34,65.0,Lane Johnson,5/8/1990,27.0,6-6,325.0,"Kilgore College,Oklahoma",RT,15,15.0,4.0,15.0,Eagles,2017
-35,14.0,Marcus Johnson,8/5/1994,23.0,6-1,207.0,Texas,WR,10,0.0,0.0,0.0,Eagles,2017
-36,8.0,Donnie Jones,7/5/1980,37.0,6-2,221.0,LSU,P,16,0.0,13.0,2.0,Eagles,2017
-37,22.0,Sidney Jones,5/21/1996,21.0,6-0,181.0,Washington,DB,1,0.0,0.0,0.0,Eagles,2017
-38,62.0,Jason Kelce,11/5/1987,30.0,6-3,295.0,Cincinnati,C,16,16.0,6.0,16.0,Eagles,2017
-39,95.0,Mychal Kendricks,9/28/1990,27.0,5-11,240.0,California,LLB,15,13.0,5.0,7.0,Eagles,2017
-40,56.0,Chris Long,3/28/1985,32.0,6-3,270.0,Virginia,DE,16,1.0,9.0,3.0,Eagles,2017
-41,45.0,Rick Lovato,9/9/1992,25.0,6-2,249.0,Old Dominion,LS,16,0.0,2.0,1.0,Eagles,2017
-42,42.0,Chris Maragos,1/6/1987,30.0,5-10,200.0,Wisconsin,DB,6,1.0,7.0,1.0,Eagles,2017
-43,33.0,Dexter McDougle,4/8/1991,26.0,5-10,190.0,Maryland,DB,8,0.0,2.0,1.0,Eagles,2017
-44,23.0,Rodney McLeod,6/23/1990,27.0,5-10,185.0,Virginia,SS,14,14.0,5.0,7.0,Eagles,2017
-45,51.0,Steven Means,9/16/1990,27.0,6-3,263.0,Buffalo,DE,6,0.0,4.0,1.0,Eagles,2017
-46,31.0,Jalen Mills,4/6/1994,23.0,6-0,200.0,LSU,LCB,15,15.0,1.0,7.0,Eagles,2017
-47,71.0,Jason Peters,1/22/1982,35.0,6-4,328.0,Arkansas,LT,7,7.0,13.0,4.0,Eagles,2017
-48,98.0,Elijah Qualls,2/11/1995,22.0,6-1,320.0,Washington,DT,6,0.0,0.0,1.0,Eagles,2017
-49,21.0,Patrick Robinson,9/7/1987,30.0,5-11,191.0,Florida St.,RCB,16,8.0,7.0,5.0,Eagles,2017
-50,73.0,Isaac Seumalo,10/29/1993,24.0,6-4,303.0,Oregon St.,G,14,2.0,1.0,2.0,Eagles,2017
-51,28.0,Wendell Smallwood,1/20/1994,23.0,5-10,208.0,West Virginia,RB,8,3.0,1.0,2.0,Eagles,2017
-52,82.0,Torrey Smith,1/26/1989,28.0,6-0,205.0,Maryland,WR,16,14.0,6.0,4.0,Eagles,2017
-53,43.0,Darren Sproles,6/20/1983,34.0,5-6,190.0,Kansas St.,RB,3,0.0,12.0,1.0,Eagles,2017
-54,6.0,Caleb Sturgis,8/9/1989,28.0,5-9,192.0,Florida,K,1,0.0,4.0,0.0,Eagles,2017
-55,7.0,Nate Sudfeld,10/7/1993,24.0,6-6,230.0,Indiana,QB,1,0.0,0.0,1.0,Eagles,2017
-56,97.0,Destiny Vaeao,1/15/1994,23.0,6-4,300.0,Washington St.,DT,11,0.0,1.0,1.0,Eagles,2017
-57,72.0,Halapoulivaati Vaitai,6/16/1993,24.0,6-6,322.0,TCU,LT,16,10.0,1.0,6.0,Eagles,2017
-58,59.0,Joe Walker,12/11/1992,25.0,6-2,236.0,Oregon,LB,12,3.0,0.0,2.0,Eagles,2017
-59,67.0,Chance Warmack,9/14/1991,26.0,6-2,323.0,Alabama,G,11,3.0,4.0,2.0,Eagles,2017
-60,26.0,Jaylen Watkins,11/27/1991,26.0,5-11,194.0,Florida,DB,12,1.0,3.0,1.0,Eagles,2017
-61,11.0,Carson Wentz,12/30/1992,25.0,6-5,237.0,North Dakota St.,QB,13,13.0,1.0,13.0,Eagles,2017
-62,61.0,Stefen Wisniewski,3/22/1989,28.0,6-3,305.0,Penn St.,LG,14,11.0,6.0,6.0,Eagles,2017
-63,,Team Total,,26.6,6-1.5,243.2,,,16,,3.9,,Eagles,2017
+No.,Player,BirthDate,Age,Height,Weight,College/University,Position,Games_Played_in_Season,Games_Started_in_Season,NFL_Years,Player_Value,Team,Year
+13.0,Nelson Agholor,5/24/1993,24.0,6-0,200.0,USC,WR,16,10.0,2.0,7.0,Eagles,2017
+36.0,Jay Ajayi,6/15/1993,24.0,6-0,223.0,Boise St.,RB,7,1.0,2.0,4.0,Eagles,2017
+94.0,Beau Allen,11/14/1991,26.0,6-3,327.0,Wisconsin,DT,15,3.0,3.0,3.0,Eagles,2017
+38.0,Kenjon Barner,4/28/1989,28.0,5-9,195.0,Oregon,RB,13,1.0,4.0,1.0,Eagles,2017
+96.0,Derek Barnett,6/25/1996,21.0,6-3,259.0,Tennessee,DE,15,0.0,0.0,3.0,Eagles,2017
+66.0,Will Beatty,3/2/1985,32.0,6-6,291.0,Connecticut,T,1,0.0,8.0,0.0,Eagles,2017
+29.0,LeGarrette Blount,12/5/1986,31.0,6-0,247.0,"East Mississippi CC,Oregon",RB,16,11.0,7.0,6.0,Eagles,2017
+53.0,Nigel Bradham,9/4/1989,28.0,6-2,241.0,Florida St.,RLB,15,15.0,5.0,9.0,Eagles,2017
+50.0,Bryan Braman,5/4/1987,30.0,6-5,230.0,West Texas A&M,LB,3,0.0,6.0,0.0,Eagles,2017
+79.0,Brandon Brooks,8/19/1989,28.0,6-5,335.0,Miami (OH),RG,16,16.0,5.0,11.0,Eagles,2017
+88.0,Trey Burton,10/29/1991,26.0,6-2,238.0,Florida,TE,15,1.0,3.0,2.0,Eagles,2017
+87.0,Brent Celek,1/25/1985,32.0,6-4,261.0,Cincinnati,TE,16,10.0,10.0,1.0,Eagles,2017
+30.0,Corey Clement,11/2/1994,23.0,5-10,220.0,Wisconsin,RB,16,0.0,0.0,3.0,Eagles,2017
+91.0,Fletcher Cox,12/13/1990,27.0,6-4,310.0,Mississippi St.,RDT,14,14.0,5.0,14.0,Eagles,2017
+75.0,Vinny Curry,6/30/1988,29.0,6-3,279.0,Marshall,LDE,16,16.0,5.0,8.0,Eagles,2017
+41.0,Ronald Darby,1/2/1994,23.0,5-11,193.0,Florida St.,RCB,8,7.0,2.0,4.0,Eagles,2017
+32.0,Rasul Douglas,8/29/1995,22.0,6-2,209.0,West Virginia,RCB,14,5.0,0.0,3.0,Eagles,2017
+57.0,Dannell Ellerbe,11/29/1985,32.0,6-1,236.0,Georgia,LB,3,2.0,8.0,1.0,Eagles,2017
+4.0,Jake Elliott,1/21/1995,22.0,5-9,167.0,Memphis,K,15,0.0,0.0,3.0,Eagles,2017
+35.0,Trae Elston,2/16/1994,23.0,6-0,203.0,Mississippi,DB,1,0.0,0.0,0.0,Eagles,2017
+86.0,Zach Ertz,11/10/1990,27.0,6-5,250.0,Stanford,TE,14,13.0,4.0,8.0,Eagles,2017
+9.0,Nick Foles,1/20/1989,28.0,6-6,262.0,Arizona,QB,7,3.0,5.0,2.0,Eagles,2017
+47.0,Nathan Gerry,2/23/1995,22.0,6-2,230.0,Nebraska,DB,10,1.0,0.0,2.0,Eagles,2017
+18.0,Shelton Gibson,3/20/1994,23.0,5-11,191.0,West Virginia,WR,5,0.0,0.0,0.0,Eagles,2017
+52.0,Najee Goode,6/4/1989,28.0,6-0,244.0,West Virginia,LB,16,3.0,5.0,3.0,Eagles,2017
+55.0,Brandon Graham,4/3/1988,29.0,6-2,265.0,Michigan,RDE,15,15.0,7.0,9.0,Eagles,2017
+24.0,Corey Graham,7/25/1985,32.0,6-0,196.0,New Hampshire,DB,14,1.0,10.0,2.0,Eagles,2017
+54.0,Kamu Grugier-Hill,5/16/1994,23.0,6-2,220.0,Eastern Illinois,LB,16,0.0,1.0,2.0,Eagles,2017
+90.0,Justin Hamilton,7/27/1993,24.0,6-2,315.0,Louisiana,DT,3,0.0,0.0,0.0,Eagles,2017
+58.0,Jordan Hicks,6/27/1992,25.0,6-1,236.0,Texas,MLB,7,7.0,2.0,4.0,Eagles,2017
+10.0,Mack Hollins,9/16/1993,24.0,6-4,221.0,North Carolina,WR,16,0.0,0.0,2.0,Eagles,2017
+17.0,Alshon Jeffery,2/14/1990,27.0,6-3,218.0,South Carolina,WR,16,16.0,5.0,7.0,Eagles,2017
+27.0,Malcolm Jenkins,12/20/1987,30.0,6-0,204.0,Ohio St.,FS,16,16.0,8.0,10.0,Eagles,2017
+93.0,Timmy Jernigan,9/24/1992,25.0,6-2,295.0,Florida St.,LDT,15,15.0,3.0,7.0,Eagles,2017
+65.0,Lane Johnson,5/8/1990,27.0,6-6,325.0,"Kilgore College,Oklahoma",RT,15,15.0,4.0,15.0,Eagles,2017
+14.0,Marcus Johnson,8/5/1994,23.0,6-1,207.0,Texas,WR,10,0.0,0.0,0.0,Eagles,2017
+8.0,Donnie Jones,7/5/1980,37.0,6-2,221.0,LSU,P,16,0.0,13.0,2.0,Eagles,2017
+22.0,Sidney Jones,5/21/1996,21.0,6-0,181.0,Washington,DB,1,0.0,0.0,0.0,Eagles,2017
+62.0,Jason Kelce,11/5/1987,30.0,6-3,295.0,Cincinnati,C,16,16.0,6.0,16.0,Eagles,2017
+95.0,Mychal Kendricks,9/28/1990,27.0,5-11,240.0,California,LLB,15,13.0,5.0,7.0,Eagles,2017
+56.0,Chris Long,3/28/1985,32.0,6-3,270.0,Virginia,DE,16,1.0,9.0,3.0,Eagles,2017
+45.0,Rick Lovato,9/9/1992,25.0,6-2,249.0,Old Dominion,LS,16,0.0,2.0,1.0,Eagles,2017
+42.0,Chris Maragos,1/6/1987,30.0,5-10,200.0,Wisconsin,DB,6,1.0,7.0,1.0,Eagles,2017
+33.0,Dexter McDougle,4/8/1991,26.0,5-10,190.0,Maryland,DB,8,0.0,2.0,1.0,Eagles,2017
+23.0,Rodney McLeod,6/23/1990,27.0,5-10,185.0,Virginia,SS,14,14.0,5.0,7.0,Eagles,2017
+51.0,Steven Means,9/16/1990,27.0,6-3,263.0,Buffalo,DE,6,0.0,4.0,1.0,Eagles,2017
+31.0,Jalen Mills,4/6/1994,23.0,6-0,200.0,LSU,LCB,15,15.0,1.0,7.0,Eagles,2017
+71.0,Jason Peters,1/22/1982,35.0,6-4,328.0,Arkansas,LT,7,7.0,13.0,4.0,Eagles,2017
+98.0,Elijah Qualls,2/11/1995,22.0,6-1,320.0,Washington,DT,6,0.0,0.0,1.0,Eagles,2017
+21.0,Patrick Robinson,9/7/1987,30.0,5-11,191.0,Florida St.,RCB,16,8.0,7.0,5.0,Eagles,2017
+73.0,Isaac Seumalo,10/29/1993,24.0,6-4,303.0,Oregon St.,G,14,2.0,1.0,2.0,Eagles,2017
+28.0,Wendell Smallwood,1/20/1994,23.0,5-10,208.0,West Virginia,RB,8,3.0,1.0,2.0,Eagles,2017
+82.0,Torrey Smith,1/26/1989,28.0,6-0,205.0,Maryland,WR,16,14.0,6.0,4.0,Eagles,2017
+43.0,Darren Sproles,6/20/1983,34.0,5-6,190.0,Kansas St.,RB,3,0.0,12.0,1.0,Eagles,2017
+6.0,Caleb Sturgis,8/9/1989,28.0,5-9,192.0,Florida,K,1,0.0,4.0,0.0,Eagles,2017
+7.0,Nate Sudfeld,10/7/1993,24.0,6-6,230.0,Indiana,QB,1,0.0,0.0,1.0,Eagles,2017
+97.0,Destiny Vaeao,1/15/1994,23.0,6-4,300.0,Washington St.,DT,11,0.0,1.0,1.0,Eagles,2017
+72.0,Halapoulivaati Vaitai,6/16/1993,24.0,6-6,322.0,TCU,LT,16,10.0,1.0,6.0,Eagles,2017
+59.0,Joe Walker,12/11/1992,25.0,6-2,236.0,Oregon,LB,12,3.0,0.0,2.0,Eagles,2017
+67.0,Chance Warmack,9/14/1991,26.0,6-2,323.0,Alabama,G,11,3.0,4.0,2.0,Eagles,2017
+26.0,Jaylen Watkins,11/27/1991,26.0,5-11,194.0,Florida,DB,12,1.0,3.0,1.0,Eagles,2017
+11.0,Carson Wentz,12/30/1992,25.0,6-5,237.0,North Dakota St.,QB,13,13.0,1.0,13.0,Eagles,2017
+61.0,Stefen Wisniewski,3/22/1989,28.0,6-3,305.0,Penn St.,LG,14,11.0,6.0,6.0,Eagles,2017
+,Team Total,,26.6,6-1.5,243.2,,,16,,3.9,,Eagles,2017

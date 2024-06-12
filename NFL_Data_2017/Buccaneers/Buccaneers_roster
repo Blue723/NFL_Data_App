@@ -1,68 +1,68 @@
-,No.,Player,BirthDate,Age,Height,Weight,College/University,Position,Games_Played_in_Season,Games_Started_in_Season,NFL_Years,Player_Value,Team,Year
-0,58.0,Kwon Alexander,8/3/1994,23.0,6-1,227.0,LSU,MLB,12,12.0,2.0,8.0,Buccaneers,2017
-1,9.0,Bryan Anger,10/6/1988,29.0,6-3,202.0,California,P,16,0.0,5.0,1.0,Buccaneers,2017
-2,82.0,Antony Auclair,5/28/1993,24.0,6-6,256.0,Laval,TE,8,3.0,0.0,0.0,Buccaneers,2017
-3,91.0,Robert Ayers,9/6/1985,32.0,6-3,275.0,Tennessee,LDE,12,10.0,8.0,4.0,Buccaneers,2017
-4,90.0,Chris Baker,10/8/1987,30.0,6-2,306.0,Hampton,RDT,15,14.0,8.0,6.0,Buccaneers,2017
-5,25.0,Peyton Barber,6/27/1994,23.0,5-11,225.0,Auburn,RB,16,4.0,1.0,3.0,Buccaneers,2017
-6,51.0,Kendell Beckwith,12/2/1994,23.0,6-2,243.0,LSU,MLB,16,9.0,0.0,5.0,Buccaneers,2017
-7,77.0,Caleb Benenoch,8/8/1994,23.0,6-5,305.0,UCLA,RT,13,5.0,1.0,3.0,Buccaneers,2017
-8,59.0,Devante Bond,7/3/1993,24.0,6-1,236.0,Oklahoma,LB,14,2.0,0.0,2.0,Buccaneers,2017
-9,84.0,Cameron Brate,7/3/1991,26.0,6-5,245.0,Harvard,TE,16,5.0,3.0,4.0,Buccaneers,2017
-10,49.0,Riley Bullough,11/23/1993,24.0,6-2,228.0,Michigan St.,LB,3,0.0,0.0,0.0,Buccaneers,2017
-11,94.0,Will Clarke,5/4/1991,26.0,6-6,275.0,West Virginia,DE,15,0.0,3.0,2.0,Buccaneers,2017
-12,23.0,Chris Conte,2/23/1989,28.0,6-2,203.0,California,SS,16,14.0,6.0,4.0,Buccaneers,2017
-13,45.0,Alan Cross,5/2/1993,24.0,6-1,235.0,Memphis,TE,8,4.0,1.0,0.0,Buccaneers,2017
-14,54.0,Lavonte David,1/23/1990,27.0,6-1,233.0,"Fort Scott (KS),Nebraska",RLB,13,13.0,5.0,7.0,Buccaneers,2017
-15,62.0,Evan Dietrich-Smith,7/19/1986,31.0,6-2,308.0,Idaho St.,C,15,6.0,8.0,4.0,Buccaneers,2017
-16,69.0,Demar Dotson,10/11/1985,32.0,6-9,315.0,Southern Miss,RT,11,11.0,8.0,5.0,Buccaneers,2017
-17,35.0,Javien Elliott,7/18/1993,24.0,5-11,185.0,Florida St.,DB,15,1.0,1.0,1.0,Buccaneers,2017
-18,21.0,Justin Evans,8/26/1995,22.0,6-0,199.0,"Mississippi Gulf Coast CC,Texas A&M",FS,14,11.0,0.0,4.0,Buccaneers,2017
-19,13.0,Mike Evans,8/21/1993,24.0,6-5,231.0,Texas A&M,WR,15,15.0,3.0,8.0,Buccaneers,2017
-20,14.0,Ryan Fitzpatrick,11/24/1982,35.0,6-2,221.0,Harvard,QB,6,3.0,12.0,3.0,Buccaneers,2017
-21,2.0,Nick Folk,11/5/1984,33.0,6-1,225.0,Arizona,K,4,0.0,10.0,-1.0,Buccaneers,2017
-22,92.0,William Gholston,7/31/1991,26.0,6-6,281.0,Michigan St.,RDE,14,10.0,4.0,4.0,Buccaneers,2017
-23,12.0,Chris Godwin,2/27/1996,21.0,6-1,209.0,Penn St.,WR,16,2.0,0.0,4.0,Buccaneers,2017
-24,24.0,Brent Grimes,7/19/1983,34.0,5-10,185.0,Shippensburg,RCB,13,13.0,10.0,4.0,Buccaneers,2017
-25,28.0,Vernon Hargreaves III,6/3/1995,22.0,5-10,204.0,Florida,LCB,9,8.0,1.0,2.0,Buccaneers,2017
-26,,Nigel Harris,12/7/1994,23.0,6-2,225.0,South Florida,LB,1,0.0,0.0,0.0,Buccaneers,2017
-27,68.0,Joe Hawley,10/22/1988,29.0,6-3,302.0,UNLV,C,4,2.0,7.0,1.0,Buccaneers,2017
-28,80.0,O.J. Howard,11/19/1994,23.0,6-6,251.0,Alabama,TE,14,14.0,0.0,3.0,Buccaneers,2017
-29,10.0,Adam Humphries,6/24/1993,24.0,5-11,195.0,Clemson,WR,16,3.0,2.0,5.0,Buccaneers,2017
-30,11.0,DeSean Jackson,12/1/1986,31.0,5-10,175.0,California,WR,14,13.0,9.0,5.0,Buccaneers,2017
-31,39.0,Isaiah Johnson,10/14/1992,25.0,6-0,209.0,"Iowa Western,South Carolina",DB,4,0.0,0.0,1.0,Buccaneers,2017
-32,67.0,Mike Liedtke,1/15/1992,25.0,6-3,305.0,Illinois St.,G,1,0.0,0.0,0.0,Buccaneers,2017
-33,52.0,Cameron Lynch,8/4/1993,24.0,6-0,229.0,Syracuse,LB,11,0.0,2.0,1.0,Buccaneers,2017
-34,74.0,Ali Marpet,4/17/1993,24.0,6-4,307.0,Hobart,C,11,11.0,2.0,5.0,Buccaneers,2017
-35,22.0,Doug Martin,1/13/1989,28.0,5-9,210.0,Boise St.,RB,11,8.0,5.0,3.0,Buccaneers,2017
-36,16.0,Freddie Martino,9/7/1991,26.0,6-0,195.0,North Greenville,WR,8,0.0,3.0,1.0,Buccaneers,2017
-37,36.0,Robert McClain,7/22/1988,29.0,5-9,180.0,Connecticut,CB,14,9.0,7.0,3.0,Buccaneers,2017
-38,93.0,Gerald McCoy,2/25/1988,29.0,6-4,295.0,Oklahoma,LDT,15,15.0,7.0,9.0,Buccaneers,2017
-39,98.0,Clinton McDonald,1/6/1987,30.0,6-2,297.0,Memphis,DT,14,3.0,7.0,3.0,Buccaneers,2017
-40,7.0,Patrick Murray,6/22/1991,26.0,5-7,182.0,Fordham,K,12,0.0,3.0,2.0,Buccaneers,2017
-41,79.0,Pat O'Connor,11/1/1993,24.0,6-4,270.0,Eastern Michigan,DE,3,0.0,0.0,0.0,Buccaneers,2017
-42,,Ayodeji Olatoye,7/20/1991,26.0,6-1,194.0,North Carolina A&T,DB,3,0.0,2.0,0.0,Buccaneers,2017
-43,64.0,Kevin Pamphile,11/27/1990,27.0,6-5,315.0,Purdue,LG,16,15.0,3.0,7.0,Buccaneers,2017
-44,18.0,Bernard Reedy,12/31/1991,26.0,5-9,175.0,Toledo,WR,9,0.0,0.0,0.0,Buccaneers,2017
-45,27.0,David Rivers,7/23/1994,23.0,6-2,185.0,Youngstown St.,DB,1,0.0,0.0,0.0,Buccaneers,2017
-46,26.0,Josh Robinson,1/8/1991,26.0,5-10,200.0,Central Florida,DB,11,0.0,5.0,0.0,Buccaneers,2017
-47,32.0,Jacquizz Rodgers,2/6/1990,27.0,5-6,205.0,Oregon St.,RB,16,4.0,6.0,2.0,Buccaneers,2017
-48,95.0,Ryan Russell,1/17/1992,25.0,6-5,275.0,Purdue,DE,14,7.0,2.0,3.0,Buccaneers,2017
-49,65.0,Garrison Sanborn,7/31/1985,32.0,6-1,240.0,Florida St.,LS,16,0.0,8.0,2.0,Buccaneers,2017
-50,96.0,Sealver Siliga,4/26/1990,27.0,6-2,345.0,Utah,DT,8,0.0,5.0,1.0,Buccaneers,2017
-51,34.0,Charles Sims,9/19/1990,27.0,6-0,211.0,West Virginia,RB,16,0.0,3.0,2.0,Buccaneers,2017
-52,76.0,Donovan Smith,6/23/1993,24.0,6-6,338.0,Penn St.,LT,16,16.0,2.0,8.0,Buccaneers,2017
-53,56.0,Jacquies Smith,3/18/1990,27.0,6-2,260.0,Missouri,LB,1,0.0,3.0,0.0,Buccaneers,2017
-54,29.0,Ryan Smith,9/7/1993,24.0,5-11,190.0,North Carolina Central,LCB,15,10.0,1.0,3.0,Buccaneers,2017
-55,57.0,Noah Spence,1/8/1994,23.0,6-2,251.0,"Ohio St.,Eastern Kentucky",LB,6,3.0,1.0,1.0,Buccaneers,2017
-56,88.0,Luke Stocker,7/17/1988,29.0,6-5,253.0,Tennessee,TE,9,4.0,6.0,0.0,Buccaneers,2017
-57,73.0,J.R. Sweezy,4/8/1989,28.0,6-5,310.0,North Carolina St.,RG,14,14.0,5.0,7.0,Buccaneers,2017
-58,37.0,Keith Tandy,2/12/1989,28.0,5-10,205.0,West Virginia,DB,14,3.0,5.0,1.0,Buccaneers,2017
-59,56.0,Darryl Tapp,9/13/1984,33.0,6-1,270.0,Virginia Tech,DE,3,1.0,11.0,1.0,Buccaneers,2017
-60,53.0,Adarius Taylor,9/21/1990,27.0,6-0,230.0,"Eastern Arizona,Florida Atlantic",LLB,14,4.0,3.0,3.0,Buccaneers,2017
-61,71.0,Channing Ward,9/17/1992,25.0,6-4,279.0,Mississippi,DT,1,0.0,1.0,0.0,Buccaneers,2017
-62,43.0,T.J. Ward,12/12/1986,31.0,5-10,200.0,Oregon,DB,12,4.0,7.0,2.0,Buccaneers,2017
-63,66.0,Leonard Wester,1/3/1993,24.0,6-6,305.0,Missouri Western St.,T,8,0.0,1.0,1.0,Buccaneers,2017
-64,,Bobo Wilson,1/25/1995,22.0,5-9,186.0,Florida St.,WR,3,1.0,0.0,0.0,Buccaneers,2017
-65,3.0,Jameis Winston,1/6/1994,23.0,6-4,231.0,Florida St.,QB,13,13.0,2.0,10.0,Buccaneers,2017
-66,,Team Total,,26.4,6-1.6,241.5,,,16,,3.6,,Buccaneers,2017
+No.,Player,BirthDate,Age,Height,Weight,College/University,Position,Games_Played_in_Season,Games_Started_in_Season,NFL_Years,Player_Value,Team,Year
+58.0,Kwon Alexander,8/3/1994,23.0,6-1,227.0,LSU,MLB,12,12.0,2.0,8.0,Buccaneers,2017
+9.0,Bryan Anger,10/6/1988,29.0,6-3,202.0,California,P,16,0.0,5.0,1.0,Buccaneers,2017
+82.0,Antony Auclair,5/28/1993,24.0,6-6,256.0,Laval,TE,8,3.0,0.0,0.0,Buccaneers,2017
+91.0,Robert Ayers,9/6/1985,32.0,6-3,275.0,Tennessee,LDE,12,10.0,8.0,4.0,Buccaneers,2017
+90.0,Chris Baker,10/8/1987,30.0,6-2,306.0,Hampton,RDT,15,14.0,8.0,6.0,Buccaneers,2017
+25.0,Peyton Barber,6/27/1994,23.0,5-11,225.0,Auburn,RB,16,4.0,1.0,3.0,Buccaneers,2017
+51.0,Kendell Beckwith,12/2/1994,23.0,6-2,243.0,LSU,MLB,16,9.0,0.0,5.0,Buccaneers,2017
+77.0,Caleb Benenoch,8/8/1994,23.0,6-5,305.0,UCLA,RT,13,5.0,1.0,3.0,Buccaneers,2017
+59.0,Devante Bond,7/3/1993,24.0,6-1,236.0,Oklahoma,LB,14,2.0,0.0,2.0,Buccaneers,2017
+84.0,Cameron Brate,7/3/1991,26.0,6-5,245.0,Harvard,TE,16,5.0,3.0,4.0,Buccaneers,2017
+49.0,Riley Bullough,11/23/1993,24.0,6-2,228.0,Michigan St.,LB,3,0.0,0.0,0.0,Buccaneers,2017
+94.0,Will Clarke,5/4/1991,26.0,6-6,275.0,West Virginia,DE,15,0.0,3.0,2.0,Buccaneers,2017
+23.0,Chris Conte,2/23/1989,28.0,6-2,203.0,California,SS,16,14.0,6.0,4.0,Buccaneers,2017
+45.0,Alan Cross,5/2/1993,24.0,6-1,235.0,Memphis,TE,8,4.0,1.0,0.0,Buccaneers,2017
+54.0,Lavonte David,1/23/1990,27.0,6-1,233.0,"Fort Scott (KS),Nebraska",RLB,13,13.0,5.0,7.0,Buccaneers,2017
+62.0,Evan Dietrich-Smith,7/19/1986,31.0,6-2,308.0,Idaho St.,C,15,6.0,8.0,4.0,Buccaneers,2017
+69.0,Demar Dotson,10/11/1985,32.0,6-9,315.0,Southern Miss,RT,11,11.0,8.0,5.0,Buccaneers,2017
+35.0,Javien Elliott,7/18/1993,24.0,5-11,185.0,Florida St.,DB,15,1.0,1.0,1.0,Buccaneers,2017
+21.0,Justin Evans,8/26/1995,22.0,6-0,199.0,"Mississippi Gulf Coast CC,Texas A&M",FS,14,11.0,0.0,4.0,Buccaneers,2017
+13.0,Mike Evans,8/21/1993,24.0,6-5,231.0,Texas A&M,WR,15,15.0,3.0,8.0,Buccaneers,2017
+14.0,Ryan Fitzpatrick,11/24/1982,35.0,6-2,221.0,Harvard,QB,6,3.0,12.0,3.0,Buccaneers,2017
+2.0,Nick Folk,11/5/1984,33.0,6-1,225.0,Arizona,K,4,0.0,10.0,-1.0,Buccaneers,2017
+92.0,William Gholston,7/31/1991,26.0,6-6,281.0,Michigan St.,RDE,14,10.0,4.0,4.0,Buccaneers,2017
+12.0,Chris Godwin,2/27/1996,21.0,6-1,209.0,Penn St.,WR,16,2.0,0.0,4.0,Buccaneers,2017
+24.0,Brent Grimes,7/19/1983,34.0,5-10,185.0,Shippensburg,RCB,13,13.0,10.0,4.0,Buccaneers,2017
+28.0,Vernon Hargreaves III,6/3/1995,22.0,5-10,204.0,Florida,LCB,9,8.0,1.0,2.0,Buccaneers,2017
+,Nigel Harris,12/7/1994,23.0,6-2,225.0,South Florida,LB,1,0.0,0.0,0.0,Buccaneers,2017
+68.0,Joe Hawley,10/22/1988,29.0,6-3,302.0,UNLV,C,4,2.0,7.0,1.0,Buccaneers,2017
+80.0,O.J. Howard,11/19/1994,23.0,6-6,251.0,Alabama,TE,14,14.0,0.0,3.0,Buccaneers,2017
+10.0,Adam Humphries,6/24/1993,24.0,5-11,195.0,Clemson,WR,16,3.0,2.0,5.0,Buccaneers,2017
+11.0,DeSean Jackson,12/1/1986,31.0,5-10,175.0,California,WR,14,13.0,9.0,5.0,Buccaneers,2017
+39.0,Isaiah Johnson,10/14/1992,25.0,6-0,209.0,"Iowa Western,South Carolina",DB,4,0.0,0.0,1.0,Buccaneers,2017
+67.0,Mike Liedtke,1/15/1992,25.0,6-3,305.0,Illinois St.,G,1,0.0,0.0,0.0,Buccaneers,2017
+52.0,Cameron Lynch,8/4/1993,24.0,6-0,229.0,Syracuse,LB,11,0.0,2.0,1.0,Buccaneers,2017
+74.0,Ali Marpet,4/17/1993,24.0,6-4,307.0,Hobart,C,11,11.0,2.0,5.0,Buccaneers,2017
+22.0,Doug Martin,1/13/1989,28.0,5-9,210.0,Boise St.,RB,11,8.0,5.0,3.0,Buccaneers,2017
+16.0,Freddie Martino,9/7/1991,26.0,6-0,195.0,North Greenville,WR,8,0.0,3.0,1.0,Buccaneers,2017
+36.0,Robert McClain,7/22/1988,29.0,5-9,180.0,Connecticut,CB,14,9.0,7.0,3.0,Buccaneers,2017
+93.0,Gerald McCoy,2/25/1988,29.0,6-4,295.0,Oklahoma,LDT,15,15.0,7.0,9.0,Buccaneers,2017
+98.0,Clinton McDonald,1/6/1987,30.0,6-2,297.0,Memphis,DT,14,3.0,7.0,3.0,Buccaneers,2017
+7.0,Patrick Murray,6/22/1991,26.0,5-7,182.0,Fordham,K,12,0.0,3.0,2.0,Buccaneers,2017
+79.0,Pat O'Connor,11/1/1993,24.0,6-4,270.0,Eastern Michigan,DE,3,0.0,0.0,0.0,Buccaneers,2017
+,Ayodeji Olatoye,7/20/1991,26.0,6-1,194.0,North Carolina A&T,DB,3,0.0,2.0,0.0,Buccaneers,2017
+64.0,Kevin Pamphile,11/27/1990,27.0,6-5,315.0,Purdue,LG,16,15.0,3.0,7.0,Buccaneers,2017
+18.0,Bernard Reedy,12/31/1991,26.0,5-9,175.0,Toledo,WR,9,0.0,0.0,0.0,Buccaneers,2017
+27.0,David Rivers,7/23/1994,23.0,6-2,185.0,Youngstown St.,DB,1,0.0,0.0,0.0,Buccaneers,2017
+26.0,Josh Robinson,1/8/1991,26.0,5-10,200.0,Central Florida,DB,11,0.0,5.0,0.0,Buccaneers,2017
+32.0,Jacquizz Rodgers,2/6/1990,27.0,5-6,205.0,Oregon St.,RB,16,4.0,6.0,2.0,Buccaneers,2017
+95.0,Ryan Russell,1/17/1992,25.0,6-5,275.0,Purdue,DE,14,7.0,2.0,3.0,Buccaneers,2017
+65.0,Garrison Sanborn,7/31/1985,32.0,6-1,240.0,Florida St.,LS,16,0.0,8.0,2.0,Buccaneers,2017
+96.0,Sealver Siliga,4/26/1990,27.0,6-2,345.0,Utah,DT,8,0.0,5.0,1.0,Buccaneers,2017
+34.0,Charles Sims,9/19/1990,27.0,6-0,211.0,West Virginia,RB,16,0.0,3.0,2.0,Buccaneers,2017
+76.0,Donovan Smith,6/23/1993,24.0,6-6,338.0,Penn St.,LT,16,16.0,2.0,8.0,Buccaneers,2017
+56.0,Jacquies Smith,3/18/1990,27.0,6-2,260.0,Missouri,LB,1,0.0,3.0,0.0,Buccaneers,2017
+29.0,Ryan Smith,9/7/1993,24.0,5-11,190.0,North Carolina Central,LCB,15,10.0,1.0,3.0,Buccaneers,2017
+57.0,Noah Spence,1/8/1994,23.0,6-2,251.0,"Ohio St.,Eastern Kentucky",LB,6,3.0,1.0,1.0,Buccaneers,2017
+88.0,Luke Stocker,7/17/1988,29.0,6-5,253.0,Tennessee,TE,9,4.0,6.0,0.0,Buccaneers,2017
+73.0,J.R. Sweezy,4/8/1989,28.0,6-5,310.0,North Carolina St.,RG,14,14.0,5.0,7.0,Buccaneers,2017
+37.0,Keith Tandy,2/12/1989,28.0,5-10,205.0,West Virginia,DB,14,3.0,5.0,1.0,Buccaneers,2017
+56.0,Darryl Tapp,9/13/1984,33.0,6-1,270.0,Virginia Tech,DE,3,1.0,11.0,1.0,Buccaneers,2017
+53.0,Adarius Taylor,9/21/1990,27.0,6-0,230.0,"Eastern Arizona,Florida Atlantic",LLB,14,4.0,3.0,3.0,Buccaneers,2017
+71.0,Channing Ward,9/17/1992,25.0,6-4,279.0,Mississippi,DT,1,0.0,1.0,0.0,Buccaneers,2017
+43.0,T.J. Ward,12/12/1986,31.0,5-10,200.0,Oregon,DB,12,4.0,7.0,2.0,Buccaneers,2017
+66.0,Leonard Wester,1/3/1993,24.0,6-6,305.0,Missouri Western St.,T,8,0.0,1.0,1.0,Buccaneers,2017
+,Bobo Wilson,1/25/1995,22.0,5-9,186.0,Florida St.,WR,3,1.0,0.0,0.0,Buccaneers,2017
+3.0,Jameis Winston,1/6/1994,23.0,6-4,231.0,Florida St.,QB,13,13.0,2.0,10.0,Buccaneers,2017
+,Team Total,,26.4,6-1.6,241.5,,,16,,3.6,,Buccaneers,2017

@@ -1,56 +1,56 @@
-,No.,Player,BirthDate,Age,Height,Weight,College/University,Position,Games_Played_in_Season,Games_Started_in_Season,NFL_Years,Player_Value,Team,Year
-0,53.0,Daren Bates,11/27/1990,27,5-11,225.0,Auburn,LB,16,0.0,4.0,1.0,Titans,2017
-1,48.0,Beau Brinkley,1/25/1990,27,6-4,260.0,Missouri,TE,16,0.0,5.0,1.0,Titans,2017
-2,55.0,Jayon Brown,2/26/1995,22,6-0,226.0,UCLA,LB,16,0.0,0.0,2.0,Titans,2017
-3,31.0,Kevin Byard,8/17/1993,24,5-11,212.0,Middle Tenn. St.,FS,16,16.0,1.0,14.0,Titans,2017
-4,44.0,Josh Carraway,4/13/1994,23,6-3,242.0,TCU,LB,1,0.0,0.0,0.0,Titans,2017
-5,99.0,Jurrell Casey,12/5/1989,28,6-1,305.0,USC,RDE,16,16.0,6.0,10.0,Titans,2017
-6,16.0,Matt Cassel,5/17/1982,35,6-4,225.0,USC,QB,2,1.0,12.0,0.0,Titans,2017
-7,78.0,Jack Conklin,8/17/1994,23,6-6,308.0,Michigan St.,RT,16,16.0,1.0,8.0,Titans,2017
-8,37.0,Johnathan Cyprien,7/29/1990,27,6-1,211.0,Florida International,SS,10,10.0,4.0,4.0,Titans,2017
-9,84.0,Corey Davis,1/11/1995,22,6-3,209.0,Western Michigan,WR,11,9.0,0.0,3.0,Titans,2017
-10,87.0,Eric Decker,3/15/1987,30,6-3,214.0,Minnesota,WR,16,8.0,7.0,5.0,Titans,2017
-11,92.0,Kevin Dodd,7/14/1992,25,6-5,277.0,Clemson,DE,9,0.0,1.0,1.0,Titans,2017
-12,83.0,Harry Douglas,9/16/1984,33,6-0,183.0,Louisville,WR,2,0.0,9.0,0.0,Titans,2017
-13,32.0,David Fluellen,1/28/1992,25,5-11,224.0,Toledo,RB,16,0.0,0.0,0.0,Titans,2017
-14,45.0,Jalston Fowler,7/26/1990,27,5-11,261.0,Alabama,RB,10,1.0,2.0,0.0,Titans,2017
-15,22.0,Derrick Henry,1/4/1994,23,6-3,247.0,Alabama,RB,16,2.0,1.0,6.0,Titans,2017
-16,25.0,Adoree' Jackson,9/18/1995,22,5-11,185.0,USC,LCB,16,16.0,0.0,6.0,Titans,2017
-17,94.0,Austin Johnson,5/8/1994,23,6-4,314.0,Penn St.,NT,16,3.0,1.0,2.0,Titans,2017
-18,60.0,Ben Jones,7/2/1989,28,6-3,308.0,Georgia,C,16,16.0,5.0,8.0,Titans,2017
-19,90.0,DaQuan Jones,12/17/1991,26,6-4,320.0,Penn St.,LDE,12,12.0,3.0,5.0,Titans,2017
-20,71.0,Dennis Kelly,1/16/1990,27,6-8,321.0,Purdue,T,16,1.0,5.0,2.0,Titans,2017
-21,6.0,Brett Kern,2/17/1986,31,6-2,214.0,Toledo,P,16,0.0,9.0,4.0,Titans,2017
-22,95.0,David King,12/27/1989,28,6-4,281.0,Oklahoma,DE,7,0.0,3.0,1.0,Titans,2017
-23,64.0,Josh Kline,12/29/1989,28,6-3,300.0,Kent St.,RG,16,16.0,4.0,8.0,Titans,2017
-24,97.0,Karl Klug,3/31/1988,29,6-3,278.0,Iowa,DT,15,0.0,6.0,1.0,Titans,2017
-25,77.0,Taylor Lewan,7/22/1991,26,6-7,309.0,Michigan,LT,16,16.0,3.0,10.0,Titans,2017
-26,8.0,Marcus Mariota,10/30/1993,24,6-4,222.0,Oregon,QB,15,15.0,2.0,12.0,Titans,2017
-27,18.0,Rishard Matthews,10/12/1989,28,6-0,217.0,Nevada,WR,14,11.0,5.0,7.0,Titans,2017
-28,23.0,Brice McCain,12/10/1986,31,5-9,190.0,Utah,DB,16,1.0,8.0,1.0,Titans,2017
-29,91.0,Derrick Morgan,1/6/1989,28,6-4,261.0,Georgia Tech,LOLB,14,14.0,7.0,6.0,Titans,2017
-30,29.0,DeMarco Murray,2/12/1988,29,6-1,220.0,Oklahoma,RB,15,15.0,6.0,7.0,Titans,2017
-31,98.0,Brian Orakpo,7/31/1986,31,6-4,257.0,Texas,ROLB,16,16.0,8.0,7.0,Titans,2017
-32,50.0,Nate Palmer,9/23/1989,28,6-2,248.0,Illinois St.,LB,10,0.0,4.0,1.0,Titans,2017
-33,24.0,Kalan Reed,12/29/1993,24,5-11,199.0,Southern Miss,DB,3,0.0,1.0,0.0,Titans,2017
-34,35.0,Curtis Riley,7/18/1992,25,6-0,190.0,Fresno St.,DB,7,0.0,1.0,1.0,Titans,2017
-35,26.0,Logan Ryan,2/9/1991,26,5-11,195.0,Rutgers,RCB,15,15.0,4.0,5.0,Titans,2017
-36,62.0,Brian Schwenke,3/22/1991,26,6-3,310.0,California,C,16,2.0,4.0,2.0,Titans,2017
-37,21.0,Da'Norris Searcy,11/16/1988,29,5-11,205.0,North Carolina,SS,16,6.0,6.0,3.0,Titans,2017
-38,36.0,LeShaun Sims,9/18/1993,24,6-0,203.0,Southern Utah,DB,13,5.0,1.0,2.0,Titans,2017
-39,81.0,Jonnu Smith,8/22/1995,22,6-3,248.0,Florida International,TE,16,13.0,0.0,1.0,Titans,2017
-40,33.0,Tye Smith,5/3/1993,24,6-0,195.0,Towson,DB,15,1.0,2.0,1.0,Titans,2017
-41,67.0,Quinton Spain,8/7/1991,26,6-4,330.0,West Virginia,LG,14,14.0,2.0,7.0,Titans,2017
-42,88.0,Luke Stocker,7/17/1988,29,6-5,253.0,Tennessee,TE,3,2.0,6.0,0.0,Titans,2017
-43,4.0,Ryan Succop,9/19/1986,31,6-2,218.0,South Carolina,K,16,0.0,8.0,3.0,Titans,2017
-44,89.0,Phillip Supernaw,1/30/1990,27,6-5,255.0,Ouachita Baptist,TE,16,3.0,4.0,0.0,Titans,2017
-45,13.0,Taywan Taylor,3/2/1995,22,5-11,203.0,Western Kentucky,WR,16,4.0,0.0,2.0,Titans,2017
-46,41.0,Brynden Trawick,10/23/1989,28,6-2,225.0,Troy,DB,16,0.0,4.0,3.0,Titans,2017
-47,93.0,Erik Walden,8/21/1985,32,6-2,250.0,Middle Tenn. St.,LB,16,2.0,9.0,2.0,Titans,2017
-48,82.0,Delanie Walker,8/12/1984,33,6-2,248.0,Central Missouri St.,TE,16,11.0,11.0,7.0,Titans,2017
-49,52.0,Aaron Wallace,7/8/1993,24,6-2,242.0,UCLA,LB,2,0.0,1.0,0.0,Titans,2017
-50,14.0,Eric Weems,7/4/1985,32,5-9,195.0,Bethune-Cookman,WR,16,0.0,10.0,0.0,Titans,2017
-51,96.0,Sylvester Williams,11/21/1988,29,6-2,328.0,North Carolina,NT,15,11.0,4.0,5.0,Titans,2017
-52,54.0,Avery Williamson,3/9/1992,25,6-1,246.0,Kentucky,RILB,16,16.0,3.0,7.0,Titans,2017
-53,59.0,Wesley Woodyard,7/21/1986,31,6-0,233.0,Kentucky,LILB,16,16.0,9.0,8.0,Titans,2017
-54,,Team Total,,27,6-1.9,245.3,,,16,,4.1,,Titans,2017
+No.,Player,BirthDate,Age,Height,Weight,College/University,Position,Games_Played_in_Season,Games_Started_in_Season,NFL_Years,Player_Value,Team,Year
+53.0,Daren Bates,11/27/1990,27,5-11,225.0,Auburn,LB,16,0.0,4.0,1.0,Titans,2017
+48.0,Beau Brinkley,1/25/1990,27,6-4,260.0,Missouri,TE,16,0.0,5.0,1.0,Titans,2017
+55.0,Jayon Brown,2/26/1995,22,6-0,226.0,UCLA,LB,16,0.0,0.0,2.0,Titans,2017
+31.0,Kevin Byard,8/17/1993,24,5-11,212.0,Middle Tenn. St.,FS,16,16.0,1.0,14.0,Titans,2017
+44.0,Josh Carraway,4/13/1994,23,6-3,242.0,TCU,LB,1,0.0,0.0,0.0,Titans,2017
+99.0,Jurrell Casey,12/5/1989,28,6-1,305.0,USC,RDE,16,16.0,6.0,10.0,Titans,2017
+16.0,Matt Cassel,5/17/1982,35,6-4,225.0,USC,QB,2,1.0,12.0,0.0,Titans,2017
+78.0,Jack Conklin,8/17/1994,23,6-6,308.0,Michigan St.,RT,16,16.0,1.0,8.0,Titans,2017
+37.0,Johnathan Cyprien,7/29/1990,27,6-1,211.0,Florida International,SS,10,10.0,4.0,4.0,Titans,2017
+84.0,Corey Davis,1/11/1995,22,6-3,209.0,Western Michigan,WR,11,9.0,0.0,3.0,Titans,2017
+87.0,Eric Decker,3/15/1987,30,6-3,214.0,Minnesota,WR,16,8.0,7.0,5.0,Titans,2017
+92.0,Kevin Dodd,7/14/1992,25,6-5,277.0,Clemson,DE,9,0.0,1.0,1.0,Titans,2017
+83.0,Harry Douglas,9/16/1984,33,6-0,183.0,Louisville,WR,2,0.0,9.0,0.0,Titans,2017
+32.0,David Fluellen,1/28/1992,25,5-11,224.0,Toledo,RB,16,0.0,0.0,0.0,Titans,2017
+45.0,Jalston Fowler,7/26/1990,27,5-11,261.0,Alabama,RB,10,1.0,2.0,0.0,Titans,2017
+22.0,Derrick Henry,1/4/1994,23,6-3,247.0,Alabama,RB,16,2.0,1.0,6.0,Titans,2017
+25.0,Adoree' Jackson,9/18/1995,22,5-11,185.0,USC,LCB,16,16.0,0.0,6.0,Titans,2017
+94.0,Austin Johnson,5/8/1994,23,6-4,314.0,Penn St.,NT,16,3.0,1.0,2.0,Titans,2017
+60.0,Ben Jones,7/2/1989,28,6-3,308.0,Georgia,C,16,16.0,5.0,8.0,Titans,2017
+90.0,DaQuan Jones,12/17/1991,26,6-4,320.0,Penn St.,LDE,12,12.0,3.0,5.0,Titans,2017
+71.0,Dennis Kelly,1/16/1990,27,6-8,321.0,Purdue,T,16,1.0,5.0,2.0,Titans,2017
+6.0,Brett Kern,2/17/1986,31,6-2,214.0,Toledo,P,16,0.0,9.0,4.0,Titans,2017
+95.0,David King,12/27/1989,28,6-4,281.0,Oklahoma,DE,7,0.0,3.0,1.0,Titans,2017
+64.0,Josh Kline,12/29/1989,28,6-3,300.0,Kent St.,RG,16,16.0,4.0,8.0,Titans,2017
+97.0,Karl Klug,3/31/1988,29,6-3,278.0,Iowa,DT,15,0.0,6.0,1.0,Titans,2017
+77.0,Taylor Lewan,7/22/1991,26,6-7,309.0,Michigan,LT,16,16.0,3.0,10.0,Titans,2017
+8.0,Marcus Mariota,10/30/1993,24,6-4,222.0,Oregon,QB,15,15.0,2.0,12.0,Titans,2017
+18.0,Rishard Matthews,10/12/1989,28,6-0,217.0,Nevada,WR,14,11.0,5.0,7.0,Titans,2017
+23.0,Brice McCain,12/10/1986,31,5-9,190.0,Utah,DB,16,1.0,8.0,1.0,Titans,2017
+91.0,Derrick Morgan,1/6/1989,28,6-4,261.0,Georgia Tech,LOLB,14,14.0,7.0,6.0,Titans,2017
+29.0,DeMarco Murray,2/12/1988,29,6-1,220.0,Oklahoma,RB,15,15.0,6.0,7.0,Titans,2017
+98.0,Brian Orakpo,7/31/1986,31,6-4,257.0,Texas,ROLB,16,16.0,8.0,7.0,Titans,2017
+50.0,Nate Palmer,9/23/1989,28,6-2,248.0,Illinois St.,LB,10,0.0,4.0,1.0,Titans,2017
+24.0,Kalan Reed,12/29/1993,24,5-11,199.0,Southern Miss,DB,3,0.0,1.0,0.0,Titans,2017
+35.0,Curtis Riley,7/18/1992,25,6-0,190.0,Fresno St.,DB,7,0.0,1.0,1.0,Titans,2017
+26.0,Logan Ryan,2/9/1991,26,5-11,195.0,Rutgers,RCB,15,15.0,4.0,5.0,Titans,2017
+62.0,Brian Schwenke,3/22/1991,26,6-3,310.0,California,C,16,2.0,4.0,2.0,Titans,2017
+21.0,Da'Norris Searcy,11/16/1988,29,5-11,205.0,North Carolina,SS,16,6.0,6.0,3.0,Titans,2017
+36.0,LeShaun Sims,9/18/1993,24,6-0,203.0,Southern Utah,DB,13,5.0,1.0,2.0,Titans,2017
+81.0,Jonnu Smith,8/22/1995,22,6-3,248.0,Florida International,TE,16,13.0,0.0,1.0,Titans,2017
+33.0,Tye Smith,5/3/1993,24,6-0,195.0,Towson,DB,15,1.0,2.0,1.0,Titans,2017
+67.0,Quinton Spain,8/7/1991,26,6-4,330.0,West Virginia,LG,14,14.0,2.0,7.0,Titans,2017
+88.0,Luke Stocker,7/17/1988,29,6-5,253.0,Tennessee,TE,3,2.0,6.0,0.0,Titans,2017
+4.0,Ryan Succop,9/19/1986,31,6-2,218.0,South Carolina,K,16,0.0,8.0,3.0,Titans,2017
+89.0,Phillip Supernaw,1/30/1990,27,6-5,255.0,Ouachita Baptist,TE,16,3.0,4.0,0.0,Titans,2017
+13.0,Taywan Taylor,3/2/1995,22,5-11,203.0,Western Kentucky,WR,16,4.0,0.0,2.0,Titans,2017
+41.0,Brynden Trawick,10/23/1989,28,6-2,225.0,Troy,DB,16,0.0,4.0,3.0,Titans,2017
+93.0,Erik Walden,8/21/1985,32,6-2,250.0,Middle Tenn. St.,LB,16,2.0,9.0,2.0,Titans,2017
+82.0,Delanie Walker,8/12/1984,33,6-2,248.0,Central Missouri St.,TE,16,11.0,11.0,7.0,Titans,2017
+52.0,Aaron Wallace,7/8/1993,24,6-2,242.0,UCLA,LB,2,0.0,1.0,0.0,Titans,2017
+14.0,Eric Weems,7/4/1985,32,5-9,195.0,Bethune-Cookman,WR,16,0.0,10.0,0.0,Titans,2017
+96.0,Sylvester Williams,11/21/1988,29,6-2,328.0,North Carolina,NT,15,11.0,4.0,5.0,Titans,2017
+54.0,Avery Williamson,3/9/1992,25,6-1,246.0,Kentucky,RILB,16,16.0,3.0,7.0,Titans,2017
+59.0,Wesley Woodyard,7/21/1986,31,6-0,233.0,Kentucky,LILB,16,16.0,9.0,8.0,Titans,2017
+,Team Total,,27,6-1.9,245.3,,,16,,4.1,,Titans,2017

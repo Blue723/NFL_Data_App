@@ -1,68 +1,68 @@
-,No.,Player,BirthDate,Age,Height,Weight,College/University,Position,Games_Played_in_Season,Games_Started_in_Season,NFL_Years,Player_Value,Team,Year
-0,17.0,Davante Adams,12/24/1992,25.0,6-1,215.0,Fresno St.,WR,14,14.0,3.0,8.0,Packers,2017
-1,90.0,Montravius Adams,7/24/1995,22.0,6-4,304.0,Auburn,DT,7,0.0,0.0,0.0,Packers,2017
-2,81.0,Geronimo Allison,1/18/1994,23.0,6-3,202.0,Illinois,WR,15,2.0,1.0,2.0,Packers,2017
-3,69.0,David Bakhtiari,9/30/1991,26.0,6-4,310.0,Colorado,LT,12,12.0,4.0,10.0,Packers,2017
-4,80.0,Martellus Bennett,3/10/1987,30.0,6-6,275.0,Texas A&M,TE,7,7.0,9.0,2.0,Packers,2017
-5,45.0,Vince Biegel,7/2/1993,24.0,6-3,246.0,Wisconsin,LB,9,0.0,0.0,1.0,Packers,2017
-6,29.0,Kentrell Brice,8/11/1994,23.0,5-11,200.0,Louisiana Tech,DB,6,3.0,1.0,1.0,Packers,2017
-7,55.0,Ahmad Brooks,3/14/1984,33.0,6-3,259.0,Virginia,LB,12,5.0,11.0,3.0,Packers,2017
-8,44.0,Donatello Brown,5/15/1991,26.0,6-0,190.0,Valdosta St.,DB,4,0.0,0.0,0.0,Packers,2017
-9,75.0,Bryan Bulaga,3/21/1989,28.0,6-5,314.0,Iowa,RT,5,5.0,7.0,3.0,Packers,2017
-10,42.0,Morgan Burnett,1/13/1989,28.0,6-1,210.0,Georgia Tech,SS,12,12.0,7.0,3.0,Packers,2017
-11,86.0,Emanuel Byrd,12/9/1994,23.0,6-2,240.0,Marshall,TE,1,0.0,0.0,0.0,Packers,2017
-12,6.0,Joe Callahan,6/4/1993,24.0,6-1,216.0,Wesley,QB,1,0.0,0.0,0.0,Packers,2017
-13,97.0,Kenny Clark,10/4/1995,22.0,6-3,314.0,UCLA,NT,15,15.0,1.0,7.0,Packers,2017
-14,89.0,Michael Clark,10/26/1995,22.0,6-6,217.0,Marshall,WR,2,0.0,0.0,0.0,Packers,2017
-15,21.0,Ha Ha Clinton-Dix,12/21/1992,25.0,6-1,211.0,Alabama,FS,16,16.0,3.0,5.0,Packers,2017
-16,18.0,Randall Cobb,8/22/1990,27.0,5-10,192.0,Kentucky,WR,15,14.0,6.0,6.0,Packers,2017
-17,2.0,Mason Crosby,9/3/1984,33.0,6-1,207.0,Colorado,K,16,0.0,10.0,2.0,Packers,2017
-18,76.0,Mike Daniels,5/5/1989,28.0,6-0,310.0,Iowa,RDE,14,14.0,5.0,9.0,Packers,2017
-19,11.0,Trevor Davis,7/4/1993,24.0,6-1,188.0,California,WR,16,0.0,1.0,1.0,Packers,2017
-20,91.0,Quinton Dial,7/21/1990,27.0,6-5,318.0,"East Mississippi CC,Alabama",DE,13,2.0,4.0,2.0,Packers,2017
-21,73.0,Jahri Evans,8/22/1983,34.0,6-4,318.0,Bloomsburg,RG,14,14.0,11.0,7.0,Packers,2017
-22,25.0,Marwin Evans,4/10/1993,24.0,5-11,211.0,Utah St.,DB,16,1.0,1.0,1.0,Packers,2017
-23,51.0,Kyler Fackrell,11/25/1991,26.0,6-5,245.0,Utah St.,LB,16,2.0,1.0,2.0,Packers,2017
-24,93.0,Reggie Gilbert,4/1/1993,24.0,6-3,261.0,Arizona,DE,2,0.0,0.0,0.0,Packers,2017
-25,61.0,Brett Goode,11/2/1984,33.0,6-1,255.0,Arkansas,LB,10,0.0,9.0,1.0,Packers,2017
-26,36.0,Ladarius Gunter,5/13/1992,25.0,6-2,200.0,Miami (FL),DB,1,0.0,2.0,0.0,Packers,2017
-27,54.0,Derek Hart,12/1/1992,25.0,6-4,245.0,James Madison,LS,2,0.0,0.0,0.0,Packers,2017
-28,28.0,Josh Hawkins,1/23/1993,24.0,5-10,190.0,East Carolina,DB,15,3.0,1.0,1.0,Packers,2017
-29,31.0,Davon House,7/10/1989,28.0,6-0,195.0,New Mexico St.,LCB,12,12.0,6.0,4.0,Packers,2017
-30,7.0,Brett Hundley,6/15/1993,24.0,6-3,226.0,UCLA,QB,11,9.0,1.0,5.0,Packers,2017
-31,83.0,Jeff Janis,6/9/1991,26.0,6-3,219.0,Saginaw Valley St.,WR,16,0.0,3.0,0.0,Packers,2017
-32,99.0,Ricky Jean-Francois,11/23/1986,31.0,6-2,309.0,LSU,DT,6,0.0,8.0,0.0,Packers,2017
-33,74.0,Ulrick John,5/20/1992,25.0,6-5,312.0,Georgia St.,T,5,0.0,2.0,0.0,Packers,2017
-34,33.0,Aaron Jones,12/2/1994,23.0,5-9,208.0,Texas-El Paso,RB,12,4.0,0.0,3.0,Packers,2017
-35,27.0,Josh Jones,9/20/1994,23.0,6-2,220.0,North Carolina St.,DB,16,7.0,0.0,3.0,Packers,2017
-36,84.0,Lance Kendricks,1/30/1988,29.0,6-3,250.0,Wisconsin,TE,16,9.0,6.0,2.0,Packers,2017
-37,40.0,Joe Kerridge,9/17/1992,25.0,6-0,246.0,Michigan,RB,4,0.0,1.0,0.0,Packers,2017
-38,20.0,Kevin King,5/5/1995,22.0,6-3,200.0,Washington,RCB,9,5.0,0.0,2.0,Packers,2017
-39,63.0,Corey Linsley,7/27/1991,26.0,6-3,301.0,Ohio St.,C,16,16.0,3.0,8.0,Packers,2017
-40,94.0,Dean Lowry,6/9/1994,23.0,6-6,296.0,Northwestern,LDE,16,11.0,1.0,6.0,Packers,2017
-41,50.0,Blake Martinez,1/9/1994,23.0,6-2,237.0,Stanford,RILB,16,16.0,1.0,8.0,Packers,2017
-42,52.0,Clay Matthews,5/14/1986,31.0,6-3,255.0,USC,LOLB,14,14.0,8.0,6.0,Packers,2017
-43,32.0,Devante Mays,5/26/1994,23.0,5-10,224.0,Utah St.,RB,8,0.0,0.0,0.0,Packers,2017
-44,64.0,Justin McCray,5/31/1992,25.0,6-3,320.0,Central Florida,RT,13,8.0,0.0,5.0,Packers,2017
-45,88.0,Ty Montgomery,1/22/1993,24.0,6-0,220.0,Stanford,RB,8,5.0,2.0,4.0,Packers,2017
-46,68.0,Kyle Murphy,12/11/1993,24.0,6-6,305.0,Stanford,T,3,3.0,1.0,2.0,Packers,2017
-47,87.0,Jordy Nelson,5/31/1985,32.0,6-3,217.0,Kansas St.,WR,15,15.0,9.0,4.0,Packers,2017
-48,98.0,Chris Odom,9/16/1994,23.0,6-4,262.0,Arkansas St.,DE,7,0.0,0.0,0.0,Packers,2017
-49,77.0,Adam Pankey,2/2/1994,23.0,6-5,313.0,West Virginia,G,1,0.0,0.0,0.0,Packers,2017
-50,62.0,Lucas Patrick,7/30/1993,24.0,6-3,313.0,Duke,G,12,2.0,0.0,2.0,Packers,2017
-51,59.0,Taybor Pepper,5/28/1994,23.0,6-4,245.0,Michigan St.,LS,4,0.0,0.0,0.0,Packers,2017
-52,53.0,Nick Perry,4/12/1990,27.0,6-3,265.0,USC,ROLB,12,11.0,5.0,5.0,Packers,2017
-53,41.0,Lenzy Pipkins,11/7/1993,24.0,6-0,196.0,Oklahoma St.,DB,12,1.0,0.0,1.0,Packers,2017
-54,23.0,Damarious Randall,8/29/1992,25.0,5-11,196.0,"Butler (KS),Arizona St.",RCB/LCB,14,12.0,2.0,5.0,Packers,2017
-55,22.0,Aaron Ripkowski,12/20/1992,25.0,6-1,246.0,Oklahoma,RB,16,2.0,2.0,0.0,Packers,2017
-56,12.0,Aaron Rodgers,12/2/1983,34.0,6-2,223.0,"Butte JC (CA),California",QB,7,7.0,12.0,6.0,Packers,2017
-57,82.0,Richard Rodgers,1/22/1992,25.0,6-4,257.0,California,TE,15,1.0,3.0,1.0,Packers,2017
-58,24.0,Quinten Rollins,7/15/1992,25.0,5-11,195.0,Miami (OH),DB,6,1.0,2.0,1.0,Packers,2017
-59,47.0,Jake Ryan,2/27/1992,25.0,6-2,240.0,Michigan,LILB,15,12.0,2.0,6.0,Packers,2017
-60,78.0,Jason Spriggs,5/17/1994,23.0,6-6,301.0,Indiana,RT,7,5.0,1.0,3.0,Packers,2017
-61,65.0,Lane Taylor,11/22/1989,28.0,6-3,324.0,Oklahoma St.,LG,15,15.0,4.0,8.0,Packers,2017
-62,48.0,Joe Thomas,5/6/1991,26.0,6-1,233.0,South Carolina St.,LB,12,1.0,2.0,1.0,Packers,2017
-63,8.0,Justin Vogel,10/14/1993,24.0,6-4,219.0,Miami (FL),P,16,0.0,0.0,2.0,Packers,2017
-64,35.0,Jermaine Whitehead,3/12/1993,24.0,5-11,195.0,Auburn,DB,10,0.0,1.0,1.0,Packers,2017
-65,30.0,Jamaal Williams,4/3/1995,22.0,6-0,224.0,BYU,RB,16,7.0,0.0,6.0,Packers,2017
-66,,Team Total,,25.7,6-2.2,246.5,,,16,,2.8,,Packers,2017
+No.,Player,BirthDate,Age,Height,Weight,College/University,Position,Games_Played_in_Season,Games_Started_in_Season,NFL_Years,Player_Value,Team,Year
+17.0,Davante Adams,12/24/1992,25.0,6-1,215.0,Fresno St.,WR,14,14.0,3.0,8.0,Packers,2017
+90.0,Montravius Adams,7/24/1995,22.0,6-4,304.0,Auburn,DT,7,0.0,0.0,0.0,Packers,2017
+81.0,Geronimo Allison,1/18/1994,23.0,6-3,202.0,Illinois,WR,15,2.0,1.0,2.0,Packers,2017
+69.0,David Bakhtiari,9/30/1991,26.0,6-4,310.0,Colorado,LT,12,12.0,4.0,10.0,Packers,2017
+80.0,Martellus Bennett,3/10/1987,30.0,6-6,275.0,Texas A&M,TE,7,7.0,9.0,2.0,Packers,2017
+45.0,Vince Biegel,7/2/1993,24.0,6-3,246.0,Wisconsin,LB,9,0.0,0.0,1.0,Packers,2017
+29.0,Kentrell Brice,8/11/1994,23.0,5-11,200.0,Louisiana Tech,DB,6,3.0,1.0,1.0,Packers,2017
+55.0,Ahmad Brooks,3/14/1984,33.0,6-3,259.0,Virginia,LB,12,5.0,11.0,3.0,Packers,2017
+44.0,Donatello Brown,5/15/1991,26.0,6-0,190.0,Valdosta St.,DB,4,0.0,0.0,0.0,Packers,2017
+75.0,Bryan Bulaga,3/21/1989,28.0,6-5,314.0,Iowa,RT,5,5.0,7.0,3.0,Packers,2017
+42.0,Morgan Burnett,1/13/1989,28.0,6-1,210.0,Georgia Tech,SS,12,12.0,7.0,3.0,Packers,2017
+86.0,Emanuel Byrd,12/9/1994,23.0,6-2,240.0,Marshall,TE,1,0.0,0.0,0.0,Packers,2017
+6.0,Joe Callahan,6/4/1993,24.0,6-1,216.0,Wesley,QB,1,0.0,0.0,0.0,Packers,2017
+97.0,Kenny Clark,10/4/1995,22.0,6-3,314.0,UCLA,NT,15,15.0,1.0,7.0,Packers,2017
+89.0,Michael Clark,10/26/1995,22.0,6-6,217.0,Marshall,WR,2,0.0,0.0,0.0,Packers,2017
+21.0,Ha Ha Clinton-Dix,12/21/1992,25.0,6-1,211.0,Alabama,FS,16,16.0,3.0,5.0,Packers,2017
+18.0,Randall Cobb,8/22/1990,27.0,5-10,192.0,Kentucky,WR,15,14.0,6.0,6.0,Packers,2017
+2.0,Mason Crosby,9/3/1984,33.0,6-1,207.0,Colorado,K,16,0.0,10.0,2.0,Packers,2017
+76.0,Mike Daniels,5/5/1989,28.0,6-0,310.0,Iowa,RDE,14,14.0,5.0,9.0,Packers,2017
+11.0,Trevor Davis,7/4/1993,24.0,6-1,188.0,California,WR,16,0.0,1.0,1.0,Packers,2017
+91.0,Quinton Dial,7/21/1990,27.0,6-5,318.0,"East Mississippi CC,Alabama",DE,13,2.0,4.0,2.0,Packers,2017
+73.0,Jahri Evans,8/22/1983,34.0,6-4,318.0,Bloomsburg,RG,14,14.0,11.0,7.0,Packers,2017
+25.0,Marwin Evans,4/10/1993,24.0,5-11,211.0,Utah St.,DB,16,1.0,1.0,1.0,Packers,2017
+51.0,Kyler Fackrell,11/25/1991,26.0,6-5,245.0,Utah St.,LB,16,2.0,1.0,2.0,Packers,2017
+93.0,Reggie Gilbert,4/1/1993,24.0,6-3,261.0,Arizona,DE,2,0.0,0.0,0.0,Packers,2017
+61.0,Brett Goode,11/2/1984,33.0,6-1,255.0,Arkansas,LB,10,0.0,9.0,1.0,Packers,2017
+36.0,Ladarius Gunter,5/13/1992,25.0,6-2,200.0,Miami (FL),DB,1,0.0,2.0,0.0,Packers,2017
+54.0,Derek Hart,12/1/1992,25.0,6-4,245.0,James Madison,LS,2,0.0,0.0,0.0,Packers,2017
+28.0,Josh Hawkins,1/23/1993,24.0,5-10,190.0,East Carolina,DB,15,3.0,1.0,1.0,Packers,2017
+31.0,Davon House,7/10/1989,28.0,6-0,195.0,New Mexico St.,LCB,12,12.0,6.0,4.0,Packers,2017
+7.0,Brett Hundley,6/15/1993,24.0,6-3,226.0,UCLA,QB,11,9.0,1.0,5.0,Packers,2017
+83.0,Jeff Janis,6/9/1991,26.0,6-3,219.0,Saginaw Valley St.,WR,16,0.0,3.0,0.0,Packers,2017
+99.0,Ricky Jean-Francois,11/23/1986,31.0,6-2,309.0,LSU,DT,6,0.0,8.0,0.0,Packers,2017
+74.0,Ulrick John,5/20/1992,25.0,6-5,312.0,Georgia St.,T,5,0.0,2.0,0.0,Packers,2017
+33.0,Aaron Jones,12/2/1994,23.0,5-9,208.0,Texas-El Paso,RB,12,4.0,0.0,3.0,Packers,2017
+27.0,Josh Jones,9/20/1994,23.0,6-2,220.0,North Carolina St.,DB,16,7.0,0.0,3.0,Packers,2017
+84.0,Lance Kendricks,1/30/1988,29.0,6-3,250.0,Wisconsin,TE,16,9.0,6.0,2.0,Packers,2017
+40.0,Joe Kerridge,9/17/1992,25.0,6-0,246.0,Michigan,RB,4,0.0,1.0,0.0,Packers,2017
+20.0,Kevin King,5/5/1995,22.0,6-3,200.0,Washington,RCB,9,5.0,0.0,2.0,Packers,2017
+63.0,Corey Linsley,7/27/1991,26.0,6-3,301.0,Ohio St.,C,16,16.0,3.0,8.0,Packers,2017
+94.0,Dean Lowry,6/9/1994,23.0,6-6,296.0,Northwestern,LDE,16,11.0,1.0,6.0,Packers,2017
+50.0,Blake Martinez,1/9/1994,23.0,6-2,237.0,Stanford,RILB,16,16.0,1.0,8.0,Packers,2017
+52.0,Clay Matthews,5/14/1986,31.0,6-3,255.0,USC,LOLB,14,14.0,8.0,6.0,Packers,2017
+32.0,Devante Mays,5/26/1994,23.0,5-10,224.0,Utah St.,RB,8,0.0,0.0,0.0,Packers,2017
+64.0,Justin McCray,5/31/1992,25.0,6-3,320.0,Central Florida,RT,13,8.0,0.0,5.0,Packers,2017
+88.0,Ty Montgomery,1/22/1993,24.0,6-0,220.0,Stanford,RB,8,5.0,2.0,4.0,Packers,2017
+68.0,Kyle Murphy,12/11/1993,24.0,6-6,305.0,Stanford,T,3,3.0,1.0,2.0,Packers,2017
+87.0,Jordy Nelson,5/31/1985,32.0,6-3,217.0,Kansas St.,WR,15,15.0,9.0,4.0,Packers,2017
+98.0,Chris Odom,9/16/1994,23.0,6-4,262.0,Arkansas St.,DE,7,0.0,0.0,0.0,Packers,2017
+77.0,Adam Pankey,2/2/1994,23.0,6-5,313.0,West Virginia,G,1,0.0,0.0,0.0,Packers,2017
+62.0,Lucas Patrick,7/30/1993,24.0,6-3,313.0,Duke,G,12,2.0,0.0,2.0,Packers,2017
+59.0,Taybor Pepper,5/28/1994,23.0,6-4,245.0,Michigan St.,LS,4,0.0,0.0,0.0,Packers,2017
+53.0,Nick Perry,4/12/1990,27.0,6-3,265.0,USC,ROLB,12,11.0,5.0,5.0,Packers,2017
+41.0,Lenzy Pipkins,11/7/1993,24.0,6-0,196.0,Oklahoma St.,DB,12,1.0,0.0,1.0,Packers,2017
+23.0,Damarious Randall,8/29/1992,25.0,5-11,196.0,"Butler (KS),Arizona St.",RCB/LCB,14,12.0,2.0,5.0,Packers,2017
+22.0,Aaron Ripkowski,12/20/1992,25.0,6-1,246.0,Oklahoma,RB,16,2.0,2.0,0.0,Packers,2017
+12.0,Aaron Rodgers,12/2/1983,34.0,6-2,223.0,"Butte JC (CA),California",QB,7,7.0,12.0,6.0,Packers,2017
+82.0,Richard Rodgers,1/22/1992,25.0,6-4,257.0,California,TE,15,1.0,3.0,1.0,Packers,2017
+24.0,Quinten Rollins,7/15/1992,25.0,5-11,195.0,Miami (OH),DB,6,1.0,2.0,1.0,Packers,2017
+47.0,Jake Ryan,2/27/1992,25.0,6-2,240.0,Michigan,LILB,15,12.0,2.0,6.0,Packers,2017
+78.0,Jason Spriggs,5/17/1994,23.0,6-6,301.0,Indiana,RT,7,5.0,1.0,3.0,Packers,2017
+65.0,Lane Taylor,11/22/1989,28.0,6-3,324.0,Oklahoma St.,LG,15,15.0,4.0,8.0,Packers,2017
+48.0,Joe Thomas,5/6/1991,26.0,6-1,233.0,South Carolina St.,LB,12,1.0,2.0,1.0,Packers,2017
+8.0,Justin Vogel,10/14/1993,24.0,6-4,219.0,Miami (FL),P,16,0.0,0.0,2.0,Packers,2017
+35.0,Jermaine Whitehead,3/12/1993,24.0,5-11,195.0,Auburn,DB,10,0.0,1.0,1.0,Packers,2017
+30.0,Jamaal Williams,4/3/1995,22.0,6-0,224.0,BYU,RB,16,7.0,0.0,6.0,Packers,2017
+,Team Total,,25.7,6-2.2,246.5,,,16,,2.8,,Packers,2017

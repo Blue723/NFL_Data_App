@@ -1,63 +1,63 @@
-,No.,Player,BirthDate,Age,Height,Weight,College/University,Position,Games_Played_in_Season,Games_Started_in_Season,NFL_Years,Player_Value,Team,Year
-0,31.0,Maurice Alexander,2/16/1991,26.0,6-2,220.0,Utah St.,DB,4,4.0,3.0,1.0,Rams,2017
-1,11.0,Tavon Austin,3/15/1990,27.0,5-8,179.0,West Virginia,WR,16,9.0,4.0,3.0,Rams,2017
-2,26.0,Mark Barron,10/27/1989,28.0,6-2,230.0,Alabama,DB,14,14.0,5.0,13.0,Rams,2017
-3,98.0,Connor Barwin,10/15/1986,31.0,6-4,255.0,Cincinnati,LILB,14,13.0,8.0,6.0,Rams,2017
-4,66.0,Austin Blythe,6/16/1992,25.0,6-2,280.0,Iowa,C,16,1.0,1.0,2.0,Rams,2017
-5,90.0,Michael Brockers,12/21/1990,27.0,6-5,297.0,LSU,LDE/NT,16,15.0,5.0,7.0,Rams,2017
-6,68.0,Jamon Brown,3/15/1993,24.0,6-4,340.0,Louisville,RG,16,16.0,2.0,8.0,Rams,2017
-7,34.0,Malcolm Brown,5/15/1993,24.0,5-11,225.0,Texas,RB,11,1.0,2.0,2.0,Rams,2017
-8,86.0,Derek Carrier,7/25/1990,27.0,6-3,240.0,Beloit,TE,14,3.0,4.0,1.0,Rams,2017
-9,41.0,Marqui Christian,10/27/1994,23.0,5-11,195.0,Midwestern St.,DB,12,0.0,1.0,1.0,Rams,2017
-10,10.0,Pharoh Cooper,3/7/1995,22.0,5-11,208.0,South Carolina,WR,16,1.0,1.0,2.0,Rams,2017
-11,24.0,Blake Countess,8/8/1993,24.0,5-10,185.0,"Auburn,Michigan",DB,16,1.0,1.0,1.0,Rams,2017
-12,38.0,Cody Davis,6/6/1989,28.0,6-2,205.0,Texas Tech,DB,7,2.0,4.0,1.0,Rams,2017
-13,33.0,Justin Davis,11/11/1995,22.0,6-1,199.0,USC,RB,4,0.0,0.0,0.0,Rams,2017
-14,99.0,Aaron Donald,5/23/1991,26.0,6-1,280.0,Pittsburgh,RDE,14,14.0,3.0,15.0,Rams,2017
-15,25.0,Lance Dunbar,1/25/1990,27.0,5-8,191.0,North Texas,RB,4,0.0,5.0,0.0,Rams,2017
-16,50.0,Samson Ebukam,5/9/1995,22.0,6-3,245.0,Eastern Washington,LB,16,2.0,0.0,2.0,Rams,2017
-17,81.0,Gerald Everett,6/25/1994,23.0,6-3,250.0,South Alabama,TE,16,2.0,0.0,3.0,Rams,2017
-18,5.0,Sam Ficken,12/14/1992,25.0,6-1,192.0,Penn St.,K,2,0.0,0.0,0.0,Rams,2017
-19,97.0,Morgan Fox,9/12/1994,23.0,6-3,275.0,Colorado State-Pueblo,DB,16,1.0,1.0,2.0,Rams,2017
-20,16.0,Jared Goff,10/14/1994,23.0,6-4,217.0,California,QB,15,15.0,1.0,15.0,Rams,2017
-21,30.0,Todd Gurley,8/3/1994,23.0,6-1,224.0,Georgia,RB,15,15.0,2.0,19.0,Rams,2017
-22,54.0,Bryce Hager,5/4/1992,25.0,6-1,237.0,Baylor,LB,16,1.0,2.0,2.0,Rams,2017
-23,36.0,Dominique Hatfield,12/13/1994,23.0,5-10,178.0,Utah,DB,11,0.0,0.0,1.0,Rams,2017
-24,79.0,Rob Havenstein,5/13/1992,25.0,6-8,330.0,Wisconsin,RT,15,15.0,2.0,8.0,Rams,2017
-25,6.0,Johnny Hekker,2/8/1990,27.0,6-5,225.0,Oregon St.,P,16,0.0,5.0,3.0,Rams,2017
-26,89.0,Tyler Higbee,1/1/1993,24.0,6-6,255.0,Western Kentucky,TE,16,16.0,1.0,3.0,Rams,2017
-27,32.0,Troy Hill,8/29/1991,26.0,5-11,180.0,Oregon,DB,12,3.0,2.0,2.0,Rams,2017
-28,27.0,Isaiah Johnson,5/16/1992,25.0,6-1,210.0,Georgia Tech,DB,1,0.0,2.0,0.0,Rams,2017
-29,43.0,John Johnson,12/19/1995,22.0,6-0,209.0,Boston Col.,SS,16,11.0,0.0,4.0,Rams,2017
-30,22.0,Trumaine Johnson,1/1/1990,27.0,6-2,213.0,Montana,LCB,16,15.0,5.0,6.0,Rams,2017
-31,20.0,Lamarcus Joyner,11/27/1990,27.0,5-8,185.0,Florida St.,FS,12,12.0,3.0,5.0,Rams,2017
-32,18.0,Cooper Kupp,6/15/1993,24.0,6-2,208.0,Eastern Washington,WR,15,6.0,0.0,9.0,Rams,2017
-33,58.0,Cory Littleton,11/18/1993,24.0,6-3,225.0,Washington,LB,16,4.0,1.0,3.0,Rams,2017
-34,96.0,Matt Longacre,9/21/1991,26.0,6-3,265.0,NW Missouri St.,DE,14,1.0,2.0,2.0,Rams,2017
-35,73.0,Cornelius Lucas,7/18/1991,26.0,6-8,327.0,Kansas St.,T,1,1.0,3.0,1.0,Rams,2017
-36,55.0,Cameron Lynch,8/4/1993,24.0,6-0,229.0,Syracuse,LB,3,0.0,2.0,0.0,Rams,2017
-37,14.0,Sean Mannion,4/25/1992,25.0,6-6,230.0,Oregon St.,QB,5,1.0,2.0,1.0,Rams,2017
-38,44.0,Jake McQuaide,12/7/1987,30.0,6-2,247.0,Ohio St.,LS,16,0.0,6.0,3.0,Rams,2017
-39,82.0,Johnny Mundt,11/23/1994,23.0,6-4,233.0,Oregon,TE,2,0.0,0.0,0.0,Rams,2017
-40,72.0,Aaron Neary,11/15/1992,25.0,6-4,299.0,Eastern Washington,T,1,1.0,0.0,1.0,Rams,2017
-41,52.0,Alec Ogletree,9/25/1991,26.0,6-3,250.0,Georgia,RILB,15,15.0,4.0,8.0,Rams,2017
-42,47.0,Kevin Peterson,3/22/1994,23.0,5-11,185.0,Oklahoma St.,DB,6,1.0,0.0,1.0,Rams,2017
-43,51.0,Ejuan Price,1/30/1993,24.0,5-11,255.0,Pittsburgh,DE,1,0.0,0.0,0.0,Rams,2017
-44,94.0,Robert Quinn,5/18/1990,27.0,6-4,245.0,North Carolina,LOLB,15,14.0,6.0,6.0,Rams,2017
-45,83.0,Josh Reynolds,2/16/1995,22.0,6-3,194.0,Texas A&M,WR,16,1.0,0.0,1.0,Rams,2017
-46,23.0,Nickell Robey-Coleman,1/17/1992,25.0,5-8,180.0,USC,DB,15,4.0,4.0,3.0,Rams,2017
-47,76.0,Rodger Saffold,6/6/1988,29.0,6-5,325.0,Indiana,LG,15,15.0,7.0,12.0,Rams,2017
-48,56.0,Garrett Sickels,9/24/1994,23.0,6-4,254.0,Penn St.,DE,1,0.0,0.0,0.0,Rams,2017
-49,92.0,Tanzel Smart,11/6/1994,23.0,6-1,295.0,Tulane,DT,16,4.0,0.0,3.0,Rams,2017
-50,65.0,John Sullivan,8/8/1985,32.0,6-4,312.0,Notre Dame,C,15,15.0,9.0,8.0,Rams,2017
-51,88.0,Mike Thomas,8/16/1994,23.0,6-1,189.0,Southern Miss,WR,8,1.0,1.0,1.0,Rams,2017
-52,53.0,Carlos Thompson,2/16/1992,25.0,6-5,250.0,Mississippi,DE,3,1.0,2.0,1.0,Rams,2017
-53,95.0,Tyrunn Walker,3/18/1990,27.0,6-3,310.0,Tulsa,DE,16,4.0,4.0,3.0,Rams,2017
-54,12.0,Sammy Watkins,6/14/1993,24.0,6-1,211.0,Clemson,WR,15,14.0,3.0,6.0,Rams,2017
-55,21.0,Kayvon Webster,2/1/1991,26.0,5-11,190.0,South Florida,RCB,11,11.0,4.0,4.0,Rams,2017
-56,93.0,Ethan Westbrooks,11/15/1990,27.0,6-4,287.0,West Texas A&M,NT,16,9.0,3.0,5.0,Rams,2017
-57,77.0,Andrew Whitworth,12/12/1981,36.0,6-7,330.0,LSU,LT,15,15.0,11.0,14.0,Rams,2017
-58,63.0,Darrell Williams,8/31/1993,24.0,6-6,310.0,South Florida,T,16,1.0,2.0,2.0,Rams,2017
-59,17.0,Robert Woods,4/10/1992,25.0,6-0,195.0,USC,WR,12,11.0,4.0,8.0,Rams,2017
-60,4.0,Greg Zuerlein,12/27/1987,30.0,6-0,187.0,Missouri Western St.,K,14,0.0,5.0,6.0,Rams,2017
-61,,Team Total,,25.4,6-2.0,238.9,,,16,,2.6,,Rams,2017
+No.,Player,BirthDate,Age,Height,Weight,College/University,Position,Games_Played_in_Season,Games_Started_in_Season,NFL_Years,Player_Value,Team,Year
+31.0,Maurice Alexander,2/16/1991,26.0,6-2,220.0,Utah St.,DB,4,4.0,3.0,1.0,Rams,2017
+11.0,Tavon Austin,3/15/1990,27.0,5-8,179.0,West Virginia,WR,16,9.0,4.0,3.0,Rams,2017
+26.0,Mark Barron,10/27/1989,28.0,6-2,230.0,Alabama,DB,14,14.0,5.0,13.0,Rams,2017
+98.0,Connor Barwin,10/15/1986,31.0,6-4,255.0,Cincinnati,LILB,14,13.0,8.0,6.0,Rams,2017
+66.0,Austin Blythe,6/16/1992,25.0,6-2,280.0,Iowa,C,16,1.0,1.0,2.0,Rams,2017
+90.0,Michael Brockers,12/21/1990,27.0,6-5,297.0,LSU,LDE/NT,16,15.0,5.0,7.0,Rams,2017
+68.0,Jamon Brown,3/15/1993,24.0,6-4,340.0,Louisville,RG,16,16.0,2.0,8.0,Rams,2017
+34.0,Malcolm Brown,5/15/1993,24.0,5-11,225.0,Texas,RB,11,1.0,2.0,2.0,Rams,2017
+86.0,Derek Carrier,7/25/1990,27.0,6-3,240.0,Beloit,TE,14,3.0,4.0,1.0,Rams,2017
+41.0,Marqui Christian,10/27/1994,23.0,5-11,195.0,Midwestern St.,DB,12,0.0,1.0,1.0,Rams,2017
+10.0,Pharoh Cooper,3/7/1995,22.0,5-11,208.0,South Carolina,WR,16,1.0,1.0,2.0,Rams,2017
+24.0,Blake Countess,8/8/1993,24.0,5-10,185.0,"Auburn,Michigan",DB,16,1.0,1.0,1.0,Rams,2017
+38.0,Cody Davis,6/6/1989,28.0,6-2,205.0,Texas Tech,DB,7,2.0,4.0,1.0,Rams,2017
+33.0,Justin Davis,11/11/1995,22.0,6-1,199.0,USC,RB,4,0.0,0.0,0.0,Rams,2017
+99.0,Aaron Donald,5/23/1991,26.0,6-1,280.0,Pittsburgh,RDE,14,14.0,3.0,15.0,Rams,2017
+25.0,Lance Dunbar,1/25/1990,27.0,5-8,191.0,North Texas,RB,4,0.0,5.0,0.0,Rams,2017
+50.0,Samson Ebukam,5/9/1995,22.0,6-3,245.0,Eastern Washington,LB,16,2.0,0.0,2.0,Rams,2017
+81.0,Gerald Everett,6/25/1994,23.0,6-3,250.0,South Alabama,TE,16,2.0,0.0,3.0,Rams,2017
+5.0,Sam Ficken,12/14/1992,25.0,6-1,192.0,Penn St.,K,2,0.0,0.0,0.0,Rams,2017
+97.0,Morgan Fox,9/12/1994,23.0,6-3,275.0,Colorado State-Pueblo,DB,16,1.0,1.0,2.0,Rams,2017
+16.0,Jared Goff,10/14/1994,23.0,6-4,217.0,California,QB,15,15.0,1.0,15.0,Rams,2017
+30.0,Todd Gurley,8/3/1994,23.0,6-1,224.0,Georgia,RB,15,15.0,2.0,19.0,Rams,2017
+54.0,Bryce Hager,5/4/1992,25.0,6-1,237.0,Baylor,LB,16,1.0,2.0,2.0,Rams,2017
+36.0,Dominique Hatfield,12/13/1994,23.0,5-10,178.0,Utah,DB,11,0.0,0.0,1.0,Rams,2017
+79.0,Rob Havenstein,5/13/1992,25.0,6-8,330.0,Wisconsin,RT,15,15.0,2.0,8.0,Rams,2017
+6.0,Johnny Hekker,2/8/1990,27.0,6-5,225.0,Oregon St.,P,16,0.0,5.0,3.0,Rams,2017
+89.0,Tyler Higbee,1/1/1993,24.0,6-6,255.0,Western Kentucky,TE,16,16.0,1.0,3.0,Rams,2017
+32.0,Troy Hill,8/29/1991,26.0,5-11,180.0,Oregon,DB,12,3.0,2.0,2.0,Rams,2017
+27.0,Isaiah Johnson,5/16/1992,25.0,6-1,210.0,Georgia Tech,DB,1,0.0,2.0,0.0,Rams,2017
+43.0,John Johnson,12/19/1995,22.0,6-0,209.0,Boston Col.,SS,16,11.0,0.0,4.0,Rams,2017
+22.0,Trumaine Johnson,1/1/1990,27.0,6-2,213.0,Montana,LCB,16,15.0,5.0,6.0,Rams,2017
+20.0,Lamarcus Joyner,11/27/1990,27.0,5-8,185.0,Florida St.,FS,12,12.0,3.0,5.0,Rams,2017
+18.0,Cooper Kupp,6/15/1993,24.0,6-2,208.0,Eastern Washington,WR,15,6.0,0.0,9.0,Rams,2017
+58.0,Cory Littleton,11/18/1993,24.0,6-3,225.0,Washington,LB,16,4.0,1.0,3.0,Rams,2017
+96.0,Matt Longacre,9/21/1991,26.0,6-3,265.0,NW Missouri St.,DE,14,1.0,2.0,2.0,Rams,2017
+73.0,Cornelius Lucas,7/18/1991,26.0,6-8,327.0,Kansas St.,T,1,1.0,3.0,1.0,Rams,2017
+55.0,Cameron Lynch,8/4/1993,24.0,6-0,229.0,Syracuse,LB,3,0.0,2.0,0.0,Rams,2017
+14.0,Sean Mannion,4/25/1992,25.0,6-6,230.0,Oregon St.,QB,5,1.0,2.0,1.0,Rams,2017
+44.0,Jake McQuaide,12/7/1987,30.0,6-2,247.0,Ohio St.,LS,16,0.0,6.0,3.0,Rams,2017
+82.0,Johnny Mundt,11/23/1994,23.0,6-4,233.0,Oregon,TE,2,0.0,0.0,0.0,Rams,2017
+72.0,Aaron Neary,11/15/1992,25.0,6-4,299.0,Eastern Washington,T,1,1.0,0.0,1.0,Rams,2017
+52.0,Alec Ogletree,9/25/1991,26.0,6-3,250.0,Georgia,RILB,15,15.0,4.0,8.0,Rams,2017
+47.0,Kevin Peterson,3/22/1994,23.0,5-11,185.0,Oklahoma St.,DB,6,1.0,0.0,1.0,Rams,2017
+51.0,Ejuan Price,1/30/1993,24.0,5-11,255.0,Pittsburgh,DE,1,0.0,0.0,0.0,Rams,2017
+94.0,Robert Quinn,5/18/1990,27.0,6-4,245.0,North Carolina,LOLB,15,14.0,6.0,6.0,Rams,2017
+83.0,Josh Reynolds,2/16/1995,22.0,6-3,194.0,Texas A&M,WR,16,1.0,0.0,1.0,Rams,2017
+23.0,Nickell Robey-Coleman,1/17/1992,25.0,5-8,180.0,USC,DB,15,4.0,4.0,3.0,Rams,2017
+76.0,Rodger Saffold,6/6/1988,29.0,6-5,325.0,Indiana,LG,15,15.0,7.0,12.0,Rams,2017
+56.0,Garrett Sickels,9/24/1994,23.0,6-4,254.0,Penn St.,DE,1,0.0,0.0,0.0,Rams,2017
+92.0,Tanzel Smart,11/6/1994,23.0,6-1,295.0,Tulane,DT,16,4.0,0.0,3.0,Rams,2017
+65.0,John Sullivan,8/8/1985,32.0,6-4,312.0,Notre Dame,C,15,15.0,9.0,8.0,Rams,2017
+88.0,Mike Thomas,8/16/1994,23.0,6-1,189.0,Southern Miss,WR,8,1.0,1.0,1.0,Rams,2017
+53.0,Carlos Thompson,2/16/1992,25.0,6-5,250.0,Mississippi,DE,3,1.0,2.0,1.0,Rams,2017
+95.0,Tyrunn Walker,3/18/1990,27.0,6-3,310.0,Tulsa,DE,16,4.0,4.0,3.0,Rams,2017
+12.0,Sammy Watkins,6/14/1993,24.0,6-1,211.0,Clemson,WR,15,14.0,3.0,6.0,Rams,2017
+21.0,Kayvon Webster,2/1/1991,26.0,5-11,190.0,South Florida,RCB,11,11.0,4.0,4.0,Rams,2017
+93.0,Ethan Westbrooks,11/15/1990,27.0,6-4,287.0,West Texas A&M,NT,16,9.0,3.0,5.0,Rams,2017
+77.0,Andrew Whitworth,12/12/1981,36.0,6-7,330.0,LSU,LT,15,15.0,11.0,14.0,Rams,2017
+63.0,Darrell Williams,8/31/1993,24.0,6-6,310.0,South Florida,T,16,1.0,2.0,2.0,Rams,2017
+17.0,Robert Woods,4/10/1992,25.0,6-0,195.0,USC,WR,12,11.0,4.0,8.0,Rams,2017
+4.0,Greg Zuerlein,12/27/1987,30.0,6-0,187.0,Missouri Western St.,K,14,0.0,5.0,6.0,Rams,2017
+,Team Total,,25.4,6-2.0,238.9,,,16,,2.6,,Rams,2017

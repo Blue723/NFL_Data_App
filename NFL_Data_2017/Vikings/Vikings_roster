@@ -1,58 +1,58 @@
-,No.,Player,BirthDate,Age,Height,Weight,College/University,Position,Games_Played_in_Season,Games_Started_in_Season,NFL_Years,Player_Value,Team,Year
-0,20.0,Mackensie Alexander,11/12/1993,24.0,5-10,192.0,Clemson,LB,14,0.0,1.0,1.0,Vikings,2017
-1,55.0,Anthony Barr,3/18/1992,25.0,6-5,257.0,UCLA,RLB,16,16.0,3.0,11.0,Vikings,2017
-2,81.0,Blake Bell,8/7/1991,26.0,6-6,252.0,Oklahoma,TE,13,3.0,2.0,0.0,Vikings,2017
-3,61.0,Joe Berger,5/25/1982,35.0,6-5,305.0,Michigan Tech,RG,16,16.0,12.0,8.0,Vikings,2017
-4,90.0,Tashawn Bower,2/18/1995,22.0,6-5,250.0,LSU,DE,2,0.0,0.0,0.0,Vikings,2017
-5,8.0,Sam Bradford,11/8/1987,30.0,6-4,224.0,Oklahoma,QB,2,2.0,7.0,1.0,Vikings,2017
-6,5.0,Teddy Bridgewater,11/10/1992,25.0,6-2,212.0,Louisville,QB,1,0.0,3.0,0.0,Vikings,2017
-7,24.0,Tramaine Brock,8/20/1988,29.0,6-0,188.0,"Mississippi Gulf Coast CC,Minnesota,Belhaven",DB,11,0.0,7.0,1.0,Vikings,2017
-8,40.0,Kentrell Brothers,2/8/1993,24.0,6-1,242.0,Missouri,LB,16,0.0,1.0,1.0,Vikings,2017
-9,31.0,Mack Brown,9/24/1991,26.0,5-11,213.0,Florida,DB,1,0.0,1.0,0.0,Vikings,2017
-10,86.0,Kyle Carter,12/17/1992,25.0,6-3,245.0,Penn St.,TE,3,0.0,0.0,0.0,Vikings,2017
-11,13.0,Stacy Coley,5/13/1994,23.0,6-0,195.0,Miami (FL),WR,4,0.0,0.0,0.0,Vikings,2017
-12,76.0,Aviante Collins,5/13/1994,23.0,6-4,292.0,TCU,T,3,0.0,0.0,0.0,Vikings,2017
-13,33.0,Dalvin Cook,8/10/1995,22.0,5-10,210.0,Florida St.,RB,4,4.0,0.0,3.0,Vikings,2017
-14,14.0,Stefon Diggs,11/29/1993,24.0,6-0,191.0,Maryland,WR,14,14.0,2.0,9.0,Vikings,2017
-15,62.0,Nick Easton,6/16/1992,25.0,6-3,303.0,Harvard,LG,12,12.0,1.0,6.0,Vikings,2017
-16,65.0,Pat Elflein,7/6/1994,23.0,6-2,303.0,Ohio St.,C,14,14.0,0.0,7.0,Vikings,2017
-17,18.0,Michael Floyd,11/27/1989,28.0,6-3,220.0,Notre Dame,WR,11,1.0,5.0,1.0,Vikings,2017
-18,2.0,Kai Forbath,9/2/1987,30.0,5-11,197.0,UCLA,K,16,0.0,5.0,3.0,Vikings,2017
-19,42.0,Ben Gedeon,10/16/1994,23.0,6-2,244.0,Michigan,LLB,16,9.0,0.0,8.0,Vikings,2017
-20,97.0,Everson Griffen,12/22/1987,30.0,6-3,273.0,USC,RDE,15,15.0,7.0,16.0,Vikings,2017
-21,30.0,C.J. Ham,7/22/1993,24.0,5-11,250.0,Augustana (SD),RB,16,1.0,0.0,1.0,Vikings,2017
-22,41.0,Anthony Harris,10/9/1991,26.0,6-1,202.0,Virginia,DB,16,3.0,2.0,2.0,Vikings,2017
-23,69.0,Rashod Hill,1/12/1992,25.0,6-6,310.0,Southern Miss,RT,11,7.0,1.0,5.0,Vikings,2017
-24,99.0,Danielle Hunter,10/29/1994,23.0,6-5,263.0,LSU,LDE,16,16.0,2.0,9.0,Vikings,2017
-25,63.0,Danny Isidora,6/5/1994,23.0,6-3,306.0,Miami (FL),G,7,1.0,0.0,1.0,Vikings,2017
-26,94.0,Jaleel Johnson,7/12/1994,23.0,6-3,316.0,Iowa,DT,5,0.0,0.0,0.0,Vikings,2017
-27,92.0,Tom Johnson,8/30/1984,33.0,6-3,285.0,"Mississippi Gulf Coast CC,Southern Miss",LDT,16,15.0,6.0,8.0,Vikings,2017
-28,98.0,Linval Joseph,10/10/1988,29.0,6-4,329.0,East Carolina,RDT,16,16.0,7.0,12.0,Vikings,2017
-29,27.0,Jayron Kearse,2/11/1994,23.0,6-4,215.0,Clemson,DB,15,0.0,1.0,1.0,Vikings,2017
-30,7.0,Case Keenum,2/17/1988,29.0,6-1,206.0,Houston,QB,15,14.0,4.0,14.0,Vikings,2017
-31,54.0,Eric Kendricks,2/29/1992,25.0,6-0,232.0,UCLA,MLB,16,16.0,2.0,9.0,Vikings,2017
-32,59.0,Emmanuel Lamur,6/8/1989,28.0,6-4,245.0,"Independence (KS),Kansas St.",LB,16,0.0,5.0,2.0,Vikings,2017
-33,47.0,Kevin McDermott,1/12/1990,27.0,6-5,240.0,UCLA,LS,15,0.0,4.0,1.0,Vikings,2017
-34,21.0,Jerick McKinnon,5/3/1992,25.0,5-9,209.0,Georgia Southern,RB,16,1.0,3.0,8.0,Vikings,2017
-35,89.0,David Morgan,5/19/1993,24.0,6-4,265.0,Texas-San Antonio,TE,15,6.0,1.0,1.0,Vikings,2017
-36,25.0,Latavius Murray,1/18/1990,27.0,6-3,230.0,Central Florida,RB,16,11.0,3.0,7.0,Vikings,2017
-37,23.0,Terence Newman,9/4/1978,39.0,5-10,197.0,Kansas St.,DB,16,7.0,14.0,3.0,Vikings,2017
-38,44.0,Jeff Overbaugh,11/24/1993,24.0,6-0,236.0,San Diego St.,C,1,0.0,0.0,0.0,Vikings,2017
-39,4.0,Ryan Quigley,1/26/1990,27.0,6-2,205.0,Boston Col.,P,16,0.0,4.0,2.0,Vikings,2017
-40,71.0,Riley Reiff,12/1/1988,29.0,6-6,310.0,Iowa,LT,15,15.0,5.0,9.0,Vikings,2017
-41,74.0,Mike Remmers,4/11/1989,28.0,6-5,301.0,Oregon St.,RT,11,11.0,4.0,7.0,Vikings,2017
-42,29.0,Xavier Rhodes,6/19/1990,27.0,6-1,218.0,Florida St.,RCB,16,16.0,4.0,13.0,Vikings,2017
-43,96.0,Brian Robison,4/27/1983,34.0,6-3,259.0,Texas,DE,15,1.0,10.0,2.0,Vikings,2017
-44,82.0,Kyle Rudolph,11/9/1989,28.0,6-6,265.0,Notre Dame,TE,16,16.0,6.0,5.0,Vikings,2017
-45,34.0,Andrew Sendejo,9/9/1987,30.0,6-1,210.0,Rice,SS,13,13.0,7.0,4.0,Vikings,2017
-46,35.0,Marcus Sherels,9/30/1987,30.0,5-10,175.0,Minnesota,DB,16,0.0,7.0,1.0,Vikings,2017
-47,75.0,Jeremiah Sirles,8/8/1991,26.0,6-6,315.0,Nebraska,T,14,4.0,3.0,3.0,Vikings,2017
-48,22.0,Harrison Smith,2/2/1989,28.0,6-2,211.0,Notre Dame,FS,16,16.0,5.0,11.0,Vikings,2017
-49,93.0,Shamar Stephen,2/25/1991,26.0,6-5,310.0,Connecticut,DT,15,1.0,3.0,2.0,Vikings,2017
-50,19.0,Adam Thielen,8/22/1990,27.0,6-2,195.0,Minnesota St.,WR,16,16.0,3.0,13.0,Vikings,2017
-51,11.0,Laquon Treadwell,6/14/1995,22.0,6-2,215.0,Mississippi,WR,16,7.0,1.0,2.0,Vikings,2017
-52,26.0,Trae Waynes,7/25/1992,25.0,6-0,190.0,Michigan St.,LCB,16,16.0,2.0,5.0,Vikings,2017
-53,91.0,Stephen Weatherly,3/19/1994,23.0,6-5,262.0,Vanderbilt,LB,15,0.0,1.0,1.0,Vikings,2017
-54,50.0,Eric Wilson,9/26/1994,23.0,6-1,230.0,Cincinnati,LB,16,0.0,0.0,1.0,Vikings,2017
-55,17.0,Jarius Wright,11/25/1989,28.0,5-10,190.0,Arkansas,WR,16,0.0,5.0,2.0,Vikings,2017
-56,,Team Total,,26.4,6-2.2,242.9,,,16,,3.3,,Vikings,2017
+No.,Player,BirthDate,Age,Height,Weight,College/University,Position,Games_Played_in_Season,Games_Started_in_Season,NFL_Years,Player_Value,Team,Year
+20.0,Mackensie Alexander,11/12/1993,24.0,5-10,192.0,Clemson,LB,14,0.0,1.0,1.0,Vikings,2017
+55.0,Anthony Barr,3/18/1992,25.0,6-5,257.0,UCLA,RLB,16,16.0,3.0,11.0,Vikings,2017
+81.0,Blake Bell,8/7/1991,26.0,6-6,252.0,Oklahoma,TE,13,3.0,2.0,0.0,Vikings,2017
+61.0,Joe Berger,5/25/1982,35.0,6-5,305.0,Michigan Tech,RG,16,16.0,12.0,8.0,Vikings,2017
+90.0,Tashawn Bower,2/18/1995,22.0,6-5,250.0,LSU,DE,2,0.0,0.0,0.0,Vikings,2017
+8.0,Sam Bradford,11/8/1987,30.0,6-4,224.0,Oklahoma,QB,2,2.0,7.0,1.0,Vikings,2017
+5.0,Teddy Bridgewater,11/10/1992,25.0,6-2,212.0,Louisville,QB,1,0.0,3.0,0.0,Vikings,2017
+24.0,Tramaine Brock,8/20/1988,29.0,6-0,188.0,"Mississippi Gulf Coast CC,Minnesota,Belhaven",DB,11,0.0,7.0,1.0,Vikings,2017
+40.0,Kentrell Brothers,2/8/1993,24.0,6-1,242.0,Missouri,LB,16,0.0,1.0,1.0,Vikings,2017
+31.0,Mack Brown,9/24/1991,26.0,5-11,213.0,Florida,DB,1,0.0,1.0,0.0,Vikings,2017
+86.0,Kyle Carter,12/17/1992,25.0,6-3,245.0,Penn St.,TE,3,0.0,0.0,0.0,Vikings,2017
+13.0,Stacy Coley,5/13/1994,23.0,6-0,195.0,Miami (FL),WR,4,0.0,0.0,0.0,Vikings,2017
+76.0,Aviante Collins,5/13/1994,23.0,6-4,292.0,TCU,T,3,0.0,0.0,0.0,Vikings,2017
+33.0,Dalvin Cook,8/10/1995,22.0,5-10,210.0,Florida St.,RB,4,4.0,0.0,3.0,Vikings,2017
+14.0,Stefon Diggs,11/29/1993,24.0,6-0,191.0,Maryland,WR,14,14.0,2.0,9.0,Vikings,2017
+62.0,Nick Easton,6/16/1992,25.0,6-3,303.0,Harvard,LG,12,12.0,1.0,6.0,Vikings,2017
+65.0,Pat Elflein,7/6/1994,23.0,6-2,303.0,Ohio St.,C,14,14.0,0.0,7.0,Vikings,2017
+18.0,Michael Floyd,11/27/1989,28.0,6-3,220.0,Notre Dame,WR,11,1.0,5.0,1.0,Vikings,2017
+2.0,Kai Forbath,9/2/1987,30.0,5-11,197.0,UCLA,K,16,0.0,5.0,3.0,Vikings,2017
+42.0,Ben Gedeon,10/16/1994,23.0,6-2,244.0,Michigan,LLB,16,9.0,0.0,8.0,Vikings,2017
+97.0,Everson Griffen,12/22/1987,30.0,6-3,273.0,USC,RDE,15,15.0,7.0,16.0,Vikings,2017
+30.0,C.J. Ham,7/22/1993,24.0,5-11,250.0,Augustana (SD),RB,16,1.0,0.0,1.0,Vikings,2017
+41.0,Anthony Harris,10/9/1991,26.0,6-1,202.0,Virginia,DB,16,3.0,2.0,2.0,Vikings,2017
+69.0,Rashod Hill,1/12/1992,25.0,6-6,310.0,Southern Miss,RT,11,7.0,1.0,5.0,Vikings,2017
+99.0,Danielle Hunter,10/29/1994,23.0,6-5,263.0,LSU,LDE,16,16.0,2.0,9.0,Vikings,2017
+63.0,Danny Isidora,6/5/1994,23.0,6-3,306.0,Miami (FL),G,7,1.0,0.0,1.0,Vikings,2017
+94.0,Jaleel Johnson,7/12/1994,23.0,6-3,316.0,Iowa,DT,5,0.0,0.0,0.0,Vikings,2017
+92.0,Tom Johnson,8/30/1984,33.0,6-3,285.0,"Mississippi Gulf Coast CC,Southern Miss",LDT,16,15.0,6.0,8.0,Vikings,2017
+98.0,Linval Joseph,10/10/1988,29.0,6-4,329.0,East Carolina,RDT,16,16.0,7.0,12.0,Vikings,2017
+27.0,Jayron Kearse,2/11/1994,23.0,6-4,215.0,Clemson,DB,15,0.0,1.0,1.0,Vikings,2017
+7.0,Case Keenum,2/17/1988,29.0,6-1,206.0,Houston,QB,15,14.0,4.0,14.0,Vikings,2017
+54.0,Eric Kendricks,2/29/1992,25.0,6-0,232.0,UCLA,MLB,16,16.0,2.0,9.0,Vikings,2017
+59.0,Emmanuel Lamur,6/8/1989,28.0,6-4,245.0,"Independence (KS),Kansas St.",LB,16,0.0,5.0,2.0,Vikings,2017
+47.0,Kevin McDermott,1/12/1990,27.0,6-5,240.0,UCLA,LS,15,0.0,4.0,1.0,Vikings,2017
+21.0,Jerick McKinnon,5/3/1992,25.0,5-9,209.0,Georgia Southern,RB,16,1.0,3.0,8.0,Vikings,2017
+89.0,David Morgan,5/19/1993,24.0,6-4,265.0,Texas-San Antonio,TE,15,6.0,1.0,1.0,Vikings,2017
+25.0,Latavius Murray,1/18/1990,27.0,6-3,230.0,Central Florida,RB,16,11.0,3.0,7.0,Vikings,2017
+23.0,Terence Newman,9/4/1978,39.0,5-10,197.0,Kansas St.,DB,16,7.0,14.0,3.0,Vikings,2017
+44.0,Jeff Overbaugh,11/24/1993,24.0,6-0,236.0,San Diego St.,C,1,0.0,0.0,0.0,Vikings,2017
+4.0,Ryan Quigley,1/26/1990,27.0,6-2,205.0,Boston Col.,P,16,0.0,4.0,2.0,Vikings,2017
+71.0,Riley Reiff,12/1/1988,29.0,6-6,310.0,Iowa,LT,15,15.0,5.0,9.0,Vikings,2017
+74.0,Mike Remmers,4/11/1989,28.0,6-5,301.0,Oregon St.,RT,11,11.0,4.0,7.0,Vikings,2017
+29.0,Xavier Rhodes,6/19/1990,27.0,6-1,218.0,Florida St.,RCB,16,16.0,4.0,13.0,Vikings,2017
+96.0,Brian Robison,4/27/1983,34.0,6-3,259.0,Texas,DE,15,1.0,10.0,2.0,Vikings,2017
+82.0,Kyle Rudolph,11/9/1989,28.0,6-6,265.0,Notre Dame,TE,16,16.0,6.0,5.0,Vikings,2017
+34.0,Andrew Sendejo,9/9/1987,30.0,6-1,210.0,Rice,SS,13,13.0,7.0,4.0,Vikings,2017
+35.0,Marcus Sherels,9/30/1987,30.0,5-10,175.0,Minnesota,DB,16,0.0,7.0,1.0,Vikings,2017
+75.0,Jeremiah Sirles,8/8/1991,26.0,6-6,315.0,Nebraska,T,14,4.0,3.0,3.0,Vikings,2017
+22.0,Harrison Smith,2/2/1989,28.0,6-2,211.0,Notre Dame,FS,16,16.0,5.0,11.0,Vikings,2017
+93.0,Shamar Stephen,2/25/1991,26.0,6-5,310.0,Connecticut,DT,15,1.0,3.0,2.0,Vikings,2017
+19.0,Adam Thielen,8/22/1990,27.0,6-2,195.0,Minnesota St.,WR,16,16.0,3.0,13.0,Vikings,2017
+11.0,Laquon Treadwell,6/14/1995,22.0,6-2,215.0,Mississippi,WR,16,7.0,1.0,2.0,Vikings,2017
+26.0,Trae Waynes,7/25/1992,25.0,6-0,190.0,Michigan St.,LCB,16,16.0,2.0,5.0,Vikings,2017
+91.0,Stephen Weatherly,3/19/1994,23.0,6-5,262.0,Vanderbilt,LB,15,0.0,1.0,1.0,Vikings,2017
+50.0,Eric Wilson,9/26/1994,23.0,6-1,230.0,Cincinnati,LB,16,0.0,0.0,1.0,Vikings,2017
+17.0,Jarius Wright,11/25/1989,28.0,5-10,190.0,Arkansas,WR,16,0.0,5.0,2.0,Vikings,2017
+,Team Total,,26.4,6-2.2,242.9,,,16,,3.3,,Vikings,2017

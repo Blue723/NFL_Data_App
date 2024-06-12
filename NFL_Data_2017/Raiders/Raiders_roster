@@ -1,63 +1,63 @@
-,No.,Player,BirthDate,Age,Height,Weight,College/University,Position,Games_Played_in_Season,Games_Started_in_Season,NFL_Years,Player_Value,Team,Year
-0,58.0,Tyrell Adams,4/11/1992,25,6-2,230.0,West Georgia,LB,6,0.0,1.0,1.0,Raiders,2017
-1,74.0,Vadal Alexander,3/23/1994,23,6-5,325.0,LSU,G,15,4.0,1.0,3.0,Raiders,2017
-2,29.0,David Amerson,12/8/1991,26,6-1,212.0,North Carolina St.,LCB,6,6.0,4.0,2.0,Raiders,2017
-3,96.0,Denico Autry,7/15/1990,27,6-5,285.0,"East Mississippi CC,Mississippi St.",DE,16,3.0,3.0,3.0,Raiders,2017
-4,53.0,NaVorro Bowman,5/28/1988,29,6-1,230.0,Penn St.,MLB,10,10.0,7.0,5.0,Raiders,2017
-5,81.0,Pharaoh Brown,5/4/1994,23,6-5,246.0,Oregon,TE,2,1.0,0.0,0.0,Raiders,2017
-6,91.0,Shilique Calhoun,3/20/1992,25,6-4,260.0,Michigan St.,DE,9,0.0,1.0,1.0,Raiders,2017
-7,4.0,Derek Carr,3/28/1991,26,6-3,215.0,Fresno St.,QB,15,15.0,3.0,10.0,Raiders,2017
-8,38.0,T.J. Carrie,7/28/1990,27,6-0,204.0,Ohio,RCB,16,16.0,3.0,6.0,Raiders,2017
-9,59.0,Jon Condo,8/26/1981,36,6-3,240.0,Maryland,LB,16,0.0,12.0,2.0,Raiders,2017
-10,22.0,Gareon Conley,6/29/1995,22,6-0,190.0,Ohio St.,DB,2,0.0,0.0,0.0,Raiders,2017
-11,87.0,Jared Cook,4/7/1987,30,6-5,246.0,South Carolina,TE,16,16.0,8.0,6.0,Raiders,2017
-12,89.0,Amari Cooper,6/17/1994,23,6-1,211.0,Alabama,WR,14,12.0,2.0,6.0,Raiders,2017
-13,47.0,James Cowser,9/13/1990,27,6-3,231.0,Southern Utah,DE,16,0.0,1.0,2.0,Raiders,2017
-14,15.0,Michael Crabtree,9/14/1987,30,6-1,215.0,Texas Tech,WR,14,14.0,8.0,5.0,Raiders,2017
-15,97.0,Mario Edwards,1/25/1994,23,6-3,280.0,Florida St.,LDE,14,14.0,2.0,6.0,Raiders,2017
-16,78.0,Justin Ellis,12/27/1990,27,6-2,350.0,Louisiana Tech,RDT,16,14.0,3.0,6.0,Raiders,2017
-17,76.0,Jon Feliciano,2/10/1992,25,6-4,325.0,Miami (FL),G,13,1.0,2.0,1.0,Raiders,2017
-18,32.0,Antonio Hamilton,1/24/1993,24,6-0,195.0,South Carolina St.,DB,8,0.0,1.0,0.0,Raiders,2017
-19,41.0,Erik Harris,4/2/1990,27,6-2,225.0,California (PA),DB,15,0.0,1.0,1.0,Raiders,2017
-20,90.0,Treyvon Hester,9/21/1992,25,6-2,304.0,Toledo,DT,14,1.0,0.0,1.0,Raiders,2017
-21,16.0,Johnny Holton,8/22/1990,27,6-3,190.0,Cincinnati,WR,16,1.0,1.0,2.0,Raiders,2017
-22,34.0,Elijah Hood,4/22/1996,21,5-11,230.0,North Carolina,RB,1,0.0,0.0,0.0,Raiders,2017
-23,61.0,Rodney Hudson,7/12/1989,28,6-2,315.0,Florida St.,C,16,16.0,6.0,10.0,Raiders,2017
-24,51.0,Bruce Irvin,11/1/1987,30,6-3,250.0,"Butler (KS),West Virginia",LLB,16,16.0,5.0,7.0,Raiders,2017
-25,66.0,Gabe Jackson,7/12/1991,26,6-3,335.0,Mississippi St.,RG,15,15.0,3.0,7.0,Raiders,2017
-26,57.0,Cory James,5/22/1993,24,6-0,235.0,Colorado St.,RLB,10,9.0,1.0,4.0,Raiders,2017
-27,42.0,Karl Joseph,9/8/1993,24,5-10,200.0,West Virginia,SS,15,15.0,1.0,5.0,Raiders,2017
-28,7.0,Marquette King,10/26/1988,29,6-0,195.0,Fort Valley St.,P,16,0.0,4.0,3.0,Raiders,2017
-29,75.0,Darius Latham,11/9/1994,23,6-5,305.0,Indiana,DT,3,0.0,1.0,0.0,Raiders,2017
-30,55.0,Marquel Lee,10/21/1995,22,6-3,235.0,Wake Forest,MLB,13,6.0,0.0,3.0,Raiders,2017
-31,26.0,Shalom Luani,8/5/1994,23,6-0,202.0,Washington St.,DB,16,1.0,0.0,1.0,Raiders,2017
-32,24.0,Marshawn Lynch,4/22/1986,31,5-11,215.0,California,RB,15,15.0,10.0,7.0,Raiders,2017
-33,52.0,Khalil Mack,2/22/1991,26,6-3,269.0,Buffalo,RDE,16,16.0,3.0,11.0,Raiders,2017
-34,3.0,EJ Manuel,3/19/1990,27,6-4,237.0,Florida St.,QB,2,1.0,4.0,1.0,Raiders,2017
-35,25.0,Demetrius McCray,5/11/1991,26,6-2,194.0,Appalachian St.,DB,3,0.0,4.0,0.0,Raiders,2017
-36,23.0,Dexter McDonald,11/30/1991,26,6-1,200.0,Kansas,LCB,15,6.0,2.0,2.0,Raiders,2017
-37,39.0,Keith McGill,3/9/1989,28,6-3,211.0,Utah,DB,13,0.0,3.0,1.0,Raiders,2017
-38,20.0,Obi Melifonwu,4/5/1994,23,6-4,224.0,Connecticut,DB,5,1.0,0.0,1.0,Raiders,2017
-39,50.0,Nicholas Morrow,7/10/1995,22,6-0,216.0,Greenville,RLB,16,5.0,0.0,3.0,Raiders,2017
-40,27.0,Reggie Nelson,9/21/1983,34,5-11,210.0,Florida,FS,16,16.0,10.0,6.0,Raiders,2017
-41,73.0,Marshall Newhouse,9/29/1988,29,6-4,330.0,TCU,RT,14,14.0,6.0,7.0,Raiders,2017
-42,49.0,Jamize Olawale,4/17/1989,28,6-1,240.0,North Texas,FB,12,0.0,5.0,1.0,Raiders,2017
-43,70.0,Kelechi Osemele,6/24/1989,28,6-5,330.0,Iowa St.,LG,16,16.0,5.0,10.0,Raiders,2017
-44,84.0,Cordarrelle Patterson,3/17/1991,26,6-2,220.0,Tennessee,WR,16,2.0,4.0,3.0,Raiders,2017
-45,72.0,Donald Penn,4/27/1983,34,6-4,315.0,Utah St.,LT,14,14.0,10.0,9.0,Raiders,2017
-46,30.0,Jalen Richard,10/15/1993,24,5-8,207.0,Southern Miss,RB,16,1.0,1.0,4.0,Raiders,2017
-47,10.0,Seth Roberts,2/22/1991,26,6-2,195.0,West Alabama,WR,15,7.0,2.0,4.0,Raiders,2017
-48,71.0,David Sharpe,10/21/1995,22,6-6,343.0,Florida,T,5,2.0,0.0,1.0,Raiders,2017
-49,43.0,Brady Sheldon,2/23/1993,24,6-5,231.0,Ferris St.,LB,2,0.0,0.0,0.0,Raiders,2017
-50,86.0,Lee Smith,11/21/1987,30,6-6,265.0,"Tennessee,Marshall",TE,16,9.0,6.0,1.0,Raiders,2017
-51,21.0,Sean Smith,7/14/1987,30,6-2,215.0,Utah,LCB,14,7.0,8.0,3.0,Raiders,2017
-52,62.0,James Stone,4/26/1992,25,6-3,290.0,Tennessee,G,2,0.0,3.0,0.0,Raiders,2017
-53,2.0,Giorgio Tavecchio,7/16/1990,27,5-10,180.0,California,K,16,0.0,0.0,2.0,Raiders,2017
-54,94.0,Eddie Vanderdoes,10/13/1994,23,6-3,315.0,UCLA,LDT,16,13.0,0.0,5.0,Raiders,2017
-55,88.0,Clive Walford,10/1/1991,26,6-4,252.0,Miami (FL),TE,13,0.0,2.0,1.0,Raiders,2017
-56,95.0,Jihad Ward,5/11/1994,23,6-5,285.0,Illinois,DE,5,1.0,1.0,1.0,Raiders,2017
-57,69.0,Jylan Ware,10/16/1993,24,6-7,317.0,Alabama St.,T,1,0.0,0.0,0.0,Raiders,2017
-58,33.0,DeAndre Washington,2/22/1993,24,5-8,210.0,Texas Tech,RB,15,0.0,1.0,3.0,Raiders,2017
-59,19.0,Isaac Whitney,6/22/1994,23,6-2,204.0,USC,WR,2,0.0,0.0,0.0,Raiders,2017
-60,56.0,Xavier Woodson-Luster,8/6/1995,22,6-1,220.0,Arkansas St.,LB,14,0.0,0.0,1.0,Raiders,2017
-61,,Team Total,,26,6-2.2,246.7,,,16,,2.9,,Raiders,2017
+No.,Player,BirthDate,Age,Height,Weight,College/University,Position,Games_Played_in_Season,Games_Started_in_Season,NFL_Years,Player_Value,Team,Year
+58.0,Tyrell Adams,4/11/1992,25,6-2,230.0,West Georgia,LB,6,0.0,1.0,1.0,Raiders,2017
+74.0,Vadal Alexander,3/23/1994,23,6-5,325.0,LSU,G,15,4.0,1.0,3.0,Raiders,2017
+29.0,David Amerson,12/8/1991,26,6-1,212.0,North Carolina St.,LCB,6,6.0,4.0,2.0,Raiders,2017
+96.0,Denico Autry,7/15/1990,27,6-5,285.0,"East Mississippi CC,Mississippi St.",DE,16,3.0,3.0,3.0,Raiders,2017
+53.0,NaVorro Bowman,5/28/1988,29,6-1,230.0,Penn St.,MLB,10,10.0,7.0,5.0,Raiders,2017
+81.0,Pharaoh Brown,5/4/1994,23,6-5,246.0,Oregon,TE,2,1.0,0.0,0.0,Raiders,2017
+91.0,Shilique Calhoun,3/20/1992,25,6-4,260.0,Michigan St.,DE,9,0.0,1.0,1.0,Raiders,2017
+4.0,Derek Carr,3/28/1991,26,6-3,215.0,Fresno St.,QB,15,15.0,3.0,10.0,Raiders,2017
+38.0,T.J. Carrie,7/28/1990,27,6-0,204.0,Ohio,RCB,16,16.0,3.0,6.0,Raiders,2017
+59.0,Jon Condo,8/26/1981,36,6-3,240.0,Maryland,LB,16,0.0,12.0,2.0,Raiders,2017
+22.0,Gareon Conley,6/29/1995,22,6-0,190.0,Ohio St.,DB,2,0.0,0.0,0.0,Raiders,2017
+87.0,Jared Cook,4/7/1987,30,6-5,246.0,South Carolina,TE,16,16.0,8.0,6.0,Raiders,2017
+89.0,Amari Cooper,6/17/1994,23,6-1,211.0,Alabama,WR,14,12.0,2.0,6.0,Raiders,2017
+47.0,James Cowser,9/13/1990,27,6-3,231.0,Southern Utah,DE,16,0.0,1.0,2.0,Raiders,2017
+15.0,Michael Crabtree,9/14/1987,30,6-1,215.0,Texas Tech,WR,14,14.0,8.0,5.0,Raiders,2017
+97.0,Mario Edwards,1/25/1994,23,6-3,280.0,Florida St.,LDE,14,14.0,2.0,6.0,Raiders,2017
+78.0,Justin Ellis,12/27/1990,27,6-2,350.0,Louisiana Tech,RDT,16,14.0,3.0,6.0,Raiders,2017
+76.0,Jon Feliciano,2/10/1992,25,6-4,325.0,Miami (FL),G,13,1.0,2.0,1.0,Raiders,2017
+32.0,Antonio Hamilton,1/24/1993,24,6-0,195.0,South Carolina St.,DB,8,0.0,1.0,0.0,Raiders,2017
+41.0,Erik Harris,4/2/1990,27,6-2,225.0,California (PA),DB,15,0.0,1.0,1.0,Raiders,2017
+90.0,Treyvon Hester,9/21/1992,25,6-2,304.0,Toledo,DT,14,1.0,0.0,1.0,Raiders,2017
+16.0,Johnny Holton,8/22/1990,27,6-3,190.0,Cincinnati,WR,16,1.0,1.0,2.0,Raiders,2017
+34.0,Elijah Hood,4/22/1996,21,5-11,230.0,North Carolina,RB,1,0.0,0.0,0.0,Raiders,2017
+61.0,Rodney Hudson,7/12/1989,28,6-2,315.0,Florida St.,C,16,16.0,6.0,10.0,Raiders,2017
+51.0,Bruce Irvin,11/1/1987,30,6-3,250.0,"Butler (KS),West Virginia",LLB,16,16.0,5.0,7.0,Raiders,2017
+66.0,Gabe Jackson,7/12/1991,26,6-3,335.0,Mississippi St.,RG,15,15.0,3.0,7.0,Raiders,2017
+57.0,Cory James,5/22/1993,24,6-0,235.0,Colorado St.,RLB,10,9.0,1.0,4.0,Raiders,2017
+42.0,Karl Joseph,9/8/1993,24,5-10,200.0,West Virginia,SS,15,15.0,1.0,5.0,Raiders,2017
+7.0,Marquette King,10/26/1988,29,6-0,195.0,Fort Valley St.,P,16,0.0,4.0,3.0,Raiders,2017
+75.0,Darius Latham,11/9/1994,23,6-5,305.0,Indiana,DT,3,0.0,1.0,0.0,Raiders,2017
+55.0,Marquel Lee,10/21/1995,22,6-3,235.0,Wake Forest,MLB,13,6.0,0.0,3.0,Raiders,2017
+26.0,Shalom Luani,8/5/1994,23,6-0,202.0,Washington St.,DB,16,1.0,0.0,1.0,Raiders,2017
+24.0,Marshawn Lynch,4/22/1986,31,5-11,215.0,California,RB,15,15.0,10.0,7.0,Raiders,2017
+52.0,Khalil Mack,2/22/1991,26,6-3,269.0,Buffalo,RDE,16,16.0,3.0,11.0,Raiders,2017
+3.0,EJ Manuel,3/19/1990,27,6-4,237.0,Florida St.,QB,2,1.0,4.0,1.0,Raiders,2017
+25.0,Demetrius McCray,5/11/1991,26,6-2,194.0,Appalachian St.,DB,3,0.0,4.0,0.0,Raiders,2017
+23.0,Dexter McDonald,11/30/1991,26,6-1,200.0,Kansas,LCB,15,6.0,2.0,2.0,Raiders,2017
+39.0,Keith McGill,3/9/1989,28,6-3,211.0,Utah,DB,13,0.0,3.0,1.0,Raiders,2017
+20.0,Obi Melifonwu,4/5/1994,23,6-4,224.0,Connecticut,DB,5,1.0,0.0,1.0,Raiders,2017
+50.0,Nicholas Morrow,7/10/1995,22,6-0,216.0,Greenville,RLB,16,5.0,0.0,3.0,Raiders,2017
+27.0,Reggie Nelson,9/21/1983,34,5-11,210.0,Florida,FS,16,16.0,10.0,6.0,Raiders,2017
+73.0,Marshall Newhouse,9/29/1988,29,6-4,330.0,TCU,RT,14,14.0,6.0,7.0,Raiders,2017
+49.0,Jamize Olawale,4/17/1989,28,6-1,240.0,North Texas,FB,12,0.0,5.0,1.0,Raiders,2017
+70.0,Kelechi Osemele,6/24/1989,28,6-5,330.0,Iowa St.,LG,16,16.0,5.0,10.0,Raiders,2017
+84.0,Cordarrelle Patterson,3/17/1991,26,6-2,220.0,Tennessee,WR,16,2.0,4.0,3.0,Raiders,2017
+72.0,Donald Penn,4/27/1983,34,6-4,315.0,Utah St.,LT,14,14.0,10.0,9.0,Raiders,2017
+30.0,Jalen Richard,10/15/1993,24,5-8,207.0,Southern Miss,RB,16,1.0,1.0,4.0,Raiders,2017
+10.0,Seth Roberts,2/22/1991,26,6-2,195.0,West Alabama,WR,15,7.0,2.0,4.0,Raiders,2017
+71.0,David Sharpe,10/21/1995,22,6-6,343.0,Florida,T,5,2.0,0.0,1.0,Raiders,2017
+43.0,Brady Sheldon,2/23/1993,24,6-5,231.0,Ferris St.,LB,2,0.0,0.0,0.0,Raiders,2017
+86.0,Lee Smith,11/21/1987,30,6-6,265.0,"Tennessee,Marshall",TE,16,9.0,6.0,1.0,Raiders,2017
+21.0,Sean Smith,7/14/1987,30,6-2,215.0,Utah,LCB,14,7.0,8.0,3.0,Raiders,2017
+62.0,James Stone,4/26/1992,25,6-3,290.0,Tennessee,G,2,0.0,3.0,0.0,Raiders,2017
+2.0,Giorgio Tavecchio,7/16/1990,27,5-10,180.0,California,K,16,0.0,0.0,2.0,Raiders,2017
+94.0,Eddie Vanderdoes,10/13/1994,23,6-3,315.0,UCLA,LDT,16,13.0,0.0,5.0,Raiders,2017
+88.0,Clive Walford,10/1/1991,26,6-4,252.0,Miami (FL),TE,13,0.0,2.0,1.0,Raiders,2017
+95.0,Jihad Ward,5/11/1994,23,6-5,285.0,Illinois,DE,5,1.0,1.0,1.0,Raiders,2017
+69.0,Jylan Ware,10/16/1993,24,6-7,317.0,Alabama St.,T,1,0.0,0.0,0.0,Raiders,2017
+33.0,DeAndre Washington,2/22/1993,24,5-8,210.0,Texas Tech,RB,15,0.0,1.0,3.0,Raiders,2017
+19.0,Isaac Whitney,6/22/1994,23,6-2,204.0,USC,WR,2,0.0,0.0,0.0,Raiders,2017
+56.0,Xavier Woodson-Luster,8/6/1995,22,6-1,220.0,Arkansas St.,LB,14,0.0,0.0,1.0,Raiders,2017
+,Team Total,,26,6-2.2,246.7,,,16,,2.9,,Raiders,2017
