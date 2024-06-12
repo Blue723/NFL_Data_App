@@ -1,65 +1,65 @@
-,No.,Player,BirthDate,Age,Height,Weight,College/University,Position,Games_Played_in_Season,Games_Started_in_Season,NFL_Years,Player_Value,Team,Year
-0,93.0,Tyson Alualu,5/12/1987,28.0,6-3,304.0,California,LDT,16,13.0,5.0,6.0,Jaguars,2015
-1,19.0,Bryan Anger,10/6/1988,27.0,6-3,202.0,California,P,16,0.0,3.0,3.0,Jaguars,2015
-2,57.0,Thurston Armbrister,12/25/1992,23.0,6-2,239.0,Miami (FL),LB,16,3.0,0.0,2.0,Jaguars,2015
-3,94.0,Richard Ash,8/4/1992,23.0,6-3,320.0,"Michigan,Western Michigan",NT,1,0.0,0.0,0.0,Jaguars,2015
-4,29.0,Joe Banyard,11/12/1988,27.0,5-11,213.0,Texas-El Paso,RB,5,0.0,2.0,0.0,Jaguars,2015
-5,54.0,Joplo Bartu,10/3/1990,25.0,6-2,230.0,Texas St.,LB,3,0.0,2.0,0.0,Jaguars,2015
-6,68.0,Zane Beadles,11/19/1986,29.0,6-4,305.0,Utah,LG,16,16.0,5.0,8.0,Jaguars,2015
-7,96.0,Michael Bennett,2/24/1993,22.0,6-2,287.0,Ohio St.,DT,13,0.0,0.0,1.0,Jaguars,2015
-8,5.0,Blake Bortles,4/28/1992,23.0,6-5,236.0,Central Florida,QB,16,16.0,1.0,14.0,Jaguars,2015
-9,70.0,Luke Bowanko,6/13/1991,24.0,6-6,300.0,Virginia,C,6,0.0,1.0,0.0,Jaguars,2015
-10,90.0,Andre Branch,7/14/1989,26.0,6-5,263.0,Clemson,LDE,13,9.0,3.0,5.0,Jaguars,2015
-11,38.0,Sergio Brown,5/22/1988,27.0,6-2,210.0,Notre Dame,DB,15,4.0,5.0,2.0,Jaguars,2015
-12,60.0,A.J. Cann,10/3/1991,24.0,6-3,315.0,South Carolina,RG,14,13.0,0.0,7.0,Jaguars,2015
-13,91.0,Chris Clemons,10/31/1981,34.0,6-3,255.0,Georgia,LDE,16,8.0,11.0,4.0,Jaguars,2015
-14,22.0,Aaron Colvin,10/2/1991,24.0,6-0,191.0,Oklahoma,RCB,16,15.0,1.0,5.0,Jaguars,2015
-15,37.0,Johnathan Cyprien,7/29/1990,25.0,6-1,211.0,Florida International,SS,14,14.0,2.0,5.0,Jaguars,2015
-16,59.0,Ryan Davis,2/24/1989,26.0,6-2,260.0,Bethune-Cookman,LB,14,0.0,3.0,1.0,Jaguars,2015
-17,26.0,Josh Evans,6/5/1991,24.0,6-1,207.0,Florida,FS,16,12.0,2.0,4.0,Jaguars,2015
-18,21.0,Toby Gerhart,3/28/1987,28.0,6-0,234.0,Stanford,RB,7,1.0,5.0,0.0,Jaguars,2015
-19,33.0,Corey Grant,12/19/1991,24.0,5-11,203.0,Auburn,RB,6,0.0,0.0,0.0,Jaguars,2015
-20,27.0,Dwayne Gratz,3/8/1990,25.0,5-11,201.0,Connecticut,DB,12,4.0,2.0,2.0,Jaguars,2015
-21,34.0,Jonas Gray,6/27/1990,25.0,5-9,223.0,Notre Dame,RB,2,0.0,1.0,0.0,Jaguars,2015
-22,13.0,Rashad Greene,9/23/1992,23.0,5-11,186.0,Florida St.,WR,9,0.0,0.0,2.0,Jaguars,2015
-23,86.0,Clay Harbor,7/2/1987,28.0,6-3,240.0,Missouri State,TE,15,3.0,5.0,1.0,Jaguars,2015
-24,31.0,Davon House,7/10/1989,26.0,6-0,195.0,New Mexico St.,LCB,16,15.0,4.0,6.0,Jaguars,2015
-25,88.0,Allen Hurns,11/12/1991,24.0,6-3,195.0,Miami (FL),WR,15,15.0,1.0,8.0,Jaguars,2015
-26,85.0,Nic Jacobs,10/13/1991,24.0,6-5,269.0,McNeese St.,TE,11,2.0,1.0,0.0,Jaguars,2015
-27,76.0,Luke Joeckel,11/6/1991,24.0,6-6,306.0,Texas A&M,LT,14,14.0,2.0,7.0,Jaguars,2015
-28,52.0,James-Michael Johnson,8/20/1989,26.0,6-1,241.0,Nevada,LB,2,0.0,3.0,0.0,Jaguars,2015
-29,95.0,Abry Jones,9/8/1991,24.0,6-4,318.0,Georgia,DT,15,0.0,2.0,1.0,Jaguars,2015
-30,11.0,Marqise Lee,11/25/1991,24.0,6-0,196.0,USC,WR,10,1.0,1.0,2.0,Jaguars,2015
-31,89.0,Marcedes Lewis,5/19/1984,31.0,6-6,265.0,UCLA,TE,16,16.0,9.0,2.0,Jaguars,2015
-32,65.0,Brandon Linder,1/25/1992,23.0,6-6,315.0,Miami (FL),G,3,3.0,1.0,1.0,Jaguars,2015
-33,20.0,Craig Loston,12/21/1989,26.0,6-1,217.0,LSU,DB,6,0.0,1.0,0.0,Jaguars,2015
-34,53.0,John Lotulelei,12/4/1991,24.0,6-0,233.0,UNLV,LB,4,0.0,2.0,0.0,Jaguars,2015
-35,99.0,Sen'Derrick Marks,2/23/1987,28.0,6-1,300.0,Auburn,DT,4,2.0,6.0,1.0,Jaguars,2015
-36,41.0,Nick Marshall,6/30/1992,23.0,6-2,205.0,Auburn,DB,13,1.0,0.0,1.0,Jaguars,2015
-37,35.0,Demetrius McCray,5/11/1991,24.0,6-2,194.0,Appalachian St.,DB,14,3.0,2.0,2.0,Jaguars,2015
-38,97.0,Roy Miller,7/9/1987,28.0,6-1,301.0,Texas,RDT,16,16.0,6.0,6.0,Jaguars,2015
-39,2.0,Jason Myers,5/12/1991,24.0,5-10,190.0,Marist,K,16,0.0,0.0,2.0,Jaguars,2015
-40,75.0,Jared Odrick,12/31/1987,28.0,6-5,301.0,Penn St.,RDE,16,16.0,5.0,7.0,Jaguars,2015
-41,78.0,Jermey Parnell,7/20/1986,29.0,6-6,326.0,Mississippi,RT,15,15.0,4.0,7.0,Jaguars,2015
-42,30.0,Bernard Pierce,5/10/1991,24.0,6-0,222.0,Temple,RB,7,0.0,3.0,0.0,Jaguars,2015
-43,51.0,Paul Posluszny,10/10/1984,31.0,6-2,232.0,Penn St.,MLB,14,14.0,8.0,7.0,Jaguars,2015
-44,52.0,Hayes Pullard,4/18/1992,23.0,6-0,235.0,USC,LB,8,2.0,0.0,1.0,Jaguars,2015
-45,52.0,LaRoy Reynolds,11/3/1990,25.0,6-1,240.0,Virginia,LB,2,0.0,2.0,0.0,Jaguars,2015
-46,15.0,Allen Robinson,8/24/1993,22.0,6-2,220.0,Penn St.,WR,16,16.0,1.0,11.0,Jaguars,2015
-47,16.0,Denard Robinson,9/22/1990,25.0,5-11,199.0,Michigan,WR,13,3.0,2.0,3.0,Jaguars,2015
-48,23.0,James Sample,6/23/1992,23.0,6-2,217.0,Louisville,DB,4,2.0,0.0,1.0,Jaguars,2015
-49,69.0,Tyler Shatley,5/5/1991,24.0,6-3,305.0,Clemson,G,13,0.0,1.0,1.0,Jaguars,2015
-50,55.0,Dan Skuta,4/21/1986,29.0,6-2,251.0,Grand Valley St.,RLB,13,8.0,6.0,4.0,Jaguars,2015
-51,98.0,Chris Smith,2/11/1992,23.0,6-1,266.0,Arkansas,DE,6,0.0,1.0,1.0,Jaguars,2015
-52,50.0,Telvin Smith,4/11/1991,24.0,6-3,215.0,Florida St.,LLB,14,14.0,1.0,7.0,Jaguars,2015
-53,87.0,Neal Sterling,1/14/1992,23.0,6-4,257.0,Monmouth,WR,9,0.0,0.0,0.0,Jaguars,2015
-54,80.0,Julius Thomas,6/27/1988,27.0,6-5,256.0,Portland St.,TE,12,10.0,4.0,4.0,Jaguars,2015
-55,25.0,Peyton Thompson,9/26/1990,25.0,5-11,180.0,San Jose St.,DB,15,0.0,1.0,1.0,Jaguars,2015
-56,46.0,Carson Tinker,11/15/1989,26.0,6-0,233.0,Alabama,LS,16,0.0,2.0,1.0,Jaguars,2015
-57,58.0,Jordan Tripp,4/3/1991,24.0,6-3,234.0,Montana,LB,12,1.0,1.0,1.0,Jaguars,2015
-58,81.0,Bryan Walters,11/4/1987,28.0,6-0,190.0,Cornell,WR,11,1.0,4.0,3.0,Jaguars,2015
-59,12.0,Tony Washington,6/1/1992,23.0,6-4,250.0,Appalachian St.,WR,4,0.0,0.0,0.0,Jaguars,2015
-60,61.0,Stefen Wisniewski,3/22/1989,26.0,6-3,305.0,Penn St.,C,16,16.0,4.0,8.0,Jaguars,2015
-61,24.0,T.J. Yeldon,10/2/1993,22.0,6-1,223.0,Alabama,RB,12,12.0,0.0,7.0,Jaguars,2015
-62,74.0,Sam Young,6/24/1987,28.0,6-8,302.0,Notre Dame,T,16,3.0,5.0,3.0,Jaguars,2015
-63,,Team Total,,25.4,6-2.1,245.0,,,16,,2.5,,Jaguars,2015
+No.,Player,BirthDate,Age,Height,Weight,College/University,Position,Games_Played_in_Season,Games_Started_in_Season,NFL_Years,Player_Value,Team,Year
+93.0,Tyson Alualu,5/12/1987,28.0,6-3,304.0,California,LDT,16,13.0,5.0,6.0,Jaguars,2015
+19.0,Bryan Anger,10/6/1988,27.0,6-3,202.0,California,P,16,0.0,3.0,3.0,Jaguars,2015
+57.0,Thurston Armbrister,12/25/1992,23.0,6-2,239.0,Miami (FL),LB,16,3.0,0.0,2.0,Jaguars,2015
+94.0,Richard Ash,8/4/1992,23.0,6-3,320.0,"Michigan,Western Michigan",NT,1,0.0,0.0,0.0,Jaguars,2015
+29.0,Joe Banyard,11/12/1988,27.0,5-11,213.0,Texas-El Paso,RB,5,0.0,2.0,0.0,Jaguars,2015
+54.0,Joplo Bartu,10/3/1990,25.0,6-2,230.0,Texas St.,LB,3,0.0,2.0,0.0,Jaguars,2015
+68.0,Zane Beadles,11/19/1986,29.0,6-4,305.0,Utah,LG,16,16.0,5.0,8.0,Jaguars,2015
+96.0,Michael Bennett,2/24/1993,22.0,6-2,287.0,Ohio St.,DT,13,0.0,0.0,1.0,Jaguars,2015
+5.0,Blake Bortles,4/28/1992,23.0,6-5,236.0,Central Florida,QB,16,16.0,1.0,14.0,Jaguars,2015
+70.0,Luke Bowanko,6/13/1991,24.0,6-6,300.0,Virginia,C,6,0.0,1.0,0.0,Jaguars,2015
+90.0,Andre Branch,7/14/1989,26.0,6-5,263.0,Clemson,LDE,13,9.0,3.0,5.0,Jaguars,2015
+38.0,Sergio Brown,5/22/1988,27.0,6-2,210.0,Notre Dame,DB,15,4.0,5.0,2.0,Jaguars,2015
+60.0,A.J. Cann,10/3/1991,24.0,6-3,315.0,South Carolina,RG,14,13.0,0.0,7.0,Jaguars,2015
+91.0,Chris Clemons,10/31/1981,34.0,6-3,255.0,Georgia,LDE,16,8.0,11.0,4.0,Jaguars,2015
+22.0,Aaron Colvin,10/2/1991,24.0,6-0,191.0,Oklahoma,RCB,16,15.0,1.0,5.0,Jaguars,2015
+37.0,Johnathan Cyprien,7/29/1990,25.0,6-1,211.0,Florida International,SS,14,14.0,2.0,5.0,Jaguars,2015
+59.0,Ryan Davis,2/24/1989,26.0,6-2,260.0,Bethune-Cookman,LB,14,0.0,3.0,1.0,Jaguars,2015
+26.0,Josh Evans,6/5/1991,24.0,6-1,207.0,Florida,FS,16,12.0,2.0,4.0,Jaguars,2015
+21.0,Toby Gerhart,3/28/1987,28.0,6-0,234.0,Stanford,RB,7,1.0,5.0,0.0,Jaguars,2015
+33.0,Corey Grant,12/19/1991,24.0,5-11,203.0,Auburn,RB,6,0.0,0.0,0.0,Jaguars,2015
+27.0,Dwayne Gratz,3/8/1990,25.0,5-11,201.0,Connecticut,DB,12,4.0,2.0,2.0,Jaguars,2015
+34.0,Jonas Gray,6/27/1990,25.0,5-9,223.0,Notre Dame,RB,2,0.0,1.0,0.0,Jaguars,2015
+13.0,Rashad Greene,9/23/1992,23.0,5-11,186.0,Florida St.,WR,9,0.0,0.0,2.0,Jaguars,2015
+86.0,Clay Harbor,7/2/1987,28.0,6-3,240.0,Missouri State,TE,15,3.0,5.0,1.0,Jaguars,2015
+31.0,Davon House,7/10/1989,26.0,6-0,195.0,New Mexico St.,LCB,16,15.0,4.0,6.0,Jaguars,2015
+88.0,Allen Hurns,11/12/1991,24.0,6-3,195.0,Miami (FL),WR,15,15.0,1.0,8.0,Jaguars,2015
+85.0,Nic Jacobs,10/13/1991,24.0,6-5,269.0,McNeese St.,TE,11,2.0,1.0,0.0,Jaguars,2015
+76.0,Luke Joeckel,11/6/1991,24.0,6-6,306.0,Texas A&M,LT,14,14.0,2.0,7.0,Jaguars,2015
+52.0,James-Michael Johnson,8/20/1989,26.0,6-1,241.0,Nevada,LB,2,0.0,3.0,0.0,Jaguars,2015
+95.0,Abry Jones,9/8/1991,24.0,6-4,318.0,Georgia,DT,15,0.0,2.0,1.0,Jaguars,2015
+11.0,Marqise Lee,11/25/1991,24.0,6-0,196.0,USC,WR,10,1.0,1.0,2.0,Jaguars,2015
+89.0,Marcedes Lewis,5/19/1984,31.0,6-6,265.0,UCLA,TE,16,16.0,9.0,2.0,Jaguars,2015
+65.0,Brandon Linder,1/25/1992,23.0,6-6,315.0,Miami (FL),G,3,3.0,1.0,1.0,Jaguars,2015
+20.0,Craig Loston,12/21/1989,26.0,6-1,217.0,LSU,DB,6,0.0,1.0,0.0,Jaguars,2015
+53.0,John Lotulelei,12/4/1991,24.0,6-0,233.0,UNLV,LB,4,0.0,2.0,0.0,Jaguars,2015
+99.0,Sen'Derrick Marks,2/23/1987,28.0,6-1,300.0,Auburn,DT,4,2.0,6.0,1.0,Jaguars,2015
+41.0,Nick Marshall,6/30/1992,23.0,6-2,205.0,Auburn,DB,13,1.0,0.0,1.0,Jaguars,2015
+35.0,Demetrius McCray,5/11/1991,24.0,6-2,194.0,Appalachian St.,DB,14,3.0,2.0,2.0,Jaguars,2015
+97.0,Roy Miller,7/9/1987,28.0,6-1,301.0,Texas,RDT,16,16.0,6.0,6.0,Jaguars,2015
+2.0,Jason Myers,5/12/1991,24.0,5-10,190.0,Marist,K,16,0.0,0.0,2.0,Jaguars,2015
+75.0,Jared Odrick,12/31/1987,28.0,6-5,301.0,Penn St.,RDE,16,16.0,5.0,7.0,Jaguars,2015
+78.0,Jermey Parnell,7/20/1986,29.0,6-6,326.0,Mississippi,RT,15,15.0,4.0,7.0,Jaguars,2015
+30.0,Bernard Pierce,5/10/1991,24.0,6-0,222.0,Temple,RB,7,0.0,3.0,0.0,Jaguars,2015
+51.0,Paul Posluszny,10/10/1984,31.0,6-2,232.0,Penn St.,MLB,14,14.0,8.0,7.0,Jaguars,2015
+52.0,Hayes Pullard,4/18/1992,23.0,6-0,235.0,USC,LB,8,2.0,0.0,1.0,Jaguars,2015
+52.0,LaRoy Reynolds,11/3/1990,25.0,6-1,240.0,Virginia,LB,2,0.0,2.0,0.0,Jaguars,2015
+15.0,Allen Robinson,8/24/1993,22.0,6-2,220.0,Penn St.,WR,16,16.0,1.0,11.0,Jaguars,2015
+16.0,Denard Robinson,9/22/1990,25.0,5-11,199.0,Michigan,WR,13,3.0,2.0,3.0,Jaguars,2015
+23.0,James Sample,6/23/1992,23.0,6-2,217.0,Louisville,DB,4,2.0,0.0,1.0,Jaguars,2015
+69.0,Tyler Shatley,5/5/1991,24.0,6-3,305.0,Clemson,G,13,0.0,1.0,1.0,Jaguars,2015
+55.0,Dan Skuta,4/21/1986,29.0,6-2,251.0,Grand Valley St.,RLB,13,8.0,6.0,4.0,Jaguars,2015
+98.0,Chris Smith,2/11/1992,23.0,6-1,266.0,Arkansas,DE,6,0.0,1.0,1.0,Jaguars,2015
+50.0,Telvin Smith,4/11/1991,24.0,6-3,215.0,Florida St.,LLB,14,14.0,1.0,7.0,Jaguars,2015
+87.0,Neal Sterling,1/14/1992,23.0,6-4,257.0,Monmouth,WR,9,0.0,0.0,0.0,Jaguars,2015
+80.0,Julius Thomas,6/27/1988,27.0,6-5,256.0,Portland St.,TE,12,10.0,4.0,4.0,Jaguars,2015
+25.0,Peyton Thompson,9/26/1990,25.0,5-11,180.0,San Jose St.,DB,15,0.0,1.0,1.0,Jaguars,2015
+46.0,Carson Tinker,11/15/1989,26.0,6-0,233.0,Alabama,LS,16,0.0,2.0,1.0,Jaguars,2015
+58.0,Jordan Tripp,4/3/1991,24.0,6-3,234.0,Montana,LB,12,1.0,1.0,1.0,Jaguars,2015
+81.0,Bryan Walters,11/4/1987,28.0,6-0,190.0,Cornell,WR,11,1.0,4.0,3.0,Jaguars,2015
+12.0,Tony Washington,6/1/1992,23.0,6-4,250.0,Appalachian St.,WR,4,0.0,0.0,0.0,Jaguars,2015
+61.0,Stefen Wisniewski,3/22/1989,26.0,6-3,305.0,Penn St.,C,16,16.0,4.0,8.0,Jaguars,2015
+24.0,T.J. Yeldon,10/2/1993,22.0,6-1,223.0,Alabama,RB,12,12.0,0.0,7.0,Jaguars,2015
+74.0,Sam Young,6/24/1987,28.0,6-8,302.0,Notre Dame,T,16,3.0,5.0,3.0,Jaguars,2015
+,Team Total,,25.4,6-2.1,245.0,,,16,,2.5,,Jaguars,2015

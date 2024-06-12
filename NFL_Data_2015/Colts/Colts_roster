@@ -1,74 +1,74 @@
-,No.,Player,BirthDate,Age,Height,Weight,College/University,Position,Games_Played_in_Season,Games_Started_in_Season,NFL_Years,Player_Value,Team,Year
-0,29.0,Mike Adams,3/24/1981,34,5-11,205.0,Delaware,SS,13,13.0,11.0,9.0,Colts,2015
-1,56.0,Daniel Adongo,10/12/1989,26,6-5,257.0,Pretoria,LB,3,0.0,2.0,0.0,Colts,2015
-2,83.0,Dwayne Allen,2/24/1990,25,6-3,265.0,Clemson,TE,13,12.0,3.0,1.0,Colts,2015
-3,32.0,Colt Anderson,10/25/1985,30,5-10,194.0,Montana,DB,14,1.0,5.0,1.0,Colts,2015
-4,96.0,Henry Anderson,8/3/1991,24,6-6,300.0,Stanford,RDT,9,9.0,0.0,4.0,Colts,2015
-5,44.0,Ahmad Bradshaw,3/19/1986,29,5-11,195.0,Marshall,RB,6,0.0,8.0,1.0,Colts,2015
-6,11.0,Quan Bray,4/28/1993,22,5-10,185.0,Auburn,WR,9,0.0,0.0,0.0,Colts,2015
-7,25.0,Jalil Brown,10/14/1987,28,6-0,202.0,Colorado,DB,8,4.0,4.0,2.0,Colts,2015
-8,20.0,Darius Butler,3/18/1986,29,5-10,180.0,Connecticut,DB,14,2.0,6.0,2.0,Colts,2015
-9,25.0,Tony Carter,5/24/1986,29,5-9,177.0,Florida St.,DB,3,0.0,6.0,0.0,Colts,2015
-10,74.0,Anthony Castonzo,8/9/1988,27,6-7,307.0,Boston Col.,LT,13,13.0,4.0,6.0,Colts,2015
-11,58.0,Trent Cole,10/5/1982,33,6-3,270.0,Cincinnati,RLB,14,5.0,10.0,3.0,Colts,2015
-12,35.0,Akeem Davis,12/25/1989,26,6-1,200.0,Memphis,DB,3,0.0,1.0,0.0,Colts,2015
-13,21.0,Vontae Davis,5/27/1988,27,5-11,207.0,Illinois,RCB,16,16.0,6.0,10.0,Colts,2015
-14,15.0,Phillip Dorsett,1/5/1993,22,5-10,192.0,Miami (FL),WR,11,0.0,0.0,2.0,Colts,2015
-15,84.0,Jack Doyle,5/5/1990,25,6-6,262.0,Western Kentucky,TE,16,2.0,2.0,1.0,Colts,2015
-16,80.0,Coby Fleener,9/20/1988,27,6-6,251.0,Stanford,TE,16,11.0,3.0,4.0,Colts,2015
-17,50.0,Jerrell Freeman,5/1/1986,29,6-0,235.0,Mary Hardin-Baylor,MLB,13,13.0,3.0,7.0,Colts,2015
-18,5.0,Josh Freeman,1/13/1988,27,6-6,240.0,Kansas St.,QB,1,1.0,6.0,1.0,Colts,2015
-19,42.0,Clayton Geathers,6/1/1992,23,6-2,216.0,Central Florida,DB,15,2.0,0.0,2.0,Colts,2015
-20,39.0,Tay Glover-Wright,6/28/1992,23,6-0,175.0,"Highland (KS),Eastern Arizona,Utah St.",DB,2,0.0,0.0,0.0,Colts,2015
-21,71.0,Denzelle Good,3/8/1991,24,6-5,340.0,Mars Hill,G,6,4.0,0.0,2.0,Colts,2015
-22,23.0,Frank Gore,5/14/1983,32,5-9,212.0,Miami (FL),RB,16,16.0,10.0,7.0,Colts,2015
-23,27.0,Winston Guy,4/23/1990,25,6-1,218.0,Kentucky,DB,12,0.0,3.0,1.0,Colts,2015
-24,72.0,Jonotthan Harrison,8/25/1991,24,6-4,300.0,Florida,C,16,9.0,1.0,4.0,Colts,2015
-25,8.0,Matt Hasselbeck,9/25/1975,40,6-4,235.0,Boston Col.,QB,8,8.0,16.0,4.0,Colts,2015
-26,79.0,Todd Herremans,10/13/1982,33,6-6,323.0,Saginaw Valley St.,G,8,2.0,10.0,1.0,Colts,2015
-27,49.0,Amarlo Herrera,9/20/1991,24,6-0,243.0,Georgia,LB,3,0.0,0.0,0.0,Colts,2015
-28,36.0,Dan Herron,3/21/1989,26,5-10,212.0,Ohio St.,RB,6,0.0,3.0,0.0,Colts,2015
-29,13.0,T.Y. Hilton,11/14/1989,26,5-10,183.0,Florida International,WR,16,15.0,3.0,8.0,Colts,2015
-30,62.0,Khaled Holmes,1/19/1990,25,6-3,302.0,USC,C,9,7.0,2.0,3.0,Colts,2015
-31,55.0,Nate Irving,7/12/1988,27,6-1,242.0,North Carolina St.,LB,8,2.0,4.0,1.0,Colts,2015
-32,52.0,D'Qwell Jackson,9/26/1983,32,6-0,242.0,Maryland,LLB,16,16.0,9.0,8.0,Colts,2015
-33,81.0,Andre Johnson,7/11/1981,34,6-3,229.0,Miami (FL),WR,16,14.0,12.0,4.0,Colts,2015
-34,94.0,Zach Kerr,8/29/1990,25,6-2,334.0,Delaware,DT,12,4.0,1.0,2.0,Colts,2015
-35,90.0,Kendall Langford,1/27/1986,29,6-6,305.0,Hampton,LDE,16,16.0,7.0,7.0,Colts,2015
-36,3.0,Ryan Lindley,6/2/1989,26,6-3,229.0,San Diego St.,QB,1,0.0,3.0,0.0,Colts,2015
-37,60.0,Lance Louis,4/24/1985,30,6-2,303.0,San Diego St.,G,11,3.0,5.0,2.0,Colts,2015
-38,33.0,Dwight Lowery,1/23/1986,29,6-1,185.0,San Jose St.,FS,16,16.0,7.0,7.0,Colts,2015
-39,12.0,Andrew Luck,9/12/1989,26,6-4,240.0,Stanford,QB,7,7.0,3.0,4.0,Colts,2015
-40,98.0,Robert Mathis,2/26/1981,34,6-2,245.0,Alabama A&M,RLB,15,10.0,12.0,5.0,Colts,2015
-41,1.0,Pat McAfee,5/2/1987,28,6-1,233.0,West Virginia,P,16,0.0,6.0,3.0,Colts,2015
-42,31.0,Dewey McDonald,6/10/1990,25,6-0,229.0,California (PA),DB,1,0.0,1.0,0.0,Colts,2015
-43,67.0,T.Y. McGill,11/23/1992,23,6-0,295.0,North Carolina St.,DT,12,0.0,0.0,1.0,Colts,2015
-44,57.0,Josh McNary,4/10/1988,27,6-0,251.0,Army,LB,13,1.0,2.0,1.0,Colts,2015
-45,75.0,Jack Mewhort,8/30/1991,24,6-6,310.0,Ohio St.,LG,16,16.0,1.0,7.0,Colts,2015
-46,10.0,Donte Moncrief,8/6/1993,22,6-2,216.0,Mississippi,WR,16,10.0,1.0,6.0,Colts,2015
-47,51.0,Sio Moore,5/2/1990,25,6-1,245.0,Connecticut,LB,12,0.0,2.0,1.0,Colts,2015
-48,91.0,Jonathan Newsome,1/22/1991,24,6-3,247.0,Ball St.,LB,14,2.0,1.0,2.0,Colts,2015
-49,95.0,Earl Okine,1/4/1990,25,6-6,284.0,Florida,DE,5,0.0,0.0,0.0,Colts,2015
-50,45.0,Matt Overton,7/6/1985,30,6-1,254.0,Western Washington,LS,16,0.0,3.0,1.0,Colts,2015
-51,54.0,David Parry,3/7/1992,23,6-2,315.0,Stanford,LDT,16,16.0,0.0,6.0,Colts,2015
-52,41.0,Eric Patterson,2/5/1993,22,5-9,200.0,Ball St.,DB,2,0.0,0.0,0.0,Colts,2015
-53,26.0,Shaun Prater,10/27/1989,26,5-10,190.0,Iowa,DB,1,0.0,2.0,0.0,Colts,2015
-54,40.0,Sheldon Price,3/26/1991,24,6-2,198.0,UCLA,DB,2,0.0,0.0,0.0,Colts,2015
-55,76.0,Joe Reitz,8/24/1985,30,6-7,256.0,Western Michigan,RT,16,14.0,4.0,6.0,Colts,2015
-56,34.0,Josh Robinson,8/24/1992,23,5-9,215.0,Mississippi St.,RB,5,0.0,0.0,0.0,Colts,2015
-57,30.0,D'Joun Smith,9/23/1992,23,5-11,193.0,Florida Atlantic,DB,4,0.0,0.0,0.0,Colts,2015
-58,59.0,Andy Studebaker,9/16/1985,30,6-3,251.0,Wheaton,LB,3,0.0,7.0,0.0,Colts,2015
-59,86.0,Erik Swoope,5/8/1992,23,6-4,255.0,Miami (FL),TE,1,0.0,0.0,0.0,Colts,2015
-60,35.0,Josh Thomas,5/3/1989,26,5-10,196.0,Buffalo,DB,8,0.0,4.0,0.0,Colts,2015
-61,69.0,Hugh Thornton,6/28/1991,24,6-3,320.0,Illinois,RG,13,12.0,2.0,5.0,Colts,2015
-62,37.0,Zurlon Tipton,4/27/1990,25,6-0,221.0,Central Michigan,RB,10,0.0,1.0,1.0,Colts,2015
-63,28.0,Greg Toler,1/2/1985,30,5-11,191.0,St. Paul's,LCB,10,10.0,6.0,4.0,Colts,2015
-64,38.0,Tyler Varga,9/24/1993,22,5-11,220.0,"Western Ontario,Yale",RB,3,0.0,0.0,0.0,Colts,2015
-65,4.0,Adam Vinatieri,12/28/1972,43,6-0,212.0,South Dakota St.,K,16,0.0,19.0,4.0,Colts,2015
-66,93.0,Erik Walden,8/21/1985,30,6-2,250.0,Middle Tenn. St.,RDE,15,15.0,7.0,6.0,Colts,2015
-67,92.0,Bjoern Werner,8/30/1990,25,6-3,266.0,Florida St.,DE,10,0.0,2.0,1.0,Colts,2015
-68,17.0,Griff Whalen,3/1/1990,25,5-11,190.0,Stanford,WR,14,0.0,2.0,2.0,Colts,2015
-69,6.0,Charlie Whitehurst,8/6/1982,33,6-4,226.0,Clemson,QB,4,0.0,9.0,0.0,Colts,2015
-70,40.0,Trey Williams,12/11/1992,23,5-7,200.0,Texas A&M,RB,2,0.0,0.0,0.0,Colts,2015
-71,99.0,Billy Winn,4/15/1989,26,6-4,300.0,Boise St.,DT,12,3.0,3.0,2.0,Colts,2015
-72,,Team Total,,27,6-1.5,239.8,,,16,,3.8,,Colts,2015
+No.,Player,BirthDate,Age,Height,Weight,College/University,Position,Games_Played_in_Season,Games_Started_in_Season,NFL_Years,Player_Value,Team,Year
+29.0,Mike Adams,3/24/1981,34,5-11,205.0,Delaware,SS,13,13.0,11.0,9.0,Colts,2015
+56.0,Daniel Adongo,10/12/1989,26,6-5,257.0,Pretoria,LB,3,0.0,2.0,0.0,Colts,2015
+83.0,Dwayne Allen,2/24/1990,25,6-3,265.0,Clemson,TE,13,12.0,3.0,1.0,Colts,2015
+32.0,Colt Anderson,10/25/1985,30,5-10,194.0,Montana,DB,14,1.0,5.0,1.0,Colts,2015
+96.0,Henry Anderson,8/3/1991,24,6-6,300.0,Stanford,RDT,9,9.0,0.0,4.0,Colts,2015
+44.0,Ahmad Bradshaw,3/19/1986,29,5-11,195.0,Marshall,RB,6,0.0,8.0,1.0,Colts,2015
+11.0,Quan Bray,4/28/1993,22,5-10,185.0,Auburn,WR,9,0.0,0.0,0.0,Colts,2015
+25.0,Jalil Brown,10/14/1987,28,6-0,202.0,Colorado,DB,8,4.0,4.0,2.0,Colts,2015
+20.0,Darius Butler,3/18/1986,29,5-10,180.0,Connecticut,DB,14,2.0,6.0,2.0,Colts,2015
+25.0,Tony Carter,5/24/1986,29,5-9,177.0,Florida St.,DB,3,0.0,6.0,0.0,Colts,2015
+74.0,Anthony Castonzo,8/9/1988,27,6-7,307.0,Boston Col.,LT,13,13.0,4.0,6.0,Colts,2015
+58.0,Trent Cole,10/5/1982,33,6-3,270.0,Cincinnati,RLB,14,5.0,10.0,3.0,Colts,2015
+35.0,Akeem Davis,12/25/1989,26,6-1,200.0,Memphis,DB,3,0.0,1.0,0.0,Colts,2015
+21.0,Vontae Davis,5/27/1988,27,5-11,207.0,Illinois,RCB,16,16.0,6.0,10.0,Colts,2015
+15.0,Phillip Dorsett,1/5/1993,22,5-10,192.0,Miami (FL),WR,11,0.0,0.0,2.0,Colts,2015
+84.0,Jack Doyle,5/5/1990,25,6-6,262.0,Western Kentucky,TE,16,2.0,2.0,1.0,Colts,2015
+80.0,Coby Fleener,9/20/1988,27,6-6,251.0,Stanford,TE,16,11.0,3.0,4.0,Colts,2015
+50.0,Jerrell Freeman,5/1/1986,29,6-0,235.0,Mary Hardin-Baylor,MLB,13,13.0,3.0,7.0,Colts,2015
+5.0,Josh Freeman,1/13/1988,27,6-6,240.0,Kansas St.,QB,1,1.0,6.0,1.0,Colts,2015
+42.0,Clayton Geathers,6/1/1992,23,6-2,216.0,Central Florida,DB,15,2.0,0.0,2.0,Colts,2015
+39.0,Tay Glover-Wright,6/28/1992,23,6-0,175.0,"Highland (KS),Eastern Arizona,Utah St.",DB,2,0.0,0.0,0.0,Colts,2015
+71.0,Denzelle Good,3/8/1991,24,6-5,340.0,Mars Hill,G,6,4.0,0.0,2.0,Colts,2015
+23.0,Frank Gore,5/14/1983,32,5-9,212.0,Miami (FL),RB,16,16.0,10.0,7.0,Colts,2015
+27.0,Winston Guy,4/23/1990,25,6-1,218.0,Kentucky,DB,12,0.0,3.0,1.0,Colts,2015
+72.0,Jonotthan Harrison,8/25/1991,24,6-4,300.0,Florida,C,16,9.0,1.0,4.0,Colts,2015
+8.0,Matt Hasselbeck,9/25/1975,40,6-4,235.0,Boston Col.,QB,8,8.0,16.0,4.0,Colts,2015
+79.0,Todd Herremans,10/13/1982,33,6-6,323.0,Saginaw Valley St.,G,8,2.0,10.0,1.0,Colts,2015
+49.0,Amarlo Herrera,9/20/1991,24,6-0,243.0,Georgia,LB,3,0.0,0.0,0.0,Colts,2015
+36.0,Dan Herron,3/21/1989,26,5-10,212.0,Ohio St.,RB,6,0.0,3.0,0.0,Colts,2015
+13.0,T.Y. Hilton,11/14/1989,26,5-10,183.0,Florida International,WR,16,15.0,3.0,8.0,Colts,2015
+62.0,Khaled Holmes,1/19/1990,25,6-3,302.0,USC,C,9,7.0,2.0,3.0,Colts,2015
+55.0,Nate Irving,7/12/1988,27,6-1,242.0,North Carolina St.,LB,8,2.0,4.0,1.0,Colts,2015
+52.0,D'Qwell Jackson,9/26/1983,32,6-0,242.0,Maryland,LLB,16,16.0,9.0,8.0,Colts,2015
+81.0,Andre Johnson,7/11/1981,34,6-3,229.0,Miami (FL),WR,16,14.0,12.0,4.0,Colts,2015
+94.0,Zach Kerr,8/29/1990,25,6-2,334.0,Delaware,DT,12,4.0,1.0,2.0,Colts,2015
+90.0,Kendall Langford,1/27/1986,29,6-6,305.0,Hampton,LDE,16,16.0,7.0,7.0,Colts,2015
+3.0,Ryan Lindley,6/2/1989,26,6-3,229.0,San Diego St.,QB,1,0.0,3.0,0.0,Colts,2015
+60.0,Lance Louis,4/24/1985,30,6-2,303.0,San Diego St.,G,11,3.0,5.0,2.0,Colts,2015
+33.0,Dwight Lowery,1/23/1986,29,6-1,185.0,San Jose St.,FS,16,16.0,7.0,7.0,Colts,2015
+12.0,Andrew Luck,9/12/1989,26,6-4,240.0,Stanford,QB,7,7.0,3.0,4.0,Colts,2015
+98.0,Robert Mathis,2/26/1981,34,6-2,245.0,Alabama A&M,RLB,15,10.0,12.0,5.0,Colts,2015
+1.0,Pat McAfee,5/2/1987,28,6-1,233.0,West Virginia,P,16,0.0,6.0,3.0,Colts,2015
+31.0,Dewey McDonald,6/10/1990,25,6-0,229.0,California (PA),DB,1,0.0,1.0,0.0,Colts,2015
+67.0,T.Y. McGill,11/23/1992,23,6-0,295.0,North Carolina St.,DT,12,0.0,0.0,1.0,Colts,2015
+57.0,Josh McNary,4/10/1988,27,6-0,251.0,Army,LB,13,1.0,2.0,1.0,Colts,2015
+75.0,Jack Mewhort,8/30/1991,24,6-6,310.0,Ohio St.,LG,16,16.0,1.0,7.0,Colts,2015
+10.0,Donte Moncrief,8/6/1993,22,6-2,216.0,Mississippi,WR,16,10.0,1.0,6.0,Colts,2015
+51.0,Sio Moore,5/2/1990,25,6-1,245.0,Connecticut,LB,12,0.0,2.0,1.0,Colts,2015
+91.0,Jonathan Newsome,1/22/1991,24,6-3,247.0,Ball St.,LB,14,2.0,1.0,2.0,Colts,2015
+95.0,Earl Okine,1/4/1990,25,6-6,284.0,Florida,DE,5,0.0,0.0,0.0,Colts,2015
+45.0,Matt Overton,7/6/1985,30,6-1,254.0,Western Washington,LS,16,0.0,3.0,1.0,Colts,2015
+54.0,David Parry,3/7/1992,23,6-2,315.0,Stanford,LDT,16,16.0,0.0,6.0,Colts,2015
+41.0,Eric Patterson,2/5/1993,22,5-9,200.0,Ball St.,DB,2,0.0,0.0,0.0,Colts,2015
+26.0,Shaun Prater,10/27/1989,26,5-10,190.0,Iowa,DB,1,0.0,2.0,0.0,Colts,2015
+40.0,Sheldon Price,3/26/1991,24,6-2,198.0,UCLA,DB,2,0.0,0.0,0.0,Colts,2015
+76.0,Joe Reitz,8/24/1985,30,6-7,256.0,Western Michigan,RT,16,14.0,4.0,6.0,Colts,2015
+34.0,Josh Robinson,8/24/1992,23,5-9,215.0,Mississippi St.,RB,5,0.0,0.0,0.0,Colts,2015
+30.0,D'Joun Smith,9/23/1992,23,5-11,193.0,Florida Atlantic,DB,4,0.0,0.0,0.0,Colts,2015
+59.0,Andy Studebaker,9/16/1985,30,6-3,251.0,Wheaton,LB,3,0.0,7.0,0.0,Colts,2015
+86.0,Erik Swoope,5/8/1992,23,6-4,255.0,Miami (FL),TE,1,0.0,0.0,0.0,Colts,2015
+35.0,Josh Thomas,5/3/1989,26,5-10,196.0,Buffalo,DB,8,0.0,4.0,0.0,Colts,2015
+69.0,Hugh Thornton,6/28/1991,24,6-3,320.0,Illinois,RG,13,12.0,2.0,5.0,Colts,2015
+37.0,Zurlon Tipton,4/27/1990,25,6-0,221.0,Central Michigan,RB,10,0.0,1.0,1.0,Colts,2015
+28.0,Greg Toler,1/2/1985,30,5-11,191.0,St. Paul's,LCB,10,10.0,6.0,4.0,Colts,2015
+38.0,Tyler Varga,9/24/1993,22,5-11,220.0,"Western Ontario,Yale",RB,3,0.0,0.0,0.0,Colts,2015
+4.0,Adam Vinatieri,12/28/1972,43,6-0,212.0,South Dakota St.,K,16,0.0,19.0,4.0,Colts,2015
+93.0,Erik Walden,8/21/1985,30,6-2,250.0,Middle Tenn. St.,RDE,15,15.0,7.0,6.0,Colts,2015
+92.0,Bjoern Werner,8/30/1990,25,6-3,266.0,Florida St.,DE,10,0.0,2.0,1.0,Colts,2015
+17.0,Griff Whalen,3/1/1990,25,5-11,190.0,Stanford,WR,14,0.0,2.0,2.0,Colts,2015
+6.0,Charlie Whitehurst,8/6/1982,33,6-4,226.0,Clemson,QB,4,0.0,9.0,0.0,Colts,2015
+40.0,Trey Williams,12/11/1992,23,5-7,200.0,Texas A&M,RB,2,0.0,0.0,0.0,Colts,2015
+99.0,Billy Winn,4/15/1989,26,6-4,300.0,Boise St.,DT,12,3.0,3.0,2.0,Colts,2015
+,Team Total,,27,6-1.5,239.8,,,16,,3.8,,Colts,2015

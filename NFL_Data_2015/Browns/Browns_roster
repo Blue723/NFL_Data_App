@@ -1,66 +1,66 @@
-,No.,Player,BirthDate,Age,Height,Weight,College/University,Position,Games_Played_in_Season,Games_Started_in_Season,NFL_Years,Player_Value,Team,Year
-0,24.0,Johnson Bademosi,7/23/1990,25.0,6-0,219.0,Stanford,DB,16,0.0,3.0,1.0,Browns,2015
-1,82.0,Gary Barnidge,9/22/1985,30.0,6-6,250.0,Louisville,TE,16,13.0,7.0,6.0,Browns,2015
-2,11.0,Travis Benjamin,12/29/1989,26.0,5-10,175.0,Miami (FL),WR,16,15.0,3.0,7.0,Browns,2015
-3,88.0,E.J. Bibbs,8/29/1991,24.0,6-3,261.0,Iowa St.,TE,7,0.0,0.0,0.0,Browns,2015
-4,75.0,Joel Bitonio,10/11/1991,24.0,6-4,320.0,Nevada,LG,10,10.0,1.0,4.0,Browns,2015
-5,80.0,Dwayne Bowe,9/21/1984,31.0,6-2,221.0,LSU,WR,7,0.0,8.0,0.0,Browns,2015
-6,95.0,Armonty Bryant,5/20/1990,25.0,6-4,265.0,East Central (OK),DE,14,2.0,2.0,2.0,Browns,2015
-7,92.0,Desmond Bryant,12/15/1985,30.0,6-5,290.0,Harvard,LDE,14,14.0,6.0,6.0,Browns,2015
-8,30.0,Ibraheim Campbell,5/13/1992,23.0,5-11,210.0,Northwestern,DB,15,1.0,0.0,1.0,Browns,2015
-9,59.0,Tank Carder,1/18/1989,26.0,6-2,235.0,TCU,LB,16,0.0,3.0,1.0,Browns,2015
-10,6.0,Travis Coons,2/6/1992,23.0,6-2,199.0,Washington,K,16,0.0,0.0,3.0,Browns,2015
-11,96.0,Xavier Cooper,11/30/1991,24.0,6-4,300.0,Washington St.,DT,14,0.0,0.0,1.0,Browns,2015
-12,34.0,Isaiah Crowell,1/8/1993,22.0,5-11,225.0,Alabama St.,RB,16,9.0,1.0,4.0,Browns,2015
-13,56.0,Karlos Dansby,11/3/1981,34.0,6-4,250.0,Auburn,LILB,16,16.0,11.0,7.0,Browns,2015
-14,7.0,Austin Davis,6/2/1989,26.0,6-2,221.0,Southern Miss,QB,3,2.0,1.0,1.0,Browns,2015
-15,26.0,Pierre Desir,9/8/1990,25.0,6-1,192.0,Lindenwood,LCB,14,6.0,1.0,2.0,Browns,2015
-16,50.0,Jayson DiManche,9/22/1990,25.0,6-1,232.0,Southern Illinois,LB,1,0.0,2.0,0.0,Browns,2015
-17,20.0,Shaun Draughn,12/7/1987,28.0,6-0,205.0,North Carolina,RB,5,0.0,4.0,0.0,Browns,2015
-18,81.0,Jim Dray,12/31/1986,29.0,6-5,253.0,Stanford,TE,16,10.0,5.0,0.0,Browns,2015
-19,74.0,Cameron Erving,8/23/1992,23.0,6-5,315.0,Florida St.,T,16,4.0,0.0,2.0,Browns,2015
-20,18.0,Taylor Gabriel,2/17/1991,24.0,5-7,168.0,Abilene Christian,WR,13,4.0,1.0,1.0,Browns,2015
-21,43.0,Charles Gaines,10/3/1992,23.0,5-11,175.0,Louisville,DB,6,4.0,0.0,1.0,Browns,2015
-22,21.0,Justin Gilbert,11/7/1991,24.0,6-0,202.0,Oklahoma St.,DB,9,1.0,1.0,1.0,Browns,2015
-23,39.0,Tashaun Gipson,8/7/1990,25.0,6-1,212.0,Wyoming,FS,13,13.0,3.0,5.0,Browns,2015
-24,77.0,John Greco,3/24/1985,30.0,6-4,318.0,Toledo,RG,14,14.0,7.0,6.0,Browns,2015
-25,23.0,Joe Haden,4/14/1989,26.0,5-11,195.0,Florida,LCB,5,5.0,5.0,2.0,Browns,2015
-26,85.0,Rannell Hall,1/30/1993,22.0,6-1,200.0,Central Florida,WR,1,0.0,0.0,0.0,Browns,2015
-27,83.0,Brian Hartline,11/22/1986,29.0,6-2,180.0,Ohio St.,WR,12,4.0,6.0,3.0,Browns,2015
-28,16.0,Andrew Hawkins,3/10/1986,29.0,5-7,175.0,Toledo,WR,8,8.0,4.0,2.0,Browns,2015
-29,84.0,Rob Housler,3/17/1988,27.0,6-5,238.0,Florida Atlantic,TE,6,0.0,4.0,0.0,Browns,2015
-30,93.0,John Hughes,4/27/1988,27.0,6-2,320.0,Cincinnati,DT,16,3.0,3.0,2.0,Browns,2015
-31,47.0,Charley Hughlett,5/16/1990,25.0,6-4,248.0,Central Florida,LS,16,0.0,0.0,1.0,Browns,2015
-32,10.0,Darius Jennings,6/28/1992,23.0,5-10,180.0,Virginia,WR,4,1.0,0.0,1.0,Browns,2015
-33,57.0,Cam Johnson,5/24/1990,25.0,6-4,272.0,Virginia,DE,1,0.0,3.0,0.0,Browns,2015
-34,29.0,Duke Johnson,9/23/1993,22.0,5-9,210.0,Miami (FL),RB,16,7.0,0.0,5.0,Browns,2015
-35,42.0,Malcolm Johnson,8/11/1992,23.0,6-1,231.0,Mississippi St.,RB,12,5.0,0.0,0.0,Browns,2015
-36,35.0,Don Jones,5/14/1990,25.0,5-11,195.0,"Mississippi Gulf Coast CC,Arkansas St.",DB,9,0.0,2.0,0.0,Browns,2015
-37,58.0,Christian Kirksey,8/31/1992,23.0,6-2,235.0,Iowa,RILB,16,5.0,1.0,3.0,Browns,2015
-38,99.0,Paul Kruger,2/15/1986,29.0,6-4,285.0,Utah,LOLB,16,15.0,6.0,5.0,Browns,2015
-39,8.0,Andy Lee,8/11/1982,33.0,6-1,185.0,Pittsburgh,P,16,0.0,11.0,3.0,Browns,2015
-40,55.0,Alex Mack,11/19/1985,30.0,6-4,311.0,California,C,16,16.0,6.0,8.0,Browns,2015
-41,2.0,Johnny Manziel,12/6/1992,23.0,6-0,207.0,Texas A&M,QB,9,6.0,1.0,4.0,Browns,2015
-42,13.0,Josh McCown,7/4/1979,36.0,6-4,218.0,"SMU,Sam Houston St.",QB,8,8.0,13.0,5.0,Browns,2015
-43,98.0,Jamie Meder,4/12/1991,24.0,6-2,308.0,Ashland,DT,16,0.0,1.0,1.0,Browns,2015
-44,64.0,Darrian Miller,4/8/1993,22.0,6-5,307.0,Kentucky,T,6,0.0,0.0,0.0,Browns,2015
-45,51.0,Barkevious Mingo,10/4/1990,25.0,6-5,235.0,LSU,LB,16,2.0,2.0,2.0,Browns,2015
-46,15.0,Marlon Moore,9/3/1987,28.0,6-0,190.0,Fresno St.,WR,14,2.0,5.0,0.0,Browns,2015
-47,41.0,Raheem Mostert,4/9/1992,23.0,5-10,205.0,Purdue,RB,3,0.0,0.0,0.0,Browns,2015
-48,44.0,Nate Orchard,1/5/1993,22.0,6-3,251.0,Utah,ROLB,15,11.0,0.0,5.0,Browns,2015
-49,67.0,Austin Pasztor,11/26/1990,25.0,6-7,305.0,Virginia,T,16,4.0,3.0,2.0,Browns,2015
-50,33.0,Jordan Poyer,4/25/1991,24.0,6-0,191.0,Oregon St.,DB,14,4.0,2.0,3.0,Browns,2015
-51,17.0,Terrelle Pryor,6/20/1989,26.0,6-4,228.0,Ohio St.,WR,3,2.0,4.0,0.0,Browns,2015
-52,53.0,Craig Robertson,2/11/1988,27.0,6-1,234.0,North Texas,RILB,12,9.0,3.0,4.0,Browns,2015
-53,40.0,De'Ante Saunders,9/19/1992,23.0,5-9,187.0,Tennessee St.,DB,1,0.0,0.0,0.0,Browns,2015
-54,72.0,Mitchell Schwartz,6/8/1989,26.0,6-5,320.0,California,RT,16,16.0,3.0,6.0,Browns,2015
-55,71.0,Danny Shelton,8/20/1993,22.0,6-2,345.0,Washington,NT,16,15.0,0.0,6.0,Browns,2015
-56,54.0,Scott Solomon,11/5/1988,27.0,6-3,262.0,Rice,DE,2,0.0,3.0,0.0,Browns,2015
-57,94.0,Randy Starks,12/14/1983,32.0,6-4,305.0,Maryland,LDT,15,15.0,11.0,6.0,Browns,2015
-58,73.0,Joe Thomas,12/4/1984,31.0,6-6,312.0,Wisconsin,LT,16,16.0,8.0,12.0,Browns,2015
-59,27.0,Robert Turbin,12/2/1989,26.0,5-10,225.0,Utah St.,RB,3,0.0,3.0,0.0,Browns,2015
-60,31.0,Donte Whitner,7/24/1985,30.0,5-10,208.0,Ohio St.,SS,14,14.0,9.0,4.0,Browns,2015
-61,36.0,K'Waun Williams,7/12/1991,24.0,5-9,185.0,Pittsburgh,DB,13,6.0,1.0,3.0,Browns,2015
-62,22.0,Tramon Williams,3/16/1983,32.0,5-11,191.0,Louisiana Tech,RCB,15,15.0,8.0,5.0,Browns,2015
-63,28.0,Glenn Winston,4/29/1989,26.0,6-1,220.0,Michigan St.,RB,3,0.0,1.0,0.0,Browns,2015
-64,,Team Total,,26.1,6-1.6,237.7,,,16,,3.2,,Browns,2015
+No.,Player,BirthDate,Age,Height,Weight,College/University,Position,Games_Played_in_Season,Games_Started_in_Season,NFL_Years,Player_Value,Team,Year
+24.0,Johnson Bademosi,7/23/1990,25.0,6-0,219.0,Stanford,DB,16,0.0,3.0,1.0,Browns,2015
+82.0,Gary Barnidge,9/22/1985,30.0,6-6,250.0,Louisville,TE,16,13.0,7.0,6.0,Browns,2015
+11.0,Travis Benjamin,12/29/1989,26.0,5-10,175.0,Miami (FL),WR,16,15.0,3.0,7.0,Browns,2015
+88.0,E.J. Bibbs,8/29/1991,24.0,6-3,261.0,Iowa St.,TE,7,0.0,0.0,0.0,Browns,2015
+75.0,Joel Bitonio,10/11/1991,24.0,6-4,320.0,Nevada,LG,10,10.0,1.0,4.0,Browns,2015
+80.0,Dwayne Bowe,9/21/1984,31.0,6-2,221.0,LSU,WR,7,0.0,8.0,0.0,Browns,2015
+95.0,Armonty Bryant,5/20/1990,25.0,6-4,265.0,East Central (OK),DE,14,2.0,2.0,2.0,Browns,2015
+92.0,Desmond Bryant,12/15/1985,30.0,6-5,290.0,Harvard,LDE,14,14.0,6.0,6.0,Browns,2015
+30.0,Ibraheim Campbell,5/13/1992,23.0,5-11,210.0,Northwestern,DB,15,1.0,0.0,1.0,Browns,2015
+59.0,Tank Carder,1/18/1989,26.0,6-2,235.0,TCU,LB,16,0.0,3.0,1.0,Browns,2015
+6.0,Travis Coons,2/6/1992,23.0,6-2,199.0,Washington,K,16,0.0,0.0,3.0,Browns,2015
+96.0,Xavier Cooper,11/30/1991,24.0,6-4,300.0,Washington St.,DT,14,0.0,0.0,1.0,Browns,2015
+34.0,Isaiah Crowell,1/8/1993,22.0,5-11,225.0,Alabama St.,RB,16,9.0,1.0,4.0,Browns,2015
+56.0,Karlos Dansby,11/3/1981,34.0,6-4,250.0,Auburn,LILB,16,16.0,11.0,7.0,Browns,2015
+7.0,Austin Davis,6/2/1989,26.0,6-2,221.0,Southern Miss,QB,3,2.0,1.0,1.0,Browns,2015
+26.0,Pierre Desir,9/8/1990,25.0,6-1,192.0,Lindenwood,LCB,14,6.0,1.0,2.0,Browns,2015
+50.0,Jayson DiManche,9/22/1990,25.0,6-1,232.0,Southern Illinois,LB,1,0.0,2.0,0.0,Browns,2015
+20.0,Shaun Draughn,12/7/1987,28.0,6-0,205.0,North Carolina,RB,5,0.0,4.0,0.0,Browns,2015
+81.0,Jim Dray,12/31/1986,29.0,6-5,253.0,Stanford,TE,16,10.0,5.0,0.0,Browns,2015
+74.0,Cameron Erving,8/23/1992,23.0,6-5,315.0,Florida St.,T,16,4.0,0.0,2.0,Browns,2015
+18.0,Taylor Gabriel,2/17/1991,24.0,5-7,168.0,Abilene Christian,WR,13,4.0,1.0,1.0,Browns,2015
+43.0,Charles Gaines,10/3/1992,23.0,5-11,175.0,Louisville,DB,6,4.0,0.0,1.0,Browns,2015
+21.0,Justin Gilbert,11/7/1991,24.0,6-0,202.0,Oklahoma St.,DB,9,1.0,1.0,1.0,Browns,2015
+39.0,Tashaun Gipson,8/7/1990,25.0,6-1,212.0,Wyoming,FS,13,13.0,3.0,5.0,Browns,2015
+77.0,John Greco,3/24/1985,30.0,6-4,318.0,Toledo,RG,14,14.0,7.0,6.0,Browns,2015
+23.0,Joe Haden,4/14/1989,26.0,5-11,195.0,Florida,LCB,5,5.0,5.0,2.0,Browns,2015
+85.0,Rannell Hall,1/30/1993,22.0,6-1,200.0,Central Florida,WR,1,0.0,0.0,0.0,Browns,2015
+83.0,Brian Hartline,11/22/1986,29.0,6-2,180.0,Ohio St.,WR,12,4.0,6.0,3.0,Browns,2015
+16.0,Andrew Hawkins,3/10/1986,29.0,5-7,175.0,Toledo,WR,8,8.0,4.0,2.0,Browns,2015
+84.0,Rob Housler,3/17/1988,27.0,6-5,238.0,Florida Atlantic,TE,6,0.0,4.0,0.0,Browns,2015
+93.0,John Hughes,4/27/1988,27.0,6-2,320.0,Cincinnati,DT,16,3.0,3.0,2.0,Browns,2015
+47.0,Charley Hughlett,5/16/1990,25.0,6-4,248.0,Central Florida,LS,16,0.0,0.0,1.0,Browns,2015
+10.0,Darius Jennings,6/28/1992,23.0,5-10,180.0,Virginia,WR,4,1.0,0.0,1.0,Browns,2015
+57.0,Cam Johnson,5/24/1990,25.0,6-4,272.0,Virginia,DE,1,0.0,3.0,0.0,Browns,2015
+29.0,Duke Johnson,9/23/1993,22.0,5-9,210.0,Miami (FL),RB,16,7.0,0.0,5.0,Browns,2015
+42.0,Malcolm Johnson,8/11/1992,23.0,6-1,231.0,Mississippi St.,RB,12,5.0,0.0,0.0,Browns,2015
+35.0,Don Jones,5/14/1990,25.0,5-11,195.0,"Mississippi Gulf Coast CC,Arkansas St.",DB,9,0.0,2.0,0.0,Browns,2015
+58.0,Christian Kirksey,8/31/1992,23.0,6-2,235.0,Iowa,RILB,16,5.0,1.0,3.0,Browns,2015
+99.0,Paul Kruger,2/15/1986,29.0,6-4,285.0,Utah,LOLB,16,15.0,6.0,5.0,Browns,2015
+8.0,Andy Lee,8/11/1982,33.0,6-1,185.0,Pittsburgh,P,16,0.0,11.0,3.0,Browns,2015
+55.0,Alex Mack,11/19/1985,30.0,6-4,311.0,California,C,16,16.0,6.0,8.0,Browns,2015
+2.0,Johnny Manziel,12/6/1992,23.0,6-0,207.0,Texas A&M,QB,9,6.0,1.0,4.0,Browns,2015
+13.0,Josh McCown,7/4/1979,36.0,6-4,218.0,"SMU,Sam Houston St.",QB,8,8.0,13.0,5.0,Browns,2015
+98.0,Jamie Meder,4/12/1991,24.0,6-2,308.0,Ashland,DT,16,0.0,1.0,1.0,Browns,2015
+64.0,Darrian Miller,4/8/1993,22.0,6-5,307.0,Kentucky,T,6,0.0,0.0,0.0,Browns,2015
+51.0,Barkevious Mingo,10/4/1990,25.0,6-5,235.0,LSU,LB,16,2.0,2.0,2.0,Browns,2015
+15.0,Marlon Moore,9/3/1987,28.0,6-0,190.0,Fresno St.,WR,14,2.0,5.0,0.0,Browns,2015
+41.0,Raheem Mostert,4/9/1992,23.0,5-10,205.0,Purdue,RB,3,0.0,0.0,0.0,Browns,2015
+44.0,Nate Orchard,1/5/1993,22.0,6-3,251.0,Utah,ROLB,15,11.0,0.0,5.0,Browns,2015
+67.0,Austin Pasztor,11/26/1990,25.0,6-7,305.0,Virginia,T,16,4.0,3.0,2.0,Browns,2015
+33.0,Jordan Poyer,4/25/1991,24.0,6-0,191.0,Oregon St.,DB,14,4.0,2.0,3.0,Browns,2015
+17.0,Terrelle Pryor,6/20/1989,26.0,6-4,228.0,Ohio St.,WR,3,2.0,4.0,0.0,Browns,2015
+53.0,Craig Robertson,2/11/1988,27.0,6-1,234.0,North Texas,RILB,12,9.0,3.0,4.0,Browns,2015
+40.0,De'Ante Saunders,9/19/1992,23.0,5-9,187.0,Tennessee St.,DB,1,0.0,0.0,0.0,Browns,2015
+72.0,Mitchell Schwartz,6/8/1989,26.0,6-5,320.0,California,RT,16,16.0,3.0,6.0,Browns,2015
+71.0,Danny Shelton,8/20/1993,22.0,6-2,345.0,Washington,NT,16,15.0,0.0,6.0,Browns,2015
+54.0,Scott Solomon,11/5/1988,27.0,6-3,262.0,Rice,DE,2,0.0,3.0,0.0,Browns,2015
+94.0,Randy Starks,12/14/1983,32.0,6-4,305.0,Maryland,LDT,15,15.0,11.0,6.0,Browns,2015
+73.0,Joe Thomas,12/4/1984,31.0,6-6,312.0,Wisconsin,LT,16,16.0,8.0,12.0,Browns,2015
+27.0,Robert Turbin,12/2/1989,26.0,5-10,225.0,Utah St.,RB,3,0.0,3.0,0.0,Browns,2015
+31.0,Donte Whitner,7/24/1985,30.0,5-10,208.0,Ohio St.,SS,14,14.0,9.0,4.0,Browns,2015
+36.0,K'Waun Williams,7/12/1991,24.0,5-9,185.0,Pittsburgh,DB,13,6.0,1.0,3.0,Browns,2015
+22.0,Tramon Williams,3/16/1983,32.0,5-11,191.0,Louisiana Tech,RCB,15,15.0,8.0,5.0,Browns,2015
+28.0,Glenn Winston,4/29/1989,26.0,6-1,220.0,Michigan St.,RB,3,0.0,1.0,0.0,Browns,2015
+,Team Total,,26.1,6-1.6,237.7,,,16,,3.2,,Browns,2015

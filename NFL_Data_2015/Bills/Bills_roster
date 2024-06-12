@@ -1,0 +1,73 @@
+Player,BirthDate,Age,Height,Weight,College/University,Position,Games_Played_in_Season,Games_Started_in_Season,NFL_Years,Player_Value,Team,Year
+T.J. Barnes,6/14/1990,25.0,6-6,355.0,Georgia Tech,DT,4,1.0,1.0,1.0,Bills,2015
+Nigel Bradham,9/4/1989,26.0,6-2,241.0,Florida St.,RLB,11,11.0,3.0,6.0,Bills,2015
+Ron Brooks,10/16/1988,27.0,5-10,190.0,LSU,DB,13,0.0,3.0,1.0,Bills,2015
+Preston Brown,10/27/1992,23.0,6-1,251.0,Louisville,MLB,16,16.0,1.0,9.0,Bills,2015
+Corbin Bryant,1/4/1988,27.0,6-4,300.0,Northwestern,LDT,16,10.0,4.0,6.0,Bills,2015
+Mario Butler,10/20/1988,27.0,6-0,180.0,Georgia Tech,DB,13,1.0,3.0,1.0,Bills,2015
+Dan Carpenter,11/25/1985,30.0,6-2,216.0,Montana,K,16,0.0,7.0,3.0,Bills,2015
+Alex Carrington,6/19/1987,28.0,6-5,284.0,Arkansas St.,DE,7,1.0,5.0,1.0,Bills,2015
+Matt Cassel,5/17/1982,33.0,6-4,225.0,USC,QB,1,1.0,10.0,0.0,Bills,2015
+Stefan Charles,6/9/1988,27.0,6-5,302.0,Regina,DT,13,1.0,2.0,2.0,Bills,2015
+Charles Clay,2/13/1989,26.0,6-3,246.0,Tulsa,TE,13,13.0,4.0,5.0,Bills,2015
+Billy Cundiff,3/30/1980,35.0,6-1,212.0,Drake,K,1,0.0,13.0,0.0,Bills,2015
+Ronald Darby,1/2/1994,21.0,5-11,193.0,Florida St.,LCB,15,15.0,0.0,6.0,Bills,2015
+Marcell Dareus,3/13/1990,25.0,6-3,331.0,Alabama,RDT,15,15.0,4.0,8.0,Bills,2015
+Anthony Dixon,9/24/1987,28.0,6-1,239.0,Mississippi St.,RB,16,1.0,5.0,1.0,Bills,2015
+Marcus Easley,11/2/1987,28.0,6-2,225.0,Connecticut,WR,13,0.0,3.0,1.0,Bills,2015
+IK Enemkpali,7/3/1991,24.0,6-1,261.0,Louisiana Tech,DT,11,0.0,1.0,1.0,Bills,2015
+Jerome Felton,7/3/1986,29.0,6-0,246.0,Furman,RB,16,8.0,7.0,0.0,Bills,2015
+Jordan Gay,3/29/1990,25.0,6-0,200.0,Centre,P,14,0.0,1.0,0.0,Bills,2015
+Mike Gillislee,11/1/1990,25.0,5-11,210.0,Florida,RB,5,1.0,2.0,2.0,Bills,2015
+Stephon Gilmore,9/19/1990,25.0,6-0,190.0,South Carolina,RCB,12,12.0,3.0,5.0,Bills,2015
+Cordy Glenn,9/18/1989,26.0,6-6,345.0,Georgia,LT,16,16.0,3.0,7.0,Bills,2015
+Marquise Goodwin,11/19/1990,25.0,5-9,185.0,Texas,WR,2,0.0,2.0,0.0,Bills,2015
+Chris Gragg,6/30/1990,25.0,6-3,244.0,Arkansas,TE,13,4.0,2.0,1.0,Bills,2015
+Corey Graham,7/25/1985,30.0,6-0,196.0,New Hampshire,SS,16,16.0,8.0,7.0,Bills,2015
+MarQueis Gray,11/7/1989,26.0,6-4,263.0,Minnesota,TE,4,0.0,2.0,0.0,Bills,2015
+Ryan Groy,9/30/1990,25.0,6-5,320.0,Wisconsin,G,4,0.0,1.0,0.0,Bills,2015
+Leonard Hankerson,1/30/1989,26.0,6-1,205.0,Miami (FL),WR,1,0.0,4.0,0.0,Bills,2015
+Percy Harvin,5/28/1988,27.0,5-11,200.0,Florida,WR,5,5.0,6.0,2.0,Bills,2015
+Seantrel Henderson,1/21/1992,23.0,6-7,351.0,Miami (FL),RT,10,10.0,1.0,5.0,Bills,2015
+Dan Herron,3/21/1989,26.0,5-10,212.0,Ohio St.,RB,4,0.0,3.0,0.0,Bills,2015
+Chris Hogan,10/24/1987,28.0,6-1,210.0,Monmouth,WR,16,4.0,2.0,4.0,Bills,2015
+Jerry Hughes,8/13/1988,27.0,6-2,254.0,TCU,RDE,16,16.0,5.0,9.0,Bills,2015
+Gabe Ikard,9/26/1990,25.0,6-4,300.0,Oklahoma,C,3,0.0,0.0,0.0,Bills,2015
+Richie Incognito,7/5/1983,32.0,6-4,322.0,"Nebraska,Oregon",LG,16,16.0,9.0,10.0,Bills,2015
+Randell Johnson,3/23/1991,24.0,6-3,242.0,Florida Atlantic,LB,10,1.0,1.0,1.0,Bills,2015
+Cyrus Kouandjio,7/21/1993,22.0,6-7,322.0,Alabama,T,12,2.0,1.0,2.0,Bills,2015
+Manny Lawson,7/13/1984,31.0,6-5,240.0,North Carolina St.,LLB,16,14.0,9.0,7.0,Bills,2015
+Dezmin Lewis,12/5/1992,23.0,6-4,214.0,Central Arkansas,WR,1,0.0,0.0,0.0,Bills,2015
+EJ Manuel,3/19/1990,25.0,6-4,237.0,Florida St.,QB,7,2.0,2.0,2.0,Bills,2015
+LeSean McCoy,7/12/1988,27.0,5-11,210.0,Pittsburgh,RB,12,12.0,6.0,9.0,Bills,2015
+Leodis McKelvin,9/1/1985,30.0,5-11,190.0,Troy,RCB,9,5.0,7.0,3.0,Bills,2015
+Jonathan Meeks,11/8/1989,26.0,6-1,210.0,Clemson,DB,14,0.0,2.0,1.0,Bills,2015
+John Miller,8/12/1993,22.0,6-3,315.0,Louisville,RG,12,12.0,0.0,5.0,Bills,2015
+Jordan Mills,12/24/1990,25.0,6-5,316.0,Louisiana Tech,RT,10,5.0,2.0,3.0,Bills,2015
+Denarius Moore,12/9/1988,27.0,6-0,195.0,Tennessee,WR,6,0.0,4.0,0.0,Bills,2015
+Matthew Mulligan,1/18/1985,30.0,6-4,258.0,Maine,TE,12,5.0,6.0,0.0,Bills,2015
+Nick O'Leary,8/31/1992,23.0,6-3,252.0,Florida St.,TE,4,0.0,0.0,0.0,Bills,2015
+Walt Powell,11/23/1991,24.0,5-11,189.0,Murray St.,WR,2,0.0,1.0,0.0,Bills,2015
+Bacarri Rambo,6/27/1990,25.0,6-1,211.0,Georgia,FS,15,8.0,2.0,4.0,Bills,2015
+Kevin Reddick,12/28/1989,26.0,6-1,243.0,North Carolina,LB,5,0.0,2.0,0.0,Bills,2015
+Nickell Robey-Coleman,1/17/1992,23.0,5-8,180.0,USC,DB,16,3.0,2.0,2.0,Bills,2015
+Greg Salas,8/25/1988,27.0,6-1,206.0,Hawaii,WR,2,0.0,4.0,0.0,Bills,2015
+Garrison Sanborn,7/31/1985,30.0,6-1,240.0,Florida St.,LS,16,0.0,6.0,2.0,Bills,2015
+Colton Schmidt,10/27/1990,25.0,5-11,224.0,UC Davis,P,16,0.0,1.0,3.0,Bills,2015
+Sammy Seamster,2/5/1991,24.0,6-0,205.0,Middle Tenn. St.,DB,1,0.0,1.0,0.0,Bills,2015
+Tony Steward,9/19/1992,23.0,6-0,235.0,Clemson,LB,7,0.0,0.0,1.0,Bills,2015
+A.J. Tarpley,4/30/1992,23.0,6-2,242.0,Stanford,LB,15,2.0,0.0,2.0,Bills,2015
+Tyrod Taylor,8/3/1989,26.0,6-1,217.0,Virginia Tech,QB,14,14.0,4.0,14.0,Bills,2015
+Marcus Thigpen,5/15/1986,29.0,5-9,193.0,Indiana,RB,8,0.0,3.0,0.0,Bills,2015
+Kraig Urbik,9/23/1985,30.0,6-5,323.0,Wisconsin,G,16,4.0,5.0,3.0,Bills,2015
+Sammy Watkins,6/14/1993,22.0,6-1,211.0,Clemson,WR,13,13.0,1.0,10.0,Bills,2015
+Aaron Williams,4/23/1990,25.0,6-0,195.0,Texas,DB,3,3.0,4.0,1.0,Bills,2015
+Duke Williams,10/15/1990,25.0,5-11,201.0,Nevada,DB,16,4.0,2.0,3.0,Bills,2015
+Karlos Williams,5/4/1993,22.0,6-1,225.0,Florida St.,RB,11,3.0,0.0,4.0,Bills,2015
+Kyle Williams,6/10/1983,32.0,6-1,303.0,LSU,LDT,6,6.0,9.0,3.0,Bills,2015
+Mario Williams,1/31/1985,30.0,6-6,300.0,North Carolina St.,LDE,15,15.0,9.0,7.0,Bills,2015
+Cierre Wood,2/21/1991,24.0,5-11,213.0,Notre Dame,RB,2,0.0,2.0,0.0,Bills,2015
+Eric Wood,3/18/1986,29.0,6-4,310.0,Louisville,C,16,16.0,6.0,10.0,Bills,2015
+Robert Woods,4/10/1992,23.0,6-0,195.0,USC,WR,14,9.0,2.0,5.0,Bills,2015
+Jerel Worthy,4/28/1990,25.0,6-2,298.0,Michigan St.,DT,2,0.0,3.0,0.0,Bills,2015
+Team Total,,26.2,6-1.7,243.2,,,16,,3.4,,Bills,2015

@@ -1,71 +1,71 @@
-,No.,Player,BirthDate,Age,Height,Weight,College/University,Position,Games_Played_in_Season,Games_Started_in_Season,NFL_Years,Player_Value,Team,Year
-0,39.0,David Amerson,12/8/1991,24.0,6-1,212.0,North Carolina St.,DB,2,0.0,2.0,0.0,Commanders,2015
-1,92.0,Chris Baker,10/8/1987,28.0,6-2,306.0,Hampton,LDE,16,10.0,6.0,6.0,Commanders,2015
-2,96.0,Houston Bates,12/28/1991,24.0,6-1,245.0,Louisiana Tech,LB,10,0.0,0.0,1.0,Commanders,2015
-3,41.0,Will Blackmon,10/27/1984,31.0,6-0,212.0,Boston Col.,RCB,15,10.0,9.0,5.0,Commanders,2015
-4,26.0,Bashaud Breeland,1/30/1992,23.0,5-11,195.0,Clemson,LCB,15,14.0,1.0,6.0,Commanders,2015
-5,89.0,Derek Carrier,7/25/1990,25.0,6-3,240.0,Beloit,TE,12,12.0,2.0,1.0,Commanders,2015
-6,68.0,Tom Compton,5/10/1989,26.0,6-6,315.0,South Dakota,T,13,1.0,2.0,2.0,Commanders,2015
-7,51.0,William Compton,9/19/1989,26.0,6-1,235.0,Nebraska,LILB,16,10.0,2.0,6.0,Commanders,2015
-8,8.0,Kirk Cousins,8/19/1988,27.0,6-3,205.0,Michigan St.,QB,16,16.0,3.0,12.0,Commanders,2015
-9,80.0,Jamison Crowder,6/17/1993,22.0,5-9,177.0,Duke,WR,16,6.0,0.0,5.0,Commanders,2015
-10,29.0,Chris Culliver,8/17/1988,27.0,6-0,199.0,South Carolina,RCB,6,6.0,4.0,2.0,Commanders,2015
-11,60.0,Brian De La Puente,5/13/1985,30.0,6-3,306.0,California,C,5,0.0,4.0,0.0,Commanders,2015
-12,47.0,Quinton Dunbar,7/22/1992,23.0,6-2,202.0,Florida,DB,11,2.0,0.0,1.0,Commanders,2015
-13,22.0,Deshazor Everett,2/22/1992,23.0,6-0,203.0,Texas A&M,DB,11,0.0,0.0,1.0,Commanders,2015
-14,59.0,Carlos Fields,10/3/1990,25.0,6-1,238.0,Winston-Salem St.,LB,5,0.0,0.0,0.0,Commanders,2015
-15,2.0,Kai Forbath,9/2/1987,28.0,5-11,197.0,UCLA,K,1,0.0,3.0,0.0,Commanders,2015
-16,54.0,Mason Foster,3/1/1989,26.0,6-1,240.0,Washington,RILB,13,5.0,4.0,3.0,Commanders,2015
-17,88.0,Pierre Garcon,8/8/1986,29.0,6-0,211.0,Mount Union,WR,16,16.0,7.0,6.0,Commanders,2015
-18,38.0,Dashon Goldson,9/18/1984,31.0,6-2,205.0,Washington,FS,15,15.0,8.0,6.0,Commanders,2015
-19,64.0,Kedric Golston,5/30/1983,32.0,6-4,330.0,Georgia,DT,15,0.0,9.0,1.0,Commanders,2015
-20,14.0,Ryan Grant,12/19/1990,25.0,6-0,195.0,Tulane,WR,16,5.0,1.0,2.0,Commanders,2015
-21,23.0,DeAngelo Hall,11/19/1983,32.0,5-10,200.0,Virginia Tech,SS,11,7.0,11.0,3.0,Commanders,2015
-22,87.0,Je'Ron Hamm,6/15/1992,23.0,6-3,236.0,La-Monroe,TE,1,0.0,0.0,0.0,Commanders,2015
-23,37.0,Jeremy Harris,4/26/1991,24.0,6-2,195.0,New Mexico St.,DB,1,0.0,1.0,0.0,Commanders,2015
-24,97.0,Jason Hatcher,7/13/1982,33.0,6-6,299.0,Grambling St.,RDE,15,14.0,9.0,6.0,Commanders,2015
-25,3.0,Dustin Hopkins,10/1/1990,25.0,6-2,193.0,Florida St.,K,15,0.0,0.0,4.0,Commanders,2015
-26,24.0,Duke Ihenacho,6/16/1989,26.0,6-0,212.0,San Jose St.,DB,1,1.0,3.0,0.0,Commanders,2015
-27,11.0,DeSean Jackson,12/1/1986,29.0,5-10,175.0,California,WR,9,9.0,7.0,4.0,Commanders,2015
-28,30.0,Kyshoen Jarrett,5/4/1993,22.0,5-11,192.0,Virginia Tech,DB,16,6.0,0.0,3.0,Commanders,2015
-29,99.0,Ricky Jean-Francois,11/23/1986,29.0,6-2,309.0,LSU,DT,16,1.0,6.0,2.0,Commanders,2015
-30,53.0,Jackson Jeffcoat,12/26/1991,24.0,6-3,247.0,Texas,DE,6,0.0,1.0,0.0,Commanders,2015
-31,85.0,Marcel Jensen,2/12/1990,25.0,6-6,260.0,Fresno St.,TE,1,0.0,1.0,0.0,Commanders,2015
-32,20.0,Jeron Johnson,6/12/1988,27.0,5-10,212.0,Boise St.,DB,14,2.0,4.0,1.0,Commanders,2015
-33,31.0,Matt Jones,3/7/1993,22.0,6-2,239.0,Florida,RB,13,0.0,0.0,5.0,Commanders,2015
-34,73.0,Frank Kearse,10/28/1988,27.0,6-4,315.0,Alabama A&M,DT,4,0.0,4.0,0.0,Commanders,2015
-35,91.0,Ryan Kerrigan,8/16/1988,27.0,6-4,267.0,Purdue,ROLB,16,16.0,4.0,8.0,Commanders,2015
-36,98.0,Terrance Knighton,7/4/1986,29.0,6-2,295.0,Temple,NT,15,15.0,6.0,7.0,Commanders,2015
-37,74.0,Arie Kouandjio,4/23/1992,23.0,6-5,316.0,Alabama,G,3,0.0,0.0,0.0,Commanders,2015
-38,77.0,Shawn Lauvao,10/26/1987,28.0,6-3,308.0,Arizona St.,G,3,3.0,5.0,2.0,Commanders,2015
-39,67.0,Josh LeRibeus,7/2/1989,26.0,6-2,315.0,SMU,C,16,11.0,3.0,6.0,Commanders,2015
-40,78.0,Kory Lichtensteiger,3/22/1985,30.0,6-3,296.0,Bowling Green,C,5,5.0,7.0,3.0,Commanders,2015
-41,61.0,Spencer Long,11/8/1990,25.0,6-5,318.0,Nebraska,LG,13,13.0,1.0,7.0,Commanders,2015
-42,85.0,Anthony McCoy,12/12/1987,28.0,6-5,244.0,USC,TE,6,3.0,5.0,0.0,Commanders,2015
-43,16.0,Colt McCoy,9/5/1986,29.0,6-1,212.0,Texas,QB,2,0.0,5.0,0.0,Commanders,2015
-44,46.0,Alfred Morris,12/12/1988,27.0,5-10,222.0,Florida Atlantic,RB,16,16.0,3.0,4.0,Commanders,2015
-45,76.0,Morgan Moses,3/3/1991,24.0,6-6,320.0,Virginia,RT,16,16.0,1.0,8.0,Commanders,2015
-46,93.0,Trent Murphy,12/22/1990,25.0,6-6,260.0,Stanford,LOLB,16,14.0,1.0,7.0,Commanders,2015
-47,79.0,Ty Nsekhe,10/27/1985,30.0,6-8,325.0,Texas St.,T,13,2.0,3.0,2.0,Commanders,2015
-48,90.0,Stephen Paea,5/11/1988,27.0,6-1,306.0,Oregon St.,DT,11,1.0,4.0,2.0,Commanders,2015
-49,35.0,Dashaun Phillips,1/3/1991,24.0,5-11,186.0,Tarleton St.,DB,6,0.0,0.0,0.0,Commanders,2015
-50,59.0,Terrance Plummer,6/20/1993,22.0,5-11,231.0,Central Florida,LB,3,0.0,0.0,0.0,Commanders,2015
-51,86.0,Jordan Reed,7/3/1990,25.0,6-2,242.0,Florida,TE,14,8.0,2.0,8.0,Commanders,2015
-52,56.0,Perry Riley,5/3/1988,27.0,6-1,238.0,LSU,RILB,9,9.0,5.0,5.0,Commanders,2015
-53,12.0,Andre Roberts,1/9/1988,27.0,5-11,195.0,The Citadel,WR,9,0.0,5.0,2.0,Commanders,2015
-54,52.0,Keenan Robinson,7/7/1989,26.0,6-3,245.0,Texas,LILB,12,8.0,3.0,5.0,Commanders,2015
-55,34.0,Trent Robinson,2/16/1990,25.0,5-10,193.0,Michigan St.,SS,9,7.0,3.0,3.0,Commanders,2015
-56,35.0,Justin Rogers,1/16/1988,27.0,5-11,180.0,Richmond,DB,1,1.0,4.0,0.0,Commanders,2015
-57,19.0,Rashad Ross,2/2/1990,25.0,6-0,180.0,Arizona St.,WR,13,0.0,1.0,2.0,Commanders,2015
-58,75.0,Brandon Scherff,12/26/1991,24.0,6-5,315.0,Iowa,RG,16,16.0,0.0,8.0,Commanders,2015
-59,83.0,Alex Smith,5/22/1982,33.0,6-4,250.0,Stanford,TE,3,1.0,10.0,0.0,Commanders,2015
-60,94.0,Preston Smith,11/17/1992,23.0,6-5,265.0,Mississippi St.,DE,16,2.0,0.0,3.0,Commanders,2015
-61,50.0,Martrell Spaight,8/5/1993,22.0,6-0,243.0,Arkansas,LB,1,0.0,0.0,0.0,Commanders,2015
-62,57.0,Nick Sundberg,7/29/1987,28.0,6-1,254.0,California,LS,16,0.0,5.0,1.0,Commanders,2015
-63,39.0,Pierre Thomas,12/18/1984,31.0,5-11,210.0,Illinois,RB,4,0.0,8.0,1.0,Commanders,2015
-64,25.0,Chris Thompson,10/20/1990,25.0,5-8,195.0,Florida St.,RB,13,0.0,2.0,3.0,Commanders,2015
-65,5.0,Tress Way,4/18/1990,25.0,6-1,220.0,Oklahoma,P,16,0.0,1.0,2.0,Commanders,2015
-66,40.0,Cary Williams,12/23/1984,31.0,6-1,185.0,Washburn,DB,0,0.0,7.0,0.0,Commanders,2015
-67,71.0,Trent Williams,7/19/1988,27.0,6-5,320.0,Oklahoma,LT,14,14.0,5.0,12.0,Commanders,2015
-68,36.0,Darrel Young,4/8/1987,28.0,5-11,248.0,Villanova,LB,16,3.0,5.0,0.0,Commanders,2015
-69,,Team Total,,26.5,6-1.6,242.8,,,16,,3.3,,Commanders,2015
+No.,Player,BirthDate,Age,Height,Weight,College/University,Position,Games_Played_in_Season,Games_Started_in_Season,NFL_Years,Player_Value,Team,Year
+39.0,David Amerson,12/8/1991,24.0,6-1,212.0,North Carolina St.,DB,2,0.0,2.0,0.0,Commanders,2015
+92.0,Chris Baker,10/8/1987,28.0,6-2,306.0,Hampton,LDE,16,10.0,6.0,6.0,Commanders,2015
+96.0,Houston Bates,12/28/1991,24.0,6-1,245.0,Louisiana Tech,LB,10,0.0,0.0,1.0,Commanders,2015
+41.0,Will Blackmon,10/27/1984,31.0,6-0,212.0,Boston Col.,RCB,15,10.0,9.0,5.0,Commanders,2015
+26.0,Bashaud Breeland,1/30/1992,23.0,5-11,195.0,Clemson,LCB,15,14.0,1.0,6.0,Commanders,2015
+89.0,Derek Carrier,7/25/1990,25.0,6-3,240.0,Beloit,TE,12,12.0,2.0,1.0,Commanders,2015
+68.0,Tom Compton,5/10/1989,26.0,6-6,315.0,South Dakota,T,13,1.0,2.0,2.0,Commanders,2015
+51.0,William Compton,9/19/1989,26.0,6-1,235.0,Nebraska,LILB,16,10.0,2.0,6.0,Commanders,2015
+8.0,Kirk Cousins,8/19/1988,27.0,6-3,205.0,Michigan St.,QB,16,16.0,3.0,12.0,Commanders,2015
+80.0,Jamison Crowder,6/17/1993,22.0,5-9,177.0,Duke,WR,16,6.0,0.0,5.0,Commanders,2015
+29.0,Chris Culliver,8/17/1988,27.0,6-0,199.0,South Carolina,RCB,6,6.0,4.0,2.0,Commanders,2015
+60.0,Brian De La Puente,5/13/1985,30.0,6-3,306.0,California,C,5,0.0,4.0,0.0,Commanders,2015
+47.0,Quinton Dunbar,7/22/1992,23.0,6-2,202.0,Florida,DB,11,2.0,0.0,1.0,Commanders,2015
+22.0,Deshazor Everett,2/22/1992,23.0,6-0,203.0,Texas A&M,DB,11,0.0,0.0,1.0,Commanders,2015
+59.0,Carlos Fields,10/3/1990,25.0,6-1,238.0,Winston-Salem St.,LB,5,0.0,0.0,0.0,Commanders,2015
+2.0,Kai Forbath,9/2/1987,28.0,5-11,197.0,UCLA,K,1,0.0,3.0,0.0,Commanders,2015
+54.0,Mason Foster,3/1/1989,26.0,6-1,240.0,Washington,RILB,13,5.0,4.0,3.0,Commanders,2015
+88.0,Pierre Garcon,8/8/1986,29.0,6-0,211.0,Mount Union,WR,16,16.0,7.0,6.0,Commanders,2015
+38.0,Dashon Goldson,9/18/1984,31.0,6-2,205.0,Washington,FS,15,15.0,8.0,6.0,Commanders,2015
+64.0,Kedric Golston,5/30/1983,32.0,6-4,330.0,Georgia,DT,15,0.0,9.0,1.0,Commanders,2015
+14.0,Ryan Grant,12/19/1990,25.0,6-0,195.0,Tulane,WR,16,5.0,1.0,2.0,Commanders,2015
+23.0,DeAngelo Hall,11/19/1983,32.0,5-10,200.0,Virginia Tech,SS,11,7.0,11.0,3.0,Commanders,2015
+87.0,Je'Ron Hamm,6/15/1992,23.0,6-3,236.0,La-Monroe,TE,1,0.0,0.0,0.0,Commanders,2015
+37.0,Jeremy Harris,4/26/1991,24.0,6-2,195.0,New Mexico St.,DB,1,0.0,1.0,0.0,Commanders,2015
+97.0,Jason Hatcher,7/13/1982,33.0,6-6,299.0,Grambling St.,RDE,15,14.0,9.0,6.0,Commanders,2015
+3.0,Dustin Hopkins,10/1/1990,25.0,6-2,193.0,Florida St.,K,15,0.0,0.0,4.0,Commanders,2015
+24.0,Duke Ihenacho,6/16/1989,26.0,6-0,212.0,San Jose St.,DB,1,1.0,3.0,0.0,Commanders,2015
+11.0,DeSean Jackson,12/1/1986,29.0,5-10,175.0,California,WR,9,9.0,7.0,4.0,Commanders,2015
+30.0,Kyshoen Jarrett,5/4/1993,22.0,5-11,192.0,Virginia Tech,DB,16,6.0,0.0,3.0,Commanders,2015
+99.0,Ricky Jean-Francois,11/23/1986,29.0,6-2,309.0,LSU,DT,16,1.0,6.0,2.0,Commanders,2015
+53.0,Jackson Jeffcoat,12/26/1991,24.0,6-3,247.0,Texas,DE,6,0.0,1.0,0.0,Commanders,2015
+85.0,Marcel Jensen,2/12/1990,25.0,6-6,260.0,Fresno St.,TE,1,0.0,1.0,0.0,Commanders,2015
+20.0,Jeron Johnson,6/12/1988,27.0,5-10,212.0,Boise St.,DB,14,2.0,4.0,1.0,Commanders,2015
+31.0,Matt Jones,3/7/1993,22.0,6-2,239.0,Florida,RB,13,0.0,0.0,5.0,Commanders,2015
+73.0,Frank Kearse,10/28/1988,27.0,6-4,315.0,Alabama A&M,DT,4,0.0,4.0,0.0,Commanders,2015
+91.0,Ryan Kerrigan,8/16/1988,27.0,6-4,267.0,Purdue,ROLB,16,16.0,4.0,8.0,Commanders,2015
+98.0,Terrance Knighton,7/4/1986,29.0,6-2,295.0,Temple,NT,15,15.0,6.0,7.0,Commanders,2015
+74.0,Arie Kouandjio,4/23/1992,23.0,6-5,316.0,Alabama,G,3,0.0,0.0,0.0,Commanders,2015
+77.0,Shawn Lauvao,10/26/1987,28.0,6-3,308.0,Arizona St.,G,3,3.0,5.0,2.0,Commanders,2015
+67.0,Josh LeRibeus,7/2/1989,26.0,6-2,315.0,SMU,C,16,11.0,3.0,6.0,Commanders,2015
+78.0,Kory Lichtensteiger,3/22/1985,30.0,6-3,296.0,Bowling Green,C,5,5.0,7.0,3.0,Commanders,2015
+61.0,Spencer Long,11/8/1990,25.0,6-5,318.0,Nebraska,LG,13,13.0,1.0,7.0,Commanders,2015
+85.0,Anthony McCoy,12/12/1987,28.0,6-5,244.0,USC,TE,6,3.0,5.0,0.0,Commanders,2015
+16.0,Colt McCoy,9/5/1986,29.0,6-1,212.0,Texas,QB,2,0.0,5.0,0.0,Commanders,2015
+46.0,Alfred Morris,12/12/1988,27.0,5-10,222.0,Florida Atlantic,RB,16,16.0,3.0,4.0,Commanders,2015
+76.0,Morgan Moses,3/3/1991,24.0,6-6,320.0,Virginia,RT,16,16.0,1.0,8.0,Commanders,2015
+93.0,Trent Murphy,12/22/1990,25.0,6-6,260.0,Stanford,LOLB,16,14.0,1.0,7.0,Commanders,2015
+79.0,Ty Nsekhe,10/27/1985,30.0,6-8,325.0,Texas St.,T,13,2.0,3.0,2.0,Commanders,2015
+90.0,Stephen Paea,5/11/1988,27.0,6-1,306.0,Oregon St.,DT,11,1.0,4.0,2.0,Commanders,2015
+35.0,Dashaun Phillips,1/3/1991,24.0,5-11,186.0,Tarleton St.,DB,6,0.0,0.0,0.0,Commanders,2015
+59.0,Terrance Plummer,6/20/1993,22.0,5-11,231.0,Central Florida,LB,3,0.0,0.0,0.0,Commanders,2015
+86.0,Jordan Reed,7/3/1990,25.0,6-2,242.0,Florida,TE,14,8.0,2.0,8.0,Commanders,2015
+56.0,Perry Riley,5/3/1988,27.0,6-1,238.0,LSU,RILB,9,9.0,5.0,5.0,Commanders,2015
+12.0,Andre Roberts,1/9/1988,27.0,5-11,195.0,The Citadel,WR,9,0.0,5.0,2.0,Commanders,2015
+52.0,Keenan Robinson,7/7/1989,26.0,6-3,245.0,Texas,LILB,12,8.0,3.0,5.0,Commanders,2015
+34.0,Trent Robinson,2/16/1990,25.0,5-10,193.0,Michigan St.,SS,9,7.0,3.0,3.0,Commanders,2015
+35.0,Justin Rogers,1/16/1988,27.0,5-11,180.0,Richmond,DB,1,1.0,4.0,0.0,Commanders,2015
+19.0,Rashad Ross,2/2/1990,25.0,6-0,180.0,Arizona St.,WR,13,0.0,1.0,2.0,Commanders,2015
+75.0,Brandon Scherff,12/26/1991,24.0,6-5,315.0,Iowa,RG,16,16.0,0.0,8.0,Commanders,2015
+83.0,Alex Smith,5/22/1982,33.0,6-4,250.0,Stanford,TE,3,1.0,10.0,0.0,Commanders,2015
+94.0,Preston Smith,11/17/1992,23.0,6-5,265.0,Mississippi St.,DE,16,2.0,0.0,3.0,Commanders,2015
+50.0,Martrell Spaight,8/5/1993,22.0,6-0,243.0,Arkansas,LB,1,0.0,0.0,0.0,Commanders,2015
+57.0,Nick Sundberg,7/29/1987,28.0,6-1,254.0,California,LS,16,0.0,5.0,1.0,Commanders,2015
+39.0,Pierre Thomas,12/18/1984,31.0,5-11,210.0,Illinois,RB,4,0.0,8.0,1.0,Commanders,2015
+25.0,Chris Thompson,10/20/1990,25.0,5-8,195.0,Florida St.,RB,13,0.0,2.0,3.0,Commanders,2015
+5.0,Tress Way,4/18/1990,25.0,6-1,220.0,Oklahoma,P,16,0.0,1.0,2.0,Commanders,2015
+40.0,Cary Williams,12/23/1984,31.0,6-1,185.0,Washburn,DB,0,0.0,7.0,0.0,Commanders,2015
+71.0,Trent Williams,7/19/1988,27.0,6-5,320.0,Oklahoma,LT,14,14.0,5.0,12.0,Commanders,2015
+36.0,Darrel Young,4/8/1987,28.0,5-11,248.0,Villanova,LB,16,3.0,5.0,0.0,Commanders,2015
+,Team Total,,26.5,6-1.6,242.8,,,16,,3.3,,Commanders,2015
