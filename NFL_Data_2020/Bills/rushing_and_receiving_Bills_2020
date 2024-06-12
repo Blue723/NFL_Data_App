@@ -1,0 +1,20 @@
+,No.,Player,Age,Position,Games Played,Games Started as an Offensive or Defensive Player,Rushing Attempts,Rushing Yards Gained,Rushing Touchdown,First Downs Rushing,Rushing Success Rate,Longest Rushing Attempt,Rushing Yards per Attempt,Rushing Yards per Game,Rushing Attempts per Game,Pass Targets,Receptions,Receiving Yards,Receiving Yards per Reception,Receiving Touchdowns,First Downs Receiving,Receiving Success Rate,Longest Reception,Receptions per Game,Receiving Yards per Game,Catch Per.,Receiving Yards per Target,Touches: Rushing Attempts and Receptions,Scrimmage Yards per Touch: Rushing + Receiving Yardage per Opportunity,Yards from Scrimmage: Receiving and Rushing Yards,Rushing and Receiving Touchdowns,Lost and Recovered Fumbles,Team,Year
+26,26,Devin Singletary,23,RB,16,16,156,687,2,40,47.4,51,4.4,42.9,9.8,50,38,269,7.1,0,8,56.0,34,2.4,16.8,76.0,5.4,194,4.9,956,2,1,Bills,2020
+20,20,Zack Moss,23,RB,13,0,112,481,4,30,50.9,31,4.3,37.0,8.6,18,14,95,6.8,1,5,55.6,20,1.1,7.3,77.8,5.3,126,4.6,576,5,0,Bills,2020
+17,17,Josh Allen,24,QB,16,16,102,421,8,38,54.9,24,4.1,26.3,6.4,1,1,12,12.0,1,1,100.0,12,0.1,0.8,100.0,12.0,103,4.2,433,9,9,Bills,2020
+35,35,Antonio Williams,23,RB,1,0,12,63,2,4,58.3,18,5.3,63.0,12.0,1,1,20,20.0,0,1,100.0,20,1.0,20.0,100.0,20.0,13,6.4,83,2,0,Bills,2020
+19,19,Isaiah McKenzie,25,WR,16,7,10,9,0,2,30.0,14,0.9,0.6,0.6,34,30,282,9.4,5,17,64.7,46,1.9,17.6,88.2,8.3,40,7.3,291,5,0,Bills,2020
+22,22,T.J. Yeldon,27,RB,3,0,10,70,0,5,60.0,34,7.0,23.3,3.3,4,1,22,22.0,1,1,25.0,22,0.3,7.3,25.0,5.5,11,8.4,92,1,1,Bills,2020
+5,5,Matt Barkley,30,QB,5,0,6,-6,0,0,0.0,-1,-1.0,-1.2,1.2,0,0,0,0.0,0,0,0.0,0,0.0,0.0,0.0,0.0,6,-1.0,-6,0,0,Bills,2020
+14,14,Stefon Diggs,27,WR,16,15,1,1,0,0,0.0,1,1.0,0.1,0.1,166,127,1535,12.1,8,73,65.1,55,7.9,95.9,76.5,9.2,128,12.0,1536,8,0,Bills,2020
+13,13,Gabriel Davis,21,WR,16,11,1,0,0,0,0.0,0,0.0,0.0,0.1,62,35,599,17.1,7,27,53.2,56,2.2,37.4,56.5,9.7,36,16.6,599,7,1,Bills,2020
+18,18,Andre Roberts,32,WR,15,0,1,-3,0,0,0.0,-3,-3.0,-0.2,0.1,5,4,34,8.5,0,2,60.0,16,0.3,2.3,80.0,6.8,5,6.2,31,0,3,Bills,2020
+11,11,Cole Beasley,31,WR,15,10,0,0,0,0,0.0,0,0.0,0.0,0.0,107,82,967,11.8,4,53,68.2,35,5.5,64.5,76.6,9.0,82,11.8,967,4,0,Bills,2020
+15,15,John Brown,30,WR,9,8,0,0,0,0,0.0,0,0.0,0.0,0.0,52,33,458,13.9,3,22,57.7,46,3.7,50.9,63.5,8.8,33,13.9,458,3,0,Bills,2020
+88,88,Dawson Knox,24,TE,12,7,0,0,0,0,0.0,0,0.0,0.0,0.0,44,24,288,12.0,3,14,50.0,36,2.0,24.0,54.5,6.5,24,12.0,288,3,2,Bills,2020
+81,81,Tyler Kroft,28,TE,10,4,0,0,0,0,0.0,0,0.0,0.0,0.0,16,12,119,9.9,3,9,68.8,38,1.2,11.9,75.0,7.4,12,9.9,119,3,0,Bills,2020
+85,85,Lee Smith,33,TE,10,2,0,0,0,0,0.0,0,0.0,0.0,0.0,6,4,35,8.8,2,3,50.0,27,0.4,3.5,66.7,5.8,4,8.8,35,2,0,Bills,2020
+86,86,Reggie Gilliam,23,FB,14,0,0,0,0,0,0.0,0,0.0,0.0,0.0,2,2,16,8.0,1,2,100.0,15,0.1,1.1,100.0,8.0,2,8.0,16,1,0,Bills,2020
+87,87,Jake Kumerow,28,WR,6,0,0,0,0,0,0.0,0,0.0,0.0,0.0,1,1,22,22.0,1,1,100.0,22,0.2,3.7,100.0,22.0,1,22.0,22,1,0,Bills,2020
+33,33,Siran Neal,26,DB,16,0,0,0,0,0,0.0,0,0.0,0.0,0.0,1,1,13,13.0,0,1,0.0,13,0.1,0.8,100.0,13.0,1,13.0,13,0,0,Bills,2020
+25,25,Taiwan Jones,32,RB,13,0,0,0,0,0,0.0,0,0.0,0.0,0.0,2,0,0,0.0,0,0,0.0,0,0.0,0.0,0.0,0.0,0,0.0,0,0,0,Bills,2020
