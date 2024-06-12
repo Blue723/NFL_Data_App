@@ -1,71 +1,71 @@
-,No.,Player,BirthDate,Age,Height,Weight,College/University,Position,Games_Played_in_Season,Games_Started_in_Season,NFL_Years,Player_Value,Team,Year
-0,17.0,Davante Adams,12/24/1992,26.0,6-1,215.0,Fresno St.,WR,15,15.0,4.0,10.0,Packers,2018
-1,90.0,Montravius Adams,7/24/1995,23.0,6-4,304.0,Auburn,DT,16,1.0,1.0,2.0,Packers,2018
-2,23.0,Jaire Alexander,2/9/1997,21.0,5-10,196.0,Louisville,LCB,13,11.0,0.0,5.0,Packers,2018
-3,81.0,Geronimo Allison,1/18/1994,24.0,6-3,202.0,Illinois,WR,5,4.0,2.0,2.0,Packers,2018
-4,69.0,David Bakhtiari,9/30/1991,27.0,6-4,310.0,Colorado,LT,16,16.0,5.0,14.0,Packers,2018
-5,74.0,Byron Bell,1/17/1989,29.0,6-5,320.0,New Mexico,RG,12,9.0,7.0,4.0,Packers,2018
-6,22.0,Kapri Bibbs,1/10/1993,25.0,5-10,203.0,"Snow College (UT),Colorado St.",RB,2,0.0,3.0,0.0,Packers,2018
-7,43.0,Hunter Bradley,5/21/1994,24.0,6-3,241.0,Mississippi St.,LS,16,0.0,0.0,1.0,Packers,2018
-8,26.0,Bashaud Breeland,1/30/1992,26.0,5-11,195.0,Clemson,RCB,7,5.0,4.0,3.0,Packers,2018
-9,29.0,Kentrell Brice,8/11/1994,24.0,5-11,200.0,Louisiana Tech,FS,14,10.0,2.0,4.0,Packers,2018
-10,98.0,Fadol Brown,4/15/1993,25.0,6-4,282.0,Mississippi,DE,4,0.0,0.0,0.0,Packers,2018
-11,28.0,Tony Brown,7/13/1995,23.0,6-0,199.0,Alabama,DB,11,3.0,0.0,1.0,Packers,2018
-12,75.0,Bryan Bulaga,3/21/1989,29.0,6-5,314.0,Iowa,RT,14,14.0,8.0,6.0,Packers,2018
-13,42.0,Oren Burks,3/21/1995,23.0,6-3,233.0,Vanderbilt,LB,14,4.0,0.0,3.0,Packers,2018
-14,39.0,Ibraheim Campbell,5/13/1992,26.0,5-11,210.0,Northwestern,DB,3,1.0,3.0,0.0,Packers,2018
-15,32.0,Tra Carson,10/24/1992,26.0,5-11,228.0,Texas A&M,RB,4,0.0,0.0,0.0,Packers,2018
-16,97.0,Kenny Clark,10/4/1995,23.0,6-3,314.0,UCLA,NT,13,13.0,2.0,8.0,Packers,2018
-17,21.0,Ha Ha Clinton-Dix,12/21/1992,26.0,6-1,211.0,Alabama,SS,7,7.0,4.0,3.0,Packers,2018
-18,18.0,Randall Cobb,8/22/1990,28.0,5-10,192.0,Kentucky,WR,9,6.0,7.0,3.0,Packers,2018
-19,24.0,Lavon Coleman,12/10/1994,24.0,5-11,216.0,Washington,RB,1,0.0,0.0,0.0,Packers,2018
-20,54.0,James Crawford,12/2/1994,24.0,6-2,239.0,Illinois,DE,16,0.0,0.0,2.0,Packers,2018
-21,2.0,Mason Crosby,9/3/1984,34.0,6-1,207.0,Colorado,K,16,0.0,11.0,3.0,Packers,2018
-22,76.0,Mike Daniels,5/5/1989,29.0,6-0,310.0,Iowa,RDE,10,9.0,6.0,4.0,Packers,2018
-23,11.0,Trevor Davis,7/4/1993,25.0,6-1,188.0,California,WR,2,0.0,2.0,0.0,Packers,2018
-24,51.0,Kyler Fackrell,11/25/1991,27.0,6-5,245.0,Utah St.,ROLB,16,7.0,2.0,5.0,Packers,2018
-25,93.0,Reggie Gilbert,4/1/1993,25.0,6-3,261.0,Arizona,DE,16,0.0,1.0,2.0,Packers,2018
-26,80.0,Jimmy Graham,11/24/1986,32.0,6-7,265.0,Miami (FL),TE,16,12.0,8.0,5.0,Packers,2018
-27,36.0,Raven Greene,2/2/1995,23.0,5-11,197.0,James Madison,DB,8,0.0,0.0,1.0,Packers,2018
-28,31.0,Davon House,7/10/1989,29.0,6-0,195.0,New Mexico St.,DB,3,0.0,7.0,0.0,Packers,2018
-29,22.0,Darius Jackson,12/1/1993,25.0,6-0,220.0,Eastern Michigan,RB,2,0.0,0.0,0.0,Packers,2018
-30,37.0,Josh Jackson,4/3/1996,22.0,6-0,196.0,Iowa,RCB/DB,16,10.0,0.0,4.0,Packers,2018
-31,21.0,Natrell Jamerson,12/15/1995,23.0,5-11,200.0,Wisconsin,DB,2,0.0,0.0,0.0,Packers,2018
-32,33.0,Aaron Jones,12/2/1994,24.0,5-9,208.0,Texas-El Paso,RB,12,8.0,1.0,6.0,Packers,2018
-33,27.0,Josh Jones,9/20/1994,24.0,6-2,220.0,North Carolina St.,FS,13,5.0,1.0,2.0,Packers,2018
-34,84.0,Lance Kendricks,1/30/1988,30.0,6-3,250.0,Wisconsin,TE,16,3.0,7.0,1.0,Packers,2018
-35,20.0,Kevin King,5/5/1995,23.0,6-3,200.0,Washington,RCB,6,6.0,1.0,2.0,Packers,2018
-36,9.0,DeShone Kizer,1/3/1996,22.0,6-4,235.0,Notre Dame,QB,3,0.0,1.0,1.0,Packers,2018
-37,16.0,Jake Kumerow,2/17/1992,26.0,6-4,209.0,Wisconsin–Whitewater,WR,5,2.0,0.0,1.0,Packers,2018
-38,95.0,Tyler Lancaster,11/4/1994,24.0,6-3,313.0,Northwestern,NT,12,5.0,0.0,3.0,Packers,2018
-39,13.0,Allen Lazard,12/11/1995,23.0,6-5,227.0,Iowa St.,WR,1,0.0,0.0,0.0,Packers,2018
-40,89.0,Marcedes Lewis,5/19/1984,34.0,6-6,265.0,UCLA,TE,16,4.0,12.0,0.0,Packers,2018
-41,70.0,Alex Light,5/2/1996,22.0,6-5,309.0,Richmond,G,3,0.0,0.0,0.0,Packers,2018
-42,63.0,Corey Linsley,7/27/1991,27.0,6-3,301.0,Ohio St.,C,16,16.0,4.0,7.0,Packers,2018
-43,99.0,James Looney,5/15/1995,23.0,6-3,287.0,"Wake Forest,California",DT,3,0.0,0.0,0.0,Packers,2018
-44,94.0,Dean Lowry,6/9/1994,24.0,6-6,296.0,Northwestern,LDE,16,8.0,2.0,5.0,Packers,2018
-45,50.0,Blake Martinez,1/9/1994,24.0,6-2,237.0,Stanford,LILB,16,16.0,2.0,9.0,Packers,2018
-46,52.0,Clay Matthews,5/14/1986,32.0,6-3,255.0,USC,LOLB,16,16.0,9.0,7.0,Packers,2018
-47,64.0,Justin McCray,5/31/1992,26.0,6-3,320.0,Central Florida,RG,12,5.0,1.0,3.0,Packers,2018
-48,88.0,Ty Montgomery,1/22/1993,25.0,6-0,220.0,Stanford,WR,7,0.0,3.0,2.0,Packers,2018
-49,82.0,J'Mon Moore,5/23/1995,23.0,6-3,205.0,Missouri,WR,12,0.0,0.0,0.0,Packers,2018
-50,44.0,Antonio Morrison,12/6/1994,24.0,6-1,241.0,Florida,RILB,16,8.0,2.0,4.0,Packers,2018
-51,77.0,Adam Pankey,2/2/1994,24.0,6-5,313.0,West Virginia,G,1,0.0,1.0,0.0,Packers,2018
-52,62.0,Lucas Patrick,7/30/1993,25.0,6-3,313.0,Duke,G,14,4.0,1.0,3.0,Packers,2018
-53,53.0,Nick Perry,4/12/1990,28.0,6-3,265.0,USC,ROLB,9,9.0,6.0,4.0,Packers,2018
-54,35.0,Eddie Pleasant,12/17/1988,30.0,5-10,210.0,Oregon,DB,5,1.0,6.0,1.0,Packers,2018
-55,25.0,Will Redmond,12/28/1993,25.0,5-11,186.0,Mississippi St.,DB,5,0.0,0.0,0.0,Packers,2018
-56,12.0,Aaron Rodgers,12/2/1983,35.0,6-2,223.0,"Butte JC (CA),California",QB,16,16.0,13.0,13.0,Packers,2018
-57,6.0,JK Scott,10/30/1995,23.0,6-5,208.0,Alabama,P,16,0.0,0.0,2.0,Packers,2018
-58,78.0,Jason Spriggs,5/17/1994,24.0,6-6,301.0,Indiana,T,13,2.0,2.0,2.0,Packers,2018
-59,19.0,Equanimeous St. Brown,9/30/1996,22.0,6-5,214.0,Notre Dame,WR,12,7.0,0.0,2.0,Packers,2018
-60,65.0,Lane Taylor,11/22/1989,29.0,6-3,324.0,Oklahoma St.,LG,15,14.0,5.0,7.0,Packers,2018
-61,85.0,Robert Tonyan,4/30/1994,24.0,6-5,240.0,Indiana St.,TE,16,1.0,0.0,1.0,Packers,2018
-62,56.0,Korey Toomer,12/9/1988,30.0,6-2,235.0,Idaho,LB,7,0.0,4.0,1.0,Packers,2018
-63,83.0,Marquez Valdes-Scantling,10/10/1994,24.0,6-4,206.0,"North Carolina St.,South Florida",WR,16,10.0,0.0,4.0,Packers,2018
-64,45.0,Danny Vitale,10/26/1993,25.0,6-0,239.0,Northwestern,RB,5,0.0,2.0,0.0,Packers,2018
-65,35.0,Jermaine Whitehead,3/12/1993,25.0,5-11,195.0,Auburn,DB,7,2.0,2.0,1.0,Packers,2018
-66,96.0,Muhammad Wilkerson,10/22/1989,29.0,6-4,315.0,Temple,DT,3,3.0,7.0,1.0,Packers,2018
-67,30.0,Jamaal Williams,4/3/1995,23.0,6-0,224.0,BYU,RB,16,8.0,1.0,4.0,Packers,2018
-68,38.0,Tramon Williams,3/16/1983,35.0,5-11,191.0,Louisiana Tech,SS/LCB,16,16.0,11.0,6.0,Packers,2018
-69,,Team Total,,25.8,6-2.0,242.1,,,16,,2.8,,Packers,2018
+No.,Player,BirthDate,Age,Height,Weight,College/University,Position,Games_Played_in_Season,Games_Started_in_Season,NFL_Years,Player_Value,Team,Year
+17.0,Davante Adams,12/24/1992,26.0,6-1,215.0,Fresno St.,WR,15,15.0,4.0,10.0,Packers,2018
+90.0,Montravius Adams,7/24/1995,23.0,6-4,304.0,Auburn,DT,16,1.0,1.0,2.0,Packers,2018
+23.0,Jaire Alexander,2/9/1997,21.0,5-10,196.0,Louisville,LCB,13,11.0,0.0,5.0,Packers,2018
+81.0,Geronimo Allison,1/18/1994,24.0,6-3,202.0,Illinois,WR,5,4.0,2.0,2.0,Packers,2018
+69.0,David Bakhtiari,9/30/1991,27.0,6-4,310.0,Colorado,LT,16,16.0,5.0,14.0,Packers,2018
+74.0,Byron Bell,1/17/1989,29.0,6-5,320.0,New Mexico,RG,12,9.0,7.0,4.0,Packers,2018
+22.0,Kapri Bibbs,1/10/1993,25.0,5-10,203.0,"Snow College (UT),Colorado St.",RB,2,0.0,3.0,0.0,Packers,2018
+43.0,Hunter Bradley,5/21/1994,24.0,6-3,241.0,Mississippi St.,LS,16,0.0,0.0,1.0,Packers,2018
+26.0,Bashaud Breeland,1/30/1992,26.0,5-11,195.0,Clemson,RCB,7,5.0,4.0,3.0,Packers,2018
+29.0,Kentrell Brice,8/11/1994,24.0,5-11,200.0,Louisiana Tech,FS,14,10.0,2.0,4.0,Packers,2018
+98.0,Fadol Brown,4/15/1993,25.0,6-4,282.0,Mississippi,DE,4,0.0,0.0,0.0,Packers,2018
+28.0,Tony Brown,7/13/1995,23.0,6-0,199.0,Alabama,DB,11,3.0,0.0,1.0,Packers,2018
+75.0,Bryan Bulaga,3/21/1989,29.0,6-5,314.0,Iowa,RT,14,14.0,8.0,6.0,Packers,2018
+42.0,Oren Burks,3/21/1995,23.0,6-3,233.0,Vanderbilt,LB,14,4.0,0.0,3.0,Packers,2018
+39.0,Ibraheim Campbell,5/13/1992,26.0,5-11,210.0,Northwestern,DB,3,1.0,3.0,0.0,Packers,2018
+32.0,Tra Carson,10/24/1992,26.0,5-11,228.0,Texas A&M,RB,4,0.0,0.0,0.0,Packers,2018
+97.0,Kenny Clark,10/4/1995,23.0,6-3,314.0,UCLA,NT,13,13.0,2.0,8.0,Packers,2018
+21.0,Ha Ha Clinton-Dix,12/21/1992,26.0,6-1,211.0,Alabama,SS,7,7.0,4.0,3.0,Packers,2018
+18.0,Randall Cobb,8/22/1990,28.0,5-10,192.0,Kentucky,WR,9,6.0,7.0,3.0,Packers,2018
+24.0,Lavon Coleman,12/10/1994,24.0,5-11,216.0,Washington,RB,1,0.0,0.0,0.0,Packers,2018
+54.0,James Crawford,12/2/1994,24.0,6-2,239.0,Illinois,DE,16,0.0,0.0,2.0,Packers,2018
+2.0,Mason Crosby,9/3/1984,34.0,6-1,207.0,Colorado,K,16,0.0,11.0,3.0,Packers,2018
+76.0,Mike Daniels,5/5/1989,29.0,6-0,310.0,Iowa,RDE,10,9.0,6.0,4.0,Packers,2018
+11.0,Trevor Davis,7/4/1993,25.0,6-1,188.0,California,WR,2,0.0,2.0,0.0,Packers,2018
+51.0,Kyler Fackrell,11/25/1991,27.0,6-5,245.0,Utah St.,ROLB,16,7.0,2.0,5.0,Packers,2018
+93.0,Reggie Gilbert,4/1/1993,25.0,6-3,261.0,Arizona,DE,16,0.0,1.0,2.0,Packers,2018
+80.0,Jimmy Graham,11/24/1986,32.0,6-7,265.0,Miami (FL),TE,16,12.0,8.0,5.0,Packers,2018
+36.0,Raven Greene,2/2/1995,23.0,5-11,197.0,James Madison,DB,8,0.0,0.0,1.0,Packers,2018
+31.0,Davon House,7/10/1989,29.0,6-0,195.0,New Mexico St.,DB,3,0.0,7.0,0.0,Packers,2018
+22.0,Darius Jackson,12/1/1993,25.0,6-0,220.0,Eastern Michigan,RB,2,0.0,0.0,0.0,Packers,2018
+37.0,Josh Jackson,4/3/1996,22.0,6-0,196.0,Iowa,RCB/DB,16,10.0,0.0,4.0,Packers,2018
+21.0,Natrell Jamerson,12/15/1995,23.0,5-11,200.0,Wisconsin,DB,2,0.0,0.0,0.0,Packers,2018
+33.0,Aaron Jones,12/2/1994,24.0,5-9,208.0,Texas-El Paso,RB,12,8.0,1.0,6.0,Packers,2018
+27.0,Josh Jones,9/20/1994,24.0,6-2,220.0,North Carolina St.,FS,13,5.0,1.0,2.0,Packers,2018
+84.0,Lance Kendricks,1/30/1988,30.0,6-3,250.0,Wisconsin,TE,16,3.0,7.0,1.0,Packers,2018
+20.0,Kevin King,5/5/1995,23.0,6-3,200.0,Washington,RCB,6,6.0,1.0,2.0,Packers,2018
+9.0,DeShone Kizer,1/3/1996,22.0,6-4,235.0,Notre Dame,QB,3,0.0,1.0,1.0,Packers,2018
+16.0,Jake Kumerow,2/17/1992,26.0,6-4,209.0,Wisconsin–Whitewater,WR,5,2.0,0.0,1.0,Packers,2018
+95.0,Tyler Lancaster,11/4/1994,24.0,6-3,313.0,Northwestern,NT,12,5.0,0.0,3.0,Packers,2018
+13.0,Allen Lazard,12/11/1995,23.0,6-5,227.0,Iowa St.,WR,1,0.0,0.0,0.0,Packers,2018
+89.0,Marcedes Lewis,5/19/1984,34.0,6-6,265.0,UCLA,TE,16,4.0,12.0,0.0,Packers,2018
+70.0,Alex Light,5/2/1996,22.0,6-5,309.0,Richmond,G,3,0.0,0.0,0.0,Packers,2018
+63.0,Corey Linsley,7/27/1991,27.0,6-3,301.0,Ohio St.,C,16,16.0,4.0,7.0,Packers,2018
+99.0,James Looney,5/15/1995,23.0,6-3,287.0,"Wake Forest,California",DT,3,0.0,0.0,0.0,Packers,2018
+94.0,Dean Lowry,6/9/1994,24.0,6-6,296.0,Northwestern,LDE,16,8.0,2.0,5.0,Packers,2018
+50.0,Blake Martinez,1/9/1994,24.0,6-2,237.0,Stanford,LILB,16,16.0,2.0,9.0,Packers,2018
+52.0,Clay Matthews,5/14/1986,32.0,6-3,255.0,USC,LOLB,16,16.0,9.0,7.0,Packers,2018
+64.0,Justin McCray,5/31/1992,26.0,6-3,320.0,Central Florida,RG,12,5.0,1.0,3.0,Packers,2018
+88.0,Ty Montgomery,1/22/1993,25.0,6-0,220.0,Stanford,WR,7,0.0,3.0,2.0,Packers,2018
+82.0,J'Mon Moore,5/23/1995,23.0,6-3,205.0,Missouri,WR,12,0.0,0.0,0.0,Packers,2018
+44.0,Antonio Morrison,12/6/1994,24.0,6-1,241.0,Florida,RILB,16,8.0,2.0,4.0,Packers,2018
+77.0,Adam Pankey,2/2/1994,24.0,6-5,313.0,West Virginia,G,1,0.0,1.0,0.0,Packers,2018
+62.0,Lucas Patrick,7/30/1993,25.0,6-3,313.0,Duke,G,14,4.0,1.0,3.0,Packers,2018
+53.0,Nick Perry,4/12/1990,28.0,6-3,265.0,USC,ROLB,9,9.0,6.0,4.0,Packers,2018
+35.0,Eddie Pleasant,12/17/1988,30.0,5-10,210.0,Oregon,DB,5,1.0,6.0,1.0,Packers,2018
+25.0,Will Redmond,12/28/1993,25.0,5-11,186.0,Mississippi St.,DB,5,0.0,0.0,0.0,Packers,2018
+12.0,Aaron Rodgers,12/2/1983,35.0,6-2,223.0,"Butte JC (CA),California",QB,16,16.0,13.0,13.0,Packers,2018
+6.0,JK Scott,10/30/1995,23.0,6-5,208.0,Alabama,P,16,0.0,0.0,2.0,Packers,2018
+78.0,Jason Spriggs,5/17/1994,24.0,6-6,301.0,Indiana,T,13,2.0,2.0,2.0,Packers,2018
+19.0,Equanimeous St. Brown,9/30/1996,22.0,6-5,214.0,Notre Dame,WR,12,7.0,0.0,2.0,Packers,2018
+65.0,Lane Taylor,11/22/1989,29.0,6-3,324.0,Oklahoma St.,LG,15,14.0,5.0,7.0,Packers,2018
+85.0,Robert Tonyan,4/30/1994,24.0,6-5,240.0,Indiana St.,TE,16,1.0,0.0,1.0,Packers,2018
+56.0,Korey Toomer,12/9/1988,30.0,6-2,235.0,Idaho,LB,7,0.0,4.0,1.0,Packers,2018
+83.0,Marquez Valdes-Scantling,10/10/1994,24.0,6-4,206.0,"North Carolina St.,South Florida",WR,16,10.0,0.0,4.0,Packers,2018
+45.0,Danny Vitale,10/26/1993,25.0,6-0,239.0,Northwestern,RB,5,0.0,2.0,0.0,Packers,2018
+35.0,Jermaine Whitehead,3/12/1993,25.0,5-11,195.0,Auburn,DB,7,2.0,2.0,1.0,Packers,2018
+96.0,Muhammad Wilkerson,10/22/1989,29.0,6-4,315.0,Temple,DT,3,3.0,7.0,1.0,Packers,2018
+30.0,Jamaal Williams,4/3/1995,23.0,6-0,224.0,BYU,RB,16,8.0,1.0,4.0,Packers,2018
+38.0,Tramon Williams,3/16/1983,35.0,5-11,191.0,Louisiana Tech,SS/LCB,16,16.0,11.0,6.0,Packers,2018
+,Team Total,,25.8,6-2.0,242.1,,,16,,2.8,,Packers,2018

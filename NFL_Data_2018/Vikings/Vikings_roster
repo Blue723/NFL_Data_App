@@ -1,60 +1,60 @@
-,No.,Player,BirthDate,Age,Height,Weight,College/University,Position,Games_Played_in_Season,Games_Started_in_Season,NFL_Years,Player_Value,Team,Year
-0,31.0,Ameer Abdullah,6/13/1993,25.0,5-9,203.0,Nebraska,RB,7,0.0,3.0,0.0,Vikings,2018
-1,20.0,Mackensie Alexander,11/12/1993,25.0,5-10,192.0,Clemson,DB,15,6.0,2.0,3.0,Vikings,2018
-2,5.0,Dan Bailey,1/26/1988,30.0,6-0,190.0,Oklahoma St.,K,14,0.0,7.0,1.0,Vikings,2018
-3,55.0,Anthony Barr,3/18/1992,26.0,6-5,257.0,UCLA,RLB,13,13.0,4.0,9.0,Vikings,2018
-4,12.0,Chad Beebe,6/1/1994,24.0,5-10,183.0,Northern Illinois,WR,3,0.0,0.0,0.0,Vikings,2018
-5,44.0,Mike Boone,6/30/1995,23.0,5-10,206.0,Cincinnati,RB,8,0.0,0.0,0.0,Vikings,2018
-6,90.0,Tashawn Bower,2/18/1995,23.0,6-5,250.0,LSU,DE,5,0.0,1.0,0.0,Vikings,2018
-7,40.0,Kentrell Brothers,2/8/1993,25.0,6-1,242.0,Missouri,LB,12,0.0,2.0,1.0,Vikings,2018
-8,7.0,Daniel Carlson,1/23/1995,23.0,6-5,215.0,Auburn,K,2,0.0,0.0,-1.0,Vikings,2018
-9,13.0,Stacy Coley,5/13/1994,24.0,6-0,195.0,Miami (FL),WR,2,0.0,1.0,0.0,Vikings,2018
-10,79.0,Tom Compton,5/10/1989,29.0,6-6,315.0,South Dakota,LG,14,14.0,5.0,6.0,Vikings,2018
-11,83.0,Tyler Conklin,7/30/1995,23.0,6-3,254.0,Central Michigan,TE,16,3.0,0.0,1.0,Vikings,2018
-12,33.0,Dalvin Cook,8/10/1995,23.0,5-10,210.0,Florida St.,RB,11,10.0,1.0,6.0,Vikings,2018
-13,8.0,Kirk Cousins,8/19/1988,30.0,6-3,205.0,Michigan St.,QB,16,16.0,6.0,12.0,Vikings,2018
-14,14.0,Stefon Diggs,11/29/1993,25.0,6-0,191.0,Maryland,WR,15,14.0,3.0,8.0,Vikings,2018
-15,57.0,Devante Downs,10/18/1995,23.0,6-2,252.0,California,LB,11,0.0,0.0,1.0,Vikings,2018
-16,65.0,Pat Elflein,7/6/1994,24.0,6-2,303.0,Ohio St.,C,14,13.0,1.0,6.0,Vikings,2018
-17,42.0,Ben Gedeon,10/16/1994,24.0,6-2,244.0,Michigan,LLB,15,8.0,1.0,5.0,Vikings,2018
-18,97.0,Everson Griffen,12/22/1987,31.0,6-3,273.0,USC,RDE,11,10.0,8.0,6.0,Vikings,2018
-19,30.0,C.J. Ham,7/22/1993,25.0,5-11,250.0,Augustana (SD),RB,15,2.0,1.0,1.0,Vikings,2018
-20,41.0,Anthony Harris,10/9/1991,27.0,6-1,202.0,Virginia,SS,15,9.0,3.0,4.0,Vikings,2018
-21,24.0,Holton Hill,3/28/1997,21.0,6-2,196.0,Texas,DB,16,3.0,0.0,2.0,Vikings,2018
-22,69.0,Rashod Hill,1/12/1992,26.0,6-6,310.0,Southern Miss,RT,16,8.0,2.0,4.0,Vikings,2018
-23,92.0,Jalyn Holmes,1/25/1996,22.0,6-5,283.0,Ohio St.,DE,5,0.0,0.0,1.0,Vikings,2018
-24,21.0,Mike Hughes,2/11/1997,21.0,5-10,189.0,"North Carolina,Central Florida",DB,6,2.0,0.0,2.0,Vikings,2018
-25,99.0,Danielle Hunter,10/29/1994,24.0,6-5,263.0,LSU,LDE,16,16.0,3.0,17.0,Vikings,2018
-26,23.0,George Iloka,3/31/1990,28.0,6-4,225.0,Boise St.,DB,16,3.0,6.0,2.0,Vikings,2018
-27,63.0,Danny Isidora,6/5/1994,24.0,6-3,306.0,Miami (FL),G,14,2.0,1.0,2.0,Vikings,2018
-28,36.0,Craig James,4/29/1996,22.0,5-10,195.0,Southern Illinois,DB,3,0.0,0.0,0.0,Vikings,2018
-29,94.0,Jaleel Johnson,7/12/1994,24.0,6-3,316.0,Iowa,DT,16,1.0,1.0,2.0,Vikings,2018
-30,96.0,Tom Johnson,8/30/1984,34.0,6-3,285.0,"Mississippi Gulf Coast CC,Southern Miss",DT,13,0.0,7.0,3.0,Vikings,2018
-31,61.0,Brett Jones,7/29/1991,27.0,6-2,315.0,Regina,G,14,3.0,2.0,2.0,Vikings,2018
-32,98.0,Linval Joseph,10/10/1988,30.0,6-4,329.0,East Carolina,RDT,15,15.0,8.0,9.0,Vikings,2018
-33,27.0,Jayron Kearse,2/11/1994,24.0,6-4,215.0,Clemson,DB,16,1.0,2.0,1.0,Vikings,2018
-34,54.0,Eric Kendricks,2/29/1992,26.0,6-0,232.0,UCLA,MLB,14,14.0,3.0,8.0,Vikings,2018
-35,47.0,Kevin McDermott,1/12/1990,28.0,6-5,240.0,UCLA,LS,16,0.0,5.0,1.0,Vikings,2018
-36,89.0,David Morgan,5/19/1993,25.0,6-4,265.0,Texas-San Antonio,TE,11,6.0,2.0,0.0,Vikings,2018
-37,25.0,Latavius Murray,1/18/1990,28.0,6-3,230.0,Central Florida,RB,16,6.0,4.0,5.0,Vikings,2018
-38,72.0,Storm Norton,5/16/1994,24.0,6-7,317.0,Toledo,T,1,0.0,0.0,0.0,Vikings,2018
-39,75.0,Brian O'Neill,9/15/1995,23.0,6-7,310.0,Pittsburgh,RT,15,11.0,0.0,5.0,Vikings,2018
-40,95.0,David Parry,3/7/1992,26.0,6-2,315.0,Stanford,NT,3,0.0,3.0,0.0,Vikings,2018
-41,71.0,Riley Reiff,12/1/1988,30.0,6-6,310.0,Iowa,LT,13,13.0,6.0,6.0,Vikings,2018
-42,74.0,Mike Remmers,4/11/1989,29.0,6-5,301.0,Oregon St.,RG,16,16.0,5.0,7.0,Vikings,2018
-43,29.0,Xavier Rhodes,6/19/1990,28.0,6-1,218.0,Florida St.,RCB,14,14.0,5.0,5.0,Vikings,2018
-44,93.0,Sheldon Richardson,11/29/1990,28.0,6-3,290.0,Missouri,LDT,16,16.0,5.0,9.0,Vikings,2018
-45,17.0,Aldrick Robinson,9/24/1988,30.0,5-10,185.0,SMU,WR,14,0.0,6.0,2.0,Vikings,2018
-46,82.0,Kyle Rudolph,11/9/1989,29.0,6-6,265.0,Notre Dame,TE,16,16.0,7.0,5.0,Vikings,2018
-47,34.0,Andrew Sendejo,9/9/1987,31.0,6-1,210.0,Rice,SS,5,5.0,8.0,2.0,Vikings,2018
-48,35.0,Marcus Sherels,9/30/1987,31.0,5-10,175.0,Minnesota,DB,12,0.0,8.0,1.0,Vikings,2018
-49,22.0,Harrison Smith,2/2/1989,29.0,6-2,211.0,Notre Dame,FS,16,16.0,6.0,11.0,Vikings,2018
-50,19.0,Adam Thielen,8/22/1990,28.0,6-2,195.0,Minnesota St.,WR,16,16.0,4.0,11.0,Vikings,2018
-51,32.0,Roc Thomas,9/2/1995,23.0,5-10,198.0,Jacksonville St.,RB,5,0.0,0.0,0.0,Vikings,2018
-52,11.0,Laquon Treadwell,6/14/1995,23.0,6-2,215.0,Mississippi,WR,15,7.0,2.0,2.0,Vikings,2018
-53,26.0,Trae Waynes,7/25/1992,26.0,6-0,190.0,Michigan St.,LCB,14,14.0,3.0,5.0,Vikings,2018
-54,91.0,Stephen Weatherly,3/19/1994,24.0,6-5,262.0,Vanderbilt,RDE,16,6.0,2.0,5.0,Vikings,2018
-55,6.0,Matt Wile,6/20/1992,26.0,6-2,225.0,Michigan,P,16,0.0,2.0,2.0,Vikings,2018
-56,50.0,Eric Wilson,9/26/1994,24.0,6-1,230.0,Cincinnati,LB,16,4.0,1.0,3.0,Vikings,2018
-57,15.0,Brandon Zylstra,3/25/1993,25.0,6-2,215.0,Concordia-Moorhead (MN),WR,16,0.0,0.0,0.0,Vikings,2018
-58,,Team Total,,25.9,6-2.1,242.5,,,16,,2.9,,Vikings,2018
+No.,Player,BirthDate,Age,Height,Weight,College/University,Position,Games_Played_in_Season,Games_Started_in_Season,NFL_Years,Player_Value,Team,Year
+31.0,Ameer Abdullah,6/13/1993,25.0,5-9,203.0,Nebraska,RB,7,0.0,3.0,0.0,Vikings,2018
+20.0,Mackensie Alexander,11/12/1993,25.0,5-10,192.0,Clemson,DB,15,6.0,2.0,3.0,Vikings,2018
+5.0,Dan Bailey,1/26/1988,30.0,6-0,190.0,Oklahoma St.,K,14,0.0,7.0,1.0,Vikings,2018
+55.0,Anthony Barr,3/18/1992,26.0,6-5,257.0,UCLA,RLB,13,13.0,4.0,9.0,Vikings,2018
+12.0,Chad Beebe,6/1/1994,24.0,5-10,183.0,Northern Illinois,WR,3,0.0,0.0,0.0,Vikings,2018
+44.0,Mike Boone,6/30/1995,23.0,5-10,206.0,Cincinnati,RB,8,0.0,0.0,0.0,Vikings,2018
+90.0,Tashawn Bower,2/18/1995,23.0,6-5,250.0,LSU,DE,5,0.0,1.0,0.0,Vikings,2018
+40.0,Kentrell Brothers,2/8/1993,25.0,6-1,242.0,Missouri,LB,12,0.0,2.0,1.0,Vikings,2018
+7.0,Daniel Carlson,1/23/1995,23.0,6-5,215.0,Auburn,K,2,0.0,0.0,-1.0,Vikings,2018
+13.0,Stacy Coley,5/13/1994,24.0,6-0,195.0,Miami (FL),WR,2,0.0,1.0,0.0,Vikings,2018
+79.0,Tom Compton,5/10/1989,29.0,6-6,315.0,South Dakota,LG,14,14.0,5.0,6.0,Vikings,2018
+83.0,Tyler Conklin,7/30/1995,23.0,6-3,254.0,Central Michigan,TE,16,3.0,0.0,1.0,Vikings,2018
+33.0,Dalvin Cook,8/10/1995,23.0,5-10,210.0,Florida St.,RB,11,10.0,1.0,6.0,Vikings,2018
+8.0,Kirk Cousins,8/19/1988,30.0,6-3,205.0,Michigan St.,QB,16,16.0,6.0,12.0,Vikings,2018
+14.0,Stefon Diggs,11/29/1993,25.0,6-0,191.0,Maryland,WR,15,14.0,3.0,8.0,Vikings,2018
+57.0,Devante Downs,10/18/1995,23.0,6-2,252.0,California,LB,11,0.0,0.0,1.0,Vikings,2018
+65.0,Pat Elflein,7/6/1994,24.0,6-2,303.0,Ohio St.,C,14,13.0,1.0,6.0,Vikings,2018
+42.0,Ben Gedeon,10/16/1994,24.0,6-2,244.0,Michigan,LLB,15,8.0,1.0,5.0,Vikings,2018
+97.0,Everson Griffen,12/22/1987,31.0,6-3,273.0,USC,RDE,11,10.0,8.0,6.0,Vikings,2018
+30.0,C.J. Ham,7/22/1993,25.0,5-11,250.0,Augustana (SD),RB,15,2.0,1.0,1.0,Vikings,2018
+41.0,Anthony Harris,10/9/1991,27.0,6-1,202.0,Virginia,SS,15,9.0,3.0,4.0,Vikings,2018
+24.0,Holton Hill,3/28/1997,21.0,6-2,196.0,Texas,DB,16,3.0,0.0,2.0,Vikings,2018
+69.0,Rashod Hill,1/12/1992,26.0,6-6,310.0,Southern Miss,RT,16,8.0,2.0,4.0,Vikings,2018
+92.0,Jalyn Holmes,1/25/1996,22.0,6-5,283.0,Ohio St.,DE,5,0.0,0.0,1.0,Vikings,2018
+21.0,Mike Hughes,2/11/1997,21.0,5-10,189.0,"North Carolina,Central Florida",DB,6,2.0,0.0,2.0,Vikings,2018
+99.0,Danielle Hunter,10/29/1994,24.0,6-5,263.0,LSU,LDE,16,16.0,3.0,17.0,Vikings,2018
+23.0,George Iloka,3/31/1990,28.0,6-4,225.0,Boise St.,DB,16,3.0,6.0,2.0,Vikings,2018
+63.0,Danny Isidora,6/5/1994,24.0,6-3,306.0,Miami (FL),G,14,2.0,1.0,2.0,Vikings,2018
+36.0,Craig James,4/29/1996,22.0,5-10,195.0,Southern Illinois,DB,3,0.0,0.0,0.0,Vikings,2018
+94.0,Jaleel Johnson,7/12/1994,24.0,6-3,316.0,Iowa,DT,16,1.0,1.0,2.0,Vikings,2018
+96.0,Tom Johnson,8/30/1984,34.0,6-3,285.0,"Mississippi Gulf Coast CC,Southern Miss",DT,13,0.0,7.0,3.0,Vikings,2018
+61.0,Brett Jones,7/29/1991,27.0,6-2,315.0,Regina,G,14,3.0,2.0,2.0,Vikings,2018
+98.0,Linval Joseph,10/10/1988,30.0,6-4,329.0,East Carolina,RDT,15,15.0,8.0,9.0,Vikings,2018
+27.0,Jayron Kearse,2/11/1994,24.0,6-4,215.0,Clemson,DB,16,1.0,2.0,1.0,Vikings,2018
+54.0,Eric Kendricks,2/29/1992,26.0,6-0,232.0,UCLA,MLB,14,14.0,3.0,8.0,Vikings,2018
+47.0,Kevin McDermott,1/12/1990,28.0,6-5,240.0,UCLA,LS,16,0.0,5.0,1.0,Vikings,2018
+89.0,David Morgan,5/19/1993,25.0,6-4,265.0,Texas-San Antonio,TE,11,6.0,2.0,0.0,Vikings,2018
+25.0,Latavius Murray,1/18/1990,28.0,6-3,230.0,Central Florida,RB,16,6.0,4.0,5.0,Vikings,2018
+72.0,Storm Norton,5/16/1994,24.0,6-7,317.0,Toledo,T,1,0.0,0.0,0.0,Vikings,2018
+75.0,Brian O'Neill,9/15/1995,23.0,6-7,310.0,Pittsburgh,RT,15,11.0,0.0,5.0,Vikings,2018
+95.0,David Parry,3/7/1992,26.0,6-2,315.0,Stanford,NT,3,0.0,3.0,0.0,Vikings,2018
+71.0,Riley Reiff,12/1/1988,30.0,6-6,310.0,Iowa,LT,13,13.0,6.0,6.0,Vikings,2018
+74.0,Mike Remmers,4/11/1989,29.0,6-5,301.0,Oregon St.,RG,16,16.0,5.0,7.0,Vikings,2018
+29.0,Xavier Rhodes,6/19/1990,28.0,6-1,218.0,Florida St.,RCB,14,14.0,5.0,5.0,Vikings,2018
+93.0,Sheldon Richardson,11/29/1990,28.0,6-3,290.0,Missouri,LDT,16,16.0,5.0,9.0,Vikings,2018
+17.0,Aldrick Robinson,9/24/1988,30.0,5-10,185.0,SMU,WR,14,0.0,6.0,2.0,Vikings,2018
+82.0,Kyle Rudolph,11/9/1989,29.0,6-6,265.0,Notre Dame,TE,16,16.0,7.0,5.0,Vikings,2018
+34.0,Andrew Sendejo,9/9/1987,31.0,6-1,210.0,Rice,SS,5,5.0,8.0,2.0,Vikings,2018
+35.0,Marcus Sherels,9/30/1987,31.0,5-10,175.0,Minnesota,DB,12,0.0,8.0,1.0,Vikings,2018
+22.0,Harrison Smith,2/2/1989,29.0,6-2,211.0,Notre Dame,FS,16,16.0,6.0,11.0,Vikings,2018
+19.0,Adam Thielen,8/22/1990,28.0,6-2,195.0,Minnesota St.,WR,16,16.0,4.0,11.0,Vikings,2018
+32.0,Roc Thomas,9/2/1995,23.0,5-10,198.0,Jacksonville St.,RB,5,0.0,0.0,0.0,Vikings,2018
+11.0,Laquon Treadwell,6/14/1995,23.0,6-2,215.0,Mississippi,WR,15,7.0,2.0,2.0,Vikings,2018
+26.0,Trae Waynes,7/25/1992,26.0,6-0,190.0,Michigan St.,LCB,14,14.0,3.0,5.0,Vikings,2018
+91.0,Stephen Weatherly,3/19/1994,24.0,6-5,262.0,Vanderbilt,RDE,16,6.0,2.0,5.0,Vikings,2018
+6.0,Matt Wile,6/20/1992,26.0,6-2,225.0,Michigan,P,16,0.0,2.0,2.0,Vikings,2018
+50.0,Eric Wilson,9/26/1994,24.0,6-1,230.0,Cincinnati,LB,16,4.0,1.0,3.0,Vikings,2018
+15.0,Brandon Zylstra,3/25/1993,25.0,6-2,215.0,Concordia-Moorhead (MN),WR,16,0.0,0.0,0.0,Vikings,2018
+,Team Total,,25.9,6-2.1,242.5,,,16,,2.9,,Vikings,2018

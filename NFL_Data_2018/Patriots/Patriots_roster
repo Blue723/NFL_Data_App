@@ -1,65 +1,65 @@
-,No.,Player,BirthDate,Age,Height,Weight,College/University,Position,Games_Played_in_Season,Games_Started_in_Season,NFL_Years,Player_Value,Team,Year
-0,83.0,Dwayne Allen,2/24/1990,28.0,6-3,265.0,Clemson,TE,13,8.0,6.0,0.0,Patriots,2018
-1,6.0,Ryan Allen,2/28/1990,28.0,6-2,220.0,Louisiana Tech,P,16,0.0,5.0,2.0,Patriots,2018
-2,60.0,David Andrews,7/10/1992,26.0,6-3,300.0,Georgia,C,16,16.0,3.0,9.0,Patriots,2018
-3,38.0,Kenjon Barner,4/28/1989,29.0,5-9,195.0,Oregon,RB,5,0.0,5.0,0.0,Patriots,2018
-4,51.0,Ja'Whaun Bentley,8/24/1996,22.0,6-2,250.0,Purdue,LB,3,2.0,0.0,1.0,Patriots,2018
-5,12.0,Tom Brady,8/3/1977,41.0,6-4,225.0,Michigan,QB,16,16.0,18.0,14.0,Patriots,2018
-6,90.0,Malcom Brown,2/2/1994,24.0,6-2,320.0,Texas,RDT,15,14.0,3.0,7.0,Patriots,2018
-7,77.0,Trent Brown,4/13/1993,25.0,6-8,370.0,"Georgia Military,Florida",LT,16,16.0,3.0,9.0,Patriots,2018
-8,34.0,Rex Burkhead,7/2/1990,28.0,5-10,215.0,Nebraska,RB,8,4.0,5.0,2.0,Patriots,2018
-9,70.0,Adam Butler,4/12/1994,24.0,6-5,300.0,Vanderbilt,DT,16,0.0,1.0,2.0,Patriots,2018
-10,61.0,Marcus Cannon,5/6/1988,30.0,6-6,335.0,TCU,RT,13,13.0,7.0,7.0,Patriots,2018
-11,49.0,Joe Cardona,4/16/1992,26.0,6-3,245.0,Navy,LS,16,0.0,3.0,1.0,Patriots,2018
-12,23.0,Patrick Chung,8/19/1987,31.0,5-11,215.0,Oregon,SS,15,14.0,9.0,5.0,Patriots,2018
-13,94.0,Adrian Clayborn,7/6/1988,30.0,6-3,280.0,Iowa,DE,14,1.0,7.0,2.0,Patriots,2018
-14,35.0,Keion Crossen,4/17/1996,22.0,5-10,190.0,Western Carolina,DB,11,0.0,0.0,1.0,Patriots,2018
-15,74.0,Cole Croston,12/25/1993,25.0,6-5,310.0,Iowa,T,2,0.0,1.0,0.0,Patriots,2018
-16,58.0,Keionta Davis,3/1/1994,24.0,6-4,280.0,Chattanooga,DE,6,3.0,0.0,2.0,Patriots,2018
-17,46.0,James Develin,7/23/1988,30.0,6-3,255.0,Brown,FB,16,8.0,6.0,1.0,Patriots,2018
-18,13.0,Phillip Dorsett,1/5/1993,25.0,5-10,192.0,Miami (FL),WR,16,2.0,3.0,3.0,Patriots,2018
-19,43.0,Nate Ebner,12/14/1988,30.0,6-0,215.0,Ohio St.,DB,15,0.0,6.0,1.0,Patriots,2018
-20,11.0,Julian Edelman,5/22/1986,32.0,5-10,198.0,"San Mateo,Kent St.",WR,12,12.0,9.0,9.0,Patriots,2018
-21,66.0,James Ferentz,6/5/1989,29.0,6-2,290.0,Iowa,C,2,0.0,3.0,0.0,Patriots,2018
-22,98.0,Trey Flowers,8/16/1993,25.0,6-2,265.0,Arkansas,LDE,15,15.0,3.0,9.0,Patriots,2018
-23,24.0,Stephon Gilmore,9/19/1990,28.0,6-0,190.0,South Carolina,RCB,16,16.0,6.0,15.0,Patriots,2018
-24,10.0,Josh Gordon,4/13/1991,27.0,6-3,225.0,"Utah,Baylor",WR,11,11.0,6.0,7.0,Patriots,2018
-25,3.0,Stephen Gostkowski,1/28/1984,34.0,6-1,215.0,Memphis,K,16,0.0,12.0,3.0,Patriots,2018
-26,50.0,Nicholas Grigsby,7/2/1992,26.0,6-2,230.0,Pittsburgh,LB,9,0.0,2.0,1.0,Patriots,2018
-27,96.0,Geneo Grissom,6/4/1992,26.0,6-4,265.0,Oklahoma,LB,4,0.0,3.0,0.0,Patriots,2018
-28,87.0,Rob Gronkowski,5/14/1989,29.0,6-6,265.0,Arizona,TE,13,11.0,8.0,6.0,Patriots,2018
-29,93.0,Lawrence Guy,3/17/1990,28.0,6-4,315.0,Arizona St.,LDT,16,15.0,6.0,8.0,Patriots,2018
-30,21.0,Duron Harmon,1/24/1991,27.0,6-0,205.0,Rutgers,DB,16,6.0,5.0,4.0,Patriots,2018
-31,54.0,Dont'a Hightower,3/12/1990,28.0,6-3,260.0,Alabama,LLB,15,15.0,6.0,8.0,Patriots,2018
-32,33.0,Jeremy Hill,10/20/1992,26.0,6-1,230.0,LSU,RB,1,0.0,4.0,0.0,Patriots,2018
-33,15.0,Chris Hogan,10/24/1987,31.0,6-1,210.0,Monmouth,WR,16,7.0,5.0,5.0,Patriots,2018
-34,47.0,Jacob Hollister,11/18/1993,25.0,6-4,239.0,Wyoming,TE,8,1.0,1.0,0.0,Patriots,2018
-35,2.0,Brian Hoyer,10/13/1985,33.0,6-2,215.0,Michigan St.,QB,5,0.0,9.0,0.0,Patriots,2018
-36,50.0,Ramon Humber,8/10/1987,31.0,5-11,232.0,North Dakota St.,LB,6,0.0,9.0,0.0,Patriots,2018
-37,27.0,J.C. Jackson,11/17/1995,23.0,6-1,198.0,"Florida,Riverside CC,Maryland",DB,13,5.0,0.0,3.0,Patriots,2018
-38,41.0,Cyrus Jones,11/29/1993,25.0,5-10,195.0,Alabama,DB,2,0.0,2.0,0.0,Patriots,2018
-39,31.0,Jonathan Jones,9/20/1993,25.0,5-10,185.0,Auburn,DB,16,5.0,2.0,3.0,Patriots,2018
-40,97.0,Ufomba Kamalu,11/2/1992,26.0,6-6,295.0,Miami (FL),DE,2,0.0,2.0,0.0,Patriots,2018
-41,75.0,Ted Karras,3/15/1993,25.0,6-4,310.0,Illinois,G,13,2.0,2.0,2.0,Patriots,2018
-42,36.0,Brandon King,6/8/1993,25.0,6-2,220.0,Auburn,DB,15,0.0,3.0,2.0,Patriots,2018
-43,69.0,Shaq Mason,8/28/1993,25.0,6-1,310.0,Georgia Tech,RG,14,14.0,3.0,7.0,Patriots,2018
-44,17.0,Riley McCarron,6/16/1993,25.0,5-9,198.0,Iowa,WR,1,0.0,0.0,0.0,Patriots,2018
-45,59.0,Albert McClellan,6/4/1986,32.0,6-2,235.0,Marshall,LB,7,0.0,7.0,1.0,Patriots,2018
-46,32.0,Devin McCourty,8/13/1987,31.0,5-10,195.0,Rutgers,FS,16,16.0,8.0,6.0,Patriots,2018
-47,30.0,Jason McCourty,8/13/1987,31.0,5-11,195.0,Rutgers,LCB,16,12.0,9.0,4.0,Patriots,2018
-48,22.0,Obi Melifonwu,4/5/1994,24.0,6-4,224.0,Connecticut,DB,2,0.0,1.0,0.0,Patriots,2018
-49,26.0,Sony Michel,2/17/1995,23.0,5-11,215.0,Georgia,RB,13,8.0,0.0,7.0,Patriots,2018
-50,84.0,Cordarrelle Patterson,3/17/1991,27.0,6-2,220.0,Tennessee,WR,15,5.0,5.0,5.0,Patriots,2018
-51,95.0,Derek Rivers,5/9/1994,24.0,6-5,250.0,Youngstown St.,DE,6,0.0,0.0,1.0,Patriots,2018
-52,52.0,Elandon Roberts,4/22/1994,24.0,6-1,238.0,Houston,RLB,16,11.0,2.0,6.0,Patriots,2018
-53,25.0,Eric Rowe,10/3/1992,26.0,6-1,205.0,Utah,DB,4,2.0,3.0,1.0,Patriots,2018
-54,63.0,Brian Schwenke,3/22/1991,27.0,6-3,310.0,California,C,3,0.0,5.0,0.0,Patriots,2018
-55,71.0,Danny Shelton,8/20/1993,25.0,6-2,345.0,Washington,DE,13,1.0,3.0,2.0,Patriots,2018
-56,55.0,John Simon,10/14/1990,28.0,6-2,260.0,Ohio St.,DE,11,2.0,5.0,2.0,Patriots,2018
-57,18.0,Matthew Slater,9/9/1985,33.0,6-0,205.0,UCLA,WR,16,0.0,10.0,0.0,Patriots,2018
-58,62.0,Joe Thuney,11/18/1992,26.0,6-5,304.0,North Carolina St.,LG,16,16.0,2.0,9.0,Patriots,2018
-59,53.0,Kyle Van Noy,3/26/1991,27.0,6-3,250.0,BYU,MLB,16,16.0,4.0,10.0,Patriots,2018
-60,68.0,LaAdrian Waddle,7/21/1991,27.0,6-6,315.0,Texas Tech,T,16,3.0,5.0,3.0,Patriots,2018
-61,28.0,James White,2/3/1992,26.0,5-10,205.0,Wisconsin,RB,16,3.0,4.0,10.0,Patriots,2018
-62,91.0,Deatrich Wise Jr.,7/26/1994,24.0,6-5,280.0,Arkansas,RDE,16,5.0,1.0,4.0,Patriots,2018
-63,,Team Total,,27.3,6-1.9,247.4,,,16,,4.4,,Patriots,2018
+No.,Player,BirthDate,Age,Height,Weight,College/University,Position,Games_Played_in_Season,Games_Started_in_Season,NFL_Years,Player_Value,Team,Year
+83.0,Dwayne Allen,2/24/1990,28.0,6-3,265.0,Clemson,TE,13,8.0,6.0,0.0,Patriots,2018
+6.0,Ryan Allen,2/28/1990,28.0,6-2,220.0,Louisiana Tech,P,16,0.0,5.0,2.0,Patriots,2018
+60.0,David Andrews,7/10/1992,26.0,6-3,300.0,Georgia,C,16,16.0,3.0,9.0,Patriots,2018
+38.0,Kenjon Barner,4/28/1989,29.0,5-9,195.0,Oregon,RB,5,0.0,5.0,0.0,Patriots,2018
+51.0,Ja'Whaun Bentley,8/24/1996,22.0,6-2,250.0,Purdue,LB,3,2.0,0.0,1.0,Patriots,2018
+12.0,Tom Brady,8/3/1977,41.0,6-4,225.0,Michigan,QB,16,16.0,18.0,14.0,Patriots,2018
+90.0,Malcom Brown,2/2/1994,24.0,6-2,320.0,Texas,RDT,15,14.0,3.0,7.0,Patriots,2018
+77.0,Trent Brown,4/13/1993,25.0,6-8,370.0,"Georgia Military,Florida",LT,16,16.0,3.0,9.0,Patriots,2018
+34.0,Rex Burkhead,7/2/1990,28.0,5-10,215.0,Nebraska,RB,8,4.0,5.0,2.0,Patriots,2018
+70.0,Adam Butler,4/12/1994,24.0,6-5,300.0,Vanderbilt,DT,16,0.0,1.0,2.0,Patriots,2018
+61.0,Marcus Cannon,5/6/1988,30.0,6-6,335.0,TCU,RT,13,13.0,7.0,7.0,Patriots,2018
+49.0,Joe Cardona,4/16/1992,26.0,6-3,245.0,Navy,LS,16,0.0,3.0,1.0,Patriots,2018
+23.0,Patrick Chung,8/19/1987,31.0,5-11,215.0,Oregon,SS,15,14.0,9.0,5.0,Patriots,2018
+94.0,Adrian Clayborn,7/6/1988,30.0,6-3,280.0,Iowa,DE,14,1.0,7.0,2.0,Patriots,2018
+35.0,Keion Crossen,4/17/1996,22.0,5-10,190.0,Western Carolina,DB,11,0.0,0.0,1.0,Patriots,2018
+74.0,Cole Croston,12/25/1993,25.0,6-5,310.0,Iowa,T,2,0.0,1.0,0.0,Patriots,2018
+58.0,Keionta Davis,3/1/1994,24.0,6-4,280.0,Chattanooga,DE,6,3.0,0.0,2.0,Patriots,2018
+46.0,James Develin,7/23/1988,30.0,6-3,255.0,Brown,FB,16,8.0,6.0,1.0,Patriots,2018
+13.0,Phillip Dorsett,1/5/1993,25.0,5-10,192.0,Miami (FL),WR,16,2.0,3.0,3.0,Patriots,2018
+43.0,Nate Ebner,12/14/1988,30.0,6-0,215.0,Ohio St.,DB,15,0.0,6.0,1.0,Patriots,2018
+11.0,Julian Edelman,5/22/1986,32.0,5-10,198.0,"San Mateo,Kent St.",WR,12,12.0,9.0,9.0,Patriots,2018
+66.0,James Ferentz,6/5/1989,29.0,6-2,290.0,Iowa,C,2,0.0,3.0,0.0,Patriots,2018
+98.0,Trey Flowers,8/16/1993,25.0,6-2,265.0,Arkansas,LDE,15,15.0,3.0,9.0,Patriots,2018
+24.0,Stephon Gilmore,9/19/1990,28.0,6-0,190.0,South Carolina,RCB,16,16.0,6.0,15.0,Patriots,2018
+10.0,Josh Gordon,4/13/1991,27.0,6-3,225.0,"Utah,Baylor",WR,11,11.0,6.0,7.0,Patriots,2018
+3.0,Stephen Gostkowski,1/28/1984,34.0,6-1,215.0,Memphis,K,16,0.0,12.0,3.0,Patriots,2018
+50.0,Nicholas Grigsby,7/2/1992,26.0,6-2,230.0,Pittsburgh,LB,9,0.0,2.0,1.0,Patriots,2018
+96.0,Geneo Grissom,6/4/1992,26.0,6-4,265.0,Oklahoma,LB,4,0.0,3.0,0.0,Patriots,2018
+87.0,Rob Gronkowski,5/14/1989,29.0,6-6,265.0,Arizona,TE,13,11.0,8.0,6.0,Patriots,2018
+93.0,Lawrence Guy,3/17/1990,28.0,6-4,315.0,Arizona St.,LDT,16,15.0,6.0,8.0,Patriots,2018
+21.0,Duron Harmon,1/24/1991,27.0,6-0,205.0,Rutgers,DB,16,6.0,5.0,4.0,Patriots,2018
+54.0,Dont'a Hightower,3/12/1990,28.0,6-3,260.0,Alabama,LLB,15,15.0,6.0,8.0,Patriots,2018
+33.0,Jeremy Hill,10/20/1992,26.0,6-1,230.0,LSU,RB,1,0.0,4.0,0.0,Patriots,2018
+15.0,Chris Hogan,10/24/1987,31.0,6-1,210.0,Monmouth,WR,16,7.0,5.0,5.0,Patriots,2018
+47.0,Jacob Hollister,11/18/1993,25.0,6-4,239.0,Wyoming,TE,8,1.0,1.0,0.0,Patriots,2018
+2.0,Brian Hoyer,10/13/1985,33.0,6-2,215.0,Michigan St.,QB,5,0.0,9.0,0.0,Patriots,2018
+50.0,Ramon Humber,8/10/1987,31.0,5-11,232.0,North Dakota St.,LB,6,0.0,9.0,0.0,Patriots,2018
+27.0,J.C. Jackson,11/17/1995,23.0,6-1,198.0,"Florida,Riverside CC,Maryland",DB,13,5.0,0.0,3.0,Patriots,2018
+41.0,Cyrus Jones,11/29/1993,25.0,5-10,195.0,Alabama,DB,2,0.0,2.0,0.0,Patriots,2018
+31.0,Jonathan Jones,9/20/1993,25.0,5-10,185.0,Auburn,DB,16,5.0,2.0,3.0,Patriots,2018
+97.0,Ufomba Kamalu,11/2/1992,26.0,6-6,295.0,Miami (FL),DE,2,0.0,2.0,0.0,Patriots,2018
+75.0,Ted Karras,3/15/1993,25.0,6-4,310.0,Illinois,G,13,2.0,2.0,2.0,Patriots,2018
+36.0,Brandon King,6/8/1993,25.0,6-2,220.0,Auburn,DB,15,0.0,3.0,2.0,Patriots,2018
+69.0,Shaq Mason,8/28/1993,25.0,6-1,310.0,Georgia Tech,RG,14,14.0,3.0,7.0,Patriots,2018
+17.0,Riley McCarron,6/16/1993,25.0,5-9,198.0,Iowa,WR,1,0.0,0.0,0.0,Patriots,2018
+59.0,Albert McClellan,6/4/1986,32.0,6-2,235.0,Marshall,LB,7,0.0,7.0,1.0,Patriots,2018
+32.0,Devin McCourty,8/13/1987,31.0,5-10,195.0,Rutgers,FS,16,16.0,8.0,6.0,Patriots,2018
+30.0,Jason McCourty,8/13/1987,31.0,5-11,195.0,Rutgers,LCB,16,12.0,9.0,4.0,Patriots,2018
+22.0,Obi Melifonwu,4/5/1994,24.0,6-4,224.0,Connecticut,DB,2,0.0,1.0,0.0,Patriots,2018
+26.0,Sony Michel,2/17/1995,23.0,5-11,215.0,Georgia,RB,13,8.0,0.0,7.0,Patriots,2018
+84.0,Cordarrelle Patterson,3/17/1991,27.0,6-2,220.0,Tennessee,WR,15,5.0,5.0,5.0,Patriots,2018
+95.0,Derek Rivers,5/9/1994,24.0,6-5,250.0,Youngstown St.,DE,6,0.0,0.0,1.0,Patriots,2018
+52.0,Elandon Roberts,4/22/1994,24.0,6-1,238.0,Houston,RLB,16,11.0,2.0,6.0,Patriots,2018
+25.0,Eric Rowe,10/3/1992,26.0,6-1,205.0,Utah,DB,4,2.0,3.0,1.0,Patriots,2018
+63.0,Brian Schwenke,3/22/1991,27.0,6-3,310.0,California,C,3,0.0,5.0,0.0,Patriots,2018
+71.0,Danny Shelton,8/20/1993,25.0,6-2,345.0,Washington,DE,13,1.0,3.0,2.0,Patriots,2018
+55.0,John Simon,10/14/1990,28.0,6-2,260.0,Ohio St.,DE,11,2.0,5.0,2.0,Patriots,2018
+18.0,Matthew Slater,9/9/1985,33.0,6-0,205.0,UCLA,WR,16,0.0,10.0,0.0,Patriots,2018
+62.0,Joe Thuney,11/18/1992,26.0,6-5,304.0,North Carolina St.,LG,16,16.0,2.0,9.0,Patriots,2018
+53.0,Kyle Van Noy,3/26/1991,27.0,6-3,250.0,BYU,MLB,16,16.0,4.0,10.0,Patriots,2018
+68.0,LaAdrian Waddle,7/21/1991,27.0,6-6,315.0,Texas Tech,T,16,3.0,5.0,3.0,Patriots,2018
+28.0,James White,2/3/1992,26.0,5-10,205.0,Wisconsin,RB,16,3.0,4.0,10.0,Patriots,2018
+91.0,Deatrich Wise Jr.,7/26/1994,24.0,6-5,280.0,Arkansas,RDE,16,5.0,1.0,4.0,Patriots,2018
+,Team Total,,27.3,6-1.9,247.4,,,16,,4.4,,Patriots,2018

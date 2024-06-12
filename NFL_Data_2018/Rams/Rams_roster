@@ -1,63 +1,63 @@
-,No.,Player,BirthDate,Age,Height,Weight,College/University,Position,Games_Played_in_Season,Games_Started_in_Season,NFL_Years,Player_Value,Team,Year
-0,55.0,Brian Allen,10/11/1995,23,6-2,303.0,Michigan St.,C,13,0.0,0.0,1.0,Rams,2018
-1,35.0,C.J. Anderson,2/10/1991,27,5-8,225.0,"Laney,California",RB,2,2.0,5.0,2.0,Rams,2018
-2,26.0,Mark Barron,10/27/1989,29,6-2,230.0,Alabama,RILB,12,12.0,6.0,5.0,Rams,2018
-3,66.0,Austin Blythe,6/16/1992,26,6-2,280.0,Iowa,RG,16,16.0,2.0,11.0,Rams,2018
-4,90.0,Michael Brockers,12/21/1990,28,6-5,297.0,LSU,LDE,16,16.0,6.0,7.0,Rams,2018
-5,68.0,Jamon Brown,3/15/1993,25,6-4,340.0,Louisville,G,6,0.0,3.0,1.0,Rams,2018
-6,34.0,Malcolm Brown,5/15/1993,25,5-11,225.0,Texas,RB,12,0.0,3.0,2.0,Rams,2018
-7,41.0,Marqui Christian,10/27/1994,24,5-11,195.0,Midwestern St.,DB,16,0.0,2.0,1.0,Rams,2018
-8,12.0,Brandin Cooks,9/25/1993,25,5-10,189.0,Oregon St.,WR,16,16.0,4.0,13.0,Rams,2018
-9,10.0,Pharoh Cooper,3/7/1995,23,5-11,208.0,South Carolina,WR,5,0.0,2.0,0.0,Rams,2018
-10,24.0,Blake Countess,8/8/1993,25,5-10,185.0,"Auburn,Michigan",DB,16,1.0,2.0,1.0,Rams,2018
-11,33.0,Justin Davis,11/11/1995,23,6-1,199.0,USC,RB,11,0.0,1.0,0.0,Rams,2018
-12,99.0,Aaron Donald,5/23/1991,27,6-1,280.0,Pittsburgh,RDT,16,16.0,4.0,16.0,Rams,2018
-13,91.0,Dominique Easley,4/28/1992,26,6-2,263.0,Florida,DT,3,3.0,4.0,1.0,Rams,2018
-14,50.0,Samson Ebukam,5/9/1995,23,6-3,245.0,Eastern Washington,LOLB,16,14.0,1.0,7.0,Rams,2018
-15,81.0,Gerald Everett,6/25/1994,24,6-3,250.0,South Alabama,TE,16,0.0,1.0,3.0,Rams,2018
-16,5.0,Sam Ficken,12/14/1992,26,6-1,192.0,Penn St.,K,2,0.0,1.0,-1.0,Rams,2018
-17,56.0,Dante Fowler,8/3/1994,24,6-3,261.0,Florida,ROLB,8,6.0,2.0,3.0,Rams,2018
-18,94.0,John Franklin-Myers,9/26/1996,22,6-4,288.0,S.F. Austin,DT,16,0.0,0.0,2.0,Rams,2018
-19,16.0,Jared Goff,10/14/1994,24,6-4,217.0,California,QB,16,16.0,2.0,18.0,Rams,2018
-20,30.0,Todd Gurley,8/3/1994,24,6-1,224.0,Georgia,RB,14,14.0,3.0,16.0,Rams,2018
-21,54.0,Bryce Hager,5/4/1992,26,6-1,237.0,Baylor,LB,16,0.0,3.0,1.0,Rams,2018
-22,36.0,Dominique Hatfield,12/13/1994,24,5-10,178.0,Utah,DB,10,0.0,1.0,0.0,Rams,2018
-23,79.0,Rob Havenstein,5/13/1992,26,6-8,330.0,Wisconsin,RT,16,16.0,3.0,11.0,Rams,2018
-24,6.0,Johnny Hekker,2/8/1990,28,6-5,225.0,Oregon St.,P,16,0.0,6.0,3.0,Rams,2018
-25,89.0,Tyler Higbee,1/1/1993,25,6-6,255.0,Western Kentucky,TE,16,16.0,2.0,3.0,Rams,2018
-26,32.0,Troy Hill,8/29/1991,27,5-11,180.0,Oregon,RCB,16,7.0,3.0,3.0,Rams,2018
-27,11.0,KhaDarel Hodge,1/3/1995,23,5-11,183.0,"Alcorn St.,Hinds CC,Prairie View A&M",WR,14,0.0,0.0,0.0,Rams,2018
-28,27.0,Isaiah Johnson,5/16/1992,26,6-1,210.0,Georgia Tech,DB,2,0.0,3.0,0.0,Rams,2018
-29,43.0,John Johnson,12/19/1995,23,6-0,209.0,Boston Col.,SS,16,16.0,1.0,5.0,Rams,2018
-30,20.0,Lamarcus Joyner,11/27/1990,28,5-8,185.0,Florida St.,FS,15,15.0,4.0,5.0,Rams,2018
-31,42.0,John Kelly,10/4/1996,22,5-10,205.0,Tennessee,RB,4,0.0,0.0,1.0,Rams,2018
-32,59.0,Micah Kiser,1/25/1995,23,6-0,244.0,Virginia,LB,16,0.0,0.0,1.0,Rams,2018
-33,18.0,Cooper Kupp,6/15/1993,25,6-2,208.0,Eastern Washington,WR,8,8.0,1.0,6.0,Rams,2018
-34,53.0,Justin Lawler,12/23/1994,24,6-4,265.0,SMU,DE,16,0.0,0.0,1.0,Rams,2018
-35,58.0,Cory Littleton,11/18/1993,25,6-3,225.0,Washington,LILB,16,16.0,2.0,13.0,Rams,2018
-36,96.0,Matt Longacre,9/21/1991,27,6-3,265.0,NW Missouri St.,ROLB,13,7.0,3.0,3.0,Rams,2018
-37,14.0,Sean Mannion,4/25/1992,26,6-6,230.0,Oregon St.,QB,3,0.0,3.0,0.0,Rams,2018
-38,44.0,Jake McQuaide,12/7/1987,31,6-2,247.0,Ohio St.,LS,16,0.0,7.0,1.0,Rams,2018
-39,82.0,Johnny Mundt,11/23/1994,24,6-4,233.0,Oregon,TE,10,0.0,1.0,0.0,Rams,2018
-40,19.0,Jojo Natson,2/1/1994,24,5-7,153.0,"Utah St.,Akron",WR,13,0.0,1.0,0.0,Rams,2018
-41,70.0,Joseph Noteboom,6/19/1995,23,6-5,321.0,TCU,T,16,0.0,0.0,2.0,Rams,2018
-42,22.0,Marcus Peters,1/9/1993,25,6-0,197.0,Washington,LCB,16,16.0,3.0,5.0,Rams,2018
-43,83.0,Josh Reynolds,2/16/1995,23,6-3,194.0,Texas A&M,WR,16,8.0,1.0,4.0,Rams,2018
-44,23.0,Nickell Robey-Coleman,1/17/1992,26,5-8,180.0,USC,DB,16,1.0,5.0,1.0,Rams,2018
-45,76.0,Rodger Saffold,6/6/1988,30,6-5,325.0,Indiana,LG,16,16.0,8.0,11.0,Rams,2018
-46,3.0,Cairo Santos,11/12/1991,27,5-8,175.0,Tulane,K,2,0.0,4.0,0.0,Rams,2018
-47,37.0,Sam Shields,12/8/1987,31,5-11,178.0,Miami (FL),DB,16,2.0,8.0,2.0,Rams,2018
-48,92.0,Tanzel Smart,11/6/1994,24,6-1,295.0,Tulane,DT,2,0.0,1.0,0.0,Rams,2018
-49,93.0,Ndamukong Suh,1/6/1987,31,6-4,313.0,Nebraska,LDT,16,16.0,8.0,8.0,Rams,2018
-50,65.0,John Sullivan,8/8/1985,33,6-4,312.0,Notre Dame,C,16,16.0,10.0,11.0,Rams,2018
-51,21.0,Aqib Talib,2/13/1986,32,6-1,209.0,Kansas,RCB,8,8.0,10.0,3.0,Rams,2018
-52,88.0,Mike Thomas,8/16/1994,24,6-1,189.0,Southern Miss,WR,1,0.0,2.0,0.0,Rams,2018
-53,95.0,Ethan Westbrooks,11/15/1990,28,6-4,287.0,West Texas A&M,DE,16,0.0,4.0,1.0,Rams,2018
-54,77.0,Andrew Whitworth,12/12/1981,37,6-7,330.0,LSU,LT,16,16.0,12.0,11.0,Rams,2018
-55,31.0,Darious Williams,3/15/1993,25,5-9,187.0,Ala-Birmingham,DB,1,0.0,0.0,0.0,Rams,2018
-56,15.0,Nick Williams,11/23/1990,28,5-10,184.0,Connecticut,WR,2,0.0,5.0,0.0,Rams,2018
-57,52.0,Ramik Wilson,8/19/1992,26,6-2,238.0,Georgia,LB,16,4.0,3.0,3.0,Rams,2018
-58,17.0,Robert Woods,4/10/1992,26,6-0,195.0,USC,WR,16,16.0,5.0,14.0,Rams,2018
-59,49.0,Trevon Young,4/1/1995,23,6-4,259.0,Louisville,DT,2,0.0,0.0,0.0,Rams,2018
-60,4.0,Greg Zuerlein,12/27/1987,31,6-0,187.0,Missouri Western St.,K,11,0.0,6.0,3.0,Rams,2018
-61,,Team Total,,26,6-1.4,234.7,,,16,,3.2,,Rams,2018
+No.,Player,BirthDate,Age,Height,Weight,College/University,Position,Games_Played_in_Season,Games_Started_in_Season,NFL_Years,Player_Value,Team,Year
+55.0,Brian Allen,10/11/1995,23,6-2,303.0,Michigan St.,C,13,0.0,0.0,1.0,Rams,2018
+35.0,C.J. Anderson,2/10/1991,27,5-8,225.0,"Laney,California",RB,2,2.0,5.0,2.0,Rams,2018
+26.0,Mark Barron,10/27/1989,29,6-2,230.0,Alabama,RILB,12,12.0,6.0,5.0,Rams,2018
+66.0,Austin Blythe,6/16/1992,26,6-2,280.0,Iowa,RG,16,16.0,2.0,11.0,Rams,2018
+90.0,Michael Brockers,12/21/1990,28,6-5,297.0,LSU,LDE,16,16.0,6.0,7.0,Rams,2018
+68.0,Jamon Brown,3/15/1993,25,6-4,340.0,Louisville,G,6,0.0,3.0,1.0,Rams,2018
+34.0,Malcolm Brown,5/15/1993,25,5-11,225.0,Texas,RB,12,0.0,3.0,2.0,Rams,2018
+41.0,Marqui Christian,10/27/1994,24,5-11,195.0,Midwestern St.,DB,16,0.0,2.0,1.0,Rams,2018
+12.0,Brandin Cooks,9/25/1993,25,5-10,189.0,Oregon St.,WR,16,16.0,4.0,13.0,Rams,2018
+10.0,Pharoh Cooper,3/7/1995,23,5-11,208.0,South Carolina,WR,5,0.0,2.0,0.0,Rams,2018
+24.0,Blake Countess,8/8/1993,25,5-10,185.0,"Auburn,Michigan",DB,16,1.0,2.0,1.0,Rams,2018
+33.0,Justin Davis,11/11/1995,23,6-1,199.0,USC,RB,11,0.0,1.0,0.0,Rams,2018
+99.0,Aaron Donald,5/23/1991,27,6-1,280.0,Pittsburgh,RDT,16,16.0,4.0,16.0,Rams,2018
+91.0,Dominique Easley,4/28/1992,26,6-2,263.0,Florida,DT,3,3.0,4.0,1.0,Rams,2018
+50.0,Samson Ebukam,5/9/1995,23,6-3,245.0,Eastern Washington,LOLB,16,14.0,1.0,7.0,Rams,2018
+81.0,Gerald Everett,6/25/1994,24,6-3,250.0,South Alabama,TE,16,0.0,1.0,3.0,Rams,2018
+5.0,Sam Ficken,12/14/1992,26,6-1,192.0,Penn St.,K,2,0.0,1.0,-1.0,Rams,2018
+56.0,Dante Fowler,8/3/1994,24,6-3,261.0,Florida,ROLB,8,6.0,2.0,3.0,Rams,2018
+94.0,John Franklin-Myers,9/26/1996,22,6-4,288.0,S.F. Austin,DT,16,0.0,0.0,2.0,Rams,2018
+16.0,Jared Goff,10/14/1994,24,6-4,217.0,California,QB,16,16.0,2.0,18.0,Rams,2018
+30.0,Todd Gurley,8/3/1994,24,6-1,224.0,Georgia,RB,14,14.0,3.0,16.0,Rams,2018
+54.0,Bryce Hager,5/4/1992,26,6-1,237.0,Baylor,LB,16,0.0,3.0,1.0,Rams,2018
+36.0,Dominique Hatfield,12/13/1994,24,5-10,178.0,Utah,DB,10,0.0,1.0,0.0,Rams,2018
+79.0,Rob Havenstein,5/13/1992,26,6-8,330.0,Wisconsin,RT,16,16.0,3.0,11.0,Rams,2018
+6.0,Johnny Hekker,2/8/1990,28,6-5,225.0,Oregon St.,P,16,0.0,6.0,3.0,Rams,2018
+89.0,Tyler Higbee,1/1/1993,25,6-6,255.0,Western Kentucky,TE,16,16.0,2.0,3.0,Rams,2018
+32.0,Troy Hill,8/29/1991,27,5-11,180.0,Oregon,RCB,16,7.0,3.0,3.0,Rams,2018
+11.0,KhaDarel Hodge,1/3/1995,23,5-11,183.0,"Alcorn St.,Hinds CC,Prairie View A&M",WR,14,0.0,0.0,0.0,Rams,2018
+27.0,Isaiah Johnson,5/16/1992,26,6-1,210.0,Georgia Tech,DB,2,0.0,3.0,0.0,Rams,2018
+43.0,John Johnson,12/19/1995,23,6-0,209.0,Boston Col.,SS,16,16.0,1.0,5.0,Rams,2018
+20.0,Lamarcus Joyner,11/27/1990,28,5-8,185.0,Florida St.,FS,15,15.0,4.0,5.0,Rams,2018
+42.0,John Kelly,10/4/1996,22,5-10,205.0,Tennessee,RB,4,0.0,0.0,1.0,Rams,2018
+59.0,Micah Kiser,1/25/1995,23,6-0,244.0,Virginia,LB,16,0.0,0.0,1.0,Rams,2018
+18.0,Cooper Kupp,6/15/1993,25,6-2,208.0,Eastern Washington,WR,8,8.0,1.0,6.0,Rams,2018
+53.0,Justin Lawler,12/23/1994,24,6-4,265.0,SMU,DE,16,0.0,0.0,1.0,Rams,2018
+58.0,Cory Littleton,11/18/1993,25,6-3,225.0,Washington,LILB,16,16.0,2.0,13.0,Rams,2018
+96.0,Matt Longacre,9/21/1991,27,6-3,265.0,NW Missouri St.,ROLB,13,7.0,3.0,3.0,Rams,2018
+14.0,Sean Mannion,4/25/1992,26,6-6,230.0,Oregon St.,QB,3,0.0,3.0,0.0,Rams,2018
+44.0,Jake McQuaide,12/7/1987,31,6-2,247.0,Ohio St.,LS,16,0.0,7.0,1.0,Rams,2018
+82.0,Johnny Mundt,11/23/1994,24,6-4,233.0,Oregon,TE,10,0.0,1.0,0.0,Rams,2018
+19.0,Jojo Natson,2/1/1994,24,5-7,153.0,"Utah St.,Akron",WR,13,0.0,1.0,0.0,Rams,2018
+70.0,Joseph Noteboom,6/19/1995,23,6-5,321.0,TCU,T,16,0.0,0.0,2.0,Rams,2018
+22.0,Marcus Peters,1/9/1993,25,6-0,197.0,Washington,LCB,16,16.0,3.0,5.0,Rams,2018
+83.0,Josh Reynolds,2/16/1995,23,6-3,194.0,Texas A&M,WR,16,8.0,1.0,4.0,Rams,2018
+23.0,Nickell Robey-Coleman,1/17/1992,26,5-8,180.0,USC,DB,16,1.0,5.0,1.0,Rams,2018
+76.0,Rodger Saffold,6/6/1988,30,6-5,325.0,Indiana,LG,16,16.0,8.0,11.0,Rams,2018
+3.0,Cairo Santos,11/12/1991,27,5-8,175.0,Tulane,K,2,0.0,4.0,0.0,Rams,2018
+37.0,Sam Shields,12/8/1987,31,5-11,178.0,Miami (FL),DB,16,2.0,8.0,2.0,Rams,2018
+92.0,Tanzel Smart,11/6/1994,24,6-1,295.0,Tulane,DT,2,0.0,1.0,0.0,Rams,2018
+93.0,Ndamukong Suh,1/6/1987,31,6-4,313.0,Nebraska,LDT,16,16.0,8.0,8.0,Rams,2018
+65.0,John Sullivan,8/8/1985,33,6-4,312.0,Notre Dame,C,16,16.0,10.0,11.0,Rams,2018
+21.0,Aqib Talib,2/13/1986,32,6-1,209.0,Kansas,RCB,8,8.0,10.0,3.0,Rams,2018
+88.0,Mike Thomas,8/16/1994,24,6-1,189.0,Southern Miss,WR,1,0.0,2.0,0.0,Rams,2018
+95.0,Ethan Westbrooks,11/15/1990,28,6-4,287.0,West Texas A&M,DE,16,0.0,4.0,1.0,Rams,2018
+77.0,Andrew Whitworth,12/12/1981,37,6-7,330.0,LSU,LT,16,16.0,12.0,11.0,Rams,2018
+31.0,Darious Williams,3/15/1993,25,5-9,187.0,Ala-Birmingham,DB,1,0.0,0.0,0.0,Rams,2018
+15.0,Nick Williams,11/23/1990,28,5-10,184.0,Connecticut,WR,2,0.0,5.0,0.0,Rams,2018
+52.0,Ramik Wilson,8/19/1992,26,6-2,238.0,Georgia,LB,16,4.0,3.0,3.0,Rams,2018
+17.0,Robert Woods,4/10/1992,26,6-0,195.0,USC,WR,16,16.0,5.0,14.0,Rams,2018
+49.0,Trevon Young,4/1/1995,23,6-4,259.0,Louisville,DT,2,0.0,0.0,0.0,Rams,2018
+4.0,Greg Zuerlein,12/27/1987,31,6-0,187.0,Missouri Western St.,K,11,0.0,6.0,3.0,Rams,2018
+,Team Total,,26,6-1.4,234.7,,,16,,3.2,,Rams,2018

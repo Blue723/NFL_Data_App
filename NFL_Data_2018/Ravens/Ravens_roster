@@ -1,63 +1,63 @@
-,No.,Player,BirthDate,Age,Height,Weight,College/University,Position,Games_Played_in_Season,Games_Started_in_Season,NFL_Years,Player_Value,Team,Year
-0,37.0,Javorius Allen,8/27/1991,27.0,6-0,218.0,USC,RB,14,0.0,3.0,2.0,Ravens,2018
-1,89.0,Mark Andrews,9/6/1995,23.0,6-5,247.0,Oklahoma,TE,16,3.0,0.0,5.0,Ravens,2018
-2,28.0,Anthony Averett,11/30/1994,24.0,5-11,178.0,Alabama,DB,11,0.0,0.0,1.0,Ravens,2018
-3,49.0,Chris Board,7/23/1995,23.0,6-2,244.0,North Dakota St.,LB,16,0.0,0.0,1.0,Ravens,2018
-4,54.0,Tyus Bowser,5/23/1995,23.0,6-3,250.0,Houston,LB,15,0.0,1.0,1.0,Ravens,2018
-5,86.0,Nick Boyle,2/17/1993,25.0,6-4,270.0,Delaware,TE,16,13.0,3.0,2.0,Ravens,2018
-6,77.0,Bradley Bozeman,11/24/1994,24.0,6-5,325.0,Alabama,C,14,1.0,0.0,2.0,Ravens,2018
-7,13.0,John Brown,4/3/1990,28.0,5-11,178.0,Pittsburg St.,WR,16,15.0,4.0,6.0,Ravens,2018
-8,78.0,Orlando Brown Jr.,5/2/1996,22.0,6-8,345.0,Oklahoma,RT,16,10.0,0.0,6.0,Ravens,2018
-9,26.0,Maurice Canady,5/26/1994,24.0,6-1,193.0,Virginia,DB,7,0.0,2.0,0.0,Ravens,2018
-10,24.0,Brandon Carr,5/19/1986,32.0,6-0,210.0,Grand Valley St.,LCB,16,16.0,10.0,7.0,Ravens,2018
-11,36.0,Chuck Clark,4/19/1995,23.0,6-0,210.0,Virginia Tech,DB,16,2.0,1.0,2.0,Ravens,2018
-12,34.0,Alex Collins,8/26/1994,24.0,5-10,210.0,Arkansas,RB,10,10.0,2.0,3.0,Ravens,2018
-13,46.0,Morgan Cox,4/26/1986,32.0,6-4,233.0,Tennessee,LS,16,0.0,8.0,1.0,Ravens,2018
-14,15.0,Michael Crabtree,9/14/1987,31.0,6-1,215.0,Texas Tech,WR,16,16.0,9.0,5.0,Ravens,2018
-15,31.0,Robertson Daniel,10/1/1991,27.0,6-1,205.0,BYU,DB,1,0.0,2.0,0.0,Ravens,2018
-16,30.0,Kenneth Dixon,1/21/1994,24.0,5-10,228.0,Louisiana Tech,RB,6,0.0,2.0,2.0,Ravens,2018
-17,35.0,Gus Edwards,4/13/1995,23.0,6-1,238.0,"Miami (FL),Rutgers",RB,11,6.0,0.0,4.0,Ravens,2018
-18,71.0,Jermaine Eluemunor,12/13/1994,24.0,6-4,330.0,"Lackawanna,Texas A&M",G,9,1.0,1.0,1.0,Ravens,2018
-19,5.0,Joe Flacco,1/16/1985,33.0,6-6,245.0,"Pittsburgh,Delaware",QB,9,9.0,10.0,7.0,Ravens,2018
-20,84.0,Janarion Grant,11/20/1993,25.0,5-10,173.0,Rutgers,WR,2,0.0,0.0,0.0,Ravens,2018
-21,61.0,Hroniss Grasu,8/12/1991,27.0,6-3,301.0,Oregon,C,3,1.0,3.0,1.0,Ravens,2018
-22,3.0,Robert Griffin III,2/12/1990,28.0,6-2,213.0,Baylor,QB,3,0.0,6.0,0.0,Ravens,2018
-23,69.0,Willie Henry,3/20/1994,24.0,6-3,291.0,Michigan,DT,3,0.0,1.0,0.0,Ravens,2018
-24,29.0,Marlon Humphrey,7/8/1996,22.0,6-0,201.0,Alabama,RCB,14,8.0,1.0,4.0,Ravens,2018
-25,81.0,Hayden Hurst,8/24/1993,25.0,6-4,245.0,South Carolina,TE,12,0.0,0.0,1.0,Ravens,2018
-26,74.0,James Hurst,12/17/1991,27.0,6-5,310.0,North Carolina,RT,10,10.0,4.0,5.0,Ravens,2018
-27,8.0,Lamar Jackson,1/7/1997,21.0,6-2,215.0,Louisville,QB,16,7.0,0.0,8.0,Ravens,2018
-28,23.0,Tony Jefferson,1/27/1992,26.0,5-11,211.0,Oklahoma,SS,14,14.0,5.0,6.0,Ravens,2018
-29,27.0,Cyrus Jones,11/29/1993,25.0,5-10,195.0,Alabama,DB,11,0.0,2.0,2.0,Ravens,2018
-30,99.0,Matt Judon,8/15/1992,26.0,6-3,270.0,Grand Valley St.,ROLB,16,8.0,2.0,6.0,Ravens,2018
-31,4.0,Sam Koch,8/13/1982,36.0,6-1,222.0,Nebraska,P,16,0.0,12.0,3.0,Ravens,2018
-32,41.0,Anthony Levine,3/27/1987,31.0,5-11,207.0,Tennessee St.,DB,16,0.0,6.0,1.0,Ravens,2018
-33,72.0,Alex Lewis,4/21/1992,26.0,6-6,305.0,"Colorado,Nebraska",LG,10,10.0,2.0,5.0,Ravens,2018
-34,50.0,Albert McClellan,6/4/1986,32.0,6-2,235.0,Marshall,LB,6,1.0,7.0,1.0,Ravens,2018
-35,88.0,Ty Montgomery,1/22/1993,25.0,6-0,220.0,Stanford,WR,6,0.0,3.0,1.0,Ravens,2018
-36,10.0,Chris Moore,6/16/1993,25.0,6-1,200.0,Cincinnati,WR,16,0.0,2.0,2.0,Ravens,2018
-37,57.0,C.J. Mosley,6/19/1992,26.0,6-2,231.0,Alabama,LILB,15,15.0,4.0,15.0,Ravens,2018
-38,48.0,Patrick Onwuasor,8/22/1992,26.0,6-0,227.0,"Arizona,Portland St.",RILB,16,12.0,2.0,8.0,Ravens,2018
-39,97.0,Michael Pierce,11/6/1992,26.0,6-0,355.0,Samford,DT,14,2.0,2.0,3.0,Ravens,2018
-40,42.0,Patrick Ricard,5/27/1994,24.0,6-3,305.0,Maine,DT/FB,10,2.0,1.0,2.0,Ravens,2018
-41,95.0,Zach Sieler,9/7/1995,23.0,6-6,300.0,Ferris St.,DE,2,0.0,0.0,0.0,Ravens,2018
-42,68.0,Matt Skura,2/17/1993,25.0,6-3,305.0,Duke,C,16,16.0,1.0,8.0,Ravens,2018
-43,22.0,Jimmy Smith,7/26/1988,30.0,6-2,210.0,Colorado,RCB,12,10.0,7.0,5.0,Ravens,2018
-44,90.0,Za'Darius Smith,9/8/1992,26.0,6-4,275.0,"East Mississippi CC,Kentucky",ROLB,16,8.0,3.0,6.0,Ravens,2018
-45,83.0,Willie Snead,10/17/1992,26.0,5-11,195.0,Ball St.,WR,16,10.0,3.0,6.0,Ravens,2018
-46,79.0,Ronnie Stanley,3/18/1994,24.0,6-6,315.0,Notre Dame,LT,15,15.0,2.0,8.0,Ravens,2018
-47,55.0,Terrell Suggs,10/11/1982,36.0,6-3,265.0,Arizona St.,LOLB,16,16.0,15.0,10.0,Ravens,2018
-48,9.0,Justin Tucker,11/21/1989,29.0,6-1,188.0,Texas,K,16,0.0,6.0,4.0,Ravens,2018
-49,47.0,De'Lance Turner,8/23/1995,23.0,5-11,214.0,Alcorn St.,RB,4,0.0,0.0,0.0,Ravens,2018
-50,96.0,Brent Urban,5/5/1991,27.0,6-7,309.0,Virginia,RDE,16,16.0,3.0,9.0,Ravens,2018
-51,32.0,Eric Weddle,1/4/1985,33.0,5-11,195.0,Utah,FS,16,16.0,11.0,9.0,Ravens,2018
-52,14.0,Tim White,7/15/1994,24.0,5-11,185.0,Arizona St.,WR,3,0.0,0.0,0.0,Ravens,2018
-53,98.0,Brandon Williams,2/21/1989,29.0,6-1,336.0,Missouri Southern,LDE,16,16.0,5.0,12.0,Ravens,2018
-54,27.0,Darious Williams,3/15/1993,25.0,5-9,187.0,Ala-Birmingham,DB,3,0.0,0.0,0.0,Ravens,2018
-55,87.0,Maxx Williams,4/12/1994,24.0,6-4,252.0,Minnesota,TE,13,6.0,3.0,1.0,Ravens,2018
-56,56.0,Tim Williams,11/12/1993,25.0,6-3,252.0,Alabama,DE,7,0.0,1.0,1.0,Ravens,2018
-57,93.0,Chris Wormley,10/25/1993,25.0,6-5,300.0,Michigan,NT,16,6.0,1.0,4.0,Ravens,2018
-58,73.0,Marshal Yanda,9/15/1984,34.0,6-3,305.0,Iowa,RG,16,16.0,11.0,13.0,Ravens,2018
-59,40.0,Kenny Young,11/15/1994,24.0,6-1,234.0,UCLA,LB,16,3.0,0.0,4.0,Ravens,2018
-60,25.0,Tavon Young,3/14/1994,24.0,5-9,185.0,Temple,DB,15,6.0,2.0,5.0,Ravens,2018
-61,,Team Total,,26.3,6-1.8,244.4,,,16,,3.2,,Ravens,2018
+No.,Player,BirthDate,Age,Height,Weight,College/University,Position,Games_Played_in_Season,Games_Started_in_Season,NFL_Years,Player_Value,Team,Year
+37.0,Javorius Allen,8/27/1991,27.0,6-0,218.0,USC,RB,14,0.0,3.0,2.0,Ravens,2018
+89.0,Mark Andrews,9/6/1995,23.0,6-5,247.0,Oklahoma,TE,16,3.0,0.0,5.0,Ravens,2018
+28.0,Anthony Averett,11/30/1994,24.0,5-11,178.0,Alabama,DB,11,0.0,0.0,1.0,Ravens,2018
+49.0,Chris Board,7/23/1995,23.0,6-2,244.0,North Dakota St.,LB,16,0.0,0.0,1.0,Ravens,2018
+54.0,Tyus Bowser,5/23/1995,23.0,6-3,250.0,Houston,LB,15,0.0,1.0,1.0,Ravens,2018
+86.0,Nick Boyle,2/17/1993,25.0,6-4,270.0,Delaware,TE,16,13.0,3.0,2.0,Ravens,2018
+77.0,Bradley Bozeman,11/24/1994,24.0,6-5,325.0,Alabama,C,14,1.0,0.0,2.0,Ravens,2018
+13.0,John Brown,4/3/1990,28.0,5-11,178.0,Pittsburg St.,WR,16,15.0,4.0,6.0,Ravens,2018
+78.0,Orlando Brown Jr.,5/2/1996,22.0,6-8,345.0,Oklahoma,RT,16,10.0,0.0,6.0,Ravens,2018
+26.0,Maurice Canady,5/26/1994,24.0,6-1,193.0,Virginia,DB,7,0.0,2.0,0.0,Ravens,2018
+24.0,Brandon Carr,5/19/1986,32.0,6-0,210.0,Grand Valley St.,LCB,16,16.0,10.0,7.0,Ravens,2018
+36.0,Chuck Clark,4/19/1995,23.0,6-0,210.0,Virginia Tech,DB,16,2.0,1.0,2.0,Ravens,2018
+34.0,Alex Collins,8/26/1994,24.0,5-10,210.0,Arkansas,RB,10,10.0,2.0,3.0,Ravens,2018
+46.0,Morgan Cox,4/26/1986,32.0,6-4,233.0,Tennessee,LS,16,0.0,8.0,1.0,Ravens,2018
+15.0,Michael Crabtree,9/14/1987,31.0,6-1,215.0,Texas Tech,WR,16,16.0,9.0,5.0,Ravens,2018
+31.0,Robertson Daniel,10/1/1991,27.0,6-1,205.0,BYU,DB,1,0.0,2.0,0.0,Ravens,2018
+30.0,Kenneth Dixon,1/21/1994,24.0,5-10,228.0,Louisiana Tech,RB,6,0.0,2.0,2.0,Ravens,2018
+35.0,Gus Edwards,4/13/1995,23.0,6-1,238.0,"Miami (FL),Rutgers",RB,11,6.0,0.0,4.0,Ravens,2018
+71.0,Jermaine Eluemunor,12/13/1994,24.0,6-4,330.0,"Lackawanna,Texas A&M",G,9,1.0,1.0,1.0,Ravens,2018
+5.0,Joe Flacco,1/16/1985,33.0,6-6,245.0,"Pittsburgh,Delaware",QB,9,9.0,10.0,7.0,Ravens,2018
+84.0,Janarion Grant,11/20/1993,25.0,5-10,173.0,Rutgers,WR,2,0.0,0.0,0.0,Ravens,2018
+61.0,Hroniss Grasu,8/12/1991,27.0,6-3,301.0,Oregon,C,3,1.0,3.0,1.0,Ravens,2018
+3.0,Robert Griffin III,2/12/1990,28.0,6-2,213.0,Baylor,QB,3,0.0,6.0,0.0,Ravens,2018
+69.0,Willie Henry,3/20/1994,24.0,6-3,291.0,Michigan,DT,3,0.0,1.0,0.0,Ravens,2018
+29.0,Marlon Humphrey,7/8/1996,22.0,6-0,201.0,Alabama,RCB,14,8.0,1.0,4.0,Ravens,2018
+81.0,Hayden Hurst,8/24/1993,25.0,6-4,245.0,South Carolina,TE,12,0.0,0.0,1.0,Ravens,2018
+74.0,James Hurst,12/17/1991,27.0,6-5,310.0,North Carolina,RT,10,10.0,4.0,5.0,Ravens,2018
+8.0,Lamar Jackson,1/7/1997,21.0,6-2,215.0,Louisville,QB,16,7.0,0.0,8.0,Ravens,2018
+23.0,Tony Jefferson,1/27/1992,26.0,5-11,211.0,Oklahoma,SS,14,14.0,5.0,6.0,Ravens,2018
+27.0,Cyrus Jones,11/29/1993,25.0,5-10,195.0,Alabama,DB,11,0.0,2.0,2.0,Ravens,2018
+99.0,Matt Judon,8/15/1992,26.0,6-3,270.0,Grand Valley St.,ROLB,16,8.0,2.0,6.0,Ravens,2018
+4.0,Sam Koch,8/13/1982,36.0,6-1,222.0,Nebraska,P,16,0.0,12.0,3.0,Ravens,2018
+41.0,Anthony Levine,3/27/1987,31.0,5-11,207.0,Tennessee St.,DB,16,0.0,6.0,1.0,Ravens,2018
+72.0,Alex Lewis,4/21/1992,26.0,6-6,305.0,"Colorado,Nebraska",LG,10,10.0,2.0,5.0,Ravens,2018
+50.0,Albert McClellan,6/4/1986,32.0,6-2,235.0,Marshall,LB,6,1.0,7.0,1.0,Ravens,2018
+88.0,Ty Montgomery,1/22/1993,25.0,6-0,220.0,Stanford,WR,6,0.0,3.0,1.0,Ravens,2018
+10.0,Chris Moore,6/16/1993,25.0,6-1,200.0,Cincinnati,WR,16,0.0,2.0,2.0,Ravens,2018
+57.0,C.J. Mosley,6/19/1992,26.0,6-2,231.0,Alabama,LILB,15,15.0,4.0,15.0,Ravens,2018
+48.0,Patrick Onwuasor,8/22/1992,26.0,6-0,227.0,"Arizona,Portland St.",RILB,16,12.0,2.0,8.0,Ravens,2018
+97.0,Michael Pierce,11/6/1992,26.0,6-0,355.0,Samford,DT,14,2.0,2.0,3.0,Ravens,2018
+42.0,Patrick Ricard,5/27/1994,24.0,6-3,305.0,Maine,DT/FB,10,2.0,1.0,2.0,Ravens,2018
+95.0,Zach Sieler,9/7/1995,23.0,6-6,300.0,Ferris St.,DE,2,0.0,0.0,0.0,Ravens,2018
+68.0,Matt Skura,2/17/1993,25.0,6-3,305.0,Duke,C,16,16.0,1.0,8.0,Ravens,2018
+22.0,Jimmy Smith,7/26/1988,30.0,6-2,210.0,Colorado,RCB,12,10.0,7.0,5.0,Ravens,2018
+90.0,Za'Darius Smith,9/8/1992,26.0,6-4,275.0,"East Mississippi CC,Kentucky",ROLB,16,8.0,3.0,6.0,Ravens,2018
+83.0,Willie Snead,10/17/1992,26.0,5-11,195.0,Ball St.,WR,16,10.0,3.0,6.0,Ravens,2018
+79.0,Ronnie Stanley,3/18/1994,24.0,6-6,315.0,Notre Dame,LT,15,15.0,2.0,8.0,Ravens,2018
+55.0,Terrell Suggs,10/11/1982,36.0,6-3,265.0,Arizona St.,LOLB,16,16.0,15.0,10.0,Ravens,2018
+9.0,Justin Tucker,11/21/1989,29.0,6-1,188.0,Texas,K,16,0.0,6.0,4.0,Ravens,2018
+47.0,De'Lance Turner,8/23/1995,23.0,5-11,214.0,Alcorn St.,RB,4,0.0,0.0,0.0,Ravens,2018
+96.0,Brent Urban,5/5/1991,27.0,6-7,309.0,Virginia,RDE,16,16.0,3.0,9.0,Ravens,2018
+32.0,Eric Weddle,1/4/1985,33.0,5-11,195.0,Utah,FS,16,16.0,11.0,9.0,Ravens,2018
+14.0,Tim White,7/15/1994,24.0,5-11,185.0,Arizona St.,WR,3,0.0,0.0,0.0,Ravens,2018
+98.0,Brandon Williams,2/21/1989,29.0,6-1,336.0,Missouri Southern,LDE,16,16.0,5.0,12.0,Ravens,2018
+27.0,Darious Williams,3/15/1993,25.0,5-9,187.0,Ala-Birmingham,DB,3,0.0,0.0,0.0,Ravens,2018
+87.0,Maxx Williams,4/12/1994,24.0,6-4,252.0,Minnesota,TE,13,6.0,3.0,1.0,Ravens,2018
+56.0,Tim Williams,11/12/1993,25.0,6-3,252.0,Alabama,DE,7,0.0,1.0,1.0,Ravens,2018
+93.0,Chris Wormley,10/25/1993,25.0,6-5,300.0,Michigan,NT,16,6.0,1.0,4.0,Ravens,2018
+73.0,Marshal Yanda,9/15/1984,34.0,6-3,305.0,Iowa,RG,16,16.0,11.0,13.0,Ravens,2018
+40.0,Kenny Young,11/15/1994,24.0,6-1,234.0,UCLA,LB,16,3.0,0.0,4.0,Ravens,2018
+25.0,Tavon Young,3/14/1994,24.0,5-9,185.0,Temple,DB,15,6.0,2.0,5.0,Ravens,2018
+,Team Total,,26.3,6-1.8,244.4,,,16,,3.2,,Ravens,2018

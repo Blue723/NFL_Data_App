@@ -1,72 +1,72 @@
-,No.,Player,BirthDate,Age,Height,Weight,College/University,Position,Games_Played_in_Season,Games_Started_in_Season,NFL_Years,Player_Value,Team,Year
-0,21.0,Ameer Abdullah,6/13/1993,25.0,5-9,203.0,Nebraska,RB,3,0.0,3.0,0.0,Lions,2018
-1,39.0,Jamal Agnew,4/3/1995,23.0,5-10,190.0,San Diego,DB,6,0.0,1.0,1.0,Lions,2018
-2,94.0,Ezekiel Ansah,5/29/1989,29.0,6-5,275.0,BYU,DE,7,2.0,5.0,2.0,Lions,2018
-3,99.0,John Atkins,12/21/1992,26.0,6-3,320.0,Georgia,DT,2,0.0,0.0,0.0,Lions,2018
-4,53.0,Trevor Bates,8/28/1993,25.0,6-2,247.0,Maine,LB,9,0.0,2.0,1.0,Lions,2018
-5,43.0,Nick Bellore,5/12/1989,29.0,6-1,250.0,Central Michigan,FB,14,4.0,7.0,0.0,Lions,2018
-6,29.0,LeGarrette Blount,12/5/1986,32.0,6-0,247.0,"East Mississippi CC,Oregon",RB,16,8.0,8.0,3.0,Lions,2018
-7,21.0,Don Carey,2/14/1987,31.0,5-11,202.0,Norfolk St.,DB,1,0.0,8.0,0.0,Lions,2018
-8,8.0,Matt Cassel,5/17/1982,36.0,6-4,225.0,USC,QB,2,0.0,13.0,0.0,Lions,2018
-9,21.0,Marcus Cooper,2/1/1990,28.0,6-2,197.0,Rutgers,DB,4,0.0,5.0,0.0,Lions,2018
-10,65.0,Tyrell Crosby,9/5/1995,23.0,6-4,310.0,Oregon,T,10,2.0,0.0,2.0,Lions,2018
-11,86.0,Jerome Cunningham,5/25/1991,27.0,6-4,254.0,Southern Connecticut St.,TE,3,0.0,3.0,0.0,Lions,2018
-12,66.0,Joe Dahl,4/9/1993,25.0,6-4,310.0,Washington St.,G,10,1.0,2.0,1.0,Lions,2018
-13,40.0,Jarrad Davis,11/16/1994,24.0,6-1,238.0,Florida,MLB,16,16.0,1.0,8.0,Lions,2018
-14,68.0,Taylor Decker,8/23/1994,24.0,6-7,318.0,Ohio St.,LT,16,16.0,2.0,7.0,Lions,2018
-15,28.0,Quandre Diggs,1/22/1993,25.0,5-9,197.0,Texas,SS,16,16.0,3.0,6.0,Lions,2018
-16,78.0,Andrew Donnal,3/3/1992,26.0,6-6,305.0,Iowa,T,2,0.0,3.0,0.0,Lions,2018
-17,12.0,Bruce Ellington,8/22/1991,27.0,5-9,200.0,South Carolina,WR,4,2.0,4.0,1.0,Lions,2018
-18,59.0,Marquis Flowers,2/16/1992,26.0,6-2,245.0,Arizona,LB,5,0.0,4.0,0.0,Lions,2018
-19,38.0,Mike Ford,8/4/1995,23.0,6-0,195.0,SE Missouri St.,DB,7,4.0,0.0,2.0,Lions,2018
-20,60.0,Graham Glasgow,7/19/1992,26.0,6-6,315.0,Michigan,C,16,16.0,2.0,7.0,Lions,2018
-21,19.0,Kenny Golladay,11/3/1993,25.0,6-4,213.0,Northern Illinois,WR,15,13.0,1.0,8.0,Lions,2018
-22,50.0,Nicholas Grigsby,7/2/1992,26.0,6-2,230.0,Pittsburgh,LB,3,0.0,2.0,0.0,Lions,2018
-23,93.0,Da'Shawn Hand,11/14/1995,23.0,6-3,297.0,Alabama,RDE,13,8.0,0.0,5.0,Lions,2018
-24,57.0,Eli Harold,1/20/1994,24.0,6-3,243.0,Virginia,DE,13,0.0,3.0,1.0,Lions,2018
-25,98.0,Damon Harrison,11/29/1988,30.0,6-3,350.0,"Northwest Mississippi CC,William Penn",RDT,10,9.0,6.0,6.0,Lions,2018
-26,61.0,Kerry Hyder,5/2/1991,27.0,6-2,275.0,Texas Tech,DE,7,0.0,3.0,1.0,Lions,2018
-27,97.0,Ricky Jean-Francois,11/23/1986,32.0,6-2,309.0,LSU,LDT,16,11.0,9.0,5.0,Lions,2018
-28,33.0,Kerryon Johnson,6/30/1997,21.0,5-11,211.0,Auburn,RB,10,7.0,0.0,5.0,Lions,2018
-29,17.0,Andy Jones,6/28/1994,24.0,6-1,217.0,Jacksonville,WR,8,3.0,1.0,1.0,Lions,2018
-30,52.0,Christian Jones,2/18/1991,27.0,6-3,245.0,Florida St.,RLB,16,16.0,4.0,7.0,Lions,2018
-31,11.0,Marvin Jones,3/12/1990,28.0,6-2,199.0,California,WR,9,9.0,6.0,4.0,Lions,2018
-32,13.0,T.J. Jones,7/19/1992,26.0,6-0,190.0,Notre Dame,WR,15,3.0,3.0,1.0,Lions,2018
-33,42.0,Devon Kennard,6/24/1991,27.0,6-3,256.0,USC,LLB,15,15.0,4.0,7.0,Lions,2018
-34,35.0,Miles Killebrew,5/10/1993,25.0,6-2,222.0,Southern Utah,DB,16,0.0,2.0,1.0,Lions,2018
-35,18.0,Chris Lacy,1/28/1996,22.0,6-3,206.0,Oklahoma St.,WR,1,0.0,0.0,0.0,Lions,2018
-36,76.0,T.J. Lang,9/20/1987,31.0,6-4,315.0,Eastern Michigan,RG,6,6.0,9.0,3.0,Lions,2018
-37,24.0,Nevin Lawson,4/23/1991,27.0,5-9,192.0,Utah St.,RCB,15,14.0,4.0,5.0,Lions,2018
-38,34.0,Cre'von LeBlanc,7/25/1994,24.0,5-10,190.0,Florida Atlantic,DB,3,0.0,2.0,0.0,Lions,2018
-39,55.0,Eric Lee,8/6/1994,24.0,6-3,259.0,South Florida,LB,9,0.0,1.0,1.0,Lions,2018
-40,12.0,Bradley Marquez,12/14/1992,26.0,5-10,205.0,Texas Tech,WR,1,0.0,3.0,0.0,Lions,2018
-41,6.0,Sam Martin,2/27/1990,28.0,6-1,211.0,Appalachian St.,P,16,0.0,5.0,2.0,Lions,2018
-42,48.0,Don Muhlbach,8/17/1981,37.0,6-4,258.0,Texas A&M,LS,16,0.0,14.0,4.0,Lions,2018
-43,95.0,Romeo Okwara,6/17/1995,23.0,6-4,255.0,Notre Dame,LDE,15,14.0,2.0,7.0,Lions,2018
-44,41.0,Lenzy Pipkins,11/7/1993,25.0,6-0,196.0,Oklahoma St.,DB,2,0.0,1.0,0.0,Lions,2018
-45,10.0,Brandon Powell,9/12/1995,23.0,5-8,181.0,Florida,WR,6,1.0,0.0,1.0,Lions,2018
-46,5.0,Matt Prater,8/10/1984,34.0,5-10,201.0,Central Florida,K,16,0.0,11.0,4.0,Lions,2018
-47,27.0,Glover Quin,1/15/1986,32.0,6-0,207.0,"Southwest Mississippi CC,New Mexico",FS,16,16.0,9.0,6.0,Lions,2018
-48,77.0,Frank Ragnow,5/17/1996,22.0,6-5,310.0,Arkansas,LG,16,16.0,0.0,7.0,Lions,2018
-49,44.0,Jalen Reeves-Maybin,1/31/1995,23.0,6-1,226.0,Tennessee,LB,9,0.0,1.0,1.0,Lions,2018
-50,25.0,Theo Riddick,5/4/1991,27.0,5-9,201.0,Notre Dame,RB,14,3.0,5.0,4.0,Lions,2018
-51,80.0,Michael Roberts,5/7/1994,24.0,6-5,265.0,Toledo,TE,8,2.0,1.0,1.0,Lions,2018
-52,91.0,A'Shawn Robinson,3/21/1995,23.0,6-4,330.0,Alabama,LDT,13,7.0,2.0,5.0,Lions,2018
-53,26.0,DeShawn Shead,6/28/1989,29.0,6-2,212.0,Portland St.,DB,12,1.0,5.0,1.0,Lions,2018
-54,51.0,Kelvin Sheppard,1/2/1988,30.0,6-2,249.0,LSU,LB,7,1.0,7.0,1.0,Lions,2018
-55,23.0,Darius Slay,1/1/1991,27.0,6-0,190.0,Mississippi St.,LCB,15,15.0,5.0,9.0,Lions,2018
-56,9.0,Matthew Stafford,2/7/1988,30.0,6-3,220.0,Georgia,QB,16,16.0,9.0,10.0,Lions,2018
-57,31.0,Teez Tabor,12/31/1995,23.0,6-0,201.0,Florida,DB,12,4.0,1.0,2.0,Lions,2018
-58,15.0,Golden Tate,8/2/1988,30.0,5-10,197.0,Notre Dame,WR,7,4.0,8.0,4.0,Lions,2018
-59,87.0,Levine Toilolo,7/30/1991,27.0,6-8,268.0,Stanford,TE,16,10.0,5.0,2.0,Lions,2018
-60,84.0,Hakeem Valles,11/23/1992,26.0,6-3,250.0,Monmouth,TE,3,0.0,2.0,0.0,Lions,2018
-61,30.0,Dee Virgin,10/29/1993,25.0,5-9,195.0,West Alabama,DB,4,0.0,0.0,0.0,Lions,2018
-62,71.0,Ricky Wagner,10/21/1989,29.0,6-6,313.0,Wisconsin,RT,15,15.0,5.0,7.0,Lions,2018
-63,47.0,Tracy Walker,2/1/1995,23.0,6-1,206.0,Louisiana,DB,16,0.0,0.0,1.0,Lions,2018
-64,45.0,Charles Washington,3/10/1993,25.0,5-10,192.0,Fresno St.,DB,13,0.0,1.0,1.0,Lions,2018
-65,79.0,Kenny Wiggins,8/8/1988,30.0,6-6,315.0,Fresno St.,RG,16,10.0,4.0,5.0,Lions,2018
-66,92.0,Sylvester Williams,11/21/1988,30.0,6-2,328.0,North Carolina,DT,6,4.0,5.0,2.0,Lions,2018
-67,82.0,Luke Willson,1/15/1990,28.0,6-5,255.0,Rice,TE,14,8.0,5.0,1.0,Lions,2018
-68,32.0,Tavon Wilson,3/19/1990,28.0,6-0,208.0,Illinois,DB,15,3.0,6.0,2.0,Lions,2018
-69,34.0,Zach Zenner,9/13/1991,27.0,5-11,224.0,South Dakota St.,RB,8,1.0,3.0,2.0,Lions,2018
-70,,Team Total,,26.7,6-1.7,241.9,,,16,,3.7,,Lions,2018
+No.,Player,BirthDate,Age,Height,Weight,College/University,Position,Games_Played_in_Season,Games_Started_in_Season,NFL_Years,Player_Value,Team,Year
+21.0,Ameer Abdullah,6/13/1993,25.0,5-9,203.0,Nebraska,RB,3,0.0,3.0,0.0,Lions,2018
+39.0,Jamal Agnew,4/3/1995,23.0,5-10,190.0,San Diego,DB,6,0.0,1.0,1.0,Lions,2018
+94.0,Ezekiel Ansah,5/29/1989,29.0,6-5,275.0,BYU,DE,7,2.0,5.0,2.0,Lions,2018
+99.0,John Atkins,12/21/1992,26.0,6-3,320.0,Georgia,DT,2,0.0,0.0,0.0,Lions,2018
+53.0,Trevor Bates,8/28/1993,25.0,6-2,247.0,Maine,LB,9,0.0,2.0,1.0,Lions,2018
+43.0,Nick Bellore,5/12/1989,29.0,6-1,250.0,Central Michigan,FB,14,4.0,7.0,0.0,Lions,2018
+29.0,LeGarrette Blount,12/5/1986,32.0,6-0,247.0,"East Mississippi CC,Oregon",RB,16,8.0,8.0,3.0,Lions,2018
+21.0,Don Carey,2/14/1987,31.0,5-11,202.0,Norfolk St.,DB,1,0.0,8.0,0.0,Lions,2018
+8.0,Matt Cassel,5/17/1982,36.0,6-4,225.0,USC,QB,2,0.0,13.0,0.0,Lions,2018
+21.0,Marcus Cooper,2/1/1990,28.0,6-2,197.0,Rutgers,DB,4,0.0,5.0,0.0,Lions,2018
+65.0,Tyrell Crosby,9/5/1995,23.0,6-4,310.0,Oregon,T,10,2.0,0.0,2.0,Lions,2018
+86.0,Jerome Cunningham,5/25/1991,27.0,6-4,254.0,Southern Connecticut St.,TE,3,0.0,3.0,0.0,Lions,2018
+66.0,Joe Dahl,4/9/1993,25.0,6-4,310.0,Washington St.,G,10,1.0,2.0,1.0,Lions,2018
+40.0,Jarrad Davis,11/16/1994,24.0,6-1,238.0,Florida,MLB,16,16.0,1.0,8.0,Lions,2018
+68.0,Taylor Decker,8/23/1994,24.0,6-7,318.0,Ohio St.,LT,16,16.0,2.0,7.0,Lions,2018
+28.0,Quandre Diggs,1/22/1993,25.0,5-9,197.0,Texas,SS,16,16.0,3.0,6.0,Lions,2018
+78.0,Andrew Donnal,3/3/1992,26.0,6-6,305.0,Iowa,T,2,0.0,3.0,0.0,Lions,2018
+12.0,Bruce Ellington,8/22/1991,27.0,5-9,200.0,South Carolina,WR,4,2.0,4.0,1.0,Lions,2018
+59.0,Marquis Flowers,2/16/1992,26.0,6-2,245.0,Arizona,LB,5,0.0,4.0,0.0,Lions,2018
+38.0,Mike Ford,8/4/1995,23.0,6-0,195.0,SE Missouri St.,DB,7,4.0,0.0,2.0,Lions,2018
+60.0,Graham Glasgow,7/19/1992,26.0,6-6,315.0,Michigan,C,16,16.0,2.0,7.0,Lions,2018
+19.0,Kenny Golladay,11/3/1993,25.0,6-4,213.0,Northern Illinois,WR,15,13.0,1.0,8.0,Lions,2018
+50.0,Nicholas Grigsby,7/2/1992,26.0,6-2,230.0,Pittsburgh,LB,3,0.0,2.0,0.0,Lions,2018
+93.0,Da'Shawn Hand,11/14/1995,23.0,6-3,297.0,Alabama,RDE,13,8.0,0.0,5.0,Lions,2018
+57.0,Eli Harold,1/20/1994,24.0,6-3,243.0,Virginia,DE,13,0.0,3.0,1.0,Lions,2018
+98.0,Damon Harrison,11/29/1988,30.0,6-3,350.0,"Northwest Mississippi CC,William Penn",RDT,10,9.0,6.0,6.0,Lions,2018
+61.0,Kerry Hyder,5/2/1991,27.0,6-2,275.0,Texas Tech,DE,7,0.0,3.0,1.0,Lions,2018
+97.0,Ricky Jean-Francois,11/23/1986,32.0,6-2,309.0,LSU,LDT,16,11.0,9.0,5.0,Lions,2018
+33.0,Kerryon Johnson,6/30/1997,21.0,5-11,211.0,Auburn,RB,10,7.0,0.0,5.0,Lions,2018
+17.0,Andy Jones,6/28/1994,24.0,6-1,217.0,Jacksonville,WR,8,3.0,1.0,1.0,Lions,2018
+52.0,Christian Jones,2/18/1991,27.0,6-3,245.0,Florida St.,RLB,16,16.0,4.0,7.0,Lions,2018
+11.0,Marvin Jones,3/12/1990,28.0,6-2,199.0,California,WR,9,9.0,6.0,4.0,Lions,2018
+13.0,T.J. Jones,7/19/1992,26.0,6-0,190.0,Notre Dame,WR,15,3.0,3.0,1.0,Lions,2018
+42.0,Devon Kennard,6/24/1991,27.0,6-3,256.0,USC,LLB,15,15.0,4.0,7.0,Lions,2018
+35.0,Miles Killebrew,5/10/1993,25.0,6-2,222.0,Southern Utah,DB,16,0.0,2.0,1.0,Lions,2018
+18.0,Chris Lacy,1/28/1996,22.0,6-3,206.0,Oklahoma St.,WR,1,0.0,0.0,0.0,Lions,2018
+76.0,T.J. Lang,9/20/1987,31.0,6-4,315.0,Eastern Michigan,RG,6,6.0,9.0,3.0,Lions,2018
+24.0,Nevin Lawson,4/23/1991,27.0,5-9,192.0,Utah St.,RCB,15,14.0,4.0,5.0,Lions,2018
+34.0,Cre'von LeBlanc,7/25/1994,24.0,5-10,190.0,Florida Atlantic,DB,3,0.0,2.0,0.0,Lions,2018
+55.0,Eric Lee,8/6/1994,24.0,6-3,259.0,South Florida,LB,9,0.0,1.0,1.0,Lions,2018
+12.0,Bradley Marquez,12/14/1992,26.0,5-10,205.0,Texas Tech,WR,1,0.0,3.0,0.0,Lions,2018
+6.0,Sam Martin,2/27/1990,28.0,6-1,211.0,Appalachian St.,P,16,0.0,5.0,2.0,Lions,2018
+48.0,Don Muhlbach,8/17/1981,37.0,6-4,258.0,Texas A&M,LS,16,0.0,14.0,4.0,Lions,2018
+95.0,Romeo Okwara,6/17/1995,23.0,6-4,255.0,Notre Dame,LDE,15,14.0,2.0,7.0,Lions,2018
+41.0,Lenzy Pipkins,11/7/1993,25.0,6-0,196.0,Oklahoma St.,DB,2,0.0,1.0,0.0,Lions,2018
+10.0,Brandon Powell,9/12/1995,23.0,5-8,181.0,Florida,WR,6,1.0,0.0,1.0,Lions,2018
+5.0,Matt Prater,8/10/1984,34.0,5-10,201.0,Central Florida,K,16,0.0,11.0,4.0,Lions,2018
+27.0,Glover Quin,1/15/1986,32.0,6-0,207.0,"Southwest Mississippi CC,New Mexico",FS,16,16.0,9.0,6.0,Lions,2018
+77.0,Frank Ragnow,5/17/1996,22.0,6-5,310.0,Arkansas,LG,16,16.0,0.0,7.0,Lions,2018
+44.0,Jalen Reeves-Maybin,1/31/1995,23.0,6-1,226.0,Tennessee,LB,9,0.0,1.0,1.0,Lions,2018
+25.0,Theo Riddick,5/4/1991,27.0,5-9,201.0,Notre Dame,RB,14,3.0,5.0,4.0,Lions,2018
+80.0,Michael Roberts,5/7/1994,24.0,6-5,265.0,Toledo,TE,8,2.0,1.0,1.0,Lions,2018
+91.0,A'Shawn Robinson,3/21/1995,23.0,6-4,330.0,Alabama,LDT,13,7.0,2.0,5.0,Lions,2018
+26.0,DeShawn Shead,6/28/1989,29.0,6-2,212.0,Portland St.,DB,12,1.0,5.0,1.0,Lions,2018
+51.0,Kelvin Sheppard,1/2/1988,30.0,6-2,249.0,LSU,LB,7,1.0,7.0,1.0,Lions,2018
+23.0,Darius Slay,1/1/1991,27.0,6-0,190.0,Mississippi St.,LCB,15,15.0,5.0,9.0,Lions,2018
+9.0,Matthew Stafford,2/7/1988,30.0,6-3,220.0,Georgia,QB,16,16.0,9.0,10.0,Lions,2018
+31.0,Teez Tabor,12/31/1995,23.0,6-0,201.0,Florida,DB,12,4.0,1.0,2.0,Lions,2018
+15.0,Golden Tate,8/2/1988,30.0,5-10,197.0,Notre Dame,WR,7,4.0,8.0,4.0,Lions,2018
+87.0,Levine Toilolo,7/30/1991,27.0,6-8,268.0,Stanford,TE,16,10.0,5.0,2.0,Lions,2018
+84.0,Hakeem Valles,11/23/1992,26.0,6-3,250.0,Monmouth,TE,3,0.0,2.0,0.0,Lions,2018
+30.0,Dee Virgin,10/29/1993,25.0,5-9,195.0,West Alabama,DB,4,0.0,0.0,0.0,Lions,2018
+71.0,Ricky Wagner,10/21/1989,29.0,6-6,313.0,Wisconsin,RT,15,15.0,5.0,7.0,Lions,2018
+47.0,Tracy Walker,2/1/1995,23.0,6-1,206.0,Louisiana,DB,16,0.0,0.0,1.0,Lions,2018
+45.0,Charles Washington,3/10/1993,25.0,5-10,192.0,Fresno St.,DB,13,0.0,1.0,1.0,Lions,2018
+79.0,Kenny Wiggins,8/8/1988,30.0,6-6,315.0,Fresno St.,RG,16,10.0,4.0,5.0,Lions,2018
+92.0,Sylvester Williams,11/21/1988,30.0,6-2,328.0,North Carolina,DT,6,4.0,5.0,2.0,Lions,2018
+82.0,Luke Willson,1/15/1990,28.0,6-5,255.0,Rice,TE,14,8.0,5.0,1.0,Lions,2018
+32.0,Tavon Wilson,3/19/1990,28.0,6-0,208.0,Illinois,DB,15,3.0,6.0,2.0,Lions,2018
+34.0,Zach Zenner,9/13/1991,27.0,5-11,224.0,South Dakota St.,RB,8,1.0,3.0,2.0,Lions,2018
+,Team Total,,26.7,6-1.7,241.9,,,16,,3.7,,Lions,2018

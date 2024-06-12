@@ -1,79 +1,79 @@
-,No.,Player,BirthDate,Age,Height,Weight,College/University,Position,Games_Played_in_Season,Games_Started_in_Season,NFL_Years,Player_Value,Team,Year
-0,39.0,Adonis Alexander,11/7/1996,22.0,6-3,205.0,Virginia Tech,DB,9,0.0,0.0,1.0,Commanders,2018
-1,93.0,Jonathan Allen,1/16/1995,23.0,6-3,300.0,Alabama,LDE,16,16.0,1.0,8.0,Commanders,2018
-2,52.0,Ryan Anderson,8/12/1994,24.0,6-2,255.0,Alabama,LB,13,0.0,1.0,1.0,Commanders,2018
-3,30.0,Troy Apke,4/11/1995,23.0,6-1,205.0,Penn St.,DB,2,0.0,0.0,0.0,Commanders,2018
-4,66.0,Tony Bergstrom,8/8/1986,32.0,6-5,310.0,Utah,RG,13,8.0,6.0,4.0,Commanders,2018
-5,46.0,Kapri Bibbs,1/10/1993,25.0,5-10,203.0,"Snow College (UT),Colorado St.",RB,10,0.0,3.0,1.0,Commanders,2018
-6,69.0,Luke Bowanko,6/13/1991,27.0,6-6,300.0,Virginia,C,7,3.0,4.0,2.0,Commanders,2018
-7,99.0,Caleb Brantley,9/2/1994,24.0,6-2,305.0,Florida,DT,7,0.0,1.0,0.0,Commanders,2018
-8,53.0,Zach Brown,10/23/1989,29.0,6-1,250.0,North Carolina,LILB,16,12.0,6.0,6.0,Commanders,2018
-9,36.0,Alex Carter,10/19/1994,24.0,6-0,201.0,Stanford,DB,1,0.0,2.0,0.0,Commanders,2018
-10,16.0,Jehu Chesson,12/29/1993,25.0,6-2,204.0,Michigan,WR,12,0.0,1.0,0.0,Commanders,2018
-11,74.0,Geron Christian,9/10/1996,22.0,6-5,320.0,Louisville,T,2,0.0,0.0,0.0,Commanders,2018
-12,20.0,Ha Ha Clinton-Dix,12/21/1992,26.0,6-1,211.0,Alabama,SS,9,9.0,4.0,3.0,Commanders,2018
-13,72.0,Jonathan Cooper,1/19/1990,28.0,6-2,308.0,North Carolina,G,4,4.0,4.0,2.0,Commanders,2018
-14,80.0,Jamison Crowder,6/17/1993,25.0,5-9,177.0,Duke,WR,9,7.0,3.0,3.0,Commanders,2018
-15,85.0,Vernon Davis,1/31/1984,34.0,6-3,248.0,Maryland,TE,14,8.0,12.0,3.0,Commanders,2018
-16,18.0,Josh Doctson,12/3/1992,26.0,6-2,205.0,"TCU,Wyoming",WR,15,12.0,2.0,4.0,Commanders,2018
-17,23.0,Quinton Dunbar,7/22/1992,26.0,6-2,202.0,Florida,LCB,7,6.0,3.0,3.0,Commanders,2018
-18,55.0,Casey Dunn,10/11/1994,24.0,6-4,307.0,Auburn,C,2,0.0,0.0,0.0,Commanders,2018
-19,55.0,Andrew East,9/17/1991,27.0,6-2,220.0,Vanderbilt,C,3,0.0,0.0,0.0,Commanders,2018
-20,22.0,Deshazor Everett,2/22/1992,26.0,6-0,203.0,Texas A&M,DB,16,3.0,3.0,2.0,Commanders,2018
-21,88.0,Matt Flanagan,3/26/1995,23.0,6-6,260.0,Pittsburgh,TE,3,1.0,0.0,0.0,Commanders,2018
-22,17.0,Michael Floyd,11/27/1989,29.0,6-3,220.0,Notre Dame,WR,13,3.0,6.0,1.0,Commanders,2018
-23,54.0,Mason Foster,3/1/1989,29.0,6-1,240.0,Washington,RILB,16,16.0,7.0,9.0,Commanders,2018
-24,62.0,Kyle Fuller,3/4/1994,24.0,6-5,320.0,Baylor,C,2,0.0,1.0,0.0,Commanders,2018
-25,51.0,Shaun Dion Hamilton,9/11/1995,23.0,6-0,235.0,Alabama,LB,16,4.0,0.0,3.0,Commanders,2018
-26,13.0,Maurice Harris,11/11/1992,26.0,6-3,205.0,California,WR,12,7.0,2.0,2.0,Commanders,2018
-27,40.0,Josh Harvey-Clemons,2/20/1994,24.0,6-4,245.0,Louisville,DB,16,0.0,1.0,2.0,Commanders,2018
-28,38.0,Joshua Holsey,6/25/1994,24.0,5-11,195.0,Auburn,DB,1,0.0,1.0,0.0,Commanders,2018
-29,90.0,Evander Hood,2/16/1987,31.0,6-3,305.0,Missouri,DE,5,0.0,9.0,0.0,Commanders,2018
-30,3.0,Dustin Hopkins,10/1/1990,28.0,6-2,193.0,Florida St.,K,16,0.0,3.0,5.0,Commanders,2018
-31,78.0,Austin Howard,3/22/1987,31.0,6-7,330.0,Northern Iowa,T,5,1.0,8.0,1.0,Commanders,2018
-32,98.0,Matthew Ioannidis,1/11/1994,24.0,6-3,310.0,Temple,RDE/NT,14,9.0,2.0,5.0,Commanders,2018
-33,41.0,Danny Johnson,11/17/1995,23.0,5-9,190.0,Southern,DB,14,1.0,0.0,1.0,Commanders,2018
-34,8.0,Josh Johnson,5/15/1986,32.0,6-3,214.0,San Diego,QB,4,3.0,9.0,2.0,Commanders,2018
-35,20.0,Robert Kelley,10/3/1992,26.0,6-0,229.0,Tulane,RB,2,0.0,2.0,0.0,Commanders,2018
-36,67.0,Zac Kerin,8/13/1991,27.0,6-5,305.0,Toledo,C,2,1.0,3.0,0.0,Commanders,2018
-37,91.0,Ryan Kerrigan,8/16/1988,30.0,6-4,267.0,Purdue,ROLB,16,16.0,7.0,10.0,Commanders,2018
-38,84.0,Darvin Kidsy,3/19/1995,23.0,6-0,180.0,Texas Southern,WR,2,0.0,0.0,0.0,Commanders,2018
-39,48.0,Kenny Ladler,6/23/1992,26.0,6-1,200.0,Vanderbilt,DB,5,0.0,4.0,0.0,Commanders,2018
-40,77.0,Shawn Lauvao,10/26/1987,31.0,6-3,308.0,Arizona St.,LG,5,5.0,8.0,2.0,Commanders,2018
-41,34.0,Byron Marshall,2/13/1994,24.0,5-9,225.0,Oregon,RB,6,0.0,2.0,0.0,Commanders,2018
-42,12.0,Colt McCoy,9/5/1986,32.0,6-1,212.0,Texas,QB,3,2.0,8.0,1.0,Commanders,2018
-43,92.0,Stacy McGee,1/17/1990,28.0,6-3,339.0,Oklahoma,DT,8,1.0,5.0,1.0,Commanders,2018
-44,58.0,Cassanova McKinzy,11/17/1992,26.0,6-3,252.0,Auburn,LB,3,0.0,0.0,0.0,Commanders,2018
-45,96.0,Pernell McPhee,12/17/1988,30.0,6-3,265.0,Mississippi St.,DE,13,0.0,7.0,1.0,Commanders,2018
-46,48.0,Harlan Miller,6/20/1994,24.0,6-0,182.0,Southeastern Louisiana,DB,2,0.0,2.0,0.0,Commanders,2018
-47,31.0,Fabian Moreau,4/9/1994,24.0,6-0,198.0,UCLA,LCB,16,10.0,1.0,4.0,Commanders,2018
-48,76.0,Morgan Moses,3/3/1991,27.0,6-6,320.0,Virginia,RT,16,16.0,4.0,7.0,Commanders,2018
-49,35.0,Montae Nicholson,12/4/1995,23.0,6-2,212.0,Michigan St.,SS,14,7.0,1.0,3.0,Commanders,2018
-50,24.0,Josh Norman,12/15/1987,31.0,6-0,195.0,Coastal Carolina,RCB,16,16.0,6.0,6.0,Commanders,2018
-51,79.0,Ty Nsekhe,10/27/1985,33.0,6-8,325.0,Texas St.,LT,14,5.0,6.0,3.0,Commanders,2018
-52,61.0,Timon Parris,9/11/1995,23.0,6-6,315.0,Stony Brook,T,1,0.0,0.0,0.0,Commanders,2018
-53,95.0,Daron Payne,5/27/1997,21.0,6-3,320.0,Alabama,NT,16,16.0,0.0,8.0,Commanders,2018
-54,32.0,Samaje Perine,9/16/1995,23.0,5-10,236.0,Oklahoma,RB,5,0.0,1.0,0.0,Commanders,2018
-55,26.0,Adrian Peterson,3/21/1985,33.0,6-1,220.0,Oklahoma,RB,16,16.0,11.0,7.0,Commanders,2018
-56,83.0,Brian Quick,6/5/1989,29.0,6-3,215.0,Appalachian St.,WR,6,3.0,6.0,0.0,Commanders,2018
-57,14.0,Trey Quinn,12/7/1995,23.0,6-0,200.0,"LSU,SMU",WR,3,2.0,0.0,1.0,Commanders,2018
-58,45.0,Jeremy Reaves,8/29/1996,22.0,5-11,200.0,South Alabama,DB,2,0.0,0.0,0.0,Commanders,2018
-59,86.0,Jordan Reed,7/3/1990,28.0,6-2,242.0,Florida,TE,13,8.0,5.0,4.0,Commanders,2018
-60,10.0,Paul Richardson,4/13/1992,26.0,6-0,180.0,Colorado,WR,7,4.0,4.0,2.0,Commanders,2018
-61,73.0,Chase Roullier,8/23/1993,25.0,6-4,312.0,Wyoming,C,16,16.0,1.0,7.0,Commanders,2018
-62,6.0,Mark Sanchez,11/11/1986,32.0,6-2,232.0,USC,QB,2,1.0,9.0,0.0,Commanders,2018
-63,75.0,Brandon Scherff,12/26/1991,27.0,6-5,315.0,Iowa,RG,8,8.0,3.0,3.0,Commanders,2018
-64,97.0,Tim Settle,7/11/1997,21.0,6-3,313.0,Virginia Tech,DT,16,0.0,0.0,1.0,Commanders,2018
-65,89.0,Cam Sims,1/6/1996,22.0,6-5,214.0,Alabama,WR,1,0.0,0.0,0.0,Commanders,2018
-66,11.0,Alex Smith,5/7/1984,34.0,6-4,213.0,Utah,QB,10,10.0,13.0,6.0,Commanders,2018
-67,48.0,Marcus Smith,3/31/1992,26.0,6-3,258.0,Louisville,LB,2,0.0,4.0,0.0,Commanders,2018
-68,94.0,Preston Smith,11/17/1992,26.0,6-5,265.0,Mississippi St.,LOLB,16,16.0,3.0,8.0,Commanders,2018
-69,87.0,Jeremy Sprinkle,8/10/1994,24.0,6-5,252.0,Arkansas,TE,16,9.0,1.0,0.0,Commanders,2018
-70,37.0,Greg Stroman,3/8/1996,22.0,5-11,180.0,Virginia Tech,DB,15,3.0,0.0,2.0,Commanders,2018
-71,57.0,Nick Sundberg,7/29/1987,31.0,6-1,254.0,California,LS,13,0.0,8.0,1.0,Commanders,2018
-72,36.0,D.J. Swearinger,9/1/1991,27.0,5-10,205.0,South Carolina,FS,15,15.0,5.0,6.0,Commanders,2018
-73,25.0,Chris Thompson,10/20/1990,28.0,5-8,195.0,Florida St.,RB,10,0.0,5.0,3.0,Commanders,2018
-74,56.0,Zach Vigil,3/28/1991,27.0,6-2,238.0,Utah St.,LB,14,0.0,3.0,1.0,Commanders,2018
-75,5.0,Tress Way,4/18/1990,28.0,6-1,220.0,Oklahoma,P,16,0.0,4.0,2.0,Commanders,2018
-76,71.0,Trent Williams,7/19/1988,30.0,6-5,320.0,Oklahoma,LT,13,13.0,8.0,7.0,Commanders,2018
-77,,Team Total,,26.4,6-2.1,245.8,,,16,,3.4,,Commanders,2018
+No.,Player,BirthDate,Age,Height,Weight,College/University,Position,Games_Played_in_Season,Games_Started_in_Season,NFL_Years,Player_Value,Team,Year
+39.0,Adonis Alexander,11/7/1996,22.0,6-3,205.0,Virginia Tech,DB,9,0.0,0.0,1.0,Commanders,2018
+93.0,Jonathan Allen,1/16/1995,23.0,6-3,300.0,Alabama,LDE,16,16.0,1.0,8.0,Commanders,2018
+52.0,Ryan Anderson,8/12/1994,24.0,6-2,255.0,Alabama,LB,13,0.0,1.0,1.0,Commanders,2018
+30.0,Troy Apke,4/11/1995,23.0,6-1,205.0,Penn St.,DB,2,0.0,0.0,0.0,Commanders,2018
+66.0,Tony Bergstrom,8/8/1986,32.0,6-5,310.0,Utah,RG,13,8.0,6.0,4.0,Commanders,2018
+46.0,Kapri Bibbs,1/10/1993,25.0,5-10,203.0,"Snow College (UT),Colorado St.",RB,10,0.0,3.0,1.0,Commanders,2018
+69.0,Luke Bowanko,6/13/1991,27.0,6-6,300.0,Virginia,C,7,3.0,4.0,2.0,Commanders,2018
+99.0,Caleb Brantley,9/2/1994,24.0,6-2,305.0,Florida,DT,7,0.0,1.0,0.0,Commanders,2018
+53.0,Zach Brown,10/23/1989,29.0,6-1,250.0,North Carolina,LILB,16,12.0,6.0,6.0,Commanders,2018
+36.0,Alex Carter,10/19/1994,24.0,6-0,201.0,Stanford,DB,1,0.0,2.0,0.0,Commanders,2018
+16.0,Jehu Chesson,12/29/1993,25.0,6-2,204.0,Michigan,WR,12,0.0,1.0,0.0,Commanders,2018
+74.0,Geron Christian,9/10/1996,22.0,6-5,320.0,Louisville,T,2,0.0,0.0,0.0,Commanders,2018
+20.0,Ha Ha Clinton-Dix,12/21/1992,26.0,6-1,211.0,Alabama,SS,9,9.0,4.0,3.0,Commanders,2018
+72.0,Jonathan Cooper,1/19/1990,28.0,6-2,308.0,North Carolina,G,4,4.0,4.0,2.0,Commanders,2018
+80.0,Jamison Crowder,6/17/1993,25.0,5-9,177.0,Duke,WR,9,7.0,3.0,3.0,Commanders,2018
+85.0,Vernon Davis,1/31/1984,34.0,6-3,248.0,Maryland,TE,14,8.0,12.0,3.0,Commanders,2018
+18.0,Josh Doctson,12/3/1992,26.0,6-2,205.0,"TCU,Wyoming",WR,15,12.0,2.0,4.0,Commanders,2018
+23.0,Quinton Dunbar,7/22/1992,26.0,6-2,202.0,Florida,LCB,7,6.0,3.0,3.0,Commanders,2018
+55.0,Casey Dunn,10/11/1994,24.0,6-4,307.0,Auburn,C,2,0.0,0.0,0.0,Commanders,2018
+55.0,Andrew East,9/17/1991,27.0,6-2,220.0,Vanderbilt,C,3,0.0,0.0,0.0,Commanders,2018
+22.0,Deshazor Everett,2/22/1992,26.0,6-0,203.0,Texas A&M,DB,16,3.0,3.0,2.0,Commanders,2018
+88.0,Matt Flanagan,3/26/1995,23.0,6-6,260.0,Pittsburgh,TE,3,1.0,0.0,0.0,Commanders,2018
+17.0,Michael Floyd,11/27/1989,29.0,6-3,220.0,Notre Dame,WR,13,3.0,6.0,1.0,Commanders,2018
+54.0,Mason Foster,3/1/1989,29.0,6-1,240.0,Washington,RILB,16,16.0,7.0,9.0,Commanders,2018
+62.0,Kyle Fuller,3/4/1994,24.0,6-5,320.0,Baylor,C,2,0.0,1.0,0.0,Commanders,2018
+51.0,Shaun Dion Hamilton,9/11/1995,23.0,6-0,235.0,Alabama,LB,16,4.0,0.0,3.0,Commanders,2018
+13.0,Maurice Harris,11/11/1992,26.0,6-3,205.0,California,WR,12,7.0,2.0,2.0,Commanders,2018
+40.0,Josh Harvey-Clemons,2/20/1994,24.0,6-4,245.0,Louisville,DB,16,0.0,1.0,2.0,Commanders,2018
+38.0,Joshua Holsey,6/25/1994,24.0,5-11,195.0,Auburn,DB,1,0.0,1.0,0.0,Commanders,2018
+90.0,Evander Hood,2/16/1987,31.0,6-3,305.0,Missouri,DE,5,0.0,9.0,0.0,Commanders,2018
+3.0,Dustin Hopkins,10/1/1990,28.0,6-2,193.0,Florida St.,K,16,0.0,3.0,5.0,Commanders,2018
+78.0,Austin Howard,3/22/1987,31.0,6-7,330.0,Northern Iowa,T,5,1.0,8.0,1.0,Commanders,2018
+98.0,Matthew Ioannidis,1/11/1994,24.0,6-3,310.0,Temple,RDE/NT,14,9.0,2.0,5.0,Commanders,2018
+41.0,Danny Johnson,11/17/1995,23.0,5-9,190.0,Southern,DB,14,1.0,0.0,1.0,Commanders,2018
+8.0,Josh Johnson,5/15/1986,32.0,6-3,214.0,San Diego,QB,4,3.0,9.0,2.0,Commanders,2018
+20.0,Robert Kelley,10/3/1992,26.0,6-0,229.0,Tulane,RB,2,0.0,2.0,0.0,Commanders,2018
+67.0,Zac Kerin,8/13/1991,27.0,6-5,305.0,Toledo,C,2,1.0,3.0,0.0,Commanders,2018
+91.0,Ryan Kerrigan,8/16/1988,30.0,6-4,267.0,Purdue,ROLB,16,16.0,7.0,10.0,Commanders,2018
+84.0,Darvin Kidsy,3/19/1995,23.0,6-0,180.0,Texas Southern,WR,2,0.0,0.0,0.0,Commanders,2018
+48.0,Kenny Ladler,6/23/1992,26.0,6-1,200.0,Vanderbilt,DB,5,0.0,4.0,0.0,Commanders,2018
+77.0,Shawn Lauvao,10/26/1987,31.0,6-3,308.0,Arizona St.,LG,5,5.0,8.0,2.0,Commanders,2018
+34.0,Byron Marshall,2/13/1994,24.0,5-9,225.0,Oregon,RB,6,0.0,2.0,0.0,Commanders,2018
+12.0,Colt McCoy,9/5/1986,32.0,6-1,212.0,Texas,QB,3,2.0,8.0,1.0,Commanders,2018
+92.0,Stacy McGee,1/17/1990,28.0,6-3,339.0,Oklahoma,DT,8,1.0,5.0,1.0,Commanders,2018
+58.0,Cassanova McKinzy,11/17/1992,26.0,6-3,252.0,Auburn,LB,3,0.0,0.0,0.0,Commanders,2018
+96.0,Pernell McPhee,12/17/1988,30.0,6-3,265.0,Mississippi St.,DE,13,0.0,7.0,1.0,Commanders,2018
+48.0,Harlan Miller,6/20/1994,24.0,6-0,182.0,Southeastern Louisiana,DB,2,0.0,2.0,0.0,Commanders,2018
+31.0,Fabian Moreau,4/9/1994,24.0,6-0,198.0,UCLA,LCB,16,10.0,1.0,4.0,Commanders,2018
+76.0,Morgan Moses,3/3/1991,27.0,6-6,320.0,Virginia,RT,16,16.0,4.0,7.0,Commanders,2018
+35.0,Montae Nicholson,12/4/1995,23.0,6-2,212.0,Michigan St.,SS,14,7.0,1.0,3.0,Commanders,2018
+24.0,Josh Norman,12/15/1987,31.0,6-0,195.0,Coastal Carolina,RCB,16,16.0,6.0,6.0,Commanders,2018
+79.0,Ty Nsekhe,10/27/1985,33.0,6-8,325.0,Texas St.,LT,14,5.0,6.0,3.0,Commanders,2018
+61.0,Timon Parris,9/11/1995,23.0,6-6,315.0,Stony Brook,T,1,0.0,0.0,0.0,Commanders,2018
+95.0,Daron Payne,5/27/1997,21.0,6-3,320.0,Alabama,NT,16,16.0,0.0,8.0,Commanders,2018
+32.0,Samaje Perine,9/16/1995,23.0,5-10,236.0,Oklahoma,RB,5,0.0,1.0,0.0,Commanders,2018
+26.0,Adrian Peterson,3/21/1985,33.0,6-1,220.0,Oklahoma,RB,16,16.0,11.0,7.0,Commanders,2018
+83.0,Brian Quick,6/5/1989,29.0,6-3,215.0,Appalachian St.,WR,6,3.0,6.0,0.0,Commanders,2018
+14.0,Trey Quinn,12/7/1995,23.0,6-0,200.0,"LSU,SMU",WR,3,2.0,0.0,1.0,Commanders,2018
+45.0,Jeremy Reaves,8/29/1996,22.0,5-11,200.0,South Alabama,DB,2,0.0,0.0,0.0,Commanders,2018
+86.0,Jordan Reed,7/3/1990,28.0,6-2,242.0,Florida,TE,13,8.0,5.0,4.0,Commanders,2018
+10.0,Paul Richardson,4/13/1992,26.0,6-0,180.0,Colorado,WR,7,4.0,4.0,2.0,Commanders,2018
+73.0,Chase Roullier,8/23/1993,25.0,6-4,312.0,Wyoming,C,16,16.0,1.0,7.0,Commanders,2018
+6.0,Mark Sanchez,11/11/1986,32.0,6-2,232.0,USC,QB,2,1.0,9.0,0.0,Commanders,2018
+75.0,Brandon Scherff,12/26/1991,27.0,6-5,315.0,Iowa,RG,8,8.0,3.0,3.0,Commanders,2018
+97.0,Tim Settle,7/11/1997,21.0,6-3,313.0,Virginia Tech,DT,16,0.0,0.0,1.0,Commanders,2018
+89.0,Cam Sims,1/6/1996,22.0,6-5,214.0,Alabama,WR,1,0.0,0.0,0.0,Commanders,2018
+11.0,Alex Smith,5/7/1984,34.0,6-4,213.0,Utah,QB,10,10.0,13.0,6.0,Commanders,2018
+48.0,Marcus Smith,3/31/1992,26.0,6-3,258.0,Louisville,LB,2,0.0,4.0,0.0,Commanders,2018
+94.0,Preston Smith,11/17/1992,26.0,6-5,265.0,Mississippi St.,LOLB,16,16.0,3.0,8.0,Commanders,2018
+87.0,Jeremy Sprinkle,8/10/1994,24.0,6-5,252.0,Arkansas,TE,16,9.0,1.0,0.0,Commanders,2018
+37.0,Greg Stroman,3/8/1996,22.0,5-11,180.0,Virginia Tech,DB,15,3.0,0.0,2.0,Commanders,2018
+57.0,Nick Sundberg,7/29/1987,31.0,6-1,254.0,California,LS,13,0.0,8.0,1.0,Commanders,2018
+36.0,D.J. Swearinger,9/1/1991,27.0,5-10,205.0,South Carolina,FS,15,15.0,5.0,6.0,Commanders,2018
+25.0,Chris Thompson,10/20/1990,28.0,5-8,195.0,Florida St.,RB,10,0.0,5.0,3.0,Commanders,2018
+56.0,Zach Vigil,3/28/1991,27.0,6-2,238.0,Utah St.,LB,14,0.0,3.0,1.0,Commanders,2018
+5.0,Tress Way,4/18/1990,28.0,6-1,220.0,Oklahoma,P,16,0.0,4.0,2.0,Commanders,2018
+71.0,Trent Williams,7/19/1988,30.0,6-5,320.0,Oklahoma,LT,13,13.0,8.0,7.0,Commanders,2018
+,Team Total,,26.4,6-2.1,245.8,,,16,,3.4,,Commanders,2018

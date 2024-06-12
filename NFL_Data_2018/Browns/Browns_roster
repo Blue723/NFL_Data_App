@@ -1,66 +1,66 @@
-,No.,Player,BirthDate,Age,Height,Weight,College/University,Position,Games_Played_in_Season,Games_Started_in_Season,NFL_Years,Player_Value,Team,Year
-0,52.0,Ray-Ray Armstrong,3/5/1991,27.0,6-3,220.0,Miami (FL),DB,9,0.0,5.0,1.0,Browns,2018
-1,55.0,Genard Avery,4/26/1995,23.0,6-0,250.0,Memphis,LLB,16,5.0,0.0,4.0,Browns,2018
-2,75.0,Joel Bitonio,10/11/1991,27.0,6-4,320.0,Nevada,LG,16,16.0,4.0,11.0,Browns,2018
-3,20.0,Briean Boddy-Calhoun,1/21/1993,25.0,5-9,193.0,Minnesota,DB,16,8.0,2.0,3.0,Browns,2018
-4,52.0,James Burgess,3/9/1994,24.0,6-0,230.0,Louisville,LB,3,2.0,1.0,1.0,Browns,2018
-5,31.0,Juston Burris,8/4/1993,25.0,6-0,210.0,North Carolina St.,DB,4,0.0,2.0,0.0,Browns,2018
-6,11.0,Antonio Callaway,1/9/1997,21.0,5-11,200.0,Florida,WR,16,11.0,0.0,4.0,Browns,2018
-7,38.0,T.J. Carrie,7/28/1990,28.0,6-0,204.0,Ohio,RCB,16,8.0,4.0,4.0,Browns,2018
-8,82.0,Orson Charles,1/27/1991,27.0,6-3,257.0,Georgia,TE,13,2.0,6.0,0.0,Browns,2018
-9,24.0,Nick Chubb,12/27/1995,23.0,5-11,227.0,Georgia,RB,16,9.0,0.0,6.0,Browns,2018
-10,93.0,Trevon Coley,7/13/1994,24.0,6-1,310.0,Florida Atlantic,RDT,16,14.0,1.0,7.0,Browns,2018
-11,51.0,Jamie Collins,10/20/1989,29.0,6-3,255.0,Southern Miss,RLB,16,16.0,5.0,9.0,Browns,2018
-12,4.0,Britton Colquitt,3/20/1985,33.0,6-3,210.0,Tennessee,P,16,0.0,8.0,2.0,Browns,2018
-13,63.0,Austin Corbett,9/5/1995,23.0,6-4,305.0,Nevada,G,11,1.0,0.0,1.0,Browns,2018
-14,94.0,Carl Davis,3/2/1992,26.0,6-5,335.0,Iowa,DT,5,0.0,3.0,0.0,Browns,2018
-15,87.0,Seth Devalve,1/29/1993,25.0,6-3,245.0,Princeton,TE,13,4.0,2.0,1.0,Browns,2018
-16,88.0,Darren Fells,4/22/1986,32.0,6-7,270.0,UC Irvine,TE,16,11.0,4.0,1.0,Browns,2018
-17,28.0,E.J. Gaines,2/23/1992,26.0,5-10,190.0,Missouri,DB,6,2.0,4.0,1.0,Browns,2018
-18,33.0,Phillip Gaines,4/4/1991,27.0,6-0,193.0,Rice,DB,4,0.0,4.0,0.0,Browns,2018
-19,95.0,Myles Garrett,12/29/1995,23.0,6-4,272.0,Texas A&M,LDE,16,16.0,1.0,14.0,Browns,2018
-20,2.0,Zane Gonzalez,5/7/1995,23.0,6-0,202.0,Arizona St.,K,2,0.0,1.0,-1.0,Browns,2018
-21,12.0,Josh Gordon,4/13/1991,27.0,6-3,225.0,"Utah,Baylor",WR,1,1.0,6.0,0.0,Browns,2018
-22,69.0,Desmond Harrison,10/8/1993,25.0,6-6,295.0,West Georgia,LT,8,8.0,0.0,3.0,Browns,2018
-23,81.0,Rashard Higgins,10/7/1994,24.0,6-1,198.0,Colorado St.,WR,13,1.0,2.0,4.0,Browns,2018
-24,25.0,Dontrell Hilliard,2/26/1995,23.0,5-11,202.0,Tulane,RB,11,0.0,0.0,1.0,Browns,2018
-25,59.0,D'Juan Hines,9/13/1994,24.0,6-1,235.0,Houston,LB,13,0.0,0.0,1.0,Browns,2018
-26,74.0,Chris Hubbard,4/23/1991,27.0,6-4,295.0,Ala-Birmingham,RT,16,16.0,4.0,7.0,Browns,2018
-27,47.0,Charley Hughlett,5/16/1990,28.0,6-4,248.0,Central Florida,LS,16,0.0,3.0,1.0,Browns,2018
-28,34.0,Carlos Hyde,9/20/1990,28.0,6-0,229.0,Ohio St.,RB,6,5.0,4.0,2.0,Browns,2018
-29,29.0,Duke Johnson,9/23/1993,25.0,5-9,210.0,Miami (FL),RB,16,2.0,3.0,4.0,Browns,2018
-30,17.0,Greg Joseph,8/4/1994,24.0,6-0,206.0,Florida Atlantic,K,14,0.0,0.0,2.0,Browns,2018
-31,68.0,Kyle Kalis,12/21/1993,25.0,6-4,306.0,Michigan,G,3,0.0,1.0,0.0,Browns,2018
-32,26.0,Derrick Kindred,12/15/1993,25.0,5-10,208.0,TCU,DB,16,2.0,2.0,2.0,Browns,2018
-33,58.0,Christian Kirksey,8/31/1992,26.0,6-2,235.0,Iowa,LLB,7,7.0,4.0,4.0,Browns,2018
-34,80.0,Jarvis Landry,11/28/1992,26.0,5-11,196.0,LSU,WR,16,14.0,4.0,8.0,Browns,2018
-35,99.0,Devaroe Lawrence,10/13/1992,26.0,6-2,295.0,Auburn,DT,1,0.0,0.0,0.0,Browns,2018
-36,6.0,Baker Mayfield,4/14/1995,23.0,6-1,215.0,Oklahoma,QB,14,13.0,0.0,10.0,Browns,2018
-37,36.0,Jeremiah McKinnon,6/29/1993,25.0,5-11,192.0,Florida International,DB,1,0.0,0.0,0.0,Browns,2018
-38,39.0,Terrance Mitchell,5/17/1992,26.0,5-11,191.0,Oregon,RCB,8,7.0,3.0,3.0,Browns,2018
-39,85.0,David Njoku,7/10/1996,22.0,6-4,246.0,Miami (FL),TE,16,14.0,1.0,5.0,Browns,2018
-40,90.0,Emmanuel Ogbah,11/6/1993,25.0,6-4,275.0,Oklahoma St.,RDE,14,14.0,2.0,7.0,Browns,2018
-41,65.0,Larry Ogunjobi,6/3/1994,24.0,6-3,305.0,Charlotte,LDT,16,16.0,1.0,8.0,Browns,2018
-42,22.0,Jabrill Peppers,10/4/1995,23.0,5-11,217.0,Michigan,FS,16,16.0,1.0,7.0,Browns,2018
-43,19.0,Breshad Perriman,9/10/1993,25.0,6-2,215.0,Central Florida,WR,10,2.0,2.0,2.0,Browns,2018
-44,91.0,Brian Price,6/24/1994,24.0,6-3,322.0,"City College of San Francisco,Texas-San Antonio",DT,12,0.0,2.0,1.0,Browns,2018
-45,23.0,Damarious Randall,8/29/1992,26.0,5-11,196.0,"Butler (KS),Arizona St.",SS,15,15.0,3.0,6.0,Browns,2018
-46,18.0,Damion Ratley,4/16/1995,23.0,6-2,200.0,Texas A&M,WR,13,3.0,0.0,1.0,Browns,2018
-47,37.0,Denzel Rice,3/31/1993,25.0,6-0,185.0,Coastal Carolina,DB,8,0.0,3.0,1.0,Browns,2018
-48,78.0,Greg Robinson,10/21/1992,26.0,6-5,330.0,Auburn,LT,16,8.0,4.0,4.0,Browns,2018
-49,53.0,Joe Schobert,11/6/1993,25.0,6-1,240.0,Wisconsin,MLB,13,13.0,2.0,7.0,Browns,2018
-50,50.0,Chris Smith,2/11/1992,26.0,6-1,266.0,Arkansas,DE,16,2.0,4.0,2.0,Browns,2018
-51,13.0,Rod Streater,2/9/1988,30.0,6-2,195.0,Temple,WR,3,0.0,6.0,0.0,Browns,2018
-52,5.0,Tyrod Taylor,8/3/1989,29.0,6-1,217.0,Virginia Tech,QB,4,3.0,7.0,2.0,Browns,2018
-53,92.0,Chad Thomas,10/12/1995,23.0,6-5,278.0,Miami (FL),DE,4,0.0,0.0,0.0,Browns,2018
-54,27.0,Tavierre Thomas,3/11/1996,22.0,5-10,205.0,Ferris St.,DB,13,0.0,0.0,1.0,Browns,2018
-55,64.0,J.C. Tretter,2/12/1991,27.0,6-4,307.0,Cornell,C,16,16.0,4.0,7.0,Browns,2018
-56,54.0,Tanner Vallejo,12/16/1994,24.0,6-1,230.0,Boise St.,LB,13,1.0,1.0,2.0,Browns,2018
-57,21.0,Denzel Ward,4/28/1997,21.0,5-11,190.0,Ohio St.,LCB,13,12.0,0.0,8.0,Browns,2018
-58,71.0,Earl Watford,6/24/1990,28.0,6-3,300.0,James Madison,G,13,0.0,4.0,1.0,Browns,2018
-59,35.0,Jermaine Whitehead,3/12/1993,25.0,5-11,195.0,Auburn,DB,7,0.0,2.0,0.0,Browns,2018
-60,84.0,Derrick Willies,10/12/1994,24.0,6-4,207.0,Texas Tech,WR,5,0.0,0.0,0.0,Browns,2018
-61,56.0,Xavier Woodson-Luster,8/6/1995,23.0,6-1,220.0,Arkansas St.,LB,4,0.0,1.0,0.0,Browns,2018
-62,70.0,Kevin Zeitler,3/8/1990,28.0,6-4,340.0,Wisconsin,RG,16,16.0,6.0,7.0,Browns,2018
-63,97.0,Anthony Zettel,8/9/1992,26.0,6-4,275.0,Penn St.,DE,15,0.0,2.0,1.0,Browns,2018
-64,,Team Total,,25.3,6-1.6,241.2,,,16,,2.4,,Browns,2018
+No.,Player,BirthDate,Age,Height,Weight,College/University,Position,Games_Played_in_Season,Games_Started_in_Season,NFL_Years,Player_Value,Team,Year
+52.0,Ray-Ray Armstrong,3/5/1991,27.0,6-3,220.0,Miami (FL),DB,9,0.0,5.0,1.0,Browns,2018
+55.0,Genard Avery,4/26/1995,23.0,6-0,250.0,Memphis,LLB,16,5.0,0.0,4.0,Browns,2018
+75.0,Joel Bitonio,10/11/1991,27.0,6-4,320.0,Nevada,LG,16,16.0,4.0,11.0,Browns,2018
+20.0,Briean Boddy-Calhoun,1/21/1993,25.0,5-9,193.0,Minnesota,DB,16,8.0,2.0,3.0,Browns,2018
+52.0,James Burgess,3/9/1994,24.0,6-0,230.0,Louisville,LB,3,2.0,1.0,1.0,Browns,2018
+31.0,Juston Burris,8/4/1993,25.0,6-0,210.0,North Carolina St.,DB,4,0.0,2.0,0.0,Browns,2018
+11.0,Antonio Callaway,1/9/1997,21.0,5-11,200.0,Florida,WR,16,11.0,0.0,4.0,Browns,2018
+38.0,T.J. Carrie,7/28/1990,28.0,6-0,204.0,Ohio,RCB,16,8.0,4.0,4.0,Browns,2018
+82.0,Orson Charles,1/27/1991,27.0,6-3,257.0,Georgia,TE,13,2.0,6.0,0.0,Browns,2018
+24.0,Nick Chubb,12/27/1995,23.0,5-11,227.0,Georgia,RB,16,9.0,0.0,6.0,Browns,2018
+93.0,Trevon Coley,7/13/1994,24.0,6-1,310.0,Florida Atlantic,RDT,16,14.0,1.0,7.0,Browns,2018
+51.0,Jamie Collins,10/20/1989,29.0,6-3,255.0,Southern Miss,RLB,16,16.0,5.0,9.0,Browns,2018
+4.0,Britton Colquitt,3/20/1985,33.0,6-3,210.0,Tennessee,P,16,0.0,8.0,2.0,Browns,2018
+63.0,Austin Corbett,9/5/1995,23.0,6-4,305.0,Nevada,G,11,1.0,0.0,1.0,Browns,2018
+94.0,Carl Davis,3/2/1992,26.0,6-5,335.0,Iowa,DT,5,0.0,3.0,0.0,Browns,2018
+87.0,Seth Devalve,1/29/1993,25.0,6-3,245.0,Princeton,TE,13,4.0,2.0,1.0,Browns,2018
+88.0,Darren Fells,4/22/1986,32.0,6-7,270.0,UC Irvine,TE,16,11.0,4.0,1.0,Browns,2018
+28.0,E.J. Gaines,2/23/1992,26.0,5-10,190.0,Missouri,DB,6,2.0,4.0,1.0,Browns,2018
+33.0,Phillip Gaines,4/4/1991,27.0,6-0,193.0,Rice,DB,4,0.0,4.0,0.0,Browns,2018
+95.0,Myles Garrett,12/29/1995,23.0,6-4,272.0,Texas A&M,LDE,16,16.0,1.0,14.0,Browns,2018
+2.0,Zane Gonzalez,5/7/1995,23.0,6-0,202.0,Arizona St.,K,2,0.0,1.0,-1.0,Browns,2018
+12.0,Josh Gordon,4/13/1991,27.0,6-3,225.0,"Utah,Baylor",WR,1,1.0,6.0,0.0,Browns,2018
+69.0,Desmond Harrison,10/8/1993,25.0,6-6,295.0,West Georgia,LT,8,8.0,0.0,3.0,Browns,2018
+81.0,Rashard Higgins,10/7/1994,24.0,6-1,198.0,Colorado St.,WR,13,1.0,2.0,4.0,Browns,2018
+25.0,Dontrell Hilliard,2/26/1995,23.0,5-11,202.0,Tulane,RB,11,0.0,0.0,1.0,Browns,2018
+59.0,D'Juan Hines,9/13/1994,24.0,6-1,235.0,Houston,LB,13,0.0,0.0,1.0,Browns,2018
+74.0,Chris Hubbard,4/23/1991,27.0,6-4,295.0,Ala-Birmingham,RT,16,16.0,4.0,7.0,Browns,2018
+47.0,Charley Hughlett,5/16/1990,28.0,6-4,248.0,Central Florida,LS,16,0.0,3.0,1.0,Browns,2018
+34.0,Carlos Hyde,9/20/1990,28.0,6-0,229.0,Ohio St.,RB,6,5.0,4.0,2.0,Browns,2018
+29.0,Duke Johnson,9/23/1993,25.0,5-9,210.0,Miami (FL),RB,16,2.0,3.0,4.0,Browns,2018
+17.0,Greg Joseph,8/4/1994,24.0,6-0,206.0,Florida Atlantic,K,14,0.0,0.0,2.0,Browns,2018
+68.0,Kyle Kalis,12/21/1993,25.0,6-4,306.0,Michigan,G,3,0.0,1.0,0.0,Browns,2018
+26.0,Derrick Kindred,12/15/1993,25.0,5-10,208.0,TCU,DB,16,2.0,2.0,2.0,Browns,2018
+58.0,Christian Kirksey,8/31/1992,26.0,6-2,235.0,Iowa,LLB,7,7.0,4.0,4.0,Browns,2018
+80.0,Jarvis Landry,11/28/1992,26.0,5-11,196.0,LSU,WR,16,14.0,4.0,8.0,Browns,2018
+99.0,Devaroe Lawrence,10/13/1992,26.0,6-2,295.0,Auburn,DT,1,0.0,0.0,0.0,Browns,2018
+6.0,Baker Mayfield,4/14/1995,23.0,6-1,215.0,Oklahoma,QB,14,13.0,0.0,10.0,Browns,2018
+36.0,Jeremiah McKinnon,6/29/1993,25.0,5-11,192.0,Florida International,DB,1,0.0,0.0,0.0,Browns,2018
+39.0,Terrance Mitchell,5/17/1992,26.0,5-11,191.0,Oregon,RCB,8,7.0,3.0,3.0,Browns,2018
+85.0,David Njoku,7/10/1996,22.0,6-4,246.0,Miami (FL),TE,16,14.0,1.0,5.0,Browns,2018
+90.0,Emmanuel Ogbah,11/6/1993,25.0,6-4,275.0,Oklahoma St.,RDE,14,14.0,2.0,7.0,Browns,2018
+65.0,Larry Ogunjobi,6/3/1994,24.0,6-3,305.0,Charlotte,LDT,16,16.0,1.0,8.0,Browns,2018
+22.0,Jabrill Peppers,10/4/1995,23.0,5-11,217.0,Michigan,FS,16,16.0,1.0,7.0,Browns,2018
+19.0,Breshad Perriman,9/10/1993,25.0,6-2,215.0,Central Florida,WR,10,2.0,2.0,2.0,Browns,2018
+91.0,Brian Price,6/24/1994,24.0,6-3,322.0,"City College of San Francisco,Texas-San Antonio",DT,12,0.0,2.0,1.0,Browns,2018
+23.0,Damarious Randall,8/29/1992,26.0,5-11,196.0,"Butler (KS),Arizona St.",SS,15,15.0,3.0,6.0,Browns,2018
+18.0,Damion Ratley,4/16/1995,23.0,6-2,200.0,Texas A&M,WR,13,3.0,0.0,1.0,Browns,2018
+37.0,Denzel Rice,3/31/1993,25.0,6-0,185.0,Coastal Carolina,DB,8,0.0,3.0,1.0,Browns,2018
+78.0,Greg Robinson,10/21/1992,26.0,6-5,330.0,Auburn,LT,16,8.0,4.0,4.0,Browns,2018
+53.0,Joe Schobert,11/6/1993,25.0,6-1,240.0,Wisconsin,MLB,13,13.0,2.0,7.0,Browns,2018
+50.0,Chris Smith,2/11/1992,26.0,6-1,266.0,Arkansas,DE,16,2.0,4.0,2.0,Browns,2018
+13.0,Rod Streater,2/9/1988,30.0,6-2,195.0,Temple,WR,3,0.0,6.0,0.0,Browns,2018
+5.0,Tyrod Taylor,8/3/1989,29.0,6-1,217.0,Virginia Tech,QB,4,3.0,7.0,2.0,Browns,2018
+92.0,Chad Thomas,10/12/1995,23.0,6-5,278.0,Miami (FL),DE,4,0.0,0.0,0.0,Browns,2018
+27.0,Tavierre Thomas,3/11/1996,22.0,5-10,205.0,Ferris St.,DB,13,0.0,0.0,1.0,Browns,2018
+64.0,J.C. Tretter,2/12/1991,27.0,6-4,307.0,Cornell,C,16,16.0,4.0,7.0,Browns,2018
+54.0,Tanner Vallejo,12/16/1994,24.0,6-1,230.0,Boise St.,LB,13,1.0,1.0,2.0,Browns,2018
+21.0,Denzel Ward,4/28/1997,21.0,5-11,190.0,Ohio St.,LCB,13,12.0,0.0,8.0,Browns,2018
+71.0,Earl Watford,6/24/1990,28.0,6-3,300.0,James Madison,G,13,0.0,4.0,1.0,Browns,2018
+35.0,Jermaine Whitehead,3/12/1993,25.0,5-11,195.0,Auburn,DB,7,0.0,2.0,0.0,Browns,2018
+84.0,Derrick Willies,10/12/1994,24.0,6-4,207.0,Texas Tech,WR,5,0.0,0.0,0.0,Browns,2018
+56.0,Xavier Woodson-Luster,8/6/1995,23.0,6-1,220.0,Arkansas St.,LB,4,0.0,1.0,0.0,Browns,2018
+70.0,Kevin Zeitler,3/8/1990,28.0,6-4,340.0,Wisconsin,RG,16,16.0,6.0,7.0,Browns,2018
+97.0,Anthony Zettel,8/9/1992,26.0,6-4,275.0,Penn St.,DE,15,0.0,2.0,1.0,Browns,2018
+,Team Total,,25.3,6-1.6,241.2,,,16,,2.4,,Browns,2018

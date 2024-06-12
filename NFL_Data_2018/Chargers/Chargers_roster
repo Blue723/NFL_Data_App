@@ -1,66 +1,66 @@
-,No.,Player,BirthDate,Age,Height,Weight,College/University,Position,Games_Played_in_Season,Games_Started_in_Season,NFL_Years,Player_Value,Team,Year
-0,37.0,Jahleel Addae,1/24/1990,28.0,5-10,195.0,Central Michigan,SS,16,16.0,5.0,6.0,Chargers,2018
-1,13.0,Keenan Allen,4/27/1992,26.0,6-2,211.0,California,WR,16,14.0,5.0,12.0,Chargers,2018
-2,4.0,Michael Badgley,7/28/1995,23.0,5-10,188.0,Miami (FL),K,10,0.0,0.0,3.0,Chargers,2018
-3,72.0,Joe Barksdale,1/4/1988,30.0,6-5,326.0,LSU,T,6,1.0,7.0,1.0,Chargers,2018
-4,12.0,Travis Benjamin,12/29/1989,29.0,5-10,175.0,Miami (FL),WR,12,3.0,6.0,2.0,Chargers,2018
-5,99.0,Joey Bosa,7/11/1995,23.0,6-5,280.0,Ohio St.,LDE,7,6.0,2.0,4.0,Chargers,2018
-6,57.0,Jatavis Brown,2/18/1994,24.0,5-11,221.0,Akron,LLB,15,10.0,2.0,5.0,Chargers,2018
-7,,Sean Culkin,6/11/1993,25.0,6-5,255.0,Missouri,TE,13,10.0,1.0,0.0,Chargers,2018
-8,11.0,Geremy Davis,1/10/1992,26.0,6-3,211.0,Connecticut,WR,14,0.0,3.0,0.0,Chargers,2018
-9,,Michael Davis,1/6/1995,23.0,6-2,196.0,BYU,LCB,16,9.0,1.0,3.0,Chargers,2018
-10,48.0,Nick Dzubnar,8/15/1991,27.0,6-1,240.0,Cal Poly-San Luis Obispo,LB,16,0.0,3.0,1.0,Chargers,2018
-11,,Austin Ekeler,5/17/1995,23.0,5-10,200.0,Western St. (CO),RB,14,3.0,1.0,8.0,Chargers,2018
-12,56.0,Emmanuel Ellerbee,11/20/1996,22.0,6-1,235.0,Rice,LB,3,0.0,0.0,0.0,Chargers,2018
-13,51.0,Kyle Emanuel,8/16/1991,27.0,6-3,250.0,North Dakota St.,RLB,16,7.0,3.0,4.0,Chargers,2018
-14,36.0,Brandon Facyson,9/8/1994,24.0,6-2,197.0,Virginia Tech,DB,15,0.0,0.0,1.0,Chargers,2018
-15,,Dan Feeney,5/29/1994,24.0,6-4,310.0,Indiana,LG,16,16.0,1.0,9.0,Chargers,2018
-16,85.0,Antonio Gates,6/18/1980,38.0,6-4,255.0,Kent St.,TE,16,1.0,15.0,3.0,Chargers,2018
-17,28.0,Melvin Gordon,4/13/1993,25.0,6-1,215.0,Wisconsin,RB,12,12.0,3.0,11.0,Chargers,2018
-18,88.0,Virgil Green,8/3/1988,30.0,6-5,255.0,Nevada,TE,16,16.0,7.0,2.0,Chargers,2018
-19,26.0,Casey Hayward,9/9/1989,29.0,5-11,192.0,Vanderbilt,RCB,16,16.0,6.0,5.0,Chargers,2018
-20,86.0,Hunter Henry,12/7/1994,24.0,6-5,258.0,Arkansas,TE,0,0.0,2.0,0.0,Chargers,2018
-21,54.0,Melvin Ingram,4/26/1989,29.0,6-2,247.0,South Carolina,RDE,16,16.0,6.0,11.0,Chargers,2018
-22,32.0,Justin Jackson,4/22/1996,22.0,6-0,200.0,Northwestern,RB,13,1.0,0.0,3.0,Chargers,2018
-23,33.0,Derwin James,8/3/1996,22.0,6-2,215.0,Florida St.,FS,16,16.0,0.0,10.0,Chargers,2018
-24,,Rayshawn Jenkins,1/25/1994,24.0,6-1,200.0,Miami (FL),DB,15,1.0,1.0,1.0,Chargers,2018
-25,58.0,Tre'von Johnson,2/10/1995,23.0,6-2,232.0,Weber St.,LB,4,0.0,0.0,0.0,Chargers,2018
-26,5.0,Donnie Jones,7/5/1980,38.0,6-2,221.0,LSU,P,12,0.0,14.0,1.0,Chargers,2018
-27,89.0,JJ Jones,12/6/1992,26.0,5-10,174.0,West Georgia,WR,3,0.0,0.0,0.0,Chargers,2018
-28,91.0,Justin Jones,8/28/1996,22.0,6-3,309.0,North Carolina St.,DT,15,0.0,0.0,1.0,Chargers,2018
-29,8.0,Drew Kaser,2/11/1993,25.0,6-2,206.0,Texas A&M,P,4,0.0,2.0,0.0,Chargers,2018
-30,,Desmond King,12/14/1994,24.0,5-10,200.0,Iowa,DB,16,8.0,1.0,9.0,Chargers,2018
-31,77.0,Forrest Lamp,2/20/1994,24.0,6-4,310.0,Western Kentucky,G,2,0.0,0.0,0.0,Chargers,2018
-32,46.0,Chris Landrum,9/14/1992,26.0,6-2,245.0,"Auburn,Jacksonville St.",LB,7,0.0,2.0,1.0,Chargers,2018
-33,94.0,Corey Liuget,3/18/1990,28.0,6-2,300.0,Illinois,DT,6,3.0,7.0,2.0,Chargers,2018
-34,29.0,Craig Mager,6/11/1992,26.0,5-11,200.0,Texas St.,DB,1,0.0,3.0,0.0,Chargers,2018
-35,95.0,T.Y. McGill,11/23/1992,26.0,6-0,295.0,North Carolina St.,DT,4,0.0,3.0,0.0,Chargers,2018
-36,92.0,Brandon Mebane,1/15/1985,33.0,6-1,311.0,California,RDT,12,12.0,11.0,6.0,Chargers,2018
-37,38.0,Detrez Newsome,3/6/1994,24.0,5-10,210.0,Western Carolina,RB,9,0.0,0.0,1.0,Chargers,2018
-38,42.0,Uchenna Nwosu,12/28/1996,22.0,6-2,251.0,USC,LB,16,3.0,0.0,3.0,Chargers,2018
-39,76.0,Russell Okung,10/7/1988,30.0,6-5,310.0,Oklahoma St.,LT,15,15.0,8.0,8.0,Chargers,2018
-40,52.0,Denzel Perryman,12/5/1992,26.0,5-11,240.0,Miami (FL),MLB,9,9.0,3.0,4.0,Chargers,2018
-41,31.0,Adrian Phillips,3/28/1992,26.0,5-11,208.0,Texas,DB,16,7.0,4.0,9.0,Chargers,2018
-42,93.0,Darius Philon,1/22/1994,24.0,6-1,286.0,Arkansas,LDT,16,13.0,3.0,6.0,Chargers,2018
-43,53.0,Mike Pouncey,7/24/1989,29.0,6-5,298.0,Florida,C,16,16.0,7.0,11.0,Chargers,2018
-44,50.0,Hayes Pullard,4/18/1992,26.0,6-0,235.0,USC,LB,9,0.0,3.0,1.0,Chargers,2018
-45,61.0,Scott Quessenberry,3/23/1995,23.0,6-3,310.0,UCLA,G,15,0.0,0.0,1.0,Chargers,2018
-46,29.0,Jeff Richards,1/3/1991,27.0,6-2,210.0,"NE Oklahoma A&M,Emporia St.",DB,6,0.0,0.0,0.0,Chargers,2018
-47,17.0,Philip Rivers,12/8/1981,37.0,6-5,228.0,North Carolina St.,QB,16,16.0,14.0,14.0,Chargers,2018
-48,,Isaac Rochell,4/22/1995,23.0,6-4,280.0,Notre Dame,DT,16,3.0,1.0,3.0,Chargers,2018
-49,6.0,Nick Rose,5/5/1994,24.0,6-2,200.0,Texas,K,0,0.0,1.0,0.0,Chargers,2018
-50,75.0,Michael Schofield,11/15/1990,28.0,6-6,301.0,Michigan,RG,16,16.0,3.0,9.0,Chargers,2018
-51,,Trenton Scott,1/25/1994,24.0,6-5,320.0,Grambling St.,T,9,1.0,0.0,1.0,Chargers,2018
-52,3.0,Geno Smith,10/10/1990,28.0,6-3,221.0,West Virginia,QB,5,0.0,5.0,0.0,Chargers,2018
-53,71.0,Damion Square,2/6/1989,29.0,6-2,293.0,Alabama,RDE/LDE,16,11.0,5.0,5.0,Chargers,2018
-54,6.0,Caleb Sturgis,8/9/1989,29.0,5-9,192.0,Florida,K,6,0.0,5.0,-1.0,Chargers,2018
-55,,Sam Tevi,11/15/1994,24.0,6-5,315.0,Utah,RT,16,15.0,1.0,8.0,Chargers,2018
-56,64.0,Cole Toner,3/13/1994,24.0,6-5,310.0,Harvard,T,1,0.0,2.0,0.0,Chargers,2018
-57,34.0,Derek Watt,11/7/1992,26.0,6-2,234.0,Wisconsin,FB,16,5.0,2.0,0.0,Chargers,2018
-58,,Kyzir White,3/24/1996,22.0,6-2,234.0,West Virginia,DB,3,3.0,0.0,3.0,Chargers,2018
-59,,Mike Williams,10/4/1994,24.0,6-4,218.0,Clemson,WR,16,5.0,1.0,6.0,Chargers,2018
-60,24.0,Trevor Williams,9/15/1993,25.0,5-11,191.0,Penn St.,LCB,9,7.0,2.0,3.0,Chargers,2018
-61,16.0,Tyrell Williams,2/12/1992,26.0,6-4,210.0,Western Oregon,WR,16,10.0,3.0,6.0,Chargers,2018
-62,,Kyle Wilson,11/2/1995,23.0,6-0,231.0,Arkansas St.,LB,3,0.0,0.0,0.0,Chargers,2018
-63,47.0,Mike Windt,5/29/1986,32.0,6-1,237.0,Cincinnati,LS,16,0.0,8.0,1.0,Chargers,2018
-64,,Team Total,,26.1,6-1.8,242.2,,,16,,3.2,,Chargers,2018
+No.,Player,BirthDate,Age,Height,Weight,College/University,Position,Games_Played_in_Season,Games_Started_in_Season,NFL_Years,Player_Value,Team,Year
+37.0,Jahleel Addae,1/24/1990,28.0,5-10,195.0,Central Michigan,SS,16,16.0,5.0,6.0,Chargers,2018
+13.0,Keenan Allen,4/27/1992,26.0,6-2,211.0,California,WR,16,14.0,5.0,12.0,Chargers,2018
+4.0,Michael Badgley,7/28/1995,23.0,5-10,188.0,Miami (FL),K,10,0.0,0.0,3.0,Chargers,2018
+72.0,Joe Barksdale,1/4/1988,30.0,6-5,326.0,LSU,T,6,1.0,7.0,1.0,Chargers,2018
+12.0,Travis Benjamin,12/29/1989,29.0,5-10,175.0,Miami (FL),WR,12,3.0,6.0,2.0,Chargers,2018
+99.0,Joey Bosa,7/11/1995,23.0,6-5,280.0,Ohio St.,LDE,7,6.0,2.0,4.0,Chargers,2018
+57.0,Jatavis Brown,2/18/1994,24.0,5-11,221.0,Akron,LLB,15,10.0,2.0,5.0,Chargers,2018
+,Sean Culkin,6/11/1993,25.0,6-5,255.0,Missouri,TE,13,10.0,1.0,0.0,Chargers,2018
+11.0,Geremy Davis,1/10/1992,26.0,6-3,211.0,Connecticut,WR,14,0.0,3.0,0.0,Chargers,2018
+,Michael Davis,1/6/1995,23.0,6-2,196.0,BYU,LCB,16,9.0,1.0,3.0,Chargers,2018
+48.0,Nick Dzubnar,8/15/1991,27.0,6-1,240.0,Cal Poly-San Luis Obispo,LB,16,0.0,3.0,1.0,Chargers,2018
+,Austin Ekeler,5/17/1995,23.0,5-10,200.0,Western St. (CO),RB,14,3.0,1.0,8.0,Chargers,2018
+56.0,Emmanuel Ellerbee,11/20/1996,22.0,6-1,235.0,Rice,LB,3,0.0,0.0,0.0,Chargers,2018
+51.0,Kyle Emanuel,8/16/1991,27.0,6-3,250.0,North Dakota St.,RLB,16,7.0,3.0,4.0,Chargers,2018
+36.0,Brandon Facyson,9/8/1994,24.0,6-2,197.0,Virginia Tech,DB,15,0.0,0.0,1.0,Chargers,2018
+,Dan Feeney,5/29/1994,24.0,6-4,310.0,Indiana,LG,16,16.0,1.0,9.0,Chargers,2018
+85.0,Antonio Gates,6/18/1980,38.0,6-4,255.0,Kent St.,TE,16,1.0,15.0,3.0,Chargers,2018
+28.0,Melvin Gordon,4/13/1993,25.0,6-1,215.0,Wisconsin,RB,12,12.0,3.0,11.0,Chargers,2018
+88.0,Virgil Green,8/3/1988,30.0,6-5,255.0,Nevada,TE,16,16.0,7.0,2.0,Chargers,2018
+26.0,Casey Hayward,9/9/1989,29.0,5-11,192.0,Vanderbilt,RCB,16,16.0,6.0,5.0,Chargers,2018
+86.0,Hunter Henry,12/7/1994,24.0,6-5,258.0,Arkansas,TE,0,0.0,2.0,0.0,Chargers,2018
+54.0,Melvin Ingram,4/26/1989,29.0,6-2,247.0,South Carolina,RDE,16,16.0,6.0,11.0,Chargers,2018
+32.0,Justin Jackson,4/22/1996,22.0,6-0,200.0,Northwestern,RB,13,1.0,0.0,3.0,Chargers,2018
+33.0,Derwin James,8/3/1996,22.0,6-2,215.0,Florida St.,FS,16,16.0,0.0,10.0,Chargers,2018
+,Rayshawn Jenkins,1/25/1994,24.0,6-1,200.0,Miami (FL),DB,15,1.0,1.0,1.0,Chargers,2018
+58.0,Tre'von Johnson,2/10/1995,23.0,6-2,232.0,Weber St.,LB,4,0.0,0.0,0.0,Chargers,2018
+5.0,Donnie Jones,7/5/1980,38.0,6-2,221.0,LSU,P,12,0.0,14.0,1.0,Chargers,2018
+89.0,JJ Jones,12/6/1992,26.0,5-10,174.0,West Georgia,WR,3,0.0,0.0,0.0,Chargers,2018
+91.0,Justin Jones,8/28/1996,22.0,6-3,309.0,North Carolina St.,DT,15,0.0,0.0,1.0,Chargers,2018
+8.0,Drew Kaser,2/11/1993,25.0,6-2,206.0,Texas A&M,P,4,0.0,2.0,0.0,Chargers,2018
+,Desmond King,12/14/1994,24.0,5-10,200.0,Iowa,DB,16,8.0,1.0,9.0,Chargers,2018
+77.0,Forrest Lamp,2/20/1994,24.0,6-4,310.0,Western Kentucky,G,2,0.0,0.0,0.0,Chargers,2018
+46.0,Chris Landrum,9/14/1992,26.0,6-2,245.0,"Auburn,Jacksonville St.",LB,7,0.0,2.0,1.0,Chargers,2018
+94.0,Corey Liuget,3/18/1990,28.0,6-2,300.0,Illinois,DT,6,3.0,7.0,2.0,Chargers,2018
+29.0,Craig Mager,6/11/1992,26.0,5-11,200.0,Texas St.,DB,1,0.0,3.0,0.0,Chargers,2018
+95.0,T.Y. McGill,11/23/1992,26.0,6-0,295.0,North Carolina St.,DT,4,0.0,3.0,0.0,Chargers,2018
+92.0,Brandon Mebane,1/15/1985,33.0,6-1,311.0,California,RDT,12,12.0,11.0,6.0,Chargers,2018
+38.0,Detrez Newsome,3/6/1994,24.0,5-10,210.0,Western Carolina,RB,9,0.0,0.0,1.0,Chargers,2018
+42.0,Uchenna Nwosu,12/28/1996,22.0,6-2,251.0,USC,LB,16,3.0,0.0,3.0,Chargers,2018
+76.0,Russell Okung,10/7/1988,30.0,6-5,310.0,Oklahoma St.,LT,15,15.0,8.0,8.0,Chargers,2018
+52.0,Denzel Perryman,12/5/1992,26.0,5-11,240.0,Miami (FL),MLB,9,9.0,3.0,4.0,Chargers,2018
+31.0,Adrian Phillips,3/28/1992,26.0,5-11,208.0,Texas,DB,16,7.0,4.0,9.0,Chargers,2018
+93.0,Darius Philon,1/22/1994,24.0,6-1,286.0,Arkansas,LDT,16,13.0,3.0,6.0,Chargers,2018
+53.0,Mike Pouncey,7/24/1989,29.0,6-5,298.0,Florida,C,16,16.0,7.0,11.0,Chargers,2018
+50.0,Hayes Pullard,4/18/1992,26.0,6-0,235.0,USC,LB,9,0.0,3.0,1.0,Chargers,2018
+61.0,Scott Quessenberry,3/23/1995,23.0,6-3,310.0,UCLA,G,15,0.0,0.0,1.0,Chargers,2018
+29.0,Jeff Richards,1/3/1991,27.0,6-2,210.0,"NE Oklahoma A&M,Emporia St.",DB,6,0.0,0.0,0.0,Chargers,2018
+17.0,Philip Rivers,12/8/1981,37.0,6-5,228.0,North Carolina St.,QB,16,16.0,14.0,14.0,Chargers,2018
+,Isaac Rochell,4/22/1995,23.0,6-4,280.0,Notre Dame,DT,16,3.0,1.0,3.0,Chargers,2018
+6.0,Nick Rose,5/5/1994,24.0,6-2,200.0,Texas,K,0,0.0,1.0,0.0,Chargers,2018
+75.0,Michael Schofield,11/15/1990,28.0,6-6,301.0,Michigan,RG,16,16.0,3.0,9.0,Chargers,2018
+,Trenton Scott,1/25/1994,24.0,6-5,320.0,Grambling St.,T,9,1.0,0.0,1.0,Chargers,2018
+3.0,Geno Smith,10/10/1990,28.0,6-3,221.0,West Virginia,QB,5,0.0,5.0,0.0,Chargers,2018
+71.0,Damion Square,2/6/1989,29.0,6-2,293.0,Alabama,RDE/LDE,16,11.0,5.0,5.0,Chargers,2018
+6.0,Caleb Sturgis,8/9/1989,29.0,5-9,192.0,Florida,K,6,0.0,5.0,-1.0,Chargers,2018
+,Sam Tevi,11/15/1994,24.0,6-5,315.0,Utah,RT,16,15.0,1.0,8.0,Chargers,2018
+64.0,Cole Toner,3/13/1994,24.0,6-5,310.0,Harvard,T,1,0.0,2.0,0.0,Chargers,2018
+34.0,Derek Watt,11/7/1992,26.0,6-2,234.0,Wisconsin,FB,16,5.0,2.0,0.0,Chargers,2018
+,Kyzir White,3/24/1996,22.0,6-2,234.0,West Virginia,DB,3,3.0,0.0,3.0,Chargers,2018
+,Mike Williams,10/4/1994,24.0,6-4,218.0,Clemson,WR,16,5.0,1.0,6.0,Chargers,2018
+24.0,Trevor Williams,9/15/1993,25.0,5-11,191.0,Penn St.,LCB,9,7.0,2.0,3.0,Chargers,2018
+16.0,Tyrell Williams,2/12/1992,26.0,6-4,210.0,Western Oregon,WR,16,10.0,3.0,6.0,Chargers,2018
+,Kyle Wilson,11/2/1995,23.0,6-0,231.0,Arkansas St.,LB,3,0.0,0.0,0.0,Chargers,2018
+47.0,Mike Windt,5/29/1986,32.0,6-1,237.0,Cincinnati,LS,16,0.0,8.0,1.0,Chargers,2018
+,Team Total,,26.1,6-1.8,242.2,,,16,,3.2,,Chargers,2018
