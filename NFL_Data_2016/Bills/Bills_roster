@@ -1,0 +1,70 @@
+Player,BirthDate,Age,Height,Weight,College/University,Position,Games_Played_in_Season,Games_Started_in_Season,NFL_Years,Player_Value,Team,Year
+Bryson Albright,3/15/1994,22.0,6-5,245.0,Miami (OH),DE,1,0.0,0.0,0.0,Bills,2016
+Lorenzo Alexander,5/31/1983,33.0,6-1,245.0,California,ROLB,16,16.0,9.0,11.0,Bills,2016
+Colt Anderson,10/25/1985,31.0,5-10,194.0,Montana,DB,2,0.0,6.0,0.0,Bills,2016
+Robert Blanton,9/7/1989,27.0,6-1,208.0,Notre Dame,DB,10,2.0,4.0,1.0,Bills,2016
+Preston Brown,10/27/1992,24.0,6-1,251.0,Louisville,RILB,16,16.0,2.0,7.0,Bills,2016
+Sergio Brown,5/22/1988,28.0,6-2,210.0,Notre Dame,DB,8,0.0,6.0,0.0,Bills,2016
+Zach Brown,10/23/1989,27.0,6-1,250.0,North Carolina,LILB,16,16.0,4.0,12.0,Bills,2016
+Corbin Bryant,1/4/1988,28.0,6-4,300.0,Northwestern,NT,8,6.0,5.0,2.0,Bills,2016
+Reggie Bush,3/2/1985,31.0,6-0,205.0,USC,RB,13,0.0,10.0,1.0,Bills,2016
+Dan Carpenter,11/25/1985,31.0,6-2,216.0,Montana,K,16,0.0,8.0,1.0,Bills,2016
+Gerald Christian,8/26/1991,25.0,6-3,250.0,"Florida,Louisville",TE,3,0.0,0.0,0.0,Bills,2016
+Charles Clay,2/13/1989,27.0,6-3,246.0,Tulsa,TE,15,15.0,5.0,6.0,Bills,2016
+Deandre Coleman,1/27/1991,25.0,6-5,314.0,California,DE,5,0.0,2.0,0.0,Bills,2016
+Ronald Darby,1/2/1994,22.0,5-11,193.0,Florida St.,LCB,14,14.0,1.0,4.0,Bills,2016
+Marcell Dareus,3/13/1990,26.0,6-3,331.0,Alabama,NT,8,7.0,5.0,3.0,Bills,2016
+Leger Douzable,5/31/1986,30.0,6-4,305.0,Central Florida,DE,16,5.0,7.0,3.0,Bills,2016
+Jim Dray,12/31/1986,30.0,6-5,253.0,Stanford,TE,4,1.0,6.0,0.0,Bills,2016
+Jerome Felton,7/3/1986,30.0,6-0,246.0,Furman,RB,15,4.0,8.0,1.0,Bills,2016
+Shamiel Gary,5/31/1990,26.0,6-0,205.0,Oklahoma St.,DB,3,0.0,1.0,0.0,Bills,2016
+Jordan Gay,3/29/1990,26.0,6-0,200.0,Centre,P,3,0.0,2.0,0.0,Bills,2016
+Mike Gillislee,11/1/1990,26.0,5-11,210.0,Florida,RB,15,1.0,3.0,5.0,Bills,2016
+Stephon Gilmore,9/19/1990,26.0,6-0,190.0,South Carolina,RCB,15,15.0,4.0,7.0,Bills,2016
+Cordy Glenn,9/18/1989,27.0,6-6,345.0,Georgia,LT,11,11.0,4.0,6.0,Bills,2016
+Marquise Goodwin,11/19/1990,26.0,5-9,185.0,Texas,WR,15,9.0,3.0,4.0,Bills,2016
+Corey Graham,7/25/1985,31.0,6-0,196.0,New Hampshire,FS,16,16.0,9.0,4.0,Bills,2016
+Glenn Gronkowski,3/25/1993,23.0,6-3,234.0,Kansas St.,RB,1,0.0,0.0,0.0,Bills,2016
+Ryan Groy,9/30/1990,26.0,6-5,320.0,Wisconsin,C,16,7.0,2.0,5.0,Bills,2016
+Percy Harvin,5/28/1988,28.0,5-11,200.0,Florida,WR,2,1.0,7.0,0.0,Bills,2016
+Seantrel Henderson,1/21/1992,24.0,6-7,351.0,Miami (FL),T,1,0.0,2.0,0.0,Bills,2016
+Jerry Hughes,8/13/1988,28.0,6-2,254.0,TCU,LOLB,16,15.0,6.0,6.0,Bills,2016
+Ramon Humber,8/10/1987,29.0,5-11,232.0,North Dakota St.,LB,16,1.0,7.0,1.0,Bills,2016
+Justin Hunter,5/20/1991,25.0,6-4,203.0,Tennessee,WR,12,5.0,3.0,2.0,Bills,2016
+James Ihedigbo,12/3/1983,33.0,6-1,202.0,Massachusetts,DB,4,3.0,8.0,1.0,Bills,2016
+Gabe Ikard,9/26/1990,26.0,6-4,300.0,Oklahoma,C,2,0.0,1.0,0.0,Bills,2016
+Richie Incognito,7/5/1983,33.0,6-4,322.0,"Nebraska,Oregon",LG,16,16.0,10.0,11.0,Bills,2016
+Cardale Jones,10/29/1992,24.0,6-5,250.0,Ohio St.,QB,1,0.0,0.0,0.0,Bills,2016
+Cyrus Kouandjio,7/21/1993,23.0,6-7,322.0,Alabama,LT,12,5.0,2.0,3.0,Bills,2016
+Shaq Lawson,6/17/1994,22.0,6-3,265.0,Clemson,DE,10,1.0,0.0,1.0,Bills,2016
+Dezmin Lewis,12/5/1992,24.0,6-4,214.0,Central Arkansas,WR,1,0.0,1.0,0.0,Bills,2016
+Patrick Lewis,1/30/1991,25.0,6-1,311.0,Texas A&M,C,1,0.0,2.0,0.0,Bills,2016
+EJ Manuel,3/19/1990,26.0,6-4,237.0,Florida St.,QB,6,1.0,3.0,1.0,Bills,2016
+LeSean McCoy,7/12/1988,28.0,5-11,210.0,Pittsburgh,RB,15,15.0,7.0,13.0,Bills,2016
+Lerentee McCray,8/26/1990,26.0,6-3,249.0,Florida,LB,13,0.0,2.0,1.0,Bills,2016
+Jonathan Meeks,11/8/1989,27.0,6-1,210.0,Clemson,DB,16,0.0,3.0,1.0,Bills,2016
+John Miller,8/12/1993,23.0,6-3,315.0,Louisville,RG,16,16.0,1.0,9.0,Bills,2016
+Jordan Mills,12/24/1990,26.0,6-5,316.0,Louisiana Tech,RT,16,16.0,3.0,9.0,Bills,2016
+Nick O'Leary,8/31/1992,24.0,6-3,252.0,Florida St.,RB,16,7.0,1.0,1.0,Bills,2016
+Michael Ola,4/19/1988,28.0,6-5,312.0,Hampton,T,6,0.0,2.0,1.0,Bills,2016
+Walt Powell,11/23/1991,25.0,5-11,189.0,Murray St.,WR,9,2.0,2.0,1.0,Bills,2016
+Marcus Roberson,10/4/1992,24.0,6-0,191.0,Florida,DB,7,0.0,2.0,0.0,Bills,2016
+Nickell Robey-Coleman,1/17/1992,24.0,5-8,180.0,USC,DB,16,3.0,3.0,2.0,Bills,2016
+Greg Salas,8/25/1988,28.0,6-1,206.0,Hawaii,WR,2,1.0,5.0,1.0,Bills,2016
+Garrison Sanborn,7/31/1985,31.0,6-1,240.0,Florida St.,LS,16,0.0,7.0,2.0,Bills,2016
+Colton Schmidt,10/27/1990,26.0,5-11,224.0,UC Davis,P,16,0.0,2.0,1.0,Bills,2016
+Kevon Seymour,11/30/1993,23.0,6-0,188.0,USC,DB,15,3.0,0.0,1.0,Bills,2016
+Brandon Spikes,9/3/1987,29.0,6-3,250.0,Florida,LB,11,0.0,6.0,1.0,Bills,2016
+Brandon Tate,10/5/1987,29.0,6-1,195.0,North Carolina,WR,15,1.0,7.0,2.0,Bills,2016
+Tyrod Taylor,8/3/1989,27.0,6-1,217.0,Virginia Tech,QB,15,15.0,5.0,15.0,Bills,2016
+Adolphus Washington,11/24/1994,22.0,6-4,295.0,Ohio St.,RDE,15,11.0,0.0,5.0,Bills,2016
+Sammy Watkins,6/14/1993,23.0,6-1,211.0,Clemson,WR,8,8.0,2.0,4.0,Bills,2016
+Corey White,5/9/1990,26.0,5-11,206.0,Samford,DB,15,4.0,4.0,2.0,Bills,2016
+Aaron Williams,4/23/1990,26.0,6-0,195.0,Texas,SS,7,5.0,5.0,2.0,Bills,2016
+Duke Williams,10/15/1990,26.0,5-11,201.0,Nevada,DB,9,2.0,3.0,1.0,Bills,2016
+Jonathan Williams,2/2/1994,22.0,6-0,217.0,Arkansas,RB,11,0.0,0.0,1.0,Bills,2016
+Kyle Williams,6/10/1983,33.0,6-1,303.0,LSU,LDE,15,15.0,10.0,9.0,Bills,2016
+Eric Wood,3/18/1986,30.0,6-4,310.0,Louisville,C,9,9.0,7.0,5.0,Bills,2016
+Robert Woods,4/10/1992,24.0,6-0,195.0,USC,WR,13,10.0,3.0,6.0,Bills,2016
+Jerel Worthy,4/28/1990,26.0,6-2,298.0,Michigan St.,DT,13,0.0,4.0,1.0,Bills,2016
+Team Total,,26.6,6-1.8,243.9,,,16,,3.9,,Bills,2016

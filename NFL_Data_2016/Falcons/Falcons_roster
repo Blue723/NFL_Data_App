@@ -1,67 +1,67 @@
-,No.,Player,BirthDate,Age,Height,Weight,College/University,Position,Games_Played_in_Season,Games_Started_in_Season,NFL_Years,Player_Value,Team,Year
-0,23.0,Robert Alford,11/1/1988,28.0,5-10,186.0,Southeastern Louisiana,LCB,16,16.0,3.0,5.0,Falcons,2016
-1,37.0,Ricardo Allen,12/18/1991,25.0,5-9,186.0,Purdue,SS,16,16.0,1.0,5.0,Falcons,2016
-2,95.0,Jonathan Babineaux,10/12/1981,35.0,6-2,300.0,Iowa,NT,16,6.0,11.0,3.0,Falcons,2016
-3,44.0,Vic Beasley,7/8/1992,24.0,6-3,246.0,Clemson,LILB,16,12.0,1.0,12.0,Falcons,2016
-4,5.0,Matthew Bosher,10/18/1987,29.0,6-0,208.0,Miami (FL),P,15,0.0,5.0,2.0,Falcons,2016
-5,3.0,Matt Bryant,5/29/1975,41.0,5-9,203.0,Baylor,K,16,0.0,14.0,6.0,Falcons,2016
-6,59.0,De'Vondre Campbell,7/1/1993,23.0,6-3,232.0,Minnesota,ROLB,11,10.0,0.0,4.0,Falcons,2016
-7,65.0,Chris Chester,1/12/1983,33.0,6-3,303.0,Oklahoma,RG,16,16.0,10.0,11.0,Falcons,2016
-8,99.0,Adrian Clayborn,7/6/1988,28.0,6-3,280.0,Iowa,LDE,13,7.0,5.0,4.0,Falcons,2016
-9,26.0,Tevin Coleman,4/16/1993,23.0,6-1,210.0,Indiana,RB,13,0.0,1.0,9.0,Falcons,2016
-10,32.0,Jalen Collins,3/20/1993,23.0,6-1,203.0,LSU,RCB,8,6.0,1.0,2.0,Falcons,2016
-11,76.0,Tom Compton,5/10/1989,27.0,6-6,315.0,South Dakota,T,16,0.0,3.0,2.0,Falcons,2016
-12,42.0,Patrick DiMarco,4/30/1989,27.0,6-1,234.0,South Carolina,RB,16,8.0,4.0,1.0,Falcons,2016
-13,24.0,Devonta Freeman,3/15/1992,24.0,5-8,206.0,Florida St.,RB,16,16.0,2.0,15.0,Falcons,2016
-14,93.0,Dwight Freeney,2/19/1980,36.0,6-1,268.0,Syracuse,DE,15,1.0,14.0,2.0,Falcons,2016
-15,18.0,Taylor Gabriel,2/17/1991,25.0,5-7,168.0,Abilene Christian,WR,13,3.0,2.0,7.0,Falcons,2016
-16,63.0,Ben Garland,4/6/1988,28.0,6-5,308.0,Air Force,DT,16,0.0,2.0,2.0,Falcons,2016
-17,38.0,Dashon Goldson,9/18/1984,32.0,6-2,205.0,Washington,DB,4,0.0,9.0,0.0,Falcons,2016
-18,54.0,Malliciah Goodman,1/4/1990,26.0,6-4,276.0,Clemson,DE,2,0.0,3.0,0.0,Falcons,2016
-19,29.0,C.J. Goodwin,2/4/1990,26.0,6-3,190.0,California (PA),DB,14,1.0,0.0,1.0,Falcons,2016
-20,77.0,Ra'Shede Hageman,8/8/1990,26.0,6-6,318.0,Minnesota,DT,12,4.0,2.0,2.0,Falcons,2016
-21,16.0,Justin Hardy,12/18/1991,25.0,5-10,192.0,East Carolina,WR,16,3.0,1.0,2.0,Falcons,2016
-22,47.0,Josh Harris,4/27/1989,27.0,6-1,224.0,Auburn,DB,16,0.0,4.0,1.0,Falcons,2016
-23,54.0,A.J. Hawk,1/6/1984,32.0,6-1,240.0,Ohio St.,LB,1,0.0,10.0,0.0,Falcons,2016
-24,81.0,Austin Hooper,10/29/1994,22.0,6-4,254.0,Stanford,TE,14,3.0,0.0,3.0,Falcons,2016
-25,36.0,Kemal Ishmael,5/6/1991,25.0,6-0,206.0,Central Florida,DB,13,4.0,3.0,2.0,Falcons,2016
-26,94.0,Tyson Jackson,6/6/1986,30.0,6-4,295.0,LSU,LOLB,16,7.0,7.0,3.0,Falcons,2016
-27,97.0,Grady Jarrett,4/28/1993,23.0,6-0,305.0,Clemson,RDE,16,14.0,1.0,6.0,Falcons,2016
-28,45.0,Deion Jones,11/4/1994,22.0,6-1,222.0,LSU,RILB,15,13.0,0.0,7.0,Falcons,2016
-29,11.0,Julio Jones,2/3/1989,27.0,6-3,220.0,Alabama,WR,14,14.0,5.0,16.0,Falcons,2016
-30,52.0,Josh Keyes,1/23/1993,23.0,6-2,225.0,Boston Col.,LB,1,0.0,1.0,0.0,Falcons,2016
-31,67.0,Andy Levitre,5/15/1986,30.0,6-2,303.0,Oregon St.,LG,16,16.0,7.0,11.0,Falcons,2016
-32,51.0,Alex Mack,11/19/1985,31.0,6-4,311.0,California,C,16,16.0,7.0,17.0,Falcons,2016
-33,98.0,Cliff Matthews,8/5/1989,27.0,6-4,265.0,South Carolina,DE,3,0.0,4.0,0.0,Falcons,2016
-34,70.0,Jake Matthews,2/11/1992,24.0,6-5,309.0,Texas A&M,LT,16,16.0,2.0,11.0,Falcons,2016
-35,22.0,Keanu Neal,7/26/1995,21.0,6-0,211.0,Florida,FS,14,14.0,0.0,4.0,Falcons,2016
-36,20.0,Sharrod Neasman,10/14/1991,25.0,5-11,213.0,Florida Atlantic,DB,3,0.0,0.0,0.0,Falcons,2016
-37,,Ayodeji Olatoye,7/20/1991,25.0,6-1,194.0,North Carolina A&T,DB,5,0.0,1.0,0.0,Falcons,2016
-38,82.0,Joshua Perkins,8/5/1993,23.0,6-3,223.0,Washington,TE,8,1.0,0.0,0.0,Falcons,2016
-39,34.0,Brian Poole,10/20/1992,24.0,5-10,211.0,Florida,DB,16,9.0,0.0,3.0,Falcons,2016
-40,50.0,Brooks Reed,2/28/1987,29.0,6-3,254.0,Arizona,LDE,15,7.0,5.0,4.0,Falcons,2016
-41,53.0,LaRoy Reynolds,11/3/1990,26.0,6-1,240.0,Virginia,LB,16,3.0,3.0,2.0,Falcons,2016
-42,33.0,Stevan Ridley,1/27/1989,27.0,5-11,220.0,LSU,RB,1,0.0,5.0,0.0,Falcons,2016
-43,19.0,Aldrick Robinson,9/24/1988,28.0,5-10,185.0,SMU,WR,16,1.0,4.0,4.0,Falcons,2016
-44,2.0,Matt Ryan,5/17/1985,31.0,6-4,217.0,Boston Col.,QB,16,16.0,8.0,21.0,Falcons,2016
-45,12.0,Mohamed Sanu,8/22/1989,27.0,6-2,210.0,Rutgers,WR,15,15.0,4.0,7.0,Falcons,2016
-46,8.0,Matt Schaub,6/25/1981,35.0,6-6,245.0,Virginia,QB,4,0.0,12.0,0.0,Falcons,2016
-47,54.0,O'Brien Schofield,4/3/1987,29.0,6-2,238.0,Wisconsin,LB,2,0.0,6.0,0.0,Falcons,2016
-48,73.0,Ryan Schraeder,5/4/1988,28.0,6-7,300.0,Valdosta St.,RT,16,16.0,3.0,11.0,Falcons,2016
-49,90.0,Derrick Shelby,3/4/1989,27.0,6-2,280.0,Utah,DE,6,4.0,4.0,2.0,Falcons,2016
-50,83.0,Jacob Tamme,3/15/1985,31.0,6-4,234.0,Kentucky,TE,8,5.0,8.0,2.0,Falcons,2016
-51,27.0,Robenson Therezie,8/5/1991,25.0,5-9,208.0,Auburn,DB,12,0.0,1.0,1.0,Falcons,2016
-52,86.0,D.J. Tialavea,7/27/1991,25.0,6-4,260.0,Utah St.,TE,2,0.0,0.0,0.0,Falcons,2016
-53,80.0,Levine Toilolo,7/30/1991,25.0,6-8,268.0,Stanford,TE,16,11.0,3.0,3.0,Falcons,2016
-54,21.0,Desmond Trufant,9/10/1990,26.0,6-0,190.0,Washington,RCB,9,9.0,3.0,3.0,Falcons,2016
-55,91.0,Courtney Upshaw,12/13/1989,27.0,6-2,272.0,Alabama,LB,13,5.0,4.0,3.0,Falcons,2016
-56,92.0,Joe Vellano,10/30/1988,28.0,6-2,285.0,Maryland,DT,0,0.0,3.0,0.0,Falcons,2016
-57,28.0,Terron Ward,2/15/1992,24.0,5-7,201.0,Oregon St.,RB,5,0.0,1.0,1.0,Falcons,2016
-58,56.0,Sean Weatherspoon,12/29/1987,29.0,6-1,241.0,Missouri,LB,4,3.0,6.0,1.0,Falcons,2016
-59,14.0,Eric Weems,7/4/1985,31.0,5-9,195.0,Bethune-Cookman,WR,16,0.0,9.0,0.0,Falcons,2016
-60,41.0,Philip Wheeler,12/12/1984,32.0,6-2,245.0,Georgia Tech,LB,16,4.0,8.0,2.0,Falcons,2016
-61,6.0,Matt Wile,6/20/1992,24.0,6-2,225.0,Michigan,P,1,0.0,0.0,0.0,Falcons,2016
-62,15.0,Nick Williams,11/23/1990,26.0,5-10,184.0,Connecticut,WR,2,0.0,3.0,1.0,Falcons,2016
-63,55.0,Paul Worrilow,5/1/1990,26.0,6-0,230.0,Delaware,LB,12,1.0,3.0,2.0,Falcons,2016
-64,38.0,Blidi Wreh-Wilson,12/5/1989,27.0,6-1,190.0,Connecticut,DB,1,0.0,3.0,0.0,Falcons,2016
-65,,Team Total,,27.2,6-1.4,238.2,,,16,,3.9,,Falcons,2016
+No.,Player,BirthDate,Age,Height,Weight,College/University,Position,Games_Played_in_Season,Games_Started_in_Season,NFL_Years,Player_Value,Team,Year
+23.0,Robert Alford,11/1/1988,28.0,5-10,186.0,Southeastern Louisiana,LCB,16,16.0,3.0,5.0,Falcons,2016
+37.0,Ricardo Allen,12/18/1991,25.0,5-9,186.0,Purdue,SS,16,16.0,1.0,5.0,Falcons,2016
+95.0,Jonathan Babineaux,10/12/1981,35.0,6-2,300.0,Iowa,NT,16,6.0,11.0,3.0,Falcons,2016
+44.0,Vic Beasley,7/8/1992,24.0,6-3,246.0,Clemson,LILB,16,12.0,1.0,12.0,Falcons,2016
+5.0,Matthew Bosher,10/18/1987,29.0,6-0,208.0,Miami (FL),P,15,0.0,5.0,2.0,Falcons,2016
+3.0,Matt Bryant,5/29/1975,41.0,5-9,203.0,Baylor,K,16,0.0,14.0,6.0,Falcons,2016
+59.0,De'Vondre Campbell,7/1/1993,23.0,6-3,232.0,Minnesota,ROLB,11,10.0,0.0,4.0,Falcons,2016
+65.0,Chris Chester,1/12/1983,33.0,6-3,303.0,Oklahoma,RG,16,16.0,10.0,11.0,Falcons,2016
+99.0,Adrian Clayborn,7/6/1988,28.0,6-3,280.0,Iowa,LDE,13,7.0,5.0,4.0,Falcons,2016
+26.0,Tevin Coleman,4/16/1993,23.0,6-1,210.0,Indiana,RB,13,0.0,1.0,9.0,Falcons,2016
+32.0,Jalen Collins,3/20/1993,23.0,6-1,203.0,LSU,RCB,8,6.0,1.0,2.0,Falcons,2016
+76.0,Tom Compton,5/10/1989,27.0,6-6,315.0,South Dakota,T,16,0.0,3.0,2.0,Falcons,2016
+42.0,Patrick DiMarco,4/30/1989,27.0,6-1,234.0,South Carolina,RB,16,8.0,4.0,1.0,Falcons,2016
+24.0,Devonta Freeman,3/15/1992,24.0,5-8,206.0,Florida St.,RB,16,16.0,2.0,15.0,Falcons,2016
+93.0,Dwight Freeney,2/19/1980,36.0,6-1,268.0,Syracuse,DE,15,1.0,14.0,2.0,Falcons,2016
+18.0,Taylor Gabriel,2/17/1991,25.0,5-7,168.0,Abilene Christian,WR,13,3.0,2.0,7.0,Falcons,2016
+63.0,Ben Garland,4/6/1988,28.0,6-5,308.0,Air Force,DT,16,0.0,2.0,2.0,Falcons,2016
+38.0,Dashon Goldson,9/18/1984,32.0,6-2,205.0,Washington,DB,4,0.0,9.0,0.0,Falcons,2016
+54.0,Malliciah Goodman,1/4/1990,26.0,6-4,276.0,Clemson,DE,2,0.0,3.0,0.0,Falcons,2016
+29.0,C.J. Goodwin,2/4/1990,26.0,6-3,190.0,California (PA),DB,14,1.0,0.0,1.0,Falcons,2016
+77.0,Ra'Shede Hageman,8/8/1990,26.0,6-6,318.0,Minnesota,DT,12,4.0,2.0,2.0,Falcons,2016
+16.0,Justin Hardy,12/18/1991,25.0,5-10,192.0,East Carolina,WR,16,3.0,1.0,2.0,Falcons,2016
+47.0,Josh Harris,4/27/1989,27.0,6-1,224.0,Auburn,DB,16,0.0,4.0,1.0,Falcons,2016
+54.0,A.J. Hawk,1/6/1984,32.0,6-1,240.0,Ohio St.,LB,1,0.0,10.0,0.0,Falcons,2016
+81.0,Austin Hooper,10/29/1994,22.0,6-4,254.0,Stanford,TE,14,3.0,0.0,3.0,Falcons,2016
+36.0,Kemal Ishmael,5/6/1991,25.0,6-0,206.0,Central Florida,DB,13,4.0,3.0,2.0,Falcons,2016
+94.0,Tyson Jackson,6/6/1986,30.0,6-4,295.0,LSU,LOLB,16,7.0,7.0,3.0,Falcons,2016
+97.0,Grady Jarrett,4/28/1993,23.0,6-0,305.0,Clemson,RDE,16,14.0,1.0,6.0,Falcons,2016
+45.0,Deion Jones,11/4/1994,22.0,6-1,222.0,LSU,RILB,15,13.0,0.0,7.0,Falcons,2016
+11.0,Julio Jones,2/3/1989,27.0,6-3,220.0,Alabama,WR,14,14.0,5.0,16.0,Falcons,2016
+52.0,Josh Keyes,1/23/1993,23.0,6-2,225.0,Boston Col.,LB,1,0.0,1.0,0.0,Falcons,2016
+67.0,Andy Levitre,5/15/1986,30.0,6-2,303.0,Oregon St.,LG,16,16.0,7.0,11.0,Falcons,2016
+51.0,Alex Mack,11/19/1985,31.0,6-4,311.0,California,C,16,16.0,7.0,17.0,Falcons,2016
+98.0,Cliff Matthews,8/5/1989,27.0,6-4,265.0,South Carolina,DE,3,0.0,4.0,0.0,Falcons,2016
+70.0,Jake Matthews,2/11/1992,24.0,6-5,309.0,Texas A&M,LT,16,16.0,2.0,11.0,Falcons,2016
+22.0,Keanu Neal,7/26/1995,21.0,6-0,211.0,Florida,FS,14,14.0,0.0,4.0,Falcons,2016
+20.0,Sharrod Neasman,10/14/1991,25.0,5-11,213.0,Florida Atlantic,DB,3,0.0,0.0,0.0,Falcons,2016
+,Ayodeji Olatoye,7/20/1991,25.0,6-1,194.0,North Carolina A&T,DB,5,0.0,1.0,0.0,Falcons,2016
+82.0,Joshua Perkins,8/5/1993,23.0,6-3,223.0,Washington,TE,8,1.0,0.0,0.0,Falcons,2016
+34.0,Brian Poole,10/20/1992,24.0,5-10,211.0,Florida,DB,16,9.0,0.0,3.0,Falcons,2016
+50.0,Brooks Reed,2/28/1987,29.0,6-3,254.0,Arizona,LDE,15,7.0,5.0,4.0,Falcons,2016
+53.0,LaRoy Reynolds,11/3/1990,26.0,6-1,240.0,Virginia,LB,16,3.0,3.0,2.0,Falcons,2016
+33.0,Stevan Ridley,1/27/1989,27.0,5-11,220.0,LSU,RB,1,0.0,5.0,0.0,Falcons,2016
+19.0,Aldrick Robinson,9/24/1988,28.0,5-10,185.0,SMU,WR,16,1.0,4.0,4.0,Falcons,2016
+2.0,Matt Ryan,5/17/1985,31.0,6-4,217.0,Boston Col.,QB,16,16.0,8.0,21.0,Falcons,2016
+12.0,Mohamed Sanu,8/22/1989,27.0,6-2,210.0,Rutgers,WR,15,15.0,4.0,7.0,Falcons,2016
+8.0,Matt Schaub,6/25/1981,35.0,6-6,245.0,Virginia,QB,4,0.0,12.0,0.0,Falcons,2016
+54.0,O'Brien Schofield,4/3/1987,29.0,6-2,238.0,Wisconsin,LB,2,0.0,6.0,0.0,Falcons,2016
+73.0,Ryan Schraeder,5/4/1988,28.0,6-7,300.0,Valdosta St.,RT,16,16.0,3.0,11.0,Falcons,2016
+90.0,Derrick Shelby,3/4/1989,27.0,6-2,280.0,Utah,DE,6,4.0,4.0,2.0,Falcons,2016
+83.0,Jacob Tamme,3/15/1985,31.0,6-4,234.0,Kentucky,TE,8,5.0,8.0,2.0,Falcons,2016
+27.0,Robenson Therezie,8/5/1991,25.0,5-9,208.0,Auburn,DB,12,0.0,1.0,1.0,Falcons,2016
+86.0,D.J. Tialavea,7/27/1991,25.0,6-4,260.0,Utah St.,TE,2,0.0,0.0,0.0,Falcons,2016
+80.0,Levine Toilolo,7/30/1991,25.0,6-8,268.0,Stanford,TE,16,11.0,3.0,3.0,Falcons,2016
+21.0,Desmond Trufant,9/10/1990,26.0,6-0,190.0,Washington,RCB,9,9.0,3.0,3.0,Falcons,2016
+91.0,Courtney Upshaw,12/13/1989,27.0,6-2,272.0,Alabama,LB,13,5.0,4.0,3.0,Falcons,2016
+92.0,Joe Vellano,10/30/1988,28.0,6-2,285.0,Maryland,DT,0,0.0,3.0,0.0,Falcons,2016
+28.0,Terron Ward,2/15/1992,24.0,5-7,201.0,Oregon St.,RB,5,0.0,1.0,1.0,Falcons,2016
+56.0,Sean Weatherspoon,12/29/1987,29.0,6-1,241.0,Missouri,LB,4,3.0,6.0,1.0,Falcons,2016
+14.0,Eric Weems,7/4/1985,31.0,5-9,195.0,Bethune-Cookman,WR,16,0.0,9.0,0.0,Falcons,2016
+41.0,Philip Wheeler,12/12/1984,32.0,6-2,245.0,Georgia Tech,LB,16,4.0,8.0,2.0,Falcons,2016
+6.0,Matt Wile,6/20/1992,24.0,6-2,225.0,Michigan,P,1,0.0,0.0,0.0,Falcons,2016
+15.0,Nick Williams,11/23/1990,26.0,5-10,184.0,Connecticut,WR,2,0.0,3.0,1.0,Falcons,2016
+55.0,Paul Worrilow,5/1/1990,26.0,6-0,230.0,Delaware,LB,12,1.0,3.0,2.0,Falcons,2016
+38.0,Blidi Wreh-Wilson,12/5/1989,27.0,6-1,190.0,Connecticut,DB,1,0.0,3.0,0.0,Falcons,2016
+,Team Total,,27.2,6-1.4,238.2,,,16,,3.9,,Falcons,2016

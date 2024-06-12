@@ -1,62 +1,62 @@
-,No.,Player,BirthDate,Age,Height,Weight,College/University,Position,Games_Played_in_Season,Games_Started_in_Season,NFL_Years,Player_Value,Team,Year
-0,92.0,Mehdi Abdesmad,9/28/1991,25.0,6-6,284.0,Boston Col.,DE,2,0.0,0.0,0.0,Titans,2016
-1,88.0,Jace Amaro,6/26/1992,24.0,6-5,265.0,Texas Tech,TE,3,0.0,2.0,1.0,Titans,2016
-2,26.0,Antonio Andrews,8/17/1992,24.0,5-10,225.0,Western Kentucky,RB,16,0.0,2.0,0.0,Titans,2016
-3,51.0,David Bass,9/11/1990,26.0,6-4,267.0,Missouri Western St.,DE,13,0.0,3.0,1.0,Titans,2016
-4,95.0,Angelo Blackson,11/14/1992,24.0,6-4,305.0,Auburn,DT,13,1.0,1.0,1.0,Titans,2016
-5,47.0,Antwon Blake,8/9/1990,26.0,5-9,198.0,Texas-El Paso,DB,16,1.0,4.0,1.0,Titans,2016
-6,48.0,Beau Brinkley,1/25/1990,26.0,6-4,260.0,Missouri,TE,16,0.0,4.0,1.0,Titans,2016
-7,31.0,Kevin Byard,8/17/1993,23.0,5-11,212.0,Middle Tenn. St.,FS,16,7.0,0.0,3.0,Titans,2016
-8,99.0,Jurrell Casey,12/5/1989,27.0,6-1,305.0,USC,RDE,15,15.0,5.0,11.0,Titans,2016
-9,16.0,Matt Cassel,5/17/1982,34.0,6-4,225.0,USC,QB,4,1.0,11.0,1.0,Titans,2016
-10,78.0,Jack Conklin,8/17/1994,22.0,6-6,308.0,Michigan St.,RT,16,16.0,0.0,14.0,Titans,2016
-11,20.0,Perrish Cox,1/10/1987,29.0,5-11,189.0,Oklahoma St.,LCB,11,9.0,6.0,4.0,Titans,2016
-12,93.0,Kevin Dodd,7/14/1992,24.0,6-5,277.0,Clemson,DE,9,1.0,0.0,1.0,Titans,2016
-13,83.0,Harry Douglas,9/16/1984,32.0,6-0,183.0,Louisville,WR,11,2.0,8.0,2.0,Titans,2016
-14,80.0,Anthony Fasano,4/20/1984,32.0,6-4,258.0,Notre Dame,TE,16,10.0,10.0,1.0,Titans,2016
-15,45.0,Jalston Fowler,7/26/1990,26.0,5-11,261.0,Alabama,RB,16,6.0,1.0,0.0,Titans,2016
-16,22.0,Derrick Henry,1/4/1994,22.0,6-3,247.0,Alabama,RB,15,2.0,0.0,4.0,Titans,2016
-17,81.0,Andre Johnson,7/11/1981,35.0,6-3,229.0,Miami (FL),WR,8,4.0,13.0,1.0,Titans,2016
-18,94.0,Austin Johnson,5/8/1994,22.0,6-4,314.0,Penn St.,NT,10,0.0,0.0,1.0,Titans,2016
-19,25.0,Rashad Johnson,1/2/1986,30.0,6-0,195.0,Alabama,FS,14,7.0,7.0,3.0,Titans,2016
-20,60.0,Ben Jones,7/2/1989,27.0,6-3,308.0,Georgia,C,16,16.0,4.0,8.0,Titans,2016
-21,90.0,DaQuan Jones,12/17/1991,25.0,6-4,320.0,Penn St.,LDE,16,16.0,2.0,8.0,Titans,2016
-22,71.0,Dennis Kelly,1/16/1990,26.0,6-8,321.0,Purdue,T,16,6.0,4.0,4.0,Titans,2016
-23,6.0,Brett Kern,2/17/1986,30.0,6-2,214.0,Toledo,P,16,0.0,8.0,2.0,Titans,2016
-24,64.0,Josh Kline,12/29/1989,27.0,6-3,300.0,Kent St.,RG,14,14.0,3.0,7.0,Titans,2016
-25,97.0,Karl Klug,3/31/1988,28.0,6-3,278.0,Iowa,DT,14,3.0,5.0,3.0,Titans,2016
-26,77.0,Taylor Lewan,7/22/1991,25.0,6-7,309.0,Michigan,LT,16,16.0,2.0,10.0,Titans,2016
-27,87.0,Marc Mariani,5/2/1987,29.0,6-1,190.0,Montana,WR,16,0.0,6.0,0.0,Titans,2016
-28,8.0,Marcus Mariota,10/30/1993,23.0,6-4,222.0,Oregon,QB,15,15.0,1.0,13.0,Titans,2016
-29,18.0,Rishard Matthews,10/12/1989,27.0,6-0,217.0,Nevada,WR,16,9.0,4.0,8.0,Titans,2016
-30,10.0,Tre McBride,12/1/1992,24.0,6-0,210.0,William & Mary,WR,2,0.0,1.0,0.0,Titans,2016
-31,23.0,Brice McCain,12/10/1986,30.0,5-9,190.0,Utah,DB,16,10.0,7.0,4.0,Titans,2016
-32,30.0,Jason McCourty,8/13/1987,29.0,5-11,195.0,Rutgers,RCB,14,14.0,7.0,5.0,Titans,2016
-33,91.0,Derrick Morgan,1/6/1989,27.0,6-4,261.0,Georgia Tech,LOLB,15,15.0,6.0,7.0,Titans,2016
-34,29.0,DeMarco Murray,2/12/1988,28.0,6-1,220.0,Oklahoma,RB,16,16.0,5.0,12.0,Titans,2016
-35,98.0,Brian Orakpo,7/31/1986,30.0,6-4,257.0,Texas,ROLB,16,16.0,7.0,11.0,Titans,2016
-36,50.0,Nate Palmer,9/23/1989,27.0,6-2,248.0,Illinois St.,LB,14,0.0,3.0,1.0,Titans,2016
-37,37.0,Kalan Reed,12/29/1993,23.0,5-11,199.0,Southern Miss,DB,4,0.0,0.0,0.0,Titans,2016
-38,28.0,Cody Riggs,12/30/1991,25.0,5-9,186.0,"Florida,Notre Dame",DB,3,0.0,1.0,0.0,Titans,2016
-39,35.0,Curtis Riley,7/18/1992,24.0,6-0,190.0,Fresno St.,DB,4,0.0,0.0,0.0,Titans,2016
-40,62.0,Brian Schwenke,3/22/1991,25.0,6-3,310.0,California,C,16,3.0,3.0,2.0,Titans,2016
-41,21.0,Da'Norris Searcy,11/16/1988,28.0,5-11,205.0,North Carolina,SS,14,14.0,5.0,5.0,Titans,2016
-42,19.0,Tajae Sharpe,12/23/1994,22.0,6-2,194.0,Massachusetts,WR,16,10.0,0.0,5.0,Titans,2016
-43,36.0,LeShaun Sims,9/18/1993,23.0,6-0,203.0,Southern Utah,DB,13,2.0,0.0,2.0,Titans,2016
-44,20.0,D'Joun Smith,9/23/1992,24.0,5-11,193.0,Florida Atlantic,DB,1,0.0,1.0,0.0,Titans,2016
-45,67.0,Quinton Spain,8/7/1991,25.0,6-4,330.0,West Virginia,LG,14,13.0,1.0,6.0,Titans,2016
-46,55.0,Sean Spence,6/7/1990,26.0,5-11,231.0,Miami (FL),LILB,15,6.0,2.0,4.0,Titans,2016
-47,24.0,Daimion Stafford,2/18/1991,25.0,6-0,221.0,Nebraska,S,15,6.0,3.0,3.0,Titans,2016
-48,57.0,Justin Staples,12/10/1989,27.0,6-4,245.0,Illinois,DE,3,0.0,2.0,0.0,Titans,2016
-49,4.0,Ryan Succop,9/19/1986,30.0,6-2,218.0,South Carolina,K,16,0.0,7.0,5.0,Titans,2016
-50,89.0,Phillip Supernaw,1/30/1990,26.0,6-5,255.0,Ouachita Baptist,TE,15,2.0,3.0,1.0,Titans,2016
-51,79.0,Sebastian Tretola,5/1/1992,24.0,6-4,317.0,Arkansas,G,1,0.0,0.0,0.0,Titans,2016
-52,82.0,Delanie Walker,8/12/1984,32.0,6-2,248.0,Central Missouri St.,TE,15,9.0,10.0,7.0,Titans,2016
-53,52.0,Aaron Wallace,7/8/1993,23.0,6-2,242.0,UCLA,LB,10,0.0,0.0,1.0,Titans,2016
-54,70.0,Chance Warmack,9/14/1991,25.0,6-2,323.0,Alabama,G,2,2.0,3.0,1.0,Titans,2016
-55,54.0,Avery Williamson,3/9/1992,24.0,6-1,246.0,Kentucky,RILB,16,16.0,2.0,9.0,Titans,2016
-56,96.0,Al Woods,3/25/1987,29.0,6-4,309.0,LSU,NT,12,7.0,6.0,4.0,Titans,2016
-57,75.0,Antwaun Woods,1/3/1993,23.0,6-1,318.0,USC,DT,1,0.0,0.0,0.0,Titans,2016
-58,59.0,Wesley Woodyard,7/21/1986,30.0,6-0,233.0,Kentucky,LILB,16,10.0,8.0,6.0,Titans,2016
-59,13.0,Kendall Wright,11/12/1989,27.0,5-10,185.0,Baylor,WR,11,4.0,4.0,4.0,Titans,2016
-60,,Team Total,,26.4,6-1.9,247.8,,,16,,3.6,,Titans,2016
+No.,Player,BirthDate,Age,Height,Weight,College/University,Position,Games_Played_in_Season,Games_Started_in_Season,NFL_Years,Player_Value,Team,Year
+92.0,Mehdi Abdesmad,9/28/1991,25.0,6-6,284.0,Boston Col.,DE,2,0.0,0.0,0.0,Titans,2016
+88.0,Jace Amaro,6/26/1992,24.0,6-5,265.0,Texas Tech,TE,3,0.0,2.0,1.0,Titans,2016
+26.0,Antonio Andrews,8/17/1992,24.0,5-10,225.0,Western Kentucky,RB,16,0.0,2.0,0.0,Titans,2016
+51.0,David Bass,9/11/1990,26.0,6-4,267.0,Missouri Western St.,DE,13,0.0,3.0,1.0,Titans,2016
+95.0,Angelo Blackson,11/14/1992,24.0,6-4,305.0,Auburn,DT,13,1.0,1.0,1.0,Titans,2016
+47.0,Antwon Blake,8/9/1990,26.0,5-9,198.0,Texas-El Paso,DB,16,1.0,4.0,1.0,Titans,2016
+48.0,Beau Brinkley,1/25/1990,26.0,6-4,260.0,Missouri,TE,16,0.0,4.0,1.0,Titans,2016
+31.0,Kevin Byard,8/17/1993,23.0,5-11,212.0,Middle Tenn. St.,FS,16,7.0,0.0,3.0,Titans,2016
+99.0,Jurrell Casey,12/5/1989,27.0,6-1,305.0,USC,RDE,15,15.0,5.0,11.0,Titans,2016
+16.0,Matt Cassel,5/17/1982,34.0,6-4,225.0,USC,QB,4,1.0,11.0,1.0,Titans,2016
+78.0,Jack Conklin,8/17/1994,22.0,6-6,308.0,Michigan St.,RT,16,16.0,0.0,14.0,Titans,2016
+20.0,Perrish Cox,1/10/1987,29.0,5-11,189.0,Oklahoma St.,LCB,11,9.0,6.0,4.0,Titans,2016
+93.0,Kevin Dodd,7/14/1992,24.0,6-5,277.0,Clemson,DE,9,1.0,0.0,1.0,Titans,2016
+83.0,Harry Douglas,9/16/1984,32.0,6-0,183.0,Louisville,WR,11,2.0,8.0,2.0,Titans,2016
+80.0,Anthony Fasano,4/20/1984,32.0,6-4,258.0,Notre Dame,TE,16,10.0,10.0,1.0,Titans,2016
+45.0,Jalston Fowler,7/26/1990,26.0,5-11,261.0,Alabama,RB,16,6.0,1.0,0.0,Titans,2016
+22.0,Derrick Henry,1/4/1994,22.0,6-3,247.0,Alabama,RB,15,2.0,0.0,4.0,Titans,2016
+81.0,Andre Johnson,7/11/1981,35.0,6-3,229.0,Miami (FL),WR,8,4.0,13.0,1.0,Titans,2016
+94.0,Austin Johnson,5/8/1994,22.0,6-4,314.0,Penn St.,NT,10,0.0,0.0,1.0,Titans,2016
+25.0,Rashad Johnson,1/2/1986,30.0,6-0,195.0,Alabama,FS,14,7.0,7.0,3.0,Titans,2016
+60.0,Ben Jones,7/2/1989,27.0,6-3,308.0,Georgia,C,16,16.0,4.0,8.0,Titans,2016
+90.0,DaQuan Jones,12/17/1991,25.0,6-4,320.0,Penn St.,LDE,16,16.0,2.0,8.0,Titans,2016
+71.0,Dennis Kelly,1/16/1990,26.0,6-8,321.0,Purdue,T,16,6.0,4.0,4.0,Titans,2016
+6.0,Brett Kern,2/17/1986,30.0,6-2,214.0,Toledo,P,16,0.0,8.0,2.0,Titans,2016
+64.0,Josh Kline,12/29/1989,27.0,6-3,300.0,Kent St.,RG,14,14.0,3.0,7.0,Titans,2016
+97.0,Karl Klug,3/31/1988,28.0,6-3,278.0,Iowa,DT,14,3.0,5.0,3.0,Titans,2016
+77.0,Taylor Lewan,7/22/1991,25.0,6-7,309.0,Michigan,LT,16,16.0,2.0,10.0,Titans,2016
+87.0,Marc Mariani,5/2/1987,29.0,6-1,190.0,Montana,WR,16,0.0,6.0,0.0,Titans,2016
+8.0,Marcus Mariota,10/30/1993,23.0,6-4,222.0,Oregon,QB,15,15.0,1.0,13.0,Titans,2016
+18.0,Rishard Matthews,10/12/1989,27.0,6-0,217.0,Nevada,WR,16,9.0,4.0,8.0,Titans,2016
+10.0,Tre McBride,12/1/1992,24.0,6-0,210.0,William & Mary,WR,2,0.0,1.0,0.0,Titans,2016
+23.0,Brice McCain,12/10/1986,30.0,5-9,190.0,Utah,DB,16,10.0,7.0,4.0,Titans,2016
+30.0,Jason McCourty,8/13/1987,29.0,5-11,195.0,Rutgers,RCB,14,14.0,7.0,5.0,Titans,2016
+91.0,Derrick Morgan,1/6/1989,27.0,6-4,261.0,Georgia Tech,LOLB,15,15.0,6.0,7.0,Titans,2016
+29.0,DeMarco Murray,2/12/1988,28.0,6-1,220.0,Oklahoma,RB,16,16.0,5.0,12.0,Titans,2016
+98.0,Brian Orakpo,7/31/1986,30.0,6-4,257.0,Texas,ROLB,16,16.0,7.0,11.0,Titans,2016
+50.0,Nate Palmer,9/23/1989,27.0,6-2,248.0,Illinois St.,LB,14,0.0,3.0,1.0,Titans,2016
+37.0,Kalan Reed,12/29/1993,23.0,5-11,199.0,Southern Miss,DB,4,0.0,0.0,0.0,Titans,2016
+28.0,Cody Riggs,12/30/1991,25.0,5-9,186.0,"Florida,Notre Dame",DB,3,0.0,1.0,0.0,Titans,2016
+35.0,Curtis Riley,7/18/1992,24.0,6-0,190.0,Fresno St.,DB,4,0.0,0.0,0.0,Titans,2016
+62.0,Brian Schwenke,3/22/1991,25.0,6-3,310.0,California,C,16,3.0,3.0,2.0,Titans,2016
+21.0,Da'Norris Searcy,11/16/1988,28.0,5-11,205.0,North Carolina,SS,14,14.0,5.0,5.0,Titans,2016
+19.0,Tajae Sharpe,12/23/1994,22.0,6-2,194.0,Massachusetts,WR,16,10.0,0.0,5.0,Titans,2016
+36.0,LeShaun Sims,9/18/1993,23.0,6-0,203.0,Southern Utah,DB,13,2.0,0.0,2.0,Titans,2016
+20.0,D'Joun Smith,9/23/1992,24.0,5-11,193.0,Florida Atlantic,DB,1,0.0,1.0,0.0,Titans,2016
+67.0,Quinton Spain,8/7/1991,25.0,6-4,330.0,West Virginia,LG,14,13.0,1.0,6.0,Titans,2016
+55.0,Sean Spence,6/7/1990,26.0,5-11,231.0,Miami (FL),LILB,15,6.0,2.0,4.0,Titans,2016
+24.0,Daimion Stafford,2/18/1991,25.0,6-0,221.0,Nebraska,S,15,6.0,3.0,3.0,Titans,2016
+57.0,Justin Staples,12/10/1989,27.0,6-4,245.0,Illinois,DE,3,0.0,2.0,0.0,Titans,2016
+4.0,Ryan Succop,9/19/1986,30.0,6-2,218.0,South Carolina,K,16,0.0,7.0,5.0,Titans,2016
+89.0,Phillip Supernaw,1/30/1990,26.0,6-5,255.0,Ouachita Baptist,TE,15,2.0,3.0,1.0,Titans,2016
+79.0,Sebastian Tretola,5/1/1992,24.0,6-4,317.0,Arkansas,G,1,0.0,0.0,0.0,Titans,2016
+82.0,Delanie Walker,8/12/1984,32.0,6-2,248.0,Central Missouri St.,TE,15,9.0,10.0,7.0,Titans,2016
+52.0,Aaron Wallace,7/8/1993,23.0,6-2,242.0,UCLA,LB,10,0.0,0.0,1.0,Titans,2016
+70.0,Chance Warmack,9/14/1991,25.0,6-2,323.0,Alabama,G,2,2.0,3.0,1.0,Titans,2016
+54.0,Avery Williamson,3/9/1992,24.0,6-1,246.0,Kentucky,RILB,16,16.0,2.0,9.0,Titans,2016
+96.0,Al Woods,3/25/1987,29.0,6-4,309.0,LSU,NT,12,7.0,6.0,4.0,Titans,2016
+75.0,Antwaun Woods,1/3/1993,23.0,6-1,318.0,USC,DT,1,0.0,0.0,0.0,Titans,2016
+59.0,Wesley Woodyard,7/21/1986,30.0,6-0,233.0,Kentucky,LILB,16,10.0,8.0,6.0,Titans,2016
+13.0,Kendall Wright,11/12/1989,27.0,5-10,185.0,Baylor,WR,11,4.0,4.0,4.0,Titans,2016
+,Team Total,,26.4,6-1.9,247.8,,,16,,3.6,,Titans,2016

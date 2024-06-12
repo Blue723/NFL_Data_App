@@ -1,63 +1,63 @@
-,No.,Player,BirthDate,Age,Height,Weight,College/University,Position,Games_Played_in_Season,Games_Started_in_Season,NFL_Years,Player_Value,Team,Year
-0,20.0,Mackensie Alexander,11/12/1993,23.0,5-10,192.0,Clemson,LB,13,0.0,0.0,1.0,Vikings,2016
-1,44.0,Matt Asiata,7/24/1987,29.0,5-11,229.0,"Snow College (UT),Utah",RB,16,6.0,4.0,5.0,Vikings,2016
-2,55.0,Anthony Barr,3/18/1992,24.0,6-5,257.0,UCLA,RLB,16,16.0,2.0,10.0,Vikings,2016
-3,64.0,Willie Beavers,10/2/1993,23.0,6-5,324.0,Western Michigan,T,2,0.0,0.0,0.0,Vikings,2016
-4,61.0,Joe Berger,5/25/1982,34.0,6-5,305.0,Michigan Tech,C,14,14.0,11.0,6.0,Vikings,2016
-5,76.0,Alex Boone,5/4/1987,29.0,6-7,330.0,Ohio St.,LG,14,14.0,6.0,6.0,Vikings,2016
-6,8.0,Sam Bradford,11/8/1987,29.0,6-4,224.0,Oklahoma,QB,15,15.0,6.0,11.0,Vikings,2016
-7,40.0,Kentrell Brothers,2/8/1993,23.0,6-1,242.0,Missouri,LB,10,0.0,0.0,1.0,Vikings,2016
-8,68.0,T.J. Clemmings,11/18/1991,25.0,6-4,337.0,Pittsburgh,LT,15,14.0,1.0,6.0,Vikings,2016
-9,57.0,Audie Cole,6/1/1989,27.0,6-4,246.0,North Carolina St.,LB,16,0.0,4.0,2.0,Vikings,2016
-10,14.0,Stefon Diggs,11/29/1993,23.0,6-0,191.0,Maryland,WR,13,11.0,1.0,7.0,Vikings,2016
-11,62.0,Nick Easton,6/16/1992,24.0,6-3,303.0,Harvard,C,11,5.0,0.0,3.0,Vikings,2016
-12,85.0,Rhett Ellison,10/3/1988,28.0,6-5,255.0,USC,TE,15,6.0,4.0,0.0,Vikings,2016
-13,73.0,Sharrif Floyd,5/28/1992,24.0,6-3,297.0,Florida,DT,1,0.0,3.0,0.0,Vikings,2016
-14,2.0,Kai Forbath,9/2/1987,29.0,5-11,197.0,UCLA,K,7,0.0,4.0,2.0,Vikings,2016
-15,15.0,Isaac Fruechte,3/7/1991,25.0,6-3,210.0,Minnesota,WR,1,0.0,0.0,0.0,Vikings,2016
-16,63.0,Brandon Fusco,7/26/1988,28.0,6-4,306.0,Slippery Rock,RG,14,14.0,5.0,6.0,Vikings,2016
-17,52.0,Chad Greenway,1/12/1983,33.0,6-3,237.0,Iowa,LLB,16,9.0,9.0,5.0,Vikings,2016
-18,97.0,Everson Griffen,12/22/1987,29.0,6-3,273.0,USC,RDE,16,16.0,6.0,13.0,Vikings,2016
-19,41.0,Anthony Harris,10/9/1991,25.0,6-1,202.0,Virginia,DB,16,3.0,1.0,2.0,Vikings,2016
-20,69.0,Rashod Hill,1/12/1992,24.0,6-6,310.0,Southern Miss,T,1,0.0,0.0,0.0,Vikings,2016
-21,13.0,Shaun Hill,1/9/1980,36.0,6-3,230.0,Maryland,QB,3,1.0,11.0,1.0,Vikings,2016
-22,33.0,Ronnie Hillman,9/14/1991,25.0,5-9,200.0,San Diego St.,RB,5,0.0,4.0,1.0,Vikings,2016
-23,99.0,Danielle Hunter,10/29/1994,22.0,6-5,263.0,LSU,DE,16,0.0,1.0,4.0,Vikings,2016
-24,12.0,Charles Johnson,2/27/1989,27.0,6-2,215.0,Grand Valley St.,WR,16,7.0,2.0,2.0,Vikings,2016
-25,90.0,Toby Johnson,9/1/1991,25.0,6-4,320.0,Georgia,DT,2,0.0,0.0,0.0,Vikings,2016
-26,92.0,Tom Johnson,8/30/1984,32.0,6-3,285.0,"Mississippi Gulf Coast CC,Southern Miss",DT,14,0.0,5.0,2.0,Vikings,2016
-27,98.0,Linval Joseph,10/10/1988,28.0,6-4,329.0,East Carolina,RDT,16,16.0,6.0,11.0,Vikings,2016
-28,75.0,Matt Kalil,7/6/1989,27.0,6-7,315.0,USC,T,2,2.0,4.0,1.0,Vikings,2016
-29,27.0,Jayron Kearse,2/11/1994,22.0,6-4,215.0,Clemson,DB,16,1.0,0.0,1.0,Vikings,2016
-30,54.0,Eric Kendricks,2/29/1992,24.0,6-0,232.0,UCLA,MLB,15,14.0,1.0,8.0,Vikings,2016
-31,67.0,Zac Kerin,8/13/1991,25.0,6-5,305.0,Toledo,C,9,0.0,1.0,1.0,Vikings,2016
-32,59.0,Emmanuel Lamur,6/8/1989,27.0,6-4,245.0,"Independence (KS),Kansas St.",LB,16,0.0,4.0,1.0,Vikings,2016
-33,48.0,Zach Line,4/26/1990,26.0,6-1,233.0,SMU,RB,15,4.0,3.0,0.0,Vikings,2016
-34,18.0,Jeff Locke,9/27/1989,27.0,6-0,195.0,UCLA,P,16,0.0,3.0,1.0,Vikings,2016
-35,72.0,Jake Long,5/9/1985,31.0,6-7,315.0,Michigan,T,4,3.0,8.0,1.0,Vikings,2016
-36,47.0,Kevin McDermott,1/12/1990,26.0,6-5,240.0,UCLA,LS,16,0.0,3.0,1.0,Vikings,2016
-37,21.0,Jerick McKinnon,5/3/1992,24.0,5-9,209.0,Georgia Southern,RB,15,7.0,2.0,6.0,Vikings,2016
-38,89.0,David Morgan,5/19/1993,23.0,6-4,265.0,Texas-San Antonio,TE,12,0.0,0.0,0.0,Vikings,2016
-39,24.0,Captain Munnerlyn,4/10/1988,28.0,5-9,195.0,South Carolina,DB,15,9.0,7.0,3.0,Vikings,2016
-40,23.0,Terence Newman,9/4/1978,38.0,5-10,197.0,Kansas St.,LCB,15,10.0,13.0,4.0,Vikings,2016
-41,84.0,Cordarrelle Patterson,3/17/1991,25.0,6-2,220.0,Tennessee,WR,16,8.0,3.0,5.0,Vikings,2016
-42,28.0,Adrian Peterson,3/21/1985,31.0,6-1,220.0,Oklahoma,RB,3,3.0,9.0,1.0,Vikings,2016
-43,83.0,MyCole Pruitt,3/24/1992,24.0,6-2,245.0,Southern Illinois,TE,2,0.0,1.0,0.0,Vikings,2016
-44,29.0,Xavier Rhodes,6/19/1990,26.0,6-1,218.0,Florida St.,RCB,14,14.0,3.0,9.0,Vikings,2016
-45,51.0,Edmond Robinson,2/23/1992,24.0,6-3,245.0,Newberry,LB,12,0.0,1.0,1.0,Vikings,2016
-46,96.0,Brian Robison,4/27/1983,33.0,6-3,259.0,Texas,LDE,16,16.0,9.0,8.0,Vikings,2016
-47,82.0,Kyle Rudolph,11/9/1989,27.0,6-6,265.0,Notre Dame,TE,16,16.0,5.0,7.0,Vikings,2016
-48,34.0,Andrew Sendejo,9/9/1987,29.0,6-1,210.0,Rice,SS,14,14.0,6.0,6.0,Vikings,2016
-49,35.0,Marcus Sherels,9/30/1987,29.0,5-10,175.0,Minnesota,DB,11,0.0,6.0,3.0,Vikings,2016
-50,78.0,Jeremiah Sirles,8/8/1991,25.0,6-6,315.0,Nebraska,RT,14,10.0,2.0,5.0,Vikings,2016
-51,71.0,Andre Smith,1/25/1987,29.0,6-7,335.0,Alabama,T,4,4.0,7.0,2.0,Vikings,2016
-52,22.0,Harrison Smith,2/2/1989,27.0,6-2,211.0,Notre Dame,FS,14,14.0,4.0,7.0,Vikings,2016
-53,93.0,Shamar Stephen,2/25/1991,25.0,6-5,310.0,Connecticut,LDT,16,16.0,2.0,8.0,Vikings,2016
-54,19.0,Adam Thielen,8/22/1990,26.0,6-2,195.0,Minnesota St.,WR,16,10.0,2.0,8.0,Vikings,2016
-55,94.0,Justin Trattou,8/28/1988,28.0,6-4,258.0,Florida,DE,16,0.0,5.0,1.0,Vikings,2016
-56,11.0,Laquon Treadwell,6/14/1995,21.0,6-2,215.0,Mississippi,WR,9,1.0,0.0,0.0,Vikings,2016
-57,3.0,Blair Walsh,1/8/1990,26.0,5-10,175.0,Georgia,K,9,0.0,4.0,0.0,Vikings,2016
-58,26.0,Trae Waynes,7/25/1992,24.0,6-0,190.0,Michigan St.,DB,15,8.0,1.0,4.0,Vikings,2016
-59,91.0,Stephen Weatherly,3/19/1994,22.0,6-5,262.0,Vanderbilt,LB,2,0.0,0.0,0.0,Vikings,2016
-60,17.0,Jarius Wright,11/25/1989,27.0,5-10,190.0,Arkansas,WR,8,1.0,4.0,1.0,Vikings,2016
-61,,Team Total,,26.7,6-2.5,248.9,,,16,,3.6,,Vikings,2016
+No.,Player,BirthDate,Age,Height,Weight,College/University,Position,Games_Played_in_Season,Games_Started_in_Season,NFL_Years,Player_Value,Team,Year
+20.0,Mackensie Alexander,11/12/1993,23.0,5-10,192.0,Clemson,LB,13,0.0,0.0,1.0,Vikings,2016
+44.0,Matt Asiata,7/24/1987,29.0,5-11,229.0,"Snow College (UT),Utah",RB,16,6.0,4.0,5.0,Vikings,2016
+55.0,Anthony Barr,3/18/1992,24.0,6-5,257.0,UCLA,RLB,16,16.0,2.0,10.0,Vikings,2016
+64.0,Willie Beavers,10/2/1993,23.0,6-5,324.0,Western Michigan,T,2,0.0,0.0,0.0,Vikings,2016
+61.0,Joe Berger,5/25/1982,34.0,6-5,305.0,Michigan Tech,C,14,14.0,11.0,6.0,Vikings,2016
+76.0,Alex Boone,5/4/1987,29.0,6-7,330.0,Ohio St.,LG,14,14.0,6.0,6.0,Vikings,2016
+8.0,Sam Bradford,11/8/1987,29.0,6-4,224.0,Oklahoma,QB,15,15.0,6.0,11.0,Vikings,2016
+40.0,Kentrell Brothers,2/8/1993,23.0,6-1,242.0,Missouri,LB,10,0.0,0.0,1.0,Vikings,2016
+68.0,T.J. Clemmings,11/18/1991,25.0,6-4,337.0,Pittsburgh,LT,15,14.0,1.0,6.0,Vikings,2016
+57.0,Audie Cole,6/1/1989,27.0,6-4,246.0,North Carolina St.,LB,16,0.0,4.0,2.0,Vikings,2016
+14.0,Stefon Diggs,11/29/1993,23.0,6-0,191.0,Maryland,WR,13,11.0,1.0,7.0,Vikings,2016
+62.0,Nick Easton,6/16/1992,24.0,6-3,303.0,Harvard,C,11,5.0,0.0,3.0,Vikings,2016
+85.0,Rhett Ellison,10/3/1988,28.0,6-5,255.0,USC,TE,15,6.0,4.0,0.0,Vikings,2016
+73.0,Sharrif Floyd,5/28/1992,24.0,6-3,297.0,Florida,DT,1,0.0,3.0,0.0,Vikings,2016
+2.0,Kai Forbath,9/2/1987,29.0,5-11,197.0,UCLA,K,7,0.0,4.0,2.0,Vikings,2016
+15.0,Isaac Fruechte,3/7/1991,25.0,6-3,210.0,Minnesota,WR,1,0.0,0.0,0.0,Vikings,2016
+63.0,Brandon Fusco,7/26/1988,28.0,6-4,306.0,Slippery Rock,RG,14,14.0,5.0,6.0,Vikings,2016
+52.0,Chad Greenway,1/12/1983,33.0,6-3,237.0,Iowa,LLB,16,9.0,9.0,5.0,Vikings,2016
+97.0,Everson Griffen,12/22/1987,29.0,6-3,273.0,USC,RDE,16,16.0,6.0,13.0,Vikings,2016
+41.0,Anthony Harris,10/9/1991,25.0,6-1,202.0,Virginia,DB,16,3.0,1.0,2.0,Vikings,2016
+69.0,Rashod Hill,1/12/1992,24.0,6-6,310.0,Southern Miss,T,1,0.0,0.0,0.0,Vikings,2016
+13.0,Shaun Hill,1/9/1980,36.0,6-3,230.0,Maryland,QB,3,1.0,11.0,1.0,Vikings,2016
+33.0,Ronnie Hillman,9/14/1991,25.0,5-9,200.0,San Diego St.,RB,5,0.0,4.0,1.0,Vikings,2016
+99.0,Danielle Hunter,10/29/1994,22.0,6-5,263.0,LSU,DE,16,0.0,1.0,4.0,Vikings,2016
+12.0,Charles Johnson,2/27/1989,27.0,6-2,215.0,Grand Valley St.,WR,16,7.0,2.0,2.0,Vikings,2016
+90.0,Toby Johnson,9/1/1991,25.0,6-4,320.0,Georgia,DT,2,0.0,0.0,0.0,Vikings,2016
+92.0,Tom Johnson,8/30/1984,32.0,6-3,285.0,"Mississippi Gulf Coast CC,Southern Miss",DT,14,0.0,5.0,2.0,Vikings,2016
+98.0,Linval Joseph,10/10/1988,28.0,6-4,329.0,East Carolina,RDT,16,16.0,6.0,11.0,Vikings,2016
+75.0,Matt Kalil,7/6/1989,27.0,6-7,315.0,USC,T,2,2.0,4.0,1.0,Vikings,2016
+27.0,Jayron Kearse,2/11/1994,22.0,6-4,215.0,Clemson,DB,16,1.0,0.0,1.0,Vikings,2016
+54.0,Eric Kendricks,2/29/1992,24.0,6-0,232.0,UCLA,MLB,15,14.0,1.0,8.0,Vikings,2016
+67.0,Zac Kerin,8/13/1991,25.0,6-5,305.0,Toledo,C,9,0.0,1.0,1.0,Vikings,2016
+59.0,Emmanuel Lamur,6/8/1989,27.0,6-4,245.0,"Independence (KS),Kansas St.",LB,16,0.0,4.0,1.0,Vikings,2016
+48.0,Zach Line,4/26/1990,26.0,6-1,233.0,SMU,RB,15,4.0,3.0,0.0,Vikings,2016
+18.0,Jeff Locke,9/27/1989,27.0,6-0,195.0,UCLA,P,16,0.0,3.0,1.0,Vikings,2016
+72.0,Jake Long,5/9/1985,31.0,6-7,315.0,Michigan,T,4,3.0,8.0,1.0,Vikings,2016
+47.0,Kevin McDermott,1/12/1990,26.0,6-5,240.0,UCLA,LS,16,0.0,3.0,1.0,Vikings,2016
+21.0,Jerick McKinnon,5/3/1992,24.0,5-9,209.0,Georgia Southern,RB,15,7.0,2.0,6.0,Vikings,2016
+89.0,David Morgan,5/19/1993,23.0,6-4,265.0,Texas-San Antonio,TE,12,0.0,0.0,0.0,Vikings,2016
+24.0,Captain Munnerlyn,4/10/1988,28.0,5-9,195.0,South Carolina,DB,15,9.0,7.0,3.0,Vikings,2016
+23.0,Terence Newman,9/4/1978,38.0,5-10,197.0,Kansas St.,LCB,15,10.0,13.0,4.0,Vikings,2016
+84.0,Cordarrelle Patterson,3/17/1991,25.0,6-2,220.0,Tennessee,WR,16,8.0,3.0,5.0,Vikings,2016
+28.0,Adrian Peterson,3/21/1985,31.0,6-1,220.0,Oklahoma,RB,3,3.0,9.0,1.0,Vikings,2016
+83.0,MyCole Pruitt,3/24/1992,24.0,6-2,245.0,Southern Illinois,TE,2,0.0,1.0,0.0,Vikings,2016
+29.0,Xavier Rhodes,6/19/1990,26.0,6-1,218.0,Florida St.,RCB,14,14.0,3.0,9.0,Vikings,2016
+51.0,Edmond Robinson,2/23/1992,24.0,6-3,245.0,Newberry,LB,12,0.0,1.0,1.0,Vikings,2016
+96.0,Brian Robison,4/27/1983,33.0,6-3,259.0,Texas,LDE,16,16.0,9.0,8.0,Vikings,2016
+82.0,Kyle Rudolph,11/9/1989,27.0,6-6,265.0,Notre Dame,TE,16,16.0,5.0,7.0,Vikings,2016
+34.0,Andrew Sendejo,9/9/1987,29.0,6-1,210.0,Rice,SS,14,14.0,6.0,6.0,Vikings,2016
+35.0,Marcus Sherels,9/30/1987,29.0,5-10,175.0,Minnesota,DB,11,0.0,6.0,3.0,Vikings,2016
+78.0,Jeremiah Sirles,8/8/1991,25.0,6-6,315.0,Nebraska,RT,14,10.0,2.0,5.0,Vikings,2016
+71.0,Andre Smith,1/25/1987,29.0,6-7,335.0,Alabama,T,4,4.0,7.0,2.0,Vikings,2016
+22.0,Harrison Smith,2/2/1989,27.0,6-2,211.0,Notre Dame,FS,14,14.0,4.0,7.0,Vikings,2016
+93.0,Shamar Stephen,2/25/1991,25.0,6-5,310.0,Connecticut,LDT,16,16.0,2.0,8.0,Vikings,2016
+19.0,Adam Thielen,8/22/1990,26.0,6-2,195.0,Minnesota St.,WR,16,10.0,2.0,8.0,Vikings,2016
+94.0,Justin Trattou,8/28/1988,28.0,6-4,258.0,Florida,DE,16,0.0,5.0,1.0,Vikings,2016
+11.0,Laquon Treadwell,6/14/1995,21.0,6-2,215.0,Mississippi,WR,9,1.0,0.0,0.0,Vikings,2016
+3.0,Blair Walsh,1/8/1990,26.0,5-10,175.0,Georgia,K,9,0.0,4.0,0.0,Vikings,2016
+26.0,Trae Waynes,7/25/1992,24.0,6-0,190.0,Michigan St.,DB,15,8.0,1.0,4.0,Vikings,2016
+91.0,Stephen Weatherly,3/19/1994,22.0,6-5,262.0,Vanderbilt,LB,2,0.0,0.0,0.0,Vikings,2016
+17.0,Jarius Wright,11/25/1989,27.0,5-10,190.0,Arkansas,WR,8,1.0,4.0,1.0,Vikings,2016
+,Team Total,,26.7,6-2.5,248.9,,,16,,3.6,,Vikings,2016

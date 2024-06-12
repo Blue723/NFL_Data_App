@@ -1,62 +1,62 @@
-,No.,Player,BirthDate,Age,Height,Weight,College/University,Position,Games_Played_in_Season,Games_Started_in_Season,NFL_Years,Player_Value,Team,Year
-0,76.0,Richard Ash,8/4/1992,24.0,6-3,320.0,"Michigan,Western Michigan",NT,1,0.0,1.0,0.0,Cowboys,2016
-1,5.0,Dan Bailey,1/26/1988,28.0,6-0,190.0,Oklahoma St.,K,16,0.0,5.0,4.0,Cowboys,2016
-2,11.0,Cole Beasley,4/26/1989,27.0,5-8,174.0,SMU,WR,16,6.0,4.0,8.0,Cowboys,2016
-3,30.0,Anthony Brown,12/15/1993,23.0,5-11,196.0,Purdue,RCB,16,9.0,0.0,4.0,Cowboys,2016
-4,88.0,Dez Bryant,11/4/1988,28.0,6-2,220.0,Oklahoma St.,WR,13,13.0,6.0,8.0,Cowboys,2016
-5,19.0,Brice Butler,1/29/1990,26.0,6-3,211.0,"USC,San Diego St.",WR,16,3.0,3.0,2.0,Cowboys,2016
-6,39.0,Brandon Carr,5/19/1986,30.0,6-0,210.0,Grand Valley St.,LCB,16,16.0,8.0,6.0,Cowboys,2016
-7,42.0,Barry Church,2/11/1988,28.0,6-2,218.0,Toledo,SS,12,12.0,6.0,5.0,Cowboys,2016
-8,24.0,Morris Claiborne,2/7/1990,26.0,5-11,192.0,LSU,RCB,7,7.0,4.0,3.0,Cowboys,2016
-9,63.0,Emmett Cleary,4/27/1990,26.0,6-7,320.0,Boston Col.,T,13,1.0,0.0,2.0,Cowboys,2016
-10,71.0,La'el Collins,7/26/1993,23.0,6-4,320.0,LSU,T,3,3.0,1.0,1.0,Cowboys,2016
-11,96.0,Maliek Collins,4/8/1995,21.0,6-2,310.0,Nebraska,RDT,16,14.0,0.0,7.0,Cowboys,2016
-12,58.0,Jack Crawford,9/7/1988,28.0,6-5,288.0,Penn St.,RDE/LDE,16,10.0,4.0,5.0,Cowboys,2016
-13,98.0,Tyrone Crawford,11/22/1989,27.0,6-4,290.0,Boise St.,LDE/LDT,14,14.0,4.0,7.0,Cowboys,2016
-14,75.0,Ryan Davis,2/24/1989,27.0,6-2,260.0,Bethune-Cookman,LB,9,0.0,4.0,1.0,Cowboys,2016
-15,25.0,Lance Dunbar,1/25/1990,26.0,5-8,191.0,North Texas,RB,13,0.0,4.0,1.0,Cowboys,2016
-16,56.0,Justin Durant,9/21/1985,31.0,6-4,230.0,Hampton,LB,13,0.0,9.0,1.0,Cowboys,2016
-17,21.0,Ezekiel Elliott,7/22/1995,21.0,6-0,225.0,Ohio St.,RB,15,15.0,0.0,16.0,Cowboys,2016
-18,89.0,Gavin Escobar,2/3/1991,25.0,6-5,247.0,San Diego St.,TE,16,1.0,3.0,0.0,Cowboys,2016
-19,35.0,Kavon Frazier,8/11/1994,22.0,6-0,220.0,Central Michigan,DB,9,0.0,0.0,1.0,Cowboys,2016
-20,72.0,Travis Frederick,3/18/1991,25.0,6-4,320.0,Wisconsin,C,16,16.0,3.0,15.0,Cowboys,2016
-21,68.0,Doug Free,1/6/1984,32.0,6-6,324.0,Northern Illinois,RT,16,16.0,9.0,8.0,Cowboys,2016
-22,52.0,Andrew Gachkar,11/4/1988,28.0,6-2,224.0,Missouri,LB,16,0.0,5.0,1.0,Cowboys,2016
-23,79.0,Chaz Green,4/8/1992,24.0,6-5,318.0,Florida,T,4,2.0,0.0,1.0,Cowboys,2016
-24,94.0,Randy Gregory,11/23/1992,24.0,6-5,242.0,"Arizona Western,Nebraska",DE,2,0.0,1.0,1.0,Cowboys,2016
-25,38.0,Jeff Heath,5/14/1991,25.0,6-1,212.0,Saginaw Valley St.,DB,16,0.0,3.0,1.0,Cowboys,2016
-26,59.0,Anthony Hitchens,6/10/1992,24.0,6-0,231.0,Iowa,MLB,16,16.0,2.0,7.0,Cowboys,2016
-27,95.0,David Irving,8/18/1993,23.0,6-7,290.0,Iowa St.,DT,15,2.0,1.0,3.0,Cowboys,2016
-28,31.0,Byron Jones,9/26/1992,24.0,6-1,194.0,Connecticut,FS,16,16.0,1.0,6.0,Cowboys,2016
-29,6.0,Chris Jones,7/21/1989,27.0,6-0,205.0,Carson-Newman,P,16,0.0,5.0,2.0,Cowboys,2016
-30,91.0,L.P. Ladouceur,3/13/1981,35.0,6-5,256.0,California,DE,16,0.0,11.0,1.0,Cowboys,2016
-31,90.0,DeMarcus Lawrence,4/28/1992,24.0,6-3,265.0,"Butler (KS),Boise St.",DE,9,3.0,2.0,2.0,Cowboys,2016
-32,65.0,Ronald Leary,4/29/1989,27.0,6-3,320.0,Memphis,LG,13,12.0,3.0,6.0,Cowboys,2016
-33,50.0,Sean Lee,7/22/1986,30.0,6-2,245.0,Penn St.,RLB,15,15.0,6.0,16.0,Cowboys,2016
-34,73.0,Joe Looney,8/31/1990,26.0,6-3,315.0,Wake Forest,C,16,3.0,3.0,2.0,Cowboys,2016
-35,70.0,Zack Martin,11/20/1990,26.0,6-4,315.0,Notre Dame,RG,16,16.0,2.0,15.0,Cowboys,2016
-36,16.0,Vince Mayle,6/12/1991,25.0,6-2,247.0,Washington St.,WR,6,0.0,1.0,0.0,Cowboys,2016
-37,93.0,Benson Mayowa,8/3/1991,25.0,6-3,252.0,Idaho,RDE,13,6.0,3.0,4.0,Cowboys,2016
-38,97.0,Terrell McClain,7/20/1988,28.0,6-2,300.0,South Florida,LDT,15,15.0,5.0,7.0,Cowboys,2016
-39,20.0,Darren McFadden,8/27/1987,29.0,6-1,220.0,Arkansas,RB,3,1.0,8.0,1.0,Cowboys,2016
-40,23.0,Leon McFadden,10/26/1990,26.0,5-10,190.0,San Diego St.,DB,9,0.0,3.0,1.0,Cowboys,2016
-41,76.0,Zach Moore,9/5/1990,26.0,6-6,275.0,Concordia-St.Paul (MN),DE,1,0.0,2.0,0.0,Cowboys,2016
-42,46.0,Alfred Morris,12/12/1988,28.0,5-10,222.0,Florida Atlantic,RB,14,0.0,4.0,2.0,Cowboys,2016
-43,53.0,Mark Nzeocha,1/19/1990,26.0,6-3,240.0,Wyoming,LB,5,0.0,1.0,0.0,Cowboys,2016
-44,4.0,Dak Prescott,7/29/1993,23.0,6-2,238.0,Mississippi St.,QB,16,16.0,0.0,15.0,Cowboys,2016
-45,9.0,Tony Romo,4/21/1980,36.0,6-2,230.0,Eastern Illinois,QB,1,0.0,12.0,0.0,Cowboys,2016
-46,3.0,Mark Sanchez,11/11/1986,30.0,6-2,232.0,USC,QB,2,0.0,7.0,0.0,Cowboys,2016
-47,32.0,Orlando Scandrick,2/10/1987,29.0,5-10,196.0,Boise St.,DB,12,10.0,8.0,4.0,Cowboys,2016
-48,62.0,Ryan Seymour,2/7/1990,26.0,6-4,305.0,Vanderbilt,G,1,0.0,2.0,0.0,Cowboys,2016
-49,41.0,Keith Smith,4/8/1992,24.0,6-0,240.0,San Jose St.,DB,16,1.0,2.0,2.0,Cowboys,2016
-50,45.0,Rod Smith,1/10/1992,24.0,6-3,235.0,Ohio St.,RB,7,0.0,1.0,0.0,Cowboys,2016
-51,77.0,Tyron Smith,12/12/1990,26.0,6-5,320.0,USC,LT,13,13.0,5.0,12.0,Cowboys,2016
-52,87.0,Geoff Swaim,9/16/1993,23.0,6-4,260.0,Texas,TE,9,6.0,1.0,1.0,Cowboys,2016
-53,92.0,Cedric Thornton,6/21/1988,28.0,6-4,290.0,Southern Arkansas,DT,13,0.0,4.0,2.0,Cowboys,2016
-54,13.0,Lucky Whitehead,6/2/1992,24.0,5-9,180.0,Florida Atlantic,WR,15,1.0,1.0,1.0,Cowboys,2016
-55,51.0,Kyle Wilber,4/26/1989,27.0,6-4,240.0,Wake Forest,LB,15,1.0,4.0,2.0,Cowboys,2016
-56,27.0,J.J. Wilcox,2/14/1991,25.0,6-0,212.0,Georgia Southern,DB,13,4.0,3.0,2.0,Cowboys,2016
-57,83.0,Terrance Williams,9/8/1989,27.0,6-2,210.0,Baylor,WR,16,15.0,3.0,6.0,Cowboys,2016
-58,57.0,Damien Wilson,5/28/1993,23.0,6-0,243.0,Minnesota,LLB,16,6.0,1.0,4.0,Cowboys,2016
-59,82.0,Jason Witten,5/6/1982,34.0,6-6,263.0,Tennessee,TE,16,16.0,13.0,7.0,Cowboys,2016
-60,,Team Total,,26.4,6-2.2,249.1,,,16,,3.6,,Cowboys,2016
+No.,Player,BirthDate,Age,Height,Weight,College/University,Position,Games_Played_in_Season,Games_Started_in_Season,NFL_Years,Player_Value,Team,Year
+76.0,Richard Ash,8/4/1992,24.0,6-3,320.0,"Michigan,Western Michigan",NT,1,0.0,1.0,0.0,Cowboys,2016
+5.0,Dan Bailey,1/26/1988,28.0,6-0,190.0,Oklahoma St.,K,16,0.0,5.0,4.0,Cowboys,2016
+11.0,Cole Beasley,4/26/1989,27.0,5-8,174.0,SMU,WR,16,6.0,4.0,8.0,Cowboys,2016
+30.0,Anthony Brown,12/15/1993,23.0,5-11,196.0,Purdue,RCB,16,9.0,0.0,4.0,Cowboys,2016
+88.0,Dez Bryant,11/4/1988,28.0,6-2,220.0,Oklahoma St.,WR,13,13.0,6.0,8.0,Cowboys,2016
+19.0,Brice Butler,1/29/1990,26.0,6-3,211.0,"USC,San Diego St.",WR,16,3.0,3.0,2.0,Cowboys,2016
+39.0,Brandon Carr,5/19/1986,30.0,6-0,210.0,Grand Valley St.,LCB,16,16.0,8.0,6.0,Cowboys,2016
+42.0,Barry Church,2/11/1988,28.0,6-2,218.0,Toledo,SS,12,12.0,6.0,5.0,Cowboys,2016
+24.0,Morris Claiborne,2/7/1990,26.0,5-11,192.0,LSU,RCB,7,7.0,4.0,3.0,Cowboys,2016
+63.0,Emmett Cleary,4/27/1990,26.0,6-7,320.0,Boston Col.,T,13,1.0,0.0,2.0,Cowboys,2016
+71.0,La'el Collins,7/26/1993,23.0,6-4,320.0,LSU,T,3,3.0,1.0,1.0,Cowboys,2016
+96.0,Maliek Collins,4/8/1995,21.0,6-2,310.0,Nebraska,RDT,16,14.0,0.0,7.0,Cowboys,2016
+58.0,Jack Crawford,9/7/1988,28.0,6-5,288.0,Penn St.,RDE/LDE,16,10.0,4.0,5.0,Cowboys,2016
+98.0,Tyrone Crawford,11/22/1989,27.0,6-4,290.0,Boise St.,LDE/LDT,14,14.0,4.0,7.0,Cowboys,2016
+75.0,Ryan Davis,2/24/1989,27.0,6-2,260.0,Bethune-Cookman,LB,9,0.0,4.0,1.0,Cowboys,2016
+25.0,Lance Dunbar,1/25/1990,26.0,5-8,191.0,North Texas,RB,13,0.0,4.0,1.0,Cowboys,2016
+56.0,Justin Durant,9/21/1985,31.0,6-4,230.0,Hampton,LB,13,0.0,9.0,1.0,Cowboys,2016
+21.0,Ezekiel Elliott,7/22/1995,21.0,6-0,225.0,Ohio St.,RB,15,15.0,0.0,16.0,Cowboys,2016
+89.0,Gavin Escobar,2/3/1991,25.0,6-5,247.0,San Diego St.,TE,16,1.0,3.0,0.0,Cowboys,2016
+35.0,Kavon Frazier,8/11/1994,22.0,6-0,220.0,Central Michigan,DB,9,0.0,0.0,1.0,Cowboys,2016
+72.0,Travis Frederick,3/18/1991,25.0,6-4,320.0,Wisconsin,C,16,16.0,3.0,15.0,Cowboys,2016
+68.0,Doug Free,1/6/1984,32.0,6-6,324.0,Northern Illinois,RT,16,16.0,9.0,8.0,Cowboys,2016
+52.0,Andrew Gachkar,11/4/1988,28.0,6-2,224.0,Missouri,LB,16,0.0,5.0,1.0,Cowboys,2016
+79.0,Chaz Green,4/8/1992,24.0,6-5,318.0,Florida,T,4,2.0,0.0,1.0,Cowboys,2016
+94.0,Randy Gregory,11/23/1992,24.0,6-5,242.0,"Arizona Western,Nebraska",DE,2,0.0,1.0,1.0,Cowboys,2016
+38.0,Jeff Heath,5/14/1991,25.0,6-1,212.0,Saginaw Valley St.,DB,16,0.0,3.0,1.0,Cowboys,2016
+59.0,Anthony Hitchens,6/10/1992,24.0,6-0,231.0,Iowa,MLB,16,16.0,2.0,7.0,Cowboys,2016
+95.0,David Irving,8/18/1993,23.0,6-7,290.0,Iowa St.,DT,15,2.0,1.0,3.0,Cowboys,2016
+31.0,Byron Jones,9/26/1992,24.0,6-1,194.0,Connecticut,FS,16,16.0,1.0,6.0,Cowboys,2016
+6.0,Chris Jones,7/21/1989,27.0,6-0,205.0,Carson-Newman,P,16,0.0,5.0,2.0,Cowboys,2016
+91.0,L.P. Ladouceur,3/13/1981,35.0,6-5,256.0,California,DE,16,0.0,11.0,1.0,Cowboys,2016
+90.0,DeMarcus Lawrence,4/28/1992,24.0,6-3,265.0,"Butler (KS),Boise St.",DE,9,3.0,2.0,2.0,Cowboys,2016
+65.0,Ronald Leary,4/29/1989,27.0,6-3,320.0,Memphis,LG,13,12.0,3.0,6.0,Cowboys,2016
+50.0,Sean Lee,7/22/1986,30.0,6-2,245.0,Penn St.,RLB,15,15.0,6.0,16.0,Cowboys,2016
+73.0,Joe Looney,8/31/1990,26.0,6-3,315.0,Wake Forest,C,16,3.0,3.0,2.0,Cowboys,2016
+70.0,Zack Martin,11/20/1990,26.0,6-4,315.0,Notre Dame,RG,16,16.0,2.0,15.0,Cowboys,2016
+16.0,Vince Mayle,6/12/1991,25.0,6-2,247.0,Washington St.,WR,6,0.0,1.0,0.0,Cowboys,2016
+93.0,Benson Mayowa,8/3/1991,25.0,6-3,252.0,Idaho,RDE,13,6.0,3.0,4.0,Cowboys,2016
+97.0,Terrell McClain,7/20/1988,28.0,6-2,300.0,South Florida,LDT,15,15.0,5.0,7.0,Cowboys,2016
+20.0,Darren McFadden,8/27/1987,29.0,6-1,220.0,Arkansas,RB,3,1.0,8.0,1.0,Cowboys,2016
+23.0,Leon McFadden,10/26/1990,26.0,5-10,190.0,San Diego St.,DB,9,0.0,3.0,1.0,Cowboys,2016
+76.0,Zach Moore,9/5/1990,26.0,6-6,275.0,Concordia-St.Paul (MN),DE,1,0.0,2.0,0.0,Cowboys,2016
+46.0,Alfred Morris,12/12/1988,28.0,5-10,222.0,Florida Atlantic,RB,14,0.0,4.0,2.0,Cowboys,2016
+53.0,Mark Nzeocha,1/19/1990,26.0,6-3,240.0,Wyoming,LB,5,0.0,1.0,0.0,Cowboys,2016
+4.0,Dak Prescott,7/29/1993,23.0,6-2,238.0,Mississippi St.,QB,16,16.0,0.0,15.0,Cowboys,2016
+9.0,Tony Romo,4/21/1980,36.0,6-2,230.0,Eastern Illinois,QB,1,0.0,12.0,0.0,Cowboys,2016
+3.0,Mark Sanchez,11/11/1986,30.0,6-2,232.0,USC,QB,2,0.0,7.0,0.0,Cowboys,2016
+32.0,Orlando Scandrick,2/10/1987,29.0,5-10,196.0,Boise St.,DB,12,10.0,8.0,4.0,Cowboys,2016
+62.0,Ryan Seymour,2/7/1990,26.0,6-4,305.0,Vanderbilt,G,1,0.0,2.0,0.0,Cowboys,2016
+41.0,Keith Smith,4/8/1992,24.0,6-0,240.0,San Jose St.,DB,16,1.0,2.0,2.0,Cowboys,2016
+45.0,Rod Smith,1/10/1992,24.0,6-3,235.0,Ohio St.,RB,7,0.0,1.0,0.0,Cowboys,2016
+77.0,Tyron Smith,12/12/1990,26.0,6-5,320.0,USC,LT,13,13.0,5.0,12.0,Cowboys,2016
+87.0,Geoff Swaim,9/16/1993,23.0,6-4,260.0,Texas,TE,9,6.0,1.0,1.0,Cowboys,2016
+92.0,Cedric Thornton,6/21/1988,28.0,6-4,290.0,Southern Arkansas,DT,13,0.0,4.0,2.0,Cowboys,2016
+13.0,Lucky Whitehead,6/2/1992,24.0,5-9,180.0,Florida Atlantic,WR,15,1.0,1.0,1.0,Cowboys,2016
+51.0,Kyle Wilber,4/26/1989,27.0,6-4,240.0,Wake Forest,LB,15,1.0,4.0,2.0,Cowboys,2016
+27.0,J.J. Wilcox,2/14/1991,25.0,6-0,212.0,Georgia Southern,DB,13,4.0,3.0,2.0,Cowboys,2016
+83.0,Terrance Williams,9/8/1989,27.0,6-2,210.0,Baylor,WR,16,15.0,3.0,6.0,Cowboys,2016
+57.0,Damien Wilson,5/28/1993,23.0,6-0,243.0,Minnesota,LLB,16,6.0,1.0,4.0,Cowboys,2016
+82.0,Jason Witten,5/6/1982,34.0,6-6,263.0,Tennessee,TE,16,16.0,13.0,7.0,Cowboys,2016
+,Team Total,,26.4,6-2.2,249.1,,,16,,3.6,,Cowboys,2016

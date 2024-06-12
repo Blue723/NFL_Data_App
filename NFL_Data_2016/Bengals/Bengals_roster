@@ -1,60 +1,60 @@
-,No.,Player,BirthDate,Age,Height,Weight,College/University,Position,Games_Played_in_Season,Games_Started_in_Season,NFL_Years,Player_Value,Team,Year
-0,97.0,Geno Atkins,3/28/1988,28.0,6-1,300.0,Georgia,RDT,16,16.0,6.0,11.0,Bengals,2016
-1,25.0,Giovani Bernard,11/22/1991,25.0,5-9,205.0,North Carolina,RB,10,2.0,3.0,4.0,Bengals,2016
-2,61.0,Russell Bodine,6/30/1992,24.0,6-3,308.0,North Carolina,C,16,16.0,2.0,7.0,Bengals,2016
-3,65.0,Clint Boling,5/9/1989,27.0,6-5,305.0,Georgia,LG,14,14.0,5.0,6.0,Bengals,2016
-4,83.0,Tyler Boyd,11/15/1994,22.0,6-2,203.0,Pittsburgh,WR,16,2.0,0.0,5.0,Bengals,2016
-5,23.0,Chykie Brown,12/26/1986,30.0,6-0,185.0,Texas,DB,5,0.0,5.0,0.0,Bengals,2016
-6,4.0,Randy Bullock,12/16/1989,27.0,5-9,210.0,Texas A&M,K,3,0.0,3.0,0.0,Bengals,2016
-7,55.0,Vontaze Burfict,9/24/1990,26.0,6-1,255.0,Arizona St.,RLB,11,11.0,4.0,7.0,Bengals,2016
-8,33.0,Rex Burkhead,7/2/1990,26.0,5-10,215.0,Nebraska,RB,16,1.0,3.0,3.0,Bengals,2016
-9,93.0,Will Clarke,5/4/1991,25.0,6-6,275.0,West Virginia,DE,16,0.0,2.0,2.0,Bengals,2016
-10,16.0,Cody Core,4/17/1994,22.0,6-3,205.0,Mississippi,WR,8,4.0,0.0,2.0,Bengals,2016
-11,14.0,Andy Dalton,10/29/1987,29.0,6-2,220.0,TCU,QB,16,16.0,5.0,12.0,Bengals,2016
-12,56.0,Karlos Dansby,11/3/1981,35.0,6-4,250.0,Auburn,LLB,16,7.0,12.0,5.0,Bengals,2016
-13,47.0,Paul Dawson,1/13/1993,23.0,6-0,240.0,TCU,LB,2,0.0,1.0,0.0,Bengals,2016
-14,21.0,Darqueze Dennard,10/10/1991,25.0,5-11,205.0,Michigan St.,DB,15,3.0,2.0,2.0,Bengals,2016
-15,96.0,Carlos Dunlap,2/28/1989,27.0,6-6,285.0,Florida,LDE,16,16.0,6.0,11.0,Bengals,2016
-16,85.0,Tyler Eifert,9/8/1990,26.0,6-6,255.0,Notre Dame,TE,8,2.0,3.0,3.0,Bengals,2016
-17,12.0,Alex Erickson,11/6/1992,24.0,6-0,195.0,Wisconsin,WR,16,0.0,0.0,1.0,Bengals,2016
-18,42.0,Clayton Fejedelem,6/2/1993,23.0,6-1,205.0,Illinois,DB,16,0.0,0.0,1.0,Bengals,2016
-19,74.0,Jake Fisher,4/23/1993,23.0,6-6,282.0,Oregon,T,15,3.0,1.0,3.0,Bengals,2016
-20,53.0,Marquis Flowers,2/16/1992,24.0,6-2,245.0,Arizona,LB,16,0.0,2.0,2.0,Bengals,2016
-21,95.0,Wallace Gilberry,12/5/1984,32.0,6-3,267.0,Alabama,DE,5,0.0,8.0,1.0,Bengals,2016
-22,18.0,A.J. Green,7/31/1988,28.0,6-4,207.0,Georgia,WR,10,10.0,5.0,7.0,Bengals,2016
-23,46.0,Clark Harris,7/10/1984,32.0,6-5,250.0,Rutgers,TE,13,0.0,8.0,1.0,Bengals,2016
-24,89.0,Ryan Hewitt,1/24/1991,25.0,6-4,255.0,Stanford,TE,16,11.0,2.0,0.0,Bengals,2016
-25,32.0,Jeremy Hill,10/20/1992,24.0,6-1,230.0,LSU,RB,15,13.0,2.0,5.0,Bengals,2016
-26,66.0,Trey Hopkins,7/6/1992,24.0,6-3,316.0,Texas,G,1,0.0,0.0,0.0,Bengals,2016
-27,10.0,Kevin Huber,7/16/1985,31.0,6-1,210.0,Cincinnati,P,16,0.0,7.0,3.0,Bengals,2016
-28,99.0,Margus Hunt,7/14/1987,29.0,6-8,295.0,SMU,DE,15,0.0,3.0,1.0,Bengals,2016
-29,43.0,George Iloka,3/31/1990,26.0,6-4,225.0,Boise St.,FS,16,16.0,4.0,6.0,Bengals,2016
-30,90.0,Michael Johnson,2/7/1987,29.0,6-7,280.0,Georgia Tech,RDE,16,16.0,7.0,8.0,Bengals,2016
-31,60.0,T.J. Johnson,7/17/1990,26.0,6-4,295.0,South Carolina,C,16,1.0,2.0,2.0,Bengals,2016
-32,24.0,Adam Jones,9/30/1983,33.0,5-10,185.0,West Virginia,RCB,16,16.0,11.0,6.0,Bengals,2016
-33,27.0,Dre Kirkpatrick,10/26/1989,27.0,6-2,190.0,Alabama,LCB,15,14.0,4.0,6.0,Bengals,2016
-34,81.0,Tyler Kroft,10/15/1992,24.0,6-6,252.0,Rutgers,TE,14,11.0,1.0,1.0,Bengals,2016
-35,11.0,Brandon LaFell,11/4/1986,30.0,6-3,210.0,LSU,WR,16,14.0,6.0,6.0,Bengals,2016
-36,37.0,Chris Lewis-Harris,2/11/1989,27.0,6-1,198.0,Chattanooga,DB,7,0.0,4.0,1.0,Bengals,2016
-37,58.0,Rey Maualuga,1/20/1987,29.0,6-1,254.0,USC,MLB,14,6.0,7.0,4.0,Bengals,2016
-38,5.0,A.J. McCarron,9/13/1990,26.0,6-3,220.0,Alabama,QB,1,0.0,1.0,0.0,Bengals,2016
-39,2.0,Mike Nugent,3/2/1982,34.0,5-10,190.0,Ohio St.,K,13,0.0,11.0,0.0,Bengals,2016
-40,70.0,Cedric Ogbuehi,4/25/1992,24.0,6-5,310.0,Texas A&M,RT,14,12.0,1.0,6.0,Bengals,2016
-41,48.0,Tyler Ott,2/28/1992,24.0,6-3,252.0,Harvard,LS,3,0.0,1.0,0.0,Bengals,2016
-42,30.0,Cedric Peerman,10/10/1986,30.0,5-10,212.0,Virginia,RB,6,0.0,7.0,0.0,Bengals,2016
-43,94.0,Domata Peko,11/27/1984,32.0,6-3,325.0,"College of the Canyons (CA),Michigan St.",LDT,16,16.0,10.0,8.0,Bengals,2016
-44,57.0,Vincent Rey,9/6/1987,29.0,6-0,240.0,Duke,LLB,16,12.0,6.0,7.0,Bengals,2016
-45,52.0,Trevor Roach,3/6/1992,24.0,6-2,237.0,Nebraska,LB,4,0.0,1.0,0.0,Bengals,2016
-46,20.0,KeiVarae Russell,10/19/1993,23.0,5-11,196.0,Notre Dame,DB,5,0.0,0.0,1.0,Bengals,2016
-47,26.0,Josh Shaw,3/27/1992,24.0,6-1,200.0,"Florida,USC",DB,16,12.0,1.0,5.0,Bengals,2016
-48,92.0,Pat Sims,11/29/1985,31.0,6-4,312.0,Auburn,DT,16,0.0,8.0,2.0,Bengals,2016
-49,31.0,Derron Smith,2/4/1992,24.0,5-10,195.0,Fresno St.,DB,12,0.0,1.0,1.0,Bengals,2016
-50,87.0,C.J. Uzomah,1/14/1993,23.0,6-5,271.0,Auburn,TE,10,8.0,1.0,2.0,Bengals,2016
-51,59.0,Nick Vigil,8/20/1993,23.0,6-2,230.0,Utah St.,LB,16,0.0,0.0,1.0,Bengals,2016
-52,77.0,Andrew Whitworth,12/12/1981,35.0,6-7,330.0,LSU,LT,16,16.0,10.0,9.0,Bengals,2016
-53,69.0,DeShawn Williams,12/29/1992,24.0,6-1,295.0,Clemson,DT,4,0.0,0.0,0.0,Bengals,2016
-54,36.0,Shawn Williams,5/13/1991,25.0,6-0,212.0,Georgia,SS,15,15.0,3.0,6.0,Bengals,2016
-55,73.0,Eric Winston,11/17/1983,33.0,6-7,310.0,Miami (FL),T,16,2.0,10.0,2.0,Bengals,2016
-56,86.0,James Wright,12/31/1991,25.0,6-1,203.0,LSU,WR,13,2.0,2.0,1.0,Bengals,2016
-57,68.0,Kevin Zeitler,3/8/1990,26.0,6-4,340.0,Wisconsin,RG,16,16.0,4.0,7.0,Bengals,2016
-58,,Team Total,,26.8,6-2.3,245.6,,,16,,3.9,,Bengals,2016
+No.,Player,BirthDate,Age,Height,Weight,College/University,Position,Games_Played_in_Season,Games_Started_in_Season,NFL_Years,Player_Value,Team,Year
+97.0,Geno Atkins,3/28/1988,28.0,6-1,300.0,Georgia,RDT,16,16.0,6.0,11.0,Bengals,2016
+25.0,Giovani Bernard,11/22/1991,25.0,5-9,205.0,North Carolina,RB,10,2.0,3.0,4.0,Bengals,2016
+61.0,Russell Bodine,6/30/1992,24.0,6-3,308.0,North Carolina,C,16,16.0,2.0,7.0,Bengals,2016
+65.0,Clint Boling,5/9/1989,27.0,6-5,305.0,Georgia,LG,14,14.0,5.0,6.0,Bengals,2016
+83.0,Tyler Boyd,11/15/1994,22.0,6-2,203.0,Pittsburgh,WR,16,2.0,0.0,5.0,Bengals,2016
+23.0,Chykie Brown,12/26/1986,30.0,6-0,185.0,Texas,DB,5,0.0,5.0,0.0,Bengals,2016
+4.0,Randy Bullock,12/16/1989,27.0,5-9,210.0,Texas A&M,K,3,0.0,3.0,0.0,Bengals,2016
+55.0,Vontaze Burfict,9/24/1990,26.0,6-1,255.0,Arizona St.,RLB,11,11.0,4.0,7.0,Bengals,2016
+33.0,Rex Burkhead,7/2/1990,26.0,5-10,215.0,Nebraska,RB,16,1.0,3.0,3.0,Bengals,2016
+93.0,Will Clarke,5/4/1991,25.0,6-6,275.0,West Virginia,DE,16,0.0,2.0,2.0,Bengals,2016
+16.0,Cody Core,4/17/1994,22.0,6-3,205.0,Mississippi,WR,8,4.0,0.0,2.0,Bengals,2016
+14.0,Andy Dalton,10/29/1987,29.0,6-2,220.0,TCU,QB,16,16.0,5.0,12.0,Bengals,2016
+56.0,Karlos Dansby,11/3/1981,35.0,6-4,250.0,Auburn,LLB,16,7.0,12.0,5.0,Bengals,2016
+47.0,Paul Dawson,1/13/1993,23.0,6-0,240.0,TCU,LB,2,0.0,1.0,0.0,Bengals,2016
+21.0,Darqueze Dennard,10/10/1991,25.0,5-11,205.0,Michigan St.,DB,15,3.0,2.0,2.0,Bengals,2016
+96.0,Carlos Dunlap,2/28/1989,27.0,6-6,285.0,Florida,LDE,16,16.0,6.0,11.0,Bengals,2016
+85.0,Tyler Eifert,9/8/1990,26.0,6-6,255.0,Notre Dame,TE,8,2.0,3.0,3.0,Bengals,2016
+12.0,Alex Erickson,11/6/1992,24.0,6-0,195.0,Wisconsin,WR,16,0.0,0.0,1.0,Bengals,2016
+42.0,Clayton Fejedelem,6/2/1993,23.0,6-1,205.0,Illinois,DB,16,0.0,0.0,1.0,Bengals,2016
+74.0,Jake Fisher,4/23/1993,23.0,6-6,282.0,Oregon,T,15,3.0,1.0,3.0,Bengals,2016
+53.0,Marquis Flowers,2/16/1992,24.0,6-2,245.0,Arizona,LB,16,0.0,2.0,2.0,Bengals,2016
+95.0,Wallace Gilberry,12/5/1984,32.0,6-3,267.0,Alabama,DE,5,0.0,8.0,1.0,Bengals,2016
+18.0,A.J. Green,7/31/1988,28.0,6-4,207.0,Georgia,WR,10,10.0,5.0,7.0,Bengals,2016
+46.0,Clark Harris,7/10/1984,32.0,6-5,250.0,Rutgers,TE,13,0.0,8.0,1.0,Bengals,2016
+89.0,Ryan Hewitt,1/24/1991,25.0,6-4,255.0,Stanford,TE,16,11.0,2.0,0.0,Bengals,2016
+32.0,Jeremy Hill,10/20/1992,24.0,6-1,230.0,LSU,RB,15,13.0,2.0,5.0,Bengals,2016
+66.0,Trey Hopkins,7/6/1992,24.0,6-3,316.0,Texas,G,1,0.0,0.0,0.0,Bengals,2016
+10.0,Kevin Huber,7/16/1985,31.0,6-1,210.0,Cincinnati,P,16,0.0,7.0,3.0,Bengals,2016
+99.0,Margus Hunt,7/14/1987,29.0,6-8,295.0,SMU,DE,15,0.0,3.0,1.0,Bengals,2016
+43.0,George Iloka,3/31/1990,26.0,6-4,225.0,Boise St.,FS,16,16.0,4.0,6.0,Bengals,2016
+90.0,Michael Johnson,2/7/1987,29.0,6-7,280.0,Georgia Tech,RDE,16,16.0,7.0,8.0,Bengals,2016
+60.0,T.J. Johnson,7/17/1990,26.0,6-4,295.0,South Carolina,C,16,1.0,2.0,2.0,Bengals,2016
+24.0,Adam Jones,9/30/1983,33.0,5-10,185.0,West Virginia,RCB,16,16.0,11.0,6.0,Bengals,2016
+27.0,Dre Kirkpatrick,10/26/1989,27.0,6-2,190.0,Alabama,LCB,15,14.0,4.0,6.0,Bengals,2016
+81.0,Tyler Kroft,10/15/1992,24.0,6-6,252.0,Rutgers,TE,14,11.0,1.0,1.0,Bengals,2016
+11.0,Brandon LaFell,11/4/1986,30.0,6-3,210.0,LSU,WR,16,14.0,6.0,6.0,Bengals,2016
+37.0,Chris Lewis-Harris,2/11/1989,27.0,6-1,198.0,Chattanooga,DB,7,0.0,4.0,1.0,Bengals,2016
+58.0,Rey Maualuga,1/20/1987,29.0,6-1,254.0,USC,MLB,14,6.0,7.0,4.0,Bengals,2016
+5.0,A.J. McCarron,9/13/1990,26.0,6-3,220.0,Alabama,QB,1,0.0,1.0,0.0,Bengals,2016
+2.0,Mike Nugent,3/2/1982,34.0,5-10,190.0,Ohio St.,K,13,0.0,11.0,0.0,Bengals,2016
+70.0,Cedric Ogbuehi,4/25/1992,24.0,6-5,310.0,Texas A&M,RT,14,12.0,1.0,6.0,Bengals,2016
+48.0,Tyler Ott,2/28/1992,24.0,6-3,252.0,Harvard,LS,3,0.0,1.0,0.0,Bengals,2016
+30.0,Cedric Peerman,10/10/1986,30.0,5-10,212.0,Virginia,RB,6,0.0,7.0,0.0,Bengals,2016
+94.0,Domata Peko,11/27/1984,32.0,6-3,325.0,"College of the Canyons (CA),Michigan St.",LDT,16,16.0,10.0,8.0,Bengals,2016
+57.0,Vincent Rey,9/6/1987,29.0,6-0,240.0,Duke,LLB,16,12.0,6.0,7.0,Bengals,2016
+52.0,Trevor Roach,3/6/1992,24.0,6-2,237.0,Nebraska,LB,4,0.0,1.0,0.0,Bengals,2016
+20.0,KeiVarae Russell,10/19/1993,23.0,5-11,196.0,Notre Dame,DB,5,0.0,0.0,1.0,Bengals,2016
+26.0,Josh Shaw,3/27/1992,24.0,6-1,200.0,"Florida,USC",DB,16,12.0,1.0,5.0,Bengals,2016
+92.0,Pat Sims,11/29/1985,31.0,6-4,312.0,Auburn,DT,16,0.0,8.0,2.0,Bengals,2016
+31.0,Derron Smith,2/4/1992,24.0,5-10,195.0,Fresno St.,DB,12,0.0,1.0,1.0,Bengals,2016
+87.0,C.J. Uzomah,1/14/1993,23.0,6-5,271.0,Auburn,TE,10,8.0,1.0,2.0,Bengals,2016
+59.0,Nick Vigil,8/20/1993,23.0,6-2,230.0,Utah St.,LB,16,0.0,0.0,1.0,Bengals,2016
+77.0,Andrew Whitworth,12/12/1981,35.0,6-7,330.0,LSU,LT,16,16.0,10.0,9.0,Bengals,2016
+69.0,DeShawn Williams,12/29/1992,24.0,6-1,295.0,Clemson,DT,4,0.0,0.0,0.0,Bengals,2016
+36.0,Shawn Williams,5/13/1991,25.0,6-0,212.0,Georgia,SS,15,15.0,3.0,6.0,Bengals,2016
+73.0,Eric Winston,11/17/1983,33.0,6-7,310.0,Miami (FL),T,16,2.0,10.0,2.0,Bengals,2016
+86.0,James Wright,12/31/1991,25.0,6-1,203.0,LSU,WR,13,2.0,2.0,1.0,Bengals,2016
+68.0,Kevin Zeitler,3/8/1990,26.0,6-4,340.0,Wisconsin,RG,16,16.0,4.0,7.0,Bengals,2016
+,Team Total,,26.8,6-2.3,245.6,,,16,,3.9,,Bengals,2016

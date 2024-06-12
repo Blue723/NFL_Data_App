@@ -1,70 +1,70 @@
-,No.,Player,BirthDate,Age,Height,Weight,College/University,Position,Games_Played_in_Season,Games_Started_in_Season,NFL_Years,Player_Value,Team,Year
-0,97.0,Mario Addison,9/6/1987,29.0,6-3,260.0,Troy,DE,14,1.0,5.0,3.0,Panthers,2016
-1,3.0,Derek Anderson,6/15/1983,33.0,6-6,235.0,Oregon St.,QB,5,2.0,10.0,1.0,Panthers,2016
-2,34.0,Cameron Artis-Payne,6/23/1990,26.0,5-10,215.0,Auburn,RB,3,3.0,1.0,1.0,Panthers,2016
-3,36.0,Marcus Ball,7/21/1987,29.0,6-1,209.0,Memphis,DB,1,0.0,2.0,0.0,Panthers,2016
-4,13.0,Kelvin Benjamin,2/5/1991,25.0,6-5,245.0,Florida St.,WR,16,13.0,2.0,7.0,Panthers,2016
-5,25.0,Bene Benwikere,9/3/1991,25.0,6-0,195.0,San Jose St.,DB,4,4.0,2.0,2.0,Panthers,2016
-6,11.0,Brenton Bersin,5/9/1990,26.0,6-3,211.0,Wofford,WR,10,0.0,2.0,0.0,Panthers,2016
-7,33.0,Tre Boston,6/25/1992,24.0,6-1,205.0,North Carolina,FS,15,10.0,2.0,5.0,Panthers,2016
-8,24.0,James Bradberry,8/4/1993,23.0,6-1,210.0,"Arkansas St.,Samford",LCB,13,13.0,0.0,5.0,Panthers,2016
-9,10.0,Corey Brown,12/16/1991,25.0,5-11,190.0,Ohio St.,WR,16,8.0,2.0,2.0,Panthers,2016
-10,92.0,Vernon Butler,6/14/1994,22.0,6-4,330.0,Louisiana Tech,DT,10,0.0,0.0,1.0,Panthers,2016
-11,18.0,Damiere Byrd,1/27/1993,23.0,5-9,175.0,South Carolina,WR,1,0.0,0.0,0.0,Panthers,2016
-12,57.0,Jeremy Cash,12/6/1992,24.0,6-0,230.0,Duke,DB,8,0.0,0.0,1.0,Panthers,2016
-13,20.0,Kurt Coleman,7/1/1988,28.0,5-11,208.0,Ohio St.,SS,15,15.0,6.0,7.0,Panthers,2016
-14,58.0,Thomas Davis,3/22/1983,33.0,6-1,235.0,Georgia,RLB,16,16.0,11.0,11.0,Panthers,2016
-15,91.0,Ryan Delaire,1/17/1992,24.0,6-4,260.0,Towson,DE,6,0.0,1.0,1.0,Panthers,2016
-16,84.0,Ed Dickson,7/25/1987,29.0,6-4,250.0,Oregon,TE,16,8.0,6.0,1.0,Panthers,2016
-17,30.0,Travell Dixon,2/17/1991,25.0,6-1,210.0,Washington,DB,1,0.0,0.0,0.0,Panthers,2016
-18,94.0,Kony Ealy,12/21/1991,25.0,6-4,275.0,Missouri,RDE,16,6.0,2.0,4.0,Panthers,2016
-19,93.0,Lavar Edwards,3/29/1990,26.0,6-4,277.0,LSU,DE,5,0.0,3.0,0.0,Panthers,2016
-20,17.0,Devin Funchess,5/21/1994,22.0,6-4,225.0,Michigan,WR,15,7.0,1.0,3.0,Panthers,2016
-21,9.0,Graham Gano,4/9/1987,29.0,6-2,202.0,Florida St.,K,16,0.0,7.0,3.0,Panthers,2016
-22,19.0,Ted Ginn Jr.,4/12/1985,31.0,5-11,180.0,Ohio St.,WR,16,8.0,9.0,7.0,Panthers,2016
-23,66.0,Gino Gradkowski,11/5/1988,28.0,6-3,300.0,Delaware,G,10,3.0,4.0,2.0,Panthers,2016
-24,22.0,Michael Griffin,1/4/1985,31.0,6-0,202.0,Texas,FS,13,6.0,9.0,3.0,Panthers,2016
-25,78.0,Donald Hawkins,4/22/1992,24.0,6-5,310.0,"Northwest Mississippi CC,Texas",T,7,0.0,2.0,0.0,Panthers,2016
-26,96.0,Wes Horton,1/18/1990,26.0,6-5,265.0,USC,RDE,11,10.0,3.0,5.0,Panthers,2016
-27,53.0,Ben Jacobs,4/17/1988,28.0,6-4,240.0,Fresno St.,LB,4,0.0,5.0,0.0,Panthers,2016
-28,44.0,J.J. Jansen,1/20/1986,30.0,6-2,235.0,Notre Dame,LS,16,0.0,7.0,2.0,Panthers,2016
-29,95.0,Charles Johnson,7/10/1986,30.0,6-2,270.0,Georgia,LDE,13,13.0,9.0,6.0,Panthers,2016
-30,23.0,Leonard Johnson,3/30/1990,26.0,5-10,194.0,Iowa St.,DB,10,0.0,4.0,1.0,Panthers,2016
-31,42.0,Colin Jones,10/27/1987,29.0,6-0,205.0,TCU,DB,14,1.0,5.0,1.0,Panthers,2016
-32,67.0,Ryan Kalil,3/29/1985,31.0,6-2,300.0,USC,C,8,8.0,9.0,3.0,Panthers,2016
-33,56.0,A.J. Klein,7/30/1991,25.0,6-1,240.0,Iowa St.,MLB,15,7.0,3.0,3.0,Panthers,2016
-34,59.0,Luke Kuechly,4/20/1991,25.0,6-3,238.0,Boston Col.,MLB,10,10.0,4.0,10.0,Panthers,2016
-35,69.0,Tyler Larsen,7/8/1991,25.0,6-4,335.0,Utah St.,C,9,5.0,0.0,2.0,Panthers,2016
-36,8.0,Andy Lee,8/11/1982,34.0,6-1,185.0,Pittsburgh,P,9,0.0,12.0,2.0,Panthers,2016
-37,98.0,Star Lotulelei,12/20/1989,27.0,6-2,315.0,"Snow College (UT),Utah",LDT,16,16.0,3.0,7.0,Panthers,2016
-38,77.0,Kyle Love,11/18/1986,30.0,6-1,310.0,Mississippi St.,DT,10,1.0,6.0,2.0,Panthers,2016
-39,82.0,Chris Manhertz,4/10/1992,24.0,6-6,235.0,Canisius,TE,4,0.0,0.0,0.0,Panthers,2016
-40,29.0,Dean Marlowe,7/25/1992,24.0,6-1,205.0,James Madison,DB,1,0.0,1.0,0.0,Panthers,2016
-41,55.0,David Mayo,8/18/1993,23.0,6-2,240.0,Texas St.,LB,15,0.0,1.0,1.0,Panthers,2016
-42,27.0,Robert McClain,7/22/1988,28.0,5-9,180.0,Connecticut,DB,11,6.0,6.0,3.0,Panthers,2016
-43,1.0,Cam Newton,5/11/1989,27.0,6-5,245.0,"Florida,Blinn College (TX),Auburn",QB,15,14.0,5.0,11.0,Panthers,2016
-44,52.0,Jared Norris,7/19/1993,23.0,6-1,238.0,Utah,LB,14,0.0,0.0,1.0,Panthers,2016
-45,68.0,Andrew Norwell,10/25/1991,25.0,6-6,325.0,Ohio St.,LG,16,16.0,2.0,6.0,Panthers,2016
-46,73.0,Michael Oher,5/28/1986,30.0,6-5,309.0,Mississippi,T,3,3.0,7.0,1.0,Panthers,2016
-47,88.0,Greg Olsen,3/11/1985,31.0,6-5,255.0,Miami (FL),TE,16,16.0,9.0,8.0,Panthers,2016
-48,5.0,Michael Palardy,7/6/1992,24.0,5-11,200.0,Tennessee,P,7,0.0,0.0,1.0,Panthers,2016
-49,74.0,Mike Remmers,4/11/1989,27.0,6-5,301.0,Oregon St.,LT,16,16.0,3.0,6.0,Panthers,2016
-50,31.0,Zack Sanchez,10/11/1993,23.0,5-11,185.0,Oklahoma,DB,5,1.0,0.0,1.0,Panthers,2016
-51,79.0,Chris Scott,8/4/1987,29.0,6-4,340.0,Tennessee,G,12,4.0,5.0,3.0,Panthers,2016
-52,99.0,Kawann Short,2/2/1989,27.0,6-3,315.0,Purdue,RDT,16,16.0,3.0,7.0,Panthers,2016
-53,80.0,Scott Simonson,4/13/1992,24.0,6-5,255.0,Assumption,TE,5,1.0,2.0,0.0,Panthers,2016
-54,90.0,Paul Soliai,12/30/1983,33.0,6-4,344.0,Utah,DE,10,1.0,9.0,1.0,Panthers,2016
-55,28.0,Jonathan Stewart,3/21/1987,29.0,5-10,240.0,Oregon,RB,13,13.0,8.0,5.0,Panthers,2016
-56,54.0,Shaq Thompson,4/21/1994,22.0,6-0,230.0,Washington,LLB,14,12.0,1.0,6.0,Panthers,2016
-57,35.0,Mike Tolbert,11/23/1985,31.0,5-9,243.0,Coastal Carolina,RB,16,2.0,8.0,1.0,Panthers,2016
-58,70.0,Trai Turner,6/14/1993,23.0,6-3,320.0,LSU,RG,16,16.0,2.0,8.0,Panthers,2016
-59,14.0,Joe Webb,11/14/1986,30.0,6-4,231.0,Ala-Birmingham,QB,14,0.0,6.0,0.0,Panthers,2016
-60,75.0,Larry Webster,2/14/1990,26.0,6-6,252.0,Bloomsburg,DE,1,0.0,0.0,0.0,Panthers,2016
-61,62.0,Ryan Wendell,3/4/1986,30.0,6-2,275.0,Fresno St.,C,1,0.0,7.0,0.0,Panthers,2016
-62,43.0,Fozzy Whittaker,2/2/1989,27.0,5-10,205.0,Texas,RB,16,0.0,3.0,3.0,Panthers,2016
-63,60.0,Daryl Williams,8/31/1992,24.0,6-6,330.0,Oklahoma,RT,13,10.0,1.0,4.0,Panthers,2016
-64,21.0,Teddy Williams,7/3/1988,28.0,6-1,210.0,Texas-San Antonio,DB,3,0.0,4.0,0.0,Panthers,2016
-65,26.0,Daryl Worley,2/22/1995,21.0,6-1,210.0,West Virginia,RCB,16,11.0,0.0,5.0,Panthers,2016
-66,61.0,David Yankey,1/18/1992,24.0,6-6,315.0,Stanford,G,6,0.0,0.0,0.0,Panthers,2016
-67,25.0,Lou Young,10/9/1991,25.0,6-0,205.0,Georgia Tech,DB,6,0.0,0.0,0.0,Panthers,2016
-68,,Team Total,,26.7,6-2.1,247.3,,,16,,3.7,,Panthers,2016
+No.,Player,BirthDate,Age,Height,Weight,College/University,Position,Games_Played_in_Season,Games_Started_in_Season,NFL_Years,Player_Value,Team,Year
+97.0,Mario Addison,9/6/1987,29.0,6-3,260.0,Troy,DE,14,1.0,5.0,3.0,Panthers,2016
+3.0,Derek Anderson,6/15/1983,33.0,6-6,235.0,Oregon St.,QB,5,2.0,10.0,1.0,Panthers,2016
+34.0,Cameron Artis-Payne,6/23/1990,26.0,5-10,215.0,Auburn,RB,3,3.0,1.0,1.0,Panthers,2016
+36.0,Marcus Ball,7/21/1987,29.0,6-1,209.0,Memphis,DB,1,0.0,2.0,0.0,Panthers,2016
+13.0,Kelvin Benjamin,2/5/1991,25.0,6-5,245.0,Florida St.,WR,16,13.0,2.0,7.0,Panthers,2016
+25.0,Bene Benwikere,9/3/1991,25.0,6-0,195.0,San Jose St.,DB,4,4.0,2.0,2.0,Panthers,2016
+11.0,Brenton Bersin,5/9/1990,26.0,6-3,211.0,Wofford,WR,10,0.0,2.0,0.0,Panthers,2016
+33.0,Tre Boston,6/25/1992,24.0,6-1,205.0,North Carolina,FS,15,10.0,2.0,5.0,Panthers,2016
+24.0,James Bradberry,8/4/1993,23.0,6-1,210.0,"Arkansas St.,Samford",LCB,13,13.0,0.0,5.0,Panthers,2016
+10.0,Corey Brown,12/16/1991,25.0,5-11,190.0,Ohio St.,WR,16,8.0,2.0,2.0,Panthers,2016
+92.0,Vernon Butler,6/14/1994,22.0,6-4,330.0,Louisiana Tech,DT,10,0.0,0.0,1.0,Panthers,2016
+18.0,Damiere Byrd,1/27/1993,23.0,5-9,175.0,South Carolina,WR,1,0.0,0.0,0.0,Panthers,2016
+57.0,Jeremy Cash,12/6/1992,24.0,6-0,230.0,Duke,DB,8,0.0,0.0,1.0,Panthers,2016
+20.0,Kurt Coleman,7/1/1988,28.0,5-11,208.0,Ohio St.,SS,15,15.0,6.0,7.0,Panthers,2016
+58.0,Thomas Davis,3/22/1983,33.0,6-1,235.0,Georgia,RLB,16,16.0,11.0,11.0,Panthers,2016
+91.0,Ryan Delaire,1/17/1992,24.0,6-4,260.0,Towson,DE,6,0.0,1.0,1.0,Panthers,2016
+84.0,Ed Dickson,7/25/1987,29.0,6-4,250.0,Oregon,TE,16,8.0,6.0,1.0,Panthers,2016
+30.0,Travell Dixon,2/17/1991,25.0,6-1,210.0,Washington,DB,1,0.0,0.0,0.0,Panthers,2016
+94.0,Kony Ealy,12/21/1991,25.0,6-4,275.0,Missouri,RDE,16,6.0,2.0,4.0,Panthers,2016
+93.0,Lavar Edwards,3/29/1990,26.0,6-4,277.0,LSU,DE,5,0.0,3.0,0.0,Panthers,2016
+17.0,Devin Funchess,5/21/1994,22.0,6-4,225.0,Michigan,WR,15,7.0,1.0,3.0,Panthers,2016
+9.0,Graham Gano,4/9/1987,29.0,6-2,202.0,Florida St.,K,16,0.0,7.0,3.0,Panthers,2016
+19.0,Ted Ginn Jr.,4/12/1985,31.0,5-11,180.0,Ohio St.,WR,16,8.0,9.0,7.0,Panthers,2016
+66.0,Gino Gradkowski,11/5/1988,28.0,6-3,300.0,Delaware,G,10,3.0,4.0,2.0,Panthers,2016
+22.0,Michael Griffin,1/4/1985,31.0,6-0,202.0,Texas,FS,13,6.0,9.0,3.0,Panthers,2016
+78.0,Donald Hawkins,4/22/1992,24.0,6-5,310.0,"Northwest Mississippi CC,Texas",T,7,0.0,2.0,0.0,Panthers,2016
+96.0,Wes Horton,1/18/1990,26.0,6-5,265.0,USC,RDE,11,10.0,3.0,5.0,Panthers,2016
+53.0,Ben Jacobs,4/17/1988,28.0,6-4,240.0,Fresno St.,LB,4,0.0,5.0,0.0,Panthers,2016
+44.0,J.J. Jansen,1/20/1986,30.0,6-2,235.0,Notre Dame,LS,16,0.0,7.0,2.0,Panthers,2016
+95.0,Charles Johnson,7/10/1986,30.0,6-2,270.0,Georgia,LDE,13,13.0,9.0,6.0,Panthers,2016
+23.0,Leonard Johnson,3/30/1990,26.0,5-10,194.0,Iowa St.,DB,10,0.0,4.0,1.0,Panthers,2016
+42.0,Colin Jones,10/27/1987,29.0,6-0,205.0,TCU,DB,14,1.0,5.0,1.0,Panthers,2016
+67.0,Ryan Kalil,3/29/1985,31.0,6-2,300.0,USC,C,8,8.0,9.0,3.0,Panthers,2016
+56.0,A.J. Klein,7/30/1991,25.0,6-1,240.0,Iowa St.,MLB,15,7.0,3.0,3.0,Panthers,2016
+59.0,Luke Kuechly,4/20/1991,25.0,6-3,238.0,Boston Col.,MLB,10,10.0,4.0,10.0,Panthers,2016
+69.0,Tyler Larsen,7/8/1991,25.0,6-4,335.0,Utah St.,C,9,5.0,0.0,2.0,Panthers,2016
+8.0,Andy Lee,8/11/1982,34.0,6-1,185.0,Pittsburgh,P,9,0.0,12.0,2.0,Panthers,2016
+98.0,Star Lotulelei,12/20/1989,27.0,6-2,315.0,"Snow College (UT),Utah",LDT,16,16.0,3.0,7.0,Panthers,2016
+77.0,Kyle Love,11/18/1986,30.0,6-1,310.0,Mississippi St.,DT,10,1.0,6.0,2.0,Panthers,2016
+82.0,Chris Manhertz,4/10/1992,24.0,6-6,235.0,Canisius,TE,4,0.0,0.0,0.0,Panthers,2016
+29.0,Dean Marlowe,7/25/1992,24.0,6-1,205.0,James Madison,DB,1,0.0,1.0,0.0,Panthers,2016
+55.0,David Mayo,8/18/1993,23.0,6-2,240.0,Texas St.,LB,15,0.0,1.0,1.0,Panthers,2016
+27.0,Robert McClain,7/22/1988,28.0,5-9,180.0,Connecticut,DB,11,6.0,6.0,3.0,Panthers,2016
+1.0,Cam Newton,5/11/1989,27.0,6-5,245.0,"Florida,Blinn College (TX),Auburn",QB,15,14.0,5.0,11.0,Panthers,2016
+52.0,Jared Norris,7/19/1993,23.0,6-1,238.0,Utah,LB,14,0.0,0.0,1.0,Panthers,2016
+68.0,Andrew Norwell,10/25/1991,25.0,6-6,325.0,Ohio St.,LG,16,16.0,2.0,6.0,Panthers,2016
+73.0,Michael Oher,5/28/1986,30.0,6-5,309.0,Mississippi,T,3,3.0,7.0,1.0,Panthers,2016
+88.0,Greg Olsen,3/11/1985,31.0,6-5,255.0,Miami (FL),TE,16,16.0,9.0,8.0,Panthers,2016
+5.0,Michael Palardy,7/6/1992,24.0,5-11,200.0,Tennessee,P,7,0.0,0.0,1.0,Panthers,2016
+74.0,Mike Remmers,4/11/1989,27.0,6-5,301.0,Oregon St.,LT,16,16.0,3.0,6.0,Panthers,2016
+31.0,Zack Sanchez,10/11/1993,23.0,5-11,185.0,Oklahoma,DB,5,1.0,0.0,1.0,Panthers,2016
+79.0,Chris Scott,8/4/1987,29.0,6-4,340.0,Tennessee,G,12,4.0,5.0,3.0,Panthers,2016
+99.0,Kawann Short,2/2/1989,27.0,6-3,315.0,Purdue,RDT,16,16.0,3.0,7.0,Panthers,2016
+80.0,Scott Simonson,4/13/1992,24.0,6-5,255.0,Assumption,TE,5,1.0,2.0,0.0,Panthers,2016
+90.0,Paul Soliai,12/30/1983,33.0,6-4,344.0,Utah,DE,10,1.0,9.0,1.0,Panthers,2016
+28.0,Jonathan Stewart,3/21/1987,29.0,5-10,240.0,Oregon,RB,13,13.0,8.0,5.0,Panthers,2016
+54.0,Shaq Thompson,4/21/1994,22.0,6-0,230.0,Washington,LLB,14,12.0,1.0,6.0,Panthers,2016
+35.0,Mike Tolbert,11/23/1985,31.0,5-9,243.0,Coastal Carolina,RB,16,2.0,8.0,1.0,Panthers,2016
+70.0,Trai Turner,6/14/1993,23.0,6-3,320.0,LSU,RG,16,16.0,2.0,8.0,Panthers,2016
+14.0,Joe Webb,11/14/1986,30.0,6-4,231.0,Ala-Birmingham,QB,14,0.0,6.0,0.0,Panthers,2016
+75.0,Larry Webster,2/14/1990,26.0,6-6,252.0,Bloomsburg,DE,1,0.0,0.0,0.0,Panthers,2016
+62.0,Ryan Wendell,3/4/1986,30.0,6-2,275.0,Fresno St.,C,1,0.0,7.0,0.0,Panthers,2016
+43.0,Fozzy Whittaker,2/2/1989,27.0,5-10,205.0,Texas,RB,16,0.0,3.0,3.0,Panthers,2016
+60.0,Daryl Williams,8/31/1992,24.0,6-6,330.0,Oklahoma,RT,13,10.0,1.0,4.0,Panthers,2016
+21.0,Teddy Williams,7/3/1988,28.0,6-1,210.0,Texas-San Antonio,DB,3,0.0,4.0,0.0,Panthers,2016
+26.0,Daryl Worley,2/22/1995,21.0,6-1,210.0,West Virginia,RCB,16,11.0,0.0,5.0,Panthers,2016
+61.0,David Yankey,1/18/1992,24.0,6-6,315.0,Stanford,G,6,0.0,0.0,0.0,Panthers,2016
+25.0,Lou Young,10/9/1991,25.0,6-0,205.0,Georgia Tech,DB,6,0.0,0.0,0.0,Panthers,2016
+,Team Total,,26.7,6-2.1,247.3,,,16,,3.7,,Panthers,2016

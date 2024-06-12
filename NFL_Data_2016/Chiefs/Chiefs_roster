@@ -1,63 +1,63 @@
-,No.,Player,BirthDate,Age,Height,Weight,College/University,Position,Games_Played_in_Season,Games_Started_in_Season,NFL_Years,Player_Value,Team,Year
-0,27.0,Kenneth Acker,2/6/1992,24.0,6-0,195.0,SMU,DB,9,1.0,1.0,1.0,Chiefs,2016
-1,57.0,D.J. Alexander,9/30/1991,25.0,6-2,233.0,Oregon St.,LB,16,1.0,1.0,4.0,Chiefs,2016
-2,97.0,Allen Bailey,3/25/1989,27.0,6-3,288.0,Miami (FL),RDE,5,5.0,5.0,2.0,Chiefs,2016
-3,77.0,T.J. Barnes,6/14/1990,26.0,6-6,355.0,Georgia Tech,DT,5,0.0,2.0,0.0,Chiefs,2016
-4,94.0,Sam Barrington,10/5/1990,26.0,6-1,246.0,South Florida,LB,2,0.0,3.0,0.0,Chiefs,2016
-5,29.0,Eric Berry,12/29/1988,28.0,6-0,212.0,Tennessee,SS,16,16.0,6.0,13.0,Chiefs,2016
-6,25.0,Jamaal Charles,12/27/1986,30.0,5-11,199.0,Texas,RB,3,0.0,8.0,0.0,Chiefs,2016
-7,2.0,Dustin Colquitt,5/6/1982,34.0,6-3,210.0,Tennessee,P,16,0.0,11.0,2.0,Chiefs,2016
-8,17.0,Chris Conley,10/25/1992,24.0,6-3,205.0,Georgia,WR,16,11.0,1.0,5.0,Chiefs,2016
-9,34.0,Knile Davis,10/5/1991,25.0,5-11,227.0,Arkansas,RB,9,0.0,3.0,0.0,Chiefs,2016
-10,65.0,Jordan Devey,1/11/1988,28.0,6-6,320.0,Memphis,T,1,1.0,2.0,0.0,Chiefs,2016
-11,76.0,Laurent Duvernay-Tardif,2/11/1991,25.0,6-5,321.0,McGill,RG,14,14.0,1.0,5.0,Chiefs,2016
-12,79.0,Parker Ehinger,12/30/1992,24.0,6-6,310.0,Cincinnati,G,5,4.0,0.0,2.0,Chiefs,2016
-13,72.0,Eric Fisher,1/5/1991,25.0,6-7,315.0,Central Michigan,LT,16,16.0,3.0,6.0,Chiefs,2016
-14,4.0,Nick Foles,1/20/1989,27.0,6-6,262.0,Arizona,QB,3,1.0,4.0,1.0,Chiefs,2016
-15,55.0,Dee Ford,3/19/1991,25.0,6-2,252.0,Auburn,LOLB,15,14.0,2.0,7.0,Chiefs,2016
-16,73.0,Zach Fulton,9/23/1991,25.0,6-5,321.0,Tennessee,LG,16,12.0,2.0,5.0,Chiefs,2016
-17,23.0,Phillip Gaines,4/4/1991,25.0,6-0,193.0,Rice,RCB,11,5.0,2.0,2.0,Chiefs,2016
-18,91.0,Tamba Hali,11/3/1983,33.0,6-3,275.0,Penn St.,LB,16,2.0,10.0,3.0,Chiefs,2016
-19,84.0,Demetrius Harris,7/29/1991,25.0,6-7,230.0,Wisconsin–Milwaukee,WR,16,11.0,2.0,1.0,Chiefs,2016
-20,10.0,Tyreek Hill,3/1/1994,22.0,5-10,191.0,West Alabama,WR,16,1.0,0.0,10.0,Chiefs,2016
-21,50.0,Justin Houston,1/21/1989,27.0,6-3,270.0,Georgia,LOLB,5,5.0,5.0,3.0,Chiefs,2016
-22,96.0,Jaye Howard,12/20/1988,28.0,6-3,301.0,Florida,DT,8,4.0,4.0,3.0,Chiefs,2016
-23,94.0,Jarvis Jenkins,4/24/1988,28.0,6-4,300.0,Clemson,DT,7,0.0,4.0,1.0,Chiefs,2016
-24,56.0,Derrick Johnson,11/22/1982,34.0,6-3,242.0,Texas,LILB,13,13.0,11.0,7.0,Chiefs,2016
-25,95.0,Chris Jones,7/3/1994,22.0,6-6,310.0,Mississippi St.,RDE,16,11.0,0.0,6.0,Chiefs,2016
-26,87.0,Travis Kelce,10/5/1989,27.0,6-5,250.0,Cincinnati,TE,16,15.0,3.0,10.0,Chiefs,2016
-27,93.0,David King,12/27/1989,27.0,6-4,281.0,Oklahoma,DE,2,0.0,2.0,0.0,Chiefs,2016
-28,19.0,Jeremy Maclin,5/11/1988,28.0,6-0,200.0,Missouri,WR,12,12.0,7.0,5.0,Chiefs,2016
-29,59.0,Justin March,7/5/1993,23.0,6-0,222.0,Akron,RILB,5,5.0,0.0,2.0,Chiefs,2016
-30,39.0,Terrance Mitchell,5/17/1992,24.0,5-11,191.0,Oregon,DB,7,2.0,1.0,1.0,Chiefs,2016
-31,61.0,Mitch Morse,4/21/1992,24.0,6-6,305.0,Missouri,C,16,16.0,1.0,6.0,Chiefs,2016
-32,54.0,Dezman Moses,1/4/1989,27.0,6-2,249.0,Tulane,LB,3,0.0,4.0,0.0,Chiefs,2016
-33,21.0,Eric Murray,1/7/1994,22.0,5-11,199.0,Minnesota,DB,16,0.0,0.0,1.0,Chiefs,2016
-34,20.0,Steven Nelson,1/22/1993,23.0,5-11,194.0,Oregon St.,RCB,15,15.0,1.0,5.0,Chiefs,2016
-35,52.0,Dadi Nicolas,9/29/1992,24.0,6-3,235.0,Virginia Tech,LB,11,0.0,0.0,1.0,Chiefs,2016
-36,99.0,Rakeem Nunez-Roches,7/3/1993,23.0,6-2,305.0,Southern Miss,LDE,11,5.0,1.0,3.0,Chiefs,2016
-37,80.0,James O'Shaughnessy,1/14/1992,24.0,6-4,245.0,Illinois St.,TE,16,3.0,1.0,0.0,Chiefs,2016
-38,38.0,Ron Parker,8/17/1987,29.0,6-0,206.0,"Independence (KS),Newberry",FS,16,16.0,5.0,6.0,Chiefs,2016
-39,22.0,Marcus Peters,1/9/1993,23.0,6-0,197.0,Washington,LCB,15,15.0,1.0,16.0,Chiefs,2016
-40,92.0,Dontari Poe,8/18/1990,26.0,6-3,346.0,Memphis,NT,16,16.0,4.0,7.0,Chiefs,2016
-41,75.0,Jah Reid,7/21/1988,28.0,6-7,325.0,Central Florida,T,12,1.0,5.0,1.0,Chiefs,2016
-42,98.0,Kendall Reyes,9/26/1989,27.0,6-4,300.0,Connecticut,DE,10,0.0,4.0,1.0,Chiefs,2016
-43,14.0,Demarcus Robinson,9/21/1994,22.0,6-1,203.0,Florida,WR,16,0.0,0.0,0.0,Chiefs,2016
-44,5.0,Cairo Santos,11/12/1991,25.0,5-8,175.0,Tulane,K,16,0.0,2.0,3.0,Chiefs,2016
-45,71.0,Mitchell Schwartz,6/8/1989,27.0,6-5,320.0,California,RT,16,16.0,4.0,10.0,Chiefs,2016
-46,42.0,Anthony Sherman,12/11/1988,28.0,5-10,242.0,Connecticut,RB,16,3.0,5.0,0.0,Chiefs,2016
-47,11.0,Alex Smith,5/7/1984,32.0,6-4,213.0,Utah,QB,15,15.0,11.0,12.0,Chiefs,2016
-48,48.0,Terrance Smith,5/3/1993,23.0,6-2,235.0,Florida St.,LB,9,2.0,0.0,1.0,Chiefs,2016
-49,49.0,Daniel Sorensen,3/5/1990,26.0,6-2,208.0,BYU,DB,16,1.0,2.0,3.0,Chiefs,2016
-50,13.0,De'Anthony Thomas,1/5/1993,23.0,5-8,176.0,Oregon,RB,12,0.0,2.0,1.0,Chiefs,2016
-51,88.0,Ross Travis,1/9/1993,23.0,6-6,248.0,Penn St.,LB,6,3.0,0.0,0.0,Chiefs,2016
-52,32.0,Spencer Ware,11/23/1991,25.0,5-10,224.0,LSU,RB,14,14.0,3.0,10.0,Chiefs,2016
-53,35.0,Charcandrick West,6/2/1991,25.0,5-10,205.0,Abilene Christian,RB,15,2.0,2.0,4.0,Chiefs,2016
-54,24.0,D.J. White,9/9/1993,23.0,5-11,193.0,Georgia Tech,DB,11,0.0,0.0,1.0,Chiefs,2016
-55,98.0,Nick Williams,2/21/1990,26.0,6-4,310.0,Samford,DE,5,0.0,2.0,1.0,Chiefs,2016
-56,12.0,Albert Wilson,7/12/1992,24.0,5-9,195.0,Georgia St.,WR,16,5.0,2.0,3.0,Chiefs,2016
-57,53.0,Ramik Wilson,8/19/1992,24.0,6-2,238.0,Georgia,RILB,11,11.0,1.0,7.0,Chiefs,2016
-58,41.0,James Winchester,8/6/1989,27.0,6-3,209.0,Oklahoma,LS,16,0.0,1.0,1.0,Chiefs,2016
-59,70.0,Bryan Witzmann,6/16/1990,26.0,6-7,320.0,South Dakota St.,T,11,0.0,0.0,1.0,Chiefs,2016
-60,51.0,Frank Zombo,3/5/1987,29.0,6-3,254.0,Central Michigan,ROLB,16,11.0,6.0,5.0,Chiefs,2016
-61,,Team Total,,25.9,6-2.3,249.2,,,16,,2.9,,Chiefs,2016
+No.,Player,BirthDate,Age,Height,Weight,College/University,Position,Games_Played_in_Season,Games_Started_in_Season,NFL_Years,Player_Value,Team,Year
+27.0,Kenneth Acker,2/6/1992,24.0,6-0,195.0,SMU,DB,9,1.0,1.0,1.0,Chiefs,2016
+57.0,D.J. Alexander,9/30/1991,25.0,6-2,233.0,Oregon St.,LB,16,1.0,1.0,4.0,Chiefs,2016
+97.0,Allen Bailey,3/25/1989,27.0,6-3,288.0,Miami (FL),RDE,5,5.0,5.0,2.0,Chiefs,2016
+77.0,T.J. Barnes,6/14/1990,26.0,6-6,355.0,Georgia Tech,DT,5,0.0,2.0,0.0,Chiefs,2016
+94.0,Sam Barrington,10/5/1990,26.0,6-1,246.0,South Florida,LB,2,0.0,3.0,0.0,Chiefs,2016
+29.0,Eric Berry,12/29/1988,28.0,6-0,212.0,Tennessee,SS,16,16.0,6.0,13.0,Chiefs,2016
+25.0,Jamaal Charles,12/27/1986,30.0,5-11,199.0,Texas,RB,3,0.0,8.0,0.0,Chiefs,2016
+2.0,Dustin Colquitt,5/6/1982,34.0,6-3,210.0,Tennessee,P,16,0.0,11.0,2.0,Chiefs,2016
+17.0,Chris Conley,10/25/1992,24.0,6-3,205.0,Georgia,WR,16,11.0,1.0,5.0,Chiefs,2016
+34.0,Knile Davis,10/5/1991,25.0,5-11,227.0,Arkansas,RB,9,0.0,3.0,0.0,Chiefs,2016
+65.0,Jordan Devey,1/11/1988,28.0,6-6,320.0,Memphis,T,1,1.0,2.0,0.0,Chiefs,2016
+76.0,Laurent Duvernay-Tardif,2/11/1991,25.0,6-5,321.0,McGill,RG,14,14.0,1.0,5.0,Chiefs,2016
+79.0,Parker Ehinger,12/30/1992,24.0,6-6,310.0,Cincinnati,G,5,4.0,0.0,2.0,Chiefs,2016
+72.0,Eric Fisher,1/5/1991,25.0,6-7,315.0,Central Michigan,LT,16,16.0,3.0,6.0,Chiefs,2016
+4.0,Nick Foles,1/20/1989,27.0,6-6,262.0,Arizona,QB,3,1.0,4.0,1.0,Chiefs,2016
+55.0,Dee Ford,3/19/1991,25.0,6-2,252.0,Auburn,LOLB,15,14.0,2.0,7.0,Chiefs,2016
+73.0,Zach Fulton,9/23/1991,25.0,6-5,321.0,Tennessee,LG,16,12.0,2.0,5.0,Chiefs,2016
+23.0,Phillip Gaines,4/4/1991,25.0,6-0,193.0,Rice,RCB,11,5.0,2.0,2.0,Chiefs,2016
+91.0,Tamba Hali,11/3/1983,33.0,6-3,275.0,Penn St.,LB,16,2.0,10.0,3.0,Chiefs,2016
+84.0,Demetrius Harris,7/29/1991,25.0,6-7,230.0,Wisconsin–Milwaukee,WR,16,11.0,2.0,1.0,Chiefs,2016
+10.0,Tyreek Hill,3/1/1994,22.0,5-10,191.0,West Alabama,WR,16,1.0,0.0,10.0,Chiefs,2016
+50.0,Justin Houston,1/21/1989,27.0,6-3,270.0,Georgia,LOLB,5,5.0,5.0,3.0,Chiefs,2016
+96.0,Jaye Howard,12/20/1988,28.0,6-3,301.0,Florida,DT,8,4.0,4.0,3.0,Chiefs,2016
+94.0,Jarvis Jenkins,4/24/1988,28.0,6-4,300.0,Clemson,DT,7,0.0,4.0,1.0,Chiefs,2016
+56.0,Derrick Johnson,11/22/1982,34.0,6-3,242.0,Texas,LILB,13,13.0,11.0,7.0,Chiefs,2016
+95.0,Chris Jones,7/3/1994,22.0,6-6,310.0,Mississippi St.,RDE,16,11.0,0.0,6.0,Chiefs,2016
+87.0,Travis Kelce,10/5/1989,27.0,6-5,250.0,Cincinnati,TE,16,15.0,3.0,10.0,Chiefs,2016
+93.0,David King,12/27/1989,27.0,6-4,281.0,Oklahoma,DE,2,0.0,2.0,0.0,Chiefs,2016
+19.0,Jeremy Maclin,5/11/1988,28.0,6-0,200.0,Missouri,WR,12,12.0,7.0,5.0,Chiefs,2016
+59.0,Justin March,7/5/1993,23.0,6-0,222.0,Akron,RILB,5,5.0,0.0,2.0,Chiefs,2016
+39.0,Terrance Mitchell,5/17/1992,24.0,5-11,191.0,Oregon,DB,7,2.0,1.0,1.0,Chiefs,2016
+61.0,Mitch Morse,4/21/1992,24.0,6-6,305.0,Missouri,C,16,16.0,1.0,6.0,Chiefs,2016
+54.0,Dezman Moses,1/4/1989,27.0,6-2,249.0,Tulane,LB,3,0.0,4.0,0.0,Chiefs,2016
+21.0,Eric Murray,1/7/1994,22.0,5-11,199.0,Minnesota,DB,16,0.0,0.0,1.0,Chiefs,2016
+20.0,Steven Nelson,1/22/1993,23.0,5-11,194.0,Oregon St.,RCB,15,15.0,1.0,5.0,Chiefs,2016
+52.0,Dadi Nicolas,9/29/1992,24.0,6-3,235.0,Virginia Tech,LB,11,0.0,0.0,1.0,Chiefs,2016
+99.0,Rakeem Nunez-Roches,7/3/1993,23.0,6-2,305.0,Southern Miss,LDE,11,5.0,1.0,3.0,Chiefs,2016
+80.0,James O'Shaughnessy,1/14/1992,24.0,6-4,245.0,Illinois St.,TE,16,3.0,1.0,0.0,Chiefs,2016
+38.0,Ron Parker,8/17/1987,29.0,6-0,206.0,"Independence (KS),Newberry",FS,16,16.0,5.0,6.0,Chiefs,2016
+22.0,Marcus Peters,1/9/1993,23.0,6-0,197.0,Washington,LCB,15,15.0,1.0,16.0,Chiefs,2016
+92.0,Dontari Poe,8/18/1990,26.0,6-3,346.0,Memphis,NT,16,16.0,4.0,7.0,Chiefs,2016
+75.0,Jah Reid,7/21/1988,28.0,6-7,325.0,Central Florida,T,12,1.0,5.0,1.0,Chiefs,2016
+98.0,Kendall Reyes,9/26/1989,27.0,6-4,300.0,Connecticut,DE,10,0.0,4.0,1.0,Chiefs,2016
+14.0,Demarcus Robinson,9/21/1994,22.0,6-1,203.0,Florida,WR,16,0.0,0.0,0.0,Chiefs,2016
+5.0,Cairo Santos,11/12/1991,25.0,5-8,175.0,Tulane,K,16,0.0,2.0,3.0,Chiefs,2016
+71.0,Mitchell Schwartz,6/8/1989,27.0,6-5,320.0,California,RT,16,16.0,4.0,10.0,Chiefs,2016
+42.0,Anthony Sherman,12/11/1988,28.0,5-10,242.0,Connecticut,RB,16,3.0,5.0,0.0,Chiefs,2016
+11.0,Alex Smith,5/7/1984,32.0,6-4,213.0,Utah,QB,15,15.0,11.0,12.0,Chiefs,2016
+48.0,Terrance Smith,5/3/1993,23.0,6-2,235.0,Florida St.,LB,9,2.0,0.0,1.0,Chiefs,2016
+49.0,Daniel Sorensen,3/5/1990,26.0,6-2,208.0,BYU,DB,16,1.0,2.0,3.0,Chiefs,2016
+13.0,De'Anthony Thomas,1/5/1993,23.0,5-8,176.0,Oregon,RB,12,0.0,2.0,1.0,Chiefs,2016
+88.0,Ross Travis,1/9/1993,23.0,6-6,248.0,Penn St.,LB,6,3.0,0.0,0.0,Chiefs,2016
+32.0,Spencer Ware,11/23/1991,25.0,5-10,224.0,LSU,RB,14,14.0,3.0,10.0,Chiefs,2016
+35.0,Charcandrick West,6/2/1991,25.0,5-10,205.0,Abilene Christian,RB,15,2.0,2.0,4.0,Chiefs,2016
+24.0,D.J. White,9/9/1993,23.0,5-11,193.0,Georgia Tech,DB,11,0.0,0.0,1.0,Chiefs,2016
+98.0,Nick Williams,2/21/1990,26.0,6-4,310.0,Samford,DE,5,0.0,2.0,1.0,Chiefs,2016
+12.0,Albert Wilson,7/12/1992,24.0,5-9,195.0,Georgia St.,WR,16,5.0,2.0,3.0,Chiefs,2016
+53.0,Ramik Wilson,8/19/1992,24.0,6-2,238.0,Georgia,RILB,11,11.0,1.0,7.0,Chiefs,2016
+41.0,James Winchester,8/6/1989,27.0,6-3,209.0,Oklahoma,LS,16,0.0,1.0,1.0,Chiefs,2016
+70.0,Bryan Witzmann,6/16/1990,26.0,6-7,320.0,South Dakota St.,T,11,0.0,0.0,1.0,Chiefs,2016
+51.0,Frank Zombo,3/5/1987,29.0,6-3,254.0,Central Michigan,ROLB,16,11.0,6.0,5.0,Chiefs,2016
+,Team Total,,25.9,6-2.3,249.2,,,16,,2.9,,Chiefs,2016

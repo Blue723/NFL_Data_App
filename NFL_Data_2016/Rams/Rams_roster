@@ -1,64 +1,64 @@
-,No.,Player,BirthDate,Age,Height,Weight,College/University,Position,Games_Played_in_Season,Games_Started_in_Season,NFL_Years,Player_Value,Team,Year
-0,31.0,Maurice Alexander,2/16/1991,25.0,6-2,220.0,Utah St.,FS,14,14.0,2.0,5.0,Rams,2016
-1,66.0,David Arkin,10/7/1987,29.0,6-5,300.0,Missouri State,G,2,0.0,3.0,0.0,Rams,2016
-2,11.0,Tavon Austin,3/15/1990,26.0,5-8,179.0,West Virginia,WR,15,15.0,3.0,4.0,Rams,2016
-3,61.0,Tim Barnes,5/14/1988,28.0,6-4,297.0,Missouri,C,16,16.0,4.0,5.0,Rams,2016
-4,26.0,Mark Barron,10/27/1989,27.0,6-2,230.0,Alabama,LLB,16,16.0,4.0,14.0,Rams,2016
-5,18.0,Kenny Britt,9/19/1988,28.0,6-3,230.0,Rutgers,WR,15,15.0,7.0,6.0,Rams,2016
-6,90.0,Michael Brockers,12/21/1990,26.0,6-5,297.0,LSU,RDT,14,14.0,4.0,6.0,Rams,2016
-7,68.0,Jamon Brown,3/15/1993,23.0,6-4,340.0,Louisville,G,11,5.0,1.0,2.0,Rams,2016
-8,39.0,Malcolm Brown,5/15/1993,23.0,5-11,225.0,Texas,RB,16,0.0,1.0,0.0,Rams,2016
-9,41.0,Marqui Christian,10/27/1994,22.0,5-11,195.0,Midwestern St.,DB,11,0.0,0.0,1.0,Rams,2016
-10,10.0,Pharoh Cooper,3/7/1995,21.0,5-11,208.0,South Carolina,WR,10,3.0,0.0,1.0,Rams,2016
-11,24.0,Blake Countess,8/8/1993,23.0,5-10,185.0,"Auburn,Michigan",DB,5,2.0,0.0,1.0,Rams,2016
-12,23.0,Benny Cunningham,7/7/1990,26.0,5-10,218.0,Middle Tenn. St.,RB,11,0.0,3.0,1.0,Rams,2016
-13,38.0,Cody Davis,6/6/1989,27.0,6-2,205.0,Texas Tech,DB,15,3.0,3.0,2.0,Rams,2016
-14,99.0,Aaron Donald,5/23/1991,25.0,6-1,280.0,Pittsburgh,LDT,16,16.0,2.0,15.0,Rams,2016
-15,64.0,Andrew Donnal,3/3/1992,24.0,6-6,305.0,Iowa,T,16,4.0,1.0,2.0,Rams,2016
-16,91.0,Dominique Easley,4/28/1992,24.0,6-2,263.0,Florida,DT,16,0.0,2.0,2.0,Rams,2016
-17,59.0,Josh Forrest,2/24/1992,24.0,6-3,249.0,Kentucky,LB,10,4.0,0.0,2.0,Rams,2016
-18,70.0,Morgan Fox,9/12/1994,22.0,6-3,275.0,Colorado State-Pueblo,DB,4,0.0,0.0,1.0,Rams,2016
-19,33.0,E.J. Gaines,2/23/1992,24.0,5-10,190.0,Missouri,RCB,11,10.0,2.0,3.0,Rams,2016
-20,16.0,Jared Goff,10/14/1994,22.0,6-4,217.0,California,QB,7,7.0,0.0,-2.0,Rams,2016
-21,21.0,Dwayne Gratz,3/8/1990,26.0,5-11,201.0,Connecticut,DB,3,0.0,3.0,0.0,Rams,2016
-22,36.0,Aaron Green,10/15/1992,24.0,5-11,206.0,TCU,RB,2,0.0,0.0,0.0,Rams,2016
-23,55.0,Nicholas Grigsby,7/2/1992,24.0,6-2,230.0,Pittsburgh,LB,6,0.0,0.0,0.0,Rams,2016
-24,30.0,Todd Gurley,8/3/1994,22.0,6-1,224.0,Georgia,RB,16,16.0,1.0,4.0,Rams,2016
-25,54.0,Bryce Hager,5/4/1992,24.0,6-1,237.0,Baylor,LB,16,0.0,1.0,1.0,Rams,2016
-26,46.0,Cory Harkey,6/17/1990,26.0,6-3,272.0,UCLA,TE,12,0.0,4.0,0.0,Rams,2016
-27,79.0,Rob Havenstein,5/13/1992,24.0,6-8,330.0,Wisconsin,RT,15,15.0,1.0,5.0,Rams,2016
-28,95.0,William Hayes,5/2/1985,31.0,6-3,265.0,Winston-Salem St.,LDE,14,14.0,8.0,7.0,Rams,2016
-29,6.0,Johnny Hekker,2/8/1990,26.0,6-5,225.0,Oregon St.,P,16,0.0,4.0,3.0,Rams,2016
-30,84.0,Temarrick Hemingway,7/30/1993,23.0,6-5,245.0,South Carolina St.,TE,8,0.0,0.0,0.0,Rams,2016
-31,89.0,Tyler Higbee,1/1/1993,23.0,6-6,255.0,Western Kentucky,TE,16,7.0,0.0,1.0,Rams,2016
-32,32.0,Troy Hill,8/29/1991,25.0,5-11,180.0,Oregon,DB,12,4.0,1.0,2.0,Rams,2016
-33,27.0,Isaiah Johnson,5/16/1992,24.0,6-1,210.0,Georgia Tech,DB,3,0.0,1.0,0.0,Rams,2016
-34,22.0,Trumaine Johnson,1/1/1990,26.0,6-2,213.0,Montana,LCB,14,14.0,4.0,4.0,Rams,2016
-35,35.0,Mike Jordan,10/21/1992,24.0,6-1,200.0,Missouri Western St.,DB,5,2.0,0.0,1.0,Rams,2016
-36,20.0,Lamarcus Joyner,11/27/1990,26.0,5-8,185.0,Florida St.,DB,14,8.0,2.0,3.0,Rams,2016
-37,17.0,Case Keenum,2/17/1988,28.0,6-1,206.0,Houston,QB,10,9.0,3.0,4.0,Rams,2016
-38,88.0,Lance Kendricks,1/30/1988,28.0,6-3,250.0,Wisconsin,TE,16,16.0,5.0,3.0,Rams,2016
-39,58.0,Cory Littleton,11/18/1993,23.0,6-3,225.0,Washington,LB,16,1.0,0.0,2.0,Rams,2016
-40,96.0,Matt Longacre,9/21/1991,25.0,6-3,265.0,NW Missouri St.,DE,6,0.0,1.0,1.0,Rams,2016
-41,14.0,Sean Mannion,4/25/1992,24.0,6-6,230.0,Oregon St.,QB,1,0.0,1.0,0.0,Rams,2016
-42,15.0,Bradley Marquez,12/14/1992,24.0,5-10,205.0,Texas Tech,WR,14,0.0,1.0,0.0,Rams,2016
-43,25.0,T.J. McDonald,1/26/1991,25.0,6-2,215.0,USC,SS,16,16.0,3.0,5.0,Rams,2016
-44,44.0,Jake McQuaide,12/7/1987,29.0,6-2,247.0,Ohio St.,LS,16,0.0,5.0,2.0,Rams,2016
-45,8.0,Paul McRoberts,11/15/1992,24.0,6-3,192.0,SE Missouri St.,WR,2,0.0,0.0,0.0,Rams,2016
-46,72.0,Pace Murphy,3/2/1994,22.0,6-6,308.0,Northwestern St. (LA),T,2,0.0,0.0,0.0,Rams,2016
-47,52.0,Alec Ogletree,9/25/1991,25.0,6-3,250.0,Georgia,MLB,16,16.0,3.0,13.0,Rams,2016
-48,83.0,Brian Quick,6/5/1989,27.0,6-3,215.0,Appalachian St.,WR,16,8.0,4.0,3.0,Rams,2016
-49,94.0,Robert Quinn,5/18/1990,26.0,6-4,245.0,North Carolina,RDE,9,8.0,5.0,4.0,Rams,2016
-50,34.0,Chase Reynolds,10/22/1987,29.0,6-0,195.0,Montana,RB,16,0.0,3.0,0.0,Rams,2016
-51,65.0,Demetrius Rhaney,6/22/1992,24.0,6-2,305.0,Tennessee St.,C,16,0.0,1.0,1.0,Rams,2016
-52,73.0,Greg Robinson,10/21/1992,24.0,6-5,330.0,Auburn,LT,14,14.0,2.0,4.0,Rams,2016
-53,76.0,Rodger Saffold,6/6/1988,28.0,6-5,325.0,Indiana,LG,15,15.0,6.0,5.0,Rams,2016
-54,21.0,Coty Sensabaugh,11/15/1988,28.0,5-11,187.0,Clemson,DB,3,2.0,4.0,1.0,Rams,2016
-55,97.0,Eugene Sims,3/18/1986,30.0,6-5,240.0,West Texas A&M,RDE,16,8.0,6.0,5.0,Rams,2016
-56,92.0,Cam Thomas,12/12/1986,30.0,6-3,330.0,North Carolina,DT,16,2.0,6.0,2.0,Rams,2016
-57,13.0,Mike Thomas,8/16/1994,22.0,6-1,189.0,Southern Miss,WR,15,0.0,0.0,0.0,Rams,2016
-58,93.0,Ethan Westbrooks,11/15/1990,26.0,6-4,287.0,West Texas A&M,DE,16,2.0,2.0,3.0,Rams,2016
-59,69.0,Cody Wichmann,3/2/1992,24.0,6-5,325.0,Fresno St.,RG,12,11.0,1.0,3.0,Rams,2016
-60,21.0,Steve Williams,3/7/1991,25.0,5-9,181.0,California,DB,1,0.0,2.0,0.0,Rams,2016
-61,4.0,Greg Zuerlein,12/27/1987,29.0,6-0,187.0,Missouri Western St.,K,16,0.0,4.0,4.0,Rams,2016
-62,,Team Total,,25.3,6-2.0,240.6,,,16,,2.3,,Rams,2016
+No.,Player,BirthDate,Age,Height,Weight,College/University,Position,Games_Played_in_Season,Games_Started_in_Season,NFL_Years,Player_Value,Team,Year
+31.0,Maurice Alexander,2/16/1991,25.0,6-2,220.0,Utah St.,FS,14,14.0,2.0,5.0,Rams,2016
+66.0,David Arkin,10/7/1987,29.0,6-5,300.0,Missouri State,G,2,0.0,3.0,0.0,Rams,2016
+11.0,Tavon Austin,3/15/1990,26.0,5-8,179.0,West Virginia,WR,15,15.0,3.0,4.0,Rams,2016
+61.0,Tim Barnes,5/14/1988,28.0,6-4,297.0,Missouri,C,16,16.0,4.0,5.0,Rams,2016
+26.0,Mark Barron,10/27/1989,27.0,6-2,230.0,Alabama,LLB,16,16.0,4.0,14.0,Rams,2016
+18.0,Kenny Britt,9/19/1988,28.0,6-3,230.0,Rutgers,WR,15,15.0,7.0,6.0,Rams,2016
+90.0,Michael Brockers,12/21/1990,26.0,6-5,297.0,LSU,RDT,14,14.0,4.0,6.0,Rams,2016
+68.0,Jamon Brown,3/15/1993,23.0,6-4,340.0,Louisville,G,11,5.0,1.0,2.0,Rams,2016
+39.0,Malcolm Brown,5/15/1993,23.0,5-11,225.0,Texas,RB,16,0.0,1.0,0.0,Rams,2016
+41.0,Marqui Christian,10/27/1994,22.0,5-11,195.0,Midwestern St.,DB,11,0.0,0.0,1.0,Rams,2016
+10.0,Pharoh Cooper,3/7/1995,21.0,5-11,208.0,South Carolina,WR,10,3.0,0.0,1.0,Rams,2016
+24.0,Blake Countess,8/8/1993,23.0,5-10,185.0,"Auburn,Michigan",DB,5,2.0,0.0,1.0,Rams,2016
+23.0,Benny Cunningham,7/7/1990,26.0,5-10,218.0,Middle Tenn. St.,RB,11,0.0,3.0,1.0,Rams,2016
+38.0,Cody Davis,6/6/1989,27.0,6-2,205.0,Texas Tech,DB,15,3.0,3.0,2.0,Rams,2016
+99.0,Aaron Donald,5/23/1991,25.0,6-1,280.0,Pittsburgh,LDT,16,16.0,2.0,15.0,Rams,2016
+64.0,Andrew Donnal,3/3/1992,24.0,6-6,305.0,Iowa,T,16,4.0,1.0,2.0,Rams,2016
+91.0,Dominique Easley,4/28/1992,24.0,6-2,263.0,Florida,DT,16,0.0,2.0,2.0,Rams,2016
+59.0,Josh Forrest,2/24/1992,24.0,6-3,249.0,Kentucky,LB,10,4.0,0.0,2.0,Rams,2016
+70.0,Morgan Fox,9/12/1994,22.0,6-3,275.0,Colorado State-Pueblo,DB,4,0.0,0.0,1.0,Rams,2016
+33.0,E.J. Gaines,2/23/1992,24.0,5-10,190.0,Missouri,RCB,11,10.0,2.0,3.0,Rams,2016
+16.0,Jared Goff,10/14/1994,22.0,6-4,217.0,California,QB,7,7.0,0.0,-2.0,Rams,2016
+21.0,Dwayne Gratz,3/8/1990,26.0,5-11,201.0,Connecticut,DB,3,0.0,3.0,0.0,Rams,2016
+36.0,Aaron Green,10/15/1992,24.0,5-11,206.0,TCU,RB,2,0.0,0.0,0.0,Rams,2016
+55.0,Nicholas Grigsby,7/2/1992,24.0,6-2,230.0,Pittsburgh,LB,6,0.0,0.0,0.0,Rams,2016
+30.0,Todd Gurley,8/3/1994,22.0,6-1,224.0,Georgia,RB,16,16.0,1.0,4.0,Rams,2016
+54.0,Bryce Hager,5/4/1992,24.0,6-1,237.0,Baylor,LB,16,0.0,1.0,1.0,Rams,2016
+46.0,Cory Harkey,6/17/1990,26.0,6-3,272.0,UCLA,TE,12,0.0,4.0,0.0,Rams,2016
+79.0,Rob Havenstein,5/13/1992,24.0,6-8,330.0,Wisconsin,RT,15,15.0,1.0,5.0,Rams,2016
+95.0,William Hayes,5/2/1985,31.0,6-3,265.0,Winston-Salem St.,LDE,14,14.0,8.0,7.0,Rams,2016
+6.0,Johnny Hekker,2/8/1990,26.0,6-5,225.0,Oregon St.,P,16,0.0,4.0,3.0,Rams,2016
+84.0,Temarrick Hemingway,7/30/1993,23.0,6-5,245.0,South Carolina St.,TE,8,0.0,0.0,0.0,Rams,2016
+89.0,Tyler Higbee,1/1/1993,23.0,6-6,255.0,Western Kentucky,TE,16,7.0,0.0,1.0,Rams,2016
+32.0,Troy Hill,8/29/1991,25.0,5-11,180.0,Oregon,DB,12,4.0,1.0,2.0,Rams,2016
+27.0,Isaiah Johnson,5/16/1992,24.0,6-1,210.0,Georgia Tech,DB,3,0.0,1.0,0.0,Rams,2016
+22.0,Trumaine Johnson,1/1/1990,26.0,6-2,213.0,Montana,LCB,14,14.0,4.0,4.0,Rams,2016
+35.0,Mike Jordan,10/21/1992,24.0,6-1,200.0,Missouri Western St.,DB,5,2.0,0.0,1.0,Rams,2016
+20.0,Lamarcus Joyner,11/27/1990,26.0,5-8,185.0,Florida St.,DB,14,8.0,2.0,3.0,Rams,2016
+17.0,Case Keenum,2/17/1988,28.0,6-1,206.0,Houston,QB,10,9.0,3.0,4.0,Rams,2016
+88.0,Lance Kendricks,1/30/1988,28.0,6-3,250.0,Wisconsin,TE,16,16.0,5.0,3.0,Rams,2016
+58.0,Cory Littleton,11/18/1993,23.0,6-3,225.0,Washington,LB,16,1.0,0.0,2.0,Rams,2016
+96.0,Matt Longacre,9/21/1991,25.0,6-3,265.0,NW Missouri St.,DE,6,0.0,1.0,1.0,Rams,2016
+14.0,Sean Mannion,4/25/1992,24.0,6-6,230.0,Oregon St.,QB,1,0.0,1.0,0.0,Rams,2016
+15.0,Bradley Marquez,12/14/1992,24.0,5-10,205.0,Texas Tech,WR,14,0.0,1.0,0.0,Rams,2016
+25.0,T.J. McDonald,1/26/1991,25.0,6-2,215.0,USC,SS,16,16.0,3.0,5.0,Rams,2016
+44.0,Jake McQuaide,12/7/1987,29.0,6-2,247.0,Ohio St.,LS,16,0.0,5.0,2.0,Rams,2016
+8.0,Paul McRoberts,11/15/1992,24.0,6-3,192.0,SE Missouri St.,WR,2,0.0,0.0,0.0,Rams,2016
+72.0,Pace Murphy,3/2/1994,22.0,6-6,308.0,Northwestern St. (LA),T,2,0.0,0.0,0.0,Rams,2016
+52.0,Alec Ogletree,9/25/1991,25.0,6-3,250.0,Georgia,MLB,16,16.0,3.0,13.0,Rams,2016
+83.0,Brian Quick,6/5/1989,27.0,6-3,215.0,Appalachian St.,WR,16,8.0,4.0,3.0,Rams,2016
+94.0,Robert Quinn,5/18/1990,26.0,6-4,245.0,North Carolina,RDE,9,8.0,5.0,4.0,Rams,2016
+34.0,Chase Reynolds,10/22/1987,29.0,6-0,195.0,Montana,RB,16,0.0,3.0,0.0,Rams,2016
+65.0,Demetrius Rhaney,6/22/1992,24.0,6-2,305.0,Tennessee St.,C,16,0.0,1.0,1.0,Rams,2016
+73.0,Greg Robinson,10/21/1992,24.0,6-5,330.0,Auburn,LT,14,14.0,2.0,4.0,Rams,2016
+76.0,Rodger Saffold,6/6/1988,28.0,6-5,325.0,Indiana,LG,15,15.0,6.0,5.0,Rams,2016
+21.0,Coty Sensabaugh,11/15/1988,28.0,5-11,187.0,Clemson,DB,3,2.0,4.0,1.0,Rams,2016
+97.0,Eugene Sims,3/18/1986,30.0,6-5,240.0,West Texas A&M,RDE,16,8.0,6.0,5.0,Rams,2016
+92.0,Cam Thomas,12/12/1986,30.0,6-3,330.0,North Carolina,DT,16,2.0,6.0,2.0,Rams,2016
+13.0,Mike Thomas,8/16/1994,22.0,6-1,189.0,Southern Miss,WR,15,0.0,0.0,0.0,Rams,2016
+93.0,Ethan Westbrooks,11/15/1990,26.0,6-4,287.0,West Texas A&M,DE,16,2.0,2.0,3.0,Rams,2016
+69.0,Cody Wichmann,3/2/1992,24.0,6-5,325.0,Fresno St.,RG,12,11.0,1.0,3.0,Rams,2016
+21.0,Steve Williams,3/7/1991,25.0,5-9,181.0,California,DB,1,0.0,2.0,0.0,Rams,2016
+4.0,Greg Zuerlein,12/27/1987,29.0,6-0,187.0,Missouri Western St.,K,16,0.0,4.0,4.0,Rams,2016
+,Team Total,,25.3,6-2.0,240.6,,,16,,2.3,,Rams,2016

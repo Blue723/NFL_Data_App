@@ -1,60 +1,60 @@
-,No.,Player,BirthDate,Age,Height,Weight,College/University,Position,Games_Played_in_Season,Games_Started_in_Season,NFL_Years,Player_Value,Team,Year
-0,15.0,Demarcus Ayers,7/7/1994,22.0,5-11,190.0,Houston,WR,2,1.0,0.0,0.0,Steelers,2016
-1,26.0,Le'Veon Bell,2/18/1992,24.0,6-1,225.0,Michigan St.,RB,12,12.0,3.0,15.0,Steelers,2016
-2,4.0,Jordan Berry,3/18/1991,25.0,6-5,195.0,Eastern Kentucky,P,16,0.0,1.0,2.0,Steelers,2016
-3,9.0,Chris Boswell,3/16/1991,25.0,6-2,185.0,Rice,K,15,0.0,1.0,3.0,Steelers,2016
-4,84.0,Antonio Brown,7/10/1988,28.0,5-10,185.0,Central Michigan,WR,15,15.0,6.0,12.0,Steelers,2016
-5,2.0,Randy Bullock,12/16/1989,27.0,5-9,210.0,Texas A&M,K,1,0.0,3.0,0.0,Steelers,2016
-6,25.0,Artie Burns,5/1/1995,21.0,6-0,187.0,Miami (FL),LCB,16,9.0,0.0,5.0,Steelers,2016
-7,56.0,Anthony Chickillo,12/10/1992,24.0,6-3,255.0,Miami (FL),LOLB,15,7.0,1.0,4.0,Steelers,2016
-8,14.0,Sammie Coates,3/31/1993,23.0,6-1,210.0,Auburn,WR,14,5.0,1.0,4.0,Steelers,2016
-9,31.0,Ross Cockrell,8/6/1991,25.0,6-0,191.0,Duke,RCB,16,16.0,2.0,7.0,Steelers,2016
-10,37.0,Jordan Dangerfield,12/25/1990,26.0,5-11,199.0,Towson,DB,14,2.0,0.0,2.0,Steelers,2016
-11,28.0,Sean Davis,10/23/1993,23.0,6-1,202.0,Maryland,SS,16,9.0,0.0,5.0,Steelers,2016
-12,66.0,David DeCastro,1/11/1990,26.0,6-5,316.0,Stanford,RG,16,16.0,4.0,12.0,Steelers,2016
-13,48.0,Bud Dupree,2/12/1993,23.0,6-4,269.0,Kentucky,LB,7,4.0,1.0,2.0,Steelers,2016
-14,67.0,B.J. Finney,10/26/1991,25.0,6-4,318.0,Kansas St.,C,13,3.0,0.0,2.0,Steelers,2016
-15,54.0,L.J. Fort,1/3/1990,26.0,6-0,232.0,Northern Iowa,LB,14,0.0,4.0,1.0,Steelers,2016
-16,73.0,Ramon Foster,1/7/1986,30.0,6-5,328.0,Tennessee,LG,14,14.0,7.0,7.0,Steelers,2016
-17,22.0,William Gay,1/1/1985,31.0,5-10,187.0,Louisville,LCB,16,9.0,9.0,4.0,Steelers,2016
-18,24.0,Justin Gilbert,11/7/1991,25.0,6-0,202.0,Oklahoma St.,DB,12,0.0,2.0,1.0,Steelers,2016
-19,77.0,Marcus Gilbert,2/15/1988,28.0,6-6,330.0,Florida,RT,13,13.0,5.0,6.0,Steelers,2016
-20,21.0,Robert Golden,9/13/1990,26.0,5-11,202.0,Arizona,SS,13,7.0,4.0,3.0,Steelers,2016
-21,89.0,Ladarius Green,5/29/1990,26.0,6-6,237.0,Louisiana,TE,6,2.0,4.0,3.0,Steelers,2016
-22,85.0,Xavier Grimble,9/22/1992,24.0,6-4,261.0,USC,TE,13,2.0,0.0,1.0,Steelers,2016
-23,83.0,Cobi Hamilton,11/13/1990,26.0,6-2,201.0,Arkansas,WR,11,8.0,3.0,2.0,Steelers,2016
-24,79.0,Javon Hargrave,2/7/1993,23.0,6-2,305.0,South Carolina St.,NT,15,13.0,0.0,7.0,Steelers,2016
-25,68.0,Ryan Harris,3/11/1985,31.0,6-5,299.0,Notre Dame,T,4,0.0,9.0,0.0,Steelers,2016
-26,92.0,James Harrison,5/4/1978,38.0,6-0,242.0,Kent St.,ROLB,15,7.0,14.0,5.0,Steelers,2016
-27,97.0,Cameron Heyward,5/6/1989,27.0,6-5,295.0,Ohio St.,LDE,7,7.0,5.0,4.0,Steelers,2016
-28,88.0,Darrius Heyward-Bey,2/26/1987,29.0,6-2,210.0,Maryland,WR,10,0.0,7.0,1.0,Steelers,2016
-29,74.0,Chris Hubbard,4/23/1991,25.0,6-4,295.0,Ala-Birmingham,T,15,4.0,2.0,3.0,Steelers,2016
-30,81.0,Jesse James,6/4/1994,22.0,6-7,251.0,Penn St.,TE,16,13.0,1.0,3.0,Steelers,2016
-31,82.0,David Johnson,8/26/1987,29.0,6-2,270.0,Arkansas St.,TE,16,5.0,7.0,1.0,Steelers,2016
-32,51.0,Steven Johnson,3/28/1988,28.0,6-1,237.0,Kansas,LB,6,0.0,4.0,0.0,Steelers,2016
-33,95.0,Jarvis Jones,10/13/1989,27.0,6-2,245.0,Georgia,ROLB,14,9.0,3.0,5.0,Steelers,2016
-34,3.0,Landry Jones,4/4/1989,27.0,6-4,225.0,Oklahoma,QB,8,2.0,1.0,2.0,Steelers,2016
-35,44.0,Tyler Matakevich,12/22/1992,24.0,6-1,235.0,Temple,LB,16,0.0,0.0,1.0,Steelers,2016
-36,90.0,Ricardo Mathews,7/30/1987,29.0,6-3,294.0,Cincinnati,LDE,16,5.0,6.0,3.0,Steelers,2016
-37,62.0,Johnny Maxey,10/19/1993,23.0,6-5,283.0,Mars Hill,DT,2,0.0,0.0,0.0,Steelers,2016
-38,93.0,Daniel McCullers,8/11/1992,24.0,6-7,352.0,Tennessee,DT,16,1.0,2.0,2.0,Steelers,2016
-39,23.0,Mike Mitchell,6/10/1987,29.0,6-1,221.0,Ohio,FS,16,16.0,7.0,7.0,Steelers,2016
-40,55.0,Arthur Moats,3/14/1988,28.0,6-0,246.0,James Madison,LOLB,16,5.0,6.0,3.0,Steelers,2016
-41,45.0,Roosevelt Nix,3/30/1992,24.0,5-11,248.0,"Kent St.,Kent St.",RB,10,2.0,1.0,0.0,Steelers,2016
-42,53.0,Maurkice Pouncey,7/24/1989,27.0,6-4,304.0,Florida,C,15,15.0,6.0,9.0,Steelers,2016
-43,38.0,Daryl Richardson,4/12/1990,26.0,5-10,192.0,Abilene Christian,RB,3,0.0,4.0,0.0,Steelers,2016
-44,7.0,Ben Roethlisberger,3/2/1982,34.0,6-5,240.0,Miami (OH),QB,14,14.0,12.0,12.0,Steelers,2016
-45,17.0,Eli Rogers,12/23/1992,24.0,5-10,187.0,Louisville,WR,13,8.0,0.0,6.0,Steelers,2016
-46,20.0,Al-Hajj Shabazz,8/2/1992,24.0,6-2,200.0,West Chester,DB,7,0.0,0.0,0.0,Steelers,2016
-47,50.0,Ryan Shazier,9/6/1992,24.0,6-1,230.0,Ohio St.,LILB,13,12.0,2.0,10.0,Steelers,2016
-48,29.0,Shamarko Thomas,2/23/1991,25.0,5-9,205.0,Syracuse,DB,8,0.0,3.0,1.0,Steelers,2016
-49,94.0,Lawrence Timmons,5/14/1986,30.0,6-1,234.0,Florida St.,RILB,16,16.0,9.0,9.0,Steelers,2016
-50,33.0,Fitzgerald Toussaint,5/4/1990,26.0,5-9,204.0,Michigan,RB,16,0.0,2.0,1.0,Steelers,2016
-51,91.0,Stephon Tuitt,5/23/1993,23.0,6-6,303.0,Notre Dame,RDE,14,14.0,2.0,7.0,Steelers,2016
-52,78.0,Alejandro Villanueva,9/22/1988,28.0,6-9,277.0,Army,LT,16,16.0,1.0,8.0,Steelers,2016
-53,96.0,Leterrius Walton,3/31/1992,24.0,6-5,305.0,Central Michigan,DT,10,4.0,1.0,2.0,Steelers,2016
-54,60.0,Greg Warren,10/18/1981,35.0,6-3,252.0,North Carolina,LS,16,0.0,11.0,3.0,Steelers,2016
-55,11.0,Markus Wheaton,2/7/1991,25.0,5-11,185.0,Oregon St.,WR,3,2.0,3.0,0.0,Steelers,2016
-56,34.0,DeAngelo Williams,4/25/1983,33.0,5-9,207.0,Memphis,RB,9,4.0,10.0,3.0,Steelers,2016
-57,98.0,Vince Williams,12/27/1989,27.0,6-1,233.0,Florida St.,LB,16,4.0,3.0,3.0,Steelers,2016
-58,,Team Total,,26.4,6-1.9,241.9,,,16,,3.5,,Steelers,2016
+No.,Player,BirthDate,Age,Height,Weight,College/University,Position,Games_Played_in_Season,Games_Started_in_Season,NFL_Years,Player_Value,Team,Year
+15.0,Demarcus Ayers,7/7/1994,22.0,5-11,190.0,Houston,WR,2,1.0,0.0,0.0,Steelers,2016
+26.0,Le'Veon Bell,2/18/1992,24.0,6-1,225.0,Michigan St.,RB,12,12.0,3.0,15.0,Steelers,2016
+4.0,Jordan Berry,3/18/1991,25.0,6-5,195.0,Eastern Kentucky,P,16,0.0,1.0,2.0,Steelers,2016
+9.0,Chris Boswell,3/16/1991,25.0,6-2,185.0,Rice,K,15,0.0,1.0,3.0,Steelers,2016
+84.0,Antonio Brown,7/10/1988,28.0,5-10,185.0,Central Michigan,WR,15,15.0,6.0,12.0,Steelers,2016
+2.0,Randy Bullock,12/16/1989,27.0,5-9,210.0,Texas A&M,K,1,0.0,3.0,0.0,Steelers,2016
+25.0,Artie Burns,5/1/1995,21.0,6-0,187.0,Miami (FL),LCB,16,9.0,0.0,5.0,Steelers,2016
+56.0,Anthony Chickillo,12/10/1992,24.0,6-3,255.0,Miami (FL),LOLB,15,7.0,1.0,4.0,Steelers,2016
+14.0,Sammie Coates,3/31/1993,23.0,6-1,210.0,Auburn,WR,14,5.0,1.0,4.0,Steelers,2016
+31.0,Ross Cockrell,8/6/1991,25.0,6-0,191.0,Duke,RCB,16,16.0,2.0,7.0,Steelers,2016
+37.0,Jordan Dangerfield,12/25/1990,26.0,5-11,199.0,Towson,DB,14,2.0,0.0,2.0,Steelers,2016
+28.0,Sean Davis,10/23/1993,23.0,6-1,202.0,Maryland,SS,16,9.0,0.0,5.0,Steelers,2016
+66.0,David DeCastro,1/11/1990,26.0,6-5,316.0,Stanford,RG,16,16.0,4.0,12.0,Steelers,2016
+48.0,Bud Dupree,2/12/1993,23.0,6-4,269.0,Kentucky,LB,7,4.0,1.0,2.0,Steelers,2016
+67.0,B.J. Finney,10/26/1991,25.0,6-4,318.0,Kansas St.,C,13,3.0,0.0,2.0,Steelers,2016
+54.0,L.J. Fort,1/3/1990,26.0,6-0,232.0,Northern Iowa,LB,14,0.0,4.0,1.0,Steelers,2016
+73.0,Ramon Foster,1/7/1986,30.0,6-5,328.0,Tennessee,LG,14,14.0,7.0,7.0,Steelers,2016
+22.0,William Gay,1/1/1985,31.0,5-10,187.0,Louisville,LCB,16,9.0,9.0,4.0,Steelers,2016
+24.0,Justin Gilbert,11/7/1991,25.0,6-0,202.0,Oklahoma St.,DB,12,0.0,2.0,1.0,Steelers,2016
+77.0,Marcus Gilbert,2/15/1988,28.0,6-6,330.0,Florida,RT,13,13.0,5.0,6.0,Steelers,2016
+21.0,Robert Golden,9/13/1990,26.0,5-11,202.0,Arizona,SS,13,7.0,4.0,3.0,Steelers,2016
+89.0,Ladarius Green,5/29/1990,26.0,6-6,237.0,Louisiana,TE,6,2.0,4.0,3.0,Steelers,2016
+85.0,Xavier Grimble,9/22/1992,24.0,6-4,261.0,USC,TE,13,2.0,0.0,1.0,Steelers,2016
+83.0,Cobi Hamilton,11/13/1990,26.0,6-2,201.0,Arkansas,WR,11,8.0,3.0,2.0,Steelers,2016
+79.0,Javon Hargrave,2/7/1993,23.0,6-2,305.0,South Carolina St.,NT,15,13.0,0.0,7.0,Steelers,2016
+68.0,Ryan Harris,3/11/1985,31.0,6-5,299.0,Notre Dame,T,4,0.0,9.0,0.0,Steelers,2016
+92.0,James Harrison,5/4/1978,38.0,6-0,242.0,Kent St.,ROLB,15,7.0,14.0,5.0,Steelers,2016
+97.0,Cameron Heyward,5/6/1989,27.0,6-5,295.0,Ohio St.,LDE,7,7.0,5.0,4.0,Steelers,2016
+88.0,Darrius Heyward-Bey,2/26/1987,29.0,6-2,210.0,Maryland,WR,10,0.0,7.0,1.0,Steelers,2016
+74.0,Chris Hubbard,4/23/1991,25.0,6-4,295.0,Ala-Birmingham,T,15,4.0,2.0,3.0,Steelers,2016
+81.0,Jesse James,6/4/1994,22.0,6-7,251.0,Penn St.,TE,16,13.0,1.0,3.0,Steelers,2016
+82.0,David Johnson,8/26/1987,29.0,6-2,270.0,Arkansas St.,TE,16,5.0,7.0,1.0,Steelers,2016
+51.0,Steven Johnson,3/28/1988,28.0,6-1,237.0,Kansas,LB,6,0.0,4.0,0.0,Steelers,2016
+95.0,Jarvis Jones,10/13/1989,27.0,6-2,245.0,Georgia,ROLB,14,9.0,3.0,5.0,Steelers,2016
+3.0,Landry Jones,4/4/1989,27.0,6-4,225.0,Oklahoma,QB,8,2.0,1.0,2.0,Steelers,2016
+44.0,Tyler Matakevich,12/22/1992,24.0,6-1,235.0,Temple,LB,16,0.0,0.0,1.0,Steelers,2016
+90.0,Ricardo Mathews,7/30/1987,29.0,6-3,294.0,Cincinnati,LDE,16,5.0,6.0,3.0,Steelers,2016
+62.0,Johnny Maxey,10/19/1993,23.0,6-5,283.0,Mars Hill,DT,2,0.0,0.0,0.0,Steelers,2016
+93.0,Daniel McCullers,8/11/1992,24.0,6-7,352.0,Tennessee,DT,16,1.0,2.0,2.0,Steelers,2016
+23.0,Mike Mitchell,6/10/1987,29.0,6-1,221.0,Ohio,FS,16,16.0,7.0,7.0,Steelers,2016
+55.0,Arthur Moats,3/14/1988,28.0,6-0,246.0,James Madison,LOLB,16,5.0,6.0,3.0,Steelers,2016
+45.0,Roosevelt Nix,3/30/1992,24.0,5-11,248.0,"Kent St.,Kent St.",RB,10,2.0,1.0,0.0,Steelers,2016
+53.0,Maurkice Pouncey,7/24/1989,27.0,6-4,304.0,Florida,C,15,15.0,6.0,9.0,Steelers,2016
+38.0,Daryl Richardson,4/12/1990,26.0,5-10,192.0,Abilene Christian,RB,3,0.0,4.0,0.0,Steelers,2016
+7.0,Ben Roethlisberger,3/2/1982,34.0,6-5,240.0,Miami (OH),QB,14,14.0,12.0,12.0,Steelers,2016
+17.0,Eli Rogers,12/23/1992,24.0,5-10,187.0,Louisville,WR,13,8.0,0.0,6.0,Steelers,2016
+20.0,Al-Hajj Shabazz,8/2/1992,24.0,6-2,200.0,West Chester,DB,7,0.0,0.0,0.0,Steelers,2016
+50.0,Ryan Shazier,9/6/1992,24.0,6-1,230.0,Ohio St.,LILB,13,12.0,2.0,10.0,Steelers,2016
+29.0,Shamarko Thomas,2/23/1991,25.0,5-9,205.0,Syracuse,DB,8,0.0,3.0,1.0,Steelers,2016
+94.0,Lawrence Timmons,5/14/1986,30.0,6-1,234.0,Florida St.,RILB,16,16.0,9.0,9.0,Steelers,2016
+33.0,Fitzgerald Toussaint,5/4/1990,26.0,5-9,204.0,Michigan,RB,16,0.0,2.0,1.0,Steelers,2016
+91.0,Stephon Tuitt,5/23/1993,23.0,6-6,303.0,Notre Dame,RDE,14,14.0,2.0,7.0,Steelers,2016
+78.0,Alejandro Villanueva,9/22/1988,28.0,6-9,277.0,Army,LT,16,16.0,1.0,8.0,Steelers,2016
+96.0,Leterrius Walton,3/31/1992,24.0,6-5,305.0,Central Michigan,DT,10,4.0,1.0,2.0,Steelers,2016
+60.0,Greg Warren,10/18/1981,35.0,6-3,252.0,North Carolina,LS,16,0.0,11.0,3.0,Steelers,2016
+11.0,Markus Wheaton,2/7/1991,25.0,5-11,185.0,Oregon St.,WR,3,2.0,3.0,0.0,Steelers,2016
+34.0,DeAngelo Williams,4/25/1983,33.0,5-9,207.0,Memphis,RB,9,4.0,10.0,3.0,Steelers,2016
+98.0,Vince Williams,12/27/1989,27.0,6-1,233.0,Florida St.,LB,16,4.0,3.0,3.0,Steelers,2016
+,Team Total,,26.4,6-1.9,241.9,,,16,,3.5,,Steelers,2016

@@ -1,67 +1,67 @@
-,No.,Player,BirthDate,Age,Height,Weight,College/University,Position,Games_Played_in_Season,Games_Started_in_Season,NFL_Years,Player_Value,Team,Year
-0,84.0,Jared Abbrederis,12/17/1990,26.0,6-1,195.0,Wisconsin,WR,5,0.0,1.0,0.0,Packers,2016
-1,17.0,Davante Adams,12/24/1992,24.0,6-1,215.0,Fresno St.,WR,16,15.0,2.0,10.0,Packers,2016
-2,81.0,Geronimo Allison,1/18/1994,22.0,6-3,202.0,Illinois,WR,10,2.0,0.0,2.0,Packers,2016
-3,69.0,David Bakhtiari,9/30/1991,25.0,6-4,310.0,Colorado,LT,16,16.0,3.0,16.0,Packers,2016
-4,32.0,Chris Banjo,2/26/1990,26.0,5-10,207.0,SMU,DB,2,0.0,3.0,0.0,Packers,2016
-5,67.0,Don Barclay,4/18/1989,27.0,6-4,305.0,West Virginia,T,16,1.0,4.0,2.0,Packers,2016
-6,54.0,Carl Bradford,8/15/1992,24.0,6-1,250.0,Arizona St.,LB,4,0.0,0.0,0.0,Packers,2016
-7,29.0,Kentrell Brice,8/11/1994,22.0,5-11,200.0,Louisiana Tech,DB,16,1.0,0.0,1.0,Packers,2016
-8,75.0,Bryan Bulaga,3/21/1989,27.0,6-5,314.0,Iowa,RT,16,16.0,6.0,10.0,Packers,2016
-9,42.0,Morgan Burnett,1/13/1989,27.0,6-1,210.0,Georgia Tech,SS,15,15.0,6.0,5.0,Packers,2016
-10,97.0,Kenny Clark,10/4/1995,21.0,6-3,314.0,UCLA,NT,16,2.0,0.0,2.0,Packers,2016
-11,21.0,Ha Ha Clinton-Dix,12/21/1992,24.0,6-1,211.0,Alabama,FS,16,16.0,2.0,9.0,Packers,2016
-12,18.0,Randall Cobb,8/22/1990,26.0,5-10,192.0,Kentucky,WR,13,10.0,5.0,6.0,Packers,2016
-13,89.0,Jared Cook,4/7/1987,29.0,6-5,246.0,South Carolina,TE,10,5.0,7.0,4.0,Packers,2016
-14,2.0,Mason Crosby,9/3/1984,32.0,6-1,207.0,Colorado,K,16,0.0,9.0,3.0,Packers,2016
-15,76.0,Mike Daniels,5/5/1989,27.0,6-0,310.0,Iowa,RDE,16,16.0,4.0,7.0,Packers,2016
-16,30.0,Knile Davis,10/5/1991,25.0,5-11,227.0,Arkansas,RB,2,0.0,3.0,0.0,Packers,2016
-17,11.0,Trevor Davis,7/4/1993,23.0,6-1,188.0,California,WR,11,0.0,0.0,0.0,Packers,2016
-18,20.0,Makinton Dorleant,10/6/1992,24.0,5-11,182.0,Northern Iowa,DB,4,0.0,0.0,0.0,Packers,2016
-19,91.0,Jayrone Elliott,11/11/1991,25.0,6-3,240.0,Toledo,LB,11,0.0,2.0,1.0,Packers,2016
-20,25.0,Marwin Evans,4/10/1993,23.0,5-11,211.0,Utah St.,DB,16,0.0,0.0,1.0,Packers,2016
-21,51.0,Kyler Fackrell,11/25/1991,25.0,6-5,245.0,Utah St.,LB,13,0.0,0.0,1.0,Packers,2016
-22,61.0,Brett Goode,11/2/1984,32.0,6-1,255.0,Arkansas,LB,16,0.0,8.0,2.0,Packers,2016
-23,39.0,Demetri Goodson,6/11/1989,27.0,5-11,197.0,Baylor,DB,6,3.0,2.0,1.0,Packers,2016
-24,98.0,Letroy Guion,6/21/1987,29.0,6-4,295.0,Florida St.,NT,15,15.0,8.0,6.0,Packers,2016
-25,36.0,Ladarius Gunter,5/13/1992,24.0,6-2,200.0,Miami (FL),RCB,16,15.0,1.0,4.0,Packers,2016
-26,28.0,Josh Hawkins,1/23/1993,23.0,5-10,190.0,East Carolina,DB,11,0.0,0.0,1.0,Packers,2016
-27,7.0,Brett Hundley,6/15/1993,23.0,6-3,226.0,UCLA,QB,4,0.0,0.0,0.0,Packers,2016
-28,33.0,Micah Hyde,12/31/1990,26.0,6-0,197.0,Iowa,DB,16,11.0,3.0,5.0,Packers,2016
-29,34.0,Don Jackson,9/7/1993,23.0,5-10,208.0,"Iowa Western,Nevada",RB,3,1.0,0.0,0.0,Packers,2016
-30,83.0,Jeff Janis,6/9/1991,25.0,6-3,219.0,Saginaw Valley St.,WR,16,1.0,2.0,1.0,Packers,2016
-31,95.0,Datone Jones,7/24/1990,26.0,6-4,285.0,UCLA,DE,15,4.0,3.0,3.0,Packers,2016
-32,40.0,Joe Kerridge,9/17/1992,24.0,6-0,246.0,Michigan,RB,8,0.0,0.0,0.0,Packers,2016
-33,27.0,Eddie Lacy,6/2/1990,26.0,5-11,250.0,Alabama,RB,5,5.0,3.0,3.0,Packers,2016
-34,70.0,T.J. Lang,9/20/1987,29.0,6-4,315.0,Eastern Michigan,RG,13,13.0,7.0,11.0,Packers,2016
-35,63.0,Corey Linsley,7/27/1991,25.0,6-3,301.0,Ohio St.,C,9,9.0,2.0,6.0,Packers,2016
-36,94.0,Dean Lowry,6/9/1994,22.0,6-6,296.0,Northwestern,DE,15,0.0,0.0,1.0,Packers,2016
-37,50.0,Blake Martinez,1/9/1994,22.0,6-2,237.0,Stanford,RILB,13,9.0,0.0,4.0,Packers,2016
-38,52.0,Clay Matthews,5/14/1986,30.0,6-3,255.0,USC,ROLB,12,9.0,7.0,4.0,Packers,2016
-39,32.0,Christine Michael,11/9/1990,26.0,5-10,220.0,Texas A&M,RB,6,0.0,3.0,1.0,Packers,2016
-40,88.0,Ty Montgomery,1/22/1993,23.0,6-0,220.0,Stanford,RB,15,6.0,1.0,7.0,Packers,2016
-41,68.0,Kyle Murphy,12/11/1993,23.0,6-6,305.0,Stanford,T,3,0.0,0.0,0.0,Packers,2016
-42,87.0,Jordy Nelson,5/31/1985,31.0,6-3,217.0,Kansas St.,WR,16,16.0,8.0,12.0,Packers,2016
-43,64.0,Mike Pennel,5/9/1991,25.0,6-4,330.0,"Arizona St.,Colorado State-Pueblo",DT,8,0.0,2.0,1.0,Packers,2016
-44,56.0,Julius Peppers,1/18/1980,36.0,6-7,295.0,North Carolina,LOLB,16,11.0,14.0,5.0,Packers,2016
-45,80.0,Justin Perillo,1/5/1991,25.0,6-4,250.0,Maine,TE,9,1.0,2.0,0.0,Packers,2016
-46,53.0,Nick Perry,4/12/1990,26.0,6-3,265.0,USC,ROLB,14,12.0,4.0,6.0,Packers,2016
-47,96.0,Brian Price,6/24/1994,22.0,6-3,322.0,"City College of San Francisco,Texas-San Antonio",DT,1,0.0,0.0,0.0,Packers,2016
-48,23.0,Damarious Randall,8/29/1992,24.0,5-11,196.0,"Butler (KS),Arizona St.",LCB,10,9.0,1.0,3.0,Packers,2016
-49,99.0,Christian Ringo,3/10/1992,24.0,6-1,300.0,Louisiana,DE,8,0.0,0.0,1.0,Packers,2016
-50,22.0,Aaron Ripkowski,12/20/1992,24.0,6-1,246.0,Oklahoma,RB,16,8.0,1.0,2.0,Packers,2016
-51,12.0,Aaron Rodgers,12/2/1983,33.0,6-2,223.0,"Butte JC (CA),California",QB,16,16.0,11.0,18.0,Packers,2016
-52,82.0,Richard Rodgers,1/22/1992,24.0,6-4,257.0,California,TE,16,6.0,2.0,3.0,Packers,2016
-53,24.0,Quinten Rollins,7/15/1992,24.0,5-11,195.0,Miami (OH),DB,13,10.0,1.0,3.0,Packers,2016
-54,47.0,Jake Ryan,2/27/1992,24.0,6-2,240.0,Michigan,LILB,14,10.0,1.0,5.0,Packers,2016
-55,10.0,Jake Schum,1/21/1989,27.0,5-10,210.0,Buffalo,P,16,0.0,1.0,2.0,Packers,2016
-56,37.0,Sam Shields,12/8/1987,29.0,5-11,178.0,Miami (FL),DB,1,1.0,6.0,0.0,Packers,2016
-57,78.0,Jason Spriggs,5/17/1994,22.0,6-6,301.0,Indiana,T,16,2.0,0.0,3.0,Packers,2016
-58,44.0,James Starks,2/25/1986,30.0,6-1,203.0,Buffalo,RB,9,4.0,6.0,2.0,Packers,2016
-59,65.0,Lane Taylor,11/22/1989,27.0,6-3,324.0,Oklahoma St.,LG,16,16.0,3.0,10.0,Packers,2016
-60,48.0,Joe Thomas,5/6/1991,25.0,6-1,233.0,South Carolina St.,LILB,16,7.0,1.0,4.0,Packers,2016
-61,73.0,J.C. Tretter,2/12/1991,25.0,6-4,307.0,Cornell,C,7,7.0,2.0,4.0,Packers,2016
-62,58.0,Jordan Tripp,4/3/1991,25.0,6-3,234.0,Montana,LB,2,0.0,2.0,0.0,Packers,2016
-63,26.0,Herb Waters,11/10/1992,24.0,6-2,194.0,Miami (FL),WR,0,0.0,0.0,0.0,Packers,2016
-64,35.0,Jermaine Whitehead,3/12/1993,23.0,5-11,195.0,Auburn,DB,2,0.0,0.0,0.0,Packers,2016
-65,,Team Total,,25.6,6-1.7,243.3,,,16,,2.7,,Packers,2016
+No.,Player,BirthDate,Age,Height,Weight,College/University,Position,Games_Played_in_Season,Games_Started_in_Season,NFL_Years,Player_Value,Team,Year
+84.0,Jared Abbrederis,12/17/1990,26.0,6-1,195.0,Wisconsin,WR,5,0.0,1.0,0.0,Packers,2016
+17.0,Davante Adams,12/24/1992,24.0,6-1,215.0,Fresno St.,WR,16,15.0,2.0,10.0,Packers,2016
+81.0,Geronimo Allison,1/18/1994,22.0,6-3,202.0,Illinois,WR,10,2.0,0.0,2.0,Packers,2016
+69.0,David Bakhtiari,9/30/1991,25.0,6-4,310.0,Colorado,LT,16,16.0,3.0,16.0,Packers,2016
+32.0,Chris Banjo,2/26/1990,26.0,5-10,207.0,SMU,DB,2,0.0,3.0,0.0,Packers,2016
+67.0,Don Barclay,4/18/1989,27.0,6-4,305.0,West Virginia,T,16,1.0,4.0,2.0,Packers,2016
+54.0,Carl Bradford,8/15/1992,24.0,6-1,250.0,Arizona St.,LB,4,0.0,0.0,0.0,Packers,2016
+29.0,Kentrell Brice,8/11/1994,22.0,5-11,200.0,Louisiana Tech,DB,16,1.0,0.0,1.0,Packers,2016
+75.0,Bryan Bulaga,3/21/1989,27.0,6-5,314.0,Iowa,RT,16,16.0,6.0,10.0,Packers,2016
+42.0,Morgan Burnett,1/13/1989,27.0,6-1,210.0,Georgia Tech,SS,15,15.0,6.0,5.0,Packers,2016
+97.0,Kenny Clark,10/4/1995,21.0,6-3,314.0,UCLA,NT,16,2.0,0.0,2.0,Packers,2016
+21.0,Ha Ha Clinton-Dix,12/21/1992,24.0,6-1,211.0,Alabama,FS,16,16.0,2.0,9.0,Packers,2016
+18.0,Randall Cobb,8/22/1990,26.0,5-10,192.0,Kentucky,WR,13,10.0,5.0,6.0,Packers,2016
+89.0,Jared Cook,4/7/1987,29.0,6-5,246.0,South Carolina,TE,10,5.0,7.0,4.0,Packers,2016
+2.0,Mason Crosby,9/3/1984,32.0,6-1,207.0,Colorado,K,16,0.0,9.0,3.0,Packers,2016
+76.0,Mike Daniels,5/5/1989,27.0,6-0,310.0,Iowa,RDE,16,16.0,4.0,7.0,Packers,2016
+30.0,Knile Davis,10/5/1991,25.0,5-11,227.0,Arkansas,RB,2,0.0,3.0,0.0,Packers,2016
+11.0,Trevor Davis,7/4/1993,23.0,6-1,188.0,California,WR,11,0.0,0.0,0.0,Packers,2016
+20.0,Makinton Dorleant,10/6/1992,24.0,5-11,182.0,Northern Iowa,DB,4,0.0,0.0,0.0,Packers,2016
+91.0,Jayrone Elliott,11/11/1991,25.0,6-3,240.0,Toledo,LB,11,0.0,2.0,1.0,Packers,2016
+25.0,Marwin Evans,4/10/1993,23.0,5-11,211.0,Utah St.,DB,16,0.0,0.0,1.0,Packers,2016
+51.0,Kyler Fackrell,11/25/1991,25.0,6-5,245.0,Utah St.,LB,13,0.0,0.0,1.0,Packers,2016
+61.0,Brett Goode,11/2/1984,32.0,6-1,255.0,Arkansas,LB,16,0.0,8.0,2.0,Packers,2016
+39.0,Demetri Goodson,6/11/1989,27.0,5-11,197.0,Baylor,DB,6,3.0,2.0,1.0,Packers,2016
+98.0,Letroy Guion,6/21/1987,29.0,6-4,295.0,Florida St.,NT,15,15.0,8.0,6.0,Packers,2016
+36.0,Ladarius Gunter,5/13/1992,24.0,6-2,200.0,Miami (FL),RCB,16,15.0,1.0,4.0,Packers,2016
+28.0,Josh Hawkins,1/23/1993,23.0,5-10,190.0,East Carolina,DB,11,0.0,0.0,1.0,Packers,2016
+7.0,Brett Hundley,6/15/1993,23.0,6-3,226.0,UCLA,QB,4,0.0,0.0,0.0,Packers,2016
+33.0,Micah Hyde,12/31/1990,26.0,6-0,197.0,Iowa,DB,16,11.0,3.0,5.0,Packers,2016
+34.0,Don Jackson,9/7/1993,23.0,5-10,208.0,"Iowa Western,Nevada",RB,3,1.0,0.0,0.0,Packers,2016
+83.0,Jeff Janis,6/9/1991,25.0,6-3,219.0,Saginaw Valley St.,WR,16,1.0,2.0,1.0,Packers,2016
+95.0,Datone Jones,7/24/1990,26.0,6-4,285.0,UCLA,DE,15,4.0,3.0,3.0,Packers,2016
+40.0,Joe Kerridge,9/17/1992,24.0,6-0,246.0,Michigan,RB,8,0.0,0.0,0.0,Packers,2016
+27.0,Eddie Lacy,6/2/1990,26.0,5-11,250.0,Alabama,RB,5,5.0,3.0,3.0,Packers,2016
+70.0,T.J. Lang,9/20/1987,29.0,6-4,315.0,Eastern Michigan,RG,13,13.0,7.0,11.0,Packers,2016
+63.0,Corey Linsley,7/27/1991,25.0,6-3,301.0,Ohio St.,C,9,9.0,2.0,6.0,Packers,2016
+94.0,Dean Lowry,6/9/1994,22.0,6-6,296.0,Northwestern,DE,15,0.0,0.0,1.0,Packers,2016
+50.0,Blake Martinez,1/9/1994,22.0,6-2,237.0,Stanford,RILB,13,9.0,0.0,4.0,Packers,2016
+52.0,Clay Matthews,5/14/1986,30.0,6-3,255.0,USC,ROLB,12,9.0,7.0,4.0,Packers,2016
+32.0,Christine Michael,11/9/1990,26.0,5-10,220.0,Texas A&M,RB,6,0.0,3.0,1.0,Packers,2016
+88.0,Ty Montgomery,1/22/1993,23.0,6-0,220.0,Stanford,RB,15,6.0,1.0,7.0,Packers,2016
+68.0,Kyle Murphy,12/11/1993,23.0,6-6,305.0,Stanford,T,3,0.0,0.0,0.0,Packers,2016
+87.0,Jordy Nelson,5/31/1985,31.0,6-3,217.0,Kansas St.,WR,16,16.0,8.0,12.0,Packers,2016
+64.0,Mike Pennel,5/9/1991,25.0,6-4,330.0,"Arizona St.,Colorado State-Pueblo",DT,8,0.0,2.0,1.0,Packers,2016
+56.0,Julius Peppers,1/18/1980,36.0,6-7,295.0,North Carolina,LOLB,16,11.0,14.0,5.0,Packers,2016
+80.0,Justin Perillo,1/5/1991,25.0,6-4,250.0,Maine,TE,9,1.0,2.0,0.0,Packers,2016
+53.0,Nick Perry,4/12/1990,26.0,6-3,265.0,USC,ROLB,14,12.0,4.0,6.0,Packers,2016
+96.0,Brian Price,6/24/1994,22.0,6-3,322.0,"City College of San Francisco,Texas-San Antonio",DT,1,0.0,0.0,0.0,Packers,2016
+23.0,Damarious Randall,8/29/1992,24.0,5-11,196.0,"Butler (KS),Arizona St.",LCB,10,9.0,1.0,3.0,Packers,2016
+99.0,Christian Ringo,3/10/1992,24.0,6-1,300.0,Louisiana,DE,8,0.0,0.0,1.0,Packers,2016
+22.0,Aaron Ripkowski,12/20/1992,24.0,6-1,246.0,Oklahoma,RB,16,8.0,1.0,2.0,Packers,2016
+12.0,Aaron Rodgers,12/2/1983,33.0,6-2,223.0,"Butte JC (CA),California",QB,16,16.0,11.0,18.0,Packers,2016
+82.0,Richard Rodgers,1/22/1992,24.0,6-4,257.0,California,TE,16,6.0,2.0,3.0,Packers,2016
+24.0,Quinten Rollins,7/15/1992,24.0,5-11,195.0,Miami (OH),DB,13,10.0,1.0,3.0,Packers,2016
+47.0,Jake Ryan,2/27/1992,24.0,6-2,240.0,Michigan,LILB,14,10.0,1.0,5.0,Packers,2016
+10.0,Jake Schum,1/21/1989,27.0,5-10,210.0,Buffalo,P,16,0.0,1.0,2.0,Packers,2016
+37.0,Sam Shields,12/8/1987,29.0,5-11,178.0,Miami (FL),DB,1,1.0,6.0,0.0,Packers,2016
+78.0,Jason Spriggs,5/17/1994,22.0,6-6,301.0,Indiana,T,16,2.0,0.0,3.0,Packers,2016
+44.0,James Starks,2/25/1986,30.0,6-1,203.0,Buffalo,RB,9,4.0,6.0,2.0,Packers,2016
+65.0,Lane Taylor,11/22/1989,27.0,6-3,324.0,Oklahoma St.,LG,16,16.0,3.0,10.0,Packers,2016
+48.0,Joe Thomas,5/6/1991,25.0,6-1,233.0,South Carolina St.,LILB,16,7.0,1.0,4.0,Packers,2016
+73.0,J.C. Tretter,2/12/1991,25.0,6-4,307.0,Cornell,C,7,7.0,2.0,4.0,Packers,2016
+58.0,Jordan Tripp,4/3/1991,25.0,6-3,234.0,Montana,LB,2,0.0,2.0,0.0,Packers,2016
+26.0,Herb Waters,11/10/1992,24.0,6-2,194.0,Miami (FL),WR,0,0.0,0.0,0.0,Packers,2016
+35.0,Jermaine Whitehead,3/12/1993,23.0,5-11,195.0,Auburn,DB,2,0.0,0.0,0.0,Packers,2016
+,Team Total,,25.6,6-1.7,243.3,,,16,,2.7,,Packers,2016
