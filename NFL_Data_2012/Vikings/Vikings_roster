@@ -1,55 +1,55 @@
-,No.,Player,BirthDate,Age,Height,Weight,College/University,Position,Games_Played_in_Season,Games_Started_in_Season,NFL_Years,Player_Value,Team,Year
-0,69.0,Jared Allen,4/3/1982,30,6-6,270.0,Idaho St.,RDE,16,16.0,8.0,10.0,Vikings,2012
-1,19.0,Devin Aromashodu,5/23/1984,28,6-2,201.0,Auburn,WR,15,0.0,5.0,2.0,Vikings,2012
-2,48.0,Matt Asiata,7/24/1987,25,5-11,229.0,"Snow College (UT),Utah",RB,16,0.0,0.0,0.0,Vikings,2012
-3,99.0,Christian Ballard,1/3/1989,23,6-4,298.0,Iowa,DT,16,0.0,1.0,2.0,Vikings,2012
-4,61.0,Joe Berger,5/25/1982,30,6-5,305.0,Michigan Tech,C,16,0.0,7.0,1.0,Vikings,2012
-5,36.0,Robert Blanton,9/7/1989,23,6-1,208.0,Notre Dame,DB,13,0.0,0.0,1.0,Vikings,2012
-6,54.0,Jasper Brinkley,7/12/1985,27,6-2,275.0,South Carolina,MLB,16,15.0,3.0,7.0,Vikings,2012
-7,27.0,Brandon Burton,7/31/1989,23,6-0,185.0,Utah,DB,4,0.0,1.0,0.0,Vikings,2012
-8,11.0,Stephen Burton,12/11/1989,23,6-2,221.0,"Long Beach CC,West Texas A&M",WR,12,1.0,1.0,0.0,Vikings,2012
-9,89.0,John Carlson,5/12/1984,28,6-5,256.0,Notre Dame,TE,14,6.0,4.0,0.0,Vikings,2012
-10,57.0,Audie Cole,6/1/1989,23,6-4,246.0,North Carolina St.,LB,5,0.0,0.0,0.0,Vikings,2012
-11,20.0,Chris Cook,2/15/1987,25,6-2,200.0,Virginia,RCB,10,10.0,2.0,3.0,Vikings,2012
-12,51.0,Larry Dean,8/7/1988,24,6-0,216.0,Valdosta St.,LB,16,0.0,1.0,1.0,Vikings,2012
-13,40.0,Rhett Ellison,10/3/1988,24,6-5,255.0,USC,FB,16,7.0,0.0,1.0,Vikings,2012
-14,90.0,Fred Evans,11/6/1983,29,6-4,305.0,Texas St.,DT,16,1.0,6.0,2.0,Vikings,2012
-15,42.0,Jerome Felton,7/3/1986,26,6-0,246.0,Furman,FB,16,7.0,4.0,0.0,Vikings,2012
-16,63.0,Brandon Fusco,7/26/1988,24,6-4,306.0,Slippery Rock,RG,16,16.0,1.0,7.0,Vikings,2012
-17,32.0,Toby Gerhart,3/28/1987,25,6-0,234.0,Stanford,RB,16,0.0,2.0,3.0,Vikings,2012
-18,52.0,Chad Greenway,1/12/1983,29,6-3,237.0,Iowa,LLB,16,16.0,5.0,13.0,Vikings,2012
-19,97.0,Everson Griffen,12/22/1987,25,6-3,273.0,USC,DE,16,1.0,2.0,4.0,Vikings,2012
-20,98.0,Letroy Guion,6/21/1987,25,6-4,295.0,Florida St.,LDT,15,15.0,4.0,6.0,Vikings,2012
-21,12.0,Percy Harvin,5/28/1988,24,5-11,200.0,Florida,WR,9,8.0,3.0,9.0,Vikings,2012
-22,50.0,Erin Henderson,7/1/1986,26,6-3,242.0,Maryland,RLB,14,10.0,4.0,5.0,Vikings,2012
-23,24.0,A.J. Jefferson,4/4/1988,24,6-0,190.0,Fresno St.,RCB,15,7.0,2.0,3.0,Vikings,2012
-24,84.0,Michael Jenkins,6/18/1982,30,6-4,214.0,Ohio St.,WR,16,8.0,8.0,5.0,Vikings,2012
-25,74.0,Charlie Johnson,5/2/1984,28,6-4,305.0,Oklahoma St.,LG,16,16.0,6.0,7.0,Vikings,2012
-26,92.0,George Johnson,12/11/1987,25,6-4,265.0,Rutgers,DE,2,0.0,1.0,0.0,Vikings,2012
-27,75.0,Matt Kalil,7/6/1989,23,6-7,315.0,USC,LT,16,16.0,0.0,9.0,Vikings,2012
-28,5.0,Chris Kluwe,12/24/1981,31,6-4,210.0,UCLA,P,16,0.0,7.0,2.0,Vikings,2012
-29,71.0,Phil Loadholt,1/21/1986,26,6-8,343.0,Oklahoma,RT,16,16.0,3.0,7.0,Vikings,2012
-30,46.0,Cullen Loeffler,1/27/1981,31,6-5,247.0,Texas,LS,16,0.0,8.0,2.0,Vikings,2012
-31,58.0,Tyrone McKenzie,12/11/1985,27,6-2,244.0,South Florida,LB,16,0.0,2.0,1.0,Vikings,2012
-32,55.0,Marvin Mitchell,10/21/1984,28,6-3,249.0,Tennessee,LB,11,1.0,5.0,1.0,Vikings,2012
-33,28.0,Adrian Peterson,3/21/1985,27,6-1,220.0,Oklahoma,RB,16,16.0,5.0,19.0,Vikings,2012
-34,7.0,Christian Ponder,2/25/1988,24,6-2,222.0,Florida St.,QB,16,16.0,1.0,11.0,Vikings,2012
-35,41.0,Mistral Raymond,9/7/1987,25,6-1,191.0,South Florida,DB,10,3.0,1.0,1.0,Vikings,2012
-36,91.0,D'Aundre Reed,1/1/1988,24,6-4,261.0,Arizona,DE,6,0.0,0.0,0.0,Vikings,2012
-37,83.0,Allen Reisner,9/29/1988,24,6-3,255.0,Iowa,TE,4,0.0,1.0,0.0,Vikings,2012
-38,21.0,Josh Robinson,1/8/1991,21,5-10,200.0,Central Florida,DB,16,6.0,0.0,3.0,Vikings,2012
-39,96.0,Brian Robison,4/27/1983,29,6-3,259.0,Texas,LDE,15,15.0,5.0,7.0,Vikings,2012
-40,82.0,Kyle Rudolph,11/9/1989,23,6-6,265.0,Notre Dame,TE,16,16.0,1.0,6.0,Vikings,2012
-41,33.0,Jamarca Sanford,8/27/1985,27,5-10,200.0,Mississippi,SS,16,13.0,3.0,4.0,Vikings,2012
-42,76.0,Geoff Schwartz,7/11/1986,26,6-6,332.0,Oregon,G,13,0.0,3.0,1.0,Vikings,2012
-43,34.0,Andrew Sendejo,9/9/1987,25,6-1,210.0,Rice,DB,13,0.0,2.0,1.0,Vikings,2012
-44,35.0,Marcus Sherels,9/30/1987,25,5-10,175.0,Minnesota,DB,16,0.0,2.0,2.0,Vikings,2012
-45,81.0,Jerome Simpson,2/4/1986,26,6-1,193.0,Coastal Carolina,WR,12,10.0,4.0,3.0,Vikings,2012
-46,22.0,Harrison Smith,2/2/1989,23,6-2,211.0,Notre Dame,FS,16,16.0,0.0,6.0,Vikings,2012
-47,65.0,John Sullivan,8/8/1985,27,6-4,312.0,Notre Dame,C,16,16.0,4.0,7.0,Vikings,2012
-48,3.0,Blair Walsh,1/8/1990,22,5-10,175.0,Georgia,K,16,0.0,0.0,6.0,Vikings,2012
-49,14.0,Joe Webb,11/14/1986,26,6-4,231.0,Ala-Birmingham,QB,1,0.0,2.0,0.0,Vikings,2012
-50,93.0,Kevin Williams,8/16/1980,32,6-5,311.0,Oklahoma St.,RDT,16,16.0,9.0,7.0,Vikings,2012
-51,26.0,Antoine Winfield,6/24/1977,35,5-9,180.0,Ohio St.,LCB,16,15.0,13.0,5.0,Vikings,2012
-52,17.0,Jarius Wright,11/25/1989,23,5-10,190.0,Arkansas,WR,7,1.0,0.0,4.0,Vikings,2012
-53,,Team Total,,26,6-2.4,243.0,,,16,,3.1,,Vikings,2012
+No.,Player,BirthDate,Age,Height,Weight,College/University,Position,Games_Played_in_Season,Games_Started_in_Season,NFL_Years,Player_Value,Team,Year
+69.0,Jared Allen,4/3/1982,30,6-6,270.0,Idaho St.,RDE,16,16.0,8.0,10.0,Vikings,2012
+19.0,Devin Aromashodu,5/23/1984,28,6-2,201.0,Auburn,WR,15,0.0,5.0,2.0,Vikings,2012
+48.0,Matt Asiata,7/24/1987,25,5-11,229.0,"Snow College (UT),Utah",RB,16,0.0,0.0,0.0,Vikings,2012
+99.0,Christian Ballard,1/3/1989,23,6-4,298.0,Iowa,DT,16,0.0,1.0,2.0,Vikings,2012
+61.0,Joe Berger,5/25/1982,30,6-5,305.0,Michigan Tech,C,16,0.0,7.0,1.0,Vikings,2012
+36.0,Robert Blanton,9/7/1989,23,6-1,208.0,Notre Dame,DB,13,0.0,0.0,1.0,Vikings,2012
+54.0,Jasper Brinkley,7/12/1985,27,6-2,275.0,South Carolina,MLB,16,15.0,3.0,7.0,Vikings,2012
+27.0,Brandon Burton,7/31/1989,23,6-0,185.0,Utah,DB,4,0.0,1.0,0.0,Vikings,2012
+11.0,Stephen Burton,12/11/1989,23,6-2,221.0,"Long Beach CC,West Texas A&M",WR,12,1.0,1.0,0.0,Vikings,2012
+89.0,John Carlson,5/12/1984,28,6-5,256.0,Notre Dame,TE,14,6.0,4.0,0.0,Vikings,2012
+57.0,Audie Cole,6/1/1989,23,6-4,246.0,North Carolina St.,LB,5,0.0,0.0,0.0,Vikings,2012
+20.0,Chris Cook,2/15/1987,25,6-2,200.0,Virginia,RCB,10,10.0,2.0,3.0,Vikings,2012
+51.0,Larry Dean,8/7/1988,24,6-0,216.0,Valdosta St.,LB,16,0.0,1.0,1.0,Vikings,2012
+40.0,Rhett Ellison,10/3/1988,24,6-5,255.0,USC,FB,16,7.0,0.0,1.0,Vikings,2012
+90.0,Fred Evans,11/6/1983,29,6-4,305.0,Texas St.,DT,16,1.0,6.0,2.0,Vikings,2012
+42.0,Jerome Felton,7/3/1986,26,6-0,246.0,Furman,FB,16,7.0,4.0,0.0,Vikings,2012
+63.0,Brandon Fusco,7/26/1988,24,6-4,306.0,Slippery Rock,RG,16,16.0,1.0,7.0,Vikings,2012
+32.0,Toby Gerhart,3/28/1987,25,6-0,234.0,Stanford,RB,16,0.0,2.0,3.0,Vikings,2012
+52.0,Chad Greenway,1/12/1983,29,6-3,237.0,Iowa,LLB,16,16.0,5.0,13.0,Vikings,2012
+97.0,Everson Griffen,12/22/1987,25,6-3,273.0,USC,DE,16,1.0,2.0,4.0,Vikings,2012
+98.0,Letroy Guion,6/21/1987,25,6-4,295.0,Florida St.,LDT,15,15.0,4.0,6.0,Vikings,2012
+12.0,Percy Harvin,5/28/1988,24,5-11,200.0,Florida,WR,9,8.0,3.0,9.0,Vikings,2012
+50.0,Erin Henderson,7/1/1986,26,6-3,242.0,Maryland,RLB,14,10.0,4.0,5.0,Vikings,2012
+24.0,A.J. Jefferson,4/4/1988,24,6-0,190.0,Fresno St.,RCB,15,7.0,2.0,3.0,Vikings,2012
+84.0,Michael Jenkins,6/18/1982,30,6-4,214.0,Ohio St.,WR,16,8.0,8.0,5.0,Vikings,2012
+74.0,Charlie Johnson,5/2/1984,28,6-4,305.0,Oklahoma St.,LG,16,16.0,6.0,7.0,Vikings,2012
+92.0,George Johnson,12/11/1987,25,6-4,265.0,Rutgers,DE,2,0.0,1.0,0.0,Vikings,2012
+75.0,Matt Kalil,7/6/1989,23,6-7,315.0,USC,LT,16,16.0,0.0,9.0,Vikings,2012
+5.0,Chris Kluwe,12/24/1981,31,6-4,210.0,UCLA,P,16,0.0,7.0,2.0,Vikings,2012
+71.0,Phil Loadholt,1/21/1986,26,6-8,343.0,Oklahoma,RT,16,16.0,3.0,7.0,Vikings,2012
+46.0,Cullen Loeffler,1/27/1981,31,6-5,247.0,Texas,LS,16,0.0,8.0,2.0,Vikings,2012
+58.0,Tyrone McKenzie,12/11/1985,27,6-2,244.0,South Florida,LB,16,0.0,2.0,1.0,Vikings,2012
+55.0,Marvin Mitchell,10/21/1984,28,6-3,249.0,Tennessee,LB,11,1.0,5.0,1.0,Vikings,2012
+28.0,Adrian Peterson,3/21/1985,27,6-1,220.0,Oklahoma,RB,16,16.0,5.0,19.0,Vikings,2012
+7.0,Christian Ponder,2/25/1988,24,6-2,222.0,Florida St.,QB,16,16.0,1.0,11.0,Vikings,2012
+41.0,Mistral Raymond,9/7/1987,25,6-1,191.0,South Florida,DB,10,3.0,1.0,1.0,Vikings,2012
+91.0,D'Aundre Reed,1/1/1988,24,6-4,261.0,Arizona,DE,6,0.0,0.0,0.0,Vikings,2012
+83.0,Allen Reisner,9/29/1988,24,6-3,255.0,Iowa,TE,4,0.0,1.0,0.0,Vikings,2012
+21.0,Josh Robinson,1/8/1991,21,5-10,200.0,Central Florida,DB,16,6.0,0.0,3.0,Vikings,2012
+96.0,Brian Robison,4/27/1983,29,6-3,259.0,Texas,LDE,15,15.0,5.0,7.0,Vikings,2012
+82.0,Kyle Rudolph,11/9/1989,23,6-6,265.0,Notre Dame,TE,16,16.0,1.0,6.0,Vikings,2012
+33.0,Jamarca Sanford,8/27/1985,27,5-10,200.0,Mississippi,SS,16,13.0,3.0,4.0,Vikings,2012
+76.0,Geoff Schwartz,7/11/1986,26,6-6,332.0,Oregon,G,13,0.0,3.0,1.0,Vikings,2012
+34.0,Andrew Sendejo,9/9/1987,25,6-1,210.0,Rice,DB,13,0.0,2.0,1.0,Vikings,2012
+35.0,Marcus Sherels,9/30/1987,25,5-10,175.0,Minnesota,DB,16,0.0,2.0,2.0,Vikings,2012
+81.0,Jerome Simpson,2/4/1986,26,6-1,193.0,Coastal Carolina,WR,12,10.0,4.0,3.0,Vikings,2012
+22.0,Harrison Smith,2/2/1989,23,6-2,211.0,Notre Dame,FS,16,16.0,0.0,6.0,Vikings,2012
+65.0,John Sullivan,8/8/1985,27,6-4,312.0,Notre Dame,C,16,16.0,4.0,7.0,Vikings,2012
+3.0,Blair Walsh,1/8/1990,22,5-10,175.0,Georgia,K,16,0.0,0.0,6.0,Vikings,2012
+14.0,Joe Webb,11/14/1986,26,6-4,231.0,Ala-Birmingham,QB,1,0.0,2.0,0.0,Vikings,2012
+93.0,Kevin Williams,8/16/1980,32,6-5,311.0,Oklahoma St.,RDT,16,16.0,9.0,7.0,Vikings,2012
+26.0,Antoine Winfield,6/24/1977,35,5-9,180.0,Ohio St.,LCB,16,15.0,13.0,5.0,Vikings,2012
+17.0,Jarius Wright,11/25/1989,23,5-10,190.0,Arkansas,WR,7,1.0,0.0,4.0,Vikings,2012
+,Team Total,,26,6-2.4,243.0,,,16,,3.1,,Vikings,2012

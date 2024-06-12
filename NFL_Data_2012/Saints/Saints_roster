@@ -1,62 +1,62 @@
-,No.,Player,BirthDate,Age,Height,Weight,College/University,Position,Games_Played_in_Season,Games_Started_in_Season,NFL_Years,Player_Value,Team,Year
-0,42.0,Isa Abdul-Quddus,8/3/1989,23.0,6-1,200.0,Fordham,DB,15,3.0,1.0,2.0,Saints,2012
-1,9.0,Drew Brees,1/15/1979,33.0,6-0,209.0,Purdue,QB,16,16.0,11.0,15.0,Saints,2012
-2,71.0,Charles Brown,4/10/1987,25.0,6-5,284.0,USC,T,10,3.0,2.0,3.0,Saints,2012
-3,77.0,Brodrick Bunkley,11/23/1983,29.0,6-2,306.0,Florida St.,LDT,15,15.0,6.0,5.0,Saints,2012
-4,25.0,Rafael Bush,5/12/1987,25.0,5-11,203.0,South Carolina St.,DB,16,0.0,1.0,1.0,Saints,2012
-5,74.0,Jermon Bushrod,8/19/1984,28.0,6-5,318.0,Towson,LT,16,16.0,5.0,11.0,Saints,2012
-6,39.0,Travaris Cadet,2/1/1989,23.0,6-1,210.0,Appalachian St.,RB,13,0.0,0.0,0.0,Saints,2012
-7,17.0,Greg Camarillo,4/18/1982,30.0,6-2,200.0,Stanford,WR,5,0.0,6.0,0.0,Saints,2012
-8,52.0,Jonathan Casillas,6/3/1987,25.0,6-1,225.0,Wisconsin,LB,14,1.0,3.0,2.0,Saints,2012
-9,45.0,Jed Collins,3/3/1986,26.0,6-1,255.0,Washington St.,FB,15,7.0,1.0,1.0,Saints,2012
-10,12.0,Marques Colston,6/5/1983,29.0,6-4,225.0,Hofstra,WR,16,13.0,6.0,9.0,Saints,2012
-11,10.0,Chase Daniel,10/7/1986,26.0,6-0,218.0,Missouri,QB,16,0.0,2.0,0.0,Saints,2012
-12,20.0,A.J. Davis,7/6/1989,23.0,6-0,183.0,Jacksonville St.,DB,1,0.0,0.0,0.0,Saints,2012
-13,60.0,Brian De La Puente,5/13/1985,27.0,6-3,306.0,California,C,16,16.0,1.0,9.0,Saints,2012
-14,47.0,Justin Drescher,1/1/1988,24.0,6-1,230.0,Colorado,LS,16,0.0,2.0,1.0,Saints,2012
-15,98.0,Sedrick Ellis,7/9/1985,27.0,6-1,308.0,USC,RDT,16,16.0,4.0,5.0,Saints,2012
-16,73.0,Jahri Evans,8/22/1983,29.0,6-4,318.0,Bloomsburg,RG,16,16.0,6.0,16.0,Saints,2012
-17,93.0,Junior Galette,3/27/1988,24.0,6-2,257.0,"Temple,Stillman",DE,12,1.0,2.0,2.0,Saints,2012
-18,89.0,Daniel Graham,11/16/1978,34.0,6-3,257.0,Colorado,TE,6,0.0,10.0,0.0,Saints,2012
-19,80.0,Jimmy Graham,11/24/1986,26.0,6-7,265.0,Miami (FL),TE,15,9.0,2.0,8.0,Saints,2012
-20,33.0,Jabari Greer,2/11/1982,30.0,5-11,180.0,Tennessee,LCB,14,13.0,8.0,5.0,Saints,2012
-21,66.0,Ben Grubbs,3/10/1984,28.0,6-3,311.0,Auburn,LG,16,16.0,5.0,9.0,Saints,2012
-22,41.0,Roman Harper,12/11/1982,30.0,6-1,205.0,Alabama,SS,16,16.0,6.0,5.0,Saints,2012
-23,79.0,Bryce Harris,1/16/1989,23.0,6-6,300.0,Fresno St.,T,2,1.0,0.0,1.0,Saints,2012
-24,5.0,Garrett Hartley,5/16/1986,26.0,5-8,204.0,Oklahoma,K,16,0.0,4.0,3.0,Saints,2012
-25,57.0,David Hawthorne,5/14/1985,27.0,6-0,230.0,TCU,LLB,11,10.0,4.0,3.0,Saints,2012
-26,19.0,Devery Henderson,3/26/1982,30.0,5-11,200.0,LSU,WR,15,9.0,8.0,3.0,Saints,2012
-27,65.0,Ricky Henry,7/27/1987,25.0,6-2,310.0,Nebraska,G,1,0.0,1.0,0.0,Saints,2012
-28,54.0,Will Herring,8/28/1983,29.0,6-3,215.0,Auburn,LB,16,1.0,5.0,1.0,Saints,2012
-29,76.0,Akiem Hicks,11/16/1989,23.0,6-4,335.0,"Sacramento CC,Regina",DE,14,0.0,0.0,1.0,Saints,2012
-30,81.0,Michael Higgins,12/7/1987,25.0,6-5,242.0,Nebraska-Omaha,TE,2,1.0,1.0,0.0,Saints,2012
-31,53.0,Ramon Humber,8/10/1987,25.0,5-11,232.0,North Dakota St.,LB,13,0.0,3.0,1.0,Saints,2012
-32,28.0,Mark Ingram,12/21/1989,23.0,5-9,215.0,Alabama,RB,16,5.0,1.0,4.0,Saints,2012
-33,29.0,Chris Ivory,3/22/1988,24.0,6-0,223.0,"Washington St.,Tiffin",RB,6,2.0,2.0,1.0,Saints,2012
-34,27.0,Malcolm Jenkins,12/20/1987,25.0,6-0,204.0,Ohio St.,FS,13,13.0,3.0,5.0,Saints,2012
-35,96.0,Tom Johnson,8/30/1984,28.0,6-3,285.0,"Mississippi Gulf Coast CC,Southern Miss",DT,15,0.0,1.0,1.0,Saints,2012
-36,94.0,Cameron Jordan,7/10/1989,23.0,6-4,287.0,California,LDE,16,16.0,1.0,7.0,Saints,2012
-37,50.0,Curtis Lofton,6/2/1986,26.0,6-2,238.0,Oklahoma,MLB,16,16.0,4.0,6.0,Saints,2012
-38,44.0,Elbert Mack,7/14/1986,26.0,5-10,175.0,"Butler (KS),Troy",WR,7,2.0,4.0,1.0,Saints,2012
-39,90.0,Turk McBride,5/30/1985,27.0,6-4,285.0,Tennessee,DT,7,0.0,5.0,1.0,Saints,2012
-40,16.0,Lance Moore,8/31/1983,29.0,5-9,187.0,Toledo,WR,15,7.0,6.0,8.0,Saints,2012
-41,13.0,Joe Morgan,3/28/1988,24.0,6-1,184.0,Illinois,WR,14,5.0,0.0,3.0,Saints,2012
-42,6.0,Thomas Morstead,3/8/1986,26.0,6-4,225.0,SMU,P,16,0.0,3.0,4.0,Saints,2012
-43,31.0,Jerome Murphy,1/13/1987,25.0,6-1,191.0,South Florida,DB,2,0.0,2.0,0.0,Saints,2012
-44,37.0,Jerico Nelson,9/19/1989,23.0,5-10,216.0,Arkansas,DB,3,0.0,0.0,0.0,Saints,2012
-45,69.0,Eric Olsen,6/16/1988,24.0,6-3,301.0,Notre Dame,G,16,4.0,2.0,3.0,Saints,2012
-46,32.0,Johnny Patrick,8/17/1988,24.0,5-11,185.0,Louisville,DB,15,1.0,1.0,1.0,Saints,2012
-47,21.0,Patrick Robinson,9/7/1987,25.0,5-11,191.0,Florida St.,RCB,16,16.0,2.0,6.0,Saints,2012
-48,68.0,William Robinson,12/20/1984,28.0,6-5,297.0,San Diego St.,T,6,1.0,3.0,1.0,Saints,2012
-49,15.0,Courtney Roby,1/10/1983,29.0,6-0,189.0,Indiana,WR,13,0.0,7.0,0.0,Saints,2012
-50,55.0,Barrett Ruud,5/20/1983,29.0,6-2,241.0,Nebraska,LB,3,0.0,7.0,0.0,Saints,2012
-51,58.0,Scott Shanle,11/23/1979,33.0,6-2,245.0,Nebraska,LLB,7,6.0,9.0,2.0,Saints,2012
-52,91.0,Will Smith,7/4/1981,31.0,6-3,282.0,Ohio St.,RDE,16,16.0,8.0,6.0,Saints,2012
-53,43.0,Darren Sproles,6/20/1983,29.0,5-6,190.0,Kansas St.,RB,13,6.0,7.0,7.0,Saints,2012
-54,64.0,Zach Strief,9/22/1983,29.0,6-7,320.0,Northwestern,RT,12,12.0,6.0,6.0,Saints,2012
-55,85.0,David Thomas,7/5/1983,29.0,6-3,248.0,Texas,TE,15,7.0,6.0,1.0,Saints,2012
-56,23.0,Pierre Thomas,12/18/1984,28.0,5-11,210.0,Illinois,RB,15,4.0,5.0,6.0,Saints,2012
-57,51.0,Jonathan Vilma,4/16/1982,30.0,6-1,230.0,Miami (FL),RLB,11,10.0,8.0,4.0,Saints,2012
-58,24.0,Corey White,5/9/1990,22.0,5-11,206.0,Samford,DB,10,4.0,0.0,2.0,Saints,2012
-59,95.0,Martez Wilson,9/21/1988,24.0,6-3,250.0,Illinois,LB,16,0.0,1.0,1.0,Saints,2012
-60,,Team Total,,26.7,6-1.5,240.7,,,16,,3.7,,Saints,2012
+No.,Player,BirthDate,Age,Height,Weight,College/University,Position,Games_Played_in_Season,Games_Started_in_Season,NFL_Years,Player_Value,Team,Year
+42.0,Isa Abdul-Quddus,8/3/1989,23.0,6-1,200.0,Fordham,DB,15,3.0,1.0,2.0,Saints,2012
+9.0,Drew Brees,1/15/1979,33.0,6-0,209.0,Purdue,QB,16,16.0,11.0,15.0,Saints,2012
+71.0,Charles Brown,4/10/1987,25.0,6-5,284.0,USC,T,10,3.0,2.0,3.0,Saints,2012
+77.0,Brodrick Bunkley,11/23/1983,29.0,6-2,306.0,Florida St.,LDT,15,15.0,6.0,5.0,Saints,2012
+25.0,Rafael Bush,5/12/1987,25.0,5-11,203.0,South Carolina St.,DB,16,0.0,1.0,1.0,Saints,2012
+74.0,Jermon Bushrod,8/19/1984,28.0,6-5,318.0,Towson,LT,16,16.0,5.0,11.0,Saints,2012
+39.0,Travaris Cadet,2/1/1989,23.0,6-1,210.0,Appalachian St.,RB,13,0.0,0.0,0.0,Saints,2012
+17.0,Greg Camarillo,4/18/1982,30.0,6-2,200.0,Stanford,WR,5,0.0,6.0,0.0,Saints,2012
+52.0,Jonathan Casillas,6/3/1987,25.0,6-1,225.0,Wisconsin,LB,14,1.0,3.0,2.0,Saints,2012
+45.0,Jed Collins,3/3/1986,26.0,6-1,255.0,Washington St.,FB,15,7.0,1.0,1.0,Saints,2012
+12.0,Marques Colston,6/5/1983,29.0,6-4,225.0,Hofstra,WR,16,13.0,6.0,9.0,Saints,2012
+10.0,Chase Daniel,10/7/1986,26.0,6-0,218.0,Missouri,QB,16,0.0,2.0,0.0,Saints,2012
+20.0,A.J. Davis,7/6/1989,23.0,6-0,183.0,Jacksonville St.,DB,1,0.0,0.0,0.0,Saints,2012
+60.0,Brian De La Puente,5/13/1985,27.0,6-3,306.0,California,C,16,16.0,1.0,9.0,Saints,2012
+47.0,Justin Drescher,1/1/1988,24.0,6-1,230.0,Colorado,LS,16,0.0,2.0,1.0,Saints,2012
+98.0,Sedrick Ellis,7/9/1985,27.0,6-1,308.0,USC,RDT,16,16.0,4.0,5.0,Saints,2012
+73.0,Jahri Evans,8/22/1983,29.0,6-4,318.0,Bloomsburg,RG,16,16.0,6.0,16.0,Saints,2012
+93.0,Junior Galette,3/27/1988,24.0,6-2,257.0,"Temple,Stillman",DE,12,1.0,2.0,2.0,Saints,2012
+89.0,Daniel Graham,11/16/1978,34.0,6-3,257.0,Colorado,TE,6,0.0,10.0,0.0,Saints,2012
+80.0,Jimmy Graham,11/24/1986,26.0,6-7,265.0,Miami (FL),TE,15,9.0,2.0,8.0,Saints,2012
+33.0,Jabari Greer,2/11/1982,30.0,5-11,180.0,Tennessee,LCB,14,13.0,8.0,5.0,Saints,2012
+66.0,Ben Grubbs,3/10/1984,28.0,6-3,311.0,Auburn,LG,16,16.0,5.0,9.0,Saints,2012
+41.0,Roman Harper,12/11/1982,30.0,6-1,205.0,Alabama,SS,16,16.0,6.0,5.0,Saints,2012
+79.0,Bryce Harris,1/16/1989,23.0,6-6,300.0,Fresno St.,T,2,1.0,0.0,1.0,Saints,2012
+5.0,Garrett Hartley,5/16/1986,26.0,5-8,204.0,Oklahoma,K,16,0.0,4.0,3.0,Saints,2012
+57.0,David Hawthorne,5/14/1985,27.0,6-0,230.0,TCU,LLB,11,10.0,4.0,3.0,Saints,2012
+19.0,Devery Henderson,3/26/1982,30.0,5-11,200.0,LSU,WR,15,9.0,8.0,3.0,Saints,2012
+65.0,Ricky Henry,7/27/1987,25.0,6-2,310.0,Nebraska,G,1,0.0,1.0,0.0,Saints,2012
+54.0,Will Herring,8/28/1983,29.0,6-3,215.0,Auburn,LB,16,1.0,5.0,1.0,Saints,2012
+76.0,Akiem Hicks,11/16/1989,23.0,6-4,335.0,"Sacramento CC,Regina",DE,14,0.0,0.0,1.0,Saints,2012
+81.0,Michael Higgins,12/7/1987,25.0,6-5,242.0,Nebraska-Omaha,TE,2,1.0,1.0,0.0,Saints,2012
+53.0,Ramon Humber,8/10/1987,25.0,5-11,232.0,North Dakota St.,LB,13,0.0,3.0,1.0,Saints,2012
+28.0,Mark Ingram,12/21/1989,23.0,5-9,215.0,Alabama,RB,16,5.0,1.0,4.0,Saints,2012
+29.0,Chris Ivory,3/22/1988,24.0,6-0,223.0,"Washington St.,Tiffin",RB,6,2.0,2.0,1.0,Saints,2012
+27.0,Malcolm Jenkins,12/20/1987,25.0,6-0,204.0,Ohio St.,FS,13,13.0,3.0,5.0,Saints,2012
+96.0,Tom Johnson,8/30/1984,28.0,6-3,285.0,"Mississippi Gulf Coast CC,Southern Miss",DT,15,0.0,1.0,1.0,Saints,2012
+94.0,Cameron Jordan,7/10/1989,23.0,6-4,287.0,California,LDE,16,16.0,1.0,7.0,Saints,2012
+50.0,Curtis Lofton,6/2/1986,26.0,6-2,238.0,Oklahoma,MLB,16,16.0,4.0,6.0,Saints,2012
+44.0,Elbert Mack,7/14/1986,26.0,5-10,175.0,"Butler (KS),Troy",WR,7,2.0,4.0,1.0,Saints,2012
+90.0,Turk McBride,5/30/1985,27.0,6-4,285.0,Tennessee,DT,7,0.0,5.0,1.0,Saints,2012
+16.0,Lance Moore,8/31/1983,29.0,5-9,187.0,Toledo,WR,15,7.0,6.0,8.0,Saints,2012
+13.0,Joe Morgan,3/28/1988,24.0,6-1,184.0,Illinois,WR,14,5.0,0.0,3.0,Saints,2012
+6.0,Thomas Morstead,3/8/1986,26.0,6-4,225.0,SMU,P,16,0.0,3.0,4.0,Saints,2012
+31.0,Jerome Murphy,1/13/1987,25.0,6-1,191.0,South Florida,DB,2,0.0,2.0,0.0,Saints,2012
+37.0,Jerico Nelson,9/19/1989,23.0,5-10,216.0,Arkansas,DB,3,0.0,0.0,0.0,Saints,2012
+69.0,Eric Olsen,6/16/1988,24.0,6-3,301.0,Notre Dame,G,16,4.0,2.0,3.0,Saints,2012
+32.0,Johnny Patrick,8/17/1988,24.0,5-11,185.0,Louisville,DB,15,1.0,1.0,1.0,Saints,2012
+21.0,Patrick Robinson,9/7/1987,25.0,5-11,191.0,Florida St.,RCB,16,16.0,2.0,6.0,Saints,2012
+68.0,William Robinson,12/20/1984,28.0,6-5,297.0,San Diego St.,T,6,1.0,3.0,1.0,Saints,2012
+15.0,Courtney Roby,1/10/1983,29.0,6-0,189.0,Indiana,WR,13,0.0,7.0,0.0,Saints,2012
+55.0,Barrett Ruud,5/20/1983,29.0,6-2,241.0,Nebraska,LB,3,0.0,7.0,0.0,Saints,2012
+58.0,Scott Shanle,11/23/1979,33.0,6-2,245.0,Nebraska,LLB,7,6.0,9.0,2.0,Saints,2012
+91.0,Will Smith,7/4/1981,31.0,6-3,282.0,Ohio St.,RDE,16,16.0,8.0,6.0,Saints,2012
+43.0,Darren Sproles,6/20/1983,29.0,5-6,190.0,Kansas St.,RB,13,6.0,7.0,7.0,Saints,2012
+64.0,Zach Strief,9/22/1983,29.0,6-7,320.0,Northwestern,RT,12,12.0,6.0,6.0,Saints,2012
+85.0,David Thomas,7/5/1983,29.0,6-3,248.0,Texas,TE,15,7.0,6.0,1.0,Saints,2012
+23.0,Pierre Thomas,12/18/1984,28.0,5-11,210.0,Illinois,RB,15,4.0,5.0,6.0,Saints,2012
+51.0,Jonathan Vilma,4/16/1982,30.0,6-1,230.0,Miami (FL),RLB,11,10.0,8.0,4.0,Saints,2012
+24.0,Corey White,5/9/1990,22.0,5-11,206.0,Samford,DB,10,4.0,0.0,2.0,Saints,2012
+95.0,Martez Wilson,9/21/1988,24.0,6-3,250.0,Illinois,LB,16,0.0,1.0,1.0,Saints,2012
+,Team Total,,26.7,6-1.5,240.7,,,16,,3.7,,Saints,2012

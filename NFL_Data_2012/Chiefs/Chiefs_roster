@@ -1,65 +1,65 @@
-,No.,Player,BirthDate,Age,Height,Weight,College/University,Position,Games_Played_in_Season,Games_Started_in_Season,NFL_Years,Player_Value,Team,Year
-0,76.0,Branden Albert,11/4/1984,28.0,6-5,314.0,Virginia,LT,13,11.0,4.0,3.0,Chiefs,2012
-1,71.0,Jeff Allen,1/8/1990,22.0,6-4,306.0,Illinois,LG,16,13.0,0.0,4.0,Chiefs,2012
-2,21.0,Javier Arenas,10/28/1987,25.0,5-9,195.0,Alabama,RCB,16,9.0,2.0,4.0,Chiefs,2012
-3,73.0,Jon Asamoah,7/21/1988,24.0,6-4,304.0,Illinois,RG,15,15.0,2.0,4.0,Chiefs,2012
-4,97.0,Allen Bailey,3/25/1989,23.0,6-3,288.0,Miami (FL),DE,10,1.0,1.0,1.0,Chiefs,2012
-5,89.0,Jonathan Baldwin,8/10/1989,23.0,6-4,225.0,Pittsburgh,WR,15,7.0,1.0,2.0,Chiefs,2012
-6,59.0,Jovan Belcher,7/24/1987,25.0,6-2,228.0,Maine,LILB,11,10.0,3.0,4.0,Chiefs,2012
-7,11.0,Josh Bellamy,5/18/1989,23.0,6-0,208.0,Louisville,WR,3,0.0,0.0,0.0,Chiefs,2012
-8,29.0,Eric Berry,12/29/1988,24.0,6-0,212.0,Tennessee,SS,16,16.0,2.0,7.0,Chiefs,2012
-9,80.0,Kevin Boss,1/11/1984,28.0,6-7,255.0,Western Oregon,TE,2,2.0,5.0,0.0,Chiefs,2012
-10,82.0,Dwayne Bowe,9/21/1984,28.0,6-2,221.0,LSU,WR,13,12.0,5.0,5.0,Chiefs,2012
-11,15.0,Steve Breaston,8/20/1983,29.0,6-0,189.0,Michigan,WR,10,4.0,5.0,0.0,Chiefs,2012
-12,30.0,Jalil Brown,10/14/1987,25.0,6-0,202.0,Colorado,DB,15,2.0,1.0,1.0,Chiefs,2012
-13,7.0,Matt Cassel,5/17/1982,30.0,6-4,225.0,USC,QB,9,8.0,7.0,2.0,Chiefs,2012
-14,25.0,Jamaal Charles,12/27/1986,26.0,5-11,199.0,Texas,RB,16,15.0,4.0,9.0,Chiefs,2012
-15,2.0,Dustin Colquitt,5/6/1982,30.0,6-3,210.0,Tennessee,P,16,0.0,7.0,3.0,Chiefs,2012
-16,10.0,Terrance Copper,3/12/1982,30.0,6-0,207.0,East Carolina,WR,15,0.0,8.0,1.0,Chiefs,2012
-17,34.0,Travis Daniels,9/8/1982,30.0,6-1,195.0,LSU,DB,15,0.0,7.0,1.0,Chiefs,2012
-18,49.0,Patrick DiMarco,4/30/1989,23.0,6-1,234.0,South Carolina,RB,5,4.0,0.0,0.0,Chiefs,2012
-19,72.0,Glenn Dorsey,8/1/1985,27.0,6-2,316.0,LSU,DE,4,4.0,4.0,1.0,Chiefs,2012
-20,20.0,Shaun Draughn,12/7/1987,25.0,6-0,205.0,North Carolina,RB,16,0.0,1.0,2.0,Chiefs,2012
-21,45.0,Nate Eachus,6/15/1990,22.0,5-10,212.0,Colgate,RB,11,2.0,0.0,0.0,Chiefs,2012
-22,27.0,Abram Elam,10/15/1981,31.0,6-0,212.0,"Notre Dame,Kent St.",FS,12,7.0,6.0,3.0,Chiefs,2012
-23,24.0,Brandon Flowers,2/18/1986,26.0,5-10,190.0,Virginia Tech,LCB,15,15.0,4.0,6.0,Chiefs,2012
-24,43.0,Thomas Gafford,1/29/1983,29.0,6-2,250.0,Houston,LB,16,0.0,4.0,2.0,Chiefs,2012
-25,32.0,Cyrus Gray,11/18/1989,23.0,5-10,206.0,Texas A&M,RB,10,0.0,0.0,0.0,Chiefs,2012
-26,93.0,Cory Greenwood,6/5/1985,27.0,6-2,235.0,Concordia (QB),LB,16,0.0,2.0,1.0,Chiefs,2012
-27,91.0,Tamba Hali,11/3/1983,29.0,6-3,275.0,Penn St.,ROLB,15,15.0,6.0,7.0,Chiefs,2012
-28,31.0,Tysyn Hartman,8/9/1989,23.0,6-3,206.0,Kansas St.,DB,11,2.0,0.0,1.0,Chiefs,2012
-29,88.0,Junior Hemingway,12/27/1988,24.0,6-1,225.0,Michigan,WR,1,0.0,0.0,0.0,Chiefs,2012
-30,40.0,Peyton Hillis,1/21/1986,26.0,6-1,240.0,Arkansas,RB,13,2.0,4.0,2.0,Chiefs,2012
-31,66.0,Russ Hochstein,10/7/1977,35.0,6-4,300.0,Nebraska,G,11,1.0,10.0,1.0,Chiefs,2012
-32,50.0,Justin Houston,1/21/1989,23.0,6-3,270.0,Georgia,LOLB,16,16.0,1.0,8.0,Chiefs,2012
-33,61.0,Rodney Hudson,7/12/1989,23.0,6-2,315.0,Florida St.,C,3,3.0,1.0,1.0,Chiefs,2012
-34,94.0,Tyson Jackson,6/6/1986,26.0,6-4,295.0,LSU,LDE,15,15.0,3.0,6.0,Chiefs,2012
-35,56.0,Derrick Johnson,11/22/1982,30.0,6-3,242.0,Texas,RILB,16,16.0,7.0,8.0,Chiefs,2012
-36,99.0,Edgar Jones,12/1/1984,28.0,6-3,263.0,SE Missouri St.,DE,16,0.0,5.0,2.0,Chiefs,2012
-37,55.0,Bryan Kehl,6/16/1984,28.0,6-2,234.0,BYU,LB,3,0.0,4.0,0.0,Chiefs,2012
-38,23.0,Kendrick Lewis,6/16/1988,24.0,6-0,205.0,Mississippi,FS,9,9.0,2.0,3.0,Chiefs,2012
-39,65.0,Ryan Lilja,10/15/1981,31.0,6-2,290.0,Kansas St.,C,15,15.0,8.0,4.0,Chiefs,2012
-40,87.0,Steve Maneri,3/20/1988,24.0,6-6,275.0,Temple,TE,13,8.0,1.0,0.0,Chiefs,2012
-41,64.0,Bryan Mattison,5/15/1984,28.0,6-3,272.0,Iowa,DE,4,0.0,2.0,0.0,Chiefs,2012
-42,22.0,Dexter McCluster,8/25/1989,23.0,5-9,165.0,Mississippi,RB,16,6.0,2.0,3.0,Chiefs,2012
-43,81.0,Tony Moeaki,6/8/1987,25.0,6-4,250.0,Iowa,TE,15,14.0,2.0,3.0,Chiefs,2012
-44,84.0,Jamar Newsome,11/5/1987,25.0,6-1,200.0,Central Florida,WR,6,2.0,1.0,0.0,Chiefs,2012
-45,85.0,Jake O'Connell,11/6/1985,27.0,6-4,255.0,Miami (OH),TE,8,0.0,3.0,0.0,Chiefs,2012
-46,75.0,Ropati Pitoitua,4/6/1985,27.0,6-8,290.0,Washington St.,RDE,15,10.0,3.0,4.0,Chiefs,2012
-47,92.0,Dontari Poe,8/18/1990,22.0,6-3,346.0,Memphis,NT,16,16.0,0.0,6.0,Chiefs,2012
-48,95.0,Jerrell Powe,3/15/1987,25.0,6-2,330.0,Mississippi,DT,9,0.0,1.0,1.0,Chiefs,2012
-49,9.0,Brady Quinn,10/27/1984,28.0,6-4,232.0,Notre Dame,QB,10,8.0,5.0,-1.0,Chiefs,2012
-50,35.0,Jacques Reeves,10/8/1982,30.0,5-11,188.0,Purdue,DB,2,1.0,8.0,0.0,Chiefs,2012
-51,26.0,Stanford Routt,7/23/1983,29.0,6-1,195.0,Houston,RCB,7,7.0,7.0,3.0,Chiefs,2012
-52,55.0,Cameron Sheffield,2/12/1988,24.0,6-3,256.0,Troy,LB,1,0.0,1.0,0.0,Chiefs,2012
-53,52.0,Brandon Siler,12/5/1985,27.0,6-2,241.0,Florida,LB,16,4.0,5.0,2.0,Chiefs,2012
-54,90.0,Shaun Smith,8/19/1981,31.0,6-2,325.0,"Butler (KS),South Carolina",DE,8,0.0,8.0,1.0,Chiefs,2012
-55,79.0,Donald Stephenson,9/30/1988,24.0,6-5,312.0,Oklahoma,LT,16,7.0,0.0,3.0,Chiefs,2012
-56,96.0,Andy Studebaker,9/16/1985,27.0,6-3,251.0,Wheaton,LB,16,1.0,4.0,1.0,Chiefs,2012
-57,6.0,Ryan Succop,9/19/1986,26.0,6-2,218.0,South Carolina,K,16,0.0,3.0,3.0,Chiefs,2012
-58,38.0,Neiko Thorpe,2/1/1990,22.0,6-2,210.0,Auburn,DB,9,0.0,0.0,0.0,Chiefs,2012
-59,98.0,Anthony Toribio,3/1/1985,27.0,6-1,305.0,Carson-Newman,DT,11,0.0,3.0,1.0,Chiefs,2012
-60,57.0,Leon Williams,7/30/1983,29.0,6-3,248.0,Miami (FL),LB,4,0.0,6.0,0.0,Chiefs,2012
-61,74.0,Eric Winston,11/17/1983,29.0,6-7,310.0,Miami (FL),RT,16,16.0,6.0,5.0,Chiefs,2012
-62,19.0,Devon Wylie,9/2/1988,24.0,5-9,187.0,Fresno St.,WR,6,1.0,0.0,0.0,Chiefs,2012
-63,,Team Total,,26.3,6-2.0,245.5,,,16,,3.3,,Chiefs,2012
+No.,Player,BirthDate,Age,Height,Weight,College/University,Position,Games_Played_in_Season,Games_Started_in_Season,NFL_Years,Player_Value,Team,Year
+76.0,Branden Albert,11/4/1984,28.0,6-5,314.0,Virginia,LT,13,11.0,4.0,3.0,Chiefs,2012
+71.0,Jeff Allen,1/8/1990,22.0,6-4,306.0,Illinois,LG,16,13.0,0.0,4.0,Chiefs,2012
+21.0,Javier Arenas,10/28/1987,25.0,5-9,195.0,Alabama,RCB,16,9.0,2.0,4.0,Chiefs,2012
+73.0,Jon Asamoah,7/21/1988,24.0,6-4,304.0,Illinois,RG,15,15.0,2.0,4.0,Chiefs,2012
+97.0,Allen Bailey,3/25/1989,23.0,6-3,288.0,Miami (FL),DE,10,1.0,1.0,1.0,Chiefs,2012
+89.0,Jonathan Baldwin,8/10/1989,23.0,6-4,225.0,Pittsburgh,WR,15,7.0,1.0,2.0,Chiefs,2012
+59.0,Jovan Belcher,7/24/1987,25.0,6-2,228.0,Maine,LILB,11,10.0,3.0,4.0,Chiefs,2012
+11.0,Josh Bellamy,5/18/1989,23.0,6-0,208.0,Louisville,WR,3,0.0,0.0,0.0,Chiefs,2012
+29.0,Eric Berry,12/29/1988,24.0,6-0,212.0,Tennessee,SS,16,16.0,2.0,7.0,Chiefs,2012
+80.0,Kevin Boss,1/11/1984,28.0,6-7,255.0,Western Oregon,TE,2,2.0,5.0,0.0,Chiefs,2012
+82.0,Dwayne Bowe,9/21/1984,28.0,6-2,221.0,LSU,WR,13,12.0,5.0,5.0,Chiefs,2012
+15.0,Steve Breaston,8/20/1983,29.0,6-0,189.0,Michigan,WR,10,4.0,5.0,0.0,Chiefs,2012
+30.0,Jalil Brown,10/14/1987,25.0,6-0,202.0,Colorado,DB,15,2.0,1.0,1.0,Chiefs,2012
+7.0,Matt Cassel,5/17/1982,30.0,6-4,225.0,USC,QB,9,8.0,7.0,2.0,Chiefs,2012
+25.0,Jamaal Charles,12/27/1986,26.0,5-11,199.0,Texas,RB,16,15.0,4.0,9.0,Chiefs,2012
+2.0,Dustin Colquitt,5/6/1982,30.0,6-3,210.0,Tennessee,P,16,0.0,7.0,3.0,Chiefs,2012
+10.0,Terrance Copper,3/12/1982,30.0,6-0,207.0,East Carolina,WR,15,0.0,8.0,1.0,Chiefs,2012
+34.0,Travis Daniels,9/8/1982,30.0,6-1,195.0,LSU,DB,15,0.0,7.0,1.0,Chiefs,2012
+49.0,Patrick DiMarco,4/30/1989,23.0,6-1,234.0,South Carolina,RB,5,4.0,0.0,0.0,Chiefs,2012
+72.0,Glenn Dorsey,8/1/1985,27.0,6-2,316.0,LSU,DE,4,4.0,4.0,1.0,Chiefs,2012
+20.0,Shaun Draughn,12/7/1987,25.0,6-0,205.0,North Carolina,RB,16,0.0,1.0,2.0,Chiefs,2012
+45.0,Nate Eachus,6/15/1990,22.0,5-10,212.0,Colgate,RB,11,2.0,0.0,0.0,Chiefs,2012
+27.0,Abram Elam,10/15/1981,31.0,6-0,212.0,"Notre Dame,Kent St.",FS,12,7.0,6.0,3.0,Chiefs,2012
+24.0,Brandon Flowers,2/18/1986,26.0,5-10,190.0,Virginia Tech,LCB,15,15.0,4.0,6.0,Chiefs,2012
+43.0,Thomas Gafford,1/29/1983,29.0,6-2,250.0,Houston,LB,16,0.0,4.0,2.0,Chiefs,2012
+32.0,Cyrus Gray,11/18/1989,23.0,5-10,206.0,Texas A&M,RB,10,0.0,0.0,0.0,Chiefs,2012
+93.0,Cory Greenwood,6/5/1985,27.0,6-2,235.0,Concordia (QB),LB,16,0.0,2.0,1.0,Chiefs,2012
+91.0,Tamba Hali,11/3/1983,29.0,6-3,275.0,Penn St.,ROLB,15,15.0,6.0,7.0,Chiefs,2012
+31.0,Tysyn Hartman,8/9/1989,23.0,6-3,206.0,Kansas St.,DB,11,2.0,0.0,1.0,Chiefs,2012
+88.0,Junior Hemingway,12/27/1988,24.0,6-1,225.0,Michigan,WR,1,0.0,0.0,0.0,Chiefs,2012
+40.0,Peyton Hillis,1/21/1986,26.0,6-1,240.0,Arkansas,RB,13,2.0,4.0,2.0,Chiefs,2012
+66.0,Russ Hochstein,10/7/1977,35.0,6-4,300.0,Nebraska,G,11,1.0,10.0,1.0,Chiefs,2012
+50.0,Justin Houston,1/21/1989,23.0,6-3,270.0,Georgia,LOLB,16,16.0,1.0,8.0,Chiefs,2012
+61.0,Rodney Hudson,7/12/1989,23.0,6-2,315.0,Florida St.,C,3,3.0,1.0,1.0,Chiefs,2012
+94.0,Tyson Jackson,6/6/1986,26.0,6-4,295.0,LSU,LDE,15,15.0,3.0,6.0,Chiefs,2012
+56.0,Derrick Johnson,11/22/1982,30.0,6-3,242.0,Texas,RILB,16,16.0,7.0,8.0,Chiefs,2012
+99.0,Edgar Jones,12/1/1984,28.0,6-3,263.0,SE Missouri St.,DE,16,0.0,5.0,2.0,Chiefs,2012
+55.0,Bryan Kehl,6/16/1984,28.0,6-2,234.0,BYU,LB,3,0.0,4.0,0.0,Chiefs,2012
+23.0,Kendrick Lewis,6/16/1988,24.0,6-0,205.0,Mississippi,FS,9,9.0,2.0,3.0,Chiefs,2012
+65.0,Ryan Lilja,10/15/1981,31.0,6-2,290.0,Kansas St.,C,15,15.0,8.0,4.0,Chiefs,2012
+87.0,Steve Maneri,3/20/1988,24.0,6-6,275.0,Temple,TE,13,8.0,1.0,0.0,Chiefs,2012
+64.0,Bryan Mattison,5/15/1984,28.0,6-3,272.0,Iowa,DE,4,0.0,2.0,0.0,Chiefs,2012
+22.0,Dexter McCluster,8/25/1989,23.0,5-9,165.0,Mississippi,RB,16,6.0,2.0,3.0,Chiefs,2012
+81.0,Tony Moeaki,6/8/1987,25.0,6-4,250.0,Iowa,TE,15,14.0,2.0,3.0,Chiefs,2012
+84.0,Jamar Newsome,11/5/1987,25.0,6-1,200.0,Central Florida,WR,6,2.0,1.0,0.0,Chiefs,2012
+85.0,Jake O'Connell,11/6/1985,27.0,6-4,255.0,Miami (OH),TE,8,0.0,3.0,0.0,Chiefs,2012
+75.0,Ropati Pitoitua,4/6/1985,27.0,6-8,290.0,Washington St.,RDE,15,10.0,3.0,4.0,Chiefs,2012
+92.0,Dontari Poe,8/18/1990,22.0,6-3,346.0,Memphis,NT,16,16.0,0.0,6.0,Chiefs,2012
+95.0,Jerrell Powe,3/15/1987,25.0,6-2,330.0,Mississippi,DT,9,0.0,1.0,1.0,Chiefs,2012
+9.0,Brady Quinn,10/27/1984,28.0,6-4,232.0,Notre Dame,QB,10,8.0,5.0,-1.0,Chiefs,2012
+35.0,Jacques Reeves,10/8/1982,30.0,5-11,188.0,Purdue,DB,2,1.0,8.0,0.0,Chiefs,2012
+26.0,Stanford Routt,7/23/1983,29.0,6-1,195.0,Houston,RCB,7,7.0,7.0,3.0,Chiefs,2012
+55.0,Cameron Sheffield,2/12/1988,24.0,6-3,256.0,Troy,LB,1,0.0,1.0,0.0,Chiefs,2012
+52.0,Brandon Siler,12/5/1985,27.0,6-2,241.0,Florida,LB,16,4.0,5.0,2.0,Chiefs,2012
+90.0,Shaun Smith,8/19/1981,31.0,6-2,325.0,"Butler (KS),South Carolina",DE,8,0.0,8.0,1.0,Chiefs,2012
+79.0,Donald Stephenson,9/30/1988,24.0,6-5,312.0,Oklahoma,LT,16,7.0,0.0,3.0,Chiefs,2012
+96.0,Andy Studebaker,9/16/1985,27.0,6-3,251.0,Wheaton,LB,16,1.0,4.0,1.0,Chiefs,2012
+6.0,Ryan Succop,9/19/1986,26.0,6-2,218.0,South Carolina,K,16,0.0,3.0,3.0,Chiefs,2012
+38.0,Neiko Thorpe,2/1/1990,22.0,6-2,210.0,Auburn,DB,9,0.0,0.0,0.0,Chiefs,2012
+98.0,Anthony Toribio,3/1/1985,27.0,6-1,305.0,Carson-Newman,DT,11,0.0,3.0,1.0,Chiefs,2012
+57.0,Leon Williams,7/30/1983,29.0,6-3,248.0,Miami (FL),LB,4,0.0,6.0,0.0,Chiefs,2012
+74.0,Eric Winston,11/17/1983,29.0,6-7,310.0,Miami (FL),RT,16,16.0,6.0,5.0,Chiefs,2012
+19.0,Devon Wylie,9/2/1988,24.0,5-9,187.0,Fresno St.,WR,6,1.0,0.0,0.0,Chiefs,2012
+,Team Total,,26.3,6-2.0,245.5,,,16,,3.3,,Chiefs,2012

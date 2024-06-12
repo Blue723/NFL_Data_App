@@ -1,67 +1,67 @@
-,No.,Player,BirthDate,Age,Height,Weight,College/University,Position,Games_Played_in_Season,Games_Started_in_Season,NFL_Years,Player_Value,Team,Year
-0,29.0,Jonathon Amaya,11/25/1988,24.0,6-1,203.0,Nevada,DB,12,0.0,2.0,1.0,Dolphins,2012
-1,87.0,Anthony Armstrong,3/29/1983,29.0,5-11,175.0,West Texas A&M,WR,5,0.0,2.0,0.0,Dolphins,2012
-2,90.0,Ryan Baker,11/25/1984,28.0,6-5,295.0,Purdue,DE,1,0.0,3.0,0.0,Dolphins,2012
-3,15.0,Davone Bess,9/13/1985,27.0,5-10,190.0,Hawaii,WR,13,13.0,4.0,6.0,Dolphins,2012
-4,19.0,Armon Binns,9/8/1989,23.0,6-2,211.0,Cincinnati,WR,3,0.0,0.0,1.0,Dolphins,2012
-5,56.0,Kevin Burnett,12/24/1982,30.0,6-3,230.0,Tennessee,LLB,16,16.0,7.0,8.0,Dolphins,2012
-6,22.0,Reggie Bush,3/2/1985,27.0,6-0,205.0,USC,RB,16,16.0,6.0,8.0,Dolphins,2012
-7,5.0,Dan Carpenter,11/25/1985,27.0,6-2,216.0,Montana,K,14,0.0,4.0,3.0,Dolphins,2012
-8,28.0,Nolan Carroll,1/16/1987,25.0,6-1,202.0,Maryland,RCB,14,10.0,2.0,4.0,Dolphins,2012
-9,42.0,Charles Clay,2/13/1989,23.0,6-3,246.0,Tulsa,FB,14,9.0,1.0,2.0,Dolphins,2012
-10,30.0,Chris Clemons,9/15/1985,27.0,6-1,210.0,Clemson,SS,16,16.0,3.0,7.0,Dolphins,2012
-11,32.0,Michael Coe,12/17/1983,29.0,6-1,190.0,Alabama St.,DB,1,0.0,5.0,0.0,Dolphins,2012
-12,36.0,Tyrone Culver,7/6/1983,29.0,6-1,210.0,Fresno St.,DB,4,0.0,6.0,0.0,Dolphins,2012
-13,58.0,Karlos Dansby,11/3/1981,31.0,6-4,250.0,Auburn,MLB,16,16.0,8.0,9.0,Dolphins,2012
-14,92.0,John Denney,12/13/1978,34.0,6-5,242.0,BYU,LS,16,0.0,7.0,5.0,Dolphins,2012
-15,84.0,Michael Egnew,11/1/1989,23.0,6-5,252.0,Missouri,TE,2,0.0,0.0,0.0,Dolphins,2012
-16,80.0,Anthony Fasano,4/20/1984,28.0,6-4,258.0,Notre Dame,TE,16,16.0,6.0,3.0,Dolphins,2012
-17,2.0,Brandon Fields,5/21/1984,28.0,6-5,249.0,Michigan St.,P,16,0.0,5.0,4.0,Dolphins,2012
-18,90.0,Andre Fluellen,3/7/1985,27.0,6-2,285.0,Florida St.,DT,2,0.0,4.0,0.0,Dolphins,2012
-19,59.0,Jonathan Freeny,6/15/1989,23.0,6-2,245.0,Rutgers,DE,16,0.0,0.0,1.0,Dolphins,2012
-20,10.0,Jabar Gaffney,12/1/1980,32.0,6-2,200.0,Florida,WR,3,0.0,10.0,1.0,Dolphins,2012
-21,75.0,Nate Garner,1/18/1985,27.0,6-7,319.0,Arkansas,T,16,4.0,3.0,3.0,Dolphins,2012
-22,82.0,Brian Hartline,11/22/1986,26.0,6-2,180.0,Ohio St.,WR,16,15.0,3.0,8.0,Dolphins,2012
-23,68.0,Richie Incognito,7/5/1983,29.0,6-4,322.0,"Nebraska,Oregon",LG,16,16.0,6.0,9.0,Dolphins,2012
-24,74.0,John Jerry,6/14/1986,26.0,6-5,340.0,Mississippi,RG,16,16.0,2.0,7.0,Dolphins,2012
-25,20.0,Reshad Jones,2/25/1988,24.0,6-1,215.0,Georgia,FS,16,16.0,2.0,8.0,Dolphins,2012
-26,57.0,Josh Kaddu,3/12/1990,22.0,6-3,239.0,Oregon,LB,4,0.0,0.0,0.0,Dolphins,2012
-27,9.0,Nate Kaeding,3/26/1982,30.0,6-0,187.0,Iowa,K,2,0.0,8.0,-1.0,Dolphins,2012
-28,41.0,Jorvorskie Lane,2/4/1987,25.0,5-11,277.0,Texas A&M,FB,16,5.0,0.0,1.0,Dolphins,2012
-29,77.0,Jake Long,5/9/1985,27.0,6-7,315.0,Michigan,LT,12,12.0,4.0,5.0,Dolphins,2012
-30,31.0,Richard Marshall,12/12/1984,28.0,5-11,198.0,Fresno St.,DB,4,4.0,6.0,2.0,Dolphins,2012
-31,71.0,Jonathan Martin,12/28/1989,23.0,6-6,300.0,Stanford,RT/LT,16,16.0,0.0,7.0,Dolphins,2012
-32,88.0,Jeron Mastrud,12/17/1987,25.0,6-5,247.0,Kansas St.,TE,14,1.0,2.0,0.0,Dolphins,2012
-33,86.0,Rishard Matthews,10/12/1989,23.0,6-0,217.0,Nevada,WR,8,1.0,0.0,1.0,Dolphins,2012
-34,23.0,Bryan McCann,9/29/1987,25.0,5-10,182.0,SMU,DB,8,0.0,2.0,1.0,Dolphins,2012
-35,78.0,Tony McDaniel,1/20/1985,27.0,6-7,305.0,Tennessee,DT,11,0.0,6.0,1.0,Dolphins,2012
-36,26.0,Lamar Miller,4/25/1991,21.0,5-10,221.0,Miami (FL),RB,13,1.0,0.0,2.0,Dolphins,2012
-37,55.0,Koa Misi,1/17/1987,25.0,6-3,244.0,Utah,RLB,14,14.0,2.0,7.0,Dolphins,2012
-38,14.0,Marlon Moore,9/3/1987,25.0,6-0,190.0,Fresno St.,WR,14,2.0,2.0,1.0,Dolphins,2012
-39,8.0,Matt Moore,8/9/1984,28.0,6-3,219.0,"College of the Canyons (CA),Oregon St.",QB,2,0.0,5.0,0.0,Dolphins,2012
-40,19.0,Legedu Naanee,9/16/1983,29.0,6-2,225.0,Boise St.,WR,4,1.0,5.0,0.0,Dolphins,2012
-41,23.0,Troy Nolan,9/7/1986,26.0,6-1,206.0,Arizona St.,DB,3,0.0,2.0,0.0,Dolphins,2012
-42,98.0,Jared Odrick,12/31/1987,25.0,6-5,301.0,Penn St.,LDE,16,12.0,2.0,7.0,Dolphins,2012
-43,32.0,Dimitri Patterson,6/18/1983,29.0,6-0,200.0,"SE Missouri St.,Tuskegee",DB,2,2.0,7.0,1.0,Dolphins,2012
-44,38.0,Julian Posey,7/17/1988,24.0,5-11,187.0,Ohio,DB,2,0.0,0.0,0.0,Dolphins,2012
-45,51.0,Mike Pouncey,7/24/1989,23.0,6-5,298.0,Florida,C,16,16.0,1.0,7.0,Dolphins,2012
-46,21.0,De'Andre Presley,1/10/1990,22.0,5-11,180.0,Appalachian St.,QB,4,0.0,0.0,0.0,Dolphins,2012
-47,97.0,Kheeston Randall,5/7/1989,23.0,6-4,296.0,Texas,DT,12,0.0,0.0,1.0,Dolphins,2012
-48,52.0,Mike Rivera,1/10/1986,26.0,6-3,255.0,Kansas,LB,1,0.0,0.0,0.0,Dolphins,2012
-49,40.0,Anderson Russell,5/30/1987,25.0,6-0,205.0,Ohio St.,DB,3,0.0,2.0,0.0,Dolphins,2012
-50,64.0,Josh Samuda,12/23/1988,24.0,6-3,310.0,Massachusetts,G,16,0.0,0.0,1.0,Dolphins,2012
-51,79.0,Derrick Shelby,3/4/1989,23.0,6-2,280.0,Utah,DE,16,0.0,0.0,1.0,Dolphins,2012
-52,24.0,Sean Smith,7/14/1987,25.0,6-2,215.0,Utah,LCB,16,16.0,3.0,7.0,Dolphins,2012
-53,96.0,Paul Soliai,12/30/1983,29.0,6-4,344.0,Utah,RDT,16,16.0,5.0,8.0,Dolphins,2012
-54,53.0,Austin Spitler,10/26/1986,26.0,6-3,244.0,Ohio St.,LB,15,0.0,2.0,1.0,Dolphins,2012
-55,25.0,R.J. Stanford,5/6/1988,24.0,5-10,180.0,Utah,DB,16,0.0,1.0,1.0,Dolphins,2012
-56,94.0,Randy Starks,12/14/1983,29.0,6-4,305.0,Maryland,LDT,16,16.0,8.0,11.0,Dolphins,2012
-57,17.0,Ryan Tannehill,7/27/1988,24.0,6-4,217.0,Texas A&M,QB,16,16.0,0.0,10.0,Dolphins,2012
-58,34.0,Marcus Thigpen,5/15/1986,26.0,5-9,193.0,Indiana,RB,16,0.0,0.0,2.0,Dolphins,2012
-59,33.0,Daniel Thomas,10/29/1987,25.0,6-0,225.0,"Northwest Mississippi CC,Kansas St.",RB,12,0.0,1.0,3.0,Dolphins,2012
-60,93.0,Jason Trusnik,6/6/1984,28.0,6-4,241.0,Ohio Northern,DE,16,2.0,5.0,2.0,Dolphins,2012
-61,50.0,Olivier Vernon,10/7/1990,22.0,6-2,262.0,Miami (FL),DE,16,0.0,0.0,2.0,Dolphins,2012
-62,91.0,Cameron Wake,1/30/1982,30.0,6-3,263.0,Penn St.,RDE,16,16.0,3.0,17.0,Dolphins,2012
-63,27.0,Jimmy Wilson,7/30/1986,26.0,5-11,193.0,Montana,DB,15,4.0,1.0,2.0,Dolphins,2012
-64,72.0,Will Yeatman,4/10/1988,24.0,6-5,268.0,"Notre Dame,Maryland",TE,4,0.0,1.0,0.0,Dolphins,2012
-65,,Team Total,,26.1,6-2.2,239.6,,,16,,2.9,,Dolphins,2012
+No.,Player,BirthDate,Age,Height,Weight,College/University,Position,Games_Played_in_Season,Games_Started_in_Season,NFL_Years,Player_Value,Team,Year
+29.0,Jonathon Amaya,11/25/1988,24.0,6-1,203.0,Nevada,DB,12,0.0,2.0,1.0,Dolphins,2012
+87.0,Anthony Armstrong,3/29/1983,29.0,5-11,175.0,West Texas A&M,WR,5,0.0,2.0,0.0,Dolphins,2012
+90.0,Ryan Baker,11/25/1984,28.0,6-5,295.0,Purdue,DE,1,0.0,3.0,0.0,Dolphins,2012
+15.0,Davone Bess,9/13/1985,27.0,5-10,190.0,Hawaii,WR,13,13.0,4.0,6.0,Dolphins,2012
+19.0,Armon Binns,9/8/1989,23.0,6-2,211.0,Cincinnati,WR,3,0.0,0.0,1.0,Dolphins,2012
+56.0,Kevin Burnett,12/24/1982,30.0,6-3,230.0,Tennessee,LLB,16,16.0,7.0,8.0,Dolphins,2012
+22.0,Reggie Bush,3/2/1985,27.0,6-0,205.0,USC,RB,16,16.0,6.0,8.0,Dolphins,2012
+5.0,Dan Carpenter,11/25/1985,27.0,6-2,216.0,Montana,K,14,0.0,4.0,3.0,Dolphins,2012
+28.0,Nolan Carroll,1/16/1987,25.0,6-1,202.0,Maryland,RCB,14,10.0,2.0,4.0,Dolphins,2012
+42.0,Charles Clay,2/13/1989,23.0,6-3,246.0,Tulsa,FB,14,9.0,1.0,2.0,Dolphins,2012
+30.0,Chris Clemons,9/15/1985,27.0,6-1,210.0,Clemson,SS,16,16.0,3.0,7.0,Dolphins,2012
+32.0,Michael Coe,12/17/1983,29.0,6-1,190.0,Alabama St.,DB,1,0.0,5.0,0.0,Dolphins,2012
+36.0,Tyrone Culver,7/6/1983,29.0,6-1,210.0,Fresno St.,DB,4,0.0,6.0,0.0,Dolphins,2012
+58.0,Karlos Dansby,11/3/1981,31.0,6-4,250.0,Auburn,MLB,16,16.0,8.0,9.0,Dolphins,2012
+92.0,John Denney,12/13/1978,34.0,6-5,242.0,BYU,LS,16,0.0,7.0,5.0,Dolphins,2012
+84.0,Michael Egnew,11/1/1989,23.0,6-5,252.0,Missouri,TE,2,0.0,0.0,0.0,Dolphins,2012
+80.0,Anthony Fasano,4/20/1984,28.0,6-4,258.0,Notre Dame,TE,16,16.0,6.0,3.0,Dolphins,2012
+2.0,Brandon Fields,5/21/1984,28.0,6-5,249.0,Michigan St.,P,16,0.0,5.0,4.0,Dolphins,2012
+90.0,Andre Fluellen,3/7/1985,27.0,6-2,285.0,Florida St.,DT,2,0.0,4.0,0.0,Dolphins,2012
+59.0,Jonathan Freeny,6/15/1989,23.0,6-2,245.0,Rutgers,DE,16,0.0,0.0,1.0,Dolphins,2012
+10.0,Jabar Gaffney,12/1/1980,32.0,6-2,200.0,Florida,WR,3,0.0,10.0,1.0,Dolphins,2012
+75.0,Nate Garner,1/18/1985,27.0,6-7,319.0,Arkansas,T,16,4.0,3.0,3.0,Dolphins,2012
+82.0,Brian Hartline,11/22/1986,26.0,6-2,180.0,Ohio St.,WR,16,15.0,3.0,8.0,Dolphins,2012
+68.0,Richie Incognito,7/5/1983,29.0,6-4,322.0,"Nebraska,Oregon",LG,16,16.0,6.0,9.0,Dolphins,2012
+74.0,John Jerry,6/14/1986,26.0,6-5,340.0,Mississippi,RG,16,16.0,2.0,7.0,Dolphins,2012
+20.0,Reshad Jones,2/25/1988,24.0,6-1,215.0,Georgia,FS,16,16.0,2.0,8.0,Dolphins,2012
+57.0,Josh Kaddu,3/12/1990,22.0,6-3,239.0,Oregon,LB,4,0.0,0.0,0.0,Dolphins,2012
+9.0,Nate Kaeding,3/26/1982,30.0,6-0,187.0,Iowa,K,2,0.0,8.0,-1.0,Dolphins,2012
+41.0,Jorvorskie Lane,2/4/1987,25.0,5-11,277.0,Texas A&M,FB,16,5.0,0.0,1.0,Dolphins,2012
+77.0,Jake Long,5/9/1985,27.0,6-7,315.0,Michigan,LT,12,12.0,4.0,5.0,Dolphins,2012
+31.0,Richard Marshall,12/12/1984,28.0,5-11,198.0,Fresno St.,DB,4,4.0,6.0,2.0,Dolphins,2012
+71.0,Jonathan Martin,12/28/1989,23.0,6-6,300.0,Stanford,RT/LT,16,16.0,0.0,7.0,Dolphins,2012
+88.0,Jeron Mastrud,12/17/1987,25.0,6-5,247.0,Kansas St.,TE,14,1.0,2.0,0.0,Dolphins,2012
+86.0,Rishard Matthews,10/12/1989,23.0,6-0,217.0,Nevada,WR,8,1.0,0.0,1.0,Dolphins,2012
+23.0,Bryan McCann,9/29/1987,25.0,5-10,182.0,SMU,DB,8,0.0,2.0,1.0,Dolphins,2012
+78.0,Tony McDaniel,1/20/1985,27.0,6-7,305.0,Tennessee,DT,11,0.0,6.0,1.0,Dolphins,2012
+26.0,Lamar Miller,4/25/1991,21.0,5-10,221.0,Miami (FL),RB,13,1.0,0.0,2.0,Dolphins,2012
+55.0,Koa Misi,1/17/1987,25.0,6-3,244.0,Utah,RLB,14,14.0,2.0,7.0,Dolphins,2012
+14.0,Marlon Moore,9/3/1987,25.0,6-0,190.0,Fresno St.,WR,14,2.0,2.0,1.0,Dolphins,2012
+8.0,Matt Moore,8/9/1984,28.0,6-3,219.0,"College of the Canyons (CA),Oregon St.",QB,2,0.0,5.0,0.0,Dolphins,2012
+19.0,Legedu Naanee,9/16/1983,29.0,6-2,225.0,Boise St.,WR,4,1.0,5.0,0.0,Dolphins,2012
+23.0,Troy Nolan,9/7/1986,26.0,6-1,206.0,Arizona St.,DB,3,0.0,2.0,0.0,Dolphins,2012
+98.0,Jared Odrick,12/31/1987,25.0,6-5,301.0,Penn St.,LDE,16,12.0,2.0,7.0,Dolphins,2012
+32.0,Dimitri Patterson,6/18/1983,29.0,6-0,200.0,"SE Missouri St.,Tuskegee",DB,2,2.0,7.0,1.0,Dolphins,2012
+38.0,Julian Posey,7/17/1988,24.0,5-11,187.0,Ohio,DB,2,0.0,0.0,0.0,Dolphins,2012
+51.0,Mike Pouncey,7/24/1989,23.0,6-5,298.0,Florida,C,16,16.0,1.0,7.0,Dolphins,2012
+21.0,De'Andre Presley,1/10/1990,22.0,5-11,180.0,Appalachian St.,QB,4,0.0,0.0,0.0,Dolphins,2012
+97.0,Kheeston Randall,5/7/1989,23.0,6-4,296.0,Texas,DT,12,0.0,0.0,1.0,Dolphins,2012
+52.0,Mike Rivera,1/10/1986,26.0,6-3,255.0,Kansas,LB,1,0.0,0.0,0.0,Dolphins,2012
+40.0,Anderson Russell,5/30/1987,25.0,6-0,205.0,Ohio St.,DB,3,0.0,2.0,0.0,Dolphins,2012
+64.0,Josh Samuda,12/23/1988,24.0,6-3,310.0,Massachusetts,G,16,0.0,0.0,1.0,Dolphins,2012
+79.0,Derrick Shelby,3/4/1989,23.0,6-2,280.0,Utah,DE,16,0.0,0.0,1.0,Dolphins,2012
+24.0,Sean Smith,7/14/1987,25.0,6-2,215.0,Utah,LCB,16,16.0,3.0,7.0,Dolphins,2012
+96.0,Paul Soliai,12/30/1983,29.0,6-4,344.0,Utah,RDT,16,16.0,5.0,8.0,Dolphins,2012
+53.0,Austin Spitler,10/26/1986,26.0,6-3,244.0,Ohio St.,LB,15,0.0,2.0,1.0,Dolphins,2012
+25.0,R.J. Stanford,5/6/1988,24.0,5-10,180.0,Utah,DB,16,0.0,1.0,1.0,Dolphins,2012
+94.0,Randy Starks,12/14/1983,29.0,6-4,305.0,Maryland,LDT,16,16.0,8.0,11.0,Dolphins,2012
+17.0,Ryan Tannehill,7/27/1988,24.0,6-4,217.0,Texas A&M,QB,16,16.0,0.0,10.0,Dolphins,2012
+34.0,Marcus Thigpen,5/15/1986,26.0,5-9,193.0,Indiana,RB,16,0.0,0.0,2.0,Dolphins,2012
+33.0,Daniel Thomas,10/29/1987,25.0,6-0,225.0,"Northwest Mississippi CC,Kansas St.",RB,12,0.0,1.0,3.0,Dolphins,2012
+93.0,Jason Trusnik,6/6/1984,28.0,6-4,241.0,Ohio Northern,DE,16,2.0,5.0,2.0,Dolphins,2012
+50.0,Olivier Vernon,10/7/1990,22.0,6-2,262.0,Miami (FL),DE,16,0.0,0.0,2.0,Dolphins,2012
+91.0,Cameron Wake,1/30/1982,30.0,6-3,263.0,Penn St.,RDE,16,16.0,3.0,17.0,Dolphins,2012
+27.0,Jimmy Wilson,7/30/1986,26.0,5-11,193.0,Montana,DB,15,4.0,1.0,2.0,Dolphins,2012
+72.0,Will Yeatman,4/10/1988,24.0,6-5,268.0,"Notre Dame,Maryland",TE,4,0.0,1.0,0.0,Dolphins,2012
+,Team Total,,26.1,6-2.2,239.6,,,16,,2.9,,Dolphins,2012

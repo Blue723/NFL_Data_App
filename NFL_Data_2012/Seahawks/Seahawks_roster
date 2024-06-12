@@ -1,62 +1,62 @@
-,No.,Player,BirthDate,Age,Height,Weight,College/University,Position,Games_Played_in_Season,Games_Started_in_Season,NFL_Years,Player_Value,Team,Year
-0,89.0,Doug Baldwin,9/21/1988,24.0,5-10,192.0,Stanford,WR,14,4.0,1.0,4.0,Seahawks,2012
-1,52.0,Allen Bradford,8/31/1988,24.0,5-11,235.0,USC,RB,1,0.0,1.0,0.0,Seahawks,2012
-2,99.0,Alan Branch,12/29/1984,28.0,6-6,350.0,Michigan,LDT,16,16.0,5.0,8.0,Seahawks,2012
-3,39.0,Brandon Browner,8/2/1984,28.0,6-4,221.0,Oregon St.,RCB,12,12.0,1.0,6.0,Seahawks,2012
-4,79.0,Red Bryant,4/18/1984,28.0,6-5,326.0,Texas A&M,LDE,16,16.0,4.0,8.0,Seahawks,2012
-5,10.0,Deon Butler,1/4/1986,26.0,5-10,170.0,Penn St.,WR,1,0.0,3.0,0.0,Seahawks,2012
-6,77.0,James Carpenter,3/22/1989,23.0,6-5,321.0,Alabama,LG,7,7.0,1.0,4.0,Seahawks,2012
-7,31.0,Kam Chancellor,4/3/1988,24.0,6-3,225.0,Virginia Tech,SS,16,16.0,2.0,7.0,Seahawks,2012
-8,91.0,Chris Clemons,10/31/1981,31.0,6-3,255.0,Georgia,RDE,16,16.0,8.0,10.0,Seahawks,2012
-9,17.0,Braylon Edwards,2/21/1983,29.0,6-3,214.0,Michigan,WR,10,1.0,7.0,1.0,Seahawks,2012
-10,95.0,Hebron Fangupo,7/19/1985,27.0,6-1,330.0,BYU,DT,1,0.0,0.0,0.0,Seahawks,2012
-11,55.0,Heath Farwell,12/31/1981,31.0,6-0,235.0,San Diego St.,LB,16,0.0,7.0,1.0,Seahawks,2012
-12,15.0,Matt Flynn,6/20/1985,27.0,6-2,228.0,LSU,QB,3,0.0,4.0,0.0,Seahawks,2012
-13,68.0,Breno Giacomini,9/27/1985,27.0,6-7,320.0,Louisville,RT,16,16.0,4.0,8.0,Seahawks,2012
-14,49.0,Clint Gresham,8/24/1986,26.0,6-3,238.0,TCU,LB,16,0.0,2.0,1.0,Seahawks,2012
-15,27.0,Winston Guy,4/23/1990,22.0,6-1,218.0,Kentucky,DB,2,0.0,0.0,0.0,Seahawks,2012
-16,4.0,Stephen Hauschka,6/29/1985,27.0,6-4,210.0,"Middlebury,North Carolina St.",K,16,0.0,4.0,3.0,Seahawks,2012
-17,56.0,LeRoy Hill,9/14/1982,30.0,6-1,238.0,Clemson,LLB,13,12.0,7.0,6.0,Seahawks,2012
-18,94.0,Jaye Howard,12/20/1988,24.0,6-3,301.0,Florida,DT,2,0.0,0.0,0.0,Seahawks,2012
-19,51.0,Bruce Irvin,11/1/1987,25.0,6-3,250.0,"Butler (KS),West Virginia",DE,16,0.0,0.0,3.0,Seahawks,2012
-20,61.0,Lemuel Jeanpierre,5/19/1987,25.0,6-1,301.0,South Carolina,G,15,0.0,1.0,1.0,Seahawks,2012
-21,32.0,Jeron Johnson,6/12/1988,24.0,5-10,212.0,Boise St.,DB,16,0.0,1.0,1.0,Seahawks,2012
-22,90.0,Jason Jones,5/23/1986,26.0,6-5,272.0,Eastern Michigan,DE,12,0.0,4.0,2.0,Seahawks,2012
-23,11.0,Jermaine Kearse,2/6/1990,22.0,6-1,210.0,Washington,WR,7,1.0,0.0,0.0,Seahawks,2012
-24,37.0,Jeremy Lane,7/14/1990,22.0,6-0,184.0,Northwestern St. (LA),DB,13,3.0,0.0,2.0,Seahawks,2012
-25,7.0,Ryan Longwell,8/16/1974,38.0,6-0,200.0,California,K,0,0.0,15.0,0.0,Seahawks,2012
-26,24.0,Marshawn Lynch,4/22/1986,26.0,5-11,215.0,California,RB,16,15.0,5.0,15.0,Seahawks,2012
-27,42.0,Chris Maragos,1/6/1987,25.0,5-10,200.0,Wisconsin,DB,16,0.0,2.0,1.0,Seahawks,2012
-28,14.0,Charly Martin,3/20/1984,28.0,6-1,212.0,West Texas A&M,WR,4,1.0,3.0,0.0,Seahawks,2012
-29,41.0,Byron Maxwell,2/23/1988,24.0,6-1,207.0,Clemson,DB,9,0.0,1.0,1.0,Seahawks,2012
-30,85.0,Anthony McCoy,12/12/1987,25.0,6-5,244.0,USC,TE,16,5.0,2.0,3.0,Seahawks,2012
-31,69.0,Clinton McDonald,1/6/1987,25.0,6-2,297.0,Memphis,DT,14,0.0,2.0,2.0,Seahawks,2012
-32,84.0,Sean McGrath,12/3/1987,25.0,6-5,255.0,Henderson St.,TE,2,0.0,0.0,0.0,Seahawks,2012
-33,67.0,Paul McQuistan,4/30/1983,29.0,6-6,315.0,Weber St.,RG/LG,16,16.0,6.0,8.0,Seahawks,2012
-34,92.0,Brandon Mebane,1/15/1985,27.0,6-1,311.0,California,RDT,16,16.0,5.0,9.0,Seahawks,2012
-35,86.0,Zach Miller,12/11/1985,27.0,6-5,256.0,Arizona St.,TE,16,15.0,5.0,4.0,Seahawks,2012
-36,74.0,John Moffitt,10/28/1986,26.0,6-4,314.0,Wisconsin,LG,8,6.0,1.0,3.0,Seahawks,2012
-37,82.0,Evan Moore,1/3/1985,27.0,6-7,232.0,Stanford,WR,14,1.0,3.0,0.0,Seahawks,2012
-38,57.0,Mike Morgan,1/16/1988,24.0,6-4,224.0,USC,LB,16,1.0,1.0,2.0,Seahawks,2012
-39,87.0,Ben Obomanu,10/30/1983,29.0,6-1,204.0,Auburn,WR,8,0.0,5.0,1.0,Seahawks,2012
-40,76.0,Russell Okung,10/7/1988,24.0,6-5,310.0,Oklahoma St.,LT,15,15.0,2.0,10.0,Seahawks,2012
-41,65.0,Frank Omiyale,11/23/1982,30.0,6-4,315.0,Tennessee Tech,T,16,1.0,6.0,2.0,Seahawks,2012
-42,36.0,Ron Parker,8/17/1987,25.0,6-0,206.0,"Independence (KS),Newberry",DB,2,0.0,1.0,0.0,Seahawks,2012
-43,18.0,Sidney Rice,9/1/1986,26.0,6-4,200.0,South Carolina,WR,16,16.0,5.0,9.0,Seahawks,2012
-44,26.0,Michael Robinson,2/6/1983,29.0,6-1,240.0,Penn St.,FB,16,6.0,6.0,2.0,Seahawks,2012
-45,9.0,Jon Ryan,11/26/1981,31.0,6-0,217.0,Regina,P,16,0.0,6.0,2.0,Seahawks,2012
-46,98.0,Greg Scruggs,8/17/1990,22.0,6-3,284.0,Louisville,DE,11,0.0,0.0,1.0,Seahawks,2012
-47,25.0,Richard Sherman,3/30/1988,24.0,6-3,195.0,Stanford,LCB,16,16.0,1.0,20.0,Seahawks,2012
-48,53.0,Malcolm Smith,7/5/1989,23.0,6-0,225.0,USC,LB,16,3.0,1.0,3.0,Seahawks,2012
-49,64.0,J.R. Sweezy,4/8/1989,23.0,6-5,310.0,North Carolina St.,DT,13,3.0,0.0,2.0,Seahawks,2012
-50,81.0,Golden Tate,8/2/1988,24.0,5-10,197.0,Notre Dame,WR,15,15.0,2.0,8.0,Seahawks,2012
-51,29.0,Earl Thomas,5/7/1989,23.0,5-10,202.0,Texas,FS,16,16.0,2.0,15.0,Seahawks,2012
-52,28.0,Walter Thurmond,8/12/1987,25.0,5-11,186.0,Oregon,DB,2,1.0,2.0,0.0,Seahawks,2012
-53,23.0,Marcus Trufant,12/25/1980,32.0,5-11,197.0,Washington St.,DB,12,2.0,9.0,2.0,Seahawks,2012
-54,22.0,Robert Turbin,12/2/1989,23.0,5-10,225.0,Utah St.,RB,16,0.0,0.0,5.0,Seahawks,2012
-55,60.0,Max Unger,4/14/1986,26.0,6-5,305.0,Oregon,C,16,16.0,3.0,16.0,Seahawks,2012
-56,54.0,Bobby Wagner,6/27/1990,22.0,6-0,242.0,Utah St.,MLB,16,15.0,0.0,10.0,Seahawks,2012
-57,33.0,Leon Washington,8/29/1982,30.0,5-8,192.0,Florida St.,RB,16,0.0,6.0,2.0,Seahawks,2012
-58,3.0,Russell Wilson,11/29/1988,24.0,5-11,215.0,"Wisconsin,North Carolina St.",QB,16,16.0,0.0,16.0,Seahawks,2012
-59,50.0,K.J. Wright,7/23/1989,23.0,6-4,246.0,Mississippi St.,RLB,15,15.0,1.0,9.0,Seahawks,2012
-60,,Team Total,,26.1,6-1.9,244.2,,,16,,2.9,,Seahawks,2012
+No.,Player,BirthDate,Age,Height,Weight,College/University,Position,Games_Played_in_Season,Games_Started_in_Season,NFL_Years,Player_Value,Team,Year
+89.0,Doug Baldwin,9/21/1988,24.0,5-10,192.0,Stanford,WR,14,4.0,1.0,4.0,Seahawks,2012
+52.0,Allen Bradford,8/31/1988,24.0,5-11,235.0,USC,RB,1,0.0,1.0,0.0,Seahawks,2012
+99.0,Alan Branch,12/29/1984,28.0,6-6,350.0,Michigan,LDT,16,16.0,5.0,8.0,Seahawks,2012
+39.0,Brandon Browner,8/2/1984,28.0,6-4,221.0,Oregon St.,RCB,12,12.0,1.0,6.0,Seahawks,2012
+79.0,Red Bryant,4/18/1984,28.0,6-5,326.0,Texas A&M,LDE,16,16.0,4.0,8.0,Seahawks,2012
+10.0,Deon Butler,1/4/1986,26.0,5-10,170.0,Penn St.,WR,1,0.0,3.0,0.0,Seahawks,2012
+77.0,James Carpenter,3/22/1989,23.0,6-5,321.0,Alabama,LG,7,7.0,1.0,4.0,Seahawks,2012
+31.0,Kam Chancellor,4/3/1988,24.0,6-3,225.0,Virginia Tech,SS,16,16.0,2.0,7.0,Seahawks,2012
+91.0,Chris Clemons,10/31/1981,31.0,6-3,255.0,Georgia,RDE,16,16.0,8.0,10.0,Seahawks,2012
+17.0,Braylon Edwards,2/21/1983,29.0,6-3,214.0,Michigan,WR,10,1.0,7.0,1.0,Seahawks,2012
+95.0,Hebron Fangupo,7/19/1985,27.0,6-1,330.0,BYU,DT,1,0.0,0.0,0.0,Seahawks,2012
+55.0,Heath Farwell,12/31/1981,31.0,6-0,235.0,San Diego St.,LB,16,0.0,7.0,1.0,Seahawks,2012
+15.0,Matt Flynn,6/20/1985,27.0,6-2,228.0,LSU,QB,3,0.0,4.0,0.0,Seahawks,2012
+68.0,Breno Giacomini,9/27/1985,27.0,6-7,320.0,Louisville,RT,16,16.0,4.0,8.0,Seahawks,2012
+49.0,Clint Gresham,8/24/1986,26.0,6-3,238.0,TCU,LB,16,0.0,2.0,1.0,Seahawks,2012
+27.0,Winston Guy,4/23/1990,22.0,6-1,218.0,Kentucky,DB,2,0.0,0.0,0.0,Seahawks,2012
+4.0,Stephen Hauschka,6/29/1985,27.0,6-4,210.0,"Middlebury,North Carolina St.",K,16,0.0,4.0,3.0,Seahawks,2012
+56.0,LeRoy Hill,9/14/1982,30.0,6-1,238.0,Clemson,LLB,13,12.0,7.0,6.0,Seahawks,2012
+94.0,Jaye Howard,12/20/1988,24.0,6-3,301.0,Florida,DT,2,0.0,0.0,0.0,Seahawks,2012
+51.0,Bruce Irvin,11/1/1987,25.0,6-3,250.0,"Butler (KS),West Virginia",DE,16,0.0,0.0,3.0,Seahawks,2012
+61.0,Lemuel Jeanpierre,5/19/1987,25.0,6-1,301.0,South Carolina,G,15,0.0,1.0,1.0,Seahawks,2012
+32.0,Jeron Johnson,6/12/1988,24.0,5-10,212.0,Boise St.,DB,16,0.0,1.0,1.0,Seahawks,2012
+90.0,Jason Jones,5/23/1986,26.0,6-5,272.0,Eastern Michigan,DE,12,0.0,4.0,2.0,Seahawks,2012
+11.0,Jermaine Kearse,2/6/1990,22.0,6-1,210.0,Washington,WR,7,1.0,0.0,0.0,Seahawks,2012
+37.0,Jeremy Lane,7/14/1990,22.0,6-0,184.0,Northwestern St. (LA),DB,13,3.0,0.0,2.0,Seahawks,2012
+7.0,Ryan Longwell,8/16/1974,38.0,6-0,200.0,California,K,0,0.0,15.0,0.0,Seahawks,2012
+24.0,Marshawn Lynch,4/22/1986,26.0,5-11,215.0,California,RB,16,15.0,5.0,15.0,Seahawks,2012
+42.0,Chris Maragos,1/6/1987,25.0,5-10,200.0,Wisconsin,DB,16,0.0,2.0,1.0,Seahawks,2012
+14.0,Charly Martin,3/20/1984,28.0,6-1,212.0,West Texas A&M,WR,4,1.0,3.0,0.0,Seahawks,2012
+41.0,Byron Maxwell,2/23/1988,24.0,6-1,207.0,Clemson,DB,9,0.0,1.0,1.0,Seahawks,2012
+85.0,Anthony McCoy,12/12/1987,25.0,6-5,244.0,USC,TE,16,5.0,2.0,3.0,Seahawks,2012
+69.0,Clinton McDonald,1/6/1987,25.0,6-2,297.0,Memphis,DT,14,0.0,2.0,2.0,Seahawks,2012
+84.0,Sean McGrath,12/3/1987,25.0,6-5,255.0,Henderson St.,TE,2,0.0,0.0,0.0,Seahawks,2012
+67.0,Paul McQuistan,4/30/1983,29.0,6-6,315.0,Weber St.,RG/LG,16,16.0,6.0,8.0,Seahawks,2012
+92.0,Brandon Mebane,1/15/1985,27.0,6-1,311.0,California,RDT,16,16.0,5.0,9.0,Seahawks,2012
+86.0,Zach Miller,12/11/1985,27.0,6-5,256.0,Arizona St.,TE,16,15.0,5.0,4.0,Seahawks,2012
+74.0,John Moffitt,10/28/1986,26.0,6-4,314.0,Wisconsin,LG,8,6.0,1.0,3.0,Seahawks,2012
+82.0,Evan Moore,1/3/1985,27.0,6-7,232.0,Stanford,WR,14,1.0,3.0,0.0,Seahawks,2012
+57.0,Mike Morgan,1/16/1988,24.0,6-4,224.0,USC,LB,16,1.0,1.0,2.0,Seahawks,2012
+87.0,Ben Obomanu,10/30/1983,29.0,6-1,204.0,Auburn,WR,8,0.0,5.0,1.0,Seahawks,2012
+76.0,Russell Okung,10/7/1988,24.0,6-5,310.0,Oklahoma St.,LT,15,15.0,2.0,10.0,Seahawks,2012
+65.0,Frank Omiyale,11/23/1982,30.0,6-4,315.0,Tennessee Tech,T,16,1.0,6.0,2.0,Seahawks,2012
+36.0,Ron Parker,8/17/1987,25.0,6-0,206.0,"Independence (KS),Newberry",DB,2,0.0,1.0,0.0,Seahawks,2012
+18.0,Sidney Rice,9/1/1986,26.0,6-4,200.0,South Carolina,WR,16,16.0,5.0,9.0,Seahawks,2012
+26.0,Michael Robinson,2/6/1983,29.0,6-1,240.0,Penn St.,FB,16,6.0,6.0,2.0,Seahawks,2012
+9.0,Jon Ryan,11/26/1981,31.0,6-0,217.0,Regina,P,16,0.0,6.0,2.0,Seahawks,2012
+98.0,Greg Scruggs,8/17/1990,22.0,6-3,284.0,Louisville,DE,11,0.0,0.0,1.0,Seahawks,2012
+25.0,Richard Sherman,3/30/1988,24.0,6-3,195.0,Stanford,LCB,16,16.0,1.0,20.0,Seahawks,2012
+53.0,Malcolm Smith,7/5/1989,23.0,6-0,225.0,USC,LB,16,3.0,1.0,3.0,Seahawks,2012
+64.0,J.R. Sweezy,4/8/1989,23.0,6-5,310.0,North Carolina St.,DT,13,3.0,0.0,2.0,Seahawks,2012
+81.0,Golden Tate,8/2/1988,24.0,5-10,197.0,Notre Dame,WR,15,15.0,2.0,8.0,Seahawks,2012
+29.0,Earl Thomas,5/7/1989,23.0,5-10,202.0,Texas,FS,16,16.0,2.0,15.0,Seahawks,2012
+28.0,Walter Thurmond,8/12/1987,25.0,5-11,186.0,Oregon,DB,2,1.0,2.0,0.0,Seahawks,2012
+23.0,Marcus Trufant,12/25/1980,32.0,5-11,197.0,Washington St.,DB,12,2.0,9.0,2.0,Seahawks,2012
+22.0,Robert Turbin,12/2/1989,23.0,5-10,225.0,Utah St.,RB,16,0.0,0.0,5.0,Seahawks,2012
+60.0,Max Unger,4/14/1986,26.0,6-5,305.0,Oregon,C,16,16.0,3.0,16.0,Seahawks,2012
+54.0,Bobby Wagner,6/27/1990,22.0,6-0,242.0,Utah St.,MLB,16,15.0,0.0,10.0,Seahawks,2012
+33.0,Leon Washington,8/29/1982,30.0,5-8,192.0,Florida St.,RB,16,0.0,6.0,2.0,Seahawks,2012
+3.0,Russell Wilson,11/29/1988,24.0,5-11,215.0,"Wisconsin,North Carolina St.",QB,16,16.0,0.0,16.0,Seahawks,2012
+50.0,K.J. Wright,7/23/1989,23.0,6-4,246.0,Mississippi St.,RLB,15,15.0,1.0,9.0,Seahawks,2012
+,Team Total,,26.1,6-1.9,244.2,,,16,,2.9,,Seahawks,2012

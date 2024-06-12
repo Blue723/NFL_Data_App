@@ -1,66 +1,66 @@
-,No.,Player,BirthDate,Age,Height,Weight,College/University,Position,Games_Played_in_Season,Games_Started_in_Season,NFL_Years,Player_Value,Team,Year
-0,58.0,Mario Addison,9/6/1987,25.0,6-3,260.0,Troy,LB,5,0.0,1.0,0.0,Commanders,2012
-1,97.0,Lorenzo Alexander,5/31/1983,29.0,6-1,245.0,California,LB,16,0.0,5.0,4.0,Commanders,2012
-2,92.0,Chris Baker,10/8/1987,25.0,6-2,306.0,Hampton,NT,14,0.0,3.0,0.0,Commanders,2012
-3,16.0,Brandon Banks,12/21/1987,25.0,5-7,150.0,Kansas St.,WR,12,0.0,2.0,0.0,Commanders,2012
-4,48.0,Jordan Bernstine,5/31/1989,23.0,5-11,205.0,Iowa,DB,1,0.0,0.0,0.0,Commanders,2012
-5,60.0,Jordan Black,1/28/1980,32.0,6-5,305.0,Notre Dame,T,14,0.0,8.0,1.0,Commanders,2012
-6,72.0,Stephen Bowen,3/28/1984,28.0,6-5,300.0,Hofstra,RDE,16,16.0,6.0,6.0,Commanders,2012
-7,19.0,Dezmon Briscoe,8/31/1989,23.0,6-3,200.0,Kansas,WR,7,0.0,2.0,0.0,Commanders,2012
-8,30.0,Crezdon Butler,5/26/1987,25.0,6-0,183.0,Clemson,DB,2,0.0,2.0,0.0,Commanders,2012
-9,94.0,Adam Carriker,5/6/1984,28.0,6-6,296.0,Nebraska,DE,2,2.0,5.0,1.0,Commanders,2012
-10,66.0,Chris Chester,1/12/1983,29.0,6-3,303.0,Oklahoma,RG,16,16.0,6.0,10.0,Commanders,2012
-11,96.0,Barry Cofield,3/19/1984,28.0,6-4,303.0,Northwestern,NT,16,16.0,6.0,6.0,Commanders,2012
-12,47.0,Chris Cooley,7/11/1982,30.0,6-3,255.0,Utah St.,TE,9,2.0,8.0,0.0,Commanders,2012
-13,12.0,Kirk Cousins,8/19/1988,24.0,6-3,205.0,Michigan St.,QB,3,1.0,0.0,2.0,Commanders,2012
-14,39.0,Richard Crawford,8/1/1990,22.0,5-11,192.0,SMU,DB,10,0.0,0.0,1.0,Commanders,2012
-15,5.0,Billy Cundiff,3/30/1980,32.0,6-1,212.0,Drake,K,5,0.0,10.0,-1.0,Commanders,2012
-16,83.0,Fred Davis,1/15/1986,26.0,6-3,250.0,USC,TE,7,7.0,4.0,3.0,Commanders,2012
-17,37.0,Reed Doughty,11/4/1982,30.0,6-1,206.0,Northern Colorado,SS,16,10.0,6.0,3.0,Commanders,2012
-18,59.0,London Fletcher,5/19/1975,37.0,5-10,242.0,John Carroll,LILB,16,16.0,14.0,12.0,Commanders,2012
-19,2.0,Kai Forbath,9/2/1987,25.0,5-11,197.0,UCLA,K,11,0.0,0.0,3.0,Commanders,2012
-20,88.0,Pierre Garcon,8/8/1986,26.0,6-0,211.0,Mount Union,WR,10,10.0,4.0,7.0,Commanders,2012
-21,64.0,Kedric Golston,5/30/1983,29.0,6-4,330.0,Georgia,DT,16,0.0,6.0,1.0,Commanders,2012
-22,24.0,DeJon Gomes,11/17/1989,23.0,6-0,208.0,Nebraska,DB,15,3.0,1.0,2.0,Commanders,2012
-23,25.0,Ryan Grant,12/9/1982,30.0,6-1,222.0,Notre Dame,RB,1,0.0,5.0,0.0,Commanders,2012
-24,20.0,Cedric Griffin,11/11/1982,30.0,6-0,195.0,Texas,DB,9,2.0,6.0,1.0,Commanders,2012
-25,10.0,Robert Griffin III,2/12/1990,22.0,6-2,213.0,Baylor,QB,15,15.0,0.0,18.0,Commanders,2012
-26,23.0,DeAngelo Hall,11/19/1983,29.0,5-10,200.0,Virginia Tech,LCB,16,16.0,8.0,5.0,Commanders,2012
-27,85.0,Leonard Hankerson,1/30/1989,23.0,6-1,205.0,Miami (FL),WR,16,5.0,1.0,6.0,Commanders,2012
-28,29.0,Roy Helu,12/7/1988,24.0,6-0,216.0,Nebraska,RB,3,0.0,1.0,0.0,Commanders,2012
-29,79.0,Maurice Hurt,9/8/1987,25.0,6-3,319.0,Florida,G,13,1.0,1.0,2.0,Commanders,2012
-30,50.0,Rob Jackson,11/3/1985,27.0,6-4,259.0,Kansas St.,ROLB,16,14.0,4.0,7.0,Commanders,2012
-31,99.0,Jarvis Jenkins,4/24/1988,24.0,6-4,300.0,Clemson,LDE,16,14.0,0.0,5.0,Commanders,2012
-32,30.0,D.J. Johnson,11/7/1985,27.0,6-1,192.0,Jackson St.,DB,7,0.0,3.0,0.0,Commanders,2012
-33,35.0,David Jones,9/19/1985,27.0,6-0,196.0,Wingate,DB,5,0.0,5.0,0.0,Commanders,2012
-34,53.0,Bryan Kehl,6/16/1984,28.0,6-2,234.0,BYU,LB,5,0.0,4.0,0.0,Commanders,2012
-35,91.0,Ryan Kerrigan,8/16/1988,24.0,6-4,267.0,Purdue,LOLB,16,16.0,1.0,9.0,Commanders,2012
-36,67.0,Josh LeRibeus,7/2/1989,23.0,6-2,315.0,SMU,G,5,0.0,0.0,1.0,Commanders,2012
-37,78.0,Kory Lichtensteiger,3/22/1985,27.0,6-3,296.0,Bowling Green,LG,16,16.0,4.0,10.0,Commanders,2012
-38,31.0,Brandon Meriweather,1/14/1984,28.0,5-11,195.0,Miami (FL),DB,1,1.0,5.0,0.0,Commanders,2012
-39,63.0,Will Montgomery,2/13/1983,29.0,6-3,304.0,Virginia Tech,C,16,16.0,6.0,10.0,Commanders,2012
-40,15.0,Josh Morgan,6/20/1985,27.0,6-0,218.0,Virginia Tech,WR,16,15.0,4.0,6.0,Commanders,2012
-41,46.0,Alfred Morris,12/12/1988,24.0,5-10,222.0,Florida Atlantic,RB,16,16.0,0.0,13.0,Commanders,2012
-42,89.0,Santana Moss,6/1/1979,33.0,5-10,193.0,Miami (FL),WR,16,1.0,11.0,6.0,Commanders,2012
-43,45.0,Jerome Murphy,1/13/1987,25.0,6-1,191.0,South Florida,DB,5,0.0,2.0,0.0,Commanders,2012
-44,98.0,Brian Orakpo,7/31/1986,26.0,6-4,257.0,Texas,LB,2,2.0,3.0,1.0,Commanders,2012
-45,84.0,Niles Paul,8/9/1989,23.0,6-1,242.0,Nebraska,WR,16,4.0,1.0,2.0,Commanders,2012
-46,82.0,Logan Paulsen,2/26/1987,25.0,6-5,268.0,UCLA,TE,16,10.0,2.0,3.0,Commanders,2012
-47,74.0,Tyler Polumbus,4/10/1985,27.0,6-7,302.0,Colorado,RT,15,15.0,4.0,9.0,Commanders,2012
-48,32.0,Jordan Pugh,1/29/1988,24.0,5-11,191.0,Texas A&M,DB,13,0.0,2.0,1.0,Commanders,2012
-49,56.0,Perry Riley,5/3/1988,24.0,6-1,238.0,LSU,RILB,16,16.0,2.0,7.0,Commanders,2012
-50,11.0,Aldrick Robinson,9/24/1988,24.0,5-10,185.0,SMU,WR,15,2.0,0.0,3.0,Commanders,2012
-51,52.0,Keenan Robinson,7/7/1989,23.0,6-3,245.0,Texas,LB,11,0.0,0.0,1.0,Commanders,2012
-52,6.0,Saverio Rocca,11/20/1973,39.0,6-5,265.0,,P,16,0.0,5.0,1.0,Commanders,2012
-53,22.0,Evan Royster,11/26/1987,25.0,6-0,218.0,Penn St.,RB,16,0.0,1.0,2.0,Commanders,2012
-54,54.0,Justin Snow,12/21/1976,36.0,6-3,245.0,Baylor,LS,8,0.0,12.0,0.0,Commanders,2012
-55,57.0,Nick Sundberg,7/29/1987,25.0,6-1,254.0,California,LS,8,0.0,2.0,0.0,Commanders,2012
-56,55.0,Markus White,11/25/1987,25.0,6-3,266.0,"Butler (KS),Florida St.",DE,1,0.0,1.0,0.0,Commanders,2012
-57,25.0,Keiland Williams,8/14/1986,26.0,5-11,225.0,LSU,RB,9,0.0,2.0,0.0,Commanders,2012
-58,41.0,Madieu Williams,10/18/1981,31.0,6-1,209.0,"Towson,Maryland",FS,16,16.0,8.0,5.0,Commanders,2012
-59,71.0,Trent Williams,7/19/1988,24.0,6-5,320.0,Oklahoma,LT,16,16.0,2.0,13.0,Commanders,2012
-60,51.0,Chris Wilson,7/10/1982,30.0,6-4,240.0,Northwood,DE,16,0.0,5.0,1.0,Commanders,2012
-61,26.0,Josh Wilson,3/11/1985,27.0,5-9,189.0,Maryland,RCB,16,16.0,5.0,5.0,Commanders,2012
-62,90.0,Doug Worthington,8/10/1987,25.0,6-5,288.0,Ohio St.,DE,6,0.0,0.0,0.0,Commanders,2012
-63,36.0,Darrel Young,4/8/1987,25.0,5-11,248.0,Villanova,FB,16,8.0,2.0,2.0,Commanders,2012
-64,,Team Total,,26.8,6-1.6,240.8,,,16,,3.6,,Commanders,2012
+No.,Player,BirthDate,Age,Height,Weight,College/University,Position,Games_Played_in_Season,Games_Started_in_Season,NFL_Years,Player_Value,Team,Year
+58.0,Mario Addison,9/6/1987,25.0,6-3,260.0,Troy,LB,5,0.0,1.0,0.0,Commanders,2012
+97.0,Lorenzo Alexander,5/31/1983,29.0,6-1,245.0,California,LB,16,0.0,5.0,4.0,Commanders,2012
+92.0,Chris Baker,10/8/1987,25.0,6-2,306.0,Hampton,NT,14,0.0,3.0,0.0,Commanders,2012
+16.0,Brandon Banks,12/21/1987,25.0,5-7,150.0,Kansas St.,WR,12,0.0,2.0,0.0,Commanders,2012
+48.0,Jordan Bernstine,5/31/1989,23.0,5-11,205.0,Iowa,DB,1,0.0,0.0,0.0,Commanders,2012
+60.0,Jordan Black,1/28/1980,32.0,6-5,305.0,Notre Dame,T,14,0.0,8.0,1.0,Commanders,2012
+72.0,Stephen Bowen,3/28/1984,28.0,6-5,300.0,Hofstra,RDE,16,16.0,6.0,6.0,Commanders,2012
+19.0,Dezmon Briscoe,8/31/1989,23.0,6-3,200.0,Kansas,WR,7,0.0,2.0,0.0,Commanders,2012
+30.0,Crezdon Butler,5/26/1987,25.0,6-0,183.0,Clemson,DB,2,0.0,2.0,0.0,Commanders,2012
+94.0,Adam Carriker,5/6/1984,28.0,6-6,296.0,Nebraska,DE,2,2.0,5.0,1.0,Commanders,2012
+66.0,Chris Chester,1/12/1983,29.0,6-3,303.0,Oklahoma,RG,16,16.0,6.0,10.0,Commanders,2012
+96.0,Barry Cofield,3/19/1984,28.0,6-4,303.0,Northwestern,NT,16,16.0,6.0,6.0,Commanders,2012
+47.0,Chris Cooley,7/11/1982,30.0,6-3,255.0,Utah St.,TE,9,2.0,8.0,0.0,Commanders,2012
+12.0,Kirk Cousins,8/19/1988,24.0,6-3,205.0,Michigan St.,QB,3,1.0,0.0,2.0,Commanders,2012
+39.0,Richard Crawford,8/1/1990,22.0,5-11,192.0,SMU,DB,10,0.0,0.0,1.0,Commanders,2012
+5.0,Billy Cundiff,3/30/1980,32.0,6-1,212.0,Drake,K,5,0.0,10.0,-1.0,Commanders,2012
+83.0,Fred Davis,1/15/1986,26.0,6-3,250.0,USC,TE,7,7.0,4.0,3.0,Commanders,2012
+37.0,Reed Doughty,11/4/1982,30.0,6-1,206.0,Northern Colorado,SS,16,10.0,6.0,3.0,Commanders,2012
+59.0,London Fletcher,5/19/1975,37.0,5-10,242.0,John Carroll,LILB,16,16.0,14.0,12.0,Commanders,2012
+2.0,Kai Forbath,9/2/1987,25.0,5-11,197.0,UCLA,K,11,0.0,0.0,3.0,Commanders,2012
+88.0,Pierre Garcon,8/8/1986,26.0,6-0,211.0,Mount Union,WR,10,10.0,4.0,7.0,Commanders,2012
+64.0,Kedric Golston,5/30/1983,29.0,6-4,330.0,Georgia,DT,16,0.0,6.0,1.0,Commanders,2012
+24.0,DeJon Gomes,11/17/1989,23.0,6-0,208.0,Nebraska,DB,15,3.0,1.0,2.0,Commanders,2012
+25.0,Ryan Grant,12/9/1982,30.0,6-1,222.0,Notre Dame,RB,1,0.0,5.0,0.0,Commanders,2012
+20.0,Cedric Griffin,11/11/1982,30.0,6-0,195.0,Texas,DB,9,2.0,6.0,1.0,Commanders,2012
+10.0,Robert Griffin III,2/12/1990,22.0,6-2,213.0,Baylor,QB,15,15.0,0.0,18.0,Commanders,2012
+23.0,DeAngelo Hall,11/19/1983,29.0,5-10,200.0,Virginia Tech,LCB,16,16.0,8.0,5.0,Commanders,2012
+85.0,Leonard Hankerson,1/30/1989,23.0,6-1,205.0,Miami (FL),WR,16,5.0,1.0,6.0,Commanders,2012
+29.0,Roy Helu,12/7/1988,24.0,6-0,216.0,Nebraska,RB,3,0.0,1.0,0.0,Commanders,2012
+79.0,Maurice Hurt,9/8/1987,25.0,6-3,319.0,Florida,G,13,1.0,1.0,2.0,Commanders,2012
+50.0,Rob Jackson,11/3/1985,27.0,6-4,259.0,Kansas St.,ROLB,16,14.0,4.0,7.0,Commanders,2012
+99.0,Jarvis Jenkins,4/24/1988,24.0,6-4,300.0,Clemson,LDE,16,14.0,0.0,5.0,Commanders,2012
+30.0,D.J. Johnson,11/7/1985,27.0,6-1,192.0,Jackson St.,DB,7,0.0,3.0,0.0,Commanders,2012
+35.0,David Jones,9/19/1985,27.0,6-0,196.0,Wingate,DB,5,0.0,5.0,0.0,Commanders,2012
+53.0,Bryan Kehl,6/16/1984,28.0,6-2,234.0,BYU,LB,5,0.0,4.0,0.0,Commanders,2012
+91.0,Ryan Kerrigan,8/16/1988,24.0,6-4,267.0,Purdue,LOLB,16,16.0,1.0,9.0,Commanders,2012
+67.0,Josh LeRibeus,7/2/1989,23.0,6-2,315.0,SMU,G,5,0.0,0.0,1.0,Commanders,2012
+78.0,Kory Lichtensteiger,3/22/1985,27.0,6-3,296.0,Bowling Green,LG,16,16.0,4.0,10.0,Commanders,2012
+31.0,Brandon Meriweather,1/14/1984,28.0,5-11,195.0,Miami (FL),DB,1,1.0,5.0,0.0,Commanders,2012
+63.0,Will Montgomery,2/13/1983,29.0,6-3,304.0,Virginia Tech,C,16,16.0,6.0,10.0,Commanders,2012
+15.0,Josh Morgan,6/20/1985,27.0,6-0,218.0,Virginia Tech,WR,16,15.0,4.0,6.0,Commanders,2012
+46.0,Alfred Morris,12/12/1988,24.0,5-10,222.0,Florida Atlantic,RB,16,16.0,0.0,13.0,Commanders,2012
+89.0,Santana Moss,6/1/1979,33.0,5-10,193.0,Miami (FL),WR,16,1.0,11.0,6.0,Commanders,2012
+45.0,Jerome Murphy,1/13/1987,25.0,6-1,191.0,South Florida,DB,5,0.0,2.0,0.0,Commanders,2012
+98.0,Brian Orakpo,7/31/1986,26.0,6-4,257.0,Texas,LB,2,2.0,3.0,1.0,Commanders,2012
+84.0,Niles Paul,8/9/1989,23.0,6-1,242.0,Nebraska,WR,16,4.0,1.0,2.0,Commanders,2012
+82.0,Logan Paulsen,2/26/1987,25.0,6-5,268.0,UCLA,TE,16,10.0,2.0,3.0,Commanders,2012
+74.0,Tyler Polumbus,4/10/1985,27.0,6-7,302.0,Colorado,RT,15,15.0,4.0,9.0,Commanders,2012
+32.0,Jordan Pugh,1/29/1988,24.0,5-11,191.0,Texas A&M,DB,13,0.0,2.0,1.0,Commanders,2012
+56.0,Perry Riley,5/3/1988,24.0,6-1,238.0,LSU,RILB,16,16.0,2.0,7.0,Commanders,2012
+11.0,Aldrick Robinson,9/24/1988,24.0,5-10,185.0,SMU,WR,15,2.0,0.0,3.0,Commanders,2012
+52.0,Keenan Robinson,7/7/1989,23.0,6-3,245.0,Texas,LB,11,0.0,0.0,1.0,Commanders,2012
+6.0,Saverio Rocca,11/20/1973,39.0,6-5,265.0,,P,16,0.0,5.0,1.0,Commanders,2012
+22.0,Evan Royster,11/26/1987,25.0,6-0,218.0,Penn St.,RB,16,0.0,1.0,2.0,Commanders,2012
+54.0,Justin Snow,12/21/1976,36.0,6-3,245.0,Baylor,LS,8,0.0,12.0,0.0,Commanders,2012
+57.0,Nick Sundberg,7/29/1987,25.0,6-1,254.0,California,LS,8,0.0,2.0,0.0,Commanders,2012
+55.0,Markus White,11/25/1987,25.0,6-3,266.0,"Butler (KS),Florida St.",DE,1,0.0,1.0,0.0,Commanders,2012
+25.0,Keiland Williams,8/14/1986,26.0,5-11,225.0,LSU,RB,9,0.0,2.0,0.0,Commanders,2012
+41.0,Madieu Williams,10/18/1981,31.0,6-1,209.0,"Towson,Maryland",FS,16,16.0,8.0,5.0,Commanders,2012
+71.0,Trent Williams,7/19/1988,24.0,6-5,320.0,Oklahoma,LT,16,16.0,2.0,13.0,Commanders,2012
+51.0,Chris Wilson,7/10/1982,30.0,6-4,240.0,Northwood,DE,16,0.0,5.0,1.0,Commanders,2012
+26.0,Josh Wilson,3/11/1985,27.0,5-9,189.0,Maryland,RCB,16,16.0,5.0,5.0,Commanders,2012
+90.0,Doug Worthington,8/10/1987,25.0,6-5,288.0,Ohio St.,DE,6,0.0,0.0,0.0,Commanders,2012
+36.0,Darrel Young,4/8/1987,25.0,5-11,248.0,Villanova,FB,16,8.0,2.0,2.0,Commanders,2012
+,Team Total,,26.8,6-1.6,240.8,,,16,,3.6,,Commanders,2012

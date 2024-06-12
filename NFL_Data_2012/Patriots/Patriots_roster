@@ -1,69 +1,69 @@
-,No.,Player,BirthDate,Age,Height,Weight,College/University,Position,Games_Played_in_Season,Games_Started_in_Season,NFL_Years,Player_Value,Team,Year
-0,48.0,Danny Aiken,8/28/1988,24.0,6-4,250.0,Virginia,LS,16,0.0,1.0,1.0,Patriots,2012
-1,16.0,Kamar Aiken,5/30/1989,23.0,6-2,216.0,Central Florida,WR,1,0.0,1.0,0.0,Patriots,2012
-2,24.0,Kyle Arrington,8/12/1986,26.0,5-10,196.0,Hofstra,RCB,16,12.0,3.0,4.0,Patriots,2012
-3,92.0,Jake Bequette,2/21/1989,23.0,6-5,274.0,Arkansas,DE,3,0.0,0.0,0.0,Patriots,2012
-4,38.0,Brandon Bolden,1/26/1990,22.0,5-11,220.0,Mississippi,RB,10,0.0,0.0,2.0,Patriots,2012
-5,97.0,Ron Brace,12/18/1986,26.0,6-3,329.0,Boston Col.,DT,10,0.0,3.0,1.0,Patriots,2012
-6,12.0,Tom Brady,8/3/1977,35.0,6-4,225.0,Michigan,QB,16,16.0,12.0,19.0,Patriots,2012
-7,84.0,Deion Branch,7/18/1979,33.0,5-9,195.0,Louisville,WR,10,4.0,10.0,2.0,Patriots,2012
-8,61.0,Marcus Cannon,5/6/1988,24.0,6-6,335.0,TCU,T,16,1.0,1.0,2.0,Patriots,2012
-9,59.0,Bobby Carpenter,8/1/1983,29.0,6-2,249.0,Ohio St.,LB,4,0.0,6.0,0.0,Patriots,2012
-10,25.0,Patrick Chung,8/19/1987,25.0,5-11,215.0,Oregon,FS,12,8.0,3.0,3.0,Patriots,2012
-11,23.0,Marquice Cole,11/13/1983,29.0,5-11,184.0,Northwestern,DB,14,1.0,3.0,1.0,Patriots,2012
-12,63.0,Dan Connolly,9/2/1982,30.0,6-4,305.0,SE Missouri St.,RG,14,14.0,7.0,9.0,Patriots,2012
-13,96.0,Jermaine Cunningham,8/24/1988,24.0,6-2,248.0,Florida,LB,12,3.0,2.0,3.0,Patriots,2012
-14,71.0,Brandon Deaderick,8/19/1987,25.0,6-4,297.0,Alabama,RDT,14,5.0,2.0,3.0,Patriots,2012
-15,37.0,Alfonzo Dennard,9/9/1989,23.0,5-10,204.0,Nebraska,RCB,10,7.0,0.0,3.0,Patriots,2012
-16,35.0,James Develin,7/23/1988,24.0,6-3,255.0,Brown,RB,1,0.0,0.0,0.0,Patriots,2012
-17,21.0,Ras-I Dowling,5/9/1988,24.0,6-1,198.0,Virginia,DB,7,0.0,1.0,0.0,Patriots,2012
-18,43.0,Nate Ebner,12/14/1988,24.0,6-0,215.0,Ohio St.,DB,15,0.0,0.0,1.0,Patriots,2012
-19,11.0,Julian Edelman,5/22/1986,26.0,5-10,198.0,"San Mateo,Kent St.",WR,9,3.0,3.0,4.0,Patriots,2012
-20,86.0,Daniel Fells,9/23/1983,29.0,6-4,260.0,UC Davis,TE,13,4.0,4.0,1.0,Patriots,2012
-21,98.0,Marcus Forston,9/28/1989,23.0,6-3,305.0,Miami (FL),DT,1,0.0,0.0,0.0,Patriots,2012
-22,94.0,Justin Francis,2/8/1989,23.0,6-2,270.0,Rutgers,DE,10,0.0,0.0,1.0,Patriots,2012
-23,3.0,Stephen Gostkowski,1/28/1984,28.0,6-1,215.0,Memphis,K,16,0.0,6.0,3.0,Patriots,2012
-24,28.0,Steve Gregory,1/8/1983,29.0,5-11,200.0,Syracuse,SS,12,12.0,6.0,5.0,Patriots,2012
-25,87.0,Rob Gronkowski,5/14/1989,23.0,6-6,265.0,Arizona,TE,11,11.0,2.0,9.0,Patriots,2012
-26,81.0,Aaron Hernandez,11/6/1989,23.0,6-2,250.0,Florida,TE,10,10.0,2.0,5.0,Patriots,2012
-27,54.0,Dont'a Hightower,3/12/1990,22.0,6-3,260.0,Alabama,RLB,14,13.0,0.0,7.0,Patriots,2012
-28,30.0,Lex Hilliard,7/30/1984,28.0,5-11,233.0,Montana,RB,2,0.0,3.0,0.0,Patriots,2012
-29,47.0,Michael Hoomanawanui,7/4/1988,24.0,6-4,265.0,Illinois,TE,14,6.0,2.0,1.0,Patriots,2012
-30,95.0,Chandler Jones,2/27/1990,22.0,6-5,265.0,Syracuse,RDE,14,13.0,0.0,6.0,Patriots,2012
-31,90.0,Niko Koutouvides,3/25/1981,31.0,6-2,238.0,Purdue,LB,14,0.0,8.0,1.0,Patriots,2012
-32,85.0,Brandon Lloyd,7/5/1981,31.0,6-0,200.0,Illinois,WR,16,15.0,9.0,10.0,Patriots,2012
-33,74.0,Kyle Love,11/18/1986,26.0,6-1,310.0,Mississippi St.,RDT,16,11.0,2.0,5.0,Patriots,2012
-34,15.0,Ryan Mallett,6/5/1988,24.0,6-6,240.0,"Michigan,Arkansas",QB,4,0.0,0.0,0.0,Patriots,2012
-35,70.0,Logan Mankins,3/10/1982,30.0,6-4,308.0,Fresno St.,LG,10,10.0,7.0,11.0,Patriots,2012
-36,26.0,Derrick Martin,5/16/1985,27.0,5-10,198.0,Wyoming,DB,5,0.0,6.0,0.0,Patriots,2012
-37,51.0,Jerod Mayo,2/23/1986,26.0,6-2,230.0,Tennessee,LLB,16,16.0,4.0,11.0,Patriots,2012
-38,93.0,Terrell McClain,7/20/1988,24.0,6-2,300.0,South Florida,DT,1,0.0,1.0,0.0,Patriots,2012
-39,32.0,Devin McCourty,8/13/1987,25.0,5-10,195.0,Rutgers,LCB/FS,16,16.0,2.0,7.0,Patriots,2012
-40,65.0,Nick McDonald,6/27/1987,25.0,6-4,316.0,Grand Valley St.,G,12,1.0,1.0,2.0,Patriots,2012
-41,14.0,Zoltan Mesko,3/16/1986,26.0,6-4,234.0,Michigan,P,16,0.0,2.0,1.0,Patriots,2012
-42,29.0,Sterling Moore,2/3/1990,22.0,5-9,200.0,"Laney,SMU",DB,8,0.0,1.0,1.0,Patriots,2012
-43,50.0,Rob Ninkovich,2/1/1984,28.0,6-2,260.0,Purdue,LDE,16,16.0,6.0,9.0,Patriots,2012
-44,67.0,Mitch Petrus,5/11/1987,25.0,6-3,311.0,Arkansas,G,2,0.0,2.0,0.0,Patriots,2012
-45,22.0,Stevan Ridley,1/27/1989,23.0,5-11,220.0,LSU,RB,16,12.0,1.0,11.0,Patriots,2012
-46,59.0,Mike Rivera,1/10/1986,26.0,6-3,255.0,Kansas,LB,10,1.0,0.0,1.0,Patriots,2012
-47,17.0,Greg Salas,8/25/1988,24.0,6-1,206.0,Hawaii,WR,1,0.0,1.0,0.0,Patriots,2012
-48,99.0,Trevor Scott,8/30/1984,28.0,6-5,256.0,Buffalo,DE,14,2.0,4.0,2.0,Patriots,2012
-49,80.0,Visanthe Shiancoe,6/18/1980,32.0,6-4,250.0,Morgan St.,TE,4,0.0,9.0,0.0,Patriots,2012
-50,18.0,Matthew Slater,9/9/1985,27.0,6-0,205.0,UCLA,WR,16,0.0,4.0,0.0,Patriots,2012
-51,77.0,Nate Solder,4/12/1988,24.0,6-9,316.0,Colorado,LT,16,16.0,1.0,11.0,Patriots,2012
-52,55.0,Brandon Spikes,9/3/1987,25.0,6-3,250.0,Florida,MLB,15,14.0,2.0,7.0,Patriots,2012
-53,19.0,Donte' Stallworth,11/10/1980,32.0,6-0,197.0,Tennessee,WR,1,0.0,10.0,1.0,Patriots,2012
-54,31.0,Aqib Talib,2/13/1986,26.0,6-1,209.0,Kansas,LCB,6,5.0,4.0,2.0,Patriots,2012
-55,53.0,Jeff Tarpinian,10/16/1987,25.0,6-3,238.0,Iowa,LB,3,0.0,1.0,0.0,Patriots,2012
-56,64.0,Donald Thomas,9/25/1985,27.0,6-3,295.0,Connecticut,LG,16,7.0,4.0,6.0,Patriots,2012
-57,34.0,Shane Vereen,5/2/1989,23.0,5-10,205.0,California,RB,13,1.0,1.0,4.0,Patriots,2012
-58,76.0,Sebastian Vollmer,7/10/1984,28.0,6-8,315.0,Houston,RT,15,15.0,3.0,10.0,Patriots,2012
-59,83.0,Wes Welker,5/1/1981,31.0,5-9,185.0,Texas Tech,WR,16,12.0,8.0,15.0,Patriots,2012
-60,62.0,Ryan Wendell,3/4/1986,26.0,6-2,275.0,Fresno St.,C,16,16.0,3.0,11.0,Patriots,2012
-61,58.0,Tracy White,4/14/1981,31.0,6-0,235.0,Howard,LB,11,1.0,9.0,1.0,Patriots,2012
-62,75.0,Vince Wilfork,11/4/1981,31.0,6-2,325.0,Miami (FL),LDT,16,16.0,8.0,16.0,Patriots,2012
-63,41.0,Malcolm Williams,11/22/1987,25.0,5-11,200.0,"TCU,Trinity Valley CC (TX)",DB,2,0.0,1.0,0.0,Patriots,2012
-64,27.0,Tavon Wilson,3/19/1990,22.0,6-0,208.0,Illinois,DB,16,4.0,0.0,3.0,Patriots,2012
-65,82.0,Kellen Winslow,7/21/1983,29.0,6-4,240.0,Miami (FL),TE,1,0.0,8.0,0.0,Patriots,2012
-66,39.0,Danny Woodhead,1/25/1985,27.0,5-8,204.0,Chadron St.,RB,16,2.0,3.0,7.0,Patriots,2012
-67,,Team Total,,26.2,6-1.7,245.1,,,16,,3.3,,Patriots,2012
+No.,Player,BirthDate,Age,Height,Weight,College/University,Position,Games_Played_in_Season,Games_Started_in_Season,NFL_Years,Player_Value,Team,Year
+48.0,Danny Aiken,8/28/1988,24.0,6-4,250.0,Virginia,LS,16,0.0,1.0,1.0,Patriots,2012
+16.0,Kamar Aiken,5/30/1989,23.0,6-2,216.0,Central Florida,WR,1,0.0,1.0,0.0,Patriots,2012
+24.0,Kyle Arrington,8/12/1986,26.0,5-10,196.0,Hofstra,RCB,16,12.0,3.0,4.0,Patriots,2012
+92.0,Jake Bequette,2/21/1989,23.0,6-5,274.0,Arkansas,DE,3,0.0,0.0,0.0,Patriots,2012
+38.0,Brandon Bolden,1/26/1990,22.0,5-11,220.0,Mississippi,RB,10,0.0,0.0,2.0,Patriots,2012
+97.0,Ron Brace,12/18/1986,26.0,6-3,329.0,Boston Col.,DT,10,0.0,3.0,1.0,Patriots,2012
+12.0,Tom Brady,8/3/1977,35.0,6-4,225.0,Michigan,QB,16,16.0,12.0,19.0,Patriots,2012
+84.0,Deion Branch,7/18/1979,33.0,5-9,195.0,Louisville,WR,10,4.0,10.0,2.0,Patriots,2012
+61.0,Marcus Cannon,5/6/1988,24.0,6-6,335.0,TCU,T,16,1.0,1.0,2.0,Patriots,2012
+59.0,Bobby Carpenter,8/1/1983,29.0,6-2,249.0,Ohio St.,LB,4,0.0,6.0,0.0,Patriots,2012
+25.0,Patrick Chung,8/19/1987,25.0,5-11,215.0,Oregon,FS,12,8.0,3.0,3.0,Patriots,2012
+23.0,Marquice Cole,11/13/1983,29.0,5-11,184.0,Northwestern,DB,14,1.0,3.0,1.0,Patriots,2012
+63.0,Dan Connolly,9/2/1982,30.0,6-4,305.0,SE Missouri St.,RG,14,14.0,7.0,9.0,Patriots,2012
+96.0,Jermaine Cunningham,8/24/1988,24.0,6-2,248.0,Florida,LB,12,3.0,2.0,3.0,Patriots,2012
+71.0,Brandon Deaderick,8/19/1987,25.0,6-4,297.0,Alabama,RDT,14,5.0,2.0,3.0,Patriots,2012
+37.0,Alfonzo Dennard,9/9/1989,23.0,5-10,204.0,Nebraska,RCB,10,7.0,0.0,3.0,Patriots,2012
+35.0,James Develin,7/23/1988,24.0,6-3,255.0,Brown,RB,1,0.0,0.0,0.0,Patriots,2012
+21.0,Ras-I Dowling,5/9/1988,24.0,6-1,198.0,Virginia,DB,7,0.0,1.0,0.0,Patriots,2012
+43.0,Nate Ebner,12/14/1988,24.0,6-0,215.0,Ohio St.,DB,15,0.0,0.0,1.0,Patriots,2012
+11.0,Julian Edelman,5/22/1986,26.0,5-10,198.0,"San Mateo,Kent St.",WR,9,3.0,3.0,4.0,Patriots,2012
+86.0,Daniel Fells,9/23/1983,29.0,6-4,260.0,UC Davis,TE,13,4.0,4.0,1.0,Patriots,2012
+98.0,Marcus Forston,9/28/1989,23.0,6-3,305.0,Miami (FL),DT,1,0.0,0.0,0.0,Patriots,2012
+94.0,Justin Francis,2/8/1989,23.0,6-2,270.0,Rutgers,DE,10,0.0,0.0,1.0,Patriots,2012
+3.0,Stephen Gostkowski,1/28/1984,28.0,6-1,215.0,Memphis,K,16,0.0,6.0,3.0,Patriots,2012
+28.0,Steve Gregory,1/8/1983,29.0,5-11,200.0,Syracuse,SS,12,12.0,6.0,5.0,Patriots,2012
+87.0,Rob Gronkowski,5/14/1989,23.0,6-6,265.0,Arizona,TE,11,11.0,2.0,9.0,Patriots,2012
+81.0,Aaron Hernandez,11/6/1989,23.0,6-2,250.0,Florida,TE,10,10.0,2.0,5.0,Patriots,2012
+54.0,Dont'a Hightower,3/12/1990,22.0,6-3,260.0,Alabama,RLB,14,13.0,0.0,7.0,Patriots,2012
+30.0,Lex Hilliard,7/30/1984,28.0,5-11,233.0,Montana,RB,2,0.0,3.0,0.0,Patriots,2012
+47.0,Michael Hoomanawanui,7/4/1988,24.0,6-4,265.0,Illinois,TE,14,6.0,2.0,1.0,Patriots,2012
+95.0,Chandler Jones,2/27/1990,22.0,6-5,265.0,Syracuse,RDE,14,13.0,0.0,6.0,Patriots,2012
+90.0,Niko Koutouvides,3/25/1981,31.0,6-2,238.0,Purdue,LB,14,0.0,8.0,1.0,Patriots,2012
+85.0,Brandon Lloyd,7/5/1981,31.0,6-0,200.0,Illinois,WR,16,15.0,9.0,10.0,Patriots,2012
+74.0,Kyle Love,11/18/1986,26.0,6-1,310.0,Mississippi St.,RDT,16,11.0,2.0,5.0,Patriots,2012
+15.0,Ryan Mallett,6/5/1988,24.0,6-6,240.0,"Michigan,Arkansas",QB,4,0.0,0.0,0.0,Patriots,2012
+70.0,Logan Mankins,3/10/1982,30.0,6-4,308.0,Fresno St.,LG,10,10.0,7.0,11.0,Patriots,2012
+26.0,Derrick Martin,5/16/1985,27.0,5-10,198.0,Wyoming,DB,5,0.0,6.0,0.0,Patriots,2012
+51.0,Jerod Mayo,2/23/1986,26.0,6-2,230.0,Tennessee,LLB,16,16.0,4.0,11.0,Patriots,2012
+93.0,Terrell McClain,7/20/1988,24.0,6-2,300.0,South Florida,DT,1,0.0,1.0,0.0,Patriots,2012
+32.0,Devin McCourty,8/13/1987,25.0,5-10,195.0,Rutgers,LCB/FS,16,16.0,2.0,7.0,Patriots,2012
+65.0,Nick McDonald,6/27/1987,25.0,6-4,316.0,Grand Valley St.,G,12,1.0,1.0,2.0,Patriots,2012
+14.0,Zoltan Mesko,3/16/1986,26.0,6-4,234.0,Michigan,P,16,0.0,2.0,1.0,Patriots,2012
+29.0,Sterling Moore,2/3/1990,22.0,5-9,200.0,"Laney,SMU",DB,8,0.0,1.0,1.0,Patriots,2012
+50.0,Rob Ninkovich,2/1/1984,28.0,6-2,260.0,Purdue,LDE,16,16.0,6.0,9.0,Patriots,2012
+67.0,Mitch Petrus,5/11/1987,25.0,6-3,311.0,Arkansas,G,2,0.0,2.0,0.0,Patriots,2012
+22.0,Stevan Ridley,1/27/1989,23.0,5-11,220.0,LSU,RB,16,12.0,1.0,11.0,Patriots,2012
+59.0,Mike Rivera,1/10/1986,26.0,6-3,255.0,Kansas,LB,10,1.0,0.0,1.0,Patriots,2012
+17.0,Greg Salas,8/25/1988,24.0,6-1,206.0,Hawaii,WR,1,0.0,1.0,0.0,Patriots,2012
+99.0,Trevor Scott,8/30/1984,28.0,6-5,256.0,Buffalo,DE,14,2.0,4.0,2.0,Patriots,2012
+80.0,Visanthe Shiancoe,6/18/1980,32.0,6-4,250.0,Morgan St.,TE,4,0.0,9.0,0.0,Patriots,2012
+18.0,Matthew Slater,9/9/1985,27.0,6-0,205.0,UCLA,WR,16,0.0,4.0,0.0,Patriots,2012
+77.0,Nate Solder,4/12/1988,24.0,6-9,316.0,Colorado,LT,16,16.0,1.0,11.0,Patriots,2012
+55.0,Brandon Spikes,9/3/1987,25.0,6-3,250.0,Florida,MLB,15,14.0,2.0,7.0,Patriots,2012
+19.0,Donte' Stallworth,11/10/1980,32.0,6-0,197.0,Tennessee,WR,1,0.0,10.0,1.0,Patriots,2012
+31.0,Aqib Talib,2/13/1986,26.0,6-1,209.0,Kansas,LCB,6,5.0,4.0,2.0,Patriots,2012
+53.0,Jeff Tarpinian,10/16/1987,25.0,6-3,238.0,Iowa,LB,3,0.0,1.0,0.0,Patriots,2012
+64.0,Donald Thomas,9/25/1985,27.0,6-3,295.0,Connecticut,LG,16,7.0,4.0,6.0,Patriots,2012
+34.0,Shane Vereen,5/2/1989,23.0,5-10,205.0,California,RB,13,1.0,1.0,4.0,Patriots,2012
+76.0,Sebastian Vollmer,7/10/1984,28.0,6-8,315.0,Houston,RT,15,15.0,3.0,10.0,Patriots,2012
+83.0,Wes Welker,5/1/1981,31.0,5-9,185.0,Texas Tech,WR,16,12.0,8.0,15.0,Patriots,2012
+62.0,Ryan Wendell,3/4/1986,26.0,6-2,275.0,Fresno St.,C,16,16.0,3.0,11.0,Patriots,2012
+58.0,Tracy White,4/14/1981,31.0,6-0,235.0,Howard,LB,11,1.0,9.0,1.0,Patriots,2012
+75.0,Vince Wilfork,11/4/1981,31.0,6-2,325.0,Miami (FL),LDT,16,16.0,8.0,16.0,Patriots,2012
+41.0,Malcolm Williams,11/22/1987,25.0,5-11,200.0,"TCU,Trinity Valley CC (TX)",DB,2,0.0,1.0,0.0,Patriots,2012
+27.0,Tavon Wilson,3/19/1990,22.0,6-0,208.0,Illinois,DB,16,4.0,0.0,3.0,Patriots,2012
+82.0,Kellen Winslow,7/21/1983,29.0,6-4,240.0,Miami (FL),TE,1,0.0,8.0,0.0,Patriots,2012
+39.0,Danny Woodhead,1/25/1985,27.0,5-8,204.0,Chadron St.,RB,16,2.0,3.0,7.0,Patriots,2012
+,Team Total,,26.2,6-1.7,245.1,,,16,,3.3,,Patriots,2012

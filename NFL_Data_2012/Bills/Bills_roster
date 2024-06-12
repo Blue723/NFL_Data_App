@@ -1,0 +1,66 @@
+Player,BirthDate,Age,Height,Weight,College/University,Position,Games_Played_in_Season,Games_Started_in_Season,NFL_Years,Player_Value,Team,Year
+Mark Anderson,5/26/1983,29.0,6-4,255.0,Alabama,DE,5,4.0,6.0,2.0,Bills,2012
+Nick Barnett,5/27/1981,31.0,6-2,228.0,Oregon St.,RLB,16,16.0,9.0,6.0,Bills,2012
+Nigel Bradham,9/4/1989,23.0,6-2,241.0,Florida St.,LLB,16,11.0,0.0,4.0,Bills,2012
+Ron Brooks,10/16/1988,24.0,5-10,190.0,LSU,DB,9,2.0,0.0,1.0,Bills,2012
+Colin Brown,8/29/1985,27.0,6-8,325.0,Missouri,T,1,1.0,1.0,0.0,Bills,2012
+Crezdon Butler,5/26/1987,25.0,6-0,183.0,Clemson,DB,5,0.0,2.0,0.0,Bills,2012
+Jairus Byrd,10/7/1986,26.0,6-0,205.0,Oregon,FS,16,16.0,3.0,9.0,Bills,2012
+Alex Carrington,6/19/1987,25.0,6-5,284.0,Arkansas St.,DE,16,0.0,2.0,1.0,Bills,2012
+Scott Chandler,7/23/1985,27.0,6-7,270.0,Iowa,TE,15,13.0,5.0,5.0,Bills,2012
+Tashard Choice,11/20/1984,28.0,5-10,210.0,"Oklahoma,Georgia Tech",RB,12,0.0,4.0,1.0,Bills,2012
+Marcell Dareus,3/13/1990,22.0,6-3,331.0,Alabama,LDT,16,16.0,1.0,6.0,Bills,2012
+Dorin Dickerson,3/31/1988,24.0,6-2,230.0,Pittsburgh,TE,11,0.0,2.0,1.0,Bills,2012
+Marcus Easley,11/2/1987,25.0,6-2,225.0,Connecticut,WR,3,0.0,0.0,0.0,Bills,2012
+Ryan Fitzpatrick,11/24/1982,30.0,6-2,221.0,Harvard,QB,16,16.0,7.0,11.0,Bills,2012
+Stephon Gilmore,9/19/1990,22.0,6-0,190.0,South Carolina,RCB,16,16.0,0.0,5.0,Bills,2012
+Cordy Glenn,9/18/1989,23.0,6-6,345.0,Georgia,LT,13,13.0,0.0,6.0,Bills,2012
+T.J. Graham,7/4/1989,23.0,6-2,210.0,North Carolina St.,TE,15,11.0,0.0,3.0,Bills,2012
+Chris Hairston,4/26/1989,23.0,6-6,323.0,Clemson,LT/RT,12,8.0,1.0,4.0,Bills,2012
+Delano Howell,11/17/1989,23.0,5-11,191.0,Stanford,DB,1,0.0,0.0,0.0,Bills,2012
+Fred Jackson,2/20/1981,31.0,6-1,215.0,Coe College,RB,10,8.0,5.0,4.0,Bills,2012
+Spencer Johnson,12/12/1981,31.0,6-3,304.0,Auburn,DT,14,0.0,8.0,1.0,Bills,2012
+Stevie Johnson,11/28/1986,26.0,6-2,210.0,Kentucky,WR,16,16.0,4.0,9.0,Bills,2012
+Donald Jones,12/17/1987,25.0,6-0,214.0,Youngstown St.,WR,12,10.0,2.0,4.0,Bills,2012
+Chris Kelsay,10/31/1979,33.0,6-4,263.0,Nebraska,DE,9,4.0,9.0,2.0,Bills,2012
+Andy Levitre,5/15/1986,26.0,6-2,303.0,Oregon St.,LG,16,16.0,3.0,7.0,Bills,2012
+Rian Lindell,1/20/1977,35.0,6-3,227.0,Washington St.,K,16,0.0,12.0,3.0,Bills,2012
+Greg Lloyd,2/10/1989,23.0,6-1,247.0,Connecticut,LB,2,0.0,0.0,0.0,Bills,2012
+Ruvell Martin,8/10/1982,30.0,6-4,214.0,Saginaw Valley St.,WR,14,0.0,6.0,0.0,Bills,2012
+Terrence McGee,10/14/1980,32.0,5-9,205.0,Northwestern St. (LA),DB,7,0.0,9.0,0.0,Bills,2012
+Corey McIntyre,1/25/1979,33.0,6-0,245.0,West Virginia,FB,16,3.0,7.0,0.0,Bills,2012
+Leodis McKelvin,9/1/1985,27.0,5-11,190.0,Troy,DB,13,4.0,4.0,4.0,Bills,2012
+Shawne Merriman,5/25/1984,28.0,6-4,264.0,Maryland,LB,10,1.0,7.0,1.0,Bills,2012
+Arthur Moats,3/14/1988,24.0,6-0,246.0,James Madison,LB,14,4.0,2.0,2.0,Bills,2012
+Kyle Moore,10/25/1986,26.0,6-4,265.0,USC,RDE,12,7.0,3.0,3.0,Bills,2012
+Brian Moorman,2/5/1976,36.0,6-0,174.0,Pittsburg St.,P,3,0.0,11.0,0.0,Bills,2012
+Kirk Morrison,2/19/1982,30.0,6-2,245.0,San Diego St.,LB,2,0.0,7.0,0.0,Bills,2012
+David Nelson,11/7/1986,26.0,6-5,217.0,Florida,WR,1,1.0,2.0,0.0,Bills,2012
+Erik Pears,6/25/1982,30.0,6-8,316.0,Colorado St.,RT,7,7.0,6.0,3.0,Bills,2012
+John Potter,1/24/1990,22.0,6-2,209.0,Western Michigan,K,6,0.0,0.0,0.0,Bills,2012
+Shawn Powell,11/29/1988,24.0,6-4,253.0,Florida St.,P,13,0.0,0.0,1.0,Bills,2012
+Chad Rinehart,5/4/1985,27.0,6-5,320.0,Northern Iowa,G,7,2.0,3.0,1.0,Bills,2012
+Justin Rogers,1/16/1988,24.0,5-11,180.0,Richmond,DB,16,1.0,1.0,1.0,Bills,2012
+Jay Ross,10/3/1987,25.0,6-3,302.0,East Carolina,DT,1,0.0,0.0,0.0,Bills,2012
+Garrison Sanborn,7/31/1985,27.0,6-1,240.0,Florida St.,LS,16,0.0,3.0,2.0,Bills,2012
+Bryan Scott,4/13/1981,31.0,6-1,220.0,Penn St.,LB,16,1.0,9.0,6.0,Bills,2012
+Da'Norris Searcy,11/16/1988,24.0,5-11,205.0,North Carolina,DB,15,0.0,1.0,1.0,Bills,2012
+Kelvin Sheppard,1/2/1988,24.0,6-2,249.0,LSU,MLB,16,15.0,1.0,5.0,Bills,2012
+Mana Silva,8/17/1988,24.0,6-0,206.0,Hawaii,DB,7,0.0,1.0,0.0,Bills,2012
+Brad Smith,12/12/1983,29.0,6-2,213.0,Missouri,WR/QB,15,2.0,6.0,3.0,Bills,2012
+Lee Smith,11/21/1987,25.0,6-6,265.0,"Tennessee,Marshall",WR,16,7.0,1.0,0.0,Bills,2012
+David Snow,11/9/1989,23.0,6-4,303.0,Texas,C,5,2.0,0.0,1.0,Bills,2012
+C.J. Spiller,8/5/1987,25.0,5-11,194.0,Clemson,RB,16,9.0,2.0,13.0,Bills,2012
+Tyler Thigpen,4/14/1984,28.0,6-3,235.0,Coastal Carolina,QB,4,0.0,5.0,0.0,Bills,2012
+Kraig Urbik,9/23/1985,27.0,6-5,323.0,Wisconsin,RG,13,13.0,2.0,6.0,Bills,2012
+Thomas Welch,6/19/1987,25.0,6-6,306.0,Vanderbilt,T,3,0.0,1.0,0.0,Bills,2012
+Chris White,1/15/1989,23.0,6-2,241.0,"Mississippi Gulf Coast CC,Mississippi St.",LB,15,0.0,1.0,1.0,Bills,2012
+Johnny White,2/3/1988,24.0,5-10,200.0,North Carolina,RB,3,0.0,1.0,0.0,Bills,2012
+Aaron Williams,4/23/1990,22.0,6-0,195.0,Texas,LCB,11,10.0,1.0,3.0,Bills,2012
+Keith Williams,4/8/1988,24.0,6-4,312.0,Nebraska,G,2,0.0,0.0,0.0,Bills,2012
+Kyle Williams,6/10/1983,29.0,6-1,303.0,LSU,RDT,16,16.0,6.0,8.0,Bills,2012
+Mario Williams,1/31/1985,27.0,6-6,300.0,North Carolina St.,LDE,16,16.0,6.0,7.0,Bills,2012
+George Wilson,3/14/1981,31.0,6-0,210.0,Arkansas,SS,16,16.0,7.0,5.0,Bills,2012
+Eric Wood,3/18/1986,26.0,6-4,310.0,Louisville,C,14,14.0,3.0,6.0,Bills,2012
+Sam Young,6/24/1987,25.0,6-8,302.0,Notre Dame,T,12,4.0,2.0,3.0,Bills,2012
+Team Total,,26.5,6-2.3,247.1,,,16,,3.3,,Bills,2012

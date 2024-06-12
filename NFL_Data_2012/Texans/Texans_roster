@@ -1,62 +1,62 @@
-,No.,Player,BirthDate,Age,Height,Weight,College/University,Position,Games_Played_in_Season,Games_Started_in_Season,NFL_Years,Player_Value,Team,Year
-0,54.0,Mister Alexander,6/2/1988,24.0,6-3,227.0,Florida St.,LB,6,0.0,1.0,0.0,Texans,2012
-1,22.0,Alan Ball,3/29/1985,27.0,6-1,176.0,Illinois,DB,11,1.0,5.0,1.0,Texans,2012
-2,98.0,Connor Barwin,10/15/1986,26.0,6-4,255.0,Cincinnati,ROLB,16,16.0,3.0,8.0,Texans,2012
-3,50.0,Bryan Braman,5/4/1987,25.0,6-5,230.0,West Texas A&M,LB,14,0.0,1.0,1.0,Texans,2012
-4,79.0,Brandon Brooks,8/19/1989,23.0,6-5,335.0,Miami (OH),G,6,0.0,0.0,0.0,Texans,2012
-5,76.0,Duane Brown,8/30/1985,27.0,6-4,329.0,Virginia Tech,LT,16,16.0,4.0,13.0,Texans,2012
-6,62.0,Antoine Caldwell,4/19/1986,26.0,6-3,307.0,Alabama,RG,11,6.0,3.0,3.0,Texans,2012
-7,20.0,Roc Carmichael,9/9/1988,24.0,5-10,185.0,Virginia Tech,DB,6,0.0,0.0,0.0,Texans,2012
-8,86.0,James Casey,9/22/1984,28.0,6-3,235.0,Rice,FB,16,9.0,3.0,3.0,Texans,2012
-9,40.0,Tyler Clutts,11/9/1984,28.0,6-2,260.0,Fresno St.,RB,16,0.0,1.0,0.0,Texans,2012
-10,95.0,Shaun Cody,1/22/1983,29.0,6-4,307.0,USC,NT,13,12.0,7.0,5.0,Texans,2012
-11,49.0,Cameron Collins,9/29/1989,23.0,6-2,241.0,Oregon St.,LB,0,0.0,0.0,0.0,Texans,2012
-12,93.0,Jared Crick,8/21/1989,23.0,6-4,285.0,Nebraska,DE,15,0.0,0.0,2.0,Texans,2012
-13,56.0,Brian Cushing,1/24/1987,25.0,6-3,255.0,USC,LILB,5,5.0,3.0,3.0,Texans,2012
-14,81.0,Owen Daniels,11/9/1982,30.0,6-3,245.0,Wisconsin,TE,15,14.0,6.0,6.0,Texans,2012
-15,27.0,Quintin Demps,6/29/1985,27.0,6-0,203.0,Texas-El Paso,DB,12,0.0,4.0,1.0,Texans,2012
-16,52.0,Tim Dobbins,12/10/1982,30.0,6-1,234.0,Iowa St.,LILB,14,6.0,6.0,5.0,Texans,2012
-17,28.0,Justin Forsett,10/14/1985,27.0,5-8,195.0,California,RB,16,0.0,4.0,3.0,Texans,2012
-18,23.0,Arian Foster,8/24/1986,26.0,6-1,227.0,Tennessee,RB,16,16.0,3.0,10.0,Texans,2012
-19,66.0,Andrew Gardner,4/4/1986,26.0,6-7,304.0,Georgia Tech,T,3,0.0,3.0,0.0,Texans,2012
-20,88.0,Garrett Graham,8/4/1986,26.0,6-3,245.0,Wisconsin,FB,15,9.0,2.0,2.0,Texans,2012
-21,17.0,Shayne Graham,12/9/1977,35.0,6-0,210.0,Virginia Tech,K,16,0.0,11.0,3.0,Texans,2012
-22,43.0,Jonathan Grimes,12/21/1989,23.0,5-10,207.0,William & Mary,RB,6,0.0,0.0,0.0,Texans,2012
-23,26.0,Brandon Harris,1/24/1990,22.0,5-11,195.0,Miami (FL),DB,8,0.0,1.0,1.0,Texans,2012
-24,68.0,Ryan Harris,3/11/1985,27.0,6-5,299.0,Notre Dame,T,16,2.0,5.0,2.0,Texans,2012
-25,16.0,Trindon Holliday,4/27/1986,26.0,5-5,162.0,LSU,WR,5,0.0,1.0,0.0,Texans,2012
-26,25.0,Kareem Jackson,4/10/1988,24.0,5-10,183.0,Alabama,LCB,16,15.0,2.0,7.0,Texans,2012
-27,53.0,Bradie James,1/17/1981,31.0,6-2,240.0,LSU,RILB,15,15.0,9.0,8.0,Texans,2012
-28,96.0,Tim Jamison,2/26/1986,26.0,6-3,263.0,Michigan,DE,6,0.0,3.0,1.0,Texans,2012
-29,18.0,Lestar Jean,2/5/1988,24.0,6-3,215.0,Florida Atlantic,WR,14,1.0,0.0,1.0,Texans,2012
-30,80.0,Andre Johnson,7/11/1981,31.0,6-3,229.0,Miami (FL),WR,16,16.0,9.0,13.0,Texans,2012
-31,60.0,Ben Jones,7/2/1989,23.0,6-3,308.0,Georgia,RG,16,10.0,0.0,5.0,Texans,2012
-32,5.0,Donnie Jones,7/5/1980,32.0,6-2,221.0,LSU,P,16,0.0,8.0,3.0,Texans,2012
-33,24.0,Johnathan Joseph,4/16/1984,28.0,5-11,186.0,South Carolina,RCB,14,14.0,6.0,10.0,Texans,2012
-34,31.0,Shiloh Keo,12/17/1987,25.0,5-11,223.0,Idaho,DB,16,0.0,1.0,1.0,Texans,2012
-35,38.0,Danieal Manning,8/9/1982,30.0,5-11,212.0,Abilene Christian,SS,16,16.0,6.0,7.0,Texans,2012
-36,82.0,Keshawn Martin,3/15/1990,22.0,5-10,190.0,Michigan St.,WR,16,1.0,0.0,1.0,Texans,2012
-37,21.0,Brice McCain,12/10/1986,26.0,5-9,190.0,Utah,DB,12,2.0,3.0,2.0,Texans,2012
-38,97.0,Terrell McClain,7/20/1988,24.0,6-2,300.0,South Florida,DT,3,0.0,1.0,0.0,Texans,2012
-39,59.0,Whitney Mercilus,7/21/1990,22.0,6-4,258.0,Illinois,LB,16,4.0,0.0,3.0,Texans,2012
-40,92.0,Earl Mitchell,9/25/1987,25.0,6-3,310.0,Arizona,DT,16,3.0,2.0,3.0,Texans,2012
-41,55.0,Chris Myers,9/15/1981,31.0,6-4,286.0,Miami (FL),C,16,16.0,7.0,9.0,Texans,2012
-42,57.0,Jesse Nading,7/3/1985,27.0,6-5,258.0,Colorado St.,DE,16,0.0,4.0,1.0,Texans,2012
-43,75.0,Derek Newton,11/16/1987,25.0,6-6,315.0,"Hinds CC,Arkansas St.",RT,14,14.0,1.0,6.0,Texans,2012
-44,33.0,Troy Nolan,9/7/1986,26.0,6-1,206.0,Arizona St.,DB,4,1.0,2.0,1.0,Texans,2012
-45,35.0,Eddie Pleasant,12/17/1988,24.0,5-10,210.0,Oregon,DB,2,0.0,0.0,0.0,Texans,2012
-46,11.0,DeVier Posey,3/15/1990,22.0,6-1,214.0,Ohio St.,WR,11,0.0,0.0,1.0,Texans,2012
-47,29.0,Glover Quin,1/15/1986,26.0,6-0,207.0,"Southwest Mississippi CC,New Mexico",FS,16,16.0,3.0,7.0,Texans,2012
-48,58.0,Brooks Reed,2/28/1987,25.0,6-3,254.0,Arizona,LOLB,12,12.0,1.0,5.0,Texans,2012
-49,30.0,Stanford Routt,7/23/1983,29.0,6-1,195.0,Houston,DB,2,0.0,7.0,0.0,Texans,2012
-50,54.0,Barrett Ruud,5/20/1983,29.0,6-2,241.0,Nebraska,LB,9,1.0,7.0,1.0,Texans,2012
-51,8.0,Matt Schaub,6/25/1981,31.0,6-6,245.0,Virginia,QB,16,16.0,8.0,11.0,Texans,2012
-52,51.0,Darryl Sharpton,1/1/1988,24.0,6-0,229.0,Miami (FL),LILB,7,5.0,2.0,3.0,Texans,2012
-53,94.0,Antonio Smith,10/21/1981,31.0,6-3,290.0,Oklahoma St.,RDE,16,16.0,8.0,8.0,Texans,2012
-54,74.0,Wade Smith,4/26/1981,31.0,6-4,295.0,Memphis,LG,16,16.0,9.0,9.0,Texans,2012
-55,44.0,Ben Tate,8/21/1988,24.0,5-11,214.0,Auburn,RB,11,0.0,1.0,2.0,Texans,2012
-56,83.0,Kevin Walter,8/4/1981,31.0,6-3,216.0,Eastern Michigan,WR,16,14.0,9.0,4.0,Texans,2012
-57,99.0,J.J. Watt,3/22/1989,23.0,6-5,288.0,"Central Michigan,Wisconsin",LDE,16,16.0,1.0,19.0,Texans,2012
-58,46.0,Jon Weeks,2/17/1986,26.0,5-10,242.0,Baylor,LS,16,0.0,2.0,1.0,Texans,2012
-59,13.0,T.J. Yates,5/28/1987,25.0,6-4,215.0,North Carolina,QB,4,0.0,1.0,0.0,Texans,2012
-60,,Team Total,,26.4,6-1.8,241.7,,,16,,3.3,,Texans,2012
+No.,Player,BirthDate,Age,Height,Weight,College/University,Position,Games_Played_in_Season,Games_Started_in_Season,NFL_Years,Player_Value,Team,Year
+54.0,Mister Alexander,6/2/1988,24.0,6-3,227.0,Florida St.,LB,6,0.0,1.0,0.0,Texans,2012
+22.0,Alan Ball,3/29/1985,27.0,6-1,176.0,Illinois,DB,11,1.0,5.0,1.0,Texans,2012
+98.0,Connor Barwin,10/15/1986,26.0,6-4,255.0,Cincinnati,ROLB,16,16.0,3.0,8.0,Texans,2012
+50.0,Bryan Braman,5/4/1987,25.0,6-5,230.0,West Texas A&M,LB,14,0.0,1.0,1.0,Texans,2012
+79.0,Brandon Brooks,8/19/1989,23.0,6-5,335.0,Miami (OH),G,6,0.0,0.0,0.0,Texans,2012
+76.0,Duane Brown,8/30/1985,27.0,6-4,329.0,Virginia Tech,LT,16,16.0,4.0,13.0,Texans,2012
+62.0,Antoine Caldwell,4/19/1986,26.0,6-3,307.0,Alabama,RG,11,6.0,3.0,3.0,Texans,2012
+20.0,Roc Carmichael,9/9/1988,24.0,5-10,185.0,Virginia Tech,DB,6,0.0,0.0,0.0,Texans,2012
+86.0,James Casey,9/22/1984,28.0,6-3,235.0,Rice,FB,16,9.0,3.0,3.0,Texans,2012
+40.0,Tyler Clutts,11/9/1984,28.0,6-2,260.0,Fresno St.,RB,16,0.0,1.0,0.0,Texans,2012
+95.0,Shaun Cody,1/22/1983,29.0,6-4,307.0,USC,NT,13,12.0,7.0,5.0,Texans,2012
+49.0,Cameron Collins,9/29/1989,23.0,6-2,241.0,Oregon St.,LB,0,0.0,0.0,0.0,Texans,2012
+93.0,Jared Crick,8/21/1989,23.0,6-4,285.0,Nebraska,DE,15,0.0,0.0,2.0,Texans,2012
+56.0,Brian Cushing,1/24/1987,25.0,6-3,255.0,USC,LILB,5,5.0,3.0,3.0,Texans,2012
+81.0,Owen Daniels,11/9/1982,30.0,6-3,245.0,Wisconsin,TE,15,14.0,6.0,6.0,Texans,2012
+27.0,Quintin Demps,6/29/1985,27.0,6-0,203.0,Texas-El Paso,DB,12,0.0,4.0,1.0,Texans,2012
+52.0,Tim Dobbins,12/10/1982,30.0,6-1,234.0,Iowa St.,LILB,14,6.0,6.0,5.0,Texans,2012
+28.0,Justin Forsett,10/14/1985,27.0,5-8,195.0,California,RB,16,0.0,4.0,3.0,Texans,2012
+23.0,Arian Foster,8/24/1986,26.0,6-1,227.0,Tennessee,RB,16,16.0,3.0,10.0,Texans,2012
+66.0,Andrew Gardner,4/4/1986,26.0,6-7,304.0,Georgia Tech,T,3,0.0,3.0,0.0,Texans,2012
+88.0,Garrett Graham,8/4/1986,26.0,6-3,245.0,Wisconsin,FB,15,9.0,2.0,2.0,Texans,2012
+17.0,Shayne Graham,12/9/1977,35.0,6-0,210.0,Virginia Tech,K,16,0.0,11.0,3.0,Texans,2012
+43.0,Jonathan Grimes,12/21/1989,23.0,5-10,207.0,William & Mary,RB,6,0.0,0.0,0.0,Texans,2012
+26.0,Brandon Harris,1/24/1990,22.0,5-11,195.0,Miami (FL),DB,8,0.0,1.0,1.0,Texans,2012
+68.0,Ryan Harris,3/11/1985,27.0,6-5,299.0,Notre Dame,T,16,2.0,5.0,2.0,Texans,2012
+16.0,Trindon Holliday,4/27/1986,26.0,5-5,162.0,LSU,WR,5,0.0,1.0,0.0,Texans,2012
+25.0,Kareem Jackson,4/10/1988,24.0,5-10,183.0,Alabama,LCB,16,15.0,2.0,7.0,Texans,2012
+53.0,Bradie James,1/17/1981,31.0,6-2,240.0,LSU,RILB,15,15.0,9.0,8.0,Texans,2012
+96.0,Tim Jamison,2/26/1986,26.0,6-3,263.0,Michigan,DE,6,0.0,3.0,1.0,Texans,2012
+18.0,Lestar Jean,2/5/1988,24.0,6-3,215.0,Florida Atlantic,WR,14,1.0,0.0,1.0,Texans,2012
+80.0,Andre Johnson,7/11/1981,31.0,6-3,229.0,Miami (FL),WR,16,16.0,9.0,13.0,Texans,2012
+60.0,Ben Jones,7/2/1989,23.0,6-3,308.0,Georgia,RG,16,10.0,0.0,5.0,Texans,2012
+5.0,Donnie Jones,7/5/1980,32.0,6-2,221.0,LSU,P,16,0.0,8.0,3.0,Texans,2012
+24.0,Johnathan Joseph,4/16/1984,28.0,5-11,186.0,South Carolina,RCB,14,14.0,6.0,10.0,Texans,2012
+31.0,Shiloh Keo,12/17/1987,25.0,5-11,223.0,Idaho,DB,16,0.0,1.0,1.0,Texans,2012
+38.0,Danieal Manning,8/9/1982,30.0,5-11,212.0,Abilene Christian,SS,16,16.0,6.0,7.0,Texans,2012
+82.0,Keshawn Martin,3/15/1990,22.0,5-10,190.0,Michigan St.,WR,16,1.0,0.0,1.0,Texans,2012
+21.0,Brice McCain,12/10/1986,26.0,5-9,190.0,Utah,DB,12,2.0,3.0,2.0,Texans,2012
+97.0,Terrell McClain,7/20/1988,24.0,6-2,300.0,South Florida,DT,3,0.0,1.0,0.0,Texans,2012
+59.0,Whitney Mercilus,7/21/1990,22.0,6-4,258.0,Illinois,LB,16,4.0,0.0,3.0,Texans,2012
+92.0,Earl Mitchell,9/25/1987,25.0,6-3,310.0,Arizona,DT,16,3.0,2.0,3.0,Texans,2012
+55.0,Chris Myers,9/15/1981,31.0,6-4,286.0,Miami (FL),C,16,16.0,7.0,9.0,Texans,2012
+57.0,Jesse Nading,7/3/1985,27.0,6-5,258.0,Colorado St.,DE,16,0.0,4.0,1.0,Texans,2012
+75.0,Derek Newton,11/16/1987,25.0,6-6,315.0,"Hinds CC,Arkansas St.",RT,14,14.0,1.0,6.0,Texans,2012
+33.0,Troy Nolan,9/7/1986,26.0,6-1,206.0,Arizona St.,DB,4,1.0,2.0,1.0,Texans,2012
+35.0,Eddie Pleasant,12/17/1988,24.0,5-10,210.0,Oregon,DB,2,0.0,0.0,0.0,Texans,2012
+11.0,DeVier Posey,3/15/1990,22.0,6-1,214.0,Ohio St.,WR,11,0.0,0.0,1.0,Texans,2012
+29.0,Glover Quin,1/15/1986,26.0,6-0,207.0,"Southwest Mississippi CC,New Mexico",FS,16,16.0,3.0,7.0,Texans,2012
+58.0,Brooks Reed,2/28/1987,25.0,6-3,254.0,Arizona,LOLB,12,12.0,1.0,5.0,Texans,2012
+30.0,Stanford Routt,7/23/1983,29.0,6-1,195.0,Houston,DB,2,0.0,7.0,0.0,Texans,2012
+54.0,Barrett Ruud,5/20/1983,29.0,6-2,241.0,Nebraska,LB,9,1.0,7.0,1.0,Texans,2012
+8.0,Matt Schaub,6/25/1981,31.0,6-6,245.0,Virginia,QB,16,16.0,8.0,11.0,Texans,2012
+51.0,Darryl Sharpton,1/1/1988,24.0,6-0,229.0,Miami (FL),LILB,7,5.0,2.0,3.0,Texans,2012
+94.0,Antonio Smith,10/21/1981,31.0,6-3,290.0,Oklahoma St.,RDE,16,16.0,8.0,8.0,Texans,2012
+74.0,Wade Smith,4/26/1981,31.0,6-4,295.0,Memphis,LG,16,16.0,9.0,9.0,Texans,2012
+44.0,Ben Tate,8/21/1988,24.0,5-11,214.0,Auburn,RB,11,0.0,1.0,2.0,Texans,2012
+83.0,Kevin Walter,8/4/1981,31.0,6-3,216.0,Eastern Michigan,WR,16,14.0,9.0,4.0,Texans,2012
+99.0,J.J. Watt,3/22/1989,23.0,6-5,288.0,"Central Michigan,Wisconsin",LDE,16,16.0,1.0,19.0,Texans,2012
+46.0,Jon Weeks,2/17/1986,26.0,5-10,242.0,Baylor,LS,16,0.0,2.0,1.0,Texans,2012
+13.0,T.J. Yates,5/28/1987,25.0,6-4,215.0,North Carolina,QB,4,0.0,1.0,0.0,Texans,2012
+,Team Total,,26.4,6-1.8,241.7,,,16,,3.3,,Texans,2012

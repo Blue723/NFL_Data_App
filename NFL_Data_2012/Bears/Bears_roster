@@ -1,63 +1,63 @@
-,No.,Player,BirthDate,Age,Height,Weight,College/University,Position,Games_Played_in_Season,Games_Started_in_Season,NFL_Years,Player_Value,Team,Year
-0,86.0,Kyle Adams,1/19/1988,24.0,6-4,250.0,Purdue,TE,15,2.0,1.0,0.0,Bears,2012
-1,25.0,Armando Allen,4/30/1989,23.0,5-10,205.0,Notre Dame,RB,15,0.0,1.0,1.0,Bears,2012
-2,19.0,Joe Anderson,11/21/1988,24.0,6-1,196.0,Texas Southern,WR,3,0.0,0.0,0.0,Bears,2012
-3,32.0,Kahlil Bell,12/10/1986,26.0,6-0,219.0,UCLA,RB,4,0.0,3.0,1.0,Bears,2012
-4,80.0,Earl Bennett,3/23/1987,25.0,6-1,205.0,Vanderbilt,WR,12,4.0,4.0,3.0,Bears,2012
-5,38.0,Zackary Bowman,11/14/1984,28.0,6-1,197.0,Nebraska,DB,11,0.0,4.0,1.0,Bears,2012
-6,55.0,Lance Briggs,11/12/1980,32.0,6-1,244.0,Arizona,LLB,16,16.0,9.0,11.0,Bears,2012
-7,78.0,James Brown,11/30/1988,24.0,6-4,307.0,Troy,T,5,3.0,0.0,1.0,Bears,2012
-8,29.0,Michael Bush,6/16/1984,28.0,6-2,243.0,Louisville,RB,13,1.0,4.0,4.0,Bears,2012
-9,2.0,Jason Campbell,12/31/1981,31.0,6-5,235.0,Auburn,QB,6,1.0,6.0,1.0,Bears,2012
-10,72.0,Gabe Carimi,6/13/1988,24.0,6-7,315.0,Wisconsin,RT,16,14.0,1.0,6.0,Bears,2012
-11,93.0,Nate Collins,12/14/1987,25.0,6-2,279.0,Virginia,DT,9,0.0,2.0,1.0,Bears,2012
-12,47.0,Chris Conte,2/23/1989,23.0,6-2,203.0,California,FS,15,15.0,1.0,6.0,Bears,2012
-13,52.0,Blake Costanzo,4/14/1984,28.0,6-1,235.0,Lafayette,LB,14,1.0,5.0,2.0,Bears,2012
-14,6.0,Jay Cutler,4/29/1983,29.0,6-3,231.0,Vanderbilt,QB,15,15.0,6.0,11.0,Bears,2012
-15,87.0,Kellen Davis,10/11/1985,27.0,6-6,259.0,Michigan St.,TE,16,15.0,4.0,2.0,Bears,2012
-16,57.0,Dom DeCicco,9/11/1988,24.0,6-4,230.0,Pittsburgh,LB,4,0.0,1.0,0.0,Bears,2012
-17,22.0,Matt Forte,12/10/1985,27.0,6-1,221.0,Tulane,RB,15,15.0,4.0,11.0,Bears,2012
-18,59.0,Jerry Franklin,1/10/1988,24.0,6-2,242.0,Arkansas,LB,3,0.0,0.0,0.0,Bears,2012
-19,63.0,Roberto Garza,3/26/1979,33.0,6-2,310.0,Texas A&M-Kingsville,C,16,16.0,11.0,7.0,Bears,2012
-20,9.0,Robbie Gould,12/6/1982,30.0,6-0,190.0,Penn St.,K,13,0.0,7.0,2.0,Bears,2012
-21,24.0,Kelvin Hayden,7/23/1983,29.0,6-0,195.0,Illinois,DB,16,2.0,7.0,3.0,Bears,2012
-22,58.0,Geno Hayes,8/10/1987,25.0,6-2,220.0,Florida St.,LB,15,3.0,4.0,3.0,Bears,2012
-23,23.0,Devin Hester,11/4/1982,30.0,5-11,190.0,Miami (FL),WR,15,5.0,6.0,2.0,Bears,2012
-24,71.0,Israel Idonije,11/17/1980,32.0,6-6,275.0,Manitoba,LDE,16,11.0,8.0,7.0,Bears,2012
-25,17.0,Alshon Jeffery,2/14/1990,22.0,6-3,218.0,South Carolina,WR,10,6.0,0.0,3.0,Bears,2012
-26,26.0,Tim Jennings,12/24/1983,29.0,5-8,185.0,Georgia,LCB,14,14.0,6.0,13.0,Bears,2012
-27,60.0,Lance Louis,4/24/1985,27.0,6-2,303.0,San Diego St.,RG,11,11.0,2.0,5.0,Bears,2012
-28,65.0,Patrick Mannelly,4/18/1975,37.0,6-5,265.0,Duke,T,16,0.0,14.0,1.0,Bears,2012
-29,10.0,Olindo Mare,6/6/1973,39.0,5-11,192.0,"MacMurray,Syracuse",K,3,0.0,15.0,0.0,Bears,2012
-30,15.0,Brandon Marshall,3/23/1984,28.0,6-5,232.0,Central Florida,WR,16,16.0,6.0,14.0,Bears,2012
-31,99.0,Shea McClellin,8/1/1989,23.0,6-3,250.0,Boise St.,DE,14,0.0,0.0,2.0,Bears,2012
-32,27.0,Sherrick McManis,12/19/1987,25.0,5-11,203.0,Northwestern,DB,12,0.0,2.0,1.0,Bears,2012
-33,69.0,Henry Melton,10/11/1986,26.0,6-3,280.0,Texas,LDT,14,14.0,2.0,12.0,Bears,2012
-34,30.0,D.J. Moore,3/22/1987,25.0,5-10,185.0,Vanderbilt,DB,13,2.0,3.0,2.0,Bears,2012
-35,43.0,Troy Nolan,9/7/1986,26.0,6-1,206.0,Arizona St.,DB,1,0.0,2.0,0.0,Bears,2012
-36,91.0,Amobi Okoye,6/10/1987,25.0,6-2,302.0,Louisville,DT,9,0.0,5.0,1.0,Bears,2012
-37,95.0,Cheta Ozougwu,11/18/1988,24.0,6-2,251.0,Rice,DE,2,0.0,0.0,0.0,Bears,2012
-38,92.0,Stephen Paea,5/11/1988,24.0,6-1,306.0,Oregon St.,RDT,15,14.0,1.0,7.0,Bears,2012
-39,90.0,Julius Peppers,1/18/1980,32.0,6-7,295.0,North Carolina,RDE,16,16.0,10.0,17.0,Bears,2012
-40,8.0,Adam Podlesh,8/11/1983,29.0,5-11,202.0,Maryland,P,16,0.0,5.0,1.0,Bears,2012
-41,62.0,Chilo Rachal,3/15/1986,26.0,6-5,315.0,USC,LG,9,8.0,4.0,4.0,Bears,2012
-42,53.0,Nick Roach,6/16/1985,27.0,6-1,246.0,Northwestern,RLB,16,14.0,5.0,8.0,Bears,2012
-43,48.0,Evan Rodriguez,9/21/1988,24.0,6-1,242.0,Temple,TE,12,5.0,0.0,0.0,Bears,2012
-44,18.0,Dane Sanzenbacher,10/13/1988,24.0,5-11,180.0,Ohio St.,WR,5,0.0,1.0,0.0,Bears,2012
-45,79.0,Jonathan Scott,1/10/1983,29.0,6-6,318.0,Texas,RT,12,7.0,6.0,3.0,Bears,2012
-46,89.0,Matt Spaeth,11/24/1983,29.0,6-7,270.0,Minnesota,TE,16,8.0,5.0,0.0,Bears,2012
-47,67.0,Chris Spencer,3/28/1982,30.0,6-3,308.0,Mississippi,LG,10,5.0,7.0,3.0,Bears,2012
-48,20.0,Craig Steltz,5/7/1986,26.0,6-1,211.0,LSU,DB,13,0.0,4.0,1.0,Bears,2012
-49,97.0,J.T. Thomas,8/15/1988,24.0,6-1,241.0,West Virginia,LB,16,0.0,0.0,1.0,Bears,2012
-50,33.0,Charles Tillman,2/23/1981,31.0,6-2,210.0,Louisiana,RCB,16,16.0,9.0,17.0,Bears,2012
-51,75.0,Matt Toeaina,10/9/1984,28.0,6-2,301.0,Oregon,DT,3,2.0,5.0,1.0,Bears,2012
-52,59.0,Patrick Trahan,11/7/1986,26.0,6-2,235.0,"Northwest Mississippi CC,Auburn,Mississippi",LB,1,0.0,1.0,0.0,Bears,2012
-53,54.0,Brian Urlacher,5/25/1978,34.0,6-4,258.0,New Mexico,MLB,12,12.0,12.0,8.0,Bears,2012
-54,37.0,Anthony Walters,9/19/1988,24.0,6-1,207.0,Delaware,DB,16,1.0,1.0,1.0,Bears,2012
-55,73.0,J'Marcus Webb,8/8/1988,24.0,6-7,320.0,"Texas,Navarro,West Texas A&M",LT,16,16.0,2.0,7.0,Bears,2012
-56,14.0,Eric Weems,7/4/1985,27.0,5-9,195.0,Bethune-Cookman,WR,16,1.0,5.0,0.0,Bears,2012
-57,74.0,Chris Williams,8/26/1985,27.0,6-6,326.0,Vanderbilt,T,3,0.0,4.0,0.0,Bears,2012
-58,70.0,Edwin Williams,12/10/1986,26.0,6-2,311.0,Maryland,C,6,2.0,3.0,1.0,Bears,2012
-59,98.0,Corey Wootton,6/22/1987,25.0,6-6,271.0,Northwestern,LDE,16,7.0,2.0,5.0,Bears,2012
-60,21.0,Major Wright,7/1/1988,24.0,5-11,204.0,Florida,SS,16,16.0,2.0,7.0,Bears,2012
-61,,Team Total,,27.1,6-2.1,244.9,,,16,,4.1,,Bears,2012
+No.,Player,BirthDate,Age,Height,Weight,College/University,Position,Games_Played_in_Season,Games_Started_in_Season,NFL_Years,Player_Value,Team,Year
+86.0,Kyle Adams,1/19/1988,24.0,6-4,250.0,Purdue,TE,15,2.0,1.0,0.0,Bears,2012
+25.0,Armando Allen,4/30/1989,23.0,5-10,205.0,Notre Dame,RB,15,0.0,1.0,1.0,Bears,2012
+19.0,Joe Anderson,11/21/1988,24.0,6-1,196.0,Texas Southern,WR,3,0.0,0.0,0.0,Bears,2012
+32.0,Kahlil Bell,12/10/1986,26.0,6-0,219.0,UCLA,RB,4,0.0,3.0,1.0,Bears,2012
+80.0,Earl Bennett,3/23/1987,25.0,6-1,205.0,Vanderbilt,WR,12,4.0,4.0,3.0,Bears,2012
+38.0,Zackary Bowman,11/14/1984,28.0,6-1,197.0,Nebraska,DB,11,0.0,4.0,1.0,Bears,2012
+55.0,Lance Briggs,11/12/1980,32.0,6-1,244.0,Arizona,LLB,16,16.0,9.0,11.0,Bears,2012
+78.0,James Brown,11/30/1988,24.0,6-4,307.0,Troy,T,5,3.0,0.0,1.0,Bears,2012
+29.0,Michael Bush,6/16/1984,28.0,6-2,243.0,Louisville,RB,13,1.0,4.0,4.0,Bears,2012
+2.0,Jason Campbell,12/31/1981,31.0,6-5,235.0,Auburn,QB,6,1.0,6.0,1.0,Bears,2012
+72.0,Gabe Carimi,6/13/1988,24.0,6-7,315.0,Wisconsin,RT,16,14.0,1.0,6.0,Bears,2012
+93.0,Nate Collins,12/14/1987,25.0,6-2,279.0,Virginia,DT,9,0.0,2.0,1.0,Bears,2012
+47.0,Chris Conte,2/23/1989,23.0,6-2,203.0,California,FS,15,15.0,1.0,6.0,Bears,2012
+52.0,Blake Costanzo,4/14/1984,28.0,6-1,235.0,Lafayette,LB,14,1.0,5.0,2.0,Bears,2012
+6.0,Jay Cutler,4/29/1983,29.0,6-3,231.0,Vanderbilt,QB,15,15.0,6.0,11.0,Bears,2012
+87.0,Kellen Davis,10/11/1985,27.0,6-6,259.0,Michigan St.,TE,16,15.0,4.0,2.0,Bears,2012
+57.0,Dom DeCicco,9/11/1988,24.0,6-4,230.0,Pittsburgh,LB,4,0.0,1.0,0.0,Bears,2012
+22.0,Matt Forte,12/10/1985,27.0,6-1,221.0,Tulane,RB,15,15.0,4.0,11.0,Bears,2012
+59.0,Jerry Franklin,1/10/1988,24.0,6-2,242.0,Arkansas,LB,3,0.0,0.0,0.0,Bears,2012
+63.0,Roberto Garza,3/26/1979,33.0,6-2,310.0,Texas A&M-Kingsville,C,16,16.0,11.0,7.0,Bears,2012
+9.0,Robbie Gould,12/6/1982,30.0,6-0,190.0,Penn St.,K,13,0.0,7.0,2.0,Bears,2012
+24.0,Kelvin Hayden,7/23/1983,29.0,6-0,195.0,Illinois,DB,16,2.0,7.0,3.0,Bears,2012
+58.0,Geno Hayes,8/10/1987,25.0,6-2,220.0,Florida St.,LB,15,3.0,4.0,3.0,Bears,2012
+23.0,Devin Hester,11/4/1982,30.0,5-11,190.0,Miami (FL),WR,15,5.0,6.0,2.0,Bears,2012
+71.0,Israel Idonije,11/17/1980,32.0,6-6,275.0,Manitoba,LDE,16,11.0,8.0,7.0,Bears,2012
+17.0,Alshon Jeffery,2/14/1990,22.0,6-3,218.0,South Carolina,WR,10,6.0,0.0,3.0,Bears,2012
+26.0,Tim Jennings,12/24/1983,29.0,5-8,185.0,Georgia,LCB,14,14.0,6.0,13.0,Bears,2012
+60.0,Lance Louis,4/24/1985,27.0,6-2,303.0,San Diego St.,RG,11,11.0,2.0,5.0,Bears,2012
+65.0,Patrick Mannelly,4/18/1975,37.0,6-5,265.0,Duke,T,16,0.0,14.0,1.0,Bears,2012
+10.0,Olindo Mare,6/6/1973,39.0,5-11,192.0,"MacMurray,Syracuse",K,3,0.0,15.0,0.0,Bears,2012
+15.0,Brandon Marshall,3/23/1984,28.0,6-5,232.0,Central Florida,WR,16,16.0,6.0,14.0,Bears,2012
+99.0,Shea McClellin,8/1/1989,23.0,6-3,250.0,Boise St.,DE,14,0.0,0.0,2.0,Bears,2012
+27.0,Sherrick McManis,12/19/1987,25.0,5-11,203.0,Northwestern,DB,12,0.0,2.0,1.0,Bears,2012
+69.0,Henry Melton,10/11/1986,26.0,6-3,280.0,Texas,LDT,14,14.0,2.0,12.0,Bears,2012
+30.0,D.J. Moore,3/22/1987,25.0,5-10,185.0,Vanderbilt,DB,13,2.0,3.0,2.0,Bears,2012
+43.0,Troy Nolan,9/7/1986,26.0,6-1,206.0,Arizona St.,DB,1,0.0,2.0,0.0,Bears,2012
+91.0,Amobi Okoye,6/10/1987,25.0,6-2,302.0,Louisville,DT,9,0.0,5.0,1.0,Bears,2012
+95.0,Cheta Ozougwu,11/18/1988,24.0,6-2,251.0,Rice,DE,2,0.0,0.0,0.0,Bears,2012
+92.0,Stephen Paea,5/11/1988,24.0,6-1,306.0,Oregon St.,RDT,15,14.0,1.0,7.0,Bears,2012
+90.0,Julius Peppers,1/18/1980,32.0,6-7,295.0,North Carolina,RDE,16,16.0,10.0,17.0,Bears,2012
+8.0,Adam Podlesh,8/11/1983,29.0,5-11,202.0,Maryland,P,16,0.0,5.0,1.0,Bears,2012
+62.0,Chilo Rachal,3/15/1986,26.0,6-5,315.0,USC,LG,9,8.0,4.0,4.0,Bears,2012
+53.0,Nick Roach,6/16/1985,27.0,6-1,246.0,Northwestern,RLB,16,14.0,5.0,8.0,Bears,2012
+48.0,Evan Rodriguez,9/21/1988,24.0,6-1,242.0,Temple,TE,12,5.0,0.0,0.0,Bears,2012
+18.0,Dane Sanzenbacher,10/13/1988,24.0,5-11,180.0,Ohio St.,WR,5,0.0,1.0,0.0,Bears,2012
+79.0,Jonathan Scott,1/10/1983,29.0,6-6,318.0,Texas,RT,12,7.0,6.0,3.0,Bears,2012
+89.0,Matt Spaeth,11/24/1983,29.0,6-7,270.0,Minnesota,TE,16,8.0,5.0,0.0,Bears,2012
+67.0,Chris Spencer,3/28/1982,30.0,6-3,308.0,Mississippi,LG,10,5.0,7.0,3.0,Bears,2012
+20.0,Craig Steltz,5/7/1986,26.0,6-1,211.0,LSU,DB,13,0.0,4.0,1.0,Bears,2012
+97.0,J.T. Thomas,8/15/1988,24.0,6-1,241.0,West Virginia,LB,16,0.0,0.0,1.0,Bears,2012
+33.0,Charles Tillman,2/23/1981,31.0,6-2,210.0,Louisiana,RCB,16,16.0,9.0,17.0,Bears,2012
+75.0,Matt Toeaina,10/9/1984,28.0,6-2,301.0,Oregon,DT,3,2.0,5.0,1.0,Bears,2012
+59.0,Patrick Trahan,11/7/1986,26.0,6-2,235.0,"Northwest Mississippi CC,Auburn,Mississippi",LB,1,0.0,1.0,0.0,Bears,2012
+54.0,Brian Urlacher,5/25/1978,34.0,6-4,258.0,New Mexico,MLB,12,12.0,12.0,8.0,Bears,2012
+37.0,Anthony Walters,9/19/1988,24.0,6-1,207.0,Delaware,DB,16,1.0,1.0,1.0,Bears,2012
+73.0,J'Marcus Webb,8/8/1988,24.0,6-7,320.0,"Texas,Navarro,West Texas A&M",LT,16,16.0,2.0,7.0,Bears,2012
+14.0,Eric Weems,7/4/1985,27.0,5-9,195.0,Bethune-Cookman,WR,16,1.0,5.0,0.0,Bears,2012
+74.0,Chris Williams,8/26/1985,27.0,6-6,326.0,Vanderbilt,T,3,0.0,4.0,0.0,Bears,2012
+70.0,Edwin Williams,12/10/1986,26.0,6-2,311.0,Maryland,C,6,2.0,3.0,1.0,Bears,2012
+98.0,Corey Wootton,6/22/1987,25.0,6-6,271.0,Northwestern,LDE,16,7.0,2.0,5.0,Bears,2012
+21.0,Major Wright,7/1/1988,24.0,5-11,204.0,Florida,SS,16,16.0,2.0,7.0,Bears,2012
+,Team Total,,27.1,6-2.1,244.9,,,16,,4.1,,Bears,2012
