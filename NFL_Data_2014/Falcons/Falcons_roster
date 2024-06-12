@@ -1,60 +1,60 @@
-,No.,Player,BirthDate,Age,Height,Weight,College/University,Position,Games_Played_in_Season,Games_Started_in_Season,NFL_Years,Player_Value,Team,Year
-0,23.0,Robert Alford,11/1/1988,26.0,5-10,186.0,Southeastern Louisiana,LCB,10,10.0,1.0,4.0,Falcons,2014
-1,28.0,Javier Arenas,10/28/1987,27.0,5-9,195.0,Alabama,DB,6,0.0,4.0,0.0,Falcons,2014
-2,75.0,Jon Asamoah,7/21/1988,26.0,6-4,304.0,Illinois,RG,15,15.0,4.0,8.0,Falcons,2014
-3,95.0,Jonathan Babineaux,10/12/1981,33.0,6-2,300.0,Iowa,RDE,15,15.0,9.0,6.0,Falcons,2014
-4,29.0,Sean Baker,11/6/1988,26.0,6-1,209.0,Ball St.,DB,5,0.0,0.0,0.0,Falcons,2014
-5,59.0,Joplo Bartu,10/3/1990,24.0,6-2,230.0,Texas St.,MLB,16,14.0,1.0,6.0,Falcons,2014
-6,71.0,Kroy Biermann,9/12/1985,29.0,6-3,242.0,Montana,RLB/LDE,16,15.0,6.0,6.0,Falcons,2014
-7,63.0,Justin Blalock,12/20/1983,31.0,6-3,320.0,Texas,LG,15,15.0,7.0,8.0,Falcons,2014
-8,5.0,Matthew Bosher,10/18/1987,27.0,6-0,208.0,Miami (FL),P,16,0.0,3.0,3.0,Falcons,2014
-9,3.0,Matt Bryant,5/29/1975,39.0,5-9,203.0,Baylor,K,16,0.0,12.0,5.0,Falcons,2014
-10,68.0,Gabe Carimi,6/13/1988,26.0,6-7,315.0,Wisconsin,RT,16,7.0,3.0,4.0,Falcons,2014
-11,19.0,Drew Davis,1/4/1989,25.0,6-1,205.0,Oregon,WR,6,0.0,2.0,0.0,Falcons,2014
-12,42.0,Patrick DiMarco,4/30/1989,25.0,6-1,234.0,South Carolina,RB,16,7.0,2.0,1.0,Falcons,2014
-13,83.0,Harry Douglas,9/16/1984,30.0,6-0,183.0,Louisville,WR,12,6.0,6.0,5.0,Falcons,2014
-14,24.0,Devonta Freeman,3/15/1992,22.0,5-8,206.0,Florida St.,RB,16,0.0,0.0,4.0,Falcons,2014
-15,30.0,Charles Godfrey,11/15/1985,29.0,6-0,207.0,Iowa,DB,5,0.0,6.0,0.0,Falcons,2014
-16,93.0,Malliciah Goodman,1/4/1990,24.0,6-4,276.0,Clemson,LDE,16,10.0,1.0,4.0,Falcons,2014
-17,69.0,Harland Gunn,8/30/1989,25.0,6-2,310.0,Miami (FL),G,10,1.0,1.0,1.0,Falcons,2014
-18,77.0,Ra'Shede Hageman,8/8/1990,24.0,6-6,318.0,Minnesota,DT,16,0.0,0.0,1.0,Falcons,2014
-19,47.0,Josh Harris,4/27/1989,25.0,6-1,224.0,Auburn,DB,16,0.0,2.0,1.0,Falcons,2014
-20,61.0,Joe Hawley,10/22/1988,26.0,6-3,302.0,UNLV,C,4,4.0,4.0,2.0,Falcons,2014
-21,17.0,Devin Hester,11/4/1982,32.0,5-11,190.0,Miami (FL),WR,16,1.0,8.0,6.0,Falcons,2014
-22,76.0,Lamar Holmes,7/8/1989,25.0,6-5,320.0,Southern Miss,T,4,4.0,2.0,2.0,Falcons,2014
-23,36.0,Kemal Ishmael,5/6/1991,23.0,6-0,206.0,Central Florida,SS,16,10.0,1.0,5.0,Falcons,2014
-24,39.0,Steven Jackson,7/22/1983,31.0,6-2,240.0,Oregon St.,RB,15,15.0,10.0,6.0,Falcons,2014
-25,99.0,Tyson Jackson,6/6/1986,28.0,6-4,295.0,LSU,RDT,16,16.0,5.0,6.0,Falcons,2014
-26,11.0,Julio Jones,2/3/1989,25.0,6-3,220.0,Alabama,WR,15,15.0,3.0,14.0,Falcons,2014
-27,66.0,Peter Konz,6/9/1989,25.0,6-5,315.0,Wisconsin,C,7,3.0,2.0,2.0,Falcons,2014
-28,20.0,Dwight Lowery,1/23/1986,28.0,6-1,185.0,San Jose St.,FS,16,15.0,6.0,6.0,Falcons,2014
-29,90.0,Stansly Maponga,3/5/1991,23.0,6-2,257.0,TCU,DE,12,0.0,1.0,1.0,Falcons,2014
-30,18.0,Freddie Martino,9/7/1991,23.0,6-0,195.0,North Greenville,WR,1,0.0,0.0,0.0,Falcons,2014
-31,94.0,Jonathan Massaquoi,5/11/1988,26.0,6-2,264.0,Troy,DE,15,3.0,2.0,2.0,Falcons,2014
-32,98.0,Cliff Matthews,8/5/1989,25.0,6-4,265.0,South Carolina,DE,7,0.0,2.0,1.0,Falcons,2014
-33,70.0,Jake Matthews,2/11/1992,22.0,6-5,309.0,Texas A&M,LT,15,15.0,0.0,8.0,Falcons,2014
-34,27.0,Robert McClain,7/22/1988,26.0,5-9,180.0,Connecticut,LCB,16,6.0,4.0,3.0,Falcons,2014
-35,25.0,William Moore,5/18/1985,29.0,6-0,223.0,Missouri,SS,7,7.0,5.0,2.0,Falcons,2014
-36,86.0,Bear Pascoe,2/23/1986,28.0,6-5,257.0,Fresno St.,TE,16,2.0,5.0,0.0,Falcons,2014
-37,91.0,Corey Peters,6/8/1988,26.0,6-3,335.0,Kentucky,DT,15,2.0,4.0,2.0,Falcons,2014
-38,15.0,Courtney Roby,1/10/1983,31.0,6-0,189.0,Indiana,WR,4,0.0,9.0,0.0,Falcons,2014
-39,32.0,Jacquizz Rodgers,2/6/1990,24.0,5-6,205.0,Oregon St.,RB,16,1.0,3.0,3.0,Falcons,2014
-40,2.0,Matt Ryan,5/17/1985,29.0,6-4,217.0,Boston Col.,QB,16,16.0,6.0,15.0,Falcons,2014
-41,73.0,Ryan Schraeder,5/4/1988,26.0,6-7,300.0,Valdosta St.,RT,13,10.0,1.0,5.0,Falcons,2014
-42,64.0,Jonathan Scott,1/10/1983,31.0,6-6,318.0,Texas,T,1,0.0,8.0,0.0,Falcons,2014
-43,53.0,Prince Shembo,12/24/1991,23.0,6-1,253.0,Notre Dame,LB,16,3.0,0.0,2.0,Falcons,2014
-44,35.0,Antone Smith,9/17/1985,29.0,5-9,190.0,Florida St.,RB,10,0.0,4.0,3.0,Falcons,2014
-45,34.0,Jerome Smith,4/6/1991,23.0,5-11,220.0,Syracuse,RB,1,0.0,0.0,0.0,Falcons,2014
-46,96.0,Paul Soliai,12/30/1983,31.0,6-4,344.0,Utah,LDT,15,14.0,7.0,6.0,Falcons,2014
-47,41.0,Dezmen Southward,10/1/1990,24.0,6-2,208.0,Wisconsin,DB,16,0.0,0.0,1.0,Falcons,2014
-48,62.0,James Stone,4/26/1992,22.0,6-3,290.0,Tennessee,C,12,9.0,0.0,5.0,Falcons,2014
-49,52.0,Nathan Stupar,3/14/1988,26.0,6-2,240.0,Penn St.,LB,15,0.0,1.0,1.0,Falcons,2014
-50,80.0,Levine Toilolo,7/30/1991,23.0,6-8,268.0,Stanford,TE,16,16.0,1.0,2.0,Falcons,2014
-51,21.0,Desmond Trufant,9/10/1990,24.0,6-0,190.0,Washington,RCB,16,16.0,1.0,6.0,Falcons,2014
-52,50.0,Osi Umenyiora,11/16/1981,33.0,6-3,255.0,Troy,DE,16,0.0,11.0,2.0,Falcons,2014
-53,14.0,Eric Weems,7/4/1985,29.0,5-9,195.0,Bethune-Cookman,WR,16,0.0,7.0,1.0,Falcons,2014
-54,84.0,Roddy White,11/2/1981,33.0,6-0,211.0,Ala-Birmingham,WR,14,14.0,9.0,8.0,Falcons,2014
-55,26.0,Josh Wilson,3/11/1985,29.0,5-9,189.0,Maryland,DB,16,4.0,7.0,2.0,Falcons,2014
-56,55.0,Paul Worrilow,5/1/1990,24.0,6-0,230.0,Delaware,LLB,16,16.0,1.0,7.0,Falcons,2014
-57,13.0,T.J. Yates,5/28/1987,27.0,6-4,215.0,North Carolina,QB,1,0.0,3.0,0.0,Falcons,2014
-58,,Team Total,,26.8,6-1.6,244.1,,,16,,3.7,,Falcons,2014
+No.,Player,BirthDate,Age,Height,Weight,College/University,Position,Games_Played_in_Season,Games_Started_in_Season,NFL_Years,Player_Value,Team,Year
+23.0,Robert Alford,11/1/1988,26.0,5-10,186.0,Southeastern Louisiana,LCB,10,10.0,1.0,4.0,Falcons,2014
+28.0,Javier Arenas,10/28/1987,27.0,5-9,195.0,Alabama,DB,6,0.0,4.0,0.0,Falcons,2014
+75.0,Jon Asamoah,7/21/1988,26.0,6-4,304.0,Illinois,RG,15,15.0,4.0,8.0,Falcons,2014
+95.0,Jonathan Babineaux,10/12/1981,33.0,6-2,300.0,Iowa,RDE,15,15.0,9.0,6.0,Falcons,2014
+29.0,Sean Baker,11/6/1988,26.0,6-1,209.0,Ball St.,DB,5,0.0,0.0,0.0,Falcons,2014
+59.0,Joplo Bartu,10/3/1990,24.0,6-2,230.0,Texas St.,MLB,16,14.0,1.0,6.0,Falcons,2014
+71.0,Kroy Biermann,9/12/1985,29.0,6-3,242.0,Montana,RLB/LDE,16,15.0,6.0,6.0,Falcons,2014
+63.0,Justin Blalock,12/20/1983,31.0,6-3,320.0,Texas,LG,15,15.0,7.0,8.0,Falcons,2014
+5.0,Matthew Bosher,10/18/1987,27.0,6-0,208.0,Miami (FL),P,16,0.0,3.0,3.0,Falcons,2014
+3.0,Matt Bryant,5/29/1975,39.0,5-9,203.0,Baylor,K,16,0.0,12.0,5.0,Falcons,2014
+68.0,Gabe Carimi,6/13/1988,26.0,6-7,315.0,Wisconsin,RT,16,7.0,3.0,4.0,Falcons,2014
+19.0,Drew Davis,1/4/1989,25.0,6-1,205.0,Oregon,WR,6,0.0,2.0,0.0,Falcons,2014
+42.0,Patrick DiMarco,4/30/1989,25.0,6-1,234.0,South Carolina,RB,16,7.0,2.0,1.0,Falcons,2014
+83.0,Harry Douglas,9/16/1984,30.0,6-0,183.0,Louisville,WR,12,6.0,6.0,5.0,Falcons,2014
+24.0,Devonta Freeman,3/15/1992,22.0,5-8,206.0,Florida St.,RB,16,0.0,0.0,4.0,Falcons,2014
+30.0,Charles Godfrey,11/15/1985,29.0,6-0,207.0,Iowa,DB,5,0.0,6.0,0.0,Falcons,2014
+93.0,Malliciah Goodman,1/4/1990,24.0,6-4,276.0,Clemson,LDE,16,10.0,1.0,4.0,Falcons,2014
+69.0,Harland Gunn,8/30/1989,25.0,6-2,310.0,Miami (FL),G,10,1.0,1.0,1.0,Falcons,2014
+77.0,Ra'Shede Hageman,8/8/1990,24.0,6-6,318.0,Minnesota,DT,16,0.0,0.0,1.0,Falcons,2014
+47.0,Josh Harris,4/27/1989,25.0,6-1,224.0,Auburn,DB,16,0.0,2.0,1.0,Falcons,2014
+61.0,Joe Hawley,10/22/1988,26.0,6-3,302.0,UNLV,C,4,4.0,4.0,2.0,Falcons,2014
+17.0,Devin Hester,11/4/1982,32.0,5-11,190.0,Miami (FL),WR,16,1.0,8.0,6.0,Falcons,2014
+76.0,Lamar Holmes,7/8/1989,25.0,6-5,320.0,Southern Miss,T,4,4.0,2.0,2.0,Falcons,2014
+36.0,Kemal Ishmael,5/6/1991,23.0,6-0,206.0,Central Florida,SS,16,10.0,1.0,5.0,Falcons,2014
+39.0,Steven Jackson,7/22/1983,31.0,6-2,240.0,Oregon St.,RB,15,15.0,10.0,6.0,Falcons,2014
+99.0,Tyson Jackson,6/6/1986,28.0,6-4,295.0,LSU,RDT,16,16.0,5.0,6.0,Falcons,2014
+11.0,Julio Jones,2/3/1989,25.0,6-3,220.0,Alabama,WR,15,15.0,3.0,14.0,Falcons,2014
+66.0,Peter Konz,6/9/1989,25.0,6-5,315.0,Wisconsin,C,7,3.0,2.0,2.0,Falcons,2014
+20.0,Dwight Lowery,1/23/1986,28.0,6-1,185.0,San Jose St.,FS,16,15.0,6.0,6.0,Falcons,2014
+90.0,Stansly Maponga,3/5/1991,23.0,6-2,257.0,TCU,DE,12,0.0,1.0,1.0,Falcons,2014
+18.0,Freddie Martino,9/7/1991,23.0,6-0,195.0,North Greenville,WR,1,0.0,0.0,0.0,Falcons,2014
+94.0,Jonathan Massaquoi,5/11/1988,26.0,6-2,264.0,Troy,DE,15,3.0,2.0,2.0,Falcons,2014
+98.0,Cliff Matthews,8/5/1989,25.0,6-4,265.0,South Carolina,DE,7,0.0,2.0,1.0,Falcons,2014
+70.0,Jake Matthews,2/11/1992,22.0,6-5,309.0,Texas A&M,LT,15,15.0,0.0,8.0,Falcons,2014
+27.0,Robert McClain,7/22/1988,26.0,5-9,180.0,Connecticut,LCB,16,6.0,4.0,3.0,Falcons,2014
+25.0,William Moore,5/18/1985,29.0,6-0,223.0,Missouri,SS,7,7.0,5.0,2.0,Falcons,2014
+86.0,Bear Pascoe,2/23/1986,28.0,6-5,257.0,Fresno St.,TE,16,2.0,5.0,0.0,Falcons,2014
+91.0,Corey Peters,6/8/1988,26.0,6-3,335.0,Kentucky,DT,15,2.0,4.0,2.0,Falcons,2014
+15.0,Courtney Roby,1/10/1983,31.0,6-0,189.0,Indiana,WR,4,0.0,9.0,0.0,Falcons,2014
+32.0,Jacquizz Rodgers,2/6/1990,24.0,5-6,205.0,Oregon St.,RB,16,1.0,3.0,3.0,Falcons,2014
+2.0,Matt Ryan,5/17/1985,29.0,6-4,217.0,Boston Col.,QB,16,16.0,6.0,15.0,Falcons,2014
+73.0,Ryan Schraeder,5/4/1988,26.0,6-7,300.0,Valdosta St.,RT,13,10.0,1.0,5.0,Falcons,2014
+64.0,Jonathan Scott,1/10/1983,31.0,6-6,318.0,Texas,T,1,0.0,8.0,0.0,Falcons,2014
+53.0,Prince Shembo,12/24/1991,23.0,6-1,253.0,Notre Dame,LB,16,3.0,0.0,2.0,Falcons,2014
+35.0,Antone Smith,9/17/1985,29.0,5-9,190.0,Florida St.,RB,10,0.0,4.0,3.0,Falcons,2014
+34.0,Jerome Smith,4/6/1991,23.0,5-11,220.0,Syracuse,RB,1,0.0,0.0,0.0,Falcons,2014
+96.0,Paul Soliai,12/30/1983,31.0,6-4,344.0,Utah,LDT,15,14.0,7.0,6.0,Falcons,2014
+41.0,Dezmen Southward,10/1/1990,24.0,6-2,208.0,Wisconsin,DB,16,0.0,0.0,1.0,Falcons,2014
+62.0,James Stone,4/26/1992,22.0,6-3,290.0,Tennessee,C,12,9.0,0.0,5.0,Falcons,2014
+52.0,Nathan Stupar,3/14/1988,26.0,6-2,240.0,Penn St.,LB,15,0.0,1.0,1.0,Falcons,2014
+80.0,Levine Toilolo,7/30/1991,23.0,6-8,268.0,Stanford,TE,16,16.0,1.0,2.0,Falcons,2014
+21.0,Desmond Trufant,9/10/1990,24.0,6-0,190.0,Washington,RCB,16,16.0,1.0,6.0,Falcons,2014
+50.0,Osi Umenyiora,11/16/1981,33.0,6-3,255.0,Troy,DE,16,0.0,11.0,2.0,Falcons,2014
+14.0,Eric Weems,7/4/1985,29.0,5-9,195.0,Bethune-Cookman,WR,16,0.0,7.0,1.0,Falcons,2014
+84.0,Roddy White,11/2/1981,33.0,6-0,211.0,Ala-Birmingham,WR,14,14.0,9.0,8.0,Falcons,2014
+26.0,Josh Wilson,3/11/1985,29.0,5-9,189.0,Maryland,DB,16,4.0,7.0,2.0,Falcons,2014
+55.0,Paul Worrilow,5/1/1990,24.0,6-0,230.0,Delaware,LLB,16,16.0,1.0,7.0,Falcons,2014
+13.0,T.J. Yates,5/28/1987,27.0,6-4,215.0,North Carolina,QB,1,0.0,3.0,0.0,Falcons,2014
+,Team Total,,26.8,6-1.6,244.1,,,16,,3.7,,Falcons,2014

@@ -1,57 +1,57 @@
-,No.,Player,BirthDate,Age,Height,Weight,College/University,Position,Games_Played_in_Season,Games_Started_in_Season,NFL_Years,Player_Value,Team,Year
-0,76.0,Mike Adams,3/10/1990,24.0,6-7,323.0,Ohio St.,T,16,4.0,2.0,3.0,Steelers,2014
-1,28.0,Cortez Allen,10/29/1988,26.0,6-1,196.0,The Citadel,LCB,11,7.0,3.0,3.0,Steelers,2014
-2,20.0,Will Allen,6/17/1982,32.0,6-1,202.0,Ohio St.,DB,16,4.0,10.0,2.0,Steelers,2014
-3,13.0,Dri Archer,8/9/1991,23.0,5-8,173.0,Kent St.,WR,12,0.0,0.0,0.0,Steelers,2014
-4,68.0,Kelvin Beachum,6/8/1989,25.0,6-3,308.0,SMU,LT,16,16.0,2.0,8.0,Steelers,2014
-5,26.0,Le'Veon Bell,2/18/1992,22.0,6-1,225.0,Michigan St.,RB,16,16.0,1.0,17.0,Steelers,2014
-6,41.0,Antwon Blake,8/9/1990,24.0,5-9,198.0,Texas-El Paso,DB,16,1.0,2.0,2.0,Steelers,2014
-7,27.0,LeGarrette Blount,12/5/1986,28.0,6-0,247.0,"East Mississippi CC,Oregon",RB,11,0.0,4.0,2.0,Steelers,2014
-8,84.0,Antonio Brown,7/10/1988,26.0,5-10,185.0,Central Michigan,WR,16,16.0,4.0,16.0,Steelers,2014
-9,15.0,Justin Brown,3/10/1991,23.0,6-3,207.0,Oklahoma,WR,8,1.0,0.0,1.0,Steelers,2014
-10,10.0,Martavis Bryant,12/20/1991,23.0,6-4,210.0,Clemson,WR,10,3.0,0.0,5.0,Steelers,2014
-11,66.0,David DeCastro,1/11/1990,24.0,6-5,316.0,Stanford,RG,16,16.0,2.0,8.0,Steelers,2014
-12,73.0,Ramon Foster,1/7/1986,28.0,6-5,328.0,Tennessee,LG,14,14.0,5.0,7.0,Steelers,2014
-13,57.0,Terence Garvin,1/1/1991,23.0,6-3,242.0,West Virginia,LB,16,0.0,1.0,1.0,Steelers,2014
-14,22.0,William Gay,1/1/1985,29.0,5-10,187.0,Louisville,LCB,16,13.0,7.0,5.0,Steelers,2014
-15,77.0,Marcus Gilbert,2/15/1988,26.0,6-6,330.0,Florida,RT,12,12.0,3.0,6.0,Steelers,2014
-16,21.0,Robert Golden,9/13/1990,24.0,5-11,202.0,Arizona,DB,16,0.0,2.0,1.0,Steelers,2014
-17,5.0,Bruce Gradkowski,1/27/1983,31.0,6-1,217.0,Toledo,QB,1,0.0,8.0,0.0,Steelers,2014
-18,40.0,Josh Harris,1/22/1991,23.0,6-0,200.0,Wake Forest,RB,5,0.0,0.0,0.0,Steelers,2014
-19,92.0,James Harrison,5/4/1978,36.0,6-0,242.0,Kent St.,LB,11,4.0,12.0,3.0,Steelers,2014
-20,97.0,Cameron Heyward,5/6/1989,25.0,6-5,295.0,Ohio St.,LDE,16,16.0,3.0,7.0,Steelers,2014
-21,85.0,Darrius Heyward-Bey,2/26/1987,27.0,6-2,210.0,Maryland,WR,16,1.0,5.0,0.0,Steelers,2014
-22,74.0,Chris Hubbard,4/23/1991,23.0,6-4,295.0,Ala-Birmingham,G,1,0.0,0.0,0.0,Steelers,2014
-23,46.0,Will Johnson,11/14/1989,25.0,6-2,238.0,West Virginia,RB,16,5.0,2.0,0.0,Steelers,2014
-24,95.0,Jarvis Jones,10/13/1989,25.0,6-2,245.0,Georgia,LB,7,3.0,1.0,2.0,Steelers,2014
-25,99.0,Brett Keisel,9/19/1978,36.0,6-5,285.0,"Snow College (UT),BYU",DE,12,4.0,12.0,3.0,Steelers,2014
-26,25.0,Brice McCain,12/10/1986,28.0,5-9,190.0,Utah,RCB,14,9.0,5.0,4.0,Steelers,2014
-27,92.0,Daniel McCullers,8/11/1992,22.0,6-7,352.0,Tennessee,DT,9,1.0,0.0,1.0,Steelers,2014
-28,90.0,Steve McLendon,1/3/1986,28.0,6-3,310.0,Troy,NT,12,11.0,4.0,4.0,Steelers,2014
-29,83.0,Heath Miller,10/22/1982,32.0,6-5,256.0,Virginia,TE,16,16.0,9.0,7.0,Steelers,2014
-30,23.0,Mike Mitchell,6/10/1987,27.0,6-1,221.0,Ohio,FS,16,16.0,5.0,5.0,Steelers,2014
-31,55.0,Arthur Moats,3/14/1988,26.0,6-0,246.0,James Madison,ROLB,16,9.0,4.0,4.0,Steelers,2014
-32,16.0,Lance Moore,8/31/1983,31.0,5-9,187.0,Toledo,WR,14,2.0,8.0,2.0,Steelers,2014
-33,82.0,Michael Palmer,1/18/1988,26.0,6-5,260.0,Clemson,TE,15,1.0,4.0,0.0,Steelers,2014
-34,43.0,Troy Polamalu,4/19/1981,33.0,5-10,207.0,USC,SS,12,12.0,11.0,4.0,Steelers,2014
-35,53.0,Maurkice Pouncey,7/24/1989,25.0,6-4,304.0,Florida,C,16,16.0,4.0,15.0,Steelers,2014
-36,7.0,Ben Roethlisberger,3/2/1982,32.0,6-5,240.0,Miami (OH),QB,16,16.0,10.0,16.0,Steelers,2014
-37,50.0,Ryan Shazier,9/6/1992,22.0,6-1,230.0,Ohio St.,LILB,9,5.0,0.0,2.0,Steelers,2014
-38,89.0,Matt Spaeth,11/24/1983,31.0,6-7,270.0,Minnesota,TE,15,8.0,7.0,0.0,Steelers,2014
-39,51.0,Sean Spence,6/7/1990,24.0,5-11,231.0,Miami (FL),LILB,16,9.0,0.0,5.0,Steelers,2014
-40,6.0,Shaun Suisham,12/29/1981,33.0,6-0,199.0,Bowling Green,K,16,0.0,9.0,4.0,Steelers,2014
-41,34.0,Ben Tate,8/21/1988,26.0,5-11,214.0,Auburn,RB,0,0.0,3.0,,Steelers,2014
-42,24.0,Ike Taylor,5/5/1980,34.0,6-2,195.0,Louisiana,FS,5,5.0,11.0,1.0,Steelers,2014
-43,96.0,Cam Thomas,12/12/1986,28.0,6-3,330.0,North Carolina,RDE,16,9.0,4.0,4.0,Steelers,2014
-44,29.0,Shamarko Thomas,2/23/1991,23.0,5-9,205.0,Syracuse,DB,11,0.0,1.0,1.0,Steelers,2014
-45,94.0,Lawrence Timmons,5/14/1986,28.0,6-1,234.0,Florida St.,RILB,16,16.0,7.0,12.0,Steelers,2014
-46,91.0,Stephon Tuitt,5/23/1993,21.0,6-6,303.0,Notre Dame,DE,16,4.0,0.0,3.0,Steelers,2014
-47,35.0,Ross Ventrone,9/27/1986,28.0,5-8,190.0,Villanova,DB,9,0.0,3.0,0.0,Steelers,2014
-48,72.0,Cody Wallace,11/26/1984,30.0,6-4,290.0,Texas A&M,C,15,2.0,5.0,2.0,Steelers,2014
-49,60.0,Greg Warren,10/18/1981,33.0,6-3,252.0,North Carolina,LS,16,0.0,9.0,2.0,Steelers,2014
-50,39.0,B.W. Webb,5/3/1990,24.0,5-11,188.0,William & Mary,DB,11,0.0,1.0,1.0,Steelers,2014
-51,11.0,Markus Wheaton,2/7/1991,23.0,5-11,185.0,Oregon St.,WR,16,11.0,1.0,6.0,Steelers,2014
-52,98.0,Vince Williams,12/27/1989,25.0,6-1,233.0,Florida St.,LB,16,2.0,1.0,2.0,Steelers,2014
-53,9.0,Brad Wing,1/27/1991,23.0,6-2,205.0,LSU,P,16,0.0,0.0,2.0,Steelers,2014
-54,93.0,Jason Worilds,3/3/1988,26.0,6-2,240.0,Virginia Tech,LOLB,16,16.0,4.0,8.0,Steelers,2014
-55,,Team Total,,26.8,6-1.7,241.3,,,16,,4.0,,Steelers,2014
+No.,Player,BirthDate,Age,Height,Weight,College/University,Position,Games_Played_in_Season,Games_Started_in_Season,NFL_Years,Player_Value,Team,Year
+76.0,Mike Adams,3/10/1990,24.0,6-7,323.0,Ohio St.,T,16,4.0,2.0,3.0,Steelers,2014
+28.0,Cortez Allen,10/29/1988,26.0,6-1,196.0,The Citadel,LCB,11,7.0,3.0,3.0,Steelers,2014
+20.0,Will Allen,6/17/1982,32.0,6-1,202.0,Ohio St.,DB,16,4.0,10.0,2.0,Steelers,2014
+13.0,Dri Archer,8/9/1991,23.0,5-8,173.0,Kent St.,WR,12,0.0,0.0,0.0,Steelers,2014
+68.0,Kelvin Beachum,6/8/1989,25.0,6-3,308.0,SMU,LT,16,16.0,2.0,8.0,Steelers,2014
+26.0,Le'Veon Bell,2/18/1992,22.0,6-1,225.0,Michigan St.,RB,16,16.0,1.0,17.0,Steelers,2014
+41.0,Antwon Blake,8/9/1990,24.0,5-9,198.0,Texas-El Paso,DB,16,1.0,2.0,2.0,Steelers,2014
+27.0,LeGarrette Blount,12/5/1986,28.0,6-0,247.0,"East Mississippi CC,Oregon",RB,11,0.0,4.0,2.0,Steelers,2014
+84.0,Antonio Brown,7/10/1988,26.0,5-10,185.0,Central Michigan,WR,16,16.0,4.0,16.0,Steelers,2014
+15.0,Justin Brown,3/10/1991,23.0,6-3,207.0,Oklahoma,WR,8,1.0,0.0,1.0,Steelers,2014
+10.0,Martavis Bryant,12/20/1991,23.0,6-4,210.0,Clemson,WR,10,3.0,0.0,5.0,Steelers,2014
+66.0,David DeCastro,1/11/1990,24.0,6-5,316.0,Stanford,RG,16,16.0,2.0,8.0,Steelers,2014
+73.0,Ramon Foster,1/7/1986,28.0,6-5,328.0,Tennessee,LG,14,14.0,5.0,7.0,Steelers,2014
+57.0,Terence Garvin,1/1/1991,23.0,6-3,242.0,West Virginia,LB,16,0.0,1.0,1.0,Steelers,2014
+22.0,William Gay,1/1/1985,29.0,5-10,187.0,Louisville,LCB,16,13.0,7.0,5.0,Steelers,2014
+77.0,Marcus Gilbert,2/15/1988,26.0,6-6,330.0,Florida,RT,12,12.0,3.0,6.0,Steelers,2014
+21.0,Robert Golden,9/13/1990,24.0,5-11,202.0,Arizona,DB,16,0.0,2.0,1.0,Steelers,2014
+5.0,Bruce Gradkowski,1/27/1983,31.0,6-1,217.0,Toledo,QB,1,0.0,8.0,0.0,Steelers,2014
+40.0,Josh Harris,1/22/1991,23.0,6-0,200.0,Wake Forest,RB,5,0.0,0.0,0.0,Steelers,2014
+92.0,James Harrison,5/4/1978,36.0,6-0,242.0,Kent St.,LB,11,4.0,12.0,3.0,Steelers,2014
+97.0,Cameron Heyward,5/6/1989,25.0,6-5,295.0,Ohio St.,LDE,16,16.0,3.0,7.0,Steelers,2014
+85.0,Darrius Heyward-Bey,2/26/1987,27.0,6-2,210.0,Maryland,WR,16,1.0,5.0,0.0,Steelers,2014
+74.0,Chris Hubbard,4/23/1991,23.0,6-4,295.0,Ala-Birmingham,G,1,0.0,0.0,0.0,Steelers,2014
+46.0,Will Johnson,11/14/1989,25.0,6-2,238.0,West Virginia,RB,16,5.0,2.0,0.0,Steelers,2014
+95.0,Jarvis Jones,10/13/1989,25.0,6-2,245.0,Georgia,LB,7,3.0,1.0,2.0,Steelers,2014
+99.0,Brett Keisel,9/19/1978,36.0,6-5,285.0,"Snow College (UT),BYU",DE,12,4.0,12.0,3.0,Steelers,2014
+25.0,Brice McCain,12/10/1986,28.0,5-9,190.0,Utah,RCB,14,9.0,5.0,4.0,Steelers,2014
+92.0,Daniel McCullers,8/11/1992,22.0,6-7,352.0,Tennessee,DT,9,1.0,0.0,1.0,Steelers,2014
+90.0,Steve McLendon,1/3/1986,28.0,6-3,310.0,Troy,NT,12,11.0,4.0,4.0,Steelers,2014
+83.0,Heath Miller,10/22/1982,32.0,6-5,256.0,Virginia,TE,16,16.0,9.0,7.0,Steelers,2014
+23.0,Mike Mitchell,6/10/1987,27.0,6-1,221.0,Ohio,FS,16,16.0,5.0,5.0,Steelers,2014
+55.0,Arthur Moats,3/14/1988,26.0,6-0,246.0,James Madison,ROLB,16,9.0,4.0,4.0,Steelers,2014
+16.0,Lance Moore,8/31/1983,31.0,5-9,187.0,Toledo,WR,14,2.0,8.0,2.0,Steelers,2014
+82.0,Michael Palmer,1/18/1988,26.0,6-5,260.0,Clemson,TE,15,1.0,4.0,0.0,Steelers,2014
+43.0,Troy Polamalu,4/19/1981,33.0,5-10,207.0,USC,SS,12,12.0,11.0,4.0,Steelers,2014
+53.0,Maurkice Pouncey,7/24/1989,25.0,6-4,304.0,Florida,C,16,16.0,4.0,15.0,Steelers,2014
+7.0,Ben Roethlisberger,3/2/1982,32.0,6-5,240.0,Miami (OH),QB,16,16.0,10.0,16.0,Steelers,2014
+50.0,Ryan Shazier,9/6/1992,22.0,6-1,230.0,Ohio St.,LILB,9,5.0,0.0,2.0,Steelers,2014
+89.0,Matt Spaeth,11/24/1983,31.0,6-7,270.0,Minnesota,TE,15,8.0,7.0,0.0,Steelers,2014
+51.0,Sean Spence,6/7/1990,24.0,5-11,231.0,Miami (FL),LILB,16,9.0,0.0,5.0,Steelers,2014
+6.0,Shaun Suisham,12/29/1981,33.0,6-0,199.0,Bowling Green,K,16,0.0,9.0,4.0,Steelers,2014
+34.0,Ben Tate,8/21/1988,26.0,5-11,214.0,Auburn,RB,0,0.0,3.0,,Steelers,2014
+24.0,Ike Taylor,5/5/1980,34.0,6-2,195.0,Louisiana,FS,5,5.0,11.0,1.0,Steelers,2014
+96.0,Cam Thomas,12/12/1986,28.0,6-3,330.0,North Carolina,RDE,16,9.0,4.0,4.0,Steelers,2014
+29.0,Shamarko Thomas,2/23/1991,23.0,5-9,205.0,Syracuse,DB,11,0.0,1.0,1.0,Steelers,2014
+94.0,Lawrence Timmons,5/14/1986,28.0,6-1,234.0,Florida St.,RILB,16,16.0,7.0,12.0,Steelers,2014
+91.0,Stephon Tuitt,5/23/1993,21.0,6-6,303.0,Notre Dame,DE,16,4.0,0.0,3.0,Steelers,2014
+35.0,Ross Ventrone,9/27/1986,28.0,5-8,190.0,Villanova,DB,9,0.0,3.0,0.0,Steelers,2014
+72.0,Cody Wallace,11/26/1984,30.0,6-4,290.0,Texas A&M,C,15,2.0,5.0,2.0,Steelers,2014
+60.0,Greg Warren,10/18/1981,33.0,6-3,252.0,North Carolina,LS,16,0.0,9.0,2.0,Steelers,2014
+39.0,B.W. Webb,5/3/1990,24.0,5-11,188.0,William & Mary,DB,11,0.0,1.0,1.0,Steelers,2014
+11.0,Markus Wheaton,2/7/1991,23.0,5-11,185.0,Oregon St.,WR,16,11.0,1.0,6.0,Steelers,2014
+98.0,Vince Williams,12/27/1989,25.0,6-1,233.0,Florida St.,LB,16,2.0,1.0,2.0,Steelers,2014
+9.0,Brad Wing,1/27/1991,23.0,6-2,205.0,LSU,P,16,0.0,0.0,2.0,Steelers,2014
+93.0,Jason Worilds,3/3/1988,26.0,6-2,240.0,Virginia Tech,LOLB,16,16.0,4.0,8.0,Steelers,2014
+,Team Total,,26.8,6-1.7,241.3,,,16,,4.0,,Steelers,2014

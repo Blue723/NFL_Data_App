@@ -1,63 +1,63 @@
-,No.,Player,BirthDate,Age,Height,Weight,College/University,Position,Games_Played_in_Season,Games_Started_in_Season,NFL_Years,Player_Value,Team,Year
-0,39.0,Husain Abdullah,7/27/1985,29.0,6-0,204.0,Washington St.,FS,16,16.0,6.0,6.0,Chiefs,2014
-1,71.0,Jeff Allen,1/8/1990,24.0,6-4,306.0,Illinois,G,1,1.0,2.0,1.0,Chiefs,2014
-2,81.0,Jason Avant,4/20/1983,31.0,6-0,210.0,Michigan,WR,5,0.0,8.0,2.0,Chiefs,2014
-3,17.0,Donnie Avery,6/12/1984,30.0,5-11,186.0,Houston,WR,6,3.0,6.0,2.0,Chiefs,2014
-4,97.0,Allen Bailey,3/25/1989,25.0,6-3,288.0,Miami (FL),RDE,14,14.0,3.0,8.0,Chiefs,2014
-5,29.0,Eric Berry,12/29/1988,26.0,6-0,212.0,Tennessee,SS,6,5.0,4.0,2.0,Chiefs,2014
-6,82.0,Dwayne Bowe,9/21/1984,30.0,6-2,221.0,LSU,WR,15,15.0,7.0,8.0,Chiefs,2014
-7,25.0,Jamaal Charles,12/27/1986,28.0,5-11,199.0,Texas,RB,15,15.0,6.0,12.0,Chiefs,2014
-8,27.0,Kurt Coleman,7/1/1988,26.0,5-11,208.0,Ohio St.,DB,15,3.0,4.0,3.0,Chiefs,2014
-9,2.0,Dustin Colquitt,5/6/1982,32.0,6-3,210.0,Tennessee,P,16,0.0,9.0,2.0,Chiefs,2014
-10,31.0,Marcus Cooper,2/1/1990,24.0,6-2,197.0,Rutgers,LCB,13,4.0,1.0,2.0,Chiefs,2014
-11,10.0,Chase Daniel,10/7/1986,28.0,6-0,218.0,Missouri,QB,3,1.0,4.0,1.0,Chiefs,2014
-12,,Ja'Gared Davis,9/11/1990,24.0,6-1,235.0,SMU,LB,1,,1.0,0.0,Chiefs,2014
-13,34.0,Knile Davis,10/5/1991,23.0,5-11,227.0,Arkansas,RB,16,1.0,1.0,6.0,Chiefs,2014
-14,70.0,Mike DeVito,6/10/1984,30.0,6-3,298.0,Maine,DE,1,1.0,7.0,0.0,Chiefs,2014
-15,80.0,Anthony Fasano,4/20/1984,30.0,6-4,258.0,Notre Dame,TE,15,13.0,8.0,2.0,Chiefs,2014
-16,72.0,Eric Fisher,1/5/1991,23.0,6-7,315.0,Central Michigan,LT,16,16.0,1.0,8.0,Chiefs,2014
-17,30.0,Jamell Fleming,5/5/1989,25.0,5-11,206.0,Oklahoma,DB,7,4.0,2.0,2.0,Chiefs,2014
-18,55.0,Dee Ford,3/19/1991,23.0,6-2,252.0,Auburn,LB,16,0.0,0.0,1.0,Chiefs,2014
-19,59.0,Jerry Franklin,1/10/1988,26.0,6-2,242.0,Arkansas,LB,7,0.0,2.0,1.0,Chiefs,2014
-20,73.0,Zach Fulton,9/23/1991,23.0,6-5,321.0,Tennessee,RG,16,16.0,0.0,8.0,Chiefs,2014
-21,43.0,Thomas Gafford,1/29/1983,31.0,6-2,250.0,Houston,LB,16,0.0,6.0,2.0,Chiefs,2014
-22,23.0,Phillip Gaines,4/4/1991,23.0,6-0,193.0,Rice,LCB,13,5.0,0.0,2.0,Chiefs,2014
-23,89.0,Richard Gordon,6/7/1987,27.0,6-3,262.0,Miami (FL),TE,2,1.0,3.0,0.0,Chiefs,2014
-24,32.0,Cyrus Gray,11/18/1989,25.0,5-10,206.0,Texas A&M,RB,9,0.0,2.0,0.0,Chiefs,2014
-25,91.0,Tamba Hali,11/3/1983,31.0,6-3,275.0,Penn St.,ROLB,16,16.0,8.0,11.0,Chiefs,2014
-26,85.0,Frankie Hammond,2/17/1990,24.0,6-1,184.0,Florida,WR,16,3.0,0.0,0.0,Chiefs,2014
-27,84.0,Demetrius Harris,7/29/1991,23.0,6-7,230.0,Wisconsin–Milwaukee,TE,8,3.0,0.0,0.0,Chiefs,2014
-28,68.0,Ryan Harris,3/11/1985,29.0,6-5,299.0,Notre Dame,RT,16,15.0,7.0,7.0,Chiefs,2014
-29,88.0,Junior Hemingway,12/27/1988,26.0,6-1,225.0,Michigan,WR,14,1.0,2.0,1.0,Chiefs,2014
-30,50.0,Justin Houston,1/21/1989,25.0,6-3,270.0,Georgia,LOLB,16,16.0,3.0,17.0,Chiefs,2014
-31,96.0,Jaye Howard,12/20/1988,26.0,6-3,301.0,Florida,LDE,16,10.0,2.0,6.0,Chiefs,2014
-32,61.0,Rodney Hudson,7/12/1989,25.0,6-2,315.0,Florida St.,C,16,16.0,3.0,8.0,Chiefs,2014
-33,15.0,A.J. Jenkins,9/30/1989,25.0,6-0,192.0,Illinois,WR,9,2.0,2.0,1.0,Chiefs,2014
-34,56.0,Derrick Johnson,11/22/1982,32.0,6-3,242.0,Texas,LB,1,1.0,9.0,1.0,Chiefs,2014
-35,52.0,James-Michael Johnson,8/20/1989,25.0,6-1,241.0,Nevada,RILB,16,9.0,2.0,5.0,Chiefs,2014
-36,87.0,Travis Kelce,10/5/1989,25.0,6-5,250.0,Cincinnati,TE,16,11.0,1.0,9.0,Chiefs,2014
-37,74.0,Jeff Linkenbach,6/9/1987,27.0,6-6,303.0,Cincinnati,T,16,3.0,4.0,3.0,Chiefs,2014
-38,95.0,Josh Martin,11/7/1991,23.0,6-3,245.0,Columbia,LB,14,0.0,1.0,1.0,Chiefs,2014
-39,90.0,Josh Mauga,6/20/1987,27.0,6-1,250.0,Nevada,LILB,16,16.0,4.0,9.0,Chiefs,2014
-40,53.0,Joe Mays,7/6/1985,29.0,5-11,245.0,North Dakota St.,LB,8,3.0,6.0,2.0,Chiefs,2014
-41,24.0,Kelcie McCray,9/21/1988,26.0,6-2,205.0,Arkansas St.,DB,16,0.0,1.0,1.0,Chiefs,2014
-42,75.0,Mike McGlynn,3/8/1985,29.0,6-5,309.0,Pittsburgh,LG,14,13.0,6.0,6.0,Chiefs,2014
-43,22.0,Joe McKnight,4/16/1988,26.0,6-0,190.0,USC,RB,2,0.0,4.0,1.0,Chiefs,2014
-44,20.0,Chris Owens,12/1/1986,28.0,5-10,182.0,San Jose St.,DB,11,3.0,5.0,2.0,Chiefs,2014
-45,38.0,Ron Parker,8/17/1987,27.0,6-0,206.0,"Independence (KS),Newberry",SS,16,15.0,3.0,5.0,Chiefs,2014
-46,92.0,Dontari Poe,8/18/1990,24.0,6-3,346.0,Memphis,NT,16,16.0,2.0,12.0,Chiefs,2014
-47,5.0,Cairo Santos,11/12/1991,23.0,5-8,175.0,Tulane,K,16,0.0,0.0,3.0,Chiefs,2014
-48,42.0,Anthony Sherman,12/11/1988,26.0,5-10,242.0,Connecticut,RB,16,6.0,3.0,1.0,Chiefs,2014
-49,11.0,Alex Smith,5/7/1984,30.0,6-4,213.0,Utah,QB,15,15.0,9.0,14.0,Chiefs,2014
-50,21.0,Sean Smith,7/14/1987,27.0,6-2,215.0,Utah,RCB,16,16.0,5.0,6.0,Chiefs,2014
-51,49.0,Daniel Sorensen,3/5/1990,24.0,6-2,208.0,BYU,DB,9,0.0,0.0,1.0,Chiefs,2014
-52,79.0,Donald Stephenson,9/30/1988,26.0,6-5,312.0,Oklahoma,T,12,0.0,2.0,1.0,Chiefs,2014
-53,89.0,Phillip Supernaw,1/30/1990,24.0,6-5,255.0,Ouachita Baptist,TE,2,1.0,1.0,0.0,Chiefs,2014
-54,13.0,De'Anthony Thomas,1/5/1993,21.0,5-8,176.0,Oregon,RB,12,3.0,0.0,3.0,Chiefs,2014
-55,94.0,Kevin Vickerson,1/8/1983,31.0,6-5,328.0,Michigan St.,DT,15,1.0,7.0,2.0,Chiefs,2014
-56,99.0,Vance Walker,4/26/1987,27.0,6-2,295.0,Georgia Tech,DT,16,2.0,5.0,3.0,Chiefs,2014
-57,35.0,Charcandrick West,6/2/1991,23.0,5-10,205.0,Abilene Christian,RB,6,0.0,0.0,0.0,Chiefs,2014
-58,98.0,Nick Williams,2/21/1990,24.0,6-4,310.0,Samford,DE,2,0.0,0.0,0.0,Chiefs,2014
-59,12.0,Albert Wilson,7/12/1992,22.0,5-9,195.0,Georgia St.,WR,12,2.0,0.0,3.0,Chiefs,2014
-60,51.0,Frank Zombo,3/5/1987,27.0,6-3,254.0,Central Michigan,LB,16,0.0,4.0,2.0,Chiefs,2014
-61,,Team Total,,26.3,6-1.7,242.8,,,16,,3.3,,Chiefs,2014
+No.,Player,BirthDate,Age,Height,Weight,College/University,Position,Games_Played_in_Season,Games_Started_in_Season,NFL_Years,Player_Value,Team,Year
+39.0,Husain Abdullah,7/27/1985,29.0,6-0,204.0,Washington St.,FS,16,16.0,6.0,6.0,Chiefs,2014
+71.0,Jeff Allen,1/8/1990,24.0,6-4,306.0,Illinois,G,1,1.0,2.0,1.0,Chiefs,2014
+81.0,Jason Avant,4/20/1983,31.0,6-0,210.0,Michigan,WR,5,0.0,8.0,2.0,Chiefs,2014
+17.0,Donnie Avery,6/12/1984,30.0,5-11,186.0,Houston,WR,6,3.0,6.0,2.0,Chiefs,2014
+97.0,Allen Bailey,3/25/1989,25.0,6-3,288.0,Miami (FL),RDE,14,14.0,3.0,8.0,Chiefs,2014
+29.0,Eric Berry,12/29/1988,26.0,6-0,212.0,Tennessee,SS,6,5.0,4.0,2.0,Chiefs,2014
+82.0,Dwayne Bowe,9/21/1984,30.0,6-2,221.0,LSU,WR,15,15.0,7.0,8.0,Chiefs,2014
+25.0,Jamaal Charles,12/27/1986,28.0,5-11,199.0,Texas,RB,15,15.0,6.0,12.0,Chiefs,2014
+27.0,Kurt Coleman,7/1/1988,26.0,5-11,208.0,Ohio St.,DB,15,3.0,4.0,3.0,Chiefs,2014
+2.0,Dustin Colquitt,5/6/1982,32.0,6-3,210.0,Tennessee,P,16,0.0,9.0,2.0,Chiefs,2014
+31.0,Marcus Cooper,2/1/1990,24.0,6-2,197.0,Rutgers,LCB,13,4.0,1.0,2.0,Chiefs,2014
+10.0,Chase Daniel,10/7/1986,28.0,6-0,218.0,Missouri,QB,3,1.0,4.0,1.0,Chiefs,2014
+,Ja'Gared Davis,9/11/1990,24.0,6-1,235.0,SMU,LB,1,,1.0,0.0,Chiefs,2014
+34.0,Knile Davis,10/5/1991,23.0,5-11,227.0,Arkansas,RB,16,1.0,1.0,6.0,Chiefs,2014
+70.0,Mike DeVito,6/10/1984,30.0,6-3,298.0,Maine,DE,1,1.0,7.0,0.0,Chiefs,2014
+80.0,Anthony Fasano,4/20/1984,30.0,6-4,258.0,Notre Dame,TE,15,13.0,8.0,2.0,Chiefs,2014
+72.0,Eric Fisher,1/5/1991,23.0,6-7,315.0,Central Michigan,LT,16,16.0,1.0,8.0,Chiefs,2014
+30.0,Jamell Fleming,5/5/1989,25.0,5-11,206.0,Oklahoma,DB,7,4.0,2.0,2.0,Chiefs,2014
+55.0,Dee Ford,3/19/1991,23.0,6-2,252.0,Auburn,LB,16,0.0,0.0,1.0,Chiefs,2014
+59.0,Jerry Franklin,1/10/1988,26.0,6-2,242.0,Arkansas,LB,7,0.0,2.0,1.0,Chiefs,2014
+73.0,Zach Fulton,9/23/1991,23.0,6-5,321.0,Tennessee,RG,16,16.0,0.0,8.0,Chiefs,2014
+43.0,Thomas Gafford,1/29/1983,31.0,6-2,250.0,Houston,LB,16,0.0,6.0,2.0,Chiefs,2014
+23.0,Phillip Gaines,4/4/1991,23.0,6-0,193.0,Rice,LCB,13,5.0,0.0,2.0,Chiefs,2014
+89.0,Richard Gordon,6/7/1987,27.0,6-3,262.0,Miami (FL),TE,2,1.0,3.0,0.0,Chiefs,2014
+32.0,Cyrus Gray,11/18/1989,25.0,5-10,206.0,Texas A&M,RB,9,0.0,2.0,0.0,Chiefs,2014
+91.0,Tamba Hali,11/3/1983,31.0,6-3,275.0,Penn St.,ROLB,16,16.0,8.0,11.0,Chiefs,2014
+85.0,Frankie Hammond,2/17/1990,24.0,6-1,184.0,Florida,WR,16,3.0,0.0,0.0,Chiefs,2014
+84.0,Demetrius Harris,7/29/1991,23.0,6-7,230.0,Wisconsin–Milwaukee,TE,8,3.0,0.0,0.0,Chiefs,2014
+68.0,Ryan Harris,3/11/1985,29.0,6-5,299.0,Notre Dame,RT,16,15.0,7.0,7.0,Chiefs,2014
+88.0,Junior Hemingway,12/27/1988,26.0,6-1,225.0,Michigan,WR,14,1.0,2.0,1.0,Chiefs,2014
+50.0,Justin Houston,1/21/1989,25.0,6-3,270.0,Georgia,LOLB,16,16.0,3.0,17.0,Chiefs,2014
+96.0,Jaye Howard,12/20/1988,26.0,6-3,301.0,Florida,LDE,16,10.0,2.0,6.0,Chiefs,2014
+61.0,Rodney Hudson,7/12/1989,25.0,6-2,315.0,Florida St.,C,16,16.0,3.0,8.0,Chiefs,2014
+15.0,A.J. Jenkins,9/30/1989,25.0,6-0,192.0,Illinois,WR,9,2.0,2.0,1.0,Chiefs,2014
+56.0,Derrick Johnson,11/22/1982,32.0,6-3,242.0,Texas,LB,1,1.0,9.0,1.0,Chiefs,2014
+52.0,James-Michael Johnson,8/20/1989,25.0,6-1,241.0,Nevada,RILB,16,9.0,2.0,5.0,Chiefs,2014
+87.0,Travis Kelce,10/5/1989,25.0,6-5,250.0,Cincinnati,TE,16,11.0,1.0,9.0,Chiefs,2014
+74.0,Jeff Linkenbach,6/9/1987,27.0,6-6,303.0,Cincinnati,T,16,3.0,4.0,3.0,Chiefs,2014
+95.0,Josh Martin,11/7/1991,23.0,6-3,245.0,Columbia,LB,14,0.0,1.0,1.0,Chiefs,2014
+90.0,Josh Mauga,6/20/1987,27.0,6-1,250.0,Nevada,LILB,16,16.0,4.0,9.0,Chiefs,2014
+53.0,Joe Mays,7/6/1985,29.0,5-11,245.0,North Dakota St.,LB,8,3.0,6.0,2.0,Chiefs,2014
+24.0,Kelcie McCray,9/21/1988,26.0,6-2,205.0,Arkansas St.,DB,16,0.0,1.0,1.0,Chiefs,2014
+75.0,Mike McGlynn,3/8/1985,29.0,6-5,309.0,Pittsburgh,LG,14,13.0,6.0,6.0,Chiefs,2014
+22.0,Joe McKnight,4/16/1988,26.0,6-0,190.0,USC,RB,2,0.0,4.0,1.0,Chiefs,2014
+20.0,Chris Owens,12/1/1986,28.0,5-10,182.0,San Jose St.,DB,11,3.0,5.0,2.0,Chiefs,2014
+38.0,Ron Parker,8/17/1987,27.0,6-0,206.0,"Independence (KS),Newberry",SS,16,15.0,3.0,5.0,Chiefs,2014
+92.0,Dontari Poe,8/18/1990,24.0,6-3,346.0,Memphis,NT,16,16.0,2.0,12.0,Chiefs,2014
+5.0,Cairo Santos,11/12/1991,23.0,5-8,175.0,Tulane,K,16,0.0,0.0,3.0,Chiefs,2014
+42.0,Anthony Sherman,12/11/1988,26.0,5-10,242.0,Connecticut,RB,16,6.0,3.0,1.0,Chiefs,2014
+11.0,Alex Smith,5/7/1984,30.0,6-4,213.0,Utah,QB,15,15.0,9.0,14.0,Chiefs,2014
+21.0,Sean Smith,7/14/1987,27.0,6-2,215.0,Utah,RCB,16,16.0,5.0,6.0,Chiefs,2014
+49.0,Daniel Sorensen,3/5/1990,24.0,6-2,208.0,BYU,DB,9,0.0,0.0,1.0,Chiefs,2014
+79.0,Donald Stephenson,9/30/1988,26.0,6-5,312.0,Oklahoma,T,12,0.0,2.0,1.0,Chiefs,2014
+89.0,Phillip Supernaw,1/30/1990,24.0,6-5,255.0,Ouachita Baptist,TE,2,1.0,1.0,0.0,Chiefs,2014
+13.0,De'Anthony Thomas,1/5/1993,21.0,5-8,176.0,Oregon,RB,12,3.0,0.0,3.0,Chiefs,2014
+94.0,Kevin Vickerson,1/8/1983,31.0,6-5,328.0,Michigan St.,DT,15,1.0,7.0,2.0,Chiefs,2014
+99.0,Vance Walker,4/26/1987,27.0,6-2,295.0,Georgia Tech,DT,16,2.0,5.0,3.0,Chiefs,2014
+35.0,Charcandrick West,6/2/1991,23.0,5-10,205.0,Abilene Christian,RB,6,0.0,0.0,0.0,Chiefs,2014
+98.0,Nick Williams,2/21/1990,24.0,6-4,310.0,Samford,DE,2,0.0,0.0,0.0,Chiefs,2014
+12.0,Albert Wilson,7/12/1992,22.0,5-9,195.0,Georgia St.,WR,12,2.0,0.0,3.0,Chiefs,2014
+51.0,Frank Zombo,3/5/1987,27.0,6-3,254.0,Central Michigan,LB,16,0.0,4.0,2.0,Chiefs,2014
+,Team Total,,26.3,6-1.7,242.8,,,16,,3.3,,Chiefs,2014

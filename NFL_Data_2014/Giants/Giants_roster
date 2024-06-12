@@ -1,70 +1,70 @@
-,No.,Player,BirthDate,Age,Height,Weight,College/University,Position,Games_Played_in_Season,Games_Started_in_Season,NFL_Years,Player_Value,Team,Year
-0,20.0,Prince Amukamara,6/6/1989,25.0,6-0,206.0,Nebraska,RCB,8,8.0,3.0,3.0,Giants,2014
-1,47.0,Justin Anderson,1/16/1991,23.0,6-2,232.0,Louisiana,LB,2,0.0,0.0,0.0,Giants,2014
-2,91.0,Robert Ayers,9/6/1985,29.0,6-3,275.0,Tennessee,DE,12,1.0,5.0,2.0,Giants,2014
-3,52.0,Jon Beason,1/14/1985,29.0,6-0,237.0,Miami (FL),LB,4,4.0,7.0,2.0,Giants,2014
-4,65.0,Will Beatty,3/2/1985,29.0,6-6,291.0,Connecticut,LT,16,16.0,5.0,8.0,Giants,2014
-5,13.0,Odell Beckham Jr.,11/5/1992,22.0,5-11,200.0,LSU,WR,12,11.0,0.0,11.0,Giants,2014
-6,34.0,Nat Berhe,7/6/1991,23.0,5-11,195.0,San Diego St.,DB,16,0.0,0.0,1.0,Giants,2014
-7,31.0,Zackary Bowman,11/14/1984,30.0,6-1,197.0,Nebraska,RCB,16,5.0,6.0,3.0,Giants,2014
-8,73.0,James Brewer,12/23/1987,27.0,6-6,323.0,Indiana,T,2,0.0,2.0,0.0,Giants,2014
-9,96.0,Jay Bromley,5/28/1992,22.0,6-3,314.0,Syracuse,DT,8,0.0,0.0,1.0,Giants,2014
-10,71.0,Charles Brown,4/10/1987,27.0,6-5,284.0,USC,T,2,0.0,4.0,0.0,Giants,2014
-11,39.0,Chykie Brown,12/26/1986,28.0,6-0,185.0,Texas,DB,8,4.0,3.0,2.0,Giants,2014
-12,3.0,Josh Brown,4/29/1979,35.0,6-0,202.0,Nebraska,K,16,0.0,11.0,4.0,Giants,2014
-13,27.0,Stevie Brown,7/17/1987,27.0,6-0,213.0,Michigan,FS,16,8.0,4.0,3.0,Giants,2014
-14,29.0,Michael Cox,11/14/1988,26.0,,214.0,Massachusetts,RB,4,0.0,1.0,0.0,Giants,2014
-15,80.0,Victor Cruz,11/11/1986,28.0,6-0,204.0,Massachusetts,WR,6,6.0,4.0,3.0,Giants,2014
-16,43.0,Orleans Darkwa,2/28/1992,22.0,6-0,210.0,Tulane,RB,7,0.0,0.0,0.0,Giants,2014
-17,46.0,James Davidson,11/1/1990,24.0,6-3,242.0,Texas-El Paso,LB,2,0.0,0.0,0.0,Giants,2014
-18,35.0,Quintin Demps,6/29/1985,29.0,6-0,203.0,Texas-El Paso,FS,16,9.0,6.0,4.0,Giants,2014
-19,51.0,Zak DeOssie,5/25/1984,30.0,6-5,250.0,Brown,LB,16,0.0,7.0,2.0,Giants,2014
-20,84.0,Larry Donnell,11/1/1988,26.0,6-5,269.0,Grambling St.,TE,16,12.0,1.0,5.0,Giants,2014
-21,85.0,Daniel Fells,9/23/1983,31.0,6-4,260.0,UC Davis,TE,16,9.0,6.0,2.0,Giants,2014
-22,48.0,Chandler Fenner,7/6/1990,24.0,6-1,189.0,Holy Cross,DB,11,0.0,0.0,1.0,Giants,2014
-23,97.0,Dan Fox,3/17/1991,23.0,6-3,233.0,Notre Dame,LB,2,0.0,0.0,0.0,Giants,2014
-24,95.0,Johnathan Hankins,3/30/1992,22.0,6-2,320.0,Ohio St.,RDT,16,16.0,1.0,7.0,Giants,2014
-25,37.0,Mike Harris,1/5/1989,25.0,5-10,188.0,Florida St.,DB,5,1.0,2.0,1.0,Giants,2014
-26,71.0,Paul Hazel,5/9/1990,24.0,6-5,227.0,Western Michigan,DE,4,0.0,1.0,0.0,Giants,2014
-27,58.0,Mark Herzlich,9/1/1987,27.0,6-5,236.0,Boston Col.,LLB,15,8.0,3.0,4.0,Giants,2014
-28,33.0,Peyton Hillis,1/21/1986,28.0,6-1,240.0,Arkansas,RB,9,0.0,6.0,1.0,Giants,2014
-29,28.0,Jayron Hosley,9/18/1990,24.0,5-10,178.0,Virginia Tech,DB,6,2.0,2.0,1.0,Giants,2014
-30,45.0,Henry Hynoski,12/30/1988,26.0,6-2,260.0,Pittsburgh,RB,16,4.0,3.0,0.0,Giants,2014
-31,99.0,Cullen Jenkins,1/20/1981,33.0,6-2,305.0,Central Michigan,LDT,12,11.0,10.0,5.0,Giants,2014
-32,23.0,Rashad Jennings,3/26/1985,29.0,6-1,234.0,Liberty,RB,11,9.0,5.0,6.0,Giants,2014
-33,12.0,Jerrel Jernigan,6/14/1989,25.0,5-9,181.0,Troy,WR,2,1.0,3.0,0.0,Giants,2014
-34,77.0,John Jerry,6/14/1986,28.0,6-5,340.0,Mississippi,RG,16,16.0,4.0,8.0,Giants,2014
-35,59.0,Devon Kennard,6/24/1991,23.0,6-3,256.0,USC,LLB,12,6.0,0.0,3.0,Giants,2014
-36,94.0,Mathias Kiwanuka,3/8/1983,31.0,6-5,267.0,Boston Col.,LDE,11,11.0,8.0,5.0,Giants,2014
-37,78.0,Markus Kuhn,5/6/1986,28.0,6-4,299.0,North Carolina St.,DT,14,1.0,2.0,2.0,Giants,2014
-38,10.0,Eli Manning,1/3/1981,33.0,6-5,220.0,Mississippi,QB,16,16.0,10.0,13.0,Giants,2014
-39,97.0,Terrell Manning,4/16/1990,24.0,6-2,237.0,North Carolina St.,LB,1,0.0,2.0,0.0,Giants,2014
-40,38.0,Trumaine McBride,9/24/1985,29.0,5-9,185.0,Mississippi,DB,6,1.0,7.0,1.0,Giants,2014
-41,53.0,Jameel McClain,7/25/1985,29.0,6-1,245.0,Syracuse,MLB,16,14.0,6.0,7.0,Giants,2014
-42,98.0,Damontre Moore,9/11/1992,22.0,6-4,260.0,Texas A&M,DE,16,0.0,1.0,2.0,Giants,2014
-43,75.0,Brandon Mosley,12/21/1988,26.0,6-5,314.0,Auburn,T,9,0.0,1.0,1.0,Giants,2014
-44,9.0,Ryan Nassib,3/10/1990,24.0,6-2,227.0,Syracuse,QB,4,0.0,0.0,0.0,Giants,2014
-45,47.0,Chris Ogbonnaya,5/20/1986,28.0,6-0,220.0,Texas,RB,2,0.0,5.0,0.0,Giants,2014
-46,15.0,Kevin Ogletree,8/5/1987,27.0,6-2,190.0,Virginia,WR,7,0.0,5.0,0.0,Giants,2014
-47,83.0,Preston Parker,2/13/1987,27.0,6-0,200.0,"Florida St.,North Alabama",WR,16,7.0,4.0,3.0,Giants,2014
-48,93.0,Mike Patterson,9/1/1983,31.0,6-1,300.0,USC,LDT,16,8.0,9.0,4.0,Giants,2014
-49,54.0,Spencer Paysinger,6/28/1988,26.0,6-2,236.0,Oregon,LB,15,1.0,3.0,1.0,Giants,2014
-50,90.0,Jason Pierre-Paul,1/1/1989,25.0,6-5,275.0,"College of the Canyons (CA),South Florida",RDE,16,16.0,4.0,9.0,Giants,2014
-51,67.0,Justin Pugh,8/15/1990,24.0,6-5,311.0,Syracuse,RT,14,14.0,1.0,7.0,Giants,2014
-52,82.0,Rueben Randle,5/7/1991,23.0,6-2,208.0,LSU,WR,16,13.0,2.0,8.0,Giants,2014
-53,61.0,Dallas Reynolds,4/23/1984,30.0,6-4,314.0,BYU,C,15,0.0,2.0,1.0,Giants,2014
-54,70.0,Weston Richburg,7/9/1991,23.0,6-4,290.0,Colorado St.,LG,16,15.0,0.0,8.0,Giants,2014
-55,81.0,Adrien Robinson,9/23/1988,26.0,6-4,264.0,Cincinnati,LB,16,1.0,2.0,0.0,Giants,2014
-56,21.0,Dominique Rodgers-Cromartie,4/7/1986,28.0,6-2,205.0,Tennessee St.,LCB,16,15.0,6.0,6.0,Giants,2014
-57,26.0,Antrel Rolle,12/16/1982,32.0,6-0,206.0,Miami (FL),SS,16,16.0,9.0,6.0,Giants,2014
-58,74.0,Geoff Schwartz,7/11/1986,28.0,6-6,332.0,Oregon,G,2,2.0,5.0,1.0,Giants,2014
-59,68.0,Adam Snyder,1/30/1982,32.0,6-6,325.0,Oregon,G,4,1.0,9.0,1.0,Giants,2014
-60,19.0,Julian Talley,6/9/1989,25.0,6-1,192.0,Massachusetts,WR,2,0.0,1.0,0.0,Giants,2014
-61,24.0,Walter Thurmond,8/12/1987,27.0,5-11,186.0,Oregon,DB,2,1.0,4.0,0.0,Giants,2014
-62,55.0,J.D. Walton,3/24/1987,27.0,6-3,299.0,Baylor,C,16,16.0,4.0,8.0,Giants,2014
-63,88.0,Corey Washington,12/29/1991,23.0,6-4,200.0,Newberry,WR,14,0.0,0.0,0.0,Giants,2014
-64,5.0,Steve Weatherford,12/17/1982,32.0,6-2,210.0,Illinois,P,16,0.0,8.0,2.0,Giants,2014
-65,44.0,Andre Williams,8/28/1992,22.0,6-0,220.0,Boston Col.,RB,16,7.0,0.0,4.0,Giants,2014
-66,57.0,Jacquian Williams,7/20/1988,26.0,6-4,225.0,South Florida,RLB,9,9.0,3.0,4.0,Giants,2014
-67,72.0,Kerry Wynn,2/12/1991,23.0,6-5,261.0,Richmond,DE,5,0.0,0.0,1.0,Giants,2014
-68,,Team Total,,26.7,6-2.3,242.9,,,16,,3.5,,Giants,2014
+No.,Player,BirthDate,Age,Height,Weight,College/University,Position,Games_Played_in_Season,Games_Started_in_Season,NFL_Years,Player_Value,Team,Year
+20.0,Prince Amukamara,6/6/1989,25.0,6-0,206.0,Nebraska,RCB,8,8.0,3.0,3.0,Giants,2014
+47.0,Justin Anderson,1/16/1991,23.0,6-2,232.0,Louisiana,LB,2,0.0,0.0,0.0,Giants,2014
+91.0,Robert Ayers,9/6/1985,29.0,6-3,275.0,Tennessee,DE,12,1.0,5.0,2.0,Giants,2014
+52.0,Jon Beason,1/14/1985,29.0,6-0,237.0,Miami (FL),LB,4,4.0,7.0,2.0,Giants,2014
+65.0,Will Beatty,3/2/1985,29.0,6-6,291.0,Connecticut,LT,16,16.0,5.0,8.0,Giants,2014
+13.0,Odell Beckham Jr.,11/5/1992,22.0,5-11,200.0,LSU,WR,12,11.0,0.0,11.0,Giants,2014
+34.0,Nat Berhe,7/6/1991,23.0,5-11,195.0,San Diego St.,DB,16,0.0,0.0,1.0,Giants,2014
+31.0,Zackary Bowman,11/14/1984,30.0,6-1,197.0,Nebraska,RCB,16,5.0,6.0,3.0,Giants,2014
+73.0,James Brewer,12/23/1987,27.0,6-6,323.0,Indiana,T,2,0.0,2.0,0.0,Giants,2014
+96.0,Jay Bromley,5/28/1992,22.0,6-3,314.0,Syracuse,DT,8,0.0,0.0,1.0,Giants,2014
+71.0,Charles Brown,4/10/1987,27.0,6-5,284.0,USC,T,2,0.0,4.0,0.0,Giants,2014
+39.0,Chykie Brown,12/26/1986,28.0,6-0,185.0,Texas,DB,8,4.0,3.0,2.0,Giants,2014
+3.0,Josh Brown,4/29/1979,35.0,6-0,202.0,Nebraska,K,16,0.0,11.0,4.0,Giants,2014
+27.0,Stevie Brown,7/17/1987,27.0,6-0,213.0,Michigan,FS,16,8.0,4.0,3.0,Giants,2014
+29.0,Michael Cox,11/14/1988,26.0,,214.0,Massachusetts,RB,4,0.0,1.0,0.0,Giants,2014
+80.0,Victor Cruz,11/11/1986,28.0,6-0,204.0,Massachusetts,WR,6,6.0,4.0,3.0,Giants,2014
+43.0,Orleans Darkwa,2/28/1992,22.0,6-0,210.0,Tulane,RB,7,0.0,0.0,0.0,Giants,2014
+46.0,James Davidson,11/1/1990,24.0,6-3,242.0,Texas-El Paso,LB,2,0.0,0.0,0.0,Giants,2014
+35.0,Quintin Demps,6/29/1985,29.0,6-0,203.0,Texas-El Paso,FS,16,9.0,6.0,4.0,Giants,2014
+51.0,Zak DeOssie,5/25/1984,30.0,6-5,250.0,Brown,LB,16,0.0,7.0,2.0,Giants,2014
+84.0,Larry Donnell,11/1/1988,26.0,6-5,269.0,Grambling St.,TE,16,12.0,1.0,5.0,Giants,2014
+85.0,Daniel Fells,9/23/1983,31.0,6-4,260.0,UC Davis,TE,16,9.0,6.0,2.0,Giants,2014
+48.0,Chandler Fenner,7/6/1990,24.0,6-1,189.0,Holy Cross,DB,11,0.0,0.0,1.0,Giants,2014
+97.0,Dan Fox,3/17/1991,23.0,6-3,233.0,Notre Dame,LB,2,0.0,0.0,0.0,Giants,2014
+95.0,Johnathan Hankins,3/30/1992,22.0,6-2,320.0,Ohio St.,RDT,16,16.0,1.0,7.0,Giants,2014
+37.0,Mike Harris,1/5/1989,25.0,5-10,188.0,Florida St.,DB,5,1.0,2.0,1.0,Giants,2014
+71.0,Paul Hazel,5/9/1990,24.0,6-5,227.0,Western Michigan,DE,4,0.0,1.0,0.0,Giants,2014
+58.0,Mark Herzlich,9/1/1987,27.0,6-5,236.0,Boston Col.,LLB,15,8.0,3.0,4.0,Giants,2014
+33.0,Peyton Hillis,1/21/1986,28.0,6-1,240.0,Arkansas,RB,9,0.0,6.0,1.0,Giants,2014
+28.0,Jayron Hosley,9/18/1990,24.0,5-10,178.0,Virginia Tech,DB,6,2.0,2.0,1.0,Giants,2014
+45.0,Henry Hynoski,12/30/1988,26.0,6-2,260.0,Pittsburgh,RB,16,4.0,3.0,0.0,Giants,2014
+99.0,Cullen Jenkins,1/20/1981,33.0,6-2,305.0,Central Michigan,LDT,12,11.0,10.0,5.0,Giants,2014
+23.0,Rashad Jennings,3/26/1985,29.0,6-1,234.0,Liberty,RB,11,9.0,5.0,6.0,Giants,2014
+12.0,Jerrel Jernigan,6/14/1989,25.0,5-9,181.0,Troy,WR,2,1.0,3.0,0.0,Giants,2014
+77.0,John Jerry,6/14/1986,28.0,6-5,340.0,Mississippi,RG,16,16.0,4.0,8.0,Giants,2014
+59.0,Devon Kennard,6/24/1991,23.0,6-3,256.0,USC,LLB,12,6.0,0.0,3.0,Giants,2014
+94.0,Mathias Kiwanuka,3/8/1983,31.0,6-5,267.0,Boston Col.,LDE,11,11.0,8.0,5.0,Giants,2014
+78.0,Markus Kuhn,5/6/1986,28.0,6-4,299.0,North Carolina St.,DT,14,1.0,2.0,2.0,Giants,2014
+10.0,Eli Manning,1/3/1981,33.0,6-5,220.0,Mississippi,QB,16,16.0,10.0,13.0,Giants,2014
+97.0,Terrell Manning,4/16/1990,24.0,6-2,237.0,North Carolina St.,LB,1,0.0,2.0,0.0,Giants,2014
+38.0,Trumaine McBride,9/24/1985,29.0,5-9,185.0,Mississippi,DB,6,1.0,7.0,1.0,Giants,2014
+53.0,Jameel McClain,7/25/1985,29.0,6-1,245.0,Syracuse,MLB,16,14.0,6.0,7.0,Giants,2014
+98.0,Damontre Moore,9/11/1992,22.0,6-4,260.0,Texas A&M,DE,16,0.0,1.0,2.0,Giants,2014
+75.0,Brandon Mosley,12/21/1988,26.0,6-5,314.0,Auburn,T,9,0.0,1.0,1.0,Giants,2014
+9.0,Ryan Nassib,3/10/1990,24.0,6-2,227.0,Syracuse,QB,4,0.0,0.0,0.0,Giants,2014
+47.0,Chris Ogbonnaya,5/20/1986,28.0,6-0,220.0,Texas,RB,2,0.0,5.0,0.0,Giants,2014
+15.0,Kevin Ogletree,8/5/1987,27.0,6-2,190.0,Virginia,WR,7,0.0,5.0,0.0,Giants,2014
+83.0,Preston Parker,2/13/1987,27.0,6-0,200.0,"Florida St.,North Alabama",WR,16,7.0,4.0,3.0,Giants,2014
+93.0,Mike Patterson,9/1/1983,31.0,6-1,300.0,USC,LDT,16,8.0,9.0,4.0,Giants,2014
+54.0,Spencer Paysinger,6/28/1988,26.0,6-2,236.0,Oregon,LB,15,1.0,3.0,1.0,Giants,2014
+90.0,Jason Pierre-Paul,1/1/1989,25.0,6-5,275.0,"College of the Canyons (CA),South Florida",RDE,16,16.0,4.0,9.0,Giants,2014
+67.0,Justin Pugh,8/15/1990,24.0,6-5,311.0,Syracuse,RT,14,14.0,1.0,7.0,Giants,2014
+82.0,Rueben Randle,5/7/1991,23.0,6-2,208.0,LSU,WR,16,13.0,2.0,8.0,Giants,2014
+61.0,Dallas Reynolds,4/23/1984,30.0,6-4,314.0,BYU,C,15,0.0,2.0,1.0,Giants,2014
+70.0,Weston Richburg,7/9/1991,23.0,6-4,290.0,Colorado St.,LG,16,15.0,0.0,8.0,Giants,2014
+81.0,Adrien Robinson,9/23/1988,26.0,6-4,264.0,Cincinnati,LB,16,1.0,2.0,0.0,Giants,2014
+21.0,Dominique Rodgers-Cromartie,4/7/1986,28.0,6-2,205.0,Tennessee St.,LCB,16,15.0,6.0,6.0,Giants,2014
+26.0,Antrel Rolle,12/16/1982,32.0,6-0,206.0,Miami (FL),SS,16,16.0,9.0,6.0,Giants,2014
+74.0,Geoff Schwartz,7/11/1986,28.0,6-6,332.0,Oregon,G,2,2.0,5.0,1.0,Giants,2014
+68.0,Adam Snyder,1/30/1982,32.0,6-6,325.0,Oregon,G,4,1.0,9.0,1.0,Giants,2014
+19.0,Julian Talley,6/9/1989,25.0,6-1,192.0,Massachusetts,WR,2,0.0,1.0,0.0,Giants,2014
+24.0,Walter Thurmond,8/12/1987,27.0,5-11,186.0,Oregon,DB,2,1.0,4.0,0.0,Giants,2014
+55.0,J.D. Walton,3/24/1987,27.0,6-3,299.0,Baylor,C,16,16.0,4.0,8.0,Giants,2014
+88.0,Corey Washington,12/29/1991,23.0,6-4,200.0,Newberry,WR,14,0.0,0.0,0.0,Giants,2014
+5.0,Steve Weatherford,12/17/1982,32.0,6-2,210.0,Illinois,P,16,0.0,8.0,2.0,Giants,2014
+44.0,Andre Williams,8/28/1992,22.0,6-0,220.0,Boston Col.,RB,16,7.0,0.0,4.0,Giants,2014
+57.0,Jacquian Williams,7/20/1988,26.0,6-4,225.0,South Florida,RLB,9,9.0,3.0,4.0,Giants,2014
+72.0,Kerry Wynn,2/12/1991,23.0,6-5,261.0,Richmond,DE,5,0.0,0.0,1.0,Giants,2014
+,Team Total,,26.7,6-2.3,242.9,,,16,,3.5,,Giants,2014

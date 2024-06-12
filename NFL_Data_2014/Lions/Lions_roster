@@ -1,66 +1,66 @@
-,No.,Player,BirthDate,Age,Height,Weight,College/University,Position,Games_Played_in_Season,Games_Started_in_Season,NFL_Years,Player_Value,Team,Year
-0,42.0,Isa Abdul-Quddus,8/3/1989,25.0,6-1,200.0,Fordham,DB,16,4.0,3.0,2.0,Lions,2014
-1,94.0,Ezekiel Ansah,5/29/1989,25.0,6-5,275.0,BYU,LDE,16,16.0,1.0,9.0,Lions,2014
-2,74.0,Rodney Austin,12/4/1988,26.0,6-4,311.0,Elon,G,0,0.0,1.0,,Lions,2014
-3,35.0,Joique Bell,8/4/1986,28.0,5-11,220.0,Wayne State (MI),RB,15,6.0,4.0,8.0,Lions,2014
-4,28.0,Bill Bentley,5/16/1989,25.0,5-10,176.0,Louisiana,DB,1,0.0,2.0,0.0,Lions,2014
-5,84.0,Ryan Broyles,4/9/1988,26.0,5-10,192.0,Oklahoma,WR,5,0.0,2.0,0.0,Lions,2014
-6,21.0,Reggie Bush,3/2/1985,29.0,6-0,205.0,USC,RB,11,9.0,8.0,4.0,Lions,2014
-7,57.0,Josh Bynes,8/24/1989,25.0,6-1,240.0,Auburn,LB,13,0.0,3.0,2.0,Lions,2014
-8,26.0,Don Carey,2/14/1987,27.0,5-11,202.0,Norfolk St.,DB,13,3.0,4.0,2.0,Lions,2014
-9,45.0,Jed Collins,3/3/1986,28.0,6-1,255.0,Washington St.,RB,16,2.0,3.0,0.0,Lions,2014
-10,24.0,Jerome Couplin,8/31/1991,23.0,6-2,215.0,William & Mary,DB,8,0.0,0.0,0.0,Lions,2014
-11,89.0,Kellen Davis,10/11/1985,29.0,6-6,259.0,Michigan St.,TE,6,0.0,6.0,0.0,Lions,2014
-12,85.0,Eric Ebron,4/10/1993,21.0,6-4,253.0,North Carolina,TE,13,7.0,0.0,2.0,Lions,2014
-13,98.0,Nick Fairley,1/23/1988,26.0,6-5,291.0,"Copiah-Lincoln CC,Auburn",LDT,8,8.0,3.0,4.0,Lions,2014
-14,80.0,Joseph Fauria,1/16/1990,24.0,6-7,259.0,UCLA,TE,7,0.0,1.0,1.0,Lions,2014
-15,96.0,Andre Fluellen,3/7/1985,29.0,6-2,285.0,Florida St.,DT,8,0.0,6.0,1.0,Lions,2014
-16,3.0,Nate Freese,8/18/1990,24.0,5-11,192.0,Boston Col.,K,3,0.0,0.0,-1.0,Lions,2014
-17,10.0,Corey Fuller,6/23/1990,24.0,6-2,204.0,Virginia Tech,WR,16,2.0,0.0,2.0,Lions,2014
-18,36.0,Danny Gorrer,6/1/1986,28.0,6-0,173.0,Texas A&M,DB,6,0.0,5.0,0.0,Lions,2014
-19,5.0,Alex Henery,8/18/1987,27.0,6-1,178.0,Nebraska,K,2,0.0,3.0,-1.0,Lions,2014
-20,78.0,Corey Hilliard,4/26/1985,29.0,6-5,315.0,Oklahoma St.,T,1,0.0,7.0,0.0,Lions,2014
-21,32.0,James Ihedigbo,12/3/1983,31.0,6-1,202.0,Massachusetts,SS,13,13.0,6.0,6.0,Lions,2014
-22,81.0,Calvin Johnson,9/29/1985,29.0,6-5,237.0,Georgia Tech,WR,13,13.0,7.0,9.0,Lions,2014
-23,93.0,George Johnson,12/11/1987,27.0,6-4,265.0,Rutgers,DE,16,0.0,3.0,3.0,Lions,2014
-24,91.0,Jason Jones,5/23/1986,28.0,6-5,272.0,Eastern Michigan,RDE,16,16.0,6.0,8.0,Lions,2014
-25,43.0,Nevin Lawson,4/23/1991,23.0,5-9,192.0,Utah St.,DB,2,0.0,0.0,0.0,Lions,2014
-26,54.0,DeAndre Levy,3/26/1987,27.0,6-2,230.0,Wisconsin,RLB,16,16.0,5.0,15.0,Lions,2014
-27,50.0,Travis Lewis,1/15/1988,26.0,6-1,246.0,Oklahoma,LB,2,0.0,2.0,0.0,Lions,2014
-28,77.0,Cornelius Lucas,7/18/1991,23.0,6-8,327.0,Kansas St.,T,15,3.0,0.0,2.0,Lions,2014
-29,6.0,Sam Martin,2/27/1990,24.0,6-1,211.0,Appalachian St.,P,16,0.0,1.0,3.0,Lions,2014
-30,31.0,Rashean Mathis,8/27/1980,34.0,6-1,195.0,Bethune-Cookman,RCB,16,16.0,11.0,6.0,Lions,2014
-31,99.0,C.J. Mosley,8/6/1983,31.0,6-2,315.0,Missouri,LDT,15,8.0,9.0,5.0,Lions,2014
-32,48.0,Don Muhlbach,8/17/1981,33.0,6-4,258.0,Texas A&M,LS,16,0.0,10.0,2.0,Lions,2014
-33,47.0,Nate Ness,9/5/1986,28.0,6-1,190.0,Arizona,DB,1,0.0,4.0,0.0,Lions,2014
-34,34.0,Montell Owens,5/4/1984,30.0,5-10,225.0,Maine,RB,3,0.0,8.0,0.0,Lions,2014
-35,58.0,Ashlee Palmer,4/7/1986,28.0,6-1,223.0,Mississippi,LLB,16,5.0,5.0,3.0,Lions,2014
-36,87.0,Brandon Pettigrew,2/23/1985,29.0,6-5,257.0,Oklahoma St.,TE,14,9.0,5.0,1.0,Lions,2014
-37,5.0,Matt Prater,8/10/1984,30.0,5-10,201.0,Central Florida,K,11,0.0,7.0,2.0,Lions,2014
-38,27.0,Glover Quin,1/15/1986,28.0,6-0,207.0,"Southwest Mississippi CC,New Mexico",FS,16,16.0,5.0,11.0,Lions,2014
-39,51.0,Dominic Raiola,12/30/1978,36.0,6-1,295.0,Nebraska,C,15,15.0,13.0,6.0,Lions,2014
-40,97.0,Caraun Reid,11/23/1991,23.0,6-2,292.0,Princeton,DT,12,0.0,0.0,1.0,Lions,2014
-41,71.0,Riley Reiff,12/1/1988,26.0,6-6,310.0,Iowa,LT,15,15.0,2.0,6.0,Lions,2014
-42,70.0,Garrett Reynolds,7/1/1987,27.0,6-7,310.0,North Carolina,G,10,4.0,5.0,2.0,Lions,2014
-43,25.0,Theo Riddick,5/4/1991,23.0,5-9,201.0,Notre Dame,RB,14,2.0,1.0,3.0,Lions,2014
-44,12.0,Jeremy Ross,3/16/1988,26.0,5-11,213.0,California,WR,16,13.0,2.0,3.0,Lions,2014
-45,39.0,Mohammed Seisay,5/22/1990,24.0,6-1,202.0,Nebraska,DB,13,0.0,0.0,1.0,Lions,2014
-46,67.0,Rob Sims,12/6/1983,31.0,6-3,312.0,Ohio St.,LG,16,16.0,8.0,7.0,Lions,2014
-47,23.0,Darius Slay,1/1/1991,23.0,6-0,190.0,Mississippi St.,LCB,16,16.0,1.0,6.0,Lions,2014
-48,9.0,Matthew Stafford,2/7/1988,26.0,6-3,220.0,Georgia,QB,16,16.0,5.0,13.0,Lions,2014
-49,49.0,Julian Stanford,9/2/1990,24.0,6-1,230.0,Wagner,LB,14,0.0,2.0,1.0,Lions,2014
-50,90.0,Ndamukong Suh,1/6/1987,27.0,6-4,313.0,Nebraska,RDT,16,16.0,4.0,18.0,Lions,2014
-51,64.0,Travis Swanson,1/30/1991,23.0,6-5,304.0,Arkansas,RG,16,5.0,0.0,3.0,Lions,2014
-52,52.0,Darryl Tapp,9/13/1984,30.0,6-1,270.0,Virginia Tech,DE,16,0.0,8.0,2.0,Lions,2014
-53,15.0,Golden Tate,8/2/1988,26.0,5-10,197.0,Notre Dame,WR,16,16.0,4.0,11.0,Lions,2014
-54,92.0,Devin Taylor,11/15/1989,25.0,6-7,266.0,South Carolina,DE,16,0.0,1.0,2.0,Lions,2014
-55,24.0,Josh Thomas,5/3/1989,25.0,5-10,196.0,Buffalo,DB,1,0.0,3.0,0.0,Lions,2014
-56,82.0,Jordan Thompson,7/12/1989,25.0,6-4,248.0,Ohio,TE,2,0.0,0.0,0.0,Lions,2014
-57,55.0,Stephen Tulloch,1/1/1985,29.0,5-11,245.0,North Carolina St.,LB,3,3.0,8.0,2.0,Lions,2014
-58,95.0,Kyle Van Noy,3/26/1991,23.0,6-3,250.0,BYU,LB,8,0.0,0.0,1.0,Lions,2014
-59,29.0,Cassius Vaughn,11/3/1987,27.0,5-11,195.0,Mississippi,DB,13,5.0,4.0,3.0,Lions,2014
-60,66.0,LaAdrian Waddle,7/21/1991,23.0,6-6,315.0,Texas Tech,RT,10,10.0,1.0,4.0,Lions,2014
-61,75.0,Larry Warford,6/18/1991,23.0,6-3,317.0,Kentucky,RG,13,13.0,1.0,6.0,Lions,2014
-62,59.0,Tahir Whitehead,4/2/1990,24.0,6-2,241.0,Temple,MLB,16,15.0,2.0,8.0,Lions,2014
-63,38.0,George Winn,11/10/1990,24.0,5-11,218.0,Cincinnati,RB,12,0.0,0.0,0.0,Lions,2014
-64,,Team Total,,26.6,6-1.9,242.2,,,16,,3.6,,Lions,2014
+No.,Player,BirthDate,Age,Height,Weight,College/University,Position,Games_Played_in_Season,Games_Started_in_Season,NFL_Years,Player_Value,Team,Year
+42.0,Isa Abdul-Quddus,8/3/1989,25.0,6-1,200.0,Fordham,DB,16,4.0,3.0,2.0,Lions,2014
+94.0,Ezekiel Ansah,5/29/1989,25.0,6-5,275.0,BYU,LDE,16,16.0,1.0,9.0,Lions,2014
+74.0,Rodney Austin,12/4/1988,26.0,6-4,311.0,Elon,G,0,0.0,1.0,,Lions,2014
+35.0,Joique Bell,8/4/1986,28.0,5-11,220.0,Wayne State (MI),RB,15,6.0,4.0,8.0,Lions,2014
+28.0,Bill Bentley,5/16/1989,25.0,5-10,176.0,Louisiana,DB,1,0.0,2.0,0.0,Lions,2014
+84.0,Ryan Broyles,4/9/1988,26.0,5-10,192.0,Oklahoma,WR,5,0.0,2.0,0.0,Lions,2014
+21.0,Reggie Bush,3/2/1985,29.0,6-0,205.0,USC,RB,11,9.0,8.0,4.0,Lions,2014
+57.0,Josh Bynes,8/24/1989,25.0,6-1,240.0,Auburn,LB,13,0.0,3.0,2.0,Lions,2014
+26.0,Don Carey,2/14/1987,27.0,5-11,202.0,Norfolk St.,DB,13,3.0,4.0,2.0,Lions,2014
+45.0,Jed Collins,3/3/1986,28.0,6-1,255.0,Washington St.,RB,16,2.0,3.0,0.0,Lions,2014
+24.0,Jerome Couplin,8/31/1991,23.0,6-2,215.0,William & Mary,DB,8,0.0,0.0,0.0,Lions,2014
+89.0,Kellen Davis,10/11/1985,29.0,6-6,259.0,Michigan St.,TE,6,0.0,6.0,0.0,Lions,2014
+85.0,Eric Ebron,4/10/1993,21.0,6-4,253.0,North Carolina,TE,13,7.0,0.0,2.0,Lions,2014
+98.0,Nick Fairley,1/23/1988,26.0,6-5,291.0,"Copiah-Lincoln CC,Auburn",LDT,8,8.0,3.0,4.0,Lions,2014
+80.0,Joseph Fauria,1/16/1990,24.0,6-7,259.0,UCLA,TE,7,0.0,1.0,1.0,Lions,2014
+96.0,Andre Fluellen,3/7/1985,29.0,6-2,285.0,Florida St.,DT,8,0.0,6.0,1.0,Lions,2014
+3.0,Nate Freese,8/18/1990,24.0,5-11,192.0,Boston Col.,K,3,0.0,0.0,-1.0,Lions,2014
+10.0,Corey Fuller,6/23/1990,24.0,6-2,204.0,Virginia Tech,WR,16,2.0,0.0,2.0,Lions,2014
+36.0,Danny Gorrer,6/1/1986,28.0,6-0,173.0,Texas A&M,DB,6,0.0,5.0,0.0,Lions,2014
+5.0,Alex Henery,8/18/1987,27.0,6-1,178.0,Nebraska,K,2,0.0,3.0,-1.0,Lions,2014
+78.0,Corey Hilliard,4/26/1985,29.0,6-5,315.0,Oklahoma St.,T,1,0.0,7.0,0.0,Lions,2014
+32.0,James Ihedigbo,12/3/1983,31.0,6-1,202.0,Massachusetts,SS,13,13.0,6.0,6.0,Lions,2014
+81.0,Calvin Johnson,9/29/1985,29.0,6-5,237.0,Georgia Tech,WR,13,13.0,7.0,9.0,Lions,2014
+93.0,George Johnson,12/11/1987,27.0,6-4,265.0,Rutgers,DE,16,0.0,3.0,3.0,Lions,2014
+91.0,Jason Jones,5/23/1986,28.0,6-5,272.0,Eastern Michigan,RDE,16,16.0,6.0,8.0,Lions,2014
+43.0,Nevin Lawson,4/23/1991,23.0,5-9,192.0,Utah St.,DB,2,0.0,0.0,0.0,Lions,2014
+54.0,DeAndre Levy,3/26/1987,27.0,6-2,230.0,Wisconsin,RLB,16,16.0,5.0,15.0,Lions,2014
+50.0,Travis Lewis,1/15/1988,26.0,6-1,246.0,Oklahoma,LB,2,0.0,2.0,0.0,Lions,2014
+77.0,Cornelius Lucas,7/18/1991,23.0,6-8,327.0,Kansas St.,T,15,3.0,0.0,2.0,Lions,2014
+6.0,Sam Martin,2/27/1990,24.0,6-1,211.0,Appalachian St.,P,16,0.0,1.0,3.0,Lions,2014
+31.0,Rashean Mathis,8/27/1980,34.0,6-1,195.0,Bethune-Cookman,RCB,16,16.0,11.0,6.0,Lions,2014
+99.0,C.J. Mosley,8/6/1983,31.0,6-2,315.0,Missouri,LDT,15,8.0,9.0,5.0,Lions,2014
+48.0,Don Muhlbach,8/17/1981,33.0,6-4,258.0,Texas A&M,LS,16,0.0,10.0,2.0,Lions,2014
+47.0,Nate Ness,9/5/1986,28.0,6-1,190.0,Arizona,DB,1,0.0,4.0,0.0,Lions,2014
+34.0,Montell Owens,5/4/1984,30.0,5-10,225.0,Maine,RB,3,0.0,8.0,0.0,Lions,2014
+58.0,Ashlee Palmer,4/7/1986,28.0,6-1,223.0,Mississippi,LLB,16,5.0,5.0,3.0,Lions,2014
+87.0,Brandon Pettigrew,2/23/1985,29.0,6-5,257.0,Oklahoma St.,TE,14,9.0,5.0,1.0,Lions,2014
+5.0,Matt Prater,8/10/1984,30.0,5-10,201.0,Central Florida,K,11,0.0,7.0,2.0,Lions,2014
+27.0,Glover Quin,1/15/1986,28.0,6-0,207.0,"Southwest Mississippi CC,New Mexico",FS,16,16.0,5.0,11.0,Lions,2014
+51.0,Dominic Raiola,12/30/1978,36.0,6-1,295.0,Nebraska,C,15,15.0,13.0,6.0,Lions,2014
+97.0,Caraun Reid,11/23/1991,23.0,6-2,292.0,Princeton,DT,12,0.0,0.0,1.0,Lions,2014
+71.0,Riley Reiff,12/1/1988,26.0,6-6,310.0,Iowa,LT,15,15.0,2.0,6.0,Lions,2014
+70.0,Garrett Reynolds,7/1/1987,27.0,6-7,310.0,North Carolina,G,10,4.0,5.0,2.0,Lions,2014
+25.0,Theo Riddick,5/4/1991,23.0,5-9,201.0,Notre Dame,RB,14,2.0,1.0,3.0,Lions,2014
+12.0,Jeremy Ross,3/16/1988,26.0,5-11,213.0,California,WR,16,13.0,2.0,3.0,Lions,2014
+39.0,Mohammed Seisay,5/22/1990,24.0,6-1,202.0,Nebraska,DB,13,0.0,0.0,1.0,Lions,2014
+67.0,Rob Sims,12/6/1983,31.0,6-3,312.0,Ohio St.,LG,16,16.0,8.0,7.0,Lions,2014
+23.0,Darius Slay,1/1/1991,23.0,6-0,190.0,Mississippi St.,LCB,16,16.0,1.0,6.0,Lions,2014
+9.0,Matthew Stafford,2/7/1988,26.0,6-3,220.0,Georgia,QB,16,16.0,5.0,13.0,Lions,2014
+49.0,Julian Stanford,9/2/1990,24.0,6-1,230.0,Wagner,LB,14,0.0,2.0,1.0,Lions,2014
+90.0,Ndamukong Suh,1/6/1987,27.0,6-4,313.0,Nebraska,RDT,16,16.0,4.0,18.0,Lions,2014
+64.0,Travis Swanson,1/30/1991,23.0,6-5,304.0,Arkansas,RG,16,5.0,0.0,3.0,Lions,2014
+52.0,Darryl Tapp,9/13/1984,30.0,6-1,270.0,Virginia Tech,DE,16,0.0,8.0,2.0,Lions,2014
+15.0,Golden Tate,8/2/1988,26.0,5-10,197.0,Notre Dame,WR,16,16.0,4.0,11.0,Lions,2014
+92.0,Devin Taylor,11/15/1989,25.0,6-7,266.0,South Carolina,DE,16,0.0,1.0,2.0,Lions,2014
+24.0,Josh Thomas,5/3/1989,25.0,5-10,196.0,Buffalo,DB,1,0.0,3.0,0.0,Lions,2014
+82.0,Jordan Thompson,7/12/1989,25.0,6-4,248.0,Ohio,TE,2,0.0,0.0,0.0,Lions,2014
+55.0,Stephen Tulloch,1/1/1985,29.0,5-11,245.0,North Carolina St.,LB,3,3.0,8.0,2.0,Lions,2014
+95.0,Kyle Van Noy,3/26/1991,23.0,6-3,250.0,BYU,LB,8,0.0,0.0,1.0,Lions,2014
+29.0,Cassius Vaughn,11/3/1987,27.0,5-11,195.0,Mississippi,DB,13,5.0,4.0,3.0,Lions,2014
+66.0,LaAdrian Waddle,7/21/1991,23.0,6-6,315.0,Texas Tech,RT,10,10.0,1.0,4.0,Lions,2014
+75.0,Larry Warford,6/18/1991,23.0,6-3,317.0,Kentucky,RG,13,13.0,1.0,6.0,Lions,2014
+59.0,Tahir Whitehead,4/2/1990,24.0,6-2,241.0,Temple,MLB,16,15.0,2.0,8.0,Lions,2014
+38.0,George Winn,11/10/1990,24.0,5-11,218.0,Cincinnati,RB,12,0.0,0.0,0.0,Lions,2014
+,Team Total,,26.6,6-1.9,242.2,,,16,,3.6,,Lions,2014

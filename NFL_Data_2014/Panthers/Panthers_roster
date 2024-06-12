@@ -1,69 +1,69 @@
-,No.,Player,BirthDate,Age,Height,Weight,College/University,Position,Games_Played_in_Season,Games_Started_in_Season,NFL_Years,Player_Value,Team,Year
-0,97.0,Mario Addison,9/6/1987,27.0,6-3,260.0,Troy,DE,16,0.0,3.0,2.0,Panthers,2014
-1,90.0,Frank Alexander,12/17/1989,25.0,6-4,260.0,Oklahoma,DE,1,0.0,2.0,0.0,Panthers,2014
-2,3.0,Derek Anderson,6/15/1983,31.0,6-6,235.0,Oregon St.,QB,6,2.0,8.0,2.0,Panthers,2014
-3,81.0,Jason Avant,4/20/1983,31.0,6-0,210.0,Michigan,WR,11,0.0,8.0,2.0,Panthers,2014
-4,77.0,Byron Bell,1/17/1989,25.0,6-5,320.0,New Mexico,LT,15,15.0,3.0,7.0,Panthers,2014
-5,13.0,Kelvin Benjamin,2/5/1991,23.0,6-5,245.0,Florida St.,WR,16,15.0,0.0,8.0,Panthers,2014
-6,25.0,Bene Benwikere,9/3/1991,23.0,6-0,195.0,San Jose St.,LCB,10,6.0,0.0,3.0,Panthers,2014
-7,11.0,Brenton Bersin,5/9/1990,24.0,6-3,211.0,Wofford,WR,15,1.0,0.0,1.0,Panthers,2014
-8,93.0,Chase Blackburn,6/10/1983,31.0,6-3,240.0,Akron,LB,6,2.0,9.0,1.0,Panthers,2014
-9,33.0,Tre Boston,6/25/1992,22.0,6-1,205.0,North Carolina,FS,11,5.0,0.0,3.0,Panthers,2014
-10,47.0,Richie Brockel,7/24/1986,28.0,6-1,251.0,Boise St.,TE,4,0.0,3.0,0.0,Panthers,2014
-11,16.0,Corey Brown,12/16/1991,23.0,5-11,190.0,Ohio St.,WR,13,3.0,0.0,4.0,Panthers,2014
-12,37.0,Carrington Byndom,7/7/1992,22.0,5-11,180.0,Texas,DB,3,0.0,0.0,0.0,Panthers,2014
-13,20.0,Antoine Cason,7/9/1986,28.0,6-0,190.0,Arizona,LCB,12,11.0,6.0,5.0,Panthers,2014
-14,78.0,Nate Chandler,6/1/1989,25.0,6-4,294.0,UCLA,RT,11,11.0,2.0,5.0,Panthers,2014
-15,91.0,Colin Cole,6/24/1980,34.0,6-2,325.0,Iowa,LDT/RDT,16,10.0,10.0,5.0,Panthers,2014
-16,82.0,Jerricho Cotchery,6/16/1982,32.0,6-1,205.0,North Carolina St.,WR,15,13.0,10.0,5.0,Panthers,2014
-17,58.0,Thomas Davis,3/22/1983,31.0,6-1,235.0,Georgia,RLB,15,15.0,9.0,7.0,Panthers,2014
-18,21.0,Thomas DeCoud,3/19/1985,29.0,6-1,196.0,California,FS,15,11.0,6.0,4.0,Panthers,2014
-19,84.0,Ed Dickson,7/25/1987,27.0,6-4,250.0,Oregon,TE,16,10.0,4.0,1.0,Panthers,2014
-20,31.0,James Dockery,11/9/1988,26.0,6-1,185.0,Oregon St.,DB,7,0.0,3.0,0.0,Panthers,2014
-21,94.0,Kony Ealy,12/21/1991,23.0,6-4,275.0,Missouri,DE,15,0.0,0.0,1.0,Panthers,2014
-22,92.0,Dwan Edwards,5/16/1981,33.0,6-3,305.0,Oregon St.,DT,16,0.0,10.0,2.0,Panthers,2014
-23,64.0,Brian Folkerts,1/30/1990,24.0,6-4,303.0,Washburn,C,16,0.0,1.0,1.0,Panthers,2014
-24,,David Foucault,1/7/1989,25.0,6-8,320.0,Montreal,T,5,1.0,0.0,1.0,Panthers,2014
-25,9.0,Graham Gano,4/9/1987,27.0,6-2,202.0,Florida St.,K,16,0.0,5.0,3.0,Panthers,2014
-26,30.0,Charles Godfrey,11/15/1985,29.0,6-0,207.0,Iowa,DB,7,1.0,6.0,1.0,Panthers,2014
-27,76.0,Greg Hardy,7/28/1988,26.0,6-5,279.0,Mississippi,DE,1,1.0,4.0,1.0,Panthers,2014
-28,41.0,Roman Harper,12/11/1982,32.0,6-1,205.0,Alabama,SS,16,16.0,8.0,7.0,Panthers,2014
-29,96.0,Wes Horton,1/18/1990,24.0,6-5,265.0,USC,RDE,16,15.0,1.0,6.0,Panthers,2014
-30,53.0,Ben Jacobs,4/17/1988,26.0,6-4,240.0,Fresno St.,LB,16,0.0,3.0,1.0,Panthers,2014
-31,44.0,J.J. Jansen,1/20/1986,28.0,6-2,235.0,Notre Dame,LS,16,0.0,5.0,2.0,Panthers,2014
-32,95.0,Charles Johnson,7/10/1986,28.0,6-2,270.0,Georgia,LDE,16,16.0,7.0,8.0,Panthers,2014
-33,42.0,Colin Jones,10/27/1987,27.0,6-0,205.0,TCU,DB,16,2.0,3.0,2.0,Panthers,2014
-34,67.0,Ryan Kalil,3/29/1985,29.0,6-2,300.0,USC,C,16,16.0,7.0,7.0,Panthers,2014
-35,56.0,A.J. Klein,7/30/1991,23.0,6-1,240.0,Iowa St.,LLB,14,8.0,1.0,4.0,Panthers,2014
-36,59.0,Luke Kuechly,4/20/1991,23.0,6-3,238.0,Boston Col.,MLB,16,16.0,2.0,15.0,Panthers,2014
-37,38.0,Robert Lester,4/30/1988,26.0,6-2,210.0,Alabama,DB,1,0.0,1.0,0.0,Panthers,2014
-38,98.0,Star Lotulelei,12/20/1989,25.0,6-2,315.0,"Snow College (UT),Utah",RDT,14,13.0,1.0,6.0,Panthers,2014
-39,61.0,Kyle Love,11/18/1986,28.0,6-1,310.0,Mississippi St.,DT,0,0.0,4.0,,Panthers,2014
-40,1.0,Cam Newton,5/11/1989,25.0,6-5,245.0,"Florida,Blinn College (TX),Auburn",QB,14,14.0,3.0,12.0,Panthers,2014
-41,24.0,Josh Norman,12/15/1987,27.0,6-0,195.0,Coastal Carolina,RCB,14,10.0,2.0,4.0,Panthers,2014
-42,8.0,Brad Nortman,9/12/1989,25.0,6-2,214.0,Wisconsin,P,16,0.0,2.0,2.0,Panthers,2014
-43,68.0,Andrew Norwell,10/25/1991,23.0,6-6,325.0,Ohio St.,LG,10,9.0,0.0,4.0,Panthers,2014
-44,26.0,Chris Ogbonnaya,5/20/1986,28.0,6-0,220.0,Texas,RB,5,0.0,5.0,0.0,Panthers,2014
-45,88.0,Greg Olsen,3/11/1985,29.0,6-5,255.0,Miami (FL),TE,16,16.0,7.0,8.0,Panthers,2014
-46,27.0,Tauren Poole,10/19/1989,25.0,5-10,209.0,Tennessee,RB,1,0.0,0.0,0.0,Panthers,2014
-47,10.0,De'Andre Presley,1/10/1990,24.0,5-11,180.0,Appalachian St.,QB,4,0.0,2.0,0.0,Panthers,2014
-48,36.0,Darrin Reaves,4/17/1993,21.0,5-10,210.0,Ala-Birmingham,RB,6,1.0,0.0,1.0,Panthers,2014
-49,52.0,Kevin Reddick,12/28/1989,25.0,6-1,243.0,North Carolina,LB,3,0.0,1.0,0.0,Panthers,2014
-50,74.0,Mike Remmers,4/11/1989,25.0,6-5,301.0,Oregon St.,RT,5,5.0,1.0,2.0,Panthers,2014
-51,79.0,Chris Scott,8/4/1987,27.0,6-4,340.0,Tennessee,G,8,0.0,3.0,1.0,Panthers,2014
-52,99.0,Kawann Short,2/2/1989,25.0,6-3,315.0,Purdue,LDT,16,9.0,1.0,5.0,Panthers,2014
-53,66.0,Amini Silatolu,9/16/1988,26.0,6-4,305.0,Midwestern St.,LG,7,7.0,2.0,3.0,Panthers,2014
-54,52.0,D.J. Smith,2/24/1989,25.0,5-11,239.0,Appalachian St.,LB,1,0.0,3.0,0.0,Panthers,2014
-55,28.0,Jonathan Stewart,3/21/1987,27.0,5-10,240.0,Oregon,RB,13,8.0,6.0,6.0,Panthers,2014
-56,57.0,Adarius Taylor,9/21/1990,24.0,6-0,230.0,"Eastern Arizona,Florida Atlantic",LB,10,2.0,0.0,1.0,Panthers,2014
-57,35.0,Mike Tolbert,11/23/1985,29.0,5-9,243.0,Coastal Carolina,RB,8,6.0,6.0,1.0,Panthers,2014
-58,70.0,Trai Turner,6/14/1993,21.0,6-3,320.0,LSU,RG,13,9.0,0.0,4.0,Panthers,2014
-59,75.0,Fernando Velasco,2/22/1985,29.0,6-3,308.0,Georgia,RG,13,7.0,5.0,4.0,Panthers,2014
-60,14.0,Joe Webb,11/14/1986,28.0,6-4,231.0,Ala-Birmingham,QB,7,0.0,4.0,0.0,Panthers,2014
-61,23.0,Melvin White,6/26/1990,24.0,6-1,203.0,Louisiana,RCB,15,7.0,1.0,3.0,Panthers,2014
-62,43.0,Fozzy Whittaker,2/2/1989,25.0,5-10,205.0,Texas,RB,10,1.0,1.0,1.0,Panthers,2014
-63,86.0,Brandon Williams,10/12/1987,27.0,6-4,255.0,Oregon,TE,14,0.0,1.0,0.0,Panthers,2014
-64,34.0,DeAngelo Williams,4/25/1983,31.0,5-9,207.0,Memphis,RB,6,6.0,8.0,2.0,Panthers,2014
-65,65.0,Garry Williams,8/20/1986,28.0,6-3,296.0,Kentucky,T,1,0.0,5.0,0.0,Panthers,2014
-66,54.0,Jason Williams,4/23/1986,28.0,6-1,240.0,Western Illinois,LB,11,0.0,5.0,1.0,Panthers,2014
-67,,Team Total,,26.5,6-2.0,247.5,,,16,,3.4,,Panthers,2014
+No.,Player,BirthDate,Age,Height,Weight,College/University,Position,Games_Played_in_Season,Games_Started_in_Season,NFL_Years,Player_Value,Team,Year
+97.0,Mario Addison,9/6/1987,27.0,6-3,260.0,Troy,DE,16,0.0,3.0,2.0,Panthers,2014
+90.0,Frank Alexander,12/17/1989,25.0,6-4,260.0,Oklahoma,DE,1,0.0,2.0,0.0,Panthers,2014
+3.0,Derek Anderson,6/15/1983,31.0,6-6,235.0,Oregon St.,QB,6,2.0,8.0,2.0,Panthers,2014
+81.0,Jason Avant,4/20/1983,31.0,6-0,210.0,Michigan,WR,11,0.0,8.0,2.0,Panthers,2014
+77.0,Byron Bell,1/17/1989,25.0,6-5,320.0,New Mexico,LT,15,15.0,3.0,7.0,Panthers,2014
+13.0,Kelvin Benjamin,2/5/1991,23.0,6-5,245.0,Florida St.,WR,16,15.0,0.0,8.0,Panthers,2014
+25.0,Bene Benwikere,9/3/1991,23.0,6-0,195.0,San Jose St.,LCB,10,6.0,0.0,3.0,Panthers,2014
+11.0,Brenton Bersin,5/9/1990,24.0,6-3,211.0,Wofford,WR,15,1.0,0.0,1.0,Panthers,2014
+93.0,Chase Blackburn,6/10/1983,31.0,6-3,240.0,Akron,LB,6,2.0,9.0,1.0,Panthers,2014
+33.0,Tre Boston,6/25/1992,22.0,6-1,205.0,North Carolina,FS,11,5.0,0.0,3.0,Panthers,2014
+47.0,Richie Brockel,7/24/1986,28.0,6-1,251.0,Boise St.,TE,4,0.0,3.0,0.0,Panthers,2014
+16.0,Corey Brown,12/16/1991,23.0,5-11,190.0,Ohio St.,WR,13,3.0,0.0,4.0,Panthers,2014
+37.0,Carrington Byndom,7/7/1992,22.0,5-11,180.0,Texas,DB,3,0.0,0.0,0.0,Panthers,2014
+20.0,Antoine Cason,7/9/1986,28.0,6-0,190.0,Arizona,LCB,12,11.0,6.0,5.0,Panthers,2014
+78.0,Nate Chandler,6/1/1989,25.0,6-4,294.0,UCLA,RT,11,11.0,2.0,5.0,Panthers,2014
+91.0,Colin Cole,6/24/1980,34.0,6-2,325.0,Iowa,LDT/RDT,16,10.0,10.0,5.0,Panthers,2014
+82.0,Jerricho Cotchery,6/16/1982,32.0,6-1,205.0,North Carolina St.,WR,15,13.0,10.0,5.0,Panthers,2014
+58.0,Thomas Davis,3/22/1983,31.0,6-1,235.0,Georgia,RLB,15,15.0,9.0,7.0,Panthers,2014
+21.0,Thomas DeCoud,3/19/1985,29.0,6-1,196.0,California,FS,15,11.0,6.0,4.0,Panthers,2014
+84.0,Ed Dickson,7/25/1987,27.0,6-4,250.0,Oregon,TE,16,10.0,4.0,1.0,Panthers,2014
+31.0,James Dockery,11/9/1988,26.0,6-1,185.0,Oregon St.,DB,7,0.0,3.0,0.0,Panthers,2014
+94.0,Kony Ealy,12/21/1991,23.0,6-4,275.0,Missouri,DE,15,0.0,0.0,1.0,Panthers,2014
+92.0,Dwan Edwards,5/16/1981,33.0,6-3,305.0,Oregon St.,DT,16,0.0,10.0,2.0,Panthers,2014
+64.0,Brian Folkerts,1/30/1990,24.0,6-4,303.0,Washburn,C,16,0.0,1.0,1.0,Panthers,2014
+,David Foucault,1/7/1989,25.0,6-8,320.0,Montreal,T,5,1.0,0.0,1.0,Panthers,2014
+9.0,Graham Gano,4/9/1987,27.0,6-2,202.0,Florida St.,K,16,0.0,5.0,3.0,Panthers,2014
+30.0,Charles Godfrey,11/15/1985,29.0,6-0,207.0,Iowa,DB,7,1.0,6.0,1.0,Panthers,2014
+76.0,Greg Hardy,7/28/1988,26.0,6-5,279.0,Mississippi,DE,1,1.0,4.0,1.0,Panthers,2014
+41.0,Roman Harper,12/11/1982,32.0,6-1,205.0,Alabama,SS,16,16.0,8.0,7.0,Panthers,2014
+96.0,Wes Horton,1/18/1990,24.0,6-5,265.0,USC,RDE,16,15.0,1.0,6.0,Panthers,2014
+53.0,Ben Jacobs,4/17/1988,26.0,6-4,240.0,Fresno St.,LB,16,0.0,3.0,1.0,Panthers,2014
+44.0,J.J. Jansen,1/20/1986,28.0,6-2,235.0,Notre Dame,LS,16,0.0,5.0,2.0,Panthers,2014
+95.0,Charles Johnson,7/10/1986,28.0,6-2,270.0,Georgia,LDE,16,16.0,7.0,8.0,Panthers,2014
+42.0,Colin Jones,10/27/1987,27.0,6-0,205.0,TCU,DB,16,2.0,3.0,2.0,Panthers,2014
+67.0,Ryan Kalil,3/29/1985,29.0,6-2,300.0,USC,C,16,16.0,7.0,7.0,Panthers,2014
+56.0,A.J. Klein,7/30/1991,23.0,6-1,240.0,Iowa St.,LLB,14,8.0,1.0,4.0,Panthers,2014
+59.0,Luke Kuechly,4/20/1991,23.0,6-3,238.0,Boston Col.,MLB,16,16.0,2.0,15.0,Panthers,2014
+38.0,Robert Lester,4/30/1988,26.0,6-2,210.0,Alabama,DB,1,0.0,1.0,0.0,Panthers,2014
+98.0,Star Lotulelei,12/20/1989,25.0,6-2,315.0,"Snow College (UT),Utah",RDT,14,13.0,1.0,6.0,Panthers,2014
+61.0,Kyle Love,11/18/1986,28.0,6-1,310.0,Mississippi St.,DT,0,0.0,4.0,,Panthers,2014
+1.0,Cam Newton,5/11/1989,25.0,6-5,245.0,"Florida,Blinn College (TX),Auburn",QB,14,14.0,3.0,12.0,Panthers,2014
+24.0,Josh Norman,12/15/1987,27.0,6-0,195.0,Coastal Carolina,RCB,14,10.0,2.0,4.0,Panthers,2014
+8.0,Brad Nortman,9/12/1989,25.0,6-2,214.0,Wisconsin,P,16,0.0,2.0,2.0,Panthers,2014
+68.0,Andrew Norwell,10/25/1991,23.0,6-6,325.0,Ohio St.,LG,10,9.0,0.0,4.0,Panthers,2014
+26.0,Chris Ogbonnaya,5/20/1986,28.0,6-0,220.0,Texas,RB,5,0.0,5.0,0.0,Panthers,2014
+88.0,Greg Olsen,3/11/1985,29.0,6-5,255.0,Miami (FL),TE,16,16.0,7.0,8.0,Panthers,2014
+27.0,Tauren Poole,10/19/1989,25.0,5-10,209.0,Tennessee,RB,1,0.0,0.0,0.0,Panthers,2014
+10.0,De'Andre Presley,1/10/1990,24.0,5-11,180.0,Appalachian St.,QB,4,0.0,2.0,0.0,Panthers,2014
+36.0,Darrin Reaves,4/17/1993,21.0,5-10,210.0,Ala-Birmingham,RB,6,1.0,0.0,1.0,Panthers,2014
+52.0,Kevin Reddick,12/28/1989,25.0,6-1,243.0,North Carolina,LB,3,0.0,1.0,0.0,Panthers,2014
+74.0,Mike Remmers,4/11/1989,25.0,6-5,301.0,Oregon St.,RT,5,5.0,1.0,2.0,Panthers,2014
+79.0,Chris Scott,8/4/1987,27.0,6-4,340.0,Tennessee,G,8,0.0,3.0,1.0,Panthers,2014
+99.0,Kawann Short,2/2/1989,25.0,6-3,315.0,Purdue,LDT,16,9.0,1.0,5.0,Panthers,2014
+66.0,Amini Silatolu,9/16/1988,26.0,6-4,305.0,Midwestern St.,LG,7,7.0,2.0,3.0,Panthers,2014
+52.0,D.J. Smith,2/24/1989,25.0,5-11,239.0,Appalachian St.,LB,1,0.0,3.0,0.0,Panthers,2014
+28.0,Jonathan Stewart,3/21/1987,27.0,5-10,240.0,Oregon,RB,13,8.0,6.0,6.0,Panthers,2014
+57.0,Adarius Taylor,9/21/1990,24.0,6-0,230.0,"Eastern Arizona,Florida Atlantic",LB,10,2.0,0.0,1.0,Panthers,2014
+35.0,Mike Tolbert,11/23/1985,29.0,5-9,243.0,Coastal Carolina,RB,8,6.0,6.0,1.0,Panthers,2014
+70.0,Trai Turner,6/14/1993,21.0,6-3,320.0,LSU,RG,13,9.0,0.0,4.0,Panthers,2014
+75.0,Fernando Velasco,2/22/1985,29.0,6-3,308.0,Georgia,RG,13,7.0,5.0,4.0,Panthers,2014
+14.0,Joe Webb,11/14/1986,28.0,6-4,231.0,Ala-Birmingham,QB,7,0.0,4.0,0.0,Panthers,2014
+23.0,Melvin White,6/26/1990,24.0,6-1,203.0,Louisiana,RCB,15,7.0,1.0,3.0,Panthers,2014
+43.0,Fozzy Whittaker,2/2/1989,25.0,5-10,205.0,Texas,RB,10,1.0,1.0,1.0,Panthers,2014
+86.0,Brandon Williams,10/12/1987,27.0,6-4,255.0,Oregon,TE,14,0.0,1.0,0.0,Panthers,2014
+34.0,DeAngelo Williams,4/25/1983,31.0,5-9,207.0,Memphis,RB,6,6.0,8.0,2.0,Panthers,2014
+65.0,Garry Williams,8/20/1986,28.0,6-3,296.0,Kentucky,T,1,0.0,5.0,0.0,Panthers,2014
+54.0,Jason Williams,4/23/1986,28.0,6-1,240.0,Western Illinois,LB,11,0.0,5.0,1.0,Panthers,2014
+,Team Total,,26.5,6-2.0,247.5,,,16,,3.4,,Panthers,2014

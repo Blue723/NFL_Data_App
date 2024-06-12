@@ -1,69 +1,69 @@
-,No.,Player,BirthDate,Age,Height,Weight,College/University,Position,Games_Played_in_Season,Games_Started_in_Season,NFL_Years,Player_Value,Team,Year
-0,11.0,Kamar Aiken,5/30/1989,25,6-2,216.0,Central Florida,WR,16,0.0,3.0,3.0,Ravens,2014
-1,68.0,Christo Bilukidi,12/13/1989,25,6-5,290.0,"Eastern Arizona,Georgia St.",DE,4,0.0,2.0,0.0,Ravens,2014
-2,31.0,Terrence Brooks,3/2/1992,22,5-11,205.0,Florida St.,DB,11,0.0,0.0,1.0,Ravens,2014
-3,59.0,Arthur Brown,6/1/1993,21,6-1,250.0,Kansas St.,LB,4,0.0,1.0,0.0,Ravens,2014
-4,23.0,Chykie Brown,12/26/1986,28,6-0,185.0,Texas,DB,7,1.0,3.0,1.0,Ravens,2014
-5,14.0,Marlon Brown,4/22/1991,23,6-5,214.0,Georgia,WR,14,1.0,1.0,2.0,Ravens,2014
-6,15.0,Michael Campanaro,1/25/1991,23,5-9,191.0,Wake Forest,WR,4,0.0,0.0,1.0,Ravens,2014
-7,99.0,Chris Canty,11/10/1982,32,6-7,317.0,Virginia,RDE,11,11.0,9.0,5.0,Ravens,2014
-8,23.0,Antoine Cason,7/9/1986,28,6-0,190.0,Arizona,DB,2,0.0,6.0,0.0,Ravens,2014
-9,62.0,Terrence Cody,6/28/1988,26,6-4,370.0,"Mississippi Gulf Coast CC,Alabama",DT,1,0.0,4.0,0.0,Ravens,2014
-10,46.0,Morgan Cox,4/26/1986,28,6-4,233.0,Tennessee,LS,7,0.0,4.0,0.0,Ravens,2014
-11,81.0,Owen Daniels,11/9/1982,32,6-3,245.0,Wisconsin,TE,15,13.0,8.0,5.0,Ravens,2014
-12,58.0,Elvis Dumervil,1/19/1984,30,5-11,250.0,Louisville,LB,16,2.0,8.0,11.0,Ravens,2014
-13,26.0,Matt Elam,9/2/1991,23,5-10,208.0,Florida,SS,16,11.0,1.0,4.0,Ravens,2014
-14,5.0,Joe Flacco,1/16/1985,29,6-6,245.0,"Pittsburgh,Delaware",QB,16,16.0,6.0,13.0,Ravens,2014
-15,29.0,Justin Forsett,10/14/1985,29,5-8,195.0,California,RB,16,14.0,6.0,12.0,Ravens,2014
-16,32.0,Dominique Franks,10/8/1987,27,6-0,180.0,Oklahoma,DB,4,1.0,4.0,1.0,Ravens,2014
-17,80.0,Crockett Gillmore,11/16/1991,23,6-6,260.0,Colorado St.,TE,15,1.0,0.0,1.0,Ravens,2014
-18,37.0,Danny Gorrer,6/1/1986,28,6-0,173.0,Texas A&M,DB,4,0.0,5.0,0.0,Ravens,2014
-19,66.0,Gino Gradkowski,11/5/1988,26,6-3,300.0,Delaware,G,8,0.0,2.0,1.0,Ravens,2014
-20,67.0,Lawrence Guy,3/17/1990,24,6-4,315.0,Arizona St.,DE,11,1.0,2.0,1.0,Ravens,2014
-21,33.0,Will Hill,3/7/1990,24,6-1,205.0,Florida,SS,10,8.0,2.0,3.0,Ravens,2014
-22,74.0,James Hurst,12/17/1991,23,6-5,310.0,North Carolina,LT,16,5.0,0.0,4.0,Ravens,2014
-23,25.0,Asa Jackson,12/2/1989,25,5-10,193.0,Cal Poly-San Luis Obispo,LCB,7,6.0,2.0,2.0,Ravens,2014
-24,39.0,Tramain Jacobs,5/20/1992,22,5-11,182.0,"Mississippi Gulf Coast CC,Texas A&M",DB,3,0.0,0.0,0.0,Ravens,2014
-25,77.0,Ryan Jensen,5/27/1991,23,6-4,319.0,Colorado State-Pueblo,C,1,0.0,0.0,0.0,Ravens,2014
-26,97.0,Timmy Jernigan,9/24/1992,22,6-2,295.0,Florida St.,DT,12,3.0,0.0,3.0,Ravens,2014
-27,12.0,Jacoby Jones,7/11/1984,30,6-3,192.0,Lane,WR,16,0.0,7.0,2.0,Ravens,2014
-28,44.0,Kyle Juszczyk,4/23/1991,23,6-2,235.0,Harvard,RB,16,14.0,1.0,2.0,Ravens,2014
-29,4.0,Sam Koch,8/13/1982,32,6-1,222.0,Nebraska,P,16,0.0,8.0,3.0,Ravens,2014
-30,41.0,Anthony Levine,3/27/1987,27,5-11,207.0,Tennessee St.,DB,16,3.0,2.0,2.0,Ravens,2014
-31,50.0,Albert McClellan,6/4/1986,28,6-2,235.0,Marshall,LB,16,0.0,3.0,2.0,Ravens,2014
-32,47.0,Kevin McDermott,1/12/1990,24,6-5,240.0,UCLA,LS,7,0.0,1.0,0.0,Ravens,2014
-33,90.0,Pernell McPhee,12/17/1988,26,6-3,265.0,Mississippi St.,DE,16,0.0,3.0,2.0,Ravens,2014
-34,38.0,Rashaan Melvin,10/2/1989,25,6-2,195.0,Northern Illinois,DB,3,2.0,0.0,1.0,Ravens,2014
-35,36.0,Jeromy Miles,7/20/1987,27,6-2,215.0,"Navy,Massachusetts",DB,16,2.0,4.0,2.0,Ravens,2014
-36,60.0,Eugene Monroe,4/18/1987,27,6-5,310.0,Virginia,LT,11,11.0,5.0,6.0,Ravens,2014
-37,57.0,C.J. Mosley,6/19/1992,22,6-2,231.0,Alabama,LILB,16,16.0,0.0,14.0,Ravens,2014
-38,92.0,Haloti Ngata,1/21/1984,30,6-4,340.0,Oregon,LDE,12,12.0,8.0,6.0,Ravens,2014
-39,54.0,Zach Orr,6/9/1992,22,6-0,237.0,North Texas,LB,15,0.0,0.0,1.0,Ravens,2014
-40,72.0,Kelechi Osemele,6/24/1989,25,6-5,330.0,Iowa St.,LG,14,14.0,2.0,8.0,Ravens,2014
-41,30.0,Bernard Pierce,5/10/1991,23,6-0,222.0,Temple,RB,13,2.0,2.0,3.0,Ravens,2014
-42,88.0,Dennis Pitta,6/29/1985,29,6-4,245.0,BYU,TE,3,3.0,4.0,1.0,Ravens,2014
-43,,Tauren Poole,10/19/1989,25,5-10,209.0,Tennessee,RB,1,,0.0,0.0,Ravens,2014
-44,76.0,Jah Reid,7/21/1988,26,6-7,325.0,Central Florida,T,4,0.0,3.0,0.0,Ravens,2014
-45,48.0,Patrick Scales,2/11/1988,26,6-3,226.0,Utah St.,LS,2,0.0,0.0,0.0,Ravens,2014
-46,51.0,Daryl Smith,3/14/1982,32,6-2,250.0,Georgia Tech,RILB,16,16.0,10.0,9.0,Ravens,2014
-47,22.0,Jimmy Smith,7/26/1988,26,6-2,210.0,Colorado,RCB,8,8.0,3.0,3.0,Ravens,2014
-48,89.0,Steve Smith Sr.,5/12/1979,35,5-9,195.0,Utah,WR,16,16.0,13.0,10.0,Ravens,2014
-49,82.0,Torrey Smith,1/26/1989,25,6-0,205.0,Maryland,WR,16,16.0,3.0,7.0,Ravens,2014
-50,24.0,Darian Stewart,8/4/1988,26,5-11,214.0,South Carolina,FS,16,14.0,4.0,5.0,Ravens,2014
-51,55.0,Terrell Suggs,10/11/1982,32,6-3,265.0,Arizona St.,LOLB,16,16.0,11.0,8.0,Ravens,2014
-52,84.0,Phillip Supernaw,1/30/1990,24,6-5,255.0,Ouachita Baptist,TE,6,0.0,1.0,0.0,Ravens,2014
-53,34.0,Lorenzo Taliaferro,12/23/1991,23,6-0,229.0,"Lackawanna,Coastal Carolina",RB,13,0.0,0.0,3.0,Ravens,2014
-54,2.0,Tyrod Taylor,8/3/1989,25,6-1,217.0,Virginia Tech,QB,1,0.0,3.0,0.0,Ravens,2014
-55,43.0,Fitzgerald Toussaint,5/4/1990,24,5-9,204.0,Michigan,RB,4,0.0,0.0,0.0,Ravens,2014
-56,28.0,Brynden Trawick,10/23/1989,25,6-2,225.0,Troy,DB,14,0.0,1.0,1.0,Ravens,2014
-57,9.0,Justin Tucker,11/21/1989,25,6-1,188.0,Texas,K,16,0.0,2.0,4.0,Ravens,2014
-58,93.0,DeAngelo Tyson,4/12/1989,25,6-2,315.0,Georgia,DT,11,4.0,2.0,3.0,Ravens,2014
-59,91.0,Courtney Upshaw,12/13/1989,25,6-2,272.0,Alabama,ROLB,16,14.0,2.0,6.0,Ravens,2014
-60,64.0,John Urschel,6/24/1991,23,6-3,313.0,Penn St.,G,11,3.0,0.0,2.0,Ravens,2014
-61,71.0,Ricky Wagner,10/21/1989,25,6-6,313.0,Wisconsin,RT,15,15.0,1.0,9.0,Ravens,2014
-62,79.0,Casey Walker,12/6/1989,25,6-1,345.0,Oklahoma,DT,1,0.0,0.0,0.0,Ravens,2014
-63,21.0,Lardarius Webb,10/12/1985,29,5-10,179.0,Nicholls St.,LCB,13,11.0,5.0,4.0,Ravens,2014
-64,98.0,Brandon Williams,2/21/1989,25,6-1,336.0,Missouri Southern,NT,16,14.0,1.0,7.0,Ravens,2014
-65,73.0,Marshal Yanda,9/15/1984,30,6-3,305.0,Iowa,RG,16,16.0,7.0,17.0,Ravens,2014
-66,53.0,Jeremy Zuttah,6/1/1986,28,6-4,303.0,Rutgers,C,16,16.0,6.0,9.0,Ravens,2014
-67,,Team Total,,26,6-1.9,247.1,,,16,,3.1,,Ravens,2014
+No.,Player,BirthDate,Age,Height,Weight,College/University,Position,Games_Played_in_Season,Games_Started_in_Season,NFL_Years,Player_Value,Team,Year
+11.0,Kamar Aiken,5/30/1989,25,6-2,216.0,Central Florida,WR,16,0.0,3.0,3.0,Ravens,2014
+68.0,Christo Bilukidi,12/13/1989,25,6-5,290.0,"Eastern Arizona,Georgia St.",DE,4,0.0,2.0,0.0,Ravens,2014
+31.0,Terrence Brooks,3/2/1992,22,5-11,205.0,Florida St.,DB,11,0.0,0.0,1.0,Ravens,2014
+59.0,Arthur Brown,6/1/1993,21,6-1,250.0,Kansas St.,LB,4,0.0,1.0,0.0,Ravens,2014
+23.0,Chykie Brown,12/26/1986,28,6-0,185.0,Texas,DB,7,1.0,3.0,1.0,Ravens,2014
+14.0,Marlon Brown,4/22/1991,23,6-5,214.0,Georgia,WR,14,1.0,1.0,2.0,Ravens,2014
+15.0,Michael Campanaro,1/25/1991,23,5-9,191.0,Wake Forest,WR,4,0.0,0.0,1.0,Ravens,2014
+99.0,Chris Canty,11/10/1982,32,6-7,317.0,Virginia,RDE,11,11.0,9.0,5.0,Ravens,2014
+23.0,Antoine Cason,7/9/1986,28,6-0,190.0,Arizona,DB,2,0.0,6.0,0.0,Ravens,2014
+62.0,Terrence Cody,6/28/1988,26,6-4,370.0,"Mississippi Gulf Coast CC,Alabama",DT,1,0.0,4.0,0.0,Ravens,2014
+46.0,Morgan Cox,4/26/1986,28,6-4,233.0,Tennessee,LS,7,0.0,4.0,0.0,Ravens,2014
+81.0,Owen Daniels,11/9/1982,32,6-3,245.0,Wisconsin,TE,15,13.0,8.0,5.0,Ravens,2014
+58.0,Elvis Dumervil,1/19/1984,30,5-11,250.0,Louisville,LB,16,2.0,8.0,11.0,Ravens,2014
+26.0,Matt Elam,9/2/1991,23,5-10,208.0,Florida,SS,16,11.0,1.0,4.0,Ravens,2014
+5.0,Joe Flacco,1/16/1985,29,6-6,245.0,"Pittsburgh,Delaware",QB,16,16.0,6.0,13.0,Ravens,2014
+29.0,Justin Forsett,10/14/1985,29,5-8,195.0,California,RB,16,14.0,6.0,12.0,Ravens,2014
+32.0,Dominique Franks,10/8/1987,27,6-0,180.0,Oklahoma,DB,4,1.0,4.0,1.0,Ravens,2014
+80.0,Crockett Gillmore,11/16/1991,23,6-6,260.0,Colorado St.,TE,15,1.0,0.0,1.0,Ravens,2014
+37.0,Danny Gorrer,6/1/1986,28,6-0,173.0,Texas A&M,DB,4,0.0,5.0,0.0,Ravens,2014
+66.0,Gino Gradkowski,11/5/1988,26,6-3,300.0,Delaware,G,8,0.0,2.0,1.0,Ravens,2014
+67.0,Lawrence Guy,3/17/1990,24,6-4,315.0,Arizona St.,DE,11,1.0,2.0,1.0,Ravens,2014
+33.0,Will Hill,3/7/1990,24,6-1,205.0,Florida,SS,10,8.0,2.0,3.0,Ravens,2014
+74.0,James Hurst,12/17/1991,23,6-5,310.0,North Carolina,LT,16,5.0,0.0,4.0,Ravens,2014
+25.0,Asa Jackson,12/2/1989,25,5-10,193.0,Cal Poly-San Luis Obispo,LCB,7,6.0,2.0,2.0,Ravens,2014
+39.0,Tramain Jacobs,5/20/1992,22,5-11,182.0,"Mississippi Gulf Coast CC,Texas A&M",DB,3,0.0,0.0,0.0,Ravens,2014
+77.0,Ryan Jensen,5/27/1991,23,6-4,319.0,Colorado State-Pueblo,C,1,0.0,0.0,0.0,Ravens,2014
+97.0,Timmy Jernigan,9/24/1992,22,6-2,295.0,Florida St.,DT,12,3.0,0.0,3.0,Ravens,2014
+12.0,Jacoby Jones,7/11/1984,30,6-3,192.0,Lane,WR,16,0.0,7.0,2.0,Ravens,2014
+44.0,Kyle Juszczyk,4/23/1991,23,6-2,235.0,Harvard,RB,16,14.0,1.0,2.0,Ravens,2014
+4.0,Sam Koch,8/13/1982,32,6-1,222.0,Nebraska,P,16,0.0,8.0,3.0,Ravens,2014
+41.0,Anthony Levine,3/27/1987,27,5-11,207.0,Tennessee St.,DB,16,3.0,2.0,2.0,Ravens,2014
+50.0,Albert McClellan,6/4/1986,28,6-2,235.0,Marshall,LB,16,0.0,3.0,2.0,Ravens,2014
+47.0,Kevin McDermott,1/12/1990,24,6-5,240.0,UCLA,LS,7,0.0,1.0,0.0,Ravens,2014
+90.0,Pernell McPhee,12/17/1988,26,6-3,265.0,Mississippi St.,DE,16,0.0,3.0,2.0,Ravens,2014
+38.0,Rashaan Melvin,10/2/1989,25,6-2,195.0,Northern Illinois,DB,3,2.0,0.0,1.0,Ravens,2014
+36.0,Jeromy Miles,7/20/1987,27,6-2,215.0,"Navy,Massachusetts",DB,16,2.0,4.0,2.0,Ravens,2014
+60.0,Eugene Monroe,4/18/1987,27,6-5,310.0,Virginia,LT,11,11.0,5.0,6.0,Ravens,2014
+57.0,C.J. Mosley,6/19/1992,22,6-2,231.0,Alabama,LILB,16,16.0,0.0,14.0,Ravens,2014
+92.0,Haloti Ngata,1/21/1984,30,6-4,340.0,Oregon,LDE,12,12.0,8.0,6.0,Ravens,2014
+54.0,Zach Orr,6/9/1992,22,6-0,237.0,North Texas,LB,15,0.0,0.0,1.0,Ravens,2014
+72.0,Kelechi Osemele,6/24/1989,25,6-5,330.0,Iowa St.,LG,14,14.0,2.0,8.0,Ravens,2014
+30.0,Bernard Pierce,5/10/1991,23,6-0,222.0,Temple,RB,13,2.0,2.0,3.0,Ravens,2014
+88.0,Dennis Pitta,6/29/1985,29,6-4,245.0,BYU,TE,3,3.0,4.0,1.0,Ravens,2014
+,Tauren Poole,10/19/1989,25,5-10,209.0,Tennessee,RB,1,,0.0,0.0,Ravens,2014
+76.0,Jah Reid,7/21/1988,26,6-7,325.0,Central Florida,T,4,0.0,3.0,0.0,Ravens,2014
+48.0,Patrick Scales,2/11/1988,26,6-3,226.0,Utah St.,LS,2,0.0,0.0,0.0,Ravens,2014
+51.0,Daryl Smith,3/14/1982,32,6-2,250.0,Georgia Tech,RILB,16,16.0,10.0,9.0,Ravens,2014
+22.0,Jimmy Smith,7/26/1988,26,6-2,210.0,Colorado,RCB,8,8.0,3.0,3.0,Ravens,2014
+89.0,Steve Smith Sr.,5/12/1979,35,5-9,195.0,Utah,WR,16,16.0,13.0,10.0,Ravens,2014
+82.0,Torrey Smith,1/26/1989,25,6-0,205.0,Maryland,WR,16,16.0,3.0,7.0,Ravens,2014
+24.0,Darian Stewart,8/4/1988,26,5-11,214.0,South Carolina,FS,16,14.0,4.0,5.0,Ravens,2014
+55.0,Terrell Suggs,10/11/1982,32,6-3,265.0,Arizona St.,LOLB,16,16.0,11.0,8.0,Ravens,2014
+84.0,Phillip Supernaw,1/30/1990,24,6-5,255.0,Ouachita Baptist,TE,6,0.0,1.0,0.0,Ravens,2014
+34.0,Lorenzo Taliaferro,12/23/1991,23,6-0,229.0,"Lackawanna,Coastal Carolina",RB,13,0.0,0.0,3.0,Ravens,2014
+2.0,Tyrod Taylor,8/3/1989,25,6-1,217.0,Virginia Tech,QB,1,0.0,3.0,0.0,Ravens,2014
+43.0,Fitzgerald Toussaint,5/4/1990,24,5-9,204.0,Michigan,RB,4,0.0,0.0,0.0,Ravens,2014
+28.0,Brynden Trawick,10/23/1989,25,6-2,225.0,Troy,DB,14,0.0,1.0,1.0,Ravens,2014
+9.0,Justin Tucker,11/21/1989,25,6-1,188.0,Texas,K,16,0.0,2.0,4.0,Ravens,2014
+93.0,DeAngelo Tyson,4/12/1989,25,6-2,315.0,Georgia,DT,11,4.0,2.0,3.0,Ravens,2014
+91.0,Courtney Upshaw,12/13/1989,25,6-2,272.0,Alabama,ROLB,16,14.0,2.0,6.0,Ravens,2014
+64.0,John Urschel,6/24/1991,23,6-3,313.0,Penn St.,G,11,3.0,0.0,2.0,Ravens,2014
+71.0,Ricky Wagner,10/21/1989,25,6-6,313.0,Wisconsin,RT,15,15.0,1.0,9.0,Ravens,2014
+79.0,Casey Walker,12/6/1989,25,6-1,345.0,Oklahoma,DT,1,0.0,0.0,0.0,Ravens,2014
+21.0,Lardarius Webb,10/12/1985,29,5-10,179.0,Nicholls St.,LCB,13,11.0,5.0,4.0,Ravens,2014
+98.0,Brandon Williams,2/21/1989,25,6-1,336.0,Missouri Southern,NT,16,14.0,1.0,7.0,Ravens,2014
+73.0,Marshal Yanda,9/15/1984,30,6-3,305.0,Iowa,RG,16,16.0,7.0,17.0,Ravens,2014
+53.0,Jeremy Zuttah,6/1/1986,28,6-4,303.0,Rutgers,C,16,16.0,6.0,9.0,Ravens,2014
+,Team Total,,26,6-1.9,247.1,,,16,,3.1,,Ravens,2014

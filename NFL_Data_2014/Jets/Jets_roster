@@ -1,65 +1,65 @@
-,No.,Player,BirthDate,Age,Height,Weight,College/University,Position,Games_Played_in_Season,Games_Started_in_Season,NFL_Years,Player_Value,Team,Year
-0,75.0,Oday Aboushi,6/5/1991,23.0,6-5,308.0,Virginia,LG,15,10.0,0.0,5.0,Jets,2014
-1,24.0,Phillip Adams,7/20/1988,26.0,6-0,193.0,South Carolina St.,DB,12,4.0,4.0,2.0,Jets,2014
-2,39.0,Antonio Allen,9/23/1988,26.0,6-1,210.0,South Carolina,LCB,15,8.0,2.0,3.0,Jets,2014
-3,88.0,Jace Amaro,6/26/1992,22.0,6-5,265.0,Texas Tech,TE,14,4.0,0.0,3.0,Jets,2014
-4,58.0,Jason Babin,5/24/1980,34.0,6-3,267.0,Western Michigan,LB,16,4.0,10.0,3.0,Jets,2014
-5,95.0,Antwan Barnes,10/19/1984,30.0,6-1,240.0,Florida International,LB,5,0.0,7.0,0.0,Jets,2014
-6,99.0,T.J. Barnes,6/14/1990,24.0,6-6,355.0,Georgia Tech,DT,6,0.0,0.0,1.0,Jets,2014
-7,54.0,Nick Bellore,5/12/1989,25.0,6-1,250.0,Central Michigan,LB,16,0.0,3.0,1.0,Jets,2014
-8,40.0,Tommy Bohanon,9/10/1990,24.0,6-1,246.0,Wake Forest,RB,4,2.0,1.0,0.0,Jets,2014
-9,32.0,Josh Bush,3/6/1989,25.0,5-11,208.0,Wake Forest,DB,3,0.0,2.0,0.0,Jets,2014
-10,66.0,Willie Colon,4/9/1983,31.0,6-3,315.0,Hofstra,RG,16,16.0,8.0,7.0,Jets,2014
-11,38.0,John Conner,6/8/1987,27.0,5-11,240.0,Kentucky,RB,12,3.0,4.0,0.0,Jets,2014
-12,98.0,Quinton Coples,6/22/1990,24.0,6-6,284.0,North Carolina,LOLB,16,15.0,2.0,7.0,Jets,2014
-13,85.0,Jeff Cumberland,5/2/1987,27.0,6-4,249.0,Illinois,TE,16,14.0,4.0,2.0,Jets,2014
-14,56.0,Demario Davis,1/11/1989,25.0,6-2,248.0,Arkansas St.,LILB,16,16.0,2.0,8.0,Jets,2014
-15,87.0,Eric Decker,3/15/1987,27.0,6-3,214.0,Minnesota,WR,15,15.0,4.0,7.0,Jets,2014
-16,78.0,Leger Douzable,5/31/1986,28.0,6-4,305.0,Central Florida,DE,16,0.0,5.0,2.0,Jets,2014
-17,55.0,A.J. Edds,9/18/1987,27.0,6-4,246.0,Iowa,LB,4,0.0,3.0,0.0,Jets,2014
-18,93.0,Kenrick Ellis,12/10/1987,27.0,6-5,346.0,Hampton,DT,14,0.0,3.0,2.0,Jets,2014
-19,51.0,IK Enemkpali,7/3/1991,23.0,6-1,261.0,Louisiana Tech,DT,6,0.0,0.0,0.0,Jets,2014
-20,82.0,Quincy Enunwa,5/31/1992,22.0,6-2,225.0,Nebraska,WR,1,0.0,0.0,0.0,Jets,2014
-21,60.0,D'Brickashaw Ferguson,12/10/1983,31.0,6-6,310.0,Virginia,LT,16,16.0,8.0,7.0,Jets,2014
-22,2.0,Nick Folk,11/5/1984,30.0,6-1,225.0,Arizona,K,16,0.0,7.0,3.0,Jets,2014
-23,63.0,Dalton Freeman,6/18/1990,24.0,6-5,291.0,Clemson,C,16,1.0,0.0,1.0,Jets,2014
-24,68.0,Breno Giacomini,9/27/1985,29.0,6-7,320.0,Louisville,RT,16,16.0,6.0,7.0,Jets,2014
-25,10.0,T.J. Graham,7/4/1989,25.0,6-2,210.0,North Carolina St.,WR,12,0.0,2.0,1.0,Jets,2014
-26,15.0,Saalim Hakim,2/1/1990,24.0,5-11,188.0,"Palomar (CA),Tarleton St.",DB,16,0.0,1.0,0.0,Jets,2014
-27,52.0,David Harris,1/21/1984,30.0,6-2,250.0,Michigan,RILB,16,16.0,7.0,8.0,Jets,2014
-28,94.0,Damon Harrison,11/29/1988,26.0,6-3,350.0,"Northwest Mississippi CC,William Penn",NT,16,16.0,2.0,7.0,Jets,2014
-29,16.0,Percy Harvin,5/28/1988,26.0,5-11,200.0,Florida,WR,8,8.0,5.0,3.0,Jets,2014
-30,71.0,Ben Ijalana,8/6/1989,25.0,6-4,322.0,Villanova,T,3,0.0,3.0,0.0,Jets,2014
-31,33.0,Chris Ivory,3/22/1988,26.0,6-0,223.0,"Washington St.,Tiffin",RB,16,10.0,4.0,5.0,Jets,2014
-32,37.0,Jaiquawn Jarrett,9/21/1989,25.0,6-0,196.0,Temple,SS,14,5.0,3.0,3.0,Jets,2014
-33,21.0,Chris Johnson,9/23/1985,29.0,5-11,195.0,East Carolina,RB,16,6.0,6.0,5.0,Jets,2014
-34,11.0,Jeremy Kerley,11/8/1988,26.0,5-9,188.0,TCU,WR,16,7.0,3.0,4.0,Jets,2014
-35,26.0,Dawan Landry,12/30/1982,32.0,6-1,212.0,Georgia Tech,FS,16,14.0,8.0,5.0,Jets,2014
-36,31.0,Ellis Lankster,6/3/1987,27.0,5-9,191.0,West Virginia,DB,2,0.0,5.0,0.0,Jets,2014
-37,38.0,LeQuan Lewis,2/17/1989,25.0,5-11,190.0,Arizona St.,DB,1,0.0,2.0,0.0,Jets,2014
-38,74.0,Nick Mangold,1/13/1984,30.0,6-4,307.0,Ohio St.,C,15,15.0,8.0,8.0,Jets,2014
-39,27.0,Dee Milliner,9/14/1991,23.0,6-0,201.0,Alabama,DB,3,2.0,1.0,1.0,Jets,2014
-40,86.0,David Nelson,11/7/1986,28.0,6-5,217.0,Florida,WR,6,5.0,4.0,0.0,Jets,2014
-41,14.0,Chris Owusu,1/6/1990,24.0,6-0,195.0,Stanford,WR,5,0.0,2.0,1.0,Jets,2014
-42,97.0,Calvin Pace,10/28/1980,34.0,6-4,265.0,Wake Forest,ROLB,16,16.0,11.0,7.0,Jets,2014
-43,83.0,Chris Pantale,3/22/1990,24.0,6-5,254.0,Boston Col.,TE,5,0.0,0.0,0.0,Jets,2014
-44,29.0,Bilal Powell,10/27/1988,26.0,5-10,204.0,Louisville,RB,15,1.0,3.0,1.0,Jets,2014
-45,18.0,Walt Powell,11/23/1991,23.0,5-11,189.0,Murray St.,WR,4,0.0,0.0,0.0,Jets,2014
-46,25.0,Calvin Pryor,7/2/1992,22.0,5-11,207.0,Louisville,SS/FS,16,11.0,0.0,4.0,Jets,2014
-47,46.0,Tanner Purdum,1/1/1986,28.0,6-3,217.0,Baker,LS,16,0.0,4.0,1.0,Jets,2014
-48,4.0,Ryan Quigley,1/26/1990,24.0,6-2,205.0,Boston Col.,P,16,0.0,1.0,2.0,Jets,2014
-49,57.0,Trevor Reilly,1/17/1988,26.0,6-5,240.0,Utah,LB,14,0.0,0.0,1.0,Jets,2014
-50,91.0,Sheldon Richardson,11/29/1990,24.0,6-3,290.0,Missouri,RDE,16,16.0,1.0,11.0,Jets,2014
-51,17.0,Greg Salas,8/25/1988,26.0,6-1,206.0,Hawaii,WR,10,2.0,3.0,1.0,Jets,2014
-52,16.0,Jalen Saunders,9/30/1992,22.0,5-9,165.0,Oklahoma,WR,3,0.0,0.0,0.0,Jets,2014
-53,5.0,Matt Simms,9/27/1988,26.0,6-3,210.0,"Louisville,Tennessee",QB,1,0.0,1.0,0.0,Jets,2014
-54,7.0,Geno Smith,10/10/1990,24.0,6-3,221.0,West Virginia,QB,14,13.0,1.0,7.0,Jets,2014
-55,44.0,Zach Sudfeld,4/18/1989,25.0,6-7,253.0,Nevada,TE,16,3.0,1.0,1.0,Jets,2014
-56,41.0,Josh Thomas,5/3/1989,25.0,5-10,196.0,Buffalo,DB,1,0.0,3.0,0.0,Jets,2014
-57,1.0,Michael Vick,6/26/1980,34.0,6-0,210.0,Virginia Tech,QB,10,3.0,13.0,2.0,Jets,2014
-58,30.0,Darrin Walls,6/20/1988,26.0,6-0,190.0,Notre Dame,RCB,14,12.0,3.0,5.0,Jets,2014
-59,96.0,Muhammad Wilkerson,10/22/1989,25.0,6-4,315.0,Temple,LDE,13,13.0,3.0,6.0,Jets,2014
-60,22.0,Marcus Williams,3/24/1991,23.0,5-11,196.0,North Dakota St.,LCB,8,8.0,0.0,3.0,Jets,2014
-61,20.0,Kyle Wilson,5/30/1987,27.0,5-10,190.0,Boise St.,DB,16,0.0,4.0,1.0,Jets,2014
-62,67.0,Brian Winters,7/16/1991,23.0,6-4,320.0,Kent St.,LG,6,6.0,1.0,3.0,Jets,2014
-63,,Team Total,,26.2,6-1.9,241.3,,,16,,3.2,,Jets,2014
+No.,Player,BirthDate,Age,Height,Weight,College/University,Position,Games_Played_in_Season,Games_Started_in_Season,NFL_Years,Player_Value,Team,Year
+75.0,Oday Aboushi,6/5/1991,23.0,6-5,308.0,Virginia,LG,15,10.0,0.0,5.0,Jets,2014
+24.0,Phillip Adams,7/20/1988,26.0,6-0,193.0,South Carolina St.,DB,12,4.0,4.0,2.0,Jets,2014
+39.0,Antonio Allen,9/23/1988,26.0,6-1,210.0,South Carolina,LCB,15,8.0,2.0,3.0,Jets,2014
+88.0,Jace Amaro,6/26/1992,22.0,6-5,265.0,Texas Tech,TE,14,4.0,0.0,3.0,Jets,2014
+58.0,Jason Babin,5/24/1980,34.0,6-3,267.0,Western Michigan,LB,16,4.0,10.0,3.0,Jets,2014
+95.0,Antwan Barnes,10/19/1984,30.0,6-1,240.0,Florida International,LB,5,0.0,7.0,0.0,Jets,2014
+99.0,T.J. Barnes,6/14/1990,24.0,6-6,355.0,Georgia Tech,DT,6,0.0,0.0,1.0,Jets,2014
+54.0,Nick Bellore,5/12/1989,25.0,6-1,250.0,Central Michigan,LB,16,0.0,3.0,1.0,Jets,2014
+40.0,Tommy Bohanon,9/10/1990,24.0,6-1,246.0,Wake Forest,RB,4,2.0,1.0,0.0,Jets,2014
+32.0,Josh Bush,3/6/1989,25.0,5-11,208.0,Wake Forest,DB,3,0.0,2.0,0.0,Jets,2014
+66.0,Willie Colon,4/9/1983,31.0,6-3,315.0,Hofstra,RG,16,16.0,8.0,7.0,Jets,2014
+38.0,John Conner,6/8/1987,27.0,5-11,240.0,Kentucky,RB,12,3.0,4.0,0.0,Jets,2014
+98.0,Quinton Coples,6/22/1990,24.0,6-6,284.0,North Carolina,LOLB,16,15.0,2.0,7.0,Jets,2014
+85.0,Jeff Cumberland,5/2/1987,27.0,6-4,249.0,Illinois,TE,16,14.0,4.0,2.0,Jets,2014
+56.0,Demario Davis,1/11/1989,25.0,6-2,248.0,Arkansas St.,LILB,16,16.0,2.0,8.0,Jets,2014
+87.0,Eric Decker,3/15/1987,27.0,6-3,214.0,Minnesota,WR,15,15.0,4.0,7.0,Jets,2014
+78.0,Leger Douzable,5/31/1986,28.0,6-4,305.0,Central Florida,DE,16,0.0,5.0,2.0,Jets,2014
+55.0,A.J. Edds,9/18/1987,27.0,6-4,246.0,Iowa,LB,4,0.0,3.0,0.0,Jets,2014
+93.0,Kenrick Ellis,12/10/1987,27.0,6-5,346.0,Hampton,DT,14,0.0,3.0,2.0,Jets,2014
+51.0,IK Enemkpali,7/3/1991,23.0,6-1,261.0,Louisiana Tech,DT,6,0.0,0.0,0.0,Jets,2014
+82.0,Quincy Enunwa,5/31/1992,22.0,6-2,225.0,Nebraska,WR,1,0.0,0.0,0.0,Jets,2014
+60.0,D'Brickashaw Ferguson,12/10/1983,31.0,6-6,310.0,Virginia,LT,16,16.0,8.0,7.0,Jets,2014
+2.0,Nick Folk,11/5/1984,30.0,6-1,225.0,Arizona,K,16,0.0,7.0,3.0,Jets,2014
+63.0,Dalton Freeman,6/18/1990,24.0,6-5,291.0,Clemson,C,16,1.0,0.0,1.0,Jets,2014
+68.0,Breno Giacomini,9/27/1985,29.0,6-7,320.0,Louisville,RT,16,16.0,6.0,7.0,Jets,2014
+10.0,T.J. Graham,7/4/1989,25.0,6-2,210.0,North Carolina St.,WR,12,0.0,2.0,1.0,Jets,2014
+15.0,Saalim Hakim,2/1/1990,24.0,5-11,188.0,"Palomar (CA),Tarleton St.",DB,16,0.0,1.0,0.0,Jets,2014
+52.0,David Harris,1/21/1984,30.0,6-2,250.0,Michigan,RILB,16,16.0,7.0,8.0,Jets,2014
+94.0,Damon Harrison,11/29/1988,26.0,6-3,350.0,"Northwest Mississippi CC,William Penn",NT,16,16.0,2.0,7.0,Jets,2014
+16.0,Percy Harvin,5/28/1988,26.0,5-11,200.0,Florida,WR,8,8.0,5.0,3.0,Jets,2014
+71.0,Ben Ijalana,8/6/1989,25.0,6-4,322.0,Villanova,T,3,0.0,3.0,0.0,Jets,2014
+33.0,Chris Ivory,3/22/1988,26.0,6-0,223.0,"Washington St.,Tiffin",RB,16,10.0,4.0,5.0,Jets,2014
+37.0,Jaiquawn Jarrett,9/21/1989,25.0,6-0,196.0,Temple,SS,14,5.0,3.0,3.0,Jets,2014
+21.0,Chris Johnson,9/23/1985,29.0,5-11,195.0,East Carolina,RB,16,6.0,6.0,5.0,Jets,2014
+11.0,Jeremy Kerley,11/8/1988,26.0,5-9,188.0,TCU,WR,16,7.0,3.0,4.0,Jets,2014
+26.0,Dawan Landry,12/30/1982,32.0,6-1,212.0,Georgia Tech,FS,16,14.0,8.0,5.0,Jets,2014
+31.0,Ellis Lankster,6/3/1987,27.0,5-9,191.0,West Virginia,DB,2,0.0,5.0,0.0,Jets,2014
+38.0,LeQuan Lewis,2/17/1989,25.0,5-11,190.0,Arizona St.,DB,1,0.0,2.0,0.0,Jets,2014
+74.0,Nick Mangold,1/13/1984,30.0,6-4,307.0,Ohio St.,C,15,15.0,8.0,8.0,Jets,2014
+27.0,Dee Milliner,9/14/1991,23.0,6-0,201.0,Alabama,DB,3,2.0,1.0,1.0,Jets,2014
+86.0,David Nelson,11/7/1986,28.0,6-5,217.0,Florida,WR,6,5.0,4.0,0.0,Jets,2014
+14.0,Chris Owusu,1/6/1990,24.0,6-0,195.0,Stanford,WR,5,0.0,2.0,1.0,Jets,2014
+97.0,Calvin Pace,10/28/1980,34.0,6-4,265.0,Wake Forest,ROLB,16,16.0,11.0,7.0,Jets,2014
+83.0,Chris Pantale,3/22/1990,24.0,6-5,254.0,Boston Col.,TE,5,0.0,0.0,0.0,Jets,2014
+29.0,Bilal Powell,10/27/1988,26.0,5-10,204.0,Louisville,RB,15,1.0,3.0,1.0,Jets,2014
+18.0,Walt Powell,11/23/1991,23.0,5-11,189.0,Murray St.,WR,4,0.0,0.0,0.0,Jets,2014
+25.0,Calvin Pryor,7/2/1992,22.0,5-11,207.0,Louisville,SS/FS,16,11.0,0.0,4.0,Jets,2014
+46.0,Tanner Purdum,1/1/1986,28.0,6-3,217.0,Baker,LS,16,0.0,4.0,1.0,Jets,2014
+4.0,Ryan Quigley,1/26/1990,24.0,6-2,205.0,Boston Col.,P,16,0.0,1.0,2.0,Jets,2014
+57.0,Trevor Reilly,1/17/1988,26.0,6-5,240.0,Utah,LB,14,0.0,0.0,1.0,Jets,2014
+91.0,Sheldon Richardson,11/29/1990,24.0,6-3,290.0,Missouri,RDE,16,16.0,1.0,11.0,Jets,2014
+17.0,Greg Salas,8/25/1988,26.0,6-1,206.0,Hawaii,WR,10,2.0,3.0,1.0,Jets,2014
+16.0,Jalen Saunders,9/30/1992,22.0,5-9,165.0,Oklahoma,WR,3,0.0,0.0,0.0,Jets,2014
+5.0,Matt Simms,9/27/1988,26.0,6-3,210.0,"Louisville,Tennessee",QB,1,0.0,1.0,0.0,Jets,2014
+7.0,Geno Smith,10/10/1990,24.0,6-3,221.0,West Virginia,QB,14,13.0,1.0,7.0,Jets,2014
+44.0,Zach Sudfeld,4/18/1989,25.0,6-7,253.0,Nevada,TE,16,3.0,1.0,1.0,Jets,2014
+41.0,Josh Thomas,5/3/1989,25.0,5-10,196.0,Buffalo,DB,1,0.0,3.0,0.0,Jets,2014
+1.0,Michael Vick,6/26/1980,34.0,6-0,210.0,Virginia Tech,QB,10,3.0,13.0,2.0,Jets,2014
+30.0,Darrin Walls,6/20/1988,26.0,6-0,190.0,Notre Dame,RCB,14,12.0,3.0,5.0,Jets,2014
+96.0,Muhammad Wilkerson,10/22/1989,25.0,6-4,315.0,Temple,LDE,13,13.0,3.0,6.0,Jets,2014
+22.0,Marcus Williams,3/24/1991,23.0,5-11,196.0,North Dakota St.,LCB,8,8.0,0.0,3.0,Jets,2014
+20.0,Kyle Wilson,5/30/1987,27.0,5-10,190.0,Boise St.,DB,16,0.0,4.0,1.0,Jets,2014
+67.0,Brian Winters,7/16/1991,23.0,6-4,320.0,Kent St.,LG,6,6.0,1.0,3.0,Jets,2014
+,Team Total,,26.2,6-1.9,241.3,,,16,,3.2,,Jets,2014

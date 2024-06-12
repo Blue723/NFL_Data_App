@@ -1,72 +1,72 @@
-,No.,Player,BirthDate,Age,Height,Weight,College/University,Position,Games_Played_in_Season,Games_Started_in_Season,NFL_Years,Player_Value,Team,Year
-0,39.0,David Amerson,12/8/1991,23.0,6-1,212.0,North Carolina St.,RCB,15,15.0,1.0,5.0,Commanders,2014
-1,92.0,Chris Baker,10/8/1987,27.0,6-2,306.0,Hampton,NT,15,12.0,5.0,5.0,Commanders,2014
-2,58.0,Steve Beauharnais,5/2/1990,24.0,6-1,240.0,Rutgers,LB,3,0.0,1.0,0.0,Commanders,2014
-3,30.0,E.J. Biggers,6/13/1987,27.0,6-0,180.0,Western Michigan,DB,15,2.0,4.0,1.0,Commanders,2014
-4,72.0,Stephen Bowen,3/28/1984,30.0,6-5,300.0,Hofstra,DE,8,3.0,8.0,2.0,Commanders,2014
-5,26.0,Bashaud Breeland,1/30/1992,22.0,5-11,195.0,Clemson,LCB,16,15.0,0.0,6.0,Commanders,2014
-6,90.0,Everette Brown,8/7/1987,27.0,6-4,250.0,Florida St.,DE,6,0.0,5.0,0.0,Commanders,2014
-7,66.0,Chris Chester,1/12/1983,31.0,6-3,303.0,Oklahoma,RG,16,16.0,8.0,7.0,Commanders,2014
-8,25.0,Ryan Clark,10/12/1979,35.0,5-11,205.0,LSU,FS,16,15.0,12.0,6.0,Commanders,2014
-9,96.0,Barry Cofield,3/19/1984,30.0,6-4,303.0,Northwestern,DT,8,3.0,8.0,2.0,Commanders,2014
-10,68.0,Tom Compton,5/10/1989,25.0,6-6,315.0,South Dakota,RT,16,9.0,1.0,5.0,Commanders,2014
-11,51.0,William Compton,9/19/1989,25.0,6-1,235.0,Nebraska,LILB,16,5.0,1.0,3.0,Commanders,2014
-12,8.0,Kirk Cousins,8/19/1988,26.0,6-3,205.0,Michigan St.,QB,6,5.0,2.0,4.0,Commanders,2014
-13,47.0,Akeem Davis,12/25/1989,25.0,6-1,200.0,Memphis,DB,13,0.0,0.0,1.0,Commanders,2014
-14,58.0,Ja'Gared Davis,9/11/1990,24.0,6-1,235.0,SMU,LB,3,0.0,1.0,0.0,Commanders,2014
-15,38.0,Greg Ducre,1/22/1992,22.0,5-10,184.0,Washington,DB,5,0.0,0.0,1.0,Commanders,2014
-16,2.0,Kai Forbath,9/2/1987,27.0,5-11,197.0,UCLA,K,16,0.0,2.0,3.0,Commanders,2014
-17,88.0,Pierre Garcon,8/8/1986,28.0,6-0,211.0,Mount Union,WR,16,14.0,6.0,5.0,Commanders,2014
-18,94.0,Clifton Geathers,12/11/1987,27.0,6-8,281.0,South Carolina,DE,6,0.0,4.0,1.0,Commanders,2014
-19,64.0,Kedric Golston,5/30/1983,31.0,6-4,330.0,Georgia,DT,11,0.0,8.0,1.0,Commanders,2014
-20,14.0,Ryan Grant,12/19/1990,24.0,6-0,195.0,Tulane,WR,16,2.0,0.0,0.0,Commanders,2014
-21,10.0,Robert Griffin III,2/12/1990,24.0,6-2,213.0,Baylor,QB,9,7.0,2.0,5.0,Commanders,2014
-22,23.0,DeAngelo Hall,11/19/1983,31.0,5-10,200.0,Virginia Tech,DB,3,3.0,10.0,1.0,Commanders,2014
-23,85.0,Leonard Hankerson,1/30/1989,25.0,6-1,205.0,Miami (FL),WR,1,0.0,3.0,0.0,Commanders,2014
-24,97.0,Jason Hatcher,7/13/1982,32.0,6-6,299.0,Grambling St.,RDE,13,13.0,8.0,6.0,Commanders,2014
-25,55.0,Adam Hayward,6/23/1984,30.0,6-0,235.0,Portland St.,LB,11,0.0,7.0,1.0,Commanders,2014
-26,29.0,Roy Helu,12/7/1988,26.0,6-0,216.0,Nebraska,RB,14,0.0,3.0,4.0,Commanders,2014
-27,35.0,Duke Ihenacho,6/16/1989,25.0,6-0,212.0,San Jose St.,DB,3,0.0,2.0,0.0,Commanders,2014
-28,11.0,DeSean Jackson,12/1/1986,28.0,5-10,175.0,California,WR,15,13.0,6.0,8.0,Commanders,2014
-29,53.0,Jackson Jeffcoat,12/26/1991,23.0,6-3,247.0,Texas,DE,3,1.0,0.0,1.0,Commanders,2014
-30,99.0,Jarvis Jenkins,4/24/1988,26.0,6-4,300.0,Clemson,LDE,16,14.0,2.0,6.0,Commanders,2014
-31,54.0,Akeem Jordan,8/17/1985,29.0,6-1,226.0,James Madison,LB,2,0.0,7.0,0.0,Commanders,2014
-32,73.0,Frank Kearse,10/28/1988,26.0,6-4,315.0,Alabama A&M,DT,15,0.0,3.0,2.0,Commanders,2014
-33,91.0,Ryan Kerrigan,8/16/1988,26.0,6-4,267.0,Purdue,LOLB,16,16.0,3.0,8.0,Commanders,2014
-34,77.0,Shawn Lauvao,10/26/1987,27.0,6-3,308.0,Arizona St.,LG,15,15.0,4.0,7.0,Commanders,2014
-35,67.0,Josh LeRibeus,7/2/1989,25.0,6-2,315.0,SMU,G,7,1.0,2.0,1.0,Commanders,2014
-36,78.0,Kory Lichtensteiger,3/22/1985,29.0,6-3,296.0,Bowling Green,C,16,16.0,6.0,7.0,Commanders,2014
-37,60.0,Spencer Long,11/8/1990,24.0,6-5,318.0,Nebraska,G,5,0.0,0.0,0.0,Commanders,2014
-38,16.0,Colt McCoy,9/5/1986,28.0,6-1,212.0,Texas,QB,5,4.0,4.0,3.0,Commanders,2014
-39,31.0,Brandon Meriweather,1/14/1984,30.0,5-11,195.0,Miami (FL),SS,10,10.0,7.0,4.0,Commanders,2014
-40,50.0,Gabe Miller,12/5/1987,27.0,6-3,257.0,Oregon St.,LB,7,0.0,0.0,0.0,Commanders,2014
-41,20.0,Chase Minnifield,3/31/1989,25.0,6-0,185.0,Virginia,DB,7,1.0,0.0,1.0,Commanders,2014
-42,46.0,Alfred Morris,12/12/1988,26.0,5-10,222.0,Florida Atlantic,RB,16,16.0,2.0,6.0,Commanders,2014
-43,76.0,Morgan Moses,3/3/1991,23.0,6-6,320.0,Virginia,T,8,1.0,0.0,1.0,Commanders,2014
-44,89.0,Santana Moss,6/1/1979,35.0,5-10,193.0,Miami (FL),WR,10,0.0,13.0,1.0,Commanders,2014
-45,93.0,Trent Murphy,12/22/1990,24.0,6-6,260.0,Stanford,ROLB,15,8.0,0.0,4.0,Commanders,2014
-46,40.0,Kenny Okoro,10/18/1989,25.0,6-0,195.0,Wake Forest,DB,2,0.0,0.0,0.0,Commanders,2014
-47,98.0,Brian Orakpo,7/31/1986,28.0,6-4,257.0,Texas,ROLB,7,7.0,5.0,3.0,Commanders,2014
-48,84.0,Niles Paul,8/9/1989,25.0,6-1,242.0,Nebraska,TE,16,7.0,3.0,3.0,Commanders,2014
-49,82.0,Logan Paulsen,2/26/1987,27.0,6-5,268.0,UCLA,TE,16,12.0,4.0,1.0,Commanders,2014
-50,74.0,Tyler Polumbus,4/10/1985,29.0,6-7,302.0,Colorado,RT,11,7.0,6.0,3.0,Commanders,2014
-51,22.0,Tracy Porter,8/11/1986,28.0,5-11,185.0,Indiana,DB,3,1.0,6.0,0.0,Commanders,2014
-52,24.0,Bacarri Rambo,6/27/1990,24.0,6-1,211.0,Georgia,DB,2,0.0,1.0,0.0,Commanders,2014
-53,32.0,Silas Redd,3/1/1992,22.0,5-10,212.0,USC,RB,15,0.0,0.0,1.0,Commanders,2014
-54,86.0,Jordan Reed,7/3/1990,24.0,6-2,242.0,Florida,TE,11,2.0,1.0,3.0,Commanders,2014
-55,56.0,Perry Riley,5/3/1988,26.0,6-1,238.0,LSU,RILB,14,14.0,4.0,6.0,Commanders,2014
-56,12.0,Andre Roberts,1/9/1988,26.0,5-11,195.0,The Citadel,WR,16,4.0,4.0,3.0,Commanders,2014
-57,15.0,Aldrick Robinson,9/24/1988,26.0,5-10,185.0,SMU,WR,5,0.0,2.0,0.0,Commanders,2014
-58,52.0,Keenan Robinson,7/7/1989,25.0,6-3,245.0,Texas,LILB,13,13.0,2.0,7.0,Commanders,2014
-59,34.0,Trent Robinson,2/16/1990,24.0,5-10,193.0,Michigan St.,DB,15,1.0,2.0,2.0,Commanders,2014
-60,38.0,Justin Rogers,1/16/1988,26.0,5-11,180.0,Richmond,DB,3,0.0,3.0,0.0,Commanders,2014
-61,,Rashad Ross,2/2/1990,24.0,6-0,180.0,Arizona St.,WR,2,,0.0,0.0,Commanders,2014
-62,24.0,Jamarca Sanford,8/27/1985,29.0,5-10,200.0,Mississippi,DB,3,0.0,5.0,0.0,Commanders,2014
-63,57.0,Nick Sundberg,7/29/1987,27.0,6-1,254.0,California,LS,16,0.0,4.0,1.0,Commanders,2014
-64,41.0,Phillip Thomas,3/1/1989,25.0,6-1,208.0,Fresno St.,DB,8,4.0,0.0,2.0,Commanders,2014
-65,37.0,Chris Thompson,10/20/1990,24.0,5-8,195.0,Florida St.,RB,2,0.0,1.0,0.0,Commanders,2014
-66,5.0,Tress Way,4/18/1990,24.0,6-1,220.0,Oklahoma,P,16,0.0,0.0,3.0,Commanders,2014
-67,71.0,Trent Williams,7/19/1988,26.0,6-5,320.0,Oklahoma,LT,15,15.0,4.0,9.0,Commanders,2014
-68,54.0,Trevardo Williams,12/31/1990,24.0,6-1,241.0,Connecticut,DE,3,0.0,0.0,0.0,Commanders,2014
-69,36.0,Darrel Young,4/8/1987,27.0,5-11,248.0,Villanova,RB,16,10.0,4.0,1.0,Commanders,2014
-70,,Team Total,,26.4,6-1.4,238.4,,,16,,3.3,,Commanders,2014
+No.,Player,BirthDate,Age,Height,Weight,College/University,Position,Games_Played_in_Season,Games_Started_in_Season,NFL_Years,Player_Value,Team,Year
+39.0,David Amerson,12/8/1991,23.0,6-1,212.0,North Carolina St.,RCB,15,15.0,1.0,5.0,Commanders,2014
+92.0,Chris Baker,10/8/1987,27.0,6-2,306.0,Hampton,NT,15,12.0,5.0,5.0,Commanders,2014
+58.0,Steve Beauharnais,5/2/1990,24.0,6-1,240.0,Rutgers,LB,3,0.0,1.0,0.0,Commanders,2014
+30.0,E.J. Biggers,6/13/1987,27.0,6-0,180.0,Western Michigan,DB,15,2.0,4.0,1.0,Commanders,2014
+72.0,Stephen Bowen,3/28/1984,30.0,6-5,300.0,Hofstra,DE,8,3.0,8.0,2.0,Commanders,2014
+26.0,Bashaud Breeland,1/30/1992,22.0,5-11,195.0,Clemson,LCB,16,15.0,0.0,6.0,Commanders,2014
+90.0,Everette Brown,8/7/1987,27.0,6-4,250.0,Florida St.,DE,6,0.0,5.0,0.0,Commanders,2014
+66.0,Chris Chester,1/12/1983,31.0,6-3,303.0,Oklahoma,RG,16,16.0,8.0,7.0,Commanders,2014
+25.0,Ryan Clark,10/12/1979,35.0,5-11,205.0,LSU,FS,16,15.0,12.0,6.0,Commanders,2014
+96.0,Barry Cofield,3/19/1984,30.0,6-4,303.0,Northwestern,DT,8,3.0,8.0,2.0,Commanders,2014
+68.0,Tom Compton,5/10/1989,25.0,6-6,315.0,South Dakota,RT,16,9.0,1.0,5.0,Commanders,2014
+51.0,William Compton,9/19/1989,25.0,6-1,235.0,Nebraska,LILB,16,5.0,1.0,3.0,Commanders,2014
+8.0,Kirk Cousins,8/19/1988,26.0,6-3,205.0,Michigan St.,QB,6,5.0,2.0,4.0,Commanders,2014
+47.0,Akeem Davis,12/25/1989,25.0,6-1,200.0,Memphis,DB,13,0.0,0.0,1.0,Commanders,2014
+58.0,Ja'Gared Davis,9/11/1990,24.0,6-1,235.0,SMU,LB,3,0.0,1.0,0.0,Commanders,2014
+38.0,Greg Ducre,1/22/1992,22.0,5-10,184.0,Washington,DB,5,0.0,0.0,1.0,Commanders,2014
+2.0,Kai Forbath,9/2/1987,27.0,5-11,197.0,UCLA,K,16,0.0,2.0,3.0,Commanders,2014
+88.0,Pierre Garcon,8/8/1986,28.0,6-0,211.0,Mount Union,WR,16,14.0,6.0,5.0,Commanders,2014
+94.0,Clifton Geathers,12/11/1987,27.0,6-8,281.0,South Carolina,DE,6,0.0,4.0,1.0,Commanders,2014
+64.0,Kedric Golston,5/30/1983,31.0,6-4,330.0,Georgia,DT,11,0.0,8.0,1.0,Commanders,2014
+14.0,Ryan Grant,12/19/1990,24.0,6-0,195.0,Tulane,WR,16,2.0,0.0,0.0,Commanders,2014
+10.0,Robert Griffin III,2/12/1990,24.0,6-2,213.0,Baylor,QB,9,7.0,2.0,5.0,Commanders,2014
+23.0,DeAngelo Hall,11/19/1983,31.0,5-10,200.0,Virginia Tech,DB,3,3.0,10.0,1.0,Commanders,2014
+85.0,Leonard Hankerson,1/30/1989,25.0,6-1,205.0,Miami (FL),WR,1,0.0,3.0,0.0,Commanders,2014
+97.0,Jason Hatcher,7/13/1982,32.0,6-6,299.0,Grambling St.,RDE,13,13.0,8.0,6.0,Commanders,2014
+55.0,Adam Hayward,6/23/1984,30.0,6-0,235.0,Portland St.,LB,11,0.0,7.0,1.0,Commanders,2014
+29.0,Roy Helu,12/7/1988,26.0,6-0,216.0,Nebraska,RB,14,0.0,3.0,4.0,Commanders,2014
+35.0,Duke Ihenacho,6/16/1989,25.0,6-0,212.0,San Jose St.,DB,3,0.0,2.0,0.0,Commanders,2014
+11.0,DeSean Jackson,12/1/1986,28.0,5-10,175.0,California,WR,15,13.0,6.0,8.0,Commanders,2014
+53.0,Jackson Jeffcoat,12/26/1991,23.0,6-3,247.0,Texas,DE,3,1.0,0.0,1.0,Commanders,2014
+99.0,Jarvis Jenkins,4/24/1988,26.0,6-4,300.0,Clemson,LDE,16,14.0,2.0,6.0,Commanders,2014
+54.0,Akeem Jordan,8/17/1985,29.0,6-1,226.0,James Madison,LB,2,0.0,7.0,0.0,Commanders,2014
+73.0,Frank Kearse,10/28/1988,26.0,6-4,315.0,Alabama A&M,DT,15,0.0,3.0,2.0,Commanders,2014
+91.0,Ryan Kerrigan,8/16/1988,26.0,6-4,267.0,Purdue,LOLB,16,16.0,3.0,8.0,Commanders,2014
+77.0,Shawn Lauvao,10/26/1987,27.0,6-3,308.0,Arizona St.,LG,15,15.0,4.0,7.0,Commanders,2014
+67.0,Josh LeRibeus,7/2/1989,25.0,6-2,315.0,SMU,G,7,1.0,2.0,1.0,Commanders,2014
+78.0,Kory Lichtensteiger,3/22/1985,29.0,6-3,296.0,Bowling Green,C,16,16.0,6.0,7.0,Commanders,2014
+60.0,Spencer Long,11/8/1990,24.0,6-5,318.0,Nebraska,G,5,0.0,0.0,0.0,Commanders,2014
+16.0,Colt McCoy,9/5/1986,28.0,6-1,212.0,Texas,QB,5,4.0,4.0,3.0,Commanders,2014
+31.0,Brandon Meriweather,1/14/1984,30.0,5-11,195.0,Miami (FL),SS,10,10.0,7.0,4.0,Commanders,2014
+50.0,Gabe Miller,12/5/1987,27.0,6-3,257.0,Oregon St.,LB,7,0.0,0.0,0.0,Commanders,2014
+20.0,Chase Minnifield,3/31/1989,25.0,6-0,185.0,Virginia,DB,7,1.0,0.0,1.0,Commanders,2014
+46.0,Alfred Morris,12/12/1988,26.0,5-10,222.0,Florida Atlantic,RB,16,16.0,2.0,6.0,Commanders,2014
+76.0,Morgan Moses,3/3/1991,23.0,6-6,320.0,Virginia,T,8,1.0,0.0,1.0,Commanders,2014
+89.0,Santana Moss,6/1/1979,35.0,5-10,193.0,Miami (FL),WR,10,0.0,13.0,1.0,Commanders,2014
+93.0,Trent Murphy,12/22/1990,24.0,6-6,260.0,Stanford,ROLB,15,8.0,0.0,4.0,Commanders,2014
+40.0,Kenny Okoro,10/18/1989,25.0,6-0,195.0,Wake Forest,DB,2,0.0,0.0,0.0,Commanders,2014
+98.0,Brian Orakpo,7/31/1986,28.0,6-4,257.0,Texas,ROLB,7,7.0,5.0,3.0,Commanders,2014
+84.0,Niles Paul,8/9/1989,25.0,6-1,242.0,Nebraska,TE,16,7.0,3.0,3.0,Commanders,2014
+82.0,Logan Paulsen,2/26/1987,27.0,6-5,268.0,UCLA,TE,16,12.0,4.0,1.0,Commanders,2014
+74.0,Tyler Polumbus,4/10/1985,29.0,6-7,302.0,Colorado,RT,11,7.0,6.0,3.0,Commanders,2014
+22.0,Tracy Porter,8/11/1986,28.0,5-11,185.0,Indiana,DB,3,1.0,6.0,0.0,Commanders,2014
+24.0,Bacarri Rambo,6/27/1990,24.0,6-1,211.0,Georgia,DB,2,0.0,1.0,0.0,Commanders,2014
+32.0,Silas Redd,3/1/1992,22.0,5-10,212.0,USC,RB,15,0.0,0.0,1.0,Commanders,2014
+86.0,Jordan Reed,7/3/1990,24.0,6-2,242.0,Florida,TE,11,2.0,1.0,3.0,Commanders,2014
+56.0,Perry Riley,5/3/1988,26.0,6-1,238.0,LSU,RILB,14,14.0,4.0,6.0,Commanders,2014
+12.0,Andre Roberts,1/9/1988,26.0,5-11,195.0,The Citadel,WR,16,4.0,4.0,3.0,Commanders,2014
+15.0,Aldrick Robinson,9/24/1988,26.0,5-10,185.0,SMU,WR,5,0.0,2.0,0.0,Commanders,2014
+52.0,Keenan Robinson,7/7/1989,25.0,6-3,245.0,Texas,LILB,13,13.0,2.0,7.0,Commanders,2014
+34.0,Trent Robinson,2/16/1990,24.0,5-10,193.0,Michigan St.,DB,15,1.0,2.0,2.0,Commanders,2014
+38.0,Justin Rogers,1/16/1988,26.0,5-11,180.0,Richmond,DB,3,0.0,3.0,0.0,Commanders,2014
+,Rashad Ross,2/2/1990,24.0,6-0,180.0,Arizona St.,WR,2,,0.0,0.0,Commanders,2014
+24.0,Jamarca Sanford,8/27/1985,29.0,5-10,200.0,Mississippi,DB,3,0.0,5.0,0.0,Commanders,2014
+57.0,Nick Sundberg,7/29/1987,27.0,6-1,254.0,California,LS,16,0.0,4.0,1.0,Commanders,2014
+41.0,Phillip Thomas,3/1/1989,25.0,6-1,208.0,Fresno St.,DB,8,4.0,0.0,2.0,Commanders,2014
+37.0,Chris Thompson,10/20/1990,24.0,5-8,195.0,Florida St.,RB,2,0.0,1.0,0.0,Commanders,2014
+5.0,Tress Way,4/18/1990,24.0,6-1,220.0,Oklahoma,P,16,0.0,0.0,3.0,Commanders,2014
+71.0,Trent Williams,7/19/1988,26.0,6-5,320.0,Oklahoma,LT,15,15.0,4.0,9.0,Commanders,2014
+54.0,Trevardo Williams,12/31/1990,24.0,6-1,241.0,Connecticut,DE,3,0.0,0.0,0.0,Commanders,2014
+36.0,Darrel Young,4/8/1987,27.0,5-11,248.0,Villanova,RB,16,10.0,4.0,1.0,Commanders,2014
+,Team Total,,26.4,6-1.4,238.4,,,16,,3.3,,Commanders,2014

@@ -1,64 +1,64 @@
-,No.,Player,BirthDate,Age,Height,Weight,College/University,Position,Games_Played_in_Season,Games_Started_in_Season,NFL_Years,Player_Value,Team,Year
-0,55.0,John Abraham,5/6/1978,36.0,6-4,263.0,South Carolina,DE,1,1.0,14.0,0.0,Cardinals,2014
-1,94.0,Sam Acho,9/6/1988,26.0,6-3,259.0,Texas,LB,16,4.0,3.0,4.0,Cardinals,2014
-2,97.0,Lorenzo Alexander,5/31/1983,31.0,6-1,245.0,California,LB,16,0.0,7.0,1.0,Cardinals,2014
-3,59.0,Marcus Benard,7/26/1985,29.0,6-2,256.0,Jackson St.,LB,12,0.0,5.0,1.0,Cardinals,2014
-4,28.0,Justin Bethel,6/17/1990,24.0,6-0,200.0,Presbyterian,DB,16,0.0,2.0,3.0,Cardinals,2014
-5,13.0,Jaron Brown,1/8/1990,24.0,6-3,204.0,Clemson,WR,16,2.0,1.0,2.0,Cardinals,2014
-6,12.0,John Brown,4/3/1990,24.0,5-11,178.0,Pittsburg St.,WR,16,5.0,0.0,5.0,Cardinals,2014
-7,36.0,Deone Bucannon,8/30/1992,22.0,6-1,211.0,Washington St.,SS,16,9.0,0.0,4.0,Cardinals,2014
-8,2.0,Drew Butler,5/10/1989,25.0,6-1,199.0,Georgia,P,15,0.0,2.0,0.0,Cardinals,2014
-9,93.0,Calais Campbell,9/1/1986,28.0,6-8,282.0,Miami (FL),LDE,14,14.0,6.0,15.0,Cardinals,2014
-10,89.0,John Carlson,5/12/1984,30.0,6-5,256.0,Notre Dame,RB,16,12.0,6.0,2.0,Cardinals,2014
-11,56.0,Glenn Carson,12/5/1990,24.0,6-3,235.0,Penn St.,LB,5,0.0,0.0,1.0,Cardinals,2014
-12,7.0,Chandler Catanzaro,2/26/1991,23.0,6-3,200.0,Clemson,K,16,0.0,0.0,4.0,Cardinals,2014
-13,29.0,Chris Clemons,9/15/1985,29.0,6-1,210.0,Clemson,DB,1,0.0,5.0,0.0,Cardinals,2014
-14,61.0,Jonathan Cooper,1/19/1990,24.0,6-2,308.0,North Carolina,G,10,2.0,0.0,1.0,Cardinals,2014
-15,31.0,Antonio Cromartie,4/15/1984,30.0,6-2,210.0,Florida St.,RCB,16,16.0,8.0,9.0,Cardinals,2014
-16,54.0,Kenny Demens,2/4/1990,24.0,6-1,242.0,Michigan,LB,14,0.0,1.0,1.0,Cardinals,2014
-17,20.0,Jonathan Dwyer,7/26/1989,25.0,5-11,235.0,Georgia Tech,RB,2,0.0,4.0,0.0,Cardinals,2014
-18,38.0,Andre Ellington,2/3/1989,25.0,5-9,200.0,Clemson,RB,12,12.0,1.0,5.0,Cardinals,2014
-19,74.0,Paul Fanaika,4/9/1986,28.0,6-6,333.0,Arizona St.,RG,14,14.0,3.0,6.0,Cardinals,2014
-20,85.0,Darren Fells,4/22/1986,28.0,6-7,270.0,UC Irvine,TE,10,5.0,0.0,0.0,Cardinals,2014
-21,11.0,Larry Fitzgerald,8/31/1983,31.0,6-3,218.0,Pittsburgh,WR,14,13.0,10.0,6.0,Cardinals,2014
-22,15.0,Michael Floyd,11/27/1989,25.0,6-3,220.0,Notre Dame,WR,16,14.0,2.0,6.0,Cardinals,2014
-23,50.0,Larry Foote,6/12/1980,34.0,6-1,239.0,Michigan,LILB,15,15.0,12.0,9.0,Cardinals,2014
-24,19.0,Ted Ginn Jr.,4/12/1985,29.0,5-11,180.0,Ohio St.,WR,16,0.0,7.0,2.0,Cardinals,2014
-25,23.0,Marion Grice,4/10/1991,23.0,6-0,208.0,Arizona St.,RB,10,0.0,0.0,0.0,Cardinals,2014
-26,84.0,Rob Housler,3/17/1988,26.0,6-5,238.0,Florida Atlantic,TE,15,7.0,3.0,1.0,Cardinals,2014
-27,39.0,Robert Hughes,6/21/1989,25.0,5-11,235.0,Notre Dame,RB,16,4.0,2.0,1.0,Cardinals,2014
-28,22.0,Tony Jefferson,1/27/1992,22.0,5-11,211.0,Oklahoma,SS,16,8.0,1.0,3.0,Cardinals,2014
-29,26.0,Rashad Johnson,1/2/1986,28.0,6-0,195.0,Alabama,FS,16,16.0,5.0,7.0,Cardinals,2014
-30,53.0,Thomas Keiser,3/28/1989,25.0,6-4,244.0,Stanford,LB,3,1.0,3.0,1.0,Cardinals,2014
-31,95.0,Tommy Kelly,12/27/1980,34.0,6-6,310.0,"Hinds CC,Mississippi St.",RDE,16,13.0,10.0,7.0,Cardinals,2014
-32,62.0,Ted Larsen,6/13/1987,27.0,6-3,323.0,North Carolina St.,LG,16,16.0,4.0,7.0,Cardinals,2014
-33,82.0,Mike Leach,10/18/1976,38.0,6-2,235.0,"Boston Univ.,William & Mary",TE,16,0.0,14.0,1.0,Cardinals,2014
-34,14.0,Ryan Lindley,6/2/1989,25.0,6-3,229.0,San Diego St.,QB,3,2.0,2.0,1.0,Cardinals,2014
-35,96.0,Kareem Martin,2/19/1992,22.0,6-6,272.0,North Carolina,DE,11,2.0,0.0,2.0,Cardinals,2014
-36,70.0,Bobby Massie,8/1/1989,25.0,6-6,316.0,Mississippi,RT,16,16.0,2.0,7.0,Cardinals,2014
-37,32.0,Tyrann Mathieu,5/13/1992,22.0,5-9,190.0,LSU,FS,13,6.0,1.0,3.0,Cardinals,2014
-38,73.0,Josh Mauro,2/17/1991,23.0,6-6,290.0,Stanford,DE,5,2.0,0.0,1.0,Cardinals,2014
-39,51.0,Kevin Minter,12/3/1990,24.0,6-0,246.0,LSU,RILB,16,5.0,1.0,4.0,Cardinals,2014
-40,87.0,Troy Niklas,9/18/1992,22.0,6-6,270.0,Notre Dame,TE,7,2.0,0.0,0.0,Cardinals,2014
-41,57.0,Alex Okafor,2/8/1991,23.0,6-4,261.0,Texas,LOLB,13,12.0,1.0,7.0,Cardinals,2014
-42,3.0,Carson Palmer,12/27/1979,35.0,6-5,235.0,USC,QB,6,6.0,10.0,4.0,Cardinals,2014
-43,34.0,Jalen Parmele,12/30/1985,29.0,6-0,224.0,Toledo,RB,1,0.0,6.0,0.0,Cardinals,2014
-44,,Solomon Patton,10/17/1990,24.0,5-9,177.0,Florida,WR,6,,0.0,0.0,Cardinals,2014
-45,21.0,Patrick Peterson,7/11/1990,24.0,6-1,203.0,LSU,LCB,16,16.0,3.0,9.0,Cardinals,2014
-46,25.0,Jerraud Powers,7/19/1987,27.0,5-9,190.0,Auburn,DB,16,11.0,5.0,5.0,Cardinals,2014
-47,98.0,Frostee Rucker,9/14/1983,31.0,6-3,261.0,USC,RDE,15,7.0,7.0,5.0,Cardinals,2014
-48,,Jalen Saunders,9/30/1992,22.0,5-9,165.0,Oklahoma,WR,3,,0.0,0.0,Cardinals,2014
-49,63.0,Lyle Sendlein,3/16/1984,30.0,6-3,299.0,Texas,C,16,16.0,7.0,7.0,Cardinals,2014
-50,91.0,Matt Shaughnessy,9/23/1986,28.0,6-5,260.0,Wisconsin,ROLB,8,7.0,5.0,3.0,Cardinals,2014
-51,79.0,Bradley Sowell,6/6/1989,25.0,6-6,277.0,Mississippi,T,16,0.0,2.0,1.0,Cardinals,2014
-52,5.0,Drew Stanton,5/7/1984,30.0,6-3,226.0,Michigan St.,QB,9,8.0,6.0,5.0,Cardinals,2014
-53,72.0,Ed Stinson,2/15/1990,24.0,6-4,287.0,Alabama,DE,10,2.0,0.0,2.0,Cardinals,2014
-54,66.0,Alameda Ta'amu,8/23/1990,24.0,6-3,348.0,Washington,DT,7,0.0,1.0,1.0,Cardinals,2014
-55,30.0,Stepfan Taylor,6/9/1991,23.0,5-9,214.0,Stanford,RB,14,4.0,1.0,2.0,Cardinals,2014
-56,6.0,Logan Thomas,7/1/1991,23.0,6-6,250.0,Virginia Tech,QB,2,0.0,0.0,0.0,Cardinals,2014
-57,68.0,Jared Veldheer,6/14/1987,27.0,6-8,321.0,Hillsdale,LT,16,16.0,4.0,7.0,Cardinals,2014
-58,78.0,Earl Watford,6/24/1990,24.0,6-3,300.0,James Madison,G,10,0.0,0.0,1.0,Cardinals,2014
-59,92.0,Dan Williams,6/1/1987,27.0,6-2,330.0,Tennessee,NT,16,9.0,4.0,5.0,Cardinals,2014
-60,33.0,Kerwynn Williams,6/9/1991,23.0,5-8,198.0,Utah St.,RB,5,0.0,1.0,1.0,Cardinals,2014
-61,9.0,Dave Zastudil,10/26/1978,36.0,6-3,220.0,Ohio,P,2,0.0,12.0,0.0,Cardinals,2014
-62,,Team Total,,26.6,6-2.2,243.7,,,16,,3.6,,Cardinals,2014
+No.,Player,BirthDate,Age,Height,Weight,College/University,Position,Games_Played_in_Season,Games_Started_in_Season,NFL_Years,Player_Value,Team,Year
+55.0,John Abraham,5/6/1978,36.0,6-4,263.0,South Carolina,DE,1,1.0,14.0,0.0,Cardinals,2014
+94.0,Sam Acho,9/6/1988,26.0,6-3,259.0,Texas,LB,16,4.0,3.0,4.0,Cardinals,2014
+97.0,Lorenzo Alexander,5/31/1983,31.0,6-1,245.0,California,LB,16,0.0,7.0,1.0,Cardinals,2014
+59.0,Marcus Benard,7/26/1985,29.0,6-2,256.0,Jackson St.,LB,12,0.0,5.0,1.0,Cardinals,2014
+28.0,Justin Bethel,6/17/1990,24.0,6-0,200.0,Presbyterian,DB,16,0.0,2.0,3.0,Cardinals,2014
+13.0,Jaron Brown,1/8/1990,24.0,6-3,204.0,Clemson,WR,16,2.0,1.0,2.0,Cardinals,2014
+12.0,John Brown,4/3/1990,24.0,5-11,178.0,Pittsburg St.,WR,16,5.0,0.0,5.0,Cardinals,2014
+36.0,Deone Bucannon,8/30/1992,22.0,6-1,211.0,Washington St.,SS,16,9.0,0.0,4.0,Cardinals,2014
+2.0,Drew Butler,5/10/1989,25.0,6-1,199.0,Georgia,P,15,0.0,2.0,0.0,Cardinals,2014
+93.0,Calais Campbell,9/1/1986,28.0,6-8,282.0,Miami (FL),LDE,14,14.0,6.0,15.0,Cardinals,2014
+89.0,John Carlson,5/12/1984,30.0,6-5,256.0,Notre Dame,RB,16,12.0,6.0,2.0,Cardinals,2014
+56.0,Glenn Carson,12/5/1990,24.0,6-3,235.0,Penn St.,LB,5,0.0,0.0,1.0,Cardinals,2014
+7.0,Chandler Catanzaro,2/26/1991,23.0,6-3,200.0,Clemson,K,16,0.0,0.0,4.0,Cardinals,2014
+29.0,Chris Clemons,9/15/1985,29.0,6-1,210.0,Clemson,DB,1,0.0,5.0,0.0,Cardinals,2014
+61.0,Jonathan Cooper,1/19/1990,24.0,6-2,308.0,North Carolina,G,10,2.0,0.0,1.0,Cardinals,2014
+31.0,Antonio Cromartie,4/15/1984,30.0,6-2,210.0,Florida St.,RCB,16,16.0,8.0,9.0,Cardinals,2014
+54.0,Kenny Demens,2/4/1990,24.0,6-1,242.0,Michigan,LB,14,0.0,1.0,1.0,Cardinals,2014
+20.0,Jonathan Dwyer,7/26/1989,25.0,5-11,235.0,Georgia Tech,RB,2,0.0,4.0,0.0,Cardinals,2014
+38.0,Andre Ellington,2/3/1989,25.0,5-9,200.0,Clemson,RB,12,12.0,1.0,5.0,Cardinals,2014
+74.0,Paul Fanaika,4/9/1986,28.0,6-6,333.0,Arizona St.,RG,14,14.0,3.0,6.0,Cardinals,2014
+85.0,Darren Fells,4/22/1986,28.0,6-7,270.0,UC Irvine,TE,10,5.0,0.0,0.0,Cardinals,2014
+11.0,Larry Fitzgerald,8/31/1983,31.0,6-3,218.0,Pittsburgh,WR,14,13.0,10.0,6.0,Cardinals,2014
+15.0,Michael Floyd,11/27/1989,25.0,6-3,220.0,Notre Dame,WR,16,14.0,2.0,6.0,Cardinals,2014
+50.0,Larry Foote,6/12/1980,34.0,6-1,239.0,Michigan,LILB,15,15.0,12.0,9.0,Cardinals,2014
+19.0,Ted Ginn Jr.,4/12/1985,29.0,5-11,180.0,Ohio St.,WR,16,0.0,7.0,2.0,Cardinals,2014
+23.0,Marion Grice,4/10/1991,23.0,6-0,208.0,Arizona St.,RB,10,0.0,0.0,0.0,Cardinals,2014
+84.0,Rob Housler,3/17/1988,26.0,6-5,238.0,Florida Atlantic,TE,15,7.0,3.0,1.0,Cardinals,2014
+39.0,Robert Hughes,6/21/1989,25.0,5-11,235.0,Notre Dame,RB,16,4.0,2.0,1.0,Cardinals,2014
+22.0,Tony Jefferson,1/27/1992,22.0,5-11,211.0,Oklahoma,SS,16,8.0,1.0,3.0,Cardinals,2014
+26.0,Rashad Johnson,1/2/1986,28.0,6-0,195.0,Alabama,FS,16,16.0,5.0,7.0,Cardinals,2014
+53.0,Thomas Keiser,3/28/1989,25.0,6-4,244.0,Stanford,LB,3,1.0,3.0,1.0,Cardinals,2014
+95.0,Tommy Kelly,12/27/1980,34.0,6-6,310.0,"Hinds CC,Mississippi St.",RDE,16,13.0,10.0,7.0,Cardinals,2014
+62.0,Ted Larsen,6/13/1987,27.0,6-3,323.0,North Carolina St.,LG,16,16.0,4.0,7.0,Cardinals,2014
+82.0,Mike Leach,10/18/1976,38.0,6-2,235.0,"Boston Univ.,William & Mary",TE,16,0.0,14.0,1.0,Cardinals,2014
+14.0,Ryan Lindley,6/2/1989,25.0,6-3,229.0,San Diego St.,QB,3,2.0,2.0,1.0,Cardinals,2014
+96.0,Kareem Martin,2/19/1992,22.0,6-6,272.0,North Carolina,DE,11,2.0,0.0,2.0,Cardinals,2014
+70.0,Bobby Massie,8/1/1989,25.0,6-6,316.0,Mississippi,RT,16,16.0,2.0,7.0,Cardinals,2014
+32.0,Tyrann Mathieu,5/13/1992,22.0,5-9,190.0,LSU,FS,13,6.0,1.0,3.0,Cardinals,2014
+73.0,Josh Mauro,2/17/1991,23.0,6-6,290.0,Stanford,DE,5,2.0,0.0,1.0,Cardinals,2014
+51.0,Kevin Minter,12/3/1990,24.0,6-0,246.0,LSU,RILB,16,5.0,1.0,4.0,Cardinals,2014
+87.0,Troy Niklas,9/18/1992,22.0,6-6,270.0,Notre Dame,TE,7,2.0,0.0,0.0,Cardinals,2014
+57.0,Alex Okafor,2/8/1991,23.0,6-4,261.0,Texas,LOLB,13,12.0,1.0,7.0,Cardinals,2014
+3.0,Carson Palmer,12/27/1979,35.0,6-5,235.0,USC,QB,6,6.0,10.0,4.0,Cardinals,2014
+34.0,Jalen Parmele,12/30/1985,29.0,6-0,224.0,Toledo,RB,1,0.0,6.0,0.0,Cardinals,2014
+,Solomon Patton,10/17/1990,24.0,5-9,177.0,Florida,WR,6,,0.0,0.0,Cardinals,2014
+21.0,Patrick Peterson,7/11/1990,24.0,6-1,203.0,LSU,LCB,16,16.0,3.0,9.0,Cardinals,2014
+25.0,Jerraud Powers,7/19/1987,27.0,5-9,190.0,Auburn,DB,16,11.0,5.0,5.0,Cardinals,2014
+98.0,Frostee Rucker,9/14/1983,31.0,6-3,261.0,USC,RDE,15,7.0,7.0,5.0,Cardinals,2014
+,Jalen Saunders,9/30/1992,22.0,5-9,165.0,Oklahoma,WR,3,,0.0,0.0,Cardinals,2014
+63.0,Lyle Sendlein,3/16/1984,30.0,6-3,299.0,Texas,C,16,16.0,7.0,7.0,Cardinals,2014
+91.0,Matt Shaughnessy,9/23/1986,28.0,6-5,260.0,Wisconsin,ROLB,8,7.0,5.0,3.0,Cardinals,2014
+79.0,Bradley Sowell,6/6/1989,25.0,6-6,277.0,Mississippi,T,16,0.0,2.0,1.0,Cardinals,2014
+5.0,Drew Stanton,5/7/1984,30.0,6-3,226.0,Michigan St.,QB,9,8.0,6.0,5.0,Cardinals,2014
+72.0,Ed Stinson,2/15/1990,24.0,6-4,287.0,Alabama,DE,10,2.0,0.0,2.0,Cardinals,2014
+66.0,Alameda Ta'amu,8/23/1990,24.0,6-3,348.0,Washington,DT,7,0.0,1.0,1.0,Cardinals,2014
+30.0,Stepfan Taylor,6/9/1991,23.0,5-9,214.0,Stanford,RB,14,4.0,1.0,2.0,Cardinals,2014
+6.0,Logan Thomas,7/1/1991,23.0,6-6,250.0,Virginia Tech,QB,2,0.0,0.0,0.0,Cardinals,2014
+68.0,Jared Veldheer,6/14/1987,27.0,6-8,321.0,Hillsdale,LT,16,16.0,4.0,7.0,Cardinals,2014
+78.0,Earl Watford,6/24/1990,24.0,6-3,300.0,James Madison,G,10,0.0,0.0,1.0,Cardinals,2014
+92.0,Dan Williams,6/1/1987,27.0,6-2,330.0,Tennessee,NT,16,9.0,4.0,5.0,Cardinals,2014
+33.0,Kerwynn Williams,6/9/1991,23.0,5-8,198.0,Utah St.,RB,5,0.0,1.0,1.0,Cardinals,2014
+9.0,Dave Zastudil,10/26/1978,36.0,6-3,220.0,Ohio,P,2,0.0,12.0,0.0,Cardinals,2014
+,Team Total,,26.6,6-2.2,243.7,,,16,,3.6,,Cardinals,2014

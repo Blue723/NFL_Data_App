@@ -1,59 +1,59 @@
-,No.,Player,BirthDate,Age,Height,Weight,College/University,Position,Games_Played_in_Season,Games_Started_in_Season,NFL_Years,Player_Value,Team,Year
-0,22.0,C.J. Anderson,2/10/1991,23.0,5-8,225.0,"Laney,California",RB,15,7.0,1.0,10.0,Broncos,2014
-1,76.0,Marvin Austin,1/1/1989,25.0,6-2,310.0,North Carolina,DT,15,0.0,2.0,1.0,Broncos,2014
-2,28.0,Montee Ball,12/5/1990,24.0,5-11,214.0,Wisconsin,RB,5,3.0,1.0,2.0,Broncos,2014
-3,57.0,Lamin Barrow,11/29/1990,24.0,6-1,237.0,LSU,LB,16,1.0,0.0,1.0,Broncos,2014
-4,1.0,Connor Barth,4/11/1986,28.0,5-11,193.0,North Carolina,K,5,0.0,6.0,2.0,Broncos,2014
-5,31.0,Omar Bolden,12/20/1988,26.0,5-10,198.0,Arizona St.,DB,15,0.0,2.0,1.0,Broncos,2014
-6,46.0,Aaron Brewer,7/5/1990,24.0,6-5,232.0,San Diego St.,LS,16,0.0,2.0,1.0,Broncos,2014
-7,30.0,David Bruton,7/23/1987,27.0,6-2,210.0,Notre Dame,DB,14,1.0,5.0,1.0,Broncos,2014
-8,19.0,Isaiah Burse,12/8/1991,23.0,5-10,187.0,Fresno St.,WR,12,0.0,0.0,0.0,Broncos,2014
-9,20.0,Josh Bush,3/6/1989,25.0,5-11,208.0,Wake Forest,DB,2,0.0,2.0,0.0,Broncos,2014
-10,12.0,Andre Caldwell,4/15/1985,29.0,6-1,207.0,Florida,WR,16,2.0,6.0,0.0,Broncos,2014
-11,38.0,Quinton Carter,7/20/1988,26.0,6-1,211.0,Oklahoma,DB,11,0.0,3.0,1.0,Broncos,2014
-12,32.0,Tony Carter,5/24/1986,28.0,5-9,177.0,Florida St.,DB,8,0.0,5.0,1.0,Broncos,2014
-13,78.0,Ryan Clady,9/6/1986,28.0,6-6,315.0,Boise St.,LT,16,16.0,6.0,11.0,Broncos,2014
-14,75.0,Chris Clark,10/1/1985,29.0,6-5,305.0,Southern Miss,RT,13,7.0,4.0,4.0,Broncos,2014
-15,4.0,Britton Colquitt,3/20/1985,29.0,6-3,210.0,Tennessee,P,16,0.0,4.0,2.0,Broncos,2014
-16,71.0,Paul Cornick,3/15/1989,25.0,6-6,310.0,North Dakota St.,T/TE,12,6.0,0.0,4.0,Broncos,2014
-17,51.0,Todd Davis,5/17/1992,22.0,6-1,230.0,Sacramento St.,LB,6,2.0,0.0,1.0,Broncos,2014
-18,74.0,Orlando Franklin,12/16/1987,27.0,6-6,315.0,Miami (FL),LG,16,16.0,3.0,9.0,Broncos,2014
-19,63.0,Ben Garland,4/6/1988,26.0,6-5,308.0,Air Force,DT,8,0.0,0.0,1.0,Broncos,2014
-20,85.0,Virgil Green,8/3/1988,26.0,6-5,255.0,Nevada,TE,13,9.0,3.0,1.0,Broncos,2014
-21,25.0,Chris Harris Jr.,6/18/1989,25.0,5-10,199.0,Kansas,RCB,16,16.0,3.0,11.0,Broncos,2014
-22,23.0,Ronnie Hillman,9/14/1991,23.0,5-9,200.0,San Diego St.,RB,8,4.0,2.0,5.0,Broncos,2014
-23,56.0,Nate Irving,7/12/1988,26.0,6-1,242.0,North Carolina St.,MLB,8,8.0,3.0,4.0,Broncos,2014
-24,97.0,Malik Jackson,1/11/1990,24.0,6-5,285.0,Tennessee,DT,16,3.0,2.0,3.0,Broncos,2014
-25,53.0,Steven Johnson,3/28/1988,26.0,6-1,237.0,Kansas,MLB,14,7.0,2.0,4.0,Broncos,2014
-26,86.0,Dominique Jones,8/15/1987,27.0,6-3,255.0,Shepherd,TE,1,0.0,2.0,0.0,Broncos,2014
-27,98.0,Terrance Knighton,7/4/1986,28.0,6-2,295.0,Temple,RDT,16,16.0,5.0,7.0,Broncos,2014
-28,14.0,Cody Latimer,10/10/1992,22.0,6-2,215.0,Indiana,WR,8,0.0,0.0,0.0,Broncos,2014
-29,18.0,Peyton Manning,3/24/1976,38.0,6-5,230.0,Tennessee,QB,16,16.0,16.0,16.0,Broncos,2014
-30,54.0,Brandon Marshall,9/10/1989,25.0,6-1,245.0,Nevada,RLB,14,13.0,2.0,7.0,Broncos,2014
-31,55.0,Lerentee McCray,8/26/1990,24.0,6-3,249.0,Florida,LB,13,0.0,0.0,1.0,Broncos,2014
-32,8.0,Brandon McManus,7/25/1991,23.0,6-3,201.0,Temple,K,15,0.0,0.0,1.0,Broncos,2014
-33,58.0,Von Miller,3/26/1989,25.0,6-3,250.0,Texas A&M,LLB,16,16.0,3.0,12.0,Broncos,2014
-34,64.0,Will Montgomery,2/13/1983,31.0,6-3,304.0,Virginia Tech,C,16,8.0,8.0,5.0,Broncos,2014
-35,26.0,Rahim Moore,2/11/1990,24.0,6-1,195.0,UCLA,FS,16,16.0,3.0,6.0,Broncos,2014
-36,52.0,Corey Nelson,4/22/1992,22.0,6-1,226.0,Oklahoma,LB,16,0.0,0.0,1.0,Broncos,2014
-37,17.0,Brock Osweiler,11/22/1990,24.0,6-7,240.0,Arizona St.,QB,4,0.0,2.0,0.0,Broncos,2014
-38,66.0,Manuel Ramirez,2/19/1983,31.0,6-3,326.0,Texas Tech,RG/C,16,16.0,7.0,9.0,Broncos,2014
-39,29.0,Bradley Roby,5/1/1992,22.0,5-11,194.0,Ohio St.,DB,16,2.0,0.0,2.0,Broncos,2014
-40,10.0,Emmanuel Sanders,3/17/1987,27.0,5-11,180.0,SMU,WR,16,16.0,4.0,14.0,Broncos,2014
-41,93.0,Quanterus Smith,11/26/1989,25.0,6-5,250.0,Western Kentucky,DE,15,0.0,0.0,1.0,Broncos,2014
-42,27.0,Jeremy Stewart,2/19/1989,25.0,6-1,230.0,Stanford,RB,6,0.0,2.0,0.0,Broncos,2014
-43,21.0,Aqib Talib,2/13/1986,28.0,6-1,209.0,Kansas,LCB,15,15.0,6.0,9.0,Broncos,2014
-44,84.0,Jacob Tamme,3/15/1985,29.0,6-4,234.0,Kentucky,TE,15,0.0,6.0,1.0,Broncos,2014
-45,88.0,Demaryius Thomas,12/25/1987,27.0,6-3,225.0,Georgia Tech,WR,16,16.0,4.0,16.0,Broncos,2014
-46,80.0,Julius Thomas,6/27/1988,26.0,6-5,256.0,Portland St.,TE,13,10.0,3.0,5.0,Broncos,2014
-47,40.0,Juwan Thompson,5/13/1992,22.0,6-2,210.0,Duke,RB,15,0.0,0.0,2.0,Broncos,2014
-48,59.0,Danny Trevathan,3/24/1990,24.0,6-0,239.0,Kentucky,LB,3,1.0,2.0,1.0,Broncos,2014
-49,96.0,Mitch Unrein,3/25/1987,27.0,6-4,301.0,Wyoming,DE,8,0.0,3.0,1.0,Broncos,2014
-50,65.0,Louis Vasquez,4/11/1987,27.0,6-4,330.0,Texas Tech,RT/RG,16,16.0,5.0,9.0,Broncos,2014
-51,43.0,T.J. Ward,12/12/1986,28.0,5-10,200.0,Oregon,SS,15,15.0,4.0,7.0,Broncos,2014
-52,94.0,DeMarcus Ware,7/31/1982,32.0,6-4,258.0,Troy,RDE,16,15.0,9.0,10.0,Broncos,2014
-53,36.0,Kayvon Webster,2/1/1991,23.0,5-11,190.0,South Florida,DB,12,0.0,1.0,1.0,Broncos,2014
-54,83.0,Wes Welker,5/1/1981,33.0,5-9,185.0,Texas Tech,WR,14,8.0,10.0,5.0,Broncos,2014
-55,92.0,Sylvester Williams,11/21/1988,26.0,6-2,328.0,North Carolina,LDT,16,13.0,1.0,6.0,Broncos,2014
-56,95.0,Derek Wolfe,2/24/1990,24.0,6-5,285.0,Cincinnati,LDE,16,16.0,2.0,7.0,Broncos,2014
-57,,Team Total,,26.1,6-1.9,241.3,,,16,,3.1,,Broncos,2014
+No.,Player,BirthDate,Age,Height,Weight,College/University,Position,Games_Played_in_Season,Games_Started_in_Season,NFL_Years,Player_Value,Team,Year
+22.0,C.J. Anderson,2/10/1991,23.0,5-8,225.0,"Laney,California",RB,15,7.0,1.0,10.0,Broncos,2014
+76.0,Marvin Austin,1/1/1989,25.0,6-2,310.0,North Carolina,DT,15,0.0,2.0,1.0,Broncos,2014
+28.0,Montee Ball,12/5/1990,24.0,5-11,214.0,Wisconsin,RB,5,3.0,1.0,2.0,Broncos,2014
+57.0,Lamin Barrow,11/29/1990,24.0,6-1,237.0,LSU,LB,16,1.0,0.0,1.0,Broncos,2014
+1.0,Connor Barth,4/11/1986,28.0,5-11,193.0,North Carolina,K,5,0.0,6.0,2.0,Broncos,2014
+31.0,Omar Bolden,12/20/1988,26.0,5-10,198.0,Arizona St.,DB,15,0.0,2.0,1.0,Broncos,2014
+46.0,Aaron Brewer,7/5/1990,24.0,6-5,232.0,San Diego St.,LS,16,0.0,2.0,1.0,Broncos,2014
+30.0,David Bruton,7/23/1987,27.0,6-2,210.0,Notre Dame,DB,14,1.0,5.0,1.0,Broncos,2014
+19.0,Isaiah Burse,12/8/1991,23.0,5-10,187.0,Fresno St.,WR,12,0.0,0.0,0.0,Broncos,2014
+20.0,Josh Bush,3/6/1989,25.0,5-11,208.0,Wake Forest,DB,2,0.0,2.0,0.0,Broncos,2014
+12.0,Andre Caldwell,4/15/1985,29.0,6-1,207.0,Florida,WR,16,2.0,6.0,0.0,Broncos,2014
+38.0,Quinton Carter,7/20/1988,26.0,6-1,211.0,Oklahoma,DB,11,0.0,3.0,1.0,Broncos,2014
+32.0,Tony Carter,5/24/1986,28.0,5-9,177.0,Florida St.,DB,8,0.0,5.0,1.0,Broncos,2014
+78.0,Ryan Clady,9/6/1986,28.0,6-6,315.0,Boise St.,LT,16,16.0,6.0,11.0,Broncos,2014
+75.0,Chris Clark,10/1/1985,29.0,6-5,305.0,Southern Miss,RT,13,7.0,4.0,4.0,Broncos,2014
+4.0,Britton Colquitt,3/20/1985,29.0,6-3,210.0,Tennessee,P,16,0.0,4.0,2.0,Broncos,2014
+71.0,Paul Cornick,3/15/1989,25.0,6-6,310.0,North Dakota St.,T/TE,12,6.0,0.0,4.0,Broncos,2014
+51.0,Todd Davis,5/17/1992,22.0,6-1,230.0,Sacramento St.,LB,6,2.0,0.0,1.0,Broncos,2014
+74.0,Orlando Franklin,12/16/1987,27.0,6-6,315.0,Miami (FL),LG,16,16.0,3.0,9.0,Broncos,2014
+63.0,Ben Garland,4/6/1988,26.0,6-5,308.0,Air Force,DT,8,0.0,0.0,1.0,Broncos,2014
+85.0,Virgil Green,8/3/1988,26.0,6-5,255.0,Nevada,TE,13,9.0,3.0,1.0,Broncos,2014
+25.0,Chris Harris Jr.,6/18/1989,25.0,5-10,199.0,Kansas,RCB,16,16.0,3.0,11.0,Broncos,2014
+23.0,Ronnie Hillman,9/14/1991,23.0,5-9,200.0,San Diego St.,RB,8,4.0,2.0,5.0,Broncos,2014
+56.0,Nate Irving,7/12/1988,26.0,6-1,242.0,North Carolina St.,MLB,8,8.0,3.0,4.0,Broncos,2014
+97.0,Malik Jackson,1/11/1990,24.0,6-5,285.0,Tennessee,DT,16,3.0,2.0,3.0,Broncos,2014
+53.0,Steven Johnson,3/28/1988,26.0,6-1,237.0,Kansas,MLB,14,7.0,2.0,4.0,Broncos,2014
+86.0,Dominique Jones,8/15/1987,27.0,6-3,255.0,Shepherd,TE,1,0.0,2.0,0.0,Broncos,2014
+98.0,Terrance Knighton,7/4/1986,28.0,6-2,295.0,Temple,RDT,16,16.0,5.0,7.0,Broncos,2014
+14.0,Cody Latimer,10/10/1992,22.0,6-2,215.0,Indiana,WR,8,0.0,0.0,0.0,Broncos,2014
+18.0,Peyton Manning,3/24/1976,38.0,6-5,230.0,Tennessee,QB,16,16.0,16.0,16.0,Broncos,2014
+54.0,Brandon Marshall,9/10/1989,25.0,6-1,245.0,Nevada,RLB,14,13.0,2.0,7.0,Broncos,2014
+55.0,Lerentee McCray,8/26/1990,24.0,6-3,249.0,Florida,LB,13,0.0,0.0,1.0,Broncos,2014
+8.0,Brandon McManus,7/25/1991,23.0,6-3,201.0,Temple,K,15,0.0,0.0,1.0,Broncos,2014
+58.0,Von Miller,3/26/1989,25.0,6-3,250.0,Texas A&M,LLB,16,16.0,3.0,12.0,Broncos,2014
+64.0,Will Montgomery,2/13/1983,31.0,6-3,304.0,Virginia Tech,C,16,8.0,8.0,5.0,Broncos,2014
+26.0,Rahim Moore,2/11/1990,24.0,6-1,195.0,UCLA,FS,16,16.0,3.0,6.0,Broncos,2014
+52.0,Corey Nelson,4/22/1992,22.0,6-1,226.0,Oklahoma,LB,16,0.0,0.0,1.0,Broncos,2014
+17.0,Brock Osweiler,11/22/1990,24.0,6-7,240.0,Arizona St.,QB,4,0.0,2.0,0.0,Broncos,2014
+66.0,Manuel Ramirez,2/19/1983,31.0,6-3,326.0,Texas Tech,RG/C,16,16.0,7.0,9.0,Broncos,2014
+29.0,Bradley Roby,5/1/1992,22.0,5-11,194.0,Ohio St.,DB,16,2.0,0.0,2.0,Broncos,2014
+10.0,Emmanuel Sanders,3/17/1987,27.0,5-11,180.0,SMU,WR,16,16.0,4.0,14.0,Broncos,2014
+93.0,Quanterus Smith,11/26/1989,25.0,6-5,250.0,Western Kentucky,DE,15,0.0,0.0,1.0,Broncos,2014
+27.0,Jeremy Stewart,2/19/1989,25.0,6-1,230.0,Stanford,RB,6,0.0,2.0,0.0,Broncos,2014
+21.0,Aqib Talib,2/13/1986,28.0,6-1,209.0,Kansas,LCB,15,15.0,6.0,9.0,Broncos,2014
+84.0,Jacob Tamme,3/15/1985,29.0,6-4,234.0,Kentucky,TE,15,0.0,6.0,1.0,Broncos,2014
+88.0,Demaryius Thomas,12/25/1987,27.0,6-3,225.0,Georgia Tech,WR,16,16.0,4.0,16.0,Broncos,2014
+80.0,Julius Thomas,6/27/1988,26.0,6-5,256.0,Portland St.,TE,13,10.0,3.0,5.0,Broncos,2014
+40.0,Juwan Thompson,5/13/1992,22.0,6-2,210.0,Duke,RB,15,0.0,0.0,2.0,Broncos,2014
+59.0,Danny Trevathan,3/24/1990,24.0,6-0,239.0,Kentucky,LB,3,1.0,2.0,1.0,Broncos,2014
+96.0,Mitch Unrein,3/25/1987,27.0,6-4,301.0,Wyoming,DE,8,0.0,3.0,1.0,Broncos,2014
+65.0,Louis Vasquez,4/11/1987,27.0,6-4,330.0,Texas Tech,RT/RG,16,16.0,5.0,9.0,Broncos,2014
+43.0,T.J. Ward,12/12/1986,28.0,5-10,200.0,Oregon,SS,15,15.0,4.0,7.0,Broncos,2014
+94.0,DeMarcus Ware,7/31/1982,32.0,6-4,258.0,Troy,RDE,16,15.0,9.0,10.0,Broncos,2014
+36.0,Kayvon Webster,2/1/1991,23.0,5-11,190.0,South Florida,DB,12,0.0,1.0,1.0,Broncos,2014
+83.0,Wes Welker,5/1/1981,33.0,5-9,185.0,Texas Tech,WR,14,8.0,10.0,5.0,Broncos,2014
+92.0,Sylvester Williams,11/21/1988,26.0,6-2,328.0,North Carolina,LDT,16,13.0,1.0,6.0,Broncos,2014
+95.0,Derek Wolfe,2/24/1990,24.0,6-5,285.0,Cincinnati,LDE,16,16.0,2.0,7.0,Broncos,2014
+,Team Total,,26.1,6-1.9,241.3,,,16,,3.1,,Broncos,2014

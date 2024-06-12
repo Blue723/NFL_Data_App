@@ -1,63 +1,63 @@
-,No.,Player,BirthDate,Age,Height,Weight,College/University,Position,Games_Played_in_Season,Games_Started_in_Season,NFL_Years,Player_Value,Team,Year
-0,70.0,Jeff Adams,9/6/1989,25.0,6-5,305.0,Columbia,T,2,0.0,0.0,0.0,Texans,2014
-1,91.0,Jason Ankrah,2/28/1991,23.0,6-3,262.0,Nebraska,LB,2,0.0,0.0,0.0,Texans,2014
-2,37.0,Josh Aubrey,4/9/1991,23.0,5-10,200.0,S.F. Austin,DB,2,0.0,1.0,0.0,Texans,2014
-3,28.0,Alfred Blue,4/27/1991,23.0,6-2,225.0,LSU,RB,16,3.0,0.0,4.0,Texans,2014
-4,34.0,A.J. Bouye,8/16/1991,23.0,6-0,191.0,Central Florida,LCB,14,6.0,1.0,4.0,Texans,2014
-5,79.0,Brandon Brooks,8/19/1989,25.0,6-5,335.0,Miami (OH),RG,15,15.0,2.0,7.0,Texans,2014
-6,76.0,Duane Brown,8/30/1985,29.0,6-4,329.0,Virginia Tech,LT,16,16.0,6.0,10.0,Texans,2014
-7,22.0,Ronnie Brown,12/12/1981,33.0,6-0,223.0,Auburn,RB,3,0.0,9.0,0.0,Texans,2014
-8,98.0,Keith Browner,4/7/1988,26.0,6-4,276.0,California,DE,3,0.0,0.0,0.0,Texans,2014
-9,4.0,Randy Bullock,12/16/1989,25.0,5-9,210.0,Texas A&M,K,16,0.0,1.0,3.0,Texans,2014
-10,53.0,Max Bullough,2/11/1992,22.0,6-4,249.0,Michigan St.,LB,1,0.0,0.0,0.0,Texans,2014
-11,74.0,Tyson Clabo,10/17/1981,33.0,6-6,315.0,Wake Forest,T,16,0.0,8.0,1.0,Texans,2014
-12,90.0,Jadeveon Clowney,2/14/1993,21.0,6-5,266.0,South Carolina,LB,4,2.0,0.0,1.0,Texans,2014
-13,93.0,Jared Crick,8/21/1989,25.0,6-4,285.0,Nebraska,RLB,16,15.0,2.0,8.0,Texans,2014
-14,56.0,Brian Cushing,1/24/1987,27.0,6-3,255.0,USC,LILB,14,14.0,5.0,7.0,Texans,2014
-15,81.0,Anthony Denham,7/21/1991,23.0,6-4,235.0,Utah,TE,4,0.0,0.0,0.0,Texans,2014
-16,50.0,Akeem Dent,9/27/1987,27.0,6-1,242.0,Georgia,RILB,15,7.0,3.0,4.0,Texans,2014
-17,91.0,Zach Diles,6/11/1985,29.0,6-0,240.0,Kansas St.,LB,1,0.0,7.0,0.0,Texans,2014
-18,87.0,C.J. Fiedorowicz,10/22/1991,23.0,6-5,265.0,Iowa,TE,15,8.0,0.0,0.0,Texans,2014
-19,14.0,Ryan Fitzpatrick,11/24/1982,32.0,6-2,221.0,Harvard,QB,12,12.0,9.0,8.0,Texans,2014
-20,23.0,Arian Foster,8/24/1986,28.0,6-1,227.0,Tennessee,RB,13,13.0,5.0,10.0,Texans,2014
-21,88.0,Garrett Graham,8/4/1986,28.0,6-3,245.0,Wisconsin,TE,11,9.0,4.0,2.0,Texans,2014
-22,84.0,Ryan Griffin,1/11/1990,24.0,6-6,255.0,Connecticut,TE,16,2.0,1.0,1.0,Texans,2014
-23,41.0,Jonathan Grimes,12/21/1989,25.0,5-10,207.0,William & Mary,RB,16,0.0,2.0,2.0,Texans,2014
-24,29.0,Andre Hal,5/30/1992,22.0,5-10,184.0,Vanderbilt,DB,14,0.0,0.0,1.0,Texans,2014
-25,10.0,DeAndre Hopkins,6/6/1992,22.0,6-1,218.0,Clemson,WR,16,16.0,1.0,10.0,Texans,2014
-26,25.0,Kareem Jackson,4/10/1988,26.0,5-10,183.0,Alabama,LCB,13,13.0,4.0,5.0,Texans,2014
-27,96.0,Tim Jamison,2/26/1986,28.0,6-3,263.0,Michigan,DE,13,1.0,5.0,2.0,Texans,2014
-28,80.0,Andre Johnson,7/11/1981,33.0,6-3,229.0,Miami (FL),WR,15,15.0,11.0,8.0,Texans,2014
-29,13.0,Damaris Johnson,11/22/1989,25.0,5-8,175.0,Tulsa,WR,16,8.0,2.0,3.0,Texans,2014
-30,60.0,Ben Jones,7/2/1989,25.0,6-3,308.0,Georgia,LG,16,16.0,2.0,8.0,Texans,2014
-31,24.0,Johnathan Joseph,4/16/1984,30.0,5-11,186.0,South Carolina,RCB,16,16.0,8.0,7.0,Texans,2014
-32,7.0,Case Keenum,2/17/1988,26.0,6-1,206.0,Houston,QB,2,2.0,1.0,1.0,Texans,2014
-33,9.0,Shane Lechler,8/7/1976,38.0,6-2,230.0,Texas A&M,P,16,0.0,14.0,3.0,Texans,2014
-34,21.0,Kendrick Lewis,6/16/1988,26.0,6-0,205.0,Mississippi,FS,16,16.0,4.0,7.0,Texans,2014
-35,43.0,Elbert Mack,7/14/1986,28.0,5-10,175.0,"Butler (KS),Troy",WR,8,0.0,6.0,0.0,Texans,2014
-36,15.0,Ryan Mallett,6/5/1988,26.0,6-6,240.0,"Michigan,Arkansas",QB,3,2.0,2.0,1.0,Texans,2014
-37,38.0,Danieal Manning,8/9/1982,32.0,5-11,212.0,Abilene Christian,SS,16,5.0,8.0,3.0,Texans,2014
-38,82.0,Keshawn Martin,3/15/1990,24.0,5-10,190.0,Michigan St.,WR,16,0.0,2.0,1.0,Texans,2014
-39,59.0,Whitney Mercilus,7/21/1990,24.0,6-4,258.0,Illinois,ROLB,15,13.0,2.0,7.0,Texans,2014
-40,54.0,Mike Mohamed,3/11/1988,26.0,6-2,238.0,California,LB,14,2.0,3.0,3.0,Texans,2014
-41,26.0,Darryl Morris,9/4/1990,24.0,5-10,188.0,Texas St.,DB,11,1.0,1.0,1.0,Texans,2014
-42,55.0,Chris Myers,9/15/1981,33.0,6-4,286.0,Miami (FL),C,16,16.0,9.0,8.0,Texans,2014
-43,75.0,Derek Newton,11/16/1987,27.0,6-6,315.0,"Hinds CC,Arkansas St.",RT,16,16.0,3.0,8.0,Texans,2014
-44,97.0,Jeoffrey Pagan,6/10/1993,21.0,6-4,310.0,Alabama,DE,16,0.0,0.0,1.0,Texans,2014
-45,94.0,Ryan Pickett,10/8/1979,35.0,6-2,338.0,Ohio St.,MLB,13,13.0,13.0,6.0,Texans,2014
-46,35.0,Eddie Pleasant,12/17/1988,26.0,5-10,210.0,Oregon,DB,14,0.0,2.0,1.0,Texans,2014
-47,11.0,DeVier Posey,3/15/1990,24.0,6-1,214.0,Ohio St.,WR,1,1.0,2.0,0.0,Texans,2014
-48,95.0,Jerrell Powe,3/15/1987,27.0,6-2,330.0,Mississippi,DT,16,3.0,3.0,3.0,Texans,2014
-49,45.0,Jay Prosch,8/21/1992,22.0,6-1,255.0,Auburn,RB,16,5.0,0.0,0.0,Texans,2014
-50,58.0,Brooks Reed,2/28/1987,27.0,6-3,254.0,Arizona,LOLB,16,13.0,3.0,7.0,Texans,2014
-51,20.0,Jumal Rolle,5/28/1990,24.0,6-0,188.0,Catawba,DB,10,0.0,0.0,1.0,Texans,2014
-52,91.0,Ricky Sapp,11/14/1986,28.0,6-4,244.0,Clemson,LB,3,0.0,2.0,0.0,Texans,2014
-53,3.0,Tom Savage,4/26/1990,24.0,6-4,230.0,"Pittsburgh,Rutgers",QB,2,0.0,0.0,0.0,Texans,2014
-54,51.0,John Simon,10/14/1990,24.0,6-2,260.0,Ohio St.,LB,11,0.0,1.0,1.0,Texans,2014
-55,71.0,Xavier Su'a-Filo,1/1/1991,23.0,6-4,312.0,UCLA,G,13,1.0,0.0,1.0,Texans,2014
-56,36.0,D.J. Swearinger,9/1/1991,23.0,5-10,205.0,South Carolina,SS,16,12.0,1.0,5.0,Texans,2014
-57,52.0,Jeff Tarpinian,10/16/1987,27.0,6-3,238.0,Iowa,LB,14,0.0,3.0,1.0,Texans,2014
-58,57.0,Justin Tuggle,1/14/1990,24.0,6-3,244.0,Kansas St.,RILB,16,8.0,1.0,5.0,Texans,2014
-59,99.0,J.J. Watt,3/22/1989,25.0,6-5,288.0,"Central Michigan,Wisconsin",LDE,16,16.0,3.0,23.0,Texans,2014
-60,46.0,Jon Weeks,2/17/1986,28.0,5-10,242.0,Baylor,LS,16,0.0,4.0,1.0,Texans,2014
-61,,Team Total,,26.2,6-1.8,244.5,,,16,,3.1,,Texans,2014
+No.,Player,BirthDate,Age,Height,Weight,College/University,Position,Games_Played_in_Season,Games_Started_in_Season,NFL_Years,Player_Value,Team,Year
+70.0,Jeff Adams,9/6/1989,25.0,6-5,305.0,Columbia,T,2,0.0,0.0,0.0,Texans,2014
+91.0,Jason Ankrah,2/28/1991,23.0,6-3,262.0,Nebraska,LB,2,0.0,0.0,0.0,Texans,2014
+37.0,Josh Aubrey,4/9/1991,23.0,5-10,200.0,S.F. Austin,DB,2,0.0,1.0,0.0,Texans,2014
+28.0,Alfred Blue,4/27/1991,23.0,6-2,225.0,LSU,RB,16,3.0,0.0,4.0,Texans,2014
+34.0,A.J. Bouye,8/16/1991,23.0,6-0,191.0,Central Florida,LCB,14,6.0,1.0,4.0,Texans,2014
+79.0,Brandon Brooks,8/19/1989,25.0,6-5,335.0,Miami (OH),RG,15,15.0,2.0,7.0,Texans,2014
+76.0,Duane Brown,8/30/1985,29.0,6-4,329.0,Virginia Tech,LT,16,16.0,6.0,10.0,Texans,2014
+22.0,Ronnie Brown,12/12/1981,33.0,6-0,223.0,Auburn,RB,3,0.0,9.0,0.0,Texans,2014
+98.0,Keith Browner,4/7/1988,26.0,6-4,276.0,California,DE,3,0.0,0.0,0.0,Texans,2014
+4.0,Randy Bullock,12/16/1989,25.0,5-9,210.0,Texas A&M,K,16,0.0,1.0,3.0,Texans,2014
+53.0,Max Bullough,2/11/1992,22.0,6-4,249.0,Michigan St.,LB,1,0.0,0.0,0.0,Texans,2014
+74.0,Tyson Clabo,10/17/1981,33.0,6-6,315.0,Wake Forest,T,16,0.0,8.0,1.0,Texans,2014
+90.0,Jadeveon Clowney,2/14/1993,21.0,6-5,266.0,South Carolina,LB,4,2.0,0.0,1.0,Texans,2014
+93.0,Jared Crick,8/21/1989,25.0,6-4,285.0,Nebraska,RLB,16,15.0,2.0,8.0,Texans,2014
+56.0,Brian Cushing,1/24/1987,27.0,6-3,255.0,USC,LILB,14,14.0,5.0,7.0,Texans,2014
+81.0,Anthony Denham,7/21/1991,23.0,6-4,235.0,Utah,TE,4,0.0,0.0,0.0,Texans,2014
+50.0,Akeem Dent,9/27/1987,27.0,6-1,242.0,Georgia,RILB,15,7.0,3.0,4.0,Texans,2014
+91.0,Zach Diles,6/11/1985,29.0,6-0,240.0,Kansas St.,LB,1,0.0,7.0,0.0,Texans,2014
+87.0,C.J. Fiedorowicz,10/22/1991,23.0,6-5,265.0,Iowa,TE,15,8.0,0.0,0.0,Texans,2014
+14.0,Ryan Fitzpatrick,11/24/1982,32.0,6-2,221.0,Harvard,QB,12,12.0,9.0,8.0,Texans,2014
+23.0,Arian Foster,8/24/1986,28.0,6-1,227.0,Tennessee,RB,13,13.0,5.0,10.0,Texans,2014
+88.0,Garrett Graham,8/4/1986,28.0,6-3,245.0,Wisconsin,TE,11,9.0,4.0,2.0,Texans,2014
+84.0,Ryan Griffin,1/11/1990,24.0,6-6,255.0,Connecticut,TE,16,2.0,1.0,1.0,Texans,2014
+41.0,Jonathan Grimes,12/21/1989,25.0,5-10,207.0,William & Mary,RB,16,0.0,2.0,2.0,Texans,2014
+29.0,Andre Hal,5/30/1992,22.0,5-10,184.0,Vanderbilt,DB,14,0.0,0.0,1.0,Texans,2014
+10.0,DeAndre Hopkins,6/6/1992,22.0,6-1,218.0,Clemson,WR,16,16.0,1.0,10.0,Texans,2014
+25.0,Kareem Jackson,4/10/1988,26.0,5-10,183.0,Alabama,LCB,13,13.0,4.0,5.0,Texans,2014
+96.0,Tim Jamison,2/26/1986,28.0,6-3,263.0,Michigan,DE,13,1.0,5.0,2.0,Texans,2014
+80.0,Andre Johnson,7/11/1981,33.0,6-3,229.0,Miami (FL),WR,15,15.0,11.0,8.0,Texans,2014
+13.0,Damaris Johnson,11/22/1989,25.0,5-8,175.0,Tulsa,WR,16,8.0,2.0,3.0,Texans,2014
+60.0,Ben Jones,7/2/1989,25.0,6-3,308.0,Georgia,LG,16,16.0,2.0,8.0,Texans,2014
+24.0,Johnathan Joseph,4/16/1984,30.0,5-11,186.0,South Carolina,RCB,16,16.0,8.0,7.0,Texans,2014
+7.0,Case Keenum,2/17/1988,26.0,6-1,206.0,Houston,QB,2,2.0,1.0,1.0,Texans,2014
+9.0,Shane Lechler,8/7/1976,38.0,6-2,230.0,Texas A&M,P,16,0.0,14.0,3.0,Texans,2014
+21.0,Kendrick Lewis,6/16/1988,26.0,6-0,205.0,Mississippi,FS,16,16.0,4.0,7.0,Texans,2014
+43.0,Elbert Mack,7/14/1986,28.0,5-10,175.0,"Butler (KS),Troy",WR,8,0.0,6.0,0.0,Texans,2014
+15.0,Ryan Mallett,6/5/1988,26.0,6-6,240.0,"Michigan,Arkansas",QB,3,2.0,2.0,1.0,Texans,2014
+38.0,Danieal Manning,8/9/1982,32.0,5-11,212.0,Abilene Christian,SS,16,5.0,8.0,3.0,Texans,2014
+82.0,Keshawn Martin,3/15/1990,24.0,5-10,190.0,Michigan St.,WR,16,0.0,2.0,1.0,Texans,2014
+59.0,Whitney Mercilus,7/21/1990,24.0,6-4,258.0,Illinois,ROLB,15,13.0,2.0,7.0,Texans,2014
+54.0,Mike Mohamed,3/11/1988,26.0,6-2,238.0,California,LB,14,2.0,3.0,3.0,Texans,2014
+26.0,Darryl Morris,9/4/1990,24.0,5-10,188.0,Texas St.,DB,11,1.0,1.0,1.0,Texans,2014
+55.0,Chris Myers,9/15/1981,33.0,6-4,286.0,Miami (FL),C,16,16.0,9.0,8.0,Texans,2014
+75.0,Derek Newton,11/16/1987,27.0,6-6,315.0,"Hinds CC,Arkansas St.",RT,16,16.0,3.0,8.0,Texans,2014
+97.0,Jeoffrey Pagan,6/10/1993,21.0,6-4,310.0,Alabama,DE,16,0.0,0.0,1.0,Texans,2014
+94.0,Ryan Pickett,10/8/1979,35.0,6-2,338.0,Ohio St.,MLB,13,13.0,13.0,6.0,Texans,2014
+35.0,Eddie Pleasant,12/17/1988,26.0,5-10,210.0,Oregon,DB,14,0.0,2.0,1.0,Texans,2014
+11.0,DeVier Posey,3/15/1990,24.0,6-1,214.0,Ohio St.,WR,1,1.0,2.0,0.0,Texans,2014
+95.0,Jerrell Powe,3/15/1987,27.0,6-2,330.0,Mississippi,DT,16,3.0,3.0,3.0,Texans,2014
+45.0,Jay Prosch,8/21/1992,22.0,6-1,255.0,Auburn,RB,16,5.0,0.0,0.0,Texans,2014
+58.0,Brooks Reed,2/28/1987,27.0,6-3,254.0,Arizona,LOLB,16,13.0,3.0,7.0,Texans,2014
+20.0,Jumal Rolle,5/28/1990,24.0,6-0,188.0,Catawba,DB,10,0.0,0.0,1.0,Texans,2014
+91.0,Ricky Sapp,11/14/1986,28.0,6-4,244.0,Clemson,LB,3,0.0,2.0,0.0,Texans,2014
+3.0,Tom Savage,4/26/1990,24.0,6-4,230.0,"Pittsburgh,Rutgers",QB,2,0.0,0.0,0.0,Texans,2014
+51.0,John Simon,10/14/1990,24.0,6-2,260.0,Ohio St.,LB,11,0.0,1.0,1.0,Texans,2014
+71.0,Xavier Su'a-Filo,1/1/1991,23.0,6-4,312.0,UCLA,G,13,1.0,0.0,1.0,Texans,2014
+36.0,D.J. Swearinger,9/1/1991,23.0,5-10,205.0,South Carolina,SS,16,12.0,1.0,5.0,Texans,2014
+52.0,Jeff Tarpinian,10/16/1987,27.0,6-3,238.0,Iowa,LB,14,0.0,3.0,1.0,Texans,2014
+57.0,Justin Tuggle,1/14/1990,24.0,6-3,244.0,Kansas St.,RILB,16,8.0,1.0,5.0,Texans,2014
+99.0,J.J. Watt,3/22/1989,25.0,6-5,288.0,"Central Michigan,Wisconsin",LDE,16,16.0,3.0,23.0,Texans,2014
+46.0,Jon Weeks,2/17/1986,28.0,5-10,242.0,Baylor,LS,16,0.0,4.0,1.0,Texans,2014
+,Team Total,,26.2,6-1.8,244.5,,,16,,3.1,,Texans,2014

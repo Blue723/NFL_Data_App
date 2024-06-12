@@ -1,58 +1,58 @@
-,No.,Player,BirthDate,Age,Height,Weight,College/University,Position,Games_Played_in_Season,Games_Started_in_Season,NFL_Years,Player_Value,Team,Year
-0,17.0,Davante Adams,12/24/1992,22.0,6-1,215.0,Fresno St.,WR,16,11.0,0.0,5.0,Packers,2014
-1,69.0,David Bakhtiari,9/30/1991,23.0,6-4,310.0,Colorado,LT,16,16.0,1.0,9.0,Packers,2014
-2,32.0,Chris Banjo,2/26/1990,24.0,5-10,207.0,SMU,DB,3,0.0,1.0,0.0,Packers,2014
-3,58.0,Sam Barrington,10/5/1990,24.0,6-1,246.0,South Florida,RILB,14,7.0,1.0,4.0,Packers,2014
-4,86.0,Brandon Bostick,5/3/1989,25.0,6-3,245.0,Newberry,TE,13,0.0,1.0,0.0,Packers,2014
-5,93.0,Josh Boyd,8/3/1989,25.0,6-3,310.0,Mississippi St.,DE,15,4.0,1.0,3.0,Packers,2014
-6,11.0,Jarrett Boykin,11/4/1989,25.0,6-2,216.0,Virginia Tech,WR,13,3.0,2.0,0.0,Packers,2014
-7,75.0,Bryan Bulaga,3/21/1989,25.0,6-5,314.0,Iowa,RT,15,15.0,4.0,9.0,Packers,2014
-8,42.0,Morgan Burnett,1/13/1989,25.0,6-1,210.0,Georgia Tech,SS,15,15.0,4.0,5.0,Packers,2014
-9,24.0,Jarrett Bush,5/21/1984,30.0,6-0,200.0,Utah St.,DB,15,0.0,8.0,1.0,Packers,2014
-10,21.0,Ha Ha Clinton-Dix,12/21/1992,22.0,6-1,211.0,Alabama,FS,16,10.0,0.0,4.0,Packers,2014
-11,18.0,Randall Cobb,8/22/1990,24.0,5-10,192.0,Kentucky,WR,16,16.0,3.0,16.0,Packers,2014
-12,2.0,Mason Crosby,9/3/1984,30.0,6-1,207.0,Colorado,K,16,0.0,7.0,3.0,Packers,2014
-13,76.0,Mike Daniels,5/5/1989,25.0,6-0,310.0,Iowa,RDE,16,16.0,2.0,7.0,Packers,2014
-14,13.0,Kevin Dorsey,2/23/1990,24.0,,207.0,Maryland,WR,3,0.0,0.0,0.0,Packers,2014
-15,91.0,Jayrone Elliott,11/11/1991,23.0,6-3,240.0,Toledo,LB,13,0.0,0.0,1.0,Packers,2014
-16,10.0,Matt Flynn,6/20/1985,29.0,6-2,228.0,LSU,QB,7,0.0,6.0,0.0,Packers,2014
-17,72.0,Garth Gerhart,10/21/1988,26.0,6-1,305.0,Arizona St.,C,2,0.0,0.0,0.0,Packers,2014
-18,61.0,Brett Goode,11/2/1984,30.0,6-1,255.0,Arkansas,LB,16,0.0,6.0,2.0,Packers,2014
-19,39.0,Demetri Goodson,6/11/1989,25.0,5-11,197.0,Baylor,DB,6,0.0,0.0,0.0,Packers,2014
-20,98.0,Letroy Guion,6/21/1987,27.0,6-4,295.0,Florida St.,NT,16,16.0,6.0,7.0,Packers,2014
-21,26.0,DuJuan Harris,9/3/1988,26.0,5-7,197.0,Troy,RB,15,0.0,3.0,1.0,Packers,2014
-22,50.0,A.J. Hawk,1/6/1984,30.0,6-1,240.0,Ohio St.,LILB,16,13.0,8.0,6.0,Packers,2014
-23,29.0,Casey Hayward,9/9/1989,25.0,5-11,192.0,Vanderbilt,DB,16,1.0,2.0,2.0,Packers,2014
-24,31.0,Davon House,7/10/1989,25.0,6-0,195.0,New Mexico St.,DB,13,4.0,3.0,2.0,Packers,2014
-25,33.0,Micah Hyde,12/31/1990,24.0,6-0,197.0,Iowa,DB,16,12.0,1.0,6.0,Packers,2014
-26,83.0,Jeff Janis,6/9/1991,23.0,6-3,219.0,Saginaw Valley St.,WR,3,0.0,0.0,0.0,Packers,2014
-27,59.0,Brad Jones,4/1/1986,28.0,6-3,230.0,Colorado,LB,13,1.0,5.0,1.0,Packers,2014
-28,95.0,Datone Jones,7/24/1990,24.0,6-4,285.0,UCLA,DE,13,3.0,1.0,3.0,Packers,2014
-29,30.0,John Kuhn,9/9/1982,32.0,6-0,250.0,Shippensburg,FB,16,2.0,8.0,1.0,Packers,2014
-30,27.0,Eddie Lacy,6/2/1990,24.0,5-11,250.0,Alabama,RB,16,16.0,1.0,16.0,Packers,2014
-31,70.0,T.J. Lang,9/20/1987,27.0,6-4,315.0,Eastern Michigan,RG,16,16.0,5.0,9.0,Packers,2014
-32,57.0,Jamari Lattimore,10/6/1988,26.0,6-2,232.0,Middle Tenn. St.,RILB,11,5.0,3.0,3.0,Packers,2014
-33,63.0,Corey Linsley,7/27/1991,23.0,6-3,301.0,Ohio St.,C,16,16.0,0.0,9.0,Packers,2014
-34,8.0,Tim Masthay,3/16/1987,27.0,6-2,198.0,Kentucky,P,16,0.0,4.0,1.0,Packers,2014
-35,52.0,Clay Matthews,5/14/1986,28.0,6-3,255.0,USC,ROLB/RILB,16,16.0,5.0,10.0,Packers,2014
-36,55.0,Andy Mulumba,1/31/1990,24.0,6-3,260.0,Eastern Michigan,LB,2,0.0,1.0,0.0,Packers,2014
-37,96.0,Mike Neal,6/26/1987,27.0,6-3,262.0,Purdue,LB,16,3.0,4.0,3.0,Packers,2014
-38,87.0,Jordy Nelson,5/31/1985,29.0,6-3,217.0,Kansas St.,WR,16,16.0,6.0,19.0,Packers,2014
-39,64.0,Mike Pennel,5/9/1991,23.0,6-4,330.0,"Arizona St.,Colorado State-Pueblo",DT,13,0.0,0.0,1.0,Packers,2014
-40,56.0,Julius Peppers,1/18/1980,34.0,6-7,295.0,North Carolina,LOLB,16,16.0,12.0,9.0,Packers,2014
-41,80.0,Justin Perillo,1/5/1991,23.0,6-4,250.0,Maine,TE,2,0.0,0.0,0.0,Packers,2014
-42,53.0,Nick Perry,4/12/1990,24.0,6-3,265.0,USC,LB,15,4.0,2.0,3.0,Packers,2014
-43,81.0,Andrew Quarless,10/6/1988,26.0,6-4,248.0,Penn St.,TE,16,11.0,4.0,4.0,Packers,2014
-44,28.0,Sean Richardson,1/21/1990,24.0,6-3,213.0,Vanderbilt,DB,16,0.0,2.0,1.0,Packers,2014
-45,97.0,Luther Robinson,2/24/1991,23.0,6-3,301.0,Miami (FL),DE,5,0.0,0.0,0.0,Packers,2014
-46,12.0,Aaron Rodgers,12/2/1983,31.0,6-2,223.0,"Butte JC (CA),California",QB,16,16.0,9.0,22.0,Packers,2014
-47,89.0,Richard Rodgers,1/22/1992,22.0,6-4,257.0,California,TE,16,5.0,0.0,3.0,Packers,2014
-48,78.0,Derek Sherrod,4/23/1989,25.0,6-5,312.0,Mississippi St.,T,8,1.0,3.0,1.0,Packers,2014
-49,37.0,Sam Shields,12/8/1987,27.0,5-11,178.0,Miami (FL),RCB,14,14.0,4.0,7.0,Packers,2014
-50,71.0,Josh Sitton,6/16/1986,28.0,6-3,318.0,Central Florida,LG,16,16.0,6.0,15.0,Packers,2014
-51,44.0,James Starks,2/25/1986,28.0,6-1,203.0,Buffalo,RB,16,0.0,4.0,5.0,Packers,2014
-52,65.0,Lane Taylor,11/22/1989,25.0,6-3,324.0,Oklahoma St.,G,16,0.0,1.0,2.0,Packers,2014
-53,82.0,Ryan Taylor,11/16/1987,27.0,6-3,250.0,North Carolina,TE,5,0.0,3.0,0.0,Packers,2014
-54,73.0,J.C. Tretter,2/12/1991,23.0,6-4,307.0,Cornell,T,8,0.0,0.0,1.0,Packers,2014
-55,38.0,Tramon Williams,3/16/1983,31.0,5-11,191.0,Louisiana Tech,LCB,16,16.0,7.0,5.0,Packers,2014
-56,,Team Total,,25.9,6-1.9,247.9,,,16,,3.0,,Packers,2014
+No.,Player,BirthDate,Age,Height,Weight,College/University,Position,Games_Played_in_Season,Games_Started_in_Season,NFL_Years,Player_Value,Team,Year
+17.0,Davante Adams,12/24/1992,22.0,6-1,215.0,Fresno St.,WR,16,11.0,0.0,5.0,Packers,2014
+69.0,David Bakhtiari,9/30/1991,23.0,6-4,310.0,Colorado,LT,16,16.0,1.0,9.0,Packers,2014
+32.0,Chris Banjo,2/26/1990,24.0,5-10,207.0,SMU,DB,3,0.0,1.0,0.0,Packers,2014
+58.0,Sam Barrington,10/5/1990,24.0,6-1,246.0,South Florida,RILB,14,7.0,1.0,4.0,Packers,2014
+86.0,Brandon Bostick,5/3/1989,25.0,6-3,245.0,Newberry,TE,13,0.0,1.0,0.0,Packers,2014
+93.0,Josh Boyd,8/3/1989,25.0,6-3,310.0,Mississippi St.,DE,15,4.0,1.0,3.0,Packers,2014
+11.0,Jarrett Boykin,11/4/1989,25.0,6-2,216.0,Virginia Tech,WR,13,3.0,2.0,0.0,Packers,2014
+75.0,Bryan Bulaga,3/21/1989,25.0,6-5,314.0,Iowa,RT,15,15.0,4.0,9.0,Packers,2014
+42.0,Morgan Burnett,1/13/1989,25.0,6-1,210.0,Georgia Tech,SS,15,15.0,4.0,5.0,Packers,2014
+24.0,Jarrett Bush,5/21/1984,30.0,6-0,200.0,Utah St.,DB,15,0.0,8.0,1.0,Packers,2014
+21.0,Ha Ha Clinton-Dix,12/21/1992,22.0,6-1,211.0,Alabama,FS,16,10.0,0.0,4.0,Packers,2014
+18.0,Randall Cobb,8/22/1990,24.0,5-10,192.0,Kentucky,WR,16,16.0,3.0,16.0,Packers,2014
+2.0,Mason Crosby,9/3/1984,30.0,6-1,207.0,Colorado,K,16,0.0,7.0,3.0,Packers,2014
+76.0,Mike Daniels,5/5/1989,25.0,6-0,310.0,Iowa,RDE,16,16.0,2.0,7.0,Packers,2014
+13.0,Kevin Dorsey,2/23/1990,24.0,,207.0,Maryland,WR,3,0.0,0.0,0.0,Packers,2014
+91.0,Jayrone Elliott,11/11/1991,23.0,6-3,240.0,Toledo,LB,13,0.0,0.0,1.0,Packers,2014
+10.0,Matt Flynn,6/20/1985,29.0,6-2,228.0,LSU,QB,7,0.0,6.0,0.0,Packers,2014
+72.0,Garth Gerhart,10/21/1988,26.0,6-1,305.0,Arizona St.,C,2,0.0,0.0,0.0,Packers,2014
+61.0,Brett Goode,11/2/1984,30.0,6-1,255.0,Arkansas,LB,16,0.0,6.0,2.0,Packers,2014
+39.0,Demetri Goodson,6/11/1989,25.0,5-11,197.0,Baylor,DB,6,0.0,0.0,0.0,Packers,2014
+98.0,Letroy Guion,6/21/1987,27.0,6-4,295.0,Florida St.,NT,16,16.0,6.0,7.0,Packers,2014
+26.0,DuJuan Harris,9/3/1988,26.0,5-7,197.0,Troy,RB,15,0.0,3.0,1.0,Packers,2014
+50.0,A.J. Hawk,1/6/1984,30.0,6-1,240.0,Ohio St.,LILB,16,13.0,8.0,6.0,Packers,2014
+29.0,Casey Hayward,9/9/1989,25.0,5-11,192.0,Vanderbilt,DB,16,1.0,2.0,2.0,Packers,2014
+31.0,Davon House,7/10/1989,25.0,6-0,195.0,New Mexico St.,DB,13,4.0,3.0,2.0,Packers,2014
+33.0,Micah Hyde,12/31/1990,24.0,6-0,197.0,Iowa,DB,16,12.0,1.0,6.0,Packers,2014
+83.0,Jeff Janis,6/9/1991,23.0,6-3,219.0,Saginaw Valley St.,WR,3,0.0,0.0,0.0,Packers,2014
+59.0,Brad Jones,4/1/1986,28.0,6-3,230.0,Colorado,LB,13,1.0,5.0,1.0,Packers,2014
+95.0,Datone Jones,7/24/1990,24.0,6-4,285.0,UCLA,DE,13,3.0,1.0,3.0,Packers,2014
+30.0,John Kuhn,9/9/1982,32.0,6-0,250.0,Shippensburg,FB,16,2.0,8.0,1.0,Packers,2014
+27.0,Eddie Lacy,6/2/1990,24.0,5-11,250.0,Alabama,RB,16,16.0,1.0,16.0,Packers,2014
+70.0,T.J. Lang,9/20/1987,27.0,6-4,315.0,Eastern Michigan,RG,16,16.0,5.0,9.0,Packers,2014
+57.0,Jamari Lattimore,10/6/1988,26.0,6-2,232.0,Middle Tenn. St.,RILB,11,5.0,3.0,3.0,Packers,2014
+63.0,Corey Linsley,7/27/1991,23.0,6-3,301.0,Ohio St.,C,16,16.0,0.0,9.0,Packers,2014
+8.0,Tim Masthay,3/16/1987,27.0,6-2,198.0,Kentucky,P,16,0.0,4.0,1.0,Packers,2014
+52.0,Clay Matthews,5/14/1986,28.0,6-3,255.0,USC,ROLB/RILB,16,16.0,5.0,10.0,Packers,2014
+55.0,Andy Mulumba,1/31/1990,24.0,6-3,260.0,Eastern Michigan,LB,2,0.0,1.0,0.0,Packers,2014
+96.0,Mike Neal,6/26/1987,27.0,6-3,262.0,Purdue,LB,16,3.0,4.0,3.0,Packers,2014
+87.0,Jordy Nelson,5/31/1985,29.0,6-3,217.0,Kansas St.,WR,16,16.0,6.0,19.0,Packers,2014
+64.0,Mike Pennel,5/9/1991,23.0,6-4,330.0,"Arizona St.,Colorado State-Pueblo",DT,13,0.0,0.0,1.0,Packers,2014
+56.0,Julius Peppers,1/18/1980,34.0,6-7,295.0,North Carolina,LOLB,16,16.0,12.0,9.0,Packers,2014
+80.0,Justin Perillo,1/5/1991,23.0,6-4,250.0,Maine,TE,2,0.0,0.0,0.0,Packers,2014
+53.0,Nick Perry,4/12/1990,24.0,6-3,265.0,USC,LB,15,4.0,2.0,3.0,Packers,2014
+81.0,Andrew Quarless,10/6/1988,26.0,6-4,248.0,Penn St.,TE,16,11.0,4.0,4.0,Packers,2014
+28.0,Sean Richardson,1/21/1990,24.0,6-3,213.0,Vanderbilt,DB,16,0.0,2.0,1.0,Packers,2014
+97.0,Luther Robinson,2/24/1991,23.0,6-3,301.0,Miami (FL),DE,5,0.0,0.0,0.0,Packers,2014
+12.0,Aaron Rodgers,12/2/1983,31.0,6-2,223.0,"Butte JC (CA),California",QB,16,16.0,9.0,22.0,Packers,2014
+89.0,Richard Rodgers,1/22/1992,22.0,6-4,257.0,California,TE,16,5.0,0.0,3.0,Packers,2014
+78.0,Derek Sherrod,4/23/1989,25.0,6-5,312.0,Mississippi St.,T,8,1.0,3.0,1.0,Packers,2014
+37.0,Sam Shields,12/8/1987,27.0,5-11,178.0,Miami (FL),RCB,14,14.0,4.0,7.0,Packers,2014
+71.0,Josh Sitton,6/16/1986,28.0,6-3,318.0,Central Florida,LG,16,16.0,6.0,15.0,Packers,2014
+44.0,James Starks,2/25/1986,28.0,6-1,203.0,Buffalo,RB,16,0.0,4.0,5.0,Packers,2014
+65.0,Lane Taylor,11/22/1989,25.0,6-3,324.0,Oklahoma St.,G,16,0.0,1.0,2.0,Packers,2014
+82.0,Ryan Taylor,11/16/1987,27.0,6-3,250.0,North Carolina,TE,5,0.0,3.0,0.0,Packers,2014
+73.0,J.C. Tretter,2/12/1991,23.0,6-4,307.0,Cornell,T,8,0.0,0.0,1.0,Packers,2014
+38.0,Tramon Williams,3/16/1983,31.0,5-11,191.0,Louisiana Tech,LCB,16,16.0,7.0,5.0,Packers,2014
+,Team Total,,25.9,6-1.9,247.9,,,16,,3.0,,Packers,2014

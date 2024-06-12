@@ -1,72 +1,72 @@
-,No.,Player,BirthDate,Age,Height,Weight,College/University,Position,Games_Played_in_Season,Games_Started_in_Season,NFL_Years,Player_Value,Team,Year
-0,57.0,James Anderson,9/26/1983,31.0,6-2,235.0,Virginia Tech,LB,7,0.0,8.0,0.0,Titans,2014
-1,26.0,Antonio Andrews,8/17/1992,22.0,5-10,225.0,Western Kentucky,RB,4,0.0,0.0,0.0,Titans,2014
-2,56.0,Akeem Ayers,7/10/1989,25.0,6-3,255.0,UCLA,LB,2,0.0,3.0,0.0,Titans,2014
-3,44.0,Jackie Battle,10/1/1983,31.0,6-2,238.0,Houston,RB,16,1.0,7.0,0.0,Titans,2014
-4,89.0,Brett Brackett,12/13/1987,27.0,6-5,248.0,Penn St.,TE,7,4.0,0.0,0.0,Titans,2014
-5,48.0,Beau Brinkley,1/25/1990,24.0,6-4,260.0,Missouri,TE,16,0.0,2.0,1.0,Titans,2014
-6,55.0,Zach Brown,10/23/1989,25.0,6-1,250.0,North Carolina,LB,1,1.0,2.0,0.0,Titans,2014
-7,58.0,Kaelin Burnett,9/6/1989,25.0,6-4,240.0,Nevada,DE,5,0.0,2.0,0.0,Titans,2014
-8,99.0,Jurrell Casey,12/5/1989,25.0,6-1,305.0,USC,RDE,16,16.0,3.0,7.0,Titans,2014
-9,86.0,Chase Coffman,11/10/1986,28.0,6-5,250.0,Missouri,TE,13,3.0,4.0,0.0,Titans,2014
-10,17.0,Kris Durham,3/17/1988,26.0,6-5,215.0,Georgia,WR,4,0.0,3.0,0.0,Titans,2014
-11,38.0,Brandon Ghee,6/6/1987,27.0,6-0,189.0,Wake Forest,DB,6,1.0,4.0,1.0,Titans,2014
-12,50.0,Zaviar Gooden,8/31/1990,24.0,6-2,234.0,Missouri,LB,15,2.0,1.0,2.0,Titans,2014
-13,89.0,Richard Gordon,6/7/1987,27.0,6-3,262.0,Miami (FL),TE,3,2.0,3.0,0.0,Titans,2014
-14,23.0,Shonn Greene,8/21/1985,29.0,5-10,235.0,Iowa,RB,13,5.0,5.0,2.0,Titans,2014
-15,33.0,Michael Griffin,1/4/1985,29.0,6-0,202.0,Texas,FS,16,16.0,7.0,6.0,Titans,2014
-16,53.0,Quentin Groves,7/5/1984,30.0,6-3,250.0,Auburn,LB,16,3.0,6.0,2.0,Titans,2014
-17,80.0,Derek Hagan,9/21/1984,30.0,6-2,210.0,Arizona St.,WR,16,3.0,8.0,2.0,Titans,2014
-18,32.0,Brandon Harris,1/24/1990,24.0,5-11,195.0,Miami (FL),DB,11,0.0,3.0,1.0,Titans,2014
-19,94.0,Sammie Lee Hill,11/8/1986,28.0,6-4,331.0,Stillman,NT,15,15.0,5.0,6.0,Titans,2014
-20,28.0,Marqueston Huff,4/6/1992,22.0,5-11,196.0,Wyoming,DB,14,1.0,0.0,2.0,Titans,2014
-21,15.0,Justin Hunter,5/20/1991,23.0,6-4,203.0,Tennessee,WR,12,8.0,1.0,3.0,Titans,2014
-22,90.0,DaQuan Jones,12/17/1991,23.0,6-4,320.0,Penn St.,DE,7,1.0,0.0,1.0,Titans,2014
-23,75.0,Terren Jones,11/19/1991,23.0,6-2,220.0,Alabama St.,T,1,0.0,0.0,0.0,Titans,2014
-24,6.0,Brett Kern,2/17/1986,28.0,6-2,214.0,Toledo,P,16,0.0,6.0,3.0,Titans,2014
-25,97.0,Karl Klug,3/31/1988,26.0,6-3,278.0,Iowa,DT,16,0.0,3.0,2.0,Titans,2014
-26,67.0,Andy Levitre,5/15/1986,28.0,6-2,303.0,Oregon St.,LG,16,16.0,5.0,6.0,Titans,2014
-27,77.0,Taylor Lewan,7/22/1991,23.0,6-7,309.0,Michigan,LT,11,6.0,0.0,3.0,Titans,2014
-28,10.0,Jake Locker,6/15/1988,26.0,6-2,228.0,Washington,QB,7,5.0,3.0,3.0,Titans,2014
-29,93.0,Mike Martin,9/1/1990,24.0,6-1,307.0,Michigan,DT,12,3.0,2.0,2.0,Titans,2014
-30,22.0,Dexter McCluster,8/25/1989,25.0,5-9,165.0,Mississippi,WR,14,2.0,4.0,2.0,Titans,2014
-31,30.0,Jason McCourty,8/13/1987,27.0,5-11,195.0,Rutgers,RCB,16,16.0,5.0,6.0,Titans,2014
-32,79.0,Jamon Meredith,5/11/1986,28.0,6-4,289.0,South Carolina,T,3,3.0,5.0,1.0,Titans,2014
-33,7.0,Zach Mettenberger,7/16/1991,23.0,6-5,224.0,"Butler (KS),LSU",QB,7,6.0,0.0,3.0,Titans,2014
-34,56.0,Dontay Moch,7/19/1988,26.0,6-2,238.0,Nevada,LB,3,0.0,2.0,0.0,Titans,2014
-35,91.0,Derrick Morgan,1/6/1989,25.0,6-4,261.0,Georgia Tech,LOLB,16,16.0,4.0,6.0,Titans,2014
-36,89.0,Matthew Mulligan,1/18/1985,29.0,6-4,258.0,Maine,TE,2,1.0,5.0,0.0,Titans,2014
-37,72.0,Michael Oher,5/28/1986,28.0,6-5,309.0,Mississippi,RT,11,11.0,5.0,4.0,Titans,2014
-38,69.0,Eric Olsen,6/16/1988,26.0,6-3,301.0,Notre Dame,G,5,0.0,4.0,0.0,Titans,2014
-39,5.0,Jordan Palmer,5/30/1984,30.0,6-5,232.0,Texas-El Paso,QB,1,0.0,6.0,0.0,Titans,2014
-40,58.0,Shaun Phillips,5/13/1981,33.0,6-3,255.0,Purdue,LB,11,1.0,10.0,1.0,Titans,2014
-41,92.0,Ropati Pitoitua,4/6/1985,29.0,6-8,290.0,Washington St.,LDE,12,11.0,5.0,5.0,Titans,2014
-42,31.0,Bernard Pollard,12/23/1984,30.0,6-1,225.0,Purdue,SS,5,5.0,8.0,2.0,Titans,2014
-43,83.0,Rico Richardson,7/1/1991,23.0,6-1,188.0,Jackson St.,WR,1,0.0,0.0,0.0,Titans,2014
-44,71.0,Michael Roos,10/5/1982,32.0,6-7,313.0,Eastern Washington,LT,5,5.0,9.0,2.0,Titans,2014
-45,20.0,Bishop Sankey,9/15/1992,22.0,5-10,209.0,Washington,RB,16,9.0,0.0,4.0,Titans,2014
-46,62.0,Brian Schwenke,3/22/1991,23.0,6-3,310.0,California,C,11,11.0,1.0,4.0,Titans,2014
-47,24.0,Coty Sensabaugh,11/15/1988,26.0,5-11,187.0,Clemson,LCB,13,6.0,2.0,3.0,Titans,2014
-48,60.0,Chris Spencer,3/28/1982,32.0,6-3,308.0,Mississippi,C,16,5.0,9.0,3.0,Titans,2014
-49,39.0,Daimion Stafford,2/18/1991,23.0,6-0,221.0,Nebraska,DB,15,0.0,1.0,1.0,Titans,2014
-50,57.0,Justin Staples,12/10/1989,25.0,6-4,245.0,Illinois,DE,6,0.0,0.0,0.0,Titans,2014
-51,88.0,Craig Stevens,9/1/1984,30.0,6-3,255.0,California,TE,5,4.0,6.0,0.0,Titans,2014
-52,68.0,Byron Stingily,9/9/1988,26.0,6-5,313.0,Louisville,RT,10,5.0,2.0,2.0,Titans,2014
-53,8.0,Ryan Succop,9/19/1986,28.0,6-2,218.0,South Carolina,K,16,0.0,5.0,3.0,Titans,2014
-54,76.0,Will Svitek,1/8/1982,32.0,6-6,305.0,Stanford,T,5,3.0,9.0,1.0,Titans,2014
-55,35.0,Jemea Thomas,4/7/1990,24.0,5-9,192.0,Georgia Tech,DB,1,0.0,0.0,0.0,Titans,2014
-56,84.0,Taylor Thompson,10/19/1989,25.0,6-6,259.0,SMU,TE,3,1.0,2.0,0.0,Titans,2014
-57,82.0,Delanie Walker,8/12/1984,30.0,6-2,248.0,Central Missouri St.,TE,15,14.0,8.0,6.0,Titans,2014
-58,70.0,Chance Warmack,9/14/1991,23.0,6-2,323.0,Alabama,RG,16,16.0,1.0,6.0,Titans,2014
-59,29.0,Leon Washington,8/29/1982,32.0,5-8,192.0,Florida St.,RB,16,0.0,8.0,1.0,Titans,2014
-60,85.0,Nate Washington,8/28/1983,31.0,6-1,183.0,Tiffin,WR,16,11.0,9.0,4.0,Titans,2014
-61,12.0,Charlie Whitehurst,8/6/1982,32.0,6-4,226.0,Clemson,QB,7,5.0,8.0,4.0,Titans,2014
-62,54.0,Avery Williamson,3/9/1992,22.0,6-1,246.0,Kentucky,RILB,16,12.0,0.0,6.0,Titans,2014
-63,21.0,George Wilson,3/14/1981,33.0,6-0,210.0,Arkansas,SS,16,10.0,9.0,4.0,Titans,2014
-64,95.0,Kamerion Wimbley,10/13/1983,31.0,6-4,258.0,Florida St.,ROLB,13,12.0,8.0,4.0,Titans,2014
-65,96.0,Al Woods,3/25/1987,27.0,6-4,309.0,LSU,NT,16,1.0,4.0,2.0,Titans,2014
-66,59.0,Wesley Woodyard,7/21/1986,28.0,6-0,233.0,Kentucky,LOLB,16,16.0,6.0,7.0,Titans,2014
-67,36.0,Khalid Wooten,2/19/1990,24.0,5-11,212.0,Nevada,DB,3,0.0,0.0,0.0,Titans,2014
-68,25.0,Blidi Wreh-Wilson,12/5/1989,25.0,6-1,190.0,Connecticut,LCB,11,11.0,1.0,4.0,Titans,2014
-69,13.0,Kendall Wright,11/12/1989,25.0,5-10,185.0,Baylor,WR,14,11.0,2.0,5.0,Titans,2014
-70,,Team Total,,26.8,6-2.2,245.5,,,16,,3.8,,Titans,2014
+No.,Player,BirthDate,Age,Height,Weight,College/University,Position,Games_Played_in_Season,Games_Started_in_Season,NFL_Years,Player_Value,Team,Year
+57.0,James Anderson,9/26/1983,31.0,6-2,235.0,Virginia Tech,LB,7,0.0,8.0,0.0,Titans,2014
+26.0,Antonio Andrews,8/17/1992,22.0,5-10,225.0,Western Kentucky,RB,4,0.0,0.0,0.0,Titans,2014
+56.0,Akeem Ayers,7/10/1989,25.0,6-3,255.0,UCLA,LB,2,0.0,3.0,0.0,Titans,2014
+44.0,Jackie Battle,10/1/1983,31.0,6-2,238.0,Houston,RB,16,1.0,7.0,0.0,Titans,2014
+89.0,Brett Brackett,12/13/1987,27.0,6-5,248.0,Penn St.,TE,7,4.0,0.0,0.0,Titans,2014
+48.0,Beau Brinkley,1/25/1990,24.0,6-4,260.0,Missouri,TE,16,0.0,2.0,1.0,Titans,2014
+55.0,Zach Brown,10/23/1989,25.0,6-1,250.0,North Carolina,LB,1,1.0,2.0,0.0,Titans,2014
+58.0,Kaelin Burnett,9/6/1989,25.0,6-4,240.0,Nevada,DE,5,0.0,2.0,0.0,Titans,2014
+99.0,Jurrell Casey,12/5/1989,25.0,6-1,305.0,USC,RDE,16,16.0,3.0,7.0,Titans,2014
+86.0,Chase Coffman,11/10/1986,28.0,6-5,250.0,Missouri,TE,13,3.0,4.0,0.0,Titans,2014
+17.0,Kris Durham,3/17/1988,26.0,6-5,215.0,Georgia,WR,4,0.0,3.0,0.0,Titans,2014
+38.0,Brandon Ghee,6/6/1987,27.0,6-0,189.0,Wake Forest,DB,6,1.0,4.0,1.0,Titans,2014
+50.0,Zaviar Gooden,8/31/1990,24.0,6-2,234.0,Missouri,LB,15,2.0,1.0,2.0,Titans,2014
+89.0,Richard Gordon,6/7/1987,27.0,6-3,262.0,Miami (FL),TE,3,2.0,3.0,0.0,Titans,2014
+23.0,Shonn Greene,8/21/1985,29.0,5-10,235.0,Iowa,RB,13,5.0,5.0,2.0,Titans,2014
+33.0,Michael Griffin,1/4/1985,29.0,6-0,202.0,Texas,FS,16,16.0,7.0,6.0,Titans,2014
+53.0,Quentin Groves,7/5/1984,30.0,6-3,250.0,Auburn,LB,16,3.0,6.0,2.0,Titans,2014
+80.0,Derek Hagan,9/21/1984,30.0,6-2,210.0,Arizona St.,WR,16,3.0,8.0,2.0,Titans,2014
+32.0,Brandon Harris,1/24/1990,24.0,5-11,195.0,Miami (FL),DB,11,0.0,3.0,1.0,Titans,2014
+94.0,Sammie Lee Hill,11/8/1986,28.0,6-4,331.0,Stillman,NT,15,15.0,5.0,6.0,Titans,2014
+28.0,Marqueston Huff,4/6/1992,22.0,5-11,196.0,Wyoming,DB,14,1.0,0.0,2.0,Titans,2014
+15.0,Justin Hunter,5/20/1991,23.0,6-4,203.0,Tennessee,WR,12,8.0,1.0,3.0,Titans,2014
+90.0,DaQuan Jones,12/17/1991,23.0,6-4,320.0,Penn St.,DE,7,1.0,0.0,1.0,Titans,2014
+75.0,Terren Jones,11/19/1991,23.0,6-2,220.0,Alabama St.,T,1,0.0,0.0,0.0,Titans,2014
+6.0,Brett Kern,2/17/1986,28.0,6-2,214.0,Toledo,P,16,0.0,6.0,3.0,Titans,2014
+97.0,Karl Klug,3/31/1988,26.0,6-3,278.0,Iowa,DT,16,0.0,3.0,2.0,Titans,2014
+67.0,Andy Levitre,5/15/1986,28.0,6-2,303.0,Oregon St.,LG,16,16.0,5.0,6.0,Titans,2014
+77.0,Taylor Lewan,7/22/1991,23.0,6-7,309.0,Michigan,LT,11,6.0,0.0,3.0,Titans,2014
+10.0,Jake Locker,6/15/1988,26.0,6-2,228.0,Washington,QB,7,5.0,3.0,3.0,Titans,2014
+93.0,Mike Martin,9/1/1990,24.0,6-1,307.0,Michigan,DT,12,3.0,2.0,2.0,Titans,2014
+22.0,Dexter McCluster,8/25/1989,25.0,5-9,165.0,Mississippi,WR,14,2.0,4.0,2.0,Titans,2014
+30.0,Jason McCourty,8/13/1987,27.0,5-11,195.0,Rutgers,RCB,16,16.0,5.0,6.0,Titans,2014
+79.0,Jamon Meredith,5/11/1986,28.0,6-4,289.0,South Carolina,T,3,3.0,5.0,1.0,Titans,2014
+7.0,Zach Mettenberger,7/16/1991,23.0,6-5,224.0,"Butler (KS),LSU",QB,7,6.0,0.0,3.0,Titans,2014
+56.0,Dontay Moch,7/19/1988,26.0,6-2,238.0,Nevada,LB,3,0.0,2.0,0.0,Titans,2014
+91.0,Derrick Morgan,1/6/1989,25.0,6-4,261.0,Georgia Tech,LOLB,16,16.0,4.0,6.0,Titans,2014
+89.0,Matthew Mulligan,1/18/1985,29.0,6-4,258.0,Maine,TE,2,1.0,5.0,0.0,Titans,2014
+72.0,Michael Oher,5/28/1986,28.0,6-5,309.0,Mississippi,RT,11,11.0,5.0,4.0,Titans,2014
+69.0,Eric Olsen,6/16/1988,26.0,6-3,301.0,Notre Dame,G,5,0.0,4.0,0.0,Titans,2014
+5.0,Jordan Palmer,5/30/1984,30.0,6-5,232.0,Texas-El Paso,QB,1,0.0,6.0,0.0,Titans,2014
+58.0,Shaun Phillips,5/13/1981,33.0,6-3,255.0,Purdue,LB,11,1.0,10.0,1.0,Titans,2014
+92.0,Ropati Pitoitua,4/6/1985,29.0,6-8,290.0,Washington St.,LDE,12,11.0,5.0,5.0,Titans,2014
+31.0,Bernard Pollard,12/23/1984,30.0,6-1,225.0,Purdue,SS,5,5.0,8.0,2.0,Titans,2014
+83.0,Rico Richardson,7/1/1991,23.0,6-1,188.0,Jackson St.,WR,1,0.0,0.0,0.0,Titans,2014
+71.0,Michael Roos,10/5/1982,32.0,6-7,313.0,Eastern Washington,LT,5,5.0,9.0,2.0,Titans,2014
+20.0,Bishop Sankey,9/15/1992,22.0,5-10,209.0,Washington,RB,16,9.0,0.0,4.0,Titans,2014
+62.0,Brian Schwenke,3/22/1991,23.0,6-3,310.0,California,C,11,11.0,1.0,4.0,Titans,2014
+24.0,Coty Sensabaugh,11/15/1988,26.0,5-11,187.0,Clemson,LCB,13,6.0,2.0,3.0,Titans,2014
+60.0,Chris Spencer,3/28/1982,32.0,6-3,308.0,Mississippi,C,16,5.0,9.0,3.0,Titans,2014
+39.0,Daimion Stafford,2/18/1991,23.0,6-0,221.0,Nebraska,DB,15,0.0,1.0,1.0,Titans,2014
+57.0,Justin Staples,12/10/1989,25.0,6-4,245.0,Illinois,DE,6,0.0,0.0,0.0,Titans,2014
+88.0,Craig Stevens,9/1/1984,30.0,6-3,255.0,California,TE,5,4.0,6.0,0.0,Titans,2014
+68.0,Byron Stingily,9/9/1988,26.0,6-5,313.0,Louisville,RT,10,5.0,2.0,2.0,Titans,2014
+8.0,Ryan Succop,9/19/1986,28.0,6-2,218.0,South Carolina,K,16,0.0,5.0,3.0,Titans,2014
+76.0,Will Svitek,1/8/1982,32.0,6-6,305.0,Stanford,T,5,3.0,9.0,1.0,Titans,2014
+35.0,Jemea Thomas,4/7/1990,24.0,5-9,192.0,Georgia Tech,DB,1,0.0,0.0,0.0,Titans,2014
+84.0,Taylor Thompson,10/19/1989,25.0,6-6,259.0,SMU,TE,3,1.0,2.0,0.0,Titans,2014
+82.0,Delanie Walker,8/12/1984,30.0,6-2,248.0,Central Missouri St.,TE,15,14.0,8.0,6.0,Titans,2014
+70.0,Chance Warmack,9/14/1991,23.0,6-2,323.0,Alabama,RG,16,16.0,1.0,6.0,Titans,2014
+29.0,Leon Washington,8/29/1982,32.0,5-8,192.0,Florida St.,RB,16,0.0,8.0,1.0,Titans,2014
+85.0,Nate Washington,8/28/1983,31.0,6-1,183.0,Tiffin,WR,16,11.0,9.0,4.0,Titans,2014
+12.0,Charlie Whitehurst,8/6/1982,32.0,6-4,226.0,Clemson,QB,7,5.0,8.0,4.0,Titans,2014
+54.0,Avery Williamson,3/9/1992,22.0,6-1,246.0,Kentucky,RILB,16,12.0,0.0,6.0,Titans,2014
+21.0,George Wilson,3/14/1981,33.0,6-0,210.0,Arkansas,SS,16,10.0,9.0,4.0,Titans,2014
+95.0,Kamerion Wimbley,10/13/1983,31.0,6-4,258.0,Florida St.,ROLB,13,12.0,8.0,4.0,Titans,2014
+96.0,Al Woods,3/25/1987,27.0,6-4,309.0,LSU,NT,16,1.0,4.0,2.0,Titans,2014
+59.0,Wesley Woodyard,7/21/1986,28.0,6-0,233.0,Kentucky,LOLB,16,16.0,6.0,7.0,Titans,2014
+36.0,Khalid Wooten,2/19/1990,24.0,5-11,212.0,Nevada,DB,3,0.0,0.0,0.0,Titans,2014
+25.0,Blidi Wreh-Wilson,12/5/1989,25.0,6-1,190.0,Connecticut,LCB,11,11.0,1.0,4.0,Titans,2014
+13.0,Kendall Wright,11/12/1989,25.0,5-10,185.0,Baylor,WR,14,11.0,2.0,5.0,Titans,2014
+,Team Total,,26.8,6-2.2,245.5,,,16,,3.8,,Titans,2014

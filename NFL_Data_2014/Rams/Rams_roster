@@ -1,61 +1,61 @@
-,No.,Player,BirthDate,Age,Height,Weight,College/University,Position,Games_Played_in_Season,Games_Started_in_Season,NFL_Years,Player_Value,Team,Year
-0,31.0,Maurice Alexander,2/16/1991,23.0,6-2,220.0,Utah St.,DB,9,0.0,0.0,1.0,Rams,2014
-1,50.0,Ray-Ray Armstrong,3/5/1991,23.0,6-3,220.0,Miami (FL),DB,4,0.0,1.0,0.0,Rams,2014
-2,11.0,Tavon Austin,3/15/1990,24.0,5-8,179.0,West Virginia,WR,15,8.0,1.0,4.0,Rams,2014
-3,12.0,Stedman Bailey,11/11/1990,24.0,5-10,193.0,West Virginia,WR,14,3.0,1.0,4.0,Rams,2014
-4,72.0,Joe Barksdale,1/4/1988,26.0,6-5,326.0,LSU,RT,16,16.0,3.0,7.0,Rams,2014
-5,61.0,Tim Barnes,5/14/1988,26.0,6-4,297.0,Missouri,C,14,0.0,2.0,1.0,Rams,2014
-6,26.0,Mark Barron,10/27/1989,25.0,6-2,230.0,Alabama,OLB,9,2.0,2.0,3.0,Rams,2014
-7,53.0,Daren Bates,11/27/1990,24.0,5-11,225.0,Auburn,LB,14,0.0,1.0,1.0,Rams,2014
-8,82.0,Alex Bayer,11/8/1990,24.0,6-4,257.0,Bowling Green,TE,6,0.0,0.0,0.0,Rams,2014
-9,81.0,Kenny Britt,9/19/1988,26.0,6-3,230.0,Rutgers,WR,16,13.0,5.0,6.0,Rams,2014
-10,90.0,Michael Brockers,12/21/1990,24.0,6-5,297.0,LSU,RDT,16,16.0,2.0,8.0,Rams,2014
-11,92.0,Alex Carrington,6/19/1987,27.0,6-5,284.0,Arkansas St.,DE,8,0.0,4.0,1.0,Rams,2014
-12,89.0,Jared Cook,4/7/1987,27.0,6-5,246.0,South Carolina,TE,16,6.0,5.0,5.0,Rams,2014
-13,36.0,Benny Cunningham,7/7/1990,24.0,5-10,218.0,Middle Tenn. St.,RB,16,2.0,1.0,4.0,Rams,2014
-14,9.0,Austin Davis,6/2/1989,25.0,6-2,221.0,Southern Miss,QB,10,8.0,0.0,5.0,Rams,2014
-15,38.0,Cody Davis,6/6/1989,25.0,6-2,205.0,Texas Tech,DB,15,0.0,1.0,1.0,Rams,2014
-16,99.0,Aaron Donald,5/23/1991,23.0,6-1,280.0,Pittsburgh,LDT,16,12.0,0.0,11.0,Rams,2014
-17,58.0,Jo-Lonn Dunbar,3/13/1985,29.0,6-1,233.0,Boston Col.,RLB,16,10.0,6.0,5.0,Rams,2014
-18,33.0,E.J. Gaines,2/23/1992,22.0,5-10,190.0,Missouri,LCB,15,15.0,0.0,6.0,Rams,2014
-19,13.0,Chris Givens,12/6/1989,25.0,5-11,198.0,Wake Forest,WR,14,0.0,2.0,1.0,Rams,2014
-20,46.0,Cory Harkey,6/17/1990,24.0,6-3,272.0,UCLA,RB,16,13.0,2.0,0.0,Rams,2014
-21,95.0,William Hayes,5/2/1985,29.0,6-3,265.0,Winston-Salem St.,LDE,16,9.0,6.0,6.0,Rams,2014
-22,6.0,Johnny Hekker,2/8/1990,24.0,6-5,225.0,Oregon St.,P,16,0.0,2.0,3.0,Rams,2014
-23,54.0,Will Herring,8/28/1983,31.0,6-3,215.0,Auburn,LB,12,0.0,7.0,1.0,Rams,2014
-24,14.0,Shaun Hill,1/9/1980,34.0,6-3,230.0,Maryland,QB,9,8.0,9.0,4.0,Rams,2014
-25,21.0,Jackrabbit Jenkins,10/29/1988,26.0,5-10,190.0,"North Alabama,Florida",RCB,14,13.0,2.0,6.0,Rams,2014
-26,22.0,Trumaine Johnson,1/1/1990,24.0,6-2,213.0,Montana,LCB,9,5.0,2.0,3.0,Rams,2014
-27,67.0,Barrett Jones,5/25/1990,24.0,6-4,306.0,Alabama,G,7,0.0,1.0,0.0,Rams,2014
-28,69.0,Davin Joseph,11/22/1983,31.0,6-2,313.0,Oklahoma,RG,16,13.0,8.0,6.0,Rams,2014
-29,20.0,Lamarcus Joyner,11/27/1990,24.0,5-8,185.0,Florida St.,DB,10,1.0,0.0,1.0,Rams,2014
-30,88.0,Lance Kendricks,1/30/1988,26.0,6-3,250.0,Wisconsin,TE,16,14.0,3.0,2.0,Rams,2014
-31,98.0,Kendall Langford,1/27/1986,28.0,6-6,305.0,Hampton,DE,16,4.0,6.0,3.0,Rams,2014
-32,55.0,James Laurinaitis,12/3/1986,28.0,6-2,255.0,Ohio St.,MLB,16,16.0,5.0,10.0,Rams,2014
-33,91.0,Chris Long,3/28/1985,29.0,6-3,270.0,Virginia,LDE,6,6.0,6.0,3.0,Rams,2014
-34,77.0,Jake Long,5/9/1985,29.0,6-7,315.0,Michigan,LT,7,7.0,6.0,3.0,Rams,2014
-35,27.0,Tre Mason,8/6/1993,21.0,5-9,207.0,Auburn,RB,12,9.0,0.0,6.0,Rams,2014
-36,25.0,T.J. McDonald,1/26/1991,23.0,6-2,215.0,USC,FS,16,16.0,1.0,6.0,Rams,2014
-37,51.0,Marshall McFadden,8/4/1986,28.0,6-1,223.0,South Carolina St.,LB,5,0.0,2.0,0.0,Rams,2014
-38,32.0,Brandon McGee,12/11/1990,24.0,5-11,193.0,Miami (FL),DB,2,0.0,1.0,0.0,Rams,2014
-39,23.0,Rodney McLeod,6/23/1990,24.0,5-10,185.0,Virginia,SS,16,16.0,2.0,7.0,Rams,2014
-40,44.0,Jake McQuaide,12/7/1987,27.0,6-2,247.0,Ohio St.,LS,16,0.0,3.0,1.0,Rams,2014
-41,52.0,Alec Ogletree,9/25/1991,23.0,6-3,250.0,Georgia,LLB,16,16.0,1.0,9.0,Rams,2014
-42,73.0,Michael Person,5/17/1988,26.0,6-4,300.0,Montana St.,G,16,0.0,1.0,1.0,Rams,2014
-43,18.0,Austin Pettis,5/7/1988,26.0,6-2,205.0,Boise St.,WR,5,0.0,3.0,1.0,Rams,2014
-44,83.0,Brian Quick,6/5/1989,25.0,6-3,215.0,Appalachian St.,WR,7,7.0,2.0,3.0,Rams,2014
-45,94.0,Robert Quinn,5/18/1990,24.0,6-4,245.0,North Carolina,RDE,16,16.0,3.0,12.0,Rams,2014
-46,34.0,Chase Reynolds,10/22/1987,27.0,6-0,195.0,Montana,RB,15,0.0,1.0,0.0,Rams,2014
-47,47.0,Marcus Roberson,10/4/1992,22.0,6-0,191.0,Florida,DB,9,2.0,0.0,1.0,Rams,2014
-48,79.0,Greg Robinson,10/21/1992,22.0,6-5,330.0,Auburn,LT,16,12.0,0.0,5.0,Rams,2014
-49,76.0,Rodger Saffold,6/6/1988,26.0,6-5,325.0,Indiana,LG,16,16.0,4.0,7.0,Rams,2014
-50,97.0,Eugene Sims,3/18/1986,28.0,6-5,240.0,West Texas A&M,LB,16,1.0,4.0,3.0,Rams,2014
-51,30.0,Zac Stacy,4/9/1991,23.0,5-9,216.0,Vanderbilt,RB,13,5.0,1.0,3.0,Rams,2014
-52,35.0,Jemea Thomas,4/7/1990,24.0,5-9,192.0,Georgia Tech,DB,1,0.0,0.0,0.0,Rams,2014
-53,59.0,Korey Toomer,12/9/1988,26.0,6-2,235.0,Idaho,LB,7,0.0,0.0,1.0,Rams,2014
-54,42.0,Trey Watts,2/13/1991,23.0,5-11,190.0,Tulsa,RB,14,0.0,0.0,0.0,Rams,2014
-55,63.0,Scott Wells,1/17/1981,33.0,6-2,302.0,Tennessee,C,16,16.0,10.0,7.0,Rams,2014
-56,93.0,Ethan Westbrooks,11/15/1990,24.0,6-4,287.0,West Texas A&M,DE,6,0.0,0.0,1.0,Rams,2014
-57,10.0,Damian Williams,5/26/1988,26.0,6-1,190.0,USC,WR,2,0.0,4.0,0.0,Rams,2014
-58,4.0,Greg Zuerlein,12/27/1987,27.0,6-0,187.0,Missouri Western St.,K,16,0.0,2.0,2.0,Rams,2014
-59,,Team Total,,25.6,6-1.8,239.4,,,16,,2.5,,Rams,2014
+No.,Player,BirthDate,Age,Height,Weight,College/University,Position,Games_Played_in_Season,Games_Started_in_Season,NFL_Years,Player_Value,Team,Year
+31.0,Maurice Alexander,2/16/1991,23.0,6-2,220.0,Utah St.,DB,9,0.0,0.0,1.0,Rams,2014
+50.0,Ray-Ray Armstrong,3/5/1991,23.0,6-3,220.0,Miami (FL),DB,4,0.0,1.0,0.0,Rams,2014
+11.0,Tavon Austin,3/15/1990,24.0,5-8,179.0,West Virginia,WR,15,8.0,1.0,4.0,Rams,2014
+12.0,Stedman Bailey,11/11/1990,24.0,5-10,193.0,West Virginia,WR,14,3.0,1.0,4.0,Rams,2014
+72.0,Joe Barksdale,1/4/1988,26.0,6-5,326.0,LSU,RT,16,16.0,3.0,7.0,Rams,2014
+61.0,Tim Barnes,5/14/1988,26.0,6-4,297.0,Missouri,C,14,0.0,2.0,1.0,Rams,2014
+26.0,Mark Barron,10/27/1989,25.0,6-2,230.0,Alabama,OLB,9,2.0,2.0,3.0,Rams,2014
+53.0,Daren Bates,11/27/1990,24.0,5-11,225.0,Auburn,LB,14,0.0,1.0,1.0,Rams,2014
+82.0,Alex Bayer,11/8/1990,24.0,6-4,257.0,Bowling Green,TE,6,0.0,0.0,0.0,Rams,2014
+81.0,Kenny Britt,9/19/1988,26.0,6-3,230.0,Rutgers,WR,16,13.0,5.0,6.0,Rams,2014
+90.0,Michael Brockers,12/21/1990,24.0,6-5,297.0,LSU,RDT,16,16.0,2.0,8.0,Rams,2014
+92.0,Alex Carrington,6/19/1987,27.0,6-5,284.0,Arkansas St.,DE,8,0.0,4.0,1.0,Rams,2014
+89.0,Jared Cook,4/7/1987,27.0,6-5,246.0,South Carolina,TE,16,6.0,5.0,5.0,Rams,2014
+36.0,Benny Cunningham,7/7/1990,24.0,5-10,218.0,Middle Tenn. St.,RB,16,2.0,1.0,4.0,Rams,2014
+9.0,Austin Davis,6/2/1989,25.0,6-2,221.0,Southern Miss,QB,10,8.0,0.0,5.0,Rams,2014
+38.0,Cody Davis,6/6/1989,25.0,6-2,205.0,Texas Tech,DB,15,0.0,1.0,1.0,Rams,2014
+99.0,Aaron Donald,5/23/1991,23.0,6-1,280.0,Pittsburgh,LDT,16,12.0,0.0,11.0,Rams,2014
+58.0,Jo-Lonn Dunbar,3/13/1985,29.0,6-1,233.0,Boston Col.,RLB,16,10.0,6.0,5.0,Rams,2014
+33.0,E.J. Gaines,2/23/1992,22.0,5-10,190.0,Missouri,LCB,15,15.0,0.0,6.0,Rams,2014
+13.0,Chris Givens,12/6/1989,25.0,5-11,198.0,Wake Forest,WR,14,0.0,2.0,1.0,Rams,2014
+46.0,Cory Harkey,6/17/1990,24.0,6-3,272.0,UCLA,RB,16,13.0,2.0,0.0,Rams,2014
+95.0,William Hayes,5/2/1985,29.0,6-3,265.0,Winston-Salem St.,LDE,16,9.0,6.0,6.0,Rams,2014
+6.0,Johnny Hekker,2/8/1990,24.0,6-5,225.0,Oregon St.,P,16,0.0,2.0,3.0,Rams,2014
+54.0,Will Herring,8/28/1983,31.0,6-3,215.0,Auburn,LB,12,0.0,7.0,1.0,Rams,2014
+14.0,Shaun Hill,1/9/1980,34.0,6-3,230.0,Maryland,QB,9,8.0,9.0,4.0,Rams,2014
+21.0,Jackrabbit Jenkins,10/29/1988,26.0,5-10,190.0,"North Alabama,Florida",RCB,14,13.0,2.0,6.0,Rams,2014
+22.0,Trumaine Johnson,1/1/1990,24.0,6-2,213.0,Montana,LCB,9,5.0,2.0,3.0,Rams,2014
+67.0,Barrett Jones,5/25/1990,24.0,6-4,306.0,Alabama,G,7,0.0,1.0,0.0,Rams,2014
+69.0,Davin Joseph,11/22/1983,31.0,6-2,313.0,Oklahoma,RG,16,13.0,8.0,6.0,Rams,2014
+20.0,Lamarcus Joyner,11/27/1990,24.0,5-8,185.0,Florida St.,DB,10,1.0,0.0,1.0,Rams,2014
+88.0,Lance Kendricks,1/30/1988,26.0,6-3,250.0,Wisconsin,TE,16,14.0,3.0,2.0,Rams,2014
+98.0,Kendall Langford,1/27/1986,28.0,6-6,305.0,Hampton,DE,16,4.0,6.0,3.0,Rams,2014
+55.0,James Laurinaitis,12/3/1986,28.0,6-2,255.0,Ohio St.,MLB,16,16.0,5.0,10.0,Rams,2014
+91.0,Chris Long,3/28/1985,29.0,6-3,270.0,Virginia,LDE,6,6.0,6.0,3.0,Rams,2014
+77.0,Jake Long,5/9/1985,29.0,6-7,315.0,Michigan,LT,7,7.0,6.0,3.0,Rams,2014
+27.0,Tre Mason,8/6/1993,21.0,5-9,207.0,Auburn,RB,12,9.0,0.0,6.0,Rams,2014
+25.0,T.J. McDonald,1/26/1991,23.0,6-2,215.0,USC,FS,16,16.0,1.0,6.0,Rams,2014
+51.0,Marshall McFadden,8/4/1986,28.0,6-1,223.0,South Carolina St.,LB,5,0.0,2.0,0.0,Rams,2014
+32.0,Brandon McGee,12/11/1990,24.0,5-11,193.0,Miami (FL),DB,2,0.0,1.0,0.0,Rams,2014
+23.0,Rodney McLeod,6/23/1990,24.0,5-10,185.0,Virginia,SS,16,16.0,2.0,7.0,Rams,2014
+44.0,Jake McQuaide,12/7/1987,27.0,6-2,247.0,Ohio St.,LS,16,0.0,3.0,1.0,Rams,2014
+52.0,Alec Ogletree,9/25/1991,23.0,6-3,250.0,Georgia,LLB,16,16.0,1.0,9.0,Rams,2014
+73.0,Michael Person,5/17/1988,26.0,6-4,300.0,Montana St.,G,16,0.0,1.0,1.0,Rams,2014
+18.0,Austin Pettis,5/7/1988,26.0,6-2,205.0,Boise St.,WR,5,0.0,3.0,1.0,Rams,2014
+83.0,Brian Quick,6/5/1989,25.0,6-3,215.0,Appalachian St.,WR,7,7.0,2.0,3.0,Rams,2014
+94.0,Robert Quinn,5/18/1990,24.0,6-4,245.0,North Carolina,RDE,16,16.0,3.0,12.0,Rams,2014
+34.0,Chase Reynolds,10/22/1987,27.0,6-0,195.0,Montana,RB,15,0.0,1.0,0.0,Rams,2014
+47.0,Marcus Roberson,10/4/1992,22.0,6-0,191.0,Florida,DB,9,2.0,0.0,1.0,Rams,2014
+79.0,Greg Robinson,10/21/1992,22.0,6-5,330.0,Auburn,LT,16,12.0,0.0,5.0,Rams,2014
+76.0,Rodger Saffold,6/6/1988,26.0,6-5,325.0,Indiana,LG,16,16.0,4.0,7.0,Rams,2014
+97.0,Eugene Sims,3/18/1986,28.0,6-5,240.0,West Texas A&M,LB,16,1.0,4.0,3.0,Rams,2014
+30.0,Zac Stacy,4/9/1991,23.0,5-9,216.0,Vanderbilt,RB,13,5.0,1.0,3.0,Rams,2014
+35.0,Jemea Thomas,4/7/1990,24.0,5-9,192.0,Georgia Tech,DB,1,0.0,0.0,0.0,Rams,2014
+59.0,Korey Toomer,12/9/1988,26.0,6-2,235.0,Idaho,LB,7,0.0,0.0,1.0,Rams,2014
+42.0,Trey Watts,2/13/1991,23.0,5-11,190.0,Tulsa,RB,14,0.0,0.0,0.0,Rams,2014
+63.0,Scott Wells,1/17/1981,33.0,6-2,302.0,Tennessee,C,16,16.0,10.0,7.0,Rams,2014
+93.0,Ethan Westbrooks,11/15/1990,24.0,6-4,287.0,West Texas A&M,DE,6,0.0,0.0,1.0,Rams,2014
+10.0,Damian Williams,5/26/1988,26.0,6-1,190.0,USC,WR,2,0.0,4.0,0.0,Rams,2014
+4.0,Greg Zuerlein,12/27/1987,27.0,6-0,187.0,Missouri Western St.,K,16,0.0,2.0,2.0,Rams,2014
+,Team Total,,25.6,6-1.8,239.4,,,16,,2.5,,Rams,2014

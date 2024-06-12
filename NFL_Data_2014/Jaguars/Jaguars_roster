@@ -1,68 +1,68 @@
-,No.,Player,BirthDate,Age,Height,Weight,College/University,Position,Games_Played_in_Season,Games_Started_in_Season,NFL_Years,Player_Value,Team,Year
-0,93.0,Tyson Alualu,5/12/1987,27.0,6-3,304.0,California,DE,16,0.0,4.0,1.0,Jaguars,2014
-1,19.0,Bryan Anger,10/6/1988,26.0,6-3,202.0,California,P,16,0.0,2.0,3.0,Jaguars,2014
-2,23.0,Alan Ball,3/29/1985,29.0,6-1,176.0,Illinois,RCB,7,7.0,7.0,3.0,Jaguars,2014
-3,68.0,Zane Beadles,11/19/1986,28.0,6-4,305.0,Utah,LG,16,16.0,4.0,6.0,Jaguars,2014
-4,24.0,Will Blackmon,10/27/1984,30.0,6-0,212.0,Boston Col.,DB,8,4.0,8.0,2.0,Jaguars,2014
-5,5.0,Blake Bortles,4/28/1992,22.0,6-5,236.0,Central Florida,QB,14,13.0,0.0,5.0,Jaguars,2014
-6,70.0,Luke Bowanko,6/13/1991,23.0,6-6,300.0,Virginia,C,16,14.0,0.0,5.0,Jaguars,2014
-7,78.0,Cameron Bradfield,9/14/1987,27.0,6-4,301.0,Grand Valley St.,T,2,2.0,3.0,1.0,Jaguars,2014
-8,90.0,Andre Branch,7/14/1989,25.0,6-5,263.0,Clemson,DE,9,0.0,2.0,1.0,Jaguars,2014
-9,12.0,Mike Brown,2/9/1989,25.0,5-10,205.0,Liberty,WR,5,1.0,2.0,1.0,Jaguars,2014
-10,79.0,Red Bryant,4/18/1984,30.0,6-5,326.0,Texas A&M,LDE,16,16.0,6.0,6.0,Jaguars,2014
-11,38.0,Tommie Campbell,9/19/1987,27.0,6-2,207.0,"Pittsburgh,California (PA)",DB,7,0.0,3.0,0.0,Jaguars,2014
-12,91.0,Chris Clemons,10/31/1981,33.0,6-3,255.0,Georgia,RDE,16,16.0,10.0,7.0,Jaguars,2014
-13,22.0,Aaron Colvin,10/2/1991,23.0,6-0,191.0,Oklahoma,DB,6,1.0,0.0,1.0,Jaguars,2014
-14,37.0,Johnathan Cyprien,7/29/1990,24.0,6-1,211.0,Florida International,SS,15,15.0,1.0,6.0,Jaguars,2014
-15,59.0,Ryan Davis,2/24/1989,25.0,6-2,260.0,Bethune-Cookman,LB,16,0.0,2.0,2.0,Jaguars,2014
-16,57.0,A.J. Edds,9/18/1987,27.0,6-4,246.0,Iowa,LB,2,0.0,3.0,0.0,Jaguars,2014
-17,26.0,Josh Evans,6/5/1991,23.0,6-1,207.0,Florida,FS,16,14.0,1.0,6.0,Jaguars,2014
-18,58.0,Khairi Fortt,3/24/1992,22.0,6-2,242.0,California,LB,3,0.0,0.0,0.0,Jaguars,2014
-19,54.0,Jeremiah George,1/24/1992,22.0,5-11,234.0,Iowa St.,LB,6,0.0,0.0,0.0,Jaguars,2014
-20,21.0,Toby Gerhart,3/28/1987,27.0,6-0,234.0,Stanford,RB,14,7.0,4.0,3.0,Jaguars,2014
-21,27.0,Dwayne Gratz,3/8/1990,24.0,5-11,201.0,Connecticut,RCB,15,13.0,1.0,5.0,Jaguars,2014
-22,22.0,Winston Guy,4/23/1990,24.0,6-1,218.0,Kentucky,DB,4,3.0,2.0,1.0,Jaguars,2014
-23,86.0,Clay Harbor,7/2/1987,27.0,6-3,240.0,Missouri State,TE,13,8.0,4.0,2.0,Jaguars,2014
-24,31.0,Jeremy Harris,4/26/1991,23.0,6-2,195.0,New Mexico St.,DB,6,0.0,0.0,0.0,Jaguars,2014
-25,55.0,Geno Hayes,8/10/1987,27.0,6-2,220.0,Florida St.,LLB,16,11.0,6.0,5.0,Jaguars,2014
-26,7.0,Chad Henne,7/2/1985,29.0,6-3,215.0,Michigan,QB,3,3.0,6.0,1.0,Jaguars,2014
-27,92.0,Evander Hood,2/16/1987,27.0,6-3,305.0,Missouri,DT,16,0.0,5.0,2.0,Jaguars,2014
-28,88.0,Allen Hurns,11/12/1991,23.0,6-3,195.0,Miami (FL),WR,16,8.0,0.0,4.0,Jaguars,2014
-29,85.0,Nic Jacobs,10/13/1991,23.0,6-5,269.0,McNeese St.,TE,13,4.0,0.0,0.0,Jaguars,2014
-30,87.0,Marcel Jensen,2/12/1990,24.0,6-6,260.0,Fresno St.,TE,1,0.0,0.0,0.0,Jaguars,2014
-31,76.0,Luke Joeckel,11/6/1991,23.0,6-6,306.0,Texas A&M,LT,16,16.0,1.0,6.0,Jaguars,2014
-32,34.0,Storm Johnson,7/17/1992,22.0,6-0,209.0,Central Florida,RB,6,1.0,0.0,0.0,Jaguars,2014
-33,95.0,Abry Jones,9/8/1991,23.0,6-4,318.0,Georgia,DT,16,2.0,1.0,2.0,Jaguars,2014
-34,11.0,Marqise Lee,11/25/1991,23.0,6-0,196.0,USC,WR,13,8.0,0.0,3.0,Jaguars,2014
-35,89.0,Marcedes Lewis,5/19/1984,30.0,6-6,265.0,UCLA,TE,8,8.0,8.0,1.0,Jaguars,2014
-36,65.0,Brandon Linder,1/25/1992,22.0,6-6,315.0,Miami (FL),RG,15,15.0,0.0,5.0,Jaguars,2014
-37,20.0,Craig Loston,12/21/1989,25.0,6-1,217.0,LSU,DB,13,0.0,0.0,1.0,Jaguars,2014
-38,99.0,Sen'Derrick Marks,2/23/1987,27.0,6-1,300.0,Auburn,RDT,16,16.0,5.0,7.0,Jaguars,2014
-39,36.0,Sherrod Martin,10/12/1984,30.0,6-0,197.0,Troy,DB,13,2.0,5.0,2.0,Jaguars,2014
-40,66.0,Jacques McClendon,12/10/1987,27.0,6-3,324.0,Tennessee,G,13,3.0,4.0,2.0,Jaguars,2014
-41,35.0,Demetrius McCray,5/11/1991,23.0,6-2,194.0,Appalachian St.,LCB,16,12.0,1.0,5.0,Jaguars,2014
-42,97.0,Roy Miller,7/9/1987,27.0,6-1,301.0,Texas,LDT,14,14.0,5.0,6.0,Jaguars,2014
-43,67.0,Austin Pasztor,11/26/1990,24.0,6-7,305.0,Virginia,RT,8,8.0,2.0,3.0,Jaguars,2014
-44,51.0,Paul Posluszny,10/10/1984,30.0,6-2,232.0,Penn St.,MLB,7,7.0,7.0,4.0,Jaguars,2014
-45,42.0,Chris Prosinski,4/28/1987,27.0,6-1,201.0,Wyoming,DB,3,0.0,3.0,0.0,Jaguars,2014
-46,56.0,LaRoy Reynolds,11/3/1990,24.0,6-1,240.0,Virginia,LB,16,3.0,1.0,2.0,Jaguars,2014
-47,15.0,Allen Robinson,8/24/1993,21.0,6-2,220.0,Penn St.,WR,10,8.0,0.0,3.0,Jaguars,2014
-48,16.0,Denard Robinson,9/22/1990,24.0,5-11,199.0,Michigan,RB,13,9.0,1.0,4.0,Jaguars,2014
-49,18.0,Ace Sanders,11/11/1991,23.0,5-7,173.0,South Carolina,WR,12,0.0,1.0,0.0,Jaguars,2014
-50,10.0,Josh Scobee,6/23/1982,32.0,6-1,200.0,Louisiana Tech,K,16,0.0,10.0,3.0,Jaguars,2014
-51,69.0,Tyler Shatley,5/5/1991,23.0,6-3,305.0,Clemson,G,1,0.0,0.0,0.0,Jaguars,2014
-52,84.0,Cecil Shorts,12/22/1987,27.0,6-0,200.0,Mount Union,WR,13,12.0,3.0,3.0,Jaguars,2014
-53,81.0,Mickey Shuler,10/9/1986,28.0,6-4,242.0,Penn St.,TE,3,1.0,4.0,0.0,Jaguars,2014
-54,98.0,Chris Smith,2/11/1992,22.0,6-1,266.0,Arkansas,DE,7,0.0,0.0,1.0,Jaguars,2014
-55,50.0,Telvin Smith,4/11/1991,23.0,6-3,215.0,Florida St.,RLB,16,9.0,0.0,6.0,Jaguars,2014
-56,13.0,Tommy Streeter,10/7/1989,25.0,6-5,219.0,Miami (FL),WR,2,0.0,0.0,0.0,Jaguars,2014
-57,45.0,Will Ta'ufo'ou,6/19/1986,28.0,5-11,253.0,California,RB,16,4.0,2.0,0.0,Jaguars,2014
-58,52.0,J.T. Thomas,8/15/1988,26.0,6-1,241.0,West Virginia,MLB,16,10.0,2.0,6.0,Jaguars,2014
-59,25.0,Peyton Thompson,9/26/1990,24.0,5-11,180.0,San Jose St.,DB,2,0.0,0.0,0.0,Jaguars,2014
-60,46.0,Carson Tinker,11/15/1989,25.0,6-0,233.0,Alabama,LS,16,0.0,1.0,1.0,Jaguars,2014
-61,30.0,Jordan Todman,2/24/1990,24.0,5-10,200.0,Connecticut,RB,16,1.0,2.0,2.0,Jaguars,2014
-62,57.0,Dekoda Watson,3/3/1988,26.0,6-2,245.0,Florida St.,LB,9,1.0,4.0,1.0,Jaguars,2014
-63,72.0,Josh Wells,2/14/1991,23.0,6-6,306.0,James Madison,T,12,0.0,0.0,1.0,Jaguars,2014
-64,29.0,Teddy Williams,7/3/1988,26.0,6-1,210.0,Texas-San Antonio,DB,2,0.0,2.0,0.0,Jaguars,2014
-65,74.0,Sam Young,6/24/1987,27.0,6-8,302.0,Notre Dame,RT,9,6.0,4.0,2.0,Jaguars,2014
-66,,Team Total,,25.5,6-2.2,241.9,,,16,,2.5,,Jaguars,2014
+No.,Player,BirthDate,Age,Height,Weight,College/University,Position,Games_Played_in_Season,Games_Started_in_Season,NFL_Years,Player_Value,Team,Year
+93.0,Tyson Alualu,5/12/1987,27.0,6-3,304.0,California,DE,16,0.0,4.0,1.0,Jaguars,2014
+19.0,Bryan Anger,10/6/1988,26.0,6-3,202.0,California,P,16,0.0,2.0,3.0,Jaguars,2014
+23.0,Alan Ball,3/29/1985,29.0,6-1,176.0,Illinois,RCB,7,7.0,7.0,3.0,Jaguars,2014
+68.0,Zane Beadles,11/19/1986,28.0,6-4,305.0,Utah,LG,16,16.0,4.0,6.0,Jaguars,2014
+24.0,Will Blackmon,10/27/1984,30.0,6-0,212.0,Boston Col.,DB,8,4.0,8.0,2.0,Jaguars,2014
+5.0,Blake Bortles,4/28/1992,22.0,6-5,236.0,Central Florida,QB,14,13.0,0.0,5.0,Jaguars,2014
+70.0,Luke Bowanko,6/13/1991,23.0,6-6,300.0,Virginia,C,16,14.0,0.0,5.0,Jaguars,2014
+78.0,Cameron Bradfield,9/14/1987,27.0,6-4,301.0,Grand Valley St.,T,2,2.0,3.0,1.0,Jaguars,2014
+90.0,Andre Branch,7/14/1989,25.0,6-5,263.0,Clemson,DE,9,0.0,2.0,1.0,Jaguars,2014
+12.0,Mike Brown,2/9/1989,25.0,5-10,205.0,Liberty,WR,5,1.0,2.0,1.0,Jaguars,2014
+79.0,Red Bryant,4/18/1984,30.0,6-5,326.0,Texas A&M,LDE,16,16.0,6.0,6.0,Jaguars,2014
+38.0,Tommie Campbell,9/19/1987,27.0,6-2,207.0,"Pittsburgh,California (PA)",DB,7,0.0,3.0,0.0,Jaguars,2014
+91.0,Chris Clemons,10/31/1981,33.0,6-3,255.0,Georgia,RDE,16,16.0,10.0,7.0,Jaguars,2014
+22.0,Aaron Colvin,10/2/1991,23.0,6-0,191.0,Oklahoma,DB,6,1.0,0.0,1.0,Jaguars,2014
+37.0,Johnathan Cyprien,7/29/1990,24.0,6-1,211.0,Florida International,SS,15,15.0,1.0,6.0,Jaguars,2014
+59.0,Ryan Davis,2/24/1989,25.0,6-2,260.0,Bethune-Cookman,LB,16,0.0,2.0,2.0,Jaguars,2014
+57.0,A.J. Edds,9/18/1987,27.0,6-4,246.0,Iowa,LB,2,0.0,3.0,0.0,Jaguars,2014
+26.0,Josh Evans,6/5/1991,23.0,6-1,207.0,Florida,FS,16,14.0,1.0,6.0,Jaguars,2014
+58.0,Khairi Fortt,3/24/1992,22.0,6-2,242.0,California,LB,3,0.0,0.0,0.0,Jaguars,2014
+54.0,Jeremiah George,1/24/1992,22.0,5-11,234.0,Iowa St.,LB,6,0.0,0.0,0.0,Jaguars,2014
+21.0,Toby Gerhart,3/28/1987,27.0,6-0,234.0,Stanford,RB,14,7.0,4.0,3.0,Jaguars,2014
+27.0,Dwayne Gratz,3/8/1990,24.0,5-11,201.0,Connecticut,RCB,15,13.0,1.0,5.0,Jaguars,2014
+22.0,Winston Guy,4/23/1990,24.0,6-1,218.0,Kentucky,DB,4,3.0,2.0,1.0,Jaguars,2014
+86.0,Clay Harbor,7/2/1987,27.0,6-3,240.0,Missouri State,TE,13,8.0,4.0,2.0,Jaguars,2014
+31.0,Jeremy Harris,4/26/1991,23.0,6-2,195.0,New Mexico St.,DB,6,0.0,0.0,0.0,Jaguars,2014
+55.0,Geno Hayes,8/10/1987,27.0,6-2,220.0,Florida St.,LLB,16,11.0,6.0,5.0,Jaguars,2014
+7.0,Chad Henne,7/2/1985,29.0,6-3,215.0,Michigan,QB,3,3.0,6.0,1.0,Jaguars,2014
+92.0,Evander Hood,2/16/1987,27.0,6-3,305.0,Missouri,DT,16,0.0,5.0,2.0,Jaguars,2014
+88.0,Allen Hurns,11/12/1991,23.0,6-3,195.0,Miami (FL),WR,16,8.0,0.0,4.0,Jaguars,2014
+85.0,Nic Jacobs,10/13/1991,23.0,6-5,269.0,McNeese St.,TE,13,4.0,0.0,0.0,Jaguars,2014
+87.0,Marcel Jensen,2/12/1990,24.0,6-6,260.0,Fresno St.,TE,1,0.0,0.0,0.0,Jaguars,2014
+76.0,Luke Joeckel,11/6/1991,23.0,6-6,306.0,Texas A&M,LT,16,16.0,1.0,6.0,Jaguars,2014
+34.0,Storm Johnson,7/17/1992,22.0,6-0,209.0,Central Florida,RB,6,1.0,0.0,0.0,Jaguars,2014
+95.0,Abry Jones,9/8/1991,23.0,6-4,318.0,Georgia,DT,16,2.0,1.0,2.0,Jaguars,2014
+11.0,Marqise Lee,11/25/1991,23.0,6-0,196.0,USC,WR,13,8.0,0.0,3.0,Jaguars,2014
+89.0,Marcedes Lewis,5/19/1984,30.0,6-6,265.0,UCLA,TE,8,8.0,8.0,1.0,Jaguars,2014
+65.0,Brandon Linder,1/25/1992,22.0,6-6,315.0,Miami (FL),RG,15,15.0,0.0,5.0,Jaguars,2014
+20.0,Craig Loston,12/21/1989,25.0,6-1,217.0,LSU,DB,13,0.0,0.0,1.0,Jaguars,2014
+99.0,Sen'Derrick Marks,2/23/1987,27.0,6-1,300.0,Auburn,RDT,16,16.0,5.0,7.0,Jaguars,2014
+36.0,Sherrod Martin,10/12/1984,30.0,6-0,197.0,Troy,DB,13,2.0,5.0,2.0,Jaguars,2014
+66.0,Jacques McClendon,12/10/1987,27.0,6-3,324.0,Tennessee,G,13,3.0,4.0,2.0,Jaguars,2014
+35.0,Demetrius McCray,5/11/1991,23.0,6-2,194.0,Appalachian St.,LCB,16,12.0,1.0,5.0,Jaguars,2014
+97.0,Roy Miller,7/9/1987,27.0,6-1,301.0,Texas,LDT,14,14.0,5.0,6.0,Jaguars,2014
+67.0,Austin Pasztor,11/26/1990,24.0,6-7,305.0,Virginia,RT,8,8.0,2.0,3.0,Jaguars,2014
+51.0,Paul Posluszny,10/10/1984,30.0,6-2,232.0,Penn St.,MLB,7,7.0,7.0,4.0,Jaguars,2014
+42.0,Chris Prosinski,4/28/1987,27.0,6-1,201.0,Wyoming,DB,3,0.0,3.0,0.0,Jaguars,2014
+56.0,LaRoy Reynolds,11/3/1990,24.0,6-1,240.0,Virginia,LB,16,3.0,1.0,2.0,Jaguars,2014
+15.0,Allen Robinson,8/24/1993,21.0,6-2,220.0,Penn St.,WR,10,8.0,0.0,3.0,Jaguars,2014
+16.0,Denard Robinson,9/22/1990,24.0,5-11,199.0,Michigan,RB,13,9.0,1.0,4.0,Jaguars,2014
+18.0,Ace Sanders,11/11/1991,23.0,5-7,173.0,South Carolina,WR,12,0.0,1.0,0.0,Jaguars,2014
+10.0,Josh Scobee,6/23/1982,32.0,6-1,200.0,Louisiana Tech,K,16,0.0,10.0,3.0,Jaguars,2014
+69.0,Tyler Shatley,5/5/1991,23.0,6-3,305.0,Clemson,G,1,0.0,0.0,0.0,Jaguars,2014
+84.0,Cecil Shorts,12/22/1987,27.0,6-0,200.0,Mount Union,WR,13,12.0,3.0,3.0,Jaguars,2014
+81.0,Mickey Shuler,10/9/1986,28.0,6-4,242.0,Penn St.,TE,3,1.0,4.0,0.0,Jaguars,2014
+98.0,Chris Smith,2/11/1992,22.0,6-1,266.0,Arkansas,DE,7,0.0,0.0,1.0,Jaguars,2014
+50.0,Telvin Smith,4/11/1991,23.0,6-3,215.0,Florida St.,RLB,16,9.0,0.0,6.0,Jaguars,2014
+13.0,Tommy Streeter,10/7/1989,25.0,6-5,219.0,Miami (FL),WR,2,0.0,0.0,0.0,Jaguars,2014
+45.0,Will Ta'ufo'ou,6/19/1986,28.0,5-11,253.0,California,RB,16,4.0,2.0,0.0,Jaguars,2014
+52.0,J.T. Thomas,8/15/1988,26.0,6-1,241.0,West Virginia,MLB,16,10.0,2.0,6.0,Jaguars,2014
+25.0,Peyton Thompson,9/26/1990,24.0,5-11,180.0,San Jose St.,DB,2,0.0,0.0,0.0,Jaguars,2014
+46.0,Carson Tinker,11/15/1989,25.0,6-0,233.0,Alabama,LS,16,0.0,1.0,1.0,Jaguars,2014
+30.0,Jordan Todman,2/24/1990,24.0,5-10,200.0,Connecticut,RB,16,1.0,2.0,2.0,Jaguars,2014
+57.0,Dekoda Watson,3/3/1988,26.0,6-2,245.0,Florida St.,LB,9,1.0,4.0,1.0,Jaguars,2014
+72.0,Josh Wells,2/14/1991,23.0,6-6,306.0,James Madison,T,12,0.0,0.0,1.0,Jaguars,2014
+29.0,Teddy Williams,7/3/1988,26.0,6-1,210.0,Texas-San Antonio,DB,2,0.0,2.0,0.0,Jaguars,2014
+74.0,Sam Young,6/24/1987,27.0,6-8,302.0,Notre Dame,RT,9,6.0,4.0,2.0,Jaguars,2014
+,Team Total,,25.5,6-2.2,241.9,,,16,,2.5,,Jaguars,2014
