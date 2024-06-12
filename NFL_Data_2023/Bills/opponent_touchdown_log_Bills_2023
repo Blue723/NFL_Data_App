@@ -1,0 +1,35 @@
+,Rank,Team,Date,Opponent,Win/Loss,Home_Score,Opponenet_Score,Quarter,Distance,Type,Detail
+1,1,Bills,2023-09-11,NYJ,Loss,16,22,4,3,pass,Garrett Wilson
+2,2,Bills,2023-09-11,NYJ,Loss,16,22,5,65,punt,Xavier Gipson
+3,3,Bills,2023-09-17,LVR,Win,38,10,1,16,pass,Davante Adams
+4,4,Bills,2023-10-01,MIA,Win,48,20,1,3,rush,De'Von Achane
+5,5,Bills,2023-10-01,MIA,Win,48,20,2,10,rush,De'Von Achane
+6,6,Bills,2023-10-01,MIA,Win,48,20,3,11,pass,Braxton Berrios
+7,7,Bills,2023-10-08,JAX,Loss,20,25,1,6,pass,Zay Jones
+8,8,Bills,2023-10-08,JAX,Loss,20,25,4,6,rush,Travis Etienne
+9,9,Bills,2023-10-08,JAX,Loss,20,25,4,35,rush,Travis Etienne
+10,10,Bills,2023-10-22,NWE,Loss,25,29,1,2,rush,Ezekiel Elliott
+11,11,Bills,2023-10-22,NWE,Loss,25,29,4,4,pass,Kendrick Bourne
+12,12,Bills,2023-10-22,NWE,Loss,25,29,4,1,pass,Mike Gesicki
+13,13,Bills,2023-10-26,TAM,Win,24,18,2,3,pass,Chris Godwin
+14,14,Bills,2023-10-26,TAM,Win,24,18,4,24,pass,Mike Evans
+15,15,Bills,2023-11-05,CIN,Loss,18,24,1,7,pass,Irv Smith Jr.
+16,16,Bills,2023-11-05,CIN,Loss,18,24,1,2,rush,Joe Mixon
+17,17,Bills,2023-11-05,CIN,Loss,18,24,2,22,pass,Drew Sample
+18,18,Bills,2023-11-13,DEN,Loss,22,24,2,7,pass,Courtland Sutton
+19,19,Bills,2023-11-13,DEN,Loss,22,24,4,3,pass,Javonte Williams
+20,20,Bills,2023-11-19,NYJ,Win,32,6,2,9,pass,Breece Hall
+21,21,Bills,2023-11-26,PHI,Loss,34,37,1,1,rush,Jalen Hurts
+22,22,Bills,2023-11-26,PHI,Loss,34,37,3,3,pass,A.J. Brown
+23,23,Bills,2023-11-26,PHI,Loss,34,37,4,15,pass,DeVonta Smith
+24,24,Bills,2023-11-26,PHI,Loss,34,37,4,29,pass,Olamide Zaccheaus
+25,25,Bills,2023-11-26,PHI,Loss,34,37,5,12,rush,Jalen Hurts
+26,26,Bills,2023-12-10,KAN,Win,20,17,2,7,rush,Jerick McKinnon
+27,27,Bills,2023-12-10,KAN,Win,20,17,3,4,pass,Rashee Rice
+28,28,Bills,2023-12-17,DAL,Win,31,10,4,3,rush,CeeDee Lamb
+29,29,Bills,2023-12-23,LAC,Win,24,22,2,1,rush,Easton Stick
+30,30,Bills,2023-12-31,NWE,Win,27,21,1,98,kickoff,Jalen Reagor
+31,31,Bills,2023-12-31,NWE,Win,27,21,2,17,rush,Bailey Zappe
+32,32,Bills,2023-12-31,NWE,Win,27,21,4,6,rush,Ezekiel Elliott
+33,33,Bills,2024-01-07,MIA,Win,21,14,2,25,rush,De'Von Achane
+34,34,Bills,2024-01-07,MIA,Win,21,14,2,3,pass,Tyreek Hill
