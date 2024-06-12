@@ -1,0 +1,20 @@
+,Week,Day,Date,Time,Win/Loss,Overtime,Team Record,Home/Away,Opponent,Points Scored,Points Allowed,Offense 1st Down,Total Yards Gained of Offense,Total yards Gained by Passing,Total Yards Gained by Rushing,Offense Turnovers,Defense 1st Down,Total Yards Allowed by Defense,Total Passing Yards Allowed by Defense,Total Rushing Yards Allowed by Defense,Defense Turnovers,Offense,Defense,Sp. Tms,Team,Year
+0,1,Sun,2021-09-12,nan,Loss,0,0-1,home,Pittsburgh Steelers,16,23,22,371,254,117,1,16,252,177,75,0,-3.55,0.54,-5.01,Bills,2021
+1,2,Sun,2021-09-19,nan,Win,0,1-1,away,Miami Dolphins,35,0,21,314,171,143,2,13,216,145,71,3,8.16,24.67,-0.37,Bills,2021
+2,3,Sun,2021-09-26,nan,Win,0,2-1,home,Washington Football Team,43,21,29,481,359,122,0,13,290,212,78,3,20.55,8.27,-7.29,Bills,2021
+3,4,Sun,2021-10-03,nan,Win,0,3-1,home,Houston Texans,40,0,26,450,251,199,1,6,109,61,48,5,14.54,32.68,-6.4,Bills,2021
+4,5,Sun,2021-10-10,nan,Win,0,4-1,away,Kansas City Chiefs,38,20,20,436,315,121,0,29,392,272,120,4,19.84,1.2,-1.5,Bills,2021
+5,6,Mon,2021-10-18,nan,Loss,0,4-2,away,Tennessee Titans,31,34,28,417,335,82,1,16,362,216,146,1,13.13,-15.97,-0.79,Bills,2021
+6,8,Sun,2021-10-31,nan,Win,0,5-2,home,Miami Dolphins,26,11,24,351,249,102,0,16,262,194,68,2,4.52,8.74,1.89,Bills,2021
+7,9,Sun,2021-11-07,nan,Loss,0,5-3,away,Jacksonville Jaguars,6,9,17,301,229,72,3,16,218,139,79,1,-12.53,8.4,-1.32,Bills,2021
+8,10,Sun,2021-11-14,nan,Win,0,6-3,away,New York Jets,45,17,26,489,350,139,2,22,366,296,70,5,22.44,5.27,-0.62,Bills,2021
+9,11,Sun,2021-11-21,nan,Loss,0,6-4,home,Indianapolis Colts,15,41,19,311,220,91,4,28,370,106,264,0,2.8,-20.21,-6.78,Bills,2021
+10,12,Thu,2021-11-25,nan,Win,0,7-4,away,New Orleans Saints,31,6,21,361,248,113,2,12,190,146,44,1,11.92,15.07,0.25,Bills,2021
+11,13,Mon,2021-12-06,nan,Loss,0,7-5,home,New England Patriots,10,14,16,230,131,99,1,11,241,19,222,1,-7.94,1.79,0.85,Bills,2021
+12,14,Sun,2021-12-12,nan,Loss,1,7-6,away,Tampa Bay Buccaneers,27,33,27,466,293,173,1,26,488,351,137,0,7.42,-18.05,5.48,Bills,2021
+13,15,Sun,2021-12-19,nan,Win,0,8-6,home,Carolina Panthers,31,14,21,312,193,119,1,19,275,124,151,1,9.55,11.11,-1.29,Bills,2021
+14,16,Sun,2021-12-26,nan,Win,0,9-6,away,New England Patriots,33,21,28,428,314,114,0,20,288,139,149,2,19.09,-9.37,-1.08,Bills,2021
+15,17,Sun,2022-01-02,nan,Win,0,10-6,home,Atlanta Falcons,29,15,28,351,118,233,3,18,265,169,96,1,12.95,1.07,-1.41,Bills,2021
+16,18,Sun,2022-01-09,nan,Win,0,11-6,home,New York Jets,27,10,25,424,254,170,0,4,53,5,48,0,8.18,23.07,-14.05,Bills,2021
+17,20,Sat,2022-01-15,nan,Win,0,12-6,home,New England Patriots,47,17,29,482,308,174,0,20,305,216,89,2,40.37,-9.53,-1.53,Bills,2021
+18,21,Sun,2022-01-23,nan,Loss,1,12-7,away,Kansas City Chiefs,36,42,23,422,313,109,0,30,552,370,182,0,25.24,-32.62,-1.15,Bills,2021
