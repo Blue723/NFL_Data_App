@@ -1,75 +1,75 @@
-,No.,Player,BirthDate,Age,Height,Weight,College/University,Position,Games_Played_in_Season,Games_Started_in_Season,NFL_Years,Player_Value,Team,Year
-0,29.0,Joseph Addai,5/3/1983,27,5-11,214.0,LSU,RB,8,7.0,4.0,5.0,Colts,2010
-1,23.0,Al Afalava,1/20/1987,23,5-11,213.0,Oregon St.,DB,4,0.0,1.0,0.0,Colts,2010
-2,51.0,Pat Angerer,1/31/1987,23,6-0,232.0,Iowa,LLB,16,11.0,0.0,5.0,Colts,2010
-3,35.0,Joique Bell,8/4/1986,24,5-11,220.0,Wayne State (MI),RB,5,0.0,0.0,0.0,Colts,2010
-4,41.0,Antoine Bethea,7/27/1984,26,5-11,206.0,Howard,FS,16,16.0,4.0,5.0,Colts,2010
-5,58.0,Gary Brackett,5/23/1980,30,5-11,235.0,Rutgers,MLB,12,12.0,7.0,5.0,Colts,2010
-6,83.0,Chris Brooks,2/5/1987,23,6-2,215.0,Nebraska,WR,1,0.0,0.0,0.0,Colts,2010
-7,35.0,Andre Brown,12/15/1986,24,6-0,224.0,North Carolina St.,RB,1,0.0,0.0,0.0,Colts,2010
-8,39.0,Cornelius Brown,2/26/1988,22,5-11,198.0,Texas-El Paso,DB,10,0.0,0.0,1.0,Colts,2010
-9,31.0,Donald Brown,4/11/1987,23,5-11,210.0,Connecticut,RB,13,8.0,1.0,6.0,Colts,2010
-10,33.0,Melvin Bullitt,11/13/1984,26,6-1,200.0,Texas A&M,DB,4,3.0,3.0,1.0,Colts,2010
-11,44.0,Dallas Clark,6/12/1979,31,6-3,252.0,Iowa,TE,6,6.0,7.0,3.0,Colts,2010
-12,17.0,Austin Collie,11/11/1985,25,6-1,200.0,BYU,WR,9,6.0,1.0,6.0,Colts,2010
-13,53.0,Kavell Conner,2/23/1987,23,6-1,225.0,Clemson,RLB,12,9.0,0.0,4.0,Colts,2010
-14,96.0,Keyunta Dawson,9/13/1985,25,6-0,268.0,Texas Tech,DE,16,0.0,3.0,2.0,Colts,2010
-15,66.0,Kyle DeVan,2/10/1985,25,6-2,294.0,Oregon St.,LG,16,12.0,1.0,7.0,Colts,2010
-16,71.0,Ryan Diem,7/1/1979,31,6-6,320.0,Northern Illinois,RT,16,16.0,9.0,9.0,Colts,2010
-17,81.0,Brody Eldridge,3/31/1987,23,6-5,265.0,Oklahoma,TE,14,8.0,0.0,0.0,Colts,2010
-18,68.0,Eric Foster,4/5/1985,25,6-2,265.0,Rutgers,DT,16,0.0,2.0,2.0,Colts,2010
-19,43.0,Aaron Francisco,7/5/1983,27,6-2,207.0,BYU,SS,12,12.0,5.0,4.0,Colts,2010
-20,93.0,Dwight Freeney,2/19/1980,30,6-1,268.0,Syracuse,RDE,16,16.0,8.0,9.0,Colts,2010
-21,85.0,Pierre Garcon,8/8/1986,24,6-0,211.0,Mount Union,WR,14,14.0,2.0,8.0,Colts,2010
-22,52.0,Cody Glenn,10/6/1986,24,6-0,240.0,Nebraska,LB,10,0.0,1.0,1.0,Colts,2010
-23,11.0,Anthony Gonzalez,9/18/1984,26,6-0,193.0,Ohio St.,WR,2,0.0,3.0,1.0,Colts,2010
-24,56.0,Tyjuan Hagler,12/3/1981,29,6-0,236.0,Cincinnati,LB,13,2.0,4.0,4.0,Colts,2010
-25,35.0,Ken Hamlin,1/20/1981,29,6-2,209.0,Arkansas,DB,2,0.0,7.0,0.0,Colts,2010
-26,32.0,Mike Hart,4/9/1986,24,5-9,195.0,Michigan,RB,7,1.0,2.0,2.0,Colts,2010
-27,26.0,Kelvin Hayden,7/23/1983,27,6-0,195.0,Illinois,LCB,11,11.0,5.0,4.0,Colts,2010
-28,92.0,Jerry Hughes,8/13/1988,22,6-2,254.0,TCU,DE,12,0.0,0.0,1.0,Colts,2010
-29,59.0,Ramon Humber,8/10/1987,23,5-11,232.0,North Dakota St.,LB,2,0.0,1.0,0.0,Colts,2010
-30,12.0,Brandon James,12/21/1987,23,5-7,182.0,Florida,WR,3,0.0,0.0,0.0,Colts,2010
-31,42.0,Javarris James,9/18/1987,23,6-0,213.0,Miami (FL),RB,10,0.0,0.0,1.0,Colts,2010
-32,99.0,Antonio Johnson,12/8/1984,26,6-3,310.0,Mississippi St.,DT,14,2.0,2.0,2.0,Colts,2010
-33,74.0,Charlie Johnson,5/2/1984,26,6-4,305.0,Oklahoma St.,LT,15,15.0,4.0,8.0,Colts,2010
-34,3.0,Jeremy Kapinos,8/23/1984,26,6-1,235.0,Penn St.,P,1,0.0,3.0,0.0,Colts,2010
-35,37.0,Brandon King,1/28/1987,23,5-10,194.0,Purdue,DB,4,0.0,0.0,0.0,Colts,2010
-36,75.0,Mitch King,5/5/1986,24,6-1,275.0,Iowa,DT,4,0.0,0.0,0.0,Colts,2010
-37,27.0,Jacob Lacey,5/28/1987,23,5-10,177.0,Oklahoma St.,RCB,12,8.0,1.0,3.0,Colts,2010
-38,72.0,Jeff Linkenbach,6/9/1987,23,6-6,303.0,Cincinnati,T,16,4.0,0.0,4.0,Colts,2010
-39,18.0,Peyton Manning,3/24/1976,34,6-5,230.0,Tennessee,QB,16,16.0,12.0,16.0,Colts,2010
-40,91.0,Ricardo Mathews,7/30/1987,23,6-3,294.0,Cincinnati,DT,8,0.0,0.0,0.0,Colts,2010
-41,98.0,Robert Mathis,2/26/1981,29,6-2,245.0,Alabama A&M,LDE,16,16.0,7.0,10.0,Colts,2010
-42,1.0,Pat McAfee,5/2/1987,23,6-1,233.0,West Virginia,P,15,0.0,1.0,2.0,Colts,2010
-43,80.0,Jacques McClendon,12/10/1987,23,6-3,324.0,Tennessee,G,4,0.0,0.0,0.0,Colts,2010
-44,95.0,Fili Moala,6/23/1985,25,6-4,303.0,USC,LDT,16,16.0,1.0,7.0,Colts,2010
-45,45.0,Devin Moore,11/6/1985,25,5-10,191.0,Wyoming,RB,4,0.0,0.0,0.0,Colts,2010
-46,80.0,Kenny Moore,2/19/1985,25,5-11,199.0,Wake Forest,WR,2,0.0,1.0,0.0,Colts,2010
-47,34.0,DaJuan Morgan,10/21/1985,25,6-1,200.0,North Carolina St.,DB,2,0.0,2.0,0.0,Colts,2010
-48,90.0,Daniel Muir,9/12/1983,27,6-2,298.0,Kent St.,RDT,14,14.0,3.0,6.0,Colts,2010
-49,38.0,Mike Newton,11/11/1987,23,5-10,197.0,Buffalo,DB,12,0.0,0.0,1.0,Colts,2010
-50,34.0,David Pender,12/4/1987,23,6-0,174.0,Purdue,DB,3,0.0,0.0,0.0,Colts,2010
-51,78.0,Mike Pollak,2/16/1985,25,6-4,299.0,Arizona St.,RG,16,13.0,2.0,7.0,Colts,2010
-52,25.0,Jerraud Powers,7/19/1987,23,5-9,190.0,Auburn,RCB,10,10.0,1.0,4.0,Colts,2010
-53,30.0,Dominic Rhodes,1/17/1979,31,5-9,205.0,Midwestern St.,RB,3,0.0,9.0,1.0,Colts,2010
-54,61.0,Jamey Richard,10/9/1984,26,6-5,297.0,Buffalo,C,14,4.0,2.0,4.0,Colts,2010
-55,37.0,Mike Richardson,2/18/1984,26,5-11,190.0,Notre Dame,DB,1,0.0,2.0,0.0,Colts,2010
-56,47.0,Gijon Robinson,10/12/1984,26,6-1,255.0,Missouri Western St.,TE,11,2.0,2.0,0.0,Colts,2010
-57,21.0,Bob Sanders,2/24/1981,29,5-8,206.0,Iowa,DB,1,1.0,6.0,0.0,Colts,2010
-58,63.0,Jeff Saturday,6/18/1975,35,6-2,295.0,North Carolina,C,16,16.0,11.0,12.0,Colts,2010
-59,55.0,Clint Session,9/22/1984,26,5-10,222.0,Pittsburgh,RLB,5,5.0,3.0,2.0,Colts,2010
-60,10.0,Taj Smith,9/30/1983,27,6-0,194.0,Syracuse,WR,5,0.0,0.0,0.0,Colts,2010
-61,48.0,Justin Snow,12/21/1976,34,6-3,245.0,Baylor,LS,16,0.0,10.0,0.0,Colts,2010
-62,84.0,Jacob Tamme,3/15/1985,25,6-4,234.0,Kentucky,TE,16,8.0,2.0,6.0,Colts,2010
-63,73.0,Jaimie Thomas,8/24/1986,24,6-4,330.0,Maryland,G,8,0.0,0.0,1.0,Colts,2010
-64,75.0,Michael Toudouze,4/27/1983,27,6-6,302.0,TCU,G,1,0.0,3.0,0.0,Colts,2010
-65,23.0,Deshea Townsend,9/8/1975,35,5-10,190.0,Alabama,DB,8,0.0,12.0,0.0,Colts,2010
-66,54.0,Nate Triplett,3/15/1987,23,6-3,240.0,Minnesota,LB,5,0.0,0.0,0.0,Colts,2010
-67,20.0,Justin Tryon,5/29/1984,26,5-11,185.0,Arizona St.,LCB,12,6.0,2.0,2.0,Colts,2010
-68,49.0,Chip Vaughn,10/26/1985,25,6-1,218.0,Wake Forest,DB,3,0.0,0.0,0.0,Colts,2010
-69,4.0,Adam Vinatieri,12/28/1972,38,6-0,212.0,South Dakota St.,K,16,0.0,14.0,5.0,Colts,2010
-70,87.0,Reggie Wayne,11/17/1978,32,6-0,203.0,Miami (FL),WR,16,16.0,9.0,13.0,Colts,2010
-71,50.0,Philip Wheeler,12/12/1984,26,6-2,245.0,Georgia Tech,LLB,16,6.0,2.0,3.0,Colts,2010
-72,15.0,Blair White,2/20/1987,23,6-2,205.0,Michigan St.,WR,13,4.0,0.0,3.0,Colts,2010
-73,,Team Total,,26,6-0.8,234.8,,,16,,2.9,,Colts,2010
+No.,Player,BirthDate,Age,Height,Weight,College/University,Position,Games_Played_in_Season,Games_Started_in_Season,NFL_Years,Player_Value,Team,Year
+29.0,Joseph Addai,5/3/1983,27,5-11,214.0,LSU,RB,8,7.0,4.0,5.0,Colts,2010
+23.0,Al Afalava,1/20/1987,23,5-11,213.0,Oregon St.,DB,4,0.0,1.0,0.0,Colts,2010
+51.0,Pat Angerer,1/31/1987,23,6-0,232.0,Iowa,LLB,16,11.0,0.0,5.0,Colts,2010
+35.0,Joique Bell,8/4/1986,24,5-11,220.0,Wayne State (MI),RB,5,0.0,0.0,0.0,Colts,2010
+41.0,Antoine Bethea,7/27/1984,26,5-11,206.0,Howard,FS,16,16.0,4.0,5.0,Colts,2010
+58.0,Gary Brackett,5/23/1980,30,5-11,235.0,Rutgers,MLB,12,12.0,7.0,5.0,Colts,2010
+83.0,Chris Brooks,2/5/1987,23,6-2,215.0,Nebraska,WR,1,0.0,0.0,0.0,Colts,2010
+35.0,Andre Brown,12/15/1986,24,6-0,224.0,North Carolina St.,RB,1,0.0,0.0,0.0,Colts,2010
+39.0,Cornelius Brown,2/26/1988,22,5-11,198.0,Texas-El Paso,DB,10,0.0,0.0,1.0,Colts,2010
+31.0,Donald Brown,4/11/1987,23,5-11,210.0,Connecticut,RB,13,8.0,1.0,6.0,Colts,2010
+33.0,Melvin Bullitt,11/13/1984,26,6-1,200.0,Texas A&M,DB,4,3.0,3.0,1.0,Colts,2010
+44.0,Dallas Clark,6/12/1979,31,6-3,252.0,Iowa,TE,6,6.0,7.0,3.0,Colts,2010
+17.0,Austin Collie,11/11/1985,25,6-1,200.0,BYU,WR,9,6.0,1.0,6.0,Colts,2010
+53.0,Kavell Conner,2/23/1987,23,6-1,225.0,Clemson,RLB,12,9.0,0.0,4.0,Colts,2010
+96.0,Keyunta Dawson,9/13/1985,25,6-0,268.0,Texas Tech,DE,16,0.0,3.0,2.0,Colts,2010
+66.0,Kyle DeVan,2/10/1985,25,6-2,294.0,Oregon St.,LG,16,12.0,1.0,7.0,Colts,2010
+71.0,Ryan Diem,7/1/1979,31,6-6,320.0,Northern Illinois,RT,16,16.0,9.0,9.0,Colts,2010
+81.0,Brody Eldridge,3/31/1987,23,6-5,265.0,Oklahoma,TE,14,8.0,0.0,0.0,Colts,2010
+68.0,Eric Foster,4/5/1985,25,6-2,265.0,Rutgers,DT,16,0.0,2.0,2.0,Colts,2010
+43.0,Aaron Francisco,7/5/1983,27,6-2,207.0,BYU,SS,12,12.0,5.0,4.0,Colts,2010
+93.0,Dwight Freeney,2/19/1980,30,6-1,268.0,Syracuse,RDE,16,16.0,8.0,9.0,Colts,2010
+85.0,Pierre Garcon,8/8/1986,24,6-0,211.0,Mount Union,WR,14,14.0,2.0,8.0,Colts,2010
+52.0,Cody Glenn,10/6/1986,24,6-0,240.0,Nebraska,LB,10,0.0,1.0,1.0,Colts,2010
+11.0,Anthony Gonzalez,9/18/1984,26,6-0,193.0,Ohio St.,WR,2,0.0,3.0,1.0,Colts,2010
+56.0,Tyjuan Hagler,12/3/1981,29,6-0,236.0,Cincinnati,LB,13,2.0,4.0,4.0,Colts,2010
+35.0,Ken Hamlin,1/20/1981,29,6-2,209.0,Arkansas,DB,2,0.0,7.0,0.0,Colts,2010
+32.0,Mike Hart,4/9/1986,24,5-9,195.0,Michigan,RB,7,1.0,2.0,2.0,Colts,2010
+26.0,Kelvin Hayden,7/23/1983,27,6-0,195.0,Illinois,LCB,11,11.0,5.0,4.0,Colts,2010
+92.0,Jerry Hughes,8/13/1988,22,6-2,254.0,TCU,DE,12,0.0,0.0,1.0,Colts,2010
+59.0,Ramon Humber,8/10/1987,23,5-11,232.0,North Dakota St.,LB,2,0.0,1.0,0.0,Colts,2010
+12.0,Brandon James,12/21/1987,23,5-7,182.0,Florida,WR,3,0.0,0.0,0.0,Colts,2010
+42.0,Javarris James,9/18/1987,23,6-0,213.0,Miami (FL),RB,10,0.0,0.0,1.0,Colts,2010
+99.0,Antonio Johnson,12/8/1984,26,6-3,310.0,Mississippi St.,DT,14,2.0,2.0,2.0,Colts,2010
+74.0,Charlie Johnson,5/2/1984,26,6-4,305.0,Oklahoma St.,LT,15,15.0,4.0,8.0,Colts,2010
+3.0,Jeremy Kapinos,8/23/1984,26,6-1,235.0,Penn St.,P,1,0.0,3.0,0.0,Colts,2010
+37.0,Brandon King,1/28/1987,23,5-10,194.0,Purdue,DB,4,0.0,0.0,0.0,Colts,2010
+75.0,Mitch King,5/5/1986,24,6-1,275.0,Iowa,DT,4,0.0,0.0,0.0,Colts,2010
+27.0,Jacob Lacey,5/28/1987,23,5-10,177.0,Oklahoma St.,RCB,12,8.0,1.0,3.0,Colts,2010
+72.0,Jeff Linkenbach,6/9/1987,23,6-6,303.0,Cincinnati,T,16,4.0,0.0,4.0,Colts,2010
+18.0,Peyton Manning,3/24/1976,34,6-5,230.0,Tennessee,QB,16,16.0,12.0,16.0,Colts,2010
+91.0,Ricardo Mathews,7/30/1987,23,6-3,294.0,Cincinnati,DT,8,0.0,0.0,0.0,Colts,2010
+98.0,Robert Mathis,2/26/1981,29,6-2,245.0,Alabama A&M,LDE,16,16.0,7.0,10.0,Colts,2010
+1.0,Pat McAfee,5/2/1987,23,6-1,233.0,West Virginia,P,15,0.0,1.0,2.0,Colts,2010
+80.0,Jacques McClendon,12/10/1987,23,6-3,324.0,Tennessee,G,4,0.0,0.0,0.0,Colts,2010
+95.0,Fili Moala,6/23/1985,25,6-4,303.0,USC,LDT,16,16.0,1.0,7.0,Colts,2010
+45.0,Devin Moore,11/6/1985,25,5-10,191.0,Wyoming,RB,4,0.0,0.0,0.0,Colts,2010
+80.0,Kenny Moore,2/19/1985,25,5-11,199.0,Wake Forest,WR,2,0.0,1.0,0.0,Colts,2010
+34.0,DaJuan Morgan,10/21/1985,25,6-1,200.0,North Carolina St.,DB,2,0.0,2.0,0.0,Colts,2010
+90.0,Daniel Muir,9/12/1983,27,6-2,298.0,Kent St.,RDT,14,14.0,3.0,6.0,Colts,2010
+38.0,Mike Newton,11/11/1987,23,5-10,197.0,Buffalo,DB,12,0.0,0.0,1.0,Colts,2010
+34.0,David Pender,12/4/1987,23,6-0,174.0,Purdue,DB,3,0.0,0.0,0.0,Colts,2010
+78.0,Mike Pollak,2/16/1985,25,6-4,299.0,Arizona St.,RG,16,13.0,2.0,7.0,Colts,2010
+25.0,Jerraud Powers,7/19/1987,23,5-9,190.0,Auburn,RCB,10,10.0,1.0,4.0,Colts,2010
+30.0,Dominic Rhodes,1/17/1979,31,5-9,205.0,Midwestern St.,RB,3,0.0,9.0,1.0,Colts,2010
+61.0,Jamey Richard,10/9/1984,26,6-5,297.0,Buffalo,C,14,4.0,2.0,4.0,Colts,2010
+37.0,Mike Richardson,2/18/1984,26,5-11,190.0,Notre Dame,DB,1,0.0,2.0,0.0,Colts,2010
+47.0,Gijon Robinson,10/12/1984,26,6-1,255.0,Missouri Western St.,TE,11,2.0,2.0,0.0,Colts,2010
+21.0,Bob Sanders,2/24/1981,29,5-8,206.0,Iowa,DB,1,1.0,6.0,0.0,Colts,2010
+63.0,Jeff Saturday,6/18/1975,35,6-2,295.0,North Carolina,C,16,16.0,11.0,12.0,Colts,2010
+55.0,Clint Session,9/22/1984,26,5-10,222.0,Pittsburgh,RLB,5,5.0,3.0,2.0,Colts,2010
+10.0,Taj Smith,9/30/1983,27,6-0,194.0,Syracuse,WR,5,0.0,0.0,0.0,Colts,2010
+48.0,Justin Snow,12/21/1976,34,6-3,245.0,Baylor,LS,16,0.0,10.0,0.0,Colts,2010
+84.0,Jacob Tamme,3/15/1985,25,6-4,234.0,Kentucky,TE,16,8.0,2.0,6.0,Colts,2010
+73.0,Jaimie Thomas,8/24/1986,24,6-4,330.0,Maryland,G,8,0.0,0.0,1.0,Colts,2010
+75.0,Michael Toudouze,4/27/1983,27,6-6,302.0,TCU,G,1,0.0,3.0,0.0,Colts,2010
+23.0,Deshea Townsend,9/8/1975,35,5-10,190.0,Alabama,DB,8,0.0,12.0,0.0,Colts,2010
+54.0,Nate Triplett,3/15/1987,23,6-3,240.0,Minnesota,LB,5,0.0,0.0,0.0,Colts,2010
+20.0,Justin Tryon,5/29/1984,26,5-11,185.0,Arizona St.,LCB,12,6.0,2.0,2.0,Colts,2010
+49.0,Chip Vaughn,10/26/1985,25,6-1,218.0,Wake Forest,DB,3,0.0,0.0,0.0,Colts,2010
+4.0,Adam Vinatieri,12/28/1972,38,6-0,212.0,South Dakota St.,K,16,0.0,14.0,5.0,Colts,2010
+87.0,Reggie Wayne,11/17/1978,32,6-0,203.0,Miami (FL),WR,16,16.0,9.0,13.0,Colts,2010
+50.0,Philip Wheeler,12/12/1984,26,6-2,245.0,Georgia Tech,LLB,16,6.0,2.0,3.0,Colts,2010
+15.0,Blair White,2/20/1987,23,6-2,205.0,Michigan St.,WR,13,4.0,0.0,3.0,Colts,2010
+,Team Total,,26,6-0.8,234.8,,,16,,2.9,,Colts,2010

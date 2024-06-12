@@ -1,68 +1,68 @@
-,No.,Player,BirthDate,Age,Height,Weight,College/University,Position,Games_Played_in_Season,Games_Started_in_Season,NFL_Years,Player_Value,Team,Year
-0,45.0,Jamar Adams,11/29/1985,25.0,6-2,209.0,Michigan,DB,1,1.0,2.0,0.0,Eagles,2010
-1,2.0,David Akers,12/9/1974,36.0,5-10,200.0,Louisville,K,16,0.0,12.0,3.0,Eagles,2010
-2,29.0,Nate Allen,11/30/1987,23.0,6-1,205.0,South Florida,FS,13,13.0,0.0,5.0,Eagles,2010
-3,30.0,Colt Anderson,10/25/1985,25.0,5-10,194.0,Montana,DB,8,2.0,0.0,1.0,Eagles,2010
-4,81.0,Jason Avant,4/20/1983,27.0,6-0,210.0,Michigan,WR,16,3.0,4.0,5.0,Eagles,2010
-5,51.0,Antwan Barnes,10/19/1984,26.0,6-1,240.0,Florida International,LB,2,0.0,3.0,0.0,Eagles,2010
-6,84.0,Hank Baskett,9/4/1982,28.0,6-4,220.0,New Mexico,WR,2,0.0,4.0,0.0,Eagles,2010
-7,24.0,Joique Bell,8/4/1986,24.0,5-11,220.0,Wayne State (MI),RB,3,0.0,0.0,0.0,Eagles,2010
-8,26.0,Mike Bell,4/23/1983,27.0,6-0,225.0,Arizona,RB,5,0.0,4.0,0.0,Eagles,2010
-9,55.0,Stewart Bradley,11/2/1983,27.0,6-4,254.0,Nebraska,MLB,12,12.0,3.0,5.0,Eagles,2010
-10,34.0,Eldra Buckley,6/23/1985,25.0,5-9,202.0,"Northwest Mississippi CC,Chattanooga",RB,16,0.0,1.0,1.0,Eagles,2010
-11,97.0,Brodrick Bunkley,11/23/1983,27.0,6-2,306.0,Florida St.,RDT,14,5.0,4.0,3.0,Eagles,2010
-12,73.0,Derrick Burgess,8/12/1978,32.0,6-2,260.0,Mississippi,DE,1,0.0,9.0,0.0,Eagles,2010
-13,38.0,Jorrick Calvin,7/17/1987,23.0,5-10,182.0,Troy,DB,12,0.0,0.0,1.0,Eagles,2010
-14,87.0,Brent Celek,1/25/1985,25.0,6-4,261.0,Cincinnati,TE,16,15.0,3.0,5.0,Eagles,2010
-15,49.0,Jamar Chaney,10/11/1986,24.0,6-1,242.0,Mississippi St.,LB,14,2.0,0.0,2.0,Eagles,2010
-16,63.0,Jeremy Clark,9/6/1983,27.0,6-2,305.0,Alabama,DT,1,1.0,2.0,0.0,Eagles,2010
-17,57.0,Keenan Clayton,6/19/1987,23.0,6-2,220.0,Oklahoma,LB,7,1.0,0.0,1.0,Eagles,2010
-18,59.0,Nick Cole,7/28/1984,26.0,6-0,350.0,New Mexico St.,RG,13,7.0,4.0,4.0,Eagles,2010
-19,58.0,Trent Cole,10/5/1982,28.0,6-3,270.0,Cincinnati,RDE,15,15.0,5.0,7.0,Eagles,2010
-20,42.0,Kurt Coleman,7/1/1988,22.0,5-11,208.0,Ohio St.,DB,15,2.0,0.0,2.0,Eagles,2010
-21,14.0,Riley Cooper,9/9/1987,23.0,6-3,214.0,Florida,WR,13,2.0,0.0,1.0,Eagles,2010
-22,90.0,Antonio Dixon,7/17/1985,25.0,6-2,325.0,Miami (FL),RDT,15,10.0,1.0,4.0,Eagles,2010
-23,46.0,Jon Dorenbos,7/21/1980,30.0,6-0,250.0,Texas-El Paso,LS,16,0.0,7.0,2.0,Eagles,2010
-24,65.0,King Dunlap,9/9/1985,25.0,6-8,310.0,Auburn,RT,14,5.0,1.0,4.0,Eagles,2010
-25,53.0,Moise Fokou,8/28/1985,25.0,6-1,228.0,Maryland,RLB,16,11.0,1.0,5.0,Eagles,2010
-26,96.0,Omar Gaither,3/18/1984,26.0,6-2,235.0,Tennessee,LB,14,2.0,4.0,2.0,Eagles,2010
-27,54.0,Brandon Graham,4/3/1988,22.0,6-2,265.0,Michigan,LDE,13,6.0,0.0,3.0,Eagles,2010
-28,16.0,Chad Hall,5/23/1986,24.0,5-8,180.0,Air Force,WR,8,1.0,0.0,1.0,Eagles,2010
-29,21.0,Joselio Hanson,8/13/1981,29.0,5-9,180.0,Texas Tech,LCB,15,6.0,6.0,3.0,Eagles,2010
-30,82.0,Clay Harbor,7/2/1987,23.0,6-3,240.0,Missouri State,TE,9,6.0,0.0,1.0,Eagles,2010
-31,33.0,Jerome Harrison,2/26/1983,27.0,5-9,205.0,Washington St.,RB,8,1.0,4.0,2.0,Eagles,2010
-32,79.0,Todd Herremans,10/13/1982,28.0,6-6,323.0,Saginaw Valley St.,LG,16,15.0,5.0,8.0,Eagles,2010
-33,31.0,Ellis Hobbs,5/16/1983,27.0,5-9,195.0,Iowa St.,RCB,8,7.0,5.0,3.0,Eagles,2010
-34,68.0,Austin Howard,3/22/1987,23.0,6-7,330.0,Northern Iowa,T,4,1.0,0.0,1.0,Eagles,2010
-35,24.0,Brandon Hughes,5/23/1986,24.0,5-11,178.0,Oregon St.,DB,1,0.0,0.0,0.0,Eagles,2010
-36,10.0,DeSean Jackson,12/1/1986,24.0,5-10,175.0,California,WR,14,14.0,2.0,11.0,Eagles,2010
-37,67.0,Jamaal Jackson,5/8/1980,30.0,6-4,325.0,Delaware St.,C,1,1.0,5.0,1.0,Eagles,2010
-38,62.0,Max Jean-Gilles,11/19/1983,27.0,6-3,325.0,Georgia,RG,13,10.0,3.0,6.0,Eagles,2010
-39,56.0,Akeem Jordan,8/17/1985,25.0,6-1,226.0,James Madison,LB,16,3.0,3.0,2.0,Eagles,2010
-40,74.0,Winston Justice,9/14/1984,26.0,6-6,317.0,USC,RT,13,13.0,3.0,7.0,Eagles,2010
-41,4.0,Kevin Kolb,8/24/1984,26.0,6-3,218.0,Houston,QB,7,5.0,3.0,3.0,Eagles,2010
-42,93.0,Trevor Laws,6/14/1985,25.0,6-1,297.0,Notre Dame,DT,15,1.0,2.0,2.0,Eagles,2010
-43,47.0,Gerard Lawson,1/12/1985,25.0,5-10,195.0,Oregon St.,DB,1,0.0,2.0,0.0,Eagles,2010
-44,35.0,Trevard Lindley,2/2/1986,24.0,5-11,178.0,Kentucky,DB,11,1.0,0.0,1.0,Eagles,2010
-45,18.0,Jeremy Maclin,5/11/1988,22.0,6-0,200.0,Missouri,WR,16,16.0,1.0,9.0,Eagles,2010
-46,25.0,LeSean McCoy,7/12/1988,22.0,5-11,210.0,Pittsburgh,RB,15,13.0,1.0,13.0,Eagles,2010
-47,73.0,Bobby McCray,11/1/1981,29.0,6-6,260.0,Florida,DE,1,0.0,6.0,0.0,Eagles,2010
-48,77.0,Mike McGlynn,3/8/1985,25.0,6-5,309.0,Pittsburgh,C,16,14.0,2.0,8.0,Eagles,2010
-49,27.0,Quintin Mikell,9/16/1980,30.0,5-10,204.0,Boise St.,SS,15,15.0,7.0,11.0,Eagles,2010
-50,89.0,Garrett Mills,10/12/1983,27.0,6-1,235.0,Tulsa,FB,7,3.0,3.0,0.0,Eagles,2010
-51,64.0,Jeff Owens,10/14/1986,24.0,6-1,303.0,Georgia,DT,1,0.0,0.0,0.0,Eagles,2010
-52,75.0,Juqua Parker,5/15/1978,32.0,6-2,250.0,Oklahoma St.,LDE,13,10.0,9.0,5.0,Eagles,2010
-53,23.0,Dimitri Patterson,6/18/1983,27.0,6-0,200.0,"SE Missouri St.,Tuskegee",RCB,16,9.0,5.0,5.0,Eagles,2010
-54,98.0,Mike Patterson,9/1/1983,27.0,6-1,300.0,USC,LDT,15,14.0,5.0,6.0,Eagles,2010
-55,71.0,Jason Peters,1/22/1982,28.0,6-4,328.0,Arkansas,LT,13,13.0,6.0,12.0,Eagles,2010
-56,6.0,Saverio Rocca,11/20/1973,37.0,6-5,265.0,,P,16,0.0,3.0,2.0,Eagles,2010
-57,22.0,Asante Samuel,1/6/1981,29.0,5-10,185.0,Central Florida,LCB,11,10.0,7.0,8.0,Eagles,2010
-58,32.0,Owen Schmitt,2/13/1985,25.0,6-2,251.0,West Virginia,FB,15,5.0,2.0,1.0,Eagles,2010
-59,50.0,Ernie Sims,12/23/1984,26.0,6-0,233.0,Florida St.,LLB,15,15.0,4.0,6.0,Eagles,2010
-60,91.0,Darryl Tapp,9/13/1984,26.0,6-1,270.0,Virginia Tech,DE,14,1.0,4.0,3.0,Eagles,2010
-61,52.0,Daniel Te'o-Nesheim,11/30/1986,24.0,6-3,250.0,Washington,DE,6,1.0,0.0,1.0,Eagles,2010
-62,7.0,Michael Vick,6/26/1980,30.0,6-0,210.0,Virginia Tech,QB,12,12.0,9.0,15.0,Eagles,2010
-63,37.0,Jamar Wall,1/10/1988,22.0,5-10,195.0,Texas Tech,DB,1,0.0,0.0,0.0,Eagles,2010
-64,43.0,Leonard Weaver,9/23/1982,28.0,6-0,250.0,Carson-Newman,RB,1,0.0,5.0,0.0,Eagles,2010
-65,76.0,Reggie Wells,11/3/1980,30.0,6-4,318.0,Clarion,G,8,1.0,7.0,1.0,Eagles,2010
-66,,Team Total,,26.3,6-1.2,244.3,,,16,,3.1,,Eagles,2010
+No.,Player,BirthDate,Age,Height,Weight,College/University,Position,Games_Played_in_Season,Games_Started_in_Season,NFL_Years,Player_Value,Team,Year
+45.0,Jamar Adams,11/29/1985,25.0,6-2,209.0,Michigan,DB,1,1.0,2.0,0.0,Eagles,2010
+2.0,David Akers,12/9/1974,36.0,5-10,200.0,Louisville,K,16,0.0,12.0,3.0,Eagles,2010
+29.0,Nate Allen,11/30/1987,23.0,6-1,205.0,South Florida,FS,13,13.0,0.0,5.0,Eagles,2010
+30.0,Colt Anderson,10/25/1985,25.0,5-10,194.0,Montana,DB,8,2.0,0.0,1.0,Eagles,2010
+81.0,Jason Avant,4/20/1983,27.0,6-0,210.0,Michigan,WR,16,3.0,4.0,5.0,Eagles,2010
+51.0,Antwan Barnes,10/19/1984,26.0,6-1,240.0,Florida International,LB,2,0.0,3.0,0.0,Eagles,2010
+84.0,Hank Baskett,9/4/1982,28.0,6-4,220.0,New Mexico,WR,2,0.0,4.0,0.0,Eagles,2010
+24.0,Joique Bell,8/4/1986,24.0,5-11,220.0,Wayne State (MI),RB,3,0.0,0.0,0.0,Eagles,2010
+26.0,Mike Bell,4/23/1983,27.0,6-0,225.0,Arizona,RB,5,0.0,4.0,0.0,Eagles,2010
+55.0,Stewart Bradley,11/2/1983,27.0,6-4,254.0,Nebraska,MLB,12,12.0,3.0,5.0,Eagles,2010
+34.0,Eldra Buckley,6/23/1985,25.0,5-9,202.0,"Northwest Mississippi CC,Chattanooga",RB,16,0.0,1.0,1.0,Eagles,2010
+97.0,Brodrick Bunkley,11/23/1983,27.0,6-2,306.0,Florida St.,RDT,14,5.0,4.0,3.0,Eagles,2010
+73.0,Derrick Burgess,8/12/1978,32.0,6-2,260.0,Mississippi,DE,1,0.0,9.0,0.0,Eagles,2010
+38.0,Jorrick Calvin,7/17/1987,23.0,5-10,182.0,Troy,DB,12,0.0,0.0,1.0,Eagles,2010
+87.0,Brent Celek,1/25/1985,25.0,6-4,261.0,Cincinnati,TE,16,15.0,3.0,5.0,Eagles,2010
+49.0,Jamar Chaney,10/11/1986,24.0,6-1,242.0,Mississippi St.,LB,14,2.0,0.0,2.0,Eagles,2010
+63.0,Jeremy Clark,9/6/1983,27.0,6-2,305.0,Alabama,DT,1,1.0,2.0,0.0,Eagles,2010
+57.0,Keenan Clayton,6/19/1987,23.0,6-2,220.0,Oklahoma,LB,7,1.0,0.0,1.0,Eagles,2010
+59.0,Nick Cole,7/28/1984,26.0,6-0,350.0,New Mexico St.,RG,13,7.0,4.0,4.0,Eagles,2010
+58.0,Trent Cole,10/5/1982,28.0,6-3,270.0,Cincinnati,RDE,15,15.0,5.0,7.0,Eagles,2010
+42.0,Kurt Coleman,7/1/1988,22.0,5-11,208.0,Ohio St.,DB,15,2.0,0.0,2.0,Eagles,2010
+14.0,Riley Cooper,9/9/1987,23.0,6-3,214.0,Florida,WR,13,2.0,0.0,1.0,Eagles,2010
+90.0,Antonio Dixon,7/17/1985,25.0,6-2,325.0,Miami (FL),RDT,15,10.0,1.0,4.0,Eagles,2010
+46.0,Jon Dorenbos,7/21/1980,30.0,6-0,250.0,Texas-El Paso,LS,16,0.0,7.0,2.0,Eagles,2010
+65.0,King Dunlap,9/9/1985,25.0,6-8,310.0,Auburn,RT,14,5.0,1.0,4.0,Eagles,2010
+53.0,Moise Fokou,8/28/1985,25.0,6-1,228.0,Maryland,RLB,16,11.0,1.0,5.0,Eagles,2010
+96.0,Omar Gaither,3/18/1984,26.0,6-2,235.0,Tennessee,LB,14,2.0,4.0,2.0,Eagles,2010
+54.0,Brandon Graham,4/3/1988,22.0,6-2,265.0,Michigan,LDE,13,6.0,0.0,3.0,Eagles,2010
+16.0,Chad Hall,5/23/1986,24.0,5-8,180.0,Air Force,WR,8,1.0,0.0,1.0,Eagles,2010
+21.0,Joselio Hanson,8/13/1981,29.0,5-9,180.0,Texas Tech,LCB,15,6.0,6.0,3.0,Eagles,2010
+82.0,Clay Harbor,7/2/1987,23.0,6-3,240.0,Missouri State,TE,9,6.0,0.0,1.0,Eagles,2010
+33.0,Jerome Harrison,2/26/1983,27.0,5-9,205.0,Washington St.,RB,8,1.0,4.0,2.0,Eagles,2010
+79.0,Todd Herremans,10/13/1982,28.0,6-6,323.0,Saginaw Valley St.,LG,16,15.0,5.0,8.0,Eagles,2010
+31.0,Ellis Hobbs,5/16/1983,27.0,5-9,195.0,Iowa St.,RCB,8,7.0,5.0,3.0,Eagles,2010
+68.0,Austin Howard,3/22/1987,23.0,6-7,330.0,Northern Iowa,T,4,1.0,0.0,1.0,Eagles,2010
+24.0,Brandon Hughes,5/23/1986,24.0,5-11,178.0,Oregon St.,DB,1,0.0,0.0,0.0,Eagles,2010
+10.0,DeSean Jackson,12/1/1986,24.0,5-10,175.0,California,WR,14,14.0,2.0,11.0,Eagles,2010
+67.0,Jamaal Jackson,5/8/1980,30.0,6-4,325.0,Delaware St.,C,1,1.0,5.0,1.0,Eagles,2010
+62.0,Max Jean-Gilles,11/19/1983,27.0,6-3,325.0,Georgia,RG,13,10.0,3.0,6.0,Eagles,2010
+56.0,Akeem Jordan,8/17/1985,25.0,6-1,226.0,James Madison,LB,16,3.0,3.0,2.0,Eagles,2010
+74.0,Winston Justice,9/14/1984,26.0,6-6,317.0,USC,RT,13,13.0,3.0,7.0,Eagles,2010
+4.0,Kevin Kolb,8/24/1984,26.0,6-3,218.0,Houston,QB,7,5.0,3.0,3.0,Eagles,2010
+93.0,Trevor Laws,6/14/1985,25.0,6-1,297.0,Notre Dame,DT,15,1.0,2.0,2.0,Eagles,2010
+47.0,Gerard Lawson,1/12/1985,25.0,5-10,195.0,Oregon St.,DB,1,0.0,2.0,0.0,Eagles,2010
+35.0,Trevard Lindley,2/2/1986,24.0,5-11,178.0,Kentucky,DB,11,1.0,0.0,1.0,Eagles,2010
+18.0,Jeremy Maclin,5/11/1988,22.0,6-0,200.0,Missouri,WR,16,16.0,1.0,9.0,Eagles,2010
+25.0,LeSean McCoy,7/12/1988,22.0,5-11,210.0,Pittsburgh,RB,15,13.0,1.0,13.0,Eagles,2010
+73.0,Bobby McCray,11/1/1981,29.0,6-6,260.0,Florida,DE,1,0.0,6.0,0.0,Eagles,2010
+77.0,Mike McGlynn,3/8/1985,25.0,6-5,309.0,Pittsburgh,C,16,14.0,2.0,8.0,Eagles,2010
+27.0,Quintin Mikell,9/16/1980,30.0,5-10,204.0,Boise St.,SS,15,15.0,7.0,11.0,Eagles,2010
+89.0,Garrett Mills,10/12/1983,27.0,6-1,235.0,Tulsa,FB,7,3.0,3.0,0.0,Eagles,2010
+64.0,Jeff Owens,10/14/1986,24.0,6-1,303.0,Georgia,DT,1,0.0,0.0,0.0,Eagles,2010
+75.0,Juqua Parker,5/15/1978,32.0,6-2,250.0,Oklahoma St.,LDE,13,10.0,9.0,5.0,Eagles,2010
+23.0,Dimitri Patterson,6/18/1983,27.0,6-0,200.0,"SE Missouri St.,Tuskegee",RCB,16,9.0,5.0,5.0,Eagles,2010
+98.0,Mike Patterson,9/1/1983,27.0,6-1,300.0,USC,LDT,15,14.0,5.0,6.0,Eagles,2010
+71.0,Jason Peters,1/22/1982,28.0,6-4,328.0,Arkansas,LT,13,13.0,6.0,12.0,Eagles,2010
+6.0,Saverio Rocca,11/20/1973,37.0,6-5,265.0,,P,16,0.0,3.0,2.0,Eagles,2010
+22.0,Asante Samuel,1/6/1981,29.0,5-10,185.0,Central Florida,LCB,11,10.0,7.0,8.0,Eagles,2010
+32.0,Owen Schmitt,2/13/1985,25.0,6-2,251.0,West Virginia,FB,15,5.0,2.0,1.0,Eagles,2010
+50.0,Ernie Sims,12/23/1984,26.0,6-0,233.0,Florida St.,LLB,15,15.0,4.0,6.0,Eagles,2010
+91.0,Darryl Tapp,9/13/1984,26.0,6-1,270.0,Virginia Tech,DE,14,1.0,4.0,3.0,Eagles,2010
+52.0,Daniel Te'o-Nesheim,11/30/1986,24.0,6-3,250.0,Washington,DE,6,1.0,0.0,1.0,Eagles,2010
+7.0,Michael Vick,6/26/1980,30.0,6-0,210.0,Virginia Tech,QB,12,12.0,9.0,15.0,Eagles,2010
+37.0,Jamar Wall,1/10/1988,22.0,5-10,195.0,Texas Tech,DB,1,0.0,0.0,0.0,Eagles,2010
+43.0,Leonard Weaver,9/23/1982,28.0,6-0,250.0,Carson-Newman,RB,1,0.0,5.0,0.0,Eagles,2010
+76.0,Reggie Wells,11/3/1980,30.0,6-4,318.0,Clarion,G,8,1.0,7.0,1.0,Eagles,2010
+,Team Total,,26.3,6-1.2,244.3,,,16,,3.1,,Eagles,2010

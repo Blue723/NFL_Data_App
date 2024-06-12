@@ -1,68 +1,68 @@
-,No.,Player,BirthDate,Age,Height,Weight,College/University,Position,Games_Played_in_Season,Games_Started_in_Season,NFL_Years,Player_Value,Team,Year
-0,73.0,Shawn Andrews,12/25/1982,28.0,6-4,335.0,Arkansas,LT,13,7.0,6.0,4.0,Giants,2010
-1,81.0,Jake Ballard,12/2/1987,23.0,6-6,256.0,Ohio St.,TE,1,0.0,0.0,0.0,Giants,2010
-2,13.0,Ramses Barden,1/1/1986,24.0,6-6,227.0,Cal Poly-San Luis Obispo,WR,6,0.0,1.0,1.0,Giants,2010
-3,65.0,Will Beatty,3/2/1985,25.0,6-6,291.0,Connecticut,T,8,2.0,1.0,2.0,Giants,2010
-4,47.0,Travis Beckum,1/24/1987,23.0,6-3,240.0,Wisconsin,TE,16,2.0,1.0,1.0,Giants,2010
-5,95.0,Rocky Bernard,4/19/1979,31.0,6-3,301.0,Texas A&M,DT,14,0.0,8.0,2.0,Giants,2010
-6,57.0,Chase Blackburn,6/10/1983,27.0,6-3,240.0,Akron,LB,14,0.0,5.0,2.0,Giants,2010
-7,30.0,Will Blackmon,10/27/1984,26.0,6-0,212.0,Boston Col.,DB,5,0.0,4.0,0.0,Giants,2010
-8,59.0,Michael Boley,8/24/1982,28.0,6-3,230.0,Southern Miss,RLB,16,15.0,5.0,7.0,Giants,2010
-9,77.0,Kevin Boothe,7/5/1983,27.0,6-5,325.0,Cornell,LG,8,5.0,4.0,3.0,Giants,2010
-10,89.0,Kevin Boss,1/11/1984,26.0,6-7,255.0,Western Oregon,TE,15,13.0,3.0,5.0,Giants,2010
-11,44.0,Ahmad Bradshaw,3/19/1986,24.0,5-11,195.0,Marshall,RB,16,11.0,3.0,10.0,Giants,2010
-12,53.0,Keith Bulluck,4/4/1977,33.0,6-3,235.0,Syracuse,LLB,13,8.0,10.0,4.0,Giants,2010
-13,84.0,Duke Calhoun,9/1/1987,23.0,6-4,205.0,Memphis,WR,9,0.0,0.0,0.0,Giants,2010
-14,99.0,Chris Canty,11/10/1982,28.0,6-7,317.0,Virginia,RDT,16,16.0,5.0,7.0,Giants,2010
-15,83.0,Michael Clayton,10/13/1982,28.0,6-3,202.0,LSU,WR,6,0.0,6.0,0.0,Giants,2010
-16,37.0,Michael Coe,12/17/1983,27.0,6-1,190.0,Alabama St.,DB,4,0.0,3.0,0.0,Giants,2010
-17,96.0,Barry Cofield,3/19/1984,26.0,6-4,303.0,Northwestern,LDT,16,16.0,4.0,8.0,Giants,2010
-18,80.0,Victor Cruz,11/11/1986,24.0,6-0,204.0,Massachusetts,WR,3,0.0,0.0,0.0,Giants,2010
-19,51.0,Zak DeOssie,5/25/1984,26.0,6-5,250.0,Brown,LB,16,0.0,3.0,4.0,Giants,2010
-20,66.0,David Diehl,9/15/1980,30.0,6-5,304.0,Illinois,LT,12,12.0,7.0,6.0,Giants,2010
-21,55.0,Phillip Dillard,12/10/1986,24.0,6-1,240.0,Nebraska,LB,7,0.0,0.0,0.0,Giants,2010
-22,6.0,Matt Dodge,5/30/1987,23.0,6-2,220.0,East Carolina,P,16,0.0,0.0,2.0,Giants,2010
-23,54.0,Jonathan Goff,12/12/1985,25.0,6-2,238.0,Vanderbilt,MLB,16,16.0,2.0,7.0,Giants,2010
-24,8.0,Shayne Graham,12/9/1977,33.0,6-0,210.0,Virginia Tech,K,1,0.0,9.0,0.0,Giants,2010
-25,34.0,Deon Grant,3/14/1979,31.0,6-2,215.0,Tennessee,DB,16,8.0,9.0,4.0,Giants,2010
-26,85.0,Derek Hagan,9/21/1984,26.0,6-2,210.0,Arizona St.,WR,7,4.0,4.0,2.0,Giants,2010
-27,93.0,Alex Hall,8/17/1985,25.0,6-4,250.0,St. Augustine's,LB,2,0.0,2.0,0.0,Giants,2010
-28,39.0,Madison Hedgecock,8/27/1981,29.0,6-3,266.0,North Carolina,FB,4,3.0,5.0,0.0,Giants,2010
-29,22.0,Brian Jackson,5/4/1987,23.0,6-0,198.0,Oklahoma,DB,12,0.0,0.0,1.0,Giants,2010
-30,27.0,Brandon Jacobs,7/6/1982,28.0,6-4,264.0,Southern Illinois,RB,16,5.0,5.0,5.0,Giants,2010
-31,25.0,Bruce Johnson,12/18/1987,23.0,5-11,182.0,Miami (FL),DB,6,0.0,1.0,0.0,Giants,2010
-32,29.0,D.J. Johnson,11/7/1985,25.0,6-1,192.0,Jackson St.,DB,7,0.0,1.0,0.0,Giants,2010
-33,20.0,Michael Johnson,5/9/1984,26.0,6-3,205.0,Arizona,DB,2,0.0,3.0,0.0,Giants,2010
-34,97.0,Linval Joseph,10/10/1988,22.0,6-4,329.0,East Carolina,DT,6,0.0,0.0,1.0,Giants,2010
-35,55.0,Bryan Kehl,6/16/1984,26.0,6-2,234.0,BYU,LB,1,0.0,2.0,0.0,Giants,2010
-36,94.0,Mathias Kiwanuka,3/8/1983,27.0,6-5,267.0,Boston Col.,DE,3,1.0,4.0,1.0,Giants,2010
-37,61.0,Adam Koets,1/7/1984,26.0,6-5,298.0,Oregon St.,T,8,4.0,3.0,3.0,Giants,2010
-38,10.0,Eli Manning,1/3/1981,29.0,6-5,220.0,Mississippi,QB,16,16.0,6.0,12.0,Giants,2010
-39,82.0,Mario Manningham,5/25/1986,24.0,6-0,185.0,Michigan,WR,16,8.0,2.0,8.0,Giants,2010
-40,67.0,Kareem McKenzie,5/24/1979,31.0,6-6,330.0,Penn St.,RT,16,16.0,9.0,8.0,Giants,2010
-41,79.0,Jamon Meredith,5/11/1986,24.0,6-4,289.0,South Carolina,T,3,0.0,1.0,0.0,Giants,2010
-42,88.0,Hakeem Nicks,1/14/1988,22.0,6-0,210.0,North Carolina,WR,13,12.0,1.0,9.0,Giants,2010
-43,60.0,Shaun O'Hara,6/23/1977,33.0,6-3,303.0,Rutgers,C,6,6.0,10.0,4.0,Giants,2010
-44,86.0,Bear Pascoe,2/23/1986,24.0,6-5,257.0,Fresno St.,TE,15,11.0,1.0,1.0,Giants,2010
-45,62.0,Mitch Petrus,5/11/1987,23.0,6-3,311.0,Arkansas,G,11,0.0,0.0,1.0,Giants,2010
-46,21.0,Kenny Phillips,11/24/1986,24.0,6-2,208.0,Miami (FL),SS,16,15.0,2.0,6.0,Giants,2010
-47,90.0,Jason Pierre-Paul,1/1/1989,21.0,6-5,275.0,"College of the Canyons (CA),South Florida",DE,16,0.0,0.0,3.0,Giants,2010
-48,15.0,Darius Reynaud,12/29/1984,26.0,5-9,201.0,West Virginia,WR,9,0.0,2.0,0.0,Giants,2010
-49,26.0,Antrel Rolle,12/16/1982,28.0,6-0,206.0,Miami (FL),FS,16,16.0,5.0,10.0,Giants,2010
-50,18.0,Sage Rosenfels,3/6/1978,32.0,6-4,222.0,Iowa St.,QB,12,0.0,8.0,0.0,Giants,2010
-51,31.0,Aaron Ross,9/15/1982,28.0,6-1,193.0,Texas,DB,15,1.0,3.0,1.0,Giants,2010
-52,69.0,Rich Seubert,3/30/1979,31.0,6-3,310.0,Western Illinois,C/LG,16,16.0,9.0,8.0,Giants,2010
-53,52.0,Clint Sintim,2/21/1986,24.0,6-2,249.0,Virginia,LB,13,1.0,1.0,1.0,Giants,2010
-54,12.0,Steve Smith,5/6/1985,25.0,6-0,195.0,USC,WR,9,7.0,3.0,4.0,Giants,2010
-55,76.0,Chris Snee,1/18/1982,28.0,6-3,305.0,Boston Col.,RG,16,16.0,6.0,13.0,Giants,2010
-56,81.0,Devin Thomas,11/15/1986,24.0,6-2,215.0,Michigan St.,WR,4,0.0,2.0,0.0,Giants,2010
-57,24.0,Terrell Thomas,1/8/1985,25.0,6-1,197.0,USC,RCB,16,16.0,2.0,7.0,Giants,2010
-58,71.0,Dave Tollefson,7/10/1982,28.0,6-4,260.0,NW Missouri St.,DE,13,0.0,3.0,1.0,Giants,2010
-59,91.0,Justin Tuck,3/29/1983,27.0,6-5,265.0,Notre Dame,LDE,16,16.0,5.0,15.0,Giants,2010
-60,9.0,Lawrence Tynes,5/3/1978,32.0,6-1,194.0,Troy,K,15,0.0,6.0,3.0,Giants,2010
-61,72.0,Osi Umenyiora,11/16/1981,29.0,6-3,255.0,Troy,RDE,16,16.0,7.0,13.0,Giants,2010
-62,28.0,Danny Ware,2/18/1985,25.0,6-1,225.0,Georgia,RB,14,0.0,3.0,1.0,Giants,2010
-63,23.0,Corey Webster,3/2/1982,28.0,6-0,200.0,LSU,LCB,15,15.0,5.0,6.0,Giants,2010
-64,58.0,Gerris Wilkinson,4/5/1983,27.0,6-3,231.0,Georgia Tech,LB,12,0.0,4.0,1.0,Giants,2010
-65,29.0,Brian Witherspoon,6/5/1985,25.0,5-10,175.0,Stillman,DB,1,0.0,2.0,0.0,Giants,2010
-66,,Team Total,,26.5,6-2.7,242.7,,,16,,3.6,,Giants,2010
+No.,Player,BirthDate,Age,Height,Weight,College/University,Position,Games_Played_in_Season,Games_Started_in_Season,NFL_Years,Player_Value,Team,Year
+73.0,Shawn Andrews,12/25/1982,28.0,6-4,335.0,Arkansas,LT,13,7.0,6.0,4.0,Giants,2010
+81.0,Jake Ballard,12/2/1987,23.0,6-6,256.0,Ohio St.,TE,1,0.0,0.0,0.0,Giants,2010
+13.0,Ramses Barden,1/1/1986,24.0,6-6,227.0,Cal Poly-San Luis Obispo,WR,6,0.0,1.0,1.0,Giants,2010
+65.0,Will Beatty,3/2/1985,25.0,6-6,291.0,Connecticut,T,8,2.0,1.0,2.0,Giants,2010
+47.0,Travis Beckum,1/24/1987,23.0,6-3,240.0,Wisconsin,TE,16,2.0,1.0,1.0,Giants,2010
+95.0,Rocky Bernard,4/19/1979,31.0,6-3,301.0,Texas A&M,DT,14,0.0,8.0,2.0,Giants,2010
+57.0,Chase Blackburn,6/10/1983,27.0,6-3,240.0,Akron,LB,14,0.0,5.0,2.0,Giants,2010
+30.0,Will Blackmon,10/27/1984,26.0,6-0,212.0,Boston Col.,DB,5,0.0,4.0,0.0,Giants,2010
+59.0,Michael Boley,8/24/1982,28.0,6-3,230.0,Southern Miss,RLB,16,15.0,5.0,7.0,Giants,2010
+77.0,Kevin Boothe,7/5/1983,27.0,6-5,325.0,Cornell,LG,8,5.0,4.0,3.0,Giants,2010
+89.0,Kevin Boss,1/11/1984,26.0,6-7,255.0,Western Oregon,TE,15,13.0,3.0,5.0,Giants,2010
+44.0,Ahmad Bradshaw,3/19/1986,24.0,5-11,195.0,Marshall,RB,16,11.0,3.0,10.0,Giants,2010
+53.0,Keith Bulluck,4/4/1977,33.0,6-3,235.0,Syracuse,LLB,13,8.0,10.0,4.0,Giants,2010
+84.0,Duke Calhoun,9/1/1987,23.0,6-4,205.0,Memphis,WR,9,0.0,0.0,0.0,Giants,2010
+99.0,Chris Canty,11/10/1982,28.0,6-7,317.0,Virginia,RDT,16,16.0,5.0,7.0,Giants,2010
+83.0,Michael Clayton,10/13/1982,28.0,6-3,202.0,LSU,WR,6,0.0,6.0,0.0,Giants,2010
+37.0,Michael Coe,12/17/1983,27.0,6-1,190.0,Alabama St.,DB,4,0.0,3.0,0.0,Giants,2010
+96.0,Barry Cofield,3/19/1984,26.0,6-4,303.0,Northwestern,LDT,16,16.0,4.0,8.0,Giants,2010
+80.0,Victor Cruz,11/11/1986,24.0,6-0,204.0,Massachusetts,WR,3,0.0,0.0,0.0,Giants,2010
+51.0,Zak DeOssie,5/25/1984,26.0,6-5,250.0,Brown,LB,16,0.0,3.0,4.0,Giants,2010
+66.0,David Diehl,9/15/1980,30.0,6-5,304.0,Illinois,LT,12,12.0,7.0,6.0,Giants,2010
+55.0,Phillip Dillard,12/10/1986,24.0,6-1,240.0,Nebraska,LB,7,0.0,0.0,0.0,Giants,2010
+6.0,Matt Dodge,5/30/1987,23.0,6-2,220.0,East Carolina,P,16,0.0,0.0,2.0,Giants,2010
+54.0,Jonathan Goff,12/12/1985,25.0,6-2,238.0,Vanderbilt,MLB,16,16.0,2.0,7.0,Giants,2010
+8.0,Shayne Graham,12/9/1977,33.0,6-0,210.0,Virginia Tech,K,1,0.0,9.0,0.0,Giants,2010
+34.0,Deon Grant,3/14/1979,31.0,6-2,215.0,Tennessee,DB,16,8.0,9.0,4.0,Giants,2010
+85.0,Derek Hagan,9/21/1984,26.0,6-2,210.0,Arizona St.,WR,7,4.0,4.0,2.0,Giants,2010
+93.0,Alex Hall,8/17/1985,25.0,6-4,250.0,St. Augustine's,LB,2,0.0,2.0,0.0,Giants,2010
+39.0,Madison Hedgecock,8/27/1981,29.0,6-3,266.0,North Carolina,FB,4,3.0,5.0,0.0,Giants,2010
+22.0,Brian Jackson,5/4/1987,23.0,6-0,198.0,Oklahoma,DB,12,0.0,0.0,1.0,Giants,2010
+27.0,Brandon Jacobs,7/6/1982,28.0,6-4,264.0,Southern Illinois,RB,16,5.0,5.0,5.0,Giants,2010
+25.0,Bruce Johnson,12/18/1987,23.0,5-11,182.0,Miami (FL),DB,6,0.0,1.0,0.0,Giants,2010
+29.0,D.J. Johnson,11/7/1985,25.0,6-1,192.0,Jackson St.,DB,7,0.0,1.0,0.0,Giants,2010
+20.0,Michael Johnson,5/9/1984,26.0,6-3,205.0,Arizona,DB,2,0.0,3.0,0.0,Giants,2010
+97.0,Linval Joseph,10/10/1988,22.0,6-4,329.0,East Carolina,DT,6,0.0,0.0,1.0,Giants,2010
+55.0,Bryan Kehl,6/16/1984,26.0,6-2,234.0,BYU,LB,1,0.0,2.0,0.0,Giants,2010
+94.0,Mathias Kiwanuka,3/8/1983,27.0,6-5,267.0,Boston Col.,DE,3,1.0,4.0,1.0,Giants,2010
+61.0,Adam Koets,1/7/1984,26.0,6-5,298.0,Oregon St.,T,8,4.0,3.0,3.0,Giants,2010
+10.0,Eli Manning,1/3/1981,29.0,6-5,220.0,Mississippi,QB,16,16.0,6.0,12.0,Giants,2010
+82.0,Mario Manningham,5/25/1986,24.0,6-0,185.0,Michigan,WR,16,8.0,2.0,8.0,Giants,2010
+67.0,Kareem McKenzie,5/24/1979,31.0,6-6,330.0,Penn St.,RT,16,16.0,9.0,8.0,Giants,2010
+79.0,Jamon Meredith,5/11/1986,24.0,6-4,289.0,South Carolina,T,3,0.0,1.0,0.0,Giants,2010
+88.0,Hakeem Nicks,1/14/1988,22.0,6-0,210.0,North Carolina,WR,13,12.0,1.0,9.0,Giants,2010
+60.0,Shaun O'Hara,6/23/1977,33.0,6-3,303.0,Rutgers,C,6,6.0,10.0,4.0,Giants,2010
+86.0,Bear Pascoe,2/23/1986,24.0,6-5,257.0,Fresno St.,TE,15,11.0,1.0,1.0,Giants,2010
+62.0,Mitch Petrus,5/11/1987,23.0,6-3,311.0,Arkansas,G,11,0.0,0.0,1.0,Giants,2010
+21.0,Kenny Phillips,11/24/1986,24.0,6-2,208.0,Miami (FL),SS,16,15.0,2.0,6.0,Giants,2010
+90.0,Jason Pierre-Paul,1/1/1989,21.0,6-5,275.0,"College of the Canyons (CA),South Florida",DE,16,0.0,0.0,3.0,Giants,2010
+15.0,Darius Reynaud,12/29/1984,26.0,5-9,201.0,West Virginia,WR,9,0.0,2.0,0.0,Giants,2010
+26.0,Antrel Rolle,12/16/1982,28.0,6-0,206.0,Miami (FL),FS,16,16.0,5.0,10.0,Giants,2010
+18.0,Sage Rosenfels,3/6/1978,32.0,6-4,222.0,Iowa St.,QB,12,0.0,8.0,0.0,Giants,2010
+31.0,Aaron Ross,9/15/1982,28.0,6-1,193.0,Texas,DB,15,1.0,3.0,1.0,Giants,2010
+69.0,Rich Seubert,3/30/1979,31.0,6-3,310.0,Western Illinois,C/LG,16,16.0,9.0,8.0,Giants,2010
+52.0,Clint Sintim,2/21/1986,24.0,6-2,249.0,Virginia,LB,13,1.0,1.0,1.0,Giants,2010
+12.0,Steve Smith,5/6/1985,25.0,6-0,195.0,USC,WR,9,7.0,3.0,4.0,Giants,2010
+76.0,Chris Snee,1/18/1982,28.0,6-3,305.0,Boston Col.,RG,16,16.0,6.0,13.0,Giants,2010
+81.0,Devin Thomas,11/15/1986,24.0,6-2,215.0,Michigan St.,WR,4,0.0,2.0,0.0,Giants,2010
+24.0,Terrell Thomas,1/8/1985,25.0,6-1,197.0,USC,RCB,16,16.0,2.0,7.0,Giants,2010
+71.0,Dave Tollefson,7/10/1982,28.0,6-4,260.0,NW Missouri St.,DE,13,0.0,3.0,1.0,Giants,2010
+91.0,Justin Tuck,3/29/1983,27.0,6-5,265.0,Notre Dame,LDE,16,16.0,5.0,15.0,Giants,2010
+9.0,Lawrence Tynes,5/3/1978,32.0,6-1,194.0,Troy,K,15,0.0,6.0,3.0,Giants,2010
+72.0,Osi Umenyiora,11/16/1981,29.0,6-3,255.0,Troy,RDE,16,16.0,7.0,13.0,Giants,2010
+28.0,Danny Ware,2/18/1985,25.0,6-1,225.0,Georgia,RB,14,0.0,3.0,1.0,Giants,2010
+23.0,Corey Webster,3/2/1982,28.0,6-0,200.0,LSU,LCB,15,15.0,5.0,6.0,Giants,2010
+58.0,Gerris Wilkinson,4/5/1983,27.0,6-3,231.0,Georgia Tech,LB,12,0.0,4.0,1.0,Giants,2010
+29.0,Brian Witherspoon,6/5/1985,25.0,5-10,175.0,Stillman,DB,1,0.0,2.0,0.0,Giants,2010
+,Team Total,,26.5,6-2.7,242.7,,,16,,3.6,,Giants,2010

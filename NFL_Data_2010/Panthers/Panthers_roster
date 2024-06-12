@@ -1,68 +1,68 @@
-,No.,Player,BirthDate,Age,Height,Weight,College/University,Position,Games_Played_in_Season,Games_Started_in_Season,NFL_Years,Player_Value,Team,Year
-0,21.0,Gerald Alexander,6/28/1984,26.0,6-0,210.0,Boise St.,DB,2,0.0,3.0,0.0,Panthers,2010
-1,50.0,James Anderson,9/26/1983,27.0,6-2,235.0,Virginia Tech,LLB,16,15.0,4.0,8.0,Panthers,2010
-2,7.0,Jason Baker,5/17/1978,32.0,6-2,205.0,Iowa,P,16,0.0,9.0,2.0,Panthers,2010
-3,82.0,Gary Barnidge,9/22/1985,25.0,6-6,250.0,Louisville,TE,16,3.0,2.0,0.0,Panthers,2010
-4,52.0,Jon Beason,1/14/1985,25.0,6-0,237.0,Miami (FL),RLB/MLB,16,16.0,3.0,10.0,Panthers,2010
-5,73.0,Mackenzy Bernadeau,1/3/1986,24.0,6-4,292.0,Bentley College,LG/RG,16,12.0,1.0,4.0,Panthers,2010
-6,96.0,Tyler Brayton,11/20/1979,31.0,6-6,280.0,Colorado,RDE,15,14.0,7.0,6.0,Panthers,2010
-7,91.0,Everette Brown,8/7/1987,23.0,6-4,250.0,Florida St.,DE,13,2.0,1.0,3.0,Panthers,2010
-8,5.0,Todd Carter,6/7/1986,24.0,6-1,190.0,Grand Valley St.,K,1,0.0,0.0,0.0,Panthers,2010
-9,2.0,Jimmy Clausen,9/21/1987,23.0,6-3,217.0,Notre Dame,QB,13,10.0,0.0,0.0,Panthers,2010
-10,87.0,David Clowney,7/7/1985,25.0,6-1,190.0,Virginia Tech,WR,10,0.0,2.0,1.0,Panthers,2010
-11,55.0,Dan Connor,11/2/1985,25.0,6-3,233.0,Penn St.,MLB,8,8.0,2.0,4.0,Panthers,2010
-12,71.0,C.J. Davis,2/2/1987,23.0,6-3,310.0,Pittsburgh,G,7,0.0,0.0,0.0,Panthers,2010
-13,78.0,Tim Duckworth,9/14/1982,28.0,6-3,313.0,Auburn,G,5,0.0,0.0,0.0,Panthers,2010
-14,10.0,Armanti Edwards,3/8/1988,22.0,5-11,191.0,Appalachian St.,QB,3,0.0,0.0,0.0,Panthers,2010
-15,42.0,Tony Fiammetta,8/22/1986,24.0,6-0,246.0,Syracuse,FB,14,9.0,1.0,0.0,Panthers,2010
-16,20.0,Chris Gamble,3/11/1983,27.0,6-1,205.0,Ohio St.,LCB,11,10.0,6.0,3.0,Panthers,2010
-17,12.0,David Gettis,8/27/1987,23.0,6-3,217.0,Baylor,WR,15,13.0,0.0,3.0,Panthers,2010
-18,30.0,Charles Godfrey,11/15/1985,25.0,6-0,207.0,Iowa,SS,16,16.0,2.0,6.0,Panthers,2010
-19,33.0,Mike Goodson,5/23/1987,23.0,5-11,195.0,Texas A&M,RB,16,3.0,1.0,4.0,Panthers,2010
-20,69.0,Jordan Gross,7/20/1980,30.0,6-4,305.0,Utah,LT,16,16.0,7.0,6.0,Panthers,2010
-21,76.0,Greg Hardy,7/28/1988,22.0,6-5,279.0,Mississippi,DE,15,0.0,0.0,2.0,Panthers,2010
-22,59.0,Nic Harris,10/6/1986,24.0,6-2,233.0,Oklahoma,DB,15,4.0,1.0,3.0,Panthers,2010
-23,98.0,Nick Hayden,2/4/1986,24.0,6-4,295.0,Wisconsin,LDT,14,10.0,2.0,5.0,Panthers,2010
-24,56.0,Abdul Hodge,9/9/1982,28.0,6-0,236.0,Iowa,LB,5,0.0,4.0,0.0,Panthers,2010
-25,25.0,Marcus Hudson,11/15/1982,28.0,6-2,200.0,North Carolina St.,DB,14,0.0,4.0,1.0,Panthers,2010
-26,93.0,Corvey Irvin,5/3/1985,25.0,6-3,296.0,"Georgia Military,Georgia",DT,2,0.0,0.0,0.0,Panthers,2010
-27,38.0,Rashawn Jackson,1/15/1987,23.0,6-0,243.0,Virginia,RB,2,1.0,0.0,0.0,Panthers,2010
-28,44.0,J.J. Jansen,1/20/1986,24.0,6-2,235.0,Notre Dame,LS,16,0.0,1.0,2.0,Panthers,2010
-29,80.0,Dwayne Jarrett,9/11/1986,24.0,6-4,219.0,USC,WR,3,0.0,3.0,0.0,Panthers,2010
-30,95.0,Charles Johnson,7/10/1986,24.0,6-2,270.0,Georgia,LDE,16,16.0,3.0,8.0,Panthers,2010
-31,99.0,Edward Johnson,12/18/1983,27.0,6-2,296.0,Penn St.,LDT,12,6.0,3.0,3.0,Panthers,2010
-32,67.0,Ryan Kalil,3/29/1985,25.0,6-2,300.0,USC,C,16,16.0,3.0,6.0,Panthers,2010
-33,4.0,John Kasay,10/27/1969,41.0,5-10,210.0,Georgia,K,16,0.0,19.0,4.0,Panthers,2010
-34,47.0,Jeff King,2/19/1983,27.0,6-3,260.0,Virginia Tech,TE,16,16.0,4.0,1.0,Panthers,2010
-35,11.0,Brandon LaFell,11/4/1986,24.0,6-3,210.0,LSU,WR,14,2.0,0.0,3.0,Panthers,2010
-36,61.0,Derek Landri,9/21/1983,27.0,6-3,281.0,Notre Dame,RDT,16,16.0,3.0,7.0,Panthers,2010
-37,94.0,Louis Leonard,7/16/1984,26.0,6-5,325.0,Fresno St.,DT,2,0.0,3.0,0.0,Panthers,2010
-38,8.0,Rhys Lloyd,6/5/1982,28.0,5-11,231.0,Minnesota,K,15,0.0,3.0,0.0,Panthers,2010
-39,31.0,Richard Marshall,12/12/1984,26.0,5-11,198.0,Fresno St.,RCB,16,16.0,4.0,6.0,Panthers,2010
-40,83.0,Charly Martin,3/20/1984,26.0,6-1,212.0,West Texas A&M,WR,1,0.0,1.0,0.0,Panthers,2010
-41,23.0,Sherrod Martin,10/12/1984,26.0,6-0,197.0,Troy,FS,15,15.0,1.0,5.0,Panthers,2010
-42,36.0,Robert McClain,7/22/1988,22.0,5-9,180.0,Connecticut,DB,16,2.0,0.0,1.0,Panthers,2010
-43,3.0,Matt Moore,8/9/1984,26.0,6-3,219.0,"College of the Canyons (CA),Oregon St.",QB,6,5.0,3.0,2.0,Panthers,2010
-44,63.0,Chris Morris,2/22/1983,27.0,6-4,305.0,Michigan St.,C,4,0.0,4.0,0.0,Panthers,2010
-45,41.0,Captain Munnerlyn,4/10/1988,22.0,5-9,195.0,South Carolina,LCB,16,5.0,1.0,3.0,Panthers,2010
-46,68.0,Andre Neblett,6/7/1988,22.0,6-0,297.0,Temple,DT,7,1.0,0.0,1.0,Panthers,2010
-47,92.0,Eric Norwood,5/24/1988,22.0,6-0,246.0,South Carolina,LB,15,0.0,0.0,1.0,Panthers,2010
-48,64.0,Rob Petitti,5/21/1982,28.0,6-6,327.0,Pittsburgh,T,5,0.0,5.0,0.0,Panthers,2010
-49,16.0,Tony Pike,3/10/1986,24.0,6-5,212.0,Cincinnati,QB,1,0.0,0.0,0.0,Panthers,2010
-50,29.0,Jordan Pugh,1/29/1988,22.0,5-11,191.0,Texas A&M,DB,15,2.0,0.0,2.0,Panthers,2010
-51,88.0,Dante Rosario,10/25/1984,26.0,6-3,244.0,Oregon,TE,16,6.0,3.0,1.0,Panthers,2010
-52,74.0,Geoff Schwartz,7/11/1986,24.0,6-6,332.0,Oregon,RG/RT,16,16.0,1.0,5.0,Panthers,2010
-53,57.0,Jordan Senn,6/11/1984,26.0,5-11,224.0,Portland St.,LB,14,0.0,2.0,1.0,Panthers,2010
-54,89.0,Steve Smith Sr.,5/12/1979,31.0,5-9,195.0,Utah,WR,14,14.0,9.0,3.0,Panthers,2010
-55,6.0,Brian St. Pierre,11/28/1979,31.0,6-3,224.0,Boston Col.,QB,1,1.0,6.0,0.0,Panthers,2010
-56,28.0,Jonathan Stewart,3/21/1987,23.0,5-10,240.0,Oregon,RB,14,7.0,2.0,4.0,Panthers,2010
-57,22.0,Tyrell Sutton,12/19/1986,24.0,5-9,190.0,Northwestern,RB,9,0.0,1.0,1.0,Panthers,2010
-58,80.0,Devin Thomas,11/15/1986,24.0,6-2,215.0,Michigan St.,WR,1,0.0,2.0,0.0,Panthers,2010
-59,32.0,Josh Vaughan,12/3/1986,24.0,6-0,232.0,Richmond,RB,3,0.0,0.0,0.0,Panthers,2010
-60,70.0,Travelle Wharton,5/19/1981,29.0,6-4,320.0,South Carolina,LG,9,9.0,6.0,3.0,Panthers,2010
-61,34.0,DeAngelo Williams,4/25/1983,27.0,5-9,207.0,Memphis,RB,6,6.0,4.0,2.0,Panthers,2010
-62,65.0,Garry Williams,8/20/1986,24.0,6-3,296.0,Kentucky,RT,16,11.0,1.0,3.0,Panthers,2010
-63,53.0,Jamar Williams,6/14/1984,26.0,6-0,237.0,Arizona St.,LB,3,0.0,4.0,0.0,Panthers,2010
-64,54.0,Jason Williams,4/23/1986,24.0,6-1,240.0,Western Illinois,LB,4,2.0,1.0,1.0,Panthers,2010
-65,27.0,C.J. Wilson,4/2/1985,25.0,6-1,195.0,Baylor,DB,8,0.0,3.0,1.0,Panthers,2010
-66,,Team Total,,25.6,6-1.6,241.9,,,16,,2.6,,Panthers,2010
+No.,Player,BirthDate,Age,Height,Weight,College/University,Position,Games_Played_in_Season,Games_Started_in_Season,NFL_Years,Player_Value,Team,Year
+21.0,Gerald Alexander,6/28/1984,26.0,6-0,210.0,Boise St.,DB,2,0.0,3.0,0.0,Panthers,2010
+50.0,James Anderson,9/26/1983,27.0,6-2,235.0,Virginia Tech,LLB,16,15.0,4.0,8.0,Panthers,2010
+7.0,Jason Baker,5/17/1978,32.0,6-2,205.0,Iowa,P,16,0.0,9.0,2.0,Panthers,2010
+82.0,Gary Barnidge,9/22/1985,25.0,6-6,250.0,Louisville,TE,16,3.0,2.0,0.0,Panthers,2010
+52.0,Jon Beason,1/14/1985,25.0,6-0,237.0,Miami (FL),RLB/MLB,16,16.0,3.0,10.0,Panthers,2010
+73.0,Mackenzy Bernadeau,1/3/1986,24.0,6-4,292.0,Bentley College,LG/RG,16,12.0,1.0,4.0,Panthers,2010
+96.0,Tyler Brayton,11/20/1979,31.0,6-6,280.0,Colorado,RDE,15,14.0,7.0,6.0,Panthers,2010
+91.0,Everette Brown,8/7/1987,23.0,6-4,250.0,Florida St.,DE,13,2.0,1.0,3.0,Panthers,2010
+5.0,Todd Carter,6/7/1986,24.0,6-1,190.0,Grand Valley St.,K,1,0.0,0.0,0.0,Panthers,2010
+2.0,Jimmy Clausen,9/21/1987,23.0,6-3,217.0,Notre Dame,QB,13,10.0,0.0,0.0,Panthers,2010
+87.0,David Clowney,7/7/1985,25.0,6-1,190.0,Virginia Tech,WR,10,0.0,2.0,1.0,Panthers,2010
+55.0,Dan Connor,11/2/1985,25.0,6-3,233.0,Penn St.,MLB,8,8.0,2.0,4.0,Panthers,2010
+71.0,C.J. Davis,2/2/1987,23.0,6-3,310.0,Pittsburgh,G,7,0.0,0.0,0.0,Panthers,2010
+78.0,Tim Duckworth,9/14/1982,28.0,6-3,313.0,Auburn,G,5,0.0,0.0,0.0,Panthers,2010
+10.0,Armanti Edwards,3/8/1988,22.0,5-11,191.0,Appalachian St.,QB,3,0.0,0.0,0.0,Panthers,2010
+42.0,Tony Fiammetta,8/22/1986,24.0,6-0,246.0,Syracuse,FB,14,9.0,1.0,0.0,Panthers,2010
+20.0,Chris Gamble,3/11/1983,27.0,6-1,205.0,Ohio St.,LCB,11,10.0,6.0,3.0,Panthers,2010
+12.0,David Gettis,8/27/1987,23.0,6-3,217.0,Baylor,WR,15,13.0,0.0,3.0,Panthers,2010
+30.0,Charles Godfrey,11/15/1985,25.0,6-0,207.0,Iowa,SS,16,16.0,2.0,6.0,Panthers,2010
+33.0,Mike Goodson,5/23/1987,23.0,5-11,195.0,Texas A&M,RB,16,3.0,1.0,4.0,Panthers,2010
+69.0,Jordan Gross,7/20/1980,30.0,6-4,305.0,Utah,LT,16,16.0,7.0,6.0,Panthers,2010
+76.0,Greg Hardy,7/28/1988,22.0,6-5,279.0,Mississippi,DE,15,0.0,0.0,2.0,Panthers,2010
+59.0,Nic Harris,10/6/1986,24.0,6-2,233.0,Oklahoma,DB,15,4.0,1.0,3.0,Panthers,2010
+98.0,Nick Hayden,2/4/1986,24.0,6-4,295.0,Wisconsin,LDT,14,10.0,2.0,5.0,Panthers,2010
+56.0,Abdul Hodge,9/9/1982,28.0,6-0,236.0,Iowa,LB,5,0.0,4.0,0.0,Panthers,2010
+25.0,Marcus Hudson,11/15/1982,28.0,6-2,200.0,North Carolina St.,DB,14,0.0,4.0,1.0,Panthers,2010
+93.0,Corvey Irvin,5/3/1985,25.0,6-3,296.0,"Georgia Military,Georgia",DT,2,0.0,0.0,0.0,Panthers,2010
+38.0,Rashawn Jackson,1/15/1987,23.0,6-0,243.0,Virginia,RB,2,1.0,0.0,0.0,Panthers,2010
+44.0,J.J. Jansen,1/20/1986,24.0,6-2,235.0,Notre Dame,LS,16,0.0,1.0,2.0,Panthers,2010
+80.0,Dwayne Jarrett,9/11/1986,24.0,6-4,219.0,USC,WR,3,0.0,3.0,0.0,Panthers,2010
+95.0,Charles Johnson,7/10/1986,24.0,6-2,270.0,Georgia,LDE,16,16.0,3.0,8.0,Panthers,2010
+99.0,Edward Johnson,12/18/1983,27.0,6-2,296.0,Penn St.,LDT,12,6.0,3.0,3.0,Panthers,2010
+67.0,Ryan Kalil,3/29/1985,25.0,6-2,300.0,USC,C,16,16.0,3.0,6.0,Panthers,2010
+4.0,John Kasay,10/27/1969,41.0,5-10,210.0,Georgia,K,16,0.0,19.0,4.0,Panthers,2010
+47.0,Jeff King,2/19/1983,27.0,6-3,260.0,Virginia Tech,TE,16,16.0,4.0,1.0,Panthers,2010
+11.0,Brandon LaFell,11/4/1986,24.0,6-3,210.0,LSU,WR,14,2.0,0.0,3.0,Panthers,2010
+61.0,Derek Landri,9/21/1983,27.0,6-3,281.0,Notre Dame,RDT,16,16.0,3.0,7.0,Panthers,2010
+94.0,Louis Leonard,7/16/1984,26.0,6-5,325.0,Fresno St.,DT,2,0.0,3.0,0.0,Panthers,2010
+8.0,Rhys Lloyd,6/5/1982,28.0,5-11,231.0,Minnesota,K,15,0.0,3.0,0.0,Panthers,2010
+31.0,Richard Marshall,12/12/1984,26.0,5-11,198.0,Fresno St.,RCB,16,16.0,4.0,6.0,Panthers,2010
+83.0,Charly Martin,3/20/1984,26.0,6-1,212.0,West Texas A&M,WR,1,0.0,1.0,0.0,Panthers,2010
+23.0,Sherrod Martin,10/12/1984,26.0,6-0,197.0,Troy,FS,15,15.0,1.0,5.0,Panthers,2010
+36.0,Robert McClain,7/22/1988,22.0,5-9,180.0,Connecticut,DB,16,2.0,0.0,1.0,Panthers,2010
+3.0,Matt Moore,8/9/1984,26.0,6-3,219.0,"College of the Canyons (CA),Oregon St.",QB,6,5.0,3.0,2.0,Panthers,2010
+63.0,Chris Morris,2/22/1983,27.0,6-4,305.0,Michigan St.,C,4,0.0,4.0,0.0,Panthers,2010
+41.0,Captain Munnerlyn,4/10/1988,22.0,5-9,195.0,South Carolina,LCB,16,5.0,1.0,3.0,Panthers,2010
+68.0,Andre Neblett,6/7/1988,22.0,6-0,297.0,Temple,DT,7,1.0,0.0,1.0,Panthers,2010
+92.0,Eric Norwood,5/24/1988,22.0,6-0,246.0,South Carolina,LB,15,0.0,0.0,1.0,Panthers,2010
+64.0,Rob Petitti,5/21/1982,28.0,6-6,327.0,Pittsburgh,T,5,0.0,5.0,0.0,Panthers,2010
+16.0,Tony Pike,3/10/1986,24.0,6-5,212.0,Cincinnati,QB,1,0.0,0.0,0.0,Panthers,2010
+29.0,Jordan Pugh,1/29/1988,22.0,5-11,191.0,Texas A&M,DB,15,2.0,0.0,2.0,Panthers,2010
+88.0,Dante Rosario,10/25/1984,26.0,6-3,244.0,Oregon,TE,16,6.0,3.0,1.0,Panthers,2010
+74.0,Geoff Schwartz,7/11/1986,24.0,6-6,332.0,Oregon,RG/RT,16,16.0,1.0,5.0,Panthers,2010
+57.0,Jordan Senn,6/11/1984,26.0,5-11,224.0,Portland St.,LB,14,0.0,2.0,1.0,Panthers,2010
+89.0,Steve Smith Sr.,5/12/1979,31.0,5-9,195.0,Utah,WR,14,14.0,9.0,3.0,Panthers,2010
+6.0,Brian St. Pierre,11/28/1979,31.0,6-3,224.0,Boston Col.,QB,1,1.0,6.0,0.0,Panthers,2010
+28.0,Jonathan Stewart,3/21/1987,23.0,5-10,240.0,Oregon,RB,14,7.0,2.0,4.0,Panthers,2010
+22.0,Tyrell Sutton,12/19/1986,24.0,5-9,190.0,Northwestern,RB,9,0.0,1.0,1.0,Panthers,2010
+80.0,Devin Thomas,11/15/1986,24.0,6-2,215.0,Michigan St.,WR,1,0.0,2.0,0.0,Panthers,2010
+32.0,Josh Vaughan,12/3/1986,24.0,6-0,232.0,Richmond,RB,3,0.0,0.0,0.0,Panthers,2010
+70.0,Travelle Wharton,5/19/1981,29.0,6-4,320.0,South Carolina,LG,9,9.0,6.0,3.0,Panthers,2010
+34.0,DeAngelo Williams,4/25/1983,27.0,5-9,207.0,Memphis,RB,6,6.0,4.0,2.0,Panthers,2010
+65.0,Garry Williams,8/20/1986,24.0,6-3,296.0,Kentucky,RT,16,11.0,1.0,3.0,Panthers,2010
+53.0,Jamar Williams,6/14/1984,26.0,6-0,237.0,Arizona St.,LB,3,0.0,4.0,0.0,Panthers,2010
+54.0,Jason Williams,4/23/1986,24.0,6-1,240.0,Western Illinois,LB,4,2.0,1.0,1.0,Panthers,2010
+27.0,C.J. Wilson,4/2/1985,25.0,6-1,195.0,Baylor,DB,8,0.0,3.0,1.0,Panthers,2010
+,Team Total,,25.6,6-1.6,241.9,,,16,,2.6,,Panthers,2010

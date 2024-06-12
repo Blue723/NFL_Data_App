@@ -1,67 +1,67 @@
-,No.,Player,BirthDate,Age,Height,Weight,College/University,Position,Games_Played_in_Season,Games_Started_in_Season,NFL_Years,Player_Value,Team,Year
-0,56.0,Nick Barnett,5/27/1981,29.0,6-2,228.0,Oregon St.,LB,4,4.0,7.0,2.0,Packers,2010
-1,20.0,Atari Bigby,9/19/1981,29.0,5-11,211.0,Central Florida,DB,4,0.0,5.0,1.0,Packers,2010
-2,55.0,Desmond Bishop,7/24/1984,26.0,6-2,241.0,California,RILB,15,12.0,3.0,8.0,Packers,2010
-3,53.0,Diyral Briggs,10/31/1985,25.0,6-4,230.0,Bowling Green,LB,5,0.0,1.0,0.0,Packers,2010
-4,75.0,Bryan Bulaga,3/21/1989,21.0,6-5,314.0,Iowa,RT,16,12.0,0.0,7.0,Packers,2010
-5,42.0,Morgan Burnett,1/13/1989,21.0,6-1,210.0,Georgia Tech,DB,4,4.0,0.0,2.0,Packers,2010
-6,24.0,Jarrett Bush,5/21/1984,26.0,6-0,200.0,Utah St.,DB,16,1.0,4.0,2.0,Packers,2010
-7,54.0,Brandon Chillar,10/21/1982,28.0,6-3,237.0,UCLA,LB,8,1.0,6.0,2.0,Packers,2010
-8,76.0,Chad Clifton,6/26/1976,34.0,6-5,320.0,Tennessee,LT,16,16.0,10.0,12.0,Packers,2010
-9,73.0,Daryn Colledge,2/11/1982,28.0,6-4,308.0,Boise St.,LG,16,16.0,4.0,9.0,Packers,2010
-10,36.0,Nick Collins,8/16/1983,27.0,5-11,207.0,Bethune-Cookman,FS,16,16.0,5.0,12.0,Packers,2010
-11,83.0,Tom Crabtree,11/4/1985,25.0,6-5,244.0,Miami (OH),TE,16,1.0,0.0,1.0,Packers,2010
-12,2.0,Mason Crosby,9/3/1984,26.0,6-1,207.0,Colorado,K,16,0.0,3.0,3.0,Packers,2010
-13,80.0,Donald Driver,2/2/1975,35.0,6-0,194.0,Alcorn St.,WR,15,15.0,11.0,5.0,Packers,2010
-14,88.0,Jermichael Finley,3/26/1987,23.0,6-4,240.0,Texas,TE,5,5.0,2.0,3.0,Packers,2010
-15,10.0,Matt Flynn,6/20/1985,25.0,6-2,228.0,LSU,QB,7,1.0,2.0,1.0,Packers,2010
-16,49.0,Rob Francois,5/14/1985,25.0,6-2,253.0,Boston Col.,LB,8,1.0,0.0,1.0,Packers,2010
-17,61.0,Brett Goode,11/2/1984,26.0,6-1,255.0,Arkansas,LB,16,0.0,2.0,2.0,Packers,2010
-18,40.0,Josh Gordy,2/9/1987,23.0,5-11,195.0,Central Michigan,DB,2,0.0,0.0,0.0,Packers,2010
-19,25.0,Ryan Grant,12/9/1982,28.0,6-1,222.0,Notre Dame,RB,1,1.0,3.0,0.0,Packers,2010
-20,95.0,Howard Green,1/12/1979,31.0,6-2,340.0,LSU,DT,9,3.0,8.0,2.0,Packers,2010
-21,35.0,Korey Hall,8/5/1983,27.0,6-1,230.0,Boise St.,FB,12,6.0,3.0,0.0,Packers,2010
-22,91.0,Justin Harrell,2/14/1984,26.0,6-5,300.0,Tennessee,DT,1,0.0,3.0,0.0,Packers,2010
-23,41.0,Spencer Havner,2/2/1983,27.0,6-3,250.0,UCLA,LB,1,0.0,2.0,0.0,Packers,2010
-24,50.0,A.J. Hawk,1/6/1984,26.0,6-1,240.0,Ohio St.,LILB,16,15.0,4.0,9.0,Packers,2010
-25,32.0,Brandon Jackson,10/2/1985,25.0,5-11,210.0,Nebraska,RB,16,13.0,3.0,8.0,Packers,2010
-26,77.0,Cullen Jenkins,1/20/1981,29.0,6-2,305.0,Central Michigan,RDE,11,8.0,6.0,5.0,Packers,2010
-27,85.0,Greg Jennings,9/21/1983,27.0,6-0,198.0,Western Michigan,WR,16,16.0,4.0,11.0,Packers,2010
-28,45.0,Quinn Johnson,9/30/1986,24.0,6-0,251.0,LSU,RB,11,4.0,1.0,0.0,Packers,2010
-29,59.0,Brad Jones,4/1/1986,24.0,6-3,230.0,Colorado,ROLB,6,5.0,1.0,3.0,Packers,2010
-30,89.0,James Jones,3/31/1984,26.0,6-1,208.0,San Jose St.,WR,16,3.0,3.0,6.0,Packers,2010
-31,30.0,John Kuhn,9/9/1982,28.0,6-0,250.0,Shippensburg,FB,16,2.0,4.0,3.0,Packers,2010
-32,70.0,T.J. Lang,9/20/1987,23.0,6-4,315.0,Eastern Michigan,G,12,0.0,1.0,1.0,Packers,2010
-33,86.0,Donald Lee,8/31/1980,30.0,6-4,248.0,Mississippi St.,TE,15,6.0,7.0,1.0,Packers,2010
-34,22.0,Pat Lee,2/20/1984,26.0,5-11,194.0,Auburn,DB,11,1.0,2.0,1.0,Packers,2010
-35,29.0,Derrick Martin,5/16/1985,25.0,5-10,198.0,Wyoming,DB,5,0.0,4.0,1.0,Packers,2010
-36,8.0,Tim Masthay,3/16/1987,23.0,6-2,198.0,Kentucky,P,16,0.0,0.0,2.0,Packers,2010
-37,52.0,Clay Matthews,5/14/1986,24.0,6-3,255.0,USC,LOLB,15,15.0,1.0,17.0,Packers,2010
-38,99.0,Mike Montgomery,8/18/1983,27.0,6-5,282.0,Texas A&M,DT,2,0.0,5.0,0.0,Packers,2010
-39,23.0,Dimitri Nance,2/18/1988,22.0,5-9,224.0,Arizona St.,RB,12,0.0,0.0,1.0,Packers,2010
-40,96.0,Mike Neal,6/26/1987,23.0,6-3,262.0,Purdue,LB,2,0.0,0.0,0.0,Packers,2010
-41,87.0,Jordy Nelson,5/31/1985,25.0,6-3,217.0,Kansas St.,WR,16,4.0,2.0,5.0,Packers,2010
-42,26.0,Charlie Peprah,2/24/1983,27.0,5-11,203.0,Alabama,SS,14,11.0,4.0,5.0,Packers,2010
-43,79.0,Ryan Pickett,10/8/1979,31.0,6-2,338.0,Ohio St.,LDE,14,12.0,9.0,7.0,Packers,2010
-44,51.0,Brady Poppinga,9/21/1979,31.0,6-3,250.0,BYU,LB,6,1.0,5.0,1.0,Packers,2010
-45,81.0,Andrew Quarless,10/6/1988,22.0,6-4,248.0,Penn St.,TE,13,3.0,0.0,2.0,Packers,2010
-46,90.0,B.J. Raji,7/11/1986,24.0,6-2,334.0,Boston Col.,NT,16,16.0,1.0,9.0,Packers,2010
-47,12.0,Aaron Rodgers,12/2/1983,27.0,6-2,223.0,"Butte JC (CA),California",QB,15,15.0,5.0,15.0,Packers,2010
-48,37.0,Sam Shields,12/8/1987,23.0,5-11,178.0,Miami (FL),DB,14,6.0,0.0,3.0,Packers,2010
-49,53.0,Maurice Simpkins,4/29/1983,27.0,6-0,236.0,"Catawba,Coastal Carolina",LB,2,0.0,0.0,0.0,Packers,2010
-50,71.0,Josh Sitton,6/16/1986,24.0,6-3,318.0,Central Florida,RG,16,16.0,2.0,9.0,Packers,2010
-51,27.0,Anthony Smith,9/20/1983,27.0,6-0,200.0,Syracuse,DB,4,0.0,4.0,0.0,Packers,2010
-52,72.0,Jason Spitz,12/19/1982,28.0,6-3,298.0,Louisville,G,16,0.0,4.0,2.0,Packers,2010
-53,44.0,James Starks,2/25/1986,24.0,6-1,203.0,Buffalo,RB,3,0.0,0.0,1.0,Packers,2010
-54,16.0,Brett Swain,6/21/1985,25.0,6-1,200.0,San Diego St.,WR,16,1.0,1.0,1.0,Packers,2010
-55,65.0,Mark Tauscher,6/17/1977,33.0,6-3,320.0,Wisconsin,T,4,4.0,10.0,2.0,Packers,2010
-56,28.0,Brandon Underwood,6/24/1986,24.0,6-1,192.0,Cincinnati,DB,12,0.0,1.0,1.0,Packers,2010
-57,93.0,Erik Walden,8/21/1985,25.0,6-2,250.0,Middle Tenn. St.,LB,9,2.0,2.0,2.0,Packers,2010
-58,63.0,Scott Wells,1/17/1981,29.0,6-2,302.0,Tennessee,C,16,16.0,6.0,9.0,Packers,2010
-59,57.0,Matt Wilhelm,2/2/1981,29.0,6-4,245.0,Ohio St.,LB,7,0.0,7.0,1.0,Packers,2010
-60,38.0,Tramon Williams,3/16/1983,27.0,5-11,191.0,Louisiana Tech,RCB,16,16.0,3.0,12.0,Packers,2010
-61,98.0,C.J. Wilson,3/30/1987,23.0,6-4,271.0,East Carolina,DE,15,2.0,0.0,2.0,Packers,2010
-62,21.0,Charles Woodson,10/7/1976,34.0,6-1,210.0,Michigan,LCB,16,16.0,12.0,14.0,Packers,2010
-63,94.0,Jarius Wynn,8/29/1986,24.0,6-5,273.0,"Georgia Military,Georgia",DE,9,0.0,1.0,1.0,Packers,2010
-64,58.0,Frank Zombo,3/5/1987,23.0,6-3,254.0,Central Michigan,ROLB,13,8.0,0.0,5.0,Packers,2010
-65,,Team Total,,26.3,6-1.8,244.4,,,16,,3.2,,Packers,2010
+No.,Player,BirthDate,Age,Height,Weight,College/University,Position,Games_Played_in_Season,Games_Started_in_Season,NFL_Years,Player_Value,Team,Year
+56.0,Nick Barnett,5/27/1981,29.0,6-2,228.0,Oregon St.,LB,4,4.0,7.0,2.0,Packers,2010
+20.0,Atari Bigby,9/19/1981,29.0,5-11,211.0,Central Florida,DB,4,0.0,5.0,1.0,Packers,2010
+55.0,Desmond Bishop,7/24/1984,26.0,6-2,241.0,California,RILB,15,12.0,3.0,8.0,Packers,2010
+53.0,Diyral Briggs,10/31/1985,25.0,6-4,230.0,Bowling Green,LB,5,0.0,1.0,0.0,Packers,2010
+75.0,Bryan Bulaga,3/21/1989,21.0,6-5,314.0,Iowa,RT,16,12.0,0.0,7.0,Packers,2010
+42.0,Morgan Burnett,1/13/1989,21.0,6-1,210.0,Georgia Tech,DB,4,4.0,0.0,2.0,Packers,2010
+24.0,Jarrett Bush,5/21/1984,26.0,6-0,200.0,Utah St.,DB,16,1.0,4.0,2.0,Packers,2010
+54.0,Brandon Chillar,10/21/1982,28.0,6-3,237.0,UCLA,LB,8,1.0,6.0,2.0,Packers,2010
+76.0,Chad Clifton,6/26/1976,34.0,6-5,320.0,Tennessee,LT,16,16.0,10.0,12.0,Packers,2010
+73.0,Daryn Colledge,2/11/1982,28.0,6-4,308.0,Boise St.,LG,16,16.0,4.0,9.0,Packers,2010
+36.0,Nick Collins,8/16/1983,27.0,5-11,207.0,Bethune-Cookman,FS,16,16.0,5.0,12.0,Packers,2010
+83.0,Tom Crabtree,11/4/1985,25.0,6-5,244.0,Miami (OH),TE,16,1.0,0.0,1.0,Packers,2010
+2.0,Mason Crosby,9/3/1984,26.0,6-1,207.0,Colorado,K,16,0.0,3.0,3.0,Packers,2010
+80.0,Donald Driver,2/2/1975,35.0,6-0,194.0,Alcorn St.,WR,15,15.0,11.0,5.0,Packers,2010
+88.0,Jermichael Finley,3/26/1987,23.0,6-4,240.0,Texas,TE,5,5.0,2.0,3.0,Packers,2010
+10.0,Matt Flynn,6/20/1985,25.0,6-2,228.0,LSU,QB,7,1.0,2.0,1.0,Packers,2010
+49.0,Rob Francois,5/14/1985,25.0,6-2,253.0,Boston Col.,LB,8,1.0,0.0,1.0,Packers,2010
+61.0,Brett Goode,11/2/1984,26.0,6-1,255.0,Arkansas,LB,16,0.0,2.0,2.0,Packers,2010
+40.0,Josh Gordy,2/9/1987,23.0,5-11,195.0,Central Michigan,DB,2,0.0,0.0,0.0,Packers,2010
+25.0,Ryan Grant,12/9/1982,28.0,6-1,222.0,Notre Dame,RB,1,1.0,3.0,0.0,Packers,2010
+95.0,Howard Green,1/12/1979,31.0,6-2,340.0,LSU,DT,9,3.0,8.0,2.0,Packers,2010
+35.0,Korey Hall,8/5/1983,27.0,6-1,230.0,Boise St.,FB,12,6.0,3.0,0.0,Packers,2010
+91.0,Justin Harrell,2/14/1984,26.0,6-5,300.0,Tennessee,DT,1,0.0,3.0,0.0,Packers,2010
+41.0,Spencer Havner,2/2/1983,27.0,6-3,250.0,UCLA,LB,1,0.0,2.0,0.0,Packers,2010
+50.0,A.J. Hawk,1/6/1984,26.0,6-1,240.0,Ohio St.,LILB,16,15.0,4.0,9.0,Packers,2010
+32.0,Brandon Jackson,10/2/1985,25.0,5-11,210.0,Nebraska,RB,16,13.0,3.0,8.0,Packers,2010
+77.0,Cullen Jenkins,1/20/1981,29.0,6-2,305.0,Central Michigan,RDE,11,8.0,6.0,5.0,Packers,2010
+85.0,Greg Jennings,9/21/1983,27.0,6-0,198.0,Western Michigan,WR,16,16.0,4.0,11.0,Packers,2010
+45.0,Quinn Johnson,9/30/1986,24.0,6-0,251.0,LSU,RB,11,4.0,1.0,0.0,Packers,2010
+59.0,Brad Jones,4/1/1986,24.0,6-3,230.0,Colorado,ROLB,6,5.0,1.0,3.0,Packers,2010
+89.0,James Jones,3/31/1984,26.0,6-1,208.0,San Jose St.,WR,16,3.0,3.0,6.0,Packers,2010
+30.0,John Kuhn,9/9/1982,28.0,6-0,250.0,Shippensburg,FB,16,2.0,4.0,3.0,Packers,2010
+70.0,T.J. Lang,9/20/1987,23.0,6-4,315.0,Eastern Michigan,G,12,0.0,1.0,1.0,Packers,2010
+86.0,Donald Lee,8/31/1980,30.0,6-4,248.0,Mississippi St.,TE,15,6.0,7.0,1.0,Packers,2010
+22.0,Pat Lee,2/20/1984,26.0,5-11,194.0,Auburn,DB,11,1.0,2.0,1.0,Packers,2010
+29.0,Derrick Martin,5/16/1985,25.0,5-10,198.0,Wyoming,DB,5,0.0,4.0,1.0,Packers,2010
+8.0,Tim Masthay,3/16/1987,23.0,6-2,198.0,Kentucky,P,16,0.0,0.0,2.0,Packers,2010
+52.0,Clay Matthews,5/14/1986,24.0,6-3,255.0,USC,LOLB,15,15.0,1.0,17.0,Packers,2010
+99.0,Mike Montgomery,8/18/1983,27.0,6-5,282.0,Texas A&M,DT,2,0.0,5.0,0.0,Packers,2010
+23.0,Dimitri Nance,2/18/1988,22.0,5-9,224.0,Arizona St.,RB,12,0.0,0.0,1.0,Packers,2010
+96.0,Mike Neal,6/26/1987,23.0,6-3,262.0,Purdue,LB,2,0.0,0.0,0.0,Packers,2010
+87.0,Jordy Nelson,5/31/1985,25.0,6-3,217.0,Kansas St.,WR,16,4.0,2.0,5.0,Packers,2010
+26.0,Charlie Peprah,2/24/1983,27.0,5-11,203.0,Alabama,SS,14,11.0,4.0,5.0,Packers,2010
+79.0,Ryan Pickett,10/8/1979,31.0,6-2,338.0,Ohio St.,LDE,14,12.0,9.0,7.0,Packers,2010
+51.0,Brady Poppinga,9/21/1979,31.0,6-3,250.0,BYU,LB,6,1.0,5.0,1.0,Packers,2010
+81.0,Andrew Quarless,10/6/1988,22.0,6-4,248.0,Penn St.,TE,13,3.0,0.0,2.0,Packers,2010
+90.0,B.J. Raji,7/11/1986,24.0,6-2,334.0,Boston Col.,NT,16,16.0,1.0,9.0,Packers,2010
+12.0,Aaron Rodgers,12/2/1983,27.0,6-2,223.0,"Butte JC (CA),California",QB,15,15.0,5.0,15.0,Packers,2010
+37.0,Sam Shields,12/8/1987,23.0,5-11,178.0,Miami (FL),DB,14,6.0,0.0,3.0,Packers,2010
+53.0,Maurice Simpkins,4/29/1983,27.0,6-0,236.0,"Catawba,Coastal Carolina",LB,2,0.0,0.0,0.0,Packers,2010
+71.0,Josh Sitton,6/16/1986,24.0,6-3,318.0,Central Florida,RG,16,16.0,2.0,9.0,Packers,2010
+27.0,Anthony Smith,9/20/1983,27.0,6-0,200.0,Syracuse,DB,4,0.0,4.0,0.0,Packers,2010
+72.0,Jason Spitz,12/19/1982,28.0,6-3,298.0,Louisville,G,16,0.0,4.0,2.0,Packers,2010
+44.0,James Starks,2/25/1986,24.0,6-1,203.0,Buffalo,RB,3,0.0,0.0,1.0,Packers,2010
+16.0,Brett Swain,6/21/1985,25.0,6-1,200.0,San Diego St.,WR,16,1.0,1.0,1.0,Packers,2010
+65.0,Mark Tauscher,6/17/1977,33.0,6-3,320.0,Wisconsin,T,4,4.0,10.0,2.0,Packers,2010
+28.0,Brandon Underwood,6/24/1986,24.0,6-1,192.0,Cincinnati,DB,12,0.0,1.0,1.0,Packers,2010
+93.0,Erik Walden,8/21/1985,25.0,6-2,250.0,Middle Tenn. St.,LB,9,2.0,2.0,2.0,Packers,2010
+63.0,Scott Wells,1/17/1981,29.0,6-2,302.0,Tennessee,C,16,16.0,6.0,9.0,Packers,2010
+57.0,Matt Wilhelm,2/2/1981,29.0,6-4,245.0,Ohio St.,LB,7,0.0,7.0,1.0,Packers,2010
+38.0,Tramon Williams,3/16/1983,27.0,5-11,191.0,Louisiana Tech,RCB,16,16.0,3.0,12.0,Packers,2010
+98.0,C.J. Wilson,3/30/1987,23.0,6-4,271.0,East Carolina,DE,15,2.0,0.0,2.0,Packers,2010
+21.0,Charles Woodson,10/7/1976,34.0,6-1,210.0,Michigan,LCB,16,16.0,12.0,14.0,Packers,2010
+94.0,Jarius Wynn,8/29/1986,24.0,6-5,273.0,"Georgia Military,Georgia",DE,9,0.0,1.0,1.0,Packers,2010
+58.0,Frank Zombo,3/5/1987,23.0,6-3,254.0,Central Michigan,ROLB,13,8.0,0.0,5.0,Packers,2010
+,Team Total,,26.3,6-1.8,244.4,,,16,,3.2,,Packers,2010

@@ -1,64 +1,64 @@
-,No.,Player,BirthDate,Age,Height,Weight,College/University,Position,Games_Played_in_Season,Games_Started_in_Season,NFL_Years,Player_Value,Team,Year
-0,58.0,Kevin Alexander,7/1/1987,23.0,6-4,265.0,Clemson,LBODE,8,0.0,0.0,0.0,Broncos,2010
-1,56.0,Robert Ayers,9/6/1985,25.0,6-3,275.0,Tennessee,ROLB,11,10.0,1.0,3.0,Broncos,2010
-2,24.0,Champ Bailey,6/22/1978,32.0,6-0,192.0,Georgia,LCB,15,15.0,11.0,7.0,Broncos,2010
-3,35.0,Lance Ball,6/19/1985,25.0,5-9,223.0,Maryland,RB,10,0.0,2.0,1.0,Broncos,2010
-4,97.0,Justin Bannan,4/18/1979,31.0,6-3,312.0,Colorado,RDE,16,16.0,8.0,5.0,Broncos,2010
-5,67.0,D'Anthony Batiste,3/29/1982,28.0,6-4,314.0,Louisiana,T,5,0.0,3.0,0.0,Broncos,2010
-6,68.0,Zane Beadles,11/19/1986,24.0,6-4,305.0,Utah,LG/RT,16,14.0,0.0,7.0,Broncos,2010
-7,53.0,Diyral Briggs,10/31/1985,25.0,6-4,230.0,Bowling Green,LB,1,0.0,1.0,0.0,Broncos,2010
-8,29.0,Andre Brown,12/15/1986,24.0,6-0,224.0,North Carolina St.,RB,3,0.0,0.0,0.0,Broncos,2010
-9,30.0,David Bruton,7/23/1987,23.0,6-2,210.0,Notre Dame,DB,16,2.0,1.0,2.0,Broncos,2010
-10,28.0,Correll Buckhalter,10/6/1978,32.0,6-0,223.0,Nebraska,RB,15,0.0,9.0,3.0,Broncos,2010
-11,78.0,Ryan Clady,9/6/1986,24.0,6-6,315.0,Boise St.,LT,16,16.0,2.0,7.0,Broncos,2010
-12,75.0,Chris Clark,10/1/1985,25.0,6-5,305.0,Southern Miss,T,8,0.0,0.0,1.0,Broncos,2010
-13,85.0,Daniel Coats,4/16/1984,26.0,6-3,257.0,BYU,TE,4,0.0,3.0,0.0,Broncos,2010
-14,4.0,Britton Colquitt,3/20/1985,25.0,6-3,210.0,Tennessee,P,16,0.0,0.0,3.0,Broncos,2010
-15,32.0,Perrish Cox,1/10/1987,23.0,5-11,189.0,Oklahoma St.,RCB,15,9.0,0.0,3.0,Broncos,2010
-16,64.0,Stanley Daniels,11/30/1984,26.0,6-3,328.0,Washington,G,7,4.0,0.0,2.0,Broncos,2010
-17,17.0,Britt Davis,4/23/1986,24.0,6-3,205.0,Northern Illinois,WR,3,0.0,0.0,0.0,Broncos,2010
-18,20.0,Brian Dawkins,10/13/1973,37.0,6-0,210.0,Clemson,SS,11,11.0,14.0,3.0,Broncos,2010
-19,87.0,Eric Decker,3/15/1987,23.0,6-3,214.0,Minnesota,WR,14,0.0,0.0,1.0,Broncos,2010
-20,91.0,Ronald Fields,9/13/1981,29.0,6-2,314.0,Mississippi St.,DT,16,0.0,5.0,1.0,Broncos,2010
-21,10.0,Jabar Gaffney,12/1/1980,30.0,6-2,200.0,Florida,WR,16,11.0,8.0,7.0,Broncos,2010
-22,21.0,Andre' Goodman,8/11/1978,32.0,5-10,191.0,South Carolina,RCB,8,8.0,8.0,2.0,Broncos,2010
-23,89.0,Daniel Graham,11/16/1978,32.0,6-3,257.0,Colorado,TE,16,16.0,8.0,1.0,Broncos,2010
-24,82.0,Dan Gronkowski,1/21/1985,25.0,6-6,255.0,Maryland,TE,12,4.0,1.0,1.0,Broncos,2010
-25,57.0,Mario Haggan,3/3/1980,30.0,6-3,274.0,Mississippi St.,RILB,16,16.0,7.0,6.0,Broncos,2010
-26,74.0,Ryan Harris,3/11/1985,25.0,6-5,299.0,Notre Dame,RT,11,10.0,3.0,5.0,Broncos,2010
-27,3.0,Stephen Hauschka,6/29/1985,25.0,6-4,210.0,"Middlebury,North Carolina St.",K,4,0.0,2.0,1.0,Broncos,2010
-28,23.0,Renaldo Hill,11/12/1978,32.0,5-11,205.0,Michigan St.,FS,16,16.0,9.0,5.0,Broncos,2010
-29,71.0,Russ Hochstein,10/7/1977,33.0,6-4,300.0,Nebraska,LG,16,6.0,8.0,4.0,Broncos,2010
-30,52.0,Jason Hunter,8/28/1983,27.0,6-4,270.0,Appalachian St.,LOLB,16,12.0,4.0,5.0,Broncos,2010
-31,33.0,Nate Jones,6/15/1982,28.0,5-10,185.0,Rutgers,DB,16,3.0,6.0,1.0,Broncos,2010
-32,73.0,Chris Kuper,12/19/1982,28.0,6-4,303.0,North Dakota,RG,15,15.0,4.0,7.0,Broncos,2010
-33,46.0,Spencer Larsen,3/4/1984,26.0,6-2,235.0,Arizona,FB,11,5.0,2.0,1.0,Broncos,2010
-34,84.0,Brandon Lloyd,7/5/1981,29.0,6-0,200.0,Illinois,WR,16,11.0,7.0,12.0,Broncos,2010
-35,26.0,Laurence Maroney,2/5/1985,25.0,5-11,220.0,Minnesota,RB,4,3.0,4.0,1.0,Broncos,2010
-36,51.0,Joe Mays,7/6/1985,25.0,5-11,245.0,North Dakota St.,RILB,12,5.0,2.0,2.0,Broncos,2010
-37,31.0,Darcel McBath,10/28/1985,25.0,6-0,199.0,Texas Tech,DB,7,1.0,1.0,1.0,Broncos,2010
-38,98.0,Ryan McBean,4/23/1984,26.0,6-5,277.0,"Hinds CC,Oklahoma St.",DT,16,4.0,3.0,2.0,Broncos,2010
-39,34.0,Kyle McCarthy,9/30/1986,24.0,6-0,203.0,Notre Dame,DB,8,0.0,0.0,0.0,Broncos,2010
-40,27.0,Knowshon Moreno,7/16/1987,23.0,5-10,215.0,Georgia,RB,13,13.0,1.0,8.0,Broncos,2010
-41,94.0,Jarvis Moss,8/3/1984,26.0,6-7,250.0,Florida,DE,9,0.0,3.0,0.0,Broncos,2010
-42,69.0,Eric Olsen,6/16/1988,22.0,6-3,301.0,Notre Dame,G,1,0.0,0.0,0.0,Broncos,2010
-43,8.0,Kyle Orton,11/14/1982,28.0,6-4,228.0,Purdue,QB,13,13.0,5.0,11.0,Broncos,2010
-44,66.0,Lonie Paxton,3/13/1978,32.0,6-2,270.0,Sacramento St.,LS,16,0.0,10.0,2.0,Broncos,2010
-45,5.0,Matt Prater,8/10/1984,26.0,5-10,201.0,Central Florida,K,12,0.0,3.0,3.0,Broncos,2010
-46,81.0,Richard Quinn,9/6/1986,24.0,6-3,260.0,North Carolina,TE,14,4.0,1.0,0.0,Broncos,2010
-47,54.0,Lee Robinson,4/23/1987,23.0,6-2,245.0,Alcorn St.,LB,3,0.0,0.0,0.0,Broncos,2010
-48,19.0,Eddie Royal,5/21/1986,24.0,5-10,182.0,Virginia Tech,WR,16,10.0,2.0,5.0,Broncos,2010
-49,90.0,Le Kevin Smith,7/21/1982,28.0,6-3,308.0,Nebraska,DT,1,0.0,4.0,0.0,Broncos,2010
-50,15.0,Tim Tebow,8/14/1987,23.0,6-2,236.0,Florida,QB,9,3.0,0.0,3.0,Broncos,2010
-51,88.0,Demaryius Thomas,12/25/1987,23.0,6-3,225.0,Georgia Tech,WR,10,2.0,0.0,2.0,Broncos,2010
-52,79.0,Marcus Thomas,9/23/1985,25.0,6-3,314.0,Florida,DT,16,2.0,3.0,2.0,Broncos,2010
-53,22.0,Syd'Quan Thompson,2/7/1987,23.0,5-9,182.0,California,DB,13,0.0,0.0,1.0,Broncos,2010
-54,41.0,Cassius Vaughn,11/3/1987,23.0,5-11,195.0,Mississippi,DB,13,0.0,0.0,2.0,Broncos,2010
-55,90.0,David Veikune,12/12/1985,25.0,6-2,255.0,Hawaii,DE,4,0.0,1.0,0.0,Broncos,2010
-56,99.0,Kevin Vickerson,1/8/1983,27.0,6-5,328.0,Michigan St.,LDE,15,12.0,3.0,4.0,Broncos,2010
-57,50.0,J.D. Walton,3/24/1987,23.0,6-3,299.0,Baylor,C,16,16.0,0.0,7.0,Broncos,2010
-58,55.0,D.J. Williams,7/20/1982,28.0,6-1,242.0,Miami (FL),LILB,16,15.0,6.0,6.0,Broncos,2010
-59,76.0,Jamal Williams,4/28/1976,34.0,6-3,348.0,Oklahoma St.,NT,16,16.0,12.0,5.0,Broncos,2010
-60,12.0,Matt Willis,4/13/1984,26.0,5-11,185.0,UCLA,WR,6,0.0,3.0,0.0,Broncos,2010
-61,59.0,Wesley Woodyard,7/21/1986,24.0,6-0,233.0,Kentucky,LB,11,3.0,2.0,2.0,Broncos,2010
-62,,Team Total,,26.5,6-1.9,247.6,,,16,,3.3,,Broncos,2010
+No.,Player,BirthDate,Age,Height,Weight,College/University,Position,Games_Played_in_Season,Games_Started_in_Season,NFL_Years,Player_Value,Team,Year
+58.0,Kevin Alexander,7/1/1987,23.0,6-4,265.0,Clemson,LBODE,8,0.0,0.0,0.0,Broncos,2010
+56.0,Robert Ayers,9/6/1985,25.0,6-3,275.0,Tennessee,ROLB,11,10.0,1.0,3.0,Broncos,2010
+24.0,Champ Bailey,6/22/1978,32.0,6-0,192.0,Georgia,LCB,15,15.0,11.0,7.0,Broncos,2010
+35.0,Lance Ball,6/19/1985,25.0,5-9,223.0,Maryland,RB,10,0.0,2.0,1.0,Broncos,2010
+97.0,Justin Bannan,4/18/1979,31.0,6-3,312.0,Colorado,RDE,16,16.0,8.0,5.0,Broncos,2010
+67.0,D'Anthony Batiste,3/29/1982,28.0,6-4,314.0,Louisiana,T,5,0.0,3.0,0.0,Broncos,2010
+68.0,Zane Beadles,11/19/1986,24.0,6-4,305.0,Utah,LG/RT,16,14.0,0.0,7.0,Broncos,2010
+53.0,Diyral Briggs,10/31/1985,25.0,6-4,230.0,Bowling Green,LB,1,0.0,1.0,0.0,Broncos,2010
+29.0,Andre Brown,12/15/1986,24.0,6-0,224.0,North Carolina St.,RB,3,0.0,0.0,0.0,Broncos,2010
+30.0,David Bruton,7/23/1987,23.0,6-2,210.0,Notre Dame,DB,16,2.0,1.0,2.0,Broncos,2010
+28.0,Correll Buckhalter,10/6/1978,32.0,6-0,223.0,Nebraska,RB,15,0.0,9.0,3.0,Broncos,2010
+78.0,Ryan Clady,9/6/1986,24.0,6-6,315.0,Boise St.,LT,16,16.0,2.0,7.0,Broncos,2010
+75.0,Chris Clark,10/1/1985,25.0,6-5,305.0,Southern Miss,T,8,0.0,0.0,1.0,Broncos,2010
+85.0,Daniel Coats,4/16/1984,26.0,6-3,257.0,BYU,TE,4,0.0,3.0,0.0,Broncos,2010
+4.0,Britton Colquitt,3/20/1985,25.0,6-3,210.0,Tennessee,P,16,0.0,0.0,3.0,Broncos,2010
+32.0,Perrish Cox,1/10/1987,23.0,5-11,189.0,Oklahoma St.,RCB,15,9.0,0.0,3.0,Broncos,2010
+64.0,Stanley Daniels,11/30/1984,26.0,6-3,328.0,Washington,G,7,4.0,0.0,2.0,Broncos,2010
+17.0,Britt Davis,4/23/1986,24.0,6-3,205.0,Northern Illinois,WR,3,0.0,0.0,0.0,Broncos,2010
+20.0,Brian Dawkins,10/13/1973,37.0,6-0,210.0,Clemson,SS,11,11.0,14.0,3.0,Broncos,2010
+87.0,Eric Decker,3/15/1987,23.0,6-3,214.0,Minnesota,WR,14,0.0,0.0,1.0,Broncos,2010
+91.0,Ronald Fields,9/13/1981,29.0,6-2,314.0,Mississippi St.,DT,16,0.0,5.0,1.0,Broncos,2010
+10.0,Jabar Gaffney,12/1/1980,30.0,6-2,200.0,Florida,WR,16,11.0,8.0,7.0,Broncos,2010
+21.0,Andre' Goodman,8/11/1978,32.0,5-10,191.0,South Carolina,RCB,8,8.0,8.0,2.0,Broncos,2010
+89.0,Daniel Graham,11/16/1978,32.0,6-3,257.0,Colorado,TE,16,16.0,8.0,1.0,Broncos,2010
+82.0,Dan Gronkowski,1/21/1985,25.0,6-6,255.0,Maryland,TE,12,4.0,1.0,1.0,Broncos,2010
+57.0,Mario Haggan,3/3/1980,30.0,6-3,274.0,Mississippi St.,RILB,16,16.0,7.0,6.0,Broncos,2010
+74.0,Ryan Harris,3/11/1985,25.0,6-5,299.0,Notre Dame,RT,11,10.0,3.0,5.0,Broncos,2010
+3.0,Stephen Hauschka,6/29/1985,25.0,6-4,210.0,"Middlebury,North Carolina St.",K,4,0.0,2.0,1.0,Broncos,2010
+23.0,Renaldo Hill,11/12/1978,32.0,5-11,205.0,Michigan St.,FS,16,16.0,9.0,5.0,Broncos,2010
+71.0,Russ Hochstein,10/7/1977,33.0,6-4,300.0,Nebraska,LG,16,6.0,8.0,4.0,Broncos,2010
+52.0,Jason Hunter,8/28/1983,27.0,6-4,270.0,Appalachian St.,LOLB,16,12.0,4.0,5.0,Broncos,2010
+33.0,Nate Jones,6/15/1982,28.0,5-10,185.0,Rutgers,DB,16,3.0,6.0,1.0,Broncos,2010
+73.0,Chris Kuper,12/19/1982,28.0,6-4,303.0,North Dakota,RG,15,15.0,4.0,7.0,Broncos,2010
+46.0,Spencer Larsen,3/4/1984,26.0,6-2,235.0,Arizona,FB,11,5.0,2.0,1.0,Broncos,2010
+84.0,Brandon Lloyd,7/5/1981,29.0,6-0,200.0,Illinois,WR,16,11.0,7.0,12.0,Broncos,2010
+26.0,Laurence Maroney,2/5/1985,25.0,5-11,220.0,Minnesota,RB,4,3.0,4.0,1.0,Broncos,2010
+51.0,Joe Mays,7/6/1985,25.0,5-11,245.0,North Dakota St.,RILB,12,5.0,2.0,2.0,Broncos,2010
+31.0,Darcel McBath,10/28/1985,25.0,6-0,199.0,Texas Tech,DB,7,1.0,1.0,1.0,Broncos,2010
+98.0,Ryan McBean,4/23/1984,26.0,6-5,277.0,"Hinds CC,Oklahoma St.",DT,16,4.0,3.0,2.0,Broncos,2010
+34.0,Kyle McCarthy,9/30/1986,24.0,6-0,203.0,Notre Dame,DB,8,0.0,0.0,0.0,Broncos,2010
+27.0,Knowshon Moreno,7/16/1987,23.0,5-10,215.0,Georgia,RB,13,13.0,1.0,8.0,Broncos,2010
+94.0,Jarvis Moss,8/3/1984,26.0,6-7,250.0,Florida,DE,9,0.0,3.0,0.0,Broncos,2010
+69.0,Eric Olsen,6/16/1988,22.0,6-3,301.0,Notre Dame,G,1,0.0,0.0,0.0,Broncos,2010
+8.0,Kyle Orton,11/14/1982,28.0,6-4,228.0,Purdue,QB,13,13.0,5.0,11.0,Broncos,2010
+66.0,Lonie Paxton,3/13/1978,32.0,6-2,270.0,Sacramento St.,LS,16,0.0,10.0,2.0,Broncos,2010
+5.0,Matt Prater,8/10/1984,26.0,5-10,201.0,Central Florida,K,12,0.0,3.0,3.0,Broncos,2010
+81.0,Richard Quinn,9/6/1986,24.0,6-3,260.0,North Carolina,TE,14,4.0,1.0,0.0,Broncos,2010
+54.0,Lee Robinson,4/23/1987,23.0,6-2,245.0,Alcorn St.,LB,3,0.0,0.0,0.0,Broncos,2010
+19.0,Eddie Royal,5/21/1986,24.0,5-10,182.0,Virginia Tech,WR,16,10.0,2.0,5.0,Broncos,2010
+90.0,Le Kevin Smith,7/21/1982,28.0,6-3,308.0,Nebraska,DT,1,0.0,4.0,0.0,Broncos,2010
+15.0,Tim Tebow,8/14/1987,23.0,6-2,236.0,Florida,QB,9,3.0,0.0,3.0,Broncos,2010
+88.0,Demaryius Thomas,12/25/1987,23.0,6-3,225.0,Georgia Tech,WR,10,2.0,0.0,2.0,Broncos,2010
+79.0,Marcus Thomas,9/23/1985,25.0,6-3,314.0,Florida,DT,16,2.0,3.0,2.0,Broncos,2010
+22.0,Syd'Quan Thompson,2/7/1987,23.0,5-9,182.0,California,DB,13,0.0,0.0,1.0,Broncos,2010
+41.0,Cassius Vaughn,11/3/1987,23.0,5-11,195.0,Mississippi,DB,13,0.0,0.0,2.0,Broncos,2010
+90.0,David Veikune,12/12/1985,25.0,6-2,255.0,Hawaii,DE,4,0.0,1.0,0.0,Broncos,2010
+99.0,Kevin Vickerson,1/8/1983,27.0,6-5,328.0,Michigan St.,LDE,15,12.0,3.0,4.0,Broncos,2010
+50.0,J.D. Walton,3/24/1987,23.0,6-3,299.0,Baylor,C,16,16.0,0.0,7.0,Broncos,2010
+55.0,D.J. Williams,7/20/1982,28.0,6-1,242.0,Miami (FL),LILB,16,15.0,6.0,6.0,Broncos,2010
+76.0,Jamal Williams,4/28/1976,34.0,6-3,348.0,Oklahoma St.,NT,16,16.0,12.0,5.0,Broncos,2010
+12.0,Matt Willis,4/13/1984,26.0,5-11,185.0,UCLA,WR,6,0.0,3.0,0.0,Broncos,2010
+59.0,Wesley Woodyard,7/21/1986,24.0,6-0,233.0,Kentucky,LB,11,3.0,2.0,2.0,Broncos,2010
+,Team Total,,26.5,6-1.9,247.6,,,16,,3.3,,Broncos,2010
