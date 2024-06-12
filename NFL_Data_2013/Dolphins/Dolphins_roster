@@ -1,66 +1,66 @@
-,No.,Player,BirthDate,Age,Height,Weight,College/University,Position,Games_Played_in_Season,Games_Started_in_Season,NFL_Years,Player_Value,Team,Year
-0,97.0,Isaako Aaitui,1/25/1987,26.0,6-4,315.0,UNLV,DT,4,0.0,0.0,0.0,Dolphins,2013
-1,66.0,David Arkin,10/7/1987,26.0,6-5,300.0,Missouri State,G,1,0.0,0.0,0.0,Dolphins,2013
-2,58.0,Marvin Austin,1/1/1989,24.0,6-2,310.0,North Carolina,DT,2,0.0,1.0,0.0,Dolphins,2013
-3,65.0,Sam Brenner,4/27/1990,23.0,6-2,301.0,Utah,G,7,4.0,0.0,2.0,Dolphins,2013
-4,37.0,D.J. Campbell,7/24/1989,24.0,6-0,201.0,California,DB,4,0.0,1.0,0.0,Dolphins,2013
-5,28.0,Nolan Carroll,1/16/1987,26.0,6-1,202.0,Maryland,RCB,16,12.0,3.0,5.0,Dolphins,2013
-6,77.0,Tyson Clabo,10/17/1981,32.0,6-6,315.0,Wake Forest,RT,15,15.0,7.0,7.0,Dolphins,2013
-7,42.0,Charles Clay,2/13/1989,24.0,6-3,246.0,Tulsa,TE,16,15.0,2.0,6.0,Dolphins,2013
-8,30.0,Chris Clemons,9/15/1985,28.0,6-1,210.0,Clemson,SS,16,16.0,4.0,6.0,Dolphins,2013
-9,40.0,Tyler Clutts,11/9/1984,29.0,6-2,260.0,Fresno St.,RB,4,0.0,2.0,0.0,Dolphins,2013
-10,29.0,Will Davis,5/8/1990,23.0,5-11,186.0,Utah St.,DB,5,0.0,0.0,0.0,Dolphins,2013
-11,92.0,John Denney,12/13/1978,35.0,6-5,242.0,BYU,LS,16,0.0,8.0,3.0,Dolphins,2013
-12,84.0,Michael Egnew,11/1/1989,24.0,6-5,252.0,Missouri,TE,16,5.0,1.0,0.0,Dolphins,2013
-13,59.0,Dannell Ellerbe,11/29/1985,28.0,6-1,236.0,Georgia,MLB,15,15.0,4.0,8.0,Dolphins,2013
-14,2.0,Brandon Fields,5/21/1984,29.0,6-5,249.0,Michigan St.,P,16,0.0,6.0,4.0,Dolphins,2013
-15,56.0,Jonathan Freeny,6/15/1989,24.0,6-2,245.0,Rutgers,DE,16,0.0,1.0,1.0,Dolphins,2013
-16,75.0,Nate Garner,1/18/1985,28.0,6-7,319.0,Arkansas,LG,16,6.0,4.0,3.0,Dolphins,2013
-17,10.0,Brandon Gibson,8/13/1987,26.0,6-0,204.0,Washington St.,WR,7,3.0,4.0,2.0,Dolphins,2013
-18,23.0,Mike Gillislee,11/1/1990,23.0,5-11,210.0,Florida,RB,3,0.0,0.0,0.0,Dolphins,2013
-19,21.0,Brent Grimes,7/19/1983,30.0,5-10,185.0,Shippensburg,LCB,16,16.0,6.0,10.0,Dolphins,2013
-20,82.0,Brian Hartline,11/22/1986,27.0,6-2,180.0,Ohio St.,WR,16,15.0,4.0,7.0,Dolphins,2013
-21,68.0,Richie Incognito,7/5/1983,30.0,6-4,322.0,"Nebraska,Oregon",LG,8,8.0,7.0,3.0,Dolphins,2013
-22,53.0,Jelani Jenkins,3/13/1992,21.0,6-0,240.0,Florida,LB,16,0.0,0.0,1.0,Dolphins,2013
-23,74.0,John Jerry,6/14/1986,27.0,6-5,340.0,Mississippi,RG,16,16.0,3.0,7.0,Dolphins,2013
-24,36.0,Don Jones,5/14/1990,23.0,5-11,195.0,"Mississippi Gulf Coast CC,Arkansas St.",DB,16,0.0,0.0,1.0,Dolphins,2013
-25,20.0,Reshad Jones,2/25/1988,25.0,6-1,215.0,Georgia,FS,16,16.0,3.0,6.0,Dolphins,2013
-26,95.0,Dion Jordan,3/5/1990,23.0,6-6,284.0,Oregon,DE,16,0.0,0.0,2.0,Dolphins,2013
-27,57.0,Josh Kaddu,3/12/1990,23.0,6-3,239.0,Oregon,LB,1,0.0,1.0,0.0,Dolphins,2013
-28,44.0,Jordan Kovacs,6/12/1990,23.0,5-10,205.0,Michigan,DB,9,0.0,0.0,1.0,Dolphins,2013
-29,71.0,Jonathan Martin,12/28/1989,24.0,6-6,300.0,Stanford,LT,7,7.0,1.0,3.0,Dolphins,2013
-30,90.0,Vaughn Martin,4/18/1986,27.0,6-3,331.0,Western Ontario,DT,3,0.0,4.0,0.0,Dolphins,2013
-31,18.0,Rishard Matthews,10/12/1989,24.0,6-0,217.0,Nevada,TE,16,5.0,1.0,3.0,Dolphins,2013
-32,37.0,Kelcie McCray,9/21/1988,25.0,6-2,205.0,Arkansas St.,DB,4,0.0,0.0,0.0,Dolphins,2013
-33,78.0,Bryant McKinnie,9/23/1979,34.0,6-8,360.0,"Lackawanna,Miami (FL)",LT,10,10.0,11.0,4.0,Dolphins,2013
-34,26.0,Lamar Miller,4/25/1991,22.0,5-10,221.0,Miami (FL),RB,16,15.0,1.0,5.0,Dolphins,2013
-35,55.0,Koa Misi,1/17/1987,26.0,6-3,244.0,Utah,RLB,15,12.0,3.0,6.0,Dolphins,2013
-36,14.0,Marlon Moore,9/3/1987,26.0,6-0,190.0,Fresno St.,WR,8,0.0,3.0,0.0,Dolphins,2013
-37,8.0,Matt Moore,8/9/1984,29.0,6-3,219.0,"College of the Canyons (CA),Oregon St.",QB,1,0.0,6.0,0.0,Dolphins,2013
-38,98.0,Jared Odrick,12/31/1987,26.0,6-5,301.0,Penn St.,LDT,16,5.0,3.0,4.0,Dolphins,2013
-39,41.0,Chris Owens,12/1/1986,27.0,5-10,182.0,San Jose St.,DB,1,0.0,4.0,0.0,Dolphins,2013
-40,24.0,Dimitri Patterson,6/18/1983,30.0,6-0,200.0,"SE Missouri St.,Tuskegee",DB,6,4.0,8.0,3.0,Dolphins,2013
-41,51.0,Mike Pouncey,7/24/1989,24.0,6-5,298.0,Florida,C,14,14.0,2.0,8.0,Dolphins,2013
-42,79.0,Derrick Shelby,3/4/1989,24.0,6-2,280.0,Utah,DE,16,1.0,1.0,2.0,Dolphins,2013
-43,80.0,Dion Sims,2/18/1991,22.0,6-4,268.0,Michigan St.,TE,15,5.0,0.0,0.0,Dolphins,2013
-44,96.0,Paul Soliai,12/30/1983,30.0,6-4,344.0,Utah,RDT,15,15.0,6.0,7.0,Dolphins,2013
-45,87.0,Ryan Spadola,2/15/1991,22.0,6-3,200.0,Lehigh,WR,1,0.0,0.0,0.0,Dolphins,2013
-46,45.0,Austin Spitler,10/26/1986,27.0,6-3,244.0,Ohio St.,LB,12,0.0,3.0,1.0,Dolphins,2013
-47,25.0,R.J. Stanford,5/6/1988,25.0,5-10,180.0,Utah,DB,13,0.0,2.0,1.0,Dolphins,2013
-48,94.0,Randy Starks,12/14/1983,30.0,6-4,305.0,Maryland,LDT,16,14.0,9.0,7.0,Dolphins,2013
-49,9.0,Caleb Sturgis,8/9/1989,24.0,5-9,192.0,Florida,K,16,0.0,0.0,2.0,Dolphins,2013
-50,17.0,Ryan Tannehill,7/27/1988,25.0,6-4,217.0,Texas A&M,QB,16,16.0,1.0,11.0,Dolphins,2013
-51,22.0,Jamar Taylor,9/29/1990,23.0,5-11,192.0,Boise St.,DB,9,0.0,0.0,1.0,Dolphins,2013
-52,34.0,Marcus Thigpen,5/15/1986,27.0,5-9,193.0,Indiana,RB,16,0.0,1.0,1.0,Dolphins,2013
-53,70.0,Dallas Thomas,10/30/1989,24.0,6-5,306.0,Tennessee,T,6,0.0,0.0,0.0,Dolphins,2013
-54,33.0,Daniel Thomas,10/29/1987,26.0,6-0,225.0,"Northwest Mississippi CC,Kansas St.",RB,15,1.0,2.0,3.0,Dolphins,2013
-55,31.0,Michael Thomas,3/17/1990,23.0,5-11,192.0,Stanford,DB,3,0.0,0.0,0.0,Dolphins,2013
-56,93.0,Jason Trusnik,6/6/1984,29.0,6-4,241.0,Ohio Northern,DE,16,2.0,6.0,2.0,Dolphins,2013
-57,50.0,Olivier Vernon,10/7/1990,23.0,6-2,262.0,Miami (FL),RDE,16,14.0,1.0,8.0,Dolphins,2013
-58,91.0,Cameron Wake,1/30/1982,31.0,6-3,263.0,Penn St.,LDE,15,15.0,4.0,10.0,Dolphins,2013
-59,11.0,Mike Wallace,8/1/1986,27.0,6-0,200.0,Mississippi,WR,16,16.0,4.0,7.0,Dolphins,2013
-60,62.0,Danny Watkins,11/6/1984,29.0,6-3,312.0,Baylor,G,1,0.0,2.0,0.0,Dolphins,2013
-61,52.0,Philip Wheeler,12/12/1984,29.0,6-2,245.0,Georgia Tech,LLB,16,16.0,5.0,8.0,Dolphins,2013
-62,27.0,Jimmy Wilson,7/30/1986,27.0,5-11,193.0,Montana,DB,16,3.0,2.0,2.0,Dolphins,2013
-63,72.0,Will Yeatman,4/10/1988,25.0,6-5,268.0,"Notre Dame,Maryland",TE,8,0.0,2.0,1.0,Dolphins,2013
-64,,Team Total,,26.1,6-2.1,246.8,,,16,,2.7,,Dolphins,2013
+No.,Player,BirthDate,Age,Height,Weight,College/University,Position,Games_Played_in_Season,Games_Started_in_Season,NFL_Years,Player_Value,Team,Year
+97.0,Isaako Aaitui,1/25/1987,26.0,6-4,315.0,UNLV,DT,4,0.0,0.0,0.0,Dolphins,2013
+66.0,David Arkin,10/7/1987,26.0,6-5,300.0,Missouri State,G,1,0.0,0.0,0.0,Dolphins,2013
+58.0,Marvin Austin,1/1/1989,24.0,6-2,310.0,North Carolina,DT,2,0.0,1.0,0.0,Dolphins,2013
+65.0,Sam Brenner,4/27/1990,23.0,6-2,301.0,Utah,G,7,4.0,0.0,2.0,Dolphins,2013
+37.0,D.J. Campbell,7/24/1989,24.0,6-0,201.0,California,DB,4,0.0,1.0,0.0,Dolphins,2013
+28.0,Nolan Carroll,1/16/1987,26.0,6-1,202.0,Maryland,RCB,16,12.0,3.0,5.0,Dolphins,2013
+77.0,Tyson Clabo,10/17/1981,32.0,6-6,315.0,Wake Forest,RT,15,15.0,7.0,7.0,Dolphins,2013
+42.0,Charles Clay,2/13/1989,24.0,6-3,246.0,Tulsa,TE,16,15.0,2.0,6.0,Dolphins,2013
+30.0,Chris Clemons,9/15/1985,28.0,6-1,210.0,Clemson,SS,16,16.0,4.0,6.0,Dolphins,2013
+40.0,Tyler Clutts,11/9/1984,29.0,6-2,260.0,Fresno St.,RB,4,0.0,2.0,0.0,Dolphins,2013
+29.0,Will Davis,5/8/1990,23.0,5-11,186.0,Utah St.,DB,5,0.0,0.0,0.0,Dolphins,2013
+92.0,John Denney,12/13/1978,35.0,6-5,242.0,BYU,LS,16,0.0,8.0,3.0,Dolphins,2013
+84.0,Michael Egnew,11/1/1989,24.0,6-5,252.0,Missouri,TE,16,5.0,1.0,0.0,Dolphins,2013
+59.0,Dannell Ellerbe,11/29/1985,28.0,6-1,236.0,Georgia,MLB,15,15.0,4.0,8.0,Dolphins,2013
+2.0,Brandon Fields,5/21/1984,29.0,6-5,249.0,Michigan St.,P,16,0.0,6.0,4.0,Dolphins,2013
+56.0,Jonathan Freeny,6/15/1989,24.0,6-2,245.0,Rutgers,DE,16,0.0,1.0,1.0,Dolphins,2013
+75.0,Nate Garner,1/18/1985,28.0,6-7,319.0,Arkansas,LG,16,6.0,4.0,3.0,Dolphins,2013
+10.0,Brandon Gibson,8/13/1987,26.0,6-0,204.0,Washington St.,WR,7,3.0,4.0,2.0,Dolphins,2013
+23.0,Mike Gillislee,11/1/1990,23.0,5-11,210.0,Florida,RB,3,0.0,0.0,0.0,Dolphins,2013
+21.0,Brent Grimes,7/19/1983,30.0,5-10,185.0,Shippensburg,LCB,16,16.0,6.0,10.0,Dolphins,2013
+82.0,Brian Hartline,11/22/1986,27.0,6-2,180.0,Ohio St.,WR,16,15.0,4.0,7.0,Dolphins,2013
+68.0,Richie Incognito,7/5/1983,30.0,6-4,322.0,"Nebraska,Oregon",LG,8,8.0,7.0,3.0,Dolphins,2013
+53.0,Jelani Jenkins,3/13/1992,21.0,6-0,240.0,Florida,LB,16,0.0,0.0,1.0,Dolphins,2013
+74.0,John Jerry,6/14/1986,27.0,6-5,340.0,Mississippi,RG,16,16.0,3.0,7.0,Dolphins,2013
+36.0,Don Jones,5/14/1990,23.0,5-11,195.0,"Mississippi Gulf Coast CC,Arkansas St.",DB,16,0.0,0.0,1.0,Dolphins,2013
+20.0,Reshad Jones,2/25/1988,25.0,6-1,215.0,Georgia,FS,16,16.0,3.0,6.0,Dolphins,2013
+95.0,Dion Jordan,3/5/1990,23.0,6-6,284.0,Oregon,DE,16,0.0,0.0,2.0,Dolphins,2013
+57.0,Josh Kaddu,3/12/1990,23.0,6-3,239.0,Oregon,LB,1,0.0,1.0,0.0,Dolphins,2013
+44.0,Jordan Kovacs,6/12/1990,23.0,5-10,205.0,Michigan,DB,9,0.0,0.0,1.0,Dolphins,2013
+71.0,Jonathan Martin,12/28/1989,24.0,6-6,300.0,Stanford,LT,7,7.0,1.0,3.0,Dolphins,2013
+90.0,Vaughn Martin,4/18/1986,27.0,6-3,331.0,Western Ontario,DT,3,0.0,4.0,0.0,Dolphins,2013
+18.0,Rishard Matthews,10/12/1989,24.0,6-0,217.0,Nevada,TE,16,5.0,1.0,3.0,Dolphins,2013
+37.0,Kelcie McCray,9/21/1988,25.0,6-2,205.0,Arkansas St.,DB,4,0.0,0.0,0.0,Dolphins,2013
+78.0,Bryant McKinnie,9/23/1979,34.0,6-8,360.0,"Lackawanna,Miami (FL)",LT,10,10.0,11.0,4.0,Dolphins,2013
+26.0,Lamar Miller,4/25/1991,22.0,5-10,221.0,Miami (FL),RB,16,15.0,1.0,5.0,Dolphins,2013
+55.0,Koa Misi,1/17/1987,26.0,6-3,244.0,Utah,RLB,15,12.0,3.0,6.0,Dolphins,2013
+14.0,Marlon Moore,9/3/1987,26.0,6-0,190.0,Fresno St.,WR,8,0.0,3.0,0.0,Dolphins,2013
+8.0,Matt Moore,8/9/1984,29.0,6-3,219.0,"College of the Canyons (CA),Oregon St.",QB,1,0.0,6.0,0.0,Dolphins,2013
+98.0,Jared Odrick,12/31/1987,26.0,6-5,301.0,Penn St.,LDT,16,5.0,3.0,4.0,Dolphins,2013
+41.0,Chris Owens,12/1/1986,27.0,5-10,182.0,San Jose St.,DB,1,0.0,4.0,0.0,Dolphins,2013
+24.0,Dimitri Patterson,6/18/1983,30.0,6-0,200.0,"SE Missouri St.,Tuskegee",DB,6,4.0,8.0,3.0,Dolphins,2013
+51.0,Mike Pouncey,7/24/1989,24.0,6-5,298.0,Florida,C,14,14.0,2.0,8.0,Dolphins,2013
+79.0,Derrick Shelby,3/4/1989,24.0,6-2,280.0,Utah,DE,16,1.0,1.0,2.0,Dolphins,2013
+80.0,Dion Sims,2/18/1991,22.0,6-4,268.0,Michigan St.,TE,15,5.0,0.0,0.0,Dolphins,2013
+96.0,Paul Soliai,12/30/1983,30.0,6-4,344.0,Utah,RDT,15,15.0,6.0,7.0,Dolphins,2013
+87.0,Ryan Spadola,2/15/1991,22.0,6-3,200.0,Lehigh,WR,1,0.0,0.0,0.0,Dolphins,2013
+45.0,Austin Spitler,10/26/1986,27.0,6-3,244.0,Ohio St.,LB,12,0.0,3.0,1.0,Dolphins,2013
+25.0,R.J. Stanford,5/6/1988,25.0,5-10,180.0,Utah,DB,13,0.0,2.0,1.0,Dolphins,2013
+94.0,Randy Starks,12/14/1983,30.0,6-4,305.0,Maryland,LDT,16,14.0,9.0,7.0,Dolphins,2013
+9.0,Caleb Sturgis,8/9/1989,24.0,5-9,192.0,Florida,K,16,0.0,0.0,2.0,Dolphins,2013
+17.0,Ryan Tannehill,7/27/1988,25.0,6-4,217.0,Texas A&M,QB,16,16.0,1.0,11.0,Dolphins,2013
+22.0,Jamar Taylor,9/29/1990,23.0,5-11,192.0,Boise St.,DB,9,0.0,0.0,1.0,Dolphins,2013
+34.0,Marcus Thigpen,5/15/1986,27.0,5-9,193.0,Indiana,RB,16,0.0,1.0,1.0,Dolphins,2013
+70.0,Dallas Thomas,10/30/1989,24.0,6-5,306.0,Tennessee,T,6,0.0,0.0,0.0,Dolphins,2013
+33.0,Daniel Thomas,10/29/1987,26.0,6-0,225.0,"Northwest Mississippi CC,Kansas St.",RB,15,1.0,2.0,3.0,Dolphins,2013
+31.0,Michael Thomas,3/17/1990,23.0,5-11,192.0,Stanford,DB,3,0.0,0.0,0.0,Dolphins,2013
+93.0,Jason Trusnik,6/6/1984,29.0,6-4,241.0,Ohio Northern,DE,16,2.0,6.0,2.0,Dolphins,2013
+50.0,Olivier Vernon,10/7/1990,23.0,6-2,262.0,Miami (FL),RDE,16,14.0,1.0,8.0,Dolphins,2013
+91.0,Cameron Wake,1/30/1982,31.0,6-3,263.0,Penn St.,LDE,15,15.0,4.0,10.0,Dolphins,2013
+11.0,Mike Wallace,8/1/1986,27.0,6-0,200.0,Mississippi,WR,16,16.0,4.0,7.0,Dolphins,2013
+62.0,Danny Watkins,11/6/1984,29.0,6-3,312.0,Baylor,G,1,0.0,2.0,0.0,Dolphins,2013
+52.0,Philip Wheeler,12/12/1984,29.0,6-2,245.0,Georgia Tech,LLB,16,16.0,5.0,8.0,Dolphins,2013
+27.0,Jimmy Wilson,7/30/1986,27.0,5-11,193.0,Montana,DB,16,3.0,2.0,2.0,Dolphins,2013
+72.0,Will Yeatman,4/10/1988,25.0,6-5,268.0,"Notre Dame,Maryland",TE,8,0.0,2.0,1.0,Dolphins,2013
+,Team Total,,26.1,6-2.1,246.8,,,16,,2.7,,Dolphins,2013

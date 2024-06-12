@@ -1,61 +1,61 @@
-,No.,Player,BirthDate,Age,Height,Weight,College/University,Position,Games_Played_in_Season,Games_Started_in_Season,NFL_Years,Player_Value,Team,Year
-0,23.0,Robert Alford,11/1/1988,25.0,5-10,186.0,Southeastern Louisiana,DB,16,4.0,0.0,2.0,Falcons,2013
-1,95.0,Jonathan Babineaux,10/12/1981,32.0,6-2,300.0,Iowa,RDT,16,16.0,8.0,6.0,Falcons,2013
-2,72.0,Sam Baker,5/30/1985,28.0,6-5,308.0,USC,T,4,4.0,5.0,2.0,Falcons,2013
-3,59.0,Joplo Bartu,10/3/1990,23.0,6-2,230.0,Texas St.,LLB,16,13.0,0.0,5.0,Falcons,2013
-4,71.0,Kroy Biermann,9/12/1985,28.0,6-3,242.0,Montana,LB,2,2.0,5.0,1.0,Falcons,2013
-5,63.0,Justin Blalock,12/20/1983,30.0,6-3,320.0,Texas,LG,16,16.0,6.0,8.0,Falcons,2013
-6,5.0,Matthew Bosher,10/18/1987,26.0,6-0,208.0,Miami (FL),P,16,0.0,2.0,2.0,Falcons,2013
-7,3.0,Matt Bryant,5/29/1975,38.0,5-9,203.0,Baylor,K,16,0.0,11.0,3.0,Falcons,2013
-8,51.0,Jamar Chaney,10/11/1986,27.0,6-1,242.0,Mississippi St.,LB,1,0.0,3.0,0.0,Falcons,2013
-9,86.0,Chase Coffman,11/10/1986,27.0,6-5,250.0,Missouri,TE,11,0.0,3.0,0.0,Falcons,2013
-10,15.0,Kevin Cone,3/20/1988,25.0,6-2,207.0,Georgia Tech,WR,16,0.0,2.0,0.0,Falcons,2013
-11,4.0,Dominique Davis,7/17/1989,24.0,6-3,210.0,East Carolina,QB,1,0.0,0.0,0.0,Falcons,2013
-12,19.0,Drew Davis,1/4/1989,24.0,6-1,205.0,Oregon,WR,16,3.0,1.0,2.0,Falcons,2013
-13,28.0,Thomas DeCoud,3/19/1985,28.0,6-1,196.0,California,FS,15,15.0,5.0,5.0,Falcons,2013
-14,52.0,Akeem Dent,9/27/1987,26.0,6-1,242.0,Georgia,MLB,15,7.0,2.0,3.0,Falcons,2013
-15,42.0,Patrick DiMarco,4/30/1989,24.0,6-1,234.0,South Carolina,RB,14,7.0,1.0,0.0,Falcons,2013
-16,83.0,Harry Douglas,9/16/1984,29.0,6-0,183.0,Louisville,WR,16,11.0,5.0,9.0,Falcons,2013
-17,34.0,Bradie Ewing,12/26/1989,24.0,6-0,239.0,Wisconsin,RB,2,2.0,0.0,0.0,Falcons,2013
-18,24.0,Dominique Franks,10/8/1987,26.0,6-0,180.0,Oklahoma,DB,16,0.0,3.0,1.0,Falcons,2013
-19,53.0,Omar Gaither,3/18/1984,29.0,6-2,235.0,Tennessee,LB,8,1.0,7.0,1.0,Falcons,2013
-20,88.0,Tony Gonzalez,2/27/1976,37.0,6-5,247.0,California,TE,16,16.0,16.0,7.0,Falcons,2013
-21,93.0,Malliciah Goodman,1/4/1990,23.0,6-4,276.0,Clemson,DE,14,1.0,0.0,1.0,Falcons,2013
-22,69.0,Harland Gunn,8/30/1989,24.0,6-2,310.0,Miami (FL),G,3,0.0,0.0,0.0,Falcons,2013
-23,47.0,Josh Harris,4/27/1989,24.0,6-1,224.0,Auburn,DB,16,0.0,1.0,1.0,Falcons,2013
-24,61.0,Joe Hawley,10/22/1988,25.0,6-3,302.0,UNLV,C,16,7.0,3.0,4.0,Falcons,2013
-25,76.0,Lamar Holmes,7/8/1989,24.0,6-5,320.0,Southern Miss,LT,16,15.0,1.0,8.0,Falcons,2013
-26,51.0,Thomas Howard,7/14/1983,30.0,6-3,245.0,Texas-El Paso,LB,2,0.0,7.0,0.0,Falcons,2013
-27,36.0,Kemal Ishmael,5/6/1991,22.0,6-0,206.0,Central Florida,DB,4,0.0,0.0,0.0,Falcons,2013
-28,39.0,Steven Jackson,7/22/1983,30.0,6-2,240.0,Oregon St.,RB,12,12.0,9.0,5.0,Falcons,2013
-29,94.0,Peria Jerry,8/23/1984,29.0,6-1,290.0,Mississippi,LDE,16,14.0,4.0,5.0,Falcons,2013
-30,13.0,Darius Johnson,2/22/1991,22.0,5-10,175.0,SMU,WR,10,2.0,0.0,2.0,Falcons,2013
-31,11.0,Julio Jones,2/3/1989,24.0,6-3,220.0,Alabama,WR,5,5.0,2.0,5.0,Falcons,2013
-32,66.0,Peter Konz,6/9/1989,24.0,6-5,315.0,Wisconsin,C/RG,16,15.0,1.0,8.0,Falcons,2013
-33,99.0,Stansly Maponga,3/5/1991,22.0,6-2,257.0,TCU,DE,12,0.0,0.0,1.0,Falcons,2013
-34,96.0,Jonathan Massaquoi,5/11/1988,25.0,6-2,264.0,Troy,DE,16,4.0,1.0,3.0,Falcons,2013
-35,98.0,Cliff Matthews,8/5/1989,24.0,6-4,265.0,South Carolina,DE,15,0.0,1.0,1.0,Falcons,2013
-36,27.0,Robert McClain,7/22/1988,25.0,5-9,180.0,Connecticut,RCB,16,6.0,3.0,3.0,Falcons,2013
-37,25.0,William Moore,5/18/1985,28.0,6-0,223.0,Missouri,SS,16,16.0,4.0,6.0,Falcons,2013
-38,41.0,Zeke Motta,5/14/1990,23.0,6-2,213.0,Notre Dame,DB,10,1.0,0.0,1.0,Falcons,2013
-39,54.0,Stephen Nicholas,5/1/1983,30.0,6-2,225.0,South Florida,LB,14,3.0,6.0,2.0,Falcons,2013
-40,91.0,Corey Peters,6/8/1988,25.0,6-3,335.0,Kentucky,LDT,15,15.0,3.0,6.0,Falcons,2013
-41,75.0,Garrett Reynolds,7/1/1987,26.0,6-7,310.0,North Carolina,RG,15,10.0,4.0,5.0,Falcons,2013
-42,92.0,Travian Robertson,12/9/1988,25.0,6-4,305.0,South Carolina,DT,5,0.0,1.0,0.0,Falcons,2013
-43,87.0,Brian Robiskie,12/3/1987,26.0,6-2,207.0,Ohio St.,WR,1,0.0,4.0,0.0,Falcons,2013
-44,32.0,Jacquizz Rodgers,2/6/1990,23.0,5-6,205.0,Oregon St.,RB,15,4.0,2.0,5.0,Falcons,2013
-45,2.0,Matt Ryan,5/17/1985,28.0,6-4,217.0,Boston Col.,QB,16,16.0,5.0,13.0,Falcons,2013
-46,22.0,Asante Samuel,1/6/1981,32.0,5-10,185.0,Central Florida,RCB,11,10.0,10.0,3.0,Falcons,2013
-47,29.0,Shann Schillinger,5/22/1986,27.0,6-1,199.0,Montana,DB,5,0.0,3.0,0.0,Falcons,2013
-48,73.0,Ryan Schraeder,5/4/1988,25.0,6-7,300.0,Valdosta St.,T,13,4.0,0.0,3.0,Falcons,2013
-49,35.0,Antone Smith,9/17/1985,28.0,5-9,190.0,Florida St.,RB,15,0.0,3.0,1.0,Falcons,2013
-50,44.0,Jason Snelling,12/29/1983,30.0,5-11,235.0,Virginia,RB,14,1.0,6.0,3.0,Falcons,2013
-51,80.0,Levine Toilolo,7/30/1991,22.0,6-8,268.0,Stanford,TE,16,3.0,0.0,0.0,Falcons,2013
-52,65.0,Jeremy Trueblood,5/10/1983,30.0,6-8,320.0,Boston Col.,RT,15,10.0,7.0,5.0,Falcons,2013
-53,21.0,Desmond Trufant,9/10/1990,23.0,6-0,190.0,Washington,LCB,16,16.0,0.0,5.0,Falcons,2013
-54,50.0,Osi Umenyiora,11/16/1981,32.0,6-3,255.0,Troy,RDE,16,13.0,10.0,6.0,Falcons,2013
-55,30.0,Josh Vaughan,12/3/1986,27.0,6-0,232.0,Richmond,RB,6,0.0,3.0,0.0,Falcons,2013
-56,56.0,Sean Weatherspoon,12/29/1987,26.0,6-1,241.0,Missouri,LLB,7,7.0,3.0,3.0,Falcons,2013
-57,84.0,Roddy White,11/2/1981,32.0,6-0,211.0,Ala-Birmingham,WR,13,13.0,8.0,6.0,Falcons,2013
-58,55.0,Paul Worrilow,5/1/1990,23.0,6-0,230.0,Delaware,RLB/MLB,16,12.0,0.0,5.0,Falcons,2013
-59,,Team Total,,26.6,6-1.8,241.6,,,16,,3.4,,Falcons,2013
+No.,Player,BirthDate,Age,Height,Weight,College/University,Position,Games_Played_in_Season,Games_Started_in_Season,NFL_Years,Player_Value,Team,Year
+23.0,Robert Alford,11/1/1988,25.0,5-10,186.0,Southeastern Louisiana,DB,16,4.0,0.0,2.0,Falcons,2013
+95.0,Jonathan Babineaux,10/12/1981,32.0,6-2,300.0,Iowa,RDT,16,16.0,8.0,6.0,Falcons,2013
+72.0,Sam Baker,5/30/1985,28.0,6-5,308.0,USC,T,4,4.0,5.0,2.0,Falcons,2013
+59.0,Joplo Bartu,10/3/1990,23.0,6-2,230.0,Texas St.,LLB,16,13.0,0.0,5.0,Falcons,2013
+71.0,Kroy Biermann,9/12/1985,28.0,6-3,242.0,Montana,LB,2,2.0,5.0,1.0,Falcons,2013
+63.0,Justin Blalock,12/20/1983,30.0,6-3,320.0,Texas,LG,16,16.0,6.0,8.0,Falcons,2013
+5.0,Matthew Bosher,10/18/1987,26.0,6-0,208.0,Miami (FL),P,16,0.0,2.0,2.0,Falcons,2013
+3.0,Matt Bryant,5/29/1975,38.0,5-9,203.0,Baylor,K,16,0.0,11.0,3.0,Falcons,2013
+51.0,Jamar Chaney,10/11/1986,27.0,6-1,242.0,Mississippi St.,LB,1,0.0,3.0,0.0,Falcons,2013
+86.0,Chase Coffman,11/10/1986,27.0,6-5,250.0,Missouri,TE,11,0.0,3.0,0.0,Falcons,2013
+15.0,Kevin Cone,3/20/1988,25.0,6-2,207.0,Georgia Tech,WR,16,0.0,2.0,0.0,Falcons,2013
+4.0,Dominique Davis,7/17/1989,24.0,6-3,210.0,East Carolina,QB,1,0.0,0.0,0.0,Falcons,2013
+19.0,Drew Davis,1/4/1989,24.0,6-1,205.0,Oregon,WR,16,3.0,1.0,2.0,Falcons,2013
+28.0,Thomas DeCoud,3/19/1985,28.0,6-1,196.0,California,FS,15,15.0,5.0,5.0,Falcons,2013
+52.0,Akeem Dent,9/27/1987,26.0,6-1,242.0,Georgia,MLB,15,7.0,2.0,3.0,Falcons,2013
+42.0,Patrick DiMarco,4/30/1989,24.0,6-1,234.0,South Carolina,RB,14,7.0,1.0,0.0,Falcons,2013
+83.0,Harry Douglas,9/16/1984,29.0,6-0,183.0,Louisville,WR,16,11.0,5.0,9.0,Falcons,2013
+34.0,Bradie Ewing,12/26/1989,24.0,6-0,239.0,Wisconsin,RB,2,2.0,0.0,0.0,Falcons,2013
+24.0,Dominique Franks,10/8/1987,26.0,6-0,180.0,Oklahoma,DB,16,0.0,3.0,1.0,Falcons,2013
+53.0,Omar Gaither,3/18/1984,29.0,6-2,235.0,Tennessee,LB,8,1.0,7.0,1.0,Falcons,2013
+88.0,Tony Gonzalez,2/27/1976,37.0,6-5,247.0,California,TE,16,16.0,16.0,7.0,Falcons,2013
+93.0,Malliciah Goodman,1/4/1990,23.0,6-4,276.0,Clemson,DE,14,1.0,0.0,1.0,Falcons,2013
+69.0,Harland Gunn,8/30/1989,24.0,6-2,310.0,Miami (FL),G,3,0.0,0.0,0.0,Falcons,2013
+47.0,Josh Harris,4/27/1989,24.0,6-1,224.0,Auburn,DB,16,0.0,1.0,1.0,Falcons,2013
+61.0,Joe Hawley,10/22/1988,25.0,6-3,302.0,UNLV,C,16,7.0,3.0,4.0,Falcons,2013
+76.0,Lamar Holmes,7/8/1989,24.0,6-5,320.0,Southern Miss,LT,16,15.0,1.0,8.0,Falcons,2013
+51.0,Thomas Howard,7/14/1983,30.0,6-3,245.0,Texas-El Paso,LB,2,0.0,7.0,0.0,Falcons,2013
+36.0,Kemal Ishmael,5/6/1991,22.0,6-0,206.0,Central Florida,DB,4,0.0,0.0,0.0,Falcons,2013
+39.0,Steven Jackson,7/22/1983,30.0,6-2,240.0,Oregon St.,RB,12,12.0,9.0,5.0,Falcons,2013
+94.0,Peria Jerry,8/23/1984,29.0,6-1,290.0,Mississippi,LDE,16,14.0,4.0,5.0,Falcons,2013
+13.0,Darius Johnson,2/22/1991,22.0,5-10,175.0,SMU,WR,10,2.0,0.0,2.0,Falcons,2013
+11.0,Julio Jones,2/3/1989,24.0,6-3,220.0,Alabama,WR,5,5.0,2.0,5.0,Falcons,2013
+66.0,Peter Konz,6/9/1989,24.0,6-5,315.0,Wisconsin,C/RG,16,15.0,1.0,8.0,Falcons,2013
+99.0,Stansly Maponga,3/5/1991,22.0,6-2,257.0,TCU,DE,12,0.0,0.0,1.0,Falcons,2013
+96.0,Jonathan Massaquoi,5/11/1988,25.0,6-2,264.0,Troy,DE,16,4.0,1.0,3.0,Falcons,2013
+98.0,Cliff Matthews,8/5/1989,24.0,6-4,265.0,South Carolina,DE,15,0.0,1.0,1.0,Falcons,2013
+27.0,Robert McClain,7/22/1988,25.0,5-9,180.0,Connecticut,RCB,16,6.0,3.0,3.0,Falcons,2013
+25.0,William Moore,5/18/1985,28.0,6-0,223.0,Missouri,SS,16,16.0,4.0,6.0,Falcons,2013
+41.0,Zeke Motta,5/14/1990,23.0,6-2,213.0,Notre Dame,DB,10,1.0,0.0,1.0,Falcons,2013
+54.0,Stephen Nicholas,5/1/1983,30.0,6-2,225.0,South Florida,LB,14,3.0,6.0,2.0,Falcons,2013
+91.0,Corey Peters,6/8/1988,25.0,6-3,335.0,Kentucky,LDT,15,15.0,3.0,6.0,Falcons,2013
+75.0,Garrett Reynolds,7/1/1987,26.0,6-7,310.0,North Carolina,RG,15,10.0,4.0,5.0,Falcons,2013
+92.0,Travian Robertson,12/9/1988,25.0,6-4,305.0,South Carolina,DT,5,0.0,1.0,0.0,Falcons,2013
+87.0,Brian Robiskie,12/3/1987,26.0,6-2,207.0,Ohio St.,WR,1,0.0,4.0,0.0,Falcons,2013
+32.0,Jacquizz Rodgers,2/6/1990,23.0,5-6,205.0,Oregon St.,RB,15,4.0,2.0,5.0,Falcons,2013
+2.0,Matt Ryan,5/17/1985,28.0,6-4,217.0,Boston Col.,QB,16,16.0,5.0,13.0,Falcons,2013
+22.0,Asante Samuel,1/6/1981,32.0,5-10,185.0,Central Florida,RCB,11,10.0,10.0,3.0,Falcons,2013
+29.0,Shann Schillinger,5/22/1986,27.0,6-1,199.0,Montana,DB,5,0.0,3.0,0.0,Falcons,2013
+73.0,Ryan Schraeder,5/4/1988,25.0,6-7,300.0,Valdosta St.,T,13,4.0,0.0,3.0,Falcons,2013
+35.0,Antone Smith,9/17/1985,28.0,5-9,190.0,Florida St.,RB,15,0.0,3.0,1.0,Falcons,2013
+44.0,Jason Snelling,12/29/1983,30.0,5-11,235.0,Virginia,RB,14,1.0,6.0,3.0,Falcons,2013
+80.0,Levine Toilolo,7/30/1991,22.0,6-8,268.0,Stanford,TE,16,3.0,0.0,0.0,Falcons,2013
+65.0,Jeremy Trueblood,5/10/1983,30.0,6-8,320.0,Boston Col.,RT,15,10.0,7.0,5.0,Falcons,2013
+21.0,Desmond Trufant,9/10/1990,23.0,6-0,190.0,Washington,LCB,16,16.0,0.0,5.0,Falcons,2013
+50.0,Osi Umenyiora,11/16/1981,32.0,6-3,255.0,Troy,RDE,16,13.0,10.0,6.0,Falcons,2013
+30.0,Josh Vaughan,12/3/1986,27.0,6-0,232.0,Richmond,RB,6,0.0,3.0,0.0,Falcons,2013
+56.0,Sean Weatherspoon,12/29/1987,26.0,6-1,241.0,Missouri,LLB,7,7.0,3.0,3.0,Falcons,2013
+84.0,Roddy White,11/2/1981,32.0,6-0,211.0,Ala-Birmingham,WR,13,13.0,8.0,6.0,Falcons,2013
+55.0,Paul Worrilow,5/1/1990,23.0,6-0,230.0,Delaware,RLB/MLB,16,12.0,0.0,5.0,Falcons,2013
+,Team Total,,26.6,6-1.8,241.6,,,16,,3.4,,Falcons,2013

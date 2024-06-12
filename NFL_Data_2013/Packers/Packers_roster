@@ -1,67 +1,67 @@
-,No.,Player,BirthDate,Age,Height,Weight,College/University,Position,Games_Played_in_Season,Games_Started_in_Season,NFL_Years,Player_Value,Team,Year
-0,54.0,Victor Aiyewa,2/4/1987,26.0,6-1,219.0,Washington,LB,5,0.0,0.0,0.0,Packers,2013
-1,69.0,David Bakhtiari,9/30/1991,22.0,6-4,310.0,Colorado,LT,16,16.0,0.0,9.0,Packers,2013
-2,32.0,Chris Banjo,2/26/1990,23.0,5-10,207.0,SMU,DB,16,1.0,0.0,1.0,Packers,2013
-3,67.0,Don Barclay,4/18/1989,24.0,6-4,305.0,West Virginia,RT,14,14.0,1.0,8.0,Packers,2013
-4,58.0,Sam Barrington,10/5/1990,23.0,6-1,246.0,South Florida,LB,7,0.0,0.0,0.0,Packers,2013
-5,22.0,Kahlil Bell,12/10/1986,27.0,6-0,219.0,UCLA,RB,3,0.0,4.0,0.0,Packers,2013
-6,86.0,Brandon Bostick,5/3/1989,24.0,6-3,245.0,Newberry,TE,11,0.0,0.0,1.0,Packers,2013
-7,93.0,Josh Boyd,8/3/1989,24.0,6-3,310.0,Mississippi St.,DE,9,0.0,0.0,1.0,Packers,2013
-8,11.0,Jarrett Boykin,11/4/1989,24.0,6-2,216.0,Virginia Tech,WR,16,8.0,1.0,6.0,Packers,2013
-9,42.0,Morgan Burnett,1/13/1989,24.0,6-1,210.0,Georgia Tech,SS,13,13.0,3.0,5.0,Packers,2013
-10,24.0,Jarrett Bush,5/21/1984,29.0,6-0,200.0,Utah St.,DB,12,0.0,7.0,1.0,Packers,2013
-11,18.0,Randall Cobb,8/22/1990,23.0,5-10,192.0,Kentucky,WR,6,4.0,2.0,4.0,Packers,2013
-12,2.0,Mason Crosby,9/3/1984,29.0,6-1,207.0,Colorado,K,16,0.0,6.0,4.0,Packers,2013
-13,76.0,Mike Daniels,5/5/1989,24.0,6-0,310.0,Iowa,DE,16,1.0,1.0,2.0,Packers,2013
-14,62.0,Evan Dietrich-Smith,7/19/1986,27.0,6-2,308.0,Idaho St.,C,16,16.0,4.0,9.0,Packers,2013
-15,88.0,Jermichael Finley,3/26/1987,26.0,6-4,240.0,Texas,TE,6,5.0,5.0,3.0,Packers,2013
-16,10.0,Matt Flynn,6/20/1985,28.0,6-2,228.0,LSU,QB,5,4.0,5.0,4.0,Packers,2013
-17,49.0,Rob Francois,5/14/1985,28.0,6-2,253.0,Boston Col.,LB,4,0.0,3.0,0.0,Packers,2013
-18,23.0,Johnathan Franklin,10/23/1989,24.0,5-10,205.0,UCLA,RB,11,0.0,0.0,1.0,Packers,2013
-19,61.0,Brett Goode,11/2/1984,29.0,6-1,255.0,Arkansas,LB,16,0.0,5.0,2.0,Packers,2013
-20,13.0,Chris Harper,9/10/1989,24.0,6-1,229.0,Kansas St.,WR,4,0.0,0.0,0.0,Packers,2013
-21,50.0,A.J. Hawk,1/6/1984,29.0,6-1,240.0,Ohio St.,LILB,16,16.0,7.0,7.0,Packers,2013
-22,29.0,Casey Hayward,9/9/1989,24.0,5-11,192.0,Vanderbilt,DB,3,1.0,1.0,0.0,Packers,2013
-23,34.0,Michael Hill,8/14/1989,24.0,5-10,210.0,Missouri Western St.,RB,2,0.0,0.0,0.0,Packers,2013
-24,31.0,Davon House,7/10/1989,24.0,6-0,195.0,New Mexico St.,DB,16,5.0,2.0,2.0,Packers,2013
-25,33.0,Micah Hyde,12/31/1990,23.0,6-0,197.0,Iowa,DB,16,3.0,0.0,3.0,Packers,2013
-26,43.0,M.D. Jennings,7/25/1988,25.0,6-0,187.0,Arkansas St.,FS,16,16.0,2.0,5.0,Packers,2013
-27,97.0,Johnny Jolly,2/21/1983,30.0,6-3,325.0,Texas A&M,RDE,13,8.0,7.0,4.0,Packers,2013
-28,59.0,Brad Jones,4/1/1986,27.0,6-3,230.0,Colorado,RILB,12,12.0,4.0,6.0,Packers,2013
-29,95.0,Datone Jones,7/24/1990,23.0,6-4,285.0,UCLA,DE,16,0.0,0.0,2.0,Packers,2013
-30,89.0,James Jones,3/31/1984,29.0,6-1,208.0,San Jose St.,WR,14,14.0,6.0,7.0,Packers,2013
-31,30.0,John Kuhn,9/9/1982,31.0,6-0,250.0,Shippensburg,RB,15,6.0,7.0,1.0,Packers,2013
-32,27.0,Eddie Lacy,6/2/1990,23.0,5-11,250.0,Alabama,RB,15,15.0,0.0,10.0,Packers,2013
-33,70.0,T.J. Lang,9/20/1987,26.0,6-4,315.0,Eastern Michigan,RG,16,16.0,4.0,9.0,Packers,2013
-34,57.0,Jamari Lattimore,10/6/1988,25.0,6-2,232.0,Middle Tenn. St.,LB,15,4.0,2.0,3.0,Packers,2013
-35,8.0,Tim Masthay,3/16/1987,26.0,6-2,198.0,Kentucky,P,16,0.0,3.0,2.0,Packers,2013
-36,52.0,Clay Matthews,5/14/1986,27.0,6-3,255.0,USC,ROLB,11,11.0,4.0,5.0,Packers,2013
-37,22.0,Jerron McMillian,4/2/1989,24.0,5-11,203.0,Maine,DB,12,2.0,1.0,1.0,Packers,2013
-38,55.0,Andy Mulumba,1/31/1990,23.0,6-3,260.0,Eastern Michigan,LB,14,3.0,0.0,2.0,Packers,2013
-39,96.0,Mike Neal,6/26/1987,26.0,6-3,262.0,Purdue,LOLB,16,10.0,3.0,5.0,Packers,2013
-40,87.0,Jordy Nelson,5/31/1985,28.0,6-3,217.0,Kansas St.,WR,16,16.0,5.0,11.0,Packers,2013
-41,74.0,Marshall Newhouse,9/29/1988,25.0,6-4,330.0,TCU,T,15,2.0,2.0,2.0,Packers,2013
-42,25.0,James Nixon,2/2/1988,25.0,6-0,180.0,California (PA),DB,3,0.0,0.0,0.0,Packers,2013
-43,51.0,Nate Palmer,9/23/1989,24.0,6-2,248.0,Illinois St.,LB,8,2.0,0.0,1.0,Packers,2013
-44,53.0,Nick Perry,4/12/1990,23.0,6-3,265.0,USC,LOLB,11,6.0,1.0,3.0,Packers,2013
-45,79.0,Ryan Pickett,10/8/1979,34.0,6-2,338.0,Ohio St.,NT,16,16.0,12.0,6.0,Packers,2013
-46,81.0,Andrew Quarless,10/6/1988,25.0,6-4,248.0,Penn St.,TE,16,10.0,3.0,3.0,Packers,2013
-47,90.0,B.J. Raji,7/11/1986,27.0,6-2,334.0,Boston Col.,LDE,16,16.0,4.0,6.0,Packers,2013
-48,28.0,Sean Richardson,1/21/1990,23.0,6-3,213.0,Vanderbilt,DB,6,0.0,1.0,0.0,Packers,2013
-49,12.0,Aaron Rodgers,12/2/1983,30.0,6-2,223.0,"Butte JC (CA),California",QB,9,9.0,8.0,9.0,Packers,2013
-50,10.0,Jeremy Ross,3/16/1988,25.0,5-11,213.0,California,WR,3,0.0,1.0,0.0,Packers,2013
-51,78.0,Derek Sherrod,4/23/1989,24.0,6-5,312.0,Mississippi St.,T,7,0.0,2.0,1.0,Packers,2013
-52,37.0,Sam Shields,12/8/1987,26.0,5-11,178.0,Miami (FL),RCB,14,14.0,3.0,5.0,Packers,2013
-53,71.0,Josh Sitton,6/16/1986,27.0,6-3,318.0,Central Florida,LG,16,16.0,5.0,14.0,Packers,2013
-54,44.0,James Starks,2/25/1986,27.0,6-1,203.0,Buffalo,RB,13,1.0,3.0,4.0,Packers,2013
-55,85.0,Jake Stoneburner,8/25/1989,24.0,6-3,249.0,Ohio St.,TE,9,0.0,0.0,0.0,Packers,2013
-56,65.0,Lane Taylor,11/22/1989,24.0,6-3,324.0,Oklahoma St.,G,10,0.0,0.0,1.0,Packers,2013
-57,82.0,Ryan Taylor,11/16/1987,26.0,6-3,250.0,North Carolina,TE,14,1.0,2.0,0.0,Packers,2013
-58,16.0,Scott Tolzien,9/4/1987,26.0,6-3,205.0,Wisconsin,QB,3,2.0,0.0,2.0,Packers,2013
-59,64.0,Greg Van Roten,2/26/1990,23.0,6-3,305.0,Pennsylvania,G,3,0.0,1.0,0.0,Packers,2013
-60,9.0,Seneca Wallace,8/6/1980,33.0,5-11,205.0,"Sacramento CC,Iowa St.",QB,2,1.0,8.0,0.0,Packers,2013
-61,19.0,Myles White,3/3/1990,23.0,6-0,182.0,Louisiana Tech,WR,7,0.0,0.0,1.0,Packers,2013
-62,38.0,Tramon Williams,3/16/1983,30.0,5-11,191.0,Louisiana Tech,LCB,16,16.0,6.0,6.0,Packers,2013
-63,98.0,C.J. Wilson,3/30/1987,26.0,6-4,271.0,East Carolina,DE,8,0.0,3.0,1.0,Packers,2013
-64,99.0,Jerel Worthy,4/28/1990,23.0,6-2,298.0,Michigan St.,DT,2,0.0,1.0,0.0,Packers,2013
-65,,Team Total,,25.7,6-1.6,244.7,,,16,,2.6,,Packers,2013
+No.,Player,BirthDate,Age,Height,Weight,College/University,Position,Games_Played_in_Season,Games_Started_in_Season,NFL_Years,Player_Value,Team,Year
+54.0,Victor Aiyewa,2/4/1987,26.0,6-1,219.0,Washington,LB,5,0.0,0.0,0.0,Packers,2013
+69.0,David Bakhtiari,9/30/1991,22.0,6-4,310.0,Colorado,LT,16,16.0,0.0,9.0,Packers,2013
+32.0,Chris Banjo,2/26/1990,23.0,5-10,207.0,SMU,DB,16,1.0,0.0,1.0,Packers,2013
+67.0,Don Barclay,4/18/1989,24.0,6-4,305.0,West Virginia,RT,14,14.0,1.0,8.0,Packers,2013
+58.0,Sam Barrington,10/5/1990,23.0,6-1,246.0,South Florida,LB,7,0.0,0.0,0.0,Packers,2013
+22.0,Kahlil Bell,12/10/1986,27.0,6-0,219.0,UCLA,RB,3,0.0,4.0,0.0,Packers,2013
+86.0,Brandon Bostick,5/3/1989,24.0,6-3,245.0,Newberry,TE,11,0.0,0.0,1.0,Packers,2013
+93.0,Josh Boyd,8/3/1989,24.0,6-3,310.0,Mississippi St.,DE,9,0.0,0.0,1.0,Packers,2013
+11.0,Jarrett Boykin,11/4/1989,24.0,6-2,216.0,Virginia Tech,WR,16,8.0,1.0,6.0,Packers,2013
+42.0,Morgan Burnett,1/13/1989,24.0,6-1,210.0,Georgia Tech,SS,13,13.0,3.0,5.0,Packers,2013
+24.0,Jarrett Bush,5/21/1984,29.0,6-0,200.0,Utah St.,DB,12,0.0,7.0,1.0,Packers,2013
+18.0,Randall Cobb,8/22/1990,23.0,5-10,192.0,Kentucky,WR,6,4.0,2.0,4.0,Packers,2013
+2.0,Mason Crosby,9/3/1984,29.0,6-1,207.0,Colorado,K,16,0.0,6.0,4.0,Packers,2013
+76.0,Mike Daniels,5/5/1989,24.0,6-0,310.0,Iowa,DE,16,1.0,1.0,2.0,Packers,2013
+62.0,Evan Dietrich-Smith,7/19/1986,27.0,6-2,308.0,Idaho St.,C,16,16.0,4.0,9.0,Packers,2013
+88.0,Jermichael Finley,3/26/1987,26.0,6-4,240.0,Texas,TE,6,5.0,5.0,3.0,Packers,2013
+10.0,Matt Flynn,6/20/1985,28.0,6-2,228.0,LSU,QB,5,4.0,5.0,4.0,Packers,2013
+49.0,Rob Francois,5/14/1985,28.0,6-2,253.0,Boston Col.,LB,4,0.0,3.0,0.0,Packers,2013
+23.0,Johnathan Franklin,10/23/1989,24.0,5-10,205.0,UCLA,RB,11,0.0,0.0,1.0,Packers,2013
+61.0,Brett Goode,11/2/1984,29.0,6-1,255.0,Arkansas,LB,16,0.0,5.0,2.0,Packers,2013
+13.0,Chris Harper,9/10/1989,24.0,6-1,229.0,Kansas St.,WR,4,0.0,0.0,0.0,Packers,2013
+50.0,A.J. Hawk,1/6/1984,29.0,6-1,240.0,Ohio St.,LILB,16,16.0,7.0,7.0,Packers,2013
+29.0,Casey Hayward,9/9/1989,24.0,5-11,192.0,Vanderbilt,DB,3,1.0,1.0,0.0,Packers,2013
+34.0,Michael Hill,8/14/1989,24.0,5-10,210.0,Missouri Western St.,RB,2,0.0,0.0,0.0,Packers,2013
+31.0,Davon House,7/10/1989,24.0,6-0,195.0,New Mexico St.,DB,16,5.0,2.0,2.0,Packers,2013
+33.0,Micah Hyde,12/31/1990,23.0,6-0,197.0,Iowa,DB,16,3.0,0.0,3.0,Packers,2013
+43.0,M.D. Jennings,7/25/1988,25.0,6-0,187.0,Arkansas St.,FS,16,16.0,2.0,5.0,Packers,2013
+97.0,Johnny Jolly,2/21/1983,30.0,6-3,325.0,Texas A&M,RDE,13,8.0,7.0,4.0,Packers,2013
+59.0,Brad Jones,4/1/1986,27.0,6-3,230.0,Colorado,RILB,12,12.0,4.0,6.0,Packers,2013
+95.0,Datone Jones,7/24/1990,23.0,6-4,285.0,UCLA,DE,16,0.0,0.0,2.0,Packers,2013
+89.0,James Jones,3/31/1984,29.0,6-1,208.0,San Jose St.,WR,14,14.0,6.0,7.0,Packers,2013
+30.0,John Kuhn,9/9/1982,31.0,6-0,250.0,Shippensburg,RB,15,6.0,7.0,1.0,Packers,2013
+27.0,Eddie Lacy,6/2/1990,23.0,5-11,250.0,Alabama,RB,15,15.0,0.0,10.0,Packers,2013
+70.0,T.J. Lang,9/20/1987,26.0,6-4,315.0,Eastern Michigan,RG,16,16.0,4.0,9.0,Packers,2013
+57.0,Jamari Lattimore,10/6/1988,25.0,6-2,232.0,Middle Tenn. St.,LB,15,4.0,2.0,3.0,Packers,2013
+8.0,Tim Masthay,3/16/1987,26.0,6-2,198.0,Kentucky,P,16,0.0,3.0,2.0,Packers,2013
+52.0,Clay Matthews,5/14/1986,27.0,6-3,255.0,USC,ROLB,11,11.0,4.0,5.0,Packers,2013
+22.0,Jerron McMillian,4/2/1989,24.0,5-11,203.0,Maine,DB,12,2.0,1.0,1.0,Packers,2013
+55.0,Andy Mulumba,1/31/1990,23.0,6-3,260.0,Eastern Michigan,LB,14,3.0,0.0,2.0,Packers,2013
+96.0,Mike Neal,6/26/1987,26.0,6-3,262.0,Purdue,LOLB,16,10.0,3.0,5.0,Packers,2013
+87.0,Jordy Nelson,5/31/1985,28.0,6-3,217.0,Kansas St.,WR,16,16.0,5.0,11.0,Packers,2013
+74.0,Marshall Newhouse,9/29/1988,25.0,6-4,330.0,TCU,T,15,2.0,2.0,2.0,Packers,2013
+25.0,James Nixon,2/2/1988,25.0,6-0,180.0,California (PA),DB,3,0.0,0.0,0.0,Packers,2013
+51.0,Nate Palmer,9/23/1989,24.0,6-2,248.0,Illinois St.,LB,8,2.0,0.0,1.0,Packers,2013
+53.0,Nick Perry,4/12/1990,23.0,6-3,265.0,USC,LOLB,11,6.0,1.0,3.0,Packers,2013
+79.0,Ryan Pickett,10/8/1979,34.0,6-2,338.0,Ohio St.,NT,16,16.0,12.0,6.0,Packers,2013
+81.0,Andrew Quarless,10/6/1988,25.0,6-4,248.0,Penn St.,TE,16,10.0,3.0,3.0,Packers,2013
+90.0,B.J. Raji,7/11/1986,27.0,6-2,334.0,Boston Col.,LDE,16,16.0,4.0,6.0,Packers,2013
+28.0,Sean Richardson,1/21/1990,23.0,6-3,213.0,Vanderbilt,DB,6,0.0,1.0,0.0,Packers,2013
+12.0,Aaron Rodgers,12/2/1983,30.0,6-2,223.0,"Butte JC (CA),California",QB,9,9.0,8.0,9.0,Packers,2013
+10.0,Jeremy Ross,3/16/1988,25.0,5-11,213.0,California,WR,3,0.0,1.0,0.0,Packers,2013
+78.0,Derek Sherrod,4/23/1989,24.0,6-5,312.0,Mississippi St.,T,7,0.0,2.0,1.0,Packers,2013
+37.0,Sam Shields,12/8/1987,26.0,5-11,178.0,Miami (FL),RCB,14,14.0,3.0,5.0,Packers,2013
+71.0,Josh Sitton,6/16/1986,27.0,6-3,318.0,Central Florida,LG,16,16.0,5.0,14.0,Packers,2013
+44.0,James Starks,2/25/1986,27.0,6-1,203.0,Buffalo,RB,13,1.0,3.0,4.0,Packers,2013
+85.0,Jake Stoneburner,8/25/1989,24.0,6-3,249.0,Ohio St.,TE,9,0.0,0.0,0.0,Packers,2013
+65.0,Lane Taylor,11/22/1989,24.0,6-3,324.0,Oklahoma St.,G,10,0.0,0.0,1.0,Packers,2013
+82.0,Ryan Taylor,11/16/1987,26.0,6-3,250.0,North Carolina,TE,14,1.0,2.0,0.0,Packers,2013
+16.0,Scott Tolzien,9/4/1987,26.0,6-3,205.0,Wisconsin,QB,3,2.0,0.0,2.0,Packers,2013
+64.0,Greg Van Roten,2/26/1990,23.0,6-3,305.0,Pennsylvania,G,3,0.0,1.0,0.0,Packers,2013
+9.0,Seneca Wallace,8/6/1980,33.0,5-11,205.0,"Sacramento CC,Iowa St.",QB,2,1.0,8.0,0.0,Packers,2013
+19.0,Myles White,3/3/1990,23.0,6-0,182.0,Louisiana Tech,WR,7,0.0,0.0,1.0,Packers,2013
+38.0,Tramon Williams,3/16/1983,30.0,5-11,191.0,Louisiana Tech,LCB,16,16.0,6.0,6.0,Packers,2013
+98.0,C.J. Wilson,3/30/1987,26.0,6-4,271.0,East Carolina,DE,8,0.0,3.0,1.0,Packers,2013
+99.0,Jerel Worthy,4/28/1990,23.0,6-2,298.0,Michigan St.,DT,2,0.0,1.0,0.0,Packers,2013
+,Team Total,,25.7,6-1.6,244.7,,,16,,2.6,,Packers,2013

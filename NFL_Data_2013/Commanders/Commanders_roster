@@ -1,62 +1,62 @@
-,No.,Player,BirthDate,Age,Height,Weight,College/University,Position,Games_Played_in_Season,Games_Started_in_Season,NFL_Years,Player_Value,Team,Year
-0,39.0,David Amerson,12/8/1991,22.0,6-1,212.0,North Carolina St.,SS,16,8.0,0.0,3.0,Commanders,2013
-1,92.0,Chris Baker,10/8/1987,26.0,6-2,306.0,Hampton,DE,15,3.0,4.0,2.0,Commanders,2013
-2,55.0,Nick Barnett,5/27/1981,32.0,6-2,228.0,Oregon St.,LB,14,0.0,10.0,1.0,Commanders,2013
-3,17.0,Josh Bellamy,5/18/1989,24.0,6-0,208.0,Louisville,WR,5,0.0,1.0,0.0,Commanders,2013
-4,30.0,E.J. Biggers,6/13/1987,26.0,6-0,180.0,Western Michigan,DB,16,5.0,3.0,2.0,Commanders,2013
-5,72.0,Stephen Bowen,3/28/1984,29.0,6-5,300.0,Hofstra,RDE,10,10.0,7.0,4.0,Commanders,2013
-6,66.0,Chris Chester,1/12/1983,30.0,6-3,303.0,Oklahoma,RG,16,16.0,7.0,7.0,Commanders,2013
-7,96.0,Barry Cofield,3/19/1984,29.0,6-4,303.0,Northwestern,NT,16,16.0,7.0,6.0,Commanders,2013
-8,68.0,Tom Compton,5/10/1989,24.0,6-6,315.0,South Dakota,T,15,0.0,0.0,1.0,Commanders,2013
-9,53.0,William Compton,9/19/1989,24.0,6-1,235.0,Nebraska,LB,1,0.0,0.0,0.0,Commanders,2013
-10,12.0,Kirk Cousins,8/19/1988,25.0,6-3,205.0,Michigan St.,QB,5,3.0,1.0,-2.0,Commanders,2013
-11,83.0,Fred Davis,1/15/1986,27.0,6-3,250.0,USC,TE,10,3.0,5.0,0.0,Commanders,2013
-12,37.0,Reed Doughty,11/4/1982,31.0,6-1,206.0,Northern Colorado,SS,15,8.0,7.0,3.0,Commanders,2013
-13,59.0,London Fletcher,5/19/1975,38.0,5-10,242.0,John Carroll,LILB,16,16.0,15.0,7.0,Commanders,2013
-14,2.0,Kai Forbath,9/2/1987,26.0,5-11,197.0,UCLA,K,13,0.0,1.0,2.0,Commanders,2013
-15,88.0,Pierre Garcon,8/8/1986,27.0,6-0,211.0,Mount Union,WR,16,16.0,5.0,9.0,Commanders,2013
-16,73.0,Adam Gettis,12/9/1988,25.0,6-3,315.0,Iowa,G,13,0.0,0.0,1.0,Commanders,2013
-17,64.0,Kedric Golston,5/30/1983,30.0,6-4,330.0,Georgia,LDE,16,8.0,7.0,3.0,Commanders,2013
-18,10.0,Robert Griffin III,2/12/1990,23.0,6-2,213.0,Baylor,QB,13,13.0,1.0,9.0,Commanders,2013
-19,48.0,Jose Gumbs,4/20/1988,25.0,5-10,210.0,Monmouth,DB,8,1.0,0.0,1.0,Commanders,2013
-20,23.0,DeAngelo Hall,11/19/1983,30.0,5-10,200.0,Virginia Tech,LCB,16,16.0,9.0,6.0,Commanders,2013
-21,85.0,Leonard Hankerson,1/30/1989,24.0,6-1,205.0,Miami (FL),WR,10,7.0,2.0,2.0,Commanders,2013
-22,29.0,Roy Helu,12/7/1988,25.0,6-0,216.0,Nebraska,RB,16,0.0,2.0,3.0,Commanders,2013
-23,58.0,Josh Hull,5/21/1987,26.0,6-2,236.0,Penn St.,LB,11,0.0,3.0,1.0,Commanders,2013
-24,50.0,Rob Jackson,11/3/1985,28.0,6-4,259.0,Kansas St.,DE,12,1.0,5.0,1.0,Commanders,2013
-25,51.0,Brandon Jenkins,2/9/1990,23.0,6-2,251.0,Florida St.,DE,5,0.0,0.0,0.0,Commanders,2013
-26,99.0,Jarvis Jenkins,4/24/1988,25.0,6-4,300.0,Clemson,LDE,12,5.0,1.0,3.0,Commanders,2013
-27,53.0,Bryan Kehl,6/16/1984,29.0,6-2,234.0,BYU,LB,5,0.0,5.0,0.0,Commanders,2013
-28,91.0,Ryan Kerrigan,8/16/1988,25.0,6-4,267.0,Purdue,LOLB,16,16.0,2.0,7.0,Commanders,2013
-29,18.0,Lance Lewis,11/1/1988,25.0,6-3,209.0,"East Mississippi CC,East Carolina",WR,3,0.0,0.0,0.0,Commanders,2013
-30,78.0,Kory Lichtensteiger,3/22/1985,28.0,6-3,296.0,Bowling Green,LG,16,16.0,5.0,7.0,Commanders,2013
-31,31.0,Brandon Meriweather,1/14/1984,29.0,5-11,195.0,Miami (FL),FS,13,13.0,6.0,4.0,Commanders,2013
-32,93.0,Phillip Merling,8/19/1985,28.0,6-5,272.0,Clemson,DE,3,0.0,5.0,0.0,Commanders,2013
-33,63.0,Will Montgomery,2/13/1983,30.0,6-3,304.0,Virginia Tech,C,16,16.0,7.0,7.0,Commanders,2013
-34,15.0,Josh Morgan,6/20/1985,28.0,6-0,218.0,Virginia Tech,WR,14,7.0,5.0,1.0,Commanders,2013
-35,46.0,Alfred Morris,12/12/1988,25.0,5-10,222.0,Florida Atlantic,RB,16,16.0,1.0,7.0,Commanders,2013
-36,89.0,Santana Moss,6/1/1979,34.0,5-10,193.0,Miami (FL),WR,16,1.0,12.0,3.0,Commanders,2013
-37,45.0,Jerome Murphy,1/13/1987,26.0,6-1,191.0,South Florida,DB,11,0.0,3.0,1.0,Commanders,2013
-38,95.0,Chris Neild,12/1/1987,26.0,6-2,313.0,West Virginia,DT,8,0.0,2.0,1.0,Commanders,2013
-39,40.0,Kyle Nelson,10/3/1986,27.0,6-2,240.0,New Mexico St.,LS,11,0.0,1.0,1.0,Commanders,2013
-40,98.0,Brian Orakpo,7/31/1986,27.0,6-4,257.0,Texas,ROLB,15,15.0,4.0,9.0,Commanders,2013
-41,84.0,Niles Paul,8/9/1989,24.0,6-1,242.0,Nebraska,WR,15,4.0,2.0,0.0,Commanders,2013
-42,82.0,Logan Paulsen,2/26/1987,26.0,6-5,268.0,UCLA,TE,16,14.0,3.0,2.0,Commanders,2013
-43,74.0,Tyler Polumbus,4/10/1985,28.0,6-7,302.0,Colorado,RT,16,16.0,5.0,7.0,Commanders,2013
-44,1.0,John Potter,1/24/1990,23.0,6-2,209.0,Western Michigan,K,3,0.0,1.0,0.0,Commanders,2013
-45,32.0,Jordan Pugh,1/29/1988,25.0,5-11,191.0,Texas A&M,DB,4,0.0,3.0,0.0,Commanders,2013
-46,24.0,Bacarri Rambo,6/27/1990,23.0,6-1,211.0,Georgia,DB,11,3.0,0.0,1.0,Commanders,2013
-47,86.0,Jordan Reed,7/3/1990,23.0,6-2,242.0,Florida,TE,9,4.0,0.0,3.0,Commanders,2013
-48,56.0,Perry Riley,5/3/1988,25.0,6-1,238.0,LSU,RILB,16,16.0,3.0,7.0,Commanders,2013
-49,11.0,Aldrick Robinson,9/24/1988,25.0,5-10,185.0,SMU,WR,16,1.0,1.0,2.0,Commanders,2013
-50,34.0,Trent Robinson,2/16/1990,23.0,5-10,193.0,Michigan St.,DB,11,0.0,1.0,1.0,Commanders,2013
-51,6.0,Saverio Rocca,11/20/1973,40.0,6-5,265.0,,P,16,0.0,6.0,1.0,Commanders,2013
-52,22.0,Evan Royster,11/26/1987,26.0,6-0,218.0,Penn St.,RB,10,0.0,2.0,0.0,Commanders,2013
-53,57.0,Nick Sundberg,7/29/1987,26.0,6-1,254.0,California,LS,5,0.0,3.0,0.0,Commanders,2013
-54,54.0,Darryl Tapp,9/13/1984,29.0,6-1,270.0,Virginia Tech,DE,11,0.0,7.0,1.0,Commanders,2013
-55,25.0,Chris Thompson,10/20/1990,23.0,5-8,195.0,Florida St.,RB,4,0.0,0.0,0.0,Commanders,2013
-56,13.0,Nick Williams,11/23/1990,23.0,5-10,184.0,Connecticut,WR,5,0.0,0.0,0.0,Commanders,2013
-57,71.0,Trent Williams,7/19/1988,25.0,6-5,320.0,Oklahoma,LT,16,16.0,3.0,9.0,Commanders,2013
-58,26.0,Josh Wilson,3/11/1985,28.0,5-9,189.0,Maryland,RCB,16,16.0,6.0,5.0,Commanders,2013
-59,36.0,Darrel Young,4/8/1987,26.0,5-11,248.0,Villanova,RB,13,7.0,3.0,1.0,Commanders,2013
-60,,Team Total,,26.7,6-1.4,241.2,,,16,,3.5,,Commanders,2013
+No.,Player,BirthDate,Age,Height,Weight,College/University,Position,Games_Played_in_Season,Games_Started_in_Season,NFL_Years,Player_Value,Team,Year
+39.0,David Amerson,12/8/1991,22.0,6-1,212.0,North Carolina St.,SS,16,8.0,0.0,3.0,Commanders,2013
+92.0,Chris Baker,10/8/1987,26.0,6-2,306.0,Hampton,DE,15,3.0,4.0,2.0,Commanders,2013
+55.0,Nick Barnett,5/27/1981,32.0,6-2,228.0,Oregon St.,LB,14,0.0,10.0,1.0,Commanders,2013
+17.0,Josh Bellamy,5/18/1989,24.0,6-0,208.0,Louisville,WR,5,0.0,1.0,0.0,Commanders,2013
+30.0,E.J. Biggers,6/13/1987,26.0,6-0,180.0,Western Michigan,DB,16,5.0,3.0,2.0,Commanders,2013
+72.0,Stephen Bowen,3/28/1984,29.0,6-5,300.0,Hofstra,RDE,10,10.0,7.0,4.0,Commanders,2013
+66.0,Chris Chester,1/12/1983,30.0,6-3,303.0,Oklahoma,RG,16,16.0,7.0,7.0,Commanders,2013
+96.0,Barry Cofield,3/19/1984,29.0,6-4,303.0,Northwestern,NT,16,16.0,7.0,6.0,Commanders,2013
+68.0,Tom Compton,5/10/1989,24.0,6-6,315.0,South Dakota,T,15,0.0,0.0,1.0,Commanders,2013
+53.0,William Compton,9/19/1989,24.0,6-1,235.0,Nebraska,LB,1,0.0,0.0,0.0,Commanders,2013
+12.0,Kirk Cousins,8/19/1988,25.0,6-3,205.0,Michigan St.,QB,5,3.0,1.0,-2.0,Commanders,2013
+83.0,Fred Davis,1/15/1986,27.0,6-3,250.0,USC,TE,10,3.0,5.0,0.0,Commanders,2013
+37.0,Reed Doughty,11/4/1982,31.0,6-1,206.0,Northern Colorado,SS,15,8.0,7.0,3.0,Commanders,2013
+59.0,London Fletcher,5/19/1975,38.0,5-10,242.0,John Carroll,LILB,16,16.0,15.0,7.0,Commanders,2013
+2.0,Kai Forbath,9/2/1987,26.0,5-11,197.0,UCLA,K,13,0.0,1.0,2.0,Commanders,2013
+88.0,Pierre Garcon,8/8/1986,27.0,6-0,211.0,Mount Union,WR,16,16.0,5.0,9.0,Commanders,2013
+73.0,Adam Gettis,12/9/1988,25.0,6-3,315.0,Iowa,G,13,0.0,0.0,1.0,Commanders,2013
+64.0,Kedric Golston,5/30/1983,30.0,6-4,330.0,Georgia,LDE,16,8.0,7.0,3.0,Commanders,2013
+10.0,Robert Griffin III,2/12/1990,23.0,6-2,213.0,Baylor,QB,13,13.0,1.0,9.0,Commanders,2013
+48.0,Jose Gumbs,4/20/1988,25.0,5-10,210.0,Monmouth,DB,8,1.0,0.0,1.0,Commanders,2013
+23.0,DeAngelo Hall,11/19/1983,30.0,5-10,200.0,Virginia Tech,LCB,16,16.0,9.0,6.0,Commanders,2013
+85.0,Leonard Hankerson,1/30/1989,24.0,6-1,205.0,Miami (FL),WR,10,7.0,2.0,2.0,Commanders,2013
+29.0,Roy Helu,12/7/1988,25.0,6-0,216.0,Nebraska,RB,16,0.0,2.0,3.0,Commanders,2013
+58.0,Josh Hull,5/21/1987,26.0,6-2,236.0,Penn St.,LB,11,0.0,3.0,1.0,Commanders,2013
+50.0,Rob Jackson,11/3/1985,28.0,6-4,259.0,Kansas St.,DE,12,1.0,5.0,1.0,Commanders,2013
+51.0,Brandon Jenkins,2/9/1990,23.0,6-2,251.0,Florida St.,DE,5,0.0,0.0,0.0,Commanders,2013
+99.0,Jarvis Jenkins,4/24/1988,25.0,6-4,300.0,Clemson,LDE,12,5.0,1.0,3.0,Commanders,2013
+53.0,Bryan Kehl,6/16/1984,29.0,6-2,234.0,BYU,LB,5,0.0,5.0,0.0,Commanders,2013
+91.0,Ryan Kerrigan,8/16/1988,25.0,6-4,267.0,Purdue,LOLB,16,16.0,2.0,7.0,Commanders,2013
+18.0,Lance Lewis,11/1/1988,25.0,6-3,209.0,"East Mississippi CC,East Carolina",WR,3,0.0,0.0,0.0,Commanders,2013
+78.0,Kory Lichtensteiger,3/22/1985,28.0,6-3,296.0,Bowling Green,LG,16,16.0,5.0,7.0,Commanders,2013
+31.0,Brandon Meriweather,1/14/1984,29.0,5-11,195.0,Miami (FL),FS,13,13.0,6.0,4.0,Commanders,2013
+93.0,Phillip Merling,8/19/1985,28.0,6-5,272.0,Clemson,DE,3,0.0,5.0,0.0,Commanders,2013
+63.0,Will Montgomery,2/13/1983,30.0,6-3,304.0,Virginia Tech,C,16,16.0,7.0,7.0,Commanders,2013
+15.0,Josh Morgan,6/20/1985,28.0,6-0,218.0,Virginia Tech,WR,14,7.0,5.0,1.0,Commanders,2013
+46.0,Alfred Morris,12/12/1988,25.0,5-10,222.0,Florida Atlantic,RB,16,16.0,1.0,7.0,Commanders,2013
+89.0,Santana Moss,6/1/1979,34.0,5-10,193.0,Miami (FL),WR,16,1.0,12.0,3.0,Commanders,2013
+45.0,Jerome Murphy,1/13/1987,26.0,6-1,191.0,South Florida,DB,11,0.0,3.0,1.0,Commanders,2013
+95.0,Chris Neild,12/1/1987,26.0,6-2,313.0,West Virginia,DT,8,0.0,2.0,1.0,Commanders,2013
+40.0,Kyle Nelson,10/3/1986,27.0,6-2,240.0,New Mexico St.,LS,11,0.0,1.0,1.0,Commanders,2013
+98.0,Brian Orakpo,7/31/1986,27.0,6-4,257.0,Texas,ROLB,15,15.0,4.0,9.0,Commanders,2013
+84.0,Niles Paul,8/9/1989,24.0,6-1,242.0,Nebraska,WR,15,4.0,2.0,0.0,Commanders,2013
+82.0,Logan Paulsen,2/26/1987,26.0,6-5,268.0,UCLA,TE,16,14.0,3.0,2.0,Commanders,2013
+74.0,Tyler Polumbus,4/10/1985,28.0,6-7,302.0,Colorado,RT,16,16.0,5.0,7.0,Commanders,2013
+1.0,John Potter,1/24/1990,23.0,6-2,209.0,Western Michigan,K,3,0.0,1.0,0.0,Commanders,2013
+32.0,Jordan Pugh,1/29/1988,25.0,5-11,191.0,Texas A&M,DB,4,0.0,3.0,0.0,Commanders,2013
+24.0,Bacarri Rambo,6/27/1990,23.0,6-1,211.0,Georgia,DB,11,3.0,0.0,1.0,Commanders,2013
+86.0,Jordan Reed,7/3/1990,23.0,6-2,242.0,Florida,TE,9,4.0,0.0,3.0,Commanders,2013
+56.0,Perry Riley,5/3/1988,25.0,6-1,238.0,LSU,RILB,16,16.0,3.0,7.0,Commanders,2013
+11.0,Aldrick Robinson,9/24/1988,25.0,5-10,185.0,SMU,WR,16,1.0,1.0,2.0,Commanders,2013
+34.0,Trent Robinson,2/16/1990,23.0,5-10,193.0,Michigan St.,DB,11,0.0,1.0,1.0,Commanders,2013
+6.0,Saverio Rocca,11/20/1973,40.0,6-5,265.0,,P,16,0.0,6.0,1.0,Commanders,2013
+22.0,Evan Royster,11/26/1987,26.0,6-0,218.0,Penn St.,RB,10,0.0,2.0,0.0,Commanders,2013
+57.0,Nick Sundberg,7/29/1987,26.0,6-1,254.0,California,LS,5,0.0,3.0,0.0,Commanders,2013
+54.0,Darryl Tapp,9/13/1984,29.0,6-1,270.0,Virginia Tech,DE,11,0.0,7.0,1.0,Commanders,2013
+25.0,Chris Thompson,10/20/1990,23.0,5-8,195.0,Florida St.,RB,4,0.0,0.0,0.0,Commanders,2013
+13.0,Nick Williams,11/23/1990,23.0,5-10,184.0,Connecticut,WR,5,0.0,0.0,0.0,Commanders,2013
+71.0,Trent Williams,7/19/1988,25.0,6-5,320.0,Oklahoma,LT,16,16.0,3.0,9.0,Commanders,2013
+26.0,Josh Wilson,3/11/1985,28.0,5-9,189.0,Maryland,RCB,16,16.0,6.0,5.0,Commanders,2013
+36.0,Darrel Young,4/8/1987,26.0,5-11,248.0,Villanova,RB,13,7.0,3.0,1.0,Commanders,2013
+,Team Total,,26.7,6-1.4,241.2,,,16,,3.5,,Commanders,2013

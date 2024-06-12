@@ -1,63 +1,63 @@
-,No.,Player,BirthDate,Age,Height,Weight,College/University,Position,Games_Played_in_Season,Games_Started_in_Season,NFL_Years,Player_Value,Team,Year
-0,76.0,Mike Adams,3/10/1990,23.0,6-7,323.0,Ohio St.,LT,15,10.0,1.0,5.0,Steelers,2013
-1,28.0,Cortez Allen,10/29/1988,25.0,6-1,196.0,The Citadel,LCB,14,8.0,2.0,4.0,Steelers,2013
-2,20.0,Will Allen,6/17/1982,31.0,6-1,202.0,Ohio St.,DB,12,0.0,9.0,1.0,Steelers,2013
-3,69.0,Brian Arnfelt,10/11/1989,24.0,6-4,298.0,Northwestern,DE,2,0.0,0.0,0.0,Steelers,2013
-4,68.0,Kelvin Beachum,6/8/1989,24.0,6-3,308.0,SMU,LT,15,12.0,1.0,6.0,Steelers,2013
-5,26.0,Le'Veon Bell,2/18/1992,21.0,6-1,225.0,Michigan St.,RB,13,13.0,0.0,8.0,Steelers,2013
-6,41.0,Antwon Blake,8/9/1990,23.0,5-9,198.0,Texas-El Paso,DB,14,0.0,1.0,1.0,Steelers,2013
-7,84.0,Antonio Brown,7/10/1988,25.0,5-10,185.0,Central Michigan,WR,16,14.0,3.0,14.0,Steelers,2013
-8,31.0,Curtis Brown,9/24/1988,25.0,6-0,180.0,Texas,DB,7,0.0,2.0,0.0,Steelers,2013
-9,54.0,Chris Carter,4/6/1989,24.0,6-1,245.0,Fresno St.,LB,13,1.0,2.0,1.0,Steelers,2013
-10,25.0,Ryan Clark,10/12/1979,34.0,5-11,205.0,LSU,FS,16,16.0,11.0,6.0,Steelers,2013
-11,89.0,Jerricho Cotchery,6/16/1982,31.0,6-1,205.0,North Carolina St.,WR,16,6.0,9.0,5.0,Steelers,2013
-12,42.0,Da'Mon Cromartie-Smith,2/17/1987,26.0,6-2,210.0,Texas-El Paso,DB,4,0.0,2.0,0.0,Steelers,2013
-13,66.0,David DeCastro,1/11/1990,23.0,6-5,316.0,Stanford,RG,15,15.0,1.0,7.0,Steelers,2013
-14,27.0,Jonathan Dwyer,7/26/1989,24.0,5-11,235.0,Georgia Tech,RB,15,0.0,3.0,2.0,Steelers,2013
-15,92.0,Hebron Fangupo,7/19/1985,28.0,6-1,330.0,BYU,DT,4,0.0,1.0,0.0,Steelers,2013
-16,50.0,Larry Foote,6/12/1980,33.0,6-1,239.0,Michigan,LB,1,1.0,11.0,0.0,Steelers,2013
-17,73.0,Ramon Foster,1/7/1986,27.0,6-5,328.0,Tennessee,LG,15,15.0,4.0,7.0,Steelers,2013
-18,57.0,Terence Garvin,1/1/1991,22.0,6-3,242.0,West Virginia,LB,15,1.0,0.0,1.0,Steelers,2013
-19,22.0,William Gay,1/1/1985,28.0,5-10,187.0,Louisville,LCB,16,11.0,6.0,5.0,Steelers,2013
-20,77.0,Marcus Gilbert,2/15/1988,25.0,6-6,330.0,Florida,RT,16,16.0,2.0,8.0,Steelers,2013
-21,21.0,Robert Golden,9/13/1990,23.0,5-11,202.0,Arizona,DB,16,0.0,1.0,1.0,Steelers,2013
-22,39.0,Isaiah Green,8/10/1989,24.0,5-10,180.0,Fresno St.,FB,3,0.0,0.0,0.0,Steelers,2013
-23,97.0,Cameron Heyward,5/6/1989,24.0,6-5,295.0,Ohio St.,LDE,16,13.0,2.0,7.0,Steelers,2013
-24,96.0,Evander Hood,2/16/1987,26.0,6-3,305.0,Missouri,DE,16,7.0,4.0,5.0,Steelers,2013
-25,85.0,David Johnson,8/26/1987,26.0,6-2,270.0,Arkansas St.,TE,5,2.0,4.0,1.0,Steelers,2013
-26,46.0,Will Johnson,11/14/1989,24.0,6-2,238.0,West Virginia,RB,15,5.0,1.0,0.0,Steelers,2013
-27,23.0,Felix Jones,5/8/1987,26.0,5-10,215.0,Arkansas,RB,16,2.0,5.0,2.0,Steelers,2013
-28,95.0,Jarvis Jones,10/13/1989,24.0,6-2,245.0,Georgia,OLB,14,8.0,0.0,4.0,Steelers,2013
-29,99.0,Brett Keisel,9/19/1978,35.0,6-5,285.0,"Snow College (UT),BYU",RDE,12,12.0,11.0,6.0,Steelers,2013
-30,10.0,Mat McBriar,7/8/1979,34.0,6-0,223.0,Hawaii,P,9,0.0,9.0,0.0,Steelers,2013
-31,90.0,Steve McLendon,1/3/1986,27.0,6-3,310.0,Troy,NT,14,10.0,3.0,5.0,Steelers,2013
-32,4.0,Zoltan Mesko,3/16/1986,27.0,6-4,234.0,Michigan,P,7,0.0,3.0,0.0,Steelers,2013
-33,83.0,Heath Miller,10/22/1982,31.0,6-5,256.0,Virginia,TE,14,14.0,8.0,5.0,Steelers,2013
-34,14.0,Derek Moye,8/12/1988,25.0,6-5,210.0,Penn St.,WR,7,0.0,0.0,0.0,Steelers,2013
-35,82.0,Michael Palmer,1/18/1988,25.0,6-5,260.0,Clemson,TE,16,0.0,3.0,0.0,Steelers,2013
-36,81.0,David Paulson,2/22/1989,24.0,6-3,243.0,Oregon,TE,16,4.0,1.0,1.0,Steelers,2013
-37,43.0,Troy Polamalu,4/19/1981,32.0,5-10,207.0,USC,SS,16,16.0,10.0,9.0,Steelers,2013
-38,53.0,Maurkice Pouncey,7/24/1989,24.0,6-4,304.0,Florida,C,1,1.0,3.0,0.0,Steelers,2013
-39,33.0,Isaac Redman,11/10/1984,29.0,6-0,230.0,Bowie St.,RB,3,1.0,4.0,0.0,Steelers,2013
-40,7.0,Ben Roethlisberger,3/2/1982,31.0,6-5,240.0,Miami (OH),QB,16,16.0,9.0,13.0,Steelers,2013
-41,88.0,Emmanuel Sanders,3/17/1987,26.0,5-11,180.0,SMU,WR,16,10.0,3.0,7.0,Steelers,2013
-42,87.0,Matt Spaeth,11/24/1983,30.0,6-7,270.0,Minnesota,TE,4,2.0,6.0,0.0,Steelers,2013
-43,34.0,LaRod Stephens-Howling,4/26/1987,26.0,5-7,180.0,Pittsburgh,RB,1,0.0,4.0,0.0,Steelers,2013
-44,6.0,Shaun Suisham,12/29/1981,32.0,6-0,199.0,Bowling Green,K,16,0.0,8.0,4.0,Steelers,2013
-45,55.0,Stevenson Sylvester,7/18/1988,25.0,6-2,225.0,Utah,LB,9,1.0,3.0,1.0,Steelers,2013
-46,24.0,Ike Taylor,5/5/1980,33.0,6-2,195.0,Louisiana,RCB,16,16.0,10.0,6.0,Steelers,2013
-47,29.0,Shamarko Thomas,2/23/1991,22.0,5-9,205.0,Syracuse,DB,14,2.0,0.0,1.0,Steelers,2013
-48,94.0,Lawrence Timmons,5/14/1986,27.0,6-1,234.0,Florida St.,RILB,16,16.0,6.0,8.0,Steelers,2013
-49,30.0,DeMarcus Van Dyke,1/17/1989,24.0,6-1,175.0,Miami (FL),DB,2,0.0,2.0,0.0,Steelers,2013
-50,61.0,Fernando Velasco,2/22/1985,28.0,6-3,308.0,Georgia,C,11,11.0,4.0,5.0,Steelers,2013
-51,72.0,Cody Wallace,11/26/1984,29.0,6-4,290.0,Texas A&M,C,9,4.0,4.0,2.0,Steelers,2013
-52,60.0,Greg Warren,10/18/1981,32.0,6-3,252.0,North Carolina,LS,16,0.0,8.0,2.0,Steelers,2013
-53,44.0,Jamaal Westerman,2/21/1985,28.0,6-3,265.0,Rutgers,DE,1,0.0,4.0,0.0,Steelers,2013
-54,11.0,Markus Wheaton,2/7/1991,22.0,5-11,185.0,Oregon St.,WR,12,1.0,0.0,1.0,Steelers,2013
-55,78.0,Guy Whimper,5/21/1983,30.0,6-5,315.0,East Carolina,DE,11,2.0,7.0,2.0,Steelers,2013
-56,98.0,Vince Williams,12/27/1989,24.0,6-1,233.0,Florida St.,LILB,15,11.0,0.0,5.0,Steelers,2013
-57,48.0,Kion Wilson,10/24/1986,27.0,6-0,232.0,South Florida,LB,7,2.0,3.0,1.0,Steelers,2013
-58,56.0,LaMarr Woodley,11/3/1984,29.0,6-2,266.0,Michigan,LOLB,11,11.0,6.0,5.0,Steelers,2013
-59,65.0,Al Woods,3/25/1987,26.0,6-4,309.0,LSU,NT,16,2.0,3.0,2.0,Steelers,2013
-60,93.0,Jason Worilds,3/3/1988,25.0,6-2,240.0,Virginia Tech,ROLB,15,11.0,3.0,6.0,Steelers,2013
-61,,Team Total,,26.8,6-1.8,244.2,,,16,,3.9,,Steelers,2013
+No.,Player,BirthDate,Age,Height,Weight,College/University,Position,Games_Played_in_Season,Games_Started_in_Season,NFL_Years,Player_Value,Team,Year
+76.0,Mike Adams,3/10/1990,23.0,6-7,323.0,Ohio St.,LT,15,10.0,1.0,5.0,Steelers,2013
+28.0,Cortez Allen,10/29/1988,25.0,6-1,196.0,The Citadel,LCB,14,8.0,2.0,4.0,Steelers,2013
+20.0,Will Allen,6/17/1982,31.0,6-1,202.0,Ohio St.,DB,12,0.0,9.0,1.0,Steelers,2013
+69.0,Brian Arnfelt,10/11/1989,24.0,6-4,298.0,Northwestern,DE,2,0.0,0.0,0.0,Steelers,2013
+68.0,Kelvin Beachum,6/8/1989,24.0,6-3,308.0,SMU,LT,15,12.0,1.0,6.0,Steelers,2013
+26.0,Le'Veon Bell,2/18/1992,21.0,6-1,225.0,Michigan St.,RB,13,13.0,0.0,8.0,Steelers,2013
+41.0,Antwon Blake,8/9/1990,23.0,5-9,198.0,Texas-El Paso,DB,14,0.0,1.0,1.0,Steelers,2013
+84.0,Antonio Brown,7/10/1988,25.0,5-10,185.0,Central Michigan,WR,16,14.0,3.0,14.0,Steelers,2013
+31.0,Curtis Brown,9/24/1988,25.0,6-0,180.0,Texas,DB,7,0.0,2.0,0.0,Steelers,2013
+54.0,Chris Carter,4/6/1989,24.0,6-1,245.0,Fresno St.,LB,13,1.0,2.0,1.0,Steelers,2013
+25.0,Ryan Clark,10/12/1979,34.0,5-11,205.0,LSU,FS,16,16.0,11.0,6.0,Steelers,2013
+89.0,Jerricho Cotchery,6/16/1982,31.0,6-1,205.0,North Carolina St.,WR,16,6.0,9.0,5.0,Steelers,2013
+42.0,Da'Mon Cromartie-Smith,2/17/1987,26.0,6-2,210.0,Texas-El Paso,DB,4,0.0,2.0,0.0,Steelers,2013
+66.0,David DeCastro,1/11/1990,23.0,6-5,316.0,Stanford,RG,15,15.0,1.0,7.0,Steelers,2013
+27.0,Jonathan Dwyer,7/26/1989,24.0,5-11,235.0,Georgia Tech,RB,15,0.0,3.0,2.0,Steelers,2013
+92.0,Hebron Fangupo,7/19/1985,28.0,6-1,330.0,BYU,DT,4,0.0,1.0,0.0,Steelers,2013
+50.0,Larry Foote,6/12/1980,33.0,6-1,239.0,Michigan,LB,1,1.0,11.0,0.0,Steelers,2013
+73.0,Ramon Foster,1/7/1986,27.0,6-5,328.0,Tennessee,LG,15,15.0,4.0,7.0,Steelers,2013
+57.0,Terence Garvin,1/1/1991,22.0,6-3,242.0,West Virginia,LB,15,1.0,0.0,1.0,Steelers,2013
+22.0,William Gay,1/1/1985,28.0,5-10,187.0,Louisville,LCB,16,11.0,6.0,5.0,Steelers,2013
+77.0,Marcus Gilbert,2/15/1988,25.0,6-6,330.0,Florida,RT,16,16.0,2.0,8.0,Steelers,2013
+21.0,Robert Golden,9/13/1990,23.0,5-11,202.0,Arizona,DB,16,0.0,1.0,1.0,Steelers,2013
+39.0,Isaiah Green,8/10/1989,24.0,5-10,180.0,Fresno St.,FB,3,0.0,0.0,0.0,Steelers,2013
+97.0,Cameron Heyward,5/6/1989,24.0,6-5,295.0,Ohio St.,LDE,16,13.0,2.0,7.0,Steelers,2013
+96.0,Evander Hood,2/16/1987,26.0,6-3,305.0,Missouri,DE,16,7.0,4.0,5.0,Steelers,2013
+85.0,David Johnson,8/26/1987,26.0,6-2,270.0,Arkansas St.,TE,5,2.0,4.0,1.0,Steelers,2013
+46.0,Will Johnson,11/14/1989,24.0,6-2,238.0,West Virginia,RB,15,5.0,1.0,0.0,Steelers,2013
+23.0,Felix Jones,5/8/1987,26.0,5-10,215.0,Arkansas,RB,16,2.0,5.0,2.0,Steelers,2013
+95.0,Jarvis Jones,10/13/1989,24.0,6-2,245.0,Georgia,OLB,14,8.0,0.0,4.0,Steelers,2013
+99.0,Brett Keisel,9/19/1978,35.0,6-5,285.0,"Snow College (UT),BYU",RDE,12,12.0,11.0,6.0,Steelers,2013
+10.0,Mat McBriar,7/8/1979,34.0,6-0,223.0,Hawaii,P,9,0.0,9.0,0.0,Steelers,2013
+90.0,Steve McLendon,1/3/1986,27.0,6-3,310.0,Troy,NT,14,10.0,3.0,5.0,Steelers,2013
+4.0,Zoltan Mesko,3/16/1986,27.0,6-4,234.0,Michigan,P,7,0.0,3.0,0.0,Steelers,2013
+83.0,Heath Miller,10/22/1982,31.0,6-5,256.0,Virginia,TE,14,14.0,8.0,5.0,Steelers,2013
+14.0,Derek Moye,8/12/1988,25.0,6-5,210.0,Penn St.,WR,7,0.0,0.0,0.0,Steelers,2013
+82.0,Michael Palmer,1/18/1988,25.0,6-5,260.0,Clemson,TE,16,0.0,3.0,0.0,Steelers,2013
+81.0,David Paulson,2/22/1989,24.0,6-3,243.0,Oregon,TE,16,4.0,1.0,1.0,Steelers,2013
+43.0,Troy Polamalu,4/19/1981,32.0,5-10,207.0,USC,SS,16,16.0,10.0,9.0,Steelers,2013
+53.0,Maurkice Pouncey,7/24/1989,24.0,6-4,304.0,Florida,C,1,1.0,3.0,0.0,Steelers,2013
+33.0,Isaac Redman,11/10/1984,29.0,6-0,230.0,Bowie St.,RB,3,1.0,4.0,0.0,Steelers,2013
+7.0,Ben Roethlisberger,3/2/1982,31.0,6-5,240.0,Miami (OH),QB,16,16.0,9.0,13.0,Steelers,2013
+88.0,Emmanuel Sanders,3/17/1987,26.0,5-11,180.0,SMU,WR,16,10.0,3.0,7.0,Steelers,2013
+87.0,Matt Spaeth,11/24/1983,30.0,6-7,270.0,Minnesota,TE,4,2.0,6.0,0.0,Steelers,2013
+34.0,LaRod Stephens-Howling,4/26/1987,26.0,5-7,180.0,Pittsburgh,RB,1,0.0,4.0,0.0,Steelers,2013
+6.0,Shaun Suisham,12/29/1981,32.0,6-0,199.0,Bowling Green,K,16,0.0,8.0,4.0,Steelers,2013
+55.0,Stevenson Sylvester,7/18/1988,25.0,6-2,225.0,Utah,LB,9,1.0,3.0,1.0,Steelers,2013
+24.0,Ike Taylor,5/5/1980,33.0,6-2,195.0,Louisiana,RCB,16,16.0,10.0,6.0,Steelers,2013
+29.0,Shamarko Thomas,2/23/1991,22.0,5-9,205.0,Syracuse,DB,14,2.0,0.0,1.0,Steelers,2013
+94.0,Lawrence Timmons,5/14/1986,27.0,6-1,234.0,Florida St.,RILB,16,16.0,6.0,8.0,Steelers,2013
+30.0,DeMarcus Van Dyke,1/17/1989,24.0,6-1,175.0,Miami (FL),DB,2,0.0,2.0,0.0,Steelers,2013
+61.0,Fernando Velasco,2/22/1985,28.0,6-3,308.0,Georgia,C,11,11.0,4.0,5.0,Steelers,2013
+72.0,Cody Wallace,11/26/1984,29.0,6-4,290.0,Texas A&M,C,9,4.0,4.0,2.0,Steelers,2013
+60.0,Greg Warren,10/18/1981,32.0,6-3,252.0,North Carolina,LS,16,0.0,8.0,2.0,Steelers,2013
+44.0,Jamaal Westerman,2/21/1985,28.0,6-3,265.0,Rutgers,DE,1,0.0,4.0,0.0,Steelers,2013
+11.0,Markus Wheaton,2/7/1991,22.0,5-11,185.0,Oregon St.,WR,12,1.0,0.0,1.0,Steelers,2013
+78.0,Guy Whimper,5/21/1983,30.0,6-5,315.0,East Carolina,DE,11,2.0,7.0,2.0,Steelers,2013
+98.0,Vince Williams,12/27/1989,24.0,6-1,233.0,Florida St.,LILB,15,11.0,0.0,5.0,Steelers,2013
+48.0,Kion Wilson,10/24/1986,27.0,6-0,232.0,South Florida,LB,7,2.0,3.0,1.0,Steelers,2013
+56.0,LaMarr Woodley,11/3/1984,29.0,6-2,266.0,Michigan,LOLB,11,11.0,6.0,5.0,Steelers,2013
+65.0,Al Woods,3/25/1987,26.0,6-4,309.0,LSU,NT,16,2.0,3.0,2.0,Steelers,2013
+93.0,Jason Worilds,3/3/1988,25.0,6-2,240.0,Virginia Tech,ROLB,15,11.0,3.0,6.0,Steelers,2013
+,Team Total,,26.8,6-1.8,244.2,,,16,,3.9,,Steelers,2013

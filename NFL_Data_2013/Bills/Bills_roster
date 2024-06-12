@@ -1,0 +1,66 @@
+Player,BirthDate,Age,Height,Weight,College/University,Position,Games_Played_in_Season,Games_Started_in_Season,NFL_Years,Player_Value,Team,Year
+Johnny Adams,6/9/1989,24.0,5-10,185.0,Michigan St.,DB,4,0.0,0.0,0.0,Bills,2013
+Kiko Alonso,8/14/1990,23.0,6-3,239.0,Oregon,MLB,16,16.0,0.0,10.0,Bills,2013
+Mark Asper,11/8/1985,28.0,6-6,319.0,Oregon,G,6,0.0,1.0,0.0,Bills,2013
+Nigel Bradham,9/4/1989,24.0,6-2,241.0,Florida St.,LB,16,2.0,1.0,2.0,Bills,2013
+Alan Branch,12/29/1984,29.0,6-6,350.0,Michigan,LDE,16,13.0,6.0,6.0,Bills,2013
+Ron Brooks,10/16/1988,25.0,5-10,190.0,LSU,DB,11,0.0,1.0,1.0,Bills,2013
+Colin Brown,8/29/1985,28.0,6-8,325.0,Missouri,LG,6,5.0,2.0,2.0,Bills,2013
+Corbin Bryant,1/4/1988,25.0,6-4,300.0,Northwestern,DT,15,2.0,2.0,2.0,Bills,2013
+Brandon Burton,7/31/1989,24.0,6-0,185.0,Utah,DB,5,0.0,2.0,0.0,Bills,2013
+Jairus Byrd,10/7/1986,27.0,6-0,205.0,Oregon,FS,11,9.0,4.0,7.0,Bills,2013
+Dan Carpenter,11/25/1985,28.0,6-2,216.0,Montana,K,16,0.0,5.0,4.0,Bills,2013
+Alex Carrington,6/19/1987,26.0,6-5,284.0,Arkansas St.,DE,3,3.0,3.0,1.0,Bills,2013
+Scott Chandler,7/23/1985,28.0,6-7,270.0,Iowa,TE,16,7.0,6.0,5.0,Bills,2013
+Stefan Charles,6/9/1988,25.0,6-5,302.0,Regina,DT,8,0.0,0.0,1.0,Bills,2013
+Tashard Choice,11/20/1984,29.0,5-10,210.0,"Oklahoma,Georgia Tech",RB,12,0.0,5.0,1.0,Bills,2013
+Marcell Dareus,3/13/1990,23.0,6-3,331.0,Alabama,RDT,16,14.0,2.0,10.0,Bills,2013
+Marcus Dowtin,1/22/1989,24.0,6-2,230.0,North Alabama,LB,5,0.0,1.0,0.0,Bills,2013
+Marcus Easley,11/2/1987,26.0,6-2,225.0,Connecticut,WR,16,0.0,1.0,0.0,Bills,2013
+Stephon Gilmore,9/19/1990,23.0,6-0,190.0,South Carolina,RCB,11,9.0,1.0,3.0,Bills,2013
+Cordy Glenn,9/18/1989,24.0,6-6,345.0,Georgia,LT,16,16.0,1.0,7.0,Bills,2013
+Marquise Goodwin,11/19/1990,23.0,5-9,185.0,Texas,WR,12,1.0,0.0,2.0,Bills,2013
+Chris Gragg,6/30/1990,23.0,6-3,244.0,Arkansas,TE,9,1.0,0.0,0.0,Bills,2013
+T.J. Graham,7/4/1989,24.0,6-2,210.0,North Carolina St.,WR,16,6.0,1.0,3.0,Bills,2013
+Chris Hogan,10/24/1987,26.0,6-1,210.0,Monmouth,WR,16,0.0,0.0,1.0,Bills,2013
+Jerry Hughes,8/13/1988,25.0,6-2,254.0,TCU,DE,16,1.0,3.0,3.0,Bills,2013
+Fred Jackson,2/20/1981,32.0,6-1,215.0,Coe College,RB,16,6.0,6.0,8.0,Bills,2013
+Stevie Johnson,11/28/1986,27.0,6-2,210.0,Kentucky,WR,12,12.0,5.0,5.0,Bills,2013
+Manny Lawson,7/13/1984,29.0,6-5,240.0,North Carolina St.,LLB,15,15.0,7.0,8.0,Bills,2013
+Doug Legursky,6/9/1986,27.0,6-1,323.0,Marshall,LG,12,11.0,4.0,5.0,Bills,2013
+Jim Leonhard,10/27/1982,31.0,5-8,188.0,Wisconsin,SS,16,7.0,8.0,3.0,Bills,2013
+Thaddeus Lewis,2/1/1985,28.0,6-0,200.0,Duke,QB,6,5.0,1.0,3.0,Bills,2013
+EJ Manuel,3/19/1990,23.0,6-4,237.0,Florida St.,QB,10,10.0,0.0,5.0,Bills,2013
+Leodis McKelvin,9/1/1985,28.0,5-11,190.0,Troy,LCB,15,13.0,5.0,5.0,Bills,2013
+Jonathan Meeks,11/8/1989,24.0,6-1,210.0,Clemson,DB,8,0.0,0.0,0.0,Bills,2013
+Arthur Moats,3/14/1988,25.0,6-0,246.0,James Madison,RLB,16,12.0,3.0,6.0,Bills,2013
+Tony Moeaki,6/8/1987,26.0,6-4,250.0,Iowa,TE,2,0.0,3.0,0.0,Bills,2013
+Brian Moorman,2/5/1976,37.0,6-0,174.0,Pittsburg St.,P,11,0.0,12.0,0.0,Bills,2013
+Erik Pears,6/25/1982,31.0,6-8,316.0,Colorado St.,RT,16,16.0,7.0,7.0,Bills,2013
+Shawn Powell,11/29/1988,25.0,6-4,253.0,Florida St.,P,5,0.0,1.0,1.0,Bills,2013
+Ty Powell,4/27/1988,25.0,6-2,249.0,Harding,DE,5,0.0,0.0,0.0,Bills,2013
+Nickell Robey-Coleman,1/17/1992,21.0,5-8,180.0,USC,DB,16,2.0,0.0,2.0,Bills,2013
+Evan Rodriguez,9/21/1988,25.0,6-1,242.0,Temple,TE,7,0.0,1.0,0.0,Bills,2013
+Justin Rogers,1/16/1988,25.0,5-11,180.0,Richmond,RCB,5,5.0,2.0,2.0,Bills,2013
+Jay Ross,10/3/1987,26.0,6-3,302.0,East Carolina,DT,5,0.0,1.0,0.0,Bills,2013
+Garrison Sanborn,7/31/1985,28.0,6-1,240.0,Florida St.,LS,16,0.0,4.0,2.0,Bills,2013
+Da'Norris Searcy,11/16/1988,25.0,5-11,205.0,North Carolina,FS,16,7.0,2.0,4.0,Bills,2013
+Brad Smith,12/12/1983,30.0,6-2,213.0,Missouri,WR,2,0.0,7.0,0.0,Bills,2013
+Brandon Smith,2/23/1987,26.0,6-1,205.0,Arizona St.,WR,2,0.0,0.0,0.0,Bills,2013
+Lee Smith,11/21/1987,26.0,6-6,265.0,"Tennessee,Marshall",TE,16,14.0,2.0,1.0,Bills,2013
+C.J. Spiller,8/5/1987,26.0,5-11,194.0,Clemson,RB,15,10.0,3.0,7.0,Bills,2013
+Frank Summers,9/6/1985,28.0,5-10,240.0,UNLV,RB,15,9.0,4.0,1.0,Bills,2013
+Jeff Tuel,2/12/1991,22.0,6-3,218.0,Washington St.,QB,2,1.0,0.0,1.0,Bills,2013
+J.J. Unga,1/5/1987,26.0,6-5,320.0,Midwestern St.,T,3,0.0,0.0,0.0,Bills,2013
+Kraig Urbik,9/23/1985,28.0,6-5,323.0,Wisconsin,RG,16,16.0,3.0,7.0,Bills,2013
+Thomas Welch,6/19/1987,26.0,6-6,306.0,Vanderbilt,T,16,0.0,2.0,1.0,Bills,2013
+Jamaal Westerman,2/21/1985,28.0,6-3,265.0,Rutgers,DE,12,0.0,4.0,1.0,Bills,2013
+Aaron Williams,4/23/1990,23.0,6-0,195.0,Texas,SS,14,14.0,2.0,5.0,Bills,2013
+Duke Williams,10/15/1990,23.0,5-11,201.0,Nevada,DB,16,0.0,0.0,1.0,Bills,2013
+Kyle Williams,6/10/1983,30.0,6-1,303.0,LSU,LDT,16,16.0,7.0,11.0,Bills,2013
+Mario Williams,1/31/1985,28.0,6-6,300.0,North Carolina St.,RDE,16,16.0,7.0,13.0,Bills,2013
+Ronnie Wingo,2/18/1991,22.0,6-3,231.0,Arkansas,RB,2,0.0,0.0,0.0,Bills,2013
+Eric Wood,3/18/1986,27.0,6-4,310.0,Louisville,C,16,16.0,4.0,7.0,Bills,2013
+Robert Woods,4/10/1992,21.0,6-0,195.0,USC,WR,14,14.0,0.0,5.0,Bills,2013
+Sam Young,6/24/1987,26.0,6-8,302.0,Notre Dame,T,4,0.0,3.0,0.0,Bills,2013
+Team Total,,26.1,6-2.1,245.0,,,16,,2.6,,Bills,2013

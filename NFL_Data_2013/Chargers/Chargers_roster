@@ -1,64 +1,64 @@
-,No.,Player,BirthDate,Age,Height,Weight,College/University,Position,Games_Played_in_Season,Games_Started_in_Season,NFL_Years,Player_Value,Team,Year
-0,37.0,Jahleel Addae,1/24/1990,23.0,5-10,195.0,Central Michigan,DB,16,2.0,0.0,2.0,Chargers,2013
-1,16.0,Seyi Ajirotutu,6/12/1987,26.0,6-3,211.0,Fresno St.,WR,14,0.0,3.0,1.0,Chargers,2013
-2,13.0,Keenan Allen,4/27/1992,21.0,6-2,211.0,California,WR,15,14.0,0.0,10.0,Chargers,2013
-3,67.0,Nick Becton,2/11/1990,23.0,6-6,322.0,Virginia Tech,T,1,0.0,0.0,0.0,Chargers,2013
-4,97.0,Bront Bird,3/17/1989,24.0,6-4,248.0,Texas Tech,LB,16,2.0,2.0,2.0,Chargers,2013
-5,23.0,Ronnie Brown,12/12/1981,32.0,6-0,223.0,Auburn,RB,16,0.0,8.0,2.0,Chargers,2013
-6,86.0,Vincent Brown,1/25/1989,24.0,5-11,184.0,San Diego St.,WR,16,12.0,2.0,5.0,Chargers,2013
-7,20.0,Crezdon Butler,5/26/1987,26.0,6-0,183.0,Clemson,DB,12,0.0,3.0,1.0,Chargers,2013
-8,56.0,Donald Butler,10/17/1988,25.0,6-1,244.0,Washington,RILB,13,12.0,2.0,6.0,Chargers,2013
-9,81.0,Jake Byrne,1/24/1990,23.0,6-4,260.0,Wisconsin,TE,1,0.0,0.0,0.0,Chargers,2013
-10,66.0,Jeromey Clary,11/5/1983,30.0,6-6,320.0,Kansas St.,RG,15,15.0,6.0,9.0,Chargers,2013
-11,22.0,Derek Cox,9/22/1986,27.0,6-1,180.0,William & Mary,LCB,16,11.0,4.0,4.0,Chargers,2013
-12,77.0,King Dunlap,9/9/1985,28.0,6-8,310.0,Auburn,LT,11,11.0,4.0,7.0,Chargers,2013
-13,51.0,Larry English,1/22/1986,27.0,6-2,254.0,Northern Illinois,LOLB,9,5.0,4.0,2.0,Chargers,2013
-14,80.0,Malcom Floyd,9/8/1981,32.0,6-5,225.0,Wyoming,WR,2,2.0,9.0,1.0,Chargers,2013
-15,76.0,D.J. Fluker,3/13/1991,22.0,6-5,342.0,Alabama,RT,15,15.0,0.0,9.0,Chargers,2013
-16,93.0,Dwight Freeney,2/19/1980,33.0,6-1,268.0,Syracuse,DE,4,4.0,11.0,1.0,Chargers,2013
-17,59.0,Andrew Gachkar,11/4/1988,25.0,6-2,224.0,Missouri,LB,16,3.0,2.0,2.0,Chargers,2013
-18,85.0,Antonio Gates,6/18/1980,33.0,6-4,255.0,Kent St.,TE,16,15.0,10.0,8.0,Chargers,2013
-19,95.0,Kwame Geathers,10/4/1990,23.0,6-6,342.0,Georgia,DT,7,0.0,0.0,0.0,Chargers,2013
-20,38.0,Marcus Gilchrist,12/8/1988,25.0,5-10,200.0,Clemson,SS,16,16.0,2.0,6.0,Chargers,2013
-21,89.0,Ladarius Green,5/29/1990,23.0,6-6,237.0,Louisiana,WR,16,10.0,1.0,4.0,Chargers,2013
-22,71.0,Lawrence Guy,3/17/1990,23.0,6-4,315.0,Arizona St.,DE,10,0.0,1.0,1.0,Chargers,2013
-23,61.0,Nick Hardwick,9/2/1981,32.0,6-4,305.0,Purdue,C,16,16.0,9.0,10.0,Chargers,2013
-24,79.0,Mike Harris,12/5/1988,25.0,6-5,310.0,UCLA,T,5,3.0,1.0,2.0,Chargers,2013
-25,10.0,Lavelle Hawkins,7/12/1986,27.0,5-11,187.0,California,WR,4,0.0,5.0,0.0,Chargers,2013
-26,54.0,Melvin Ingram,4/26/1989,24.0,6-2,247.0,South Carolina,LB,4,1.0,1.0,1.0,Chargers,2013
-27,96.0,Jarret Johnson,8/14/1981,32.0,6-3,260.0,Alabama,ROLB,11,9.0,10.0,4.0,Chargers,2013
-28,90.0,Thomas Keiser,3/28/1989,24.0,6-4,244.0,Stanford,LB,12,3.0,2.0,2.0,Chargers,2013
-29,98.0,Sean Lissemore,9/11/1987,26.0,6-4,286.0,William & Mary,NT,15,2.0,3.0,3.0,Chargers,2013
-30,94.0,Corey Liuget,3/18/1990,23.0,6-2,300.0,Illinois,RDE,16,16.0,2.0,7.0,Chargers,2013
-31,53.0,Terrell Manning,4/16/1990,23.0,6-2,237.0,North Carolina St.,LB,1,0.0,1.0,0.0,Chargers,2013
-32,31.0,Richard Marshall,12/12/1984,29.0,5-11,198.0,Fresno St.,LCB,16,6.0,7.0,3.0,Chargers,2013
-33,24.0,Ryan Mathews,10/10/1987,26.0,6-0,220.0,Fresno St.,RB,16,14.0,3.0,11.0,Chargers,2013
-34,33.0,Le'Ron McClain,12/27/1984,29.0,6-0,260.0,Alabama,RB,16,2.0,6.0,0.0,Chargers,2013
-35,9.0,Nick Novak,8/21/1981,32.0,6-0,200.0,Maryland,K,16,0.0,8.0,4.0,Chargers,2013
-36,74.0,Rich Ohrnberger,2/14/1986,27.0,6-2,291.0,Penn St.,G,13,1.0,4.0,2.0,Chargers,2013
-37,26.0,Johnny Patrick,8/17/1988,25.0,5-11,185.0,Louisville,DB,13,4.0,2.0,2.0,Chargers,2013
-38,83.0,John Phillips,6/11/1987,26.0,6-5,251.0,Virginia,TE,15,6.0,4.0,0.0,Chargers,2013
-39,60.0,Mike Remmers,4/11/1989,24.0,6-5,301.0,Oregon St.,T,1,0.0,0.0,0.0,Chargers,2013
-40,91.0,Kendall Reyes,9/26/1989,24.0,6-4,300.0,Connecticut,LDE,16,16.0,1.0,7.0,Chargers,2013
-41,78.0,Chad Rinehart,5/4/1985,28.0,6-5,320.0,Northern Iowa,LG,11,10.0,4.0,6.0,Chargers,2013
-42,17.0,Philip Rivers,12/8/1981,32.0,6-5,228.0,North Carolina St.,QB,16,16.0,9.0,16.0,Chargers,2013
-43,99.0,Adrian Robinson,11/21/1989,24.0,6-1,250.0,Temple,LB,2,0.0,1.0,0.0,Chargers,2013
-44,11.0,Eddie Royal,5/21/1986,27.0,5-10,182.0,Virginia Tech,WR,15,3.0,5.0,6.0,Chargers,2013
-45,70.0,Stephen Schilling,7/21/1988,25.0,6-4,308.0,Michigan,G,7,0.0,2.0,1.0,Chargers,2013
-46,5.0,Mike Scifres,10/8/1980,33.0,6-2,215.0,Western Illinois,P,16,0.0,10.0,2.0,Chargers,2013
-47,69.0,Willie Smith,11/13/1986,27.0,6-6,290.0,East Carolina,T,1,0.0,2.0,0.0,Chargers,2013
-48,25.0,Darrell Stuckey,6/16/1987,26.0,5-11,212.0,Kansas,DB,16,0.0,3.0,1.0,Chargers,2013
-49,50.0,Manti Te'o,1/26/1991,22.0,6-1,241.0,Notre Dame,LILB,13,13.0,0.0,5.0,Chargers,2013
-50,92.0,Cam Thomas,12/12/1986,27.0,6-3,330.0,North Carolina,NT,16,10.0,3.0,5.0,Chargers,2013
-51,63.0,Johnnie Troutman,11/11/1987,26.0,6-4,325.0,Penn St.,LG,14,9.0,0.0,6.0,Chargers,2013
-52,52.0,Reggie Walker,12/15/1986,27.0,6-0,238.0,Kansas St.,LB,16,6.0,4.0,3.0,Chargers,2013
-53,32.0,Eric Weddle,1/4/1985,28.0,5-11,195.0,Utah,FS,16,16.0,6.0,10.0,Chargers,2013
-54,6.0,Charlie Whitehurst,8/6/1982,31.0,6-4,226.0,Clemson,QB,2,0.0,7.0,0.0,Chargers,2013
-55,34.0,Fozzy Whittaker,2/2/1989,24.0,5-10,205.0,Texas,RB,3,0.0,0.0,0.0,Chargers,2013
-56,,Kerwynn Williams,6/9/1991,22.0,5-8,198.0,Utah St.,RB,1,,0.0,0.0,Chargers,2013
-57,58.0,Tourek Williams,5/9/1991,22.0,6-3,260.0,Florida International,ROLB,13,6.0,0.0,3.0,Chargers,2013
-58,47.0,Mike Windt,5/29/1986,27.0,6-1,237.0,Cincinnati,LS,16,0.0,3.0,1.0,Chargers,2013
-59,39.0,Danny Woodhead,1/25/1985,28.0,5-8,204.0,Chadron St.,RB,16,2.0,4.0,9.0,Chargers,2013
-60,29.0,Shareece Wright,4/8/1987,26.0,5-11,184.0,USC,RCB,13,13.0,2.0,5.0,Chargers,2013
-61,99.0,Jarius Wynn,8/29/1986,27.0,6-5,273.0,"Georgia Military,Georgia",DE,5,0.0,4.0,0.0,Chargers,2013
-62,,Team Total,,26.4,6-2.1,249.3,,,16,,3.4,,Chargers,2013
+No.,Player,BirthDate,Age,Height,Weight,College/University,Position,Games_Played_in_Season,Games_Started_in_Season,NFL_Years,Player_Value,Team,Year
+37.0,Jahleel Addae,1/24/1990,23.0,5-10,195.0,Central Michigan,DB,16,2.0,0.0,2.0,Chargers,2013
+16.0,Seyi Ajirotutu,6/12/1987,26.0,6-3,211.0,Fresno St.,WR,14,0.0,3.0,1.0,Chargers,2013
+13.0,Keenan Allen,4/27/1992,21.0,6-2,211.0,California,WR,15,14.0,0.0,10.0,Chargers,2013
+67.0,Nick Becton,2/11/1990,23.0,6-6,322.0,Virginia Tech,T,1,0.0,0.0,0.0,Chargers,2013
+97.0,Bront Bird,3/17/1989,24.0,6-4,248.0,Texas Tech,LB,16,2.0,2.0,2.0,Chargers,2013
+23.0,Ronnie Brown,12/12/1981,32.0,6-0,223.0,Auburn,RB,16,0.0,8.0,2.0,Chargers,2013
+86.0,Vincent Brown,1/25/1989,24.0,5-11,184.0,San Diego St.,WR,16,12.0,2.0,5.0,Chargers,2013
+20.0,Crezdon Butler,5/26/1987,26.0,6-0,183.0,Clemson,DB,12,0.0,3.0,1.0,Chargers,2013
+56.0,Donald Butler,10/17/1988,25.0,6-1,244.0,Washington,RILB,13,12.0,2.0,6.0,Chargers,2013
+81.0,Jake Byrne,1/24/1990,23.0,6-4,260.0,Wisconsin,TE,1,0.0,0.0,0.0,Chargers,2013
+66.0,Jeromey Clary,11/5/1983,30.0,6-6,320.0,Kansas St.,RG,15,15.0,6.0,9.0,Chargers,2013
+22.0,Derek Cox,9/22/1986,27.0,6-1,180.0,William & Mary,LCB,16,11.0,4.0,4.0,Chargers,2013
+77.0,King Dunlap,9/9/1985,28.0,6-8,310.0,Auburn,LT,11,11.0,4.0,7.0,Chargers,2013
+51.0,Larry English,1/22/1986,27.0,6-2,254.0,Northern Illinois,LOLB,9,5.0,4.0,2.0,Chargers,2013
+80.0,Malcom Floyd,9/8/1981,32.0,6-5,225.0,Wyoming,WR,2,2.0,9.0,1.0,Chargers,2013
+76.0,D.J. Fluker,3/13/1991,22.0,6-5,342.0,Alabama,RT,15,15.0,0.0,9.0,Chargers,2013
+93.0,Dwight Freeney,2/19/1980,33.0,6-1,268.0,Syracuse,DE,4,4.0,11.0,1.0,Chargers,2013
+59.0,Andrew Gachkar,11/4/1988,25.0,6-2,224.0,Missouri,LB,16,3.0,2.0,2.0,Chargers,2013
+85.0,Antonio Gates,6/18/1980,33.0,6-4,255.0,Kent St.,TE,16,15.0,10.0,8.0,Chargers,2013
+95.0,Kwame Geathers,10/4/1990,23.0,6-6,342.0,Georgia,DT,7,0.0,0.0,0.0,Chargers,2013
+38.0,Marcus Gilchrist,12/8/1988,25.0,5-10,200.0,Clemson,SS,16,16.0,2.0,6.0,Chargers,2013
+89.0,Ladarius Green,5/29/1990,23.0,6-6,237.0,Louisiana,WR,16,10.0,1.0,4.0,Chargers,2013
+71.0,Lawrence Guy,3/17/1990,23.0,6-4,315.0,Arizona St.,DE,10,0.0,1.0,1.0,Chargers,2013
+61.0,Nick Hardwick,9/2/1981,32.0,6-4,305.0,Purdue,C,16,16.0,9.0,10.0,Chargers,2013
+79.0,Mike Harris,12/5/1988,25.0,6-5,310.0,UCLA,T,5,3.0,1.0,2.0,Chargers,2013
+10.0,Lavelle Hawkins,7/12/1986,27.0,5-11,187.0,California,WR,4,0.0,5.0,0.0,Chargers,2013
+54.0,Melvin Ingram,4/26/1989,24.0,6-2,247.0,South Carolina,LB,4,1.0,1.0,1.0,Chargers,2013
+96.0,Jarret Johnson,8/14/1981,32.0,6-3,260.0,Alabama,ROLB,11,9.0,10.0,4.0,Chargers,2013
+90.0,Thomas Keiser,3/28/1989,24.0,6-4,244.0,Stanford,LB,12,3.0,2.0,2.0,Chargers,2013
+98.0,Sean Lissemore,9/11/1987,26.0,6-4,286.0,William & Mary,NT,15,2.0,3.0,3.0,Chargers,2013
+94.0,Corey Liuget,3/18/1990,23.0,6-2,300.0,Illinois,RDE,16,16.0,2.0,7.0,Chargers,2013
+53.0,Terrell Manning,4/16/1990,23.0,6-2,237.0,North Carolina St.,LB,1,0.0,1.0,0.0,Chargers,2013
+31.0,Richard Marshall,12/12/1984,29.0,5-11,198.0,Fresno St.,LCB,16,6.0,7.0,3.0,Chargers,2013
+24.0,Ryan Mathews,10/10/1987,26.0,6-0,220.0,Fresno St.,RB,16,14.0,3.0,11.0,Chargers,2013
+33.0,Le'Ron McClain,12/27/1984,29.0,6-0,260.0,Alabama,RB,16,2.0,6.0,0.0,Chargers,2013
+9.0,Nick Novak,8/21/1981,32.0,6-0,200.0,Maryland,K,16,0.0,8.0,4.0,Chargers,2013
+74.0,Rich Ohrnberger,2/14/1986,27.0,6-2,291.0,Penn St.,G,13,1.0,4.0,2.0,Chargers,2013
+26.0,Johnny Patrick,8/17/1988,25.0,5-11,185.0,Louisville,DB,13,4.0,2.0,2.0,Chargers,2013
+83.0,John Phillips,6/11/1987,26.0,6-5,251.0,Virginia,TE,15,6.0,4.0,0.0,Chargers,2013
+60.0,Mike Remmers,4/11/1989,24.0,6-5,301.0,Oregon St.,T,1,0.0,0.0,0.0,Chargers,2013
+91.0,Kendall Reyes,9/26/1989,24.0,6-4,300.0,Connecticut,LDE,16,16.0,1.0,7.0,Chargers,2013
+78.0,Chad Rinehart,5/4/1985,28.0,6-5,320.0,Northern Iowa,LG,11,10.0,4.0,6.0,Chargers,2013
+17.0,Philip Rivers,12/8/1981,32.0,6-5,228.0,North Carolina St.,QB,16,16.0,9.0,16.0,Chargers,2013
+99.0,Adrian Robinson,11/21/1989,24.0,6-1,250.0,Temple,LB,2,0.0,1.0,0.0,Chargers,2013
+11.0,Eddie Royal,5/21/1986,27.0,5-10,182.0,Virginia Tech,WR,15,3.0,5.0,6.0,Chargers,2013
+70.0,Stephen Schilling,7/21/1988,25.0,6-4,308.0,Michigan,G,7,0.0,2.0,1.0,Chargers,2013
+5.0,Mike Scifres,10/8/1980,33.0,6-2,215.0,Western Illinois,P,16,0.0,10.0,2.0,Chargers,2013
+69.0,Willie Smith,11/13/1986,27.0,6-6,290.0,East Carolina,T,1,0.0,2.0,0.0,Chargers,2013
+25.0,Darrell Stuckey,6/16/1987,26.0,5-11,212.0,Kansas,DB,16,0.0,3.0,1.0,Chargers,2013
+50.0,Manti Te'o,1/26/1991,22.0,6-1,241.0,Notre Dame,LILB,13,13.0,0.0,5.0,Chargers,2013
+92.0,Cam Thomas,12/12/1986,27.0,6-3,330.0,North Carolina,NT,16,10.0,3.0,5.0,Chargers,2013
+63.0,Johnnie Troutman,11/11/1987,26.0,6-4,325.0,Penn St.,LG,14,9.0,0.0,6.0,Chargers,2013
+52.0,Reggie Walker,12/15/1986,27.0,6-0,238.0,Kansas St.,LB,16,6.0,4.0,3.0,Chargers,2013
+32.0,Eric Weddle,1/4/1985,28.0,5-11,195.0,Utah,FS,16,16.0,6.0,10.0,Chargers,2013
+6.0,Charlie Whitehurst,8/6/1982,31.0,6-4,226.0,Clemson,QB,2,0.0,7.0,0.0,Chargers,2013
+34.0,Fozzy Whittaker,2/2/1989,24.0,5-10,205.0,Texas,RB,3,0.0,0.0,0.0,Chargers,2013
+,Kerwynn Williams,6/9/1991,22.0,5-8,198.0,Utah St.,RB,1,,0.0,0.0,Chargers,2013
+58.0,Tourek Williams,5/9/1991,22.0,6-3,260.0,Florida International,ROLB,13,6.0,0.0,3.0,Chargers,2013
+47.0,Mike Windt,5/29/1986,27.0,6-1,237.0,Cincinnati,LS,16,0.0,3.0,1.0,Chargers,2013
+39.0,Danny Woodhead,1/25/1985,28.0,5-8,204.0,Chadron St.,RB,16,2.0,4.0,9.0,Chargers,2013
+29.0,Shareece Wright,4/8/1987,26.0,5-11,184.0,USC,RCB,13,13.0,2.0,5.0,Chargers,2013
+99.0,Jarius Wynn,8/29/1986,27.0,6-5,273.0,"Georgia Military,Georgia",DE,5,0.0,4.0,0.0,Chargers,2013
+,Team Total,,26.4,6-2.1,249.3,,,16,,3.4,,Chargers,2013

@@ -1,63 +1,63 @@
-,No.,Player,BirthDate,Age,Height,Weight,College/University,Position,Games_Played_in_Season,Games_Started_in_Season,NFL_Years,Player_Value,Team,Year
-0,56.0,Akeem Ayers,7/10/1989,24.0,6-3,255.0,UCLA,LLB,16,14.0,2.0,6.0,Titans,2013
-1,57.0,Patrick Bailey,11/19/1985,28.0,6-4,235.0,Duke,LB,13,0.0,5.0,1.0,Titans,2013
-2,22.0,Jackie Battle,10/1/1983,30.0,6-2,238.0,Houston,RB,16,0.0,6.0,1.0,Titans,2013
-3,2.0,Rob Bironas,1/29/1978,35.0,6-0,205.0,"Georgia Southern,Auburn",K,16,0.0,8.0,3.0,Titans,2013
-4,48.0,Beau Brinkley,1/25/1990,23.0,6-4,260.0,Missouri,TE,16,0.0,1.0,1.0,Titans,2013
-5,18.0,Kenny Britt,9/19/1988,25.0,6-3,230.0,Rutgers,WR,12,3.0,4.0,1.0,Titans,2013
-6,55.0,Zach Brown,10/23/1989,24.0,6-1,250.0,North Carolina,RLB,16,13.0,1.0,7.0,Titans,2013
-7,37.0,Tommie Campbell,9/19/1987,26.0,6-2,207.0,"Pittsburgh,California (PA)",DB,8,0.0,2.0,0.0,Titans,2013
-8,99.0,Jurrell Casey,12/5/1989,24.0,6-1,305.0,USC,RDT,15,14.0,2.0,12.0,Titans,2013
-9,75.0,Keyunta Dawson,9/13/1985,28.0,6-0,268.0,Texas Tech,DE,2,0.0,6.0,0.0,Titans,2013
-10,54.0,Zach Diles,6/11/1985,28.0,6-0,240.0,Kansas St.,LB,2,0.0,6.0,0.0,Titans,2013
-11,98.0,Lavar Edwards,3/29/1990,23.0,6-4,277.0,LSU,DE,7,1.0,0.0,1.0,Titans,2013
-12,4.0,Ryan Fitzpatrick,11/24/1982,31.0,6-2,221.0,Harvard,QB,11,9.0,8.0,9.0,Titans,2013
-13,53.0,Moise Fokou,8/28/1985,28.0,6-1,228.0,Maryland,MLB,12,12.0,4.0,6.0,Titans,2013
-14,50.0,Zaviar Gooden,8/31/1990,23.0,6-2,234.0,Missouri,LB,9,1.0,0.0,1.0,Titans,2013
-15,23.0,Shonn Greene,8/21/1985,28.0,5-10,235.0,Iowa,RB,11,0.0,4.0,2.0,Titans,2013
-16,33.0,Michael Griffin,1/4/1985,28.0,6-0,202.0,Texas,FS,14,14.0,6.0,5.0,Titans,2013
-17,94.0,Sammie Lee Hill,11/8/1986,27.0,6-4,331.0,Stillman,LDT,13,10.0,4.0,5.0,Titans,2013
-18,15.0,Justin Hunter,5/20/1991,22.0,6-4,203.0,Tennessee,WR,14,0.0,0.0,3.0,Titans,2013
-19,90.0,Antonio Johnson,12/8/1984,29.0,6-3,310.0,Mississippi St.,LDT,16,6.0,5.0,4.0,Titans,2013
-20,28.0,Chris Johnson,9/23/1985,28.0,5-11,195.0,East Carolina,RB,16,16.0,5.0,9.0,Titans,2013
-21,45.0,Quinn Johnson,9/30/1986,27.0,6-0,251.0,LSU,RB,4,0.0,4.0,0.0,Titans,2013
-22,6.0,Brett Kern,2/17/1986,27.0,6-2,214.0,Toledo,P,16,0.0,5.0,1.0,Titans,2013
-23,97.0,Karl Klug,3/31/1988,25.0,6-3,278.0,Iowa,DT,16,3.0,2.0,3.0,Titans,2013
-24,67.0,Andy Levitre,5/15/1986,27.0,6-2,303.0,Oregon St.,LG,16,16.0,4.0,8.0,Titans,2013
-25,10.0,Jake Locker,6/15/1988,25.0,6-2,228.0,Washington,QB,7,7.0,2.0,5.0,Titans,2013
-26,41.0,Corey Lynch,5/7/1985,28.0,6-0,205.0,Appalachian St.,DB,3,0.0,5.0,0.0,Titans,2013
-27,93.0,Mike Martin,9/1/1990,23.0,6-1,307.0,Michigan,DT,13,1.0,1.0,2.0,Titans,2013
-28,52.0,Colin McCarthy,7/10/1989,24.0,6-4,235.0,Miami (FL),MLB,16,5.0,2.0,3.0,Titans,2013
-29,30.0,Jason McCourty,8/13/1987,26.0,5-11,195.0,Rutgers,LCB,16,16.0,4.0,6.0,Titans,2013
-30,42.0,Collin Mooney,4/3/1986,27.0,5-10,247.0,Army,RB,12,4.0,1.0,0.0,Titans,2013
-31,91.0,Derrick Morgan,1/6/1989,24.0,6-4,261.0,Georgia Tech,LDE,15,14.0,3.0,7.0,Titans,2013
-32,66.0,Michael Otto,7/24/1983,30.0,6-5,308.0,Purdue,T,15,2.0,5.0,2.0,Titans,2013
-33,32.0,Micah Pellerin,11/23/1988,25.0,6-0,195.0,Hampton,DB,3,0.0,0.0,0.0,Titans,2013
-34,92.0,Ropati Pitoitua,4/6/1985,28.0,6-8,290.0,Washington St.,RDE,16,13.0,4.0,6.0,Titans,2013
-35,31.0,Bernard Pollard,12/23/1984,29.0,6-1,225.0,Purdue,SS,16,16.0,7.0,6.0,Titans,2013
-36,14.0,Michael Preston,6/1/1989,24.0,6-5,206.0,Heidelberg,WR,7,0.0,1.0,0.0,Titans,2013
-37,25.0,Darius Reynaud,12/29/1984,29.0,5-9,201.0,West Virginia,WR,7,0.0,5.0,0.0,Titans,2013
-38,71.0,Michael Roos,10/5/1982,31.0,6-7,313.0,Eastern Washington,LT,16,16.0,8.0,8.0,Titans,2013
-39,35.0,Shann Schillinger,5/22/1986,27.0,6-1,199.0,Montana,DB,1,0.0,3.0,0.0,Titans,2013
-40,62.0,Brian Schwenke,3/22/1991,22.0,6-3,310.0,California,C,9,9.0,0.0,5.0,Titans,2013
-41,24.0,Coty Sensabaugh,11/15/1988,25.0,5-11,187.0,Clemson,DB,14,3.0,1.0,2.0,Titans,2013
-42,80.0,Visanthe Shiancoe,6/18/1980,33.0,6-4,250.0,Morgan St.,TE,1,1.0,10.0,0.0,Titans,2013
-43,60.0,Chris Spencer,3/28/1982,31.0,6-3,308.0,Mississippi,C,16,1.0,8.0,2.0,Titans,2013
-44,39.0,Daimion Stafford,2/18/1991,22.0,6-0,221.0,Nebraska,DB,16,0.0,0.0,1.0,Titans,2013
-45,88.0,Craig Stevens,9/1/1984,29.0,6-3,255.0,California,TE,15,14.0,5.0,0.0,Titans,2013
-46,76.0,David Stewart,8/28/1982,31.0,6-7,313.0,Mississippi St.,RT,12,12.0,7.0,6.0,Titans,2013
-47,68.0,Byron Stingily,9/9/1988,25.0,6-5,313.0,Louisville,T,5,2.0,1.0,1.0,Titans,2013
-48,84.0,Taylor Thompson,10/19/1989,24.0,6-6,259.0,SMU,TE,16,3.0,1.0,0.0,Titans,2013
-49,59.0,Robert Turner,8/20/1984,29.0,6-4,308.0,New Mexico,C,6,6.0,6.0,3.0,Titans,2013
-50,20.0,Alterraun Verner,12/13/1988,25.0,5-10,187.0,UCLA,RCB,16,16.0,3.0,13.0,Titans,2013
-51,82.0,Delanie Walker,8/12/1984,29.0,6-2,248.0,Central Missouri St.,TE,15,11.0,7.0,5.0,Titans,2013
-52,70.0,Chance Warmack,9/14/1991,22.0,6-2,323.0,Alabama,RG,16,16.0,0.0,8.0,Titans,2013
-53,26.0,Leon Washington,8/29/1982,31.0,5-8,192.0,Florida St.,RB,5,0.0,7.0,0.0,Titans,2013
-54,85.0,Nate Washington,8/28/1983,30.0,6-1,183.0,Tiffin,WR,16,15.0,8.0,8.0,Titans,2013
-55,17.0,Damian Williams,5/26/1988,25.0,6-1,190.0,USC,WR,10,1.0,3.0,2.0,Titans,2013
-56,21.0,George Wilson,3/14/1981,32.0,6-0,210.0,Arkansas,WR,16,3.0,8.0,2.0,Titans,2013
-57,95.0,Kamerion Wimbley,10/13/1983,30.0,6-4,258.0,Florida St.,DE,16,1.0,7.0,2.0,Titans,2013
-58,29.0,Blidi Wreh-Wilson,12/5/1989,24.0,6-1,190.0,Connecticut,DB,13,0.0,0.0,1.0,Titans,2013
-59,13.0,Kendall Wright,11/12/1989,24.0,5-10,185.0,Baylor,WR,16,12.0,1.0,9.0,Titans,2013
-60,19.0,Devon Wylie,9/2/1988,25.0,5-9,187.0,Fresno St.,WR,2,0.0,1.0,0.0,Titans,2013
-61,,Team Total,,26.8,6-1.8,243.7,,,16,,3.8,,Titans,2013
+No.,Player,BirthDate,Age,Height,Weight,College/University,Position,Games_Played_in_Season,Games_Started_in_Season,NFL_Years,Player_Value,Team,Year
+56.0,Akeem Ayers,7/10/1989,24.0,6-3,255.0,UCLA,LLB,16,14.0,2.0,6.0,Titans,2013
+57.0,Patrick Bailey,11/19/1985,28.0,6-4,235.0,Duke,LB,13,0.0,5.0,1.0,Titans,2013
+22.0,Jackie Battle,10/1/1983,30.0,6-2,238.0,Houston,RB,16,0.0,6.0,1.0,Titans,2013
+2.0,Rob Bironas,1/29/1978,35.0,6-0,205.0,"Georgia Southern,Auburn",K,16,0.0,8.0,3.0,Titans,2013
+48.0,Beau Brinkley,1/25/1990,23.0,6-4,260.0,Missouri,TE,16,0.0,1.0,1.0,Titans,2013
+18.0,Kenny Britt,9/19/1988,25.0,6-3,230.0,Rutgers,WR,12,3.0,4.0,1.0,Titans,2013
+55.0,Zach Brown,10/23/1989,24.0,6-1,250.0,North Carolina,RLB,16,13.0,1.0,7.0,Titans,2013
+37.0,Tommie Campbell,9/19/1987,26.0,6-2,207.0,"Pittsburgh,California (PA)",DB,8,0.0,2.0,0.0,Titans,2013
+99.0,Jurrell Casey,12/5/1989,24.0,6-1,305.0,USC,RDT,15,14.0,2.0,12.0,Titans,2013
+75.0,Keyunta Dawson,9/13/1985,28.0,6-0,268.0,Texas Tech,DE,2,0.0,6.0,0.0,Titans,2013
+54.0,Zach Diles,6/11/1985,28.0,6-0,240.0,Kansas St.,LB,2,0.0,6.0,0.0,Titans,2013
+98.0,Lavar Edwards,3/29/1990,23.0,6-4,277.0,LSU,DE,7,1.0,0.0,1.0,Titans,2013
+4.0,Ryan Fitzpatrick,11/24/1982,31.0,6-2,221.0,Harvard,QB,11,9.0,8.0,9.0,Titans,2013
+53.0,Moise Fokou,8/28/1985,28.0,6-1,228.0,Maryland,MLB,12,12.0,4.0,6.0,Titans,2013
+50.0,Zaviar Gooden,8/31/1990,23.0,6-2,234.0,Missouri,LB,9,1.0,0.0,1.0,Titans,2013
+23.0,Shonn Greene,8/21/1985,28.0,5-10,235.0,Iowa,RB,11,0.0,4.0,2.0,Titans,2013
+33.0,Michael Griffin,1/4/1985,28.0,6-0,202.0,Texas,FS,14,14.0,6.0,5.0,Titans,2013
+94.0,Sammie Lee Hill,11/8/1986,27.0,6-4,331.0,Stillman,LDT,13,10.0,4.0,5.0,Titans,2013
+15.0,Justin Hunter,5/20/1991,22.0,6-4,203.0,Tennessee,WR,14,0.0,0.0,3.0,Titans,2013
+90.0,Antonio Johnson,12/8/1984,29.0,6-3,310.0,Mississippi St.,LDT,16,6.0,5.0,4.0,Titans,2013
+28.0,Chris Johnson,9/23/1985,28.0,5-11,195.0,East Carolina,RB,16,16.0,5.0,9.0,Titans,2013
+45.0,Quinn Johnson,9/30/1986,27.0,6-0,251.0,LSU,RB,4,0.0,4.0,0.0,Titans,2013
+6.0,Brett Kern,2/17/1986,27.0,6-2,214.0,Toledo,P,16,0.0,5.0,1.0,Titans,2013
+97.0,Karl Klug,3/31/1988,25.0,6-3,278.0,Iowa,DT,16,3.0,2.0,3.0,Titans,2013
+67.0,Andy Levitre,5/15/1986,27.0,6-2,303.0,Oregon St.,LG,16,16.0,4.0,8.0,Titans,2013
+10.0,Jake Locker,6/15/1988,25.0,6-2,228.0,Washington,QB,7,7.0,2.0,5.0,Titans,2013
+41.0,Corey Lynch,5/7/1985,28.0,6-0,205.0,Appalachian St.,DB,3,0.0,5.0,0.0,Titans,2013
+93.0,Mike Martin,9/1/1990,23.0,6-1,307.0,Michigan,DT,13,1.0,1.0,2.0,Titans,2013
+52.0,Colin McCarthy,7/10/1989,24.0,6-4,235.0,Miami (FL),MLB,16,5.0,2.0,3.0,Titans,2013
+30.0,Jason McCourty,8/13/1987,26.0,5-11,195.0,Rutgers,LCB,16,16.0,4.0,6.0,Titans,2013
+42.0,Collin Mooney,4/3/1986,27.0,5-10,247.0,Army,RB,12,4.0,1.0,0.0,Titans,2013
+91.0,Derrick Morgan,1/6/1989,24.0,6-4,261.0,Georgia Tech,LDE,15,14.0,3.0,7.0,Titans,2013
+66.0,Michael Otto,7/24/1983,30.0,6-5,308.0,Purdue,T,15,2.0,5.0,2.0,Titans,2013
+32.0,Micah Pellerin,11/23/1988,25.0,6-0,195.0,Hampton,DB,3,0.0,0.0,0.0,Titans,2013
+92.0,Ropati Pitoitua,4/6/1985,28.0,6-8,290.0,Washington St.,RDE,16,13.0,4.0,6.0,Titans,2013
+31.0,Bernard Pollard,12/23/1984,29.0,6-1,225.0,Purdue,SS,16,16.0,7.0,6.0,Titans,2013
+14.0,Michael Preston,6/1/1989,24.0,6-5,206.0,Heidelberg,WR,7,0.0,1.0,0.0,Titans,2013
+25.0,Darius Reynaud,12/29/1984,29.0,5-9,201.0,West Virginia,WR,7,0.0,5.0,0.0,Titans,2013
+71.0,Michael Roos,10/5/1982,31.0,6-7,313.0,Eastern Washington,LT,16,16.0,8.0,8.0,Titans,2013
+35.0,Shann Schillinger,5/22/1986,27.0,6-1,199.0,Montana,DB,1,0.0,3.0,0.0,Titans,2013
+62.0,Brian Schwenke,3/22/1991,22.0,6-3,310.0,California,C,9,9.0,0.0,5.0,Titans,2013
+24.0,Coty Sensabaugh,11/15/1988,25.0,5-11,187.0,Clemson,DB,14,3.0,1.0,2.0,Titans,2013
+80.0,Visanthe Shiancoe,6/18/1980,33.0,6-4,250.0,Morgan St.,TE,1,1.0,10.0,0.0,Titans,2013
+60.0,Chris Spencer,3/28/1982,31.0,6-3,308.0,Mississippi,C,16,1.0,8.0,2.0,Titans,2013
+39.0,Daimion Stafford,2/18/1991,22.0,6-0,221.0,Nebraska,DB,16,0.0,0.0,1.0,Titans,2013
+88.0,Craig Stevens,9/1/1984,29.0,6-3,255.0,California,TE,15,14.0,5.0,0.0,Titans,2013
+76.0,David Stewart,8/28/1982,31.0,6-7,313.0,Mississippi St.,RT,12,12.0,7.0,6.0,Titans,2013
+68.0,Byron Stingily,9/9/1988,25.0,6-5,313.0,Louisville,T,5,2.0,1.0,1.0,Titans,2013
+84.0,Taylor Thompson,10/19/1989,24.0,6-6,259.0,SMU,TE,16,3.0,1.0,0.0,Titans,2013
+59.0,Robert Turner,8/20/1984,29.0,6-4,308.0,New Mexico,C,6,6.0,6.0,3.0,Titans,2013
+20.0,Alterraun Verner,12/13/1988,25.0,5-10,187.0,UCLA,RCB,16,16.0,3.0,13.0,Titans,2013
+82.0,Delanie Walker,8/12/1984,29.0,6-2,248.0,Central Missouri St.,TE,15,11.0,7.0,5.0,Titans,2013
+70.0,Chance Warmack,9/14/1991,22.0,6-2,323.0,Alabama,RG,16,16.0,0.0,8.0,Titans,2013
+26.0,Leon Washington,8/29/1982,31.0,5-8,192.0,Florida St.,RB,5,0.0,7.0,0.0,Titans,2013
+85.0,Nate Washington,8/28/1983,30.0,6-1,183.0,Tiffin,WR,16,15.0,8.0,8.0,Titans,2013
+17.0,Damian Williams,5/26/1988,25.0,6-1,190.0,USC,WR,10,1.0,3.0,2.0,Titans,2013
+21.0,George Wilson,3/14/1981,32.0,6-0,210.0,Arkansas,WR,16,3.0,8.0,2.0,Titans,2013
+95.0,Kamerion Wimbley,10/13/1983,30.0,6-4,258.0,Florida St.,DE,16,1.0,7.0,2.0,Titans,2013
+29.0,Blidi Wreh-Wilson,12/5/1989,24.0,6-1,190.0,Connecticut,DB,13,0.0,0.0,1.0,Titans,2013
+13.0,Kendall Wright,11/12/1989,24.0,5-10,185.0,Baylor,WR,16,12.0,1.0,9.0,Titans,2013
+19.0,Devon Wylie,9/2/1988,25.0,5-9,187.0,Fresno St.,WR,2,0.0,1.0,0.0,Titans,2013
+,Team Total,,26.8,6-1.8,243.7,,,16,,3.8,,Titans,2013

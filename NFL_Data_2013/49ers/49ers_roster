@@ -1,61 +1,61 @@
-,No.,Player,BirthDate,Age,Height,Weight,College/University,Position,Games_Played_in_Season,Games_Started_in_Season,NFL_Years,Player_Value,Team,Year
-0,28.0,Nnamdi Asomugha,7/6/1981,32.0,6-2,210.0,California,DB,3,1.0,10.0,0.0,49ers,2013
-1,84.0,Jonathan Baldwin,8/10/1989,24.0,6-4,225.0,Pittsburgh,WR,7,1.0,2.0,0.0,49ers,2013
-2,81.0,Anquan Boldin,10/3/1980,33.0,6-1,220.0,Florida St.,WR,16,16.0,10.0,12.0,49ers,2013
-3,75.0,Alex Boone,5/4/1987,26.0,6-7,330.0,Ohio St.,RG,16,16.0,3.0,8.0,49ers,2013
-4,53.0,NaVorro Bowman,5/28/1988,25.0,6-1,230.0,Penn St.,LILB,16,16.0,3.0,19.0,49ers,2013
-5,26.0,Tramaine Brock,8/20/1988,25.0,6-0,188.0,"Mississippi Gulf Coast CC,Minnesota,Belhaven",RCB,16,7.0,3.0,4.0,49ers,2013
-6,55.0,Ahmad Brooks,3/14/1984,29.0,6-3,259.0,Virginia,LOLB,16,16.0,7.0,14.0,49ers,2013
-7,25.0,Tarell Brown,1/6/1985,28.0,5-11,190.0,Texas,RCB,13,10.0,6.0,4.0,49ers,2013
-8,46.0,Derek Carrier,7/25/1990,23.0,6-3,240.0,Beloit,TE,5,0.0,0.0,0.0,49ers,2013
-9,88.0,Garrett Celek,5/29/1988,25.0,6-5,252.0,Michigan St.,TE,12,1.0,1.0,0.0,49ers,2013
-10,20.0,Perrish Cox,1/10/1987,26.0,5-11,189.0,Oklahoma St.,DB,9,0.0,3.0,0.0,49ers,2013
-11,15.0,Michael Crabtree,9/14/1987,26.0,6-1,215.0,Texas Tech,WR,5,5.0,4.0,3.0,49ers,2013
-12,43.0,Craig Dahl,6/17/1985,28.0,6-1,207.0,North Dakota St.,DB,16,0.0,6.0,1.0,49ers,2013
-13,76.0,Anthony Davis,10/11/1989,24.0,6-5,323.0,Rutgers,RT,16,16.0,3.0,8.0,49ers,2013
-14,85.0,Vernon Davis,1/31/1984,29.0,6-3,248.0,Maryland,TE,15,15.0,7.0,9.0,49ers,2013
-15,9.0,Phil Dawson,1/23/1975,38.0,5-11,200.0,Texas,K,16,0.0,14.0,4.0,49ers,2013
-16,71.0,Quinton Dial,7/21/1990,23.0,6-5,318.0,"East Mississippi CC,Alabama",DE,3,0.0,0.0,0.0,49ers,2013
-17,24.0,Anthony Dixon,9/24/1987,26.0,6-1,239.0,Mississippi St.,RB,16,1.0,3.0,1.0,49ers,2013
-18,83.0,Demarcus Dobbs,11/30/1987,26.0,6-6,275.0,Georgia,DE,15,0.0,2.0,1.0,49ers,2013
-19,90.0,Glenn Dorsey,8/1/1985,28.0,6-2,316.0,LSU,NT,16,13.0,5.0,7.0,49ers,2013
-20,59.0,Jonathan Goodwin,12/2/1978,35.0,6-3,318.0,"Ohio,Michigan",C,16,16.0,11.0,8.0,49ers,2013
-21,21.0,Frank Gore,5/14/1983,30.0,5-9,212.0,Miami (FL),RB,16,16.0,8.0,9.0,49ers,2013
-22,32.0,Kendall Hunter,9/16/1988,25.0,5-7,199.0,Oklahoma St.,RB,16,0.0,2.0,3.0,49ers,2013
-23,77.0,Mike Iupati,5/12/1987,26.0,6-5,331.0,Idaho,LG,12,12.0,3.0,8.0,49ers,2013
-24,23.0,LaMichael James,10/22/1989,24.0,5-8,190.0,Oregon,RB,10,0.0,1.0,1.0,49ers,2013
-25,63.0,Tony Jerod-Eddie,3/29/1990,23.0,6-4,303.0,Texas A&M,DE,15,2.0,1.0,3.0,49ers,2013
-26,7.0,Colin Kaepernick,11/3/1987,26.0,6-4,225.0,Nevada,QB,16,16.0,2.0,15.0,49ers,2013
-27,67.0,Daniel Kilgore,12/18/1987,26.0,6-3,291.0,Appalachian St.,C,16,0.0,2.0,1.0,49ers,2013
-28,4.0,Andy Lee,8/11/1982,31.0,6-1,185.0,Pittsburgh,P,16,0.0,9.0,3.0,49ers,2013
-29,96.0,Corey Lemonier,11/19/1991,22.0,6-4,255.0,Auburn,DE,16,0.0,0.0,1.0,49ers,2013
-30,78.0,Joe Looney,8/31/1990,23.0,6-3,315.0,Wake Forest,C,4,0.0,0.0,0.0,49ers,2013
-31,82.0,Mario Manningham,5/25/1986,27.0,6-0,185.0,Michigan,WR,6,3.0,5.0,1.0,49ers,2013
-32,2.0,Colt McCoy,9/5/1986,27.0,6-1,212.0,Texas,QB,4,0.0,3.0,0.0,49ers,2013
-33,47.0,Kevin McDermott,1/12/1990,23.0,6-5,240.0,UCLA,LS,16,0.0,0.0,1.0,49ers,2013
-34,91.0,Ray McDonald,9/20/1984,29.0,6-4,276.0,Florida,LDE,14,14.0,6.0,7.0,49ers,2013
-35,89.0,Vance McDonald,6/13/1990,23.0,6-4,267.0,Rice,TE,15,4.0,0.0,1.0,49ers,2013
-36,49.0,Bruce Miller,8/6/1987,26.0,6-1,254.0,Central Florida,RB,14,13.0,2.0,3.0,49ers,2013
-37,54.0,Nick Moody,1/29/1990,23.0,6-1,245.0,Florida St.,LB,4,0.0,0.0,0.0,49ers,2013
-38,19.0,Marlon Moore,9/3/1987,26.0,6-0,190.0,Fresno St.,WR,6,0.0,3.0,0.0,49ers,2013
-39,40.0,Darryl Morris,9/4/1990,23.0,5-10,188.0,Texas St.,DB,13,0.0,0.0,1.0,49ers,2013
-40,14.0,Kassim Osgood,5/20/1980,33.0,6-5,220.0,San Diego St.,WR,14,0.0,10.0,0.0,49ers,2013
-41,11.0,Quinton Patton,8/9/1990,23.0,6-0,204.0,Louisiana Tech,WR,6,0.0,0.0,1.0,49ers,2013
-42,35.0,Eric Reid,12/10/1991,22.0,6-1,215.0,LSU,FS,16,16.0,0.0,8.0,49ers,2013
-43,22.0,Carlos Rogers,7/2/1981,32.0,6-0,195.0,Auburn,LCB,16,16.0,8.0,5.0,49ers,2013
-44,51.0,Dan Skuta,4/21/1986,27.0,6-2,251.0,Grand Valley St.,ROLB,16,8.0,4.0,5.0,49ers,2013
-45,99.0,Aldon Smith,9/25/1989,24.0,6-5,255.0,Missouri,ROLB,11,8.0,2.0,5.0,49ers,2013
-46,94.0,Justin Smith,9/30/1979,34.0,6-4,285.0,Missouri,RDE,16,16.0,12.0,14.0,49ers,2013
-47,68.0,Adam Snyder,1/30/1982,31.0,6-6,325.0,Oregon,G,16,4.0,8.0,3.0,49ers,2013
-48,27.0,C.J. Spillman,5/6/1986,27.0,6-0,192.0,Marshall,DB,16,0.0,4.0,1.0,49ers,2013
-49,74.0,Joe Staley,8/30/1984,29.0,6-5,295.0,Central Michigan,LT,16,16.0,6.0,13.0,49ers,2013
-50,56.0,Nathan Stupar,3/14/1988,25.0,6-2,240.0,Penn St.,LB,5,0.0,0.0,0.0,49ers,2013
-51,48.0,Will Tukuafu,1/3/1984,29.0,6-4,272.0,Oregon,FB,2,0.0,2.0,0.0,49ers,2013
-52,41.0,Raymond Ventrone,10/21/1982,31.0,5-10,200.0,Villanova,DB,16,0.0,6.0,1.0,49ers,2013
-53,31.0,Donte Whitner,7/24/1985,28.0,5-10,208.0,Ohio St.,SS,16,16.0,7.0,6.0,49ers,2013
-54,57.0,Michael Wilhoite,12/7/1986,27.0,6-0,245.0,Washburn,LB,16,2.0,1.0,3.0,49ers,2013
-55,93.0,Ian Williams,8/31/1989,24.0,6-1,305.0,Notre Dame,DT,2,1.0,2.0,1.0,49ers,2013
-56,10.0,Kyle Williams,7/19/1988,25.0,5-10,185.0,Arizona St.,WR,9,5.0,3.0,1.0,49ers,2013
-57,52.0,Patrick Willis,1/25/1985,28.0,6-1,242.0,Mississippi,RILB,14,14.0,6.0,10.0,49ers,2013
-58,30.0,Eric Wright,7/24/1985,28.0,5-11,192.0,UNLV,DB,7,0.0,6.0,1.0,49ers,2013
-59,,Team Total,,26.9,6-1.8,242.1,,,16,,4.0,,49ers,2013
+No.,Player,BirthDate,Age,Height,Weight,College/University,Position,Games_Played_in_Season,Games_Started_in_Season,NFL_Years,Player_Value,Team,Year
+28.0,Nnamdi Asomugha,7/6/1981,32.0,6-2,210.0,California,DB,3,1.0,10.0,0.0,49ers,2013
+84.0,Jonathan Baldwin,8/10/1989,24.0,6-4,225.0,Pittsburgh,WR,7,1.0,2.0,0.0,49ers,2013
+81.0,Anquan Boldin,10/3/1980,33.0,6-1,220.0,Florida St.,WR,16,16.0,10.0,12.0,49ers,2013
+75.0,Alex Boone,5/4/1987,26.0,6-7,330.0,Ohio St.,RG,16,16.0,3.0,8.0,49ers,2013
+53.0,NaVorro Bowman,5/28/1988,25.0,6-1,230.0,Penn St.,LILB,16,16.0,3.0,19.0,49ers,2013
+26.0,Tramaine Brock,8/20/1988,25.0,6-0,188.0,"Mississippi Gulf Coast CC,Minnesota,Belhaven",RCB,16,7.0,3.0,4.0,49ers,2013
+55.0,Ahmad Brooks,3/14/1984,29.0,6-3,259.0,Virginia,LOLB,16,16.0,7.0,14.0,49ers,2013
+25.0,Tarell Brown,1/6/1985,28.0,5-11,190.0,Texas,RCB,13,10.0,6.0,4.0,49ers,2013
+46.0,Derek Carrier,7/25/1990,23.0,6-3,240.0,Beloit,TE,5,0.0,0.0,0.0,49ers,2013
+88.0,Garrett Celek,5/29/1988,25.0,6-5,252.0,Michigan St.,TE,12,1.0,1.0,0.0,49ers,2013
+20.0,Perrish Cox,1/10/1987,26.0,5-11,189.0,Oklahoma St.,DB,9,0.0,3.0,0.0,49ers,2013
+15.0,Michael Crabtree,9/14/1987,26.0,6-1,215.0,Texas Tech,WR,5,5.0,4.0,3.0,49ers,2013
+43.0,Craig Dahl,6/17/1985,28.0,6-1,207.0,North Dakota St.,DB,16,0.0,6.0,1.0,49ers,2013
+76.0,Anthony Davis,10/11/1989,24.0,6-5,323.0,Rutgers,RT,16,16.0,3.0,8.0,49ers,2013
+85.0,Vernon Davis,1/31/1984,29.0,6-3,248.0,Maryland,TE,15,15.0,7.0,9.0,49ers,2013
+9.0,Phil Dawson,1/23/1975,38.0,5-11,200.0,Texas,K,16,0.0,14.0,4.0,49ers,2013
+71.0,Quinton Dial,7/21/1990,23.0,6-5,318.0,"East Mississippi CC,Alabama",DE,3,0.0,0.0,0.0,49ers,2013
+24.0,Anthony Dixon,9/24/1987,26.0,6-1,239.0,Mississippi St.,RB,16,1.0,3.0,1.0,49ers,2013
+83.0,Demarcus Dobbs,11/30/1987,26.0,6-6,275.0,Georgia,DE,15,0.0,2.0,1.0,49ers,2013
+90.0,Glenn Dorsey,8/1/1985,28.0,6-2,316.0,LSU,NT,16,13.0,5.0,7.0,49ers,2013
+59.0,Jonathan Goodwin,12/2/1978,35.0,6-3,318.0,"Ohio,Michigan",C,16,16.0,11.0,8.0,49ers,2013
+21.0,Frank Gore,5/14/1983,30.0,5-9,212.0,Miami (FL),RB,16,16.0,8.0,9.0,49ers,2013
+32.0,Kendall Hunter,9/16/1988,25.0,5-7,199.0,Oklahoma St.,RB,16,0.0,2.0,3.0,49ers,2013
+77.0,Mike Iupati,5/12/1987,26.0,6-5,331.0,Idaho,LG,12,12.0,3.0,8.0,49ers,2013
+23.0,LaMichael James,10/22/1989,24.0,5-8,190.0,Oregon,RB,10,0.0,1.0,1.0,49ers,2013
+63.0,Tony Jerod-Eddie,3/29/1990,23.0,6-4,303.0,Texas A&M,DE,15,2.0,1.0,3.0,49ers,2013
+7.0,Colin Kaepernick,11/3/1987,26.0,6-4,225.0,Nevada,QB,16,16.0,2.0,15.0,49ers,2013
+67.0,Daniel Kilgore,12/18/1987,26.0,6-3,291.0,Appalachian St.,C,16,0.0,2.0,1.0,49ers,2013
+4.0,Andy Lee,8/11/1982,31.0,6-1,185.0,Pittsburgh,P,16,0.0,9.0,3.0,49ers,2013
+96.0,Corey Lemonier,11/19/1991,22.0,6-4,255.0,Auburn,DE,16,0.0,0.0,1.0,49ers,2013
+78.0,Joe Looney,8/31/1990,23.0,6-3,315.0,Wake Forest,C,4,0.0,0.0,0.0,49ers,2013
+82.0,Mario Manningham,5/25/1986,27.0,6-0,185.0,Michigan,WR,6,3.0,5.0,1.0,49ers,2013
+2.0,Colt McCoy,9/5/1986,27.0,6-1,212.0,Texas,QB,4,0.0,3.0,0.0,49ers,2013
+47.0,Kevin McDermott,1/12/1990,23.0,6-5,240.0,UCLA,LS,16,0.0,0.0,1.0,49ers,2013
+91.0,Ray McDonald,9/20/1984,29.0,6-4,276.0,Florida,LDE,14,14.0,6.0,7.0,49ers,2013
+89.0,Vance McDonald,6/13/1990,23.0,6-4,267.0,Rice,TE,15,4.0,0.0,1.0,49ers,2013
+49.0,Bruce Miller,8/6/1987,26.0,6-1,254.0,Central Florida,RB,14,13.0,2.0,3.0,49ers,2013
+54.0,Nick Moody,1/29/1990,23.0,6-1,245.0,Florida St.,LB,4,0.0,0.0,0.0,49ers,2013
+19.0,Marlon Moore,9/3/1987,26.0,6-0,190.0,Fresno St.,WR,6,0.0,3.0,0.0,49ers,2013
+40.0,Darryl Morris,9/4/1990,23.0,5-10,188.0,Texas St.,DB,13,0.0,0.0,1.0,49ers,2013
+14.0,Kassim Osgood,5/20/1980,33.0,6-5,220.0,San Diego St.,WR,14,0.0,10.0,0.0,49ers,2013
+11.0,Quinton Patton,8/9/1990,23.0,6-0,204.0,Louisiana Tech,WR,6,0.0,0.0,1.0,49ers,2013
+35.0,Eric Reid,12/10/1991,22.0,6-1,215.0,LSU,FS,16,16.0,0.0,8.0,49ers,2013
+22.0,Carlos Rogers,7/2/1981,32.0,6-0,195.0,Auburn,LCB,16,16.0,8.0,5.0,49ers,2013
+51.0,Dan Skuta,4/21/1986,27.0,6-2,251.0,Grand Valley St.,ROLB,16,8.0,4.0,5.0,49ers,2013
+99.0,Aldon Smith,9/25/1989,24.0,6-5,255.0,Missouri,ROLB,11,8.0,2.0,5.0,49ers,2013
+94.0,Justin Smith,9/30/1979,34.0,6-4,285.0,Missouri,RDE,16,16.0,12.0,14.0,49ers,2013
+68.0,Adam Snyder,1/30/1982,31.0,6-6,325.0,Oregon,G,16,4.0,8.0,3.0,49ers,2013
+27.0,C.J. Spillman,5/6/1986,27.0,6-0,192.0,Marshall,DB,16,0.0,4.0,1.0,49ers,2013
+74.0,Joe Staley,8/30/1984,29.0,6-5,295.0,Central Michigan,LT,16,16.0,6.0,13.0,49ers,2013
+56.0,Nathan Stupar,3/14/1988,25.0,6-2,240.0,Penn St.,LB,5,0.0,0.0,0.0,49ers,2013
+48.0,Will Tukuafu,1/3/1984,29.0,6-4,272.0,Oregon,FB,2,0.0,2.0,0.0,49ers,2013
+41.0,Raymond Ventrone,10/21/1982,31.0,5-10,200.0,Villanova,DB,16,0.0,6.0,1.0,49ers,2013
+31.0,Donte Whitner,7/24/1985,28.0,5-10,208.0,Ohio St.,SS,16,16.0,7.0,6.0,49ers,2013
+57.0,Michael Wilhoite,12/7/1986,27.0,6-0,245.0,Washburn,LB,16,2.0,1.0,3.0,49ers,2013
+93.0,Ian Williams,8/31/1989,24.0,6-1,305.0,Notre Dame,DT,2,1.0,2.0,1.0,49ers,2013
+10.0,Kyle Williams,7/19/1988,25.0,5-10,185.0,Arizona St.,WR,9,5.0,3.0,1.0,49ers,2013
+52.0,Patrick Willis,1/25/1985,28.0,6-1,242.0,Mississippi,RILB,14,14.0,6.0,10.0,49ers,2013
+30.0,Eric Wright,7/24/1985,28.0,5-11,192.0,UNLV,DB,7,0.0,6.0,1.0,49ers,2013
+,Team Total,,26.9,6-1.8,242.1,,,16,,4.0,,49ers,2013

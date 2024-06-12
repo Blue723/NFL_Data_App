@@ -1,66 +1,66 @@
-,No.,Player,BirthDate,Age,Height,Weight,College/University,Position,Games_Played_in_Season,Games_Started_in_Season,NFL_Years,Player_Value,Team,Year
-0,37.0,Josh Aubrey,4/9/1991,22.0,5-10,200.0,S.F. Austin,DB,6,0.0,0.0,1.0,Browns,2013
-1,24.0,Johnson Bademosi,7/23/1990,23.0,6-0,219.0,Stanford,DB,16,0.0,1.0,1.0,Browns,2013
-2,27.0,Edwin Baker,6/1/1991,22.0,5-8,204.0,Michigan St.,RB,3,2.0,0.0,1.0,Browns,2013
-3,82.0,Gary Barnidge,9/22/1985,28.0,6-6,250.0,Louisville,TE,16,12.0,5.0,1.0,Browns,2013
-4,80.0,Travis Benjamin,12/29/1989,24.0,5-10,175.0,Miami (FL),WR,8,3.0,1.0,2.0,Browns,2013
-5,15.0,Davone Bess,9/13/1985,28.0,5-10,190.0,Hawaii,WR,14,3.0,5.0,2.0,Browns,2013
-6,95.0,Armonty Bryant,5/20/1990,23.0,6-4,265.0,East Central (OK),DE,12,0.0,0.0,1.0,Browns,2013
-7,92.0,Desmond Bryant,12/15/1985,28.0,6-5,290.0,Harvard,RDE,12,12.0,4.0,5.0,Browns,2013
-8,79.0,Rashad Butler,2/10/1983,30.0,6-4,317.0,Miami (FL),T,9,0.0,6.0,1.0,Browns,2013
-9,84.0,Jordan Cameron,8/7/1988,25.0,6-5,265.0,USC,TE,15,14.0,2.0,5.0,Browns,2013
-10,17.0,Jason Campbell,12/31/1981,32.0,6-5,235.0,Auburn,QB,9,8.0,7.0,4.0,Browns,2013
-11,59.0,Tank Carder,1/18/1989,24.0,6-2,235.0,TCU,LB,15,1.0,1.0,1.0,Browns,2013
-12,88.0,Josh Cooper,1/8/1989,24.0,5-10,190.0,Oklahoma St.,WR,5,0.0,1.0,0.0,Browns,2013
-13,75.0,Oniel Cousins,6/29/1984,29.0,6-4,315.0,Texas-El Paso,T,16,4.0,5.0,2.0,Browns,2013
-14,8.0,Billy Cundiff,3/30/1980,33.0,6-1,212.0,Drake,K,16,0.0,11.0,2.0,Browns,2013
-15,10.0,Armanti Edwards,3/8/1988,25.0,5-11,191.0,Appalachian St.,QB,2,0.0,3.0,0.0,Browns,2013
-16,50.0,Darius Eubanks,7/12/1991,22.0,6-2,222.0,Georgia Southern,DB,9,1.0,0.0,1.0,Browns,2013
-17,65.0,Garrett Gilkey,7/8/1990,23.0,6-6,318.0,Chadron St.,T,6,1.0,0.0,1.0,Browns,2013
-18,39.0,Tashaun Gipson,8/7/1990,23.0,6-1,212.0,Wyoming,FS,16,15.0,1.0,7.0,Browns,2013
-19,12.0,Josh Gordon,4/13/1991,22.0,6-3,225.0,"Utah,Baylor",WR,14,14.0,1.0,10.0,Browns,2013
-20,47.0,MarQueis Gray,11/7/1989,24.0,6-4,263.0,Minnesota,TE,12,2.0,0.0,0.0,Browns,2013
-21,77.0,John Greco,3/24/1985,28.0,6-4,318.0,Toledo,LG,14,14.0,5.0,5.0,Browns,2013
-22,54.0,Quentin Groves,7/5/1984,29.0,6-3,250.0,Auburn,LB,5,0.0,5.0,0.0,Browns,2013
-23,81.0,Tori Gurley,11/22/1987,26.0,6-4,216.0,South Carolina,WR,3,0.0,0.0,0.0,Browns,2013
-24,23.0,Joe Haden,4/14/1989,24.0,5-11,195.0,Florida,LCB,15,15.0,3.0,12.0,Browns,2013
-25,96.0,Paul Hazel,5/9/1990,23.0,6-5,227.0,Western Michigan,DE,13,0.0,0.0,1.0,Browns,2013
-26,6.0,Brian Hoyer,10/13/1985,28.0,6-2,215.0,Michigan St.,QB,3,3.0,4.0,1.0,Browns,2013
-27,93.0,John Hughes,4/27/1988,25.0,6-2,320.0,Cincinnati,DT,15,2.0,1.0,2.0,Browns,2013
-28,52.0,D'Qwell Jackson,9/26/1983,30.0,6-0,242.0,Maryland,RILB,16,16.0,7.0,7.0,Browns,2013
-29,67.0,Ishmaa'ily Kitchen,6/24/1988,25.0,6-1,334.0,Kent St.,DT,13,0.0,1.0,1.0,Browns,2013
-30,99.0,Paul Kruger,2/15/1986,27.0,6-4,285.0,Utah,LOLB,16,16.0,4.0,6.0,Browns,2013
-31,5.0,Spencer Lanning,5/21/1988,25.0,5-11,200.0,South Carolina,P,16,0.0,0.0,1.0,Browns,2013
-32,66.0,Shawn Lauvao,10/26/1987,26.0,6-3,308.0,Arizona St.,RG,11,11.0,3.0,4.0,Browns,2013
-33,18.0,Greg Little,5/30/1989,24.0,6-2,220.0,North Carolina,WR,16,13.0,2.0,3.0,Browns,2013
-34,55.0,Alex Mack,11/19/1985,28.0,6-4,311.0,California,C,16,16.0,4.0,9.0,Browns,2013
-35,58.0,Brandon Magee,10/22/1990,23.0,5-11,223.0,Arizona St.,LB,8,0.0,0.0,1.0,Browns,2013
-36,56.0,Eric Martin,7/21/1991,22.0,6-2,250.0,Nebraska,LB,16,0.0,0.0,1.0,Browns,2013
-37,29.0,Leon McFadden,10/26/1990,23.0,5-10,190.0,San Diego St.,DB,16,2.0,0.0,1.0,Browns,2013
-38,26.0,Willis McGahee,10/21/1981,32.0,6-0,235.0,Miami (FL),RB,12,6.0,9.0,2.0,Browns,2013
-39,83.0,Keavon Milton,6/23/1990,23.0,6-4,293.0,La-Monroe,TE,8,0.0,0.0,0.0,Browns,2013
-40,51.0,Barkevious Mingo,10/4/1990,23.0,6-5,235.0,LSU,LB,15,3.0,0.0,3.0,Browns,2013
-41,25.0,Chris Ogbonnaya,5/20/1986,27.0,6-0,220.0,Texas,RB,16,7.0,4.0,3.0,Browns,2013
-42,21.0,Chris Owens,12/1/1986,27.0,5-10,182.0,San Jose St.,DB,12,2.0,4.0,2.0,Browns,2013
-43,62.0,Jason Pinkston,9/5/1987,26.0,6-3,313.0,Pittsburgh,T,3,2.0,2.0,1.0,Browns,2013
-44,38.0,Julian Posey,7/17/1988,25.0,5-11,187.0,Ohio,DB,5,1.0,1.0,1.0,Browns,2013
-45,33.0,Jordan Poyer,4/25/1991,22.0,6-0,191.0,Oregon St.,DB,9,0.0,0.0,1.0,Browns,2013
-46,34.0,Bobby Rainey,10/16/1987,26.0,5-8,205.0,Western Kentucky,RB,6,0.0,0.0,0.0,Browns,2013
-47,33.0,Trent Richardson,7/10/1990,23.0,5-9,228.0,Alabama,RB,2,2.0,1.0,1.0,Browns,2013
-48,53.0,Craig Robertson,2/11/1988,25.0,6-1,234.0,North Texas,LILB,14,14.0,1.0,6.0,Browns,2013
-49,71.0,Ahtyba Rubin,7/25/1986,27.0,6-2,315.0,Iowa St.,LDE,14,14.0,5.0,6.0,Browns,2013
-50,91.0,Brian Sanford,9/12/1987,26.0,6-2,280.0,Temple,DT,1,0.0,2.0,0.0,Browns,2013
-51,72.0,Mitchell Schwartz,6/8/1989,24.0,6-5,320.0,California,RT,16,16.0,1.0,6.0,Browns,2013
-52,97.0,Jabaal Sheard,5/10/1989,24.0,6-3,268.0,Pittsburgh,ROLB,13,13.0,2.0,5.0,Browns,2013
-53,22.0,Buster Skrine,4/26/1989,24.0,5-9,187.0,Chattanooga,RCB,16,15.0,2.0,5.0,Browns,2013
-54,87.0,Andre Smith,9/26/1988,25.0,6-5,267.0,Virginia Tech,TE,2,0.0,0.0,0.0,Browns,2013
-55,98.0,Phil Taylor,4/7/1988,25.0,6-3,320.0,Baylor,NT,15,15.0,2.0,6.0,Browns,2013
-56,73.0,Joe Thomas,12/4/1984,29.0,6-6,312.0,Wisconsin,LT,16,16.0,6.0,11.0,Browns,2013
-57,85.0,Brian Tyms,2/21/1989,24.0,6-3,210.0,Florida A&M,WR,7,0.0,0.0,0.0,Browns,2013
-58,64.0,Martin Wallace,4/22/1990,23.0,6-6,305.0,Temple,T,1,0.0,0.0,0.0,Browns,2013
-59,43.0,T.J. Ward,12/12/1986,27.0,5-10,200.0,Oregon,SS,16,16.0,3.0,11.0,Browns,2013
-60,3.0,Brandon Weeden,10/14/1983,30.0,6-3,227.0,Oklahoma St.,QB,8,5.0,1.0,3.0,Browns,2013
-61,35.0,Fozzy Whittaker,2/2/1989,24.0,5-10,205.0,Texas,RB,11,2.0,0.0,1.0,Browns,2013
-62,90.0,Billy Winn,4/15/1989,24.0,6-4,300.0,Boise St.,DT,11,3.0,1.0,2.0,Browns,2013
-63,57.0,Christian Yount,7/8/1988,25.0,6-1,243.0,UCLA,LS,16,0.0,2.0,1.0,Browns,2013
-64,,Team Total,,25.5,6-1.7,246.5,,,16,,2.2,,Browns,2013
+No.,Player,BirthDate,Age,Height,Weight,College/University,Position,Games_Played_in_Season,Games_Started_in_Season,NFL_Years,Player_Value,Team,Year
+37.0,Josh Aubrey,4/9/1991,22.0,5-10,200.0,S.F. Austin,DB,6,0.0,0.0,1.0,Browns,2013
+24.0,Johnson Bademosi,7/23/1990,23.0,6-0,219.0,Stanford,DB,16,0.0,1.0,1.0,Browns,2013
+27.0,Edwin Baker,6/1/1991,22.0,5-8,204.0,Michigan St.,RB,3,2.0,0.0,1.0,Browns,2013
+82.0,Gary Barnidge,9/22/1985,28.0,6-6,250.0,Louisville,TE,16,12.0,5.0,1.0,Browns,2013
+80.0,Travis Benjamin,12/29/1989,24.0,5-10,175.0,Miami (FL),WR,8,3.0,1.0,2.0,Browns,2013
+15.0,Davone Bess,9/13/1985,28.0,5-10,190.0,Hawaii,WR,14,3.0,5.0,2.0,Browns,2013
+95.0,Armonty Bryant,5/20/1990,23.0,6-4,265.0,East Central (OK),DE,12,0.0,0.0,1.0,Browns,2013
+92.0,Desmond Bryant,12/15/1985,28.0,6-5,290.0,Harvard,RDE,12,12.0,4.0,5.0,Browns,2013
+79.0,Rashad Butler,2/10/1983,30.0,6-4,317.0,Miami (FL),T,9,0.0,6.0,1.0,Browns,2013
+84.0,Jordan Cameron,8/7/1988,25.0,6-5,265.0,USC,TE,15,14.0,2.0,5.0,Browns,2013
+17.0,Jason Campbell,12/31/1981,32.0,6-5,235.0,Auburn,QB,9,8.0,7.0,4.0,Browns,2013
+59.0,Tank Carder,1/18/1989,24.0,6-2,235.0,TCU,LB,15,1.0,1.0,1.0,Browns,2013
+88.0,Josh Cooper,1/8/1989,24.0,5-10,190.0,Oklahoma St.,WR,5,0.0,1.0,0.0,Browns,2013
+75.0,Oniel Cousins,6/29/1984,29.0,6-4,315.0,Texas-El Paso,T,16,4.0,5.0,2.0,Browns,2013
+8.0,Billy Cundiff,3/30/1980,33.0,6-1,212.0,Drake,K,16,0.0,11.0,2.0,Browns,2013
+10.0,Armanti Edwards,3/8/1988,25.0,5-11,191.0,Appalachian St.,QB,2,0.0,3.0,0.0,Browns,2013
+50.0,Darius Eubanks,7/12/1991,22.0,6-2,222.0,Georgia Southern,DB,9,1.0,0.0,1.0,Browns,2013
+65.0,Garrett Gilkey,7/8/1990,23.0,6-6,318.0,Chadron St.,T,6,1.0,0.0,1.0,Browns,2013
+39.0,Tashaun Gipson,8/7/1990,23.0,6-1,212.0,Wyoming,FS,16,15.0,1.0,7.0,Browns,2013
+12.0,Josh Gordon,4/13/1991,22.0,6-3,225.0,"Utah,Baylor",WR,14,14.0,1.0,10.0,Browns,2013
+47.0,MarQueis Gray,11/7/1989,24.0,6-4,263.0,Minnesota,TE,12,2.0,0.0,0.0,Browns,2013
+77.0,John Greco,3/24/1985,28.0,6-4,318.0,Toledo,LG,14,14.0,5.0,5.0,Browns,2013
+54.0,Quentin Groves,7/5/1984,29.0,6-3,250.0,Auburn,LB,5,0.0,5.0,0.0,Browns,2013
+81.0,Tori Gurley,11/22/1987,26.0,6-4,216.0,South Carolina,WR,3,0.0,0.0,0.0,Browns,2013
+23.0,Joe Haden,4/14/1989,24.0,5-11,195.0,Florida,LCB,15,15.0,3.0,12.0,Browns,2013
+96.0,Paul Hazel,5/9/1990,23.0,6-5,227.0,Western Michigan,DE,13,0.0,0.0,1.0,Browns,2013
+6.0,Brian Hoyer,10/13/1985,28.0,6-2,215.0,Michigan St.,QB,3,3.0,4.0,1.0,Browns,2013
+93.0,John Hughes,4/27/1988,25.0,6-2,320.0,Cincinnati,DT,15,2.0,1.0,2.0,Browns,2013
+52.0,D'Qwell Jackson,9/26/1983,30.0,6-0,242.0,Maryland,RILB,16,16.0,7.0,7.0,Browns,2013
+67.0,Ishmaa'ily Kitchen,6/24/1988,25.0,6-1,334.0,Kent St.,DT,13,0.0,1.0,1.0,Browns,2013
+99.0,Paul Kruger,2/15/1986,27.0,6-4,285.0,Utah,LOLB,16,16.0,4.0,6.0,Browns,2013
+5.0,Spencer Lanning,5/21/1988,25.0,5-11,200.0,South Carolina,P,16,0.0,0.0,1.0,Browns,2013
+66.0,Shawn Lauvao,10/26/1987,26.0,6-3,308.0,Arizona St.,RG,11,11.0,3.0,4.0,Browns,2013
+18.0,Greg Little,5/30/1989,24.0,6-2,220.0,North Carolina,WR,16,13.0,2.0,3.0,Browns,2013
+55.0,Alex Mack,11/19/1985,28.0,6-4,311.0,California,C,16,16.0,4.0,9.0,Browns,2013
+58.0,Brandon Magee,10/22/1990,23.0,5-11,223.0,Arizona St.,LB,8,0.0,0.0,1.0,Browns,2013
+56.0,Eric Martin,7/21/1991,22.0,6-2,250.0,Nebraska,LB,16,0.0,0.0,1.0,Browns,2013
+29.0,Leon McFadden,10/26/1990,23.0,5-10,190.0,San Diego St.,DB,16,2.0,0.0,1.0,Browns,2013
+26.0,Willis McGahee,10/21/1981,32.0,6-0,235.0,Miami (FL),RB,12,6.0,9.0,2.0,Browns,2013
+83.0,Keavon Milton,6/23/1990,23.0,6-4,293.0,La-Monroe,TE,8,0.0,0.0,0.0,Browns,2013
+51.0,Barkevious Mingo,10/4/1990,23.0,6-5,235.0,LSU,LB,15,3.0,0.0,3.0,Browns,2013
+25.0,Chris Ogbonnaya,5/20/1986,27.0,6-0,220.0,Texas,RB,16,7.0,4.0,3.0,Browns,2013
+21.0,Chris Owens,12/1/1986,27.0,5-10,182.0,San Jose St.,DB,12,2.0,4.0,2.0,Browns,2013
+62.0,Jason Pinkston,9/5/1987,26.0,6-3,313.0,Pittsburgh,T,3,2.0,2.0,1.0,Browns,2013
+38.0,Julian Posey,7/17/1988,25.0,5-11,187.0,Ohio,DB,5,1.0,1.0,1.0,Browns,2013
+33.0,Jordan Poyer,4/25/1991,22.0,6-0,191.0,Oregon St.,DB,9,0.0,0.0,1.0,Browns,2013
+34.0,Bobby Rainey,10/16/1987,26.0,5-8,205.0,Western Kentucky,RB,6,0.0,0.0,0.0,Browns,2013
+33.0,Trent Richardson,7/10/1990,23.0,5-9,228.0,Alabama,RB,2,2.0,1.0,1.0,Browns,2013
+53.0,Craig Robertson,2/11/1988,25.0,6-1,234.0,North Texas,LILB,14,14.0,1.0,6.0,Browns,2013
+71.0,Ahtyba Rubin,7/25/1986,27.0,6-2,315.0,Iowa St.,LDE,14,14.0,5.0,6.0,Browns,2013
+91.0,Brian Sanford,9/12/1987,26.0,6-2,280.0,Temple,DT,1,0.0,2.0,0.0,Browns,2013
+72.0,Mitchell Schwartz,6/8/1989,24.0,6-5,320.0,California,RT,16,16.0,1.0,6.0,Browns,2013
+97.0,Jabaal Sheard,5/10/1989,24.0,6-3,268.0,Pittsburgh,ROLB,13,13.0,2.0,5.0,Browns,2013
+22.0,Buster Skrine,4/26/1989,24.0,5-9,187.0,Chattanooga,RCB,16,15.0,2.0,5.0,Browns,2013
+87.0,Andre Smith,9/26/1988,25.0,6-5,267.0,Virginia Tech,TE,2,0.0,0.0,0.0,Browns,2013
+98.0,Phil Taylor,4/7/1988,25.0,6-3,320.0,Baylor,NT,15,15.0,2.0,6.0,Browns,2013
+73.0,Joe Thomas,12/4/1984,29.0,6-6,312.0,Wisconsin,LT,16,16.0,6.0,11.0,Browns,2013
+85.0,Brian Tyms,2/21/1989,24.0,6-3,210.0,Florida A&M,WR,7,0.0,0.0,0.0,Browns,2013
+64.0,Martin Wallace,4/22/1990,23.0,6-6,305.0,Temple,T,1,0.0,0.0,0.0,Browns,2013
+43.0,T.J. Ward,12/12/1986,27.0,5-10,200.0,Oregon,SS,16,16.0,3.0,11.0,Browns,2013
+3.0,Brandon Weeden,10/14/1983,30.0,6-3,227.0,Oklahoma St.,QB,8,5.0,1.0,3.0,Browns,2013
+35.0,Fozzy Whittaker,2/2/1989,24.0,5-10,205.0,Texas,RB,11,2.0,0.0,1.0,Browns,2013
+90.0,Billy Winn,4/15/1989,24.0,6-4,300.0,Boise St.,DT,11,3.0,1.0,2.0,Browns,2013
+57.0,Christian Yount,7/8/1988,25.0,6-1,243.0,UCLA,LS,16,0.0,2.0,1.0,Browns,2013
+,Team Total,,25.5,6-1.7,246.5,,,16,,2.2,,Browns,2013

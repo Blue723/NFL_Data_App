@@ -1,71 +1,71 @@
-,No.,Player,BirthDate,Age,Height,Weight,College/University,Position,Games_Played_in_Season,Games_Started_in_Season,NFL_Years,Player_Value,Team,Year
-0,34.0,A.J. Bouye,8/16/1991,22.0,6-0,191.0,Central Florida,DB,6,0.0,0.0,0.0,Texans,2013
-1,50.0,Bryan Braman,5/4/1987,26.0,6-5,230.0,West Texas A&M,LB,16,0.0,2.0,1.0,Texans,2013
-2,79.0,Brandon Brooks,8/19/1989,24.0,6-5,335.0,Miami (OH),RG,15,15.0,1.0,6.0,Texans,2013
-3,76.0,Duane Brown,8/30/1985,28.0,6-4,329.0,Virginia Tech,LT,14,14.0,5.0,7.0,Texans,2013
-4,4.0,Randy Bullock,12/16/1989,24.0,5-9,210.0,Texas A&M,K,16,0.0,0.0,1.0,Texans,2013
-5,89.0,Jake Byrne,1/24/1990,23.0,6-4,260.0,Wisconsin,TE,7,0.0,0.0,0.0,Texans,2013
-6,93.0,Jared Crick,8/21/1989,24.0,6-4,285.0,Nebraska,DE,16,1.0,1.0,2.0,Texans,2013
-7,56.0,Brian Cushing,1/24/1987,26.0,6-3,255.0,USC,LILB,7,7.0,4.0,4.0,Texans,2013
-8,81.0,Owen Daniels,11/9/1982,31.0,6-3,245.0,Wisconsin,TE,5,5.0,7.0,1.0,Texans,2013
-9,52.0,Tim Dobbins,12/10/1982,31.0,6-1,234.0,Iowa St.,LB,3,0.0,7.0,0.0,Texans,2013
-10,23.0,Arian Foster,8/24/1986,27.0,6-1,227.0,Tennessee,RB,8,8.0,4.0,3.0,Texans,2013
-11,66.0,Andrew Gardner,4/4/1986,27.0,6-7,304.0,Georgia Tech,T,3,0.0,4.0,0.0,Texans,2013
-12,52.0,Tavares Gooden,10/7/1984,29.0,6-1,233.0,Miami (FL),LB,1,0.0,5.0,0.0,Texans,2013
-13,88.0,Garrett Graham,8/4/1986,27.0,6-3,245.0,Wisconsin,TE,13,11.0,3.0,3.0,Texans,2013
-14,37.0,Ray Graham,9/18/1990,23.0,5-9,199.0,Pittsburgh,RB,1,0.0,0.0,0.0,Texans,2013
-15,84.0,Ryan Griffin,1/11/1990,23.0,6-6,255.0,Connecticut,TE,15,8.0,0.0,1.0,Texans,2013
-16,41.0,Jonathan Grimes,12/21/1989,24.0,5-10,207.0,William & Mary,RB,2,1.0,1.0,1.0,Texans,2013
-17,26.0,Brandon Harris,1/24/1990,23.0,5-11,195.0,Miami (FL),DB,16,0.0,2.0,1.0,Texans,2013
-18,68.0,Ryan Harris,3/11/1985,28.0,6-5,299.0,Notre Dame,T,16,3.0,6.0,2.0,Texans,2013
-19,10.0,DeAndre Hopkins,6/6/1992,21.0,6-1,218.0,Clemson,WR,16,16.0,0.0,5.0,Texans,2013
-20,25.0,Kareem Jackson,4/10/1988,25.0,5-10,183.0,Alabama,LCB,14,14.0,3.0,5.0,Texans,2013
-21,96.0,Tim Jamison,2/26/1986,27.0,6-3,263.0,Michigan,DE,5,0.0,4.0,0.0,Texans,2013
-22,18.0,Lestar Jean,2/5/1988,25.0,6-3,215.0,Florida Atlantic,WR,13,0.0,1.0,0.0,Texans,2013
-23,54.0,Willie Jefferson,1/31/1991,22.0,6-5,233.0,S.F. Austin,LB,6,0.0,0.0,0.0,Texans,2013
-24,80.0,Andre Johnson,7/11/1981,32.0,6-3,229.0,Miami (FL),WR,16,16.0,10.0,8.0,Texans,2013
-25,28.0,Dennis Johnson,2/24/1990,23.0,5-8,212.0,Arkansas,RB,8,1.0,0.0,1.0,Texans,2013
-26,60.0,Ben Jones,7/2/1989,24.0,6-3,308.0,Georgia,C,16,1.0,1.0,1.0,Texans,2013
-27,33.0,Greg Jones,5/9/1981,32.0,6-1,265.0,Florida St.,RB,16,5.0,9.0,0.0,Texans,2013
-28,24.0,Johnathan Joseph,4/16/1984,29.0,5-11,186.0,South Carolina,RCB,15,15.0,7.0,6.0,Texans,2013
-29,39.0,Deji Karim,11/18/1986,27.0,5-11,200.0,Southern Illinois,RB,7,0.0,3.0,0.0,Texans,2013
-30,7.0,Case Keenum,2/17/1988,25.0,6-1,206.0,Houston,QB,8,8.0,0.0,4.0,Texans,2013
-31,31.0,Shiloh Keo,12/17/1987,26.0,5-11,223.0,Idaho,FS,16,11.0,2.0,4.0,Texans,2013
-32,9.0,Shane Lechler,8/7/1976,37.0,6-2,230.0,Texas A&M,P,16,0.0,13.0,3.0,Texans,2013
-33,43.0,Elbert Mack,7/14/1986,27.0,5-10,175.0,"Butler (KS),Troy",WR,8,0.0,5.0,0.0,Texans,2013
-34,38.0,Danieal Manning,8/9/1982,31.0,5-11,212.0,Abilene Christian,SS,6,6.0,7.0,2.0,Texans,2013
-35,82.0,Keshawn Martin,3/15/1990,23.0,5-10,190.0,Michigan St.,WR,16,1.0,1.0,2.0,Texans,2013
-36,53.0,Joe Mays,7/6/1985,28.0,5-11,245.0,North Dakota St.,RILB,14,13.0,5.0,6.0,Texans,2013
-37,21.0,Brice McCain,12/10/1986,27.0,5-9,190.0,Utah,DB,16,4.0,4.0,2.0,Texans,2013
-38,97.0,Terrell McClain,7/20/1988,25.0,6-2,300.0,South Florida,DT,16,0.0,2.0,2.0,Texans,2013
-39,59.0,Whitney Mercilus,7/21/1990,23.0,6-4,258.0,Illinois,ROLB,16,16.0,1.0,7.0,Texans,2013
-40,92.0,Earl Mitchell,9/25/1987,26.0,6-3,310.0,Arizona,NT,16,14.0,3.0,6.0,Texans,2013
-41,90.0,Mike Mohamed,3/11/1988,25.0,6-2,238.0,California,LB,8,0.0,2.0,1.0,Texans,2013
-42,55.0,Chris Myers,9/15/1981,32.0,6-4,286.0,Miami (FL),C,16,16.0,8.0,6.0,Texans,2013
-43,75.0,Derek Newton,11/16/1987,26.0,6-6,315.0,"Hinds CC,Arkansas St.",RT,16,16.0,2.0,6.0,Texans,2013
-44,35.0,Eddie Pleasant,12/17/1988,25.0,5-10,210.0,Oregon,DB,16,1.0,1.0,1.0,Texans,2013
-45,11.0,DeVier Posey,3/15/1990,23.0,6-1,214.0,Ohio St.,WR,14,0.0,1.0,1.0,Texans,2013
-46,58.0,Brooks Reed,2/28/1987,26.0,6-3,254.0,Arizona,LOLB,16,16.0,2.0,7.0,Texans,2013
-47,20.0,Ed Reed,9/11/1978,35.0,5-11,205.0,Miami (FL),FS,7,5.0,11.0,2.0,Texans,2013
-48,20.0,Justin Rogers,1/16/1988,25.0,5-11,180.0,Richmond,DB,1,0.0,2.0,0.0,Texans,2013
-49,91.0,Ricky Sapp,11/14/1986,27.0,6-4,244.0,Clemson,LB,5,0.0,1.0,0.0,Texans,2013
-50,8.0,Matt Schaub,6/25/1981,32.0,6-6,245.0,Virginia,QB,10,8.0,9.0,3.0,Texans,2013
-51,51.0,Darryl Sharpton,1/1/1988,25.0,6-0,229.0,Miami (FL),LILB,15,8.0,3.0,4.0,Texans,2013
-52,47.0,Brad Smelley,5/20/1989,24.0,6-2,237.0,Alabama,TE,2,0.0,1.0,0.0,Texans,2013
-53,94.0,Antonio Smith,10/21/1981,32.0,6-3,290.0,Oklahoma St.,RDE,15,15.0,9.0,7.0,Texans,2013
-54,90.0,D.J. Smith,2/24/1989,24.0,5-11,239.0,Appalachian St.,LB,1,0.0,2.0,0.0,Texans,2013
-55,74.0,Wade Smith,4/26/1981,32.0,6-4,295.0,Memphis,LG,16,16.0,10.0,6.0,Texans,2013
-56,32.0,Chad Spann,8/8/1988,25.0,5-9,198.0,Northern Illinois,RB,1,0.0,2.0,0.0,Texans,2013
-57,29.0,Jawanza Starling,6/21/1991,22.0,6-1,202.0,USC,DB,2,0.0,0.0,0.0,Texans,2013
-58,48.0,Phillip Supernaw,1/30/1990,23.0,6-5,255.0,Ouachita Baptist,TE,1,0.0,0.0,0.0,Texans,2013
-59,36.0,D.J. Swearinger,9/1/1991,22.0,5-10,205.0,South Carolina,SS,16,10.0,0.0,4.0,Texans,2013
-60,52.0,Jeff Tarpinian,10/16/1987,26.0,6-3,238.0,Iowa,LB,8,3.0,2.0,2.0,Texans,2013
-61,44.0,Ben Tate,8/21/1988,25.0,5-11,214.0,Auburn,RB,14,7.0,2.0,4.0,Texans,2013
-62,95.0,Justin Tuggle,1/14/1990,23.0,6-3,244.0,Kansas St.,LB,15,1.0,0.0,1.0,Texans,2013
-63,27.0,Josh Victorian,7/10/1988,25.0,5-10,190.0,Louisiana Tech,DB,8,0.0,1.0,0.0,Texans,2013
-64,99.0,J.J. Watt,3/22/1989,24.0,6-5,288.0,"Central Michigan,Wisconsin",LDE,16,16.0,2.0,17.0,Texans,2013
-65,46.0,Jon Weeks,2/17/1986,27.0,5-10,242.0,Baylor,LS,16,0.0,3.0,1.0,Texans,2013
-66,67.0,Cody White,7/1/1988,25.0,6-3,301.0,Illinois St.,G,1,0.0,0.0,0.0,Texans,2013
-67,41.0,Cierre Wood,2/21/1991,22.0,5-11,213.0,Notre Dame,RB,3,0.0,0.0,0.0,Texans,2013
-68,13.0,T.J. Yates,5/28/1987,26.0,6-4,215.0,North Carolina,QB,3,0.0,2.0,0.0,Texans,2013
-69,,Team Total,,26.1,6-1.4,238.8,,,16,,3.1,,Texans,2013
+No.,Player,BirthDate,Age,Height,Weight,College/University,Position,Games_Played_in_Season,Games_Started_in_Season,NFL_Years,Player_Value,Team,Year
+34.0,A.J. Bouye,8/16/1991,22.0,6-0,191.0,Central Florida,DB,6,0.0,0.0,0.0,Texans,2013
+50.0,Bryan Braman,5/4/1987,26.0,6-5,230.0,West Texas A&M,LB,16,0.0,2.0,1.0,Texans,2013
+79.0,Brandon Brooks,8/19/1989,24.0,6-5,335.0,Miami (OH),RG,15,15.0,1.0,6.0,Texans,2013
+76.0,Duane Brown,8/30/1985,28.0,6-4,329.0,Virginia Tech,LT,14,14.0,5.0,7.0,Texans,2013
+4.0,Randy Bullock,12/16/1989,24.0,5-9,210.0,Texas A&M,K,16,0.0,0.0,1.0,Texans,2013
+89.0,Jake Byrne,1/24/1990,23.0,6-4,260.0,Wisconsin,TE,7,0.0,0.0,0.0,Texans,2013
+93.0,Jared Crick,8/21/1989,24.0,6-4,285.0,Nebraska,DE,16,1.0,1.0,2.0,Texans,2013
+56.0,Brian Cushing,1/24/1987,26.0,6-3,255.0,USC,LILB,7,7.0,4.0,4.0,Texans,2013
+81.0,Owen Daniels,11/9/1982,31.0,6-3,245.0,Wisconsin,TE,5,5.0,7.0,1.0,Texans,2013
+52.0,Tim Dobbins,12/10/1982,31.0,6-1,234.0,Iowa St.,LB,3,0.0,7.0,0.0,Texans,2013
+23.0,Arian Foster,8/24/1986,27.0,6-1,227.0,Tennessee,RB,8,8.0,4.0,3.0,Texans,2013
+66.0,Andrew Gardner,4/4/1986,27.0,6-7,304.0,Georgia Tech,T,3,0.0,4.0,0.0,Texans,2013
+52.0,Tavares Gooden,10/7/1984,29.0,6-1,233.0,Miami (FL),LB,1,0.0,5.0,0.0,Texans,2013
+88.0,Garrett Graham,8/4/1986,27.0,6-3,245.0,Wisconsin,TE,13,11.0,3.0,3.0,Texans,2013
+37.0,Ray Graham,9/18/1990,23.0,5-9,199.0,Pittsburgh,RB,1,0.0,0.0,0.0,Texans,2013
+84.0,Ryan Griffin,1/11/1990,23.0,6-6,255.0,Connecticut,TE,15,8.0,0.0,1.0,Texans,2013
+41.0,Jonathan Grimes,12/21/1989,24.0,5-10,207.0,William & Mary,RB,2,1.0,1.0,1.0,Texans,2013
+26.0,Brandon Harris,1/24/1990,23.0,5-11,195.0,Miami (FL),DB,16,0.0,2.0,1.0,Texans,2013
+68.0,Ryan Harris,3/11/1985,28.0,6-5,299.0,Notre Dame,T,16,3.0,6.0,2.0,Texans,2013
+10.0,DeAndre Hopkins,6/6/1992,21.0,6-1,218.0,Clemson,WR,16,16.0,0.0,5.0,Texans,2013
+25.0,Kareem Jackson,4/10/1988,25.0,5-10,183.0,Alabama,LCB,14,14.0,3.0,5.0,Texans,2013
+96.0,Tim Jamison,2/26/1986,27.0,6-3,263.0,Michigan,DE,5,0.0,4.0,0.0,Texans,2013
+18.0,Lestar Jean,2/5/1988,25.0,6-3,215.0,Florida Atlantic,WR,13,0.0,1.0,0.0,Texans,2013
+54.0,Willie Jefferson,1/31/1991,22.0,6-5,233.0,S.F. Austin,LB,6,0.0,0.0,0.0,Texans,2013
+80.0,Andre Johnson,7/11/1981,32.0,6-3,229.0,Miami (FL),WR,16,16.0,10.0,8.0,Texans,2013
+28.0,Dennis Johnson,2/24/1990,23.0,5-8,212.0,Arkansas,RB,8,1.0,0.0,1.0,Texans,2013
+60.0,Ben Jones,7/2/1989,24.0,6-3,308.0,Georgia,C,16,1.0,1.0,1.0,Texans,2013
+33.0,Greg Jones,5/9/1981,32.0,6-1,265.0,Florida St.,RB,16,5.0,9.0,0.0,Texans,2013
+24.0,Johnathan Joseph,4/16/1984,29.0,5-11,186.0,South Carolina,RCB,15,15.0,7.0,6.0,Texans,2013
+39.0,Deji Karim,11/18/1986,27.0,5-11,200.0,Southern Illinois,RB,7,0.0,3.0,0.0,Texans,2013
+7.0,Case Keenum,2/17/1988,25.0,6-1,206.0,Houston,QB,8,8.0,0.0,4.0,Texans,2013
+31.0,Shiloh Keo,12/17/1987,26.0,5-11,223.0,Idaho,FS,16,11.0,2.0,4.0,Texans,2013
+9.0,Shane Lechler,8/7/1976,37.0,6-2,230.0,Texas A&M,P,16,0.0,13.0,3.0,Texans,2013
+43.0,Elbert Mack,7/14/1986,27.0,5-10,175.0,"Butler (KS),Troy",WR,8,0.0,5.0,0.0,Texans,2013
+38.0,Danieal Manning,8/9/1982,31.0,5-11,212.0,Abilene Christian,SS,6,6.0,7.0,2.0,Texans,2013
+82.0,Keshawn Martin,3/15/1990,23.0,5-10,190.0,Michigan St.,WR,16,1.0,1.0,2.0,Texans,2013
+53.0,Joe Mays,7/6/1985,28.0,5-11,245.0,North Dakota St.,RILB,14,13.0,5.0,6.0,Texans,2013
+21.0,Brice McCain,12/10/1986,27.0,5-9,190.0,Utah,DB,16,4.0,4.0,2.0,Texans,2013
+97.0,Terrell McClain,7/20/1988,25.0,6-2,300.0,South Florida,DT,16,0.0,2.0,2.0,Texans,2013
+59.0,Whitney Mercilus,7/21/1990,23.0,6-4,258.0,Illinois,ROLB,16,16.0,1.0,7.0,Texans,2013
+92.0,Earl Mitchell,9/25/1987,26.0,6-3,310.0,Arizona,NT,16,14.0,3.0,6.0,Texans,2013
+90.0,Mike Mohamed,3/11/1988,25.0,6-2,238.0,California,LB,8,0.0,2.0,1.0,Texans,2013
+55.0,Chris Myers,9/15/1981,32.0,6-4,286.0,Miami (FL),C,16,16.0,8.0,6.0,Texans,2013
+75.0,Derek Newton,11/16/1987,26.0,6-6,315.0,"Hinds CC,Arkansas St.",RT,16,16.0,2.0,6.0,Texans,2013
+35.0,Eddie Pleasant,12/17/1988,25.0,5-10,210.0,Oregon,DB,16,1.0,1.0,1.0,Texans,2013
+11.0,DeVier Posey,3/15/1990,23.0,6-1,214.0,Ohio St.,WR,14,0.0,1.0,1.0,Texans,2013
+58.0,Brooks Reed,2/28/1987,26.0,6-3,254.0,Arizona,LOLB,16,16.0,2.0,7.0,Texans,2013
+20.0,Ed Reed,9/11/1978,35.0,5-11,205.0,Miami (FL),FS,7,5.0,11.0,2.0,Texans,2013
+20.0,Justin Rogers,1/16/1988,25.0,5-11,180.0,Richmond,DB,1,0.0,2.0,0.0,Texans,2013
+91.0,Ricky Sapp,11/14/1986,27.0,6-4,244.0,Clemson,LB,5,0.0,1.0,0.0,Texans,2013
+8.0,Matt Schaub,6/25/1981,32.0,6-6,245.0,Virginia,QB,10,8.0,9.0,3.0,Texans,2013
+51.0,Darryl Sharpton,1/1/1988,25.0,6-0,229.0,Miami (FL),LILB,15,8.0,3.0,4.0,Texans,2013
+47.0,Brad Smelley,5/20/1989,24.0,6-2,237.0,Alabama,TE,2,0.0,1.0,0.0,Texans,2013
+94.0,Antonio Smith,10/21/1981,32.0,6-3,290.0,Oklahoma St.,RDE,15,15.0,9.0,7.0,Texans,2013
+90.0,D.J. Smith,2/24/1989,24.0,5-11,239.0,Appalachian St.,LB,1,0.0,2.0,0.0,Texans,2013
+74.0,Wade Smith,4/26/1981,32.0,6-4,295.0,Memphis,LG,16,16.0,10.0,6.0,Texans,2013
+32.0,Chad Spann,8/8/1988,25.0,5-9,198.0,Northern Illinois,RB,1,0.0,2.0,0.0,Texans,2013
+29.0,Jawanza Starling,6/21/1991,22.0,6-1,202.0,USC,DB,2,0.0,0.0,0.0,Texans,2013
+48.0,Phillip Supernaw,1/30/1990,23.0,6-5,255.0,Ouachita Baptist,TE,1,0.0,0.0,0.0,Texans,2013
+36.0,D.J. Swearinger,9/1/1991,22.0,5-10,205.0,South Carolina,SS,16,10.0,0.0,4.0,Texans,2013
+52.0,Jeff Tarpinian,10/16/1987,26.0,6-3,238.0,Iowa,LB,8,3.0,2.0,2.0,Texans,2013
+44.0,Ben Tate,8/21/1988,25.0,5-11,214.0,Auburn,RB,14,7.0,2.0,4.0,Texans,2013
+95.0,Justin Tuggle,1/14/1990,23.0,6-3,244.0,Kansas St.,LB,15,1.0,0.0,1.0,Texans,2013
+27.0,Josh Victorian,7/10/1988,25.0,5-10,190.0,Louisiana Tech,DB,8,0.0,1.0,0.0,Texans,2013
+99.0,J.J. Watt,3/22/1989,24.0,6-5,288.0,"Central Michigan,Wisconsin",LDE,16,16.0,2.0,17.0,Texans,2013
+46.0,Jon Weeks,2/17/1986,27.0,5-10,242.0,Baylor,LS,16,0.0,3.0,1.0,Texans,2013
+67.0,Cody White,7/1/1988,25.0,6-3,301.0,Illinois St.,G,1,0.0,0.0,0.0,Texans,2013
+41.0,Cierre Wood,2/21/1991,22.0,5-11,213.0,Notre Dame,RB,3,0.0,0.0,0.0,Texans,2013
+13.0,T.J. Yates,5/28/1987,26.0,6-4,215.0,North Carolina,QB,3,0.0,2.0,0.0,Texans,2013
+,Team Total,,26.1,6-1.4,238.8,,,16,,3.1,,Texans,2013

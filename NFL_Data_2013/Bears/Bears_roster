@@ -1,64 +1,64 @@
-,No.,Player,BirthDate,Age,Height,Weight,College/University,Position,Games_Played_in_Season,Games_Started_in_Season,NFL_Years,Player_Value,Team,Year
-0,86.0,Kyle Adams,1/19/1988,25.0,6-4,250.0,Purdue,TE,1,0.0,2.0,0.0,Bears,2013
-1,50.0,James Anderson,9/26/1983,30.0,6-2,235.0,Virginia Tech,RLB,16,16.0,7.0,6.0,Bears,2013
-2,19.0,Joe Anderson,11/21/1988,25.0,6-1,196.0,Texas Southern,WR,6,0.0,1.0,0.0,Bears,2013
-3,91.0,David Bass,9/11/1990,23.0,6-4,267.0,Missouri Western St.,DE,12,1.0,0.0,2.0,Bears,2013
-4,80.0,Earl Bennett,3/23/1987,26.0,6-1,205.0,Vanderbilt,WR,15,3.0,5.0,2.0,Bears,2013
-5,83.0,Martellus Bennett,3/10/1987,26.0,6-6,275.0,Texas A&M,TE,16,15.0,5.0,7.0,Bears,2013
-6,60.0,Taylor Boggs,2/20/1987,26.0,6-3,285.0,Humboldt St.,C,1,0.0,0.0,0.0,Bears,2013
-7,57.0,Jonathan Bostic,5/5/1991,22.0,6-1,245.0,Florida,MLB,16,9.0,0.0,4.0,Bears,2013
-8,38.0,Zackary Bowman,11/14/1984,29.0,6-1,197.0,Nebraska,RCB,16,7.0,5.0,3.0,Bears,2013
-9,55.0,Lance Briggs,11/12/1980,33.0,6-1,244.0,Arizona,LLB,9,9.0,10.0,3.0,Bears,2013
-10,62.0,Eben Britton,10/14/1987,26.0,6-6,310.0,Arizona,T,13,4.0,4.0,3.0,Bears,2013
-11,29.0,Michael Bush,6/16/1984,29.0,6-2,243.0,Louisville,RB,15,0.0,5.0,2.0,Bears,2013
-12,74.0,Jermon Bushrod,8/19/1984,29.0,6-5,318.0,Towson,LT,16,16.0,6.0,9.0,Bears,2013
-13,44.0,Jeremy Cain,3/24/1980,33.0,6-1,245.0,Massachusetts,LB,2,0.0,9.0,0.0,Bears,2013
-14,36.0,Sean Cattouse,10/4/1988,25.0,6-2,206.0,California,DB,1,0.0,1.0,0.0,Bears,2013
-15,97.0,Landon Cohen,8/3/1986,27.0,6-3,274.0,Ohio,DT,13,3.0,5.0,2.0,Bears,2013
-16,93.0,Nate Collins,12/14/1987,26.0,6-2,279.0,Virginia,DT,5,2.0,3.0,1.0,Bears,2013
-17,47.0,Chris Conte,2/23/1989,24.0,6-2,203.0,California,FS,16,16.0,2.0,5.0,Bears,2013
-18,52.0,Blake Costanzo,4/14/1984,29.0,6-1,235.0,Lafayette,LB,16,0.0,6.0,1.0,Bears,2013
-19,6.0,Jay Cutler,4/29/1983,30.0,6-3,231.0,Vanderbilt,QB,11,11.0,7.0,9.0,Bears,2013
-20,43.0,Tony Fiammetta,8/22/1986,27.0,6-0,246.0,Syracuse,FB,16,7.0,4.0,1.0,Bears,2013
-21,32.0,Michael Ford,5/27/1990,23.0,5-10,210.0,LSU,RB,12,0.0,0.0,0.0,Bears,2013
-22,22.0,Matt Forte,12/10/1985,28.0,6-1,221.0,Tulane,RB,16,16.0,5.0,15.0,Bears,2013
-23,53.0,Jerry Franklin,1/10/1988,25.0,6-2,242.0,Arkansas,LB,10,0.0,1.0,1.0,Bears,2013
-24,31.0,Isaiah Frey,4/6/1990,23.0,5-11,188.0,Nevada,DB,16,6.0,0.0,2.0,Bears,2013
-25,63.0,Roberto Garza,3/26/1979,34.0,6-2,310.0,Texas A&M-Kingsville,C,16,16.0,12.0,9.0,Bears,2013
-26,9.0,Robbie Gould,12/6/1982,31.0,6-0,190.0,Penn St.,K,16,0.0,8.0,3.0,Bears,2013
-27,95.0,Larry Grant,2/16/1985,28.0,6-1,235.0,Ohio St.,LB,2,0.0,5.0,0.0,Bears,2013
-28,59.0,Khaseem Greene,2/4/1989,24.0,6-1,241.0,Rutgers,LB,15,4.0,0.0,2.0,Bears,2013
-29,23.0,Devin Hester,11/4/1982,31.0,5-11,190.0,Miami (FL),PR,16,0.0,7.0,1.0,Bears,2013
-30,17.0,Alshon Jeffery,2/14/1990,23.0,6-3,218.0,South Carolina,WR,16,14.0,1.0,14.0,Bears,2013
-31,26.0,Tim Jennings,12/24/1983,30.0,5-8,185.0,Georgia,LCB,16,16.0,7.0,8.0,Bears,2013
-32,75.0,Kyle Long,12/5/1988,25.0,6-6,332.0,"Florida St.,Saddleback College,Oregon",RG,16,16.0,0.0,11.0,Bears,2013
-33,87.0,Steve Maneri,3/20/1988,25.0,6-6,275.0,Temple,T,4,1.0,2.0,1.0,Bears,2013
-34,65.0,Patrick Mannelly,4/18/1975,38.0,6-5,265.0,Duke,T,14,0.0,15.0,1.0,Bears,2013
-35,15.0,Brandon Marshall,3/23/1984,29.0,6-5,232.0,Central Florida,WR,16,16.0,7.0,12.0,Bears,2013
-36,39.0,Derrick Martin,5/16/1985,28.0,5-10,198.0,Wyoming,DB,7,0.0,7.0,0.0,Bears,2013
-37,99.0,Shea McClellin,8/1/1989,24.0,6-3,250.0,Boise St.,LDE,14,10.0,1.0,4.0,Bears,2013
-38,12.0,Josh McCown,7/4/1979,34.0,6-4,218.0,"SMU,Sam Houston St.",QB,8,5.0,11.0,8.0,Bears,2013
-39,27.0,Sherrick McManis,12/19/1987,26.0,5-11,203.0,Northwestern,DB,15,1.0,3.0,1.0,Bears,2013
-40,69.0,Henry Melton,10/11/1986,27.0,6-3,280.0,Texas,DE,3,3.0,3.0,1.0,Bears,2013
-41,67.0,Jordan Mills,12/24/1990,23.0,6-5,316.0,Louisiana Tech,RT,16,16.0,0.0,9.0,Bears,2013
-42,96.0,Zach Minter,11/6/1990,23.0,6-1,297.0,Montana St.,DT,2,0.0,0.0,0.0,Bears,2013
-43,95.0,Cheta Ozougwu,11/18/1988,25.0,6-2,251.0,Rice,DE,7,0.0,1.0,0.0,Bears,2013
-44,92.0,Stephen Paea,5/11/1988,25.0,6-1,306.0,Oregon St.,RDT,13,10.0,2.0,3.0,Bears,2013
-45,90.0,Julius Peppers,1/18/1980,33.0,6-7,295.0,North Carolina,RDE,16,16.0,11.0,6.0,Bears,2013
-46,8.0,Adam Podlesh,8/11/1983,30.0,5-11,202.0,Maryland,P,16,0.0,6.0,0.0,Bears,2013
-47,96.0,Jay Ratliff,8/29/1981,32.0,6-4,303.0,Auburn,NT,5,4.0,8.0,1.0,Bears,2013
-48,72.0,Tracy Robertson,9/26/1989,24.0,6-4,280.0,Baylor,DT,1,0.0,0.0,0.0,Bears,2013
-49,88.0,Dante Rosario,10/25/1984,29.0,6-3,244.0,Oregon,TE,15,3.0,6.0,0.0,Bears,2013
-50,68.0,Matt Slauson,2/18/1986,27.0,6-5,315.0,Nebraska,LG,16,16.0,4.0,9.0,Bears,2013
-51,20.0,Craig Steltz,5/7/1986,27.0,6-1,211.0,LSU,DB,16,1.0,5.0,1.0,Bears,2013
-52,33.0,Charles Tillman,2/23/1981,32.0,6-2,210.0,Louisiana,RCB,8,8.0,10.0,3.0,Bears,2013
-53,64.0,Christian Tupou,5/7/1989,24.0,6-2,300.0,USC,DT,5,0.0,0.0,0.0,Bears,2013
-54,37.0,Anthony Walters,9/19/1988,25.0,6-1,207.0,Delaware,DB,13,0.0,2.0,1.0,Bears,2013
-55,94.0,Cornelius Washington,9/10/1989,24.0,6-4,280.0,Georgia,LB,2,0.0,0.0,0.0,Bears,2013
-56,14.0,Eric Weems,7/4/1985,28.0,5-9,195.0,Bethune-Cookman,WR,16,0.0,6.0,0.0,Bears,2013
-57,58.0,D.J. Williams,7/20/1982,31.0,6-1,242.0,Miami (FL),LB,6,4.0,9.0,2.0,Bears,2013
-58,25.0,C.J. Wilson,11/18/1989,24.0,5-11,187.0,North Carolina St.,DB,2,0.0,0.0,0.0,Bears,2013
-59,10.0,Marquess Wilson,9/14/1992,21.0,6-4,206.0,Washington St.,WR,10,1.0,0.0,0.0,Bears,2013
-60,98.0,Corey Wootton,6/22/1987,26.0,6-6,271.0,Northwestern,LDT,16,15.0,3.0,6.0,Bears,2013
-61,21.0,Major Wright,7/1/1988,25.0,5-11,204.0,Florida,SS,15,15.0,3.0,5.0,Bears,2013
-62,,Team Total,,27.2,6-2.1,245.1,,,16,,4.2,,Bears,2013
+No.,Player,BirthDate,Age,Height,Weight,College/University,Position,Games_Played_in_Season,Games_Started_in_Season,NFL_Years,Player_Value,Team,Year
+86.0,Kyle Adams,1/19/1988,25.0,6-4,250.0,Purdue,TE,1,0.0,2.0,0.0,Bears,2013
+50.0,James Anderson,9/26/1983,30.0,6-2,235.0,Virginia Tech,RLB,16,16.0,7.0,6.0,Bears,2013
+19.0,Joe Anderson,11/21/1988,25.0,6-1,196.0,Texas Southern,WR,6,0.0,1.0,0.0,Bears,2013
+91.0,David Bass,9/11/1990,23.0,6-4,267.0,Missouri Western St.,DE,12,1.0,0.0,2.0,Bears,2013
+80.0,Earl Bennett,3/23/1987,26.0,6-1,205.0,Vanderbilt,WR,15,3.0,5.0,2.0,Bears,2013
+83.0,Martellus Bennett,3/10/1987,26.0,6-6,275.0,Texas A&M,TE,16,15.0,5.0,7.0,Bears,2013
+60.0,Taylor Boggs,2/20/1987,26.0,6-3,285.0,Humboldt St.,C,1,0.0,0.0,0.0,Bears,2013
+57.0,Jonathan Bostic,5/5/1991,22.0,6-1,245.0,Florida,MLB,16,9.0,0.0,4.0,Bears,2013
+38.0,Zackary Bowman,11/14/1984,29.0,6-1,197.0,Nebraska,RCB,16,7.0,5.0,3.0,Bears,2013
+55.0,Lance Briggs,11/12/1980,33.0,6-1,244.0,Arizona,LLB,9,9.0,10.0,3.0,Bears,2013
+62.0,Eben Britton,10/14/1987,26.0,6-6,310.0,Arizona,T,13,4.0,4.0,3.0,Bears,2013
+29.0,Michael Bush,6/16/1984,29.0,6-2,243.0,Louisville,RB,15,0.0,5.0,2.0,Bears,2013
+74.0,Jermon Bushrod,8/19/1984,29.0,6-5,318.0,Towson,LT,16,16.0,6.0,9.0,Bears,2013
+44.0,Jeremy Cain,3/24/1980,33.0,6-1,245.0,Massachusetts,LB,2,0.0,9.0,0.0,Bears,2013
+36.0,Sean Cattouse,10/4/1988,25.0,6-2,206.0,California,DB,1,0.0,1.0,0.0,Bears,2013
+97.0,Landon Cohen,8/3/1986,27.0,6-3,274.0,Ohio,DT,13,3.0,5.0,2.0,Bears,2013
+93.0,Nate Collins,12/14/1987,26.0,6-2,279.0,Virginia,DT,5,2.0,3.0,1.0,Bears,2013
+47.0,Chris Conte,2/23/1989,24.0,6-2,203.0,California,FS,16,16.0,2.0,5.0,Bears,2013
+52.0,Blake Costanzo,4/14/1984,29.0,6-1,235.0,Lafayette,LB,16,0.0,6.0,1.0,Bears,2013
+6.0,Jay Cutler,4/29/1983,30.0,6-3,231.0,Vanderbilt,QB,11,11.0,7.0,9.0,Bears,2013
+43.0,Tony Fiammetta,8/22/1986,27.0,6-0,246.0,Syracuse,FB,16,7.0,4.0,1.0,Bears,2013
+32.0,Michael Ford,5/27/1990,23.0,5-10,210.0,LSU,RB,12,0.0,0.0,0.0,Bears,2013
+22.0,Matt Forte,12/10/1985,28.0,6-1,221.0,Tulane,RB,16,16.0,5.0,15.0,Bears,2013
+53.0,Jerry Franklin,1/10/1988,25.0,6-2,242.0,Arkansas,LB,10,0.0,1.0,1.0,Bears,2013
+31.0,Isaiah Frey,4/6/1990,23.0,5-11,188.0,Nevada,DB,16,6.0,0.0,2.0,Bears,2013
+63.0,Roberto Garza,3/26/1979,34.0,6-2,310.0,Texas A&M-Kingsville,C,16,16.0,12.0,9.0,Bears,2013
+9.0,Robbie Gould,12/6/1982,31.0,6-0,190.0,Penn St.,K,16,0.0,8.0,3.0,Bears,2013
+95.0,Larry Grant,2/16/1985,28.0,6-1,235.0,Ohio St.,LB,2,0.0,5.0,0.0,Bears,2013
+59.0,Khaseem Greene,2/4/1989,24.0,6-1,241.0,Rutgers,LB,15,4.0,0.0,2.0,Bears,2013
+23.0,Devin Hester,11/4/1982,31.0,5-11,190.0,Miami (FL),PR,16,0.0,7.0,1.0,Bears,2013
+17.0,Alshon Jeffery,2/14/1990,23.0,6-3,218.0,South Carolina,WR,16,14.0,1.0,14.0,Bears,2013
+26.0,Tim Jennings,12/24/1983,30.0,5-8,185.0,Georgia,LCB,16,16.0,7.0,8.0,Bears,2013
+75.0,Kyle Long,12/5/1988,25.0,6-6,332.0,"Florida St.,Saddleback College,Oregon",RG,16,16.0,0.0,11.0,Bears,2013
+87.0,Steve Maneri,3/20/1988,25.0,6-6,275.0,Temple,T,4,1.0,2.0,1.0,Bears,2013
+65.0,Patrick Mannelly,4/18/1975,38.0,6-5,265.0,Duke,T,14,0.0,15.0,1.0,Bears,2013
+15.0,Brandon Marshall,3/23/1984,29.0,6-5,232.0,Central Florida,WR,16,16.0,7.0,12.0,Bears,2013
+39.0,Derrick Martin,5/16/1985,28.0,5-10,198.0,Wyoming,DB,7,0.0,7.0,0.0,Bears,2013
+99.0,Shea McClellin,8/1/1989,24.0,6-3,250.0,Boise St.,LDE,14,10.0,1.0,4.0,Bears,2013
+12.0,Josh McCown,7/4/1979,34.0,6-4,218.0,"SMU,Sam Houston St.",QB,8,5.0,11.0,8.0,Bears,2013
+27.0,Sherrick McManis,12/19/1987,26.0,5-11,203.0,Northwestern,DB,15,1.0,3.0,1.0,Bears,2013
+69.0,Henry Melton,10/11/1986,27.0,6-3,280.0,Texas,DE,3,3.0,3.0,1.0,Bears,2013
+67.0,Jordan Mills,12/24/1990,23.0,6-5,316.0,Louisiana Tech,RT,16,16.0,0.0,9.0,Bears,2013
+96.0,Zach Minter,11/6/1990,23.0,6-1,297.0,Montana St.,DT,2,0.0,0.0,0.0,Bears,2013
+95.0,Cheta Ozougwu,11/18/1988,25.0,6-2,251.0,Rice,DE,7,0.0,1.0,0.0,Bears,2013
+92.0,Stephen Paea,5/11/1988,25.0,6-1,306.0,Oregon St.,RDT,13,10.0,2.0,3.0,Bears,2013
+90.0,Julius Peppers,1/18/1980,33.0,6-7,295.0,North Carolina,RDE,16,16.0,11.0,6.0,Bears,2013
+8.0,Adam Podlesh,8/11/1983,30.0,5-11,202.0,Maryland,P,16,0.0,6.0,0.0,Bears,2013
+96.0,Jay Ratliff,8/29/1981,32.0,6-4,303.0,Auburn,NT,5,4.0,8.0,1.0,Bears,2013
+72.0,Tracy Robertson,9/26/1989,24.0,6-4,280.0,Baylor,DT,1,0.0,0.0,0.0,Bears,2013
+88.0,Dante Rosario,10/25/1984,29.0,6-3,244.0,Oregon,TE,15,3.0,6.0,0.0,Bears,2013
+68.0,Matt Slauson,2/18/1986,27.0,6-5,315.0,Nebraska,LG,16,16.0,4.0,9.0,Bears,2013
+20.0,Craig Steltz,5/7/1986,27.0,6-1,211.0,LSU,DB,16,1.0,5.0,1.0,Bears,2013
+33.0,Charles Tillman,2/23/1981,32.0,6-2,210.0,Louisiana,RCB,8,8.0,10.0,3.0,Bears,2013
+64.0,Christian Tupou,5/7/1989,24.0,6-2,300.0,USC,DT,5,0.0,0.0,0.0,Bears,2013
+37.0,Anthony Walters,9/19/1988,25.0,6-1,207.0,Delaware,DB,13,0.0,2.0,1.0,Bears,2013
+94.0,Cornelius Washington,9/10/1989,24.0,6-4,280.0,Georgia,LB,2,0.0,0.0,0.0,Bears,2013
+14.0,Eric Weems,7/4/1985,28.0,5-9,195.0,Bethune-Cookman,WR,16,0.0,6.0,0.0,Bears,2013
+58.0,D.J. Williams,7/20/1982,31.0,6-1,242.0,Miami (FL),LB,6,4.0,9.0,2.0,Bears,2013
+25.0,C.J. Wilson,11/18/1989,24.0,5-11,187.0,North Carolina St.,DB,2,0.0,0.0,0.0,Bears,2013
+10.0,Marquess Wilson,9/14/1992,21.0,6-4,206.0,Washington St.,WR,10,1.0,0.0,0.0,Bears,2013
+98.0,Corey Wootton,6/22/1987,26.0,6-6,271.0,Northwestern,LDT,16,15.0,3.0,6.0,Bears,2013
+21.0,Major Wright,7/1/1988,25.0,5-11,204.0,Florida,SS,15,15.0,3.0,5.0,Bears,2013
+,Team Total,,27.2,6-2.1,245.1,,,16,,4.2,,Bears,2013
