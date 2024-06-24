@@ -1,0 +1,577 @@
+index,Date,Matchup,Time (ET),TV,Year,Team,Opponent
+0,9/8/2024,Arizona Cardinals at Buffalo Bills,1:00p,CBS,2024,Cardinals,Bills
+1,9/15/2024,Arizona Cardinals vs. Los Angeles Rams,4:05p,FOX,2024,Cardinals,Rams
+2,9/22/2024,Arizona Cardinals vs. Detroit Lions,4:25p,FOX,2024,Cardinals,Lions
+3,9/29/2024,Arizona Cardinals vs. Washington Commanders,4:05p,FOX,2024,Cardinals,Commanders
+4,10/6/2024,Arizona Cardinals at San Francisco 49ers,4:05p,FOX,2024,Cardinals,49ers
+5,10/13/2024,Arizona Cardinals at Green Bay Packers,1:00p,FOX,2024,Cardinals,Packers
+6,10/21/2024,Arizona Cardinals vs. Los Angeles Chargers,9:00p,ESPN+,2024,Cardinals,Chargers
+7,10/27/2024,Arizona Cardinals at Miami Dolphins,1:00p,FOX,2024,Cardinals,Dolphins
+8,11/3/2024,Arizona Cardinals vs. Chicago Bears,4:05p,CBS,2024,Cardinals,Bears
+9,11/10/2024,Arizona Cardinals vs. New York Jets,4:25p,CBS,2024,Cardinals,Jets
+10,,Week 11 bye,,,2024,Cardinals,bye
+11,11/24/2024,Arizona Cardinals at Seattle Seahawks,4:25p,FOX,2024,Cardinals,Seahawks
+12,12/1/2024,Arizona Cardinals at Minnesota Vikings,1:00p,FOX,2024,Cardinals,Vikings
+13,12/8/2024,Arizona Cardinals vs. Seattle Seahawks,4:05p,CBS,2024,Cardinals,Seahawks
+14,12/15/2024,Arizona Cardinals vs. New England Patriots,4:25p,CBS,2024,Cardinals,Patriots
+15,12/22/2024,Arizona Cardinals at Carolina Panthers,1:00p,FOX,2024,Cardinals,Panthers
+16,12/28/2024,Arizona Cardinals at Los Angeles Rams,TBD,TBD,2024,Cardinals,Rams
+17,1/5/2025,Arizona Cardinals vs. San Francisco 49ers,TBD,TBD,2024,Cardinals,49ers
+18,9/8/2024,Atlanta Falcons vs. Pittsburgh Steelers,1:00p,FOX,2024,Falcons,Steelers
+19,9/16/2024,Atlanta Falcons at Philadelphia Eagles,8:15p,ESPN,2024,Falcons,Eagles
+20,9/22/2024,Atlanta Falcons vs. Kansas City Chiefs,8:20p,NBC,2024,Falcons,Chiefs
+21,9/29/2024,Atlanta Falcons vs. New Orleans Saints,1:00p,FOX,2024,Falcons,Saints
+22,10/3/2024,Atlanta Falcons vs. Tampa Bay Buccaneers,8:15p,Prime Video,2024,Falcons,Buccaneers
+23,10/13/2024,Atlanta Falcons at Carolina Panthers,4:25p,FOX,2024,Falcons,Panthers
+24,10/20/2024,Atlanta Falcons vs. Seattle Seahawks,1:00p,FOX,2024,Falcons,Seahawks
+25,10/27/2024,Atlanta Falcons at Tampa Bay Buccaneers,1:00p,FOX,2024,Falcons,Buccaneers
+26,11/3/2024,Atlanta Falcons vs. Dallas Cowboys,1:00p,FOX,2024,Falcons,Cowboys
+27,11/10/2024,Atlanta Falcons at New Orleans Saints,1:00p,FOX,2024,Falcons,Saints
+28,11/17/2024,Atlanta Falcons at Denver Broncos,4:05p,FOX,2024,Falcons,Broncos
+29,,Week 12 bye,,,2024,Falcons,bye
+30,12/1/2024,Atlanta Falcons vs. Los Angeles Chargers,1:00p,CBS,2024,Falcons,Chargers
+31,12/8/2024,Atlanta Falcons at Minnesota Vikings,1:00p,FOX,2024,Falcons,Vikings
+32,12/16/2024,Atlanta Falcons at Las Vegas Raiders,8:30p,ESPN*,2024,Falcons,Raiders
+33,12/22/2024,Atlanta Falcons vs. New York Giants,1:00p,FOX,2024,Falcons,Giants
+34,12/28/2024,Atlanta Falcons at Washington Commanders,TBD,TBD,2024,Falcons,Commanders
+35,1/5/2025,Atlanta Falcons vs. Carolina Panthers,TBD,TBD,2024,Falcons,Panthers
+36,9/5/2024,Baltimore Ravens at Kansas City Chiefs,8:20p,NBC,2024,Ravens,Chiefs
+37,9/15/2024,Baltimore Ravens vs. Las Vegas Raiders,1:00p,CBS,2024,Ravens,Raiders
+38,9/22/2024,Baltimore Ravens at Dallas Cowboys,4:25p,FOX,2024,Ravens,Cowboys
+39,9/29/2024,Baltimore Ravens vs. Buffalo Bills,8:20p,NBC,2024,Ravens,Bills
+40,10/6/2024,Baltimore Ravens at Cincinnati Bengals,1:00p,CBS,2024,Ravens,Bengals
+41,10/13/2024,Baltimore Ravens vs. Washington Commanders,1:00p,CBS,2024,Ravens,Commanders
+42,10/21/2024,Baltimore Ravens at Tampa Bay Buccaneers,8:15p,ESPN,2024,Ravens,Buccaneers
+43,10/27/2024,Baltimore Ravens at Cleveland Browns,1:00p,CBS,2024,Ravens,Browns
+44,11/3/2024,Baltimore Ravens vs. Denver Broncos,1:00p,CBS,2024,Ravens,Broncos
+45,11/7/2024,Baltimore Ravens vs. Cincinnati Bengals,8:15p,Prime Video,2024,Ravens,Bengals
+46,11/17/2024,Baltimore Ravens at Pittsburgh Steelers,1:00p,CBS,2024,Ravens,Steelers
+47,11/25/2024,Baltimore Ravens at Los Angeles Chargers,8:15p,ESPN*,2024,Ravens,Chargers
+48,12/1/2024,Baltimore Ravens vs. Philadelphia Eagles,4:25p,CBS,2024,Ravens,Eagles
+49,,Week 14 bye,,,2024,Ravens,bye
+50,12/15/2024,Baltimore Ravens at New York Giants,1:00p,CBS,2024,Ravens,Giants
+51,12/21/2024,Baltimore Ravens vs. Pittsburgh Steelers,4:30p,FOX,2024,Ravens,Steelers
+52,12/25/2024,Baltimore Ravens at Houston Texans,4:30p,Netflix,2024,Ravens,Texans
+53,1/5/2025,Baltimore Ravens vs. Cleveland Browns,TBD,TBD,2024,Ravens,Browns
+54,9/8/2024,Buffalo Bills vs. Arizona Cardinals,1:00p,CBS,2024,Bills,Cardinals
+55,9/12/2024,Buffalo Bills at Miami Dolphins,8:15p,Prime Video,2024,Bills,Dolphins
+56,9/23/2024,Buffalo Bills vs. Jacksonville Jaguars,7:30p,ESPN,2024,Bills,Jaguars
+57,9/29/2024,Buffalo Bills at Baltimore Ravens,8:20p,NBC,2024,Bills,Ravens
+58,10/6/2024,Buffalo Bills at Houston Texans,1:00p,CBS,2024,Bills,Texans
+59,10/14/2024,Buffalo Bills at New York Jets,8:15p,ESPN,2024,Bills,Jets
+60,10/20/2024,Buffalo Bills vs. Tennessee Titans,1:00p,CBS,2024,Bills,Titans
+61,10/27/2024,Buffalo Bills at Seattle Seahawks,4:05p,FOX,2024,Bills,Seahawks
+62,11/3/2024,Buffalo Bills vs. Miami Dolphins,1:00p,CBS,2024,Bills,Dolphins
+63,11/10/2024,Buffalo Bills at Indianapolis Colts,1:00p,CBS,2024,Bills,Colts
+64,11/17/2024,Buffalo Bills vs. Kansas City Chiefs,4:25p,CBS,2024,Bills,Chiefs
+65,,Week 12 bye,,,2024,Bills,bye
+66,12/1/2024,Buffalo Bills vs. San Francisco 49ers,8:20p,NBC*,2024,Bills,49ers
+67,12/8/2024,Buffalo Bills at Los Angeles Rams,4:25p,FOX,2024,Bills,Rams
+68,12/15/2024,Buffalo Bills at Detroit Lions,4:25p,CBS,2024,Bills,Lions
+69,12/22/2024,Buffalo Bills vs. New England Patriots,1:00p,CBS,2024,Bills,Patriots
+70,12/29/2024,Buffalo Bills vs. New York Jets,1:00p,CBS,2024,Bills,Jets
+71,1/5/2025,Buffalo Bills at New England Patriots,TBD,TBD,2024,Bills,Patriots
+72,9/8/2024,Carolina Panthers at New Orleans Saints,1:00p,FOX,2024,Panthers,Saints
+73,9/15/2024,Carolina Panthers vs. Los Angeles Chargers,1:00p,CBS,2024,Panthers,Chargers
+74,9/22/2024,Carolina Panthers at Las Vegas Raiders,4:05p,CBS,2024,Panthers,Raiders
+75,9/29/2024,Carolina Panthers vs. Cincinnati Bengals,1:00p,FOX,2024,Panthers,Bengals
+76,10/6/2024,Carolina Panthers at Chicago Bears,1:00p,FOX,2024,Panthers,Bears
+77,10/13/2024,Carolina Panthers vs. Atlanta Falcons,4:25p,FOX,2024,Panthers,Falcons
+78,10/20/2024,Carolina Panthers at Washington Commanders,4:05p,CBS,2024,Panthers,Commanders
+79,10/27/2024,Carolina Panthers at Denver Broncos,4:25p,CBS,2024,Panthers,Broncos
+80,11/3/2024,Carolina Panthers vs. New Orleans Saints,1:00p,CBS,2024,Panthers,Saints
+81,11/10/2024,Carolina Panthers vs. New York Giants (Germany),9:30a,NFLN,2024,Panthers,(Germany)
+82,,Week 11 bye,,,2024,Panthers,bye
+83,11/24/2024,Carolina Panthers vs. Kansas City Chiefs,1:00p,CBS,2024,Panthers,Chiefs
+84,12/1/2024,Carolina Panthers vs. Tampa Bay Buccaneers,4:05p,FOX,2024,Panthers,Buccaneers
+85,12/8/2024,Carolina Panthers at Philadelphia Eagles,1:00p,FOX,2024,Panthers,Eagles
+86,12/15/2024,Carolina Panthers vs. Dallas Cowboys,1:00p,FOX,2024,Panthers,Cowboys
+87,12/22/2024,Carolina Panthers vs. Arizona Cardinals,1:00p,FOX,2024,Panthers,Cardinals
+88,12/29/2024,Carolina Panthers at Tampa Bay Buccaneers,1:00p,CBS,2024,Panthers,Buccaneers
+89,1/5/2025,Carolina Panthers at Atlanta Falcons,TBD,TBD,2024,Panthers,Falcons
+90,9/8/2024,Chicago Bears vs. Tennessee Titans,1:00p,FOX,2024,Bears,Titans
+91,9/15/2024,Chicago Bears at Houston Texans,8:20p,NBC,2024,Bears,Texans
+92,9/22/2024,Chicago Bears at Indianapolis Colts,1:00p,CBS,2024,Bears,Colts
+93,9/29/2024,Chicago Bears vs. Los Angeles Rams,1:00p,FOX,2024,Bears,Rams
+94,10/6/2024,Chicago Bears vs. Carolina Panthers,1:00p,FOX,2024,Bears,Panthers
+95,10/13/2024,Chicago Bears vs. Jacksonville Jaguars (London),9:30a,NFLN,2024,Bears,(London)
+96,,Week 7 bye,,,2024,Bears,bye
+97,10/27/2024,Chicago Bears at Washington Commanders,1:00p,CBS,2024,Bears,Commanders
+98,11/3/2024,Chicago Bears at Arizona Cardinals,4:05p,CBS,2024,Bears,Cardinals
+99,11/10/2024,Chicago Bears vs. New England Patriots,1:00p,FOX,2024,Bears,Patriots
+100,11/17/2024,Chicago Bears vs. Green Bay Packers,1:00p,FOX,2024,Bears,Packers
+101,11/24/2024,Chicago Bears vs. Minnesota Vikings,1:00p,FOX,2024,Bears,Vikings
+102,11/28/2024,Chicago Bears at Detroit Lions,12:30p,CBS,2024,Bears,Lions
+103,12/8/2024,Chicago Bears at San Francisco 49ers,4:25p,FOX,2024,Bears,49ers
+104,12/16/2024,Chicago Bears at Minnesota Vikings,8:00p,ABC*,2024,Bears,Vikings
+105,12/22/2024,Chicago Bears vs. Detroit Lions,1:00p,FOX,2024,Bears,Lions
+106,12/26/2024,Chicago Bears vs. Seattle Seahawks,8:15p,Prime Video*,2024,Bears,Seahawks
+107,1/5/2025,Chicago Bears at Green Bay Packers,TBD,TBD,2024,Bears,Packers
+108,9/8/2024,Cincinnati Bengals vs. New England Patriots,1:00p,CBS,2024,Bengals,Patriots
+109,9/15/2024,Cincinnati Bengals at Kansas City Chiefs,4:25p,CBS,2024,Bengals,Chiefs
+110,9/23/2024,Cincinnati Bengals vs. Washington Commanders,8:15p,ABC,2024,Bengals,Commanders
+111,9/29/2024,Cincinnati Bengals at Carolina Panthers,1:00p,FOX,2024,Bengals,Panthers
+112,10/6/2024,Cincinnati Bengals vs. Baltimore Ravens,1:00p,CBS,2024,Bengals,Ravens
+113,10/13/2024,Cincinnati Bengals at New York Giants,8:20p,NBC*,2024,Bengals,Giants
+114,10/20/2024,Cincinnati Bengals at Cleveland Browns,1:00p,CBS,2024,Bengals,Browns
+115,10/27/2024,Cincinnati Bengals vs. Philadelphia Eagles,4:25p,CBS,2024,Bengals,Eagles
+116,11/3/2024,Cincinnati Bengals vs. Las Vegas Raiders,1:00p,FOX,2024,Bengals,Raiders
+117,11/7/2024,Cincinnati Bengals at Baltimore Ravens,8:15p,Prime Video,2024,Bengals,Ravens
+118,11/17/2024,Cincinnati Bengals at Los Angeles Chargers,4:25p,CBS,2024,Bengals,Chargers
+119,,Week 12 bye,,,2024,Bengals,bye
+120,12/1/2024,Cincinnati Bengals vs. Pittsburgh Steelers,1:00p,CBS,2024,Bengals,Steelers
+121,12/9/2024,Cincinnati Bengals at Dallas Cowboys,8:15p,ESPN/ABC*,2024,Bengals,Cowboys
+122,12/15/2024,Cincinnati Bengals at Tennessee Titans,1:00p,FOX,2024,Bengals,Titans
+123,12/19/2024,Cincinnati Bengals vs. Cleveland Browns,8:15p,Prime Video*,2024,Bengals,Browns
+124,12/28/2024,Cincinnati Bengals vs. Denver Broncos,TBD,TBD,2024,Bengals,Broncos
+125,1/5/2025,Cincinnati Bengals at Pittsburgh Steelers,TBD,TBD,2024,Bengals,Steelers
+126,9/8/2024,Cleveland Browns vs. Dallas Cowboys,4:25p,FOX,2024,Browns,Cowboys
+127,9/15/2024,Cleveland Browns at Jacksonville Jaguars,1:00p,CBS,2024,Browns,Jaguars
+128,9/22/2024,Cleveland Browns vs. New York Giants,1:00p,FOX,2024,Browns,Giants
+129,9/29/2024,Cleveland Browns at Las Vegas Raiders,4:25p,CBS,2024,Browns,Raiders
+130,10/6/2024,Cleveland Browns at Washington Commanders,1:00p,FOX,2024,Browns,Commanders
+131,10/13/2024,Cleveland Browns at Philadelphia Eagles,1:00p,FOX,2024,Browns,Eagles
+132,10/20/2024,Cleveland Browns vs. Cincinnati Bengals,1:00p,CBS,2024,Browns,Bengals
+133,10/27/2024,Cleveland Browns vs. Baltimore Ravens,1:00p,CBS,2024,Browns,Ravens
+134,11/3/2024,Cleveland Browns vs. Los Angeles Chargers,1:00p,CBS,2024,Browns,Chargers
+135,,Week 10 bye,,,2024,Browns,bye
+136,11/17/2024,Cleveland Browns at New Orleans Saints,1:00p,FOX,2024,Browns,Saints
+137,11/21/2024,Cleveland Browns vs. Pittsburgh Steelers,8:15p,Prime Video,2024,Browns,Steelers
+138,12/2/2024,Cleveland Browns at Denver Broncos,8:15p,ESPN*,2024,Browns,Broncos
+139,12/8/2024,Cleveland Browns at Pittsburgh Steelers,1:00p,CBS,2024,Browns,Steelers
+140,12/15/2024,Cleveland Browns vs. Kansas City Chiefs,1:00p,CBS,2024,Browns,Chiefs
+141,12/19/2024,Cleveland Browns at Cincinnati Bengals,8:15p,Prime Video*,2024,Browns,Bengals
+142,12/29/2024,Cleveland Browns vs. Miami Dolphins,8:20p,NBC*,2024,Browns,Dolphins
+143,1/5/2025,Cleveland Browns at Baltimore Ravens,TBD,TBD,2024,Browns,Ravens
+144,9/8/2024,Dallas Cowboys at Cleveland Browns,4:25p,FOX,2024,Cowboys,Browns
+145,9/15/2024,Dallas Cowboys vs. New Orleans Saints,1:00p,FOX,2024,Cowboys,Saints
+146,9/22/2024,Dallas Cowboys vs. Baltimore Ravens,4:25p,FOX,2024,Cowboys,Ravens
+147,9/26/2024,Dallas Cowboys at New York Giants,8:15p,Prime Video,2024,Cowboys,Giants
+148,10/6/2024,Dallas Cowboys at Pittsburgh Steelers,8:20p,NBC*,2024,Cowboys,Steelers
+149,10/13/2024,Dallas Cowboys vs. Detroit Lions,4:25p,FOX,2024,Cowboys,Lions
+150,,Week 7 bye,,,2024,Cowboys,bye
+151,10/27/2024,Dallas Cowboys at San Francisco 49ers,8:20p,NBC*,2024,Cowboys,49ers
+152,11/3/2024,Dallas Cowboys at Atlanta Falcons,1:00p,FOX,2024,Cowboys,Falcons
+153,11/10/2024,Dallas Cowboys vs. Philadelphia Eagles,4:25p,CBS,2024,Cowboys,Eagles
+154,11/18/2024,Dallas Cowboys vs. Houston Texans,8:15p,ESPN,2024,Cowboys,Texans
+155,11/24/2024,Dallas Cowboys at Washington Commanders,1:00p,FOX,2024,Cowboys,Commanders
+156,11/28/2024,Dallas Cowboys vs. New York Giants,4:30p,FOX,2024,Cowboys,Giants
+157,12/9/2024,Dallas Cowboys vs. Cincinnati Bengals,8:15p,ESPN/ABC*,2024,Cowboys,Bengals
+158,12/15/2024,Dallas Cowboys at Carolina Panthers,1:00p,FOX,2024,Cowboys,Panthers
+159,12/22/2024,Dallas Cowboys vs. Tampa Bay Buccaneers,8:20p,NBC*,2024,Cowboys,Buccaneers
+160,12/29/2024,Dallas Cowboys at Philadelphia Eagles,4:25p,FOX,2024,Cowboys,Eagles
+161,1/5/2025,Dallas Cowboys vs. Washington Commanders,TBD,TBD,2024,Cowboys,Commanders
+162,9/8/2024,Denver Broncos at Seattle Seahawks,4:05p,CBS,2024,Broncos,Seahawks
+163,9/15/2024,Denver Broncos vs. Pittsburgh Steelers,4:25p,CBS,2024,Broncos,Steelers
+164,9/22/2024,Denver Broncos at Tampa Bay Buccaneers,1:00p,FOX,2024,Broncos,Buccaneers
+165,9/29/2024,Denver Broncos at New York Jets,1:00p,CBS,2024,Broncos,Jets
+166,10/6/2024,Denver Broncos vs. Las Vegas Raiders,4:05p,FOX,2024,Broncos,Raiders
+167,10/13/2024,Denver Broncos vs. Los Angeles Chargers,4:05p,CBS,2024,Broncos,Chargers
+168,10/17/2024,Denver Broncos at New Orleans Saints,8:15p,Prime Video,2024,Broncos,Saints
+169,10/27/2024,Denver Broncos vs. Carolina Panthers,4:25p,CBS,2024,Broncos,Panthers
+170,11/3/2024,Denver Broncos at Baltimore Ravens,1:00p,CBS,2024,Broncos,Ravens
+171,11/10/2024,Denver Broncos at Kansas City Chiefs,1:00p,CBS,2024,Broncos,Chiefs
+172,11/17/2024,Denver Broncos vs. Atlanta Falcons,4:05p,FOX,2024,Broncos,Falcons
+173,11/24/2024,Denver Broncos at Las Vegas Raiders,4:05p,CBS,2024,Broncos,Raiders
+174,12/2/2024,Denver Broncos vs. Cleveland Browns,8:15p,ESPN*,2024,Broncos,Browns
+175,,Week 14 bye,,,2024,Broncos,bye
+176,12/15/2024,Denver Broncos vs. Indianapolis Colts,4:25p,CBS,2024,Broncos,Colts
+177,12/22/2024,Denver Broncos at Los Angeles Chargers,4:05p,FOX,2024,Broncos,Chargers
+178,12/28/2024,Denver Broncos at Cincinnati Bengals,TBD,TBD,2024,Broncos,Bengals
+179,1/5/2025,Denver Broncos vs. Kansas City Chiefs,TBD,TBD,2024,Broncos,Chiefs
+180,9/8/2024,Detroit Lions vs. Los Angeles Rams,8:20p,NBC,2024,Lions,Rams
+181,9/15/2024,Detroit Lions vs. Tampa Bay Buccaneers,1:00p,FOX,2024,Lions,Buccaneers
+182,9/22/2024,Detroit Lions at Arizona Cardinals,4:25p,FOX,2024,Lions,Cardinals
+183,9/30/2024,Detroit Lions vs. Seattle Seahawks,8:15p,ABC,2024,Lions,Seahawks
+184,,Week 5 bye,,,2024,Lions,bye
+185,10/13/2024,Detroit Lions at Dallas Cowboys,4:25p,FOX,2024,Lions,Cowboys
+186,10/20/2024,Detroit Lions at Minnesota Vikings,1:00p,FOX,2024,Lions,Vikings
+187,10/27/2024,Detroit Lions vs. Tennessee Titans,1:00p,FOX,2024,Lions,Titans
+188,11/3/2024,Detroit Lions at Green Bay Packers,4:25p,FOX,2024,Lions,Packers
+189,11/10/2024,Detroit Lions at Houston Texans,8:20p,NBC*,2024,Lions,Texans
+190,11/17/2024,Detroit Lions vs. Jacksonville Jaguars,1:00p,CBS,2024,Lions,Jaguars
+191,11/24/2024,Detroit Lions at Indianapolis Colts,1:00p,FOX,2024,Lions,Colts
+192,11/28/2024,Detroit Lions vs. Chicago Bears,12:30p,CBS,2024,Lions,Bears
+193,12/5/2024,Detroit Lions vs. Green Bay Packers,8:15p,Prime Video*,2024,Lions,Packers
+194,12/15/2024,Detroit Lions vs. Buffalo Bills,4:25p,CBS,2024,Lions,Bills
+195,12/22/2024,Detroit Lions at Chicago Bears,1:00p,FOX,2024,Lions,Bears
+196,12/30/2024,Detroit Lions at San Francisco 49ers,8:15p,ESPN/ABC*,2024,Lions,49ers
+197,1/5/2025,Detroit Lions vs. Minnesota Vikings,TBD,TBD,2024,Lions,Vikings
+198,9/6/2024,Green Bay Packers at Philadelphia Eagles (Brazil),8:15p,Peacock,2024,Packers,(Brazil)
+199,9/15/2024,Green Bay Packers vs. Indianapolis Colts,1:00p,FOX,2024,Packers,Colts
+200,9/22/2024,Green Bay Packers at Tennessee Titans,1:00p,FOX,2024,Packers,Titans
+201,9/29/2024,Green Bay Packers vs. Minnesota Vikings,1:00p,CBS,2024,Packers,Vikings
+202,10/6/2024,Green Bay Packers at Los Angeles Rams,4:25p,CBS,2024,Packers,Rams
+203,10/13/2024,Green Bay Packers vs. Arizona Cardinals,1:00p,FOX,2024,Packers,Cardinals
+204,10/20/2024,Green Bay Packers vs. Houston Texans,1:00p,CBS,2024,Packers,Texans
+205,10/27/2024,Green Bay Packers at Jacksonville Jaguars,1:00p,FOX,2024,Packers,Jaguars
+206,11/3/2024,Green Bay Packers vs. Detroit Lions,4:25p,FOX,2024,Packers,Lions
+207,,Week 10 bye,,,2024,Packers,bye
+208,11/17/2024,Green Bay Packers at Chicago Bears,1:00p,FOX,2024,Packers,Bears
+209,11/24/2024,Green Bay Packers vs. San Francisco 49ers,4:25p,FOX,2024,Packers,49ers
+210,11/28/2024,Green Bay Packers vs. Miami Dolphins,8:20p,NBC,2024,Packers,Dolphins
+211,12/5/2024,Green Bay Packers at Detroit Lions,8:15p,Prime Video*,2024,Packers,Lions
+212,12/15/2024,Green Bay Packers at Seattle Seahawks,8:20p,NBC*,2024,Packers,Seahawks
+213,12/23/2024,Green Bay Packers vs. New Orleans Saints,8:15p,ESPN*,2024,Packers,Saints
+214,12/29/2024,Green Bay Packers at Minnesota Vikings,1:00p,FOX,2024,Packers,Vikings
+215,1/5/2025,Green Bay Packers vs. Chicago Bears,TBD,TBD,2024,Packers,Bears
+216,9/8/2024,Houston Texans at Indianapolis Colts,1:00p,CBS,2024,Texans,Colts
+217,9/15/2024,Houston Texans vs. Chicago Bears,8:20p,NBC,2024,Texans,Bears
+218,9/22/2024,Houston Texans at Minnesota Vikings,1:00p,CBS,2024,Texans,Vikings
+219,9/29/2024,Houston Texans vs. Jacksonville Jaguars,1:00p,CBS,2024,Texans,Jaguars
+220,10/6/2024,Houston Texans vs. Buffalo Bills,1:00p,CBS,2024,Texans,Bills
+221,10/13/2024,Houston Texans at New England Patriots,1:00p,CBS,2024,Texans,Patriots
+222,10/20/2024,Houston Texans at Green Bay Packers,1:00p,CBS,2024,Texans,Packers
+223,10/27/2024,Houston Texans vs. Indianapolis Colts,1:00p,CBS,2024,Texans,Colts
+224,10/31/2024,Houston Texans at New York Jets,8:15p,Prime Video,2024,Texans,Jets
+225,11/10/2024,Houston Texans vs. Detroit Lions,8:20p,NBC*,2024,Texans,Lions
+226,11/18/2024,Houston Texans at Dallas Cowboys,8:15p,ESPN,2024,Texans,Cowboys
+227,11/24/2024,Houston Texans vs. Tennessee Titans,1:00p,CBS,2024,Texans,Titans
+228,12/1/2024,Houston Texans at Jacksonville Jaguars,1:00p,FOX,2024,Texans,Jaguars
+229,,Week 14 bye,,,2024,Texans,bye
+230,12/15/2024,Houston Texans vs. Miami Dolphins,1:00p,CBS,2024,Texans,Dolphins
+231,12/21/2024,Houston Texans at Kansas City Chiefs,1:00p,NBC,2024,Texans,Chiefs
+232,12/25/2024,Houston Texans vs. Baltimore Ravens,4:30p,Netflix,2024,Texans,Ravens
+233,1/5/2025,Houston Texans at Tennessee Titans,TBD,TBD,2024,Texans,Titans
+234,9/8/2024,Indianapolis Colts vs. Houston Texans,1:00p,CBS,2024,Colts,Texans
+235,9/15/2024,Indianapolis Colts at Green Bay Packers,1:00p,FOX,2024,Colts,Packers
+236,9/22/2024,Indianapolis Colts vs. Chicago Bears,1:00p,CBS,2024,Colts,Bears
+237,9/29/2024,Indianapolis Colts vs. Pittsburgh Steelers,1:00p,CBS,2024,Colts,Steelers
+238,10/6/2024,Indianapolis Colts at Jacksonville Jaguars,1:00p,CBS,2024,Colts,Jaguars
+239,10/13/2024,Indianapolis Colts at Tennessee Titans,1:00p,CBS,2024,Colts,Titans
+240,10/20/2024,Indianapolis Colts vs. Miami Dolphins,1:00p,FOX,2024,Colts,Dolphins
+241,10/27/2024,Indianapolis Colts at Houston Texans,1:00p,CBS,2024,Colts,Texans
+242,11/3/2024,Indianapolis Colts at Minnesota Vikings,1:00p,CBS,2024,Colts,Vikings
+243,11/10/2024,Indianapolis Colts vs. Buffalo Bills,1:00p,CBS,2024,Colts,Bills
+244,11/17/2024,Indianapolis Colts at New York Jets,8:20p,NBC*,2024,Colts,Jets
+245,11/24/2024,Indianapolis Colts vs. Detroit Lions,1:00p,FOX,2024,Colts,Lions
+246,12/1/2024,Indianapolis Colts at New England Patriots,1:00p,CBS,2024,Colts,Patriots
+247,,Week 14 bye,,,2024,Colts,bye
+248,12/15/2024,Indianapolis Colts at Denver Broncos,4:25p,CBS,2024,Colts,Broncos
+249,12/22/2024,Indianapolis Colts vs. Tennessee Titans,1:00p,CBS,2024,Colts,Titans
+250,12/28/2024,Indianapolis Colts at New York Giants,TBD,TBD,2024,Colts,Giants
+251,1/5/2025,Indianapolis Colts vs. Jacksonville Jaguars,TBD,TBD,2024,Colts,Jaguars
+252,9/8/2024,Jacksonville Jaguars at Miami Dolphins,1:00p,CBS,2024,Jaguars,Dolphins
+253,9/15/2024,Jacksonville Jaguars vs. Cleveland Browns,1:00p,CBS,2024,Jaguars,Browns
+254,9/23/2024,Jacksonville Jaguars at Buffalo Bills,7:30p,ESPN,2024,Jaguars,Bills
+255,9/29/2024,Jacksonville Jaguars at Houston Texans,1:00p,CBS,2024,Jaguars,Texans
+256,10/6/2024,Jacksonville Jaguars vs. Indianapolis Colts,1:00p,CBS,2024,Jaguars,Colts
+257,10/13/2024,Jacksonville Jaguars at Chicago Bears (London),9:30a,NFLN,2024,Jaguars,(London)
+258,10/20/2024,Jacksonville Jaguars vs. New England Patriots (London),9:30a,NFLN,2024,Jaguars,(London)
+259,10/27/2024,Jacksonville Jaguars vs. Green Bay Packers,1:00p,FOX,2024,Jaguars,Packers
+260,11/3/2024,Jacksonville Jaguars at Philadelphia Eagles,8:20p,NBC*,2024,Jaguars,Eagles
+261,11/10/2024,Jacksonville Jaguars vs. Minnesota Vikings,1:00p,FOX,2024,Jaguars,Vikings
+262,11/17/2024,Jacksonville Jaguars at Detroit Lions,1:00p,CBS,2024,Jaguars,Lions
+263,,Week 12 bye,,,2024,Jaguars,bye
+264,12/1/2024,Jacksonville Jaguars vs. Houston Texans,1:00p,FOX,2024,Jaguars,Texans
+265,12/8/2024,Jacksonville Jaguars at Tennessee Titans,1:00p,CBS,2024,Jaguars,Titans
+266,12/15/2024,Jacksonville Jaguars vs. New York Jets,1:00p,FOX,2024,Jaguars,Jets
+267,12/22/2024,Jacksonville Jaguars at Las Vegas Raiders,4:25p,CBS,2024,Jaguars,Raiders
+268,12/29/2024,Jacksonville Jaguars vs. Tennessee Titans,1:00p,CBS,2024,Jaguars,Titans
+269,1/5/2025,Jacksonville Jaguars at Indianapolis Colts,TBD,TBD,2024,Jaguars,Colts
+270,9/5/2024,Kansas City Chiefs vs. Baltimore Ravens,8:20p,NBC,2024,Chiefs,Ravens
+271,9/15/2024,Kansas City Chiefs vs. Cincinnati Bengals,4:25p,CBS,2024,Chiefs,Bengals
+272,9/22/2024,Kansas City Chiefs at Atlanta Falcons,8:20p,NBC,2024,Chiefs,Falcons
+273,9/29/2024,Kansas City Chiefs at Los Angeles Chargers,4:25p,CBS,2024,Chiefs,Chargers
+274,10/7/2024,Kansas City Chiefs vs. New Orleans Saints,8:15p,ESPN,2024,Chiefs,Saints
+275,,Week 6 bye,,,2024,Chiefs,bye
+276,10/20/2024,Kansas City Chiefs at San Francisco 49ers,4:25p,FOX,2024,Chiefs,49ers
+277,10/27/2024,Kansas City Chiefs at Las Vegas Raiders,4:25p,CBS,2024,Chiefs,Raiders
+278,11/4/2024,Kansas City Chiefs vs. Tampa Bay Buccaneers,8:15p,ESPN,2024,Chiefs,Buccaneers
+279,11/10/2024,Kansas City Chiefs vs. Denver Broncos,1:00p,CBS,2024,Chiefs,Broncos
+280,11/17/2024,Kansas City Chiefs at Buffalo Bills,4:25p,CBS,2024,Chiefs,Bills
+281,11/24/2024,Kansas City Chiefs at Carolina Panthers,1:00p,CBS,2024,Chiefs,Panthers
+282,11/29/2024,Kansas City Chiefs vs. Las Vegas Raiders,3:00p,Prime Video,2024,Chiefs,Raiders
+283,12/8/2024,Kansas City Chiefs vs. Los Angeles Chargers,8:20p,NBC*,2024,Chiefs,Chargers
+284,12/15/2024,Kansas City Chiefs at Cleveland Browns,1:00p,CBS,2024,Chiefs,Browns
+285,12/21/2024,Kansas City Chiefs vs. Houston Texans,1:00p,NBC,2024,Chiefs,Texans
+286,12/25/2024,Kansas City Chiefs at Pittsburgh Steelers,1:00p,Netflix,2024,Chiefs,Steelers
+287,1/5/2025,Kansas City Chiefs at Denver Broncos,TBD,TBD,2024,Chiefs,Broncos
+288,9/8/2024,Las Vegas Raiders at Los Angeles Chargers,4:05p,CBS,2024,Raiders,Chargers
+289,9/15/2024,Las Vegas Raiders at Baltimore Ravens,1:00p,CBS,2024,Raiders,Ravens
+290,9/22/2024,Las Vegas Raiders vs. Carolina Panthers,4:05p,CBS,2024,Raiders,Panthers
+291,9/29/2024,Las Vegas Raiders vs. Cleveland Browns,4:25p,CBS,2024,Raiders,Browns
+292,10/6/2024,Las Vegas Raiders at Denver Broncos,4:05p,FOX,2024,Raiders,Broncos
+293,10/13/2024,Las Vegas Raiders vs. Pittsburgh Steelers,4:05p,CBS,2024,Raiders,Steelers
+294,10/20/2024,Las Vegas Raiders at Los Angeles Rams,4:05p,CBS,2024,Raiders,Rams
+295,10/27/2024,Las Vegas Raiders vs. Kansas City Chiefs,4:25p,CBS,2024,Raiders,Chiefs
+296,11/3/2024,Las Vegas Raiders at Cincinnati Bengals,1:00p,FOX,2024,Raiders,Bengals
+297,,Week 10 bye,,,2024,Raiders,bye
+298,11/17/2024,Las Vegas Raiders at Miami Dolphins,1:00p,CBS,2024,Raiders,Dolphins
+299,11/24/2024,Las Vegas Raiders vs. Denver Broncos,4:05p,CBS,2024,Raiders,Broncos
+300,11/29/2024,Las Vegas Raiders at Kansas City Chiefs,3:00p,Prime Video,2024,Raiders,Chiefs
+301,12/8/2024,Las Vegas Raiders at Tampa Bay Buccaneers,1:00p,CBS,2024,Raiders,Buccaneers
+302,12/16/2024,Las Vegas Raiders vs. Atlanta Falcons,8:30p,ESPN*,2024,Raiders,Falcons
+303,12/22/2024,Las Vegas Raiders vs. Jacksonville Jaguars,4:25p,CBS,2024,Raiders,Jaguars
+304,12/29/2024,Las Vegas Raiders at New Orleans Saints,1:00p,FOX,2024,Raiders,Saints
+305,1/5/2025,Las Vegas Raiders vs. Los Angeles Chargers,TBD,TBD,2024,Raiders,Chargers
+306,9/8/2024,Los Angeles Chargers vs. Las Vegas Raiders,4:05p,CBS,2024,Chargers,Raiders
+307,9/15/2024,Los Angeles Chargers at Carolina Panthers,1:00p,CBS,2024,Chargers,Panthers
+308,9/22/2024,Los Angeles Chargers at Pittsburgh Steelers,1:00p,CBS,2024,Chargers,Steelers
+309,9/29/2024,Los Angeles Chargers vs. Kansas City Chiefs,4:25p,CBS,2024,Chargers,Chiefs
+310,,Week 5 bye,,,2024,Chargers,bye
+311,10/13/2024,Los Angeles Chargers at Denver Broncos,4:05p,CBS,2024,Chargers,Broncos
+312,10/21/2024,Los Angeles Chargers at Arizona Cardinals,9:00p,ESPN+,2024,Chargers,Cardinals
+313,10/27/2024,Los Angeles Chargers vs. New Orleans Saints,4:05p,FOX,2024,Chargers,Saints
+314,11/3/2024,Los Angeles Chargers at Cleveland Browns,1:00p,CBS,2024,Chargers,Browns
+315,11/10/2024,Los Angeles Chargers vs. Tennessee Titans,4:05p,FOX,2024,Chargers,Titans
+316,11/17/2024,Los Angeles Chargers vs. Cincinnati Bengals,4:25p,CBS,2024,Chargers,Bengals
+317,11/25/2024,Los Angeles Chargers vs. Baltimore Ravens,8:15p,ESPN*,2024,Chargers,Ravens
+318,12/1/2024,Los Angeles Chargers at Atlanta Falcons,1:00p,CBS,2024,Chargers,Falcons
+319,12/8/2024,Los Angeles Chargers at Kansas City Chiefs,8:20p,NBC*,2024,Chargers,Chiefs
+320,12/15/2024,Los Angeles Chargers vs. Tampa Bay Buccaneers,4:25p,FOX,2024,Chargers,Buccaneers
+321,12/22/2024,Los Angeles Chargers vs. Denver Broncos,4:05p,FOX,2024,Chargers,Broncos
+322,12/28/2024,Los Angeles Chargers at New England Patriots,TBD,TBD,2024,Chargers,Patriots
+323,1/5/2025,Los Angeles Chargers at Las Vegas Raiders,TBD,TBD,2024,Chargers,Raiders
+324,9/8/2024,Los Angeles Rams at Detroit Lions,8:20p,NBC,2024,Angeles,Lions
+325,9/15/2024,Los Angeles Rams at Arizona Cardinals,4:05p,FOX,2024,Angeles,Cardinals
+326,9/22/2024,Los Angeles Rams vs. San Francisco 49ers,4:25p,FOX,2024,Angeles,49ers
+327,9/29/2024,Los Angeles Rams at Chicago Bears,1:00p,FOX,2024,Angeles,Bears
+328,10/6/2024,Los Angeles Rams vs. Green Bay Packers,4:25p,CBS,2024,Angeles,Packers
+329,,Week 6 bye,,,2024,Angeles,bye
+330,10/20/2024,Los Angeles Rams vs. Las Vegas Raiders,4:05p,CBS,2024,Angeles,Raiders
+331,10/24/2024,Los Angeles Rams vs. Minnesota Vikings,8:15p,Prime Video,2024,Angeles,Vikings
+332,11/3/2024,Los Angeles Rams at Seattle Seahawks,4:25p,FOX,2024,Angeles,Seahawks
+333,11/11/2024,Los Angeles Rams vs. Miami Dolphins,8:15p,ESPN,2024,Angeles,Dolphins
+334,11/17/2024,Los Angeles Rams at New England Patriots,1:00p,FOX,2024,Angeles,Patriots
+335,11/24/2024,Los Angeles Rams vs. Philadelphia Eagles,8:20p,NBC*,2024,Angeles,Eagles
+336,12/1/2024,Los Angeles Rams at New Orleans Saints,4:05p,FOX,2024,Angeles,Saints
+337,12/8/2024,Los Angeles Rams vs. Buffalo Bills,4:25p,FOX,2024,Angeles,Bills
+338,12/12/2024,Los Angeles Rams at San Francisco 49ers,8:15p,Prime Video*,2024,Angeles,49ers
+339,12/22/2024,Los Angeles Rams at New York Jets,1:00p,CBS,2024,Angeles,Jets
+340,12/28/2024,Los Angeles Rams vs. Arizona Cardinals,TBD,TBD,2024,Angeles,Cardinals
+341,1/5/2025,Los Angeles Rams vs. Seattle Seahawks,TBD,TBD,2024,Angeles,Seahawks
+342,9/8/2024,Miami Dolphins vs. Jacksonville Jaguars,1:00p,CBS,2024,Dolphins,Jaguars
+343,9/12/2024,Miami Dolphins vs. Buffalo Bills,8:15p,Prime Video,2024,Dolphins,Bills
+344,9/22/2024,Miami Dolphins at Seattle Seahawks,4:05p,CBS,2024,Dolphins,Seahawks
+345,9/30/2024,Miami Dolphins vs. Tennessee Titans,7:30p,ESPN,2024,Dolphins,Titans
+346,10/6/2024,Miami Dolphins at New England Patriots,1:00p,FOX,2024,Dolphins,Patriots
+347,,Week 6 bye,,,2024,Dolphins,bye
+348,10/20/2024,Miami Dolphins at Indianapolis Colts,1:00p,FOX,2024,Dolphins,Colts
+349,10/27/2024,Miami Dolphins vs. Arizona Cardinals,1:00p,FOX,2024,Dolphins,Cardinals
+350,11/3/2024,Miami Dolphins at Buffalo Bills,1:00p,CBS,2024,Dolphins,Bills
+351,11/11/2024,Miami Dolphins at Los Angeles Rams,8:15p,ESPN,2024,Dolphins,Rams
+352,11/17/2024,Miami Dolphins vs. Las Vegas Raiders,1:00p,CBS,2024,Dolphins,Raiders
+353,11/24/2024,Miami Dolphins vs. New England Patriots,1:00p,CBS,2024,Dolphins,Patriots
+354,11/28/2024,Miami Dolphins at Green Bay Packers,8:20p,NBC,2024,Dolphins,Packers
+355,12/8/2024,Miami Dolphins vs. New York Jets,1:00p,CBS,2024,Dolphins,Jets
+356,12/15/2024,Miami Dolphins at Houston Texans,1:00p,CBS,2024,Dolphins,Texans
+357,12/22/2024,Miami Dolphins vs. San Francisco 49ers,4:25p,CBS,2024,Dolphins,49ers
+358,12/29/2024,Miami Dolphins at Cleveland Browns,8:20p,NBC*,2024,Dolphins,Browns
+359,1/5/2025,Miami Dolphins at New York Jets,TBD,TBD,2024,Dolphins,Jets
+360,9/8/2024,Minnesota Vikings at New York Giants,1:00p,FOX,2024,Vikings,Giants
+361,9/15/2024,Minnesota Vikings vs. San Francisco 49ers,1:00p,CBS,2024,Vikings,49ers
+362,9/22/2024,Minnesota Vikings vs. Houston Texans,1:00p,CBS,2024,Vikings,Texans
+363,9/29/2024,Minnesota Vikings at Green Bay Packers,1:00p,CBS,2024,Vikings,Packers
+364,10/6/2024,Minnesota Vikings vs. New York Jets (London),9:30a,NFLN,2024,Vikings,(London)
+365,,Week 6 bye,,,2024,Vikings,bye
+366,10/20/2024,Minnesota Vikings vs. Detroit Lions,1:00p,FOX,2024,Vikings,Lions
+367,10/24/2024,Minnesota Vikings at Los Angeles Rams,8:15p,Prime Video,2024,Vikings,Rams
+368,11/3/2024,Minnesota Vikings vs. Indianapolis Colts,1:00p,CBS,2024,Vikings,Colts
+369,11/10/2024,Minnesota Vikings at Jacksonville Jaguars,1:00p,FOX,2024,Vikings,Jaguars
+370,11/17/2024,Minnesota Vikings at Tennessee Titans,1:00p,CBS,2024,Vikings,Titans
+371,11/24/2024,Minnesota Vikings at Chicago Bears,1:00p,FOX,2024,Vikings,Bears
+372,12/1/2024,Minnesota Vikings vs. Arizona Cardinals,1:00p,FOX,2024,Vikings,Cardinals
+373,12/8/2024,Minnesota Vikings vs. Atlanta Falcons,1:00p,FOX,2024,Vikings,Falcons
+374,12/16/2024,Minnesota Vikings vs. Chicago Bears,8:00p,ABC*,2024,Vikings,Bears
+375,12/22/2024,Minnesota Vikings at Seattle Seahawks,4:05p,FOX,2024,Vikings,Seahawks
+376,12/29/2024,Minnesota Vikings vs. Green Bay Packers,1:00p,FOX,2024,Vikings,Packers
+377,1/5/2025,Minnesota Vikings at Detroit Lions,TBD,TBD,2024,Vikings,Lions
+378,9/8/2024,New England Patriots at Cincinnati Bengals,1:00p,CBS,2024,Patriots,Bengals
+379,9/15/2024,New England Patriots vs. Seattle Seahawks,1:00p,FOX,2024,Patriots,Seahawks
+380,9/19/2024,New England Patriots at New York Jets,8:15p,Prime Video,2024,Patriots,Jets
+381,9/29/2024,New England Patriots at San Francisco 49ers,4:05p,FOX,2024,Patriots,49ers
+382,10/6/2024,New England Patriots vs. Miami Dolphins,1:00p,FOX,2024,Patriots,Dolphins
+383,10/13/2024,New England Patriots vs. Houston Texans,1:00p,CBS,2024,Patriots,Texans
+384,10/20/2024,New England Patriots at Jacksonville Jaguars (London),9:30a,NFLN,2024,Patriots,(London)
+385,10/27/2024,New England Patriots vs. New York Jets,1:00p,CBS,2024,Patriots,Jets
+386,11/3/2024,New England Patriots at Tennessee Titans,1:00p,FOX,2024,Patriots,Titans
+387,11/10/2024,New England Patriots at Chicago Bears,1:00p,FOX,2024,Patriots,Bears
+388,11/17/2024,New England Patriots vs. Los Angeles Rams,1:00p,FOX,2024,Patriots,Rams
+389,11/24/2024,New England Patriots at Miami Dolphins,1:00p,CBS,2024,Patriots,Dolphins
+390,12/1/2024,New England Patriots vs. Indianapolis Colts,1:00p,CBS,2024,Patriots,Colts
+391,,Week 14 bye,,,2024,Patriots,bye
+392,12/15/2024,New England Patriots at Arizona Cardinals,4:25p,CBS,2024,Patriots,Cardinals
+393,12/22/2024,New England Patriots at Buffalo Bills,1:00p,CBS,2024,Patriots,Bills
+394,12/28/2024,New England Patriots vs. Los Angeles Chargers,TBD,TBD,2024,Patriots,Chargers
+395,1/5/2025,New England Patriots vs. Buffalo Bills,TBD,TBD,2024,Patriots,Bills
+396,9/8/2024,New Orleans Saints vs. Carolina Panthers,1:00p,FOX,2024,Saints,Panthers
+397,9/15/2024,New Orleans Saints at Dallas Cowboys,1:00p,FOX,2024,Saints,Cowboys
+398,9/22/2024,New Orleans Saints vs. Philadelphia Eagles,1:00p,FOX,2024,Saints,Eagles
+399,9/29/2024,New Orleans Saints at Atlanta Falcons,1:00p,FOX,2024,Saints,Falcons
+400,10/7/2024,New Orleans Saints at Kansas City Chiefs,8:15p,ESPN,2024,Saints,Chiefs
+401,10/13/2024,New Orleans Saints vs. Tampa Bay Buccaneers,1:00p,FOX,2024,Saints,Buccaneers
+402,10/17/2024,New Orleans Saints vs. Denver Broncos,8:15p,Prime Video,2024,Saints,Broncos
+403,10/27/2024,New Orleans Saints at Los Angeles Chargers,4:05p,FOX,2024,Saints,Chargers
+404,11/3/2024,New Orleans Saints at Carolina Panthers,1:00p,CBS,2024,Saints,Panthers
+405,11/10/2024,New Orleans Saints vs. Atlanta Falcons,1:00p,FOX,2024,Saints,Falcons
+406,11/17/2024,New Orleans Saints vs. Cleveland Browns,1:00p,FOX,2024,Saints,Browns
+407,,Week 12 bye,,,2024,Saints,bye
+408,12/1/2024,New Orleans Saints vs. Los Angeles Rams,4:05p,FOX,2024,Saints,Rams
+409,12/8/2024,New Orleans Saints at New York Giants,1:00p,FOX,2024,Saints,Giants
+410,12/15/2024,New Orleans Saints vs. Washington Commanders,1:00p,FOX,2024,Saints,Commanders
+411,12/23/2024,New Orleans Saints at Green Bay Packers,8:15p,ESPN*,2024,Saints,Packers
+412,12/29/2024,New Orleans Saints vs. Las Vegas Raiders,1:00p,FOX,2024,Saints,Raiders
+413,1/5/2025,New Orleans Saints at Tampa Bay Buccaneers,TBD,TBD,2024,Saints,Buccaneers
+414,9/8/2024,New York Giants vs. Minnesota Vikings,1:00p,FOX,2024,Giants,Vikings
+415,9/15/2024,New York Giants at Washington Commanders,1:00p,FOX,2024,Giants,Commanders
+416,9/22/2024,New York Giants at Cleveland Browns,1:00p,FOX,2024,Giants,Browns
+417,9/26/2024,New York Giants vs. Dallas Cowboys,8:15p,Prime Video,2024,Giants,Cowboys
+418,10/6/2024,New York Giants at Seattle Seahawks,4:25p,CBS,2024,Giants,Seahawks
+419,10/13/2024,New York Giants vs. Cincinnati Bengals,8:20p,NBC*,2024,Giants,Bengals
+420,10/20/2024,New York Giants vs. Philadelphia Eagles,1:00p,FOX,2024,Giants,Eagles
+421,10/28/2024,New York Giants at Pittsburgh Steelers,8:15p,ESPN/ABC,2024,Giants,Steelers
+422,11/3/2024,New York Giants vs. Washington Commanders,1:00p,FOX,2024,Giants,Commanders
+423,11/10/2024,New York Giants at Carolina Panthers (Germany),9:30a,NFLN,2024,Giants,(Germany)
+424,,Week 11 bye,,,2024,Giants,bye
+425,11/24/2024,New York Giants vs. Tampa Bay Buccaneers,1:00p,CBS,2024,Giants,Buccaneers
+426,11/28/2024,New York Giants at Dallas Cowboys,4:30p,FOX,2024,Giants,Cowboys
+427,12/8/2024,New York Giants vs. New Orleans Saints,1:00p,FOX,2024,Giants,Saints
+428,12/15/2024,New York Giants vs. Baltimore Ravens,1:00p,CBS,2024,Giants,Ravens
+429,12/22/2024,New York Giants at Atlanta Falcons,1:00p,FOX,2024,Giants,Falcons
+430,12/28/2024,New York Giants vs. Indianapolis Colts,TBD,TBD,2024,Giants,Colts
+431,1/5/2025,New York Giants at Philadelphia Eagles,TBD,TBD,2024,Giants,Eagles
+432,9/9/2024,New York Jets at San Francisco 49ers,8:15p,ESPN/ABC,2024,Jets,49ers
+433,9/15/2024,New York Jets at Tennessee Titans,1:00p,CBS,2024,Jets,Titans
+434,9/19/2024,New York Jets vs. New England Patriots,8:15p,Prime Video,2024,Jets,Patriots
+435,9/29/2024,New York Jets vs. Denver Broncos,1:00p,CBS,2024,Jets,Broncos
+436,10/6/2024,New York Jets at Minnesota Vikings (London),9:30a,NFLN,2024,Jets,(London)
+437,10/14/2024,New York Jets vs. Buffalo Bills,8:15p,ESPN,2024,Jets,Bills
+438,10/20/2024,New York Jets at Pittsburgh Steelers,8:20p,NBC*,2024,Jets,Steelers
+439,10/27/2024,New York Jets at New England Patriots,1:00p,CBS,2024,Jets,Patriots
+440,10/31/2024,New York Jets vs. Houston Texans,8:15p,Prime Video,2024,Jets,Texans
+441,11/10/2024,New York Jets at Arizona Cardinals,4:25p,CBS,2024,Jets,Cardinals
+442,11/17/2024,New York Jets vs. Indianapolis Colts,8:20p,NBC*,2024,Jets,Colts
+443,,Week 12 bye,,,2024,Jets,bye
+444,12/1/2024,New York Jets vs. Seattle Seahawks,1:00p,FOX,2024,Jets,Seahawks
+445,12/8/2024,New York Jets at Miami Dolphins,1:00p,CBS,2024,Jets,Dolphins
+446,12/15/2024,New York Jets at Jacksonville Jaguars,1:00p,FOX,2024,Jets,Jaguars
+447,12/22/2024,New York Jets vs. Los Angeles Rams,1:00p,CBS,2024,Jets,Rams
+448,12/29/2024,New York Jets at Buffalo Bills,1:00p,CBS,2024,Jets,Bills
+449,1/5/2025,New York Jets vs. Miami Dolphins,TBD,TBD,2024,Jets,Dolphins
+450,9/6/2024,Philadelphia Eagles vs. Green Bay Packers (Brazil),8:15p,Peacock,2024,Eagles,(Brazil)
+451,9/16/2024,Philadelphia Eagles vs. Atlanta Falcons,8:15p,ESPN,2024,Eagles,Falcons
+452,9/22/2024,Philadelphia Eagles at New Orleans Saints,1:00p,FOX,2024,Eagles,Saints
+453,9/29/2024,Philadelphia Eagles at Tampa Bay Buccaneers,1:00p,FOX,2024,Eagles,Buccaneers
+454,,Week 5 bye,,,2024,Eagles,bye
+455,10/13/2024,Philadelphia Eagles vs. Cleveland Browns,1:00p,FOX,2024,Eagles,Browns
+456,10/20/2024,Philadelphia Eagles at New York Giants,1:00p,FOX,2024,Eagles,Giants
+457,10/27/2024,Philadelphia Eagles at Cincinnati Bengals,4:25p,CBS,2024,Eagles,Bengals
+458,11/3/2024,Philadelphia Eagles vs. Jacksonville Jaguars,8:20p,NBC*,2024,Eagles,Jaguars
+459,11/10/2024,Philadelphia Eagles at Dallas Cowboys,4:25p,CBS,2024,Eagles,Cowboys
+460,11/14/2024,Philadelphia Eagles vs. Washington Commanders,8:15p,Prime Video,2024,Eagles,Commanders
+461,11/24/2024,Philadelphia Eagles at Los Angeles Rams,8:20p,NBC*,2024,Eagles,Rams
+462,12/1/2024,Philadelphia Eagles at Baltimore Ravens,4:25p,CBS,2024,Eagles,Ravens
+463,12/8/2024,Philadelphia Eagles vs. Carolina Panthers,1:00p,FOX,2024,Eagles,Panthers
+464,12/15/2024,Philadelphia Eagles vs. Pittsburgh Steelers,4:25p,FOX,2024,Eagles,Steelers
+465,12/22/2024,Philadelphia Eagles at Washington Commanders,1:00p,FOX,2024,Eagles,Commanders
+466,12/29/2024,Philadelphia Eagles vs. Dallas Cowboys,4:25p,FOX,2024,Eagles,Cowboys
+467,1/5/2025,Philadelphia Eagles vs. New York Giants,TBD,TBD,2024,Eagles,Giants
+468,9/8/2024,Pittsburgh Steelers at Atlanta Falcons,1:00p,FOX,2024,Steelers,Falcons
+469,9/15/2024,Pittsburgh Steelers at Denver Broncos,4:25p,CBS,2024,Steelers,Broncos
+470,9/22/2024,Pittsburgh Steelers vs. Los Angeles Chargers,1:00p,CBS,2024,Steelers,Chargers
+471,9/29/2024,Pittsburgh Steelers at Indianapolis Colts,1:00p,CBS,2024,Steelers,Colts
+472,10/6/2024,Pittsburgh Steelers vs. Dallas Cowboys,8:20p,NBC*,2024,Steelers,Cowboys
+473,10/13/2024,Pittsburgh Steelers at Las Vegas Raiders,4:05p,CBS,2024,Steelers,Raiders
+474,10/20/2024,Pittsburgh Steelers vs. New York Jets,8:20p,NBC*,2024,Steelers,Jets
+475,10/28/2024,Pittsburgh Steelers vs. New York Giants,8:15p,ESPN/ABC,2024,Steelers,Giants
+476,,Week 9 bye,,,2024,Steelers,bye
+477,11/10/2024,Pittsburgh Steelers at Washington Commanders,1:00p,CBS,2024,Steelers,Commanders
+478,11/17/2024,Pittsburgh Steelers vs. Baltimore Ravens,1:00p,CBS,2024,Steelers,Ravens
+479,11/21/2024,Pittsburgh Steelers at Cleveland Browns,8:15p,Prime Video,2024,Steelers,Browns
+480,12/1/2024,Pittsburgh Steelers at Cincinnati Bengals,1:00p,CBS,2024,Steelers,Bengals
+481,12/8/2024,Pittsburgh Steelers vs. Cleveland Browns,1:00p,CBS,2024,Steelers,Browns
+482,12/15/2024,Pittsburgh Steelers at Philadelphia Eagles,4:25p,FOX,2024,Steelers,Eagles
+483,12/21/2024,Pittsburgh Steelers at Baltimore Ravens,4:30p,FOX,2024,Steelers,Ravens
+484,12/25/2024,Pittsburgh Steelers vs. Kansas City Chiefs,1:00p,Netflix,2024,Steelers,Chiefs
+485,1/5/2025,Pittsburgh Steelers vs. Cincinnati Bengals,TBD,TBD,2024,Steelers,Bengals
+486,9/9/2024,San Francisco 49ers vs. New York Jets,8:15p,ESPN/ABC,2024,49ers,Jets
+487,9/15/2024,San Francisco 49ers at Minnesota Vikings,1:00p,CBS,2024,49ers,Vikings
+488,9/22/2024,San Francisco 49ers at Los Angeles Rams,4:25p,FOX,2024,49ers,Rams
+489,9/29/2024,San Francisco 49ers vs. New England Patriots,4:05p,FOX,2024,49ers,Patriots
+490,10/6/2024,San Francisco 49ers vs. Arizona Cardinals,4:05p,FOX,2024,49ers,Cardinals
+491,10/10/2024,San Francisco 49ers at Seattle Seahawks,8:15p,Prime Video,2024,49ers,Seahawks
+492,10/20/2024,San Francisco 49ers vs. Kansas City Chiefs,4:25p,FOX,2024,49ers,Chiefs
+493,10/27/2024,San Francisco 49ers vs. Dallas Cowboys,8:20p,NBC*,2024,49ers,Cowboys
+494,,Week 9 bye,,,2024,49ers,bye
+495,11/10/2024,San Francisco 49ers at Tampa Bay Buccaneers,1:00p,FOX,2024,49ers,Buccaneers
+496,11/17/2024,San Francisco 49ers vs. Seattle Seahawks,4:05p,FOX,2024,49ers,Seahawks
+497,11/24/2024,San Francisco 49ers at Green Bay Packers,4:25p,FOX,2024,49ers,Packers
+498,12/1/2024,San Francisco 49ers at Buffalo Bills,8:20p,NBC*,2024,49ers,Bills
+499,12/8/2024,San Francisco 49ers vs. Chicago Bears,4:25p,FOX,2024,49ers,Bears
+500,12/12/2024,San Francisco 49ers vs. Los Angeles Rams,8:15p,Prime Video*,2024,49ers,Rams
+501,12/22/2024,San Francisco 49ers at Miami Dolphins,4:25p,CBS,2024,49ers,Dolphins
+502,12/30/2024,San Francisco 49ers vs. Detroit Lions,8:15p,ESPN/ABC*,2024,49ers,Lions
+503,1/5/2025,San Francisco 49ers at Arizona Cardinals,TBD,TBD,2024,49ers,Cardinals
+504,9/8/2024,Seattle Seahawks vs. Denver Broncos,4:05p,CBS,2024,Seahawks,Broncos
+505,9/15/2024,Seattle Seahawks at New England Patriots,1:00p,FOX,2024,Seahawks,Patriots
+506,9/22/2024,Seattle Seahawks vs. Miami Dolphins,4:05p,CBS,2024,Seahawks,Dolphins
+507,9/30/2024,Seattle Seahawks at Detroit Lions,8:15p,ABC,2024,Seahawks,Lions
+508,10/6/2024,Seattle Seahawks vs. New York Giants,4:25p,CBS,2024,Seahawks,Giants
+509,10/10/2024,Seattle Seahawks vs. San Francisco 49ers,8:15p,Prime Video,2024,Seahawks,49ers
+510,10/20/2024,Seattle Seahawks at Atlanta Falcons,1:00p,FOX,2024,Seahawks,Falcons
+511,10/27/2024,Seattle Seahawks vs. Buffalo Bills,4:05p,FOX,2024,Seahawks,Bills
+512,11/3/2024,Seattle Seahawks vs. Los Angeles Rams,4:25p,FOX,2024,Seahawks,Rams
+513,,Week 10 bye,,,2024,Seahawks,bye
+514,11/17/2024,Seattle Seahawks at San Francisco 49ers,4:05p,FOX,2024,Seahawks,49ers
+515,11/24/2024,Seattle Seahawks vs. Arizona Cardinals,4:25p,FOX,2024,Seahawks,Cardinals
+516,12/1/2024,Seattle Seahawks at New York Jets,1:00p,FOX,2024,Seahawks,Jets
+517,12/8/2024,Seattle Seahawks at Arizona Cardinals,4:05p,CBS,2024,Seahawks,Cardinals
+518,12/15/2024,Seattle Seahawks vs. Green Bay Packers,8:20p,NBC*,2024,Seahawks,Packers
+519,12/22/2024,Seattle Seahawks vs. Minnesota Vikings,4:05p,FOX,2024,Seahawks,Vikings
+520,12/26/2024,Seattle Seahawks at Chicago Bears,8:15p,Prime Video*,2024,Seahawks,Bears
+521,1/5/2025,Seattle Seahawks at Los Angeles Rams,TBD,TBD,2024,Seahawks,Rams
+522,9/8/2024,Tampa Bay Buccaneers vs. Washington Commanders,4:25p,FOX,2024,Buccaneers,Commanders
+523,9/15/2024,Tampa Bay Buccaneers at Detroit Lions,1:00p,FOX,2024,Buccaneers,Lions
+524,9/22/2024,Tampa Bay Buccaneers vs. Denver Broncos,1:00p,FOX,2024,Buccaneers,Broncos
+525,9/29/2024,Tampa Bay Buccaneers vs. Philadelphia Eagles,1:00p,FOX,2024,Buccaneers,Eagles
+526,10/3/2024,Tampa Bay Buccaneers at Atlanta Falcons,8:15p,Prime Video,2024,Buccaneers,Falcons
+527,10/13/2024,Tampa Bay Buccaneers at New Orleans Saints,1:00p,FOX,2024,Buccaneers,Saints
+528,10/21/2024,Tampa Bay Buccaneers vs. Baltimore Ravens,8:15p,ESPN,2024,Buccaneers,Ravens
+529,10/27/2024,Tampa Bay Buccaneers vs. Atlanta Falcons,1:00p,FOX,2024,Buccaneers,Falcons
+530,11/4/2024,Tampa Bay Buccaneers at Kansas City Chiefs,8:15p,ESPN,2024,Buccaneers,Chiefs
+531,11/10/2024,Tampa Bay Buccaneers vs. San Francisco 49ers,1:00p,FOX,2024,Buccaneers,49ers
+532,,Week 11 bye,,,2024,Buccaneers,bye
+533,11/24/2024,Tampa Bay Buccaneers at New York Giants,1:00p,CBS,2024,Buccaneers,Giants
+534,12/1/2024,Tampa Bay Buccaneers at Carolina Panthers,4:05p,FOX,2024,Buccaneers,Panthers
+535,12/8/2024,Tampa Bay Buccaneers vs. Las Vegas Raiders,1:00p,CBS,2024,Buccaneers,Raiders
+536,12/15/2024,Tampa Bay Buccaneers at Los Angeles Chargers,4:25p,FOX,2024,Buccaneers,Chargers
+537,12/22/2024,Tampa Bay Buccaneers at Dallas Cowboys,8:20p,NBC*,2024,Buccaneers,Cowboys
+538,12/29/2024,Tampa Bay Buccaneers vs. Carolina Panthers,1:00p,CBS,2024,Buccaneers,Panthers
+539,1/5/2025,Tampa Bay Buccaneers vs. New Orleans Saints,TBD,TBD,2024,Buccaneers,Saints
+540,9/8/2024,Tennessee Titans at Chicago Bears,1:00p,FOX,2024,Titans,Bears
+541,9/15/2024,Tennessee Titans vs. New York Jets,1:00p,CBS,2024,Titans,Jets
+542,9/22/2024,Tennessee Titans vs. Green Bay Packers,1:00p,FOX,2024,Titans,Packers
+543,9/30/2024,Tennessee Titans at Miami Dolphins,7:30p,ESPN,2024,Titans,Dolphins
+544,,Week 5 bye,,,2024,Titans,bye
+545,10/13/2024,Tennessee Titans vs. Indianapolis Colts,1:00p,CBS,2024,Titans,Colts
+546,10/20/2024,Tennessee Titans at Buffalo Bills,1:00p,CBS,2024,Titans,Bills
+547,10/27/2024,Tennessee Titans at Detroit Lions,1:00p,FOX,2024,Titans,Lions
+548,11/3/2024,Tennessee Titans vs. New England Patriots,1:00p,FOX,2024,Titans,Patriots
+549,11/10/2024,Tennessee Titans at Los Angeles Chargers,4:05p,FOX,2024,Titans,Chargers
+550,11/17/2024,Tennessee Titans vs. Minnesota Vikings,1:00p,CBS,2024,Titans,Vikings
+551,11/24/2024,Tennessee Titans at Houston Texans,1:00p,CBS,2024,Titans,Texans
+552,12/1/2024,Tennessee Titans at Washington Commanders,1:00p,CBS,2024,Titans,Commanders
+553,12/8/2024,Tennessee Titans vs. Jacksonville Jaguars,1:00p,CBS,2024,Titans,Jaguars
+554,12/15/2024,Tennessee Titans vs. Cincinnati Bengals,1:00p,FOX,2024,Titans,Bengals
+555,12/22/2024,Tennessee Titans at Indianapolis Colts,1:00p,CBS,2024,Titans,Colts
+556,12/29/2024,Tennessee Titans at Jacksonville Jaguars,1:00p,CBS,2024,Titans,Jaguars
+557,1/5/2025,Tennessee Titans vs. Houston Texans,TBD,TBD,2024,Titans,Texans
+558,9/8/2024,Washington Commanders at Tampa Bay Buccaneers,4:25p,FOX,2024,Commanders,Buccaneers
+559,9/15/2024,Washington Commanders vs. New York Giants,1:00p,FOX,2024,Commanders,Giants
+560,9/23/2024,Washington Commanders at Cincinnati Bengals,8:15p,ABC,2024,Commanders,Bengals
+561,9/29/2024,Washington Commanders at Arizona Cardinals,4:05p,FOX,2024,Commanders,Cardinals
+562,10/6/2024,Washington Commanders vs. Cleveland Browns,1:00p,FOX,2024,Commanders,Browns
+563,10/13/2024,Washington Commanders at Baltimore Ravens,1:00p,CBS,2024,Commanders,Ravens
+564,10/20/2024,Washington Commanders vs. Carolina Panthers,4:05p,CBS,2024,Commanders,Panthers
+565,10/27/2024,Washington Commanders vs. Chicago Bears,1:00p,CBS,2024,Commanders,Bears
+566,11/3/2024,Washington Commanders at New York Giants,1:00p,FOX,2024,Commanders,Giants
+567,11/10/2024,Washington Commanders vs. Pittsburgh Steelers,1:00p,CBS,2024,Commanders,Steelers
+568,11/14/2024,Washington Commanders at Philadelphia Eagles,8:15p,Prime Video,2024,Commanders,Eagles
+569,11/24/2024,Washington Commanders vs. Dallas Cowboys,1:00p,FOX,2024,Commanders,Cowboys
+570,12/1/2024,Washington Commanders vs. Tennessee Titans,1:00p,CBS,2024,Commanders,Titans
+571,,Week 14 bye,,,2024,Commanders,bye
+572,12/15/2024,Washington Commanders at New Orleans Saints,1:00p,FOX,2024,Commanders,Saints
+573,12/22/2024,Washington Commanders vs. Philadelphia Eagles,1:00p,FOX,2024,Commanders,Eagles
+574,12/28/2024,Washington Commanders vs. Atlanta Falcons,TBD,TBD,2024,Commanders,Falcons
+575,1/5/2025,Washington Commanders at Dallas Cowboys,TBD,TBD,2024,Commanders,Cowboys
