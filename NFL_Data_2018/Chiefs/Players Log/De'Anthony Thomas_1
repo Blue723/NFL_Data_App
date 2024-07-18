@@ -1,7 +1,7 @@
-,Rk,Date,G#,Week,Age,Tm,Unnamed: 6_level_1,Opp,Result,Int,Tgt,Cmp,Cmp%,Yds,Yds/Cmp,Yds/Tgt,TD,Rat,DADOT,Air,YAC,Bltz,Hrry,QBKD,Sk,Prss,Comb,MTkl,MTkl%,Year
-0,1.0,2018-09-09,1.0,1.0,25.247,KAN,@,LAC,W 38-28,0,0,0,,0.0,,,0.0,,,0.0,0.0,0,0,0,0.0,0,1,0,0.0%,2018
-1,2.0,2018-09-16,2.0,2.0,25.254,KAN,@,PIT,W 42-37,0,0,0,,0.0,,,0.0,,,0.0,0.0,0,0,0,0.0,0,2,0,0.0%,2018
-2,3.0,2018-09-23,3.0,3.0,25.261,KAN,,SFO,W 38-27,0,0,0,,0.0,,,0.0,,,0.0,0.0,0,0,0,0.0,0,0,0,,2018
-3,4.0,2018-10-01,4.0,4.0,25.269,KAN,@,DEN,W 27-23,0,0,0,,0.0,,,0.0,,,0.0,0.0,0,0,0,0.0,0,0,0,,2018
-4,5.0,2018-10-07,5.0,5.0,25.275,KAN,,JAX,W 30-14,0,0,0,,0.0,,,0.0,,,0.0,0.0,0,0,0,0.0,0,1,0,0.0%,2018
-5,,5 Games,,,,,,,5-0-0,0,0,0,,,,,,,,,,0,0,0,0.0,0,4,0,0.0%,2018
+,Rk,Date,G#,Week,Age,Tm,Unnamed: 6_level_1,Opp,Result,Int,Tgt,Cmp,Cmp%,Yds,Yds/Cmp,Yds/Tgt,TD,Rat,DADOT,Air,YAC,Bltz,Hrry,QBKD,Sk,Prss,Comb,MTkl,MTkl%,Year,Position,Player_Name,Team
+0,1.0,2018-09-09,1.0,1.0,25.247,KAN,@,LAC,W 38-28,0,0,0,,0.0,,,0.0,,,0.0,0.0,0,0,0,0.0,0,1,0,0.0%,2018,Running back,De'Anthony Thomas,Chiefs
+1,2.0,2018-09-16,2.0,2.0,25.254,KAN,@,PIT,W 42-37,0,0,0,,0.0,,,0.0,,,0.0,0.0,0,0,0,0.0,0,2,0,0.0%,2018,Running back,De'Anthony Thomas,Chiefs
+2,3.0,2018-09-23,3.0,3.0,25.261,KAN,,SFO,W 38-27,0,0,0,,0.0,,,0.0,,,0.0,0.0,0,0,0,0.0,0,0,0,,2018,Running back,De'Anthony Thomas,Chiefs
+3,4.0,2018-10-01,4.0,4.0,25.269,KAN,@,DEN,W 27-23,0,0,0,,0.0,,,0.0,,,0.0,0.0,0,0,0,0.0,0,0,0,,2018,Running back,De'Anthony Thomas,Chiefs
+4,5.0,2018-10-07,5.0,5.0,25.275,KAN,,JAX,W 30-14,0,0,0,,0.0,,,0.0,,,0.0,0.0,0,0,0,0.0,0,1,0,0.0%,2018,Running back,De'Anthony Thomas,Chiefs
+5,,5 Games,,,,,,,5-0-0,0,0,0,,,,,,,,,,0,0,0,0.0,0,4,0,0.0%,2018,Running back,De'Anthony Thomas,Chiefs

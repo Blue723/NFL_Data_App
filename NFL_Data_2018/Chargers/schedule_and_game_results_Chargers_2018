@@ -1,19 +1,19 @@
 ,Week,Day,Date,Time,Win/Loss,Overtime,Team Record,Home/Away,Opponent,Points Scored,Points Allowed,Offense 1st Down,Total Yards Gained of Offense,Total yards Gained by Passing,Total Yards Gained by Rushing,Offense Turnovers,Defense 1st Down,Total Yards Allowed by Defense,Total Passing Yards Allowed by Defense,Total Rushing Yards Allowed by Defense,Defense Turnovers,Offense,Defense,Sp. Tms,Team,Year
-0,1,Sun,2018-09-09,nan,Loss,0,0-1,home,Kansas City Chiefs,28,38,33,541,418,123,2,19,362,256,106,0,24.31,-13.1,-19.32,Chargers,2018
-1,2,Sun,2018-09-16,nan,Win,0,1-1,away,Buffalo Bills,31,20,21,349,240,109,0,17,293,209,84,2,14.41,1.04,0.51,Chargers,2018
-2,3,Sun,2018-09-23,nan,Loss,0,1-2,away,Los Angeles Rams,23,35,16,356,215,141,2,33,521,350,171,2,10.0,-24.39,0.42,Chargers,2018
-3,4,Sun,2018-09-30,nan,Win,0,2-2,home,San Francisco 49ers,29,27,21,368,242,126,1,22,364,288,76,2,3.06,2.39,-0.5,Chargers,2018
-4,5,Sun,2018-10-07,nan,Win,0,3-2,home,Oakland Raiders,26,10,19,412,333,79,0,14,289,248,41,2,17.22,2.22,0.93,Chargers,2018
-5,6,Sun,2018-10-14,nan,Win,0,4-2,away,Cleveland Browns,38,14,24,449,203,246,1,18,317,214,103,2,13.33,14.57,-4.29,Chargers,2018
-6,7,Sun,2018-10-21,nan,Win,0,5-2,home,Tennessee Titans,20,19,14,344,297,47,0,23,390,226,164,1,13.09,-9.18,-1.39,Chargers,2018
-7,9,Sun,2018-11-04,nan,Win,0,6-2,away,Seattle Seahawks,25,17,18,375,215,160,0,25,356,202,154,1,11.44,-0.78,-6.61,Chargers,2018
-8,10,Sun,2018-11-11,nan,Win,0,7-2,away,Oakland Raiders,20,6,16,335,222,113,1,16,317,203,114,1,9.0,13.18,-7.33,Chargers,2018
-9,11,Sun,2018-11-18,nan,Loss,0,7-3,home,Denver Broncos,22,23,26,479,384,95,2,16,325,217,108,0,9.69,-6.83,-4.09,Chargers,2018
-10,12,Sun,2018-11-25,nan,Win,0,8-3,home,Arizona Cardinals,45,10,30,414,236,178,1,10,149,87,62,1,24.25,13.0,-1.28,Chargers,2018
-11,13,Sun,2018-12-02,nan,Win,0,9-3,away,Pittsburgh Steelers,33,30,22,371,286,85,0,23,336,271,65,1,16.37,-14.79,0.62,Chargers,2018
-12,14,Sun,2018-12-09,nan,Win,0,10-3,home,Cincinnati Bengals,26,21,17,288,203,85,0,19,295,151,144,0,6.81,0.04,-0.02,Chargers,2018
-13,15,Thu,2018-12-13,nan,Win,0,11-3,away,Kansas City Chiefs,29,28,30,407,288,119,2,22,294,234,60,0,21.67,-17.1,-4.16,Chargers,2018
-14,16,Sat,2018-12-22,nan,Loss,0,11-4,home,Baltimore Ravens,10,22,14,198,147,51,3,15,361,202,159,1,-21.26,3.87,1.7,Chargers,2018
-15,17,Sun,2018-12-30,nan,Win,0,12-4,away,Denver Broncos,23,9,17,276,160,116,4,19,370,288,82,4,-6.84,10.32,7.22,Chargers,2018
-16,19,Sun,2019-01-06,nan,Win,0,13-4,away,Baltimore Ravens,23,17,14,243,154,89,1,11,229,139,90,3,-9.17,14.46,-2.32,Chargers,2018
-17,20,Sun,2019-01-13,nan,Loss,0,13-5,away,New England Patriots,28,41,22,335,316,19,2,30,498,343,155,0,11.48,-24.01,-4.22,Chargers,2018
+0,1,Sun,2018-09-09,,Loss,0,0-1,home,Chiefs,28,38,33,541,418,123,2,19,362,256,106,0,24.31,-13.1,-19.32,Chargers,2018
+1,2,Sun,2018-09-16,,Win,0,1-1,away,Bills,31,20,21,349,240,109,0,17,293,209,84,2,14.41,1.04,0.51,Chargers,2018
+2,3,Sun,2018-09-23,,Loss,0,1-2,away,Rams,23,35,16,356,215,141,2,33,521,350,171,2,10.0,-24.39,0.42,Chargers,2018
+3,4,Sun,2018-09-30,,Win,0,2-2,home,49ers,29,27,21,368,242,126,1,22,364,288,76,2,3.06,2.39,-0.5,Chargers,2018
+4,5,Sun,2018-10-07,,Win,0,3-2,home,Raiders,26,10,19,412,333,79,0,14,289,248,41,2,17.22,2.22,0.93,Chargers,2018
+5,6,Sun,2018-10-14,,Win,0,4-2,away,Browns,38,14,24,449,203,246,1,18,317,214,103,2,13.33,14.57,-4.29,Chargers,2018
+6,7,Sun,2018-10-21,,Win,0,5-2,home,Titans,20,19,14,344,297,47,0,23,390,226,164,1,13.09,-9.18,-1.39,Chargers,2018
+7,9,Sun,2018-11-04,,Win,0,6-2,away,Seahawks,25,17,18,375,215,160,0,25,356,202,154,1,11.44,-0.78,-6.61,Chargers,2018
+8,10,Sun,2018-11-11,,Win,0,7-2,away,Raiders,20,6,16,335,222,113,1,16,317,203,114,1,9.0,13.18,-7.33,Chargers,2018
+9,11,Sun,2018-11-18,,Loss,0,7-3,home,Broncos,22,23,26,479,384,95,2,16,325,217,108,0,9.69,-6.83,-4.09,Chargers,2018
+10,12,Sun,2018-11-25,,Win,0,8-3,home,Cardinals,45,10,30,414,236,178,1,10,149,87,62,1,24.25,13.0,-1.28,Chargers,2018
+11,13,Sun,2018-12-02,,Win,0,9-3,away,Steelers,33,30,22,371,286,85,0,23,336,271,65,1,16.37,-14.79,0.62,Chargers,2018
+12,14,Sun,2018-12-09,,Win,0,10-3,home,Bengals,26,21,17,288,203,85,0,19,295,151,144,0,6.81,0.04,-0.02,Chargers,2018
+13,15,Thu,2018-12-13,,Win,0,11-3,away,Chiefs,29,28,30,407,288,119,2,22,294,234,60,0,21.67,-17.1,-4.16,Chargers,2018
+14,16,Sat,2018-12-22,,Loss,0,11-4,home,Ravens,10,22,14,198,147,51,3,15,361,202,159,1,-21.26,3.87,1.7,Chargers,2018
+15,17,Sun,2018-12-30,,Win,0,12-4,away,Broncos,23,9,17,276,160,116,4,19,370,288,82,4,-6.84,10.32,7.22,Chargers,2018
+16,19,Sun,2019-01-06,,Win,0,13-4,away,Ravens,23,17,14,243,154,89,1,11,229,139,90,3,-9.17,14.46,-2.32,Chargers,2018
+17,20,Sun,2019-01-13,,Loss,0,13-5,away,Patriots,28,41,22,335,316,19,2,30,498,343,155,0,11.48,-24.01,-4.22,Chargers,2018

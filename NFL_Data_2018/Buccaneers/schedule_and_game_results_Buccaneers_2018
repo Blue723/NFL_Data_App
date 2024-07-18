@@ -1,17 +1,17 @@
 ,Week,Day,Date,Time,Win/Loss,Overtime,Team Record,Home/Away,Opponent,Points Scored,Points Allowed,Offense 1st Down,Total Yards Gained of Offense,Total yards Gained by Passing,Total Yards Gained by Rushing,Offense Turnovers,Defense 1st Down,Total Yards Allowed by Defense,Total Passing Yards Allowed by Defense,Total Rushing Yards Allowed by Defense,Defense Turnovers,Offense,Defense,Sp. Tms,Team,Year
-0,1,Sun,2018-09-09,nan,Win,0,1-0,away,New Orleans Saints,48,40,26,529,417,112,0,26,475,432,43,2,29.69,-19.83,-4.9,Buccaneers,2018
-1,2,Sun,2018-09-16,nan,Win,0,2-0,home,Philadelphia Eagles,27,21,18,436,393,43,2,24,412,321,91,2,10.11,-5.14,1.42,Buccaneers,2018
-2,3,Mon,2018-09-24,nan,Loss,0,2-1,home,Pittsburgh Steelers,27,30,28,455,392,63,4,22,413,335,78,1,3.18,-9.86,2.73,Buccaneers,2018
-3,4,Sun,2018-09-30,nan,Loss,0,2-2,away,Chicago Bears,10,48,16,311,251,60,3,28,483,344,139,0,-5.14,-33.53,0.24,Buccaneers,2018
-4,6,Sun,2018-10-14,nan,Loss,0,2-3,away,Atlanta Falcons,29,34,30,510,389,121,2,26,417,347,70,0,22.99,-21.03,-2.24,Buccaneers,2018
-5,7,Sun,2018-10-21,nan,Win,1,3-3,home,Cleveland Browns,26,23,34,456,342,114,4,17,305,186,119,1,4.49,7.86,-6.2,Buccaneers,2018
-6,8,Sun,2018-10-28,nan,Loss,0,3-4,away,Cincinnati Bengals,34,37,29,576,450,126,4,21,402,264,138,0,11.69,-14.21,-1.75,Buccaneers,2018
-7,9,Sun,2018-11-04,nan,Loss,0,3-5,away,Carolina Panthers,28,42,23,301,219,82,2,22,407,228,179,0,7.24,-18.42,-2.03,Buccaneers,2018
-8,10,Sun,2018-11-11,nan,Loss,0,3-6,home,Washington Redskins,3,16,29,501,398,103,4,15,286,170,116,0,2.31,-1.74,-10.04,Buccaneers,2018
-9,11,Sun,2018-11-18,nan,Loss,0,3-7,away,New York Giants,35,38,31,510,359,151,4,19,359,196,163,0,19.19,-16.46,-5.52,Buccaneers,2018
-10,12,Sun,2018-11-25,nan,Win,0,4-7,home,San Francisco 49ers,27,9,25,412,304,108,0,23,342,194,148,2,15.23,0.52,1.45,Buccaneers,2018
-11,13,Sun,2018-12-02,nan,Win,0,5-7,home,Carolina Panthers,24,17,18,315,220,95,1,27,444,276,168,4,4.28,-0.03,1.17,Buccaneers,2018
-12,14,Sun,2018-12-09,nan,Loss,0,5-8,home,New Orleans Saints,14,28,20,279,174,105,1,19,298,198,100,2,-1.15,-1.64,-10.68,Buccaneers,2018
-13,15,Sun,2018-12-16,nan,Loss,0,5-9,away,Baltimore Ravens,12,20,12,241,156,85,1,24,370,128,242,2,-6.0,-6.86,2.23,Buccaneers,2018
-14,16,Sun,2018-12-23,nan,Loss,0,5-10,away,Dallas Cowboys,20,27,27,383,320,63,2,16,232,152,80,0,-5.08,0.41,-4.32,Buccaneers,2018
-15,17,Sun,2018-12-30,nan,Loss,0,5-11,home,Atlanta Falcons,32,34,22,433,341,92,1,27,489,380,109,1,14.51,-14.62,0.09,Buccaneers,2018
+0,1,Sun,2018-09-09,,Win,0,1-0,away,Saints,48,40,26,529,417,112,0,26,475,432,43,2,29.69,-19.83,-4.9,Buccaneers,2018
+1,2,Sun,2018-09-16,,Win,0,2-0,home,Eagles,27,21,18,436,393,43,2,24,412,321,91,2,10.11,-5.14,1.42,Buccaneers,2018
+2,3,Mon,2018-09-24,,Loss,0,2-1,home,Steelers,27,30,28,455,392,63,4,22,413,335,78,1,3.18,-9.86,2.73,Buccaneers,2018
+3,4,Sun,2018-09-30,,Loss,0,2-2,away,Bears,10,48,16,311,251,60,3,28,483,344,139,0,-5.14,-33.53,0.24,Buccaneers,2018
+4,6,Sun,2018-10-14,,Loss,0,2-3,away,Falcons,29,34,30,510,389,121,2,26,417,347,70,0,22.99,-21.03,-2.24,Buccaneers,2018
+5,7,Sun,2018-10-21,,Win,1,3-3,home,Browns,26,23,34,456,342,114,4,17,305,186,119,1,4.49,7.86,-6.2,Buccaneers,2018
+6,8,Sun,2018-10-28,,Loss,0,3-4,away,Bengals,34,37,29,576,450,126,4,21,402,264,138,0,11.69,-14.21,-1.75,Buccaneers,2018
+7,9,Sun,2018-11-04,,Loss,0,3-5,away,Panthers,28,42,23,301,219,82,2,22,407,228,179,0,7.24,-18.42,-2.03,Buccaneers,2018
+8,10,Sun,2018-11-11,,Loss,0,3-6,home,Redskins,3,16,29,501,398,103,4,15,286,170,116,0,2.31,-1.74,-10.04,Buccaneers,2018
+9,11,Sun,2018-11-18,,Loss,0,3-7,away,Giants,35,38,31,510,359,151,4,19,359,196,163,0,19.19,-16.46,-5.52,Buccaneers,2018
+10,12,Sun,2018-11-25,,Win,0,4-7,home,49ers,27,9,25,412,304,108,0,23,342,194,148,2,15.23,0.52,1.45,Buccaneers,2018
+11,13,Sun,2018-12-02,,Win,0,5-7,home,Panthers,24,17,18,315,220,95,1,27,444,276,168,4,4.28,-0.03,1.17,Buccaneers,2018
+12,14,Sun,2018-12-09,,Loss,0,5-8,home,Saints,14,28,20,279,174,105,1,19,298,198,100,2,-1.15,-1.64,-10.68,Buccaneers,2018
+13,15,Sun,2018-12-16,,Loss,0,5-9,away,Ravens,12,20,12,241,156,85,1,24,370,128,242,2,-6.0,-6.86,2.23,Buccaneers,2018
+14,16,Sun,2018-12-23,,Loss,0,5-10,away,Cowboys,20,27,27,383,320,63,2,16,232,152,80,0,-5.08,0.41,-4.32,Buccaneers,2018
+15,17,Sun,2018-12-30,,Loss,0,5-11,home,Falcons,32,34,22,433,341,92,1,27,489,380,109,1,14.51,-14.62,0.09,Buccaneers,2018

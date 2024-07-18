@@ -1,0 +1,17 @@
+,Week,Day,Date,Boxscore,Win/Loss,Overtime,Home/Away,Opponent,Team Score,Opponenet Score,Passing Completion,Passing Attempts,Passing Yards,Passing Touchdowns,Passing Interceptions,Passing Sacks,Sack Yards,Passing Yards/Attempts,Net Yards/Attempts,Passing Completion Per.,Passing Rate,Rushing Attempts,Rushing Yards,Rushing Yards/Attempts,Rushing Touchdown,Field Goals Made,Field Goals Attempts,Extra Points Made,Extra Point Attempts,Punts,Total Punt Yards,Third Down Conversions,Third Down Attempts,Fourth Down Conversions,Fourth Down Attemtps,Time of Possesion,Year,Team
+0,1,Mon,2018-09-10,boxscore,Loss,0.0,Home,Jets,17,48,29,52,300,1,5,0,0,5.8,5.8,55.8,39.4,15,39,2.6,0,1,3,2,2,3,152,3,13,0,2,26:53,2018,Lions
+1,2,Sun,2018-09-16,boxscore,Loss,0.0,Away,49ers,27,30,34,53,329,3,0,2,18,6.5,6.0,64.2,100.3,18,98,5.4,0,2,2,3,3,5,211,7,16,0,1,30:26,2018,Lions
+2,3,Sun,2018-09-23,boxscore,Win,0.0,Home,Patriots,26,10,27,36,255,2,1,1,7,7.3,6.9,75.0,101.0,33,159,4.8,0,4,4,2,2,2,90,7,14,0,0,39:15,2018,Lions
+3,4,Sun,2018-09-30,boxscore,Loss,0.0,Away,Cowboys,24,26,24,30,286,2,0,3,21,10.2,8.7,80.0,128.6,20,96,4.8,1,1,1,3,3,4,171,6,11,0,0,29:55,2018,Lions
+4,5,Sun,2018-10-07,boxscore,Win,0.0,Home,Packers,31,23,14,26,170,2,0,3,13,7.0,5.9,53.8,99.8,28,94,3.4,2,1,2,4,4,5,228,5,13,0,0,26:40,2018,Lions
+5,7,Sun,2018-10-21,boxscore,Win,0.0,Away,Dolphins,32,21,18,22,209,2,0,1,8,9.9,9.1,81.8,136.6,35,248,7.1,1,4,4,2,2,1,61,2,8,1,1,33:39,2018,Lions
+6,8,Sun,2018-10-28,boxscore,Loss,0.0,Home,Seahawks,14,28,27,40,297,2,1,3,13,7.8,6.9,67.5,95.5,13,34,2.6,0,0,0,2,2,4,181,6,10,0,0,25:05,2018,Lions
+7,9,Sun,2018-11-04,boxscore,Loss,0.0,Away,Vikings,9,24,25,36,143,0,0,10,56,5.5,3.1,69.4,76.5,24,66,2.8,0,3,3,0,0,5,222,4,15,3,3,36:45,2018,Lions
+8,10,Sun,2018-11-11,boxscore,Loss,0.0,Away,Bears,22,34,25,42,229,2,2,6,45,6.5,4.8,59.5,70.4,24,76,3.2,1,1,1,1,1,4,156,4,15,4,5,32:00,2018,Lions
+9,11,Sun,2018-11-18,boxscore,Win,0.0,Home,Panthers,20,19,23,37,215,1,0,1,5,5.9,5.7,62.2,87.1,26,94,3.6,1,2,2,2,2,6,281,4,12,0,0,31:40,2018,Lions
+10,12,Thu,2018-11-22,boxscore,Loss,0.0,Home,Bears,16,23,28,38,222,0,2,2,14,6.2,5.6,73.7,65.9,24,111,4.6,2,1,1,1,1,5,227,5,14,1,2,32:46,2018,Lions
+11,13,Sun,2018-12-02,boxscore,Loss,0.0,Home,Rams,16,30,20,34,208,1,1,4,37,7.2,5.5,58.8,74.1,26,102,3.9,0,3,3,1,1,6,286,2,12,0,0,31:44,2018,Lions
+12,14,Sun,2018-12-09,boxscore,Win,0.0,Away,Cardinals,17,3,15,23,96,0,0,1,5,4.4,4.0,65.2,73.8,31,122,3.9,1,1,1,2,2,7,317,4,12,0,0,28:16,2018,Lions
+13,15,Sun,2018-12-16,boxscore,Loss,0.0,Away,Bills,13,14,22,29,208,1,0,0,0,7.2,7.2,75.9,106.7,26,105,4.0,1,0,1,1,1,7,317,5,13,0,0,28:54,2018,Lions
+14,16,Sun,2018-12-23,boxscore,Loss,0.0,Home,Vikings,9,27,23,43,137,0,0,3,24,3.7,3.0,53.5,59.9,23,86,3.7,0,3,3,0,0,6,249,4,16,1,3,31:28,2018,Lions
+15,17,Sun,2018-12-30,boxscore,Win,0.0,Away,Packers,31,0,21,33,272,3,0,1,2,8.3,8.0,63.6,119.8,38,130,3.4,1,1,1,4,4,4,161,7,14,1,1,36:54,2018,Lions

@@ -1,0 +1,17 @@
+,Week,Day,Date,Boxscore,Win/Loss,Overtime,Home/Away,Opponent,Team Score,Opponenet Score,Passing Completion,Passing Attempts,Passing Yards,Passing Touchdowns,Passing Interceptions,Passing Sacks,Sack Yards,Passing Yards/Attempts,Net Yards/Attempts,Passing Completion Per.,Passing Rate,Rushing Attempts,Rushing Yards,Rushing Yards/Attempts,Rushing Touchdown,Field Goals Made,Field Goals Attempts,Extra Points Made,Extra Point Attempts,Punts,Total Punt Yards,Third Down Conversions,Third Down Attempts,Fourth Down Conversions,Fourth Down Attemtps,Time of Possesion,Year,Team
+0,1,Mon,2018-09-10,boxscore,Win,0.0,Away,Raiders,33,13,18,33,225,2,0,1,8,7.1,6.6,54.5,96.1,26,140,5.4,0,4,5,3,3,2,117,4,11,0,0,28:29,2018,Rams
+1,2,Sun,2018-09-16,boxscore,Win,0.0,Home,Cardinals,34,0,24,32,342,1,1,2,12,11.1,10.1,75.0,106.5,33,90,2.7,3,1,1,1,1,2,102,8,15,1,3,34:08,2018,Rams
+2,3,Sun,2018-09-23,boxscore,Win,0.0,Home,Chargers,35,23,29,36,350,3,1,1,4,9.8,9.5,80.6,123.4,35,171,4.9,1,0,1,5,5,1,49,8,11,0,0,34:16,2018,Rams
+3,4,Thu,2018-09-27,boxscore,Win,0.0,Home,Vikings,38,31,26,34,456,5,0,1,9,13.7,13.0,76.5,157.5,20,100,5.0,0,1,2,5,5,2,71,1,6,0,1,27:46,2018,Rams
+4,5,Sun,2018-10-07,boxscore,Win,0.0,Away,Seahawks,33,31,23,32,313,1,2,1,8,10.0,9.5,71.9,87.1,30,155,5.2,3,2,2,3,4,1,38,3,9,1,1,29:30,2018,Rams
+5,6,Sun,2018-10-14,boxscore,Win,0.0,Away,Broncos,23,20,14,28,174,0,1,5,27,7.2,5.3,50.0,54.8,39,270,6.9,2,3,4,2,2,3,120,8,17,1,1,35:10,2018,Rams
+6,7,Sun,2018-10-21,boxscore,Win,0.0,Away,49ers,39,10,18,24,193,2,0,1,9,8.4,7.7,75.0,125.9,36,146,4.1,2,3,3,4,4,4,122,5,12,0,0,32:51,2018,Rams
+7,8,Sun,2018-10-28,boxscore,Win,0.0,Home,Packers,29,27,20,36,281,3,0,5,26,8.5,6.9,55.6,108.7,34,135,4.0,0,2,2,1,1,7,316,8,18,1,1,34:10,2018,Rams
+8,9,Sun,2018-11-04,boxscore,Loss,0.0,Away,Saints,35,45,28,40,391,3,1,0,0,9.8,9.8,70.0,115.7,19,92,4.8,1,2,3,3,3,1,47,3,8,0,2,26:19,2018,Rams
+9,10,Sun,2018-11-11,boxscore,Win,0.0,Home,Seahawks,36,31,28,39,307,2,0,2,11,8.2,7.5,71.8,111.8,23,149,6.5,2,3,3,3,3,2,89,5,10,0,0,29:23,2018,Rams
+10,11,Mon,2018-11-19,boxscore,Win,0.0,Home,Chiefs,54,51,31,49,379,4,0,5,34,8.4,7.0,63.3,114.2,21,76,3.6,1,2,2,6,7,4,222,5,14,1,1,30:23,2018,Rams
+11,13,Sun,2018-12-02,boxscore,Win,0.0,Away,Lions,30,16,17,33,195,1,1,2,12,6.3,5.6,51.5,67.1,29,149,5.1,2,3,3,3,3,3,151,5,11,0,0,28:16,2018,Rams
+12,14,Sun,2018-12-09,boxscore,Loss,0.0,Away,Bears,6,15,21,45,162,0,4,3,25,4.2,3.4,46.7,18.9,13,52,4.0,0,2,3,0,0,3,146,3,12,1,3,23:11,2018,Rams
+13,15,Sun,2018-12-16,boxscore,Loss,0.0,Home,Eagles,23,30,35,54,325,0,1,2,14,6.3,5.8,64.8,73.5,18,82,4.6,2,3,3,2,2,3,169,4,12,0,1,28:24,2018,Rams
+14,16,Sun,2018-12-23,boxscore,Win,0.0,Away,Cardinals,31,9,19,24,192,1,0,2,24,9.0,7.4,79.2,113.9,41,269,6.6,3,1,2,4,4,2,103,6,9,0,0,37:04,2018,Rams
+15,17,Sun,2018-12-30,boxscore,Win,0.0,Home,49ers,48,32,17,29,222,4,0,0,0,7.7,7.7,58.6,122.4,42,155,3.7,1,2,2,6,6,3,130,10,16,0,1,31:50,2018,Rams

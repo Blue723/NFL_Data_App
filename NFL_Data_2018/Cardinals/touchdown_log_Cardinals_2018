@@ -1,28 +1,28 @@
-,Rank,Team,Date,Opponent,Win/Loss,Home_Score,Opponenet_Score,Quarter,Distance,Type,Detail
-1,1,Cardinals,2018-09-09,WAS,Loss,6,24,4,2,rush,David Johnson
-2,2,Cardinals,2018-09-23,CHI,Loss,14,16,1,35,pass,Ricky Seals-Jones
-3,3,Cardinals,2018-09-23,CHI,Loss,14,16,1,21,pass,David Johnson
-4,4,Cardinals,2018-09-30,SEA,Loss,17,20,2,1,rush,David Johnson
-5,5,Cardinals,2018-09-30,SEA,Loss,17,20,4,22,pass,Chad Williams
-6,6,Cardinals,2018-10-07,SFO,Win,28,18,1,75,pass,Christian Kirk
-7,7,Cardinals,2018-10-07,SFO,Win,28,18,2,2,rush,David Johnson
-8,8,Cardinals,2018-10-07,SFO,Win,28,18,4,23,fumble,Josh Bynes
-9,9,Cardinals,2018-10-07,SFO,Win,28,18,4,6,rush,David Johnson
-10,10,Cardinals,2018-10-14,MIN,Loss,17,27,2,36,fumble,Budda Baker
-11,11,Cardinals,2018-10-14,MIN,Loss,17,27,4,1,rush,David Johnson
-12,12,Cardinals,2018-10-18,DEN,Loss,10,45,3,4,pass,Larry Fitzgerald
-13,13,Cardinals,2018-10-28,SFO,Win,18,15,4,13,pass,Larry Fitzgerald
-14,14,Cardinals,2018-10-28,SFO,Win,18,15,4,9,pass,Christian Kirk
-15,15,Cardinals,2018-11-11,KAN,Loss,14,26,1,9,pass,David Johnson
-16,16,Cardinals,2018-11-11,KAN,Loss,14,26,3,1,rush,David Johnson
-17,17,Cardinals,2018-11-18,OAK,Loss,21,23,1,18,pass,Larry Fitzgerald
-18,18,Cardinals,2018-11-18,OAK,Loss,21,23,1,59,pass,Christian Kirk
-19,19,Cardinals,2018-11-18,OAK,Loss,21,23,4,5,pass,Larry Fitzgerald
-20,20,Cardinals,2018-11-25,LAC,Loss,10,45,1,25,pass,Larry Fitzgerald
-21,21,Cardinals,2018-12-02,GNB,Win,20,17,2,6,rush,Chase Edmonds
-22,22,Cardinals,2018-12-02,GNB,Win,20,17,3,8,rush,Chase Edmonds
-23,23,Cardinals,2018-12-16,ATL,Loss,14,40,1,1,rush,David Johnson
-24,24,Cardinals,2018-12-16,ATL,Loss,14,40,4,7,pass,Trent Sherfield
-25,25,Cardinals,2018-12-23,LAR,Loss,9,31,2,32,pass,David Johnson
-26,26,Cardinals,2018-12-30,SEA,Loss,24,27,2,15,pass,Larry Fitzgerald
-27,27,Cardinals,2018-12-30,SEA,Loss,24,27,3,0,blocked punt,Dennis Gardeck
+,Rank,Team,Date,Opponent,Win/Loss,Home_Score,Opponenet_Score,Quarter,Distance,Type,Detail,Year
+1,1,Cardinals,2018-09-09,WAS,Loss,6,24,4,2,rush,David Johnson,2018
+2,2,Cardinals,2018-09-23,CHI,Loss,14,16,1,35,pass,Ricky Seals-Jones,2018
+3,3,Cardinals,2018-09-23,CHI,Loss,14,16,1,21,pass,David Johnson,2018
+4,4,Cardinals,2018-09-30,SEA,Loss,17,20,2,1,rush,David Johnson,2018
+5,5,Cardinals,2018-09-30,SEA,Loss,17,20,4,22,pass,Chad Williams,2018
+6,6,Cardinals,2018-10-07,SFO,Win,28,18,1,75,pass,Christian Kirk,2018
+7,7,Cardinals,2018-10-07,SFO,Win,28,18,2,2,rush,David Johnson,2018
+8,8,Cardinals,2018-10-07,SFO,Win,28,18,4,23,fumble,Josh Bynes,2018
+9,9,Cardinals,2018-10-07,SFO,Win,28,18,4,6,rush,David Johnson,2018
+10,10,Cardinals,2018-10-14,MIN,Loss,17,27,2,36,fumble,Budda Baker,2018
+11,11,Cardinals,2018-10-14,MIN,Loss,17,27,4,1,rush,David Johnson,2018
+12,12,Cardinals,2018-10-18,DEN,Loss,10,45,3,4,pass,Larry Fitzgerald,2018
+13,13,Cardinals,2018-10-28,SFO,Win,18,15,4,13,pass,Larry Fitzgerald,2018
+14,14,Cardinals,2018-10-28,SFO,Win,18,15,4,9,pass,Christian Kirk,2018
+15,15,Cardinals,2018-11-11,KAN,Loss,14,26,1,9,pass,David Johnson,2018
+16,16,Cardinals,2018-11-11,KAN,Loss,14,26,3,1,rush,David Johnson,2018
+17,17,Cardinals,2018-11-18,OAK,Loss,21,23,1,18,pass,Larry Fitzgerald,2018
+18,18,Cardinals,2018-11-18,OAK,Loss,21,23,1,59,pass,Christian Kirk,2018
+19,19,Cardinals,2018-11-18,OAK,Loss,21,23,4,5,pass,Larry Fitzgerald,2018
+20,20,Cardinals,2018-11-25,LAC,Loss,10,45,1,25,pass,Larry Fitzgerald,2018
+21,21,Cardinals,2018-12-02,GNB,Win,20,17,2,6,rush,Chase Edmonds,2018
+22,22,Cardinals,2018-12-02,GNB,Win,20,17,3,8,rush,Chase Edmonds,2018
+23,23,Cardinals,2018-12-16,ATL,Loss,14,40,1,1,rush,David Johnson,2018
+24,24,Cardinals,2018-12-16,ATL,Loss,14,40,4,7,pass,Trent Sherfield,2018
+25,25,Cardinals,2018-12-23,LAR,Loss,9,31,2,32,pass,David Johnson,2018
+26,26,Cardinals,2018-12-30,SEA,Loss,24,27,2,15,pass,Larry Fitzgerald,2018
+27,27,Cardinals,2018-12-30,SEA,Loss,24,27,3,0,blocked punt,Dennis Gardeck,2018

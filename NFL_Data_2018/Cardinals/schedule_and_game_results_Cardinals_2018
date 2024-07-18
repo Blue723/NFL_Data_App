@@ -1,17 +1,17 @@
 ,Week,Day,Date,Time,Win/Loss,Overtime,Team Record,Home/Away,Opponent,Points Scored,Points Allowed,Offense 1st Down,Total Yards Gained of Offense,Total yards Gained by Passing,Total Yards Gained by Rushing,Offense Turnovers,Defense 1st Down,Total Yards Allowed by Defense,Total Passing Yards Allowed by Defense,Total Rushing Yards Allowed by Defense,Defense Turnovers,Offense,Defense,Sp. Tms,Team,Year
-0,1,Sun,2018-09-09,nan,Loss,0,0-1,home,Washington Redskins,6,24,14,213,145,68,2,30,429,247,182,1,-9.94,-16.72,7.08,Cardinals,2018
-1,2,Sun,2018-09-16,nan,Loss,0,0-2,away,Los Angeles Rams,0,34,5,137,83,54,1,24,432,342,90,1,-17.5,-18.11,3.56,Cardinals,2018
-2,3,Sun,2018-09-23,nan,Loss,0,0-3,home,Chicago Bears,14,16,13,221,168,53,4,21,316,194,122,2,-6.07,2.63,1.68,Cardinals,2018
-3,4,Sun,2018-09-30,nan,Loss,0,0-4,home,Seattle Seahawks,17,20,18,263,171,92,1,19,331,160,171,0,1.27,-1.31,-1.43,Cardinals,2018
-4,5,Sun,2018-10-07,nan,Win,0,1-4,away,San Francisco 49ers,28,18,10,220,164,56,0,33,447,300,147,5,-3.94,10.35,4.12,Cardinals,2018
-5,6,Sun,2018-10-14,nan,Loss,0,1-5,away,Minnesota Vikings,17,27,16,268,208,60,2,20,411,216,195,2,-14.2,3.32,-0.88,Cardinals,2018
-6,7,Thu,2018-10-18,nan,Loss,0,1-6,home,Denver Broncos,10,45,14,223,154,69,5,15,309,178,131,1,-33.3,-4.56,2.09,Cardinals,2018
-7,8,Sun,2018-10-28,nan,Win,0,2-6,home,San Francisco 49ers,18,15,20,321,233,88,2,16,267,160,107,0,6.06,3.16,-2.98,Cardinals,2018
-8,10,Sun,2018-11-11,nan,Loss,0,2-7,away,Kansas City Chiefs,14,26,21,260,166,94,2,20,330,212,118,0,-8.96,-7.53,0.25,Cardinals,2018
-9,11,Sun,2018-11-18,nan,Loss,0,2-8,home,Oakland Raiders,21,23,13,282,128,154,2,19,325,173,152,0,-6.58,-0.79,4.96,Cardinals,2018
-10,12,Sun,2018-11-25,nan,Loss,0,2-9,away,Los Angeles Chargers,10,45,10,149,87,62,1,30,414,236,178,1,-13.0,-24.25,1.28,Cardinals,2018
-11,13,Sun,2018-12-02,nan,Win,0,3-9,away,Green Bay Packers,20,17,18,315,133,182,0,22,325,227,98,0,3.9,-3.18,0.74,Cardinals,2018
-12,14,Sun,2018-12-09,nan,Loss,0,3-10,home,Detroit Lions,3,17,22,279,218,61,1,16,218,96,122,1,-13.32,6.04,-3.13,Cardinals,2018
-13,15,Sun,2018-12-16,nan,Loss,0,3-11,away,Atlanta Falcons,14,40,18,253,193,60,3,23,435,220,215,0,-16.06,-15.22,7.62,Cardinals,2018
-14,16,Sun,2018-12-23,nan,Loss,0,3-12,home,Los Angeles Rams,9,31,15,263,159,104,0,33,461,192,269,1,-4.01,-24.42,5.46,Cardinals,2018
-15,17,Sun,2018-12-30,nan,Loss,0,3-13,away,Seattle Seahawks,24,27,12,198,113,85,2,16,291,109,182,1,-20.5,4.06,13.59,Cardinals,2018
+0,1,Sun,2018-09-09,,Loss,0,0-1,home,Redskins,6,24,14,213,145,68,2,30,429,247,182,1,-9.94,-16.72,7.08,Cardinals,2018
+1,2,Sun,2018-09-16,,Loss,0,0-2,away,Rams,0,34,5,137,83,54,1,24,432,342,90,1,-17.5,-18.11,3.56,Cardinals,2018
+2,3,Sun,2018-09-23,,Loss,0,0-3,home,Bears,14,16,13,221,168,53,4,21,316,194,122,2,-6.07,2.63,1.68,Cardinals,2018
+3,4,Sun,2018-09-30,,Loss,0,0-4,home,Seahawks,17,20,18,263,171,92,1,19,331,160,171,0,1.27,-1.31,-1.43,Cardinals,2018
+4,5,Sun,2018-10-07,,Win,0,1-4,away,49ers,28,18,10,220,164,56,0,33,447,300,147,5,-3.94,10.35,4.12,Cardinals,2018
+5,6,Sun,2018-10-14,,Loss,0,1-5,away,Vikings,17,27,16,268,208,60,2,20,411,216,195,2,-14.2,3.32,-0.88,Cardinals,2018
+6,7,Thu,2018-10-18,,Loss,0,1-6,home,Broncos,10,45,14,223,154,69,5,15,309,178,131,1,-33.3,-4.56,2.09,Cardinals,2018
+7,8,Sun,2018-10-28,,Win,0,2-6,home,49ers,18,15,20,321,233,88,2,16,267,160,107,0,6.06,3.16,-2.98,Cardinals,2018
+8,10,Sun,2018-11-11,,Loss,0,2-7,away,Chiefs,14,26,21,260,166,94,2,20,330,212,118,0,-8.96,-7.53,0.25,Cardinals,2018
+9,11,Sun,2018-11-18,,Loss,0,2-8,home,Raiders,21,23,13,282,128,154,2,19,325,173,152,0,-6.58,-0.79,4.96,Cardinals,2018
+10,12,Sun,2018-11-25,,Loss,0,2-9,away,Chargers,10,45,10,149,87,62,1,30,414,236,178,1,-13.0,-24.25,1.28,Cardinals,2018
+11,13,Sun,2018-12-02,,Win,0,3-9,away,Packers,20,17,18,315,133,182,0,22,325,227,98,0,3.9,-3.18,0.74,Cardinals,2018
+12,14,Sun,2018-12-09,,Loss,0,3-10,home,Lions,3,17,22,279,218,61,1,16,218,96,122,1,-13.32,6.04,-3.13,Cardinals,2018
+13,15,Sun,2018-12-16,,Loss,0,3-11,away,Falcons,14,40,18,253,193,60,3,23,435,220,215,0,-16.06,-15.22,7.62,Cardinals,2018
+14,16,Sun,2018-12-23,,Loss,0,3-12,home,Rams,9,31,15,263,159,104,0,33,461,192,269,1,-4.01,-24.42,5.46,Cardinals,2018
+15,17,Sun,2018-12-30,,Loss,0,3-13,away,Seahawks,24,27,12,198,113,85,2,16,291,109,182,1,-20.5,4.06,13.59,Cardinals,2018

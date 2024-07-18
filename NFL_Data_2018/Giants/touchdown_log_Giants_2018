@@ -1,40 +1,40 @@
-,Rank,Team,Date,Opponent,Win/Loss,Home_Score,Opponenet_Score,Quarter,Distance,Type,Detail
-1,1,Giants,2018-09-09,JAX,Loss,15,20,4,68,rush,Saquon Barkley
-2,2,Giants,2018-09-16,DAL,Loss,13,20,4,18,pass,Evan Engram
-3,3,Giants,2018-09-23,HOU,Win,27,22,1,15,rush,Saquon Barkley
-4,4,Giants,2018-09-23,HOU,Win,27,22,2,16,pass,Rhett Ellison
-5,5,Giants,2018-09-23,HOU,Win,27,22,4,7,pass,Sterling Shepard
-6,6,Giants,2018-09-30,NOR,Loss,18,33,1,2,pass,Sterling Shepard
-7,7,Giants,2018-09-30,NOR,Loss,18,33,4,1,rush,Saquon Barkley
-8,8,Giants,2018-10-07,CAR,Loss,31,33,2,57,pass,Saquon Barkley
-9,9,Giants,2018-10-07,CAR,Loss,31,33,4,33,pass,Odell Beckham Jr.
-10,10,Giants,2018-10-07,CAR,Loss,31,33,4,15,pass,Saquon Barkley
-11,11,Giants,2018-10-11,PHI,Loss,13,34,3,50,rush,Saquon Barkley
-12,12,Giants,2018-10-22,ATL,Loss,20,23,4,2,rush,Saquon Barkley
-13,13,Giants,2018-10-22,ATL,Loss,20,23,4,1,pass,Odell Beckham Jr.
-14,14,Giants,2018-10-28,WAS,Loss,13,20,4,2,pass,Evan Engram
-15,15,Giants,2018-11-12,SFO,Win,27,23,1,10,pass,Odell Beckham Jr.
-16,16,Giants,2018-11-12,SFO,Win,27,23,3,20,pass,Odell Beckham Jr.
-17,17,Giants,2018-11-12,SFO,Win,27,23,4,3,pass,Sterling Shepard
-18,18,Giants,2018-11-18,TAM,Win,38,35,1,6,pass,Saquon Barkley
-19,19,Giants,2018-11-18,TAM,Win,38,35,2,5,rush,Saquon Barkley
-20,20,Giants,2018-11-18,TAM,Win,38,35,3,15,interception,Alec Ogletree
-21,21,Giants,2018-11-18,TAM,Win,38,35,4,8,pass,Odell Beckham Jr.
-22,22,Giants,2018-11-18,TAM,Win,38,35,4,2,rush,Saquon Barkley
-23,23,Giants,2018-11-25,PHI,Loss,22,25,1,13,pass,Saquon Barkley
-24,24,Giants,2018-11-25,PHI,Loss,22,25,2,51,rush,Saquon Barkley
-25,25,Giants,2018-12-02,CHI,Win,30,27,1,8,interception,Alec Ogletree
-26,26,Giants,2018-12-02,CHI,Win,30,27,3,49,pass,Russell Shepard
-27,27,Giants,2018-12-02,CHI,Win,30,27,3,1,pass,Odell Beckham Jr.
-28,28,Giants,2018-12-09,WAS,Win,40,16,1,9,interception,Curtis Riley
-29,29,Giants,2018-12-09,WAS,Win,40,16,2,78,rush,Saquon Barkley
-30,30,Giants,2018-12-09,WAS,Win,40,16,2,3,pass,Sterling Shepard
-31,31,Giants,2018-12-09,WAS,Win,40,16,2,6,pass,Bennie Fowler
-32,32,Giants,2018-12-09,WAS,Win,40,16,3,11,pass,Russell Shepard
-33,33,Giants,2018-12-23,IND,Loss,27,28,1,1,rush,Saquon Barkley
-34,34,Giants,2018-12-23,IND,Loss,27,28,1,3,pass,Scott Simonson
-35,35,Giants,2018-12-23,IND,Loss,27,28,3,1,rush,Eli Manning
-36,36,Giants,2018-12-30,DAL,Loss,35,36,2,21,pass,Cody Latimer
-37,37,Giants,2018-12-30,DAL,Loss,35,36,3,6,pass,Evan Engram
-38,38,Giants,2018-12-30,DAL,Loss,35,36,4,2,rush,Wayne Gallman
-39,39,Giants,2018-12-30,DAL,Loss,35,36,4,2,rush,Saquon Barkley
+,Rank,Team,Date,Opponent,Win/Loss,Home_Score,Opponenet_Score,Quarter,Distance,Type,Detail,Year
+1,1,Giants,2018-09-09,JAX,Loss,15,20,4,68,rush,Saquon Barkley,2018
+2,2,Giants,2018-09-16,DAL,Loss,13,20,4,18,pass,Evan Engram,2018
+3,3,Giants,2018-09-23,HOU,Win,27,22,1,15,rush,Saquon Barkley,2018
+4,4,Giants,2018-09-23,HOU,Win,27,22,2,16,pass,Rhett Ellison,2018
+5,5,Giants,2018-09-23,HOU,Win,27,22,4,7,pass,Sterling Shepard,2018
+6,6,Giants,2018-09-30,NOR,Loss,18,33,1,2,pass,Sterling Shepard,2018
+7,7,Giants,2018-09-30,NOR,Loss,18,33,4,1,rush,Saquon Barkley,2018
+8,8,Giants,2018-10-07,CAR,Loss,31,33,2,57,pass,Saquon Barkley,2018
+9,9,Giants,2018-10-07,CAR,Loss,31,33,4,33,pass,Odell Beckham Jr.,2018
+10,10,Giants,2018-10-07,CAR,Loss,31,33,4,15,pass,Saquon Barkley,2018
+11,11,Giants,2018-10-11,PHI,Loss,13,34,3,50,rush,Saquon Barkley,2018
+12,12,Giants,2018-10-22,ATL,Loss,20,23,4,2,rush,Saquon Barkley,2018
+13,13,Giants,2018-10-22,ATL,Loss,20,23,4,1,pass,Odell Beckham Jr.,2018
+14,14,Giants,2018-10-28,WAS,Loss,13,20,4,2,pass,Evan Engram,2018
+15,15,Giants,2018-11-12,SFO,Win,27,23,1,10,pass,Odell Beckham Jr.,2018
+16,16,Giants,2018-11-12,SFO,Win,27,23,3,20,pass,Odell Beckham Jr.,2018
+17,17,Giants,2018-11-12,SFO,Win,27,23,4,3,pass,Sterling Shepard,2018
+18,18,Giants,2018-11-18,TAM,Win,38,35,1,6,pass,Saquon Barkley,2018
+19,19,Giants,2018-11-18,TAM,Win,38,35,2,5,rush,Saquon Barkley,2018
+20,20,Giants,2018-11-18,TAM,Win,38,35,3,15,interception,Alec Ogletree,2018
+21,21,Giants,2018-11-18,TAM,Win,38,35,4,8,pass,Odell Beckham Jr.,2018
+22,22,Giants,2018-11-18,TAM,Win,38,35,4,2,rush,Saquon Barkley,2018
+23,23,Giants,2018-11-25,PHI,Loss,22,25,1,13,pass,Saquon Barkley,2018
+24,24,Giants,2018-11-25,PHI,Loss,22,25,2,51,rush,Saquon Barkley,2018
+25,25,Giants,2018-12-02,CHI,Win,30,27,1,8,interception,Alec Ogletree,2018
+26,26,Giants,2018-12-02,CHI,Win,30,27,3,49,pass,Russell Shepard,2018
+27,27,Giants,2018-12-02,CHI,Win,30,27,3,1,pass,Odell Beckham Jr.,2018
+28,28,Giants,2018-12-09,WAS,Win,40,16,1,9,interception,Curtis Riley,2018
+29,29,Giants,2018-12-09,WAS,Win,40,16,2,78,rush,Saquon Barkley,2018
+30,30,Giants,2018-12-09,WAS,Win,40,16,2,3,pass,Sterling Shepard,2018
+31,31,Giants,2018-12-09,WAS,Win,40,16,2,6,pass,Bennie Fowler,2018
+32,32,Giants,2018-12-09,WAS,Win,40,16,3,11,pass,Russell Shepard,2018
+33,33,Giants,2018-12-23,IND,Loss,27,28,1,1,rush,Saquon Barkley,2018
+34,34,Giants,2018-12-23,IND,Loss,27,28,1,3,pass,Scott Simonson,2018
+35,35,Giants,2018-12-23,IND,Loss,27,28,3,1,rush,Eli Manning,2018
+36,36,Giants,2018-12-30,DAL,Loss,35,36,2,21,pass,Cody Latimer,2018
+37,37,Giants,2018-12-30,DAL,Loss,35,36,3,6,pass,Evan Engram,2018
+38,38,Giants,2018-12-30,DAL,Loss,35,36,4,2,rush,Wayne Gallman,2018
+39,39,Giants,2018-12-30,DAL,Loss,35,36,4,2,rush,Saquon Barkley,2018

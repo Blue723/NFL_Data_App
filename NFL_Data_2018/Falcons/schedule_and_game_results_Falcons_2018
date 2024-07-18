@@ -1,17 +1,17 @@
 ,Week,Day,Date,Time,Win/Loss,Overtime,Team Record,Home/Away,Opponent,Points Scored,Points Allowed,Offense 1st Down,Total Yards Gained of Offense,Total yards Gained by Passing,Total Yards Gained by Rushing,Offense Turnovers,Defense 1st Down,Total Yards Allowed by Defense,Total Passing Yards Allowed by Defense,Total Rushing Yards Allowed by Defense,Defense Turnovers,Offense,Defense,Sp. Tms,Team,Year
-0,1,Thu,2018-09-06,nan,Loss,0,0-1,away,Philadelphia Eagles,12,18,16,299,225,74,1,18,232,119,113,2,-7.26,3.11,2.58,Falcons,2018
-1,2,Sun,2018-09-16,nan,Win,0,1-1,home,Carolina Panthers,31,24,23,442,272,170,1,27,439,318,121,1,22.04,-12.68,-4.66,Falcons,2018
-2,3,Sun,2018-09-23,nan,Loss,1,1-2,home,New Orleans Saints,37,43,24,407,359,48,0,32,534,391,143,0,20.31,-26.85,0.47,Falcons,2018
-3,4,Sun,2018-09-30,nan,Loss,0,1-3,home,Cincinnati Bengals,36,37,25,495,403,92,0,30,407,308,99,1,24.63,-22.54,1.75,Falcons,2018
-4,5,Sun,2018-10-07,nan,Loss,0,1-4,away,Pittsburgh Steelers,17,41,22,324,262,62,1,22,381,250,131,1,-1.13,-20.96,-0.44,Falcons,2018
-5,6,Sun,2018-10-14,nan,Win,0,2-4,home,Tampa Bay Buccaneers,34,29,26,417,347,70,0,30,510,389,121,2,21.03,-22.99,2.24,Falcons,2018
-6,7,Mon,2018-10-22,nan,Win,0,3-4,home,New York Giants,23,20,22,423,356,67,1,21,433,372,61,0,12.04,-12.61,2.1,Falcons,2018
-7,9,Sun,2018-11-04,nan,Win,0,4-4,away,Washington Redskins,38,14,25,491,337,154,1,20,366,287,79,1,30.07,-6.19,-4.39,Falcons,2018
-8,10,Sun,2018-11-11,nan,Loss,0,4-5,away,Cleveland Browns,16,28,25,382,311,71,2,19,427,216,211,1,1.81,-15.47,0.18,Falcons,2018
-9,11,Sun,2018-11-18,nan,Loss,0,4-6,home,Dallas Cowboys,19,22,19,354,274,80,1,20,323,191,132,0,5.2,-10.89,0.89,Falcons,2018
-10,12,Thu,2018-11-22,nan,Loss,0,4-7,away,New Orleans Saints,17,31,21,366,340,26,4,19,312,162,150,1,-2.35,-11.04,0.37,Falcons,2018
-11,13,Sun,2018-12-02,nan,Loss,0,4-8,home,Baltimore Ravens,16,26,16,131,97,34,1,25,366,159,207,1,-13.31,1.63,1.11,Falcons,2018
-12,14,Sun,2018-12-09,nan,Loss,0,4-9,away,Green Bay Packers,20,34,22,344,237,107,2,23,300,162,138,0,1.55,-11.83,0.57,Falcons,2018
-13,15,Sun,2018-12-16,nan,Win,0,5-9,home,Arizona Cardinals,40,14,23,435,220,215,0,18,253,193,60,3,15.22,16.06,-7.62,Falcons,2018
-14,16,Sun,2018-12-23,nan,Win,0,6-9,away,Carolina Panthers,24,10,16,427,233,194,2,29,436,295,141,4,9.76,10.77,-2.58,Falcons,2018
-15,17,Sun,2018-12-30,nan,Win,0,7-9,away,Tampa Bay Buccaneers,34,32,27,489,380,109,1,22,433,341,92,1,14.62,-14.51,-0.09,Falcons,2018
+0,1,Thu,2018-09-06,,Loss,0,0-1,away,Eagles,12,18,16,299,225,74,1,18,232,119,113,2,-7.26,3.11,2.58,Falcons,2018
+1,2,Sun,2018-09-16,,Win,0,1-1,home,Panthers,31,24,23,442,272,170,1,27,439,318,121,1,22.04,-12.68,-4.66,Falcons,2018
+2,3,Sun,2018-09-23,,Loss,1,1-2,home,Saints,37,43,24,407,359,48,0,32,534,391,143,0,20.31,-26.85,0.47,Falcons,2018
+3,4,Sun,2018-09-30,,Loss,0,1-3,home,Bengals,36,37,25,495,403,92,0,30,407,308,99,1,24.63,-22.54,1.75,Falcons,2018
+4,5,Sun,2018-10-07,,Loss,0,1-4,away,Steelers,17,41,22,324,262,62,1,22,381,250,131,1,-1.13,-20.96,-0.44,Falcons,2018
+5,6,Sun,2018-10-14,,Win,0,2-4,home,Buccaneers,34,29,26,417,347,70,0,30,510,389,121,2,21.03,-22.99,2.24,Falcons,2018
+6,7,Mon,2018-10-22,,Win,0,3-4,home,Giants,23,20,22,423,356,67,1,21,433,372,61,0,12.04,-12.61,2.1,Falcons,2018
+7,9,Sun,2018-11-04,,Win,0,4-4,away,Redskins,38,14,25,491,337,154,1,20,366,287,79,1,30.07,-6.19,-4.39,Falcons,2018
+8,10,Sun,2018-11-11,,Loss,0,4-5,away,Browns,16,28,25,382,311,71,2,19,427,216,211,1,1.81,-15.47,0.18,Falcons,2018
+9,11,Sun,2018-11-18,,Loss,0,4-6,home,Cowboys,19,22,19,354,274,80,1,20,323,191,132,0,5.2,-10.89,0.89,Falcons,2018
+10,12,Thu,2018-11-22,,Loss,0,4-7,away,Saints,17,31,21,366,340,26,4,19,312,162,150,1,-2.35,-11.04,0.37,Falcons,2018
+11,13,Sun,2018-12-02,,Loss,0,4-8,home,Ravens,16,26,16,131,97,34,1,25,366,159,207,1,-13.31,1.63,1.11,Falcons,2018
+12,14,Sun,2018-12-09,,Loss,0,4-9,away,Packers,20,34,22,344,237,107,2,23,300,162,138,0,1.55,-11.83,0.57,Falcons,2018
+13,15,Sun,2018-12-16,,Win,0,5-9,home,Cardinals,40,14,23,435,220,215,0,18,253,193,60,3,15.22,16.06,-7.62,Falcons,2018
+14,16,Sun,2018-12-23,,Win,0,6-9,away,Panthers,24,10,16,427,233,194,2,29,436,295,141,4,9.76,10.77,-2.58,Falcons,2018
+15,17,Sun,2018-12-30,,Win,0,7-9,away,Buccaneers,34,32,27,489,380,109,1,22,433,341,92,1,14.62,-14.51,-0.09,Falcons,2018

@@ -1,0 +1,17 @@
+,Week,Day,Date,Boxscore,Win/Loss,Overtime,Home/Away,Opponent,Team Score,Opponenet Score,Passing Completion,Passing Attempts,Passing Yards,Passing Touchdowns,Passing Interceptions,Passing Sacks,Sack Yards,Passing Yards/Attempts,Net Yards/Attempts,Passing Completion Per.,Passing Rate,Rushing Attempts,Rushing Yards,Rushing Yards/Attempts,Rushing Touchdown,Field Goals Made,Field Goals Attempts,Extra Points Made,Extra Point Attempts,Punts,Total Punt Yards,Third Down Conversions,Third Down Attempts,Fourth Down Conversions,Fourth Down Attemtps,Time of Possesion,Year,Team
+0,1,Sun,2018-09-09,boxscore,Win,0.0,Away,Cardinals,24,6,21,30,247,2,0,3,8,8.5,7.5,70.0,116.9,42,182,4.3,1,1,1,3,3,4,186,6,13,1,1,38:08,2018,Commanders
+1,2,Sun,2018-09-16,boxscore,Loss,0.0,Home,Colts,9,21,33,46,269,0,0,3,23,6.3,5.5,71.7,86.2,22,65,3.0,0,3,4,0,0,5,182,5,15,1,2,33:20,2018,Commanders
+2,3,Sun,2018-09-23,boxscore,Win,0.0,Home,Packers,31,17,12,20,220,2,1,0,0,11.0,11.0,60.0,110.4,35,166,4.7,2,1,1,4,4,5,235,5,11,0,0,29:05,2018,Commanders
+3,5,Mon,2018-10-08,boxscore,Loss,0.0,Away,Saints,19,43,23,39,244,0,1,3,31,7.1,5.8,59.0,66.6,18,39,2.2,2,2,2,1,1,3,110,4,13,2,4,26:43,2018,Commanders
+4,6,Sun,2018-10-14,boxscore,Win,0.0,Home,Panthers,23,17,21,36,156,2,0,3,7,4.5,4.0,58.3,87.3,28,132,4.7,0,3,3,2,2,4,164,7,16,1,2,35:24,2018,Commanders
+5,7,Sun,2018-10-21,boxscore,Win,0.0,Home,Cowboys,20,17,14,25,175,1,0,1,3,7.1,6.7,56.0,91.2,32,130,4.1,0,2,2,2,2,6,227,3,12,0,1,30:55,2018,Commanders
+6,8,Sun,2018-10-28,boxscore,Win,0.0,Away,Giants,20,13,20,32,178,1,0,0,0,5.6,5.6,62.5,87.8,33,182,5.5,1,2,3,2,2,5,246,6,15,0,0,33:38,2018,Commanders
+7,9,Sun,2018-11-04,boxscore,Loss,0.0,Home,Falcons,14,38,30,46,287,1,1,3,19,6.7,5.9,65.2,80.6,15,79,5.3,1,0,0,2,2,5,245,5,13,2,2,27:04,2018,Commanders
+8,10,Sun,2018-11-11,boxscore,Win,0.0,Away,Buccaneers,16,3,19,27,170,1,0,3,8,6.6,5.7,70.4,99.3,25,116,4.6,0,3,3,1,1,5,247,5,13,0,0,28:48,2018,Commanders
+9,11,Sun,2018-11-18,boxscore,Loss,0.0,Home,Texans,21,23,18,39,154,1,2,5,35,4.8,3.5,46.2,44.2,29,124,4.3,2,0,1,3,3,5,202,6,15,1,1,30:57,2018,Commanders
+10,12,Thu,2018-11-22,boxscore,Loss,0.0,Away,Cowboys,23,31,24,38,251,2,3,3,17,7.1,6.1,63.2,66.9,20,80,4.0,1,1,1,2,3,5,228,4,11,0,0,26:37,2018,Commanders
+11,13,Mon,2018-12-03,boxscore,Loss,0.0,Away,Eagles,13,28,17,25,131,0,1,3,19,6.0,4.7,68.0,63.9,14,104,7.4,1,2,2,1,1,6,290,2,10,0,0,20:41,2018,Commanders
+12,14,Sun,2018-12-09,boxscore,Loss,0.0,Home,Giants,16,40,17,30,204,1,3,5,29,7.8,5.8,56.7,49.2,22,84,3.8,1,0,0,0,0,8,409,2,11,0,1,29:51,2018,Commanders
+13,15,Sun,2018-12-16,boxscore,Win,0.0,Away,Jaguars,16,13,16,25,136,1,0,3,15,6.0,4.9,64.0,91.4,33,109,3.3,0,3,3,1,1,6,279,7,15,0,0,33:06,2018,Commanders
+14,16,Sat,2018-12-22,boxscore,Loss,0.0,Away,Titans,16,25,13,23,131,1,2,2,22,6.7,5.2,56.5,51.2,34,161,4.7,0,3,3,1,1,2,107,8,14,0,0,33:03,2018,Commanders
+15,17,Sun,2018-12-30,boxscore,Loss,0.0,Home,Eagles,0,24,13,28,68,0,1,4,30,3.5,2.1,46.4,38.4,12,21,1.8,0,0,0,0,0,5,224,0,9,2,4,16:41,2018,Commanders

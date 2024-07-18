@@ -1,17 +1,17 @@
 ,Week,Day,Date,Time,Win/Loss,Overtime,Team Record,Home/Away,Opponent,Points Scored,Points Allowed,Offense 1st Down,Total Yards Gained of Offense,Total yards Gained by Passing,Total Yards Gained by Rushing,Offense Turnovers,Defense 1st Down,Total Yards Allowed by Defense,Total Passing Yards Allowed by Defense,Total Rushing Yards Allowed by Defense,Defense Turnovers,Offense,Defense,Sp. Tms,Team,Year
-0,1,Sun,2018-09-09,nan,Win,0,1-0,away,Arizona Cardinals,24,6,30,429,247,182,1,14,213,145,68,2,16.72,9.94,-7.08,Commanders,2018
-1,2,Sun,2018-09-16,nan,Loss,0,1-1,home,Indianapolis Colts,9,21,20,334,269,65,1,17,281,177,104,2,-4.9,-3.83,-4.64,Commanders,2018
-2,3,Sun,2018-09-23,nan,Win,0,2-1,home,Green Bay Packers,31,17,20,386,220,166,1,19,340,240,100,1,12.37,3.32,-0.92,Commanders,2018
-3,5,Mon,2018-10-08,nan,Loss,0,2-2,away,New Orleans Saints,19,43,18,283,244,39,2,27,447,349,98,1,-6.22,-25.98,6.15,Commanders,2018
-4,6,Sun,2018-10-14,nan,Win,0,3-2,home,Carolina Panthers,23,17,18,288,156,132,0,22,350,269,81,3,1.15,-7.02,11.87,Commanders,2018
-5,7,Sun,2018-10-21,nan,Win,0,4-2,home,Dallas Cowboys,20,17,15,305,175,130,0,17,323,250,73,2,0.89,1.71,0.27,Commanders,2018
-6,8,Sun,2018-10-28,nan,Win,0,5-2,away,New York Giants,20,13,20,360,178,182,1,18,303,266,37,2,-0.19,4.74,3.53,Commanders,2018
-7,9,Sun,2018-11-04,nan,Loss,0,5-3,home,Atlanta Falcons,14,38,20,366,287,79,1,25,491,337,154,1,6.19,-30.07,4.39,Commanders,2018
-8,10,Sun,2018-11-11,nan,Win,0,6-3,away,Tampa Bay Buccaneers,16,3,15,286,170,116,0,29,501,398,103,4,1.74,-2.31,10.04,Commanders,2018
-9,11,Sun,2018-11-18,nan,Loss,0,6-4,home,Houston Texans,21,23,23,278,154,124,2,19,320,181,139,3,-6.12,3.27,1.26,Commanders,2018
-10,12,Thu,2018-11-22,nan,Loss,0,6-5,away,Dallas Cowboys,23,31,18,331,251,80,3,20,404,258,146,0,-0.72,-10.45,1.62,Commanders,2018
-11,13,Mon,2018-12-03,nan,Loss,0,6-6,away,Philadelphia Eagles,13,28,10,235,131,104,1,28,436,306,130,1,-7.51,-11.31,4.67,Commanders,2018
-12,14,Sun,2018-12-09,nan,Loss,0,6-7,home,New York Giants,16,40,12,288,204,84,3,19,402,175,227,1,-19.48,-10.27,9.84,Commanders,2018
-13,15,Sun,2018-12-16,nan,Win,0,7-7,away,Jacksonville Jaguars,16,13,16,245,136,109,0,11,192,20,172,2,-2.63,14.66,-7.76,Commanders,2018
-14,16,Sat,2018-12-22,nan,Loss,0,7-8,away,Tennessee Titans,16,25,17,292,131,161,2,20,291,192,99,0,-1.2,-10.02,7.22,Commanders,2018
-15,17,Sun,2018-12-30,nan,Loss,0,7-9,home,Philadelphia Eagles,0,24,8,89,68,21,1,25,360,231,129,1,-20.41,-12.25,7.8,Commanders,2018
+0,1,Sun,2018-09-09,,Win,0,1-0,away,Cardinals,24,6,30,429,247,182,1,14,213,145,68,2,16.72,9.94,-7.08,Commanders,2018
+1,2,Sun,2018-09-16,,Loss,0,1-1,home,Colts,9,21,20,334,269,65,1,17,281,177,104,2,-4.9,-3.83,-4.64,Commanders,2018
+2,3,Sun,2018-09-23,,Win,0,2-1,home,Packers,31,17,20,386,220,166,1,19,340,240,100,1,12.37,3.32,-0.92,Commanders,2018
+3,5,Mon,2018-10-08,,Loss,0,2-2,away,Saints,19,43,18,283,244,39,2,27,447,349,98,1,-6.22,-25.98,6.15,Commanders,2018
+4,6,Sun,2018-10-14,,Win,0,3-2,home,Panthers,23,17,18,288,156,132,0,22,350,269,81,3,1.15,-7.02,11.87,Commanders,2018
+5,7,Sun,2018-10-21,,Win,0,4-2,home,Cowboys,20,17,15,305,175,130,0,17,323,250,73,2,0.89,1.71,0.27,Commanders,2018
+6,8,Sun,2018-10-28,,Win,0,5-2,away,Giants,20,13,20,360,178,182,1,18,303,266,37,2,-0.19,4.74,3.53,Commanders,2018
+7,9,Sun,2018-11-04,,Loss,0,5-3,home,Falcons,14,38,20,366,287,79,1,25,491,337,154,1,6.19,-30.07,4.39,Commanders,2018
+8,10,Sun,2018-11-11,,Win,0,6-3,away,Buccaneers,16,3,15,286,170,116,0,29,501,398,103,4,1.74,-2.31,10.04,Commanders,2018
+9,11,Sun,2018-11-18,,Loss,0,6-4,home,Texans,21,23,23,278,154,124,2,19,320,181,139,3,-6.12,3.27,1.26,Commanders,2018
+10,12,Thu,2018-11-22,,Loss,0,6-5,away,Cowboys,23,31,18,331,251,80,3,20,404,258,146,0,-0.72,-10.45,1.62,Commanders,2018
+11,13,Mon,2018-12-03,,Loss,0,6-6,away,Eagles,13,28,10,235,131,104,1,28,436,306,130,1,-7.51,-11.31,4.67,Commanders,2018
+12,14,Sun,2018-12-09,,Loss,0,6-7,home,Giants,16,40,12,288,204,84,3,19,402,175,227,1,-19.48,-10.27,9.84,Commanders,2018
+13,15,Sun,2018-12-16,,Win,0,7-7,away,Jaguars,16,13,16,245,136,109,0,11,192,20,172,2,-2.63,14.66,-7.76,Commanders,2018
+14,16,Sat,2018-12-22,,Loss,0,7-8,away,Titans,16,25,17,292,131,161,2,20,291,192,99,0,-1.2,-10.02,7.22,Commanders,2018
+15,17,Sun,2018-12-30,,Loss,0,7-9,home,Eagles,0,24,8,89,68,21,1,25,360,231,129,1,-20.41,-12.25,7.8,Commanders,2018

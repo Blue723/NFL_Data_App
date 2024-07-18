@@ -1,0 +1,17 @@
+,Week,Day,Date,Boxscore,Win/Loss,Overtime,Home/Away,Opponent,Team Score,Opponenet Score,Passing Completion,Passing Attempts,Passing Yards,Passing Touchdowns,Passing Interceptions,Passing Sacks,Sack Yards,Passing Yards/Attempts,Net Yards/Attempts,Passing Completion Per.,Passing Rate,Rushing Attempts,Rushing Yards,Rushing Yards/Attempts,Rushing Touchdown,Field Goals Made,Field Goals Attempts,Extra Points Made,Extra Point Attempts,Punts,Total Punt Yards,Third Down Conversions,Third Down Attempts,Fourth Down Conversions,Fourth Down Attemtps,Time of Possesion,Year,Team
+0,1,Sun,2018-09-09,boxscore,Loss,0,Away,Patriots,20,27,17,34,158,1,1,3,18,5.2,4.3,50.0,60.7,34,167,4.9,1,2,2,2,2,6,230,2,11,0,1,28:50,2018,Texans
+1,2,Sun,2018-09-16,boxscore,Loss,0,Away,Titans,17,20,22,32,289,2,1,4,21,9.7,8.0,68.8,104.8,26,148,5.7,0,1,2,2,2,4,164,5,11,0,0,29:38,2018,Texans
+2,3,Sun,2018-09-23,boxscore,Loss,0,Home,Giants,22,27,24,40,368,2,1,3,17,9.6,8.6,60.0,96.7,19,59,3.1,0,3,3,1,1,3,155,5,12,2,2,24:30,2018,Texans
+3,4,Sun,2018-09-30,boxscore,Win,1,Away,Colts,37,34,29,42,347,2,1,7,28,8.9,7.1,69.0,100.0,35,119,3.4,1,3,4,4,4,5,207,8,16,1,1,40:04,2018,Texans
+4,5,Sun,2018-10-07,boxscore,Win,1,Home,Cowboys,19,16,33,44,374,1,1,1,1,8.5,8.3,75.0,98.1,31,88,2.8,0,4,5,1,1,3,160,5,15,0,1,36:38,2018,Texans
+5,6,Sun,2018-10-14,boxscore,Win,0,Home,Bills,20,13,15,26,142,1,2,7,35,6.8,4.3,57.7,53.7,24,74,3.1,0,2,2,2,2,5,203,3,13,0,0,27:00,2018,Texans
+6,7,Sun,2018-10-21,boxscore,Win,0,Away,Jaguars,20,7,12,24,131,1,0,1,8,5.8,5.2,50.0,80.4,37,141,3.8,1,2,2,2,2,6,277,8,16,0,0,29:35,2018,Texans
+7,8,Thu,2018-10-25,boxscore,Win,0,Home,Dolphins,42,23,16,20,239,5,0,0,0,12.0,12.0,80.0,156.0,35,188,5.4,1,0,0,6,6,5,211,6,12,1,1,28:51,2018,Texans
+8,9,Sun,2018-11-04,boxscore,Win,0,Away,Broncos,19,17,17,24,192,2,0,4,21,8.9,6.9,70.8,122.2,33,98,3.0,0,2,2,1,2,6,307,4,13,0,1,32:25,2018,Texans
+9,11,Sun,2018-11-18,boxscore,Win,0,Away,Redskins,23,21,16,24,181,1,2,3,27,8.7,6.7,66.7,68.2,31,139,4.5,0,3,5,2,2,1,30,4,11,0,0,29:03,2018,Texans
+10,12,Mon,2018-11-26,boxscore,Win,0,Home,Titans,34,17,19,24,181,2,0,4,29,8.8,6.5,79.2,125.9,34,281,8.3,2,2,2,4,4,5,224,4,11,1,1,29:58,2018,Texans
+11,13,Sun,2018-12-02,boxscore,Win,0,Home,Browns,29,13,22,31,197,1,0,4,27,7.2,5.6,71.0,98.5,39,187,4.8,0,5,5,2,2,3,114,8,16,0,0,37:35,2018,Texans
+12,14,Sun,2018-12-09,boxscore,Loss,0,Home,Colts,21,24,27,38,226,1,0,5,41,7.0,5.3,71.1,94.8,25,89,3.6,2,0,0,3,3,8,362,5,15,2,2,31:57,2018,Texans
+13,15,Sat,2018-12-15,boxscore,Win,0,Away,Jets,29,22,22,28,239,2,0,6,55,10.5,7.0,78.6,126.0,17,47,2.8,0,5,5,2,2,3,137,1,9,0,0,24:56,2018,Texans
+14,16,Sun,2018-12-23,boxscore,Loss,0,Away,Eagles,30,32,29,40,309,2,0,4,30,8.5,7.0,72.5,111.4,19,62,3.3,2,1,1,3,4,4,161,3,10,0,1,26:15,2018,Texans
+15,17,Sun,2018-12-30,boxscore,Win,0,Home,Jaguars,20,3,25,35,208,0,0,6,26,6.7,5.1,71.4,86.4,33,134,4.1,2,2,2,2,2,7,295,6,17,1,1,35:07,2018,Texans

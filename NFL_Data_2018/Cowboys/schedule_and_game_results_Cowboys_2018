@@ -1,19 +1,19 @@
 ,Week,Day,Date,Time,Win/Loss,Overtime,Team Record,Home/Away,Opponent,Points Scored,Points Allowed,Offense 1st Down,Total Yards Gained of Offense,Total yards Gained by Passing,Total Yards Gained by Rushing,Offense Turnovers,Defense 1st Down,Total Yards Allowed by Defense,Total Passing Yards Allowed by Defense,Total Rushing Yards Allowed by Defense,Defense Turnovers,Offense,Defense,Sp. Tms,Team,Year
-0,1,Sun,2018-09-09,nan,Loss,0,0-1,away,Carolina Panthers,8,16,17,232,138,94,1,20,293,146,147,1,-9.14,2.28,-3.01,Cowboys,2018
-1,2,Sun,2018-09-16,nan,Win,0,1-1,home,New York Giants,20,13,16,298,160,138,0,17,255,220,35,1,7.1,3.49,-3.49,Cowboys,2018
-2,3,Sun,2018-09-23,nan,Loss,0,1-2,away,Seattle Seahawks,13,24,17,303,137,166,3,18,295,182,113,0,-11.41,-5.56,11.31,Cowboys,2018
-3,4,Sun,2018-09-30,nan,Win,0,2-2,home,Detroit Lions,26,24,26,414,231,183,0,18,382,286,96,0,18.17,-17.1,0.37,Cowboys,2018
-4,5,Sun,2018-10-07,nan,Loss,1,2-3,away,Houston Texans,16,19,14,292,194,98,2,25,462,374,88,2,-8.15,-1.63,5.93,Cowboys,2018
-5,6,Sun,2018-10-14,nan,Win,0,3-3,home,Jacksonville Jaguars,40,7,23,378,172,206,0,10,204,139,65,2,11.83,15.11,4.14,Cowboys,2018
-6,7,Sun,2018-10-21,nan,Loss,0,3-4,away,Washington Redskins,17,20,17,323,250,73,2,15,305,175,130,0,-1.71,-0.89,-0.27,Cowboys,2018
-7,9,Mon,2018-11-05,nan,Loss,0,3-5,home,Tennessee Titans,14,28,18,297,225,72,2,24,340,215,125,2,-2.26,-12.17,2.87,Cowboys,2018
-8,10,Sun,2018-11-11,nan,Win,0,4-5,away,Philadelphia Eagles,27,20,23,410,239,171,0,23,421,350,71,1,11.95,-3.87,-5.2,Cowboys,2018
-9,11,Sun,2018-11-18,nan,Win,0,5-5,away,Atlanta Falcons,22,19,20,323,191,132,0,19,354,274,80,1,10.89,-5.2,-0.89,Cowboys,2018
-10,12,Thu,2018-11-22,nan,Win,0,6-5,home,Washington Redskins,31,23,20,404,258,146,0,18,331,251,80,3,10.45,0.72,-1.62,Cowboys,2018
-11,13,Thu,2018-11-29,nan,Win,0,7-5,home,New Orleans Saints,13,10,21,308,209,99,2,14,176,111,65,1,-0.16,9.57,-1.7,Cowboys,2018
-12,14,Sun,2018-12-09,nan,Win,1,8-5,home,Philadelphia Eagles,29,23,32,576,434,142,3,16,256,222,34,1,9.25,-0.29,-2.96,Cowboys,2018
-13,15,Sun,2018-12-16,nan,Loss,0,8-6,away,Indianapolis Colts,0,23,19,292,180,112,1,25,370,192,178,1,-8.08,-10.54,2.01,Cowboys,2018
-14,16,Sun,2018-12-23,nan,Win,0,9-6,home,Tampa Bay Buccaneers,27,20,16,232,152,80,0,27,383,320,63,2,-0.41,5.08,4.32,Cowboys,2018
-15,17,Sun,2018-12-30,nan,Win,0,10-6,away,New York Giants,36,35,23,419,368,51,1,20,441,298,143,2,21.03,-10.28,-8.93,Cowboys,2018
-16,19,Sat,2019-01-05,nan,Win,0,11-6,home,Seattle Seahawks,24,22,23,380,216,164,1,11,299,226,73,0,7.14,-3.19,-4.37,Cowboys,2018
-17,20,Sat,2019-01-12,nan,Loss,0,11-7,away,Los Angeles Rams,22,30,19,308,258,50,0,30,459,186,273,0,13.46,-24.75,0.14,Cowboys,2018
+0,1,Sun,2018-09-09,,Loss,0,0-1,away,Panthers,8,16,17,232,138,94,1,20,293,146,147,1,-9.14,2.28,-3.01,Cowboys,2018
+1,2,Sun,2018-09-16,,Win,0,1-1,home,Giants,20,13,16,298,160,138,0,17,255,220,35,1,7.1,3.49,-3.49,Cowboys,2018
+2,3,Sun,2018-09-23,,Loss,0,1-2,away,Seahawks,13,24,17,303,137,166,3,18,295,182,113,0,-11.41,-5.56,11.31,Cowboys,2018
+3,4,Sun,2018-09-30,,Win,0,2-2,home,Lions,26,24,26,414,231,183,0,18,382,286,96,0,18.17,-17.1,0.37,Cowboys,2018
+4,5,Sun,2018-10-07,,Loss,1,2-3,away,Texans,16,19,14,292,194,98,2,25,462,374,88,2,-8.15,-1.63,5.93,Cowboys,2018
+5,6,Sun,2018-10-14,,Win,0,3-3,home,Jaguars,40,7,23,378,172,206,0,10,204,139,65,2,11.83,15.11,4.14,Cowboys,2018
+6,7,Sun,2018-10-21,,Loss,0,3-4,away,Redskins,17,20,17,323,250,73,2,15,305,175,130,0,-1.71,-0.89,-0.27,Cowboys,2018
+7,9,Mon,2018-11-05,,Loss,0,3-5,home,Titans,14,28,18,297,225,72,2,24,340,215,125,2,-2.26,-12.17,2.87,Cowboys,2018
+8,10,Sun,2018-11-11,,Win,0,4-5,away,Eagles,27,20,23,410,239,171,0,23,421,350,71,1,11.95,-3.87,-5.2,Cowboys,2018
+9,11,Sun,2018-11-18,,Win,0,5-5,away,Falcons,22,19,20,323,191,132,0,19,354,274,80,1,10.89,-5.2,-0.89,Cowboys,2018
+10,12,Thu,2018-11-22,,Win,0,6-5,home,Redskins,31,23,20,404,258,146,0,18,331,251,80,3,10.45,0.72,-1.62,Cowboys,2018
+11,13,Thu,2018-11-29,,Win,0,7-5,home,Saints,13,10,21,308,209,99,2,14,176,111,65,1,-0.16,9.57,-1.7,Cowboys,2018
+12,14,Sun,2018-12-09,,Win,1,8-5,home,Eagles,29,23,32,576,434,142,3,16,256,222,34,1,9.25,-0.29,-2.96,Cowboys,2018
+13,15,Sun,2018-12-16,,Loss,0,8-6,away,Colts,0,23,19,292,180,112,1,25,370,192,178,1,-8.08,-10.54,2.01,Cowboys,2018
+14,16,Sun,2018-12-23,,Win,0,9-6,home,Buccaneers,27,20,16,232,152,80,0,27,383,320,63,2,-0.41,5.08,4.32,Cowboys,2018
+15,17,Sun,2018-12-30,,Win,0,10-6,away,Giants,36,35,23,419,368,51,1,20,441,298,143,2,21.03,-10.28,-8.93,Cowboys,2018
+16,19,Sat,2019-01-05,,Win,0,11-6,home,Seahawks,24,22,23,380,216,164,1,11,299,226,73,0,7.14,-3.19,-4.37,Cowboys,2018
+17,20,Sat,2019-01-12,,Loss,0,11-7,away,Rams,22,30,19,308,258,50,0,30,459,186,273,0,13.46,-24.75,0.14,Cowboys,2018

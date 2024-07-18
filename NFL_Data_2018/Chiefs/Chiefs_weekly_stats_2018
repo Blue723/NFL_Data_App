@@ -1,0 +1,17 @@
+,Week,Day,Date,Boxscore,Win/Loss,Overtime,Home/Away,Opponent,Team Score,Opponenet Score,Passing Completion,Passing Attempts,Passing Yards,Passing Touchdowns,Passing Interceptions,Passing Sacks,Sack Yards,Passing Yards/Attempts,Net Yards/Attempts,Passing Completion Per.,Passing Rate,Rushing Attempts,Rushing Yards,Rushing Yards/Attempts,Rushing Touchdown,Field Goals Made,Field Goals Attempts,Extra Points Made,Extra Point Attempts,Punts,Total Punt Yards,Third Down Conversions,Third Down Attempts,Fourth Down Conversions,Fourth Down Attemtps,Time of Possesion,Year,Team
+0,1,Sun,2018-09-09,boxscore,Win,0,Away,Chargers,38,28,15,27,256,4,0,1,0,9.5,9.1,55.6,127.5,27,106,3.9,0,1,1,5,5,5,256,4,10,0,0,25:34,2018,Chiefs
+1,2,Sun,2018-09-16,boxscore,Win,0,Away,Steelers,42,37,23,28,322,6,0,1,4,11.6,11.1,82.1,154.2,25,127,5.1,0,0,0,6,6,2,100,2,5,0,0,27:49,2018,Chiefs
+2,3,Sun,2018-09-23,boxscore,Win,0,Home,49ers,38,27,24,38,307,3,0,2,7,8.3,7.7,63.2,114.7,28,77,2.8,2,1,1,5,5,2,87,7,11,1,1,30:01,2018,Chiefs
+3,4,Mon,2018-10-01,boxscore,Win,0,Away,Broncos,27,23,28,45,304,1,0,1,0,6.8,6.6,62.2,89.5,26,142,5.5,2,2,2,3,3,4,168,7,15,2,2,35:02,2018,Chiefs
+4,5,Sun,2018-10-07,boxscore,Win,0,Home,Jaguars,30,14,22,38,298,0,2,1,15,8.2,7.6,57.9,61.1,30,126,4.2,2,3,3,3,3,2,116,4,12,0,0,32:43,2018,Chiefs
+5,6,Sun,2018-10-14,boxscore,Loss,0,Away,Patriots,40,43,23,36,352,4,2,0,0,9.8,9.8,63.9,110.0,17,94,5.5,0,4,4,4,4,1,51,4,10,1,1,23:51,2018,Chiefs
+6,7,Sun,2018-10-21,boxscore,Win,0,Home,Bengals,45,10,28,39,353,4,1,2,5,9.2,8.6,71.8,123.1,29,198,6.8,1,1,2,6,6,0,0,9,12,0,1,33:43,2018,Chiefs
+7,8,Sun,2018-10-28,boxscore,Win,0,Home,Broncos,30,23,24,34,291,4,1,2,12,8.9,8.1,70.6,123.5,18,49,2.7,0,1,1,3,4,5,196,3,10,1,1,27:19,2018,Chiefs
+8,9,Sun,2018-11-04,boxscore,Win,0,Away,Browns,37,21,23,32,360,3,1,2,15,11.7,10.6,71.9,127.1,24,139,5.8,2,1,1,4,5,2,63,6,10,0,0,29:09,2018,Chiefs
+9,10,Sun,2018-11-11,boxscore,Win,0,Home,Cardinals,26,14,21,28,212,2,0,5,37,8.9,6.4,75.0,119.9,23,118,5.1,1,2,2,2,2,5,233,4,11,0,0,28:13,2018,Chiefs
+10,11,Mon,2018-11-19,boxscore,Loss,0,Away,Rams,51,54,33,46,448,6,3,3,30,10.4,9.1,71.7,114.9,20,98,4.9,0,1,1,6,7,3,142,5,10,1,1,29:37,2018,Chiefs
+11,13,Sun,2018-12-02,boxscore,Win,0,Away,Raiders,40,33,23,38,295,4,0,0,0,7.8,7.8,60.5,120.0,30,174,5.8,1,2,2,4,5,3,123,6,13,1,1,29:14,2018,Chiefs
+12,14,Sun,2018-12-09,boxscore,Win,1,Home,Ravens,27,24,35,53,348,2,1,3,29,7.1,6.2,66.0,89.2,27,94,3.5,1,2,4,3,3,3,111,6,16,3,3,37:00,2018,Chiefs
+13,15,Thu,2018-12-13,boxscore,Loss,0,Home,Chargers,28,29,24,34,234,2,0,2,9,7.1,6.5,70.6,109.2,17,60,3.5,2,0,0,4,4,4,203,6,10,0,0,26:44,2018,Chiefs
+14,16,Sun,2018-12-23,boxscore,Loss,0,Away,Seahawks,31,38,23,40,265,3,0,1,8,6.8,6.5,57.5,102.6,19,154,8.1,0,3,3,2,2,3,144,5,12,1,1,24:58,2018,Chiefs
+15,17,Sun,2018-12-30,boxscore,Win,0,Home,Raiders,35,3,16,27,310,2,1,0,0,11.5,11.5,59.3,108.6,27,99,3.7,2,0,0,5,5,1,28,5,9,1,3,26:04,2018,Chiefs
