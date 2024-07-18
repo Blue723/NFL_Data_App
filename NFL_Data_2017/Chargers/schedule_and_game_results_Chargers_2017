@@ -1,17 +1,17 @@
 ,Week,Day,Date,Time,Win/Loss,Overtime,Team Record,Home/Away,Opponent,Points Scored,Points Allowed,Offense 1st Down,Total Yards Gained of Offense,Total yards Gained by Passing,Total Yards Gained by Rushing,Offense Turnovers,Defense 1st Down,Total Yards Allowed by Defense,Total Passing Yards Allowed by Defense,Total Rushing Yards Allowed by Defense,Defense Turnovers,Offense,Defense,Sp. Tms,Team,Year
-0,1,Mon,2017-09-11,nan,Loss,0,0-1,away,Denver Broncos,21,24,17,249,185,64,1,22,321,181,140,2,2.88,-2.11,-2.79,Chargers,2017
-1,2,Sun,2017-09-17,nan,Loss,0,0-2,home,Miami Dolphins,17,19,24,367,323,44,0,21,336,225,111,0,11.99,-4.44,-7.94,Chargers,2017
-2,3,Sun,2017-09-24,nan,Loss,0,0-3,home,Kansas City Chiefs,10,24,24,330,226,104,3,16,311,122,189,0,-0.47,-1.68,-7.36,Chargers,2017
-3,4,Sun,2017-10-01,nan,Loss,0,0-4,home,Philadelphia Eagles,24,26,18,400,342,58,1,26,454,240,214,0,16.92,-18.04,-3.88,Chargers,2017
-4,5,Sun,2017-10-08,nan,Win,0,1-4,away,New York Giants,27,22,21,382,258,124,1,18,335,183,152,2,0.75,11.19,-4.17,Chargers,2017
-5,6,Sun,2017-10-15,nan,Win,0,2-4,away,Oakland Raiders,17,16,20,343,263,80,1,15,274,165,109,2,3.52,4.48,-7.48,Chargers,2017
-6,7,Sun,2017-10-22,nan,Win,0,3-4,home,Denver Broncos,21,0,14,242,162,80,0,12,251,182,69,3,-6.7,21.0,3.87,Chargers,2017
-7,8,Sun,2017-10-29,nan,Loss,0,3-5,away,New England Patriots,13,21,16,349,192,157,1,27,414,317,97,0,8.46,-9.64,-5.7,Chargers,2017
-8,10,Sun,2017-11-12,nan,Loss,1,3-6,away,Jacksonville Jaguars,17,20,16,322,235,87,2,20,398,263,135,2,-10.33,4.12,2.51,Chargers,2017
-9,11,Sun,2017-11-19,nan,Win,0,4-6,home,Buffalo Bills,54,24,28,429,283,146,0,18,393,220,173,6,18.37,14.25,-2.88,Chargers,2017
-10,12,Thu,2017-11-23,nan,Win,0,5-6,away,Dallas Cowboys,28,6,25,515,434,81,0,14,247,168,79,2,26.42,9.49,-11.7,Chargers,2017
-11,13,Sun,2017-12-03,nan,Win,0,6-6,home,Cleveland Browns,19,10,23,429,335,94,0,17,291,202,89,2,14.62,-0.51,-6.33,Chargers,2017
-12,14,Sun,2017-12-10,nan,Win,0,7-6,home,Washington Redskins,30,13,24,488,314,174,1,9,201,136,65,1,3.53,12.06,1.67,Chargers,2017
-13,15,Sat,2017-12-16,nan,Loss,0,7-7,away,Kansas City Chiefs,13,30,20,307,209,98,4,20,397,223,174,0,-2.5,-13.76,0.81,Chargers,2017
-14,16,Sun,2017-12-24,nan,Win,0,8-7,away,New York Jets,14,7,21,379,290,89,0,13,295,98,197,3,4.02,12.19,-7.61,Chargers,2017
-15,17,Sun,2017-12-31,nan,Win,0,9-7,home,Oakland Raiders,30,10,26,495,380,115,0,14,336,231,105,2,23.24,3.91,-9.97,Chargers,2017
+0,1,Mon,2017-09-11,,Loss,0,0-1,away,Broncos,21,24,17,249,185,64,1,22,321,181,140,2,2.88,-2.11,-2.79,Chargers,2017
+1,2,Sun,2017-09-17,,Loss,0,0-2,home,Dolphins,17,19,24,367,323,44,0,21,336,225,111,0,11.99,-4.44,-7.94,Chargers,2017
+2,3,Sun,2017-09-24,,Loss,0,0-3,home,Chiefs,10,24,24,330,226,104,3,16,311,122,189,0,-0.47,-1.68,-7.36,Chargers,2017
+3,4,Sun,2017-10-01,,Loss,0,0-4,home,Eagles,24,26,18,400,342,58,1,26,454,240,214,0,16.92,-18.04,-3.88,Chargers,2017
+4,5,Sun,2017-10-08,,Win,0,1-4,away,Giants,27,22,21,382,258,124,1,18,335,183,152,2,0.75,11.19,-4.17,Chargers,2017
+5,6,Sun,2017-10-15,,Win,0,2-4,away,Raiders,17,16,20,343,263,80,1,15,274,165,109,2,3.52,4.48,-7.48,Chargers,2017
+6,7,Sun,2017-10-22,,Win,0,3-4,home,Broncos,21,0,14,242,162,80,0,12,251,182,69,3,-6.7,21.0,3.87,Chargers,2017
+7,8,Sun,2017-10-29,,Loss,0,3-5,away,Patriots,13,21,16,349,192,157,1,27,414,317,97,0,8.46,-9.64,-5.7,Chargers,2017
+8,10,Sun,2017-11-12,,Loss,1,3-6,away,Jaguars,17,20,16,322,235,87,2,20,398,263,135,2,-10.33,4.12,2.51,Chargers,2017
+9,11,Sun,2017-11-19,,Win,0,4-6,home,Bills,54,24,28,429,283,146,0,18,393,220,173,6,18.37,14.25,-2.88,Chargers,2017
+10,12,Thu,2017-11-23,,Win,0,5-6,away,Cowboys,28,6,25,515,434,81,0,14,247,168,79,2,26.42,9.49,-11.7,Chargers,2017
+11,13,Sun,2017-12-03,,Win,0,6-6,home,Browns,19,10,23,429,335,94,0,17,291,202,89,2,14.62,-0.51,-6.33,Chargers,2017
+12,14,Sun,2017-12-10,,Win,0,7-6,home,Redskins,30,13,24,488,314,174,1,9,201,136,65,1,3.53,12.06,1.67,Chargers,2017
+13,15,Sat,2017-12-16,,Loss,0,7-7,away,Chiefs,13,30,20,307,209,98,4,20,397,223,174,0,-2.5,-13.76,0.81,Chargers,2017
+14,16,Sun,2017-12-24,,Win,0,8-7,away,Jets,14,7,21,379,290,89,0,13,295,98,197,3,4.02,12.19,-7.61,Chargers,2017
+15,17,Sun,2017-12-31,,Win,0,9-7,home,Raiders,30,10,26,495,380,115,0,14,336,231,105,2,23.24,3.91,-9.97,Chargers,2017

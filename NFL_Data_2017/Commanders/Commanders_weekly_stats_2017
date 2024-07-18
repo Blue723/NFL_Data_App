@@ -1,0 +1,17 @@
+,Week,Day,Date,Boxscore,Win/Loss,Overtime,Home/Away,Opponent,Team Score,Opponenet Score,Passing Completion,Passing Attempts,Passing Yards,Passing Touchdowns,Passing Interceptions,Passing Sacks,Sack Yards,Passing Yards/Attempts,Net Yards/Attempts,Passing Completion Per.,Passing Rate,Rushing Attempts,Rushing Yards,Rushing Yards/Attempts,Rushing Touchdown,Field Goals Made,Field Goals Attempts,Extra Points Made,Extra Point Attempts,Punts,Total Punt Yards,Third Down Conversions,Third Down Attempts,Fourth Down Conversions,Fourth Down Attemtps,Time of Possesion,Year,Team
+0,1,Sun,2017-09-10,boxscore,Loss,0,Home,Eagles,17,30,23,40,200,1,1,4,40,6.0,4.5,57.5,68.7,17,64,3.8,0,1,1,2,2,4,162,3,11,0,1,25:44,2017,Commanders
+1,2,Sun,2017-09-17,boxscore,Win,0,Away,Rams,27,20,18,27,156,1,0,2,23,6.6,5.4,66.7,94.1,39,229,5.9,2,2,3,3,3,4,204,5,13,0,0,36:19,2017,Commanders
+2,3,Sun,2017-09-24,boxscore,Win,0,Home,Raiders,27,10,25,30,356,3,0,1,9,12.2,11.5,83.3,149.4,34,116,3.4,0,2,3,3,3,5,221,7,15,0,0,38:06,2017,Commanders
+3,4,Mon,2017-10-02,boxscore,Loss,0,Away,Chiefs,20,29,14,24,220,2,0,0,0,9.2,9.2,58.3,116.7,26,111,4.3,0,2,2,2,2,4,169,4,11,1,1,22:51,2017,Commanders
+4,6,Sun,2017-10-15,boxscore,Win,0,Home,49ers,26,24,25,37,325,2,1,1,5,8.9,8.6,67.6,101.7,33,94,2.8,1,2,2,2,3,4,181,7,14,0,0,36:52,2017,Commanders
+5,7,Mon,2017-10-23,boxscore,Loss,0,Away,Eagles,24,34,30,40,269,3,1,4,34,7.6,6.1,75.0,107.2,18,75,4.2,0,1,1,3,3,5,239,4,12,0,1,30:15,2017,Commanders
+6,8,Sun,2017-10-29,boxscore,Loss,0,Home,Cowboys,19,33,26,39,236,1,1,4,27,6.7,5.5,66.7,80.7,15,49,3.3,1,2,3,1,2,3,140,4,13,1,1,26:41,2017,Commanders
+7,9,Sun,2017-11-05,boxscore,Win,0,Away,Seahawks,17,14,21,31,193,0,0,6,54,8.0,5.2,67.7,84.5,23,51,2.2,2,1,1,2,2,8,320,4,13,0,0,27:41,2017,Commanders
+8,10,Sun,2017-11-12,boxscore,Loss,0,Home,Vikings,30,38,26,45,313,1,1,1,14,7.3,6.8,57.8,77.4,27,81,3.0,2,3,3,3,3,1,52,5,14,3,5,31:06,2017,Commanders
+9,11,Sun,2017-11-19,boxscore,Loss,1,Away,Saints,31,34,22,32,300,3,0,2,22,10.1,8.8,68.8,129.7,33,156,4.7,1,1,1,4,4,5,248,4,12,2,2,32:11,2017,Commanders
+10,12,Thu,2017-11-23,boxscore,Win,0,Home,Giants,20,10,19,31,201,2,1,6,41,7.8,5.4,61.3,88.2,31,122,3.9,0,2,2,2,2,7,308,4,15,0,1,34:37,2017,Commanders
+11,13,Thu,2017-11-30,boxscore,Loss,0,Away,Cowboys,14,38,26,37,224,2,2,4,27,6.8,5.5,70.3,81.4,19,56,2.9,0,0,0,2,2,5,213,6,14,0,1,27:32,2017,Commanders
+12,14,Sun,2017-12-10,boxscore,Loss,0,Away,Chargers,13,30,15,27,136,1,1,2,15,5.6,4.7,55.6,66.3,21,65,3.1,0,0,0,1,2,8,345,2,12,1,2,24:40,2017,Commanders
+13,15,Sun,2017-12-17,boxscore,Win,0,Home,Cardinals,20,15,18,26,187,2,0,1,9,7.5,6.9,69.2,115.4,20,31,1.6,0,2,2,2,2,6,319,1,9,0,0,23:44,2017,Commanders
+14,16,Sun,2017-12-24,boxscore,Win,0,Home,Broncos,27,11,19,37,299,3,1,0,0,8.1,8.1,51.4,94.3,29,87,3.0,0,2,2,3,3,5,247,5,13,0,0,29:33,2017,Commanders
+15,17,Sun,2017-12-31,boxscore,Loss,0,Away,Giants,10,18,20,37,136,0,3,3,22,4.3,3.4,54.1,28.7,16,61,3.8,1,1,2,1,1,9,426,1,13,1,1,28:07,2017,Commanders

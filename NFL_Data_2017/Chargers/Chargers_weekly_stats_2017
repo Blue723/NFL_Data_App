@@ -1,0 +1,17 @@
+,Week,Day,Date,Boxscore,Win/Loss,Overtime,Home/Away,Opponent,Team Score,Opponenet Score,Passing Completion,Passing Attempts,Passing Yards,Passing Touchdowns,Passing Interceptions,Passing Sacks,Sack Yards,Passing Yards/Attempts,Net Yards/Attempts,Passing Completion Per.,Passing Rate,Rushing Attempts,Rushing Yards,Rushing Yards/Attempts,Rushing Touchdown,Field Goals Made,Field Goals Attempts,Extra Points Made,Extra Point Attempts,Punts,Total Punt Yards,Third Down Conversions,Third Down Attempts,Fourth Down Conversions,Fourth Down Attemtps,Time of Possesion,Year,Team
+0,1,Mon,2017-09-11,boxscore,Loss,0,Away,Broncos,21,24,22,33,185,3,1,1,7,5.8,5.4,66.7,98.7,22,64,2.9,0,0,1,3,3,5,230,3,12,1,2,25:47,2017,Chargers
+1,2,Sun,2017-09-17,boxscore,Loss,0,Home,Dolphins,17,19,31,39,323,1,0,1,8,8.5,8.1,79.5,109.7,14,44,3.1,1,1,3,2,2,4,170,2,8,0,0,26:38,2017,Chargers
+2,3,Sun,2017-09-24,boxscore,Loss,0,Home,Chiefs,10,24,20,40,226,0,3,2,11,5.9,5.4,50.0,36.0,26,104,4.0,1,1,1,1,1,5,250,5,13,0,0,29:34,2017,Chargers
+3,4,Sun,2017-10-01,boxscore,Loss,0,Home,Eagles,24,26,22,38,342,2,0,2,5,9.1,8.6,57.9,105.4,13,58,4.5,1,1,1,3,3,4,191,5,10,0,0,20:42,2017,Chargers
+4,5,Sun,2017-10-08,boxscore,Win,0,Away,Giants,27,22,21,44,258,3,1,0,0,5.9,5.9,47.7,79.5,29,124,4.3,0,2,2,3,3,6,333,8,18,0,0,31:45,2017,Chargers
+5,6,Sun,2017-10-15,boxscore,Win,0,Away,Raiders,17,16,25,36,263,1,0,1,5,7.4,7.1,69.4,99.7,28,80,2.9,1,1,2,2,2,4,223,6,14,1,2,32:03,2017,Chargers
+6,7,Sun,2017-10-22,boxscore,Win,0,Home,Broncos,21,0,15,26,162,2,0,3,21,7.0,5.6,57.7,101.8,26,80,3.1,0,0,0,3,3,8,413,3,12,0,1,28:56,2017,Chargers
+7,8,Sun,2017-10-29,boxscore,Loss,0,Away,Patriots,13,21,17,30,192,1,1,1,20,7.1,6.2,56.7,73.2,21,157,7.5,1,0,1,1,1,5,225,3,10,1,1,23:01,2017,Chargers
+8,10,Sun,2017-11-12,boxscore,Loss,1,Away,Jaguars,17,20,21,37,235,2,1,0,0,6.4,6.4,56.8,82.6,30,87,2.9,0,1,1,2,2,10,485,3,15,0,0,31:47,2017,Chargers
+9,11,Sun,2017-11-19,boxscore,Win,0,Home,Bills,54,24,25,37,283,2,0,1,1,7.7,7.4,67.6,108.3,35,146,4.2,2,4,5,6,6,2,73,7,14,0,0,36:05,2017,Chargers
+10,12,Thu,2017-11-23,boxscore,Win,0,Away,Cowboys,28,6,27,33,434,3,0,0,0,13.2,13.2,81.8,149.1,33,81,2.5,0,1,2,1,4,0,0,9,14,0,1,36:05,2017,Chargers
+11,13,Sun,2017-12-03,boxscore,Win,0,Home,Browns,19,10,31,43,335,1,0,1,9,8.0,7.6,72.1,102.4,25,94,3.8,0,4,5,1,1,2,73,8,15,1,1,34:57,2017,Chargers
+12,14,Sun,2017-12-10,boxscore,Win,0,Home,Redskins,30,13,19,34,314,2,1,2,8,9.5,8.7,55.9,94.5,35,174,5.0,1,3,3,3,3,5,264,6,15,0,0,35:20,2017,Chargers
+13,15,Sat,2017-12-16,boxscore,Loss,0,Away,Chiefs,13,30,20,36,209,1,3,2,18,6.3,5.5,55.6,47.1,22,98,4.5,1,0,0,1,2,3,149,4,11,1,2,26:39,2017,Chargers
+14,16,Sun,2017-12-24,boxscore,Win,0,Away,Jets,14,7,22,40,290,1,0,0,0,7.3,7.3,55.0,86.5,30,89,3.0,1,0,1,2,2,9,416,5,15,0,0,32:58,2017,Chargers
+15,17,Sun,2017-12-31,boxscore,Win,0,Home,Raiders,30,10,28,37,380,3,0,1,7,10.5,10.0,75.7,135.0,30,115,3.8,0,1,2,3,4,2,63,7,13,0,1,33:20,2017,Chargers

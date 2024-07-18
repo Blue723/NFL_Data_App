@@ -1,17 +1,17 @@
 ,Week,Day,Date,Time,Win/Loss,Overtime,Team Record,Home/Away,Opponent,Points Scored,Points Allowed,Offense 1st Down,Total Yards Gained of Offense,Total yards Gained by Passing,Total Yards Gained by Rushing,Offense Turnovers,Defense 1st Down,Total Yards Allowed by Defense,Total Passing Yards Allowed by Defense,Total Rushing Yards Allowed by Defense,Defense Turnovers,Offense,Defense,Sp. Tms,Team,Year
-0,1,Sun,2017-09-10,nan,Win,0,1-0,home,New York Giants,19,3,22,392,263,129,0,13,233,198,35,1,10.62,5.48,-2.73,Cowboys,2017
-1,2,Sun,2017-09-17,nan,Loss,0,1-1,away,Denver Broncos,17,42,16,268,228,40,2,26,380,202,178,2,-21.83,-9.11,6.44,Cowboys,2017
-2,3,Mon,2017-09-25,nan,Win,0,2-1,away,Arizona Cardinals,28,17,15,273,174,99,0,22,332,283,49,0,8.02,-3.02,5.45,Cowboys,2017
-3,4,Sun,2017-10-01,nan,Loss,0,2-2,home,Los Angeles Rams,30,35,22,440,251,189,2,24,412,244,168,0,14.94,-13.53,-9.26,Cowboys,2017
-4,5,Sun,2017-10-08,nan,Loss,0,2-3,home,Green Bay Packers,31,35,26,408,245,163,3,25,342,182,160,1,19.13,-23.19,2.23,Cowboys,2017
-5,7,Sun,2017-10-22,nan,Win,0,3-3,away,San Francisco 49ers,40,10,27,501,236,265,0,23,290,187,103,3,28.6,7.8,-0.96,Cowboys,2017
-6,8,Sun,2017-10-29,nan,Win,0,4-3,away,Washington Redskins,33,19,18,307,138,169,1,16,285,236,49,3,-2.02,2.45,12.19,Cowboys,2017
-7,9,Sun,2017-11-05,nan,Win,0,5-3,home,Kansas City Chiefs,28,17,24,375,244,131,0,17,323,255,68,1,19.63,-4.76,-5.67,Cowboys,2017
-8,10,Sun,2017-11-12,nan,Loss,0,5-4,away,Atlanta Falcons,7,27,18,233,126,107,2,22,336,204,132,1,-9.4,-7.61,-2.02,Cowboys,2017
-9,11,Sun,2017-11-19,nan,Loss,0,5-5,home,Philadelphia Eagles,9,37,14,225,113,112,4,17,383,168,215,0,-23.68,-15.09,12.66,Cowboys,2017
-10,12,Thu,2017-11-23,nan,Loss,0,5-6,home,Los Angeles Chargers,6,28,14,247,168,79,2,25,515,434,81,0,-9.49,-26.42,11.7,Cowboys,2017
-11,13,Thu,2017-11-30,nan,Win,0,6-6,home,Washington Redskins,38,14,21,275,93,182,0,15,280,224,56,4,7.94,4.45,8.49,Cowboys,2017
-12,14,Sun,2017-12-10,nan,Win,0,7-6,away,New York Giants,30,10,19,454,332,122,0,21,330,228,102,2,18.33,4.71,-5.19,Cowboys,2017
-13,15,Sun,2017-12-17,nan,Win,0,8-6,away,Oakland Raiders,20,17,21,330,204,126,2,19,293,171,122,1,6.11,-5.2,2.88,Cowboys,2017
-14,16,Sun,2017-12-24,nan,Loss,0,8-7,home,Seattle Seahawks,12,21,21,282,154,128,3,15,136,60,76,0,-7.97,5.32,-6.11,Cowboys,2017
-15,17,Sun,2017-12-31,nan,Win,0,9-7,away,Philadelphia Eagles,6,0,16,301,172,129,1,12,219,149,70,2,-6.53,16.51,-5.76,Cowboys,2017
+0,1,Sun,2017-09-10,,Win,0,1-0,home,Giants,19,3,22,392,263,129,0,13,233,198,35,1,10.62,5.48,-2.73,Cowboys,2017
+1,2,Sun,2017-09-17,,Loss,0,1-1,away,Broncos,17,42,16,268,228,40,2,26,380,202,178,2,-21.83,-9.11,6.44,Cowboys,2017
+2,3,Mon,2017-09-25,,Win,0,2-1,away,Cardinals,28,17,15,273,174,99,0,22,332,283,49,0,8.02,-3.02,5.45,Cowboys,2017
+3,4,Sun,2017-10-01,,Loss,0,2-2,home,Rams,30,35,22,440,251,189,2,24,412,244,168,0,14.94,-13.53,-9.26,Cowboys,2017
+4,5,Sun,2017-10-08,,Loss,0,2-3,home,Packers,31,35,26,408,245,163,3,25,342,182,160,1,19.13,-23.19,2.23,Cowboys,2017
+5,7,Sun,2017-10-22,,Win,0,3-3,away,49ers,40,10,27,501,236,265,0,23,290,187,103,3,28.6,7.8,-0.96,Cowboys,2017
+6,8,Sun,2017-10-29,,Win,0,4-3,away,Redskins,33,19,18,307,138,169,1,16,285,236,49,3,-2.02,2.45,12.19,Cowboys,2017
+7,9,Sun,2017-11-05,,Win,0,5-3,home,Chiefs,28,17,24,375,244,131,0,17,323,255,68,1,19.63,-4.76,-5.67,Cowboys,2017
+8,10,Sun,2017-11-12,,Loss,0,5-4,away,Falcons,7,27,18,233,126,107,2,22,336,204,132,1,-9.4,-7.61,-2.02,Cowboys,2017
+9,11,Sun,2017-11-19,,Loss,0,5-5,home,Eagles,9,37,14,225,113,112,4,17,383,168,215,0,-23.68,-15.09,12.66,Cowboys,2017
+10,12,Thu,2017-11-23,,Loss,0,5-6,home,Chargers,6,28,14,247,168,79,2,25,515,434,81,0,-9.49,-26.42,11.7,Cowboys,2017
+11,13,Thu,2017-11-30,,Win,0,6-6,home,Redskins,38,14,21,275,93,182,0,15,280,224,56,4,7.94,4.45,8.49,Cowboys,2017
+12,14,Sun,2017-12-10,,Win,0,7-6,away,Giants,30,10,19,454,332,122,0,21,330,228,102,2,18.33,4.71,-5.19,Cowboys,2017
+13,15,Sun,2017-12-17,,Win,0,8-6,away,Raiders,20,17,21,330,204,126,2,19,293,171,122,1,6.11,-5.2,2.88,Cowboys,2017
+14,16,Sun,2017-12-24,,Loss,0,8-7,home,Seahawks,12,21,21,282,154,128,3,15,136,60,76,0,-7.97,5.32,-6.11,Cowboys,2017
+15,17,Sun,2017-12-31,,Win,0,9-7,away,Eagles,6,0,16,301,172,129,1,12,219,149,70,2,-6.53,16.51,-5.76,Cowboys,2017

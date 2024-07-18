@@ -1,19 +1,19 @@
 ,Week,Day,Date,Time,Win/Loss,Overtime,Team Record,Home/Away,Opponent,Points Scored,Points Allowed,Offense 1st Down,Total Yards Gained of Offense,Total yards Gained by Passing,Total Yards Gained by Rushing,Offense Turnovers,Defense 1st Down,Total Yards Allowed by Defense,Total Passing Yards Allowed by Defense,Total Rushing Yards Allowed by Defense,Defense Turnovers,Offense,Defense,Sp. Tms,Team,Year
-0,1,Mon,2017-09-11,nan,Win,0,1-0,home,New Orleans Saints,29,19,23,470,341,129,0,19,344,284,60,0,24.38,-10.01,0.89,Vikings,2017
-1,2,Sun,2017-09-17,nan,Loss,0,1-1,away,Pittsburgh Steelers,9,26,14,237,146,91,1,22,335,233,102,0,-14.51,-0.48,3.84,Vikings,2017
-2,3,Sun,2017-09-24,nan,Win,0,2-1,home,Tampa Bay Buccaneers,34,17,25,494,369,125,0,20,342,316,26,3,22.43,-2.64,-1.8,Vikings,2017
-3,4,Sun,2017-10-01,nan,Loss,0,2-2,home,Detroit Lions,7,14,15,284,197,87,3,19,251,154,97,0,-10.05,5.23,0.21,Vikings,2017
-4,5,Mon,2017-10-09,nan,Win,0,3-2,away,Chicago Bears,20,17,17,300,141,159,0,16,274,159,115,2,2.14,3.39,-2.08,Vikings,2017
-5,6,Sun,2017-10-15,nan,Win,0,4-2,home,Green Bay Packers,23,10,24,351,239,112,2,14,227,155,72,3,-4.65,17.19,-2.65,Vikings,2017
-6,7,Sun,2017-10-22,nan,Win,0,5-2,home,Baltimore Ravens,24,16,17,357,188,169,1,16,208,144,64,0,2.8,3.93,-0.59,Vikings,2017
-7,8,Sun,2017-10-29,nan,Win,0,6-2,away,Cleveland Browns,33,16,26,375,287,88,1,16,276,161,115,2,8.79,4.53,0.63,Vikings,2017
-8,10,Sun,2017-11-12,nan,Win,0,7-2,away,Washington Redskins,38,30,21,406,304,102,2,24,394,313,81,1,8.57,-5.61,1.0,Vikings,2017
-9,11,Sun,2017-11-19,nan,Win,0,8-2,home,Los Angeles Rams,24,7,27,451,280,171,0,15,254,209,45,1,18.47,4.81,-5.97,Vikings,2017
-10,12,Thu,2017-11-23,nan,Win,0,9-2,away,Detroit Lions,30,23,28,408,272,136,0,17,289,236,53,2,14.39,1.95,-5.37,Vikings,2017
-11,13,Sun,2017-12-03,nan,Win,0,10-2,away,Atlanta Falcons,14,9,22,312,207,105,0,15,275,173,102,0,5.93,0.67,1.97,Vikings,2017
-12,14,Sun,2017-12-10,nan,Loss,0,10-3,away,Carolina Panthers,24,31,21,356,256,100,3,15,345,129,216,1,-2.26,-5.54,1.07,Vikings,2017
-13,15,Sun,2017-12-17,nan,Win,0,11-3,home,Cincinnati Bengals,34,7,18,346,222,124,1,8,161,115,46,2,3.03,26.85,-3.2,Vikings,2017
-14,16,Sat,2017-12-23,nan,Win,0,12-3,away,Green Bay Packers,16,0,15,236,124,112,0,12,239,126,113,2,-4.52,23.46,-3.17,Vikings,2017
-15,17,Sun,2017-12-31,nan,Win,0,13-3,home,Chicago Bears,23,10,21,327,180,147,0,12,201,171,30,0,6.33,18.03,-13.52,Vikings,2017
-16,19,Sun,2018-01-14,nan,Win,0,14-3,home,New Orleans Saints,29,24,24,403,308,95,1,23,358,278,80,2,12.63,-5.49,-2.99,Vikings,2017
-17,20,Sun,2018-01-21,nan,Loss,0,14-4,away,Philadelphia Eagles,7,38,22,333,263,70,3,27,456,346,110,0,-9.11,-25.85,4.48,Vikings,2017
+0,1,Mon,2017-09-11,,Win,0,1-0,home,Saints,29,19,23,470,341,129,0,19,344,284,60,0,24.38,-10.01,0.89,Vikings,2017
+1,2,Sun,2017-09-17,,Loss,0,1-1,away,Steelers,9,26,14,237,146,91,1,22,335,233,102,0,-14.51,-0.48,3.84,Vikings,2017
+2,3,Sun,2017-09-24,,Win,0,2-1,home,Buccaneers,34,17,25,494,369,125,0,20,342,316,26,3,22.43,-2.64,-1.8,Vikings,2017
+3,4,Sun,2017-10-01,,Loss,0,2-2,home,Lions,7,14,15,284,197,87,3,19,251,154,97,0,-10.05,5.23,0.21,Vikings,2017
+4,5,Mon,2017-10-09,,Win,0,3-2,away,Bears,20,17,17,300,141,159,0,16,274,159,115,2,2.14,3.39,-2.08,Vikings,2017
+5,6,Sun,2017-10-15,,Win,0,4-2,home,Packers,23,10,24,351,239,112,2,14,227,155,72,3,-4.65,17.19,-2.65,Vikings,2017
+6,7,Sun,2017-10-22,,Win,0,5-2,home,Ravens,24,16,17,357,188,169,1,16,208,144,64,0,2.8,3.93,-0.59,Vikings,2017
+7,8,Sun,2017-10-29,,Win,0,6-2,away,Browns,33,16,26,375,287,88,1,16,276,161,115,2,8.79,4.53,0.63,Vikings,2017
+8,10,Sun,2017-11-12,,Win,0,7-2,away,Redskins,38,30,21,406,304,102,2,24,394,313,81,1,8.57,-5.61,1.0,Vikings,2017
+9,11,Sun,2017-11-19,,Win,0,8-2,home,Rams,24,7,27,451,280,171,0,15,254,209,45,1,18.47,4.81,-5.97,Vikings,2017
+10,12,Thu,2017-11-23,,Win,0,9-2,away,Lions,30,23,28,408,272,136,0,17,289,236,53,2,14.39,1.95,-5.37,Vikings,2017
+11,13,Sun,2017-12-03,,Win,0,10-2,away,Falcons,14,9,22,312,207,105,0,15,275,173,102,0,5.93,0.67,1.97,Vikings,2017
+12,14,Sun,2017-12-10,,Loss,0,10-3,away,Panthers,24,31,21,356,256,100,3,15,345,129,216,1,-2.26,-5.54,1.07,Vikings,2017
+13,15,Sun,2017-12-17,,Win,0,11-3,home,Bengals,34,7,18,346,222,124,1,8,161,115,46,2,3.03,26.85,-3.2,Vikings,2017
+14,16,Sat,2017-12-23,,Win,0,12-3,away,Packers,16,0,15,236,124,112,0,12,239,126,113,2,-4.52,23.46,-3.17,Vikings,2017
+15,17,Sun,2017-12-31,,Win,0,13-3,home,Bears,23,10,21,327,180,147,0,12,201,171,30,0,6.33,18.03,-13.52,Vikings,2017
+16,19,Sun,2018-01-14,,Win,0,14-3,home,Saints,29,24,24,403,308,95,1,23,358,278,80,2,12.63,-5.49,-2.99,Vikings,2017
+17,20,Sun,2018-01-21,,Loss,0,14-4,away,Eagles,7,38,22,333,263,70,3,27,456,346,110,0,-9.11,-25.85,4.48,Vikings,2017

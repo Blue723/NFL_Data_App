@@ -1,0 +1,17 @@
+,Week,Day,Date,Boxscore,Win/Loss,Overtime,Home/Away,Opponent,Team Score,Opponenet Score,Passing Completion,Passing Attempts,Passing Yards,Passing Touchdowns,Passing Interceptions,Passing Sacks,Sack Yards,Passing Yards/Attempts,Net Yards/Attempts,Passing Completion Per.,Passing Rate,Rushing Attempts,Rushing Yards,Rushing Yards/Attempts,Rushing Touchdown,Field Goals Made,Field Goals Attempts,Extra Points Made,Extra Point Attempts,Punts,Total Punt Yards,Third Down Conversions,Third Down Attempts,Fourth Down Conversions,Fourth Down Attemtps,Time of Possesion,Year,Team
+0,1,Mon,2017-09-11,boxscore,Win,0.0,Home,Saints,29,19,27,32,341,3,0,1,5,10.8,10.3,84.4,142.3,30,129,4.3,0,3,3,2,3,2,87,9,14,0,0,31:16,2017,Vikings
+1,2,Sun,2017-09-17,boxscore,Loss,0.0,Away,Steelers,9,26,20,38,146,0,0,2,21,4.4,3.7,52.6,62.0,20,91,4.6,1,1,1,0,1,6,264,5,15,0,3,25:38,2017,Vikings
+2,3,Sun,2017-09-24,boxscore,Win,0.0,Home,Buccaneers,34,17,25,33,369,3,0,0,0,11.2,11.2,75.8,142.1,37,125,3.4,1,2,2,4,4,3,121,7,13,0,0,37:46,2017,Vikings
+3,4,Sun,2017-10-01,boxscore,Loss,0.0,Home,Lions,7,14,16,30,197,0,0,2,22,7.3,6.2,53.3,73.9,22,87,4.0,1,0,1,1,1,5,201,3,10,0,1,23:33,2017,Vikings
+4,5,Mon,2017-10-09,boxscore,Win,0.0,Away,Bears,20,17,22,32,141,1,0,4,35,5.5,3.9,68.8,88.2,31,159,5.1,1,2,2,2,2,6,258,6,15,0,0,31:24,2017,Vikings
+5,6,Sun,2017-10-15,boxscore,Win,0.0,Home,Packers,23,10,24,38,239,1,1,0,0,6.3,6.3,63.2,78.7,32,112,3.5,1,3,3,2,2,4,155,4,12,0,1,32:09,2017,Vikings
+6,7,Sun,2017-10-22,boxscore,Win,0.0,Home,Ravens,24,16,20,31,188,0,1,0,0,6.1,6.1,64.5,67.7,33,169,5.1,1,6,6,0,1,2,92,7,15,0,0,32:01,2017,Vikings
+7,8,Sun,2017-10-29,boxscore,Win,0.0,Away,Browns,33,16,27,43,287,2,1,1,1,6.7,6.5,62.8,88.0,34,88,2.6,1,4,4,1,2,6,221,6,16,0,0,37:52,2017,Vikings
+8,10,Sun,2017-11-12,boxscore,Win,0.0,Away,Redskins,38,30,21,29,304,4,2,0,0,10.5,10.5,72.4,117.0,31,102,3.3,1,1,1,5,5,2,79,8,12,0,0,28:54,2017,Vikings
+9,11,Sun,2017-11-19,boxscore,Win,0.0,Home,Rams,24,7,27,38,280,1,0,0,0,7.4,7.4,71.1,100.8,35,171,4.9,2,1,3,3,3,3,137,7,14,1,1,37:22,2017,Vikings
+10,12,Thu,2017-11-23,boxscore,Win,0.0,Away,Lions,30,23,21,30,272,2,0,2,10,9.4,8.5,70.0,120.4,41,136,3.3,2,1,2,3,4,4,171,6,13,0,0,34:57,2017,Vikings
+11,13,Sun,2017-12-03,boxscore,Win,0.0,Away,Falcons,14,9,25,30,207,2,0,2,20,7.6,6.5,83.3,117.6,31,105,3.4,0,0,0,2,2,5,225,6,12,0,0,34:02,2017,Vikings
+12,14,Sun,2017-12-10,boxscore,Loss,0.0,Away,Panthers,24,31,27,44,256,2,2,6,24,6.4,5.1,61.4,73.7,21,100,4.8,0,3,4,1,1,3,131,7,15,0,1,28:42,2017,Vikings
+13,15,Sun,2017-12-17,boxscore,Win,0.0,Home,Bengals,34,7,20,25,222,2,1,2,14,9.4,8.2,80.0,113.7,34,124,3.6,1,2,2,4,4,5,217,4,12,0,0,35:52,2017,Vikings
+14,16,Sat,2017-12-23,boxscore,Win,0.0,Away,Packers,16,0,14,25,124,1,0,3,15,5.6,4.4,56.0,82.7,33,112,3.4,0,3,3,1,1,7,277,4,15,0,0,31:37,2017,Vikings
+15,17,Sun,2017-12-31,boxscore,Win,0.0,Home,Bears,23,10,21,29,180,1,0,2,9,6.5,5.8,72.4,99.8,36,147,4.1,2,0,1,3,3,8,358,5,13,0,0,35:55,2017,Vikings

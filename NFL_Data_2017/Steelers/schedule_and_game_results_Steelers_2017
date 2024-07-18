@@ -1,18 +1,18 @@
 ,Week,Day,Date,Time,Win/Loss,Overtime,Team Record,Home/Away,Opponent,Points Scored,Points Allowed,Offense 1st Down,Total Yards Gained of Offense,Total yards Gained by Passing,Total Yards Gained by Rushing,Offense Turnovers,Defense 1st Down,Total Yards Allowed by Defense,Total Passing Yards Allowed by Defense,Total Rushing Yards Allowed by Defense,Defense Turnovers,Offense,Defense,Sp. Tms,Team,Year
-0,1,Sun,2017-09-10,nan,Win,0,1-0,away,Cleveland Browns,21,18,16,290,255,35,1,20,237,180,57,1,0.73,-1.53,4.8,Steelers,2017
-1,2,Sun,2017-09-17,nan,Win,0,2-0,home,Minnesota Vikings,26,9,22,335,233,102,0,14,237,146,91,1,0.48,14.51,-3.84,Steelers,2017
-2,3,Sun,2017-09-24,nan,Loss,1,2-1,away,Chicago Bears,17,23,19,282,212,70,2,18,306,84,222,2,1.44,2.54,-10.53,Steelers,2017
-3,4,Sun,2017-10-01,nan,Win,0,3-1,away,Baltimore Ravens,26,9,22,381,208,173,1,18,288,206,82,3,4.95,12.75,-0.23,Steelers,2017
-4,5,Sun,2017-10-08,nan,Loss,0,3-2,home,Jacksonville Jaguars,9,30,21,371,301,70,5,15,313,82,231,1,-18.08,-4.84,3.4,Steelers,2017
-5,6,Sun,2017-10-15,nan,Win,0,4-2,away,Kansas City Chiefs,19,13,23,439,245,194,1,12,251,223,28,0,9.1,13.62,-13.13,Steelers,2017
-6,7,Sun,2017-10-22,nan,Win,0,5-2,home,Cincinnati Bengals,29,14,21,420,268,152,0,11,179,108,71,2,10.43,9.05,-4.14,Steelers,2017
-7,8,Sun,2017-10-29,nan,Win,0,6-2,away,Detroit Lions,20,15,17,392,317,75,2,21,482,411,71,1,7.88,-0.88,-0.42,Steelers,2017
-8,10,Sun,2017-11-12,nan,Win,0,7-2,away,Indianapolis Colts,20,17,18,316,228,88,1,13,267,196,71,1,3.64,4.91,-5.48,Steelers,2017
-9,11,Thu,2017-11-16,nan,Win,0,8-2,home,Tennessee Titans,40,17,25,349,284,65,0,17,316,264,52,4,10.02,10.68,4.56,Steelers,2017
-10,12,Sun,2017-11-26,nan,Win,0,9-2,home,Green Bay Packers,31,28,28,462,341,121,3,15,307,227,80,0,15.4,-11.73,-0.77,Steelers,2017
-11,13,Mon,2017-12-04,nan,Win,0,10-2,away,Cincinnati Bengals,23,20,24,374,282,92,1,19,353,223,130,0,15.0,-7.63,-4.37,Steelers,2017
-12,14,Sun,2017-12-10,nan,Win,0,11-2,home,Baltimore Ravens,39,38,31,545,486,59,0,26,413,261,152,1,25.48,-23.83,1.92,Steelers,2017
-13,15,Sun,2017-12-17,nan,Loss,0,11-3,home,New England Patriots,24,27,21,413,270,143,1,21,360,283,77,1,12.04,-15.3,0.66,Steelers,2017
-14,16,Mon,2017-12-25,nan,Win,0,12-3,away,Houston Texans,34,6,20,330,226,104,0,13,227,51,176,2,16.63,11.08,0.91,Steelers,2017
-15,17,Sun,2017-12-31,nan,Win,0,13-3,home,Cleveland Browns,28,24,20,348,224,124,2,17,374,272,102,2,0.88,-3.23,4.3,Steelers,2017
-16,19,Sun,2018-01-14,nan,Loss,0,13-4,home,Jacksonville Jaguars,42,45,28,545,462,83,2,22,378,214,164,0,18.14,-20.52,1.71,Steelers,2017
+0,1,Sun,2017-09-10,,Win,0,1-0,away,Browns,21,18,16,290,255,35,1,20,237,180,57,1,0.73,-1.53,4.8,Steelers,2017
+1,2,Sun,2017-09-17,,Win,0,2-0,home,Vikings,26,9,22,335,233,102,0,14,237,146,91,1,0.48,14.51,-3.84,Steelers,2017
+2,3,Sun,2017-09-24,,Loss,1,2-1,away,Bears,17,23,19,282,212,70,2,18,306,84,222,2,1.44,2.54,-10.53,Steelers,2017
+3,4,Sun,2017-10-01,,Win,0,3-1,away,Ravens,26,9,22,381,208,173,1,18,288,206,82,3,4.95,12.75,-0.23,Steelers,2017
+4,5,Sun,2017-10-08,,Loss,0,3-2,home,Jaguars,9,30,21,371,301,70,5,15,313,82,231,1,-18.08,-4.84,3.4,Steelers,2017
+5,6,Sun,2017-10-15,,Win,0,4-2,away,Chiefs,19,13,23,439,245,194,1,12,251,223,28,0,9.1,13.62,-13.13,Steelers,2017
+6,7,Sun,2017-10-22,,Win,0,5-2,home,Bengals,29,14,21,420,268,152,0,11,179,108,71,2,10.43,9.05,-4.14,Steelers,2017
+7,8,Sun,2017-10-29,,Win,0,6-2,away,Lions,20,15,17,392,317,75,2,21,482,411,71,1,7.88,-0.88,-0.42,Steelers,2017
+8,10,Sun,2017-11-12,,Win,0,7-2,away,Colts,20,17,18,316,228,88,1,13,267,196,71,1,3.64,4.91,-5.48,Steelers,2017
+9,11,Thu,2017-11-16,,Win,0,8-2,home,Titans,40,17,25,349,284,65,0,17,316,264,52,4,10.02,10.68,4.56,Steelers,2017
+10,12,Sun,2017-11-26,,Win,0,9-2,home,Packers,31,28,28,462,341,121,3,15,307,227,80,0,15.4,-11.73,-0.77,Steelers,2017
+11,13,Mon,2017-12-04,,Win,0,10-2,away,Bengals,23,20,24,374,282,92,1,19,353,223,130,0,15.0,-7.63,-4.37,Steelers,2017
+12,14,Sun,2017-12-10,,Win,0,11-2,home,Ravens,39,38,31,545,486,59,0,26,413,261,152,1,25.48,-23.83,1.92,Steelers,2017
+13,15,Sun,2017-12-17,,Loss,0,11-3,home,Patriots,24,27,21,413,270,143,1,21,360,283,77,1,12.04,-15.3,0.66,Steelers,2017
+14,16,Mon,2017-12-25,,Win,0,12-3,away,Texans,34,6,20,330,226,104,0,13,227,51,176,2,16.63,11.08,0.91,Steelers,2017
+15,17,Sun,2017-12-31,,Win,0,13-3,home,Browns,28,24,20,348,224,124,2,17,374,272,102,2,0.88,-3.23,4.3,Steelers,2017
+16,19,Sun,2018-01-14,,Loss,0,13-4,home,Jaguars,42,45,28,545,462,83,2,22,378,214,164,0,18.14,-20.52,1.71,Steelers,2017
