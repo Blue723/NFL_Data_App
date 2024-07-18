@@ -1,17 +1,17 @@
 ,Week,Day,Date,Time,Win/Loss,Overtime,Team Record,Home/Away,Opponent,Points Scored,Points Allowed,Offense 1st Down,Total Yards Gained of Offense,Total yards Gained by Passing,Total Yards Gained by Rushing,Offense Turnovers,Defense 1st Down,Total Yards Allowed by Defense,Total Passing Yards Allowed by Defense,Total Rushing Yards Allowed by Defense,Defense Turnovers,Offense,Defense,Sp. Tms,Team,Year
-0,1,Sun,2012-09-09,nan,Loss,0,0-1,home,Philadelphia Eagles,16,17,12,210,111,99,4,25,456,306,150,5,-22.62,15.96,6.07,Browns,2012
-1,2,Sun,2012-09-16,nan,Loss,0,0-2,away,Cincinnati Bengals,27,34,21,439,309,130,1,21,375,295,80,1,11.26,-15.9,-5.51,Browns,2012
-2,3,Sun,2012-09-23,nan,Loss,0,0-3,home,Buffalo Bills,14,24,17,240,207,33,2,19,344,206,138,1,-12.23,-1.48,1.16,Browns,2012
-3,4,Thu,2012-09-27,nan,Loss,0,0-4,away,Baltimore Ravens,16,23,20,357,314,43,2,23,438,337,101,1,-8.56,-1.96,8.65,Browns,2012
-4,5,Sun,2012-10-07,nan,Loss,0,0-5,away,New York Giants,27,41,15,375,291,84,3,30,502,259,243,2,3.76,-25.56,4.76,Browns,2012
-5,6,Sun,2012-10-14,nan,Win,0,1-5,home,Cincinnati Bengals,34,24,16,328,218,110,1,20,438,362,76,4,-3.35,8.17,0.82,Browns,2012
-6,7,Sun,2012-10-21,nan,Loss,0,1-6,away,Indianapolis Colts,13,17,19,319,264,55,0,21,321,173,148,1,7.49,-6.45,-2.78,Browns,2012
-7,8,Sun,2012-10-28,nan,Win,0,2-6,home,San Diego Chargers,7,6,15,250,117,133,0,17,265,148,117,1,-6.41,14.16,-6.38,Browns,2012
-8,9,Sun,2012-11-04,nan,Loss,0,2-7,home,Baltimore Ravens,15,25,17,290,174,116,2,18,282,145,137,0,-9.08,-3.72,0.87,Browns,2012
-9,11,Sun,2012-11-18,nan,Loss,1,2-8,away,Dallas Cowboys,20,23,19,311,192,119,1,30,320,257,63,1,-0.6,-3.48,3.61,Browns,2012
-10,12,Sun,2012-11-25,nan,Win,0,3-8,home,Pittsburgh Steelers,20,14,14,238,130,108,1,13,242,193,49,8,-20.41,26.18,2.69,Browns,2012
-11,13,Sun,2012-12-02,nan,Win,0,4-8,away,Oakland Raiders,20,17,23,475,353,122,2,25,429,344,85,1,16.06,-13.66,4.04,Browns,2012
-12,14,Sun,2012-12-09,nan,Win,0,5-8,home,Kansas City Chiefs,30,7,20,352,198,154,0,12,310,130,180,1,4.11,5.78,11.6,Browns,2012
-13,15,Sun,2012-12-16,nan,Loss,0,5-9,home,Washington Redskins,21,38,13,291,233,58,2,25,430,308,122,1,-9.43,-11.88,0.39,Browns,2012
-14,16,Sun,2012-12-23,nan,Loss,0,5-10,away,Denver Broncos,12,34,20,233,142,91,1,29,457,339,118,1,-5.68,-18.12,-2.68,Browns,2012
-15,17,Sun,2012-12-30,nan,Loss,0,5-11,away,Pittsburgh Steelers,10,24,18,320,182,138,4,17,212,121,91,0,-7.78,-1.8,-3.53,Browns,2012
+0,1,Sun,2012-09-09,,Loss,0,0-1,home,Eagles,16,17,12,210,111,99,4,25,456,306,150,5,-22.62,15.96,6.07,Browns,2012
+1,2,Sun,2012-09-16,,Loss,0,0-2,away,Bengals,27,34,21,439,309,130,1,21,375,295,80,1,11.26,-15.9,-5.51,Browns,2012
+2,3,Sun,2012-09-23,,Loss,0,0-3,home,Bills,14,24,17,240,207,33,2,19,344,206,138,1,-12.23,-1.48,1.16,Browns,2012
+3,4,Thu,2012-09-27,,Loss,0,0-4,away,Ravens,16,23,20,357,314,43,2,23,438,337,101,1,-8.56,-1.96,8.65,Browns,2012
+4,5,Sun,2012-10-07,,Loss,0,0-5,away,Giants,27,41,15,375,291,84,3,30,502,259,243,2,3.76,-25.56,4.76,Browns,2012
+5,6,Sun,2012-10-14,,Win,0,1-5,home,Bengals,34,24,16,328,218,110,1,20,438,362,76,4,-3.35,8.17,0.82,Browns,2012
+6,7,Sun,2012-10-21,,Loss,0,1-6,away,Colts,13,17,19,319,264,55,0,21,321,173,148,1,7.49,-6.45,-2.78,Browns,2012
+7,8,Sun,2012-10-28,,Win,0,2-6,home,Chargers,7,6,15,250,117,133,0,17,265,148,117,1,-6.41,14.16,-6.38,Browns,2012
+8,9,Sun,2012-11-04,,Loss,0,2-7,home,Ravens,15,25,17,290,174,116,2,18,282,145,137,0,-9.08,-3.72,0.87,Browns,2012
+9,11,Sun,2012-11-18,,Loss,1,2-8,away,Cowboys,20,23,19,311,192,119,1,30,320,257,63,1,-0.6,-3.48,3.61,Browns,2012
+10,12,Sun,2012-11-25,,Win,0,3-8,home,Steelers,20,14,14,238,130,108,1,13,242,193,49,8,-20.41,26.18,2.69,Browns,2012
+11,13,Sun,2012-12-02,,Win,0,4-8,away,Raiders,20,17,23,475,353,122,2,25,429,344,85,1,16.06,-13.66,4.04,Browns,2012
+12,14,Sun,2012-12-09,,Win,0,5-8,home,Chiefs,30,7,20,352,198,154,0,12,310,130,180,1,4.11,5.78,11.6,Browns,2012
+13,15,Sun,2012-12-16,,Loss,0,5-9,home,Redskins,21,38,13,291,233,58,2,25,430,308,122,1,-9.43,-11.88,0.39,Browns,2012
+14,16,Sun,2012-12-23,,Loss,0,5-10,away,Broncos,12,34,20,233,142,91,1,29,457,339,118,1,-5.68,-18.12,-2.68,Browns,2012
+15,17,Sun,2012-12-30,,Loss,0,5-11,away,Steelers,10,24,18,320,182,138,4,17,212,121,91,0,-7.78,-1.8,-3.53,Browns,2012

@@ -1,17 +1,17 @@
 ,Week,Day,Date,Time,Win/Loss,Overtime,Team Record,Home/Away,Opponent,Points Scored,Points Allowed,Offense 1st Down,Total Yards Gained of Offense,Total yards Gained by Passing,Total Yards Gained by Rushing,Offense Turnovers,Defense 1st Down,Total Yards Allowed by Defense,Total Passing Yards Allowed by Defense,Total Rushing Yards Allowed by Defense,Defense Turnovers,Offense,Defense,Sp. Tms,Team,Year
-0,1,Sun,2012-09-09,nan,Loss,0,0-1,home,Atlanta Falcons,24,40,22,393,241,152,3,21,376,292,84,0,9.33,-18.91,-8.49,Chiefs,2012
-1,2,Sun,2012-09-16,nan,Loss,0,0-2,away,Buffalo Bills,17,35,25,422,272,150,3,15,379,178,201,0,-1.75,-11.38,-4.69,Chiefs,2012
-2,3,Sun,2012-09-23,nan,Win,1,1-2,away,New Orleans Saints,27,24,27,510,237,273,3,14,288,205,83,1,-1.14,1.18,1.17,Chiefs,2012
-3,4,Sun,2012-09-30,nan,Loss,0,1-3,home,San Diego Chargers,20,37,25,349,234,115,6,19,293,189,104,1,-14.07,-2.82,1.94,Chiefs,2012
-4,5,Sun,2012-10-07,nan,Loss,0,1-4,home,Baltimore Ravens,6,9,19,338,124,214,4,15,298,165,133,2,-13.54,5.96,2.61,Chiefs,2012
-5,6,Sun,2012-10-14,nan,Loss,0,1-5,away,Tampa Bay Buccaneers,10,38,15,260,180,80,2,19,463,318,145,2,-23.18,-17.89,10.62,Chiefs,2012
-6,8,Sun,2012-10-28,nan,Loss,0,1-6,home,Oakland Raiders,16,26,17,299,197,102,4,15,344,209,135,1,-12.51,0.73,-2.54,Chiefs,2012
-7,9,Thu,2012-11-01,nan,Loss,0,1-7,away,San Diego Chargers,13,31,21,289,176,113,4,18,339,216,123,2,-7.99,-9.03,-3.69,Chiefs,2012
-8,10,Mon,2012-11-12,nan,Loss,1,1-8,away,Pittsburgh Steelers,13,16,14,290,148,142,1,14,249,154,95,1,-10.61,7.27,0.71,Chiefs,2012
-9,11,Sun,2012-11-18,nan,Loss,0,1-9,home,Cincinnati Bengals,6,28,16,284,171,113,1,22,409,220,189,0,-10.84,-15.5,2.38,Chiefs,2012
-10,12,Sun,2012-11-25,nan,Loss,0,1-10,home,Denver Broncos,9,17,13,264,116,148,1,21,368,273,95,1,-6.75,-9.13,6.75,Chiefs,2012
-11,13,Sun,2012-12-02,nan,Win,0,2-10,home,Carolina Panthers,27,21,23,355,197,158,0,19,385,220,165,0,18.7,-20.52,2.45,Chiefs,2012
-12,14,Sun,2012-12-09,nan,Loss,0,2-11,away,Cleveland Browns,7,30,12,310,130,180,1,20,352,198,154,0,-5.78,-4.11,-11.6,Chiefs,2012
-13,15,Sun,2012-12-16,nan,Loss,0,2-12,away,Oakland Raiders,0,15,7,119,109,10,1,21,385,182,203,1,-24.24,1.64,5.8,Chiefs,2012
-14,16,Sun,2012-12-23,nan,Loss,0,2-13,home,Indianapolis Colts,13,20,22,507,155,352,3,16,288,198,90,0,-0.19,1.07,-8.28,Chiefs,2012
-15,17,Sun,2012-12-30,nan,Loss,0,2-14,away,Denver Broncos,3,38,8,119,26,93,0,32,488,316,172,1,-14.79,-20.95,3.42,Chiefs,2012
+0,1,Sun,2012-09-09,,Loss,0,0-1,home,Falcons,24,40,22,393,241,152,3,21,376,292,84,0,9.33,-18.91,-8.49,Chiefs,2012
+1,2,Sun,2012-09-16,,Loss,0,0-2,away,Bills,17,35,25,422,272,150,3,15,379,178,201,0,-1.75,-11.38,-4.69,Chiefs,2012
+2,3,Sun,2012-09-23,,Win,1,1-2,away,Saints,27,24,27,510,237,273,3,14,288,205,83,1,-1.14,1.18,1.17,Chiefs,2012
+3,4,Sun,2012-09-30,,Loss,0,1-3,home,Chargers,20,37,25,349,234,115,6,19,293,189,104,1,-14.07,-2.82,1.94,Chiefs,2012
+4,5,Sun,2012-10-07,,Loss,0,1-4,home,Ravens,6,9,19,338,124,214,4,15,298,165,133,2,-13.54,5.96,2.61,Chiefs,2012
+5,6,Sun,2012-10-14,,Loss,0,1-5,away,Buccaneers,10,38,15,260,180,80,2,19,463,318,145,2,-23.18,-17.89,10.62,Chiefs,2012
+6,8,Sun,2012-10-28,,Loss,0,1-6,home,Raiders,16,26,17,299,197,102,4,15,344,209,135,1,-12.51,0.73,-2.54,Chiefs,2012
+7,9,Thu,2012-11-01,,Loss,0,1-7,away,Chargers,13,31,21,289,176,113,4,18,339,216,123,2,-7.99,-9.03,-3.69,Chiefs,2012
+8,10,Mon,2012-11-12,,Loss,1,1-8,away,Steelers,13,16,14,290,148,142,1,14,249,154,95,1,-10.61,7.27,0.71,Chiefs,2012
+9,11,Sun,2012-11-18,,Loss,0,1-9,home,Bengals,6,28,16,284,171,113,1,22,409,220,189,0,-10.84,-15.5,2.38,Chiefs,2012
+10,12,Sun,2012-11-25,,Loss,0,1-10,home,Broncos,9,17,13,264,116,148,1,21,368,273,95,1,-6.75,-9.13,6.75,Chiefs,2012
+11,13,Sun,2012-12-02,,Win,0,2-10,home,Panthers,27,21,23,355,197,158,0,19,385,220,165,0,18.7,-20.52,2.45,Chiefs,2012
+12,14,Sun,2012-12-09,,Loss,0,2-11,away,Browns,7,30,12,310,130,180,1,20,352,198,154,0,-5.78,-4.11,-11.6,Chiefs,2012
+13,15,Sun,2012-12-16,,Loss,0,2-12,away,Raiders,0,15,7,119,109,10,1,21,385,182,203,1,-24.24,1.64,5.8,Chiefs,2012
+14,16,Sun,2012-12-23,,Loss,0,2-13,home,Colts,13,20,22,507,155,352,3,16,288,198,90,0,-0.19,1.07,-8.28,Chiefs,2012
+15,17,Sun,2012-12-30,,Loss,0,2-14,away,Broncos,3,38,8,119,26,93,0,32,488,316,172,1,-14.79,-20.95,3.42,Chiefs,2012

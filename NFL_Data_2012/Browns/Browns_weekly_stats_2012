@@ -1,0 +1,17 @@
+,Week,Day,Date,Boxscore,Win/Loss,Overtime,Home/Away,Opponent,Team Score,Opponenet Score,Passing Completion,Passing Attempts,Passing Yards,Passing Touchdowns,Passing Interceptions,Passing Sacks,Sack Yards,Passing Yards/Attempts,Net Yards/Attempts,Passing Completion Per.,Passing Rate,Rushing Attempts,Rushing Yards,Rushing Yards/Attempts,Rushing Touchdown,Field Goals Made,Field Goals Attempts,Extra Points Made,Extra Point Attempts,Punts,Total Punt Yards,Third Down Conversions,Third Down Attempts,Fourth Down Conversions,Fourth Down Attemtps,Time of Possesion,Year,Team
+0,1,Sun,2012-09-09,boxscore,Loss,0,Home,Eagles,16,17,12,35,111,0,4,2,7,3.4,3.0,34.3,4.3,22,99,4.5,0,3,3,1,1,7,308,2,13,0,0,24:02,2012,Browns
+1,2,Sun,2012-09-16,boxscore,Loss,0,Away,Bengals,27,34,26,37,309,2,0,2,13,8.7,7.9,70.3,113.5,23,130,5.7,1,2,2,3,3,4,186,7,15,0,0,27:07,2012,Browns
+2,3,Sun,2012-09-23,boxscore,Loss,0,Home,Bills,14,24,27,43,207,1,2,4,30,5.5,4.4,62.8,62.8,13,33,2.5,1,0,0,2,2,8,336,3,11,0,0,27:04,2012,Browns
+3,4,Thu,2012-09-27,boxscore,Loss,0,Away,Ravens,16,23,25,52,314,0,1,1,6,6.2,5.9,48.1,59.3,17,43,2.5,1,3,3,1,1,7,290,3,15,0,1,26:57,2012,Browns
+4,5,Sun,2012-10-07,boxscore,Loss,0,Away,Giants,27,41,22,35,291,2,2,0,0,8.3,8.3,62.9,84.3,19,84,4.4,1,2,2,3,3,3,144,3,12,2,2,24:36,2012,Browns
+5,6,Sun,2012-10-14,boxscore,Win,0,Home,Bengals,34,24,17,29,218,2,1,2,13,8.0,7.0,58.6,90.9,34,110,3.2,1,2,2,4,4,8,354,7,17,0,0,29:57,2012,Browns
+6,7,Sun,2012-10-21,boxscore,Loss,0,Away,Colts,13,17,25,41,264,2,0,0,0,6.4,6.4,61.0,96.0,17,55,3.2,0,0,0,1,1,5,207,6,13,0,1,24:39,2012,Browns
+7,8,Sun,2012-10-28,boxscore,Win,0,Home,Chargers,7,6,11,27,117,0,0,2,12,4.8,4.0,40.7,54.1,33,133,4.0,1,0,0,1,1,9,356,4,15,1,1,29:08,2012,Browns
+8,9,Sun,2012-11-04,boxscore,Loss,0,Home,Ravens,15,25,20,37,174,0,2,1,2,4.8,4.6,54.1,44.2,27,116,4.3,0,5,5,0,0,4,170,5,16,0,1,28:28,2012,Browns
+9,11,Sun,2012-11-18,boxscore,Loss,1,Away,Cowboys,20,23,20,35,192,2,0,2,18,6.0,5.2,57.1,91.6,33,119,3.6,0,2,2,2,2,5,223,6,15,0,1,30:43,2012,Browns
+10,12,Sun,2012-11-25,boxscore,Win,0,Home,Steelers,20,14,17,26,130,1,1,4,28,6.1,4.3,65.4,74.2,34,108,3.2,1,2,2,2,2,10,383,3,16,0,0,33:30,2012,Browns
+11,13,Sun,2012-12-02,boxscore,Win,0,Away,Raiders,20,17,25,36,353,1,2,1,11,10.1,9.5,69.4,86.9,30,122,4.1,1,2,3,2,2,2,69,3,11,2,2,32:30,2012,Browns
+12,14,Sun,2012-12-09,boxscore,Win,0,Home,Chiefs,30,7,17,30,198,0,0,3,19,7.2,6.0,56.7,76.8,35,154,4.4,2,3,3,3,3,5,204,5,15,0,0,33:29,2012,Browns
+13,15,Sun,2012-12-16,boxscore,Loss,0,Home,Redskins,21,38,21,35,233,1,2,2,11,7.0,6.3,60.0,65.5,15,58,3.9,2,0,0,3,3,6,252,4,12,0,2,23:43,2012,Browns
+14,16,Sun,2012-12-23,boxscore,Loss,0,Away,Broncos,12,34,21,36,142,1,0,6,41,5.1,3.4,58.3,76.4,18,91,5.1,0,2,2,0,0,4,169,3,12,1,3,26:20,2012,Browns
+15,17,Sun,2012-12-30,boxscore,Loss,0,Away,Steelers,10,24,22,32,182,1,1,4,22,6.4,5.1,68.8,80.5,26,138,5.3,0,1,2,1,1,3,115,3,10,1,2,29:39,2012,Browns

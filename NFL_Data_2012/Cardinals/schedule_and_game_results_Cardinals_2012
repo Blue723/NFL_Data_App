@@ -1,17 +1,17 @@
 ,Week,Day,Date,Time,Win/Loss,Overtime,Team Record,Home/Away,Opponent,Points Scored,Points Allowed,Offense 1st Down,Total Yards Gained of Offense,Total yards Gained by Passing,Total Yards Gained by Rushing,Offense Turnovers,Defense 1st Down,Total Yards Allowed by Defense,Total Passing Yards Allowed by Defense,Total Rushing Yards Allowed by Defense,Defense Turnovers,Offense,Defense,Sp. Tms,Team,Year
-0,1,Sun,2012-09-09,nan,Win,0,1-0,home,Seattle Seahawks,20,16,18,253,210,43,2,18,254,139,115,2,-4.9,9.49,-1.82,Cardinals,2012
-1,2,Sun,2012-09-16,nan,Win,0,2-0,away,New England Patriots,20,18,16,242,140,102,2,25,387,297,90,1,-9.41,2.82,11.04,Cardinals,2012
-2,3,Sun,2012-09-23,nan,Win,0,3-0,home,Philadelphia Eagles,27,6,16,292,193,99,0,16,307,194,113,3,-1.83,19.1,3.32,Cardinals,2012
-3,4,Sun,2012-09-30,nan,Win,1,4-0,home,Miami Dolphins,24,21,19,297,269,28,2,21,480,394,86,4,-10.41,1.83,14.11,Cardinals,2012
-4,5,Thu,2012-10-04,nan,Loss,0,4-1,away,St. Louis Rams,3,17,20,282,237,45,1,12,242,131,111,1,-14.6,8.85,-7.85,Cardinals,2012
-5,6,Sun,2012-10-14,nan,Loss,1,4-2,home,Buffalo Bills,16,19,20,332,150,182,2,19,306,141,165,2,-8.32,6.56,-0.8,Cardinals,2012
-6,7,Sun,2012-10-21,nan,Loss,0,4-3,away,Minnesota Vikings,14,21,21,356,230,126,2,12,209,43,166,2,-9.12,7.23,-9.29,Cardinals,2012
-7,8,Mon,2012-10-29,nan,Loss,0,4-4,home,San Francisco 49ers,3,24,16,265,258,7,1,15,317,204,113,0,-8.84,-9.14,-2.3,Cardinals,2012
-8,9,Sun,2012-11-04,nan,Loss,0,4-5,away,Green Bay Packers,17,31,16,340,286,54,2,20,384,208,176,1,-5.45,-6.76,-3.98,Cardinals,2012
-9,11,Sun,2012-11-18,nan,Loss,0,4-6,away,Atlanta Falcons,19,23,7,178,41,137,1,20,354,296,58,6,-25.36,19.88,2.52,Cardinals,2012
-10,12,Sun,2012-11-25,nan,Loss,0,4-7,home,St. Louis Rams,17,31,24,375,301,74,4,15,367,194,173,1,-17.62,-1.82,6.29,Cardinals,2012
-11,13,Sun,2012-12-02,nan,Loss,0,4-8,away,New York Jets,6,7,5,137,56,81,1,20,289,112,177,4,-26.77,10.81,10.24,Cardinals,2012
-12,14,Sun,2012-12-09,nan,Loss,0,4-9,away,Seattle Seahawks,0,58,10,154,111,43,8,22,493,209,284,1,-37.39,-16.75,-4.36,Cardinals,2012
-13,15,Sun,2012-12-16,nan,Win,0,5-9,home,Detroit Lions,38,10,12,196,97,99,1,18,312,228,84,4,-10.96,31.58,5.71,Cardinals,2012
-14,16,Sun,2012-12-23,nan,Loss,0,5-10,home,Chicago Bears,13,28,15,248,219,29,3,15,297,145,152,1,-30.96,1.84,13.88,Cardinals,2012
-15,17,Sun,2012-12-30,nan,Loss,0,5-11,away,San Francisco 49ers,13,27,11,262,207,55,2,20,407,278,129,0,-8.46,-12.21,4.49,Cardinals,2012
+0,1,Sun,2012-09-09,,Win,0,1-0,home,Seahawks,20,16,18,253,210,43,2,18,254,139,115,2,-4.9,9.49,-1.82,Cardinals,2012
+1,2,Sun,2012-09-16,,Win,0,2-0,away,Patriots,20,18,16,242,140,102,2,25,387,297,90,1,-9.41,2.82,11.04,Cardinals,2012
+2,3,Sun,2012-09-23,,Win,0,3-0,home,Eagles,27,6,16,292,193,99,0,16,307,194,113,3,-1.83,19.1,3.32,Cardinals,2012
+3,4,Sun,2012-09-30,,Win,1,4-0,home,Dolphins,24,21,19,297,269,28,2,21,480,394,86,4,-10.41,1.83,14.11,Cardinals,2012
+4,5,Thu,2012-10-04,,Loss,0,4-1,away,Rams,3,17,20,282,237,45,1,12,242,131,111,1,-14.6,8.85,-7.85,Cardinals,2012
+5,6,Sun,2012-10-14,,Loss,1,4-2,home,Bills,16,19,20,332,150,182,2,19,306,141,165,2,-8.32,6.56,-0.8,Cardinals,2012
+6,7,Sun,2012-10-21,,Loss,0,4-3,away,Vikings,14,21,21,356,230,126,2,12,209,43,166,2,-9.12,7.23,-9.29,Cardinals,2012
+7,8,Mon,2012-10-29,,Loss,0,4-4,home,49ers,3,24,16,265,258,7,1,15,317,204,113,0,-8.84,-9.14,-2.3,Cardinals,2012
+8,9,Sun,2012-11-04,,Loss,0,4-5,away,Packers,17,31,16,340,286,54,2,20,384,208,176,1,-5.45,-6.76,-3.98,Cardinals,2012
+9,11,Sun,2012-11-18,,Loss,0,4-6,away,Falcons,19,23,7,178,41,137,1,20,354,296,58,6,-25.36,19.88,2.52,Cardinals,2012
+10,12,Sun,2012-11-25,,Loss,0,4-7,home,Rams,17,31,24,375,301,74,4,15,367,194,173,1,-17.62,-1.82,6.29,Cardinals,2012
+11,13,Sun,2012-12-02,,Loss,0,4-8,away,Jets,6,7,5,137,56,81,1,20,289,112,177,4,-26.77,10.81,10.24,Cardinals,2012
+12,14,Sun,2012-12-09,,Loss,0,4-9,away,Seahawks,0,58,10,154,111,43,8,22,493,209,284,1,-37.39,-16.75,-4.36,Cardinals,2012
+13,15,Sun,2012-12-16,,Win,0,5-9,home,Lions,38,10,12,196,97,99,1,18,312,228,84,4,-10.96,31.58,5.71,Cardinals,2012
+14,16,Sun,2012-12-23,,Loss,0,5-10,home,Bears,13,28,15,248,219,29,3,15,297,145,152,1,-30.96,1.84,13.88,Cardinals,2012
+15,17,Sun,2012-12-30,,Loss,0,5-11,away,49ers,13,27,11,262,207,55,2,20,407,278,129,0,-8.46,-12.21,4.49,Cardinals,2012

@@ -1,0 +1,17 @@
+,Week,Day,Date,Boxscore,Win/Loss,Overtime,Home/Away,Opponent,Team Score,Opponenet Score,Passing Completion,Passing Attempts,Passing Yards,Passing Touchdowns,Passing Interceptions,Passing Sacks,Sack Yards,Passing Yards/Attempts,Net Yards/Attempts,Passing Completion Per.,Passing Rate,Rushing Attempts,Rushing Yards,Rushing Yards/Attempts,Rushing Touchdown,Field Goals Made,Field Goals Attempts,Extra Points Made,Extra Point Attempts,Punts,Total Punt Yards,Third Down Conversions,Third Down Attempts,Fourth Down Conversions,Fourth Down Attemtps,Time of Possesion,Year,Team
+0,1,Wed,2012-09-05,boxscore,Win,0,Away,Giants,24,17,22,29,290,3,1,2,17,10.6,9.4,75.9,127.1,26,143,5.5,0,1,1,3,3,2,108,4,10,0,1,34:07,2012,Cowboys
+1,2,Sun,2012-09-16,boxscore,Loss,0,Away,Seahawks,7,27,23,40,247,1,1,1,4,6.3,6.0,57.5,73.6,16,49,3.1,0,0,0,1,1,6,229,7,13,0,0,25:21,2012,Cowboys
+2,3,Sun,2012-09-23,boxscore,Win,0,Home,Buccaneers,16,10,25,39,259,0,1,4,24,7.3,6.0,64.1,72.5,23,38,1.7,1,3,3,1,1,4,173,5,16,0,1,33:04,2012,Cowboys
+3,4,Mon,2012-10-01,boxscore,Loss,0,Home,Bears,18,34,40,53,389,2,5,1,7,7.5,7.2,75.5,68.8,14,41,2.9,0,1,1,1,1,3,111,3,9,1,1,29:10,2012,Cowboys
+4,6,Sun,2012-10-14,boxscore,Loss,0,Away,Ravens,29,31,25,36,254,2,1,1,7,7.3,6.9,69.4,96.3,42,227,5.4,1,3,4,2,2,1,32,8,15,2,2,40:03,2012,Cowboys
+5,7,Sun,2012-10-21,boxscore,Win,0,Away,Panthers,19,14,24,34,227,1,0,0,0,6.7,6.7,70.6,98.5,31,85,2.7,0,4,4,1,1,4,197,6,14,0,0,33:37,2012,Cowboys
+6,8,Sun,2012-10-28,boxscore,Loss,0,Home,Giants,24,29,36,62,415,1,4,4,22,7.0,6.3,58.1,56.9,17,19,1.1,2,1,1,3,3,4,165,7,14,1,2,32:18,2012,Cowboys
+7,9,Sun,2012-11-04,boxscore,Loss,0,Away,Falcons,13,19,25,35,312,1,0,1,9,9.2,8.7,71.4,108.3,18,65,3.6,0,2,3,1,1,4,182,3,10,0,0,27:17,2012,Cowboys
+8,10,Sun,2012-11-11,boxscore,Win,0,Away,Eagles,38,23,19,26,193,2,0,3,16,8.0,6.7,73.1,119.6,25,101,4.0,0,1,1,5,5,7,288,5,13,0,0,27:58,2012,Cowboys
+9,11,Sun,2012-11-18,boxscore,Win,1,Home,Browns,23,20,35,50,257,1,0,7,56,6.3,4.5,70.0,88.5,21,63,3.0,1,3,3,2,2,7,302,4,14,1,1,38:10,2012,Cowboys
+10,12,Thu,2012-11-22,boxscore,Loss,0,Home,Redskins,31,38,37,62,423,3,2,2,18,7.1,6.6,59.7,82.9,11,35,3.2,0,3,3,2,2,3,170,8,17,1,1,28:18,2012,Cowboys
+11,13,Sun,2012-12-02,boxscore,Win,0,Home,Eagles,38,33,22,27,294,3,0,2,9,11.2,10.1,81.5,149.1,33,123,3.7,1,1,1,5,5,3,156,9,14,1,1,33:18,2012,Cowboys
+12,14,Sun,2012-12-09,boxscore,Win,0,Away,Bengals,20,19,25,43,239,1,1,3,29,6.2,5.2,58.1,71.8,24,49,2.0,1,2,2,2,2,5,165,11,19,0,0,30:11,2012,Cowboys
+13,15,Sun,2012-12-16,boxscore,Win,1,Home,Steelers,27,24,30,42,328,2,0,1,13,8.1,7.6,71.4,110.0,21,87,4.1,1,2,2,3,3,6,288,4,11,0,0,34:24,2012,Cowboys
+14,16,Sun,2012-12-23,boxscore,Loss,1,Home,Saints,31,34,26,43,406,4,0,2,10,9.7,9.0,60.5,122.8,11,40,3.6,0,1,1,4,4,6,307,2,10,1,1,22:28,2012,Cowboys
+15,17,Sun,2012-12-30,boxscore,Loss,0,Away,Redskins,18,28,20,37,196,2,3,2,22,5.9,5.0,54.1,53.4,22,100,4.5,0,1,1,1,1,4,166,7,13,0,0,26:34,2012,Cowboys

@@ -1,0 +1,17 @@
+,Week,Day,Date,Boxscore,Win/Loss,Overtime,Home/Away,Opponent,Team Score,Opponenet Score,Passing Completion,Passing Attempts,Passing Yards,Passing Touchdowns,Passing Interceptions,Passing Sacks,Sack Yards,Passing Yards/Attempts,Net Yards/Attempts,Passing Completion Per.,Passing Rate,Rushing Attempts,Rushing Yards,Rushing Yards/Attempts,Rushing Touchdown,Field Goals Made,Field Goals Attempts,Extra Points Made,Extra Point Attempts,Punts,Total Punt Yards,Third Down Conversions,Third Down Attempts,Fourth Down Conversions,Fourth Down Attemtps,Time of Possesion,Year,Team
+0,1,Sun,2012-09-09,boxscore,Win,0,Home,Bills,48,28,19,27,266,3,1,0,0,9.9,9.9,70.4,123.4,36,118,3.3,1,2,2,6,6,2,103,10,14,0,0,31:18,2012,Jets
+1,2,Sun,2012-09-16,boxscore,Loss,0,Away,Steelers,10,27,10,27,129,1,0,2,9,5.1,4.4,37.0,65.2,22,90,4.1,0,1,1,1,1,6,272,4,12,0,0,23:24,2012,Jets
+2,3,Sun,2012-09-23,boxscore,Win,1,Away,Dolphins,23,20,21,45,295,1,2,2,11,6.8,6.3,46.7,57.2,32,93,2.9,0,3,3,2,2,6,274,6,17,1,1,35:23,2012,Jets
+3,4,Sun,2012-09-30,boxscore,Loss,0,Home,49ers,0,34,14,30,100,0,1,3,12,3.7,3.0,46.7,41.0,17,45,2.6,0,0,0,0,0,8,303,2,13,0,0,23:04,2012,Jets
+4,5,Mon,2012-10-08,boxscore,Loss,0,Home,Texans,17,23,14,32,217,1,2,3,13,7.2,6.2,43.8,51.2,23,69,3.0,0,1,1,2,2,6,265,4,14,2,2,24:44,2012,Jets
+5,6,Sun,2012-10-14,boxscore,Win,0,Home,Colts,35,9,12,19,99,2,0,1,6,5.5,5.0,63.2,111.5,44,252,5.7,3,0,0,5,5,5,260,6,12,1,1,33:40,2012,Jets
+6,7,Sun,2012-10-21,boxscore,Loss,1,Away,Patriots,26,29,28,41,297,1,1,4,31,8.0,6.6,68.3,87.1,33,106,3.2,1,4,4,2,2,3,170,8,15,0,0,35:49,2012,Jets
+7,8,Sun,2012-10-28,boxscore,Loss,0,Home,Dolphins,9,30,28,54,258,1,1,4,25,5.2,4.4,51.9,63.7,21,105,5.0,0,1,2,0,0,7,274,5,17,2,3,31:13,2012,Jets
+8,10,Sun,2012-11-11,boxscore,Loss,0,Away,Seahawks,7,28,12,25,101,0,1,3,31,5.3,3.6,48.0,42.2,22,84,3.8,0,0,0,1,1,7,321,2,11,0,1,23:49,2012,Jets
+9,11,Sun,2012-11-18,boxscore,Win,0,Away,Rams,27,13,16,21,165,1,0,3,12,8.4,6.9,76.2,114.2,41,124,3.0,2,2,4,3,3,3,127,7,15,0,1,33:03,2012,Jets
+10,12,Thu,2012-11-22,boxscore,Loss,0,Home,Patriots,19,49,26,36,286,1,1,2,15,8.4,7.5,72.2,93.1,29,119,4.1,1,1,1,2,2,4,198,3,10,1,3,30:26,2012,Jets
+11,13,Sun,2012-12-02,boxscore,Win,0,Home,Cardinals,7,6,15,28,112,1,3,3,14,4.5,3.6,53.6,35.7,43,177,4.1,0,0,2,1,1,6,263,5,14,0,0,38:08,2012,Jets
+12,14,Sun,2012-12-09,boxscore,Win,0,Away,Jaguars,17,10,12,19,104,0,0,1,7,5.8,5.2,63.2,77.5,42,166,4.0,2,1,1,2,2,7,326,4,13,0,0,30:31,2012,Jets
+13,15,Mon,2012-12-17,boxscore,Loss,0,Away,Titans,10,14,13,29,107,1,4,4,24,4.5,3.2,44.8,26.7,30,146,4.9,0,1,1,1,1,6,254,5,12,0,0,30:16,2012,Jets
+14,16,Sun,2012-12-23,boxscore,Loss,0,Home,Chargers,17,27,15,25,156,0,1,11,71,9.1,4.3,60.0,61.4,23,69,3.0,2,1,1,2,2,6,266,2,11,0,1,29:51,2012,Jets
+15,17,Sun,2012-12-30,boxscore,Loss,0,Away,Bills,9,28,17,35,199,0,1,1,6,5.9,5.5,48.6,54.3,36,133,3.7,0,3,4,0,0,4,172,7,17,0,1,32:20,2012,Jets

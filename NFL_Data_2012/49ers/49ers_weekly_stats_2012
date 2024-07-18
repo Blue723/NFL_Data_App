@@ -1,0 +1,17 @@
+,Week,Day,Date,Boxscore,Win/Loss,Overtime,Home/Away,Opponent,Team Score,Opponenet Score,Passing Completion,Passing Attempts,Passing Yards,Passing Touchdowns,Passing Interceptions,Passing Sacks,Sack Yards,Passing Yards/Attempts,Net Yards/Attempts,Passing Completion Per.,Passing Rate,Rushing Attempts,Rushing Yards,Rushing Yards/Attempts,Rushing Touchdown,Field Goals Made,Field Goals Attempts,Extra Points Made,Extra Point Attempts,Punts,Total Punt Yards,Third Down Conversions,Third Down Attempts,Fourth Down Conversions,Fourth Down Attemtps,Time of Possesion,Year,Team
+0,1,Sun,2012-09-09,boxscore,Win,0,Away,Packers,30,22,20,26,191,2,0,4,20,8.1,6.4,76.9,122.4,32,186,5.8,1,3,3,3,3,5,256,2,9,0,0,33:00,2012,49ers
+1,2,Sun,2012-09-16,boxscore,Win,0,Home,Lions,27,19,20,31,201,2,0,3,25,7.3,5.9,64.5,104.4,27,148,5.5,1,2,2,3,3,3,109,4,11,0,0,29:34,2012,49ers
+2,3,Sun,2012-09-23,boxscore,Loss,0,Away,Vikings,13,24,24,35,191,1,1,3,13,5.8,5.0,68.6,79.6,20,89,4.5,0,2,3,1,1,3,146,4,10,0,0,26:32,2012,49ers
+3,4,Sun,2012-09-30,boxscore,Win,0,Away,Jets,34,0,12,22,134,0,0,2,9,6.5,5.6,54.5,72.9,44,247,5.6,3,2,4,4,4,4,184,4,12,1,1,36:56,2012,49ers
+4,5,Sun,2012-10-07,boxscore,Win,0,Home,Bills,45,3,19,25,310,3,0,0,0,12.4,12.4,76.0,156.7,38,311,8.2,3,1,1,6,6,2,112,7,11,1,1,36:14,2012,49ers
+5,6,Sun,2012-10-14,boxscore,Loss,0,Home,Giants,3,26,23,37,234,0,3,6,48,7.6,5.4,62.2,46.5,17,80,4.7,0,1,3,0,0,4,199,4,14,0,2,27:45,2012,49ers
+6,7,Thu,2012-10-18,boxscore,Win,0,Home,Seahawks,13,6,14,23,138,1,1,2,2,6.1,5.5,60.9,74.2,32,175,5.5,0,2,2,1,1,5,228,3,11,0,0,32:01,2012,49ers
+7,8,Mon,2012-10-29,boxscore,Win,0,Away,Cardinals,24,3,18,19,204,3,0,4,28,12.2,8.9,94.7,151.0,29,113,3.9,0,1,1,3,3,5,244,6,12,0,0,31:16,2012,49ers
+8,10,Sun,2012-11-11,boxscore,T,1,Home,Rams,24,24,18,25,158,1,0,5,31,7.6,5.3,72.0,101.7,34,183,5.4,2,1,2,3,3,6,251,2,11,2,2,34:15,2012,49ers
+9,11,Mon,2012-11-19,boxscore,Win,0,Home,Bears,32,7,16,23,232,2,0,2,11,10.6,9.3,69.6,131.1,29,121,4.2,1,3,3,3,3,4,188,4,12,0,0,30:05,2012,49ers
+10,12,Sun,2012-11-25,boxscore,Win,0,Away,Saints,31,21,16,25,231,1,1,0,0,9.2,9.2,64.0,90.6,31,144,4.6,1,1,3,4,4,4,187,6,13,0,0,30:06,2012,49ers
+11,13,Sun,2012-12-02,boxscore,Loss,1,Away,Rams,13,16,21,32,191,0,0,3,17,6.5,5.5,65.6,81.6,36,148,4.1,1,2,3,1,1,6,306,8,19,0,1,38:54,2012,49ers
+12,14,Sun,2012-12-09,boxscore,Win,0,Home,Dolphins,27,13,18,23,166,0,0,4,19,8.0,6.1,78.3,96.7,28,155,5.5,3,2,2,3,3,4,193,2,10,0,0,30:32,2012,49ers
+13,15,Sun,2012-12-16,boxscore,Win,0,Away,Patriots,41,34,14,25,208,4,1,1,13,8.8,8.0,56.0,106.3,39,180,4.6,0,2,3,5,5,5,283,5,14,1,2,30:13,2012,49ers
+14,16,Sun,2012-12-23,boxscore,Loss,0,Away,Seahawks,13,42,19,36,231,1,1,1,13,6.8,6.2,52.8,70.5,19,82,4.3,0,2,3,1,1,3,155,3,11,1,1,24:51,2012,49ers
+15,17,Sun,2012-12-30,boxscore,Win,0,Home,Cardinals,27,13,17,29,278,2,0,1,4,9.7,9.3,58.6,113.9,37,129,3.5,1,2,4,3,3,4,185,4,14,2,2,36:03,2012,49ers

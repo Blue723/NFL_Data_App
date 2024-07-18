@@ -1,0 +1,17 @@
+,Week,Day,Date,Boxscore,Win/Loss,Overtime,Home/Away,Opponent,Team Score,Opponenet Score,Passing Completion,Passing Attempts,Passing Yards,Passing Touchdowns,Passing Interceptions,Passing Sacks,Sack Yards,Passing Yards/Attempts,Net Yards/Attempts,Passing Completion Per.,Passing Rate,Rushing Attempts,Rushing Yards,Rushing Yards/Attempts,Rushing Touchdown,Field Goals Made,Field Goals Attempts,Extra Points Made,Extra Point Attempts,Punts,Total Punt Yards,Third Down Conversions,Third Down Attempts,Fourth Down Conversions,Fourth Down Attemtps,Time of Possesion,Year,Team
+0,1,Sun,2012-09-09,boxscore,Win,0,Home,Dolphins,30,10,20,31,254,1,0,2,12,8.6,7.7,64.5,100.7,35,83,2.4,2,3,4,3,3,5,218,7,17,0,0,34:44,2012,Texans
+1,2,Sun,2012-09-16,boxscore,Win,0,Away,Jaguars,27,7,26,35,195,0,0,0,0,5.6,5.6,74.3,87.2,48,216,4.5,3,2,2,3,3,6,299,8,17,1,1,43:17,2012,Texans
+2,3,Sun,2012-09-23,boxscore,Win,0,Away,Broncos,31,25,17,30,284,4,1,1,6,9.7,9.2,56.7,114.4,34,152,4.5,0,1,1,4,4,5,271,7,14,0,0,31:40,2012,Texans
+3,4,Sun,2012-09-30,boxscore,Win,0,Home,Titans,38,14,20,28,202,2,0,0,0,7.2,7.2,71.4,115.5,31,95,3.1,1,1,1,5,5,6,259,6,14,1,1,32:26,2012,Texans
+4,5,Mon,2012-10-08,boxscore,Win,0,Away,Jets,23,17,14,28,209,1,1,0,0,7.5,7.5,50.0,71.9,35,169,4.8,1,3,3,2,2,6,241,6,15,0,0,35:16,2012,Texans
+5,6,Sun,2012-10-14,boxscore,Loss,0,Home,Packers,24,42,22,38,231,0,3,3,24,6.7,5.6,57.9,42.8,28,90,3.2,2,1,1,3,3,4,206,5,12,0,0,32:01,2012,Texans
+6,7,Sun,2012-10-21,boxscore,Win,0,Home,Ravens,43,13,23,37,239,2,0,2,17,6.9,6.1,62.2,98.8,37,181,4.9,2,2,2,5,5,5,240,8,15,0,0,38:16,2012,Texans
+7,9,Sun,2012-11-04,boxscore,Win,0,Home,Bills,21,9,19,27,256,2,0,2,12,9.9,8.8,70.4,124.9,32,118,3.7,1,0,1,3,3,5,247,4,11,0,1,34:03,2012,Texans
+8,10,Sun,2012-11-11,boxscore,Win,0,Away,Bears,13,6,14,26,88,1,2,1,7,3.7,3.3,53.8,41.8,35,127,3.6,0,2,2,1,1,8,357,3,14,0,0,31:08,2012,Texans
+9,11,Sun,2012-11-18,boxscore,Win,1,Home,Jaguars,43,37,43,55,504,5,2,2,23,9.6,8.8,78.2,120.0,35,149,4.3,0,3,5,4,4,3,111,4,11,0,0,41:40,2012,Texans
+10,12,Thu,2012-11-22,boxscore,Win,1,Away,Lions,34,31,29,48,296,1,1,2,19,6.6,5.9,60.4,76.4,28,205,7.3,3,2,3,4,4,6,286,6,15,1,1,35:38,2012,Texans
+11,13,Sun,2012-12-02,boxscore,Win,0,Away,Titans,24,10,21,35,207,2,0,0,0,5.9,5.9,60.0,95.8,35,124,3.5,1,1,1,3,3,10,489,4,17,1,1,33:48,2012,Texans
+12,14,Mon,2012-12-10,boxscore,Loss,0,Away,Patriots,14,42,21,36,223,0,1,2,24,6.9,5.9,58.3,64.9,27,100,3.7,2,0,0,2,2,7,345,4,14,0,2,29:11,2012,Texans
+13,15,Sun,2012-12-16,boxscore,Win,0,Home,Colts,29,17,23,31,239,1,0,3,22,8.4,7.0,74.2,106.8,32,178,5.6,0,5,6,2,2,3,127,5,13,0,0,33:06,2012,Texans
+14,16,Sun,2012-12-23,boxscore,Loss,0,Home,Vikings,6,23,18,33,153,0,0,4,25,5.4,4.1,54.5,66.9,16,34,2.1,0,2,2,0,0,7,353,1,11,0,0,25:14,2012,Texans
+15,17,Sun,2012-12-30,boxscore,Loss,0,Away,Colts,16,28,24,36,250,0,2,4,25,7.6,6.3,66.7,63.4,20,102,5.1,1,3,4,1,1,2,101,5,11,0,0,28:51,2012,Texans

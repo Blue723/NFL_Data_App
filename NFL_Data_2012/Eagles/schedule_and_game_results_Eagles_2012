@@ -1,17 +1,17 @@
 ,Week,Day,Date,Time,Win/Loss,Overtime,Team Record,Home/Away,Opponent,Points Scored,Points Allowed,Offense 1st Down,Total Yards Gained of Offense,Total yards Gained by Passing,Total Yards Gained by Rushing,Offense Turnovers,Defense 1st Down,Total Yards Allowed by Defense,Total Passing Yards Allowed by Defense,Total Rushing Yards Allowed by Defense,Defense Turnovers,Offense,Defense,Sp. Tms,Team,Year
-0,1,Sun,2012-09-09,nan,Win,0,1-0,away,Cleveland Browns,17,16,25,456,306,150,5,12,210,111,99,4,-15.96,22.62,-6.07,Eagles,2012
-1,2,Sun,2012-09-16,nan,Win,0,2-0,home,Baltimore Ravens,24,23,26,486,357,129,4,17,325,214,111,2,0.64,10.79,-7.08,Eagles,2012
-2,3,Sun,2012-09-23,nan,Loss,0,2-1,away,Arizona Cardinals,6,27,16,307,194,113,3,16,292,193,99,0,-19.1,1.83,-3.32,Eagles,2012
-3,4,Sun,2012-09-30,nan,Win,0,3-1,home,New York Giants,19,17,22,422,231,191,0,20,366,309,57,1,11.27,-8.1,2.27,Eagles,2012
-4,5,Sun,2012-10-07,nan,Loss,0,3-2,away,Pittsburgh Steelers,14,16,19,246,168,78,2,22,343,220,123,0,3.61,-2.84,-2.77,Eagles,2012
-5,6,Sun,2012-10-14,nan,Loss,1,3-3,home,Detroit Lions,23,26,24,357,286,71,3,25,449,311,138,1,1.43,-4.55,2.78,Eagles,2012
-6,8,Sun,2012-10-28,nan,Loss,0,3-4,home,Atlanta Falcons,17,30,20,270,178,92,0,24,392,246,146,0,1.5,-16.64,3.25,Eagles,2012
-7,9,Mon,2012-11-05,nan,Loss,0,3-5,away,New Orleans Saints,13,28,24,447,226,221,2,20,371,231,140,2,-6.47,-14.02,6.04,Eagles,2012
-8,10,Sun,2012-11-11,nan,Loss,0,3-6,home,Dallas Cowboys,23,38,23,369,278,91,2,14,294,193,101,0,-4.69,-2.83,-5.86,Eagles,2012
-9,11,Sun,2012-11-18,nan,Loss,0,3-7,away,Washington Redskins,6,31,16,257,177,80,3,15,361,192,169,0,-19.37,-11.54,5.39,Eagles,2012
-10,12,Mon,2012-11-26,nan,Loss,0,3-8,home,Carolina Panthers,22,30,18,311,107,204,3,24,398,289,109,0,2.86,-16.75,2.81,Eagles,2012
-11,13,Sun,2012-12-02,nan,Loss,0,3-9,away,Dallas Cowboys,33,38,23,423,240,183,1,22,417,294,123,0,11.93,-21.78,2.87,Eagles,2012
-12,14,Sun,2012-12-09,nan,Win,0,4-9,away,Tampa Bay Buccaneers,23,21,23,367,338,29,1,18,314,178,136,0,7.54,0.51,-8.11,Eagles,2012
-13,15,Thu,2012-12-13,nan,Loss,0,4-10,home,Cincinnati Bengals,13,34,10,219,177,42,5,18,249,92,157,2,-26.79,13.83,-7.88,Eagles,2012
-14,16,Sun,2012-12-23,nan,Loss,0,4-11,home,Washington Redskins,20,27,25,411,321,90,2,18,313,185,128,1,5.53,-7.09,-0.72,Eagles,2012
-15,17,Sun,2012-12-30,nan,Loss,0,4-12,away,New York Giants,7,42,18,317,207,110,1,32,397,212,185,0,-4.9,-30.78,2.67,Eagles,2012
+0,1,Sun,2012-09-09,,Win,0,1-0,away,Browns,17,16,25,456,306,150,5,12,210,111,99,4,-15.96,22.62,-6.07,Eagles,2012
+1,2,Sun,2012-09-16,,Win,0,2-0,home,Ravens,24,23,26,486,357,129,4,17,325,214,111,2,0.64,10.79,-7.08,Eagles,2012
+2,3,Sun,2012-09-23,,Loss,0,2-1,away,Cardinals,6,27,16,307,194,113,3,16,292,193,99,0,-19.1,1.83,-3.32,Eagles,2012
+3,4,Sun,2012-09-30,,Win,0,3-1,home,Giants,19,17,22,422,231,191,0,20,366,309,57,1,11.27,-8.1,2.27,Eagles,2012
+4,5,Sun,2012-10-07,,Loss,0,3-2,away,Steelers,14,16,19,246,168,78,2,22,343,220,123,0,3.61,-2.84,-2.77,Eagles,2012
+5,6,Sun,2012-10-14,,Loss,1,3-3,home,Lions,23,26,24,357,286,71,3,25,449,311,138,1,1.43,-4.55,2.78,Eagles,2012
+6,8,Sun,2012-10-28,,Loss,0,3-4,home,Falcons,17,30,20,270,178,92,0,24,392,246,146,0,1.5,-16.64,3.25,Eagles,2012
+7,9,Mon,2012-11-05,,Loss,0,3-5,away,Saints,13,28,24,447,226,221,2,20,371,231,140,2,-6.47,-14.02,6.04,Eagles,2012
+8,10,Sun,2012-11-11,,Loss,0,3-6,home,Cowboys,23,38,23,369,278,91,2,14,294,193,101,0,-4.69,-2.83,-5.86,Eagles,2012
+9,11,Sun,2012-11-18,,Loss,0,3-7,away,Redskins,6,31,16,257,177,80,3,15,361,192,169,0,-19.37,-11.54,5.39,Eagles,2012
+10,12,Mon,2012-11-26,,Loss,0,3-8,home,Panthers,22,30,18,311,107,204,3,24,398,289,109,0,2.86,-16.75,2.81,Eagles,2012
+11,13,Sun,2012-12-02,,Loss,0,3-9,away,Cowboys,33,38,23,423,240,183,1,22,417,294,123,0,11.93,-21.78,2.87,Eagles,2012
+12,14,Sun,2012-12-09,,Win,0,4-9,away,Buccaneers,23,21,23,367,338,29,1,18,314,178,136,0,7.54,0.51,-8.11,Eagles,2012
+13,15,Thu,2012-12-13,,Loss,0,4-10,home,Bengals,13,34,10,219,177,42,5,18,249,92,157,2,-26.79,13.83,-7.88,Eagles,2012
+14,16,Sun,2012-12-23,,Loss,0,4-11,home,Redskins,20,27,25,411,321,90,2,18,313,185,128,1,5.53,-7.09,-0.72,Eagles,2012
+15,17,Sun,2012-12-30,,Loss,0,4-12,away,Giants,7,42,18,317,207,110,1,32,397,212,185,0,-4.9,-30.78,2.67,Eagles,2012

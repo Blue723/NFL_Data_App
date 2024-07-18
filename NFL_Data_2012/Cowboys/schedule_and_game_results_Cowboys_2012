@@ -1,17 +1,17 @@
 ,Week,Day,Date,Time,Win/Loss,Overtime,Team Record,Home/Away,Opponent,Points Scored,Points Allowed,Offense 1st Down,Total Yards Gained of Offense,Total yards Gained by Passing,Total Yards Gained by Rushing,Offense Turnovers,Defense 1st Down,Total Yards Allowed by Defense,Total Passing Yards Allowed by Defense,Total Rushing Yards Allowed by Defense,Defense Turnovers,Offense,Defense,Sp. Tms,Team,Year
-0,1,Wed,2012-09-05,nan,Win,0,1-0,away,New York Giants,24,17,18,433,290,143,1,15,269,187,82,1,6.86,-0.96,1.43,Cowboys,2012
-1,2,Sun,2012-09-16,nan,Loss,0,1-1,away,Seattle Seahawks,7,27,17,296,247,49,2,20,315,133,182,0,-3.37,-5.89,-9.28,Cowboys,2012
-2,3,Sun,2012-09-23,nan,Win,0,2-1,home,Tampa Bay Buccaneers,16,10,14,297,259,38,3,12,166,91,75,2,-17.66,11.49,10.12,Cowboys,2012
-3,4,Mon,2012-10-01,nan,Loss,0,2-2,home,Chicago Bears,18,34,26,430,389,41,5,18,360,267,93,1,-5.32,-8.38,-4.07,Cowboys,2012
-4,6,Sun,2012-10-14,nan,Loss,0,2-3,away,Baltimore Ravens,29,31,30,481,254,227,1,19,316,230,86,0,20.22,-15.0,-7.68,Cowboys,2012
-5,7,Sun,2012-10-21,nan,Win,0,3-3,away,Carolina Panthers,19,14,18,312,227,85,1,18,328,216,112,2,0.93,3.15,1.53,Cowboys,2012
-6,8,Sun,2012-10-28,nan,Loss,0,3-4,home,New York Giants,24,29,28,434,415,19,6,11,293,190,103,2,-5.04,10.9,-8.46,Cowboys,2012
-7,9,Sun,2012-11-04,nan,Loss,0,3-5,away,Atlanta Falcons,13,19,18,377,312,65,0,21,453,330,123,0,9.19,-17.08,6.06,Cowboys,2012
-8,10,Sun,2012-11-11,nan,Win,0,4-5,away,Philadelphia Eagles,38,23,14,294,193,101,0,23,369,278,91,2,2.83,4.69,5.86,Cowboys,2012
-9,11,Sun,2012-11-18,nan,Win,1,5-5,home,Cleveland Browns,23,20,30,320,257,63,1,19,311,192,119,1,3.48,0.6,-3.61,Cowboys,2012
-10,12,Thu,2012-11-22,nan,Loss,0,5-6,home,Washington Redskins,31,38,22,458,423,35,3,22,437,288,149,1,6.7,-15.22,-4.47,Cowboys,2012
-11,13,Sun,2012-12-02,nan,Win,0,6-6,home,Philadelphia Eagles,38,33,22,417,294,123,0,23,423,240,183,1,21.78,-11.93,-2.87,Cowboys,2012
-12,14,Sun,2012-12-09,nan,Win,0,7-6,away,Cincinnati Bengals,20,19,20,288,239,49,1,19,336,190,146,1,7.78,-0.63,-5.4,Cowboys,2012
-13,15,Sun,2012-12-16,nan,Win,1,8-6,home,Pittsburgh Steelers,27,24,23,415,328,87,1,20,388,319,69,2,6.23,-6.46,3.23,Cowboys,2012
-14,16,Sun,2012-12-23,nan,Loss,1,8-7,home,New Orleans Saints,31,34,18,446,406,40,1,33,562,446,116,0,12.45,-27.29,12.18,Cowboys,2012
-15,17,Sun,2012-12-30,nan,Loss,0,8-8,away,Washington Redskins,18,28,20,296,196,100,3,24,361,87,274,0,0.69,-16.28,7.18,Cowboys,2012
+0,1,Wed,2012-09-05,,Win,0,1-0,away,Giants,24,17,18,433,290,143,1,15,269,187,82,1,6.86,-0.96,1.43,Cowboys,2012
+1,2,Sun,2012-09-16,,Loss,0,1-1,away,Seahawks,7,27,17,296,247,49,2,20,315,133,182,0,-3.37,-5.89,-9.28,Cowboys,2012
+2,3,Sun,2012-09-23,,Win,0,2-1,home,Buccaneers,16,10,14,297,259,38,3,12,166,91,75,2,-17.66,11.49,10.12,Cowboys,2012
+3,4,Mon,2012-10-01,,Loss,0,2-2,home,Bears,18,34,26,430,389,41,5,18,360,267,93,1,-5.32,-8.38,-4.07,Cowboys,2012
+4,6,Sun,2012-10-14,,Loss,0,2-3,away,Ravens,29,31,30,481,254,227,1,19,316,230,86,0,20.22,-15.0,-7.68,Cowboys,2012
+5,7,Sun,2012-10-21,,Win,0,3-3,away,Panthers,19,14,18,312,227,85,1,18,328,216,112,2,0.93,3.15,1.53,Cowboys,2012
+6,8,Sun,2012-10-28,,Loss,0,3-4,home,Giants,24,29,28,434,415,19,6,11,293,190,103,2,-5.04,10.9,-8.46,Cowboys,2012
+7,9,Sun,2012-11-04,,Loss,0,3-5,away,Falcons,13,19,18,377,312,65,0,21,453,330,123,0,9.19,-17.08,6.06,Cowboys,2012
+8,10,Sun,2012-11-11,,Win,0,4-5,away,Eagles,38,23,14,294,193,101,0,23,369,278,91,2,2.83,4.69,5.86,Cowboys,2012
+9,11,Sun,2012-11-18,,Win,1,5-5,home,Browns,23,20,30,320,257,63,1,19,311,192,119,1,3.48,0.6,-3.61,Cowboys,2012
+10,12,Thu,2012-11-22,,Loss,0,5-6,home,Redskins,31,38,22,458,423,35,3,22,437,288,149,1,6.7,-15.22,-4.47,Cowboys,2012
+11,13,Sun,2012-12-02,,Win,0,6-6,home,Eagles,38,33,22,417,294,123,0,23,423,240,183,1,21.78,-11.93,-2.87,Cowboys,2012
+12,14,Sun,2012-12-09,,Win,0,7-6,away,Bengals,20,19,20,288,239,49,1,19,336,190,146,1,7.78,-0.63,-5.4,Cowboys,2012
+13,15,Sun,2012-12-16,,Win,1,8-6,home,Steelers,27,24,23,415,328,87,1,20,388,319,69,2,6.23,-6.46,3.23,Cowboys,2012
+14,16,Sun,2012-12-23,,Loss,1,8-7,home,Saints,31,34,18,446,406,40,1,33,562,446,116,0,12.45,-27.29,12.18,Cowboys,2012
+15,17,Sun,2012-12-30,,Loss,0,8-8,away,Redskins,18,28,20,296,196,100,3,24,361,87,274,0,0.69,-16.28,7.18,Cowboys,2012

@@ -1,0 +1,17 @@
+,Week,Day,Date,Boxscore,Win/Loss,Overtime,Home/Away,Opponent,Team Score,Opponenet Score,Passing Completion,Passing Attempts,Passing Yards,Passing Touchdowns,Passing Interceptions,Passing Sacks,Sack Yards,Passing Yards/Attempts,Net Yards/Attempts,Passing Completion Per.,Passing Rate,Rushing Attempts,Rushing Yards,Rushing Yards/Attempts,Rushing Touchdown,Field Goals Made,Field Goals Attempts,Extra Points Made,Extra Point Attempts,Punts,Total Punt Yards,Third Down Conversions,Third Down Attempts,Fourth Down Conversions,Fourth Down Attemtps,Time of Possesion,Year,Team
+0,1,Sun,2012-09-09,boxscore,Loss,1,Away,Vikings,23,26,23,39,242,2,0,2,18,6.7,5.9,59.0,94.2,34,113,3.3,0,3,3,0,1,4,214,9,18,1,2,37:49,2012,Jaguars
+1,2,Sun,2012-09-16,boxscore,Loss,0,Home,Texans,7,27,9,21,52,1,0,3,24,3.6,2.2,42.9,66.2,14,65,4.6,0,0,0,1,1,9,470,0,9,0,0,16:43,2012,Jaguars
+2,3,Sun,2012-09-23,boxscore,Win,0,Away,Colts,22,17,10,21,148,1,0,1,7,7.4,6.7,47.6,87.0,32,185,5.8,1,3,3,1,1,6,321,4,13,0,0,27:36,2012,Jaguars
+3,4,Sun,2012-09-30,boxscore,Loss,0,Home,Bengals,10,27,23,34,143,1,1,6,43,5.5,3.6,67.6,73.5,18,69,3.8,0,1,1,1,1,6,295,2,11,0,1,28:41,2012,Jaguars
+4,5,Sun,2012-10-07,boxscore,Loss,0,Home,Bears,3,41,17,33,129,0,2,3,13,4.3,3.6,51.5,36.0,17,60,3.5,0,1,1,0,0,6,291,5,13,0,0,24:00,2012,Jaguars
+5,7,Sun,2012-10-21,boxscore,Loss,1,Away,Raiders,23,26,17,32,155,1,0,3,26,5.7,4.4,53.1,77.0,26,54,2.1,1,3,3,2,2,9,379,1,15,0,1,30:05,2012,Jaguars
+6,8,Sun,2012-10-28,boxscore,Loss,0,Away,Packers,15,24,27,49,279,1,0,2,24,6.2,5.5,55.1,78.5,20,62,3.1,0,3,3,0,0,6,203,5,16,0,2,30:48,2012,Jaguars
+7,9,Sun,2012-11-04,boxscore,Loss,0,Home,Lions,14,31,27,38,215,2,2,1,5,5.8,5.5,71.1,80.5,20,64,3.2,0,0,0,0,0,4,202,6,11,1,1,24:30,2012,Jaguars
+8,10,Thu,2012-11-08,boxscore,Loss,0,Home,Colts,10,27,28,47,300,1,2,4,30,7.0,5.9,59.6,67.7,12,37,3.1,0,1,2,1,1,5,236,1,10,1,2,24:14,2012,Jaguars
+9,11,Sun,2012-11-18,boxscore,Loss,1,Away,Texans,37,43,18,35,372,4,0,2,6,10.8,10.1,51.4,127.3,29,86,3.0,0,3,3,4,4,5,242,4,14,1,2,31:19,2012,Jaguars
+10,12,Sun,2012-11-25,boxscore,Win,0,Home,Titans,24,19,17,26,221,2,1,7,40,10.0,6.7,65.4,101.6,27,100,3.7,1,1,1,3,3,5,235,7,14,0,1,29:23,2012,Jaguars
+11,13,Sun,2012-12-02,boxscore,Loss,0,Away,Bills,18,34,19,42,186,1,1,3,16,4.8,4.1,45.2,56.3,18,50,2.8,1,1,1,1,1,5,208,1,10,0,3,24:51,2012,Jaguars
+12,14,Sun,2012-12-09,boxscore,Loss,0,Home,Jets,10,17,21,43,168,0,2,3,17,4.3,3.7,48.8,39.7,24,123,5.1,1,1,2,1,1,8,363,2,16,3,3,29:29,2012,Jaguars
+13,15,Sun,2012-12-16,boxscore,Loss,0,Away,Dolphins,3,24,18,34,213,0,0,2,8,6.5,5.9,52.9,72.3,21,86,4.1,0,1,1,0,0,5,237,6,15,0,3,24:22,2012,Jaguars
+14,16,Sun,2012-12-23,boxscore,Loss,0,Home,Patriots,16,23,29,51,343,1,3,1,5,6.8,6.6,56.9,59.5,23,93,4.0,0,3,4,1,1,4,225,4,15,1,2,32:35,2012,Jaguars
+15,17,Sun,2012-12-30,boxscore,Loss,0,Away,Titans,20,38,25,41,253,2,3,7,45,7.3,5.3,61.0,64.4,23,122,5.3,0,0,0,2,2,5,232,7,16,0,3,32:21,2012,Jaguars

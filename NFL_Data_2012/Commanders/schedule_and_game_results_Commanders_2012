@@ -1,18 +1,18 @@
 ,Week,Day,Date,Time,Win/Loss,Overtime,Team Record,Home/Away,Opponent,Points Scored,Points Allowed,Offense 1st Down,Total Yards Gained of Offense,Total yards Gained by Passing,Total Yards Gained by Rushing,Offense Turnovers,Defense 1st Down,Total Yards Allowed by Defense,Total Passing Yards Allowed by Defense,Total Rushing Yards Allowed by Defense,Defense Turnovers,Offense,Defense,Sp. Tms,Team,Year
-0,1,Sun,2012-09-09,nan,Win,0,1-0,away,New Orleans Saints,40,32,22,459,306,153,0,24,358,326,32,3,14.09,-1.68,-5.25,Commanders,2012
-1,2,Sun,2012-09-16,nan,Loss,0,1-1,away,St. Louis Rams,28,31,18,373,197,176,1,23,452,301,151,3,7.11,-3.93,-4.81,Commanders,2012
-2,3,Sun,2012-09-23,nan,Loss,0,1-2,home,Cincinnati Bengals,31,38,31,381,179,202,1,22,478,385,93,2,4.89,-10.79,-0.9,Commanders,2012
-3,4,Sun,2012-09-30,nan,Win,0,2-2,away,Tampa Bay Buccaneers,24,22,27,474,321,153,0,16,373,293,80,1,18.1,-0.91,-18.98,Commanders,2012
-4,5,Sun,2012-10-07,nan,Loss,0,2-3,home,Atlanta Falcons,17,24,12,316,187,129,2,28,421,338,83,2,-6.05,-1.6,-1.66,Commanders,2012
-5,6,Sun,2012-10-14,nan,Win,0,3-3,home,Minnesota Vikings,38,26,20,361,178,183,1,27,421,327,94,3,13.91,-0.2,-3.02,Commanders,2012
-6,7,Sun,2012-10-21,nan,Loss,0,3-4,away,New York Giants,23,27,24,480,232,248,4,22,393,329,64,2,5.54,-13.48,4.16,Commanders,2012
-7,8,Sun,2012-10-28,nan,Loss,0,3-5,away,Pittsburgh Steelers,12,27,17,255,169,86,0,25,355,215,140,0,-1.87,-14.8,0.3,Commanders,2012
-8,9,Sun,2012-11-04,nan,Loss,0,3-6,home,Carolina Panthers,13,21,24,337,186,151,0,18,330,201,129,0,-0.97,-11.79,2.32,Commanders,2012
-9,11,Sun,2012-11-18,nan,Win,0,4-6,home,Philadelphia Eagles,31,6,15,361,192,169,0,16,257,177,80,3,11.54,19.37,-5.39,Commanders,2012
-10,12,Thu,2012-11-22,nan,Win,0,5-6,away,Dallas Cowboys,38,31,22,437,288,149,1,22,458,423,35,3,15.22,-6.7,4.47,Commanders,2012
-11,13,Mon,2012-12-03,nan,Win,0,6-6,home,New York Giants,17,16,20,370,163,207,1,21,390,273,117,0,13.04,-13.66,4.59,Commanders,2012
-12,14,Sun,2012-12-09,nan,Win,1,7-6,home,Baltimore Ravens,31,28,22,423,244,179,1,18,359,173,186,2,10.08,-8.93,1.57,Commanders,2012
-13,15,Sun,2012-12-16,nan,Win,0,8-6,away,Cleveland Browns,38,21,25,430,308,122,1,13,291,233,58,2,11.88,9.43,-0.39,Commanders,2012
-14,16,Sun,2012-12-23,nan,Win,0,9-6,away,Philadelphia Eagles,27,20,18,313,185,128,1,25,411,321,90,2,7.09,-5.53,0.72,Commanders,2012
-15,17,Sun,2012-12-30,nan,Win,0,10-6,home,Dallas Cowboys,28,18,24,361,87,274,0,20,296,196,100,3,16.28,-0.69,-7.18,Commanders,2012
-16,19,Sun,2013-01-06,nan,Loss,0,10-7,home,Seattle Seahawks,14,24,15,203,99,104,2,22,380,156,224,1,-9.36,-6.2,2.26,Commanders,2012
+0,1,Sun,2012-09-09,,Win,0,1-0,away,Saints,40,32,22,459,306,153,0,24,358,326,32,3,14.09,-1.68,-5.25,Commanders,2012
+1,2,Sun,2012-09-16,,Loss,0,1-1,away,Rams,28,31,18,373,197,176,1,23,452,301,151,3,7.11,-3.93,-4.81,Commanders,2012
+2,3,Sun,2012-09-23,,Loss,0,1-2,home,Bengals,31,38,31,381,179,202,1,22,478,385,93,2,4.89,-10.79,-0.9,Commanders,2012
+3,4,Sun,2012-09-30,,Win,0,2-2,away,Buccaneers,24,22,27,474,321,153,0,16,373,293,80,1,18.1,-0.91,-18.98,Commanders,2012
+4,5,Sun,2012-10-07,,Loss,0,2-3,home,Falcons,17,24,12,316,187,129,2,28,421,338,83,2,-6.05,-1.6,-1.66,Commanders,2012
+5,6,Sun,2012-10-14,,Win,0,3-3,home,Vikings,38,26,20,361,178,183,1,27,421,327,94,3,13.91,-0.2,-3.02,Commanders,2012
+6,7,Sun,2012-10-21,,Loss,0,3-4,away,Giants,23,27,24,480,232,248,4,22,393,329,64,2,5.54,-13.48,4.16,Commanders,2012
+7,8,Sun,2012-10-28,,Loss,0,3-5,away,Steelers,12,27,17,255,169,86,0,25,355,215,140,0,-1.87,-14.8,0.3,Commanders,2012
+8,9,Sun,2012-11-04,,Loss,0,3-6,home,Panthers,13,21,24,337,186,151,0,18,330,201,129,0,-0.97,-11.79,2.32,Commanders,2012
+9,11,Sun,2012-11-18,,Win,0,4-6,home,Eagles,31,6,15,361,192,169,0,16,257,177,80,3,11.54,19.37,-5.39,Commanders,2012
+10,12,Thu,2012-11-22,,Win,0,5-6,away,Cowboys,38,31,22,437,288,149,1,22,458,423,35,3,15.22,-6.7,4.47,Commanders,2012
+11,13,Mon,2012-12-03,,Win,0,6-6,home,Giants,17,16,20,370,163,207,1,21,390,273,117,0,13.04,-13.66,4.59,Commanders,2012
+12,14,Sun,2012-12-09,,Win,1,7-6,home,Ravens,31,28,22,423,244,179,1,18,359,173,186,2,10.08,-8.93,1.57,Commanders,2012
+13,15,Sun,2012-12-16,,Win,0,8-6,away,Browns,38,21,25,430,308,122,1,13,291,233,58,2,11.88,9.43,-0.39,Commanders,2012
+14,16,Sun,2012-12-23,,Win,0,9-6,away,Eagles,27,20,18,313,185,128,1,25,411,321,90,2,7.09,-5.53,0.72,Commanders,2012
+15,17,Sun,2012-12-30,,Win,0,10-6,home,Cowboys,28,18,24,361,87,274,0,20,296,196,100,3,16.28,-0.69,-7.18,Commanders,2012
+16,19,Sun,2013-01-06,,Loss,0,10-7,home,Seahawks,14,24,15,203,99,104,2,22,380,156,224,1,-9.36,-6.2,2.26,Commanders,2012

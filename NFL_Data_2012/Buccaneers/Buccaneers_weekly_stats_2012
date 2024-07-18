@@ -1,0 +1,17 @@
+,Week,Day,Date,Boxscore,Win/Loss,Overtime,Home/Away,Opponent,Team Score,Opponenet Score,Passing Completion,Passing Attempts,Passing Yards,Passing Touchdowns,Passing Interceptions,Passing Sacks,Sack Yards,Passing Yards/Attempts,Net Yards/Attempts,Passing Completion Per.,Passing Rate,Rushing Attempts,Rushing Yards,Rushing Yards/Attempts,Rushing Touchdown,Field Goals Made,Field Goals Attempts,Extra Points Made,Extra Point Attempts,Punts,Total Punt Yards,Third Down Conversions,Third Down Attempts,Fourth Down Conversions,Fourth Down Attemtps,Time of Possesion,Year,Team
+0,1,Sun,2012-09-09,boxscore,Win,0,Home,Panthers,16,10,16,24,128,1,0,2,10,5.8,4.9,66.7,93.7,36,130,3.6,0,3,3,1,1,5,230,5,14,0,0,37:27,2012,Buccaneers
+1,2,Sun,2012-09-16,boxscore,Loss,0,Away,Giants,34,41,15,28,228,2,2,2,15,8.7,7.6,53.6,74.7,22,79,3.6,1,2,2,4,4,6,252,2,10,0,0,26:31,2012,Buccaneers
+2,3,Sun,2012-09-23,boxscore,Loss,0,Away,Cowboys,10,16,10,28,91,1,1,2,19,3.9,3.0,35.7,42.4,25,75,3.0,0,1,1,1,1,8,331,3,15,2,2,26:56,2012,Buccaneers
+3,4,Sun,2012-09-30,boxscore,Loss,0,Home,Redskins,22,24,24,39,293,1,1,1,6,7.7,7.3,61.5,82.5,18,80,4.4,1,3,3,1,1,6,277,3,12,0,0,27:41,2012,Buccaneers
+4,6,Sun,2012-10-14,boxscore,Win,0,Home,Chiefs,38,10,15,26,318,3,1,1,10,12.6,11.8,57.7,123.6,24,145,6.0,1,1,2,5,5,3,106,4,9,0,0,26:49,2012,Buccaneers
+5,7,Sun,2012-10-21,boxscore,Loss,0,Home,Saints,28,35,24,42,411,3,0,2,9,10.0,9.3,57.1,114.3,24,102,4.3,1,0,1,4,4,3,126,4,12,2,3,33:45,2012,Buccaneers
+6,8,Thu,2012-10-25,boxscore,Win,0,Away,Vikings,36,17,19,36,257,3,0,1,5,7.3,6.9,52.8,103.6,41,159,3.9,1,3,3,3,3,6,281,8,17,0,0,37:45,2012,Buccaneers
+7,9,Sun,2012-11-04,boxscore,Win,0,Away,Raiders,42,32,18,30,237,2,0,1,10,8.2,7.6,60.0,107.2,32,278,8.7,4,0,2,6,6,4,154,5,12,0,1,28:04,2012,Buccaneers
+8,10,Sun,2012-11-11,boxscore,Win,0,Home,Chargers,34,24,14,20,205,2,0,1,5,10.5,9.8,70.0,136.5,22,74,3.4,0,2,2,4,4,3,134,3,9,1,1,23:19,2012,Buccaneers
+9,11,Sun,2012-11-18,boxscore,Win,1,Away,Panthers,27,21,25,46,236,3,2,1,12,5.4,5.0,54.3,72.4,30,167,5.6,0,2,2,1,1,6,297,7,18,1,2,32:30,2012,Buccaneers
+10,12,Sun,2012-11-25,boxscore,Loss,0,Home,Falcons,23,24,20,31,276,0,0,2,8,9.2,8.4,64.5,92.9,21,50,2.4,2,3,4,2,2,2,100,4,10,0,0,30:38,2012,Buccaneers
+11,13,Sun,2012-12-02,boxscore,Loss,0,Away,Broncos,23,31,18,39,235,2,1,1,7,6.2,5.9,46.2,72.1,21,71,3.4,0,3,3,2,2,5,257,3,12,0,1,26:33,2012,Buccaneers
+12,14,Sun,2012-12-09,boxscore,Loss,0,Home,Eagles,21,23,14,34,178,2,0,2,11,5.6,4.9,41.2,77.8,32,136,4.3,1,0,0,3,3,10,424,6,16,0,0,30:09,2012,Buccaneers
+13,15,Sun,2012-12-16,boxscore,Loss,0,Away,Saints,0,41,30,54,319,0,4,2,11,6.1,5.7,55.6,42.1,16,67,4.2,0,0,0,0,0,4,195,4,13,1,3,28:54,2012,Buccaneers
+14,16,Sun,2012-12-23,boxscore,Loss,0,Home,Rams,13,28,30,54,349,1,4,5,23,6.9,5.9,55.6,50.6,22,80,3.6,0,2,2,1,1,1,25,8,17,0,4,35:59,2012,Buccaneers
+15,17,Sun,2012-12-30,boxscore,Win,0,Away,Falcons,22,17,19,35,222,1,1,0,0,6.3,6.3,54.3,71.4,30,144,4.8,1,3,3,1,1,5,251,7,16,0,0,32:05,2012,Buccaneers
