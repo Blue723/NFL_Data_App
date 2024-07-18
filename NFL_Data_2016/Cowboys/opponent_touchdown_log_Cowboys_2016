@@ -1,35 +1,35 @@
-,Rank,Team,Date,Opponent,Win/Loss,Home_Score,Opponenet_Score,Quarter,Distance,Type,Detail
-1,1,Cowboys,2016-09-11,NYG,Loss,19,20,2,15,pass,Larry Donnell
-2,2,Cowboys,2016-09-11,NYG,Loss,19,20,2,9,pass,Sterling Shepard
-3,3,Cowboys,2016-09-11,NYG,Loss,19,20,4,3,pass,Victor Cruz
-4,4,Cowboys,2016-09-18,WAS,Win,27,23,2,14,rush,Matt Jones
-5,5,Cowboys,2016-09-18,WAS,Win,27,23,3,11,pass,Jamison Crowder
-6,6,Cowboys,2016-09-25,CHI,Win,31,17,3,2,pass,Zach Miller
-7,7,Cowboys,2016-09-25,CHI,Win,31,17,4,6,pass,Zach Miller
-8,8,Cowboys,2016-10-02,SFO,Win,24,17,1,33,pass,Jeremy Kerley
-9,9,Cowboys,2016-10-02,SFO,Win,24,17,2,3,rush,Carlos Hyde
-10,10,Cowboys,2016-10-09,CIN,Win,28,14,4,7,pass,Brandon LaFell
-11,11,Cowboys,2016-10-09,CIN,Win,28,14,4,5,pass,Brandon LaFell
-12,12,Cowboys,2016-10-16,GNB,Win,30,16,4,6,pass,Randall Cobb
-13,13,Cowboys,2016-10-30,PHI,Win,29,23,2,1,rush,Ryan Mathews
-14,14,Cowboys,2016-10-30,PHI,Win,29,23,3,5,pass,Jordan Matthews
-15,15,Cowboys,2016-11-06,CLE,Win,35,10,2,12,pass,Terrelle Pryor
-16,16,Cowboys,2016-11-13,PIT,Win,35,30,1,2,pass,Le'Veon Bell
-17,17,Cowboys,2016-11-13,PIT,Win,35,30,1,3,pass,Eli Rogers
-18,18,Cowboys,2016-11-13,PIT,Win,35,30,4,1,rush,Le'Veon Bell
-19,19,Cowboys,2016-11-13,PIT,Win,35,30,4,15,pass,Antonio Brown
-20,20,Cowboys,2016-11-20,BAL,Win,27,17,1,18,rush,Terrance West
-21,21,Cowboys,2016-11-20,BAL,Win,27,17,4,5,pass,Steve Smith Sr.
-22,22,Cowboys,2016-11-24,WAS,Win,31,26,4,5,pass,Jordan Reed
-23,23,Cowboys,2016-11-24,WAS,Win,31,26,4,67,pass,DeSean Jackson
-24,24,Cowboys,2016-11-24,WAS,Win,31,26,4,8,pass,Jordan Reed
-25,25,Cowboys,2016-12-01,MIN,Win,17,15,4,3,pass,Jerick McKinnon
-26,26,Cowboys,2016-12-11,NYG,Loss,7,10,3,61,pass,Odell Beckham Jr.
-27,27,Cowboys,2016-12-18,TAM,Win,26,20,3,42,pass,Adam Humphries
-28,28,Cowboys,2016-12-18,TAM,Win,26,20,3,10,pass,Cameron Brate
-29,29,Cowboys,2016-12-26,DET,Win,42,21,1,7,rush,Zach Zenner
-30,30,Cowboys,2016-12-26,DET,Win,42,21,2,1,rush,Matthew Stafford
-31,31,Cowboys,2016-12-26,DET,Win,42,21,2,5,rush,Zach Zenner
-32,32,Cowboys,2017-01-01,PHI,Loss,13,27,2,6,pass,Zach Ertz
-33,33,Cowboys,2017-01-01,PHI,Loss,13,27,3,20,pass,Zach Ertz
-34,34,Cowboys,2017-01-01,PHI,Loss,13,27,4,1,rush,Terrell Watson
+,Rank,Team,Date,Opponent,Win/Loss,Home_Score,Opponenet_Score,Quarter,Distance,Type,Detail,Year
+1,1,Cowboys,2016-09-11,NYG,Loss,19,20,2,15,pass,Larry Donnell,2016
+2,2,Cowboys,2016-09-11,NYG,Loss,19,20,2,9,pass,Sterling Shepard,2016
+3,3,Cowboys,2016-09-11,NYG,Loss,19,20,4,3,pass,Victor Cruz,2016
+4,4,Cowboys,2016-09-18,WAS,Win,27,23,2,14,rush,Matt Jones,2016
+5,5,Cowboys,2016-09-18,WAS,Win,27,23,3,11,pass,Jamison Crowder,2016
+6,6,Cowboys,2016-09-25,CHI,Win,31,17,3,2,pass,Zach Miller,2016
+7,7,Cowboys,2016-09-25,CHI,Win,31,17,4,6,pass,Zach Miller,2016
+8,8,Cowboys,2016-10-02,SFO,Win,24,17,1,33,pass,Jeremy Kerley,2016
+9,9,Cowboys,2016-10-02,SFO,Win,24,17,2,3,rush,Carlos Hyde,2016
+10,10,Cowboys,2016-10-09,CIN,Win,28,14,4,7,pass,Brandon LaFell,2016
+11,11,Cowboys,2016-10-09,CIN,Win,28,14,4,5,pass,Brandon LaFell,2016
+12,12,Cowboys,2016-10-16,GNB,Win,30,16,4,6,pass,Randall Cobb,2016
+13,13,Cowboys,2016-10-30,PHI,Win,29,23,2,1,rush,Ryan Mathews,2016
+14,14,Cowboys,2016-10-30,PHI,Win,29,23,3,5,pass,Jordan Matthews,2016
+15,15,Cowboys,2016-11-06,CLE,Win,35,10,2,12,pass,Terrelle Pryor,2016
+16,16,Cowboys,2016-11-13,PIT,Win,35,30,1,2,pass,Le'Veon Bell,2016
+17,17,Cowboys,2016-11-13,PIT,Win,35,30,1,3,pass,Eli Rogers,2016
+18,18,Cowboys,2016-11-13,PIT,Win,35,30,4,1,rush,Le'Veon Bell,2016
+19,19,Cowboys,2016-11-13,PIT,Win,35,30,4,15,pass,Antonio Brown,2016
+20,20,Cowboys,2016-11-20,BAL,Win,27,17,1,18,rush,Terrance West,2016
+21,21,Cowboys,2016-11-20,BAL,Win,27,17,4,5,pass,Steve Smith Sr.,2016
+22,22,Cowboys,2016-11-24,WAS,Win,31,26,4,5,pass,Jordan Reed,2016
+23,23,Cowboys,2016-11-24,WAS,Win,31,26,4,67,pass,DeSean Jackson,2016
+24,24,Cowboys,2016-11-24,WAS,Win,31,26,4,8,pass,Jordan Reed,2016
+25,25,Cowboys,2016-12-01,MIN,Win,17,15,4,3,pass,Jerick McKinnon,2016
+26,26,Cowboys,2016-12-11,NYG,Loss,7,10,3,61,pass,Odell Beckham Jr.,2016
+27,27,Cowboys,2016-12-18,TAM,Win,26,20,3,42,pass,Adam Humphries,2016
+28,28,Cowboys,2016-12-18,TAM,Win,26,20,3,10,pass,Cameron Brate,2016
+29,29,Cowboys,2016-12-26,DET,Win,42,21,1,7,rush,Zach Zenner,2016
+30,30,Cowboys,2016-12-26,DET,Win,42,21,2,1,rush,Matthew Stafford,2016
+31,31,Cowboys,2016-12-26,DET,Win,42,21,2,5,rush,Zach Zenner,2016
+32,32,Cowboys,2017-01-01,PHI,Loss,13,27,2,6,pass,Zach Ertz,2016
+33,33,Cowboys,2017-01-01,PHI,Loss,13,27,3,20,pass,Zach Ertz,2016
+34,34,Cowboys,2017-01-01,PHI,Loss,13,27,4,1,rush,Terrell Watson,2016

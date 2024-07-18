@@ -1,0 +1,17 @@
+,Week,Day,Date,Boxscore,Win/Loss,Overtime,Home/Away,Opponent,Team Score,Opponenet Score,Passing Completion,Passing Attempts,Passing Yards,Passing Touchdowns,Passing Interceptions,Passing Sacks,Sack Yards,Passing Yards/Attempts,Net Yards/Attempts,Passing Completion Per.,Passing Rate,Rushing Attempts,Rushing Yards,Rushing Yards/Attempts,Rushing Touchdown,Field Goals Made,Field Goals Attempts,Extra Points Made,Extra Point Attempts,Punts,Total Punt Yards,Third Down Conversions,Third Down Attempts,Fourth Down Conversions,Fourth Down Attemtps,Time of Possesion,Year,Team
+0,1,Sun,2016-09-11,boxscore,Win,0,Away,Jets,23,22,23,30,324,1,1,7,42,12.2,8.8,76.7,108.2,19,57,3.0,1,3,4,2,2,3,144,3,11,0,0,25:07,2016,Bengals
+1,2,Sun,2016-09-18,boxscore,Loss,0,Away,Steelers,16,24,31,54,366,1,0,1,0,6.8,6.7,57.4,84.3,18,46,2.6,0,3,3,1,1,9,407,4,16,1,1,27:05,2016,Bengals
+2,3,Sun,2016-09-25,boxscore,Loss,0,Home,Broncos,17,29,21,31,189,0,1,4,17,6.6,5.4,67.7,70.5,29,143,4.9,2,1,1,2,2,5,231,5,12,0,1,32:06,2016,Bengals
+3,4,Thu,2016-09-29,boxscore,Win,0,Home,Dolphins,22,7,22,31,285,1,0,1,11,9.5,8.9,71.0,110.3,37,77,2.1,0,5,5,1,1,4,184,3,15,1,1,38:02,2016,Bengals
+4,5,Sun,2016-10-09,boxscore,Loss,0,Away,Cowboys,14,28,29,41,249,2,0,4,20,6.6,5.5,70.7,102.6,19,96,5.1,0,0,1,2,2,5,196,5,12,1,1,32:17,2016,Bengals
+5,6,Sun,2016-10-16,boxscore,Loss,0,Away,Patriots,17,35,21,31,237,1,0,2,17,8.2,7.2,67.7,101.1,32,120,3.8,1,1,1,2,2,4,164,5,12,1,2,32:03,2016,Bengals
+6,7,Sun,2016-10-23,boxscore,Win,0,Home,Browns,31,17,19,28,288,2,0,3,20,11.0,9.3,67.9,125.3,30,271,9.0,2,1,3,4,4,2,89,5,10,0,0,28:12,2016,Bengals
+7,8,Sun,2016-10-30,boxscore,T,1,Home,Redskins,27,27,27,42,263,1,1,3,21,6.8,5.8,64.3,79.8,36,152,4.2,3,0,1,3,4,5,261,8,15,0,0,35:18,2016,Bengals
+8,10,Mon,2016-11-14,boxscore,Loss,0,Away,Giants,20,21,16,29,186,1,1,3,18,7.0,5.8,55.2,71.9,23,78,3.4,1,2,2,2,2,7,336,2,11,0,0,28:37,2016,Bengals
+9,11,Sun,2016-11-20,boxscore,Loss,0,Home,Bills,12,16,24,43,207,1,2,1,0,4.8,4.7,55.8,57.0,27,93,3.4,1,0,0,0,2,6,267,8,15,0,0,27:49,2016,Bengals
+10,12,Sun,2016-11-27,boxscore,Loss,0,Away,Ravens,14,19,26,48,261,1,0,3,22,5.9,5.1,54.2,76.8,20,64,3.2,0,2,2,0,1,6,283,5,16,1,1,28:43,2016,Bengals
+11,13,Sun,2016-12-04,boxscore,Win,0,Home,Eagles,32,14,23,31,332,2,0,0,0,10.7,10.7,74.2,130.0,33,80,2.4,1,4,4,2,3,1,49,7,14,0,0,28:02,2016,Bengals
+12,14,Sun,2016-12-11,boxscore,Win,0,Away,Browns,23,10,20,28,147,2,0,4,33,6.4,4.6,71.4,107.3,38,213,5.6,1,1,2,2,3,5,248,8,15,0,0,34:53,2016,Bengals
+13,15,Sun,2016-12-18,boxscore,Loss,0,Home,Steelers,20,24,16,27,146,0,1,1,11,5.8,5.2,59.3,58.6,28,76,2.7,2,2,2,2,2,3,141,6,12,1,1,27:28,2016,Bengals
+14,16,Sat,2016-12-24,boxscore,Loss,0,Away,Texans,10,12,28,41,244,1,1,3,24,6.5,5.5,68.3,81.8,19,50,2.6,0,1,2,1,1,8,366,7,16,1,1,28:54,2016,Bengals
+15,17,Sun,2017-01-01,boxscore,Win,0,Home,Ravens,27,10,18,28,218,1,0,1,8,8.1,7.5,64.3,100.0,38,153,4.0,2,2,2,3,3,5,247,1,8,0,0,30:42,2016,Bengals

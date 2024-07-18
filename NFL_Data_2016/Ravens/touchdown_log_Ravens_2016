@@ -1,34 +1,34 @@
-,Rank,Team,Date,Opponent,Win/Loss,Home_Score,Opponenet_Score,Quarter,Distance,Type,Detail
-1,1,Ravens,2016-09-11,BUF,Win,13,7,2,66,pass,Mike Wallace
-2,2,Ravens,2016-09-18,CLE,Win,25,20,1,85,xpr,Tavon Young
-3,3,Ravens,2016-09-18,CLE,Win,25,20,2,7,pass,Mike Wallace
-4,4,Ravens,2016-09-18,CLE,Win,25,20,3,17,pass,Mike Wallace
-5,5,Ravens,2016-09-25,JAX,Win,19,17,1,7,rush,Joe Flacco
-6,6,Ravens,2016-10-02,OAK,Loss,27,28,3,1,rush,Joe Flacco
-7,7,Ravens,2016-10-02,OAK,Loss,27,28,4,52,pass,Steve Smith Sr.
-8,8,Ravens,2016-10-02,OAK,Loss,27,28,4,3,rush,Terrance West
-9,9,Ravens,2016-10-09,WAS,Loss,10,16,1,7,pass,Crockett Gillmore
-10,10,Ravens,2016-10-16,NYG,Loss,23,27,1,1,rush,Terrance West
-11,11,Ravens,2016-10-16,NYG,Loss,23,27,4,2,rush,Terrance West
-12,12,Ravens,2016-10-23,NYJ,Loss,16,24,1,0,fumble,Chris Moore
-13,13,Ravens,2016-11-06,PIT,Win,21,14,1,95,pass,Mike Wallace
-14,14,Ravens,2016-11-06,PIT,Win,21,14,4,14,blocked punt,Chris Moore
-15,15,Ravens,2016-11-10,CLE,Win,28,7,3,4,pass,Darren Waller
-16,16,Ravens,2016-11-10,CLE,Win,28,7,3,11,pass,Steve Smith Sr.
-17,17,Ravens,2016-11-10,CLE,Win,28,7,4,27,pass,Breshad Perriman
-18,18,Ravens,2016-11-20,DAL,Loss,17,27,1,18,rush,Terrance West
-19,19,Ravens,2016-11-20,DAL,Loss,17,27,4,5,pass,Steve Smith Sr.
-20,20,Ravens,2016-11-27,CIN,Win,19,14,1,14,pass,Breshad Perriman
-21,21,Ravens,2016-12-04,MIA,Win,38,6,1,3,pass,Terrance West
-22,22,Ravens,2016-12-04,MIA,Win,38,6,1,13,pass,Dennis Pitta
-23,23,Ravens,2016-12-04,MIA,Win,38,6,2,9,pass,Dennis Pitta
-24,24,Ravens,2016-12-04,MIA,Win,38,6,4,53,pass,Breshad Perriman
-25,25,Ravens,2016-12-04,MIA,Win,38,6,4,9,rush,Terrance West
-26,26,Ravens,2016-12-12,NWE,Loss,23,30,3,3,pass,Darren Waller
-27,27,Ravens,2016-12-12,NWE,Loss,23,30,3,8,pass,Kenneth Dixon
-28,28,Ravens,2016-12-18,PHI,Win,27,26,1,5,pass,Kamar Aiken
-29,29,Ravens,2016-12-18,PHI,Win,27,26,2,34,pass,Steve Smith Sr.
-30,30,Ravens,2016-12-18,PHI,Win,27,26,4,16,rush,Kenneth Dixon
-31,31,Ravens,2016-12-25,PIT,Loss,27,31,3,18,pass,Steve Smith Sr.
-32,32,Ravens,2016-12-25,PIT,Loss,27,31,4,10,rush,Kyle Juszczyk
-33,33,Ravens,2017-01-01,CIN,Loss,10,27,4,1,rush,Kenneth Dixon
+,Rank,Team,Date,Opponent,Win/Loss,Home_Score,Opponenet_Score,Quarter,Distance,Type,Detail,Year
+1,1,Ravens,2016-09-11,BUF,Win,13,7,2,66,pass,Mike Wallace,2016
+2,2,Ravens,2016-09-18,CLE,Win,25,20,1,85,xpr,Tavon Young,2016
+3,3,Ravens,2016-09-18,CLE,Win,25,20,2,7,pass,Mike Wallace,2016
+4,4,Ravens,2016-09-18,CLE,Win,25,20,3,17,pass,Mike Wallace,2016
+5,5,Ravens,2016-09-25,JAX,Win,19,17,1,7,rush,Joe Flacco,2016
+6,6,Ravens,2016-10-02,OAK,Loss,27,28,3,1,rush,Joe Flacco,2016
+7,7,Ravens,2016-10-02,OAK,Loss,27,28,4,52,pass,Steve Smith Sr.,2016
+8,8,Ravens,2016-10-02,OAK,Loss,27,28,4,3,rush,Terrance West,2016
+9,9,Ravens,2016-10-09,WAS,Loss,10,16,1,7,pass,Crockett Gillmore,2016
+10,10,Ravens,2016-10-16,NYG,Loss,23,27,1,1,rush,Terrance West,2016
+11,11,Ravens,2016-10-16,NYG,Loss,23,27,4,2,rush,Terrance West,2016
+12,12,Ravens,2016-10-23,NYJ,Loss,16,24,1,0,fumble,Chris Moore,2016
+13,13,Ravens,2016-11-06,PIT,Win,21,14,1,95,pass,Mike Wallace,2016
+14,14,Ravens,2016-11-06,PIT,Win,21,14,4,14,blocked punt,Chris Moore,2016
+15,15,Ravens,2016-11-10,CLE,Win,28,7,3,4,pass,Darren Waller,2016
+16,16,Ravens,2016-11-10,CLE,Win,28,7,3,11,pass,Steve Smith Sr.,2016
+17,17,Ravens,2016-11-10,CLE,Win,28,7,4,27,pass,Breshad Perriman,2016
+18,18,Ravens,2016-11-20,DAL,Loss,17,27,1,18,rush,Terrance West,2016
+19,19,Ravens,2016-11-20,DAL,Loss,17,27,4,5,pass,Steve Smith Sr.,2016
+20,20,Ravens,2016-11-27,CIN,Win,19,14,1,14,pass,Breshad Perriman,2016
+21,21,Ravens,2016-12-04,MIA,Win,38,6,1,3,pass,Terrance West,2016
+22,22,Ravens,2016-12-04,MIA,Win,38,6,1,13,pass,Dennis Pitta,2016
+23,23,Ravens,2016-12-04,MIA,Win,38,6,2,9,pass,Dennis Pitta,2016
+24,24,Ravens,2016-12-04,MIA,Win,38,6,4,53,pass,Breshad Perriman,2016
+25,25,Ravens,2016-12-04,MIA,Win,38,6,4,9,rush,Terrance West,2016
+26,26,Ravens,2016-12-12,NWE,Loss,23,30,3,3,pass,Darren Waller,2016
+27,27,Ravens,2016-12-12,NWE,Loss,23,30,3,8,pass,Kenneth Dixon,2016
+28,28,Ravens,2016-12-18,PHI,Win,27,26,1,5,pass,Kamar Aiken,2016
+29,29,Ravens,2016-12-18,PHI,Win,27,26,2,34,pass,Steve Smith Sr.,2016
+30,30,Ravens,2016-12-18,PHI,Win,27,26,4,16,rush,Kenneth Dixon,2016
+31,31,Ravens,2016-12-25,PIT,Loss,27,31,3,18,pass,Steve Smith Sr.,2016
+32,32,Ravens,2016-12-25,PIT,Loss,27,31,4,10,rush,Kyle Juszczyk,2016
+33,33,Ravens,2017-01-01,CIN,Loss,10,27,4,1,rush,Kenneth Dixon,2016

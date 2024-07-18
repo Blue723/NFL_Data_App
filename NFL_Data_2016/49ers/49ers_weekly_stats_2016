@@ -1,0 +1,17 @@
+,Week,Day,Date,Boxscore,Win/Loss,Overtime,Home/Away,Opponent,Team Score,Opponenet Score,Passing Completion,Passing Attempts,Passing Yards,Passing Touchdowns,Passing Interceptions,Passing Sacks,Sack Yards,Passing Yards/Attempts,Net Yards/Attempts,Passing Completion Per.,Passing Rate,Rushing Attempts,Rushing Yards,Rushing Yards/Attempts,Rushing Touchdown,Field Goals Made,Field Goals Attempts,Extra Points Made,Extra Point Attempts,Punts,Total Punt Yards,Third Down Conversions,Third Down Attempts,Fourth Down Conversions,Fourth Down Attemtps,Time of Possesion,Year,Team
+0,1,Mon,2016-09-12,boxscore,Win,0,Home,Rams,28,0,22,35,170,1,0,0,0,4.9,4.9,62.9,84.2,42,150,3.6,3,0,0,4,4,7,319,8,17,1,2,32:10,2016,49ers
+1,2,Sun,2016-09-18,boxscore,Loss,0,Away,Panthers,27,46,17,36,237,2,2,2,6,6.8,6.2,47.2,64.2,26,65,2.5,1,2,2,3,3,7,318,4,14,0,1,24:06,2016,49ers
+2,3,Sun,2016-09-25,boxscore,Loss,0,Away,Seahawks,18,37,14,25,119,0,1,0,0,4.8,4.8,56.0,51.9,31,135,4.4,2,1,2,1,1,7,319,4,15,1,1,24:03,2016,49ers
+3,4,Sun,2016-10-02,boxscore,Loss,0,Home,Cowboys,17,24,16,23,189,1,1,1,7,8.5,7.9,69.6,90.7,29,106,3.7,1,1,1,2,2,4,196,8,14,0,1,23:33,2016,49ers
+4,5,Thu,2016-10-06,boxscore,Loss,0,Home,Cardinals,21,33,18,31,135,1,2,7,27,5.2,3.6,58.1,52.5,36,151,4.2,2,0,0,3,3,7,349,4,14,1,1,28:16,2016,49ers
+5,6,Sun,2016-10-16,boxscore,Loss,0,Away,Bills,16,45,13,29,167,1,0,3,20,6.4,5.2,44.8,74.9,28,133,4.8,0,3,3,1,1,5,209,3,13,0,2,24:49,2016,49ers
+6,7,Sun,2016-10-23,boxscore,Loss,0,Home,Buccaneers,17,34,16,34,113,1,1,4,30,4.2,3.0,47.1,52.7,28,160,5.7,1,1,1,2,2,6,254,6,15,1,1,26:11,2016,49ers
+7,9,Sun,2016-11-06,boxscore,Loss,0,Home,Saints,23,41,24,39,393,2,1,1,5,10.2,9.8,61.5,101.8,17,93,5.5,0,3,3,2,2,2,85,2,9,0,2,21:07,2016,49ers
+8,10,Sun,2016-11-13,boxscore,Loss,0,Away,Cardinals,20,23,17,30,198,1,0,3,12,7.0,6.0,56.7,87.9,28,83,3.0,1,2,2,2,2,7,305,7,17,1,1,27:42,2016,49ers
+9,11,Sun,2016-11-20,boxscore,Loss,0,Home,Patriots,17,30,16,30,177,2,0,5,29,6.9,5.1,53.3,93.3,27,122,4.5,0,1,1,2,2,8,333,5,14,0,0,30:48,2016,49ers
+10,12,Sun,2016-11-27,boxscore,Loss,0,Away,Dolphins,24,31,29,46,282,3,1,2,14,6.4,5.9,63.0,92.8,25,193,7.7,0,1,1,3,3,4,189,7,14,2,2,29:28,2016,49ers
+11,13,Sun,2016-12-04,boxscore,Loss,0,Away,Bears,6,26,5,15,6,0,0,6,33,2.6,0.3,33.3,42.4,34,141,4.1,0,2,2,0,0,8,308,4,14,0,0,28:42,2016,49ers
+12,14,Sun,2016-12-11,boxscore,Loss,1,Home,Jets,17,23,15,26,116,1,0,2,17,5.1,4.1,57.7,81.6,27,248,9.2,1,1,3,2,2,6,239,2,12,0,1,24:30,2016,49ers
+13,15,Sun,2016-12-18,boxscore,Loss,0,Away,Falcons,13,41,20,33,165,2,0,2,18,5.5,4.7,60.6,93.6,20,107,5.4,0,0,0,1,2,7,318,6,13,0,0,23:59,2016,49ers
+14,16,Sat,2016-12-24,boxscore,Win,0,Away,Rams,22,21,28,37,253,2,1,4,13,7.2,6.2,75.7,100.4,29,70,2.4,1,0,0,2,2,9,372,6,16,1,1,31:03,2016,49ers
+15,17,Sun,2017-01-01,boxscore,Loss,0,Home,Seahawks,23,25,17,22,191,1,0,5,24,9.8,7.1,77.3,117.8,31,62,2.0,2,0,0,3,3,6,289,2,11,2,3,30:26,2016,49ers

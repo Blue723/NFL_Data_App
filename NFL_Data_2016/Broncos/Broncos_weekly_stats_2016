@@ -1,0 +1,17 @@
+,Week,Day,Date,Boxscore,Win/Loss,Overtime,Home/Away,Opponent,Team Score,Opponenet Score,Passing Completion,Passing Attempts,Passing Yards,Passing Touchdowns,Passing Interceptions,Passing Sacks,Sack Yards,Passing Yards/Attempts,Net Yards/Attempts,Passing Completion Per.,Passing Rate,Rushing Attempts,Rushing Yards,Rushing Yards/Attempts,Rushing Touchdown,Field Goals Made,Field Goals Attempts,Extra Points Made,Extra Point Attempts,Punts,Total Punt Yards,Third Down Conversions,Third Down Attempts,Fourth Down Conversions,Fourth Down Attemtps,Time of Possesion,Year,Team
+0,1,Thu,2016-09-08,boxscore,Win,0,Home,Panthers,21,20,18,26,159,1,2,2,19,6.8,5.7,69.2,66.0,29,148,5.1,2,0,0,3,3,3,140,5,10,1,1,27:41,2016,Broncos
+1,2,Sun,2016-09-18,boxscore,Win,0,Home,Colts,34,20,22,33,266,0,1,1,0,8.1,7.8,66.7,78.6,31,134,4.3,1,4,5,2,2,2,98,5,11,0,0,30:41,2016,Broncos
+2,3,Sun,2016-09-25,boxscore,Win,0,Away,Bengals,29,17,23,35,303,4,0,2,9,8.9,8.2,65.7,131.0,23,52,2.3,0,1,1,2,3,5,231,6,12,0,0,27:54,2016,Broncos
+3,4,Sun,2016-10-02,boxscore,Win,0,Away,Buccaneers,27,7,19,31,218,2,0,4,20,7.7,6.2,61.3,104.0,32,89,2.8,1,2,2,3,3,7,330,3,13,0,0,31:24,2016,Broncos
+4,5,Sun,2016-10-09,boxscore,Loss,0,Home,Falcons,16,23,23,35,183,1,1,6,40,6.4,4.5,65.7,76.3,24,84,3.5,0,3,3,1,1,6,290,4,16,4,4,31:08,2016,Broncos
+5,6,Thu,2016-10-13,boxscore,Loss,0,Away,Chargers,13,21,30,50,220,1,0,2,10,4.6,4.2,60.0,77.1,16,84,5.3,0,2,3,1,1,5,221,6,15,0,1,26:32,2016,Broncos
+6,7,Mon,2016-10-24,boxscore,Win,0,Home,Texans,27,9,14,25,157,1,0,0,0,6.3,6.3,56.0,88.2,35,190,5.4,2,2,2,3,3,6,255,3,11,0,0,30:38,2016,Broncos
+7,8,Sun,2016-10-30,boxscore,Win,0,Home,Chargers,27,19,20,38,267,0,1,1,9,7.3,6.8,52.6,64.3,25,57,2.3,2,2,2,3,3,5,253,5,15,0,1,26:52,2016,Broncos
+8,9,Sun,2016-11-06,boxscore,Loss,0,Away,Raiders,20,30,18,37,266,2,1,2,17,7.6,6.8,48.6,79.3,12,33,2.8,0,2,2,2,2,6,267,3,11,0,1,18:32,2016,Broncos
+9,10,Sun,2016-11-13,boxscore,Win,0,Away,Saints,25,23,25,40,234,2,2,6,24,6.5,5.1,62.5,74.4,37,103,2.8,0,3,4,2,2,3,124,11,19,0,0,39:22,2016,Broncos
+10,12,Sun,2016-11-27,boxscore,Loss,1,Home,Chiefs,27,30,20,34,340,3,0,5,28,10.8,8.7,58.8,122.2,38,124,3.3,0,2,3,3,3,6,271,9,20,1,1,37:19,2016,Broncos
+11,13,Sun,2016-12-04,boxscore,Win,0,Away,Jaguars,20,10,12,24,102,0,0,2,2,4.3,3.9,50.0,61.5,28,104,3.7,1,2,2,2,2,11,506,1,13,0,0,25:26,2016,Broncos
+12,14,Sun,2016-12-11,boxscore,Loss,0,Away,Titans,10,13,36,52,330,1,0,3,20,6.7,6.0,69.2,92.6,9,18,2.0,0,1,1,1,1,5,207,3,11,1,2,27:33,2016,Broncos
+13,15,Sun,2016-12-18,boxscore,Loss,0,Home,Patriots,3,16,25,40,251,0,1,4,31,7.1,5.7,62.5,69.9,17,58,3.4,0,1,1,0,0,7,325,2,12,0,1,26:24,2016,Broncos
+14,16,Sun,2016-12-25,boxscore,Loss,0,Away,Chiefs,10,33,17,43,183,0,1,0,0,4.3,4.3,39.5,43.1,14,63,4.5,1,1,1,1,1,7,326,4,15,1,2,21:59,2016,Broncos
+15,17,Sun,2017-01-01,boxscore,Win,0,Home,Raiders,24,6,17,27,206,2,1,0,0,7.6,7.6,63.0,95.6,40,143,3.6,1,1,2,3,3,5,224,5,15,1,3,35:25,2016,Broncos

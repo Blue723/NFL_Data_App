@@ -1,0 +1,17 @@
+,Week,Day,Date,Boxscore,Win/Loss,Overtime,Home/Away,Opponent,Team Score,Opponenet Score,Passing Completion,Passing Attempts,Passing Yards,Passing Touchdowns,Passing Interceptions,Passing Sacks,Sack Yards,Passing Yards/Attempts,Net Yards/Attempts,Passing Completion Per.,Passing Rate,Rushing Attempts,Rushing Yards,Rushing Yards/Attempts,Rushing Touchdown,Field Goals Made,Field Goals Attempts,Extra Points Made,Extra Point Attempts,Punts,Total Punt Yards,Third Down Conversions,Third Down Attempts,Fourth Down Conversions,Fourth Down Attemtps,Time of Possesion,Year,Team
+0,1,Sun,2016-09-11,boxscore,Loss,0,Away,Eagles,10,29,12,26,168,0,1,3,22,7.3,5.8,46.2,51.4,21,120,5.7,1,1,1,1,1,5,251,2,10,0,2,20:40,2016,Browns
+1,2,Sun,2016-09-18,boxscore,Loss,0,Home,Ravens,20,25,20,33,242,2,2,3,18,7.9,6.7,60.6,78.1,23,145,6.3,1,0,1,2,3,5,226,8,15,1,1,29:01,2016,Browns
+2,3,Sun,2016-09-25,boxscore,Loss,1,Away,Dolphins,24,30,24,38,261,0,0,4,18,7.3,6.2,63.2,83.3,32,169,5.3,1,3,6,1,1,5,223,4,15,0,0,37:22,2016,Browns
+3,4,Sun,2016-10-02,boxscore,Loss,0,Away,Redskins,20,31,28,40,217,1,1,1,6,5.6,5.3,70.0,80.9,28,163,5.8,1,2,2,2,2,1,55,8,12,0,1,28:57,2016,Browns
+4,5,Sun,2016-10-09,boxscore,Loss,0,Home,Patriots,13,33,20,35,235,2,1,2,14,7.1,6.4,57.1,84.8,22,27,1.2,0,0,0,1,1,6,267,5,13,0,1,25:21,2016,Browns
+5,6,Sun,2016-10-16,boxscore,Loss,0,Away,Titans,26,28,27,42,301,2,0,6,36,8.0,6.3,64.3,101.4,15,40,2.7,1,2,2,2,2,7,356,3,14,2,2,28:59,2016,Browns
+6,7,Sun,2016-10-23,boxscore,Loss,0,Away,Bengals,17,31,21,35,172,0,2,2,10,5.2,4.6,60.0,48.8,26,180,6.9,2,1,1,2,2,5,209,6,14,0,0,31:48,2016,Browns
+7,8,Sun,2016-10-30,boxscore,Loss,0,Home,Jets,28,31,27,51,339,2,2,1,6,6.8,6.5,52.9,70.6,18,68,3.8,1,2,2,2,2,5,207,8,16,0,0,26:19,2016,Browns
+8,9,Sun,2016-11-06,boxscore,Loss,0,Home,Cowboys,10,35,19,27,177,1,0,4,26,7.5,5.7,70.4,100.4,13,45,3.5,0,1,2,1,1,5,220,1,9,1,1,20:21,2016,Browns
+9,10,Thu,2016-11-10,boxscore,Loss,0,Away,Ravens,7,28,17,31,111,1,2,4,39,4.8,3.2,54.8,46.6,13,33,2.5,0,0,0,1,1,7,300,2,10,0,0,21:24,2016,Browns
+10,11,Sun,2016-11-20,boxscore,Loss,0,Home,Steelers,9,24,21,41,176,1,1,8,70,6.0,3.6,51.2,60.6,13,33,2.5,0,1,1,0,1,3,139,4,15,5,5,26:02,2016,Browns
+11,12,Sun,2016-11-27,boxscore,Loss,0,Home,Giants,13,27,25,44,285,1,0,7,37,7.3,5.6,56.8,84.0,21,58,2.8,0,2,2,1,1,8,362,3,14,1,2,33:51,2016,Browns
+12,14,Sun,2016-12-11,boxscore,Loss,0,Home,Bengals,10,23,12,28,85,0,1,3,19,3.7,2.7,42.9,35.6,22,169,7.7,1,1,1,1,1,6,276,6,14,1,1,25:07,2016,Browns
+13,15,Sun,2016-12-18,boxscore,Loss,0,Away,Bills,13,33,17,28,162,0,0,5,34,7.0,4.9,60.7,76.8,21,107,5.1,1,2,2,1,1,5,222,3,11,1,1,25:41,2016,Browns
+14,16,Sat,2016-12-24,boxscore,Win,0,Home,Chargers,20,17,19,28,127,0,0,9,48,6.3,3.4,67.9,77.5,29,124,4.3,2,2,2,2,2,6,258,6,15,1,1,32:29,2016,Browns
+15,17,Sun,2017-01-01,boxscore,Loss,1,Away,Steelers,24,27,29,40,206,2,1,4,26,5.8,4.7,72.5,90.2,33,231,7.0,1,1,2,3,3,4,190,8,15,0,0,38:54,2016,Browns
