@@ -1,0 +1,17 @@
+,Week,Day,Date,Boxscore,Win/Loss,Overtime,Home/Away,Opponent,Team Score,Opponenet Score,Passing Completion,Passing Attempts,Passing Yards,Passing Touchdowns,Passing Interceptions,Passing Sacks,Sack Yards,Passing Yards/Attempts,Net Yards/Attempts,Passing Completion Per.,Passing Rate,Rushing Attempts,Rushing Yards,Rushing Yards/Attempts,Rushing Touchdown,Field Goals Made,Field Goals Attempts,Extra Points Made,Extra Point Attempts,Punts,Total Punt Yards,Third Down Conversions,Third Down Attempts,Fourth Down Conversions,Fourth Down Attemtps,Time of Possesion,Year,Team
+0,1,Sun,2014-09-07,boxscore,Win,0,Away,Buccaneers,20,14,24,34,221,2,0,1,9,6.8,6.3,70.6,107.6,33,113,3.4,0,2,3,2,2,6,282,6,15,1,1,35:12,2014,Panthers
+1,2,Sun,2014-09-14,boxscore,Win,0,Home,Lions,24,7,22,34,251,1,0,4,30,8.3,6.6,64.7,96.6,24,62,2.6,1,3,3,1,1,6,269,3,12,0,0,29:19,2014,Panthers
+2,3,Sun,2014-09-21,boxscore,Loss,0,Home,Steelers,19,37,29,41,307,2,0,3,23,8.0,7.0,70.7,108.5,10,42,4.2,0,2,2,1,1,4,210,4,12,1,1,25:21,2014,Panthers
+3,4,Sun,2014-09-28,boxscore,Loss,0,Away,Ravens,10,38,20,34,248,1,0,2,20,7.9,6.9,58.8,91.3,26,67,2.6,0,1,1,1,1,4,194,10,15,0,0,29:36,2014,Panthers
+4,5,Sun,2014-10-05,boxscore,Win,0,Home,Bears,31,24,19,35,231,2,1,2,24,7.3,6.2,54.3,82.0,26,91,3.5,1,1,1,4,4,5,241,5,12,0,0,27:01,2014,Panthers
+5,6,Sun,2014-10-12,boxscore,T,1,Away,Bengals,37,37,29,46,284,2,1,0,0,6.2,6.2,63.0,85.8,34,147,4.3,2,3,4,4,4,1,38,8,17,2,2,39:30,2014,Panthers
+6,7,Sun,2014-10-19,boxscore,Loss,0,Away,Packers,17,38,22,39,223,2,1,3,25,6.4,5.3,56.4,79.3,25,108,4.3,0,1,1,2,2,7,377,4,12,0,1,30:11,2014,Panthers
+7,8,Sun,2014-10-26,boxscore,Loss,0,Home,Seahawks,9,13,12,22,152,0,1,3,19,7.8,6.1,54.5,57.4,31,114,3.7,0,3,3,0,0,2,78,2,10,1,2,31:00,2014,Panthers
+8,9,Thu,2014-10-30,boxscore,Loss,0,Home,Saints,10,28,10,28,122,0,1,4,29,5.4,3.8,35.7,35.1,22,109,5.0,1,1,1,1,1,6,253,6,14,0,0,24:42,2014,Panthers
+9,10,Mon,2014-11-10,boxscore,Loss,0,Away,Eagles,21,45,25,40,215,2,3,9,91,7.7,4.4,62.5,62.0,32,102,3.2,1,0,0,3,3,7,333,10,20,0,1,38:05,2014,Panthers
+10,11,Sun,2014-11-16,boxscore,Loss,0,Home,Falcons,17,19,23,37,285,2,2,2,7,7.9,7.3,62.2,81.5,25,106,4.2,0,1,3,2,2,6,214,3,13,0,0,28:02,2014,Panthers
+11,13,Sun,2014-11-30,boxscore,Loss,0,Away,Vikings,13,31,18,35,170,1,1,4,24,5.5,4.4,51.4,62.8,33,178,5.4,0,2,2,1,1,6,146,7,16,1,1,35:48,2014,Panthers
+12,14,Sun,2014-12-07,boxscore,Win,0,Away,Saints,41,10,21,33,226,3,0,0,0,6.8,6.8,63.6,114.0,40,271,6.8,2,2,2,5,5,4,158,7,15,0,0,36:00,2014,Panthers
+13,15,Sun,2014-12-14,boxscore,Win,0,Home,Buccaneers,19,17,25,40,269,1,0,3,8,6.9,6.3,62.5,90.5,32,123,3.8,0,4,5,1,1,3,99,5,13,0,0,37:23,2014,Panthers
+14,16,Sun,2014-12-21,boxscore,Win,0,Home,Browns,17,13,18,31,195,1,1,1,6,6.5,6.1,58.1,74.0,45,209,4.6,1,1,2,2,2,4,199,9,16,0,0,38:03,2014,Panthers
+15,17,Sun,2014-12-28,boxscore,Win,0,Away,Falcons,34,3,10,16,112,1,0,1,2,7.1,6.6,62.5,104.2,35,194,5.5,1,2,2,4,4,3,145,4,10,0,1,31:13,2014,Panthers

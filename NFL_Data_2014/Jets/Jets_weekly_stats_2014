@@ -1,0 +1,17 @@
+,Week,Day,Date,Boxscore,Win/Loss,Overtime,Home/Away,Opponent,Team Score,Opponenet Score,Passing Completion,Passing Attempts,Passing Yards,Passing Touchdowns,Passing Interceptions,Passing Sacks,Sack Yards,Passing Yards/Attempts,Net Yards/Attempts,Passing Completion Per.,Passing Rate,Rushing Attempts,Rushing Yards,Rushing Yards/Attempts,Rushing Touchdown,Field Goals Made,Field Goals Attempts,Extra Points Made,Extra Point Attempts,Punts,Total Punt Yards,Third Down Conversions,Third Down Attempts,Fourth Down Conversions,Fourth Down Attemtps,Time of Possesion,Year,Team
+0,1,Sun,2014-09-07,boxscore,Win,0,Home,Raiders,19,14,23,29,190,1,1,2,31,7.6,6.1,79.3,91.1,34,212,6.2,1,2,2,1,1,5,221,5,12,0,0,34:50,2014,Jets
+1,2,Sun,2014-09-14,boxscore,Loss,0,Away,Packers,24,31,16,32,166,1,1,2,10,5.5,4.9,50.0,62.8,37,147,4.0,2,1,1,3,3,5,233,8,17,2,3,30:26,2014,Jets
+2,3,Mon,2014-09-22,boxscore,Loss,0,Home,Bears,19,27,26,43,300,1,2,3,16,7.3,6.5,60.5,69.9,26,114,4.4,0,4,4,1,1,3,145,6,15,1,2,31:52,2014,Jets
+3,4,Sun,2014-09-28,boxscore,Loss,0,Home,Lions,17,24,17,33,204,1,1,2,5,6.3,5.8,51.5,68.2,27,132,4.9,1,1,1,2,2,6,310,7,15,0,0,25:07,2014,Jets
+4,5,Sun,2014-10-05,boxscore,Loss,0,Away,Chargers,0,31,12,31,60,0,1,2,14,2.4,1.8,38.7,33.4,21,91,4.3,0,0,0,0,0,8,409,1,12,0,1,21:06,2014,Jets
+5,6,Sun,2014-10-12,boxscore,Loss,0,Home,Broncos,17,31,23,43,173,2,1,4,17,4.4,3.7,53.5,69.2,15,31,2.1,0,1,1,2,2,7,319,5,14,0,0,26:26,2014,Jets
+6,7,Thu,2014-10-16,boxscore,Loss,0,Away,Patriots,25,27,20,34,205,1,0,3,21,6.6,5.5,58.8,86.0,43,218,5.1,1,4,5,1,1,3,128,9,16,0,0,40:54,2014,Jets
+7,8,Sun,2014-10-26,boxscore,Loss,0,Home,Bills,23,43,20,44,137,0,4,4,21,3.6,2.9,45.5,15.1,33,175,5.3,3,1,1,2,2,5,226,9,19,1,1,32:17,2014,Jets
+8,9,Sun,2014-11-02,boxscore,Loss,0,Away,Chiefs,10,24,24,36,225,1,0,3,10,6.5,5.8,66.7,92.9,30,139,4.6,0,1,1,1,1,3,148,4,12,2,5,31:35,2014,Jets
+9,10,Sun,2014-11-09,boxscore,Win,0,Home,Steelers,20,13,10,18,125,2,0,4,7,7.3,5.7,55.6,114.4,36,150,4.2,0,2,3,2,2,5,232,6,15,0,0,30:33,2014,Jets
+10,12,Mon,2014-11-24,boxscore,Loss,0,Away,Bills,3,38,17,31,126,0,1,7,39,5.3,3.3,54.8,51.3,19,92,4.8,0,1,1,0,0,8,311,3,15,1,1,29:06,2014,Jets
+11,13,Mon,2014-12-01,boxscore,Loss,0,Home,Dolphins,13,16,7,13,49,0,1,2,16,5.0,3.3,53.8,30.6,49,277,5.7,1,2,4,1,1,4,109,7,15,0,0,32:35,2014,Jets
+12,14,Sun,2014-12-07,boxscore,Loss,1,Away,Vikings,24,30,18,29,242,1,1,3,12,8.8,7.6,62.1,85.7,42,168,4.0,0,5,5,1,1,4,160,8,17,0,0,35:52,2014,Jets
+13,15,Sun,2014-12-14,boxscore,Win,0,Away,Titans,16,11,16,28,163,1,0,3,16,6.4,5.3,57.1,85.9,29,114,3.9,1,1,2,1,1,7,352,2,13,1,1,30:03,2014,Jets
+14,16,Sun,2014-12-21,boxscore,Loss,0,Home,Patriots,16,17,17,27,191,1,1,2,19,7.8,6.6,63.0,80.9,32,116,3.6,0,3,4,1,1,4,189,5,13,0,0,32:21,2014,Jets
+15,17,Sun,2014-12-28,boxscore,Win,0,Away,Dolphins,37,24,21,27,390,3,0,1,6,14.7,13.9,77.8,155.8,34,104,3.1,1,3,4,4,4,2,88,6,14,1,2,31:16,2014,Jets

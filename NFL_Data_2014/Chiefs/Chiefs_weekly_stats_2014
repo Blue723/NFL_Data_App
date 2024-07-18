@@ -1,0 +1,17 @@
+,Week,Day,Date,Boxscore,Win/Loss,Overtime,Home/Away,Opponent,Team Score,Opponenet Score,Passing Completion,Passing Attempts,Passing Yards,Passing Touchdowns,Passing Interceptions,Passing Sacks,Sack Yards,Passing Yards/Attempts,Net Yards/Attempts,Passing Completion Per.,Passing Rate,Rushing Attempts,Rushing Yards,Rushing Yards/Attempts,Rushing Touchdown,Field Goals Made,Field Goals Attempts,Extra Points Made,Extra Point Attempts,Punts,Total Punt Yards,Third Down Conversions,Third Down Attempts,Fourth Down Conversions,Fourth Down Attemtps,Time of Possesion,Year,Team
+0,1,Sun,2014-09-07,boxscore,Loss,0.0,Home,Titans,10,26,19,35,178,1,3,4,24,5.8,4.6,54.3,42.3,17,67,3.9,0,1,2,1,1,5,213,1,12,1,2,22:16,2014,Chiefs
+1,2,Sun,2014-09-14,boxscore,Loss,0.0,Away,Broncos,17,24,26,42,247,0,0,2,8,6.1,5.6,61.9,78.2,31,133,4.3,2,1,2,2,2,2,80,11,16,0,1,36:14,2014,Chiefs
+2,3,Sun,2014-09-21,boxscore,Win,0.0,Away,Dolphins,34,15,19,25,168,3,0,5,18,7.4,5.6,76.0,133.0,41,174,4.2,2,0,0,4,4,5,255,9,16,1,1,33:42,2014,Chiefs
+3,4,Mon,2014-09-29,boxscore,Win,0.0,Home,Patriots,41,14,20,26,236,3,0,2,12,9.5,8.4,76.9,142.5,38,207,5.4,1,2,2,5,5,4,180,7,12,0,0,36:27,2014,Chiefs
+4,5,Sun,2014-10-05,boxscore,Loss,0.0,Away,49ers,17,22,16,30,158,1,1,0,0,5.3,5.3,53.3,65.7,20,107,5.4,1,1,1,2,2,4,161,6,11,0,0,23:56,2014,Chiefs
+5,7,Sun,2014-10-19,boxscore,Win,0.0,Away,Chargers,23,20,19,28,211,1,0,3,10,7.9,6.8,67.9,101.9,39,154,3.9,1,3,3,2,2,4,173,7,14,0,0,39:00,2014,Chiefs
+6,8,Sun,2014-10-26,boxscore,Win,0.0,Home,Rams,34,7,25,29,215,0,0,2,8,7.7,6.9,86.2,97.6,33,140,4.2,3,2,2,4,4,4,182,6,12,0,0,35:38,2014,Chiefs
+7,9,Sun,2014-11-02,boxscore,Win,0.0,Home,Jets,24,10,21,31,196,2,0,1,3,6.4,6.1,67.7,106.4,24,113,4.7,1,1,1,3,3,4,153,8,13,0,0,28:25,2014,Chiefs
+8,10,Sun,2014-11-09,boxscore,Win,0.0,Away,Bills,17,13,17,29,151,0,0,6,26,6.1,4.3,58.6,72.6,24,127,5.3,2,1,1,2,2,8,368,3,13,1,1,29:18,2014,Chiefs
+9,11,Sun,2014-11-16,boxscore,Win,0.0,Home,Seahawks,24,20,11,16,108,0,0,0,0,6.8,6.8,68.8,87.5,30,190,6.3,3,1,1,3,3,2,104,2,6,0,0,24:03,2014,Chiefs
+10,12,Thu,2014-11-20,boxscore,Loss,0.0,Away,Raiders,20,24,20,36,217,2,0,2,17,6.5,5.7,55.6,92.0,24,96,4.0,0,2,2,2,2,7,297,2,14,0,1,29:56,2014,Chiefs
+11,13,Sun,2014-11-30,boxscore,Loss,0.0,Home,Broncos,16,29,15,23,110,2,1,6,43,6.7,3.8,65.2,87.2,15,41,2.7,0,1,1,1,1,5,218,1,9,1,2,21:13,2014,Chiefs
+12,14,Sun,2014-12-07,boxscore,Loss,0.0,Away,Cardinals,14,17,26,39,264,1,1,5,29,7.5,6.0,66.7,83.7,17,126,7.4,1,0,0,2,2,4,197,6,14,0,2,29:59,2014,Chiefs
+13,15,Sun,2014-12-14,boxscore,Win,0.0,Home,Raiders,31,13,18,31,295,2,0,1,2,9.6,9.2,58.1,111.6,27,93,3.4,1,1,3,4,4,7,279,3,13,0,0,30:00,2014,Chiefs
+14,16,Sun,2014-12-21,boxscore,Loss,0.0,Away,Steelers,12,20,32,46,288,0,0,6,29,6.9,5.5,69.6,86.1,14,39,2.8,0,4,4,0,0,1,48,6,14,1,2,31:07,2014,Chiefs
+15,17,Sun,2014-12-28,boxscore,Win,0.0,Home,Chargers,19,7,16,27,140,0,0,4,17,5.8,4.5,59.3,73.1,26,111,4.3,0,4,5,1,1,5,256,2,12,0,0,28:39,2014,Chiefs

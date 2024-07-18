@@ -1,0 +1,17 @@
+,Week,Day,Date,Boxscore,Win/Loss,Overtime,Home/Away,Opponent,Team Score,Opponenet Score,Passing Completion,Passing Attempts,Passing Yards,Passing Touchdowns,Passing Interceptions,Passing Sacks,Sack Yards,Passing Yards/Attempts,Net Yards/Attempts,Passing Completion Per.,Passing Rate,Rushing Attempts,Rushing Yards,Rushing Yards/Attempts,Rushing Touchdown,Field Goals Made,Field Goals Attempts,Extra Points Made,Extra Point Attempts,Punts,Total Punt Yards,Third Down Conversions,Third Down Attempts,Fourth Down Conversions,Fourth Down Attemtps,Time of Possesion,Year,Team
+0,1,Sun,2014-09-07,boxscore,Loss,0,Home,49ers,17,28,23,37,255,1,3,3,26,7.6,6.4,62.2,57.8,23,127,5.5,1,1,1,2,2,2,107,5,9,1,1,31:24,2014,Cowboys
+1,2,Sun,2014-09-14,boxscore,Win,0,Away,Titans,26,10,19,29,148,1,0,4,28,6.1,4.5,65.5,89.4,43,220,5.1,1,4,4,2,2,4,220,9,16,0,0,41:11,2014,Cowboys
+2,3,Sun,2014-09-21,boxscore,Win,0,Away,Rams,34,31,18,23,217,2,1,0,0,9.4,9.4,78.3,116.8,29,123,4.2,1,2,2,4,4,2,78,5,10,0,0,27:10,2014,Cowboys
+3,4,Sun,2014-09-28,boxscore,Win,0,Home,Saints,38,17,22,29,255,3,0,1,7,9.0,8.5,75.9,136.4,35,190,5.4,2,1,1,5,5,4,166,8,14,0,0,34:45,2014,Cowboys
+4,5,Sun,2014-10-05,boxscore,Win,1,Home,Texans,20,17,28,41,316,2,1,1,8,7.9,7.5,68.3,97.2,33,140,4.2,0,2,3,2,2,4,185,8,14,0,0,36:07,2014,Cowboys
+5,6,Sun,2014-10-12,boxscore,Win,0,Away,Seahawks,30,23,21,32,239,2,0,1,11,7.8,7.2,65.6,108.7,36,162,4.5,1,3,3,3,3,3,65,10,17,0,0,37:39,2014,Cowboys
+6,7,Sun,2014-10-19,boxscore,Win,0,Home,Giants,31,21,17,23,267,3,1,2,12,12.1,10.7,73.9,133.5,35,156,4.5,1,1,1,4,4,4,185,9,14,0,0,33:49,2014,Cowboys
+7,8,Mon,2014-10-27,boxscore,Loss,1,Home,Redskins,17,20,21,34,224,2,0,5,54,8.2,5.7,61.8,100.6,25,171,6.8,0,1,1,2,2,4,206,5,12,0,1,28:37,2014,Cowboys
+8,9,Sun,2014-11-02,boxscore,Loss,0,Home,Cardinals,17,28,18,33,174,1,2,1,9,5.5,5.1,54.5,54.4,25,92,3.7,0,1,2,2,2,4,173,3,11,0,1,28:32,2014,Cowboys
+9,10,Sun,2014-11-09,boxscore,Win,0,Away,Jaguars,31,17,21,28,248,3,0,1,6,9.1,8.6,75.0,137.2,30,151,5.0,1,1,2,4,4,5,234,4,13,0,0,31:32,2014,Cowboys
+10,12,Sun,2014-11-23,boxscore,Win,0,Away,Giants,31,28,18,26,266,4,0,2,9,10.6,9.5,69.2,142.0,25,119,4.8,0,1,1,4,4,4,195,4,10,0,0,24:53,2014,Cowboys
+11,13,Thu,2014-11-27,boxscore,Loss,0,Home,Eagles,10,33,18,29,174,0,2,4,25,6.9,5.3,62.1,50.1,25,93,3.7,1,1,1,1,1,5,228,4,12,0,1,29:35,2014,Cowboys
+12,14,Thu,2014-12-04,boxscore,Win,0,Away,Bears,41,28,21,26,203,3,0,1,2,7.9,7.5,80.8,137.7,35,194,5.5,2,2,2,5,5,2,75,7,14,2,2,32:28,2014,Cowboys
+13,15,Sun,2014-12-14,boxscore,Win,0,Away,Eagles,38,27,22,31,249,3,0,3,16,8.5,7.3,71.0,126.9,42,115,2.7,2,1,1,5,5,5,205,5,13,0,0,41:55,2014,Cowboys
+14,16,Sun,2014-12-21,boxscore,Win,0,Home,Colts,42,7,19,21,250,5,0,1,11,12.4,11.4,90.5,155.9,40,127,3.2,1,0,1,6,6,2,92,5,10,0,0,35:29,2014,Cowboys
+15,17,Sun,2014-12-28,boxscore,Win,0,Away,Redskins,44,17,22,34,299,2,1,0,0,8.8,8.8,64.7,100.0,27,174,6.4,2,3,3,5,5,4,172,4,12,0,0,30:24,2014,Cowboys

@@ -1,17 +1,17 @@
 ,Week,Day,Date,Time,Win/Loss,Overtime,Team Record,Home/Away,Opponent,Points Scored,Points Allowed,Offense 1st Down,Total Yards Gained of Offense,Total yards Gained by Passing,Total Yards Gained by Rushing,Offense Turnovers,Defense 1st Down,Total Yards Allowed by Defense,Total Passing Yards Allowed by Defense,Total Rushing Yards Allowed by Defense,Defense Turnovers,Offense,Defense,Sp. Tms,Team,Year
-0,1,Sun,2014-09-07,nan,Win,1,1-0,home,New Orleans Saints,37,34,28,568,445,123,1,30,472,333,139,2,25.42,-21.85,-0.57,Falcons,2014
-1,2,Sun,2014-09-14,nan,Loss,0,1-1,away,Cincinnati Bengals,10,24,19,309,212,97,3,21,472,302,170,0,-9.3,-16.28,10.47,Falcons,2014
-2,3,Thu,2014-09-18,nan,Win,0,2-1,home,Tampa Bay Buccaneers,56,14,26,488,344,144,4,10,217,153,64,5,13.83,29.0,-4.23,Falcons,2014
-3,4,Sun,2014-09-28,nan,Loss,0,2-2,away,Minnesota Vikings,28,41,23,411,288,123,2,26,558,317,241,0,12.49,-29.12,1.75,Falcons,2014
-4,5,Sun,2014-10-05,nan,Loss,0,2-3,away,New York Giants,20,30,20,397,307,90,1,22,317,193,124,2,5.0,-14.28,1.67,Falcons,2014
-5,6,Sun,2014-10-12,nan,Loss,0,2-4,home,Chicago Bears,13,27,12,287,245,42,1,23,478,375,103,0,-5.71,-18.63,10.93,Falcons,2014
-6,7,Sun,2014-10-19,nan,Loss,0,2-5,away,Baltimore Ravens,7,29,16,254,186,68,1,23,371,248,123,3,-12.84,-8.68,0.92,Falcons,2014
-7,8,Sun,2014-10-26,nan,Loss,0,2-6,home,Detroit Lions,21,22,22,291,213,78,1,22,385,325,60,1,7.54,-8.9,0.34,Falcons,2014
-8,10,Sun,2014-11-09,nan,Win,0,3-6,away,Tampa Bay Buccaneers,27,17,19,322,212,110,0,23,373,281,92,3,10.77,-4.35,2.73,Falcons,2014
-9,11,Sun,2014-11-16,nan,Win,0,4-6,away,Carolina Panthers,19,17,22,346,260,86,1,22,391,285,106,2,-2.99,-3.54,12.19,Falcons,2014
-10,12,Sun,2014-11-23,nan,Loss,0,4-7,home,Cleveland Browns,24,26,21,315,252,63,2,29,475,313,162,3,5.61,-12.62,7.2,Falcons,2014
-11,13,Sun,2014-11-30,nan,Win,0,5-7,home,Arizona Cardinals,29,18,22,500,358,142,1,18,329,294,35,3,4.38,6.22,2.49,Falcons,2014
-12,14,Mon,2014-12-08,nan,Loss,0,5-8,away,Green Bay Packers,37,43,26,465,374,91,1,28,502,323,179,0,24.43,-26.32,-6.22,Falcons,2014
-13,15,Sun,2014-12-14,nan,Loss,0,5-9,home,Pittsburgh Steelers,20,27,20,407,310,97,1,22,398,353,45,0,9.79,-15.49,-2.51,Falcons,2014
-14,16,Sun,2014-12-21,nan,Win,0,6-9,away,New Orleans Saints,30,14,18,403,322,81,0,22,328,271,57,4,8.28,13.9,-5.62,Falcons,2014
-15,17,Sun,2014-12-28,nan,Loss,0,6-10,home,Carolina Panthers,3,34,16,288,225,63,3,17,306,112,194,0,-27.86,-5.19,4.34,Falcons,2014
+0,1,Sun,2014-09-07,,Win,1,1-0,home,Saints,37,34,28,568,445,123,1,30,472,333,139,2,25.42,-21.85,-0.57,Falcons,2014
+1,2,Sun,2014-09-14,,Loss,0,1-1,away,Bengals,10,24,19,309,212,97,3,21,472,302,170,0,-9.3,-16.28,10.47,Falcons,2014
+2,3,Thu,2014-09-18,,Win,0,2-1,home,Buccaneers,56,14,26,488,344,144,4,10,217,153,64,5,13.83,29.0,-4.23,Falcons,2014
+3,4,Sun,2014-09-28,,Loss,0,2-2,away,Vikings,28,41,23,411,288,123,2,26,558,317,241,0,12.49,-29.12,1.75,Falcons,2014
+4,5,Sun,2014-10-05,,Loss,0,2-3,away,Giants,20,30,20,397,307,90,1,22,317,193,124,2,5.0,-14.28,1.67,Falcons,2014
+5,6,Sun,2014-10-12,,Loss,0,2-4,home,Bears,13,27,12,287,245,42,1,23,478,375,103,0,-5.71,-18.63,10.93,Falcons,2014
+6,7,Sun,2014-10-19,,Loss,0,2-5,away,Ravens,7,29,16,254,186,68,1,23,371,248,123,3,-12.84,-8.68,0.92,Falcons,2014
+7,8,Sun,2014-10-26,,Loss,0,2-6,home,Lions,21,22,22,291,213,78,1,22,385,325,60,1,7.54,-8.9,0.34,Falcons,2014
+8,10,Sun,2014-11-09,,Win,0,3-6,away,Buccaneers,27,17,19,322,212,110,0,23,373,281,92,3,10.77,-4.35,2.73,Falcons,2014
+9,11,Sun,2014-11-16,,Win,0,4-6,away,Panthers,19,17,22,346,260,86,1,22,391,285,106,2,-2.99,-3.54,12.19,Falcons,2014
+10,12,Sun,2014-11-23,,Loss,0,4-7,home,Browns,24,26,21,315,252,63,2,29,475,313,162,3,5.61,-12.62,7.2,Falcons,2014
+11,13,Sun,2014-11-30,,Win,0,5-7,home,Cardinals,29,18,22,500,358,142,1,18,329,294,35,3,4.38,6.22,2.49,Falcons,2014
+12,14,Mon,2014-12-08,,Loss,0,5-8,away,Packers,37,43,26,465,374,91,1,28,502,323,179,0,24.43,-26.32,-6.22,Falcons,2014
+13,15,Sun,2014-12-14,,Loss,0,5-9,home,Steelers,20,27,20,407,310,97,1,22,398,353,45,0,9.79,-15.49,-2.51,Falcons,2014
+14,16,Sun,2014-12-21,,Win,0,6-9,away,Saints,30,14,18,403,322,81,0,22,328,271,57,4,8.28,13.9,-5.62,Falcons,2014
+15,17,Sun,2014-12-28,,Loss,0,6-10,home,Panthers,3,34,16,288,225,63,3,17,306,112,194,0,-27.86,-5.19,4.34,Falcons,2014

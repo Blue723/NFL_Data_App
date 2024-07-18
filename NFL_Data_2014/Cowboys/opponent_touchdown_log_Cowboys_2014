@@ -1,44 +1,44 @@
-,Rank,Team,Date,Opponent,Win/Loss,Home_Score,Opponenet_Score,Quarter,Distance,Type,Detail
-1,1,Cowboys,2014-09-07,SFO,Loss,17,28,1,35,fumble,Chris Culliver
-2,2,Cowboys,2014-09-07,SFO,Loss,17,28,1,29,pass,Vernon Davis
-3,3,Cowboys,2014-09-07,SFO,Loss,17,28,1,2,pass,Vernon Davis
-4,4,Cowboys,2014-09-07,SFO,Loss,17,28,2,4,rush,Carlos Hyde
-5,5,Cowboys,2014-09-14,TEN,Win,26,10,3,61,pass,Delanie Walker
-6,6,Cowboys,2014-09-21,STL,Win,34,31,1,1,pass,Lance Kendricks
-7,7,Cowboys,2014-09-21,STL,Win,34,31,2,51,pass,Brian Quick
-8,8,Cowboys,2014-09-21,STL,Win,34,31,2,25,interception,Jackrabbit Jenkins
-9,9,Cowboys,2014-09-21,STL,Win,34,31,4,4,pass,Austin Pettis
-10,10,Cowboys,2014-09-28,NOR,Win,38,17,4,12,pass,Josh Hill
-11,11,Cowboys,2014-09-28,NOR,Win,38,17,4,13,pass,Jimmy Graham
-12,12,Cowboys,2014-10-05,HOU,Win,20,17,3,15,rush,Arian Foster
-13,13,Cowboys,2014-10-05,HOU,Win,20,17,4,1,rush,Arian Foster
-14,14,Cowboys,2014-10-12,SEA,Win,30,23,1,25,blocked punt,Mike Morgan
-15,15,Cowboys,2014-10-12,SEA,Win,30,23,3,9,rush,Russell Wilson
-16,16,Cowboys,2014-10-19,NYG,Win,31,21,2,9,pass,Odell Beckham Jr.
-17,17,Cowboys,2014-10-19,NYG,Win,31,21,2,27,pass,Daniel Fells
-18,18,Cowboys,2014-10-19,NYG,Win,31,21,4,5,pass,Odell Beckham Jr.
-19,19,Cowboys,2014-10-27,WAS,Loss,17,20,3,5,rush,Alfred Morris
-20,20,Cowboys,2014-10-27,WAS,Loss,17,20,4,7,rush,Colt McCoy
-21,21,Cowboys,2014-11-02,ARI,Loss,17,28,2,7,pass,John Carlson
-22,22,Cowboys,2014-11-02,ARI,Loss,17,28,2,11,pass,Jaron Brown
-23,23,Cowboys,2014-11-02,ARI,Loss,17,28,4,1,pass,Andre Ellington
-24,24,Cowboys,2014-11-02,ARI,Loss,17,28,4,1,rush,Marion Grice
-25,25,Cowboys,2014-11-09,JAX,Win,31,17,1,32,rush,Denard Robinson
-26,26,Cowboys,2014-11-09,JAX,Win,31,17,4,1,rush,Denard Robinson
-27,27,Cowboys,2014-11-23,NYG,Win,31,28,1,3,pass,Odell Beckham Jr.
-28,28,Cowboys,2014-11-23,NYG,Win,31,28,2,43,pass,Odell Beckham Jr.
-29,29,Cowboys,2014-11-23,NYG,Win,31,28,2,3,rush,Andre Williams
-30,30,Cowboys,2014-11-23,NYG,Win,31,28,4,1,pass,Adrien Robinson
-31,31,Cowboys,2014-11-27,PHI,Loss,10,33,1,2,rush,Mark Sanchez
-32,32,Cowboys,2014-11-27,PHI,Loss,10,33,1,27,pass,Jordan Matthews
-33,33,Cowboys,2014-11-27,PHI,Loss,10,33,3,38,rush,LeSean McCoy
-34,34,Cowboys,2014-12-04,CHI,Win,41,28,2,12,pass,Martellus Bennett
-35,35,Cowboys,2014-12-04,CHI,Win,41,28,4,27,pass,Alshon Jeffery
-36,36,Cowboys,2014-12-04,CHI,Win,41,28,4,1,rush,Matt Forte
-37,37,Cowboys,2014-12-04,CHI,Win,41,28,4,10,rush,Jay Cutler
-38,38,Cowboys,2014-12-14,PHI,Win,38,27,2,5,rush,Chris Polk
-39,39,Cowboys,2014-12-14,PHI,Win,38,27,3,1,rush,Chris Polk
-40,40,Cowboys,2014-12-14,PHI,Win,38,27,3,1,rush,Darren Sproles
-41,41,Cowboys,2014-12-21,IND,Win,42,7,4,1,pass,Zurlon Tipton
-42,42,Cowboys,2014-12-28,WAS,Win,44,17,1,69,pass,DeSean Jackson
-43,43,Cowboys,2014-12-28,WAS,Win,44,17,4,2,rush,Robert Griffin III
+,Rank,Team,Date,Opponent,Win/Loss,Home_Score,Opponenet_Score,Quarter,Distance,Type,Detail,Year
+1,1,Cowboys,2014-09-07,SFO,Loss,17,28,1,35,fumble,Chris Culliver,2014
+2,2,Cowboys,2014-09-07,SFO,Loss,17,28,1,29,pass,Vernon Davis,2014
+3,3,Cowboys,2014-09-07,SFO,Loss,17,28,1,2,pass,Vernon Davis,2014
+4,4,Cowboys,2014-09-07,SFO,Loss,17,28,2,4,rush,Carlos Hyde,2014
+5,5,Cowboys,2014-09-14,TEN,Win,26,10,3,61,pass,Delanie Walker,2014
+6,6,Cowboys,2014-09-21,STL,Win,34,31,1,1,pass,Lance Kendricks,2014
+7,7,Cowboys,2014-09-21,STL,Win,34,31,2,51,pass,Brian Quick,2014
+8,8,Cowboys,2014-09-21,STL,Win,34,31,2,25,interception,Jackrabbit Jenkins,2014
+9,9,Cowboys,2014-09-21,STL,Win,34,31,4,4,pass,Austin Pettis,2014
+10,10,Cowboys,2014-09-28,NOR,Win,38,17,4,12,pass,Josh Hill,2014
+11,11,Cowboys,2014-09-28,NOR,Win,38,17,4,13,pass,Jimmy Graham,2014
+12,12,Cowboys,2014-10-05,HOU,Win,20,17,3,15,rush,Arian Foster,2014
+13,13,Cowboys,2014-10-05,HOU,Win,20,17,4,1,rush,Arian Foster,2014
+14,14,Cowboys,2014-10-12,SEA,Win,30,23,1,25,blocked punt,Mike Morgan,2014
+15,15,Cowboys,2014-10-12,SEA,Win,30,23,3,9,rush,Russell Wilson,2014
+16,16,Cowboys,2014-10-19,NYG,Win,31,21,2,9,pass,Odell Beckham Jr.,2014
+17,17,Cowboys,2014-10-19,NYG,Win,31,21,2,27,pass,Daniel Fells,2014
+18,18,Cowboys,2014-10-19,NYG,Win,31,21,4,5,pass,Odell Beckham Jr.,2014
+19,19,Cowboys,2014-10-27,WAS,Loss,17,20,3,5,rush,Alfred Morris,2014
+20,20,Cowboys,2014-10-27,WAS,Loss,17,20,4,7,rush,Colt McCoy,2014
+21,21,Cowboys,2014-11-02,ARI,Loss,17,28,2,7,pass,John Carlson,2014
+22,22,Cowboys,2014-11-02,ARI,Loss,17,28,2,11,pass,Jaron Brown,2014
+23,23,Cowboys,2014-11-02,ARI,Loss,17,28,4,1,pass,Andre Ellington,2014
+24,24,Cowboys,2014-11-02,ARI,Loss,17,28,4,1,rush,Marion Grice,2014
+25,25,Cowboys,2014-11-09,JAX,Win,31,17,1,32,rush,Denard Robinson,2014
+26,26,Cowboys,2014-11-09,JAX,Win,31,17,4,1,rush,Denard Robinson,2014
+27,27,Cowboys,2014-11-23,NYG,Win,31,28,1,3,pass,Odell Beckham Jr.,2014
+28,28,Cowboys,2014-11-23,NYG,Win,31,28,2,43,pass,Odell Beckham Jr.,2014
+29,29,Cowboys,2014-11-23,NYG,Win,31,28,2,3,rush,Andre Williams,2014
+30,30,Cowboys,2014-11-23,NYG,Win,31,28,4,1,pass,Adrien Robinson,2014
+31,31,Cowboys,2014-11-27,PHI,Loss,10,33,1,2,rush,Mark Sanchez,2014
+32,32,Cowboys,2014-11-27,PHI,Loss,10,33,1,27,pass,Jordan Matthews,2014
+33,33,Cowboys,2014-11-27,PHI,Loss,10,33,3,38,rush,LeSean McCoy,2014
+34,34,Cowboys,2014-12-04,CHI,Win,41,28,2,12,pass,Martellus Bennett,2014
+35,35,Cowboys,2014-12-04,CHI,Win,41,28,4,27,pass,Alshon Jeffery,2014
+36,36,Cowboys,2014-12-04,CHI,Win,41,28,4,1,rush,Matt Forte,2014
+37,37,Cowboys,2014-12-04,CHI,Win,41,28,4,10,rush,Jay Cutler,2014
+38,38,Cowboys,2014-12-14,PHI,Win,38,27,2,5,rush,Chris Polk,2014
+39,39,Cowboys,2014-12-14,PHI,Win,38,27,3,1,rush,Chris Polk,2014
+40,40,Cowboys,2014-12-14,PHI,Win,38,27,3,1,rush,Darren Sproles,2014
+41,41,Cowboys,2014-12-21,IND,Win,42,7,4,1,pass,Zurlon Tipton,2014
+42,42,Cowboys,2014-12-28,WAS,Win,44,17,1,69,pass,DeSean Jackson,2014
+43,43,Cowboys,2014-12-28,WAS,Win,44,17,4,2,rush,Robert Griffin III,2014

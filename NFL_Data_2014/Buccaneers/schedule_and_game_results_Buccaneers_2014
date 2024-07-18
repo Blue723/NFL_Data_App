@@ -1,17 +1,17 @@
 ,Week,Day,Date,Time,Win/Loss,Overtime,Team Record,Home/Away,Opponent,Points Scored,Points Allowed,Offense 1st Down,Total Yards Gained of Offense,Total yards Gained by Passing,Total Yards Gained by Rushing,Offense Turnovers,Defense 1st Down,Total Yards Allowed by Defense,Total Passing Yards Allowed by Defense,Total Rushing Yards Allowed by Defense,Defense Turnovers,Offense,Defense,Sp. Tms,Team,Year
-0,1,Sun,2014-09-07,nan,Loss,0,0-1,home,Carolina Panthers,14,20,17,264,162,102,3,19,334,221,113,0,-6.2,-4.1,2.93,Buccaneers,2014
-1,2,Sun,2014-09-14,nan,Loss,0,0-2,home,St. Louis Rams,17,19,18,332,175,157,1,20,339,220,119,1,13.55,-6.46,-4.75,Buccaneers,2014
-2,3,Thu,2014-09-18,nan,Loss,0,0-3,away,Atlanta Falcons,14,56,10,217,153,64,5,26,488,344,144,4,-29.0,-13.83,4.23,Buccaneers,2014
-3,4,Sun,2014-09-28,nan,Win,0,1-3,away,Pittsburgh Steelers,27,24,21,350,287,63,1,27,390,305,85,1,8.34,-11.5,7.28,Buccaneers,2014
-4,5,Sun,2014-10-05,nan,Loss,1,1-4,away,New Orleans Saints,31,37,20,314,248,66,1,34,511,371,140,3,7.82,-12.43,-0.19,Buccaneers,2014
-5,6,Sun,2014-10-12,nan,Loss,0,1-5,home,Baltimore Ravens,17,48,22,364,277,87,1,23,475,306,169,1,-2.73,-20.77,-4.73,Buccaneers,2014
-6,8,Sun,2014-10-26,nan,Loss,1,1-6,home,Minnesota Vikings,13,19,15,225,159,66,2,22,332,235,97,0,-12.21,-2.93,9.14,Buccaneers,2014
-7,9,Sun,2014-11-02,nan,Loss,0,1-7,away,Cleveland Browns,17,22,20,365,252,113,2,19,330,274,56,2,-2.14,6.61,-7.34,Buccaneers,2014
-8,10,Sun,2014-11-09,nan,Loss,0,1-8,home,Atlanta Falcons,17,27,23,373,281,92,3,19,322,212,110,0,4.35,-10.77,-2.73,Buccaneers,2014
-9,11,Sun,2014-11-16,nan,Win,0,2-8,away,Washington Redskins,27,7,12,329,281,48,1,20,322,167,155,3,8.4,6.68,3.08,Buccaneers,2014
-10,12,Sun,2014-11-23,nan,Loss,0,2-9,away,Chicago Bears,13,21,17,367,301,66,4,12,204,112,92,1,-18.49,13.25,0.09,Buccaneers,2014
-11,13,Sun,2014-11-30,nan,Loss,0,2-10,home,Cincinnati Bengals,13,14,14,263,188,75,1,19,288,176,112,3,-12.32,9.44,3.01,Buccaneers,2014
-12,14,Sun,2014-12-07,nan,Loss,0,2-11,away,Detroit Lions,17,34,15,233,207,26,3,22,407,294,113,1,-6.86,-9.91,4.27,Buccaneers,2014
-13,15,Sun,2014-12-14,nan,Loss,0,2-12,away,Carolina Panthers,17,19,15,287,136,151,3,28,392,269,123,1,-1.88,-2.42,2.12,Buccaneers,2014
-14,16,Sun,2014-12-21,nan,Loss,0,2-13,home,Green Bay Packers,3,20,6,109,93,16,1,23,431,310,121,1,-20.9,-7.33,8.85,Buccaneers,2014
-15,17,Sun,2014-12-28,nan,Loss,0,2-14,home,New Orleans Saints,20,23,18,280,97,183,1,20,338,268,70,3,1.98,-5.6,-1.66,Buccaneers,2014
+0,1,Sun,2014-09-07,,Loss,0,0-1,home,Panthers,14,20,17,264,162,102,3,19,334,221,113,0,-6.2,-4.1,2.93,Buccaneers,2014
+1,2,Sun,2014-09-14,,Loss,0,0-2,home,Rams,17,19,18,332,175,157,1,20,339,220,119,1,13.55,-6.46,-4.75,Buccaneers,2014
+2,3,Thu,2014-09-18,,Loss,0,0-3,away,Falcons,14,56,10,217,153,64,5,26,488,344,144,4,-29.0,-13.83,4.23,Buccaneers,2014
+3,4,Sun,2014-09-28,,Win,0,1-3,away,Steelers,27,24,21,350,287,63,1,27,390,305,85,1,8.34,-11.5,7.28,Buccaneers,2014
+4,5,Sun,2014-10-05,,Loss,1,1-4,away,Saints,31,37,20,314,248,66,1,34,511,371,140,3,7.82,-12.43,-0.19,Buccaneers,2014
+5,6,Sun,2014-10-12,,Loss,0,1-5,home,Ravens,17,48,22,364,277,87,1,23,475,306,169,1,-2.73,-20.77,-4.73,Buccaneers,2014
+6,8,Sun,2014-10-26,,Loss,1,1-6,home,Vikings,13,19,15,225,159,66,2,22,332,235,97,0,-12.21,-2.93,9.14,Buccaneers,2014
+7,9,Sun,2014-11-02,,Loss,0,1-7,away,Browns,17,22,20,365,252,113,2,19,330,274,56,2,-2.14,6.61,-7.34,Buccaneers,2014
+8,10,Sun,2014-11-09,,Loss,0,1-8,home,Falcons,17,27,23,373,281,92,3,19,322,212,110,0,4.35,-10.77,-2.73,Buccaneers,2014
+9,11,Sun,2014-11-16,,Win,0,2-8,away,Redskins,27,7,12,329,281,48,1,20,322,167,155,3,8.4,6.68,3.08,Buccaneers,2014
+10,12,Sun,2014-11-23,,Loss,0,2-9,away,Bears,13,21,17,367,301,66,4,12,204,112,92,1,-18.49,13.25,0.09,Buccaneers,2014
+11,13,Sun,2014-11-30,,Loss,0,2-10,home,Bengals,13,14,14,263,188,75,1,19,288,176,112,3,-12.32,9.44,3.01,Buccaneers,2014
+12,14,Sun,2014-12-07,,Loss,0,2-11,away,Lions,17,34,15,233,207,26,3,22,407,294,113,1,-6.86,-9.91,4.27,Buccaneers,2014
+13,15,Sun,2014-12-14,,Loss,0,2-12,away,Panthers,17,19,15,287,136,151,3,28,392,269,123,1,-1.88,-2.42,2.12,Buccaneers,2014
+14,16,Sun,2014-12-21,,Loss,0,2-13,home,Packers,3,20,6,109,93,16,1,23,431,310,121,1,-20.9,-7.33,8.85,Buccaneers,2014
+15,17,Sun,2014-12-28,,Loss,0,2-14,home,Saints,20,23,18,280,97,183,1,20,338,268,70,3,1.98,-5.6,-1.66,Buccaneers,2014

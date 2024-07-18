@@ -1,19 +1,19 @@
 ,Week,Day,Date,Time,Win/Loss,Overtime,Team Record,Home/Away,Opponent,Points Scored,Points Allowed,Offense 1st Down,Total Yards Gained of Offense,Total yards Gained by Passing,Total Yards Gained by Rushing,Offense Turnovers,Defense 1st Down,Total Yards Allowed by Defense,Total Passing Yards Allowed by Defense,Total Rushing Yards Allowed by Defense,Defense Turnovers,Offense,Defense,Sp. Tms,Team,Year
-0,1,Sun,2014-09-07,nan,Loss,0,0-1,home,Cincinnati Bengals,16,23,26,423,329,94,2,16,380,301,79,0,1.73,-4.03,-1.83,Ravens,2014
-1,2,Thu,2014-09-11,nan,Win,0,1-1,home,Pittsburgh Steelers,26,6,25,323,166,157,0,17,301,202,99,3,12.28,8.62,-0.04,Ravens,2014
-2,3,Sun,2014-09-21,nan,Win,0,2-1,away,Cleveland Browns,23,21,23,377,217,160,1,19,375,290,85,0,7.99,-13.52,6.99,Ravens,2014
-3,4,Sun,2014-09-28,nan,Win,0,3-1,home,Carolina Panthers,38,10,25,454,327,127,0,20,315,248,67,1,34.18,-6.08,-7.43,Ravens,2014
-4,5,Sun,2014-10-05,nan,Loss,0,3-2,away,Indianapolis Colts,13,20,15,287,197,90,3,26,432,305,127,4,-10.47,2.96,-1.53,Ravens,2014
-5,6,Sun,2014-10-12,nan,Win,0,4-2,away,Tampa Bay Buccaneers,48,17,23,475,306,169,1,22,364,277,87,1,20.77,2.73,4.73,Ravens,2014
-6,7,Sun,2014-10-19,nan,Win,0,5-2,home,Atlanta Falcons,29,7,23,371,248,123,3,16,254,186,68,1,8.68,12.84,-0.92,Ravens,2014
-7,8,Sun,2014-10-26,nan,Loss,0,5-3,away,Cincinnati Bengals,24,27,18,294,187,107,2,19,350,239,111,2,-5.21,-2.35,0.35,Ravens,2014
-8,9,Sun,2014-11-02,nan,Loss,0,5-4,away,Pittsburgh Steelers,23,43,22,332,269,63,2,22,376,321,55,1,-8.67,-19.03,8.92,Ravens,2014
-9,10,Sun,2014-11-09,nan,Win,0,6-4,home,Tennessee Titans,21,7,18,312,161,151,0,14,210,143,67,2,4.96,15.27,-3.88,Ravens,2014
-10,12,Mon,2014-11-24,nan,Win,0,7-4,away,New Orleans Saints,34,27,23,449,234,215,1,26,525,399,126,1,20.67,-13.92,3.3,Ravens,2014
-11,13,Sun,2014-11-30,nan,Loss,0,7-5,home,San Diego Chargers,33,34,24,350,225,125,0,31,440,376,64,2,20.43,-23.96,2.99,Ravens,2014
-12,14,Sun,2014-12-07,nan,Win,0,8-5,away,Miami Dolphins,28,13,26,447,264,183,1,16,249,186,63,0,18.79,2.97,-4.56,Ravens,2014
-13,15,Sun,2014-12-14,nan,Win,0,9-5,home,Jacksonville Jaguars,20,12,17,314,221,93,1,13,248,166,82,1,-1.4,13.88,-4.09,Ravens,2014
-14,16,Sun,2014-12-21,nan,Loss,0,9-6,away,Houston Texans,13,25,15,211,178,33,3,18,313,190,123,1,-28.58,11.11,4.64,Ravens,2014
-15,17,Sun,2014-12-28,nan,Win,0,10-6,home,Cleveland Browns,20,10,22,419,290,129,0,16,259,150,109,2,7.14,8.47,-1.37,Ravens,2014
-16,19,Sat,2015-01-03,nan,Win,0,11-6,away,Pittsburgh Steelers,30,17,19,299,246,53,1,22,387,319,68,3,9.65,2.72,-0.02,Ravens,2014
-17,20,Sat,2015-01-10,nan,Loss,0,11-7,away,New England Patriots,31,35,28,428,292,136,2,29,422,408,14,1,15.9,-20.04,1.99,Ravens,2014
+0,1,Sun,2014-09-07,,Loss,0,0-1,home,Bengals,16,23,26,423,329,94,2,16,380,301,79,0,1.73,-4.03,-1.83,Ravens,2014
+1,2,Thu,2014-09-11,,Win,0,1-1,home,Steelers,26,6,25,323,166,157,0,17,301,202,99,3,12.28,8.62,-0.04,Ravens,2014
+2,3,Sun,2014-09-21,,Win,0,2-1,away,Browns,23,21,23,377,217,160,1,19,375,290,85,0,7.99,-13.52,6.99,Ravens,2014
+3,4,Sun,2014-09-28,,Win,0,3-1,home,Panthers,38,10,25,454,327,127,0,20,315,248,67,1,34.18,-6.08,-7.43,Ravens,2014
+4,5,Sun,2014-10-05,,Loss,0,3-2,away,Colts,13,20,15,287,197,90,3,26,432,305,127,4,-10.47,2.96,-1.53,Ravens,2014
+5,6,Sun,2014-10-12,,Win,0,4-2,away,Buccaneers,48,17,23,475,306,169,1,22,364,277,87,1,20.77,2.73,4.73,Ravens,2014
+6,7,Sun,2014-10-19,,Win,0,5-2,home,Falcons,29,7,23,371,248,123,3,16,254,186,68,1,8.68,12.84,-0.92,Ravens,2014
+7,8,Sun,2014-10-26,,Loss,0,5-3,away,Bengals,24,27,18,294,187,107,2,19,350,239,111,2,-5.21,-2.35,0.35,Ravens,2014
+8,9,Sun,2014-11-02,,Loss,0,5-4,away,Steelers,23,43,22,332,269,63,2,22,376,321,55,1,-8.67,-19.03,8.92,Ravens,2014
+9,10,Sun,2014-11-09,,Win,0,6-4,home,Titans,21,7,18,312,161,151,0,14,210,143,67,2,4.96,15.27,-3.88,Ravens,2014
+10,12,Mon,2014-11-24,,Win,0,7-4,away,Saints,34,27,23,449,234,215,1,26,525,399,126,1,20.67,-13.92,3.3,Ravens,2014
+11,13,Sun,2014-11-30,,Loss,0,7-5,home,Chargers,33,34,24,350,225,125,0,31,440,376,64,2,20.43,-23.96,2.99,Ravens,2014
+12,14,Sun,2014-12-07,,Win,0,8-5,away,Dolphins,28,13,26,447,264,183,1,16,249,186,63,0,18.79,2.97,-4.56,Ravens,2014
+13,15,Sun,2014-12-14,,Win,0,9-5,home,Jaguars,20,12,17,314,221,93,1,13,248,166,82,1,-1.4,13.88,-4.09,Ravens,2014
+14,16,Sun,2014-12-21,,Loss,0,9-6,away,Texans,13,25,15,211,178,33,3,18,313,190,123,1,-28.58,11.11,4.64,Ravens,2014
+15,17,Sun,2014-12-28,,Win,0,10-6,home,Browns,20,10,22,419,290,129,0,16,259,150,109,2,7.14,8.47,-1.37,Ravens,2014
+16,19,Sat,2015-01-03,,Win,0,11-6,away,Steelers,30,17,19,299,246,53,1,22,387,319,68,3,9.65,2.72,-0.02,Ravens,2014
+17,20,Sat,2015-01-10,,Loss,0,11-7,away,Patriots,31,35,28,428,292,136,2,29,422,408,14,1,15.9,-20.04,1.99,Ravens,2014

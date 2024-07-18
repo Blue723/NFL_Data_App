@@ -1,18 +1,18 @@
 ,Week,Day,Date,Time,Win/Loss,Overtime,Team Record,Home/Away,Opponent,Points Scored,Points Allowed,Offense 1st Down,Total Yards Gained of Offense,Total yards Gained by Passing,Total Yards Gained by Rushing,Offense Turnovers,Defense 1st Down,Total Yards Allowed by Defense,Total Passing Yards Allowed by Defense,Total Rushing Yards Allowed by Defense,Defense Turnovers,Offense,Defense,Sp. Tms,Team,Year
-0,1,Mon,2014-09-08,nan,Win,0,1-0,home,San Diego Chargers,18,17,22,403,294,109,2,15,290,238,52,1,5.41,4.82,-6.2,Cardinals,2014
-1,2,Sun,2014-09-14,nan,Win,0,2-0,away,New York Giants,25,14,21,266,142,124,0,24,341,260,81,4,-1.03,-1.62,13.61,Cardinals,2014
-2,3,Sun,2014-09-21,nan,Win,0,3-0,home,San Francisco 49ers,23,14,24,338,254,84,1,20,318,236,82,0,14.03,-10.85,4.65,Cardinals,2014
-3,5,Sun,2014-10-05,nan,Loss,0,3-1,away,Denver Broncos,20,41,9,215,178,37,0,24,568,476,92,2,-12.17,-12.16,4.04,Cardinals,2014
-4,6,Sun,2014-10-12,nan,Win,0,4-1,home,Washington Redskins,30,20,19,317,243,74,0,21,407,335,72,4,2.04,3.67,0.7,Cardinals,2014
-5,7,Sun,2014-10-19,nan,Win,0,5-1,away,Oakland Raiders,24,13,25,365,242,123,1,13,220,164,56,0,9.25,1.24,0.1,Cardinals,2014
-6,8,Sun,2014-10-26,nan,Win,0,6-1,home,Philadelphia Eagles,24,20,17,400,329,71,1,27,521,411,110,3,5.78,-1.32,-0.98,Cardinals,2014
-7,9,Sun,2014-11-02,nan,Win,0,7-1,away,Dallas Cowboys,28,17,22,339,237,102,1,18,266,174,92,2,5.07,6.97,-0.07,Cardinals,2014
-8,10,Sun,2014-11-09,nan,Win,0,8-1,home,St. Louis Rams,31,14,21,335,307,28,1,16,244,174,70,3,-2.9,21.15,-0.02,Cardinals,2014
-9,11,Sun,2014-11-16,nan,Win,0,9-1,home,Detroit Lions,14,6,18,352,306,46,2,11,262,164,98,1,0.49,8.52,-1.98,Cardinals,2014
-10,12,Sun,2014-11-23,nan,Loss,0,9-2,away,Seattle Seahawks,3,19,12,204,140,64,1,16,293,169,124,0,-9.22,-1.42,-10.24,Cardinals,2014
-11,13,Sun,2014-11-30,nan,Loss,0,9-3,away,Atlanta Falcons,18,29,18,329,294,35,3,22,500,358,142,1,-6.22,-4.38,-2.49,Cardinals,2014
-12,14,Sun,2014-12-07,nan,Win,0,10-3,home,Kansas City Chiefs,17,14,18,366,225,141,0,19,390,264,126,2,6.54,2.17,-2.87,Cardinals,2014
-13,15,Thu,2014-12-11,nan,Win,0,11-3,away,St. Louis Rams,12,6,13,274,131,143,0,13,280,211,69,2,-8.22,18.11,-1.16,Cardinals,2014
-14,16,Sun,2014-12-21,nan,Loss,0,11-4,home,Seattle Seahawks,6,35,17,216,187,29,1,23,596,329,267,0,-15.05,-28.01,13.23,Cardinals,2014
-15,17,Sun,2014-12-28,nan,Loss,0,11-5,away,San Francisco 49ers,17,20,26,397,299,98,3,18,395,189,206,0,9.91,-9.81,-5.1,Cardinals,2014
-16,19,Sat,2015-01-03,nan,Loss,0,11-6,away,Carolina Panthers,16,27,8,78,51,27,3,25,386,198,188,3,-19.39,6.33,4.19,Cardinals,2014
+0,1,Mon,2014-09-08,,Win,0,1-0,home,Chargers,18,17,22,403,294,109,2,15,290,238,52,1,5.41,4.82,-6.2,Cardinals,2014
+1,2,Sun,2014-09-14,,Win,0,2-0,away,Giants,25,14,21,266,142,124,0,24,341,260,81,4,-1.03,-1.62,13.61,Cardinals,2014
+2,3,Sun,2014-09-21,,Win,0,3-0,home,49ers,23,14,24,338,254,84,1,20,318,236,82,0,14.03,-10.85,4.65,Cardinals,2014
+3,5,Sun,2014-10-05,,Loss,0,3-1,away,Broncos,20,41,9,215,178,37,0,24,568,476,92,2,-12.17,-12.16,4.04,Cardinals,2014
+4,6,Sun,2014-10-12,,Win,0,4-1,home,Redskins,30,20,19,317,243,74,0,21,407,335,72,4,2.04,3.67,0.7,Cardinals,2014
+5,7,Sun,2014-10-19,,Win,0,5-1,away,Raiders,24,13,25,365,242,123,1,13,220,164,56,0,9.25,1.24,0.1,Cardinals,2014
+6,8,Sun,2014-10-26,,Win,0,6-1,home,Eagles,24,20,17,400,329,71,1,27,521,411,110,3,5.78,-1.32,-0.98,Cardinals,2014
+7,9,Sun,2014-11-02,,Win,0,7-1,away,Cowboys,28,17,22,339,237,102,1,18,266,174,92,2,5.07,6.97,-0.07,Cardinals,2014
+8,10,Sun,2014-11-09,,Win,0,8-1,home,Rams,31,14,21,335,307,28,1,16,244,174,70,3,-2.9,21.15,-0.02,Cardinals,2014
+9,11,Sun,2014-11-16,,Win,0,9-1,home,Lions,14,6,18,352,306,46,2,11,262,164,98,1,0.49,8.52,-1.98,Cardinals,2014
+10,12,Sun,2014-11-23,,Loss,0,9-2,away,Seahawks,3,19,12,204,140,64,1,16,293,169,124,0,-9.22,-1.42,-10.24,Cardinals,2014
+11,13,Sun,2014-11-30,,Loss,0,9-3,away,Falcons,18,29,18,329,294,35,3,22,500,358,142,1,-6.22,-4.38,-2.49,Cardinals,2014
+12,14,Sun,2014-12-07,,Win,0,10-3,home,Chiefs,17,14,18,366,225,141,0,19,390,264,126,2,6.54,2.17,-2.87,Cardinals,2014
+13,15,Thu,2014-12-11,,Win,0,11-3,away,Rams,12,6,13,274,131,143,0,13,280,211,69,2,-8.22,18.11,-1.16,Cardinals,2014
+14,16,Sun,2014-12-21,,Loss,0,11-4,home,Seahawks,6,35,17,216,187,29,1,23,596,329,267,0,-15.05,-28.01,13.23,Cardinals,2014
+15,17,Sun,2014-12-28,,Loss,0,11-5,away,49ers,17,20,26,397,299,98,3,18,395,189,206,0,9.91,-9.81,-5.1,Cardinals,2014
+16,19,Sat,2015-01-03,,Loss,0,11-6,away,Panthers,16,27,8,78,51,27,3,25,386,198,188,3,-19.39,6.33,4.19,Cardinals,2014

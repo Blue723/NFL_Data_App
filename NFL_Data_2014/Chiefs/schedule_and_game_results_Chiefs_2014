@@ -1,17 +1,17 @@
 ,Week,Day,Date,Time,Win/Loss,Overtime,Team Record,Home/Away,Opponent,Points Scored,Points Allowed,Offense 1st Down,Total Yards Gained of Offense,Total yards Gained by Passing,Total Yards Gained by Rushing,Offense Turnovers,Defense 1st Down,Total Yards Allowed by Defense,Total Passing Yards Allowed by Defense,Total Rushing Yards Allowed by Defense,Defense Turnovers,Offense,Defense,Sp. Tms,Team,Year
-0,1,Sun,2014-09-07,nan,Loss,0,0-1,home,Tennessee Titans,10,26,15,245,178,67,3,24,405,243,162,0,-8.6,-5.18,-3.59,Chiefs,2014
-1,2,Sun,2014-09-14,nan,Loss,0,0-2,away,Denver Broncos,17,24,28,380,247,133,0,19,325,237,88,0,14.1,-15.89,-4.04,Chiefs,2014
-2,3,Sun,2014-09-21,nan,Win,0,1-2,away,Miami Dolphins,34,15,23,342,168,174,2,18,332,191,141,0,6.05,8.31,2.71,Chiefs,2014
-3,4,Mon,2014-09-29,nan,Win,0,2-2,home,New England Patriots,41,14,26,443,236,207,0,13,290,215,75,3,16.31,10.7,-6.25,Chiefs,2014
-4,5,Sun,2014-10-05,nan,Loss,0,2-3,away,San Francisco 49ers,17,22,14,265,158,107,1,22,357,186,171,0,3.49,-7.73,-3.14,Chiefs,2014
-5,7,Sun,2014-10-19,nan,Win,0,3-3,away,San Diego Chargers,23,20,22,365,211,154,0,19,251,182,69,1,10.9,-3.59,-2.14,Chiefs,2014
-6,8,Sun,2014-10-26,nan,Win,0,4-3,home,St. Louis Rams,34,7,23,355,215,140,1,13,200,116,84,1,9.12,10.87,7.41,Chiefs,2014
-7,9,Sun,2014-11-02,nan,Win,0,5-3,home,New York Jets,24,10,23,309,196,113,0,22,364,225,139,0,14.45,-2.53,-1.55,Chiefs,2014
-8,10,Sun,2014-11-09,nan,Win,0,6-3,away,Buffalo Bills,17,13,16,278,151,127,1,21,364,253,111,3,-3.98,3.37,2.6,Chiefs,2014
-9,11,Sun,2014-11-16,nan,Win,0,7-3,home,Seattle Seahawks,24,20,20,298,108,190,2,25,372,168,204,0,8.11,-3.78,2.54,Chiefs,2014
-10,12,Thu,2014-11-20,nan,Loss,0,7-4,away,Oakland Raiders,20,24,16,313,217,96,0,18,351,172,179,1,-10.18,-9.34,10.98,Chiefs,2014
-11,13,Sun,2014-11-30,nan,Loss,0,7-5,home,Denver Broncos,16,29,11,151,110,41,3,21,388,174,214,1,-15.68,-2.46,1.49,Chiefs,2014
-12,14,Sun,2014-12-07,nan,Loss,0,7-6,away,Arizona Cardinals,14,17,19,390,264,126,2,18,366,225,141,0,-2.17,-6.54,2.87,Chiefs,2014
-13,15,Sun,2014-12-14,nan,Win,0,8-6,home,Oakland Raiders,31,13,16,388,295,93,1,17,280,202,78,1,-1.29,17.37,3.43,Chiefs,2014
-14,16,Sun,2014-12-21,nan,Loss,0,8-7,away,Pittsburgh Steelers,12,20,22,327,288,39,1,19,282,214,68,0,3.49,-11.59,0.95,Chiefs,2014
-15,17,Sun,2014-12-28,nan,Win,0,9-7,home,San Diego Chargers,19,7,15,251,140,111,0,21,361,249,112,3,-6.72,12.22,6.51,Chiefs,2014
+0,1,Sun,2014-09-07,,Loss,0,0-1,home,Titans,10,26,15,245,178,67,3,24,405,243,162,0,-8.6,-5.18,-3.59,Chiefs,2014
+1,2,Sun,2014-09-14,,Loss,0,0-2,away,Broncos,17,24,28,380,247,133,0,19,325,237,88,0,14.1,-15.89,-4.04,Chiefs,2014
+2,3,Sun,2014-09-21,,Win,0,1-2,away,Dolphins,34,15,23,342,168,174,2,18,332,191,141,0,6.05,8.31,2.71,Chiefs,2014
+3,4,Mon,2014-09-29,,Win,0,2-2,home,Patriots,41,14,26,443,236,207,0,13,290,215,75,3,16.31,10.7,-6.25,Chiefs,2014
+4,5,Sun,2014-10-05,,Loss,0,2-3,away,49ers,17,22,14,265,158,107,1,22,357,186,171,0,3.49,-7.73,-3.14,Chiefs,2014
+5,7,Sun,2014-10-19,,Win,0,3-3,away,Chargers,23,20,22,365,211,154,0,19,251,182,69,1,10.9,-3.59,-2.14,Chiefs,2014
+6,8,Sun,2014-10-26,,Win,0,4-3,home,Rams,34,7,23,355,215,140,1,13,200,116,84,1,9.12,10.87,7.41,Chiefs,2014
+7,9,Sun,2014-11-02,,Win,0,5-3,home,Jets,24,10,23,309,196,113,0,22,364,225,139,0,14.45,-2.53,-1.55,Chiefs,2014
+8,10,Sun,2014-11-09,,Win,0,6-3,away,Bills,17,13,16,278,151,127,1,21,364,253,111,3,-3.98,3.37,2.6,Chiefs,2014
+9,11,Sun,2014-11-16,,Win,0,7-3,home,Seahawks,24,20,20,298,108,190,2,25,372,168,204,0,8.11,-3.78,2.54,Chiefs,2014
+10,12,Thu,2014-11-20,,Loss,0,7-4,away,Raiders,20,24,16,313,217,96,0,18,351,172,179,1,-10.18,-9.34,10.98,Chiefs,2014
+11,13,Sun,2014-11-30,,Loss,0,7-5,home,Broncos,16,29,11,151,110,41,3,21,388,174,214,1,-15.68,-2.46,1.49,Chiefs,2014
+12,14,Sun,2014-12-07,,Loss,0,7-6,away,Cardinals,14,17,19,390,264,126,2,18,366,225,141,0,-2.17,-6.54,2.87,Chiefs,2014
+13,15,Sun,2014-12-14,,Win,0,8-6,home,Raiders,31,13,16,388,295,93,1,17,280,202,78,1,-1.29,17.37,3.43,Chiefs,2014
+14,16,Sun,2014-12-21,,Loss,0,8-7,away,Steelers,12,20,22,327,288,39,1,19,282,214,68,0,3.49,-11.59,0.95,Chiefs,2014
+15,17,Sun,2014-12-28,,Win,0,9-7,home,Chargers,19,7,15,251,140,111,0,21,361,249,112,3,-6.72,12.22,6.51,Chiefs,2014

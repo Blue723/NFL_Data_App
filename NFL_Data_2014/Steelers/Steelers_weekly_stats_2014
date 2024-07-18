@@ -1,0 +1,17 @@
+,Week,Day,Date,Boxscore,Win/Loss,Overtime,Home/Away,Opponent,Team Score,Opponenet Score,Passing Completion,Passing Attempts,Passing Yards,Passing Touchdowns,Passing Interceptions,Passing Sacks,Sack Yards,Passing Yards/Attempts,Net Yards/Attempts,Passing Completion Per.,Passing Rate,Rushing Attempts,Rushing Yards,Rushing Yards/Attempts,Rushing Touchdown,Field Goals Made,Field Goals Attempts,Extra Points Made,Extra Point Attempts,Punts,Total Punt Yards,Third Down Conversions,Third Down Attempts,Fourth Down Conversions,Fourth Down Attemtps,Time of Possesion,Year,Team
+0,1,Sun,2014-09-07,boxscore,Win,0.0,Home,Browns,30,27,24,35,376,1,1,3,14,11.1,9.9,68.6,101.6,29,127,4.4,2,3,3,3,3,6,262,4,12,1,1,32:27,2014,Steelers
+1,2,Thu,2014-09-11,boxscore,Loss,0.0,Away,Ravens,6,26,22,37,202,0,1,2,15,5.9,5.2,59.5,63.1,18,99,5.5,0,2,2,0,0,4,183,6,12,0,0,24:52,2014,Steelers
+2,3,Sun,2014-09-21,boxscore,Win,0.0,Away,Panthers,37,19,22,30,190,2,0,1,6,6.5,6.1,73.3,111.8,34,264,7.8,1,3,3,4,4,3,138,3,11,1,1,34:39,2014,Steelers
+3,4,Sun,2014-09-28,boxscore,Loss,0.0,Home,Buccaneers,24,27,30,41,305,3,0,5,26,8.1,6.6,73.2,118.4,27,85,3.1,0,1,2,3,3,4,148,6,14,1,1,34:15,2014,Steelers
+4,5,Sun,2014-10-05,boxscore,Win,0.0,Away,Jaguars,17,9,26,36,261,1,0,4,12,7.6,6.5,72.2,101.7,28,111,4.0,0,1,1,2,2,5,227,8,16,0,0,35:17,2014,Steelers
+5,6,Sun,2014-10-12,boxscore,Loss,0.0,Away,Browns,10,31,21,42,221,1,1,2,7,5.4,5.0,50.0,63.7,32,138,4.3,0,1,1,1,1,7,322,6,16,0,2,33:05,2014,Steelers
+6,7,Mon,2014-10-20,boxscore,Win,0.0,Home,Texans,30,23,24,34,252,3,0,3,16,7.9,6.8,70.6,121.2,25,76,3.0,0,3,3,3,3,4,176,5,14,0,0,32:06,2014,Steelers
+7,8,Sun,2014-10-26,boxscore,Win,0.0,Home,Colts,51,34,40,49,522,6,0,0,0,10.7,10.7,81.6,150.6,32,117,3.7,0,0,0,7,7,3,89,8,13,1,1,39:43,2014,Steelers
+8,9,Sun,2014-11-02,boxscore,Win,0.0,Home,Ravens,43,23,25,37,321,6,0,3,19,9.2,8.0,67.6,134.1,25,55,2.2,0,0,0,5,5,6,251,6,14,1,1,31:26,2014,Steelers
+9,10,Sun,2014-11-09,boxscore,Loss,0.0,Away,Jets,13,20,30,43,326,1,2,2,17,8.0,7.2,69.8,80.2,17,36,2.1,0,2,3,1,1,2,92,6,11,0,1,29:27,2014,Steelers
+10,11,Mon,2014-11-17,boxscore,Win,0.0,Away,Titans,27,24,21,32,180,1,1,5,27,6.5,4.9,65.6,77.6,36,206,5.7,1,2,2,3,3,2,81,7,13,0,0,39:49,2014,Steelers
+11,13,Sun,2014-11-30,boxscore,Loss,0.0,Home,Saints,32,35,32,58,435,2,2,1,0,7.5,7.4,55.2,76.4,23,103,4.5,1,3,4,1,1,2,75,6,14,0,1,33:59,2014,Steelers
+12,14,Sun,2014-12-07,boxscore,Win,0.0,Away,Bengals,42,21,25,39,350,3,0,0,0,9.0,9.0,64.1,118.5,31,193,6.2,2,2,2,4,4,6,286,8,16,0,0,32:45,2014,Steelers
+13,15,Sun,2014-12-14,boxscore,Win,0.0,Away,Falcons,27,20,27,35,353,0,0,1,7,10.3,9.8,77.1,108.4,22,45,2.0,2,2,2,3,3,3,129,6,11,0,0,30:43,2014,Steelers
+14,16,Sun,2014-12-21,boxscore,Win,0.0,Home,Chiefs,20,12,18,25,214,1,0,1,6,8.8,8.2,72.0,111.1,26,68,2.6,1,2,2,2,2,2,90,5,10,0,0,28:53,2014,Steelers
+15,17,Sun,2014-12-28,boxscore,Win,0.0,Home,Bengals,27,17,24,39,317,2,2,0,0,8.1,8.1,61.5,83.0,18,29,1.6,0,2,2,3,3,3,119,3,11,0,1,25:02,2014,Steelers

@@ -1,0 +1,17 @@
+,Week,Day,Date,Boxscore,Win/Loss,Overtime,Home/Away,Opponent,Team Score,Opponenet Score,Passing Completion,Passing Attempts,Passing Yards,Passing Touchdowns,Passing Interceptions,Passing Sacks,Sack Yards,Passing Yards/Attempts,Net Yards/Attempts,Passing Completion Per.,Passing Rate,Rushing Attempts,Rushing Yards,Rushing Yards/Attempts,Rushing Touchdown,Field Goals Made,Field Goals Attempts,Extra Points Made,Extra Point Attempts,Punts,Total Punt Yards,Third Down Conversions,Third Down Attempts,Fourth Down Conversions,Fourth Down Attemtps,Time of Possesion,Year,Team
+0,1,Sun,2014-09-07,boxscore,Loss,0.0,Home,Bengals,16,23,35,62,329,1,1,3,16,5.6,5.1,56.5,69.9,20,94,4.7,1,1,2,1,1,4,169,8,17,1,2,29:30,2014,Ravens
+1,2,Thu,2014-09-11,boxscore,Win,0.0,Home,Steelers,26,6,21,29,166,2,0,0,0,5.7,5.7,72.4,109.3,36,157,4.4,0,4,4,2,2,2,110,5,12,1,1,35:08,2014,Ravens
+2,3,Sun,2014-09-21,boxscore,Win,0.0,Away,Browns,23,21,19,31,217,1,1,0,0,7.0,7.0,61.3,79.6,33,160,4.8,1,3,3,2,2,3,152,4,12,0,1,30:55,2014,Ravens
+3,4,Sun,2014-09-28,boxscore,Win,0.0,Home,Panthers,38,10,22,31,327,3,0,0,0,10.5,10.5,71.0,137.4,30,127,4.2,2,1,2,5,5,1,39,10,13,0,0,30:24,2014,Ravens
+4,5,Sun,2014-10-05,boxscore,Loss,0.0,Away,Colts,13,20,22,38,197,0,1,4,38,6.2,4.7,57.9,61.0,15,90,6.0,1,2,2,1,1,5,242,1,11,1,3,21:17,2014,Ravens
+5,6,Sun,2014-10-12,boxscore,Win,0.0,Away,Buccaneers,48,17,21,28,306,5,0,0,0,10.9,10.9,75.0,149.7,35,169,4.8,1,2,3,6,6,2,119,7,13,0,0,32:14,2014,Ravens
+6,7,Sun,2014-10-19,boxscore,Win,0.0,Home,Falcons,29,7,16,25,248,2,2,1,10,10.3,9.5,64.0,90.1,36,123,3.4,1,2,2,3,3,4,157,4,11,1,1,33:13,2014,Ravens
+7,8,Sun,2014-10-26,boxscore,Loss,0.0,Away,Bengals,24,27,17,34,187,0,2,1,8,5.7,5.3,50.0,42.2,26,107,4.1,2,3,3,1,1,1,50,5,13,1,3,29:16,2014,Ravens
+8,9,Sun,2014-11-02,boxscore,Loss,0.0,Away,Steelers,23,43,30,45,269,2,1,4,34,6.7,5.5,66.7,88.1,18,63,3.5,0,1,1,2,2,6,255,3,13,2,2,28:34,2014,Ravens
+9,10,Sun,2014-11-09,boxscore,Win,0.0,Home,Titans,21,7,16,27,161,1,0,1,8,6.3,5.8,59.3,88.7,34,151,4.4,2,0,0,3,3,7,317,4,13,1,1,30:47,2014,Ravens
+10,12,Mon,2014-11-24,boxscore,Win,0.0,Away,Saints,34,27,18,24,234,1,0,1,9,10.1,9.4,75.0,119.1,32,215,6.7,2,2,2,4,4,2,126,9,13,0,0,30:15,2014,Ravens
+11,13,Sun,2014-11-30,boxscore,Loss,0.0,Home,Chargers,33,34,19,31,225,2,0,0,0,7.3,7.3,61.3,104.9,32,125,3.9,1,4,4,3,3,1,39,7,12,0,0,30:11,2014,Ravens
+12,14,Sun,2014-12-07,boxscore,Win,0.0,Away,Dolphins,28,13,25,33,264,2,1,1,5,8.2,7.8,75.8,106.1,31,183,5.9,2,0,0,4,4,4,181,5,12,1,1,30:18,2014,Ravens
+13,15,Sun,2014-12-14,boxscore,Win,0.0,Home,Jaguars,20,12,20,30,221,1,0,0,0,7.4,7.4,66.7,99.4,26,93,3.6,0,2,4,2,2,4,203,4,12,0,0,28:18,2014,Ravens
+14,16,Sun,2014-12-21,boxscore,Loss,0.0,Away,Texans,13,25,21,50,178,2,3,2,17,3.9,3.4,42.0,40.2,16,33,2.1,0,0,0,1,1,8,403,4,15,0,2,25:02,2014,Ravens
+15,17,Sun,2014-12-28,boxscore,Win,0.0,Home,Browns,20,10,22,36,290,2,0,1,22,8.7,7.8,61.1,105.1,28,129,4.6,0,2,2,2,2,6,279,4,13,0,1,29:17,2014,Ravens

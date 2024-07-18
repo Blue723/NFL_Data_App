@@ -1,0 +1,17 @@
+,Week,Day,Date,Boxscore,Win/Loss,Overtime,Home/Away,Opponent,Team Score,Opponenet Score,Passing Completion,Passing Attempts,Passing Yards,Passing Touchdowns,Passing Interceptions,Passing Sacks,Sack Yards,Passing Yards/Attempts,Net Yards/Attempts,Passing Completion Per.,Passing Rate,Rushing Attempts,Rushing Yards,Rushing Yards/Attempts,Rushing Touchdown,Field Goals Made,Field Goals Attempts,Extra Points Made,Extra Point Attempts,Punts,Total Punt Yards,Third Down Conversions,Third Down Attempts,Fourth Down Conversions,Fourth Down Attemtps,Time of Possesion,Year,Team
+0,1,Sun,2014-09-07,boxscore,Loss,0.0,Away,Jets,14,19,20,32,133,2,0,2,18,4.7,3.9,62.5,92.3,15,25,1.7,0,0,0,2,2,9,401,3,12,0,0,25:10,2014,Raiders
+1,2,Sun,2014-09-14,boxscore,Loss,0.0,Home,Texans,14,30,27,42,263,1,2,0,0,6.3,6.3,64.3,69.8,17,101,5.9,1,0,0,2,2,3,120,2,9,2,2,21:24,2014,Raiders
+2,3,Sun,2014-09-21,boxscore,Loss,0.0,Away,Patriots,9,16,21,34,174,0,1,0,0,5.1,5.1,61.8,62.6,22,67,3.0,0,3,3,0,0,5,216,5,13,0,0,28:25,2014,Raiders
+3,4,Sun,2014-09-28,boxscore,Loss,0.0,Home,Dolphins,14,38,28,44,264,2,3,2,11,6.3,5.7,63.6,66.9,18,53,2.9,0,0,0,2,2,6,292,6,14,0,1,29:06,2014,Raiders
+4,6,Sun,2014-10-12,boxscore,Loss,0.0,Home,Chargers,28,31,18,34,282,4,1,0,0,8.3,8.3,52.9,107.7,20,114,5.7,0,0,1,4,4,4,165,8,13,0,0,22:58,2014,Raiders
+5,7,Sun,2014-10-19,boxscore,Loss,0.0,Home,Cardinals,13,24,16,28,164,0,0,1,9,6.2,5.7,57.1,74.1,19,56,2.9,1,2,2,1,1,6,236,4,12,0,0,23:03,2014,Raiders
+6,8,Sun,2014-10-26,boxscore,Loss,0.0,Away,Browns,13,23,34,56,311,1,1,4,17,5.9,5.2,60.7,74.3,21,76,3.6,0,2,2,1,1,7,308,6,19,3,4,34:52,2014,Raiders
+7,9,Sun,2014-11-02,boxscore,Loss,0.0,Away,Seahawks,24,30,24,41,189,2,2,1,5,4.7,4.5,58.5,66.0,18,37,2.1,0,1,2,3,3,6,314,5,15,2,2,24:54,2014,Raiders
+8,10,Sun,2014-11-09,boxscore,Loss,0.0,Home,Broncos,17,41,30,47,192,2,2,0,0,4.1,4.1,63.8,68.8,15,30,2.0,0,1,1,2,2,9,389,5,18,0,0,27:38,2014,Raiders
+9,11,Sun,2014-11-16,boxscore,Loss,0.0,Away,Chargers,6,13,16,34,162,0,0,2,10,5.1,4.5,47.1,61.2,19,71,3.7,0,2,2,0,0,9,446,3,15,1,1,25:14,2014,Raiders
+10,12,Thu,2014-11-20,boxscore,Win,0.0,Home,Chiefs,24,20,18,35,172,1,0,1,2,5.0,4.8,51.4,74.9,30,179,6.0,2,1,1,3,3,6,296,8,16,1,1,30:04,2014,Raiders
+11,13,Sun,2014-11-30,boxscore,Loss,0.0,Away,Rams,0,52,29,48,183,0,3,6,47,4.8,3.4,60.4,42.3,21,61,2.9,0,0,0,0,0,8,353,4,18,0,1,36:56,2014,Raiders
+12,14,Sun,2014-12-07,boxscore,Win,0.0,Home,49ers,24,13,22,28,245,3,0,1,9,9.1,8.4,78.6,138.8,31,85,2.7,0,1,1,3,3,5,234,6,13,0,1,32:55,2014,Raiders
+13,15,Sun,2014-12-14,boxscore,Loss,0.0,Away,Chiefs,13,31,27,56,202,1,0,4,20,4.0,3.4,48.2,63.2,17,78,4.6,0,2,2,1,1,11,477,5,18,0,1,30:00,2014,Raiders
+14,16,Sun,2014-12-21,boxscore,Win,0.0,Home,Bills,26,24,17,34,207,2,0,1,7,6.3,5.9,50.0,88.7,36,140,3.9,0,4,5,2,2,6,265,5,16,0,0,33:47,2014,Raiders
+15,17,Sun,2014-12-28,boxscore,Loss,0.0,Away,Broncos,14,47,18,36,132,1,1,3,26,4.4,3.4,50.0,56.7,18,67,3.7,0,0,0,2,2,9,418,5,15,0,1,26:59,2014,Raiders

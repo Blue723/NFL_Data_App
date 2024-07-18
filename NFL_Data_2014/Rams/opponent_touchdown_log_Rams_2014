@@ -1,41 +1,41 @@
-,Rank,Team,Date,Opponent,Win/Loss,Home_Score,Opponenet_Score,Quarter,Distance,Type,Detail
-1,1,Rams,2014-09-07,MIN,Loss,6,34,2,8,pass,Greg Jennings
-2,2,Rams,2014-09-07,MIN,Loss,6,34,3,67,rush,Cordarrelle Patterson
-3,3,Rams,2014-09-07,MIN,Loss,6,34,4,7,pass,Kyle Rudolph
-4,4,Rams,2014-09-07,MIN,Loss,6,34,4,81,interception,Harrison Smith
-5,5,Rams,2014-09-14,TAM,Win,19,17,1,5,rush,Josh McCown
-6,6,Rams,2014-09-14,TAM,Win,19,17,3,1,rush,Josh McCown
-7,7,Rams,2014-09-21,DAL,Loss,31,34,2,1,rush,DeMarco Murray
-8,8,Rams,2014-09-21,DAL,Loss,31,34,3,68,pass,Dez Bryant
-9,9,Rams,2014-09-21,DAL,Loss,31,34,4,12,pass,Terrance Williams
-10,10,Rams,2014-09-21,DAL,Loss,31,34,4,25,interception,Bruce Carter
-11,11,Rams,2014-10-05,PHI,Loss,28,34,1,10,blocked punt,Chris Maragos
-12,12,Rams,2014-10-05,PHI,Loss,28,34,2,9,pass,Riley Cooper
-13,13,Rams,2014-10-05,PHI,Loss,28,34,3,0,fumble,Cedric Thornton
-14,14,Rams,2014-10-05,PHI,Loss,28,34,3,24,pass,Jeremy Maclin
-15,15,Rams,2014-10-13,SFO,Loss,17,31,2,80,pass,Brandon Lloyd
-16,16,Rams,2014-10-13,SFO,Loss,17,31,3,11,pass,Anquan Boldin
-17,17,Rams,2014-10-13,SFO,Loss,17,31,3,32,pass,Michael Crabtree
-18,18,Rams,2014-10-13,SFO,Loss,17,31,4,20,interception,Dontae Johnson
-19,19,Rams,2014-10-19,SEA,Win,28,26,3,19,rush,Russell Wilson
-20,20,Rams,2014-10-19,SEA,Win,28,26,4,19,pass,Cooper Helfet
-21,21,Rams,2014-10-19,SEA,Win,28,26,4,9,pass,Doug Baldwin
-22,22,Rams,2014-10-26,KAN,Loss,7,34,2,1,rush,Jamaal Charles
-23,23,Rams,2014-10-26,KAN,Loss,7,34,3,99,kickoff,Knile Davis
-24,24,Rams,2014-10-26,KAN,Loss,7,34,4,36,rush,Jamaal Charles
-25,25,Rams,2014-10-26,KAN,Loss,7,34,4,3,rush,Knile Davis
-26,26,Rams,2014-11-02,SFO,Win,13,10,2,27,pass,Anquan Boldin
-27,27,Rams,2014-11-09,ARI,Loss,14,31,2,3,rush,Andre Ellington
-28,28,Rams,2014-11-09,ARI,Loss,14,31,4,48,pass,John Brown
-29,29,Rams,2014-11-09,ARI,Loss,14,31,4,30,interception,Patrick Peterson
-30,30,Rams,2014-11-09,ARI,Loss,14,31,4,14,fumble,Antonio Cromartie
-31,31,Rams,2014-11-16,DEN,Win,22,7,2,42,pass,Emmanuel Sanders
-32,32,Rams,2014-11-23,SDG,Loss,24,27,3,32,rush,Ryan Mathews
-33,33,Rams,2014-11-23,SDG,Loss,24,27,3,13,fumble,Andrew Gachkar
-34,34,Rams,2014-11-23,SDG,Loss,24,27,4,29,pass,Keenan Allen
-35,35,Rams,2014-12-21,NYG,Loss,27,37,1,9,pass,Odell Beckham Jr.
-36,36,Rams,2014-12-21,NYG,Loss,27,37,2,12,rush,Orleans Darkwa
-37,37,Rams,2014-12-21,NYG,Loss,27,37,3,7,pass,Rueben Randle
-38,38,Rams,2014-12-21,NYG,Loss,27,37,3,80,pass,Odell Beckham Jr.
-39,39,Rams,2014-12-28,SEA,Loss,6,20,4,9,rush,Marshawn Lynch
-40,40,Rams,2014-12-28,SEA,Loss,6,20,4,49,interception,Bruce Irvin
+,Rank,Team,Date,Opponent,Win/Loss,Home_Score,Opponenet_Score,Quarter,Distance,Type,Detail,Year
+1,1,Rams,2014-09-07,MIN,Loss,6,34,2,8,pass,Greg Jennings,2014
+2,2,Rams,2014-09-07,MIN,Loss,6,34,3,67,rush,Cordarrelle Patterson,2014
+3,3,Rams,2014-09-07,MIN,Loss,6,34,4,7,pass,Kyle Rudolph,2014
+4,4,Rams,2014-09-07,MIN,Loss,6,34,4,81,interception,Harrison Smith,2014
+5,5,Rams,2014-09-14,TAM,Win,19,17,1,5,rush,Josh McCown,2014
+6,6,Rams,2014-09-14,TAM,Win,19,17,3,1,rush,Josh McCown,2014
+7,7,Rams,2014-09-21,DAL,Loss,31,34,2,1,rush,DeMarco Murray,2014
+8,8,Rams,2014-09-21,DAL,Loss,31,34,3,68,pass,Dez Bryant,2014
+9,9,Rams,2014-09-21,DAL,Loss,31,34,4,12,pass,Terrance Williams,2014
+10,10,Rams,2014-09-21,DAL,Loss,31,34,4,25,interception,Bruce Carter,2014
+11,11,Rams,2014-10-05,PHI,Loss,28,34,1,10,blocked punt,Chris Maragos,2014
+12,12,Rams,2014-10-05,PHI,Loss,28,34,2,9,pass,Riley Cooper,2014
+13,13,Rams,2014-10-05,PHI,Loss,28,34,3,0,fumble,Cedric Thornton,2014
+14,14,Rams,2014-10-05,PHI,Loss,28,34,3,24,pass,Jeremy Maclin,2014
+15,15,Rams,2014-10-13,SFO,Loss,17,31,2,80,pass,Brandon Lloyd,2014
+16,16,Rams,2014-10-13,SFO,Loss,17,31,3,11,pass,Anquan Boldin,2014
+17,17,Rams,2014-10-13,SFO,Loss,17,31,3,32,pass,Michael Crabtree,2014
+18,18,Rams,2014-10-13,SFO,Loss,17,31,4,20,interception,Dontae Johnson,2014
+19,19,Rams,2014-10-19,SEA,Win,28,26,3,19,rush,Russell Wilson,2014
+20,20,Rams,2014-10-19,SEA,Win,28,26,4,19,pass,Cooper Helfet,2014
+21,21,Rams,2014-10-19,SEA,Win,28,26,4,9,pass,Doug Baldwin,2014
+22,22,Rams,2014-10-26,KAN,Loss,7,34,2,1,rush,Jamaal Charles,2014
+23,23,Rams,2014-10-26,KAN,Loss,7,34,3,99,kickoff,Knile Davis,2014
+24,24,Rams,2014-10-26,KAN,Loss,7,34,4,36,rush,Jamaal Charles,2014
+25,25,Rams,2014-10-26,KAN,Loss,7,34,4,3,rush,Knile Davis,2014
+26,26,Rams,2014-11-02,SFO,Win,13,10,2,27,pass,Anquan Boldin,2014
+27,27,Rams,2014-11-09,ARI,Loss,14,31,2,3,rush,Andre Ellington,2014
+28,28,Rams,2014-11-09,ARI,Loss,14,31,4,48,pass,John Brown,2014
+29,29,Rams,2014-11-09,ARI,Loss,14,31,4,30,interception,Patrick Peterson,2014
+30,30,Rams,2014-11-09,ARI,Loss,14,31,4,14,fumble,Antonio Cromartie,2014
+31,31,Rams,2014-11-16,DEN,Win,22,7,2,42,pass,Emmanuel Sanders,2014
+32,32,Rams,2014-11-23,SDG,Loss,24,27,3,32,rush,Ryan Mathews,2014
+33,33,Rams,2014-11-23,SDG,Loss,24,27,3,13,fumble,Andrew Gachkar,2014
+34,34,Rams,2014-11-23,SDG,Loss,24,27,4,29,pass,Keenan Allen,2014
+35,35,Rams,2014-12-21,NYG,Loss,27,37,1,9,pass,Odell Beckham Jr.,2014
+36,36,Rams,2014-12-21,NYG,Loss,27,37,2,12,rush,Orleans Darkwa,2014
+37,37,Rams,2014-12-21,NYG,Loss,27,37,3,7,pass,Rueben Randle,2014
+38,38,Rams,2014-12-21,NYG,Loss,27,37,3,80,pass,Odell Beckham Jr.,2014
+39,39,Rams,2014-12-28,SEA,Loss,6,20,4,9,rush,Marshawn Lynch,2014
+40,40,Rams,2014-12-28,SEA,Loss,6,20,4,49,interception,Bruce Irvin,2014

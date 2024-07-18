@@ -1,0 +1,17 @@
+,Week,Day,Date,Boxscore,Win/Loss,Overtime,Home/Away,Opponent,Team Score,Opponenet Score,Passing Completion,Passing Attempts,Passing Yards,Passing Touchdowns,Passing Interceptions,Passing Sacks,Sack Yards,Passing Yards/Attempts,Net Yards/Attempts,Passing Completion Per.,Passing Rate,Rushing Attempts,Rushing Yards,Rushing Yards/Attempts,Rushing Touchdown,Field Goals Made,Field Goals Attempts,Extra Points Made,Extra Point Attempts,Punts,Total Punt Yards,Third Down Conversions,Third Down Attempts,Fourth Down Conversions,Fourth Down Attemtps,Time of Possesion,Year,Team
+0,1,Mon,2014-09-08,boxscore,Loss,0,Away,Cardinals,17,18,21,36,238,1,1,0,0,6.6,6.6,58.3,75.9,24,52,2.2,1,1,1,2,2,6,236,6,15,0,1,28:11,2014,Chargers
+1,2,Sun,2014-09-14,boxscore,Win,0,Home,Seahawks,30,21,28,37,276,3,0,1,8,7.7,7.3,75.7,123.3,37,101,2.7,0,3,3,3,3,3,124,10,17,0,0,42:15,2014,Chargers
+2,3,Sun,2014-09-21,boxscore,Win,0,Away,Bills,22,10,18,25,250,2,0,2,6,10.2,9.3,72.0,130.4,36,83,2.3,0,2,2,2,2,6,298,5,13,0,0,31:34,2014,Chargers
+3,4,Sun,2014-09-28,boxscore,Win,0,Home,Jaguars,33,14,29,39,365,3,0,2,12,9.7,8.9,74.4,128.7,20,42,2.1,0,4,4,3,3,3,126,9,16,0,0,29:26,2014,Chargers
+4,5,Sun,2014-10-05,boxscore,Win,0,Home,Jets,31,0,20,28,277,3,1,3,11,10.3,8.9,71.4,123.7,40,162,4.1,1,1,1,4,4,5,204,12,18,0,0,38:54,2014,Chargers
+5,6,Sun,2014-10-12,boxscore,Win,0,Away,Raiders,31,28,22,35,307,3,0,1,6,8.9,8.5,62.9,119.6,33,116,3.5,1,1,1,4,4,3,143,8,14,0,1,37:02,2014,Chargers
+6,7,Sun,2014-10-19,boxscore,Loss,0,Home,Chiefs,20,23,17,31,182,2,1,2,23,6.6,5.5,54.8,80.3,16,69,4.3,0,2,2,2,2,5,285,3,10,0,0,21:00,2014,Chargers
+7,8,Thu,2014-10-23,boxscore,Loss,0,Away,Broncos,21,35,30,41,245,3,2,2,7,6.1,5.7,73.2,92.0,15,61,4.1,0,0,0,3,3,4,197,4,10,1,1,29:14,2014,Chargers
+8,9,Sun,2014-11-02,boxscore,Loss,0,Away,Dolphins,0,37,13,26,128,0,3,4,20,5.7,4.3,50.0,24.7,19,50,2.6,0,0,0,0,0,5,226,3,11,0,1,23:53,2014,Chargers
+9,11,Sun,2014-11-16,boxscore,Win,0,Home,Raiders,13,6,22,34,180,1,0,2,13,5.7,5.0,64.7,87.9,32,120,3.8,0,2,3,1,1,9,380,4,15,0,0,34:46,2014,Chargers
+10,12,Sun,2014-11-23,boxscore,Win,0,Home,Rams,27,24,29,35,282,1,1,3,9,8.3,7.4,82.9,97.9,22,128,5.8,1,2,2,3,3,4,197,4,12,0,0,31:09,2014,Chargers
+11,13,Sun,2014-11-30,boxscore,Win,0,Away,Ravens,34,33,34,45,376,3,1,2,7,8.5,8.0,75.6,112.8,18,64,3.6,1,2,2,4,4,1,54,9,11,0,0,29:49,2014,Chargers
+12,14,Sun,2014-12-07,boxscore,Loss,0,Home,Patriots,14,23,20,33,163,1,1,4,26,5.7,4.4,60.6,70.6,17,53,3.1,0,0,0,2,2,8,286,4,13,0,1,25:27,2014,Chargers
+13,15,Sun,2014-12-14,boxscore,Loss,0,Home,Broncos,10,22,24,41,232,1,2,0,0,5.7,5.7,58.5,62.2,20,56,2.8,0,1,3,1,1,4,199,6,13,0,0,27:16,2014,Chargers
+14,16,Sat,2014-12-20,boxscore,Win,1,Away,49ers,38,35,33,54,348,4,3,2,8,6.6,6.2,61.1,81.4,24,98,4.1,0,1,1,5,5,4,201,8,16,3,3,34:19,2014,Chargers
+15,17,Sun,2014-12-28,boxscore,Loss,0,Away,Chiefs,7,19,20,34,249,0,2,7,42,8.6,6.1,58.8,57.1,25,112,4.5,1,0,1,1,1,5,210,2,11,1,3,31:21,2014,Chargers
