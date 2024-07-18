@@ -69,7 +69,7 @@ positions_dict = {
 position_abbrev = list(positions_dict.values())
 position_choices = list(positions_dict.keys())
 
-def position_df (year, position):
+def position_df (year, team, position):
 
     file = f'Weekly Stats/{position}_Player_Weekly_Stats'
 
@@ -78,16 +78,21 @@ def position_df (year, position):
     query = f'''
         select * 
         from df
-        where Year = {year}
+        where 
+        (Year = {year}) and
+        (Team = '{team}') 
     '''
 
     df = duckdb.sql(query).df()
     
     return df
 
+#get players from team
+
 
 # position = position_abbrev
-def player_df (year, week, position, player):
+#for bar chart
+def get_player (year, week, position, player):
 
     file = f'Weekly Stats/{position}_Player_Weekly_Stats'
 
@@ -96,8 +101,7 @@ def player_df (year, week, position, player):
     query = f'''
         select * 
         from df
-        where (Week = {week}) 
-        and (Year = {year}) 
+        where (Year = {year}) 
         and (Player = '{player}')
     '''
 
@@ -108,28 +112,17 @@ def player_df (year, week, position, player):
 
 #bar chart
 def px_bar_charts(df: pd, column: str):
-    try:
-        fig1 = px.bar(
-            df, 
-            x=df[column],
-            y=df[column], 
-            barmode='group',
-            color=df['Player'],
-            labels=df['Player'].iloc[:],
-            title=f'{team}'
-        )
+    player = df['Player'].iloc[0]
     
-    except:
-        fig1 = px.bar(
-            df, 
-            x=df[column].index, 
-            y=df[column],
-            barmode='group',
-            color=df[column].index,
-            labels=df['Player'].iloc[:],
-            title=team
-        )
-
+    fig1 = px.bar(
+        df, 
+        x=df['Week'],
+        y=df[column], 
+        barmode='group',
+        color=df['Player'],
+        labels=df['Player'].iloc[:],
+        title=f'{player}'
+    )
     return st.plotly_chart(fig1)
 
 
@@ -146,19 +139,23 @@ st.set_page_config(page_title='Players', layout='wide', initial_sidebar_state='e
 
 st.title('Player Results')
 
-
+#side bar selecitons
 year_select = st.sidebar.selectbox('Select Year', options=years)
+team_select = st.sidebar.selectbox('Select Team', options=team_names)
 position_select = st.sidebar.selectbox('Select Position', options=position_choices)
+
+#selected posisition to import position df
 position = positions_dict[position_select]
 
 # position dataframe
 # get player list
 #get week list
-pos_df =  position_df(year_select, position)
+pos_df =  position_df(year_select, team_select, position)
 
 #week select list
-week_li = range(pos_df['Week'].min(), pos_df['Week'].max()+1)
-
+week_min = int(pos_df['Week'].min())
+week_max = int(pos_df['Week'].max()+1)
+week_li = range(week_min, week_max)
 #user input dropdown boxes for year team and table
 week_select = st.sidebar.selectbox('Select Week', options=week_li)
 
@@ -166,8 +163,13 @@ week_select = st.sidebar.selectbox('Select Week', options=week_li)
 player_li = list(pos_df[pos_df['Week']==week_select]['Player'].unique())
 player_select = st.sidebar.selectbox('Select Player', options=player_li)
 
+#select column
+column_select = st.sidebar.selectbox('Select Column', options=list(pos_df.columns))
 
-######### Data Frames
 
-player = player_df(year_select, week_select, position, player_select)
+#player dataframe
+player_df = get_player(year_select, week_select, position, player_select)
 
+st.write(player_df)
+
+px_bar_charts(player_df, column_select)
