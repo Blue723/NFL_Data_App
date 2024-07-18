@@ -1,7 +1,7 @@
-,Rk,Date,G#,Week,Age,Tm,Unnamed: 6_level_1,Opp,Result,Int,Tgt,Cmp,Cmp%,Yds,Yds/Cmp,Yds/Tgt,TD,Rat,DADOT,Air,YAC,Bltz,Hrry,QBKD,Sk,Prss,Comb,MTkl,MTkl%,Year
-0,1.0,2023-10-01,4.0,4.0,31.078,CAR,,MIN,L 13-21,0,0,0,,0,,,0,,,0,0,0,0,0,,0,,0,,2023
-1,2.0,2023-10-15,6.0,6.0,31.092,CAR,@,MIA,L 21-42,0,3,2,66.7%,19,9.5,6.3,0,84.0,5.3,5,14,0,0,0,0.0,0,6.0,3,33.3%,2023
-2,3.0,2023-10-29,7.0,8.0,31.106,CAR,,HOU,W 15-13,0,0,0,,0,,,0,,,0,0,0,0,0,0.0,0,2.0,0,0.0%,2023
-3,4.0,2023-11-05,8.0,9.0,31.113,CAR,,IND,L 13-27,0,0,0,,0,,,0,,,0,0,0,0,0,,0,,0,,2023
-4,5.0,2023-11-09,9.0,10.0,31.117,CAR,@,CHI,L 13-16,0,0,0,,0,,,0,,,0,0,0,0,0,0.0,0,1.0,0,0.0%,2023
-5,,5 Games,,,,,,,1-4-0,0,3,2,66.7%,19,9.5,6.3,0,84.0,5.3,5,14,0,0,0,0.0,0,9.0,3,25.0%,2023
+,Rk,Date,G#,Week,Age,Tm,Unnamed: 6_level_1,Opp,Result,Int,Tgt,Cmp,Cmp%,Yds,Yds/Cmp,Yds/Tgt,TD,Rat,DADOT,Air,YAC,Bltz,Hrry,QBKD,Sk,Prss,Comb,MTkl,MTkl%,Year,Position,Player_Name,Team
+0,1.0,2023-10-01,4.0,4.0,31.078,CAR,,MIN,L 13-21,0,0,0,,0,,,0,,,0,0,0,0,0,,0,,0,,2023,Split End,Matthias Farley,Panthers
+1,2.0,2023-10-15,6.0,6.0,31.092,CAR,@,MIA,L 21-42,0,3,2,66.7%,19,9.5,6.3,0,84.0,5.3,5,14,0,0,0,0.0,0,6.0,3,33.3%,2023,Split End,Matthias Farley,Panthers
+2,3.0,2023-10-29,7.0,8.0,31.106,CAR,,HOU,W 15-13,0,0,0,,0,,,0,,,0,0,0,0,0,0.0,0,2.0,0,0.0%,2023,Split End,Matthias Farley,Panthers
+3,4.0,2023-11-05,8.0,9.0,31.113,CAR,,IND,L 13-27,0,0,0,,0,,,0,,,0,0,0,0,0,,0,,0,,2023,Split End,Matthias Farley,Panthers
+4,5.0,2023-11-09,9.0,10.0,31.117,CAR,@,CHI,L 13-16,0,0,0,,0,,,0,,,0,0,0,0,0,0.0,0,1.0,0,0.0%,2023,Split End,Matthias Farley,Panthers
+5,,5 Games,,,,,,,1-4-0,0,3,2,66.7%,19,9.5,6.3,0,84.0,5.3,5,14,0,0,0,0.0,0,9.0,3,25.0%,2023,Split End,Matthias Farley,Panthers

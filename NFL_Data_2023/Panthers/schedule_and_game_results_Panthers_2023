@@ -1,18 +1,18 @@
 ,Week,Day,Date,Time,Win/Loss,Overtime,Team Record,Home/Away,Opponent,Points Scored,Points Allowed,Offense 1st Down,Total Yards Gained of Offense,Total yards Gained by Passing,Total Yards Gained by Rushing,Offense Turnovers,Defense 1st Down,Total Yards Allowed by Defense,Total Passing Yards Allowed by Defense,Total Rushing Yards Allowed by Defense,Defense Turnovers,Offense,Defense,Sp. Tms,Team,Year
-0,1,Sun,2023-09-10,nan,Loss,0,0-1,away,Atlanta Falcons,10,24,20,281,127,154,3,13,221,91,130,0,-16.61,2.92,0.2,Panthers,2023
-1,2,Mon,2023-09-18,nan,Loss,0,0-2,home,New Orleans Saints,17,20,14,239,139,100,1,23,341,207,134,1,-6.94,-3.81,6.1,Panthers,2023
-2,3,Sun,2023-09-24,nan,Loss,0,0-3,away,Seattle Seahawks,27,37,23,378,334,44,0,27,425,279,146,1,6.08,-10.21,-4.29,Panthers,2023
-3,4,Sun,2023-10-01,nan,Loss,0,0-4,home,Minnesota Vikings,13,21,20,232,149,83,1,14,265,130,135,2,-14.29,5.73,-0.38,Panthers,2023
-4,5,Sun,2023-10-08,nan,Loss,0,0-5,away,Detroit Lions,24,42,26,342,243,99,3,23,377,218,159,0,4.1,-21.57,-0.86,Panthers,2023
-5,6,Sun,2023-10-15,nan,Loss,0,0-6,away,Miami Dolphins,21,42,21,296,188,108,0,23,424,262,162,1,-6.44,-14.79,0.33,Panthers,2023
-6,8,Sun,2023-10-29,nan,Win,0,1-6,home,Houston Texans,15,13,20,224,180,44,0,16,229,119,110,1,0.91,3.6,-2.13,Panthers,2023
-7,9,Sun,2023-11-05,nan,Loss,0,1-7,home,Indianapolis Colts,13,27,17,275,137,138,3,17,198,120,78,1,-23.07,3.93,2.92,Panthers,2023
-8,10,Thu,2023-11-09,nan,Loss,0,1-8,away,Chicago Bears,13,16,12,213,170,43,0,21,295,162,133,0,-6.28,0.42,1.84,Panthers,2023
-9,11,Sun,2023-11-19,nan,Loss,0,1-9,home,Dallas Cowboys,10,33,13,187,77,110,2,23,311,204,107,0,-13.81,-14.98,6.04,Panthers,2023
-10,12,Sun,2023-11-26,nan,Loss,0,1-10,away,Tennessee Titans,10,17,19,258,162,96,1,15,264,184,80,0,-7.57,-0.52,-0.58,Panthers,2023
-11,13,Sun,2023-12-03,nan,Loss,0,1-11,away,Tampa Bay Buccaneers,18,21,15,282,149,133,1,15,322,194,128,1,-4.36,-1.83,1.51,Panthers,2023
-12,14,Sun,2023-12-10,nan,Loss,0,1-12,away,New Orleans Saints,6,28,16,303,99,204,2,14,207,110,97,1,-20.04,2.19,-1.99,Panthers,2023
-13,15,Sun,2023-12-17,nan,Win,0,2-12,home,Atlanta Falcons,9,7,17,283,154,129,0,12,204,152,52,2,-9.24,10.46,0.79,Panthers,2023
-14,16,Sun,2023-12-24,nan,Loss,0,2-13,home,Green Bay Packers,30,33,26,394,298,96,0,25,369,207,162,0,20.51,-19.16,-1.99,Panthers,2023
-15,17,Sun,2023-12-31,nan,Loss,0,2-14,away,Jacksonville Jaguars,0,26,7,124,67,57,1,16,317,162,155,0,-24.8,-6.77,4.36,Panthers,2023
-16,18,Sun,2024-01-07,nan,Loss,0,2-15,home,Tampa Bay Buccaneers,0,9,11,199,68,131,2,14,228,115,113,0,-13.18,7.74,-6.13,Panthers,2023
+0,1,Sun,2023-09-10,,Loss,0,0-1,away,Falcons,10,24,20,281,127,154,3,13,221,91,130,0,-16.61,2.92,0.2,Panthers,2023
+1,2,Mon,2023-09-18,,Loss,0,0-2,home,Saints,17,20,14,239,139,100,1,23,341,207,134,1,-6.94,-3.81,6.1,Panthers,2023
+2,3,Sun,2023-09-24,,Loss,0,0-3,away,Seahawks,27,37,23,378,334,44,0,27,425,279,146,1,6.08,-10.21,-4.29,Panthers,2023
+3,4,Sun,2023-10-01,,Loss,0,0-4,home,Vikings,13,21,20,232,149,83,1,14,265,130,135,2,-14.29,5.73,-0.38,Panthers,2023
+4,5,Sun,2023-10-08,,Loss,0,0-5,away,Lions,24,42,26,342,243,99,3,23,377,218,159,0,4.1,-21.57,-0.86,Panthers,2023
+5,6,Sun,2023-10-15,,Loss,0,0-6,away,Dolphins,21,42,21,296,188,108,0,23,424,262,162,1,-6.44,-14.79,0.33,Panthers,2023
+6,8,Sun,2023-10-29,,Win,0,1-6,home,Texans,15,13,20,224,180,44,0,16,229,119,110,1,0.91,3.6,-2.13,Panthers,2023
+7,9,Sun,2023-11-05,,Loss,0,1-7,home,Colts,13,27,17,275,137,138,3,17,198,120,78,1,-23.07,3.93,2.92,Panthers,2023
+8,10,Thu,2023-11-09,,Loss,0,1-8,away,Bears,13,16,12,213,170,43,0,21,295,162,133,0,-6.28,0.42,1.84,Panthers,2023
+9,11,Sun,2023-11-19,,Loss,0,1-9,home,Cowboys,10,33,13,187,77,110,2,23,311,204,107,0,-13.81,-14.98,6.04,Panthers,2023
+10,12,Sun,2023-11-26,,Loss,0,1-10,away,Titans,10,17,19,258,162,96,1,15,264,184,80,0,-7.57,-0.52,-0.58,Panthers,2023
+11,13,Sun,2023-12-03,,Loss,0,1-11,away,Buccaneers,18,21,15,282,149,133,1,15,322,194,128,1,-4.36,-1.83,1.51,Panthers,2023
+12,14,Sun,2023-12-10,,Loss,0,1-12,away,Saints,6,28,16,303,99,204,2,14,207,110,97,1,-20.04,2.19,-1.99,Panthers,2023
+13,15,Sun,2023-12-17,,Win,0,2-12,home,Falcons,9,7,17,283,154,129,0,12,204,152,52,2,-9.24,10.46,0.79,Panthers,2023
+14,16,Sun,2023-12-24,,Loss,0,2-13,home,Packers,30,33,26,394,298,96,0,25,369,207,162,0,20.51,-19.16,-1.99,Panthers,2023
+15,17,Sun,2023-12-31,,Loss,0,2-14,away,Jaguars,0,26,7,124,67,57,1,16,317,162,155,0,-24.8,-6.77,4.36,Panthers,2023
+16,18,Sun,2024-01-07,,Loss,0,2-15,home,Buccaneers,0,9,11,199,68,131,2,14,228,115,113,0,-13.18,7.74,-6.13,Panthers,2023

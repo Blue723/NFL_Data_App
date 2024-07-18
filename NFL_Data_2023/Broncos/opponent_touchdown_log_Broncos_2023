@@ -1,47 +1,47 @@
-,Rank,Team,Date,Opponent,Win/Loss,Home_Score,Opponenet_Score,Quarter,Distance,Type,Detail
-1,1,Broncos,2023-09-10,LVR,Loss,16,17,1,3,pass,Jakobi Meyers
-2,2,Broncos,2023-09-10,LVR,Loss,16,17,4,6,pass,Jakobi Meyers
-3,3,Broncos,2023-09-17,WAS,Loss,33,35,2,4,pass,Logan Thomas
-4,4,Broncos,2023-09-17,WAS,Loss,33,35,3,30,pass,Terry McLaurin
-5,5,Broncos,2023-09-17,WAS,Loss,33,35,4,2,rush,Brian Robinson Jr.
-6,6,Broncos,2023-09-17,WAS,Loss,33,35,4,15,rush,Brian Robinson Jr.
-7,7,Broncos,2023-09-24,MIA,Loss,20,70,1,54,pass,Tyreek Hill
-8,8,Broncos,2023-09-24,MIA,Loss,20,70,1,8,rush,De'Von Achane
-9,9,Broncos,2023-09-24,MIA,Loss,20,70,2,4,pass,De'Von Achane
-10,10,Broncos,2023-09-24,MIA,Loss,20,70,2,20,rush,Raheem Mostert
-11,11,Broncos,2023-09-24,MIA,Loss,20,70,2,3,rush,Raheem Mostert
-12,12,Broncos,2023-09-24,MIA,Loss,20,70,3,1,rush,Raheem Mostert
-13,13,Broncos,2023-09-24,MIA,Loss,20,70,3,19,pass,Raheem Mostert
-14,14,Broncos,2023-09-24,MIA,Loss,20,70,4,10,pass,De'Von Achane
-15,15,Broncos,2023-09-24,MIA,Loss,20,70,4,68,pass,Robbie Chosen
-16,16,Broncos,2023-09-24,MIA,Loss,20,70,4,67,rush,De'Von Achane
-17,17,Broncos,2023-10-01,CHI,Win,31,28,2,29,pass,D.J. Moore
-18,18,Broncos,2023-10-01,CHI,Win,31,28,2,22,pass,Cole Kmet
-19,19,Broncos,2023-10-01,CHI,Win,31,28,2,3,pass,Cole Kmet
-20,20,Broncos,2023-10-01,CHI,Win,31,28,3,2,pass,Khalil Herbert
-21,21,Broncos,2023-10-08,NYJ,Loss,21,31,3,72,rush,Breece Hall
-22,22,Broncos,2023-10-08,NYJ,Loss,21,31,4,39,fumble,Bryce Hall
-23,23,Broncos,2023-10-12,KAN,Loss,8,19,2,3,pass,Kadarius Toney
-24,24,Broncos,2023-10-22,GNB,Win,19,17,3,16,pass,Romeo Doubs
-25,25,Broncos,2023-10-22,GNB,Win,19,17,4,4,pass,Jayden Reed
-26,26,Broncos,2023-11-13,BUF,Win,24,22,2,22,pass,Dalton Kincaid
-27,27,Broncos,2023-11-13,BUF,Win,24,22,3,3,rush,Latavius Murray
-28,28,Broncos,2023-11-13,BUF,Win,24,22,4,6,rush,Josh Allen
-29,29,Broncos,2023-11-19,MIN,Win,21,20,2,3,pass,Josh Oliver
-30,30,Broncos,2023-11-19,MIN,Win,21,20,3,10,rush,Joshua Dobbs
-31,31,Broncos,2023-11-26,CLE,Win,29,12,3,2,pass,Harrison Bryant
-32,32,Broncos,2023-12-03,HOU,Loss,17,22,1,3,rush,Dameon Pierce
-33,33,Broncos,2023-12-03,HOU,Loss,17,22,4,3,pass,Nico Collins
-34,34,Broncos,2023-12-10,LAC,Win,24,7,4,3,rush,Austin Ekeler
-35,35,Broncos,2023-12-16,DET,Loss,17,42,2,19,pass,Sam LaPorta
-36,36,Broncos,2023-12-16,DET,Loss,17,42,2,9,pass,Jahmyr Gibbs
-37,37,Broncos,2023-12-16,DET,Loss,17,42,2,15,pass,Amon-Ra St. Brown
-38,38,Broncos,2023-12-16,DET,Loss,17,42,3,3,pass,Sam LaPorta
-39,39,Broncos,2023-12-16,DET,Loss,17,42,4,12,rush,Jahmyr Gibbs
-40,40,Broncos,2023-12-16,DET,Loss,17,42,4,10,pass,Sam LaPorta
-41,41,Broncos,2023-12-24,NWE,Loss,23,26,3,15,pass,Ezekiel Elliott
-42,42,Broncos,2023-12-24,NWE,Loss,23,26,3,11,pass,Mike Gesicki
-43,43,Broncos,2023-12-24,NWE,Loss,23,26,3,1,fumble,Cody Davis
-44,44,Broncos,2024-01-07,LVR,Loss,14,27,1,5,rush,Jakobi Meyers
-45,45,Broncos,2024-01-07,LVR,Loss,14,27,2,3,pass,Davante Adams
-46,46,Broncos,2024-01-07,LVR,Loss,14,27,4,33,pass,Jakobi Meyers
+,Rank,Team,Date,Opponent,Win/Loss,Home_Score,Opponenet_Score,Quarter,Distance,Type,Detail,Year
+1,1,Broncos,2023-09-10,LVR,Loss,16,17,1,3,pass,Jakobi Meyers,2023
+2,2,Broncos,2023-09-10,LVR,Loss,16,17,4,6,pass,Jakobi Meyers,2023
+3,3,Broncos,2023-09-17,WAS,Loss,33,35,2,4,pass,Logan Thomas,2023
+4,4,Broncos,2023-09-17,WAS,Loss,33,35,3,30,pass,Terry McLaurin,2023
+5,5,Broncos,2023-09-17,WAS,Loss,33,35,4,2,rush,Brian Robinson Jr.,2023
+6,6,Broncos,2023-09-17,WAS,Loss,33,35,4,15,rush,Brian Robinson Jr.,2023
+7,7,Broncos,2023-09-24,MIA,Loss,20,70,1,54,pass,Tyreek Hill,2023
+8,8,Broncos,2023-09-24,MIA,Loss,20,70,1,8,rush,De'Von Achane,2023
+9,9,Broncos,2023-09-24,MIA,Loss,20,70,2,4,pass,De'Von Achane,2023
+10,10,Broncos,2023-09-24,MIA,Loss,20,70,2,20,rush,Raheem Mostert,2023
+11,11,Broncos,2023-09-24,MIA,Loss,20,70,2,3,rush,Raheem Mostert,2023
+12,12,Broncos,2023-09-24,MIA,Loss,20,70,3,1,rush,Raheem Mostert,2023
+13,13,Broncos,2023-09-24,MIA,Loss,20,70,3,19,pass,Raheem Mostert,2023
+14,14,Broncos,2023-09-24,MIA,Loss,20,70,4,10,pass,De'Von Achane,2023
+15,15,Broncos,2023-09-24,MIA,Loss,20,70,4,68,pass,Robbie Chosen,2023
+16,16,Broncos,2023-09-24,MIA,Loss,20,70,4,67,rush,De'Von Achane,2023
+17,17,Broncos,2023-10-01,CHI,Win,31,28,2,29,pass,D.J. Moore,2023
+18,18,Broncos,2023-10-01,CHI,Win,31,28,2,22,pass,Cole Kmet,2023
+19,19,Broncos,2023-10-01,CHI,Win,31,28,2,3,pass,Cole Kmet,2023
+20,20,Broncos,2023-10-01,CHI,Win,31,28,3,2,pass,Khalil Herbert,2023
+21,21,Broncos,2023-10-08,NYJ,Loss,21,31,3,72,rush,Breece Hall,2023
+22,22,Broncos,2023-10-08,NYJ,Loss,21,31,4,39,fumble,Bryce Hall,2023
+23,23,Broncos,2023-10-12,KAN,Loss,8,19,2,3,pass,Kadarius Toney,2023
+24,24,Broncos,2023-10-22,GNB,Win,19,17,3,16,pass,Romeo Doubs,2023
+25,25,Broncos,2023-10-22,GNB,Win,19,17,4,4,pass,Jayden Reed,2023
+26,26,Broncos,2023-11-13,BUF,Win,24,22,2,22,pass,Dalton Kincaid,2023
+27,27,Broncos,2023-11-13,BUF,Win,24,22,3,3,rush,Latavius Murray,2023
+28,28,Broncos,2023-11-13,BUF,Win,24,22,4,6,rush,Josh Allen,2023
+29,29,Broncos,2023-11-19,MIN,Win,21,20,2,3,pass,Josh Oliver,2023
+30,30,Broncos,2023-11-19,MIN,Win,21,20,3,10,rush,Joshua Dobbs,2023
+31,31,Broncos,2023-11-26,CLE,Win,29,12,3,2,pass,Harrison Bryant,2023
+32,32,Broncos,2023-12-03,HOU,Loss,17,22,1,3,rush,Dameon Pierce,2023
+33,33,Broncos,2023-12-03,HOU,Loss,17,22,4,3,pass,Nico Collins,2023
+34,34,Broncos,2023-12-10,LAC,Win,24,7,4,3,rush,Austin Ekeler,2023
+35,35,Broncos,2023-12-16,DET,Loss,17,42,2,19,pass,Sam LaPorta,2023
+36,36,Broncos,2023-12-16,DET,Loss,17,42,2,9,pass,Jahmyr Gibbs,2023
+37,37,Broncos,2023-12-16,DET,Loss,17,42,2,15,pass,Amon-Ra St. Brown,2023
+38,38,Broncos,2023-12-16,DET,Loss,17,42,3,3,pass,Sam LaPorta,2023
+39,39,Broncos,2023-12-16,DET,Loss,17,42,4,12,rush,Jahmyr Gibbs,2023
+40,40,Broncos,2023-12-16,DET,Loss,17,42,4,10,pass,Sam LaPorta,2023
+41,41,Broncos,2023-12-24,NWE,Loss,23,26,3,15,pass,Ezekiel Elliott,2023
+42,42,Broncos,2023-12-24,NWE,Loss,23,26,3,11,pass,Mike Gesicki,2023
+43,43,Broncos,2023-12-24,NWE,Loss,23,26,3,1,fumble,Cody Davis,2023
+44,44,Broncos,2024-01-07,LVR,Loss,14,27,1,5,rush,Jakobi Meyers,2023
+45,45,Broncos,2024-01-07,LVR,Loss,14,27,2,3,pass,Davante Adams,2023
+46,46,Broncos,2024-01-07,LVR,Loss,14,27,4,33,pass,Jakobi Meyers,2023

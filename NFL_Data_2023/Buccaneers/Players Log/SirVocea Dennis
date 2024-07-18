@@ -1,11 +1,11 @@
-,Rk,Date,G#,Week,Age,Tm,Home/Away,Opp,Result,Int,Tgt,Cmp,Cmp%,Yds,Yds/Cmp,Yds/Tgt,TD,Rat,DADOT,Air,YAC,Bltz,Hrry,QBKD,Sk,Prss,Comb,MTkl,MTkl%,Year
-0,1.0,2023-09-10,1.0,1.0,23.185,TAM,MIN,W 20-17,0,0,0,,0,,,0,,,0,0,0,0,0,,0,,0,,2023,Away
-1,2.0,2023-10-15,5.0,6.0,23.22,TAM,DET,L 6-20,0,0,0,,0,,,0,,,0,0,0,0,0,,0,,0,,2023,Home
-2,3.0,2023-10-22,6.0,7.0,23.227,TAM,ATL,L 13-16,0,0,0,,0,,,0,,,0,0,0,0,0,0.0,0,1.0,0,0.0%,2023,Home
-3,4.0,2023-10-26,7.0,8.0,23.231,TAM,BUF,L 18-24,0,0,0,,0,,,0,,,0,0,0,0,0,0.0,0,1.0,0,0.0%,2023,Away
-4,5.0,2023-11-05,8.0,9.0,23.241,TAM,HOU,L 37-39,0,0,0,,0,,,0,,,0,0,0,0,0,,0,,0,,2023,Away
-5,6.0,2023-11-12,9.0,10.0,23.248,TAM,TEN,W 20-6,0,0,0,,0,,,0,,,0,0,0,0,0,,0,,0,,2023,Home
-6,7.0,2023-11-19,10.0,11.0,23.255,TAM,SFO,L 14-27,0,1,1,100.0%,12,12.0,12.0,0,116.7,0.0,0,12,0,0,0,0.0,0,3.0,1,25.0%,2023,Away
-7,8.0,2023-11-26,11.0,12.0,23.262,TAM,IND,L 20-27,0,5,3,60.0%,53,17.7,10.6,0,96.2,3.4,18,35,1,0,0,0.0,0,6.0,0,0.0%,2023,Away
-8,9.0,2023-12-10,13.0,14.0,23.276,TAM,ATL,W 29-25,0,0,0,,0,,,0,,,0,0,0,0,0,,0,,0,,2023,Away
-9,,9 Games,,,,,,3-6-0,0,6,4,66.7%,65,16.3,10.8,0,102.8,2.8,18,47,1,0,0,0.0,0,11.0,1,8.3%,2023,Home
+,Rk,Date,G#,Week,Age,Tm,Home/Away,Opp,Result,Int,Tgt,Cmp,Cmp%,Yds,Yds/Cmp,Yds/Tgt,TD,Rat,DADOT,Air,YAC,Bltz,Hrry,QBKD,Sk,Prss,Comb,MTkl,MTkl%,Year,Position,Player_Name,Team
+0,1.0,2023-09-10,1.0,1.0,23.185,TAM,MIN,W 20-17,0,0,0,,0,,,0,,,0,0,0,0,0,,0,,0,,2023,Away,Left Outside Linebacker,SirVocea Dennis,Buccaneers
+1,2.0,2023-10-15,5.0,6.0,23.22,TAM,DET,L 6-20,0,0,0,,0,,,0,,,0,0,0,0,0,,0,,0,,2023,Home,Left Outside Linebacker,SirVocea Dennis,Buccaneers
+2,3.0,2023-10-22,6.0,7.0,23.227,TAM,ATL,L 13-16,0,0,0,,0,,,0,,,0,0,0,0,0,0.0,0,1.0,0,0.0%,2023,Home,Left Outside Linebacker,SirVocea Dennis,Buccaneers
+3,4.0,2023-10-26,7.0,8.0,23.231,TAM,BUF,L 18-24,0,0,0,,0,,,0,,,0,0,0,0,0,0.0,0,1.0,0,0.0%,2023,Away,Left Outside Linebacker,SirVocea Dennis,Buccaneers
+4,5.0,2023-11-05,8.0,9.0,23.241,TAM,HOU,L 37-39,0,0,0,,0,,,0,,,0,0,0,0,0,,0,,0,,2023,Away,Left Outside Linebacker,SirVocea Dennis,Buccaneers
+5,6.0,2023-11-12,9.0,10.0,23.248,TAM,TEN,W 20-6,0,0,0,,0,,,0,,,0,0,0,0,0,,0,,0,,2023,Home,Left Outside Linebacker,SirVocea Dennis,Buccaneers
+6,7.0,2023-11-19,10.0,11.0,23.255,TAM,SFO,L 14-27,0,1,1,100.0%,12,12.0,12.0,0,116.7,0.0,0,12,0,0,0,0.0,0,3.0,1,25.0%,2023,Away,Left Outside Linebacker,SirVocea Dennis,Buccaneers
+7,8.0,2023-11-26,11.0,12.0,23.262,TAM,IND,L 20-27,0,5,3,60.0%,53,17.7,10.6,0,96.2,3.4,18,35,1,0,0,0.0,0,6.0,0,0.0%,2023,Away,Left Outside Linebacker,SirVocea Dennis,Buccaneers
+8,9.0,2023-12-10,13.0,14.0,23.276,TAM,ATL,W 29-25,0,0,0,,0,,,0,,,0,0,0,0,0,,0,,0,,2023,Away,Left Outside Linebacker,SirVocea Dennis,Buccaneers
+9,,9 Games,,,,,,3-6-0,0,6,4,66.7%,65,16.3,10.8,0,102.8,2.8,18,47,1,0,0,0.0,0,11.0,1,8.3%,2023,Home,Left Outside Linebacker,SirVocea Dennis,Buccaneers

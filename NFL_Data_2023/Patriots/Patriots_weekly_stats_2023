@@ -1,0 +1,18 @@
+,Week,Day,Date,Boxscore,Win/Loss,Overtime,Home/Away,Opponent,Team Score,Opponenet Score,Passing Completion,Passing Attempts,Passing Yards,Passing Touchdowns,Passing Interceptions,Passing Sacks,Sack Yards,Passing Yards/Attempts,Net Yards/Attempts,Passing Completion Per.,Passing Rate,Rushing Attempts,Rushing Yards,Rushing Yards/Attempts,Rushing Touchdown,Field Goals Made,Field Goals Attempts,Extra Points Made,Extra Point Attempts,Punts,Total Punt Yards,Third Down Conversions,Third Down Attempts,Fourth Down Conversions,Fourth Down Attemtps,Time of Possesion,Year,Team
+0,1,Sun,2023-09-10,boxscore,Loss,0.0,Home,Eagles,20,25,35,54,306,3,1,2,10,5.9,5.5,64.8,90.5,22,76,3.5,0,0,0,2,2,5,226,5,15,1,4,29:12,2023,Patriots
+1,2,Sun,2023-09-17,boxscore,Loss,0.0,Home,Dolphins,17,24,31,42,200,1,1,4,31,5.5,4.3,73.8,81.4,25,88,3.5,1,1,1,2,2,4,192,7,15,1,2,29:41,2023,Patriots
+2,3,Sun,2023-09-24,boxscore,Win,0.0,Away,Jets,15,10,15,29,201,1,0,0,0,6.9,6.9,51.7,85.6,40,157,3.9,0,2,4,1,1,8,322,8,19,0,0,31:52,2023,Patriots
+3,4,Sun,2023-10-01,boxscore,Loss,0.0,Away,Cowboys,3,38,16,30,200,0,2,2,7,6.9,6.3,53.3,46.5,23,53,2.3,0,1,2,0,0,5,225,4,13,0,2,24:51,2023,Patriots
+4,5,Sun,2023-10-08,boxscore,Loss,0.0,Home,Saints,0,34,15,31,111,0,2,2,21,4.3,3.4,48.4,30.4,18,45,2.5,0,0,1,0,0,8,353,1,14,0,2,20:26,2023,Patriots
+5,6,Sun,2023-10-15,boxscore,Loss,0.0,Away,Raiders,17,21,24,33,176,0,1,4,24,6.1,4.8,72.7,72.3,19,83,4.4,2,1,1,2,2,3,138,6,12,0,0,27:48,2023,Patriots
+6,7,Sun,2023-10-22,boxscore,Win,0.0,Home,Bills,29,25,25,30,268,2,0,1,4,9.1,8.6,83.3,126.1,24,96,4.0,1,3,3,2,2,2,110,4,9,0,0,27:46,2023,Patriots
+7,8,Sun,2023-10-29,boxscore,Loss,0.0,Away,Dolphins,17,31,19,29,141,2,1,3,20,5.6,4.4,65.5,85.6,19,77,4.1,0,1,1,2,2,5,265,1,9,1,2,24:05,2023,Patriots
+8,9,Sun,2023-11-05,boxscore,Loss,0.0,Home,Commanders,17,20,24,44,220,1,1,0,0,5.0,5.0,54.5,66.5,19,107,5.6,1,1,1,2,2,6,326,3,12,1,2,22:50,2023,Patriots
+9,10,Sun,2023-11-12,boxscore,Loss,0.0,Home,Colts,6,10,18,27,173,0,2,5,22,7.2,5.4,66.7,53.5,36,167,4.6,0,2,3,0,0,4,250,6,14,1,1,34:25,2023,Patriots
+10,12,Sun,2023-11-26,boxscore,Loss,0.0,Away,Giants,7,10,21,35,136,0,3,2,7,4.1,3.7,60.0,32.6,31,147,4.7,1,0,1,1,1,6,270,4,14,2,2,34:06,2023,Patriots
+11,13,Sun,2023-12-03,boxscore,Loss,0.0,Home,Chargers,0,6,13,25,109,0,0,5,32,5.6,3.6,52.0,63.6,32,148,4.6,0,0,0,0,0,7,321,4,14,1,3,31:10,2023,Patriots
+12,14,Thu,2023-12-07,boxscore,Win,0.0,Away,Steelers,21,18,19,28,222,3,1,2,18,8.6,7.4,67.9,112.5,25,81,3.2,0,0,0,3,3,9,395,4,13,0,0,27:41,2023,Patriots
+13,15,Mon,2023-12-17,boxscore,Loss,0.0,Home,Chiefs,17,27,23,31,154,1,1,4,26,5.8,4.4,74.2,81.9,16,52,3.3,1,1,2,2,2,6,288,2,12,1,2,28:46,2023,Patriots
+14,16,Sun,2023-12-24,boxscore,Win,0.0,Away,Broncos,26,23,25,33,230,2,0,2,26,7.8,6.6,75.8,114.5,21,59,2.8,0,2,3,2,3,7,319,3,13,0,0,28:42,2023,Patriots
+15,17,Sun,2023-12-31,boxscore,Loss,0.0,Away,Bills,21,27,16,26,191,0,3,3,18,8.0,6.6,61.5,44.4,24,103,4.3,2,0,1,3,3,4,176,4,10,0,0,27:08,2023,Patriots
+16,18,Sun,2024-01-07,boxscore,Loss,0.0,Home,Jets,3,17,12,30,31,0,2,7,57,2.9,0.8,40.0,20.1,21,88,4.2,0,1,1,0,0,9,422,1,14,0,3,26:18,2023,Patriots

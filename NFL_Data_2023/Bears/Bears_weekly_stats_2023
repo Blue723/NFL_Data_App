@@ -1,0 +1,18 @@
+,Week,Day,Date,Boxscore,Win/Loss,Overtime,Home/Away,Opponent,Team Score,Opponenet Score,Passing Completion,Passing Attempts,Passing Yards,Passing Touchdowns,Passing Interceptions,Passing Sacks,Sack Yards,Passing Yards/Attempts,Net Yards/Attempts,Passing Completion Per.,Passing Rate,Rushing Attempts,Rushing Yards,Rushing Yards/Attempts,Rushing Touchdown,Field Goals Made,Field Goals Attempts,Extra Points Made,Extra Point Attempts,Punts,Total Punt Yards,Third Down Conversions,Third Down Attempts,Fourth Down Conversions,Fourth Down Attemtps,Time of Possesion,Year,Team
+0,1,Sun,2023-09-10,boxscore,Loss,0.0,Home,Packers,20,38,24,37,189,1,1,4,27,5.8,4.6,64.9,75.2,29,122,4.2,1,2,2,0,0,4,212,3,13,1,2,30:43,2023,Bears
+1,2,Sun,2023-09-17,boxscore,Loss,0.0,Away,Buccaneers,17,27,16,29,169,1,2,6,42,7.3,4.8,55.2,55.1,16,67,4.2,1,1,1,2,2,5,232,6,13,0,0,24:04,2023,Bears
+2,3,Sun,2023-09-24,boxscore,Loss,0.0,Away,Chiefs,10,41,11,22,87,1,1,3,12,4.5,3.5,50.0,56.4,26,116,4.5,0,1,1,1,1,5,229,4,12,1,2,23:47,2023,Bears
+3,4,Sun,2023-10-01,boxscore,Loss,0.0,Home,Broncos,28,31,28,35,300,4,1,4,35,9.6,7.7,80.0,128.6,31,171,5.5,0,0,0,4,4,2,90,6,12,1,3,33:49,2023,Bears
+4,5,Thu,2023-10-05,boxscore,Win,0.0,Away,Commanders,40,20,15,29,273,4,0,3,9,9.7,8.5,51.7,124.0,32,178,5.6,0,4,4,4,4,3,131,7,15,1,1,30:04,2023,Bears
+5,6,Sun,2023-10-15,boxscore,Loss,0.0,Home,Vikings,13,19,16,24,113,0,2,5,28,5.9,3.9,66.7,42.5,36,162,4.5,1,2,2,1,1,4,176,6,14,0,1,35:11,2023,Bears
+6,7,Sun,2023-10-22,boxscore,Win,0.0,Home,Raiders,30,12,21,29,150,1,0,2,12,5.6,4.8,72.4,95.5,38,173,4.6,2,1,1,3,4,3,120,8,13,0,1,34:06,2023,Bears
+7,8,Sun,2023-10-29,boxscore,Loss,0.0,Away,Chargers,13,30,25,37,222,0,2,1,10,6.3,5.8,67.6,60.9,25,73,2.9,2,0,0,1,1,3,126,6,14,1,4,28:32,2023,Bears
+8,9,Sun,2023-11-05,boxscore,Loss,0.0,Away,Saints,17,24,18,30,212,2,3,2,8,7.3,6.6,60.0,64.2,32,156,4.9,0,1,2,2,2,2,95,6,12,1,1,30:40,2023,Bears
+9,10,Thu,2023-11-09,boxscore,Win,0.0,Home,Panthers,16,13,20,33,162,0,0,0,0,4.9,4.9,60.6,73.0,37,133,3.6,1,3,3,1,1,6,280,6,15,1,1,33:31,2023,Bears
+10,11,Sun,2023-11-19,boxscore,Loss,0.0,Away,Lions,26,31,16,23,151,1,0,2,18,7.3,6.0,69.6,101.9,46,183,4.0,1,4,4,2,2,2,91,5,13,2,2,40:24,2023,Bears
+11,12,Mon,2023-11-27,boxscore,Win,0.0,Away,Vikings,12,10,27,37,199,0,0,3,18,5.9,5.0,73.0,85.3,28,118,4.2,0,4,5,0,0,3,137,8,18,1,1,35:50,2023,Bears
+12,14,Sun,2023-12-10,boxscore,Win,0.0,Home,Lions,28,13,19,33,194,1,0,3,29,6.8,5.4,57.6,84.7,30,142,4.7,2,3,3,1,2,3,129,6,14,1,2,33:19,2023,Bears
+13,15,Sun,2023-12-17,boxscore,Loss,0.0,Away,Browns,17,20,19,40,148,1,2,3,18,4.2,3.4,47.5,44.6,27,88,3.3,0,1,1,2,2,10,448,4,18,0,2,29:00,2023,Bears
+14,16,Sun,2023-12-24,boxscore,Win,0.0,Home,Cardinals,27,16,15,27,170,1,1,1,0,6.3,6.1,55.6,71.5,39,250,6.4,2,2,2,3,3,5,260,8,15,0,0,34:32,2023,Bears
+15,17,Sun,2023-12-31,boxscore,Win,0.0,Home,Falcons,37,17,20,32,240,1,0,3,28,8.4,6.9,62.5,95.8,37,192,5.2,3,3,4,4,4,4,195,6,16,1,2,37:14,2023,Bears
+16,18,Sun,2024-01-07,boxscore,Loss,0.0,Away,Packers,9,17,11,16,117,0,0,5,31,9.3,5.6,68.8,89.8,25,75,3.0,0,3,3,0,0,3,137,3,11,1,1,28:36,2023,Bears

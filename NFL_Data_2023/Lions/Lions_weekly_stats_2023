@@ -1,0 +1,18 @@
+,Week,Day,Date,Boxscore,Win/Loss,Overtime,Home/Away,Opponent,Team Score,Opponenet Score,Passing Completion,Passing Attempts,Passing Yards,Passing Touchdowns,Passing Interceptions,Passing Sacks,Sack Yards,Passing Yards/Attempts,Net Yards/Attempts,Passing Completion Per.,Passing Rate,Rushing Attempts,Rushing Yards,Rushing Yards/Attempts,Rushing Touchdown,Field Goals Made,Field Goals Attempts,Extra Points Made,Extra Point Attempts,Punts,Total Punt Yards,Third Down Conversions,Third Down Attempts,Fourth Down Conversions,Fourth Down Attemtps,Time of Possesion,Year,Team
+0,1,Thu,2023-09-07,boxscore,Win,0,Away,Chiefs,21,20,22,35,250,1,0,1,3,7.2,6.9,62.9,93.7,34,118,3.5,1,0,0,3,3,5,222,5,15,1,3,32:38,2023,Lions
+1,2,Sun,2023-09-17,boxscore,Loss,1,Home,Seahawks,31,37,28,35,316,3,1,2,7,9.2,8.5,80.0,121.0,27,102,3.8,1,1,1,4,4,1,53,6,11,1,3,30:48,2023,Lions
+2,3,Sun,2023-09-24,boxscore,Win,0,Home,Falcons,20,6,22,33,243,1,1,0,0,7.4,7.4,66.7,85.8,31,115,3.7,1,2,2,2,2,6,274,4,14,0,0,32:57,2023,Lions
+3,4,Thu,2023-09-28,boxscore,Win,0,Away,Packers,34,20,19,28,190,1,1,2,20,7.5,6.3,67.9,83.9,43,211,4.9,3,2,2,4,4,4,180,7,17,2,2,37:58,2023,Lions
+4,5,Sun,2023-10-08,boxscore,Win,0,Home,Panthers,42,24,20,28,218,3,0,2,18,8.4,7.3,71.4,129.8,30,159,5.3,3,0,0,6,6,2,88,4,10,1,2,31:15,2023,Lions
+5,6,Sun,2023-10-15,boxscore,Win,0,Away,Buccaneers,20,6,30,44,340,2,0,3,13,8.0,7.2,68.2,106.2,22,40,1.8,0,2,3,2,2,4,180,9,16,0,0,36:30,2023,Lions
+6,7,Sun,2023-10-22,boxscore,Loss,0,Away,Ravens,6,38,33,53,253,0,1,5,31,5.4,4.4,62.3,66.0,14,84,6.0,1,0,0,0,0,4,184,5,16,2,6,29:38,2023,Lions
+7,8,Mon,2023-10-30,boxscore,Win,0,Home,Raiders,26,14,26,37,264,1,1,1,8,7.4,6.9,70.3,88.1,43,222,5.2,1,4,5,2,2,1,48,6,14,1,1,39:33,2023,Lions
+8,10,Sun,2023-11-12,boxscore,Win,0,Away,Chargers,41,38,23,33,333,2,0,0,0,10.1,10.1,69.7,122.4,31,200,6.5,3,2,2,5,5,1,29,4,13,4,5,30:34,2023,Lions
+9,11,Sun,2023-11-19,boxscore,Win,0,Home,Bears,31,26,23,35,223,2,3,2,13,6.7,6.0,65.7,66.7,22,115,5.2,2,0,0,3,3,2,97,8,11,0,0,19:36,2023,Lions
+10,12,Thu,2023-11-23,boxscore,Loss,0,Home,Packers,22,29,29,44,324,2,0,3,8,7.5,6.9,65.9,102.8,31,140,4.5,1,0,0,0,1,2,83,7,15,1,5,31:56,2023,Lions
+11,13,Sun,2023-12-03,boxscore,Win,0,Away,Saints,33,28,16,25,205,2,0,1,8,8.5,7.9,64.0,116.2,30,142,4.7,2,2,2,3,3,5,254,6,13,0,0,27:50,2023,Lions
+12,14,Sun,2023-12-10,boxscore,Loss,0,Away,Bears,13,28,20,35,127,1,2,4,34,4.6,3.3,57.1,50.5,24,140,5.8,1,0,0,1,2,4,207,6,15,1,5,26:41,2023,Lions
+13,15,Sun,2023-12-16,boxscore,Win,0,Home,Broncos,42,17,24,34,263,5,0,2,15,8.2,7.3,70.6,132.7,28,185,6.6,1,0,0,6,6,4,141,5,10,1,1,31:18,2023,Lions
+14,16,Sun,2023-12-24,boxscore,Win,0,Away,Vikings,30,24,30,40,246,1,0,1,11,6.4,6.0,75.0,98.5,36,143,4.0,3,1,1,3,4,3,143,6,12,2,2,38:22,2023,Lions
+15,17,Sat,2023-12-30,boxscore,Loss,0,Away,Cowboys,19,20,20,35,295,1,2,1,7,8.6,8.2,57.1,70.5,31,125,4.0,1,2,2,1,1,4,195,4,13,2,3,30:36,2023,Lions
+16,18,Sun,2024-01-07,boxscore,Win,0,Home,Vikings,30,20,23,32,311,2,0,1,9,10.0,9.4,71.9,123.3,23,70,3.0,2,1,1,3,4,5,268,1,9,2,2,25:01,2023,Lions

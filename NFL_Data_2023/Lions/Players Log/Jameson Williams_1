@@ -1,5 +1,5 @@
-,Rk,Date,G#,Week,Age,Tm,Unnamed: 6_level_1,Opp,Result,Tgt,Rec,Yds,TD,1D,YBC,YBC/R,YAC,YAC/R,ADOT,BrkTkl,Rec/Br,Drop,Drop%,Int,Rat,Att,Yds,TD,1D,YBC,YBC/Att,YAC,YAC/Att,BrkTkl,Att/Br,Year
-0,1.0,2024-01-14,18.0,19.0,22.294,DET,,LAR,W 24-23,2,2,19,0,1,18,9.0,1,0.5,9.0,0,,0,0.0,0,106.2,0,0,0,0,0,,0,,0,,2023
-1,2.0,2024-01-21,19.0,20.0,22.301,DET,,TAM,W 31-23,4,2,35,0,2,33,16.5,2,1.0,19.5,0,,0,0.0,0,80.2,0,0,0,0,0,,0,,0,,2023
-2,3.0,2024-01-28,20.0,21.0,22.308,DET,@,SFO,L 31-34,3,2,25,1,2,24,12.0,1,0.5,20.3,0,,1,33.3,0,131.9,1,42,1,1,21,21.0,21,21.0,1,1.0,2023
-3,,3 Games,,,,,,,2-1-0,9,6,79,1,5,75,12.5,4,0.7,17.4,0,,1,11.1,0,131.2,1,42,1,1,21,21.0,21,21.0,1,1.0,2023
+,Rk,Date,G#,Week,Age,Tm,Unnamed: 6_level_1,Opp,Result,Tgt,Rec,Yds,TD,1D,YBC,YBC/R,YAC,YAC/R,ADOT,BrkTkl,Rec/Br,Drop,Drop%,Int,Rat,Att,Yds.1,TD.1,1D.1,YBC.1,YBC/Att,YAC.1,YAC/Att,BrkTkl.1,Att/Br,Year,Position,Player_Name,Team
+0,1.0,2024-01-14,18.0,19.0,22.294,DET,,LAR,W 24-23,2,2,19,0,1,18,9.0,1,0.5,9.0,0,,0,0.0,0,106.2,0,0,0,0,0,,0,,0,,2023,Wide Receiver,Jameson Williams,Lions
+1,2.0,2024-01-21,19.0,20.0,22.301,DET,,TAM,W 31-23,4,2,35,0,2,33,16.5,2,1.0,19.5,0,,0,0.0,0,80.2,0,0,0,0,0,,0,,0,,2023,Wide Receiver,Jameson Williams,Lions
+2,3.0,2024-01-28,20.0,21.0,22.308,DET,@,SFO,L 31-34,3,2,25,1,2,24,12.0,1,0.5,20.3,0,,1,33.3,0,131.9,1,42,1,1,21,21.0,21,21.0,1,1.0,2023,Wide Receiver,Jameson Williams,Lions
+3,,3 Games,,,,,,,2-1-0,9,6,79,1,5,75,12.5,4,0.7,17.4,0,,1,11.1,0,131.2,1,42,1,1,21,21.0,21,21.0,1,1.0,2023,Wide Receiver,Jameson Williams,Lions

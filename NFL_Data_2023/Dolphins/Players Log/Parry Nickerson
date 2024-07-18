@@ -1,7 +1,7 @@
-,Rk,Date,G#,Week,Age,Tm,Unnamed: 6_level_1,Opp,Result,Int,Tgt,Cmp,Cmp%,Yds,Yds/Cmp,Yds/Tgt,TD,Rat,DADOT,Air,YAC,Bltz,Hrry,QBKD,Sk,Prss,Comb,MTkl,MTkl%,Year
-0,1.0,2023-09-17,2.0,2.0,28.341,MIA,@,NWE,W 24-17,0,0,0,,0,,,0,,,0,0,0,0,0,,0,,0,,2023
-1,2.0,2023-09-24,3.0,3.0,28.348,MIA,,DEN,W 70-20,0,0,0,,0,,,0,,,0,0,2,0,0,0.0,0,0.0,0,,2023
-2,3.0,2023-10-08,5.0,5.0,28.362,MIA,,NYG,W 31-16,0,0,0,,0,,,0,,,0,0,0,0,0,,0,,0,,2023
-3,4.0,2023-10-15,6.0,6.0,29.004,MIA,,CAR,W 42-21,0,4,2,50.0%,22,11.0,5.5,0,66.7,9.0,18,4,0,0,0,0.0,0,3.0,0,0.0%,2023
-4,5.0,2023-10-22,7.0,7.0,29.011,MIA,@,PHI,L 17-31,0,2,1,50.0%,32,32.0,16.0,0,95.8,17.0,25,7,2,0,0,0.0,0,2.0,0,0.0%,2023
-5,,5 Games,,,,,,,4-1-0,0,6,3,50.0%,54,18.0,9.0,0,81.2,11.7,43,11,4,0,0,0.0,0,5.0,0,0.0%,2023
+,Rk,Date,G#,Week,Age,Tm,Unnamed: 6_level_1,Opp,Result,Int,Tgt,Cmp,Cmp%,Yds,Yds/Cmp,Yds/Tgt,TD,Rat,DADOT,Air,YAC,Bltz,Hrry,QBKD,Sk,Prss,Comb,MTkl,MTkl%,Year,Position,Player_Name,Team
+0,1.0,2023-09-17,2.0,2.0,28.341,MIA,@,NWE,W 24-17,0,0,0,,0,,,0,,,0,0,0,0,0,,0,,0,,2023,Left Cornerback,Parry Nickerson,Dolphins
+1,2.0,2023-09-24,3.0,3.0,28.348,MIA,,DEN,W 70-20,0,0,0,,0,,,0,,,0,0,2,0,0,0.0,0,0.0,0,,2023,Left Cornerback,Parry Nickerson,Dolphins
+2,3.0,2023-10-08,5.0,5.0,28.362,MIA,,NYG,W 31-16,0,0,0,,0,,,0,,,0,0,0,0,0,,0,,0,,2023,Left Cornerback,Parry Nickerson,Dolphins
+3,4.0,2023-10-15,6.0,6.0,29.004,MIA,,CAR,W 42-21,0,4,2,50.0%,22,11.0,5.5,0,66.7,9.0,18,4,0,0,0,0.0,0,3.0,0,0.0%,2023,Left Cornerback,Parry Nickerson,Dolphins
+4,5.0,2023-10-22,7.0,7.0,29.011,MIA,@,PHI,L 17-31,0,2,1,50.0%,32,32.0,16.0,0,95.8,17.0,25,7,2,0,0,0.0,0,2.0,0,0.0%,2023,Left Cornerback,Parry Nickerson,Dolphins
+5,,5 Games,,,,,,,4-1-0,0,6,3,50.0%,54,18.0,9.0,0,81.2,11.7,43,11,4,0,0,0.0,0,5.0,0,0.0%,2023,Left Cornerback,Parry Nickerson,Dolphins

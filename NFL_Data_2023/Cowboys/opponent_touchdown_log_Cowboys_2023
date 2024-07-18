@@ -1,37 +1,37 @@
-,Rank,Team,Date,Opponent,Win/Loss,Home_Score,Opponenet_Score,Quarter,Distance,Type,Detail
-1,1,Cowboys,2023-09-17,NYJ,Win,30,10,2,68,pass,Garrett Wilson
-2,2,Cowboys,2023-09-24,ARI,Loss,16,28,1,5,rush,James Conner
-3,3,Cowboys,2023-09-24,ARI,Loss,16,28,2,45,rush,Rondale Moore
-4,4,Cowboys,2023-09-24,ARI,Loss,16,28,4,2,pass,Marquise Brown
-5,5,Cowboys,2023-10-08,SFO,Loss,10,42,1,19,pass,George Kittle
-6,6,Cowboys,2023-10-08,SFO,Loss,10,42,2,38,pass,George Kittle
-7,7,Cowboys,2023-10-08,SFO,Loss,10,42,2,1,rush,Christian McCaffrey
-8,8,Cowboys,2023-10-08,SFO,Loss,10,42,3,10,pass,George Kittle
-9,9,Cowboys,2023-10-08,SFO,Loss,10,42,4,1,pass,Kyle Juszczyk
-10,10,Cowboys,2023-10-08,SFO,Loss,10,42,4,26,rush,Jordan Mason
-11,11,Cowboys,2023-10-16,LAC,Win,20,17,1,1,pass,Keenan Allen
-12,12,Cowboys,2023-10-16,LAC,Win,20,17,4,1,pass,Gerald Everett
-13,13,Cowboys,2023-10-29,LAR,Win,43,20,2,1,rush,Royce Freeman
-14,14,Cowboys,2023-10-29,LAR,Win,43,20,3,20,pass,Ben Skowronek
-15,15,Cowboys,2023-11-05,PHI,Loss,23,28,1,12,rush,Kenneth Gainwell
-16,16,Cowboys,2023-11-05,PHI,Loss,23,28,2,1,rush,Jalen Hurts
-17,17,Cowboys,2023-11-05,PHI,Loss,23,28,3,29,pass,DeVonta Smith
-18,18,Cowboys,2023-11-05,PHI,Loss,23,28,3,4,pass,A.J. Brown
-19,19,Cowboys,2023-11-12,NYG,Win,49,17,3,10,pass,Lawrence Cager
-20,20,Cowboys,2023-11-12,NYG,Win,49,17,4,2,pass,Sterling Shepard
-21,21,Cowboys,2023-11-19,CAR,Win,33,10,3,4,pass,Tommy Tremble
-22,22,Cowboys,2023-11-23,WAS,Win,45,10,2,1,rush,Sam Howell
-23,23,Cowboys,2023-11-30,SEA,Win,41,35,1,73,pass,D.K. Metcalf
-24,24,Cowboys,2023-11-30,SEA,Win,41,35,2,1,rush,Zach Charbonnet
-25,25,Cowboys,2023-11-30,SEA,Win,41,35,2,1,pass,D.K. Metcalf
-26,26,Cowboys,2023-11-30,SEA,Win,41,35,3,5,rush,Geno Smith
-27,27,Cowboys,2023-11-30,SEA,Win,41,35,4,3,pass,D.K. Metcalf
-28,28,Cowboys,2023-12-10,PHI,Win,33,13,3,42,fumble,Jalen Carter
-29,29,Cowboys,2023-12-17,BUF,Loss,10,31,1,2,rush,Latavius Murray
-30,30,Cowboys,2023-12-17,BUF,Loss,10,31,2,18,pass,James Cook
-31,31,Cowboys,2023-12-17,BUF,Loss,10,31,2,1,rush,Josh Allen
-32,32,Cowboys,2023-12-17,BUF,Loss,10,31,4,24,rush,James Cook
-33,33,Cowboys,2023-12-24,MIA,Loss,20,22,2,4,pass,Raheem Mostert
-34,34,Cowboys,2023-12-30,DET,Win,20,19,3,3,rush,David Montgomery
-35,35,Cowboys,2023-12-30,DET,Win,20,19,4,11,pass,Amon-Ra St. Brown
-36,36,Cowboys,2024-01-07,WAS,Win,38,10,2,1,pass,Brian Robinson Jr.
+,Rank,Team,Date,Opponent,Win/Loss,Home_Score,Opponenet_Score,Quarter,Distance,Type,Detail,Year
+1,1,Cowboys,2023-09-17,NYJ,Win,30,10,2,68,pass,Garrett Wilson,2023
+2,2,Cowboys,2023-09-24,ARI,Loss,16,28,1,5,rush,James Conner,2023
+3,3,Cowboys,2023-09-24,ARI,Loss,16,28,2,45,rush,Rondale Moore,2023
+4,4,Cowboys,2023-09-24,ARI,Loss,16,28,4,2,pass,Marquise Brown,2023
+5,5,Cowboys,2023-10-08,SFO,Loss,10,42,1,19,pass,George Kittle,2023
+6,6,Cowboys,2023-10-08,SFO,Loss,10,42,2,38,pass,George Kittle,2023
+7,7,Cowboys,2023-10-08,SFO,Loss,10,42,2,1,rush,Christian McCaffrey,2023
+8,8,Cowboys,2023-10-08,SFO,Loss,10,42,3,10,pass,George Kittle,2023
+9,9,Cowboys,2023-10-08,SFO,Loss,10,42,4,1,pass,Kyle Juszczyk,2023
+10,10,Cowboys,2023-10-08,SFO,Loss,10,42,4,26,rush,Jordan Mason,2023
+11,11,Cowboys,2023-10-16,LAC,Win,20,17,1,1,pass,Keenan Allen,2023
+12,12,Cowboys,2023-10-16,LAC,Win,20,17,4,1,pass,Gerald Everett,2023
+13,13,Cowboys,2023-10-29,LAR,Win,43,20,2,1,rush,Royce Freeman,2023
+14,14,Cowboys,2023-10-29,LAR,Win,43,20,3,20,pass,Ben Skowronek,2023
+15,15,Cowboys,2023-11-05,PHI,Loss,23,28,1,12,rush,Kenneth Gainwell,2023
+16,16,Cowboys,2023-11-05,PHI,Loss,23,28,2,1,rush,Jalen Hurts,2023
+17,17,Cowboys,2023-11-05,PHI,Loss,23,28,3,29,pass,DeVonta Smith,2023
+18,18,Cowboys,2023-11-05,PHI,Loss,23,28,3,4,pass,A.J. Brown,2023
+19,19,Cowboys,2023-11-12,NYG,Win,49,17,3,10,pass,Lawrence Cager,2023
+20,20,Cowboys,2023-11-12,NYG,Win,49,17,4,2,pass,Sterling Shepard,2023
+21,21,Cowboys,2023-11-19,CAR,Win,33,10,3,4,pass,Tommy Tremble,2023
+22,22,Cowboys,2023-11-23,WAS,Win,45,10,2,1,rush,Sam Howell,2023
+23,23,Cowboys,2023-11-30,SEA,Win,41,35,1,73,pass,D.K. Metcalf,2023
+24,24,Cowboys,2023-11-30,SEA,Win,41,35,2,1,rush,Zach Charbonnet,2023
+25,25,Cowboys,2023-11-30,SEA,Win,41,35,2,1,pass,D.K. Metcalf,2023
+26,26,Cowboys,2023-11-30,SEA,Win,41,35,3,5,rush,Geno Smith,2023
+27,27,Cowboys,2023-11-30,SEA,Win,41,35,4,3,pass,D.K. Metcalf,2023
+28,28,Cowboys,2023-12-10,PHI,Win,33,13,3,42,fumble,Jalen Carter,2023
+29,29,Cowboys,2023-12-17,BUF,Loss,10,31,1,2,rush,Latavius Murray,2023
+30,30,Cowboys,2023-12-17,BUF,Loss,10,31,2,18,pass,James Cook,2023
+31,31,Cowboys,2023-12-17,BUF,Loss,10,31,2,1,rush,Josh Allen,2023
+32,32,Cowboys,2023-12-17,BUF,Loss,10,31,4,24,rush,James Cook,2023
+33,33,Cowboys,2023-12-24,MIA,Loss,20,22,2,4,pass,Raheem Mostert,2023
+34,34,Cowboys,2023-12-30,DET,Win,20,19,3,3,rush,David Montgomery,2023
+35,35,Cowboys,2023-12-30,DET,Win,20,19,4,11,pass,Amon-Ra St. Brown,2023
+36,36,Cowboys,2024-01-07,WAS,Win,38,10,2,1,pass,Brian Robinson Jr.,2023

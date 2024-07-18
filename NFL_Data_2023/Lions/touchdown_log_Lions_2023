@@ -1,59 +1,59 @@
-,Rank,Team,Date,Opponent,Win/Loss,Home_Score,Opponenet_Score,Quarter,Distance,Type,Detail
-1,1,Lions,2023-09-07,KAN,Win,21,20,1,9,pass,Amon-Ra St. Brown
-2,2,Lions,2023-09-07,KAN,Win,21,20,3,50,interception,Brian Branch
-3,3,Lions,2023-09-07,KAN,Win,21,20,4,8,rush,David Montgomery
-4,4,Lions,2023-09-17,SEA,Loss,31,37,1,22,pass,Josh Reynolds
-5,5,Lions,2023-09-17,SEA,Loss,31,37,2,36,pass,Kalif Raymond
-6,6,Lions,2023-09-17,SEA,Loss,31,37,3,4,rush,David Montgomery
-7,7,Lions,2023-09-17,SEA,Loss,31,37,4,4,pass,Josh Reynolds
-8,8,Lions,2023-09-24,ATL,Win,20,6,2,45,pass,Sam LaPorta
-9,9,Lions,2023-09-24,ATL,Win,20,6,4,3,rush,Jared Goff
-10,10,Lions,2023-09-28,GNB,Win,34,20,1,24,pass,Amon-Ra St. Brown
-11,11,Lions,2023-09-28,GNB,Win,34,20,1,3,rush,David Montgomery
-12,12,Lions,2023-09-28,GNB,Win,34,20,2,2,rush,David Montgomery
-13,13,Lions,2023-09-28,GNB,Win,34,20,4,1,rush,David Montgomery
-14,14,Lions,2023-10-08,CAR,Win,42,24,1,42,rush,David Montgomery
-15,15,Lions,2023-10-08,CAR,Win,42,24,1,4,pass,Sam LaPorta
-16,16,Lions,2023-10-08,CAR,Win,42,24,2,1,pass,Josh Reynolds
-17,17,Lions,2023-10-08,CAR,Win,42,24,2,31,pass,Sam LaPorta
-18,18,Lions,2023-10-08,CAR,Win,42,24,4,1,rush,Jared Goff
-19,19,Lions,2023-10-08,CAR,Win,42,24,4,5,rush,Craig Reynolds
-20,20,Lions,2023-10-15,TAM,Win,20,6,2,27,pass,Amon-Ra St. Brown
-21,21,Lions,2023-10-15,TAM,Win,20,6,3,45,pass,Jameson Williams
-22,22,Lions,2023-10-22,BAL,Loss,6,38,4,21,rush,Jahmyr Gibbs
-23,23,Lions,2023-10-30,LVR,Win,26,14,2,18,pass,Sam LaPorta
-24,24,Lions,2023-10-30,LVR,Win,26,14,3,27,rush,Jahmyr Gibbs
-25,25,Lions,2023-11-12,LAC,Win,41,38,1,1,rush,Jahmyr Gibbs
-26,26,Lions,2023-11-12,LAC,Win,41,38,2,1,rush,Jahmyr Gibbs
-27,27,Lions,2023-11-12,LAC,Win,41,38,2,75,rush,David Montgomery
-28,28,Lions,2023-11-12,LAC,Win,41,38,3,20,pass,Amon-Ra St. Brown
-29,29,Lions,2023-11-12,LAC,Win,41,38,4,25,pass,Brock Wright
-30,30,Lions,2023-11-19,CHI,Win,31,26,2,2,rush,Jahmyr Gibbs
-31,31,Lions,2023-11-19,CHI,Win,31,26,2,7,pass,Amon-Ra St. Brown
-32,32,Lions,2023-11-19,CHI,Win,31,26,4,32,pass,Jameson Williams
-33,33,Lions,2023-11-19,CHI,Win,31,26,4,1,rush,David Montgomery
-34,34,Lions,2023-11-23,GNB,Loss,22,29,1,7,pass,Sam LaPorta
-35,35,Lions,2023-11-23,GNB,Loss,22,29,3,6,rush,David Montgomery
-36,36,Lions,2023-11-23,GNB,Loss,22,29,4,12,pass,Josh Reynolds
-37,37,Lions,2023-12-03,NOR,Win,33,28,1,2,rush,David Montgomery
-38,38,Lions,2023-12-03,NOR,Win,33,28,1,13,pass,Sam LaPorta
-39,39,Lions,2023-12-03,NOR,Win,33,28,1,25,pass,Amon-Ra St. Brown
-40,40,Lions,2023-12-03,NOR,Win,33,28,4,19,rush,Jameson Williams
-41,41,Lions,2023-12-10,CHI,Loss,13,28,2,12,rush,Jahmyr Gibbs
-42,42,Lions,2023-12-10,CHI,Loss,13,28,2,8,pass,Josh Reynolds
-43,43,Lions,2023-12-16,DEN,Win,42,17,2,19,pass,Sam LaPorta
-44,44,Lions,2023-12-16,DEN,Win,42,17,2,9,pass,Jahmyr Gibbs
-45,45,Lions,2023-12-16,DEN,Win,42,17,2,15,pass,Amon-Ra St. Brown
-46,46,Lions,2023-12-16,DEN,Win,42,17,3,3,pass,Sam LaPorta
-47,47,Lions,2023-12-16,DEN,Win,42,17,4,12,rush,Jahmyr Gibbs
-48,48,Lions,2023-12-16,DEN,Win,42,17,4,10,pass,Sam LaPorta
-49,49,Lions,2023-12-24,MIN,Win,30,24,1,1,rush,David Montgomery
-50,50,Lions,2023-12-24,MIN,Win,30,24,2,14,rush,Jahmyr Gibbs
-51,51,Lions,2023-12-24,MIN,Win,30,24,3,1,pass,Amon-Ra St. Brown
-52,52,Lions,2023-12-24,MIN,Win,30,24,4,3,rush,Jahmyr Gibbs
-53,53,Lions,2023-12-30,DAL,Loss,19,20,3,3,rush,David Montgomery
-54,54,Lions,2023-12-30,DAL,Loss,19,20,4,11,pass,Amon-Ra St. Brown
-55,55,Lions,2024-01-07,MIN,Win,30,20,1,2,pass,Sam LaPorta
-56,56,Lions,2024-01-07,MIN,Win,30,20,1,3,rush,Jahmyr Gibbs
-57,57,Lions,2024-01-07,MIN,Win,30,20,3,1,rush,David Montgomery
-58,58,Lions,2024-01-07,MIN,Win,30,20,4,70,pass,Amon-Ra St. Brown
+,Rank,Team,Date,Opponent,Win/Loss,Home_Score,Opponenet_Score,Quarter,Distance,Type,Detail,Year
+1,1,Lions,2023-09-07,KAN,Win,21,20,1,9,pass,Amon-Ra St. Brown,2023
+2,2,Lions,2023-09-07,KAN,Win,21,20,3,50,interception,Brian Branch,2023
+3,3,Lions,2023-09-07,KAN,Win,21,20,4,8,rush,David Montgomery,2023
+4,4,Lions,2023-09-17,SEA,Loss,31,37,1,22,pass,Josh Reynolds,2023
+5,5,Lions,2023-09-17,SEA,Loss,31,37,2,36,pass,Kalif Raymond,2023
+6,6,Lions,2023-09-17,SEA,Loss,31,37,3,4,rush,David Montgomery,2023
+7,7,Lions,2023-09-17,SEA,Loss,31,37,4,4,pass,Josh Reynolds,2023
+8,8,Lions,2023-09-24,ATL,Win,20,6,2,45,pass,Sam LaPorta,2023
+9,9,Lions,2023-09-24,ATL,Win,20,6,4,3,rush,Jared Goff,2023
+10,10,Lions,2023-09-28,GNB,Win,34,20,1,24,pass,Amon-Ra St. Brown,2023
+11,11,Lions,2023-09-28,GNB,Win,34,20,1,3,rush,David Montgomery,2023
+12,12,Lions,2023-09-28,GNB,Win,34,20,2,2,rush,David Montgomery,2023
+13,13,Lions,2023-09-28,GNB,Win,34,20,4,1,rush,David Montgomery,2023
+14,14,Lions,2023-10-08,CAR,Win,42,24,1,42,rush,David Montgomery,2023
+15,15,Lions,2023-10-08,CAR,Win,42,24,1,4,pass,Sam LaPorta,2023
+16,16,Lions,2023-10-08,CAR,Win,42,24,2,1,pass,Josh Reynolds,2023
+17,17,Lions,2023-10-08,CAR,Win,42,24,2,31,pass,Sam LaPorta,2023
+18,18,Lions,2023-10-08,CAR,Win,42,24,4,1,rush,Jared Goff,2023
+19,19,Lions,2023-10-08,CAR,Win,42,24,4,5,rush,Craig Reynolds,2023
+20,20,Lions,2023-10-15,TAM,Win,20,6,2,27,pass,Amon-Ra St. Brown,2023
+21,21,Lions,2023-10-15,TAM,Win,20,6,3,45,pass,Jameson Williams,2023
+22,22,Lions,2023-10-22,BAL,Loss,6,38,4,21,rush,Jahmyr Gibbs,2023
+23,23,Lions,2023-10-30,LVR,Win,26,14,2,18,pass,Sam LaPorta,2023
+24,24,Lions,2023-10-30,LVR,Win,26,14,3,27,rush,Jahmyr Gibbs,2023
+25,25,Lions,2023-11-12,LAC,Win,41,38,1,1,rush,Jahmyr Gibbs,2023
+26,26,Lions,2023-11-12,LAC,Win,41,38,2,1,rush,Jahmyr Gibbs,2023
+27,27,Lions,2023-11-12,LAC,Win,41,38,2,75,rush,David Montgomery,2023
+28,28,Lions,2023-11-12,LAC,Win,41,38,3,20,pass,Amon-Ra St. Brown,2023
+29,29,Lions,2023-11-12,LAC,Win,41,38,4,25,pass,Brock Wright,2023
+30,30,Lions,2023-11-19,CHI,Win,31,26,2,2,rush,Jahmyr Gibbs,2023
+31,31,Lions,2023-11-19,CHI,Win,31,26,2,7,pass,Amon-Ra St. Brown,2023
+32,32,Lions,2023-11-19,CHI,Win,31,26,4,32,pass,Jameson Williams,2023
+33,33,Lions,2023-11-19,CHI,Win,31,26,4,1,rush,David Montgomery,2023
+34,34,Lions,2023-11-23,GNB,Loss,22,29,1,7,pass,Sam LaPorta,2023
+35,35,Lions,2023-11-23,GNB,Loss,22,29,3,6,rush,David Montgomery,2023
+36,36,Lions,2023-11-23,GNB,Loss,22,29,4,12,pass,Josh Reynolds,2023
+37,37,Lions,2023-12-03,NOR,Win,33,28,1,2,rush,David Montgomery,2023
+38,38,Lions,2023-12-03,NOR,Win,33,28,1,13,pass,Sam LaPorta,2023
+39,39,Lions,2023-12-03,NOR,Win,33,28,1,25,pass,Amon-Ra St. Brown,2023
+40,40,Lions,2023-12-03,NOR,Win,33,28,4,19,rush,Jameson Williams,2023
+41,41,Lions,2023-12-10,CHI,Loss,13,28,2,12,rush,Jahmyr Gibbs,2023
+42,42,Lions,2023-12-10,CHI,Loss,13,28,2,8,pass,Josh Reynolds,2023
+43,43,Lions,2023-12-16,DEN,Win,42,17,2,19,pass,Sam LaPorta,2023
+44,44,Lions,2023-12-16,DEN,Win,42,17,2,9,pass,Jahmyr Gibbs,2023
+45,45,Lions,2023-12-16,DEN,Win,42,17,2,15,pass,Amon-Ra St. Brown,2023
+46,46,Lions,2023-12-16,DEN,Win,42,17,3,3,pass,Sam LaPorta,2023
+47,47,Lions,2023-12-16,DEN,Win,42,17,4,12,rush,Jahmyr Gibbs,2023
+48,48,Lions,2023-12-16,DEN,Win,42,17,4,10,pass,Sam LaPorta,2023
+49,49,Lions,2023-12-24,MIN,Win,30,24,1,1,rush,David Montgomery,2023
+50,50,Lions,2023-12-24,MIN,Win,30,24,2,14,rush,Jahmyr Gibbs,2023
+51,51,Lions,2023-12-24,MIN,Win,30,24,3,1,pass,Amon-Ra St. Brown,2023
+52,52,Lions,2023-12-24,MIN,Win,30,24,4,3,rush,Jahmyr Gibbs,2023
+53,53,Lions,2023-12-30,DAL,Loss,19,20,3,3,rush,David Montgomery,2023
+54,54,Lions,2023-12-30,DAL,Loss,19,20,4,11,pass,Amon-Ra St. Brown,2023
+55,55,Lions,2024-01-07,MIN,Win,30,20,1,2,pass,Sam LaPorta,2023
+56,56,Lions,2024-01-07,MIN,Win,30,20,1,3,rush,Jahmyr Gibbs,2023
+57,57,Lions,2024-01-07,MIN,Win,30,20,3,1,rush,David Montgomery,2023
+58,58,Lions,2024-01-07,MIN,Win,30,20,4,70,pass,Amon-Ra St. Brown,2023

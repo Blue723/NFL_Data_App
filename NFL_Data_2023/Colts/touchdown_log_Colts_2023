@@ -1,43 +1,43 @@
-,Rank,Team,Date,Opponent,Win/Loss,Home_Score,Opponenet_Score,Quarter,Distance,Type,Detail
-1,1,Colts,2023-09-10,JAX,Loss,21,31,2,2,rush,Anthony Richardson
-2,2,Colts,2023-09-10,JAX,Loss,21,31,3,39,pass,Michael Pittman Jr.
-3,3,Colts,2023-09-10,JAX,Loss,21,31,3,26,fumble,DeForest Buckner
-4,4,Colts,2023-09-17,HOU,Win,31,20,1,18,rush,Anthony Richardson
-5,5,Colts,2023-09-17,HOU,Win,31,20,1,15,rush,Anthony Richardson
-6,6,Colts,2023-09-17,HOU,Win,31,20,2,11,rush,Zack Moss
-7,7,Colts,2023-09-17,HOU,Win,31,20,2,4,pass,Kylen Granson
-8,8,Colts,2023-09-24,BAL,Win,22,19,2,17,pass,Zack Moss
-9,9,Colts,2023-10-01,LAR,Loss,23,29,3,35,pass,Mo Alie-Cox
-10,10,Colts,2023-10-01,LAR,Loss,23,29,4,1,rush,Anthony Richardson
-11,11,Colts,2023-10-01,LAR,Loss,23,29,4,5,pass,Andrew Ogletree
-12,12,Colts,2023-10-08,TEN,Win,23,16,1,56,rush,Zack Moss
-13,13,Colts,2023-10-08,TEN,Win,23,16,3,3,rush,Zack Moss
-14,14,Colts,2023-10-15,JAX,Loss,20,37,4,2,pass,Josh Downs
-15,15,Colts,2023-10-15,JAX,Loss,20,37,4,3,rush,Zack Moss
-16,16,Colts,2023-10-22,CLE,Loss,38,39,1,59,pass,Josh Downs
-17,17,Colts,2023-10-22,CLE,Loss,38,39,1,17,rush,Gardner Minshew II
-18,18,Colts,2023-10-22,CLE,Loss,38,39,2,4,rush,Gardner Minshew II
-19,19,Colts,2023-10-22,CLE,Loss,38,39,3,5,rush,Jonathan Taylor
-20,20,Colts,2023-10-22,CLE,Loss,38,39,4,75,pass,Michael Pittman Jr.
-21,21,Colts,2023-10-29,NOR,Loss,27,38,1,10,pass,Michael Pittman Jr.
-22,22,Colts,2023-10-29,NOR,Loss,27,38,2,1,rush,Zack Moss
-23,23,Colts,2023-10-29,NOR,Loss,27,38,4,33,pass,Andrew Ogletree
-24,24,Colts,2023-11-05,CAR,Win,27,13,2,10,pass,Jonathan Taylor
-25,25,Colts,2023-11-05,CAR,Win,27,13,2,49,interception,Kenny Moore
-26,26,Colts,2023-11-05,CAR,Win,27,13,4,66,interception,Kenny Moore
-27,27,Colts,2023-11-12,NWE,Win,10,6,1,1,rush,Jonathan Taylor
-28,28,Colts,2023-11-26,TAM,Win,27,20,1,4,rush,Jonathan Taylor
-29,29,Colts,2023-11-26,TAM,Win,27,20,2,2,rush,Gardner Minshew II
-30,30,Colts,2023-11-26,TAM,Win,27,20,4,1,rush,Jonathan Taylor
-31,31,Colts,2023-12-03,TEN,Win,31,28,1,36,pass,Alec Pierce
-32,32,Colts,2023-12-03,TEN,Win,31,28,3,18,blocked punt,Grant Stuard
-33,33,Colts,2023-12-03,TEN,Win,31,28,5,4,pass,Michael Pittman Jr.
-34,34,Colts,2023-12-10,CIN,Loss,14,34,2,2,pass,Mo Alie-Cox
-35,35,Colts,2023-12-10,CIN,Loss,14,34,2,36,interception,Ronnie Harrison
-36,36,Colts,2023-12-16,PIT,Win,30,13,2,16,pass,Zack Moss
-37,37,Colts,2023-12-16,PIT,Win,30,13,2,14,pass,D.J. Montgomery
-38,38,Colts,2023-12-16,PIT,Win,30,13,3,18,pass,Mo Alie-Cox
-39,39,Colts,2023-12-24,ATL,Loss,10,29,1,1,rush,Jonathan Taylor
-40,40,Colts,2023-12-31,LVR,Win,23,20,1,5,rush,Jonathan Taylor
-41,41,Colts,2023-12-31,LVR,Win,23,20,2,58,pass,Alec Pierce
-42,42,Colts,2024-01-06,HOU,Loss,19,23,3,49,rush,Jonathan Taylor
+,Rank,Team,Date,Opponent,Win/Loss,Home_Score,Opponenet_Score,Quarter,Distance,Type,Detail,Year
+1,1,Colts,2023-09-10,JAX,Loss,21,31,2,2,rush,Anthony Richardson,2023
+2,2,Colts,2023-09-10,JAX,Loss,21,31,3,39,pass,Michael Pittman Jr.,2023
+3,3,Colts,2023-09-10,JAX,Loss,21,31,3,26,fumble,DeForest Buckner,2023
+4,4,Colts,2023-09-17,HOU,Win,31,20,1,18,rush,Anthony Richardson,2023
+5,5,Colts,2023-09-17,HOU,Win,31,20,1,15,rush,Anthony Richardson,2023
+6,6,Colts,2023-09-17,HOU,Win,31,20,2,11,rush,Zack Moss,2023
+7,7,Colts,2023-09-17,HOU,Win,31,20,2,4,pass,Kylen Granson,2023
+8,8,Colts,2023-09-24,BAL,Win,22,19,2,17,pass,Zack Moss,2023
+9,9,Colts,2023-10-01,LAR,Loss,23,29,3,35,pass,Mo Alie-Cox,2023
+10,10,Colts,2023-10-01,LAR,Loss,23,29,4,1,rush,Anthony Richardson,2023
+11,11,Colts,2023-10-01,LAR,Loss,23,29,4,5,pass,Andrew Ogletree,2023
+12,12,Colts,2023-10-08,TEN,Win,23,16,1,56,rush,Zack Moss,2023
+13,13,Colts,2023-10-08,TEN,Win,23,16,3,3,rush,Zack Moss,2023
+14,14,Colts,2023-10-15,JAX,Loss,20,37,4,2,pass,Josh Downs,2023
+15,15,Colts,2023-10-15,JAX,Loss,20,37,4,3,rush,Zack Moss,2023
+16,16,Colts,2023-10-22,CLE,Loss,38,39,1,59,pass,Josh Downs,2023
+17,17,Colts,2023-10-22,CLE,Loss,38,39,1,17,rush,Gardner Minshew II,2023
+18,18,Colts,2023-10-22,CLE,Loss,38,39,2,4,rush,Gardner Minshew II,2023
+19,19,Colts,2023-10-22,CLE,Loss,38,39,3,5,rush,Jonathan Taylor,2023
+20,20,Colts,2023-10-22,CLE,Loss,38,39,4,75,pass,Michael Pittman Jr.,2023
+21,21,Colts,2023-10-29,NOR,Loss,27,38,1,10,pass,Michael Pittman Jr.,2023
+22,22,Colts,2023-10-29,NOR,Loss,27,38,2,1,rush,Zack Moss,2023
+23,23,Colts,2023-10-29,NOR,Loss,27,38,4,33,pass,Andrew Ogletree,2023
+24,24,Colts,2023-11-05,CAR,Win,27,13,2,10,pass,Jonathan Taylor,2023
+25,25,Colts,2023-11-05,CAR,Win,27,13,2,49,interception,Kenny Moore,2023
+26,26,Colts,2023-11-05,CAR,Win,27,13,4,66,interception,Kenny Moore,2023
+27,27,Colts,2023-11-12,NWE,Win,10,6,1,1,rush,Jonathan Taylor,2023
+28,28,Colts,2023-11-26,TAM,Win,27,20,1,4,rush,Jonathan Taylor,2023
+29,29,Colts,2023-11-26,TAM,Win,27,20,2,2,rush,Gardner Minshew II,2023
+30,30,Colts,2023-11-26,TAM,Win,27,20,4,1,rush,Jonathan Taylor,2023
+31,31,Colts,2023-12-03,TEN,Win,31,28,1,36,pass,Alec Pierce,2023
+32,32,Colts,2023-12-03,TEN,Win,31,28,3,18,blocked punt,Grant Stuard,2023
+33,33,Colts,2023-12-03,TEN,Win,31,28,5,4,pass,Michael Pittman Jr.,2023
+34,34,Colts,2023-12-10,CIN,Loss,14,34,2,2,pass,Mo Alie-Cox,2023
+35,35,Colts,2023-12-10,CIN,Loss,14,34,2,36,interception,Ronnie Harrison,2023
+36,36,Colts,2023-12-16,PIT,Win,30,13,2,16,pass,Zack Moss,2023
+37,37,Colts,2023-12-16,PIT,Win,30,13,2,14,pass,D.J. Montgomery,2023
+38,38,Colts,2023-12-16,PIT,Win,30,13,3,18,pass,Mo Alie-Cox,2023
+39,39,Colts,2023-12-24,ATL,Loss,10,29,1,1,rush,Jonathan Taylor,2023
+40,40,Colts,2023-12-31,LVR,Win,23,20,1,5,rush,Jonathan Taylor,2023
+41,41,Colts,2023-12-31,LVR,Win,23,20,2,58,pass,Alec Pierce,2023
+42,42,Colts,2024-01-06,HOU,Loss,19,23,3,49,rush,Jonathan Taylor,2023

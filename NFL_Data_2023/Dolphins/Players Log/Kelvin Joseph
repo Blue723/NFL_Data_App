@@ -1,7 +1,7 @@
-,Rk,Date,G#,Week,Age,Tm,Unnamed: 6_level_1,Opp,Result,Int,Tgt,Cmp,Cmp%,Yds,Yds/Cmp,Yds/Tgt,TD,Rat,DADOT,Air,YAC,Bltz,Hrry,QBKD,Sk,Prss,Comb,MTkl,MTkl%,Year
-0,1.0,2023-09-10,1.0,1.0,22.303,MIA,@,LAC,W 36-34,0,0,0,,0,,,0,,,0,0,0,0,0,,0,,0,,2023
-1,2.0,2023-09-24,3.0,3.0,22.317,MIA,,DEN,W 70-20,0,1,1,100.0%,5,5.0,5.0,0,87.5,5.0,5,0,0,0,0,0.0,0,1.0,0,0.0%,2023
-2,3.0,2023-10-01,4.0,4.0,22.324,MIA,@,BUF,L 20-48,0,1,1,100.0%,34,34.0,34.0,0,118.7,30.0,30,4,0,0,0,0.0,0,1.0,0,0.0%,2023
-3,4.0,2023-10-29,8.0,8.0,22.352,MIA,,NWE,W 31-17,0,0,0,,0,,,0,,,0,0,0,0,0,,0,,0,,2023
-4,5.0,2023-12-24,15.0,16.0,23.043,SEA,@,TEN,W 20-17,0,0,0,,0,,,0,,,0,0,0,0,0,0.0,0,1.0,0,0.0%,2023
-5,,5 Games,,,,,,,4-1-0,0,2,2,100.0%,39,19.5,19.5,0,118.7,17.5,35,4,0,0,0,0.0,0,3.0,0,0.0%,2023
+,Rk,Date,G#,Week,Age,Tm,Unnamed: 6_level_1,Opp,Result,Int,Tgt,Cmp,Cmp%,Yds,Yds/Cmp,Yds/Tgt,TD,Rat,DADOT,Air,YAC,Bltz,Hrry,QBKD,Sk,Prss,Comb,MTkl,MTkl%,Year,Position,Player_Name,Team
+0,1.0,2023-09-10,1.0,1.0,22.303,MIA,@,LAC,W 36-34,0,0,0,,0,,,0,,,0,0,0,0,0,,0,,0,,2023,Left Cornerback,Kelvin Joseph,Dolphins
+1,2.0,2023-09-24,3.0,3.0,22.317,MIA,,DEN,W 70-20,0,1,1,100.0%,5,5.0,5.0,0,87.5,5.0,5,0,0,0,0,0.0,0,1.0,0,0.0%,2023,Left Cornerback,Kelvin Joseph,Dolphins
+2,3.0,2023-10-01,4.0,4.0,22.324,MIA,@,BUF,L 20-48,0,1,1,100.0%,34,34.0,34.0,0,118.7,30.0,30,4,0,0,0,0.0,0,1.0,0,0.0%,2023,Left Cornerback,Kelvin Joseph,Dolphins
+3,4.0,2023-10-29,8.0,8.0,22.352,MIA,,NWE,W 31-17,0,0,0,,0,,,0,,,0,0,0,0,0,,0,,0,,2023,Left Cornerback,Kelvin Joseph,Dolphins
+4,5.0,2023-12-24,15.0,16.0,23.043,SEA,@,TEN,W 20-17,0,0,0,,0,,,0,,,0,0,0,0,0,0.0,0,1.0,0,0.0%,2023,Left Cornerback,Kelvin Joseph,Dolphins
+5,,5 Games,,,,,,,4-1-0,0,2,2,100.0%,39,19.5,19.5,0,118.7,17.5,35,4,0,0,0,0.0,0,3.0,0,0.0%,2023,Left Cornerback,Kelvin Joseph,Dolphins

@@ -1,0 +1,18 @@
+,Week,Day,Date,Boxscore,Win/Loss,Overtime,Home/Away,Opponent,Team Score,Opponenet Score,Passing Completion,Passing Attempts,Passing Yards,Passing Touchdowns,Passing Interceptions,Passing Sacks,Sack Yards,Passing Yards/Attempts,Net Yards/Attempts,Passing Completion Per.,Passing Rate,Rushing Attempts,Rushing Yards,Rushing Yards/Attempts,Rushing Touchdown,Field Goals Made,Field Goals Attempts,Extra Points Made,Extra Point Attempts,Punts,Total Punt Yards,Third Down Conversions,Third Down Attempts,Fourth Down Conversions,Fourth Down Attemtps,Time of Possesion,Year,Team
+0,1,Sun,2023-09-10,boxscore,Win,0.0,Away,Giants,40,0,13,25,143,0,0,0,0,5.7,5.7,52.0,69.2,30,122,4.1,3,2,2,4,5,3,146,6,13,1,2,26:32,2023,Cowboys
+1,2,Sun,2023-09-17,boxscore,Win,0.0,Home,Jets,30,10,31,38,248,2,0,1,7,6.7,6.4,81.6,111.4,44,134,3.0,0,5,5,1,1,3,155,9,18,0,0,42:15,2023,Cowboys
+2,3,Sun,2023-09-24,boxscore,Loss,0.0,Away,Cardinals,16,28,25,40,231,1,1,2,18,6.2,5.5,62.5,76.1,33,185,5.6,0,3,3,1,1,2,102,9,16,0,1,34:33,2023,Cowboys
+3,4,Sun,2023-10-01,boxscore,Win,0.0,Home,Patriots,38,3,30,36,253,1,0,3,28,7.8,6.5,83.3,105.2,30,124,4.1,1,3,3,3,3,2,112,8,15,0,1,35:09,2023,Cowboys
+4,5,Sun,2023-10-08,boxscore,Loss,0.0,Away,49ers,10,42,16,26,140,1,3,4,21,6.2,4.7,61.5,49.0,19,57,3.0,0,1,1,1,1,5,254,4,11,0,1,22:55,2023,Cowboys
+5,6,Mon,2023-10-16,boxscore,Win,0.0,Away,Chargers,20,17,21,30,246,1,0,5,26,9.1,7.0,70.0,105.7,26,96,3.7,1,2,2,2,2,4,209,5,13,1,2,29:52,2023,Cowboys
+6,8,Sun,2023-10-29,boxscore,Win,0.0,Home,Rams,43,20,27,34,285,4,1,3,22,9.0,7.7,79.4,128.6,26,102,3.9,0,2,2,5,5,2,93,6,12,1,1,35:28,2023,Cowboys
+7,9,Sun,2023-11-05,boxscore,Loss,0.0,Away,Eagles,23,28,29,44,333,3,0,5,41,8.5,6.8,65.9,111.3,21,73,3.5,0,1,1,2,2,2,82,6,15,3,5,29:42,2023,Cowboys
+8,10,Sun,2023-11-12,boxscore,Win,0.0,Home,Giants,49,17,33,44,472,4,2,0,0,10.7,10.7,75.0,120.6,33,168,5.1,3,0,0,7,7,2,93,6,12,1,2,37:21,2023,Cowboys
+9,11,Sun,2023-11-19,boxscore,Win,0.0,Away,Panthers,33,10,27,41,204,2,0,0,0,5.0,5.0,65.9,94.0,27,107,4.0,1,2,2,3,4,3,176,7,16,0,0,31:21,2023,Cowboys
+10,12,Thu,2023-11-23,boxscore,Win,0.0,Home,Commanders,45,10,22,32,331,4,0,0,0,10.3,10.3,68.8,142.1,18,100,5.6,1,1,1,4,5,3,158,6,10,0,0,23:06,2023,Cowboys
+11,13,Thu,2023-11-30,boxscore,Win,0.0,Home,Seahawks,41,35,29,41,275,3,0,4,24,7.3,6.1,70.7,113.4,34,136,4.0,1,4,4,3,3,0,0,8,14,1,2,36:27,2023,Cowboys
+12,14,Sun,2023-12-10,boxscore,Win,0.0,Home,Eagles,33,13,24,39,256,2,0,3,15,6.9,6.1,61.5,97.8,32,138,4.3,1,4,4,3,3,1,48,9,16,1,1,36:36,2023,Cowboys
+13,15,Sun,2023-12-17,boxscore,Loss,0.0,Away,Bills,10,31,21,34,106,0,1,3,28,3.9,2.9,61.8,54.3,20,89,4.5,1,1,1,1,1,5,275,5,13,1,2,24:55,2023,Cowboys
+14,16,Sun,2023-12-24,boxscore,Loss,0.0,Away,Dolphins,20,22,20,32,242,2,0,4,11,7.9,6.7,62.5,106.5,25,97,3.9,0,2,2,2,2,3,178,4,12,2,2,31:02,2023,Cowboys
+15,17,Sat,2023-12-30,boxscore,Win,0.0,Home,Lions,20,19,26,38,323,2,1,3,22,9.1,7.9,68.4,101.1,21,61,2.9,0,2,2,2,2,4,181,7,14,0,0,29:24,2023,Cowboys
+16,18,Sun,2024-01-07,boxscore,Win,0.0,Away,Commanders,38,10,34,40,309,4,1,0,0,7.7,7.7,85.0,121.8,29,131,4.5,1,1,3,5,5,0,0,6,10,1,1,33:55,2023,Cowboys

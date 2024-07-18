@@ -1,27 +1,27 @@
-,Rank,Team,Date,Opponent,Win/Loss,Home_Score,Opponenet_Score,Quarter,Distance,Type,Detail
-1,1,Ravens,2023-09-17,CIN,Win,27,24,2,81,punt,Charlie Jones
-2,2,Ravens,2023-09-17,CIN,Win,27,24,3,3,pass,Tee Higgins
-3,3,Ravens,2023-09-17,CIN,Win,27,24,4,4,pass,Tee Higgins
-4,4,Ravens,2023-09-24,IND,Loss,19,22,2,17,pass,Zack Moss
-5,5,Ravens,2023-10-08,PIT,Loss,10,17,4,41,pass,George Pickens
-6,6,Ravens,2023-10-15,TEN,Win,24,16,3,15,rush,Derrick Henry
-7,7,Ravens,2023-10-22,DET,Win,38,6,4,21,rush,Jahmyr Gibbs
-8,8,Ravens,2023-10-29,ARI,Win,31,24,1,1,rush,Joshua Dobbs
-9,9,Ravens,2023-10-29,ARI,Win,31,24,4,17,pass,Trey McBride
-10,10,Ravens,2023-10-29,ARI,Win,31,24,4,1,pass,Marquise Brown
-11,11,Ravens,2023-11-12,CLE,Loss,31,33,3,3,rush,Kareem Hunt
-12,12,Ravens,2023-11-12,CLE,Loss,31,33,4,10,pass,Elijah Moore
-13,13,Ravens,2023-11-12,CLE,Loss,31,33,4,34,interception,Greg Newsome II
-14,14,Ravens,2023-11-16,CIN,Win,34,20,2,4,pass,Joe Mixon
-15,15,Ravens,2023-11-16,CIN,Win,34,20,4,2,pass,Ja'Marr Chase
-16,16,Ravens,2023-11-26,LAC,Win,20,10,4,3,pass,Gerald Everett
-17,17,Ravens,2023-12-10,LAR,Win,37,31,2,6,pass,Cooper Kupp
-18,18,Ravens,2023-12-10,LAR,Win,37,31,2,7,pass,Davis Allen
-19,19,Ravens,2023-12-10,LAR,Win,37,31,4,5,pass,Demarcus Robinson
-20,20,Ravens,2023-12-17,JAX,Win,23,7,3,65,pass,Jamal Agnew
-21,21,Ravens,2023-12-25,SFO,Win,33,19,2,9,rush,Christian McCaffrey
-22,22,Ravens,2023-12-25,SFO,Win,33,19,4,12,pass,Ronnie Bell
-23,23,Ravens,2023-12-31,MIA,Win,56,19,1,8,pass,Cedrick Wilson Jr.
-24,24,Ravens,2023-12-31,MIA,Win,56,19,4,1,pass,De'Von Achane
-25,25,Ravens,2024-01-06,PIT,Loss,10,17,1,6,rush,Najee Harris
-26,26,Ravens,2024-01-06,PIT,Loss,10,17,4,71,pass,Diontae Johnson
+,Rank,Team,Date,Opponent,Win/Loss,Home_Score,Opponenet_Score,Quarter,Distance,Type,Detail,Year
+1,1,Ravens,2023-09-17,CIN,Win,27,24,2,81,punt,Charlie Jones,2023
+2,2,Ravens,2023-09-17,CIN,Win,27,24,3,3,pass,Tee Higgins,2023
+3,3,Ravens,2023-09-17,CIN,Win,27,24,4,4,pass,Tee Higgins,2023
+4,4,Ravens,2023-09-24,IND,Loss,19,22,2,17,pass,Zack Moss,2023
+5,5,Ravens,2023-10-08,PIT,Loss,10,17,4,41,pass,George Pickens,2023
+6,6,Ravens,2023-10-15,TEN,Win,24,16,3,15,rush,Derrick Henry,2023
+7,7,Ravens,2023-10-22,DET,Win,38,6,4,21,rush,Jahmyr Gibbs,2023
+8,8,Ravens,2023-10-29,ARI,Win,31,24,1,1,rush,Joshua Dobbs,2023
+9,9,Ravens,2023-10-29,ARI,Win,31,24,4,17,pass,Trey McBride,2023
+10,10,Ravens,2023-10-29,ARI,Win,31,24,4,1,pass,Marquise Brown,2023
+11,11,Ravens,2023-11-12,CLE,Loss,31,33,3,3,rush,Kareem Hunt,2023
+12,12,Ravens,2023-11-12,CLE,Loss,31,33,4,10,pass,Elijah Moore,2023
+13,13,Ravens,2023-11-12,CLE,Loss,31,33,4,34,interception,Greg Newsome II,2023
+14,14,Ravens,2023-11-16,CIN,Win,34,20,2,4,pass,Joe Mixon,2023
+15,15,Ravens,2023-11-16,CIN,Win,34,20,4,2,pass,Ja'Marr Chase,2023
+16,16,Ravens,2023-11-26,LAC,Win,20,10,4,3,pass,Gerald Everett,2023
+17,17,Ravens,2023-12-10,LAR,Win,37,31,2,6,pass,Cooper Kupp,2023
+18,18,Ravens,2023-12-10,LAR,Win,37,31,2,7,pass,Davis Allen,2023
+19,19,Ravens,2023-12-10,LAR,Win,37,31,4,5,pass,Demarcus Robinson,2023
+20,20,Ravens,2023-12-17,JAX,Win,23,7,3,65,pass,Jamal Agnew,2023
+21,21,Ravens,2023-12-25,SFO,Win,33,19,2,9,rush,Christian McCaffrey,2023
+22,22,Ravens,2023-12-25,SFO,Win,33,19,4,12,pass,Ronnie Bell,2023
+23,23,Ravens,2023-12-31,MIA,Win,56,19,1,8,pass,Cedrick Wilson Jr.,2023
+24,24,Ravens,2023-12-31,MIA,Win,56,19,4,1,pass,De'Von Achane,2023
+25,25,Ravens,2024-01-06,PIT,Loss,10,17,1,6,rush,Najee Harris,2023
+26,26,Ravens,2024-01-06,PIT,Loss,10,17,4,71,pass,Diontae Johnson,2023

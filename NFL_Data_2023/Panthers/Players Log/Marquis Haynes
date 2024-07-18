@@ -1,9 +1,9 @@
-,Rk,Date,G#,Week,Age,Tm,Unnamed: 6_level_1,Opp,Result,Int,Tgt,Cmp,Cmp%,Yds,Yds/Cmp,Yds/Tgt,TD,Rat,DADOT,Air,YAC,Bltz,Hrry,QBKD,Sk,Prss,Comb,MTkl,MTkl%,Year
-0,1.0,2023-11-09,9.0,10.0,29.328,CAR,@,CHI,L 13-16,0,0,0,,0,,,0,,,0,0,0,0,0,0.0,0,1,0,0.0%,2023
-1,2.0,2023-11-26,11.0,12.0,29.345,CAR,@,TEN,L 10-17,0,0,0,,0,,,0,,,0,0,0,0,1,0.0,1,1,1,50.0%,2023
-2,3.0,2023-12-03,12.0,13.0,29.352,CAR,@,TAM,L 18-21,0,1,1,100.0%,20,20.0,20.0,0,118.7,2.0,2,18,0,0,0,1.0,1,7,0,0.0%,2023
-3,4.0,2023-12-10,13.0,14.0,29.359,CAR,@,NOR,L 6-28,0,0,0,,0,,,0,,,0,0,0,0,0,0.0,0,1,0,0.0%,2023
-4,5.0,2023-12-17,14.0,15.0,30.001,CAR,,ATL,W 9-7,0,0,0,,0,,,0,,,0,0,0,0,0,0.0,0,1,0,0.0%,2023
-5,6.0,2023-12-24,15.0,16.0,30.008,CAR,,GNB,L 30-33,0,0,0,,0,,,0,,,0,0,0,0,0,0.0,0,1,0,0.0%,2023
-6,7.0,2023-12-31,16.0,17.0,30.015,CAR,@,JAX,L 0-26,0,0,0,,0,,,0,,,0,0,0,0,0,0.0,0,4,0,0.0%,2023
-7,,7 Games,,,,,,,1-6-0,0,1,1,100.0%,20,20.0,20.0,0,118.7,2.0,2,18,0,0,1,1.0,2,16,1,5.9%,2023
+,Rk,Date,G#,Week,Age,Tm,Unnamed: 6_level_1,Opp,Result,Int,Tgt,Cmp,Cmp%,Yds,Yds/Cmp,Yds/Tgt,TD,Rat,DADOT,Air,YAC,Bltz,Hrry,QBKD,Sk,Prss,Comb,MTkl,MTkl%,Year,Position,Player_Name,Team
+0,1.0,2023-11-09,9.0,10.0,29.328,CAR,@,CHI,L 13-16,0,0,0,,0,,,0,,,0,0,0,0,0,0.0,0,1,0,0.0%,2023,Left Outside Linebacker,Marquis Haynes,Panthers
+1,2.0,2023-11-26,11.0,12.0,29.345,CAR,@,TEN,L 10-17,0,0,0,,0,,,0,,,0,0,0,0,1,0.0,1,1,1,50.0%,2023,Left Outside Linebacker,Marquis Haynes,Panthers
+2,3.0,2023-12-03,12.0,13.0,29.352,CAR,@,TAM,L 18-21,0,1,1,100.0%,20,20.0,20.0,0,118.7,2.0,2,18,0,0,0,1.0,1,7,0,0.0%,2023,Left Outside Linebacker,Marquis Haynes,Panthers
+3,4.0,2023-12-10,13.0,14.0,29.359,CAR,@,NOR,L 6-28,0,0,0,,0,,,0,,,0,0,0,0,0,0.0,0,1,0,0.0%,2023,Left Outside Linebacker,Marquis Haynes,Panthers
+4,5.0,2023-12-17,14.0,15.0,30.001,CAR,,ATL,W 9-7,0,0,0,,0,,,0,,,0,0,0,0,0,0.0,0,1,0,0.0%,2023,Left Outside Linebacker,Marquis Haynes,Panthers
+5,6.0,2023-12-24,15.0,16.0,30.008,CAR,,GNB,L 30-33,0,0,0,,0,,,0,,,0,0,0,0,0,0.0,0,1,0,0.0%,2023,Left Outside Linebacker,Marquis Haynes,Panthers
+6,7.0,2023-12-31,16.0,17.0,30.015,CAR,@,JAX,L 0-26,0,0,0,,0,,,0,,,0,0,0,0,0,0.0,0,4,0,0.0%,2023,Left Outside Linebacker,Marquis Haynes,Panthers
+7,,7 Games,,,,,,,1-6-0,0,1,1,100.0%,20,20.0,20.0,0,118.7,2.0,2,18,0,0,1,1.0,2,16,1,5.9%,2023,Left Outside Linebacker,Marquis Haynes,Panthers

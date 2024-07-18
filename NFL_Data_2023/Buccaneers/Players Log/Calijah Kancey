@@ -1,12 +1,12 @@
-,Rk,Date,G#,Week,Age,Tm,Home/Away,Opp,Result,Int,Tgt,Cmp,Cmp%,Yds,Yds/Cmp,Yds/Tgt,TD,Rat,DADOT,Air,YAC,Bltz,Hrry,QBKD,Sk,Prss,Comb,MTkl,MTkl%,Year
-0,1.0,2023-09-10,1.0,1.0,22.193,TAM,MIN,W 20-17,0,0,0,,0,,,0,,,0,0,0,0,1,0.0,1,0.0,0,,2023,Away
-1,2.0,2023-10-15,5.0,6.0,22.228,TAM,DET,L 6-20,0,0,0,,0,,,0,,,0,0,0,2,0,1.0,3,3.0,0,0.0%,2023,Home
-2,3.0,2023-10-22,6.0,7.0,22.235,TAM,ATL,L 13-16,0,0,0,,0,,,0,,,0,0,0,0,0,0.0,0,1.0,0,0.0%,2023,Home
-3,4.0,2023-10-26,7.0,8.0,22.239,TAM,BUF,L 18-24,0,0,0,,0,,,0,,,0,0,0,0,0,0.0,0,0.0,1,100.0%,2023,Away
-4,5.0,2023-11-05,8.0,9.0,22.249,TAM,HOU,L 37-39,0,1,1,100.0%,-1,-1.0,-1.0,0,79.2,-1.0,-1,0,0,1,0,1.0,2,4.0,0,0.0%,2023,Away
-5,6.0,2023-11-12,9.0,10.0,22.256,TAM,TEN,W 20-6,0,0,0,,0,,,0,,,0,0,0,0,2,0.0,2,3.0,0,0.0%,2023,Home
-6,7.0,2023-11-19,10.0,11.0,22.263,TAM,SFO,L 14-27,0,0,0,,0,,,0,,,0,0,0,0,0,,0,,0,,2023,Away
-7,8.0,2023-11-26,11.0,12.0,22.27,TAM,IND,L 20-27,0,0,0,,0,,,0,,,0,0,0,0,0,1.0,1,3.0,0,0.0%,2023,Away
-8,9.0,2023-12-03,12.0,13.0,22.277,TAM,CAR,W 21-18,0,0,0,,0,,,0,,,0,0,0,0,2,0.0,2,2.0,0,0.0%,2023,Home
-9,10.0,2023-12-10,13.0,14.0,22.284,TAM,ATL,W 29-25,0,0,0,,0,,,0,,,0,0,0,0,0,1.0,1,3.0,0,0.0%,2023,Away
-10,,10 Games,,,,,,4-6-0,0,1,1,100.0%,-1,-1.0,-1.0,0,79.2,-1.0,-1,0,0,3,5,4.0,12,19.0,1,5.0%,2023,Home
+,Rk,Date,G#,Week,Age,Tm,Home/Away,Opp,Result,Int,Tgt,Cmp,Cmp%,Yds,Yds/Cmp,Yds/Tgt,TD,Rat,DADOT,Air,YAC,Bltz,Hrry,QBKD,Sk,Prss,Comb,MTkl,MTkl%,Year,Position,Player_Name,Team
+0,1.0,2023-09-10,1.0,1.0,22.193,TAM,MIN,W 20-17,0,0,0,,0,,,0,,,0,0,0,0,1,0.0,1,0.0,0,,2023,Away,Defensive Lineman,Calijah Kancey,Buccaneers
+1,2.0,2023-10-15,5.0,6.0,22.228,TAM,DET,L 6-20,0,0,0,,0,,,0,,,0,0,0,2,0,1.0,3,3.0,0,0.0%,2023,Home,Defensive Lineman,Calijah Kancey,Buccaneers
+2,3.0,2023-10-22,6.0,7.0,22.235,TAM,ATL,L 13-16,0,0,0,,0,,,0,,,0,0,0,0,0,0.0,0,1.0,0,0.0%,2023,Home,Defensive Lineman,Calijah Kancey,Buccaneers
+3,4.0,2023-10-26,7.0,8.0,22.239,TAM,BUF,L 18-24,0,0,0,,0,,,0,,,0,0,0,0,0,0.0,0,0.0,1,100.0%,2023,Away,Defensive Lineman,Calijah Kancey,Buccaneers
+4,5.0,2023-11-05,8.0,9.0,22.249,TAM,HOU,L 37-39,0,1,1,100.0%,-1,-1.0,-1.0,0,79.2,-1.0,-1,0,0,1,0,1.0,2,4.0,0,0.0%,2023,Away,Defensive Lineman,Calijah Kancey,Buccaneers
+5,6.0,2023-11-12,9.0,10.0,22.256,TAM,TEN,W 20-6,0,0,0,,0,,,0,,,0,0,0,0,2,0.0,2,3.0,0,0.0%,2023,Home,Defensive Lineman,Calijah Kancey,Buccaneers
+6,7.0,2023-11-19,10.0,11.0,22.263,TAM,SFO,L 14-27,0,0,0,,0,,,0,,,0,0,0,0,0,,0,,0,,2023,Away,Defensive Lineman,Calijah Kancey,Buccaneers
+7,8.0,2023-11-26,11.0,12.0,22.27,TAM,IND,L 20-27,0,0,0,,0,,,0,,,0,0,0,0,0,1.0,1,3.0,0,0.0%,2023,Away,Defensive Lineman,Calijah Kancey,Buccaneers
+8,9.0,2023-12-03,12.0,13.0,22.277,TAM,CAR,W 21-18,0,0,0,,0,,,0,,,0,0,0,0,2,0.0,2,2.0,0,0.0%,2023,Home,Defensive Lineman,Calijah Kancey,Buccaneers
+9,10.0,2023-12-10,13.0,14.0,22.284,TAM,ATL,W 29-25,0,0,0,,0,,,0,,,0,0,0,0,0,1.0,1,3.0,0,0.0%,2023,Away,Defensive Lineman,Calijah Kancey,Buccaneers
+10,,10 Games,,,,,,4-6-0,0,1,1,100.0%,-1,-1.0,-1.0,0,79.2,-1.0,-1,0,0,3,5,4.0,12,19.0,1,5.0%,2023,Home,Defensive Lineman,Calijah Kancey,Buccaneers

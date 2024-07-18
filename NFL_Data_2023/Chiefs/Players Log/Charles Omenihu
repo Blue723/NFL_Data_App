@@ -1,9 +1,9 @@
-,Rk,Date,G#,Week,Age,Tm,Home/Away,Opp,Result,Int,Tgt,Cmp,Cmp%,Yds,Yds/Cmp,Yds/Tgt,TD,Rat,DADOT,Air,YAC,Bltz,Hrry,QBKD,Sk,Prss,Comb,MTkl,MTkl%,Year
-0,1.0,2023-10-22,7.0,7.0,26.063,KAN,LAC,W 31-17,0,0,0,,0,,,0,,,0,0,0,0,1,1.0,2,2,0,0.0%,2023,Home
-1,2.0,2023-10-29,8.0,8.0,26.07,KAN,DEN,L 9-24,0,0,0,,0,,,0,,,0,0,0,0,0,0.5,1,5,0,0.0%,2023,Away
-2,3.0,2023-11-05,9.0,9.0,26.077,KAN,MIA,W 21-14,0,1,1,100.0%,10,10.0,10.0,0,108.3,-3.0,-3,13,0,0,1,0.0,1,2,0,0.0%,2023,Home
-3,4.0,2023-11-20,10.0,11.0,26.092,KAN,PHI,L 17-21,0,0,0,,0,,,0,,,0,0,0,1,0,0.0,1,1,1,50.0%,2023,Home
-4,5.0,2023-11-26,11.0,12.0,26.098,KAN,LVR,W 31-17,0,1,0,0.0%,0,,0.0,0,39.6,0.0,0,0,0,0,0,0.0,0,2,0,0.0%,2023,Away
-5,6.0,2023-12-03,12.0,13.0,26.105,KAN,GNB,L 19-27,0,0,0,,0,,,0,,,0,0,0,0,0,1.0,1,3,0,0.0%,2023,Away
-6,7.0,2023-12-10,13.0,14.0,26.112,KAN,BUF,L 17-20,0,0,0,,0,,,0,,,0,0,0,1,0,1.0,2,3,0,0.0%,2023,Home
-7,,7 Games,,,,,,3-4-0,0,2,1,50.0%,10,10.0,5.0,0,64.6,-1.5,-3,13,0,2,2,3.5,8,18,1,5.3%,2023,Home
+,Rk,Date,G#,Week,Age,Tm,Home/Away,Opp,Result,Int,Tgt,Cmp,Cmp%,Yds,Yds/Cmp,Yds/Tgt,TD,Rat,DADOT,Air,YAC,Bltz,Hrry,QBKD,Sk,Prss,Comb,MTkl,MTkl%,Year,Position,Player_Name,Team
+0,1.0,2023-10-22,7.0,7.0,26.063,KAN,LAC,W 31-17,0,0,0,,0,,,0,,,0,0,0,0,1,1.0,2,2,0,0.0%,2023,Home,Left Defensive End,Charles Omenihu,Chiefs
+1,2.0,2023-10-29,8.0,8.0,26.07,KAN,DEN,L 9-24,0,0,0,,0,,,0,,,0,0,0,0,0,0.5,1,5,0,0.0%,2023,Away,Left Defensive End,Charles Omenihu,Chiefs
+2,3.0,2023-11-05,9.0,9.0,26.077,KAN,MIA,W 21-14,0,1,1,100.0%,10,10.0,10.0,0,108.3,-3.0,-3,13,0,0,1,0.0,1,2,0,0.0%,2023,Home,Left Defensive End,Charles Omenihu,Chiefs
+3,4.0,2023-11-20,10.0,11.0,26.092,KAN,PHI,L 17-21,0,0,0,,0,,,0,,,0,0,0,1,0,0.0,1,1,1,50.0%,2023,Home,Left Defensive End,Charles Omenihu,Chiefs
+4,5.0,2023-11-26,11.0,12.0,26.098,KAN,LVR,W 31-17,0,1,0,0.0%,0,,0.0,0,39.6,0.0,0,0,0,0,0,0.0,0,2,0,0.0%,2023,Away,Left Defensive End,Charles Omenihu,Chiefs
+5,6.0,2023-12-03,12.0,13.0,26.105,KAN,GNB,L 19-27,0,0,0,,0,,,0,,,0,0,0,0,0,1.0,1,3,0,0.0%,2023,Away,Left Defensive End,Charles Omenihu,Chiefs
+6,7.0,2023-12-10,13.0,14.0,26.112,KAN,BUF,L 17-20,0,0,0,,0,,,0,,,0,0,0,1,0,1.0,2,3,0,0.0%,2023,Home,Left Defensive End,Charles Omenihu,Chiefs
+7,,7 Games,,,,,,3-4-0,0,2,1,50.0%,10,10.0,5.0,0,64.6,-1.5,-3,13,0,2,2,3.5,8,18,1,5.3%,2023,Home,Left Defensive End,Charles Omenihu,Chiefs

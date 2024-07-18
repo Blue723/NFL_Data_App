@@ -1,0 +1,18 @@
+,Week,Day,Date,Boxscore,Win/Loss,Overtime,Home/Away,Opponent,Team Score,Opponenet Score,Passing Completion,Passing Attempts,Passing Yards,Passing Touchdowns,Passing Interceptions,Passing Sacks,Sack Yards,Passing Yards/Attempts,Net Yards/Attempts,Passing Completion Per.,Passing Rate,Rushing Attempts,Rushing Yards,Rushing Yards/Attempts,Rushing Touchdown,Field Goals Made,Field Goals Attempts,Extra Points Made,Extra Point Attempts,Punts,Total Punt Yards,Third Down Conversions,Third Down Attempts,Fourth Down Conversions,Fourth Down Attemtps,Time of Possesion,Year,Team
+0,1,Sun,2023-09-10,boxscore,Win,0.0,Away,Steelers,30,7,19,29,203,2,0,3,17,7.6,6.3,65.5,108.8,34,188,5.5,1,3,3,3,3,3,134,6,13,1,1,37:23,2023,49ers
+1,2,Sun,2023-09-17,boxscore,Win,0.0,Away,Rams,30,23,17,25,206,0,0,1,0,8.2,7.9,68.0,93.1,28,159,5.7,3,3,3,3,3,4,197,2,9,0,0,26:49,2023,49ers
+2,3,Thu,2023-09-21,boxscore,Win,0.0,Home,Giants,30,12,25,37,300,2,0,2,10,8.4,7.7,67.6,110.2,39,141,3.6,1,3,3,3,3,3,128,9,16,0,0,39:10,2023,49ers
+3,4,Sun,2023-10-01,boxscore,Win,0.0,Home,Cardinals,35,16,20,21,271,1,0,1,12,13.5,12.3,95.2,134.6,31,124,4.0,4,0,0,5,5,1,45,3,5,1,1,29:14,2023,49ers
+4,5,Sun,2023-10-08,boxscore,Win,0.0,Home,Cowboys,42,10,18,25,251,4,0,1,2,10.1,9.7,72.0,143.5,41,170,4.1,2,0,0,6,6,4,187,6,11,0,1,37:05,2023,49ers
+5,6,Sun,2023-10-15,boxscore,Loss,0.0,Away,Browns,17,19,12,27,107,1,1,3,18,4.6,3.6,44.4,52.5,25,108,4.3,1,1,3,2,2,6,314,3,12,0,0,26:57,2023,49ers
+6,7,Mon,2023-10-23,boxscore,Loss,0.0,Away,Vikings,17,22,21,30,260,1,2,1,12,9.1,8.4,70.0,79.9,22,65,3.0,1,1,2,2,2,1,62,5,9,1,1,25:04,2023,49ers
+7,8,Sun,2023-10-29,boxscore,Loss,0.0,Home,Bengals,17,31,22,31,347,1,2,2,18,11.8,10.5,71.0,91.7,23,113,4.9,1,1,1,2,2,3,151,5,9,0,0,28:37,2023,49ers
+8,10,Sun,2023-11-12,boxscore,Win,0.0,Away,Jaguars,34,3,20,28,293,3,0,2,9,10.8,9.8,71.4,140.9,30,144,4.8,1,2,2,4,4,3,141,4,12,1,2,33:11,2023,49ers
+9,11,Sun,2023-11-19,boxscore,Win,0.0,Home,Buccaneers,27,14,21,25,305,3,0,4,28,13.3,10.5,84.0,157.1,30,115,3.8,0,2,2,3,3,3,153,4,10,0,1,30:51,2023,49ers
+10,12,Thu,2023-11-23,boxscore,Win,0.0,Away,Seahawks,31,13,21,31,208,1,1,1,1,6.7,6.5,67.7,83.8,33,169,5.1,3,1,1,4,4,5,199,5,11,0,0,35:30,2023,49ers
+11,13,Sun,2023-12-03,boxscore,Win,0.0,Away,Eagles,42,19,19,27,310,4,0,2,4,11.6,10.7,70.4,148.1,28,146,5.2,2,0,0,6,6,2,95,8,11,1,1,28:21,2023,49ers
+12,14,Sun,2023-12-10,boxscore,Win,0.0,Home,Seahawks,28,16,19,27,354,2,1,3,14,13.6,11.8,70.4,122.1,23,173,7.5,2,0,0,4,4,5,246,6,11,0,0,29:15,2023,49ers
+13,15,Sun,2023-12-17,boxscore,Win,0.0,Away,Cardinals,45,29,18,28,262,4,0,0,0,9.4,9.4,64.3,134.2,26,144,5.5,1,1,1,6,6,2,96,4,7,0,0,25:49,2023,49ers
+14,16,Mon,2023-12-25,boxscore,Loss,0.0,Home,Ravens,19,33,26,46,308,1,5,4,28,7.3,6.2,56.5,44.7,18,121,6.7,1,1,1,2,2,2,112,6,14,1,3,28:46,2023,49ers
+15,17,Sun,2023-12-31,boxscore,Win,0.0,Away,Commanders,27,10,22,28,224,2,0,1,6,8.2,7.7,78.6,123.8,39,184,4.7,1,2,2,3,3,2,76,4,9,0,1,38:13,2023,49ers
+16,18,Sun,2024-01-07,boxscore,Loss,0.0,Home,Rams,20,21,16,26,175,1,0,3,14,7.3,6.0,61.5,94.2,29,125,4.3,2,0,1,2,3,3,144,5,10,1,1,29:00,2023,49ers

@@ -1,38 +1,38 @@
-,Rank,Team,Date,Opponent,Win/Loss,Home_Score,Opponenet_Score,Quarter,Distance,Type,Detail
-1,1,Seahawks,2023-09-10,LAR,Loss,13,30,2,10,pass,D.K. Metcalf
-2,2,Seahawks,2023-09-17,DET,Win,37,31,1,1,rush,Kenneth Walker III
-3,3,Seahawks,2023-09-17,DET,Win,37,31,3,3,rush,Kenneth Walker III
-4,4,Seahawks,2023-09-17,DET,Win,37,31,4,3,pass,Tyler Lockett
-5,5,Seahawks,2023-09-17,DET,Win,37,31,4,40,interception,Tre Brown
-6,6,Seahawks,2023-09-17,DET,Win,37,31,5,6,pass,Tyler Lockett
-7,7,Seahawks,2023-09-24,CAR,Win,37,27,3,1,rush,Kenneth Walker III
-8,8,Seahawks,2023-09-24,CAR,Win,37,27,4,7,rush,Kenneth Walker III
-9,9,Seahawks,2023-09-24,CAR,Win,37,27,4,5,pass,Jake Bobo
-10,10,Seahawks,2023-10-02,NYG,Win,24,3,1,6,pass,D.K. Metcalf
-11,11,Seahawks,2023-10-02,NYG,Win,24,3,2,1,rush,Kenneth Walker III
-12,12,Seahawks,2023-10-02,NYG,Win,24,3,3,97,interception,Devon Witherspoon
-13,13,Seahawks,2023-10-15,CIN,Loss,13,17,1,1,rush,Kenneth Walker III
-14,14,Seahawks,2023-10-22,ARI,Win,20,10,1,28,pass,Jaxon Smith-Njigba
-15,15,Seahawks,2023-10-22,ARI,Win,20,10,2,18,pass,Jake Bobo
-16,16,Seahawks,2023-10-29,CLE,Win,24,20,1,3,rush,Jake Bobo
-17,17,Seahawks,2023-10-29,CLE,Win,24,20,1,12,pass,Tyler Lockett
-18,18,Seahawks,2023-10-29,CLE,Win,24,20,4,9,pass,Jaxon Smith-Njigba
-19,19,Seahawks,2023-11-12,WAS,Win,29,26,3,64,pass,Kenneth Walker III
-20,20,Seahawks,2023-11-12,WAS,Win,29,26,4,5,pass,Tyler Lockett
-21,21,Seahawks,2023-11-19,LAR,Loss,16,17,1,8,pass,D.K. Metcalf
-22,22,Seahawks,2023-11-23,SFO,Loss,13,31,3,12,interception,Jordyn Brooks
-23,23,Seahawks,2023-11-30,DAL,Loss,35,41,1,73,pass,D.K. Metcalf
-24,24,Seahawks,2023-11-30,DAL,Loss,35,41,2,1,rush,Zach Charbonnet
-25,25,Seahawks,2023-11-30,DAL,Loss,35,41,2,1,pass,D.K. Metcalf
-26,26,Seahawks,2023-11-30,DAL,Loss,35,41,3,5,rush,Geno Smith
-27,27,Seahawks,2023-11-30,DAL,Loss,35,41,4,3,pass,D.K. Metcalf
-28,28,Seahawks,2023-12-10,SFO,Loss,16,28,1,31,pass,D.K. Metcalf
-29,29,Seahawks,2023-12-10,SFO,Loss,16,28,3,25,pass,Colby Parkinson
-30,30,Seahawks,2023-12-18,PHI,Win,20,17,3,23,rush,Kenneth Walker III
-31,31,Seahawks,2023-12-18,PHI,Win,20,17,4,29,pass,Jaxon Smith-Njigba
-32,32,Seahawks,2023-12-24,TEN,Win,20,17,4,11,pass,D.K. Metcalf
-33,33,Seahawks,2023-12-24,TEN,Win,20,17,4,5,pass,Colby Parkinson
-34,34,Seahawks,2023-12-31,PIT,Loss,23,30,2,13,rush,Kenneth Walker III
-35,35,Seahawks,2023-12-31,PIT,Loss,23,30,2,12,pass,Jaxon Smith-Njigba
-36,36,Seahawks,2024-01-07,ARI,Win,21,20,2,19,pass,Will Dissly
-37,37,Seahawks,2024-01-07,ARI,Win,21,20,4,34,pass,Tyler Lockett
+,Rank,Team,Date,Opponent,Win/Loss,Home_Score,Opponenet_Score,Quarter,Distance,Type,Detail,Year
+1,1,Seahawks,2023-09-10,LAR,Loss,13,30,2,10,pass,D.K. Metcalf,2023
+2,2,Seahawks,2023-09-17,DET,Win,37,31,1,1,rush,Kenneth Walker III,2023
+3,3,Seahawks,2023-09-17,DET,Win,37,31,3,3,rush,Kenneth Walker III,2023
+4,4,Seahawks,2023-09-17,DET,Win,37,31,4,3,pass,Tyler Lockett,2023
+5,5,Seahawks,2023-09-17,DET,Win,37,31,4,40,interception,Tre Brown,2023
+6,6,Seahawks,2023-09-17,DET,Win,37,31,5,6,pass,Tyler Lockett,2023
+7,7,Seahawks,2023-09-24,CAR,Win,37,27,3,1,rush,Kenneth Walker III,2023
+8,8,Seahawks,2023-09-24,CAR,Win,37,27,4,7,rush,Kenneth Walker III,2023
+9,9,Seahawks,2023-09-24,CAR,Win,37,27,4,5,pass,Jake Bobo,2023
+10,10,Seahawks,2023-10-02,NYG,Win,24,3,1,6,pass,D.K. Metcalf,2023
+11,11,Seahawks,2023-10-02,NYG,Win,24,3,2,1,rush,Kenneth Walker III,2023
+12,12,Seahawks,2023-10-02,NYG,Win,24,3,3,97,interception,Devon Witherspoon,2023
+13,13,Seahawks,2023-10-15,CIN,Loss,13,17,1,1,rush,Kenneth Walker III,2023
+14,14,Seahawks,2023-10-22,ARI,Win,20,10,1,28,pass,Jaxon Smith-Njigba,2023
+15,15,Seahawks,2023-10-22,ARI,Win,20,10,2,18,pass,Jake Bobo,2023
+16,16,Seahawks,2023-10-29,CLE,Win,24,20,1,3,rush,Jake Bobo,2023
+17,17,Seahawks,2023-10-29,CLE,Win,24,20,1,12,pass,Tyler Lockett,2023
+18,18,Seahawks,2023-10-29,CLE,Win,24,20,4,9,pass,Jaxon Smith-Njigba,2023
+19,19,Seahawks,2023-11-12,WAS,Win,29,26,3,64,pass,Kenneth Walker III,2023
+20,20,Seahawks,2023-11-12,WAS,Win,29,26,4,5,pass,Tyler Lockett,2023
+21,21,Seahawks,2023-11-19,LAR,Loss,16,17,1,8,pass,D.K. Metcalf,2023
+22,22,Seahawks,2023-11-23,SFO,Loss,13,31,3,12,interception,Jordyn Brooks,2023
+23,23,Seahawks,2023-11-30,DAL,Loss,35,41,1,73,pass,D.K. Metcalf,2023
+24,24,Seahawks,2023-11-30,DAL,Loss,35,41,2,1,rush,Zach Charbonnet,2023
+25,25,Seahawks,2023-11-30,DAL,Loss,35,41,2,1,pass,D.K. Metcalf,2023
+26,26,Seahawks,2023-11-30,DAL,Loss,35,41,3,5,rush,Geno Smith,2023
+27,27,Seahawks,2023-11-30,DAL,Loss,35,41,4,3,pass,D.K. Metcalf,2023
+28,28,Seahawks,2023-12-10,SFO,Loss,16,28,1,31,pass,D.K. Metcalf,2023
+29,29,Seahawks,2023-12-10,SFO,Loss,16,28,3,25,pass,Colby Parkinson,2023
+30,30,Seahawks,2023-12-18,PHI,Win,20,17,3,23,rush,Kenneth Walker III,2023
+31,31,Seahawks,2023-12-18,PHI,Win,20,17,4,29,pass,Jaxon Smith-Njigba,2023
+32,32,Seahawks,2023-12-24,TEN,Win,20,17,4,11,pass,D.K. Metcalf,2023
+33,33,Seahawks,2023-12-24,TEN,Win,20,17,4,5,pass,Colby Parkinson,2023
+34,34,Seahawks,2023-12-31,PIT,Loss,23,30,2,13,rush,Kenneth Walker III,2023
+35,35,Seahawks,2023-12-31,PIT,Loss,23,30,2,12,pass,Jaxon Smith-Njigba,2023
+36,36,Seahawks,2024-01-07,ARI,Win,21,20,2,19,pass,Will Dissly,2023
+37,37,Seahawks,2024-01-07,ARI,Win,21,20,4,34,pass,Tyler Lockett,2023

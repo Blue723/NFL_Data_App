@@ -1,19 +1,19 @@
 ,Week,Day,Date,Time,Win/Loss,Overtime,Team Record,Home/Away,Opponent,Points Scored,Points Allowed,Offense 1st Down,Total Yards Gained of Offense,Total yards Gained by Passing,Total Yards Gained by Rushing,Offense Turnovers,Defense 1st Down,Total Yards Allowed by Defense,Total Passing Yards Allowed by Defense,Total Rushing Yards Allowed by Defense,Defense Turnovers,Offense,Defense,Sp. Tms,Team,Year
-0,1,Sun,2023-09-10,nan,Win,0,1-0,away,Los Angeles Chargers,36,34,30,536,466,70,2,30,433,200,233,0,26.53,-18.83,-3.22,Dolphins,2023
-1,2,Sun,2023-09-17,nan,Win,0,2-0,away,New England Patriots,24,17,22,389,244,145,1,23,288,200,88,2,13.09,0.98,-7.69,Dolphins,2023
-2,3,Sun,2023-09-24,nan,Win,0,3-0,home,Denver Broncos,70,20,30,726,376,350,0,16,363,294,69,3,48.65,13.39,-12.38,Dolphins,2023
-3,4,Sun,2023-10-01,nan,Loss,0,3-1,away,Buffalo Bills,20,48,20,393,251,142,2,24,414,310,104,0,-2.09,-27.56,1.37,Dolphins,2023
-4,5,Sun,2023-10-08,nan,Win,0,4-1,home,New York Giants,31,16,22,524,302,222,3,15,268,183,85,0,10.45,6.46,-1.72,Dolphins,2023
-5,6,Sun,2023-10-15,nan,Win,0,5-1,home,Carolina Panthers,42,21,23,424,262,162,1,21,296,188,108,0,14.79,6.44,-0.33,Dolphins,2023
-6,7,Sun,2023-10-22,nan,Loss,0,5-2,away,Philadelphia Eagles,17,31,12,244,199,45,1,26,355,256,99,2,-7.17,-11.06,2.9,Dolphins,2023
-7,8,Sun,2023-10-29,nan,Win,0,6-2,home,New England Patriots,31,17,24,390,312,78,2,13,218,141,77,1,10.64,9.73,-3.59,Dolphins,2023
-8,9,Sun,2023-11-05,nan,Loss,0,6-3,away,Kansas City Chiefs,14,21,20,292,175,117,1,16,267,174,93,1,-9.86,1.1,1.0,Dolphins,2023
-9,11,Sun,2023-11-19,nan,Win,0,7-3,home,Las Vegas Raiders,20,13,21,422,323,99,3,12,296,260,36,3,1.48,15.77,-8.12,Dolphins,2023
-10,12,Fri,2023-11-24,nan,Win,0,8-3,away,New York Jets,34,13,22,395,228,167,3,12,159,130,29,2,3.64,20.96,-2.09,Dolphins,2023
-11,13,Sun,2023-12-03,nan,Win,0,9-3,away,Washington Commanders,45,15,20,406,283,123,0,11,245,107,138,1,25.98,6.88,-0.52,Dolphins,2023
-12,14,Mon,2023-12-11,nan,Loss,0,9-4,home,Tennessee Titans,27,28,20,366,208,158,1,22,403,320,83,3,-0.67,-1.86,0.42,Dolphins,2023
-13,15,Sun,2023-12-17,nan,Win,0,10-4,home,New York Jets,30,0,16,290,213,77,0,11,103,80,23,4,4.37,28.99,-5.48,Dolphins,2023
-14,16,Sun,2023-12-24,nan,Win,0,11-4,home,Dallas Cowboys,22,20,22,375,284,91,0,19,339,242,97,1,6.06,-8.66,4.74,Dolphins,2023
-15,17,Sun,2023-12-31,nan,Loss,0,11-5,away,Baltimore Ravens,19,56,20,375,221,154,3,24,491,331,160,1,-10.36,-31.09,1.21,Dolphins,2023
-16,18,Sun,2024-01-07,nan,Loss,0,11-6,home,Buffalo Bills,14,21,16,275,167,108,2,26,473,345,128,3,3.92,-12.65,-3.03,Dolphins,2023
-17,20,Sat,2024-01-13,nan,Loss,0,11-7,away,Kansas City Chiefs,7,26,13,264,188,76,1,25,409,262,147,1,-10.55,-9.58,4.67,Dolphins,2023
+0,1,Sun,2023-09-10,,Win,0,1-0,away,Chargers,36,34,30,536,466,70,2,30,433,200,233,0,26.53,-18.83,-3.22,Dolphins,2023
+1,2,Sun,2023-09-17,,Win,0,2-0,away,Patriots,24,17,22,389,244,145,1,23,288,200,88,2,13.09,0.98,-7.69,Dolphins,2023
+2,3,Sun,2023-09-24,,Win,0,3-0,home,Broncos,70,20,30,726,376,350,0,16,363,294,69,3,48.65,13.39,-12.38,Dolphins,2023
+3,4,Sun,2023-10-01,,Loss,0,3-1,away,Bills,20,48,20,393,251,142,2,24,414,310,104,0,-2.09,-27.56,1.37,Dolphins,2023
+4,5,Sun,2023-10-08,,Win,0,4-1,home,Giants,31,16,22,524,302,222,3,15,268,183,85,0,10.45,6.46,-1.72,Dolphins,2023
+5,6,Sun,2023-10-15,,Win,0,5-1,home,Panthers,42,21,23,424,262,162,1,21,296,188,108,0,14.79,6.44,-0.33,Dolphins,2023
+6,7,Sun,2023-10-22,,Loss,0,5-2,away,Eagles,17,31,12,244,199,45,1,26,355,256,99,2,-7.17,-11.06,2.9,Dolphins,2023
+7,8,Sun,2023-10-29,,Win,0,6-2,home,Patriots,31,17,24,390,312,78,2,13,218,141,77,1,10.64,9.73,-3.59,Dolphins,2023
+8,9,Sun,2023-11-05,,Loss,0,6-3,away,Chiefs,14,21,20,292,175,117,1,16,267,174,93,1,-9.86,1.1,1.0,Dolphins,2023
+9,11,Sun,2023-11-19,,Win,0,7-3,home,Raiders,20,13,21,422,323,99,3,12,296,260,36,3,1.48,15.77,-8.12,Dolphins,2023
+10,12,Fri,2023-11-24,,Win,0,8-3,away,Jets,34,13,22,395,228,167,3,12,159,130,29,2,3.64,20.96,-2.09,Dolphins,2023
+11,13,Sun,2023-12-03,,Win,0,9-3,away,Commanders,45,15,20,406,283,123,0,11,245,107,138,1,25.98,6.88,-0.52,Dolphins,2023
+12,14,Mon,2023-12-11,,Loss,0,9-4,home,Titans,27,28,20,366,208,158,1,22,403,320,83,3,-0.67,-1.86,0.42,Dolphins,2023
+13,15,Sun,2023-12-17,,Win,0,10-4,home,Jets,30,0,16,290,213,77,0,11,103,80,23,4,4.37,28.99,-5.48,Dolphins,2023
+14,16,Sun,2023-12-24,,Win,0,11-4,home,Cowboys,22,20,22,375,284,91,0,19,339,242,97,1,6.06,-8.66,4.74,Dolphins,2023
+15,17,Sun,2023-12-31,,Loss,0,11-5,away,Ravens,19,56,20,375,221,154,3,24,491,331,160,1,-10.36,-31.09,1.21,Dolphins,2023
+16,18,Sun,2024-01-07,,Loss,0,11-6,home,Bills,14,21,16,275,167,108,2,26,473,345,128,3,3.92,-12.65,-3.03,Dolphins,2023
+17,20,Sat,2024-01-13,,Loss,0,11-7,away,Chiefs,7,26,13,264,188,76,1,25,409,262,147,1,-10.55,-9.58,4.67,Dolphins,2023

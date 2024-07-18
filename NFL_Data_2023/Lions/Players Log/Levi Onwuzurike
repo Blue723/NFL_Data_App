@@ -1,9 +1,9 @@
-,Rk,Date,G#,Week,Age,Tm,Home/Away,Opp,Result,Int,Tgt,Cmp,Cmp%,Yds,Yds/Cmp,Yds/Tgt,TD,Rat,DADOT,Air,YAC,Bltz,Hrry,QBKD,Sk,Prss,Comb,MTkl,MTkl%,Year
-0,1.0,2023-09-07,1.0,1.0,25.189,DET,KAN,W 21-20,0,0,0,,0.0,,,0.0,,,0.0,0.0,0,0,0,,0,,0,,2023,Away
-1,2.0,2023-09-17,2.0,2.0,25.199,DET,SEA,L 31-37,0,0,0,,0.0,,,0.0,,,0.0,0.0,0,0,0,,0,,0,,2023,Home
-2,3.0,2023-09-24,3.0,3.0,25.206,DET,ATL,W 20-6,0,0,0,,0.0,,,0.0,,,0.0,0.0,0,0,0,,0,,0,,2023,Home
-3,4.0,2023-09-28,4.0,4.0,25.21,DET,GNB,W 34-20,0,0,0,,0.0,,,0.0,,,0.0,0.0,0,0,0,0.0,0,1.0,0,0.0%,2023,Away
-4,5.0,2023-10-15,6.0,6.0,25.227,DET,TAM,W 20-6,0,0,0,,0.0,,,0.0,,,0.0,0.0,0,0,0,0.0,0,1.0,0,0.0%,2023,Away
-5,6.0,2023-11-23,11.0,12.0,25.266,DET,GNB,L 22-29,0,0,0,,0.0,,,0.0,,,0.0,0.0,0,0,0,0.0,0,1.0,1,50.0%,2023,Home
-6,7.0,2023-12-10,13.0,14.0,25.283,DET,CHI,L 13-28,0,0,0,,0.0,,,0.0,,,0.0,0.0,0,0,0,,0,,0,,2023,Away
-7,,7 Games,,,,,,4-3-0,0,0,0,,,,,,,,,,0,0,0,0.0,0,3.0,1,25.0%,2023,Home
+,Rk,Date,G#,Week,Age,Tm,Home/Away,Opp,Result,Int,Tgt,Cmp,Cmp%,Yds,Yds/Cmp,Yds/Tgt,TD,Rat,DADOT,Air,YAC,Bltz,Hrry,QBKD,Sk,Prss,Comb,MTkl,MTkl%,Year,Position,Player_Name,Team
+0,1.0,2023-09-07,1.0,1.0,25.189,DET,KAN,W 21-20,0,0,0,,0.0,,,0.0,,,0.0,0.0,0,0,0,,0,,0,,2023,Away,Defensive Lineman,Levi Onwuzurike,Lions
+1,2.0,2023-09-17,2.0,2.0,25.199,DET,SEA,L 31-37,0,0,0,,0.0,,,0.0,,,0.0,0.0,0,0,0,,0,,0,,2023,Home,Defensive Lineman,Levi Onwuzurike,Lions
+2,3.0,2023-09-24,3.0,3.0,25.206,DET,ATL,W 20-6,0,0,0,,0.0,,,0.0,,,0.0,0.0,0,0,0,,0,,0,,2023,Home,Defensive Lineman,Levi Onwuzurike,Lions
+3,4.0,2023-09-28,4.0,4.0,25.21,DET,GNB,W 34-20,0,0,0,,0.0,,,0.0,,,0.0,0.0,0,0,0,0.0,0,1.0,0,0.0%,2023,Away,Defensive Lineman,Levi Onwuzurike,Lions
+4,5.0,2023-10-15,6.0,6.0,25.227,DET,TAM,W 20-6,0,0,0,,0.0,,,0.0,,,0.0,0.0,0,0,0,0.0,0,1.0,0,0.0%,2023,Away,Defensive Lineman,Levi Onwuzurike,Lions
+5,6.0,2023-11-23,11.0,12.0,25.266,DET,GNB,L 22-29,0,0,0,,0.0,,,0.0,,,0.0,0.0,0,0,0,0.0,0,1.0,1,50.0%,2023,Home,Defensive Lineman,Levi Onwuzurike,Lions
+6,7.0,2023-12-10,13.0,14.0,25.283,DET,CHI,L 13-28,0,0,0,,0.0,,,0.0,,,0.0,0.0,0,0,0,,0,,0,,2023,Away,Defensive Lineman,Levi Onwuzurike,Lions
+7,,7 Games,,,,,,4-3-0,0,0,0,,,,,,,,,,0,0,0,0.0,0,3.0,1,25.0%,2023,Home,Defensive Lineman,Levi Onwuzurike,Lions
