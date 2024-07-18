@@ -1,18 +1,18 @@
 ,Week,Day,Date,Time,Win/Loss,Overtime,Team Record,Home/Away,Opponent,Points Scored,Points Allowed,Offense 1st Down,Total Yards Gained of Offense,Total yards Gained by Passing,Total Yards Gained by Rushing,Offense Turnovers,Defense 1st Down,Total Yards Allowed by Defense,Total Passing Yards Allowed by Defense,Total Rushing Yards Allowed by Defense,Defense Turnovers,Offense,Defense,Sp. Tms,Team,Year
-0,1,Sun,2010-09-12,nan,Loss,1,0-1,away,Pittsburgh Steelers,9,15,18,295,237,58,1,14,354,211,143,1,-9.7,3.34,0.36,Falcons,2010
-1,2,Sun,2010-09-19,nan,Win,0,1-1,home,Arizona Cardinals,41,7,33,444,223,221,1,11,267,149,118,3,20.26,12.23,0.76,Falcons,2010
-2,3,Sun,2010-09-26,nan,Win,1,2-1,away,New Orleans Saints,27,24,25,417,215,202,1,20,398,355,43,3,12.68,-12.19,-0.01,Falcons,2010
-3,4,Sun,2010-10-03,nan,Win,0,3-1,home,San Francisco 49ers,16,14,23,357,259,98,2,17,262,181,81,3,2.45,0.55,-1.94,Falcons,2010
-4,5,Sun,2010-10-10,nan,Win,0,4-1,away,Cleveland Browns,20,10,17,338,173,165,1,18,269,221,48,3,1.7,13.33,-6.09,Falcons,2010
-5,6,Sun,2010-10-17,nan,Loss,0,4-2,away,Philadelphia Eagles,17,31,20,293,228,65,2,23,474,320,154,1,-1.27,-17.37,2.51,Falcons,2010
-6,7,Sun,2010-10-24,nan,Win,0,5-2,home,Cincinnati Bengals,39,32,22,452,299,153,2,28,469,385,84,1,16.21,-13.9,6.67,Falcons,2010
-7,9,Sun,2010-11-07,nan,Win,0,6-2,home,Tampa Bay Buccaneers,27,21,26,365,235,130,0,14,278,182,96,2,16.39,-2.56,-6.62,Falcons,2010
-8,10,Thu,2010-11-11,nan,Win,0,7-2,home,Baltimore Ravens,26,21,23,362,302,60,0,20,320,204,116,2,11.77,-10.61,4.06,Falcons,2010
-9,11,Sun,2010-11-21,nan,Win,0,8-2,away,St. Louis Rams,34,17,24,391,253,138,0,15,304,233,71,1,12.25,1.25,-0.03,Falcons,2010
-10,12,Sun,2010-11-28,nan,Win,0,9-2,home,Green Bay Packers,20,17,19,294,177,117,0,22,418,341,77,1,7.87,-14.07,6.74,Falcons,2010
-11,13,Sun,2010-12-05,nan,Win,0,10-2,away,Tampa Bay Buccaneers,28,24,20,290,205,85,2,19,325,174,151,1,1.08,-0.74,7.2,Falcons,2010
-12,14,Sun,2010-12-12,nan,Win,0,11-2,away,Carolina Panthers,31,10,24,327,200,127,1,13,288,76,212,2,8.66,13.85,-5.15,Falcons,2010
-13,15,Sun,2010-12-19,nan,Win,0,12-2,away,Seattle Seahawks,34,18,21,266,168,98,1,15,234,143,91,3,2.29,14.38,2.29,Falcons,2010
-14,16,Mon,2010-12-27,nan,Loss,0,12-3,home,New Orleans Saints,14,17,14,215,140,75,2,23,368,296,72,2,-9.8,7.34,-1.22,Falcons,2010
-15,17,Sun,2011-01-02,nan,Win,0,13-3,home,Carolina Panthers,31,10,24,352,253,99,1,12,291,154,137,2,3.61,10.04,10.08,Falcons,2010
-16,19,Sat,2011-01-15,nan,Loss,0,13-4,home,Green Bay Packers,21,48,15,194,149,45,4,28,442,346,96,1,-11.75,-26.24,11.45,Falcons,2010
+0,1,Sun,2010-09-12,,Loss,1,0-1,away,Steelers,9,15,18,295,237,58,1,14,354,211,143,1,-9.7,3.34,0.36,Falcons,2010
+1,2,Sun,2010-09-19,,Win,0,1-1,home,Cardinals,41,7,33,444,223,221,1,11,267,149,118,3,20.26,12.23,0.76,Falcons,2010
+2,3,Sun,2010-09-26,,Win,1,2-1,away,Saints,27,24,25,417,215,202,1,20,398,355,43,3,12.68,-12.19,-0.01,Falcons,2010
+3,4,Sun,2010-10-03,,Win,0,3-1,home,49ers,16,14,23,357,259,98,2,17,262,181,81,3,2.45,0.55,-1.94,Falcons,2010
+4,5,Sun,2010-10-10,,Win,0,4-1,away,Browns,20,10,17,338,173,165,1,18,269,221,48,3,1.7,13.33,-6.09,Falcons,2010
+5,6,Sun,2010-10-17,,Loss,0,4-2,away,Eagles,17,31,20,293,228,65,2,23,474,320,154,1,-1.27,-17.37,2.51,Falcons,2010
+6,7,Sun,2010-10-24,,Win,0,5-2,home,Bengals,39,32,22,452,299,153,2,28,469,385,84,1,16.21,-13.9,6.67,Falcons,2010
+7,9,Sun,2010-11-07,,Win,0,6-2,home,Buccaneers,27,21,26,365,235,130,0,14,278,182,96,2,16.39,-2.56,-6.62,Falcons,2010
+8,10,Thu,2010-11-11,,Win,0,7-2,home,Ravens,26,21,23,362,302,60,0,20,320,204,116,2,11.77,-10.61,4.06,Falcons,2010
+9,11,Sun,2010-11-21,,Win,0,8-2,away,Rams,34,17,24,391,253,138,0,15,304,233,71,1,12.25,1.25,-0.03,Falcons,2010
+10,12,Sun,2010-11-28,,Win,0,9-2,home,Packers,20,17,19,294,177,117,0,22,418,341,77,1,7.87,-14.07,6.74,Falcons,2010
+11,13,Sun,2010-12-05,,Win,0,10-2,away,Buccaneers,28,24,20,290,205,85,2,19,325,174,151,1,1.08,-0.74,7.2,Falcons,2010
+12,14,Sun,2010-12-12,,Win,0,11-2,away,Panthers,31,10,24,327,200,127,1,13,288,76,212,2,8.66,13.85,-5.15,Falcons,2010
+13,15,Sun,2010-12-19,,Win,0,12-2,away,Seahawks,34,18,21,266,168,98,1,15,234,143,91,3,2.29,14.38,2.29,Falcons,2010
+14,16,Mon,2010-12-27,,Loss,0,12-3,home,Saints,14,17,14,215,140,75,2,23,368,296,72,2,-9.8,7.34,-1.22,Falcons,2010
+15,17,Sun,2011-01-02,,Win,0,13-3,home,Panthers,31,10,24,352,253,99,1,12,291,154,137,2,3.61,10.04,10.08,Falcons,2010
+16,19,Sat,2011-01-15,,Loss,0,13-4,home,Packers,21,48,15,194,149,45,4,28,442,346,96,1,-11.75,-26.24,11.45,Falcons,2010

@@ -1,0 +1,17 @@
+,Week,Day,Date,Boxscore,Win/Loss,Overtime,Home/Away,Opponent,Team Score,Opponenet Score,Passing Completion,Passing Attempts,Passing Yards,Passing Touchdowns,Passing Interceptions,Passing Sacks,Sack Yards,Passing Yards/Attempts,Net Yards/Attempts,Passing Completion Per.,Passing Rate,Rushing Attempts,Rushing Yards,Rushing Yards/Attempts,Rushing Touchdown,Field Goals Made,Field Goals Attempts,Extra Points Made,Extra Point Attempts,Punts,Total Punt Yards,Third Down Conversions,Third Down Attempts,Fourth Down Conversions,Fourth Down Attemtps,Time of Possesion,Year,Team
+0,1,Sun,2010-09-12,boxscore,Loss,0,Away,Redskins,7,13,31,48,277,1,0,1,5,5.9,5.7,64.6,86.9,22,103,4.7,0,0,1,1,1,6,244,5,13,1,1,34:03,2010,Cowboys
+1,2,Sun,2010-09-19,boxscore,Loss,0,Home,Bears,20,27,34,51,374,1,2,0,0,7.3,7.3,66.7,78.4,20,36,1.8,0,2,3,2,2,3,127,6,13,0,0,33:40,2010,Cowboys
+2,3,Sun,2010-09-26,boxscore,Win,0,Away,Texans,27,13,23,30,284,2,0,0,0,9.5,9.5,76.7,127.6,27,101,3.7,1,2,2,3,3,2,107,4,11,2,3,32:20,2010,Cowboys
+3,5,Sun,2010-10-10,boxscore,Loss,0,Home,Titans,27,34,31,46,370,3,3,6,36,8.8,7.1,67.4,86.3,23,141,6.1,0,2,3,3,3,2,72,7,14,1,2,36:44,2010,Cowboys
+4,6,Sun,2010-10-17,boxscore,Loss,0,Away,Vikings,21,24,24,32,220,3,2,0,0,6.9,6.9,75.0,98.4,28,94,3.4,0,0,0,3,3,5,244,9,17,1,1,32:10,2010,Cowboys
+5,7,Mon,2010-10-25,boxscore,Loss,0,Home,Giants,35,41,21,40,213,3,0,3,13,5.7,5.0,52.5,93.0,13,41,3.2,0,2,2,3,3,6,310,0,10,1,2,22:29,2010,Cowboys
+6,8,Sun,2010-10-31,boxscore,Loss,0,Home,Jaguars,17,35,34,49,365,1,4,2,14,7.7,7.2,69.4,63.7,22,50,2.3,1,1,1,2,2,3,134,6,13,2,3,27:25,2010,Cowboys
+7,9,Sun,2010-11-07,boxscore,Loss,0,Away,Packers,7,45,19,30,166,1,2,4,17,6.1,4.9,63.3,61.3,14,39,2.8,0,0,0,1,1,6,317,4,10,0,0,22:04,2010,Cowboys
+8,10,Sun,2010-11-14,boxscore,Win,0,Away,Giants,33,20,13,22,327,3,1,0,0,14.9,14.9,59.1,124.1,28,100,3.6,0,2,3,3,4,3,160,3,11,0,1,22:09,2010,Cowboys
+9,11,Sun,2010-11-21,boxscore,Win,0,Home,Lions,35,19,18,24,131,3,0,2,16,6.1,5.0,75.0,126.9,30,134,4.5,1,0,0,5,5,4,199,6,11,1,1,30:04,2010,Cowboys
+10,12,Thu,2010-11-25,boxscore,Loss,0,Home,Saints,27,30,30,42,313,0,1,1,0,7.5,7.3,71.4,82.7,32,144,4.5,3,2,3,3,3,2,110,7,15,1,3,34:41,2010,Cowboys
+11,13,Sun,2010-12-05,boxscore,Win,1,Away,Colts,38,35,18,26,151,1,0,2,16,6.4,5.4,69.2,96.8,46,217,4.7,1,3,4,3,3,4,146,8,15,0,0,40:00,2010,Cowboys
+12,14,Sun,2010-12-12,boxscore,Loss,0,Home,Eagles,27,30,24,35,239,2,2,1,3,6.9,6.6,68.6,82.9,24,110,4.6,1,2,2,3,3,5,239,3,11,1,1,32:09,2010,Cowboys
+13,15,Sun,2010-12-19,boxscore,Win,0,Home,Redskins,33,30,25,37,300,2,0,2,5,8.2,7.7,67.6,110.2,31,134,4.3,1,4,5,3,3,2,82,5,13,0,1,35:21,2010,Cowboys
+14,16,Sat,2010-12-25,boxscore,Loss,0,Away,Cardinals,26,27,23,37,199,2,2,5,27,6.1,4.7,62.2,71.8,34,183,5.4,1,2,2,2,3,5,267,8,18,1,1,38:05,2010,Cowboys
+15,17,Sun,2011-01-02,boxscore,Win,0,Away,Eagles,14,13,11,27,113,1,0,2,14,4.7,3.9,40.7,65.8,34,159,4.7,0,0,1,2,2,8,357,5,16,1,2,29:10,2010,Cowboys

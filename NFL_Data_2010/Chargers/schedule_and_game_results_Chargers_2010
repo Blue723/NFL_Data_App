@@ -1,17 +1,17 @@
 ,Week,Day,Date,Time,Win/Loss,Overtime,Team Record,Home/Away,Opponent,Points Scored,Points Allowed,Offense 1st Down,Total Yards Gained of Offense,Total yards Gained by Passing,Total Yards Gained by Rushing,Offense Turnovers,Defense 1st Down,Total Yards Allowed by Defense,Total Passing Yards Allowed by Defense,Total Rushing Yards Allowed by Defense,Defense Turnovers,Offense,Defense,Sp. Tms,Team,Year
-0,1,Mon,2010-09-13,nan,Loss,0,0-1,away,Kansas City Chiefs,14,21,18,389,280,109,1,9,197,62,135,0,-7.11,10.51,-9.23,Chargers,2010
-1,2,Sun,2010-09-19,nan,Win,0,1-1,home,Jacksonville Jaguars,38,13,25,477,326,151,3,20,350,279,71,6,17.88,13.95,-7.53,Chargers,2010
-2,3,Sun,2010-09-26,nan,Loss,0,1-2,away,Seattle Seahawks,20,27,27,518,429,89,5,13,271,203,68,2,-2.42,5.48,-16.72,Chargers,2010
-3,4,Sun,2010-10-03,nan,Win,0,2-2,home,Arizona Cardinals,41,10,23,419,239,180,1,10,134,87,47,3,12.24,25.88,-7.3,Chargers,2010
-4,5,Sun,2010-10-10,nan,Loss,0,2-3,away,Oakland Raiders,27,35,29,506,415,91,3,14,279,168,111,0,2.05,0.05,-10.46,Chargers,2010
-5,6,Sun,2010-10-17,nan,Loss,0,2-4,away,St. Louis Rams,17,20,22,287,208,79,1,20,300,183,117,0,0.32,-1.33,-1.93,Chargers,2010
-6,7,Sun,2010-10-24,nan,Loss,0,2-5,home,New England Patriots,20,23,23,363,325,38,4,15,179,128,51,0,-5.76,4.8,-3.61,Chargers,2010
-7,8,Sun,2010-10-31,nan,Win,0,3-5,home,Tennessee Titans,33,25,23,456,300,156,1,15,370,305,65,0,19.43,-7.47,-4.9,Chargers,2010
-8,9,Sun,2010-11-07,nan,Win,0,4-5,away,Houston Texans,29,23,18,367,290,77,2,25,392,252,140,1,12.05,-6.4,-2.48,Chargers,2010
-9,11,Mon,2010-11-22,nan,Win,0,5-5,home,Denver Broncos,35,14,21,400,253,147,1,16,235,172,63,1,19.31,9.41,-6.31,Chargers,2010
-10,12,Sun,2010-11-28,nan,Win,0,6-5,away,Indianapolis Colts,36,14,18,301,172,129,0,16,303,279,24,5,0.76,18.67,1.71,Chargers,2010
-11,13,Sun,2010-12-05,nan,Loss,0,6-6,home,Oakland Raiders,13,28,18,286,265,21,2,22,368,117,251,1,-0.61,-11.87,-7.0,Chargers,2010
-12,14,Sun,2010-12-12,nan,Win,0,7-6,home,Kansas City Chiefs,31,0,25,426,219,207,2,5,67,19,48,0,17.07,19.46,-3.11,Chargers,2010
-13,15,Thu,2010-12-16,nan,Win,0,8-6,home,San Francisco 49ers,34,7,24,374,266,108,0,11,192,131,61,1,17.8,16.1,-4.31,Chargers,2010
-14,16,Sun,2010-12-26,nan,Loss,0,8-7,away,Cincinnati Bengals,20,34,23,313,249,64,2,18,371,269,102,1,-2.5,-11.93,-0.29,Chargers,2010
-15,17,Sun,2011-01-02,nan,Win,0,9-7,away,Denver Broncos,33,28,20,447,283,164,1,18,337,191,146,2,6.5,4.77,-5.94,Chargers,2010
+0,1,Mon,2010-09-13,,Loss,0,0-1,away,Chiefs,14,21,18,389,280,109,1,9,197,62,135,0,-7.11,10.51,-9.23,Chargers,2010
+1,2,Sun,2010-09-19,,Win,0,1-1,home,Jaguars,38,13,25,477,326,151,3,20,350,279,71,6,17.88,13.95,-7.53,Chargers,2010
+2,3,Sun,2010-09-26,,Loss,0,1-2,away,Seahawks,20,27,27,518,429,89,5,13,271,203,68,2,-2.42,5.48,-16.72,Chargers,2010
+3,4,Sun,2010-10-03,,Win,0,2-2,home,Cardinals,41,10,23,419,239,180,1,10,134,87,47,3,12.24,25.88,-7.3,Chargers,2010
+4,5,Sun,2010-10-10,,Loss,0,2-3,away,Raiders,27,35,29,506,415,91,3,14,279,168,111,0,2.05,0.05,-10.46,Chargers,2010
+5,6,Sun,2010-10-17,,Loss,0,2-4,away,Rams,17,20,22,287,208,79,1,20,300,183,117,0,0.32,-1.33,-1.93,Chargers,2010
+6,7,Sun,2010-10-24,,Loss,0,2-5,home,Patriots,20,23,23,363,325,38,4,15,179,128,51,0,-5.76,4.8,-3.61,Chargers,2010
+7,8,Sun,2010-10-31,,Win,0,3-5,home,Titans,33,25,23,456,300,156,1,15,370,305,65,0,19.43,-7.47,-4.9,Chargers,2010
+8,9,Sun,2010-11-07,,Win,0,4-5,away,Texans,29,23,18,367,290,77,2,25,392,252,140,1,12.05,-6.4,-2.48,Chargers,2010
+9,11,Mon,2010-11-22,,Win,0,5-5,home,Broncos,35,14,21,400,253,147,1,16,235,172,63,1,19.31,9.41,-6.31,Chargers,2010
+10,12,Sun,2010-11-28,,Win,0,6-5,away,Colts,36,14,18,301,172,129,0,16,303,279,24,5,0.76,18.67,1.71,Chargers,2010
+11,13,Sun,2010-12-05,,Loss,0,6-6,home,Raiders,13,28,18,286,265,21,2,22,368,117,251,1,-0.61,-11.87,-7.0,Chargers,2010
+12,14,Sun,2010-12-12,,Win,0,7-6,home,Chiefs,31,0,25,426,219,207,2,5,67,19,48,0,17.07,19.46,-3.11,Chargers,2010
+13,15,Thu,2010-12-16,,Win,0,8-6,home,49ers,34,7,24,374,266,108,0,11,192,131,61,1,17.8,16.1,-4.31,Chargers,2010
+14,16,Sun,2010-12-26,,Loss,0,8-7,away,Bengals,20,34,23,313,249,64,2,18,371,269,102,1,-2.5,-11.93,-0.29,Chargers,2010
+15,17,Sun,2011-01-02,,Win,0,9-7,away,Broncos,33,28,20,447,283,164,1,18,337,191,146,2,6.5,4.77,-5.94,Chargers,2010

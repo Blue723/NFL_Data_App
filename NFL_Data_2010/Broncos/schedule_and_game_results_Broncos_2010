@@ -1,17 +1,17 @@
 ,Week,Day,Date,Time,Win/Loss,Overtime,Team Record,Home/Away,Opponent,Points Scored,Points Allowed,Offense 1st Down,Total Yards Gained of Offense,Total yards Gained by Passing,Total Yards Gained by Rushing,Offense Turnovers,Defense 1st Down,Total Yards Allowed by Defense,Total Passing Yards Allowed by Defense,Total Rushing Yards Allowed by Defense,Defense Turnovers,Offense,Defense,Sp. Tms,Team,Year
-0,1,Sun,2010-09-12,nan,Loss,0,0-1,away,Jacksonville Jaguars,17,24,21,363,274,89,2,18,299,165,134,0,1.46,-8.84,-0.77,Broncos,2010
-1,2,Sun,2010-09-19,nan,Win,0,1-1,home,Seattle Seahawks,31,14,23,369,304,65,0,17,339,230,109,4,17.46,-1.8,0.36,Broncos,2010
-2,3,Sun,2010-09-26,nan,Loss,0,1-2,home,Indianapolis Colts,13,27,23,519,472,47,2,18,365,325,40,0,0.04,-7.39,-4.39,Broncos,2010
-3,4,Sun,2010-10-03,nan,Win,0,2-2,away,Tennessee Titans,26,20,22,327,308,19,1,13,288,167,121,2,-0.74,3.64,5.34,Broncos,2010
-4,5,Sun,2010-10-10,nan,Loss,0,2-3,away,Baltimore Ravens,17,31,16,346,307,39,1,28,415,182,233,0,5.73,-17.15,-3.93,Broncos,2010
-5,6,Sun,2010-10-17,nan,Loss,0,2-4,home,New York Jets,20,24,21,346,201,145,2,17,319,190,129,3,-7.12,0.46,0.62,Broncos,2010
-6,7,Sun,2010-10-24,nan,Loss,0,2-5,home,Oakland Raiders,14,59,11,240,165,75,3,29,508,180,328,0,-22.25,-28.32,7.17,Broncos,2010
-7,8,Sun,2010-10-31,nan,Loss,0,2-6,away,San Francisco 49ers,16,24,22,398,339,59,2,16,339,196,143,0,1.65,-6.7,-0.43,Broncos,2010
-8,10,Sun,2010-11-14,nan,Win,0,3-6,home,Kansas City Chiefs,49,29,25,452,299,153,0,30,484,433,51,1,26.2,-5.29,1.01,Broncos,2010
-9,11,Mon,2010-11-22,nan,Loss,0,3-7,away,San Diego Chargers,14,35,16,235,172,63,1,21,400,253,147,1,-9.41,-19.31,6.31,Broncos,2010
-10,12,Sun,2010-11-28,nan,Loss,0,3-8,home,St. Louis Rams,33,36,24,449,330,119,2,24,431,308,123,0,9.59,-15.18,-0.18,Broncos,2010
-11,13,Sun,2010-12-05,nan,Loss,0,3-9,away,Kansas City Chiefs,6,10,13,247,86,161,1,21,359,174,185,1,-9.46,3.22,2.4,Broncos,2010
-12,14,Sun,2010-12-12,nan,Loss,0,3-10,away,Arizona Cardinals,13,43,20,288,156,132,6,21,357,146,211,1,-31.2,1.17,2.44,Broncos,2010
-13,15,Sun,2010-12-19,nan,Loss,0,3-11,away,Oakland Raiders,23,39,9,235,129,106,1,20,502,238,264,3,-6.73,-3.97,-5.53,Broncos,2010
-14,16,Sun,2010-12-26,nan,Win,0,4-11,home,Houston Texans,24,23,25,431,305,126,1,21,401,310,91,1,14.14,-9.19,-4.78,Broncos,2010
-15,17,Sun,2011-01-02,nan,Loss,0,4-12,home,San Diego Chargers,28,33,18,337,191,146,2,20,447,283,164,1,-4.77,-6.5,5.94,Broncos,2010
+0,1,Sun,2010-09-12,,Loss,0,0-1,away,Jaguars,17,24,21,363,274,89,2,18,299,165,134,0,1.46,-8.84,-0.77,Broncos,2010
+1,2,Sun,2010-09-19,,Win,0,1-1,home,Seahawks,31,14,23,369,304,65,0,17,339,230,109,4,17.46,-1.8,0.36,Broncos,2010
+2,3,Sun,2010-09-26,,Loss,0,1-2,home,Colts,13,27,23,519,472,47,2,18,365,325,40,0,0.04,-7.39,-4.39,Broncos,2010
+3,4,Sun,2010-10-03,,Win,0,2-2,away,Titans,26,20,22,327,308,19,1,13,288,167,121,2,-0.74,3.64,5.34,Broncos,2010
+4,5,Sun,2010-10-10,,Loss,0,2-3,away,Ravens,17,31,16,346,307,39,1,28,415,182,233,0,5.73,-17.15,-3.93,Broncos,2010
+5,6,Sun,2010-10-17,,Loss,0,2-4,home,Jets,20,24,21,346,201,145,2,17,319,190,129,3,-7.12,0.46,0.62,Broncos,2010
+6,7,Sun,2010-10-24,,Loss,0,2-5,home,Raiders,14,59,11,240,165,75,3,29,508,180,328,0,-22.25,-28.32,7.17,Broncos,2010
+7,8,Sun,2010-10-31,,Loss,0,2-6,away,49ers,16,24,22,398,339,59,2,16,339,196,143,0,1.65,-6.7,-0.43,Broncos,2010
+8,10,Sun,2010-11-14,,Win,0,3-6,home,Chiefs,49,29,25,452,299,153,0,30,484,433,51,1,26.2,-5.29,1.01,Broncos,2010
+9,11,Mon,2010-11-22,,Loss,0,3-7,away,Chargers,14,35,16,235,172,63,1,21,400,253,147,1,-9.41,-19.31,6.31,Broncos,2010
+10,12,Sun,2010-11-28,,Loss,0,3-8,home,Rams,33,36,24,449,330,119,2,24,431,308,123,0,9.59,-15.18,-0.18,Broncos,2010
+11,13,Sun,2010-12-05,,Loss,0,3-9,away,Chiefs,6,10,13,247,86,161,1,21,359,174,185,1,-9.46,3.22,2.4,Broncos,2010
+12,14,Sun,2010-12-12,,Loss,0,3-10,away,Cardinals,13,43,20,288,156,132,6,21,357,146,211,1,-31.2,1.17,2.44,Broncos,2010
+13,15,Sun,2010-12-19,,Loss,0,3-11,away,Raiders,23,39,9,235,129,106,1,20,502,238,264,3,-6.73,-3.97,-5.53,Broncos,2010
+14,16,Sun,2010-12-26,,Win,0,4-11,home,Texans,24,23,25,431,305,126,1,21,401,310,91,1,14.14,-9.19,-4.78,Broncos,2010
+15,17,Sun,2011-01-02,,Loss,0,4-12,home,Chargers,28,33,18,337,191,146,2,20,447,283,164,1,-4.77,-6.5,5.94,Broncos,2010

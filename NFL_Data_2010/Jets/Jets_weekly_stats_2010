@@ -1,0 +1,17 @@
+,Week,Day,Date,Boxscore,Win/Loss,Overtime,Home/Away,Opponent,Team Score,Opponenet Score,Passing Completion,Passing Attempts,Passing Yards,Passing Touchdowns,Passing Interceptions,Passing Sacks,Sack Yards,Passing Yards/Attempts,Net Yards/Attempts,Passing Completion Per.,Passing Rate,Rushing Attempts,Rushing Yards,Rushing Yards/Attempts,Rushing Touchdown,Field Goals Made,Field Goals Attempts,Extra Points Made,Extra Point Attempts,Punts,Total Punt Yards,Third Down Conversions,Third Down Attempts,Fourth Down Conversions,Fourth Down Attemtps,Time of Possesion,Year,Team
+0,1,Mon,2010-09-13,boxscore,Loss,0,Home,Ravens,9,10,10,21,60,0,0,2,14,3.5,2.6,47.6,54.3,21,116,5.5,0,3,3,0,0,6,274,1,11,0,1,21:28,2010,Jets
+1,2,Sun,2010-09-19,boxscore,Win,0,Home,Patriots,28,14,21,30,200,3,0,3,20,7.3,6.1,70.0,121.5,32,136,4.3,0,2,2,2,2,4,205,6,13,1,1,32:32,2010,Jets
+2,3,Sun,2010-09-26,boxscore,Win,0,Away,Dolphins,31,23,15,28,256,3,0,0,0,9.1,9.1,53.6,120.5,29,146,5.0,1,1,2,4,4,4,168,6,11,0,0,27:12,2010,Jets
+3,4,Sun,2010-10-03,boxscore,Win,0,Away,Bills,38,14,16,26,171,3,0,0,0,6.6,6.6,61.5,119.2,49,273,5.6,2,1,2,5,5,6,241,7,15,0,0,40:29,2010,Jets
+4,5,Mon,2010-10-11,boxscore,Win,0,Home,Vikings,29,20,21,44,173,0,0,2,18,4.3,3.8,47.7,58.2,32,155,4.8,1,5,5,2,2,7,324,5,17,0,0,33:55,2010,Jets
+5,6,Sun,2010-10-17,boxscore,Win,0,Away,Broncos,24,20,17,30,190,1,2,2,8,6.6,5.9,56.7,59.0,30,129,4.3,2,1,1,3,3,5,243,5,13,0,0,29:37,2010,Jets
+6,8,Sun,2010-10-31,boxscore,Loss,0,Home,Packers,0,9,16,38,241,0,2,2,15,6.7,6.0,42.1,41.7,29,119,4.1,0,0,1,0,0,5,216,7,17,0,3,31:23,2010,Jets
+7,9,Sun,2010-11-07,boxscore,Win,1,Away,Lions,23,20,22,39,327,1,1,1,9,8.6,8.2,56.4,81.9,30,110,3.7,1,3,3,2,2,7,295,5,13,0,0,29:32,2010,Jets
+8,10,Sun,2010-11-14,boxscore,Win,1,Away,Browns,26,20,27,44,284,2,1,2,15,6.8,6.2,61.4,85.8,45,172,3.8,1,2,5,2,2,3,116,11,21,1,1,47:08,2010,Jets
+9,11,Sun,2010-11-21,boxscore,Win,0,Home,Texans,30,27,22,38,298,3,1,3,17,8.3,7.3,57.9,98.4,31,103,3.3,0,3,4,3,3,4,190,7,15,0,0,34:19,2010,Jets
+10,12,Thu,2010-11-25,boxscore,Win,0,Home,Bengals,26,10,16,28,149,1,1,2,17,5.9,5.0,57.1,68.9,37,170,4.6,1,1,2,3,3,8,354,3,13,0,0,33:29,2010,Jets
+11,13,Mon,2010-12-06,boxscore,Loss,0,Away,Patriots,3,45,17,33,149,0,3,1,15,5.0,4.4,51.5,25.9,31,152,4.9,0,1,2,0,0,3,92,3,12,2,3,28:59,2010,Jets
+12,14,Sun,2010-12-12,boxscore,Loss,0,Home,Dolphins,6,10,17,44,193,0,1,6,23,4.9,3.9,38.6,43.1,31,87,2.8,0,2,2,0,0,8,307,6,21,0,3,33:48,2010,Jets
+13,15,Sun,2010-12-19,boxscore,Win,0,Away,Steelers,22,17,19,29,170,0,0,1,0,5.9,5.7,65.5,81.1,27,106,3.9,1,2,2,2,2,4,147,6,13,1,1,28:42,2010,Jets
+14,16,Sun,2010-12-26,boxscore,Loss,0,Away,Bears,34,38,24,38,269,1,1,0,0,7.1,7.1,63.2,82.0,30,124,4.1,2,2,2,4,4,4,161,7,14,0,1,33:51,2010,Jets
+15,17,Sun,2011-01-02,boxscore,Win,0,Home,Bills,38,7,8,15,112,2,1,1,7,7.9,7.0,53.3,89.4,50,276,5.5,2,1,1,5,5,6,248,8,16,0,0,35:35,2010,Jets

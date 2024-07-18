@@ -1,0 +1,17 @@
+,Week,Day,Date,Boxscore,Win/Loss,Overtime,Home/Away,Opponent,Team Score,Opponenet Score,Passing Completion,Passing Attempts,Passing Yards,Passing Touchdowns,Passing Interceptions,Passing Sacks,Sack Yards,Passing Yards/Attempts,Net Yards/Attempts,Passing Completion Per.,Passing Rate,Rushing Attempts,Rushing Yards,Rushing Yards/Attempts,Rushing Touchdown,Field Goals Made,Field Goals Attempts,Extra Points Made,Extra Point Attempts,Punts,Total Punt Yards,Third Down Conversions,Third Down Attempts,Fourth Down Conversions,Fourth Down Attemtps,Time of Possesion,Year,Team
+0,1,Sun,2010-09-12,boxscore,Loss,1,Away,Steelers,9,15,27,44,237,0,1,2,15,5.7,5.2,61.4,66.2,25,58,2.3,0,3,4,0,0,7,281,6,16,0,0,30:29,2010,Falcons
+1,2,Sun,2010-09-19,boxscore,Win,0,Home,Cardinals,41,7,21,32,223,3,0,1,2,7.0,6.8,65.6,117.1,45,221,4.9,2,2,2,5,5,2,68,11,17,1,2,39:13,2010,Falcons
+2,3,Sun,2010-09-26,boxscore,Win,1,Away,Saints,27,24,19,30,215,2,0,2,13,7.6,6.7,63.3,106.9,50,202,4.0,1,2,2,3,3,4,158,9,18,2,3,45:50,2010,Falcons
+3,4,Sun,2010-10-03,boxscore,Win,0,Home,49ers,16,14,26,43,259,1,2,3,14,6.3,5.6,60.5,65.9,29,98,3.4,0,3,3,1,1,5,165,5,14,1,1,29:19,2010,Falcons
+4,5,Sun,2010-10-10,boxscore,Win,0,Away,Browns,20,10,16,28,173,1,0,2,14,6.7,5.8,57.1,87.4,31,165,5.3,0,2,3,2,2,4,173,6,15,0,0,30:06,2010,Falcons
+5,6,Sun,2010-10-17,boxscore,Loss,0,Away,Eagles,17,31,23,42,228,2,1,3,22,6.0,5.1,54.8,76.3,19,65,3.4,0,1,2,2,2,6,227,4,14,1,1,25:57,2010,Falcons
+6,7,Sun,2010-10-24,boxscore,Win,0,Home,Bengals,39,32,24,33,299,3,1,0,0,9.1,9.1,72.7,118.1,30,153,5.1,2,1,1,4,4,3,135,7,13,1,1,29:38,2010,Falcons
+7,9,Sun,2010-11-07,boxscore,Win,0,Home,Buccaneers,27,21,24,36,235,1,0,0,0,6.5,6.5,66.7,94.1,33,130,3.9,2,2,2,3,3,3,96,8,14,1,1,34:06,2010,Falcons
+8,10,Thu,2010-11-11,boxscore,Win,0,Home,Ravens,26,21,32,50,302,3,0,2,14,6.3,5.8,64.0,100.6,23,60,2.6,0,2,2,2,2,5,191,12,20,0,0,35:09,2010,Falcons
+9,11,Sun,2010-11-21,boxscore,Win,0,Away,Rams,34,17,26,39,253,2,0,0,0,6.5,6.5,66.7,101.8,31,138,4.5,1,4,4,2,2,4,180,9,17,0,0,35:55,2010,Falcons
+10,12,Sun,2010-11-28,boxscore,Win,0,Home,Packers,20,17,24,28,177,1,0,2,20,7.0,5.9,85.7,104.9,27,117,4.3,1,2,2,2,2,4,161,4,12,2,2,31:40,2010,Falcons
+11,13,Sun,2010-12-05,boxscore,Win,0,Away,Buccaneers,28,24,18,36,205,2,2,0,0,5.7,5.7,50.0,62.8,27,85,3.1,1,0,0,4,4,5,204,6,11,0,0,28:00,2010,Falcons
+12,14,Sun,2010-12-12,boxscore,Win,0,Away,Panthers,31,10,20,34,200,1,1,3,27,6.7,5.4,58.8,73.2,36,127,3.5,3,1,1,4,4,7,283,9,17,0,0,34:50,2010,Falcons
+13,15,Sun,2010-12-19,boxscore,Win,0,Away,Seahawks,34,18,20,35,168,3,1,1,6,5.0,4.7,57.1,86.4,37,98,2.6,0,2,2,4,4,4,180,9,19,2,2,35:25,2010,Falcons
+14,16,Mon,2010-12-27,boxscore,Loss,0,Home,Saints,14,17,15,29,140,1,0,1,8,5.1,4.7,51.7,76.8,22,75,3.4,0,0,0,2,2,8,349,3,12,0,0,23:25,2010,Falcons
+15,17,Sun,2011-01-02,boxscore,Win,0,Home,Panthers,31,10,26,38,253,2,0,1,3,6.7,6.5,68.4,104.4,32,99,3.1,1,1,1,4,4,4,163,4,11,0,2,35:30,2010,Falcons

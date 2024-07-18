@@ -1,0 +1,17 @@
+,Week,Day,Date,Boxscore,Win/Loss,Overtime,Home/Away,Opponent,Team Score,Opponenet Score,Passing Completion,Passing Attempts,Passing Yards,Passing Touchdowns,Passing Interceptions,Passing Sacks,Sack Yards,Passing Yards/Attempts,Net Yards/Attempts,Passing Completion Per.,Passing Rate,Rushing Attempts,Rushing Yards,Rushing Yards/Attempts,Rushing Touchdown,Field Goals Made,Field Goals Attempts,Extra Points Made,Extra Point Attempts,Punts,Total Punt Yards,Third Down Conversions,Third Down Attempts,Fourth Down Conversions,Fourth Down Attemtps,Time of Possesion,Year,Team
+0,1,Sun,2010-09-12,boxscore,Win,1,Home,Falcons,15,9,18,26,211,0,1,3,25,9.1,7.3,69.2,77.6,31,143,4.6,1,3,5,0,0,5,254,4,14,0,0,32:06,2010,Steelers
+1,2,Sun,2010-09-19,boxscore,Win,0,Away,Titans,19,11,9,17,21,0,0,4,22,2.5,1.0,52.9,58.7,33,106,3.2,0,4,4,1,1,8,348,2,15,0,0,33:40,2010,Steelers
+2,3,Sun,2010-09-26,boxscore,Win,0,Away,Buccaneers,38,13,12,17,186,3,2,0,0,10.9,10.9,70.6,106.5,32,201,6.3,1,1,1,5,5,1,62,4,9,0,1,26:54,2010,Steelers
+3,4,Sun,2010-10-03,boxscore,Loss,0,Home,Ravens,14,17,12,21,126,0,1,2,15,6.7,5.5,57.1,54.9,27,84,3.1,2,0,2,2,2,5,247,4,11,0,0,29:29,2010,Steelers
+4,6,Sun,2010-10-17,boxscore,Win,0,Home,Browns,28,10,16,27,257,3,1,0,0,9.5,9.5,59.3,112.7,35,121,3.5,1,0,0,4,4,6,257,7,14,0,0,31:56,2010,Steelers
+5,7,Sun,2010-10-24,boxscore,Win,0,Away,Dolphins,23,22,19,27,290,2,0,3,12,11.2,9.7,70.4,130.2,27,58,2.1,0,3,3,2,2,3,142,6,15,0,0,30:49,2010,Steelers
+6,8,Sun,2010-10-31,boxscore,Loss,0,Away,Saints,10,20,17,28,171,0,1,3,24,7.0,5.5,60.7,63.2,21,108,5.1,1,1,2,1,1,4,192,3,10,0,1,25:54,2010,Steelers
+7,9,Mon,2010-11-08,boxscore,Win,0,Away,Bengals,27,21,18,28,193,2,1,1,9,7.2,6.7,64.3,93.3,32,121,3.8,1,2,3,3,3,5,203,6,14,0,0,32:19,2010,Steelers
+8,10,Sun,2010-11-14,boxscore,Loss,0,Home,Patriots,26,39,30,49,349,3,1,5,38,7.9,6.5,61.2,94.7,16,76,4.8,0,1,2,1,1,5,226,5,12,0,0,28:32,2010,Steelers
+9,11,Sun,2010-11-21,boxscore,Win,0,Home,Raiders,35,3,18,29,269,3,0,2,6,9.5,8.7,62.1,126.9,33,162,4.9,2,0,0,5,5,7,315,7,14,0,0,32:47,2010,Steelers
+10,12,Sun,2010-11-28,boxscore,Win,1,Away,Bills,19,16,20,33,220,0,0,5,26,7.5,5.8,60.6,80.4,45,206,4.6,1,4,4,1,1,5,206,12,19,0,0,45:23,2010,Steelers
+11,13,Sun,2010-12-05,boxscore,Win,0,Away,Ravens,13,10,22,38,234,1,1,3,19,6.7,5.7,57.9,73.8,24,54,2.3,0,2,2,1,1,6,248,4,14,1,1,34:08,2010,Steelers
+12,14,Sun,2010-12-12,boxscore,Win,0,Home,Bengals,23,7,21,33,231,0,0,4,27,7.8,6.2,63.6,84.3,27,123,4.6,0,3,3,2,2,5,176,7,15,0,0,34:31,2010,Steelers
+13,15,Sun,2010-12-19,boxscore,Loss,0,Home,Jets,17,22,23,44,232,1,0,3,32,6.0,4.9,52.3,75.2,25,146,5.8,1,1,1,2,2,4,152,11,17,0,0,31:18,2010,Steelers
+14,16,Thu,2010-12-23,boxscore,Win,0,Home,Panthers,27,3,22,32,293,1,0,3,27,10.0,8.4,68.8,107.9,33,115,3.5,2,2,3,3,3,3,136,4,12,0,1,35:24,2010,Steelers
+15,17,Sun,2011-01-02,boxscore,Win,0,Away,Browns,41,9,21,30,318,3,0,2,7,10.8,9.9,70.0,137.9,30,100,3.3,2,2,2,5,5,2,112,8,13,1,1,33:14,2010,Steelers

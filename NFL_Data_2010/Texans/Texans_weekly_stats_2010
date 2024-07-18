@@ -1,0 +1,17 @@
+,Week,Day,Date,Boxscore,Win/Loss,Overtime,Home/Away,Opponent,Team Score,Opponenet Score,Passing Completion,Passing Attempts,Passing Yards,Passing Touchdowns,Passing Interceptions,Passing Sacks,Sack Yards,Passing Yards/Attempts,Net Yards/Attempts,Passing Completion Per.,Passing Rate,Rushing Attempts,Rushing Yards,Rushing Yards/Attempts,Rushing Touchdown,Field Goals Made,Field Goals Attempts,Extra Points Made,Extra Point Attempts,Punts,Total Punt Yards,Third Down Conversions,Third Down Attempts,Fourth Down Conversions,Fourth Down Attemtps,Time of Possesion,Year,Team
+0,1,Sun,2010-09-12,boxscore,Win,0,Home,Colts,34,24,9,17,98,1,1,2,9,6.3,5.2,52.9,65.3,42,257,6.1,3,2,2,4,4,2,91,6,11,1,1,30:53,2010,Texans
+1,2,Sun,2010-09-19,boxscore,Win,1,Away,Redskins,30,27,38,52,468,3,1,5,29,9.6,8.2,73.1,111.7,24,58,2.4,0,3,4,3,3,3,121,6,14,1,2,39:49,2010,Texans
+2,3,Sun,2010-09-26,boxscore,Loss,0,Home,Cowboys,13,27,23,32,216,1,2,4,25,7.5,6.0,71.9,74.5,22,124,5.6,0,2,2,1,1,3,110,4,9,0,0,27:40,2010,Texans
+3,4,Sun,2010-10-03,boxscore,Win,0,Away,Raiders,31,24,16,29,192,2,0,0,0,6.6,6.6,55.2,98.6,36,249,6.9,2,1,2,4,4,6,252,6,13,0,0,29:29,2010,Texans
+4,5,Sun,2010-10-10,boxscore,Loss,0,Home,Giants,10,34,16,34,171,0,1,3,25,5.8,4.6,47.1,50.0,15,24,1.6,1,1,1,1,1,7,312,2,11,0,1,21:09,2010,Texans
+5,6,Sun,2010-10-17,boxscore,Win,0,Home,Chiefs,35,31,25,33,289,2,0,2,16,9.2,8.3,75.8,121.9,22,132,6.0,3,0,0,5,5,4,191,5,10,1,1,26:32,2010,Texans
+6,8,Mon,2010-11-01,boxscore,Loss,0,Away,Colts,17,30,22,38,183,1,1,3,18,5.3,4.5,57.9,68.2,18,108,6.0,1,1,1,2,2,5,222,3,11,0,1,23:35,2010,Texans
+7,9,Sun,2010-11-07,boxscore,Loss,0,Home,Chargers,23,29,21,32,252,0,1,2,15,8.3,7.4,65.6,76.6,34,140,4.1,2,3,3,2,2,2,70,6,13,0,2,33:49,2010,Texans
+8,10,Sun,2010-11-14,boxscore,Loss,0,Away,Jaguars,24,31,22,32,314,2,0,0,0,9.8,9.8,68.8,121.1,21,81,3.9,1,1,1,3,3,4,150,4,10,0,0,24:37,2010,Texans
+9,11,Sun,2010-11-21,boxscore,Loss,0,Away,Jets,27,30,19,33,246,1,0,1,8,7.7,7.2,57.6,91.2,26,97,3.7,2,2,2,3,3,6,244,4,12,0,0,25:41,2010,Texans
+10,12,Sun,2010-11-28,boxscore,Win,0,Home,Titans,20,0,25,35,158,2,0,2,20,5.1,4.3,71.4,99.5,39,188,4.8,0,2,2,2,2,4,199,9,18,1,2,39:41,2010,Texans
+11,13,Thu,2010-12-02,boxscore,Loss,0,Away,Eagles,24,34,22,36,323,2,1,2,14,9.4,8.5,61.1,97.3,26,108,4.2,1,1,1,3,3,2,72,6,10,0,1,28:11,2010,Texans
+12,14,Mon,2010-12-13,boxscore,Loss,1,Home,Ravens,28,34,31,62,378,3,2,2,15,6.3,5.9,50.0,71.8,22,111,5.0,0,2,3,2,2,4,186,7,18,4,4,31:47,2010,Texans
+13,15,Sun,2010-12-19,boxscore,Loss,0,Away,Titans,17,31,35,54,293,2,1,4,32,6.0,5.1,64.8,83.3,17,30,1.8,0,1,1,2,2,4,144,5,13,1,3,32:29,2010,Texans
+14,16,Sun,2010-12-26,boxscore,Loss,0,Away,Broncos,23,24,23,33,310,1,1,0,0,9.4,9.4,69.7,96.8,22,91,4.1,1,3,3,2,2,4,170,1,8,0,0,28:10,2010,Texans
+15,17,Sun,2011-01-02,boxscore,Win,0,Home,Jaguars,34,17,18,22,253,1,0,0,0,11.5,11.5,81.8,129.7,37,244,6.6,3,2,2,4,4,3,116,5,11,0,1,29:12,2010,Texans
