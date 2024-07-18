@@ -1,7 +1,7 @@
-,Rk,Date,G#,Week,Age,Tm,Unnamed: 6_level_1,Opp,Result,Int,Tgt,Cmp,Cmp%,Yds,Yds/Cmp,Yds/Tgt,TD,Rat,DADOT,Air,YAC,Bltz,Hrry,QBKD,Sk,Prss,Comb,MTkl,MTkl%,Year
-0,1.0,2021-10-10,5.0,5.0,24.144,ATL,,NYJ,W 27-20,0,1,1,100.0%,15,15.0,15.0,0,118.7,15.0,15,0,0,0,0,0.0,0,2.0,0,0.0%,2021
-1,2.0,2021-10-24,6.0,7.0,24.158,ATL,@,MIA,W 30-28,0,3,2,66.7%,26,13.0,8.7,0,93.7,6.7,17,9,0,0,0,0.0,0,3.0,1,25.0%,2021
-2,3.0,2021-11-14,9.0,10.0,24.179,ATL,@,DAL,L 3-43,0,0,0,,0,,,0,,,0,0,0,0,0,,0,,0,,2021
-3,4.0,2021-11-18,10.0,11.0,24.183,ATL,,NWE,L 0-25,0,0,0,,0,,,0,,,0,0,0,0,0,,0,,0,,2021
-4,5.0,2021-11-28,11.0,12.0,24.193,ATL,@,JAX,W 21-14,0,1,1,100.0%,7,7.0,7.0,1,135.4,7.0,7,0,0,0,0,0.0,0,0.0,0,,2021
-5,,5 Games,,,,,,,3-2-0,0,5,4,80.0%,48,12.0,9.6,1,146.2,8.4,39,9,0,0,0,0.0,0,5.0,1,16.7%,2021
+,Rk,Date,G#,Week,Age,Tm,Unnamed: 6_level_1,Opp,Result,Int,Tgt,Cmp,Cmp%,Yds,Yds/Cmp,Yds/Tgt,TD,Rat,DADOT,Air,YAC,Bltz,Hrry,QBKD,Sk,Prss,Comb,MTkl,MTkl%,Year,Position,Player_Name,Team
+0,1.0,2021-10-10,5.0,5.0,24.144,ATL,,NYJ,W 27-20,0,1,1,100.0%,15,15.0,15.0,0,118.7,15.0,15,0,0,0,0,0.0,0,2.0,0,0.0%,2021,Left Cornerback,Chris Williamson,Falcons
+1,2.0,2021-10-24,6.0,7.0,24.158,ATL,@,MIA,W 30-28,0,3,2,66.7%,26,13.0,8.7,0,93.7,6.7,17,9,0,0,0,0.0,0,3.0,1,25.0%,2021,Left Cornerback,Chris Williamson,Falcons
+2,3.0,2021-11-14,9.0,10.0,24.179,ATL,@,DAL,L 3-43,0,0,0,,0,,,0,,,0,0,0,0,0,,0,,0,,2021,Left Cornerback,Chris Williamson,Falcons
+3,4.0,2021-11-18,10.0,11.0,24.183,ATL,,NWE,L 0-25,0,0,0,,0,,,0,,,0,0,0,0,0,,0,,0,,2021,Left Cornerback,Chris Williamson,Falcons
+4,5.0,2021-11-28,11.0,12.0,24.193,ATL,@,JAX,W 21-14,0,1,1,100.0%,7,7.0,7.0,1,135.4,7.0,7,0,0,0,0,0.0,0,0.0,0,,2021,Left Cornerback,Chris Williamson,Falcons
+5,,5 Games,,,,,,,3-2-0,0,5,4,80.0%,48,12.0,9.6,1,146.2,8.4,39,9,0,0,0,0.0,0,5.0,1,16.7%,2021,Left Cornerback,Chris Williamson,Falcons

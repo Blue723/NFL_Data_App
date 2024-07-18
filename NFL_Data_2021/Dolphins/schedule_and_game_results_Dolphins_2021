@@ -1,18 +1,18 @@
 ,Week,Day,Date,Time,Win/Loss,Overtime,Team Record,Home/Away,Opponent,Points Scored,Points Allowed,Offense 1st Down,Total Yards Gained of Offense,Total yards Gained by Passing,Total Yards Gained by Rushing,Offense Turnovers,Defense 1st Down,Total Yards Allowed by Defense,Total Passing Yards Allowed by Defense,Total Rushing Yards Allowed by Defense,Defense Turnovers,Offense,Defense,Sp. Tms,Team,Year
-0,1,Sun,2021-09-12,nan,Win,0,1-0,away,New England Patriots,17,16,16,259,185,74,1,24,393,268,125,2,-0.74,-5.75,6.05,Dolphins,2021
-1,2,Sun,2021-09-19,nan,Loss,0,1-1,home,Buffalo Bills,0,35,13,216,145,71,3,21,314,171,143,2,-24.67,-8.16,0.37,Dolphins,2021
-2,3,Sun,2021-09-26,nan,Loss,1,1-2,away,Las Vegas Raiders,28,31,22,330,197,133,0,28,497,357,140,1,5.04,-7.21,-0.43,Dolphins,2021
-3,4,Sun,2021-10-03,nan,Loss,0,1-3,home,Indianapolis Colts,17,27,13,203,168,35,2,20,349,210,139,1,-1.62,-8.09,-4.01,Dolphins,2021
-4,5,Sun,2021-10-10,nan,Loss,0,1-4,away,Tampa Bay Buccaneers,17,45,17,301,262,39,2,33,558,437,121,0,4.28,-40.54,3.08,Dolphins,2021
-5,6,Sun,2021-10-17,nan,Loss,0,1-5,away,Jacksonville Jaguars,20,23,23,431,354,77,1,21,396,312,84,1,6.22,-4.44,-2.72,Dolphins,2021
-6,7,Sun,2021-10-24,nan,Loss,0,1-6,home,Atlanta Falcons,28,30,27,413,281,132,2,21,397,325,72,2,10.04,-10.55,-0.22,Dolphins,2021
-7,8,Sun,2021-10-31,nan,Loss,0,1-7,away,Buffalo Bills,11,26,16,262,194,68,2,24,351,249,102,0,-8.74,-4.52,-1.89,Dolphins,2021
-8,9,Sun,2021-11-07,nan,Win,0,2-7,home,Houston Texans,17,9,22,262,215,47,5,14,272,199,73,4,-8.14,19.43,-4.21,Dolphins,2021
-9,10,Thu,2021-11-11,nan,Win,0,3-7,home,Baltimore Ravens,22,10,17,350,290,60,0,23,304,210,94,2,-4.72,13.81,0.84,Dolphins,2021
-10,11,Sun,2021-11-21,nan,Win,0,4-7,away,New York Jets,24,17,20,388,273,115,1,18,380,278,102,1,13.14,-5.03,0.94,Dolphins,2021
-11,12,Sun,2021-11-28,nan,Win,0,5-7,home,Carolina Panthers,33,10,22,315,204,111,1,10,198,134,64,3,1.89,17.24,2.85,Dolphins,2021
-12,13,Sun,2021-12-05,nan,Win,0,6-7,home,New York Giants,20,9,19,297,229,68,0,16,250,159,91,1,1.6,6.39,3.32,Dolphins,2021
-13,15,Sun,2021-12-19,nan,Win,0,7-7,home,New York Jets,31,24,23,379,196,183,3,16,228,126,102,1,2.65,6.38,-1.79,Dolphins,2021
-14,16,Mon,2021-12-27,nan,Win,0,8-7,away,New Orleans Saints,20,3,16,259,173,86,1,10,164,81,83,2,-3.16,24.8,-3.21,Dolphins,2021
-15,17,Sun,2022-01-02,nan,Loss,0,8-8,away,Tennessee Titans,3,34,16,256,182,74,2,17,308,110,198,0,-14.86,-7.95,-6.05,Dolphins,2021
-16,18,Sun,2022-01-09,nan,Win,0,9-8,home,New England Patriots,33,24,23,298,103,195,0,21,379,245,134,3,9.83,-1.93,8.66,Dolphins,2021
+0,1,Sun,2021-09-12,,Win,0,1-0,away,Patriots,17,16,16,259,185,74,1,24,393,268,125,2,-0.74,-5.75,6.05,Dolphins,2021
+1,2,Sun,2021-09-19,,Loss,0,1-1,home,Bills,0,35,13,216,145,71,3,21,314,171,143,2,-24.67,-8.16,0.37,Dolphins,2021
+2,3,Sun,2021-09-26,,Loss,1,1-2,away,Raiders,28,31,22,330,197,133,0,28,497,357,140,1,5.04,-7.21,-0.43,Dolphins,2021
+3,4,Sun,2021-10-03,,Loss,0,1-3,home,Colts,17,27,13,203,168,35,2,20,349,210,139,1,-1.62,-8.09,-4.01,Dolphins,2021
+4,5,Sun,2021-10-10,,Loss,0,1-4,away,Buccaneers,17,45,17,301,262,39,2,33,558,437,121,0,4.28,-40.54,3.08,Dolphins,2021
+5,6,Sun,2021-10-17,,Loss,0,1-5,away,Jaguars,20,23,23,431,354,77,1,21,396,312,84,1,6.22,-4.44,-2.72,Dolphins,2021
+6,7,Sun,2021-10-24,,Loss,0,1-6,home,Falcons,28,30,27,413,281,132,2,21,397,325,72,2,10.04,-10.55,-0.22,Dolphins,2021
+7,8,Sun,2021-10-31,,Loss,0,1-7,away,Bills,11,26,16,262,194,68,2,24,351,249,102,0,-8.74,-4.52,-1.89,Dolphins,2021
+8,9,Sun,2021-11-07,,Win,0,2-7,home,Texans,17,9,22,262,215,47,5,14,272,199,73,4,-8.14,19.43,-4.21,Dolphins,2021
+9,10,Thu,2021-11-11,,Win,0,3-7,home,Ravens,22,10,17,350,290,60,0,23,304,210,94,2,-4.72,13.81,0.84,Dolphins,2021
+10,11,Sun,2021-11-21,,Win,0,4-7,away,Jets,24,17,20,388,273,115,1,18,380,278,102,1,13.14,-5.03,0.94,Dolphins,2021
+11,12,Sun,2021-11-28,,Win,0,5-7,home,Panthers,33,10,22,315,204,111,1,10,198,134,64,3,1.89,17.24,2.85,Dolphins,2021
+12,13,Sun,2021-12-05,,Win,0,6-7,home,Giants,20,9,19,297,229,68,0,16,250,159,91,1,1.6,6.39,3.32,Dolphins,2021
+13,15,Sun,2021-12-19,,Win,0,7-7,home,Jets,31,24,23,379,196,183,3,16,228,126,102,1,2.65,6.38,-1.79,Dolphins,2021
+14,16,Mon,2021-12-27,,Win,0,8-7,away,Saints,20,3,16,259,173,86,1,10,164,81,83,2,-3.16,24.8,-3.21,Dolphins,2021
+15,17,Sun,2022-01-02,,Loss,0,8-8,away,Titans,3,34,16,256,182,74,2,17,308,110,198,0,-14.86,-7.95,-6.05,Dolphins,2021
+16,18,Sun,2022-01-09,,Win,0,9-8,home,Patriots,33,24,23,298,103,195,0,21,379,245,134,3,9.83,-1.93,8.66,Dolphins,2021

@@ -1,8 +1,8 @@
-,Rk,Date,G#,Week,Age,Tm,Unnamed: 6_level_1,Opp,Result,Att,Yds,TD,1D,YBC,YBC/Att,YAC,YAC/Att,BrkTkl,Att/Br,Year
-0,1.0,2021-09-12,1.0,1.0,22.314,GNB,@,NOR,L 3-38,0,0,0,0.0,0,,0,,0,,2021
-1,2.0,2021-09-20,2.0,2.0,22.322,GNB,,DET,W 35-17,3,-3,0,,-3,-1.0,0,0.0,0,,2021
-2,3.0,2021-11-07,9.0,9.0,23.005,GNB,@,KAN,L 7-13,5,23,0,0.0,20,4.0,3,0.6,0,,2021
-3,4.0,2021-11-21,11.0,11.0,23.019,GNB,@,MIN,L 31-34,1,-1,0,,-1,-1.0,0,0.0,0,,2021
-4,5.0,2022-01-02,16.0,17.0,23.061,GNB,,MIN,W 37-10,2,9,0,1.0,9,4.5,0,0.0,0,,2021
-5,6.0,2022-01-09,17.0,18.0,23.068,GNB,@,DET,L 30-37,1,-1,0,0.0,-1,-1.0,0,0.0,0,,2021
-6,,6 Games,,,,,,,2-4-0,12,27,0,1.0,24,2.0,3,0.3,0,,2021
+,Rk,Date,G#,Week,Age,Tm,Unnamed: 6_level_1,Opp,Result,Att,Yds,TD,1D,YBC,YBC/Att,YAC,YAC/Att,BrkTkl,Att/Br,Year,Position,Player_Name,Team
+0,1.0,2021-09-12,1.0,1.0,22.314,GNB,@,NOR,L 3-38,0,0,0,0.0,0,,0,,0,,2021,Quarterback,Jordan Love,Packers
+1,2.0,2021-09-20,2.0,2.0,22.322,GNB,,DET,W 35-17,3,-3,0,,-3,-1.0,0,0.0,0,,2021,Quarterback,Jordan Love,Packers
+2,3.0,2021-11-07,9.0,9.0,23.005,GNB,@,KAN,L 7-13,5,23,0,0.0,20,4.0,3,0.6,0,,2021,Quarterback,Jordan Love,Packers
+3,4.0,2021-11-21,11.0,11.0,23.019,GNB,@,MIN,L 31-34,1,-1,0,,-1,-1.0,0,0.0,0,,2021,Quarterback,Jordan Love,Packers
+4,5.0,2022-01-02,16.0,17.0,23.061,GNB,,MIN,W 37-10,2,9,0,1.0,9,4.5,0,0.0,0,,2021,Quarterback,Jordan Love,Packers
+5,6.0,2022-01-09,17.0,18.0,23.068,GNB,@,DET,L 30-37,1,-1,0,0.0,-1,-1.0,0,0.0,0,,2021,Quarterback,Jordan Love,Packers
+6,,6 Games,,,,,,,2-4-0,12,27,0,1.0,24,2.0,3,0.3,0,,2021,Quarterback,Jordan Love,Packers

@@ -1,7 +1,7 @@
-,Rk,Date,G#,Week,Age,Tm,Unnamed: 6_level_1,Opp,Result,Int,Tgt,Cmp,Cmp%,Yds,Yds/Cmp,Yds/Tgt,TD,Rat,DADOT,Air,YAC,Bltz,Hrry,QBKD,Sk,Prss,Comb,MTkl,MTkl%,Year
-0,1.0,2021-09-12,1.0,1.0,26.266,ATL,,PHI,L 6-32,0,0,0,,0.0,,,0.0,,,0.0,0.0,0,0,0,0.0,0,0,0,,2021
-1,2.0,2021-09-19,2.0,2.0,26.273,ATL,@,TAM,L 25-48,0,0,0,,0.0,,,0.0,,,0.0,0.0,0,0,0,0.0,0,0,0,,2021
-2,3.0,2021-09-26,3.0,3.0,26.28,ATL,@,NYG,W 17-14,0,0,0,,0.0,,,0.0,,,0.0,0.0,0,0,0,0.0,0,0,0,,2021
-3,4.0,2021-10-03,4.0,4.0,26.287,ATL,,WAS,L 30-34,0,0,0,,0.0,,,0.0,,,0.0,0.0,0,0,0,0.0,0,0,0,,2021
-4,5.0,2021-10-24,6.0,7.0,26.308,ATL,@,MIA,W 30-28,0,0,0,,0.0,,,0.0,,,0.0,0.0,0,0,0,0.0,0,1,0,0.0%,2021
-5,,5 Games,,,,,,,2-3-0,0,0,0,,,,,,,,,,0,0,0,0.0,0,1,0,0.0%,2021
+,Rk,Date,G#,Week,Age,Tm,Unnamed: 6_level_1,Opp,Result,Int,Tgt,Cmp,Cmp%,Yds,Yds/Cmp,Yds/Tgt,TD,Rat,DADOT,Air,YAC,Bltz,Hrry,QBKD,Sk,Prss,Comb,MTkl,MTkl%,Year,Position,Player_Name,Team
+0,1.0,2021-09-12,1.0,1.0,26.266,ATL,,PHI,L 6-32,0,0,0,,0.0,,,0.0,,,0.0,0.0,0,0,0,0.0,0,0,0,,2021,Wide Receiver,Calvin Ridley,Falcons
+1,2.0,2021-09-19,2.0,2.0,26.273,ATL,@,TAM,L 25-48,0,0,0,,0.0,,,0.0,,,0.0,0.0,0,0,0,0.0,0,0,0,,2021,Wide Receiver,Calvin Ridley,Falcons
+2,3.0,2021-09-26,3.0,3.0,26.28,ATL,@,NYG,W 17-14,0,0,0,,0.0,,,0.0,,,0.0,0.0,0,0,0,0.0,0,0,0,,2021,Wide Receiver,Calvin Ridley,Falcons
+3,4.0,2021-10-03,4.0,4.0,26.287,ATL,,WAS,L 30-34,0,0,0,,0.0,,,0.0,,,0.0,0.0,0,0,0,0.0,0,0,0,,2021,Wide Receiver,Calvin Ridley,Falcons
+4,5.0,2021-10-24,6.0,7.0,26.308,ATL,@,MIA,W 30-28,0,0,0,,0.0,,,0.0,,,0.0,0.0,0,0,0,0.0,0,1,0,0.0%,2021,Wide Receiver,Calvin Ridley,Falcons
+5,,5 Games,,,,,,,2-3-0,0,0,0,,,,,,,,,,0,0,0,0.0,0,1,0,0.0%,2021,Wide Receiver,Calvin Ridley,Falcons

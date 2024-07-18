@@ -1,10 +1,10 @@
-,Rk,Date,G#,Week,Age,Tm,Unnamed: 6_level_1,Opp,Result,Int,Tgt,Cmp,Cmp%,Yds,Yds/Cmp,Yds/Tgt,TD,Rat,DADOT,Air,YAC,Bltz,Hrry,QBKD,Sk,Prss,Comb,MTkl,MTkl%,Year
-0,1.0,2021-11-21,10.0,11.0,25.244,LVR,,CIN,L 13-32,0,0,0,,0.0,,,0.0,,,0.0,0.0,0,0,0,,0,,0,,2021
-1,2.0,2021-11-25,11.0,12.0,25.248,LVR,@,DAL,W 36-33,0,0,0,,0.0,,,0.0,,,0.0,0.0,0,0,0,,0,,0,,2021
-2,3.0,2021-12-05,12.0,13.0,25.258,LVR,,WAS,L 15-17,0,0,0,,0.0,,,0.0,,,0.0,0.0,0,0,0,,0,,0,,2021
-3,4.0,2021-12-12,13.0,14.0,25.265,LVR,@,KAN,L 9-48,0,0,0,,0.0,,,0.0,,,0.0,0.0,0,0,0,,0,,0,,2021
-4,5.0,2021-12-20,14.0,15.0,25.273,LVR,@,CLE,W 16-14,0,0,0,,0.0,,,0.0,,,0.0,0.0,0,0,0,0.0,0,1.0,0,0.0%,2021
-5,6.0,2021-12-26,15.0,16.0,25.279,LVR,,DEN,W 17-13,0,0,0,,0.0,,,0.0,,,0.0,0.0,0,0,0,,0,,0,,2021
-6,7.0,2022-01-02,16.0,17.0,25.286,LVR,@,IND,W 23-20,0,0,0,,0.0,,,0.0,,,0.0,0.0,0,0,0,,0,,0,,2021
-7,8.0,2022-01-09,17.0,18.0,25.293,LVR,,LAC,W 35-32,0,0,0,,0.0,,,0.0,,,0.0,0.0,0,0,0,,0,,0,,2021
-8,,8 Games,,,,,,,5-3-0,0,0,0,,,,,,,,,,0,0,0,0.0,0,1.0,0,0.0%,2021
+,Rk,Date,G#,Week,Age,Tm,Unnamed: 6_level_1,Opp,Result,Int,Tgt,Cmp,Cmp%,Yds,Yds/Cmp,Yds/Tgt,TD,Rat,DADOT,Air,YAC,Bltz,Hrry,QBKD,Sk,Prss,Comb,MTkl,MTkl%,Year,Position,Player_Name,Team
+0,1.0,2021-11-21,10.0,11.0,25.244,LVR,,CIN,L 13-32,0,0,0,,0.0,,,0.0,,,0.0,0.0,0,0,0,,0,,0,,2021,Left Outside Linebacker,Sutton Smith,Raiders
+1,2.0,2021-11-25,11.0,12.0,25.248,LVR,@,DAL,W 36-33,0,0,0,,0.0,,,0.0,,,0.0,0.0,0,0,0,,0,,0,,2021,Left Outside Linebacker,Sutton Smith,Raiders
+2,3.0,2021-12-05,12.0,13.0,25.258,LVR,,WAS,L 15-17,0,0,0,,0.0,,,0.0,,,0.0,0.0,0,0,0,,0,,0,,2021,Left Outside Linebacker,Sutton Smith,Raiders
+3,4.0,2021-12-12,13.0,14.0,25.265,LVR,@,KAN,L 9-48,0,0,0,,0.0,,,0.0,,,0.0,0.0,0,0,0,,0,,0,,2021,Left Outside Linebacker,Sutton Smith,Raiders
+4,5.0,2021-12-20,14.0,15.0,25.273,LVR,@,CLE,W 16-14,0,0,0,,0.0,,,0.0,,,0.0,0.0,0,0,0,0.0,0,1.0,0,0.0%,2021,Left Outside Linebacker,Sutton Smith,Raiders
+5,6.0,2021-12-26,15.0,16.0,25.279,LVR,,DEN,W 17-13,0,0,0,,0.0,,,0.0,,,0.0,0.0,0,0,0,,0,,0,,2021,Left Outside Linebacker,Sutton Smith,Raiders
+6,7.0,2022-01-02,16.0,17.0,25.286,LVR,@,IND,W 23-20,0,0,0,,0.0,,,0.0,,,0.0,0.0,0,0,0,,0,,0,,2021,Left Outside Linebacker,Sutton Smith,Raiders
+7,8.0,2022-01-09,17.0,18.0,25.293,LVR,,LAC,W 35-32,0,0,0,,0.0,,,0.0,,,0.0,0.0,0,0,0,,0,,0,,2021,Left Outside Linebacker,Sutton Smith,Raiders
+8,,8 Games,,,,,,,5-3-0,0,0,0,,,,,,,,,,0,0,0,0.0,0,1.0,0,0.0%,2021,Left Outside Linebacker,Sutton Smith,Raiders

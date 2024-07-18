@@ -1,8 +1,8 @@
-,Rk,Date,G#,Week,Age,Tm,Unnamed: 6_level_1,Opp,Result,Int,Tgt,Cmp,Cmp%,Yds,Yds/Cmp,Yds/Tgt,TD,Rat,DADOT,Air,YAC,Bltz,Hrry,QBKD,Sk,Prss,Comb,MTkl,MTkl%,Year
-0,1.0,2021-09-26,3.0,3.0,25.253,WAS,@,BUF,L 21-43,0,0,0,,0.0,,,0.0,,,0.0,0.0,0,1,0,0.0,1,0.0,0,,2021
-1,2.0,2021-11-21,10.0,11.0,25.309,WAS,@,CAR,W 27-21,0,0,0,,0.0,,,0.0,,,0.0,0.0,0,0,0,,0,,0,,2021
-2,3.0,2021-11-29,11.0,12.0,25.317,WAS,,SEA,W 17-15,0,0,0,,0.0,,,0.0,,,0.0,0.0,0,0,1,0.0,1,1.0,0,0.0%,2021
-3,4.0,2021-12-05,12.0,13.0,25.323,WAS,@,LVR,W 17-15,0,0,0,,0.0,,,0.0,,,0.0,0.0,0,0,0,0.0,0,2.0,0,0.0%,2021
-4,5.0,2021-12-12,13.0,14.0,25.33,WAS,,DAL,L 20-27,0,0,0,,0.0,,,0.0,,,0.0,0.0,0,0,0,0.0,0,7.0,0,0.0%,2021
-5,6.0,2021-12-21,14.0,15.0,25.339,WAS,@,PHI,L 17-27,0,0,0,,0.0,,,0.0,,,0.0,0.0,0,1,0,0.0,1,0.0,0,,2021
-6,,6 Games,,,,,,,3-3-0,0,0,0,,,,,,,,,,0,2,1,0.0,3,10.0,0,0.0%,2021
+,Rk,Date,G#,Week,Age,Tm,Unnamed: 6_level_1,Opp,Result,Int,Tgt,Cmp,Cmp%,Yds,Yds/Cmp,Yds/Tgt,TD,Rat,DADOT,Air,YAC,Bltz,Hrry,QBKD,Sk,Prss,Comb,MTkl,MTkl%,Year,Position,Player_Name,Team
+0,1.0,2021-09-26,3.0,3.0,25.253,WAS,@,BUF,L 21-43,0,0,0,,0.0,,,0.0,,,0.0,0.0,0,1,0,0.0,1,0.0,0,,2021,Left Defensive Tackle,Daniel Wise,Commanders
+1,2.0,2021-11-21,10.0,11.0,25.309,WAS,@,CAR,W 27-21,0,0,0,,0.0,,,0.0,,,0.0,0.0,0,0,0,,0,,0,,2021,Left Defensive Tackle,Daniel Wise,Commanders
+2,3.0,2021-11-29,11.0,12.0,25.317,WAS,,SEA,W 17-15,0,0,0,,0.0,,,0.0,,,0.0,0.0,0,0,1,0.0,1,1.0,0,0.0%,2021,Left Defensive Tackle,Daniel Wise,Commanders
+3,4.0,2021-12-05,12.0,13.0,25.323,WAS,@,LVR,W 17-15,0,0,0,,0.0,,,0.0,,,0.0,0.0,0,0,0,0.0,0,2.0,0,0.0%,2021,Left Defensive Tackle,Daniel Wise,Commanders
+4,5.0,2021-12-12,13.0,14.0,25.33,WAS,,DAL,L 20-27,0,0,0,,0.0,,,0.0,,,0.0,0.0,0,0,0,0.0,0,7.0,0,0.0%,2021,Left Defensive Tackle,Daniel Wise,Commanders
+5,6.0,2021-12-21,14.0,15.0,25.339,WAS,@,PHI,L 17-27,0,0,0,,0.0,,,0.0,,,0.0,0.0,0,1,0,0.0,1,0.0,0,,2021,Left Defensive Tackle,Daniel Wise,Commanders
+6,,6 Games,,,,,,,3-3-0,0,0,0,,,,,,,,,,0,2,1,0.0,3,10.0,0,0.0%,2021,Left Defensive Tackle,Daniel Wise,Commanders

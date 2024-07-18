@@ -1,19 +1,19 @@
 ,Week,Day,Date,Time,Win/Loss,Overtime,Team Record,Home/Away,Opponent,Points Scored,Points Allowed,Offense 1st Down,Total Yards Gained of Offense,Total yards Gained by Passing,Total Yards Gained by Rushing,Offense Turnovers,Defense 1st Down,Total Yards Allowed by Defense,Total Passing Yards Allowed by Defense,Total Rushing Yards Allowed by Defense,Defense Turnovers,Offense,Defense,Sp. Tms,Team,Year
-0,1,Mon,2021-09-13,nan,Win,1,1-0,home,Baltimore Ravens,33,27,26,491,409,82,1,20,406,217,189,2,11.58,-3.0,-2.58,Raiders,2021
-1,2,Sun,2021-09-19,nan,Win,0,2-0,away,Pittsburgh Steelers,26,17,22,425,373,52,0,17,331,292,39,1,12.75,-1.19,-0.99,Raiders,2021
-2,3,Sun,2021-09-26,nan,Win,1,3-0,home,Miami Dolphins,31,28,28,497,357,140,1,22,330,197,133,0,7.21,-5.04,0.43,Raiders,2021
-3,4,Mon,2021-10-04,nan,Loss,0,3-1,away,Los Angeles Chargers,14,28,13,213,165,48,1,25,380,212,168,0,-7.95,-11.99,2.22,Raiders,2021
-4,5,Sun,2021-10-10,nan,Loss,0,3-2,home,Chicago Bears,9,20,16,259,188,71,1,19,252,109,143,0,-7.14,-2.39,-2.05,Raiders,2021
-5,6,Sun,2021-10-17,nan,Win,0,4-2,away,Denver Broncos,34,24,16,426,340,86,0,25,421,309,112,4,16.95,-2.97,-1.18,Raiders,2021
-6,7,Sun,2021-10-24,nan,Win,0,5-2,home,Philadelphia Eagles,33,22,23,442,323,119,1,22,358,223,135,2,18.0,-4.67,1.38,Raiders,2021
-7,9,Sun,2021-11-07,nan,Loss,0,5-3,away,New York Giants,16,23,24,403,286,117,3,16,247,98,149,1,-1.72,-0.51,-5.84,Raiders,2021
-8,10,Sun,2021-11-14,nan,Loss,0,5-4,home,Kansas City Chiefs,14,41,15,299,249,50,2,29,516,422,94,1,-1.08,-34.37,7.21,Raiders,2021
-9,11,Sun,2021-11-21,nan,Loss,0,5-5,home,Cincinnati Bengals,13,32,13,278,206,72,2,23,288,129,159,1,-6.44,-6.5,-5.53,Raiders,2021
-10,12,Thu,2021-11-25,nan,Win,1,6-5,away,Dallas Cowboys,36,33,28,509,366,143,0,23,437,373,64,0,18.14,-9.66,-3.08,Raiders,2021
-11,13,Sun,2021-12-05,nan,Loss,0,6-6,home,Washington Football Team,15,17,22,310,234,76,0,23,298,186,112,1,6.39,-8.22,-0.07,Raiders,2021
-12,14,Sun,2021-12-12,nan,Loss,0,6-7,away,Kansas City Chiefs,9,48,19,290,246,44,5,21,372,240,132,0,-9.74,-25.7,-1.07,Raiders,2021
-13,15,Mon,2021-12-20,nan,Win,0,7-7,away,Cleveland Browns,16,14,20,328,230,98,2,13,236,147,89,0,1.6,-1.13,0.2,Raiders,2021
-14,16,Sun,2021-12-26,nan,Win,0,8-7,home,Denver Broncos,17,13,22,342,182,160,3,8,158,140,18,0,-0.46,7.14,-2.09,Raiders,2021
-15,17,Sun,2022-01-02,nan,Win,0,9-7,away,Indianapolis Colts,23,20,18,326,241,85,2,16,262,140,122,0,5.02,-4.03,3.28,Raiders,2021
-16,18,Sun,2022-01-09,nan,Win,1,10-7,home,Los Angeles Chargers,35,32,24,346,172,174,0,27,440,355,85,2,11.13,-16.16,8.69,Raiders,2021
-17,20,Sat,2022-01-15,nan,Loss,0,10-8,away,Cincinnati Bengals,19,26,23,385,282,103,2,18,308,225,83,0,3.65,-7.92,-1.81,Raiders,2021
+0,1,Mon,2021-09-13,,Win,1,1-0,home,Ravens,33,27,26,491,409,82,1,20,406,217,189,2,11.58,-3.0,-2.58,Raiders,2021
+1,2,Sun,2021-09-19,,Win,0,2-0,away,Steelers,26,17,22,425,373,52,0,17,331,292,39,1,12.75,-1.19,-0.99,Raiders,2021
+2,3,Sun,2021-09-26,,Win,1,3-0,home,Dolphins,31,28,28,497,357,140,1,22,330,197,133,0,7.21,-5.04,0.43,Raiders,2021
+3,4,Mon,2021-10-04,,Loss,0,3-1,away,Chargers,14,28,13,213,165,48,1,25,380,212,168,0,-7.95,-11.99,2.22,Raiders,2021
+4,5,Sun,2021-10-10,,Loss,0,3-2,home,Bears,9,20,16,259,188,71,1,19,252,109,143,0,-7.14,-2.39,-2.05,Raiders,2021
+5,6,Sun,2021-10-17,,Win,0,4-2,away,Broncos,34,24,16,426,340,86,0,25,421,309,112,4,16.95,-2.97,-1.18,Raiders,2021
+6,7,Sun,2021-10-24,,Win,0,5-2,home,Eagles,33,22,23,442,323,119,1,22,358,223,135,2,18.0,-4.67,1.38,Raiders,2021
+7,9,Sun,2021-11-07,,Loss,0,5-3,away,Giants,16,23,24,403,286,117,3,16,247,98,149,1,-1.72,-0.51,-5.84,Raiders,2021
+8,10,Sun,2021-11-14,,Loss,0,5-4,home,Chiefs,14,41,15,299,249,50,2,29,516,422,94,1,-1.08,-34.37,7.21,Raiders,2021
+9,11,Sun,2021-11-21,,Loss,0,5-5,home,Bengals,13,32,13,278,206,72,2,23,288,129,159,1,-6.44,-6.5,-5.53,Raiders,2021
+10,12,Thu,2021-11-25,,Win,1,6-5,away,Cowboys,36,33,28,509,366,143,0,23,437,373,64,0,18.14,-9.66,-3.08,Raiders,2021
+11,13,Sun,2021-12-05,,Loss,0,6-6,home,Team,15,17,22,310,234,76,0,23,298,186,112,1,6.39,-8.22,-0.07,Raiders,2021
+12,14,Sun,2021-12-12,,Loss,0,6-7,away,Chiefs,9,48,19,290,246,44,5,21,372,240,132,0,-9.74,-25.7,-1.07,Raiders,2021
+13,15,Mon,2021-12-20,,Win,0,7-7,away,Browns,16,14,20,328,230,98,2,13,236,147,89,0,1.6,-1.13,0.2,Raiders,2021
+14,16,Sun,2021-12-26,,Win,0,8-7,home,Broncos,17,13,22,342,182,160,3,8,158,140,18,0,-0.46,7.14,-2.09,Raiders,2021
+15,17,Sun,2022-01-02,,Win,0,9-7,away,Colts,23,20,18,326,241,85,2,16,262,140,122,0,5.02,-4.03,3.28,Raiders,2021
+16,18,Sun,2022-01-09,,Win,1,10-7,home,Chargers,35,32,24,346,172,174,0,27,440,355,85,2,11.13,-16.16,8.69,Raiders,2021
+17,20,Sat,2022-01-15,,Loss,0,10-8,away,Bengals,19,26,23,385,282,103,2,18,308,225,83,0,3.65,-7.92,-1.81,Raiders,2021

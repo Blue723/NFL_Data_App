@@ -1,47 +1,47 @@
-,Rank,Team,Date,Opponent,Win/Loss,Home_Score,Opponenet_Score,Quarter,Distance,Type,Detail
-1,1,Vikings,2021-09-12,CIN,Loss,24,27,2,2,pass,Tee Higgins
-2,2,Vikings,2021-09-12,CIN,Loss,24,27,2,50,pass,Ja'Marr Chase
-3,3,Vikings,2021-09-12,CIN,Loss,24,27,3,2,rush,Joe Mixon
-4,4,Vikings,2021-09-19,ARI,Loss,33,34,1,15,pass,DeAndre Hopkins
-5,5,Vikings,2021-09-19,ARI,Loss,33,34,2,12,rush,Kyler Murray
-6,6,Vikings,2021-09-19,ARI,Loss,33,34,2,77,pass,Rondale Moore
-7,7,Vikings,2021-09-19,ARI,Loss,33,34,3,9,pass,A.J. Green
-8,8,Vikings,2021-09-26,SEA,Win,30,17,1,10,pass,D.K. Metcalf
-9,9,Vikings,2021-09-26,SEA,Win,30,17,2,30,rush,Chris Carson
-10,10,Vikings,2021-10-03,CLE,Loss,7,14,2,1,rush,Kareem Hunt
-11,11,Vikings,2021-10-10,DET,Win,19,17,4,7,rush,D'Andre Swift
-12,12,Vikings,2021-10-17,CAR,Win,34,28,1,2,rush,Chuba Hubbard
-13,13,Vikings,2021-10-17,CAR,Win,34,28,3,4,blocked punt,Kenny Robinson Jr.
-14,14,Vikings,2021-10-17,CAR,Win,34,28,4,7,pass,Robbie Chosen
-15,15,Vikings,2021-10-31,DAL,Loss,16,20,3,73,pass,Cedrick Wilson Jr.
-16,16,Vikings,2021-10-31,DAL,Loss,16,20,4,5,pass,Amari Cooper
-17,17,Vikings,2021-11-07,BAL,Loss,31,34,2,5,pass,Devonta Freeman
-18,18,Vikings,2021-11-07,BAL,Loss,31,34,3,1,pass,Patrick Ricard
-19,19,Vikings,2021-11-07,BAL,Loss,31,34,4,5,pass,Devin Duvernay
-20,20,Vikings,2021-11-07,BAL,Loss,31,34,4,1,rush,Le'Veon Bell
-21,21,Vikings,2021-11-14,LAC,Win,27,20,2,1,rush,Larry Rountree
-22,22,Vikings,2021-11-14,LAC,Win,27,20,3,2,pass,Austin Ekeler
-23,23,Vikings,2021-11-21,GNB,Win,34,31,2,25,pass,Josiah Deguara
-24,24,Vikings,2021-11-21,GNB,Win,34,31,3,10,pass,Davante Adams
-25,25,Vikings,2021-11-21,GNB,Win,34,31,4,18,pass,Davante Adams
-26,26,Vikings,2021-11-21,GNB,Win,34,31,4,75,pass,Marquez Valdes-Scantling
-27,27,Vikings,2021-11-28,SFO,Loss,26,34,1,20,rush,Deebo Samuel
-28,28,Vikings,2021-11-28,SFO,Loss,26,34,2,3,pass,Jauan Jennings
-29,29,Vikings,2021-11-28,SFO,Loss,26,34,3,3,rush,Deebo Samuel
-30,30,Vikings,2021-11-28,SFO,Loss,26,34,3,2,rush,Elijah Mitchell
-31,31,Vikings,2021-12-05,DET,Loss,27,29,2,9,pass,T.J. Hockenson
-32,32,Vikings,2021-12-05,DET,Loss,27,29,2,23,pass,Brock Wright
-33,33,Vikings,2021-12-05,DET,Loss,27,29,4,11,pass,Amon-Ra St. Brown
-34,34,Vikings,2021-12-09,PIT,Win,36,28,3,3,pass,Najee Harris
-35,35,Vikings,2021-12-09,PIT,Win,36,28,4,1,rush,Najee Harris
-36,36,Vikings,2021-12-09,PIT,Win,36,28,4,30,pass,James Washington
-37,37,Vikings,2021-12-09,PIT,Win,36,28,4,15,pass,Pat Freiermuth
-38,38,Vikings,2021-12-20,CHI,Win,17,9,4,19,pass,Jesper Horsted
-39,39,Vikings,2021-12-26,LAR,Loss,23,30,1,1,rush,Sony Michel
-40,40,Vikings,2021-12-26,LAR,Loss,23,30,3,61,punt,Brandon Powell
-41,41,Vikings,2021-12-26,LAR,Loss,23,30,4,7,pass,Odell Beckham Jr.
-42,42,Vikings,2022-01-02,GNB,Loss,10,37,2,20,pass,Allen Lazard
-43,43,Vikings,2022-01-02,GNB,Loss,10,37,2,11,pass,Davante Adams
-44,44,Vikings,2022-01-02,GNB,Loss,10,37,3,4,rush,AJ Dillon
-45,45,Vikings,2022-01-02,GNB,Loss,10,37,4,7,rush,AJ Dillon
-46,46,Vikings,2022-01-09,CHI,Win,31,17,2,23,pass,Damien Williams
+,Rank,Team,Date,Opponent,Win/Loss,Home_Score,Opponenet_Score,Quarter,Distance,Type,Detail,Year
+1,1,Vikings,2021-09-12,CIN,Loss,24,27,2,2,pass,Tee Higgins,2021
+2,2,Vikings,2021-09-12,CIN,Loss,24,27,2,50,pass,Ja'Marr Chase,2021
+3,3,Vikings,2021-09-12,CIN,Loss,24,27,3,2,rush,Joe Mixon,2021
+4,4,Vikings,2021-09-19,ARI,Loss,33,34,1,15,pass,DeAndre Hopkins,2021
+5,5,Vikings,2021-09-19,ARI,Loss,33,34,2,12,rush,Kyler Murray,2021
+6,6,Vikings,2021-09-19,ARI,Loss,33,34,2,77,pass,Rondale Moore,2021
+7,7,Vikings,2021-09-19,ARI,Loss,33,34,3,9,pass,A.J. Green,2021
+8,8,Vikings,2021-09-26,SEA,Win,30,17,1,10,pass,D.K. Metcalf,2021
+9,9,Vikings,2021-09-26,SEA,Win,30,17,2,30,rush,Chris Carson,2021
+10,10,Vikings,2021-10-03,CLE,Loss,7,14,2,1,rush,Kareem Hunt,2021
+11,11,Vikings,2021-10-10,DET,Win,19,17,4,7,rush,D'Andre Swift,2021
+12,12,Vikings,2021-10-17,CAR,Win,34,28,1,2,rush,Chuba Hubbard,2021
+13,13,Vikings,2021-10-17,CAR,Win,34,28,3,4,blocked punt,Kenny Robinson Jr.,2021
+14,14,Vikings,2021-10-17,CAR,Win,34,28,4,7,pass,Robbie Chosen,2021
+15,15,Vikings,2021-10-31,DAL,Loss,16,20,3,73,pass,Cedrick Wilson Jr.,2021
+16,16,Vikings,2021-10-31,DAL,Loss,16,20,4,5,pass,Amari Cooper,2021
+17,17,Vikings,2021-11-07,BAL,Loss,31,34,2,5,pass,Devonta Freeman,2021
+18,18,Vikings,2021-11-07,BAL,Loss,31,34,3,1,pass,Patrick Ricard,2021
+19,19,Vikings,2021-11-07,BAL,Loss,31,34,4,5,pass,Devin Duvernay,2021
+20,20,Vikings,2021-11-07,BAL,Loss,31,34,4,1,rush,Le'Veon Bell,2021
+21,21,Vikings,2021-11-14,LAC,Win,27,20,2,1,rush,Larry Rountree,2021
+22,22,Vikings,2021-11-14,LAC,Win,27,20,3,2,pass,Austin Ekeler,2021
+23,23,Vikings,2021-11-21,GNB,Win,34,31,2,25,pass,Josiah Deguara,2021
+24,24,Vikings,2021-11-21,GNB,Win,34,31,3,10,pass,Davante Adams,2021
+25,25,Vikings,2021-11-21,GNB,Win,34,31,4,18,pass,Davante Adams,2021
+26,26,Vikings,2021-11-21,GNB,Win,34,31,4,75,pass,Marquez Valdes-Scantling,2021
+27,27,Vikings,2021-11-28,SFO,Loss,26,34,1,20,rush,Deebo Samuel,2021
+28,28,Vikings,2021-11-28,SFO,Loss,26,34,2,3,pass,Jauan Jennings,2021
+29,29,Vikings,2021-11-28,SFO,Loss,26,34,3,3,rush,Deebo Samuel,2021
+30,30,Vikings,2021-11-28,SFO,Loss,26,34,3,2,rush,Elijah Mitchell,2021
+31,31,Vikings,2021-12-05,DET,Loss,27,29,2,9,pass,T.J. Hockenson,2021
+32,32,Vikings,2021-12-05,DET,Loss,27,29,2,23,pass,Brock Wright,2021
+33,33,Vikings,2021-12-05,DET,Loss,27,29,4,11,pass,Amon-Ra St. Brown,2021
+34,34,Vikings,2021-12-09,PIT,Win,36,28,3,3,pass,Najee Harris,2021
+35,35,Vikings,2021-12-09,PIT,Win,36,28,4,1,rush,Najee Harris,2021
+36,36,Vikings,2021-12-09,PIT,Win,36,28,4,30,pass,James Washington,2021
+37,37,Vikings,2021-12-09,PIT,Win,36,28,4,15,pass,Pat Freiermuth,2021
+38,38,Vikings,2021-12-20,CHI,Win,17,9,4,19,pass,Jesper Horsted,2021
+39,39,Vikings,2021-12-26,LAR,Loss,23,30,1,1,rush,Sony Michel,2021
+40,40,Vikings,2021-12-26,LAR,Loss,23,30,3,61,punt,Brandon Powell,2021
+41,41,Vikings,2021-12-26,LAR,Loss,23,30,4,7,pass,Odell Beckham Jr.,2021
+42,42,Vikings,2022-01-02,GNB,Loss,10,37,2,20,pass,Allen Lazard,2021
+43,43,Vikings,2022-01-02,GNB,Loss,10,37,2,11,pass,Davante Adams,2021
+44,44,Vikings,2022-01-02,GNB,Loss,10,37,3,4,rush,AJ Dillon,2021
+45,45,Vikings,2022-01-02,GNB,Loss,10,37,4,7,rush,AJ Dillon,2021
+46,46,Vikings,2022-01-09,CHI,Win,31,17,2,23,pass,Damien Williams,2021

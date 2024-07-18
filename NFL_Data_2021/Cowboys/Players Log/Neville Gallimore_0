@@ -1,7 +1,7 @@
-,Rk,Date,G#,Week,Age,Tm,Unnamed: 6_level_1,Opp,Result,Int,Tgt,Cmp,Cmp%,Yds,Yds/Cmp,Yds/Tgt,TD,Rat,DADOT,Air,YAC,Bltz,Hrry,QBKD,Sk,Prss,Comb,MTkl,MTkl%,Year
-0,1.0,2021-12-12,13.0,14.0,24.329,DAL,@,WAS,W 27-20,0,0,0,,0,,,0,,,0,0,0,0,0,1.0,1,2.0,0,0.0%,2021
-1,2.0,2021-12-19,14.0,15.0,24.336,DAL,@,NYG,W 21-6,0,0,0,,0,,,0,,,0,0,1,1,0,0.5,2,4.0,0,0.0%,2021
-2,3.0,2021-12-26,15.0,16.0,24.343,DAL,,WAS,W 56-14,0,0,0,,0,,,0,,,0,0,0,0,0,,0,,0,,2021
-3,4.0,2022-01-02,16.0,17.0,24.35,DAL,,ARI,L 22-25,0,0,0,,0,,,0,,,0,0,0,0,0,0.0,0,2.0,0,0.0%,2021
-4,5.0,2022-01-08,17.0,18.0,24.356,DAL,@,PHI,W 51-26,0,1,1,100.0%,-8,-8.0,-8.0,0,79.2,-7.0,-7,-1,0,0,0,0.0,0,5.0,1,16.7%,2021
-5,,5 Games,,,,,,,4-1-0,0,1,1,100.0%,-8,-8.0,-8.0,0,79.2,-7.0,-7,-1,1,1,0,1.5,3,13.0,1,7.1%,2021
+,Rk,Date,G#,Week,Age,Tm,Unnamed: 6_level_1,Opp,Result,Int,Tgt,Cmp,Cmp%,Yds,Yds/Cmp,Yds/Tgt,TD,Rat,DADOT,Air,YAC,Bltz,Hrry,QBKD,Sk,Prss,Comb,MTkl,MTkl%,Year,Position,Player_Name,Team
+0,1.0,2021-12-12,13.0,14.0,24.329,DAL,@,WAS,W 27-20,0,0,0,,0,,,0,,,0,0,0,0,0,1.0,1,2.0,0,0.0%,2021,Left Defensive Tackle,Neville Gallimore,Cowboys
+1,2.0,2021-12-19,14.0,15.0,24.336,DAL,@,NYG,W 21-6,0,0,0,,0,,,0,,,0,0,1,1,0,0.5,2,4.0,0,0.0%,2021,Left Defensive Tackle,Neville Gallimore,Cowboys
+2,3.0,2021-12-26,15.0,16.0,24.343,DAL,,WAS,W 56-14,0,0,0,,0,,,0,,,0,0,0,0,0,,0,,0,,2021,Left Defensive Tackle,Neville Gallimore,Cowboys
+3,4.0,2022-01-02,16.0,17.0,24.35,DAL,,ARI,L 22-25,0,0,0,,0,,,0,,,0,0,0,0,0,0.0,0,2.0,0,0.0%,2021,Left Defensive Tackle,Neville Gallimore,Cowboys
+4,5.0,2022-01-08,17.0,18.0,24.356,DAL,@,PHI,W 51-26,0,1,1,100.0%,-8,-8.0,-8.0,0,79.2,-7.0,-7,-1,0,0,0,0.0,0,5.0,1,16.7%,2021,Left Defensive Tackle,Neville Gallimore,Cowboys
+5,,5 Games,,,,,,,4-1-0,0,1,1,100.0%,-8,-8.0,-8.0,0,79.2,-7.0,-7,-1,1,1,0,1.5,3,13.0,1,7.1%,2021,Left Defensive Tackle,Neville Gallimore,Cowboys

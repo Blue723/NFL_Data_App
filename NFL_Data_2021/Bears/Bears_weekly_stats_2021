@@ -1,0 +1,18 @@
+,Week,Day,Date,Boxscore,Win/Loss,Overtime,Home/Away,Opponent,Team Score,Opponenet Score,Passing Completion,Passing Attempts,Passing Yards,Passing Touchdowns,Passing Interceptions,Passing Sacks,Sack Yards,Passing Yards/Attempts,Net Yards/Attempts,Passing Completion Per.,Passing Rate,Rushing Attempts,Rushing Yards,Rushing Yards/Attempts,Rushing Touchdown,Field Goals Made,Field Goals Attempts,Extra Points Made,Extra Point Attempts,Punts,Total Punt Yards,Third Down Conversions,Third Down Attempts,Fourth Down Conversions,Fourth Down Attemtps,Time of Possesion,Year,Team
+0,1,Sun,2021-09-12,boxscore,Loss,0.0,Away,Rams,14,34,29,40,188,0,1,3,28,5.4,4.4,72.5,71.7,26,134,5.2,2,0,0,2,2,1,36,5,11,0,4,35:14,2021,Bears
+1,2,Sun,2021-09-19,boxscore,Win,0.0,Home,Bengals,20,17,15,24,83,1,1,3,33,4.8,3.1,62.5,65.1,34,123,3.6,0,2,2,2,2,4,169,6,15,0,1,31:21,2021,Bears
+2,3,Sun,2021-09-26,boxscore,Loss,0.0,Away,Browns,6,26,6,20,1,0,0,9,67,3.4,0.0,30.0,39.6,13,46,3.5,0,2,2,0,0,7,397,1,11,0,1,20:26,2021,Bears
+3,4,Sun,2021-10-03,boxscore,Win,0.0,Home,Lions,24,14,11,17,185,0,1,1,24,12.3,10.3,64.7,76.8,39,188,4.8,3,1,1,3,3,3,159,1,8,1,1,28:43,2021,Bears
+4,5,Sun,2021-10-10,boxscore,Win,0.0,Away,Raiders,20,9,13,21,109,1,0,2,10,5.7,4.7,61.9,91.2,37,143,3.9,1,2,2,2,2,5,234,6,13,0,0,32:02,2021,Bears
+5,6,Sun,2021-10-17,boxscore,Loss,0.0,Home,Packers,14,24,16,27,137,1,1,4,37,6.4,4.4,59.3,69.5,26,140,5.4,1,0,0,2,2,4,161,4,11,1,2,27:43,2021,Bears
+6,7,Sun,2021-10-24,boxscore,Loss,0.0,Away,Buccaneers,3,38,22,32,168,0,3,4,16,5.8,4.7,68.8,42.2,29,143,4.9,0,1,1,0,0,4,160,2,11,0,1,28:55,2021,Bears
+7,8,Sun,2021-10-31,boxscore,Loss,0.0,Home,49ers,22,33,19,27,148,1,1,4,27,6.5,4.8,70.4,80.5,36,176,4.9,1,3,3,1,2,2,85,8,15,1,1,36:49,2021,Bears
+8,9,Mon,2021-11-08,boxscore,Loss,0.0,Away,Steelers,27,29,17,29,278,1,1,3,13,10.0,8.7,58.6,88.0,26,136,5.2,1,2,3,3,3,5,234,4,12,0,0,26:02,2021,Bears
+9,11,Sun,2021-11-21,boxscore,Loss,0.0,Home,Ravens,13,16,15,34,261,2,0,3,19,8.2,7.1,44.1,90.4,20,92,4.6,0,0,1,1,1,5,205,2,11,2,3,21:10,2021,Bears
+10,12,Thu,2021-11-25,boxscore,Win,0.0,Away,Lions,16,14,24,39,310,1,1,1,7,8.1,7.8,61.5,84.3,29,68,2.3,0,3,4,1,1,4,183,5,13,0,0,32:56,2021,Bears
+11,13,Sun,2021-12-05,boxscore,Loss,0.0,Home,Cardinals,22,33,26,41,217,2,4,3,12,5.6,4.9,63.4,53.7,27,112,4.1,1,0,0,2,2,2,91,6,15,4,4,34:45,2021,Bears
+12,14,Sun,2021-12-12,boxscore,Loss,0.0,Away,Packers,30,45,18,33,210,2,2,2,14,6.8,6.0,54.5,69.0,23,137,6.0,0,3,3,3,3,4,185,5,13,0,1,25:00,2021,Bears
+13,15,Mon,2021-12-20,boxscore,Loss,0.0,Home,Vikings,9,17,26,39,255,1,0,3,30,7.3,6.1,66.7,93.4,28,115,4.1,0,1,2,0,0,3,161,2,12,2,5,29:15,2021,Bears
+14,16,Sun,2021-12-26,boxscore,Win,0.0,Away,Seahawks,25,24,24,35,229,1,0,4,21,7.1,5.9,68.6,96.0,30,88,2.9,2,1,1,2,2,3,135,7,14,1,3,38:25,2021,Bears
+15,17,Sun,2022-01-02,boxscore,Win,0.0,Home,Giants,29,3,18,36,162,1,2,2,11,4.8,4.3,50.0,48.6,27,87,3.2,2,2,2,3,3,5,227,6,16,2,3,30:08,2021,Bears
+16,18,Sun,2022-01-09,boxscore,Loss,0.0,Away,Vikings,17,31,33,48,266,1,2,7,59,6.8,4.8,68.8,72.0,25,90,3.6,0,3,3,0,0,1,43,5,15,1,6,36:47,2021,Bears

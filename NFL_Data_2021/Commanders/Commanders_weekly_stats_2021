@@ -1,0 +1,18 @@
+,Week,Day,Date,Boxscore,Win/Loss,Overtime,Home/Away,Opponent,Team Score,Opponenet Score,Passing Completion,Passing Attempts,Passing Yards,Passing Touchdowns,Passing Interceptions,Passing Sacks,Sack Yards,Passing Yards/Attempts,Net Yards/Attempts,Passing Completion Per.,Passing Rate,Rushing Attempts,Rushing Yards,Rushing Yards/Attempts,Rushing Touchdown,Field Goals Made,Field Goals Attempts,Extra Points Made,Extra Point Attempts,Punts,Total Punt Yards,Third Down Conversions,Third Down Attempts,Fourth Down Conversions,Fourth Down Attemtps,Time of Possesion,Year,Team
+0,1,Sun,2021-09-12,boxscore,Loss,0.0,Home,Chargers,16,20,14,21,133,1,0,1,2,6.4,6.0,66.7,99.9,27,126,4.7,0,3,4,1,1,3,138,3,10,1,1,23:57,2021,Commanders
+1,2,Thu,2021-09-16,boxscore,Win,0.0,Home,Giants,30,29,34,46,320,2,1,1,16,7.3,6.8,73.9,98.1,22,87,4.0,1,3,3,3,3,4,200,4,13,2,2,28:16,2021,Commanders
+2,3,Sun,2021-09-26,boxscore,Loss,0.0,Away,Bills,21,43,14,24,212,2,2,1,0,8.8,8.5,58.3,80.6,25,78,3.1,1,0,0,3,3,5,235,2,11,1,2,24:23,2021,Commanders
+3,4,Sun,2021-10-03,boxscore,Win,0.0,Away,Falcons,34,30,23,33,290,3,0,1,0,8.8,8.5,69.7,127.1,28,122,4.4,1,1,1,1,3,2,84,4,9,1,2,29:17,2021,Commanders
+4,5,Sun,2021-10-10,boxscore,Loss,0.0,Home,Saints,22,33,20,41,242,0,2,2,6,6.0,5.6,48.8,47.0,33,131,4.0,2,3,3,1,1,3,154,5,16,1,3,36:26,2021,Commanders
+5,6,Sun,2021-10-17,boxscore,Loss,0.0,Home,Chiefs,13,31,24,39,182,1,1,0,0,4.7,4.7,61.5,70.7,19,94,4.9,0,2,3,1,1,4,232,7,14,0,0,26:07,2021,Commanders
+6,7,Sun,2021-10-24,boxscore,Loss,0.0,Away,Packers,10,24,25,37,235,1,1,4,33,7.2,5.7,67.6,82.6,29,195,6.7,0,1,2,1,1,0,0,4,11,1,4,32:54,2021,Commanders
+7,8,Sun,2021-10-31,boxscore,Loss,0.0,Away,Broncos,10,17,24,39,230,1,2,5,40,6.9,5.2,61.5,65.1,24,112,4.7,0,1,3,1,1,1,66,5,14,1,5,31:50,2021,Commanders
+8,10,Sun,2021-11-14,boxscore,Win,0.0,Home,Buccaneers,29,19,26,32,226,1,0,5,30,8.0,6.1,81.3,106.5,34,94,2.8,2,3,3,2,2,2,89,11,19,2,2,39:08,2021,Commanders
+9,11,Sun,2021-11-21,boxscore,Win,0.0,Away,Panthers,27,21,16,22,179,3,0,3,27,9.4,7.2,72.7,136.2,40,190,4.8,0,2,2,3,3,3,139,6,13,2,2,35:53,2021,Commanders
+10,12,Mon,2021-11-29,boxscore,Win,0.0,Home,Seahawks,17,15,27,35,219,1,1,1,4,6.4,6.1,77.1,90.1,43,152,3.5,1,1,1,0,1,5,218,5,13,1,2,41:25,2021,Commanders
+11,13,Sun,2021-12-05,boxscore,Win,0.0,Away,Raiders,17,15,23,30,186,2,1,1,10,6.5,6.0,76.7,100.1,30,112,3.7,0,1,1,2,2,4,197,7,13,0,0,33:43,2021,Commanders
+12,14,Sun,2021-12-12,boxscore,Loss,0.0,Home,Cowboys,20,27,15,34,124,1,1,5,51,5.1,3.2,44.1,51.6,23,100,4.3,1,0,0,0,1,7,356,3,14,1,2,25:31,2021,Commanders
+13,15,Tue,2021-12-21,boxscore,Loss,0.0,Away,Eagles,17,27,20,31,174,0,0,2,20,6.3,5.3,64.5,79.2,21,63,3.0,2,1,1,2,2,5,240,6,13,0,1,24:43,2021,Commanders
+14,16,Sun,2021-12-26,boxscore,Loss,0.0,Away,Cowboys,14,56,15,32,172,2,2,5,16,5.9,4.6,46.9,58.3,20,85,4.3,0,0,0,2,2,7,308,3,13,1,2,28:29,2021,Commanders
+15,17,Sun,2022-01-02,boxscore,Loss,0.0,Home,Eagles,16,20,27,36,218,0,1,3,29,6.9,5.6,75.0,78.2,22,94,4.3,1,3,3,1,1,2,84,9,15,0,1,27:51,2021,Commanders
+16,18,Sun,2022-01-09,boxscore,Win,0.0,Away,Giants,22,7,9,18,99,0,0,3,21,6.7,4.7,50.0,66.7,37,226,6.1,1,3,3,1,1,6,245,3,13,1,1,32:17,2021,Commanders

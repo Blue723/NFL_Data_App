@@ -1,0 +1,18 @@
+,Week,Day,Date,Boxscore,Win/Loss,Overtime,Home/Away,Opponent,Team Score,Opponenet Score,Passing Completion,Passing Attempts,Passing Yards,Passing Touchdowns,Passing Interceptions,Passing Sacks,Sack Yards,Passing Yards/Attempts,Net Yards/Attempts,Passing Completion Per.,Passing Rate,Rushing Attempts,Rushing Yards,Rushing Yards/Attempts,Rushing Touchdown,Field Goals Made,Field Goals Attempts,Extra Points Made,Extra Point Attempts,Punts,Total Punt Yards,Third Down Conversions,Third Down Attempts,Fourth Down Conversions,Fourth Down Attemtps,Time of Possesion,Year,Team
+0,1,Sun,2021-09-12,boxscore,Loss,0.0,Home,Eagles,6,32,21,35,136,0,0,3,28,4.7,3.6,60.0,68.3,26,124,4.8,0,2,2,0,0,6,279,3,14,1,3,28:58,2021,Falcons
+1,2,Sun,2021-09-19,boxscore,Loss,0.0,Away,Buccaneers,25,48,35,48,293,2,3,1,7,6.3,6.0,72.9,76.1,20,55,2.8,1,1,1,2,2,4,157,6,15,1,4,33:31,2021,Falcons
+2,3,Sun,2021-09-26,boxscore,Win,0.0,Away,Giants,17,14,27,36,227,2,0,3,16,6.8,5.8,75.0,109.4,20,69,3.5,0,1,1,2,2,6,284,5,13,0,0,28:09,2021,Falcons
+3,4,Sun,2021-10-03,boxscore,Loss,0.0,Home,Team,30,34,25,42,275,4,0,1,8,6.7,6.4,59.5,110.7,28,99,3.5,0,1,1,3,3,4,167,10,16,0,0,30:43,2021,Falcons
+4,5,Sun,2021-10-10,boxscore,Win,0.0,Home,Jets,27,20,33,46,342,2,0,0,0,7.4,7.4,71.7,107.3,29,108,3.7,1,2,2,3,3,2,56,9,14,1,1,35:54,2021,Falcons
+5,7,Sun,2021-10-24,boxscore,Win,0.0,Away,Dolphins,30,28,25,40,325,2,1,1,11,8.4,7.9,62.5,94.3,22,72,3.3,1,3,3,3,3,3,126,6,13,0,0,25:22,2021,Falcons
+6,8,Sun,2021-10-31,boxscore,Loss,0.0,Home,Panthers,13,19,20,27,131,1,2,3,15,5.4,4.4,74.1,65.5,20,82,4.1,0,2,3,1,1,4,190,3,10,1,1,24:37,2021,Falcons
+7,9,Sun,2021-11-07,boxscore,Win,0.0,Away,Saints,27,25,23,30,332,2,0,2,11,11.4,10.4,76.7,134.3,25,34,1.4,1,2,2,3,3,5,224,5,13,0,1,27:39,2021,Falcons
+8,10,Sun,2021-11-14,boxscore,Loss,0.0,Away,Cowboys,3,43,10,27,111,0,3,2,20,4.9,3.8,37.0,10.5,24,103,4.3,0,1,1,0,0,5,231,1,11,0,2,22:19,2021,Falcons
+9,11,Thu,2021-11-18,boxscore,Loss,0.0,Home,Patriots,0,25,20,32,125,0,4,4,33,4.9,3.5,62.5,30.9,16,40,2.5,0,0,1,0,0,5,269,2,11,1,2,27:17,2021,Falcons
+10,12,Sun,2021-11-28,boxscore,Win,0.0,Away,Jaguars,21,14,19,29,183,1,1,1,7,6.6,6.1,65.5,80.1,29,149,5.1,2,0,0,3,3,5,224,5,12,0,0,30:52,2021,Falcons
+11,13,Sun,2021-12-05,boxscore,Loss,0.0,Home,Buccaneers,17,30,30,41,259,0,0,5,38,7.2,5.6,73.2,89.4,23,121,5.3,1,1,1,2,2,5,215,9,17,0,0,32:46,2021,Falcons
+12,14,Sun,2021-12-12,boxscore,Win,0.0,Away,Panthers,29,21,19,28,190,1,0,0,0,6.8,6.8,67.9,98.8,36,128,3.6,1,3,3,2,2,2,110,7,14,2,2,34:37,2021,Falcons
+13,15,Sun,2021-12-19,boxscore,Loss,0.0,Away,49ers,13,31,19,32,213,1,0,3,23,7.4,6.1,59.4,89.7,23,62,2.7,0,2,2,1,1,2,99,5,13,0,3,29:33,2021,Falcons
+14,16,Sun,2021-12-26,boxscore,Win,0.0,Home,Lions,20,16,18,24,207,1,0,3,8,9.0,7.7,75.0,114.4,18,47,2.6,1,2,2,2,2,2,115,2,8,1,1,21:55,2021,Falcons
+15,17,Sun,2022-01-02,boxscore,Loss,0.0,Away,Bills,15,29,13,23,169,0,0,5,28,8.6,6.0,56.5,79.8,22,96,4.4,1,2,2,1,1,4,159,1,7,0,1,23:53,2021,Falcons
+16,18,Sun,2022-01-09,boxscore,Loss,0.0,Home,Saints,20,30,20,33,195,1,1,3,21,6.5,5.4,60.6,74.7,12,62,5.2,1,2,2,2,2,2,93,3,10,2,3,20:43,2021,Falcons

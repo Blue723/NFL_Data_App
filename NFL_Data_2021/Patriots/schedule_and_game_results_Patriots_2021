@@ -1,19 +1,19 @@
 ,Week,Day,Date,Time,Win/Loss,Overtime,Team Record,Home/Away,Opponent,Points Scored,Points Allowed,Offense 1st Down,Total Yards Gained of Offense,Total yards Gained by Passing,Total Yards Gained by Rushing,Offense Turnovers,Defense 1st Down,Total Yards Allowed by Defense,Total Passing Yards Allowed by Defense,Total Rushing Yards Allowed by Defense,Defense Turnovers,Offense,Defense,Sp. Tms,Team,Year
-0,1,Sun,2021-09-12,nan,Loss,0,0-1,home,Miami Dolphins,16,17,24,393,268,125,2,16,259,185,74,1,5.75,0.74,-6.05,Patriots,2021
-1,2,Sun,2021-09-19,nan,Win,0,1-1,away,New York Jets,25,6,17,260,159,101,0,18,336,184,152,4,0.24,12.66,3.52,Patriots,2021
-2,3,Sun,2021-09-26,nan,Loss,0,1-2,home,New Orleans Saints,13,28,16,300,251,49,3,19,252,110,142,0,-16.39,-3.67,5.4,Patriots,2021
-3,4,Sun,2021-10-03,nan,Loss,0,1-3,home,Tampa Bay Buccaneers,17,19,20,294,295,-1,2,22,381,261,120,0,0.96,-5.45,2.94,Patriots,2021
-4,5,Sun,2021-10-10,nan,Win,0,2-3,away,Houston Texans,25,22,21,352,226,126,2,14,360,293,67,1,6.89,-13.76,8.6,Patriots,2021
-5,6,Sun,2021-10-17,nan,Loss,1,2-4,home,Dallas Cowboys,29,35,17,335,215,120,2,32,567,445,122,2,0.65,-9.87,0.9,Patriots,2021
-6,7,Sun,2021-10-24,nan,Win,0,3-4,home,New York Jets,54,13,32,551,403,148,0,18,299,237,62,3,37.61,5.92,0.06,Patriots,2021
-7,8,Sun,2021-10-31,nan,Win,0,4-4,away,Los Angeles Chargers,27,24,21,352,210,142,1,17,369,206,163,2,-1.47,-1.35,9.98,Patriots,2021
-8,9,Sun,2021-11-07,nan,Win,0,5-4,away,Carolina Panthers,24,6,17,273,122,151,2,13,240,162,78,3,-3.56,26.35,-5.26,Patriots,2021
-9,10,Sun,2021-11-14,nan,Win,0,6-4,home,Cleveland Browns,45,7,30,452,268,184,0,17,217,118,99,1,31.28,9.48,-2.69,Patriots,2021
-10,11,Thu,2021-11-18,nan,Win,0,7-4,away,Atlanta Falcons,25,0,20,308,174,134,1,11,165,125,40,4,-0.69,25.53,2.44,Patriots,2021
-11,12,Sun,2021-11-28,nan,Win,0,8-4,home,Tennessee Titans,36,13,23,394,289,105,0,18,355,85,270,4,16.62,2.23,4.08,Patriots,2021
-12,13,Mon,2021-12-06,nan,Win,0,9-4,away,Buffalo Bills,14,10,11,241,19,222,1,16,230,131,99,1,-1.79,7.94,-0.85,Patriots,2021
-13,15,Sat,2021-12-18,nan,Loss,0,9-5,away,Indianapolis Colts,17,27,20,365,284,81,2,15,275,49,226,1,-2.77,-3.63,-4.16,Patriots,2021
-14,16,Sun,2021-12-26,nan,Loss,0,9-6,home,Buffalo Bills,21,33,20,288,139,149,2,28,428,314,114,0,9.37,-19.09,1.08,Patriots,2021
-15,17,Sun,2022-01-02,nan,Win,0,10-6,home,Jacksonville Jaguars,50,10,32,471,290,181,0,11,253,173,80,3,32.81,11.33,-3.4,Patriots,2021
-16,18,Sun,2022-01-09,nan,Loss,0,10-7,away,Miami Dolphins,24,33,21,379,245,134,3,23,298,103,195,0,1.93,-9.83,-8.66,Patriots,2021
-17,20,Sat,2022-01-15,nan,Loss,0,10-8,away,Buffalo Bills,17,47,20,305,216,89,2,29,482,308,174,0,9.53,-40.37,1.53,Patriots,2021
+0,1,Sun,2021-09-12,,Loss,0,0-1,home,Dolphins,16,17,24,393,268,125,2,16,259,185,74,1,5.75,0.74,-6.05,Patriots,2021
+1,2,Sun,2021-09-19,,Win,0,1-1,away,Jets,25,6,17,260,159,101,0,18,336,184,152,4,0.24,12.66,3.52,Patriots,2021
+2,3,Sun,2021-09-26,,Loss,0,1-2,home,Saints,13,28,16,300,251,49,3,19,252,110,142,0,-16.39,-3.67,5.4,Patriots,2021
+3,4,Sun,2021-10-03,,Loss,0,1-3,home,Buccaneers,17,19,20,294,295,-1,2,22,381,261,120,0,0.96,-5.45,2.94,Patriots,2021
+4,5,Sun,2021-10-10,,Win,0,2-3,away,Texans,25,22,21,352,226,126,2,14,360,293,67,1,6.89,-13.76,8.6,Patriots,2021
+5,6,Sun,2021-10-17,,Loss,1,2-4,home,Cowboys,29,35,17,335,215,120,2,32,567,445,122,2,0.65,-9.87,0.9,Patriots,2021
+6,7,Sun,2021-10-24,,Win,0,3-4,home,Jets,54,13,32,551,403,148,0,18,299,237,62,3,37.61,5.92,0.06,Patriots,2021
+7,8,Sun,2021-10-31,,Win,0,4-4,away,Chargers,27,24,21,352,210,142,1,17,369,206,163,2,-1.47,-1.35,9.98,Patriots,2021
+8,9,Sun,2021-11-07,,Win,0,5-4,away,Panthers,24,6,17,273,122,151,2,13,240,162,78,3,-3.56,26.35,-5.26,Patriots,2021
+9,10,Sun,2021-11-14,,Win,0,6-4,home,Browns,45,7,30,452,268,184,0,17,217,118,99,1,31.28,9.48,-2.69,Patriots,2021
+10,11,Thu,2021-11-18,,Win,0,7-4,away,Falcons,25,0,20,308,174,134,1,11,165,125,40,4,-0.69,25.53,2.44,Patriots,2021
+11,12,Sun,2021-11-28,,Win,0,8-4,home,Titans,36,13,23,394,289,105,0,18,355,85,270,4,16.62,2.23,4.08,Patriots,2021
+12,13,Mon,2021-12-06,,Win,0,9-4,away,Bills,14,10,11,241,19,222,1,16,230,131,99,1,-1.79,7.94,-0.85,Patriots,2021
+13,15,Sat,2021-12-18,,Loss,0,9-5,away,Colts,17,27,20,365,284,81,2,15,275,49,226,1,-2.77,-3.63,-4.16,Patriots,2021
+14,16,Sun,2021-12-26,,Loss,0,9-6,home,Bills,21,33,20,288,139,149,2,28,428,314,114,0,9.37,-19.09,1.08,Patriots,2021
+15,17,Sun,2022-01-02,,Win,0,10-6,home,Jaguars,50,10,32,471,290,181,0,11,253,173,80,3,32.81,11.33,-3.4,Patriots,2021
+16,18,Sun,2022-01-09,,Loss,0,10-7,away,Dolphins,24,33,21,379,245,134,3,23,298,103,195,0,1.93,-9.83,-8.66,Patriots,2021
+17,20,Sat,2022-01-15,,Loss,0,10-8,away,Bills,17,47,20,305,216,89,2,29,482,308,174,0,9.53,-40.37,1.53,Patriots,2021

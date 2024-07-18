@@ -1,8 +1,8 @@
-,Rk,Date,G#,Week,Age,Tm,Unnamed: 6_level_1,Opp,Result,Int,Tgt,Cmp,Cmp%,Yds,Yds/Cmp,Yds/Tgt,TD,Rat,DADOT,Air,YAC,Bltz,Hrry,QBKD,Sk,Prss,Comb,MTkl,MTkl%,Year
-0,1.0,2021-10-03,4.0,4.0,23.123,DEN,,BAL,L 7-23,0,0,0,,0.0,,,0.0,,,0.0,0.0,0,0,0,,0,,0,,2021
-1,2.0,2021-10-21,7.0,7.0,23.141,DEN,@,CLE,L 14-17,0,0,0,,0.0,,,0.0,,,0.0,0.0,0,0,0,0.0,0,3.0,0,0.0%,2021
-2,3.0,2021-11-14,10.0,10.0,23.165,DEN,,PHI,L 13-30,0,0,0,,0.0,,,0.0,,,0.0,0.0,3,0,1,0.0,1,2.0,2,50.0%,2021
-3,4.0,2021-12-23,15.0,16.0,23.204,SFO,@,TEN,L 17-20,0,0,0,,0.0,,,0.0,,,0.0,0.0,0,0,0,,0,,0,,2021
-4,5.0,2022-01-02,16.0,17.0,23.214,SFO,,HOU,W 23-7,0,0,0,,0.0,,,0.0,,,0.0,0.0,0,0,0,,0,,0,,2021
-5,6.0,2022-01-09,17.0,18.0,23.221,SFO,@,LAR,W 27-24,0,0,0,,0.0,,,0.0,,,0.0,0.0,0,0,0,0.0,0,1.0,0,0.0%,2021
-6,,6 Games,,,,,,,2-4-0,0,0,0,,,,,,,,,,3,0,1,0.0,1,6.0,2,25.0%,2021
+,Rk,Date,G#,Week,Age,Tm,Unnamed: 6_level_1,Opp,Result,Int,Tgt,Cmp,Cmp%,Yds,Yds/Cmp,Yds/Tgt,TD,Rat,DADOT,Air,YAC,Bltz,Hrry,QBKD,Sk,Prss,Comb,MTkl,MTkl%,Year,Position,Player_Name,Team
+0,1.0,2021-10-03,4.0,4.0,23.123,DEN,,BAL,L 7-23,0,0,0,,0.0,,,0.0,,,0.0,0.0,0,0,0,,0,,0,,2021,Left Outside Linebacker,Curtis Robinson,Broncos
+1,2.0,2021-10-21,7.0,7.0,23.141,DEN,@,CLE,L 14-17,0,0,0,,0.0,,,0.0,,,0.0,0.0,0,0,0,0.0,0,3.0,0,0.0%,2021,Left Outside Linebacker,Curtis Robinson,Broncos
+2,3.0,2021-11-14,10.0,10.0,23.165,DEN,,PHI,L 13-30,0,0,0,,0.0,,,0.0,,,0.0,0.0,3,0,1,0.0,1,2.0,2,50.0%,2021,Left Outside Linebacker,Curtis Robinson,Broncos
+3,4.0,2021-12-23,15.0,16.0,23.204,SFO,@,TEN,L 17-20,0,0,0,,0.0,,,0.0,,,0.0,0.0,0,0,0,,0,,0,,2021,Left Outside Linebacker,Curtis Robinson,Broncos
+4,5.0,2022-01-02,16.0,17.0,23.214,SFO,,HOU,W 23-7,0,0,0,,0.0,,,0.0,,,0.0,0.0,0,0,0,,0,,0,,2021,Left Outside Linebacker,Curtis Robinson,Broncos
+5,6.0,2022-01-09,17.0,18.0,23.221,SFO,@,LAR,W 27-24,0,0,0,,0.0,,,0.0,,,0.0,0.0,0,0,0,0.0,0,1.0,0,0.0%,2021,Left Outside Linebacker,Curtis Robinson,Broncos
+6,,6 Games,,,,,,,2-4-0,0,0,0,,,,,,,,,,3,0,1,0.0,1,6.0,2,25.0%,2021,Left Outside Linebacker,Curtis Robinson,Broncos

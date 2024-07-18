@@ -1,7 +1,7 @@
-,Rk,Date,G#,Week,Age,Tm,Unnamed: 6_level_1,Opp,Result,Int,Tgt,Cmp,Cmp%,Yds,Yds/Cmp,Yds/Tgt,TD,Rat,DADOT,Air,YAC,Bltz,Hrry,QBKD,Sk,Prss,Comb,MTkl,MTkl%,Year
-0,1.0,2021-09-09,1.0,1.0,27.352,DAL,@,TAM,L 29-31,0,0,0,,0,,,0,,,0,0,0,0,0,,0,,0,,2021
-1,2.0,2021-12-12,13.0,14.0,28.081,DAL,@,WAS,W 27-20,0,0,0,,0,,,0,,,0,0,0,0,0,0.0,0,1.0,0,0.0%,2021
-2,3.0,2021-12-19,14.0,15.0,28.088,DAL,@,NYG,W 21-6,0,0,0,,0,,,0,,,0,0,0,0,0,,0,,0,,2021
-3,4.0,2021-12-26,15.0,16.0,28.095,DAL,,WAS,W 56-14,0,1,1,100.0%,19,19.0,19.0,0,118.7,19.0,19,0,1,0,0,0.0,0,2.0,0,0.0%,2021
-4,5.0,2022-01-02,16.0,17.0,28.102,DAL,,ARI,L 22-25,0,0,0,,0,,,0,,,0,0,0,0,0,,0,,0,,2021
-5,,5 Games,,,,,,,3-2-0,0,1,1,100.0%,19,19.0,19.0,0,118.7,19.0,19,0,1,0,0,0.0,0,3.0,0,0.0%,2021
+,Rk,Date,G#,Week,Age,Tm,Unnamed: 6_level_1,Opp,Result,Int,Tgt,Cmp,Cmp%,Yds,Yds/Cmp,Yds/Tgt,TD,Rat,DADOT,Air,YAC,Bltz,Hrry,QBKD,Sk,Prss,Comb,MTkl,MTkl%,Year,Position,Player_Name,Team
+0,1.0,2021-09-09,1.0,1.0,27.352,DAL,@,TAM,L 29-31,0,0,0,,0,,,0,,,0,0,0,0,0,,0,,0,,2021,Defensive Back,Darian Thompson,Cowboys
+1,2.0,2021-12-12,13.0,14.0,28.081,DAL,@,WAS,W 27-20,0,0,0,,0,,,0,,,0,0,0,0,0,0.0,0,1.0,0,0.0%,2021,Defensive Back,Darian Thompson,Cowboys
+2,3.0,2021-12-19,14.0,15.0,28.088,DAL,@,NYG,W 21-6,0,0,0,,0,,,0,,,0,0,0,0,0,,0,,0,,2021,Defensive Back,Darian Thompson,Cowboys
+3,4.0,2021-12-26,15.0,16.0,28.095,DAL,,WAS,W 56-14,0,1,1,100.0%,19,19.0,19.0,0,118.7,19.0,19,0,1,0,0,0.0,0,2.0,0,0.0%,2021,Defensive Back,Darian Thompson,Cowboys
+4,5.0,2022-01-02,16.0,17.0,28.102,DAL,,ARI,L 22-25,0,0,0,,0,,,0,,,0,0,0,0,0,,0,,0,,2021,Defensive Back,Darian Thompson,Cowboys
+5,,5 Games,,,,,,,3-2-0,0,1,1,100.0%,19,19.0,19.0,0,118.7,19.0,19,0,1,0,0,0.0,0,3.0,0,0.0%,2021,Defensive Back,Darian Thompson,Cowboys

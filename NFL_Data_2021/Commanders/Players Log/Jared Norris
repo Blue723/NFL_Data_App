@@ -1,7 +1,7 @@
-,Rk,Date,G#,Week,Age,Tm,Unnamed: 6_level_1,Opp,Result,Int,Tgt,Cmp,Cmp%,Yds,Yds/Cmp,Yds/Tgt,TD,Rat,DADOT,Air,YAC,Bltz,Hrry,QBKD,Sk,Prss,Comb,MTkl,MTkl%,Year
-0,1.0,2021-09-12,1.0,1.0,28.055,WAS,,LAC,L 16-20,0,0,0,,0.0,,,0.0,,,0.0,0.0,0,0,0,0.0,0,2.0,0,0.0%,2021
-1,2.0,2021-09-16,2.0,2.0,28.059,WAS,,NYG,W 30-29,0,0,0,,0.0,,,0.0,,,0.0,0.0,0,0,0,,0,,0,,2021
-2,3.0,2021-09-26,3.0,3.0,28.069,WAS,@,BUF,L 21-43,0,0,0,,0.0,,,0.0,,,0.0,0.0,0,0,0,,0,,0,,2021
-3,4.0,2021-10-03,4.0,4.0,28.076,WAS,@,ATL,W 34-30,0,0,0,,0.0,,,0.0,,,0.0,0.0,0,0,0,,0,,0,,2021
-4,5.0,2021-10-10,5.0,5.0,28.083,WAS,,NOR,L 22-33,0,0,0,,0.0,,,0.0,,,0.0,0.0,0,0,0,0.0,0,1.0,0,0.0%,2021
-5,,5 Games,,,,,,,2-3-0,0,0,0,,,,,,,,,,0,0,0,0.0,0,3.0,0,0.0%,2021
+,Rk,Date,G#,Week,Age,Tm,Unnamed: 6_level_1,Opp,Result,Int,Tgt,Cmp,Cmp%,Yds,Yds/Cmp,Yds/Tgt,TD,Rat,DADOT,Air,YAC,Bltz,Hrry,QBKD,Sk,Prss,Comb,MTkl,MTkl%,Year,Position,Player_Name,Team
+0,1.0,2021-09-12,1.0,1.0,28.055,WAS,,LAC,L 16-20,0,0,0,,0.0,,,0.0,,,0.0,0.0,0,0,0,0.0,0,2.0,0,0.0%,2021,Left Outside Linebacker,Jared Norris,Commanders
+1,2.0,2021-09-16,2.0,2.0,28.059,WAS,,NYG,W 30-29,0,0,0,,0.0,,,0.0,,,0.0,0.0,0,0,0,,0,,0,,2021,Left Outside Linebacker,Jared Norris,Commanders
+2,3.0,2021-09-26,3.0,3.0,28.069,WAS,@,BUF,L 21-43,0,0,0,,0.0,,,0.0,,,0.0,0.0,0,0,0,,0,,0,,2021,Left Outside Linebacker,Jared Norris,Commanders
+3,4.0,2021-10-03,4.0,4.0,28.076,WAS,@,ATL,W 34-30,0,0,0,,0.0,,,0.0,,,0.0,0.0,0,0,0,,0,,0,,2021,Left Outside Linebacker,Jared Norris,Commanders
+4,5.0,2021-10-10,5.0,5.0,28.083,WAS,,NOR,L 22-33,0,0,0,,0.0,,,0.0,,,0.0,0.0,0,0,0,0.0,0,1.0,0,0.0%,2021,Left Outside Linebacker,Jared Norris,Commanders
+5,,5 Games,,,,,,,2-3-0,0,0,0,,,,,,,,,,0,0,0,0.0,0,3.0,0,0.0%,2021,Left Outside Linebacker,Jared Norris,Commanders

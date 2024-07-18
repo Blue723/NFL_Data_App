@@ -1,0 +1,18 @@
+,Week,Day,Date,Boxscore,Win/Loss,Overtime,Home/Away,Opponent,Team Score,Opponenet Score,Passing Completion,Passing Attempts,Passing Yards,Passing Touchdowns,Passing Interceptions,Passing Sacks,Sack Yards,Passing Yards/Attempts,Net Yards/Attempts,Passing Completion Per.,Passing Rate,Rushing Attempts,Rushing Yards,Rushing Yards/Attempts,Rushing Touchdown,Field Goals Made,Field Goals Attempts,Extra Points Made,Extra Point Attempts,Punts,Total Punt Yards,Third Down Conversions,Third Down Attempts,Fourth Down Conversions,Fourth Down Attemtps,Time of Possesion,Year,Team
+0,1,Sun,2021-09-12,boxscore,Loss,0,Home,Steelers,16,23,30,51,254,1,0,3,16,5.3,4.7,58.8,78.4,25,117,4.7,0,3,3,1,1,4,137,8,18,1,3,33:17,2021,Bills
+1,2,Sun,2021-09-19,boxscore,Win,0,Away,Dolphins,35,0,17,33,171,2,1,1,8,5.4,5.0,51.5,74.2,30,143,4.8,3,0,1,5,5,4,184,7,13,1,1,28:26,2021,Bills
+2,3,Sun,2021-09-26,boxscore,Win,0,Home,Team,43,21,33,44,359,4,0,0,0,8.2,8.2,75.0,128.9,33,122,3.7,1,3,3,4,4,2,97,9,15,0,1,35:37,2021,Bills
+3,4,Sun,2021-10-03,boxscore,Win,0,Home,Texans,40,0,21,31,251,2,1,1,5,8.3,7.8,67.7,100.3,40,199,5.0,2,4,4,4,4,1,44,5,12,1,2,38:15,2021,Bills
+4,5,Sun,2021-10-10,boxscore,Win,0,Away,Chiefs,38,20,15,26,315,3,0,0,0,12.1,12.1,57.7,139.1,28,121,4.3,1,1,1,5,5,4,160,5,11,0,0,27:35,2021,Bills
+5,6,Mon,2021-10-18,boxscore,Loss,0,Away,Titans,31,34,35,47,335,3,1,3,18,7.5,6.7,74.5,106.3,23,82,3.6,0,3,3,2,2,2,93,7,13,0,1,32:50,2021,Bills
+6,8,Sun,2021-10-31,boxscore,Win,0,Home,Dolphins,26,11,29,43,249,2,0,0,0,5.8,5.8,67.4,97.9,23,102,4.4,1,2,2,2,2,4,163,6,13,0,1,30:47,2021,Bills
+7,9,Sun,2021-11-07,boxscore,Loss,0,Away,Jaguars,6,9,31,47,229,0,2,4,35,5.6,4.5,66.0,59.6,14,72,5.1,0,2,2,0,0,3,148,6,15,0,1,30:38,2021,Bills
+8,10,Sun,2021-11-14,boxscore,Win,0,Away,Jets,45,17,21,28,350,2,1,2,16,13.1,11.7,75.0,125.6,24,139,5.8,4,1,1,6,6,2,78,4,7,0,0,27:27,2021,Bills
+9,11,Sun,2021-11-21,boxscore,Loss,0,Home,Colts,15,41,24,40,220,2,3,1,8,5.7,5.4,60.0,60.4,13,91,7.0,0,0,2,1,1,1,55,5,10,0,0,22:13,2021,Bills
+10,12,Thu,2021-11-25,boxscore,Win,0,Away,Saints,31,6,23,28,248,4,2,2,12,9.3,8.3,82.1,113.4,32,113,3.5,0,1,1,4,4,3,127,8,13,1,1,34:38,2021,Bills
+11,13,Mon,2021-12-06,boxscore,Loss,0,Home,Patriots,10,14,15,30,131,1,0,2,14,4.8,4.1,50.0,73.1,25,99,4.0,0,1,2,1,1,5,233,4,13,0,1,27:59,2021,Bills
+12,14,Sun,2021-12-12,boxscore,Loss,1,Away,Buccaneers,27,33,36,54,293,2,1,3,15,5.7,5.1,66.7,84.9,19,173,9.1,1,2,2,3,3,6,286,2,13,2,3,32:21,2021,Bills
+13,15,Sun,2021-12-19,boxscore,Win,0,Home,Panthers,31,14,19,34,193,3,1,4,17,6.2,5.1,55.9,89.5,27,119,4.4,1,1,1,4,4,5,188,6,14,1,1,28:35,2021,Bills
+14,16,Sun,2021-12-26,boxscore,Win,0,Away,Patriots,33,21,30,47,314,3,0,0,0,6.7,6.7,63.8,104.4,28,114,4.1,1,2,2,3,3,0,0,6,12,3,4,35:09,2021,Bills
+15,17,Sun,2022-01-02,boxscore,Win,0,Home,Falcons,29,15,11,26,118,0,3,1,2,4.6,4.4,42.3,16.7,44,233,5.3,4,0,0,3,3,0,0,7,12,1,1,36:07,2021,Bills
+16,18,Sun,2022-01-09,boxscore,Win,0,Home,Jets,27,10,25,46,254,2,0,0,0,5.5,5.5,54.3,84.9,33,170,5.2,1,2,2,3,3,7,237,8,18,0,1,37:00,2021,Bills

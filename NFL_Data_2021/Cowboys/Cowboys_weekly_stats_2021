@@ -1,0 +1,18 @@
+,Week,Day,Date,Boxscore,Win/Loss,Overtime,Home/Away,Opponent,Team Score,Opponenet Score,Passing Completion,Passing Attempts,Passing Yards,Passing Touchdowns,Passing Interceptions,Passing Sacks,Sack Yards,Passing Yards/Attempts,Net Yards/Attempts,Passing Completion Per.,Passing Rate,Rushing Attempts,Rushing Yards,Rushing Yards/Attempts,Rushing Touchdown,Field Goals Made,Field Goals Attempts,Extra Points Made,Extra Point Attempts,Punts,Total Punt Yards,Third Down Conversions,Third Down Attempts,Fourth Down Conversions,Fourth Down Attemtps,Time of Possesion,Year,Team
+0,1,Thu,2021-09-09,boxscore,Loss,0,Away,Buccaneers,29,31,42,58,391,3,1,1,12,6.9,6.6,72.4,100.6,18,60,3.3,0,3,5,2,3,3,147,9,17,0,0,34:27,2021,Cowboys
+1,2,Sun,2021-09-19,boxscore,Win,0,Away,Chargers,20,17,23,27,221,0,1,2,16,8.8,7.6,85.2,85.3,31,198,6.4,2,2,2,2,2,1,44,6,10,0,1,29:03,2021,Cowboys
+2,3,Mon,2021-09-27,boxscore,Win,0,Home,Eagles,41,21,21,26,220,3,0,4,18,9.2,7.3,80.8,140.4,41,160,3.9,2,0,0,5,6,4,202,6,12,1,2,34:58,2021,Cowboys
+3,4,Sun,2021-10-03,boxscore,Win,0,Home,Panthers,36,28,14,22,188,4,0,0,0,8.5,8.5,63.6,130.3,34,245,7.2,1,1,1,3,3,4,190,3,9,1,1,26:24,2021,Cowboys
+4,5,Sun,2021-10-10,boxscore,Win,0,Home,Giants,44,20,23,33,314,3,1,2,10,9.8,9.0,69.7,117.5,39,201,5.2,1,3,3,5,5,1,61,8,14,1,2,32:12,2021,Cowboys
+5,6,Sun,2021-10-17,boxscore,Win,1,Away,Patriots,35,29,36,51,445,3,1,0,0,8.7,8.7,70.6,108.7,31,122,3.9,0,3,4,2,2,1,51,3,13,2,4,39:17,2021,Cowboys
+6,8,Sun,2021-10-31,boxscore,Win,0,Away,Vikings,20,16,25,41,341,2,1,3,19,8.8,7.8,61.0,93.6,24,78,3.3,0,2,3,2,2,4,181,7,14,0,0,32:32,2021,Cowboys
+7,9,Sun,2021-11-07,boxscore,Loss,0,Home,Broncos,16,30,19,39,212,2,1,2,20,5.9,5.2,48.7,71.7,16,78,4.9,0,0,0,0,0,4,194,5,13,0,4,18:48,2021,Cowboys
+8,10,Sun,2021-11-14,boxscore,Win,0,Home,Falcons,43,3,28,35,317,2,0,0,0,9.1,9.1,80.0,123.5,37,114,3.1,3,0,0,5,5,4,190,6,14,3,3,37:41,2021,Cowboys
+9,11,Sun,2021-11-21,boxscore,Loss,0,Away,Chiefs,9,19,28,43,194,0,2,5,22,5.0,4.0,65.1,55.8,16,82,5.1,0,3,3,0,0,6,280,5,15,0,0,29:13,2021,Cowboys
+10,12,Thu,2021-11-25,boxscore,Loss,1,Home,Raiders,33,36,32,47,373,2,0,1,2,8.0,7.8,68.1,106.1,20,64,3.2,1,2,3,1,2,7,385,3,13,0,0,26:30,2021,Cowboys
+11,13,Thu,2021-12-02,boxscore,Win,0,Away,Saints,27,17,26,40,231,1,1,1,7,6.0,5.6,65.0,78.2,24,146,6.1,1,2,2,3,3,7,337,2,13,0,1,28:06,2021,Cowboys
+12,14,Sun,2021-12-12,boxscore,Win,0,Away,Team,27,20,22,39,201,1,2,4,10,5.4,4.7,56.4,57.7,35,122,3.5,0,4,4,1,1,6,268,7,18,0,0,34:29,2021,Cowboys
+13,15,Sun,2021-12-19,boxscore,Win,0,Away,Giants,21,6,28,37,203,1,0,3,14,5.9,5.1,75.7,97.0,30,125,4.2,1,3,3,0,2,4,160,8,14,0,0,33:23,2021,Cowboys
+14,16,Sun,2021-12-26,boxscore,Win,0,Home,Team,56,14,30,42,389,5,0,3,11,9.5,8.6,71.4,139.8,28,108,3.9,1,0,0,8,8,4,214,10,15,1,1,31:31,2021,Cowboys
+15,17,Sun,2022-01-02,boxscore,Loss,0,Home,Cardinals,22,25,25,39,256,3,0,1,1,6.6,6.4,64.1,108.5,17,45,2.6,0,0,1,2,2,4,195,3,11,3,3,25:18,2021,Cowboys
+16,18,Sat,2022-01-08,boxscore,Win,0,Away,Eagles,51,26,22,28,304,5,0,1,1,10.9,10.5,78.6,151.5,32,171,5.3,2,1,1,6,7,1,44,8,13,2,2,27:37,2021,Cowboys

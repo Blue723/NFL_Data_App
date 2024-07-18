@@ -1,0 +1,18 @@
+,Week,Day,Date,Boxscore,Win/Loss,Overtime,Home/Away,Opponent,Team Score,Opponenet Score,Passing Completion,Passing Attempts,Passing Yards,Passing Touchdowns,Passing Interceptions,Passing Sacks,Sack Yards,Passing Yards/Attempts,Net Yards/Attempts,Passing Completion Per.,Passing Rate,Rushing Attempts,Rushing Yards,Rushing Yards/Attempts,Rushing Touchdown,Field Goals Made,Field Goals Attempts,Extra Points Made,Extra Point Attempts,Punts,Total Punt Yards,Third Down Conversions,Third Down Attempts,Fourth Down Conversions,Fourth Down Attemtps,Time of Possesion,Year,Team
+0,1,Sun,2021-09-12,boxscore,Win,0.0,Away,Titans,38,13,21,32,280,4,1,2,9,9.0,8.2,65.6,119.8,33,136,4.1,1,1,2,5,5,3,144,7,13,0,0,33:21,2021,Cardinals
+1,2,Sun,2021-09-19,boxscore,Win,0.0,Home,Vikings,34,33,29,36,371,3,2,3,29,11.1,9.5,80.6,114.2,21,103,4.9,1,2,2,4,4,4,221,3,9,1,1,31:52,2021,Cardinals
+2,3,Sun,2021-09-26,boxscore,Win,0.0,Away,Jaguars,31,19,28,34,316,0,1,0,0,9.3,9.3,82.4,93.1,30,91,3.0,3,1,2,4,4,5,253,1,9,2,2,32:54,2021,Cardinals
+3,4,Sun,2021-10-03,boxscore,Win,0.0,Away,Rams,37,20,24,32,249,2,0,3,19,8.4,7.1,75.0,117.8,40,216,5.4,2,3,3,4,4,2,88,8,13,0,0,35:10,2021,Cardinals
+4,5,Sun,2021-10-10,boxscore,Win,0.0,Home,49ers,17,10,22,31,210,1,0,2,29,7.7,6.4,71.0,100.2,27,94,3.5,1,1,2,2,2,4,205,3,10,0,0,28:06,2021,Cardinals
+5,6,Sun,2021-10-17,boxscore,Win,0.0,Away,Browns,37,14,20,30,208,4,0,2,21,7.6,6.5,66.7,126.1,37,144,3.9,0,3,3,4,4,2,101,8,15,1,1,34:39,2021,Cardinals
+6,7,Sun,2021-10-24,boxscore,Win,0.0,Home,Texans,31,5,20,28,225,3,1,4,36,9.3,7.0,71.4,115.9,37,172,4.6,1,1,1,4,4,4,199,6,12,1,1,34:03,2021,Cardinals
+7,8,Thu,2021-10-28,boxscore,Loss,0.0,Home,Packers,21,24,22,33,260,0,2,2,14,8.3,7.4,66.7,65.2,20,74,3.7,3,0,0,3,3,3,166,4,10,2,2,22:25,2021,Cardinals
+8,9,Sun,2021-11-07,boxscore,Win,0.0,Away,49ers,31,17,23,27,274,1,0,2,8,10.4,9.4,85.2,121.3,39,163,4.2,3,1,1,4,4,4,207,7,15,1,2,36:47,2021,Cardinals
+9,10,Sun,2021-11-14,boxscore,Loss,0.0,Home,Panthers,10,34,17,29,104,0,1,4,39,4.9,3.2,58.6,51.5,20,65,3.3,1,1,1,1,1,4,194,4,13,0,3,22:18,2021,Cardinals
+10,11,Sun,2021-11-21,boxscore,Win,0.0,Away,Seahawks,23,13,35,44,318,2,0,2,10,7.5,6.9,79.5,111.9,33,95,2.9,1,1,3,2,3,4,165,7,14,1,1,40:22,2021,Cardinals
+11,13,Sun,2021-12-05,boxscore,Win,0.0,Away,Bears,33,22,11,15,120,2,0,1,3,8.2,7.5,73.3,136.1,35,137,3.9,2,2,2,3,3,2,99,5,11,1,2,25:15,2021,Cardinals
+12,14,Mon,2021-12-13,boxscore,Loss,0.0,Home,Rams,23,30,32,49,344,0,2,4,39,7.8,6.5,65.3,68.8,22,103,4.7,2,3,3,2,2,1,52,8,15,2,4,30:56,2021,Cardinals
+13,15,Sun,2021-12-19,boxscore,Loss,0.0,Away,Lions,12,30,29,50,293,1,1,2,20,6.3,5.6,58.0,73.2,21,105,5.0,0,2,2,0,0,3,132,7,15,1,3,28:08,2021,Cardinals
+14,16,Sat,2021-12-25,boxscore,Loss,0.0,Home,Colts,16,22,27,43,245,1,0,0,0,5.7,5.7,62.8,85.9,21,133,6.3,1,1,3,1,2,1,39,6,13,1,3,24:31,2021,Cardinals
+15,17,Sun,2022-01-02,boxscore,Win,0.0,Away,Cowboys,25,22,27,39,272,2,0,1,14,7.3,6.8,69.2,105.9,32,127,4.0,0,4,4,1,1,3,121,7,16,2,2,34:42,2021,Cardinals
+16,18,Sun,2022-01-09,boxscore,Loss,0.0,Home,Seahawks,30,38,28,39,187,1,0,5,53,6.2,4.3,71.8,90.4,28,118,4.2,1,3,3,3,3,3,154,9,18,1,2,35:49,2021,Cardinals

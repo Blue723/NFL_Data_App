@@ -1,18 +1,18 @@
 ,Week,Day,Date,Time,Win/Loss,Overtime,Team Record,Home/Away,Opponent,Points Scored,Points Allowed,Offense 1st Down,Total Yards Gained of Offense,Total yards Gained by Passing,Total Yards Gained by Rushing,Offense Turnovers,Defense 1st Down,Total Yards Allowed by Defense,Total Passing Yards Allowed by Defense,Total Rushing Yards Allowed by Defense,Defense Turnovers,Offense,Defense,Sp. Tms,Team,Year
-0,1,Sun,2021-09-12,nan,Win,0,1-0,home,New York Jets,19,14,18,381,270,111,1,16,252,207,45,1,1.31,10.0,-3.49,Panthers,2021
-1,2,Sun,2021-09-19,nan,Win,0,2-0,home,New Orleans Saints,26,7,28,383,294,89,1,6,128,80,48,2,12.61,21.2,-12.63,Panthers,2021
-2,3,Thu,2021-09-23,nan,Win,0,3-0,away,Houston Texans,24,9,28,407,290,117,0,14,193,151,42,0,14.35,5.6,-5.17,Panthers,2021
-3,4,Sun,2021-10-03,nan,Loss,0,3-1,away,Dallas Cowboys,28,36,24,379,266,113,2,24,433,188,245,0,10.49,-19.39,-1.46,Panthers,2021
-4,5,Sun,2021-10-10,nan,Loss,0,3-2,home,Philadelphia Eagles,18,21,17,267,158,109,3,15,273,182,91,2,-16.27,15.13,-3.99,Panthers,2021
-5,6,Sun,2021-10-17,nan,Loss,1,3-3,home,Minnesota Vikings,28,34,20,306,188,118,3,26,571,373,198,1,-9.64,-8.77,12.64,Panthers,2021
-6,7,Sun,2021-10-24,nan,Loss,0,3-4,away,New York Giants,3,25,11,173,117,56,1,21,302,199,103,0,-22.46,3.21,-2.91,Panthers,2021
-7,8,Sun,2021-10-31,nan,Win,0,4-4,away,Atlanta Falcons,19,13,21,332,129,203,1,17,213,131,82,2,0.86,2.84,4.14,Panthers,2021
-8,9,Sun,2021-11-07,nan,Loss,0,4-5,home,New England Patriots,6,24,13,240,162,78,3,17,273,122,151,2,-26.35,3.56,5.26,Panthers,2021
-9,10,Sun,2021-11-14,nan,Win,0,5-5,away,Arizona Cardinals,34,10,24,341,175,166,2,11,169,104,65,2,2.27,19.35,1.02,Panthers,2021
-10,11,Sun,2021-11-21,nan,Loss,0,5-6,home,Washington Football Team,21,27,18,297,186,111,0,24,369,179,190,1,6.37,-13.28,-0.05,Panthers,2021
-11,12,Sun,2021-11-28,nan,Loss,0,5-7,away,Miami Dolphins,10,33,10,198,134,64,3,22,315,204,111,1,-17.24,-1.89,-2.85,Panthers,2021
-12,14,Sun,2021-12-12,nan,Loss,0,5-8,home,Atlanta Falcons,21,29,21,334,243,91,3,20,318,190,128,1,-5.38,-4.15,-1.74,Panthers,2021
-13,15,Sun,2021-12-19,nan,Loss,0,5-9,away,Buffalo Bills,14,31,19,275,124,151,1,21,312,193,119,1,-11.11,-9.55,1.29,Panthers,2021
-14,16,Sun,2021-12-26,nan,Loss,0,5-10,home,Tampa Bay Buccaneers,6,32,16,273,206,67,1,21,391,232,159,0,-11.17,-13.01,2.95,Panthers,2021
-15,17,Sun,2022-01-02,nan,Loss,0,5-11,away,New Orleans Saints,10,18,16,178,90,88,2,15,280,207,73,0,-10.01,0.34,-0.41,Panthers,2021
-16,18,Sun,2022-01-09,nan,Loss,0,5-12,away,Tampa Bay Buccaneers,17,41,18,317,207,110,2,21,409,324,85,0,-10.73,-20.33,4.03,Panthers,2021
+0,1,Sun,2021-09-12,,Win,0,1-0,home,Jets,19,14,18,381,270,111,1,16,252,207,45,1,1.31,10.0,-3.49,Panthers,2021
+1,2,Sun,2021-09-19,,Win,0,2-0,home,Saints,26,7,28,383,294,89,1,6,128,80,48,2,12.61,21.2,-12.63,Panthers,2021
+2,3,Thu,2021-09-23,,Win,0,3-0,away,Texans,24,9,28,407,290,117,0,14,193,151,42,0,14.35,5.6,-5.17,Panthers,2021
+3,4,Sun,2021-10-03,,Loss,0,3-1,away,Cowboys,28,36,24,379,266,113,2,24,433,188,245,0,10.49,-19.39,-1.46,Panthers,2021
+4,5,Sun,2021-10-10,,Loss,0,3-2,home,Eagles,18,21,17,267,158,109,3,15,273,182,91,2,-16.27,15.13,-3.99,Panthers,2021
+5,6,Sun,2021-10-17,,Loss,1,3-3,home,Vikings,28,34,20,306,188,118,3,26,571,373,198,1,-9.64,-8.77,12.64,Panthers,2021
+6,7,Sun,2021-10-24,,Loss,0,3-4,away,Giants,3,25,11,173,117,56,1,21,302,199,103,0,-22.46,3.21,-2.91,Panthers,2021
+7,8,Sun,2021-10-31,,Win,0,4-4,away,Falcons,19,13,21,332,129,203,1,17,213,131,82,2,0.86,2.84,4.14,Panthers,2021
+8,9,Sun,2021-11-07,,Loss,0,4-5,home,Patriots,6,24,13,240,162,78,3,17,273,122,151,2,-26.35,3.56,5.26,Panthers,2021
+9,10,Sun,2021-11-14,,Win,0,5-5,away,Cardinals,34,10,24,341,175,166,2,11,169,104,65,2,2.27,19.35,1.02,Panthers,2021
+10,11,Sun,2021-11-21,,Loss,0,5-6,home,Team,21,27,18,297,186,111,0,24,369,179,190,1,6.37,-13.28,-0.05,Panthers,2021
+11,12,Sun,2021-11-28,,Loss,0,5-7,away,Dolphins,10,33,10,198,134,64,3,22,315,204,111,1,-17.24,-1.89,-2.85,Panthers,2021
+12,14,Sun,2021-12-12,,Loss,0,5-8,home,Falcons,21,29,21,334,243,91,3,20,318,190,128,1,-5.38,-4.15,-1.74,Panthers,2021
+13,15,Sun,2021-12-19,,Loss,0,5-9,away,Bills,14,31,19,275,124,151,1,21,312,193,119,1,-11.11,-9.55,1.29,Panthers,2021
+14,16,Sun,2021-12-26,,Loss,0,5-10,home,Buccaneers,6,32,16,273,206,67,1,21,391,232,159,0,-11.17,-13.01,2.95,Panthers,2021
+15,17,Sun,2022-01-02,,Loss,0,5-11,away,Saints,10,18,16,178,90,88,2,15,280,207,73,0,-10.01,0.34,-0.41,Panthers,2021
+16,18,Sun,2022-01-09,,Loss,0,5-12,away,Buccaneers,17,41,18,317,207,110,2,21,409,324,85,0,-10.73,-20.33,4.03,Panthers,2021

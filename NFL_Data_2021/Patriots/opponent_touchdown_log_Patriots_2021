@@ -1,36 +1,36 @@
-,Rank,Team,Date,Opponent,Win/Loss,Home_Score,Opponenet_Score,Quarter,Distance,Type,Detail
-1,1,Patriots,2021-09-12,MIA,Loss,16,17,1,3,rush,Tua Tagovailoa
-2,2,Patriots,2021-09-12,MIA,Loss,16,17,3,3,pass,Jaylen Waddle
-3,3,Patriots,2021-09-26,NOR,Loss,13,28,1,11,pass,Alvin Kamara
-4,4,Patriots,2021-09-26,NOR,Loss,13,28,2,7,pass,Marquez Callaway
-5,5,Patriots,2021-09-26,NOR,Loss,13,28,3,34,interception,Malcolm Jenkins
-6,6,Patriots,2021-09-26,NOR,Loss,13,28,4,4,rush,Taysom Hill
-7,7,Patriots,2021-10-03,TAM,Loss,17,19,3,8,rush,Ronald Jones II
-8,8,Patriots,2021-10-10,HOU,Win,25,22,1,11,pass,Antony Auclair
-9,9,Patriots,2021-10-10,HOU,Win,25,22,2,67,pass,Chris Moore
-10,10,Patriots,2021-10-10,HOU,Win,25,22,3,37,pass,Chris Conley
-11,11,Patriots,2021-10-17,DAL,Loss,29,35,1,1,pass,Blake Jarwin
-12,12,Patriots,2021-10-17,DAL,Loss,29,35,3,1,pass,CeeDee Lamb
-13,13,Patriots,2021-10-17,DAL,Loss,29,35,4,42,interception,Trevon Diggs
-14,14,Patriots,2021-10-17,DAL,Loss,29,35,5,35,pass,CeeDee Lamb
-15,15,Patriots,2021-10-24,NYJ,Win,54,13,2,3,pass,Corey Davis
-16,16,Patriots,2021-10-24,NYJ,Win,54,13,3,19,rush,Elijah Moore
-17,17,Patriots,2021-10-31,LAC,Win,27,24,1,5,rush,Austin Ekeler
-18,18,Patriots,2021-10-31,LAC,Win,27,24,2,5,pass,Keenan Allen
-19,19,Patriots,2021-10-31,LAC,Win,27,24,4,24,pass,Josh Palmer
-20,20,Patriots,2021-11-14,CLE,Win,45,7,1,2,pass,Austin Hooper
-21,21,Patriots,2021-11-28,TEN,Win,36,13,2,1,pass,Nick Westbrook-Ikhine
-22,22,Patriots,2021-11-28,TEN,Win,36,13,2,68,rush,Dontrell Hilliard
-23,23,Patriots,2021-12-06,BUF,Win,14,10,1,14,pass,Gabriel Davis
-24,24,Patriots,2021-12-18,IND,Loss,17,27,1,8,pass,Nyheim Hines
-25,25,Patriots,2021-12-18,IND,Loss,17,27,1,0,blocked punt,E.J. Speed
-26,26,Patriots,2021-12-18,IND,Loss,17,27,4,67,rush,Jonathan Taylor
-27,27,Patriots,2021-12-26,BUF,Loss,21,33,1,3,pass,Isaiah McKenzie
-28,28,Patriots,2021-12-26,BUF,Loss,21,33,2,12,pass,Stefon Diggs
-29,29,Patriots,2021-12-26,BUF,Loss,21,33,4,2,rush,Devin Singletary
-30,30,Patriots,2021-12-26,BUF,Loss,21,33,4,2,pass,Dawson Knox
-31,31,Patriots,2022-01-02,JAX,Win,50,10,4,28,pass,Dare Ogunbowale
-32,32,Patriots,2022-01-09,MIA,Loss,24,33,1,7,pass,Jaylen Waddle
-33,33,Patriots,2022-01-09,MIA,Loss,24,33,1,37,interception,Xavien Howard
-34,34,Patriots,2022-01-09,MIA,Loss,24,33,3,1,rush,Duke Johnson
-35,35,Patriots,2022-01-09,MIA,Loss,24,33,4,0,fumble,Samuel Eguavoen
+,Rank,Team,Date,Opponent,Win/Loss,Home_Score,Opponenet_Score,Quarter,Distance,Type,Detail,Year
+1,1,Patriots,2021-09-12,MIA,Loss,16,17,1,3,rush,Tua Tagovailoa,2021
+2,2,Patriots,2021-09-12,MIA,Loss,16,17,3,3,pass,Jaylen Waddle,2021
+3,3,Patriots,2021-09-26,NOR,Loss,13,28,1,11,pass,Alvin Kamara,2021
+4,4,Patriots,2021-09-26,NOR,Loss,13,28,2,7,pass,Marquez Callaway,2021
+5,5,Patriots,2021-09-26,NOR,Loss,13,28,3,34,interception,Malcolm Jenkins,2021
+6,6,Patriots,2021-09-26,NOR,Loss,13,28,4,4,rush,Taysom Hill,2021
+7,7,Patriots,2021-10-03,TAM,Loss,17,19,3,8,rush,Ronald Jones II,2021
+8,8,Patriots,2021-10-10,HOU,Win,25,22,1,11,pass,Antony Auclair,2021
+9,9,Patriots,2021-10-10,HOU,Win,25,22,2,67,pass,Chris Moore,2021
+10,10,Patriots,2021-10-10,HOU,Win,25,22,3,37,pass,Chris Conley,2021
+11,11,Patriots,2021-10-17,DAL,Loss,29,35,1,1,pass,Blake Jarwin,2021
+12,12,Patriots,2021-10-17,DAL,Loss,29,35,3,1,pass,CeeDee Lamb,2021
+13,13,Patriots,2021-10-17,DAL,Loss,29,35,4,42,interception,Trevon Diggs,2021
+14,14,Patriots,2021-10-17,DAL,Loss,29,35,5,35,pass,CeeDee Lamb,2021
+15,15,Patriots,2021-10-24,NYJ,Win,54,13,2,3,pass,Corey Davis,2021
+16,16,Patriots,2021-10-24,NYJ,Win,54,13,3,19,rush,Elijah Moore,2021
+17,17,Patriots,2021-10-31,LAC,Win,27,24,1,5,rush,Austin Ekeler,2021
+18,18,Patriots,2021-10-31,LAC,Win,27,24,2,5,pass,Keenan Allen,2021
+19,19,Patriots,2021-10-31,LAC,Win,27,24,4,24,pass,Josh Palmer,2021
+20,20,Patriots,2021-11-14,CLE,Win,45,7,1,2,pass,Austin Hooper,2021
+21,21,Patriots,2021-11-28,TEN,Win,36,13,2,1,pass,Nick Westbrook-Ikhine,2021
+22,22,Patriots,2021-11-28,TEN,Win,36,13,2,68,rush,Dontrell Hilliard,2021
+23,23,Patriots,2021-12-06,BUF,Win,14,10,1,14,pass,Gabriel Davis,2021
+24,24,Patriots,2021-12-18,IND,Loss,17,27,1,8,pass,Nyheim Hines,2021
+25,25,Patriots,2021-12-18,IND,Loss,17,27,1,0,blocked punt,E.J. Speed,2021
+26,26,Patriots,2021-12-18,IND,Loss,17,27,4,67,rush,Jonathan Taylor,2021
+27,27,Patriots,2021-12-26,BUF,Loss,21,33,1,3,pass,Isaiah McKenzie,2021
+28,28,Patriots,2021-12-26,BUF,Loss,21,33,2,12,pass,Stefon Diggs,2021
+29,29,Patriots,2021-12-26,BUF,Loss,21,33,4,2,rush,Devin Singletary,2021
+30,30,Patriots,2021-12-26,BUF,Loss,21,33,4,2,pass,Dawson Knox,2021
+31,31,Patriots,2022-01-02,JAX,Win,50,10,4,28,pass,Dare Ogunbowale,2021
+32,32,Patriots,2022-01-09,MIA,Loss,24,33,1,7,pass,Jaylen Waddle,2021
+33,33,Patriots,2022-01-09,MIA,Loss,24,33,1,37,interception,Xavien Howard,2021
+34,34,Patriots,2022-01-09,MIA,Loss,24,33,3,1,rush,Duke Johnson,2021
+35,35,Patriots,2022-01-09,MIA,Loss,24,33,4,0,fumble,Samuel Eguavoen,2021

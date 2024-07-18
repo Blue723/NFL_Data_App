@@ -1,0 +1,18 @@
+,Week,Day,Date,Boxscore,Win/Loss,Overtime,Home/Away,Opponent,Team Score,Opponenet Score,Passing Completion,Passing Attempts,Passing Yards,Passing Touchdowns,Passing Interceptions,Passing Sacks,Sack Yards,Passing Yards/Attempts,Net Yards/Attempts,Passing Completion Per.,Passing Rate,Rushing Attempts,Rushing Yards,Rushing Yards/Attempts,Rushing Touchdown,Field Goals Made,Field Goals Attempts,Extra Points Made,Extra Point Attempts,Punts,Total Punt Yards,Third Down Conversions,Third Down Attempts,Fourth Down Conversions,Fourth Down Attemtps,Time of Possesion,Year,Team
+0,1,Sun,2021-09-12,boxscore,Loss,0.0,Away,Texans,21,37,28,51,319,3,3,1,13,6.5,6.1,54.9,69.0,16,76,4.8,0,0,1,3,3,6,297,3,11,1,1,24:56,2021,Jaguars
+1,2,Sun,2021-09-19,boxscore,Loss,0.0,Home,Broncos,13,23,14,33,114,1,2,1,4,3.6,3.4,42.4,36.7,16,75,4.7,0,0,2,1,1,4,227,4,11,1,1,21:08,2021,Jaguars
+2,3,Sun,2021-09-26,boxscore,Loss,0.0,Home,Cardinals,19,31,22,34,202,1,2,3,17,6.4,5.5,64.7,66.1,29,159,5.5,1,0,0,1,3,6,289,2,11,1,1,27:06,2021,Jaguars
+3,4,Thu,2021-09-30,boxscore,Loss,0.0,Away,Bengals,21,24,17,24,202,0,0,1,2,8.5,8.1,70.8,96.2,30,139,4.6,3,0,0,3,3,4,183,6,12,1,2,28:45,2021,Jaguars
+4,5,Sun,2021-10-10,boxscore,Loss,0.0,Home,Titans,19,37,23,33,256,1,1,2,17,8.3,7.3,69.7,90.0,31,198,6.4,2,0,1,1,2,2,80,3,10,1,3,28:30,2021,Jaguars
+5,6,Sun,2021-10-17,boxscore,Win,0.0,Home,Dolphins,23,20,25,41,312,1,0,2,7,7.8,7.3,61.0,92.7,19,84,4.4,1,3,3,2,2,4,152,3,12,2,3,27:20,2021,Jaguars
+6,8,Sun,2021-10-31,boxscore,Loss,0.0,Away,Seahawks,7,31,32,54,227,1,1,1,11,4.4,4.1,59.3,67.4,19,82,4.3,0,0,0,1,1,4,195,5,14,1,4,31:29,2021,Jaguars
+7,9,Sun,2021-11-07,boxscore,Win,0.0,Home,Bills,9,6,17,28,139,0,0,2,12,5.4,4.6,60.7,73.4,27,79,2.9,0,3,4,0,0,4,180,2,13,2,2,29:22,2021,Jaguars
+8,10,Sun,2021-11-14,boxscore,Loss,0.0,Away,Colts,17,23,16,35,152,0,0,3,10,4.6,4.0,45.7,58.3,24,179,7.5,2,1,2,0,1,8,332,5,15,0,0,27:44,2021,Jaguars
+9,11,Sun,2021-11-21,boxscore,Loss,0.0,Home,49ers,10,30,16,25,146,0,0,3,12,6.3,5.2,64.0,79.7,16,54,3.4,1,1,1,1,1,4,193,5,11,1,1,21:38,2021,Jaguars
+10,12,Sun,2021-11-28,boxscore,Loss,0.0,Home,Falcons,14,21,23,42,216,1,1,1,12,5.4,5.0,54.8,67.2,28,141,5.0,0,2,2,0,0,3,130,9,16,0,2,29:08,2021,Jaguars
+11,13,Sun,2021-12-05,boxscore,Loss,0.0,Away,Rams,7,37,16,28,136,0,0,2,9,5.2,4.5,57.1,69.9,25,61,2.4,1,0,0,1,1,5,247,5,12,1,2,26:15,2021,Jaguars
+12,14,Sun,2021-12-12,boxscore,Loss,0.0,Away,Titans,0,20,24,40,184,0,4,3,37,5.5,4.3,60.0,31.7,8,8,1.0,0,0,0,0,0,5,225,5,13,1,2,23:03,2021,Jaguars
+13,15,Sun,2021-12-19,boxscore,Loss,0.0,Home,Texans,16,30,22,38,189,0,0,3,21,5.5,4.6,57.9,71.1,25,107,4.3,1,3,3,1,1,5,237,3,14,2,3,29:53,2021,Jaguars
+14,16,Sun,2021-12-26,boxscore,Loss,0.0,Away,Jets,21,26,26,39,252,0,0,1,28,7.2,6.3,66.7,84.6,31,132,4.3,1,3,3,0,0,1,59,6,13,2,3,32:18,2021,Jaguars
+15,17,Sun,2022-01-02,boxscore,Loss,0.0,Away,Patriots,10,50,17,27,173,1,3,2,20,7.1,6.0,63.0,54.0,17,80,4.7,0,1,1,1,1,4,159,3,9,0,0,23:14,2021,Jaguars
+16,18,Sun,2022-01-09,boxscore,Win,0.0,Home,Colts,26,11,23,32,217,2,0,1,6,7.0,6.6,71.9,111.1,31,101,3.3,0,4,4,2,2,3,152,7,15,1,1,33:19,2021,Jaguars

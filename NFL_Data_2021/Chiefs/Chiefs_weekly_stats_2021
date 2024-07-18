@@ -1,0 +1,18 @@
+,Week,Day,Date,Boxscore,Win/Loss,Overtime,Home/Away,Opponent,Team Score,Opponenet Score,Passing Completion,Passing Attempts,Passing Yards,Passing Touchdowns,Passing Interceptions,Passing Sacks,Sack Yards,Passing Yards/Attempts,Net Yards/Attempts,Passing Completion Per.,Passing Rate,Rushing Attempts,Rushing Yards,Rushing Yards/Attempts,Rushing Touchdown,Field Goals Made,Field Goals Attempts,Extra Points Made,Extra Point Attempts,Punts,Total Punt Yards,Third Down Conversions,Third Down Attempts,Fourth Down Conversions,Fourth Down Attemtps,Time of Possesion,Year,Team
+0,1,Sun,2021-09-12,boxscore,Win,0,Home,Browns,33,29,27,36,324,3,0,2,13,9.4,8.5,75.0,129.9,23,73,3.2,1,2,2,3,3,2,91,9,13,0,0,32:47,2021,Chiefs
+1,2,Sun,2021-09-19,boxscore,Loss,0,Away,Ravens,35,36,24,31,343,3,1,0,0,11.1,11.1,77.4,131.5,18,62,3.4,1,0,0,5,5,3,135,1,6,0,0,24:01,2021,Chiefs
+2,3,Sun,2021-09-26,boxscore,Loss,0,Home,Chargers,24,30,27,44,251,3,2,2,9,5.9,5.5,61.4,80.8,30,186,6.2,0,1,1,3,3,1,51,6,10,0,0,32:31,2021,Chiefs
+3,4,Sun,2021-10-03,boxscore,Win,0,Away,Eagles,42,30,24,30,271,5,1,1,7,9.3,8.7,80.0,130.0,32,200,6.3,1,0,0,6,6,0,0,9,10,0,0,30:52,2021,Chiefs
+4,5,Sun,2021-10-10,boxscore,Loss,0,Home,Bills,20,38,33,54,272,2,2,2,0,5.0,4.9,61.1,70.9,23,120,5.2,0,2,2,2,2,2,88,5,12,0,1,32:25,2021,Chiefs
+5,6,Sun,2021-10-17,boxscore,Win,0,Away,Team,31,13,32,47,390,2,2,3,7,8.4,7.8,68.1,89.8,28,109,3.9,2,1,1,4,4,2,53,11,17,1,2,33:53,2021,Chiefs
+6,7,Sun,2021-10-24,boxscore,Loss,0,Away,Titans,3,27,31,51,257,0,1,4,31,5.6,4.7,60.8,65.6,13,77,5.9,0,1,2,0,0,2,93,4,11,2,3,23:39,2021,Chiefs
+7,8,Mon,2021-11-01,boxscore,Win,0,Home,Giants,20,17,29,48,261,1,1,2,14,5.7,5.2,60.4,73.4,27,107,4.0,1,2,2,2,2,4,203,5,12,0,0,34:38,2021,Chiefs
+8,9,Sun,2021-11-07,boxscore,Win,0,Home,Packers,13,7,20,37,160,1,0,1,6,4.5,4.2,54.1,74.2,25,77,3.1,0,2,2,1,1,6,341,5,14,1,2,28:27,2021,Chiefs
+9,10,Sun,2021-11-14,boxscore,Win,0,Away,Raiders,41,14,36,51,422,5,0,0,0,8.3,8.3,70.6,128.1,25,94,3.8,0,2,3,5,5,1,42,9,15,3,3,35:26,2021,Chiefs
+10,11,Sun,2021-11-21,boxscore,Win,0,Home,Cowboys,19,9,23,37,244,0,1,3,16,7.0,6.1,62.2,70.1,26,126,4.8,2,2,3,1,2,4,197,4,12,0,0,30:47,2021,Chiefs
+11,13,Sun,2021-12-05,boxscore,Win,0,Home,Broncos,22,9,15,29,178,0,1,1,6,6.3,5.9,51.7,56.4,24,89,3.7,1,3,3,1,2,4,190,5,12,0,0,26:30,2021,Chiefs
+12,14,Sun,2021-12-12,boxscore,Win,0,Home,Raiders,48,9,20,24,240,2,0,3,18,10.8,8.9,83.3,136.1,30,132,4.4,3,2,2,6,6,1,52,9,13,0,0,33:35,2021,Chiefs
+13,15,Thu,2021-12-16,boxscore,Win,1,Away,Chargers,34,28,31,47,410,3,1,1,0,8.7,8.5,66.0,105.8,20,86,4.3,1,2,2,2,2,1,32,7,12,0,1,28:12,2021,Chiefs
+14,16,Sun,2021-12-26,boxscore,Win,0,Home,Steelers,36,10,23,30,254,3,0,2,4,8.6,7.9,76.7,134.6,35,127,3.6,1,3,4,3,4,2,91,4,11,1,1,34:42,2021,Chiefs
+15,17,Sun,2022-01-02,boxscore,Loss,0,Away,Bengals,31,34,26,35,259,2,0,0,0,7.4,7.4,74.3,113.9,23,155,6.7,2,1,1,4,4,3,108,6,11,1,1,30:54,2021,Chiefs
+16,18,Sat,2022-01-08,boxscore,Win,0,Away,Broncos,28,24,27,44,255,2,0,1,15,6.1,5.7,61.4,92.5,29,135,4.7,0,2,2,2,2,2,101,8,14,1,1,33:04,2021,Chiefs

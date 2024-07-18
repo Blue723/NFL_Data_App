@@ -1,0 +1,18 @@
+,Week,Day,Date,Boxscore,Win/Loss,Overtime,Home/Away,Opponent,Team Score,Opponenet Score,Passing Completion,Passing Attempts,Passing Yards,Passing Touchdowns,Passing Interceptions,Passing Sacks,Sack Yards,Passing Yards/Attempts,Net Yards/Attempts,Passing Completion Per.,Passing Rate,Rushing Attempts,Rushing Yards,Rushing Yards/Attempts,Rushing Touchdown,Field Goals Made,Field Goals Attempts,Extra Points Made,Extra Point Attempts,Punts,Total Punt Yards,Third Down Conversions,Third Down Attempts,Fourth Down Conversions,Fourth Down Attemtps,Time of Possesion,Year,Team
+0,1,Mon,2021-09-13,boxscore,Loss,1,Away,Raiders,27,33,19,30,217,1,0,3,18,7.8,6.6,63.3,96.1,34,189,5.6,2,2,2,3,3,4,179,3,12,1,2,32:14,2021,Ravens
+1,2,Sun,2021-09-19,boxscore,Win,0,Home,Chiefs,36,35,18,26,230,1,2,1,9,9.2,8.5,69.2,77.4,41,251,6.1,3,1,1,3,3,2,95,6,11,1,1,35:59,2021,Ravens
+2,3,Sun,2021-09-26,boxscore,Win,0,Away,Lions,19,17,16,31,271,1,1,4,16,9.3,7.7,51.6,78.8,22,116,5.3,0,4,5,1,1,3,137,1,10,1,1,27:27,2021,Ravens
+3,4,Sun,2021-10-03,boxscore,Win,0,Away,Broncos,23,7,22,37,304,1,0,3,12,8.5,7.6,59.5,94.9,30,102,3.4,1,3,3,2,2,7,335,7,17,0,0,33:07,2021,Ravens
+4,5,Mon,2021-10-11,boxscore,Win,1,Home,Colts,31,25,37,43,437,4,0,2,5,10.3,9.7,86.0,140.0,25,86,3.4,0,1,1,0,0,4,198,3,8,0,0,33:51,2021,Ravens
+5,6,Sun,2021-10-17,boxscore,Win,0,Home,Chargers,34,6,19,27,140,1,2,3,27,6.2,4.7,70.4,63.8,38,187,4.9,3,2,2,4,4,2,86,6,11,0,0,38:07,2021,Ravens
+6,7,Sun,2021-10-24,boxscore,Loss,0,Home,Bengals,17,41,20,42,278,1,0,5,18,7.0,5.9,47.6,77.3,24,115,4.8,1,1,1,2,2,6,264,5,16,1,4,31:49,2021,Ravens
+7,9,Sun,2021-11-07,boxscore,Win,1,Home,Vikings,34,31,27,41,253,3,2,3,13,6.5,5.8,65.9,86.7,45,247,5.5,1,2,2,4,4,3,125,6,15,3,3,46:04,2021,Ravens
+8,10,Thu,2021-11-11,boxscore,Loss,0,Away,Dolphins,10,22,26,43,210,1,1,4,28,5.5,4.5,60.5,70.9,23,94,4.1,0,1,2,1,1,8,321,2,14,0,0,31:48,2021,Ravens
+9,11,Sun,2021-11-21,boxscore,Win,0,Away,Bears,16,13,26,36,176,0,1,6,43,6.1,4.2,72.2,71.1,34,123,3.6,1,3,3,1,1,6,260,7,16,1,1,38:50,2021,Ravens
+10,12,Sun,2021-11-28,boxscore,Win,0,Home,Browns,16,10,20,32,155,1,4,2,10,5.2,4.6,62.5,45.2,43,148,3.4,0,3,3,1,1,3,136,7,15,1,1,37:04,2021,Ravens
+11,13,Sun,2021-12-05,boxscore,Loss,0,Away,Steelers,19,20,23,37,219,1,1,7,34,6.8,5.0,62.2,76.3,25,107,4.3,1,2,2,1,1,4,203,8,16,0,0,36:30,2021,Ravens
+12,14,Sun,2021-12-12,boxscore,Loss,0,Away,Browns,22,24,31,42,271,1,0,4,16,6.8,5.9,73.8,98.4,23,118,5.1,1,3,3,1,1,5,228,1,12,3,4,26:10,2021,Ravens
+13,15,Sun,2021-12-19,boxscore,Loss,0,Home,Packers,30,31,28,40,211,2,0,1,4,5.4,5.1,70.0,99.1,26,143,5.5,2,1,1,3,3,1,42,7,13,2,4,28:50,2021,Ravens
+14,16,Sun,2021-12-26,boxscore,Loss,0,Away,Bengals,21,41,28,40,295,2,1,1,9,7.6,7.2,70.0,97.4,16,39,2.4,1,0,0,3,3,3,133,6,11,0,1,22:57,2021,Ravens
+15,17,Sun,2022-01-02,boxscore,Loss,0,Home,Rams,19,20,20,32,162,0,1,5,35,6.2,4.4,62.5,62.2,32,165,5.2,0,4,4,1,1,3,139,4,14,3,3,33:39,2021,Ravens
+16,18,Sun,2022-01-09,boxscore,Loss,1,Home,Steelers,13,16,16,32,132,0,2,3,9,4.4,3.8,50.0,34.9,36,249,6.9,1,2,2,1,1,7,268,3,14,1,2,31:16,2021,Ravens

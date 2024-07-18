@@ -1,18 +1,18 @@
 ,Week,Day,Date,Time,Win/Loss,Overtime,Team Record,Home/Away,Opponent,Points Scored,Points Allowed,Offense 1st Down,Total Yards Gained of Offense,Total yards Gained by Passing,Total Yards Gained by Rushing,Offense Turnovers,Defense 1st Down,Total Yards Allowed by Defense,Total Passing Yards Allowed by Defense,Total Rushing Yards Allowed by Defense,Defense Turnovers,Offense,Defense,Sp. Tms,Team,Year
-0,1,Sun,2021-09-12,nan,Loss,0,0-1,away,Kansas City Chiefs,29,33,24,457,304,153,2,21,397,324,73,0,20.54,-19.34,0.35,Browns,2021
-1,2,Sun,2021-09-19,nan,Win,0,1-1,home,Houston Texans,31,21,22,355,199,156,2,17,302,220,82,2,8.22,-9.61,8.62,Browns,2021
-2,3,Sun,2021-09-26,nan,Win,0,2-1,home,Chicago Bears,26,6,26,418,203,215,0,6,47,1,46,0,6.11,19.73,-2.28,Browns,2021
-3,4,Sun,2021-10-03,nan,Win,0,3-1,away,Minnesota Vikings,14,7,20,327,143,184,0,16,255,190,65,1,-4.58,7.71,2.13,Browns,2021
-4,5,Sun,2021-10-10,nan,Loss,0,3-2,away,Los Angeles Chargers,42,47,25,531,301,230,0,27,493,381,112,1,22.52,-31.81,3.45,Browns,2021
-5,6,Sun,2021-10-17,nan,Loss,0,3-3,home,Arizona Cardinals,14,37,16,290,217,73,3,24,352,208,144,0,-10.01,-16.91,1.93,Browns,2021
-6,7,Thu,2021-10-21,nan,Win,0,4-3,home,Denver Broncos,17,14,23,376,194,182,0,15,223,182,41,1,13.24,-4.39,-1.9,Browns,2021
-7,8,Sun,2021-10-31,nan,Loss,0,4-4,home,Pittsburgh Steelers,10,15,19,306,210,96,1,21,370,255,115,0,-2.67,-1.77,0.11,Browns,2021
-8,9,Sun,2021-11-07,nan,Win,0,5-4,away,Cincinnati Bengals,41,16,14,361,208,153,0,25,348,263,85,3,14.44,15.34,-4.5,Browns,2021
-9,10,Sun,2021-11-14,nan,Loss,0,5-5,away,New England Patriots,7,45,17,217,118,99,1,30,452,268,184,0,-9.48,-31.28,2.69,Browns,2021
-10,11,Sun,2021-11-21,nan,Win,0,6-5,home,Detroit Lions,13,10,22,349,165,184,2,12,245,77,168,2,4.65,4.39,-6.08,Browns,2021
-11,12,Sun,2021-11-28,nan,Loss,0,6-6,away,Baltimore Ravens,10,16,14,262,222,40,2,22,303,155,148,4,-11.16,7.17,-4.29,Browns,2021
-12,14,Sun,2021-12-12,nan,Win,0,7-6,home,Baltimore Ravens,24,22,20,290,190,100,1,21,389,271,118,2,2.4,8.51,-5.68,Browns,2021
-13,15,Mon,2021-12-20,nan,Loss,0,7-7,home,Las Vegas Raiders,14,16,13,236,147,89,0,20,328,230,98,2,1.13,-1.6,-0.2,Browns,2021
-14,16,Sat,2021-12-25,nan,Loss,0,7-8,away,Green Bay Packers,22,24,28,408,189,219,4,19,311,202,109,0,9.4,-10.56,-3.89,Browns,2021
-15,17,Mon,2022-01-03,nan,Loss,0,7-9,away,Pittsburgh Steelers,14,26,15,232,139,93,2,20,299,109,190,1,-12.27,-0.38,-4.51,Browns,2021
-16,18,Sun,2022-01-09,nan,Win,0,8-9,home,Cincinnati Bengals,21,16,24,376,171,205,2,11,182,103,79,0,6.01,10.26,-4.58,Browns,2021
+0,1,Sun,2021-09-12,,Loss,0,0-1,away,Chiefs,29,33,24,457,304,153,2,21,397,324,73,0,20.54,-19.34,0.35,Browns,2021
+1,2,Sun,2021-09-19,,Win,0,1-1,home,Texans,31,21,22,355,199,156,2,17,302,220,82,2,8.22,-9.61,8.62,Browns,2021
+2,3,Sun,2021-09-26,,Win,0,2-1,home,Bears,26,6,26,418,203,215,0,6,47,1,46,0,6.11,19.73,-2.28,Browns,2021
+3,4,Sun,2021-10-03,,Win,0,3-1,away,Vikings,14,7,20,327,143,184,0,16,255,190,65,1,-4.58,7.71,2.13,Browns,2021
+4,5,Sun,2021-10-10,,Loss,0,3-2,away,Chargers,42,47,25,531,301,230,0,27,493,381,112,1,22.52,-31.81,3.45,Browns,2021
+5,6,Sun,2021-10-17,,Loss,0,3-3,home,Cardinals,14,37,16,290,217,73,3,24,352,208,144,0,-10.01,-16.91,1.93,Browns,2021
+6,7,Thu,2021-10-21,,Win,0,4-3,home,Broncos,17,14,23,376,194,182,0,15,223,182,41,1,13.24,-4.39,-1.9,Browns,2021
+7,8,Sun,2021-10-31,,Loss,0,4-4,home,Steelers,10,15,19,306,210,96,1,21,370,255,115,0,-2.67,-1.77,0.11,Browns,2021
+8,9,Sun,2021-11-07,,Win,0,5-4,away,Bengals,41,16,14,361,208,153,0,25,348,263,85,3,14.44,15.34,-4.5,Browns,2021
+9,10,Sun,2021-11-14,,Loss,0,5-5,away,Patriots,7,45,17,217,118,99,1,30,452,268,184,0,-9.48,-31.28,2.69,Browns,2021
+10,11,Sun,2021-11-21,,Win,0,6-5,home,Lions,13,10,22,349,165,184,2,12,245,77,168,2,4.65,4.39,-6.08,Browns,2021
+11,12,Sun,2021-11-28,,Loss,0,6-6,away,Ravens,10,16,14,262,222,40,2,22,303,155,148,4,-11.16,7.17,-4.29,Browns,2021
+12,14,Sun,2021-12-12,,Win,0,7-6,home,Ravens,24,22,20,290,190,100,1,21,389,271,118,2,2.4,8.51,-5.68,Browns,2021
+13,15,Mon,2021-12-20,,Loss,0,7-7,home,Raiders,14,16,13,236,147,89,0,20,328,230,98,2,1.13,-1.6,-0.2,Browns,2021
+14,16,Sat,2021-12-25,,Loss,0,7-8,away,Packers,22,24,28,408,189,219,4,19,311,202,109,0,9.4,-10.56,-3.89,Browns,2021
+15,17,Mon,2022-01-03,,Loss,0,7-9,away,Steelers,14,26,15,232,139,93,2,20,299,109,190,1,-12.27,-0.38,-4.51,Browns,2021
+16,18,Sun,2022-01-09,,Win,0,8-9,home,Bengals,21,16,24,376,171,205,2,11,182,103,79,0,6.01,10.26,-4.58,Browns,2021

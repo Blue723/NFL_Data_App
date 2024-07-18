@@ -1,9 +1,9 @@
-,Rk,Date,G#,Week,Age,Tm,Unnamed: 6_level_1,Opp,Result,Int,Tgt,Cmp,Cmp%,Yds,Yds/Cmp,Yds/Tgt,TD,Rat,DADOT,Air,YAC,Bltz,Hrry,QBKD,Sk,Prss,Comb,MTkl,MTkl%,Year
-0,1.0,2021-09-12,1.0,1.0,28.186,ARI,@,TEN,W 38-13,0,0,0,,0.0,,,0.0,,,0.0,0.0,0,0,0,,0,,0,,2021
-1,2.0,2021-09-19,2.0,2.0,28.193,ARI,,MIN,W 34-33,0,0,0,,0.0,,,0.0,,,0.0,0.0,0,0,0,0.0,0,1.0,0,0.0%,2021
-2,3.0,2021-09-26,3.0,3.0,28.2,ARI,@,JAX,W 31-19,0,0,0,,0.0,,,0.0,,,0.0,0.0,0,0,0,,0,,0,,2021
-3,4.0,2021-12-19,14.0,15.0,28.284,ARI,@,DET,L 12-30,0,0,0,,0.0,,,0.0,,,0.0,0.0,0,0,0,0.0,0,1.0,0,0.0%,2021
-4,5.0,2021-12-25,15.0,16.0,28.29,ARI,,IND,L 16-22,0,0,0,,0.0,,,0.0,,,0.0,0.0,0,0,0,,0,,0,,2021
-5,6.0,2022-01-02,16.0,17.0,28.298,ARI,@,DAL,W 25-22,0,0,0,,0.0,,,0.0,,,0.0,0.0,0,0,0,0.0,0,1.0,0,0.0%,2021
-6,7.0,2022-01-09,17.0,18.0,28.305,ARI,,SEA,L 30-38,0,0,0,,0.0,,,0.0,,,0.0,0.0,0,0,0,,0,,0,,2021
-7,,7 Games,,,,,,,4-3-0,0,0,0,,,,,,,,,,0,0,0,0.0,0,3.0,0,0.0%,2021
+,Rk,Date,G#,Week,Age,Tm,Unnamed: 6_level_1,Opp,Result,Int,Tgt,Cmp,Cmp%,Yds,Yds/Cmp,Yds/Tgt,TD,Rat,DADOT,Air,YAC,Bltz,Hrry,QBKD,Sk,Prss,Comb,MTkl,MTkl%,Year,Position,Player_Name,Team
+0,1.0,2021-09-12,1.0,1.0,28.186,ARI,@,TEN,W 38-13,0,0,0,,0.0,,,0.0,,,0.0,0.0,0,0,0,,0,,0,,2021,Defensive Back,Charles Washington,Cardinals
+1,2.0,2021-09-19,2.0,2.0,28.193,ARI,,MIN,W 34-33,0,0,0,,0.0,,,0.0,,,0.0,0.0,0,0,0,0.0,0,1.0,0,0.0%,2021,Defensive Back,Charles Washington,Cardinals
+2,3.0,2021-09-26,3.0,3.0,28.2,ARI,@,JAX,W 31-19,0,0,0,,0.0,,,0.0,,,0.0,0.0,0,0,0,,0,,0,,2021,Defensive Back,Charles Washington,Cardinals
+3,4.0,2021-12-19,14.0,15.0,28.284,ARI,@,DET,L 12-30,0,0,0,,0.0,,,0.0,,,0.0,0.0,0,0,0,0.0,0,1.0,0,0.0%,2021,Defensive Back,Charles Washington,Cardinals
+4,5.0,2021-12-25,15.0,16.0,28.29,ARI,,IND,L 16-22,0,0,0,,0.0,,,0.0,,,0.0,0.0,0,0,0,,0,,0,,2021,Defensive Back,Charles Washington,Cardinals
+5,6.0,2022-01-02,16.0,17.0,28.298,ARI,@,DAL,W 25-22,0,0,0,,0.0,,,0.0,,,0.0,0.0,0,0,0,0.0,0,1.0,0,0.0%,2021,Defensive Back,Charles Washington,Cardinals
+6,7.0,2022-01-09,17.0,18.0,28.305,ARI,,SEA,L 30-38,0,0,0,,0.0,,,0.0,,,0.0,0.0,0,0,0,,0,,0,,2021,Defensive Back,Charles Washington,Cardinals
+7,,7 Games,,,,,,,4-3-0,0,0,0,,,,,,,,,,0,0,0,0.0,0,3.0,0,0.0%,2021,Defensive Back,Charles Washington,Cardinals
