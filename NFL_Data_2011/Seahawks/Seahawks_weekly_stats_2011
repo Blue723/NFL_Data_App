@@ -1,0 +1,17 @@
+,Week,Day,Date,Boxscore,Win/Loss,Overtime,Home/Away,Opponent,Team Score,Opponenet Score,Passing Completion,Passing Attempts,Passing Yards,Passing Touchdowns,Passing Interceptions,Passing Sacks,Sack Yards,Passing Yards/Attempts,Net Yards/Attempts,Passing Completion Per.,Passing Rate,Rushing Attempts,Rushing Yards,Rushing Yards/Attempts,Rushing Touchdown,Field Goals Made,Field Goals Attempts,Extra Points Made,Extra Point Attempts,Punts,Total Punt Yards,Third Down Conversions,Third Down Attempts,Fourth Down Conversions,Fourth Down Attemtps,Time of Possesion,Year,Team
+0,1,Sun,2011-09-11,boxscore,Loss,0,Away,49ers,17,33,21,37,155,2,1,5,42,5.3,3.7,56.8,73.6,22,64,2.9,0,1,1,2,2,7,342,5,15,1,1,28:53,2011,Seahawks
+1,2,Sun,2011-09-18,boxscore,Loss,0,Away,Steelers,0,24,20,29,133,0,0,5,26,5.5,3.9,69.0,78.7,13,31,2.4,0,0,0,0,0,8,387,2,12,1,2,21:16,2011,Seahawks
+2,3,Sun,2011-09-25,boxscore,Win,0,Home,Cardinals,13,10,18,31,139,0,1,4,32,5.5,4.0,58.1,55.7,30,122,4.1,1,2,2,1,1,8,358,6,16,0,0,28:11,2011,Seahawks
+3,4,Sun,2011-10-02,boxscore,Loss,0,Home,Falcons,28,30,25,38,319,3,2,0,0,8.4,8.4,65.8,96.3,15,53,3.5,1,0,1,4,4,3,149,6,11,0,0,19:50,2011,Seahawks
+4,5,Sun,2011-10-09,boxscore,Win,0,Away,Giants,36,25,26,41,279,2,1,6,36,7.7,5.9,63.4,89.4,29,145,5.0,1,2,2,4,4,7,312,4,15,1,1,28:46,2011,Seahawks
+5,7,Sun,2011-10-23,boxscore,Loss,0,Away,Browns,3,6,12,30,69,0,1,4,28,3.2,2.0,40.0,34.0,16,68,4.3,0,1,1,0,0,7,351,2,12,0,1,17:04,2011,Seahawks
+6,8,Sun,2011-10-30,boxscore,Loss,0,Home,Bengals,12,34,25,47,350,0,1,4,25,8.0,6.9,53.2,68.6,20,61,3.1,1,2,2,0,0,6,320,5,15,1,2,28:33,2011,Seahawks
+7,9,Sun,2011-11-06,boxscore,Loss,0,Away,Cowboys,13,23,17,30,219,0,3,1,2,7.4,7.1,56.7,40.1,30,162,5.4,1,2,3,1,1,3,183,2,10,1,2,30:33,2011,Seahawks
+8,10,Sun,2011-11-13,boxscore,Win,0,Home,Ravens,22,17,17,27,208,0,0,1,9,8.0,7.4,63.0,86.7,42,119,2.8,1,5,5,1,1,5,218,5,16,1,1,35:01,2011,Seahawks
+9,11,Sun,2011-11-20,boxscore,Win,0,Away,Rams,24,7,15,25,163,1,2,4,40,8.1,5.6,60.0,59.2,39,126,3.2,2,1,1,3,3,9,447,7,17,0,0,35:00,2011,Seahawks
+10,12,Sun,2011-11-27,boxscore,Loss,0,Home,Redskins,17,23,14,30,126,2,1,2,18,4.8,3.9,46.7,66.8,30,124,4.1,0,1,2,2,2,6,267,6,16,0,1,26:40,2011,Seahawks
+11,13,Thu,2011-12-01,boxscore,Win,0,Home,Eagles,31,14,13,16,173,1,0,3,17,11.9,9.1,81.3,132.6,33,174,5.3,2,1,1,4,4,5,199,5,12,1,1,30:20,2011,Seahawks
+12,14,Mon,2011-12-12,boxscore,Win,0,Home,Rams,30,13,21,34,214,1,0,2,10,6.6,5.9,61.8,89.6,32,145,4.5,1,3,4,3,3,3,113,8,16,0,0,31:29,2011,Seahawks
+13,15,Sun,2011-12-18,boxscore,Win,0,Away,Bears,38,14,19,31,226,1,0,1,1,7.3,7.1,61.3,94.3,33,60,1.8,2,1,1,5,5,5,201,6,16,0,2,31:37,2011,Seahawks
+14,16,Sat,2011-12-24,boxscore,Loss,0,Home,49ers,17,19,15,28,141,1,0,4,22,5.8,4.4,53.6,79.6,26,124,4.8,1,1,1,2,2,5,227,5,13,0,1,27:06,2011,Seahawks
+15,17,Sun,2012-01-01,boxscore,Loss,1,Away,Cardinals,20,23,21,35,191,1,1,4,31,6.3,4.9,60.0,72.4,34,178,5.2,1,2,3,2,2,8,357,3,16,0,0,33:42,2011,Seahawks

@@ -1,0 +1,17 @@
+,Week,Day,Date,Boxscore,Win/Loss,Overtime,Home/Away,Opponent,Team Score,Opponenet Score,Passing Completion,Passing Attempts,Passing Yards,Passing Touchdowns,Passing Interceptions,Passing Sacks,Sack Yards,Passing Yards/Attempts,Net Yards/Attempts,Passing Completion Per.,Passing Rate,Rushing Attempts,Rushing Yards,Rushing Yards/Attempts,Rushing Touchdown,Field Goals Made,Field Goals Attempts,Extra Points Made,Extra Point Attempts,Punts,Total Punt Yards,Third Down Conversions,Third Down Attempts,Fourth Down Conversions,Fourth Down Attemtps,Time of Possesion,Year,Team
+0,1,Sun,2011-09-11,boxscore,Win,0,Away,Buccaneers,27,20,24,33,305,3,1,0,0,9.2,9.2,72.7,118.9,35,126,3.6,0,2,2,3,3,5,241,2,11,1,1,36:25,2011,Lions
+1,2,Sun,2011-09-18,boxscore,Win,0,Home,Chiefs,48,3,24,40,322,4,1,0,0,8.1,8.1,60.0,108.5,30,89,3.0,2,2,2,6,6,5,206,5,15,2,2,32:24,2011,Lions
+2,3,Sun,2011-09-25,boxscore,Win,1,Away,Vikings,26,23,32,46,338,2,0,5,40,8.2,6.6,69.6,105.2,19,20,1.1,0,4,4,2,2,7,325,7,17,0,0,34:09,2011,Lions
+3,4,Sun,2011-10-02,boxscore,Win,0,Away,Cowboys,34,30,21,43,240,2,1,0,0,5.6,5.6,48.8,71.9,17,63,3.7,0,2,2,4,4,6,262,4,13,0,0,23:21,2011,Lions
+4,5,Mon,2011-10-10,boxscore,Win,0,Home,Bears,24,13,19,26,214,2,1,1,5,8.4,7.9,73.1,106.9,20,181,9.1,1,1,1,3,3,5,162,5,11,0,0,20:57,2011,Lions
+5,6,Sun,2011-10-16,boxscore,Loss,0,Home,49ers,19,25,28,50,244,2,0,5,49,5.9,4.4,56.0,82.4,18,66,3.7,0,2,3,1,1,8,350,2,15,1,2,30:21,2011,Lions
+6,7,Sun,2011-10-23,boxscore,Loss,0,Home,Falcons,16,23,15,32,159,1,0,3,24,5.7,4.5,46.9,72.3,20,104,5.2,0,3,3,1,1,6,263,1,12,1,2,25:03,2011,Lions
+7,8,Sun,2011-10-30,boxscore,Win,0,Away,Broncos,45,10,22,32,263,3,0,2,9,8.5,7.7,68.8,124.9,28,113,4.0,1,1,1,6,6,7,284,4,12,0,0,29:34,2011,Lions
+8,10,Sun,2011-11-13,boxscore,Loss,0,Away,Bears,13,37,33,63,313,1,4,2,16,5.2,4.8,52.4,45.3,19,80,4.2,0,2,2,1,1,5,245,4,17,1,2,30:54,2011,Lions
+9,11,Sun,2011-11-20,boxscore,Win,0,Home,Panthers,49,35,28,36,326,5,2,2,9,9.3,8.6,77.8,120.8,29,169,5.8,2,0,0,7,7,2,96,6,11,0,0,33:07,2011,Lions
+10,12,Thu,2011-11-24,boxscore,Loss,0,Home,Packers,15,27,32,45,273,1,3,1,3,6.1,5.9,71.1,66.3,21,136,6.5,1,0,1,1,1,4,148,5,10,0,0,30:48,2011,Lions
+11,13,Sun,2011-12-04,boxscore,Loss,0,Away,Saints,17,31,31,44,379,1,1,3,29,9.3,8.1,70.5,94.8,22,87,4.0,1,1,3,2,2,4,183,2,11,0,1,35:06,2011,Lions
+12,14,Sun,2011-12-11,boxscore,Win,0,Home,Vikings,34,28,20,29,208,2,0,5,19,7.8,6.1,69.0,112.4,21,72,3.4,0,2,2,4,4,6,286,8,16,0,0,31:14,2011,Lions
+13,15,Sun,2011-12-18,boxscore,Win,0,Away,Raiders,28,27,29,52,375,4,0,2,16,7.5,6.9,55.8,104.2,19,57,3.0,0,0,0,4,4,6,257,8,17,1,2,28:27,2011,Lions
+14,16,Sat,2011-12-24,boxscore,Win,0,Home,Chargers,38,10,29,36,353,3,0,3,20,10.4,9.1,80.6,135.3,23,87,3.8,1,1,1,5,5,3,124,9,13,0,0,32:21,2011,Lions
+15,17,Sun,2012-01-01,boxscore,Loss,0,Away,Packers,41,45,36,59,502,5,2,2,18,8.8,8.2,61.0,102.5,15,73,4.9,0,1,2,4,4,3,141,4,11,1,2,28:20,2011,Lions

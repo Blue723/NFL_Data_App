@@ -1,39 +1,39 @@
-,Rank,Team,Date,Opponent,Win/Loss,Home_Score,Opponenet_Score,Quarter,Distance,Type,Detail
-1,1,Bears,2011-09-11,ATL,Win,30,12,1,56,pass,Matt Forte
-2,2,Bears,2011-09-11,ATL,Win,30,12,3,1,pass,Matt Spaeth
-3,3,Bears,2011-09-11,ATL,Win,30,12,3,0,fumble,Brian Urlacher
-4,4,Bears,2011-09-18,NOR,Loss,13,30,1,8,pass,Dane Sanzenbacher
-5,5,Bears,2011-09-25,GNB,Loss,17,27,2,4,pass,Dane Sanzenbacher
-6,6,Bears,2011-09-25,GNB,Loss,17,27,4,32,pass,Kellen Davis
-7,7,Bears,2011-10-02,CAR,Win,34,29,1,20,interception,D.J. Moore
-8,8,Bears,2011-10-02,CAR,Win,34,29,2,17,rush,Matt Forte
-9,9,Bears,2011-10-02,CAR,Win,34,29,2,69,punt,Devin Hester
-10,10,Bears,2011-10-02,CAR,Win,34,29,4,3,rush,Marion Barber III
-11,11,Bears,2011-10-10,DET,Loss,13,24,2,9,pass,Kellen Davis
-12,12,Bears,2011-10-16,MIN,Win,39,10,1,48,pass,Devin Hester
-13,13,Bears,2011-10-16,MIN,Win,39,10,1,3,rush,Marion Barber III
-14,14,Bears,2011-10-16,MIN,Win,39,10,2,13,pass,Dane Sanzenbacher
-15,15,Bears,2011-10-16,MIN,Win,39,10,3,98,kickoff,Devin Hester
-16,16,Bears,2011-10-23,TAM,Win,24,18,1,32,rush,Matt Forte
-17,17,Bears,2011-10-23,TAM,Win,24,18,2,25,pass,Roy Williams
-18,18,Bears,2011-10-23,TAM,Win,24,18,3,12,rush,Marion Barber III
-19,19,Bears,2011-11-07,PHI,Win,30,24,1,5,pass,Matt Spaeth
-20,20,Bears,2011-11-07,PHI,Win,30,24,2,2,rush,Marion Barber III
-21,21,Bears,2011-11-07,PHI,Win,30,24,4,5,pass,Earl Bennett
-22,22,Bears,2011-11-13,DET,Win,37,13,1,6,rush,Matt Forte
-23,23,Bears,2011-11-13,DET,Win,37,13,2,82,punt,Devin Hester
-24,24,Bears,2011-11-13,DET,Win,37,13,3,24,interception,Major Wright
-25,25,Bears,2011-11-13,DET,Win,37,13,3,44,interception,Charles Tillman
-26,26,Bears,2011-11-20,SDG,Win,31,20,2,1,rush,Marion Barber III
-27,27,Bears,2011-11-20,SDG,Win,31,20,2,4,pass,Kellen Davis
-28,28,Bears,2011-11-20,SDG,Win,31,20,3,1,rush,Jay Cutler
-29,29,Bears,2011-11-20,SDG,Win,31,20,3,24,pass,Johnny Knox
-30,30,Bears,2011-11-27,OAK,Loss,20,25,2,29,pass,Johnny Knox
-31,31,Bears,2011-11-27,OAK,Loss,20,25,4,9,pass,Kellen Davis
-32,32,Bears,2011-12-11,DEN,Loss,10,13,3,9,rush,Marion Barber III
-33,33,Bears,2011-12-18,SEA,Loss,14,38,1,0,fumble,Israel Idonije
-34,34,Bears,2011-12-18,SEA,Loss,14,38,2,25,pass,Kahlil Bell
-35,35,Bears,2011-12-25,GNB,Loss,21,35,3,0,fumble,Edwin Williams
-36,36,Bears,2011-12-25,GNB,Loss,21,35,4,1,pass,Kellen Davis
-37,37,Bears,2012-01-01,MIN,Win,17,13,2,22,pass,Roy Williams
-38,38,Bears,2012-01-01,MIN,Win,17,13,2,22,interception,Charles Tillman
+,Rank,Team,Date,Opponent,Win/Loss,Home_Score,Opponenet_Score,Quarter,Distance,Type,Detail,Year
+1,1,Bears,2011-09-11,ATL,Win,30,12,1,56,pass,Matt Forte,2011
+2,2,Bears,2011-09-11,ATL,Win,30,12,3,1,pass,Matt Spaeth,2011
+3,3,Bears,2011-09-11,ATL,Win,30,12,3,0,fumble,Brian Urlacher,2011
+4,4,Bears,2011-09-18,NOR,Loss,13,30,1,8,pass,Dane Sanzenbacher,2011
+5,5,Bears,2011-09-25,GNB,Loss,17,27,2,4,pass,Dane Sanzenbacher,2011
+6,6,Bears,2011-09-25,GNB,Loss,17,27,4,32,pass,Kellen Davis,2011
+7,7,Bears,2011-10-02,CAR,Win,34,29,1,20,interception,D.J. Moore,2011
+8,8,Bears,2011-10-02,CAR,Win,34,29,2,17,rush,Matt Forte,2011
+9,9,Bears,2011-10-02,CAR,Win,34,29,2,69,punt,Devin Hester,2011
+10,10,Bears,2011-10-02,CAR,Win,34,29,4,3,rush,Marion Barber III,2011
+11,11,Bears,2011-10-10,DET,Loss,13,24,2,9,pass,Kellen Davis,2011
+12,12,Bears,2011-10-16,MIN,Win,39,10,1,48,pass,Devin Hester,2011
+13,13,Bears,2011-10-16,MIN,Win,39,10,1,3,rush,Marion Barber III,2011
+14,14,Bears,2011-10-16,MIN,Win,39,10,2,13,pass,Dane Sanzenbacher,2011
+15,15,Bears,2011-10-16,MIN,Win,39,10,3,98,kickoff,Devin Hester,2011
+16,16,Bears,2011-10-23,TAM,Win,24,18,1,32,rush,Matt Forte,2011
+17,17,Bears,2011-10-23,TAM,Win,24,18,2,25,pass,Roy Williams,2011
+18,18,Bears,2011-10-23,TAM,Win,24,18,3,12,rush,Marion Barber III,2011
+19,19,Bears,2011-11-07,PHI,Win,30,24,1,5,pass,Matt Spaeth,2011
+20,20,Bears,2011-11-07,PHI,Win,30,24,2,2,rush,Marion Barber III,2011
+21,21,Bears,2011-11-07,PHI,Win,30,24,4,5,pass,Earl Bennett,2011
+22,22,Bears,2011-11-13,DET,Win,37,13,1,6,rush,Matt Forte,2011
+23,23,Bears,2011-11-13,DET,Win,37,13,2,82,punt,Devin Hester,2011
+24,24,Bears,2011-11-13,DET,Win,37,13,3,24,interception,Major Wright,2011
+25,25,Bears,2011-11-13,DET,Win,37,13,3,44,interception,Charles Tillman,2011
+26,26,Bears,2011-11-20,SDG,Win,31,20,2,1,rush,Marion Barber III,2011
+27,27,Bears,2011-11-20,SDG,Win,31,20,2,4,pass,Kellen Davis,2011
+28,28,Bears,2011-11-20,SDG,Win,31,20,3,1,rush,Jay Cutler,2011
+29,29,Bears,2011-11-20,SDG,Win,31,20,3,24,pass,Johnny Knox,2011
+30,30,Bears,2011-11-27,OAK,Loss,20,25,2,29,pass,Johnny Knox,2011
+31,31,Bears,2011-11-27,OAK,Loss,20,25,4,9,pass,Kellen Davis,2011
+32,32,Bears,2011-12-11,DEN,Loss,10,13,3,9,rush,Marion Barber III,2011
+33,33,Bears,2011-12-18,SEA,Loss,14,38,1,0,fumble,Israel Idonije,2011
+34,34,Bears,2011-12-18,SEA,Loss,14,38,2,25,pass,Kahlil Bell,2011
+35,35,Bears,2011-12-25,GNB,Loss,21,35,3,0,fumble,Edwin Williams,2011
+36,36,Bears,2011-12-25,GNB,Loss,21,35,4,1,pass,Kellen Davis,2011
+37,37,Bears,2012-01-01,MIN,Win,17,13,2,22,pass,Roy Williams,2011
+38,38,Bears,2012-01-01,MIN,Win,17,13,2,22,interception,Charles Tillman,2011

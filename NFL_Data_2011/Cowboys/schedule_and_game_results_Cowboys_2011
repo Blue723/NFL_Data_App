@@ -1,17 +1,17 @@
 ,Week,Day,Date,Time,Win/Loss,Overtime,Team Record,Home/Away,Opponent,Points Scored,Points Allowed,Offense 1st Down,Total Yards Gained of Offense,Total yards Gained by Passing,Total Yards Gained by Rushing,Offense Turnovers,Defense 1st Down,Total Yards Allowed by Defense,Total Passing Yards Allowed by Defense,Total Rushing Yards Allowed by Defense,Defense Turnovers,Offense,Defense,Sp. Tms,Team,Year
-0,1,Sun,2011-09-11,nan,Loss,0,0-1,away,New York Jets,24,27,21,390,326,64,3,19,360,315,45,2,0.11,2.95,-5.63,Cowboys,2011
-1,2,Sun,2011-09-18,nan,Win,1,1-1,away,San Francisco 49ers,27,24,20,472,427,45,2,14,206,132,74,1,12.54,2.83,-14.1,Cowboys,2011
-2,3,Mon,2011-09-26,nan,Win,0,2-1,home,Washington Redskins,18,16,17,375,250,125,2,20,298,233,65,2,-3.71,6.87,1.08,Cowboys,2011
-3,4,Sun,2011-10-02,nan,Loss,0,2-2,home,Detroit Lions,30,34,25,434,321,113,3,18,303,240,63,1,-6.22,2.92,-2.15,Cowboys,2011
-4,6,Sun,2011-10-16,nan,Loss,0,2-3,away,New England Patriots,16,20,21,377,300,77,2,25,371,270,101,4,-1.21,-2.89,1.61,Cowboys,2011
-5,7,Sun,2011-10-23,nan,Win,0,3-3,home,St. Louis Rams,34,7,24,445,151,294,1,13,265,195,70,2,17.68,10.36,-1.4,Cowboys,2011
-6,8,Sun,2011-10-30,nan,Loss,0,3-4,away,Philadelphia Eagles,7,34,12,267,182,85,1,31,495,256,239,0,-1.31,-27.96,6.97,Cowboys,2011
-7,9,Sun,2011-11-06,nan,Win,0,4-4,home,Seattle Seahawks,23,13,18,442,279,163,1,18,381,219,162,3,9.63,-1.03,1.4,Cowboys,2011
-8,10,Sun,2011-11-13,nan,Win,0,5-4,home,Buffalo Bills,44,7,24,433,270,163,0,20,271,136,135,4,24.58,11.85,-0.33,Cowboys,2011
-9,11,Sun,2011-11-20,nan,Win,1,6-4,away,Washington Redskins,27,24,20,353,264,89,0,18,339,279,60,2,7.7,-1.3,-3.96,Cowboys,2011
-10,12,Thu,2011-11-24,nan,Win,0,7-4,home,Miami Dolphins,20,19,19,303,218,85,2,18,352,263,89,1,-1.95,0.6,2.35,Cowboys,2011
-11,13,Sun,2011-12-04,nan,Loss,1,7-5,away,Arizona Cardinals,13,19,20,336,261,75,0,16,327,224,103,0,1.98,-1.07,-7.14,Cowboys,2011
-12,14,Sun,2011-12-11,nan,Loss,0,7-6,home,New York Giants,34,37,23,444,305,139,1,28,510,400,110,1,17.77,-19.02,-0.89,Cowboys,2011
-13,15,Sat,2011-12-17,nan,Win,0,8-6,away,Tampa Bay Buccaneers,31,15,28,399,239,160,1,7,190,132,58,1,15.8,11.22,-6.4,Cowboys,2011
-14,16,Sat,2011-12-24,nan,Loss,0,8-7,home,Philadelphia Eagles,7,20,16,238,157,81,0,20,386,281,105,1,-9.54,-3.77,0.73,Cowboys,2011
-15,17,Sun,2012-01-01,nan,Loss,0,8-8,away,New York Giants,14,31,19,300,251,49,2,20,437,331,106,0,-4.82,-15.03,4.24,Cowboys,2011
+0,1,Sun,2011-09-11,,Loss,0,0-1,away,Jets,24,27,21,390,326,64,3,19,360,315,45,2,0.11,2.95,-5.63,Cowboys,2011
+1,2,Sun,2011-09-18,,Win,1,1-1,away,49ers,27,24,20,472,427,45,2,14,206,132,74,1,12.54,2.83,-14.1,Cowboys,2011
+2,3,Mon,2011-09-26,,Win,0,2-1,home,Redskins,18,16,17,375,250,125,2,20,298,233,65,2,-3.71,6.87,1.08,Cowboys,2011
+3,4,Sun,2011-10-02,,Loss,0,2-2,home,Lions,30,34,25,434,321,113,3,18,303,240,63,1,-6.22,2.92,-2.15,Cowboys,2011
+4,6,Sun,2011-10-16,,Loss,0,2-3,away,Patriots,16,20,21,377,300,77,2,25,371,270,101,4,-1.21,-2.89,1.61,Cowboys,2011
+5,7,Sun,2011-10-23,,Win,0,3-3,home,Rams,34,7,24,445,151,294,1,13,265,195,70,2,17.68,10.36,-1.4,Cowboys,2011
+6,8,Sun,2011-10-30,,Loss,0,3-4,away,Eagles,7,34,12,267,182,85,1,31,495,256,239,0,-1.31,-27.96,6.97,Cowboys,2011
+7,9,Sun,2011-11-06,,Win,0,4-4,home,Seahawks,23,13,18,442,279,163,1,18,381,219,162,3,9.63,-1.03,1.4,Cowboys,2011
+8,10,Sun,2011-11-13,,Win,0,5-4,home,Bills,44,7,24,433,270,163,0,20,271,136,135,4,24.58,11.85,-0.33,Cowboys,2011
+9,11,Sun,2011-11-20,,Win,1,6-4,away,Redskins,27,24,20,353,264,89,0,18,339,279,60,2,7.7,-1.3,-3.96,Cowboys,2011
+10,12,Thu,2011-11-24,,Win,0,7-4,home,Dolphins,20,19,19,303,218,85,2,18,352,263,89,1,-1.95,0.6,2.35,Cowboys,2011
+11,13,Sun,2011-12-04,,Loss,1,7-5,away,Cardinals,13,19,20,336,261,75,0,16,327,224,103,0,1.98,-1.07,-7.14,Cowboys,2011
+12,14,Sun,2011-12-11,,Loss,0,7-6,home,Giants,34,37,23,444,305,139,1,28,510,400,110,1,17.77,-19.02,-0.89,Cowboys,2011
+13,15,Sat,2011-12-17,,Win,0,8-6,away,Buccaneers,31,15,28,399,239,160,1,7,190,132,58,1,15.8,11.22,-6.4,Cowboys,2011
+14,16,Sat,2011-12-24,,Loss,0,8-7,home,Eagles,7,20,16,238,157,81,0,20,386,281,105,1,-9.54,-3.77,0.73,Cowboys,2011
+15,17,Sun,2012-01-01,,Loss,0,8-8,away,Giants,14,31,19,300,251,49,2,20,437,331,106,0,-4.82,-15.03,4.24,Cowboys,2011

@@ -1,0 +1,17 @@
+,Week,Day,Date,Boxscore,Win/Loss,Overtime,Home/Away,Opponent,Team Score,Opponenet Score,Passing Completion,Passing Attempts,Passing Yards,Passing Touchdowns,Passing Interceptions,Passing Sacks,Sack Yards,Passing Yards/Attempts,Net Yards/Attempts,Passing Completion Per.,Passing Rate,Rushing Attempts,Rushing Yards,Rushing Yards/Attempts,Rushing Touchdown,Field Goals Made,Field Goals Attempts,Extra Points Made,Extra Point Attempts,Punts,Total Punt Yards,Third Down Conversions,Third Down Attempts,Fourth Down Conversions,Fourth Down Attemtps,Time of Possesion,Year,Team
+0,1,Mon,2011-09-12,boxscore,Loss,0,Home,Patriots,24,38,30,49,390,2,1,4,26,8.5,7.4,61.2,91.4,20,98,4.9,1,1,1,3,3,6,307,2,14,4,5,31:33,2011,Dolphins
+1,2,Sun,2011-09-18,boxscore,Loss,0,Home,Texans,13,23,12,30,153,1,1,2,17,5.7,4.8,40.0,53.9,28,153,5.5,0,2,4,1,1,3,181,4,12,0,1,25:54,2011,Dolphins
+2,3,Sun,2011-09-25,boxscore,Loss,0,Away,Browns,16,17,19,29,231,1,1,5,24,8.8,6.8,65.5,87.0,38,138,3.6,0,3,4,1,1,3,151,4,13,1,2,37:51,2011,Dolphins
+3,4,Sun,2011-10-02,boxscore,Loss,0,Away,Chargers,16,26,20,30,176,0,2,3,18,6.5,5.3,66.7,54.3,22,72,3.3,1,3,3,1,1,3,135,3,10,0,0,26:42,2011,Dolphins
+4,6,Mon,2011-10-17,boxscore,Loss,0,Away,Jets,6,24,16,34,190,0,2,4,14,6.0,5.0,47.1,40.1,25,118,4.7,0,2,2,0,0,7,305,2,13,0,1,29:39,2011,Dolphins
+5,7,Sun,2011-10-23,boxscore,Loss,1,Home,Broncos,15,18,22,33,173,1,0,4,24,6.0,4.7,66.7,89.6,31,94,3.0,0,3,3,0,0,8,397,3,14,0,0,33:19,2011,Dolphins
+6,8,Sun,2011-10-30,boxscore,Loss,0,Away,Giants,17,20,13,22,101,0,1,5,37,6.3,3.7,59.1,51.5,26,145,5.6,2,1,1,2,2,5,247,5,13,1,2,27:34,2011,Dolphins
+7,9,Sun,2011-11-06,boxscore,Win,0,Away,Chiefs,31,3,17,23,244,3,0,0,0,10.6,10.6,73.9,147.5,24,107,4.5,1,1,1,4,4,5,221,3,10,0,0,25:21,2011,Dolphins
+8,10,Sun,2011-11-13,boxscore,Win,0,Home,Redskins,20,9,20,29,200,0,1,2,9,7.2,6.5,69.0,73.9,33,103,3.1,2,2,3,2,2,1,49,8,14,0,1,33:33,2011,Dolphins
+9,11,Sun,2011-11-20,boxscore,Win,0,Home,Bills,35,8,14,20,147,3,0,1,13,8.0,7.0,70.0,130.6,35,95,2.7,1,0,0,5,5,7,337,5,12,0,0,31:06,2011,Dolphins
+10,12,Thu,2011-11-24,boxscore,Loss,0,Away,Cowboys,19,20,19,32,263,1,0,4,25,9.0,7.3,59.4,96.2,25,89,3.6,0,4,5,1,1,4,198,3,12,0,0,31:28,2011,Dolphins
+11,13,Sun,2011-12-04,boxscore,Win,0,Home,Raiders,34,14,13,25,153,1,0,1,9,6.5,5.9,52.0,84.2,44,209,4.8,2,2,2,4,4,4,222,8,14,0,0,38:20,2011,Dolphins
+12,14,Sun,2011-12-11,boxscore,Loss,0,Home,Eagles,10,26,17,29,95,1,1,9,60,5.3,2.5,58.6,61.7,26,109,4.2,0,1,2,1,1,6,321,3,15,0,3,28:39,2011,Dolphins
+13,15,Sun,2011-12-18,boxscore,Win,0,Away,Bills,30,23,10,20,194,2,0,2,23,10.9,8.8,50.0,117.5,38,254,6.7,1,3,3,3,3,6,278,3,13,0,1,28:49,2011,Dolphins
+14,16,Sat,2011-12-24,boxscore,Loss,0,Away,Patriots,24,27,16,32,253,3,1,5,28,8.8,6.8,50.0,94.9,28,121,4.3,0,1,1,3,3,6,269,5,13,0,0,29:04,2011,Dolphins
+15,17,Sun,2012-01-01,boxscore,Win,0,Home,Jets,19,17,22,32,128,1,2,1,7,4.2,3.9,68.8,60.4,26,82,3.2,0,4,4,1,1,4,192,8,15,0,0,31:07,2011,Dolphins

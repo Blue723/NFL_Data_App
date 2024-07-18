@@ -1,36 +1,36 @@
-,Rank,Team,Date,Opponent,Win/Loss,Home_Score,Opponenet_Score,Quarter,Distance,Type,Detail
-1,1,49ers,2011-09-11,SEA,Win,33,17,2,1,rush,Alex Smith
-2,2,49ers,2011-09-11,SEA,Win,33,17,4,102,kickoff,Ted Ginn Jr.
-3,3,49ers,2011-09-11,SEA,Win,33,17,4,55,punt,Ted Ginn Jr.
-4,4,49ers,2011-09-18,DAL,Loss,24,27,2,1,rush,Frank Gore
-5,5,49ers,2011-09-18,DAL,Loss,24,27,2,12,pass,Kyle Williams
-6,6,49ers,2011-09-18,DAL,Loss,24,27,3,29,pass,Delanie Walker
-7,7,49ers,2011-09-25,CIN,Win,13,8,4,7,rush,Kendall Hunter
-8,8,49ers,2011-10-02,PHI,Win,24,23,3,30,pass,Josh Morgan
-9,9,49ers,2011-10-02,PHI,Win,24,23,3,9,pass,Vernon Davis
-10,10,49ers,2011-10-02,PHI,Win,24,23,4,12,rush,Frank Gore
-11,11,49ers,2011-10-09,TAM,Win,48,3,1,26,pass,Delanie Walker
-12,12,49ers,2011-10-09,TAM,Win,48,3,2,31,interception,Carlos Rogers
-13,13,49ers,2011-10-09,TAM,Win,48,3,2,2,rush,Frank Gore
-14,14,49ers,2011-10-09,TAM,Win,48,3,3,23,pass,Vernon Davis
-15,15,49ers,2011-10-09,TAM,Win,48,3,4,14,pass,Vernon Davis
-16,16,49ers,2011-10-09,TAM,Win,48,3,4,1,rush,Anthony Dixon
-17,17,49ers,2011-10-16,DET,Win,25,19,2,1,rush,Frank Gore
-18,18,49ers,2011-10-16,DET,Win,25,19,4,6,pass,Delanie Walker
-19,19,49ers,2011-10-30,CLE,Win,20,10,1,4,rush,Frank Gore
-20,20,49ers,2011-10-30,CLE,Win,20,10,2,2,pass,Michael Crabtree
-21,21,49ers,2011-11-06,WAS,Win,19,11,2,30,pass,Bruce Miller
-22,22,49ers,2011-11-13,NYG,Win,27,20,4,31,pass,Vernon Davis
-23,23,49ers,2011-11-13,NYG,Win,27,20,4,17,rush,Kendall Hunter
-24,24,49ers,2011-11-20,ARI,Win,23,7,3,8,pass,Kyle Williams
-25,25,49ers,2011-11-20,ARI,Win,23,7,3,18,pass,Vernon Davis
-26,26,49ers,2011-12-04,STL,Win,26,0,3,52,pass,Michael Crabtree
-27,27,49ers,2011-12-04,STL,Win,26,0,4,56,pass,Kyle Williams
-28,28,49ers,2011-12-11,ARI,Loss,19,21,3,37,rush,Frank Gore
-29,29,49ers,2011-12-19,PIT,Win,20,3,3,1,pass,Vernon Davis
-30,30,49ers,2011-12-19,PIT,Win,20,3,4,5,rush,Frank Gore
-31,31,49ers,2011-12-24,SEA,Win,19,17,3,4,rush,Frank Gore
-32,32,49ers,2012-01-01,STL,Win,34,27,1,8,rush,Alex Smith
-33,33,49ers,2012-01-01,STL,Win,34,27,2,28,pass,Michael Crabtree
-34,34,49ers,2012-01-01,STL,Win,34,27,3,14,pass,Michael Crabtree
-35,35,49ers,2012-01-01,STL,Win,34,27,4,1,rush,Anthony Dixon
+,Rank,Team,Date,Opponent,Win/Loss,Home_Score,Opponenet_Score,Quarter,Distance,Type,Detail,Year
+1,1,49ers,2011-09-11,SEA,Win,33,17,2,1,rush,Alex Smith,2011
+2,2,49ers,2011-09-11,SEA,Win,33,17,4,102,kickoff,Ted Ginn Jr.,2011
+3,3,49ers,2011-09-11,SEA,Win,33,17,4,55,punt,Ted Ginn Jr.,2011
+4,4,49ers,2011-09-18,DAL,Loss,24,27,2,1,rush,Frank Gore,2011
+5,5,49ers,2011-09-18,DAL,Loss,24,27,2,12,pass,Kyle Williams,2011
+6,6,49ers,2011-09-18,DAL,Loss,24,27,3,29,pass,Delanie Walker,2011
+7,7,49ers,2011-09-25,CIN,Win,13,8,4,7,rush,Kendall Hunter,2011
+8,8,49ers,2011-10-02,PHI,Win,24,23,3,30,pass,Josh Morgan,2011
+9,9,49ers,2011-10-02,PHI,Win,24,23,3,9,pass,Vernon Davis,2011
+10,10,49ers,2011-10-02,PHI,Win,24,23,4,12,rush,Frank Gore,2011
+11,11,49ers,2011-10-09,TAM,Win,48,3,1,26,pass,Delanie Walker,2011
+12,12,49ers,2011-10-09,TAM,Win,48,3,2,31,interception,Carlos Rogers,2011
+13,13,49ers,2011-10-09,TAM,Win,48,3,2,2,rush,Frank Gore,2011
+14,14,49ers,2011-10-09,TAM,Win,48,3,3,23,pass,Vernon Davis,2011
+15,15,49ers,2011-10-09,TAM,Win,48,3,4,14,pass,Vernon Davis,2011
+16,16,49ers,2011-10-09,TAM,Win,48,3,4,1,rush,Anthony Dixon,2011
+17,17,49ers,2011-10-16,DET,Win,25,19,2,1,rush,Frank Gore,2011
+18,18,49ers,2011-10-16,DET,Win,25,19,4,6,pass,Delanie Walker,2011
+19,19,49ers,2011-10-30,CLE,Win,20,10,1,4,rush,Frank Gore,2011
+20,20,49ers,2011-10-30,CLE,Win,20,10,2,2,pass,Michael Crabtree,2011
+21,21,49ers,2011-11-06,WAS,Win,19,11,2,30,pass,Bruce Miller,2011
+22,22,49ers,2011-11-13,NYG,Win,27,20,4,31,pass,Vernon Davis,2011
+23,23,49ers,2011-11-13,NYG,Win,27,20,4,17,rush,Kendall Hunter,2011
+24,24,49ers,2011-11-20,ARI,Win,23,7,3,8,pass,Kyle Williams,2011
+25,25,49ers,2011-11-20,ARI,Win,23,7,3,18,pass,Vernon Davis,2011
+26,26,49ers,2011-12-04,STL,Win,26,0,3,52,pass,Michael Crabtree,2011
+27,27,49ers,2011-12-04,STL,Win,26,0,4,56,pass,Kyle Williams,2011
+28,28,49ers,2011-12-11,ARI,Loss,19,21,3,37,rush,Frank Gore,2011
+29,29,49ers,2011-12-19,PIT,Win,20,3,3,1,pass,Vernon Davis,2011
+30,30,49ers,2011-12-19,PIT,Win,20,3,4,5,rush,Frank Gore,2011
+31,31,49ers,2011-12-24,SEA,Win,19,17,3,4,rush,Frank Gore,2011
+32,32,49ers,2012-01-01,STL,Win,34,27,1,8,rush,Alex Smith,2011
+33,33,49ers,2012-01-01,STL,Win,34,27,2,28,pass,Michael Crabtree,2011
+34,34,49ers,2012-01-01,STL,Win,34,27,3,14,pass,Michael Crabtree,2011
+35,35,49ers,2012-01-01,STL,Win,34,27,4,1,rush,Anthony Dixon,2011

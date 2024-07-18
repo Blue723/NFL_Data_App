@@ -1,0 +1,17 @@
+,Week,Day,Date,Boxscore,Win/Loss,Overtime,Home/Away,Opponent,Team Score,Opponenet Score,Passing Completion,Passing Attempts,Passing Yards,Passing Touchdowns,Passing Interceptions,Passing Sacks,Sack Yards,Passing Yards/Attempts,Net Yards/Attempts,Passing Completion Per.,Passing Rate,Rushing Attempts,Rushing Yards,Rushing Yards/Attempts,Rushing Touchdown,Field Goals Made,Field Goals Attempts,Extra Points Made,Extra Point Attempts,Punts,Total Punt Yards,Third Down Conversions,Third Down Attempts,Fourth Down Conversions,Fourth Down Attemtps,Time of Possesion,Year,Team
+0,1,Sun,2011-09-11,boxscore,Loss,0,Home,Bengals,17,27,19,40,202,2,1,2,11,5.3,4.8,47.5,69.0,26,83,3.2,0,1,1,2,2,8,288,4,15,1,2,29:37,2011,Browns
+1,2,Sun,2011-09-18,boxscore,Win,0,Away,Colts,27,19,22,32,197,1,0,1,14,6.6,6.0,68.8,95.4,34,106,3.1,2,2,2,3,3,5,201,8,16,1,1,34:34,2011,Browns
+2,3,Sun,2011-09-25,boxscore,Win,0,Home,Dolphins,17,16,19,39,210,2,1,0,0,5.4,5.4,48.7,71.5,19,70,3.7,0,1,1,2,2,5,211,3,11,1,1,22:09,2011,Browns
+3,4,Sun,2011-10-02,boxscore,Loss,0,Home,Titans,13,31,40,61,332,1,1,4,18,5.7,5.1,65.6,78.0,22,84,3.8,0,2,2,1,1,4,155,8,20,2,5,36:53,2011,Browns
+4,6,Sun,2011-10-16,boxscore,Loss,0,Away,Raiders,17,24,21,45,203,2,0,2,12,4.8,4.3,46.7,74.6,21,65,3.1,0,1,1,2,2,6,271,8,16,0,1,25:19,2011,Browns
+5,7,Sun,2011-10-23,boxscore,Win,0,Home,Seahawks,6,3,20,35,159,0,1,4,19,5.1,4.1,57.1,56.7,45,139,3.1,0,2,4,0,0,5,193,12,24,0,0,42:56,2011,Browns
+6,8,Sun,2011-10-30,boxscore,Loss,0,Away,49ers,10,20,22,34,224,1,1,4,17,7.1,5.9,64.7,81.0,23,66,2.9,0,1,1,1,1,6,264,6,14,2,2,27:08,2011,Browns
+7,9,Sun,2011-11-06,boxscore,Loss,0,Away,Texans,12,30,14,22,128,1,1,4,18,6.6,4.9,63.6,75.6,21,44,2.1,0,2,2,0,0,4,175,4,12,2,2,24:45,2011,Browns
+8,10,Sun,2011-11-13,boxscore,Loss,0,Home,Rams,12,13,20,27,209,0,0,2,9,8.1,7.2,74.1,96.1,30,126,4.2,0,4,5,0,0,5,208,5,14,0,0,32:27,2011,Browns
+9,11,Sun,2011-11-20,boxscore,Win,0,Home,Jaguars,14,10,17,24,186,1,1,2,13,8.3,7.2,70.8,89.9,28,148,5.3,1,0,1,2,2,3,108,4,10,0,0,29:07,2011,Browns
+10,12,Sun,2011-11-27,boxscore,Loss,0,Away,Bengals,20,23,16,34,140,2,1,2,11,4.4,3.9,47.1,65.8,30,134,4.5,0,2,3,2,2,5,215,6,15,0,1,28:26,2011,Browns
+11,13,Sun,2011-12-04,boxscore,Loss,0,Home,Ravens,10,24,18,36,174,1,1,3,22,5.4,4.5,50.0,61.6,17,59,3.5,0,1,1,1,1,8,317,3,14,1,1,22:26,2011,Browns
+12,14,Thu,2011-12-08,boxscore,Loss,0,Away,Steelers,3,14,19,36,206,0,2,3,16,6.2,5.3,52.8,46.8,30,98,3.3,0,1,1,0,0,6,205,7,16,0,1,32:18,2011,Browns
+13,15,Sun,2011-12-18,boxscore,Loss,1,Away,Cardinals,17,20,18,31,213,1,0,2,13,7.3,6.5,58.1,89.9,29,120,4.1,1,1,1,2,2,7,278,5,14,0,0,31:22,2011,Browns
+14,16,Sat,2011-12-24,boxscore,Loss,0,Away,Ravens,14,20,19,33,139,1,1,2,8,4.5,4.0,57.6,65.1,25,117,4.7,0,0,0,2,2,6,251,5,13,0,1,27:42,2011,Browns
+15,17,Sun,2012-01-01,boxscore,Loss,0,Home,Steelers,9,13,16,41,168,0,1,2,9,4.3,3.9,39.0,41.5,15,72,4.8,0,3,3,0,0,6,230,4,14,0,0,20:49,2011,Browns

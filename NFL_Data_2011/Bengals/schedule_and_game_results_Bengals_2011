@@ -1,18 +1,18 @@
 ,Week,Day,Date,Time,Win/Loss,Overtime,Team Record,Home/Away,Opponent,Points Scored,Points Allowed,Offense 1st Down,Total Yards Gained of Offense,Total yards Gained by Passing,Total Yards Gained by Rushing,Offense Turnovers,Defense 1st Down,Total Yards Allowed by Defense,Total Passing Yards Allowed by Defense,Total Rushing Yards Allowed by Defense,Defense Turnovers,Offense,Defense,Sp. Tms,Team,Year
-0,1,Sun,2011-09-11,nan,Win,0,1-0,away,Cleveland Browns,27,17,17,294,155,139,0,17,285,202,83,1,0.57,10.45,2.08,Bengals,2011
-1,2,Sun,2011-09-18,nan,Loss,0,1-1,away,Denver Broncos,22,24,18,382,310,72,0,19,318,187,131,2,-1.57,0.55,-4.52,Bengals,2011
-2,3,Sun,2011-09-25,nan,Loss,0,1-2,home,San Francisco 49ers,8,13,14,228,149,79,3,16,226,176,50,1,-13.79,11.32,-1.92,Bengals,2011
-3,4,Sun,2011-10-02,nan,Win,0,2-2,home,Buffalo Bills,23,20,25,458,287,171,2,12,273,190,83,0,4.54,3.68,-3.16,Bengals,2011
-4,5,Sun,2011-10-09,nan,Win,0,3-2,away,Jacksonville Jaguars,30,20,13,239,162,77,1,12,296,200,96,2,-10.47,14.15,6.78,Bengals,2011
-5,6,Sun,2011-10-16,nan,Win,0,4-2,home,Indianapolis Colts,27,17,17,358,264,94,0,18,273,179,94,3,4.5,7.83,1.48,Bengals,2011
-6,8,Sun,2011-10-30,nan,Win,0,5-2,away,Seattle Seahawks,34,12,18,252,160,92,2,20,411,350,61,2,-0.55,9.79,5.57,Bengals,2011
-7,9,Sun,2011-11-06,nan,Win,0,6-2,away,Tennessee Titans,24,17,20,319,210,109,0,19,328,250,78,1,6.9,-1.08,-3.12,Bengals,2011
-8,10,Sun,2011-11-13,nan,Loss,0,6-3,home,Pittsburgh Steelers,17,24,14,279,170,109,2,24,328,223,105,1,-4.55,-6.07,3.9,Bengals,2011
-9,11,Sun,2011-11-20,nan,Loss,0,6-4,away,Baltimore Ravens,24,31,23,483,364,119,3,13,373,268,105,1,-1.26,-0.72,-4.29,Bengals,2011
-10,12,Sun,2011-11-27,nan,Win,0,7-4,home,Cleveland Browns,23,20,18,389,257,132,1,17,274,140,134,1,1.39,4.6,1.25,Bengals,2011
-11,13,Sun,2011-12-04,nan,Loss,0,7-5,away,Pittsburgh Steelers,7,35,13,232,128,104,2,22,295,159,136,0,-8.79,-9.71,-9.4,Bengals,2011
-12,14,Sun,2011-12-11,nan,Loss,0,7-6,home,Houston Texans,19,20,16,285,184,101,2,25,412,268,144,4,-0.3,-3.95,4.33,Bengals,2011
-13,15,Sun,2011-12-18,nan,Win,0,8-6,away,St. Louis Rams,20,13,19,283,173,110,1,18,305,210,95,0,-5.58,3.91,7.81,Bengals,2011
-14,16,Sat,2011-12-24,nan,Win,0,9-6,home,Arizona Cardinals,23,16,21,301,136,165,2,17,316,257,59,3,-3.11,12.69,-3.64,Bengals,2011
-15,17,Sun,2012-01-01,nan,Loss,0,9-7,home,Baltimore Ravens,16,24,19,336,231,105,1,15,347,126,221,0,0.34,-9.3,1.65,Bengals,2011
-16,19,Sat,2012-01-07,nan,Loss,0,9-8,away,Houston Texans,10,31,21,300,224,76,3,19,340,152,188,0,-5.39,-13.28,-2.15,Bengals,2011
+0,1,Sun,2011-09-11,,Win,0,1-0,away,Browns,27,17,17,294,155,139,0,17,285,202,83,1,0.57,10.45,2.08,Bengals,2011
+1,2,Sun,2011-09-18,,Loss,0,1-1,away,Broncos,22,24,18,382,310,72,0,19,318,187,131,2,-1.57,0.55,-4.52,Bengals,2011
+2,3,Sun,2011-09-25,,Loss,0,1-2,home,49ers,8,13,14,228,149,79,3,16,226,176,50,1,-13.79,11.32,-1.92,Bengals,2011
+3,4,Sun,2011-10-02,,Win,0,2-2,home,Bills,23,20,25,458,287,171,2,12,273,190,83,0,4.54,3.68,-3.16,Bengals,2011
+4,5,Sun,2011-10-09,,Win,0,3-2,away,Jaguars,30,20,13,239,162,77,1,12,296,200,96,2,-10.47,14.15,6.78,Bengals,2011
+5,6,Sun,2011-10-16,,Win,0,4-2,home,Colts,27,17,17,358,264,94,0,18,273,179,94,3,4.5,7.83,1.48,Bengals,2011
+6,8,Sun,2011-10-30,,Win,0,5-2,away,Seahawks,34,12,18,252,160,92,2,20,411,350,61,2,-0.55,9.79,5.57,Bengals,2011
+7,9,Sun,2011-11-06,,Win,0,6-2,away,Titans,24,17,20,319,210,109,0,19,328,250,78,1,6.9,-1.08,-3.12,Bengals,2011
+8,10,Sun,2011-11-13,,Loss,0,6-3,home,Steelers,17,24,14,279,170,109,2,24,328,223,105,1,-4.55,-6.07,3.9,Bengals,2011
+9,11,Sun,2011-11-20,,Loss,0,6-4,away,Ravens,24,31,23,483,364,119,3,13,373,268,105,1,-1.26,-0.72,-4.29,Bengals,2011
+10,12,Sun,2011-11-27,,Win,0,7-4,home,Browns,23,20,18,389,257,132,1,17,274,140,134,1,1.39,4.6,1.25,Bengals,2011
+11,13,Sun,2011-12-04,,Loss,0,7-5,away,Steelers,7,35,13,232,128,104,2,22,295,159,136,0,-8.79,-9.71,-9.4,Bengals,2011
+12,14,Sun,2011-12-11,,Loss,0,7-6,home,Texans,19,20,16,285,184,101,2,25,412,268,144,4,-0.3,-3.95,4.33,Bengals,2011
+13,15,Sun,2011-12-18,,Win,0,8-6,away,Rams,20,13,19,283,173,110,1,18,305,210,95,0,-5.58,3.91,7.81,Bengals,2011
+14,16,Sat,2011-12-24,,Win,0,9-6,home,Cardinals,23,16,21,301,136,165,2,17,316,257,59,3,-3.11,12.69,-3.64,Bengals,2011
+15,17,Sun,2012-01-01,,Loss,0,9-7,home,Ravens,16,24,19,336,231,105,1,15,347,126,221,0,0.34,-9.3,1.65,Bengals,2011
+16,19,Sat,2012-01-07,,Loss,0,9-8,away,Texans,10,31,21,300,224,76,3,19,340,152,188,0,-5.39,-13.28,-2.15,Bengals,2011

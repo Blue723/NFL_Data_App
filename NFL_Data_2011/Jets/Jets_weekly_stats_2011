@@ -1,0 +1,17 @@
+,Week,Day,Date,Boxscore,Win/Loss,Overtime,Home/Away,Opponent,Team Score,Opponenet Score,Passing Completion,Passing Attempts,Passing Yards,Passing Touchdowns,Passing Interceptions,Passing Sacks,Sack Yards,Passing Yards/Attempts,Net Yards/Attempts,Passing Completion Per.,Passing Rate,Rushing Attempts,Rushing Yards,Rushing Yards/Attempts,Rushing Touchdown,Field Goals Made,Field Goals Attempts,Extra Points Made,Extra Point Attempts,Punts,Total Punt Yards,Third Down Conversions,Third Down Attempts,Fourth Down Conversions,Fourth Down Attemtps,Time of Possesion,Year,Team
+0,1,Sun,2011-09-11,boxscore,Win,0.0,Home,Cowboys,27,24,26,44,315,2,1,4,20,7.6,6.6,59.1,86.8,16,45,2.8,0,2,2,3,3,6,239,6,14,0,0,26:07,2011,Jets
+1,2,Sun,2011-09-18,boxscore,Win,0.0,Home,Jaguars,32,3,17,24,182,2,2,1,0,7.6,7.3,70.8,85.8,32,101,3.2,1,3,3,3,3,5,194,3,12,0,0,33:23,2011,Jets
+2,3,Sun,2011-09-25,boxscore,Loss,0.0,Away,Raiders,24,34,27,44,339,2,1,4,30,8.4,7.1,61.4,91.0,25,100,4.0,1,1,1,3,3,5,230,6,14,0,2,33:20,2011,Jets
+3,4,Sun,2011-10-02,boxscore,Loss,0.0,Away,Ravens,17,34,11,35,112,0,1,2,7,3.4,3.0,31.4,29.7,19,38,2.0,0,1,1,2,2,8,346,4,15,0,1,22:32,2011,Jets
+4,5,Sun,2011-10-09,boxscore,Loss,0.0,Away,Patriots,21,30,16,26,158,2,0,2,8,6.4,5.6,61.5,104.3,25,97,3.9,1,0,0,3,3,7,319,3,11,0,0,26:05,2011,Jets
+5,6,Mon,2011-10-17,boxscore,Win,0.0,Home,Dolphins,24,6,14,25,192,1,0,2,9,8.0,7.1,56.0,94.1,29,104,3.6,1,1,1,3,3,8,388,6,15,0,0,30:21,2011,Jets
+6,7,Sun,2011-10-23,boxscore,Win,0.0,Home,Chargers,27,21,18,33,156,3,1,2,17,5.2,4.5,54.5,84.9,31,162,5.2,0,2,2,3,3,3,110,8,13,0,0,32:46,2011,Jets
+7,9,Sun,2011-11-06,boxscore,Win,0.0,Away,Bills,27,11,20,28,222,1,1,1,8,8.2,7.7,71.4,91.7,39,126,3.2,2,2,3,3,3,2,71,6,11,0,0,37:52,2011,Jets
+8,10,Sun,2011-11-13,boxscore,Loss,0.0,Home,Patriots,16,37,20,39,268,1,2,5,38,7.8,6.1,51.3,60.6,25,110,4.4,1,0,1,2,2,5,242,5,13,0,2,29:53,2011,Jets
+9,11,Thu,2011-11-17,boxscore,Loss,0.0,Away,Broncos,13,17,24,40,235,0,1,3,17,6.3,5.5,60.0,66.1,28,83,3.0,0,2,4,1,1,6,230,3,14,1,1,32:12,2011,Jets
+10,12,Sun,2011-11-27,boxscore,Win,0.0,Home,Bills,28,24,17,35,180,4,1,0,0,5.1,5.1,48.6,90.2,23,138,6.0,0,0,0,4,4,5,208,5,11,1,1,23:49,2011,Jets
+11,13,Sun,2011-12-04,boxscore,Win,0.0,Away,Redskins,34,19,19,32,165,1,0,0,0,5.2,5.2,59.4,83.5,30,101,3.4,3,2,3,4,4,5,223,4,13,1,1,32:12,2011,Jets
+12,14,Sun,2011-12-11,boxscore,Win,0.0,Home,Chiefs,37,10,13,21,155,2,0,3,26,8.6,6.5,61.9,116.2,42,159,3.8,3,0,0,5,5,7,314,4,12,0,1,37:42,2011,Jets
+13,15,Sun,2011-12-18,boxscore,Loss,0.0,Away,Eagles,19,45,16,29,147,2,2,4,30,6.1,4.5,55.2,63.4,27,94,3.5,0,2,2,1,1,6,242,3,13,0,1,29:57,2011,Jets
+14,16,Sat,2011-12-24,boxscore,Loss,0.0,Home,Giants,14,29,30,59,226,1,2,5,32,4.4,3.5,50.8,51.9,25,105,4.2,1,0,1,2,2,9,379,4,21,1,1,36:06,2011,Jets
+15,17,Sun,2012-01-01,boxscore,Loss,0.0,Away,Dolphins,17,19,22,33,245,2,3,2,3,7.5,7.0,66.7,70.9,27,129,4.8,0,1,1,2,2,5,191,4,11,0,0,28:53,2011,Jets

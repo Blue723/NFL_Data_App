@@ -1,0 +1,17 @@
+,Week,Day,Date,Boxscore,Win/Loss,Overtime,Home/Away,Opponent,Team Score,Opponenet Score,Passing Completion,Passing Attempts,Passing Yards,Passing Touchdowns,Passing Interceptions,Passing Sacks,Sack Yards,Passing Yards/Attempts,Net Yards/Attempts,Passing Completion Per.,Passing Rate,Rushing Attempts,Rushing Yards,Rushing Yards/Attempts,Rushing Touchdown,Field Goals Made,Field Goals Attempts,Extra Points Made,Extra Point Attempts,Punts,Total Punt Yards,Third Down Conversions,Third Down Attempts,Fourth Down Conversions,Fourth Down Attemtps,Time of Possesion,Year,Team
+0,1,Sun,2011-09-11,boxscore,Loss,0.0,Away,Texans,7,34,16,31,172,1,0,3,25,6.4,5.1,51.6,79.0,16,64,4.0,0,0,1,1,1,6,281,1,9,0,1,23:16,2011,Colts
+1,2,Sun,2011-09-18,boxscore,Loss,0.0,Home,Browns,19,27,19,38,176,1,1,2,15,5.0,4.4,50.0,60.9,26,109,4.2,0,4,4,1,1,4,208,4,14,0,0,25:26,2011,Colts
+2,3,Sun,2011-09-25,boxscore,Loss,0.0,Home,Steelers,20,23,18,40,144,0,0,1,9,3.8,3.5,45.0,54.6,21,97,4.6,1,2,2,2,2,7,311,7,16,0,0,26:02,2011,Colts
+3,4,Mon,2011-10-03,boxscore,Loss,0.0,Away,Buccaneers,17,24,13,30,256,2,0,4,25,9.4,7.5,43.3,96.0,18,62,3.4,0,1,2,2,2,6,266,4,13,0,0,21:00,2011,Colts
+4,5,Sun,2011-10-09,boxscore,Loss,0.0,Home,Chiefs,24,28,15,27,277,2,0,0,0,10.3,10.3,55.6,115.8,27,78,2.9,1,1,1,3,3,5,277,5,12,0,1,26:53,2011,Colts
+5,6,Sun,2011-10-16,boxscore,Loss,0.0,Away,Bengals,17,27,23,34,179,1,1,1,9,5.5,5.1,67.6,77.9,23,94,4.1,1,1,2,2,2,4,208,6,12,0,0,26:24,2011,Colts
+6,7,Sun,2011-10-23,boxscore,Loss,0.0,Away,Saints,7,62,12,22,97,0,1,1,5,4.6,4.2,54.5,47.0,23,155,6.7,1,0,0,1,1,6,279,4,11,0,0,21:41,2011,Colts
+7,8,Sun,2011-10-30,boxscore,Loss,0.0,Away,Titans,10,27,26,49,241,0,2,2,9,5.1,4.7,53.1,49.8,26,158,6.1,1,1,1,1,1,7,269,6,17,0,2,28:32,2011,Colts
+8,9,Sun,2011-11-06,boxscore,Loss,0.0,Home,Falcons,7,31,17,33,103,0,1,2,15,3.6,2.9,51.5,45.4,21,83,4.0,0,0,0,1,1,9,451,4,14,0,0,22:14,2011,Colts
+9,10,Sun,2011-11-13,boxscore,Loss,0.0,Home,Jaguars,3,17,20,29,128,0,2,5,33,5.6,3.8,69.0,49.2,23,84,3.7,0,1,1,0,0,6,246,4,15,0,1,24:39,2011,Colts
+10,12,Sun,2011-11-27,boxscore,Loss,0.0,Home,Panthers,19,27,15,29,218,1,2,2,8,7.8,7.0,51.7,59.3,23,105,4.6,1,2,2,1,1,5,228,1,9,1,1,23:43,2011,Colts
+11,13,Sun,2011-12-04,boxscore,Loss,0.0,Away,Patriots,24,31,30,37,338,2,1,2,15,9.5,8.7,81.1,111.5,31,99,3.2,1,1,1,3,3,3,140,10,15,0,0,35:39,2011,Colts
+12,14,Sun,2011-12-11,boxscore,Loss,0.0,Away,Ravens,10,24,17,37,117,1,1,4,19,3.7,2.9,45.9,51.3,16,50,3.1,0,1,1,1,1,6,268,2,14,3,4,23:52,2011,Colts
+13,15,Sun,2011-12-18,boxscore,Win,0.0,Home,Titans,27,13,11,17,82,1,0,0,0,4.8,4.8,64.7,95.7,34,205,6.0,1,2,2,3,3,7,321,3,12,0,0,28:03,2011,Colts
+14,16,Thu,2011-12-22,boxscore,Win,0.0,Home,Texans,19,16,23,41,225,1,0,3,19,6.0,5.1,56.1,79.8,32,95,3.0,0,4,5,1,1,5,209,7,17,0,0,32:55,2011,Colts
+15,17,Sun,2012-01-01,boxscore,Loss,0.0,Away,Jaguars,13,19,27,40,242,1,2,3,22,6.6,5.6,67.5,71.0,22,56,2.5,0,2,2,1,1,3,136,6,14,0,1,29:12,2011,Colts
