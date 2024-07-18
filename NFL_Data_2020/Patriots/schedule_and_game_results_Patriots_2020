@@ -1,17 +1,17 @@
 ,Week,Day,Date,Time,Win/Loss,Overtime,Team Record,Home/Away,Opponent,Points Scored,Points Allowed,Offense 1st Down,Total Yards Gained of Offense,Total yards Gained by Passing,Total Yards Gained by Rushing,Offense Turnovers,Defense 1st Down,Total Yards Allowed by Defense,Total Passing Yards Allowed by Defense,Total Rushing Yards Allowed by Defense,Defense Turnovers,Offense,Defense,Sp. Tms,Team,Year
-0,1,Sun,2020-09-13,nan,Win,0,1-0,home,Miami Dolphins,21,11,29,357,140,217,1,20,269,182,87,3,14.11,2.2,-5.64,Patriots,2020
-1,2,Sun,2020-09-20,nan,Loss,0,1-1,away,Seattle Seahawks,30,35,29,464,397,67,1,22,429,275,154,1,19.82,-14.54,-6.98,Patriots,2020
-2,3,Sun,2020-09-27,nan,Win,0,2-1,home,Las Vegas Raiders,36,20,25,406,156,250,1,22,375,249,126,3,11.03,-0.71,5.81,Patriots,2020
-3,4,Mon,2020-10-05,nan,Loss,0,2-2,away,Kansas City Chiefs,10,26,21,357,172,185,4,19,323,229,94,1,-10.82,-5.72,3.78,Patriots,2020
-4,6,Sun,2020-10-18,nan,Loss,0,2-3,home,Denver Broncos,12,18,14,288,171,117,3,15,299,164,135,2,-13.3,6.67,1.59,Patriots,2020
-5,7,Sun,2020-10-25,nan,Loss,0,2-4,home,San Francisco 49ers,6,33,17,241,147,94,4,26,467,270,197,2,-9.49,-22.44,6.55,Patriots,2020
-6,8,Sun,2020-11-01,nan,Loss,0,2-5,away,Buffalo Bills,21,24,20,349,161,188,1,22,339,149,190,1,8.26,-8.85,-0.85,Patriots,2020
-7,9,Mon,2020-11-09,nan,Win,0,3-5,away,New York Jets,30,27,30,433,274,159,0,18,322,257,65,1,18.7,-18.71,2.16,Patriots,2020
-8,10,Sun,2020-11-15,nan,Win,0,4-5,home,Baltimore Ravens,23,17,25,308,135,173,0,19,357,242,115,1,13.95,-3.45,-1.86,Patriots,2020
-9,11,Sun,2020-11-22,nan,Loss,0,4-6,away,Houston Texans,20,27,22,435,349,86,0,21,399,344,55,0,13.67,-15.69,-0.27,Patriots,2020
-10,12,Sun,2020-11-29,nan,Win,0,5-6,home,Arizona Cardinals,20,17,16,179,69,110,2,23,298,160,138,1,-4.68,0.0,9.06,Patriots,2020
-11,13,Sun,2020-12-06,nan,Win,0,6-6,away,Los Angeles Chargers,45,0,22,291,126,165,0,17,258,188,70,2,9.66,16.13,22.19,Patriots,2020
-12,14,Thu,2020-12-10,nan,Loss,0,6-7,away,Los Angeles Rams,3,24,10,220,113,107,1,17,318,132,186,1,-29.77,-1.19,8.58,Patriots,2020
-13,15,Sun,2020-12-20,nan,Loss,0,6-8,away,Miami Dolphins,12,22,18,303,186,117,1,26,383,133,250,1,-1.0,-16.71,6.16,Patriots,2020
-14,16,Mon,2020-12-28,nan,Loss,0,6-9,home,Buffalo Bills,9,38,11,201,56,145,0,31,474,344,130,0,-2.39,-26.17,1.1,Patriots,2020
-15,17,Sun,2021-01-03,nan,Win,0,7-9,home,New York Jets,28,14,23,404,238,166,0,21,350,239,111,2,18.13,-3.92,-0.05,Patriots,2020
+0,1,Sun,2020-09-13,,Win,0,1-0,home,Dolphins,21,11,29,357,140,217,1,20,269,182,87,3,14.11,2.2,-5.64,Patriots,2020
+1,2,Sun,2020-09-20,,Loss,0,1-1,away,Seahawks,30,35,29,464,397,67,1,22,429,275,154,1,19.82,-14.54,-6.98,Patriots,2020
+2,3,Sun,2020-09-27,,Win,0,2-1,home,Raiders,36,20,25,406,156,250,1,22,375,249,126,3,11.03,-0.71,5.81,Patriots,2020
+3,4,Mon,2020-10-05,,Loss,0,2-2,away,Chiefs,10,26,21,357,172,185,4,19,323,229,94,1,-10.82,-5.72,3.78,Patriots,2020
+4,6,Sun,2020-10-18,,Loss,0,2-3,home,Broncos,12,18,14,288,171,117,3,15,299,164,135,2,-13.3,6.67,1.59,Patriots,2020
+5,7,Sun,2020-10-25,,Loss,0,2-4,home,49ers,6,33,17,241,147,94,4,26,467,270,197,2,-9.49,-22.44,6.55,Patriots,2020
+6,8,Sun,2020-11-01,,Loss,0,2-5,away,Bills,21,24,20,349,161,188,1,22,339,149,190,1,8.26,-8.85,-0.85,Patriots,2020
+7,9,Mon,2020-11-09,,Win,0,3-5,away,Jets,30,27,30,433,274,159,0,18,322,257,65,1,18.7,-18.71,2.16,Patriots,2020
+8,10,Sun,2020-11-15,,Win,0,4-5,home,Ravens,23,17,25,308,135,173,0,19,357,242,115,1,13.95,-3.45,-1.86,Patriots,2020
+9,11,Sun,2020-11-22,,Loss,0,4-6,away,Texans,20,27,22,435,349,86,0,21,399,344,55,0,13.67,-15.69,-0.27,Patriots,2020
+10,12,Sun,2020-11-29,,Win,0,5-6,home,Cardinals,20,17,16,179,69,110,2,23,298,160,138,1,-4.68,0.0,9.06,Patriots,2020
+11,13,Sun,2020-12-06,,Win,0,6-6,away,Chargers,45,0,22,291,126,165,0,17,258,188,70,2,9.66,16.13,22.19,Patriots,2020
+12,14,Thu,2020-12-10,,Loss,0,6-7,away,Rams,3,24,10,220,113,107,1,17,318,132,186,1,-29.77,-1.19,8.58,Patriots,2020
+13,15,Sun,2020-12-20,,Loss,0,6-8,away,Dolphins,12,22,18,303,186,117,1,26,383,133,250,1,-1.0,-16.71,6.16,Patriots,2020
+14,16,Mon,2020-12-28,,Loss,0,6-9,home,Bills,9,38,11,201,56,145,0,31,474,344,130,0,-2.39,-26.17,1.1,Patriots,2020
+15,17,Sun,2021-01-03,,Win,0,7-9,home,Jets,28,14,23,404,238,166,0,21,350,239,111,2,18.13,-3.92,-0.05,Patriots,2020

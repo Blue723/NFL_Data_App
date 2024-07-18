@@ -1,0 +1,17 @@
+,Week,Day,Date,Boxscore,Win/Loss,Overtime,Home/Away,Opponent,Team Score,Opponenet Score,Passing Completion,Passing Attempts,Passing Yards,Passing Touchdowns,Passing Interceptions,Passing Sacks,Sack Yards,Passing Yards/Attempts,Net Yards/Attempts,Passing Completion Per.,Passing Rate,Rushing Attempts,Rushing Yards,Rushing Yards/Attempts,Rushing Touchdown,Field Goals Made,Field Goals Attempts,Extra Points Made,Extra Point Attempts,Punts,Total Punt Yards,Third Down Conversions,Third Down Attempts,Fourth Down Conversions,Fourth Down Attemtps,Time of Possesion,Year,Team
+0,1,Thu,2020-09-10,boxscore,Loss,0,Away,Chiefs,20,34,20,32,242,1,1,4,11,7.9,6.7,62.5,83.1,22,118,5.4,2,0,1,2,2,3,123,4,10,1,1,25:13,2020,Texans
+1,2,Sun,2020-09-20,boxscore,Loss,0,Home,Ravens,16,33,25,36,253,1,1,4,22,7.6,6.3,69.4,86.9,17,51,3.0,0,3,3,1,1,3,140,3,9,0,1,25:09,2020,Texans
+2,3,Sun,2020-09-27,boxscore,Loss,0,Away,Steelers,21,28,19,27,231,2,1,5,33,9.8,7.2,70.4,105.6,15,29,1.9,1,0,0,3,3,6,291,5,12,0,0,23:09,2020,Texans
+3,4,Sun,2020-10-04,boxscore,Loss,0,Home,Vikings,23,31,20,33,290,2,0,3,10,9.1,8.1,60.6,109.4,26,96,3.7,0,3,3,2,2,4,201,3,12,1,2,23:29,2020,Texans
+4,5,Sun,2020-10-11,boxscore,Win,0,Home,Jaguars,30,14,25,35,357,3,2,1,2,10.3,9.9,71.4,108.9,22,129,5.9,0,3,3,3,3,1,33,5,10,1,1,28:01,2020,Texans
+5,6,Sun,2020-10-18,boxscore,Loss,1,Away,Titans,36,42,28,38,320,4,0,2,15,8.8,8.0,73.7,133.7,27,92,3.4,1,1,1,3,4,4,209,7,14,3,3,31:40,2020,Texans
+6,7,Sun,2020-10-25,boxscore,Loss,0,Home,Packers,20,35,29,39,286,2,0,3,23,7.9,6.8,74.4,111.7,22,79,3.6,0,2,3,2,2,4,205,6,14,0,1,31:06,2020,Texans
+7,9,Sun,2020-11-08,boxscore,Win,0,Away,Jaguars,27,25,19,32,267,2,0,2,14,8.8,7.9,59.4,107.2,28,107,3.8,1,2,2,3,3,5,223,6,15,0,0,27:53,2020,Texans
+8,10,Sun,2020-11-15,boxscore,Loss,0,Away,Browns,7,10,20,30,153,1,0,2,10,5.4,4.8,66.7,90.0,22,90,4.1,0,0,1,1,1,4,194,7,14,0,1,26:40,2020,Texans
+9,11,Sun,2020-11-22,boxscore,Win,0,Home,Patriots,27,20,28,37,344,2,0,0,0,9.3,9.3,75.7,121.9,19,55,2.9,1,2,2,3,3,4,161,5,11,0,0,27:42,2020,Texans
+10,12,Thu,2020-11-26,boxscore,Win,0,Away,Lions,41,25,17,25,307,4,0,2,11,12.7,11.4,68.0,149.5,23,77,3.3,0,2,2,3,4,3,117,3,9,0,0,26:16,2020,Texans
+11,13,Sun,2020-12-06,boxscore,Loss,0,Home,Colts,20,26,26,38,308,0,1,5,33,9.0,7.2,68.4,81.9,19,90,4.7,2,2,3,2,2,3,145,5,13,0,0,26:28,2020,Texans
+12,14,Sun,2020-12-13,boxscore,Loss,0,Away,Bears,7,36,21,30,155,1,0,7,64,7.3,4.2,70.0,93.1,27,108,4.0,0,0,0,1,1,4,172,7,14,1,3,30:26,2020,Texans
+13,15,Sun,2020-12-20,boxscore,Loss,0,Away,Colts,20,27,33,41,342,2,0,5,31,9.1,7.4,80.5,117.7,21,83,4.0,0,2,2,2,2,2,95,8,15,1,2,30:50,2020,Texans
+14,16,Sun,2020-12-27,boxscore,Loss,0,Home,Bengals,31,37,24,33,322,3,0,1,2,9.8,9.5,72.7,133.6,17,166,9.8,1,1,1,4,4,4,180,4,9,0,0,23:50,2020,Texans
+15,17,Sun,2021-01-03,boxscore,Loss,0,Home,Titans,38,41,29,40,361,3,1,4,24,9.6,8.2,72.5,114.7,17,96,5.6,1,4,4,2,3,1,42,5,12,1,1,28:56,2020,Texans

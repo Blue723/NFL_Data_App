@@ -1,7 +1,7 @@
-,Rk,Date,G#,Week,Age,Tm,Unnamed: 6_level_1,Opp,Result,Int,Tgt,Cmp,Cmp%,Yds,Yds/Cmp,Yds/Tgt,TD,Rat,DADOT,Air,YAC,Bltz,Hrry,QBKD,Sk,Prss,Comb,MTkl,MTkl%,Year
-0,1.0,2020-10-22,7.0,7.0,22.324,NYG,@,PHI,L 21-22,0,0,0,,0.0,,,0.0,,,0.0,0.0,0,0,0,0.0,0,1.0,0,0.0%,2020
-1,2.0,2020-11-02,8.0,8.0,22.335,NYG,,TAM,L 23-25,0,0,0,,0.0,,,0.0,,,0.0,0.0,0,0,0,0.0,0,1.0,0,0.0%,2020
-2,3.0,2020-11-08,9.0,9.0,22.341,NYG,@,WAS,W 23-20,0,0,0,,0.0,,,0.0,,,0.0,0.0,0,0,0,,0,,0,,2020
-3,4.0,2020-12-27,15.0,16.0,23.024,NYG,@,BAL,L 13-27,0,0,0,,0.0,,,0.0,,,0.0,0.0,0,0,0,,0,,0,,2020
-4,5.0,2021-01-03,16.0,17.0,23.031,NYG,,DAL,W 23-19,0,0,0,,0.0,,,0.0,,,0.0,0.0,0,0,0,0.0,0,1.0,0,0.0%,2020
-5,,5 Games,,,,,,,2-3-0,0,0,0,,,,,,,,,,0,0,0,0.0,0,3.0,0,0.0%,2020
+,Rk,Date,G#,Week,Age,Tm,Unnamed: 6_level_1,Opp,Result,Int,Tgt,Cmp,Cmp%,Yds,Yds/Cmp,Yds/Tgt,TD,Rat,DADOT,Air,YAC,Bltz,Hrry,QBKD,Sk,Prss,Comb,MTkl,MTkl%,Year,Position,Player_Name,Team
+0,1.0,2020-10-22,7.0,7.0,22.324,NYG,@,PHI,L 21-22,0,0,0,,0.0,,,0.0,,,0.0,0.0,0,0,0,0.0,0,1.0,0,0.0%,2020,Left Outside Linebacker,T.J. Brunson,Giants
+1,2.0,2020-11-02,8.0,8.0,22.335,NYG,,TAM,L 23-25,0,0,0,,0.0,,,0.0,,,0.0,0.0,0,0,0,0.0,0,1.0,0,0.0%,2020,Left Outside Linebacker,T.J. Brunson,Giants
+2,3.0,2020-11-08,9.0,9.0,22.341,NYG,@,WAS,W 23-20,0,0,0,,0.0,,,0.0,,,0.0,0.0,0,0,0,,0,,0,,2020,Left Outside Linebacker,T.J. Brunson,Giants
+3,4.0,2020-12-27,15.0,16.0,23.024,NYG,@,BAL,L 13-27,0,0,0,,0.0,,,0.0,,,0.0,0.0,0,0,0,,0,,0,,2020,Left Outside Linebacker,T.J. Brunson,Giants
+4,5.0,2021-01-03,16.0,17.0,23.031,NYG,,DAL,W 23-19,0,0,0,,0.0,,,0.0,,,0.0,0.0,0,0,0,0.0,0,1.0,0,0.0%,2020,Left Outside Linebacker,T.J. Brunson,Giants
+5,,5 Games,,,,,,,2-3-0,0,0,0,,,,,,,,,,0,0,0,0.0,0,3.0,0,0.0%,2020,Left Outside Linebacker,T.J. Brunson,Giants

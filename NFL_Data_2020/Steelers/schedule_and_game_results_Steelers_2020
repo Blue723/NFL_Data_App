@@ -1,18 +1,18 @@
 ,Week,Day,Date,Time,Win/Loss,Overtime,Team Record,Home/Away,Opponent,Points Scored,Points Allowed,Offense 1st Down,Total Yards Gained of Offense,Total yards Gained by Passing,Total Yards Gained by Rushing,Offense Turnovers,Defense 1st Down,Total Yards Allowed by Defense,Total Passing Yards Allowed by Defense,Total Rushing Yards Allowed by Defense,Defense Turnovers,Offense,Defense,Sp. Tms,Team,Year
-0,1,Mon,2020-09-14,nan,Win,0,1-0,away,New York Giants,26,16,19,349,208,141,1,20,291,262,29,2,13.2,6.06,-5.36,Steelers,2020
-1,2,Sun,2020-09-20,nan,Win,0,2-0,home,Denver Broncos,26,21,19,410,301,109,2,23,319,215,104,2,-0.36,6.02,3.9,Steelers,2020
-2,3,Sun,2020-09-27,nan,Win,0,3-0,home,Houston Texans,28,21,25,387,218,169,0,13,260,231,29,1,15.39,-4.41,-2.08,Steelers,2020
-3,5,Sun,2020-10-11,nan,Win,0,4-0,home,Philadelphia Eagles,38,29,25,367,231,136,1,20,336,242,94,2,20.16,-14.47,3.43,Steelers,2020
-4,6,Sun,2020-10-18,nan,Win,0,5-0,home,Cleveland Browns,38,7,18,277,148,129,0,12,220,145,75,2,6.99,22.96,0.58,Steelers,2020
-5,7,Sun,2020-10-25,nan,Win,0,6-0,away,Tennessee Titans,27,24,23,362,268,94,3,15,292,210,82,0,6.7,-6.99,3.88,Steelers,2020
-6,8,Sun,2020-11-01,nan,Win,0,7-0,away,Baltimore Ravens,28,24,19,221,173,48,1,25,457,192,265,4,4.67,-3.94,-0.54,Steelers,2020
-7,9,Sun,2020-11-08,nan,Win,0,8-0,away,Dallas Cowboys,24,19,20,355,309,46,0,19,364,220,144,2,4.51,3.09,-5.6,Steelers,2020
-8,10,Sun,2020-11-15,nan,Win,0,9-0,home,Cincinnati Bengals,36,10,22,377,333,44,0,16,324,185,139,2,7.92,10.97,-0.05,Steelers,2020
-9,11,Sun,2020-11-22,nan,Win,0,10-0,away,Jacksonville Jaguars,27,3,23,373,267,106,1,14,206,133,73,4,11.97,22.2,-5.91,Steelers,2020
-10,12,Wed,2020-12-02,nan,Win,0,11-0,home,Baltimore Ravens,19,14,22,334,266,68,2,10,219,90,129,2,2.03,12.11,-10.71,Steelers,2020
-11,13,Mon,2020-12-07,nan,Loss,0,11-1,home,Washington Football Team,17,23,17,326,305,21,1,18,318,273,45,0,-5.7,7.02,-3.99,Steelers,2020
-12,14,Sun,2020-12-13,nan,Loss,0,11-2,away,Buffalo Bills,15,26,14,224,177,47,2,21,334,230,104,2,-11.72,-3.18,0.16,Steelers,2020
-13,15,Mon,2020-12-21,nan,Loss,0,11-3,away,Cincinnati Bengals,17,27,12,244,158,86,3,13,230,78,152,0,-17.2,3.71,4.31,Steelers,2020
-14,16,Sun,2020-12-27,nan,Win,0,12-3,home,Indianapolis Colts,28,24,26,354,332,22,0,21,365,238,127,2,8.37,-0.99,-2.01,Steelers,2020
-15,17,Sun,2021-01-03,nan,Loss,0,12-4,away,Cleveland Browns,22,24,18,394,309,85,1,21,358,166,192,0,7.05,-12.89,-0.33,Steelers,2020
-16,19,Sun,2021-01-10,nan,Loss,0,12-5,home,Cleveland Browns,37,48,34,553,501,52,5,20,390,263,127,0,4.24,-14.03,-4.08,Steelers,2020
+0,1,Mon,2020-09-14,,Win,0,1-0,away,Giants,26,16,19,349,208,141,1,20,291,262,29,2,13.2,6.06,-5.36,Steelers,2020
+1,2,Sun,2020-09-20,,Win,0,2-0,home,Broncos,26,21,19,410,301,109,2,23,319,215,104,2,-0.36,6.02,3.9,Steelers,2020
+2,3,Sun,2020-09-27,,Win,0,3-0,home,Texans,28,21,25,387,218,169,0,13,260,231,29,1,15.39,-4.41,-2.08,Steelers,2020
+3,5,Sun,2020-10-11,,Win,0,4-0,home,Eagles,38,29,25,367,231,136,1,20,336,242,94,2,20.16,-14.47,3.43,Steelers,2020
+4,6,Sun,2020-10-18,,Win,0,5-0,home,Browns,38,7,18,277,148,129,0,12,220,145,75,2,6.99,22.96,0.58,Steelers,2020
+5,7,Sun,2020-10-25,,Win,0,6-0,away,Titans,27,24,23,362,268,94,3,15,292,210,82,0,6.7,-6.99,3.88,Steelers,2020
+6,8,Sun,2020-11-01,,Win,0,7-0,away,Ravens,28,24,19,221,173,48,1,25,457,192,265,4,4.67,-3.94,-0.54,Steelers,2020
+7,9,Sun,2020-11-08,,Win,0,8-0,away,Cowboys,24,19,20,355,309,46,0,19,364,220,144,2,4.51,3.09,-5.6,Steelers,2020
+8,10,Sun,2020-11-15,,Win,0,9-0,home,Bengals,36,10,22,377,333,44,0,16,324,185,139,2,7.92,10.97,-0.05,Steelers,2020
+9,11,Sun,2020-11-22,,Win,0,10-0,away,Jaguars,27,3,23,373,267,106,1,14,206,133,73,4,11.97,22.2,-5.91,Steelers,2020
+10,12,Wed,2020-12-02,,Win,0,11-0,home,Ravens,19,14,22,334,266,68,2,10,219,90,129,2,2.03,12.11,-10.71,Steelers,2020
+11,13,Mon,2020-12-07,,Loss,0,11-1,home,Team,17,23,17,326,305,21,1,18,318,273,45,0,-5.7,7.02,-3.99,Steelers,2020
+12,14,Sun,2020-12-13,,Loss,0,11-2,away,Bills,15,26,14,224,177,47,2,21,334,230,104,2,-11.72,-3.18,0.16,Steelers,2020
+13,15,Mon,2020-12-21,,Loss,0,11-3,away,Bengals,17,27,12,244,158,86,3,13,230,78,152,0,-17.2,3.71,4.31,Steelers,2020
+14,16,Sun,2020-12-27,,Win,0,12-3,home,Colts,28,24,26,354,332,22,0,21,365,238,127,2,8.37,-0.99,-2.01,Steelers,2020
+15,17,Sun,2021-01-03,,Loss,0,12-4,away,Browns,22,24,18,394,309,85,1,21,358,166,192,0,7.05,-12.89,-0.33,Steelers,2020
+16,19,Sun,2021-01-10,,Loss,0,12-5,home,Browns,37,48,34,553,501,52,5,20,390,263,127,0,4.24,-14.03,-4.08,Steelers,2020

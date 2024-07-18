@@ -1,0 +1,17 @@
+,Week,Day,Date,Boxscore,Win/Loss,Overtime,Home/Away,Opponent,Team Score,Opponenet Score,Passing Completion,Passing Attempts,Passing Yards,Passing Touchdowns,Passing Interceptions,Passing Sacks,Sack Yards,Passing Yards/Attempts,Net Yards/Attempts,Passing Completion Per.,Passing Rate,Rushing Attempts,Rushing Yards,Rushing Yards/Attempts,Rushing Touchdown,Field Goals Made,Field Goals Attempts,Extra Points Made,Extra Point Attempts,Punts,Total Punt Yards,Third Down Conversions,Third Down Attempts,Fourth Down Conversions,Fourth Down Attemtps,Time of Possesion,Year,Team
+0,1,Sun,2020-09-13,boxscore,Loss,0.0,Home,Cardinals,20,24,19,33,243,2,0,3,16,7.8,6.8,57.6,100.9,25,123,4.9,0,2,2,2,2,5,178,2,11,0,2,28:34,2020,49ers
+1,2,Sun,2020-09-20,boxscore,Win,0.0,Away,Jets,31,13,22,27,177,2,1,3,25,7.5,5.9,81.5,103.2,29,182,6.3,2,1,1,4,4,4,199,7,13,0,0,32:13,2020,49ers
+2,3,Sun,2020-09-27,boxscore,Win,0.0,Away,Giants,36,9,25,36,327,1,0,2,16,9.5,8.6,69.4,107.1,35,93,2.7,3,3,4,3,3,0,0,8,12,0,0,39:44,2020,49ers
+3,4,Sun,2020-10-04,boxscore,Loss,0.0,Home,Eagles,20,25,32,45,301,1,2,5,37,7.5,6.0,71.1,78.1,20,116,5.8,2,0,0,2,2,4,177,5,11,0,1,30:31,2020,49ers
+4,5,Sun,2020-10-11,boxscore,Loss,0.0,Home,Dolphins,17,43,16,35,128,1,2,5,43,4.9,3.2,45.7,41.1,19,131,6.9,1,1,1,2,2,3,133,2,10,0,2,23:07,2020,49ers
+5,6,Sun,2020-10-18,boxscore,Win,0.0,Home,Rams,24,16,23,33,268,3,0,0,0,8.1,8.1,69.7,124.3,37,122,3.3,0,1,1,3,3,5,235,5,13,1,1,37:55,2020,49ers
+6,7,Sun,2020-10-25,boxscore,Win,0.0,Away,Patriots,33,6,20,25,270,0,2,1,7,11.1,10.4,80.0,78.3,37,197,5.3,4,2,2,3,4,1,45,5,9,0,0,38:23,2020,49ers
+7,8,Sun,2020-11-01,boxscore,Loss,0.0,Away,Seahawks,27,37,29,41,299,2,1,3,23,7.9,6.8,70.7,97.5,22,52,2.4,2,0,0,3,3,4,202,6,13,2,2,29:02,2020,49ers
+8,9,Thu,2020-11-05,boxscore,Loss,0.0,Home,Packers,17,34,22,35,282,1,1,1,9,8.3,7.8,62.9,85.7,17,55,3.2,1,1,1,2,2,4,219,3,10,0,1,23:30,2020,49ers
+9,10,Sun,2020-11-15,boxscore,Loss,0.0,Away,Saints,13,27,24,39,232,1,2,2,15,6.3,5.7,61.5,65.3,25,49,2.0,0,2,2,1,1,5,239,7,16,0,1,32:54,2020,49ers
+10,12,Sun,2020-11-29,boxscore,Win,0.0,Away,Rams,23,20,24,35,233,0,1,2,19,7.2,6.3,68.6,75.1,33,112,3.4,1,3,4,2,2,7,357,3,14,1,1,34:03,2020,49ers
+11,13,Mon,2020-12-07,boxscore,Loss,0.0,Home,Bills,24,34,26,39,316,3,2,0,0,8.1,8.1,66.7,95.7,21,86,4.1,0,1,1,3,3,2,90,6,11,0,1,25:02,2020,49ers
+12,14,Sun,2020-12-13,boxscore,Loss,0.0,Home,Team,15,23,25,45,236,1,1,4,24,5.8,4.8,55.6,68.4,27,108,4.0,1,0,0,1,1,9,411,4,15,0,1,32:11,2020,49ers
+13,15,Sun,2020-12-20,boxscore,Loss,0.0,Away,Cowboys,33,41,26,43,308,3,2,2,11,7.4,6.8,60.5,86.2,36,150,4.2,1,2,2,3,3,4,186,6,15,1,1,34:56,2020,49ers
+14,16,Sat,2020-12-26,boxscore,Win,0.0,Away,Cardinals,20,12,13,22,171,3,0,3,11,8.3,6.8,59.1,123.3,30,227,7.6,0,0,2,2,3,5,195,2,9,0,0,27:44,2020,49ers
+15,17,Sun,2021-01-03,boxscore,Loss,0.0,Home,Seahawks,23,26,25,37,242,1,0,3,31,7.4,6.1,67.6,94.7,24,86,3.6,1,3,3,2,2,5,227,6,15,1,1,32:20,2020,49ers

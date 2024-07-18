@@ -1,7 +1,7 @@
-,Rk,Date,G#,Week,Age,Tm,Unnamed: 6_level_1,Opp,Result,Int,Tgt,Cmp,Cmp%,Yds,Yds/Cmp,Yds/Tgt,TD,Rat,DADOT,Air,YAC,Bltz,Hrry,QBKD,Sk,Prss,Comb,MTkl,MTkl%,Year
-0,1.0,2020-09-13,1.0,1.0,25.307,MIA,@,NWE,L 11-21,0,0,0,,0.0,,,0.0,,,0.0,0.0,0,0,0,0.0,0,3,0,0.0%,2020
-1,2.0,2020-09-20,2.0,2.0,25.314,MIA,,BUF,L 28-31,0,0,0,,0.0,,,0.0,,,0.0,0.0,0,0,1,0.0,1,6,0,0.0%,2020
-2,3.0,2020-09-24,3.0,3.0,25.318,MIA,@,JAX,W 31-13,0,0,0,,0.0,,,0.0,,,0.0,0.0,0,1,0,0.0,1,2,0,0.0%,2020
-3,4.0,2020-10-04,4.0,4.0,25.328,MIA,,SEA,L 23-31,0,0,0,,0.0,,,0.0,,,0.0,0.0,0,0,0,0.0,0,3,0,0.0%,2020
-4,5.0,2020-10-11,5.0,5.0,25.335,MIA,@,SFO,W 43-17,0,0,0,,0.0,,,0.0,,,0.0,0.0,0,0,1,0.0,1,2,0,0.0%,2020
-5,,5 Games,,,,,,,2-3-0,0,0,0,,,,,,,,,,0,1,2,0.0,3,16,0,0.0%,2020
+,Rk,Date,G#,Week,Age,Tm,Unnamed: 6_level_1,Opp,Result,Int,Tgt,Cmp,Cmp%,Yds,Yds/Cmp,Yds/Tgt,TD,Rat,DADOT,Air,YAC,Bltz,Hrry,QBKD,Sk,Prss,Comb,MTkl,MTkl%,Year,Position,Player_Name,Team
+0,1.0,2020-09-13,1.0,1.0,25.307,MIA,@,NWE,L 11-21,0,0,0,,0.0,,,0.0,,,0.0,0.0,0,0,0,0.0,0,3,0,0.0%,2020,Nose Tackle,Davon Godchaux,Dolphins
+1,2.0,2020-09-20,2.0,2.0,25.314,MIA,,BUF,L 28-31,0,0,0,,0.0,,,0.0,,,0.0,0.0,0,0,1,0.0,1,6,0,0.0%,2020,Nose Tackle,Davon Godchaux,Dolphins
+2,3.0,2020-09-24,3.0,3.0,25.318,MIA,@,JAX,W 31-13,0,0,0,,0.0,,,0.0,,,0.0,0.0,0,1,0,0.0,1,2,0,0.0%,2020,Nose Tackle,Davon Godchaux,Dolphins
+3,4.0,2020-10-04,4.0,4.0,25.328,MIA,,SEA,L 23-31,0,0,0,,0.0,,,0.0,,,0.0,0.0,0,0,0,0.0,0,3,0,0.0%,2020,Nose Tackle,Davon Godchaux,Dolphins
+4,5.0,2020-10-11,5.0,5.0,25.335,MIA,@,SFO,W 43-17,0,0,0,,0.0,,,0.0,,,0.0,0.0,0,0,1,0.0,1,2,0,0.0%,2020,Nose Tackle,Davon Godchaux,Dolphins
+5,,5 Games,,,,,,,2-3-0,0,0,0,,,,,,,,,,0,1,2,0.0,3,16,0,0.0%,2020,Nose Tackle,Davon Godchaux,Dolphins

@@ -1,0 +1,17 @@
+,Week,Day,Date,Boxscore,Win/Loss,Overtime,Home/Away,Opponent,Team Score,Opponenet Score,Passing Completion,Passing Attempts,Passing Yards,Passing Touchdowns,Passing Interceptions,Passing Sacks,Sack Yards,Passing Yards/Attempts,Net Yards/Attempts,Passing Completion Per.,Passing Rate,Rushing Attempts,Rushing Yards,Rushing Yards/Attempts,Rushing Touchdown,Field Goals Made,Field Goals Attempts,Extra Points Made,Extra Point Attempts,Punts,Total Punt Yards,Third Down Conversions,Third Down Attempts,Fourth Down Conversions,Fourth Down Attemtps,Time of Possesion,Year,Team
+0,1,Sun,2020-09-13,boxscore,Win,0,Away,Falcons,38,25,31,35,299,4,0,3,23,9.2,7.9,88.6,140.4,20,84,4.2,1,1,1,5,5,4,191,3,9,1,1,30:36,2020,Seahawks
+1,2,Sun,2020-09-20,boxscore,Win,0,Home,Patriots,35,30,21,28,275,5,1,2,13,10.3,9.2,75.0,130.2,30,154,5.1,0,0,0,5,5,4,200,3,7,0,0,31:19,2020,Seahawks
+2,3,Sun,2020-09-27,boxscore,Win,0,Home,Cowboys,38,31,27,40,295,5,0,4,20,7.9,6.7,67.5,128.6,26,117,4.5,0,0,0,4,4,7,383,5,13,1,1,32:34,2020,Seahawks
+3,4,Sun,2020-10-04,boxscore,Win,0,Away,Dolphins,31,23,24,34,343,2,1,2,17,10.6,9.5,70.6,110.3,26,98,3.8,2,1,1,4,4,2,92,4,10,0,1,26:51,2020,Seahawks
+4,5,Sun,2020-10-11,boxscore,Win,0,Home,Vikings,27,26,20,32,190,3,1,4,27,6.8,5.3,62.5,97.1,16,124,7.8,1,0,0,3,3,5,226,0,7,2,2,20:32,2020,Seahawks
+5,7,Sun,2020-10-25,boxscore,Loss,1,Away,Cardinals,34,37,33,50,372,3,3,2,16,7.8,7.2,66.0,83.1,30,200,6.7,1,2,2,4,4,3,153,5,13,1,1,39:32,2020,Seahawks
+6,8,Sun,2020-11-01,boxscore,Win,0,Home,49ers,37,27,27,37,249,4,0,2,12,7.1,6.4,73.0,127.0,28,101,3.6,1,1,1,4,5,4,216,9,15,0,0,30:58,2020,Seahawks
+7,9,Sun,2020-11-08,boxscore,Loss,0,Away,Bills,34,44,28,41,362,2,2,5,28,9.5,7.9,68.3,91.7,17,57,3.4,2,2,2,4,4,1,53,3,12,2,3,27:59,2020,Seahawks
+8,10,Sun,2020-11-15,boxscore,Loss,0,Away,Rams,16,23,22,37,220,0,2,6,28,6.7,5.1,59.5,53.9,22,113,5.1,1,3,3,1,1,3,147,7,14,0,0,26:24,2020,Seahawks
+9,11,Thu,2020-11-19,boxscore,Win,0,Home,Cardinals,28,21,23,28,182,2,0,3,15,7.0,5.9,82.1,117.6,31,165,5.3,1,2,2,2,3,4,174,8,14,0,0,35:07,2020,Seahawks
+10,12,Mon,2020-11-30,boxscore,Win,0,Away,Eagles,23,17,22,31,225,1,0,2,5,7.4,6.8,71.0,102.2,30,76,2.5,1,3,3,2,2,3,156,2,10,0,2,32:57,2020,Seahawks
+11,13,Sun,2020-12-06,boxscore,Loss,0,Home,Giants,12,17,27,43,216,1,1,5,47,6.1,4.5,62.8,73.4,22,111,5.0,0,1,1,1,1,5,242,4,13,0,2,30:11,2020,Seahawks
+12,14,Sun,2020-12-13,boxscore,Win,0,Home,Jets,40,3,25,32,236,4,1,1,3,7.5,7.2,78.1,124.0,36,174,4.8,1,2,2,4,5,2,83,6,11,0,0,34:28,2020,Seahawks
+13,15,Sun,2020-12-20,boxscore,Win,0,Away,Team,20,15,18,27,121,1,1,0,0,4.5,4.5,66.7,73.2,26,181,7.0,1,2,2,2,2,4,203,5,12,0,0,27:44,2020,Seahawks
+14,16,Sun,2020-12-27,boxscore,Win,0,Home,Rams,20,9,20,32,197,1,0,5,28,7.0,5.3,62.5,90.2,24,95,4.0,1,2,2,2,2,5,243,8,17,0,0,27:10,2020,Seahawks
+15,17,Sun,2021-01-03,boxscore,Win,0,Away,49ers,26,23,20,36,159,2,0,2,22,5.0,4.2,55.6,85.3,27,121,4.5,1,2,2,2,3,5,266,4,12,1,1,27:40,2020,Seahawks

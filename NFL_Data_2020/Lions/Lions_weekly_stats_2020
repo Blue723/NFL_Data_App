@@ -1,0 +1,17 @@
+,Week,Day,Date,Boxscore,Win/Loss,Overtime,Home/Away,Opponent,Team Score,Opponenet Score,Passing Completion,Passing Attempts,Passing Yards,Passing Touchdowns,Passing Interceptions,Passing Sacks,Sack Yards,Passing Yards/Attempts,Net Yards/Attempts,Passing Completion Per.,Passing Rate,Rushing Attempts,Rushing Yards,Rushing Yards/Attempts,Rushing Touchdown,Field Goals Made,Field Goals Attempts,Extra Points Made,Extra Point Attempts,Punts,Total Punt Yards,Third Down Conversions,Third Down Attempts,Fourth Down Conversions,Fourth Down Attemtps,Time of Possesion,Year,Team
+0,1,Sun,2020-09-13,boxscore,Loss,0.0,Home,Bears,23,27,24,42,288,1,1,1,9,7.1,6.7,57.1,76.3,29,138,4.8,1,3,4,2,2,4,197,6,16,0,0,30:55,2020,Lions
+1,2,Sun,2020-09-20,boxscore,Loss,0.0,Away,Packers,21,42,20,33,218,2,1,4,26,7.4,5.9,60.6,87.7,21,89,4.2,1,0,1,3,3,5,271,6,12,0,1,25:14,2020,Lions
+2,3,Sun,2020-09-27,boxscore,Win,0.0,Away,Cardinals,26,23,22,31,232,2,0,4,38,8.7,6.6,71.0,113.9,27,90,3.3,0,4,4,2,2,4,222,4,12,1,1,32:50,2020,Lions
+3,4,Sun,2020-10-04,boxscore,Loss,0.0,Home,Saints,29,35,17,31,191,3,1,3,15,6.6,5.6,54.8,92.3,22,90,4.1,1,0,0,3,3,4,218,7,14,3,3,23:14,2020,Lions
+4,6,Sun,2020-10-18,boxscore,Win,0.0,Away,Jaguars,34,16,19,31,223,1,1,0,0,7.2,7.2,61.3,80.4,39,180,4.6,3,2,3,4,4,2,90,3,12,2,2,35:57,2020,Lions
+5,7,Sun,2020-10-25,boxscore,Win,0.0,Away,Falcons,23,22,25,36,322,1,0,2,18,9.4,8.5,69.4,106.5,21,64,3.0,1,3,4,2,2,3,177,3,10,0,1,29:15,2020,Lions
+6,8,Sun,2020-11-01,boxscore,Loss,0.0,Home,Colts,21,41,24,42,297,3,1,5,39,8.0,6.3,57.1,93.1,13,29,2.2,0,0,1,3,3,5,262,7,14,0,1,22:14,2020,Lions
+7,9,Sun,2020-11-08,boxscore,Loss,0.0,Away,Vikings,20,34,31,45,292,2,3,2,13,6.8,6.2,68.9,73.6,27,129,4.8,0,2,3,2,2,2,93,6,12,0,0,32:49,2020,Lions
+8,10,Sun,2020-11-15,boxscore,Win,0.0,Home,Team,30,27,24,33,267,3,0,1,9,8.4,7.9,72.7,126.7,21,105,5.0,0,3,3,3,3,4,191,4,10,0,0,24:17,2020,Lions
+9,11,Sun,2020-11-22,boxscore,Loss,0.0,Away,Panthers,0,20,18,33,145,0,0,5,33,5.4,3.8,54.5,65.8,17,40,2.4,0,0,1,0,0,6,253,3,14,1,3,23:12,2020,Lions
+10,12,Thu,2020-11-26,boxscore,Loss,0.0,Home,Texans,25,41,28,43,279,1,1,4,16,6.9,5.9,65.1,81.4,29,109,3.8,2,1,1,2,2,3,138,6,13,1,3,33:44,2020,Lions
+11,13,Sun,2020-12-06,boxscore,Win,0.0,Away,Bears,34,30,27,42,400,3,1,2,2,9.6,9.1,64.3,109.2,22,60,2.7,2,0,0,4,5,3,132,6,11,1,2,27:42,2020,Lions
+12,14,Sun,2020-12-13,boxscore,Loss,0.0,Home,Packers,24,31,27,40,242,1,0,4,31,6.8,5.5,67.5,91.9,15,51,3.4,2,1,1,3,3,3,134,5,10,0,0,24:30,2020,Lions
+13,15,Sun,2020-12-20,boxscore,Loss,0.0,Away,Titans,25,46,27,38,307,1,1,0,0,8.1,8.1,71.1,92.8,27,123,4.6,2,1,1,2,3,1,36,7,12,0,1,31:38,2020,Lions
+14,16,Sat,2020-12-26,boxscore,Loss,0.0,Home,Buccaneers,7,47,21,31,113,0,1,4,39,4.9,3.2,67.7,60.3,15,73,4.9,0,0,0,1,1,8,382,1,10,0,1,24:07,2020,Lions
+15,17,Sun,2021-01-03,boxscore,Loss,0.0,Home,Vikings,35,37,20,31,288,3,1,1,5,9.5,9.0,64.5,113.4,22,129,5.9,2,1,1,2,3,2,101,5,10,1,1,24:47,2020,Lions

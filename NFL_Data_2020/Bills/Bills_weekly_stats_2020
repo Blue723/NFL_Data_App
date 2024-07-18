@@ -1,0 +1,17 @@
+,Week,Day,Date,Boxscore,Win/Loss,Overtime,Home/Away,Opponent,Team Score,Opponenet Score,Passing Completion,Passing Attempts,Passing Yards,Passing Touchdowns,Passing Interceptions,Passing Sacks,Sack Yards,Passing Yards/Attempts,Net Yards/Attempts,Passing Completion Per.,Passing Rate,Rushing Attempts,Rushing Yards,Rushing Yards/Attempts,Rushing Touchdown,Field Goals Made,Field Goals Attempts,Extra Points Made,Extra Point Attempts,Punts,Total Punt Yards,Third Down Conversions,Third Down Attempts,Fourth Down Conversions,Fourth Down Attemtps,Time of Possesion,Year,Team
+0,1,Sun,2020-09-13,boxscore,Win,0.0,Home,Jets,27,17,33,46,306,2,0,3,6,6.8,6.2,71.7,104.1,32,98,3.1,1,2,4,3,3,1,53,7,14,1,1,41:17,2020,Bills
+1,2,Sun,2020-09-20,boxscore,Win,0.0,Away,Dolphins,31,28,24,35,411,4,0,1,4,11.9,11.4,68.6,146.2,23,112,4.9,0,1,1,4,4,4,164,5,10,0,0,28:55,2020,Bills
+2,3,Sun,2020-09-27,boxscore,Win,0.0,Home,Rams,35,32,24,33,274,4,1,4,37,9.4,7.4,72.7,124.2,21,101,4.8,1,0,0,5,5,2,116,5,10,1,1,27:48,2020,Bills
+3,4,Sun,2020-10-04,boxscore,Win,0.0,Away,Raiders,30,23,24,34,274,2,0,1,14,8.5,7.8,70.6,114.1,24,63,2.6,2,1,1,3,4,3,139,7,13,1,1,28:18,2020,Bills
+4,5,Tue,2020-10-13,boxscore,Loss,0.0,Away,Titans,16,42,29,46,275,2,2,1,10,6.2,5.9,63.0,75.9,22,95,4.3,0,1,1,1,1,2,128,13,17,0,0,32:24,2020,Bills
+5,6,Mon,2020-10-19,boxscore,Loss,0.0,Home,Chiefs,17,26,14,27,122,2,1,0,0,4.5,4.5,51.9,73.4,23,84,3.7,0,1,2,2,2,4,213,4,9,0,0,22:15,2020,Bills
+6,7,Sun,2020-10-25,boxscore,Win,0.0,Away,Jets,18,10,30,43,296,0,0,2,11,7.1,6.6,69.8,88.9,27,126,4.7,0,6,8,0,0,0,0,3,11,0,0,34:33,2020,Bills
+7,8,Sun,2020-11-01,boxscore,Win,0.0,Home,Patriots,24,21,11,18,149,0,1,1,5,8.6,7.8,61.1,64.4,38,190,5.0,3,1,1,3,3,3,122,5,11,0,0,29:14,2020,Bills
+8,9,Sun,2020-11-08,boxscore,Win,0.0,Home,Seahawks,44,34,31,38,386,3,0,7,29,10.9,8.6,81.6,135.3,19,34,1.8,2,3,4,5,5,2,107,5,12,0,0,32:01,2020,Bills
+9,10,Sun,2020-11-15,boxscore,Loss,0.0,Away,Cardinals,30,32,33,50,296,3,2,0,0,5.9,5.9,66.0,85.1,18,73,4.1,0,3,3,3,3,4,186,6,13,0,0,30:20,2020,Bills
+10,12,Sun,2020-11-29,boxscore,Win,0.0,Home,Chargers,27,17,19,25,160,2,1,3,17,7.1,5.7,76.0,102.1,30,172,5.7,1,2,2,3,3,3,168,4,9,0,0,29:56,2020,Bills
+11,13,Mon,2020-12-07,boxscore,Win,0.0,Away,49ers,34,24,32,40,368,4,0,1,7,9.4,9.0,80.0,138.3,27,81,3.0,0,2,2,4,4,1,68,4,9,2,3,34:58,2020,Bills
+12,14,Sun,2020-12-13,boxscore,Win,0.0,Home,Steelers,26,15,24,43,230,2,1,1,8,5.5,5.2,55.8,76.7,27,104,3.9,0,2,2,2,3,5,228,7,14,0,0,35:15,2020,Bills
+13,15,Sat,2020-12-19,boxscore,Win,0.0,Away,Broncos,48,19,28,40,352,2,0,1,7,9.0,8.6,70.0,113.7,24,182,7.6,3,2,2,6,6,1,63,9,13,0,1,33:50,2020,Bills
+14,16,Mon,2020-12-28,boxscore,Win,0.0,Away,Patriots,38,9,30,40,344,4,0,0,0,8.6,8.6,75.0,133.7,31,130,4.2,1,1,1,5,5,2,113,5,12,3,3,39:41,2020,Bills
+15,17,Sun,2021-01-03,boxscore,Win,0.0,Home,Dolphins,56,26,24,38,377,4,2,1,11,10.2,9.7,63.2,109.2,25,78,3.1,2,0,0,8,8,4,214,4,10,0,0,27:22,2020,Bills

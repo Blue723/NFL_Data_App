@@ -1,7 +1,7 @@
-,Rk,Date,G#,Week,Age,Tm,Unnamed: 6_level_1,Opp,Result,Int,Tgt,Cmp,Cmp%,Yds,Yds/Cmp,Yds/Tgt,TD,Rat,DADOT,Air,YAC,Bltz,Hrry,QBKD,Sk,Prss,Comb,MTkl,MTkl%,Year
-0,1.0,2020-09-13,1.0,1.0,30.238,SFO,,ARI,L 20-24,0,0,0,,0.0,,,0.0,,,0.0,0.0,0,0,0,,0,,0,,2020
-1,2.0,2020-09-20,2.0,2.0,30.245,SFO,@,NYJ,W 31-13,0,0,0,,0.0,,,0.0,,,0.0,0.0,0,0,0,,0,,0,,2020
-2,3.0,2020-09-27,3.0,3.0,30.252,SFO,@,NYG,W 36-9,0,0,0,,0.0,,,0.0,,,0.0,0.0,0,0,0,,0,,0,,2020
-3,4.0,2020-12-26,15.0,16.0,30.342,SFO,@,ARI,W 20-12,0,0,0,,0.0,,,0.0,,,0.0,0.0,0,0,0,0.0,0,1.0,0,0.0%,2020
-4,5.0,2021-01-03,16.0,17.0,30.35,SFO,,SEA,L 23-26,0,0,0,,0.0,,,0.0,,,0.0,0.0,0,0,0,,0,,0,,2020
-5,,5 Games,,,,,,,3-2-0,0,0,0,,,,,,,,,,0,0,0,0.0,0,1.0,0,0.0%,2020
+,Rk,Date,G#,Week,Age,Tm,Unnamed: 6_level_1,Opp,Result,Int,Tgt,Cmp,Cmp%,Yds,Yds/Cmp,Yds/Tgt,TD,Rat,DADOT,Air,YAC,Bltz,Hrry,QBKD,Sk,Prss,Comb,MTkl,MTkl%,Year,Position,Player_Name,Team
+0,1.0,2020-09-13,1.0,1.0,30.238,SFO,,ARI,L 20-24,0,0,0,,0.0,,,0.0,,,0.0,0.0,0,0,0,,0,,0,,2020,Left Outside Linebacker,Mark Nzeocha,49ers
+1,2.0,2020-09-20,2.0,2.0,30.245,SFO,@,NYJ,W 31-13,0,0,0,,0.0,,,0.0,,,0.0,0.0,0,0,0,,0,,0,,2020,Left Outside Linebacker,Mark Nzeocha,49ers
+2,3.0,2020-09-27,3.0,3.0,30.252,SFO,@,NYG,W 36-9,0,0,0,,0.0,,,0.0,,,0.0,0.0,0,0,0,,0,,0,,2020,Left Outside Linebacker,Mark Nzeocha,49ers
+3,4.0,2020-12-26,15.0,16.0,30.342,SFO,@,ARI,W 20-12,0,0,0,,0.0,,,0.0,,,0.0,0.0,0,0,0,0.0,0,1.0,0,0.0%,2020,Left Outside Linebacker,Mark Nzeocha,49ers
+4,5.0,2021-01-03,16.0,17.0,30.35,SFO,,SEA,L 23-26,0,0,0,,0.0,,,0.0,,,0.0,0.0,0,0,0,,0,,0,,2020,Left Outside Linebacker,Mark Nzeocha,49ers
+5,,5 Games,,,,,,,3-2-0,0,0,0,,,,,,,,,,0,0,0,0.0,0,1.0,0,0.0%,2020,Left Outside Linebacker,Mark Nzeocha,49ers

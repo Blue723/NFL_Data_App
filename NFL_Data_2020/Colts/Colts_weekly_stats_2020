@@ -1,0 +1,17 @@
+,Week,Day,Date,Boxscore,Win/Loss,Overtime,Home/Away,Opponent,Team Score,Opponenet Score,Passing Completion,Passing Attempts,Passing Yards,Passing Touchdowns,Passing Interceptions,Passing Sacks,Sack Yards,Passing Yards/Attempts,Net Yards/Attempts,Passing Completion Per.,Passing Rate,Rushing Attempts,Rushing Yards,Rushing Yards/Attempts,Rushing Touchdown,Field Goals Made,Field Goals Attempts,Extra Points Made,Extra Point Attempts,Punts,Total Punt Yards,Third Down Conversions,Third Down Attempts,Fourth Down Conversions,Fourth Down Attemtps,Time of Possesion,Year,Team
+0,1,Sun,2020-09-13,boxscore,Loss,0,Away,Jaguars,20,27,36,46,357,1,2,1,6,7.9,7.6,78.3,88.1,22,88,4.0,1,2,3,2,2,0,0,4,12,1,3,33:23,2020,Colts
+1,2,Sun,2020-09-20,boxscore,Win,0,Home,Vikings,28,11,19,25,203,1,1,2,11,8.6,7.5,76.0,95.9,40,151,3.8,1,4,4,2,2,2,87,3,11,1,1,38:25,2020,Colts
+2,3,Sun,2020-09-27,boxscore,Win,0,Home,Jets,36,7,19,25,234,1,0,0,0,9.4,9.4,76.0,117.7,31,119,3.8,1,2,3,4,4,4,175,3,10,1,1,30:08,2020,Colts
+3,4,Sun,2020-10-04,boxscore,Win,0,Away,Bears,19,11,16,29,186,1,0,1,4,6.6,6.2,55.2,86.3,38,103,2.7,0,4,4,1,1,5,252,8,19,1,2,32:28,2020,Colts
+4,5,Sun,2020-10-11,boxscore,Loss,0,Away,Browns,23,32,21,33,240,0,2,1,3,7.4,7.1,63.6,60.2,18,68,3.8,1,3,3,2,2,1,54,4,11,1,1,25:15,2020,Colts
+5,6,Sun,2020-10-18,boxscore,Win,0,Home,Bengals,31,27,29,44,371,3,1,1,0,8.4,8.2,65.9,105.4,15,59,3.9,1,1,1,4,4,3,137,7,11,0,0,25:32,2020,Colts
+6,8,Sun,2020-11-01,boxscore,Win,0,Away,Lions,41,21,23,34,247,3,0,2,15,7.7,6.9,67.6,118.1,39,119,3.1,2,0,0,3,5,5,184,7,14,1,1,37:46,2020,Colts
+7,9,Sun,2020-11-08,boxscore,Loss,0,Home,Ravens,10,24,25,44,227,0,1,0,0,5.2,5.2,56.8,61.5,21,112,5.3,1,1,1,1,1,4,204,2,12,2,4,26:34,2020,Colts
+8,10,Thu,2020-11-12,boxscore,Win,0,Away,Titans,34,17,29,39,297,1,0,1,11,7.9,7.4,74.4,104.3,29,133,4.6,2,2,2,4,4,1,46,4,12,3,5,31:18,2020,Colts
+9,11,Sun,2020-11-22,boxscore,Win,1,Home,Packers,34,31,24,36,280,3,1,1,8,8.0,7.6,66.7,106.3,37,140,3.8,0,4,5,2,2,2,71,6,16,2,2,35:01,2020,Colts
+10,12,Sun,2020-11-29,boxscore,Loss,0,Home,Titans,26,45,24,44,280,2,1,2,15,6.7,6.1,54.5,79.7,21,56,2.7,2,0,0,2,2,5,254,5,13,1,2,24:27,2020,Colts
+11,13,Sun,2020-12-06,boxscore,Win,0,Away,Texans,26,20,27,35,262,2,0,3,23,8.1,6.9,77.1,116.6,29,109,3.8,1,1,1,3,3,5,235,3,11,1,2,33:32,2020,Colts
+12,14,Sun,2020-12-13,boxscore,Win,0,Away,Raiders,44,27,19,28,244,2,0,0,0,8.7,8.7,67.9,118.7,31,212,6.8,2,3,3,5,5,1,41,8,11,0,0,28:35,2020,Colts
+13,15,Sun,2020-12-20,boxscore,Win,0,Home,Texans,27,20,22,29,223,2,0,1,5,7.9,7.4,75.9,120.3,23,127,5.5,1,2,2,3,3,2,91,6,11,1,1,29:10,2020,Colts
+14,16,Sun,2020-12-27,boxscore,Loss,0,Away,Steelers,24,28,21,34,238,1,1,5,32,7.9,6.1,61.8,80.3,28,127,4.5,2,1,1,3,3,5,212,5,13,0,1,32:28,2020,Colts
+15,17,Sun,2021-01-03,boxscore,Win,0,Home,Jaguars,28,14,17,27,164,1,1,0,0,6.1,6.1,63.0,76.8,37,273,7.4,2,2,4,2,2,4,173,3,10,0,0,33:38,2020,Colts

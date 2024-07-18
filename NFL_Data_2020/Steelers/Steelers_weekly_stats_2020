@@ -1,0 +1,17 @@
+,Week,Day,Date,Boxscore,Win/Loss,Overtime,Home/Away,Opponent,Team Score,Opponenet Score,Passing Completion,Passing Attempts,Passing Yards,Passing Touchdowns,Passing Interceptions,Passing Sacks,Sack Yards,Passing Yards/Attempts,Net Yards/Attempts,Passing Completion Per.,Passing Rate,Rushing Attempts,Rushing Yards,Rushing Yards/Attempts,Rushing Touchdown,Field Goals Made,Field Goals Attempts,Extra Points Made,Extra Point Attempts,Punts,Total Punt Yards,Third Down Conversions,Third Down Attempts,Fourth Down Conversions,Fourth Down Attemtps,Time of Possesion,Year,Team
+0,1,Mon,2020-09-14,boxscore,Win,0.0,Away,Giants,26,16,21,32,208,3,0,2,21,7.2,6.1,65.6,115.1,30,141,4.7,0,2,2,2,3,4,183,8,15,1,1,31:44,2020,Steelers
+1,2,Sun,2020-09-20,boxscore,Win,0.0,Home,Broncos,26,21,29,41,301,2,1,1,10,7.6,7.2,70.7,97.7,22,109,5.0,1,1,1,3,3,5,209,2,12,1,2,29:29,2020,Steelers
+2,3,Sun,2020-09-27,boxscore,Win,0.0,Home,Texans,28,21,23,36,218,2,0,2,19,6.6,5.7,63.9,99.1,38,169,4.4,1,2,2,2,2,4,177,8,18,2,2,36:51,2020,Steelers
+3,5,Sun,2020-10-11,boxscore,Win,0.0,Home,Eagles,38,29,27,34,231,3,0,1,8,7.0,6.6,79.4,124.4,32,136,4.3,2,1,1,5,5,2,83,11,15,0,0,34:43,2020,Steelers
+4,6,Sun,2020-10-18,boxscore,Win,0.0,Home,Browns,38,7,15,23,148,1,0,2,20,7.3,5.9,65.2,97.7,37,129,3.5,3,1,1,5,5,5,209,5,14,2,2,34:06,2020,Steelers
+5,7,Sun,2020-10-25,boxscore,Win,0.0,Away,Titans,27,24,32,49,268,2,3,0,0,5.5,5.5,65.3,67.4,25,94,3.8,1,2,2,3,3,2,100,13,18,0,0,36:37,2020,Steelers
+6,8,Sun,2020-11-01,boxscore,Win,0.0,Away,Ravens,28,24,21,32,173,2,0,2,9,5.7,5.1,65.6,100.1,16,48,3.0,1,0,0,4,4,6,253,3,9,0,0,24:38,2020,Steelers
+7,9,Sun,2020-11-08,boxscore,Win,0.0,Away,Cowboys,24,19,31,45,309,3,0,0,0,6.9,6.9,68.9,110.3,18,46,2.6,0,2,2,0,2,4,203,5,13,0,2,26:36,2020,Steelers
+8,10,Sun,2020-11-15,boxscore,Win,0.0,Home,Bengals,36,10,27,46,333,4,0,0,0,7.2,7.2,58.7,110.1,20,44,2.2,0,3,3,3,3,7,345,6,16,0,0,30:28,2020,Steelers
+9,11,Sun,2020-11-22,boxscore,Win,0.0,Away,Jaguars,27,3,32,46,267,2,1,0,0,5.8,5.8,69.6,89.7,27,106,3.9,1,2,3,3,3,5,216,7,17,1,1,36:29,2020,Steelers
+10,12,Wed,2020-12-02,boxscore,Win,0.0,Home,Ravens,19,14,36,51,266,1,1,0,0,5.2,5.2,70.6,81.0,20,68,3.4,0,2,2,1,2,4,177,6,14,0,2,33:39,2020,Steelers
+11,13,Mon,2020-12-07,boxscore,Loss,0.0,Home,Team,17,23,33,53,305,2,1,0,0,5.8,5.8,62.3,82.7,14,21,1.5,0,1,1,2,2,6,266,6,15,0,2,29:34,2020,Steelers
+12,14,Sun,2020-12-13,boxscore,Loss,0.0,Away,Bills,15,26,21,37,177,2,2,1,10,5.1,4.7,56.8,64.8,17,47,2.8,0,0,0,1,1,8,318,1,10,0,0,24:45,2020,Steelers
+13,15,Mon,2020-12-21,boxscore,Loss,0.0,Away,Bengals,17,27,20,38,158,1,1,1,12,4.5,4.1,52.6,61.1,23,86,3.7,1,1,1,2,2,6,313,4,16,1,2,27:57,2020,Steelers
+14,16,Sun,2020-12-27,boxscore,Win,0.0,Home,Colts,28,24,34,49,332,3,0,1,9,7.0,6.6,69.4,108.5,14,22,1.6,1,0,0,4,4,6,288,4,11,0,1,27:32,2020,Steelers
+15,17,Sun,2021-01-03,boxscore,Loss,0.0,Away,Browns,22,24,26,44,309,2,1,1,8,7.2,6.9,59.1,86.3,20,85,4.3,0,3,3,1,1,3,130,8,17,2,2,27:50,2020,Steelers

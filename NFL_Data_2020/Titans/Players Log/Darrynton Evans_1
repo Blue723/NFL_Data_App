@@ -1,7 +1,7 @@
-,Rk,Date,G#,Week,Age,Tm,Unnamed: 6_level_1,Opp,Result,Int,Tgt,Cmp,Cmp%,Yds,Yds/Cmp,Yds/Tgt,TD,Rat,DADOT,Air,YAC,Bltz,Hrry,QBKD,Sk,Prss,Comb,MTkl,MTkl%,Year
-0,1.0,2020-09-27,3.0,3.0,22.08,TEN,@,MIN,W 31-30,0,0,0,,0.0,,,0.0,,,0.0,0.0,0,0,0,0.0,0,0,0,,2020
-1,2.0,2020-10-13,4.0,5.0,22.096,TEN,,BUF,W 42-16,0,0,0,,0.0,,,0.0,,,0.0,0.0,0,0,0,0.0,0,0,0,,2020
-2,3.0,2020-12-20,14.0,15.0,22.164,TEN,,DET,W 46-25,0,0,0,,0.0,,,0.0,,,0.0,0.0,0,0,0,0.0,0,0,0,,2020
-3,4.0,2020-12-27,15.0,16.0,22.171,TEN,@,GNB,L 14-40,0,0,0,,0.0,,,0.0,,,0.0,0.0,0,0,0,0.0,0,0,0,,2020
-4,5.0,2021-01-03,16.0,17.0,22.178,TEN,@,HOU,W 41-38,0,0,0,,0.0,,,0.0,,,0.0,0.0,0,0,0,0.0,0,1,0,0.0%,2020
-5,,5 Games,,,,,,,4-1-0,0,0,0,,,,,,,,,,0,0,0,0.0,0,1,0,0.0%,2020
+,Rk,Date,G#,Week,Age,Tm,Unnamed: 6_level_1,Opp,Result,Int,Tgt,Cmp,Cmp%,Yds,Yds/Cmp,Yds/Tgt,TD,Rat,DADOT,Air,YAC,Bltz,Hrry,QBKD,Sk,Prss,Comb,MTkl,MTkl%,Year,Position,Player_Name,Team
+0,1.0,2020-09-27,3.0,3.0,22.08,TEN,@,MIN,W 31-30,0,0,0,,0.0,,,0.0,,,0.0,0.0,0,0,0,0.0,0,0,0,,2020,Running back,Darrynton Evans,Titans
+1,2.0,2020-10-13,4.0,5.0,22.096,TEN,,BUF,W 42-16,0,0,0,,0.0,,,0.0,,,0.0,0.0,0,0,0,0.0,0,0,0,,2020,Running back,Darrynton Evans,Titans
+2,3.0,2020-12-20,14.0,15.0,22.164,TEN,,DET,W 46-25,0,0,0,,0.0,,,0.0,,,0.0,0.0,0,0,0,0.0,0,0,0,,2020,Running back,Darrynton Evans,Titans
+3,4.0,2020-12-27,15.0,16.0,22.171,TEN,@,GNB,L 14-40,0,0,0,,0.0,,,0.0,,,0.0,0.0,0,0,0,0.0,0,0,0,,2020,Running back,Darrynton Evans,Titans
+4,5.0,2021-01-03,16.0,17.0,22.178,TEN,@,HOU,W 41-38,0,0,0,,0.0,,,0.0,,,0.0,0.0,0,0,0,0.0,0,1,0,0.0%,2020,Running back,Darrynton Evans,Titans
+5,,5 Games,,,,,,,4-1-0,0,0,0,,,,,,,,,,0,0,0,0.0,0,1,0,0.0%,2020,Running back,Darrynton Evans,Titans
