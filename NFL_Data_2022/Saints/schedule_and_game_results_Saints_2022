@@ -1,18 +1,18 @@
 ,Week,Day,Date,Time,Win/Loss,Overtime,Team Record,Home/Away,Opponent,Points Scored,Points Allowed,Offense 1st Down,Total Yards Gained of Offense,Total yards Gained by Passing,Total Yards Gained by Rushing,Offense Turnovers,Defense 1st Down,Total Yards Allowed by Defense,Total Passing Yards Allowed by Defense,Total Rushing Yards Allowed by Defense,Defense Turnovers,Offense,Defense,Sp. Tms,Team,Year
-0,1,Sun,2022-09-11,nan,Win,0,1-0,away,Atlanta Falcons,27,26,18,385,234,151,1,26,416,215,201,2,4.62,-7.5,-0.51,Saints,2022
-1,2,Sun,2022-09-18,nan,Loss,0,1-1,home,Tampa Bay Buccaneers,10,20,18,308,208,100,5,13,260,188,72,1,-18.41,9.2,-2.71,Saints,2022
-2,3,Sun,2022-09-25,nan,Loss,0,1-2,away,Carolina Panthers,14,22,19,426,342,84,3,12,293,148,145,0,-4.57,9.01,-11.38,Saints,2022
-3,4,Sun,2022-10-02,nan,Loss,0,1-3,home,Minnesota Vikings,25,28,19,338,227,111,2,23,344,263,81,1,7.36,-6.41,-2.69,Saints,2022
-4,5,Sun,2022-10-09,nan,Win,0,2-3,home,Seattle Seahawks,39,32,26,438,203,235,2,15,396,245,151,1,15.05,-4.57,-0.32,Saints,2022
-5,6,Sun,2022-10-16,nan,Loss,0,2-4,home,Cincinnati Bengals,26,30,22,399,171,228,0,21,348,273,75,1,9.06,-17.18,2.4,Saints,2022
-6,7,Thu,2022-10-20,nan,Loss,0,2-5,away,Arizona Cardinals,34,42,25,494,409,85,3,21,326,189,137,0,5.93,-13.74,-1.75,Saints,2022
-7,8,Sun,2022-10-30,nan,Win,0,3-5,home,Las Vegas Raiders,24,0,22,367,231,136,0,13,183,145,38,1,16.76,8.49,-6.72,Saints,2022
-8,9,Mon,2022-11-07,nan,Loss,0,3-6,home,Baltimore Ravens,13,27,13,243,195,48,1,23,319,131,188,0,-3.99,-11.91,1.6,Saints,2022
-9,10,Sun,2022-11-13,nan,Loss,0,3-7,away,Pittsburgh Steelers,10,20,10,186,157,29,2,28,379,162,217,0,-10.6,-13.42,11.01,Saints,2022
-10,11,Sun,2022-11-20,nan,Win,0,4-7,home,Los Angeles Rams,27,20,19,323,235,88,0,17,336,188,148,0,8.99,-3.06,2.98,Saints,2022
-11,12,Sun,2022-11-27,nan,Loss,0,4-8,away,San Francisco 49ers,0,13,14,260,197,63,2,21,317,221,96,0,-8.15,-2.05,-2.22,Saints,2022
-12,13,Mon,2022-12-05,nan,Loss,0,4-9,away,Tampa Bay Buccaneers,16,17,14,298,232,66,0,25,350,274,76,2,-0.04,-2.62,2.46,Saints,2022
-13,15,Sun,2022-12-18,nan,Win,0,5-9,home,Atlanta Falcons,21,18,17,348,214,134,1,21,320,89,231,1,6.38,-8.41,1.86,Saints,2022
-14,16,Sat,2022-12-24,nan,Win,0,6-9,away,Cleveland Browns,17,10,14,244,92,152,1,15,249,125,124,1,-4.01,12.78,-2.04,Saints,2022
-15,17,Sun,2023-01-01,nan,Win,0,7-9,away,Philadelphia Eagles,20,10,19,313,184,129,1,11,313,246,67,1,-2.95,12.38,0.32,Saints,2022
-16,18,Sun,2023-01-08,nan,Loss,0,7-10,home,Carolina Panthers,7,10,16,304,161,143,1,14,203,32,171,2,-4.13,8.41,-7.85,Saints,2022
+0,1,Sun,2022-09-11,,Win,0,1-0,away,Falcons,27,26,18,385,234,151,1,26,416,215,201,2,4.62,-7.5,-0.51,Saints,2022
+1,2,Sun,2022-09-18,,Loss,0,1-1,home,Buccaneers,10,20,18,308,208,100,5,13,260,188,72,1,-18.41,9.2,-2.71,Saints,2022
+2,3,Sun,2022-09-25,,Loss,0,1-2,away,Panthers,14,22,19,426,342,84,3,12,293,148,145,0,-4.57,9.01,-11.38,Saints,2022
+3,4,Sun,2022-10-02,,Loss,0,1-3,home,Vikings,25,28,19,338,227,111,2,23,344,263,81,1,7.36,-6.41,-2.69,Saints,2022
+4,5,Sun,2022-10-09,,Win,0,2-3,home,Seahawks,39,32,26,438,203,235,2,15,396,245,151,1,15.05,-4.57,-0.32,Saints,2022
+5,6,Sun,2022-10-16,,Loss,0,2-4,home,Bengals,26,30,22,399,171,228,0,21,348,273,75,1,9.06,-17.18,2.4,Saints,2022
+6,7,Thu,2022-10-20,,Loss,0,2-5,away,Cardinals,34,42,25,494,409,85,3,21,326,189,137,0,5.93,-13.74,-1.75,Saints,2022
+7,8,Sun,2022-10-30,,Win,0,3-5,home,Raiders,24,0,22,367,231,136,0,13,183,145,38,1,16.76,8.49,-6.72,Saints,2022
+8,9,Mon,2022-11-07,,Loss,0,3-6,home,Ravens,13,27,13,243,195,48,1,23,319,131,188,0,-3.99,-11.91,1.6,Saints,2022
+9,10,Sun,2022-11-13,,Loss,0,3-7,away,Steelers,10,20,10,186,157,29,2,28,379,162,217,0,-10.6,-13.42,11.01,Saints,2022
+10,11,Sun,2022-11-20,,Win,0,4-7,home,Rams,27,20,19,323,235,88,0,17,336,188,148,0,8.99,-3.06,2.98,Saints,2022
+11,12,Sun,2022-11-27,,Loss,0,4-8,away,49ers,0,13,14,260,197,63,2,21,317,221,96,0,-8.15,-2.05,-2.22,Saints,2022
+12,13,Mon,2022-12-05,,Loss,0,4-9,away,Buccaneers,16,17,14,298,232,66,0,25,350,274,76,2,-0.04,-2.62,2.46,Saints,2022
+13,15,Sun,2022-12-18,,Win,0,5-9,home,Falcons,21,18,17,348,214,134,1,21,320,89,231,1,6.38,-8.41,1.86,Saints,2022
+14,16,Sat,2022-12-24,,Win,0,6-9,away,Browns,17,10,14,244,92,152,1,15,249,125,124,1,-4.01,12.78,-2.04,Saints,2022
+15,17,Sun,2023-01-01,,Win,0,7-9,away,Eagles,20,10,19,313,184,129,1,11,313,246,67,1,-2.95,12.38,0.32,Saints,2022
+16,18,Sun,2023-01-08,,Loss,0,7-10,home,Panthers,7,10,16,304,161,143,1,14,203,32,171,2,-4.13,8.41,-7.85,Saints,2022

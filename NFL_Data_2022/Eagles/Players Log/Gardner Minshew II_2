@@ -1,7 +1,7 @@
-,Rk,Date,G#,Week,Age,Tm,Unnamed: 6_level_1,Opp,Result,Int,Tgt,Cmp,Cmp%,Yds,Yds/Cmp,Yds/Tgt,TD,Rat,DADOT,Air,YAC,Bltz,Hrry,QBKD,Sk,Prss,Comb,MTkl,MTkl%,Year
-0,1.0,2022-10-30,7.0,8.0,26.167,PHI,,PIT,W 35-13,0,0,0,,0.0,,,0.0,,,0.0,0.0,0,0,0,0.0,0,0,0,,2022
-1,2.0,2022-12-04,12.0,13.0,26.202,PHI,,TEN,W 35-10,0,0,0,,0.0,,,0.0,,,0.0,0.0,0,0,0,0.0,0,0,0,,2022
-2,3.0,2022-12-11,13.0,14.0,26.209,PHI,@,NYG,W 48-22,0,0,0,,0.0,,,0.0,,,0.0,0.0,0,0,0,0.0,0,0,0,,2022
-3,4.0,2022-12-24,15.0,16.0,26.222,PHI,@,DAL,L 34-40,0,0,0,,0.0,,,0.0,,,0.0,0.0,0,0,0,0.0,0,1,0,0.0%,2022
-4,5.0,2023-01-01,16.0,17.0,26.23,PHI,,NOR,L 10-20,0,0,0,,0.0,,,0.0,,,0.0,0.0,0,0,0,0.0,0,0,0,,2022
-5,,5 Games,,,,,,,3-2-0,0,0,0,,,,,,,,,,0,0,0,0.0,0,1,0,0.0%,2022
+,Rk,Date,G#,Week,Age,Tm,Unnamed: 6_level_1,Opp,Result,Int,Tgt,Cmp,Cmp%,Yds,Yds/Cmp,Yds/Tgt,TD,Rat,DADOT,Air,YAC,Bltz,Hrry,QBKD,Sk,Prss,Comb,MTkl,MTkl%,Year,Position,Player_Name,Team
+0,1.0,2022-10-30,7.0,8.0,26.167,PHI,,PIT,W 35-13,0,0,0,,0.0,,,0.0,,,0.0,0.0,0,0,0,0.0,0,0,0,,2022,Quarterback,Gardner Minshew II,Eagles
+1,2.0,2022-12-04,12.0,13.0,26.202,PHI,,TEN,W 35-10,0,0,0,,0.0,,,0.0,,,0.0,0.0,0,0,0,0.0,0,0,0,,2022,Quarterback,Gardner Minshew II,Eagles
+2,3.0,2022-12-11,13.0,14.0,26.209,PHI,@,NYG,W 48-22,0,0,0,,0.0,,,0.0,,,0.0,0.0,0,0,0,0.0,0,0,0,,2022,Quarterback,Gardner Minshew II,Eagles
+3,4.0,2022-12-24,15.0,16.0,26.222,PHI,@,DAL,L 34-40,0,0,0,,0.0,,,0.0,,,0.0,0.0,0,0,0,0.0,0,1,0,0.0%,2022,Quarterback,Gardner Minshew II,Eagles
+4,5.0,2023-01-01,16.0,17.0,26.23,PHI,,NOR,L 10-20,0,0,0,,0.0,,,0.0,,,0.0,0.0,0,0,0,0.0,0,0,0,,2022,Quarterback,Gardner Minshew II,Eagles
+5,,5 Games,,,,,,,3-2-0,0,0,0,,,,,,,,,,0,0,0,0.0,0,1,0,0.0%,2022,Quarterback,Gardner Minshew II,Eagles

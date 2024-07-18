@@ -1,7 +1,7 @@
-,Rk,Date,G#,Week,Age,Tm,Unnamed: 6_level_1,Opp,Result,Int,Tgt,Cmp,Cmp%,Yds,Yds/Cmp,Yds/Tgt,TD,Rat,DADOT,Air,YAC,Bltz,Hrry,QBKD,Sk,Prss,Comb,MTkl,MTkl%,Year
-0,1.0,2022-12-11,13.0,14.0,31.303,NYJ,@,BUF,L 12-20,0,0,0,,0.0,,,0.0,,,0.0,0.0,0,0,0,,0,,0,,2022
-1,2.0,2022-12-18,14.0,15.0,31.31,NYJ,,DET,L 17-20,0,0,0,,0.0,,,0.0,,,0.0,0.0,0,0,0,,0,,0,,2022
-2,3.0,2022-12-22,15.0,16.0,31.314,NYJ,,JAX,L 3-19,0,0,0,,0.0,,,0.0,,,0.0,0.0,0,0,0,,0,,0,,2022
-3,4.0,2023-01-01,16.0,17.0,31.324,NYJ,@,SEA,L 6-23,0,0,0,,0.0,,,0.0,,,0.0,0.0,0,0,0,0.0,0,1.0,0,0.0%,2022
-4,5.0,2023-01-08,17.0,18.0,31.331,NYJ,@,MIA,L 6-11,0,0,0,,0.0,,,0.0,,,0.0,0.0,0,0,0,,0,,0,,2022
-5,,5 Games,,,,,,,0-5-0,0,0,0,,,,,,,,,,0,0,0,0.0,0,1.0,0,0.0%,2022
+,Rk,Date,G#,Week,Age,Tm,Unnamed: 6_level_1,Opp,Result,Int,Tgt,Cmp,Cmp%,Yds,Yds/Cmp,Yds/Tgt,TD,Rat,DADOT,Air,YAC,Bltz,Hrry,QBKD,Sk,Prss,Comb,MTkl,MTkl%,Year,Position,Player_Name,Team
+0,1.0,2022-12-11,13.0,14.0,31.303,NYJ,@,BUF,L 12-20,0,0,0,,0.0,,,0.0,,,0.0,0.0,0,0,0,,0,,0,,2022,Left Guard,Laurent Duvernay-Tardif,Jets
+1,2.0,2022-12-18,14.0,15.0,31.31,NYJ,,DET,L 17-20,0,0,0,,0.0,,,0.0,,,0.0,0.0,0,0,0,,0,,0,,2022,Left Guard,Laurent Duvernay-Tardif,Jets
+2,3.0,2022-12-22,15.0,16.0,31.314,NYJ,,JAX,L 3-19,0,0,0,,0.0,,,0.0,,,0.0,0.0,0,0,0,,0,,0,,2022,Left Guard,Laurent Duvernay-Tardif,Jets
+3,4.0,2023-01-01,16.0,17.0,31.324,NYJ,@,SEA,L 6-23,0,0,0,,0.0,,,0.0,,,0.0,0.0,0,0,0,0.0,0,1.0,0,0.0%,2022,Left Guard,Laurent Duvernay-Tardif,Jets
+4,5.0,2023-01-08,17.0,18.0,31.331,NYJ,@,MIA,L 6-11,0,0,0,,0.0,,,0.0,,,0.0,0.0,0,0,0,,0,,0,,2022,Left Guard,Laurent Duvernay-Tardif,Jets
+5,,5 Games,,,,,,,0-5-0,0,0,0,,,,,,,,,,0,0,0,0.0,0,1.0,0,0.0%,2022,Left Guard,Laurent Duvernay-Tardif,Jets

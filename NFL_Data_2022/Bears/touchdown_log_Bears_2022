@@ -1,38 +1,38 @@
-,Rank,Team,Date,Opponent,Win/Loss,Home_Score,Opponenet_Score,Quarter,Distance,Type,Detail
-1,1,Bears,2022-09-11,SFO,Win,19,10,3,51,pass,Dante Pettis
-2,2,Bears,2022-09-11,SFO,Win,19,10,4,18,pass,Equanimeous St. Brown
-3,3,Bears,2022-09-11,SFO,Win,19,10,4,3,rush,Khalil Herbert
-4,4,Bears,2022-09-18,GNB,Loss,10,27,1,3,rush,Justin Fields
-5,5,Bears,2022-09-25,HOU,Win,23,20,1,11,rush,Khalil Herbert
-6,6,Bears,2022-09-25,HOU,Win,23,20,3,1,rush,Khalil Herbert
-7,7,Bears,2022-10-09,MIN,Loss,22,29,2,9,rush,David Montgomery
-8,8,Bears,2022-10-09,MIN,Loss,22,29,3,9,pass,Velus Jones Jr.
-9,9,Bears,2022-10-13,WAS,Loss,7,12,3,40,pass,Dante Pettis
-10,10,Bears,2022-10-24,NWE,Win,33,14,1,3,rush,Justin Fields
-11,11,Bears,2022-10-24,NWE,Win,33,14,2,25,pass,Khalil Herbert
-12,12,Bears,2022-10-24,NWE,Win,33,14,4,1,rush,David Montgomery
-13,13,Bears,2022-10-30,DAL,Loss,29,49,2,3,rush,Justin Fields
-14,14,Bears,2022-10-30,DAL,Loss,29,49,2,17,pass,N'Keal Harry
-15,15,Bears,2022-10-30,DAL,Loss,29,49,3,12,rush,Khalil Herbert
-16,16,Bears,2022-10-30,DAL,Loss,29,49,4,10,pass,Cole Kmet
-17,17,Bears,2022-11-06,MIA,Loss,32,35,2,18,pass,Cole Kmet
-18,18,Bears,2022-11-06,MIA,Loss,32,35,2,16,pass,Darnell Mooney
-19,19,Bears,2022-11-06,MIA,Loss,32,35,3,61,rush,Justin Fields
-20,20,Bears,2022-11-06,MIA,Loss,32,35,4,4,pass,Cole Kmet
-21,21,Bears,2022-11-13,DET,Loss,30,31,2,1,rush,Justin Fields
-22,22,Bears,2022-11-13,DET,Loss,30,31,3,6,pass,Cole Kmet
-23,23,Bears,2022-11-13,DET,Loss,30,31,3,50,pass,Cole Kmet
-24,24,Bears,2022-11-13,DET,Loss,30,31,4,67,rush,Justin Fields
-25,25,Bears,2022-11-20,ATL,Loss,24,27,1,16,pass,Darnell Mooney
-26,26,Bears,2022-11-20,ATL,Loss,24,27,2,4,rush,Justin Fields
-27,27,Bears,2022-11-20,ATL,Loss,24,27,4,2,rush,David Montgomery
-28,28,Bears,2022-11-27,NYJ,Loss,10,31,2,4,pass,Byron Pringle
-29,29,Bears,2022-12-04,GNB,Loss,19,28,1,55,rush,Justin Fields
-30,30,Bears,2022-12-04,GNB,Loss,19,28,2,7,rush,David Montgomery
-31,31,Bears,2022-12-18,PHI,Loss,20,25,2,9,rush,David Montgomery
-32,32,Bears,2022-12-18,PHI,Loss,20,25,3,10,pass,David Montgomery
-33,33,Bears,2022-12-18,PHI,Loss,20,25,4,35,pass,Byron Pringle
-34,34,Bears,2022-12-24,BUF,Loss,13,35,1,6,pass,Dante Pettis
-35,35,Bears,2023-01-01,DET,Loss,10,41,1,13,pass,Cole Kmet
-36,36,Bears,2023-01-08,MIN,Loss,13,29,2,42,rush,Velus Jones Jr.
-37,37,Bears,2023-01-08,MIN,Loss,13,29,3,11,pass,Cole Kmet
+,Rank,Team,Date,Opponent,Win/Loss,Home_Score,Opponenet_Score,Quarter,Distance,Type,Detail,Year
+1,1,Bears,2022-09-11,SFO,Win,19,10,3,51,pass,Dante Pettis,2022
+2,2,Bears,2022-09-11,SFO,Win,19,10,4,18,pass,Equanimeous St. Brown,2022
+3,3,Bears,2022-09-11,SFO,Win,19,10,4,3,rush,Khalil Herbert,2022
+4,4,Bears,2022-09-18,GNB,Loss,10,27,1,3,rush,Justin Fields,2022
+5,5,Bears,2022-09-25,HOU,Win,23,20,1,11,rush,Khalil Herbert,2022
+6,6,Bears,2022-09-25,HOU,Win,23,20,3,1,rush,Khalil Herbert,2022
+7,7,Bears,2022-10-09,MIN,Loss,22,29,2,9,rush,David Montgomery,2022
+8,8,Bears,2022-10-09,MIN,Loss,22,29,3,9,pass,Velus Jones Jr.,2022
+9,9,Bears,2022-10-13,WAS,Loss,7,12,3,40,pass,Dante Pettis,2022
+10,10,Bears,2022-10-24,NWE,Win,33,14,1,3,rush,Justin Fields,2022
+11,11,Bears,2022-10-24,NWE,Win,33,14,2,25,pass,Khalil Herbert,2022
+12,12,Bears,2022-10-24,NWE,Win,33,14,4,1,rush,David Montgomery,2022
+13,13,Bears,2022-10-30,DAL,Loss,29,49,2,3,rush,Justin Fields,2022
+14,14,Bears,2022-10-30,DAL,Loss,29,49,2,17,pass,N'Keal Harry,2022
+15,15,Bears,2022-10-30,DAL,Loss,29,49,3,12,rush,Khalil Herbert,2022
+16,16,Bears,2022-10-30,DAL,Loss,29,49,4,10,pass,Cole Kmet,2022
+17,17,Bears,2022-11-06,MIA,Loss,32,35,2,18,pass,Cole Kmet,2022
+18,18,Bears,2022-11-06,MIA,Loss,32,35,2,16,pass,Darnell Mooney,2022
+19,19,Bears,2022-11-06,MIA,Loss,32,35,3,61,rush,Justin Fields,2022
+20,20,Bears,2022-11-06,MIA,Loss,32,35,4,4,pass,Cole Kmet,2022
+21,21,Bears,2022-11-13,DET,Loss,30,31,2,1,rush,Justin Fields,2022
+22,22,Bears,2022-11-13,DET,Loss,30,31,3,6,pass,Cole Kmet,2022
+23,23,Bears,2022-11-13,DET,Loss,30,31,3,50,pass,Cole Kmet,2022
+24,24,Bears,2022-11-13,DET,Loss,30,31,4,67,rush,Justin Fields,2022
+25,25,Bears,2022-11-20,ATL,Loss,24,27,1,16,pass,Darnell Mooney,2022
+26,26,Bears,2022-11-20,ATL,Loss,24,27,2,4,rush,Justin Fields,2022
+27,27,Bears,2022-11-20,ATL,Loss,24,27,4,2,rush,David Montgomery,2022
+28,28,Bears,2022-11-27,NYJ,Loss,10,31,2,4,pass,Byron Pringle,2022
+29,29,Bears,2022-12-04,GNB,Loss,19,28,1,55,rush,Justin Fields,2022
+30,30,Bears,2022-12-04,GNB,Loss,19,28,2,7,rush,David Montgomery,2022
+31,31,Bears,2022-12-18,PHI,Loss,20,25,2,9,rush,David Montgomery,2022
+32,32,Bears,2022-12-18,PHI,Loss,20,25,3,10,pass,David Montgomery,2022
+33,33,Bears,2022-12-18,PHI,Loss,20,25,4,35,pass,Byron Pringle,2022
+34,34,Bears,2022-12-24,BUF,Loss,13,35,1,6,pass,Dante Pettis,2022
+35,35,Bears,2023-01-01,DET,Loss,10,41,1,13,pass,Cole Kmet,2022
+36,36,Bears,2023-01-08,MIN,Loss,13,29,2,42,rush,Velus Jones Jr.,2022
+37,37,Bears,2023-01-08,MIN,Loss,13,29,3,11,pass,Cole Kmet,2022

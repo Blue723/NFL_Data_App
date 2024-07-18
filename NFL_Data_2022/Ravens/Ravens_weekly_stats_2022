@@ -1,0 +1,18 @@
+,Week,Day,Date,Boxscore,Win/Loss,Overtime,Home/Away,Opponent,Team Score,Opponenet Score,Passing Completion,Passing Attempts,Passing Yards,Passing Touchdowns,Passing Interceptions,Passing Sacks,Sack Yards,Passing Yards/Attempts,Net Yards/Attempts,Passing Completion Per.,Passing Rate,Rushing Attempts,Rushing Yards,Rushing Yards/Attempts,Rushing Touchdown,Field Goals Made,Field Goals Attempts,Extra Points Made,Extra Point Attempts,Punts,Total Punt Yards,Third Down Conversions,Third Down Attempts,Fourth Down Conversions,Fourth Down Attemtps,Time of Possesion,Year,Team
+0,1,Sun,2022-09-11,boxscore,Win,0.0,Away,Jets,24,9,17,30,211,3,1,2,2,7.1,6.6,56.7,98.1,21,63,3.0,0,1,1,3,3,6,291,5,13,0,0,27:30,2022,Ravens
+1,2,Sun,2022-09-18,boxscore,Loss,0.0,Home,Dolphins,38,42,21,29,318,3,0,0,0,11.0,11.0,72.4,142.6,25,155,6.2,1,1,1,5,5,2,81,3,10,1,3,25:13,2022,Ravens
+2,3,Sun,2022-09-25,boxscore,Win,0.0,Away,Patriots,37,26,18,29,206,4,1,4,12,7.5,6.2,62.1,108.6,26,188,7.2,1,1,1,4,5,3,133,5,11,0,0,30:36,2022,Ravens
+3,4,Sun,2022-10-02,boxscore,Loss,0.0,Home,Bills,20,23,20,29,134,1,2,2,10,5.0,4.3,69.0,61.6,33,162,4.9,1,2,2,2,2,3,152,6,13,1,2,38:10,2022,Ravens
+4,5,Sun,2022-10-09,boxscore,Win,0.0,Home,Bengals,19,17,19,32,170,1,1,1,4,5.4,5.2,59.4,71.1,28,155,5.5,0,4,4,1,1,2,79,5,11,0,1,29:59,2022,Ravens
+5,6,Sun,2022-10-16,boxscore,Loss,0.0,Away,Giants,20,24,17,32,195,1,1,2,15,6.6,5.7,53.1,69.1,24,211,8.8,1,2,3,2,2,2,95,4,10,0,0,28:08,2022,Ravens
+6,7,Sun,2022-10-23,boxscore,Win,0.0,Home,Browns,23,20,9,16,94,0,0,3,26,7.5,4.9,56.3,73.4,44,160,3.6,2,3,3,2,2,3,181,7,15,2,2,34:04,2022,Ravens
+7,8,Thu,2022-10-27,boxscore,Win,0.0,Away,Buccaneers,27,22,27,38,222,2,0,3,16,6.3,5.4,71.1,103.2,33,231,7.0,1,2,3,3,3,4,210,6,13,0,1,38:23,2022,Ravens
+8,9,Mon,2022-11-07,boxscore,Win,0.0,Away,Saints,27,13,12,22,131,1,0,3,2,6.0,5.2,54.5,87.5,40,188,4.7,2,2,2,3,3,4,193,9,15,0,0,37:47,2022,Ravens
+9,11,Sun,2022-11-20,boxscore,Win,0.0,Home,Panthers,13,3,24,33,193,0,1,3,16,6.3,5.4,72.7,74.4,30,115,3.8,1,2,2,1,1,7,251,6,15,0,0,33:14,2022,Ravens
+10,12,Sun,2022-11-27,boxscore,Loss,0.0,Away,Jaguars,27,28,16,32,253,1,0,1,1,7.9,7.7,50.0,87.1,35,162,4.6,1,4,5,1,1,1,53,8,14,0,1,32:39,2022,Ravens
+11,13,Sun,2022-12-04,boxscore,Win,0.0,Home,Broncos,10,9,30,37,182,0,2,4,16,5.4,4.4,81.1,64.6,28,103,3.7,1,1,1,1,1,6,303,3,13,3,3,32:29,2022,Ravens
+12,14,Sun,2022-12-11,boxscore,Win,0.0,Away,Steelers,16,14,11,17,94,0,0,2,10,6.1,4.9,64.7,79.0,42,215,5.1,1,3,3,1,1,3,124,4,13,1,2,32:59,2022,Ravens
+13,15,Sat,2022-12-17,boxscore,Loss,0.0,Away,Browns,3,13,17,30,126,0,1,3,12,4.6,3.8,56.7,52.9,28,198,7.1,0,1,3,0,0,1,41,5,12,0,3,26:52,2022,Ravens
+14,16,Sat,2022-12-24,boxscore,Win,0.0,Home,Falcons,17,9,9,17,115,1,0,0,0,6.8,6.8,52.9,94.0,34,184,5.4,0,3,4,0,0,3,115,4,12,0,0,27:16,2022,Ravens
+15,17,Sun,2023-01-01,boxscore,Loss,0.0,Home,Steelers,13,16,14,21,120,1,1,1,10,6.2,5.5,66.7,77.5,28,120,4.3,0,2,2,1,1,4,179,5,12,0,0,25:46,2022,Ravens
+16,18,Sun,2023-01-08,boxscore,Loss,0.0,Away,Bengals,16,27,19,44,276,0,2,4,10,6.5,5.8,43.2,45.3,27,110,4.1,1,3,3,1,1,3,137,6,16,0,2,28:41,2022,Ravens

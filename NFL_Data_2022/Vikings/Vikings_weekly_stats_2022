@@ -1,0 +1,18 @@
+,Week,Day,Date,Boxscore,Win/Loss,Overtime,Home/Away,Opponent,Team Score,Opponenet Score,Passing Completion,Passing Attempts,Passing Yards,Passing Touchdowns,Passing Interceptions,Passing Sacks,Sack Yards,Passing Yards/Attempts,Net Yards/Attempts,Passing Completion Per.,Passing Rate,Rushing Attempts,Rushing Yards,Rushing Yards/Attempts,Rushing Touchdown,Field Goals Made,Field Goals Attempts,Extra Points Made,Extra Point Attempts,Punts,Total Punt Yards,Third Down Conversions,Third Down Attempts,Fourth Down Conversions,Fourth Down Attemtps,Time of Possesion,Year,Team
+0,1,Sun,2022-09-11,boxscore,Win,0,Home,Packers,23,7,23,32,269,2,0,1,8,8.7,8.2,71.9,117.8,28,126,4.5,0,3,3,2,2,5,232,4,13,1,1,31:23,2022,Vikings
+1,2,Mon,2022-09-19,boxscore,Loss,0,Away,Eagles,7,24,27,46,202,1,3,2,19,4.8,4.2,58.7,49.4,11,62,5.6,0,0,0,1,1,5,246,4,12,0,0,23:46,2022,Vikings
+2,3,Sun,2022-09-25,boxscore,Win,0,Home,Lions,28,24,24,41,250,2,0,1,10,6.3,6.0,58.5,92.5,25,123,4.9,2,0,2,4,4,3,156,2,9,1,2,25:56,2022,Vikings
+3,4,Sun,2022-10-02,boxscore,Win,0,Away,Saints,28,25,26,39,263,1,1,3,23,7.3,6.3,66.7,83.6,25,81,3.2,1,5,5,1,2,3,126,5,14,1,1,32:13,2022,Vikings
+4,5,Sun,2022-10-09,boxscore,Win,0,Home,Bears,29,22,33,42,312,1,1,1,7,7.6,7.3,78.6,95.6,31,117,3.8,3,0,2,3,3,1,15,12,15,0,0,36:44,2022,Vikings
+5,6,Sun,2022-10-16,boxscore,Win,0,Away,Dolphins,24,16,20,30,156,2,0,3,19,5.8,4.7,66.7,101.5,17,78,4.6,1,1,1,1,2,10,441,2,12,0,0,24:31,2022,Vikings
+6,8,Sun,2022-10-30,boxscore,Win,0,Home,Cardinals,34,26,24,36,208,2,0,3,24,6.4,5.3,66.7,100.2,29,173,6.0,3,0,1,4,5,5,233,6,13,0,1,29:27,2022,Vikings
+7,9,Sun,2022-11-06,boxscore,Win,0,Away,Commanders,20,17,23,41,245,2,1,2,17,6.4,5.7,56.1,79.8,22,56,2.5,0,2,2,2,2,6,310,7,16,0,0,29:13,2022,Vikings
+8,10,Sun,2022-11-13,boxscore,Win,1,Away,Bills,33,30,30,50,334,1,2,4,23,7.1,6.2,60.0,69.9,25,147,5.9,2,2,2,3,4,3,149,7,17,3,5,35:02,2022,Vikings
+9,11,Sun,2022-11-20,boxscore,Loss,0,Home,Cowboys,3,40,17,30,110,0,0,7,49,5.3,3.0,56.7,64.6,17,73,4.3,0,1,1,0,0,7,338,1,11,0,0,22:36,2022,Vikings
+10,12,Thu,2022-11-24,boxscore,Win,0,Home,Patriots,33,26,31,38,301,3,1,1,9,8.2,7.7,81.6,115.0,27,57,2.1,0,2,2,3,4,3,158,8,15,0,0,36:17,2022,Vikings
+11,13,Sun,2022-12-04,boxscore,Win,0,Home,Jets,27,22,21,35,159,1,0,2,14,4.9,4.3,60.0,80.5,29,128,4.4,2,2,2,3,3,6,292,9,18,1,1,28:22,2022,Vikings
+12,14,Sun,2022-12-11,boxscore,Loss,0,Away,Lions,23,34,31,41,394,2,0,4,31,10.4,8.8,75.6,121.4,17,22,1.3,1,1,1,2,2,3,159,4,10,1,2,28:06,2022,Vikings
+13,15,Sat,2022-12-17,boxscore,Win,1,Home,Colts,39,36,34,55,426,4,2,7,34,8.4,6.9,61.8,95.0,24,92,3.8,1,1,1,4,4,6,231,5,15,0,3,33:20,2022,Vikings
+14,16,Sat,2022-12-24,boxscore,Win,0,Home,Giants,27,24,34,48,270,3,0,4,29,6.2,5.2,70.8,105.4,19,83,4.4,0,2,2,3,3,5,241,6,13,0,1,30:47,2022,Vikings
+15,17,Sun,2023-01-01,boxscore,Loss,0,Away,Packers,17,41,22,35,244,2,3,2,18,7.5,6.6,62.9,66.8,20,102,5.1,0,1,3,2,2,2,95,5,12,1,2,25:56,2022,Vikings
+16,18,Sun,2023-01-08,boxscore,Win,0,Away,Bears,29,13,28,33,341,1,1,0,0,10.3,10.3,84.8,107.2,38,141,3.7,2,3,3,2,3,1,35,6,11,0,0,36:36,2022,Vikings

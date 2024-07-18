@@ -1,0 +1,18 @@
+,Week,Day,Date,Boxscore,Win/Loss,Overtime,Home/Away,Opponent,Team Score,Opponenet Score,Passing Completion,Passing Attempts,Passing Yards,Passing Touchdowns,Passing Interceptions,Passing Sacks,Sack Yards,Passing Yards/Attempts,Net Yards/Attempts,Passing Completion Per.,Passing Rate,Rushing Attempts,Rushing Yards,Rushing Yards/Attempts,Rushing Touchdown,Field Goals Made,Field Goals Attempts,Extra Points Made,Extra Point Attempts,Punts,Total Punt Yards,Third Down Conversions,Third Down Attempts,Fourth Down Conversions,Fourth Down Attemtps,Time of Possesion,Year,Team
+0,1,Sun,2022-09-11,boxscore,Loss,0,Home,Saints,26,27,20,33,215,0,0,0,0,6.5,6.5,60.6,79.7,38,201,5.3,2,4,5,2,2,4,180,5,13,0,0,33:44,2022,Falcons
+1,2,Sun,2022-09-18,boxscore,Loss,0,Away,Rams,27,31,17,26,171,2,2,3,25,7.5,5.9,65.4,77.6,27,90,3.3,0,1,2,2,2,1,44,3,10,1,2,29:36,2022,Falcons
+2,3,Sun,2022-09-25,boxscore,Win,0,Away,Seahawks,27,23,13,20,207,1,1,3,22,11.5,9.0,65.0,95.2,31,179,5.8,2,2,2,3,3,1,73,4,7,0,0,28:14,2022,Falcons
+3,4,Sun,2022-10-02,boxscore,Win,0,Home,Browns,23,20,7,19,131,0,1,1,8,7.3,6.6,36.8,39.6,35,202,5.8,2,3,3,2,2,3,153,3,9,0,0,24:16,2022,Falcons
+4,5,Sun,2022-10-09,boxscore,Loss,0,Away,Buccaneers,15,21,14,25,110,1,0,5,37,5.9,3.7,56.0,80.4,31,151,4.9,1,0,1,1,1,6,290,6,14,1,1,30:34,2022,Falcons
+5,6,Sun,2022-10-16,boxscore,Win,0,Home,49ers,28,14,13,14,121,2,0,2,8,9.2,7.6,92.9,142.3,40,168,4.2,1,0,0,4,4,5,215,9,14,0,0,33:25,2022,Falcons
+6,7,Sun,2022-10-23,boxscore,Loss,0,Away,Bengals,17,35,8,13,107,1,0,3,17,9.5,6.7,61.5,113.3,29,107,3.7,1,1,1,2,2,6,282,4,10,0,0,26:55,2022,Falcons
+7,8,Sun,2022-10-30,boxscore,Win,1,Home,Panthers,37,34,20,28,239,3,2,2,14,9.0,8.0,71.4,103.1,37,167,4.5,0,3,3,4,4,4,210,6,12,0,0,36:34,2022,Falcons
+8,9,Sun,2022-11-06,boxscore,Loss,0,Home,Chargers,17,20,12,23,114,0,0,2,15,5.6,4.6,52.2,66.2,35,201,5.7,2,1,2,2,2,4,204,5,11,0,0,31:49,2022,Falcons
+9,10,Thu,2022-11-10,boxscore,Loss,0,Away,Panthers,15,25,19,30,153,2,1,5,33,6.2,4.4,63.3,84.4,25,138,5.5,0,1,1,0,2,5,174,3,11,0,2,25:48,2022,Falcons
+10,11,Sun,2022-11-20,boxscore,Win,0,Home,Bears,27,24,13,20,131,1,0,0,0,6.6,6.6,65.0,100.2,33,149,4.5,1,2,2,3,3,3,139,2,9,1,1,24:50,2022,Falcons
+11,12,Sun,2022-11-27,boxscore,Loss,0,Away,Commanders,13,19,15,25,165,1,1,1,9,7.0,6.3,60.0,76.2,29,167,5.8,0,2,3,1,1,3,122,4,10,0,1,26:51,2022,Falcons
+12,13,Sun,2022-12-04,boxscore,Loss,0,Home,Steelers,16,19,13,24,160,1,1,1,7,7.0,6.4,54.2,71.5,28,146,5.2,0,3,3,1,1,3,137,3,10,1,1,27:05,2022,Falcons
+13,15,Sun,2022-12-18,boxscore,Loss,0,Away,Saints,18,21,13,26,89,0,0,4,8,3.7,3.0,50.0,58.0,39,231,5.9,2,1,1,1,1,5,208,9,16,0,1,30:56,2022,Falcons
+14,16,Sat,2022-12-24,boxscore,Loss,0,Away,Ravens,9,17,22,33,212,0,0,2,6,6.6,6.1,66.7,84.4,33,115,3.5,0,3,3,0,0,3,112,5,14,1,4,32:44,2022,Falcons
+15,17,Sun,2023-01-01,boxscore,Win,0,Home,Cardinals,20,19,19,26,166,0,0,1,3,6.5,6.1,73.1,89.6,34,132,3.9,2,2,2,2,2,3,148,5,11,1,2,32:24,2022,Falcons
+16,18,Sun,2023-01-08,boxscore,Win,0,Home,Buccaneers,30,17,19,30,208,2,0,2,16,7.5,6.5,63.3,106.0,35,174,5.0,1,3,3,3,3,3,154,6,15,3,3,34:49,2022,Falcons

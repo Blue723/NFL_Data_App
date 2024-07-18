@@ -1,7 +1,7 @@
-,Rk,Date,G#,Week,Age,Tm,Unnamed: 6_level_1,Opp,Result,Int,Tgt,Cmp,Cmp%,Yds,Yds/Cmp,Yds/Tgt,TD,Rat,DADOT,Air,YAC,Bltz,Hrry,QBKD,Sk,Prss,Comb,MTkl,MTkl%,Year
-0,1.0,2022-09-18,2.0,2.0,23.23,SEA,@,SFO,L 7-27,0,0,0,,0.0,,,0.0,,,0.0,0.0,0,0,0,,0,,0,,2022
-1,2.0,2022-09-25,3.0,3.0,23.237,SEA,,ATL,L 23-27,0,0,0,,0.0,,,0.0,,,0.0,0.0,0,0,0,0.0,0,1.0,0,0.0%,2022
-2,3.0,2022-10-02,4.0,4.0,23.244,SEA,@,DET,W 48-45,0,0,0,,0.0,,,0.0,,,0.0,0.0,0,0,0,,0,,0,,2022
-3,4.0,2022-10-09,5.0,5.0,23.251,SEA,@,NOR,L 32-39,0,0,0,,0.0,,,0.0,,,0.0,0.0,0,0,0,,0,,0,,2022
-4,5.0,2022-10-16,6.0,6.0,23.258,SEA,,ARI,W 19-9,0,0,0,,0.0,,,0.0,,,0.0,0.0,0,0,0,0.0,0,1.0,0,0.0%,2022
-5,,5 Games,,,,,,,2-3-0,0,0,0,,,,,,,,,,0,0,0,0.0,0,2.0,0,0.0%,2022
+,Rk,Date,G#,Week,Age,Tm,Unnamed: 6_level_1,Opp,Result,Int,Tgt,Cmp,Cmp%,Yds,Yds/Cmp,Yds/Tgt,TD,Rat,DADOT,Air,YAC,Bltz,Hrry,QBKD,Sk,Prss,Comb,MTkl,MTkl%,Year,Position,Player_Name,Team
+0,1.0,2022-09-18,2.0,2.0,23.23,SEA,@,SFO,L 7-27,0,0,0,,0.0,,,0.0,,,0.0,0.0,0,0,0,,0,,0,,2022,Defensive Back,Isaiah Dunn,Seahawks
+1,2.0,2022-09-25,3.0,3.0,23.237,SEA,,ATL,L 23-27,0,0,0,,0.0,,,0.0,,,0.0,0.0,0,0,0,0.0,0,1.0,0,0.0%,2022,Defensive Back,Isaiah Dunn,Seahawks
+2,3.0,2022-10-02,4.0,4.0,23.244,SEA,@,DET,W 48-45,0,0,0,,0.0,,,0.0,,,0.0,0.0,0,0,0,,0,,0,,2022,Defensive Back,Isaiah Dunn,Seahawks
+3,4.0,2022-10-09,5.0,5.0,23.251,SEA,@,NOR,L 32-39,0,0,0,,0.0,,,0.0,,,0.0,0.0,0,0,0,,0,,0,,2022,Defensive Back,Isaiah Dunn,Seahawks
+4,5.0,2022-10-16,6.0,6.0,23.258,SEA,,ARI,W 19-9,0,0,0,,0.0,,,0.0,,,0.0,0.0,0,0,0,0.0,0,1.0,0,0.0%,2022,Defensive Back,Isaiah Dunn,Seahawks
+5,,5 Games,,,,,,,2-3-0,0,0,0,,,,,,,,,,0,0,0,0.0,0,2.0,0,0.0%,2022,Defensive Back,Isaiah Dunn,Seahawks

@@ -1,9 +1,9 @@
-,Rk,Date,G#,Week,Age,Tm,Unnamed: 6_level_1,Opp,Result,Int,Tgt,Cmp,Cmp%,Yds,Yds/Cmp,Yds/Tgt,TD,Rat,DADOT,Air,YAC,Bltz,Hrry,QBKD,Sk,Prss,Comb,MTkl,MTkl%,Year
-0,1.0,2022-10-23,7.0,7.0,27.066,KAN,@,SFO,W 44-23,0,0,0,,0,,,0,,,0,0,0,0,1,0.0,1,0.0,0,,2022
-1,2.0,2022-11-06,8.0,9.0,27.08,KAN,,TEN,W 20-17,0,0,0,,0,,,0,,,0,0,0,0,0,0.0,0,2.0,0,0.0%,2022
-2,3.0,2022-11-13,9.0,10.0,27.087,KAN,,JAX,W 27-17,0,0,0,,0,,,0,,,0,0,0,0,0,,0,,0,,2022
-3,4.0,2022-11-20,10.0,11.0,27.094,KAN,@,LAC,W 30-27,0,0,0,,0,,,0,,,0,0,0,0,0,,0,,0,,2022
-4,5.0,2022-11-27,11.0,12.0,27.101,KAN,,LAR,W 26-10,0,0,0,,0,,,0,,,0,0,0,0,0,0.0,0,1.0,0,0.0%,2022
-5,6.0,2022-12-04,12.0,13.0,27.108,KAN,@,CIN,L 24-27,0,0,0,,0,,,0,,,0,0,0,0,0,0.0,0,1.0,0,0.0%,2022
-6,7.0,2022-12-11,13.0,14.0,27.115,HOU,@,DAL,L 23-27,0,1,1,100.0%,5,5.0,5.0,0,87.5,1.0,1,4,0,0,0,0.0,0,4.0,0,0.0%,2022
-7,,7 Games,,,,,,,5-2-0,0,1,1,100.0%,5,5.0,5.0,0,87.5,1.0,1,4,0,0,1,0.0,1,8.0,0,0.0%,2022
+,Rk,Date,G#,Week,Age,Tm,Unnamed: 6_level_1,Opp,Result,Int,Tgt,Cmp,Cmp%,Yds,Yds/Cmp,Yds/Tgt,TD,Rat,DADOT,Air,YAC,Bltz,Hrry,QBKD,Sk,Prss,Comb,MTkl,MTkl%,Year,Position,Player_Name,Team
+0,1.0,2022-10-23,7.0,7.0,27.066,KAN,@,SFO,W 44-23,0,0,0,,0,,,0,,,0,0,0,0,1,0.0,1,0.0,0,,2022,Left Defensive Tackle,Taylor Stallworth,Chiefs
+1,2.0,2022-11-06,8.0,9.0,27.08,KAN,,TEN,W 20-17,0,0,0,,0,,,0,,,0,0,0,0,0,0.0,0,2.0,0,0.0%,2022,Left Defensive Tackle,Taylor Stallworth,Chiefs
+2,3.0,2022-11-13,9.0,10.0,27.087,KAN,,JAX,W 27-17,0,0,0,,0,,,0,,,0,0,0,0,0,,0,,0,,2022,Left Defensive Tackle,Taylor Stallworth,Chiefs
+3,4.0,2022-11-20,10.0,11.0,27.094,KAN,@,LAC,W 30-27,0,0,0,,0,,,0,,,0,0,0,0,0,,0,,0,,2022,Left Defensive Tackle,Taylor Stallworth,Chiefs
+4,5.0,2022-11-27,11.0,12.0,27.101,KAN,,LAR,W 26-10,0,0,0,,0,,,0,,,0,0,0,0,0,0.0,0,1.0,0,0.0%,2022,Left Defensive Tackle,Taylor Stallworth,Chiefs
+5,6.0,2022-12-04,12.0,13.0,27.108,KAN,@,CIN,L 24-27,0,0,0,,0,,,0,,,0,0,0,0,0,0.0,0,1.0,0,0.0%,2022,Left Defensive Tackle,Taylor Stallworth,Chiefs
+6,7.0,2022-12-11,13.0,14.0,27.115,HOU,@,DAL,L 23-27,0,1,1,100.0%,5,5.0,5.0,0,87.5,1.0,1,4,0,0,0,0.0,0,4.0,0,0.0%,2022,Left Defensive Tackle,Taylor Stallworth,Chiefs
+7,,7 Games,,,,,,,5-2-0,0,1,1,100.0%,5,5.0,5.0,0,87.5,1.0,1,4,0,0,1,0.0,1,8.0,0,0.0%,2022,Left Defensive Tackle,Taylor Stallworth,Chiefs

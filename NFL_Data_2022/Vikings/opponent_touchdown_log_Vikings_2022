@@ -1,46 +1,46 @@
-,Rank,Team,Date,Opponent,Win/Loss,Home_Score,Opponenet_Score,Quarter,Distance,Type,Detail
-1,1,Vikings,2022-09-11,GNB,Win,23,7,3,2,rush,AJ Dillon
-2,2,Vikings,2022-09-19,PHI,Loss,7,24,1,3,rush,Jalen Hurts
-3,3,Vikings,2022-09-19,PHI,Loss,7,24,2,53,pass,Quez Watkins
-4,4,Vikings,2022-09-19,PHI,Loss,7,24,2,26,rush,Jalen Hurts
-5,5,Vikings,2022-09-25,DET,Win,28,24,1,2,rush,Jamaal Williams
-6,6,Vikings,2022-09-25,DET,Win,28,24,2,5,pass,T.J. Hockenson
-7,7,Vikings,2022-09-25,DET,Win,28,24,3,13,rush,Jamaal Williams
-8,8,Vikings,2022-10-02,NOR,Win,28,25,2,4,pass,Chris Olave
-9,9,Vikings,2022-10-02,NOR,Win,28,25,3,1,rush,Latavius Murray
-10,10,Vikings,2022-10-02,NOR,Win,28,25,4,2,rush,Taysom Hill
-11,11,Vikings,2022-10-09,CHI,Win,29,22,2,9,rush,David Montgomery
-12,12,Vikings,2022-10-09,CHI,Win,29,22,3,9,pass,Velus Jones Jr.
-13,13,Vikings,2022-10-16,MIA,Win,24,16,4,4,pass,Mike Gesicki
-14,14,Vikings,2022-10-16,MIA,Win,24,16,4,3,pass,Mike Gesicki
-15,15,Vikings,2022-10-30,ARI,Win,34,26,2,6,pass,DeAndre Hopkins
-16,16,Vikings,2022-10-30,ARI,Win,34,26,3,8,pass,Zach Ertz
-17,17,Vikings,2022-10-30,ARI,Win,34,26,3,38,pass,Rondale Moore
-18,18,Vikings,2022-11-06,WAS,Win,20,17,3,49,pass,Curtis Samuel
-19,19,Vikings,2022-11-06,WAS,Win,20,17,4,6,pass,Dax Milne
-20,20,Vikings,2022-11-13,BUF,Win,33,30,1,5,rush,Devin Singletary
-21,21,Vikings,2022-11-13,BUF,Win,33,30,1,1,rush,Devin Singletary
-22,22,Vikings,2022-11-13,BUF,Win,33,30,2,11,pass,Gabriel Davis
-23,23,Vikings,2022-11-20,DAL,Loss,3,40,1,1,rush,Ezekiel Elliott
-24,24,Vikings,2022-11-20,DAL,Loss,3,40,2,30,pass,Tony Pollard
-25,25,Vikings,2022-11-20,DAL,Loss,3,40,3,68,pass,Tony Pollard
-26,26,Vikings,2022-11-20,DAL,Loss,3,40,3,1,rush,Ezekiel Elliott
-27,27,Vikings,2022-11-24,NWE,Win,33,26,1,34,pass,Nelson Agholor
-28,28,Vikings,2022-11-24,NWE,Win,33,26,3,37,pass,Hunter Henry
-29,29,Vikings,2022-12-04,NYJ,Win,27,22,4,1,rush,Mike White
-30,30,Vikings,2022-12-11,DET,Loss,23,34,1,41,pass,Jameson Williams
-31,31,Vikings,2022-12-11,DET,Loss,23,34,2,48,pass,DJ Chark
-32,32,Vikings,2022-12-11,DET,Loss,23,34,3,5,pass,Josh Reynolds
-33,33,Vikings,2022-12-11,DET,Loss,23,34,4,15,rush,Justin Jackson
-34,34,Vikings,2022-12-17,IND,Win,39,36,1,24,blocked punt,JoJo Domann
-35,35,Vikings,2022-12-17,IND,Win,39,36,1,1,pass,Deon Jackson
-36,36,Vikings,2022-12-17,IND,Win,39,36,2,17,interception,Julian Blackmon
-37,37,Vikings,2022-12-24,NYG,Win,27,24,2,7,pass,Isaiah Hodgins
-38,38,Vikings,2022-12-24,NYG,Win,27,24,4,27,rush,Saquon Barkley
-39,39,Vikings,2023-01-01,GNB,Loss,17,41,1,105,kickoff,Keisean Nixon
-40,40,Vikings,2023-01-01,GNB,Loss,17,41,1,75,interception,Darnell Savage Jr.
-41,41,Vikings,2023-01-01,GNB,Loss,17,41,2,21,pass,Robert Tonyan
-42,42,Vikings,2023-01-01,GNB,Loss,17,41,4,2,rush,AJ Dillon
-43,43,Vikings,2023-01-01,GNB,Loss,17,41,4,2,rush,Aaron Rodgers
-44,44,Vikings,2023-01-08,CHI,Win,29,13,2,42,rush,Velus Jones Jr.
-45,45,Vikings,2023-01-08,CHI,Win,29,13,3,11,pass,Cole Kmet
+,Rank,Team,Date,Opponent,Win/Loss,Home_Score,Opponenet_Score,Quarter,Distance,Type,Detail,Year
+1,1,Vikings,2022-09-11,GNB,Win,23,7,3,2,rush,AJ Dillon,2022
+2,2,Vikings,2022-09-19,PHI,Loss,7,24,1,3,rush,Jalen Hurts,2022
+3,3,Vikings,2022-09-19,PHI,Loss,7,24,2,53,pass,Quez Watkins,2022
+4,4,Vikings,2022-09-19,PHI,Loss,7,24,2,26,rush,Jalen Hurts,2022
+5,5,Vikings,2022-09-25,DET,Win,28,24,1,2,rush,Jamaal Williams,2022
+6,6,Vikings,2022-09-25,DET,Win,28,24,2,5,pass,T.J. Hockenson,2022
+7,7,Vikings,2022-09-25,DET,Win,28,24,3,13,rush,Jamaal Williams,2022
+8,8,Vikings,2022-10-02,NOR,Win,28,25,2,4,pass,Chris Olave,2022
+9,9,Vikings,2022-10-02,NOR,Win,28,25,3,1,rush,Latavius Murray,2022
+10,10,Vikings,2022-10-02,NOR,Win,28,25,4,2,rush,Taysom Hill,2022
+11,11,Vikings,2022-10-09,CHI,Win,29,22,2,9,rush,David Montgomery,2022
+12,12,Vikings,2022-10-09,CHI,Win,29,22,3,9,pass,Velus Jones Jr.,2022
+13,13,Vikings,2022-10-16,MIA,Win,24,16,4,4,pass,Mike Gesicki,2022
+14,14,Vikings,2022-10-16,MIA,Win,24,16,4,3,pass,Mike Gesicki,2022
+15,15,Vikings,2022-10-30,ARI,Win,34,26,2,6,pass,DeAndre Hopkins,2022
+16,16,Vikings,2022-10-30,ARI,Win,34,26,3,8,pass,Zach Ertz,2022
+17,17,Vikings,2022-10-30,ARI,Win,34,26,3,38,pass,Rondale Moore,2022
+18,18,Vikings,2022-11-06,WAS,Win,20,17,3,49,pass,Curtis Samuel,2022
+19,19,Vikings,2022-11-06,WAS,Win,20,17,4,6,pass,Dax Milne,2022
+20,20,Vikings,2022-11-13,BUF,Win,33,30,1,5,rush,Devin Singletary,2022
+21,21,Vikings,2022-11-13,BUF,Win,33,30,1,1,rush,Devin Singletary,2022
+22,22,Vikings,2022-11-13,BUF,Win,33,30,2,11,pass,Gabriel Davis,2022
+23,23,Vikings,2022-11-20,DAL,Loss,3,40,1,1,rush,Ezekiel Elliott,2022
+24,24,Vikings,2022-11-20,DAL,Loss,3,40,2,30,pass,Tony Pollard,2022
+25,25,Vikings,2022-11-20,DAL,Loss,3,40,3,68,pass,Tony Pollard,2022
+26,26,Vikings,2022-11-20,DAL,Loss,3,40,3,1,rush,Ezekiel Elliott,2022
+27,27,Vikings,2022-11-24,NWE,Win,33,26,1,34,pass,Nelson Agholor,2022
+28,28,Vikings,2022-11-24,NWE,Win,33,26,3,37,pass,Hunter Henry,2022
+29,29,Vikings,2022-12-04,NYJ,Win,27,22,4,1,rush,Mike White,2022
+30,30,Vikings,2022-12-11,DET,Loss,23,34,1,41,pass,Jameson Williams,2022
+31,31,Vikings,2022-12-11,DET,Loss,23,34,2,48,pass,DJ Chark,2022
+32,32,Vikings,2022-12-11,DET,Loss,23,34,3,5,pass,Josh Reynolds,2022
+33,33,Vikings,2022-12-11,DET,Loss,23,34,4,15,rush,Justin Jackson,2022
+34,34,Vikings,2022-12-17,IND,Win,39,36,1,24,blocked punt,JoJo Domann,2022
+35,35,Vikings,2022-12-17,IND,Win,39,36,1,1,pass,Deon Jackson,2022
+36,36,Vikings,2022-12-17,IND,Win,39,36,2,17,interception,Julian Blackmon,2022
+37,37,Vikings,2022-12-24,NYG,Win,27,24,2,7,pass,Isaiah Hodgins,2022
+38,38,Vikings,2022-12-24,NYG,Win,27,24,4,27,rush,Saquon Barkley,2022
+39,39,Vikings,2023-01-01,GNB,Loss,17,41,1,105,kickoff,Keisean Nixon,2022
+40,40,Vikings,2023-01-01,GNB,Loss,17,41,1,75,interception,Darnell Savage Jr.,2022
+41,41,Vikings,2023-01-01,GNB,Loss,17,41,2,21,pass,Robert Tonyan,2022
+42,42,Vikings,2023-01-01,GNB,Loss,17,41,4,2,rush,AJ Dillon,2022
+43,43,Vikings,2023-01-01,GNB,Loss,17,41,4,2,rush,Aaron Rodgers,2022
+44,44,Vikings,2023-01-08,CHI,Win,29,13,2,42,rush,Velus Jones Jr.,2022
+45,45,Vikings,2023-01-08,CHI,Win,29,13,3,11,pass,Cole Kmet,2022

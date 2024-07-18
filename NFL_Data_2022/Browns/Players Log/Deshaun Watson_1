@@ -1,8 +1,8 @@
-,Rk,Date,G#,Week,Age,Tm,Unnamed: 6_level_1,Opp,Result,Att,Yds,TD,1D,YBC,YBC/Att,YAC,YAC/Att,BrkTkl,Att/Br,Year
-0,1.0,2022-12-04,12.0,13.0,27.081,CLE,@,HOU,W 27-14,7,21,0,0,15,2.1,6,0.9,0,,2022
-1,2.0,2022-12-11,13.0,14.0,27.088,CLE,@,CIN,L 10-23,6,33,0,4,24,4.0,9,1.5,0,,2022
-2,3.0,2022-12-17,14.0,15.0,27.094,CLE,,BAL,W 13-3,6,22,0,2,20,3.3,2,0.3,0,,2022
-3,4.0,2022-12-24,15.0,16.0,27.101,CLE,,NOR,L 10-17,3,24,1,1,17,5.7,7,2.3,0,,2022
-4,5.0,2023-01-01,16.0,17.0,27.109,CLE,@,WAS,W 24-10,8,31,0,2,20,2.5,11,1.4,0,,2022
-5,6.0,2023-01-08,17.0,18.0,27.116,CLE,@,PIT,L 14-28,6,44,0,1,44,7.3,0,0.0,0,,2022
-6,,6 Games,,,,,,,3-3-0,36,175,1,10,140,3.9,35,1.0,0,,2022
+,Rk,Date,G#,Week,Age,Tm,Unnamed: 6_level_1,Opp,Result,Att,Yds,TD,1D,YBC,YBC/Att,YAC,YAC/Att,BrkTkl,Att/Br,Year,Position,Player_Name,Team
+0,1.0,2022-12-04,12.0,13.0,27.081,CLE,@,HOU,W 27-14,7,21,0,0,15,2.1,6,0.9,0,,2022,Quarterback,Deshaun Watson,Browns
+1,2.0,2022-12-11,13.0,14.0,27.088,CLE,@,CIN,L 10-23,6,33,0,4,24,4.0,9,1.5,0,,2022,Quarterback,Deshaun Watson,Browns
+2,3.0,2022-12-17,14.0,15.0,27.094,CLE,,BAL,W 13-3,6,22,0,2,20,3.3,2,0.3,0,,2022,Quarterback,Deshaun Watson,Browns
+3,4.0,2022-12-24,15.0,16.0,27.101,CLE,,NOR,L 10-17,3,24,1,1,17,5.7,7,2.3,0,,2022,Quarterback,Deshaun Watson,Browns
+4,5.0,2023-01-01,16.0,17.0,27.109,CLE,@,WAS,W 24-10,8,31,0,2,20,2.5,11,1.4,0,,2022,Quarterback,Deshaun Watson,Browns
+5,6.0,2023-01-08,17.0,18.0,27.116,CLE,@,PIT,L 14-28,6,44,0,1,44,7.3,0,0.0,0,,2022,Quarterback,Deshaun Watson,Browns
+6,,6 Games,,,,,,,3-3-0,36,175,1,10,140,3.9,35,1.0,0,,2022,Quarterback,Deshaun Watson,Browns

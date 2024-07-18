@@ -1,37 +1,37 @@
-,Rank,Team,Date,Opponent,Win/Loss,Home_Score,Opponenet_Score,Quarter,Distance,Type,Detail
-1,1,Commanders,2022-09-11,JAX,Win,28,22,1,3,pass,Curtis Samuel
-2,2,Commanders,2022-09-11,JAX,Win,28,22,2,7,pass,Jahan Dotson
-3,3,Commanders,2022-09-11,JAX,Win,28,22,4,49,pass,Terry McLaurin
-4,4,Commanders,2022-09-11,JAX,Win,28,22,4,24,pass,Jahan Dotson
-5,5,Commanders,2022-09-18,DET,Loss,27,36,3,15,pass,Curtis Samuel
-6,6,Commanders,2022-09-18,DET,Loss,27,36,3,20,pass,Logan Thomas
-7,7,Commanders,2022-09-18,DET,Loss,27,36,4,1,rush,Antonio Gibson
-8,8,Commanders,2022-09-18,DET,Loss,27,36,4,1,pass,Jahan Dotson
-9,9,Commanders,2022-09-25,PHI,Loss,8,24,4,1,rush,Antonio Gibson
-10,10,Commanders,2022-10-02,DAL,Loss,10,25,2,10,pass,Jahan Dotson
-11,11,Commanders,2022-10-09,TEN,Loss,17,21,2,75,pass,Dyami Brown
-12,12,Commanders,2022-10-09,TEN,Loss,17,21,3,30,pass,Dyami Brown
-13,13,Commanders,2022-10-13,CHI,Win,12,7,4,1,rush,Brian Robinson Jr.
-14,14,Commanders,2022-10-23,GNB,Win,23,21,2,9,pass,Antonio Gibson
-15,15,Commanders,2022-10-23,GNB,Win,23,21,3,37,pass,Terry McLaurin
-16,16,Commanders,2022-10-30,IND,Win,17,16,2,9,pass,Antonio Gibson
-17,17,Commanders,2022-10-30,IND,Win,17,16,4,1,rush,Taylor Heinicke
-18,18,Commanders,2022-11-06,MIN,Loss,17,20,3,49,pass,Curtis Samuel
-19,19,Commanders,2022-11-06,MIN,Loss,17,20,4,6,pass,Dax Milne
-20,20,Commanders,2022-11-14,PHI,Win,32,21,1,1,rush,Antonio Gibson
-21,21,Commanders,2022-11-14,PHI,Win,32,21,2,1,rush,Brian Robinson Jr.
-22,22,Commanders,2022-11-14,PHI,Win,32,21,4,1,fumble,Casey Toohill
-23,23,Commanders,2022-11-20,HOU,Win,23,10,1,37,interception,Kendall Fuller
-24,24,Commanders,2022-11-20,HOU,Win,23,10,2,10,rush,Curtis Samuel
-25,25,Commanders,2022-11-27,ATL,Win,19,13,1,14,pass,Brian Robinson Jr.
-26,26,Commanders,2022-11-27,ATL,Win,19,13,3,16,pass,John Bates
-27,27,Commanders,2022-12-04,NYG,T,20,20,1,19,pass,Terry McLaurin
-28,28,Commanders,2022-12-04,NYG,T,20,20,4,28,pass,Jahan Dotson
-29,29,Commanders,2022-12-18,NYG,Loss,12,20,3,19,pass,Jahan Dotson
-30,30,Commanders,2022-12-24,SFO,Loss,20,37,2,4,pass,Jahan Dotson
-31,31,Commanders,2022-12-24,SFO,Loss,20,37,3,3,pass,Terry McLaurin
-32,32,Commanders,2022-12-24,SFO,Loss,20,37,4,20,pass,Curtis Samuel
-33,33,Commanders,2023-01-01,CLE,Loss,10,24,2,1,rush,Carson Wentz
-34,34,Commanders,2023-01-08,DAL,Win,26,6,1,16,pass,Terry McLaurin
-35,35,Commanders,2023-01-08,DAL,Win,26,6,2,29,interception,Kendall Fuller
-36,36,Commanders,2023-01-08,DAL,Win,26,6,3,9,rush,Sam Howell
+,Rank,Team,Date,Opponent,Win/Loss,Home_Score,Opponenet_Score,Quarter,Distance,Type,Detail,Year
+1,1,Commanders,2022-09-11,JAX,Win,28,22,1,3,pass,Curtis Samuel,2022
+2,2,Commanders,2022-09-11,JAX,Win,28,22,2,7,pass,Jahan Dotson,2022
+3,3,Commanders,2022-09-11,JAX,Win,28,22,4,49,pass,Terry McLaurin,2022
+4,4,Commanders,2022-09-11,JAX,Win,28,22,4,24,pass,Jahan Dotson,2022
+5,5,Commanders,2022-09-18,DET,Loss,27,36,3,15,pass,Curtis Samuel,2022
+6,6,Commanders,2022-09-18,DET,Loss,27,36,3,20,pass,Logan Thomas,2022
+7,7,Commanders,2022-09-18,DET,Loss,27,36,4,1,rush,Antonio Gibson,2022
+8,8,Commanders,2022-09-18,DET,Loss,27,36,4,1,pass,Jahan Dotson,2022
+9,9,Commanders,2022-09-25,PHI,Loss,8,24,4,1,rush,Antonio Gibson,2022
+10,10,Commanders,2022-10-02,DAL,Loss,10,25,2,10,pass,Jahan Dotson,2022
+11,11,Commanders,2022-10-09,TEN,Loss,17,21,2,75,pass,Dyami Brown,2022
+12,12,Commanders,2022-10-09,TEN,Loss,17,21,3,30,pass,Dyami Brown,2022
+13,13,Commanders,2022-10-13,CHI,Win,12,7,4,1,rush,Brian Robinson Jr.,2022
+14,14,Commanders,2022-10-23,GNB,Win,23,21,2,9,pass,Antonio Gibson,2022
+15,15,Commanders,2022-10-23,GNB,Win,23,21,3,37,pass,Terry McLaurin,2022
+16,16,Commanders,2022-10-30,IND,Win,17,16,2,9,pass,Antonio Gibson,2022
+17,17,Commanders,2022-10-30,IND,Win,17,16,4,1,rush,Taylor Heinicke,2022
+18,18,Commanders,2022-11-06,MIN,Loss,17,20,3,49,pass,Curtis Samuel,2022
+19,19,Commanders,2022-11-06,MIN,Loss,17,20,4,6,pass,Dax Milne,2022
+20,20,Commanders,2022-11-14,PHI,Win,32,21,1,1,rush,Antonio Gibson,2022
+21,21,Commanders,2022-11-14,PHI,Win,32,21,2,1,rush,Brian Robinson Jr.,2022
+22,22,Commanders,2022-11-14,PHI,Win,32,21,4,1,fumble,Casey Toohill,2022
+23,23,Commanders,2022-11-20,HOU,Win,23,10,1,37,interception,Kendall Fuller,2022
+24,24,Commanders,2022-11-20,HOU,Win,23,10,2,10,rush,Curtis Samuel,2022
+25,25,Commanders,2022-11-27,ATL,Win,19,13,1,14,pass,Brian Robinson Jr.,2022
+26,26,Commanders,2022-11-27,ATL,Win,19,13,3,16,pass,John Bates,2022
+27,27,Commanders,2022-12-04,NYG,T,20,20,1,19,pass,Terry McLaurin,2022
+28,28,Commanders,2022-12-04,NYG,T,20,20,4,28,pass,Jahan Dotson,2022
+29,29,Commanders,2022-12-18,NYG,Loss,12,20,3,19,pass,Jahan Dotson,2022
+30,30,Commanders,2022-12-24,SFO,Loss,20,37,2,4,pass,Jahan Dotson,2022
+31,31,Commanders,2022-12-24,SFO,Loss,20,37,3,3,pass,Terry McLaurin,2022
+32,32,Commanders,2022-12-24,SFO,Loss,20,37,4,20,pass,Curtis Samuel,2022
+33,33,Commanders,2023-01-01,CLE,Loss,10,24,2,1,rush,Carson Wentz,2022
+34,34,Commanders,2023-01-08,DAL,Win,26,6,1,16,pass,Terry McLaurin,2022
+35,35,Commanders,2023-01-08,DAL,Win,26,6,2,29,interception,Kendall Fuller,2022
+36,36,Commanders,2023-01-08,DAL,Win,26,6,3,9,rush,Sam Howell,2022
