@@ -54,33 +54,51 @@ team_names=[
 ]
 
 positions_dict = {
-    'QB': 'Quarter Back',
-    'RB': 'Running Back',
-    'WR': 'Wide Receiver',
-    'TE': 'Tight End',
-    'K': 'Kicker',
-    'DST': 'Defense and Special Teams',
-    'DL': 'Defensive Lineman',
-    'LB': 'Line Backer',
-    'DB': 'Defensive Back'
+    'Quarter Back': 'QB',
+    'Running Back': 'RB',
+    'Wide Receiver': 'WR',
+    'Tight End': 'TE',
+    'Kicker': 'K',
+    'Defense and Special Teams': 'DST',
+    'Defensive Lineman': 'DL',
+    'Line Backer': 'LB',
+    'Defensive Back': 'DB'
 }
 
-position_choices = list(positions_dict.values())
-position_abbrev = list(positions_dict.keys())
 
-# position = position_abbrev
-def player_df (year, week, position, player):
+position_abbrev = list(positions_dict.values())
+position_choices = list(positions_dict.keys())
 
-    file = f'Player Weekly Stats/{position}_Player_Weekly_Stats'
+def position_df (year, position):
+
+    file = f'Weekly Stats/{position}_Player_Weekly_Stats'
 
     df = pd.read_csv(file, index_col=0)
 
     query = f'''
         select * 
-        from {position}_Player_Weekly_Stats
+        from df
+        where Year = {year}
+    '''
+
+    df = duckdb.sql(query).df()
+    
+    return df
+
+
+# position = position_abbrev
+def player_df (year, week, position, player):
+
+    file = f'Weekly Stats/{position}_Player_Weekly_Stats'
+
+    df = pd.read_csv(file, index_col=0)
+
+    query = f'''
+        select * 
+        from df
         where (Week = {week}) 
         and (Year = {year}) 
-        and (Player = {player})
+        and (Player = '{player}')
     '''
 
     df = duckdb.sql(query).df()
@@ -89,11 +107,11 @@ def player_df (year, week, position, player):
 
 
 #bar chart
-def px_bar_charts(df: pd):
+def px_bar_charts(df: pd, column: str):
     try:
         fig1 = px.bar(
             df, 
-            x= 
+            x=df[column],
             y=df[column], 
             barmode='group',
             color=df['Player'],
@@ -122,25 +140,34 @@ def px_pie_charts(df, team, column):
     return st.plotly_chart(fig1)
 
 
-
-######### Data Frames
-
-
-
-
-
 ################### Players main st area
+
 st.set_page_config(page_title='Players', layout='wide', initial_sidebar_state='expanded')
-
-
 
 st.title('Player Results')
 
-#uer input dropdown boxes for year team and table
-year_select = st.sidebar.selectbox('Select Year', options=years)
-team_select = st.sidebar.selectbox('Select Team', options=team_names)
-table_select = st.sidebar.selectbox('Select Position', options=position_choices)
 
-#get select week
-sched_df = team_schedule(year_select, team_select)
-week_select = st.sidebar.selectbox('Select Week', sched_df['Week'])
+year_select = st.sidebar.selectbox('Select Year', options=years)
+position_select = st.sidebar.selectbox('Select Position', options=position_choices)
+position = positions_dict[position_select]
+
+# position dataframe
+# get player list
+#get week list
+pos_df =  position_df(year_select, position)
+
+#week select list
+week_li = range(pos_df['Week'].min(), pos_df['Week'].max()+1)
+
+#user input dropdown boxes for year team and table
+week_select = st.sidebar.selectbox('Select Week', options=week_li)
+
+#filter for players playing that week
+player_li = list(pos_df[pos_df['Week']==week_select]['Player'].unique())
+player_select = st.sidebar.selectbox('Select Player', options=player_li)
+
+
+######### Data Frames
+
+player = player_df(year_select, week_select, position, player_select)
+
