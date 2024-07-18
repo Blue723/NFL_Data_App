@@ -1,7 +1,7 @@
-,Rk,Date,G#,Week,Age,Tm,Unnamed: 6_level_1,Opp,Result,Int,Tgt,Cmp,Cmp%,Yds,Yds/Cmp,Yds/Tgt,TD,Rat,DADOT,Air,YAC,Bltz,Hrry,QBKD,Sk,Prss,Comb,MTkl,MTkl%,Year
-0,1.0,2019-12-01,12.0,13.0,24.115,NYG,,GNB,L 13-31,0,0,0,,0.0,,,0.0,,,0.0,0.0,0,0,0,0.0,0,0,0,,2019
-1,2.0,2019-12-09,13.0,14.0,24.123,NYG,@,PHI,L 17-23,0,0,0,,0.0,,,0.0,,,0.0,0.0,0,0,0,0.0,0,0,0,,2019
-2,3.0,2019-12-15,14.0,15.0,24.129,NYG,,MIA,W 36-20,0,0,0,,0.0,,,0.0,,,0.0,0.0,0,0,0,0.0,0,0,0,,2019
-3,4.0,2019-12-22,15.0,16.0,24.136,NYG,@,WAS,W 41-35,0,0,0,,0.0,,,0.0,,,0.0,0.0,0,0,0,0.0,0,0,0,,2019
-4,5.0,2019-12-29,16.0,17.0,24.143,NYG,,PHI,L 17-34,0,0,0,,0.0,,,0.0,,,0.0,0.0,0,0,0,0.0,0,1,0,0.0%,2019
-5,,5 Games,,,,,,,2-3-0,0,0,0,,,,,,,,,,0,0,0,0.0,0,1,0,0.0%,2019
+,Rk,Date,G#,Week,Age,Tm,Unnamed: 6_level_1,Opp,Result,Int,Tgt,Cmp,Cmp%,Yds,Yds/Cmp,Yds/Tgt,TD,Rat,DADOT,Air,YAC,Bltz,Hrry,QBKD,Sk,Prss,Comb,MTkl,MTkl%,Year,Position,Player_Name,Team
+0,1.0,2019-12-01,12.0,13.0,24.115,NYG,,GNB,L 13-31,0,0,0,,0.0,,,0.0,,,0.0,0.0,0,0,0,0.0,0,0,0,,2019,Wide Receiver,Da'Mari Scott,Giants
+1,2.0,2019-12-09,13.0,14.0,24.123,NYG,@,PHI,L 17-23,0,0,0,,0.0,,,0.0,,,0.0,0.0,0,0,0,0.0,0,0,0,,2019,Wide Receiver,Da'Mari Scott,Giants
+2,3.0,2019-12-15,14.0,15.0,24.129,NYG,,MIA,W 36-20,0,0,0,,0.0,,,0.0,,,0.0,0.0,0,0,0,0.0,0,0,0,,2019,Wide Receiver,Da'Mari Scott,Giants
+3,4.0,2019-12-22,15.0,16.0,24.136,NYG,@,WAS,W 41-35,0,0,0,,0.0,,,0.0,,,0.0,0.0,0,0,0,0.0,0,0,0,,2019,Wide Receiver,Da'Mari Scott,Giants
+4,5.0,2019-12-29,16.0,17.0,24.143,NYG,,PHI,L 17-34,0,0,0,,0.0,,,0.0,,,0.0,0.0,0,0,0,0.0,0,1,0,0.0%,2019,Wide Receiver,Da'Mari Scott,Giants
+5,,5 Games,,,,,,,2-3-0,0,0,0,,,,,,,,,,0,0,0,0.0,0,1,0,0.0%,2019,Wide Receiver,Da'Mari Scott,Giants

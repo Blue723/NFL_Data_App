@@ -1,0 +1,17 @@
+,Week,Day,Date,Boxscore,Win/Loss,Overtime,Home/Away,Opponent,Team Score,Opponenet Score,Passing Completion,Passing Attempts,Passing Yards,Passing Touchdowns,Passing Interceptions,Passing Sacks,Sack Yards,Passing Yards/Attempts,Net Yards/Attempts,Passing Completion Per.,Passing Rate,Rushing Attempts,Rushing Yards,Rushing Yards/Attempts,Rushing Touchdown,Field Goals Made,Field Goals Attempts,Extra Points Made,Extra Point Attempts,Punts,Total Punt Yards,Third Down Conversions,Third Down Attempts,Fourth Down Conversions,Fourth Down Attemtps,Time of Possesion,Year,Team
+0,1,Sun,2019-09-08,boxscore,Win,0.0,Home,Steelers,33,3,25,37,366,3,0,1,7,10.1,9.6,67.6,126.6,29,99,3.4,0,4,4,3,3,3,123,7,14,0,0,32:33,2019,Patriots
+1,2,Sun,2019-09-15,boxscore,Win,0.0,Away,Dolphins,43,0,20,28,255,2,0,2,9,9.4,8.5,71.4,123.4,35,124,3.5,2,1,2,4,6,3,144,6,11,0,0,36:30,2019,Patriots
+2,3,Sun,2019-09-22,boxscore,Win,0.0,Home,Jets,30,14,30,45,313,2,1,1,7,7.1,6.8,66.7,92.2,27,68,2.5,2,1,1,3,4,7,310,6,15,0,0,35:14,2019,Patriots
+3,4,Sun,2019-09-29,boxscore,Win,0.0,Away,Bills,16,10,18,39,150,0,1,0,0,3.8,3.8,46.2,45.9,23,74,3.2,1,1,1,1,2,9,435,5,18,0,0,27:20,2019,Patriots
+4,5,Sun,2019-10-06,boxscore,Win,0.0,Away,Redskins,33,7,28,43,312,3,1,4,36,8.1,6.6,65.1,100.1,27,130,4.8,1,2,2,3,4,6,286,5,15,0,1,31:53,2019,Patriots
+5,6,Thu,2019-10-10,boxscore,Win,0.0,Home,Giants,35,14,31,41,313,0,1,3,21,8.1,7.1,75.6,86.7,34,114,3.4,3,0,1,5,5,3,122,6,13,0,2,39:36,2019,Patriots
+6,7,Mon,2019-10-21,boxscore,Win,0.0,Away,Jets,33,0,31,45,249,1,1,0,0,5.5,5.5,68.9,80.7,34,74,2.2,3,1,1,4,4,7,261,7,16,1,1,38:27,2019,Patriots
+7,8,Sun,2019-10-27,boxscore,Win,0.0,Home,Browns,27,13,20,36,239,2,0,3,20,7.2,6.1,55.6,94.6,27,79,2.9,0,2,4,3,3,5,227,5,16,2,2,32:15,2019,Patriots
+8,9,Sun,2019-11-03,boxscore,Loss,0.0,Away,Ravens,20,37,30,46,268,1,1,2,17,6.2,5.6,65.2,78.9,17,74,4.4,1,2,2,2,2,5,233,5,13,0,0,22:59,2019,Patriots
+9,11,Sun,2019-11-17,boxscore,Win,0.0,Away,Eagles,17,10,27,48,224,1,0,1,7,4.8,4.6,56.3,75.3,22,74,3.4,0,3,3,0,0,8,381,5,16,0,0,28:25,2019,Patriots
+10,12,Sun,2019-11-24,boxscore,Win,0.0,Home,Cowboys,13,9,17,37,181,1,0,2,9,5.1,4.6,45.9,69.8,27,101,3.7,0,2,4,1,1,6,263,3,14,0,1,29:38,2019,Patriots
+11,13,Sun,2019-12-01,boxscore,Loss,0.0,Away,Texans,22,28,24,47,303,3,1,3,23,6.9,6.1,51.1,83.9,29,145,5.0,0,1,1,1,2,4,176,9,17,1,2,34:35,2019,Patriots
+12,14,Sun,2019-12-08,boxscore,Loss,0.0,Home,Chiefs,16,23,20,37,184,1,1,3,20,5.5,4.6,54.1,65.6,22,94,4.3,1,1,2,1,1,4,165,2,12,1,3,25:39,2019,Patriots
+13,15,Sun,2019-12-15,boxscore,Win,0.0,Away,Bengals,34,13,15,29,116,2,0,2,12,4.4,3.7,51.7,84.8,32,175,5.5,1,2,2,4,4,5,241,6,14,0,1,27:09,2019,Patriots
+14,16,Sat,2019-12-21,boxscore,Win,0.0,Home,Bills,24,17,26,33,271,1,0,0,0,8.2,8.2,78.8,111.0,35,143,4.1,1,3,3,1,1,2,93,7,14,1,2,38:52,2019,Patriots
+15,17,Sun,2019-12-29,boxscore,Loss,0.0,Home,Dolphins,24,27,16,29,217,2,1,1,4,7.6,7.2,55.2,87.9,27,135,5.0,1,1,1,3,3,4,178,3,9,0,0,26:09,2019,Patriots

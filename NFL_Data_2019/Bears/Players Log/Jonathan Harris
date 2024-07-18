@@ -1,7 +1,7 @@
-,Rk,Date,G#,Week,Age,Tm,Unnamed: 6_level_1,Opp,Result,Int,Tgt,Cmp,Cmp%,Yds,Yds/Cmp,Yds/Tgt,TD,Rat,DADOT,Air,YAC,Bltz,Hrry,QBKD,Sk,Prss,Comb,MTkl,MTkl%,Year
-0,1.0,2019-09-29,4.0,4.0,23.056,CHI,,MIN,W 16-6,0,0,0,,0.0,,,0.0,,,0.0,0.0,0,0,0,0.0,0,1.0,0,0.0%,2019
-1,2.0,2019-10-06,5.0,5.0,23.063,CHI,@,OAK,L 21-24,0,0,0,,0.0,,,0.0,,,0.0,0.0,0,0,0,,0,,0,,2019
-2,3.0,2019-12-15,14.0,15.0,23.133,DEN,@,KAN,L 3-23,0,0,0,,0.0,,,0.0,,,0.0,0.0,0,0,0,0.0,0,4.0,0,0.0%,2019
-3,4.0,2019-12-22,15.0,16.0,23.14,DEN,,DET,W 27-17,0,0,0,,0.0,,,0.0,,,0.0,0.0,0,0,0,0.0,0,3.0,0,0.0%,2019
-4,5.0,2019-12-29,16.0,17.0,23.147,DEN,,OAK,W 16-15,0,0,0,,0.0,,,0.0,,,0.0,0.0,0,0,0,,0,,0,,2019
-5,,5 Games,,,,,,,3-2-0,0,0,0,,,,,,,,,,0,0,0,0.0,0,8.0,0,0.0%,2019
+,Rk,Date,G#,Week,Age,Tm,Unnamed: 6_level_1,Opp,Result,Int,Tgt,Cmp,Cmp%,Yds,Yds/Cmp,Yds/Tgt,TD,Rat,DADOT,Air,YAC,Bltz,Hrry,QBKD,Sk,Prss,Comb,MTkl,MTkl%,Year,Position,Player_Name,Team
+0,1.0,2019-09-29,4.0,4.0,23.056,CHI,,MIN,W 16-6,0,0,0,,0.0,,,0.0,,,0.0,0.0,0,0,0,0.0,0,1.0,0,0.0%,2019,Left Defensive Tackle,Jonathan Harris,Bears
+1,2.0,2019-10-06,5.0,5.0,23.063,CHI,@,OAK,L 21-24,0,0,0,,0.0,,,0.0,,,0.0,0.0,0,0,0,,0,,0,,2019,Left Defensive Tackle,Jonathan Harris,Bears
+2,3.0,2019-12-15,14.0,15.0,23.133,DEN,@,KAN,L 3-23,0,0,0,,0.0,,,0.0,,,0.0,0.0,0,0,0,0.0,0,4.0,0,0.0%,2019,Left Defensive Tackle,Jonathan Harris,Bears
+3,4.0,2019-12-22,15.0,16.0,23.14,DEN,,DET,W 27-17,0,0,0,,0.0,,,0.0,,,0.0,0.0,0,0,0,0.0,0,3.0,0,0.0%,2019,Left Defensive Tackle,Jonathan Harris,Bears
+4,5.0,2019-12-29,16.0,17.0,23.147,DEN,,OAK,W 16-15,0,0,0,,0.0,,,0.0,,,0.0,0.0,0,0,0,,0,,0,,2019,Left Defensive Tackle,Jonathan Harris,Bears
+5,,5 Games,,,,,,,3-2-0,0,0,0,,,,,,,,,,0,0,0,0.0,0,8.0,0,0.0%,2019,Left Defensive Tackle,Jonathan Harris,Bears

@@ -1,6 +1,6 @@
-,Rk,Date,G#,Week,Age,Tm,Unnamed: 6_level_1,Opp,Result,Int,Tgt,Cmp,Cmp%,Yds,Yds/Cmp,Yds/Tgt,TD,Rat,DADOT,Air,YAC,Bltz,Hrry,QBKD,Sk,Prss,Comb,MTkl,MTkl%,Year
-0,1.0,2019-09-08,1.0,1.0,25.028,DAL,,NYG,W 35-17,0,1,1,100.0%,4,4.0,4.0,0,83.3,4.0,4,0,0,0,0,0.0,0,2.0,0,0.0%,2019
-1,2.0,2019-09-15,2.0,2.0,25.035,DAL,@,WAS,W 31-21,0,0,0,,0,,,0,,,0,0,0,0,0,0.0,0,1.0,0,0.0%,2019
-2,3.0,2019-09-22,3.0,3.0,25.042,DAL,,MIA,W 31-6,0,0,0,,0,,,0,,,0,0,0,0,0,0.0,0,2.0,0,0.0%,2019
-3,4.0,2019-09-29,4.0,4.0,25.049,DAL,@,NOR,L 10-12,0,0,0,,0,,,0,,,0,0,0,0,0,,0,,0,,2019
-4,,4 Games,,,,,,,3-1-0,0,1,1,100.0%,4,4.0,4.0,0,83.3,4.0,4,0,0,0,0,0.0,0,5.0,0,0.0%,2019
+,Rk,Date,G#,Week,Age,Tm,Unnamed: 6_level_1,Opp,Result,Int,Tgt,Cmp,Cmp%,Yds,Yds/Cmp,Yds/Tgt,TD,Rat,DADOT,Air,YAC,Bltz,Hrry,QBKD,Sk,Prss,Comb,MTkl,MTkl%,Year,Position,Player_Name,Team
+0,1.0,2019-09-08,1.0,1.0,25.028,DAL,,NYG,W 35-17,0,1,1,100.0%,4,4.0,4.0,0,83.3,4.0,4,0,0,0,0,0.0,0,2.0,0,0.0%,2019,Defensive Back,Kavon Frazier,Cowboys
+1,2.0,2019-09-15,2.0,2.0,25.035,DAL,@,WAS,W 31-21,0,0,0,,0,,,0,,,0,0,0,0,0,0.0,0,1.0,0,0.0%,2019,Defensive Back,Kavon Frazier,Cowboys
+2,3.0,2019-09-22,3.0,3.0,25.042,DAL,,MIA,W 31-6,0,0,0,,0,,,0,,,0,0,0,0,0,0.0,0,2.0,0,0.0%,2019,Defensive Back,Kavon Frazier,Cowboys
+3,4.0,2019-09-29,4.0,4.0,25.049,DAL,@,NOR,L 10-12,0,0,0,,0,,,0,,,0,0,0,0,0,,0,,0,,2019,Defensive Back,Kavon Frazier,Cowboys
+4,,4 Games,,,,,,,3-1-0,0,1,1,100.0%,4,4.0,4.0,0,83.3,4.0,4,0,0,0,0,0.0,0,5.0,0,0.0%,2019,Defensive Back,Kavon Frazier,Cowboys

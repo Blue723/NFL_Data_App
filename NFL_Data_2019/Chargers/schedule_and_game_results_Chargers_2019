@@ -1,17 +1,17 @@
 ,Week,Day,Date,Time,Win/Loss,Overtime,Team Record,Home/Away,Opponent,Points Scored,Points Allowed,Offense 1st Down,Total Yards Gained of Offense,Total yards Gained by Passing,Total Yards Gained by Rushing,Offense Turnovers,Defense 1st Down,Total Yards Allowed by Defense,Total Passing Yards Allowed by Defense,Total Rushing Yards Allowed by Defense,Defense Turnovers,Offense,Defense,Sp. Tms,Team,Year
-0,1,Sun,2019-09-08,nan,Win,1,1-0,home,Indianapolis Colts,30,24,25,435,310,125,2,22,376,173,203,0,15.32,-18.02,8.43,Chargers,2019
-1,2,Sun,2019-09-15,nan,Loss,0,1-1,away,Detroit Lions,10,13,21,424,287,137,2,19,339,245,94,2,5.86,-8.62,-0.56,Chargers,2019
-2,3,Sun,2019-09-22,nan,Loss,0,1-2,home,Houston Texans,20,27,22,366,293,73,1,20,376,337,39,1,6.08,-16.39,1.94,Chargers,2019
-3,4,Sun,2019-09-29,nan,Win,0,2-2,away,Miami Dolphins,30,10,24,390,311,79,0,13,233,161,72,1,15.45,-0.41,3.89,Chargers,2019
-4,5,Sun,2019-10-06,nan,Loss,0,2-3,home,Denver Broncos,13,20,19,246,211,35,3,15,350,159,191,2,-12.18,2.29,0.78,Chargers,2019
-5,6,Sun,2019-10-13,nan,Loss,0,2-4,home,Pittsburgh Steelers,17,24,23,348,316,32,3,18,256,132,124,1,-2.12,-5.45,-4.54,Chargers,2019
-6,7,Sun,2019-10-20,nan,Loss,0,2-5,away,Tennessee Titans,20,23,24,365,326,39,1,22,403,306,97,1,8.93,-10.83,-0.57,Chargers,2019
-7,8,Sun,2019-10-27,nan,Win,0,3-5,away,Chicago Bears,17,16,11,231,195,36,1,26,388,226,162,2,-5.45,-0.44,6.02,Chargers,2019
-8,9,Sun,2019-11-03,nan,Win,0,4-5,home,Green Bay Packers,26,11,24,442,283,159,0,13,184,139,45,0,16.68,5.74,-6.12,Chargers,2019
-9,10,Thu,2019-11-07,nan,Loss,0,4-6,away,Oakland Raiders,24,26,26,315,169,146,3,18,278,200,78,0,0.55,-5.96,1.54,Chargers,2019
-10,11,Mon,2019-11-18,nan,Loss,0,4-7,home,Kansas City Chiefs,17,24,23,438,345,93,4,18,310,180,130,1,-1.36,-4.13,-2.05,Chargers,2019
-11,13,Sun,2019-12-01,nan,Loss,0,4-8,away,Denver Broncos,20,23,17,359,244,115,2,13,218,134,84,1,1.4,2.73,-11.44,Chargers,2019
-12,14,Sun,2019-12-08,nan,Win,0,5-8,away,Jacksonville Jaguars,45,10,27,525,330,195,0,15,252,164,88,0,37.99,6.91,-8.63,Chargers,2019
-13,15,Sun,2019-12-15,nan,Loss,0,5-9,home,Minnesota Vikings,10,39,17,345,283,62,7,18,344,207,137,1,-20.63,-5.27,0.79,Chargers,2019
-14,16,Sun,2019-12-22,nan,Loss,0,5-10,home,Oakland Raiders,17,24,21,284,265,19,0,19,366,267,99,0,6.73,-12.67,-2.6,Chargers,2019
-15,17,Sun,2019-12-29,nan,Loss,0,5-11,away,Kansas City Chiefs,21,31,25,366,258,108,2,16,336,174,162,1,9.18,-13.59,-7.29,Chargers,2019
+0,1,Sun,2019-09-08,,Win,1,1-0,home,Colts,30,24,25,435,310,125,2,22,376,173,203,0,15.32,-18.02,8.43,Chargers,2019
+1,2,Sun,2019-09-15,,Loss,0,1-1,away,Lions,10,13,21,424,287,137,2,19,339,245,94,2,5.86,-8.62,-0.56,Chargers,2019
+2,3,Sun,2019-09-22,,Loss,0,1-2,home,Texans,20,27,22,366,293,73,1,20,376,337,39,1,6.08,-16.39,1.94,Chargers,2019
+3,4,Sun,2019-09-29,,Win,0,2-2,away,Dolphins,30,10,24,390,311,79,0,13,233,161,72,1,15.45,-0.41,3.89,Chargers,2019
+4,5,Sun,2019-10-06,,Loss,0,2-3,home,Broncos,13,20,19,246,211,35,3,15,350,159,191,2,-12.18,2.29,0.78,Chargers,2019
+5,6,Sun,2019-10-13,,Loss,0,2-4,home,Steelers,17,24,23,348,316,32,3,18,256,132,124,1,-2.12,-5.45,-4.54,Chargers,2019
+6,7,Sun,2019-10-20,,Loss,0,2-5,away,Titans,20,23,24,365,326,39,1,22,403,306,97,1,8.93,-10.83,-0.57,Chargers,2019
+7,8,Sun,2019-10-27,,Win,0,3-5,away,Bears,17,16,11,231,195,36,1,26,388,226,162,2,-5.45,-0.44,6.02,Chargers,2019
+8,9,Sun,2019-11-03,,Win,0,4-5,home,Packers,26,11,24,442,283,159,0,13,184,139,45,0,16.68,5.74,-6.12,Chargers,2019
+9,10,Thu,2019-11-07,,Loss,0,4-6,away,Raiders,24,26,26,315,169,146,3,18,278,200,78,0,0.55,-5.96,1.54,Chargers,2019
+10,11,Mon,2019-11-18,,Loss,0,4-7,home,Chiefs,17,24,23,438,345,93,4,18,310,180,130,1,-1.36,-4.13,-2.05,Chargers,2019
+11,13,Sun,2019-12-01,,Loss,0,4-8,away,Broncos,20,23,17,359,244,115,2,13,218,134,84,1,1.4,2.73,-11.44,Chargers,2019
+12,14,Sun,2019-12-08,,Win,0,5-8,away,Jaguars,45,10,27,525,330,195,0,15,252,164,88,0,37.99,6.91,-8.63,Chargers,2019
+13,15,Sun,2019-12-15,,Loss,0,5-9,home,Vikings,10,39,17,345,283,62,7,18,344,207,137,1,-20.63,-5.27,0.79,Chargers,2019
+14,16,Sun,2019-12-22,,Loss,0,5-10,home,Raiders,17,24,21,284,265,19,0,19,366,267,99,0,6.73,-12.67,-2.6,Chargers,2019
+15,17,Sun,2019-12-29,,Loss,0,5-11,away,Chiefs,21,31,25,366,258,108,2,16,336,174,162,1,9.18,-13.59,-7.29,Chargers,2019

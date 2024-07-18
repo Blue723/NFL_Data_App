@@ -1,0 +1,17 @@
+,Week,Day,Date,Boxscore,Win/Loss,Overtime,Home/Away,Opponent,Team Score,Opponenet Score,Passing Completion,Passing Attempts,Passing Yards,Passing Touchdowns,Passing Interceptions,Passing Sacks,Sack Yards,Passing Yards/Attempts,Net Yards/Attempts,Passing Completion Per.,Passing Rate,Rushing Attempts,Rushing Yards,Rushing Yards/Attempts,Rushing Touchdown,Field Goals Made,Field Goals Attempts,Extra Points Made,Extra Point Attempts,Punts,Total Punt Yards,Third Down Conversions,Third Down Attempts,Fourth Down Conversions,Fourth Down Attemtps,Time of Possesion,Year,Team
+0,1,Sun,2019-09-08,boxscore,Win,0,Away,Dolphins,59,10,23,26,378,6,0,1,1,14.6,14.0,88.5,158.3,46,265,5.8,2,1,1,8,8,1,56,7,11,2,2,40:07,2019,Ravens
+1,2,Sun,2019-09-15,boxscore,Win,0,Home,Cardinals,23,17,24,37,258,2,0,2,14,7.4,6.6,64.9,103.2,33,182,5.5,0,3,3,2,2,3,129,7,14,0,1,37:38,2019,Ravens
+2,3,Sun,2019-09-22,boxscore,Loss,0,Away,Chiefs,28,33,22,43,249,0,0,3,18,6.2,5.4,51.2,68.8,32,203,6.3,4,1,1,1,1,3,153,5,13,3,4,32:44,2019,Ravens
+3,4,Sun,2019-09-29,boxscore,Loss,0,Home,Browns,25,40,24,34,222,3,2,4,25,7.3,5.8,70.6,93.0,29,173,6.0,0,1,1,2,2,3,131,4,10,1,2,29:43,2019,Ravens
+4,5,Sun,2019-10-06,boxscore,Win,1,Away,Steelers,26,23,19,28,139,1,3,5,22,5.8,4.2,67.9,51.6,40,138,3.5,1,4,4,2,2,3,155,6,15,1,1,39:00,2019,Ravens
+5,6,Sun,2019-10-13,boxscore,Win,0,Home,Bengals,23,17,21,33,228,0,0,1,8,7.2,6.7,63.6,83.9,43,269,6.3,2,3,3,2,2,2,84,9,15,0,0,39:42,2019,Ravens
+6,7,Sun,2019-10-20,boxscore,Win,0,Away,Seahawks,30,16,9,20,141,0,0,1,2,7.2,6.7,45.0,69.0,35,199,5.7,1,3,3,3,3,3,132,5,13,1,1,29:54,2019,Ravens
+7,9,Sun,2019-11-03,boxscore,Win,0,Home,Patriots,37,20,17,23,162,1,0,1,1,7.1,6.8,73.9,107.5,41,210,5.1,3,1,1,4,5,2,98,5,10,1,1,37:01,2019,Ravens
+8,10,Sun,2019-11-10,boxscore,Win,0,Away,Bengals,49,13,18,22,243,3,1,1,0,11.0,10.6,81.8,133.3,23,136,5.9,2,0,0,7,7,1,34,4,6,1,1,23:49,2019,Ravens
+9,11,Sun,2019-11-17,boxscore,Win,0,Home,Texans,41,7,20,27,235,4,0,0,0,8.7,8.7,74.1,139.7,37,256,6.9,1,2,3,5,5,0,0,5,9,0,1,36:19,2019,Ravens
+10,12,Mon,2019-11-25,boxscore,Win,0,Away,Rams,45,6,16,23,195,5,0,3,13,9.0,7.5,69.6,135.0,48,285,5.9,1,1,1,6,6,1,48,9,15,3,3,39:56,2019,Ravens
+11,13,Sun,2019-12-01,boxscore,Win,0,Home,49ers,20,17,14,23,105,1,0,1,0,4.6,4.4,60.9,86.3,38,178,4.7,1,2,2,2,2,2,103,3,10,2,3,32:26,2019,Ravens
+12,14,Sun,2019-12-08,boxscore,Win,0,Away,Bills,24,17,16,25,139,3,1,1,6,5.8,5.3,64.0,101.5,33,118,3.6,0,1,1,3,3,7,309,3,11,0,0,32:49,2019,Ravens
+13,15,Thu,2019-12-12,boxscore,Win,0,Home,Jets,42,21,15,24,212,5,0,1,0,8.8,8.5,62.5,130.6,34,218,6.4,1,0,0,4,5,5,181,2,8,1,1,31:38,2019,Ravens
+14,16,Sun,2019-12-22,boxscore,Win,0,Away,Browns,31,15,20,31,238,3,0,0,0,7.7,7.7,64.5,120.1,40,243,6.1,1,1,1,4,4,2,102,7,11,0,1,34:19,2019,Ravens
+15,17,Sun,2019-12-29,boxscore,Win,0,Home,Steelers,28,10,11,21,81,0,1,3,15,4.6,3.4,52.4,42.0,44,223,5.1,1,4,4,2,2,3,140,7,16,1,2,39:27,2019,Ravens

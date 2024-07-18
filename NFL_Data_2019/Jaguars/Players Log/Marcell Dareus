@@ -1,8 +1,8 @@
-,Rk,Date,G#,Week,Age,Tm,Unnamed: 6_level_1,Opp,Result,Int,Tgt,Cmp,Cmp%,Yds,Yds/Cmp,Yds/Tgt,TD,Rat,DADOT,Air,YAC,Bltz,Hrry,QBKD,Sk,Prss,Comb,MTkl,MTkl%,Year
-0,1.0,2019-09-15,2.0,2.0,29.186,JAX,@,HOU,L 12-13,0,0,0,,0.0,,,0.0,,,0.0,0.0,0,1,0,0.0,1,3.0,0,0.0%,2019
-1,2.0,2019-09-19,3.0,3.0,29.19,JAX,,TEN,W 20-7,0,0,0,,0.0,,,0.0,,,0.0,0.0,0,0,0,0.5,1,3.0,0,0.0%,2019
-2,3.0,2019-09-29,4.0,4.0,29.2,JAX,@,DEN,W 26-24,0,0,0,,0.0,,,0.0,,,0.0,0.0,0,0,0,,0,,0,,2019
-3,4.0,2019-10-06,5.0,5.0,29.207,JAX,@,CAR,L 27-34,0,0,0,,0.0,,,0.0,,,0.0,0.0,0,0,0,0.0,0,4.0,1,20.0%,2019
-4,5.0,2019-10-13,6.0,6.0,29.214,JAX,,NOR,L 6-13,0,0,0,,0.0,,,0.0,,,0.0,0.0,0,0,0,0.0,0,2.0,0,0.0%,2019
-5,6.0,2019-10-20,7.0,7.0,29.221,JAX,@,CIN,W 27-17,0,0,0,,0.0,,,0.0,,,0.0,0.0,0,0,0,0.0,0,1.0,0,0.0%,2019
-6,,6 Games,,,,,,,3-3-0,0,0,0,,,,,,,,,,0,1,0,0.5,2,13.0,1,7.1%,2019
+,Rk,Date,G#,Week,Age,Tm,Unnamed: 6_level_1,Opp,Result,Int,Tgt,Cmp,Cmp%,Yds,Yds/Cmp,Yds/Tgt,TD,Rat,DADOT,Air,YAC,Bltz,Hrry,QBKD,Sk,Prss,Comb,MTkl,MTkl%,Year,Position,Player_Name,Team
+0,1.0,2019-09-15,2.0,2.0,29.186,JAX,@,HOU,L 12-13,0,0,0,,0.0,,,0.0,,,0.0,0.0,0,1,0,0.0,1,3.0,0,0.0%,2019,Right Defensive Tackle,Marcell Dareus,Jaguars
+1,2.0,2019-09-19,3.0,3.0,29.19,JAX,,TEN,W 20-7,0,0,0,,0.0,,,0.0,,,0.0,0.0,0,0,0,0.5,1,3.0,0,0.0%,2019,Right Defensive Tackle,Marcell Dareus,Jaguars
+2,3.0,2019-09-29,4.0,4.0,29.2,JAX,@,DEN,W 26-24,0,0,0,,0.0,,,0.0,,,0.0,0.0,0,0,0,,0,,0,,2019,Right Defensive Tackle,Marcell Dareus,Jaguars
+3,4.0,2019-10-06,5.0,5.0,29.207,JAX,@,CAR,L 27-34,0,0,0,,0.0,,,0.0,,,0.0,0.0,0,0,0,0.0,0,4.0,1,20.0%,2019,Right Defensive Tackle,Marcell Dareus,Jaguars
+4,5.0,2019-10-13,6.0,6.0,29.214,JAX,,NOR,L 6-13,0,0,0,,0.0,,,0.0,,,0.0,0.0,0,0,0,0.0,0,2.0,0,0.0%,2019,Right Defensive Tackle,Marcell Dareus,Jaguars
+5,6.0,2019-10-20,7.0,7.0,29.221,JAX,@,CIN,W 27-17,0,0,0,,0.0,,,0.0,,,0.0,0.0,0,0,0,0.0,0,1.0,0,0.0%,2019,Right Defensive Tackle,Marcell Dareus,Jaguars
+6,,6 Games,,,,,,,3-3-0,0,0,0,,,,,,,,,,0,1,0,0.5,2,13.0,1,7.1%,2019,Right Defensive Tackle,Marcell Dareus,Jaguars

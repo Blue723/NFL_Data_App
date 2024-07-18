@@ -1,10 +1,10 @@
-,Rk,Date,G#,Week,Age,Tm,Unnamed: 6_level_1,Opp,Result,Int,Tgt,Cmp,Cmp%,Yds,Yds/Cmp,Yds/Tgt,TD,Rat,DADOT,Air,YAC,Bltz,Hrry,QBKD,Sk,Prss,Comb,MTkl,MTkl%,Year
-0,1.0,2019-11-10,9.0,10.0,23.108,ATL,@,NOR,W 26-9,0,0,0,,0,,,0,,,0,0,0,0,0,,0,,0,,2019
-1,2.0,2019-11-17,10.0,11.0,23.115,ATL,@,CAR,W 29-3,0,0,0,,0,,,0,,,0,0,0,1,0,0.0,1,1.0,0,0.0%,2019
-2,3.0,2019-11-24,11.0,12.0,23.122,ATL,,TAM,L 22-35,0,2,2,100.0%,3,1.5,1.5,1,118.7,0.0,0,3,0,0,0,0.0,0,3.0,0,0.0%,2019
-3,4.0,2019-11-28,12.0,13.0,23.126,ATL,,NOR,L 18-26,0,0,0,,0,,,0,,,0,0,0,0,0,,0,,0,,2019
-4,5.0,2019-12-08,13.0,14.0,23.136,ATL,,CAR,W 40-20,0,0,0,,0,,,0,,,0,0,0,0,0,,0,,0,,2019
-5,6.0,2019-12-15,14.0,15.0,23.143,ATL,@,SFO,W 29-22,0,0,0,,0,,,0,,,0,0,0,1,0,0.0,1,4.0,0,0.0%,2019
-6,7.0,2019-12-22,15.0,16.0,23.15,ATL,,JAX,W 24-12,0,0,0,,0,,,0,,,0,0,0,0,0,0.0,0,3.0,0,0.0%,2019
-7,8.0,2019-12-29,16.0,17.0,23.157,ATL,@,TAM,W 28-22,0,0,0,,0,,,0,,,0,0,0,0,0,0.0,0,3.0,0,0.0%,2019
-8,,8 Games,,,,,,,6-2-0,0,2,2,100.0%,3,1.5,1.5,1,118.7,0.0,0,3,0,2,0,0.0,2,14.0,0,0.0%,2019
+,Rk,Date,G#,Week,Age,Tm,Unnamed: 6_level_1,Opp,Result,Int,Tgt,Cmp,Cmp%,Yds,Yds/Cmp,Yds/Tgt,TD,Rat,DADOT,Air,YAC,Bltz,Hrry,QBKD,Sk,Prss,Comb,MTkl,MTkl%,Year,Position,Player_Name,Team
+0,1.0,2019-11-10,9.0,10.0,23.108,ATL,@,NOR,W 26-9,0,0,0,,0,,,0,,,0,0,0,0,0,,0,,0,,2019,Left Defensive Tackle,Jacob Tuioti-Mariner,Falcons
+1,2.0,2019-11-17,10.0,11.0,23.115,ATL,@,CAR,W 29-3,0,0,0,,0,,,0,,,0,0,0,1,0,0.0,1,1.0,0,0.0%,2019,Left Defensive Tackle,Jacob Tuioti-Mariner,Falcons
+2,3.0,2019-11-24,11.0,12.0,23.122,ATL,,TAM,L 22-35,0,2,2,100.0%,3,1.5,1.5,1,118.7,0.0,0,3,0,0,0,0.0,0,3.0,0,0.0%,2019,Left Defensive Tackle,Jacob Tuioti-Mariner,Falcons
+3,4.0,2019-11-28,12.0,13.0,23.126,ATL,,NOR,L 18-26,0,0,0,,0,,,0,,,0,0,0,0,0,,0,,0,,2019,Left Defensive Tackle,Jacob Tuioti-Mariner,Falcons
+4,5.0,2019-12-08,13.0,14.0,23.136,ATL,,CAR,W 40-20,0,0,0,,0,,,0,,,0,0,0,0,0,,0,,0,,2019,Left Defensive Tackle,Jacob Tuioti-Mariner,Falcons
+5,6.0,2019-12-15,14.0,15.0,23.143,ATL,@,SFO,W 29-22,0,0,0,,0,,,0,,,0,0,0,1,0,0.0,1,4.0,0,0.0%,2019,Left Defensive Tackle,Jacob Tuioti-Mariner,Falcons
+6,7.0,2019-12-22,15.0,16.0,23.15,ATL,,JAX,W 24-12,0,0,0,,0,,,0,,,0,0,0,0,0,0.0,0,3.0,0,0.0%,2019,Left Defensive Tackle,Jacob Tuioti-Mariner,Falcons
+7,8.0,2019-12-29,16.0,17.0,23.157,ATL,@,TAM,W 28-22,0,0,0,,0,,,0,,,0,0,0,0,0,0.0,0,3.0,0,0.0%,2019,Left Defensive Tackle,Jacob Tuioti-Mariner,Falcons
+8,,8 Games,,,,,,,6-2-0,0,2,2,100.0%,3,1.5,1.5,1,118.7,0.0,0,3,0,2,0,0.0,2,14.0,0,0.0%,2019,Left Defensive Tackle,Jacob Tuioti-Mariner,Falcons

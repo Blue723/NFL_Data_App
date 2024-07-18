@@ -1,17 +1,17 @@
 ,Week,Day,Date,Time,Win/Loss,Overtime,Team Record,Home/Away,Opponent,Points Scored,Points Allowed,Offense 1st Down,Total Yards Gained of Offense,Total yards Gained by Passing,Total Yards Gained by Rushing,Offense Turnovers,Defense 1st Down,Total Yards Allowed by Defense,Total Passing Yards Allowed by Defense,Total Rushing Yards Allowed by Defense,Defense Turnovers,Offense,Defense,Sp. Tms,Team,Year
-0,1,Sun,2019-09-08,nan,Loss,0,0-1,home,Tennessee Titans,13,43,19,346,244,102,3,21,339,216,123,0,-19.89,-11.1,-1.22,Browns,2019
-1,2,Mon,2019-09-16,nan,Win,0,1-1,away,New York Jets,23,3,16,375,305,70,1,13,262,169,93,1,4.95,14.42,-0.9,Browns,2019
-2,3,Sun,2019-09-22,nan,Loss,0,1-2,home,Los Angeles Rams,13,20,18,270,175,95,1,20,344,254,90,3,-8.89,-1.06,3.41,Browns,2019
-3,4,Sun,2019-09-29,nan,Win,0,2-2,away,Baltimore Ravens,40,25,22,530,337,193,1,24,395,222,173,3,23.04,-4.82,-3.35,Browns,2019
-4,5,Mon,2019-10-07,nan,Loss,0,2-3,away,San Francisco 49ers,3,31,9,180,78,102,4,22,446,171,275,0,-22.56,-12.38,10.5,Browns,2019
-5,6,Sun,2019-10-13,nan,Loss,0,2-4,home,Seattle Seahawks,28,32,21,406,249,157,4,29,454,284,170,1,3.24,-15.53,4.92,Browns,2019
-6,8,Sun,2019-10-27,nan,Loss,0,2-5,away,New England Patriots,13,27,15,310,151,159,3,19,318,239,79,0,-19.38,-4.62,7.91,Browns,2019
-7,9,Sun,2019-11-03,nan,Loss,0,2-6,away,Denver Broncos,19,24,21,351,261,90,0,13,302,175,127,1,2.24,-5.66,-0.78,Browns,2019
-8,10,Sun,2019-11-10,nan,Win,0,3-6,home,Buffalo Bills,19,16,24,368,221,147,0,20,344,260,84,0,9.8,-4.32,0.44,Browns,2019
-9,11,Thu,2019-11-14,nan,Win,0,4-6,home,Pittsburgh Steelers,21,7,17,293,189,104,0,18,236,178,58,4,-1.33,24.63,-6.48,Browns,2019
-10,12,Sun,2019-11-24,nan,Win,0,5-6,home,Miami Dolphins,41,24,30,467,320,147,1,22,284,192,92,2,26.93,-5.91,-3.5,Browns,2019
-11,13,Sun,2019-12-01,nan,Loss,0,5-7,away,Pittsburgh Steelers,13,20,19,279,173,106,2,18,323,199,124,1,-2.6,-2.57,-1.39,Browns,2019
-12,14,Sun,2019-12-08,nan,Win,0,6-7,home,Cincinnati Bengals,27,19,17,333,187,146,2,27,451,272,179,1,6.12,-1.25,5.82,Browns,2019
-13,15,Sun,2019-12-15,nan,Loss,0,6-8,away,Arizona Cardinals,24,38,25,393,241,152,2,26,445,219,226,1,10.72,-24.27,-1.61,Browns,2019
-14,16,Sun,2019-12-22,nan,Loss,0,6-9,home,Baltimore Ravens,15,31,17,241,184,57,1,31,481,238,243,1,-0.38,-21.45,4.46,Browns,2019
-15,17,Sun,2019-12-29,nan,Loss,0,6-10,away,Cincinnati Bengals,23,33,15,313,239,74,3,22,361,182,179,1,1.53,-12.26,3.69,Browns,2019
+0,1,Sun,2019-09-08,,Loss,0,0-1,home,Titans,13,43,19,346,244,102,3,21,339,216,123,0,-19.89,-11.1,-1.22,Browns,2019
+1,2,Mon,2019-09-16,,Win,0,1-1,away,Jets,23,3,16,375,305,70,1,13,262,169,93,1,4.95,14.42,-0.9,Browns,2019
+2,3,Sun,2019-09-22,,Loss,0,1-2,home,Rams,13,20,18,270,175,95,1,20,344,254,90,3,-8.89,-1.06,3.41,Browns,2019
+3,4,Sun,2019-09-29,,Win,0,2-2,away,Ravens,40,25,22,530,337,193,1,24,395,222,173,3,23.04,-4.82,-3.35,Browns,2019
+4,5,Mon,2019-10-07,,Loss,0,2-3,away,49ers,3,31,9,180,78,102,4,22,446,171,275,0,-22.56,-12.38,10.5,Browns,2019
+5,6,Sun,2019-10-13,,Loss,0,2-4,home,Seahawks,28,32,21,406,249,157,4,29,454,284,170,1,3.24,-15.53,4.92,Browns,2019
+6,8,Sun,2019-10-27,,Loss,0,2-5,away,Patriots,13,27,15,310,151,159,3,19,318,239,79,0,-19.38,-4.62,7.91,Browns,2019
+7,9,Sun,2019-11-03,,Loss,0,2-6,away,Broncos,19,24,21,351,261,90,0,13,302,175,127,1,2.24,-5.66,-0.78,Browns,2019
+8,10,Sun,2019-11-10,,Win,0,3-6,home,Bills,19,16,24,368,221,147,0,20,344,260,84,0,9.8,-4.32,0.44,Browns,2019
+9,11,Thu,2019-11-14,,Win,0,4-6,home,Steelers,21,7,17,293,189,104,0,18,236,178,58,4,-1.33,24.63,-6.48,Browns,2019
+10,12,Sun,2019-11-24,,Win,0,5-6,home,Dolphins,41,24,30,467,320,147,1,22,284,192,92,2,26.93,-5.91,-3.5,Browns,2019
+11,13,Sun,2019-12-01,,Loss,0,5-7,away,Steelers,13,20,19,279,173,106,2,18,323,199,124,1,-2.6,-2.57,-1.39,Browns,2019
+12,14,Sun,2019-12-08,,Win,0,6-7,home,Bengals,27,19,17,333,187,146,2,27,451,272,179,1,6.12,-1.25,5.82,Browns,2019
+13,15,Sun,2019-12-15,,Loss,0,6-8,away,Cardinals,24,38,25,393,241,152,2,26,445,219,226,1,10.72,-24.27,-1.61,Browns,2019
+14,16,Sun,2019-12-22,,Loss,0,6-9,home,Ravens,15,31,17,241,184,57,1,31,481,238,243,1,-0.38,-21.45,4.46,Browns,2019
+15,17,Sun,2019-12-29,,Loss,0,6-10,away,Bengals,23,33,15,313,239,74,3,22,361,182,179,1,1.53,-12.26,3.69,Browns,2019

@@ -1,19 +1,19 @@
 ,Week,Day,Date,Time,Win/Loss,Overtime,Team Record,Home/Away,Opponent,Points Scored,Points Allowed,Offense 1st Down,Total Yards Gained of Offense,Total yards Gained by Passing,Total Yards Gained by Rushing,Offense Turnovers,Defense 1st Down,Total Yards Allowed by Defense,Total Passing Yards Allowed by Defense,Total Rushing Yards Allowed by Defense,Defense Turnovers,Offense,Defense,Sp. Tms,Team,Year
-0,1,Sun,2019-09-08,nan,Win,0,1-0,home,Cincinnati Bengals,21,20,12,232,160,72,1,22,429,395,34,3,-5.43,-0.16,8.5,Seahawks,2019
-1,2,Sun,2019-09-15,nan,Win,0,2-0,away,Pittsburgh Steelers,28,26,25,425,274,151,2,17,261,180,81,1,5.07,-0.23,1.28,Seahawks,2019
-2,3,Sun,2019-09-22,nan,Loss,0,2-1,home,New Orleans Saints,27,33,26,514,406,108,1,15,265,177,88,1,8.28,-0.89,-6.88,Seahawks,2019
-3,4,Sun,2019-09-29,nan,Win,0,3-1,away,Arizona Cardinals,27,10,21,340,225,115,0,20,321,206,115,1,10.61,0.78,2.81,Seahawks,2019
-4,5,Thu,2019-10-03,nan,Win,0,4-1,home,Los Angeles Rams,30,29,25,429,262,167,1,24,477,395,82,2,12.97,-9.94,-1.58,Seahawks,2019
-5,6,Sun,2019-10-13,nan,Win,0,5-1,away,Cleveland Browns,32,28,29,454,284,170,1,21,406,249,157,4,15.53,-3.24,-4.92,Seahawks,2019
-6,7,Sun,2019-10-20,nan,Loss,0,5-2,home,Baltimore Ravens,16,30,20,347,241,106,2,14,340,141,199,0,-6.98,-7.42,-0.09,Seahawks,2019
-7,8,Sun,2019-10-27,nan,Win,0,6-2,away,Atlanta Falcons,27,20,18,322,171,151,0,30,510,441,69,3,7.62,-12.89,15.43,Seahawks,2019
-8,9,Sun,2019-11-03,nan,Win,1,7-2,home,Tampa Bay Buccaneers,40,34,31,492,347,145,1,29,418,319,99,1,23.58,-13.19,-6.92,Seahawks,2019
-9,10,Mon,2019-11-11,nan,Win,1,8-2,away,San Francisco 49ers,27,24,19,336,189,147,4,21,302,215,87,3,-17.69,17.73,4.23,Seahawks,2019
-10,12,Sun,2019-11-24,nan,Win,0,9-2,away,Philadelphia Eagles,17,9,14,348,174,174,2,23,344,238,106,5,-4.38,17.25,-0.2,Seahawks,2019
-11,13,Mon,2019-12-02,nan,Win,0,10-2,home,Minnesota Vikings,37,30,24,444,226,218,2,17,354,276,78,3,5.79,-6.46,10.5,Seahawks,2019
-12,14,Sun,2019-12-08,nan,Loss,0,10-3,away,Los Angeles Rams,12,28,16,308,202,106,1,26,455,293,162,2,-7.74,-13.97,4.96,Seahawks,2019
-13,15,Sun,2019-12-15,nan,Win,0,11-3,away,Carolina Panthers,30,24,21,428,274,154,1,28,414,269,145,3,16.22,-6.32,-3.89,Seahawks,2019
-14,16,Sun,2019-12-22,nan,Loss,0,11-4,home,Arizona Cardinals,13,27,13,224,133,91,1,21,412,159,253,0,-13.87,-10.12,6.82,Seahawks,2019
-15,17,Sun,2019-12-29,nan,Loss,0,11-5,home,San Francisco 49ers,21,26,27,348,223,125,0,18,398,270,128,0,10.85,-17.28,3.02,Seahawks,2019
-16,19,Sun,2020-01-05,nan,Win,0,12-5,away,Philadelphia Eagles,17,9,16,382,318,64,0,20,282,162,120,0,10.59,1.96,-3.79,Seahawks,2019
-17,20,Sun,2020-01-12,nan,Loss,0,12-6,away,Green Bay Packers,23,28,23,375,265,110,0,22,344,235,109,0,15.53,-18.63,-1.8,Seahawks,2019
+0,1,Sun,2019-09-08,,Win,0,1-0,home,Bengals,21,20,12,232,160,72,1,22,429,395,34,3,-5.43,-0.16,8.5,Seahawks,2019
+1,2,Sun,2019-09-15,,Win,0,2-0,away,Steelers,28,26,25,425,274,151,2,17,261,180,81,1,5.07,-0.23,1.28,Seahawks,2019
+2,3,Sun,2019-09-22,,Loss,0,2-1,home,Saints,27,33,26,514,406,108,1,15,265,177,88,1,8.28,-0.89,-6.88,Seahawks,2019
+3,4,Sun,2019-09-29,,Win,0,3-1,away,Cardinals,27,10,21,340,225,115,0,20,321,206,115,1,10.61,0.78,2.81,Seahawks,2019
+4,5,Thu,2019-10-03,,Win,0,4-1,home,Rams,30,29,25,429,262,167,1,24,477,395,82,2,12.97,-9.94,-1.58,Seahawks,2019
+5,6,Sun,2019-10-13,,Win,0,5-1,away,Browns,32,28,29,454,284,170,1,21,406,249,157,4,15.53,-3.24,-4.92,Seahawks,2019
+6,7,Sun,2019-10-20,,Loss,0,5-2,home,Ravens,16,30,20,347,241,106,2,14,340,141,199,0,-6.98,-7.42,-0.09,Seahawks,2019
+7,8,Sun,2019-10-27,,Win,0,6-2,away,Falcons,27,20,18,322,171,151,0,30,510,441,69,3,7.62,-12.89,15.43,Seahawks,2019
+8,9,Sun,2019-11-03,,Win,1,7-2,home,Buccaneers,40,34,31,492,347,145,1,29,418,319,99,1,23.58,-13.19,-6.92,Seahawks,2019
+9,10,Mon,2019-11-11,,Win,1,8-2,away,49ers,27,24,19,336,189,147,4,21,302,215,87,3,-17.69,17.73,4.23,Seahawks,2019
+10,12,Sun,2019-11-24,,Win,0,9-2,away,Eagles,17,9,14,348,174,174,2,23,344,238,106,5,-4.38,17.25,-0.2,Seahawks,2019
+11,13,Mon,2019-12-02,,Win,0,10-2,home,Vikings,37,30,24,444,226,218,2,17,354,276,78,3,5.79,-6.46,10.5,Seahawks,2019
+12,14,Sun,2019-12-08,,Loss,0,10-3,away,Rams,12,28,16,308,202,106,1,26,455,293,162,2,-7.74,-13.97,4.96,Seahawks,2019
+13,15,Sun,2019-12-15,,Win,0,11-3,away,Panthers,30,24,21,428,274,154,1,28,414,269,145,3,16.22,-6.32,-3.89,Seahawks,2019
+14,16,Sun,2019-12-22,,Loss,0,11-4,home,Cardinals,13,27,13,224,133,91,1,21,412,159,253,0,-13.87,-10.12,6.82,Seahawks,2019
+15,17,Sun,2019-12-29,,Loss,0,11-5,home,49ers,21,26,27,348,223,125,0,18,398,270,128,0,10.85,-17.28,3.02,Seahawks,2019
+16,19,Sun,2020-01-05,,Win,0,12-5,away,Eagles,17,9,16,382,318,64,0,20,282,162,120,0,10.59,1.96,-3.79,Seahawks,2019
+17,20,Sun,2020-01-12,,Loss,0,12-6,away,Packers,23,28,23,375,265,110,0,22,344,235,109,0,15.53,-18.63,-1.8,Seahawks,2019

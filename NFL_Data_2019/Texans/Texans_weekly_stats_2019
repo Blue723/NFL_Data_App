@@ -1,0 +1,17 @@
+,Week,Day,Date,Boxscore,Win/Loss,Overtime,Home/Away,Opponent,Team Score,Opponenet Score,Passing Completion,Passing Attempts,Passing Yards,Passing Touchdowns,Passing Interceptions,Passing Sacks,Sack Yards,Passing Yards/Attempts,Net Yards/Attempts,Passing Completion Per.,Passing Rate,Rushing Attempts,Rushing Yards,Rushing Yards/Attempts,Rushing Touchdown,Field Goals Made,Field Goals Attempts,Extra Points Made,Extra Point Attempts,Punts,Total Punt Yards,Third Down Conversions,Third Down Attempts,Fourth Down Conversions,Fourth Down Attemtps,Time of Possesion,Year,Team
+0,1,Mon,2019-09-09,boxscore,Loss,0.0,Away,Saints,28,30,20,30,234,3,1,6,34,8.9,6.5,66.7,109.6,23,180,7.8,1,0,0,4,4,4,172,7,13,1,1,29:47,2019,Texans
+1,2,Sun,2019-09-15,boxscore,Win,0.0,Home,Jaguars,13,12,16,29,137,0,0,4,22,5.5,4.2,55.2,67.7,30,126,4.2,1,2,2,1,1,7,307,6,15,1,1,29:59,2019,Texans
+2,3,Sun,2019-09-22,boxscore,Win,0.0,Away,Chargers,27,20,25,34,337,3,0,2,14,10.3,9.4,73.5,134.1,19,39,2.1,1,0,1,3,4,4,180,6,10,0,0,28:12,2019,Texans
+3,4,Sun,2019-09-29,boxscore,Loss,0.0,Home,Panthers,10,16,21,34,128,0,1,6,32,4.7,3.2,61.8,57.0,22,136,6.2,1,1,2,1,1,5,257,4,11,0,0,29:22,2019,Texans
+4,5,Sun,2019-10-06,boxscore,Win,0.0,Home,Falcons,53,32,28,33,426,5,0,0,0,12.9,12.9,84.8,158.3,34,166,4.9,1,2,2,5,7,1,35,10,13,0,0,31:00,2019,Texans
+5,6,Sun,2019-10-13,boxscore,Win,0.0,Away,Chiefs,31,24,30,42,280,1,2,0,0,6.7,6.7,71.4,77.5,41,192,4.7,3,1,2,2,3,0,0,5,12,2,3,39:48,2019,Texans
+6,7,Sun,2019-10-20,boxscore,Loss,0.0,Away,Colts,23,30,23,34,291,1,2,3,17,9.1,7.9,67.6,79.4,24,100,4.2,1,3,3,2,2,2,89,4,12,1,3,27:08,2019,Texans
+7,8,Sun,2019-10-27,boxscore,Win,0.0,Home,Raiders,27,24,27,39,258,3,0,3,21,7.2,6.1,69.2,113.0,32,130,4.1,0,2,2,3,3,4,207,6,14,1,1,35:53,2019,Texans
+8,9,Sun,2019-11-03,boxscore,Win,0.0,Away,Jaguars,26,3,22,28,194,2,0,1,7,7.2,6.7,78.6,119.3,34,216,6.4,1,2,3,2,3,3,136,4,11,1,1,32:33,2019,Texans
+9,11,Sun,2019-11-17,boxscore,Loss,0.0,Away,Ravens,7,41,18,30,110,0,1,7,59,5.6,3.0,60.0,53.5,20,122,6.1,1,0,1,1,1,3,112,2,10,1,4,23:41,2019,Texans
+10,12,Thu,2019-11-21,boxscore,Win,0.0,Home,Colts,20,17,19,30,297,2,1,1,1,9.9,9.6,63.3,104.4,24,99,4.1,0,2,2,2,2,2,94,6,12,0,2,26:43,2019,Texans
+11,13,Sun,2019-12-01,boxscore,Win,0.0,Home,Patriots,28,22,19,26,224,4,0,3,16,9.2,7.7,73.1,138.5,23,52,2.3,0,0,0,4,4,5,236,6,11,0,0,25:25,2019,Texans
+12,14,Sun,2019-12-08,boxscore,Loss,0.0,Home,Broncos,24,38,28,50,280,1,2,3,12,5.8,5.3,56.0,62.1,22,134,6.1,2,1,1,3,3,2,74,6,13,2,4,28:35,2019,Texans
+13,15,Sun,2019-12-15,boxscore,Win,0.0,Away,Titans,24,21,19,27,234,2,2,1,9,9.0,8.4,70.4,90.7,35,140,4.0,1,1,1,3,3,4,185,5,10,0,0,31:20,2019,Texans
+14,16,Sat,2019-12-21,boxscore,Win,0.0,Away,Buccaneers,23,20,19,32,161,0,1,5,23,5.8,4.4,59.4,59.5,26,68,2.6,1,3,3,2,2,6,267,4,14,1,1,29:32,2019,Texans
+15,17,Sun,2019-12-29,boxscore,Loss,0.0,Home,Titans,14,35,21,36,192,0,1,4,33,6.3,4.8,58.3,61.3,25,109,4.4,2,0,0,2,2,5,248,3,12,2,4,31:39,2019,Texans

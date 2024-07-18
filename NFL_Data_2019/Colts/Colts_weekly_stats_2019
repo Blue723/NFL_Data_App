@@ -1,0 +1,17 @@
+,Week,Day,Date,Boxscore,Win/Loss,Overtime,Home/Away,Opponent,Team Score,Opponenet Score,Passing Completion,Passing Attempts,Passing Yards,Passing Touchdowns,Passing Interceptions,Passing Sacks,Sack Yards,Passing Yards/Attempts,Net Yards/Attempts,Passing Completion Per.,Passing Rate,Rushing Attempts,Rushing Yards,Rushing Yards/Attempts,Rushing Touchdown,Field Goals Made,Field Goals Attempts,Extra Points Made,Extra Point Attempts,Punts,Total Punt Yards,Third Down Conversions,Third Down Attempts,Fourth Down Conversions,Fourth Down Attemtps,Time of Possesion,Year,Team
+0,1,Sun,2019-09-08,boxscore,Loss,1,Away,Chargers,24,30,21,27,173,2,0,2,17,7.0,6.0,77.8,118.1,33,203,6.2,1,1,3,1,2,3,108,7,13,1,1,32:09,2019,Colts
+1,2,Sun,2019-09-15,boxscore,Win,0,Away,Titans,19,17,17,28,121,3,1,3,25,5.2,3.9,60.7,91.5,34,167,4.9,0,0,0,1,3,5,248,7,14,1,1,31:54,2019,Colts
+2,3,Sun,2019-09-22,boxscore,Win,0,Home,Falcons,27,24,28,37,300,2,0,1,10,8.4,7.9,75.7,116.9,24,79,3.3,1,2,2,3,3,1,53,5,8,0,0,31:23,2019,Colts
+3,4,Sun,2019-09-29,boxscore,Loss,0,Home,Raiders,24,31,24,46,265,3,1,0,0,5.8,5.8,52.2,82.2,23,81,3.5,0,1,2,3,3,4,186,6,16,3,3,26:19,2019,Colts
+4,5,Sun,2019-10-06,boxscore,Win,0,Away,Chiefs,19,13,18,29,151,0,1,0,0,5.2,5.2,62.1,61.1,45,180,4.0,1,4,4,1,1,3,123,5,14,2,2,37:15,2019,Colts
+5,7,Sun,2019-10-20,boxscore,Win,0,Home,Texans,30,23,26,40,321,4,0,1,5,8.2,7.8,65.0,123.0,26,62,2.4,0,0,0,4,4,4,174,8,16,0,1,32:52,2019,Colts
+6,8,Sun,2019-10-27,boxscore,Win,0,Home,Broncos,15,13,15,25,191,0,0,4,11,8.1,6.6,60.0,83.9,31,127,4.1,1,3,4,0,1,5,232,4,12,0,0,29:16,2019,Colts
+7,9,Sun,2019-11-03,boxscore,Loss,0,Away,Steelers,24,26,21,31,189,3,1,5,38,7.3,5.3,67.7,102.8,29,139,4.8,0,1,2,1,2,3,135,4,12,2,3,30:32,2019,Colts
+8,10,Sun,2019-11-10,boxscore,Loss,0,Home,Dolphins,12,16,18,39,191,1,3,1,13,5.2,4.8,46.2,37.4,29,109,3.8,0,2,2,0,1,4,172,5,13,0,2,28:32,2019,Colts
+9,11,Sun,2019-11-17,boxscore,Win,0,Home,Jaguars,33,13,15,24,125,1,1,3,23,6.2,4.6,62.5,72.4,36,264,7.3,3,1,1,4,4,3,129,4,11,1,2,33:52,2019,Colts
+10,12,Thu,2019-11-21,boxscore,Loss,0,Away,Texans,17,20,16,25,121,0,0,1,8,5.2,4.7,64.0,75.6,39,175,4.5,2,1,1,2,2,5,239,9,15,0,1,33:17,2019,Colts
+11,13,Sun,2019-12-01,boxscore,Loss,0,Home,Titans,17,31,25,40,309,1,2,3,10,8.0,7.2,62.5,73.9,24,82,3.4,1,1,4,2,2,3,148,5,12,0,0,32:31,2019,Colts
+12,14,Sun,2019-12-08,boxscore,Loss,0,Away,Buccaneers,35,38,19,36,243,2,0,1,8,7.0,6.6,52.8,92.7,22,66,3.0,1,2,3,3,3,4,177,6,16,2,3,25:45,2019,Colts
+13,15,Mon,2019-12-16,boxscore,Loss,0,Away,Saints,7,34,18,34,159,0,0,1,6,4.9,4.5,52.9,65.7,17,46,2.7,1,0,0,1,1,6,222,3,12,1,2,23:38,2019,Colts
+14,16,Sun,2019-12-22,boxscore,Win,0,Home,Panthers,38,6,14,27,106,0,0,3,13,4.4,3.5,51.9,61.7,32,218,6.8,3,1,1,5,5,3,140,4,11,1,2,27:39,2019,Colts
+15,17,Sun,2019-12-29,boxscore,Loss,0,Away,Jaguars,20,38,12,25,143,0,0,3,19,6.5,5.1,48.0,65.9,27,132,4.9,2,2,2,2,2,3,133,4,12,0,1,26:07,2019,Colts

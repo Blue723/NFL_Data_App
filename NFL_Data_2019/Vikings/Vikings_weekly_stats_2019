@@ -1,0 +1,17 @@
+,Week,Day,Date,Boxscore,Win/Loss,Overtime,Home/Away,Opponent,Team Score,Opponenet Score,Passing Completion,Passing Attempts,Passing Yards,Passing Touchdowns,Passing Interceptions,Passing Sacks,Sack Yards,Passing Yards/Attempts,Net Yards/Attempts,Passing Completion Per.,Passing Rate,Rushing Attempts,Rushing Yards,Rushing Yards/Attempts,Rushing Touchdown,Field Goals Made,Field Goals Attempts,Extra Points Made,Extra Point Attempts,Punts,Total Punt Yards,Third Down Conversions,Third Down Attempts,Fourth Down Conversions,Fourth Down Attemtps,Time of Possesion,Year,Team
+0,1,Sun,2019-09-08,boxscore,Win,0.0,Home,Falcons,28,12,8,10,97,1,0,1,1,9.8,8.8,80.0,140.4,38,172,4.5,3,0,0,4,4,5,247,5,10,0,0,29:47,2019,Vikings
+1,2,Sun,2019-09-15,boxscore,Loss,0.0,Away,Packers,16,21,14,32,223,1,2,1,7,7.2,6.8,43.8,52.0,27,198,7.3,1,1,2,1,2,6,264,4,13,0,0,25:54,2019,Vikings
+2,3,Sun,2019-09-22,boxscore,Win,0.0,Home,Raiders,34,14,15,21,174,1,0,0,0,8.3,8.3,71.4,112.0,38,211,5.6,3,2,2,4,4,2,95,5,9,0,0,31:32,2019,Vikings
+3,4,Sun,2019-09-29,boxscore,Loss,0.0,Away,Bears,6,16,27,36,182,0,0,6,51,6.5,4.3,75.0,85.6,16,40,2.5,1,0,0,0,0,5,235,5,13,1,2,24:33,2019,Vikings
+4,5,Sun,2019-10-06,boxscore,Win,0.0,Away,Giants,28,10,22,27,279,2,0,3,27,11.3,9.3,81.5,134.4,34,211,6.2,0,4,4,2,2,1,57,5,11,1,1,32:40,2019,Vikings
+5,6,Sun,2019-10-13,boxscore,Win,0.0,Home,Eagles,38,20,22,29,325,4,1,1,8,11.5,10.8,75.9,137.2,35,122,3.5,1,1,1,5,5,3,123,2,10,1,1,32:04,2019,Vikings
+6,7,Sun,2019-10-20,boxscore,Win,0.0,Away,Lions,42,30,24,34,338,4,0,0,0,9.9,9.9,70.6,141.5,37,166,4.5,2,0,1,6,6,2,98,6,10,0,0,32:10,2019,Vikings
+7,8,Thu,2019-10-24,boxscore,Win,0.0,Home,Redskins,19,9,23,26,273,0,0,3,12,11.0,9.4,88.5,110.4,38,161,4.2,1,4,4,1,1,0,0,8,15,1,3,36:36,2019,Vikings
+8,9,Sun,2019-11-03,boxscore,Loss,0.0,Away,Chiefs,23,26,19,38,212,3,0,1,8,5.8,5.4,50.0,93.3,27,96,3.6,0,1,1,2,3,8,353,5,15,1,1,28:12,2019,Vikings
+9,10,Sun,2019-11-10,boxscore,Win,0.0,Away,Cowboys,28,24,23,32,211,2,0,1,9,6.9,6.4,71.9,110.3,36,153,4.3,1,2,2,2,2,4,170,8,14,1,1,33:27,2019,Vikings
+10,11,Sun,2019-11-17,boxscore,Win,0.0,Home,Broncos,27,23,29,35,284,3,0,5,35,9.1,7.1,82.9,129.0,18,37,2.1,1,0,0,3,3,5,236,5,12,2,2,23:17,2019,Vikings
+11,13,Mon,2019-12-02,boxscore,Loss,0.0,Away,Seahawks,30,37,22,38,276,2,1,0,0,7.3,7.3,57.9,87.2,14,78,5.6,1,1,1,3,4,4,170,5,10,0,1,20:15,2019,Vikings
+12,14,Sun,2019-12-08,boxscore,Win,0.0,Home,Lions,20,7,24,30,234,1,0,1,8,8.1,7.5,80.0,110.3,39,120,3.1,1,2,2,2,2,6,222,5,14,0,1,33:43,2019,Vikings
+13,15,Sun,2019-12-15,boxscore,Win,0.0,Away,Chargers,39,10,19,25,207,1,1,0,0,8.3,8.3,76.0,96.6,37,137,3.7,2,4,4,3,4,2,103,7,14,0,0,32:21,2019,Vikings
+14,16,Mon,2019-12-23,boxscore,Loss,0.0,Home,Packers,10,23,16,32,82,1,1,5,40,3.8,2.2,50.0,53.6,16,57,3.6,0,1,1,1,1,8,377,4,15,0,2,22:28,2019,Vikings
+15,17,Sun,2019-12-29,boxscore,Loss,0.0,Home,Bears,19,21,12,21,126,0,2,0,0,6.0,6.0,57.1,35.1,26,174,6.7,1,4,4,1,1,1,52,4,9,0,0,22:20,2019,Vikings
