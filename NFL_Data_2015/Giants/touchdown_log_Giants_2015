@@ -1,48 +1,48 @@
-,Rank,Team,Date,Opponent,Win/Loss,Home_Score,Opponenet_Score,Quarter,Distance,Type,Detail
-1,1,Giants,2015-09-13,DAL,Loss,26,27,2,57,fumble,Dominique Rodgers-Cromartie
-2,2,Giants,2015-09-13,DAL,Loss,26,27,4,1,rush,Rashad Jennings
-3,3,Giants,2015-09-20,ATL,Loss,20,24,2,67,pass,Odell Beckham Jr.
-4,4,Giants,2015-09-20,ATL,Loss,20,24,3,10,pass,Larry Donnell
-5,5,Giants,2015-09-24,WAS,Win,32,21,1,1,rush,Andre Williams
-6,6,Giants,2015-09-24,WAS,Win,32,21,4,30,pass,Odell Beckham Jr.
-7,7,Giants,2015-09-24,WAS,Win,32,21,4,41,pass,Rueben Randle
-8,8,Giants,2015-10-04,BUF,Win,24,10,1,21,pass,Dwayne Harris
-9,9,Giants,2015-10-04,BUF,Win,24,10,2,11,pass,Rueben Randle
-10,10,Giants,2015-10-04,BUF,Win,24,10,4,51,pass,Rashad Jennings
-11,11,Giants,2015-10-11,SFO,Win,30,27,2,2,pass,Shane Vereen
-12,12,Giants,2015-10-11,SFO,Win,30,27,3,17,pass,Odell Beckham Jr.
-13,13,Giants,2015-10-11,SFO,Win,30,27,4,12,pass,Larry Donnell
-14,14,Giants,2015-10-19,PHI,Loss,7,27,1,13,pass,Odell Beckham Jr.
-15,15,Giants,2015-10-25,DAL,Win,27,20,2,15,rush,Orleans Darkwa
-16,16,Giants,2015-10-25,DAL,Win,27,20,3,58,interception,Dominique Rodgers-Cromartie
-17,17,Giants,2015-10-25,DAL,Win,27,20,4,100,kickoff,Dwayne Harris
-18,18,Giants,2015-11-01,NOR,Loss,49,52,1,2,pass,Odell Beckham Jr.
-19,19,Giants,2015-11-01,NOR,Loss,49,52,2,1,pass,Odell Beckham Jr.
-20,20,Giants,2015-11-01,NOR,Loss,49,52,2,2,pass,Shane Vereen
-21,21,Giants,2015-11-01,NOR,Loss,49,52,3,50,pass,Odell Beckham Jr.
-22,22,Giants,2015-11-01,NOR,Loss,49,52,4,9,pass,Dwayne Harris
-23,23,Giants,2015-11-01,NOR,Loss,49,52,4,20,pass,Dwayne Harris
-24,24,Giants,2015-11-01,NOR,Loss,49,52,4,63,interception,Trumaine McBride
-25,25,Giants,2015-11-08,TAM,Win,32,18,1,8,pass,Rueben Randle
-26,26,Giants,2015-11-08,TAM,Win,32,18,2,4,pass,Shane Vereen
-27,27,Giants,2015-11-08,TAM,Win,32,18,4,5,fumble,Trevin Wade
-28,28,Giants,2015-11-15,NWE,Loss,26,27,1,87,pass,Odell Beckham Jr.
-29,29,Giants,2015-11-15,NWE,Loss,26,27,2,1,pass,Dwayne Harris
-30,30,Giants,2015-11-29,WAS,Loss,14,20,4,40,pass,Rueben Randle
-31,31,Giants,2015-11-29,WAS,Loss,14,20,4,21,pass,Odell Beckham Jr.
-32,32,Giants,2015-12-06,NYJ,Loss,20,23,2,80,punt,Dwayne Harris
-33,33,Giants,2015-12-06,NYJ,Loss,20,23,2,72,pass,Odell Beckham Jr.
-34,34,Giants,2015-12-14,MIA,Win,31,24,2,6,pass,Rueben Randle
-35,35,Giants,2015-12-14,MIA,Win,31,24,2,5,pass,Will Tye
-36,36,Giants,2015-12-14,MIA,Win,31,24,3,6,pass,Odell Beckham Jr.
-37,37,Giants,2015-12-14,MIA,Win,31,24,4,84,pass,Odell Beckham Jr.
-38,38,Giants,2015-12-20,CAR,Loss,35,38,1,27,pass,Rueben Randle
-39,39,Giants,2015-12-20,CAR,Loss,35,38,3,8,pass,Will Tye
-40,40,Giants,2015-12-20,CAR,Loss,35,38,4,38,rush,Rashad Jennings
-41,41,Giants,2015-12-20,CAR,Loss,35,38,4,8,pass,Shane Vereen
-42,42,Giants,2015-12-20,CAR,Loss,35,38,4,14,pass,Odell Beckham Jr.
-43,43,Giants,2015-12-27,MIN,Loss,17,49,3,72,pass,Rueben Randle
-44,44,Giants,2015-12-27,MIN,Loss,17,49,4,25,pass,Myles White
-45,45,Giants,2016-01-03,PHI,Loss,30,35,2,9,pass,Will Tye
-46,46,Giants,2016-01-03,PHI,Loss,30,35,2,2,rush,Rashad Jennings
-47,47,Giants,2016-01-03,PHI,Loss,30,35,3,45,pass,Rueben Randle
+,Rank,Team,Date,Opponent,Win/Loss,Home_Score,Opponenet_Score,Quarter,Distance,Type,Detail,Year
+1,1,Giants,2015-09-13,DAL,Loss,26,27,2,57,fumble,Dominique Rodgers-Cromartie,2015
+2,2,Giants,2015-09-13,DAL,Loss,26,27,4,1,rush,Rashad Jennings,2015
+3,3,Giants,2015-09-20,ATL,Loss,20,24,2,67,pass,Odell Beckham Jr.,2015
+4,4,Giants,2015-09-20,ATL,Loss,20,24,3,10,pass,Larry Donnell,2015
+5,5,Giants,2015-09-24,WAS,Win,32,21,1,1,rush,Andre Williams,2015
+6,6,Giants,2015-09-24,WAS,Win,32,21,4,30,pass,Odell Beckham Jr.,2015
+7,7,Giants,2015-09-24,WAS,Win,32,21,4,41,pass,Rueben Randle,2015
+8,8,Giants,2015-10-04,BUF,Win,24,10,1,21,pass,Dwayne Harris,2015
+9,9,Giants,2015-10-04,BUF,Win,24,10,2,11,pass,Rueben Randle,2015
+10,10,Giants,2015-10-04,BUF,Win,24,10,4,51,pass,Rashad Jennings,2015
+11,11,Giants,2015-10-11,SFO,Win,30,27,2,2,pass,Shane Vereen,2015
+12,12,Giants,2015-10-11,SFO,Win,30,27,3,17,pass,Odell Beckham Jr.,2015
+13,13,Giants,2015-10-11,SFO,Win,30,27,4,12,pass,Larry Donnell,2015
+14,14,Giants,2015-10-19,PHI,Loss,7,27,1,13,pass,Odell Beckham Jr.,2015
+15,15,Giants,2015-10-25,DAL,Win,27,20,2,15,rush,Orleans Darkwa,2015
+16,16,Giants,2015-10-25,DAL,Win,27,20,3,58,interception,Dominique Rodgers-Cromartie,2015
+17,17,Giants,2015-10-25,DAL,Win,27,20,4,100,kickoff,Dwayne Harris,2015
+18,18,Giants,2015-11-01,NOR,Loss,49,52,1,2,pass,Odell Beckham Jr.,2015
+19,19,Giants,2015-11-01,NOR,Loss,49,52,2,1,pass,Odell Beckham Jr.,2015
+20,20,Giants,2015-11-01,NOR,Loss,49,52,2,2,pass,Shane Vereen,2015
+21,21,Giants,2015-11-01,NOR,Loss,49,52,3,50,pass,Odell Beckham Jr.,2015
+22,22,Giants,2015-11-01,NOR,Loss,49,52,4,9,pass,Dwayne Harris,2015
+23,23,Giants,2015-11-01,NOR,Loss,49,52,4,20,pass,Dwayne Harris,2015
+24,24,Giants,2015-11-01,NOR,Loss,49,52,4,63,interception,Trumaine McBride,2015
+25,25,Giants,2015-11-08,TAM,Win,32,18,1,8,pass,Rueben Randle,2015
+26,26,Giants,2015-11-08,TAM,Win,32,18,2,4,pass,Shane Vereen,2015
+27,27,Giants,2015-11-08,TAM,Win,32,18,4,5,fumble,Trevin Wade,2015
+28,28,Giants,2015-11-15,NWE,Loss,26,27,1,87,pass,Odell Beckham Jr.,2015
+29,29,Giants,2015-11-15,NWE,Loss,26,27,2,1,pass,Dwayne Harris,2015
+30,30,Giants,2015-11-29,WAS,Loss,14,20,4,40,pass,Rueben Randle,2015
+31,31,Giants,2015-11-29,WAS,Loss,14,20,4,21,pass,Odell Beckham Jr.,2015
+32,32,Giants,2015-12-06,NYJ,Loss,20,23,2,80,punt,Dwayne Harris,2015
+33,33,Giants,2015-12-06,NYJ,Loss,20,23,2,72,pass,Odell Beckham Jr.,2015
+34,34,Giants,2015-12-14,MIA,Win,31,24,2,6,pass,Rueben Randle,2015
+35,35,Giants,2015-12-14,MIA,Win,31,24,2,5,pass,Will Tye,2015
+36,36,Giants,2015-12-14,MIA,Win,31,24,3,6,pass,Odell Beckham Jr.,2015
+37,37,Giants,2015-12-14,MIA,Win,31,24,4,84,pass,Odell Beckham Jr.,2015
+38,38,Giants,2015-12-20,CAR,Loss,35,38,1,27,pass,Rueben Randle,2015
+39,39,Giants,2015-12-20,CAR,Loss,35,38,3,8,pass,Will Tye,2015
+40,40,Giants,2015-12-20,CAR,Loss,35,38,4,38,rush,Rashad Jennings,2015
+41,41,Giants,2015-12-20,CAR,Loss,35,38,4,8,pass,Shane Vereen,2015
+42,42,Giants,2015-12-20,CAR,Loss,35,38,4,14,pass,Odell Beckham Jr.,2015
+43,43,Giants,2015-12-27,MIN,Loss,17,49,3,72,pass,Rueben Randle,2015
+44,44,Giants,2015-12-27,MIN,Loss,17,49,4,25,pass,Myles White,2015
+45,45,Giants,2016-01-03,PHI,Loss,30,35,2,9,pass,Will Tye,2015
+46,46,Giants,2016-01-03,PHI,Loss,30,35,2,2,rush,Rashad Jennings,2015
+47,47,Giants,2016-01-03,PHI,Loss,30,35,3,45,pass,Rueben Randle,2015

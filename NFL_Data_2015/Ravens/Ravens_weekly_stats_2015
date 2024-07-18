@@ -1,0 +1,17 @@
+,Week,Day,Date,Boxscore,Win/Loss,Overtime,Home/Away,Opponent,Team Score,Opponenet Score,Passing Completion,Passing Attempts,Passing Yards,Passing Touchdowns,Passing Interceptions,Passing Sacks,Sack Yards,Passing Yards/Attempts,Net Yards/Attempts,Passing Completion Per.,Passing Rate,Rushing Attempts,Rushing Yards,Rushing Yards/Attempts,Rushing Touchdown,Field Goals Made,Field Goals Attempts,Extra Points Made,Extra Point Attempts,Punts,Total Punt Yards,Third Down Conversions,Third Down Attempts,Fourth Down Conversions,Fourth Down Attemtps,Time of Possesion,Year,Team
+0,1,Sun,2015-09-13,boxscore,Loss,0,Away,Broncos,13,19,18,32,100,0,2,2,17,3.7,2.9,56.3,35.9,23,73,3.2,0,2,2,1,1,6,310,2,13,1,1,22:43,2015,Ravens
+1,2,Sun,2015-09-20,boxscore,Loss,0,Away,Raiders,33,37,32,45,384,2,1,0,0,8.5,8.5,71.1,102.5,25,109,4.4,1,4,4,3,3,2,92,4,11,2,2,30:27,2015,Ravens
+2,3,Sun,2015-09-27,boxscore,Loss,0,Home,Bengals,24,28,32,49,362,2,1,0,0,7.4,7.4,65.3,92.4,18,36,2.0,0,1,2,3,3,4,174,7,16,2,3,29:52,2015,Ravens
+3,4,Thu,2015-10-01,boxscore,Win,1,Away,Steelers,23,20,21,34,165,1,1,5,21,5.5,4.2,61.8,71.3,39,191,4.9,1,3,3,2,2,4,204,6,17,1,4,37:43,2015,Ravens
+4,5,Sun,2015-10-11,boxscore,Loss,1,Home,Browns,30,33,19,35,196,1,0,1,14,6.0,5.4,54.3,80.2,31,181,5.8,3,1,2,3,3,6,297,5,14,0,0,29:01,2015,Ravens
+5,6,Sun,2015-10-18,boxscore,Loss,0,Away,49ers,20,25,33,53,343,2,2,0,0,6.5,6.5,62.3,77.8,22,77,3.5,0,2,3,2,2,3,159,4,13,1,1,33:07,2015,Ravens
+6,7,Mon,2015-10-26,boxscore,Loss,0,Away,Cardinals,18,26,26,40,221,1,1,3,31,6.3,5.1,65.0,77.2,16,55,3.4,1,1,1,1,1,6,272,5,13,1,1,30:24,2015,Ravens
+7,8,Sun,2015-11-01,boxscore,Win,0,Home,Chargers,29,26,25,37,293,1,0,3,26,8.6,7.3,67.6,100.4,25,72,2.9,1,5,5,2,2,2,122,5,12,1,1,29:54,2015,Ravens
+8,10,Sun,2015-11-15,boxscore,Loss,0,Home,Jaguars,20,22,34,45,308,3,2,1,8,7.0,6.7,75.6,97.3,21,89,4.2,0,0,1,2,2,5,202,8,14,0,1,29:28,2015,Ravens
+9,11,Sun,2015-11-22,boxscore,Win,0,Home,Rams,16,13,27,44,292,1,2,1,7,6.8,6.5,61.4,69.5,28,96,3.4,0,3,5,1,1,7,336,4,16,0,1,32:52,2015,Ravens
+10,12,Mon,2015-11-30,boxscore,Win,0,Away,Browns,33,27,20,34,232,2,2,0,0,6.8,6.8,58.8,74.6,23,104,4.5,0,2,2,3,3,4,171,2,11,2,2,29:30,2015,Ravens
+11,13,Sun,2015-12-06,boxscore,Loss,0,Away,Dolphins,13,15,32,46,281,1,2,3,27,6.7,5.7,69.6,74.6,26,94,3.6,0,2,3,1,1,5,267,5,14,0,1,38:09,2015,Ravens
+12,14,Sun,2015-12-13,boxscore,Loss,0,Home,Seahawks,6,35,23,40,274,0,1,1,0,6.9,6.7,57.5,68.1,14,28,2.0,0,2,2,0,0,5,226,3,11,0,1,24:17,2015,Ravens
+13,15,Sun,2015-12-20,boxscore,Loss,0,Home,Chiefs,14,34,26,45,273,2,2,2,8,6.2,5.8,57.8,71.8,20,93,4.7,0,0,0,2,2,5,218,4,13,1,3,27:41,2015,Ravens
+14,16,Sun,2015-12-27,boxscore,Win,0,Home,Steelers,20,17,28,41,265,1,0,1,9,6.7,6.3,68.3,94.1,31,121,3.9,1,2,2,2,2,6,234,9,18,0,0,34:20,2015,Ravens
+15,17,Sun,2016-01-03,boxscore,Loss,0,Away,Bengals,16,24,30,56,282,1,2,1,10,5.2,4.9,53.6,58.8,21,59,2.8,0,3,3,1,1,4,170,12,20,0,2,29:16,2015,Ravens

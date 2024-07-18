@@ -1,17 +1,17 @@
 ,Week,Day,Date,Time,Win/Loss,Overtime,Team Record,Home/Away,Opponent,Points Scored,Points Allowed,Offense 1st Down,Total Yards Gained of Offense,Total yards Gained by Passing,Total Yards Gained by Rushing,Offense Turnovers,Defense 1st Down,Total Yards Allowed by Defense,Total Passing Yards Allowed by Defense,Total Rushing Yards Allowed by Defense,Defense Turnovers,Offense,Defense,Sp. Tms,Team,Year
-0,1,Mon,2015-09-14,nan,Win,0,1-0,home,Philadelphia Eagles,26,24,21,395,290,105,2,23,399,336,63,2,-2.18,0.47,8.59,Falcons,2015
-1,2,Sun,2015-09-20,nan,Win,0,2-0,away,New York Giants,24,20,25,402,346,56,0,19,388,291,97,1,9.05,-7.59,-3.97,Falcons,2015
-2,3,Sun,2015-09-27,nan,Win,0,3-0,away,Dallas Cowboys,39,28,26,438,280,158,0,23,347,220,127,1,24.77,-12.25,-0.64,Falcons,2015
-3,4,Sun,2015-10-04,nan,Win,0,4-0,home,Houston Texans,48,21,22,378,243,135,0,24,428,374,54,4,18.29,10.28,1.55,Falcons,2015
-4,5,Sun,2015-10-11,nan,Win,1,5-0,home,Washington Redskins,25,19,29,418,242,176,3,18,270,219,51,2,6.99,4.12,-5.85,Falcons,2015
-5,6,Thu,2015-10-15,nan,Loss,0,5-1,away,New Orleans Saints,21,31,23,413,263,150,3,25,385,304,81,0,2.47,-13.12,-1.19,Falcons,2015
-6,7,Sun,2015-10-25,nan,Win,0,6-1,away,Tennessee Titans,10,7,21,378,251,127,2,15,256,179,77,2,-7.18,13.17,-4.23,Falcons,2015
-7,8,Sun,2015-11-01,nan,Loss,1,6-2,home,Tampa Bay Buccaneers,20,23,28,496,395,101,4,21,290,173,117,0,4.9,-6.98,-1.38,Falcons,2015
-8,9,Sun,2015-11-08,nan,Loss,0,6-3,away,San Francisco 49ers,16,17,17,302,285,17,0,18,318,185,133,2,-0.89,-4.03,4.55,Falcons,2015
-9,11,Sun,2015-11-22,nan,Loss,0,6-4,home,Indianapolis Colts,21,24,21,375,275,100,4,17,276,202,74,3,-0.8,3.56,-5.04,Falcons,2015
-10,12,Sun,2015-11-29,nan,Loss,0,6-5,home,Minnesota Vikings,10,20,22,326,210,116,3,24,365,174,191,1,-1.38,-12.01,4.25,Falcons,2015
-11,13,Sun,2015-12-06,nan,Loss,0,6-6,away,Tampa Bay Buccaneers,19,23,21,319,255,64,1,25,388,222,166,2,0.87,-8.44,3.96,Falcons,2015
-12,14,Sun,2015-12-13,nan,Loss,0,6-7,away,Carolina Panthers,0,38,15,230,176,54,4,20,424,282,142,0,-21.29,-16.27,-1.4,Falcons,2015
-13,15,Sun,2015-12-20,nan,Win,0,7-7,away,Jacksonville Jaguars,23,17,22,328,245,83,1,21,370,285,85,1,3.13,4.39,-0.17,Falcons,2015
-14,16,Sun,2015-12-27,nan,Win,0,8-7,home,Carolina Panthers,20,13,21,373,296,77,1,18,268,113,155,1,11.19,1.23,-3.44,Falcons,2015
-15,17,Sun,2016-01-03,nan,Loss,0,8-8,home,New Orleans Saints,17,20,25,414,327,87,2,24,390,323,67,1,12.27,-9.56,-5.25,Falcons,2015
+0,1,Mon,2015-09-14,,Win,0,1-0,home,Eagles,26,24,21,395,290,105,2,23,399,336,63,2,-2.18,0.47,8.59,Falcons,2015
+1,2,Sun,2015-09-20,,Win,0,2-0,away,Giants,24,20,25,402,346,56,0,19,388,291,97,1,9.05,-7.59,-3.97,Falcons,2015
+2,3,Sun,2015-09-27,,Win,0,3-0,away,Cowboys,39,28,26,438,280,158,0,23,347,220,127,1,24.77,-12.25,-0.64,Falcons,2015
+3,4,Sun,2015-10-04,,Win,0,4-0,home,Texans,48,21,22,378,243,135,0,24,428,374,54,4,18.29,10.28,1.55,Falcons,2015
+4,5,Sun,2015-10-11,,Win,1,5-0,home,Redskins,25,19,29,418,242,176,3,18,270,219,51,2,6.99,4.12,-5.85,Falcons,2015
+5,6,Thu,2015-10-15,,Loss,0,5-1,away,Saints,21,31,23,413,263,150,3,25,385,304,81,0,2.47,-13.12,-1.19,Falcons,2015
+6,7,Sun,2015-10-25,,Win,0,6-1,away,Titans,10,7,21,378,251,127,2,15,256,179,77,2,-7.18,13.17,-4.23,Falcons,2015
+7,8,Sun,2015-11-01,,Loss,1,6-2,home,Buccaneers,20,23,28,496,395,101,4,21,290,173,117,0,4.9,-6.98,-1.38,Falcons,2015
+8,9,Sun,2015-11-08,,Loss,0,6-3,away,49ers,16,17,17,302,285,17,0,18,318,185,133,2,-0.89,-4.03,4.55,Falcons,2015
+9,11,Sun,2015-11-22,,Loss,0,6-4,home,Colts,21,24,21,375,275,100,4,17,276,202,74,3,-0.8,3.56,-5.04,Falcons,2015
+10,12,Sun,2015-11-29,,Loss,0,6-5,home,Vikings,10,20,22,326,210,116,3,24,365,174,191,1,-1.38,-12.01,4.25,Falcons,2015
+11,13,Sun,2015-12-06,,Loss,0,6-6,away,Buccaneers,19,23,21,319,255,64,1,25,388,222,166,2,0.87,-8.44,3.96,Falcons,2015
+12,14,Sun,2015-12-13,,Loss,0,6-7,away,Panthers,0,38,15,230,176,54,4,20,424,282,142,0,-21.29,-16.27,-1.4,Falcons,2015
+13,15,Sun,2015-12-20,,Win,0,7-7,away,Jaguars,23,17,22,328,245,83,1,21,370,285,85,1,3.13,4.39,-0.17,Falcons,2015
+14,16,Sun,2015-12-27,,Win,0,8-7,home,Panthers,20,13,21,373,296,77,1,18,268,113,155,1,11.19,1.23,-3.44,Falcons,2015
+15,17,Sun,2016-01-03,,Loss,0,8-8,home,Saints,17,20,25,414,327,87,2,24,390,323,67,1,12.27,-9.56,-5.25,Falcons,2015

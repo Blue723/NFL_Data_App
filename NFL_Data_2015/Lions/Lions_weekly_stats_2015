@@ -1,0 +1,17 @@
+,Week,Day,Date,Boxscore,Win/Loss,Overtime,Home/Away,Opponent,Team Score,Opponenet Score,Passing Completion,Passing Attempts,Passing Yards,Passing Touchdowns,Passing Interceptions,Passing Sacks,Sack Yards,Passing Yards/Attempts,Net Yards/Attempts,Passing Completion Per.,Passing Rate,Rushing Attempts,Rushing Yards,Rushing Yards/Attempts,Rushing Touchdown,Field Goals Made,Field Goals Attempts,Extra Points Made,Extra Point Attempts,Punts,Total Punt Yards,Third Down Conversions,Third Down Attempts,Fourth Down Conversions,Fourth Down Attemtps,Time of Possesion,Year,Team
+0,1,Sun,2015-09-13,boxscore,Loss,0,Away,Chargers,28,33,19,30,233,2,2,1,13,8.2,7.5,63.3,81.7,16,69,4.3,1,0,0,4,4,5,176,3,10,0,0,21:48,2015,Lions
+1,2,Sun,2015-09-20,boxscore,Loss,0,Away,Vikings,16,26,32,53,285,2,1,1,1,5.4,5.3,60.4,79.5,16,38,2.4,0,1,1,1,1,4,177,6,13,2,2,28:54,2015,Lions
+2,3,Sun,2015-09-27,boxscore,Loss,0,Home,Broncos,12,24,31,45,262,1,2,4,20,6.3,5.3,68.9,72.6,19,28,1.5,1,0,0,0,1,5,266,4,12,0,1,31:08,2015,Lions
+3,4,Mon,2015-10-05,boxscore,Loss,0,Away,Seahawks,10,13,24,35,203,0,0,0,0,5.8,5.8,68.6,83.4,18,53,2.9,0,1,1,1,1,8,367,3,13,0,0,27:56,2015,Lions
+4,5,Sun,2015-10-11,boxscore,Loss,0,Home,Cardinals,17,42,41,70,379,2,4,1,0,5.4,5.3,58.6,59.2,18,56,3.1,0,1,1,2,2,4,172,8,17,0,1,36:32,2015,Lions
+5,6,Sun,2015-10-18,boxscore,Win,1,Home,Bears,37,34,27,42,391,4,1,2,14,9.6,8.9,64.3,116.3,32,155,4.8,0,3,3,4,4,4,221,9,17,1,1,38:57,2015,Lions
+6,7,Sun,2015-10-25,boxscore,Loss,0,Home,Vikings,19,28,18,26,197,2,0,7,59,9.8,6.0,69.2,117.0,17,77,4.5,0,1,1,2,2,6,296,1,10,0,2,23:33,2015,Lions
+7,8,Sun,2015-11-01,boxscore,Loss,0,Away,Chiefs,10,45,23,38,195,1,2,6,32,6.0,4.4,60.5,60.7,14,81,5.8,0,1,1,1,1,6,282,2,12,1,2,25:46,2015,Lions
+8,10,Sun,2015-11-15,boxscore,Win,0,Away,Packers,18,16,24,38,242,2,1,0,0,6.4,6.4,63.2,87.8,26,45,1.7,0,2,2,0,2,7,297,5,16,1,1,30:40,2015,Lions
+9,11,Sun,2015-11-22,boxscore,Win,0,Home,Raiders,18,13,22,35,266,0,0,4,16,8.1,6.8,62.9,86.1,31,109,3.5,1,3,3,1,1,5,238,6,14,0,0,36:02,2015,Lions
+10,12,Thu,2015-11-26,boxscore,Win,0,Home,Eagles,45,14,27,38,322,5,0,2,15,8.9,8.1,71.1,136.2,30,108,3.6,1,1,1,6,6,4,184,5,10,0,0,37:11,2015,Lions
+11,13,Thu,2015-12-03,boxscore,Loss,0,Home,Packers,23,27,23,35,205,2,0,3,15,6.3,5.4,65.7,100.3,25,101,4.0,0,3,3,2,2,6,274,6,16,1,1,33:04,2015,Lions
+12,14,Sun,2015-12-13,boxscore,Loss,0,Away,Rams,14,21,30,46,220,2,1,4,25,5.3,4.4,65.2,81.8,20,111,5.6,0,0,0,2,2,7,322,5,13,0,1,33:50,2015,Lions
+13,15,Mon,2015-12-21,boxscore,Win,0,Away,Saints,35,27,22,25,246,3,0,3,8,10.2,8.8,88.0,147.2,23,150,6.5,2,0,1,5,5,3,133,4,8,0,0,29:36,2015,Lions
+14,16,Sun,2015-12-27,boxscore,Win,0,Home,49ers,32,17,29,37,284,2,0,2,17,8.1,7.3,78.4,116.7,28,87,3.1,1,4,4,2,2,3,131,4,12,1,1,36:30,2015,Lions
+15,17,Sun,2016-01-03,boxscore,Win,0,Away,Bears,24,20,28,39,282,3,0,4,16,7.6,6.6,71.8,117.7,21,67,3.2,0,1,2,3,3,3,143,4,10,0,1,32:30,2015,Lions

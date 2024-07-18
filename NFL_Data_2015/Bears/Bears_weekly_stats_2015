@@ -1,0 +1,17 @@
+,Week,Day,Date,Boxscore,Win/Loss,Overtime,Home/Away,Opponent,Team Score,Opponenet Score,Passing Completion,Passing Attempts,Passing Yards,Passing Touchdowns,Passing Interceptions,Passing Sacks,Sack Yards,Passing Yards/Attempts,Net Yards/Attempts,Passing Completion Per.,Passing Rate,Rushing Attempts,Rushing Yards,Rushing Yards/Attempts,Rushing Touchdown,Field Goals Made,Field Goals Attempts,Extra Points Made,Extra Point Attempts,Punts,Total Punt Yards,Third Down Conversions,Third Down Attempts,Fourth Down Conversions,Fourth Down Attemtps,Time of Possesion,Year,Team
+0,1,Sun,2015-09-13,boxscore,Loss,0,Home,Packers,23,31,18,36,213,1,1,2,12,6.3,5.6,50.0,66.1,33,189,5.7,1,3,3,2,2,1,56,11,17,2,3,31:52,2015,Bears
+1,2,Sun,2015-09-20,boxscore,Loss,0,Home,Cardinals,23,48,22,32,226,1,2,2,15,7.5,6.6,68.8,73.2,28,109,3.9,1,3,3,2,2,5,229,2,12,0,1,29:56,2015,Bears
+2,3,Sun,2015-09-27,boxscore,Loss,0,Away,Seahawks,0,26,9,17,48,0,0,2,15,3.7,2.5,52.9,58.7,27,98,3.6,0,0,0,0,0,10,477,3,13,0,0,27:24,2015,Bears
+3,4,Sun,2015-10-04,boxscore,Win,0,Home,Raiders,22,20,28,43,273,2,1,3,8,6.5,5.9,65.1,88.6,29,98,3.4,0,3,3,1,2,3,136,10,17,1,1,33:22,2015,Bears
+4,5,Sun,2015-10-11,boxscore,Win,0,Away,Chiefs,18,17,26,45,241,2,0,2,11,5.6,5.1,57.8,87.4,26,87,3.3,0,2,2,0,0,5,235,6,14,0,1,33:37,2015,Bears
+5,6,Sun,2015-10-18,boxscore,Loss,1,Away,Lions,34,37,26,41,353,1,1,1,0,8.6,8.4,63.4,88.8,31,91,2.9,2,4,4,2,2,5,222,6,14,0,0,33:34,2015,Bears
+6,8,Sun,2015-11-01,boxscore,Loss,0,Home,Vikings,20,23,22,33,208,1,0,1,3,6.4,6.1,66.7,94.0,25,97,3.9,1,2,3,2,2,5,221,3,12,1,1,32:42,2015,Bears
+7,9,Mon,2015-11-09,boxscore,Win,0,Away,Chargers,22,19,27,40,337,2,1,1,8,8.6,8.2,67.5,99.7,29,109,3.8,1,0,2,2,2,2,85,9,15,0,0,33:35,2015,Bears
+8,10,Sun,2015-11-15,boxscore,Win,0,Away,Rams,37,13,19,24,244,3,0,2,14,10.8,9.4,79.2,148.6,37,153,4.1,1,3,3,4,4,4,187,3,12,1,1,34:22,2015,Bears
+9,11,Sun,2015-11-22,boxscore,Loss,0,Home,Broncos,15,17,18,32,261,0,1,2,4,8.3,7.7,56.3,69.9,25,86,3.4,1,3,3,0,0,4,137,4,12,0,1,26:47,2015,Bears
+10,12,Thu,2015-11-26,boxscore,Win,0,Away,Packers,17,13,19,31,189,1,0,1,11,6.5,5.9,61.3,89.3,31,101,3.3,1,1,1,2,2,8,323,5,14,0,0,31:12,2015,Bears
+11,13,Sun,2015-12-06,boxscore,Loss,1,Home,49ers,20,26,18,31,194,0,1,1,8,6.5,6.1,58.1,63.1,42,170,4.0,2,2,4,2,2,6,257,8,17,0,0,37:24,2015,Bears
+12,14,Sun,2015-12-13,boxscore,Loss,0,Home,Redskins,21,24,19,31,290,2,0,3,25,10.2,8.5,61.3,113.6,22,87,4.0,1,0,1,3,3,5,228,5,11,0,0,25:38,2015,Bears
+13,15,Sun,2015-12-20,boxscore,Loss,0,Away,Vikings,17,38,26,37,199,2,1,5,32,6.2,4.7,70.3,89.8,20,94,4.7,0,1,1,2,2,4,161,5,12,1,1,27:50,2015,Bears
+14,16,Sun,2015-12-27,boxscore,Win,0,Away,Buccaneers,26,21,20,27,153,1,0,1,3,5.8,5.5,74.1,99.8,39,174,4.5,1,4,4,2,2,5,177,6,15,0,0,37:03,2015,Bears
+15,17,Sun,2016-01-03,boxscore,Loss,0,Home,Lions,20,24,17,23,231,2,3,5,14,10.7,8.3,73.9,94.9,24,111,4.6,0,2,2,2,2,2,102,7,12,0,0,27:30,2015,Bears

@@ -1,17 +1,17 @@
 ,Week,Day,Date,Time,Win/Loss,Overtime,Team Record,Home/Away,Opponent,Points Scored,Points Allowed,Offense 1st Down,Total Yards Gained of Offense,Total yards Gained by Passing,Total Yards Gained by Rushing,Offense Turnovers,Defense 1st Down,Total Yards Allowed by Defense,Total Passing Yards Allowed by Defense,Total Rushing Yards Allowed by Defense,Defense Turnovers,Offense,Defense,Sp. Tms,Team,Year
-0,1,Sun,2015-09-13,nan,Loss,0,0-1,away,Denver Broncos,13,19,11,173,100,73,2,16,219,150,69,1,-20.78,14.53,1.43,Ravens,2015
-1,2,Sun,2015-09-20,nan,Loss,0,0-2,away,Oakland Raiders,33,37,29,493,384,109,2,27,448,351,97,1,22.74,-22.99,-4.54,Ravens,2015
-2,3,Sun,2015-09-27,nan,Loss,0,0-3,home,Cincinnati Bengals,24,28,19,398,362,36,1,23,458,372,86,2,2.66,-8.92,-5.04,Ravens,2015
-3,4,Thu,2015-10-01,nan,Win,1,1-3,away,Pittsburgh Steelers,23,20,21,356,165,191,2,17,263,96,167,0,-12.68,10.13,6.01,Ravens,2015
-4,5,Sun,2015-10-11,nan,Loss,1,1-4,home,Cleveland Browns,30,33,22,377,196,181,0,25,505,422,83,0,11.73,-22.87,4.83,Ravens,2015
-5,6,Sun,2015-10-18,nan,Loss,0,1-5,away,San Francisco 49ers,20,25,25,420,343,77,2,15,391,326,65,0,4.93,-9.65,0.22,Ravens,2015
-6,7,Mon,2015-10-26,nan,Loss,0,1-6,away,Arizona Cardinals,18,26,18,276,221,55,2,21,414,264,150,0,-1.0,-13.41,5.34,Ravens,2015
-7,8,Sun,2015-11-01,nan,Win,0,2-6,home,San Diego Chargers,29,26,23,365,293,72,0,22,371,290,81,0,13.68,-16.54,5.4,Ravens,2015
-8,10,Sun,2015-11-15,nan,Loss,0,2-7,home,Jacksonville Jaguars,20,22,22,397,308,89,4,22,258,168,90,1,1.13,3.24,-8.43,Ravens,2015
-9,11,Sun,2015-11-22,nan,Win,0,3-7,home,St. Louis Rams,16,13,16,388,292,96,2,13,213,131,82,4,-14.82,14.31,3.51,Ravens,2015
-10,12,Mon,2015-11-30,nan,Win,0,4-7,away,Cleveland Browns,33,27,16,336,232,104,2,21,338,275,63,0,-3.79,-6.16,13.69,Ravens,2015
-11,13,Sun,2015-12-06,nan,Loss,0,4-8,away,Miami Dolphins,13,15,22,375,281,94,2,8,219,82,137,1,-10.66,9.43,-2.84,Ravens,2015
-12,14,Sun,2015-12-13,nan,Loss,0,4-9,home,Seattle Seahawks,6,35,16,302,274,28,2,28,424,301,123,1,-10.51,-23.57,4.75,Ravens,2015
-13,15,Sun,2015-12-20,nan,Loss,0,4-10,home,Kansas City Chiefs,14,34,19,366,273,93,3,15,277,164,113,0,-21.83,-3.79,4.27,Ravens,2015
-14,16,Sun,2015-12-27,nan,Win,0,5-10,home,Pittsburgh Steelers,20,17,22,386,265,121,0,21,308,198,110,3,4.62,-2.69,0.8,Ravens,2015
-15,17,Sun,2016-01-03,nan,Loss,0,5-11,away,Cincinnati Bengals,16,24,22,341,282,59,2,17,292,147,145,0,-7.44,-2.5,-1.74,Ravens,2015
+0,1,Sun,2015-09-13,,Loss,0,0-1,away,Broncos,13,19,11,173,100,73,2,16,219,150,69,1,-20.78,14.53,1.43,Ravens,2015
+1,2,Sun,2015-09-20,,Loss,0,0-2,away,Raiders,33,37,29,493,384,109,2,27,448,351,97,1,22.74,-22.99,-4.54,Ravens,2015
+2,3,Sun,2015-09-27,,Loss,0,0-3,home,Bengals,24,28,19,398,362,36,1,23,458,372,86,2,2.66,-8.92,-5.04,Ravens,2015
+3,4,Thu,2015-10-01,,Win,1,1-3,away,Steelers,23,20,21,356,165,191,2,17,263,96,167,0,-12.68,10.13,6.01,Ravens,2015
+4,5,Sun,2015-10-11,,Loss,1,1-4,home,Browns,30,33,22,377,196,181,0,25,505,422,83,0,11.73,-22.87,4.83,Ravens,2015
+5,6,Sun,2015-10-18,,Loss,0,1-5,away,49ers,20,25,25,420,343,77,2,15,391,326,65,0,4.93,-9.65,0.22,Ravens,2015
+6,7,Mon,2015-10-26,,Loss,0,1-6,away,Cardinals,18,26,18,276,221,55,2,21,414,264,150,0,-1.0,-13.41,5.34,Ravens,2015
+7,8,Sun,2015-11-01,,Win,0,2-6,home,Chargers,29,26,23,365,293,72,0,22,371,290,81,0,13.68,-16.54,5.4,Ravens,2015
+8,10,Sun,2015-11-15,,Loss,0,2-7,home,Jaguars,20,22,22,397,308,89,4,22,258,168,90,1,1.13,3.24,-8.43,Ravens,2015
+9,11,Sun,2015-11-22,,Win,0,3-7,home,Rams,16,13,16,388,292,96,2,13,213,131,82,4,-14.82,14.31,3.51,Ravens,2015
+10,12,Mon,2015-11-30,,Win,0,4-7,away,Browns,33,27,16,336,232,104,2,21,338,275,63,0,-3.79,-6.16,13.69,Ravens,2015
+11,13,Sun,2015-12-06,,Loss,0,4-8,away,Dolphins,13,15,22,375,281,94,2,8,219,82,137,1,-10.66,9.43,-2.84,Ravens,2015
+12,14,Sun,2015-12-13,,Loss,0,4-9,home,Seahawks,6,35,16,302,274,28,2,28,424,301,123,1,-10.51,-23.57,4.75,Ravens,2015
+13,15,Sun,2015-12-20,,Loss,0,4-10,home,Chiefs,14,34,19,366,273,93,3,15,277,164,113,0,-21.83,-3.79,4.27,Ravens,2015
+14,16,Sun,2015-12-27,,Win,0,5-10,home,Steelers,20,17,22,386,265,121,0,21,308,198,110,3,4.62,-2.69,0.8,Ravens,2015
+15,17,Sun,2016-01-03,,Loss,0,5-11,away,Bengals,16,24,22,341,282,59,2,17,292,147,145,0,-7.44,-2.5,-1.74,Ravens,2015

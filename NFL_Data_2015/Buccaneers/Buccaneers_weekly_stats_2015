@@ -1,0 +1,17 @@
+,Week,Day,Date,Boxscore,Win/Loss,Overtime,Home/Away,Opponent,Team Score,Opponenet Score,Passing Completion,Passing Attempts,Passing Yards,Passing Touchdowns,Passing Interceptions,Passing Sacks,Sack Yards,Passing Yards/Attempts,Net Yards/Attempts,Passing Completion Per.,Passing Rate,Rushing Attempts,Rushing Yards,Rushing Yards/Attempts,Rushing Touchdown,Field Goals Made,Field Goals Attempts,Extra Points Made,Extra Point Attempts,Punts,Total Punt Yards,Third Down Conversions,Third Down Attempts,Fourth Down Conversions,Fourth Down Attemtps,Time of Possesion,Year,Team
+0,1,Sun,2015-09-13,boxscore,Loss,0,Home,Titans,14,42,16,33,181,2,2,4,29,6.4,4.9,48.5,60.3,26,92,3.5,0,0,0,2,2,4,188,3,14,2,4,28:30,2015,Buccaneers
+1,2,Sun,2015-09-20,boxscore,Win,0,Away,Saints,26,19,14,21,194,1,0,3,13,9.9,8.1,66.7,112.0,35,139,4.0,1,4,5,2,2,3,116,5,14,0,0,28:32,2015,Buccaneers
+2,3,Sun,2015-09-27,boxscore,Loss,0,Away,Texans,9,19,17,36,261,1,1,0,0,7.3,7.3,47.2,69.3,20,57,2.9,0,1,4,0,1,7,312,1,12,0,0,23:44,2015,Buccaneers
+3,4,Sun,2015-10-04,boxscore,Loss,0,Home,Panthers,23,37,26,43,270,2,4,2,17,6.7,6.0,60.5,55.4,30,141,4.7,1,1,3,2,3,2,82,8,16,2,2,32:10,2015,Buccaneers
+4,5,Sun,2015-10-11,boxscore,Win,0,Home,Jaguars,38,31,13,19,186,1,0,2,23,11.0,8.9,68.4,117.4,40,183,4.6,2,3,3,3,3,3,101,5,11,0,0,34:41,2015,Buccaneers
+5,7,Sun,2015-10-25,boxscore,Loss,0,Away,Redskins,30,31,21,29,289,2,0,1,8,10.2,9.6,72.4,126.9,30,190,6.3,0,3,3,3,3,2,89,7,12,0,0,31:18,2015,Buccaneers
+6,8,Sun,2015-11-01,boxscore,Win,1,Away,Falcons,23,20,16,29,173,1,0,2,4,6.1,5.6,55.2,84.4,32,117,3.7,1,3,3,2,2,3,127,6,13,0,1,30:11,2015,Buccaneers
+7,9,Sun,2015-11-08,boxscore,Loss,0,Home,Giants,18,32,19,36,247,0,0,0,0,6.9,6.9,52.8,74.7,23,136,5.9,1,4,5,0,0,2,85,6,13,0,0,25:05,2015,Buccaneers
+8,10,Sun,2015-11-15,boxscore,Win,0,Home,Cowboys,10,6,22,39,246,0,2,2,18,6.8,6.0,56.4,54.0,26,84,3.2,1,1,2,1,1,4,167,4,11,0,0,29:56,2015,Buccaneers
+9,11,Sun,2015-11-22,boxscore,Win,0,Away,Eagles,45,17,19,29,238,5,0,1,8,8.5,7.9,65.5,130.5,42,283,6.7,0,1,1,6,6,4,179,10,16,1,1,35:54,2015,Buccaneers
+10,12,Sun,2015-11-29,boxscore,Loss,0,Away,Colts,12,25,20,36,212,1,1,5,33,6.8,5.2,55.6,70.6,21,132,6.3,0,2,3,0,1,3,142,6,13,0,1,27:35,2015,Buccaneers
+11,13,Sun,2015-12-06,boxscore,Win,0,Home,Falcons,23,19,18,27,222,1,1,1,5,8.4,7.9,66.7,88.8,37,166,4.5,2,1,1,2,2,3,112,6,11,0,0,31:15,2015,Buccaneers
+12,14,Sun,2015-12-13,boxscore,Loss,0,Home,Saints,17,24,18,32,176,1,0,1,6,5.7,5.3,56.3,82.3,19,115,6.1,1,1,2,2,2,5,206,4,11,1,1,22:46,2015,Buccaneers
+13,15,Thu,2015-12-17,boxscore,Loss,0,Away,Rams,23,31,29,50,363,2,1,0,0,7.3,7.3,58.0,85.7,27,146,5.4,0,3,3,2,2,3,122,3,10,0,1,31:20,2015,Buccaneers
+14,16,Sun,2015-12-27,boxscore,Loss,0,Home,Bears,21,26,15,29,285,2,1,1,10,10.2,9.5,51.7,94.8,25,104,4.2,1,0,1,3,3,4,173,2,8,0,0,22:57,2015,Buccaneers
+15,17,Sun,2016-01-03,boxscore,Loss,0,Away,Panthers,10,38,29,47,309,0,2,2,16,6.9,6.3,61.7,63.2,22,77,3.5,1,1,1,1,1,4,147,8,16,1,2,28:10,2015,Buccaneers

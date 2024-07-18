@@ -1,35 +1,35 @@
-,Rank,Team,Date,Opponent,Win/Loss,Home_Score,Opponenet_Score,Quarter,Distance,Type,Detail
-1,1,Jets,2015-09-13,CLE,Win,31,10,2,54,pass,Travis Benjamin
-2,2,Jets,2015-09-21,IND,Win,20,7,4,26,pass,Donte Moncrief
-3,3,Jets,2015-09-27,PHI,Loss,17,24,2,89,punt,Darren Sproles
-4,4,Jets,2015-09-27,PHI,Loss,17,24,2,23,pass,Ryan Mathews
-5,5,Jets,2015-09-27,PHI,Loss,17,24,2,1,rush,Darren Sproles
-6,6,Jets,2015-10-04,MIA,Win,27,14,2,8,pass,Jake Stoneburner
-7,7,Jets,2015-10-04,MIA,Win,27,14,4,10,pass,Kenny Stills
-8,8,Jets,2015-10-18,WAS,Win,34,20,1,2,pass,Pierre Garcon
-9,9,Jets,2015-10-18,WAS,Win,34,20,4,0,blocked punt,Rashad Ross
-10,10,Jets,2015-10-25,NWE,Loss,23,30,2,1,rush,Tom Brady
-11,11,Jets,2015-10-25,NWE,Loss,23,30,4,8,pass,Danny Amendola
-12,12,Jets,2015-10-25,NWE,Loss,23,30,4,15,pass,Rob Gronkowski
-13,13,Jets,2015-11-01,OAK,Loss,20,34,1,5,pass,Andre Holmes
-14,14,Jets,2015-11-01,OAK,Loss,20,34,2,36,pass,Michael Crabtree
-15,15,Jets,2015-11-01,OAK,Loss,20,34,2,49,pass,Andre Holmes
-16,16,Jets,2015-11-01,OAK,Loss,20,34,3,59,pass,Taiwan Jones
-17,17,Jets,2015-11-08,JAX,Win,28,23,2,30,pass,Allen Hurns
-18,18,Jets,2015-11-08,JAX,Win,28,23,4,20,pass,Bryan Walters
-19,19,Jets,2015-11-12,BUF,Loss,17,22,2,19,fumble,Duke Williams
-20,20,Jets,2015-11-12,BUF,Loss,17,22,3,26,pass,Karlos Williams
-21,21,Jets,2015-11-22,HOU,Loss,17,24,2,61,pass,DeAndre Hopkins
-22,22,Jets,2015-11-22,HOU,Loss,17,24,3,21,pass,Alfred Blue
-23,23,Jets,2015-11-22,HOU,Loss,17,24,3,20,pass,DeAndre Hopkins
-24,24,Jets,2015-11-29,MIA,Win,38,20,3,5,pass,Jarvis Landry
-25,25,Jets,2015-11-29,MIA,Win,38,20,4,5,pass,Greg Jennings
-26,26,Jets,2015-11-29,MIA,Win,38,20,4,33,pass,DeVante Parker
-27,27,Jets,2015-12-06,NYG,Win,23,20,2,80,punt,Dwayne Harris
-28,28,Jets,2015-12-06,NYG,Win,23,20,2,72,pass,Odell Beckham Jr.
-29,29,Jets,2015-12-13,TEN,Win,30,8,3,41,pass,Marcus Mariota
-30,30,Jets,2015-12-19,DAL,Win,19,16,2,10,pass,Dez Bryant
-31,31,Jets,2015-12-27,NWE,Win,26,20,3,14,fumble,Jamie Collins
-32,32,Jets,2015-12-27,NWE,Win,26,20,4,9,pass,James White
-33,33,Jets,2016-01-03,BUF,Loss,17,22,1,18,rush,Tyrod Taylor
-34,34,Jets,2016-01-03,BUF,Loss,17,22,2,2,rush,Karlos Williams
+,Rank,Team,Date,Opponent,Win/Loss,Home_Score,Opponenet_Score,Quarter,Distance,Type,Detail,Year
+1,1,Jets,2015-09-13,CLE,Win,31,10,2,54,pass,Travis Benjamin,2015
+2,2,Jets,2015-09-21,IND,Win,20,7,4,26,pass,Donte Moncrief,2015
+3,3,Jets,2015-09-27,PHI,Loss,17,24,2,89,punt,Darren Sproles,2015
+4,4,Jets,2015-09-27,PHI,Loss,17,24,2,23,pass,Ryan Mathews,2015
+5,5,Jets,2015-09-27,PHI,Loss,17,24,2,1,rush,Darren Sproles,2015
+6,6,Jets,2015-10-04,MIA,Win,27,14,2,8,pass,Jake Stoneburner,2015
+7,7,Jets,2015-10-04,MIA,Win,27,14,4,10,pass,Kenny Stills,2015
+8,8,Jets,2015-10-18,WAS,Win,34,20,1,2,pass,Pierre Garcon,2015
+9,9,Jets,2015-10-18,WAS,Win,34,20,4,0,blocked punt,Rashad Ross,2015
+10,10,Jets,2015-10-25,NWE,Loss,23,30,2,1,rush,Tom Brady,2015
+11,11,Jets,2015-10-25,NWE,Loss,23,30,4,8,pass,Danny Amendola,2015
+12,12,Jets,2015-10-25,NWE,Loss,23,30,4,15,pass,Rob Gronkowski,2015
+13,13,Jets,2015-11-01,OAK,Loss,20,34,1,5,pass,Andre Holmes,2015
+14,14,Jets,2015-11-01,OAK,Loss,20,34,2,36,pass,Michael Crabtree,2015
+15,15,Jets,2015-11-01,OAK,Loss,20,34,2,49,pass,Andre Holmes,2015
+16,16,Jets,2015-11-01,OAK,Loss,20,34,3,59,pass,Taiwan Jones,2015
+17,17,Jets,2015-11-08,JAX,Win,28,23,2,30,pass,Allen Hurns,2015
+18,18,Jets,2015-11-08,JAX,Win,28,23,4,20,pass,Bryan Walters,2015
+19,19,Jets,2015-11-12,BUF,Loss,17,22,2,19,fumble,Duke Williams,2015
+20,20,Jets,2015-11-12,BUF,Loss,17,22,3,26,pass,Karlos Williams,2015
+21,21,Jets,2015-11-22,HOU,Loss,17,24,2,61,pass,DeAndre Hopkins,2015
+22,22,Jets,2015-11-22,HOU,Loss,17,24,3,21,pass,Alfred Blue,2015
+23,23,Jets,2015-11-22,HOU,Loss,17,24,3,20,pass,DeAndre Hopkins,2015
+24,24,Jets,2015-11-29,MIA,Win,38,20,3,5,pass,Jarvis Landry,2015
+25,25,Jets,2015-11-29,MIA,Win,38,20,4,5,pass,Greg Jennings,2015
+26,26,Jets,2015-11-29,MIA,Win,38,20,4,33,pass,DeVante Parker,2015
+27,27,Jets,2015-12-06,NYG,Win,23,20,2,80,punt,Dwayne Harris,2015
+28,28,Jets,2015-12-06,NYG,Win,23,20,2,72,pass,Odell Beckham Jr.,2015
+29,29,Jets,2015-12-13,TEN,Win,30,8,3,41,pass,Marcus Mariota,2015
+30,30,Jets,2015-12-19,DAL,Win,19,16,2,10,pass,Dez Bryant,2015
+31,31,Jets,2015-12-27,NWE,Win,26,20,3,14,fumble,Jamie Collins,2015
+32,32,Jets,2015-12-27,NWE,Win,26,20,4,9,pass,James White,2015
+33,33,Jets,2016-01-03,BUF,Loss,17,22,1,18,rush,Tyrod Taylor,2015
+34,34,Jets,2016-01-03,BUF,Loss,17,22,2,2,rush,Karlos Williams,2015

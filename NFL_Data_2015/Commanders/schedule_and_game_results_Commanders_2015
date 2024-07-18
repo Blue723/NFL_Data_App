@@ -1,18 +1,18 @@
 ,Week,Day,Date,Time,Win/Loss,Overtime,Team Record,Home/Away,Opponent,Points Scored,Points Allowed,Offense 1st Down,Total Yards Gained of Offense,Total yards Gained by Passing,Total Yards Gained by Rushing,Offense Turnovers,Defense 1st Down,Total Yards Allowed by Defense,Total Passing Yards Allowed by Defense,Total Rushing Yards Allowed by Defense,Defense Turnovers,Offense,Defense,Sp. Tms,Team,Year
-0,1,Sun,2015-09-13,nan,Loss,0,0-1,home,Miami Dolphins,10,17,20,349,188,161,2,19,256,182,74,1,-2.45,2.58,-8.91,Commanders,2015
-1,2,Sun,2015-09-20,nan,Win,0,1-1,home,St. Louis Rams,24,10,19,373,191,182,1,11,213,146,67,0,5.85,13.19,-5.82,Commanders,2015
-2,3,Thu,2015-09-24,nan,Loss,0,1-2,away,New York Giants,21,32,22,393,305,88,3,19,363,279,84,0,0.87,-10.61,-0.69,Commanders,2015
-3,4,Sun,2015-10-04,nan,Win,0,2-2,home,Philadelphia Eagles,23,20,25,417,290,127,1,14,320,233,87,2,8.47,-5.79,0.35,Commanders,2015
-4,5,Sun,2015-10-11,nan,Loss,1,2-3,away,Atlanta Falcons,19,25,18,270,219,51,2,29,418,242,176,3,-4.12,-6.99,5.85,Commanders,2015
-5,6,Sun,2015-10-18,nan,Loss,0,2-4,away,New York Jets,20,34,14,225,191,34,2,22,474,253,221,3,-11.9,-8.72,6.67,Commanders,2015
-6,7,Sun,2015-10-25,nan,Win,0,3-4,home,Tampa Bay Buccaneers,31,30,27,355,305,50,1,21,479,289,190,1,10.95,-12.0,4.05,Commanders,2015
-7,9,Sun,2015-11-08,nan,Loss,0,3-5,away,New England Patriots,10,27,16,250,213,37,2,27,460,299,161,2,-7.34,-12.06,3.71,Commanders,2015
-8,10,Sun,2015-11-15,nan,Win,0,4-5,home,New Orleans Saints,47,14,23,510,301,209,0,16,350,192,158,2,29.3,3.92,-4.06,Commanders,2015
-9,11,Sun,2015-11-22,nan,Loss,0,4-6,away,Carolina Panthers,16,44,9,186,172,14,5,27,368,226,142,0,-22.42,-18.27,13.88,Commanders,2015
-10,12,Sun,2015-11-29,nan,Win,0,5-6,home,New York Giants,20,14,18,407,302,105,0,17,332,299,33,3,2.22,6.91,-3.01,Commanders,2015
-11,13,Mon,2015-12-07,nan,Loss,0,5-7,home,Dallas Cowboys,16,19,15,266,193,73,1,16,318,221,97,3,-4.13,8.26,-9.39,Commanders,2015
-12,14,Sun,2015-12-13,nan,Win,0,6-7,away,Chicago Bears,24,21,24,374,275,99,1,20,377,290,87,1,13.28,-9.99,1.3,Commanders,2015
-13,15,Sun,2015-12-20,nan,Win,0,7-7,home,Buffalo Bills,35,25,23,431,308,123,1,21,452,212,240,0,27.35,-13.71,-0.21,Commanders,2015
-14,16,Sat,2015-12-26,nan,Win,0,8-7,away,Philadelphia Eagles,38,24,25,418,351,67,0,23,398,353,45,2,12.67,4.54,-0.28,Commanders,2015
-15,17,Sun,2016-01-03,nan,Win,0,9-7,away,Dallas Cowboys,34,23,19,437,291,146,0,27,512,412,100,4,16.48,-4.93,1.86,Commanders,2015
-16,19,Sun,2016-01-10,nan,Loss,0,9-8,home,Green Bay Packers,18,35,20,354,270,84,1,24,346,205,141,1,-5.95,-12.3,1.64,Commanders,2015
+0,1,Sun,2015-09-13,,Loss,0,0-1,home,Dolphins,10,17,20,349,188,161,2,19,256,182,74,1,-2.45,2.58,-8.91,Commanders,2015
+1,2,Sun,2015-09-20,,Win,0,1-1,home,Rams,24,10,19,373,191,182,1,11,213,146,67,0,5.85,13.19,-5.82,Commanders,2015
+2,3,Thu,2015-09-24,,Loss,0,1-2,away,Giants,21,32,22,393,305,88,3,19,363,279,84,0,0.87,-10.61,-0.69,Commanders,2015
+3,4,Sun,2015-10-04,,Win,0,2-2,home,Eagles,23,20,25,417,290,127,1,14,320,233,87,2,8.47,-5.79,0.35,Commanders,2015
+4,5,Sun,2015-10-11,,Loss,1,2-3,away,Falcons,19,25,18,270,219,51,2,29,418,242,176,3,-4.12,-6.99,5.85,Commanders,2015
+5,6,Sun,2015-10-18,,Loss,0,2-4,away,Jets,20,34,14,225,191,34,2,22,474,253,221,3,-11.9,-8.72,6.67,Commanders,2015
+6,7,Sun,2015-10-25,,Win,0,3-4,home,Buccaneers,31,30,27,355,305,50,1,21,479,289,190,1,10.95,-12.0,4.05,Commanders,2015
+7,9,Sun,2015-11-08,,Loss,0,3-5,away,Patriots,10,27,16,250,213,37,2,27,460,299,161,2,-7.34,-12.06,3.71,Commanders,2015
+8,10,Sun,2015-11-15,,Win,0,4-5,home,Saints,47,14,23,510,301,209,0,16,350,192,158,2,29.3,3.92,-4.06,Commanders,2015
+9,11,Sun,2015-11-22,,Loss,0,4-6,away,Panthers,16,44,9,186,172,14,5,27,368,226,142,0,-22.42,-18.27,13.88,Commanders,2015
+10,12,Sun,2015-11-29,,Win,0,5-6,home,Giants,20,14,18,407,302,105,0,17,332,299,33,3,2.22,6.91,-3.01,Commanders,2015
+11,13,Mon,2015-12-07,,Loss,0,5-7,home,Cowboys,16,19,15,266,193,73,1,16,318,221,97,3,-4.13,8.26,-9.39,Commanders,2015
+12,14,Sun,2015-12-13,,Win,0,6-7,away,Bears,24,21,24,374,275,99,1,20,377,290,87,1,13.28,-9.99,1.3,Commanders,2015
+13,15,Sun,2015-12-20,,Win,0,7-7,home,Bills,35,25,23,431,308,123,1,21,452,212,240,0,27.35,-13.71,-0.21,Commanders,2015
+14,16,Sat,2015-12-26,,Win,0,8-7,away,Eagles,38,24,25,418,351,67,0,23,398,353,45,2,12.67,4.54,-0.28,Commanders,2015
+15,17,Sun,2016-01-03,,Win,0,9-7,away,Cowboys,34,23,19,437,291,146,0,27,512,412,100,4,16.48,-4.93,1.86,Commanders,2015
+16,19,Sun,2016-01-10,,Loss,0,9-8,home,Packers,18,35,20,354,270,84,1,24,346,205,141,1,-5.95,-12.3,1.64,Commanders,2015

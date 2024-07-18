@@ -1,17 +1,17 @@
 ,Week,Day,Date,Time,Win/Loss,Overtime,Team Record,Home/Away,Opponent,Points Scored,Points Allowed,Offense 1st Down,Total Yards Gained of Offense,Total yards Gained by Passing,Total Yards Gained by Rushing,Offense Turnovers,Defense 1st Down,Total Yards Allowed by Defense,Total Passing Yards Allowed by Defense,Total Rushing Yards Allowed by Defense,Defense Turnovers,Offense,Defense,Sp. Tms,Team,Year
-0,1,Sun,2015-09-13,nan,Win,0,1-0,home,New York Giants,27,26,27,436,356,80,3,18,288,189,99,0,4.61,-2.48,-2.2,Cowboys,2015
-1,2,Sun,2015-09-20,nan,Win,0,2-0,away,Philadelphia Eagles,20,10,21,359,250,109,2,17,226,219,7,3,-6.08,15.51,1.73,Cowboys,2015
-2,3,Sun,2015-09-27,nan,Loss,0,2-1,home,Atlanta Falcons,28,39,23,347,220,127,1,26,438,280,158,0,12.25,-24.77,0.64,Cowboys,2015
-3,4,Sun,2015-10-04,nan,Loss,1,2-2,away,New Orleans Saints,20,26,21,335,220,115,0,27,438,335,103,0,10.86,-18.09,-0.16,Cowboys,2015
-4,5,Sun,2015-10-11,nan,Loss,0,2-3,home,New England Patriots,6,30,18,265,163,102,2,20,356,247,109,0,-15.25,-7.94,0.38,Cowboys,2015
-5,7,Sun,2015-10-25,nan,Loss,0,2-4,away,New York Giants,20,27,27,460,227,233,4,13,289,157,132,0,2.39,-1.44,-10.3,Cowboys,2015
-6,8,Sun,2015-11-01,nan,Loss,0,2-5,home,Seattle Seahawks,12,13,14,220,91,129,0,19,323,210,113,1,-7.75,-0.06,2.69,Cowboys,2015
-7,9,Sun,2015-11-08,nan,Loss,1,2-6,home,Philadelphia Eagles,27,33,25,411,277,134,1,25,459,287,172,0,11.6,-14.81,-0.73,Cowboys,2015
-8,10,Sun,2015-11-15,nan,Loss,0,2-7,away,Tampa Bay Buccaneers,6,10,12,216,174,42,1,23,330,246,84,2,-8.71,-1.55,6.55,Cowboys,2015
-9,11,Sun,2015-11-22,nan,Win,0,3-7,away,Miami Dolphins,24,14,22,386,220,166,2,9,210,140,70,1,2.78,10.03,-0.88,Cowboys,2015
-10,12,Thu,2015-11-26,nan,Loss,0,3-8,home,Carolina Panthers,14,33,14,210,179,31,3,18,294,165,129,0,-18.68,-0.1,-1.47,Cowboys,2015
-11,13,Mon,2015-12-07,nan,Win,0,4-8,away,Washington Redskins,19,16,16,318,221,97,3,15,266,193,73,1,-8.26,4.13,9.39,Cowboys,2015
-12,14,Sun,2015-12-13,nan,Loss,0,4-9,away,Green Bay Packers,7,28,11,270,99,171,1,29,435,205,230,0,-13.6,-6.9,3.05,Cowboys,2015
-13,15,Sat,2015-12-19,nan,Loss,0,4-10,home,New York Jets,16,19,15,309,176,133,4,20,372,299,73,1,-10.81,0.36,9.21,Cowboys,2015
-14,16,Sun,2015-12-27,nan,Loss,0,4-11,away,Buffalo Bills,6,16,14,307,186,121,2,19,408,172,236,2,-4.89,0.35,-6.43,Cowboys,2015
-15,17,Sun,2016-01-03,nan,Loss,0,4-12,home,Washington Redskins,23,34,27,512,412,100,4,19,437,291,146,0,4.93,-16.48,-1.86,Cowboys,2015
+0,1,Sun,2015-09-13,,Win,0,1-0,home,Giants,27,26,27,436,356,80,3,18,288,189,99,0,4.61,-2.48,-2.2,Cowboys,2015
+1,2,Sun,2015-09-20,,Win,0,2-0,away,Eagles,20,10,21,359,250,109,2,17,226,219,7,3,-6.08,15.51,1.73,Cowboys,2015
+2,3,Sun,2015-09-27,,Loss,0,2-1,home,Falcons,28,39,23,347,220,127,1,26,438,280,158,0,12.25,-24.77,0.64,Cowboys,2015
+3,4,Sun,2015-10-04,,Loss,1,2-2,away,Saints,20,26,21,335,220,115,0,27,438,335,103,0,10.86,-18.09,-0.16,Cowboys,2015
+4,5,Sun,2015-10-11,,Loss,0,2-3,home,Patriots,6,30,18,265,163,102,2,20,356,247,109,0,-15.25,-7.94,0.38,Cowboys,2015
+5,7,Sun,2015-10-25,,Loss,0,2-4,away,Giants,20,27,27,460,227,233,4,13,289,157,132,0,2.39,-1.44,-10.3,Cowboys,2015
+6,8,Sun,2015-11-01,,Loss,0,2-5,home,Seahawks,12,13,14,220,91,129,0,19,323,210,113,1,-7.75,-0.06,2.69,Cowboys,2015
+7,9,Sun,2015-11-08,,Loss,1,2-6,home,Eagles,27,33,25,411,277,134,1,25,459,287,172,0,11.6,-14.81,-0.73,Cowboys,2015
+8,10,Sun,2015-11-15,,Loss,0,2-7,away,Buccaneers,6,10,12,216,174,42,1,23,330,246,84,2,-8.71,-1.55,6.55,Cowboys,2015
+9,11,Sun,2015-11-22,,Win,0,3-7,away,Dolphins,24,14,22,386,220,166,2,9,210,140,70,1,2.78,10.03,-0.88,Cowboys,2015
+10,12,Thu,2015-11-26,,Loss,0,3-8,home,Panthers,14,33,14,210,179,31,3,18,294,165,129,0,-18.68,-0.1,-1.47,Cowboys,2015
+11,13,Mon,2015-12-07,,Win,0,4-8,away,Redskins,19,16,16,318,221,97,3,15,266,193,73,1,-8.26,4.13,9.39,Cowboys,2015
+12,14,Sun,2015-12-13,,Loss,0,4-9,away,Packers,7,28,11,270,99,171,1,29,435,205,230,0,-13.6,-6.9,3.05,Cowboys,2015
+13,15,Sat,2015-12-19,,Loss,0,4-10,home,Jets,16,19,15,309,176,133,4,20,372,299,73,1,-10.81,0.36,9.21,Cowboys,2015
+14,16,Sun,2015-12-27,,Loss,0,4-11,away,Bills,6,16,14,307,186,121,2,19,408,172,236,2,-4.89,0.35,-6.43,Cowboys,2015
+15,17,Sun,2016-01-03,,Loss,0,4-12,home,Redskins,23,34,27,512,412,100,4,19,437,291,146,0,4.93,-16.48,-1.86,Cowboys,2015
