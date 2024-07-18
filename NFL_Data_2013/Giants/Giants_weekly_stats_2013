@@ -1,0 +1,17 @@
+,Week,Day,Date,Boxscore,Win/Loss,Overtime,Home/Away,Opponent,Team Score,Opponenet Score,Passing Completion,Passing Attempts,Passing Yards,Passing Touchdowns,Passing Interceptions,Passing Sacks,Sack Yards,Passing Yards/Attempts,Net Yards/Attempts,Passing Completion Per.,Passing Rate,Rushing Attempts,Rushing Yards,Rushing Yards/Attempts,Rushing Touchdown,Field Goals Made,Field Goals Attempts,Extra Points Made,Extra Point Attempts,Punts,Total Punt Yards,Third Down Conversions,Third Down Attempts,Fourth Down Conversions,Fourth Down Attemtps,Time of Possesion,Year,Team
+0,1,Sun,2013-09-08,boxscore,Loss,0,Away,Cowboys,31,36,27,42,428,4,3,3,22,10.7,9.5,64.3,100.1,14,50,3.6,0,1,1,4,4,3,164,6,11,0,0,22:50,2013,Giants
+1,2,Sun,2013-09-15,boxscore,Loss,0,Home,Broncos,23,41,28,49,353,1,4,1,9,7.4,7.1,57.1,52.5,19,23,1.2,1,3,3,2,2,5,231,1,11,0,1,31:58,2013,Giants
+2,3,Sun,2013-09-22,boxscore,Loss,0,Away,Panthers,0,38,14,27,90,0,2,7,45,5.0,2.6,51.9,28.3,16,60,3.8,0,0,1,0,0,6,245,3,12,0,1,23:13,2013,Giants
+3,4,Sun,2013-09-29,boxscore,Loss,0,Away,Chiefs,7,31,18,37,200,1,1,3,17,5.9,5.0,48.6,62.9,21,98,4.7,0,0,1,1,1,8,399,1,14,1,2,24:04,2013,Giants
+4,5,Sun,2013-10-06,boxscore,Loss,0,Home,Eagles,21,36,24,52,330,2,3,1,4,6.4,6.2,46.2,55.8,17,53,3.1,1,0,0,3,3,7,338,5,13,0,0,27:53,2013,Giants
+5,6,Thu,2013-10-10,boxscore,Loss,0,Away,Bears,21,27,14,26,232,1,3,1,7,9.2,8.6,53.8,57.4,26,123,4.7,2,0,0,3,3,3,139,7,11,0,0,27:05,2013,Giants
+6,7,Mon,2013-10-21,boxscore,Win,0,Home,Vikings,23,7,23,39,193,1,0,2,7,5.1,4.7,59.0,80.4,32,64,2.0,1,3,3,2,2,9,438,7,19,0,0,36:22,2013,Giants
+7,8,Sun,2013-10-27,boxscore,Win,0,Away,Eagles,15,7,25,39,237,0,0,1,9,6.3,5.9,64.1,80.8,31,88,2.8,0,5,5,0,0,5,219,8,19,0,1,38:05,2013,Giants
+8,10,Sun,2013-11-10,boxscore,Win,0,Home,Raiders,24,20,12,22,118,1,1,3,22,6.4,4.7,54.5,66.1,38,133,3.5,1,1,1,3,3,4,121,7,14,0,0,32:02,2013,Giants
+9,11,Sun,2013-11-17,boxscore,Win,0,Home,Packers,27,13,25,35,256,1,1,4,23,8.0,6.6,71.4,89.7,24,78,3.3,1,2,2,3,3,5,265,4,14,2,2,35:14,2013,Giants
+10,12,Sun,2013-11-24,boxscore,Loss,0,Home,Cowboys,21,24,16,30,154,2,0,2,20,5.8,4.8,53.3,90.1,30,202,6.7,0,2,2,1,1,5,273,3,12,1,2,30:39,2013,Giants
+11,13,Sun,2013-12-01,boxscore,Win,0,Away,Redskins,24,17,22,28,206,1,1,3,29,8.4,6.6,78.6,94.3,23,80,3.5,2,1,1,3,3,6,287,4,12,0,0,28:25,2013,Giants
+12,14,Sun,2013-12-08,boxscore,Loss,0,Away,Chargers,14,37,20,32,241,1,2,2,18,8.1,7.1,62.5,69.9,20,92,4.6,1,0,0,2,2,3,141,3,8,1,2,23:04,2013,Giants
+13,15,Sun,2013-12-15,boxscore,Loss,0,Home,Seahawks,0,23,22,35,156,0,5,4,30,5.3,4.0,62.9,33.5,14,25,1.8,0,0,0,0,0,8,380,1,10,0,0,26:02,2013,Giants
+14,16,Sun,2013-12-22,boxscore,Win,1,Away,Lions,23,20,23,42,238,1,1,2,18,6.1,5.4,54.8,69.3,21,41,2.0,0,3,3,2,2,6,279,6,17,1,1,29:43,2013,Giants
+15,17,Sun,2013-12-29,boxscore,Win,0,Home,Redskins,20,6,12,32,156,1,2,1,7,5.1,4.7,37.5,38.0,35,122,3.5,1,2,3,2,2,8,352,3,14,0,0,31:39,2013,Giants

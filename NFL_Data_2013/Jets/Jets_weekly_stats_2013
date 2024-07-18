@@ -1,0 +1,17 @@
+,Week,Day,Date,Boxscore,Win/Loss,Overtime,Home/Away,Opponent,Team Score,Opponenet Score,Passing Completion,Passing Attempts,Passing Yards,Passing Touchdowns,Passing Interceptions,Passing Sacks,Sack Yards,Passing Yards/Attempts,Net Yards/Attempts,Passing Completion Per.,Passing Rate,Rushing Attempts,Rushing Yards,Rushing Yards/Attempts,Rushing Touchdown,Field Goals Made,Field Goals Attempts,Extra Points Made,Extra Point Attempts,Punts,Total Punt Yards,Third Down Conversions,Third Down Attempts,Fourth Down Conversions,Fourth Down Attemtps,Time of Possesion,Year,Team
+0,1,Sun,2013-09-08,boxscore,Win,0,Home,Buccaneers,18,17,24,39,214,1,1,5,42,6.6,4.9,61.5,74.1,29,90,3.1,0,3,3,1,1,7,339,7,18,0,0,32:22,2013,Jets
+1,2,Thu,2013-09-12,boxscore,Loss,0,Away,Patriots,10,13,15,35,189,0,3,4,25,6.1,4.8,42.9,24.6,32,129,4.0,1,1,1,1,1,9,401,6,18,0,0,34:00,2013,Jets
+2,3,Sun,2013-09-22,boxscore,Win,0,Home,Bills,27,20,16,29,331,2,2,0,0,11.4,11.4,55.2,89.9,41,182,4.4,1,2,2,3,3,7,294,5,14,0,1,34:13,2013,Jets
+3,4,Sun,2013-09-29,boxscore,Loss,0,Away,Titans,13,38,23,34,239,1,2,5,50,8.5,6.1,67.6,73.0,23,91,4.0,0,2,2,1,1,5,245,4,13,0,1,29:22,2013,Jets
+4,5,Mon,2013-10-07,boxscore,Win,0,Away,Falcons,30,28,16,20,170,3,0,4,29,10.0,7.1,80.0,141.7,22,118,5.4,0,3,3,3,3,3,140,6,11,0,0,24:33,2013,Jets
+5,6,Sun,2013-10-13,boxscore,Loss,0,Home,Steelers,6,19,19,34,184,0,2,3,17,5.9,5.0,55.9,46.7,20,83,4.2,0,2,2,0,0,7,312,3,11,0,0,24:11,2013,Jets
+6,7,Sun,2013-10-20,boxscore,Win,1,Home,Patriots,30,27,17,33,206,1,1,4,27,7.1,5.6,51.5,68.5,52,177,3.4,1,3,3,3,3,6,241,11,21,0,0,46:13,2013,Jets
+7,8,Sun,2013-10-27,boxscore,Loss,0,Away,Bengals,9,49,23,37,147,0,2,4,29,4.8,3.6,62.2,47.9,24,93,3.9,0,3,3,0,0,5,248,6,15,0,1,33:17,2013,Jets
+8,9,Sun,2013-11-03,boxscore,Win,0,Home,Saints,26,20,9,20,140,0,0,2,0,7.0,6.4,45.0,68.7,36,198,5.5,2,4,4,2,2,5,222,4,14,0,0,30:28,2013,Jets
+9,11,Sun,2013-11-17,boxscore,Loss,0,Away,Bills,14,37,12,29,133,1,3,4,30,5.6,4.0,41.4,27.6,23,134,5.8,1,0,1,2,2,6,284,2,11,1,2,26:18,2013,Jets
+10,12,Sun,2013-11-24,boxscore,Loss,0,Away,Ravens,3,19,10,24,118,0,2,3,22,5.8,4.4,41.7,22.6,28,102,3.6,0,1,1,0,0,8,411,1,12,0,0,25:55,2013,Jets
+11,13,Sun,2013-12-01,boxscore,Loss,0,Home,Dolphins,3,23,13,28,78,0,2,4,30,3.9,2.4,46.4,23.5,22,99,4.5,0,1,1,0,0,7,316,2,12,0,2,21:08,2013,Jets
+12,14,Sun,2013-12-08,boxscore,Win,0,Home,Raiders,37,27,16,25,209,1,1,1,10,8.8,8.0,64.0,86.9,32,143,4.5,2,3,3,4,4,2,85,7,13,0,0,29:26,2013,Jets
+13,15,Sun,2013-12-15,boxscore,Loss,0,Away,Panthers,20,30,15,28,140,1,1,4,27,6.0,4.4,53.6,64.6,28,157,5.6,1,2,2,2,2,4,132,8,15,0,0,26:59,2013,Jets
+14,16,Sun,2013-12-22,boxscore,Win,0,Home,Browns,24,13,20,37,214,2,0,0,0,5.8,5.8,54.1,89.2,39,208,5.3,1,1,2,3,3,3,138,12,18,0,1,32:43,2013,Jets
+15,17,Sun,2013-12-29,boxscore,Win,0,Away,Dolphins,20,7,18,28,220,0,0,0,0,7.9,7.9,64.3,88.4,42,154,3.7,2,2,3,2,2,5,210,6,15,0,0,32:24,2013,Jets

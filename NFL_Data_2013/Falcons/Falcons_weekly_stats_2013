@@ -1,0 +1,17 @@
+,Week,Day,Date,Boxscore,Win/Loss,Overtime,Home/Away,Opponent,Team Score,Opponenet Score,Passing Completion,Passing Attempts,Passing Yards,Passing Touchdowns,Passing Interceptions,Passing Sacks,Sack Yards,Passing Yards/Attempts,Net Yards/Attempts,Passing Completion Per.,Passing Rate,Rushing Attempts,Rushing Yards,Rushing Yards/Attempts,Rushing Touchdown,Field Goals Made,Field Goals Attempts,Extra Points Made,Extra Point Attempts,Punts,Total Punt Yards,Third Down Conversions,Third Down Attempts,Fourth Down Conversions,Fourth Down Attemtps,Time of Possesion,Year,Team
+0,1,Sun,2013-09-08,boxscore,Loss,0,Away,Saints,17,23,25,38,279,2,1,3,25,8.0,6.8,65.8,94.1,14,88,6.3,0,1,1,2,2,6,281,3,11,0,1,24:49,2013,Falcons
+1,2,Sun,2013-09-15,boxscore,Win,0,Home,Rams,31,24,33,43,357,2,0,2,17,8.7,7.9,76.7,116.1,16,36,2.3,1,1,1,4,4,6,318,7,13,0,0,30:17,2013,Falcons
+2,3,Sun,2013-09-22,boxscore,Loss,0,Away,Dolphins,23,27,23,38,231,2,1,0,0,6.1,6.1,60.5,84.4,30,146,4.9,0,3,4,2,2,2,66,5,11,0,0,37:09,2013,Falcons
+3,4,Sun,2013-09-29,boxscore,Loss,0,Home,Patriots,23,30,34,54,399,2,1,2,22,7.8,7.1,63.0,90.0,15,58,3.9,0,3,3,2,2,3,137,6,14,0,2,29:21,2013,Falcons
+4,5,Mon,2013-10-07,boxscore,Loss,0,Home,Jets,28,30,37,46,299,2,0,2,12,6.8,6.2,80.4,108.2,22,64,2.9,2,0,0,4,4,3,99,6,12,1,2,35:27,2013,Falcons
+5,7,Sun,2013-10-20,boxscore,Win,0,Home,Buccaneers,31,23,20,26,273,3,0,0,0,10.5,10.5,76.9,148.4,18,18,1.0,0,1,1,4,4,4,192,3,9,0,0,22:11,2013,Falcons
+6,8,Sun,2013-10-27,boxscore,Loss,0,Away,Cardinals,13,27,34,61,265,1,4,4,36,4.9,4.1,55.7,44.8,14,27,1.9,0,2,2,1,1,4,183,8,20,1,2,34:19,2013,Falcons
+7,9,Sun,2013-11-03,boxscore,Loss,0,Away,Panthers,10,34,20,27,211,1,3,1,8,8.1,7.5,74.1,69.1,20,78,3.9,0,1,1,1,1,5,225,4,10,0,0,23:29,2013,Falcons
+8,10,Sun,2013-11-10,boxscore,Loss,0,Home,Seahawks,10,33,23,36,162,1,0,2,10,4.8,4.3,63.9,83.3,16,64,4.0,0,1,1,1,1,5,267,4,12,1,1,24:30,2013,Falcons
+9,11,Sun,2013-11-17,boxscore,Loss,0,Away,Buccaneers,28,41,24,43,268,2,2,3,20,6.7,5.8,55.8,70.7,20,152,7.6,1,2,2,2,2,2,24,1,7,1,2,26:46,2013,Falcons
+10,12,Thu,2013-11-21,boxscore,Loss,0,Home,Saints,13,17,30,39,264,0,0,5,28,7.5,6.0,76.9,94.4,22,91,4.1,1,2,3,1,1,3,136,6,12,0,0,33:46,2013,Falcons
+11,13,Sun,2013-12-01,boxscore,Win,1,Away,Bills,34,31,28,47,272,1,0,6,39,6.6,5.1,59.6,82.9,30,151,5.0,3,2,2,4,4,7,278,10,18,0,0,38:09,2013,Falcons
+12,14,Sun,2013-12-08,boxscore,Loss,0,Away,Packers,21,22,20,35,202,2,1,1,4,5.9,5.6,57.1,80.9,23,83,3.6,0,0,1,3,3,4,178,6,13,0,1,26:28,2013,Falcons
+13,15,Sun,2013-12-15,boxscore,Win,0,Home,Redskins,27,26,29,38,189,1,1,3,21,5.5,4.6,76.3,84.2,21,54,2.6,2,2,2,3,3,6,296,5,14,0,1,33:52,2013,Falcons
+14,16,Mon,2013-12-23,boxscore,Loss,0,Away,49ers,24,34,37,48,341,2,2,1,7,7.3,7.0,77.1,92.4,20,61,3.1,1,1,1,3,3,5,244,8,15,1,1,30:28,2013,Falcons
+15,17,Sun,2013-12-29,boxscore,Loss,0,Home,Panthers,20,21,28,40,231,2,1,9,49,7.0,4.7,70.0,90.7,20,76,3.8,0,2,2,2,2,5,242,7,16,1,1,34:26,2013,Falcons

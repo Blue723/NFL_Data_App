@@ -1,0 +1,17 @@
+,Week,Day,Date,Boxscore,Win/Loss,Overtime,Home/Away,Opponent,Team Score,Opponenet Score,Passing Completion,Passing Attempts,Passing Yards,Passing Touchdowns,Passing Interceptions,Passing Sacks,Sack Yards,Passing Yards/Attempts,Net Yards/Attempts,Passing Completion Per.,Passing Rate,Rushing Attempts,Rushing Yards,Rushing Yards/Attempts,Rushing Touchdown,Field Goals Made,Field Goals Attempts,Extra Points Made,Extra Point Attempts,Punts,Total Punt Yards,Third Down Conversions,Third Down Attempts,Fourth Down Conversions,Fourth Down Attemtps,Time of Possesion,Year,Team
+0,1,Sun,2013-09-08,boxscore,Loss,0,Away,49ers,28,34,21,37,322,3,1,2,11,9.0,8.3,56.8,101.4,19,63,3.3,1,0,0,4,4,6,277,4,10,0,0,21:25,2013,Packers
+1,2,Sun,2013-09-15,boxscore,Win,0,Home,Redskins,38,20,34,42,441,4,0,4,39,11.4,9.6,81.0,142.2,24,139,5.8,1,1,1,5,5,3,121,4,10,1,1,32:29,2013,Packers
+2,3,Sun,2013-09-22,boxscore,Loss,0,Away,Bengals,30,34,26,43,217,1,2,4,27,5.7,4.6,60.5,61.9,30,182,6.1,1,3,3,3,3,3,130,4,13,0,2,31:51,2013,Packers
+3,5,Sun,2013-10-06,boxscore,Win,0,Home,Lions,22,9,20,30,269,1,0,1,5,9.1,8.7,66.7,106.1,33,180,5.5,0,5,5,1,1,3,141,7,16,0,0,32:19,2013,Packers
+4,6,Sun,2013-10-13,boxscore,Win,0,Away,Ravens,19,17,17,32,298,1,1,3,17,9.8,8.5,53.1,82.6,30,140,4.7,0,4,5,1,1,6,329,6,17,0,0,31:22,2013,Packers
+5,7,Sun,2013-10-20,boxscore,Win,0,Home,Browns,31,13,25,36,253,3,0,1,7,7.2,6.8,69.4,117.0,29,104,3.6,1,1,2,4,4,3,90,7,13,0,0,33:22,2013,Packers
+6,8,Sun,2013-10-27,boxscore,Win,0,Away,Vikings,44,31,24,29,282,2,0,2,3,9.8,9.1,82.8,130.2,42,182,4.3,2,3,3,5,5,0,0,13,18,2,2,40:54,2013,Packers
+7,9,Mon,2013-11-04,boxscore,Loss,0,Home,Bears,20,27,12,21,113,0,1,5,28,6.7,4.3,57.1,52.3,29,199,6.9,2,2,2,2,2,6,250,1,9,0,0,26:51,2013,Packers
+8,10,Sun,2013-11-10,boxscore,Loss,0,Home,Eagles,13,27,29,44,297,1,2,1,8,6.9,6.6,65.9,73.8,30,99,3.3,0,2,4,1,1,2,96,7,16,1,2,34:24,2013,Packers
+9,11,Sun,2013-11-17,boxscore,Loss,0,Away,Giants,13,27,24,34,339,0,3,0,0,10.0,10.0,70.6,65.7,20,55,2.8,1,2,2,1,1,4,180,2,8,0,1,24:46,2013,Packers
+10,12,Sun,2013-11-24,boxscore,T,1,Home,Vikings,26,26,28,53,298,1,0,2,18,6.0,5.4,52.8,75.8,34,196,5.8,2,2,2,2,2,8,326,3,16,2,2,34:27,2013,Packers
+11,13,Thu,2013-11-28,boxscore,Loss,0,Away,Lions,10,40,10,20,102,0,1,7,37,7.0,3.8,50.0,44.2,15,24,1.6,0,1,1,1,1,6,287,2,10,0,0,19:34,2013,Packers
+12,14,Sun,2013-12-08,boxscore,Win,0,Home,Falcons,22,21,24,32,222,1,1,5,36,8.1,6.0,75.0,90.9,33,112,3.4,1,3,3,1,1,3,142,7,15,0,0,33:32,2013,Packers
+13,15,Sun,2013-12-15,boxscore,Win,0,Away,Cowboys,37,36,26,39,283,4,1,2,16,7.7,6.9,66.7,111.4,27,150,5.6,1,1,1,4,4,4,197,7,13,0,0,28:18,2013,Packers
+14,16,Sun,2013-12-22,boxscore,Loss,0,Home,Steelers,31,38,21,39,219,1,1,3,13,5.9,5.2,53.8,68.2,30,151,5.0,3,1,1,4,4,5,208,6,14,0,0,33:20,2013,Packers
+15,17,Sun,2013-12-29,boxscore,Win,0,Away,Bears,33,28,25,39,313,2,2,3,5,8.2,7.5,64.1,84.7,34,160,4.7,1,2,2,3,3,2,80,9,18,3,3,35:09,2013,Packers

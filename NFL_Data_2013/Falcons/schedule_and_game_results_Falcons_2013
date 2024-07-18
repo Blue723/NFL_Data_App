@@ -1,17 +1,17 @@
 ,Week,Day,Date,Time,Win/Loss,Overtime,Team Record,Home/Away,Opponent,Points Scored,Points Allowed,Offense 1st Down,Total Yards Gained of Offense,Total yards Gained by Passing,Total Yards Gained by Rushing,Offense Turnovers,Defense 1st Down,Total Yards Allowed by Defense,Total Passing Yards Allowed by Defense,Total Rushing Yards Allowed by Defense,Defense Turnovers,Offense,Defense,Sp. Tms,Team,Year
-0,1,Sun,2013-09-08,nan,Loss,0,0-1,away,New Orleans Saints,17,23,18,367,279,88,2,18,419,341,78,1,-0.68,-4.95,1.41,Falcons,2013
-1,2,Sun,2013-09-15,nan,Win,0,1-1,home,St. Louis Rams,31,24,19,393,357,36,0,24,421,352,69,1,13.68,-4.7,1.07,Falcons,2013
-2,3,Sun,2013-09-22,nan,Loss,0,1-2,away,Miami Dolphins,23,27,24,377,231,146,2,16,285,195,90,2,9.78,-3.18,-12.77,Falcons,2013
-3,4,Sun,2013-09-29,nan,Loss,0,1-3,home,New England Patriots,23,30,26,457,399,58,1,21,448,316,132,0,10.26,-15.86,0.71,Falcons,2013
-4,5,Mon,2013-10-07,nan,Loss,0,1-4,home,New York Jets,28,30,26,363,299,64,1,15,288,170,118,0,17.21,-11.35,-1.95,Falcons,2013
-5,7,Sun,2013-10-20,nan,Win,0,2-4,home,Tampa Bay Buccaneers,31,23,15,291,273,18,1,23,337,226,111,1,10.65,0.57,-3.87,Falcons,2013
-6,8,Sun,2013-10-27,nan,Loss,0,2-5,away,Arizona Cardinals,13,27,20,292,265,27,4,17,348,147,201,1,-12.35,-7.36,5.26,Falcons,2013
-7,9,Sun,2013-11-03,nan,Loss,0,2-6,away,Carolina Panthers,10,34,12,289,211,78,4,27,373,242,131,2,-14.39,-12.95,1.55,Falcons,2013
-8,10,Sun,2013-11-10,nan,Loss,0,2-7,home,Seattle Seahawks,10,33,16,226,162,64,1,25,490,279,211,0,1.69,-23.02,0.11,Falcons,2013
-9,11,Sun,2013-11-17,nan,Loss,0,2-8,away,Tampa Bay Buccaneers,28,41,24,420,268,152,3,24,410,224,186,0,8.07,-14.45,-5.34,Falcons,2013
-10,12,Thu,2013-11-21,nan,Loss,0,2-9,home,New Orleans Saints,13,17,22,355,264,91,1,19,374,271,103,0,7.53,-10.67,-2.73,Falcons,2013
-11,13,Sun,2013-12-01,nan,Win,1,3-9,away,Buffalo Bills,34,31,26,423,272,151,1,19,405,210,195,2,10.51,-7.4,0.15,Falcons,2013
-12,14,Sun,2013-12-08,nan,Loss,0,3-10,away,Green Bay Packers,21,22,18,285,202,83,2,20,334,222,112,2,-2.57,7.14,-5.11,Falcons,2013
-13,15,Sun,2013-12-15,nan,Win,0,4-10,home,Washington Redskins,27,26,19,243,189,54,2,22,476,373,103,7,-12.04,5.58,8.12,Falcons,2013
-14,16,Mon,2013-12-23,nan,Loss,0,4-11,away,San Francisco 49ers,24,34,25,402,341,61,2,20,379,180,199,0,-0.67,-18.81,8.48,Falcons,2013
-15,17,Sun,2013-12-29,nan,Loss,0,4-12,home,Carolina Panthers,20,21,20,307,231,76,1,16,283,149,134,2,-1.88,-1.85,0.96,Falcons,2013
+0,1,Sun,2013-09-08,,Loss,0,0-1,away,Saints,17,23,18,367,279,88,2,18,419,341,78,1,-0.68,-4.95,1.41,Falcons,2013
+1,2,Sun,2013-09-15,,Win,0,1-1,home,Rams,31,24,19,393,357,36,0,24,421,352,69,1,13.68,-4.7,1.07,Falcons,2013
+2,3,Sun,2013-09-22,,Loss,0,1-2,away,Dolphins,23,27,24,377,231,146,2,16,285,195,90,2,9.78,-3.18,-12.77,Falcons,2013
+3,4,Sun,2013-09-29,,Loss,0,1-3,home,Patriots,23,30,26,457,399,58,1,21,448,316,132,0,10.26,-15.86,0.71,Falcons,2013
+4,5,Mon,2013-10-07,,Loss,0,1-4,home,Jets,28,30,26,363,299,64,1,15,288,170,118,0,17.21,-11.35,-1.95,Falcons,2013
+5,7,Sun,2013-10-20,,Win,0,2-4,home,Buccaneers,31,23,15,291,273,18,1,23,337,226,111,1,10.65,0.57,-3.87,Falcons,2013
+6,8,Sun,2013-10-27,,Loss,0,2-5,away,Cardinals,13,27,20,292,265,27,4,17,348,147,201,1,-12.35,-7.36,5.26,Falcons,2013
+7,9,Sun,2013-11-03,,Loss,0,2-6,away,Panthers,10,34,12,289,211,78,4,27,373,242,131,2,-14.39,-12.95,1.55,Falcons,2013
+8,10,Sun,2013-11-10,,Loss,0,2-7,home,Seahawks,10,33,16,226,162,64,1,25,490,279,211,0,1.69,-23.02,0.11,Falcons,2013
+9,11,Sun,2013-11-17,,Loss,0,2-8,away,Buccaneers,28,41,24,420,268,152,3,24,410,224,186,0,8.07,-14.45,-5.34,Falcons,2013
+10,12,Thu,2013-11-21,,Loss,0,2-9,home,Saints,13,17,22,355,264,91,1,19,374,271,103,0,7.53,-10.67,-2.73,Falcons,2013
+11,13,Sun,2013-12-01,,Win,1,3-9,away,Bills,34,31,26,423,272,151,1,19,405,210,195,2,10.51,-7.4,0.15,Falcons,2013
+12,14,Sun,2013-12-08,,Loss,0,3-10,away,Packers,21,22,18,285,202,83,2,20,334,222,112,2,-2.57,7.14,-5.11,Falcons,2013
+13,15,Sun,2013-12-15,,Win,0,4-10,home,Redskins,27,26,19,243,189,54,2,22,476,373,103,7,-12.04,5.58,8.12,Falcons,2013
+14,16,Mon,2013-12-23,,Loss,0,4-11,away,49ers,24,34,25,402,341,61,2,20,379,180,199,0,-0.67,-18.81,8.48,Falcons,2013
+15,17,Sun,2013-12-29,,Loss,0,4-12,home,Panthers,20,21,20,307,231,76,1,16,283,149,134,2,-1.88,-1.85,0.96,Falcons,2013

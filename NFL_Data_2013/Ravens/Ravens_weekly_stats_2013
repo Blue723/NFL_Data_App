@@ -1,0 +1,17 @@
+,Week,Day,Date,Boxscore,Win/Loss,Overtime,Home/Away,Opponent,Team Score,Opponenet Score,Passing Completion,Passing Attempts,Passing Yards,Passing Touchdowns,Passing Interceptions,Passing Sacks,Sack Yards,Passing Yards/Attempts,Net Yards/Attempts,Passing Completion Per.,Passing Rate,Rushing Attempts,Rushing Yards,Rushing Yards/Attempts,Rushing Touchdown,Field Goals Made,Field Goals Attempts,Extra Points Made,Extra Point Attempts,Punts,Total Punt Yards,Third Down Conversions,Third Down Attempts,Fourth Down Conversions,Fourth Down Attemtps,Time of Possesion,Year,Team
+0,1,Thu,2013-09-05,boxscore,Loss,0,Away,Broncos,27,49,34,62,335,2,2,4,27,5.8,5.1,54.8,67.6,21,58,2.8,1,2,2,3,3,10,456,8,22,0,1,33:48,2013,Ravens
+1,2,Sun,2013-09-15,boxscore,Win,0,Home,Browns,14,6,22,33,197,1,0,2,14,6.4,5.6,66.7,92.6,36,99,2.8,1,0,2,2,2,6,291,8,16,0,0,30:35,2013,Ravens
+2,3,Sun,2013-09-22,boxscore,Win,0,Home,Texans,30,9,16,24,161,0,0,2,10,7.1,6.2,66.7,85.6,31,75,2.4,1,3,3,3,3,4,194,8,16,0,0,29:24,2013,Ravens
+3,4,Sun,2013-09-29,boxscore,Loss,0,Away,Bills,20,23,25,50,321,2,5,4,26,6.9,5.9,50.0,44.2,9,24,2.7,0,2,2,2,2,7,331,3,16,1,1,23:34,2013,Ravens
+4,5,Sun,2013-10-06,boxscore,Win,0,Away,Dolphins,26,23,19,32,251,0,1,2,18,8.4,7.4,59.4,71.2,40,133,3.3,2,4,4,2,2,5,171,6,16,0,0,36:16,2013,Ravens
+5,6,Sun,2013-10-13,boxscore,Loss,0,Home,Packers,17,19,20,34,313,2,0,5,29,10.1,8.0,58.8,109.1,22,47,2.1,0,1,1,2,2,9,375,2,14,1,2,28:38,2013,Ravens
+6,7,Sun,2013-10-20,boxscore,Loss,0,Away,Steelers,16,19,24,34,205,1,0,1,10,6.3,5.9,70.6,95.8,26,82,3.2,0,3,3,1,1,3,126,7,14,1,1,28:59,2013,Ravens
+7,9,Sun,2013-11-03,boxscore,Loss,0,Away,Browns,18,24,24,41,223,2,1,5,27,6.1,4.8,58.5,79.6,21,55,2.6,0,1,1,1,1,7,298,7,16,1,1,29:10,2013,Ravens
+8,10,Sun,2013-11-10,boxscore,Win,1,Home,Bengals,20,17,20,36,104,2,2,5,36,3.9,2.5,55.6,56.2,30,85,2.8,0,2,2,2,2,8,355,3,16,0,0,31:35,2013,Ravens
+9,11,Sun,2013-11-17,boxscore,Loss,1,Away,Bears,20,23,17,31,143,1,2,3,19,5.2,4.2,54.8,50.9,41,174,4.2,1,2,2,2,2,4,177,8,18,1,2,35:41,2013,Ravens
+10,12,Sun,2013-11-24,boxscore,Win,0,Home,Jets,19,3,17,27,245,1,1,4,28,10.1,7.9,63.0,89.3,31,67,2.2,0,4,4,1,1,6,273,3,13,0,0,34:05,2013,Ravens
+11,13,Thu,2013-11-28,boxscore,Win,0,Home,Steelers,22,20,24,35,237,1,0,2,14,7.2,6.4,68.6,97.0,25,74,3.0,0,5,5,1,1,1,26,10,17,0,0,29:56,2013,Ravens
+12,14,Sun,2013-12-08,boxscore,Win,0,Home,Vikings,29,26,28,50,228,3,3,2,17,4.9,4.4,56.0,62.7,27,97,3.6,0,0,0,3,3,6,328,6,16,1,3,32:12,2013,Ravens
+13,15,Mon,2013-12-16,boxscore,Win,0,Away,Lions,18,16,20,38,215,0,0,1,7,5.8,5.5,52.6,69.5,21,90,4.3,0,6,6,0,0,5,240,4,14,0,0,27:35,2013,Ravens
+14,16,Sun,2013-12-22,boxscore,Loss,0,Home,Patriots,7,41,23,42,237,0,3,4,25,6.2,5.2,54.8,41.5,28,121,4.3,1,0,1,1,1,4,212,5,14,0,3,28:02,2013,Ravens
+15,17,Sun,2013-12-29,boxscore,Loss,0,Away,Bengals,17,34,30,50,175,1,3,2,17,3.8,3.4,60.0,48.3,14,47,3.4,0,3,3,0,0,6,285,4,15,0,2,26:03,2013,Ravens

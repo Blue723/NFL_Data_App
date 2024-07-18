@@ -1,17 +1,17 @@
 ,Week,Day,Date,Time,Win/Loss,Overtime,Team Record,Home/Away,Opponent,Points Scored,Points Allowed,Offense 1st Down,Total Yards Gained of Offense,Total yards Gained by Passing,Total Yards Gained by Rushing,Offense Turnovers,Defense 1st Down,Total Yards Allowed by Defense,Total Passing Yards Allowed by Defense,Total Rushing Yards Allowed by Defense,Defense Turnovers,Offense,Defense,Sp. Tms,Team,Year
-0,1,Sun,2013-09-08,nan,Loss,0,0-1,home,Miami Dolphins,10,23,20,291,244,47,3,18,275,255,20,1,-12.65,4.1,-2.92,Browns,2013
-1,2,Sun,2013-09-15,nan,Loss,0,0-2,away,Baltimore Ravens,6,14,13,259,194,65,0,19,296,197,99,1,-14.51,1.7,2.4,Browns,2013
-2,3,Sun,2013-09-22,nan,Win,0,1-2,away,Minnesota Vikings,31,27,23,409,306,103,4,21,329,195,134,3,0.57,8.17,-5.36,Browns,2013
-3,4,Sun,2013-09-29,nan,Win,0,2-2,home,Cincinnati Bengals,17,6,18,336,247,89,0,16,266,203,63,2,3.36,11.83,-4.34,Browns,2013
-4,5,Thu,2013-10-03,nan,Win,0,3-2,home,Buffalo Bills,37,24,19,290,199,91,0,20,343,188,155,1,-0.61,5.24,9.28,Browns,2013
-5,6,Sun,2013-10-13,nan,Loss,0,3-3,home,Detroit Lions,17,31,23,395,269,126,2,24,366,248,118,1,5.32,-12.77,-1.52,Browns,2013
-6,7,Sun,2013-10-20,nan,Loss,0,3-4,away,Green Bay Packers,13,31,17,216,133,83,1,26,357,253,104,0,-10.77,-16.79,7.37,Browns,2013
-7,8,Sun,2013-10-27,nan,Loss,0,3-5,away,Kansas City Chiefs,17,23,13,340,283,57,1,20,331,195,136,0,2.76,-4.35,-3.0,Browns,2013
-8,9,Sun,2013-11-03,nan,Win,0,4-5,home,Baltimore Ravens,24,18,19,315,242,73,1,18,278,223,55,2,0.76,-1.29,5.36,Browns,2013
-9,11,Sun,2013-11-17,nan,Loss,0,4-6,away,Cincinnati Bengals,20,41,15,330,228,102,4,10,224,118,106,2,-29.66,24.92,-19.18,Browns,2013
-10,12,Sun,2013-11-24,nan,Loss,0,4-7,home,Pittsburgh Steelers,11,27,19,367,312,55,4,19,302,217,85,0,-21.05,4.91,-2.01,Browns,2013
-11,13,Sun,2013-12-01,nan,Loss,0,4-8,home,Jacksonville Jaguars,28,32,24,439,342,97,3,22,314,202,112,1,1.52,-3.18,-6.44,Browns,2013
-12,14,Sun,2013-12-08,nan,Loss,0,4-9,away,New England Patriots,26,27,24,494,386,108,0,30,484,397,87,2,16.98,-12.46,-5.85,Browns,2013
-13,15,Sun,2013-12-15,nan,Loss,0,4-10,home,Chicago Bears,31,38,20,366,273,93,2,23,440,261,179,3,1.61,-3.55,-3.05,Browns,2013
-14,16,Sun,2013-12-22,nan,Loss,0,4-11,away,New York Jets,13,24,19,283,168,115,2,25,422,214,208,0,-6.13,-16.88,12.01,Browns,2013
-15,17,Sun,2013-12-29,nan,Loss,0,4-12,away,Pittsburgh Steelers,7,20,15,293,214,79,2,17,292,172,120,2,-12.26,1.5,-3.21,Browns,2013
+0,1,Sun,2013-09-08,,Loss,0,0-1,home,Dolphins,10,23,20,291,244,47,3,18,275,255,20,1,-12.65,4.1,-2.92,Browns,2013
+1,2,Sun,2013-09-15,,Loss,0,0-2,away,Ravens,6,14,13,259,194,65,0,19,296,197,99,1,-14.51,1.7,2.4,Browns,2013
+2,3,Sun,2013-09-22,,Win,0,1-2,away,Vikings,31,27,23,409,306,103,4,21,329,195,134,3,0.57,8.17,-5.36,Browns,2013
+3,4,Sun,2013-09-29,,Win,0,2-2,home,Bengals,17,6,18,336,247,89,0,16,266,203,63,2,3.36,11.83,-4.34,Browns,2013
+4,5,Thu,2013-10-03,,Win,0,3-2,home,Bills,37,24,19,290,199,91,0,20,343,188,155,1,-0.61,5.24,9.28,Browns,2013
+5,6,Sun,2013-10-13,,Loss,0,3-3,home,Lions,17,31,23,395,269,126,2,24,366,248,118,1,5.32,-12.77,-1.52,Browns,2013
+6,7,Sun,2013-10-20,,Loss,0,3-4,away,Packers,13,31,17,216,133,83,1,26,357,253,104,0,-10.77,-16.79,7.37,Browns,2013
+7,8,Sun,2013-10-27,,Loss,0,3-5,away,Chiefs,17,23,13,340,283,57,1,20,331,195,136,0,2.76,-4.35,-3.0,Browns,2013
+8,9,Sun,2013-11-03,,Win,0,4-5,home,Ravens,24,18,19,315,242,73,1,18,278,223,55,2,0.76,-1.29,5.36,Browns,2013
+9,11,Sun,2013-11-17,,Loss,0,4-6,away,Bengals,20,41,15,330,228,102,4,10,224,118,106,2,-29.66,24.92,-19.18,Browns,2013
+10,12,Sun,2013-11-24,,Loss,0,4-7,home,Steelers,11,27,19,367,312,55,4,19,302,217,85,0,-21.05,4.91,-2.01,Browns,2013
+11,13,Sun,2013-12-01,,Loss,0,4-8,home,Jaguars,28,32,24,439,342,97,3,22,314,202,112,1,1.52,-3.18,-6.44,Browns,2013
+12,14,Sun,2013-12-08,,Loss,0,4-9,away,Patriots,26,27,24,494,386,108,0,30,484,397,87,2,16.98,-12.46,-5.85,Browns,2013
+13,15,Sun,2013-12-15,,Loss,0,4-10,home,Bears,31,38,20,366,273,93,2,23,440,261,179,3,1.61,-3.55,-3.05,Browns,2013
+14,16,Sun,2013-12-22,,Loss,0,4-11,away,Jets,13,24,19,283,168,115,2,25,422,214,208,0,-6.13,-16.88,12.01,Browns,2013
+15,17,Sun,2013-12-29,,Loss,0,4-12,away,Steelers,7,20,15,293,214,79,2,17,292,172,120,2,-12.26,1.5,-3.21,Browns,2013
