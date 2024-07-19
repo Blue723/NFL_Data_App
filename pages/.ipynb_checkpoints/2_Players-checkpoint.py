@@ -78,21 +78,18 @@ def position_df (year, team, position):
     query = f'''
         select * 
         from df
-        where 
-        (Year = {year}) and
-        (Team = '{team}') 
+        where (Year = {year}) 
+        and (Team = '{team}') 
     '''
 
     df = duckdb.sql(query).df()
     
     return df
-
-#get players from team
-
+    
 
 # position = position_abbrev
 #for bar chart
-def get_player (year, week, position, player):
+def get_player (year, week, team, position, player):
 
     file = f'Weekly Stats/{position}_Player_Weekly_Stats'
 
@@ -103,6 +100,8 @@ def get_player (year, week, position, player):
         from df
         where (Year = {year}) 
         and (Player = '{player}')
+        and (Team = '{team}')
+        order by Week
     '''
 
     df = duckdb.sql(query).df()
@@ -168,8 +167,24 @@ column_select = st.sidebar.selectbox('Select Column', options=list(pos_df.column
 
 
 #player dataframe
-player_df = get_player(year_select, week_select, position, player_select)
+player_df = get_player(year_select, week_select, team_select, position, player_select)
 
 st.write(player_df)
 
-px_bar_charts(player_df, column_select)
+with st.expander(f'{year_select} Week: {week_select} Player: {player_select} Position: {position_select} Stats'):
+
+    c1, c2 = st.columns((5,5))
+    with c1:
+        px_bar_charts(player_df, column_select)
+    with c2:
+        #filter pos df for that week
+        week_filter_pos_df = pos_df[pos_df['Week']==week_select]
+        px_pie_charts(week_filter_pos_df, team_select, column_select)
+
+with st.expander(f'{year_select} {team_select} {position_select}'):
+
+    c1, c2 = st.columns((5,5))
+    with c1:
+        px_bar_charts(pos_df, column_select)
+    with c2:
+        px_pie_charts(pos_df, team_select, column_select)
