@@ -1,13 +1,10 @@
 #pipreqs --force
 
-### 7/10/2024 when internet back on rerun weekly player webscrape inorder to include week column
-########################
-################################   ^^^^^^^  READ ^^^^^^^
-############################################################################################
-
 import pandas as pd
 
 import plotly.express as px
+import plotly.graph_objects as go
+from plotly.subplots import make_subplots
 
 import duckdb
 
@@ -100,7 +97,7 @@ def get_player (year, week, team, position, player):
         from df
         where (Year = {year}) 
         and (Player = '{player}')
-        and (Team = '{team}')
+        and (Team = '{team}') 
         order by Week
     '''
 
@@ -108,12 +105,11 @@ def get_player (year, week, team, position, player):
     
     return df
 
-
 #bar chart
 def px_bar_charts(df: pd, column: str):
     player = df['Player'].iloc[0]
     
-    fig1 = px.bar(
+    fig = px.bar(
         df, 
         x=df['Week'],
         y=df[column], 
@@ -122,14 +118,52 @@ def px_bar_charts(df: pd, column: str):
         labels=df['Player'].iloc[:],
         title=f'{player}'
     )
-    return st.plotly_chart(fig1)
+    return st.plotly_chart(fig)
 
 
 #piechart
 def px_pie_charts(df, team, column):
-    fig1 = px.pie(data_frame=df, values=df[column], names=df['Player'], title=team)
+    fig = px.pie(data_frame=df, values=df[column], names=df['Player'], title=team)
 
-    return st.plotly_chart(fig1)
+    return st.plotly_chart(fig)
+
+
+#get rolling average of selected column
+# this is to compare players performance that week to overall average
+def col_rolling_average (year, team, position, player, column):
+    
+    file = f'Weekly Stats/{position}_Player_Weekly_Stats'
+
+    df = pd.read_csv(file, index_col=0)
+
+    query = f'''   
+        select 
+            Player, Team, Year, Week, Date, "{column}", 
+            ROUND(AVG("{column}") 
+                OVER (ROWS BETWEEN UNBOUNDED PRECEDING AND CURRENT ROW), 2)
+                as "{column} Moving Average",
+            ("{column}" - "{column} Moving Average") "{column} - Moving Average Difference"
+
+        from df
+        where (Year = {year}) 
+        and (Player = '{player}')
+        and (Team = '{team}') 
+        ORDER BY Year, Week
+    '''
+
+    df = duckdb.sql(query).df()
+
+    return df
+
+def roll_avg_px_plot (df, team, column):
+    
+    fig = go.Figure()
+    
+    fig.add_trace(go.Line(x=df['Date'], y=df.iloc[:,5], name=column))
+    fig.add_trace(go.Line(x=df['Date'], y=df.iloc[:,6], name=f"{column} Moving Average"))
+    fig.add_trace(go.Line(x=df['Date'], y=df.iloc[:,7], name=f'{column} - Moving Average Difference'))
+    
+    return st.plotly_chart(fig)
 
 
 ################### Players main st area
@@ -188,3 +222,12 @@ with st.expander(f'{year_select} {team_select} {position_select}'):
         px_bar_charts(pos_df, column_select)
     with c2:
         px_pie_charts(pos_df, team_select, column_select)
+
+
+
+with st.expander(f'Player: {player_select} Position: {position_select} {column_select} Rolling Average'):
+    rolling_avg_df = col_rolling_average(year_select, team_select, position, player_select, column_select)
+    
+    st.write(rolling_avg_df)
+
+    roll_avg_px_plot (rolling_avg_df, team_select, column_select)
