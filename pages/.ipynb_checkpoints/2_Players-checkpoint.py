@@ -208,7 +208,7 @@ player_df = get_player(year_select, week_select, team_select, position, player_s
 
 ############### Main Area
 
-st.title(f'{player_select')
+st.title(f'{player_select}')
 
 
 st.write(player_df)
