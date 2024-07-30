@@ -172,6 +172,7 @@ st.set_page_config(page_title='Players', layout='wide', initial_sidebar_state='e
 
 st.title('Player Results')
 
+
 #side bar selecitons
 year_select = st.sidebar.selectbox('Select Year', options=years)
 team_select = st.sidebar.selectbox('Select Team', options=team_names)
@@ -202,6 +203,13 @@ column_select = st.sidebar.selectbox('Select Column', options=list(pos_df.column
 
 #player dataframe
 player_df = get_player(year_select, week_select, team_select, position, player_select)
+
+
+
+############### Main Area
+
+st.title(f'{player_select')
+
 
 st.write(player_df)
 
