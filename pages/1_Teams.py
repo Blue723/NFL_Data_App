@@ -132,6 +132,7 @@ def df_year (year: int, table):
         select * 
         from table_df 
         where Year = {year}
+        oder by Team
     '''
     
     df = duckdb.sql(query).df()
@@ -184,6 +185,7 @@ def matchup_week_stats(year: int, week: int, team: str, opponent: str):
         select *
         from table_df
         where (Year={year}) and (Week={week}) and (Team='{team}' or Team='{opponent}')
+        oder by Team
     '''
 
     df = duckdb.sql(query).df()
