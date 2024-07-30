@@ -238,7 +238,7 @@ def weekly_px_pie_charts(df, team, column):
 st.set_page_config(page_title='Team', layout='wide', initial_sidebar_state='expanded')
 
 #Title
-st.title('Player Results')
+st.title('Team Results')
 
 #user input dropdown boxes for year team and table
 year_select = st.sidebar.selectbox('Select Year', options=years)
