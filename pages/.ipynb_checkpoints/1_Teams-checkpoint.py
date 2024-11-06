@@ -132,6 +132,7 @@ def df_year (year: int, table):
         select * 
         from table_df 
         where Year = {year}
+        order by Team
     '''
     
     df = duckdb.sql(query).df()
@@ -184,6 +185,7 @@ def matchup_week_stats(year: int, week: int, team: str, opponent: str):
         select *
         from table_df
         where (Year={year}) and (Week={week}) and (Team='{team}' or Team='{opponent}')
+        order by Team
     '''
 
     df = duckdb.sql(query).df()
@@ -238,7 +240,7 @@ def weekly_px_pie_charts(df, team, column):
 st.set_page_config(page_title='Team', layout='wide', initial_sidebar_state='expanded')
 
 #Title
-st.title('Player Results')
+st.title('Team Results')
 
 #user input dropdown boxes for year team and table
 year_select = st.sidebar.selectbox('Select Year', options=years)
